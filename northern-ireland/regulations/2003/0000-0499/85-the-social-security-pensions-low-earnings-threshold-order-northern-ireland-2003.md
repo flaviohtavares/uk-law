@@ -1,0 +1,70 @@
+---
+title: The Social Security Pensions (Low Earnings Threshold) Order (Northern Ireland) 2003
+id: nisr/2003/85
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2003-02-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2003/85
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/85/pdfs/nisr_20030085_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/85/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Pensions (Low Earnings Threshold) Order (Northern Ireland) 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 85
+
+SOCIAL SECURITY
+
+The Social Security Pensions (Low Earnings Threshold) Order (Northern Ireland) 2003
+
+Made
+
+20th February 2003
+
+Coming into operation
+
+6th April 2003
+
+Whereas the Secretary of State for Work and Pensions has made an Order[^f00001] under section 148A of the Social Security Administration Act 1992[^f00002]:
+
+Now, therefore, the Department for Social Development, in exercise of the powers conferred by section 130A of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Social Security Pensions (Low Earnings Threshold) Order (Northern Ireland) 2003 and shall come into operation on 6th April 2003.
+
+## 2. Low earnings threshold
+
+It is hereby directed that, for the purposes of the Contributions and Benefits Act, the low earnings threshold[^f00004] for the tax years following the tax year 2002–2003 shall be £11,200.
+
+Sealed with the Official Seal of the Department for Social Development on 20th February 2003.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Order.)
+
+This Order, which corresponds to an Order (S.I. [2003/324](https://www.legislation.gov.uk/uksi/2003/324)) made by the Secretary of State for Work and Pensions under section 148A of the Social Security Administration Act 1992, directs that the low earnings threshold, for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, for the tax years following 2002–2003 shall be £11,200. The low earnings threshold is used for the purposes of calculating entitlement to the additional pension (the state second pension) in a state retirement pension.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2003/324](https://www.legislation.gov.uk/uksi/2003/324)
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 130A was inserted by section 32 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4). *See also* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: *See* section 44A of the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7); section 44A was inserted by section 29(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by paragraph 30 of Schedule 1 to the National Insurance Contributions Act [2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19) subject to section 8(2) of that Act and Article 2(2)(a)(i) of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321); *see also* Article 2 of [S.R. 2002 No. 57](https://www.legislation.gov.uk/nisr/2002/57)

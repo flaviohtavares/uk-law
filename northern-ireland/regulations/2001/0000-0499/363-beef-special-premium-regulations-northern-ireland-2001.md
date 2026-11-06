@@ -1,0 +1,295 @@
+---
+title: Beef Special Premium Regulations (Northern Ireland) 2001
+id: nisr/2001/363
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-10-09'
+text_date: '2005-05-12'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/363
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/363/pdfs/nisr_20010363_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/363/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Beef Special Premium Regulations (Northern Ireland) 2001
+
+> Text as at 2005-05-12.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 363
+
+AGRICULTURE
+
+Beef Special Premium Regulations (Northern Ireland) 2001
+
+Made
+
+9th October 2001
+
+Coming into operation
+
+16th October 2001
+
+The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## Part I — Introduction
+
+### 1. Citation and commencement[^key-eb8837ecb91a27d1473ed12255f41921]
+
+These Regulations may be cited as the Beef Special Premium Regulations (Northern Ireland) 2001 and shall come into operation on 16th October 2001.
+
+### 2. Interpretation[^key-0a402b7e7ed53966b324f0b3605dbc8b]
+
+(1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(2) In these Regulations—
+
+- “applicant” means a producer who has made an application for beef special premium;
+- “authorised person” means a person who is authorised by the Department, either generally or specifically, to act in matters arising under these Regulations;
+- “beef special premium” means the first premium, the second premium or the bull premium;
+- “bovine animal” means a male bovine animal within the meaning of Article 1(2)(*a*) of Council Regulation 1254/1999;
+- “bovine animal in the first age bracket” means a steer which on the date of the commencement of the retention period for it is not less than seven months old but is less than 20 months old;
+- “bovine animal in the second age bracket” means a steer which on the date of the commencement of the retention period for it is not less than 20 months old;
+- “bull” means an uncastrated bovine animal which on the date of the commencement of the retention period for it is not less than seven months old;
+- “bull premium” means the premium payable in respect of bulls pursuant to Article 4(2)(*a*) of Council Regulation 1254/1999;
+- “Commission Regulation 3887/92” means Commission Regulation [(EEC) No. 3887/92](https://www.legislation.gov.uk/european/regulation/1992/3887) laying down detailed rules for applying the integrated administration and control system for certain Community aid schemes[^f00004];
+- “Commission Regulation 2629/97” means Commission Regulation [(EC) No. 2629/97](https://www.legislation.gov.uk/european/regulation/1997/2629) laying down detailed rules for the implementation of Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards eartags, holding registers and passports in the framework of the system for the identification and registration of bovine animals[^f00005];
+- “Commission Regulation 2342/1999” means Commission Regulation[^key-de6cfe2756616a8d9a8456a585975823] [(EC) No. 2342/1999](https://www.legislation.gov.uk/european/regulation/1999/2342) laying down detailed rules for the application of Council Regulation [(EC) No. 1254/1999](https://www.legislation.gov.uk/european/regulation/1999/1254) on the common organisation of the market in beef and veal as regards premium schemes (as amended by Commission Regulation [(EC) No. 1042/2000](https://www.legislation.gov.uk/european/regulation/2000/1042), Commission Regulation [(EC) No. 1900/2000](https://www.legislation.gov.uk/european/regulation/2000/1900), Commission Regulation [(EC) No. 2733/2000](https://www.legislation.gov.uk/european/regulation/2000/2733), Commission Regulation [(EC) No. 192/2001](https://www.legislation.gov.uk/european/regulation/2001/0192), Commission Regulation [(EC) No. 1458/2001](https://www.legislation.gov.uk/european/regulation/2001/1458), Commission Regulation [(EC) No. 2088/2001](https://www.legislation.gov.uk/european/regulation/2001/2088), Commission Regulation [(EC) No. 169/2002](https://www.legislation.gov.uk/european/regulation/2002/0169) and Commission Regulation [(EC) No. 1830/2002](https://www.legislation.gov.uk/european/regulation/2002/1830));
+- “Council Regulation 3508/92” means Council Regulation [(EEC) No. 3508/92](https://www.legislation.gov.uk/european/regulation/1992/3508) establishing an integrated administration and control system for certain Community aid schemes[^f00011];
+- “Council Regulation 820/97” means Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products[^f00012];
+- “Council Regulation 1254/1999” means Council Regulation [(EC) No. 1254/1999](https://www.legislation.gov.uk/european/regulation/1999/1254) on the common organisation of the market in beef and veal[^f00013];
+- “Department” means the Department of Agriculture and Rural Development;
+- “electronic communication” has the same meaning as in the Electronic Communications Act 2000[^f00014];
+- “first premium” means the premium payable in respect of bovine animals in the first age bracket pursuant to the first indent of Article 4(2)(*b*) of Council Regulation 1254/1999;
+- “forage area” has the same meaning as in Article 12(2)(*b*) of Council Regulation 1254/1999;
+- “holding” has the same meaning as in Article 3(*b*) of Council Regulation 1254/1999;
+- “the IACS Regulations” means the Integrated Administration and Control System Regulations 1993[^f00015];
+- “livestock unit” means the unit of measurement used to establish the stocking density of the forage area on a holding, and calculated in accordance with Article 12 of, and Annex III to, Council Regulation 1254/1999;
+- “national administrative document” means the administrative document provided for in Article 4(3)(*b*) of Council Regulation 1254/1999;
+- “overgrazing” means grazing land with livestock in such numbers as adversely to affect the growth, quality or species composition of vegetation (other than vegetation normally grazed to destruction) on that land to a significant degree;
+- “producer” has the same meaning as in Article 3(*a*) of Council Regulation 1254/1999;
+- “regional ceiling” means the maximum number of—
+  - (a) bovine animals in the first age bracket; and
+  - (b) bulls,
+
+  entitled to benefit from first premium or bull premium, as the case may be, in the United Kingdom in any calendar year, and referred to in Article 4(4) of, and Annex I to, Council Regulation 1254/1999;
+- “Regulation 1760/2000” means Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820)[^f00016];
+- “relevant competent authority” has the same meaning as in the IACS Regulations;
+- “retention period” means the retention period for bovine animals referred to in Article 4(3)(*a*) of Council Regulation 1254/1999 and starting, subject to regulation 6, as provided for in Article 5 of Commission Regulation 2342/1999;
+- “scheme year” means any calendar year in respect of which beef special premium may be paid and includes any part of a retention period in relation to an application for that premium in respect of a given scheme year which falls within the following calendar year;
+- “second premium” means the premium payable in respect of bovine animals in the second age bracket pursuant to the second indent of Article 4(2)(*b*) of Council Regulation 1254/1999;
+- “specified control measure” means any check which a Member State is required to carry out under Article 6 of Commission Regulation 3887/92;
+- “specified record” means any record which an applicant is required to retain or has retained pursuant to—
+  - (a) regulation 9(1);
+  - (b) Article 3 of the Animals (Records) Order (Northern Ireland) 1997[^f00017];
+  - (c) Article 7(1) and (4) of Council Regulation 820/97 and the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998[^f00018];
+  - (d) Article 7(1) and (4) of Regulation 1760/2000 and the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998;
+- “steer” means a castrated bovine animal; and
+- “unsuitable supplementary feeding methods” means providing supplementary feed (other than to maintain livestock during abnormal weather conditions) in such a manner as to result in damage to vegetation through excessive trampling or poaching of land by animals or excessive rutting by vehicles.
+
+(2) Other expressions used in these Regulations have, in so far as the context admits, the same meanings as in Council Regulation 1254/1999, Commission Regulation 2342/1999 and Commission Regulation 3887/92.
+
+(3) In these Regulations any reference to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is subsequently capable of being reproduced.
+
+### 3. Application[^key-e5fcf4757d8a997b1f97a0a69a327954]
+
+These Regulations shall apply to applicants, and in relation to the holdings of such applicants, to the extent that the Department is the relevant competent authority in relation to their holdings for the purposes of the IACS Regulations.
+
+## Part II — National administrative document
+
+### 4. National administrative document[^key-72e36e506f81f6e40ed5efeb83a9eeda]
+
+The national administrative document shall take the form of a comprehensive list held by the Department in accordance with the provisions of Article 4(3)(*d*) of Commission Regulation 2342/1999.
+
+## Part III — Beef special premium
+
+### 5. Specific requirements relating to applications for beef special premium[^key-12a613201b0055c6c36037bd0d739fcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Commencement of retention period[^key-12a613201b0055c6c36037bd0d739fcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Overgrazing[^key-12a613201b0055c6c36037bd0d739fcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Unsuitable supplementary feeding methods[^key-12a613201b0055c6c36037bd0d739fcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Retention of records[^key-12a613201b0055c6c36037bd0d739fcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — General
+
+### 10. Powers of authorised persons[^key-97643f4a250c5619ee05b2a76f9f7e8f]
+
+(1) An authorised person may at all reasonable hours and on producing, if so required, some duly authenticated document showing his authority, exercise the powers specified in this regulation for the purposes of—
+
+- (a) carrying out any specified control measure, or
+- (b) ascertaining whether an offence under regulation 14(*d*) has been or is being committed.
+
+(2) An authorised person may enter any land, other than land used only as a dwelling, which is, or which such person has reasonable cause to believe to be, a holding occupied by, or in the possession of, an applicant.
+
+(3) An authorised person who has entered any land by virtue of paragraph (2) may—
+
+- (a) inspect and verify the total area of land, including forage area, farmed by an applicant;
+- (b) inspect, identify and count any bovine animals on that land;
+- (c) carry out any other activity which is a specified control measure; and
+- (d) inspect that land for the purpose of determining whether or not it has been overgrazed or unsuitable supplementary feeding methods have been used on it.
+
+(4) An authorised person entering any land by virtue of this regulation may take with him such other persons as he considers necessary.
+
+(5) An authorised person may—
+
+- (a) require an applicant or any employee, servant or agent of an applicant to produce any specified record and to supply such additional information in that person’s possession or under his control relating to an application for beef special premium as the authorised person may reasonably request;
+- (b) inspect any specified record and, where any specified record is kept by means of a computer, have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with that specified record;
+- (c) require that copies of, or extracts from, any specified record be produced; and
+- (d) seize and retain any specified record which he has reason to believe may be required as evidence in proceedings under these Regulations and, where any such record is kept by means of a computer, require it to be produced in a form in which it may be taken away.
+
+### 11. Assistance to authorised persons[^key-cd42871cc2c8abab79e0a7ca45749a3b]
+
+An applicant or any employee, servant or agent of an applicant shall give to an authorised person such assistance as the authorised person may reasonably request so as to enable the authorised person to exercise any power conferred by regulation 10 and in particular, in relation to any bovine animals, shall arrange for the collection, penning and securing of such bovine animals, if so requested.
+
+### 12. Withholding and recovery of premium[^key-dafe684d05a0b478d670bdd75fffc380]
+
+(1) Where at any time during a scheme year an applicant fails to—
+
+- (a) comply with the requirements of regulation 9(1);
+- (b) comply with the requirements of Article 7(4) of Regulation 1760/2000, the Cattle Identification (Enforcement) Regulations (Northern Ireland) 1998, or the Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^f00026]; or
+- (c) in the reasonable opinion of the Department, keep any specified record in a form which is accurate and up to date,
+
+the Department may withhold or recover on demand the whole or any part of any beef special premium payable or, as the case may be, paid to the applicant in respect of that scheme year.
+
+(2) Where an applicant intentionally obstructs an authorised person, or a person accompanying such authorised person and acting under his instructions, from exercising a power conferred by regulation 10, or fails without reasonable excuse to comply with a request made by an authorised person when exercising such a power, the Department shall be entitled to recover on demand from that applicant the whole or any part of any beef special premium paid to him.
+
+(3) Where a person (other than an applicant) intentionally obstructs an authorised person, or a person accompanying such authorised person and acting under his instructions, from exercising a power conferred by regulation 10, or fails, without reasonable excuse, to comply with a request made by an authorised person for the purpose of exercising such a power, the Department shall be entitled where such person was at the time of such obstruction or failure an employee, servant or agent of an applicant, to recover on demand from that applicant the whole or any part of any beef special premium paid to that applicant.
+
+### 13. Rate of interest[^key-345a80af1e18e4de405326c57719c6c0]
+
+Except where the Department recovers from any applicant any beef special premium or part of any such premium paid to that applicant as a result of an error of the Department, for the purpose of Article 14(1) of Commission Regulation 3887/92, interest shall be charged at the rate of one percentage point above the sterling three months London Interbank Offered Rate on a day to day basis for the period specified in that Article.
+
+### 14. Offences[^key-1f3f2d54f3766e349c211fec10cd5968]
+
+It shall be an offence for a person—
+
+- (a) without reasonable excuse, to fail to comply with the provisions of regulation 9(1);
+- (b) intentionally to obstruct an authorised person in the exercise of a power conferred by regulation 10;
+- (c) without reasonable excuse, to fail to comply with a request made under regulation 11; or
+- (d) knowingly or recklessly—
+  - (i) to make a statement which is false or misleading in a material particular where the statement is made in a specified record; or
+  - (ii) to make a statement or furnish any information which is false or misleading in a material particular where the statement is made or the information is furnished for the purposes of obtaining for himself or any other person the whole or any part of any beef special premium.
+
+### 15. Punishment of offences[^key-f61220e3f70436aa45c8ee452a291ac2]
+
+(1) A person guilty of an offence under regulation 14(*a*), (*b*) or (*c*) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) A person guilty of an offence under regulation 14(*d*) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 16. Time limit for prosecutions[^key-1002924aee2129f65b16bb639c157ee1]
+
+(1) Proceedings for an offence under regulation 14 may, subject to paragraph (2), be brought within the period of six months from the date on which evidence sufficient in the opinion of the prosecutor to warrant proceedings comes to his knowledge.
+
+(2) No such proceedings shall be brought by virtue of this regulation more than twelve months after the commission of the offence.
+
+(3) For the purpose of this regulation, a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in his opinion to warrant the proceedings came to his knowledge shall be conclusive evidence of that fact.
+
+(4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+### 17. Revocations and saving[^key-abb95de38d63ec45e23ac415df14ff73]
+
+(1) Subject to paragraph (2), the Beef Special Premium (Protection of Payments) Regulations (Northern Ireland) 1996[^f00027] (“the 1996 Regulations”) are hereby revoked in so far as they apply to the extent to which these Regulations apply pursuant to regulation 3.
+
+(2) Paragraph (1) shall not affect the continued operation of regulations 10 to 18 of the 1996 Regulations in respect of Community premium (within the meaning of those Regulations) paid under those Regulations.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 9th October 2001.
+
+R. Jordan
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+(This note is not part of the Regulations.)
+
+These Regulations, which come into operation on 16th October 2001, replace the provisions of the Beef Special Premium (Protection of Payments) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 611](https://www.legislation.gov.uk/nisr/1996/611)).
+
+The Regulations lay down implementing measures for the beef special premium scheme provided for in Article 4 of Council Regulation [(EC) No. 1254/1999](https://www.legislation.gov.uk/european/regulation/1999/1254) on the common organisation of the market in beef and veal (O.J. No. L160, 26.6.1999, p. 21) (“the Council Regulation”). They provide for the administration of the scheme in relation to applicants and their holdings where those holdings are situated wholly in Northern Ireland, and also holdings situated partly in Northern Ireland and partly elsewhere in the United Kingdom, where the Department of Agriculture and Rural Development (“the Department”) is responsible for processing the farmer’s claim for beef special premium (regulations 5 to 9). They also lay down enforcement provisions (regulations 10 to 16).
+
+The rules relating to administration provide for the submission of applications for beef special premium (regulations 5 and 6) and the retention of records by applicants (regulation 9), impose sanctions for overgrazing and the use of unsuitable supplementary feeding methods (which are included as a condition of the scheme by virtue of Article 3 of Council Regulation [(EC) No. 1259/1999](https://www.legislation.gov.uk/european/regulation/1999/1259) establishing common rules for direct support schemes under the common agricultural policy (O.J. No. L160, 26.6.1999, p. 113)) (regulations 7 and 8), and provide for withholding or recovery of beef special premium where there is a breach of the rules of the scheme (regulations 12 and 13).
+
+The enforcement provisions confer powers of entry, inspection and collection of evidence on authorised persons (regulations 10 and 11). These include the powers required under Article 6 of Commission Regulation [(EC) No. 3887/92](https://www.legislation.gov.uk/european/regulation/1992/3887) laying down detailed rules for applying the integrated administration and control system for certain Community aid schemes (O.J. No. L391, 31.12.92, p. 36, as last amended by Commission Regulation [(EC) No. 882/2001](https://www.legislation.gov.uk/european/regulation/2001/0882) (O.J. No. L123, 4.5.2001, p. 20)). Regulations 14 to 16 deal with offences and penalties.
+
+Under Article 4(3)(*b*) of the Council Regulation an animal must, in order to qualify for beef special premium, be covered by an animal passport referred to in Aricle 6 of Regulation [(EC) 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products (O.J. No. L204, 11.8.2000, p. 1) or, if not available, a national administrative document. Regulation 4 of these Regulations provides that the national administrative document shall take the form of a comprehensive list held by the Department in accordance with the provisions of Article 4(3)(*d*) of Commission Regulation [(EC) No. 2342/1999](https://www.legislation.gov.uk/european/regulation/1999/2342) laying down detailed rules for the application of the Council Regulation (O.J. No. L281, 4.11.1999, p. 30).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-eb8837ecb91a27d1473ed12255f41921]: Commencement: Reg. 1 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-0a402b7e7ed53966b324f0b3605dbc8b]: Commencement: Reg. 2 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00004]: Footnote: O.J. No. L391, 31.12.92, p. 36, as last amended by Commission Regulation [(EC) No. 882/2001](https://www.legislation.gov.uk/european/regulation/2001/0882) (O.J. No. L123, 4.5.2001, p. 20)
+
+[^f00005]: Footnote: O.J. No. L354, 30.12.97, p. 19
+
+[^key-de6cfe2756616a8d9a8456a585975823]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2001/363/regulation/2/2) substituted (1.1.2003) by [Beef Special Premium (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/335)](https://www.legislation.gov.uk/nisr/2002/335), [regs. 1](https://www.legislation.gov.uk/nisr/2002/335/regulation/1), [4](https://www.legislation.gov.uk/nisr/2002/335/regulation/4)
+
+[^f00011]: Footnote: O.J. No. L355, 5.12.92, p. 1, as last amended by Commission Regulation [(EC) No. 1593/2000](https://www.legislation.gov.uk/european/regulation/2000/1593) (O.J. No. L182, 21.7.2000, p. 4)
+
+[^f00012]: Footnote: O.J. No. L117, 7.5.97, p. 1, repealed by Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council (O.J. No. L204, 11.8.2000, p. 1)
+
+[^f00013]: Footnote: O.J. No. L160, 26.6.1999, p. 21 as last amended by Council Regulation [(EC) No. 1512/2001](https://www.legislation.gov.uk/european/regulation/2001/1512) (O.J. No. L201, 26.7.2001, p. 1)
+
+[^f00014]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7)
+
+[^f00015]: Footnote: [S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317) as amended by [S.I. 1994/1134](https://www.legislation.gov.uk/uksi/1994/1134), [1997/1148](https://www.legislation.gov.uk/uksi/1997/1148), [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and [2000/2573](https://www.legislation.gov.uk/uksi/2000/2573)
+
+[^f00016]: Footnote: O.J. No. L204, 11.8.2000, p. 1
+
+[^f00017]: Footnote: [S.R. 1997 No.172](https://www.legislation.gov.uk/nisr/1997/172) amended by [S.R. 1998 No. 27](https://www.legislation.gov.uk/nisr/1998/27) and [S.R. 2000 No. 344](https://www.legislation.gov.uk/nisr/2000/344)
+
+[^f00018]: Footnote: [S.R. 1998 No. 27](https://www.legislation.gov.uk/nisr/1998/27)
+
+[^key-e5fcf4757d8a997b1f97a0a69a327954]: Commencement: Reg. 3 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-72e36e506f81f6e40ed5efeb83a9eeda]: Commencement: Reg. 4 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-12a613201b0055c6c36037bd0d739fcd]: Textual amendment: [Regs. 5-9](https://www.legislation.gov.uk/nisr/2001/363/regulation/5) revoked (12.5.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/256)](https://www.legislation.gov.uk/nisr/2005/256), [regs. 1](https://www.legislation.gov.uk/nisr/2005/256/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2005/256/schedule/2) (with [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16/3))
+
+[^key-97643f4a250c5619ee05b2a76f9f7e8f]: Commencement: Reg. 10 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-cd42871cc2c8abab79e0a7ca45749a3b]: Commencement: Reg. 11 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-dafe684d05a0b478d670bdd75fffc380]: Commencement: Reg. 12 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^f00026]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279)
+
+[^key-345a80af1e18e4de405326c57719c6c0]: Commencement: Reg. 13 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-1f3f2d54f3766e349c211fec10cd5968]: Commencement: Reg. 14 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-f61220e3f70436aa45c8ee452a291ac2]: Commencement: Reg. 15 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-1002924aee2129f65b16bb639c157ee1]: Commencement: Reg. 16 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^key-abb95de38d63ec45e23ac415df14ff73]: Commencement: Reg. 17 in operation at 16.10.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/363/regulation/1)
+
+[^f00027]: Footnote: [S.R. 1996 No. 611](https://www.legislation.gov.uk/nisr/1996/611)

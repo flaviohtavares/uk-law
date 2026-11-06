@@ -1,0 +1,45 @@
+---
+title: The Air Quality Standards Regulations (Northern Ireland) 2007, SCHEDULE 11
+act: The Air Quality Standards Regulations (Northern Ireland) 2007
+section: schedule-11
+status: repealed
+text_date: '2010-06-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/265/schedule/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality Standards Regulations (Northern Ireland) 2007, SCHEDULE 11
+
+> This provision is no longer in force.
+>
+> Extent: Northern Ireland.
+
+## SCHEDULE 11 — Public information where alert or information thresholds are exceeded[^key-2dd3a80c56069de5b9eb65e90811aba8]
+
+*Extent: N.I.*
+
+**No longer in force.**
+
+Regulation 24(1)
+
+### PART 1 — Alert thresholds for nitrogen dioxide and sulphur dioxide[^key-2dd3a80c56069de5b9eb65e90811aba8]
+
+**1.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Alert and information thresholds for ozone[^key-2dd3a80c56069de5b9eb65e90811aba8]
+
+**2.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-2dd3a80c56069de5b9eb65e90811aba8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)

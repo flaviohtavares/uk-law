@@ -1,0 +1,245 @@
+---
+title: The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
+id: nisr/1996/108
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1996-03-12'
+text_date: '2008-10-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/108
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/108/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
+
+> Text as at 2008-10-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 108
+
+SOCIAL SECURITY
+
+STATUTORY MATERNITY PAY; STATUTORY SICK PAY
+
+The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
+
+Made
+
+12th March 1996
+
+Coming into operation
+
+6th April 1996
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 149(5)(*b*), 152(1), 158(1), 159(1), 166(1) and 167(1) of, and paragraph 6(1) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 122 of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and of all other powers enabling it in that behalf, and with the concurrence of the Inland Revenue in so far as their concurrence is required, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-6e23091d16dabdae9123426db8705ba6]
+
+(1) These Regulations may be cited as the Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1996.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Amendment of the Social Security (Contributions) Regulations[^key-19c8013d7e27f763cb953c32d8b6aa46]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Statutory Sick Pay (General) Regulations[^key-02ccf31b64c691c5d0a00686fde7b9c8]
+
+(1) The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00011] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 1(2) (interpretation) after the definition of “Part II” there shall be inserted the following definition—
+
+> - “income tax month” means the period beginning on the 6th day of any calendar month and ending on the 5th day of the following calendar month;
+
+.
+
+(3) In regulation 7(2) (time and manner of notification of incapacity for work)—
+
+- (a) after the word “given” where it first occurs there shall be inserted “one month”;
+- (b) after “it later” there shall be inserted “or, if in the particular circumstances that is not practicable, as soon as it is reasonable practicable thereafter”.
+
+(4) In regulation 13[^f00012] (records to be maintained by employers)—
+
+- (a) in paragraph (1) at the end of sub-paragraph (*a*) there shall be inserted “and” and for sub-paragraphs (*b*) to (*d*) there shall be substituted the following sub-paragraph—
+
+  > - (b) any payment of statutory sick pay made in respect of any day recorded under sub-paragraph (*a*).
+
+  ;
+- (b) paragraphs (2) to (5) are hereby revoked.
+
+(5) In regulation 15[^f00013] (provision of information by employers to employees)—
+
+- (a) in paragraph (1)—
+  - (i) at the beginning there shall be inserted “Subject to paragraph (1A),”;
+  - (ii) after “purpose,” there shall be inserted “or in a form in which it can be processed by equipment operating automatically in response to instructions given for that purpose,”;
+- (b) after paragraph (1) there shall be inserted the following paragraph—
+
+  > (1A) For the purposes of paragraph (1), where, in the particular circumstances of a case, it is not practicable for the employer to furnish the information within the specified time mentioned in paragraph (2), (3), (4)(*b*)(ii) or (5), he shall, not later than the first pay day within the meaning of regulation 9(1) immediately following the relevant specified time, furnish the information to his employee.
+
+  ;
+- (c) in paragraph (4)(*b*)[^f00014] the words from “or, if later” to the end shall be omitted.
+
+(6)[^key-c2ad14e903c99510de6dcdf0b3680497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations[^key-bc007a1b13ad31d86eeffe6d494c1320]
+
+(1) The Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations (Northern Ireland) 1982[^f00017] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) before the definition of “the Order” there shall be inserted the following definition—
+
+  > - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+  ;
+- (b) after the definition of “Part II” there shall be inserted the following definition—
+
+  > - “the Contributions Regulations” means the Social Security (Contributions) Regulations (Northern Ireland) 1979;
+
+  .
+
+(3) After regulation 4 (persons in other member States — meaning of “employee”) there shall be inserted the following regulation—
+
+> **4A. Persons absent from Northern Ireland — meaning of “employee”**
+>
+> Subject to regulations 4, 5(2), 6(2) and 7, where a person, while absent from Northern Ireland for any purpose, is gainfully employed by an employer who is liable to pay in respect of him secondary Class 1 contributions under section 6 of the Contributions and Benefits Act or regulation 112 of the Contributions Regulations[^f00018], he shall be treated as an employee for the purposes of Part XI of that Act.
+
+.
+
+(4) For regulation 8 (persons abroad — period of entitlement ending or not arising) there shall be substituted the following regulation—
+
+> **8. Persons abroad — general**
+>
+> Where a mariner or an airman within the meaning of regulation 5(1) or 6, or a person who is an employee, or is treated as an employee under regulation 4 or 4A, is incapable of work during a period of entitlement to statutory sick pay while absent from Northern Ireland, his entitlement to statutory sick pay shall cease only if he fails to satisfy the conditions of entitlement under Part XI of the Contributions and Benefits Act, notwithstanding that his employer ceases, during the period of entitlement, to be liable to pay in respect of him secondary Class 1 contributions under section 6 of that Act or regulation 112 of the Contributions Regulations.
+
+.
+
+(5) Regulations 9 and 10 are hereby revoked.
+
+## 5. Amendment of the Statutory Maternity Pay (Persons Abroad and Mariners) Regulations[^key-d21d9acf2a5fd7bb84648fabe110d3ab]
+
+(1) The Statutory Maternity Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 1987[^f00019] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) before the definition of “the Order” there shall be inserted the following definition—
+
+  > - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+  ;
+- (b) after the definition of “Part VI” there shall be inserted the following definition—
+
+  > - “the Contributions Regulations” means the Social Security (Contributions) Regulations (Northern Ireland) 1979;
+
+  .
+
+(3) After regulation 2 (persons in other member States — meaning of “employee”) there shall be inserted the following regulation—
+
+> **2A. Persons absent from Northern Ireland — meaning of “employee”**
+>
+> Subject to regulations 2, 3 and 7(3), where a woman, while absent from Northern Ireland for any purpose, is gainfully employed by an employer who is liable to pay in respect of her secondary Class 1 contributions under section 6 of the Contributions and Benefits Act or regulation 112 of the Contributions Regulations, she shall be treated as an employee for the purposes of Part XII of that Act.
+
+.
+
+(4) Regulation 4 is hereby revoked.
+
+(5) In regulation 5 (women who worked in the European Community)—
+
+- (a) in paragraph (1)(*b*) for “2 years” there shall be substituted “26 weeks”;
+- (b) paragraph (2) is hereby revoked.
+
+(6) Regulation 8 is hereby revoked.
+
+## 6. Transitional provision[^key-56d104c420e40478fde49d9839e46212]
+
+Where a woman’s expected day of confinement falls in a week which begins before 18th August 1996, the Statutory Maternity Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 1987 shall have effect as if regulation 5 of these Regulations had not been made.
+
+## 7. Revocations[^key-f4bd384d0d630191a467d1e7b8ff5eb2]
+
+The following Regulations are hereby revoked—
+
+- (a) regulation 4(9)(*b*) and (*c*) of the Social Security (Contributions) (Amendment No. 3) Regulations (Northern Ireland) 1983[^f00020];
+- (b) regulation 6 of the Statutory Sick Pay (General) (Amendment) Regulations (Northern Ireland) 1986[^f00021].
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland
+
+L. Frew
+
+Assistant Secretary
+
+on 12th March 1996.
+
+The Commissioners of Inland Revenue hereby concur.
+
+S. C. T. Matheson
+
+G. H. Bush
+
+Two of the Commissioners of Inland Revenue
+
+15th March 1996
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Security (Contributions) Regulations (Northern Ireland) 1979, the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982, the Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations (Northern Ireland) 1982 and the Statutory Maternity Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 1987.
+
+These Regulations make provision enabling statutory sick pay and statutory maternity pay to be paid to employees (including mariners and airmen) who go outside Northern Ireland for any purpose; and reduce the extent of the records an employer is required to maintain (regulations 2, 3, 4 and 5).
+
+As regards statutory sick pay alone the Regulations also make provision reducing the time limit within which an employee may notify his employer of sickness absence where there is good cause for delay; and introduce flexibility into the manner in which, and the time limit within which, an employer is required to provide information to his employees (regulations 2 and 3).
+
+The Regulations make a transitional provision in respect of women whose expected weeks of confinement fall before 18th August 1996 (regulation 6).
+
+The Regulations also make consequential revocations (regulation 7).
+
+These Regulations correspond to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); sections 159(1) and 167(1) are cited because of the power conferred in the meaning of the expression “employee”
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 122 is amended by paragraph 48 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
+
+[^key-6e23091d16dabdae9123426db8705ba6]: Commencement: Reg. 1 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-19c8013d7e27f763cb953c32d8b6aa46]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/108/regulation/2) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
+
+[^key-02ccf31b64c691c5d0a00686fde7b9c8]: Commencement: Reg. 3 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending regulations are [S.R. 1984 No. 91](https://www.legislation.gov.uk/nisr/1984/91), [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83), [S.R. 1987 No. 248](https://www.legislation.gov.uk/nisr/1987/248) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^f00012]: Footnote: Regulation 13 was amended by [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83)
+
+[^f00013]: Footnote: Regulation 15 was amended by [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^f00014]: Footnote: Paragraph (4)(*b*) was substituted by [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83)
+
+[^key-c2ad14e903c99510de6dcdf0b3680497]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/1996/108/regulation/3/6) revoked (27.10.2008) by [The Statutory Sick Pay (General) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/356)](https://www.legislation.gov.uk/nisr/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/356/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/356/regulation/3)
+
+[^key-bc007a1b13ad31d86eeffe6d494c1320]: Commencement: Reg. 4 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+
+[^f00017]: Footnote: [S.R. 1982 No. 306](https://www.legislation.gov.uk/nisr/1982/306)
+
+[^f00018]: Footnote: Regulation 112 was amended by [S.R. 1992 No. 41](https://www.legislation.gov.uk/nisr/1992/41)
+
+[^key-d21d9acf2a5fd7bb84648fabe110d3ab]: Commencement: Reg. 5 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1987 No. 171](https://www.legislation.gov.uk/nisr/1987/171)
+
+[^key-56d104c420e40478fde49d9839e46212]: Commencement: Reg. 6 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+
+[^key-f4bd384d0d630191a467d1e7b8ff5eb2]: Commencement: Reg. 7 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+
+[^f00020]: Footnote: [S.R. 1983 No. 64](https://www.legislation.gov.uk/nisr/1983/64)
+
+[^f00021]: Footnote: [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83)

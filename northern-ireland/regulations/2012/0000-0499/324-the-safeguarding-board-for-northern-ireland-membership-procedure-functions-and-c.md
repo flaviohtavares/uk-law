@@ -1,0 +1,892 @@
+---
+title: The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) Regulations (Northern Ireland) 2012
+id: nisr/2012/324
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2012-08-20'
+text_date: '2024-12-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2012/324
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/324/pdfs/nisrem_20120324_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/324/pdfs/nisr_20120324_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/324/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) Regulations (Northern Ireland) 2012
+
+> Text as at 2024-12-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2012 No. 324
+
+Health And Social Care
+
+The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) Regulations (Northern Ireland) 2012
+
+Made
+
+20th August 2012
+
+Coming into operation
+
+17th September 2012
+
+The Department of Health, Social Services and Public Safety makes the following regulations in exercise of the powers conferred by sections 1(2)(b), 1(3)(j), 1(5), 3(4), 5(1), 6(1), 7(1)(a), 7(4), 7(5), 8(1), 9 and 12(1)(j) of the Safeguarding Board Act (Northern Ireland) 2011 [^c21354091].
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These regulations may be cited as the Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) Regulations (Northern Ireland) 2012 and shall come into operation on 20<sup>th</sup> August 2012
+
+### 2. Interpretation
+
+In these regulations—
+
+- “**the Act**” means the Safeguarding Board Act (Northern Ireland) 2011;
+- “**any Department**” means any of the Northern Ireland departments listed in Article 3 of the Departments (Northern Ireland) Order 1999 [^c21354101];
+- “**area of the Safeguarding Panel**” has the meaning given in regulation 21(2);
+- “**bankruptcy restrictions order**” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989 [^c21354111] or Schedule 4A of the Insolvency Act 1986 [^c21354121];
+- “**charity trustee**” means one of the persons having the general control and management of the administration of a charity;
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^key-56dba16368dfeecc6e2a17aa3cf3b110]
+- “**Designated Nurse for Safeguarding Children**” means the nurse designated by the Regional Agency for Public Health and Social Well-being to provide such information, advice and assistance regarding the safeguarding of children as may reasonably be required in accordance with section 13(6)(b) of the Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c21354131];
+- “**education and library board**” means an education and library board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986 [^c21354141];
+- “[^key-b0a72791574cc53d936a2f4a1061af73]**former health service body**” means a clinical commissioning group,[^key-5df169829058e0f8d2d2a11548ea6d3f] a Strategic Health Authority, a Primary Care Trust , the Health and Social Care Information Centre[^key-8f4cf9a81156994974c4aabd9e03f42f] or the Health Protection Agency;
+- “**general medical practitioner**” means a person whose name is included on a Primary Medical Services Performers List prepared pursuant to regulation 4 of the Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004 [^c21354151];
+- “**health and social care body**” means–
+  - (a) [^key-0abd7d7336654356627d9abf167b4ccb]...
+    - (i)
+    - (ii)
+    - (iii)
+    - (iv)
+    - (v)
+    - (vi)
+    - (vii)
+  - (b) the Northern Ireland Social Care Council established under section 1 of the Health and Personal Social Services Act (Northern Ireland) 2001 [^c21354161]; and
+  - (c) the Northern Ireland Practice and Education Council for Nursing and Midwifery established under section 2 of the Health and Personal Social Services Act (Northern Ireland) 2002 [^c21354171];
+- “**health service body**” means–
+  - (a) any of the following within the meaning of the National Health Service Act 2006 [^c21354181]–
+    - (i) [^key-5ee3c51271512057a6854d786a18af2b]...
+    - (ii) a Special Health Authority;
+    - (iia) [^key-03d9561dd1024fee90b45d58cf5e233b]...
+    - (iib) NHS England[^key-90d4a27959d5a328fb4068214541d0af]
+    - (iic) the National Institute for Health and Care Excellence;
+    - (iid) the Health and Social Care Information Centre;
+    - (iii) [^key-d7c61f44bbf7fe284b3e0f09f40d197e]...
+    - (iv) an NHS trust;
+    - (v) a Local Health Board;
+    - (vi) an integrated care board;[^key-28af3150f76392af710d477fde6f7950]
+  - (b) any of the following within the meaning of the National Health Service (Scotland) Act 1978 [^c21354191]–
+    - (i) a Health Board;
+    - (ii) a Special Health Board;
+    - (iii) the Common Services Agency for the Scottish Health Service;
+    - (iv) the Scottish Dental Practice Board;
+  - (c) the Wales Centre for Health established under section 2 of the Health (Wales) Act 2003 [^c21354201];
+  - (d) [^key-605e7c80480bdabcf3cf49b0efc6204d]...
+  - (e) the Care Quality Commission established under section 1 of the Health and Social Care Act 2008 [^c21354221];
+  - (f) the General Social Care Council established under section 54 of the Care Standards Act 2000 [^c21354231];
+  - (g) the Social Care Council for Wales established under section 54 of the Care Standards Act 2000;
+  - (h) the Scottish Social Services Council established under section 43 of the Regulation of Care (Scotland) Act 2001 [^c21354241];
+- “**National Society for the Prevention of Cruelty to Children**” means the National Society for the Prevention of Cruelty to Children established by Royal Charter on 28 May 1895;
+- “**Probation Board for Northern Ireland**” means the Probation Board for Northern Ireland established under Article 3(1) of the Probation Board (Northern Ireland) Order 1982 [^c21354251];
+- “**regulatory person or body**” means—
+  - (a) the person holding the office of Chief Inspector of Criminal Justice in Northern Ireland established under section 45 of the Justice (Northern Ireland) Act 2002 [^c21354261];
+  - (b) any person appointed as an inspector under Article 102 of the Education and Libraries (Northern Ireland) Order 1986, or as a lay person under Article 102A of that Order;
+  - (c) any person appointed as an inspector of constabulary under section 54 of the Police Act 1996 [^c21354271], or as an assistant inspector of constabulary or staff officer to the inspector of constabulary under section 56 of that Act;
+  - (d) the Northern Ireland Policing Board established under section 2 of the Police (Northern Ireland) Act 2000 [^c21354281];
+  - (e) the person holding the office of Police Ombudsman for Northern Ireland established under section 51 of the Police (Northern Ireland) Act 1998 [^c21354291];
+- “trustee for a charity” is a person not being a charity trustee, in whom legal title to the property of the charity is vested;
+- “**voluntary organisation**” means any association carrying on or proposing to carry on any activities otherwise than for the purpose of gain by the association or by individual members thereof;
+- “**Youth Justice Agency**” means the Youth Justice Agency established as an Executive Agency of the Northern Ireland Office on 1 April 2003 whose functions transferred to the Department of Justice by virtue of the Northern Ireland Act 1998 (Devolution of Policing and Justice) Functions Order 2010 [^c21354301].
+
+## PART 2 — Safeguarding Board for Northern Ireland
+
+### 3. Membership
+
+(1) For the purposes of section 1(3)(j) of the Act (*other relevant persons or bodies*), a prescribed relevant body shall be—
+
+- (a) the British Medical Association; [^key-b56f6ee442a831b7e3b28e1c3ed1116a]...
+- (b) any voluntary organisation; and[^key-f39ee697e17ea56b178d5546ba46c229]
+- (c) the Department.
+
+(2) For the purposes of section 1(2)(b) and (3A) and (3B),[^key-cadbc42c463fc9599244cba2f40572ae] of the Act the prescribed representatives shall be—
+
+- (a)[^key-b89b98ba88121b26feea73078837d326] from the Department, the Director of Social Care and Children;
+- (b) from the Regional Agency for Public Health and Social Well-being–
+  - (i) the Designated Nurse for Safeguarding Children;
+  - (ii) the Director of Nursing and Allied Health Professionals; and
+  - (iii) the Director of Public Health or Assistant Director for Service Development and Screening[^key-3f0e00d25c95ecb6f80efadf85a1e8e9] ;
+- (c)[^key-40213be5514b974e8e2877176d2c1e58] an Executive Director for Social Work or Assistant Director for Children’s Services from each of the following HSC trusts—
+  - (i) the South Eastern HSC Trust;
+  - (ii) the Southern HSC Trust;
+  - (iii) the Northern HSC Trust;
+  - (iv) the Western HSC Trust;
+- (cc)[^key-2b76fda970cd91441265fa64b00fa33e] an Executive Director of Social Work or Co-Director for Children’s Services from the Belfast HSC Trust;
+- (d) an Assistant Chief Constable of the Police Service of Northern Ireland with responsibility for safeguarding and promoting the welfare of children or the Chief Superintendent for Public Protection[^key-2d2934c59674f17e0d8ca5d5ca86c2f1] ;
+- (e) the Director or Assistant Director[^key-c3e701b854764a05189487534cf7eafd] of the Probation Board for Northern Ireland;
+- (f) the Chief Executive or Director[^key-d05a3f0cdcdbf0c540183912f7c65d2d] of the Youth Justice Agency;
+- (g) a Chief Executive of an education and library board;
+- (h) two Chief Executives of district councils;
+- (i) the National Head of Service or Assistant Director[^key-8827769c355a1b5c9aac7c433b5b67d9] for Northern Ireland of the National Society for the Prevention of Cruelty to Children;
+- (j) a member of the Northern Ireland General Practitioners Committee of the British Medical Association; and
+- (k) at least three but not more than five persons from voluntary organisations.
+
+(3)[^key-2688bff1f87c43a9b7c653f0bcdec20b] For the purposes of paragraph (2)(a)(ii) a Designated Doctor for Safeguarding Children means a paediatrician designated by the Regional Health and Social Care Board to provide information, advice and assistance regarding the safeguarding of children.
+
+### 4. Joint membership
+
+Where more than one person is appointed jointly to a post in any of the bodies specified in regulation 3(2)(a) to (i) which qualifies the holder for membership in accordance with section 1(2)(b) of the Act, those persons shall become or be joint members and shall count for the purposes of regulation 3 as one person.
+
+### 5. Disqualification for appointment
+
+(1) Subject to regulation 6, a person shall be disqualified for appointment under section 1(2)(a) or (c) of the Act if that person—
+
+- (a) has within five years of the day the appointment would otherwise have taken effect been convicted whether in the United Kingdom or elsewhere of any offence and has been given a sentence of imprisonment (whether suspended or not) for a period of not less than three months without the option of a fine;
+- (b) has been dismissed, other than by reason of redundancy, from any paid employment with any Department, a health and social care body, a health service body, a former health service body,[^key-7232f7d5c8d729d79170b06d822e295b] any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act, or a regulatory person or body;
+- (c) is the subject of a bankruptcy restrictions order or is the subject of a debt relief restrictions order[^key-42bb7befaee57474c27428daa0e340f3] ;
+- (d) is subject to a disqualification under the Company Directors Disqualification (Northern Ireland) Order 2002 [^c21354311], the Company Directors Disqualification Act 1986 [^c21354321] or to an order made under section 429(2)(b) of the Insolvency Act 1986 (*failure to pay under county court administration order*);
+- (e) has been–
+  - (i) removed from the office of charity trustee or trustee for a charity by order of the High Court of Northern Ireland or by order of the Charity Commission for Northern Ireland [^c21354331] under section 33 of the Charities Act (Northern Ireland) 2008 [^c21354341] on the grounds of any misconduct or mismanagement in the administration of the charity for which that person was responsible or to which that person was privy, or which that person by his conduct contributed to or facilitated;
+  - (ii) removed under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 [^c21354351] (*powers of the Court of Session to deal with management of charities*), from being concerned in the management or control of the charity; or
+  - (iii) removed from the office of trustee or charity trustee by order of the High Court of England and Wales or, by order of the Charity Commission for England and Wales [^c21354361] under section 18(2) of the Charities Act 1993 [^c21354371];
+- (f) is a Chair, chairman, member or non-executive director of a health and social care body, a health service body [^key-07c2f92b4bb50f41c553eb4e0cbaf3a3]..., any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act, or a regulatory person or body;
+- (fa)[^key-cd3ac3a7be0096ec5720d38c8014051a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) holds any paid employment or office with any Department, a health and social care body, a health service body, any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act, or a regulatory person or body;
+- (h) is a person who has been removed from the office as the Chair, chairman, member or non-executive director of a health and social care body, a health service body[^key-2b08dc3bde231827119c25cd0b157359] [^key-b470afa3428c921783b145674373e527]..., a former health service body (other than a clinical commissioning group),[^key-add262799eb58d517e2af0920bd78d0c] any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act, or a regulatory person or body;
+- (ha)[^key-57c3daf60cabeeda6ceb7d0b8abb6073] is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+- (i) is a person whose application for registration under Part 1 of the Health and Personal Social Services Act (Northern Ireland) 2001, or under Part IV of the Care Standards Act 2000 or under Part 3 of the Regulation of Care (Scotland) Act 2001, has been refused or–
+  - (i) whose registration has been suspended and the suspension has not been terminated; or
+  - (ii) whose name has been removed from the register and not restored;
+- (j) is a person whose registration as a health care professional has been withdrawn or suspended;
+- (k) is a person who has been barred from regulated activity relating to–
+  - (i) children in accordance with Article 7(2) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 [^c21354381]; or
+  - (ii) vulnerable adults in accordance with Article 7(3) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+(2) For the purposes of paragraph 1(a)—
+
+- (a) the date of conviction shall be deemed to be the date on which the ordinary period allowed for making an appeal or application with respect to the conviction expires or, if such an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its not being prosecuted; and
+- (b) there shall be disregarded any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom.
+
+(3) For the purposes of paragraph 1(b)—
+
+- (a) a person shall not be treated as having been in paid employment by reason only of his being
+  - (i)[^key-f37d1a0f0b7096ee205f1fa48cd3a601] a Chair, chairman, member or non-executive director of a health and social care body, a health service body[^key-edeecbb9c26573b5d60249f98df8c25c] [^key-215a12dadb3fbca3db1139f3c1e7c3c2]..., a former health service body (other than a clinical commissioning group),[^key-aedd0f8b3f3f4217dce619659dc5e4c0] any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act, or a regulatory person or body; or[^key-e687e5ed1f41309c9e987108ed112bb2]
+  - (ii) the chair or a member of the governing body of a clinical commissioning group; and
+- (b) “**dismissed**” excludes dismissal which was established to have been unfair in industrial tribunal proceedings.
+
+(4) In paragraph (1)(j), a “**health care professional**” means a person who is registered as a member of any profession which is regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c21354391].
+
+### 6. Cessation of disqualification
+
+(1) Subject to paragraph (2) where a person is disqualified under regulation 5(1)(b) (*dismissed employees*) that person may, after the expiry of a period of not less than two years, apply in writing to the Department to remove the disqualification and the Department may decide that the disqualification shall cease.
+
+(2) Where the Department refuses an application to remove a disqualification no further application may be made by that person until the expiration of two years from the date of the application.
+
+(3) Subject to paragraph (4), where a person is disqualified under regulation 5(1)(h) (*persons removed from office*) the disqualification shall cease on the expiry of a period of two years or such longer period as the Department may specify.
+
+(4) Where the Department has specified a longer period of disqualification than two years, it may after the expiration of two years, reduce the period of disqualification, on application being made to it by the person disqualified.
+
+### 7. Tenure of office
+
+(1) The Chair of the Safeguarding Board and members of the Safeguarding Board appointed under section 1(2)(c) of the Act shall be appointed for a period not exceeding 4 years.
+
+(2) The Chair and members of the Safeguarding Board appointed under section 1(2)(c) of the Act may be appointed for periods of different duration.
+
+(3) Subject to regulation 5, the Chair or a member of the Safeguarding Board appointed under section 1(2)(c) of the Act may, on termination of the period of tenure of office, be eligible for re-appointment for such further period, not exceeding 4 years, as the Department may in any particular case determine.
+
+(4) The Department may instead of re-appointing the Chair or a member of the Safeguarding Board appointed under section 1(2)(c) of the Act, on the expiration of that person's tenure of office, extend his appointment for such further period as may appear reasonable in the particular circumstances; but the period by which an appointment is extended must not exceed 4 years.
+
+(5) Where for any reason, the place of the Chair or a member appointed under section 1(2)(c) of the Act becomes vacant before the expiration of the member's term of office whether by death, resignation or otherwise, the term of office of any person appointed in that person's place shall be for the remainder of the term of office of the former member.
+
+(6) A member of the Safeguarding Board specified in regulation 3(2)(a) to (i)—
+
+- (a) who ceases to hold the qualifying office, shall cease to be a member of the Safeguarding Board; or
+- (b) who is suspended from the qualifying office, shall be suspended from membership of the Safeguarding Board while suspended from that office.
+
+(7) For the purposes of paragraph (6), “**the qualifying office**” in relation to a member of the Safeguarding Board means the office which the representative held at the time of becoming a member of the Safeguarding Board.
+
+(8) A member of the Safeguarding Board by virtue of section 1(4) of the Act may be a member of the Safeguarding Board for such period or periods as the Safeguarding Board may, subject to the approval of the Department, consider appropriate.
+
+(9) A person who ceases to be a member of the Northern Ireland General Practitioners Committee of the British Medical Association shall cease to be a member of the Safeguarding Board.
+
+(10) A person who is suspended from membership of the Northern Ireland General Practitioners Committee of the British Medical Association shall be suspended from membership of the Safeguarding Board while suspended from that membership.
+
+(11) A person who ceases to be a representative of a voluntary organisation shall cease to be a member of the Safeguarding Board.
+
+(12) A person who is suspended from a voluntary organisation shall be suspended from membership of the Safeguarding Board while suspended from that organisation.
+
+### 8. Resignation
+
+(1) The Chair or a member of the Safeguarding Board appointed under section 1(2)(c) of the Act may resign from office at any time during his term of office by giving not less than 30 days notice in writing to the Department of his intention to do so.
+
+(2) A person who resigns as Chair of the Safeguarding Board may, if the Department consents, continue to serve as a member of the Safeguarding Board for any part of the period of appointment which remains when his resignation as Chair takes effect.
+
+(3) A person who, on resignation as Chair of the Safeguarding Board seeks to continue to serve as a member of the Safeguarding Board, shall inform the Department in writing of his wish to do so when submitting his resignation as Chair.
+
+(4) A person who fails to comply with the requirement of paragraph (3) shall cease to be a member of the Safeguarding Board when that person's term of office as Chair terminates.
+
+(5) In the case of a member of the Safeguarding Board who during his term of office is appointed Chair of the Safeguarding Board, the terms on which he was appointed a member shall cease to apply on the day on which his appointment as Chair takes effect.
+
+### 9. Termination of appointment
+
+(1) Where a Chair or a member of the Safeguarding Board appointed under section 1(2)(c) of the Act—
+
+- (a) is absent from meetings of the Safeguarding Board for more than 6 months consecutively, except for an approved reason;
+- (b) is convicted of an indictable offence;
+- (c) becomes disqualified for appointment under regulation 5; or
+- (d) is incapable of carrying out his functions for reasons of ill health;
+
+the Safeguarding Board shall forthwith, by resolution, declare the office to be vacant and shall notify that fact to the Department in such manner as it thinks fit, and thereupon the office shall become vacant.
+
+(2) In paragraph (1)(a) “**approved reason**” means a reason approved by the Department.
+
+(3) Where the Department is of the opinion that it is not in the interest of, or conducive to the good management of, the Safeguarding Board or any of its committees that the Chair or a member of the Safeguarding Board appointed under section 1(2)(c) of the Act should continue to hold office, it may forthwith remove the Chair or the member by giving that person notice in writing to that effect.
+
+(4) Where a person has been appointed Chair or a member of the Safeguarding Board under section 1(2)(c) of the Act and it comes to the notice of the Department that at the time of the appointment that person was disqualified for appointment under regulation 5, it shall forthwith declare that the person in question was not duly appointed and notify him in writing to that effect; and upon receipt of such notification, that person shall be removed and shall cease to act as such Chair or member of the Safeguarding Board.
+
+### 10. Meetings and proceedings
+
+The meetings and proceedings of the Safeguarding Board shall be conducted in accordance with the provisions set out in Schedule 1.
+
+### 11. Appointment of deputy Chair
+
+(1) Subject to paragraph (2), the Chair and members of the Safeguarding Board may appoint a member appointed by virtue of section 1(2)(c) of the Act to act as deputy Chair for such period, not exceeding the remainder of his term of office as a member, as they may specify on appointing him.
+
+(2) Any member so appointed may at any time resign from the office of deputy Chair by giving notice in writing to the Chair.
+
+(3) Where the Chair is, for whatever reason, unable to perform his duties as Chair, the deputy Chair may perform those duties.
+
+### 12. Annual report
+
+The Safeguarding Board must, in respect of each financial year, prepare and send to the Department a report on the exercise of its functions which shall—
+
+- (a) review the Safeguarding Board's activities during the year, including details of–
+  - (i) the objectives and priorities which have been agreed with the Department;
+  - (ii) the achievements of the Safeguarding Board, measured by reference to the objectives and priorities which have been agreed; and
+  - (iii) the effectiveness of what has been done by each person or body represented on the Safeguarding Board (by virtue of section 1(2)(b) and (4) of the Act) to safeguard and promote the welfare of children;
+- (b) specify any material events affecting performance;
+- (c) include a copy of all directions given to the Safeguarding Board by the Department; and
+- (d) include a list of reports submitted to the Department for publication including the date of submission to the Department.
+
+### 13. Staff
+
+(1) The Regional Agency for Public Health and Social Well-being shall, with the prior consent of the Safeguarding Board, appoint—
+
+- (a) a person to act as Safeguarding Board Director of Operations; and
+- (b) such other Safeguarding Board staff as the Safeguarding Board considers necessary.
+
+(2) Persons appointed in accordance with paragraph (1) shall be employed by the Regional Agency for Public Health and Social Well-being and their services shall be made available to the Safeguarding Board for the period of the appointment.
+
+### 14. Premises
+
+The Regional Agency for Public Health and Social Well-being shall—
+
+- (a) secure or provide the Safeguarding Board with such office and other accommodation that the Safeguarding Board, with the approval of the Department, considers necessary to enable the Safeguarding Board to perform its functions; and
+- (b) ensure that arrangements are made for the administration, maintenance, cleaning and other services for such accommodation.
+
+### 15. Expenses
+
+(1) It shall be the duty of the Department—
+
+- (a) to approve such expenses as it considers may reasonably be incurred by the Safeguarding Board for the purpose of carrying out its functions under the Act; and
+- (b) to make arrangements for the payment of sums equal to such expenses as it has approved.
+
+(2) The Safeguarding Board shall submit to the Department, in such form and by such date as the Department may specify, such estimates of expenditure which it expects to incur for such financial years as the Department may require.
+
+(3) The Department may approve estimates submitted under paragraph (2) with or without modification or subject to such conditions as it considers appropriate, and may vary such approval or conditions.
+
+(4) The Safeguarding Board shall not incur expenses in excess of the expenses approved for the Safeguarding Board by the Department.
+
+### 16. Exercise of functions - general
+
+The Safeguarding Board must ensure that it exercises its functions in a manner that—
+
+- (a) takes into account the views of children and young persons on the effectiveness of arrangements to safeguard and promote the welfare of children;
+- (b) takes into account the importance of the role of parents and other carers in safeguarding and promoting the welfare of children; and
+- (c) is transparent, proportionate and consistent.
+
+### 17. Case Management Review function
+
+(1) In exercising its function under section 3(4) of the Act (*case management reviews)* the Safeguarding Board must undertake a case management review in such circumstances as are described in paragraphs (2) and (3).
+
+(2) Where—
+
+- (a) a child has died or been significantly harmed;
+- (b) any of the following apply–
+  - (i) abuse or neglect of the child is known or suspected;
+  - (ii) the child or a sibling of the child is or has been placed on the register maintained by a HSC trust which lists each child resident in the area of the trust who, following an investigation by that trust under Article 66 of the Children (Northern Ireland) Order 1995 [^c21354401], is subject to a plan to safeguard that child from further harm and promote his health and development; or
+  - (iii) the child or a sibling of the child is or has been looked after by an authority within the meaning of Article 25 of the Children (Northern Ireland) Order 1995;
+
+  [^key-8af79fdfe23623144b74bd37514853f0]...
+- (c) the Safeguarding Board has concerns about the effectiveness in safeguarding and promoting the welfare of children of any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act; and[^key-4b0934c31bee7f315d64833f22afdc65]
+- (d) the Safeguarding Board determines that there is significant learning to be gained from the case management review which, if applied effectively, will lead to substantial improvements in practice in safeguarding and promoting the welfare of children in Northern Ireland.
+
+(3) Where the Safeguarding Board has determined that a case demonstrates that any of the persons or bodies represented on the Safeguarding Board by virtue of section 1(2)(b) and (4) of the Act, have worked effectively (individually or in partnership) and that there is outstanding positive learning to be gained from the case which will lead to improved practice in safeguarding and promoting the welfare of children across Northern Ireland.
+
+(4) For the purposes of paragraph (2)(a), the question of whether harm is significant shall be determined in accordance with Article 50(3) of the Children (Northern Ireland) Order 1995 as read with Article 2(2) of that Order.
+
+### 18. Developing policies and procedures
+
+In exercising its function under section 3(1) of the Act (*developing policies and procedures)* the Safeguarding Board must put in place arrangements for the ongoing development and review of policies and procedures for safeguarding and promoting the welfare of children, including policies and procedures in relation to—
+
+- (a) the action to be taken where there are concerns about a child's safety or welfare, including thresholds for intervention;
+- (b) training of persons who work with children or in services affecting the safety of children;
+- (c) recruitment and supervision of persons who work with children; and
+- (d) investigation of allegations concerning persons who work with children.
+
+### 19. Promoting communication between the Safeguarding Board and children and young persons
+
+In exercising its function under section 3(7) of the Act (*promoting communication between the Safeguarding Board and children and young persons*) the Safeguarding Board must establish a range of methods to promote communication with children and young persons which must include direct methods of communication.
+
+### 20. Arrangements to safeguard and promote welfare of children
+
+For the purposes of section 12(1)(j) of the Act (*other relevant persons or bodies*), a prescribed relevant body shall be the British Medical Association and any voluntary organisation represented on the Safeguarding Board by virtue of regulation 3(2)(k).
+
+## PART 3 — Safeguarding Panels
+
+### 21. Number and area
+
+(1) For the purposes of section 7(1)(a) of the Act the prescribed number of committees to be called Safeguarding Panels shall be five.
+
+(2) The name of each Safeguarding Panel shall be the name specified in column 1 of Schedule 2 and the area of that Panel shall be the area of the local government districts specified opposite the name of that Panel in column 2 of Schedule 2.
+
+### 22. Appointment of Chair and members of Safeguarding Panels
+
+For the purposes of section 7(4)(a) of the Act—
+
+- (a) the Safeguarding Board shall, with the approval of the Department, appoint a Chair of each of the Safeguarding Panels specified in column 1 of Schedule 2; and
+- (b) the Safeguarding Board shall appoint the members specified in paragraphs (1)(b) to (j) of regulation 23.
+
+### 23. Membership of Safeguarding Panels
+
+(1) For the purposes of section 7(5) of the Act a Safeguarding Panel shall include—
+
+- (a) a Chair appointed in accordance with regulation 22(a);
+- (b) from a HSC trust–
+  - (i) an Assistant Director for Children's Services;
+  - (ii) a Named Doctor for Safeguarding Children;
+  - (iii) a Named Nurse for Safeguarding Children;
+  - (iv) an Assistant Director for Mental Health Services;
+- (c) a Superintendent from the Police Service of Northern Ireland;
+- (d) an area manager from the Probation Board for Northern Ireland;
+- (e) an Assistant Director from the Youth Justice Agency;
+- (f) a manager from an education and library board;
+- (g) at least one but no more than two managers from a district council;
+- (h) a manager from the National Society for the Prevention of Cruelty to Children;
+- (i) at least three but no more than five persons from voluntary organisations; and
+- (j) a member of a Local Medical Committee of the British Medical Association who practices within the area of the Safeguarding Panel.
+
+(2) For the purposes of paragraph (1)(b)(ii) a Named Doctor for Safeguarding Children means a doctor named by a HSC trust as having particular responsibilities and duties in relation to safeguarding children.
+
+(3) For the purposes of paragraph (1)(b)(iii) a Named Nurse for Safeguarding Children means a nurse named by a HSC trust as having particular responsibilities and duties in relation to safeguarding children.
+
+(4) The representatives prescribed in paragraph (1)(b) to (j) must have a responsibility or a particular interest in safeguarding and promoting the welfare of children within the area of the Safeguarding Panel.
+
+### 24. Disqualification for appointment of Chair of Safeguarding Panels
+
+(1) Regulation 5 shall apply to any person appointed Chair of a Safeguarding Panel in accordance with regulation 22(a) as if any reference to a person appointed under section 1(2)(a) of the Act were a reference to a Chair of a Safeguarding Panel.
+
+(2) Regulation 6 shall apply to any person appointed Chair of a Safeguarding Panel in accordance with regulation 22(a) as if any reference to the Department were a reference to the Safeguarding Board.
+
+### 25. Tenure of office of Chair and members of Safeguarding Panels
+
+(1) A person appointed to a Safeguarding Panel in accordance with regulation 22(b)—
+
+- (a) who ceases to hold the qualifying office, shall cease to be a member of the Safeguarding Panel; or
+- (b) who is suspended from the qualifying office, shall be suspended from membership of the Safeguarding Panel while suspended from that office.
+
+(2) For the purposes of paragraph (1), “**the qualifying office**” in relation to a member of a Safeguarding Panel means the office which the representative held at the time of becoming a member of the Safeguarding Panel.
+
+(3) Regulation 7(1), (3), (4) and (5) shall apply to any person appointed Chair of a Safeguarding Panel in accordance with regulation 22(a) as if any reference to the Chair of the Safeguarding Board were a reference to a Chair of a Safeguarding Panel and any reference to the Department were a reference to the Safeguarding Board.
+
+(4) Regulation 7(9) and (10) shall apply to a person appointed to a Safeguarding Panel in accordance with regulation 22(b) as if any reference to the Northern Ireland General Practitioners Committee were a reference to a Local Medical Committee and any reference to the Safeguarding Board were a reference to a Safeguarding Panel.
+
+(5) Regulation 7(11) and (12) shall apply to any person appointed to a Safeguarding Panel in accordance with regulation 22(b) as if any reference to the Safeguarding Board were a reference to a Safeguarding Panel.
+
+### 26. Resignation of Chair of Safeguarding Panels
+
+A person appointed Chair of a Safeguarding Panel in accordance with regulation 22(a) may resign from office at any time during his term of office by giving not less than 30 days notice in writing to the Safeguarding Board of his intention to do so.
+
+### 27. Termination of appointment of Chair of Safeguarding Panels
+
+(1) Where any person appointed Chair of a Safeguarding Panel in accordance with regulation 22(a)—
+
+- (a) is absent from meetings of the Safeguarding Panel for more than 6 months consecutively, except for an approved reason;
+- (b) is convicted of an indictable offence;
+- (c) becomes disqualified for appointment under regulation 5; or
+- (d) is incapable of carrying out his functions for reasons of ill health;
+
+the Safeguarding Board shall forthwith, by resolution, declare the office to be vacant and thereupon the office shall become vacant.
+
+(2) In paragraph (1)(a) “**approved reason**” means a reason approved by the Safeguarding Board.
+
+(3) Where the Safeguarding Board is of the opinion that it is not in the interest of, or conducive to the good management of, the Safeguarding Board or any of its committees that the Chair of a Safeguarding Panel should continue to hold office, it may forthwith remove the Chair by giving that person notice in writing to that effect.
+
+(4) Where a person has been appointed Chair of a Safeguarding Panel in accordance with regulation 22(a) and it comes to the notice of the Safeguarding Board that at the time of the appointment that person was disqualified for appointment under regulation 5, it shall forthwith declare that the person in question was not duly appointed and notify him in writing to that effect; and upon receipt of such notification, that person shall be removed and shall cease to act as such Chair of a Safeguarding Panel.
+
+### 28. Meetings and proceedings of Safeguarding Panels
+
+The meetings and proceedings of Safeguarding Panels shall be conducted in accordance with the provisions set out in Schedule 3.
+
+### 29. Appointment of deputy Chair of Safeguarding Panels
+
+(1) Subject to paragraph (2), the Chair and members of a Safeguarding Panel may appoint one of their number to be deputy Chair for such period as they may specify on appointing him.
+
+(2) Any member so appointed may at any time resign from the office of deputy Chair by giving notice in writing to the Chair.
+
+(3) Where the Chair is, for whatever reason, unable to perform his duties as Chair, the deputy Chair may perform those duties.
+
+### 30. Annual report of Safeguarding Panels
+
+A Safeguarding Panel must, in respect of each financial year, prepare and send to the Safeguarding Board a report on the exercise of its functions which shall—
+
+- (a) review the Safeguarding Panel's activities during the year, including details of–
+  - (i) the objectives and priorities which have been agreed with NHS England[^key-9bebee8fa5b245dd77be998ec43bf472] ;
+  - (ii) the achievements of the Safeguarding Panel, measured by reference to the objectives and priorities which have been agreed; and
+  - (iii) the effectiveness of what has been done by each of the bodies represented on the Safeguarding Panel to safeguard and promote the welfare of children;
+- (b) specify any material events affecting performance.
+
+### 31. Functions of Safeguarding Panels
+
+The functions of a Safeguarding Panel within the area of that Panel shall include—
+
+- (a) co-ordinating the implementation of the Safeguarding Board's strategic plan for safeguarding and promoting the welfare of children;
+- (b) monitoring the implementation of the Safeguarding Board's policies and procedures;
+- (c) promoting an awareness of the need to safeguard and promote the welfare of children;
+- (d) implementing any arrangements established by virtue of regulation 38(b) for sharing the findings of case management reviews; and
+- (e) promoting communication between the Safeguarding Panel and children and young persons.
+
+### 32. Staff and premises
+
+(1) The relevant trust shall appoint a person to act as a Safeguarding Panel administrator.
+
+(2) It shall be the duty of the relevant trust, if requested by the Safeguarding Board, to provide the Safeguarding Panel for its area with such accommodation that the trust, with the approval of the Safeguarding Board, considers necessary.
+
+(3) In paragraphs (1) and (2) “**relevant trust**” means the HSC trust specified in column 2 of Schedule 4 for that Safeguarding Panel.
+
+### 33. Expenses of Safeguarding Panels
+
+(1) It shall be the duty of the Safeguarding Board to—
+
+- (a) approve such expenses as it considers may reasonably be incurred by the Safeguarding Panel for the purpose of performing its functions; and
+- (b) make arrangements for the payment of sums equal to such expenses as it has approved.
+
+(2) The Safeguarding Panel shall submit to the Safeguarding Board in such form and by such date as the Safeguarding Board may specify, such estimates of expenditure which it expects to incur for such financial years as the Safeguarding Board may require.
+
+(3) The Safeguarding Board may approve estimates submitted under paragraph (2) with or without modification or subject to such conditions as it thinks fit and may vary such approval or conditions.
+
+(4) It shall be the duty of the Safeguarding Panel not to incur expenses in excess of the expenses approved for the Safeguarding Panel by the Safeguarding Board.
+
+## PART 4 — The Case Management Review Panel
+
+### 34. Appointment of Chair and members of the Case Management Review Panel
+
+For the purposes of section 7(4)(a) of the Act—
+
+- (a) the Safeguarding Board shall appoint a Chair of the Case Management Review Panel who must also be a member of the Safeguarding Board; and
+- (b) the Safeguarding Board shall appoint the members specified in paragraphs (1)(b) to (e) of regulation 35.
+
+### 35. Membership of the Case Management Review Panel
+
+For the purposes of section 7(5) of the Act the Case Management Review Panel shall include—
+
+- (a) a Chair appointed in accordance with regulation 34(a);
+- (b) a person nominated from each of the following persons or bodies—
+  - (i) the Regional Health and Social Care Board;
+  - (ii) the Police Service of Northern Ireland;
+  - (iii) the Probation Board for Northern Ireland;
+  - (iv) the Youth Justice Agency;
+  - (v) an education and library board;
+- (c) a paediatrician;
+- (d) a Designated Nurse for Safeguarding Children; and
+- (e) an Assistant Director of Children's Services of a HSC trust.
+
+### 36. Meetings and proceedings of the Case Management Review Panel
+
+The meetings and proceedings of the Case Management Review Panel shall be conducted in accordance with the provisions set out in Schedule 5.
+
+### 37. Annual report of the Case Management Review Panel
+
+(1) The Case Management Review Panel must, in respect of each financial year, prepare and send to the Safeguarding Board a report on the exercise of its functions which shall include—
+
+- (a) the numbers of case management reviews undertaken (in accordance with regulation 17);
+- (b) a summary of all practice learning points from Case Management Reviews completed during the year, together with an assessment of the extent to which practice has changed as a result; and
+- (c) any material events affecting performance.
+
+(2) In paragraph (1)(b) “**practice learning point**” means a finding of a case management review which, if implemented, will lead to improvement in practice for the purpose of safeguarding and promoting the welfare of children.
+
+### 38. Functions of the Case Management Review Panel
+
+The functions of the Case Management Review Panel shall include—
+
+- (a) holding a case management review in such circumstances as are described in regulation 17(2) and (3); and
+- (b) establishing arrangements for sharing the findings of case management reviews.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 20th<sup></sup>August 2012
+
+Sean Holland
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — Meetings and proceedings of the Safeguarding Board
+
+Regulation 10
+
+### 1. Meetings
+
+The first meeting of the Safeguarding Board shall be held on such day and at such place as may be fixed by the Chair, and he shall be responsible for convening the meeting.
+
+**2.** The Safeguarding Board shall meet at least four times each year.
+
+**3.** (1) The Chair may call a meeting of the Safeguarding Board at any time.
+
+(2) If a requisition for a meeting, signed by at least three quarters of the members (rounded up to a whole number) is presented to the Chair, the Chair must within 14 days after the requisition has been presented to him, call a meeting unless the reason for not calling the meeting has been approved by the Department.
+
+(3) At any meeting of the Safeguarding Board the Chair, or in his absence the deputy Chair (if there is one and he is present) shall preside.
+
+### 4. Notice of meeting
+
+(1) Before each meeting of the Safeguarding Board, a notice of the meeting which—
+
+- (a) specifies the business proposed to be transacted at it; and
+- (b) is signed by the Chair or by an officer of the Safeguarding Board authorised by the Chair to sign on his behalf,
+
+shall be served on each member, so as to be available to him at least seven clear days before the meeting.
+
+(2) The proceedings of any meeting shall not be invalidated by a failure to serve notice to any member.
+
+### 5. Exclusion of public from meetings
+
+The Safeguarding Board may, by resolution, exclude the public from a meeting of the Safeguarding Board (whether during the whole or part of the proceedings at the meeting) where the Safeguarding Board is satisfied that it is necessary to do so by reason of—
+
+- (a) the confidential nature of the business to be transacted at the meeting;
+- (b) the need to safeguard the welfare of any child;
+- (c) the need to protect a person's private life; or
+- (d) the need to avoid the risk of injustice in any legal proceedings.
+
+### 6. Voting
+
+Every decision at a meeting shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equality of votes, the Chair, or in his absence, the deputy Chair, shall have a second and casting vote.
+
+**7.** The names of members present at a meeting shall be recorded.
+
+### 8. Quorum
+
+(1) Subject to paragraph (1A),[^M_F_4659f7d6-a5e6-4ceb-ac47-f97e0c188812] no business shall be transacted at a meeting unless at least two thirds (rounded up to a whole number) of the members including the Chair or deputy Chair are present.
+
+(1A)[^key-6a943371fdbb38d8bbf68d76c90a25c0] In exceptional circumstances, where more than one third of the total membership declares an interest under paragraph 9 (Declaration of interest), the quorum requirement will be satisfied if two thirds (rounded up to a whole number) of the remaining members are present.
+
+(2) If a meeting is not quorate the Chair shall convene a further meeting within a period of one month from and including the date on which the meeting was scheduled to have taken place.
+
+### 9. Declaration of interest
+
+(1) If the Chair or a member of the Safeguarding Board has an interest in any matter to be considered at a meeting or is associated with a person who has such an interest he shall declare it accordingly at the meeting and as soon as practicable after its commencement.
+
+(2) The Chair or any member who has, pursuant to sub-paragraph (1), declared an interest shall not take part in the consideration and discussion of the matter or be present at the consideration or discussion of that matter or the voting on it.
+
+### 10. Minutes of proceedings
+
+The minutes of the proceedings of a meeting shall be drawn up and submitted for agreement at the next ensuing meeting where they shall be signed by the Chair or deputy Chair.
+
+## SCHEDULE 2 — Names and areas of Safeguarding Panels
+
+Regulation 21(2)
+
+| *Column 1**Name of Safeguarding Panel* | *Column 2**Name of local government districts* |
+| --- | --- |
+| The Belfast Safeguarding Panel | Belfast and Castlereagh |
+| The Northern Safeguarding Panel | Antrim, Ballymena, Ballymoney, Carrickfergus, Coleraine, Cookstown, Larne, Magherafelt, Moyle and Newtownabbey |
+| The South Eastern Safeguarding Panel | Ards, Down, Lisburn and North Down |
+| The Southern Safeguarding Panel | Armagh, Banbridge, Craigavon, Dungannon and Newry and Mourne |
+| The Western Safeguarding Panel | Derry, Fermanagh, Limavady, Omagh and Strabane |
+
+## SCHEDULE 3 — Meetings and proceedings of Safeguarding Panels
+
+Regulation 28
+
+### 1. Meetings
+
+The first meeting of a Safeguarding Panel shall be held on such day and at such place as may be fixed by the Chair, and he shall be responsible for convening the meeting.
+
+**2.** A Safeguarding Panel shall meet at least four times each year.
+
+**3.** (1) The Chair may call a meeting of the Safeguarding Panel at any time.
+
+(2) If a requisition for a meeting, signed by at least three quarters of the members (rounded up to a whole number) is presented to the Chair, the Chair must within 14 days after the requisition has been presented to him, call a meeting unless the reason for not calling the meeting has been approved by the Safeguarding Board.
+
+(3) At any meeting of the Safeguarding Panel the Chair, or in his absence the deputy Chair (if there is one and he is present) shall preside.
+
+### 4. Notice of meeting
+
+(1) Before each meeting of the Safeguarding Panel, a notice of the meeting which—
+
+- (a) specifies the business proposed to be transacted at it; and
+- (b) is signed by the Chair or by a person authorised by the Chair to sign on his behalf,
+
+shall be served on each member, so as to be available to him at least seven clear days before the day of the meeting.
+
+(2) The proceedings of any meeting shall not be invalidated by a failure to deliver notice to any member.
+
+### 5. Voting
+
+Every decision at a meeting shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equality of votes, the Chair, or in his absence, the deputy Chair, shall have a second and casting vote.
+
+**6.** The names of members present at a meeting shall be recorded.
+
+### 7. Quorum
+
+(1) Subject to paragraph (1A),[^key-61dca26d71b4c481f74a987d691f7c58] no business shall be transacted at a meeting unless at least two thirds (rounded up to a whole number) of the members including the Chair or deputy Chair are present.
+
+(1A)[^key-11c7c937e1641dc8bb76e034dde7cd6e] In exceptional circumstances, where more than one third of the total membership declares an interest under paragraph 8 (Declaration of interest), the quorum requirement will be satisfied if two thirds (rounded up to a whole number) of the remaining members are present.
+
+(2) If a meeting is not quorate the Chair shall convene a further meeting within a period of one month from and including the date on which the meeting was scheduled to have taken place.
+
+### 8. Declaration of interest
+
+(1) If the Chair or a member of the Safeguarding Panel has an interest in any matter to be considered at a meeting or is associated with a person who has such an interest he shall declare it accordingly at the meeting and as soon as practicable after its commencement.
+
+(2) The Chair or any member who has, pursuant to sub-paragraph (1), declared an interest shall not take part in the consideration and discussion of the matter or be present at the consideration or discussion of that matter or the voting on it.
+
+### 9. Minutes
+
+The minutes of the proceedings of a meeting shall be drawn up and submitted for agreement at the next ensuing meeting where they shall be signed by the Chair or deputy Chair.
+
+## SCHEDULE 4 — Relevant trust for a Safeguarding Panel
+
+Regulation 32
+
+| *Column 1**Name of Safeguarding Panel* | *Column 2**Name of HSC trust* |
+| --- | --- |
+| The Belfast Safeguarding Panel | Belfast Health and Social Care Trust |
+| The Northern Safeguarding Panel | Northern Health and Social Care Trust |
+| The South Eastern Safeguarding Panel | South Eastern Health and Social Care Trust |
+| The Southern Safeguarding Panel | Southern Health and Social Care Trust |
+| The Western Safeguarding Panel | Western Health and Social Care Trust |
+
+## SCHEDULE 5 — Meetings and proceedings of the Case Management Review Panel
+
+Regulation 36
+
+### 1. Meetings
+
+The first meeting of the Case Management Review Panel shall be held on such day and at such place as may be fixed by the Chair, and he shall be responsible for convening the meeting.
+
+**2.** The Case Management Review Panel shall meet at least four times each year.
+
+**3.** (1) The Chair may call a meeting of the Case Management Review Panel at any time.
+
+(2) If a requisition for a meeting, signed by at least three quarters of the members (rounded up to a whole number) is presented to the Chair, the Chair must within 14 days after the requisition has been presented to him, call a meeting unless the reason for not calling the meeting has been approved by the Safeguarding Board.
+
+(3) At any meeting of the Case Management Review Panel the Chair shall preside.
+
+### 4. Notice of meeting
+
+(1) Before each meeting of the Case Management Review Panel, a notice of the meeting which—
+
+- (a) specifies the business proposed to be transacted at it; and
+- (b) is signed by the Chair or by a person authorised by the Chair to sign it on his behalf,
+
+shall be served on each member at least seven clear days before the day of the meeting.
+
+(2) The proceedings of any meeting shall not be invalidated by a failure to serve notice to any member.
+
+### 5. Voting
+
+Every decision at a meeting shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equality of votes, the Chair shall have a second and casting vote.
+
+**6.** The names of members present at a meeting shall be recorded.
+
+### 7. Quorum
+
+(1) Subject to paragraph (1A),[^key-901def7f969dbbd0727b0691bff173be] no business shall be transacted at a meeting unless at least two thirds (rounded up to a whole number) of the members including the Chair are present.
+
+(1A)[^key-58312b20f04162be80a88f1bb5bb3999] In exceptional circumstances, where more than one third of the total membership declares an interest under paragraph 8 (Declaration of interest), the quorum requirement will be satisfied if two thirds (rounded up to a whole number) of the remaining members are present.
+
+(2) If a meeting is not quorate the Chair shall convene a further meeting within a period of one month from and including the date on which the meeting was scheduled to have taken place.
+
+### 8. Declaration of interest
+
+(1) If the Chair or a member of the Case Management Review Panel has an interest in any matter to be considered at a meeting or is associated with a person who has such an interest he shall declare it accordingly at the meeting and as soon as practicable after its commencement.
+
+(2) The Chair or any member who has, pursuant to sub-paragraph (1), declared an interest shall not take part in the consideration and discussion of the matter or be present at the consideration or discussion of that matter or the voting on it.
+
+### 9. Minutes
+
+The minutes of the proceedings of a meeting shall be drawn up and submitted for agreement at the next ensuing meeting where they shall be signed by the Chair.
+
+*(This note is not part of the regulations)*
+
+These regulations make provision concerning the membership, procedure, functions and committees of the Safeguarding Board of Northern Ireland (SBNI) established under the Safeguarding Board Act (Northern Ireland) 2011. The regulations comprise four Parts and five Schedules.
+
+Part 1 of the regulations makes general provisions concerning citation, commencement and interpretation.
+
+Part 2 relates to the Safeguarding Board. It makes provision for membership of the SBNI, appointment of such members, tenure, resignation and removal. This Part also makes provision around the procedure of the SBNI and prescribes that the Regional Agency for Public Health and Social Well-being may provide the SBNI with staff and premises. Finally, this Part makes provisions around the expenses of the SBNI, and provides further detail on the exercise of the functions specified in section 3 of the Act.
+
+Part 3 of the regulations is concerned with the Safeguarding Panels, which are committees of the SBNI. Firstly, this Part prescribes the number and area of the Panels. Secondly, it makes provision concerning the membership of the Panels, including disqualification for appointment as Chair. This Part goes on to prescribe around the proceedings of the Panel, and its functions. Finally, it provides details concerning the staff, premises and expenses of the Safeguarding Panels.
+
+Part 4 is concerned with the Case Management Review Panel, a further committee of SBNI. It makes provision around the membership of the Panel, along with its meetings and proceedings, annual report and functions.
+
+## Annotations
+
+[^c21354091]: Marginal citation: [2011 c.7 (N.I.)](https://www.legislation.gov.uk/nia/2011/7)
+
+[^c21354101]: Marginal citation: [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
+
+[^c21354111]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); the relevant amending provision is [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455)
+
+[^c21354121]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); Schedule 4A was inserted by the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40)
+
+[^key-56dba16368dfeecc6e2a17aa3cf3b110]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/324/regulation/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 57(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/57/2)
+
+[^c21354131]: Marginal citation: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
+
+[^c21354141]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
+
+[^key-b0a72791574cc53d936a2f4a1061af73]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(2)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/2/a)
+
+[^key-5df169829058e0f8d2d2a11548ea6d3f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/324/regulation/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/2/a)
+
+[^key-8f4cf9a81156994974c4aabd9e03f42f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/324/regulation/2) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 43(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/43/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^c21354151]: Marginal citation: S.R. [2004 No. 149](https://www.legislation.gov.uk/ukcm/2004/149)
+
+[^key-0abd7d7336654356627d9abf167b4ccb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/324/regulation/2) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 43(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/43/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^c21354161]: Marginal citation: [2001 c.3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^c21354171]: Marginal citation: [2002 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2002/9)
+
+[^c21354181]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)
+
+[^key-5ee3c51271512057a6854d786a18af2b]: Textual amendment: Words in reg. 2 omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/2/b/i)
+
+[^key-03d9561dd1024fee90b45d58cf5e233b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/324/regulation/2) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/2/b/i)
+
+[^key-90d4a27959d5a328fb4068214541d0af]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/2/b/ii)
+
+[^key-d7c61f44bbf7fe284b3e0f09f40d197e]: Textual amendment: Words in reg. 2 omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/2/b/iii)
+
+[^key-28af3150f76392af710d477fde6f7950]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/324/regulation/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/2/b/ii)
+
+[^c21354191]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 2 was amended by paragraph 1 of Schedule 7 to the [Health and Social Services and Social Security Adjudications Act 1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41) and by section 28 of the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19); section 10 was amended by paragraph 2 of Schedule 6 to the [Health Services Act 1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53)
+
+[^c21354201]: Marginal citation: [2003 c.4](https://www.legislation.gov.uk/ukpga/2003/4)
+
+[^key-605e7c80480bdabcf3cf49b0efc6204d]: Textual amendment: Words in reg. 2 omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/2/b/iv)
+
+[^c21354221]: Marginal citation: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14)
+
+[^c21354231]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14)
+
+[^c21354241]: Marginal citation: 2001 asp.8
+
+[^c21354251]: Marginal citation: [S.I. 1982/713 (N.I. 10)](https://www.legislation.gov.uk/nisi/1982/713)
+
+[^c21354261]: Marginal citation: [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26)
+
+[^c21354271]: Marginal citation: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16)
+
+[^c21354281]: Marginal citation: [2000 c.32](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^c21354291]: Marginal citation: [1998 c.32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^c21354301]: Marginal citation: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
+
+[^key-b56f6ee442a831b7e3b28e1c3ed1116a]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/1/a) omitted (1.4.2022) by virtue of [The Children’s Social Care (Consequential Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/161)](https://www.legislation.gov.uk/nisr/2022/161), [regs. 1](https://www.legislation.gov.uk/nisr/2022/161/regulation/1), [6(2)(a)(i)](https://www.legislation.gov.uk/nisr/2022/161/regulation/6/2/a/i)
+
+[^key-f39ee697e17ea56b178d5546ba46c229]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/1/c) and word inserted (1.4.2022) by [The Children’s Social Care (Consequential Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/161)](https://www.legislation.gov.uk/nisr/2022/161), [regs. 1](https://www.legislation.gov.uk/nisr/2022/161/regulation/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/161/regulation/6/2/a/ii)
+
+[^key-cadbc42c463fc9599244cba2f40572ae]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2) inserted (1.4.2022) by [The Children’s Social Care (Consequential Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/161)](https://www.legislation.gov.uk/nisr/2022/161), [regs. 1](https://www.legislation.gov.uk/nisr/2022/161/regulation/1), [6(2)(b)(i)](https://www.legislation.gov.uk/nisr/2022/161/regulation/6/2/b/i)
+
+[^key-b89b98ba88121b26feea73078837d326]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/a) substituted (1.4.2022) by [The Children’s Social Care (Consequential Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/161)](https://www.legislation.gov.uk/nisr/2022/161), [regs. 1](https://www.legislation.gov.uk/nisr/2022/161/regulation/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/161/regulation/6/2/b/ii)
+
+[^key-3f0e00d25c95ecb6f80efadf85a1e8e9]: Textual amendment: Words in [reg. 3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/b/iii) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/b)
+
+[^key-40213be5514b974e8e2877176d2c1e58]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/c) substituted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/c)
+
+[^key-2b76fda970cd91441265fa64b00fa33e]: Textual amendment: [Reg. 3(2)(cc)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/cc) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/d)
+
+[^key-2d2934c59674f17e0d8ca5d5ca86c2f1]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/d) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/e)
+
+[^key-c3e701b854764a05189487534cf7eafd]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/e) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/f)
+
+[^key-d05a3f0cdcdbf0c540183912f7c65d2d]: Textual amendment: Words in [reg. 3(2)(f)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/f) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/g)
+
+[^key-8827769c355a1b5c9aac7c433b5b67d9]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/2/i) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(h)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/h)
+
+[^key-2688bff1f87c43a9b7c653f0bcdec20b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/324/regulation/3/3) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(2)(i)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/2/i)
+
+[^key-7232f7d5c8d729d79170b06d822e295b]: Textual amendment: Words in reg. 5(1)(b) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/3/a)
+
+[^key-42bb7befaee57474c27428daa0e340f3]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/1/c) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 57(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/57/3)
+
+[^c21354311]: Marginal citation: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
+
+[^c21354321]: Marginal citation: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46)
+
+[^c21354331]: Marginal citation: Established under section 6 of the Charities Act (Northern Ireland) 2008
+
+[^c21354341]: Marginal citation: [2008 c.12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12)
+
+[^c21354351]: Marginal citation: 2005 asp. 12
+
+[^c21354361]: Marginal citation: Established under section 1A of the Charities Act 1993
+
+[^c21354371]: Marginal citation: [1993 c.10](https://www.legislation.gov.uk/ukpga/1993/10)
+
+[^key-07c2f92b4bb50f41c553eb4e0cbaf3a3]: Textual amendment: Words in [reg. 5(1)(f)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/1/f) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/3/a/i)
+
+[^key-cd3ac3a7be0096ec5720d38c8014051a]: Textual amendment: [Reg. 5(1)(fa)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/1/fa) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/3/a/ii)
+
+[^key-2b08dc3bde231827119c25cd0b157359]: Textual amendment: Words in reg. 5(1)(h) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(3)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/3/d)
+
+[^key-b470afa3428c921783b145674373e527]: Textual amendment: Words in [reg. 5(1)(h)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/1/h) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(3)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/3/a/iii/aa)
+
+[^key-add262799eb58d517e2af0920bd78d0c]: Textual amendment: Words in [reg. 5(1)(h)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/1/h) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(3)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/3/a/iii/bb)
+
+[^key-57c3daf60cabeeda6ceb7d0b8abb6073]: Textual amendment: Reg. 5(1)(ha) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(3)(e)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/3/e)
+
+[^c21354381]: Marginal citation: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351)
+
+[^key-f37d1a0f0b7096ee205f1fa48cd3a601]: Textual amendment: Word in reg. 5(3)(a) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(3)(f)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/3/f/i)
+
+[^key-edeecbb9c26573b5d60249f98df8c25c]: Textual amendment: Words in reg. 5(3)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/3/f/ii)
+
+[^key-215a12dadb3fbca3db1139f3c1e7c3c2]: Textual amendment: Words in [reg. 5(3)(a)(i)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/3/a/i) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/3/b/i)
+
+[^key-aedd0f8b3f3f4217dce619659dc5e4c0]: Textual amendment: Words in [reg. 5(3)(a)(i)](https://www.legislation.gov.uk/nisr/2012/324/regulation/5/3/a/i) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [18(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/18/3/b/ii)
+
+[^key-e687e5ed1f41309c9e987108ed112bb2]: Textual amendment: Words in reg. 5(3)(a) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 178(3)(f)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/178/3/f/iii)
+
+[^c21354391]: Marginal citation: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17)
+
+[^c21354401]: Marginal citation: [S.I.1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^key-8af79fdfe23623144b74bd37514853f0]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/nisr/2012/324/regulation/17/2/b) omitted (2.5.2014) by virtue of [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/111)](https://www.legislation.gov.uk/nisr/2014/111), [regs. 1](https://www.legislation.gov.uk/nisr/2014/111/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2014/111/regulation/2/2/a)
+
+[^key-4b0934c31bee7f315d64833f22afdc65]: Textual amendment: [Reg. 17(2)(d)](https://www.legislation.gov.uk/nisr/2012/324/regulation/17/2/d) and preceding word added (2.5.2014) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/111)](https://www.legislation.gov.uk/nisr/2014/111), [regs. 1](https://www.legislation.gov.uk/nisr/2014/111/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2014/111/regulation/2/2/b)
+
+[^key-9bebee8fa5b245dd77be998ec43bf472]: Textual amendment: Words in Rule substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^M_F_4659f7d6-a5e6-4ceb-ac47-f97e0c188812]: Textual amendment: Words in Sch. 1 para. 8(1) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/3/a)
+
+[^key-6a943371fdbb38d8bbf68d76c90a25c0]: Textual amendment: [Sch. 1 para. 8(1A)](https://www.legislation.gov.uk/nisr/2012/324/schedule/1/paragraph/8/1A) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/3/b)
+
+[^key-61dca26d71b4c481f74a987d691f7c58]: Textual amendment: Words in [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/nisr/2012/324/schedule/3/paragraph/7/1) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/4/a)
+
+[^key-11c7c937e1641dc8bb76e034dde7cd6e]: Textual amendment: [Sch. 3 para. 7(1A)](https://www.legislation.gov.uk/nisr/2012/324/schedule/3/paragraph/7/1A) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/4/b)
+
+[^key-901def7f969dbbd0727b0691bff173be]: Textual amendment: Words in [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/nisr/2012/324/schedule/5/paragraph/7/1) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/5/a)
+
+[^key-58312b20f04162be80a88f1bb5bb3999]: Textual amendment: [Sch. 5 para. 7(1A)](https://www.legislation.gov.uk/nisr/2012/324/schedule/5/paragraph/7/1A) inserted (1.1.2015) by [The Safeguarding Board for Northern Ireland (Membership, Procedure, Functions and Committee) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/293)](https://www.legislation.gov.uk/nisr/2014/293), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/293/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2014/293/regulation/2/5/b)

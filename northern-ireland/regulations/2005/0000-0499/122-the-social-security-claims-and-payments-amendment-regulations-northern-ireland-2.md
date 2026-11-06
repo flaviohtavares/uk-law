@@ -1,0 +1,147 @@
+---
+title: The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2005
+id: nisr/2005/122
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-16'
+text_date: '2006-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/122
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/122/pdfs/nisr_20050122_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/122/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2005
+
+> Text as at 2006-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 122
+
+SOCIAL SECURITY
+
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2005
+
+Made
+
+16th March 2005
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by sections 5(1)(a) to (c) and (g), and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-54dc1346f474cd8a161cb1c010eccc49]
+
+(1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation –
+
+- (a) for the purposes of this regulation and regulation 2(1) and (2), on 6th April 2005,
+- (b) for the purposes of regulation 3, on 6th July 2005, and
+- (c) for all other purposes, on 6th April 2006.
+
+(2) In these Regulations “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-9497e72e829fca4f5b867e36bfa93373][^key-d09587ab9183676402290267e86baff2]
+
+(1)[^key-9497e72e829fca4f5b867e36bfa93373] The Claims and Payments Regulations shall be amended in accordance with paragraphs (2) to (5).
+
+(2)[^key-9497e72e829fca4f5b867e36bfa93373] Before regulation 16 there shall be inserted the following regulation –
+
+> **15B. Advance claim for pension following deferment**
+>
+> Where a person’s entitlement to a Category A or Category B retirement pension is deferred in accordance with section 55(3) of the Contributions and Benefits Act[^f00005] (pension increase or lump sum where entitlement to retirement pension is deferred) a claim for –
+>
+> - (a) a Category A or Category B retirement pension; and
+> - (b) any increase in that pension,
+>
+> may be made any time not more than 4 months before the date on which the period of deferment, within the meaning of that section, ends.
+
+.
+
+(3)[^key-d09587ab9183676402290267e86baff2] In regulation 19(3)[^f00006] (time for claiming benefit) sub-paragraphs (c) and (f) shall be omitted.
+
+(4)[^key-d09587ab9183676402290267e86baff2] In regulation 30 (payments on death) –
+
+- (a) at the beginning of paragraph (5)[^f00007] there shall be inserted “Subject to paragraphs (5A) to (5F),”; and
+- (b)[^key-c99a5045212b60f8e8737841857eeb1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-d09587ab9183676402290267e86baff2] In Schedule 4 (prescribed times for claiming benefit) after paragraph 12[^f00012], there shall be added the following paragraphs –
+
+> |  |  |
+> | --- | --- |
+> | **13.** Retirement pension of any category. | As regards any day on which, apart from satisfying the condition of making a claim, the claimant is entitled to the pension, that day and the period of 12 months immediately following it. |
+> | **14.** Graduated retirement benefit[^f00013]. | As regards any day on which, apart from satisfying the condition of making a claim, the claimant is entitled to benefit, that day and the period of 12 months immediately following it. |
+
+.
+
+## 3. Transitional provisions[^key-1423035153b168cff348cc58d29f22d0]
+
+(1) A claim for a retirement pension of any category or graduated retirement benefit made during the period from 6th April 2005 to 5th April 2006 in respect of any day in that period shall be treated as made on that day if on that day, apart from satisfying the condition of making a claim, the claimant satisfies the other conditions of entitlement for that pension or benefit or both.
+
+(2) Where paragraph (1) applies regulation 19 of the Claims and Payments Regulations (time for claiming benefit) shall not apply.
+
+(3) This regulation shall not apply to claims for a Category A or Category B retirement pension or graduated retirement benefit made in accordance with regulation 30(5) of the Claims and Payments Regulations (payments on death).
+
+Sealed with the Official Seal of the Department for Social Development on 16th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 in respect of claims for retirement pension or graduated retirement benefit.
+
+Regulation 2 –
+
+- (a) provides for claims for a Category A or Category B retirement pension or graduated retirement benefit to be made in advance of the date on which a period of deferment ends;
+- (b) provides that the time for claiming retirement pension or graduated retirement benefit for any day on which the claimant is entitled to the pension or benefit is the period of 12 months immediately following that day, instead of the period of 3 months beginning with that day; and
+- (c) makes further provision for claims for a Category A or Category B retirement pension and graduated retirement benefit made on behalf of a person who has died. A person may make such a claim if the deceased was not married at the time of death. A maximum of 3 months' arrears of pension or benefit may be claimed. Where there is a claim on behalf of a person who deferred his entitlement during the 12 months before his death he will be treated as having made an election in favour of an increase rather than a lump sum in respect of the deferment.
+
+Regulation 3 introduces the 12 month period gradually as a transitional measure.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-54dc1346f474cd8a161cb1c010eccc49]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/a)
+
+[^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 Nos. 323](https://www.legislation.gov.uk/nisr/2002/323) and [327](https://www.legislation.gov.uk/nisr/2002/327), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9497e72e829fca4f5b867e36bfa93373]: Commencement: Reg. 2(1)(2) in operation at 6.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/a)
+
+[^key-d09587ab9183676402290267e86baff2]: Commencement: [Reg. 2(3)-(5)](https://www.legislation.gov.uk/nisr/2005/122/regulation/2/3) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/c)
+
+[^f00005]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 55 is substituted by Article 273(1) of the Pensions (Northern Ireland) Order 2005 (S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
+
+[^f00006]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and paragraph (3) was amended by regulation 10(4) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), paragraph 2(a) of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and regulation 2(2)(a) of [S.R. 2002 No. 327](https://www.legislation.gov.uk/nisr/2002/327)
+
+[^f00007]: Footnote: Paragraph (5) was amended by regulation 3(6) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 7(5)(a) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), regulation 15 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), regulation 2(15) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and regulation 10 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^key-c99a5045212b60f8e8737841857eeb1f]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2005/122/regulation/2/4/b) revoked (6.4.2006) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2005/541/regulation/5)
+
+[^f00012]: Footnote: Paragraph 12 was added by regulation 2(3) of [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304)
+
+[^f00013]: Footnote: Graduated retirement benefit is payable under section 35 of the National Insurance Act (Northern Ireland) 1966
+
+[^key-1423035153b168cff348cc58d29f22d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/122/regulation/3) in operation at 6.7.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/b)

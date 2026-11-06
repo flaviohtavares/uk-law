@@ -1,0 +1,171 @@
+---
+title: The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1998
+id: nisr/1998/176
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1998-05-08'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/176
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/176/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1998
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 176
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1998
+
+Made
+
+8th May 1998
+
+Coming into operation in accordance with regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 132(4)(*b*) and 171(1) to (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(4)(*b*), 36(2) and 37(3) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-61416ddf1df908d6ec2f5d7befbd57fc][^key-61416ddf1df908d6ec2f5d7befbd57fc]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1998 and this regulation and regulation 3 shall come into operation on 1st June 1998.
+
+(2) Regulation 2 shall come into operation on 1st June 1998 but in the case of a claimant for income support whose benefit week does not commence on that date, it shall have effect from the first day of the first benefit week to commence for that claimant after that date.
+
+(3) In paragraph (2), “benefit week” and “claimant” shall have the same meanings as in regulation 2(1) of the Income Support (General) Regulations (Northern Ireland) 1987[^f00005].
+
+(4) Regulation 4 shall come into operation on 2nd June 1998 but in the case of a claimant for family credit or disability working allowance who has an award of either of these benefits which is current on 2nd June 1998, it shall have effect as from the day following the expiration of that award.
+
+(5) Regulation 5 shall come into operation on 1st June 1998 but in the case of a claimant for a jobseeker’s allowance whose benefit week does not commence on that date, it shall have effect from the first day of the first benefit week to commence for that claimant after that date.
+
+(6) In paragraph (5), “benefit week” shall have the same meaning as in regulation 1(2) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006].
+
+(7) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-f8cad90b3c274d6331a76b9b78c04e3f]
+
+In Schedule 9 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00008] (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 30(1) after “paragraph 29” there shall be inserted “or 30ZA”;
+- (b) after paragraph 30 there shall be inserted the following paragraph—
+
+  > **30ZA.** (1) Subject to sub-paragraph (2), any payment received under an insurance policy, other than an insurance policy referred to in paragraph 29, taken out to insure against the risk of being unable to maintain repayments under a regulated agreement as defined for the purposes of the Consumer Credit Act 1974[^f00009] or under a hire-purchase agreement or a conditional sale agreement as defined for the purposes of Part VI of the Hire-Purchase Act (Northern Ireland) 1966[^f00010].
+  >
+  > (2) A payment referred to in sub-paragraph (1) shall only be disregarded to the extent that the payment received under that policy does not exceed the amounts, calculated on a weekly basis, which are used to—
+  >
+  > - (a) maintain the repayments referred to in sub-paragraph (1), and
+  > - (b) meet any amount due by way of premiums on that policy.
+
+  .
+
+## 3. Amendment of the Housing Benefit (General) Regulations[^key-1e44e43701003bb2abf333ddc87e2fd4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Family Credit (General) Regulations and the Disability Working Allowance (General) Regulations[^key-0b3cae5ca4cb3549d22dac826f57bdaa]
+
+In both Schedule 2 to the Family Credit (General) Regulations (Northern Ireland) 1987[^f00012] and Schedule 3 to the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00013] (sums to be disregarded in the calculation of income other than earnings) after paragraph 25A there shall be inserted the following paragraph—
+
+> **25B.** (1) Subject to sub-paragraph (2), any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments—
+>
+> - (a) on a loan which is secured on the dwelling which the claimant occupies as his home, or
+> - (b) under a regulated agreement as defined for the purposes of the Consumer Credit Act 1974 or under a hire-purchase agreement or a conditional sale agreement as defined for the purposes of Part VI of the Hire-Purchase Act (Northern Ireland) 1966.
+>
+> (2) A payment referred to in sub-paragraph (1) shall only be disregarded to the extent that the payment received under that policy does not exceed the amounts, calculated on a weekly basis, which are used to—
+>
+> - (a) maintain the repayments referred to in sub-paragraph (1)(*a*) or, as the case may be, (*b*), and
+> - (b) meet any amount due by way of premiums on—
+>   - (i) that policy, or
+>   - (ii) in a case to which sub-paragraph (1)(*a*) applies, an insurance policy taken out to insure against loss or damage to any building or part of a building which is occupied by the claimant as his home and which is required as a condition of the loan referred to in sub-paragraph (1)(*a*).
+
+.
+
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-9740a98bb57d2a624bcf4469a7eb2a3f]
+
+In Schedule 6 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 31(1), after “paragraph 30” there shall be inserted “or 31A”;
+- (b) after paragraph 31 there shall be inserted the following paragraph—
+
+  > **31A.** (1) Subject to sub-paragraph (2), any payment received under an insurance policy, other than an insurance policy referred to in paragraph 30, taken out to insure against the risk of being unable to maintain repayments under a regulated agreement as defined for the purposes of the Consumer Credit Act 1974 or under a hire-purchase agreement or a conditional sale agreement as defined for the purposes of Part VI of the Hire-Purchase Act (Northern Ireland) 1966.
+  >
+  > (2) A payment referred to in sub-paragraph (1) shall only be disregarded to the extent that the payment received under that policy does not exceed the amounts, calculated on a weekly basis, which are used to—
+  >
+  > - (a) maintain the repayments referred to in sub-paragraph (1), and
+  > - (b) meet any amount due by the way of premiums on that policy.
+
+  .
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+8th May 1998.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 3 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. Ritchie
+
+Assistant Secretary
+
+11th May 1998.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Family Credit (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Disability Working Allowance (General) Regulations (Northern Ireland) 1992 (collectively referred to below as “the income-related benefits”) and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+In particular these Regulations provide that, for the purposes of the income-related benefits and jobseeker’s allowance, payments received under an insurance policy taken out to insure against the risk of being unable to maintain repayments on certain loans or under a hire-purchase or similar agreement shall, in certain circumstances, be disregarded in the calculation of a person’s income (regulations 2(*b*), 3, 4 and 5(*b*)). Regulations 2(*a*) and 5(*a*) make consequential amendments.
+
+In so far as these Regulations are required, for the purposes of regulation 3 to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-61416ddf1df908d6ec2f5d7befbd57fc]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); the definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00006]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); the definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(*a*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-f8cad90b3c274d6331a76b9b78c04e3f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/176/regulation/2) in operation at 1.6.1998 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/2)
+
+[^f00008]: Footnote: Paragraph 30 was substituted by regulation 4 of, and paragraph 1 of Schedule 3 to, [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and paragraph 30(1)(*d*)(i) was substituted by regulation 2(4) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
+
+[^f00009]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39)
+
+[^f00010]: Footnote: [1966 c. 42 (N.I.)](https://www.legislation.gov.uk/apni/1966/42); Part VI was substituted by paragraph 49 of Schedule 4 to the Consumer Credit Act 1974
+
+[^key-1e44e43701003bb2abf333ddc87e2fd4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/176/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-0b3cae5ca4cb3549d22dac826f57bdaa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/176/regulation/4) in operation at 2.6.1998 with effect in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/4)
+
+[^f00012]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); paragraph 25A was inserted by regulation 4(5)(*e*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
+
+[^f00013]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); paragraph 25A was inserted by regulation 7(5)(*e*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
+
+[^key-9740a98bb57d2a624bcf4469a7eb2a3f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/176/regulation/5) in operation at 1.6.1998 with effect in accordance with, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/5)

@@ -1,0 +1,130 @@
+---
+title: Legal Aid (General) (Amendment) Regulations (Northern Ireland) 2012
+id: nisr/2012/391
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2012-10-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2012/391
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/391/pdfs/nisrem_20120391_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/391/pdfs/nisr_20120391_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/391/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Aid (General) (Amendment) Regulations (Northern Ireland) 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 391
+
+Legal Aid And Advice
+
+Legal Aid (General) (Amendment) Regulations (Northern Ireland) 2012
+
+Made
+
+25th October 2012
+
+Coming into operation
+
+10th December 2012
+
+The Department of Justice makes the following Regulations in exercise of the powers conferred by Articles 12(5), 22 and 27 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00001], and now vested in it[^f00002].
+
+## 1. Citation and Commencement
+
+These Regulations may be cited as the Legal Aid (General) (Amendment) Regulations (Northern Ireland) 2012 and shall come into operation on 10th December 2012.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the Commission” means the Northern Ireland Legal Services Commission established under Article 3 of the Access to Justice (Northern Ireland) Order 2003[^f00003];
+- “the principal regulations” means the Legal Aid (General) Regulations (Northern Ireland) 1965[^f00004].
+
+## 3. Application
+
+(1) These Regulations apply to cases in which the Commission grants a civil aid certificate on or after 10th December 2012.
+
+(2) Subject to paragraph (1), the principal regulations continue to apply as if these Regulations had not been made in respect of cases which the Commission grants a civil aid certificate before 10th December 2012.
+
+## 4. Amendments to the principal regulations
+
+The principal regulations are amended as follows.
+
+**5.** For regulation 17(9) substitute—
+
+> (9) The provision of this regulation shall not apply to any of the following:
+>
+> - (a) any periodical payment of maintenance;
+> - (b) any sum or sums ordered to paid under Articles 27B(4) or 27C of the Matrimonial Causes (Northern Ireland) Order 1978[^f00005];
+> - (c) other than in circumstances which are exceptional having regard in particular to the quantity or value of the items concerned, the assisted person’s clothes or household furniture or the tools or implements of his trade;
+> - (d) any sum or sums ordered to be paid under Article 7 of the Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979[^f00006] or the Family Homes and Domestic Violence (Northern Ireland) Order 1998[^f00007];
+> - (e) the first £3,000 of any money or the value of any property recovered by virtue of an order made or deemed to be made under any of the enactments specified in paragraph (9A), or an agreement which has the same effect as such an order; or
+> - (f) any sum, payment or benefit which, by virtue of any provision of or made under an enactment, cannot be assigned or charged.
+
+.
+
+**6.** After regulation 17(9) insert—
+
+> (9A) The enactments referred to in paragraph (9)(e) are:
+>
+> - (a) Articles 25(1)(c) or (f), 25(2), 26, 29(6)(c) or (f), or 37 of the Matrimonial Causes (Northern Ireland) Order 1978;
+> - (b) Articles 4 or 8 of the Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979;
+> - (c) section 17 of the Married Women’s Property Act 1882[^f00008];
+> - (d) Articles 4(1)(b) or (d), 8(1) or (5) or 22(2) of the Domestic Proceedings (Northern Ireland) Order 1980[^f00009]; and
+> - (e) Article 15(1) of, together with paragraphs 2, 3, 6, 8 and 11 of Schedule 1 to, the Children (Northern Ireland) Order 1995[^f00010].
+>
+> (9B) In paragraph (9)(a) “maintenance” means money or money’s worth paid towards the support of a spouse or former spouse, civil partner or former civil partner, child or any other person for whose support the payer has previously been responsible or has made payments.
+
+.
+
+**7.** In regulation 22(2)(a), for “other than under the equity jurisdiction of the County Court or remitted to it by the High Court” substitute “other than proceedings remitted to the County Court by the High Court”.
+
+**8.** In regulation 22(2)(b), for “in relation to proceedings under the equity jurisdiction of the County Court or remitted to it by the High Court” substitute “in relation to proceedings remitted to the County Court by the High Court”.
+
+Sealed with the Official Seal of the Department of Justice on 25th October 2012
+
+David Ford
+
+Minister of Justice
+
+25th October 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Legal Aid (General) Regulations (Northern Ireland) 1965 in the following respects:
+
+- the provisions regarding exemptions to the statutory charge for civil legal aid (regulations 5 and 6);
+- removing two obsolete references to the former procedure whereby costs in equity cases in the County Court could be taxed (regulations 7 and 8).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228); Article 27 is an interpretation provision and is recited because of the meaning assigned to the word “regulations”
+
+[^f00002]: Footnote: [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159) and [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
+
+[^f00003]: Footnote: [S.I. 2003/435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435)
+
+[^f00004]: Footnote: S.R. & O [(N.I.) 1965 No. 217](https://www.legislation.gov.uk/nisro/1965/217); relevant amending Regulations are [S.R. 1974 No. 126](https://www.legislation.gov.uk/nisr/1974/126), [S.R. 1988 No. 86](https://www.legislation.gov.uk/nisr/1988/86) and [S.R. 2010 No. 93](https://www.legislation.gov.uk/nisr/2010/93)
+
+[^f00005]: Footnote: [S.I. 1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045)
+
+[^f00006]: Footnote: [S.I. 1979/924 (N.I. 8)](https://www.legislation.gov.uk/nisi/1979/924)
+
+[^f00007]: Footnote: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
+
+[^f00008]: Footnote: [1882 c.75](https://www.legislation.gov.uk/ukpga/1882/75)
+
+[^f00009]: Footnote: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563)
+
+[^f00010]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)

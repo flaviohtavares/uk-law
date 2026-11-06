@@ -1,0 +1,139 @@
+---
+title: The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2015
+id: nisr/2015/175
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2015-03-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2015/175
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/175/pdfs/nisrem_20150175_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/175/pdfs/nisr_20150175_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/175/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 175
+
+Planning
+
+The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2015
+
+Made
+
+23rd March 2015
+
+Coming into operation
+
+15th April 2015
+
+The Department of the Environment makes the following Order, in exercise of the powers conferred by section 32 of the Planning Act (Northern Ireland) 2011[^f00001].
+
+## 1. Citation, commencement and application
+
+(1) This Order may be cited as the Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2015 and shall come into operation on 15th April 2015.
+
+(2) This Order applies in relation to land within the boundaries of a controlled zone, H5N1 controlled zone, wild bird control area or wild bird monitoring area declared by the Department of Agriculture and Rural Development and to any identified premises.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “any identified premises” means any land, building or other place identified by the Department of Agriculture and Rural Development in a notice containing the address, written description of the premises and a plan indicating its location, which is not a controlled zone, H5N1 controlled zone, wild bird control area, or wild bird monitoring area;
+- “avian influenza” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+- “controlled zone” has the same meaning as in regulation 2 of the Avian Influenza and Influenza of Avian Origin in Mammals Regulations (Northern Ireland) 2007[^f00002];
+- “existing”, in relation to any building, means existing immediately before the carrying out, in relation to that building, of development described in Article 3(1);
+- “H5N1 controlled zone” has the same meaning as in regulation 2 of the Avian Influenza (H5N1 in Poultry) Regulations (Northern Ireland) 2007[^f00003];
+- “other captive bird” means any bird other than poultry that is kept in captivity and includes a bird kept for shows, races, exhibitions, competitions, breeding or selling;
+- “poultry” means all birds that are reared or kept in captivity for the production of meat or eggs for consumption, the production of other products, for restocking supplies of game or for the purposes of any breeding programme for the production of these categories of birds;
+- “the principal Order” means the Planning (General Permitted Development) Order (Northern Ireland) 2015[^f00004];
+- “relevant date” means whichever is the earlier of the following dates—
+  - (a) the date on which the use of the buildings permitted by Article 3(1) ceases; or
+  - (b) the date on which the controlled zone, H5N1 controlled zone, wild bird control area or wild bird monitoring area referred to in Article 1(2) is revoked;
+- “relevant notice” means a notice signed and dated by or on behalf of the developer and containing—
+  - (a) the name of the developer;
+  - (b) the address or location of the development (including a site plan and grid reference);
+  - (c) the name and address of the owner and occupier of the land on which the development is being carried out (if different from sub-paragraph (a));
+  - (d) a description of the development (including the type of poultry or other captive birds to be protected); and
+  - (e) the date on which the development commenced;
+- “unit” means land which is occupied by the same person;
+- “wild bird control area” means a wild bird control area as defined in regulation 2 of the Avian Influenza (H5N1 in Wild Birds) Regulations (Northern Ireland) 2007;
+- “wild bird monitoring area” means a wild bird monitoring area as defined in regulation 2 of the Avian Influenza (H5N1 in Wild Birds) Regulations (Northern Ireland) 2007.
+
+(2) Any reference in this Order to the height of a building is to be construed as a reference to its height when measured from ground level; and for the purposes of this paragraph “ground level” means the level of the surface of the ground immediately adjacent to the building in question or, where the level of the surface of the ground on which it is situated is not uniform, the level of the highest part of the surface of the ground is adjacent to it.
+
+## 3. Temporary protection of birds from avian influenza
+
+(1) Subject to the provisions of this Article, and regulations 57 and 57A of the Conservation (Natural Habitats etc.) Regulations (Northern Ireland) 1995[^f00005], planning permission is granted for the erection of a building on land to which this Order applies for the purposes of housing poultry or other captive birds to protect them from avian influenza.
+
+(2) Development is not permitted by paragraph (1) if—
+
+- (a) the development would affect a listed building or its setting;
+- (b) the height of any part of the building within 3 kilometres of the perimeter of an aerodrome exceeds 3 metres or 12 metres in any other case;
+- (c) the area of ground which would be covered by the building erected would exceed 500 square metres;
+- (d) where development is carried out on the same unit more than once by virtue of paragraph (1), the aggregate of the area of ground covered by any such development would exceed 500 square metres;
+- (e) where the development consists of the extension of a building, the area of ground covered by the building as extended would exceed the area of ground covered by the existing building by more than 50 per cent.
+
+(3) Development is permitted by paragraph (1) subject to the following conditions—
+
+- (a) the development shall not be used for any purpose other than to house poultry or other captive birds to protect them from avian influenza;
+- (b) the developer shall, as soon as practicable, and in any event no later than 14 days, after commencing development, serve the relevant notice on the council within whose district the development is situated; and
+- (c) within 30 days of the relevant date or within such longer period as the council may agree in writing—
+  - (i) any building permitted by paragraph (1) shall be removed from the land; and
+  - (ii) the land shall be restored to its condition before the development took place, or restored to such other condition as may be agreed in writing between the council and the developer.
+
+(4) Article 4(1) and (5) and Article 5 (which provide for directions restricting permitted development) of the principal Order apply to development permitted by Article 3(1) of this Order as if any reference in Article 4 of the principal Order—
+
+- (a) to development described in any Part, Class or paragraph in Schedule 1 to the principal Order were a reference to the development described in Article 3(1) of this Order; and
+- (b) to permission granted by Article 3 of the principal Order were a reference to permission granted by Article 3(1) of this Order.
+
+## 4. Application of the principal Order
+
+Subject to the provisions of this Order, the principal Order applies to the land to which this Order applies.
+
+## 5. Revocation
+
+The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2008[^f00006] is revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 23rd March 2015.
+
+*Angus Kerr*
+
+A senior officer of the
+
+Department of the Environment
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order grants planning permission in respect of certain development which is necessary for the purposes of housing poultry and other captive birds to protect them from avian influenza.
+
+The Order applies to land within a controlled zone, H5N1 controlled zone, wild bird control area or wild bird monitoring area declared by the Department of Agriculture and Rural Development and to any identified premises.
+
+Where this Order applies, no specific application for planning permission is needed for the development permitted by this Order. Planning permission is granted by this Order subject to conditions requiring notification to the council within whose district the development is situated and removal of the development within a specified period or a longer period agreed with the council.
+
+The Planning (Avian Influenza) (Special Development) Order 2008 is revoked.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25)
+
+[^f00002]: Footnote: [S.R.2007 No.68](https://www.legislation.gov.uk/nisr/2007/68)
+
+[^f00003]: Footnote: [S.R.2007 No.207](https://www.legislation.gov.uk/nisr/2007/207). A copy of the declaration may be viewed at www.dardni.gov.uk
+
+[^f00004]: Footnote: [S.R. 2015 No. 70](https://www.legislation.gov.uk/nisr/2015/70)
+
+[^f00005]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
+
+[^f00006]: Footnote: [S.R. 2008 No. 235](https://www.legislation.gov.uk/nisr/2008/235)

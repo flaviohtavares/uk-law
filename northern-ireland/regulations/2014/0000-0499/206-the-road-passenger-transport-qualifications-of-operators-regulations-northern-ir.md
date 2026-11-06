@@ -1,0 +1,386 @@
+---
+title: The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014
+id: nisr/2014/206
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2014-07-03'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2014/206
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2014/206/pdfs/nisr_20140206_en.pdf
+- http://www.legislation.gov.uk/nisr/2014/206/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2014 No. 206
+
+Road Traffic And Vehicles
+
+The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014
+
+Made
+
+3rd July 2014
+
+Coming into operation
+
+18th August 2014
+
+The Department of the Environment makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c22157431].
+
+The Department of the Environment has been designated [^c22157441] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the carriage of passengers by road.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014 and shall come into operation on 18<sup>th</sup> August 2014.
+
+(2) The Interpretation Act (Northern Ireland) 1954 [^c22157451] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(3) In these Regulations—
+
+- “**the 1967 Act**” means the Transport Act (Northern Ireland) 1967 [^c22157461];
+- “**the 2009 Regulation**” means Regulation [(EC) No. 1071/2009](https://www.legislation.gov.uk/eur/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive [96/26/EC](https://www.legislation.gov.uk/eudr/1996/26) [^c22157471]; and
+- “the 2009 Regulation (EU)” means Regulation[^key-fce29bb9fa6255c7d2f1de865e6c3021] [(EC) No 1071/2009](https://www.legislation.gov.uk/eur/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council [Directive 96/26/EC](https://www.legislation.gov.uk/eudr/1996/0026), as that Regulation has effect in EU law;
+- “**the Department**” means the Department for Infrastructure[^key-05e3199c59059064ca80c3ac3b122909] .
+
+(4) Unless the context otherwise requires, expressions used in the 2009 Regulation have the same meaning when used in these Regulations.
+
+## 2. Competent authority
+
+The competent authority for the purposes of the 2009 Regulation is the Department.
+
+## 3. Authorisation to pursue the occupation of road transport operator
+
+A road service licence granted to a person under the 1967 Act constitutes an authorisation to pursue the occupation of road passenger transport operator for the purposes of the 2009 Regulation.
+
+## 4. Notification of changes to data
+
+(1) The period within which a change to data is to be notified under Article 11.5 of the 2009 Regulation is 28 days commencing on the date of the change.
+
+(2) The obligation imposed by that Article on such an operator constitutes a condition attached to the licence under section 7 of the 1967 Act.
+
+## 5. Professional competence: transport managers
+
+(1) In accordance with Article 4.2 of the 2009 Regulation, where an applicant does not satisfy the requirement of professional competence, the Department may regard that requirement as satisfied if, and so long as, the applicant has—
+
+- (a) designated a transport manager or managers in accordance with that Article, and such number of them as the Department may require; and
+- (b) that transport manager, or (as the case may be) each such manager, is—
+  - (i) of good repute; and
+  - (ii) professionally competent.
+
+(2) The good repute of a transport manager shall be determined in accordance with section 46B of the 1967 Act [^c22157481].
+
+## 6. Professional competence: certification
+
+(1) A person shall only be regarded as professionally competent if—
+
+- (a) that person has demonstrated that he possesses the requisite skills by passing a written examination organised by an approved body and is the holder of an original certificate to that effect issued by that body; or
+- (b) that person is the holder of any other equivalent certificate of competence, diploma or other qualification recognised for the purposes of this paragraph by the Department.
+
+(2) The approved body may exempt a person from certain parts of the examination mentioned in paragraph (1)(a) if the person is the holder of a certificate of competence, diploma or other qualification which covers those parts and which is recognised for the purposes of this paragraph by the Department.
+
+(3) The written examination mentioned in paragraph (1)(a) may be supplemented by an oral examination organised by the approved body in the form set out in Annex I to the 2009 Regulation.
+
+(4) In this regulation—
+
+- “**approved body**” has the same meaning as in section 46D(4) of the 1967 Act; and
+- “**the requisite skills**” means knowledge corresponding to the level of training, for either national or international transport operations as the case may be, provided for in Annex I to the 2009 Regulation in the subjects there listed.
+
+(5)[^key-1f4b98ddfd4198a3e1dd68be01dc2734] In the case of an examination organised or a certificate issued by an approved body specified in section 46D(4)(c)(iii) of the 1967 Act, references to the 2009 Regulation in paragraphs (3) and (4) are references to the 2009 Regulation (EU).
+
+## 7. Determination in respect of a transport manager: disqualification orders
+
+(1) If the Department determines that a person is no longer of good repute or (as the case may be) professionally competent, the Department shall, by notice served on the person, order that person to be disqualified (“a disqualification order”), either indefinitely or for such period as the Department thinks fit, from acting as a transport manager.
+
+(2) While a disqualification order is in force—
+
+- (a) the person may not act as transport manager for any road transport operator; and
+- (b) a certificate issued to the person in accordance with Article 8.8[^key-79e369998f268a092a92458cb885162c] of the 2009 Regulation or the 2009 Regulation (EU)[^key-bedca1b1ffce53a936b41861e081928b] (certificate of professional competence) is not valid.
+
+(3) A person in respect of whom a disqualification order has been made (a “disqualified person”) may, within 28 days from the service of the order, appeal to the county court against the order, at the same time as giving written notice of the appeal to the Department.
+
+(4) The Department may direct that a disqualification order is not to take effect until 28 days have elapsed from the date on which the disqualification order was served or, if an appeal is made, until the appeal has been disposed of.
+
+(5) If the Department refuses to give a direction under paragraph (4), the disqualified person may, within the time period mentioned in paragraph (3), apply to the county court for such a direction, at the same time as giving written notice of the application to the Department.
+
+(6) On an appeal under paragraph (3) the county court, if it is satisfied that the Department was not justified in making a disqualification order, shall quash the Department's order, stating the reasons for its decision.
+
+## 8. Transport manager: revocation or variation of disqualification order
+
+(1) Where a disqualification order is made under regulation 7(1) the Department may, subject to paragraph (2), at any time, by notice served on the person, revoke the order or, with the consent of the disqualified person, vary the order.
+
+(2) Where a disqualification order has been made, the Department may specify measures with which the disqualified person must comply before the order is revoked or varied.
+
+(3) Measures specified under paragraph (2) may be varied—
+
+- (a) on the written application of the disqualified person to the Department; or
+- (b) by the Department of its own motion, by notice served on the person.
+
+## 9. Amendments to the 1967 Act
+
+(1) The 1967 Act is amended in accordance with paragraphs (2) to (13).
+
+(2) In section 5 (particulars to be provided by applicants for road service licences)—
+
+- (a) in subsection (2)—
+  - (i) in paragraph (a) omit “or (3)”;
+  - (ii) in paragraph (c) omit “or (3)”; and
+  - (iii) after paragraph (d) add—
+
+    > - (e) particulars of a fixed penalty notice or conditional offer in respect of a serious infringement of Community rules as specified in Article 6.1(b) of the 2009 Regulation for the applicant and for any person specified in the application in pursuance of section 6A(2); and
+    > - (f) particulars to satisfy the Department that the applicant has an effective and stable establishment in Northern Ireland.
+
+    ; and
+- (b) after subsection (4) add—
+
+  > (5) In this section “**fixed penalty notice or conditional offer**” means a notice or offer under Part 4 of the Road Traffic Offenders (Northern Ireland) Order 1996 [^c22157491] or Part 3 of the Road Traffic Offenders Act 1988 [^c22157501].
+
+  .
+
+(3) For section 6A (refusal of road service licence in certain cases) substitute—
+
+> **6A. Refusal of road service licence in certain cases**
+>
+> (1) Subject to the following provisions of this section, the Department shall refuse to grant to an applicant a road service licence, unless, having regard to the matters specified in section 6 and to the information given to it in pursuance of section 5(2), it is satisfied that the applicant—
+>
+> - (a) has an effective and stable establishment in Northern Ireland (as determined in accordance with Article 5 of the 2009 Regulation);
+> - (b) is of good repute (as determined in accordance with section 46B);
+> - (c) has appropriate financial standing (as determined in accordance with section 46C); and
+> - (d) has the requisite professional competence (as determined in accordance with section 46D).
+>
+> (2) The requirements of subsection (1)(b) and (d) may also be regarded as satisfied where there is designated in the application a transport manager who satisfies the requirements of subsection (1)(b) and (d) and who, in the case of a transport manager designated in accordance with Article 4.2 of the 2009 Regulation, is not designated to act as transport manager for a greater number of road passenger or road freight transport operators or in respect of a greater number of vehicles than the Department considers appropriate, having regard to the upper limits in Article 4.2(c) of the 2009 Regulation, or such smaller number as the Department considers appropriate having regard to Article 4.3 of the 2009 Regulation.
+>
+> (3) In considering whether the requirements of this section are satisfied, the Department may take into account any undertaking given by the applicant (or procured by the applicant to be given) for the purposes of the application and may assume those undertakings will be fulfilled.
+>
+> (4) Where the Department grants a road service licence, any undertaking taken into account by the Department under subsection (3) that the Department considers to be material to the granting of the licence shall be recorded on the licence issued to the applicant.
+>
+> (5) The Department shall not be required by subsection (1) to refuse to grant a road service licence on the ground mentioned in paragraph (b) or (c) of that subsection if the applicant satisfies the Department that he is an exempt person.
+>
+> (6) There shall be specified in a licence granted by the Department the person who is to be continuously and effectively responsible for the operation of the vehicles to be used under the licence and who is specified as such in the application.
+>
+> (7) Where the Department refuses to grant a road service licence, it shall serve notice on the applicant stating the reason for the decision.
+>
+> (8) An applicant for a road service licence who is aggrieved by the decision not to grant a road service licence may, within 28 days from the service of the notice under subsection (7), appeal to the county court, giving written notice of the appeal to the Department.
+>
+> (9) On an appeal under subsection (8) the county court, if it is satisfied that the Department was not justified in deciding not to grant a road service licence, shall quash the Department's decision, stating the reasons for its decision and that decision shall be final.
+
+.
+
+(4) In section 7 (conditions of road service licences), for “section 6A(5)”, in each place where it occurs, substitute “ section 6A(6) ”.
+
+(5) In section 7A (conditions as to matters required to be notified)—
+
+- (a) in subsection (1)(b) omit “relevant” and for “section 6A(1)(a) or (c)” substitute “ section 6A(1)(b) or (d) ”; and
+- (b) omit subsection (2).
+
+(6) In section 10 (revocation and suspension of road service licences)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) Subject to subsection (2), a road service licence may be revoked or suspended by the Department on the ground that—
+  >
+  > - (a) any condition subject to which the licence was granted has not been complied with, or
+  > - (b) any undertaking given pursuant to section 6A(3) has not been fulfilled.
+
+  .
+- (b) for subsection (3A) [^c22157511] substitute—
+
+  > (3A) Subject to subsections (3D) to (3G), where at any time during the currency of a road service licence, it appears to the Department that—
+  >
+  > - (a) the holder of the licence no longer satisfies the requirements of section 6A(1), or
+  > - (b) the transport manager designated in accordance with subsection (2) of section 6A no longer satisfies the requirements of that subsection,
+  >
+  > the Department shall revoke the licence as from such time as the Department shall determine .
+
+  ;
+- (c) omit subsections (3B) and (3C);
+- (d) in subsection (3D)—
+  - (i) for “section 6A(5)” substitute “ section 6A(6) ”;
+  - (ii) for “one year” substitute “ 6 months ”; and
+  - (iii) for “6 months” substitute “ 3 months ”;
+- (e) in subsection (3E) for “paragraph (a) or (b) of that subsection” substitute “ section 6A(1)(b) or (c) ”; and
+- (f) after subsection (3E) insert—
+
+  > (3F) Before revoking a road service licence under subsection (3A), the Department shall serve a notice on the holder of the licence setting a time limit not exceeding 6 months for the holder to rectify the situation.
+  >
+  > (3G) If the Department is satisfied that the holder of the licence has rectified the situation within the time limit set under subsection (3F), the Department shall not revoke the licence.
+
+  .
+
+(7) In section 35 (false statements), in subsection (e) for “section 46A(5) or (6)” substitute “ section 46D ”.
+
+(8) Section 46A (interpretation of certain expressions in Parts 2 and 3) is omitted.
+
+(9) For section 46B (good repute of road freight and road passenger transport operators) substitute—
+
+> **46B. Good repute**
+>
+> (1) In determining whether a person is of good repute, the Department shall have regard to any relevant matter but shall, in particular, have regard to—
+>
+> - (a) a conviction or penalty incurred by that person, or any partner, employee or agent of the person, or in the case of a company, any officer of the company, as specified in Article 6.1(b) of the 2009 Regulation; and
+> - (b) any other compelling grounds for doubting the good repute of the person, or any partner, employee or agent of the person, or in the case of a company, any officer of the company, which appear to the Department to relate to the person's fitness to hold a licence.
+>
+> (2) For the purposes of this Act, a conviction or penalty incurred by a person engaged in the transport of passengers includes a conviction or penalty incurred for an offence under the law of any part of the United Kingdom or any corresponding offence under the law of any country or territory outside the United Kingdom.
+>
+> (3) In determining whether a person is of good repute the Department must consider whether a finding that the person is no longer of good repute would constitute a disproportionate response.
+>
+> (4) Without prejudice to the generality of the Department's powers under subsection (1), to determine that a person engaged in the transport of passengers is not of good repute, the Department shall determine that that person is not of good repute if that person has—
+>
+> - (a) been convicted of a serious offence (within the meaning given in subsection (5));
+> - (b) incurred a conviction or penalty for one of the most serious infringements of Community rules as set out in Annex IV of the 2009 Regulation; or
+> - (c) been convicted of, or incurred a penalty for, a road transport offence.
+>
+> (5) A person engaged in the transport of passengers has a conviction for a “serious offence” if—
+>
+> - (a) that person has been convicted of any offence under the law of any part of the United Kingdom or under the law of a country or territory outside the United Kingdom; and
+> - (b) on such conviction there was imposed on that person for that offence a punishment falling within subsection (6).
+>
+> (6) The punishments are—
+>
+> - (a) a sentence of imprisonment for a term exceeding 3 months;
+> - (b) a fine exceeding level 4 on the standard scale;
+> - (c) a community service order or community payback order requiring a person to perform work for more than 60 hours; and
+> - (d) in the case of an offence committed under the law of a country or territory outside the United Kingdom, any punishment corresponding to those mentioned in paragraphs (a) to (c).
+>
+> (7) In this section—
+>
+> - (a) “**a sentence of imprisonment**” includes a reference to any form of custodial sentence or order, other than one imposed under the Mental Health (Northern Ireland) Order 1986 [^c22157521], or any corresponding statutory provision in any part of the United Kingdom or any corresponding provision in any country or territory outside the United Kingdom;
+> - (b) “**community service order**” means an order under Article 13 of the Criminal Justice (Northern Ireland) Order 1996 [^c22157531];
+> - (c) “**community payback order**” means an order under section 227A of the Criminal Procedure (Scotland) Act 1995 [^c22157541];
+> - (d) “**road transport offence**” means—
+>   - (i) an offence under the law of any part of the United Kingdom relating to road transport including, in particular an offence in the field described in Article 6.1(a)(iv), or relating to the matters described in Article 6.1(b) of the 2009 Regulation; or
+>   - (ii) any corresponding offence under the law of a country or territory outside the United Kingdom.
+>
+> (8) A reference to an offence under the law of any part of the United Kingdom includes a reference to an offence under section 42 of the Armed Forces Act 2006 [^c22157551].
+>
+> (9) For the purposes of this section—
+>
+> - (a) convictions which are spent for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978 [^c22157561] shall be disregarded; and
+> - (b) the Department may also disregard an offence if such time as it thinks appropriate has elapsed since the date of the conviction.
+
+.
+
+(10) In section 46C (financial standing of road freight and road passenger transport operators) in subsection (2), for the words from “has available to him” to the end substitute “ meets the conditions relating to financial standing set out in Article 7 of the 2009 Regulation. ”.
+
+(11) In section 46D(4) (professional competence of road passenger transport operators)—
+
+- (a) in paragraph (a) for “in the form set out in Annex I to Council Directive No. [96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026)” substitute “ in accordance with Part II of Annex I to the 2009 Regulation ”;
+- (b) in paragraph (b) for “Annex Ia to that Directive” substitute “ Annex III to the 2009 Regulation and contain the security features as set out in Annex II to that Regulation ”;
+- (c) in paragraph (c)(iii) for “Article 3(4) of Council Directive No. [96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026)” substitute “ Article 8 of the 2009 Regulation ”; and
+- (d) in paragraph (d) for “that Directive” substitute “ the 2009 Regulation ”.
+
+(12) Section 46F (savings) is omitted.
+
+(13) In section 81 (interpretation)—
+
+- (a) before the definition of “appointed day” insert—
+
+  > “**the 2009 Regulation**” means Regulation [(EC) No. 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive [96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026);
+
+  ; and
+- (b) after the definition of “subsidiary” add—
+
+  > “**transport manager**” means a person who effectively and continuously manages the transport activities of a road passenger transport operator.
+
+  .
+
+Sealed with the Official Seal of the Department of the Environment on 3<sup>rd</sup> July 2014
+
+Iain Greenway
+
+A senior officer of the
+
+Department of the Environment
+
+*(This note is not part of the Regulations)*
+
+These Regulations give effect in Northern Ireland to Regulation [(EC) No. 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of 21 October 2009 (“**the 2009 Regulation**”), which establishes common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repeals Council Directive [96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026).
+
+The 2009 Regulation governs admission to, and pursuit of, the occupation of road transport operator. It requires road transport undertakings to have an effective and stable establishment in Member States, be of good repute and have appropriate financial standing and the requisite professional competence and it specifies the conditions to be met to satisfy these requirements.
+
+The Regulation provides for the enforcement of its provisions by requiring Member States to designate one or more competent authorities to ensure its correct application, requiring undertakings to hold authorisations to engage in the occupation of road transport operator, and establishing the procedure for withdrawing authorisations and declaring transport managers unfit to manage transport activities. It also provides for appeals against adverse decisions, the establishment of national electronic registers of authorised undertakings, the protection of personal data, administrative cooperation between Member States, the mutual recognition of certificates and Member States to establish penalties for infringements.
+
+Under regulation 2 of these Regulations the Department of the Environment (“**the Department**”) is designated as the Competent Authority for the purposes of the 2009 Regulation.
+
+Regulation 3 provides that road service licences issued under the Transport Act (Northern Ireland) 1967 (“**the 1967 Act**”) constitute authorisations for the purposes of the 2009 Regulation.
+
+Regulation 4 specifies a period of up to 28 days within which licensees are to notify changes in data for the purposes of Article 11.5 of the 2009 Regulation and provides for that obligation to constitute a condition of the licence.
+
+Regulation 5 sets out how an undertaking that does not satisfy the requirement of professional competence can be authorised to operate by the Department.
+
+Regulation 6 sets out the requirements for professional competence.
+
+Regulations 7 and 8 deal with disqualification orders and the cancellation or variation of those orders.
+
+Regulation 9 amends the Transport Act (Northern Ireland) 1967 Act (“**the 1967 Act**”) as follows –
+
+(a) section 5 is amended to insert additional particulars that must be provided by applicants for road service licences,
+
+(b) section 6A is substituted to specify the circumstances in which the Department will refuse to grant a road service licence,
+
+(c) section 10 is amended to set out the circumstances in which the Department will revoke a road service licence,
+
+(d) section 46A is omitted,
+
+(e) section 46B is substituted to specify how the Department will determine if a person or undertaking is of good repute and what determines if a person or undertaking is not of good repute,
+
+(f) section 46F is omitted.
+
+There are also minor consequential amendments to sections 7, 7A, 35, 46C, 46D and 81 of that Act.
+
+An Explanatory Memorandum has been produced and is available from Road Safety and Vehicle Regulation Division, Department of the Environment, Clarence Court, 10-18 Adelaide Street, Town Parks, Belfast BT2 8GB or viewed online at http://www.legislation.gov.uk/nisr
+
+A Regulatory Impact Assessment has been prepared and copies are available from Vehicle Policy Branch, Department of the Environment, Clarence Court, 10-18 Adelaide Street, Town Parks, Belfast BT2 8GB or viewed online at http://www.legislation.gov.uk/nisr/2013/287
+
+## Annotations
+
+[^c22157431]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/nisr/2014/206/section/2/2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^c22157441]: Marginal citation: [S.I](https://www.legislation.gov.uk/nisr/2014/206/section/I). 1996/ 266; to which there are amendments not relevant to these Regulations.
+
+[^c22157451]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c22157461]: Marginal citation: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37); section 6A was inserted by regulation 3(3) of S.R. [1997 No. 327](https://www.legislation.gov.uk/ukcm/1997/327) and amended by S.R. [1981 No. 2](https://www.legislation.gov.uk/ukcm/1981/2) and S.R. [2003 No. 217](https://www.legislation.gov.uk/ukcm/2003/217); section 7A was inserted by regulation 4 of S.R. [2003 No. 217](https://www.legislation.gov.uk/ukcm/2003/217); section 46A was inserted by regulation 6 of S.R. [1977 No. 327](https://www.legislation.gov.uk/ukcm/1977/327) and substituted by regulation 6 of S.R. [2003 No. 217](https://www.legislation.gov.uk/ukcm/2003/217) and sections 46B to 46F were inserted by regulation 6 of S.R. [2003 No. 217](https://www.legislation.gov.uk/ukcm/2003/217).
+
+[^c22157471]: Marginal citation: O.J. No. L 124, 23.5.96, p 1
+
+[^key-fce29bb9fa6255c7d2f1de865e6c3021]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/3) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-05e3199c59059064ca80c3ac3b122909]: Textual amendment: Words in reg. 1(3) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2019/6/regulation/19)
+
+[^c22157481]: Marginal citation: [Section 46B](https://www.legislation.gov.uk/nisr/2014/206/section/46B) is substituted by regulation 9(9) of these Regulations
+
+[^key-1f4b98ddfd4198a3e1dd68be01dc2734]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2014/206/regulation/6/5) added (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79e369998f268a092a92458cb885162c]: Textual amendment: Words in reg. 7(2)(b) substituted (28.3.2019) by [The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 (S.R. 2019/27)](https://www.legislation.gov.uk/nisr/2019/27), [regs. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/27/regulation/15)
+
+[^key-bedca1b1ffce53a936b41861e081928b]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2014/206/regulation/7/2/b) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22157491]: Marginal citation: [S.I. 1996/1320](https://www.legislation.gov.uk/uksi/1996/1320) (N.I 10)
+
+[^c22157501]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53)
+
+[^c22157511]: Marginal citation: Subsections (3A) to (3E) were inserted by regulation 3(5)(b) of S.R. [1977 No. 327](https://www.legislation.gov.uk/ukcm/1977/327)
+
+[^c22157521]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
+
+[^c22157531]: Marginal citation: [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160)
+
+[^c22157541]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
+
+[^c22157551]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52)
+
+[^c22157561]: Marginal citation: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908)

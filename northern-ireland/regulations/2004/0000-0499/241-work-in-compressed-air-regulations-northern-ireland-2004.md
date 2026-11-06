@@ -1,0 +1,451 @@
+---
+title: Work in Compressed Air Regulations (Northern Ireland) 2004
+id: nisr/2004/241
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-05-25'
+text_date: '2016-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/241
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/241/pdfs/nisr_20040241_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/241/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Work in Compressed Air Regulations (Northern Ireland) 2004
+
+> Text as at 2016-08-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 241
+
+HEALTH AND SAFETY
+
+Work in Compressed Air Regulations (Northern Ireland) 2004
+
+Made
+
+25th May 2004
+
+Coming into operation
+
+5th July 2004
+
+The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred on it by Articles 17(1) to (6) of, and paragraphs 1(1) and (2), 5(1), 6, 7(1), 8, 9, 11, 13, 14(1), and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] and of every other power enabling it in that behalf, and for the purpose of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) of that Order[^f00004], after the carrying out by the said Executive of consultations in accordance with Article 46(3) of that Order[^f00005], hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-3b66eeb6f658b762906c94818b8210ee]
+
+These Regulations may be cited as the Work in Compressed Air Regulations (Northern Ireland) 2004 and shall come into operation on 5th July 2004.
+
+## 2. Interpretation[^key-32a8305245f23cbe7d9043fbbca09a9f]
+
+(1) In these Regulations –
+
+- “the 2016 Regulations” means the Construction (Design and Management) Regulations (Northern Ireland) 2016[^key-cfa855249ed12a87566cdadfba2b116c];
+- “airlock” means an enclosed space capable of being pressurised and which is used for the compression or decompression of any person or any material when such person or material is passing into or, as the case may be, out of a working chamber;
+- “appointed doctor” means a registered medical practitioner appointed for the time being in writing by the Executive for the purposes of these Regulations;
+- “approved” means approved for the time being in writing for the purposes of these Regulations;
+- “compressed air contractor” means a person appointed under regulation 5;
+- “contract medical adviser” means a registered medical practitioner appointed under paragraph (1) of regulation 9 and who is competent to give the advice referred to in that paragraph;
+- “decanting” means the rapid decompression in an airlock to atmospheric pressure followed promptly by rapid compression in an alternative airlock and subsequent gradual decompression to atmospheric pressure;
+- “employment medical adviser” means an employment medical adviser appointed under Article 48 of the Health and Safety at Work (Northern Ireland) Order 1978;
+- “the Executive” means the Health and Safety Executive for Northern Ireland;
+- “project” means a project which includes work in compressed air;
+- “work in compressed air” means work within any working chamber, airlock or decompression chamber which (in each case) is used for the compression or decompression of persons, including a medical lock used solely for treatment purposes, the pressure of which exceeds 0·15 bar;
+- “working chamber” means an enclosed space in which work is carried out and which is accessible only through an airlock.
+
+(2) Any reference to pressure in bar means that pressure above the surrounding atmospheric pressure.
+
+## 3. Application[^key-d444e6acd5b6a06d78eea79c5eaf2905][^key-b8a826af0bbd0cd5b05d6c807db453e5]
+
+(1) These Regulations shall apply to and in relation to work in compressed air which is construction work within the meaning of the Construction (Design and Management) Regulations (Northern Ireland) 2016[^key-60be6651dd073f83044440e6e3282330], and is carried out in the course of a project which is notifiable within the meaning of regulation 6(1) of those Regulations.
+
+(2) These Regulations shall not apply to any diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005[^key-c7a72da8c58740c6b14331daffc9d673].
+
+## 4. Duties[^key-ec93bb22196153ddec918f80aa0b22d8]
+
+(1) Any duty imposed upon a compressed air contractor under these Regulations is a duty in relation to the work in compressed air in respect of which that compressed air contractor has been so appointed.
+
+(2) Regulation 10 (other than paragraphs (3)(c) and (6)(a)) and regulation 11(7)(a) and (8) shall apply to a self-employed person as they apply to an employer and an employee as if that self-employed person was both an employer and his own employee.
+
+## 5. Appointment of compressed air contractor[^key-cbdb65412856ddafc651b7decf4a2007]
+
+(1) The principal contractor for any project shall appoint, as the compressed air contractor in respect of the work in compressed air included in that project, a contractor competent to execute or to supervise the execution of such work.
+
+(2) Nothing in paragraph (1) shall prevent the appointment of the principal contractor himself as the compressed air contractor provided he is competent to perform the relevant functions imposed by these Regulations.
+
+(3) In this regulation, “principal contractor” and “contractor” have the meaning assigned to them by regulation 2(1) of the Construction (Design and Management) Regulations (Northern Ireland) 2016[^key-2ac0c9d636acb14e6b77197f2f97a1ce].
+
+## 6. Notifications[^key-d10637482d1903857ec3ff502b497832]
+
+(1) Subject to paragraph (2), the compressed air contractor shall ensure that a person shall not work in compressed air unless the compressed air contractor has given notice of the work in compressed air to the Executive in accordance with paragraph (4) at least 14 days before the work is to commence.
+
+(2) Where owing to an emergency or to circumstances which could not reasonably have been foreseen it is not practicable to comply with the requirement of paragraph (1) that notice of work in compressed air be given at least 14 days before that work is to commence, such notice shall be given as soon as is practicable after the necessity for such work becomes known to the compressed air contractor and, in any event, before such work commences.
+
+(3) The compressed air contractor shall ensure that a person shall not work in compressed air unless notice of the work in compressed air has been given in accordance with paragraph (4) to –
+
+- (a) any relevant hospital;
+- (b) local ambulance and fire services; and
+- (c) any other establishment in the vicinity which has an operable medical lock.
+
+(4) The notice referred to in paragraphs (1) to (3) shall be in writing and shall contain the information set out in Schedule 1.
+
+(5) Where notice of work in compressed air has been given by virtue of paragraph (3), the compressed air contractor shall ensure that every body to whom such notice has been given is informed without delay of the completion or suspension of that work.
+
+(6) In this regulation, “relevant hospital” means a hospital with an accident and emergency unit to which any person suffering from any acute condition arising from the work in compressed air is likely to be taken.
+
+## 7. Safe system of work[^key-4cfd15d86a28d3bd2ae230faf8f82423]
+
+(1) The compressed air contractor shall ensure that a person shall not work in compressed air or enter or leave compressed air except in accordance with a system of work which, so far as is reasonably practicable, is safe and without risks to health.
+
+(2) The compressed air contractor shall ensure that a sufficient number of competent persons are present on site to supervise the execution of work in compressed air at all times when such work is being carried out and, in the case of such work undertaken at a pressure of 0·7 bar or above, for 24 hours thereafter.
+
+(3) Without prejudice to the generality of paragraph (1), the compressed air contractor shall ensure that all shafts or tunnels under his control to which he applies compressed air and the ground surrounding them are capable of withstanding the loads arising from the application of compressed air.
+
+## 8. Plant and equipment[^key-9b5957aa4928f1099649e1037c7d7980]
+
+(1) The compressed air contractor shall ensure that there is available for immediate use all plant and ancillary equipment which is necessary for the conduct of work in compressed air in a manner which is, so far as is reasonably practicable, safe and without risks to health and that, where necessary, all such plant and equipment is used.
+
+(2) The compressed air contractor shall ensure, so far as is reasonably practicable –
+
+- (a) that all plant and ancillary equipment used for the purpose of carrying out work in compressed air is of appropriate design and construction and of sufficient capacity for that purpose;
+- (b) that all plant and ancillary equipment used for the purpose of carrying out work in compressed air is safe and without risks to health and is maintained in such a condition as to ensure that it remains safe and without risks to health at all times when it is being used; and
+- (c) that all plant and ancillary equipment used for the purpose of carrying out work in compressed air and which is to contain air at a pressure in excess of 0·15 bar is –
+  - (i) examined and tested by a competent person and rectified of any faults before work in compressed air commences; and
+  - (ii) re-examined and re-tested after any modification or alteration which has the potential to affect the safety of that plant or equipment.
+
+## 9. Appointment of contract medical adviser[^key-8fa7065cb0b84f2110e5f7a847d808b4]
+
+(1) The compressed air contractor shall appoint a contract medical adviser to give advice to him on all aspects of health relevant to the work in compressed air undertaken.
+
+(2) Nothing in paragraph (1) shall prevent the appointment of an appointed doctor to be the contract medical adviser.
+
+## 10. Medical surveillance[^key-5a62d572c9d178024ae752727457c7df]
+
+(1) Every employer shall ensure that each of his employees who works in compressed air is under adequate medical surveillance by an appointed doctor or employment medical adviser; and where an employee is to be assigned to work in compressed air, the medical surveillance shall be commenced before he is so assigned.
+
+(2) The medical surveillance required by paragraph (1) shall include examinations at such suitable intervals as the appointed doctor or employment medical adviser may require having regard to the pressure to which the employee has been or will be subjected in the course of work in compressed air and, in any event, at intervals of not more than 12 months.
+
+(3) The employer shall ensure that –
+
+- (a) a health record, containing particulars approved by the Executive, is made and maintained in respect of each of his employees who is engaged in work in compressed air;
+- (b) the record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it; and
+- (c) as soon as is reasonably practicable after an employee of his has ceased to work on any project, a copy of the relevant part or parts of the record made under sub-paragraph (a) is provided to that employee.
+
+(4) Where an appointed doctor or an employment medical adviser has certified in the health record of any employee that, in the professional opinion of the appointed doctor or employment medical adviser, the employee should not be engaged in work in compressed air or that he should only be so engaged under conditions specified in the record, the employer shall not permit the employee to be engaged in work in compressed air except in accordance with the conditions, if any, specified in the health record unless that entry has been cancelled by an appointed doctor or employment medical adviser.
+
+(5) Where an employee is subject to medical surveillance in accordance with paragraph (1) and an appointed doctor or employment medical adviser has certified by an entry in his health record that medical surveillance should be continued after his work in compressed air has ceased, the employer shall ensure that the medical surveillance of that employee is continued in accordance with that entry while he is employed by the employer unless that entry has been cancelled by an appointed doctor or employment medical adviser.
+
+(6) Every employee who is or who has been engaged in or who is to be assigned to work in compressed air shall –
+
+- (a) when required by his employer and at the cost of his employer, present himself during his working hours (or such other time as may be agreed by that employee) for such medical surveillance procedures as may be required for the purposes of this regulation; and
+- (b) furnish the appointed doctor or employment medical adviser with such information concerning his health as the appointed doctor or employment medical adviser may reasonably require.
+
+## 11. Compression and decompression procedures[^key-315eea935f356079ede304b2c0610d4c]
+
+(1) The compressed air contractor shall ensure that compression or decompression of any person engaged in work in compressed air is carried out in accordance with any procedures approved by the Executive.
+
+(2) The compressed air contractor shall ensure that a person shall not be subjected to a pressure exceeding 3·5 bar except in an unforeseen emergency.
+
+(3) The compressed air contractor shall ensure that a person shall not be subjected to the procedure of decanting except in an emergency.
+
+(4) The compressed air contractor shall ensure that an adequate record of exposure is made and maintained in respect of the times and pressures at which work in compressed air is undertaken and that the record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it.
+
+(5) The compressed air contractor shall ensure that an individual record of exposure containing the information specified in paragraph (6) is made and maintained in respect of each person who undertakes work in compressed air and that the record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it.
+
+(6) The record referred to in paragraph (5) shall contain the date, time of entry, duration and maximum pressure of each exposure and decompression details of each exposure to which the person to whom the record relates is subjected.
+
+(7) The compressed air contractor shall ensure that, as soon as is reasonably practicable after a person has ceased to work on any project –
+
+- (a) the employer of that person is provided with a copy of such part or parts of the record made pursuant to paragraph (4) as relate to that person; and
+- (b) that person is provided with a copy of such part or parts of the record made pursuant to paragraph (5) as relate to him.
+
+(8) An employer who is provided with a copy of a record pursuant to paragraph (7) shall ensure that the record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it.
+
+## 12. Medical treatment[^key-006bbed9fb3035961340b6e01ad03b87]
+
+(1) Every compressed air contractor shall ensure that adequate facilities are provided and maintained for the treatment of persons working in compressed air and for the treatment of persons who have worked in compressed air within the preceding 24 hours.
+
+(2) In the case of work undertaken at a pressure of 0·7 bar or above, the facilities referred to in paragraph (1) shall include –
+
+- (a) a medical lock;
+- (b) a person competent to operate that lock; and
+- (c) a person (whether the same or in addition to the person referred to in sub-paragraph (b)) competent to provide medical assistance in respect of any condition arising from such work.
+
+(3) In the case of work undertaken at a pressure of 1·0 bar or above, the facilities referred to in paragraph (1) shall include –
+
+- (a) a medical lock; and
+- (b) the presence of a person competent both to operate that lock and to provide medical assistance in respect of any condition arising from such work, which person shall be employed specifically for such purposes.
+
+## 13. Emergencies[^key-16b4a5fb86482dbd2373e1e2a732d887]
+
+(1) The compressed air contractor shall ensure that a person shall not work in compressed air unless there are suitable and sufficient arrangements for action to be taken in the event of an emergency.
+
+(2) Without prejudice to the generality of paragraph (1), the arrangements required by that paragraph shall extend to –
+
+- (a) arrangements for ensuring that the requirement of regulation 29, 30 and 34(3) of the 2016 Regulations[^key-1bb4e2d237c60cdd54e9350551050878] are complied with;
+- (b) the provision and maintenance of a sufficient number of suitable means of access;
+- (c) the provision and maintenance of suitable means of raising the alarm; and
+- (d) (where an airlock is required for the purpose of putting into operation an evacuation pursuant to regulation 27(1) of the 2016 Regulations[^key-1569153e61bcebb27a6b1fdf441d4735]) the maintenance of that airlock in such a condition as to be fit to receive persons in the event of an emergency having regard, in particular, to the air supply to and the temperature of that airlock.
+
+## 14. Precautions against fire[^key-7577119046d2a228e69019c5c1bab56f]
+
+(1) The compressed air contractor shall ensure that there is provided in respect of work in compressed air any means for fighting fire pursuant to regulation 29 of the 2016 Regulations[^key-1879c8c09e2d2a308e3346338e17014c] and that any airlock or working chamber is operated and maintained in such a manner as to minimise the risk of fire.
+
+(2) A person shall not smoke or have with him any materials for the purpose of smoking when in compressed air.
+
+(3) The compressed air contractor shall ensure compliance with paragraph (2).
+
+## 15. Information, instruction and training[^key-d0769b591d7041ae91458a7b52bb6f29]
+
+The compressed air contractor shall ensure that adequate information, instruction and training has been given to any person who works in compressed air so that he is aware of the risks arising from such work and the precautions which should be observed.
+
+## 16. Fitness for work[^key-9e1aa73d7af33b14cf12e74e5b450eb3]
+
+(1) The compressed air contractor shall ensure, so far as is reasonably practicable, that every person who works in compressed air is under adequate medical surveillance and works only in accordance with the conditions, if any, specified in his health record.
+
+(2) Notwithstanding paragraph (1), the compressed air contractor shall ensure that a person shall not work in compressed air where the compressed air contractor has reason to believe that person to be subject to any medical or physical condition which is likely to render that person unfit or unsuitable for such work.
+
+(3) A person engaged in work in compressed air shall report forthwith any medical or physical condition which he has reason to believe is likely to render him unfit or unsuitable for such work to the compressed air contractor and, in the case of an employee, to the employer.
+
+## 17. Intoxicating liquor and drugs[^key-afc0a85ceb2d30a4c8ac88b1ba66da8d]
+
+(1) The compressed air contractor shall ensure that a person shall not work in compressed air where the compressed air contractor has reason to believe that person to be under the influence of drink or a drug to such an extent that his capacity to carry out any task for which he is responsible is impaired.
+
+(2) A person shall not consume alcohol or have with him any alcoholic drink when in compressed air.
+
+(3) The compressed air contractor shall ensure compliance with paragraph (2).
+
+## 18. Welfare[^key-0bc44026db84b32f53c7229fae0aa176]
+
+The compressed air contractor shall ensure that there are provided and maintained for the use of any person engaged in work in compressed air –
+
+- (a) such facilities as are required by Schedule 3 of the 2016 Regulations[^key-601812a8dcdec42f5bafc63740e6a381];
+- (b) suitable drinks for consumption during or after decompression;
+- (c) suitable food and drinks for consumption by any person receiving therapeutic recompression or decompression; and
+- (d) adequate and suitable facilities for remaining on the site after decompression.
+
+## 19. Badge, label or other device[^key-302b11f2116ccc9d9f955cbe0df8f949]
+
+(1) Every compressed air contractor shall ensure that any person who works in compressed air at a pressure of 0·7 bar or above is supplied with a suitable and suitably worded badge, label or other similar device for the guidance of others should that employee be taken ill after leaving work and that the badge, label or device, as the case may be, contains such particulars as may be approved by the Executive.
+
+(2) Every person to whom a badge, label or other device has been supplied in accordance with paragraph (1) shall wear that badge, label or device for 24 hours after leaving work in compressed air.
+
+## 20. Defence in proceedings[^key-374ba89f98bf69f58756b042ec1796aa]
+
+In any proceedings for an offence consisting of a contravention of regulation 14(3) or 17(3) it shall be a defence for any person to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of that offence.
+
+## 21. Power to grant exemption[^key-ae9a77e1d1e6a2f4d11ad8f096c8c59c]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from all or any of the requirements or prohibitions imposed by these Regulations, and any such exemption may be granted subject to conditions and to a time limit, and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant any such exemption unless, having regard to the circumstances and in particular to –
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any enactment which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+## 22. Revocations and modification[^key-835c0d4478457cd1c435604c8d3fca2c]
+
+(1) The statutory provisions specified in column 1 of Part I of Schedule 2 are hereby revoked to the extent specified in the corresponding entry in column 3.
+
+(2) The statutory provision specified in column 1 of Part II of Schedule 2 is hereby modified to the extent specified in column 3.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 25th May 2004.
+
+Noel Lavery
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — INFORMATION TO BE CONTAINED IN A NOTICE GIVEN PURSUANT TO REGULATION 6(1), (2) OR (3).
+
+Regulation 6(4)
+
+**1.**[^key-6a941706d28cd7e56424e21113ec97ac] The fact that work in compressed air is being undertaken.
+
+**2.**[^key-7b93978d9da4b0b1b8c6364eb99a6372] The location of the site of the work in compressed air.
+
+**3.**[^key-3e09220888cb0d160674914c6a77513c] The date of the commencement and the planned date of completion of the work in compressed air.
+
+**4.**[^key-e42976b58ac8dfccf858a7189c93c751] The name of the compressed air contractor and a 24 hour contact telephone number (or numbers) of that contractor.
+
+**5.**[^key-4ae2acd66ad819f5135c1166f3de26ef] The name, address and telephone number of the contract medical adviser.
+
+**6.**[^key-56116fe1503bc1166465e4c47c5b2dad] The intended maximum pressure at which the work in compressed air is to be undertaken.
+
+**7.**[^key-f37a449eaf0f18edb0a6ed59028d2da6] The planned pattern of the work in compressed air to be undertaken including details, where applicable, of shift and weekend working.
+
+**8.**[^key-cbe8302dfa08746e4d1905eb037aff5e] The number of workers likely to be working in compressed air in each shift.
+
+## SCHEDULE 2
+
+Regulation 22
+
+### PART I — Revocations[^key-e66b683e6f330d53f0ace44e180c3d76]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th>Title</th><th>Reference</th><th>Extent of Revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>Work in Compressed Air Special Regulations (Northern Ireland) 1963</td><td><a href="https://www.legislation.gov.uk/nisro/1963/85">S.R. &amp; O. (N.I.) 1963 No. 85</a></td><td>The whole Regulations.</td></tr>
+<tr><td>Employment Medical Advisory Service (Factories Act Legislation Amendment) Regulations (Northern Ireland) 1979</td><td><a href="https://www.legislation.gov.uk/nisr/1979/187">S.R. 1979 No. 187</a></td><td>In Part II of the Schedule, the entry in respect of the Work in Compressed Air Special Regulations (Northern Ireland) 1963</td></tr>
+<tr><td>Construction (Metrication) Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/300">S.R. 1989 No. 300</a></td><td>Regulation 3, and in the list in regulation 1(2) and in Schedule 1, the entries in respect of the Work in Compressed Air Special Regulations (Northern Ireland) 1963</td></tr>
+</tbody>
+</table>
+
+### PART II — Modification[^key-7b24aba65b4efc266ebbdc1854e06d2b]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th>Title</th><th>Reference</th><th>Extent of Revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>Pressure Systems Safety Regulations (Northern Ireland) 2004</td><td><a href="https://www.legislation.gov.uk/nisr/2004/222">S.R. 2004 No. 222</a></td><td>In paragraph 8 of Part I of Schedule 1 for the words “the Work in Compressed Air Special Regulations (Northern Ireland) 1963” substitute “the Work in Compressed Air Regulations (Northern Ireland) 2004 (<a href="https://www.legislation.gov.uk/nisr/2004/241">S.R. 2004 No. 241</a>)”.</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+**1.** These Regulations impose requirements and prohibitions with respect to the health, safety and welfare of persons who work in compressed air.
+
+**2.** The Regulations apply to construction work (within the meaning of the Construction (Design and Management) Regulations (Northern Ireland) 1995 and have effect in addition to any applicable provisions of the Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996 but they do not apply to a diving operation within the meaning of the Diving Operations at Work Regulations (Northern Ireland) 1994 (regulation 3).
+
+**3.** The Regulations –
+
+- (a) provide for the appointment of a competent contractor (“the compressed air contractor”) to execute or supervise the work in compressed air included in any project (regulation 5);
+- (b) require specified information to be notified in writing to the Health and Safety Executive for Northern Ireland (“the Executive”) and to specified hospitals and other bodies before work in compressed air is commenced and for further notification of the termination or suspension of such work (regulation 6);
+- (c) require work in compressed air to be carried out only in accordance with a safe system of work and under adequate supervision and require the compressed air contractor to ensure that the ground surrounding all shafts or tunnels under his control is capable of withstanding the loads arising from the application of compressed air (regulation 7);
+- (d) impose requirements with regard to the provision, use and maintenance of adequate and suitable plant and equipment (regulation 8);
+- (e) provide that a contract medical adviser be appointed to advise the compressed air contractor on matters relating to the health of persons who work in compressed air (regulation 9);
+- (f) impose a requirement on employers for adequate medical surveillance to be carried out in respect of such of their employees who work in compressed air (regulation 10);
+- (g) require compression and decompression to be carried out safely and in accordance with any procedures approved by the Executive and impose requirements for the making and maintenance of records (regulation 11);
+- (h) require adequate medical facilities to be provided and maintained for those who work in compressed air (regulation 12);
+- (i) impose requirements with regard to the preparation of adequate emergency arrangements (regulation 13);
+- (j) impose requirements with regard to the provision of suitable fire precautions and prohibit the possession of smoking materials in compressed air (regulation 14);
+- (k) require that adequate instruction, information and training be given to persons who work in compressed air (regulation 15);
+- (l) impose requirements on –
+  - (i) the compressed air contractor to ensure, so far as is reasonably practicable, that persons who are to work in compressed air are fit to do so; and
+  - (ii) persons who work in compressed air to inform the compressed air contractor if they are unfit for such work (regulation 16);
+- (m) prohibit persons working in compressed air if impaired by drink or drugs and prohibit the consumption of alcohol in compressed air (regulation 17);
+- (n) impose requirements for the provision and maintenance of suitable welfare facilities for persons who work in compressed air (regulation 18);
+- (o) impose a requirement that, in specified circumstances, badges are to be supplied to persons who have worked in compressed air (regulation 19);
+- (p) provide a defence in proceedings in respect of specified duties of the compressed air contractor (regulation 20);
+- (q) provide that the Executive may grant exemptions from any requirement or prohibition of the Regulations in specified circumstances (regulation 21).
+
+**4.** The Regulations revoke the Work in Compressed Air Special Regulations (Northern Ireland) 1963. The Regulations revoke the references to the 1963 Regulations contained at Part II of the Schedule to the Employment Medical Advisory Service (Factories Act Legislation Amendment) Regulations (Northern Ireland) 1979 and at Regulations 1(2), 3 and Schedule 1 to the Construction (Metrication) Regulations (Northern Ireland) 1989 (regulation 22(1)).
+
+**5.** The Regulations modify the Pressure Systems Safety Regulations (Northern Ireland) 2004 at paragraph 8 of Part I of Schedule 1 so as to substitute the words “the Work in Compressed Air Regulations (Northern Ireland) 2004” for the words “the Work in Compressed Air Special Regulations (Northern Ireland) 1963” (regulation 22(2)).
+
+**6.** The Regulations are supported by the Great Britain guidance document entitled “A Guide to the Work in Compressed Air Regulations 1996” (L96, HSE Books 1996, ISBN 0 7176 1120 5) and the addendum on oxygen decompression. In addition, British Standard (BS 6164:2001) Code of Practice for safety in tunnelling in the construction industry is also relevant.
+
+**7.** In Great Britain, the corresponding Regulations are the Work in Compressed Air Regulations 1996 ([S.I. 1996/1656](https://www.legislation.gov.uk/uksi/1996/1656)).
+
+**8.** A person who contravenes the Regulations is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3 and [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5)
+
+[^f00002]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00003]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 17 must be read with [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3 and 4
+
+[^f00004]: Footnote: Article 13(1) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
+
+[^f00005]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18(c)
+
+[^key-3b66eeb6f658b762906c94818b8210ee]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-32a8305245f23cbe7d9043fbbca09a9f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/241/regulation/2) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-cfa855249ed12a87566cdadfba2b116c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/241/regulation/2/1) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-d444e6acd5b6a06d78eea79c5eaf2905]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/241/regulation/3) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-b8a826af0bbd0cd5b05d6c807db453e5]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/241/regulation/3/1) substituted (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/nisr/2007/291/schedule/6/paragraph/8) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
+
+[^key-60be6651dd073f83044440e6e3282330]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/241/regulation/3/1) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-c7a72da8c58740c6b14331daffc9d673]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2004/241/regulation/3/2) substituted (4.4.2005) by [The Diving at Work Regulations (Northern Ireland) 2005 (S.R. 2005/45)](https://www.legislation.gov.uk/nisr/2005/45), [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/7)
+
+[^key-ec93bb22196153ddec918f80aa0b22d8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/241/regulation/4) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-cbdb65412856ddafc651b7decf4a2007]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/241/regulation/5) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-2ac0c9d636acb14e6b77197f2f97a1ce]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2004/241/regulation/5/3) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-d10637482d1903857ec3ff502b497832]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/241/regulation/6) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-4cfd15d86a28d3bd2ae230faf8f82423]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/241/regulation/7) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-9b5957aa4928f1099649e1037c7d7980]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/241/regulation/8) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-8fa7065cb0b84f2110e5f7a847d808b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/241/regulation/9) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-5a62d572c9d178024ae752727457c7df]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/241/regulation/10) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-315eea935f356079ede304b2c0610d4c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/241/regulation/11) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-006bbed9fb3035961340b6e01ad03b87]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/241/regulation/12) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-16b4a5fb86482dbd2373e1e2a732d887]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2004/241/regulation/13) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-1bb4e2d237c60cdd54e9350551050878]: Textual amendment: Words in [reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2004/241/regulation/13/2/a) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-1569153e61bcebb27a6b1fdf441d4735]: Textual amendment: Words in [reg. 13(2)(d)](https://www.legislation.gov.uk/nisr/2004/241/regulation/13/2/d) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-7577119046d2a228e69019c5c1bab56f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/241/regulation/14) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-1879c8c09e2d2a308e3346338e17014c]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2004/241/regulation/14/1) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-d0769b591d7041ae91458a7b52bb6f29]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/241/regulation/15) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-9e1aa73d7af33b14cf12e74e5b450eb3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2004/241/regulation/16) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-afc0a85ceb2d30a4c8ac88b1ba66da8d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/241/regulation/17) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-0bc44026db84b32f53c7229fae0aa176]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/241/regulation/18) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-601812a8dcdec42f5bafc63740e6a381]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/nisr/2004/241/regulation/18/a) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^key-302b11f2116ccc9d9f955cbe0df8f949]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/241/regulation/19) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-374ba89f98bf69f58756b042ec1796aa]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/241/regulation/20) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-ae9a77e1d1e6a2f4d11ad8f096c8c59c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/241/regulation/21) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-835c0d4478457cd1c435604c8d3fca2c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/241/regulation/22) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-6a941706d28cd7e56424e21113ec97ac]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/1) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-7b93978d9da4b0b1b8c6364eb99a6372]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/2) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-3e09220888cb0d160674914c6a77513c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/3) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-e42976b58ac8dfccf858a7189c93c751]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/4) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-4ae2acd66ad819f5135c1166f3de26ef]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/5) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-56116fe1503bc1166465e4c47c5b2dad]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/6) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-f37a449eaf0f18edb0a6ed59028d2da6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/7) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-cbe8302dfa08746e4d1905eb037aff5e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2004/241/schedule/1/paragraph/8) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-e66b683e6f330d53f0ace44e180c3d76]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2004/241/schedule/2/part/I) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)
+
+[^key-7b24aba65b4efc266ebbdc1854e06d2b]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2004/241/schedule/2/part/II) in operation at 5.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/241/regulation/1)

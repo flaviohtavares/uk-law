@@ -1,0 +1,306 @@
+---
+title: The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020
+id: nisr/2020/53
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: null
+text_date: '2021-07-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2020/53
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2020/53/pdfs/nisrem_20200053_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2020/53/pdfs/nisr_20200053_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/53/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020
+
+> Text as at 2021-07-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2020 No. 53
+
+Social Security
+
+The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020
+
+Made
+
+at 11.51 a.m. on 27th March 2020
+
+Laid before Parliament
+
+at 3.00 p.m. on 27th March 2020
+
+Coming into operation
+
+30th March 2020
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 70(8), 122(1)(d), 129A(2), 167D, 167G(2) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c24045161], Articles 2(2), 8(4), 8E(5), 8F(1), 9(4) and 36(2) of the Jobseekers (Northern Ireland) Order 1995 [^c24045171] and Articles 5, 14(2), 23(5), 27(2), 43(6), 48(1), (2) and (4) of, and paragraph 4(4) of Schedule 1, to the Welfare Reform (Northern Ireland) Order 2015 [^c24045181].
+
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1) of the Welfare Reform (Northern Ireland) Order 2015 [^c24045191].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 and shall come into operation on 30th March 2020.
+
+(2) In these Regulations—
+
+- “**coronavirus**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+- “**coronavirus disease**” means COVID-19 (the official designation of the disease which can be caused by coronavirus);
+- “**the Department**” means the Department for Communities;
+- “**isolation**” in relation to a person, means the separation of that person from any other person in such a manner as to prevent infection or contamination with coronavirus disease;
+- “**universal credit**” means universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015;
+- “**the Universal Credit Regulations**” means the Universal Credit Regulations (Northern Ireland) 2016 [^c24045201].
+
+(3) The Interpretation Act (Northern Ireland) 1954 [^c24045211] shall apply to these Regulations as it applies to an Act of the Assembly. For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954 where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+## 2. Universal credit – minimum income floor[^key-7087154816b4735d4afac2111cfc1ee2]
+
+(1) The Department may, where it appears expedient as a consequent of the outbreak of coronavirus disease, and in such cases or class of case, or for such period, as the Department determines—
+
+- (a) treat the amount of the individual threshold or the couple threshold in regulation 63 [^c24045221] (minimum income floor) of the Universal Credit Regulations as if it were a lesser amount (including zero);
+- (b) where it falls to be determined whether a claimant is in gainful self-employment, delay that determination;
+- (c) where it has been determined that a claimant is in gainful self-employment, treat that claimant as not being in gainful self-employment;
+- (d) where a claimant is in a start-up period, extend that period for as long as the Department considers appropriate; or
+- (e) in relation to any claimant who would otherwise fall within Article 27 of the Welfare Reform (Northern Ireland) Order 2015 (all work-related requirements) as a result of this regulation, except that claimant from a work search requirement or a work availability requirement.
+
+(2) In this regulation “start-up period” and “gainful self-employment” have the meanings given in regulations 64 and 65 respectively of the Universal Credit Regulations.
+
+## 3. Universal credit – standard allowance modification
+
+(1) Regulation 38 (amounts of elements) of the Universal Credit Regulations, as amended by Article 33 of, and Schedule 13 to, the Social Security Benefits Up-rating Order (Northern Ireland) 2020 [^c24045231] (“**the 2020 Up-rating Order**”) is to be read as if the following amounts were substituted for the amounts of the standard allowance—
+
+- (a) £342.72 for a single claimant aged under 25;
+- (b) £409.89 for a single claimant aged 25 or over;
+- (c) £488.59 for joint claimants both aged under 25;
+- (d) £594.04 for joint claimants where either is aged 25 or over.
+
+(2) This regulation takes effect in relation to each award of universal credit in the first assessment period that ends on or after 6th April 2020[^key-49e4283e5f6a8dcaee56246065090f17] and continues to have effect only for the remainder of the tax year beginning with 6th April 2020.
+
+## 4. Local Housing Allowance
+
+(1) The Housing Benefit (Executive Determinations Regulations (Northern Ireland) 2008 [^c24045241] are amended as follows—
+
+- (a) in regulation 3 (broad rental market determinations and local housing allowance determinations)—
+  - (i) in paragraph (2A), at the end add “ and also the 31st March 2020 ”;
+  - (ii) in paragraph (3A), at the end add “ , and the determinations made on the 31st March 2020 shall take effect (on 1st April 2020) in place of the determinations made on the 31st January 2020 ”;
+- (b) in the Schedule, for paragraph 2(2) (local housing allowance for category of dwelling in paragraph 1) substitute—
+
+  > (2) The local housing allowance for any category of dwelling is the lower of—
+  >
+  > - (a) the rent at the 30th percentile determined in accordance with sub-paragraphs (4) to (8); and
+  > - (b) for a category of dwelling listed in column 1 of the following table, the amount listed in column 2 of that table (maximum local housing allowance)—
+  >
+  >   | *1. Category of dwelling as specified in paragraph 1* | *2. Maximum local housing allowance for that category of dwelling* |
+  >   | --- | --- |
+  >   | paragraph 1(1)(a) (one bedroom, shared accommodation) | £295.49 |
+  >   | paragraph 1(1)(b) (one bedroom, exclusive use) | £295.49 |
+  >   | paragraph 1(1)(c) (two bedrooms) | £365.92 |
+  >   | paragraph 1(1)(d) (three bedrooms) | £441.86 |
+  >   | paragraph 1(1)(e) (four bedrooms) | £593.75 |
+
+  .
+
+(2) The Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016 [^c24045251] are amended as follows—
+
+- (a) in regulation 4 (local housing allowance determinations)—
+  - (i) in paragraph (1) after “last working day of January” insert “ and also the 31st March 2020 ”;
+  - (ii) after paragraph (3) insert—
+
+    > (3A) The determinations made in accordance with paragraph (1) on 31st March 2020 shall take effect (under paragraph (3)) in place of the determinations made in accordance with paragraph (1) on the 31st January 2020.
+
+    ;
+- (b) in Schedule 1 for paragraph 2(2) (local housing allowance for category of accommodation in paragraph 1) substitute—
+
+  > (2) The local housing allowance for any category of accommodation is the lower of—
+  >
+  > - (a) the rent at the 30th percentile determined in accordance with paragraph 3; and
+  > - (b) for a category of accommodation listed in column 1 of the following table, the amount listed in column 2 of that table (maximum local housing allowance)—
+  >
+  >   | *1. Category of accommodation as specified in paragraph 1* | *2. Maximum local housing allowance for that category of accommodation* |
+  >   | --- | --- |
+  >   | paragraph 1(a) (one bedroom, shared accommodation) | £1,283.96 |
+  >   | paragraph 1(b) (one bedroom, exclusive use) | £1,283.96 |
+  >   | paragraph 1(c) (two bedrooms) | £1,589.99 |
+  >   | paragraph 1(d) (three bedrooms) | £1,920.00 |
+  >   | paragraph 1(e) (four bedrooms) | £2,579.98 |
+
+  .
+
+## 5. Housing benefit – disregards from income modification
+
+(1) The following provisions of the Housing Benefit Regulations (Northern Ireland) 2006 [^c24045261] shall be read as if, for “£17.10” there were substituted “ £37.10 ”
+
+- (a) paragraph 17(1) and (3)(c) of Schedule 5 (sums to be disregarded in the calculation of earnings);
+- (b) paragraph 58 of Schedule 6 (sums to be disregarded in the calculation of income other than earnings).
+
+(2) The following provisions of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 [^c24045271] shall be read as if, for “£17.10” there were substituted “ £37.10 ”
+
+- (a) paragraph 9(1) and (3)(c) of Schedule 5 (sums disregarded from claimant's earnings);
+- (b) paragraph 22 of Schedule 6 (amounts to be disregarded in the calculation of income other than earnings).
+
+(3) This regulation takes effect on 6th April 2020 and ceases to have effect at the end of 4th April 2021.
+
+## 6. Universal credit and new style JSA – work-related requirements
+
+(1) As a consequence of the outbreak of coronavirus disease, where a person has an award of new style JSA or an award of universal credit—
+
+- (a) the Department must not impose a work search requirement [^c24045281] on that person;
+- (b) a work search requirement previously applying to such a person ceases to have effect from the date on which these Regulations come into operation; and
+- (c) “able and willing immediately to take up paid work” under a work availability requirement [^c24045291]imposed on such a person means able and willing to take up paid work, or attend an interview, immediately once this regulation ceases to apply.
+
+(2) This regulation applies for a period of 3 months beginning with the date that these Regulations come into operation and the Department may extend that period for all cases or any class of case where it appears expedient as a consequence of the continuation of the outbreak of coronavirus disease.
+
+(3) In this regulation, “**new style JSA**” means an allowance under the Jobseekers (Northern Ireland) Order 1995 as amended by the amendments made by Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income-based allowance.
+
+## 7. Old style JSA – availability for employment and actively seeking employment
+
+(1) As a consequence of the outbreak of coronavirus disease, a person who has an award of old style JSA is to be treated as—
+
+- (a) available for employment; and
+- (b) actively seeking employment,
+
+for the purposes of the Jobseekers (Northern Ireland) Order 1995 [^c24045301].
+
+(2) This regulation applies for a period of 3 months beginning with the date that these Regulations come into operation and the Department may extend that period for all cases or any class of case where it appears expedient as a consequence of the continuation of the outbreak of coronavirus disease.
+
+(3) In this regulation, “**old style JSA**” means a jobseeker's allowance under the Jobseekers (Northern Ireland) Order 1995 as that Order has effect apart from the amendments made by Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income-based allowance.
+
+## 8. Jobseeker's Allowance – periods of sickness
+
+(1) A person who has an award of jobseeker's allowance and who is—
+
+- (a) infected or contaminated with coronavirus disease;
+- (b) in isolation; or
+- (c) caring for a child or qualifying young person who is a member of the person's household and who falls within sub-paragraph (a) or (b),
+
+and who satisfies the requirements for entitlement to a jobseeker's allowance other than those specified in Article 3(2)(f) of the Jobseekers (Northern Ireland) Order 1995 [^c24045311] is to be treated as capable of work or as not having limited capability for work.
+
+(2) Any period during which this regulation applies to the person is to be disregarded for the purposes of calculating the number of occasions for the purposes of—
+
+- (a) regulations 55 and 55ZA of the Jobseeker's Allowance Regulations (Northern Ireland) 1996 [^c24045321];
+- (b) regulations 45 and 46 of the Jobseeker's Allowance Regulations (Northern Ireland) 2016 [^c24045331].
+
+(3) In this regulation, “**jobseeker's allowance**” means an allowance under the Jobseekers (Northern Ireland) Order 1995.
+
+## 9. Carer's Allowance
+
+(1) This regulation applies where a person in receipt of carer's allowance (“A”) is temporarily unable to care for the severely disabled person (“B”) in respect of whom the carer's allowance is paid by reason of isolation due to, or infection or contamination with, coronavirus disease of either A or B.
+
+(2) Regulation 4(2) of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976 [^c24045341] is to be read as if the words starting with “and” at the end of sub-paragraph (a) to the end of sub-paragraph (b) were omitted.
+
+(3) In this regulation—
+
+- (a) “**carer's allowance**” means the allowance paid under section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c24045351]; and
+- (b) “**severely disabled person**” has the meaning given in section 70(2) [^c24045361] of that Act.
+
+## 10. Expiry
+
+(1) The Secretary of State must keep the operation of these Regulations under review.
+
+(2) Regulations 6 and 7[^key-42fe5670f4a46b3e23f27a515c1f50c0] cease to have effect at the end of the period of eight months beginning on 13th March 2020.
+
+(2A)[^key-09aeeaecd8755243791ec2826e791d4b] Regulation 2 ceases to have effect on 31st July 2021[^key-a6147d42b2d4779982922fc442f0ac77].
+
+(2B) Regulations 8 and 9 cease to have effect on 31st August 2021[^key-a86cd8d3ea1c0ea1009a58db1024f827].
+
+(3) Regulation 3 (treating a person as having limited capability for work) and regulation 4 (suspension of the minimum income floor) of the Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 [^c24045371] no longer have effect in so far as they apply to Universal Credit.
+
+Signed by the Secretary of State for Work and Pensions
+
+Thèrése Coffey
+
+Secretary of State
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide further measures in response to the present outbreak of coronavirus disease in Northern Ireland. They are in addition to those in the Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020 No. 33).
+
+Under regulation 2 the Department has the discretion to apply a number of measures in relation to the minimum income floor (MIF), which applies to self-employed claimants in universal credit. The Department may reduce MIF to a lesser amount (including zero), delay making a determination that a person is in gainful self-employment, treat a person as not being in gainful self-employment, extend a start-up period or exempt a self-employed claimant from a requirement to seek work or be available for work.
+
+Regulation 3 makes modifications to the amount of the standard allowance in universal credit in relation to the 2020-21 tax year.
+
+Regulation 4 amends the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008 (S.R. 2008 No. 100) and the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 222) to provide that the Northern Ireland Housing Executive must determine a local housing allowance (private rented sector) for each relevant category of accommodation, in each broad rental market area, on 31st March 2020, so that the allowance is set at the lower of rent at the 30th percentile of local rents and revised national caps. The determinations are to replace the determinations made on 31st January 2020 and are to take effect on 1st April 2020.
+
+Regulation 5 makes modifications in relation to the tax year 2020-21 to Schedules 5 and 6 of the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405) and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406, so as to provide that the disregard from income that applies to the calculation of housing benefit where a person is entitled to working tax credit, or works for a specified minimum number of hours per week, is increased from £17.10 to £37.10. The increase takes into account the temporary increase in the basic element of working tax credit made by section 77 of the Coronavirus Act 2020 (c.7). The regulation takes effect on 6th April 2020 and ceases to have effect at the end of 4th April 2021.
+
+Regulation 6 applies to a claimant who has an award of universal credit or new style JSA and makes provision so that work search requirements are not imposed for a period of 3 months from the date these Regulations come into operation as a consequence of the outbreak of coronavirus disease. Provision is also made so that any existing work search requirement no longer applies and so that the requirement to be “able and willing immediately to take up paid work” under a work availability requirement applies only once the regulation ceases to apply. There is power for the Department to extend the 3-month period in consequence of the continuation of the outbreak of coronavirus disease.
+
+Regulation 7 makes provision for claimants who have an award of old style JSA. Such claimants will be treated as available for work and actively seeking employment for the purposes of the Jobseekers (Northern Ireland) Order 1995 (S.I. 1995/2705 (N.I. 15)). This regulation applies for a period of 3 months, beginning with the date that the Regulations come into operation, and there is power for the Department to extend the 3-month period in consequence of the continuation of the outbreak of coronavirus.
+
+Regulation 8 applies to a person who is infected or contaminated with coronavirus disease, in isolation or caring for a child or qualifying young person in their household who is so infected or contaminated or is in isolation. Where such a person satisfies the requirements for entitlement to a jobseeker's allowance, other than the requirement in Article 3(2)(f) of the Jobseekers (Northern Ireland) Order 1995 that the person does not have limited capability for work, the person is to be treated as capable of work or as not having limited capability for work. Any period during which the regulation applies to the person is to be disregarded for the purposes of calculating the number of occasions that regulation 55 or 55ZA of the Jobseeker's Allowance Regulations (Northern Ireland) 1996 (S.R. 1996 No. 198) or regulation 45 or 46 of the Jobseeker's Allowance Regulations (Northern Ireland) 2016 (S.R. 2016 No. 218) apply to that person. Those regulations enable a person with an award of jobseeker's allowance to have certain periods of sickness without losing entitlement to jobseeker's allowance. By not counting any period during which a person is infected or contaminated with coronavirus disease, in isolation or caring for a child or qualifying young person in their household who is so infected or contaminated or is in isolation, any such period will not count towards a period of sickness and so a person will not lose entitlement to jobseeker's allowance because of coronavirus disease.
+
+The effect of regulation 9 is to allow carers to retain their entitlement to carer's allowance if they have a temporary break in caring as a result of isolation due to, or infection or contamination with, coronavirus disease of either the carer or the person cared for.
+
+Under regulation 10 the Secretary of State must keep the operation of the Regulations under review. Regulations 2, 6, 7, 8 and 9 expire on the same day as the Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020. Provision is also made so that regulations 3 and 4 of the Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 no longer have effect so far as they apply to universal credit. Regulation 3 of those Regulations treats a person as having limited capability for work in certain circumstances and regulation 4 enables the minimum income floor to be suspended once a person is no longer treated as having limited capability for work. Those provisions are no longer necessary due to the provisions made in these Regulations.
+
+A full impact assessment has not been produced for this instrument as no, or no significant impact on the private, public or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c24045161]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [sections 167D](https://www.legislation.gov.uk/nisr/2020/53/section/167D) and 167G were inserted by Article 8(1) of the [Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898). Section 167G(2) is cited for the meaning of “prescribed”.Section 171(1) was amended by paragraph 5 of Schedule 4 to the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and section 171(5) was amended by paragraph 36 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I.1994/1898](https://www.legislation.gov.uk/uksi/1994/1898) N.I. 12)).
+
+[^c24045171]: Marginal citation: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705). Article 2(2) is cited for the meaning of “prescribed” and “regulations”. Articles 8E and 8F were inserted by Article 55(4) of the Welfare Reform (Northern Ireland) Order 2015 (S.I 2015/2006 (N.I. 1)). Article 36(2) was amended by paragraph 55 of Schedule 3 to the [Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671).
+
+[^c24045181]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); [Article 5](https://www.legislation.gov.uk/nisr/2020/53/article/5) is cited for the meaning of “prescribed”.
+
+[^c24045191]: Marginal citation: [Article 4](https://www.legislation.gov.uk/nisr/2020/53/article/4) was amended by Article 4 of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999). Functions under or for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and the Jobseekers (Northern Ireland) Order 1995 are vested in the Department for Communities by virtue of Article 8(b) of S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481) and section 1(7) of the [Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5).
+
+[^c24045201]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216).
+
+[^c24045211]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^key-7087154816b4735d4afac2111cfc1ee2]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/53/regulation/2) continued in part (with modifications) (temp.) (31.7.2021) by [The Universal Credit (Coronavirus) (Restoration of the Minimum Income Floor) Regulations (Northern Ireland) 2021 (S.R. 2021/209)](https://www.legislation.gov.uk/nisr/2021/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/209/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2021/209/regulation/2)
+
+[^c24045221]: Marginal citation: [Regulation 63](https://www.legislation.gov.uk/nisr/2020/53/regulation/63) was amended by regulation 3 of S.R. [2019 No. 173](https://www.legislation.gov.uk/ukcm/2019/173).
+
+[^c24045231]: Marginal citation: S.R. [2020 No. 40](https://www.legislation.gov.uk/ukcm/2020/40).
+
+[^key-49e4283e5f6a8dcaee56246065090f17]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2020/53/regulation/3/2) substituted (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/61)](https://www.legislation.gov.uk/nisr/2020/61), [regs. 1](https://www.legislation.gov.uk/nisr/2020/61/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2020/61/regulation/2/1)
+
+[^c24045241]: Marginal citation: S.R. [2008 No. 100](https://www.legislation.gov.uk/ukcm/2008/100); relevant amending Rules are SR [2012 No. 157](https://www.legislation.gov.uk/ukcm/2012/157), SR [2015 No.2](https://www.legislation.gov.uk/ukcm/2015/2) and SR [2020 No. 14](https://www.legislation.gov.uk/ukcm/2020/14).
+
+[^c24045251]: Marginal citation: S.R. [2016 No. 222](https://www.legislation.gov.uk/ukcm/2016/222).
+
+[^c24045261]: Marginal citation: S.R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405); [paragraph 17(1)](https://www.legislation.gov.uk/nisr/2020/53/paragraph/17/1) and (3)(c) of Schedule 5 was amended by regulation 2(6)(b) of S.R. [2009 No. 382](https://www.legislation.gov.uk/ukcm/2009/382) and Article 19(9) of S.R. [2010 No. 118](https://www.legislation.gov.uk/ukcm/2010/118) and paragraph 58 of Schedule 6 was amended by Article 19(10) of S.R. [2010 No. 118](https://www.legislation.gov.uk/ukcm/2010/118); *see also* Article 24(9) and (10) of S.R. [2020 No. 40](https://www.legislation.gov.uk/ukcm/2020/40).
+
+[^c24045271]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406); [paragraph 9(1)](https://www.legislation.gov.uk/nisr/2020/53/paragraph/9/1) and (3)(c) of Schedule 5 was amended by Article 20(8) of S.R. [2010 No. 118](https://www.legislation.gov.uk/ukcm/2010/118) and paragraph 22 of Schedule 6 was amended by regulation 6(6)(d) of S.R. [2008 No. 498](https://www.legislation.gov.uk/ukcm/2008/498) and Article 20(9) of S.R. [2010 No. 118](https://www.legislation.gov.uk/ukcm/2010/118); *see also* Article 25(8) and (9) of S.R. [2020 No. 40](https://www.legislation.gov.uk/ukcm/2020/40).
+
+[^c24045281]: Marginal citation: See Article 8D of the Jobseekers (Northern Ireland) Order 1995 and Article 22 of the Welfare Reform (Northern Ireland) Order 2015.
+
+[^c24045291]: Marginal citation: See Article 8E of the Jobseekers (Northern Ireland) Order 1995 and Article 23 of the Welfare Reform (Northern Ireland) Order 2015.
+
+[^c24045301]: Marginal citation: *See* Article 8(1) for the meaning of “available for employment” and Article 9(1) for the meaning of “actively seeking employment”.
+
+[^c24045311]: Marginal citation: [Article 3(2)(f)](https://www.legislation.gov.uk/nisr/2020/53/article/3/2/f) was substituted by paragraph 6(3) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2)
+
+[^c24045321]: Marginal citation: S.R. [1996 No. 198](https://www.legislation.gov.uk/ukcm/1996/198); [Regulation 55](https://www.legislation.gov.uk/nisr/2020/53/regulation/55) was amended by regulation 17(2) of S.R. [1996 No. 358](https://www.legislation.gov.uk/ukcm/1996/358), [Article 9(5)(d)](https://www.legislation.gov.uk/ukcm/1996/358/article/9/5/d) of S.R. [1999 No. 428](https://www.legislation.gov.uk/ukcm/1999/428) (C. 32), regulation 3(5) of S.R. [2004 No. 308](https://www.legislation.gov.uk/ukcm/2004/308), [regulation 19(9)(a)](https://www.legislation.gov.uk/ukcm/2004/308/regulation/19/9/a) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286), [regulation 4(2)](https://www.legislation.gov.uk/ukcm/2008/286/regulation/4/2) of S.R. [2010 No. 347](https://www.legislation.gov.uk/ukcm/2010/347), [regulation 7(2)](https://www.legislation.gov.uk/ukcm/2010/347/regulation/7/2) of S.R. [2011 No. 135](https://www.legislation.gov.uk/ukcm/2011/135), [regulation 2(4)](https://www.legislation.gov.uk/ukcm/2011/135/regulation/2/4) of S.R. [2015 No. 138](https://www.legislation.gov.uk/ukcm/2015/138), [regulation 2(2)](https://www.legislation.gov.uk/ukcm/2015/138/regulation/2/2) of S.R. [2016 No. 233](https://www.legislation.gov.uk/ukcm/2016/233), [regulation 5(12)](https://www.legislation.gov.uk/ukcm/2016/233/regulation/5/12) of S.R. [2016 No. 241](https://www.legislation.gov.uk/ukcm/2016/241) and regulation 4(5) of S.R. [2017 No. 116](https://www.legislation.gov.uk/ukcm/2017/116). Regulation 55ZA was inserted by regulation 3(6) of S.R. [2004 No. 308](https://www.legislation.gov.uk/ukcm/2004/308) and amended by 19(10) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286), [regulation 4(3)](https://www.legislation.gov.uk/ukcm/2008/286/regulation/4/3) of S.R. [2010 No. 347](https://www.legislation.gov.uk/ukcm/2010/347) and regulation 5(13) of S.R. [2016 No. 241](https://www.legislation.gov.uk/ukcm/2016/241).
+
+[^c24045331]: Marginal citation: S.R. [2016 No. 218](https://www.legislation.gov.uk/ukcm/2016/218); [Regulation 45](https://www.legislation.gov.uk/nisr/2020/53/regulation/45) was amended by regulation 10(9) of S.R. [2017 No. 116](https://www.legislation.gov.uk/ukcm/2017/116) and regulation 46 was amended by regulation 10(10) of S.R. [2017 No. 116](https://www.legislation.gov.uk/ukcm/2017/116).
+
+[^c24045341]: Marginal citation: S.R. [1976 No. 99](https://www.legislation.gov.uk/ukcm/1976/99).
+
+[^c24045351]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [section 70](https://www.legislation.gov.uk/nisr/2020/53/section/70) was amended by Articles 2(2)(a)(iii) and 3 of S.R. [2002 No. 321](https://www.legislation.gov.uk/ukcm/2002/321), [regulation 2(3)](https://www.legislation.gov.uk/ukcm/2002/321/regulation/2/3) of S.R. [2011 No. 356](https://www.legislation.gov.uk/ukcm/2011/356), [regulation 5(2)](https://www.legislation.gov.uk/ukcm/2011/356/regulation/5/2) of S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228) and regulation 4(2) and (3) of S.R. [2016 No. 236](https://www.legislation.gov.uk/ukcm/2016/236).
+
+[^c24045361]: Marginal citation: [Section70(2)](https://www.legislation.gov.uk/nisr/2020/53/section/70/2) was amended by regulation 5(2) of S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228).
+
+[^key-42fe5670f4a46b3e23f27a515c1f50c0]: Textual amendment: Words in reg. 10(2) substituted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [2(a)](https://www.legislation.gov.uk/nisr/2020/242/regulation/2/a)
+
+[^key-09aeeaecd8755243791ec2826e791d4b]: Textual amendment: Reg. 10(2A)(2B) inserted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2020/242/regulation/2/b)
+
+[^key-a6147d42b2d4779982922fc442f0ac77]: Textual amendment: Words in reg. 10(2A) substituted (6.4.2021) by [The Universal Credit (Extension of Coronavirus Measures) Regulations (Northern Ireland) 2021 (S.R. 2021/67)](https://www.legislation.gov.uk/nisr/2021/67), [regs. 1](https://www.legislation.gov.uk/nisr/2021/67/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/67/regulation/3)
+
+[^key-a86cd8d3ea1c0ea1009a58db1024f827]: Textual amendment: Words in [reg. 10(2B)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/2B) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/105)](https://www.legislation.gov.uk/nisr/2021/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/105/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/105/regulation/3)
+
+[^c24045371]: Marginal citation: S.R. [2020 No. 33](https://www.legislation.gov.uk/ukcm/2020/33)

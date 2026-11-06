@@ -1,0 +1,114 @@
+---
+title: Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022
+id: nia/2022/10
+type: NorthernIrelandAct
+category: primary
+status: revised
+made_date: '2022-03-30'
+text_date: '2023-02-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2022/10
+pdf_urls:
+- http://www.legislation.gov.uk/nia/2022/10/pdfs/niaen_20220010_en.pdf
+- http://www.legislation.gov.uk/nia/2022/10/pdfs/nia_20220010_en.pdf
+- http://www.legislation.gov.uk/nia/2022/10/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022
+
+> Text as at 2023-02-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022
+
+2022 Chapter 10
+
+An Act to amend the Human Tissue Act 2004 concerning consent to activities done for the purpose of transplantation and make consequential amendments about the provision of information about such consent.
+
+\[30th March 2022\]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## 1. “Appropriate consent” to adult transplant activities[^key-5ef1af2eb01f8798a0601ee75aceff5e][^key-3c3d0b3f06007c0fa2e23a9ff05c8bdb]
+
+(1) Section 3 of the Human Tissue Act 2004 (“appropriate consent”: adults) is amended in accordance with subsections (2) to (5).
+
+(2) In subsection (6)—
+
+- (a) in paragraph (ba), after “(6A)” insert “or (6AA)”;
+- (b) in paragraph (c), after “(6A)” insert “or (6AA)”.
+
+(3) After subsection (6A), insert—
+
+> (6AA) This subsection applies to the following activities done in Northern Ireland unless the body is the body of an excepted adult—
+>
+> - (a) the storage of the body of a deceased person for use for the purpose of transplantation;
+> - (b) the removal from the body of a deceased person, for use for the purpose of transplantation, of any permitted material of which the body consists or which it contains;
+> - (c) the storage for use for the purpose of transplantation of any permitted material which has come from a human body;
+> - (d) the use for the purpose of transplantation of any permitted material which has come from a human body.
+
+.
+
+(4) After subsection (9), insert—
+
+> (9A) In subsection (6AA)—
+>
+> - “**excepted adult**” means—
+>   - (a) an adult who has died and who had not been ordinarily resident in Northern Ireland for a period of at least 12 months immediately before dying, or
+>   - (b) an adult who has died and who for a significant period before dying lacked capacity to understand the effect of subsection (6)(ba);
+> - “**permitted material**” means relevant material of a type specified in regulations made by the Department of Health in Northern Ireland, but the regulations may not make provision dealing with a matter falling within a description specified in Schedule 3 to the Northern Ireland Act 1998 (reserved matters).
+
+.
+
+(5) In subsection (10), after “(9)” insert “or (9A)”.
+
+(6) In section 52 of the Human Tissue Act 2004 (orders and regulations)—
+
+- (a) after subsection (4A), insert—
+
+  > (4B) No regulations may be made under section 3(9A) unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+  >
+  > (4C) The power of the Department of Health in Northern Ireland to make regulations under section 3(9A) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 and subsection (2) does not apply to that power.
+
+  ;
+- (b) after subsection (10), insert—
+
+  > (11) Before acting under section 3(9A), the Department of Health in Northern Ireland must consult such persons as it considers appropriate.
+
+  .
+
+(7) In section 15 of the the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (duty to promote transplantation), at the end add—
+
+> (3) The duty under subsection (2) must be discharged in such a way that the public are at least once a year given—
+>
+> - (a) information about the effect of the legislation about deemed consent for transplantation of parts of a person’s body after their death, and
+> - (b) information about how a person can during their lifetime—
+>   - (i) record their own decisions about transplantation after their death of parts of their body, or
+>   - (ii) appoint someone to make decisions after their death about transplantation of parts of their body.
+
+.
+
+(8) In section 16(3)(a) of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (annual report on transplantation must, at least once every five years, address whether the Act has been effective in promoting transplantation), for “has” substitute “, and the amendments made in section 3 of the Human Tissue Act 2004 by the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2021, have”.
+
+## 2. Commencement and short title[^key-bf0ff600cafedad6b9953a3b59fc5ad1]
+
+(1) This section comes into operation on the day after the day on which this Act receives Royal Assent.
+
+(2) Section 1 comes into operation on such day or days as the Department of Health may by order appoint.
+
+(3) This Act may be cited as the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022.
+
+## Annotations
+
+[^key-5ef1af2eb01f8798a0601ee75aceff5e]: Commencement: S. 1 not in operation at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2)
+
+[^key-3c3d0b3f06007c0fa2e23a9ff05c8bdb]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/10/section/1) in operation at 13.2.2023 by [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
+
+[^key-bf0ff600cafedad6b9953a3b59fc5ad1]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/10/section/2/1)

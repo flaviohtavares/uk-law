@@ -1,0 +1,432 @@
+---
+title: The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013
+id: nisr/2013/243
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2013-10-11'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2013/243
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2013/243/pdfs/nisrem_20130243_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/243/pdfs/nisr_20130243_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/243/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2013 No. 243
+
+Pensions
+
+The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013
+
+Made
+
+11th October 2013
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 107A(15)(b) and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 49(8) and 166(1) and (2) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and sections 3(2), 4(5), 5(2), 8(4) to (6), 10, 11, 15, 23(1)(c), (3) and (6), 33(2), 37(3) and 113(2) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00004].
+
+## 1. Citation, commencement and interpretation[^key-1c4e6e73767e5e15cc1b0b5ee2d832e5]
+
+(1) These Regulations may be cited as the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 and shall come into operation—
+
+- (a) for the purposes of this regulation and regulations 2, 3 and 4(1) to (3) and (5) to (11), on 1st November 2013, and
+- (b) for the purposes of regulations 4(4), 5 and 6, on 1st April 2014.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-695ba22187adb1211ef8f822fd540901]
+
+In regulation 16 of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00006] (prescribed time in which an employer must make payments to trustees or managers) for paragraphs (2) and (3) substitute—
+
+> (2) Where a person becomes an active member of a relevant scheme, in relation to contributions deducted in the relevant period, the prescribed period for the purposes of Article 49(8) is the period commencing on the day on which the first deduction in the relevant period is made and ending—
+>
+> - (a) where the contribution is paid to the trustees or managers of the scheme by means of electronic communication, on the 22nd day of the month following the last day of the relevant period; or
+> - (b) in any other case, on the 19th day of the month following the last day of the relevant period.
+>
+> (3) For the purposes of this regulation—
+>
+> - “the 2008 Act” means the Pensions (No. 2) Act (Northern Ireland) 2008;
+> - “electronic communication” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00007];
+> - “relevant period” means a period of 3 months commencing on the date from which active membership is effective;
+> - “relevant scheme” means—
+>   - (a) a scheme which is a qualifying scheme in relation to the person under section 16 of the 2008 Act; or
+>   - (b) where the person is enrolled in the scheme pursuant to section 9 of the 2008 Act, a scheme which is registered under Chapter 2 of Part 4 of the Finance Act 2004[^f00008].
+
+.
+
+## 3. Amendment of the Personal Pension Schemes (Payments by Employers) Regulations[^key-4f08fe9473df1e73cbfe5f3d3f6bd789]
+
+In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000[^f00009] (prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee) for paragraphs (2) and (3) substitute—
+
+> (2) Where an employee becomes an active member of a relevant scheme, in relation to contributions deducted in the relevant period, the prescribed period for the purposes of section 107A(15)(b) is the period commencing on the day on which the first deduction in the relevant period is made and ending—
+>
+> - (a) where the contribution is paid to the trustees or managers of the scheme by means of electronic communication, on the 22nd day of the month following the last day of the relevant period, or
+> - (b) in any other case, on the 19th day of the month following the last day of the relevant period.
+>
+> (3) For the purposes of this regulation—
+>
+> - “the 2008 Act” means the Pensions (No. 2) Act (Northern Ireland) 2008;
+> - “electronic communication” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001;
+> - “relevant period” means a period of 3 months commencing on the date from which active membership is effective;
+> - “relevant scheme” means—
+>   - (a) a scheme which is a qualifying scheme in relation to the person under section 16 of the 2008 Act, or
+>   - (b) where the person is enrolled in the scheme pursuant to section 9 of the 2008 Act, a scheme which meets the requirements of that section.
+
+.
+
+## 4. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^key-e410b8e43917fa4c9187030ff6899887][^key-c1111503a03544b93e9a40b80c66a734][^key-1664710168cd5adea6e22d267f7a76e2][^key-dc2cb7d672e665c07b473f6e49a8b1c2][^key-bc776f0f6e25d83e801a41c98cfcf5b8][^key-7e78f044ad0593bf369bed2ae65e4d22]
+
+(1)[^key-e410b8e43917fa4c9187030ff6899887] The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^f00010] are amended in accordance with paragraphs (2) to (11).
+
+(2)[^key-c1111503a03544b93e9a40b80c66a734] For regulation 4[^f00011] (pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c)) substitute—
+
+> **4. Pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c)**
+>
+> (1) This regulation applies for the purposes of sections 1(1)(c), 3(1)(c)[^f00012] and 5(1)(c) (jobholders, automatic enrolment and automatic re-enrolment).
+>
+> (2) The pay reference period in respect of a person is determined in accordance with paragraph (3) or paragraphs (4) and (5), whichever the employer may decide.
+>
+> (3) For the purposes of this paragraph, the pay reference period is—
+>
+> - (a) in the case of a person who is paid their regular wage or salary by reference to a period of a week, the period of one week;
+> - (b) in the case of a person who is paid their regular wage or salary by reference to a period longer than a week, that period.
+>
+> (4) For the purposes of this paragraph, subject to paragraph (6)(a), a pay reference period is—
+>
+> - (a) a period equal in length to the usual interval between payments of the person’s regular wage or salary, or
+> - (b) the period of a week,
+>
+> whichever is the longer.
+>
+> (5) For the purposes of paragraph (4), pay reference periods commence—
+>
+> - (a) where the person is paid monthly, on the first day of a tax month;
+> - (b) where the person is paid weekly or the pay reference period is a week, on the first day of a tax week;
+> - (c) where the person is paid at intervals of multiple weeks, on—
+>   - (i) 6th April, and
+>   - (ii) the first day of the tax week which commences immediately after the expiry of a pay interval period beginning on 6th April, unless paragraph (6) applies, and
+> - (d) where the person is paid at intervals of multiple months, on—
+>   - (i) 6th April, and
+>   - (ii) the first day of the tax month which commences immediately after the expiry of a pay interval period beginning on 6th April, unless paragraph (6) applies.
+>
+> (6) Where paragraphs (4) and (5) apply and a pay reference period includes the last day of a tax year—
+>
+> - (a) if the qualifying earnings which, but for this sub-paragraph, would fall in that pay reference period, are paid or payable on or after 6th April, the pay reference period ends on 5th April;
+> - (b) the next pay reference period commences on 6th April.
+>
+> (7) In this regulation—
+>
+> - “pay interval period” means a period which is equal in length to the usual interval between payments and each whole multiple of that period;
+> - “tax month” means the period beginning with the sixth day of the month and ending on the fifth day of the following month;
+> - “tax week” means one of the successive periods in a tax year beginning with the first day of that year and every seventh day after that (so that the last day of a tax year is, or, in the case of a tax year ending in a leap year, the last 2 days are, treated as a separate week).
+
+.
+
+(3)[^key-1664710168cd5adea6e22d267f7a76e2] For regulation 5[^f00013] (pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)) substitute—
+
+> **5. Pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)**
+>
+> (1) The pay reference periods for the purposes of section 20(1)(and (c) (quality requirement: UK money purchase schemes) and section 26(4)(b) and (5)(b) (quality requirement: UK personal pension schemes) are as follows.
+>
+> (2) A pay reference period may be—
+>
+> - (a) subject to paragraph (10), a period of a year, ending on the day before an anniversary of the employer’s staging date;
+> - (b) a period which is equal in length to the period by reference to which the jobholder is paid their regular wage or salary, commencing on the first day of that period, or
+> - (c) subject to paragraph (4)(a), a period which is equal in length to the usual interval between payments of the jobholder’s regular wage or salary, commencing on the date determined in accordance with paragraph (3).
+>
+> (3) Where paragraph (2)(c) applies, pay reference periods in respect of a person commence—
+>
+> - (a) where the person is paid monthly, on the first day of a tax month;
+> - (b) where the person is paid weekly, on the first day of a tax week;
+> - (c) where the person is paid at intervals of multiple weeks, on—
+>   - (i) 6th April, and
+>   - (ii) the first day of the tax week which commences immediately after the expiry of a pay interval period beginning on 6th April, unless paragraph (4) applies, and
+> - (d) where the person is paid at intervals of multiple months, on—
+>   - (i) 6th April, and
+>   - (ii) the first day of the tax month which commences immediately after the expiry of a pay interval period beginning on 6th April, unless paragraph (4) applies.
+>
+> (4) Where paragraph (2)(c) applies and a pay reference period includes the last day of a tax year—
+>
+> - (a) if the qualifying earnings which, but for this sub-paragraph, would fall in that pay reference period, are paid or payable on or after 6th April, the pay reference period ends on 5th April;
+> - (b) the next pay reference period commences on 6th April.
+>
+> (5) Where paragraph (2)(a) applies, the first pay reference period in respect of a person commences—
+>
+> - (a) on the relevant day, or
+> - (b) where there has been a period beginning after the relevant day, during which the requirements of section 1(1)(a) or (c) (jobholders) were not met but the person remained an active member of a qualifying scheme, on the day following the last day of that period.
+>
+> (6) Where paragraph (2)(b) applies, the first pay reference period in respect of a person commences on the first day determined in accordance with that paragraph which falls on or after the relevant day.
+>
+> (7) Where paragraph (2)(c) applies, the first pay reference period in respect of a person commences on the first day determined in accordance with paragraph (3) which falls on or after the relevant day.
+>
+> (8) Subject to paragraph (2)(c), a pay reference period in relation to any person ends on the day before the day on which the next pay reference period begins.
+>
+> (9) Where a person ceases to be a jobholder of the employer or ceases to be an active member of a qualifying scheme, the last pay reference period—
+>
+> - (a) ends on the day on which the person’s status so changes, where paragraph (2)(a) applies, or
+> - (b) is the pay reference period which includes the day on which the person’s status so changes, where paragraph (2)(b) or (c) applies.
+>
+> (10) A pay reference period under paragraph (2)(a) may be less than a year if it either commences or ends within the period of a year ending on the day before an anniversary of the employer’s staging date.
+>
+> (11) In this regulation—
+>
+> - “relevant day” means the first day on or after the staging date on which the person is both a jobholder and an active member of a qualifying scheme;
+> - “pay interval period”, “tax month” and “tax week” have the same meaning as in regulation 4.
+
+.
+
+(4)[^key-dc2cb7d672e665c07b473f6e49a8b1c2] In regulations 6(1), 7(1) and (3), 13(2)(a), 17(1)[^f00014], 18(4)(a), 21(1)[^f00015], 24(3)[^f00016], 27(b)[^f00017], 28(a) (in substituted regulation 6(3)) and 29(a)[^f00018] (in substituted paragraph (1)) for “one month”, in each place where it occurs, substitute “6 weeks”.
+
+(5)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 8 (arrangements to achieve active membership)—
+
+- (a) before “qualifying earnings” omit “any”;
+- (b) omit “in any applicable pay reference period”.
+
+(6)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 9 (opting out)—
+
+- (a) in paragraph (6) for sub-paragraph (a)[^f00019] substitute—
+
+  > - (a) it includes the wording set out in Schedule 1[^f00020];
+  > - (aa) it includes statements from the jobholder to the effect that the jobholder wishes to opt out of pension saving and understands that, in so doing, the jobholder will lose the right to pension contributions from the employer and may have a lower income upon retirement;
+
+  ;
+- (b) after paragraph (7) add—
+
+  > (8) Where an employer has accepted as valid an opt out notice prior to the coming into operation of regulation 4(6) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013, the notice is deemed to be valid on the coming into operation of that provision.
+
+  .
+
+(7)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 37 (test scheme: requirements to revalue accrued benefits and increase pensions in payment)—
+
+- (a) in paragraph (2)(a) for “section 80(1)” substitute “section 80”;
+- (b) for paragraph (3) substitute—
+
+  > (3) For the purposes of paragraph (2)(a)—
+  >
+  > - (a) a test scheme which falls within section 23(2)(a) and a test scheme which falls within regulation 39A(2)[^f00021] must satisfy the requirements of section 80 of the 1993 Act by reference to the final salary method, and
+  > - (b) a test scheme to which regulation 39A(3) applies must satisfy the requirements of section 80 of the 1993 Act by reference to the average salary method or the final salary method.
+
+  .
+
+(8)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] For regulation 38[^f00022] (staged increase in appropriate age) substitute—
+
+> **38. Appropriate age**
+>
+> (1) For the purposes of making a relevant determination, the appropriate age prescribed for a member whose pensionable age is over 65 is the age at which the member attains pensionable age.
+>
+> (2) In this regulation “relevant determination” means a determination under section 22 (test scheme standard) as to whether a scheme satisfies the test scheme standard in relation to a jobholder.
+
+.
+
+(9)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] For regulation 39A (requirement for satisfying the test scheme under section 23(2)(b)) substitute—
+
+> **39A. Lump sum test scheme requirements**
+>
+> (1) For the purposes of section 23(6) (test scheme), the requirement relating to the sum of money is specified in paragraph (2) in the case of a final salary lump sum test scheme and paragraph (3) in the case of an average salary lump sum test scheme.
+>
+> (2) The requirement for a final salary lump sum test scheme is that the sum of money to be made available for the provision of benefits to a member amounts to 16% of final pensionable pay, multiplied by the number of years of pensionable service up to a maximum of 40 years.
+>
+> (3) The requirement for an average salary lump sum test scheme is that either of the requirements specified in paragraph (4) or (5) is met.
+>
+> (4) The requirement in this paragraph is that the sum of money to be made available for the provision of benefits to a member amounts to 16% of average annual qualifying earnings during pensionable service multiplied by the number of years of pensionable service up to a maximum of 40 years.
+>
+> (5) The requirement in this paragraph is that the sum of money to be made available for the provision of benefits to a member amounts to the sum of—
+>
+> - (a) 8% of average annual qualifying earnings during pensionable service multiplied by the number of years of pensionable service up to a maximum of 40 years, plus
+> - (b) during any period in which a member is deferred, an amount equal to an annual increase on accrued rights at 3.5% above any increase that is required by virtue of regulation 37(2)(a).
+>
+> (6) For the purposes of paragraphs (4) and (5), average annual qualifying earnings are to be calculated on the basis that each year’s qualifying earnings are revalued during pensionable service at—
+>
+> - (a) the minimum rate specified in regulation 36(4)[^f00023], where paragraph (4) applies, and
+> - (b) 3.5% above the minimum rate specified in regulation 36(4), where paragraph (5) applies.
+>
+> (7) In this regulation—
+>
+> - “average salary lump sum test scheme” means a test scheme falling within section 23(2)(b) under which the sum of money is determined by reference to average qualifying earnings over the period of pensionable service;
+> - “final pensionable pay” means average annual qualifying earnings in the last 3 tax years preceding the end of pensionable service;
+> - “final salary lump sum test scheme” means a test scheme falling within section 23(2)(b) under which the sum of money is determined by reference to final pensionable pay.
+
+.
+
+(10)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 50 (due date for the purposes of section 37(3))—
+
+- (a) for paragraph (3) substitute—
+
+  > (3) Where a jobholder becomes an active member of a qualifying scheme or a worker is enrolled pursuant to section 9 (workers without qualifying earnings) in a scheme which meets the requirements of section 9, paragraph (2) does not apply in respect of contributions—
+  >
+  > - (a) deducted in the 3 month period commencing with the relevant date, or
+  > - (b) due but not made in the 3 month period commencing with the relevant date,
+  >
+  > in which case paragraph (4) applies.
+
+  ;
+- (b) in paragraph (4) for the words from “last day” to the end substitute “22nd day of the fourth month after the month which includes the relevant date.”;
+- (c) in paragraph (7) for the definition of “relevant date” substitute—
+
+  > - “relevant date” means the date from which active membership is effective.
+
+  .
+
+(11)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] For Schedule 1 (form of opt out notice) substitute Schedule 1 as set out in the Schedule to these Regulations.
+
+## 5. Amendment of the Employers’ Duties (Registration and Compliance) Regulations[^key-2222a12882bf8475aedbf74e1dd84806]
+
+(1) The Employers’ Duties (Registration and Compliance) Regulations (Northern Ireland) 2010[^f00024] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 3(1)(a) and (b)[^f00025] (registration: after staging date and new PAYE schemes) for “4 months” substitute “5 months”.
+
+(3)[^key-2c979690e6ad3bb382c4b58d985f06ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Revocations[^key-2d95bef1e62a7a765d1eb99a9cebfd27]
+
+Regulations 2(4) to (6), (17), (19), (23)(b), (24)(b) and (c) and (26) and 4(4)(a) and (5)(a) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012[^f00027] are revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 11th October 2013
+
+(L.S.)
+
+Andrew M. Hamilton
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE — Schedule to be substituted for Schedule 1 to the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^key-b5bc42790ff92f2fd6becbd1d7092720]
+
+Regulation 4(11)
+
+> **SCHEDULE 1 — Information for workers**
+>
+> Regulation 9(6)(a)
+>
+> WHAT YOU NEED TO KNOW
+>
+> Your employer cannot ask you or force you to opt out.
+>
+> If you are asked or forced to opt out you can tell the Pensions Regulator – see www.thepensionsregulator.gov.uk.
+>
+> If you change your mind you may be able to opt back in – write to your employer if you want to do this.
+>
+> If you stay opted out your employer will normally put you back into pension saving in around 3 years.
+>
+> If you change job your new employer will normally put you back into pension saving straight away.
+>
+> If you have another job your other employer might also put you into pension saving, now or in the future. This notice only opts you out of pension saving with the employer you name above. A separate notice must be filled out and given to any other employer you work for if you wish to opt out of that pension saving as well.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (“the Scheme Administration Regulations”), the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000 (“the Payments by Employers Regulations”), the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 (“the Automatic Enrolment Regulations”) and the Employers’ Duties (Registration and Compliance) Regulations (Northern Ireland) 2010 (“the Registration and Compliance Regulations”).
+
+Regulation 2 of these Regulations amends regulation 16 of the Scheme Administration Regulations which specifies the time limit within which an employer must pay contributions deducted from the member’s earnings into an occupational pension scheme. The amendment applies a different time limit in respect of contributions deducted in the first 3 months of membership where these are paid into a scheme being used to fulfil automatic enrolment duties. Regulation 3 of these Regulations makes similar changes to regulation 5 of the Payments by Employers Regulations in relation to personal pension schemes.
+
+Regulation 4 of these Regulations amends the Automatic Enrolment Regulations as follows—
+
+- paragraph (2) substitutes regulation 4 which inserts a definition of pay reference period for the purposes of the Pensions (No. 2) Act (Northern Ireland) 2008 (“the 2008 Act”). It provides an alternative definition of pay reference period for assessment purposes allowing the length of a pay reference period to be determined by reference to the usual interval between payments of a person’s wages. In such cases, the pay reference period will begin on the first day of a tax month (where a person is paid monthly or in a multiple of months) or tax week (where a person is paid weekly or in a multiple of weeks);
+- paragraph (3) substitutes regulation 5 which relates to pay reference periods for the purposes of determining whether an occupational money purchase scheme or personal pension scheme meets the quality requirement. It sets out that the pay reference period may be a year, ending the day before an anniversary of the employer’s staging date, or the same length as the period by reference to which a person is paid commencing on the first day of that period, or the period equal to the interval between payments of a person’s wages, commencing on the first day of a tax week or tax month (depending on the basis of pay). It also makes provision in respect of the first and last pay reference periods in respect of a person;
+- paragraph (4) extends from one month to 6 weeks the period within which an employer under a duty to enrol a person into a scheme (pursuant to obligations in the 2008 Act) must achieve active membership for that person, and paragraph (5) makes minor amendments;
+- paragraph (6) makes it clear that an opt out notice is valid if it includes the information for workers set out in Schedule 1 and certain statements. This is in case the amendment casts doubt on the validity of an opt out notice served prior to this amendment. Opt out notices served prior to the coming into operation of paragraph (6) and accepted as valid by the employer are deemed to be valid;
+- paragraph (7) makes provision to allow for test schemes which revalue by the average salary method;
+- paragraph (8) substitutes regulation 38 to ensure that, for the purposes of determinations made under section 22 of the 2008 Act, the appropriate age for a member whose pensionable age is over 65 is that member’s pensionable age;
+- paragraph (9) substitutes regulation 39A, to clarify the requirements to be met in relation to the lump sum for the provision of benefits to a member under a test scheme. It makes clear that there are three different types of test scheme under that regulation and ensures that there is consistency across the test schemes and that average salary lump sum test schemes include revaluation in service and deferment at a consistent level;
+- paragraph (10) makes consequential amendments to regulation 50 to ensure that the due date for the purposes of the Pensions Regulator issuing unpaid contributions notices takes account of the changes made to the Scheme Administration Regulations and the Payments by Employers Regulations (regulations 2 and 3).
+
+Regulation 5 of these Regulations amends regulations 3 and 4 of the Registration and Compliance Regulations, extending the deadlines for information to be provided to the Pensions Regulator when duties first apply to an employer or on re-registration of information.
+
+Regulation 6 of these Regulations makes consequential revocations.
+
+As these Regulations, in so far as they are made under the Pensions (Northern Ireland) Order 1995, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 117(1) of that Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 107A was inserted by Article 10 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); *see also* subsection (18) of that section as added by section 49 of the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13)
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 49(8) was substituted by Article 11(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13); section 4 was substituted by section 7(2) of the [Pensions Act (Northern Ireland) 2012 (c. 3 (N.I.))](https://www.legislation.gov.uk/nia/2012/3); section 23 was substituted by section 12(2) of that Act
+
+[^key-1c4e6e73767e5e15cc1b0b5ee2d832e5]: Commencement: Reg. 1 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-695ba22187adb1211ef8f822fd540901]: Commencement: Reg. 2 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^f00006]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); regulation 16 was substituted by regulation 48 of [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122) and paragraph (3) was amended by regulation 2(23)(b) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00007]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); the definition of “electronic communication” in section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^f00008]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^key-4f08fe9473df1e73cbfe5f3d3f6bd789]: Commencement: Reg. 3 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^f00009]: Footnote: [S.R. 2000 No. 349](https://www.legislation.gov.uk/nisr/2000/349); regulation 5 was substituted by regulation 49 of [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122) and paragraphs (2) and (3) were amended by regulation 2(24)(b) and (c) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^key-e410b8e43917fa4c9187030ff6899887]: Commencement: Reg. 4(1) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^key-c1111503a03544b93e9a40b80c66a734]: Commencement: Reg. 4(2) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^key-1664710168cd5adea6e22d267f7a76e2]: Commencement: Reg. 4(3) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^key-dc2cb7d672e665c07b473f6e49a8b1c2]: Commencement: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
+
+[^key-bc776f0f6e25d83e801a41c98cfcf5b8]: Commencement: Reg. 4(5)-(11) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^key-7e78f044ad0593bf369bed2ae65e4d22]: Commencement: Reg. 4 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+
+[^f00010]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122); relevant amending Regulations are [S.R. 2012 Nos. 232](https://www.legislation.gov.uk/nisr/2012/232), [237](https://www.legislation.gov.uk/nisr/2012/237) and [390](https://www.legislation.gov.uk/nisr/2012/390)
+
+[^f00011]: Footnote: Regulation 4 was amended by regulation 2(4) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00012]: Footnote: Sections 3(1) and 5(1) were substituted by section 6(1) and (3) of the Pensions Act (Northern Ireland) 2012 and amended by Article 2(1) of [S.R. 2013 No. 79](https://www.legislation.gov.uk/nisr/2013/79)
+
+[^f00013]: Footnote: Regulation 5 was substituted by regulation 2(5) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00014]: Footnote: Regulation 17(1) was amended by regulation 2(9)(a) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00015]: Footnote: Regulation 21(1) was amended by regulation 2(10)(a) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00016]: Footnote: Regulation 24 was substituted by regulation 2(12) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00017]: Footnote: Regulation 27 was substituted by regulation 2(13) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00018]: Footnote: Regulation 29(a) was substituted by regulation 2(14) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00019]: Footnote: Paragraph (6)(a) was amended by regulation 2(6) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00020]: Footnote: The Schedule to those Regulations became Schedule 1 by virtue of regulation 2(26) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232) and is substituted by regulation 4(11) of these Regulations
+
+[^f00021]: Footnote: Regulation 39A was inserted by regulation 2(19) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00022]: Footnote: Regulation 38 was amended by regulation 2(17) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00023]: Footnote: Regulation 36(4) was amended by regulation 2(5)(a) of [S.R. 2012 No. 237](https://www.legislation.gov.uk/nisr/2012/237) and regulation 2(b) of [S.R. 2012 No. 390](https://www.legislation.gov.uk/nisr/2012/390)
+
+[^key-2222a12882bf8475aedbf74e1dd84806]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/243/regulation/5) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
+
+[^f00024]: Footnote: [S.R. 2010 No. 186](https://www.legislation.gov.uk/nisr/2010/186) as amended by [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^f00025]: Footnote: Regulation 3(1)(a) and (b) was amended by regulation 4(4)(a) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^key-2c979690e6ad3bb382c4b58d985f06ab]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2013/243/regulation/5/3) revoked (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/142/regulation/5)
+
+[^key-2d95bef1e62a7a765d1eb99a9cebfd27]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
+
+[^f00027]: Footnote: [S.R. 2012No. 232](https://www.legislation.gov.uk/nisr/2012/232)
+
+[^key-b5bc42790ff92f2fd6becbd1d7092720]: Commencement: Sch. in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)

@@ -1,0 +1,23 @@
+---
+title: The Teachers' Pension Scheme Regulations (Northern Ireland) 2014, section 75
+act: The Teachers' Pension Scheme Regulations (Northern Ireland) 2014
+section: '75'
+status: revised
+text_date: '2025-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2014/310/section/75
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Teachers' Pension Scheme Regulations (Northern Ireland) 2014, section 75
+
+> Text as at 2025-04-01.
+>
+> Extent: Northern Ireland.
+
+## 75. Meaning of “commutation amount”
+
+*Extent: N.I.*
+
+In these Regulations, “**commutation amount**”, in relation to any pension commuted in part to a lump sum under regulation 168, means the amount of pension commuted to a lump sum.

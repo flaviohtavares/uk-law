@@ -1,0 +1,43 @@
+---
+title: The Companies (1986 Order) (International Accounting Standards and Other Accounting Amendments) Regulations (Northern Ireland) 2004, section 6
+act: The Companies (1986 Order) (International Accounting Standards and Other Accounting Amendments) Regulations (Northern Ireland) 2004
+section: '6'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2004/496/section/6
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (1986 Order) (International Accounting Standards and Other Accounting Amendments) Regulations (Northern Ireland) 2004, section 6
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 6. Content of auditors' report
+
+In Article 243 of the 1986 Order (auditors' report)[^f00006] for paragraph (2) substitute –
+
+> (1A) The auditors' report must include –
+>
+> - (a) an introduction identifying the annual accounts that are the subject of the audit and the financial reporting framework that has been applied in their preparation;
+> - (b) a description of the scope of the audit identifying the auditing standards in accordance with which the audit was conducted.
+>
+> (1B) The report must state clearly whether in the auditors' opinion the annual accounts have been properly prepared in accordance with the requirements of this Order (and, where applicable, Article 4 of the IAS Regulation).
+>
+> (2) The report must state in particular whether the annual accounts give a true and fair view, in accordance with the relevant financial reporting framework –
+>
+> - (a) in the case of an individual balance sheet, of the state of affairs of the company as at the end of the financial year,
+> - (b) in the case of an individual profit and loss account, of the profit or loss of the company for the financial year,
+> - (c) in the case of group accounts, of the state of affairs as at the end of the financial year and of the profit or loss for the financial year, of the undertakings included in the consolidation as a whole, so far as concerns members of the company.
+>
+> (2A) The auditors' report –
+>
+> - (a) must be either unqualified or qualified, and
+> - (b) must include a reference to any matters to which the auditors wish to draw attention by way of emphasis without qualifying the report.
+
+.
+
+## Annotations
+
+[^f00006]: Footnote: Article 243 was inserted into the 1986 Order by Article 11 of the Companies (Northern Ireland) Order 1990 in place of an existing Article of that number

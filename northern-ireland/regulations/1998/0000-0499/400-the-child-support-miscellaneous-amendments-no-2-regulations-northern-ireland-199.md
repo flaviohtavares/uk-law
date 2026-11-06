@@ -1,0 +1,103 @@
+---
+title: The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998
+id: nisr/1998/400
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1998-11-18'
+text_date: '1999-06-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/400
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/400/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998
+
+> Text as at 1999-06-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 400
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998
+
+Made
+
+18th November 1998
+
+Coming into operation
+
+7th December 1998
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 18, 23, 47 and 48(4) of the Child Support (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-4ef12af6ddb76c93256a250b7710288e]
+
+These Regulations may be cited as the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998 and shall come into operation on 7th December 1998.
+
+## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-0a5f5058100f55cea7f2f3cde640cc4f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations[^key-bff941e7768b35a06767e5ffc3fc410d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-d668391f10507b9bffd8bedee4a41ff6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^key-99d78b24312d074f3f5438be1fd40541]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+Leslie Frew
+
+Assistant Secretary
+
+18th November 1998.
+
+(This note is not part of the Regulations.)
+
+These Regulations make provision for revision of decisions under Article 18 of the Child Support (Northern Ireland) Order 1991 (“the Order”). Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 ([S.I. No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
+
+Regulation 2(2) to (7) and (9) to (11) makes consequential amendments to the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 ([S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340)) (“the Maintenance Assessment Procedure Regulations”) and makes a savings provision for assessments the effective date of which is at least 104 weeks before the coming into operation of these Regulations. These are assessments in respect of which a review would have become due under Article 18 of the Order before the new Article 18 was introduced.
+
+Regulation 2(8) inserts a new Part VA containing regulations 17A to 17D into the Maintenance Assessment Procedure Regulations.
+
+Decisions which can be revised by the Department of Health and Social Services (“the Department”) are described in the inserted regulation 17A. They are maintenance assessments under Article 13 or 14 of the Order which have been reviewed under Article 20 of that Order and are subject to appeal under Article 22 of that Order. Revision under Article 18 of the Order offers an alternative route to resolving a dispute in these cases.
+
+The inserted regulation 17B provides that an application for a revision must be made within 28 days of notification or acknowledgement from the Department of receipt of notice of the appeal; the application must be made to the Department. The Department may also revise a decision on its own initiative.
+
+The inserted regulation 17C sets out the circumstances in which a revised decision is to take effect from a date other than the date of the original decision. This is where the effective date of the original decision is considered to have been wrong.
+
+The inserted regulation 17D provides that the appeal against the decision of the child support officer is not to lapse under Article 18(6) of the Order where the decision is revised under Article 18 before the appeal is determined where the revised decision is a less advantageous decision so far as the appellant is concerned either as regards the amount of the assessment or its effective date.
+
+Regulations 3, 4 and 5 contain consequential amendments and savings provisions in relation to the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations (Northern Ireland) 1992 ([S.R. 1992 No. 342](https://www.legislation.gov.uk/nisr/1992/342)), the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992 ([S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)) and the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541)).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 18 was substituted by Article 40 of, and Article 47 was amended by paragraph 31 of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^key-4ef12af6ddb76c93256a250b7710288e]: Commencement: Reg. 1 in operation at 7.12.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/400/regulation/1)
+
+[^key-0a5f5058100f55cea7f2f3cde640cc4f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/400/regulation/2) revoked (1.6.1999) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 (S.R. 1999/167)](https://www.legislation.gov.uk/nisr/1999/167), [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/167/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/1999/167/schedule)
+
+[^key-bff941e7768b35a06767e5ffc3fc410d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/400/regulation/3) revoked (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/246/schedule/2)
+
+[^key-d668391f10507b9bffd8bedee4a41ff6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/400/regulation/4) revoked (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/246/schedule/2)
+
+[^key-99d78b24312d074f3f5438be1fd40541]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/400/regulation/5) revoked (1.6.1999) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 (S.R. 1999/167)](https://www.legislation.gov.uk/nisr/1999/167), [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/167/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/1999/167/schedule)

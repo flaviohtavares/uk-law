@@ -1,0 +1,462 @@
+---
+title: The Income-Related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+id: nisr/1997/22
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-01-22'
+text_date: '1997-01-22'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/22
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/22/data.pdf
+pending_changes: 25
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income-Related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (25).** Text as at 1997-01-22. See https://www.legislation.gov.uk/changes/affected/nisr/1997/22
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1997 No. 22
+
+SOCIAL SECURITY
+
+The Income-Related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+
+Made
+
+22nd January 1997
+
+Coming into operation in accordance with Regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 129(1), 131(1), 132(2), (3) and (4)(*a*), (*b*) and (*d*) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(*q*) and (5), 30(8), 73(2) and 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6(5), 14(1) and (4)(*b*) and (*d*), 15(3) and 36(1) and (2) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf and with the consent of the Department of the Environment for Northern Ireland[^f00004] in so far as relates to regulations 2(1), 10, 11, 12 and 13 of these Regulations, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00005], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-80532d684190e1b9e9ecdaa92ba05800]
+
+(1) These Regulations may be cited as the Income-Related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and this regulation shall come into operation on 1st April 1997.
+
+(2) In so far as these Regulations amend provisions relating to income support or jobseeker’s allowance, they shall come into operation on 7th April 1997 and, in relation to any particular claimant for either of those benefits, they shall have effect from the first day of the first benefit week to commence for that claimant on or after that date.
+
+(3) In paragraph (2) the expression “benefit week” shall have the same meaning as in regulation 2(1) of the Income Support Regulations[^f00006] or, where appropriate, in regulation 1(2) of the Jobseeker’s Allowance Regulations[^f00007].
+
+(4) In so far as these Regulations amend provisions relating to housing benefit—
+
+- (a) in any case to which paragraph (5) applies, they shall come into operation on 1st April 1997, and
+- (b) in any other case, they shall come into operation on 7th April 1997.
+
+(5) This paragraph applies in any case where—
+
+- (a) rent is payable at intervals of one month or any other interval which is not a week or a multiple thereof, or
+- (b) payments by way of rates are not made together with payments of rent at weekly intervals or multiples thereof.
+
+(6) In so far as these Regulations amend provisions relating to family credit or disability working allowance, they shall come into operation on 8th April 1997 and, in relation to any particular claimant for either of those benefits, they shall have effect, where a claimant has an award of family credit or disability working allowance which is current on 7th April 1997, on the day following the expiration of that award.
+
+(7) In these Regulations—
+
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00008];
+- “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00009];
+- “the Family Credit Regulations” means the Family Credit (General) Regulations (Northern Ireland) 1987[^f00010];
+- “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00011];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00012].
+
+(8) The Interpretation Act (Northern Ireland) 1954[^f00013] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Income-related benefits and jobseeker’s allowance: Disregard of certain income other than earnings[^key-7744aff2913a6ef6b2553f531c365464]
+
+(1) In Schedule 4 to the Housing Benefit Regulations (sums to be disregarded in the calculation of income other than earnings) after paragraph 64[^f00014] there shall be added the following paragraph—
+
+> **65.** Any payment made under Article 15A of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00015].
+
+.
+
+(2) In Schedule 9 to the Income Support Regulations (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 15B[^f00016]—
+  - (i) in sub-paragraph (1)—
+    - (aa) in head (*c*) after “occupational pension of his” there shall be inserted “, or of any income from a personal pension scheme or a retirement annuity contract of his,”;
+    - (bb) for “or pensions” there shall be substituted “, pensions or income”;
+  - (ii) for sub-paragraph (2) there shall be substituted the following sub-paragraph—
+
+    > (2) Where a claimant is entitled to pensions or income referred to in sub-paragraph (1) from more than one source, all such pensions and income to which he is entitled shall be aggregated for the purposes of that sub-paragraph.
+
+    ;
+  - (iii) in sub-paragraph (3) for “occupational pension” there shall be substituted “pension or income referred to in sub-paragraph (1)”;
+- (b) after paragraph 57[^f00017] there shall be added the following paragraphs—
+
+  > **58.** Any payment made under Article 15A of the Health and Personal Social Services (Northern Ireland) Order 1972.
+  >
+  > **59.** (1) Any payment specified in sub-paragraph (2) to a claimant who was formerly a student and who has completed the course in respect of which those payments were made.
+  >
+  > (2) The payments specified for the purposes of sub-paragraph (1) are—
+  >
+  > - (a) any grant income and covenant income as defined for the purposes of Chapter VIII of Part V;
+  > - (b) any loan made pursuant to arrangements made under Article 3 of the Education (Student Loans) (Northern Ireland) Order 1990[^f00018] or section 1 of the Education (Student Loans) Act 1990[^f00019].
+
+  .
+
+(3) In Schedule 6 to the Jobseeker’s Allowance Regulations (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 16A[^f00020]—
+  - (i) in sub-paragraph (1)—
+    - (aa) in head (*c*) after “occupational pension of his” there shall be inserted “, or of any income from a personal pension scheme of his,”;
+    - (bb) for “or pensions” there shall be substituted “, pensions or income”;
+  - (ii) for sub-paragraph (2) there shall be substituted the following sub-paragraph—
+
+    > (2) Where a claimant is entitled to pensions or income referred to in sub-paragraph (1) from more than one source, all such pensions and income to which he is entitled shall be aggregated for the purposes of that sub-paragraph.
+
+    ;
+  - (iii) in sub-paragraph (3) for “occupational pension” there shall be substituted “pension or income referred to in sub-paragraph (1)”;
+- (b) after paragraph 55 there shall be added the following paragraphs—
+
+  > **56.** Any payment made under Article 15A of the Health and Personal Social Services (Northern Ireland) Order 1972.
+  >
+  > **57.** (1) Any payment specified in sub-paragraph (2) to a claimant who was formerly a full-time student and who has completed the course in respect of which those payments were made.
+  >
+  > (2) The payments specified for the purposes of sub-paragraph (1) are—
+  >
+  > - (a) any grant income and covenant income as defined for the purposes of Chapter IX of Part VIII;
+  > - (b) any loan made pursuant to arrangements made under Article 3 of the Education (Student Loans) (Northern Ireland) Order 1990 or section 1 of the Education (Student Loans) Act 1990.
+
+  .
+
+(4) At the end of the Schedules specified in paragraph (5) (sums to be disregarded in the calculation of income other than earnings) there shall be added the following paragraph bearing the specified respective paragraph numbers—
+
+> - Any payment made under Article 15A of the Health and Personal Social Services (Northern Ireland) Order 1972.
+
+.
+
+(5) The respective paragraph numbers and Schedules for the purposes of paragraph (4) are—
+
+- (a) paragraph 55 of Schedule 3 to the Disability Working Allowance Regulations[^f00021];
+- (b) paragraph 57 of Schedule 2 to the Family Credit Regulations[^f00022].
+
+(6) In Schedule 2 to the Family Credit Regulations in paragraph 22(2)(*a*)[^f00023] for “27(2)” there shall be substituted “27”.
+
+## 3. Income-related benefits and jobseeker’s allowance: capital treated as income[^key-f038a1fc242f9661ebda6b7a2dd3c8a2]
+
+(1) In regulation 41(1) of the Income Support Regulations[^f00024] (capital treated as income) after “£8,000” there shall be inserted “or, in a case where regulation 45(*b*)[^f00025] applies, £16,000”.
+
+(2) In regulation 104(1) of the Jobseeker’s Allowance Regulations (capital treated as income) after “£8,000” there shall be inserted “or, in a case where regulation 107(*b*)[^f00026] applies, £16,000”.
+
+## 4. Income support and jobseeker’s allowance: definition of housing benefit expenditure[^key-6faa0cdc7d36eddc16cb16e037908199]
+
+(1) In regulation 2(1) of the Income Support Regulations (interpretation) for the definition of “housing benefit expenditure” there shall be substituted the following definition—
+
+> - “housing benefit expenditure” means expenditure in respect of which housing benefit is payable as specified in regulations 9(1) and 10(1) of the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00027] (rates and rent) but does not include any such expenditure in respect of which an amount is applicable under regulation 17(1)(*e*) or 18(1)(*f*) (housing costs);
+
+.
+
+(2) In regulation 1(2) of the Jobseeker’s Allowance Regulations (interpretation) for the definition of “housing benefit expenditure” there shall be substituted the following definition—
+
+> - “housing benefit expenditure” means expenditure in respect of which housing benefit is payable as specified in regulations 9(1) and 10(1) of the Housing Benefit (General) Regulations (Northern Ireland) 1987 (rates and rent) but does not include any such expenditure in respect of which an amount is applicable under regulation 83(*f*) or 84(1)(*g*) (housing costs);
+
+.
+
+## 5. Income support and jobseeker’s allowance: calculation of income and capital of students[^key-b9b2593e8ad27bff5664b8b2e394a377]
+
+(1) In regulation 29 of the Income Support Regulations[^f00028] (calculation of earnings derived from employed earner’s employment and income other than earnings)—
+
+- (a) in paragraph (2) for “paragraphs (3) and (4A) to (4D)” there shall be substituted “paragraphs (2A) to (5)”;
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) Where grant income as defined in Chapter VIII of this Part has been paid to a person who ceases to be a student before the end of the period in respect of which that income is payable and, as a consequence, the whole or part of that income falls to be repaid by that person, that income shall be taken into account over the period beginning on and including the date on which that income is treated as paid under regulation 31 and ending—
+  >
+  > - (a) on the date on which repayment is made in full, or
+  > - (b) on the last date of the academic term or vacation during which that person ceased to be a student,
+  >
+  >   whichever shall first occur.
+
+  .
+
+(2) In regulation 94 of the Jobseeker’s Allowance Regulations (calculation of earnings derived from employed earner’s employment and income other than earnings)—
+
+- (a) in paragraph (2) for “paragraphs (3)” there shall be substituted “paragraphs (2A)”;
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) Where grant income as defined in Chapter IX of this Part has been paid to a person who ceases to be a full-time student before the end of the period in respect of which that income is payable and, as a consequence, the whole or part of that income falls to be repaid by that person, that income shall be taken into account over the period beginning on and including the date on which that income is treated as paid under regulation 96 and ending—
+  >
+  > - (a) on the date on which repayment is made in full, or
+  > - (b) on the last date of the academic term or vacation during which that person ceased to be a full-time student,
+  >
+  > whichever shall first occur.
+
+  .
+
+## 6. Income support and jobseeker’s allowance: calculation of weekly amount of income[^key-75a0d2291b39b9f2263befc4087166a2]
+
+(1) In regulation 32 of the Income Support Regulations[^f00029] (calculation of weekly amount of income) after paragraph (6) there shall be inserted the following paragraph—
+
+> (6A) Where income is taken into account under regulation 29(2A)[^f00030] (calculation of earnings derived from employed earners employment and income other than earnings) over the period specified in that paragraph, the amount of that income to be taken into account in respect of any week in that period shall be an amount equal to the amount of that income which would have been taken into account under regulation 62 (calculation of grant income) had the person to whom that income was paid not ceased to be a student.
+
+.
+
+(2) In regulation 97 of the Jobseeker’s Allowance Regulations (calculation of weekly amount of income) after paragraph (6) there shall be added the following paragraph—
+
+> (7) Where income is taken into account under regulation 94(2A)[^f00031] (calculation of earnings derived from employed earners employment and income other than earnings) over the period specified in that paragraph, the amount of that income to be taken into account in respect of any week in that period shall be an amount equal to the amount of that income which would have been taken into account under regulation 131 (calculation of grant income) had the person to whom that income was paid not ceased to be a full-time student.
+
+.
+
+## 7. Income support and jobseeker’s allowance: calculation of income other than earnings[^key-805f3acc9e04341b37234aa5cb8bc248]
+
+(1) In regulation 40 of the Income Support Regulations (calculation of income other than earnings) after paragraph (3A)[^f00032] there shall be inserted the following paragraph—
+
+> (3B) In the case of income to which regulation 29(2A) (calculation of income of former students) applies, the amount of income to be taken into account for the purposes of paragraph (1) shall be the amount of that income calculated in accordance with regulation 32(6A)[^f00033] (calculation of weekly amount of income) and on the basis that none of that income has been repaid.
+
+.
+
+(2) In regulation 103 of the Jobseeker’s Allowance Regulations (calculation of income other than earnings) after paragraph (5) there shall be inserted the following paragraph—
+
+> (5A) In the case of income to which regulation 94(2A) (calculation of income of former full-time students) applies, the amount of income to be taken into account for the purposes of paragraph (1) shall be the amount of that income calculated in accordance with regulation 97(7)[^f00034] (calculation of weekly amount of income) and on the basis that none of that income has been repaid.
+
+.
+
+## 8. Income support and jobseeker’s allowance: calculation of tariff income from capital[^key-ac59cd10de63e264240781fe1166427d]
+
+In both regulation 53 of the Income Support Regulations[^f00035] and regulation 116 of the Jobseeker’s Allowance Regulations[^f00036] (calculation of tariff income from capital) in paragraph (1B)—
+
+- (a) in sub-paragraph (*a*) “, or residential accommodation” and “or accommodation” shall be omitted;
+- (b) after sub-paragraph (*b*) there shall be added the following sub-paragraph—
+
+  > or
+  >
+  > - (c) residential accommodation.
+
+  .
+
+## 9. Income support: notional capital[^key-d5361e9a1f70d42c38f31ae04f77ea37]
+
+In regulation 51(3) of the Income Support Regulations[^f00037] (notional capital) in sub-paragraph (*a*)(i) for “or a war widow’s pension” there shall be substituted “, war widow’s pension or a pension payable to a person as a widow under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983[^f00038] in so far as that Order is made under the Naval and Marine Pay and Pensions Act 1865[^f00039] or the Pensions and Yeomanry Pay Act 1884[^f00040], or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977[^f00041] and any power of Her Majesty otherwise than under any statutory provision to make provision about pensions for or in respect of persons who have been disabled or who have died in consequence of service as members of the armed forces of the Crown,”.
+
+## 10. Housing benefit: maximum housing benefit[^key-7891ac80312195e6b8b55caf4d84d622][^key-f250373b455a87c0bccc20f58bca9ad6]
+
+In regulation 9 of the Housing Benefit Regulations (rates)—
+
+- (a) in paragraph (5) at the beginning there shall be inserted “Subject to paragraph (6),”;
+- (b) after paragraph (5) there shall be added the following paragraph—
+
+  > (6) Paragraph (5) shall not apply to any person so residing with the claimant who is a student to whom regulation 48A(1)[^f00042] (full-time students to be treated as not liable to make payments in respect of a dwelling) applies.
+
+  .
+
+## 11. Housing benefit: circumstances in which payment is to be made to a landlord or the Department of the Environment[^key-42504c2cb5532955519e5730dd543d5d][^key-6419b8721c52ada465015de42e8b7e4e]
+
+In regulation 93 of the Housing Benefit Regulations[^f00043] (circumstances in which payment is to be made to a landlord or the Department of the Environment)—
+
+- (a) in paragraph (1) after “Subject to” there shall be inserted “paragraph (1A) and”;
+- (b) after paragraph (1) there shall be inserted the following paragraph—
+
+  > (1A) Any payment of rent allowance made to a landlord pursuant to this regulation or to regulation 94 (circumstances in which payment may be made to a landlord or the Department of the Environment) shall be to discharge, in whole or in part, the liability of the claimant to pay rent or rates or both to that landlord in respect of the dwelling concerned, except in so far as—
+  >
+  > - (a) the claimant had no entitlement to the whole or part of that rent allowance so paid to his landlord, and
+  > - (b) the overpayment of rent allowance resulting was recovered in whole or in part from that landlord.
+
+  .
+
+## 12. Housing benefit: circumstances in which payment may be made to a landlord or the Department of the Environment[^key-6d4184560194e1299f61715752e5d9eb][^key-f2481bb7813fcfe703be42512cf0d2cb]
+
+In regulation 94(3) of the Housing Benefit Regulations[^f00044] (circumstances in which payment may be made to a landlord or the Department of the Environment) at the end there shall be added “and paragraph (1A) of that regulation shall have effect for the purposes of this regulation”.
+
+## 13. Housing benefit: recoverable overpayments and excess benefit[^key-e3c01980c1116d5fcc943417eb73b682][^key-330b63d94571e5d446df557b4cf07c28]
+
+In regulation 99(3) of the Housing Benefit Regulations (recoverable overpayments) for “or something done or omitted to be done” there shall be substituted “, whether in the form of an act or omission,”.
+
+## 14. Housing benefit: ineligible service charges[^key-5cc608e46f494878639973f7d9c320b7][^key-fda99dc5b713192fd9be28ecf61640fd]
+
+In Schedule 1 to the Housing Benefit Regulations (ineligible service charges) in paragraph 1A[^f00045] (amount ineligible for meals)—
+
+- (a) in sub-paragraph (2) at the beginning there shall be inserted “Subject to sub-paragraph (3A),”;
+- (b) in sub-paragraph (3) after “applies” there shall be inserted “and subject to sub-paragraph (3A)”;
+- (c) after sub-paragraph (3) there shall be inserted the following sub-paragraph—
+
+  > (3A) For the purposes of sub-paragraphs (2)(*b*) and (3)(*b*), a person attains the age of 16 on the first Monday in September following his 16th birthday.
+
+  .
+
+## 15. Disability working allowance: reviews[^key-eedf203cc3d55ea40e597fce17eab58f]
+
+In regulation 66 of the Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00046] (review in disability working allowance cases) for paragraph (1) there shall be substituted the following paragraph—
+
+> (1) Where a claim for disability working allowance has been refused and a further claim for disability working allowance is made within the period prescribed under section 28(1) of the Administration Act and is accordingly treated as an application for review in accordance with section 28(13) of that Act, then if that further claim results in an award of disability working allowance, the decision on review shall have effect from the date on which the further claim is made.
+
+.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+22nd January 1997.
+
+The Department of the Environment for Northern Ireland hereby consents to regulations 2(1), 10, 11, 12 and 13 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+R. E. Aiken
+
+Assistant Secretary
+
+22nd January 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Family Credit (General) Regulations (Northern Ireland) 1987, the Disability Working Allowance (General) Regulations (Northern Ireland) 1992 and the Social Security (Adjudication) Regulations (Northern Ireland) 1995.
+
+In particular, these Regulations—
+
+- provide new rules in all the income-related benefits and jobseeker’s allowance for the disregard of certain payments made under Article 15A of the Health and Personal Social Services (Northern Ireland) Order 1972 from the calculation of income other than earnings for the purpose of the benefits mentioned above. The new rules relate to payments under the Personal Social Services (Direct Payments) (Northern Ireland) Order 1996 ([S.I. 1996/1923 (N.I. 19)](https://www.legislation.gov.uk/nisi/1996/1923) (regulation 2(1), (2)(*b*), (3)(*b*), (4) and (5));
+- extend the disregards in relation to income support and jobseeker’s allowance to income from personal pensions and retirement annuity contracts (regulation 2(2)(*a*) and (3)(*a*));
+- modify the definition of “housing benefit expenditure” for the purpose of income support and jobseeker’s allowance (regulation 4);
+- in income support and jobseeker’s allowance, ensure that a former student’s income is disregarded in respect of any period after their course or training is completed (regulation 2(2)(*b*) and (3)(*b*)) and in relation to income paid to former students who have abandoned their course, ensure that such income is not taken into account beyond the date the course would have ended or beyond the date any repayment has been made and to specify the rate at which such income is taken into account (regulations 5, 6 and 7);
+- extend the rules on notional capital in income support in relation to pensions paid to widows of former Army and Navy personnel so that they coincide with the corresponding rules relating to notional income (regulation 9);
+- in housing benefit, provide that where a non-student claimant shares accommodation with a student or students who are excluded from entitlement to housing benefit and with whom he or she is jointly liable for rates, the presence of the student(s) will be excluded from the calculation of a rate rebate (regulation 10);
+- in housing benefit, provide that where overpayments of benefit which are recovered from a landlord, the tenant’s liability to pay rent or rates or both shall not be discharged in respect of the overpayment recovered (regulations 11 and 12);
+- in housing benefit, clarify the position on which official errors would result in such benefit being irrecoverable (regulation 13);
+- in housing benefit, specify the day on which a member of the family of a claimant for housing benefit is to be treated as reaching the age of 16 for the purpose of determining deductions to be made from the claimant’s eligible rent on account of charges made for meals which form part of that rent (regulation 14);
+- in adjudication, change the position relating to the date upon which reviews of decisions relating to disability working allowance take effect (regulation 15);
+- correct some technical errors and erroneous references (regulations 2(6), 3 and 8).
+
+In so far as these Regulations are required, for the purposes of regulations 2(1), 10, 11, 12 and 13 to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), and after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. These Regulations correspond to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5(5) was inserted by Article 3 of the Housing Benefit (Payment to Third Parties) (Northern Ireland) Order 1996 ([S.I. 1996/2597 (N.I. 20)](https://www.legislation.gov.uk/nisi/1996/2597))
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00004]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-80532d684190e1b9e9ecdaa92ba05800]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/1)
+
+[^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00007]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(*a*)(ii) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 Nos. 318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1990 Nos. 33](https://www.legislation.gov.uk/nisr/1990/33), [131](https://www.legislation.gov.uk/nisr/1990/131), [137](https://www.legislation.gov.uk/nisr/1990/137) and [297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 Nos. 46](https://www.legislation.gov.uk/nisr/1991/46) and [204](https://www.legislation.gov.uk/nisr/1991/204), [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149), [195](https://www.legislation.gov.uk/nisr/1993/195) and [233](https://www.legislation.gov.uk/nisr/1993/233) and [S.R. 1996 Nos. 78](https://www.legislation.gov.uk/nisr/1996/78), [93](https://www.legislation.gov.uk/nisr/1996/93) and [449](https://www.legislation.gov.uk/nisr/1996/449)
+
+[^f00009]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending rules are [S.R. 1988 No. 314](https://www.legislation.gov.uk/nisr/1988/314), [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335), [S.R. 1996 Nos. 73](https://www.legislation.gov.uk/nisr/1996/73), [334](https://www.legislation.gov.uk/nisr/1996/334) and [448](https://www.legislation.gov.uk/nisr/1996/448) and [S.R. 1997 No. 4](https://www.legislation.gov.uk/nisr/1997/4)
+
+[^f00010]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1989 No. 366](https://www.legislation.gov.uk/nisr/1989/366) and [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^f00011]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending Regulations are [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^f00012]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356), [358](https://www.legislation.gov.uk/nisr/1996/358) and [503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00013]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-7744aff2913a6ef6b2553f531c365464]: Commencement: Reg. 2 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00014]: Footnote: Paragraph 64 was added by regulation 8(*b*) of [S.R. 1997 No. 4](https://www.legislation.gov.uk/nisr/1997/4)
+
+[^f00015]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 15A was inserted by Article 3 of the Personal Social Services (Direct Payments) (Northern Ireland) Order 1996 ([S.I. 1996/1923 (N.I. 19)](https://www.legislation.gov.uk/nisi/1996/1923))
+
+[^f00016]: Footnote: Paragraph 15B was inserted by regulation 2 of [S.R. 1996 No. 78](https://www.legislation.gov.uk/nisr/1996/78)
+
+[^f00017]: Footnote: Paragraph 57 was inserted by regulation 2(5)(*c*) of [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449)
+
+[^f00018]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506)
+
+[^f00019]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6)
+
+[^f00020]: Footnote: Paragraph 16A was inserted by regulation 32 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^f00021]: Footnote: Paragraph 54 was added by regulation 5(8)(*d*) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^f00022]: Footnote: Paragraph 56 was added by regulation 4(7)(*d*) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^f00023]: Footnote: Paragraph 22 was amended by regulation 2 of [S.R. 1989 No. 366](https://www.legislation.gov.uk/nisr/1989/366)
+
+[^key-f038a1fc242f9661ebda6b7a2dd3c8a2]: Commencement: Reg. 3 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00024]: Footnote: Relevant amending Regulations are [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137)
+
+[^f00025]: Footnote: Regulation 45 was substituted by regulation 11(1)(*a*) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00026]: Footnote: Regulation 107 was substituted by regulation 9 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
+
+[^key-6faa0cdc7d36eddc16cb16e037908199]: Commencement: Reg. 4 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00027]: Footnote: Regulation 10(1) was amended by regulation 5 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424)
+
+[^key-b9b2593e8ad27bff5664b8b2e394a377]: Commencement: Reg. 5 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00028]: Footnote: Relevant amending Regulations are [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365) and [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
+
+[^key-75a0d2291b39b9f2263befc4087166a2]: Commencement: Reg. 6 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00029]: Footnote: Paragraph (7) was added by regulation 10(*b*) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
+
+[^f00030]: Footnote: Paragraph (2A) is inserted by regulation 5(1)(*b*) of these Regulations
+
+[^f00031]: Footnote: Paragraph (2A) is inserted by regulation 5(2) of these Regulations
+
+[^key-805f3acc9e04341b37234aa5cb8bc248]: Commencement: Reg. 7 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00032]: Footnote: Paragraph (3A) was inserted by regulation 4(4)(*b*) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and amended by regulation 8 of [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46)
+
+[^f00033]: Footnote: Paragraph (6A) is inserted by regulation 6(1) of these Regulations
+
+[^f00034]: Footnote: Paragraph (7) is inserted by regulation 6(2) of these Regulations
+
+[^key-ac59cd10de63e264240781fe1166427d]: Commencement: Reg. 8 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00035]: Footnote: Paragraph (1B) was inserted by regulation 11(*b*)(ii) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00036]: Footnote: Paragraph (1B) was inserted by regulation 10(*b*) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
+
+[^key-d5361e9a1f70d42c38f31ae04f77ea37]: Commencement: Reg. 9 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+
+[^f00037]: Footnote: Regulation 51(3) was substituted by regulation 11(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 7 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), regulation 4(3)(*c*) of [S.R. 1990 No. 33](https://www.legislation.gov.uk/nisr/1990/33), regulation 4(5) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), regulation 5(5) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), paragraph 6(8) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), regulation 5(3)(*c*) of [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195) and regulation 5(3)(*c*) of [S.R. 1993 No. 233](https://www.legislation.gov.uk/nisr/1993/233)
+
+[^f00038]: Footnote: [S.I. 1983/883](https://www.legislation.gov.uk/uksi/1983/883); relevant amending instruments are [S.I. 1993/598](https://www.legislation.gov.uk/uksi/1993/598), [1994/1906](https://www.legislation.gov.uk/uksi/1994/1906) and [1995/766](https://www.legislation.gov.uk/uksi/1995/766). The Order needs to be read subject to the provisions of section 168 of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), the effect of which is to disregard subsequent marriages which have been dissolved or been the subject of a decree of judicial separation, in determining a person’s entitlement to a widow’s pension
+
+[^f00039]: Footnote: 28 & 29 Vict. c. 73
+
+[^f00040]: Footnote: 47 & 48 Vict. c. 55
+
+[^f00041]: Footnote: [1977 c. 5](https://www.legislation.gov.uk/ukpga/1977/5)
+
+[^key-7891ac80312195e6b8b55caf4d84d622]: Commencement: Reg. 10 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+
+[^key-f250373b455a87c0bccc20f58bca9ad6]: Commencement: Reg. 10 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+
+[^f00042]: Footnote: Regulation 48A was inserted by regulation 3(6) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and paragraph (1) was amended by regulation 5 of [S.R. 1992 No. 549](https://www.legislation.gov.uk/nisr/1992/549)
+
+[^key-42504c2cb5532955519e5730dd543d5d]: Commencement: Reg. 11 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+
+[^key-6419b8721c52ada465015de42e8b7e4e]: Commencement: Reg. 11 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+
+[^f00043]: Footnote: Relevant amending Regulations are [S.R. 1996 Nos. 334](https://www.legislation.gov.uk/nisr/1996/334) and [448](https://www.legislation.gov.uk/nisr/1996/448)
+
+[^key-6d4184560194e1299f61715752e5d9eb]: Commencement: Reg. 12 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+
+[^key-f2481bb7813fcfe703be42512cf0d2cb]: Commencement: Reg. 12 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+
+[^f00044]: Footnote: Regulation 94(3) was added by regulation 10 of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335)
+
+[^key-e3c01980c1116d5fcc943417eb73b682]: Commencement: Reg. 13 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+
+[^key-330b63d94571e5d446df557b4cf07c28]: Commencement: Reg. 13 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+
+[^key-5cc608e46f494878639973f7d9c320b7]: Commencement: Reg. 14 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+
+[^key-fda99dc5b713192fd9be28ecf61640fd]: Commencement: Reg. 14 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+
+[^f00045]: Footnote: Relevant amending rules are [S.R. 1988 No. 314](https://www.legislation.gov.uk/nisr/1988/314) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
+
+[^key-eedf203cc3d55ea40e597fce17eab58f]: Commencement: Reg. 15 in operation at 8.4.1997 with effect in accordance with reg. 1(6)
+
+[^f00046]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293)

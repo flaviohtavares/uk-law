@@ -1,0 +1,269 @@
+---
+title: Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001
+id: nisr/2001/45
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-02-07'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/45
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/45/pdfs/nisr_20010045_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/45/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 45
+
+FOOD
+
+Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001
+
+Made
+
+7th February 2001
+
+Coming into operation
+
+19th March 2001
+
+The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(*a*) and (*e*), 16(1), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:—[^key-a10c9d19a305c2b18569ea4b818f0465]
+
+## 1. Citation and commencement[^key-3967c26c1363252f6387d72b956f54d6]
+
+These Regulations may be cited as the Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001 and shall come into operation on 19th March 2001.
+
+## 2. Interpretation[^key-29a7d1222dde9a404075a6fe938d7fc3]
+
+(1) In these Regulations—
+
+- [^key-7d5f5ccea58dea917cc2f6844814a459]...[^f00003]
+- “chicory” means the roots of *Cichorium Intybus L.* (other than the roots of plants used for the production of witloof chicory) which have been suitably cleaned, dried and roasted;
+- “chicory extracts” means the concentrated product obtained by extraction from roasted chicory using only water as the method of extraction (excluding any process of hydrolysis involving the addition of an acid or a base);
+- “coffee extracts” means the concentrated product obtained by extraction from roasted coffee beans using only water as the medium of extraction (excluding any process of hydrolysis involving the addition of an acid or a base) and which contains only the soluble and aromatic constituents of coffee, apart from those insoluble substances which it is impossible to remove and insoluble oils derived from coffee;
+- “designated product” means any food specified in column 2 of Part I or II of the Schedule (as read with any Note in those columns relating to that food) but does not include any product which contains such a food as an ingredient and which is sold, consigned or delivered as a compound product;
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^key-27a80dde57c9b32ba78e0b8b00ff47fe] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608); as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council.[^key-05b994c11da285b8e867879fb2d96057]
+- “reserved description”, as respects any designated product, means any description specified in relation to that product in column 1 of Part I or II of the Schedule and the use of any such description in these Regulations shall be construed as meaning the designated product specified in relation to that description in column 2 of that Part;
+- “sell” includes offer or expose for sale or have in possession for sale.
+
+(2) All proportions mentioned in these Regulations are proportions calculated by weight and are calculated on the total weight of the product.
+
+## 3. Scope of the Regulations[^key-051d06cbf790109ca3b59225fd21d9d9]
+
+(1) Subject to paragraph (2), these Regulations apply to coffee extracts and chicory extracts which are ready for delivery to the ultimate consumer or to a catering establishment.
+
+(2) These Regulations do not apply to the product known as *café torrefacto soluble*.
+
+(3) In this regulation—
+
+- “catering establishment” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
+- “preparation” includes manufacture and any form of processing or treatment; and
+- “ultimate consumer” means any person who buys otherwise than—
+  - (a) for the purpose of resale,
+  - (b) for the purposes of a catering establishment, or
+  - (c) for the purposes of a manufacturing business.
+
+## 4. Reserved descriptions[^key-9bbe35fb6a9e494ac82dc86210bf03f4]
+
+No person shall give with any food sold by him, or display with any food offered or exposed by him for sale or in his possession for the purpose of sale, a label, whether or not attached or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless—
+
+- (a) such food is the designated product to which the reserved description relates;
+- (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
+- (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product.
+
+## 5. Labelling and description of designated products[^key-9ff7742fa74b3b859361ab8f3eab944d]
+
+(1) Without prejudice to the Regulation (EU) No 1169/2011[^key-64983809cc778499e238080f4ac20a64] , no person shall sell any designated product unless it is marked or labelled with the following particulars––
+
+- (a) subject to paragraph (2), a reserved description of the product which shall be the name prescribed by law for that product for the purposes of Article 17 of Regulation (EU) No 1169/2011[^key-6b3b6cf75c99f21937f870627e4042de] ;
+- (b) the word “decaffeinated” in the case of a product specified in column 2 of Part I of the Schedule which has been subjected to a decaffeination process and in which the residual anhydrous caffeine content does not exceed 0.30% of its coffee-based dry matter content;
+- (c) in the case of a product specified in item 3 of column 2 of Part I or II of the Schedule in which sugar has been used, the words “with X”, “preserved with X”, “with added X” or “roasted with X” as appropriate, “X” being the name of the sugar product used, which name shall be the reserved description of that product specified in relation thereto in the Specified Sugar Products Regulations (Northern Ireland) 1976[^f00004] or, if the sugar product has no such reserved description, the name of the product which if the sugar product were itself being sold as a food would be used, pursuant to the Article 17 of Regulation (EU) No 1169/2011[^key-e55b2efb98b0946bf4bdca49056279ee] , as the name of the food;
+- (d) in the case of a product specified in item 2 or 3 of column 2 of Part I of the Schedule, a declaration of the minimum coffee-based dry matter content expressed as a percentage; and
+- (e) in the case of a product specified in item 2 or 3 of column 2 of Part II of the Schedule, a declaration of the minimum chicory-based dry matter content as expressed as a percentage.
+
+(2) In the case of a product specified in item 3 of column 2 of Part I of the Schedule containing more than 25% coffee-based dry matter and of a product specified in item 3 of column 2 of Part II of the Schedule containing more than 45% chicory-based dry matter, the word “concentrated” may be added to the reserved description.
+
+(3) The information required by paragraph (1)(*b*) and (*c*) shall be in the same field of vision as the reserved description required by paragraph (1)(*a*).
+
+## 6. Manner of marking or labelling[^key-a1934298d97480a1eccbeb0d17667c8c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Penalties and enforcement[^key-9fb0827e3f9af14e4e3b01b17331f82b]
+
+(1) If any person contravenes any of the provisions of these Regulations he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Each district council shall enforce and execute these Regulations within its district.
+
+(3) The methods used to determine the free and soluble carbohydrate content of coffee extracts shall be in conformity with Annex 3 to Regulation (EU) 2017/625 of the European Parliament and of the Council of 15[^key-2a60f844b539323c66eaa41290ac3d85]<sup>th</sup> March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products and shall be validated or standardised.
+
+## 8. Transitional provision[^key-222fd17b876621fc07857d0dca4d563d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Defence in relation to exports[^key-4b72a0cc9442f45e86240126afac85c9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Application of various provisions of the Order[^key-2c034efb25505740bda5ea7f38469449]
+
+The following provisions of the Order shall apply for the purposes of these Regulations and any reference in those provisions to the Order shall be construed as a reference to these Regulations—
+
+- (a) Articles 2(4) and (3) (extended meaning of “sale” etc.);
+- (b) Article 4 (presumptions that food intended for human consumption);
+- (c) Article 19 (offences due to fault of another person);
+- (d) Article 20 (defence of due diligence) as it applies for the purposes of Article 7, 13 or 14;
+- (e) Article 21 (defence of publication in the course of business);
+- (f) Article 30(8) (which relates to documentary evidence);
+- (g) Article 34 (obstruction, etc., of officers);
+- (h) Article 36 (punishment of offences) in so far as it relates to offences under Article 34(1) and (2) as applied by paragraph (*g*).
+
+## 11. Amendments and revocations[^key-d97d6d648e3f6abe0ebd928faf745b93]
+
+(1)[^key-0742e675fda4e5ff968ab1cdec0f6bb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The following entries relating to the Coffee and Coffee Products Regulations (Northern Ireland) 1979 shall be omitted—
+
+- (a) in the Food (Revision of Penalties and Mode of Trial) Regulations (Northern Ireland) 1987[^f00007], in Schedule 1;
+- (b) in the Food Safety (Northern Ireland) Order 1991 (Consequential Modifications) Order (Northern Ireland) 1991[^f00008], in Schedule 1, Part I and Schedules 2, 3 and 5;
+- (c) in the Food Safety (Exports) Regulations (Northern Ireland) 1991[^f00009], in the Schedule;
+- (d) in the Food (Forces Exemptions) (Revocations) Regulations (Northern Ireland) 1992[^f00010], in the Schedule;
+- (e) in the Miscellaneous Food Additives Regulations (Northern Ireland) 1996[^f00011], in Schedule 9;
+- (f)[^key-d4b2811c0346bafcee1ca97eeef1ef6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Coffee and Coffee Products Regulations (Northern Ireland) 1979, the Coffee and Coffee Products (Amendment) Regulations (Northern Ireland) 1982[^f00012] and the Coffee and Coffee Products (Amendment) Regulations (Northern Ireland) 1988[^f00013] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 7th February 2001.
+
+John McGrath
+
+Senior Officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE
+
+Regulations 2 and 5
+
+### Part I — Coffee Extracts and their Reserved Descriptions[^key-f6726e4e55314b394ec0d1706db131c2]
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th colspan="2"><em>Reserved descriptions</em></th><th><em>Designated Products</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2">1. Coffee extract <em>or</em> Soluble coffee extract <em>or</em> Instant coffee <em>or</em> Soluble coffee</td><td>Coffee extracts in powder, granular, flake, cube or other solid form, of which the coffee-based dry matter content is not less than 95%, containing no substances other than those derived from the extraction of coffee.</td></tr>
+<tr><td>2. Coffee extract <em>or</em> Soluble coffee extract <em>or</em> Instant coffee <em>or</em> Soluble coffee</td><td>supplemented in each case by the word “paste” or the words “in paste form”</td><td>Coffee extracts in paste form, of which the coffee-based dry matter content is not more than 85%, and not less than 70%, containing no substances other than those derived from the extraction of coffee.</td></tr>
+<tr><td>3. Coffee extract <em>or</em> Soluble coffee extract <em>or</em> Instant coffee <em>or</em> Soluble coffee</td><td>supplemented in each case by the word “liquid” or the words “in liquid form”</td><td>Coffee extracts in liquid form, of which the coffee-based dry matter content is not more than 55%, and not less than 15%.<br>NOTE:<br>The product may contain added sugar products, whether or not roasted, in a proportion not exceeding 12%.</td></tr>
+</tbody>
+</table>
+
+### Part II — Chicory Extracts and their Reserved Descriptions[^key-d8b773b2212aaa8fc1ed1ef5b9d630a2]
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th colspan="2"><em>Reserved descriptions</em></th><th><em>Designated Products</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2">1. Chicory extract <em>or</em> Instant chicory <em>or</em> Soluble chicory</td><td>Chicory extracts in powder, granular, flake, cube or other solid form, of which the chicory-based dry matter content is not less than 95%.<br>NOTE:<br>This product may contain not more than 1% of substances not derived from chicory.</td></tr>
+<tr><td>2. Chicory extract <em>or</em> Instant chicory <em>or</em> Soluble chicory</td><td>supplemented in each case by the word “paste” or the words “in paste form”</td><td>Chicory extracts in paste form, of which the chicory-based dry matter content is not more than 85%, and not less than 70%.<br>NOTE:<br>This product may contain not more than 1% of substances not derived from chicory.</td></tr>
+<tr><td>3. Chicory extract <em>or</em> Instant chicory <em>or</em> Soluble chicory</td><td>supplemented in each case by the word “liquid” or the words “in liquid form”</td><td>Chicory extracts in liquid form, of which the chicory-based dry matter content is not more than 55%, and not less than 25%.<br>NOTE:<br>This product may contain added sugar products, whether or not roasted, in a proportion not exceeding 35%.</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations implement Directive [1999/4/EC](https://www.legislation.gov.uk/european/directive/1999/0004) of the European Parliament and the Council relating to coffee extracts and chicory extracts (O.J. No. L66, 13.3.1999, p. 26). They revoke and replace the Coffee and Coffee Products Regulations (Northern Ireland) 1979, as amended.
+
+These Regulations—
+
+- (a) prescribe definitions and reserved descriptions for coffee extracts and chicory extracts (*regulation 2 and the Schedule*);
+- (b) provide for the Regulations to apply to coffee extracts and chicory extracts ready for delivery to the ultimate consumer or to a catering establishment, except for the product known as *café torrefacto soluble* (*regulation 3*);
+- (c) restrict the sale of foods labelled with a reserved description (*regulation 4*);
+- (d) require reserved descriptions and specified declarations to be applied to designated products, and prescribe the manner of marking or labelling to be employed; certain provisions of the Food Labelling Regulations (Northern Ireland) 1996, which govern the labelling of coffee extracts and chicory extracts except so far as specifically provided for in these Regulations, are applied to these specific requirements (*regulations 5 and 6*);
+- (e) provide for penalties and enforcement, include a transitional provision, and a defence in relation to exports (in accordance with Articles 2 and 3 of Council Directive [89/397/EEC](https://www.legislation.gov.uk/european/directive/1989/0397) (O.J. No. L186, 30.6.89, p. 23) on the official control of foodstuffs), apply various provisions of the Food Safety (Northern Ireland) Order 1991 and make amendments and revocations (*regulations 7 to 11*).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; *see* S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3
+
+[^f00002]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^key-a10c9d19a305c2b18569ea4b818f0465]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2001/45) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^key-3967c26c1363252f6387d72b956f54d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-29a7d1222dde9a404075a6fe938d7fc3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/45/regulation/2) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-7d5f5ccea58dea917cc2f6844814a459]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2001/45/regulation/2/1) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7)
+
+[^f00003]: Footnote: [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383); the relevant amending Regulations are [S.R. 1998 No. 253](https://www.legislation.gov.uk/nisr/1998/253), [S.R. 1999 No. 143](https://www.legislation.gov.uk/nisr/1999/143) and [S.R. 2000 No. 189](https://www.legislation.gov.uk/nisr/2000/189)
+
+[^key-27a80dde57c9b32ba78e0b8b00ff47fe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2001/45/regulation/2/1) inserted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7)
+
+[^key-05b994c11da285b8e867879fb2d96057]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2001/45/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/6/2)
+
+[^key-051d06cbf790109ca3b59225fd21d9d9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/45/regulation/3) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-9bbe35fb6a9e494ac82dc86210bf03f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/45/regulation/4) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-9ff7742fa74b3b859361ab8f3eab944d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/45/regulation/5) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-64983809cc778499e238080f4ac20a64]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2001/45/regulation/5/1) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 5(3)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7)
+
+[^key-6b3b6cf75c99f21937f870627e4042de]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/2001/45/regulation/5/1/a) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 5(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7)
+
+[^f00004]: Footnote: [S.R. 1976 No. 165](https://www.legislation.gov.uk/nisr/1976/165); the relevant amending Regulations are [S.R. 1982 No. 311](https://www.legislation.gov.uk/nisr/1982/311)
+
+[^key-e55b2efb98b0946bf4bdca49056279ee]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2001/45/regulation/5/1/c) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 5(3)(c)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7)
+
+[^key-a1934298d97480a1eccbeb0d17667c8c]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/45/regulation/6) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/8)
+
+[^key-9fb0827e3f9af14e4e3b01b17331f82b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/45/regulation/7) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-2a60f844b539323c66eaa41290ac3d85]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2001/45/regulation/7/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [3](https://www.legislation.gov.uk/nisr/2019/218/regulation/3)
+
+[^key-222fd17b876621fc07857d0dca4d563d]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/45/regulation/8) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2019/5/regulation/6/4)
+
+[^key-4b72a0cc9442f45e86240126afac85c9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/45/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [46](https://www.legislation.gov.uk/nisr/2005/574/regulation/46), [Sch. 6](https://www.legislation.gov.uk/nisr/2005/574/schedule/6)
+
+[^key-2c034efb25505740bda5ea7f38469449]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/45/regulation/10) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-d97d6d648e3f6abe0ebd928faf745b93]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/45/regulation/11) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-0742e675fda4e5ff968ab1cdec0f6bb1]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/nisr/2001/45/regulation/11/1) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2014/223/schedule/6)
+
+[^f00007]: Footnote: [S.R. 1987 No. 38](https://www.legislation.gov.uk/nisr/1987/38)
+
+[^f00008]: Footnote: [S.R. 1991 No. 203](https://www.legislation.gov.uk/nisr/1991/203)
+
+[^f00009]: Footnote: [S.R. 1991 No. 344](https://www.legislation.gov.uk/nisr/1991/344)
+
+[^f00010]: Footnote: [S.R. 1992 No. 464](https://www.legislation.gov.uk/nisr/1992/464)
+
+[^f00011]: Footnote: [S.R. 1996 No. 50](https://www.legislation.gov.uk/nisr/1996/50)
+
+[^key-d4b2811c0346bafcee1ca97eeef1ef6b]: Textual amendment: [Reg. 11(2)(f)](https://www.legislation.gov.uk/nisr/2001/45/regulation/11/2/f) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2014/223/schedule/6)
+
+[^f00012]: Footnote: [S.R. 1982 No. 298](https://www.legislation.gov.uk/nisr/1982/298)
+
+[^f00013]: Footnote: [S.R. 1988 No. 23](https://www.legislation.gov.uk/nisr/1988/23)
+
+[^key-f6726e4e55314b394ec0d1706db131c2]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2001/45/schedule/part/I) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)
+
+[^key-d8b773b2212aaa8fc1ed1ef5b9d630a2]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2001/45/schedule/part/II) in operation at 19.3.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/45/regulation/1)

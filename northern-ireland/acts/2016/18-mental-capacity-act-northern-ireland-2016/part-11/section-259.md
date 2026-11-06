@@ -1,0 +1,42 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 259
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '259'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/259
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 259
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 259. Persons to be detained under Part 2 after removal from Scotland
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) This section applies where under regulations made under section 290 of the 2003 Act a relevant person (“P”) is removed from Scotland to Northern Ireland.
+
+(2) In subsection (1) “**a relevant person**” means a person who is 16 or over and (immediately before being removed from Scotland) is liable to be detained by virtue of a compulsory treatment order under section 64 of the 2003 Act.
+
+(3) Immediately after P's admission to a hospital in Northern Ireland in pursuance of arrangements made for the purposes of his or her removal from Scotland, the relevant trust must notify RQIA of P's admission.
+
+(4) The relevant trust must also arrange for a report in the prescribed form, containing prescribed information, to be made by an appropriate medical practitioner and given to the relevant trust within the period of 28 days beginning with the date when P is admitted to the hospital.
+
+(5) Where a report under subsection (4) is given to the relevant trust, that trust must as soon as practicable give RQIA a copy of the report.
+
+(6) A corresponding authorisation is to be treated as having been granted on P's arrival in Northern Ireland.
+
+(7) In subsection (6) “**a corresponding authorisation**” means an authorisation under paragraph 15 of Schedule 1 authorising P's detention in circumstances amounting to a deprivation of liberty, in the hospital to which P is admitted on arrival in Northern Ireland, for the purposes of the provision to P of care or treatment.
+
+(8) In this section—
+
+- “**appropriate medical practitioner**” means a medical practitioner who is a person unconnected with P and meets any prescribed conditions;
+- “**relevant trust**” means the HSC trust in whose area the hospital to which P is admitted is situated.

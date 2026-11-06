@@ -1,0 +1,265 @@
+---
+title: The Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015
+id: nisr/2015/136
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-06'
+text_date: '2025-08-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/136
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/136/pdfs/nisrem_20150136_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/136/pdfs/nisr_20150136_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/136/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015
+
+> Text as at 2025-08-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 136
+
+Planning Fees
+
+The Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015
+
+Made
+
+6th March 2015
+
+Coming into operation
+
+1st April 2015
+
+The Office of the First Minister and deputy First Minister makes the following regulations in exercise of the powers conferred by section 223(7) and section 223(9) of the Planning Act (Northern Ireland) 2011[^f00001].
+
+## 1. Citation and Commencement[^key-fc85b8178fad66cc37e1a75653d357a2]
+
+These regulations may be cited as the Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015 and shall come into operation on 1<sup>st</sup> April 2015.
+
+## 2. Interpretation[^key-d1cea4c3242f323a728d6e717ffe46bb]
+
+In these regulations—
+
+- “the 2011 Act” means the Planning Act (Northern Ireland) 2011;
+- “appeals commission” means the planning appeals commission;
+- “appellant” in relation to any deemed application means any person who appealed against the relevant enforcement notice under section 143 of the 2011 Act;
+- “deemed application” means an application for planning permission deemed to have been made under section 145(5) of the 2011 Act;
+- “dwellinghouse” means a building or part of a building which is used as a single private dwellinghouse, and for no other purpose;
+- “EIA development” has the same meaning as in the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015[^f00002];
+- “the Fees Regulations” means the Planning (Fees) Regulations (Northern Ireland) 2015[^f00003];
+- “glasshouse” means a building which—
+  - (a) has not less than three quarters of its total area comprised of glass or other translucent material;
+  - (b) is designed for the production of flowers, fruit, vegetables, herbs or other horticultural produce; and
+  - (c) is used, or is to be used, solely for the purposes of agriculture;
+- “relevant enforcement notice” in relation to any deemed application means the enforcement notice stating the matters to which that deemed application relates;
+- “use of land” includes use of land for the winning and working of minerals.
+
+## 3. Fees for deemed planning applications[^key-c9be55285a88134b9e07a9fc41d67281]
+
+(1) Subject to regulations 4, 5 and 6, a fee shall be paid to the appeals commission where an application for planning permission is deemed to have been made by virtue of the provisions of section 145(5) of the 2011 Act.
+
+(2) Where a fee is payable in respect of a deemed application, the amount of the fee shall be calculated in accordance with the provisions of the Schedule.
+
+(3) Where a fee is payable in respect of a deemed application under paragraph (1), it shall be paid by every person who appeals against the relevant enforcement notice under section 143 of the 2011 Act.
+
+## 4. Exemptions[^key-c5f6c4dedc6e4223b4725054cb09af46]
+
+(1) Regulation 3(1) shall not apply where the appeals commission is satisfied that the deemed application relates solely to—
+
+- (a) the carrying out of operations for the alteration or extension of an existing dwellinghouse; or
+- (b) the carrying out of operations (other than the erection of a dwellinghouse) in the curtilage of an existing dwellinghouse,
+
+for the purpose, in either case, of providing means of access to or within the dwellinghouse for a disabled person who is resident in, or is proposing to take up residence in, that dwellinghouse, or of providing facilities designed to secure his greater safety, health or comfort.
+
+(2) Regulation 3(1) shall not apply where the appeals commission is satisfied that the deemed application relates solely to the carrying out of operations for the purpose of providing means of access for disabled persons to or within a building or premises to which members of the public are admitted (whether on payment or otherwise).
+
+(3) In this regulation “disabled person” means a person who is within any of the descriptions of persons to whom section 1 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978[^f00004] applies.
+
+**5.**[^key-b9bf552a29f459d30f0002523c92f64e] Regulation 3(1) shall not apply where the appeals commission is satisfied—
+
+- (a) that the deemed application relates to the use of a building or other land for a purpose of a class specified in the Planning (Use Classes) Order (Northern Ireland) 2015[^f00005] and solely to such use;
+- (b) that the existing use of that building or other land is for another purpose of the same class; and
+- (c) that the making of an application for planning permission in respect of the use to which the application relates is necessary by reason of (and only by reason of) a condition imposed on a permission granted or having the like effect as a permission granted under Part 3 of the 2011 Act.
+
+**6.**[^key-2601e86ad05dbaf593d4578709f1a0c1] Regulation 3(1) shall not apply to a deemed application where the appellant, before the date when the relevant enforcement notice was issued, made—
+
+- (a) an application for planning permission for the development to which the enforcement notice relates and has paid the fee for that application under and in accordance with the Fees Regulations or the Planning (Fees) Regulations (Northern Ireland) 2005[^f00006], as appropriate; or
+- (b) an appeal to the appeals commission against the refusal to grant such permission,
+
+and that application or that appeal (as the case may be) has not been determined on or before the date when the relevant enforcement notice was issued.
+
+## 7. Fee for a deemed application for EIA development[^key-2cc90a470b01427a3f09f2920c2aee99]
+
+Where an application is deemed to have been made for EIA development, the fee payable in respect of the deemed application shall be the sum of £12,664,[^key-fb8e88ef2eced6c071455f84fdd1e140] in addition to the amount that would otherwise be payable, subject to the maximum amount for the category of development as specified in Part 2 of the Schedule to these regulations.
+
+## 8. Refunds for deemed applications[^key-691a8c1c38e8e3936e7e58e96d2bdc29]
+
+(1) If, in the case of a deemed application, the appeals commission declines jurisdiction on the grounds that the relevant appeal does not comply with one or more of the requirements of section 143(1) to (4) of the 2011 Act, the fee paid in respect of the deemed application shall be refunded.
+
+(2) If the relevant appeal is withdrawn before the date appointed for its hearing or, where the appeal is by way of written representations, before the date appointed for the inspection of the site to which the relevant enforcement notice relates, the fee paid in respect of the deemed application shall be refunded.
+
+(3) The reference in paragraph (2) to an appeal being by way of written representations shall be construed as a reference to an appeal in respect of which neither the appellant nor the authority which issued the notice has asked for an opportunity of appearing before and being heard by the appeals commission.
+
+(4) The fee paid by an appellant shall be refunded to him in the event of the council or, as the case may be, the Department withdrawing the relevant enforcement notice before it takes effect or if the appeals commission decides that the enforcement notice is a nullity.
+
+(5) Save in the case of an application deemed to have been made in connection with a relevant enforcement notice alleging a breach of planning control by the use of land as a caravan site, the fee paid by an appellant in respect of a deemed application shall be refunded to him in the event of the appeals commission allowing the appeal against the enforcement notice on any of the grounds (b) to (e) set out in section 143(3) of the 2011 Act.
+
+(6) Where planning permission is deemed to have been applied for by virtue of section 145(5) of the 2011 Act and—
+
+- (a) the terms of a relevant enforcement notice are varied under section 144 otherwise than to take account of grant of planning permission under section 145; and
+- (b) the amount of the fee calculated in accordance with the Fees Regulations would have been a lesser amount if the original notice had been in the terms of the varied notice,
+
+the fee payable shall be that lesser amount and any excess amount already paid shall be refunded.
+
+(7) In determining a fee under paragraph (6) no account shall be taken of any change in fees which takes effect after the making of the deemed application.
+
+## 9. Fees for appeals[^key-a3e79a3df167b242244ab0127b9eec8b]
+
+(1) The fee for an appeal to the appeals commission shall be £150.[^key-8f51a604497a8f5ff74149c1dc5f4839]
+
+(2) No fee shall be payable in respect of—
+
+- (a) an appeal pursuant to the Planning (Trees) Regulations (Northern Ireland) 2015[^f00007] against a refusal or conditional grant of consent to cut down, top or lop trees or in default of a decision on an application for such consent; or
+- (b) an appeal under the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015[^f00008] against a refusal or conditional grant of consent to display an advertisement.
+
+## 10. Revocations[^key-db163a776a148ae766ed9d54ab1c2719]
+
+(1) Regulation 17 of the Planning (Fees) Regulations (Northern Ireland) 1995[^f00009] is revoked.
+
+(2) Regulations 11 to 13 and, in as much as they relate to a deemed application, the provisions of Schedule 1 of the Planning (Fees) Regulations (Northern Ireland) 2005[^f00010] are revoked.
+
+Sealed with the Official Seal of the Office of the First Minister and deputy First Minister on 6th March 2015.
+
+Siobhan Broderick
+
+A senior officer of the Office of the First Minister and deputy First Minister
+
+## SCHEDULE — Fees in Respect of Deemed Applications[^key-951377ee2aa44a78229bb2e9e840eff8]
+
+Reg 3(2)
+
+### PART 1 — General Provisions
+
+**1.** The fee payable under regulation 3(2) in respect of a deemed application shall be calculated in accordance with the provisions of Part 2 and (where applicable) paragraphs 4 to 7.
+
+**2.** Where a deemed application relates to development stated in the relevant enforcement notice to have been carried out without planning permission, the amount of the fee payable shall be calculated in accordance with the provisions of Part 2 as if the deemed application were one for permission to carry out that development.
+
+**3.** In this Schedule—
+
+- (a) references to the development to which any deemed application relates shall be construed as references to the use of land or the operations (as the case may be) to which the relevant enforcement notice relates;
+- (b) references to the floor space or the number of dwellinghouses to be created by the development shall be construed as references to the floor space or the number of dwellinghouses to which that enforcement notice relates; and
+- (c) references to the purposes for which it is proposed that the floor space shall be used shall be construed as references to the purposes for which floor space was stated to be used in the enforcement notice.
+
+**4.** Where in respect of any category of development specified in Part 2, the fee is to be calculated by reference to the site area—
+
+- (a) that area shall be taken as consisting of the site area to which the relevant enforcement notice relates; and
+- (b) where the area referred to in sub-paragraph (a) is not an exact multiple of the unit of measurement specified in respect of the relevant category of development, the fraction of a unit remaining after division of the total area by the unit of measurement shall be treated, for the purposes of calculating the fee, as a complete unit.
+
+**5.** (1) In relation to development within category 3, 5 or 10(b) specified in Part 2, the area of gross floor space to be created by the development shall be ascertained by external measurement of the floor space, whether or not it is to be bounded (wholly or partly) by external walls of a building.
+
+(2) In relation to development within category 3 or 10(b) where the area of gross floor space is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floor space by the figure of 75 shall be treated as being 75 square metres.
+
+(3) In relation to development within category 5 where the area of gross floor space is not an exact multiple of 500 square metres, the area remaining after division of the total number of square metres of gross floor space by the figure of 500 shall be treated as being 500 square metres.
+
+**6.** (1) Subject to the provisions in sub-paragraph 6(2) and paragraph 7(1), where a deemed application relates to more than one of the categories of development specified in Part 2—
+
+- (a) an amount shall be calculated, in accordance with this Schedule, in respect of development which is within each category; and
+- (b) the total of the amounts calculated for each of the categories of development shall be the fee.
+
+(2) Where a building is to contain floor space which it proposes to use for the purposes of providing common access or common services or facilities for persons occupying or using that building for development within category 1 and for persons occupying or using it for development within category 3 and or category 5 (such floor space being referred to below as “**common floor space**”), the category 3 and or category 5 floor space shall be assessed, in relation to that building, as including such proportion of the common floor space as the category 3 and or category 5 floor space in the building bears to the gross floor space in the building.
+
+**7.** (1) Subject to the provisions of paragraph 6, where a deemed application relates to development which is within more than one of the site-based categories (4,6 and 7)—
+
+- (a) an amount shall be calculated, in accordance with this Schedule, in respect of the development which is within each category; and
+- (b) the highest of the amounts so calculated shall be the fee.
+
+### PART2 — Scale of fees
+
+| Category of development | Fee payable |
+| --- | --- |
+| 1\. The erection of a dwellinghouse. | Where the development comprises a single dwellinghouse, £1,014.<br>For two or more houses—<br>- (a) where the number of dwellinghouses created by the development is 50 or fewer, £1,191 for two dwellinghouses and £425 for each additional dwellinghouse;<br>- (b) where the number of dwellinghouses created by the development exceeds 50, £21,591 and an additional £126 for each dwellinghouse in excess of 50 dwellinghouses, subject to a maximum in total of £316,577. |
+| 2\. The extension, improvement or alteration of an existing dwellinghouse, including the erection of a building or the carrying out of other operations within the curtilage of a dwellinghouse for purposes ancillary to the enjoyment of the dwellinghouse as such, or the erection or construction of gates, fences, walls or other means of enclosure along a boundary or a curtilage of an existing dwellinghouse. | £340 for each dwelling. |
+| 3\. The erection of industrial, commercial, community and other buildings, other than dwellinghouses or buildings covered by category 1. | - (a) where no floor space is created by the development, £216;<br>- (b) where the area of the gross floor space created by the development does not exceed 40 sq.m., £216;<br>- (c) where the area of the gross floor space created by the development exceeds 40 sq.m., but does not exceed 75 sq.m., £425;<br>- (d) where the area of the gross floor space created by the development exceeds 75 sq.m., but does not exceed 3,750 sq.m., £425 for each 75 sq.m. of that area.<br>- (e) where the area of the gross floor space created by the development exceeds 3.750 sq.m., £21,250; and an additional £126 for each 75 sq.m., in excess of 3,750 sq.m., subject to a maximum in total of £316,468. |
+| 4\. The erection, alteration or replacement of plant and machinery including telecommunications equipment, a single wind turbine and wind farms. | - (a) where the site does not exceed 5 hectares, £425 for each 0.1 hectare of the site area;<br>- (b) where the site area exceeds 5 hectares, £21,250; and an additional £126 for each 0.1 hectare in excess of 5 hectares, subject to a maximum in total of £316,468. |
+| 5\. The erection, on land used for the purposes of agriculture, of buildings to be used for agricultural purposes and for agricultural and commercial glasshouses. | £1,130 for each 500 sq.m. of floor space subject to a maximum of £14,979. |
+| 6\. The winning and working of peat. | £2,248 for each 5 hectares of the site area subject to a maximum of £40,464. |
+| 7\.<br>- (a) The winning and working of minerals (other than peat).<br>- (b) The carrying out of any operations connected with exploratory drilling for oil or natural gas.<br>- (c) The use of land for the disposal of refuge or waste materials or for the deposit of material remaining after minerals have been extracted from land or the use of land for the storage of minerals in the open.<br>- (d) The carrying out of any other operation not coming within any of the above categories. | £435 per 0.1 hectare of the site area subject to a maximum of £48,720. |
+| 8\. The construction of single level car parks, service roads and other means of access on land used for the purpose of a single undertaking, where the development is required for a purpose incidental to the existing use of the land. | £301. |
+| 9\. The continuance of a use of land or the retention of buildings or works on land, without compliance with a condition subject to which a previous planning permission has been granted (including a condition requiring discontinuance of the use of the removal of the building or works at the end of the specified period). | £301. |
+| 10\. Material change of use. | - (a) Where the use relates to a dwellinghouse, £825 for the first dwellinghouse and £301 for each additional dwellinghouse subject to a maximum of £15,050;<br>- (b) for any other change of use, £301 for each 75 sq.m. of floor space subject to a maximum of £15,050. |
+| 11\. Any other development not falling within categories 1 to 10. | £990. |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the fees to be charged for planning appeals and deemed planning applications from 01 April 2015.
+
+These Regulations replace Regulations 11 to 13 of and certain provisions of Schedule 1 to the Planning (Fees) Regulations (Northern Ireland) 2005 by making provision for the payment of fees in respect of deemed applications, that is to say applications for planning permission which are deemed to have been made by virtue of provisions of Section 145(5) of the Planning Act (Northern Ireland) 2011 in connection with an appeal against an enforcement notice. In particular—
+
+- (a) Regulation 3 provides for the amount of the fee and for it to be payable by every person who brings an appeal against the enforcement notice;
+- (b) Regulations 4 to 6 set out the circumstances in which the fee is not payable;
+- (c) Regulation 7 provides for the amount of the fee for a deemed application for EIA development;
+- (d) Regulation 8 sets out the circumstances in which the fee is to be refunded;
+- (e) Regulation 9 provides for the amount of the fee for an appeal to the Appeals Commission and circumstances in which the fee is not payable; and
+- (f) The Schedule provides for the calculation of the fees for deemed applications.
+
+Regulation 10 also revokes and replaces Regulation 17 of the Planning (Fees) Regulations (Northern Ireland) 1995. They provide for the fee for an appeal to the Planning Appeals Commission and set out the circumstances when the fee is not payable.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c. 25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^key-fc85b8178fad66cc37e1a75653d357a2]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^key-d1cea4c3242f323a728d6e717ffe46bb]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^f00002]: Footnote: [S.R. 2015 No. 74](https://www.legislation.gov.uk/nisr/2015/74)
+
+[^f00003]: Footnote: [S.R. 2015 No. 73](https://www.legislation.gov.uk/nisr/2015/73)
+
+[^key-c9be55285a88134b9e07a9fc41d67281]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^key-c5f6c4dedc6e4223b4725054cb09af46]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^f00004]: Footnote: [1978 c. 53](https://www.legislation.gov.uk/ukpga/1978/53)
+
+[^key-b9bf552a29f459d30f0002523c92f64e]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^f00005]: Footnote: [S.R. 2015 No. 40](https://www.legislation.gov.uk/nisr/2015/40)
+
+[^key-2601e86ad05dbaf593d4578709f1a0c1]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^f00006]: Footnote: [S.R. 2005 No. 222](https://www.legislation.gov.uk/nisr/2005/222)
+
+[^key-2cc90a470b01427a3f09f2920c2aee99]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^key-fb8e88ef2eced6c071455f84fdd1e140]: Textual amendment: Sum in [reg. 7](https://www.legislation.gov.uk/nisr/2015/136/regulation/7) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/137/regulation/4)
+
+[^key-691a8c1c38e8e3936e7e58e96d2bdc29]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^key-a3e79a3df167b242244ab0127b9eec8b]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^key-8f51a604497a8f5ff74149c1dc5f4839]: Textual amendment: Sum in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2015/136/regulation/9/1) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/137/regulation/5)
+
+[^f00007]: Footnote: [S.R. 2015 No. 84](https://www.legislation.gov.uk/nisr/2015/84)
+
+[^f00008]: Footnote: [S.R. 2015 No. 66](https://www.legislation.gov.uk/nisr/2015/66)
+
+[^key-db163a776a148ae766ed9d54ab1c2719]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+
+[^f00009]: Footnote: [S.R. 1995 No. 78](https://www.legislation.gov.uk/nisr/1995/78)
+
+[^f00010]: Footnote: [S.R. 2005 No. 222](https://www.legislation.gov.uk/nisr/2005/222)
+
+[^key-951377ee2aa44a78229bb2e9e840eff8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2015/136/schedule) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [6](https://www.legislation.gov.uk/nisr/2025/137/regulation/6)

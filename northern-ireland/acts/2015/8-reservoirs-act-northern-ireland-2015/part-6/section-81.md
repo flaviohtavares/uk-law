@@ -1,0 +1,45 @@
+---
+title: Reservoirs Act (Northern Ireland) 2015, section 81
+act: Reservoirs Act (Northern Ireland) 2015
+section: '81'
+status: not-yet-in-force
+text_date: '2021-06-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/8/section/81
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Reservoirs Act (Northern Ireland) 2015, section 81
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 81. Enforcement undertakings
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The Department may by regulations make provision—
+
+- (a) as to the acceptance by it of an enforcement undertaking from a reservoir manager of a controlled reservoir in a case where the Department has reasonable grounds to suspect that the manager has committed an offence under this Act,
+- (b) for the acceptance by it of the undertaking to have the required consequences of acceptance (see subsection (5)).
+
+(2) Before making regulations under subsection (1), the Department must consult in accordance with section 90.
+
+(3) An “enforcement undertaking” is a written undertaking to take such action as may be specified in the undertaking before the end of such period as may be so specified.
+
+(4) The action specified in an enforcement undertaking must be one or more of the following—
+
+- (a) action to secure that the offence does not continue or recur,
+- (b) action to secure that the position is, so far as possible, restored to what it would have been if the offence had not been committed,
+- (c) action (including the payment of a sum of money) to benefit any person adversely affected by the offence,
+- (d) such other action as may be described in the regulations.
+
+(5) The “required consequences of acceptance” are that, unless the reservoir manager from whom the undertaking is accepted has failed to comply with the undertaking or any part of it—
+
+- (a) the reservoir manager may not at any time be convicted of the offence in respect of the act or omission to which the undertaking relates,
+- (b) the Department may not impose on the manager any fixed monetary penalty in respect of the act or omission which it would otherwise have power to impose by virtue of section 83(1),
+- (c) the Department may not impose on the manager any variable monetary penalty in respect of the act or omission which it would otherwise have power to impose by virtue of section 86(1).

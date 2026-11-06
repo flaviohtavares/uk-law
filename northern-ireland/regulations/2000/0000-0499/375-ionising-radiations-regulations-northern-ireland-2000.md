@@ -1,0 +1,2555 @@
+---
+title: Ionising Radiations Regulations (Northern Ireland) 2000
+id: nisr/2000/375
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-11-30'
+text_date: '2017-02-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/375
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/375/pdfs/nisr_20000375_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/375/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Ionising Radiations Regulations (Northern Ireland) 2000
+
+> Text as at 2017-02-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 375
+
+HEALTH AND SAFETY
+
+Ionising Radiations Regulations (Northern Ireland) 2000
+
+Made
+
+30th November 2000
+
+Coming into operation—
+
+All regulations except regulation 5
+
+8th January 2001
+
+Regulation 5
+
+13th May 2001
+
+Whereas it appears to the Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002]—
+
+- (a) under Article 54(1) of the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] (“the 1978 Order”) that the modifications referred to in regulation 41(1) and paragraphs 1 and 2 of Schedule 10 are expedient in connection with the other provisions of these Regulations; and
+- (b) that it is not appropriate to consult bodies in accordance with Article 54(5) of the 1978 Order in respect of such modifications.
+
+Now, therefore, that Department, being a Department designated[^f00004] for the purpose of section 2(2) of the European Communities Act 1972[^f00005] in relation to measures relating to the basic safety standards for the protection of the general public and workers against the dangers of ionising radiation, in exercise of the powers conferred on it by the said section 2(2) and in exercise of the powers conferred by Articles 2(5), 17(1), (2), (3), (4), (5) and (6)[^f00006], 40(2) and (4), 54(1) and 55(2) of, and paragraphs 1(1) and (2), 2, 5, 6, 7, 8, 9, 10, 12, 13, 14(1), 15, 19 and 20(*a*) and (*b*) of Schedule 3 to, the 1978 Order and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1)[^f00007] of the 1978 Order with the Health and Safety Executive for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
+
+## Part I — Interpretation and General
+
+### 1. Citation and commencement[^key-1c45e2171d5fcb2372c93bb80c2326f6]
+
+These Regulations may be cited as the Ionising Radiations Regulations (Northern Ireland) 2000 and shall come into operation—
+
+- (a) as respects all regulations except for regulation 5, on 8th January 2001; and
+- (b) as respects regulation 5, on 13th May 2001.
+
+### 2. Interpretation[^key-030ac968730dd4d368a8863be92c5f43]
+
+(1) In these Regulations—
+
+- “the 1978 Order” means the Health and Safety at Work (Northern Ireland) Order 1978;
+- “accelerator” means an apparatus or installation in which particles are accelerated and which emits ionising radiation with an energy higher than 1MeV;
+- “appointed doctor” means, subject to regulation 39(5) (which relates to transitional provisions), a registered medical practitioner who is for the time being appointed in writing by the Executive for the purposes of these Regulations;
+- “approved” means approved for the time being in writing by the Executive for the purposes of these Regulations and published in such form as it considers appropriate;
+- “approved dosimetry service” means, subject to regulation 39(3) (which relates to transitional provisions), a dosimetry service approved —
+  - (a) in accordance with regulation 35; or
+  - (b) by the Great Britain Executive under regulation 35 of the Great Britain Regulations;
+- “calendar year” means a period of 12 calendar months beginning with the 1st January;
+- “classified person” means—
+  - (a) a person designated as such pursuant to regulation 20(1); and
+  - (b) in the case of an outside worker employed by an undertaking in Great Britain or in another member State, a person who has been designated as a Category A exposed worker within the meaning of Article 21 of the Directive;
+- “comforter and carer” means an individual who (other than as part of his occupation) knowingly and willingly incurs an exposure to ionising radiation resulting from the support and comfort of another person who is undergoing or who has undergone any medical exposure;
+- “contamination” means the contamination by any radioactive substance of any surface (including any surface of the body or clothing) or any part of absorbent objects or materials or the contamination of liquids or gases by any radioactive substance;
+- “controlled area” means—
+  - (a) in the case of an area situated in Northern Ireland, an area which has been so designated in accordance with regulation 16(1); and
+  - (b) in the case of an area situated in Great Britain or in another member State, an area subject to special rules for the purposes of protection against ionising radiation and to which access is controlled as specified in Article 19 of the Directive;
+- “the Directive” means Council Directive 96/29/ Euratom[^f00008] laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation;
+- “dose” means, in relation to ionising radiation, any dose quantity or sum of dose quantities mentioned in Schedule 4;
+- “dose assessment” means the dose assessment made and recorded by an approved dosimetry service in accordance with regulation 21;
+- “dose constraint” means a restriction on the prospective doses to individuals which may result from a defined source;
+- “dose limit” means, in relation to persons of a specified class, the limit on effective dose or equivalent dose specified in Schedule 4 in relation to a person of that class;
+- “dose rate” means, in relation to a place, the rate at which a person or part of a person would receive a dose of ionising radiation from external radiation if he were at that place being a dose rate at that place averaged over one minute;
+- “dose record” means, in relation to a person, the record of the doses received by that person as a result of his exposure to ionising radiation, being the record made and maintained on behalf of the employer by the approved dosimetry service in accordance with regulation 21;
+- “employment medical adviser” means an employment medical adviser appointed under Article 48 of the 1978 Order;
+- “the Executive” means the Health and Safety Executive for Northern Ireland;
+- “external radiation” means, in relation to a person, ionising radiation coming from outside the body of that person;
+- “the Great Britain Executive” means the Health and Safety Executive established under section 10 of the Health and Safety at Work etc. Act 1974[^f00009];
+- “the Great Britain Regulations” means the Ionising Radiations Regulations 1999[^f00010];
+- “health record” means, subject to regulation 39(7) (which relates to transitional provisions), in relation to an employee, the record of medical surveillance of that employee maintained by the employer in accordance with regulation 24(3);
+- “internal radiation” means, in relation to a person, ionising radiation coming from inside the body of that person;
+- “ionising radiation” means the transfer of energy in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less or a frequency of 3 x 10<sup>15</sup> hertz or more capable of producing ions directly or indirectly;
+- “licensee” has the meaning assigned to it by section 26(1) of the Nuclear Installations Act 1965[^f00011];
+- “local rules” means rules made in accordance with regulation 17;
+- “maintained”, where the reference is to maintaining plant, apparatus, equipment or facilities, means maintained in an efficient state, in efficient working order and good repair;
+- “medical exposure” means exposure of a person to ionising radiation for the purpose of his medical or dental examination or treatment which is conducted under the direction of a suitably qualified person and includes any such examination for legal purposes and any such examination or treatment conducted for the purposes of research;
+- “member State” means a member State of the Communities;
+- “outside worker” means a classified person who carries out services in the controlled area of any employer (other than the controlled area of his own employer);
+- “overexposure” means any exposure of a person to ionising radiation to the extent that the dose received by that person causes a dose limit relevant to that person to be exceeded or, in relation to regulation 26(2), causes a proportion of a dose limit relevant to any employee to be exceeded;
+- “practice” means work involving—
+  - (a) the production, processing, handling, use, holding, storage, transport or disposal of radioactive substances; or
+  - (b) the operation of any electrical equipment emitting ionising radiation and containing components operating at a potential difference of more than 5kV,
+
+  which can increase the exposure of individuals to radiation from an artificial source, or from a radioactive substance containing naturally occurring radionuclides which are processed for their radioactive, fissile or fertile properties;
+- “radiation accident” means an accident where immediate action would be required to prevent or reduce the exposure to ionising radiation of employees or any other persons;
+- “radiation employer” means an employer who in the course of a trade, business or other undertaking carries out work with ionising radiation and, for the purposes of regulations 5, 6 and 7, includes an employer who intends to carry out such work;
+- “radiation passbook” means—
+  - (a) in the case of an outside worker employed by an employer in Northern Ireland—
+    - (i) a passbook approved by the Executive for the purposes of these Regulations;
+    - (ii) a passbook approved by the Great Britain Executive for the purposes of the Great Britain Regulations; or
+    - (iii) a passbook to which regulation 39(4) (transitional provisions) applies; and
+  - (b) in the case of an outside worker employed by an employer in Great Britain or in another member State, a passbook authorised by the competent authority for Great Britain or that member State, as the case may be;
+- “radiation protection adviser” means, subject to regulation 39(6) (which relates to transitional provisions), an individual who, or a body which, meets such criteria of competence as may from time to time be specified in writing by—
+  - (a) the Executive; or
+  - (b) the Great Britain Executive;
+- “radioactive substance” means any substance which contains one or more radionuclides whose activity cannot be disregarded for the purposes of radiation protection;
+- “registered medical practitioner” means a fully registered person within the meaning of the Medical Act 1983[^f00012];
+- “sealed source” means a source containing any radioactive substance whose structure is such as to prevent, under normal conditions of use, any dispersion of radioactive substances into the environment, but it does not include any radioactive substance inside a nuclear reactor or any nuclear fuel element;
+- “short-lived daughters of radon 222” means polonium 218, lead 214, bismuth 214 and polonium 214;
+- “supervised area” means an area which has been so designated by the employer in accordance with regulation 16(3);
+- “territorial waters” means United Kingdom territorial waters adjacent to Northern Ireland and “within territorial waters” includes on, over and under them;
+- “trainee” means a person aged 16 years or over (including a student) who is undergoing instruction or training which involves operations which would, in the case of an employee, be work with ionising radiation;
+- “transport” means, in relation to a radioactive substance, carriage of that substance on a road within the meaning of Article 2(2) of the Road Traffic (Northern Ireland) Order 1995[^f00013] or through another public place (whether on a conveyance or not), or by rail, inland waterway, sea or air, and in the case of transport on a conveyance, a substance shall be deemed as being transported from the time that it is loaded onto the conveyance for the purpose of transporting it until it is unloaded from that conveyance, but a substance shall not be considered as being transported if—
+  - (a) it is transported by means of a pipeline or similar means; or
+  - (b) it forms an integral part of a conveyance and is used in connection with the operation of that conveyance;
+- “woman of reproductive capacity” means a woman who is made subject to the additional dose limit for a woman of reproductive capacity specified in paragraphs 5 and 11 of Schedule 4 by an entry in her health record made by an appointed doctor or employment medical adviser;
+- “work with ionising radiation” means work to which these Regulations apply by virtue of regulation 3(1).
+
+(2) In these Regulations, any reference to—
+
+- (a) an employer includes a reference to a self-employed person and any duty imposed by these Regulations on an employer in respect of his employee shall extend to a self-employed person in respect of himself;
+- (b) an employee includes a reference to—
+  - (i) a self-employed person, and
+  - (ii) a trainee who but for the operation of this sub-paragraph and paragraph (3) would not be classed as an employee;
+- (c) exposure to ionising radiation is a reference to exposure to ionising radiation arising from work with ionising radiation;
+- (d) a person entering, remaining in or working in a controlled or supervised area includes a reference to any part of a person entering, remaining in or working in any such area.
+
+(3) For the purposes of these Regulations and Part I of the 1978 Order—
+
+- (a) the word “work” shall be extended to include any instruction or training which a person undergoes as a trainee and the meaning of “at work” shall be extended accordingly; and
+- (b) a trainee shall, while he is undergoing instruction or training in respect of work with ionising radiation, be treated as the employee of the person whose undertaking (whether for profit or not) is providing that instruction or training and that person shall be treated as the employer of that trainee except that the duties to the trainee imposed upon the person providing instruction or training shall only extend to matters under the control of that person.
+
+(4) In these Regulations, where reference is made to a quantity specified in Schedule 8, that quantity shall be treated as being exceeded if—
+
+- (a) where only one radionuclide is involved, the quantity of that radionuclide exceeds the quantity specified in the appropriate entry in Schedule 8; or
+- (b) where more than one radionuclide is involved, the quantity ratio calculated in accordance with Part II of Schedule 8 exceeds one.
+
+(5) Nothing in these Regulations shall be construed as preventing a person from entering or remaining in a controlled area or a supervised area where that person enters or remains in any such area—
+
+- (a) in the due exercise of a power of entry conferred on him by or under any statutory provision; or
+- (b) for the purpose of undergoing a medical exposure.
+
+(6) In these Regulations—
+
+- (a) any reference to an effective dose means the sum of the effective dose to the whole body from external radiation and the committed effective dose from internal radiation; and
+- (b) any reference to equivalent dose to a human tissue or organ includes the committed equivalent dose to that tissue or organ from internal radiation.
+
+(7) The Interpretation Act (Northern Ireland) 1954[^f00014] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+### 3. Application[^key-9fd9557365d1955c89621f630fb31ce8][^key-986b292be01da2f32f6cbbcf1a5f2e01]
+
+(1) Subject to the provisions of this regulation and to regulation 6(1), these Regulations shall apply to—
+
+- (a) any practice;
+- (b) any work (other than a practice) carried out in an atmosphere containing radon 222 gas at a concentration in air, averaged over any 24 hour period, exceeding 400 Bq m<sup>−3</sup> except where the concentration of the short-lived daughters of radon 222 in air averaged over any 8 hour working period does not exceed 6.24 x 10<sup>−7</sup>Jm<sup>−3</sup>; and
+- (c) any work (other than work referred to in sub-paragraphs (*a*) and (*b*)) with any radioactive substance containing naturally occurring radionuclides.
+
+(2) The following regulations shall not apply where the only work being undertaken is that referred to in sub-paragraph (*b*) of paragraph (1), namely regulations 23, 27 to 30, 32 and 33.
+
+(3) The following regulations shall not apply in relation to persons undergoing medical exposures, namely regulations 7, 8, 11, 16 to 18, 23, 25, 31(1) and 34(1).
+
+(4) Regulation 11 shall not apply in relation to any comforter and carer.
+
+(5) In the case of an outside worker (working in a controlled area situated in Northern Ireland) employed by an employer established in Great Britain or in another member State, it shall be sufficient compliance with regulation 21 (dose assessment and recording) and regulation 24 (medical surveillance) if the employer complies with—
+
+- (a) where the employer is established in Great Britain, regulations 21 and 24 of the Great Britain Regulations; or
+- (b) where the employer is established in another member State, the legislation in that State implementing Chapters II and III of Title VI of the Directive where such legislation exists.
+
+### 4. Duties under the Regulations[^key-13c50f1a6714188fc32e9fe9042f75c2]
+
+(1) Any duty imposed by these Regulations on an employer in respect of the exposure to ionising radiation of persons other than his employees shall be imposed only in so far as the exposure of those persons to ionising radiation arises from work with ionising radiation undertaken by that employer.
+
+(2)[^key-30296df9a44d35e17aa2b1c99e3baae3] Duties under these Regulations imposed upon the employer shall also be imposed upon the mine operator of a mine (within the meaning of regulation 3 of the Mines Regulations (Northern Ireland) 2016) in so far as those duties relate to the mine of which he is the mine operator and to matters under his control.
+
+(3)[^key-1906476daaa09b93b97468279f80c32d] Duties under these Regulations imposed upon the employer shall also be imposed upon the operator of a quarry (within the meaning of regulation 3 of the Quarries Regulations (Northern Ireland) 2006) in so far as those duties relate to the quarry or part of the quarry of which he is the occupier and to matters under his control.
+
+(4) Subject to regulation 6(1)(*b*), duties under these Regulations imposed upon the employer shall also be imposed on the holder of a nuclear site licence under the Nuclear Installations Act 1965 in so far as those duties relate to the licensed site.
+
+(5)[^key-12570e32c60bd5ae40815163f8330cec] In this regulation, “mine operator” has the meaning given by regulation 2(1) of the Mines Regulations (Northern Ireland) 2016.
+
+## Part II — General Principles and Procedures
+
+### 5. Authorisation of specified practices[^key-fee991fa77a332245040253dddc2c45c]
+
+(1) Subject to paragraph (2), a radiation employer shall not, except in accordance with a prior authorisation granted by the Executive in writing for the purposes of this paragraph, carry out the following practices—
+
+- (a) the use of electrical equipment intended to produce X-rays for the purpose of—
+  - (i) industrial radiography;
+  - (ii) the processing of products;
+  - (iii) research; or
+  - (iv) the exposure of persons for medical treatment; or
+  - (v) the use of accelerators, except electron microscopes.
+
+(2) Paragraph (1) shall not apply in respect of any practice of a type which is for the time being authorised by the Executive where such practice is or is to be carried out in accordance with such conditions as may from time to time be approved by the Executive in respect of that type of practice.
+
+(3) An authorisation granted under paragraph (1) may be granted subject to conditions and with or without limit of time and may be revoked in writing at any time.
+
+(4) Where an authorisation has been granted pursuant to paragraph (1) and the radiation employer to whom the authorisation was granted subsequently makes a material change to the circumstances relating to that authorisation, that change shall forthwith be notified to the Executive by the radiation employer.
+
+(5) A radiation employer to whom this regulation applies and who is aggrieved by—
+
+- (a) a decision of the Executive—
+  - (i) refusing to grant an authorisation under paragraph (1);
+  - (ii) imposing a limit of time upon an authorisation granted under paragraph (1); or
+  - (iii) revoking an authorisation under paragraph (3); or
+- (b) by the terms of any condition attached to the authorisation by the Executive under paragraph (3),
+
+may appeal to the Department of Enterprise, Trade and Investment.
+
+(6) Chapter I of the Schedule to the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997[^f00017] shall apply to any appeal made under paragraph (5).
+
+### 6. Notification of specified work[^key-677573beb006d5e8b74793726d095079]
+
+(1) This regulation shall apply to work with ionising radiation except—
+
+- (a) work specified in Schedule 1; and
+- (b) work carried on at a site licensed under section 1 of the Nuclear Installations Act 1965.
+
+(2) Subject to paragraphs (7) and (8) and to regulation 39(1) (which relates to transitional provisions), a radiation employer shall not for the first time carry out work with ionising radiation to which this regulation applies unless at least 28 days before commencing that work or before such shorter time as the Executive may agree, he has notified the Executive of his intention to carry out that work and has provided the Executive with the particulars specified in Schedule 2.
+
+(3) Where a radiation employer has notified work in accordance with paragraph (2), the Executive may, by notice in writing served on him, require that radiation employer to provide such additional particulars of that work as it may reasonably require, being any or all of the particulars specified in Schedule 3, and in such a case the radiation employer shall provide those particulars by such time as is specified in the notice or by such other time as the Executive may subsequently agree.
+
+(4) A notice under paragraph (3) may require the radiation employer to notify the Executive of any of the particulars specified in Schedule 3 before each occasion on which he commences work with ionising radiation.
+
+(5) Where a radiation employer has notified work in accordance with paragraph (2) and subsequently makes a material change in that work which would affect the particulars so notified, he shall forthwith notify the Executive of that change.
+
+(6) Nothing in paragraph (5) shall be taken as requiring the cessation of the work to be notified in accordance with that paragraph except where the site or any part of the site in which the work was carried on has been or is to be vacated.
+
+(7) Where the only work being undertaken is work referred to in regulation 3(1)(*b*) or (*c*), it shall be a sufficient compliance with paragraph (2) if the radiation employer having control of the premises where the work is carried on makes the notification required by that paragraph forthwith after the work has commenced.
+
+(8) In relation to work involving the care of a person to whom a radioactive medicinal product (within the meaning of the Medicines (Administration of Radioactive Substances) Regulations 1978[^f00018] has been administered, it shall be sufficient compliance with paragraph (2) if the notification required by that paragraph is given as soon as is practicable before the carrying out of that work.
+
+(9) Where in respect of work with ionising radiation carried out prior to the coming into operation of these Regulations notification has been given to the Executive pursuant to any statutory requirement, the provisions of this regulation shall apply to such notification as if that notification had been given in accordance with paragraph (2).
+
+### 7. Prior risk assessment etc.[^key-619b7426d7c4ffc5e02973c094d12cf2]
+
+(1) Before a radiation employer commences a new activity involving work with ionising radiation in respect of which no risk assessment has been made by him, he shall make a suitable and sufficient assessment of the risk to any employee and other person for the purpose of identifying the measures he needs to take to restrict the exposure of that employee or other person to ionising radiation.
+
+(2) Without prejudice to paragraph (1), a radiation employer shall not carry out work with ionising radiation unless he has made an assessment sufficient to demonstrate that—
+
+- (a) all hazards with the potential to cause a radiation accident have been identified; and
+- (b) the nature and magnitude of the risks to employees and other persons arising from those hazards have been evaluated.
+
+(3) Where the assessment made for the purposes of this regulation shows that a radiation risk to employees or other persons exists from an identifiable radiation accident, the radiation employer shall take all reasonably practicable steps to—
+
+- (a) prevent any such accident;
+- (b) limit the consequences of any such accident which does occur; and
+- (c) provide employees with the information, instruction and training, and with the equipment necessary, to restrict their exposure to ionising radiation.
+
+(4) The requirements of this regulation are without prejudice to the requirements of regulation 3 (Risk assessment) of the Management of Health and Safety at Work Regulations (Northern Ireland) 1992[^f00019].
+
+### 8. Restriction of exposure[^key-26c4bde4d6fc03762ebafb61d771164b]
+
+(1) Every radiation employer shall, in relation to any work with ionising radiation that he undertakes, take all necessary steps to restrict so far as reasonably practicable the extent to which his employees and other persons are exposed to ionising radiation.
+
+(2) Without prejudice to the generality of paragraph (1), a radiation employer shall—
+
+- (a) so far as reasonably practicable achieve the restriction of exposure to ionising radiation required under that paragraph by means of engineering controls and design features and in addition by the provision and use of safety features and warning devices; and
+- (b) in addition to sub-paragraph (*a*), provide such systems of work as will, so far as is reasonably practicable, restrict the exposure to ionising radiation of employees and other persons; and
+- (c) in addition to sub-paragraphs (*a*) and (*b*), where it is reasonably practicable to further restrict exposure to ionising radiation by means of personal protective equipment, provide employees or other persons with adequate and suitable personal protective equipment (including respiratory protective equipment) unless the use of personal protective equipment of a particular kind is not appropriate having regard to the nature of the work or the circumstances of the particular case.
+
+(3) Where it is appropriate to do so at the planning stage of radiation protection, dose constraints shall be used in restricting exposure to ionising radiation pursuant to paragraph (1).
+
+(4) An employer who provides any system of work or personal protective equipment pursuant to this regulation shall take all reasonable steps to ensure that it is properly used or applied as the case may be.
+
+(5) Without prejudice to paragraph (1), a radiation employer shall ensure that—
+
+- (a) in relation to an employee who is pregnant, the conditions of exposure are such that, after her employer has been notified of the pregnancy, the equivalent dose to the foetus is unlikely to exceed 1 mSv during the remainder of the pregnancy; and
+- (b) in relation to an employee who is breastfeeding, the conditions of exposure are restricted so as to prevent significant bodily contamination of that employee.
+
+(6) Nothing in paragraph (5) shall require the radiation employer to take any action in relation to an employee until she has notified her employer in writing that she is pregnant or breastfeeding and the radiation employer has been made aware, or should reasonably have been expected to be aware, of that fact.
+
+(7) Every employer shall, for the purpose of determining whether the requirements of paragraph (1) are being met, ensure that an investigation is carried out forthwith when the effective dose of ionising radiation received by any of his employees for the first time in any calendar year exceeds 15m Sv or such other lower effective dose as the employer may specify, which dose shall be specified in writing in local rules made pursuant to regulation 17(1) or, where local rules are not required, by other suitable means.
+
+### 9. Personal protective equipment[^key-50e4641e49feb01a85c1fc51fc0bf430]
+
+(1) Any personal protective equipment provided by an employer pursuant to regulation 8 shall comply with any provision in the Personal Protective Equipment (EC Directive) Regulations 1992[^f00020] which is applicable to that item of personal protective equipment.
+
+(2) Where in the case of respiratory protective equipment no provision of the Regulations referred to in paragraph (1) applies, that respiratory protective equipment shall satisfy the requirements of regulation 8 only if it is of a type, or conforms to a standard, approved in either case—
+
+- (a) by the Executive; or
+- (b) by the Great Britain Executive under regulation 9(2) of the Great Britain Regulations.
+
+(3) Every radiation employer shall ensure that appropriate accommodation is provided for personal protective equipment when it is not being worn.
+
+### 10. Maintenance and examination of engineering controls etc. and personal protective equipment[^key-926e66c57ddd605092475fb371763cf5]
+
+(1) A radiation employer who provides any engineering control, design feature, safety feature or warning device to meet the requirements of regulation 8(2)(*a*) shall ensure—
+
+- (a) that any such control, feature or device is properly maintained; and
+- (b) where appropriate, that thorough examinations and tests of such controls, features or devices are carried out at suitable intervals.
+
+(2) Every radiation employer shall ensure that all personal protective equipment provided pursuant to regulation 8 is, where appropriate, thoroughly examined at suitable intervals and is properly maintained and that, in the case of respiratory protective equipment, a suitable record of that examination is made and kept for at least two years from the date on which the examination was made and that the record includes a statement of the condition of the equipment at the time of the examination.
+
+### 11. Dose limitation[^key-d3c63e344bfe43469ca149ce6fef8fc8][^key-e9cb02fbffe1ccd967eb74251e390aa8]
+
+(1) Subject to paragraph (2) and to paragraph 5 of Schedule 4, every employer shall ensure that his employees and other persons within a class specified in Schedule 4 are not exposed to ionising radiation to an extent that any dose limit specified in Part I of that Schedule for such class of person is exceeded in any calendar year.
+
+(2) Where an employer is able to demonstrate in respect of any employee that the dose limit specified in paragraph 1 of Part I of Schedule 4 is impracticable having regard to the nature of the work undertaken by that employee, the employer may in respect of that employee apply the dose limits set out in paragraphs 9 to 11 of that Schedule and in such case the provisions of Part II of the Schedule shall have effect.
+
+### 12. Contingency plans[^key-2175ccfe1f533a373a565b37e9274730]
+
+(1) Where the assessment made in accordance with regulation 7 shows that a radiation accident is reasonably foreseeable (having regard to the steps taken by the radiation employer under paragraph (3) of that regulation), the radiation employer shall prepare a contingency plan designed to secure, so far as is reasonably practicable, the restriction of exposure to ionising radiation and the health and safety of persons who may be affected by such accident.
+
+(2) The radiation employer shall ensure that—
+
+- (a) where local rules are required for the purposes of regulation 17, a copy of the contingency plan made in pursuance of paragraph (1) is identified in those rules and incorporated into them by way of summary or reference;
+- (b) any employee under his control who may be involved with or may be affected by arrangements in the plan has been given suitable and sufficient instructions and where appropriate issued with suitable dosemeters or other devices obtained in either case from the approved dosimetry service with which the radiation employer has entered into an arrangement under regulation 21; and
+- (c) where appropriate, rehearsals of the arrangements in the plan are carried out at suitable intervals.
+
+## Part III — Arrangements for the Management of Radiation Protection
+
+### 13. Radiation protection adviser[^key-cf13604a9fe09863e44ca62eedb44076]
+
+(1) Subject to paragraph (3), every radiation employer shall consult such suitable radiation protection advisers as are necessary for the purpose of advising the radiation employer as to the observance of these Regulations and shall, in any event, consult one or more radiation protection advisers with regard to those matters which are set out in Schedule 5.
+
+(2) Where a radiation protection adviser is consulted pursuant to the requirements of paragraph (1) (other than in respect of the observance of that paragraph), the radiation employer shall appoint that radiation protection adviser in writing and shall include in that appointment the scope of the advice which the radiation protection adviser is required to give.
+
+(3) Nothing in paragraph (1) shall require a radiation employer to consult a radiation protection adviser where the only work with ionising radiation undertaken by that employer is work specified in Schedule 1.
+
+(4) The radiation employer shall provide any radiation protection adviser appointed by him with adequate information and facilities for the performance of his functions.
+
+### 14. Information, instruction and training[^key-8b311d3a6539cf2b169a19f2a59338a2]
+
+[^key-a05520f6a61615d9afc2e2402a79c6cd]
+
+Every employer shall ensure that—
+
+- (a) those of his employees who are engaged in work with ionising radiation are given appropriate training in the field of radiation protection and receive such information and instruction as is suitable and sufficient for them to know—
+  - (i) the risks to health created by exposure to ionising radiation;
+  - (ii) the precautions which should be taken; and
+  - (iii) the importance of complying with the medical, technical and administrative requirements of these Regulations;
+- (b) adequate information is given to other persons who are directly concerned with the work with ionising radiation carried on by the employer to ensure their health and safety so far as is reasonably practicable; and
+- (c) those female employees of that employer who are engaged in work with ionising radiation are informed of the possible risk arising from ionising radiation to the foetus and to a nursing infant and of the importance of those employees informing the employer in writing as soon as possible—
+  - (i) after becoming aware of their pregnancy; or
+  - (ii) if they are breast feeding.
+
+### 15. Co-operation between employers[^key-231a2e0c88fafb910f4352c3f8736319]
+
+Where work with ionising radiation undertaken by one employer is likely to give rise to the exposure to ionising radiation of the employee of another employer, the employers concerned shall co-operate by the exchange of information or otherwise to the extent necessary to ensure that each such employer is enabled to comply with the requirements of these Regulations in so far as his ability to comply depends upon such co-operation.
+
+## Part IV — Designated Areas
+
+### 16. Designation of controlled or supervised areas[^key-2ac1898e8c80208fa47cad97cd0d0902]
+
+(1) Every employer shall designate as a controlled area any area under his control which has been identified by an assessment made by him (whether pursuant to regulation 7 or otherwise) as an area in which—
+
+- (a) it is necessary for any person who enters or works in the area to follow special procedures designed to restrict significant exposure to ionising radiation in that area or prevent or limit the probability and magnitude of radiation accidents or their effects; or
+- (b) any person working in the area is likely to receive an effective dose greater that 6mSv a year or an equivalent dose greater than three-tenths of any relevant dose limit referred to in Schedule 4 in respect of an employee aged 18 years or above.
+
+(2) An employer shall not intentionally create in any area conditions which would require that area to be designated as a controlled area unless that area is for the time being under the control of that employer.
+
+(3) An employer shall designate as a supervised area any area under his control, not being an area designated as a controlled area—
+
+- (a) where it is necessary to keep the conditions of the area under review to determine whether the area should be designated as a controlled area; or
+- (b) in which any person is likely to receive an effective dose greater than 1mSv a year or an equivalent dose greater than one-tenth of any relevant dose limit referred to in Schedule 4 in respect of an employee aged 18 years or above.
+
+### 17. Local rules and radiation protection supervisors[^key-02a0141841ada6fe7f54de3645a50006]
+
+(1) For the purposes of enabling work with ionising radiation to be carried on in accordance with the requirements of these Regulations, every radiation employer shall, in respect of any controlled area or, where appropriate having regard to the nature of the work carried out there, any supervised area, make and set down in writing such local rules as are appropriate to the radiation risk and the nature of the operations undertaken in that area.
+
+(2) The radiation employer shall take all reasonable steps to ensure that any local rules made pursuant to paragraph (1) and which are relevant to the work being carried out are observed.
+
+(3) The radiation employer shall ensure that such of those rules made pursuant to paragraph (1) as are relevant are brought to the attention of those employees and other persons who may be affected by them.
+
+(4) The radiation employer shall—
+
+- (a) appoint one or more suitable radiation protection supervisors for the purpose of securing compliance with these Regulations in respect of work carried out in any area made subject to local rules pursuant to paragraph (1); and
+- (b) set down in the local rules the names of such individuals so appointed.
+
+### 18. Additional requirements for designated areas[^key-699737554c3ba209f00fd1b8e69e4def]
+
+(1) Every employer who designates any area as a controlled or supervised area shall ensure that any such designated area is adequately described in local rules and that—
+
+- (a) in the case of any controlled area—
+  - (i) the area is physically demarcated or, where this is not reasonably practicable, delineated by some other suitable means; and
+  - (ii) suitable and sufficient signs are displayed in suitable positions indicating that the area is a controlled area, the nature of the radiation sources in that area and the risks arising from such sources; and
+- (b) in the case of any supervised area, suitable and sufficient signs giving warning of the supervised area are displayed, where appropriate, in suitable positions indicating the nature of the radiation sources and the risks arising from such sources.
+
+(2) The employer who has designated an area as a controlled area shall not permit any employee or other person to enter or remain in such an area unless that employee or other person—
+
+- (a) being a person other than an outside worker, is a classified person;
+- (b) being an outside worker, is a classified person in respect of whom the employer has taken all reasonable steps to ensure that the person—
+  - (i) is subject to individual dose assessment pursuant to regulation 21;
+  - (ii) has been provided with and has been trained to use any personal protective equipment that may be necessary pursuant to regulation 8(2)(*c*);
+  - (iii) has received any specific training required pursuant to regulation 14; and
+  - (iv) has been certified fit for the work with ionising radiation which he is to carry out pursuant to regulation 24; or
+- (c) not being a classified person, enters or remains in the area in accordance with suitable written arrangements for the purpose of ensuring that—
+  - (i) in the case of an employee aged 18 years or over, he does not receive in any calendar year a cumulative dose of ionising radiation which would require that employee to be designated as a classified person; or
+  - (ii) in the case of any other person, he does not receive in any calendar year a dose of ionising radiation exceeding any relevant dose limit.
+
+(3) An employer who has designated an area as a controlled area shall not permit a person to enter or remain in such area in accordance with the written arrangements under paragraph (2)(*c*), unless he can demonstrate, by personal dose monitoring or other suitable measurements, that the doses are restricted in accordance with that paragraph.
+
+(4) An employer who has designated an area as a controlled area shall, in relation to an outside worker, ensure that—
+
+- (a) the outside worker is subject to arrangements for estimating the dose of ionising radiation he receives whilst in the controlled area; and
+- (b) as soon as is reasonably practicable after the services carried out by that outside worker in that controlled area are completed, an estimate of the dose received by that worker is entered into his radiation passbook; and
+- (c) when the radiation passbook of the outside worker is in the possession of that employer, the passbook is made available to that worker upon request.
+
+(5) The employer who carries out the monitoring or measurements pursuant to paragraph (3) shall keep the results of the monitoring or measurements referred to in that paragraph for a period of 2 years from the date they were recorded and shall, at the request of the person to whom the monitoring or measurements relate and on reasonable notice being given make the results available to that person.
+
+(6) In any case where there is a significant risk of the spread of radioactive contamination from a controlled area, the employer who has designated that area as a controlled area shall make adequate arrangements to restrict, so far as is reasonably practicable, the spread of such contamination.
+
+(7) Without prejudice to the generality of paragraph (6), the arrangements required by that paragraph shall, where appropriate, include—
+
+- (a) the provision of suitable and sufficient washing and changing facilities for persons who enter or leave any controlled or supervised area;
+- (b) the proper maintenance of such washing and changing facilities;
+- (c) the prohibition of eating, drinking or smoking or similar activity likely to result in the ingestion of a radioactive substance by any employee in a controlled area; and
+- (d) the means for monitoring for contamination any person, article or goods leaving a controlled area.
+
+### 19. Monitoring of designated areas[^key-adc424bd49748ee019c20273d7293ef5]
+
+(1) Every employer who designates an area as a controlled or supervised area shall take such steps as are necessary (otherwise than by use of assessed doses of individuals), having regard to the nature and extent of the risks resulting from exposure to ionising radiation, to ensure that levels of ionising radiation are adequately monitored for each such area and that working conditions in those areas are kept under review.
+
+(2) The employer upon whom a duty is imposed by paragraph (1) shall provide suitable and sufficient equipment for carrying out the monitoring required by that paragraph, which equipment shall—
+
+- (a) be properly maintained so that it remains fit for the purpose for which it was intended;
+- (b) be adequately tested and examined at appropriate intervals.
+
+(3) Equipment provided pursuant to paragraph (2) shall not be or remain suitable unless—
+
+- (a) the performance of the equipment has been established by adequate tests before it has first been used; and
+- (b) the tests and examinations carried out pursuant to paragraph (2) and sub-paragraph (*a*) have been carried out by or under the supervision of a qualified person.
+
+(4) The employer upon whom a duty is imposed by paragraph (1) shall—
+
+- (a) make suitable records of the results of the monitoring carried out in accordance with paragraph (1) and of the tests carried out in accordance with paragraphs (2) and (3);
+- (b) ensure that the records of the tests carried out pursuant to sub-paragraph (*a*) are authorised by a qualified person; and
+- (c) keep the records referred to in sub-paragraph (*a*), or copies thereof, for at least 2 years from the respective dates on which they were made.
+
+## Part V — Classification and Monitoring of Persons
+
+### 20. Designation of classified persons[^key-dbcb36a07d4133375b33343e6ff4a859]
+
+(1) Subject to paragraph (2), the employer shall designate as classified persons those of his employees who are likely to receive an effective dose in excess of 6mSv per year or an equivalent dose which exceeds three-tenths of any relevant dose limit and shall forthwith inform those employees that they have been so designated.
+
+(2) The employer shall not designate an employee as a classified person unless—
+
+- (a) that employee is aged 18 years or over; and
+- (b) an appointed doctor or employment medical adviser has certified in the health record that that employee is fit for the work with ionising radiation which he is to carry out.
+
+(3) The employer may cease to treat an employee as a classified person only at the end of a calendar year except where—
+
+- (a) an appointed doctor or employment medical adviser so requires; or
+- (b) the employee is no longer employed by the same employer in a capacity which is likely to result in significant exposure to ionising radiation during the remainder of the relevant calendar year.
+
+### 21. Dose assessment and recording[^key-7e73b9dc79763251f7161d8e4cb82ffe]
+
+(1) Every employer shall ensure that—
+
+- (a) in respect of each of his employees who is designated as a classified person, an assessment is made of all doses of ionising radiation received by such employee which are likely to be significant; and
+- (b) such assessments are recorded.
+
+(2) For the purposes of paragraph (1), the employer shall make suitable arrangements with one or more approved dosimetry service for—
+
+- (a) the making of systematic assessments of such doses by the use of suitable individual measurement for appropriate periods or, where individual measurement is inappropriate, by means of other suitable measurements; and
+- (b) the making and maintenance of dose records relating to each classified person.
+
+(3) For the purposes of paragraph (2)(*b*), the arrangements that the employer makes with the approved dosimetry service shall include requirements for that service—
+
+- (a) to keep the records made and maintained pursuant to the arrangements or a copy thereof until the person to whom the record relates has or would have attained the age of 75 years but in any event for at least 50 years from when they were made;
+- (b) to provide the employer at appropriate intervals with suitable summaries of the dose records maintained in accordance with sub-paragraph (*a*);
+- (c) when required by the employer, to provide him with such copies of the dose record relating to any of his employees as the employer may require;
+- (d) when required by the employer, to make a record of the information concerning the dose assessment relating to a classified person who ceases to be an employee of the employer, and to send that record to the Executive and a copy thereof to the employer forthwith, and a record so made is referred to in this regulation as a “termination record”;
+- (e) within 3 months, or such longer period as the Executive may agree, of the end of each calendar year to send to the Executive summaries of all current dose records relating to that year;
+- (f) when required by the Executive, to provide it with copies of any dose records;
+- (g) where a dose is estimated pursuant to regulation 22, to make an entry in a dose record and retain the summary of the information used to estimate that dose;
+- (h) where the employer employs an outside worker, to provide, where appropriate, a current radiation passbook in respect of that outside worker; and
+- (i) where the employer employs an outside worker who works in Great Britain or another member State, to maintain a continuing record of the assessment of the dose received by that outside worker when working in such place.
+
+(4) The employer shall provide the approved dosimetry service with such information concerning his employees as is necessary for the approved dosimetry service to comply with the arrangements made for the purposes of paragraph (2).
+
+(5) An employer shall—
+
+- (a) ensure that each outside worker employed by him is provided with a current individual radiation passbook which shall not be transferable to any other worker and in which shall be entered the particulars set out in Schedule 6; and
+- (b) make suitable arrangements to ensure that the particulars entered in the radiation passbook are kept up-to-date during the continuance of the employment of the outside worker by that employer.
+
+(6) The employer shall—
+
+- (a) at the request of a classified person employed by him (or of a person formerly employed by him as a classified person) and on reasonable notice being given, obtain (where necessary) from the approved dosimetry service and make available to that person—
+  - (i) a copy of the dose summary provided for the purpose of paragraph (3)(*b*) relating to that person and made within a period of 2 years preceding the request;
+  - (ii) a copy of the dose record of that person; and
+- (b) when a classified person ceases to be employed by the employer, take all reasonable steps to provide to that person a copy of his termination record.
+
+(7) The employer shall keep a copy of the summary of the dose record received from the approved dosimetry service for at least 2 years from the end of the calendar year to which the summary relates.
+
+### 22. Estimated doses and special entries[^key-e781e61174542b0e05cb94906ce82b67]
+
+(1) Where a dosemeter or other device is used to make any individual measurement under regulation 21(2) and that dosemeter or device is lost, damaged or destroyed or it is not practicable to assess the dose received by a classified person over any period, the employer shall make an adequate investigation of the circumstances of the case with a view to estimating the dose received by that person during that period and either—
+
+- (a) in a case where there is adequate information to estimate the dose received by that person, shall send to the approved dosimetry service an adequate summary of the information used to estimate that dose and shall arrange for the approved dosimetry service to enter the estimated dose in the dose record of that person; or
+- (b) in a case where there is inadequate information to estimate the dose received by the classified person, shall arrange for the approved dosimetry service to enter a notional dose in the dose record of that person which shall be the proportion of the total annual dose limit for the relevant period,
+
+and in either case the employer shall take reasonable steps to inform the classified person of that entry and arrange for the approved dosimetry service to identify the entry in the dose record as an estimated dose or a notional dose as the case may be.
+
+(2) The employer shall, at the request of the classified person (or a person formerly employed by that employer as a classified person) to whom the investigation made under paragraph (1) relates and on reasonable notice being given, make available to that person a copy of the summary sent to the approved dosimetry service under sub-paragraph (*a*) of paragraph (1).
+
+(3) Subject to paragraphs (5) and (8), where an employer has reasonable cause to believe that the dose received by a classified person is much greater or much less than that shown in the relevant entry of the dose record, he shall make an adequate investigation of the circumstances of the exposure of that person to ionising radiation and, if that investigation confirms his belief, the employer shall, where there is adequate information to estimate the dose received by the employee—
+
+- (a) send to the approved dosimetry service an adequate summary of the information used to estimate that dose;
+- (b) arrange for the approved dosimetry service to enter that estimated dose in the dose record of that person and for the approved dosimetry service to identify the estimated dose in the dose record as a special entry; and
+- (c) notify the classified person accordingly.
+
+(4) The employer shall make a report of any investigation carried out under paragraph (3) and shall preserve a copy of that report for a period of 2 years from the date it was made.
+
+(5) Paragraph (3) shall not apply—
+
+- (a) in respect of a classified person subject only to an annual dose limit, more than 12 months after the original entry was made in the record; and
+- (b) in any other case, more than 5 years after the original entry was made in the record.
+
+(6) Where a classified person is aggrieved by a decision to replace a recorded dose by an estimated dose pursuant to paragraph (3) he may, by an application in writing to the Executive made within 3 months of the date on which he was notified of the decision, apply for that decision to be reviewed.
+
+(7) Where the Executive concludes (whether as a result of a review carried out pursuant to paragraph (6) or otherwise) that—
+
+- (a) there is reasonable cause to believe the investigation carried out pursuant to paragraph (3) was inadequate; or
+- (b) a reasonable estimated dose has not been established,
+
+the employer shall, if so directed by the Executive, re-instate the original entry in the dose record.
+
+(8) The employer shall not, without the consent of the Executive, require the approved dosimetry service to enter an estimated dose in the dose record in any case where—
+
+- (b) the cumulative recorded effective dose is 20mSv or more in one calendar year; or
+- (b) the cumulative recorded equivalent dose for the calendar year exceeds a relevant dose limit.
+
+### 23. Dosimetry for accidents etc.[^key-f7ac2c6a029d79a4e8bcc1afa5bf4a52]
+
+(1) Where any accident or other occurrence takes place which is likely to result in a person receiving an effective dose of ionising radiation exceeding 6mSv or an equivalent dose greater than three-tenths of any relevant dose limit, the employer shall—
+
+- (a) in the case of a classified person, arrange for a dose assessment to be made by the approved dosimetry service forthwith;
+- (b) in the case of an employee to whom a dosemeter or other device has been issued in accordance with regulation 12(2), arrange for that dosemeter or device to be examined and for the dose received to be assessed by the approved dosimetry service as soon as possible;
+- (c) in any other case, arrange for the dose to be assessed by an appropriate means as soon as possible, having regard to the advice of the radiation protection adviser.
+
+(2) In such a case, the employer shall—
+
+- (a) take all reasonably practicable steps to inform each person for whom a dose assessment has been made of the result of that assessment; and
+- (b) keep a record of the assessment or a copy thereof until the person to whom the record relates has or would have attained the age of 75 years but in any event for at least 50 years from the date of the relevant accident.
+
+### 24. Medical surveillance[^key-c1c25fda1008c654c70e4786e69642a9]
+
+(1) This regulation shall apply in relation to—
+
+- (a) classified persons and persons whom an employer intends to designate as classified persons;
+- (b) employees who have received an overexposure and are not classified persons;
+- (c) employees who are engaged in work with ionising radiation subject to conditions imposed by an appointed doctor or employment medical adviser under paragraph (6).
+
+(2) The employer shall ensure that each of his employees to whom this regulation relates is under adequate medical surveillance by an appointed doctor or employment medical adviser for the purpose of determining the fitness of each employee for the work with ionising radiation which he is to carry out.
+
+(3) The employer shall ensure that a health record, containing the particulars referred to in Schedule 7, in respect of each of his employees to whom this regulation relates is made and maintained and that that record or a copy thereof is kept until the person to whom the record relates has or would have attained the age of 75 years but in any event for at least 50 years from the date of the last entry made in it.
+
+(4) Subject to paragraph (5), the employer shall ensure that there is a valid entry in the health record of each of his employees to whom this regulation relates (other than employees who have received an overexposure and who are not classified persons) made by an appointed doctor or employment medical adviser and an entry in the health record shall be valid—
+
+- (a) for 12 months from the date it was made or treated as made by virtue of paragraph (5); or
+- (b) for such shorter period as is specified in the entry by the appointed doctor or employment medical adviser; or
+- (c) until cancelled by an appointed doctor or employment medical adviser by a further entry in the record.
+
+(5) For the purposes of paragraph (4)(*a*), a further entry in the health record of the same employee shall, where made not less than 11 months nor more than 13 months after the start of the current period of validity, be treated as if made at the end of that period.
+
+(6) Where the appointed doctor or employment medical adviser has certified in the health record of an employee to whom this regulation relates that in his professional opinion that employee should not be engaged in work with ionising radiation or that he should only be so engaged under conditions he has specified in the health record, the employer shall not permit that employee to be engaged in the work with ionising radiation except in accordance with the conditions, if any, so specified.
+
+(7) Where, for the purpose of carrying out his functions under these Regulations, an appointed doctor or employment medical adviser requires to inspect any workplace, the employer shall permit him to do so.
+
+(8) The employer shall make available to the appointed doctor or employment medical adviser the summary of the dose record kept by the employer pursuant to regulation 21(7) and such other records kept for the purposes of these Regulations as the appointed doctor or employment medical adviser may reasonably require.
+
+(9) Where an employee is aggrieved by a decision recorded in the health record by an appointed doctor or employment medical adviser he may, by an application in writing to the Executive made within 3 months of the date on which he was notified of the decision, apply for that decision to be reviewed in accordance with a procedure approved for the purposes of this paragraph by the Executive, and the result of that review shall be notified to the employee and entered in his health record in accordance with the approved procedure.
+
+### 25. Investigation and notification of overexposure[^key-d1a2150351101428954cf60c92a4ea0d]
+
+(1) Where a radiation employer suspects or has been informed that any person is likely to have received an overexposure as a result of work carried out by that employer, that employer shall make an immediate investigation to determine whether there are circumstances which show beyond reasonable doubt that no overexposure could have occurred and, unless this is shown, the radiation employer shall—
+
+- (a) as soon as practicable notify the suspected overexposure to—
+  - (i) the Executive;
+  - (ii) in the case of an employee of some other employer, that other employer; and
+  - (iii) in the case of his own employee, the appointed doctor or employment medical adviser;
+- (b) as soon as practicable take reasonable steps to notify the suspected overexposure to the person affected; and
+- (c) make or arrange for such investigation of the circumstances of the exposure and an assessment of any relevant dose received as is necessary to determine, so far as is reasonably practicable, the measures, if any, required to be taken to prevent a recurrence of such overexposure and shall forthwith notify the results of that investigation and assessment to the persons and authorities mentioned in sub-paragraph (*a*) and shall—
+  - (i) in the case of his employee, forthwith notify that employee of the results of the investigation and assessment, or
+  - (ii) in the case of a person who is not his employee, where the investigation has shown that that person has received an overexposure, take all reasonable steps to notify him of his overexposure.
+
+(2) A radiation employer who makes any investigation pursuant to paragraph (1) shall make a report of that investigation and shall—
+
+- (a) in respect of an immediate investigation, keep that report or a copy thereof for at least 2 years from the date on which it was made; and
+- (b) in respect of an investigation made pursuant to sub-paragraph (*c*) of paragraph (1), keep that report or a copy thereof until the person to whom the record relates has or would have attained the age of 75 years but in any event for at least 50 years from the date on which it was made.
+
+(3) Where the person who received the overexposure is an employee who has a dose record, his employer shall arrange for the assessment of the dose received to be entered into that dose record.
+
+### 26. Dose limitation for overexposed employees[^key-7ad5a1f4c8877f19f8d422f995cbd901]
+
+(1) Without prejudice to other requirements of these Regulations and in particular regulation 24(6), where an employee has been subjected to an overexposure paragraph (2) shall apply in relation to the employment of that employee on work with ionising radiation during the remainder of the dose limitation period commencing at the end of the personal dose assessment period in which he was subjected to the overexposure.
+
+(2) The employer shall ensure that an employee to whom this regulation relates does not, during the remainder of the dose limitation period, receive a dose of ionising radiation greater than that proportion of any dose limit which is equal to the proportion that the remaining part of the dose limitation period bears to the whole of that period.
+
+(3) The employer shall inform an employee who has been subjected to an overexposure of the dose limit which is applicable to that employee for the remainder of the relevant dose limitation period.
+
+(4) In this regulation, “dose limitation period” means, as appropriate, a calendar year or the period of five consecutive calendar years.
+
+## Part VI — Arrangements for the Control of Radioactive Substances, Articles and Equipment
+
+### 27. Sealed sources and articles containing or embodying radioactive substances[^key-c97c42880cee6c28a5c9daec1c69c879]
+
+(1) Where a radioactive substance is used as a source of ionising radiation in work with ionising radiation, the radiation employer shall ensure that, whenever reasonably practicable, the substance is in the form of a sealed source.
+
+(2) The radiation employer shall ensure that the design, construction and maintenance of any article containing or embodying a radioactive substance, including its bonding, immediate container or other mechanical protection, is such as to prevent the leakage of any radioactive substance—
+
+- (a) in the case of a sealed source, so far as is practicable; or
+- (b) in the case of any other article, so far as is reasonably practicable.
+
+(3) Where appropriate, the radiation employer shall ensure that suitable tests are carried out at suitable intervals to detect leakage of radioactive substances from any article to which paragraph (2) applies and the employer shall make a suitable record of each such test and shall retain that record for at least 2 years after the article is disposed of or until a further record is made following a subsequent test to that article.
+
+### 28. Accounting for radioactive substances[^key-65c2aad9a781bb20678add6abc7581ed]
+
+For the purpose of controlling radioactive substances which are involved in work with ionising radiation which he undertakes, every radiation employer shall take such steps as are appropriate to account for and keep records of the quantity and location of those substances and shall keep those records or a copy thereof for at least 2 years from the date on which they were made and, in addition, for at least 2 years from the date of disposal of that radioactive substance.
+
+### 29. Keeping and moving of radioactive substances[^key-bfd016edc702376c1d274f2e2084c812]
+
+(1) Every radiation employer shall ensure, so far as is reasonably practicable, that any radioactive substance under his control which is not for the time being in use or being moved, transported or disposed of—
+
+- (a) is kept in a suitable receptacle; and
+- (b) is kept in a suitable store.
+
+(2) Every employer who causes or permits a radioactive substance to be moved (otherwise than by transporting it) shall ensure that, so far as is reasonably practicable, the substance is kept in a suitable receptacle, suitably labelled, while it is being moved.
+
+(3) Nothing in paragraphs (1) or (2) shall apply in relation to a radioactive substance while it is in or on the live body or corpse of a human being.
+
+### 30. Notification of certain occurrences[^key-2a44eb2341699e3098abfe14ce07ee86]
+
+(1) Every radiation employer shall forthwith notify the Executive in any case where a quantity of a radioactive substance which was under his control and which exceeds the quantity specified for that substance in column 4 of Schedule 8—
+
+- (a) has been released or is likely to have been released into the atmosphere as a gas, aerosol or dust; or
+- (b) has been spilled or otherwise released in such a manner as to give rise to significant contamination.
+
+(2) Paragraph (1) shall not apply where such release—
+
+- (a) was in accordance with a registration under section 10 of the Radioactive Substances Act 1993[^f00021] or which was exempt from such registration by virtue of section 11 of that Act; or
+- (b) was in a manner specified in an authorisation to dispose of radioactive waste under section 13 of the said Act or which was exempt from such authorisation by virtue of section 15 of that Act.
+
+(3) Where a radiation employer has reasonable cause to believe that a quantity of a radioactive substance which exceeds the quantity for that substance specified in column 5 of Schedule 8 and which was under his control is lost or has been stolen, the employer shall forthwith notify the Executive of that loss or theft, as the case may be.
+
+(4) Where a radiation employer suspects or has been informed that an occurrence notifiable under paragraph (1) or (3) may have occurred, he shall make an immediate investigation and, unless that investigation shows that no such occurrence has occurred, he shall forthwith make a notification in accordance with the relevant paragraph.
+
+(5) A radiation employer who makes any investigation in accordance with paragraph (4) shall make a report of that investigation and shall, unless the investigation showed that no such occurrence occurred, keep that report or a copy thereof for at least 50 years from the date on which it was made or, in any other case, for at least 2 years from the date on which it was made.
+
+### 31. Duties of manufacturers etc. of articles for use in work with ionising radiation[^key-873a2873dde904ea97643b47c76aea23]
+
+(1) In the case of articles for use at work, where that work is work with ionising radiation, Article 7(1) of the 1978 Order[^f00022] (which imposes general duties on manufacturers etc. as regards articles and substances for use at work) shall be modified so that any duty imposed on any person by that Article shall include a duty to ensure that any such article is so designed and constructed as to restrict so far as is reasonably practicable the extent to which employees and other persons are or are likely to be exposed to ionising radiation.
+
+(2) Where a person erects or installs an article for use at work, being work with ionising radiation, he shall—
+
+- (a) where appropriate, undertake a critical examination of the way in which the article was erected or installed for the purpose of ensuring, in particular, that—
+  - (i) the safety features and warning devices operate correctly; and
+  - (ii) there is sufficient protection for persons from exposure to ionising radiation;
+- (b) consult with the radiation protection adviser appointed by himself or by the radiation employer with regard to the nature and extent of any critical examination and the results of that examination; and
+- (c) provide the radiation employer with adequate information about proper use, testing and maintenance of the article.
+
+### 32. Equipment used for medical exposure[^key-ea49d32f5f814ff5cf520c59a56657cb]
+
+(1) Every employer who has to any extent control of any equipment or apparatus which is used in connection with a medical exposure shall, having regard to the extent of his control over the equipment, ensure that such equipment is of such design or construction and is so installed and maintained as to be capable of restricting so far as is reasonably practicable the exposure to ionising radiation of any person who is undergoing a medical exposure to the extent that this is compatible with the intended clinical purpose or research objective.
+
+(2) An employer who has to any extent control of any radiation equipment which is used for the purpose of diagnosis and which is installed after the date of the coming into operation of these Regulations shall, having regard to the extent of his control over the equipment, ensure that such equipment is provided, where practicable, with suitable means for informing the user of that equipment of the quantity of radiation produced by that equipment during a radiological procedure.
+
+(3) Every employer in respect of whom a duty is imposed by paragraph (1) shall, to the extent that it is reasonable for him to do so having regard to the extent of his control over the equipment, make arrangements for a suitable quality assurance programme to be provided in respect of the equipment or apparatus for the purpose of ensuring that it remains capable of restricting so far as is reasonably practicable exposure to the extent that this is compatible with the intended clinical purpose or research objective.
+
+(4) Without prejudice to the generality of paragraph (3), the quality assurance programme required by that paragraph shall require the carrying out of—
+
+- (a) in respect of equipment or apparatus first used after the coming into operation of this regulation, adequate testing of that equipment or apparatus before it is first used for clinical purposes;
+- (b) adequate testing of the performance of the equipment or apparatus at appropriate intervals and after any major maintenance procedure to that equipment or apparatus;
+- (c) where appropriate, such measurements at suitable intervals as are necessary to enable the assessment of representative doses from any radiation equipment to persons undergoing medical exposures.
+
+(5) Every employer who has to any extent control of any radiation equipment shall take all such steps as are reasonably practicable to prevent the failure of any such equipment where such failure could result in an exposure to ionising radiation greater than that intended and to limit the consequences of any such failure.
+
+(6) Where a radiation employer suspects or has been informed that an incident may have occurred in which a person while undergoing a medical exposure was, as the result of a malfunction of, or defect in, radiation equipment under the control of that employer, exposed to ionising radiation to an extent much greater than that intended, he shall make an immediate investigation of the suspected incident and, unless that investigation shows beyond reasonable doubt that no such incident has occurred, shall forthwith notify the Executive thereof and make or arrange for a detailed investigation of the circumstances of the exposure and an assessment of the dose received.
+
+(7) A radiation employer who makes any investigation in accordance with paragraph (6) shall make a report of that investigation and shall—
+
+- (a) in respect of an immediate report, keep that report or a copy thereof for a period of at least 2 years from the date on which it was made; and
+- (a) in respect of a detailed report, keep that report or a copy thereof for a period of at least 50 years from the date on which it was made.
+
+(8) In this regulation, “radiation equipment” means equipment which delivers ionising radiation to the person undergoing a medical exposure and equipment which directly controls the extent of the exposure.
+
+### 33. Misuse of or interference with sources of ionising radiation[^key-dc958f3904b51b31f2b0510147b4ff54]
+
+A person shall not intentionally or recklessly misuse or without reasonable excuse interfere with any radioactive substance or any electrical equipment to which these Regulations apply.
+
+## Part VII — Duties of Employees and Miscellaneous
+
+### 34. Duties of employees[^key-19f728c58f06abc2047d38ac05c0c38d]
+
+(1) An employee who is engaged in work with ionising radiation shall not knowingly expose himself or any other person to ionising radiation to an extent greater than is reasonably necessary for the purposes of his work, and shall exercise reasonable care while carrying out such work.
+
+(2) Every employee who is engaged in work with ionising radiation and for whom personal protective equipment is provided pursuant to regulation 8(2)(*c*) shall—
+
+- (a) make full and proper use of any such personal protective equipment;
+- (b) forthwith report to his employer any defect he discovers in any such personal protective equipment; and
+- (c) take all reasonable steps to ensure that any such personal protective equipment is returned after use to the accommodation provided for it.
+
+(3) It shall be the duty of every outside worker not to misuse the radiation passbook issued to him or falsify or attempt to falsify any of the information contained in it.
+
+(4) Any employee to whom regulation 21(1) or regulation 12(2)(*b*) relates shall comply with any reasonable requirement imposed on him by his employer for the purposes of making the measurements and assessments required under regulation 20(1) and regulation 23(1).
+
+(5) An employee who is subject to medical surveillance under regulation 24 shall, when required by his employer and at the cost of the employer, present himself during his working hours for such medical examination and tests as may be required for the purposes of paragraph (2) of that regulation and shall provide the appointed doctor or employment medical adviser with such information concerning his health as the appointed doctor or employment medical adviser may reasonably require.
+
+(6) Where an employee has reasonable cause to believe that—
+
+- (a) he or some other person has received an overexposure;
+- (b) an occurrence mentioned in paragraph (1) or (3) of regulation 30 has occurred; or
+- (c) an incident mentioned in regulation 32(6) has occurred,
+
+he shall forthwith notify his employer of that belief.
+
+### 35. Approval of dosimetry services[^key-13eb6e796bbe027275685d1c8ea1d4ae]
+
+(1) The Executive may, by a certificate in writing, approve (in accordance with such criteria as may from time to time be specified by the Executive) a suitable dosimetry service for such of the purposes of these Regulations or of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001[^key-793c6ce794563ca01060f8dd5ba613a6] as are specified in the certificate.
+
+(2) A certificate made pursuant to paragraph (1) may be made subject to conditions and may be revoked in writing at any time.
+
+(3) The Executive may at such suitable periods as it considers appropriate carry out a re-assessment of any approval granted pursuant to paragraph (1).
+
+### 35A. Enforcement[^key-a0f14f85aa2e7ddf61739e9846ccfd8e]
+
+Insofar as any provision of regulation 21 is made under section 2(2) of the European Communities Act 1972, Articles—
+
+- (a) 18 to 23 (approval of codes of practice and enforcement);
+- (b) 25 (provisions supplementary to Articles 23 and 24) and 26 (appeal against improvement or prohibition notice), so far as they relate to an improvement notice;
+- (c) 28 (power to indemnify inspectors); and
+- (d) 31 to 39 (provisions as to offences), of the Health and Safety at Work (Northern Ireland) Order 1978 shall apply to that provision as if that provision had been made under Article 17 of that Order.
+
+### 36. Defence on contravention[^key-f5fe0e9f221f8ed20131912ba112ddca]
+
+(1) In any proceedings against an employer for an offence under regulation 6(2), it shall be a defence for that employer to prove that—
+
+- (a) he neither knew nor had reasonable cause to believe that he had carried out or might be required to carry out work subject to notification under that regulation; and
+- (b) in a case where he discovered that he had carried out or was carrying out work subject to notification under that regulation, he had forthwith notified the Executive of the information required by that regulation.
+
+(2) In any proceedings against an employer for an offence under regulation 7, it shall be a defence for that employer to prove that—
+
+- (a) he neither knew nor had reasonable cause to believe that he had commenced a new activity involving work with ionising radiation; and
+- (b) in a case where he had discovered that he had commenced a new activity involving work with ionising radiation, he had as soon as practicable made an assessment as required by the said regulation 7.
+
+(3) In any proceedings against an employer for an offence under regulation 27(2) it shall be a defence for that employer to prove that—
+
+- (a) he had received and reasonably relied on a written undertaking from the supplier of the article concerned that it complied with the requirements of that regulation; and
+- (b) he had complied with the requirements of regulation 27(3).
+
+(4) In any proceedings against an employer of an outside worker for a breach of a duty under these Regulations it shall be a defence for that employer to show that—
+
+- (a) he had entered into a contract in writing with the employer who had designated an area as a controlled area and in which the outside worker was working or was to work for that employer to perform that duty on his behalf; and
+- (b) the breach of duty was a result of the failure of the employer referred to in sub-paragraph (*a*) to fulfil that contract.
+
+(5) In any proceedings against any employer who has designated a controlled area in which any outside worker is working or is to work, for a breach of a duty under these Regulations it shall be a defence for that employer to show that—
+
+- (a) he had entered into a contract in writing with the employer of an outside worker for that employer to perform that duty on his behalf; and
+- (b) the breach of duty was a result of the failure of the employer referred to in sub-paragraph (*a*) to fulfil that contract.
+
+(6) The person charged shall not, without leave of the court be entitled to rely on the defence referred to in paragraph (4) or (5) unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing that he intends to rely on the defence and this notice shall be accompanied by a copy of the contract on which he intends to rely and, if that contract is not in English, an accurate translation of that contract into English.
+
+(7)[^key-51b5b4b8ab56cadffc3ed86d986220d4] Where a contravention of these Regulations by any person is due to the act or default of some other person, that other person shall be guilty of the offence which would, but for any defence under this regulation available to the first-mentioned person, be constituted by the act or default.
+
+### 37. Exemption certificates[^key-5111638b3eda07f1ee406950ab4b1245]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt—
+
+- (a) any person or class of persons;
+- (b) any premises or class of premises; or
+- (c) any equipment, apparatus or substance or class of equipment, apparatus or substance,
+
+from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant an exemption unless, having regard to the circumstances of the case and in particular to—
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any statutory provisions which apply to the case,
+
+it is satisfied that—
+
+- (c) the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it; and
+- (d) compliance with the fundamental radiation protection provisions underlying regulations 8(1) and (2)(*a*), 11, 12(1), 16(1) and (3), 19(1), 20(1), 21(1), 24(2) and 32(1) will be achieved.
+
+### 38. Application within territorial waters[^key-a4fe63de0cf7f5f0c4281a1d6c3f3cca]
+
+(1) Subject to paragraph (2), within territorial waters these Regulations shall apply only to or in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 9 applies.
+
+(2) For the purposes of paragraph (1), in any case where it is not reasonably practicable for an employer to comply with the requirements of these Regulations in so far as they relate to functions being performed by an appointed doctor or employment medical adviser or by an approved dosimetry service, it shall be sufficient compliance with any such requirements if the employer makes arrangements affording an equivalent standard of protection for his employees and those arrangements are set out in local rules.
+
+### 39. Transitional provisions[^key-0a826064d88099497fddf266df61e84d]
+
+(1) Where on or before 5th March 2001 an employer commences for the first time work which is required to be notified under regulation 6(2), it shall be sufficient compliance with that regulation if the employer notifies the Executive and notifies the required particulars before 5th February 2001.
+
+(2) A contingency plan made pursuant to the requirements of regulation 27 of the Ionising Radiations Regulations (Northern Ireland) 1985[^f00023] and which complied with that regulation immediately before the coming into operation of these Regulations shall, for the purposes of regulation 12 of these Regulations, be treated as if made pursuant to paragraph (1) of that regulation.
+
+(3) A certificate of approval granted by the Executive in respect of an approved dosimetry service under regulation 15 of the Ionising Radiations Regulations (Northern Ireland) 1985 and which is valid immediately before the date of the coming into operation of these Regulations, shall continue in operation and shall be treated as if it had been granted under regulation 35 of these Regulations.
+
+(4) A radiation passbook approved for the purposes of the Ionising Radiations (Outside Workers) Regulations (Northern Ireland) 1993[^f00024] and issued prior to 30h April 2001 in respect of an outside worker employed by an employer in Northern Ireland and which was at that date valid shall remain valid for such time as the worker to whom the passbook relates continues to be employed by the same employer.
+
+(5) A doctor appointed in writing by the Executive prior to the coming into operation of these Regulations for the purposes of the Ionising Radiations Regulations (Northern Ireland) 1985 shall, until such time as the period specified in the appointment expires or the appointment is revoked, be deemed to have been appointed for the purposes of these Regulations.
+
+(6) Until 31st December 2004, a person who had before the coming into operation of these Regulations been appointed by an employer as a radiation protection adviser for the purposes of the Ionising Radiations Regulations (Northern Ireland) 1985 shall be deemed to meet the criteria of competence specified by the Executive for such advisers under these Regulations.
+
+(7) A health record which was created prior to the coming into operation of these Regulations pursuant to a requirement of the Ionising Radiations Regulations (Northern Ireland) 1985 shall remain valid for a period of 12 months from the date of the last entry made in it or for such shorter period as may have been specified in that record for the validity of the last entry by an appointed doctor or employment medical adviser under those Regulations, and such record shall for that period be deemed to have been kept for the purposes of regulation 24(3) of these Regulations.
+
+(8) A certificate of exemption issued by the Executive pursuant to paragraph (6) of regulation 27 of the Ionising Radiations Regulations (Northern Ireland) 1985 and which is valid at the coming into operation of these Regulations shall continue in operation until such time as it is revoked by the Executive, save that the exemption from the requirements of regulation 7 of the said 1985 regulations shall be deemed to be an exemption from the requirements of regulation 11 of these Regulations.
+
+(9) Where the Executive has reasonable cause to believe that the dose received by an employee was much greater or much less than that shown in his dose record (such record having been made and maintained in accordance with regulation 13 of the Ionising Radiations Regulations (Northern Ireland) 1985) the Executive may, until 30th April 2001, approve a special entry into the dose record and in such a case the employer shall arrange for the appropriate approved dosimetry service to enter the special entry in that dose record and shall give a copy of the amended dose record to the employee to whom it relates.
+
+### 40. Modifications relating to the Ministry of Defence etc.[^key-b8c6990b565f1216c48adb0ede6b9df7]
+
+(1) In this regulation, any reference to—
+
+- (a) “visiting forces” is a reference to visiting forces within the meaning of any provision of Part 1 of the Visiting Forces Act 1952[^f00025]; and
+- (b) “headquarters or organisation” is a reference to a headquarters or organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964[^f00026].
+
+(2) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt—
+
+- (a) Her Majesty’s Forces;
+- (b) visiting forces;
+- (c) any member of a visiting force working in or attached to any headquarters or organisation; or
+- (d) any person engaged in work with ionising radiation for, or on behalf of, the Secretary of State for Defence,
+
+from all or any of the requirements or prohibitions imposed by these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing, except that, where any such exemption is granted, suitable arrangements shall be made for the assessment and recording of doses of ionising radiation received by persons to whom the exemption relates.
+
+(3) Sub-paragraph (i) of regulation 21(3) shall not apply in relation to a practice carried out—
+
+- (a) by or on behalf of the Secretary of State for Defence;
+- (b) by a visiting force; or
+- (c) by any member of a visiting force in or attached to any headquarters or organisation.
+
+(4) Regulations 5 and 6 shall not apply in relation to work carried out by visiting forces or any headquarters or organisation on premises under the control of such visiting force, headquarters or organisation, as the case may be, or on premises under the control of the Secretary of State for Defence.
+
+(5) The requirements of regulation 6 to notify the particulars specified in sub-paragraphs (*d*) and (*e*) of Schedule 2 or any of the particulars specified in Schedule 3 shall not have effect in any case where the Secretary of State for Defence decides that to do so would be against the interests of national security or where suitable alternative arrangements have been agreed with the Executive.
+
+(6) Regulation 6(4) shall not apply to an employer in relation to work with ionising radiation undertaken for or on behalf of the Secretary of State for Defence, visiting forces or any headquarters or organisation.
+
+(7) Regulation 22(6), (7) and (8) and regulation 24(9) shall not apply in relation to visiting forces or any member of a visiting force working in or attached to any headquarters or organisation.
+
+(8) In regulation 25(1) the requirement to notify the Executive of a suspected overexposure and the results of the consequent investigation and assessment shall not apply in relation to the exposure of—
+
+- (a) a member of a visiting force; or
+- (b) a member of a visiting force working in or attached to a headquarters or organisation.
+
+### 41. Modification, revocation and saving[^key-416efe316a1f500659df9f85e8caa126]
+
+(1) The statutory provisions referred to in Schedule 10 shall be modified in accordance with the provisions of that Schedule.
+
+(2) Subject to paragraph (3), the following Regulations are hereby revoked—
+
+- (a) the Ionising Radiations Regulations (Northern Ireland) 1985;
+- (b) the Ionising Radiations (Outside Workers) Regulations (Northern Ireland) 1993;
+- (c) Part III of Schedule 2 to the Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^f00027].
+
+(3) [^key-a0d802881ab6cd02fa198ab54e38e286]...
+
+- (a) paragraphs (1) to (3), (4)(*b*) and (*c*) and (5) of regulation 27 (Contingency plans) with the modification that—
+  - (i) in paragraph (1), the reference to regulation 25(1) of the 1985 Regulations shall be treated as a reference to regulation 7(1) or (2) of these Regulations;
+  - (ii) in paragraph (1)(*b*), the reference to regulation 8(1) of and Schedule 6 to the 1985 Regulations shall be treated as a reference to regulation 16 of these Regulations;
+  - (iii) in paragraph (4)(*b*), the reference to regulation 13(2) of the 1985 Regulations shall be treated as a reference to regulation 21(2) of these Regulations;
+- (b) any other provisions of the 1985 Regulations in so far as is necessary to give effect to the provisions specified in this paragraph.
+
+(4) Every register, certificate or record which was required to be kept in pursuance of any regulation revoked by paragraph (2) shall, notwithstanding that paragraph, be kept in the same manner and for the same period as if these Regulations had not been made, except that the Executive may approve the keeping of records at a place or in a form other than the place where, or the form in which, records were required to be kept under the regulation so revoked.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 30th November 2000.
+
+M. Bohill
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — Work not required to be notified under Regulation 6
+
+Regulations 6(1) and 13(3)
+
+**1.**[^key-26b96e36d78f3f55c816e2e8b1b80cd0] Work with ionising radiation shall not be required to be notified in accordance with regulation 6 when the only such work being carried out is in one or more of the following categories—
+
+- (a) where the concentration of activity per unit mass of a radioactive substance does not exceed the concentration specified in column 2 of Part I of Schedule 8;
+- (b) where the quantity of radioactive substance involved does not exceed the quantity specified in column 3 of Part I of Schedule 8;
+- (c) where apparatus contains radioactive substances in a quantity exceeding the values specified in sub-paragraphs (*a*) and (*b*) provided that—
+  - (i) the apparatus is of a type approved—
+    - (aa) by the Executive; or
+    - (bb) by the Great Britain Executive in accordance with paragraph 1(*c*) of Schedule 1 to the Great Britain Regulations;
+  - (ii) the apparatus is constructed in the form of a sealed source;
+  - (iii) the apparatus does not under normal operating conditions cause a dose rate of more than 1???mSvh<sup>−1</sup> at a distance of 0.1m from any accessible surface; and
+  - (iv) conditions for the disposal of the apparatus have been specified by the chief inspector;
+- (d) the operation of any electrical apparatus to which these Regulations apply other than apparatus referred to in sub-paragraph (*e*) provided that—
+  - (i) the apparatus is of a type approved—
+    - (aa) by the Executive; or
+    - (bb) by the Great Britain Executive in accordance with paragraph 1(*d*) of Schedule 1 to the Great Britain Regulations; and
+  - (ii) the apparatus does not under normal operating conditions cause a dose rate of more than 1mSvh<sup>−1</sup> at a distance of 0.1m from any accessible surface;
+- (e) the operation of—
+  - (i) any cathode ray tube intended for the display of visual images; or
+  - (ii) any other electrical apparatus operating at a potential difference not exceeding 30kV,
+
+  provided that the operation of the tube or apparatus does not under normal operating conditions cause a dose rate of more than 1mSvh–1 at a distance of 0.1m from any accessible surface;
+- (f) where the work involves material contaminated with radioactive substances resulting from authorised releases which the chief inspector has declared not to be subject to further control.
+
+**2.**[^key-87644e970c27cf05e0a8d9b5cd504e40] In this Schedule, “the chief inspector” has the meaning assigned to it by section 47(1) of the Radioactive Substances Act 1993[^f00028].
+
+## SCHEDULE 2 — Particulars to be provided in a notification under Regulation 6(2)[^key-b0b0e8a9ecf1efad7649b69409818f20]
+
+Regulation 6(2)
+
+[^key-b0b0e8a9ecf1efad7649b69409818f20]
+
+The following particulars shall be given in a notification under regulation 6(2)—
+
+- (a) the name and address of the employer and a contact telephone or fax number or electronic mail address;
+- (b) the address of the premises where or from where the work activity is to be carried out and a telephone or fax number or electronic mail address at such premises;
+- (c) the nature of the business of the employer;
+- (d) into which of the following categories the source or sources of ionising radiation fall—
+  - (i) sealed source,
+  - (ii) unsealed radioactive substance,
+  - (iii) electrical equipment,
+  - (iv) an atmosphere containing the short-lived daughters of radon 222;
+- (e) whether or not any source is to be used at premises other than the address given at sub-paragraph (*b*) above; and
+- (f) dates of notification and commencement of the work activity.
+
+## SCHEDULE 3 — Additional particulars that the Executive may require[^key-57b56e5690163a564acde74042d23031]
+
+Regulation 6(3)
+
+[^key-57b56e5690163a564acde74042d23031]
+
+The following additional particulars may be required under regulation 6(3)—
+
+- (a) a description of the work with ionising radiation;
+- (b) particulars of the source or sources of ionising radiation including the type of electrical equipment used or operated and the nature of any radioactive substance;
+- (c) the quantities of any radioactive substance involved in the work;
+- (d) the identity of any person engaged in the work;
+- (e) the date of commencement and the duration of any period over which the work is carried on;
+- (f) the location and description of any premises at which the work is carried out on each occasion that it is so carried out;
+- (g) the date of termination of the work;
+- (h) further information on any of the particulars listed in Schedule 2.
+
+## SCHEDULE 4 — Dose Limits
+
+Regulation 11
+
+### Part I — Classes of person to whom dose limits apply
+
+#### 1. Employees of 18 years or above[^key-765e0613e453cf9b734f5045c354b14b]
+
+For the purposes of regulation 11(1), the limit on effective dose for any employee of 18 years or above shall be 20 mSv in any calendar year.
+
+**2.**[^key-e9d541f2ef15e43c40520973a8fb0937] Without prejudice to paragraph 1—
+
+- (a) the limit on equivalent dose for the lens of the eye shall be 150 mSv in a calendar year;
+- (b) the limit on equivalent dose for the skin shall be 500 mSv in a calendar year as applied to the dose averaged over any area of 1cm<sup>2</sup> regardless of the area exposed;
+- (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 500 mSv in a calendar year.
+
+#### 3. Trainees aged under 18 years[^key-b0828bbb6cb9d8ff0f3b39ce26fb74c5]
+
+For the purposes of regulation 11(1), the limit on effective dose for any trainee under 18 years shall be 6 mSv in any calendar year.
+
+**4.**[^key-6d2ffc8ea6b8a9130e07f75cb26913ab] Without prejudice to paragraph 3—
+
+- (a) the limit on equivalent dose for the lens of the eye shall be 50 mSv in a calendar year;
+- (b) the limit on equivalent dose for the skin shall be 150 mSv in a calendar year as applied to the dose averaged over any area of 1cm<sup>2</sup> regardless of the area exposed;
+- (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 150 mSv in a calendar year.
+
+#### 5. Women of reproductive capacity[^key-ad1188790321c646be67eed7bfb7bf79]
+
+Without prejudice to paragraphs 1 and 3, the limit on equivalent dose for the abdomen of a woman of reproductive capacity who is at work, being the equivalent dose from external radiation resulting from exposure to ionising radiation averaged throughout the abdomen, shall be 13 mSv in any consecutive period of three months.
+
+#### 6. Other persons[^key-251f5c32bbb6a9c9540173a13b01aa8d]
+
+Subject to paragraph 7, for the purposes of regulation 11(1) the limit on effective dose for any person other than an employee or trainee referred to in paragraphs 1 or 3[^key-7d92f2add07227ecbcc454a246e515f5] , including any person below the age of 16, shall be 1 mSv in any calendar year.
+
+**7.**[^key-f0f89e59de805bf7f205a55a64683840] Paragraph 6 shall not apply in relation to any person (not being a comforter or carer) who may be exposed to ionising radiation resulting from the medical exposure of another and in such a case the limit on effective dose for any such person shall be 5 mSv in any period of 5 consecutive calendar years.
+
+**8.**[^key-a294f9a7aaf7512552f03cb3e51145e9] Without prejudice to paragraphs 6 and 7—
+
+- (a) the limit on equivalent dose for the lens of the eye shall be 15 mSv in any calendar year;
+- (b) the limit on equivalent dose for the skin shall be 50 mSv in any calendar year averaged over any 1cm<sup>2</sup> area of skin regardless of the area exposed;
+- (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 50 mSv in a calendar year.
+
+### Part II
+
+**9.**[^key-0c18422e556a871e3c8b8b11c2002371] For the purposes of regulation 11(2), the limit on effective dose for employees of 18 years or above shall be 100 mSv in any period of five consecutive calendar years subject to a maximum effective dose of 50 mSv in any single calendar year.
+
+**10.**[^key-d1c578c26514b840a28f21fbb2705731] Without prejudice to paragraph 9—
+
+- (a) the limit on equivalent dose for the lens of the eye shall be 150 mSv in a calendar year;
+- (b) the limit on equivalent dose for the skin shall be 500 mSv in a calendar year as applied to the dose averaged over any area of 1cm<sup>2</sup> regardless of the area exposed;
+- (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 500 mSv in a calendar year.
+
+**11.**[^key-106fbbc4bbeef91c0f17d6590f7654d0] Without prejudice to paragraph 9, the limit on equivalent dose for the abdomen of a woman of reproductive capacity who is at work, being the equivalent dose from external radiation resulting from exposure to ionising radiation averaged throughout the abdomen, shall be 13 mSv in any consecutive period of three months.
+
+**12.**[^key-8a0bb0d618566061dcf965fa202e74fb] The employer shall ensure that any employee in respect of whom regulation 11(2) applies is not exposed to ionising radiation to an extent that any dose limit specified in paragraphs 9 to 11 is exceeded.
+
+**13.**[^key-a44bfeaf4b989879f9ef8f5c31ccc223] An employer shall not put into effect a system of dose limitation in pursuance of regulation 11(2) unless—
+
+- (a) the radiation protection adviser and any employees who are affected have been consulted;
+- (b) any employees affected and the approved dosimetry service have been informed in writing of the decision and of the reasons for that decision;
+- (c) notice has been given to the Executive at least 28 days (or such shorter period as the Executive may allow) before the decision is put into effect giving the reasons for the decision.
+
+**14.**[^key-56f41b36c9be2a267b896649b459e9ef] Where there is reasonable cause to believe that any employee has been exposed to an effective dose greater than 20 mSv in any calendar year, the employer shall, as soon as is practicable—
+
+- (a) undertake an investigation into the circumstances of the exposure for the purpose of determining whether the dose limit referred to in paragraph 9 is likely to be complied with; and
+- (b) notify the Executive of that suspected exposure.
+
+**15.**[^key-0183630c1dde2b84fd2e89f342e2de47] An employer shall review the decision to put into effect a system of dose limitation pursuant to regulation 11(2) at appropriate intervals and in any event not less than once every five years.
+
+**16.**[^key-a91c6bb473000bd1323ef30d663042fc] Where as a result of a review undertaken pursuant to paragraph 15 an employer proposes to revert to a system of annual dose limitation pursuant to regulation 11(1), the provisions of paragraph 13 shall apply as if the reference in that paragraph to regulation 11(2) was a reference to regulation 11(1).
+
+**17.**[^key-aae13c2ff84d78d67226b1fb29f9da21] Where an employer puts into effect a system of dose limitation in pursuance of regulation 11(2), he shall record the reasons for that decision and shall ensure that the record is preserved for a period of 50 years from the date of its making.
+
+**18.**[^key-120dd8258f4d998b486e5e7eeeef473f] In any case where—
+
+- (a) the dose limits specified in paragraph 9 are being applied by a radiation employer in respect of an employee; and
+- (b) the Executive is not satisfied that it is impracticable for that employee to be subject to the dose limit specified in paragraph 1 of Part I,
+
+the Executive may require the employer to apply the dose limit specified in paragraph 1 of Part I with effect from such time as the Executive may consider appropriate having regard to the interests of the employee concerned.
+
+**19.**[^key-cd4d422cb22e1ff79bc1340d1e2bc1d6] In any case where, as a result of a review undertaken pursuant to paragraph 15 an employer proposes to revert to an annual dose limitation in accordance with regulation 11(1)[^key-86bbc511ed7c26337e800de1d8129de4] , the Executive may require the employer to defer the implementation of that decision to such time as the Executive may consider appropriate having regard to the interests of the employee concerned.
+
+**20.**[^key-4ebe2bd33b93f0a126525b0e3e052992] Any person who is aggrieved by the decision of the Executive taken pursuant to paragraphs 18 or 19 may appeal to the Department of Enterprise, Trade and Investment.
+
+**21.**[^key-c63777a122c915eabeb7b9dc5533084e] Chapter I of the Schedule to the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997[^f00029] shall apply to any appeal made under paragraph 20.
+
+## SCHEDULE 5 — Matters in respect of which a radiation protection adviser must be consulted by a radiation employer
+
+Regulation 13(1)
+
+**1.**[^key-e99044630a07eeccf6d9fd8136beb453] The implementation of requirements as to controlled and supervised areas.
+
+**2.**[^key-1c70409f137565fa990aff52d29d61ea] The prior examination of plans for installations and the acceptance into service of new or modified sources of ionising radiation in relation to any engineering controls, design features, safety features and warning devices provided to restrict exposure to ionising radiation.
+
+**3.**[^key-aca6713df9b003df947461200db9e07c] The regular calibration of equipment provided for monitoring levels of ionising radiation and the regular checking that such equipment is serviceable and correctly used.
+
+**4.**[^key-383a769b37cff025ca79f57343bd00ea] The periodic examination and testing of engineering controls, design features, safety features and warning devices and regular checking of systems of work provided to restrict exposure to ionising radiation.
+
+## SCHEDULE 6 — Particulars to be entered in the radiation passbook
+
+Regulation 21(5)
+
+**1.**[^key-884c5e46a2342ccf2b2ec0456df1837d] Individual serial number of the passbook.
+
+**2.**[^key-3129cba78d8e487f93b634dda6dc35a0] A statement that the passbook has been approved—
+
+- (a) by the Executive for the purpose of these Regulations; or
+- (b) by the Great Britain Executive for the purpose of the Great Britain Regulations.
+
+**3.**[^key-10c115159da6f2d6c28ab3269306ecad] Date of issue of the passbook by the approved dosimetry service.
+
+**4.**[^key-b98f871155f46b73d3facd6bd345e6d9] The name, telephone number and mark of endorsement of the issuing approved dosimetry service.
+
+**5.**[^key-1c1647cc4ae5b29d6cd326e50488f2cd] The name, address, telephone and telex/fax number of the employer.
+
+**6.**[^key-6d804fcf00acca37ff992b421d393beb] Full name (surname, forenames), date of birth, gender and national insurance number of the outside worker to whom the passbook has been issued.
+
+**7.**[^key-f2182f2b215a233db50e7facbbc6bccd] Date of the last medical review of the outside worker and the relevant classification in the health record maintained under regulation 24 as fit, fit subject to conditions (which shall be specified) or unfit.
+
+**8.**[^key-ce8f76f4e5f40cc69a2f4c74bb9aebc0] The relevant dose limits applicable to the outside worker to whom the passbook has been issued.
+
+**9.**[^key-4eacfe66fd49c0ec628660929bf3dae5] The cumulative dose assessment in mSv for the year to date for the outside worker, external (whole body, organ or tissue) and/or internal as appropriate and the date of the end of the last assessment period.
+
+**10.**[^key-6c7d2de599f4da9d638e9ff3feaaf83b] In respect of services performed by the outside worker—
+
+- (a) the name and address of the employer responsible for the controlled area;
+- (b) the period covered by the performance of the services;
+- (c) estimated dose information, which shall be, as appropriate—
+  - (i) an estimate of any whole body effective dose in mSv received by the outside worker;
+  - (ii) in the event of non-uniform exposure, an estimate of the equivalent dose in mSv to organs and tissues as appropriate; and
+  - (iii) in the event of internal contamination, an estimate of the activity taken in or the committed dose.
+
+## SCHEDULE 7 — Particulars to be contained in a health record[^key-af4e2f804549b9014be2b3026ee4e26b]
+
+Regulation 24(3)
+
+[^key-af4e2f804549b9014be2b3026ee4e26b]
+
+The following particulars shall be contained in a health record made for the purposes of regulation 24(3)—
+
+- (a) the employee's—
+  - (i) full name;
+  - (ii) sex;
+  - (iii) date of birth;
+  - (iv) permanent address; and
+  - (v) National Insurance number;
+- (b) the date of the employee’s commencement as a classified person in present employment;
+- (c) the nature of the employee’s employment;
+- (d) in the case of a female employee, a statement as to whether she is likely to receive in any consecutive period of three months an equivalent dose of ionising radiation for the abdomen exceeding 13 mSv;
+- (e) the date of last medical examination or health review carried out in respect of the employee;
+- (f) the type of the last medical examination or health review carried out in respect of the employee;
+- (g) a statement by the appointed doctor or employment medical adviser made as a result of the last medical examination or health review carried out in respect of the employee classifying the employee as fit, fit subject to conditions (which should be specified) or unfit;
+- (h) in the case of a female employee in respect of whom a statement has been made under paragraph (d) to the effect that she is likely to receive in any consecutive period of three months an equivalent dose of ionising radiation for the abdomen exceeding 13 mSv, a statement by the appointed doctor or employment medical adviser certifying whether in his professional opinion the employee should be subject to the additional dose limit specified in paragraphs 5 and 11 of Schedule 4;
+- (i) in relation to each medical examination and health review, the name and signature of the appointed doctor or employment medical adviser;
+- (j) the name and address of the approved dosimetry service with whom arrangements have been made for maintaining the dose record in accordance with regulation 21.
+
+## SCHEDULE 8 — Quantities and Concentrations of Radionuclides
+
+Regulations 2(4) and 30(1) and (3) and Schedule 1, paragraph 1
+
+### Part I — Table of Radionuclides[^key-2af0e5e7b550742bf0827196e7e40334]
+
+<table>
+<thead>
+<tr><th><em>1</em></th><th><em>2</em></th><th><em>3</em></th><th><em>4</em></th><th><em>5</em></th></tr>
+<tr><th>Radionuclide name, symbol, isotope</th><th>Concentration for notification. Regulation 6 and Schedule 1 (Bq/g)</th><th>Quantity for notification. Regulation 6 and Schedule 1 (Bq)</th><th>Quantity for notification of occurrences. Regulation 30(1) (Bq)</th><th>Quantity for notification of occurrences. Regulation 30(3) (Bq)</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><strong>Note 1</strong><br>In the case of radionuclides not specified elsewhere in this Part, the quantities specified in this entry are to be used unless the Executive has approved some other quantity for that radionuclide.</td></tr>
+<tr><td colspan="5"><strong>Note 2</strong><br>Nuclides carrying the suffix “+” or “sec” in the above Table represent parent nuclides in equilibrium with their correspondent daughter nuclides as listed in the following Table. In this case the concentrations and quantities given in the above Table refer to the parent nuclide alone, but already take account of the daughter nuclide(s) present.<br>List of nuclides in secular equilibrium as referred to in note 2 of this Schedule.<br><table><thead><tr><th><em>Parent nuclide</em></th><th><em>Daughter nuclides</em></th></tr></thead><tbody><tr><td>Mg-28+</td><td>Al-28</td></tr><tr><td>Ti-44+</td><td>Sc-44</td></tr><tr><td>Fe-60+</td><td>Co-60m</td></tr><tr><td>Ge-68+</td><td>Ga-68</td></tr><tr><td>Sr-82+</td><td>Rb-82</td></tr><tr><td>Rb-83+</td><td>Kr-83m</td></tr><tr><td>Y-87+</td><td>Sr-87m</td></tr><tr><td>Sr-90+</td><td>Y-90</td></tr><tr><td>Zr-93+</td><td>Nb-93m</td></tr><tr><td>Zr-97+</td><td>Nb-97</td></tr><tr><td>Tc-95m+</td><td>Tc-95</td></tr><tr><td>Ru-106+</td><td>Rh-106</td></tr><tr><td>Ag-108m+</td><td>Ag-108</td></tr><tr><td>Sn-121m+</td><td>Sn-121</td></tr><tr><td>Sn-126+</td><td>Sb-126m</td></tr><tr><td>Xe-122+</td><td>I-122</td></tr><tr><td>Cs-137+</td><td>Ba-137m</td></tr><tr><td>Ba-140+</td><td>La-140</td></tr><tr><td>Ce-144+</td><td>Pr-144</td></tr><tr><td>Pm-148m+</td><td>Pm-148</td></tr><tr><td>Gd-146+</td><td>Eu-146</td></tr><tr><td>Hf-172+</td><td>Lu-172</td></tr><tr><td>W-178+</td><td>Ta-178</td></tr><tr><td>W-188+</td><td>Re-188</td></tr><tr><td>Re-189+</td><td>Os-189m</td></tr><tr><td>Os-194+</td><td>Ir-194</td></tr><tr><td>Ir-189+</td><td>Os-189m</td></tr><tr><td>Pt-188+</td><td>Ir-188</td></tr><tr><td>Hg-194+</td><td>Au-194</td></tr><tr><td>Hg-195m+</td><td>Hg-195</td></tr><tr><td>Pb-210+</td><td>Bi-210, Po-210</td></tr><tr><td>Bi-210m+</td><td>Tl-206</td></tr><tr><td>Pb-212+</td><td>Bi-212, Tl-208, Po-212</td></tr><tr><td>Bi-212+</td><td>Tl-208, Po-212</td></tr><tr><td>Rn-220+</td><td>Po-216</td></tr><tr><td>Rn-222+</td><td>Po-218, Pb-214, Bi-214, Po-214</td></tr><tr><td>Ra-223+</td><td>Rn-219, Po-215, Pb-211, Bi-211, Tl-207</td></tr><tr><td>Ra-224+</td><td>Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212</td></tr><tr><td>Ra-226+</td><td>Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210</td></tr><tr><td>Ra-228+</td><td>Ac-228</td></tr><tr><td>Ac-225+</td><td>Fr-221, At-217, Bi-213, Po-213, Tl-209, Pb-209</td></tr><tr><td>Ac-227+</td><td>Fr-223</td></tr><tr><td>Th-226+</td><td>Ra-222, Rn-218, Po-214</td></tr><tr><td>Th-228+</td><td>Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212</td></tr><tr><td>Th-229+</td><td>Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209</td></tr><tr><td>Th-232sec</td><td>Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212</td></tr><tr><td>Th-234+</td><td>Pa-234m</td></tr><tr><td>U-230+</td><td>Th-226, Ra-222, Rn-218, Po-214</td></tr><tr><td>U-232+</td><td>Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212</td></tr><tr><td>U-235+</td><td>Th-231</td></tr><tr><td>U-238+</td><td>Th-234, Pa-234m</td></tr><tr><td>U-238sec</td><td>Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210</td></tr><tr><td>U-240+</td><td>Np-240</td></tr><tr><td>Np-237+</td><td>Pa-233</td></tr><tr><td>Am-242m+</td><td>Am-242</td></tr><tr><td>Am-243+</td><td>Np-239</td></tr></tbody></table></td></tr>
+</tfoot>
+<tbody>
+<tr><td><strong>Hydrogen</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tritiated Compounds</td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td>Elemental</td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td><strong>Beryllium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Be-7</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Be-10</td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Carbon</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>C-11</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>C-11 monoxide</td><td>1 10<sup>1</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td>C-11 dioxide</td><td>1 10<sup>1</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td>C-14</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>C-14 monoxide</td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>12</sup></td></tr>
+<tr><td>C-14 dioxide</td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>12</sup></td></tr>
+<tr><td><strong>Nitrogen</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>N-13</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td><strong>Oxygen</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>O-15</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td><strong>Fluorine</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>F-18</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Neon</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ne-19</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td><strong>Sodium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Na-22</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Na-24</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Magnesium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Mg-28+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Aluminium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Al-26</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Silicon</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Si-31</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Si-32</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Phosphorus</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>P-32</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>P-33</td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td><strong>Sulphur</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>S-35</td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>S-35 (organic)</td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>S-35 Vapour</td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>12</sup></td><td></td></tr>
+<tr><td><strong>Chlorine</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cl-36</td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cl-38</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cl-39</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Argon</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ar-37</td><td>1 10<sup>6</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>13</sup></td><td></td></tr>
+<tr><td>Ar-39</td><td>1 10<sup>7</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>12</sup></td><td></td></tr>
+<tr><td>Ar-41</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td><strong>Potassium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>K-40</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>K-42</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>K-43</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>K-44</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>K-45</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Calcium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ca-41</td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ca-45</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ca-47</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Scandium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sc-43</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sc-44</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sc-44m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sc-46</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sc-47</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sc-48</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sc-49</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Titanium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ti-44 +</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ti-45</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Vanadium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>V-47</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>V-48</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>V-49</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td><strong>Chromium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cr-48</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cr-49</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cr-51</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td><strong>Manganese</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Mn-51</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Mn-52</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Mn-52m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Mn-53</td><td>1 10<sup>4</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td>Mn-54</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Mn-56</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Iron</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Fe-52</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Fe-55</td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Fe-59</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Fe-60+</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Cobalt</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Co-55</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Co-56</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Co-57</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Co-58</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Co-58m</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Co-60</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Co-60m</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>16</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Co-61</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Co-62m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Nickel</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ni-56</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ni-57</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ni-59</td><td>1 10<sup>4</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Ni-63</td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Ni-65</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ni-66</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td><strong>Copper</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cu-60</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cu-61</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cu-64</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cu-67</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Zinc</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Zn-62</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zn-63</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Zn-65</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zn-69</td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zn-69m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zn-71m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zn-72</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Gallium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ga-65</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ga-66</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ga-67</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ga-68</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ga-70</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ga-72</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ga-73</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Germanium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ge-66</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ge-67</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ge-68+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ge-69</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ge-71</td><td>1 10<sup>4</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Ge-75</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ge-77</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ge-78</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Arsenic</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>As-69</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>As-70</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>As-71</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>As-72</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>As-73</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>As-74</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>As-76</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>As-77</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>As-78</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Selenium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Se-70</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Se-73</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Se-73m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Se-75</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Se-79</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Se-81</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Se-81m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Se-83</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Bromine</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Br-74</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Br-74m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Br-75</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Br-76</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Br-77</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Br-80</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Br-80m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Br-82</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Br-83</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Br-84</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Krypton</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Kr-74</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td>Kr-76</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Kr-77</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td>Kr-79</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Kr-81</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td></td></tr>
+<tr><td>Kr-81m</td><td>1 10<sup>3</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Kr-83m</td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>12</sup></td><td></td></tr>
+<tr><td>Kr-85</td><td>1 10<sup>5</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>12</sup></td><td></td></tr>
+<tr><td>Kr-85m</td><td>1 10<sup>3</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Kr-87</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td>Kr-88</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td><strong>Rubidium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Rb-79</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Rb-81</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rb-81m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Rb-82m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rb-83+</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rb-84</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rb-86</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Rb-87</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Rb-88</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Rb-89</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Strontium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sr-80</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sr-81</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sr-82+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sr-83</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sr-85</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sr-85m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sr-87m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sr-89</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sr-90+</td><td>1 10<sup>2</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Sr-91</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sr-92</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Yttrium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Y-86</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Y-86m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Y-87+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Y-88</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Y-90</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Y-90m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Y-91</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Y-91m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Y-92</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Y-93</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Y-94</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Y-95</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Zirconium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Zr-86</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Zr-88</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zr-89</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zr-93+</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Zr-95</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Zr-97+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Niobium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Nb-88</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Nb-89</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>(2.03 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Nb-89</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>(1.01 hour)</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Nb-90</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Nb-93m</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Nb-94</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nb-95</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nb-95m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Nb-96</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Nb-97</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nb-98</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Molybdenum</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Mo-90</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Mo-93</td><td>1 10<sup>3</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Mo-93m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Mo-99</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Mo-101</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Technetium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tc-93</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-93m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-94</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-94m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Tc-95</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-95m+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-96</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-96m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tc-97</td><td>1 10<sup>3</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Tc-97m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tc-98</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-99</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tc-99m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tc-101</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tc-104</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Ruthenium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ru-94</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ru-97</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ru-103</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ru-105</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ru-106+</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Rhodium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Rh-99</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rh-99m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rh-100</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rh-101</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Rh-101m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Rh-102</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rh-102m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Rh-103m</td><td>1 10<sup>4</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Rh-105</td><td>110<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Rh-106m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Rh-107</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Palladium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pd-100</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pd-101</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pd-103</td><td>1 10<sup>3</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Pd-107</td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Pd-109</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Silver</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ag-102</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ag-103</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-104</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-104m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-105</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-106</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-106m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-108m+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-110m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-111</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ag-112</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ag-115</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Cadmium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cd-104</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Cd-107</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Cd-109</td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cd-113</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cd-113m</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cd-115</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cd-115m</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cd-117</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cd-117m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Indium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>In-109</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-110 (4.9 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-110 (69.1 min)</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>In-111</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-112</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-113m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-114</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>In-114m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-115</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>In-115m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-116m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>In-117</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-117m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>In-119m</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Tin</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sn-110</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sn-111</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sn-113</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sn-117m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sn-119m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sn-121</td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sn-121m+</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sn-123</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sn-123m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sn-125</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sn-126+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sn-127</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sn-128</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Antimony</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sb-115</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-116</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-116m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sb-117</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sb-118m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-119</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sb-120 (5.76 days)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-120 (15.89 min)</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-122</td><td>1 10<sup>2</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Sb-124</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-124m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-125</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-126</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sb-126m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sb-127</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-128 (9.01 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sb-128 (10.4 min)</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sb-129</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sb-130</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sb-131</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Tellurium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Te-116</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Te-121</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-121m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-123</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-123m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Te-125m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Te-127</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-127m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Te-129</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-129m</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-131</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Te-131m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Te-132</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Te-133</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Te-133m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Te-134</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Iodine</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>I-120</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>I-120m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>I-121</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-123</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>I-124</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-125</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-126</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-128</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>I-129</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>I-130</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-131</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-132</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>I-132m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-133</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>I-134</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>I-135</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Xenon</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Xe-120</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Xe-121</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td>Xe-122+</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>11</sup></td><td></td></tr>
+<tr><td>Xe-123</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td>Xe-125</td><td>1 10<sup>3</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Xe-127</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Xe-129m</td><td>1 10<sup>3</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>11</sup></td><td></td></tr>
+<tr><td>Xe-131m</td><td>1 10<sup>4</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>11</sup></td><td></td></tr>
+<tr><td>Xe-133</td><td>1 10<sup>3</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>11</sup></td><td></td></tr>
+<tr><td>Xe-133m</td><td>1 10<sup>3</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>11</sup></td><td></td></tr>
+<tr><td>Xe-135</td><td>1 10<sup>3</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Xe-135m</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>10</sup></td><td></td></tr>
+<tr><td>Xe-138</td><td>1 10<sup>2</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td><td></td></tr>
+<tr><td><strong>Caesium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cs-125</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cs-127</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cs-129</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cs-130</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cs-131</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cs-132</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cs-134</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cs-134m</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cs-135</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Cs-135m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cs-136</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cs-137+</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cs-138</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td><strong>Barium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ba-126</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ba-128</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ba-131</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ba-131m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ba-133</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ba-133m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ba-135m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ba-137m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ba-139</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ba-140+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ba-141</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ba-142</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Lanthanum</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>La-131</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>La-132</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>La-135</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>La-137</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>La-138</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>La-140</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>La-141</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>La-142</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>La-143</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Cerium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ce-134</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ce-135</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ce-137</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ce-137m</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ce-139</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ce-141</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ce-143</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ce-144+</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Praseodymium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pr-136</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pr-137</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pr-138m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pr-139</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pr-142</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pr-142m</td><td>1 10<sup>7</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td>Pr-143</td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pr-144</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pr-145</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pr-147</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Neodymium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Nd-136</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nd-138</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Nd-139</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nd-139m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nd-141</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Nd-147</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nd-149</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Nd-151</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Promethium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pm-141</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pm-143</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pm-144</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pm-145</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pm-146</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pm-147</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pm-148</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pm-148m+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pm-149</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pm-150</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pm-151</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Samarium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sm-141</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sm-141m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sm-142</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sm-145</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Sm-146</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Sm-147</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Sm-151</td><td>1 10<sup>4</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Sm-153</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sm-155</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Sm-156</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Europium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Eu-145</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-146</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-147</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-148</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-149</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Eu-150 (34.2 years)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-150 (12.6 hours)</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-152</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-152m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-154</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-155</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Eu-156</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-157</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Eu-158</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Gadolinium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gd-145</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Gd-146+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Gd-147</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Gd-148</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Gd-149</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Gd-151</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Gd-152</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Gd-153</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Gd-159</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Terbium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tb-147</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-149</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-150</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-151</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-153</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tb-154</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-155</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tb-156</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-156m (24.4 hours)</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tb-156m (5 hours)</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tb-157</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Tb-158</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-160</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tb-161</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Dysprosium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Dy-155</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Dy-157</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Dy-159</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Dy-165</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Dy-166</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Holmium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ho-155</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ho-157</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ho-159</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ho-161</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ho-162</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ho-162m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ho-164</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ho-164m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ho-166</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ho-166m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ho-167</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Erbium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Er-161</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Er-165</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Er-169</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Er-171</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Er-172</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Thulium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tm-162</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tm-166</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tm-167</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tm-170</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tm-171</td><td>1 10<sup>4</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td>Tm-172</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tm-173</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tm-175</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Ytterbium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Yb-162</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Yb-166</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Yb-167</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Yb-169</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Yb-175</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Yb-177</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Yb-178</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Lutetium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Lu-169</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-170</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-171</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-172</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-173</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Lu-174</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Lu-174m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Lu-176</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-176m</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-177</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Lu-177m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Lu-178</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Lu-178m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Lu-179</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Hafnium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hf-170</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-172+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-173</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-175</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-177m</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Hf-178m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-179m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-180m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-181</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-182</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-182m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-183</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hf-184</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Tantalum</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ta-172</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-173</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-174</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-175</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-176</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-177</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ta-178</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-179</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ta-180</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-180m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ta-182</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Ta-182m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-183</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-184</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ta-185</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ta-186</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Tungsten</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>W-176</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>W-177</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>W-178+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>W-179</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>W-181</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>W-185</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>W-187</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>W-188+</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Rhenium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Re-177</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-178</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-181</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-182 (64 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-182 (12.7 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-184</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-184m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-186</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Re-186m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Re-187</td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>10</sup></td></tr>
+<tr><td>Re-188</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Re-188m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Re-189+</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Osmium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Os-180</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Os-181</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Os-182</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Os-185</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Os-189m</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Os-191</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Os-191m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Os-193</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Os-194+</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Iridium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ir-182</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ir-184</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-185</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-186 (15.8 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-186 (1.75 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-187</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-188</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-189+</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ir-190</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-190m (3.1 hours)</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-190m (1.2 hours)</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>15</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ir-192</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Ir-192m</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ir-193m</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Ir-194</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ir-194m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-195</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ir-195m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Platinum</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pt-186</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-188+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-189</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-191</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-193</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pt-193m</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pt-195m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-197</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-197m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-199</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pt-200</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Gold</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Au-193</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Au-194</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Au-195</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Au-198</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Au-198m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Au-199</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Au-200</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Au-200m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Au-201</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Mercury</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hg-193</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-193m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-194+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-195</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-195m+ (organic)</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-195m+ (inorganic)</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-197</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Hg-197m (organic)</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-197m (inorganic)</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-199m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Hg-203</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Thallium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tl-194</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-194m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-195</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-197</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-198</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-198m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-199</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-200</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-201</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-202</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Tl-204</td><td>1 10<sup>4</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td><strong>Lead</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pb-195m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-198</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-199</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-200</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-201</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-202</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-202m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-203</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-205</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pb-209</td><td>1 10<sup>5</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-210+</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Pb-211</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pb-212+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pb-214</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Bismuth</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bi-200</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-201</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-202</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-203</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-205</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-206</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Bi-207</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-210</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-210m+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Bi-212+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Bi-213</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bi-214</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Polonium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Po-203</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Po-205</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Po-206</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Po-207</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Po-208</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Po-209</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Po-210</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td><strong>Astatine</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>At-207</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>At-211</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td><strong>Francium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Fr-222</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Fr-223</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Radon</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Rn-220+</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Rn-222+</td><td>1 10<sup>1</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>9</sup></td></tr>
+<tr><td><strong>Radium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ra-223+</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ra-224+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ra-225</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ra-226+</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Ra-227</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ra-228+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Actinium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ac-224</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Ac-225+</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Ac-226</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Ac-227+</td><td>1 10<sup>−1</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Ac-228</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Thorium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Th-226+</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Th-227</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Th-228+</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Th-229+</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Th-230</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Th-231</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Th-232</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Th-232sec</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Th-234+</td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Protactinium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pa-227</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pa-228</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pa-230</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pa-231</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Pa-232</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pa-233</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pa-234</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Uranium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>U-230+</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>U-231</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>U-232+</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>U-233</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>U-234</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>U-235+</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>U-236</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>U-237</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>U-238+</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>U-238 sec</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>U-239</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>U-240</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>U-240+</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Neptunium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Np-232</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Np-233</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Np-234</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Np-235</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Np-236 (1.15 10<sup>5</sup> years)</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Np-236 (22.5 hours)</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Np-237+</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Np-238</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Np-239</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Np-240</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Plutonium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pu-234</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pu-235</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pu-236</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Pu-237</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pu-238</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Pu-239</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Pu-240</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Pu-241</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Pu-242</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Pu-243</td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Pu-244</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Pu-245</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Pu-246</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Americium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Am-237</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-238</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-239</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-240</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-241</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Am-242</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-242m+</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Am-243+</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Am-244</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-244m</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Am-245</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Am-246</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Am-246m</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Curium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cm-238</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Cm-240</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cm-241</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cm-242</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cm-243</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cm-244</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cm-245</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Cm-246</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Cm-247</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cm-248</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Cm-249</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>14</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cm-250</td><td>1 10<sup>−1</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td><strong>Berkelium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bk-245</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bk-246</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bk-247</td><td>1 10<sup>0</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Bk-249</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Bk-250</td><td>1 10<sup>1</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Californium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cf-244</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>12</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Cf-246</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Cf-248</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cf-249</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Cf-250</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cf-251</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td>Cf-252</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Cf-253</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Cf-254</td><td>1 10<sup>0</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>4</sup></td></tr>
+<tr><td><strong>Einsteinium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Es-250</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>13</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Es-251</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Es-253</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>8</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Es-254</td><td>1 10<sup>1</sup></td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>5</sup></td></tr>
+<tr><td>Es-254m</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td><strong>Fermium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Fm-252</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Fm-253</td><td>1 10<sup>2</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Fm-254</td><td>1 10<sup>4</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>10</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Fm-255</td><td>1 10<sup>3</sup></td><td>1 10<sup>6</sup></td><td>1 10<sup>9</sup></td><td>1 10<sup>7</sup></td></tr>
+<tr><td>Fm-257</td><td>1 10<sup>1</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td><strong>Mendelevium</strong></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Md-257</td><td>1 10<sup>2</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>11</sup></td><td>1 10<sup>8</sup></td></tr>
+<tr><td>Md-258</td><td>1 10<sup>2</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>7</sup></td><td>1 10<sup>6</sup></td></tr>
+<tr><td>Other radionuclides not listed above (see note 1)</td><td>1 10<sup>−1</sup></td><td>1 10<sup>3</sup></td><td>1 10<sup>5</sup></td><td>1 10<sup>4</sup></td></tr>
+</tbody>
+</table>
+
+### Part II — Quantity Ratios for more than one Radionuclide
+
+**1.**[^key-ebb8838f3912c4df1bd0a96455ee6545] For the purpose of Regulation 2(4), the quantity ratio for more than one radionuclide is the sum of the quotients of the quantity of a radionuclide present Q<sub>p</sub> divided by the quantity of that radionuclide specified in the appropriate column of Part I of this Schedule Q<sub>lim</sub>, namely—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2000/375)
+
+**2.**[^key-997b397239250ee90e5fb6d46987e367] In any case where the isotopic composition of a radioactive substance is not known or is only partially known, the quantity ratio for that substance shall be calculated by using the values specified in the appropriate column in Part I for ‘other radionuclides not listed above’ for any radionuclide that has not been identified or where the quantity of a radionuclide is uncertain, unless the employer can show that the use of some other value is appropriate in the circumstances of a particular case, when he may use that value.
+
+## SCHEDULE 9 — Premises and activities within territorial waters
+
+Regulation 38
+
+### 1. Interpretation[^key-44bc646329bfd0ebdb201854e15e3ff9]
+
+(1) In this Schedule—
+
+- “designated area” means any area designated by order under section 1(7) of the Continental Shelf Act 1964[^f00030] and “within a designated area” includes over and under it;
+- “offshore installation” shall be construed in accordance with paragraph 2(2) and (3);
+- “stand-by vessel” means a vessel which is ready to give assistance in the event of an emergency on or near an offshore installation;
+- “vessel” includes a hovercraft and any floating structure which is capable of being staffed.
+
+(2) For the purposes of this Schedule, any structures and devices on top of a well shall be treated as forming part of the well.
+
+(3) For the purposes of this Schedule, a person shall be deemed to be engaged in diving operations throughout any period from the time when he commences to prepare for diving until the time when—
+
+- (a) he is no longer subjected to raised pressure;
+- (b) he has normal inert gas partial pressure in his tissues; and
+- (c) if he entered the water, he has left it,
+
+and diving operations include the activity of any person in connection with the health and safety of a person who is, or is deemed to be, engaged in diving operations.
+
+(4) Any reference in this Schedule to premises and activities (howsoever described) includes a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity but does not include a reference to an aircraft which is airborne.
+
+### 2. Offshore installations[^key-a843e322930cac50318dfb4992868277]
+
+(1) This paragraph applies to—
+
+- (a) any offshore installation and any activity on it;
+- (b) any activity, including diving operations, in connection with an offshore installation, or any activity which is immediately preparatory thereto, whether carried on from the installation itself, on or from a vessel or in any other manner, other than—
+  - (i) transporting, towing or navigating the installation; or
+  - (ii) any activity on or from a vessel being used as a stand-by vessel; or
+- (c) diving operations involving the survey and preparation of the sea bed for an offshore installation.
+
+(2) Subject to sub-paragraph (3), in this Schedule “offshore installation” means a structure which is, or is to be, or has been, used while standing or stationed in water, or on the foreshore or other land intermittently covered with water—
+
+- (a) for the exploitation, or exploration with a view to exploitation, of mineral resources by means of a well;
+- (b) for the storage of gas in or under the shore or bed of any water or the recovery of gas so stored;
+- (c) for the conveyance of things by means of a pipe; or
+- (d) mainly for the provision of accommodation for persons who work on or from a structure falling within any of the provisions of this sub-paragraph, and which is not an excepted structure.
+
+(3) For the purposes of sub-paragraph (2), the excepted structures are—
+
+- (a) a structure which is connected with dry land by a permanent structure providing access at all times and for all purposes;
+- (b) a well;
+- (c) a structure which has ceased to be used for any of the purposes specified in sub-paragraph (2) and has since been used for a purpose not so specified;
+- (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (2); and
+- (e) any part of a pipeline.
+
+### 3. Wells[^key-33f2e860f4e16f11e87a6ae108b31d8f]
+
+(1) This paragraph applies to—
+
+- (a) a well and any activity in connection with it; or
+- (b) an activity which is immediately preparatory to any activity in head (*a*).
+
+(2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
+
+### 4. Pipelines[^key-0dfba6f0f7555ae6c8b2883fad7ffc7e]
+
+(1) This paragraph applies to—
+
+- (a) a pipeline;
+- (b) any pipeline works; or
+- (c) any of the following activities in connection with pipeline works—
+  - (i) the loading, unloading, fuelling or provisioning of a vessel;
+  - (ii) the loading, unloading, fuelling, repair and maintenance of an aircraft on a vessel,
+
+  being in either case a vessel which is engaged in pipeline works.
+
+(2) In this paragraph—
+
+- “pipeline” means a pipe or system of pipes for the conveyance of any thing, together with—
+  - (a) any apparatus for inducing or facilitating the flow of any thing through, or through a part of, the pipe or system;
+  - (b) any apparatus for treating or cooling any thing which is to flow through, or through part of, the pipe or system;
+  - (c) valves, valve chambers and similar works which are annexed to, or incorporated in the course of, the pipe or system;
+  - (d) apparatus for supplying energy for the operation of any such apparatus or works as are mentioned in heads (*a*) to (*c*);
+  - (e) apparatus for the transmission of information for the operation of the pipe or system;
+  - (f) apparatus for the cathodic protection of the pipe or system; and
+  - (g) a structure used or to be used solely for the support of a part of the pipe or system;
+
+  but not including a pipeline of which no initial or terminal point is situated in the United Kingdom or within territorial waters, United Kingdom territorial waters adjacent to Great Britain or a designated area;
+- “pipeline works” means—
+  - (a) assembling or placing a pipeline or length of pipeline including the provision of internal or external protection for it;
+  - (b) inspecting, testing, maintaining, adjusting, repairing, altering or renewing a pipeline or length of pipeline;
+  - (c) changing the position of or dismantling or removing a pipeline or length of pipeline;
+  - (d) opening the bed of the sea for the purposes of the works mentioned in heads (*a*) to (*c*), and tunnelling or boring for those purposes;
+  - (e) any activities incidental to the activities described in heads (a) to (d);
+  - (f) diving operations in connection with any of the works mentioned in heads (*a*) to (*e*) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
+
+### 5. Mines[^key-5a641cdd0ebab0fd4f11b8303ba633c3]
+
+(1) This paragraph applies to the working of a mine and to work for the purpose of, or in connection with, the working of any part of a mine.
+
+(2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00031].
+
+### 6. Other activities[^key-e497c793e8b23e4f02064b2876389a95]
+
+(1) Subject to sub-paragraph (2), this paragraph applies to—
+
+- (a) the construction, reconstruction, alteration, repair, maintenance, cleaning, demolition and dismantling of any building or other structure not being a vessel, or any preparation for any such activity;
+- (b) the loading, unloading, fuelling or provisioning of a vessel;
+- (c) diving operations;
+- (d) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of a vessel except when carried out by the master or any officer or member of the crew of that vessel; or
+- (e) the maintaining on a station of a vessel which would be an offshore installation were it not a structure to which paragraph 2(3)(*d*) relates.
+
+(2) This paragraph does not apply to vessels which are registered outside the United Kingdom and are on passage through territorial waters.
+
+## SCHEDULE 10 — Modifications
+
+Regulation 41(1)
+
+### 1. The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^key-2f3e0af747729e3d1594c9c0e6752390]
+
+In Schedule 1 to the Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^f00032], for the words “Parts IV and V of Schedule 1 to the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “Paragraphs 5 and 11 of Schedule 4 to the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+### 2. The Employment Rights (Northern Ireland) Order 1996[^key-63ec24f4acc05654f6c8d1e844ea1977]
+
+In Article 96(3) of the Employment Rights (Northern Ireland) Order 1996[^f00033], for the words “regulation 16 of the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “regulation 24 of the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+### 3. Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^key-b9920750b9678331a7a9a09a2048bfaf]
+
+In regulation 3(3) of the Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^f00034], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+### 4. Notification of New Substances Regulations (Northern Ireland) 1994[^key-092ec67b7ff7e7891d56824ece139b13]
+
+In paragraph (2)(*e*) of regulation 3 of the Notification of New Substances Regulations (Northern Ireland) 1994[^f00035], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+### 5. Chemicals (Hazard information and Packaging for Supply) Regulations (Northern Ireland) 1995[^key-4edf8a178785af210a1d2d696c6a85c7]
+
+In paragraph (l)(*a*) of regulation 3 of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 1995[^f00036], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+### 6. Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^key-e370de9a788a7c65b8e3ca87597c0086]
+
+For paragraph 8(2) of Schedule 2 to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00037], there shall be substituted—
+
+> - In this paragraph, “radiation generator” means any electrical equipment emitting ionising radiation and containing components operating at a potential difference of more than 5 kV.
+
+.
+
+### 7. Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations (Northern Ireland) 1998[^key-1021d7d9730aeb915c204e36bda3331d][^key-278f9adfd4ac5c9f1b7a590cf74422fb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Health and Safety (Fees) Regulations (Northern Ireland) 1998[^key-35a04d6cd1d1104a592a1d605d4cdc2e]
+
+In regulation 5(1) of the Health and Safety (Fees) Regulations (Northern Ireland) 1998[^f00039], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+### 9. Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^key-d0f3379c27d78e5411fb5609852e093c]
+
+The Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^f00040] shall be amended as follows—
+
+- (a) in the definition of “ionising radiation” in regulation 2(1), for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”;
+- (b) in sub-paragraph (*d*) of paragraph 4 of Schedule 2, for the words “Schedule 3 to the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “Schedule 1 to the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”;
+- (c) in paragraph 5 of Schedule 2, for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
+
+(This note is not part of the Regulations.)
+
+These Regulations supersede and consolidate the Ionising Radiations Regulations (Northern Ireland) 1985 ([S.R. 1985 No. 273](https://www.legislation.gov.uk/nisr/1985/273)) and the Ionising Radiations (Outside Workers) Regulations (Northern Ireland) 1993 ([S.R. 1993 No. 469](https://www.legislation.gov.uk/nisr/1993/469)).
+
+The Regulations impose duties on employers to protect employees and other persons against ionising radiation arising from work with radioactive substances and other sources of ionising radiation and also impose certain duties on employees.
+
+The Regulations implement in part as respects Northern Ireland provisions of—
+
+- (a) Council Directive 96/29/Euratom (O.J. No. L159, 29.6.96, p. 1) laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation;
+- (b) Council Directive 90/641/Euratom (O.J. No. L349, 13.12.90, p. 23) on the operational protection of outside workers exposed to the risk of ionising radiation during their activities in controlled areas;
+- (c) Council Directive 97/43/Euratom (O.J. No. L180, 9.7.97, p. 22) on health protection of individuals against the dangers of ionising radiation in relation to medical exposure.
+
+The Regulations are divided into 7 Parts.
+
+## Part I (Interpretation and General — Regulations 1-4)
+
+The Regulations define the terms used in and the scope of the Regulations. For the purposes of the Regulations, an employer includes a self-employed person and an employee includes a self-employed person and a trainee.
+
+## Part II (General principles and procedures — Regulations 5-12)
+
+The Regulations—
+
+- (a) prohibit the carrying out of specified practices without the authorisation of the Health and Safety Executive for Northern Ireland (“the Executive”);
+- (b) require specified work with ionising radiation to be notified to the Executive;
+- (c) require radiation employers to make a prior assessment of the risks arising from their work with ionising radiation, to make an assessment of the hazards likely to arise from that work and to prevent and limit the consequences of identifiable radiation accidents;
+- (d) require radiation employers to take all necessary steps to restrict so far as is reasonably practicable the extent to which employees and other persons are exposed to ionising radiation;
+- (e) require respiratory protective equipment used in work with ionising radiation to conform with agreed standards and require all personal protective equipment and other controls to be regularly examined and properly maintained;
+- (f) impose limits (specified in Schedule 4) on the doses of ionising radiation which employees and other persons may receive;
+- (g) require in certain circumstances the preparation of contingency plans for radiation accidents which are reasonably foreseeable.
+
+## Part III (Arrangements for the management of radiation protection— Regulations 13-15)
+
+The Regulations require that radiation employers consult radiation protection advisers in respect of matters specified in Schedule 5 and that employers ensure that adequate information, instruction and training is given to employees and other persons. Employers are required to co-operate by exchanging information to enable compliance by others with requirements to limit the exposure of employees to ionising radiation.
+
+## Part IV (Designated areas— Regulations 16-19)
+
+The Regulations—
+
+- (a) provide that areas in which persons need to follow special procedures to restrict exposure or in which persons are likely to receive more than specified doses of ionising radiation be designated as controlled or supervised areas;
+- (b) restrict entry into controlled areas to specified persons and circumstances;
+- (c) require radiation employers to set out appropriate local rules for controlled or supervised areas and to appoint radiation protection supervisors for the purpose of securing compliance with the Regulations;
+- (d) impose specified duties upon employers in relation to outside workers;
+- (e) require radiation levels to be monitored in controlled or supervised areas and provide for the maintenance and testing of monitoring equipment.
+
+## Part V (Classification and monitoring of persons — Regulations 20-26)
+
+The Regulations require that employees who are likely to receive more than specified doses of ionising radiation be designated as classified persons, that doses received by classified persons be assessed by one or more dosimetry service approved by the Executive or by the Great Britain Health and Safety Executive and that records of such doses are made and kept for each such person.
+
+The Regulations also provide for—
+
+- (a) certain employees to be subject to medical surveillance;
+- (b) any cases in which an employee has received an overexposure to be investigated and notified to the Executive;
+- (c) investigations to be made where employees are exposed above specified levels;
+- (d) modified dose limits for employees who have received an overexposure.
+
+## Part VI (Arrangements for the control of radioactive substances, articles and equipment— Regulations 27-33)
+
+The Regulations—
+
+- (a) require that where a radioactive substance is to be used as a source of ionising radiation, it should, whenever reasonably practicable, be in the form of a sealed source and that any articles embodying or containing radioactive substances are suitably designed, constructed, maintained and tested;
+- (b) cover the accounting for, keeping and moving of radioactive substances and require that incidents in which more than specified quantities of radioactive substances escape or are lost or stolen be notified to the Executive;
+- (c) impose duties on manufactures etc. and installers of articles for use in work with ionising radiation to ensure that such articles are designed, constructed and installed so as to restrict, so far as is reasonably practicable, exposure to ionising radiation;
+- (d) impose similar duties upon employers in relation to equipment used for medical exposures together with additional duties in relation to the testing and safe operation of such equipment;
+- (e) require employers to investigate any defect in medical equipment which may have resulted in a person receiving a dose of ionising radiation much greater than was intended and to notify the Executive of such incidents;
+- (f) prohibit interference with sources of ionising radiation.
+
+## Part VII (Duties of employees and miscellaneous— Regulations 34-41)
+
+The Regulations impose duties upon employees engaged in carrying out work with ionising radiation. The Regulations also—
+
+- (a) provide for the approval of dosimetry services by the Executive;
+- (b) provide for a defence on contravention of certain regulations;
+- (c) provide for exemptions to be granted by the Executive;
+- (d) specify the premises and activities within United Kingdom territorial waters adjacent to Northern Ireland to which the Regulations apply;
+- (e) contain transitional provisions; and
+- (f) introduce modifications relating to the Ministry of Defence.
+
+The Regulations make consequential amendments to the statutory provisions specified in Schedule 10 and revoke the Ionising Radiations Regulations (Northern Ireland) 1985 and the Ionising Radiations (Outside Workers) Regulations (Northern Ireland) 1993.
+
+- In Great Britain the corresponding Regulations are the Ionising Radiations Regulations 1999 ([S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232)). The Great Britain Health and Safety Executive has prepared a regulatory impact assessment in relation to those Regulations and a copy of the summary of that assessment, together with a Northern Ireland Supplement prepared by the Department of Enterprise, Trade and Investment, is held at the offices of the Health and Safety Executive for Northern Ireland at 83 Ladas Drive, Belfast BT6 9FR, from where copies may be obtained.
+- A person who contravenes the Regulations is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1999/288 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/288), Article 3(5)
+
+[^f00002]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00003]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); the general purposes of Part II referred to in Article 17(1) were extended by [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Article 3(1). Article 47A was inserted by Article 3, and Article 2 was amended by Articles 4 and 8, of [S.I. 1997/1774 (N.I. 16)](https://www.legislation.gov.uk/nisi/1997/1774)
+
+[^f00004]: Footnote: [S.I. 1991/2289](https://www.legislation.gov.uk/uksi/1991/2289)
+
+[^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); the definition of the Treaties referred to in section 2(2) was extended by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51)
+
+[^f00006]: Footnote: Article 17 must be read with [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3(2) and 4(2)
+
+[^f00007]: Footnote: Article 46(1) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraph 8
+
+[^key-1c45e2171d5fcb2372c93bb80c2326f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/375/regulation/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-030ac968730dd4d368a8863be92c5f43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/375/regulation/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00008]: Footnote: O.J. No. L159, 29.6.96, p .l
+
+[^f00009]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37)
+
+[^f00010]: Footnote: [S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232)
+
+[^f00011]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57); relevant amending instruments are [S.I. 1974/2056](https://www.legislation.gov.uk/uksi/1974/2056) and [S.I. 1990/1918](https://www.legislation.gov.uk/uksi/1990/1918)
+
+[^f00012]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
+
+[^f00013]: Footnote: [S.I. 1995/2994 (N.I.18)](https://www.legislation.gov.uk/nisi/1995/2994)
+
+[^f00014]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9fd9557365d1955c89621f630fb31ce8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/375/regulation/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-986b292be01da2f32f6cbbcf1a5f2e01]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/375/regulation/3) excluded (22.9.2006) by [The Radioactive Contaminated Land Regulations (Northern Ireland) 2006 (S.R. 2006/345)](https://www.legislation.gov.uk/nisr/2006/345), [regs. 1](https://www.legislation.gov.uk/nisr/2006/345/regulation/1), [8](https://www.legislation.gov.uk/nisr/2006/345/regulation/8)
+
+[^key-13c50f1a6714188fc32e9fe9042f75c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/375/regulation/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-30296df9a44d35e17aa2b1c99e3baae3]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/2) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8/a)
+
+[^key-1906476daaa09b93b97468279f80c32d]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/3) substituted (1.8.2006) by [Quarries Regulations (Northern Ireland) 2006 (S.R. 2006/205)](https://www.legislation.gov.uk/nisr/2006/205), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II)
+
+[^key-12570e32c60bd5ae40815163f8330cec]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/5) inserted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8/b)
+
+[^key-fee991fa77a332245040253dddc2c45c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/375/regulation/5) in operation at 13.5.2001, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/b)
+
+[^f00017]: Footnote: [S.R. 1997 No. 269](https://www.legislation.gov.uk/nisr/1997/269)
+
+[^key-677573beb006d5e8b74793726d095079]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/375/regulation/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00018]: Footnote: [S.I. 1978/1006](https://www.legislation.gov.uk/uksi/1978/1006)
+
+[^key-619b7426d7c4ffc5e02973c094d12cf2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/375/regulation/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00019]: Footnote: [S.R. 1992 No. 459](https://www.legislation.gov.uk/nisr/1992/459)
+
+[^key-26c4bde4d6fc03762ebafb61d771164b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/375/regulation/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-50e4641e49feb01a85c1fc51fc0bf430]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/375/regulation/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00020]: Footnote: [S. I. 1992/3139](https://www.legislation.gov.uk/uksi/1992/3139); as amended by [S. I. 1993/3074](https://www.legislation.gov.uk/uksi/1993/3074), [S. I. 1994/2326](https://www.legislation.gov.uk/uksi/1994/2326) and [S. I. 1996/3039](https://www.legislation.gov.uk/uksi/1996/3039)
+
+[^key-926e66c57ddd605092475fb371763cf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/375/regulation/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-d3c63e344bfe43469ca149ce6fef8fc8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/375/regulation/11) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-e9cb02fbffe1ccd967eb74251e390aa8]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/375/regulation/11) excluded (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [regs. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [15](https://www.legislation.gov.uk/nisr/2001/436/regulation/15)
+
+[^key-2175ccfe1f533a373a565b37e9274730]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/375/regulation/12) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-cf13604a9fe09863e44ca62eedb44076]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/375/regulation/13) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-8b311d3a6539cf2b169a19f2a59338a2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/375/regulation/14) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-a05520f6a61615d9afc2e2402a79c6cd]: Modification: [Reg. 14(a)(b)](https://www.legislation.gov.uk/nisr/2000/375/regulation/14/a/b) modified (20.10.2005) by [The High-activity Sealed Radioactive Sources and Orphan Sources Regulations 2005 (S.I. 2005/2686)](https://www.legislation.gov.uk/uksi/2005/2686), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2686/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2005/2686/regulation/19)
+
+[^key-231a2e0c88fafb910f4352c3f8736319]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/375/regulation/15) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-2ac1898e8c80208fa47cad97cd0d0902]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/375/regulation/16) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-02a0141841ada6fe7f54de3645a50006]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/375/regulation/17) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-699737554c3ba209f00fd1b8e69e4def]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/375/regulation/18) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-adc424bd49748ee019c20273d7293ef5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/375/regulation/19) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-dbcb36a07d4133375b33343e6ff4a859]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/375/regulation/20) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-7e73b9dc79763251f7161d8e4cb82ffe]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/375/regulation/21) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-e781e61174542b0e05cb94906ce82b67]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/375/regulation/22) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-f7ac2c6a029d79a4e8bcc1afa5bf4a52]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/375/regulation/23) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-c1c25fda1008c654c70e4786e69642a9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/375/regulation/24) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-d1a2150351101428954cf60c92a4ea0d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/375/regulation/25) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-7ad5a1f4c8877f19f8d422f995cbd901]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2000/375/regulation/26) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-c97c42880cee6c28a5c9daec1c69c879]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/375/regulation/27) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-65c2aad9a781bb20678add6abc7581ed]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/375/regulation/28) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-bfd016edc702376c1d274f2e2084c812]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2000/375/regulation/29) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-2a44eb2341699e3098abfe14ce07ee86]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/375/regulation/30) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00021]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
+
+[^key-873a2873dde904ea97643b47c76aea23]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/375/regulation/31) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00022]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 7 was amended by the Consumer Protection (Northern Ireland) Order 1987 ([S.I. 1987/2049 (N.I. 20)](https://www.legislation.gov.uk/nisi/1987/2049)), Article 28 and Schedule 2
+
+[^key-ea49d32f5f814ff5cf520c59a56657cb]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2000/375/regulation/32) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-dc958f3904b51b31f2b0510147b4ff54]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2000/375/regulation/33) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-19f728c58f06abc2047d38ac05c0c38d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2000/375/regulation/34) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-13eb6e796bbe027275685d1c8ea1d4ae]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2000/375/regulation/35) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-793c6ce794563ca01060f8dd5ba613a6]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2000/375/regulation/35/1) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 3](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/3)
+
+[^key-a0f14f85aa2e7ddf61739e9846ccfd8e]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2000/375/regulation/35A) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/4)
+
+[^key-f5fe0e9f221f8ed20131912ba112ddca]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2000/375/regulation/36) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-51b5b4b8ab56cadffc3ed86d986220d4]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/nisr/2000/375/regulation/36/7) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/5)
+
+[^key-5111638b3eda07f1ee406950ab4b1245]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2000/375/regulation/37) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-a4fe63de0cf7f5f0c4281a1d6c3f3cca]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2000/375/regulation/38) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-0a826064d88099497fddf266df61e84d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2000/375/regulation/39) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00023]: Footnote: [S.R. 1985 No. 273](https://www.legislation.gov.uk/nisr/1985/273)
+
+[^f00024]: Footnote: [S.R. 1993 No. 469](https://www.legislation.gov.uk/nisr/1993/469)
+
+[^key-b8c6990b565f1216c48adb0ede6b9df7]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2000/375/regulation/40) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00025]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
+
+[^f00026]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
+
+[^key-416efe316a1f500659df9f85e8caa126]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2000/375/regulation/41) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00027]: Footnote: [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20)
+
+[^key-a0d802881ab6cd02fa198ab54e38e286]: Textual amendment: [Reg. 41(3)](https://www.legislation.gov.uk/nisr/2000/375/regulation/41/3) revoked (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [regs. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [22(2)](https://www.legislation.gov.uk/nisr/2001/436/regulation/22) (with [reg. 22(3)](https://www.legislation.gov.uk/nisr/2001/436/regulation/22))
+
+[^key-26b96e36d78f3f55c816e2e8b1b80cd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/1/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-87644e970c27cf05e0a8d9b5cd504e40]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/1/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00028]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
+
+[^key-b0b0e8a9ecf1efad7649b69409818f20]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-57b56e5690163a564acde74042d23031]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-765e0613e453cf9b734f5045c354b14b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-e9d541f2ef15e43c40520973a8fb0937]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-b0828bbb6cb9d8ff0f3b39ce26fb74c5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-6d2ffc8ea6b8a9130e07f75cb26913ab]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-ad1188790321c646be67eed7bfb7bf79]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-251f5c32bbb6a9c9540173a13b01aa8d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-7d92f2add07227ecbcc454a246e515f5]: Textual amendment: Words in [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/6) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/6)
+
+[^key-f0f89e59de805bf7f205a55a64683840]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-a294f9a7aaf7512552f03cb3e51145e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-0c18422e556a871e3c8b8b11c2002371]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-d1c578c26514b840a28f21fbb2705731]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-106fbbc4bbeef91c0f17d6590f7654d0]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/11) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-8a0bb0d618566061dcf965fa202e74fb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/12) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-a44bfeaf4b989879f9ef8f5c31ccc223]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/13) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-56f41b36c9be2a267b896649b459e9ef]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/14) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-0183630c1dde2b84fd2e89f342e2de47]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/15) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-a91c6bb473000bd1323ef30d663042fc]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/16) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-aae13c2ff84d78d67226b1fb29f9da21]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/17) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-120dd8258f4d998b486e5e7eeeef473f]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/18) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-cd4d422cb22e1ff79bc1340d1e2bc1d6]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/19) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-86bbc511ed7c26337e800de1d8129de4]: Textual amendment: Words in [Sch. 4 para. 19](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/19) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/7)
+
+[^key-4ebe2bd33b93f0a126525b0e3e052992]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/20) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-c63777a122c915eabeb7b9dc5533084e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/21) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00029]: Footnote: [S.R. 1997 No. 269](https://www.legislation.gov.uk/nisr/1997/269)
+
+[^key-e99044630a07eeccf6d9fd8136beb453]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-1c70409f137565fa990aff52d29d61ea]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-aca6713df9b003df947461200db9e07c]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-383a769b37cff025ca79f57343bd00ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-884c5e46a2342ccf2b2ec0456df1837d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-3129cba78d8e487f93b634dda6dc35a0]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-10c115159da6f2d6c28ab3269306ecad]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-b98f871155f46b73d3facd6bd345e6d9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-1c1647cc4ae5b29d6cd326e50488f2cd]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-6d804fcf00acca37ff992b421d393beb]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-f2182f2b215a233db50e7facbbc6bccd]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-ce8f76f4e5f40cc69a2f4c74bb9aebc0]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-4eacfe66fd49c0ec628660929bf3dae5]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-6c7d2de599f4da9d638e9ff3feaaf83b]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-af4e2f804549b9014be2b3026ee4e26b]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-2af0e5e7b550742bf0827196e7e40334]: Commencement: [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/part/I) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-ebb8838f3912c4df1bd0a96455ee6545]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-997b397239250ee90e5fb6d46987e367]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-44bc646329bfd0ebdb201854e15e3ff9]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00030]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1(7) was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
+
+[^key-a843e322930cac50318dfb4992868277]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-33f2e860f4e16f11e87a6ae108b31d8f]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-0dfba6f0f7555ae6c8b2883fad7ffc7e]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-5a641cdd0ebab0fd4f11b8303ba633c3]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00031]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
+
+[^key-e497c793e8b23e4f02064b2876389a95]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-2f3e0af747729e3d1594c9c0e6752390]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00032]: Footnote: [S.I. 1990/246 (N.I. 2)](https://www.legislation.gov.uk/nisi/1990/246)
+
+[^key-63ec24f4acc05654f6c8d1e844ea1977]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00033]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
+
+[^key-b9920750b9678331a7a9a09a2048bfaf]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00034]: Footnote: [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20)
+
+[^key-092ec67b7ff7e7891d56824ece139b13]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00035]: Footnote: [S.R. 1994 No. 6](https://www.legislation.gov.uk/nisr/1994/6)
+
+[^key-4edf8a178785af210a1d2d696c6a85c7]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00036]: Footnote: [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60)
+
+[^key-e370de9a788a7c65b8e3ca87597c0086]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00037]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455)
+
+[^key-1021d7d9730aeb915c204e36bda3331d]: Textual amendment: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/7) revoked (27.2.2004) by [Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations (Northern Ireland) 2003 (S.R. 2003/533)](https://www.legislation.gov.uk/nisr/2003/533), [regs. 1](https://www.legislation.gov.uk/nisr/2003/533/regulation/1), [5](https://www.legislation.gov.uk/nisr/2003/533/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2003/533/schedule/2)
+
+[^key-278f9adfd4ac5c9f1b7a590cf74422fb]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^key-35a04d6cd1d1104a592a1d605d4cdc2e]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00039]: Footnote: [S.R. 1998 No. 125](https://www.legislation.gov.uk/nisr/1998/125)
+
+[^key-d0f3379c27d78e5411fb5609852e093c]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+
+[^f00040]: Footnote: [S.R. 1999 No. 90](https://www.legislation.gov.uk/nisr/1999/90)

@@ -1,0 +1,796 @@
+---
+title: Water Abstraction and Impoundment (Licensing) Regulations (Northern Ireland) 2006
+id: nisr/2006/482
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-11-27'
+text_date: '2007-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/482
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/482/pdfs/nisr_20060482_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/482/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Abstraction and Impoundment (Licensing) Regulations (Northern Ireland) 2006
+
+> Text as at 2007-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 482
+
+environmental protection
+
+Water Abstraction and Impoundment (Licensing) Regulations (Northern Ireland) 2006
+
+Made
+
+27th November 2006
+
+Coming into operation-
+
+1st February 2007
+
+The Department of the Environment makes the following Regulations in exercise of its powers under Articles 20(1), (3) and (4), 30(1) and 61(2) of the Water (Northern Ireland) Order 1999[^f00001]:
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-5b54527aa4e2e591d07272de192ff670]
+
+These Regulations may be cited as the Water Abstraction and Impoundment (Licensing) Regulations (Northern Ireland) 2006 and shall come into operation on 1st February 2007.
+
+### 2. Interpretation[^key-a416a2ff60a1bc2db554c057c0677fe1]
+
+In these Regulations—
+
+- “authorisation” means an authorisation under regulation 5 or 10;
+- “controlled activity” means—
+  - (a) the abstraction of water from underground strata or waterways; and
+  - (b) the construction, alteration or operation of any impounding works;
+- “land” includes any works, plant or fixed machinery in, on or over land;
+- “licence” means an authorisation granted under regulation 10;
+- “operator” in relation to a controlled activity, means any person who carries on that activity;
+- “permitted controlled activity” has the meaning given in regulation 5;
+- “the Order” means the Water (Northern Ireland) Order 1999;
+- “the 1995 Regulations” means the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995[^f00002]**;**
+- “the register” means the register maintained by the Department under Article 30 of the Order;
+- “water environment” means—
+  - (a) any waterway,
+  - (b) any water contained in underground strata,
+  - (c) any underground strata themselves,
+
+  or any flora or fauna dependent on any of them.
+
+### 3. Exemptions[^key-19e29383b42a40826b40e527e0f90612]
+
+(1) These Regulations shall not apply to a person who—
+
+- (a) holds a licence under Article 10(1)(a) of the Electricity (NI) Order 1992[^f00003] (licences to supply electricity etc); and
+- (b) is acting in accordance with an authorisation obtained from the Department under paragraph 2 of Schedule 5 to that Order (abstraction, diversion and use of water for hydro-electric generating stations).
+
+(2) Regulation 4 shall not apply—
+
+- (a) to the doing of anything for—
+  - (i) extinguishing fires;
+  - (ii) protecting life and property in the event of fire; or
+  - (iii) for the purpose of testing apparatus used for either of those purposes or for training or practice in the use of such apparatus; and
+- (b) to any abstraction by machinery or apparatus installed on a vessel, where the water is abstracted for use on that, or any other, vessel.
+
+### 4. Prohibition[^key-f312809540ccfde05ad0f8e13370d9f6]
+
+(1) No person shall carry on, or cause or permit another to carry on, any controlled activity except insofar as it is—
+
+- (a) authorised under these Regulations; and
+- (b) carried on in accordance with that authorisation.
+
+## PART 2 — Authorisations
+
+### 5. Permitted controlled activities[^key-dd9dd874f057ff773965540be860931b]
+
+(1) A controlled activity is authorised under this regulation if it is specified in Column 1 of Schedule 1 and, in cases where conditions are specified in the corresponding entry in Column 2 of that Schedule, is carried on in accordance with those conditions.
+
+(2) A controlled activity authorised under this regulation shall be known as a permitted controlled activity.
+
+### 6. Licence[^key-3c3c44a87bc5bd4b8e80add082e98bba]
+
+(1) A controlled activity may be licensed by the Department under regulation 10.
+
+(2) A licence shall be granted subject to such terms and conditions as the Department considers necessary or expedient for the purpose of protecting the water environment.
+
+(3) A licence shall specify the person to whom it is granted and, subject to regulation 14(5), that person is the holder of the licence for the purposes of these Regulations.
+
+## PART 3 — Permitted Controlled Activities
+
+### 7. Directions relating to permitted controlled activities[^key-846ac660f167b3409b8808cd4c3031d8]
+
+(1) If the Department is satisfied that any permitted controlled activity should not continue to be carried on unless a licence is granted for it on an application under regulation 8, the Department may direct that the authorisation granted under regulation 5 shall cease to apply to that controlled activity.
+
+(2) Notice of any direction made under paragraph (1) shall be served by the Department on the operator of the controlled activity in question and such direction shall come into force within 3 months of the date on which the notice was served.
+
+## PART 4 — Licences
+
+### 8. Form and content of application for licence[^key-36a3b4e708f7edeb3e67b9bb63775a3c]
+
+An application to the Department for a licence shall be made on a form provided by the Department for the purpose and accompanied by such information in such form as the Department may reasonably require.
+
+### 9. Advertisement of application[^key-322da85517cd8336d5c175cb8a327f57]
+
+(1) Where the Department receives an application under regulation 8 it may, where it considers that the controlled activity is likely to have a significant adverse impact on the water environment, require the application to be advertised in accordance with this regulation.
+
+(2) The Department shall serve notice requiring the applicant to advertise the application within 28 days beginning with the date on which the notice was served.
+
+(3) The Department shall specify in a notice under paragraph (2)—
+
+- (a) the form of the advertisement;
+- (b) the text to be included in the advertisement;
+- (c) the publications or locations in which the advertisement should be placed; and
+- (d) the dates between which the advertisement should be placed.
+
+(4) Any person affected or likely to be affected by, or having an interest in, the application may make representations to the Department in writing within 28 days beginning with the date of the advertisement.
+
+(5) The requirements of this regulation shall not apply insofar as they would require the advertisement of information which is not required to be included in the register by virtue of Article 31 or 32 of the Order.
+
+(6) This regulation shall not apply to an application to which the Water Resources (Environmental Impact Assessment) Regulations (Northern Ireland) 2005[^f00004] apply.
+
+### 9A.[^key-3dce38e8671a031c5e94f9f0d7577a97]
+
+(1) The Department shall, within 14 days of receipt of an application under regulation 8, serve notice of that application on every water undertaker.
+
+(2) A water undertaker may make representations in writing to the Department within 28 days from the date on which the notice under paragraph (1) was served.
+
+### 10. Consideration and determination of application for licence[^key-043f091c00e200a3d9cfe2510ffd030b]
+
+(1) An application under regulation 8 shall be determined in accordance with this regulation.
+
+(2) In deciding whether to grant a licence the Department—
+
+- (a) shall have regard to all controlled activities being carried on or likely to be carried on in the area of the water environment likely to be affected by the controlled activity to which the application relates;
+- (b) shall have regard to any representations received pursuant to regulations 9(4) and 9A(2)[^key-2776768ff7c714a9f52528729cb5ea4b]; and
+- (c) may have regard to any agreement reached between different persons concerning controlled activities carried on in the area of the water environment likely to be affected by the controlled activity to which the application relates.
+
+(3) The Department may grant a licence unconditionally or subject to conditions or it may refuse to grant a licence.
+
+(4) The Department shall notify the applicant of its decision and, in the case of a refusal, the reasons for that decision.
+
+(5) This regulation has effect subject to regulation 11.
+
+### 11. Applications affecting certain sites[^key-4474bbc17abb206575d9f409a8470e18]
+
+(1) Subject to paragraph (2), regulations 43, 44 and 48 of the 1995 Regulations (requirement to consider effect on certain sites) apply with the necessary modifications to the granting or modification of a licence under these Regulations as they apply to the matters specified in regulations 49 to 64 of the 1995 Regulations but as if—
+
+- (a) references to the competent authority were references to the Department;
+- (b) references to any consent, permission or other authorisation were references to a licence under these Regulations;
+- (c) references to any plan or project were references to any controlled activity; and
+- (d) regulations 43(3) and 44(3),(4), (5) and (6) were omitted.
+
+(2) Nothing in paragraph (1) shall require the making of an appropriate assessment in connection with a controlled activity where such an assessment has already been carried out in connection with that activity under any other statutory provision.
+
+(3) In this regulation “appropriate assessment” has the same meaning as in the 1995 Regulations.
+
+### 12. Review of licence[^key-5248cf7b26148652b6cdeef6123a833a]
+
+(1) The Department shall periodically review a licence and may do so at any time.
+
+(2) Without prejudice to the generality of paragraph (1), regulations 45, 46 and 48 of the 1995 Regulations (requirement to review existing decisions and consents, etc.) apply with the necessary modifications to a licence granted under these Regulations as they apply to the matters specified in regulations 49 to 64 of the 1995 Regulations but as if—
+
+- (a) references to the competent authority were references to the Department;
+- (b) references to any consent, permission or other authorisation were references to a licence under these Regulations;
+- (c) references to any plan or project were references to any controlled activity;
+- (d) in regulation 45(1) the words “or if later, the commencement of these Regulations” were omitted;
+- (e) in regulation 45(2) for the words “regulation 43(2) to (4)” there were substituted the words “regulation 43(2) and (4)”; and
+- (f) regulation 46(4) was omitted.
+
+### 13. Modification of licence[^key-a281a771409b436ea593091732dc66dc]
+
+(1) The Department may—
+
+- (a) on its own initiative and whether as a result of a review under regulation 12 or otherwise; or
+- (b) upon application of the holder of a licence,
+
+modify a licence.
+
+(2) An application under paragraph (1)(b) shall be made on a form provided by the Department for the purpose and accompanied by such information in such form as the Department may reasonably require.
+
+(3) Regulations 9,9A and 10(2)[^key-9cda24d7b2b9a03b6b22024999e63ba7] apply with the necessary modifications to an application under paragraph (1)(b) as they apply to an application under regulation 8.
+
+(4) Any modification of a licence under this regulation shall be effected by notice served on the holder of the licence and the notice shall state the time at which the modification is to take effect which in the case of a modification under paragraph (1)(a) shall be not less than 3 months from the date on which the notice was served.
+
+### 14. Transfer of licence[^key-b3d2ffa1e1634839fcf20964b82d64c4]
+
+(1) A licence may be transferred to another person in accordance with paragraphs (2) to (5).
+
+(2) Where the holder of a licence desires that the licence be transferred to another person (“the proposed transferee”) the licence holder and the proposed transferee shall jointly make an application to the Department for a transfer of the licence.
+
+(3) An application under paragraph (2) shall be made on a form provided by the Department for the purpose and accompanied by such information in such form as the Department may reasonably require.
+
+(4) The Department may effect a transfer of a licence or refuse to effect a transfer and where it refuses to do so it shall notify the applicants of the reasons for its decision.
+
+(5) The Department may effect a transfer under this regulation by causing the licence to be endorsed with the name and other particulars of the proposed transferee as the holder of the licence from such date specified in the endorsement as may be agreed with the applicants.
+
+### 15. Surrender of licence[^key-47aa9800c332396381cbd68e0c80160a]
+
+(1) A licence may be surrendered by its holder to the Department in accordance with this regulation.
+
+(2) A licence may only be surrendered if the Department accepts it.
+
+(3) Where the holder of a licence desires to surrender it, he shall make an application to the Department on a form provided by the Department for the purpose and accompanied by such information in such form as the Department may reasonably require.
+
+(4) On receiving an application under paragraph (3) the Department shall determine whether the cessation of the activity to which the licence relates is likely to have a significant adverse impact on the water environment.
+
+(5) Regulation 9 applies with the necessary modifications to an application under paragraph (3) as it applies to an application under regulation 8.
+
+(6) If the Department is satisfied that the cessation of the controlled activity to which the application relates is unlikely to have a significant adverse impact on the water environment, the Department shall accept the surrender of the licence; but otherwise the Department shall refuse to accept it.
+
+(7) Where the surrender of a licence is accepted under this regulation the Department shall issue to the applicant, with the notice of its determination, a certificate stating that it is satisfied as mentioned in paragraph (6) and, on the issue of that certificate, the licence shall cease to have effect.
+
+### 16. Revocation of licence[^key-160e02a933009f7ad11de4edcb9eaea4]
+
+(1) The Department may revoke (in whole or in part) a licence—
+
+- (a) where it is satisfied that—
+  - (i) the revocation is necessary in order to protect the water environment from serious damage; and
+  - (ii) the damage cannot be avoided by modifying the conditions of the licence; or
+- (b) under regulation 45 of the 1995 Regulations as applied by regulation 12 of these Regulations.
+
+(2) Any revocation of a licence under paragraph (1)(a) or (b) shall be effected by notice served on the holder of the licence.
+
+(3) A notice under paragraph (2) shall specify—
+
+- (a) in the case of a partial revocation, the extent to which the licence is revoked;
+- (b) the date on which the revocation shall take effect which shall be at least 28 days after the date on which the notice under paragraph (2) was served; and
+- (c) the reasons for the revocation.
+
+### 17. Public inquiries[^key-e21606921b2e27b211016be92269f071]
+
+(1)[^key-e968efcc2103d9c53333ac83e54e6fb6] For the purposes of considering representations made—
+
+- (a) under regulation 9 and under that regulation as applied by regulations 13 and 15; and
+- (b) under regulation 9A(2),
+
+the Department may direct the Appeals Commission to hold a public local inquiry.
+
+(2) The Department shall give notice of any direction made under paragraph (1) to the applicant.
+
+(3) Schedule A1 to the Interpretation Act (Northern Ireland) 1954[^f00005] applies in relation to a public local inquiry held by the Appeals Commission under this regulation as it applies to a local inquiry held under an enactment passed or made as mentioned in section 23 of that Act.
+
+(4) Where the Department makes a direction under paragraph (1) it shall, in determining the application to which the direction relates, consider the report on the public local inquiry held by the Appeals Commission.
+
+### 18. Further information[^key-8d02958b6e616c993a95d0dcc561ea3f]
+
+(1) The Department may, by notice in writing to the applicant, request such additional information in relation to any application under regulation 8, 13(1)(b), 14(2) or 15(3) as it reasonably requires.
+
+(2) The Department may request such additional information within such period as it may specify or agree with the applicant in writing.
+
+(3) Where an applicant fails to provide the Department with any information requested under paragraph (1) the Department may refuse to proceed with the application to which it relates or refuse to proceed with it until the information is provided.
+
+### 19. Time limits for determining applications[^key-c2723ef26d41b2db9365c321db3ceeb2]
+
+(1) Subject to paragraphs (2) and (3), the Department shall determine an application under regulation 8, 13(1)(b), 14(2) or 15(3) within 4 months beginning with the date on which it receives the application or shall determine it within such later period as may be agreed in writing with the applicant.
+
+(2) Paragraph (1) shall not have effect in any case where, under regulation 18(3), the Department refuses to proceed with the application in question.
+
+(3) For the purpose of calculating the periods mentioned in paragraph (1) the following periods shall be disregarded, namely—
+
+- (a) the period beginning with the date on which notice is served on the applicant under regulation 18(1) and ending on the date of receipt by the Department of the information to which the notice relates;
+- (b) the period beginning with the date on which the Department makes a direction to the Appeals Commission under regulation 17 and ending on the date of receipt by the Department of the report of the Appeals Commission on the public local inquiry to which the direction relates; and
+- (c) any period of time determined under regulation 14(5)(b) of the Water Resources (Environmental Impact Assessment) Regulations (NI) 2005
+
+(4) Where the Department fails to determine the application within the period provided for under this regulation the application shall be deemed to have been refused.
+
+## PART 5 — Enforcement and other powers
+
+### 20. Enforcement notices[^key-441c313788467b881a0f8ec2b834b1ca]
+
+(1) This regulation applies where it appears to the Department—
+
+- (a) that a condition of an authorisation has not been, is not being, or is likely not to be, complied with; or
+- (b) that a person has carried on, is carrying on, or is likely to carry on a controlled activity that is not authorised under these Regulations and which in the opinion of the Department has had, is having or is likely to have a significant adverse impact on the water environment.
+
+(2) Where this regulation applies the Department may, without prejudice to any proceedings under regulation 25, serve a notice specifying—
+
+- (a) the activity;
+- (b) in a case to which paragraph (1)(a) relates—
+  - (i) the condition of the authorisation that has not been, is not being or is not likely to be, complied with; and
+  - (ii) the steps that must be taken to remedy the non-compliance or as the case may be to prevent the anticipated non-compliance from occurring; and
+- (c) in a case to which paragraph (1)(b) relates—
+  - (i) the adverse impact or the likely adverse impact on the water environment; and
+  - (ii) the steps that must be taken to remedy the adverse impact or as the case may be to prevent the anticipated adverse impact from occurring.
+
+(3) The steps referred to in paragraph (2)(b)(ii) may include the cessation of, or as the case may be a prohibition on the commencement of, the controlled activity to which the notice relates for such period as the Department considers necessary or appropriate.
+
+(4) The steps referred to in paragraph (2)(c)(ii) shall include the cessation of, or as the case may be a prohibition on the commencement of, the controlled activity to which the notice relates.
+
+(5) A notice under paragraph (2) shall specify the period at the end of which any steps required to have been taken or any activities are required to have ceased and may specify different periods for different steps or activities.
+
+(6) Where a notice under paragraph (2) relates to—
+
+- (a) an unauthorised controlled activity; or
+- (b) a permitted controlled activity
+
+it shall be served on the operator of that activity and in all other cases it shall be served on the holder of the licence.
+
+### 21. Power of the Department to carry out works[^key-c3a696f2f7a74683fec573760fd59d9b]
+
+(1) Where the Department considers that a notice should be served under regulation 20(2), it may take any such steps that may be required to be taken under that notice, or secure that those steps are taken, if—
+
+- (a) it considers it necessary to do so forthwith; or
+- (b) it appears to the Department, after reasonable inquiry, that no person can be found on whom to serve that notice.
+
+(2) Where the Department has incurred any expenditure under paragraph (1) it may recover the amount of expenditure from the person on whom the notice would have been served but for that paragraph.
+
+### 22. Enforcement notices – rights of entry, compensation etc[^key-86272a545810c452e324522cb8168ddc]
+
+(1) A notice under regulation 20(2) may require the person on whom it is served to carry out works or do other things in relation to any land notwithstanding that he is not entitled to carry out the works or do the things and any person whose consent would be required shall grant, or join in granting, such rights in relation to land as will enable the person on whom the notice is served to comply with any requirement imposed on him by that notice.
+
+(2) Where paragraph (1) applies, the Department shall, before serving a notice under regulation 20(2), reasonably endeavour to consult such persons as appear to it to be—
+
+- (a) the owner or occupier of any land which will be affected by the notice; and
+- (b) any person who might be required under paragraph (1) to grant or join in granting any rights,
+
+in respect of the rights which that owner, occupier, or person, may be required to grant.
+
+(3) A notice under regulation 20(2) shall not be regarded as invalid or invalidly served by reason only of a failure to comply with paragraph (2).
+
+(4) A person who grants, or joins in granting, any rights in accordance with paragraph (1) shall be entitled to compensation under this paragraph; and Schedule 2 shall have effect with respect to the making of applications for such compensation and with respect to the manner in which such applications shall be assessed and determined.
+
+(5) Subject to paragraph (6), compensation payable under paragraph (4) shall be paid by the person on whom notice under regulation 20(2) was served or would have been served but for regulation 21(1).
+
+(6) Where the person by whom compensation is payable under paragraph (5)—
+
+- (a) cannot be found; or
+- (b) has failed to make payment,
+
+compensation under this regulation shall be payable by the Department; and the Department shall be entitled to recover any payment of compensation made by it under this paragraph from that person .
+
+### 23. Enforcement by High Court[^key-ef2a1ec4f268c59e232f98dc9453ef35]
+
+If the Department is of the opinion that proceedings for an offence under regulation 25(1)(b) would afford an ineffectual remedy against a person who has failed to comply with the requirement of any notice under regulation 20(2), it may take proceedings in the High Court for the purpose of securing compliance with that notice.
+
+## PART 6 — Register
+
+### 24. Register[^key-423fce5e24415361115b7fd9986d502b]
+
+The register shall contain the particulars specified in Schedule 3.
+
+## PART 7 — Offences
+
+### 25. Offences[^key-b1868d19286d7025f84f80349add0d49]
+
+(1) It is an offence for a person to—
+
+- (a) contravene regulation 4;
+- (b) fail to comply with the requirements of a notice issued under regulation 20(2);
+- (c) intentionally to make a false entry in any record required to be kept as a condition of a licence;
+- (d) with intent to deceive, forge or use a document issued or authorised to be issued under a condition of a licence or required for any purpose under a condition of such a licence or to make or have in that person’s possession a document so closely resembling any such document so as to be likely to deceive;
+- (e) cause any person to commit an offence under sub-paragraphs (b) to (d) .
+
+(2) A person guilty of an offence under paragraph (1)(a), (b) or (e) shall be liable—
+
+- (a) on summary conviction—
+  - (i) to a fine not exceeding £20,000 or to imprisonment for a term not exceeding six months, or to both; and
+  - (ii) in the case of a continuing offence, to a further fine not exceeding £200 for every day during which the offence is continued after conviction;
+- (b) on conviction on indictment—
+  - (i) to a fine or to imprisonment for a term not exceeding 5 years, or to both; and
+  - (ii) in the case of a continuing offence to a further fine for every day during which the offence is continued after conviction.
+
+(3) A person guilty of an offence under paragraph (1)(c) or (d) shall be liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or to a fine, or to both.
+
+### 26. Offences by bodies corporate[^key-a48fa79b9f2003686632fcdc34d2508c]
+
+For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+### 27. Defence to principal offences in respect of authorised activities[^key-d2aed6742c314a0183a0b58f56a2d97a]
+
+A person shall not be guilty of an offence under regulation 25(1)(a), (b), or (e) where the contravention is a result of—
+
+- (a) an accident which could not reasonably have been foreseen; or
+- (b) natural causes which are exceptional and could not reasonably have been foreseen,
+
+provided that—
+
+- (i) all practicable steps are taken to prevent deterioration of the water environment;
+- (ii) all practicable steps are taken as soon as is reasonably practicable to restore the water environment to its condition prior to the contravention; and
+- (iii) particulars of the contravention are furnished to the Department as soon as is reasonably practicable. .
+
+### 28. Power of court to order offence to be remedied[^key-2a6d6cf1dee40f2be7801f0e1352e3d4]
+
+(1) Where—
+
+- (a) a person is convicted of an offence under regulation 25(1)(a), (b) or (e) in respect of any controlled activity which has had a significant adverse impact on the water environment; and
+- (b) it appears to the court that it is in the power of that person to mitigate or remedy that adverse impact,
+
+the court may in addition to or instead of imposing any punishment, order that person within such time as may be fixed by the order of the court to take such steps as may be specified in that order for mitigating or remedying the adverse impact.
+
+(2) Before making such an order, the court shall have regard to any representations by the Department as to the steps required to mitigate or remedy the adverse impact.
+
+(3) The time fixed by an order of the court under paragraph (1) may be extended or further extended by an order of the court on an application made before the end of the time originally fixed or extended under this paragraph.
+
+## PART 8 — Appeals and transitional provisions
+
+### 29. Appeals[^key-5034e66541c6db0972fcca3d698b3988]
+
+(1) Where an application is made to the Department under any of the following regulations namely—
+
+- (a) regulation 8;
+- (b) regulation 13(1)(b);
+- (c) regulation 14(2) or
+- (d) regulation 15(3),
+
+then if the application is refused or is granted subject to conditions the applicant may appeal against the decision to the Appeals Commission within 28 days from the date on which notice of the decision is given to the applicant or, as the case may be, from the date on which the decision is deemed to have been made.
+
+(2) Where a notice is served under any of the following regulations namely—
+
+- (a) regulation 7;
+- (b) regulation 13(4) (other than a notice relating to an application under regulation 13(1)(b));
+- (c) regulation 16(2); or
+- (d) regulation 20(2),
+
+the person on whom the notice was served (“the recipient”) may appeal to the Appeals Commission within 28 days from the date on which the notice was served.
+
+(3) On receipt of an appeal, the Appeals Commission shall give notice of the appeal to the Department.
+
+(4) Where an appeal is pending in a case falling within paragraph (2) the notice to which the appeal relates shall, subject to paragraph (5), have no effect pending the determination or withdrawal of the appeal.
+
+(5) Paragraph (4) shall not apply to—
+
+- (a) a notice under regulation 13(4);
+- (b) a notice under regulation 16(2); and
+- (c) a notice under regulation 20(2),
+
+that includes a statement that in the opinion of the Department the appropriate action is necessary in order to prevent serious damage to the water environment and that that paragraph should not apply.
+
+(6) In paragraph (5) “appropriate action” means—
+
+- (a) in the case of a notice under regulation 13(4), the modification of the conditions of the licence to which the notice relates;
+- (b) in the case of a notice under regulation 16(2), the cessation of the controlled activity to which the notice relates; and
+- (c) in the case of a notice under regulation 20(2), the steps required to comply with the notice.
+
+(7) Where paragraph (5) applies then if on the application of the recipient the Appeals Commission determines that the Department acted unreasonably in excluding the application of paragraph (4) then—
+
+- (a) if the appeal is still pending at the end of the day on which the determination is made, paragraph (4) shall apply to the notice from the end of that day; and
+- (b) the recipient shall be entitled to recover compensation from the Department in respect of any loss suffered by him in consequence of the exclusion of the application of that paragraph;
+
+and any dispute as to the recipient’s entitlement to such compensation or to the amount of it shall be determined by the Lands Tribunal.
+
+(8) Where on an appeal under this regulation, the Appeals Commission determines that the decision or, as the case may be, notice to which the appeal relates shall be altered, the Department shall give effect to the determination.
+
+(9) Article 8(4) of the Water and Sewerage Services (NI) Order 1973[^f00006] shall not apply to a decision by the Appeals Commission under this regulation.
+
+### 30. Transitional provisions[^key-07ed00318d469e7d5bbb0e6c45b6e003]
+
+The transitional provisions contained in Schedule 4 shall have effect.
+
+Sealed with the Official Seal of the Department of the Environment on 27th November 2006.
+
+Wesley Shannon
+
+A senior officer of the Department of the Environment
+
+## SCHEDULE 1 — Permitted Controlled Activities[^key-1175b3735c7aa25a2be07f85cc428beb]
+
+Regulation 5
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column 1</em><br><em>Activity</em></th><th colspan="2"><em>Column 2</em><br><em>Conditions</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2">1. The construction, alteration or operation of the following descriptions of weir namely :<br>(a) a weir that is not associated with an abstraction;<br>(b) a weir that is not capable of being operated to control the water level upstream of the weir;<br>(c) a weir that is not capable of being operated so as to create a height differential between the upstream and downstream water surfaces of more than one metre.</td><td></td><td></td></tr>
+<tr><td colspan="2">2. The abstraction of less than 10 m<sup>3</sup> of water in any one day.</td><td colspan="2">(a) there shall be a means of demonstrating that the abstraction is less than 10 m<sup>3</sup> in any one day;<br>(b) water leakage shall be kept to a minimum by ensuring all pipe work, storage tanks and other equipment associated with the abstraction and use of the water are maintained in a state of good repair;<br>(c) subject to paragraphs (d) and (e) the abstraction shall not cause the entry of water of a different chemical composition into any water contained in any underground strata;<br>(d) drilling fluids may be introduced into a well or borehole if necessary to facilitate the drilling of the well or borehole provided this does not result in pollution of the water environment;<br>(e) potable water may be introduced into a well or borehole to test the hydraulic properties of an aquifer;<br>(f) when a well or borehole is not being used for abstraction, it shall be back-filled or sealed to the extent necessary to avoid loss of any water contained in any underground strata.</td></tr>
+<tr><td colspan="2">3. The abstraction of between 10m<sup>3</sup> and 20m<sup>3</sup> of water in any one day.</td><td colspan="2">(a) there shall be a means of demonstrating that the abstraction is less than 20m<sup>3</sup> in any one day;<br>(b) the operator shall notify the Department of the location and volume of the abstraction —<br>(i) in any case where he is carrying on that activity on the date of the coming into operation of these regulations, within 12 months of that date; and<br>(ii) in all other cases, within 28 days of the date on which he commences the activity;<br>(c) water leakage shall be kept to a minimum by ensuring all pipe work, storage tanks and other equipment associated with the abstraction and use of the water are maintained in a state of good repair;<br>(d) subject to paragraphs (e) and (f) the abstraction shall not cause the entry of water of a different chemical composition into any water contained in any underground strata;<br>(e) drilling fluids may be introduced into a well or borehole if necessary to facilitate the boring of the well or borehole provided this does not result in pollution of the water environment;<br>(f) potable water may be introduced into a well or borehole to test the hydraulic properties of an aquifer;<br>(g) when a well or borehole is not being used for abstraction, it shall be back-filled or sealed to the extent necessary to avoid loss of any water contained in any underground strata.</td></tr>
+<tr><td colspan="2">4.The abstraction from a borehole where the total volume of water abstracted is less than 150 m<sup>3</sup> in any period of one year and the purpose of the abstraction is either:<br>(a) subject to paragraphs (b) and (c) the abstraction shall not cause the entry of water of a different chemical composition into any water contained in any underground strata;<br>(b) to sample the water quality.</td><td>(a) to test the yield of the borehole or well or the hydraulic properties of an aquifer; or<br>(b) drilling fluids may be introduced into a well or borehole if necessary to facilitate the drilling of the well or borehole provided this does not result in pollution of the water environment;<br>(c) potable water may be introduced into a well or borehole to test the hydraulic properties of an aquifer;<br>(d) when the borehole is not being used for abstraction, it shall be back-filled or sealed to the extent necessary to avoid loss of any water contained in any underground strata.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — Compensation for Grant of Rights
+
+Regulation 22(4)
+
+### 1. Interpretation[^key-4f30748bdb4f731e600188d3b0c9813d]
+
+In this Schedule—
+
+- “the 1982 Order” means the Land Compensation (Northern Ireland) Order 1982[^f00007];
+- “compensation” means compensation to which a person is entitled under regulation 22(4);
+- “grantor” means a person who has granted or joined in granting any rights pursuant to regulation 22(1);
+- “grantee” means the person on whom a notice is served under regulation 20(2) or, in a case to which regulation 22(6) applies, the Department; and
+- “relevant interest” means an interest in land or waters in respect of which rights have been granted pursuant to regulation 22(1).
+
+### 2. Period for making an application[^key-0066cb8b77e1e24dbe92c27011efca96]
+
+An application for compensation shall be made to the grantee within the period beginning with the date of the grant of the rights in respect of which compensation is claimed and ending on whichever is the later of the following dates—
+
+- (a) 12 months after the date of the grant of those rights; or
+- (b) six months after the date on which the rights were first exercised.
+
+### 3. Form of application[^key-f5aca245de6d48fc423dd2c93efe9cdf]
+
+(1) An application for compensation shall be made in writing and served on the grantee.
+
+(2) The application shall contain, or be accompanied by—
+
+- (a) a description of the grant of rights in respect of which the grantor is applying for compensation, and any relevant plans;
+- (b) a description of the relevant interest in respect of which the grantor is applying for compensation and any relevant plans; and
+- (c) a statement containing—
+  - (i) the total amount of compensation sought;
+  - (ii) the individual amounts sought for each description of loss and damage referred to in sub-paragraphs (a) to (e) of paragraph 4; and
+  - (iii) details of how those amounts are calculated.
+
+### 4. Loss and damage for which compensation payable[^key-7d667199454981deca59402b6ca67549]
+
+Compensation shall be payable for loss and damage of the following descriptions—
+
+- (a) depreciation in the value of any relevant interest to which the grantor is entitled which results from the grant of the rights or the exercise of them;
+- (b) loss or damage, in relation to any relevant interest to which the grantor is entitled, which—
+  - (i) results from the grant of the rights or the exercise of them;
+  - (ii) does not consist of depreciation in the value of that interest; and
+  - (iii) is loss or damage for which the grantor would have been entitled to compensation by way of compensation for disturbance, if that interest had been acquired compulsorily under the Local Government Act (Northern Ireland) 1972[^f00008] in pursuance of a notice of intention to vest served on the date on which the rights were granted;
+- (c) damage to, or injurious affection of, any interest in land to which the grantor is entitled which is not a relevant interest, and which results from the grant of the rights or the exercise of them;
+- (d) any loss or damage sustained by the grantor, other than in relation to any interest in land to which the grantor is entitled, and which results from the grant of the rights or the exercise of them; and
+- (e) the amount of any valuation and legal expenses reasonably incurred by the grantor in granting the rights and in the preparation of the application for and the negotiation of the amount of compensation (up to the point of referral to the Lands Tribunal under paragraph 6).
+
+### 5. Basis on which compensation assessed[^key-0125e9be953ab33ce8d1bec607b53476]
+
+(1) The rules set out in Article 6 of the 1982 Order shall, so far as applicable and subject to any necessary modifications, have effect for the purposes of assessing compensation payable under regulation 22(4) as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
+
+(2) Where the relevant interest in respect of which compensation is to be assessed is subject to a mortgage—
+
+- (a) the compensation shall be assessed as if the interest were not subject to the mortgage;
+- (b) no compensation shall be payable in respect of the interest of the mortgagee (as distinct from the interest which is subject to the mortgage); and
+- (c) any compensation which is payable in respect of the interest which is subject to a mortgage shall be paid (subject to the maximum sum due thereunder) to the mortgagee or, if there is more than one mortgagee, to the first ranking mortgagee and shall, in either case, be applied by that person as if it were proceeds of sale.
+
+### 6. Payment of compensation and determination of disputes[^key-0aef7dba6c271db256418cd41be655bd]
+
+(1) Compensation shall be payable—
+
+- (a) where the grantee, the grantor and (if relevant) the mortgagee agree that a single payment is to be made on a specified date, on that date;
+- (b) where the grantee, the grantor and (if relevant) the mortgagee agree that payment is to be made in instalments at different dates, on the date agreed as regards each instalment; or
+- (c) in any other case, subject to any direction of the Lands Tribunal as soon as reasonably practicable after the amount of the compensation has been finally determined.
+
+(2) Any question of disputed compensation shall be referred to and determined by the Lands Tribunal.
+
+(3) In relation to the determination of any such questions, Articles 4 and 5 of the 1982 Order (procedure on reference to the Lands Tribunal and costs) shall apply as if—
+
+- (a) the reference in Article 4(1) of that Order to Article 3 of that Order were a reference to sub‑paragraph (2) of this paragraph; and
+- (b) references in Article 5 of that Order to the acquiring authority were references to the grantee.
+
+### 7. Interest and payment on account[^key-19ccbdc0a2b00869a039253f3db0c170]
+
+(1) Compensation shall carry interest at the rate determined for the time being under paragraph 18 of Schedule 6 to the Local Government Act (Northern Ireland) 1972 from the date specified in sub- paragraph (2) until payment.
+
+(2) The date specified in this sub-paragraph is—
+
+- (a) in the case of compensation for loss and damage as described in paragraph 4(a), the date of depreciation ;
+- (b) in the case of compensation for loss and damage as described in paragraph 4(b), (c) or (d), the date on which the loss is sustained or the damage done or, where injurious affection is sustained, the date of the injurious affection;
+- (c) in the case of compensation for loss and damage as described in paragraph 4(e), the date on which the expenses become payable.
+
+(3) If it appears to any person that he may become liable to pay to another compensation he may, if the other person requests him in writing to do so, make one or more payments on account of such compensation.
+
+(4) If, after a payment has been made by any person under sub-paragraph (3)—
+
+- (a) it is agreed or determined that he is not liable to pay compensation; or
+- (b) by reason of any agreement or determination, any payment under that sub-paragraph is shown to be excessive,
+
+the payment or, as the case may be, excess shall be recoverable by that person.
+
+## SCHEDULE 3 — Register
+
+Regulation 24
+
+**1.**[^key-ce7d0b1990290d359db8de9400022b02] (1) Subject to Articles 31 and 32 of the Order the register shall contain:
+
+- (a) particulars of any application for a licence under regulation 8;
+- (b) particulars of any licence granted under regulation 10;
+- (c) particulars of any application for the modification of a licence under regulation 13(1)(b);
+- (d) particulars of any application for a transfer of a licence under regulation 14(2);
+- (e) particulars of any application for the surrender of a licence under regulation 15(3);
+- (f) particulars of any modification , transfer or surrender of a licence granted pursuant to the applications referred to in sub-paragraphs (c) to (e);
+- (g) particulars of any notices served under regulations 7, 13(4), 16(2), and 20(2);
+- (h) particulars of any advertisement published pursuant to regulation 9 and any representations made in response to the advertisement other than exempt representations;
+- (i) in the case of exempt representations, a statement by the Department that such representations have been made (but such statement shall not identify the person who made them);
+- (j) any notice of appeal received by the Department under regulation 29(3);
+- (k) any written notification of the determination by the Appeals Commission of an appeal and any report accompanying any such notification;
+- (l) information in relation to the carrying on of a controlled activity under a licence granted under regulation 10 which is—
+  - (i) obtained by the Department in the exercise of its powers under Article 25 or 26 of the Order; or
+  - (ii) furnished to the Department by virtue of a condition of the licence or a direction under Article 28 of the Order;
+- (m) in a case where any information referred to in sub-paragraph (l)(l) is omitted from the register by virtue of Article 31or 32 of the Order, a statement by the Department, based on information obtained in any of the circumstances set out in that sub-paragraph, indicating whether or not the conditions of the licence to which that information relates, have been complied with;
+- (n) information (other than information registerable under sub-paragraph (l)(l)(ii)) furnished in compliance with a condition of a licence or a direction under Article 28 of the Order;
+- (o) particulars of any convictions for offences under these Regulations;
+- (p) particulars of any determination under regulation 4 of the Water Resources (Environmental Impact Assessment) Regulations (Northern Ireland) 2005[^f00009];
+- (q) particulars of any environmental statement or further information furnished under regulation 6 of those Regulations.
+
+(2) In this paragraph “exempt representations” means representations—
+
+- (a) made under regulation 9(4); and
+- (b) which have been excluded from the register at the request of the person who made them.
+
+**2.**[^key-a4939fb5db7a72955d9c7cca34a23dbc] Where an application under regulation 8, 13(1)(b), 14(2) or 15(3) is withdrawn at any time before it is determined—
+
+- (a) no further particulars relating to the application shall be entered on the register after the application is withdrawn; and
+- (b) all particulars relating to the application shall be removed from the register not less than 2 months and not more than 3 months after the application is withdrawn.
+
+**3.**[^key-7ac0de20a4d6ebac91e7d2e070694d10] Nothing in paragraph 1 shall require the Department to keep on the register—
+
+- (a) information obtained in the circumstances referred to in paragraph 1(1)(l) for more than 6 years from the date on which that information was entered in the register;
+- (b) information which has been superseded by later information more than 6 years after that later information was entered in the register.
+
+**4.**[^key-a941bf49a3e0cf6a85242d600b4f303b] Paragraph 3(a) shall not apply to information relating to specific impacts or classes of impacts on the water environment from controlled activities generally or from any class of controlled activities.
+
+## SCHEDULE 4 — Transitional provisions
+
+Regulation 30
+
+**1.**[^key-1ad440a8c5ca2d5f871f42ce69f3bf9c] In this Schedule—
+
+- “existing controlled activity” means a controlled activity other than—
+  - (a) a controlled activity to which regulation 5 applies; or
+  - (b) a controlled activity to which the Water Resources (Environmental Impact assessment) Regulations (Northern Ireland) 2005 apply,
+
+  which—
+
+  - (i) is carried on for the period of six months ending on the relevant date; or
+  - (ii) in cases where the activity is seasonal in nature, was carried on at any time during the months of May to August 2006;
+- “relevant date” is the date of the coming into operation of these Regulations; and
+- “relevant period” is the period of 12 months beginning with the relevant date.
+
+**2.**[^key-8fe0f9611265b859d3fed4470ce28c99] Regulations 4 and 20(1)(b) shall not apply to an existing controlled activity—
+
+- (a) during the relevant period; or
+- (b) if an application is made under regulation 8 in respect of it during the relevant period, until the application is determined under regulation 10.
+
+**3.**[^key-349f007fece1cffb3ee8ef15170fe8c3] Regulations 9, 9A and 19[^key-14a958b4494134aa7922d271703e8a8c] shall not apply to an application made under regulation 8 during the relevant period for an existing controlled activity.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations.)
+
+These Regulations set out a control regime for regulating the abstraction of water from underground strata or waterways and the construction, alteration or operation of impounding works, referred to in the Regulations as “controlled activities”.
+
+Part 1 sets out general provisions. Regulation 3 provides for exemptions and Regulation 4 prohibits the carrying on of any controlled activity unless authorised under the Regulations.
+
+Part 2 describes the types of authorisations which are available under the Regulations in respect of controlled activities. Any controlled activity mentioned in Schedule 1 is authorised under the Regulations provided it is carried on in accordance with any conditions specified in respect of it. These types of authorisation are referred to in the Regulations as “permitted controlled activities”. Otherwise (and providing that they are not exempt under regulation 3) controlled activities require a licence under regulation 10.
+
+Part 4 of the Regulations makes provision for licence applications and their determination. It includes provision relating to advertisement in cases where the controlled activity is likely to have a significant adverse impact on the water environment (regulation 9) and for consideration of the impact of the proposed controlled activity on any site protected under the Conservation (Natural Habitats etc.) Regulations (N.I) 1995 (regulations 11 and 12). Provision is also made for the review of licences granted under the Regulations and for their modification, transfer, surrender and revocation.
+
+Part 5 makes provision for the enforcement of the Regulations. Regulation 20 enables the Department to issue enforcement notices to ensure compliance with the Regulations and to remedy or prevent significant adverse impacts on the water environment. Where such enforcement notices require the carrying out of work on land other than that owned by the person on whom the notice is served, provision is made in regulation 22 entitling the owner of that land to compensation for the access which he is obliged under the Regulations to provide. Regulation 23 makes provision for DOE to take proceedings in the High Court against a person who has failed to comply with the requirements of an enforcement notice where it considers prosecution for such failure would not afford an effectual remedy.
+
+Part 6 deals with the registration by DOE of various matters dealt with under the Regulations.
+
+Part 7 makes provision in relation to offences and includes provision enabling a court, in addition to, or instead of, imposing a punishment to order the convicted person to carry out steps to mitigate or remedy the adverse impact on the water environment resulting from the commission of the offence.
+
+Regulation 29 makes provision for appeals.
+
+Regulation 30 introduces transitional provisions which are contained in Schedule 4.
+
+A Regulatory Impact Assessment has been prepared in connection with these Regulations. A copy can be obtained from Environmental Policy Division, Department of the Environment, 12<sup>th</sup> Floor, River House, High Street, Belfast, BT1 2DR.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662) as amended by [S.I. 2006/1946 (N.I. 15)](https://www.legislation.gov.uk/nisi/2006/1946)
+
+[^key-5b54527aa4e2e591d07272de192ff670]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-a416a2ff60a1bc2db554c057c0677fe1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/482/regulation/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00002]: Footnote: [SR 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380); relevant amending Regulations are [SR 2004 No. 435](https://www.legislation.gov.uk/nisr/2004/435)
+
+[^key-19e29383b42a40826b40e527e0f90612]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/482/regulation/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00003]: Footnote: [S.I. 1992/231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231)
+
+[^key-f312809540ccfde05ad0f8e13370d9f6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/482/regulation/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-dd9dd874f057ff773965540be860931b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/482/regulation/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-3c3c44a87bc5bd4b8e80add082e98bba]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/482/regulation/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-846ac660f167b3409b8808cd4c3031d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/482/regulation/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-36a3b4e708f7edeb3e67b9bb63775a3c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/482/regulation/8) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-322da85517cd8336d5c175cb8a327f57]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/482/regulation/9) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00004]: Footnote: [S.R. 2005 No. 32](https://www.legislation.gov.uk/nisr/2005/32)
+
+[^key-3dce38e8671a031c5e94f9f0d7577a97]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/482/regulation/9A) inserted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/2)
+
+[^key-043f091c00e200a3d9cfe2510ffd030b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/482/regulation/10) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-2776768ff7c714a9f52528729cb5ea4b]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/nisr/2006/482/regulation/10/2/b) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/3)
+
+[^key-4474bbc17abb206575d9f409a8470e18]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/482/regulation/11) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-5248cf7b26148652b6cdeef6123a833a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/482/regulation/12) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-a281a771409b436ea593091732dc66dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/482/regulation/13) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-9cda24d7b2b9a03b6b22024999e63ba7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2006/482/regulation/13/3) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/4)
+
+[^key-b3d2ffa1e1634839fcf20964b82d64c4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/482/regulation/14) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-47aa9800c332396381cbd68e0c80160a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/482/regulation/15) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-160e02a933009f7ad11de4edcb9eaea4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/482/regulation/16) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-e21606921b2e27b211016be92269f071]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/482/regulation/17) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-e968efcc2103d9c53333ac83e54e6fb6]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/nisr/2006/482/regulation/17/1) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/5)
+
+[^f00005]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-8d02958b6e616c993a95d0dcc561ea3f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/482/regulation/18) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-c2723ef26d41b2db9365c321db3ceeb2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/482/regulation/19) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-441c313788467b881a0f8ec2b834b1ca]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/482/regulation/20) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-c3a696f2f7a74683fec573760fd59d9b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/482/regulation/21) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-86272a545810c452e324522cb8168ddc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/482/regulation/22) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-ef2a1ec4f268c59e232f98dc9453ef35]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/482/regulation/23) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-423fce5e24415361115b7fd9986d502b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/482/regulation/24) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-b1868d19286d7025f84f80349add0d49]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/482/regulation/25) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-a48fa79b9f2003686632fcdc34d2508c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/482/regulation/26) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-d2aed6742c314a0183a0b58f56a2d97a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/482/regulation/27) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-2a6d6cf1dee40f2be7801f0e1352e3d4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/482/regulation/28) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-5034e66541c6db0972fcca3d698b3988]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/482/regulation/29) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00006]: Footnote: [S.I.1973/70 (N.I.2)](https://www.legislation.gov.uk/nisi/1973/70) to which there are amendments not relevant to these Regulations
+
+[^key-07ed00318d469e7d5bbb0e6c45b6e003]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/482/regulation/30) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-1175b3735c7aa25a2be07f85cc428beb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-4f30748bdb4f731e600188d3b0c9813d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00007]: Footnote: [S.I. 1982/712 (NI 9)](https://www.legislation.gov.uk/nisi/1982/712)
+
+[^key-0066cb8b77e1e24dbe92c27011efca96]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-f5aca245de6d48fc423dd2c93efe9cdf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-7d667199454981deca59402b6ca67549]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00008]: Footnote: [1972 c.9 (NI)](https://www.legislation.gov.uk/apni/1972/9)
+
+[^key-0125e9be953ab33ce8d1bec607b53476]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-0aef7dba6c271db256418cd41be655bd]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-19ccbdc0a2b00869a039253f3db0c170]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-ce7d0b1990290d359db8de9400022b02]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^f00009]: Footnote: [S.R.2005 No. 32](https://www.legislation.gov.uk/nisr/2005/32)
+
+[^key-a4939fb5db7a72955d9c7cca34a23dbc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-7ac0de20a4d6ebac91e7d2e070694d10]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-a941bf49a3e0cf6a85242d600b4f303b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-1ad440a8c5ca2d5f871f42ce69f3bf9c]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-8fe0f9611265b859d3fed4470ce28c99]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-349f007fece1cffb3ee8ef15170fe8c3]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+
+[^key-14a958b4494134aa7922d271703e8a8c]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/3) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/6)

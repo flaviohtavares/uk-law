@@ -1,0 +1,201 @@
+---
+title: The Financial Assistance (Coronavirus) (Airports) Regulations (Northern Ireland) 2020
+id: nisr/2020/342
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2020-12-17'
+text_date: '2021-03-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2020/342
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2020/342/pdfs/nisrem_20200342_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/342/pdfs/nisr_20200342_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/342/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Assistance (Coronavirus) (Airports) Regulations (Northern Ireland) 2020
+
+> Text as at 2021-03-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2020 No. 342
+
+Financial Assistance
+
+The Financial Assistance (Coronavirus) (Airports) Regulations (Northern Ireland) 2020
+
+Made
+
+17th December 2020
+
+Coming into operation
+
+21st December 2020
+
+The Department of Finance[^f00001] in exercise of the powers conferred by section 1(2) of the Financial Assistance (Northern Ireland) Act 2009[^f00002], makes the following Regulations:
+
+## 1. Citation and commencement[^key-9c20fafb3b341bc27a8c7e7b094b0b3d]
+
+These Regulations may be cited as The Financial Assistance (Coronavirus) (Airports) Regulations (Northern Ireland) 2020 and shall come into operation on 21 December 2020.
+
+## 2. The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020[^key-6e8db5c2ceba43e0ffbdca5b63ff561c]
+
+The Department of Finance makes the Scheme set out in the Schedule.
+
+Sealed with the Official Seal of the Department of Finance on 17 December 2020.
+
+(L.S.)
+
+Bill Pauley
+
+A senior officer of the Department of Finance
+
+Approved by the Executive Office
+
+Sealed with the Official Seal of the Executive Office on 17 December 2020.
+
+(L.S.)
+
+Neill Jackson
+
+A senior officer of the Executive Office
+
+## SCHEDULE — The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020
+
+Regulation 2
+
+### 1. Citation[^key-9278767dc5fc8eddb7e48b7a4c682c1a]
+
+This Scheme may be cited as The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020.
+
+### 2. Interpretation[^key-c9de93fe9b9c2c5afc5b867485f2e45c]
+
+In this Scheme:
+
+- “airport” means either of the airports mentioned in clause 3.
+- “Department” means the Department of Finance.
+- “monthly losses” for an airport means monthly losses for the airport as demonstrated by the airport operator’s standard company accounts in relation to ‘designated revenues’ and ‘designated costs’ for the airport.
+
+### 3. Purpose of this Scheme[^key-f79761e59e2bbd7e78256a43ea917f93]
+
+Support under this Scheme is to be provided to Belfast International Airport and Belfast City Airport by means of the provision of financial assistance to the respective operators.
+
+### 4. Support packages and support periods[^key-a7cae1cad98552f96e0181b3c8246f02]
+
+(1) Support is to be provided to each airport in two packages, as follows:
+
+- (a) under package one, for the period beginning on 1 September 2020 and ending on 31 December 2020;
+- (b) under package two, for the period beginning on 1 January 2021 and ending on 31 March 2021.
+
+(2) However, the total sum provided as support, under both packages combined, is not to exceed £10,030,000.00[^key-41124a0a172dd2d097b844687f339624] .
+
+### 5. Level of support—package one[^key-67ea1290437e8a3572338eae9cb3db02]
+
+(1) Support under package one for each airport in each of the 4 months September, October, November and December 2020 is to be no more than 70% of the monthly losses or estimated monthly losses for the airport for each month disclosed in the operator’s accounts.
+
+(2) However, the sum provided as support for either airport under package 1 is not to exceed the following amounts:
+
+- (a) to Belfast International Airport — £1.9m;
+- (b) to Belfast City Airport — £2.1m.
+
+### 6. Level of support—package two[^key-75292fd9aa8245ba5286d08083fb3d48]
+
+Support under package two for each airport in each of the 3 months January, February and March 2021 is to be limited to the monthly losses or estimated monthly losses for the airport for each month disclosed in the operator’s accounts, within the prevailing State aid parameters for that period, and at a level to be agreed by the Minister for Finance.
+
+### 7. Support not transferable[^key-56467a6a5e182373687b111e9413833f]
+
+Support for an airport is not transferable between months or between support packages.
+
+### 8. Conditions of continued support[^key-4e1f6613cfa6faa4608c8aca65458a3f]
+
+The continuation of support to an airport under either package is conditional on the airport’s operator complying with the following conditions:
+
+- (a) that the airport’s operator makes no staff of the airport redundant during a support period;
+- (b) that the airport’s operator does not pay a dividend to its shareholders, or make any divestment to its shareholders, during the period from when support begins and ending on 5th April 2022;
+- (c) that the operator provides the Department, on request, with copies of its audited accounts, certified by the operators auditor, and Department of Finance representatives as necessary, as true copies;
+- (d) that each airport remains open and maintains a level of service agreed between the airport’s operator and the Department.
+
+### 9. Termination of support[^key-1016b0ed683c77d54078606e8df52ac4]
+
+(1) The Department may terminate the provision of support to either airport under either package at any time by giving 14 days’ written notice to the airport’s operator.
+
+(2) In particular, the Department may terminate the provision of support to either airport if that airport returns to profitability within a support period.
+
+### 10. Recovery of support in certain circumstances[^key-82f3e1bd9252d20dd3d3ca4e705013e4]
+
+The Department may recover from the operator of either airport the amount of any support provided to the airport under this scheme if:
+
+- (a) the airport is sold within one year after the support of it under this Scheme ends (whether or not by being terminated under clause 9); or
+- (b) the Minister for Finance is satisfied that any accounts provided to the Department for the purposes of this Scheme were falsified or otherwise materially in error.
+
+EXPLANATORY NOTE
+
+(This note is not part of these Regulations)
+
+These Regulations provide for financial assistance (Coronavirus Financial Assistance) to be awarded to Belfast International Airport and Belfast City Airport by means of provision of financial assistance to the respective operators.
+
+Regulation 1 provides for citation and commencement.
+
+Regulation 2 provides for The Financial Assistance (Coronavirus) (Airports) (Northern Ireland) Scheme 2020 to be set out in the Schedule.
+
+Schedule
+
+Paragraph 1 provides for citation of the scheme.
+
+Paragraph 2 provides for interpretation to be applied in respect of the scheme.
+
+Paragraph 3 provides for the purpose of the scheme.
+
+Paragraph 4 provides an outline of the support packages and the support periods of the scheme.
+
+Paragraph 5 provides for the level of support under package one of the scheme.
+
+Paragraph 6 provides for the level of support under package two of the scheme.
+
+Paragraph 7 provides for a restriction that support is not transferable between months or support packages.
+
+Paragraph 8 provides for the conditions of continued support.
+
+Paragraph 9 permits termination of support by the Department under the conditions provided.
+
+Paragraph 10 provides for recovery of support by the Department under certain conditions.
+
+## Annotations
+
+[^f00001]: Footnote: The Department of Finance and Personnel was renamed the Department of Finance by section 1(4) of, and Schedule 1 to, the Departments Act (Northern Ireland) [2016 (c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
+
+[^f00002]: Footnote: [2009 c. 2](https://www.legislation.gov.uk/ukpga/2009/2)
+
+[^key-9c20fafb3b341bc27a8c7e7b094b0b3d]: Commencement: Reg. 1 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-6e8db5c2ceba43e0ffbdca5b63ff561c]: Commencement: Reg. 2 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-9278767dc5fc8eddb7e48b7a4c682c1a]: Commencement: Sch. para. 1 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-c9de93fe9b9c2c5afc5b867485f2e45c]: Commencement: Sch. para. 2 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-f79761e59e2bbd7e78256a43ea917f93]: Commencement: Sch. para. 3 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-a7cae1cad98552f96e0181b3c8246f02]: Commencement: Sch. para. 4 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-41124a0a172dd2d097b844687f339624]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2020/342/schedule/paragraph/4/2) substituted (31.3.2021) by [The Financial Assistance (Coronavirus) (Airports) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/90)](https://www.legislation.gov.uk/nisr/2021/90), [regs. 1](https://www.legislation.gov.uk/nisr/2021/90/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/90/regulation/3)
+
+[^key-67ea1290437e8a3572338eae9cb3db02]: Commencement: Sch. para. 5 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-75292fd9aa8245ba5286d08083fb3d48]: Commencement: Sch. para. 6 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-56467a6a5e182373687b111e9413833f]: Commencement: Sch. para. 7 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-4e1f6613cfa6faa4608c8aca65458a3f]: Commencement: Sch. para. 8 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-1016b0ed683c77d54078606e8df52ac4]: Commencement: Sch. para. 9 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)
+
+[^key-82f3e1bd9252d20dd3d3ca4e705013e4]: Commencement: Sch. para. 10 in operation at 21.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/342/regulation/1)

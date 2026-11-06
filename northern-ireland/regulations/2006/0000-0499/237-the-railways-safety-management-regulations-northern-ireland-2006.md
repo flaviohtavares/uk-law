@@ -1,0 +1,1334 @@
+---
+title: THE RAILWAYS (SAFETY MANAGEMENT) REGULATIONS (NORTHERN IRELAND) 2006
+id: nisr/2006/237
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-05-25'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/237
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/237/pdfs/nisr_20060237_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/237/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# THE RAILWAYS (SAFETY MANAGEMENT) REGULATIONS (NORTHERN IRELAND) 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 237
+
+HEALTH AND SAFETY
+
+TRANSPORT
+
+THE RAILWAYS (SAFETY MANAGEMENT) REGULATIONS (NORTHERN IRELAND) 2006
+
+Made
+
+25th May 2006
+
+Coming into operation
+
+30th June 2006
+
+The Department for Regional Development, being the Department concerned [^f00001],makes the following Regulations in exercise of the powers conferred by sections 17(1), (2), (4), (5), and (6)(b) and 55(2) of, and paragraphs 1(1)(a) and (c),(2) 5, 6, 7(1), 13, 14(1) and 15, of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978 [^f00002]
+
+In accordance with Article 46(1)[^f00003] of that Order the Department has consulted with the Health and Safety Executive for Northern Ireland [^f00004] and such other bodies as appeared to the Department to be appropriate.
+
+## PART I — INTRODUCTION
+
+### 1. Citation and commencement[^key-b6acf0e841c12c704be00017e6392fed]
+
+These Regulations may be cited as the Railways (Safety Management) Regulations (Northern Ireland) 2006 and shall come into force on 30<sup>th</sup> June 2006.
+
+### 2. Interpretation[^key-c0cfeff252e1c1001879cddf11c9dc6f]
+
+(1) In these Regulations—
+
+- “building operation” means—
+  - (a) the construction, structural alteration, repair or maintenance of a building and maintenance shall include repointing, redecoration and external cleaning of the structure;
+  - (b) demolition of a building; or
+  - (c) preparation for and laying the foundation of an intended building,
+
+  but does not include any operation which is a work of engineering construction;
+- “common safety methods” (CSMs“) means the methods to be developed, pursuant to article 6 of the Directive, to describe how—
+  - (a) safety levels;
+  - (b) achievement of safety targets; and
+  - (c) compliance with other safety requirements,
+
+  are assessed, as revised and reissued from time to time;
+- “[^key-017296ca93e3632c38bcb295495f4899]**common safety targets**” (“**CSTs**”) means the minimum safety levels as set out in paragraph 17 of Schedule 7, that must be reached by the railway system, or parts of the railway system, expressed in risk categories as defined in paragraph 2 of Schedule 7;
+- “competent person” means, except for the purposes of Part 4, a person who—
+  - (a) has sufficient skills, knowledge, experience and resources to undertake the safety verification in relation to which he is appointed;
+  - (b) has not borne such responsibility in relation to any of the matters he has to consider in undertaking that safety verification that might compromise his objectivity; and
+  - (c) is sufficiently independent of a judgment system, or a part thereof, which has borne responsibility for any of the matters he has to consider in undertaking the safety verification, to ensure that he will be objective in carrying out the safety verification for which he is appointed;
+- “conventional Directive” means Council Directive 2001/16 of the European Parliament and of the Council of 19<sup>th</sup> March 2001 on the interoperability of the conventional rail system [^f00005];
+- “[^key-cf4d5344a2a6b57f49eb7858bb305c5a]**Department**” means the Department for Infrastructure established by article 3(1) of the Departments (Northern Ireland) Order 1999 and renamed by section 1(6) of the Departments Act (Northern Ireland) 2016;)
+- “the Directive” means[^key-f4d69bf08b945d29a006e3a70f3e5c8f] [Directive 2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of the European Parliament and of the Council on safety on the Community’s railways and amending Council [Directive 95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) on the licensing of railway undertakings and [Directive 2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification as amended by—
+  - (a) The Interoperability Directive;
+  - (b) [Directive 2008/110/EC](https://www.legislation.gov.uk/european/directive/2008/0110) of the European Parliament and of the Council amending [Directive 2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) on safety on the Community’s railways;
+  - (c) Commission [Directive 2009/149/EC](https://www.legislation.gov.uk/european/directive/2009/0149) amending [Directive 2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of the European Parliament and of the Council as regards Common Safety Indicators and common methods to calculate accident costs; and
+  - (d) Commission [Directive 2014/88/EU](https://www.legislation.gov.uk/european/directive/2014/0088) amending [Directive 2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of the European Parliament and of the Council as regards common safety indicators and common methods of calculating accident costs.
+- “engineering possession” means a section of track which is closed to normal traffic and where the closure is for the purpose of carrying out maintenance which shall include any repair, alteration, reconditioning, examination or testing of infrastructure;
+- “entity in charge of maintenance” means an entity in charge of maintenance of a vehicle, and includes a transport undertaking, an infrastructure manager or a keeper;[^key-ac29b213d748e395800e78510b6654e5]
+- [^key-e9cae6f4a9a390076d0029d30712474e]...<sup></sup>
+- “heritage vehicle” for the purpose of these regulations means rolling stock which is operated to—[^key-7f79b94903c27c2223d9e9de557360ee]
+  - (a) preserve, re-create or simulate railway vehicles of the past; or
+  - (b) demonstrate or operate historical or special types of motive power or rolling stock;
+
+  And is exclusively or primarily used for tourist, educational or recreational purposes
+- “infrastructure” means fixed assets used for the operation of any railway which shall include, without prejudice to the generality of the foregoing—
+  - (a) its permanent way;
+  - (b) any station; and
+  - (c) plant used for signalling or exclusively for supplying electricity for operational purposes to the railway system;
+- “infrastructure manager” means the person who—
+  - (a) in relation to infrastructure is responsible for developing and maintaining that infrastructure, except that it shall not include any person solely on the basis that he carries out the construction of that infrastructure or its maintenance, repair or alteration; and
+  - (b) manages and uses that infrastructure, or permits it to be used, for the operation of a vehicle;
+- “Interoperability Directive” means Directive[^key-bb9829adda7a9c3902bb3e06549cd396] [2008/57/EC](https://www.legislation.gov.uk/european/directive/2008/0057) of the European Parliament and of the Council of 17th June 2008 on the interoperability of the rail system within the Community (Recast);
+- “Interoperability Regulations” means The Railways (Interoperability) Regulations 2006; [^f00007]
+- “keeper” means the person that, being the owner of a vehicle or having the right to use it, exploits the vehicle as a means of transport and is registered as being a keeper in the National Vehicle Register;[^key-290d22219ee87eff6140f18ec5c25497]
+- “maintenance file” means all the technical and management information that is necessary to carry out the maintenance of a vehicle;[^key-1b966a0cb1b79208ac0f82256e829b37]
+- “maintenance rules” means any rules, applicable to the whole of Northern Ireland, which set out requirements relating to the maintenance of vehicles;
+- “material” includes plant;
+- “national safety rules” means any legislation and other requirements—
+  - (a) applicable to Northern Ireland; and
+  - (b) which contain requirements (including common operating rules) relating to railway safety,
+
+  except that where the requirements in sub-paragraph (b) consist of common operating rules of the railway it shall not include such rules which regulate matters which are covered by a TSI;
+- “National Vehicle Register” means the register of vehicles authorised in Northern Ireland, required by regulation 33 of the Interoperability Regulations;[^key-b73c3da56f34b0862452ad092ea4ec60]
+- “new” in relation to regulation 4 means new to any railway;
+- “[^key-1e683ff89807bb162e63fb2210d78ce9]**Office of Rail and Road**” means the body established by section 15 of the Railways and Transport Safety Act 2003 and renamed by the Office of Rail Regulation (Change of Name) Regulations 2006;
+- “Part A of a safety certificate” means that part of a safety certificate certifying the matters set out in regulation 7(4)(b)(i);
+- “Part B of a safety certificate” means that part of a safety certificate certifying the matters set out in regulation 7(4)(b)(ii);
+- “railway” means a system of transport employing parallel rails which—
+  - (a) provide support and guidance for vehicles carried on flanged wheels, and
+  - (b) form a track which is of a gauge of at least 350 millimetres,
+
+  except that it does not include any part which is located within a maintenance or goods depot.
+- “railway operator” means a person who is an infrastructure manager or who operates trains;
+- “railway safety application” means an application for—
+  - (a) a safety certificate or an amended safety certificate; or
+  - (b) a safety authorisation or an amended safety authorisation,
+
+  made in relation to an operation on any railway;
+- “railway system” means any railway and the management and operation of that railway network as a whole;
+- “relevant infrastructure manager” means the infrastructure manager for any infrastructure in relation to the operation in question;
+- “relevant infrastructure or vehicle” means any new or altered–—
+  - (a) infrastructure; or
+  - (b) vehicle,
+
+  falling within regulation 4(4) and related expressions shall be construed accordingly;
+- “responsible person” means in relation to any relevant infrastructure or vehicle, any person who—
+  - (a) has contracted with another person for the manufacture or construction by that other person of that infrastructure or vehicle; or
+  - (b) manufactures or constructs that infrastructure or vehicle for its own use, or for sale to, or use by, another person but not where he is contracted to do so by a person falling under sub–paragraph (a),
+
+  and includes an authorised representative established in Northern Ireland of such a person.
+- “risk” means in Parts 1 and 2 a risk to the safety of the person;
+- “rolling stock” means any carriage, wagon or other vehicle used on track and includes a locomotive;
+- “safety authorisation” means a safety authorisation issued by the Department in accordance with regulations 8 or 10;
+- “safety authority” means—[^key-9503ece19497fd50a94eb9bf5c8b7181]
+  - (a) as regards a member State of the European Union, the national safety authority established in that State in accordance with article 16 of Directive EU 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety ;
+  - (b) as regards Great Britain, the Office of Rail and Road;
+  - (c) as regards Northern Ireland, the Department;
+- “safety certificate” means a safety certificate issued by the Department in accordance with regulations 5 or 7;
+- “safety management system” means the organisation and arrangements established by a railway operator to ensure the safe management of its operation;
+- “significant safety risk” means, in relation to new or altered infrastructure or a new or altered vehicle the design or construction of which incorporates significant changes compared to any infrastructure or vehicle already in use on any railway, the capability of significantly increasing an existing risk or creating a significant safety risk to—
+  - (a) passengers on any railway; or
+  - (b) members of the public in any location where the railway operates and to which the public have access (including a place to which the public has access only on making payment), except a location which is a crossing subject to an Order made under section 66(4) of the Transport Act (Northern Ireland) 1967[^f00008]
+- “station” means any railway passenger station, halt or terminal, but does not include any permanent way or plant used for signalling; or exclusively for supplying electricity for operational purposes to any railway;
+- “technical specifications for interoperability” (“TSIs”) means technical specifications for interoperability which are published in the Official Journal of the European Union[^key-6c5cd71d383cd0acafdc3058a380b524] pursuant to—
+  - (a) article 6.1 of the high–speed Directive; [^key-6aca2f1340131f38037bc172099688bc]...
+  - (b) article 6.1 of the Conventional Directive, or[^key-37712b1897a3a31ec84c9d315da6100f]
+  - (c) Article 6.1 of Directive[^key-b441e15f35ae672f4443edeac1ae267a] [2008/57/EC](https://www.legislation.gov.uk/european/directive/2008/0057) of the European Parliament and of the Council of 17<sup>th</sup> June 2008 on the interoperability of the rail system within the Community,
+
+  and in force;
+- “train” includes any rolling stock;
+- “vehicle”—[^key-b757736a135f3a2746ec2b8e630f315b]
+  - (a) includes a mobile traction unit; and
+  - (b) in respect of the railway system, means a vehicle suitable for circulation on its own wheels on railway lines, with or without traction, and composed of one or more structural and functional subsystems or parts of such subsystems;
+- “work of engineering construction” means the—
+  - (a) construction of any line or siding otherwise than on any existing railway; and
+  - (b) construction, structural alteration, repair (including repointing and repainting) or demolition or any tunnel, bridge or viaduct except where carried on upon any railway; and
+- “writing” apart from its usual meaning includes any text transmitted using electronic communications that is received, or accessible by the person to whom it is sent, in eligible form.
+
+(2) Any reference in these Regulations to a person operating a train or a vehicle is a reference to the person operating the train or vehicle for the time being in the course of a business or other undertaking carried on by him, whether for profit or not, but it does not include a self–employed person by reason only that he drives or otherwise controls the movement of a train or vehicle.
+
+## PART II — SAFETY MANAGEMENT, CERTIFICATION AND AUTHORISATION
+
+### 3. Use of infrastructure[^key-7a6e9fbd592e12aca2ade1b178127f10]
+
+(1) After 30<sup>th</sup> June 2006 no person shall operate a train in relation to any infrastructure unless—
+
+- (a) he has established and is maintaining a safety management system which meets the requirements set out in regulation 4(1) to (3); and
+- (b) he holds a current safety certificate in relation to that operation,
+
+except to the extent that he is doing so within an engineering possession.
+
+(2) After 30<sup>th</sup> June 2006 no person who is responsible for developing and maintaining infrastructure shall manage and use it, or permit it to be used, for the operation of trains unless—
+
+- (a) he has established and is maintaining a safety management system which meets the requirements referred to in regulation 4(4);
+- (b) he holds a current safety authorisation in relation to that infrastructure; and
+- (c) where he is using it or permitting such use, the person who is to use the infrastructure has complied with paragraph (1)(b)
+
+(3) Paragraphs (1) and (2) shall not apply where the operation in question is only carried out on a railway on no part of which there is a permitted maximum speed exceeding 40 kilometres per hour and where the operator has furnished the Department with a risk assessment and the Department has approved that risk assessment.
+
+### 4. Safety management system for railways[^key-444cdce0dba943c4988100d23bfcedc7]
+
+(1) The requirements for a safety management system referred to in regulation 3(1)(a) are that—
+
+- (a) subject to paragraph (2), it is established to ensure that any railway system—
+  - (i) can achieve the CSTs; and
+  - (ii) is in conformity with relevant national safety rules and relevant safety requirements laid down in TSIs;
+- (b) it applies the relevant parts of CSMs;
+- (c) it meets the requirements and contains the elements set out in Schedule 1, adapted to the character, extent and other characteristics of the operation in question;
+- (d) subject to paragraph (2), it ensures the control of all categories of risk including new or existing risk associated with the operation in question which, without prejudice to the generality of the foregoing, shall include such risks relating to the—
+  - (i) supply of maintenance and material;
+  - (ii) use of contractors; and
+  - (iii) placing in service of new or altered vehicles the design or construction of which incorporates significant changes compared to any vehicle already in use on any railway and which changes would be capable of significantly increasing an existing risk or creating a significant safety risk;
+- (e) it takes into account, where appropriate and reasonable, the risks arising as a result of activities carried on by other persons; and
+- (f) all parts of it are documented.
+
+(2) The requirements in paragraph (1)(a) and (d) shall be met where the safety management system of a railway operator or of an applicant for a safety certificate or a safety authorisation taken with that of any relevant railway operator is capable of meeting the requirements of the paragraph in question.
+
+(3) In paragraph (2), “relevant railway operator” means another railway operator whose operation is capable of materially affecting the safety of the operation carried on by the first operator.
+
+(4) In paragraph 1(d)(iii) where such new or altered vehicles are intended to be first taken into service, then before that taking into service any railway operator shall ensure that it has—
+
+- (a) an established written safety verification scheme which meets the requirements and contains the elements set out in Schedule 4; and
+- (b) appointed a competent person to undertake that safety verification, and the competent person has undertaken that safety verification in relation to the new or altered vehicles.
+
+(5) Where a new or altered vehicle has been authorised under [^key-6a42e5b6681fd568e9579e3240ff709d]... the Interoperability Regulations for the placing into service on any railway, that authorisation shall be treated as satisfying the requirements of paragraph (4).
+
+(6) In this regulation placing in service shall mean first placed in service for the provision of any railway service, and in ascertaining when this takes place no regard shall be had to any trials or testing that takes place to the relevant vehicle.
+
+(7) The requirements for a safety management system referred to in regulation 3(2)(a) are the requirements in paragraphs (1) to (6) save that any reference to new or altered vehicles in those paragraphs shall be replaced with a reference to new or altered infrastructure and that it—
+
+- (a) ensures the control of all categories of risk associated with the placing into service of new or altered infrastructure the design or construction of which incorporates significant changes compared to any infrastructure already in use on any railway and which changes would be capable of significantly increasing an existing risk or creating a significant safety risk;
+- (b) takes into account the effects of operations of railway operators; and
+- (c) contains provisions to ensure that the way in which the infrastructure manager carries out its operation makes it possible for any railway operator to operate in accordance with—
+  - (i) relevant TSIs and national safety rules; and
+  - (ii) the means adopted by the railway operator to meet the requirements referred to in regulation 5(4), of which the Department accepted that there was sufficient evidence upon issue or amendment of its safety certificate pursuant to these Regulations; and
+- (d) aims to co–ordinate the emergency procedures of the infrastructure manager or of the applicant for a safety authorisation with those of any railway operator,
+
+and in each case the requirements in sub–paragraphs (a) to (d) shall only apply in relation to any railway operator that operate or will operate a train in relation to the infrastructure of the infrastructure manager or of the applicant for a safety authorisation in question.
+
+(8)[^key-2a1ed2df887a8d6a79edb2a0597f1ae6] Paragraph (5) does not apply in respect of an authorisation deemed to be given under the Interoperability Regulations by operation of regulation 44 of those Regulations.
+
+### 5. Safety certificate[^key-da361ec235a3849d2ad76c3c9e8d402c]
+
+(1) An application for a first safety certificate in respect of the operation of a train shall—
+
+- (a) be made to the Department; and
+- (b) subject to regulation 15(1) and (2), include the information set out in Schedule 2; and shall
+- (c) clearly indicate in respect of which part of the safety certificate any information is provided.
+
+(2) Where—
+
+- (a) an applicant sends to the Department the matters specified in paragraphs 1(a) and 1(b)(i) of Schedule 2; and
+- (b) the Department is satisfied that the certificate in question is for an equivalent operation to that in respect of which the application is made,
+
+then that certificate shall be deemed to be Part A of the safety certificate for the operation in respect of which the application is made.
+
+(3) Subject to regulation 15(6), within four months of the date of receipt of the application, the Department shall—
+
+- (a) issue a safety certificate for the operation; or
+- (b) notify the applicant that it has refused the application,
+
+and in either case shall give reasons for its decision.
+
+(4) A safety certificate shall—
+
+- (a) specify the type and extent of the operation in respect of which it is issued; and
+- (b) certify acceptance by the Department that the applicant has provided sufficient evidence—
+  - (i) subject to paragraph (2), to demonstrate that the safety management system of the applicant meets the requirements set out in regulations 4(1) to (3) in respect of an application for a safety certificate and
+  - (ii) of the provisions adopted by the applicant to meet the requirements that are necessary to ensure safe operation on any railway,
+
+and reference the information on which the acceptance is based; and
+
+- (c) be valid for no longer than five years from the date of issue and the period of validity shall be indicated in the safety certificate and where Part A of the certificate falls within paragraph 5(2) that period shall expire on or before the date of expiry of the certificate which is deemed to be the Part A.
+
+(5) In paragraph (4)(b)(ii) “requirements” means the TSIs, national safety rules and other safety requirements referred to in paragraph 2(a) of Schedule 2.
+
+### 6. Amended safety certificate[^key-716fcc1ea825942c0d51badd71168a49]
+
+(1) Where it is proposed that the type or extent of an operation in respect of which a safety certificate has been issued is to be substantially changed then the holder of the safety certificate shall apply to the Department for the safety certificate to be amended accordingly and the substantial change shall not be made until the safety certificate is so amended.
+
+(2) An application for an amended safety certificate under this regulation shall—
+
+- (a) provide details of the change proposed;
+- (b) provide details of any consequential changes to any information sent to the Department in respect of the operation which remains relevant to that operation; and
+- (c) clearly indicate in respect of which part of the safety certificate any information is provided.
+
+(3) Where Part A of a safety certificate in respect of which an application is made falls within regulation 5(2) then the Department shall—
+
+- (a) consider whether the Part A in question would still be for an equivalent operation if the change were made; and
+- (b) if it considers that it would not be equivalent, notify the applicant in accordance with paragraph (4) that it has refused the application and that he should apply for a new safety certificate under regulation 5 if he wants to make the proposed change,
+
+except that, in relation to Part B of the safety certificate, he only need provide the details set out in paragraph (2).
+
+(4) Subject to regulation 15(6), within four months of the date of receipt of the application the Department shall—
+
+- (a) issue a notice making any necessary amendments to the matters set out in the safety certificate; or
+- (b) notify the applicant that it has refused the application,
+
+and in either case shall give reasons for its decision.
+
+### 7. Further safety certificate[^key-c8448c624b96c3557e8179f65883f161]
+
+(1) Before the expiry of a safety certificate the holder of that safety certificate may apply to the Department for a further safety certificate to be issued for the operation in question.
+
+(2) An application for a further safety certificate shall set out particulars of any changes to any information sent to the Department in respect of the operation in question which remains relevant to that operation.
+
+(3) Regulation 5(1)(c) and (2) to (4) shall apply to an application for and the issuing of a further safety certificate as they apply to an application for and the issuing of a first safety certificate under regulation 5.
+
+### 7A. Format for safety certificates and applications[^key-bfec0c2c6c294f1bc156c5a0c998d610]
+
+Schedule 6 (format for safety certificates and applications) has effect.
+
+### 8. Safety authorisation[^key-92a6ca5ded66eee4cb9a0f129cb2ae42]
+
+(1) An application for a first safety authorisation in respect of infrastructure shall—
+
+- (a) be made to the Department;
+- (b) subject to regulation 15(1) and (2), set out particulars of—
+  - (i) the infrastructure;
+  - (ii) how the safety management system of the applicant meets the requirements in regulation 4(7); and
+  - (iii) how the provisions adopted by the applicant meet any requirements which are necessary for the safe design, maintenance and operation of the infrastructure.
+
+(2) Subject to regulation 15(6), within four months of the date of receipt of the application the Department shall—
+
+- (a) issue a safety authorisation in relation to the infrastructure; or
+- (b) notify the applicant that it has refused the application; and
+- (c) in either case shall give reasons for its decision.
+
+(3) A safety authorisation shall—
+
+- (a) specify the infrastructure in respect of which the authorisation is issued;
+- (b) accept that the applicant has provided sufficient evidence to demonstrate that the safety management system of the applicant meets the requirements referred to in regulation 5(4).
+- (c) accept that the applicant has provided sufficient evidence of the provisions adopted by the applicant to meet any requirements that are necessary for the safe design, maintenance and operation of the infrastructure;
+- (d) reference the information on which the acceptance referred to in sub-paragraphs (b) and (c) is based; and
+- (e) be valid for no longer than five years from the date of issue and the period of validity shall be indicated in the safety authorisation.
+
+### 9. Amended safety authorisation[^key-125408d2b5c9b55ba4dfd460647e204d]
+
+(1) Where it is proposed that a substantial change is to be made to—
+
+- (a) the infrastructure in respect of which a safety authorisation has been issued;
+- (b) any energy supply, not falling within sub-paragraph (a), which is used in connection with the infrastructure; or
+- (c) the principles of operation and maintenance of such infrastructure or energy supply,
+
+then the holder of the safety authorisation shall apply to the Department for the safety authorisation to be amended accordingly and the substantial change shall not be made until the safety authorisation is so amended.
+
+(2) An application for an amended safety authorisation under this regulation shall provide details of—
+
+- (a) the substantial changes proposed; and
+- (b) any consequential changes to any information sent to the Department in respect of the operation in question which remains relevant to that operation.
+
+(3) Subject to regulation 15(6), within four months of the date of receipt of the application the Department shall—
+
+- (a) issue a notice making any necessary amendments to the matters set out in the safety authorisation; or
+- (b) notify the applicant that it has refused the application,
+
+and in either case shall give reasons for its decision.
+
+### 10. Further safety authorisation[^key-c6b62430f3b728fb7d9648f3a0b6c235]
+
+(1) Before the expiry of a safety authorisation the holder of that safety authorisation may apply to the Department for a further safety authorisation to be issued for the infrastructure.
+
+(2) An application for a further safety authorisation shall set out particulars of any changes to any information sent to the Department in respect of the operation in question which remains relevant to that operation.
+
+(3) Regulations 8(2) and (3) shall apply to an application for and the issuing of a further safety authorisation as they apply to an application for and the issuing of a first safety authorisation under regulation 8.
+
+### 11. Notice of changes by holder of a safety certificate or a safety authorisation[^key-9109a424472a80c633a78220aec16001]
+
+(1) The holder of a safety certificate or a safety authorisation shall, without delay, notify the Department—
+
+- (a) of any major changes—
+  - (i) to the means by which he meets the requirements relating to the safety management system as set out in—
+    - (aa) regulation 4(1) to (3) in relation to an operation of a train on any railway; or
+    - (bb) regulation 4(4) in relation to an operation of an infrastructure manager on any railway; or
+  - (ii) in the case of a railway operator, to the provisions adopted by him to meet any requirements necessary to ensure safe operation on any railway in relation to the operation in question; or
+  - (iii) in the case of an infrastructure manager, to the provisions adopted by him to meet any requirements that are necessary for the safe design, maintenance and operation of the infrastructure;
+- (b) when persons first commence work directly relating to the operation which is of a type which has not previously been carried out in relation to that operation; or
+- (c) when types of vehicle which are new to the operation in question are first introduced.
+
+### 12. Direction to apply for an amended safety certificate or safety authorisation[^key-292c32baaff637c01dad22ac5ff535a9]
+
+(1) Where there is a substantial change to any of the relevant statutory provisions which make provision in relation to the safety of railways then the Department may direct the holder of a safety certificate or a safety authorisation to apply to the Department for an amendment to its safety certificate or safety authorisation.
+
+(2) A direction issued under paragraph (1) shall—
+
+- (a) state the reasons why the Department considers that it is necessary for any railway operator to apply for an amended safety certificate or safety authorisation;
+- (b) identify the information—
+  - (i) on the basis of which the Department’s acceptance referred to in regulation 5(4) or 8(3) was made upon issue or amendment of the safety certificate or safety authorisation; or
+  - (ii) notified to the Department under regulation 11,
+
+  which it considers will have to be changed; and
+- (c) specify the period, being not less than 28 days from the date of issue of the direction, within which the application shall be sent to the Department.
+
+(3) An application for an amended safety certificate or safety authorisation pursuant to this regulation shall provide details of any changes to any information—
+
+- (a) sent to the Department in respect of the operation in question which remains relevant to that operation; and
+- (b) which is consequential upon the relevant change to the relevant statutory provisions.
+
+(4) Regulation 6(2)(c) and (4) shall apply to an application for and the issuing of a notice of amendment to safety certificate under this regulation as they apply to an application for and issuing of an amendment to a safety certificate under regulation 6.
+
+(5) Regulation 9(3) shall apply to an application for and the issuing of a notice of amendment to a safety authorisation under this regulation as it applies to an application for and issuing of an amendment to a safety authorisation under regulation 9.
+
+### 13. Revocation of safety certificate[^key-311d93903912a6e9fc4706378fca2cdd]
+
+(1) The Department shall revoke—
+
+- (a) either Part A or Part B of a safety certificate if it is satisfied that the holder is no longer satisfying the conditions of that part of the safety certificate and that there is a significant risk arising from the result;
+- (b) a safety certificate if it is satisfied that the holder—
+  - (i) is no longer satisfying the conditions of that safety certificate and that there is a significant risk arising as a result; or
+  - (ii) is not operating a vehicle in relation to any infrastructure on any railway as intended pursuant to that safety certificate and has not done so throughout the period of one year commencing with the date of issue of the safety certificate by the Department,
+
+  except that this paragraph shall not apply in relation to Part A of a safety certificate where it is deemed to be such a Part A in accordance with regulation 5(2).
+
+(2) In this regulation, “conditions” means in relation to—
+
+- (a) Part A of a safety certificate, any part of the requirements relating to the safety management system set out in regulation 4(1) to (3) in relation to an operation carried out on any railway;
+- (b) Part B of a safety certificate, that the provisions adopted by the applicant are sufficient to meet any requirements that are necessary to ensure safe operation on any railway in relation to the operation; or
+- (c) a safety certificate, the matters referred to in sub-paragraphs (a) and (b).
+
+(3) Before revoking any safety certificate or Part A or B of it, the Department shall—
+
+- (a) notify the holder that—
+  - (i) it is considering revoking that safety certificate or Part A or B of it and the reasons why;
+  - (ii) within a period specified in the notice, which shall be not less than 28 days, the holder may make representations in writing to the Department or, if the holder so requests, may make oral representations to the Department; and
+- (b) consider any representations which are duly made and not withdrawn.
+
+(4) Where the Department revokes a safety certificate or Part A or Part B of it, it shall send to the holder with the notice of revocation a statement of the reasons why.
+
+(5) Where—
+
+- (a) the Department revokes Part B of a safety certificate; and
+- (b) Part A of that safety certificate is deemed to be Part A of a safety certificate pursuant to regulation 5(2) and was issued by the safety authority in a member State of the European Union[^key-1114b9a378c29b30ec34a7f099a83ca1] or in Great Britain.
+
+then the Department shall notify that safety authority as soon as reasonably possible of that revocation.
+
+### 14. Revocation of safety authorisation[^key-2a7918d022e27ea392420915ac0884d2]
+
+(1) The Department shall revoke a safety authorisation if it is satisfied that the holder is no longer satisfying the conditions of that safety authorisation and there is a significant risk arising as a result.
+
+(2) In this regulation, “conditions” means—
+
+- (a) any part of the requirements relating to the safety management system referred to in regulation 4(4) in relation to an operation carried out on any railway;
+- (b) that the provisions adopted by the applicant are sufficient to meet any requirements that are necessary for the safe design, maintenance and operation of the infrastructure.
+
+(3) Before revoking any safety authorisation, the Department shall—
+
+- (a) notify the holder that—
+  - (i) it is considering revoking that safety authorisation and the reasons why;
+  - (ii) within a period specified in the notice, which shall be not less than 28 days, the holder may make representations in writing to the Department or, if the holder so requests, may make oral representations to the Department; and
+- (b) consider any representations which are duly made and not withdrawn.
+
+(4) Where the Department revokes a safety authorisation, it shall send to the holder with the notice of revocation a statement of the reasons why.
+
+### 15. General provisions relating to safety certificates and safety authorisations[^key-45758a019c844443f486deeda4b60823]
+
+(1) A railway operator may make one application for an operation in relation to which he requires both a safety certificate and a safety authorisation or an amended safety certificate and an amended safety authorisation but—
+
+- (a) such application shall be split into separate parts relating to the safety authorisation and the safety certificate; and
+- (b) these Regulations shall apply to those parts as if they were an application for a safety authorisation and a safety certificate or an amended safety authorisation and an amended safety certificate,
+
+except that where the same information is required it need not be stated twice.
+
+(2) Where—
+
+- (a) an applicant sends—
+  - (i) an application for a safety certificate or authorisation, an amended safety certificate or safety authorisation; or
+  - (ii) further information to the Department pursuant to paragraph (4); or
+- (b) the holder of a safety certificate or a safety authorisation sends a notice pursuant to regulation 11,
+
+then he shall at the same time either copy it to any affected party or notify any affected party without delay that the application or further information has been sent and of the address of the website where those documents may be accessed and how they may be accessed and, in either case, shall notify such a party, where the document in question is an application, of the time for making representations to the Department pursuant to paragraph (5).
+
+(3) Where the Department issues a—
+
+- (a) safety certificate or safety authorisation;
+- (b) notice amending a safety certificate or safety authorisation;
+- (c) notice refusing an application for a safety certificate or a safety authorisation or an amended safety certificate or safety authorisation;
+- (d) direction to apply for an amended safety certificate or safety authorisation;
+- (e) notice that it is considering revoking a safety certificate or a safety authorisation; or
+- (f) notice revoking a safety certificate or safety authorisation,
+
+then the Department shall at the same time either copy it and the reasons given for the Department’s decision to any affected party or notify any affected party that the relevant document has been issued and of the address of the website where those documents and the reasons given for the decision may be accessed and how they may be accessed and, in either case, shall notify such a party, where the document in question is a notice that it is considering revocation, as mentioned in sub-paragraph (e), of the time for making representations to the Department pursuant to paragraph (5).
+
+(4) The Department may upon receipt of—
+
+- (a) an application for a safety certificate or safety authorisation;
+- (b) an application for an amended safety certificate or safety authorisation;
+- (c) any further information requested under this paragraph,
+
+request as soon as reasonably possible such further information as it may reasonably require and the applicant shall provide such information as soon as reasonably possible.
+
+(5) Where an affected party receives a copy of an application or a notice relating to revocation pursuant to paragraph (2)(a) or (3)(e) then—
+
+- (a) he may make any representations in writing to the Department which are relevant to the application or notice, within 28 days of the date of issue of the application or notice in question; and
+- (b) the Department shall consider any such representations in making its decision.
+
+(6) The period of 4 months for the Department to make a decision referred to in regulations 5(3), 6(4), 8(2) and 9(3) shall not start to run—
+
+- (a) until the expiry of the 28 day period referred to in paragraph (5); or
+- (b) until the date of receipt of the last information requested pursuant to paragraph (4);
+
+whichever is the later and in any event shall not start to run until 31 October 2006.
+
+(7) An employer who makes an application for a safety certificate or safety authorisation, an amended safety certificate or safety authorisation or sends a notice to the Department under regulation 11 shall, in relation to its preparation, consult—
+
+- (a) safety representatives within the meaning of regulation 2(1) of the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979[^f00009]; and
+- (b) such other employees as he is required to consult by virtue of regulation 3 of the Health and Safety (Consultation with Employees) Regulations (Northern Ireland) 1996[^f00010].
+
+(8) In this regulation, “affected party” means for a document sent or issued in relation to—
+
+- (a) a safety certificate or an application for a safety certificate—
+  - (i) any infrastructure manager; and
+  - (ii) a trade union which is a recognised trade union within the meaning of regulation 2(1) of the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979) in relation to employees of the operator or applicant employed in relation to the operation in question;
+- (b) a safety authorisation or an application for a safety authorisation—
+  - (i) any railway operator who is or will be operating on the infrastructure of the applicant or infrastructure manager in question;
+  - (ii) any infrastructure manager who manages infrastructure which interfaces or will interface with the infrastructure of the infrastructure manager in question; and
+  - (iii) any person falling within paragraph (8)(a)(ii) or (iii).
+
+### 16. Notification to the Office of Rail and Road regarding safety certificates and safety authorisations relating to the railway system[^key-fb11b6d9ae3695e5d999955ac9edfc13][^key-5ee108daad47d510cb2c17ae6b5bc02c]
+
+(1) The Department shall notify the Office of Rail and Road[^key-74b58054da5e34c6f4a38fcf13921097] of the issuing, amendment or revocation of—
+
+- (a) Part A of a safety certificate; or
+- (b) a safety authorisation,
+
+pursuant to these Regulations within one month of such issue, amendment or revocation.
+
+(2) A notice under paragraph (1) shall include the following information in relation to the safety certificate or safety authorisation—
+
+- (a) the name and address of the holder;
+- (b) its date of issue and period of validity;
+- (c) the operation or infrastructure in relation to which it was issued; and
+- (d) where it relates to a revocation, the reasons for that decision.
+
+### 16AA. Maintenance of vehicles on the railway system[^key-6275c3c357adf733459d2b221377ab29]
+
+(1) No person may place in service or use a vehicle on the railway system unless that vehicle has an entity in charge of maintenance assigned to it, and that entity is registered as such in the National Vehicle Register.
+
+(2) Each entity in charge of maintenance must ensure, by means of a system of maintenance, that a vehicle for which it is in charge of maintenance is in a safe state of running.
+
+(3) The requirements for a system of maintenance referred to in paragraph (2) are that a vehicle must be maintained in accordance with—
+
+- (a) the maintenance file for the vehicle;
+- (b) applicable maintenance rules; and
+- (c) applicable TSIs.
+
+(4) This Regulation does not apply to heritage vehicles.
+
+## PART III — GENERAL DUTIES
+
+### 17. Risk assessment[^key-f941a66f2dd41dbcf041f7301a6b0779]
+
+(1) A railway operator shall—
+
+- (a) make a suitable and sufficient assessment of the risks to the safety of any persons for the purpose of identifying the measures he needs to take to ensure safe operation of the railway insofar as this is affected by his operation; and
+- (b) implement the measures referred to in sub–paragraph (a).
+
+(2) When carrying out an assessment or a review under paragraph (1) or (3), a railway operator shall apply the CSMs to the extent that the operation is carried out on the railway.
+
+(3) Any assessment under paragraph (1) shall be reviewed by any railway operator who made it if—
+
+- (a) there is a reason to suspect that it is no longer valid; or
+- (b) there has been a significant change in the matters to which it relates and where as a result of any such review changes to an assessment are required,
+
+the railway operator concerned shall make them, and he shall implement any changes to the measures identified pursuant to paragraph (1) as a result of the review.
+
+(4) The railway operator shall record in relation to any assessment or review under this regulation—
+
+- (a) the assessment process undertaken, the methods of any calculation used and any assumptions made; and
+- (b) the significant findings of the risk assessment including the measures in place and any further measures any railway operator intends to take to ensure safe operation of the railway in relation to his operation.
+
+(5) Every railway operator shall make and give effect to such arrangements as are appropriate, having regard to the nature of his activities and the size of the undertaking, for the effective planning, organisation, control, monitoring and review of the measures identified in paragraph (1) or (3) and shall record such arrangements.
+
+### 18. Annual safety reports[^key-b2e9b876422ac855de5609c324fa8815]
+
+(1) Subject to paragraph (2), any railway operator who is subject to the prohibition in regulation 3(1)(b) and (2)(b) shall send to the Department an annual safety report relating to the previous calendar year which shall contain—
+
+- (a) information on how any railway operator’s safety targets, referred to in paragraph 2(b) of Schedule 1, are met;
+- (b) the results achieved through putting any railway operator’s safety plans, referred to in paragraph 2(b) of Schedule 1, into effect;
+- (c) statistics for the common safety indicators listed in Annex 1 (common safety indicators) of the Directive[^key-507fc92fd970fcec5c7add991e2e7aba] insofar as they are relevant to the operation in question;
+- (d) the findings of internal safety auditing carried out pursuant to the procedures referred to in paragraph 2(k) of Schedule 1; and
+- (e) comments on any deficiencies or malfunctions relating to the running of vehicles or the management of infrastructure relating to the operation in question that may be relevant to the safety of any railway.
+
+(2) The first annual report required under paragraph (1) shall be sent by 31st August 2007 and subsequent reports by 31st August in each subsequent calendar year.
+
+(3) Subject to paragraph (4), the Department shall publish and send to the Office of Rail and Road[^key-1dccd31a95e09cc53ab481c5beff4ea3] an annual report relating to the previous calendar year which shall contain information on the following in relation to any railway—
+
+- (a) the development of railway safety including an aggregation of all the statistics reported to the Department for the relevant calendar year pursuant to paragraph (1)(c) which relate to an operation or part of an operation which is carried out on the railway;
+- (b) any important changes in relation to the regulation of railway safety;
+- (c) the development of the system for safety certification and authorisation; and
+- (d) the results of and experience relating to the supervision of railway operators.
+
+(4)[^key-bd39fdde89f19a00b5944fe5ee09b89c] Annual reports for each calendar year must be sent to the Office of Rail and Road by 30th September in the year following the calendar year to which the report refers.
+
+(5) Where the Department discovers, after sending an annual report, that there were errors or omissions in it then it shall send a corrected report for that year to the Office of Rail and Road[^key-0d13dcd0d75b08689ddd1a80546ef7e7] at the first convenient opportunity and in any event by no later than the time the next annual report is due to be sent.
+
+### 18A. Common safety targets[^key-7508e6913009ca4114866a54fca9f795]
+
+The Department must assess the achievement of common safety targets in accordance with Schedule 7 (common safety targets).
+
+### 19. Sending, issuing and keeping of documents and making them available for public inspection[^key-e3c841509b3190cf9e94d9065a3da94e]
+
+(1) Any application, notice, report or any other information sent to the Department or records made pursuant to these Regulations shall be in writing and in English.
+
+(2) Any certificate, authorisation, notice, direction, request for information, statement or report issued by the Department pursuant to these Regulations shall be in writing, and in English.
+
+(3) An applicant who makes an application in respect of a safety certificate or a safety authorisation pursuant to regulations 5, 7, 8 or 10 shall when sending the application, notify the Department of an address in Northern Ireland for the purposes of this regulation (“notified address“)
+
+(4) Subject to paragraphs (5) and (6), a railway operator shall keep at the notified address in relation to the operation in question—
+
+- (a) the safety certificate or safety authorisation issued in response to his application for such certificate or authorisation and the documentation referenced in that safety certificate or safety authorisation;
+- (b) any notice of amendment issued pursuant to Part 2 in relation to his safety certificate or safety authorisation;
+- (c) any records he is required to make pursuant to regulation 18(4) and (5);
+- (d) any safety annual report sent to the Department under regulation 19(1)
+- (e) any notification of changes or of a revision notified to the Department under regulation 11; and
+- (f) a record of any findings of internal safety auditing carried out pursuant to the procedures referred to in paragraph 2(k) of Schedule 1 and of any action taken in consequence of such auditing,
+
+or a hard or electronic copy of such documents.
+
+(5) The documents referred to in paragraph (4) shall be kept as long as they—
+
+- (a) are or are a copy of the current safety certificate or safety authorisation or a notice of amendment thereof;
+- (b) are or are a copy of a notification of a major change or a revision which is relevant to the current operation of any railway;
+- (c) relate to the information on the basis of which the Department’s acceptance referred to in regulation 5(4) or 8(3), as the case may be, was made in relation to a current safety certificate or safety authorisation; or
+- (d) relate to a risk assessment, as reviewed from time to time, carried out pursuant to regulation 18.
+
+(6) The documents kept pursuant to paragraph (4)(d) or (f) shall be kept for 5 years and the documents kept pursuant to sub–paragraphs (a), (b), (d) and (e) of paragraph (4) shall, subject to paragraph (7), be made available for public inspection at the notified address at reasonable times and on reasonable notice.
+
+(7) Nothing in paragraph (6) shall require the disclosure of any information—
+
+- (a) relating to a named individual;
+- (b) which is commercially confidential; or
+- (c) which is detrimental to national security or to the security of any railway.
+
+(8) A person who has a notified address may subsequently notify the Department of a different address in Northern Ireland and in this case references in this regulation to the notified address shall be construed as a reference to the last address notified under this paragraph.
+
+### 20. Co–operation[^key-943850df48f005ccb43aa41c376e29eb]
+
+(1) Every person to whom this paragraph applies shall co–operate as far as is necessary with any railway operator to enable him to comply with the provisions of these Regulations.
+
+(2) Paragraph (1) applies to—
+
+- (a) any railway operator whose operations may affect or may be affected by operations carried out by the duty holder; and
+- (b) an employer of persons or a self–employed person carrying out work on or in relation to premises or plant owned or controlled by the duty holder.
+
+(3) Every railway operator shall co–operate, insofar as is reasonable, with any other railway operator who operates on the same railway where that other railway operator is taking action to achieve the safe operation of that railway.
+
+(4) In paragraph (2) “duty holder” means any railway operator referred to in paragraph (1).
+
+## PART IV — SAFETY CRITICAL WORK
+
+### 21. Interpretation and application of Part 4[^key-15f90407ee9a0943600a3283b75ffe11]
+
+(1) In this Part—
+
+- “assessor” means any person who is competent to make an impartial and objective assessment of another person’s competence or fitness to carry out safety critical work, and related expressions shall be construed accordingly;
+- “controller of safety critical work” means any person controlling the carrying out of safety critical work on any railway system;
+- “fitness” means physical and mental fitness, and related expressions shall be construed accordingly;
+- “installation” includes the installation, examination or testing of components;
+- “maintenance” includes repair work, reconditioning, examination, testing or alteration;
+- “operator” means any person carrying on an undertaking which includes any railway or any part of it or the provision of railway services on any railway;
+- “safety critical task” means—
+  - (a) in relation to a vehicle used on any railway—
+    - (i) driving, dispatching or any other activity which is capable of controlling or affecting the movement of that vehicle;
+    - (ii) signalling, receiving operations, the operation of level crossing equipment, receiving and relaying of communications or any other activity which is capable of controlling or affecting the movement of that vehicle;
+    - (iii) coupling or uncoupling;
+    - (iv) installation of components, other than where the installation of those components is subject to supervision and checking by a safety critical worker or a controller of safety critical work;
+    - (v) maintenance, other than where the carrying out of that maintenance is subject to supervision and checking by a safety critical worker or a controller of safety critical work; or
+    - (vi) checking that that vehicle is working properly and, where carrying goods, is correctly loaded before being used;
+  - (b) in relation to any railway —
+    - (i) installation or maintenance of any part of it or of the telecommunications system relating to it or used in connection with it, or of the means of supplying electricity directly to any railway or to any vehicles using it or to the telecommunications system other than where the carrying out of that task is subject to supervision and checking by a safety critical worker or a controller of safety critical work;
+    - (ii) controlling the supply of electricity directly to it or to any vehicles used on it; or
+    - (iii) receiving and relaying of communications;
+    - (iv) in relation to ensuring worker safety on ny railway, any person ensuring the safety of any persons working on or near to the track, whether or not the persons working on or near the track are carrying out safety critical work; and
+  - (c) in relation to training, any formal practical training or the supervision of any such training in any of the tasks set out in sub–paragraphs (a) to (c),
+
+  which could significantly affect the health or safety of persons on any railway;
+- “safety critical work” means any safety critical task carried out by any person in the course of their work [^key-5f18463a754252e7be73e1465065418f]... on or in relation to a railway and related expressions shall be construed accordingly; and
+- “telecommunications system” means any telecommunications system or its associated equipment which is capable of controlling or affecting the movement of a vehicle, or which is provided for purposes which include calling the emergency services.
+- “work” includes voluntary work.[^key-2946da7c6b9611f1fcd849bb6057343c]
+
+(2) Any reference in this Part to a safety critical worker or a controller of safety critical work supervising and checking the work of another person is to a safety critical worker or a controller of safety critical work who has been assessed as competent in the tasks to which that supervisor and checking relates.
+
+(3) Any reference in this Part to a person controlling the carrying out of safety critical work is a reference to a person managing, supervising or controlling that work in connection with the carrying on by him of a trade, business or other undertaking whether or not for profit).
+
+(4) This Part shall not apply to or in relation to—
+
+- (a) the police, ambulance or fire service when they are carrying out their emergency functions on or in relation to any railway; and
+- (b) any voluntary worker for a period of twelve months from the date of the coming into force of this Part.
+
+(5) This part shall not apply were the operation in question is only carried out on a railway on no part of which there is a permitted maximum speed exceeding 40 kilometres per hour.
+
+### 22. Competence and fitness[^key-e1e696274c7f2bd1a50170dbee2e9c70]
+
+(1) Every controller of safety critical work shall, so far as is reasonably practicable, ensure that a person under his management, supervision or control with the exception of where that person is receiving practical training in a safety critical task, only carries out safety critical work where—
+
+- (a) that person has been assessed as being competent and fit to carry out that work following an assessment by an assessor;
+- (b) there is an accurate and up to date record in writing of that person’s competence and fitness which references any criteria for determining competence and fitness against which that assessment of competence was made;
+- (c) the record, or an accurate summary of the record referred to in sub–paragraph (b) is available for inspection, on reasonable request, by any other controller of safety critical work or any operator who may be affected by any safety critical work carried out or to be carried out by that person, for the purposes of establishing that person’s competence and fitness to carry out safety critical work; and
+- (d) there are in place arrangements for monitoring the competence and fitness of that person.
+
+(2) Every controller of safety critical work shall without unreasonable delay review any person’s competence or fitness assessment where—
+
+- (a) they have reason to doubt the competence or fitness of a person to carry out that safety critical work; or
+- (b) there has been a significant change in the matters to which the assessment relates,
+
+and where, as a result of any such review a reassessment of competence or fitness is required, that reassessment of competence or fitness shall be carried out to ensure that the requirements of paragraph (1) are met.
+
+(3) Where a reassessment of competence or fitness under paragraph (2) is required, the controller of safety critical work shall, so far as is reasonably practicable ensure that, as a result, the health and safety of persons on any railway is not prejudiced.
+
+### 23. Fatigue[^key-25c1389e19b377bbe487df37d9344529]
+
+(1) Every controller of safety critical work shall have in place arrangements to ensure, so far as is reasonably practicable, that a safety critical worker under his management, supervision or control does not carry out safety critical work in circumstances where he is so fatigued or where he would be liable to become so fatigued that his health or safety or the health or safety of other persons on a railway could be significantly affected.
+
+(2) The arrangements in paragraph (1) shall be reviewed by the controller of safety critical work where he has reason to doubt the effectiveness of those arrangements.
+
+### 24. Co–operation requirements for safety critical work[^key-ade44bcd7d2bb51e945ef7ac816627e5]
+
+(1) Every controller of safety critical work to whom this Part applies shall co–operate as far as is necessary with any other controller of safety critical work or any operator to enable that other controller of safety critical work to comply with the provisions of this Part.
+
+(2) Every person carrying out safety critical work shall, as regards any requirement imposed on any controller of safety critical work under this Part, co–operate with that controller of safety critical work so far as is necessary to enable that requirement to be performed or complied with.
+
+## PART V — MISCELLANEOUS
+
+### 25. Appeals[^key-2fb58d2a348a43daf7a4fafd66430ce9]
+
+(1) A person who is aggrieved by a—
+
+- (a) decision of the Department to refuse his application for—
+  - (i) a safety certificate or safety authorisation;
+  - (ii) an amended safety certificate or safety authorisation;
+- (b) direction of the Department to make an application to amend his safety certificate or safety authorisation; or
+- (c) decision of the Department to revoke his—
+  - (i) safety certificate or part of it; or
+  - (ii) safety authorisation,
+
+  may appeal to the Department[^key-e6205174ad591ec06ce058ddbea4200d].
+
+For the purposes of paragraph (1), a failure by the Department to make a decision on whether or not to issue or amend a safety certificate or safety authorisation within the four month period for making a decision calculated in accordance with regulation 17(7) shall be treated as a refusal of the application.
+
+(2) The Deregulation (Model Appeals Provisions) Order (Northern Ireland) 1997[^f00011] shall apply to an appeal under paragraph (1)
+
+(3) Where an appeal is made under paragraphs (1)(a) or (1)(c), the decision in question shall be suspended pending the final determination of the appeal[^key-5411fdf5b0949e99f9fc6873deae1a8a]....
+
+### 26. Exemptions[^key-11986d7dbbba1193e670a73961c6bf49]
+
+(1) Subject to paragraph (2) the Department may, by a certificate in writing, exempt any person or class of persons, any railway or part of any railway from any requirement or prohibition imposed by these Regulations.
+
+(2) The Department shall not grant any such exemption unless, having regard to the circumstances of the case, and in particular to—
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any enactment which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+(3) Any such exemption may be granted pursuant to paragraph (1) subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
+
+### 27. Defence of due diligence[^key-510694c4a21812c900e64e03e2c0aab5]
+
+(1) Subject to the following provisions of this regulation, in any proceedings against any person for an offence under regulation 4(4), or 16AA(2)[^key-10c00ec97d6fcbcb448c8f38cf622a6e] it shall be a defence for that person to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) Where in any proceedings against any person for such an offence the defence provided in paragraph (1) involves an allegation that the commission of the offence was due to—
+
+- (a) the act or default of another; or
+- (b) reliance on information given by another,
+
+that person shall not, without the leave of the court, be entitled to rely on the defence unless, within a period ending seven clear days before the hearing of the proceedings, he has served a notice under paragraph (3) on the person bringing the proceedings.
+
+(3) a notice under this paragraph shall give such information identifying, or assisting in the identification of, the person who committed the act or default or gave the information as is in the possession of the person serving the notice at the time he serves it.
+
+(4) A person shall not be entitled to rely on the defence provided by paragraph (1) by reason of his reliance on information supplied to another, unless he shows that it was reasonable in all the circumstances for him to have relied upon the information, having regard in particular—
+
+- (a) to the steps which he took, and those which might reasonably have been taken, for the purpose of verifying the information; and
+- (b) to whether he had any reason to disbelieve the information.
+
+### 28. Transitional Provisions[^key-73daf8e9f53b7f7f50f1eff241ec42ce]
+
+The provisions of Schedule 5 shall have effect.
+
+Sealed with the Official Seal of the Department for Regional Development on 25 May 2006.
+
+B. R. D. White
+
+A senior officer of the
+
+Department
+
+## SCHEDULE 1 — SAFETY MANAGEMENT SYSTEM
+
+Regulation 4 (1) (c)
+
+### 1. Requirements on the safety management system[^key-8c8fbc54a061add9c7526efcca250309]
+
+The safety management system shall—
+
+- (a) describe the distribution of responsibilities, within the operation, for the safety management system;
+- (b) show how control of the safety management system by the management on different levels is secured;
+- (c) show how persons carrying out work or voluntary work directly in relation to the operation and their representatives on all levels are involved with the safety management system; and
+- (d) show how continuous improvement of the safety management system is ensured.
+
+### 2. Basic elements of the safety management system[^key-62b277bed8bf8a9a18649d95a245a6ca]
+
+The basic elements of a safety management system are—
+
+- (a) a statement of the safety policy which has been approved by the chief executive and communicated to all persons carrying out work or voluntary work directly in relation to the operation;
+- (b) qualitative and quantitative targets for the maintenance and enhancement of safety and plans and procedures for reaching those targets;
+- (c) procedures to meet relevant technical and operational standards or other requirements as set out in—
+  - (i) TSIs;
+  - (ii) national safety rules;
+  - (iii) other relevant safety requirements; and
+  - (iv) decisions of the Department addressed to the railway operator in question,
+
+and procedures to ensure compliance with the requirements listed in this paragraph throughout the life–cycle of any relevant equipment or operation which is subject to the requirement in question.
+
+- (d) procedures and methods for carrying out risk evaluation and implementing risk control measures when—
+  - (i) there is a change in the way in which the operation in question is carried out; or
+  - (ii) new material is used in the operation in question,
+
+which gives rise to new risks in relation to any infrastructure or the operation being carried out;
+
+- (e) provision of programmes for training of persons carrying out work or voluntary work directly in relation to the operation and systems to ensure that the competence of such persons is maintained and that they carry out tasks accordingly;
+- (f) arrangements for the provision of sufficient information relevant to safety—
+  - (i) within the operation in question; and
+  - (ii) between the operator in question and any other railway operator or an applicant for a safety certificate or a safety authorisation who carries out or who intends to carry out operations on the same infrastructure;
+- (g) procedures and formats for the documentation of safety information;
+- (h) procedures to control the lay out of, and changes to, vital safety information;
+- (i) procedures to ensure that accidents, incidents, near misses and other dangerous occurrences are reported, investigated and analysed and that necessary preventative measures are taken;
+- (j) provisions of plans for action, alerts and information in the case of an emergency which are to be agreed with any public body, including the emergency services, that may be involved in such an emergency; and
+- (k) provisions for recurrent internal auditing of the safety management system.
+
+## SCHEDULE 2 — APPLICATION FOR A SAFETY CERTIFICATE - INFORMATION TO BE INCLUDED FOR A SAFETY CERTIFICATE APPLICATION
+
+Regulation 5(1)(b)
+
+**1.**[^key-9de34a62f8c7554fd1aca73993f37115] The following information shall be included in relation to Part A of a safety certificate—
+
+- (a) particulars of the type and extent of the operation in respect of which the application is made; and
+- (b) either—
+  - (i) a copy of a current certificate issued to the applicant by the Department, other than a deemed safety certificate, or a safety authority in a member State of the European Union or in Great Britain[^key-71c76feddbb0e0d191cada227e25d6c3] which relates to any equivalent railway operation; or
+  - (ii) particulars of how the safety management system of the applicant meets the requirements set out in regulation 5(1) to (3).
+
+**2.**[^key-b16d7eaad7521dc5e13406cca3040fbd] The following information shall be included in relation to Part B of a safety certificate—
+
+- (a) information on the TSIs, national safety rules and other safety requirements relevant to the applicant’s operation including those relevant to persons carrying out work in relation to the operation and the applicant’s vehicles and an explanation of how compliance with these requirements is ensured by the safety management system;
+- (b) information on the different types of work being carried out by persons directly in relation to the operation including evidence of how the applicant ensures that when such persons are carrying out such work that they are doing so in accordance with the requirements of any relevant TSIs and national safety rules,
+
+and where information is submitted concerning an interoperability constituent or a subsystem which is subject to and complies with the requirements of the Interoperability Regulations then only brief details need be supplied concerning compliance of such constituents or subsystems with relevant TSIs and other requirements of those Regulations and in this paragraph “interoperability constituent” and “subsystem” shall have the same meaning as in those Regulations.
+
+## SCHEDULE 3 — COMMON SAFETY INDICATORS[^key-353e439e50da6f1544edb8d09c126b30]
+
+**No longer in force.**
+
+Regulation 18(1)(c)
+
+[^key-353e439e50da6f1544edb8d09c126b30]
+
+(*This Schedule substantially reproduces, with minor modifications, the provisions of Annex I to the Directive and its Appendix*)
+
+### Part 1 — COMMON SAFETY INDICATORS[^key-353e439e50da6f1544edb8d09c126b30]
+
+#### 1. Interpretation[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Indicators relating to accidents[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Indicators relating to dangerous goods[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Indicators relating to suicides[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Indicators relating to precursors of accidents[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Indicators to calculate the economic impact of accidents[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Indicators relating to technical safety of infrastructure and its implementation[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Indicators relating to management of safety[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — COMMON DEFINITIONS AND METHODS TO CALCULATE THE ECONOMIC IMPACT OF ACCIDENTS[^key-353e439e50da6f1544edb8d09c126b30]
+
+#### 1. Indicators relating to accidents[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Indicators relating to dangerous goods[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Indicators relating to suicides[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Indicators relating to precursors of accidents[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Common methodologies to calculate the economic impact of accidents[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Indicators relating to technical safety of infrastructure and its implementation[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Indicators relating to the management of safety[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Definitions of the scaling bases[^key-353e439e50da6f1544edb8d09c126b30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — WRITTEN SAFETY VERIFICATION SCHEME REQUIREMENTS
+
+Regulation 4(4)(a)
+
+### 1. Information to be included in a safety verification scheme[^key-137f7a45c2fceb0355270a9ada618118]
+
+The arrangements for the selection, appointment and retention of the competent person, which arrangements should provide for:
+
+- (a) the appointment of the competent person at an early stage in the design selection process; and
+- (b) the involvement of the competent person in the establishing of the criteria to be applied in the verification process and the design selection process; and
+- (c) the communication to the competent person of information necessary for the proper implementation, or revision, of the verification scheme and which information is necessary in order for the competent person to undertake the verification.
+
+**2.**[^key-0c3b14505ece11e575b9b56aec8ba522] The arrangements for the examination provide for:
+
+- (a) the means of controlling risks that arise during the carrying out of any testing or trials prior to first placing into service; and
+- (b) the standards and criteria to be applied in the verification process.
+
+**3.**[^key-1c1d98c21213e895344160c14f1869da] The arrangements for the review and revision of the verification scheme.
+
+**4.**[^key-9e809c9ca41c05eb31b98bffaea27f12] The arrangements for the making and preservation of records showing—
+
+- (a) the examination and testing carried out to the new or altered vehicles or infrastructure prior to its first being placed into service;
+- (b) the findings of that examination and testing;
+- (c) any remedial action recommended as a result of that examination and testing; and
+- (d) any remedial action performed.
+
+**5.**[^key-8ba575579df9863fbcdea1459b951443] The arrangements for communicating the matters contained in sub–paragraphs (1) to (4) of this Schedule to an appropriate level in the management system of any railway operator \[or responsible person as the case may be.
+
+## SCHEDULE 5 — TRANSITIONAL PROVISIONS
+
+Regulation 29
+
+**1.**[^key-48382c0b0acd45e2f7830c9d2b707584] Where a person is undertaking a relevant operation on 30<sup>th</sup> June 2006 it shall, to the extent that the operation is undertaken in the same place as it was on that date, be sufficient compliance by him with the appropriate provisions of regulations 3(1) and (2) if the safety requirements referred to in those provisions are prepared and accepted within 2 years after that date.
+
+**2.**[^key-059be01f4123a133488bd9a7c25c2e9d] Where a relevant operation is not being undertaken on 30<sup>th</sup> June 2006 in consequence of normal operating schedules, maintenance, repair or an emergency, the operation shall nevertheless be treated for the same purposes of paragraph 1 as being undertaken on that date.
+
+**3.**[^key-68df7864569dbe71123d7e1c8458bc08] In this Schedule “relevant operation” means the activity which would, apart from this Schedule, be prohibited by those regulations.
+
+## SCHEDULE 6 — Format for safety certificates and applications[^key-898a350be3968ddcce29570cc5a1e231]
+
+Regulation 7A
+
+(This Schedule substantially reproduces the provisions of Commission Regulation [(EC) No 653/2007](https://www.legislation.gov.uk/eur/2007/653) on the use of a common European format for safety certificates and application documents in accordance with Article 10 of Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49) of the European Parliament and of the Council and on the validity of safety certificates delivered under Directive 2001/14/E, with amendments for the purposes of addressing deficiencies arising out of the UK's withdrawal from the EU.)
+
+### PART 1
+
+**1.** Where Part A of a safety certificate is to be issued, renewed, updated, amended or revoked, the Department must use the form provided in Part 2.
+
+**2.** Where Part B of a safety certificate is to be issued, renewed, updated, amended or revoked, the Department must use the form provided in Part 3.
+
+**3.** An application for a new, updated, amended or renewed—
+
+- (a) Part A of a safety certificate;
+- (b) Part B of a safety certificate; or
+- (c) Parts A and Part B of a safety certificate where a combined application is made,
+
+must be made in the form provided in Part 4.
+
+### PART 2 — Part A of a safety certificate
+
+**4.** The form referred to in paragraph 1 follows.
+
+[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_001.gif)
+
+### PART 3 — Part B of a safety certificate
+
+**5.** The form referred to in paragraph 2 follows.
+
+[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_002.gif)
+
+### PART 4 — Application form for a safety certificate
+
+**6.** The form referred to in paragraph 3 follows.
+
+[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_005.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_007.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_008.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_009.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_010.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_011.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_012.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_013.gif)[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_014.gif)
+
+## SCHEDULE 7 — Common safety targets[^key-d3310fc3ea9e0bcd48957b24b2cec85d]
+
+Regulation 18A
+
+### 1. Application
+
+This Schedule applies to the railway system.
+
+### 2. Interpretation
+
+In this Schedule—
+
+- “**accident**” means an unwanted or unintended sudden event or a specific chain of such events which have harmful consequences; accidents are divided into the following categories: collisions, derailments, level-crossing accidents, accidents to persons caused by rolling stock in motion, fires and others;
+- “**fatalities and weighted serious injuries**” (“**FWSIs**”) means a measurement of the consequences of significant accidents combining fatalities and serious injuries, where 1 serious injury is considered statistically equivalent to 0.1 fatalities;
+- “**level crossing users**” means all persons using a level crossing to cross a railway line by any means of transportation or by foot;
+- “**national reference value**” (“**NRV**”) means a reference measure indicating the maximum tolerable level for a railway risk category;
+- “**others**” means all persons who are not passengers, staff or employees including the staff of contractors, level crossing users, or unauthorised persons on railway premises;
+- “**passenger-km**” means the unit of measure representing the transport of one passenger by rail over a distance of one kilometre;
+- “**passenger train-km**” means the unit of measure representing the movement of a passenger train over one kilometre;
+- “**risk category**” means one of the railway risk categories specified by Article 7(4)(a) and (b) of the Directive;
+- “**risk to society as a whole**” means the collective risk to all categories of persons listed in Article 7(4)(a) of the Directive;
+- “**safety enhancement plan**” means a plan to implement the organisational structure, responsibilities, procedures, activities, capabilities and resources required to reduce the risk for one or more risk categories;
+- “staff” or “**employees including the staff of contractors**” means any persons whose employment is in connection with a railway and is at work at the moment of the accident; it includes the crew of the train and persons handling rolling stock and infrastructure installations;
+- “**track-km**” means the length measured in kilometres of the railway network where each track of a multiple track railway line is to be counted;
+- “**train-km**” means the unit of measure representing the movement of a train over one kilometre; the distance used is the distance actually run, if available, otherwise the standard network distance between the origin and destination must be used;
+- “**unauthorised persons on railway premises**” means any persons present on railway premises where such presence is forbidden, with the exception of level crossing users.
+
+### 3. Measurement units for NRVs and CSTs
+
+The measurement units for NRVs must be expressed in compliance with the mathematical definition of risk. The consequences of accidents which must be considered for each of the risk categories are the FWSIs.
+
+**4.** For the purpose of assessment of achievement of the NRVs for the passenger and level crossing user risk categories, compliance with one or both of these NRVs must be considered sufficient.
+
+### 5. Principles for the assessment of achievement of NRVs and CSTs
+
+The following principles apply for assessing achievement of NRVs and CSTs—
+
+- (a) for each risk category for which the NRV is equal to or lower than the corresponding CST, the achievement of the NRV also implies the achievement of the CST;
+- (b) the assessment of achievement of the NRV must be carried out according to the procedure described in paragraph 8 and the NRV represents the maximum tolerable level of the risk to which it refers, without prejudice to provisions of the range of tolerance laid down in paragraph 10;
+- (c) for each risk category for which the NRV is higher than the corresponding CST, the CST represents the maximum tolerable level of the risk to which it refers;
+- (d) the assessment of achievement is to be carried out in compliance with the requirements deriving from the impact assessment.
+
+**6.** The assessment of achievement of the NRVs and CSTs must be carried out annually by the Department for Infrastructure, taking into consideration the most recent four preceding reporting years, including those years in which the assessment of achievement of the NRVs and CSTs in the United Kingdom was conducted by the European Railway Agency.
+
+**7.** The outcome of the assessment of achievement referred to in paragraph 5 is to be classified as follows—
+
+- (a) acceptable safety performance;
+- (b) possible deterioration of safety performance; or
+- (c) probable deterioration of safety performance,
+
+and published by the Department for Infrastructure.
+
+### 8. Procedure for assessment of achievement of NRVs and CSTs
+
+The procedure for the assessment of achievement of NRVs is composed of four different steps as described in the following paragraphs. The overall decisional flowchart of the procedure is shown in paragraph 15, where positive and negative decisional arrows correspond respectively to a ‘passed’ and a ‘failed’ result of the different assessment steps.
+
+**9.** (1) The first assessment step must verify whether the observed safety performance is complying with the NRV or not.
+
+(2) The observed safety performance must be measured by using the measurement units listed in paragraph 14 and data gathered by the Department for Infrastructure in respect of railway accidents and related consequences, with time series which must include the most recent years of observations as specified in paragraph 6.
+
+(3) The observed safety performance must be expressed in terms of:
+
+- (a) safety performance in the single most recent reported year; and
+- (b) moving weighted average (MWA), as specified in paragraph 13.
+
+(4) The values returned must be compared with the NRV, and if one of these values does not exceed the NRV the safety performance must be considered acceptable. If this is not the case, the procedure must continue with the second assessment step.
+
+**10.** (1) The second assessment step shall deem the safety performance acceptable if the MWA does not exceed the NRV plus a 20% range of tolerance.
+
+(2) If this condition is not satisfied, the Department for Infrastructure must obtain the specifics of the single highest-consequence accident, in terms of FWSIs, in the most recent years of observation as referred to in paragraph 6, excluding the years used to set the NRV.
+
+(3) If this single accident is more severe, in terms of consequences, than the most severe single accident included in the data used for setting the NRV, it must be excluded from the statistics.
+
+(4) The MWA is then recalculated to check whether it lies within the above-mentioned range of tolerance. If this is the case, the safety performance must be considered acceptable. If this is not the case, the procedure must continue with the third assessment step.
+
+**11.** The third assessment step must verify whether it is the first time in the last 3 years that the second assessment step did not return evidence of acceptable safety performance. If this is the case, the outcome of the third assessment step must be classified as ‘passed’. The procedure must continue with the fourth step, whatever the outcome of the third step may be.
+
+**12.** (1) The fourth assessment step must verify whether the number of significant accidents per train-km, with respect to the previous years, remained stable (or decreased). The criteria for this appraisal are whether there has been a statistically significant increase in the number of relevant significant accidents per train-km. This must be evaluated by using an upper Poisson tolerance band which will determine the acceptable variability based on the number of accidents that occurred in the member States of the European Union.
+
+(2) If the number of significant accidents per train-km does not exceed the abovementioned tolerance band, it is assumed that there has not been a statistically significant increase, and the outcome of this assessment step shall be classified as passed.
+
+(3) Depending on the risk category to which the different NRVs under assessment of achievement refer, the significant accidents to be considered for carrying out this assessment step are as follows—
+
+- (a) risks to passengers: all relevant significant accidents;
+- (b) risks to staff or employees, including the staff of contractors: all relevant significant accidents;
+- (c) risks to level crossing users: all relevant significant accidents included in the risk category of level crossing accidents;
+- (d) risks to unauthorised persons on railway premises: all relevant significant accidents included in the risk category of accidents to persons caused by rolling stock in motion;
+- (e) risks to others: all relevant significant accidents;
+- (f) risk to society as a whole: all significant accidents.
+
+### 13. Moving weighted averaging process for the annual assessment of achievement of NRVs
+
+For each of the risk categories to which the MWA is applied for carrying out in each year Y (starting from Y = 2010), the assessment steps described in paragraphs 9 to 12, the following phases must be applied for calculating the MWA<sub>Y</sub>
+
+- (a) calculation of the annual observations *OBS<sub>i</sub>* returned by the corresponding indicators in paragraph 14 after providing as input the relevant data for the relevant years;the index *i* takes the values as defined in the formula in sub paragraph (e);
+- (b) calculation of the 5-year average (*AV*) of annual observation *OBS<sub>i</sub>*;
+- (c) calculation of the absolute value of the difference *ABSDIFF<sub>i</sub>* between each annual observation *OBS<sub>i</sub>* and the *AV*. If *ABSDIFF<sub>i</sub>* \< \* 0.01 *AV*, the *ABSDIFF<sub>i</sub>* is attributed a constant value equal to 0.01\* *AV*;
+- (d) calculation of the weight *W<sub>i</sub>* by taking the inverse of *ABSDIFF<sub>i</sub>*;
+- (e) calculation of the *MWA<sub>Y</sub>* as follows—
+
+  [formula: see source](https://www.legislation.gov.uk/nisr/2006/237)
+
+where *i* is a natural number and x = Y – 6; N = Y – 2.
+
+### 14. Measurement units for NRVs and CSTs
+
+The following table sets out the measurement units for NRVs and CSTs.
+
+| *Risk category* | *Measurement units* | *Scaling bases* |
+| --- | --- | --- |
+| 1\. Risks to passengers | 1.1 Number of passenger FWSIs per year arising from significant accidents/Number of passenger train-km per year | Passenger train-km per year |
+|  | 1.2 Number of passenger FWSIs arising from significant accidents/Number of passenger-km per year | Passenger-km per year |
+| 2\. Risks to staff or employees, including the staff of contractors | 2\. Number of employee FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
+| 3\. Risks to level crossing users | 3.1 Number of level-crossing user FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
+|  | 3.2 Number of level-crossing user FWSIs per year arising from significant accidents/\[(Number of Train-km per year x Number of level crossings)/Track-km)\] | (Train-km per year x Number of level crossings)/Track-km |
+| 4\. Risks to others | 4\. Yearly number of FWSIs to persons belonging to the category ‘others’ arising from significant accidents/Number of train-km per year | Train-km per year |
+| 5\. Risks to unauthorised persons on railway premises | 5\. Number of FWSIs to unauthorised persons on railway premises per year arising from significant accidents/Number of train-km per year | Train-km per year |
+| 6\. Risk to society as a whole | 6\. Total number of FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
+
+### 15. Decision flowchart
+
+The flowchart referred to in paragraph 8 is as follows—
+
+[image: see source](https://www.legislation.gov.uk/nisr/2006/237/images/nisr_20060237_en_epp_016.gif)
+
+### 16. Values for NRVs
+
+The following table sets out the values of the NRVs for the purposes of this Schedule.
+
+| *NRV* | *Risk category* | *Value* |
+| --- | --- | --- |
+| 1.1 (x 10<sup>-9</sup>) | Risk to passengers | 2.73 |
+| 1.2 (x 10<sup>-9</sup>) |  | 0.028 |
+| 2 (x 10<sup>-9</sup>) | Risks to staff or employees, including the staff of contractors | 5.17 |
+| 3.1 (x 10<sup>-9</sup>) | Risk to level crossing users | 23.5 |
+| 3.2 |  | n/a |
+| 4 (x 10<sup>-9</sup>) | Risks to others | 7.00 |
+| 5 (x 10<sup>-9</sup>) | Risk to unauthorised persons on railway premises | 84.5 |
+| 6 (x 10<sup>-9</sup>) | Risk to society as a whole | 120.0 |
+
+### 17. Values for CSTs
+
+The following table sets out the values for the CSTs.
+
+| *Risk category* | *CST value (x 10-6)* |  | *Measurement units* |
+| --- | --- | --- | --- |
+| Risk to passengers | CST. 1.1 | 0.17 | Number of passenger FWSIs per year arising from significant accidents/Number of passenger train-km per year |
+|  | CST 1.2 | 0.00165 | Number of passenger FWSIs arising from significant accidents/Number of passenger-km per year |
+| Risks to staff or employees, including the staff of contractors | CST 2 | 0.0779 | Number of employee FWSIs per year arising from significant accidents/Number of train-km per year |
+| Risk to level crossing users | CST 3.1 | 0.710 | Number of level-crossing user FWSIs per year arising from significant accidents/Number of train-km per year |
+|  | CST 3.2 | n/a | Number of level-crossing user FWSIs per year arising from significant accidents/\[(Number of Train-km per year x Number of level crossings)/Track-km)\] |
+| Risk to others | CST 4 | 0.0145 | Yearly number of FWSIs to persons belonging to the category ‘others’ arising from significant accidents/Number of train-km per year |
+| Risk to unauthorised persons on railway premises | CST 5 | 2.05 | Number of FWSIs to unauthorised persons on railway premises per year arising from significant accidents/Number of train-km per year |
+| Risk to society as a whole | CST 6 | 2.59 | Total number of FWSIs per year arising from significant accidents/Number of train-km per year |
+
+(This note is not part of the Regulations)
+
+These Regulations impose prohibitions and requirements in relation to safety on Northern Ireland railways.
+
+Part 2 and regulation 18 of the Regulations implement, insofar as they apply to any railway in relation to Northern Ireland, Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) (O.J. No. L164, 30.04.04 p.44) of the European Parliament and the Council of 29<sup>th</sup> April 2004, on safety on the Community’s railways and amending Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) on the licensing of transport undertakings and Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) on the allocation of infrastructure capacity and the levying of charges for use of infrastructure and safety certification (“the Rail Safety Directive”), except in relation to access to training facilities, placing in service of in–use rolling stock and accident and incident investigation.
+
+Part 1 contains the interpretation provisions. Part 2 contains prohibitions in relation to the operation of trains or vehicles on any railways and the management and use of infrastructure unless a person has established and is maintaining a safety management system and in specified cases has a safety certificate in relation to the operation of vehicles or a safety authorisation in relation to the management and use of infrastructure. Part 2 also makes provision in relation to the requirements for a safety management system and the issuing, amendment and revocation of safety certificates and authorisations and for the giving of notices to the Department.
+
+Part 3 provides for general duties on any railway operators subject to the duties in Part 2 to carry out risk assessment, co–operate with each other and certain other persons and to prepare an annual safety report to the Department. It makes provision in relation to annual reports to the European Railway Agency and for the issuing, keeping and public inspection of documents.
+
+Part 4 makes provision in relation to the carrying out of safety critical work on any railways. It imposes obligations on those controlling the carrying out of such work to ensure that it is only carried out by fit and competent persons, that safety critical workers do not carry out work when fatigued and related co–operation requirements.
+
+Part 5 makes provision for appeals in relation to decisions relating to safety certificates and authorisations, for transitional provisions in relation to compliance with the provisions of regulations (3)(1) and (2), for the granting of exemptions and for a defence in relation to the safety verification requirements in regulation 4.
+
+Technical Specifications for Interoperability are published in the Official Journal of the European Communities. Common Safety Methods and Common Safety Targets are to be developed pursuant to the Rail Safety Directive and shall be published in the Official Journal of the European Communities.
+
+## Annotations
+
+[^f00001]: Footnote: See Article 2(2) of S.I. [1978/1039 (N.I.9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00002]: Footnote: [SR 1978 No. (N.I.9)](https://www.legislation.gov.uk/nisi/1978/1039); the general purposes of Part II referred to in Article 17(1) were extended by section 1 of the Railway Safety Act (Northern Ireland) 2002; Article 55 was amended by [SI 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795) Article 6(1) and Schedule 1 paragraph 19.
+
+[^f00003]: Footnote: Article 46 was amended by S.I. [1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraph 18.
+
+[^f00004]: Footnote: Formerly known as the Health and Safety Agency for Northern Ireland which was established under Article 12 of the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)). Article 3(1) of the Health and Safety at Work (Amendment) (Northern Ireland) Order 1998 ([S.I.1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795)) changed its name to the Health and Safety Executive for Northern Ireland.
+
+[^key-b6acf0e841c12c704be00017e6392fed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-c0cfeff252e1c1001879cddf11c9dc6f]: Commencement: Reg. 2 in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-017296ca93e3632c38bcb295495f4899]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: O.J. No.L 110, 20.4.2001, p1 as amended by Directive [2004/50/EC](https://www.legislation.gov.uk/european/directive/2004/0050) of the European Parliament and the Council of 29<sup>th</sup> April 2004 (O.J. L164, 30.4.2004, p114
+
+[^key-cf4d5344a2a6b57f49eb7858bb305c5a]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f4d69bf08b945d29a006e3a70f3e5c8f]: Textual amendment: Words in reg. 2(1) substituted (3.10.2016) by virtue of [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/267)](https://www.legislation.gov.uk/nisr/2016/267), [regs. 1](https://www.legislation.gov.uk/nisr/2016/267/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/267/regulation/3/2)
+
+[^key-ac29b213d748e395800e78510b6654e5]: Textual amendment: Words in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/a)
+
+[^key-e9cae6f4a9a390076d0029d30712474e]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f79b94903c27c2223d9e9de557360ee]: Textual amendment: Words in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/b)
+
+[^key-bb9829adda7a9c3902bb3e06549cd396]: Textual amendment: Words in reg. 2(1) inserted (11.11.2013) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/237)](https://www.legislation.gov.uk/nisr/2013/237), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/237/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2013/237/regulation/2/1/b)
+
+[^f00007]: Footnote: [S.I.2006 No.397](https://www.legislation.gov.uk/uksi/2006/397)
+
+[^key-290d22219ee87eff6140f18ec5c25497]: Textual amendment: Words in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(c)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/c)
+
+[^key-1b966a0cb1b79208ac0f82256e829b37]: Textual amendment: Words in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/d)
+
+[^key-b73c3da56f34b0862452ad092ea4ec60]: Textual amendment: Words in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(e)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/e)
+
+[^key-1e683ff89807bb162e63fb2210d78ce9]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9503ece19497fd50a94eb9bf5c8b7181]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/277)](https://www.legislation.gov.uk/nisr/2020/277), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/277/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2020/277/regulation/3/2)
+
+[^f00008]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37); section 66 was substituted by S.I. [1984/1986 (N.I. 15)](https://www.legislation.gov.uk/nisi/1984/1986) Art 15 and amended by S.I. [1990/994 (N.I. 7)](https://www.legislation.gov.uk/nisi/1990/994) Sch. 2
+
+[^key-6c5cd71d383cd0acafdc3058a380b524]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^key-6aca2f1340131f38037bc172099688bc]: Textual amendment: Word in reg. 2(1) omitted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(f)(i)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/f/i)
+
+[^key-37712b1897a3a31ec84c9d315da6100f]: Textual amendment: Word in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(f)(ii)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/f/ii)
+
+[^key-b441e15f35ae672f4443edeac1ae267a]: Textual amendment: Words in reg. 2(1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(f)(iii)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/f/iii)
+
+[^key-b757736a135f3a2746ec2b8e630f315b]: Textual amendment: Words in reg. 2(1) substituted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(1)(g)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/1/g)
+
+[^key-7a6e9fbd592e12aca2ade1b178127f10]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/237/regulation/3) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-444cdce0dba943c4988100d23bfcedc7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/237/regulation/4) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-6a42e5b6681fd568e9579e3240ff709d]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/nisr/2006/237/regulation/4/5) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/277)](https://www.legislation.gov.uk/nisr/2020/277), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/277/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/nisr/2020/277/regulation/3/3/a)
+
+[^key-2a1ed2df887a8d6a79edb2a0597f1ae6]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2006/237/regulation/4/8) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/277)](https://www.legislation.gov.uk/nisr/2020/277), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/277/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/nisr/2020/277/regulation/3/3/b)
+
+[^key-da361ec235a3849d2ad76c3c9e8d402c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/237/regulation/5) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-716fcc1ea825942c0d51badd71168a49]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/237/regulation/6) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-c8448c624b96c3557e8179f65883f161]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/237/regulation/7) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-bfec0c2c6c294f1bc156c5a0c998d610]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2006/237/regulation/7A) inserted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-92a6ca5ded66eee4cb9a0f129cb2ae42]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/237/regulation/8) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-125408d2b5c9b55ba4dfd460647e204d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/237/regulation/9) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-c6b62430f3b728fb7d9648f3a0b6c235]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/237/regulation/10) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-9109a424472a80c633a78220aec16001]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/237/regulation/11) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-292c32baaff637c01dad22ac5ff535a9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/237/regulation/12) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-311d93903912a6e9fc4706378fca2cdd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/237/regulation/13) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-1114b9a378c29b30ec34a7f099a83ca1]: Textual amendment: Words in [reg. 13(5)(b)](https://www.legislation.gov.uk/nisr/2006/237/regulation/13/5/b) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2a7918d022e27ea392420915ac0884d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/237/regulation/14) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-45758a019c844443f486deeda4b60823]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/237/regulation/15) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^f00009]: Footnote: [S.R.1979 No 437](https://www.legislation.gov.uk/nisr/1979/437)
+
+[^f00010]: Footnote: [S.R. 1996 No.511](https://www.legislation.gov.uk/nisr/1996/511)
+
+[^key-fb11b6d9ae3695e5d999955ac9edfc13]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/237/regulation/16) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-5ee108daad47d510cb2c17ae6b5bc02c]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2006/237/regulation/16) heading substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74b58054da5e34c6f4a38fcf13921097]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2006/237/regulation/16) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6275c3c357adf733459d2b221377ab29]: Textual amendment: [Reg. 16AA](https://www.legislation.gov.uk/nisr/2006/237/regulation/16A) substituted for reg. 16A (11.11.2013) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/237)](https://www.legislation.gov.uk/nisr/2013/237), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/237/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2013/237/regulation/2/2)
+
+[^key-f941a66f2dd41dbcf041f7301a6b0779]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/237/regulation/17) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-b2e9b876422ac855de5609c324fa8815]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/237/regulation/18) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-507fc92fd970fcec5c7add991e2e7aba]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/nisr/2006/237/regulation/18/1/c) substituted (3.10.2016) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/267)](https://www.legislation.gov.uk/nisr/2016/267), [regs. 1](https://www.legislation.gov.uk/nisr/2016/267/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/267/regulation/3/3)
+
+[^key-1dccd31a95e09cc53ab481c5beff4ea3]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2006/237/regulation/18/3) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd39fdde89f19a00b5944fe5ee09b89c]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/2006/237/regulation/18/4) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0d13dcd0d75b08689ddd1a80546ef7e7]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/nisr/2006/237/regulation/18/5) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7508e6913009ca4114866a54fca9f795]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/nisr/2006/237/regulation/18A) inserted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e3c841509b3190cf9e94d9065a3da94e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/237/regulation/19) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-943850df48f005ccb43aa41c376e29eb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/237/regulation/20) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-15f90407ee9a0943600a3283b75ffe11]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/237/regulation/21) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-5f18463a754252e7be73e1465065418f]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2006/237/regulation/21/1) omitted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/3/a)
+
+[^key-2946da7c6b9611f1fcd849bb6057343c]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2006/237/regulation/21/1) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/3/b)
+
+[^key-e1e696274c7f2bd1a50170dbee2e9c70]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/237/regulation/22) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-25c1389e19b377bbe487df37d9344529]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/237/regulation/23) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-ade44bcd7d2bb51e945ef7ac816627e5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/237/regulation/24) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-2fb58d2a348a43daf7a4fafd66430ce9]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/237/regulation/25) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-e6205174ad591ec06ce058ddbea4200d]: Textual amendment: Words in [reg. 25(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2006/237/regulation/25/1/c/ii) inserted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/4/a)
+
+[^f00011]: Footnote: [S.R. 1997 No. 269](https://www.legislation.gov.uk/nisr/1997/269)
+
+[^key-5411fdf5b0949e99f9fc6873deae1a8a]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/nisr/2006/237/regulation/25/3) full stop omitted (10.10.2011) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/261)](https://www.legislation.gov.uk/nisr/2011/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/261/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2011/261/regulation/2/4/b)
+
+[^key-11986d7dbbba1193e670a73961c6bf49]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/237/regulation/26) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-510694c4a21812c900e64e03e2c0aab5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/237/regulation/27) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-10c00ec97d6fcbcb448c8f38cf622a6e]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2006/237/regulation/27/1) substituted (11.11.2013) by [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/237)](https://www.legislation.gov.uk/nisr/2013/237), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/237/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/237/regulation/2/3)
+
+[^key-73daf8e9f53b7f7f50f1eff241ec42ce]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/237/regulation/28) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-8c8fbc54a061add9c7526efcca250309]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/237/schedule/1/paragraph/1) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-62b277bed8bf8a9a18649d95a245a6ca]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/237/schedule/1/paragraph/2) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-9de34a62f8c7554fd1aca73993f37115]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/237/schedule/2/paragraph/1) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-71c76feddbb0e0d191cada227e25d6c3]: Textual amendment: Words in [Sch. 2 para. 1(b)(i)](https://www.legislation.gov.uk/nisr/2006/237/schedule/2/paragraph/1/b/i) substituted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2019/825/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b16d7eaad7521dc5e13406cca3040fbd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/237/schedule/2/paragraph/2) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-353e439e50da6f1544edb8d09c126b30]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/237/schedule/3) omitted (3.10.2016) by virtue of [The Railways (Safety Management) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/267)](https://www.legislation.gov.uk/nisr/2016/267), [regs. 1](https://www.legislation.gov.uk/nisr/2016/267/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/267/regulation/3/4)
+
+[^key-137f7a45c2fceb0355270a9ada618118]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2006/237/schedule/4/paragraph/1) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-0c3b14505ece11e575b9b56aec8ba522]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2006/237/schedule/4/paragraph/2) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-1c1d98c21213e895344160c14f1869da]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/237/schedule/4/paragraph/3) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-9e809c9ca41c05eb31b98bffaea27f12]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2006/237/schedule/4/paragraph/4) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-8ba575579df9863fbcdea1459b951443]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2006/237/schedule/4/paragraph/5) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-48382c0b0acd45e2f7830c9d2b707584]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2006/237/schedule/5/paragraph/1) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-059be01f4123a133488bd9a7c25c2e9d]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2006/237/schedule/5/paragraph/2) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-68df7864569dbe71123d7e1c8458bc08]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2006/237/schedule/5/paragraph/3) in operation at 30.6.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/237/regulation/1)
+
+[^key-898a350be3968ddcce29570cc5a1e231]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2006/237/schedule/6) inserted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/825/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3310fc3ea9e0bcd48957b24b2cec85d]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2006/237/schedule/7) inserted (31.12.2020) by [The Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/825)](https://www.legislation.gov.uk/uksi/2019/825), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/825/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/825/schedule/paragraph/1) (as amended by [S.I. 2019/1310](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

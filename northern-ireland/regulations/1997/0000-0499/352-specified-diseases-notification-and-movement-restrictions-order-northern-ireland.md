@@ -1,0 +1,296 @@
+---
+title: Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997
+id: nisr/1997/352
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-07-30'
+text_date: '1997-08-21'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/352
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/352/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (3).** Text as at 1997-08-21. See https://www.legislation.gov.uk/changes/affected/nisr/1997/352
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 352
+
+ANIMALS
+
+Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997
+
+Made
+
+30th July 1997
+
+Coming into operation
+
+21st August 1997
+
+The Department of Agriculture, in exercise of the powers conferred on it by Articles 2(3), 5(1), 10(6), 12(1), 14, 19(*e*), (*f*) and (*k*) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement[^key-4c1542288cf80f74ba0109a7028936a3]
+
+This Order may be cited as the Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997 and shall come into operation on 21st August 1997.
+
+## 2. Interpretation[^key-e68545b50d895ba104314f0774b53c8a]
+
+In this Order—
+
+- “affected” means affected with the specified disease;
+- “carcase” means the carcase of an animal or bird and includes part of a carcase, and the meat, bones, skin, offal or any part of an animal or bird or any portion thereof;
+- “cleansing and disinfection notice” means a notice in writing served by a veterinary inspector under Article 8;
+- “Divisional Veterinary Officer” means a Divisional Veterinary Officer of the Department;
+- “holding” means any establishment, construction or place where animals or poultry are held, kept or handled;
+- “premises” includes land with or without buildings;
+- “restriction notice” means a notice in the form prescribed in Schedule 2;
+- “specified disease” means a disease specified in column 2 of Schedule 1 when it affects such animals or poultry as are specified in column 3 of that Schedule opposite the reference to such a disease;
+- “suspected” means suspected of being affected; and
+- “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981.
+
+## 3. Extension of definitions of animals and poultry[^key-a40b801602b56694f5b8cd2b13978f07]
+
+For the purposes of the 1981 Order in its application to this Order—
+
+- (a) the list of animals in Part I of Schedule 1 to the 1981 Order is hereby extended so as to comprise—
+  - (i) any kind of mammal except man; and
+  - (ii) any kind of four-footed beast which is not a mammal; and
+- (b) the list of poultry in Part II of Schedule 1 to the 1981 Order is hereby extended so as to comprise birds of any kind.
+
+## 4. Notice of specified disease[^key-0068d94a9565413306576887ab9966af]
+
+(1) Subject to paragraph (3), a person who has in his possession or under his charge an affected or suspected animal, bird or carcase, a veterinary surgeon or other person who, in the course of his duties, examines or inspects such an animal, bird or carcase and any person who, following an analysis by him of any sample taken from an animal, bird or carcase has reasonable grounds for supposing that the animal, bird or carcase is affected, shall, with all practicable speed, give notice of the fact—
+
+- (a) to an inspector;
+- (b) to the Divisional Veterinary Officer; or
+- (c) to any member of the Royal Ulster Constabulary.
+
+(2) An inspector, if he is not a veterinary inspector, or a member of the Royal Ulster Constabulary who receives notice under paragraph (1) shall immediately inform a veterinary inspector of the fact.
+
+(3) This Article shall not apply to an animal, bird or carcase affected or suspected of being affected with spongiform encephalopathy.
+
+## 5. Notice of spongiform encephalopathy[^key-2deabf5e745f16fcbd15896bbd024d5a]
+
+(1) Subject to paragraph (4), a person who, in the course of a laboratory examination of the carcase of any bird, or of any animal other than a bovine animal, sheep or goat, suspects the presence of spongiform encephalopathy shall, with all practicable speed, give notice of the fact in accordance with Article 4(1).
+
+(2) A person shall not remove the sample and the remainder of the carcase in respect of which notice has been given under paragraph (1), from the laboratory where they were examined except under the authority of a licence issued by the Department and in accordance with any conditions subject to which the licence is issued.
+
+(3) A person shall, if so required by the Department, supply the Department with any samples in respect of which notice has been given under paragraph (1).
+
+(4) This Article shall not apply to any spongiform encephalopathy which has been deliberately introduced into an animal, a bird, a carcase, or a sample in a laboratory.
+
+## 6. Restrictions on movement of animals and poultry in cases of a specified disease or suspected specified disease[^key-03875bd4efe7d2ed8db5746575f06c8b]
+
+(1) If the Department has reasonable grounds for supposing that a specified disease exists on any premises it may serve a restriction notice on the occupier or person in charge of the premises prohibiting the movement of any animal, bird, carcase or other thing described in the notice onto or off the premises, except under the authority of a licence issued by the Department and in accordance with any conditions subject to which the licence is issued.
+
+(2) A restriction notice—
+
+- (a) may contain such other restrictions or requirements with regard to the premises to which it relates or with regard to persons, animals, poultry, carcases or other things on such premises as the Department may consider necessary for the purpose of preventing the spread of the specified disease; and
+- (b) shall continue in force until it is withdrawn by a notice in the form prescribed in Schedule 3 served by the Department on the occupier or person in charge of the premises to which the restriction notice relates.
+
+(3) A restriction notice shall be withdrawn by a notice in the form prescribed in Schedule 3 served by the Department on the occupier or person in charge of the premises to which the restriction notice relates if it is satisfied that—
+
+- (a) the specified disease which the Department had reasonable grounds for supposing existed on the premises to which the restriction notice relates does not so exist; or
+- (b) the keeping in force of the restriction notice is no longer necessary for the purposes of this Order.
+
+(4) If any person fails to comply with any of the restrictions on the movement of any animal, bird, carcase or other thing imposed by a restriction notice, or with any other restriction or requirement imposed by such a notice, the Department may, without prejudice to any proceedings for an offence arising out of such contravention or default, seize or cause to be seized any animal, bird, carcase or other thing which has been moved in contravention of any provision of the notice and detain it at such place as it shall consider appropriate until the restriction notice is withdrawn by a notice in the form prescribed in Schedule 3, or, as the case may be, take, or cause to be taken, such other action as may be necessary so as to ensure that any other restriction or requirement imposed by the restriction notice is complied with.
+
+(5) The amount of any expenses reasonably incurred by the Department in the exercise of the powers under paragraph (4) shall be recoverable as a civil debt by the Department from the person who caused or permitted such contravention or, as the case may be, from the person in default.
+
+## 7. Veterinary enquiry as to the existence of a specified disease[^key-92c24fb6488497625ca9f173c5a6bd3d]
+
+(1) For the purposes of ascertaining whether or not a specified disease exists on any premises in respect of which a restriction notice has been served a veterinary inspector may—
+
+- (a) carry out, or cause to be carried out, such enquiries, examinations and tests; and
+- (b) take, or cause to be taken, such samples,
+
+as he may consider necessary for the purpose of diagnosis.
+
+(2) A veterinary inspector may mark, or cause to be marked, for identification purposes any animal, bird, carcase or other thing in relation to which any of the powers under paragraph (1) has been exercised.
+
+(3) The occupier or person in charge of the premises or any person in his employment shall render such reasonable assistance to a veterinary inspector as he may require for the purpose of facilitating the exercise of his powers under paragraph (1) or (2).
+
+## 8. Cleansing and disinfection[^key-40cfde6208b8816bc8df48ee95cb8cdd]
+
+(1) Where a restriction notice has been served in respect of any premises a veterinary inspector may serve a cleansing and disinfection notice in writing on the occupier or person in charge of the premises requiring him to cleanse and disinfect the premises in the manner specified in the notice and within such time as may be so specified.
+
+(2) If any person on whom a cleansing and disinfection notice has been served under paragraph (1) fails to comply with the requirements of the notice, an inspector or other officer of the Department may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out the cleansing and disinfection required by the notice, and the amount of any expenses reasonably incurred by it in doing so shall be recoverable as a civil debt by the Department from the person in default.
+
+## 9. Declaration of infected area[^key-f34724d4acdee9f112d0aac6cd3ff113]
+
+(1) If the Department has reasonable grounds for suspecting that a specified disease exists within Northern Ireland or within such part of the Republic of Ireland as may entail the risk of the introduction or spread of that disease into Northern Ireland, it may by notice in writing declare Northern Ireland or such area therein as may be specified in the notice to be an infected area.
+
+(2) A notice given under paragraph (1) shall—
+
+- (a) be published in such manner and to such extent as it appears to the Department to be sufficient to bring the terms of the declaration to the attention of those persons likely to be affected by it;
+- (b) specify the date on which it shall come into force;
+- (c) remain in force until such date as may be specified therein or until revoked by a further notice published in like manner; and
+- (d) prescribe the description of animals or poultry in respect of which the provisions of Article 10 shall apply.
+
+(3) Subject to paragraph (4) any premises partly within an infected area shall be deemed to be wholly within an infected area.
+
+(4) Nothing in paragraph (3) shall deem any area outside Northern Ireland to be within an infected area.
+
+## 10. Restriction on movement of animals, poultry, undressed carcases and dung[^key-3ee4656e29efa5ada26a8ddc774079fd]
+
+(1) A person shall not move or cause or permit to be moved any animal or bird of such description as may be prescribed by a notice given under Article 9, any undressed carcase of such animal or bird or any dung—
+
+- (a) into or out of any area declared in accordance with Article 9 to be an infected area;
+- (b) from any holding in an infected area to any other holding in that area; or
+- (c) by public road, rail, water or air within an infected area,
+
+except under the authority of a licence issued by the Department and in accordance with any conditions subject to which the licence is issued.
+
+(2) Paragraph (1) shall not apply to the trans-shipment of any animal, bird, undressed carcase or dung through an infected area where that trans-shipment takes place without loading or unloading or stopping at any holding within that area.
+
+(3) A licence issued under paragraph (1) may be either a general licence or a specific licence.
+
+(4) A general licence shall be issued by the Department by publication of the provisions thereof in the Belfast Gazette.
+
+(5) An application for a specific licence shall be made in writing and shall contain such particulars as the Department may require.
+
+(6) The Department may vary, revoke or suspend any licence issued under paragraph (1)—
+
+- (a) in the case of a general licence, by a notice published in the Belfast Gazette; or
+- (b) in the case of a specific licence, by a notice in writing sent to the person to whom it was issued.
+
+(7) The Department may vary, revoke or suspend a general licence insofar as it applies to any particular person by notice in writing sent to that person.
+
+## 11. Isolation of animals and poultry within an infected area[^key-027cd0c2142154efa9c92c692c3d4367]
+
+(1) The Department may, by notice in writing, require any person to cause any animal or bird within an infected area to be isolated in such place, within any premises and subject to such conditions as may be specified in that notice.
+
+(2) A notice given under paragraph (1) shall remain in force until such date as may be specified therein or until revoked by a further notice in writing.
+
+## 12. General provisions as to licences[^key-c6f7c368f3922fcb9c937b3f81872832]
+
+(1) The Department may, where it considers it necessary for the purpose of preventing the spread of a specified disease, revoke or vary any licence issued under this Order by notice in writing served on the person to whom the licence was issued.
+
+(2) Any person acting under the authority of a licence issued under this Order shall ensure that the licence accompanies whatever is being moved under its authority and that person shall, on demand made by an inspector or other officer of the Department or by a member of the Royal Ulster Constabulary produce the licence and allow a copy or extract to be taken, and shall also, on such demand, furnish his name and address.
+
+## 13. Revocations[^key-01cb7951b5fde63d2c897b975d1cd124]
+
+The following Orders are hereby revoked—
+
+- (a) the Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1991[^f00002];
+- (b) the Specified Diseases (Notification and Movement Restrictions) (Amendment) Order (Northern Ireland) 1995[^f00003]; and
+- (c) the Specified Diseases (Notification and Movement Restrictions) (Amendment) Order (Northern Ireland) 1996[^f00004].
+
+Sealed with the Official Seal of the Department of Agriculture for Northern Ireland on
+
+R. S. Johnston
+
+Assistant Secretary
+
+30th July 1997.
+
+## SCHEDULE 1 — Specified Diseases[^key-5cbe89dc6910eb253f3e1d5b560b0dbf]
+
+Article 2
+
+<table>
+<thead>
+<tr><th><em>Item</em></th><th><em>Disease</em></th><th><em>Animal</em></th></tr>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>African horse sickness</td><td>All animals</td></tr>
+<tr><td>2</td><td>Blue tongue</td><td>All animals</td></tr>
+<tr><td>3</td><td>Brucellosis</td><td>All animals except bovine animals</td></tr>
+<tr><td>4</td><td>Contagious agalactia</td><td>All animals</td></tr>
+<tr><td>5</td><td>Contagious pleuro-pneumonia</td><td>All animals</td></tr>
+<tr><td>6</td><td>Epizootic haemorrhagic disease</td><td>All animals</td></tr>
+<tr><td>7</td><td>Goat pox</td><td>All animals</td></tr>
+<tr><td>8</td><td>Jaagsiekte complex</td><td>Sheep and goats</td></tr>
+<tr><td>9</td><td>Johne’s disease</td><td>Sheep and goats</td></tr>
+<tr><td>10</td><td>Lumpy skin disease</td><td>All animals</td></tr>
+<tr><td>11</td><td>Peste des petits ruminants</td><td>All animals</td></tr>
+<tr><td>12</td><td>Rift valley fever</td><td>All animals</td></tr>
+<tr><td>13</td><td>Rinderpest</td><td>All animals</td></tr>
+<tr><td>14</td><td>Scrapie</td><td>All animals</td></tr>
+<tr><td>15</td><td>Sheep pox</td><td>All animals</td></tr>
+<tr><td>16</td><td>Spongiform encephalopathy</td><td>Poultry and all animals except bovine animals, sheep or goats</td></tr>
+<tr><td>17</td><td>Teschen disease</td><td>All animals</td></tr>
+<tr><td>18</td><td>Vesicular stomatitis</td><td>All animals</td></tr>
+<tr><td>19</td><td>Visna-Maedi complex</td><td>All animals</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^key-eae65e5a6cd80e7b9084129d92bd0c6c]
+
+Articles 2 and 6
+
+Restriction Notice
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/352/images/nisr_19970352_en_001)
+
+## SCHEDULE 3 — Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^key-0497ddc23a30a28afa3daded8b30735a]
+
+Article 6(2), (3) and (4)
+
+Withdrawal of Restriction Notice
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/352/images/nisr_19970352_en_002)
+
+(This note is not part of the Order.)
+
+This Order revokes and replaces with amendments the Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1991, (as amended by the Specified Diseases (Notification and Movement Restrictions) (Amendment) Order (Northern Ireland) 1995 and the Specified Diseases (Notification and Movement Restrictions) (Amendment) Order (Northern Ireland) 1996).
+
+The Order makes the following principal changes—
+
+(1) A notice declaring Northern Ireland or a specified area therein to be an infected area shall be published in such manner and to such extent as appears to the Department of Agriculture to be sufficient to bring the terms of the declaration to the attention of persons likely to be affected by it (Article 9(2));
+
+(2) Viral haemorrhagic disease affecting rabbits is no longer a disease requiring notification under this Order (Schedule 1).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and S.I. [1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Arts. 19, 20 and 23
+
+[^key-4c1542288cf80f74ba0109a7028936a3]: Commencement: Art. 1 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-e68545b50d895ba104314f0774b53c8a]: Commencement: Art. 2 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-a40b801602b56694f5b8cd2b13978f07]: Commencement: Art. 3 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-0068d94a9565413306576887ab9966af]: Commencement: Art. 4 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-2deabf5e745f16fcbd15896bbd024d5a]: Commencement: Art. 5 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-03875bd4efe7d2ed8db5746575f06c8b]: Commencement: Art. 6 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-92c24fb6488497625ca9f173c5a6bd3d]: Commencement: Art. 7 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-40cfde6208b8816bc8df48ee95cb8cdd]: Commencement: Art. 8 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-f34724d4acdee9f112d0aac6cd3ff113]: Commencement: Art. 9 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-3ee4656e29efa5ada26a8ddc774079fd]: Commencement: Art. 10 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-027cd0c2142154efa9c92c692c3d4367]: Commencement: Art. 11 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-c6f7c368f3922fcb9c937b3f81872832]: Commencement: Art. 12 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-01cb7951b5fde63d2c897b975d1cd124]: Commencement: Art. 13 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^f00002]: Footnote: [S.R. 1991 No. 455](https://www.legislation.gov.uk/nisr/1991/455)
+
+[^f00003]: Footnote: [S.R. 1995 No. 82](https://www.legislation.gov.uk/nisr/1995/82)
+
+[^f00004]: Footnote: [S.R. 1996 No. 398](https://www.legislation.gov.uk/nisr/1996/398)
+
+[^key-5cbe89dc6910eb253f3e1d5b560b0dbf]: Commencement: Sch. 1 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-eae65e5a6cd80e7b9084129d92bd0c6c]: Commencement: Sch. 2 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)
+
+[^key-0497ddc23a30a28afa3daded8b30735a]: Commencement: Sch. 3 in operation at 21.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/352/article/1)

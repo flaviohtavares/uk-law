@@ -1,0 +1,106 @@
+---
+title: Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996
+id: nisr/1996/253
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '1996-06-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1996/253
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/253/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 253
+
+POLICE
+
+Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996
+
+Made
+
+24th June 1996
+
+To be laid before Parliament
+
+Coming into operation
+
+29th July 1996
+
+The Secretary of State, in pursuance of sections 25 and 26 of the Police Act (Northern Ireland) 1970[^f00001] and Article 14(6) of the Police (Northern Ireland) Order 1987[^f00002] and after consulting, in accordance with section 34(2) of that Act, the Police Authority and the Police Association, hereby makes the following regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996 and shall come into operation on 29th July 1996.
+
+## 2. Amendment of the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988
+
+(1) The Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988[^f00003] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 17 (procedure at hearing) in paragraph (12)(*b*) the words “or any mark on any such object” shall be omitted.
+
+(3) In regulation 37 (procedure at hearing – senior officers) in sub-paragraph (9)(*b*) the words “or any mark on any such object” shall be omitted.
+
+(4) For Schedule 1A there shall be substituted the Schedule contained in the Schedule to these regulations.
+
+P. B. B. Mayhew
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+24th June 1996
+
+## SCHEDULE — Schedule to be substituted for Schedule 1A to the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988
+
+Regulation 2(4)
+
+> **SCHEDULE 1A — CAUTIONS**
+>
+> Regulations 6, 30 and 31
+>
+> **1.** You do not have to say anything, but I must caution you that if you do not mention when questioned something which you later rely on in any subsequent disciplinary proceedings, it may harm your defence. You may, if you so desire, make a written or oral statement to the investigating officer or the chief constable or the Police Authority as appropriate. Anything you mention when questioned or any written or oral statement you make may be given in evidence at such disciplinary proceedings.
+>
+> **2.** On \[*date*\] at \[*time*\] at \[*place*\] there was:
+>
+> - (a) on your person
+> - (b) in or on your clothing/footwear
+> - (c) in your possession
+> - (d) in the place where you were at that time,
+>
+> a \[*state the object/substance/mark*\].
+>
+> I believe this \[*state the object/substance/mark*\] may be due to your involvement in the disciplinary offence of \[*state the disciplinary offence*\].
+>
+> You do not have to say anything about \[*object/substance/mark*\], but I must caution you that if you fail or refuse to account for \[*object/substance/mark*\] then your failure or refusal may be treated in any subsequent disciplinary proceedings as supporting any relevant evidence against you. If you do say anything it may be given in evidence at such disciplinary proceedings.
+>
+> I now ask you to account for \[*state the object/substance/mark*\]. Have you anything you wish to say?
+>
+> **3.** You were found on \[*day and date*\] at \[*place*\] at \[*time*\] which is at or about the time the disciplinary offence of \[*state the disciplinary offence*\] is alleged to have been committed.
+>
+> I believe your presence at \[*place*\] at that time may be due to your involvement in this disciplinary offence.
+>
+> You do not have to say anything about your presence at \[*place*\], on \[*day and date*\] at \[*time*\] but I must caution you that if you fail or refuse to account for your presence at \[*place*\] then your failure or refusal may be treated in any subsequent disciplinary proceedings as supporting any relevant evidence against you. If you do say anything it may be given in evidence at such disciplinary proceedings.
+>
+> I now ask you to account for your presence on \[*day and date*\] at \[*place*\] at or about \[*time*\]. Have you anything you wish to say?
+
+(This note is not part of the Regulations.)
+
+These regulations make minor amendments to regulations 17(12)(*b*) and 37(9)(*b*) of the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988 and substitute revised forms of caution for those contained in Schedule 1A to those regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1970 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1970/9) as amended by S.I. [1977/53 (N.I. 2)](https://www.legislation.gov.uk/nisi/1977/53) and S.I. [1987/938 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/938) and modified by S.I. [1973/2163](https://www.legislation.gov.uk/uksi/1973/2163)
+
+[^f00002]: Footnote: S.I. [1987/938 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/938)
+
+[^f00003]: Footnote: [S.R. 1988 No. 10](https://www.legislation.gov.uk/nisr/1988/10); relevant amendments were made by [S.R. 1989 No. 471](https://www.legislation.gov.uk/nisr/1989/471)

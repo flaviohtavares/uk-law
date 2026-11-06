@@ -1,0 +1,266 @@
+---
+title: The Planning (National Security Directions and Appointed Representatives) Rules (Northern Ireland) 2006
+id: nisr/2006/215
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-05-16'
+text_date: '2006-06-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/215
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/215/pdfs/nisrem_20060215_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/215/pdfs/nisr_20060215_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/215/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (National Security Directions and Appointed Representatives) Rules (Northern Ireland) 2006
+
+> Text as at 2006-06-24.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 215
+
+PLANNING
+
+The Planning (National Security Directions and Appointed Representatives) Rules (Northern Ireland) 2006
+
+Made
+
+16th May 2006
+
+To be laid before Parliament
+
+Coming into operation
+
+10th June 2006
+
+The Lord Chancellor makes the following rules in exercise of the powers conferred by Article 123A (6) of the Planning (Northern Ireland) Order 1991[^f00001]:
+
+## 1. Citation and commencement[^key-7d1cdc0f0c0271dd83ed406553fd0ff9]
+
+These rules may be cited as the Planning (National Security Directions and Appointed Representatives) Rules (Northern Ireland) 2006 and shall come into operation on 10th June 2006.
+
+## 2. Interpretation[^key-7a7a45f458a3dc7c6b7c770cacab2d17]
+
+(1) In these rules—
+
+- “affected person” means the person who will be prevented from hearing or inspecting closed evidence at a public local inquiry or independent examination if a direction is given;
+- “appointed representative” means the person appointed under Article 123A (4) or (5) of the 1991 Order;
+- “by local advertisement” means—
+  - (a) publication of the notice in a newspaper circulating in the area in which the land to which the request for a direction relates is situated; and
+  - (b) publication of the notice on a website;
+- “closed evidence” means evidence of a description indicated in a direction;
+- “direction” means a direction by the Secretary of State under Article 123A(2) of the 1991 Order;
+- “document” includes a photograph, map or plan;
+- “electronic communication” has the meaning assigned to it by section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^key-73058bfafdaaceda89e67af1bd44ad0b];
+- “potentially closed evidence” means evidence in respect of which a request for a direction has been made;
+- “the parties” means—
+  - (a) the person making the request for a direction; and
+  - (b) the appointed representative;
+- “the 1991 Order” means the Planning (Northern Ireland) Order 1991; and
+- “written representations” includes supporting documents.
+
+(2) In these rules and in relation to the use of electronic communications for any purpose of these rules which is capable of being effected electronically —
+
+- (a) the expression “address” includes any number or address used for the purposes of such communications; and
+- (b) references to notices, representations or other documents, or to copies of such documents, includes reference to such documents or copies of them in electronic form.
+
+(3) Paragraphs (4) to (7) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement in these rules to give or send any statement, notice or other document to any other person (“the recipient”).
+
+(4) The requirement shall be taken to be fulfilled where the notice or other document transmitted by means of the electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(5) In paragraph (4), “legible in all material respects” means that the information contained in the notice or other document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(6) Where the electronic communication is received by the recipient outside the recipient’s business hours, it shall be taken to have been received on the next working day; and for this purpose “working day” means a day which is not a Saturday, Sunday or a public holiday.
+
+(7) A requirement in these rules that any document should be in writing is fulfilled where that document meets the criteria in paragraph (4).
+
+## 3. Functions of an appointed representative[^key-e7a03e3d36e75d1c5306f16b47689f06]
+
+(1) The first function of an appointed representative is to represent the interests of the affected person by—
+
+- (a) taking instructions from the affected person before receiving copies of potentially closed evidence;
+- (b) making written representations as to whether a direction should be given; and
+- (c) in respect of a hearing held in accordance with rule 9—
+  - (i) dealing with preliminary matters;
+  - (ii) making submissions; and
+  - (iii) cross-examining witnesses.
+
+(2) The second function of an appointed representative is to represent the interests of the affected person by—
+
+- (a) taking instructions from the affected person before receiving copies of closed evidence;
+- (b) dealing with preliminary matters in relation to closed evidence in respect of a public local inquiry or independent examination;
+- (c) making submissions or cross-examining witnesses, in relation to closed evidence, at an inquiry or independent examination; and
+- (d) attending site visits.
+
+(3) The third function of an appointed representative is to ensure that the copies of the closed evidence or potentially closed evidence are returned to the person who supplied it as soon as practicable after—
+
+- (a) the Secretary of State has given notice under rule 13 that he does not intend to give a direction;
+- (b) an inquiry or independent examination, to which the closed evidence relates, has ended; or
+- (c) the Secretary of State has notified the appointed representative that no inquiry or independent examination, to which the closed evidence relates, will be held,
+
+whichever is the later.
+
+(4) For the purposes of any of his functions the appointed representative may discuss any matter relating to the closed evidence or potentially closed evidence with—
+
+- (a) the person who has supplied the closed or potentially closed evidence to the Secretary of State; or
+- (b) a person specified, or of any description specified, in the direction.
+
+## 4. Acknowledgement of request for a direction[^key-1fe470a9d82ca24653068d17711cd889]
+
+As soon as practicable after receiving a request for a direction the Secretary of State shall acknowledge receipt of it in writing.
+
+## 5. Publicity[^key-e1c6e988271d8572c68a8428453ab22b]
+
+(1) As soon as practicable after receiving a request for a direction it shall be publicised by the Secretary of State by giving notice by local advertisement and, if appropriate, by serving notice upon any owner or occupier adjoining the land to which the request for a direction relates.
+
+(2) A notice given under paragraph (1) shall—
+
+- (a) state that a request for a direction has been made;
+- (b) state that written representations as to whether a direction should be given can be made to the Secretary of State at the address specified in the notice; and
+- (c) specify the date by which any such representations should be made to the Secretary of State (being a date not less than 2 weeks from the date when the notice is given).
+
+## 6. Information to be sent to the parties[^key-2559c8dbd7fae7d8d48574ae81c56f01]
+
+(1) As soon as practicable after notice of the request for a direction has been given in accordance with rule 5, the Secretary of State shall—
+
+- (a) notify in writing the appointed representative of the date by which any written representations as to whether a direction should be given should be received by the Secretary of State (being a date not less than 6 weeks from the date when the notice to the appointed representative is given); and
+- (b) at the same time, send a copy of the notice referred to in sub-paragraph (a) to the other party.
+
+(2) As soon as practicable after being notified by the appointed representative that he has taken instructions from the affected person, the Secretary of State shall send to the appointed representative—
+
+- (a) a copy of the request for the direction; and
+- (b) where the potentially closed evidence includes documentary evidence or a proof of evidence of a person who intends to give oral evidence, a copy of the evidence.
+
+## 7. Written representations procedure[^key-ff01dbaf567f964372944d9dd20974c0]
+
+(1) For the purposes of these rules, the request for a direction comprises the written representations of the person making the request for a direction.
+
+(2) The Secretary of State shall, as soon as practicable after receipt, send—
+
+- (a) a copy of any written representations made to him by the appointed representative to the other party; and
+- (b) copies of any written representations made to him by persons pursuant to rule 5(2)(b) to the parties.
+
+(3) If either party makes any further representations, the Secretary of State shall, as soon as practicable after receipt, send a copy of the further representations to the other party.
+
+(4) The Secretary of State may proceed to a decision on a request for a direction taking into account only such representations as have been submitted by the relevant date.
+
+(5) In paragraph (4) “relevant date” means the date specified in a notice issued under rule 5(2) or 6(1) as the case may be, or such later date as may be fixed by the Secretary of State under rule 10.
+
+## 8. Decision to hold a hearing and date of hearing[^key-fa41fa7bc97e44a10a1d58b28b1a0363]
+
+(1) Where the Secretary of State considers that one or more matters relating to the request would be more satisfactorily resolved by holding a hearing attended by the parties, he shall give the parties written notice accordingly.
+
+(2) The date fixed by the Secretary of State for the holding of a hearing shall be not later than 6 weeks after the date of the notice referred to in paragraph (1).
+
+(3) Unless the Secretary of State agrees a lesser period of notice with the parties, he shall give to them not less than 2 weeks written notice of the date, time and place fixed by him for the holding of the hearing.
+
+(4) The Secretary of State may vary the date fixed for the holding of the hearing, whether or not the date as varied is within the period of 6 weeks mentioned in paragraph (2); and paragraph (3) applies to a variation of a date as it applied to the date originally fixed.
+
+(5) The Secretary of State may vary the time or place for the holding of a hearing and shall give the parties such notice of any variation as appears to him to be reasonable.
+
+## 9. Hearing Procedure[^key-0f3b3ebbd4c0934fac9dc0e7e42657f2]
+
+(1) Except as otherwise provided in these rules, the Secretary of State shall determine the procedure at a hearing.
+
+(2) A hearing shall take the form of a discussion led by the Secretary of State and cross-examination shall be permitted if the Secretary of State considers it necessary to ensure a thorough examination of the main issues.
+
+(3) At the start of the hearing the Secretary of State shall identify what are, in his opinion, the main issues to be considered at the hearing and any matters on which he requires further explanation from the parties.
+
+(4) Nothing in paragraph (3) precludes the parties from referring to issues which they consider relevant to the consideration of the request for a direction but which were not issues identified by the Secretary of State pursuant to that paragraph.
+
+(5) The Secretary of State may—
+
+- (a) proceed with the hearing in the absence of any party;
+- (b) take into account any written representation or evidence or any other document received by him from any person before a hearing opens or during the hearing provided that he discloses it at the hearing; and
+- (c) from time to time adjourn a hearing and, if the date, time and place of the adjourned hearing are announced at the hearing before the adjournment, no further notice is required.
+
+(6) When making his determination the Secretary of State may disregard any written representations, evidence or other document received after the end of the hearing.
+
+## 10. Further time[^key-6e4607ca29802c4ca8b3c3aacf94382b]
+
+The Secretary of State may at any time in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these rules, and references in these rules to a day by which, or a period within which, any step is required or enabled to be taken shall be construed accordingly.
+
+## 11. Notices by post[^key-070011ffef49663337c6559459fa9020]
+
+Notices or documents required or authorised to be sent under these rules may be sent or supplied—
+
+- (a) by post; or
+- (b) by using electronic communications to send or supply the notice or document (as the case may be) to a person at such an address as may be for the time being specified by the person for that purpose.
+
+## 12. Use of electronic communication[^key-9f503f56fd018ccb1e90395f6e8d5b65]
+
+(1) Where a person uses electronic communications to transmit any statement, notice or other document for any purpose of these Rules which is capable of being carried out electronically he shall be taken to have agreed to the use of such communications and that his address for that purpose is the address incorporated into, or otherwise logically associated with the notice or document.
+
+(2) Where a person is no longer willing to accept the use of electronic communications for any purpose under these rules which is capable of being effected electronically, the person shall give notice in writing—
+
+- (a) withdrawing any address notified to the Secretary of State for that purpose; or
+- (b) revoking any agreement entered into with the Secretary of State for that purpose,
+
+and such withdrawal or revocation shall be final and shall take effect on a date specified by the person in the notice but not less than 7 days after the date on which the notice is given.
+
+## 13. Notification of decision[^key-ac55f0092e0f733930dff00b862b4fef]
+
+(1) As soon as practicable after determining whether or not to make a direction the Secretary of State shall notify his decision to any person who made representations to him in relation to the direction; but nothing in this paragraph requires or permits the Secretary of State to give reasons for his decision, where the giving of reasons would result in the public disclosure of closed evidence.
+
+(2) Where a direction is given the Secretary of State shall, at the same time as notifying his decision in accordance with paragraph (1), send a copy of the direction to the appointed representative and the person who requested the direction.
+
+Signed by authority of the Lord Chancellor
+
+Bridget Prentice
+
+Parliamentary Under Secretary of State
+
+Department for Constitutional Affairs
+
+Dated 16th May 2006
+
+(This note is not part of the Order)
+
+Article 123A of the Planning (Northern Ireland) Order 1991 provides that, at any inquiry or independent examination held under the Order, oral evidence is to be heard in public and documentary evidence to be open to public inspection except where the Secretary of State otherwise directs on the grounds that the public disclosure of information relating to national security or to measures intended to secure premises or property would be contrary to the public interest. The Article provides for the appointment of persons (“appointed representatives”) to represent the interests of any person who will be prevented from hearing or inspecting any evidence at a public local inquiry or independent examination if such a direction is given.
+
+These rules provide for the procedure to be followed by the Secretary of State when he is considering giving a national security direction, including provisions on publicity (rule 5), written representations (rule 7), hearings (rules 8 and 9) and notification of his decision (rule 13). The rules also set out the functions of appointed representatives (rule 3).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I.1991.1220 (N.I.11)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by [S.I.2003/430(N.I.8)](https://www.legislation.gov.uk/nisi/2003/430) and [S.I.2006/1252 (N.I.7)](https://www.legislation.gov.uk/nisi/2006/1252)
+
+[^key-7d1cdc0f0c0271dd83ed406553fd0ff9]: Commencement: Rule 1 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-7a7a45f458a3dc7c6b7c770cacab2d17]: Commencement: Rule 2 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-73058bfafdaaceda89e67af1bd44ad0b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2006/215/article/2/1) substituted (24.6.2006) by virtue of [The Planning (National Security Directions and Appointed Representatives) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/285)](https://www.legislation.gov.uk/nisr/2006/285), [arts. 1](https://www.legislation.gov.uk/nisr/2006/285/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/285/article/2/2)
+
+[^key-e7a03e3d36e75d1c5306f16b47689f06]: Commencement: Rule 3 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-1fe470a9d82ca24653068d17711cd889]: Commencement: Rule 4 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-e1c6e988271d8572c68a8428453ab22b]: Commencement: Rule 5 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-2559c8dbd7fae7d8d48574ae81c56f01]: Commencement: Rule 6 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-ff01dbaf567f964372944d9dd20974c0]: Commencement: Rule 7 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-fa41fa7bc97e44a10a1d58b28b1a0363]: Commencement: Rule 8 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-0f3b3ebbd4c0934fac9dc0e7e42657f2]: Commencement: Rule 9 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-6e4607ca29802c4ca8b3c3aacf94382b]: Commencement: Rule 10 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-070011ffef49663337c6559459fa9020]: Commencement: Rule 11 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-9f503f56fd018ccb1e90395f6e8d5b65]: Commencement: Rule 12 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+
+[^key-ac55f0092e0f733930dff00b862b4fef]: Commencement: Rule 13 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)

@@ -1,0 +1,225 @@
+---
+title: The Farming for the Generations Scheme Regulations (Northern Ireland) 2024
+id: nisr/2024/16
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2024-01-25'
+text_date: '2024-03-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2024/16
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2024/16/pdfs/nisrem_20240016_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2024/16/pdfs/nisr_20240016_en.pdf
+- http://www.legislation.gov.uk/nisr/2024/16/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Farming for the Generations Scheme Regulations (Northern Ireland) 2024
+
+> Text as at 2024-03-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2024 No. 16
+
+Agriculture
+
+The Farming for the Generations Scheme Regulations (Northern Ireland) 2024
+
+Made
+
+25th January 2024
+
+Coming into operation
+
+1st March 2024
+
+The Department of Agriculture, Environment and Rural Affairs[^f00001] makes these Regulations in exercise of the powers conferred by sections 5 and 6 of the Agriculture Act (Northern Ireland) 1949[^f00002].
+
+These Regulations are made with the approval of the Department of Finance[^f00003] under sections 5 and 6 of the Agriculture Act (Northern Ireland) 1949.
+
+## 1. Citation and commencement[^key-e722638b0a43aa5190381622b2bafd71]
+
+These Regulations may be cited as the Farming for the Generations Scheme Regulations (Northern Ireland) 2024 and shall come into operation on 1st March 2024.
+
+## 2. Interpretation[^key-4b5052d30c778f7e801b9dd76a461712]
+
+In these Regulations—
+
+- “**applicant**” means an eligible farm business registered with a DAERA farm business ID which has applied for a scheme grant;
+- “**approved**” means approved by the Department;
+- “**authorised person**” means any person authorised by the Department, to act in matters relating to these Regulations;
+- “**CAFRE**” means the College of Agriculture, Food and Rural Enterprise;
+- “**Department**” means the Department of Agriculture, Environment and Rural Affairs;
+- “**eligible farm business**” means a farm business that meets the requirements of these Regulations;
+- “**eligible professional adviser**” means a solicitor entitled to practise in Northern Ireland, a chartered accountant or an estate agent;
+- “**scheme**” means the Farming for the Generations Scheme;
+- “**succession business restructuring grant**” means a grant where an eligible farm business implements a change to the business structure for succession purposes;
+- “**succession planning consultation grant**” means a grant to enable an applicant to have a consultation with an eligible professional adviser;
+- “**successor development grant**” means a grant where, an applicant can avail of approved funding for reasonable travel expenses, training or a work placement.
+
+## 3. Farming for the Generations scheme[^key-9a413b93777682c05a5b4c499c30276e]
+
+(1) Subject to paragraph (2) and to regulation 4, the Department may pay a grant to an eligible applicant.
+
+(2) Payment of a grant is subject to the applicant producing to the Department in relation to —–
+
+- (a) a succession planning consultation grant or a succession business restructuring grant, a receipted bill of costs from an eligible professional adviser;
+- (b) a successor development grant, receipted invoices not exceeding the approved amounts in relation to the applicant’s successor development grant proposal.
+
+## 4. Scheme grant: requirements[^key-512ca64b1976563a8011e7d7cd6e7b5d]
+
+(1) An applicant must as a condition of eligibility for the payment of a succession planning consultation grant or a succession business restructuring grant attend two approved relevant workshops provided by or on behalf of CAFRE.
+
+(2) An applicant must as a condition of eligibility for the payment of a successor development grant attend at least 80% of the relevant workshops provided by or on behalf of CAFRE.
+
+(3) The Department may by notice in writing exempt an applicant in whole or in part from a requirement mentioned in paragraph (1) or (2).
+
+## 5. Succession planning consultation grant[^key-6322cbdd07c557b6fce6fcbd4c569277]
+
+(1) Subject to paragraph 2, the Department may pay to an applicant a succession planning consultation grant not exceeding £170 for each consultation with an eligible professional adviser.
+
+(2) The total payments under paragraph (1) during the scheme period shall not exceed £680.
+
+## 6. Succession business restructuring grant[^key-9a915afeb03acb784e00455a378df4a8]
+
+The Department may pay to an applicant a succession business restructuring grant not exceeding £2500 during the scheme period in relation to expenditure incurred by the applicant on the professional fees of an eligible professional adviser for the purpose of implementing business succession restructuring.
+
+## 7. Successor development grant[^key-433edf2890fe9c77af6268547ed3cd9b]
+
+The Department may approve an applicant’s successor development grant proposal and pay to an applicant a successor development grant not exceeding a total of £8,000 during the scheme period in relation to—
+
+- (a) the fees of a training course at an approved university, or other approved educational organisation;
+- (b) approved reasonable accommodation, travel and subsistence expenses incurred in connection with —
+  - (i) attending an approved training course under paragraph (a);
+  - (ii) attending an approved work placement outside Northern Ireland.
+
+## 8. Scheme period[^key-061d8a20b2cac7fb524b978185aa41ce]
+
+The scheme period is from 1st March 2024 to 28th February 2027 both dates inclusive.
+
+## 9. Inspection[^key-32f33c96670f2699b626439159583864]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Review of decision[^key-901c27b89217a925eef21148902e7ab5]
+
+(1) Where the Department rejects an application under these Regulations, in whole or in part, an applicant may apply to the Department for a review of the decision.
+
+(2) An applicant must apply to the Department in writing for a review no later than one month beginning with the date of the notification of the decision to be reviewed and specify—
+
+- (a) the name and address of the applicant;
+- (b) the decision of the Department in respect of which the applicant seeks a review and the date of that decision; and
+- (c) full particulars of the grounds upon which the review of the decision is sought.
+
+(3) Where an applicant seeks a review under this regulation the Department must review the decision specified.
+
+(4) In reviewing a decision the Department may—
+
+- (a) consider any document or other evidence produced by the applicant (whether or not that document or evidence was available at the time of the decision);
+- (b) invite the applicant to provide such further information relevant to the review as it considers appropriate; and
+- (c) give the applicant or its representative an opportunity to make representations orally or in writing.
+
+(5) Following a review of the decision the Department may—
+
+- (a) confirm the decision; or
+- (b) substitute for it a new decision.
+
+(6) As soon as reasonably practicable after reviewing the decision, the Department must notify the applicant in writing of its decision under paragraph (5) and the reasons for it.
+
+## 11. Withholding and recovery of payment[^key-556998f686f99aa20caa648c430d0d09]
+
+(1) This regulation applies where, having approved an application for payment it appears to the Department that—
+
+- (a) the applicant was not eligible to make the application;
+- (b) the applicant knowingly or recklessly provided false or misleading information or any document which is false or misleading in a material particular in relation to the application;
+- (c)[^key-50305d3b2dae0958cd179e1a939abdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to paragraph (3), the Department may—
+
+- (a) revoke the approval of the application; and
+- (b) where payment has already been made, recover on demand from the applicant an amount equal to the whole or any part of the payment—
+  - (i) as a civil debt; or
+  - (ii) by way of offsetting against any sum otherwise payable to the applicant by the Department.
+
+(3) Before exercising the power under paragraph (2), the Department must by a withdrawal or recovery notice, as is appropriate—
+
+- (a) give the applicant a written explanation of the reasons for the proposed action;
+- (b) afford the applicant the opportunity to make written representations with a reasonable time specified by the Department; and
+- (c) consider representations made by or on behalf of the applicant within a reasonable time period.
+
+Sealed with the Official Seal of the Department of Agriculture, Environment and Rural Affairs on 25th January 2024
+
+(L.S.)
+
+Rosemary Agnew
+
+A senior officer of the
+
+Department of Agriculture, Environment and Rural Affairs
+
+The Department of Finance approves the making of these Regulations.
+
+Sealed with the Official Seal of the Department of Finance on 25th January 2024
+
+(L.S.)
+
+Barry Armstrong
+
+A senior officer of the
+
+Department of Finance
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Regulations establish the Farming for the Generations Scheme (‘the Scheme’). The Scheme provides for grant payments to be made by the Department of Agriculture, Environment and Rural Affairs for the purposes of generational succession planning for farm businesses.
+
+The Scheme–
+
+- specifies the types of grants available (regulation 3);
+- specifies the eligibility criteria for each grant (regulation 4);
+- specifies the amounts of grant payments which may be made (regulations 5, 6 and 7);
+- specifies the scheme period (regulation 8);
+- provides for inspections (regulation 9);
+- provides for the review of a decision to reject an application (regulation 10); and
+- provides for the Department to withhold payment in any case where false or misleading information has been provided and to recover any undue payment (regulation 11).
+
+## Annotations
+
+[^f00001]: Footnote: The Ministry of Agriculture for Northern Ireland became the Department of Agriculture for Northern Ireland, see the Northern Ireland Constitution Act [1973 c.36](https://www.legislation.gov.uk/ukpga/1973/36) section 40 and Schedule 5 paragraph 8(1); Renamed as the Department of Agriculture and Rural Development by the Departments (Northern Ireland) Order 1999 [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(4) and the Department of Agriculture, Environment and Rural Affairs the Departments Act (Northern Ireland) [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5) section 1(2)
+
+[^f00002]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
+
+[^f00003]: Footnote: The “Ministry of Finance” is now the “Department of Finance”; see section 1(4) of the Departments Act (NI) [2016 (c.5(N.I.))](https://www.legislation.gov.uk/nia/2016/5)
+
+[^key-e722638b0a43aa5190381622b2bafd71]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-4b5052d30c778f7e801b9dd76a461712]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/16/regulation/2) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-9a413b93777682c05a5b4c499c30276e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/16/regulation/3) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-512ca64b1976563a8011e7d7cd6e7b5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/16/regulation/4) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-6322cbdd07c557b6fce6fcbd4c569277]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/16/regulation/5) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-9a915afeb03acb784e00455a378df4a8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/16/regulation/6) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-433edf2890fe9c77af6268547ed3cd9b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2024/16/regulation/7) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-061d8a20b2cac7fb524b978185aa41ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2024/16/regulation/8) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-32f33c96670f2699b626439159583864]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2024/16/regulation/9) omitted (6.3.2024) by virtue of [The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/31)](https://www.legislation.gov.uk/nisr/2024/31), [regs. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/31/regulation/2/2)
+
+[^key-901c27b89217a925eef21148902e7ab5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2024/16/regulation/10) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-556998f686f99aa20caa648c430d0d09]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2024/16/regulation/11) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+
+[^key-50305d3b2dae0958cd179e1a939abdda]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/nisr/2024/16/regulation/11/1/c) omitted (6.3.2024) by virtue of [The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/31)](https://www.legislation.gov.uk/nisr/2024/31), [regs. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/31/regulation/2/3)

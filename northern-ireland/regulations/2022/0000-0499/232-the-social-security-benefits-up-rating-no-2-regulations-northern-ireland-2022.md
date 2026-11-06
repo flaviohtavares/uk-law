@@ -1,0 +1,85 @@
+---
+title: The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022
+id: nisr/2022/232
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: repealed
+made_date: '2022-09-27'
+text_date: '2023-03-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2022/232
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2022/232/pdfs/nisrem_20220232_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/232/pdfs/nisr_20220232_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/232/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022
+
+> This law has been repealed or revoked.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**No longer in force.**
+
+Regulations made by the Department for Communities and laid before the Assembly under section 51(3) of the Pensions Act (Northern Ireland) 2015 for approval of the Assembly before the expiration of six months from the date of their coming into operation
+
+2022 No. 232
+
+Social Security
+
+The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022 (revoked)[^key-634989a830122e5bb3db38df2c306a1c]
+
+Made
+
+*27*th September 2022
+
+Coming into operation
+
+28th September 2022
+
+[^key-634989a830122e5bb3db38df2c306a1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation, commencement and interpretation[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Persons not ordinarily resident in Northern Ireland[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Revocations[^key-634989a830122e5bb3db38df2c306a1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-634989a830122e5bb3db38df2c306a1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-634989a830122e5bb3db38df2c306a1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-634989a830122e5bb3db38df2c306a1c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/232) revoked (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Regulations (Northern Ireland) 2023 (S.R. 2023/30)](https://www.legislation.gov.uk/nisr/2023/30), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/30/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2023/30/regulation/7)

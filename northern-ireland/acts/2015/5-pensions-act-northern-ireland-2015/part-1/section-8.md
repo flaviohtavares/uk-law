@@ -1,0 +1,77 @@
+---
+title: Pensions Act (Northern Ireland) 2015, section 8
+act: Pensions Act (Northern Ireland) 2015
+section: '8'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/5/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act (Northern Ireland) 2015, section 8
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/nia/2015/5
+>
+> Extent: Northern Ireland.
+
+## 8. Choice of lump sum or survivor's pension under section 9 in certain cases[^c22569551][^c22902091]
+
+*Extent: N.I.*
+
+(1) A person is entitled to a choice under this section if—
+
+- (a) the person has reached pensionable age,
+- (b) the person's spouse died while they were married or the person's civil partner died while they were civil partners of each other,
+- (c) the spouse's or civil partner's entitlement to an old state pension was deferred at the time of death and throughout the period of 12 months ending with the day before the death,
+- (d) either—
+  - (i) the person was under pensionable age when the spouse or civil partner died and did not marry or form a civil partnership after the death and before reaching pensionable age, or
+  - (ii) the person was over pensionable age when the spouse or civil partner died, and
+- (e) the person would, on reaching pensionable age or on the death of the spouse or civil partner, have been entitled to an old state pension if in the relevant provisions of the Contributions and Benefits Act—
+  - (i) the words “before 6 April 2016” were omitted, and
+  - (ii) any reference to a bereavement allowance included a reference to bereavement support payment under section 29 of this Act.
+
+(2) The person may choose—
+
+- (a) to be paid a lump sum under this section, or
+- (b) to be paid a state pension under section 9.
+
+(3) Regulations are to set out the manner in which, and the period within which, that choice is to be made.
+
+(4) A person who chooses to be paid a lump sum under this section, or who fails to choose within that period, is entitled to a “widowed person's or surviving civil partner's lump sum” calculated under paragraph 7B of Schedule 5 to the Contributions and Benefits Act.
+
+(5) In that paragraph as it applies for the purposes of this section—
+
+- (a) read the references to “W” as references to the person,
+- (b) read sub-paragraph (5) as if it required increases under paragraph 4 of the Schedule to be excluded, and
+- (c) read the reference in sub-paragraph (7)(a) to the date on which W becomes entitled to a Category A or Category B retirement pension as a reference to the date on which the person becomes entitled to make a choice under this section.
+
+(6) There are provisions elsewhere that affect a person's entitlement to a lump sum under this section.
+
+(7) Regulations may allow a person, in specified circumstances—
+
+- (a) to alter his or her choice under this section;
+- (b) to make a late choice.
+
+(8) Regulations under subsection (7) may, for the purpose of avoiding the duplication of payment—
+
+- (a) enable recovery of an amount paid to the person, or
+- (b) reduce the amount of a lump sum to be paid to the person.
+
+(9) For the purposes of this section—
+
+- (a) “**deferred**” has the meaning given by section 55(3) of the Contributions and Benefits Act,
+- (b) “the relevant provisions” of the Contributions and Benefits Act are—
+  - section 44(1)(a);
+  - section 48(1);
+  - section 48A(1) and (3);
+  - section 48B(1), (1A), (4) and (4A);
+  - section 48BB(1) and (3), and
+- (c) in determining whether a person would have been entitled to an old state pension as mentioned in subsection (1)(e) ignore any requirement to make a claim.
+
+## Annotations
+
+[^c22569551]: Commencement: S. 8(3)(7)(8) in operation at 16.7.2015 for specified purposes by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/2/c)
+
+[^c22902091]: Commencement: S. 8 in operation at 6.4.2016 so far as not brought into operation earlier by an order, see [s. 53(1)(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/1/3)

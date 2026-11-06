@@ -1,0 +1,1373 @@
+---
+title: The Agriculture (Student Fees) Regulations (Northern Ireland) 2023
+id: nisr/2023/98
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2023-06-19'
+text_date: '2026-09-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2023/98
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2023/98/pdfs/nisrem_20230098_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2023/98/pdfs/nisr_20230098_en.pdf
+- http://www.legislation.gov.uk/nisr/2023/98/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agriculture (Student Fees) Regulations (Northern Ireland) 2023
+
+> Text as at 2026-09-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Regulations laid before the Assembly in accordance with section 42(2) of the Agriculture Act (Northern Ireland) 1949
+
+2023 No. 98
+
+Agriculture
+
+The Agriculture (Student Fees) Regulations (Northern Ireland) 2023
+
+Made
+
+19th June 2023
+
+Coming into operation
+
+1st September 2023
+
+The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by section 5A(1) and (2) of the Agriculture Act (Northern Ireland) 1949[^f00002], makes the following Regulations.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-28424c79ed0831e15bbda55464577722]
+
+These Regulations may be cited as the Agriculture (Student Fees) Regulations (Northern Ireland) 2023 and shall come into operation on 1st September 2023.
+
+### 2. Interpretation[^key-a658d3365628886879f942c577ad8a04]
+
+(1) In these Regulations—
+
+- “**2022 legacy fee framework**” has the meaning assigned by regulation 9;
+- “**academic year**” has the meaning assigned by paragraph (3);
+- “**accreditation of prior learning scheme**” means a scheme operated by CAFRE that permits learning completed by a student to be subsequently credited against a new qualification and which may give the student exemption from taking part of the qualification in question;
+- “**Bachelor’s degree course**” means a higher education course for a Bachelor’s degree, level 6 on the FHEQ;
+- “**CAFRE**” means the College of Agriculture, Food and Rural Enterprise;
+- “**certificate in higher education course**” means a higher education course for a certificate in higher education, level 4 on the FHEQ;
+- “**the course start date**” means the day on which the first term of the first academic year of a course actually begins;
+- “**credit points**” means points awarded to a student upon successful completion of each module of the higher education course;
+- “**current course**” means the higher education course in respect of which a student is enrolled;
+- “**current fee framework**” has the meaning assigned by regulation 8;
+- “**Department**” means the Department of Agriculture, Environment and Rural Affairs;
+- “**extended foundation degree course**” means a foundation degree course that includes a period of work placement of one year;
+- “**fee code**” means the fee code associated with a student that relates to the fee amount to be charged;
+- “**fees**” has the meaning assigned by paragraph (2);
+- “**FHEQ**” means the Framework for Higher Education Qualifications of Degree-Awarding Bodies in England, Wales and Northern Ireland;
+- “**foundation degree course**” means a higher education course for a foundation degree, level 5 on the FHEQ;
+- “**full-time equivalent**” means a full-time higher education course leading to the same qualification as the part-time higher education course in question;
+- “**full-time higher education course**” has the meaning assigned by regulation 5;
+- “**full-time student**” means a student undertaking a full-time higher education course;
+- “**Great Britain**” means England, Scotland and Wales;
+- “**higher education course**” has the meaning assigned by regulation 4;
+- “**home student**” has the meaning assigned by regulation 10;
+- “**international student**” has the meaning assigned by regulation 12;
+- “**intensity of study**” has the meaning assigned by regulation 13;
+- “**the Islands**” means the Isle of Man and the Channel Islands;
+- “**Master’s degree course**” means a higher education course for a Master’s degree, level 7 on the FHEQ;
+- “**ordinarily resident**” has the meaning assigned by paragraph 2 of Schedule 2;
+- “**overseas institutions**” means an institution other than one in Northern Ireland, Great Britain, Gibraltar or the Islands;
+- “**part-time higher education course**” has the meaning assigned by regulation 6;
+- “**part-time student**” means a student undertaking a part-time higher education course;
+- “**period of work placement**” means a period of industrial, professional or commercial experience undertaken by a student that is associated with the higher education course;
+- “**postgraduate certificate course**” means a higher education course for a postgraduate certificate, level 7 on the FHEQ;
+- “**postgraduate diploma course**” means a higher education course for a postgraduate diploma, level 7 on the FHEQ;
+- “**qualifying person**” means a person who falls within Schedule 2;
+- “**student category**” means the category in which a student will fall within in accordance with these Regulations of Home Student, Student from Great Britain or International Student as the case may be;
+- “**sandwich higher education course**” has the meaning assigned by regulation 7;
+- “**student**” means a person undertaking a higher education course;
+- “**student from Great Britain**” has the meaning assigned by regulation 11.
+
+(2) In these Regulations “**fees**”, in relation to undertaking a higher education course, means fees in respect of, or otherwise in connection with, undertaking the higher education course, including admission, registration, tuition and graduation fees but excluding—
+
+- (a) fees payable to the Department for awarding or accrediting any qualification where the Department does not provide the whole or part of the course;
+- (b) fees payable for board or lodging;
+- (c) fees payable for attending any graduation or other ceremony; and
+- (d) fees payable for resubmission of coursework and/or resitting of examinations.
+
+(3) For the purpose of these Regulations, “academic year” is the period of twelve months beginning with 1st January, 1st April, 1st July or 1st September of the calendar year in which the academic year of the higher education course in question begins, according to whether that academic year begins—
+
+- (a) on or after 1st January and before 1st April;
+- (b) on or after 1st April and before 1st July;
+- (c) on or after 1st July and before 1st August; or
+- (d) on or after 1st August and on or before 31st December.
+
+### 3. Revocation[^key-ed64aa8e3c1b5e21baffce3382b63331]
+
+The Agriculture (Student fees) Regulations (Northern Ireland) 2022[^f00003] are revoked.
+
+## PART 2 — COURSES
+
+### 4. Higher education courses[^key-b9db97604b8cba7a22b9b0b4b07b4c5f]
+
+A “**higher education course**” means any of the following courses, delivered by CAFRE—
+
+- (a) at undergraduate level—
+  - (i) a course for a Higher National Diploma or Higher National Certificate of—
+    - (aa) the Business & Technology Education Council; or
+    - (bb) Qualifications Scotland[^key-04eeba6d155e8a8b17a69b5e6b888f78];
+  - (ii) a Certificate in Higher Education course;
+  - (iii) a Foundation Degree course;
+  - (iv) an extended Foundation Degree course; or
+  - (v) a Bachelor’s Degree course;
+- (b) at postgraduate level—
+  - (i) a Postgraduate Certificate course;
+  - (ii) a Postgraduate Diploma course; or
+  - (iii) a Master’s Degree course.
+
+### 5. Full-time higher education course[^key-63bf5ceb5e54c7201b3cb49a790e994e]
+
+(1) A “**full-time higher education course**” means a higher education course which meets the conditions for undergraduate level in paragraph (2) or the conditions for postgraduate level in paragraph (3), as the case may be.
+
+(2) The conditions are—
+
+- (a) it is of at least one academic year’s duration; and
+- (b) the total credit points to be awarded to a full-time student who successfully completes the higher education course, including any credit points transferred under the accreditation of prior learning scheme,—
+  - (i) equates to 120 in each academic year of the course, excluding any academic year on a period of work placement; or
+  - (ii) in the case of an extended foundation degree course, equates to—
+    - (aa) 120 in the first academic year;
+    - (bb) 60 in the second academic year; and
+    - (cc) 60 in the third academic year.
+
+(3) The conditions are—
+
+- (a) in the case of a postgraduate certificate course—
+  - (i) it is of 15 weeks’ duration, excluding vacations; and
+  - (ii) the total credit points to be awarded to a student who successfully completes the higher education course equates to 60;
+- (b) in the case of a postgraduate diploma course—
+  - (i) it is of 30 weeks’ duration, excluding vacations; and
+  - (ii) the total credit points to be awarded to a student who successfully completes the higher education course equates to 120;
+- (c) in the case of a Master’s degree course—
+  - (i) it is of 45 weeks’ duration, excluding vacations; and
+  - (ii) the total credit points to be awarded to a student who successfully completes the course equates to 180.
+
+### 6. Part-time higher education course[^key-a758347cf8128198bbbc674bffaa9bed]
+
+(1) A “**part-time higher education course**” means a higher education course which meets the following conditions—
+
+- (a) it is of at least one academic year’s duration;
+- (b) it is ordinarily possible to complete the higher education course in not more than four times the period ordinarily required to complete the full-time equivalent; and
+- (c) the intensity of study in one academic year is less than or equal to 75%.
+
+(2) In paragraph (1)—
+
+- (a) “**period ordinarily required to complete the full-time equivalent**” means the period in which a standard full-time student would complete the full-time equivalent or a full-time higher education course at the same FHEQ level where no full-time equivalent exists.
+- (b) “standard full-time student” is a student who is to be taken—
+  - (i) to have begun the full-time equivalent on the same date as the part-time student began the part-time higher education course in question;
+  - (ii) not to have been excused any part of the full-time equivalent;
+  - (iii) not to have repeated any part of the full-time equivalent; and
+  - (iv) not to be absent from the full-time equivalent other than during vacations.
+
+### 7. Sandwich higher education course[^key-4d84d25cd5e65413b3a7e69447a70cb0]
+
+(1) A “sandwich higher education course” is a higher education course that meets the following conditions—
+
+- (a) it is not an extended foundation degree course;
+- (b) it consists of alternative periods of full-time study at CAFRE and periods of work placement; and
+- (c) taking the course as a whole, the student attends the periods of full-time study for an average of not less than 18 weeks in each academic year.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) in calculating the student’s attendance, the higher education course is to be treated as beginning with the first period of full-time study and ending with the last such period; and
+- (b) where periods of full-time study and work placement alternate within any week of the higher education course, the days of full-time study are aggregated with each other and with any weeks of full-time study in determining the number of weeks of full-time study in each academic year.
+
+## PART 3 — STUDENT FEE FRAMEWORKS
+
+### 8. Current fee framework[^key-869a780296dbfdfc00cb484fddaf4f4e]
+
+“**Current fee framework**” means the fee framework that is applied to a student undertaking a higher education course—
+
+- (a) where the course start date of their current course is on or after 1st September 2022; and
+- (b) the student does not fall within regulation 9.
+
+### 9. 2022 legacy fee framework[^key-9d23de73e4cb80bccf9a64a600076288]
+
+“**2022 legacy fee framework**” means the fee framework that is applied to a student undertaking a higher education course where—
+
+- (a) the course start date of their current course is before 1st September 2022;
+- (b) they are continuing on their current course after 1st September 2022; and
+- (c) they will begin the final academic year of their current course on or before 1st April 2027.
+
+## PART 4 — STUDENT CATEGORIES
+
+### 10. Home students[^key-7c18710695d9c97397a5a3cdf9393270]
+
+A person is to be treated as a “home student” where they are a qualifying person—
+
+- (a) that falls within paragraph 4 or 6 contained within Part 2 (General Categories) of Schedule 2;
+- (b) that falls within Part 3 (Special Categories) of Schedule 2;
+- (c) that falls within Part 4 (EU and Other States Categories) of Schedule 2[^key-07923936486f29818eeb31130d271214] where the course start date is before 1st September 2021; or
+- (d) that falls within Part 5 (EU and Other States Special Categories) of Schedule 2 and who is ordinarily resident in Northern Ireland prior to the course start date.
+
+### 11. Students from Great Britain[^key-3a692f1befa4ff48faa8cc7dc29ae044]
+
+A person is to be treated as a “student from Great Britain” where they are a qualifying person—
+
+- (a) that falls within paragraph 5 or 7 contained within Part 2 (General Categories) of Schedule 2; or
+- (b) that falls within Part 5 (EU and Other States Special Categories) of Schedule 2 and who is ordinarily resident in Great Britain and the Islands prior to the course start date.
+
+### 12. International students[^key-aa0277dd9bf0ddc9ff77437b715c9d84]
+
+A person is to be treated as an “international student” where—
+
+- (a) the course start date is on or after 1st September 2021, they—
+  - (i) are a qualifying person that falls within Part 4 (EU and Other States Categories) of Schedule 2;
+  - (ii) do not fall within Part 5 (EU and Other States Special Categories) of Schedule 2; and
+  - (iii) are required to obtain a student visa to study in the United Kingdom for a higher education course lasting six months or more; or
+- (b) they are not a qualifying person.
+
+## PART 5 — INTENSITY OF STUDY
+
+### 13. Intensity of study[^key-57f35b019107938cba8dffd984d47296]
+
+“Intensity of study” is calculated as follows and expressed as a percentage—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2023/98)
+
+Where—
+
+- PTC is the total number of credit points, discounting any credit points transferred under the accreditation of prior learning scheme, to be awarded to the student if the student successfully completes the academic year in connection with the higher education course on which they are enrolled.
+- FTC is the total number of credit points that a student would be required to obtain in each academic year in order to complete the full-time equivalent within the period ordinarily required to complete the higher education course.
+
+## PART 6 — STUDENT FEE CODES
+
+### CHAPTER 1 — CURRENT FEE FRAMEWORK
+
+#### 14. Student fee codes for home students on the current fee framework[^key-8708fe32119f92601bea4b73900dba98]
+
+Subject to regulation 17, the fee codes for a home student to whom the current fee framework applies are—
+
+- (a) FC1, in respect of a certificate in higher education course;
+- (b) FC2, in respect of a foundation degree course;
+- (c) FC3, in respect of Year 1 of an extended foundation degree course;
+- (d) FC4, in respect of Year 2 and Year 3 of an extended foundation degree course;
+- (e) FC5, in respect of a Bachelor’s degree course;
+- (f) FC6, in respect of a postgraduate certificate course;
+- (g) FC7, in respect of a postgraduate diploma course; and
+- (h) FC8, in respect of a Master’s degree course.
+
+#### 15. Student fee codes for students from Great Britain on the current fee framework[^key-b236d3d6430a0d9310398760f6ae3a5d]
+
+Subject to regulation 17, the fee codes for a student from Great Britain to whom the current fee framework applies are—
+
+- (a) FC10, in respect of a certificate in higher education course;
+- (b) FC11, in respect of a foundation degree course;
+- (c) FC12, in respect of Year 1 of an extended foundation degree course;
+- (d) FC13, in respect of Year 2 and Year 3 of an extended foundation degree course;
+- (e) FC14, in respect of a Bachelor’s degree course;
+- (f) FC15, in respect of a postgraduate certificate course;
+- (g) FC16, in respect of a postgraduate diploma course; and
+- (h) FC17, in respect of a Master’s degree course.
+
+#### 16. Student fee codes for international students on the current fee framework[^key-681362d64574f9a2c8975f81b53cd95e]
+
+(1) Subject to paragraph (2), the fee code for an international student enrolled on a higher education course and to whom the current fee framework applies is FC29.
+
+(2) The fee code for an international student enrolled on a certificate in higher education course and to whom the current fee framework applies is FC30.
+
+#### 17. Student fee codes where the reduced higher education student fee applies on the current fee framework[^key-a0ad7a6e51c41a45696db705e2db77cd]
+
+The fee codes for a student to whom regulation 25 and the current fee framework applies are—
+
+- (a) FC9, in respect of a home student;
+- (b) FC18, in respect of a student from Great Britain; and
+- (c) FC31, in respect of an international student.
+
+### CHAPTER 2 — 2022 LEGACY FEE FRAMEWORK
+
+#### 18. Student fee codes for home students on the 2022 legacy fee framework[^key-837fb0229065aaa5c6e9863bb34cff6b]
+
+Subject to regulation 21, the fee codes for a home student to whom the 2022 legacy fee framework applies are—
+
+- (a) FC19, in respect of a foundation degree course or a Bachelor’s degree course;
+- (b) FC20, in respect of Year 1 of an extended foundation degree course; and
+- (c) FC21, in respect of Year 2 and Year 3 of an extended foundation degree course.
+
+#### 19. Student fee codes for students from Great Britain on the 2022 legacy fee framework[^key-b0adee25fdba306c09492664e4861ca9]
+
+Subject to regulation 21, the fee codes for a student from Great Britain to whom the 2022 legacy fee framework applies are—
+
+- (a) FC22, in respect of a foundation degree course and a Bachelor’s degree course;
+- (b) FC23, in respect of Year 1 of an extended foundation degree course;
+- (c) FC24, in respect of Year 2 and Year 3 of an extended foundation degree course;
+- (d) FC25, in respect of a postgraduate certificate course;
+- (e) FC26, in respect of a postgraduate diploma course; and
+- (f) FC27, in respect of a Master’s degree course.
+
+#### 20. Student fee codes for international students on the 2022 legacy fee framework[^key-4a5e04e41ee6df4a455a5df2ef89a2b2]
+
+The fee code for an international student enrolled on a higher education course and to whom the 2022 legacy fee framework applies is FC28.
+
+#### 21. Student fee codes where the reduced higher education student fee applies on the 2022 legacy fee framework[^key-c978025ba07850754784a20de7cab137]
+
+The fee codes for a student to whom regulation 25 and the 2022 legacy fee framework applies are—
+
+- (a) FC32, in respect of a home student;
+- (b) FC33, in respect of a student from Great Britain; and
+- (c) FC34, in respect of an international student.
+
+## PART 7 — IN-YEAR EVENTS
+
+### 22. In-year events[^key-ef43b89f1873a359386b91b49bfbfded]
+
+Where an event occurs in the course of an academic year and as a result a person’s student category changes by—
+
+- (a) becoming a qualifying person;
+- (b) no longer being a qualifying person; or
+- (c) falling within a different category within Schedule 2,
+
+the change of student category in respect of the academic year in which the relevant event occurred will only take affect from the beginning of the next academic year and will not be retrospectively applied for the purposes of the fee payable by the student to the Department.
+
+## PART 8 — HIGHER EDUCATION STUDENT FEE AMOUNTS
+
+### 23. Full-time higher education student fee amounts[^key-7580e0eba7485cf61765fb4502f97937]
+
+(1) The fee payable to the Department by a full-time student in the current academic year in respect of a full-time higher education course—
+
+- (a) is the fee specified in Column 2 of the table in Schedule 1 which is opposite the fee code for that student in Column 1 of the table; or
+- (b) where accredited prior learning reduces the number of modules to be studied in the academic year compared to a standard full-time student is the fee specified in Column 2 of the table in Schedule 1 which is opposite the fee code for that student in Column 1 of the table and applying the following formula rounded to the nearest £5—
+
+  [formula: see source](https://www.legislation.gov.uk/nisr/2023/98)
+
+  Where—
+
+  - CF is the fee payable by a full-time student for the current academic year on a full-time equivalent.
+  - CI is the intensity of study calculated using the formula in regulation 13 and expressed as a percentage.
+
+(2) In paragraph (1), “standard full-time student” is a student who is to be taken—
+
+- (a) to be enrolled on the same full-time higher education course in question;
+- (b) is completing the same academic year;
+- (c) is on the same student fee framework;
+- (d) will complete the credit points as defined at regulation 5 for the same full-time higher education course in question.
+
+### 24. Part-time higher education student fee amounts[^key-06c1c696d83cdb08567f759c8564adeb]
+
+The fee payable to the Department by a part-time student in the current academic year in respect of a part-time higher education course is the fee specified in Column 2 of the table in Schedule 1 which is opposite the fee code for that student in Column 1 of the table and applying the following formula rounded to the nearest £5—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2023/98)
+
+Where—
+
+- CF is the fee payable by a full-time student for the current academic year on a full-time equivalent.
+- CI is the intensity of study calculated using the formula in regulation 13 and expressed as a percentage.
+
+### 25. Reduced higher education fee amounts[^key-ff6f6653365c906bfa6f2ea3adcc51f4]
+
+(1) The level of fee payable to the Department by a student shall be reduced in the following cases—
+
+- (a) in the final year of a higher education course where that academic year is normally required to be completed after less than 15 weeks’ attendance;
+- (b) in respect of a sandwich higher education course, an academic year during which any periods of full-time study are in aggregate less than 10 weeks; or
+- (c) in respect of a higher education course provided in conjunction with an overseas institution, an academic year during which any periods of full-time study at CAFRE are in aggregate less than 10 weeks.
+
+Sealed with the Official Seal of the Department of Agriculture, Environment and Rural Affairs on 19th June 2023
+
+Seamus McErlean
+
+A senior officer of the
+
+Department of Agriculture, Environment and Rural Affairs
+
+## SCHEDULE 1 — STUDENT FEE AMOUNTS[^key-a1238ec65c2e8f93bbd50c8e9e0d298c]
+
+Regulations 23 and 24
+
+| Column 1 | Column 2 (£) |
+| --- | --- |
+| FC1[^key-ba56581bc62bde15577f0514900bfd7a] | 1,285 |
+| FC2 | 2,745 |
+| FC3 | 2,745 |
+| FC4 | 1,375 |
+| FC5 | 4,985 |
+| FC6 | 985 |
+| FC7 | 1,970 |
+| FC8 | 2,955 |
+| FC9 | 955 |
+| FC10 | 1,285 |
+| FC11 | 9,790 |
+| FC12 | 9,790 |
+| FC13 | 4,895 |
+| FC14 | 9,790 |
+| FC15 | 3,265 |
+| FC16 | 6,530 |
+| FC17 | 9,790 |
+| FC18 | 955 |
+| FC19 | 1,960 |
+| FC20 | 1,960 |
+| FC21 | 955 |
+| FC22 | 9,790 |
+| FC23 | 9,790 |
+| FC24 | 4,895 |
+| FC25 | 3,265 |
+| FC26 | 6,530 |
+| FC27 | 9,790 |
+| FC28 | 10,190 |
+| FC29 | 10,190 |
+| FC30 | 1,285 |
+| FC31 | 955 |
+| FC32 | 955 |
+| FC33 | 955 |
+| FC34 | 955 |
+
+## SCHEDULE 2 — QUALIFYING PERSONS
+
+Regulations 10, 11 and 12
+
+### PART 1 — Interpretation
+
+**1.**[^key-e89b182ad71b9ce6ac386f71781f9d19] (1) For the purposes of this Schedule—
+
+- “**the 2020 Citizens’ Rights Regulations**” means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020[^f00004];
+- “**Directive 2004/38**” means [Directive 2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29th April 2004[^f00005] on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member State;
+- “**EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00006] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00007];
+- “**EEA EFTA separation agreement**” has the meaning given by section 39(1) of the European (Withdrawal Agreement) Act 2020[^f00008];
+- “**EEA frontier self-employed person**” means an EEA national who—
+  - (a) is a self-employed person in the United Kingdom; and
+  - (b) resides in Switzerland or the territory of an EEA State and returns to their residence in Switzerland or that EEA State daily or at least once a week;
+- “**EEA frontier worker**” means an EEA national who—
+  - (a) is a worker in the United Kingdom; and
+  - (b) resides in Switzerland or the territory of an EEA State and returns to their residence in Switzerland or that EEA State daily or at least once a week;
+- “**EEA migrant worker**” means an EEA national who is a worker, other than an EEA frontier worker, in the United Kingdom;
+- “**EEA national**” means a national of an EEA State;
+- “**EU national**” means a national of a Member State of the European Union;
+- “**EEA self-employed person**” means an EEA national who is self-employed person, other than an EEA frontier self-employed person, in the United Kingdom;
+- “**employed person**” means an employed person with the meaning of Annex 1 to the Swiss Agreement;
+- “**employment**” means full-time or part-time employment;
+- “**European Economic Area**” means the area comprised by the EEA States;
+- “**European Union**” means the territory comprised by the Member States of the European Union as constituted from time to time;
+- “**EU withdrawal agreement**” means the withdrawal agreement within the meaning of the European Union (Withdrawal Agreement) Act 2020[^f00009] (see section 39(1) and (6) of the Act);
+- “**family member**” has the meaning assigned by paragraph 3;
+- “**immigration rules**” has the meaning given in section 33(1) of the Immigration Act 1971[^f00010];
+- “**overseas territories**” means Anguilla;[^key-1560ab00129c5843904ed3a0fca1e93c]... Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; the Caribbean part of the Kingdom of the Netherlands (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten);[^key-ac156205cae6a1064a192cafa428100e] Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Gibraltar; Greenland; Mayotte; Montserrat;[^key-096530e74b071674207d291585d64a73]... Pitcairn, Henderson, Ducie & Oeno Islands; South Georgia and the South Sandwich Islands; St-Barthélemy; St Helena, Ascension Island and Tristan de Cunha; St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands and Wallis and Futuna;
+- “**person granted humanitarian protection**” means a person—
+  - (a) who, on the grounds of humanitarian protection, has been granted leave to remain under the immigration rules;
+  - (b) whose leave to remain is extant, or in respect of whose leave to remain an appeal is pending (within section 104 of the Nationality, Immigration and Asylum Act 2002[^f00011]; and
+  - (c) who has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave to remain;
+- “**person granted stateless leave**” means a person who—
+  - (a) has extant leave to remain as stateless person under the immigration rules; and
+  - (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave;
+- “**person with protected rights**” means—
+  - (a)
+    - (i) a person within the personal scope of the citizens’ rights provisions who—
+      - (aa) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+      - (bb) is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971, does not requires leave to enter or remain in the United Kingdom;
+      - (cc) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations where the relevant period has not expired; or
+      - (dd) otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions; or
+    - (ii) a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+  - (b) in paragraph (a)(i)(dd), “**citizens’ rights deeming provisions**” means—
+    - (i) Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement;
+    - (ii) Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+    - (iii) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement;
+- “**refugee**” means a person who is recognised by His Majesty’s government as a refugee within the meaning of the United Nations Convention relating to the Status of Refugees done at Geneva on 28th July 1951[^f00012] as extended by the Protocol thereto which entered into force on 4th October 1967[^f00013];
+- “**relevant period**” has the meaning given by regulation 4 of the 2020 Citizens’ Rights Regulations;
+- “**relevant person of Northern Ireland**” has the meaning given by residence scheme immigration rules;
+- “**residence scheme immigration rules**” has the meaning given by section 17(1) of the European Union (Withdrawal Agreement) Act 2020[^f00014];
+- “**self-employed person**” means—
+  - (a) in relation to an EEA national, a person who is self-employed within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement, as the case may be; or
+  - (b) in relation to a Swiss national, a person who is a self-employed person within the meaning of Annex 1 to the Swiss Agreement;
+- “**settled**” has the meaning given by section 33(2A) of the Immigration Act 1971[^f00015];
+- “**specified British overseas territories**” means Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; St Helena, Ascension Island and Tristan da Cunha; and Turks and Caicos Islands;
+- “**Swiss Agreement**” means the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed in Luxembourg on 21st June 1999[^f00016] and which came into force on 1st June 2002;
+- “**Swiss citizens’ rights agreement**” has the meaning given by section 39(1) of the European Union (Withdrawal Agreement) Act 2020;
+- “**Swiss employed person**” means a Swiss national who is an employed person, other than a Swiss frontier employed person, in the United Kingdom;
+- “**Swiss frontier employed person**” means a Swiss national who—
+  - (a) is an employed person in the United Kingdom; and
+  - (b) resides in Switzerland or in the territory of an EEA State and returns to their residence in Switzerland or that EEA State daily or at least once a week;
+- “**Swiss frontier self-employed person**” means a Swiss national who—
+  - (a) is a self-employed person in the United Kingdom; and
+  - (b) resides in Switzerland or in the territory of an EEA State and returns to their residence in Switzerland or that EEA State daily or at least once a week;
+- “**Swiss self-employed person**” means a Swiss national who is a self-employed person, other than a Swiss frontier self-employed person, in the United Kingdom;
+- “**Turkish worker**” means a Turkish national who—
+  - (a) is ordinarily resident in the United Kingdom; and
+  - (b) is, or has been, lawfully employed in the United Kingdom;
+- “**United Kingdom national**” has the meaning given by Article 2(d) of the EU withdrawal agreement;
+- “**worker**” means a worker within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement as the case may be.
+
+(2) For the purposes of this Schedule, “**parent**” means a parent, guardian or any other person having parental responsibility for a child and “**child**” is to be construed accordingly.
+
+(3) For the purposes of this Schedule, a person is not to be treated as ordinarily resident in a place unless that person lawfully resides in that place.
+
+(4) For the purposes of this Schedule, a person who is ordinarily resident in the United Kingdom as a result of having moved from the Islands for the purpose of undertaking a higher education course is to be considered to be ordinarily resident in the Islands.
+
+(5) For the purposes of this Schedule, a person who is ordinarily resident in Northern Ireland as a result of having moved from Great Britain and the Islands for the purpose of undertaking a higher education course is to be considered as ordinarily resident in Great Britain.
+
+(6) For the purposes of this Schedule, a person who is ordinarily resident in the United Kingdom as a result of having moved from the Republic of Ireland for the purposes of undertaking a higher education course is to be considered as ordinarily resident in the Republic of Ireland.
+
+(7) For the purposes of this Schedule, an area, other than the United Kingdom and Gibraltar, which—
+
+- (a) was previously part of the European Union or the European Economic Area; but
+- (b) at any time or after these Regulations come into operation has become part of one or the other or both of these areas,
+
+is to be considered to have always been a part of the European Economic Area.
+
+(8) For the purposes of this Schedule, a reference to a “Member State” or “State” in Article 7 of Directive 2004/38 is to be read as including the United Kingdom.
+
+(9) For the purposes of this Schedule, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
+
+- (a) Article 10 (personal scope) of the EU withdrawal agreement;
+- (b) Article 9 (personal scope) of the EEA EFTA separation agreement; or
+- (c) Article 10 (personal scope) of the Swiss citizens’ rights agreement.
+
+#### 2. Ordinarily resident[^key-c286ac80f3da16311146c4d65de9427a]
+
+(1) For the purposes of these Regulations, a person is to be treated as ordinarily resident in the British Islands, the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland, the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories, the territory comprising the United Kingdom, the Islands, Gibraltar and the specified British overseas territories; or the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland, Turkey and the overseas territories if they would have been so resident but for the fact—
+
+- (a) they;
+- (b) their spouse or civil partner;
+- (c) their parent; or
+- (d) in the case of a dependent direct relative in the ascending line, their child or child’s spouse or civil partner,
+
+is or was temporarily employed outside the area in question or is or was temporarily receiving full-time education outside the area in question.
+
+(2) For the purpose of sub-paragraph (1), temporary employment includes—
+
+- (a) in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom and the Islands as members of such forces;
+- (b) in the case of member of the regular naval, military or air forces of the Republic of Ireland, any period which they serve outside the territory comprising the United Kingdom and British Islands, as members of such forces;
+- (c) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland as members of such forces; and
+- (d) in the case of members of the regular armed forces of Turkey, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey, as members of such forces.
+
+#### 3. Family member[^key-f6d343d356f59639051caa0d36c9c9e5]
+
+“**Family member**” means—
+
+- (a) in relation to an EEA frontier worker, an EEA migrant worker, an EEA frontier self-employed person, an EEA self-employed person, or a relevant person of Northern Ireland who is treated as an EEA migrant worker or an EEA self-employed person by virtue of paragraph 31(3)—
+  - (i) that person’s spouse or civil partner; or
+  - (ii) direct descendants of the person or of the person’s spouse or civil partner who are—
+    - (aa) under the age of 21;
+    - (bb) dependants of the person or of the person’s spouse or civil partner; or
+  - (iii) dependent direct relatives in their ascending line of that person or that of the person’s spouse of civil partner;
+- (b) in relation to a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person—
+  - (i) the person’s spouse or civil partner; or
+  - (ii) the person’s child or the child of the person’s spouse or civil partner;
+- (c) in relation to an EU national who falls within Article 7(1)(c) of Directive 2004/38 or, for the purposes of paragraph 30(3), in relation to a relevant person of Northern Ireland who would fall within Article 7(1)(c) of Directive 2004/38 if that person were an EU national or solely an EU national—
+  - (i) the person’s spouse or civil partner; or
+  - (ii) direct descendants of the person or of the person’s spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the person or of the person’s spouse or civil partner;
+- (d) in relation to an EU national who falls within Article 7(1)(b) of Directive 2004/38 or, for the purposes of paragraph 30(3), in relation to a relevant person of Northern Ireland who would fall within Article 7(1)(b) of Directive 2004/38 if that person were an EU national or solely an EU national—
+  - (i) the person’s spouse or civil partner;
+  - (ii) direct descendants of the person or of the person’s spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the person or of the person’s spouse or civil partner; or
+  - (iii) dependent direct relatives in their ascending line of that person or that of the person’s spouse or civil partner;
+- (e) in relation to a United Kingdom national, for the purposes of paragraphs 4, 5, 7 and 22—
+  - (i) the person’s spouse or civil partner; or
+  - (ii) direct descendants of the person or of the person’s spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the person or of the person’s spouse or civil partner;
+
+### PART 2 — GENERAL CATEGORIES
+
+#### 4. Persons settled in the United Kingdom and ordinarily resident in Northern Ireland[^key-4a2e76dc225999448a4973759de0df7c]
+
+(1) A person—
+
+- (a) who on the course start date—
+  - (i) is settled in the United Kingdom and does not fall within Part 5 (EU and Other States Special Categories) of Schedule 2;
+  - (ii) is ordinarily resident in Northern Ireland;
+  - (iii) has been ordinarily resident in Northern Ireland throughout the three-year period preceding the course start date; and
+- (b) subject to sub-paragraph (2), whose residence in Northern Ireland has not during any part of the period referred to in sub-paragraph (1)(a)(iii) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in Northern Ireland in accordance with paragraph 2.
+
+#### 5. Persons settled in the United Kingdom and ordinarily resident in Great Britain and the Islands[^key-6bb99a737f6a776ec12c9e8bbce7efd6]
+
+(1) A person—
+
+- (a) who on the course start date—
+  - (i) is settled in the United Kingdom and does not fall within Part 5 (EU and Other States Special Categories) of Schedule 2;
+  - (ii) is ordinarily resident in Great Britain and the Islands;
+  - (iii) has been ordinarily resident in the United Kingdom and the Islands throughout the three-year period preceding the course start date; and
+- (b) subject to sub-paragraph (2), whose residence in the United Kingdom and the Islands has not during any part of the period referred to in sub-paragraph (a)(iii) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 2.
+
+#### 6. Persons from Republic of Ireland[^key-40ef833cf1cb4283090df200ea502a27]
+
+(1) A person—
+
+- (a) who—
+  - (i) is a citizen of the Republic of Ireland;
+  - (ii) is ordinarily resident in the Republic of Ireland;
+  - (iii) has been ordinarily resident in the Republic of Ireland throughout the three-year period preceding the course start date; and
+- (b) subject to sub-paragraph (2), whose residence in the Republic of Ireland has not during any part of the period referred to in paragraph (a)(iii) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the Republic of Ireland in accordance with paragraph 2.
+
+#### 7. Persons resident in Gibraltar[^key-d47b42652934bb3c1b0d9a8ec702add5]
+
+(1) A person—
+
+- (a) who is—
+  - (i) a United Kingdom national who has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (ii) a family member of a United Kingdom national, where that family member has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (iii) an EU national who has the right of residence in Gibraltar arising under the EU withdrawal agreement; or
+  - (iv) a family member of an EU national, where that family member has a right of residence in Gibraltar arising under the EU withdrawal agreement;
+- (b) who is undertaking a course in Northern Ireland;
+- (c) who, subject to sub-paragraph (2), has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories (the relevant territory) throughout the three-year period preceding the course start date; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (c) of sub-paragraph (1) does not apply to a family member of a person who—
+
+- (a) is an EU national or a relevant person of Northern Ireland; and
+- (b) has been ordinarily resident in the relevant territory throughout the three-year period preceding the course start date.
+
+(3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 2.
+
+### PART 3 — SPECIAL CATEGORIES
+
+#### 8. Refugees and their family members[^key-46f308579dbaf7ce1a3791c71af67298]
+
+(1) A person who—
+
+- (a) is a refugee;
+- (b) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since they were recognised as a refugee; and
+- (c) is ordinarily resident in the United Kingdom and the Islands on the course start date.
+
+(2) A person who—
+
+- (a) is a spouse or civil partner of a refugee;
+- (b) was the spouse or civil partner of the refugee on the date on which the refugee made their application for asylum;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since they were given leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom and the Islands on the course start date.
+
+(3) A person who—
+
+- (a) is the child of a refugee or the child of the spouse or civil partner of a refugee;
+- (b) on the date on which the refugee made the application for asylum, was the child of the refugee or the child of a person who was the spouse or civil partner of the refugee on that date;
+- (c) was under 18 on the date on which the refugee made their application for asylum;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since they were given leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+#### 9. Persons granted stateless leave and their family members[^key-2da857594cb6796f006e4a2a73409858]
+
+(1) A person granted stateless leave, who is ordinarily resident in Northern Ireland on the course start date.
+
+(2) A person—
+
+- (a) who—
+  - (i) is the spouse or civil partner of a person granted stateless leave; and
+  - (ii) on the leave application date, was the spouse or civil partner of a person granted stateless leave;
+- (b) who is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (c) who is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person—
+
+- (a) who—
+  - (i) is the child of a person granted stateless leave or the child of a spouse or civil partner of a person granted stateless leave; and
+  - (ii) on the leave application, was the child of a person granted stateless leave or the child of a person who, on the leave application date, was the spouse or civil partner of a person granted stateless leave;
+- (b) who was under 18 on the leave application date;
+- (c) who is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In this paragraph, “**leave application date**” means the date on which a person granted stateless leave made an application to remain in the United Kingdom as a stateless person under the immigration rules.
+
+#### 10. Persons granted section 67 leave[^key-fbe583d1f1d8e3a6b2fc0b9105f424ab]
+
+A person who—
+
+- (a) has extant leave to remain as a person granted leave under paragraph 352ZG of the immigration rules, having been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016, or a dependent child of such a person who has been granted “leave in line” under paragraph 352ZO of those rules; and
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+#### 11. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^key-d19536f569394814ec857721b2e9086e]
+
+(1) A person who—
+
+- (a) has been granted indefinite leave to enter or remain in the United Kingdom under any of the following provisions of the immigration rules—
+  - (i) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse; or
+  - (ii) where such leave was granted before the coming into force of the Appendix Victim of Domestic Abuse—
+    - (aa) paragraph 289B (victims of domestic violence);
+    - (bb) paragraph D-DVILR.1.1 of Appendix FM (victims of domestic abuse); or
+    - (cc) paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces);
+- (b) has been ordinarily resident in the United Kingdom and the Islands since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) has been granted indefinite leave to enter or remain;
+- (b)
+  - (i) is the child of a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse; and
+  - (ii) on the leave application date, was the child of the person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse;
+- (c) was under 18 on the leave application date;
+- (d) has been ordinarily resident in the United Kingdom and the Islands since the person was granted such leave; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) In sub-paragraph (2), “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+#### 12. Persons granted Calais leave[^key-3cd008a89662c83692194a5776252556]
+
+A person who—
+
+- (a) has extant leave to remain in the United Kingdom under paragraph 352J, 352K, 352L or 352T (Calais leave and “leave in line” granted by virtue of being a dependent child of a person granted Calais leave) of the immigration rules;
+- (b) has been ordinarily resident in the United Kingdom and the Islands since the person was granted such leave to remain; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+#### 13. Persons granted indefinite leave to enter or remain as a bereaved partner and their children[^key-7252ee757b01aec2531b81870b8e2d0f]
+
+(1) A person who—
+
+- (a) has been granted indefinite leave to enter or remain in the United Kingdom-
+  - (i) under paragraph BP 11.1 of Appendix Bereaved Partner of the immigration rules; or
+  - (ii) where such leave was granted before the coming into force of Appendix Bereaved Partner, under any of the following provisions of the immigration rules—
+    - (aa) paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules were met (bereaved partners);
+    - (bb) paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules were met (bereaved partners);
+    - (cc) paragraph D-BPILR.1.1 of Appendix FM (bereaved partners); or
+    - (dd) paragraph 36 of Appendix Armed Forces (bereaved partner of a member of HM Forces);
+  - (iii) under paragraph AF (GHK) 14.1 of Appendix GHK of the immigration rules, as a bereaved partner; or
+  - (iv) where such leave was granted prior to 5th October 2023, outside of the immigration rules, on the basis that the person was a bereaved partner of a Gurkha discharged before 1st July 1997;
+- (b) has been ordinarily resident in the United Kingdom and the Islands since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) has been granted indefinite leave to enter or remain;
+- (b)
+  - (i) is the child of a person granted indefinite leave to enter or remain as a bereaved partner; and
+  - (ii) on the leave application date, was the child of the person granted indefinite leave to enter or remain as a bereaved partner;
+- (c) was under 18 on the leave application date;
+- (d) has been ordinarily resident in United Kingdom and the Islands since the person was granted such leave; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) In sub-paragraph (2), “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a bereaved partner made an application to enter or remain in the United Kingdom on those grounds under the immigration rules or, in the case of a person referred to in sub-paragraph (1)(a)(iv), outside of the immigration rules.
+
+#### 14. Persons granted humanitarian protection and their family members[^key-178b3bf97fcc62ff40fd624243483acc]
+
+(1) A person granted humanitarian protection who is ordinarily resident in the United Kingdom on the course start date;
+
+(2) A person who—
+
+- (a) is the spouse or the civil partner of the person granted humanitarian protection;
+- (b) was the spouse or civil partner of the person granted humanitarian protection on the date on which that person applied for asylum (the “asylum application date”);
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is the child of a person granted humanitarian protection or the child of the spouse or civil partner of a person granted humanitarian protection;
+- (b) on the asylum application date, was the child of that person or the child of a person who was the spouse or civil partner of the person granted humanitarian protection on that date;
+- (c) was under 18 on the asylum application date;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+#### 15. Persons with leave to enter or remain on the grounds of discretionary leave and their family members[^key-fa18b6e6bf3b58f28801de3a075f4c25]
+
+(1) A person granted leave to enter or remain on the grounds of discretionary leave who is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person with leave to enter or remain on the grounds of discretionary leave;
+- (b) was the spouse or civil partner of the person with leave to enter or remain on the grounds of discretionary leave on the leave application date;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is the child of a person with leave to enter or remain on the grounds of discretionary leave or the child of the spouse or civil partner of a person with leave to enter or remain on the grounds of discretionary leave;
+- (b) on the leave application date, was under 18 and was the child of the person with leave to enter or remain on the grounds of discretionary leave or the child of a person who was the spouse or civil partner of the person with leave to enter or remain on the grounds of discretionary leave on that date;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In this paragraph, “**leave application date**” means the date on which the person with leave to enter or remain on the grounds of discretionary leave made the application that led to that person being granted leave to enter or remain on the grounds of discretionary leave in the United Kingdom.
+
+#### 16. Persons granted leave to enter or remain under the Afghan Citizens Resettlement Scheme and their family members[^key-2162d2f118f6c066f968e202cc83a4fd]
+
+(1) A person who—
+
+- (a) has been granted indefinite leave to enter or remain in the United Kingdom, outside of the immigration rules, on the basis of the Afghan Citizens Resettlement Scheme;
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave to enter or remain under the Afghan Citizens Resettlement Scheme;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave to enter or remain under the Afghan Citizens Resettlement Scheme; or
+  - (ii) the child of the spouse or civil partner of a person granted leave to enter or remain under the Afghan Citizens Resettlement Scheme;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave to enter or remain under the Afghan Citizens Resettlement Scheme; or
+  - (ii) the child of a person who was the spouse or civil partner of the person granted leave to enter or remain under the Afghan Citizens Resettlement Scheme on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In sub-paragraph (2) and sub-paragraph (3) “**leave application date**” means the date on which the person granted leave under the Afghan Citizens Resettlement Scheme made an application for leave to enter or remain in the United Kingdom.
+
+#### 17. Persons granted leave to enter or remain under the Afghan Relocations and Assistance Policy Scheme and their family members[^key-2b8edf6870fc2ce43ed59c9019f7e962]
+
+(1) A person who—
+
+- (a) has been granted—
+  - (i) indefinite leave to enter the United Kingdom under paragraph 276BA2, or has been granted indefinite leave to remain under paragraph 276BS2 of the immigration rules, having been relocated to the United Kingdom pursuant to paragraph 276BB1(iii)(a) of the immigration rules;
+  - (ii) indefinite leave to enter or remain in the United Kingdom under ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules;
+  - (iii) leave to enter the United Kingdom on the basis of the Afghan Relocations and Assistance Policy Scheme; or
+  - (iv) indefinite leave to enter or remain in the United Kingdom, outside of those rules, on the basis of the Afghan Relocations and Assistance Policy Scheme;
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave to enter or remain under the Afghan Relocations and Assistance Policy Scheme;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave to enter or remain under the Afghan Relocation and Assistance Policy Scheme; or
+  - (ii) the child of the spouse or civil partner of a person granted leave to enter or remain under the Afghan Relocation and Assistance Policy Scheme;
+- (b) on the leave application date, was—
+  - (i) the child of a person granted leave to enter or remain under the Afghan Relocation and Assistance Policy Scheme; or
+  - (ii) the child of a person who was the spouse or civil partner of a person granted leave to enter or remain under the Afghan Relocation and Assistance Policy Scheme on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Afghan Relocations and Assistance Policy Scheme made an application for leave to enter or remain in the United Kingdom.
+
+#### 18. Evacuated or assisted British nationals from Afghanistan[^key-93303b10601e525a46df95f2eb31b99c]
+
+A person who—
+
+- (a) is a British citizen, a British overseas territories citizen, a British National (Overseas), a British Overseas Citizen, a British subject under the British Nationality Act 1981[^f00017] or a British protected person within the meaning of the Act;
+- (b) was either—
+  - (i) evacuated from Afghanistan by or on behalf of the United Kingdom, a North Atlantic Treaty Organisation member state, Pakistan, Uzbekistan, Tajikistan, Iran or Qatar during the period of the operation known as Operation Pitting, which began on 14th August 2021 and ended on 28th August 2021; or
+  - (ii) assisted by or on behalf of the United Kingdom, after 28th August 2021 and before 6th January 2022, to leave Afghanistan;
+- (c) has been ordinarily resident in the United Kingdom and Islands since they were evacuated from or otherwise left Afghanistan; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+#### 19. Persons granted leave to enter or remain under the Homes for Ukraine Sponsorship Scheme and their family members[^key-4e0a5255d33a7dac1a3f369cbcbc372d]
+
+(1) A person who—
+
+- (a) has been granted leave to enter or remain in the United Kingdom—
+  - (i) under paragraph UKR 19.1 of Appendix Ukraine Scheme of the immigration rules; or
+  - (ii) outside of the immigration rules, where the person—
+    - (aa) was residing in Ukraine immediately before 1st January 2022; and
+    - (bb) left Ukraine in connection with the Russian invasion which took place on 24th February 2022;
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave to enter or remain under the Ukraine Sponsorship Scheme;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave to enter or remain under the Homes for Ukraine Sponsorship Scheme; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under the Homes for Ukraine Sponsorship Scheme;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under the Homes for Ukraine Sponsorship Scheme; or
+  - (ii) the child of a person who was the spouse or civil partner of the person granted leave under the Homes for Ukraine Sponsorship Scheme on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Homes for Ukraine Scheme made an application for leave to enter or remain in the United Kingdom.
+
+#### 20. Persons granted leave to enter or remain under the Ukraine Extension Scheme and their family members[^key-708b93307b1281fa8ba4889a63485cb3]
+
+(1) A person who—
+
+- (a) has been granted leave to remain in the United Kingdom under paragraph UKR 27.1 of Appendix Ukraine Scheme of the immigration rules;
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave under the Ukraine Extension Scheme;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under the Ukraine Extension Scheme; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under the Ukraine Extension Scheme;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under the Ukraine Extension Scheme; or
+  - (ii) the child of a person who was the spouse or civil partner of the person granted leave under the Ukraine Extension Scheme on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Ukraine Extension Scheme made an application for leave to enter or remain in the United Kingdom.
+
+#### 21. Persons granted leave to enter or remain under the Ukraine Family Scheme and their family members[^key-8f3b4fa8d83422f760ea34ed887354fb]
+
+(1) A person who—
+
+- (a) has leave to enter or remain in the United Kingdom—
+  - (i) under paragraph UKR 9.1 of Appendix Ukraine Scheme of the immigration rules; or
+  - (ii) outside the immigration rules, where the person—
+    - (aa) was residing in Ukraine immediately before 1st January 2022; and
+    - (bb) left Ukraine in connection with the Russian invasion which took place on 24th February 2022;
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave under the Ukraine Family Scheme;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under the Ukraine Family Scheme; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under the Ukraine Family Scheme;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under the Ukraine Family Scheme; or
+  - (ii) the child of a person who was the spouse or civil partner of the person granted leave under the Ukraine Family Scheme on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Ukraine Family Scheme made an application for leave to enter or remain in the United Kingdom.
+
+#### 21A. Persons granted leave to enter or remain under the Ukraine Permission Extension Scheme and their family members[^key-fb392e94b47e0777fc0fc679edaee344]
+
+(1) A person who—
+
+- (a) has leave to remain in the United Kingdom under the Ukraine Permission Extension Scheme; and
+- (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave under the Ukraine Permission Extension Scheme;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under the Ukraine Permission Extension Scheme; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under the Ukraine Permission Extension Scheme;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under the Ukraine Permission Extension Scheme; or
+  - (ii) the child of a person who was the spouse or civil partner of the person granted leave under the Ukraine Permission Extension Scheme on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Ukraine Permission Extension Scheme made an application for leave to enter or remain in the United Kingdom.
+
+### PART 4 — EU AND OTHER STATES CATEGORIES
+
+#### 22. EU nationals[^key-0639cb26b4a0316afe86aedc4ab34581]
+
+(1) A person who—
+
+- (a) is either—
+  - (i) an EU national on the course start date; or
+  - (ii) a family member of such a person;
+- (b) is undertaking a higher education course in Northern Ireland;
+- (c) subject to sub-paragraph (2), has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (c) of sub-paragraph (1) does not apply to a family member of a person who—
+
+- (a) is—
+  - (i) a United Kingdom national who has exercised a right to reside in the territory of a Member State under Article 7(1) of Directive 2004/38; or
+  - (ii) an EU national; and
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date.
+
+(3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 2.
+
+(4) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
+
+#### 23. EU nationals ordinarily resident in the United Kingdom and the Islands[^key-25d20b05947e860d5f4768fd90110959]
+
+(1) A person who—
+
+- (a) is an EU national on the course start date;
+- (b) is ordinarily resident in the United Kingdom on the course start date;
+- (c) has been ordinarily resident in the United Kingdom and the Islands throughout the three-year period immediately preceding the course start date; and
+- (d) in a case where their ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories immediately prior to the period of ordinary residence referred to in paragraph (c).
+
+(2) Where a state accedes to the European Union after the course start date and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national on the course start date is treated as being satisfied.
+
+#### 24. Workers, employed persons, self-employed persons and their family members[^key-e793494de0817152fdd527688e034c4b]
+
+(1) A person who—
+
+- (a) is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in paragraph (iv) and (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in the United Kingdom on the course start date; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person falls within paragraph (a)(iv), (v) or (vi) of that sub-paragraph.
+
+**25.**[^key-21dd9a9f8941bbe473de21bd19de5e2b] (1) A person who—
+
+- (a) is ordinarily resident in the United Kingdom on the course start date;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (c) is entitled to support by virtue of Article 12 of Council Regulations [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers, as extended by the EEA Agreement.
+
+(2) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
+
+#### 26. Children of Swiss nationals[^key-4c7ee49753e2bc9682b6bb692ee0f0db]
+
+(1) A person who—
+
+- (a) is a child of a Swiss national who is entitled to support in the United Kingdom by virtue of article 3(6) of Annex 1 to the Swiss Agreement;
+- (b) is ordinarily resident in the United Kingdom on the course start date;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (d) in a case where their ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+
+(2) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
+
+#### 27. Children of Turkish workers[^key-8b9986abbc417f80c28a732ec1bdadfe]
+
+A person who—
+
+- (a) is the child of a Turkish worker;
+- (b) is ordinarily resident in the United Kingdom on the course start date; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland, Turkey and the overseas territories throughout the three-year period preceding the course start date.
+
+#### 28. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-ad3db68e7e8f4b29a0a7d69614adbede]
+
+(1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) left the United Kingdom and exercised a right of residence elsewhere before IP completion day after having been settled in the United Kingdom;
+- (c) is ordinarily resident in the United Kingdom on the course start date;
+- (d) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (e) in a case where their ordinary residence referred to in paragraph (d) was—
+  - (i) wholly or mainly for the purposes of receiving full-time education; and
+  - (ii) ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland,
+
+  immediately before the period of ordinary residence referred to in paragraph (d).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if—
+
+- (a) they are a United Kingdom national;
+- (b) they are a family of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement);
+- (c) they are a person who had a right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom; or
+- (d) in the case of a person who is settled in the United Kingdom and had a right of permanent residence, if they have gone to the state within the territory comprising the European Economic Area and Switzerland of which they are a national or of which the person in relation to whom they are a family member is a national.
+
+(3) For the purposes of sub-paragraph (2), a person had a right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+### PART 5 — EU AND OTHER STATES SPECIAL CATEGORIES
+
+#### 29. Persons with protected rights[^key-cf68bda18aa86586785e672c5c5b63d4]
+
+(1) A person who—
+
+- (a) meets one of the following conditions on the course start date—
+  - (i) the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+  - (ii) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an Irish citizen settled in the United Kingdom who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom; and
+    - (cc) would meet the eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules if that person were to make an application for such leave;
+  - (iii) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations or otherwise has rights deemed to apply by virtue of any of the citizens’ rights provisions specified in paragraph (3); and
+    - (cc) has, or is treated as having, a right of permanent residence for the purposes of the Immigration (European Economic Area) Regulations 2016, as those Regulations continue to have effect by virtue of the 2020 Citizens’ Rights Regulations in relation to that person during the relevant period or otherwise has been deemed right of permanent residence by virtue of any of the citizens’ rights provisions specified in paragraph (3); or
+  - (iv) the person is a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+- (b) is ordinarily resident in Northern Ireland on the course start date;
+- (c) has been ordinarily resident in the United Kingdom and the Islands throughout the three-year period preceding the course start date; and
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident immediately before the period of ordinary residence referred to in paragraph (b) in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories immediately before the period of residence referred to in paragraph (c).
+
+(2) For the purposes of sub-paragraph (1)(a)(ii)(cc), “**eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules**” means the eligibility requirements for such leave in accordance with paragraph EU11 of Appendix EU to the immigration rules.
+
+(3) For the purposes of sub-paragraph (1)(a)(iii), the citizens’ rights provisions referred to are—
+
+- (a) Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement;
+- (b) Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+- (c) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+
+#### 30. EU nationals[^key-fa663e70912f5b16e77937fc1f1084c5]
+
+(1) A person with protect rights—
+
+- (a) who is—
+  - (i) an EU national on the course start date;
+  - (ii) a family member of a person mentioned in sub-paragraph (i); or
+  - (iii) a family member of a relevant person of Northern Ireland;
+- (b) who is undertaking the course in the United Kingdom;
+- (c) who, subject to sub-paragraph (2), has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purposes of receiving full-time education.
+
+(2) Paragraph (c) of sub-paragraph (1) does not apply to a family member of a person who—
+
+- (a) is an EU national or a relevant person of Northern Ireland; and
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date.
+
+(3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 2.
+
+#### 31. Workers, employed persons, self-employed persons and their family members[^key-68b48c73dd01f88efd3dd7ca45b7c9b5]
+
+(1) A person with protected rights, or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020, who—
+
+- (a) is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in sub-paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in sub-paragraph (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in the United Kingdom on the course start date; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
+
+(3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
+
+**32.**[^key-f83d3339a5ff207ec847915cf20b938f] (1) A person with protected rights who—
+
+- (a) is ordinarily resident in the United Kingdom on the course start date;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (c) is entitled to support by virtue of Article 10 of Regulations (EU) No. 492/2011 of the European Parliament and of the Council of 5 April 2011 on the freedom of movement of workers within the Union (“**the Workers Regulation**”), as it had effect immediately before IP completion day, as extended by the EEA Agreement, as it had effect immediately before IP completion day.
+
+(2) For the purposes of sub-paragraph (1)(c), in Article 10 of the Workers Regulation—
+
+- (a) the reference to a “national of a Member State” is to be read as including a relevant person from Northern Ireland; and
+- (b) the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” construed accordingly.
+
+#### 33. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-c1da38b3e1267fd0cf2fcdc480826f8c]
+
+(1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) left the United Kingdom and exercised a right of residence before IP completion day after having been settled in the United Kingdom;
+- (c) was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area, Switzerland and the overseas territories; or
+  - (ii) in the United Kingdom, where the ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area, Switzerland and the overseas territories, and has remained ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the period beginning on IP completion day and ending immediately before the course start date;
+- (d) is ordinarily resident in the United Kingdom on the course start date;
+- (e) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
+- (f) in a case where the person’s ordinary residence referred to in paragraph (e) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (e).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if that person is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who had the right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had the right of permanent residence, if the person had gone to the state within the territory comprising the European Economic Area and Switzerland of which the person is a national or of which the person in relation to whom the person is a family member is a national.
+
+(3) For the purpose of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 5 of the Agriculture Act (Northern Ireland) 1949 (“**the Act**”) enables the Department of Agriculture, Environment and Rural Affairs (“**the Department**”) to provide instruction in agriculture and related matters. Section 5A, which was added to the Act by way of amendment through the Education (Northern Ireland) Order 2006, provides that the Department may through regulations charge fees for or in connection with the provision of the aforementioned instruction.
+
+These Regulations make provision about fees payable by persons in higher education delivered by the Department through the College of Agriculture, Food and Rural Enterprise (CAFRE) to the Department and replaces the Agriculture (Student fees) Regulations (Northern Ireland) 2022 .
+
+Regulation 1 and regulation 2 refer to the citation, commencement and interpretation of these regulations while regulation 3 revokes the Agriculture (Student fees) Regulations (Northern Ireland) 2022.
+
+Part 2 (Courses) regulation 4 through to regulation 7 define the types of higher education courses and their mode of study that student fees will apply at CAFRE.
+
+Part 3 (Student Fee Frameworks) regulation 8 and regulation 9 define the two higher education student fee frameworks in operation at CAFRE, namely the current fee framework and the 2022 legacy fee framework. These frameworks ensure that students who commenced their course before the current fee framework came into operation will continue on the terms of the 2022 legacy framework until such times as they complete that course.
+
+Part 4 (Student Categories) regulation 10 through to regulation 12 define the 3 categories of students at CAFRE – home student, student from Great Britain and international student. These categories are used as one of the determining factors in the appropriate level of fee to be charged to the student at CAFRE.
+
+Part 5 (Intensity of Study) regulation 13 sets out the formula to calculate the percentage of study to be undertaken by a student based on course credits to that of a full-time student in an academic year.
+
+Part 6 (Student Fee Codes) is split into two chapters with each chapter specific to one of the student fee frameworks. Regulation 14 through to regulation 17 defines the student fee codes applicable under the current fee framework, separated firstly by the student category and then by the type of higher education course being undertaken. Regulation 18 through to regulation 21 defines the student fee codes applicable under the 2022 legacy fee framework, separated firstly by the student category and then the type of higher education course being undertaken.
+
+Part 7 (In-Year Events) regulation 22 permits a fee code, and subsequently the student fee rate, to change in the following academic year where the student’s qualifying person circumstances change during an academic year that affects their student category.
+
+Part 8 (Higher Education Student Fee Amounts) regulation 23 through to regulation 25 stipulates the fee payable to the Department.
+
+Schedule 1 (Student Fee Amounts) lists the full-time fee payable by a student to the Department in accordance with the fee code that is applied to the student.
+
+Schedule 2 (Qualifying Persons) sets out the different categories of qualifying persons to which the appropriate student category and student fee is applied.
+
+## Annotations
+
+[^f00001]: Footnote: The Ministry of Agriculture for Northern Ireland was renamed as the Department of Agriculture for Northern Ireland, see the Northern Ireland Constitution Act [1973 c.36](https://www.legislation.gov.uk/ukpga/1973/36) section 7(3): renamed as the Department of Agriculture and Rural Development, see the Departments (Northern Ireland) Order [1999/283 (N.I.)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(4); renamed as the Department of Agriculture, Environment and Rural Affairs, see Departments (Northern Ireland) Act [2016 c.5 (N.I)](https://www.legislation.gov.uk/nia/2016/5), section 1(2).
+
+[^f00002]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/nia/1949/2). Section 5A(1) and (2) was inserted by Article 42(1) of the Education (Northern Ireland) Order 2006 ([S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915)
+
+[^key-28424c79ed0831e15bbda55464577722]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-a658d3365628886879f942c577ad8a04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/98/regulation/2) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-ed64aa8e3c1b5e21baffce3382b63331]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/98/regulation/3) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^f00003]: Footnote: [S.R. 2022 No. 199](https://www.legislation.gov.uk/nisr/2022/199)
+
+[^key-b9db97604b8cba7a22b9b0b4b07b4c5f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2023/98/regulation/4) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-04eeba6d155e8a8b17a69b5e6b888f78]: Textual amendment: Words in [reg. 4(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2023/98/regulation/4/a/i/bb) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/21/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+
+[^key-63bf5ceb5e54c7201b3cb49a790e994e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2023/98/regulation/5) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-a758347cf8128198bbbc674bffaa9bed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2023/98/regulation/6) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-4d84d25cd5e65413b3a7e69447a70cb0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2023/98/regulation/7) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-869a780296dbfdfc00cb484fddaf4f4e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2023/98/regulation/8) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-9d23de73e4cb80bccf9a64a600076288]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2023/98/regulation/9) substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [3](https://www.legislation.gov.uk/nisr/2026/135/regulation/3)
+
+[^key-7c18710695d9c97397a5a3cdf9393270]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2023/98/regulation/10) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-07923936486f29818eeb31130d271214]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2023/98/regulation/10/c) inserted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/135/regulation/4/a)
+
+[^key-3a692f1befa4ff48faa8cc7dc29ae044]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2023/98/regulation/11) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-aa0277dd9bf0ddc9ff77437b715c9d84]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2023/98/regulation/12) substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/135/regulation/4/b)
+
+[^key-57f35b019107938cba8dffd984d47296]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2023/98/regulation/13) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-8708fe32119f92601bea4b73900dba98]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2023/98/regulation/14) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-b236d3d6430a0d9310398760f6ae3a5d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2023/98/regulation/15) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-681362d64574f9a2c8975f81b53cd95e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2023/98/regulation/16) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-a0ad7a6e51c41a45696db705e2db77cd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2023/98/regulation/17) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-837fb0229065aaa5c6e9863bb34cff6b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2023/98/regulation/18) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-b0adee25fdba306c09492664e4861ca9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2023/98/regulation/19) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-4a5e04e41ee6df4a455a5df2ef89a2b2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2023/98/regulation/20) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-c978025ba07850754784a20de7cab137]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2023/98/regulation/21) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-ef43b89f1873a359386b91b49bfbfded]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2023/98/regulation/22) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-7580e0eba7485cf61765fb4502f97937]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2023/98/regulation/23) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-06c1c696d83cdb08567f759c8564adeb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2023/98/regulation/24) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-ff6f6653365c906bfa6f2ea3adcc51f4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2023/98/regulation/25) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-a1238ec65c2e8f93bbd50c8e9e0d298c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-ba56581bc62bde15577f0514900bfd7a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/1) Table substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [5](https://www.legislation.gov.uk/nisr/2026/135/regulation/5)
+
+[^key-e89b182ad71b9ce6ac386f71781f9d19]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^f00004]: Footnote: [S.R. 2020 No. 1209](https://www.legislation.gov.uk/nisr/2020/1209)
+
+[^f00005]: Footnote: OJ L158, 30.4.2004, p77-123
+
+[^f00006]: Footnote: Cmnd. 2073
+
+[^f00007]: Footnote: Cmnd, 2183
+
+[^f00008]: Footnote: [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00009]: Footnote: [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00010]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-1560ab00129c5843904ed3a0fca1e93c]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) omitted (1.9.2025) by virtue of [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/a)
+
+[^key-ac156205cae6a1064a192cafa428100e]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) inserted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/b)
+
+[^key-096530e74b071674207d291585d64a73]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) omitted (1.9.2025) by virtue of [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/c)
+
+[^f00011]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^f00012]: Footnote: Cmnd. 9171
+
+[^f00013]: Footnote: Cmnd. 3906
+
+[^f00014]: Footnote: [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00015]: Footnote: [1979 c.77](https://www.legislation.gov.uk/ukpga/1979/77), section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c.61)](https://www.legislation.gov.uk/ukpga/1981/61)
+
+[^f00016]: Footnote: Cmd. 4904.
+
+[^key-c286ac80f3da16311146c4d65de9427a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/2) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-f6d343d356f59639051caa0d36c9c9e5]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/3) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-4a2e76dc225999448a4973759de0df7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/4) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-6bb99a737f6a776ec12c9e8bbce7efd6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/5) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-40ef833cf1cb4283090df200ea502a27]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/6) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-d47b42652934bb3c1b0d9a8ec702add5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/7) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-46f308579dbaf7ce1a3791c71af67298]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/8) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-2da857594cb6796f006e4a2a73409858]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/9) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-fbe583d1f1d8e3a6b2fc0b9105f424ab]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/10) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-d19536f569394814ec857721b2e9086e]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/11) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [6](https://www.legislation.gov.uk/nisr/2025/112/regulation/6)
+
+[^key-3cd008a89662c83692194a5776252556]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/12) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-7252ee757b01aec2531b81870b8e2d0f]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/13) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [7](https://www.legislation.gov.uk/nisr/2025/112/regulation/7)
+
+[^key-178b3bf97fcc62ff40fd624243483acc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/14) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-fa18b6e6bf3b58f28801de3a075f4c25]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/15) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-2162d2f118f6c066f968e202cc83a4fd]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/16) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [8](https://www.legislation.gov.uk/nisr/2025/112/regulation/8)
+
+[^key-2b8edf6870fc2ce43ed59c9019f7e962]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/17) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [9](https://www.legislation.gov.uk/nisr/2025/112/regulation/9)
+
+[^key-93303b10601e525a46df95f2eb31b99c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/18) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^f00017]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61)
+
+[^key-4e0a5255d33a7dac1a3f369cbcbc372d]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/19) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [10](https://www.legislation.gov.uk/nisr/2025/112/regulation/10)
+
+[^key-708b93307b1281fa8ba4889a63485cb3]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/20) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [11](https://www.legislation.gov.uk/nisr/2025/112/regulation/11)
+
+[^key-8f3b4fa8d83422f760ea34ed887354fb]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/21) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [12](https://www.legislation.gov.uk/nisr/2025/112/regulation/12)
+
+[^key-fb392e94b47e0777fc0fc679edaee344]: Textual amendment: [Sch. 2 para. 21A](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/21A) inserted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [13](https://www.legislation.gov.uk/nisr/2025/112/regulation/13)
+
+[^key-0639cb26b4a0316afe86aedc4ab34581]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/22) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-25d20b05947e860d5f4768fd90110959]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/23) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-e793494de0817152fdd527688e034c4b]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/24) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-21dd9a9f8941bbe473de21bd19de5e2b]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/25) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-4c7ee49753e2bc9682b6bb692ee0f0db]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/26) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-8b9986abbc417f80c28a732ec1bdadfe]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/27) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-ad3db68e7e8f4b29a0a7d69614adbede]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/28) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-cf68bda18aa86586785e672c5c5b63d4]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/29) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-fa663e70912f5b16e77937fc1f1084c5]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/30) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-68b48c73dd01f88efd3dd7ca45b7c9b5]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/31) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-f83d3339a5ff207ec847915cf20b938f]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/32) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+
+[^key-c1da38b3e1267fd0cf2fcdc480826f8c]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/33) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)

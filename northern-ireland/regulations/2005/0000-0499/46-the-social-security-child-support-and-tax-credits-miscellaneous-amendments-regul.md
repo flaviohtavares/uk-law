@@ -1,0 +1,719 @@
+---
+title: The Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2005
+id: nisr/2005/46
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-02-16'
+text_date: '2016-11-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/46
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/46/pdfs/nisr_20050046_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/46/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2005
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2016-11-28. See https://www.legislation.gov.uk/changes/affected/nisr/2005/46
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 46
+
+SOCIAL SECURITY
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2005
+
+Made
+
+16th February 2005
+
+Coming into operation
+
+18th March 2005
+
+The Department for Social Development, in exercise of the powers conferred by Article 22(4), (5) and (6) of the Child Support (Northern Ireland) Order 1991[^f00001], sections 122(1)(a), 123(1)(e) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], sections 5(1)(a), (g), (j), (n), (q) and (s), 5A(2), 69(5), (5A) and (8), 72(2), 165(1), (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00003], Article 13(5)(a) and (b) of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00004], Articles 7(3), 10(1) and (6), 11(3) and (6), 13(2), (6) and (7), 15(3)(b) and (11), 16(1), 17(2), 28(1) and 74(1), (3) to (6) of, and paragraphs 1, 3, 4 and 6 of Schedule 4 to, the Social Security (Northern Ireland) Order 1998[^f00005], and now vested in it[^f00006], and paragraphs 3(1), 6(8), 10(1) and 20(1) and (3) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00007] and of all other powers enabling it in that behalf, with the concurrence of the Lord Chancellor in so far as regulation 7(19) is concerned, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-e41822dc8a6f70abd504c29c79f75619]
+
+These Regulations may be cited as the Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 and shall come into operation on 18th March 2005.
+
+## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-9b4c2e9aa3fc9218833f606a4d0defcc]
+
+Regulation 5 of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00008] (development of disease) shall be renumbered paragraph (1) of regulation 5 and after that paragraph there shall be added the following paragraph –
+
+> (2) Where a person claims benefit under Part V of the Contributions and Benefits Act and it is decided that he is not entitled on the basis of a finding that he was not suffering from a prescribed disease, the finding shall be conclusive for the purpose of a decision on a subsequent claim of that kind in respect of the same disease and the same person.
+
+.
+
+## 3. Amendment of the Income Support (General) Regulations[^key-2f9ef3a070d84257c26c3ff06f489c24]
+
+In paragraph 25 of Schedule 1B to the Income Support (General) Regulations (Northern Ireland) 1987[^f00009] (prescribed categories of person) for “prior to” there shall be substituted “beginning with the date on which that determination takes effect until”.
+
+## 4. Amendment of the Housing Benefit (General) Regulations[^key-5987657cfe5907b69b50234980bf6608]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-c60089e605bb5f1ccb246ed33e792e8f]
+
+(1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00011] shall be amended in accordance with paragraphs (2) to (11).
+
+(2) In regulation 4 (making a claim for benefit) after paragraph (6C)[^f00012] there shall be inserted the following paragraph –
+
+> (6CA) Paragraph (6C)(b) to (e) applies in respect of information, evidence and advice relating to any claim by a person to whom paragraph (6A) applies, whether the claim is made in accordance with paragraph (6B)(b) or otherwise.
+
+.
+
+(3) In regulation 4C[^f00013] (making a claim for state pension credit) –
+
+- (a) in paragraph (3) the words “or other office designated by the Department for accepting claims for state pension credit” shall be omitted;
+- (b) after paragraph (3) there shall be inserted the following paragraph –
+
+  > (3A) A claim made in writing may also be made at an office designated by the Department for accepting claims for state pension credit.
+
+  ;
+- (c) for paragraph (5) there shall be substituted the following paragraph –
+
+  > (5) Where a claim is made in accordance with paragraph (4), the relevant authority or other specified person –
+  >
+  > - (a) shall forward the claim to the Department as soon as reasonably practicable;
+  > - (b) may receive information or evidence relating to the claim supplied by the person making, or who has made, the claim or another person, and shall forward it to the Department as soon as reasonably practicable;
+  > - (c) may obtain information or evidence relating to the claim from the person who has made the claim and shall forward it to the Department as soon as reasonably practicable;
+  > - (d) may record information or evidence relating to the claim supplied or obtained in accordance with sub-paragraph (b) or (c) and may hold the information or evidence (whether as supplied or obtained or as recorded) for the purpose of forwarding it to the Department; and
+  > - (e) may give information and advice with respect to the claim to the person who makes, or has made, the claim.
+
+  ; and
+- (d) after paragraph (5) there shall be inserted the following paragraph –
+
+  > (5A) Paragraph (5)(b) to (e) applies in respect of information, evidence and advice relating to any claim for state pension credit, whether it is made in accordance with paragraph (4) or otherwise.
+
+  .
+
+(4) In regulation 6 (date of claim) –
+
+- (a)[^key-866b4727874003c31b4532dd58806571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-866b4727874003c31b4532dd58806571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in paragraph (22) –
+  - (i) in the definition of “relevant benefit” after paragraph (e) there shall be added the following paragraph –
+
+    > - (f) state pension credit;
+
+    , and
+  - (ii) in the definition of “family”[^f00015] at the end there shall be added “, and in the case of state pension credit “member of his family” means the other member of a couple where the claimant is a member of a married or unmarried couple”.
+
+(5) In regulation 13C[^f00016] for the heading and paragraph (1) there shall be substituted –
+
+> **13C. Further claim for and award of disability living allowance or attendance allowance**
+>
+> (1) A person entitled to an award of disability living allowance or attendance allowance may make a further claim for disability living allowance or attendance allowance, as the case may be, during the period of 6 months immediately before the existing award expires.
+
+.
+
+(6) In regulation 30(1) (payments on death) at the end there shall be added “and any related issue of revision, supersession or appeal”.
+
+(7) In regulation 33 (persons unable to act) –
+
+- (a) after paragraph (1) there shall be inserted the following paragraph –
+
+  > (1A) Where a person has been appointed under regulation 71(3) of the Housing Benefit (General) Regulations (Northern Ireland) 1987 by a relevant authority within the meaning of those Regulations to act on behalf of another in relation to a benefit claim or award, the Department may, if that person agrees, treat him as if it had appointed him under paragraph (1).
+
+  ; and
+- (b) in paragraph (2) after “an appointment” there shall be inserted “, or treated an appointment as made,”.
+
+(8) In regulation 37(1)[^f00017] (extinguishment of right to payment of sums by way of benefit where payment is not obtained within the prescribed period) –
+
+- (a) after sub-paragraph (b) there shall be inserted the following sub-paragraph –
+
+  > - (bb) in relation to any such sum which the person entitled to it and the Department have arranged to be paid by means of direct credit transfer into a bank or other account, on the due date for payment of the sum;
+
+  ; and
+- (b) in sub-paragraph (c) for “or (b)” there shall be substituted “, (b) or (bb)”.
+
+(9) In regulation 42 (children) –
+
+- (a) in paragraph (2)(b) after “18” there shall be inserted “or, if the person is a parent of the child and living with him, be over the age of 16”; and
+- (b) in paragraph (9) after the definition of “HSS trust”[^f00018] there shall be inserted the following definition –
+
+  > - “child” means a person under the age of 16;
+
+  .
+
+(10) In regulation 43(3) (payment of disability living allowance on behalf of a beneficiary) –
+
+- (a) the word “original”, in each place where it occurs, shall be omitted;
+- (b) in sub-paragraph (b) after “term of hire” there shall be added “, other than where sub-paragraph (d) applies,”; and
+- (c) after sub-paragraph (c) there shall be added –
+
+  > or
+  >
+  > - (d) where the original term of hire is extended by an agreed variation of the agreement, the period of the extended term.
+
+  .
+
+(11) In paragraph 2(c) of Schedule 7[^f00019] (manner and time of payment and commencement of entitlement in income support cases) the words “registering or required to register as available for work or” shall be omitted.
+
+## 6. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-aba20bff4d89baa3de53f426a78a9206]
+
+(1) The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00020] shall be amended in accordance with paragraphs (2) to (5).
+
+(2)[^key-5c755356d940d1d110efaa5d289b3c15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 8(1) (duplication and prescribed payments) after sub-paragraph (h)[^f00023] there shall be added the following sub-paragraph –
+
+> - (i) any contribution-based jobseeker’s allowance within the meaning of Article 3(4) of the Jobseekers (Northern Ireland) Order 1995.
+
+.
+
+(4) In regulation 12[^f00024] (circumstances in which determination need not be reversed, varied, revised or superseded) for “Article 54(4) of the Order” there shall be substituted “Section 69(5) or (5A) of the Administration Act”.
+
+(5) In regulation 16(3) (limitations on deductions from prescribed benefits) for “regulation 36(1) of the Claims and Payments Regulations (suspension of payments)” there shall be substituted “regulation 20 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (making of payments which have been suspended)”.
+
+## 7. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-37a7bd9a3b064b2d2a7d0a78fc6d97a2]
+
+(1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00025] shall be amended in accordance with paragraphs (2) to (20).
+
+(2) In regulation 3 (revision of decisions) –
+
+- (a) after paragraph (7)[^f00026] there shall be inserted the following paragraph –
+
+  > (7ZA) Where –
+  >
+  > - (a) the Department makes a decision under Article 9 or 11 awarding income support or state pension credit to a claimant (“the original award”);
+  > - (b) the claimant has a non-dependant within the meaning of regulation 3 of the Income Support Regulations or a person residing with him within the meaning of paragraph 1(1)(a)(ii), (b)(ii) or (c)(iii) of Schedule 1 to the State Pension Credit Regulations (“the non-dependant”);
+  > - (c) but for the non-dependant –
+  >   - (i) a severe disability premium would be applicable to the claimant under regulation 17(1)(d) of the Income Support Regulations, or
+  >   - (ii) an additional amount would be applicable to the claimant as a severe disabled person under regulation 6(4) of the State Pension Credit Regulations; and
+  > - (d) after the original award the non-dependant is awarded benefit which –
+  >   - (i) is for a period which includes the date from which the original award took effect, and
+  >   - (ii) is such that a severe disability premium becomes applicable to the claimant under paragraph 13(3)(a) of Schedule 2 to the Income Support Regulations or an additional amount for severe disability becomes applicable to him under paragraph 2(2)(a) of Schedule 1 to the State Pension Credit Regulations,
+  >
+  >   the Department may revise the original award.
+
+  ;
+- (b) after paragraph (7A)[^f00027] there shall be inserted the following paragraphs –
+
+  > (7B) A decision under regulation 22A of the Income Support Regulations may be revised if the appeal is successful.
+  >
+  > (7C) Where a person’s entitlement to income support is terminated because of a determination that he is not incapable of work and he subsequently appeals the decision that embodies that determination and is entitled to income support under regulation 22A of the Income Support Regulations, the decision to terminate entitlement may be revised.
+
+  ; and
+- (c) in paragraph (9)(a)[^f00028] after “had effect” there shall be inserted “or, in the case of an advance award under regulation 13, 13A or 13C of the Claims and Payments Regulations, since the decision was made,”.
+
+(3) In regulation 4(3)(b) (late application for a revision) at the end there shall be added
+
+> , but if the applicant has requested a statement of the reasons in accordance with regulation 28(1)(b) the 13 month period shall be extended by –
+>
+> - (i) where the statement is provided within one month of the notification, an additional 14 days, or
+> - (ii) where it is provided after the elapse of a period after the one month ends, the length of that period and an additional 14 days
+
+.
+
+(4) In regulation 6 (supersession of decisions) –
+
+- (a) in paragraph (2) –
+  - (i) in sub-paragraph (a)(i)[^f00029] after “had effect” there shall be inserted “or, in the case of an advance award under regulation 13, 13A or 13C of the Claims and Payments Regulations, since the decision was made”,
+  - (ii) after sub-paragraph (e)[^f00030] there shall be inserted the following sub-paragraph –
+
+    > - (ee) is an original award within the meaning of regulation 3(7ZA) and sub-paragraphs (a) to (c) and (d)(ii) of regulation 3(7ZA) apply;
+
+    ,
+  - (iii) after sub-paragraph (l)[^f00031] there shall be added the following sub-paragraph –
+
+    > - (m) is a decision by an appeal tribunal confirming a decision by the Department terminating a claimant’s entitlement to income support because he no longer falls within the category of person specified in paragraph 7 of Schedule 1B to the Income Support Regulations and a further appeal tribunal subsequently determines that he is incapable of work.
+
+    ; and
+- (b) in paragraph (6) sub-paragraph (b) shall be omitted.
+
+(5) In regulation 7 (date from which a decision superseded under Article 11 takes effect) –
+
+- (a) in paragraph (2)[^f00032] after “had effect” there shall be inserted “or, in the case of an advance award, since the decision was made”;
+- (b) after paragraph (6) there shall be inserted the following paragraph –
+
+  > (6A) Where –
+  >
+  > - (a) there is a decision which is a relevant determination for the purposes of Article 27 and the Department makes a benefit decision of the kind specified in Article 27(1)(b);
+  > - (b) there is an appeal against the determination;
+  > - (c) after the benefit decision payment is suspended in accordance with regulation 16(1) and (3)(b)(ii); and
+  > - (d) on appeal a court, within the meaning of Article 27, reverses the determination in whole or in part,
+  >
+  > a consequential decision by the Department under Article 11 which supersedes its earlier decision under sub-paragraph (a) shall take effect from the date on which the earlier decision took effect.
+
+  ;
+- (c) in paragraph (7)[^f00033] –
+  - (i) after “6(2)(e)” there shall be inserted “or (ee)”, and
+  - (ii) for “that sub-paragraph” there shall be substituted “regulation 6(2)(e)(ii) or (ee)”; and
+- (d) after paragraph (32)[^f00034] there shall be added the following paragraph –
+
+  > (33) A decision which supersedes a decision specified in regulation 6(2)(m) shall take effect from the effective date of the Department’s decision to terminate income support which was confirmed by the decision specified in regulation 6(2)(m).
+
+  .
+
+(6) In regulation 28(2) (notice of decision against which appeal lies) at the end there shall be added “or as soon as practicable afterwards”.
+
+(7) In regulation 30(2) (appeals against decisions which have been replaced or revised) after sub-paragraph (d) there shall be added the following sub-paragraph –
+
+> - (dd) it reverses a decision under Article 29(2) that an accident is not an industrial accident;
+
+.
+
+(8)[^key-adcc9de6cce2c314800baa11e30f79ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In regulation 49(7)(b)[^f00036] (procedure at oral hearings) the words “and the appellant consents” shall be omitted.
+
+(10) In regulation 53 (decisions of appeal tribunals) –
+
+- (a) in paragraph (3) the words “prepared in accordance with paragraphs (1) and (2)” shall be omitted;
+- (b) in paragraph (4)[^f00037] at the beginning there shall be inserted “Subject to paragraph (4A),”; and
+- (c) after paragraph (4) there shall be inserted the following paragraph –
+
+  > (4A) Where –
+  >
+  > - (a) the decision notice is corrected in accordance with regulation 56; or
+  > - (b) an application under regulation 57 for the decision to be set aside is refused for reasons other than a refusal to extend the time for making the application,
+  >
+  > the period specified in paragraph (4) shall run from the date on which notice of the correction or the refusal of the application for setting aside is sent to the applicant.
+
+  .
+
+(11) In regulation 54 (late applications for statement of reasons for tribunal decision) –
+
+- (a) in paragraph (1)[^f00038] for “, subject to paragraph (12A),” there shall be substituted “, subject to regulation 53(4A),”; and
+- (b) paragraph (12A)[^f00039] shall be omitted.
+
+(12) In regulation 55 (record of tribunal proceedings) for paragraph (2) there shall be substituted the following paragraphs –
+
+> (2) The clerk to the appeal tribunal shall preserve –
+>
+> - (a) the record of proceedings;
+> - (b) the decision notice; and
+> - (c) any statement of the reasons for the tribunal’s decision,
+>
+> for the period specified in paragraph (3).
+>
+> (3) The period referred to in paragraph (2) is a period of six months from the date of –
+>
+> - (a) the decision made by the appeal tribunal,
+> - (b) any statement of reasons for the tribunal’s decision,
+> - (c) any correction of the decision in accordance with regulation 56,
+> - (d) any refusal to set aside the decision in accordance with regulation 57, or
+> - (e) any determination of an application under regulation 58 for leave to appeal against the decision,
+>
+> or until the date on which those documents are sent to the Office of the Social Security Commissioners and Child Support Commissioners in connection with an appeal against the decision, or an application to a Commissioner or, as the case may be, a Child Support Commissioner for leave to appeal, if that occurs within six months.
+>
+> (4) Any party to the proceedings may within the time specified in paragraph (3) apply in writing for a copy of the record of proceedings and a copy shall be supplied to him.
+
+.
+
+(13) In regulation 56 (correction of accidental errors) –
+
+- (a) in paragraph (1)[^f00040] for “any decision, or the record of any such decision,” there shall be substituted “the notice of any decision”; and
+- (b) for paragraph (2) there shall be substituted the following paragraph –
+
+  > (2) A correction made to a decision notice shall be deemed to be part of the decision notice and written notice of the correction shall be given as soon as practicable to every party to the proceedings.
+
+  .
+
+(14) In regulation 57 (setting aside decisions on certain grounds) after paragraph (4) there shall be inserted the following paragraph –
+
+> (4A) Where a legally qualified panel member refuses to set aside a decision he may treat the application to set aside the decision as an application under regulation 53(4) for a statement of the reasons for the tribunal’s decision, subject to the time limits set out in regulation 53(4) and (4A).
+
+.
+
+(15) In regulation 57A[^f00041] (provisions common to regulations 56 and 57) paragraph (1) shall be omitted.
+
+(16) After regulation 57A there shall be inserted the following regulations –
+
+> **57B. Service of decision notice by electronic mail**
+>
+> For the purposes of the time limits in regulations 53 to 57, a properly addressed copy of a decision notice sent by electronic mail is effective from the date on which it is sent.
+>
+> **57C. Interpretation of Chapter V**
+>
+> In this Chapter –
+>
+> - “decision”, except in regulations 58 and 58A, includes a determination on a referral;
+> - “decision notice” has the meaning given in regulation 53(1) and (2).
+
+.
+
+(17) In regulation 58[^f00042] (application for leave to appeal to a Commissioner from an appeal tribunal) –
+
+- (a) in paragraph (1) –
+  - (i) at the beginning there shall be inserted “Subject to paragraph (1A),”, and
+  - (ii) for sub-paragraph (b) there shall be substituted the following sub-paragraphs –
+
+    > - (b) be in writing and signed by the applicant or, where he has provided written authority to a representative to make the application on his behalf, by that representative;
+    > - (c) contain particulars of the grounds on which the applicant intends to rely;
+    > - (d) contain sufficient particulars of the decision of the appeal tribunal to enable the decision to be identified; and
+    > - (e) if the application is made late, contain the grounds for seeking late acceptance.
+
+    ;
+- (b) after paragraph (1) there shall be inserted the following paragraph –
+
+  > (1A) Where after the written statement of the reasons for the decision has been sent to the parties to the proceedings –
+  >
+  > - (a) the decision notice is corrected in accordance with regulation 56; or
+  > - (b) an application under regulation 57 for the decision to be set aside is refused for reasons other than a refusal to extend the time for making the application,
+  >
+  > the period specified in paragraph (1)(a) shall run from the date on which notice of the correction or the refusal of the application for setting aside is sent to the applicant.
+
+  ; and
+- (c) in paragraph (5) after “(1)(a)” there shall be inserted “or (1A)”.
+
+(18) After regulation 58 there shall be inserted the following regulation –
+
+> **58A. Appeal to a Commissioner by a partner**
+>
+> A partner, within the meaning of section 2AA(7) of the Administration Act, may appeal to a Commissioner under Article 15 from a decision of an appeal tribunal in respect of a decision specified in section 2B(2A) and (6) of that Act.
+
+.
+
+(19) In paragraph 2 of Schedule 2 (qualifications of persons appointed to the panel) –
+
+- (a) in sub-paragraph (1) –
+  - (i) the word “Fully” shall be omitted,
+  - (ii) for head (a) there shall be substituted the following head –
+
+    > - (a) the practitioner is a citizen of an EEA state and his name appears on a medical specialist register maintained in an EEA state in accordance with the Medical Directive, or he is a Swiss citizen with equivalent qualifications;
+
+    , and
+  - (iii) for head (c) there shall be substituted the following head –
+
+    > - (c) the practitioner does not satisfy the requirements of head (a) or (b), but has not less than 10 years experience in clinical practice, or as a medical disability analyst in disciplines which are the same or similar to those undertaken by practitioners to whom those heads apply.
+
+    ; and
+- (b) in sub-paragraph (2), in the definition of “Medical Directive”, after “1997” there shall be inserted “, or any directive which replaces Directive [93/16/EEC](https://www.legislation.gov.uk/european/directive/1993/0016)”.
+
+(20) In Schedule 2A[^f00043] (date on which change of circumstances takes effect in certain cases where a claimant is in receipt of income support or jobseeker’s allowance) –
+
+- (a) in the heading for “on which change of circumstances takes effect in certain cases” there shall be substituted “from which superseding decision takes effect”;
+- (b) in paragraphs 3 and 8 sub-paragraph (c) shall be omitted;
+- (c) in paragraph 5 –
+  - (i) in sub-paragraph (a) after “change of circumstances” there shall be inserted “or change specified in paragraphs 12 and 13”, and
+  - (ii) in sub-paragraph (b) after “prescribed in” there shall be inserted “paragraph 12 or”;
+- (d) in paragraph 11 –
+  - (i) after “Where a relevant change of circumstances” there shall be inserted “or change specified in paragraphs 12 and 13”, and
+  - (ii) after “accordance with” there shall be inserted “paragraph 12 or”; and
+- (e) after paragraph 11 there shall be added the following paragraphs –
+
+  > **Changes other than changes of circumstances**
+  >
+  > **12.** Where an amount of income support or jobseeker’s allowance payable under an award is changed by a superseding decision specified in paragraph 13 the superseding decision shall take effect –
+  >
+  > - (a) in the case of a change in respect of income support, from the day specified in paragraph 1(a) or (b) for a change in circumstances; and
+  > - (b) in the case of a change in respect of jobseeker’s allowance, from the day specified in paragraph 7 for a change of circumstances.
+  >
+  > **13.** The following are superseding decisions for the purposes of paragraph 12 –
+  >
+  > - (a) a decision which supersedes a decision specified in regulation 6(2)(b) to (ee); and
+  > - (b) a superseding decision which would, but for paragraph 12, take effect from a date specified in regulation 7(5) to (7), (12) to (16), (18) to (20), (22), (24), and (32).
+
+  .
+
+## 8. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-8b64dff1473d77f395448b870fea7bdb]
+
+(1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00044] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 4(9) (revision of decisions) for “was made” there shall be substituted “had effect”.
+
+(3) In regulation 5(3)(b) (late application for revision) at the beginning there shall be inserted “subject to regulation 4(4),”.
+
+(4)[^key-58c7d3aacdce11fa9bb536fc2a8b72c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Tax Credits (Appeals) Regulations[^key-3c39f2dd5d7634df754bddfa88116dda]
+
+(1) The Tax Credits (Appeals) Regulations (Northern Ireland) 2002[^f00046] shall be amended in accordance with paragraphs (2) to (10).
+
+(2) In regulation 18(8)(b) (procedure at oral hearings) the words “and the appellant, the applicant for a direction or the person who is subject to penalty proceedings consents” shall be omitted.
+
+(3) In regulation 21 (decisions of appeal tribunals) –
+
+- (a) in paragraph (3) the words “prepared in accordance with paragraphs (1) and (2)” shall be omitted;
+- (b) in paragraph (4) at the beginning there shall be inserted “Subject to paragraph (4A),”; and
+- (c) after paragraph (4) there shall be inserted the following paragraph –
+
+  > (4A) Where –
+  >
+  > - (a) the decision notice is corrected in accordance with regulation 24; or
+  > - (b) an application under regulation 25 for the decision to be set aside is refused for reasons other than a refusal to extend the time for making the application,
+  >
+  > the period specified in paragraph (4) shall run from the date on which notice of the correction or the refusal of the application for setting aside is sent to the applicant.
+
+  .
+
+(4) In regulation 22 (late applications for a statement of reasons for tribunal decision) –
+
+- (a) in paragraph (1) for “paragraph (13)” there shall be substituted “regulation 21(4A)”; and
+- (b) paragraph (13) shall be omitted.
+
+(5) In regulation 23 (record of tribunal proceedings) for paragraph (2) there shall be substituted the following paragraphs –
+
+> (2) The clerk to the appeal tribunal shall preserve –
+>
+> - (a) the record of proceedings;
+> - (b) the decision notice; and
+> - (c) any statement of the reasons for the tribunal’s decision,
+>
+> for the period specified in paragraph (3).
+>
+> (3) The period referred to in paragraph (2) is a period of six months from the date of –
+>
+> - (a) the decision made by the appeal tribunal;
+> - (b) any statement of reasons for the tribunal’s decision;
+> - (c) any correction of the decision in accordance with regulation 24;
+> - (d) any refusal to set aside the decision in accordance with regulation 25; or
+> - (e) any determination of an application under regulation 27 for leave to appeal against the decision,
+>
+> or until the date on which those documents are sent to the Office of the Social Security Commissioners and Child Support Commissioners in connection with an appeal against the decision, or an application to a Commissioner for leave to appeal, if that occurs within six months.
+>
+> (4) Any party to the proceedings may within the time specified in paragraph (3) apply in writing for a copy of the record of proceedings and a copy shall be supplied to him.
+
+.
+
+(6) In regulation 24 (correction of accidental errors) –
+
+- (a) in paragraph (1) for “any decision, or the record of any such decision,” there shall be substituted “the notice of any decision”; and
+- (b) for paragraph (2) there shall be substituted the following paragraph –
+
+  > (2) A correction made to a decision notice shall be deemed to be part of the decision notice and written notice of the correction shall be given as soon as practicable to every party to the proceedings.
+
+  .
+
+(7) In regulation 25 (setting aside decisions on certain grounds) after paragraph (4) there shall be inserted the following paragraph –
+
+> (4A) Where a legally qualified panel member refuses to set aside a decision he may treat the application to set aside the decision as an application under regulation 21(4) for a statement of the reasons for the tribunal’s decision, subject to the time limits set out in regulation 21(4) and (4A).
+
+.
+
+(8) In regulation 26 (provisions common to regulations 24 and 25) paragraph (1) shall be omitted.
+
+(9) After regulation 26 there shall be inserted the following regulation –
+
+> **26A. Service of decision notice by electronic mail**
+>
+> For the purposes of the time limits in regulations 21 to 25, a properly addressed copy of a decision notice sent by electronic mail is effective from the date on which it is sent.
+
+.
+
+(10) In regulation 27 (application for leave to appeal to a Commissioner from a decision of an appeal tribunal) –
+
+- (a) in paragraph (1) –
+  - (i) after “the Appeals Regulations)”, in the first place where it occurs, there shall be inserted “and paragraph (1A)”, and
+  - (ii) for sub-paragraph (b) there shall be substituted the following sub-paragraphs –
+
+    > - (b) be in writing and signed by the applicant or, where he has given written authority to a representative to make the application on his behalf, by that representative;
+    > - (c) contain particulars of the grounds on which the applicant intends to rely;
+    > - (d) contain sufficient particulars of the decision of the appeal tribunal to enable the decision to be identified; and
+    > - (e) if the application is made late, contain the grounds for seeking late acceptance.
+
+    ;
+- (b) after paragraph (1) there shall be inserted the following paragraph –
+
+  > (1A) Where after the written statement of the reasons for the decision has been sent to the parties to the proceedings –
+  >
+  > - (a) the decision notice is corrected in accordance with regulation 24; or
+  > - (b) an application under regulation 25 for the decision to be set aside is refused for reasons other than a refusal to extend the time for making the application,
+  >
+  > the period specified in paragraph (1)(a) shall run from the date on which notice of the correction or the refusal of the application for setting aside is sent to the applicant.
+
+  ; and
+- (c) in paragraph (4) after “(1)(a)” there shall be inserted “or (1A)”.
+
+## 10. Revocations[^key-0955035d253fd9aa56d7b38f7d5cd306]
+
+The regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 16th February 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+I concur.
+
+Signed by authority of the Lord Chancellor.
+
+Catherine M. Ashton
+
+Parliamentary Under-Secretary of State,
+
+Department for Constitutional Affairs
+
+22nd February 2005
+
+## SCHEDULE — REGULATIONS REVOKED[^key-dbcf7601f05517c274f7a9957af43ed0]
+
+Regulation 10
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (Persons from Abroad) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/11">S.R. 1996 No. 11</a></td><td>Regulation 7(b)</td></tr>
+<tr><td>The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000</td><td><a href="https://www.legislation.gov.uk/nisr/2000/215">S.R. 2000 No. 215</a></td><td>Regulation 6(16)(a)(ii) and (b)</td></tr>
+<tr><td>The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/164">S.R. 2002 No. 164</a></td><td>Regulation 6(5)</td></tr>
+<tr><td>The Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/189">S.R. 2002 No. 189</a></td><td>Regulation 2(16)(e) and (18)</td></tr>
+<tr><td>The Social Security, Child Support and Tax Credits (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2004</td><td><a href="https://www.legislation.gov.uk/nisr/2004/516">S.R. 2004 No. 516</a></td><td>Regulation 4(3)(a)</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986 (“the Prescribed Diseases Regulations”), the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”), the Housing Benefit (General) Regulations (Northern Ireland) 1987 (“the Housing Benefit Regulations”), the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (“the Claims and Payments Regulations”), the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 (“the Payments on account, Overpayments and Recovery Regulations”), the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (“the Decisions and Appeals Regulations”), the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 (“the Housing Benefit Decisions and Appeals Regulations”) and the Tax Credits (Appeals) Regulations (Northern Ireland) 2002 (“the Tax Credits Regulations”).
+
+Regulation 2 amends the Prescribed Diseases Regulations to provide for the finality of a specified determination necessary to a benefit decision.
+
+Regulation 3 amends the Income Support Regulations consequential upon the amendment made to the Decisions and Appeals Regulations by regulation 7(2)(b).
+
+Regulation 4 amends the Housing Benefit Regulations to make provision similar to that of regulation 33 of the Claims and Payments Regulations as amended by regulation 5(7).
+
+Regulation 5 amends the Claims and Payments Regulations to –
+
+- make further provision in respect of specified benefit claims made to a relevant authority or designated office, the date of claim in relation to different benefits, claims for attendance allowance before existing awards expire, those appointed to act on behalf of a claimant and extinguishment of the right to payment of benefit (paragraphs (2) to (8));
+- amend provisions governing payment of disability living allowance in respect of children and beneficiaries who have hired a vehicle and makes a minor amendment in respect of the payment of income support (paragraphs (9) to (11)).
+
+Regulation 6 amends the Payments on account, Overpayments and Recovery Regulations to provide for an interim payment where it is impractical to satisfy national insurance number requirements, the recovery of duplicate payments of benefit from payments of contribution-based jobseeker’s allowance, the recovery of overpayments without prior revision or supersession of the original decision awarding benefit, clarification of the limitations on the right to deduct recoverable overpayments from prescribed benefits.
+
+Regulation 7 amends the Decisions and Appeals Regulations to –
+
+- provide further circumstances in which a decision may be revised or superseded, the date from which such superseding decision takes effect, and in which an appeal lapses, and providing for the time within which an appeal may be brought when a child support maintenance assessment is revised (paragraphs (2) to (8) and (20));
+- remove the need for the appellant’s consent to the use of a live television link at an appeal hearing (paragraph 9));
+- clarify the time for applying for a revision of a decision, and a statement of reasons for the appeal tribunal’s decision, specify documents which the clerk to the tribunal must preserve, provide for an appeal tribunal to treat a refusal to set aside a decision as an application for a statement of reasons for the decision, make provision for decision notices to be sent by electronic mail and clarify the procedure and time for applying for leave to appeal to a Social Security Commissioner (paragraphs (10) to (18)); and
+- clarify medical qualifications required for a person to be appointed to the panel of persons who may act as a medically qualified member of an appeal tribunal (paragraph (19)).
+
+Regulation 8 amends the Housing Benefit Decisions and Appeals Regulations in respect of revision and supersession of decisions and appeal procedures to mirror amendments made to the Decisions and Appeals Regulations.
+
+Regulation 9 amends the Tax Credits Regulations to make provision similar to the amendments made to the Decisions and Appeals Regulations in relation to appeals.
+
+Regulation 10 makes consequential revocations.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 22 was substituted by Article 42 of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and is substituted by section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and section 171(1) was amended by paragraph 5 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5A was inserted by Article 68 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and amended by paragraph 8 of Schedule 1 to the Social Security Act (Northern Ireland) [2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), in section 69 subsection (5) was amended by paragraph 62(2) of Schedule 6 to the Social Security (Northern Ireland) Order 1998, subsection (5A) was inserted by section 2(4) of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51) and amended by paragraph 62(3) of Schedule 6 to the Social Security (Northern Ireland) Order 1998 and subsection (8) was amended by paragraph 8 of Schedule 4 to the Tax Credits Act 2002, section 72(2) was amended by paragraph 11(b) of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14)](https://www.legislation.gov.uk/nia/2002/14) and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00004]: Footnote: [S.I. 1997/1183 (N.I. 12)](https://www.legislation.gov.uk/nisi/1997/1183)
+
+[^f00005]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 13(2) was substituted by paragraph 19(3) of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and Article 74(1) was amended by paragraph 17(2) of Schedule 4 to the Tax Credits Act 2002. The powers in Chapter II of Part II exercised in these Regulations in respect of tax credits, are applied and modified under section 63(8) of the Tax Credits Act 2002 by [S.I. 2002/2926](https://www.legislation.gov.uk/uksi/2002/2926)
+
+[^f00006]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00007]: Footnote: [2000 c. 4](https://www.legislation.gov.uk/nia/2000/4)
+
+[^key-e41822dc8a6f70abd504c29c79f75619]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^key-9b4c2e9aa3fc9218833f606a4d0defcc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/46/regulation/2) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00008]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); to which there are amendments not relevant to these regulations
+
+[^key-2f9ef3a070d84257c26c3ff06f489c24]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/46/regulation/3) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [371 (C. 28)](https://www.legislation.gov.uk/nisr/1996/371) and [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4)
+
+[^key-5987657cfe5907b69b50234980bf6608]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/46/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-c60089e605bb5f1ccb246ed33e792e8f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/46/regulation/5) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00011]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65), [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85), [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67) and [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [317](https://www.legislation.gov.uk/nisr/2003/317)
+
+[^f00012]: Footnote: Paragraph (6C) was inserted by regulation 2(2)(b) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317)
+
+[^f00013]: Footnote: Regulation 4C was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^key-866b4727874003c31b4532dd58806571]: Textual amendment: [Reg. 5(4)(a)](https://www.legislation.gov.uk/nisr/2005/46/regulation/5/4/a)[(b)](https://www.legislation.gov.uk/nisr/2005/46/regulation/5/4/b) revoked (2.10.2006) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2006 (S.R. 2006/365)](https://www.legislation.gov.uk/nisr/2006/365), [regs. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/365/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/365/schedule)
+
+[^f00015]: Footnote: The definition of “family” was added by regulation 2(2)(f)(iii) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67)
+
+[^f00016]: Footnote: Regulation 13C was inserted by regulation 8 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and amended by Article 5(5) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
+
+[^f00017]: Footnote: Regulation 37(1) was amended by regulation 6(2) and (3) of [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398) and regulation 2(5) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
+
+[^f00018]: Footnote: The definition of “HSS trust” was inserted by paragraph 1(d) of Schedule 15 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00019]: Footnote: Paragraph 2(c) was amended by regulation 10(7)(a) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^key-aba20bff4d89baa3de53f426a78a9206]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/46/regulation/6) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00020]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^key-5c755356d940d1d110efaa5d289b3c15]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/46/regulation/6/2) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c), [Sch.](https://www.legislation.gov.uk/nisr/2016/223/schedule) (with [reg. 19(1)](https://www.legislation.gov.uk/nisr/2016/223/regulation/19/1))
+
+[^f00023]: Footnote: Sub-paragraph (h) was added by regulation 11(3) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^f00024]: Footnote: Regulation 12 was amended by Article 11(7) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
+
+[^key-37a7bd9a3b064b2d2a7d0a78fc6d97a2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/46/regulation/7) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00025]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408), [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), [S.R. 2002 Nos. 67](https://www.legislation.gov.uk/nisr/2002/67), [164](https://www.legislation.gov.uk/nisr/2002/164) and [189](https://www.legislation.gov.uk/nisr/2002/189) and [S.R. 2003 Nos. 224](https://www.legislation.gov.uk/nisr/2003/224) and [421](https://www.legislation.gov.uk/nisr/2003/421)
+
+[^f00026]: Footnote: Paragraph (7) was substituted by regulation 3(2) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67)
+
+[^f00027]: Footnote: Paragraph (7A) was inserted by regulation 2(3)(d) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
+
+[^f00028]: Footnote: Paragraph (9) was substituted by regulation 3(2)(b) of [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408) and amended by regulation 3(3) of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224)
+
+[^f00029]: Footnote: Sub-paragraph (a)(i) was amended by regulation 3(4)(a) of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224)
+
+[^f00030]: Footnote: Sub-paragraph (e) was substituted by regulation 6(4) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and amended by regulation 3(3) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67)
+
+[^f00031]: Footnote: Sub-paragraph (l) was added by regulation 5(2) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
+
+[^f00032]: Footnote: Paragraph (2) was amended by regulation 3(6)(b) of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224)
+
+[^f00033]: Footnote: Paragraph (7) was substituted by regulation 3(4) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67)
+
+[^f00034]: Footnote: Paragraph (32) was added by regulation 3(6)(e) of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224)
+
+[^key-adcc9de6cce2c314800baa11e30f79ba]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/nisr/2005/46/regulation/7/8) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^f00036]: Footnote: Paragraph (7) was substituted by regulation 2(13)(a) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
+
+[^f00037]: Footnote: Paragraph (4) was amended by regulation 6(15)(b) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and regulation 2(15) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
+
+[^f00038]: Footnote: Paragraph (1) was amended by regulation 6(16)(a) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00039]: Footnote: Paragraph (12A) was inserted by regulation 6(16)(b) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and amended by regulation 2(16)(a) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
+
+[^f00040]: Footnote: Regulation 56(1) was amended by regulation 6(17) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00041]: Footnote: Regulation 57A was inserted by regulation 6(19) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and amended by regulation 2(18) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
+
+[^f00042]: Footnote: Regulation 58 was amended by regulation 2(19) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
+
+[^f00043]: Footnote: Schedule 2A was inserted by regulation 6(22) of, and the Schedule to, [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^key-8b64dff1473d77f395448b870fea7bdb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/46/regulation/8) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00044]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending regulations are [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189) and [S.R. 2004 No. 516](https://www.legislation.gov.uk/nisr/2004/516)
+
+[^key-58c7d3aacdce11fa9bb536fc2a8b72c4]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/nisr/2005/46/regulation/8/4) revoked (5.12.2005) by [The Social Security (Civil Partnership) (Consequential Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/539)](https://www.legislation.gov.uk/nisr/2005/539), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/539/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2005/539/regulation/10)
+
+[^key-3c39f2dd5d7634df754bddfa88116dda]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/46/regulation/9) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^f00046]: Footnote: [S.R. 2002 No. 403](https://www.legislation.gov.uk/nisr/2002/403); to which there amendments not relevant to these regulations
+
+[^key-0955035d253fd9aa56d7b38f7d5cd306]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/46/regulation/10) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)
+
+[^key-dbcf7601f05517c274f7a9957af43ed0]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/46/schedule) in operation at 18.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/46/regulation/1)

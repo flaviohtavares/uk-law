@@ -1,0 +1,65 @@
+---
+title: Local Government (Superannuation) Regulations (Northern Ireland) 1992, section J2
+act: Local Government (Superannuation) Regulations (Northern Ireland) 1992
+section: J2
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1992/547/section/J2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Superannuation) Regulations (Northern Ireland) 1992, section J2
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## J2. Outwards transfers
+
+(1) Subject to paragraphs (6) and (7), a transfer value shall be paid in relation to a person who has ceased to be employed in local government employment and has become employed in approved non-local government employment if the conditions in paragraph (3) are satisfied.
+
+(2) This regulation applies even if the cessation of the local government employment, or the commencement of the approved non-local government employment, or both the cessation and the commencement, occurred before 1st March 1993.
+
+(3) The conditions are that—
+
+- (a) he has made a written request to the Committee for the transfer value to be paid; and
+- (b) subject to paragraph (4), the request was made not later than 6 months after 1st March 1993, or, if later, 6 months after the date on which he became employed in his approved non-local government employment; and
+- (c) the scheme managers of his approved non-local government scheme have agreed to accept the transfer value; and
+- (d) in the case of a person who ceased to be employed in his local government employment before 31st March 1972, the Committee has consented to the payment of the transfer value; and
+- (e) in the case of a person who received a return of contributions in relation to his local government employment (other than a person falling within paragraph (7)), he has within 3 months of making his request under sub-paragraph (a) paid to the Committee—
+  - (i) a sum equal to the contributions returned to him (together with any interest which he was paid);
+  - (ii) a sum equal to any deduction made on account of tax under section 209(2) of the Income and Corporation Taxes Act 1970[^f00028]; and
+  - (iii) compound interest on both those sums calculated in accordance with regulation J7 for the period beginning with the date on which he received the return of contributions and ending on the date of his request under sub-paragraph (a) (but no interest is to be paid if that period is less than 6 months).
+
+(4) The Committee may in any particular case extend the period mentioned in paragraph (3)(b).
+
+(5) The Committee shall not give its consent under paragraph (3)(d) unless—
+
+- (a) in the interval between the employments the person was in employment outside the United Kingdom in relation to which rules made under section 2 of the Superannuation (Miscellaneous Provisions) Act 1948[^f00029] applied; or
+- (b) the person left his local government employment with a right to a prospective pension under a local Act scheme,
+
+and he has not previously made an application for a transfer value to be paid to the scheme managers in question in relation to his local government employment which was refused.
+
+(6) A transfer value shall not be paid in relation to a person—
+
+- (a) who has received any benefit (other than a return of contributions) in respect of his local government employment; or
+- (b) who ceased to be employed in local government employment on or after 6th April 1978 having reached state pensionable age, unless his accrued pension for the purposes of Schedule 16 relates solely to service after he reached state pensionable age; or
+- (c) who ceased to be employed in local government employment on or after 6th April 1978 and who has become employed in approved non-local government employment (other than employment with a Community institution) which is not contracted-out employment for the purposes of the Pensions Order, unless—
+  - (i) the person is a married woman or widow who has made, or is treated as having made, an election for the purposes of Article 5(2) of that Order and she has not revoked that election and, in consequence, on the cessation of her local government employment she has no accrued rights under these regulations to a guaranteed minimum pension in connection with that employment; or
+  - (ii) an election has been made under Article 44(2) of that Order to pay a contributions equivalent premium with a view to extinguishing the person’s accrued rights under these regulations to a guaranteed minimum pension in connection with his local government employment; or
+- (d) in respect of whom a transfer value has been paid by the Committee since he ceased to be employed in his local government employment; or
+- (e) who, on becoming employed in approved non-local government employment became entitled, without any condition as to receipt of a transfer value, to reckon service in his local government employment in relation to his approved non-local government employment; or
+- (f) if a direction has been made in relation to his service in his local government employment under regulations C15(8) or M1 or any corresponding provision of earlier legislation or the former regulations.
+
+(7) In relation to a person who—
+
+- (a) ceased to be employed in local government employment on or after 15th August 1975 but before 26th August 1977 with an aggregate of at least 5 years' reckonable and qualifying service; or
+- (b) ceased to be employed in local government employment on or after 26th August 1977,
+
+and has received a return of contributions in relation to that employment, a transfer value may only be paid in relation to service in respect of which he is entitled to preserved benefits.
+
+## Annotations
+
+[^f00028]: Footnote: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10)
+
+[^f00029]: Footnote: [1948 c. 33](https://www.legislation.gov.uk/ukpga/1948/33)

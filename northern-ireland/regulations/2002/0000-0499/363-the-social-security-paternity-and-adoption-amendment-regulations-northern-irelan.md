@@ -1,0 +1,222 @@
+---
+title: The Social Security (Paternity and Adoption Amendment) Regulations (Northern Ireland) 2002
+id: nisr/2002/363
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-11-27'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/363
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/363/pdfs/nisr_20020363_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/363/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Paternity and Adoption Amendment) Regulations (Northern Ireland) 2002
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 363
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Paternity and Adoption Amendment) Regulations (Northern Ireland) 2002
+
+Made
+
+27th November 2002
+
+Coming into operation
+
+8th December 2002
+
+The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 123(1)(e), 132(3) and (4)(b), 133(2)(d) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(1) and (4)(b), 23 and 36(2) of, and paragraph 1 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, by this statutory rule, which (apart from regulation 2(5)) contains only regulations consequential on the Employment (Northern Ireland) Order 2002[^f00004] and which is made before the end of a period of six months from the commencement of those provisions, with the consent of the Department of Finance and Personnel[^f00005], in so far as regulation 4 is concerned, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-f119915303b12158fade006f414a0a1f]
+
+(1) These Regulations may be cited as the Social Security (Paternity and Adoption Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 8th December 2002.
+
+(2) In these Regulations–
+
+- [^key-60be4d8cafe76c273c861817a3fed50d]
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00007];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00008].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Income Support Regulations[^key-4364000cf6efbf617fc1b8ba03e883a7]
+
+(1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 2(1) (interpretation)–
+
+- (a) before the definition of “attendance allowance” there shall be inserted the following definition–
+
+  > - “adoption leave” means a period of absence from work on ordinary or additional adoption leave by virtue of Article 107A or 107B of the Employment Rights (Northern Ireland) Order 1996[^f00010];
+
+  ;
+- (b) after the definition of “partner” there shall be inserted the following definition–
+
+  > - “paternity leave” means a period of absence from work on leave by virtue of Article 112A of 112B of the Employment Rights (Northern Ireland) Order 1996[^f00011];
+
+  .
+
+(3) In regulation 5(3A)[^f00012] (persons treated as engaged in remunerative work) after “maternity leave” there shall be inserted “, paternity leave or adoption leave”.
+
+(4) In regulation 35(2)(b)[^f00013] (earnings of employed earners) after “maternity leave” there shall be inserted “, paternity leave or adoption leave”.
+
+(5) In Schedule 1B[^f00014] (prescribed categories of person) after paragraph 14A[^f00015] there shall be inserted the following paragraph–
+
+> **14B. Paternity Leave**
+>
+> (1) A person who is entitled to, and is taking, paternity leave and who satisfies either or both of the conditions set out in sub-paragraph (2).
+>
+> (2) The conditions for the purposes of sub-paragraph (1) are–
+>
+> - (a) he is not entitled to statutory paternity pay by virtue of Part XIIZA of the Contributions and Benefits Act[^f00016], or to any remuneration from his employer in respect of that leave for the period to which his claim for income support relates;
+> - (b) he is entitled to working families' tax credit, disabled person’s tax credit or housing benefit on the day before that leave begins.
+>
+> (3) In this paragraph “remuneration” means payment of any kind.
+
+.
+
+(6) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)–
+
+- (a) in paragraph 4–
+  - (i) for “Part II of the Social Security (Northern Ireland) Order 1982 or statutory maternity pay under Part VI of the Order” there shall be substituted “Part XI of the Contributions and Benefits Act, statutory maternity pay under Part XII of that Act, statutory paternity pay under Part XIIZA of that Act, statutory adoption pay under Part XIIZB of that Act[^f00017]”;
+  - (ii) after “unable to work due to illness or maternity” there shall be inserted “or who is taking paternity leave or adoption leave”;
+- (b) in paragraph 4A[^f00018] for “or statutory maternity pay under Part V of the Social Security Act 1986” there shall be substituted “, statutory maternity pay under Part 12 of the Social Security Contributions and Benefits Act 1992[^f00019], statutory paternity pay under Part 12ZA of that Act[^f00020] or statutory adoption pay under Part 12ZB of that Act[^f00021]”.
+
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-2a3595f5b1adc7dbb76a1dd82f7891b9]
+
+(1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation)–
+
+- (a) before the definition of “attendance allowance” there shall be inserted the following definition–
+
+  > - “adoption leave” means a period of absence from work on ordinary or additional adoption leave by virtue of Article 107A or 107B of the Employment Rights (Northern Ireland) Order 1996;
+
+  ;
+- (b) after the definition of “part-time student” there shall be inserted the following definition–
+
+  > - “paternity leave” means a period of absence from work on leave by virtue of Article 112A or 112B of the Employment Rights (Northern Ireland) Order 1996;
+
+  .
+
+(3) In regulation 52(1) (persons treated as engaged in remunerative work) after “maternity leave” there shall be inserted “, paternity leave, adoption leave”.
+
+(4) In regulation 98(2)(c) (earnings of employed earners) after “maternity leave” there shall be inserted “, paternity leave, adoption leave”.
+
+(5) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)–
+
+- (a) in paragraph 4–
+  - (i) before “statutory sick pay” there shall be inserted “statutory paternity pay by virtue of Part XIIZA of the Benefits Act, statutory adoption pay by virtue of Part XIIZB of the Benefits Act,”;
+  - (ii) after “unable to work due to illness or maternity” there shall be added “or who is taking paternity leave or adoption leave”;
+- (b) in paragraph 5 after “Social Security Contributions and Benefits Act 1992” there shall be inserted “, statutory paternity pay under Part 12ZA of that Act or statutory adoption pay under Part 12ZB of that Act”.
+
+## 4. Amendment of the Housing Benefit Regulations[^key-c3662f508f0d973f8ed518e14362a791]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 27th November 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+The Department of Finance and Personnel hereby consents to regulation 4 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 27th November 2002.
+
+N. Taylor
+
+Senior Officer of the
+
+Department of Finance and Personnel
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 and the Housing Benefit (General) Regulations (Northern Ireland) 1987 (“the principal Regulations”).
+
+Regulations 2(2), 3(2) and 4(2) insert definitions of “adoption leave” and “paternity leave” in the principal Regulations.
+
+Regulations 2(3), 3(3) and 4(3) amend the principal Regulations to provide that a person on statutory paternity leave or statutory adoption leave shall not be treated as engaged in remunerative work for the purposes of the principal Regulations.
+
+Regulations 2(4) and 3(4) amend the Income Support (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 to provide that remuneration received while on statutory paternity or statutory adoption leave is not counted as earnings for the purposes of calculating entitlement to income support or jobseeker’s allowance.
+
+Regulation 2(5) extends entitlement to income support to a person who is entitled to and taking paternity leave by virtue of section 112A or 112B of the Employment Rights (Northern Ireland) Order 1996 and who satisfies the prescribed conditions.
+
+Regulations 2(6), 3(5) and 4(6) amend the principal Regulations to add statutory adoption pay and statutory paternity pay to those payments in respect of which prescribed sums are to be disregarded in the calculation of income for the purposes of those regulations.
+
+Regulation 4(4) amends the Housing Benefit (General) Regulations (Northern Ireland) 1987 for clarificatory purposes and to provide that–
+
+- for the purposes of child care charges, a parent on statutory adoption leave or statutory paternity leave is to be treated as being in remunerative work when receiving housing benefit;
+- statutory adoption pay and statutory paternity pay are to be treated as earnings for the purposes of housing benefit.
+
+Since these Regulations (apart from regulation 2(5)) are made before the end of a period of 6 months from the commencement of the relevant provisions in the Employment (Northern Ireland) Order 2002, they are accordingly exempt, by virtue of section 150(5)(b) of the Social Security Administration (Northern Ireland) Act 1992 (“the 1992 Act”), from reference to the Social Security Advisory Committee. Regulation 2(5) corresponds to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, is not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 and section 133(2)(d) was substituted by paragraph 18(3) of Schedule 2 to that Order
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)
+
+[^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-f119915303b12158fade006f414a0a1f]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/363/regulation/1/1)
+
+[^key-60be4d8cafe76c273c861817a3fed50d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/363/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and [S.R. 1999 No. 500](https://www.legislation.gov.uk/nisr/1999/500)
+
+[^f00008]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138)
+
+[^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-4364000cf6efbf617fc1b8ba03e883a7]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/363/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Articles 107A and 107B were inserted by Article 3 of the Employment (Northern Ireland) Order 2002
+
+[^f00011]: Footnote: Articles 112A and 112B were inserted by Article 4 of the Employment (Northern Ireland) Order 2002
+
+[^f00012]: Footnote: Regulation 5(3A) was inserted by regulation 4(3)(a) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
+
+[^f00013]: Footnote: Regulation 35(2)(b) was amended by regulation 4(11) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
+
+[^f00014]: Footnote: Schedule 1B was inserted by regulation 22 of and Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00015]: Footnote: Paragraph 14A was inserted by regulation 2 of [S.R. 1999 No. 500](https://www.legislation.gov.uk/nisr/1999/500)
+
+[^f00016]: Footnote: Part XIIZA was inserted by Article 5 of the Employment (Northern Ireland) Order 2002
+
+[^f00017]: Footnote: Part XIIZB was inserted by Article 6 of the Employment (Northern Ireland) Order 2002
+
+[^f00018]: Footnote: Paragraph 4A was inserted by regulation 36(a) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146)
+
+[^f00019]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4)
+
+[^f00020]: Footnote: Part 12ZA was inserted by section 2 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22)
+
+[^f00021]: Footnote: Part 12ZB was inserted by section 4 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22)
+
+[^key-2a3595f5b1adc7dbb76a1dd82f7891b9]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/363/regulation/1/1)
+
+[^key-c3662f508f0d973f8ed518e14362a791]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/363/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

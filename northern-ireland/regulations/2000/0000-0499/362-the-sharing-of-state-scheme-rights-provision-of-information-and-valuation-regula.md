@@ -1,0 +1,244 @@
+---
+title: The Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations (Northern Ireland) 2000
+id: nisr/2000/362
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-11-22'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/362
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/362/pdfs/nisr_20000362_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/362/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations (Northern Ireland) 2000
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 362
+
+PENSIONS
+
+SOCIAL SECURITY
+
+The Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations (Northern Ireland) 2000
+
+Made
+
+22nd November 2000
+
+Coming into operation
+
+1st December 2000
+
+The Department for Social Development, in exercise of the powers conferred by sections 45B(7), 55A(6), 55B(7), 171(3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 21(1)(*a*), (*b*)(ii) and (*c*)(i) and (2), 46(4) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## Part 1 — General[^key-66fff468b8d19432f49ee75d1104e698]
+
+### 1. Citation, commencement and interpretation[^key-57c9687b908da5fc2a6e3f3e3fd5646b]
+
+(1) These Regulations may be cited as the Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations (Northern Ireland) 2000 and shall come into operation on 1st December 2000.
+
+(2) In these Regulations—
+
+- “the 2015 Act means the Pensions Act (Northern Ireland) 2015;[^key-07d2a3ce8f0c352dd4ab7a17cfbeefbb]
+- “new state scheme pension credit” is a credit under Article 46A(2)(b);
+- “old state scheme pension credit” is a credit under Article 46(1)(b);
+- “**shareable new state scheme rights**” has the meaning given by Article 44(3);
+- “**shareable old state scheme rights**” has the meaning given by Article 44(2);
+- “shared additional pension” means a shared additional pension referred to in section 55A[^f00004].
+
+(3) Subject to paragraph (4), the Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(4) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+(5) In these Regulations—
+
+- (a) any reference to a numbered section is a reference to the section of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 bearing that number;
+- (b) any reference to a numbered Article is a reference to the Article of the Welfare Reform and Pensions (Northern Ireland) Order 1999 bearing that number.
+
+## Part 2 — Old State Scheme Pension Credits and Debits[^key-142e8afc6db0647838672d17cb2d38ce]
+
+### 2. Basic information about the sharing of state scheme rights for the purposes of divorce or dissolution of a civil partnership, etc.[^key-35c7de0c46d988a012d352d5a0d381a2][^key-36bf0c162ee5f6a56d2d600ddbd3d813]
+
+(1) The requirements imposed on the Department for the purposes of Article 21(1)(*a*) (supply of pension information in connection with divorce etc.) are that it shall furnish—
+
+- (a) the information specified in paragraphs (2) and (3)—
+  - (i) to a person who has shareable old state scheme rights[^key-5f7d7c1f78f24db8b28f76e719eadcd5] on request from that person, or
+  - (ii) to the court, pursuant to an order of the court, or
+- (b) the information specified in paragraph (3) to the spouse or civil partner[^key-ac8b7c3d265bbbad7840b6c5d06605ba] of a person who has shareable old state scheme rights, on request from that spouse or civil partner.
+
+(2) The information specified in this paragraph is a valuation of the person’s shareable old state scheme rights.
+
+(3) The information specified in this paragraph is an explanation of—
+
+- (a) the shareable old state scheme rights[^key-bf5286bca24c1962a4ef1b3f1089da8a];
+- (b) how a pension sharing order or provision will affect a person’s shareable old state scheme rights, and
+- (c) how a pension sharing order or provision in respect of a person’s shareable old state scheme rights will result in the spouse or civil partner[^key-9bacfa71331981d94fcb35fbcfec7a9f] of the person who has shareable old state scheme rights becoming entitled to a shared additional pension because of an old state scheme pension credit[^key-23a6e9aa2326fb9468da3a4cb2570bb6].
+
+(4) The Department shall furnish the information specified in paragraphs (2) and (3) to the court or, as the case may be, to the person who has shareable old state scheme rights within—
+
+- (a) 3 months beginning with the date the Department receives the request or, as the case may be, the order for the provision of that information;
+- (b) 6 weeks beginning with the date the Department receives the request or, as the case may be, the order for the provision of the information, if the person who has shareable old state scheme rights has notified the Department on the date of the request or order that the information is needed in connection with proceedings commenced under any of the provisions referred to in Article 21(1)(*a*), or
+- (c) such shorter period specified by the court in an order requiring the Department to provide a valuation in accordance with paragraph (2).
+
+(5) Where—
+
+- (a) the request made by the person with shareable old state scheme rights for, or the court order requiring, the provision of information does not include a request or, as the case may be, an order for a valuation under paragraph (2), or
+- (b) the spouse or civil partner[^key-fde18db8083a86ff160f506924b985ea] of the person with shareable old state scheme rights requests the information specified in paragraph (3),
+
+the Department shall furnish that information to the person who has shareable old state scheme rights, his spouse, civil partner,[^key-0d94201b5788d429b2ed8ff533814c8c] or the court, as the case may be, within one month beginning with the date the Department receives the request or the court order for the provision of that information.
+
+### 3. Information about the sharing of state scheme rights for the purposes of divorce or dissolution of a civil partnership, etc: valuation of shareable old state scheme rights[^key-5576bcc085323019ef2f90e8917f9e7a][^key-7f61631851d50a25344a922f6a574a0f][^key-2ae9e94ce2b22b03e82525e9a35c80e8]
+
+Where an application for financial relief or financial provision under any of the provisions referred to in Article 21(1)(*a*) has been made or is in contemplation, the valuation of shareable old state scheme rights[^key-c1dc213beb6163ac2d761a9f4d0f4ff7] shall be calculated and verified for the purposes of regulation 2(2) in such manner as may be approved by or on behalf of the Government Actuary.
+
+### 4. Calculation and verification of cash equivalents for the purposes of the creation of state scheme pension debits and credits[^key-bd7ec384f9417f8d38792b55a425b4e3]
+
+For the purposes of—
+
+- (a) Article 46 (creation of state scheme pension debits and credits : transferor in old state pension system or pension sharing activated before 6th April 2016[^key-076fa4c1878ede1a82e8d2beb8c3d3a6]);
+- (b) section 45B (reduction of additional pension in Category A retirement pension: pension sharing);
+- (c) section 55A (shared additional pension because of an old state scheme pension credit);[^key-1659773798adf0f1cde7aa7e2c55877d]
+- (d) section 55B (reduction of shared additional pension: pension sharing),
+- (e)[^key-2aadbb68ba22183213c5ced0bdf8244b] paragraph 2 of Schedule 8 to the 2015 Act, and
+- (f) paragraph 2 of Schedule 10 to the 2015 Act,
+
+cash equivalents or notional rates[^key-4711cc07c86405dabeccdcab0f787182] shall be calculated and verified in such manner as may be approved by or on behalf of the Government Actuary.
+
+## PART 3 — New State Scheme Pension Credits and Debits[^key-71faa302fad81085f06f08d0c563fca8]
+
+### 5. Basic information about the sharing of state scheme rights and divorce or the dissolution of a civil partnership
+
+(1) The requirements imposed on the Department for the purposes of Article 21(1)(a) (supply of pension information in connection with divorce etc.) are that the Department shall furnish—
+
+- (a) the information specified in paragraphs (2) and (4) to (7)—
+  - (i) to a person who has shareable new state scheme rights on request from that person, or
+  - (ii) to the court, pursuant to an order of the court, or
+- (b) the information specified in paragraph (7) to the spouse or civil partner of a person who has shareable new state scheme rights, on request from that spouse or civil partner.
+
+(2) Except where paragraph (4) or (5) applies, the information specified in this paragraph is a valuation of the person's shareable new state scheme rights as at the date of receipt of a request for such a valuation.
+
+(3) Paragraphs (4) to (6) apply for the purposes of Article 21(1)(a)(iii) and in those paragraphs “**relevant date**” has the meaning given by section 10(3) of the Family Law (Scotland) Act 1985
+
+(4) The information specified in this paragraph is a valuation of the person's shareable new state scheme rights as at the relevant date, where the relevant date is on or after 6th April 2016.
+
+(5) The information specified in this paragraph is a valuation of the person's previous shareable old state scheme rights as at the relevant date, where the relevant date is before 6th April 2016 and the request for a valuation is received on or after 6th April 2016.
+
+(6) The information specified in this paragraph is the amount of the person's former entitlement to a category A retirement pension by virtue of section 44(3)(b) as at the relevant date and immediately before 6th April 2016, where the relevant date is before 6th April 2016 and the request for information about that amount is received on or after 6th April 2016.
+
+(7) The information in this paragraph is an explanation of—
+
+- (a) the shareable new state scheme rights;
+- (b) how a pension sharing order or provision will affect a person's shareable new state scheme rights;
+- (c) how a pension sharing order or provision in respect of a person's shareable new state scheme rights will result in the spouse or civil partner of the person who has shareable new state scheme rights becoming entitled to an amount because of a new state scheme pension credit; and
+- (d) how any amount in sub-paragraph (c) differs from an amount of shared additional pension because of an old state scheme pension credit.
+
+(8) The Department shall furnish the information specified in paragraphs (2) and (4) to (7) to the court, or, as the case may be, to the person who has shareable new state scheme rights within—
+
+- (a) 3 months beginning with the date the Department receives the request or, as the case may be, the order for the provision of that information;
+- (b) 6 weeks beginning with the date the Department receives the request or, as the case may be, the order for the provision of the information, if the person who has shareable new state scheme rights has notified the Department by the date the Department receives the request or order that the information is needed in connection with proceedings commenced under any of the provisions referred to in Article 21(1)(a); or
+- (c) such shorter period specified by the court in an order requiring the Department to provide a valuation in accordance with paragraph (2), (4) or (5) or an amount in accordance with paragraph (6).
+
+(9) Where—
+
+- (a) the request made by the person with shareable new state scheme rights for, or the court order requiring, the provision of information does not include a request or, as the case may be, an order for a valuation under paragraph (2), (4) or (5) or an amount under paragraph (6); or
+- (b) the spouse or civil partner of the person with shareable new state scheme rights requests the information specified in paragraph (7),
+
+the Department shall furnish that information to the person who has shareable new state scheme rights, that person's spouse or civil partner, or the court, as the case may be, within one month beginning with the date the Department receives the request or the court order for the provision of that information.
+
+### 6. Information about the sharing of state scheme rights on divorce or dissolution of a civil partnership etc.: valuation of shareable old or new state scheme rights
+
+Where an application for financial relief or financial provision under any of the provisions referred to in Article 21(1)(a) has been made or is in contemplation, the valuation of shareable old or new state scheme rights shall be calculated and verified for the purposes of regulation 5(2), (4) and (5) in accordance with guidance from time to time prepared by the Government Actuary.
+
+Sealed with the Official Seal of the Department for Social Development on 22nd November 2000.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations make provision in connection with the sharing, on divorce or nullity of marriage, of rights to the additional pension component of a state retirement pension.
+
+Regulation 1 provides for the citation, commencement and interpretation.
+
+Regulation 2 specifies the information which the Department for Social Development must supply to the parties to a marriage or the court in relation to the sharing of state scheme rights. This regulation also specifies the time limits within which that information must be furnished.
+
+Regulation 3 sets out how the value of the state scheme rights must be calculated and verified when a valuation of those rights is requested in connection with the sharing of those rights.
+
+Regulation 4 provides for how cash equivalents may be calculated and verified for the purposes of the creation of state scheme pension debits and credits, the reduction of the additional pension, the creation of the shared additional pension and the reduction of the shared additional pension, as a result of pension sharing.
+
+The Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Northern Ireland) 2000 ([S.R. 2000 No. 133 (C. 5)](https://www.legislation.gov.uk/nisr/2000/133)) provides for the coming into operation of Articles 21(1)(*a*), (*b*)(ii), (*c*)(i) and (2) and 46(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (“the 1999 Order”), some of the enabling provisions under which these Regulations are made, in so far as they are not already in operation, on 1st December 2000. Sections 45B(7), 55A(6) and 55B(7) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, other enabling provisions under which these regulations are made, were substituted by section 37 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the Act”). The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 1) Order (Northern Ireland) 2000 ([S.R. 2000 No. 358 (C. 16)](https://www.legislation.gov.uk/nisr/2000/358)) provides for the coming into operation of section 37 of the Act on 22nd November 2000.
+
+These Regulations, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain. Accordingly there is no requirement for consultation under Article 73(9) of the 1999 Order. Similarly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) they are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 45B(7) was inserted by paragraph 2 of Schedule 6 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and substituted by section 37 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4); sections 55A(6) and 55B(7) were inserted by paragraph 3 of Schedule 6 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and substituted by section 37 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00002]: Footnote: S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); Article 46(4) is substituted by section 37 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-66fff468b8d19432f49ee75d1104e698]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/nisr/2000/362/part/1) Title inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(2)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/2)
+
+[^key-57c9687b908da5fc2a6e3f3e3fd5646b]: Commencement: Reg. 1 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/362/regulation/1/1)
+
+[^key-07d2a3ce8f0c352dd4ab7a17cfbeefbb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/362/regulation/1/2) substituted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(3)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/3)
+
+[^f00004]: Footnote: Section 55A was inserted by paragraph 3 of Schedule 6 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and amended by section 37 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-142e8afc6db0647838672d17cb2d38ce]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2000/362/part/2) Title inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/4)
+
+[^key-35c7de0c46d988a012d352d5a0d381a2]: Commencement: Reg. 2 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/362/regulation/1/1)
+
+[^key-36bf0c162ee5f6a56d2d600ddbd3d813]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2000/362/regulation/2) heading inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/7/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-5f7d7c1f78f24db8b28f76e719eadcd5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2000/362/regulation/2) substituted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(5)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/5/a)
+
+[^key-ac8b7c3d265bbbad7840b6c5d06605ba]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2000/362/regulation/2/1/b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/7/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-bf5286bca24c1962a4ef1b3f1089da8a]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2000/362/regulation/2/3/a) substituted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(5)(b)(i)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/5/b/i)
+
+[^key-9bacfa71331981d94fcb35fbcfec7a9f]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2000/362/regulation/2/3/c) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 7(2)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/7/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-23a6e9aa2326fb9468da3a4cb2570bb6]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2000/362/regulation/2/3/c) inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/5/b/ii)
+
+[^key-fde18db8083a86ff160f506924b985ea]: Textual amendment: Words in [reg. 2(5)(b)](https://www.legislation.gov.uk/nisr/2000/362/regulation/2/5/b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 7(2)(d)(i)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/7/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-0d94201b5788d429b2ed8ff533814c8c]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/nisr/2000/362/regulation/2/5) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 7(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/7/2/d/ii) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-5576bcc085323019ef2f90e8917f9e7a]: Commencement: Reg. 3 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/362/regulation/1/1)
+
+[^key-7f61631851d50a25344a922f6a574a0f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/362/regulation/3) heading inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-2ae9e94ce2b22b03e82525e9a35c80e8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/362/regulation/3) heading substituted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(6)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/6)
+
+[^key-c1dc213beb6163ac2d761a9f4d0f4ff7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/362/regulation/3) substituted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(6)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/6)
+
+[^key-bd7ec384f9417f8d38792b55a425b4e3]: Commencement: Reg. 4 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/362/regulation/1/1)
+
+[^key-076fa4c1878ede1a82e8d2beb8c3d3a6]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/nisr/2000/362/regulation/4/a) inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(7)(a)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/7/a)
+
+[^key-1659773798adf0f1cde7aa7e2c55877d]: Textual amendment: Words in [reg. 4(c)](https://www.legislation.gov.uk/nisr/2000/362/regulation/4/c) substituted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(7)(b)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/7/b)
+
+[^key-2aadbb68ba22183213c5ced0bdf8244b]: Textual amendment: [Reg. 4(e)(f)](https://www.legislation.gov.uk/nisr/2000/362/regulation/4/e/f) inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(7)(c)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/7/c)
+
+[^key-4711cc07c86405dabeccdcab0f787182]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2000/362/regulation/4) inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(7)(d)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/7/d)
+
+[^key-71faa302fad81085f06f08d0c563fca8]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2000/362/part/3) inserted (6.4.2016) by [The State Pension Regulations (Northern Ireland) 2015 (S.R. 2015/315)](https://www.legislation.gov.uk/nisr/2015/315), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/315/regulation/1/1), [14(8)](https://www.legislation.gov.uk/nisr/2015/315/regulation/14/8)

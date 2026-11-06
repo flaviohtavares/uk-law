@@ -1,0 +1,270 @@
+---
+title: Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2005
+id: nisr/2005/525
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-11-29'
+text_date: '2014-04-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/525
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/525/pdfs/nisr_20050525_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/525/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2005
+
+> Text as at 2014-04-11.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 525
+
+FAIR EMPLOYMENT
+
+Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2005
+
+Made
+
+29th November 2005
+
+Coming into operation
+
+1st January 2006
+
+Whereas, in accordance with Article 50(3) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00001] (“the 1998 Order”), each person who, by virtue of the following Order, becomes a public authority for any of the purposes of Articles 52 to 65 of the 1998 Order is:
+
+(1) a Minister of the Crown or a Northern Ireland Minister;
+
+(2) a statutory body or the holder of a statutory office; or
+
+(3) a person appearing to the Office of the First Minister and deputy First Minister[^f00002] (“the Department”) to exercise functions of a public nature;
+
+And whereas, in accordance with Article 51(4) of the 1998 Order, it appears to the Department that some or all of the people who are employed by each person, who by virtue of the following Order becomes an employer for the purposes of Articles 52 to 61 of the 1998 Order, who are in the service of the Crown for the purposes of the functions of those persons or who are treated by virtue of the following Order as so employed or as in such service, are employed or serve in Northern Ireland:
+
+Now, therefore, the Department in exercise of the powers conferred by Article 50(1) and (2) and Article 51(2) of the 1998 Order and now vested in it[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement[^key-d26fc2f93a2c57204bd93d4e7fedc3f1]
+
+This Order may be cited as the Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2005 and shall come into operation on 1st January 2006.
+
+## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^key-fa4cab78a7e811ea0c00b977f7e016e3]
+
+For the Schedule to the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^f00004] there shall be substituted the Schedule to this Order.
+
+Sealed with the Official Seal of the Office of the First Minister and deputy First Minister on 29th November 2005.
+
+Gerard Mulligan
+
+A senior officer of the Office of the First Minister and deputy First Minister
+
+## SCHEDULE
+
+Articles 3 and 4
+
+### PART I — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 52 TO 65 OF THE 1998 ORDER[^key-d58d49f89b2a8fbe8cde887275ee615d]
+
+- Agricultural Research Institute of Northern Ireland
+- Altnagelvin Hospitals Health and Social Services Trust
+- Armagh and Dungannon Health and Social Services Trust
+- Arts Council of Northern Ireland
+- Assembly Ombudsman for Northern Ireland
+- Belfast City Hospital Health and Social Services Trust
+- Belfast Education and Library Board
+- Belfast Harbour Commissioners
+- Board of Trustees of the National Museums and Galleries of Northern Ireland
+- British Broadcasting Corporation
+- Causeway Health and Social Services Trust
+- Chief Electoral Officer for Northern Ireland
+- Chief Inspector of Criminal Justice in Northern Ireland
+- Citybus Limited
+- Coleraine Harbour Commissioners
+- Commissioner for Children and Young People for Northern Ireland
+- Comptroller and Auditor General for Northern Ireland
+- Construction Industry Training Board
+- Council for Catholic Maintained Schools
+- Craigavon Area Hospital Group Health and Social Services Trust
+- Craigavon and Banbridge Community Health and Social Services Trust
+- Any District Council
+- Down Lisburn Health and Social Services Trust
+- Eastern Health and Social Services Board
+- Economic Research Institute of Northern Ireland Limited
+- Enterprise Ulster
+- Equality Commission for Northern Ireland
+- Fire Authority for Northern Ireland
+- Fisheries Conservancy Board for Northern Ireland
+- Flexibus Limited
+- The Food Standards Agency Northern Ireland
+- Foyle, Carlingford and Irish Lights Commission
+- Foyle Health and Social Services Trust
+- General Consumer Council for Northern Ireland
+- General Teaching Council for Northern Ireland
+- The governing body of the Armagh College of Further and Higher Education
+- The governing body of the Belfast Institute of Further and Higher Education
+- The governing body of the Castlereagh College of Further and Higher Education
+- The governing body of the Causeway Institute of Further and Higher Education
+- The governing body of the East Antrim Institute of Further and Higher Education
+- The governing body of the East Down Institute of Further and Higher Education
+- The governing body of the East Tyrone College of Further and Higher Education
+- The governing body of the Fermanagh College of Further and Higher Education
+- The governing body of the Limavady College of Further and Higher Education
+- The governing body of the Lisburn Institute of Further and Higher Education
+- The governing body of the Newry and Kilkeel Institute of Further and Higher Education
+- The governing body of the North Down and Ards Institute of Further and Higher Education
+- The governing body of the North East Institute of Further and Higher Education
+- The governing body of the North West Institute of Further and Higher Education
+- The governing body of the Omagh College of Further Education
+- The governing body of the Upper Bann Institute of Further and Higher Education
+- The governing body of Stranmillis University College, Belfast
+- Governors of the Armagh Observatory and Planetarium
+- Green Park Health and Social Services Trust
+- Homefirst Community Health and Social Services Trust
+- Ilex Urban Regeneration Company Limited
+- Invest Northern Ireland
+- Labour Relations Agency
+- Laganside Corporation
+- Livestock and Meat Commission for Northern Ireland
+- Local Government Staff Commission for Northern Ireland
+- Londonderry Port and Harbour Commissioners
+- Mater Infirmorum Hospital Health and Social Services Trust
+- Mental Health Commission for Northern Ireland
+- The National Heritage Memorial Fund
+- The National Lotteries Charities Board
+- The New Opportunities Fund
+- Newry and Mourne Health and Social Services Trust
+- North Eastern Education and Library Board
+- North and West Belfast Health and Social Services Trust
+- The North/South Language Body
+- Northern Health and Social Services Board
+- Northern Ireland Ambulance Service Health and Social Services Trust
+- Northern Ireland Assembly Commission
+- Northern Ireland Blood Transfusion Service Agency
+- Northern Ireland Central Services Agency for the Health and Social Services
+- Northern Ireland Commissioner for Complaints
+- Northern Ireland Community Relations Council
+- Northern Ireland Council for the Curriculum, Examinations and Assessment
+- Northern Ireland Film and Television Commission
+- Northern Ireland Fishery Harbour Authority
+- Northern Ireland Guardian Ad Litem Agency
+- Health and Social Care Regulation and Quality Improvement Authority[^key-c2afdf41f5183c56675a93e9be619f38]
+- Northern Ireland Health Promotion Agency
+- Northern Ireland Housing Executive
+- Northern Ireland Human Rights Commission
+- Northern Ireland Legal Services Commission
+- Northern Ireland Local Government Officers' Superannuation Committee
+- Northern Ireland Medical and Dental Training Agency
+- Northern Ireland Policing Board
+- Northern Ireland Practice and Education Council for Nursing and Midwifery
+- Northern Ireland Railways Company Limited
+- Northern Ireland Regional Medical Physics Agency
+- Northern Ireland Social Care Council
+- Northern Ireland Tourist Board
+- Northern Ireland Transport Holding Company
+- Office of Communications
+- The Police Ombudsman for Northern Ireland
+- Probation Board for Northern Ireland
+- Royal Group of Hospitals and Dental Hospital Health and Social Services Trust
+- Royal Mail Group plc
+- South and East Belfast Health and Social Services Trust
+- South Eastern Education and Library Board
+- Southern Education and Library Board
+- Southern Health and Social Services Board
+- The Special EU Programmes Body
+- Sperrin Lakeland Health and Social Services Trust
+- Sports Council for Northern Ireland
+- Staff Commission for Education and Library Boards
+- Strategic Investment Board Limited
+- The Trade and Business Development Body
+- Tourism Ireland Limited
+- Ulster Community and Hospitals Health and Social Services Trust
+- Ulster Supported Employment Limited
+- Ulsterbus Limited
+- United Hospitals Health and Social Services Trust
+- Warrenpoint Harbour Authority
+- Waterways Ireland
+- Western Education and Library Board
+- Western Health and Social Services Board
+- Youth Council for Northern Ireland
+
+### PART II — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 62 TO 65 OF THE 1998 ORDER[^key-a09d56805531f7e4e3f3a14b88b4eb02]
+
+- First Secretary of State
+- Secretary of State for Constitutional Affairs
+- Secretary of State for Defence
+- Secretary of State for Environment, Food and Rural Affairs
+- Secretary of State for the Home Department
+- Secretary of State for Northern Ireland
+- Secretary of State for Trade and Industry
+- Secretary of State for Transport
+- Secretary of State for Work and Pensions
+- Commissioners of Customs and Excise
+- Board of Inland Revenue
+- The Lord Chancellor
+- The Chief Constable of the Police Service of Northern Ireland
+- The Comptroller of Her Majesty’s Stationery Office
+- The Director of Savings (Department for National Savings)
+- The Meat and Livestock Commission
+- Health and Safety Executive for Northern Ireland
+- Northern Ireland Authority for Energy Regulation
+- Any Northern Ireland Department
+- Any Northern Ireland Minister
+- The governing body of an Institution of Further Education within the meaning of the Further Education (Northern Ireland) Order 1997 established on or after 1st January 2006
+- Any Health and Social Services trust established on or after 1st January 2006 under Article 10(1) of the Health and Personal Social Services (Northern Ireland) Order 1991.
+
+(This note is not part of the Order)
+
+This Order amends the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004 (“the 2004 Order”) which specifies a number of persons or bodies as public authorities for certain purposes under Part VII of the Fair Employment and Treatment (Northern Ireland) Order 1998 (“the 1998 Order”) and provides for the persons who are to be treated for such purposes as the employees of some of those authorities.
+
+The Schedule to the 2004 Order lists in Part I the bodies who are public authorities for the purposes of Articles 52 to 65 of the 1998 Order and in Part II the bodies who are public authorities for the purposes of Articles 62 to 65 of the 1998 Order.
+
+Article 2 of this Order substitutes a new Schedule to the 2004 Order.
+
+The following bodies are added to the Schedule:
+
+- **Part I**
+
+  The Food Standards Agency Northern Ireland
+
+  The National Heritage Memorial Fund
+
+  Health and Social Care Regulation and Quality Improvement Authority
+
+  The National Lotteries Charities Board
+
+  The New Opportunities Fund
+- **Part II**
+
+  The Meat and Livestock Commission
+
+The following Amendments have been made to the Schedule:
+
+- The governing body of the Armagh College of Further Education is now listed in Part I as the governing body of the Armagh College of Further and Higher Education
+- The Health and Social Care Regulation and Quality Improvement Authority is now listed in Part I rather than Part II.
+- The Board of Governors of Stranmillis University College, Belfast is now listed in Part I as the governing body of Stranmillis University College, Belfast.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
+
+[^f00002]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
+
+[^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
+
+[^key-d26fc2f93a2c57204bd93d4e7fedc3f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+
+[^key-fa4cab78a7e811ea0c00b977f7e016e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/525/article/2) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+
+[^f00004]: Footnote: [S.R. 2004 No. 494](https://www.legislation.gov.uk/nisr/2004/494)
+
+[^key-d58d49f89b2a8fbe8cde887275ee615d]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2005/525/schedule/part/I) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)
+
+[^key-c2afdf41f5183c56675a93e9be619f38]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2005/525) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+
+[^key-a09d56805531f7e4e3f3a14b88b4eb02]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2005/525/schedule/part/II) in operation at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2005/525/article/1)

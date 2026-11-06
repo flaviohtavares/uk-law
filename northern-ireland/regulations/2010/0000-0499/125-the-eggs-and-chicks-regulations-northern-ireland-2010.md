@@ -1,0 +1,1070 @@
+---
+title: The Eggs and Chicks Regulations (Northern Ireland) 2010
+id: nisr/2010/125
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-03-24'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/125
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/125/pdfs/nisrem_20100125_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/125/pdfs/nisr_20100125_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/125/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Eggs and Chicks Regulations (Northern Ireland) 2010
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 125
+
+Food
+
+The Eggs and Chicks Regulations (Northern Ireland) 2010
+
+Made
+
+24th March 2010
+
+Coming into operation
+
+28th April 2010
+
+The Department of Agriculture and Rural Development is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union[^key-b2b7a318c80ab057bd93a8ceaeca13da] .
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for any reference to the following Regulations to be construed as a reference to those Regulations as amended from time to time—
+
+- (a)
+- (b)
+- (c)
+
+Insofar as these Regulations are made in exercise of powers under the Food Safety (Northern Ireland) Order 1991[^f00006], the Department has had regard to relevant advice given by the Food Standards Agency as required by Article 47(3A)[^f00007] of that Order.
+
+There has been open and transparent public consultation during the preparation of the following Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00008] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^key-b111d7deccebec2b36af03f1a3278d26]
+
+Accordingly, the Department makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A[^f00009] of Schedule 2 to, the European Communities Act 1972; and Articles 15(1)[^f00010], 16[^f00011], 25[^f00012], 26(3)[^f00013] and 47(2)[^f00014] of the Food Safety (Northern Ireland) Order 1991.[^key-b111d7deccebec2b36af03f1a3278d26]
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-6d026f8309f74091d375d326d72af47b]
+
+These Regulations may be cited as the Eggs and Chicks Regulations (Northern Ireland) 2010 and shall come into operation on 28<sup>th</sup> April 2010.
+
+### 2. Interpretation[^key-2362307149660214715e250166b98ce5]
+
+(1) In these Regulations—
+
+- “authorised officer” means any person who has written authority from the Department or a district council to act in matters arising under or in relation to the Order or these Regulations;
+- “breeding establishment” has the meaning given by Article 1(3)(b) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
+- “chicks” has the meaning given by Article 1(2) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
+- “[Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589)” means [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs, as amended from time to time;
+- “[Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)” means [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) laying down detailed rules for implementing Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs for hatching and farmyard poultry chicks, as amended from time to time;
+- “The Northern Ireland welfare regulations” means the Welfare of Farmed Animals Regulations (Northern Ireland) 2012;[^key-88b31b6bee1de3bea7074664f12d868f]
+- [^key-bd47efd25753d60a382ccecc68557ad9]...
+- “door-to-door selling” means a sale which is made during an unsolicited visit by a producer to the final consumer’s home, or to the home of another person, or to the final consumer’s place of work;
+- “eggs” has the meaning given by sub-paragraph (k) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
+- “eggs for hatching” has the meaning given by Article 1(1) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
+- “electronic communication” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^M_F_cc686a11-b28b-4b1a-cf1d-09c2f69224f2]
+- “enforcement authority” means an authority exercising a function conferred on it by regulation 16;
+- “final consumer” has the meaning given by sub-paragraph (r) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
+- “hatchery” has the meaning given by Article 1(3)(c) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
+- “local public market”, in relation to eggs laid at a production site, means a public market in Northern Ireland where eggs are sold directly to the consumer;
+- “market”, when used as a noun, means—
+  - (a) a market or fair which the right to hold it was acquired by virtue of a grant (including a presumed grant) or acquired or established by virtue of an enactment or subordinate legislation; and
+  - (b) a temporary market—
+    - (i) comprising of a concourse of buyers and sellers of articles held otherwise than in a building or on a highway, with not less than five stalls, stands, vehicles (whether movable or not) or pitches from which articles are sold; and
+    - (ii) operating in accordance with the requirements of bye-laws made by district councils pursuant to the provisions of section 103 of the Public Health (Ireland) Act 1878 and Part VI of the Local Government Act (Northern Ireland) 1972;
+- “packing centre” has the meaning given by sub-paragraph (q) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
+- “pedigree breeding establishment” has the meaning given by Article 1(3)(a) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
+- “production site” has the meaning given by sub-paragraph (p) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
+- “Regulation (EC) No. 2160/2003” means Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)[^f00017] of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents as amended by[^key-52fee205026d320152c38f7436aa4c98] [Commission Regulation (EU) No. 517/2011](https://www.legislation.gov.uk/european/regulation/2011/0517) and as amended from time to time ;
+- “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^key-f2686024b0a6fc4afc5d1b6c64480768] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+- “[^key-13a92097474910a31b76f61585101cfe]**Regulation (EU) 2013**” means the Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+- “Single CMO Regulation” means Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation), as amended from time to time;
+- “the Department” means the Department of Agriculture and Rural Development; and
+- “the Order” means the Food Safety (Northern Ireland) Order 1991.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00018] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(3) Any expression which is not defined in paragraph (1), but is used in Part 2 of, or Schedule 1 to, these Regulations and in Part VI of Annex VII to Regulation (EU) 2013[^key-b381fae225b6e9dec0625ec118956b6e] has the same meaning in those provisions of these Regulations as it does in the Single CMO Regulation.
+
+(4) Any expression which is not defined in paragraph (1), but is used in Part 3 or 4 of, or Schedule 2 to, these Regulations and in Part VI of Annex VII to Regulation (EU) 2013[^key-9801592904afde0f1334144935514f4f] , or [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), has the same meaning in those provisions of these Regulations as it does in the EC Regulation in which it is used.
+
+(5) Any expression which is not defined in paragraph (1) but is used in Schedule 3 to these Regulations and in Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) has the same meaning in Schedule 3 as it does in Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
+
+(6) Any reference to a contravention of, or failure to comply with, any provision mentioned in Schedule 1 means a contravention of or failure to comply with—
+
+- (a) any provision of the Single CMO Regulation or Regulation (EU) 2013[^key-9632de3df1fc1e08278bab1d5b33f670] mentioned in column 1 of Part 1 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
+- (b) any provision of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) mentioned in column 1 of Part 2 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part.
+
+(7) Any reference to a contravention of, or failure to comply with, any provision mentioned in Schedule 2 means a contravention of or failure to comply with—
+
+- (a) any provision of the Single CMO Regulation or Regulation (EU) 2013[^key-606d074da90c03b885882fe20f6f6cef] mentioned in column 1 of Part 1 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
+- (b) any provision of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) mentioned in column 1 of Part 2 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part.
+
+(8) Any reference to a contravention of, or failure to comply with, any provision mentioned in Schedule 3 means a contravention of, or failure to comply with, any provision of Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) mentioned in column 1 of Schedule 3, as read with any provision mentioned in the corresponding entry in column 2 of that Schedule.
+
+(9)[^key-4d8d09e8de492ae1a64a49dfa93dba82] Any reference in these Regulations to Part VI of Annex VII of Regulation (EU) 2013 includes a reference to the equivalent transitional marketing standards under Article 116 of and Annex XIV to, the Single CMO Regulation.
+
+## PART 2 — Eggs for hatching and chicks
+
+### 3. Application of this Part[^key-ce134cdc15bfdf06acd746b7bc7fc098]
+
+(1) This Part applies to eggs for hatching and chicks to which point I(1) of Part C of Annex XIV to the Single CMO Regulation and [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) apply.
+
+(2) But it does not apply to establishments and hatcheries of the type mentioned in point I(2) of Part C of Annex XIV to the Single CMO Regulation.
+
+### 4. Compliance with European provisions[^key-7ce9e3458818bff71b220bb1e93fddb1]
+
+A person is guilty of an offence if they contravene, or fail to comply with, any provision mentioned in Schedule 1.
+
+### 5. Registration of pedigree breeding establishments, breeding establishments and hatcheries[^key-923a4905e860811e02d980d375e32ca8]
+
+(1) The Department is designated as the competent authority for the purpose of Article 2(1) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) (registration of pedigree breeding establishments, other breeding establishments and hatcheries).
+
+(2) Where an application is made to the Department pursuant to Article 2(1) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617), the Department must give a notice to the applicant notifying them of the matters mentioned in paragraph (3) within a period of 28 days, beginning with the day after the day on which the Department receives the application.
+
+(3) The matters are—
+
+- (a) the Department’s decision on the application;
+- (b) the reasons for any refusal to grant the application; and
+- (c) in the case of any refusal to grant the application, the right of appeal conferred by regulation 22 of these Regulations.
+
+(4) Where the Department is not satisfied that an application should be granted, the Department may (before making a final decision about whether or not to refuse the application) give a notice to the applicant notifying them of the reason for this, and—
+
+- (a) where the Department is not satisfied with the sufficiency of the data provided in support of the application, the Department may ask the applicant to provide further data;
+- (b) where the Department is not satisfied that all of the provisions mentioned in Schedule 1 that are relevant to the type of establishment to be registered will be complied with following the registration of that establishment, the Department may ask the applicant to take specified steps to ensure that those provisions will be complied with; and
+- (c) the Department may give the applicant an opportunity to provide oral or written explanations to the Department in respect of the application.
+
+(5) Where the Department decides to withdraw a registration of a pedigree breeding establishment, other breeding establishment or hatchery because of a contravention of, or failure to comply with, any provision mentioned in Schedule 1, the Department must give a notice to the person carrying on business at the establishment concerned (“P”) notifying them of the matters mentioned in paragraph (6).
+
+(6) The matters are—
+
+- (a) the Department’s decision to withdraw the registration;
+- (b) the date on which the withdrawal of the registration is to take effect;
+- (c) the reasons for the withdrawal; and
+- (d) the right of appeal conferred by regulation 22 of these Regulations.
+
+(7) Where the Department is minded to withdraw a registration of a pedigree breeding establishment, other breeding establishment or hatchery because of a contravention of, or failure to comply with, any provision mentioned in Schedule 1, the Department may (before making a final decision about whether or not to withdraw the registration) give a notice to P notifying them that the Department is minded to withdraw the registration, and the reasons for this, and—
+
+- (a) where the contravention of, or failure to comply with, any provision mentioned in Schedule 1 is continuing, the Department may ask P to take specified steps to ensure that that provision is complied with; and
+- (b) the Department may give P an opportunity to provide oral or written explanations to the Department in respect of the matter.
+
+(8) Where the Department gives a notice to an applicant under paragraph (4), or to P under paragraph (7), the Department must specify a deadline in the notice by which any action mentioned in the notice must be taken.
+
+(9) Any deadline given by the Department under this regulation may be extended on one or more occasions.
+
+(10) For the purposes of calculating the 28-day time limit mentioned in paragraph (2), time does not run during any period that the Department gives to an applicant to take any action mentioned in a notice under paragraph (4).
+
+### 6. Derogation relating to the marking of eggs for hatching[^key-1d411286e4550351c9c9a2f35226e509]
+
+(1) Eggs for hatching may be marked with any abstract black mark, except for a spot, instead of being marked with the distinguishing number of the producer establishment (as otherwise required by Article 3(2) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)) if the conditions mentioned in paragraph (2) are complied with.
+
+(2) The conditions are that—
+
+- (a) the mark is indelible, clearly visible and at least 10 mm² in area; and
+- (b) the marking of the eggs is carried out prior to insertion into the incubator, either at the producer establishment or at a hatchery.
+
+## PART 3 — Eggs in shell for consumption: general requirements
+
+### 7. Application of this Part[^key-df41f92085e95a5ce7c86d796c98eff3]
+
+(1) This Part applies to eggs to which point I(1) of Part VI of Annex VII to Regulation (EU) 2013[^key-025676888e5a8726e688c1a7cff1e4e6] and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply (eggs in shell for consumption produced by hens of the species *Gallus gallus*).
+
+(2) But it does not apply—
+
+- (a) to the sale of eggs to which point I(1) of Part VI of Annex VII to Regulation (EU) 2013[^key-dea64429a9a8d9ca7bf58f63a0c0cb4e] and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer —
+  - (i) on the production site; or
+  - (ii) by door-to-door selling; or
+- (b) except insofar as it relates to the requirement imposed by Part VI of Annex VII to Regulation (EU) 2013, to the sale of eggs to which point 1(1) of Part VI of Annex VII[^key-ae8e1175b92f85ea089feb31e95dbe75] to that Regulation and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer in a local public market.
+
+### 8. Compliance with European provisions[^key-53a6a5ace8ad044bef6dd72e153b05dd]
+
+A person is guilty of an offence if they contravene, or fail to comply with, any provision mentioned in Schedule 2.
+
+### 9. Authorisation of packing centres to grade eggs[^key-93c2bfba7cac893bfb38039900e34433]
+
+(1) The Department is designated as the competent authority for the purpose of the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (authorisation of undertakings as packing centres to grade eggs).
+
+(2) Where an application is made to the Department under the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) to authorise an undertaking as a packing centre to grade eggs, the Department must give a notice to the applicant notifying them of the matters mentioned in paragraph (3) within a period of 28 days, beginning with the day after the day on which the Department receives the application.
+
+(3) The matters are—
+
+- (a) the Department’s decision on the application;
+- (b) the reasons for any refusal to grant an authorisation; and
+- (c) in the case of any refusal to grant an authorisation, the right of appeal conferred by regulation 22 of these Regulations.
+
+(4) Where the Department is not satisfied that an application should be granted, the Department may (before making a final decision about whether or not to refuse the application) give a notice to the applicant notifying them of the reason for this and—
+
+- (a) where the Department is not satisfied with the sufficiency of the data provided in support of the application, the Department may ask the applicant to provide further data;
+- (b) where the Department is not satisfied that the requirements mentioned in the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) that are relevant to the type of packing centre to be authorised have been met, the Department may ask the applicant to comply with any outstanding requirement; and
+- (c) the Department may give the applicant an opportunity to provide oral or written explanations to the Department in respect of the application.
+
+(5) Where the Department decides to withdraw an authorisation of a packing centre to grade eggs because of a failure to comply with any of the requirements mentioned in the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), the Department must give a notice to the person carrying on business at the packing centre (“P”) notifying them of the matters mentioned in paragraph (6) within 28 days, beginning with the day on which the decision is made.
+
+(6) The matters are—
+
+- (a) the Department’s decision to withdraw the authorisation;
+- (b) the date on which the withdrawal of the authorisation is to take effect;
+- (c) the reasons for the withdrawal; and
+- (d) the right of appeal conferred by regulation 22 of these Regulations.
+
+(7) Where the Department is minded to withdraw the authorisation of a packing centre to grade eggs because of a failure to comply with any of the requirements mentioned in the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), the Department may (before making a final decision about whether or not to withdraw the authorisation) give a notice to P notifying them that the Department is minded to withdraw the authorisation, and the reasons for this, and—
+
+- (a) where the failure to comply with any of the requirements mentioned in the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) is continuing, the Department may ask P to take specified steps to ensure that those requirements are met; and
+- (b) the Department may give P an opportunity to provide oral or written explanations to the Department in respect of the matter.
+
+(8) Where the Department gives a notice to an applicant under paragraph (4), or to P under paragraph (7), the Department must specify a deadline in the notice by which any action mentioned in the notice must be taken.
+
+(9) Any deadline given by the Department under this regulation may be extended on one or more occasions.
+
+(10) For the purposes of calculating the 28-day time limit mentioned in paragraph (2), time does not run during any period that the Department gives to an applicant to take any action mentioned in a notice under paragraph (4).
+
+### 10. Derogations relating to the marking of eggs[^key-7027b21951a08b6eae5fc3adb75c215f]
+
+(1) The provision in Part VI of Annex VII to Regulation (EU) 2013[^key-84698c78e0ba3b20dbd5bd7d01a1c8ef] (requiring class B eggs to be marked) does not apply where class B eggs are to be marketed exclusively in the United Kingdom.
+
+(2) The provision in Part VI of Annex VII to Regulation (EU) 2013[^key-b450e0fc6b7016c826f98aa8d4eadee6] (requiring eggs sold by a producer to a final consumer in a local public market to be marked in accordance with point III(1) of Part A of Annex XIV to the Single CMO Regulation) does not apply in the case of a producer with up to 50 laying hens if the name and address of the producer are indicated at the point of sale.
+
+(3) But paragraphs (1) and (2) do not apply to eggs that must be considered as class B eggs by virtue of paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
+
+### 11. Livestock grazing on open-air runs[^key-1d491e5c5f942570f0cb5580582169e2]
+
+For the purpose of paragraph (b) of the second sub-paragraph of point 1 of Annex II to [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (setting down the minimum requirements that need to be met in order for eggs to be marketed as free-range eggs), livestock grazing is authorised on open-air runs to which laying hens have access.
+
+### 12. Derogation relating to free-range eggs[^key-ebf1016f0a60c6ee3ceb586229c6ef0e]
+
+(1) By way of derogation from the provisions of point 1 of Annex II to [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), eggs to which paragraph (2) applies may be marketed as free-range eggs.
+
+(2) This paragraph applies to eggs that have—
+
+- (a) been produced in a system of production that does not comply with any one or more of the conditions mentioned in paragraph (3); and
+- (b) been produced in an establishment—
+  - (i) with fewer than 350 laying hens at the time the eggs are produced;
+  - (ii) rearing breeding laying hens at the time that the eggs are produced; or
+  - (iii) rearing breeding laying hens and with fewer than 350 laying hens at that time.
+
+(3)[^key-8e674a0dc02d6c2f112c5aa022d05723] The conditions are the conditions in the following provisions of the Northern Ireland welfare regulations—
+
+- (a) paragraph 2(d) of Schedule 2;
+- (b) paragraph 2(e) of Schedule 2;
+- (c) paragraph 5 of Schedule 2;
+- (d) paragraph 6(a) of Schedule 2;
+- (e) paragraph 7(a) of Schedule 2.
+
+(4) It is for a person seeking to rely on paragraph (1) in order to market eggs as free-range eggs to prove that the eggs are eggs to which paragraph (2) applies.
+
+### 13. Derogation relating to barn eggs[^key-68dbd0264bc99e62ed623048dfe24654]
+
+(1) By way of derogation from the provisions of point 2 of Annex II to [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), eggs to which paragraph (2) applies may be marketed as barn eggs.
+
+(2) This paragraph applies to eggs that have—
+
+- (a) been produced in a system of production that does not comply with any one or more of the conditions specified in paragraph (3); and
+- (b) been produced in an establishment—
+  - (i) with fewer than 350 laying hens at the time the eggs are produced;
+  - (ii) rearing breeding laying hens at the time that the eggs are produced; or
+  - (iii) rearing breeding laying hens and with fewer than 350 laying hens at that time.
+
+(3)[^key-eb17cfdfb01e94be4df8a112c207ffff] The conditions are the conditions in the following provisions of the Northern Ireland welfare regulations—
+
+- (a) paragraph 2(d) of Schedule 2;
+- (b) paragraph 2(e) of Schedule 2;
+- (c) paragraph 5 of Schedule 2;
+- (d) paragraph 6(a) of Schedule 2;
+- (e) paragraph 7(a) of Schedule 2.
+
+(4) It is for a person seeking to rely on paragraph (1) in order to market eggs as barn eggs to prove that the eggs are eggs to which paragraph (2) applies.
+
+## PART 4 — Eggs in shell for consumption: salmonella control related requirements
+
+### 14. Application of this Part[^key-2aea37f75fbf9e9c9bd69e01d304007d]
+
+This Part applies to eggs to which Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) applies as read with the exception in Article 1(3) of Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
+
+### 15. Compliance with European provisions[^key-71bf914670a752f592b1d247e98e5e5e]
+
+A person is guilty of an offence if they contravene, or fail to comply with, any provision mentioned in Schedule 3.
+
+## PART 5 — Miscellaneous provisions
+
+### 16. Enforcement[^key-1e89927f94ae3483fb242678ddb29591]
+
+(1) Each district council must—
+
+- (a) enforce the provisions mentioned in Schedule 2, as read with regulation 8, and the provisions mentioned in Schedule 3, as read with regulation 15, insofar as they apply to—
+  - (i) the retail sale of eggs within their area;
+  - (ii) the sale of eggs to a mass caterer in their area; and
+  - (iii) the use of eggs within their area.
+- (b) enforce the provisions of regulation 19(3) and (4) in the case of a direction given by an authorised officer who is authorised by the district council;
+- (c) enforce the provisions of regulation 19(6) in the case of a pack or container secured by an authorised officer who is authorised by the district council ;
+- (d) enforce the provisions of regulation 19(11) and (12) in the case of the disturbance or removal of any item or computer equipment in contravention of the terms of a notice given by an authorised officer who is authorised by the district council;
+- (e) enforce the provisions of regulation 21(3) in the case of a compliance notice given by an authorised officer who is authorised by the district council;
+- (f) enforce the provisions of regulation 21(7) in the case of a compliance notice given by an authorised officer who is authorised by the district council; and
+- (g) enforce the provisions of regulation 25 in the case of an obstruction of an authorised officer who is authorised by the district council.
+
+(2) The Department may enforce the provisions mentioned in Schedule 2, as read with regulation 8, and the provisions mentioned in Schedule 3, as read with regulation 15, insofar as they apply to the retail sale of eggs, the sale of eggs to a mass caterer or the use of eggs.
+
+(3) The Department must—
+
+- (a) enforce the provisions mentioned in Schedule 1, as read with regulation 4;
+- (b) enforce the provisions mentioned in Schedule 2, as read with regulation 8, and the provisions mentioned in Schedule 3, as read with regulation 15, insofar as they do not apply to the retail sale of eggs, the sale of eggs to a mass caterer or the use of eggs;
+- (c) enforce the provisions of regulation 19(3) and (4) in the case of a direction given by an authorised officer who is authorised by the Department;
+- (d) enforce the provisions of regulation 19(6) in the case of a pack or container secured by an authorised officer who is authorised by the Department;
+- (e) enforce the provisions of regulation 19(11) and (12) in the case of the disturbance or removal of any item or computer equipment in contravention of the terms of a notice given by an authorised officer who is authorised by the Department;
+- (f) enforce the provisions of regulation 21(3) in the case of a compliance notice given by an authorised officer who is authorised by the Department;
+- (g) enforce the provisions of regulation 21(7) in the case of a compliance notice given by an authorised officer who is authorised by the Department;
+- (h) enforce the provisions of regulation 23(4); and
+- (i) enforce the provisions of regulation 25 in the case of an obstruction of an authorised officer who is authorised by the Department.
+
+(4) In this regulation—
+
+- “retail sale” means any sale other than a sale for use or resale in the course of a trade or business; and
+- “sale” includes possession for sale and offer, exposure and advertising for sale.
+
+### 17. Duty to give assistance and provide information[^key-881f97f6e80acf26c886d8526c645354]
+
+(1) The Department (“D”) must give any district council such assistance and information as it may reasonably request for the purpose of helping it perform its duties under these Regulations, and D may share any other information obtained by D with any district council (although not requested by the district council) for the purpose of helping it perform those duties.
+
+(2) In paragraph (1) “information” means information obtained by D as the competent authority designated by regulation 5(1), as the competent authority designated by regulation 9(1) or as an enforcement authority.
+
+(3) D may use information obtained by D as the competent authority designated by regulation 5(1), or as the competent authority designated by regulation 9(1), for the purpose of helping D perform D’s duties as an enforcement authority under these Regulations.
+
+(4) D may use information obtained by D as an enforcement authority under these Regulations for the purpose of helping D perform D’s duties as the competent authority designated by regulation 5(1), or as the competent authority designated by regulation 9(1).
+
+(5) Each district council must give any other district council or D such assistance and information as they may reasonably request for the purpose of helping them perform their duties under these Regulations, and each district council may share any other information obtained by them as an enforcement authority with any other district council or D (although not requested by the district council or D) for the purpose of helping them perform their duties under these Regulations.
+
+(6) In paragraph (5) “information” means information obtained by a district council as an enforcement authority.
+
+### 18. Powers of entry[^key-169247dcc803df46298350696bbc4e74]
+
+(1) An authorised officer may enter any premises at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
+
+(2)[^key-2447069a71165968dd4946da3601e617] The authorised officer may take with them such other persons as they consider necessary.
+
+(3) An authorised officer must not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing their authority.
+
+(4) Admission to any premises used only as a private dwelling house must not be demanded as of right unless the entry is in accordance with a warrant granted under this regulation.
+
+(5) If a lay magistrate, on sworn information in writing, is satisfied of the matters mentioned in paragraph (6), they may sign a warrant permitting an authorised officer to enter any premises, if needs be by reasonable force.
+
+(6) The matters are that—
+
+- (a) there are reasonable grounds for believing that Condition A or B is met, and
+- (b) Condition C, D or E is met.
+
+(7) Condition A is that on the premises there are items of the type mentioned in regulation 19(1)(a) or documents or records of the type mentioned in regulation 19(1)(e) and that their inspection is likely to disclose evidence of a contravention of, or failure to comply with, these Regulations.
+
+(8) Condition B is that a contravention of, or failure to comply with, these Regulations has occurred, is occurring or is about to occur on those premises.
+
+(9) Condition C is that admission to the premises has been, or is likely to be, refused, and that the occupier has been informed (whether orally or in writing) that a warrant may be applied for.
+
+(10) Condition D is that admission to the premises has been, or is likely to be, refused, and informing the occupier that a warrant under this regulation may be applied for may defeat the object of the entry.
+
+(11) Condition E is that the premises are unoccupied or that the occupier is temporarily absent and it may defeat the object of the entry to await their return.
+
+(12) A warrant granted under paragraph (5)—
+
+- (a) is valid for one month, beginning with the day it is granted; and
+- (b) must be produced for inspection to the person (if there is one) who appears to the officer to be the occupier, or the person in charge, of the premises.
+
+(13) An authorised officer who enters any premises that are unoccupied or where the occupier is temporarily absent must leave the premises as effectively secured against unauthorised entry as they found them.
+
+(14)[^key-caa552474914d3d197bfc2c56609df54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Powers of an authorised officer[^key-cd2c01cc706c139441c46c931764e8b6]
+
+(1) An authorised officer (“O”) entering premises under regulation 18 may—
+
+- (a) inspect the premises, and any plant, machinery or equipment on those premises, and any of the following items found on those premises—
+  - (i) where the premises are a laying hen establishment, poultry of the species *Gallus gallus*;
+  - (ii) where the premises are a pedigree establishment, a breeding establishment or a hatchery, any poultry of the species *Gallus gallus*, turkeys, ducks, geese and guinea fowl found on those premises;
+  - (iii) eggs;
+  - (iv) eggs for hatching;
+  - (v) packs or other containers: for eggs, eggs for hatching or chicks; and
+  - (vi) labels: relating to eggs, eggs for hatching or chicks;
+- (b) search the premises;
+- (c) take samples;
+- (d) carry out any inquiries, examinations or tests;
+- (e) have access to, and inspect and copy, any documents or records (in whatever form they are held) relating to matters covered by these Regulations, and remove them to enable them to be copied;
+- (f) have access to, and inspect and check the data on, and operation of, any computer, and any associated electronic storage device or apparatus (“computer equipment”) that is, or has been in use in connection with, the documents or records mentioned in sub-paragraph (e), including data relating to deleted files and activity logs; and for this purpose O may require any person having charge of, or otherwise concerned with the operation of, the computer equipment to afford to O such assistance (including the provision of passwords) as O may reasonably require, and, during the course of the checks, O may recover data held on the computer equipment; and
+- (g) where a document or record mentioned in sub-paragraph (e) is kept by means of a computer, require the record to be produced in a form in which it may be taken away.
+
+(2) O may direct (“a regulation 19(2) direction”) a person (“P”) appearing to them to be in charge of the items or premises mentioned below that the following must be left undisturbed for as long as reasonably necessary for the purpose of any examination or investigation—
+
+- (a) any one or more of the items mentioned in paragraph (1)(a)(i) to (vi);
+- (b) any document or record mentioned in paragraph (1)(e);
+- (c) any computer equipment mentioned in paragraph (1)(f); and
+- (d) any premises on or in which any of those items are found.
+
+(3) P is guilty of an offence if they fail to comply with a regulation 19(2) direction given to them by O.
+
+(4) A person, other than O or P, who knows about a regulation 19(2) direction is guilty of an offence if (although that direction was not given to them) they disturb any item or premises in contravention of the terms of the direction.
+
+(5) If an examination or investigation will not be carried out immediately after a direction has been given under paragraph (2), O may apply tape to the packs or other containers for eggs or eggs for hatching that are subject to that direction, or otherwise secure them pending the examination or investigation.
+
+(6) A person who knows that packs or other containers for eggs or eggs for hatching have been taped or otherwise secured by O (pursuant to paragraph (5)) is guilty of an offence if they interfere with any of those packs or containers unless authorised to do so, in writing, by O.
+
+(7) O may seize and detain any item of the type mentioned in paragraph (1)(a)(iii) to (vi) or document or record mentioned in paragraph (1)(e) that O has reason to believe may be required as evidence in proceedings under these Regulations.
+
+(8) O may seize as liable to destruction any item of the type mentioned in paragraph (1)(a)(iii) to (vi) that O reasonably believes contravenes any provision of these Regulations.
+
+(9) O may seize any computer equipment for the purpose of copying documents or records of the type mentioned in paragraph (1)(e), and for checking the data on, and operation of, any computer equipment that is, or has been, in use in connection with, those documents or records (and in doing so may recover data), provided it is returned as soon as practicable and, in any event, within 28 days, beginning with the day in which the equipment is seized.
+
+(10) If O is not able to remove an item or computer equipment seized under paragraph (7), (8) or (9) immediately, they may—
+
+- (a) mark it in any way that they see fit; and
+- (b) give the person (“P”) appearing to them to be in charge of the item or computer equipment a notice (“a regulation 19(10) notice”)—
+  - (i) identifying it;
+  - (ii) requiring the item or computer equipment to be left undisturbed until it is collected by O; and
+  - (iii) prohibiting the removal of the item or computer equipment from the premises on which it was found until it is collected by O.
+
+(11) P is guilty of an offence if they fail to comply with a regulation 19(10) notice given to them by O.
+
+(12) A person, other than O and P, who knows about a regulation 19(10) notice, is guilty of an offence if (although the notice was not given to them) they disturb or remove an item or computer equipment in contravention of the terms of the notice.
+
+(13) O must not exercise the powers under this regulation except on the production, if so required, of a duly authenticated document showing their authority.
+
+(14) In this regulation “premises” includes any place and any vehicle, trailer, stall or moveable structure.
+
+### 20. Procedure on seizure[^key-1586850a134cc4cc064d08c90f3d9bc9]
+
+(1) An authorised officer (“O”) must follow the procedures set out in this regulation if they seize anything under regulation 19(7), (8) or (9).
+
+(2) O must give to the person appearing to O to be in charge of the premises from which the seized item or computer equipment is seized (“the premises”) a notice that must state—
+
+- (a) what O has seized;
+- (b) when O seized it;
+- (c) the grounds for the seizure of the item or equipment; and
+- (d) the address to which, and the period during which, a claim may be made for the return of the item or equipment.
+
+(3) But where the premises are unoccupied, or no-one appears to O to be in charge of the premises, O must attach a notice to a conspicuous part of the premises, or to some conspicuous object on the premises, containing the information mentioned in sub-paragraphs (a) to (d) of paragraph (2).
+
+(4) A person having a proprietary interest in the seized item or computer equipment (including a creditor who has a debt secured on the item or computer equipment) may notify the enforcement authority of any claim that the seized item or equipment was not liable to seizure, setting out the grounds for the claim in full.
+
+(5) The claim must be made within 28 days of the seizure, beginning on the day on which the seized item or computer equipment is seized, to the address specified in the seizure notice.
+
+(6) If a notification of a claim is not received within 28 days in respect of an item seized under regulation 19(7), the enforcement authority may retain the seized item for as long as necessary while it is being held for the purpose of any criminal investigation or proceedings or for use as evidence at a trial.
+
+(7) If a notification of a claim is received within 28 days in respect of an item seized under regulation 19(7), the enforcement authority must—
+
+- (a) return the seized item within 14 days, beginning with the day on which the claim is received; or
+- (b) retain the seized item for as long as necessary while it is being held for the purpose of any criminal investigation or proceedings, or for use as evidence at a trial, but it must notify the claimant that the seized item is being retained, and of the reason why it is being retained within 14 days, beginning with the day on which the claim is received.
+
+(8) If a notification of a claim is not received within 28 days in respect of an item seized under regulation 19(8), the enforcement authority may—
+
+- (a) if a decision is taken by the enforcement authority not to destroy the seized item but to retain it for the purpose of any criminal investigation or proceedings, or for use as evidence at a trial, retain the seized item for as long as necessary for one of those purposes, but the enforcement authority must—
+  - (i) notify the relevant person that the seized item is being retained, and of the reason why it is being retained, within 14 days of the expiry of the claim period, beginning with the day after the claim period expires; or
+  - (ii) where the enforcement authority does not know who the relevant person is, and this cannot be ascertained after reasonable enquiries have been made by the enforcement authority, attach a notice to a conspicuous part of the premises, or a conspicuous object on those premises, within 14 days of the expiry of the claim period, beginning with the day after the claim period expires, stating that the seized item is being retained, and the reason why it is being retained; or
+- (b) destroy the seized item within 28 days, beginning with the day after the 28 day claim period expires, if it reasonably believes that the item contravenes these Regulations, and—
+  - (i) notify the relevant person that the seized item has been destroyed within 14 days of its destruction, beginning with the day on which the item is destroyed (or the last day of its destruction where the destruction of the item takes place on more than one day); or
+  - (ii) where the enforcement authority does not know who the relevant person is, and this cannot be ascertained after reasonable enquiries have been made by the enforcement authority, attach a notice to a conspicuous part of the premises, or to a conspicuous object on those premises, within 14 days of the destruction of the item, beginning with the day on which the item is destroyed (or the last day of destruction where the destruction of the item takes place on more than one day) stating that the seized item has been destroyed.
+
+(9) In paragraph (8) the “relevant person” means—
+
+- (a) if the enforcement authority knows the identity of a person with a proprietary interest in the seized item, that person or (where they know the identity of more than one person with a proprietary interest in the seized item) each of those persons; or
+- (b) if the enforcement authority does not know the identity of a person with a proprietary interest in the seized item, the person appearing to them to be in charge of the premises.
+
+(10) In the case of any item destroyed under paragraph (8)(b), the enforcement authority may recover the following costs as a debt from any person who had a proprietary interest in the item immediately before its destruction (apart from a creditor who has a debt secured on the item)—
+
+- (a) the costs of the removal and transport of the item from the premises to the place at which it is stored;
+- (b) the costs of the storage of the item for up to 28 days;
+- (c) any costs for the removal and transport of the item if it is moved from one place of storage to another place of storage;
+- (d) the costs of the transport of the item from the place of storage to the place of destruction; and
+- (e) the costs of the destruction of the item.
+
+(11) If a notification of a claim is received within 28 days in respect of an item seized under regulation 19(8), the enforcement authority must—
+
+- (a) return the seized item within 14 days, beginning with the day on which the claim is received;
+- (b) if a decision is taken by the enforcement authority not to destroy the seized item but to retain it for the purpose of any criminal investigation or proceedings or for use as evidence at a trial, retain the item for as long as necessary for one of those purposes but the enforcement authority must notify the claimant that the seized item is being retained, and of the reason why it is being retained, within 14 days of the claim, beginning with the day on which the claim is received; or
+- (c) within 14 days of the claim, beginning with the day on which the claim is received, take proceedings (“regulation 20(11)(c) proceedings”) in a magistrates’ court for an order giving them authority to destroy the item.
+
+(12) In regulation 20(11)(c) proceedings the magistrates’ court may—
+
+- (a) authorise the enforcement authority to destroy the seized item;
+- (b) authorise the enforcement authority to retain the item for the purpose of any criminal investigation or proceedings, or for use as evidence at a trial, for as long as necessary for one of those purposes; or
+- (c) require the enforcement authority to return the item to the claimant and impose a deadline by which this must be done.
+
+(13) If, in regulation 20(11)(c) proceedings, the magistrates’ court authorises the enforcement authority to destroy the seized item, the court may also make an order requiring the claimant (but not a claimant who is a creditor with a debt secured on the item) to pay such of the following costs as the court may specify—
+
+- (a) the costs of the removal and transport of the item from the premises to the place at which it is stored;
+- (b) the costs of the storage of the item for up to 28 days;
+- (c) any costs for the removal and transport of the item if it is moved from one place of storage to another place of storage;
+- (d) the costs of the transport of the item from the place of storage to the place of destruction; and
+- (e) the costs of the destruction of the item.
+
+(14) If a notification of a claim is received within 28 days in the case of any computer equipment seized under regulation 19(9), the enforcement authority must—
+
+- (a) return the seized computer equipment within 7 days of the claim, beginning with the day on which the claim is received, or, if shorter, within the remainder of the maximum 28 day period provided for in regulation 19(9); or
+- (b) take proceedings in a magistrates’ court within 7 days of the claim, beginning with the day on which the claim is received unless there are 7 days or less remaining before the expiry of the maximum 28 day period provided for in regulation 19(9), for an order authorising the enforcement authority to retain the seized computer equipment in accordance with the requirements laid down in regulation 19(9).
+
+(15) If, in the case of any computer equipment seized under regulation 19(9), the magistrates’ court authorises the enforcement authority to retain the seized computer equipment, the court may impose conditions as to the basis on which the equipment may continue to be retained, including the imposition of a deadline by which the equipment must be returned that is shorter than the 28 day maximum period provided for in regulation 19(9).
+
+(16) The procedure in a magistrates’ court under this regulation is by way of complaint and the Magistrates’ Courts (Northern Ireland) Order 1981[^f00019] applies to the proceedings.
+
+### 21. Compliance notices[^key-c9769a65b16350eb5abb08b535d6b3b1]
+
+(1) If an authorised officer (“O”) has reasonable grounds for believing that any person (“P”) is failing to comply with these Regulations, O may, by notice (a “regulation 21(1) compliance notice”), require P to take such steps as O may specify (or steps at least equivalent to them), within such period as O may specify, to ensure that the non-compliance does not continue or recur.
+
+(2) A regulation 21(1) compliance notice must—
+
+- (a) state O’s grounds for their belief;
+- (b) specify the matters that constitute the failure to comply with these Regulations;
+- (c) specify what P must stop doing, or the measures that, in O’s opinion, P must take in order to comply with these Regulations;
+- (d) require P to stop doing the action specified in the notice, or take the measures specified in the notice, or measures at least equivalent to them, within the period mentioned in the notice;
+- (e) inform P of their right of appeal [^M_F_7baefc79-0adc-493c-e1f9-47cc6fa53054]... conferred by regulation 22; and
+- (f) inform P of the period within which such an appeal may be brought.
+
+(3) A person is guilty of an offence if they fail to comply with a regulation 21(1) compliance notice given to them under paragraph (1).
+
+(4) If O has reasonable grounds for believing that any item mentioned in paragraph (5) does not comply in any one or more respects with the requirements mentioned in Schedule 1, 2 or 3, O may, by notice (a “regulation 21(4) compliance notice”), instruct the person (“P”) who appears to O to be in charge of the premises on which the relevant item is found that, unless otherwise directed in writing by O, the relevant item must not be removed from those premises until it complies with those requirements.
+
+(5) The items are—
+
+- (a) eggs;
+- (b) eggs for hatching;
+- (c) packs or other containers: for eggs, eggs for hatching or chicks; and
+- (d) labels: relating to eggs, eggs for hatching or chicks.
+
+(6) A regulation 21(4) compliance notice must—
+
+- (a) state O’s grounds for their belief;
+- (b) specify the matters that constitute the failure to comply;
+- (c) specify the measures that, in O’s opinion, must be taken in order to secure compliance;
+- (d) inform P of the right of appeal [^M_F_fe7d80d2-b5bc-4c93-f109-8ec205bac18f]...; and
+- (e) inform P of the period within which such an appeal may be brought.
+
+(7) P is guilty of an offence if they remove an item to which a regulation 21(4) compliance notice given to them by O relates from the premises on which it was found by O in contravention of the terms of that notice unless directed in writing by O to do so.
+
+(8) A person, other than O and P, who knows about a regulation 21(4) compliance notice, is guilty of an offence if they remove an item to which the notice relates (although the notice was not given to them) from the premises on which it was found by O in contravention of the terms of that notice unless directed in writing by O to do so.
+
+### 22. Appeals[^M_F_f5757107-bf56-4cd4-bdd1-05605a1bbd60]
+
+(1) A person may, within 21 days of the notification of a decision to which this regulation applies, make written representations to appeal against the decision to a person appointed for this purpose by the Department.
+
+(2) The appointed person shall consider the representations and report in writing to the Department.
+
+(3) The Department shall give the person who made representations written notification of its final determination and the reasons for it.
+
+(4) A person who is aggrieved by the final determination of the Department under paragraph (3) may, within 21 days of the notification of the determination, appeal against that determination to a magistrates’ court.
+
+(5) This regulation applies to—
+
+- (a) a decision by the Department to refuse to register an establishment as a pedigree breeding establishment, other breeding establishment or hatchery under Article 2(1) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617), or to withdraw such a registration;
+- (b) a decision by the Department to refuse to authorise an undertaking as a packing centre to grade eggs under the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), or to withdraw such an authorisation;
+- (c) a decision by an authorised officer to impose a regulation 21(1) compliance notice; and
+- (d) a decision by an authorised officer to impose a regulation 21(4) compliance notice.
+
+(6) The withdrawal of an authorisation or registration referred to in paragraph (5) does not take effect until the time for appealing against it has expired, and, if an appeal is lodged, until the appeal is finally disposed of or withdrawn.
+
+### 23. Record-keeping requirements[^key-1c8962791d31359fa482b89f6c731101]
+
+(1) The Department may, by notice, direct any person carrying on any activity regulated by a provision mentioned in Schedule 1, 2 or 3 to comply with any of the requirements mentioned in paragraph (2).
+
+(2) The requirements are—
+
+- (a) to keep, or cause to be kept, such records as the Department may reasonably require for the purposes of enforcing any such provision;
+- (b) to provide the Department with such information derived from such records as the Department may require by the times mentioned in the notice; and
+- (c) to retain such records for such period as the Department may reasonably require.
+
+(3) But the Department must not give a direction under paragraph (1) unless the records to which the direction relates are of a type that are normally kept in the course of a business by persons carrying on any activity regulated by a provision mentioned in Schedule 1, 2 or 3 and—
+
+- (a) the direction will be given on or before 28 October 2010 and the Department reasonably suspects that the person to whom the direction will be given has contravened, or failed to comply with, any provision mentioned in Schedule 1, 2 or 3 since the coming into operation of these Regulations;
+- (b) the direction will be given on or before 28 October 2010, the person to whom the direction will be given has been convicted of an offence under regulation 4, 8 or 15 of these Regulations and the Department reasonably suspects that, since the conviction, that person—
+  - (i) has continued to contravene, or fail to comply with, the provision mentioned in Schedule 1, 2 or 3 to which that person’s conviction relates; or
+  - (ii) has contravened, or failed to comply with, some other provision mentioned in Schedule 1, 2 or 3;
+- (c) the direction will be given on or after 29 October 2010 and the Department reasonably suspects that the person to whom the direction will be given has contravened, or failed to comply with, any provision mentioned in Schedule 1, 2 or 3 within the six month period immediately before the direction is given; or
+- (d) the direction will be given on or after 29 October 2010, the person to whom the direction will be given has been convicted of an offence under regulation 4, 8 or 15 of these Regulations within the six month period immediately before the giving of the direction, and the Department reasonably suspects that, since the conviction, that person —
+  - (i) has continued to contravene, or fail to comply with, the provision mentioned in Schedule 1, 2 or 3 to which that person’s conviction relates; or
+  - (ii) has contravened, or failed to comply with, some other provision mentioned in Schedule 1, 2 or 3.
+
+(4) A person is guilty of an offence if they do not comply with any requirement imposed on them by a direction given by the Department under paragraph (1).
+
+### 24. Publication of enforcement information[^key-0a3cb28f3bb60ea4e39b5d27c5befba7]
+
+(1) An enforcement authority must publicise the cases in which items seized under regulation 19(8) have been destroyed and shall do so in such manner as it sees fit.
+
+(2) But an enforcement authority must not publicise the destruction of any item seized under regulation 19(8) where it considers that it would be inappropriate to do so.
+
+(3) An enforcement authority must publicise the cases in which compliance notices have been given by it under regulation 21 and shall do so in such manner as it sees fit.
+
+(4) But an enforcement authority must not publicise a compliance notice given by it under regulation 21—
+
+- (a) until the time for appealing against the imposition of the compliance notice has passed;
+- (b) during the period that any appeal against the imposition of the compliance notice is ongoing;
+- (c) where an appeal against the imposition of the compliance notice is successful; or
+- (d) in any other case where the enforcement authority considers that it would be inappropriate to do so.
+
+### 25. Obstruction[^key-1ad7dc8178037ffe05424d6512abba0a]
+
+A person (“P”) is guilty of an offence if they—
+
+- (a) obstruct any person acting in the execution of these Regulations (“O”);
+- (b) fail to give to O any assistance or information that O may reasonably require of P for the performance of O’s functions under these Regulations;
+- (c) furnish any false or misleading information to O; or
+- (d) fail to produce a record when required to do so to O.
+
+### 26. Fine[^key-6d4eb77c4f4d4caf2afd0f6c83f06136]
+
+A person guilty of an offence under regulation 4, 8, 15, 19(3), (4),(14) (6), (11) or (12), 21(3), (7) or (8), 23(4) or 25 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 27. Extended period for bringing prosecutions[^key-34c266fb2e534dd62bab9ee4c2cb63c8]
+
+(1) Proceedings for an offence under these Regulations may be commenced within the period of one year from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor’s knowledge.
+
+(2) But no such proceedings may be commenced by virtue of paragraph (1) more than three years after the commission of the offence.
+
+(3) For the purposes of this regulation—
+
+- (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the prosecutor’s opinion to warrant the proceedings came to the prosecutor’s knowledge is conclusive evidence of that fact; and
+- (b) a certificate stating that matter and purporting to be so signed, is deemed to be so signed unless the contrary is proved.
+
+### 28. Giving of notices[^key-13691793bf71d8888ea5186ec634bd3c]
+
+(1) Any notice required to be given under these Regulations to any person must be in writing and may be given to them by—
+
+- (a) delivering it to them;
+- (b) leaving it at their proper address;
+- (c) sending it to them by prepaid post at that address; or
+- (d) subject to paragraph (5), by being sent to them by an electronic communication.
+
+(2) For the purposes of this regulation and section 24 of the Interpretation Act (Northern Ireland) 1954 (Service of documents) in its application to this regulation, the proper address of any person to whom a notice is to be given is the last known address of the person in question.
+
+(3) Paragraph (4) applies if a person to be given a notice under these Regulations has specified an address (“the specified address”) within the United Kingdom other than their proper address (as decided under paragraph (2)) as the one at which they, or someone on their behalf, will accept documents of the same description as a notice given under these Regulations.
+
+(4) The specified address is also to be treated for the purposes of this regulation and section 24 of the Interpretation Act (Northern Ireland) 1954 in its application to this regulation as the person’s proper address.
+
+(5) If a notice under these Regulations to be given to a person is sent by an enforcement authority by an electronic communication, it is to be treated as given only if—
+
+- (a) the person to whom the notice is given has indicated a willingness to the enforcement authority to receive notices by an electronic communication and provided an address suitable for that purpose; and
+- (b) the notice is sent to the address provided by that person.
+
+(6)[^M_F_fdffa6c7-2fa1-4b4e-d600-e9a496edf70d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Application of various provisions of the Order[^key-0fa6487b6c96b38f193ba88134930691]
+
+(1) The following provisions of the Order apply for the purposes of these Regulations with the modifications specified in paragraph (2)—
+
+- Article 4 (presumptions that food intended for human consumption);
+- Article 19 (offences due to fault of another person);
+- Article 20 (defence of due diligence);
+- Article 29 (procurement of samples);
+- Article 30(8) (documentary evidence);
+- Article 43 (protection of public analyst acting in good faith); and
+- Article 45 (expenses of authorised officers);
+
+(2) The modifications are—
+
+- (a) any reference in the provisions specified in paragraph (1) to the Order (or a Part of the Order) must be construed as a reference to these Regulations;
+- (b) any reference in the provisions specified in paragraph (1) to an authorised officer, or an officer of an enforcement authority or district council, must be construed as a reference to an authorised officer as defined in regulation 2(1) of these Regulations;
+- (c) in relation to Article 19, the reference to that Article must be construed as including a reference to that Article as applied to these Regulations by paragraph (1);
+- (d) in relation to Article 20(2), the words “Article 7, 13 or 14” must be replaced with the words “these Regulations”;
+- (e) in relation to Article 29—
+  - (i) in paragraph (b)(ii), the reference to Article 33 must be construed as including a reference to regulation 19 of these Regulations; and
+  - (ii) in paragraph (d), the omission of the words “or of regulations or orders made under it”;
+- (f) in relation to Article 30(8)(a) the omission of the words “under paragraph (6)”; and
+- (g) in relation to Article 43, any reference to a district council must be construed as a reference to an enforcement authority.
+
+### 30. Transitional provision[^key-23cc3f7b77f1fdea288a5175248f5a4b]
+
+Any written authority granted to any person to act in matters arising under or in relation to the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^f00021], the Eggs and Chicks Regulations (Northern Ireland) 2008[^f00022] or the Eggs and Chicks (No. 2) Regulations (Northern Ireland) 2008[^f00023] has effect as if it referred to these Regulations.
+
+### 31. Revocation[^key-692b6ae8658de0163705c6bc58c046e5]
+
+The Eggs and Chicks (No. 2) Regulations (Northern Ireland) 2008 are revoked.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 24<sup>th</sup> March 2010.
+
+Dr. John Speers
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — EUROPEAN PROVISIONS RELATING TO EGGS FOR HATCHING AND CHICKS CONTRAVENTION OF WHICH IS AN OFFENCE
+
+Regulation 4
+
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^key-0aee0518edbab09973d5693dba55e826][^key-5f6db8fb1893427acb9423e814302353]
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th colspan="2"><em>Relevant provision of the Single CMO Regulation or Regulation (EU) 2013</em></th><th><em>Provisions to be read with the provisions of the Single CMO Regulation mentioned in column 1 or Regulation (EU) 2013</em></th><th><em>Subject matter</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Article 74 of Regulation (EU) 2013 , insofar as it relates to the marketing of eggs for hatching and chicks</td><td colspan="2">Article 116 of, and Part C of Annex XIV to, the Single CMO Regulation and <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Prohibition on the marketing of eggs for hatching and of chicks except in accordance with the marketing standards laid down in Part C of Annex XIV to the Single CMO Regulation and <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a>.</td></tr>
+<tr><td>Point II(1) of Part C of Annex XIV to the Single CMO Regulation</td><td colspan="2">Article 3(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Marking of eggs for hatching.</td></tr>
+<tr><td>Point II(2) of Part C of Annex XIV to the Single CMO Regulation</td><td colspan="2">Article 3(4) and (5) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Transportation and packing of eggs for hatching.</td></tr>
+<tr><td>Point II(3) of Part C of Annex XIV to the Single CMO Regulation</td><td colspan="2">Article 3(8) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Importation of packages of eggs for hatching from a third country.</td></tr>
+<tr><td>Point III(1) of Part C of Annex XIV to the Single CMO Regulation</td><td colspan="2">Article 4(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Packing of chicks by species, type and category of poultry.</td></tr>
+<tr><td>Point III(2) of Part C of Annex XIV to the Single CMO Regulation</td><td colspan="2">Article 4(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Content and marking of boxes of chicks.</td></tr>
+<tr><td>Point III(3) of Part C of Annex XIV to the Single CMO Regulation</td><td colspan="2">Point III(1) of Part C of Annex XIV to the Single CMO Regulation and Article 4(1) and (3) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Importation of chicks from a third country.</td></tr>
+</tbody>
+</table>
+
+[^key-830fb5b88058fcb96ca5d7366e39eb02][^key-053cd376acd8101ed3a69abf5b25ac18][^key-671d21001b9d095fdfdbfc90737fc8a0]
+
+### PART 2 — PROVISIONS OF COMMISSION REGULATION [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)[^key-f21ec94eae33e86d5d3817d78d677e2b]
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th colspan="2"><em>Relevant provision of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></em></th><th><em>Provisions to be read with the provisions of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a> mentioned in column 1</em></th><th><em>Subject matter</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Article 2(1)</td><td colspan="2"></td><td>Registration of pedigree breeding establishments, breeding establishments and hatcheries.</td></tr>
+<tr><td>Article 3(1)</td><td colspan="2">Article 3(2) and (3) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Individual marking of eggs for hatching.</td></tr>
+<tr><td>Article 3(2)</td><td colspan="2">Article 3(3) and (5) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a> and regulation 6</td><td>Marking of eggs for hatching at producer establishment.</td></tr>
+<tr><td>Article 3(4)</td><td colspan="2">Article 3(5) and (6) of, and Annex II to, <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Transport of eggs for hatching: packing requirements.</td></tr>
+<tr><td>Article 3(6)</td><td colspan="2">Article 3(4) and (5) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Distinguishing number of producer establishment on packs and containers in which eggs for hatching are transported.</td></tr>
+<tr><td>Article 3(7)</td><td colspan="2">Article 3(1), (2) and (3) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a> and regulation 6</td><td>Prohibition on transporting or trading eggs for hatching between Northern Ireland and a Member State or a Member State and Northern Ireland unless properly marked.</td></tr>
+<tr><td>Article 3(8)</td><td colspan="2"></td><td>Marking and packages of imported eggs for hatching.</td></tr>
+<tr><td>Article 4(1)</td><td colspan="2">Point III(1) of Part C of Annex XIV to the Single CMO Regulation and Article 4(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Packing of chicks by species, type and category of poultry.</td></tr>
+<tr><td>Article 4(2)</td><td colspan="2">Point III(2) of Part C of Annex XIV to the Single CMO Regulation and Article 4(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Content and minimum marking requirement for packs containing chicks.</td></tr>
+<tr><td>Article 4(3)</td><td colspan="2">Point III(3) of Part C of Annex XIV to the Single CMO Regulation and Article 4(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Importation of chicks from third countries, including content and minimum marking requirement for packs containing such chicks.</td></tr>
+<tr><td>Article 5(1)</td><td colspan="2"></td><td>Documentation that must accompany batches of eggs for hatching and chicks.</td></tr>
+<tr><td>Article 5(2)</td><td colspan="2">Article 5(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0617">Commission Regulation (EC) No. 617/2008</a></td><td>Special requirements as to information to be provided in the documentation that must accompany batches of eggs for hatching and chicks imported from a third country.</td></tr>
+<tr><td>Article 6</td><td colspan="2"></td><td>Keeping of registers by hatcheries.</td></tr>
+<tr><td>Article 7</td><td colspan="2">Sub-paragraph (h) of the second paragraph of Article 1 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Restriction on the use of eggs withdrawn from an incubator.</td></tr>
+<tr><td>Article 8(1)</td><td colspan="2"></td><td>Obligation on hatcheries to provide monthly reports.</td></tr>
+</tbody>
+</table>
+
+[^key-166dcb57ee5dfe2cea6f291778eca4ef]
+
+## SCHEDULE 2 — GENERAL EUROPEAN PROVISIONS RELATING TO EGGS IN SHELL FOR CONSUMPTION CONTRAVENTION OF WHICH IS AN OFFENCE
+
+Regulation 8
+
+### PART 1 — PROVISIONS OF REGULATION (EU) 2013[^key-086ae7dcd599cfbe8f076cfffefb5230]
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| Relevant provision of Regulation (EU) 2013 | Provisions to be read with the provisions of Regulation (EU) 2013 mentioned in column 1 | Subject matter |
+| Article 74 insofar as it relates to the marketing of eggs | Part VI of Annex VII to Regulation (EU) 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Prohibition on the marketing of eggs except in accordance with the marketing standards laid down in Part VI of Annex VII to Regulation (EU) 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589). |
+| Point II(1) of Part VI of Annex VII | Article 2(1) and (4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Quality grading of eggs as Class A (or fresh) or Class B eggs. |
+| Point II(2) of Part VI of Annex VII | Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Weight grading of Class A eggs. |
+| Point II(3) of Part VI of Annex VII |  | Prohibition on the delivery of Class B eggs except to the food and non-food industry. |
+| Point III(1) of Part VI of Annex VII, first sub-paragraph | Articles 9(1) and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of Class A eggs. |
+| Point III(1) of Part VI of Annex VII, second sub-paragraph | Articles 9, 10 and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), paragraphs (a) and (b) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and regulation 11(1) | Marking of Class B eggs. |
+| Point III(2) of Part VI of Annex VII | Point III(1) of Part VI of Annex VII to Regulation (EU) 2013 | Place at which eggs are marked. |
+| Point III(3) of Part VI of Annex VII, first sub-paragraph | Point III(1) of Part VI of Annex VII and the second sub-paragraph of point III(3) of Part VI of Annex VII to Regulation (EU) 2013 and regulation 11(2) | Marking of eggs sold by a producer to the final consumer at a local public market. |
+| Articles 75(2) and (3) of Regulation (EU) 2013 | Article 30(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where the rules applied in relation to those eggs in that country have been found to offer sufficient guarantees as to equivalence with EU legislation |
+| Articles 75(2) and (3) of Regulation (EU) 2013 | Articles 11, 30(2) and (3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where sufficient guarantees of equivalence of the rules relating to those eggs with EU legislation have not been provided. |
+
+### PART 2 — PROVISIONS OF COMMISSION REGULATION [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589)[^key-629d596b2207cc33856e662c319bc814]
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th colspan="2"><em>Relevant provision of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></em></th><th><em>Provisions to be read with the provisions of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> mentioned in column 1</em></th><th><em>Subject matter</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2">Article 2(1)</td><td>The first indent of point II(1) of Part VI of Annex VII to Regulation (EU) 2013 , paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> and regulation 15 as read with the Schedule 3 entry relating to paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a></td><td>Quality characteristics of class A eggs and cases in which eggs meeting those quality characteristics must be categorised as class B eggs.</td></tr>
+<tr><td colspan="2">Article 2(2)</td><td>Article 3 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Prohibition on the washing and cleaning of class A eggs before or after grading.</td></tr>
+<tr><td colspan="2">Article 2(3)</td><td></td><td>Prohibition on the treatment of class A eggs for preservation, and the chilling of eggs, in premises or plants where the temperature is artificially maintained at less than 5°C.</td></tr>
+<tr><td colspan="2">Article 2(4)</td><td>The second indent of point II(1) of Part VI of Annex VII to Regulation (EU) 2013 , paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> and regulation 15 as read with the Schedule 3 entry relating to paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a></td><td>Quality characteristics of class B eggs and cases in which eggs meeting the quality characteristics for class A eggs must be categorised as class B eggs.</td></tr>
+<tr><td colspan="2">Article 4(1)</td><td>Point II(2) of Part VI of Annex VII to Regulation (EU) 2013 and Article 4(3) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Grading of class A eggs by weight.</td></tr>
+<tr><td colspan="2">Article 4(2)</td><td>Article 4(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> and Regulation (EU) No 1169/2011</td><td>Weight grading indications.</td></tr>
+<tr><td colspan="2">Article 4(3)</td><td>Article 4(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Minimum net weight in grams and the indication “eggs of different sizes” or equivalent terms to be given on the outer surface of a pack of class A eggs of different sizes.</td></tr>
+<tr><td>Article 5(1), first sub-paragraph</td><td colspan="2"></td><td>Grading and packing of eggs and the labelling of packs by packing centres.</td></tr>
+<tr><td colspan="2">Article 5(3)</td><td></td><td>Packing centres to have the technical equipment necessary to ensure that eggs are handled properly.</td></tr>
+<tr><td colspan="2">Article 6(1)</td><td></td><td>Eggs to be graded, marked and packed within 10 days of laying.</td></tr>
+<tr><td colspan="2">Article 6(2)</td><td>Article 14 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Class A eggs marketed as “extra” or “extra fresh” eggs to be graded, marked and packed within four days of laying.</td></tr>
+<tr><td colspan="2">Article 6(3)</td><td>Articles 12(1)(d) and 13 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> and point 1(a) of Annex X to Regulation (EU) No 1169/2011</td><td>Packs to be marked with date of minimum durability at the time of packing.</td></tr>
+<tr><td colspan="2">Article 7(1), first sub-paragraph</td><td>The second sub-paragraph of Article 7(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Producers to identify each transport packaging containing eggs with certain information.</td></tr>
+<tr><td colspan="2">Article 7(2), first sub-paragraph, first sentence</td><td>Article 7(1) and second sub-paragraph of Article 7(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Application of the information specified in Article 7(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No 589/2008</a> to each transport packaging containing eggs and the inclusion of that information in accompanying documents.</td></tr>
+<tr><td colspan="2">Article 7(2), first sub-paragraph, second sentence</td><td>The first sentence of the first sub-paragraph and the second sub-paragraph of Article 7(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Intervening operators to keep a copy of the documents specified in the first sentence of the first sub-paragraph of Article 7(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a>.</td></tr>
+<tr><td colspan="2">Article 7(2), first sub-paragraph, third sentence</td><td>The first sentence of the first sub-paragraph and second sub-paragraph of Article 7(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Original documents referred to in the first sentence of the first sub-paragraph of Article 7(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> to be kept by the packing centre that grades the eggs to which the documents relate.</td></tr>
+<tr><td colspan="2">Article 7(3)</td><td>Article 7(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Prohibition on the modification or removal of the information referred to in Article 7(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> on the transport packaging of eggs until the removal of the eggs for immediate grading, marking, packing or further processing.</td></tr>
+<tr><td colspan="2">Article 8(1)</td><td>Article 8(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Eggs being delivered from a production site to a collector, packing centre or non-food industry in a Member State to be marked with the producer code before leaving the production site, except where an exemption has been granted under Article 8(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a>.</td></tr>
+<tr><td colspan="2">Article 8(2), last sentence</td><td></td><td>A copy of the delivery contract to accompany a consignment of eggs for which an exemption has been granted under Article 8(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a>.</td></tr>
+<tr><td colspan="2">Article 8(5)</td><td>The second sub-paragraph of point III(2) of Part VI of Annex VII to Regulation (EU) 2013 and Article 10 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Marking of class B eggs for marketing in a Member State .</td></tr>
+<tr><td colspan="2">Article 9(1)</td><td>Regulation 3 of the Registration of Establishments (Laying Hens) Regulations (Northern Ireland) 2003</td><td>Producer code.</td></tr>
+<tr><td colspan="2">Article 10</td><td>The second sub-paragraph of point III(2) of Part VI of Annex VII to Regulation (EU) 2013</td><td>Indications on class B eggs.</td></tr>
+<tr><td colspan="2">Article 12(1)</td><td></td><td>Marking of packs of class A eggs.</td></tr>
+<tr><td colspan="2">Article 12(2), first and second sub-paragraphs</td><td>Article 12(1) of, and Part A of Annex I, and Annex II, to <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a>, Article 23(1) of Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/2007/0834">(EC) No. 834/2007</a> on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs, and regulations 11, 12 and 13</td><td>Farming method to be shown on the outer surface of packs containing class A eggs.</td></tr>
+<tr><td colspan="2">Article 12(2), third sub-paragraph</td><td>Article 9(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Producer code to be explained on or inside packs.</td></tr>
+<tr><td colspan="2">Article 12(2), fourth sub-paragraph</td><td>Part B of Annex I to <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> and Schedule 3 to the Northern Ireland welfare regulations</td><td>Use of an indication listed in Part B of Annex I to <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> (enriched cages).</td></tr>
+<tr><td colspan="2">Article 12(4)</td><td></td><td>Marking of packs of class B eggs.</td></tr>
+<tr><td colspan="2">Article 13</td><td>Article 9(1)(f) of Regulation (EU) No 1169/2011</td><td>Date of minimum durability.</td></tr>
+<tr><td colspan="2">Article 14(1)</td><td></td><td>Use of the words “extra” and “extra fresh” as an additional quality indication on packs containing class A eggs.</td></tr>
+<tr><td colspan="2">Article 14(2)</td><td>Article 14(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Laying date and the nine-day time limit specified in Article 14(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> to be shown where the words “extra” or “extra fresh” are used as an additional quality indication on packs containing class A eggs.</td></tr>
+<tr><td colspan="2">Article 15</td><td></td><td>Reference to a cereal as a feed ingredient where an indication is given of how laying hens are fed.</td></tr>
+<tr><td colspan="2">Article 16</td><td></td><td>Information to be given for loose egg sales.</td></tr>
+<tr><td colspan="2">Article 17</td><td></td><td>Quality of packs.</td></tr>
+<tr><td colspan="2">Article 18</td><td></td><td>Packaging containers in which industrial eggs are marketed.</td></tr>
+<tr><td colspan="2">Article 19</td><td></td><td>Repacking of class A eggs.</td></tr>
+<tr><td colspan="2">Article 20(1)</td><td>Article 20(4) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Producer records on farming methods.</td></tr>
+<tr><td colspan="2">Article 20(2)</td><td>Articles 15 and 20(4) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Producer records on feeding method.</td></tr>
+<tr><td colspan="2">Article 20(3)</td><td>Article 20(1) and (2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Information recorded by producers under Article 20(1) and (2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> to be broken down by hen house where a producer uses different farming methods on a single production site.</td></tr>
+<tr><td colspan="2">Article 21(1)</td><td>Article 21(2) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Collector records on eggs collected and delivered by them.</td></tr>
+<tr><td colspan="2">Article 22(1), first sub-paragraph</td><td>Article 22(3) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Packing centre records.</td></tr>
+<tr><td colspan="2">Article 22(1), second sub-paragraph</td><td></td><td>Updating of packing centres physical stock records each week.</td></tr>
+<tr><td colspan="2">Article 22(2)</td><td>Articles 15 and 22(1) of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Packing centres to keep separate records where class A eggs and their packs bear an indication of how laying hens are fed.</td></tr>
+<tr><td colspan="2">Article 23</td><td>Articles 7(2), 20, 21 and 22 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Records and files referred to in Articles 7(2), 20, 21 and 22 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> to be kept for at least 12 months from their date of creation.</td></tr>
+<tr><td colspan="2">Article 24(5)</td><td>Articles 20, 21 and 22 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Records referred to in Articles 20, 21 and 22 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a> to be made available to the inspection services on first request.</td></tr>
+<tr><td colspan="2">Article 30(2)</td><td></td><td>Eggs imported from third countries to have been clearly and legibly marked in the country of origin in accordance with the ISO 3166 country code.</td></tr>
+<tr><td colspan="2">Article 30(3)</td><td>... to the Single CMO Regulation</td><td>Marking of packs containing eggs imported from a third country where sufficient guarantees of equivalence of the rules relating to those eggs with EU legislation have not been provided.</td></tr>
+</tbody>
+</table>
+
+[^key-a179f2e7071fe5f74f4ec485e0d6f33a][^key-40a2eaece7e9a8c32c9ac353f080d8c8][^key-63169c59a857aacf0721ceeb363f9b88][^key-71b51086ecb0706e9fb48adb77889464][^key-4ac461488ddd0bcde3aa0d4e4a167adb][^key-b2b607747f7c0c7bb6a7005e28517ed6][^key-b37c7a47b9deab5183f5b7f1d30d1e6a][^key-581a217e9abc7d8355c0cc8cb6578176][^key-f353f1d5d4c91ec20b7961a80b99a1e3][^key-ec5fd151f1f9cee2a8a46e66ed01fb6a][^key-79aca32e91a51a527cf12bd6227d5ca8][^key-1543f21e06be4ceb2deb912e3725fe4f]
+
+## SCHEDULE 3 — EUROPEAN SALMONELLA RELATED CONTROLS ON EGGS IN SHELL FOR CONSUMPTION CONTRAVENTION OF WHICH IS AN OFFENCE[^key-41de2a61d29fcff222990e922363e954]
+
+Regulation 15
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th><em>Relevant provision of Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a></em></th><th><em>Provisions to be read with the provisions of Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> mentioned in column 1</em></th><th><em>Subject matter</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Point 1 of Part D of Annex II</td><td>Article 1(3) of Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a></td><td>Prohibition on the use of eggs for direct human consumption as table eggs unless they originate from a commercial flock of laying hens subject to a ... control programme and are not under official restriction.</td></tr>
+<tr><td>Point 2, first sub-paragraph, of Part D of Annex II</td><td>Point 4 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a></td><td>Prohibition on the use of certain zoonosis status eggs for human consumption unless treated, except where the restrictions in point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> are lifted under point 4 of that Part.</td></tr>
+<tr><td>Point 2, second sub-paragraph, paragraph (a), of Part D of Annex II</td><td>Article 1(3) of, and point 4 of Part D of Annex II to, Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a>, the provisions of Article 74 and Part VI of Annex VII to Regulation (EU) 2013 , and <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a>, insofar as they relate to class B eggs</td><td>Treatment of certain zoonosis eggs as class B eggs, except where the restrictions in point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> are lifted under point 4 of that Part.</td></tr>
+<tr><td>Point 2, second sub-paragraph, paragraph (b), of Part D of Annex II</td><td>Article 1(3) of, and point 4 of Part D of Annex II to, Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> and Article 10 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a></td><td>Marking of certain zoonosis status eggs with the indication required by Article 10 of <a href="https://www.legislation.gov.uk/european/regulation/2008/0589">Commission Regulation (EC) No. 589/2008</a>, except where the restrictions in point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> are lifted under point 4 of that Part.</td></tr>
+<tr><td>Point 2, second sub-paragraph, paragraph (c), of Part D of Annex II</td><td>Point 4 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a></td><td>Prohibited access to packing centres for certain zoonosis status eggs unless the competent authority is satisfied with measures to prevent possible cross-contamination, except where the restrictions in point 2 of Part D of Annex II to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2160">(EC) No. 2160/2003</a> are lifted under point 4 of that Part.</td></tr>
+</tbody>
+</table>
+
+[^key-8f7c55c4c33ec5577b87dd91e381e4e2][^key-256f73bd6b71d8545396e8d79e5c9e92]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Eggs and Chicks (No. 2) Regulations (Northern Ireland) 2008 ([S.R. 2008 No. 451](https://www.legislation.gov.uk/nisr/2008/451)).
+
+As in the 2008 Regulations, they make provision for the enforcement and execution of directly applicable EC marketing standards relating to eggs for hatching and farmyard poultry chicks and directly applicable EC marketing standards relating to eggs in shell for consumption. They also make new provision for the enforcement of directly applicable EC controls for *Salmonella* serotypes with public health significance in relation to the marketing and use of eggs in shell for human consumption.
+
+As regards the EC marketing standards relating to eggs for hatching and chicks, these Regulations—
+
+- (a) make the failure to comply with the provisions of Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) (O.J. No. L 299, 16.11.2007, p. 1) and [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) (O.J. No. L 168, 28.6.2008, p. 5) mentioned in Schedule 1 an offence (regulation 4);
+- (b) include provisions relating to the registration of pedigree breeding establishments, other breeding establishments and hatcheries (regulation 5); and
+- (c) provide an exception from Article 3(2) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) by allowing eggs for hatching to be marked in a different manner from that mentioned in that provision (regulation 6).
+
+As regards the directly applicable EC marketing standards relating to eggs in shell for consumption, these Regulations—
+
+- (a) make the failure to comply with the provisions of the Single CMO Regulation and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (O.J. No. L 163, 24.6.2008, p. 6) mentioned in Schedule 2 an offence (regulation 8);
+- (b) include provisions relating to the authorisation of packing centres to grade eggs (regulation 9);
+- (c) provide an exception from the provisions of points III(1) and (3) of Part A of Annex XIV to Single CMO Regulation, as regards the marking of eggs for consumption (regulation 10);
+- (d) vary the minimum requirements for the marketing of eggs as free-range eggs by authorising livestock grazing on open-air runs for hens producing such eggs (regulation 11);
+- (e) provide an exception from the provisions of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), by allowing eggs to be marketed as free-range eggs although not all of the requirements laid down in that Regulation for free-range eggs are met (regulation 12); and
+- (f) provide an exception from the provisions of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), by allowing eggs to be marketed as barn eggs although not all of the requirements laid down in that Regulation for barn eggs are met (regulation 13).
+
+As regards the new *Salmonella* related controls, the Regulations include a provision making the failure to comply with the provisions of Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) (O.J. No. 325, 12.12.2003, p. 1) of the European Parliament and of the Council on the control of *salmonella* and other specified food-borne zoonotic agents mentioned in Schedule 3 an offence (regulation 15).
+
+These Regulations also provide for district councils and the Department to enforce the Regulations (regulation 16) and impose a duty on enforcement authorities to give assistance and information to each other (regulation 17). They confer powers of entry (regulation 18) and other powers (regulation 19), including seizure and destruction powers. They require certain procedures to be followed in the event of any exercise of the seizure powers (regulation 20). They provide for the issue of compliance notices (regulation 21) and provide for appeals against certain decisions of the Department and district councils (regulation 22). They enable the Department to impose additional record-keeping requirements (regulation 23). They provide for the destruction of seized products and the giving of compliance notices to be publicised (regulation 24).
+
+They make obstruction an offence (regulation 25) and provide for the punishment of criminal offences (regulation 26). They contain provisions extending the period during which a prosecution may be brought (regulation 27).
+
+They also contain provisions relating to the giving of notices (regulation 28). They apply various provisions of the Food Safety (Northern Ireland) Order 1991 to the Regulations (regulation 29) and make a transitional provision (regulation 30).
+
+A Regulatory Impact Assessment has not been prepared for these Regulations as they have no impact on business.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-b2b7a318c80ab057bd93a8ceaeca13da]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^f00006]: Footnote: [S.I. 1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^f00007]: Footnote: Article 47(3A) was inserted by paragraphs 26 and 40 of Schedule 5 to the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^f00008]: Footnote: O.J. No. L 31, 1.2.2002, p. 1, last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (O.J. No. L 188, 18.7.2009, p. 14)
+
+[^key-b111d7deccebec2b36af03f1a3278d26]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2010/125) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^f00009]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51)
+
+[^f00010]: Footnote: Article 15(1) was amended by paragraphs 26 and 27 of Schedule 5 to the Food Standards Act 1999
+
+[^f00011]: Footnote: Article 16 was amended by paragraphs 26 and 27 of Schedule 5 to the Food Standards Act 1999
+
+[^f00012]: Footnote: Article 25 was amended by Schedule 6 to the Food Standards Act 1999
+
+[^f00013]: Footnote: Article 26(3) was amended by paragraphs 26, 33(1) and (5) of Schedule 5 to the Food Standards Act 1999
+
+[^f00014]: Footnote: Article 47(2) was amended by paragraphs 26 and 27 of Schedule 5 to the Food Standards Act 1999
+
+[^key-6d026f8309f74091d375d326d72af47b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-2362307149660214715e250166b98ce5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/125/regulation/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-88b31b6bee1de3bea7074664f12d868f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd47efd25753d60a382ccecc68557ad9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/2/a)
+
+[^M_F_cc686a11-b28b-4b1a-cf1d-09c2f69224f2]: Textual amendment: Words in reg. 2(1) inserted (1.8.2011) by [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [4](https://www.legislation.gov.uk/nisr/2011/248/regulation/4)
+
+[^f00017]: Footnote: O.J. No. L 325, 12.12.2003, p. 1, last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (O.J. No. L 188, 18.7.2009, p. 14)
+
+[^key-52fee205026d320152c38f7436aa4c98]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) added (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/11/regulation/2/2)
+
+[^key-f2686024b0a6fc4afc5d1b6c64480768]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) inserted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(2)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/2/b)
+
+[^key-13a92097474910a31b76f61585101cfe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/2)
+
+[^f00018]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b381fae225b6e9dec0625ec118956b6e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/3) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/3)
+
+[^key-9801592904afde0f1334144935514f4f]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/4) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/4)
+
+[^key-9632de3df1fc1e08278bab1d5b33f670]: Textual amendment: Words in [reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/6/a) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/5)
+
+[^key-606d074da90c03b885882fe20f6f6cef]: Textual amendment: Words in [reg. 2(7)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/7/a) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(6)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/6)
+
+[^key-4d8d09e8de492ae1a64a49dfa93dba82]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/9) inserted (19.11.2019) by [The Eggs and Chicks and Poultrymeat (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/210)](https://www.legislation.gov.uk/nisr/2019/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/210/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/210/regulation/2)
+
+[^key-ce134cdc15bfdf06acd746b7bc7fc098]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/125/regulation/3) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-7ce9e3458818bff71b220bb1e93fddb1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/125/regulation/4) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-923a4905e860811e02d980d375e32ca8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/125/regulation/5) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-1d411286e4550351c9c9a2f35226e509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/125/regulation/6) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-df41f92085e95a5ce7c86d796c98eff3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/125/regulation/7) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-025676888e5a8726e688c1a7cff1e4e6]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/a)
+
+[^key-dea64429a9a8d9ca7bf58f63a0c0cb4e]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/2/a) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/a)
+
+[^key-ae8e1175b92f85ea089feb31e95dbe75]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/2/b) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/b)
+
+[^key-53a6a5ace8ad044bef6dd72e153b05dd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/125/regulation/8) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-93c2bfba7cac893bfb38039900e34433]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/125/regulation/9) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-7027b21951a08b6eae5fc3adb75c215f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/125/regulation/10) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-84698c78e0ba3b20dbd5bd7d01a1c8ef]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/10/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(8)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/8)
+
+[^key-b450e0fc6b7016c826f98aa8d4eadee6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2010/125/regulation/10/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(9)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/9)
+
+[^key-1d491e5c5f942570f0cb5580582169e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/125/regulation/11) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-ebf1016f0a60c6ee3ceb586229c6ef0e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/125/regulation/12) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-8e674a0dc02d6c2f112c5aa022d05723]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/12/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-68dbd0264bc99e62ed623048dfe24654]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/125/regulation/13) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-eb17cfdfb01e94be4df8a112c207ffff]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/13/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2aea37f75fbf9e9c9bd69e01d304007d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/125/regulation/14) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-71bf914670a752f592b1d247e98e5e5e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/125/regulation/15) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-1e89927f94ae3483fb242678ddb29591]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/125/regulation/16) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-881f97f6e80acf26c886d8526c645354]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/125/regulation/17) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-169247dcc803df46298350696bbc4e74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/125/regulation/18) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-2447069a71165968dd4946da3601e617]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2010/125/regulation/18/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-caa552474914d3d197bfc2c56609df54]: Textual amendment: [Reg. 18(14)](https://www.legislation.gov.uk/nisr/2010/125/regulation/18/14) omitted (31.12.2020) by virtue of [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd2c01cc706c139441c46c931764e8b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/125/regulation/19) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-1586850a134cc4cc064d08c90f3d9bc9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/125/regulation/20) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^f00019]: Footnote: [1981 No. 1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^key-c9769a65b16350eb5abb08b535d6b3b1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/125/regulation/21) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^M_F_7baefc79-0adc-493c-e1f9-47cc6fa53054]: Textual amendment: Words in reg. 21(2)(e) omitted (1.8.2011) by virtue of [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [5](https://www.legislation.gov.uk/nisr/2011/248/regulation/5)
+
+[^M_F_fe7d80d2-b5bc-4c93-f109-8ec205bac18f]: Textual amendment: Words in reg. 21(6)(d) omitted (1.8.2011) by virtue of [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [5](https://www.legislation.gov.uk/nisr/2011/248/regulation/5)
+
+[^M_F_f5757107-bf56-4cd4-bdd1-05605a1bbd60]: Textual amendment: Reg. 22 substituted (1.8.2011) by [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/248/regulation/6)
+
+[^key-1c8962791d31359fa482b89f6c731101]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/125/regulation/23) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-0a3cb28f3bb60ea4e39b5d27c5befba7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/125/regulation/24) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-1ad7dc8178037ffe05424d6512abba0a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/125/regulation/25) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-6d4eb77c4f4d4caf2afd0f6c83f06136]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/125/regulation/26) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-34c266fb2e534dd62bab9ee4c2cb63c8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/125/regulation/27) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-13691793bf71d8888ea5186ec634bd3c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/125/regulation/28) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^M_F_fdffa6c7-2fa1-4b4e-d600-e9a496edf70d]: Textual amendment: Reg. 28(6) omitted (1.8.2011) by virtue of [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [7](https://www.legislation.gov.uk/nisr/2011/248/regulation/7)
+
+[^key-0fa6487b6c96b38f193ba88134930691]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2010/125/regulation/29) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-23cc3f7b77f1fdea288a5175248f5a4b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2010/125/regulation/30) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^f00021]: Footnote: [S.R. 1995 No. 382](https://www.legislation.gov.uk/nisr/1995/382), revoked by [S.R. 2008 No. 98](https://www.legislation.gov.uk/nisr/2008/98)
+
+[^f00022]: Footnote: S R. [2008 No. 98](https://www.legislation.gov.uk/nisr/2008/98), revoked by [S.R. 2008 No. 451](https://www.legislation.gov.uk/nisr/2008/451)
+
+[^f00023]: Footnote: [S.R. 2008 No. 451](https://www.legislation.gov.uk/nisr/2008/451)
+
+[^key-692b6ae8658de0163705c6bc58c046e5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/125/regulation/31) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-0aee0518edbab09973d5693dba55e826]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-5f6db8fb1893427acb9423e814302353]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) heading inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/a)
+
+[^key-830fb5b88058fcb96ca5d7366e39eb02]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/b)
+
+[^key-053cd376acd8101ed3a69abf5b25ac18]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/c)
+
+[^key-671d21001b9d095fdfdbfc90737fc8a0]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(d)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/d)
+
+[^key-f21ec94eae33e86d5d3817d78d677e2b]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-166dcb57ee5dfe2cea6f291778eca4ef]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/2)
+
+[^key-086ae7dcd599cfbe8f076cfffefb5230]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/a)
+
+[^key-629d596b2207cc33856e662c319bc814]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-a179f2e7071fe5f74f4ec485e0d6f33a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/i)
+
+[^key-40a2eaece7e9a8c32c9ac353f080d8c8]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/ii)
+
+[^key-63169c59a857aacf0721ceeb363f9b88]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/a)
+
+[^key-71b51086ecb0706e9fb48adb77889464]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/b)
+
+[^key-4ac461488ddd0bcde3aa0d4e4a167adb]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/3/a)
+
+[^key-b2b607747f7c0c7bb6a7005e28517ed6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/iii)
+
+[^key-b37c7a47b9deab5183f5b7f1d30d1e6a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/3/b)
+
+[^key-581a217e9abc7d8355c0cc8cb6578176]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f353f1d5d4c91ec20b7961a80b99a1e3]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2019/11/regulation/2/3)
+
+[^key-ec5fd151f1f9cee2a8a46e66ed01fb6a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1313)](https://www.legislation.gov.uk/uksi/2019/1313), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/1/2/b), [2(b)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79aca32e91a51a527cf12bd6227d5ca8]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/c)
+
+[^key-1543f21e06be4ceb2deb912e3725fe4f]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) omitted (21.3.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(iv)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/iv)
+
+[^key-41de2a61d29fcff222990e922363e954]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+
+[^key-8f7c55c4c33ec5577b87dd91e381e4e2]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/740/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-256f73bd6b71d8545396e8d79e5c9e92]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) Table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/c)

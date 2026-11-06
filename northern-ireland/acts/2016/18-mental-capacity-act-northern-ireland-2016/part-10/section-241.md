@@ -1,0 +1,40 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 241
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '241'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/241
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 241
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 241. Provision of information
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Regulations may make provision requiring a prescribed person to give prescribed information to prescribed persons—
+
+- (a) where a public protection order is made;
+- (b) where a hospital direction or hospital transfer direction is given; or
+- (c) in such other circumstances where a person is, or has been, detained by virtue of this Part as may be prescribed.
+
+(2) The regulations may include provision as to when the information must be given.
+
+(3) The information that may be prescribed by regulations made under this section, or by regulations made under any other provision of this Part which requires prescribed information to be given to a person, includes a copy of a prescribed document.
+
+(4) Regulations under this section must, in particular, include provision for the purposes of ensuring—
+
+- (a) that, where a person is detained by virtue of this Part, the person is made aware as soon as practicable of—
+  - (i) the provisions of this Part by virtue of which he or she is detained, and the effect of those provisions; and
+  - (ii) what rights are available under Chapter 8 (review by the Tribunal);
+- (b) that, where a person who has been detained by virtue of this Part is discharged from being liable to be so detained, the person is informed in writing of that discharge.

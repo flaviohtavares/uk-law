@@ -1,0 +1,363 @@
+---
+title: Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004
+id: nisr/2004/494
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-11-30'
+text_date: '2025-03-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/494
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/494/pdfs/nisr_20040494_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/494/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004
+
+> Text as at 2025-03-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 494
+
+FAIR EMPLOYMENT
+
+Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004
+
+Made
+
+30th November 2004
+
+Coming into operation
+
+1st January 2005
+
+Whereas, in accordance with Article 50(3) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00001] (“the 1998 Order”), each person who, by virtue of the following Order, becomes a public authority for any of the purposes of Articles 52 to 65 of the 1998 Order is:
+
+(1) a Minister of the Crown or a Northern Ireland Minister;
+
+(2) a statutory body or the holder of a statutory office; or
+
+(3) a person appearing to the Office of the First Minister and deputy First Minister[^f00002] (“the Department”) to exercise functions of a public nature;
+
+And whereas, in accordance with Article 51(4) of the 1998 Order, it appears to the Department that some or all of the people who are employed by each person, who by virtue of the following Order becomes an employer for the purposes of Articles 52 to 61 of the 1998 Order, who are in the service of the Crown for the purposes of the functions of those persons or who are treated by virtue of the following Order as so employed or as in such service, are employed or serve in Northern Ireland:
+
+Now, therefore, the Department in exercise of the powers conferred by Article 50(1) and (2) and Article 51(2) of the 1998 Order and now vested in it[^f00003] and of every other power enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation[^key-a78e752b152792d316fc0542777b2286]
+
+(1) This Order may be cited as the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004 and shall come into operation on 1st January 2005.
+
+(2) In this Order –
+
+- “the 1998 Order” means the Fair Employment and Treatment (Northern Ireland) Order 1998;
+- “member of the home service forces” means any member of the armed forces whose service (or service otherwise than for the purposes of training) is restricted to Northern Ireland;
+- “Northern Ireland civil servant” means any person appointed to a situation in the Northern Ireland Civil Service;
+- “police” has the same meaning as in the Police (Northern Ireland) Act 2000[^f00004];
+- “reserve force” means a reserve force within the meaning of section 1(2) of the Reserve Forces Act 1996[^f00005];
+- “reservist” means a member of any reserve force who serves wholly or mainly in Northern Ireland; and
+- “United Kingdom civil servant” means any person serving wholly or mainly in Northern Ireland in the civil service of the Crown other than a Northern Ireland civil servant.
+
+## 2. Specification of public authorities[^key-4b9055901bd611c6319892b2853a22ab]
+
+For the purposes of Articles 52 to 61 of the 1998 Order: –
+
+- (a) the Minister for the Department of Finance and Personnel shall be a public authority and all Northern Ireland civil servants shall be treated as employees of that authority;
+- (b) the Minister for the Civil Service shall be a public authority and all United Kingdom civil servants shall be treated as employees of that authority;
+- (c) the Secretary of State for Defence shall be a public authority and all reservists and members of the home service forces shall be treated as employees of that authority; and
+- (d) the Chief Constable of the Police Service of Northern Ireland shall be a public authority and all members of the police shall be treated as employees of that authority.
+
+## 3.[^key-56860ee6e4a5bad686c0e32d5c6144ad]
+
+Each of the persons specified in Part I of the Schedule shall be a public authority for the purposes of Articles 52 to 65 of the 1998 Order.
+
+## 4.[^key-b36436220ef647aaedd0722b8cfcac20]
+
+Each of the persons specified in Part II of the Schedule shall be a public authority for the purposes of Articles 62 to 65 of the 1998 Order.
+
+## 5. Revocation[^key-0d0b99052c7d83df6a8f4b8d29453fb6]
+
+The following Orders are hereby revoked –
+
+- (a) the Fair Employment (Specification of Public Authorities) (No. 2) Order (Northern Ireland) 2000[^f00006];
+- (b) the Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2003[^f00007].
+
+Sealed with the Official Seal of the Office of the First Minister and deputy First Minister on 30th November 2004.
+
+Gerard Mulligan
+
+A senior officer of the Office of the First Minister and deputy First Minister
+
+## SCHEDULE[^key-c2d76eb69e6685f1ab12117c4e2102e3]
+
+Articles 3 and 4
+
+### PART 1 — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 52 TO 65 OF THE 1998 ORDER
+
+Agri-Food and Biosciences Institute
+
+Arts Council of Northern Ireland
+
+Belfast Harbour Commissioners
+
+Belfast Health and Social Care Trust
+
+The Big Lottery Fund
+
+Board of Trustees of the National Museums and Galleries of Northern Ireland
+
+British Broadcasting Corporation
+
+Charity Commission for Northern Ireland
+
+Chief Electoral Officer for Northern Ireland
+
+Chief Inspector of Criminal Justice in Northern Ireland
+
+Children’s Court Guardian Agency for Northern Ireland
+
+Citybus Limited
+
+Coleraine Harbour Commissioners
+
+Commission for Victims and Survivors for Northern Ireland
+
+Commissioner for Children and Young People for Northern Ireland
+
+Commissioner for Older People for Northern Ireland
+
+Commissioner for Survivors of Institutional Childhood Abuse
+
+Comptroller and Auditor General for Northern Ireland
+
+Construction Industry Training Board
+
+Council for Catholic Maintained Schools
+
+Any District Council
+
+The Education Authority
+
+Equality Commission for Northern Ireland
+
+Foyle, Carlingford and Irish Lights Commission
+
+General Consumer Council for Northern Ireland
+
+General Teaching Council for Northern Ireland
+
+The Governing Body of Belfast Metropolitan College
+
+The Governing Body of North West Regional College
+
+The Governing Body of Northern Regional College
+
+The Governing Body of South Eastern Regional College
+
+The Governing Body of South West College
+
+The Governing Body of Southern Regional College
+
+The Governing Body of Stranmillis University College, Belfast
+
+Governors of the Armagh Observatory and Planetarium
+
+Health and Social Care Regulation and Quality Improvement Authority
+
+Historical Institutional Abuse Redress Board
+
+The Independent Commission for Reconciliation and Information Recovery
+
+Information Commissioner’s Office
+
+Invest Northern Ireland
+
+Labour Relations Agency
+
+Livestock and Meat Commission for Northern Ireland
+
+Local Government Staff Commission for Northern Ireland
+
+Londonderry Port and Harbour Commissioners
+
+Middletown Centre for Autism Limited
+
+The National Heritage Memorial Fund
+
+The North/South Language Body
+
+Northern Health and Social Care Trust
+
+Northern Ireland Ambulance Service Health and Social Care Trust
+
+Northern Ireland Assembly Commission
+
+Northern Ireland Authority for Utility Regulation
+
+Northern Ireland Blood Transfusion Service (Special Agency)
+
+Northern Ireland Community Relations Council
+
+Northern Ireland Council for the Curriculum, Examinations and Assessment
+
+Northern Ireland Fire and Rescue Service Board
+
+Northern Ireland Fishery Harbour Authority
+
+Northern Ireland Housing Executive
+
+Northern Ireland Human Rights Commission
+
+Northern Ireland Judicial Appointments Commission
+
+Northern Ireland Library Authority
+
+Northern Ireland Local Government Officers’ Superannuation Committee
+
+Northern Ireland Medical and Dental Training Agency
+
+Northern Ireland Museums Council
+
+Northern Ireland Policing Board
+
+Northern Ireland Practice and Education Council for Nursing and Midwifery
+
+Northern Ireland Public Services Ombudsman
+
+Northern Ireland Railways Company Limited
+
+Northern Ireland Screen Commission
+
+Northern Ireland Social Care Council
+
+Northern Ireland Tourist Board
+
+Northern Ireland Transport Holding Company
+
+Northern Ireland Water Alpha Limited
+
+Northern Ireland Water Limited
+
+Office of Communications
+
+Patient and Client Council
+
+The Police Ombudsman for Northern Ireland
+
+Police Rehabilitation and Retraining Trust
+
+Probation Board for Northern Ireland
+
+Regional Agency for Public Health and Social Well-being
+
+Regional Business Services Organisation
+
+Royal Mail Group Limited
+
+South Eastern Health and Social Care Trust
+
+Southern Health and Social Care Trust
+
+The Special EU Programmes Body
+
+Sports Council for Northern Ireland
+
+State Pathologist’s Department
+
+Strategic Investment Board Limited
+
+Tourism Ireland Limited
+
+The Trade and Business Development Body
+
+Ulster Supported Employment Limited
+
+Ulsterbus Limited
+
+Victims and Survivors Service Limited
+
+Warrenpoint Harbour Authority
+
+Waterways Ireland
+
+Western Health and Social Care Trust
+
+Youth Council for Northern Ireland
+
+### PART II — PUBLIC AUTHORITIES FOR THE PURPOSES OF ARTICLES 62 TO 65 OF THE 1998 ORDER
+
+The Secretary of State
+
+Any Northern Ireland Department
+
+Any Northern Ireland Minister
+
+Commissioners for His Majesty’s Revenue and Customs
+
+The Chief Constable of the Police Service of Northern Ireland
+
+The Controller of His Majesty’s Stationery Office
+
+The Director of Public Prosecutions for Northern Ireland
+
+Director of Savings
+
+Food Standards Agency
+
+Health and Safety Executive for Northern Ireland
+
+(This note is not part of the Order.)
+
+This Order specifies a number of persons or bodies as public authorities for certain purposes under Part VII of the Fair Employment and Treatment (Northern Ireland) Order 1998 (“the 1998 Order”) and provides for the persons who are to be treated for such purposes as the employees of some of those authorities.
+
+For the purpose of Articles 52 to 61 of the 1998 Order, Article 2 –
+
+- (a) specifies the Minister for the Department of Finance and Personnel as a public authority and provides that all Northern Ireland civil servants (as defined) shall be treated as employees of that authority;
+- (b) specifies the Minister for the Civil Service as a public authority and provides that all United Kingdom civil servants (as defined) shall be treated as employees of that authority;
+- (c) specifies the Secretary of State for Defence as a public authority and provides that all reservists and members of the home service forces (as defined) shall be treated as employees of that authority; and
+- (d) specifies the Chief Constable of the Police Service of Northern Ireland as a public authority and provides that all members of the police (as defined) shall be treated as employees of that authority.
+
+Article 3 specifies each of the persons listed in Part I of the Schedule as a public authority for the purposes of Articles 52 to 65 of the 1998 Order.
+
+Article 4 specifies each of the persons listed in Part II of the Schedule as a public authority for the purposes of Articles 62 to 65 of the 1998 Order.
+
+Where a person who is specified as a public authority for the purposes of Articles 52 to 61 of the 1998 Order is the employer, or by virtue of Article 2 becomes the employer, of certain persons then Part VII of the 1998 Order imposes certain duties on him, particularly with respect to those persons. He is required to prepare and serve for each year on the Equality Commission for Northern Ireland (“the Commission”) a return (referred to as a “monitoring return”) to enable the composition of his workforce to be ascertained; that is to say the number who belong to the Protestant community and the number who belong to the Roman Catholic community in Northern Ireland. In addition the monitoring return he is required to serve must show the composition of applicants for employment in his workforce and the composition of those ceasing to be employed by him. Other provisions of Articles 52 to 61 of the 1998 Order such as those requiring periodic review of recruitment, training and promotion practices; those relating to enquiries by the Commission and undertakings by and directions to employers; and those providing for the setting of goals and timetables also apply to public authorities specified for the purposes of those Articles.
+
+Where a public authority is specified for the purposes of Articles 62 to 65 of the 1998 Order it is prohibited from entering into any contract with a person who is not qualified for the purposes of Articles 64 to 66 of that Order and who, in response to an invitation by the authority offers to execute any work or supply any goods or services to it. Any contravention of or failure to comply with this duty is actionable by any person who, in consequence, suffers loss or damage.
+
+Article 5 revokes the Fair Employment (Specification of Public Authorities) (No. 2) Order (Northern Ireland) 2000 and the Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2003.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
+
+[^f00002]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
+
+[^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
+
+[^key-a78e752b152792d316fc0542777b2286]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/494/article/1) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+
+[^f00004]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^f00005]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14)
+
+[^key-4b9055901bd611c6319892b2853a22ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/494/article/2) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+
+[^key-56860ee6e4a5bad686c0e32d5c6144ad]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/494/article/3) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+
+[^key-b36436220ef647aaedd0722b8cfcac20]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/494/article/4) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+
+[^key-0d0b99052c7d83df6a8f4b8d29453fb6]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2004/494/article/5) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+
+[^f00006]: Footnote: [S.R. 2000 No. 371](https://www.legislation.gov.uk/nisr/2000/371)
+
+[^f00007]: Footnote: [S.R. 2003 No. 521](https://www.legislation.gov.uk/nisr/2003/521)
+
+[^key-c2d76eb69e6685f1ab12117c4e2102e3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/494/schedule) substituted (31.3.2025) by [The Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/34)](https://www.legislation.gov.uk/nisr/2025/34), [arts. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1), [2](https://www.legislation.gov.uk/nisr/2025/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/34/schedule)

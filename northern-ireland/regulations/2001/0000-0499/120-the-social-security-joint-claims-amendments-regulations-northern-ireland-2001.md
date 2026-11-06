@@ -1,0 +1,276 @@
+---
+title: The Social Security (Joint Claims Amendments) Regulations (Northern Ireland) 2001
+id: nisr/2001/120
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-03-16'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/120
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/120/pdfs/nisr_20010120_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/120/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Joint Claims Amendments) Regulations (Northern Ireland) 2001
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 120
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Joint Claims Amendments) Regulations (Northern Ireland) 2001
+
+Made
+
+16th March 2001
+
+Coming into operation
+
+19th March 2001
+
+The Department for Social Development, in exercise of the powers conferred by Articles 3(2C), 6(5), 7(3) and 36(2) of, and paragraph 8A(1) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00001], sections 22(5), 122(1)(*d*), 132(4)(*b*) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], and Articles 9(1)(*c*), 11, 13(1)(*b*) and 74(1) and (3) of, and paragraph 9 of Schedule 3 to, the Social Security (Northern Ireland) Order 1998[^f00003], sections 5(1)(*j*) and 165 (1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00004], and now vested in it[^f00005], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00006] in so far as regulation 6 is concerned, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, Article 56 of, and Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00007] and which is made before the end of the period of six months beginning with the coming into operation of those provisions[^f00008], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-4c71ff2e328d6a448970882dbcafcbb3]
+
+(1) These Regulations shall be cited as the Social Security (Joint Claims Amendments) Regulations (Northern Ireland) 2001 and shall, subject to paragraph (2), come into operation on 19th March 2001.
+
+(2) Regulation 2(1) to (4) and (6) and (7) of these Regulations shall come into operation immediately after the Jobseeker’s Allowance (Joint Claims) Regulations (Northern Ireland) 2000[^f00009].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Jobseeker’s Allowance Regulations[^key-0ecd948360ba7da3985b0a89ec2f0568][^key-0766c09c4ca94875b76ade9070ef742b]
+
+(1)[^key-0ecd948360ba7da3985b0a89ec2f0568] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011] shall be amended in accordance with paragraphs (2) to (7).
+
+(2)[^key-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3A(1)[^f00012] (prescribed description of a joint-claim couple for the purposes of Article 3(4) of the Order), after “where at least one member” there shall be inserted “is aged 18 or over and”.
+
+(3)[^key-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3D(1)[^f00013] (further circumstances in which a joint-claim couple may be entitled to a joint-claim jobseeker’s allowance), for sub-paragraph (*c*) there shall be substituted the following sub-paragraph—
+
+> - (c) the other member satisfies the condition in Article 3(2)(*e*) and (*h*) of the Order but is not required to satisfy the other conditions in Article 3(2B)(*b*)[^f00014] of the Order because, subject to paragraph (3), he is a person to whom any paragraph in Schedule A1[^f00015] applies, and
+
+.
+
+(4)[^key-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3E(2)[^f00016] (entitlement of a member of a joint-claim couple to a jobseeker’s allowance without a claim being made jointly by the couple), in both sub-paragraphs (*g*) and (*k*), for “more than 16 hours” there shall be substituted “16 hours or more”.
+
+(5)[^key-0766c09c4ca94875b76ade9070ef742b] At the end of regulation 47(4)(*b*)(ii)[^f00017] (jobseeking period), there shall be added “or on which the claimant is a member of a joint-claim couple and a joint-claim jobseeker’s allowance is not payable or is reduced because he is subject to sanctions by virtue of Article 22A[^f00018] of the Order”.
+
+(6)[^key-0ecd948360ba7da3985b0a89ec2f0568] In Schedule A1 (categories of members of a joint-claim couple who are not required to satisfy the conditions in Article 3(2B)(*b*) of the Order)—
+
+- (a) in the heading, for “Regulation 3D(1)(*c*)(iii)” there shall be substituted “Regulation 3D(1)(*c*)”;
+- (b) for paragraph 2(1) and (2) there shall be substituted the following sub-paragraphs—
+
+  > **2.** (1) A member—
+  >
+  > - (a) who, at the date of claim, is aged 16 or over but under 19 and is receiving full-time education for the purposes of section 138 of the Benefits Act (meaning of child);
+  > - (b) who, at the date of claim, is a full-time student, or
+  > - (c) to whom (*a*) or (*b*) does not apply but to whom sub-paragraph (1A) or (2) does apply.
+  >
+  > (1A) This sub-paragraph applies to a member who—
+  >
+  > - (a) as at the date of claim—
+  >   - (i) had applied to an educational establishment to commence a full-time course of study commencing from the beginning of the next academic term or, as the case may be, the next academic year after the date of claim and that application has not been rejected, or
+  >   - (ii) had been allocated a place on a full-time course of study commencing from the beginning of the next academic term or, as the case may be, the next academic year, and
+  > - (b) is either—
+  >   - (i) aged 16 or over but under 19 and is receiving full-time education for the purposes of section 138 of the Benefits Act, or
+  >   - (ii) a full-time student.
+  >
+  > (2) This sub-paragraph applies to a member who has applied to an educational establishment to commence a full-time course of study (other than a course of study beyond a first degree course or a comparable course)—
+  >
+  > - (a) within one month of—
+  >   - (i) the last day of a previous course of study, or
+  >   - (ii) the day on which the member received examination results relating to a previous course of study, and
+  > - (b) who is either—
+  >   - (i) aged 16 or over but under 19 and is receiving full-time education for the purposes of section 138 of the Benefits Act, or
+  >   - (ii) a full-time student.
+
+  .
+
+(7)[^key-0ecd948360ba7da3985b0a89ec2f0568] In the first column of paragraph 20M(4)(i) of Schedule 1[^f00019] (applicable amounts), for “20I(3)” there shall be substituted “20I(4)”.
+
+## 3. Amendment of the Social Security (Credits) Regulations[^key-6b0870930d403ce5a80d0116001e6fd2]
+
+In regulation 8A(5) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00020] (credits for unemployment)—
+
+- (a) after sub-paragraph (*c*) there shall be inserted the following sub-paragraph—
+
+  > - (cc) a week in respect of which a joint-claim jobseeker’s allowance was not payable or was reduced pursuant to Article 22A of that Order (denial or reduction of joint-claim jobseeker’s allowance) because the person was subject to sanctions for the purposes of that Article, even though the couple of which he was a member satisfied the conditions for entitlement to that allowance;
+
+  ;
+- (b) after sub-paragraph (*d*) there shall be inserted the following sub-paragraph—
+
+  > - (dd) a week in respect of which a joint-claim jobseeker’s allowance was payable in respect of a joint-claim couple of which the person is a member only by virtue of regulation 146C[^f00021] of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (circumstances in which a joint-claim jobseeker’s allowance is payable where a joint-claim couple is a couple in hardship);
+
+  .
+
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-acbd3eb979e8fd690ce3fd4def5b2d1d]
+
+In the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00022]—
+
+- (a) in regulation 1(2) (citation, commencement and interpretation) after the definition of “the Jobseeker’s Allowance Regulations” there shall be inserted the following definitions—
+
+  > - “a joint-claim couple” has the same meaning as in Article 3(4) of the Jobseekers (Northern Ireland) Order 1995 (interpretation);
+  > - “a joint-claim jobseeker’s allowance” has the same meaning as in Article 3(4) of the Jobseekers (Northern Ireland) Order 1995;
+
+  ;
+- (b) in regulation 26 (decisions against which an appeal lies), after paragraph (*c*)[^f00023] there shall be inserted the following—
+
+  > ; or
+  >
+  > - (d) under Article 56 of, and Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 (couples to make joint-claim for jobseeker’s allowance) where one member of the couple is working and the Department has decided that both members of the couple are not engaged in remunerative work;
+
+  ;
+- (c) in paragraph 8 of Schedule 2A[^f00024]—
+  - (i) in sub-paragraph (*a*), after “Article 5(1)(*a*)” there shall be inserted “or 5A(1)(*a*)[^f00025]”;
+  - (ii) after paragraph (*d*), there shall be inserted the following—
+
+    > , or
+    >
+    > - (e) a joint-claim couple ceases to be a married or an unmarried couple,
+
+    .
+
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-7702a1b2ea67f462ab3d5a117ad1f693][^key-8a531e7c21d57e6aa38851dc6ed5eb66]
+
+After regulation 30 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00026] (payments on death), there shall be inserted the following regulation—
+
+> **30A. Payments of arrears of joint-claims jobseeker’s allowance where the nominated person can no longer be traced**
+>
+> Where—
+>
+> - (a) an award of joint-claim jobseeker’s allowance has been awarded to a joint-claim couple;
+> - (b) that couple ceases to be a joint-claim couple; and
+> - (c) the member of the joint-claim couple nominated for the purposes of Article 5B of the Jobseekers Order[^f00027] cannot be traced,
+>
+> arrears of the award of joint-claim jobseeker’s allowance shall be paid to the other member of the former joint-claim couple.
+
+.
+
+## 6. Amendment of the Housing Benefit (General) Regulations[^key-672967ea196dd85069018834911fef1e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 16th March 2001.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+The Department of Finance and Personnel hereby consents to regulation 6 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 16th March 2001.
+
+D. Sterling
+
+Senior Officer of the
+
+Department of Finance and Personnel
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Jobseeker’s Allowance Regulations (Northern Ireland) 1996, the Social Security (Credits) Regulations (Northern Ireland) 1975, the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 and the Housing Benefit (General) Regulations (Northern Ireland) 1987 to enable the effective introduction of the joint-claims regime.
+
+Regulation 2 amends the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 by—
+
+- (a) clarifying the definition of a joint-claim couple so that it includes a couple where at least one member must be aged 18 or over (regulation 2(2));
+- (b) clarifying the position as to when a joint-claim couple may be entitled to a joint-claim jobseeker’s allowance whilst one member is not required to satisfy the conditions in Article 3(2B)(*b*) of the Jobseekers (Northern Ireland) Order 1995 (“the Jobseekers Order”) and making a consequential amendment (regulation 2(3) and (6)(*a*));
+- (c) ensuring that joint claims do not have to be made in certain circumstances where one member of the couple is working 16 hours per week (regulation 2(4));
+- (d) providing that days where a member of a joint-claim couple satisfies the conditions for entitlement to a contribution-based jobseeker’s allowance and a joint-claim jobseeker’s allowance is not payable or is reduced because he is subject to sanctions for the purposes of Article 22A of the Jobseekers Order, shall be treated as a day of entitlement to a contribution-based jobseeker’s allowance (regulation 2(5));
+- (e) making an amendment which clarifies the rule as to when those receiving full-time education or those who are full-time students may be exempt from having to comply with the jobseeking conditions (regulation 2(6)(*b*));
+- (f) correcting a reference in paragraph 20M of Schedule 1 (regulation 2(7)).
+
+Regulation 3 amends regulation 8A of the Social Security (Credits) Regulations (Northern Ireland) 1975 by preventing credits from being awarded where a joint-claim jobseeker’s allowance is not payable or is reduced because a person is subject to sanctions pursuant to Article 22A of the Jobseekers Order or where such a couple is only receiving a joint-claim jobseeker’s allowance because they are a couple in hardship.
+
+Regulation 4 amends the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 by inserting definitions into regulation 1(2), providing a new right of appeal in regulation 26 against a decision that a couple are required to make a joint-claim and the reason for that decision is that one member of the couple who is working is not engaged in remunerative work and providing in paragraph 8 of Schedule 2A of the regulations an effective date where a joint-claim couple separate.
+
+Regulation 5 amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 by providing that where a member of a joint-claim couple to whom a joint-claim jobseeker’s allowance is payable disappears, that allowance shall be payable to the other member of that couple.
+
+Regulation 6 amends the Housing Benefit (General) Regulations (Northern Ireland) 1987 by ensuring that where a claimant for those benefits is a member of a joint-claim couple and his partner is getting income-based jobseeker’s allowance, the whole of his income and capital will nevertheless be disregarded.
+
+These Regulations are made by virtue of or in consequence of provisions in Article 56 of, and Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999. The Regulations are made before the end of the period of six months beginning with the coming into operation of those provisions, and are, accordingly, exempt, by virtue of section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), from reference to the Social Security Advisory Committee.
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 3(2C) and paragraph 8A of Schedule 1 were inserted by Article 56 of, and Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 22(5) was amended by paragraph 5 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
+
+[^f00003]: Footnote: [S.I. 1998/1506 (N. I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00004]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00005]: Footnote: *See* Article 8(*b*) of, and Part II of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
+
+[^f00006]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); consent function transferred from the Department of the Environment for Northern Ireland to the Department of Finance and Personnel; *see* Article 6(*b*) of, and Part II of Schedule 4 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999
+
+[^f00007]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00008]: Footnote: *See* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-4c71ff2e328d6a448970882dbcafcbb3]: Commencement: Reg. 1 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+
+[^f00009]: Footnote: [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-0ecd948360ba7da3985b0a89ec2f0568]: Commencement: Reg. 2(1)-(4)(6)(7) in operation at 19.3.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/2)
+
+[^key-0766c09c4ca94875b76ade9070ef742b]: Commencement: Reg. 2(5) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00012]: Footnote: Regulation 3A was inserted by regulation 2(2) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00013]: Footnote: Regulation 3D was inserted by regulation 2(2) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00014]: Footnote: Article 3(2B) was inserted by Article 56 of, and paragraph 3(3) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00015]: Footnote: Schedule A1 was inserted by regulation 2(4) of, and Schedule 1 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00016]: Footnote: Regulation 3E was inserted by regulation 2(2) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00017]: Footnote: Sub-paragraph (*b*) was substituted by regulation 14(3) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^f00018]: Footnote: Article 22A was inserted by Article 56 of, and paragraph 14 of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00019]: Footnote: Paragraph 20M was inserted by regulation 2(5) of, and paragraph 53(4) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-6b0870930d403ce5a80d0116001e6fd2]: Commencement: Reg. 3 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+
+[^f00020]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 8A was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00021]: Footnote: Regulation 146C was inserted by regulation 2(3) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-acbd3eb979e8fd690ce3fd4def5b2d1d]: Commencement: Reg. 4 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+
+[^f00022]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00023]: Footnote: Paragraph (*c*) was added by regulation 6(9) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00024]: Footnote: Schedule 2A was inserted by regulation 6(22) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00025]: Footnote: Article 5A was inserted by Article 56 of, and paragraph 5(2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^key-7702a1b2ea67f462ab3d5a117ad1f693]: Commencement: Reg. 5 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+
+[^key-8a531e7c21d57e6aa38851dc6ed5eb66]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/120/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00026]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
+
+[^f00027]: Footnote: Article 5B was inserted by Article 56 of, and paragraph 5(2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^key-672967ea196dd85069018834911fef1e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/120/regulation/6) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

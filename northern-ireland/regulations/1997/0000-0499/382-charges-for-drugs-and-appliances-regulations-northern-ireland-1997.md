@@ -1,0 +1,423 @@
+---
+title: Charges for Drugs and Appliances Regulations (Northern Ireland) 1997
+id: nisr/1997/382
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-08-15'
+text_date: '1997-08-15'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/382
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/382/data.pdf
+pending_changes: 210
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charges for Drugs and Appliances Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (210).** Text as at 1997-08-15. See https://www.legislation.gov.uk/changes/affected/nisr/1997/382
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1997 No. 382
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+Charges for Drugs and Appliances Regulations (Northern Ireland) 1997
+
+Made
+
+15th August 1997
+
+Coming into operation
+
+6th October 1997
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 98 and 106 of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel[^f00002], hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-8f09a52f8e4d17af0643f882eb1509e8]
+
+These Regulations may be cited as the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997 and shall come into operation on 6th October 1997.
+
+## 2. Interpretation[^key-ec445b1858757538ee18d56a941fc0d7]
+
+(1) In these Regulations—
+
+- “Agency” means the Northern Ireland Central Services Agency for the Health and Social Services established under Article 26 of the Order;
+- “accepted disablement” means physical or mental injury or disease which is accepted by the Secretary of State as attributable to or aggravated by service in the armed forces of the Crown or such other service as he may determine;
+- “appliance” means a listed appliance within the meaning of Article 63 of the Order[^f00003] but does not include a contraceptive appliance;
+- “Board” means a Health and Social Services Board;
+- “chemist” includes any person, other than a doctor, providing pharmaceutical services;
+- “doctor” means a fully registered person within the meaning of the Medical Act 1983[^f00004];
+- “drugs” includes medicines, but does not include contraceptive substances;
+- “elastic hosiery” means an above-knee, below-knee or thigh stocking;
+- “exemption” means any remission granted under these Regulations from charges payable under these Regulations;
+- “exemption certificate” has the meaning assigned to it by regulation 8(1);
+- “medical list” means the list of doctors prepared under regulation 4 of the General Medical Services Regulations (Northern Ireland) 1997[^f00005];
+- “the Order” means the Health and Personal Social Services (Northern Ireland) Order 1972;
+- “patient” means—
+  - (a) any person for whose treatment a doctor is responsible under his terms of service;
+  - (b) any person who applies to a chemist for the provision of pharmaceutical services including a person who applies on behalf of another person; or
+  - (c) a person who pays or undertakes to pay on behalf of another person a charge for which these Regulations provide;
+- “pre-payment certificate” has the meaning assigned to it by regulation 9(1);
+- “prescription form” means a form provided by the Agency on which the provision of pharmaceutical services may be ordered by—
+  - (a) a doctor or dental practitioner under the provisions of their terms of service; or
+  - (b) a nurse or health visitor of a description specified in paragraph (2),
+
+  and which contains on its reverse side a form of declaration of entitlement to exemption;
+- “qualifying full-time education” means full-time instruction at a recognised educational establishment or by other means accepted as comparable by the Department, and “recognised educational establishment” means an establishment recognised by the Department as being, or as comparable to, a school, college or university;
+- “terms of service” means—
+  - (a) in relation to doctors, the terms of service contained or referred to in Schedule 2 to the General Medical Services Regulations (Northern Ireland) 1997 and Schedule 2 to the Pharmaceutical Services Regulations (Northern Ireland) 1997[^f00006];
+  - (b) in relation to chemists, the terms of service contained or referred to in Schedule 2 to the Pharmaceutical Services Regulations (Northern Ireland) 1997; and
+  - (c) in relation to dental practitioners, the terms of service contained or referred to in Schedule 2 to the Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^f00007];
+- “the Travelling Expenses and Remission of Charges Regulations” means the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 1989[^f00008]; and
+- “treatment” includes examination and diagnosis.
+
+(2) The specified description of nurse or health visitor mentioned in the definition of “prescription form” in paragraph (1) is—
+
+- (a) a person who—
+  - (i) is registered in Part 1 or 12 of the Register maintained by the United Kingdom Central Council for Nursing, Midwifery and Health Visiting under section 10 of the Nurses, Midwives and Health Visitors Act 1979[^f00009] (referred to in this paragraph as “the professional register”); and
+  - (ii) has a district nursing qualification additionally recorded in the professional register under rule 11 of the Nurses, Midwives and Health Visitors Rules 1983[^f00010]; and
+  - (iii) is at the time of ordering the listed drug or medicine or appliance, employed by a Board or an HSS Trust as a district nurse, or employed as a nurse by a fund-holding practice whose recognition as such by virtue of Article 17 of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00011] (recognition of fundholding practices of doctors) has taken effect; or
+- (b) a person who—
+  - (i) is registered in Part 11 of the professional register as a health visitor; and
+  - (ii) is, at the time of ordering the drug or medicine or appliance, employed by a Board or an HSS Trust as a health visitor, or employed as a nurse by a fund-holding practice whose recognition as such by virtue of Article 17 of the Health and Personal Social Services (Northern Ireland) Order 1991 has taken effect; and
+
+  against whose name (in each case) is recorded in the professional register an annotation signifying that he is qualified to order drugs, medicines and appliances for patients.
+
+(3) For the purposes of these Regulations the supply against an order on one prescription form—
+
+- (a) of quantities of the same drug in more than one container shall be treated as the supply of only one quantity of a drug;
+- (b) of more than one appliance of the same type, except in the case of elastic hosiery and tights, or of 2 or more component parts of the same appliance shall be treated as the supply of only one appliance.
+
+## 3. Supply of drugs and appliances by chemists[^key-47fc89c3e44b73b80283453c0f5945a4]
+
+(1) A chemist who provides pharmaceutical services to a patient shall, subject to paragraph (2), make and recover from that patient—
+
+- (a) in respect of an item of elastic hosiery a charge of £5·65, that is to say a charge of £11·30 per pair;
+- (b) in respect of the supply of each other appliance and of each quantity of a drug, a charge of £5·65.
+
+(2) No charge shall be made and recovered under paragraph (1) where there is exemption under regulation 7, or there is entitlement to remission of the charge under regulation 3 of the Travelling Expenses and Remission of Charges Regulations and a declaration of entitlement to exemption or remission on the prescription form is duly completed by or on behalf of the patient.
+
+(3) For the purposes of this regulation, where a drug ordered on a single prescription form is supplied by instalments, the charge of £5·65 payable for that drug shall be payable upon the supply of the first instalment.
+
+(4) A chemist, notwithstanding the provisions of his terms of service, shall be under no obligation to provide pharmaceutical services in respect of an order on a prescription form unless he is first paid by the patient any charge required to be made and recovered by paragraph (1) in respect of that order.
+
+(5) A chemist who makes and recovers a charge under paragraph (1) shall, if so required by the patient, give him a receipt for the amount received on a form provided for the purpose by the Agency which shall contain forms of declaration in support of an application for repayment and information as to whom an application for repayment shall be made.
+
+(6) Any sum which would otherwise by payable by the Agency to a chemist in respect of the provision by him of pharmaceutical services shall be reduced by the amount of any charges which are required to be made and recovered by the preceding provisions of this regulation.
+
+## 4. Supply of drugs and appliances by doctors[^key-1af1d91b0403bdadf1624ac1eb0a78f4]
+
+(1) A doctor who provides pharmaceutical services to a patient shall, subject to paragraph (2), make and recover from that patient—
+
+- (a) in respect of the supply of an item of elastic hosiery a charge of £5·65, that is to say a charge of £11·30 per pair;
+- (b) in respect of the supply of each other appliance and of each quantity of a drug, a charge of £5·65.
+
+(2) No charge shall be made and recovered under paragraph (1) where there is exemption under regulation 7, or there is entitlement to remission of the charge under regulation 3 of the Travelling Expenses and Remission of Charges Regulations, and a declaration of entitlement to exemption or remission on the prescription form is duly completed by or on behalf of the patient.
+
+(3) For the purposes of this regulation, where a drug ordered on a single prescription form is supplied by instalments, the charge of £5·65 payable for that drug shall be payable upon the supply of the first instalment.
+
+(4) A doctor shall, notwithstanding the provisions of his terms of service, be under no obligation to provide pharmaceutical services for which a charge is required to be made and recovered under paragraph (1) unless he is first paid the amount of that charge by the patient.
+
+(5) A doctor who makes and recovers a charge under paragraph (1) shall, if so required by the patient, give him a receipt for the amount received on a form provided for the purpose by the Agency which shall contain forms of declaration in support of an application for repayment and information as to whom an application for repayment shall be made.
+
+(6) A doctor shall as soon as practicable after the end of each month send a sum of money, equal to the total of the charges required to be made an recovered by him under paragraph (1) during that month, to the Agency.
+
+(7) Nothing in this regulation shall authorise the payment of a charge where the drug or appliance supplied either—
+
+- (a) is needed for immediate treatment and no order for the drug or appliance is made on a prescription form; or
+- (b) is administered or applied to the patient by the doctor personally.
+
+## 5. Supply of drugs and appliances by a Board or an HSS trust[^key-91fac6f1d9e08e4f978c8efd25b19007]
+
+(1) A Board or an HSS trust which supplies to a patient, for the purposes of his treatment, drugs (otherwise than for administration at a hospital) or appliances shall, subject to paragraph (2), make and recover from the patient—
+
+- (a) in respect of an item of elastic hosiery a charge of £5·65, that is to say a charge of £11·30 per pair;
+- (b) in respect of an appliance specified in column (1) of Schedule 1, the charge specified in relation to it in column (2) of that Schedule;
+- (c) in respect of tights, a charge of £11·30;
+- (d) in respect of the supply of each other appliance and of each quantity of a drug, a charge of £5·65.
+
+(2) No charge shall be made and recovered under this regulation from a patient who—
+
+- (a) is for the time being resident in a hospital;
+- (b) is a person suffering from venereal disease, in respect of any drugs for the treatment of that disease;
+- (c) is supplied with any appliance and is under 16 years of age or under 19 years of age and receiving qualifying full-time education;
+- (d) is provided with repair or replacement of any appliance in consequence of a defect in the appliance as supplied;
+- (e) is exempt under regulation 7 and who provides such evidence of his exemption as the Board or the HSS trust may reasonably require; or
+- (f) is a person who is entitled to remission under regulation 3 of the Travelling Expenses and Remission of Charges Regulations and who provides such evidence of his entitlement as the Board or the HSS trust may reasonably require.
+
+(3) For the purposes of this regulation, where a drug is supplied by instalments, the charge of £5·65 payable for that drug shall be payable upon the supply of the first instalment.
+
+(4) A Board or an HSS trust which makes and recovers a charge under this regulation shall, if so required by the patient, give him a receipt for the amount received on a form which shall contain forms of declaration in support of an application for repayment and information as to whom an application for repayment shall be made.
+
+## 6. Supply, replacement and repair of appliances to out-patients by Boards and HSS trusts[^key-11efae82e56fc9738d7b3f43038de2f5]
+
+(1) Where an appliance supplied under arrangements made by a Board or an HSS trust is, at the request of the person supplied, of a more expensive type than the standard type, or where an appliance which has been so supplied is repaired under those arrangements, the Board or HSS trust may charge and recover from the person so supplied, or for whom such repair is undertaken, a sum representing the difference between the cost of supplying or repairing such appliance and the cost of supplying or repairing an appliance of the type which would normally be supplied.
+
+(2) Where an appliance supplied under arrangements made by a Board or an HSS trust requires to be replaced or repaired, and the Board or HSS trust has reason to believe that such replacement or repair is necessitated by an act or omission of the person supplied or (if it occurred when he was under sixteen years of age) of his or of the person having charge of him when it occurred, the Board or HSS trust may appoint a person or persons to investigate the matter.
+
+(3) The person or persons so appointed shall make such inquiry into the matter as they think fit, and if in their opinion the circumstances so require or if the person concerned so demands, the inquiry shall take the form of an oral hearing.
+
+(4) The persons holding such inquiry shall report to the Board or the HSS trust who shall determine whether the replacement or repair is necessitated by an act or omission of the person supplied or (if it occurred when he was under sixteen years of age) of his or of the person having charge of him when it occurred. The Board or HSS trust may, if it thinks fit, delegate the responsibility for determining whether the replacement or repair is necessitated by such an act or omission, to a committee of the Board or the HSS trust. The said committee may be appointed ad hoc or may be a standing committee appointed for the consideration of such questions.
+
+(5) The Board or the HSS trust may recover from the person supplied, or (if the act or omission necessitating repairs or replacement occurred when he was under sixteen years of age) the person having charge of him when it occurred, the whole or any part of the cost of replacement or repair of an appliance determined in the manner aforesaid to have been necessitated by an act or omission on the part of the person supplied or (if it occurred when he was under sixteen years of age) of his or of the person having charge of him when it occurred.
+
+## 7. Exemptions[^key-49191713ac1bf18d428ce07523024a77]
+
+(1) No charge shall be payable under regulation 3 or regulation 4 by—
+
+- (a) a person who is under 16 years of age;
+- (b) a person who is under 19 years of age and is receiving qualifying full-time education;
+- (c) a person who has attained the age of 60 years;
+- (d) a woman with a valid exemption certificate issued by the Agency on the ground that she is an expectant mother or has within the last 12 months given birth to a live child or a child registrable as still-born under the Births and Deaths Registration (Northern Ireland) Order 1976[^f00012];
+- (e) a person with a valid exemption certificate issued by the Agency on the ground that he is suffering from one or more of the following conditions—
+  - (i) permanent fistula (including caecostomy, colostomy, laryngostomy or ileostomy) requiring continuous surgical dressing or an appliance,
+  - (ii) forms of hypoadrenalism (including Addison’s disease) for which specific substitution therapy is essential,
+    - diabetes insipidus and other forms of hypopituitarism,
+    - diabetes mellitus where the treatment is other than by diet alone,
+    - hypoparathyroidism,
+    - myasthenia gravis,
+    - myxoedema,
+  - (iii) epilepsy requiring continuous anti-convulsive therapy,
+  - (iv) a continuing physical disability which prevents the patient from leaving his residence without the help of another person;
+- (f) a person with a valid exemption certificate issued by the Secretary of State in respect of the supply of drugs and appliances for the treatment of accepted disablement, but only in respect of those supplies to which the certificate relates;
+- (g) a person with a valid pre-payment certificate.
+
+(2) No charge shall be payable under regulation 5—
+
+- (a) in respect of the supply of an appliance specified in column (1) of Schedule 1, by a person of a description specified in paragraph (1)(*f*);
+- (b) in respect of the supply of an appliance not so specified or of drugs, by a person of a description specified in any of sub-paragraphs (*c*) to (*g*) of paragraph (1).
+
+(3) A charge referred to in column (2) of Schedule 1 shall, in the case of a person referred to in regulation 5 of the Travelling Expenses and Remission of Charges Regulations, be remitted to the extent specified in that regulation.
+
+(4) An exemption by reference to age or the validity of an exemption certificate shall be determined by reference to the age or validity on the day on which—
+
+- (a) in the case of pharmaceutical services provided by a chemist, the order for drugs or appliances is presented for dispensing;
+- (b) in any other case, the drugs or appliances are supplied.
+
+(5) Where a claim to exemption has been made but is not substantiated and in consequence of that claim a chemist, a doctor, a Board or an HSS trust has not recovered a charge in respect of the supply of any drugs or appliances, the Agency or the Board or the HSS trust shall recover such charge from the person concerned.
+
+## 8. Certificates of exemption — application and issue[^key-f9982523bc735d2360cb2c5f77309353]
+
+(1) A person who wishes to claim exemption under the provisions of regulation 7(1)(*d*), (*e*) or (*f*) shall apply for a certificate conferring exemption (in these Regulations referred to as an “exemption certificate”) to the Agency, in the case of an exemption under sub-paragraph (*d*) or (*e*) of the said regulation, on a form supplied for that purpose by the Agency and in the case of an exemption under sub-paragraph (*f*) of that regulation to the War Pensions Agency on a form supplied for that purpose by the Secretary of State.
+
+(2) The Agency, on being satisfied that an applicant is entitled to exemption under regulation 7(1)(*d*), shall issue an exemption certificate which shall be valid—
+
+- (a) in the case of an expectant mother until the end of her pregnancy and, where she gives birth to a live child or a child registrable as still-born under the Births and Deaths Registration (Northern Ireland) Order 1976, until the end of the period of 12 months beginning with the expected date of confinement;
+- (b) in the case of a mother who has given birth to a child, until the end of the period of 12 months beginning with the date of birth of that child.
+
+(3) The Agency, on being satisfied that an applicant, not being a person entitled to exemption under the provisions of regulation 7(1)(*a*), (*b*) or (*c*), is entitled to exemption under regulation 7(1)(*e*) shall issue to the applicant an exemption certificate which shall be valid for such period as it may determine.
+
+(4) The Secretary of State, on being satisfied that an applicant is entitled to exemption under regulation 7(1)(*f*), shall issue to the applicant an exemption certificate which shall be valid for such period as he may determine.
+
+## 9. Pre-payment certificates[^key-f35f97ba4d78b8648275aadfc66855d3]
+
+(1) Subject to the following provisions of this regulation, the Agency or a chemist on payment by any person of the relevant sum prescribed by paragraph (5) may grant that person a certificate (in these Regulations referred to as a “pre-payment certificate”).
+
+(2) A pre-payment certificate shall be valid for a period of either 4 months or 12 months.
+
+(3) A pre-payment certificate which is granted confers on the person to whom it is granted exemption as provided by regulation 7 in respect of drugs and appliances supplied during the period for which it is valid.
+
+(4) No pre-payment certificate shall be granted unless payment of the prescribed sum is received less than one month before the date on which its period of validity is to begin.
+
+(5) For the purposes of this regulation the prescribed sum shall be £29·30 for a pre-payment certificate valid for 4 months and £80·50 for a pre-payment certificate valid for 12 months.
+
+(6) Where payment of a prescribed sum has been made under this regulation and, not more than one month after the date on which his certificate became valid, the person in respect of whom payment was made—
+
+- (a) dies; or
+- (b) becomes a person to whom any of the provisions of regulation 7(1)(*b*) to (*f*) applies; or
+- (c) becomes entitled to remission under regulation 3 of the Travelling Expenses and Remission of Charges Regulations; or
+- (d) becomes resident in a hospital and thereafter either—
+  - (i) dies while resident in hospital before the expiry of the pre-payment certificate; or
+  - (ii) remains in hospital until the expiry of the pre-payment certificate,
+
+  an application for repayment of that sum may be made, by or on behalf of that person or his estate, in accordance with paragraphs (7) and (8).
+
+(7) An application under paragraph (6) shall be made to the Agency and shall be accompanied by the certificate (where granted) and a declaration in support of the claim, and the claim and any repayment shall be made in such manner and subject to such conditions as the Department may determine.
+
+(8) An application under paragraph (6) shall be made—
+
+- (a) in a case falling within paragraph (6)(*a*), (*b*) or (*c*), not more than four months after the date on which the pre-payment certificate became valid;
+- (b) in a case falling within paragraph (6)(*d*)(i), not more than three months after the date of death; or
+- (c) in a case falling within paragraph (6)(*d*)(ii), not more than three months after the date on which the pre-payment certificate expired.
+
+## 10. Repayment of charges[^key-4111bba95278b111a70945c5f77a03d4]
+
+(1) Where a charge has been paid under these Regulations by or on behalf of a person who was at the time of payment exempt from the requirement to pay that charge, an application for repayment of that charge may be made in accordance with paragraph (2) by or on behalf of that person.
+
+(2) The application for repayment shall—
+
+- (a) be made to the person or body specified in the receipt which is given under regulation 3(5), 4(5) or 5(4) as being the person or body to whom application for repayment of charges is to be made;
+- (b) be made in such form and manner as the Department may determine for the applicant, any class of applicant or applicants generally;
+- (c) be made within 3 months from the date the drug or appliance was supplied to the applicant or within such further period as the Department may, for good cause, allow;
+- (d) be accompanied by the receipt for the charge paid and a declaration as to the grounds of exemption.
+
+(3) In the case of a charge under regulation 5 in respect of an appliance specified in column (1) of Schedule 1, the application shall be accompanied by the exemption certificate referred to in regulation 7(1)(*f*) and, if the patient was referred by a doctor to a Board or an HSS trust for treatment, either—
+
+- (a) a certificate from the doctor certifying that the treatment was for accepted disablement; or
+- (b) a statement that such a certificate was surrendered to the Board or HSS trust on or before the supply of the appliance.
+
+(4) The Department shall make arrangements for the repayment of any charge paid under these Regulations by a person who is entitled to exemption.
+
+## 11. Revocations[^key-eaa223dd3f29e4f363b20b05f6f2fc2d]
+
+The Regulations mentioned in columns (1) and (2) of Schedule 2 are hereby revoked.
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+Joan Dixon
+
+Assistant Secretary
+
+15th August 1997.
+
+The Department of Finance and Personnel hereby approves the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on
+
+D. Thomson
+
+Assistant Secretary
+
+15th August 1997.
+
+## SCHEDULE 1 — Charges for Fabric Supports and Wigs[^key-636ac1b18eda857ce12b231ea5d62fd7]
+
+Regulation 5
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th></tr>
+<tr><th><em>Specified Appliance</em></th><th><em>Specified Charge</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Surgical Brassiere</td><td>£19·75</td></tr>
+<tr><td>Abdominal or Spinal Support</td><td>£29·05</td></tr>
+<tr><td>Stock Modacrylic Wig</td><td>£47·00</td></tr>
+<tr><td>Partial Human Hair Wig</td><td>£123·00</td></tr>
+<tr><td>Full Bespoke Human Hair Wig</td><td>£179·50</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — Regulations revoked[^key-309a4822b8ad3769bf69f16638ddb2c0]
+
+Regulation 11
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th></tr>
+<tr><th><em>Regulations revoked</em></th><th><em>Reference</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Health and Personal Social Services Charges for Drugs and Appliances Regulations (Northern Ireland) 1973</td><td><a href="https://www.legislation.gov.uk/nisro/1973/419">S.R. &amp; O. 1973 No. 419</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1974</td><td><a href="https://www.legislation.gov.uk/nisr/1974/58">S.R. 1974 No. 58</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1974</td><td><a href="https://www.legislation.gov.uk/nisr/1974/83">S.R. 1974 No. 83</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1975</td><td><a href="https://www.legislation.gov.uk/nisr/1975/179">S.R. 1975 No. 179</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1975</td><td><a href="https://www.legislation.gov.uk/nisr/1975/317">S.R. 1975 No. 317</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 3) Regulations (Northern Ireland) 1975</td><td><a href="https://www.legislation.gov.uk/nisr/1975/370">S.R. 1975 No. 370</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1976</td><td><a href="https://www.legislation.gov.uk/nisr/1976/336">S.R. 1976 No. 336</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1979</td><td><a href="https://www.legislation.gov.uk/nisr/1979/215">S.R. 1979 No. 215</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1980</td><td><a href="https://www.legislation.gov.uk/nisr/1980/76">S.R. 1980 No. 76</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1980</td><td><a href="https://www.legislation.gov.uk/nisr/1980/366">S.R. 1980 No. 366</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1981</td><td><a href="https://www.legislation.gov.uk/nisr/1981/63">S.R. 1981 No. 63</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1981</td><td><a href="https://www.legislation.gov.uk/nisr/1981/137">S.R. 1981 No. 137</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 3) Regulations (Northern Ireland) 1981</td><td><a href="https://www.legislation.gov.uk/nisr/1981/382">S.R. 1981 No. 382</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1982</td><td><a href="https://www.legislation.gov.uk/nisr/1982/62">S.R. 1982 No. 62</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1983</td><td><a href="https://www.legislation.gov.uk/nisr/1983/34">S.R. 1983 No. 34</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1983</td><td><a href="https://www.legislation.gov.uk/nisr/1983/321">S.R. 1983 No. 321</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1984</td><td><a href="https://www.legislation.gov.uk/nisr/1984/66">S.R. 1984 No. 66</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1985</td><td><a href="https://www.legislation.gov.uk/nisr/1985/47">S.R. 1985 No. 47</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1986</td><td><a href="https://www.legislation.gov.uk/nisr/1986/68">S.R. 1986 No. 68</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1987</td><td><a href="https://www.legislation.gov.uk/nisr/1987/108">S.R. 1987 No. 108</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/79">S.R. 1988 No. 79</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/396">S.R. 1988 No. 396</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/99">S.R. 1989 No. 99</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1990</td><td><a href="https://www.legislation.gov.uk/nisr/1990/100">S.R. 1990 No. 100</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1991</td><td><a href="https://www.legislation.gov.uk/nisr/1991/114">S.R. 1991 No. 114</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/154">S.R. 1992 No. 154</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/140">S.R. 1993 No. 140</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/124">S.R. 1994 No. 124</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/135">S.R. 1995 No. 135</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment No. 2) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/402">S.R. 1995 No. 402</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/112">S.R. 1996 No. 112</a></td></tr>
+<tr><td>Charges for Drugs and Appliances (Amendment Regulations (Northern Ireland) 1997</td><td><a href="https://www.legislation.gov.uk/nisr/1997/125">S.R. 1997 No. 125</a></td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations consolidate with amendments the Regulations which provide for the making and recovery of charges for drugs and appliances (other than dental and optical appliances) supplied under the Health and Personal Social Services (Northern Ireland) Order 1972.
+
+Accordingly, these Regulations provide for charges for drugs and appliances supplied by chemists and doctors providing pharmaceutical services (regulations 3 and 4) and by Boards and HSS trusts to patients who are not resident in hospital (regulation 5).
+
+The Regulations provide in addition for—
+
+- the reduction of a chemist’s remuneration by the amount of the charge recoverable under the Regulations (regulation 3(6));
+- a doctor providing pharmaceutical services to send each month a sum equal to the total of the charges recovered under the Regulations to the Central Services Agency (regulation 4(6));
+- the remission of charges (regulations 3(2), 4(2), 5(2) and 7);
+- the application for and the issue of exemption certificates (regulations 2(1) and 8);
+- the payment for certificates granting exemption from charges otherwise payable under these Regulations (regulation 9);
+- the repayment of charges (regulation 10); and
+- the revocation of the superseded Regulations on charges for drugs and appliances (regulation 12).
+
+The Regulations include a new provision which requires patients, who obtain drugs from a dispensing doctor, and who are claiming entitlement to exemption or remission from charges, to make a written declaration on the prescription form to that effect (regulation 4(2)).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 98 was amended by Article 34 of, and Part II of Schedule 5 to, the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)); Schedule 15 was amended by Article 17 of, and Part I of Schedule 6 to, the Health and Social Security (Northern Ireland) Order 1984 ([S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158)); Article 7 of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 14(2) of the Social Security (Northern Ireland) Order 1988 ([S.I. 1988/594 (N.I. 2)](https://www.legislation.gov.uk/nisi/1988/594)) and Article 34 of, and Part II of Schedule 5 to, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^f00002]: Footnote: Formerly the Department of Finance; *see* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
+
+[^key-8f09a52f8e4d17af0643f882eb1509e8]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-ec445b1858757538ee18d56a941fc0d7]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^f00003]: Footnote: Article 63(1) and (4) was substituted by Article 14 of the Health and Personal Social Services (Northern Ireland) Order 1978 ([S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)); Article 63(1) was amended by Article 31(1)(*a*) of the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^f00004]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
+
+[^f00005]: Footnote: [S.R. 1997 No. 380](https://www.legislation.gov.uk/nisr/1997/380)
+
+[^f00006]: Footnote: [S.R. 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381)
+
+[^f00007]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326); to which there are amendments not relevant to these Regulations
+
+[^f00008]: Footnote: [S.R. 1989 No. 348](https://www.legislation.gov.uk/nisr/1989/348); relevant amending Regulations are [S.R. 1993 No. 161](https://www.legislation.gov.uk/nisr/1993/161), [S.R. 1995 No. 138](https://www.legislation.gov.uk/nisr/1995/138) and [S.R. 1996 No. 107](https://www.legislation.gov.uk/nisr/1996/107)
+
+[^f00009]: Footnote: [1979 c. 36](https://www.legislation.gov.uk/ukpga/1979/36); the Parts of the professional register are determined by [S.I. 1983/667](https://www.legislation.gov.uk/uksi/1983/667), amended by [S.I. 1989/104](https://www.legislation.gov.uk/uksi/1989/104) and [1989/1455](https://www.legislation.gov.uk/uksi/1989/1455)
+
+[^f00010]: Footnote: Approved by [S.I. 1983/873](https://www.legislation.gov.uk/uksi/1983/873), to which there are amendments not relevant to these Regulations
+
+[^f00011]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^key-47fc89c3e44b73b80283453c0f5945a4]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-1af1d91b0403bdadf1624ac1eb0a78f4]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-91fac6f1d9e08e4f978c8efd25b19007]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-11efae82e56fc9738d7b3f43038de2f5]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-49191713ac1bf18d428ce07523024a77]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^f00012]: Footnote: [S.I. 1976/1041 (N.I. 14)](https://www.legislation.gov.uk/nisi/1976/1041)
+
+[^key-f9982523bc735d2360cb2c5f77309353]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-f35f97ba4d78b8648275aadfc66855d3]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-4111bba95278b111a70945c5f77a03d4]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-eaa223dd3f29e4f363b20b05f6f2fc2d]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-636ac1b18eda857ce12b231ea5d62fd7]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+
+[^key-309a4822b8ad3769bf69f16638ddb2c0]: Commencement: Sch. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)

@@ -1,0 +1,246 @@
+---
+title: The Zoonoses (Monitoring) Regulations (Northern Ireland) 2008
+id: nisr/2008/340
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-08-07'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/340
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/340/pdfs/nisr_20080340_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/340/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Zoonoses (Monitoring) Regulations (Northern Ireland) 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 340
+
+Animals
+
+Animal Health
+
+The Zoonoses (Monitoring) Regulations (Northern Ireland) 2008
+
+Made
+
+*7th August 2008*
+
+Coming into operation
+
+*31st August 2008*
+
+The Department of Agriculture and Rural Development, under the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] makes the following Regulations in exercise of the powers conferred on it by that section.
+
+It is designated[^f00002] for the purposes of that section in relation to measures in the veterinary and phytosanitary fields for the protection of public health.
+
+It has carried out the consultation required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
+
+## 1. Citation and commencement[^key-41d6f7a05b6060cd94dc4c80e8387b5b]
+
+These Regulations may be cited as the Zoonoses (Monitoring) Regulations (Northern Ireland) 2008 and come into operation on 31st August 2008.
+
+## 2. Interpretation[^key-f9c38426e0a48205afc90694711f0650]
+
+(1) In these Regulations—
+
+- “the Department” means the Department of Agriculture and Rural Development;
+- [^key-031e93c8a1e45cec7c5ab93a4cba41be]...
+- “inspector” means a person appointed by the Department to be an inspector for the purposes of these Regulations.
+
+(2) Expressions that are not defined in these Regulations and occur in the Directive have the same meaning in these Regulations as they have for the purposes of the Directive.
+
+(2A)[^key-25ad2d88000787b24d5c405a5bba9202] In paragraph (2), “**the Directive**” means Directive [2003/99/EC](https://www.legislation.gov.uk/eudr/2003/99) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents .
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Competent authority[^key-0d9c2ce41f46357765a1f932d26cbc81]
+
+The Department is the competent authority for the purposes of Articles 3(2), 6(1) and 8(2) of the Directive in so far as that Directive relates to animals.
+
+## 4. Powers of entry[^key-e3730fa6ccd7d8526d72da59c192dd22]
+
+(1) An inspector shall, on producing (if so required) some duly authenticated document showing his authority, have a right at all reasonable hours, to enter any premises on which any animal or animal feedingstuff is, or has been, present for the purpose of—
+
+- (a) determining whether any zoonosis listed in the Schedule or any zoonotic agent of any such zoonoses exists or has existed there;
+- (b) determining whether there is evidence of antimicrobial resistance in any such zoonotic agent or in any other agent that presents a threat to public health;
+- (c) determining, if the epidemiological situation so requires, whether—
+  - (i) any other zoonosis or zoonotic agent exists or has existed there,
+  - (ii) there is evidence of antimicrobial resistance in any such zoonotic agent,
+  - (iii) any agent of any infection that exists or has existed on those premises is transmissible directly or indirectly from animals to humans,
+  - (iv) any agent of any infection that is, or may be, transmissible directly from animals to humans exists, or has existed, on those premises; or
+- (d) the enforcement of these Regulations.
+
+(2) Paragraph (1) does not apply to admission to any premises used only as a private dwelling-house unless—
+
+- (a) 24 hours notice of the intended entry has been given to the occupier; or
+- (b) the entry is in accordance with a warrant granted under this regulation.
+
+(3) If a lay magistrate, on sworn information in writing, is satisfied that there are reasonable grounds for entry into any premises for the purposes of the enforcement of these Regulations, and—
+
+- (a) admission has been refused, or a refusal is expected, and (in either case) notice to apply for a warrant has been given to the occupier;
+- (b) asking for admission, or the giving of such a notice, would defeat the object of the entry;
+- (c) the case is one of urgency; or
+- (d) the premises are unoccupied or the occupier is temporarily absent,
+
+the lay magistrate may by warrant signed by him authorise the inspector to enter the premises, if necessary by reasonable force.
+
+(4) A warrant under this regulation shall continue in operation for one month.
+
+(5) If an inspector enters any unoccupied premises he must leave them as effectively secured against unauthorised entry as he found them.
+
+(6) In this regulation “premises” includes any land, place, vehicle or trailer, container, stall, moveable structure, ship or aircraft.
+
+## 5. Powers of inspectors[^key-7d6bd164d0b63f6e7c356ddb7cb49324]
+
+An inspector entering premises under regulation 4 may—
+
+- (a) carry out such inquiries, examinations and tests and take such samples (including any animal carcase or any part of an animal carcase, blood, faecal material, feedingstuff, litter or animal product) as he considers necessary;
+- (b) examine any records in whatever form and take copies or print-outs of those records;
+- (c) mark, or cause to be marked, for identification purposes, any animal, animal carcase or thing in relation to which any of the powers under sub-paragraph (a) or (b) have been exercised;
+- (d) make inquiries of any person;
+- (e) place any equipment (including any trap) on the premises for the purpose of capturing or monitoring any wild animal (including any arthropod vector) or for detecting any micro-organism; and[^key-7a99431513c7bb383cb4e704305bac75]
+- (f) take with him any person, vehicle or equipment that he considers necessary for the execution of these Regulations; [^key-12f9381120b5889e6f2b6e3ef6973120]...
+- (g)[^key-12f9381120b5889e6f2b6e3ef6973120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Examination of isolates[^key-606030c2830cbf4fa81ffd798d95075b]
+
+(1) A food business operator responsible for primary production who examines an isolate, or causes an examination of an isolate to be carried out, in order to detect the presence of any zoonosis or zoonotic agent must—
+
+- (a) take all reasonable steps to ensure that the isolate is preserved for a period of at least two weeks from the date of the examination;
+- (b) keep the results of the examination for a period of 12 months from receipt; and
+- (c) supply those results to the Department immediately upon demand during that period.
+
+(2) Paragraph (1) does not apply to any sample taken for the purposes of The Control of Salmonella in Poultry Scheme Order (Northern Ireland) 2008[^f00006].
+
+## 7. Monitoring wild animals[^key-269ffe12fe982ce5bc5b01c342c38a99]
+
+If the Department prepares a programme for the monitoring of zoonoses and zoonotic agents in wild animals that includes the taking of—
+
+- (a) any sample from a live wild animal; or
+- (b) any egg or sample from the temporary or permanent resting place or nest of a wild animal,
+
+it must consult the Northern Ireland Environment Agency before monitoring commences.
+
+## 8. Offences and penalties[^key-314003d8e08fff23a65a60c6c64977c9]
+
+(1) A person commits an offence if he—
+
+- (a) administers any treatment to an animal with the intention of disguising any zoonosis or zoonotic agent;
+- (b) defaces, obliterates or removes any mark applied under regulation 5(c);
+- (c) removes or intentionally damages any equipment placed on premises under regulation 5(e);
+- (d) fails to comply with regulation 6(1);
+- (e) intentionally obstructs any person acting in the execution or enforcement of these Regulations;
+- (f) gives any information that he knows to be false or misleading to any person acting in the execution or enforcement of these Regulations;
+- (g) fails, without reasonable excuse—
+  - (i) to give any assistance or information that any person acting in the execution or enforcement of these Regulations may require him to give, or
+  - (ii) to produce any record that any person acting in the execution or enforcement of these Regulations may require him to produce,
+
+  for the performance of that person’s functions under these Regulations.
+
+(2) A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 7<sup>th</sup> August 2008.
+
+Elizabeth Redmond
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE — Zoonoses
+
+regulation 4(1)(a)
+
+**1.**[^key-726b1eb91c13f09e5e5f68487fae1fbb] Brucellosis
+
+**2.**[^key-3e0be9364b9b8dc8083dc8200d18d7da] Campylobacteriosis
+
+**3.**[^key-24a6c642226d2e74bec22846be555da0] Echinococcosis
+
+**4.**[^key-ea9460c85845d28fa530d2b88dc4d512] Listeriosis
+
+**5.**[^key-aa1eacb38e15992afc8155da3def64d5] Salmonellosis
+
+**6.**[^key-862d9172d10b01cb1fe40f3a949bec97] Trichinellosis
+
+**7.**[^key-532f0aaf3cf8607678ae168d8c531f13] Tuberculosis due to Mycobacterium bovis
+
+**8.**[^key-63fae6c9182a129c7f0106eba1ceb5f4] Verotoxigenic Escherichia coli
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide inspectors with powers of entry to monitor for zoonoses and antimicrobial resistance to zoonotic agents and other agents that pose a threat to public health, as required by Directive [2003/99/EC](https://www.legislation.gov.uk/european/directive/2003/0099) (on the monitoring of zoonoses and zoonotic agents, amending Council Decision [90/424/EEC](https://www.legislation.gov.uk/european/decision/1990/0424) and repealing Council Directive [92/117/EEC](https://www.legislation.gov.uk/european/decision/1992/0117)) (regulation 4).
+
+Regulation 5 sets out what inspectors may do on those premises, including take samples, examine records and make inquiries of any person.
+
+Regulation 6 requires food business operators involved in primary production to preserve isolates that have been tested for a zoonoses and to keep the results of those tests and provide them to the Department on demand.
+
+Regulation 7 requires the Department to consult the Northern Ireland Environment Agency in relation to any programme for the monitoring of zoonosis or zoonotic agents in wild animals that includes sampling of live wild animals, their nests or resting places.
+
+Regulation 8 creates offences for obstructing an inspector and sets out the applicable penalties.
+
+A transposition note and full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Animal Disease Control and Trade Policy Branch, Room 715, Dundonald House, Stormont Estate, Upper Newtownards Road, Belfast, BT4 3SB and is annexed to the Explanatory Memorandum which has been placed in the Library of the Assembly.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00002]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027)
+
+[^f00003]: Footnote: O.J. No. L 31, 1.2.2002, p.1, as amended by Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 8.4.2006, p. 3) and [Commission Regulation (EC) No 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J.No. L60, 5.3.2008, p17
+
+[^key-41d6f7a05b6060cd94dc4c80e8387b5b]: Commencement: Reg. 1 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-f9c38426e0a48205afc90694711f0650]: Commencement: Reg. 2 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-031e93c8a1e45cec7c5ab93a4cba41be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/340/regulation/2/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-25ad2d88000787b24d5c405a5bba9202]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2008/340/regulation/2/2A) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-0d9c2ce41f46357765a1f932d26cbc81]: Commencement: Reg. 3 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-e3730fa6ccd7d8526d72da59c192dd22]: Commencement: Reg. 4 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-7d6bd164d0b63f6e7c356ddb7cb49324]: Commencement: Reg. 5 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-7a99431513c7bb383cb4e704305bac75]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/nisr/2008/340/regulation/5/e) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-12f9381120b5889e6f2b6e3ef6973120]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/nisr/2008/340/regulation/5/g) and word omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-606030c2830cbf4fa81ffd798d95075b]: Commencement: Reg. 6 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^f00006]: Footnote: [S.R. 2008 No.263](https://www.legislation.gov.uk/nisr/2008/263)
+
+[^key-269ffe12fe982ce5bc5b01c342c38a99]: Commencement: Reg. 7 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-314003d8e08fff23a65a60c6c64977c9]: Commencement: Reg. 8 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-726b1eb91c13f09e5e5f68487fae1fbb]: Commencement: Sch. para. 1 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-3e0be9364b9b8dc8083dc8200d18d7da]: Commencement: Sch. para. 2 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-24a6c642226d2e74bec22846be555da0]: Commencement: Sch. para. 3 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-ea9460c85845d28fa530d2b88dc4d512]: Commencement: Sch. para. 4 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-aa1eacb38e15992afc8155da3def64d5]: Commencement: Sch. para. 5 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-862d9172d10b01cb1fe40f3a949bec97]: Commencement: Sch. para. 6 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-532f0aaf3cf8607678ae168d8c531f13]: Commencement: Sch. para. 7 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+
+[^key-63fae6c9182a129c7f0106eba1ceb5f4]: Commencement: Sch. para. 8 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)

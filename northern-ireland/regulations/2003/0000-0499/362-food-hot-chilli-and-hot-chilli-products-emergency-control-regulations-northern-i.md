@@ -1,0 +1,193 @@
+---
+title: Food (Hot Chilli and Hot Chilli Products) (Emergency Control) Regulations (Northern Ireland) 2003
+id: nisr/2003/362
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-07-31'
+text_date: '2004-01-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/362
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/362/pdfs/nisr_20030362_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/362/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Food (Hot Chilli and Hot Chilli Products) (Emergency Control) Regulations (Northern Ireland) 2003
+
+> Text as at 2004-01-28.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 362
+
+FOOD
+
+Food (Hot Chilli and Hot Chilli Products) (Emergency Control) Regulations (Northern Ireland) 2003
+
+Made
+
+31st July 2003
+
+Coming into operation
+
+1st August 2003
+
+The Department of Health, Social Services and Public Safety, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2), and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-418fa8e0a35d9bd13a930cd06684ccbe]
+
+These Regulations may be cited as the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) Regulations (Northern Ireland) 2003 and shall come into operation on 1st August 2003.
+
+## 2. Interpretation[^key-06a9929ad24af6e31570af4a6c295917]
+
+(1) In these Regulations –
+
+- “the Commission Decision” means the Commission Decision of 21st January 2004 on emergency measures regarding chilli and chilli products;[^key-255bbb70eee99e4027eb8a206b84ff55]
+- “controlled hot chilli and hot chilli products” means hot chilli and hot chilli products intended for human consumption;
+- “the Department” means the Department of Health, Social Services and Public Safety;
+- “free circulation” has the same meaning as in Article 23.2, as read with Article 24, of the Treaty establishing the European Community;
+- “hot chilli and hot chilli products” means –[^key-d11f6a486f0f42ad7ccbe6f6d95a532c]
+  - (a) fruits of the genus *Capsicum*, dried and crushed or ground within CN Code 09042090; and
+  - (b) curry powder within CN Code 091050;
+- “the Order” means the Food Safety (Northern Ireland) Order 1991[^f00005] and, subject to paragraph (2), any expression used both in these Regulations and in the Order has the meaning it bears in the Order.
+
+(2) Any term used in the definition of “hot chilli and hot chilli products” in paragraph (1) has the same meaning as in the Commission Decision.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Prohibition on import[^key-72c02891d73a7b1be9ab37bd8798e905]
+
+(1) Subject to paragraph (2), no person shall import any controlled hot chilli and hot chilli products unless –
+
+- (a) the conditions specified in Articles 2.1 and 3, 3.1 and 4 of the Commission Decision are satisfied in relation to those products; and
+- (b) the costs resulting from their analysis and storage specified in Article 6 of the Decision have been met.
+
+(2) Nothing in paragraph (1) shall be taken to prohibit the import from a member State of any controlled hot chilli and hot chilli products which are in free circulation in that State.
+
+(3) Any person who knowingly contravenes paragraph (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months.
+
+(4) For the purpose of determining whether or not any person is guilty of an offence consisting of a breach of paragraph (3), any hot chilli and hot chilli products shall be presumed until the contrary is proved to be controlled hot chilli and hot chilli products.
+
+## 4. Enforcement[^key-a0b8f9e553e79a7b1e7a7068f9a83c7b]
+
+(1) These Regulations shall be enforced and executed by each district council within its district.
+
+(2) For the purposes of the exercise of the duty referred to in paragraph (1), an authorised officer shall –
+
+- (a) ensure that the requirements referred to in paragraph (3) are adhered to; and
+- (b) have the same powers of entry as are bestowed on an authorised officer by Article 33 of the Order for purposes connected with the Order or Regulations or orders made under the Order.
+
+(3) The requirements are those specified in –
+
+- (a) Article 2.1 and 2 of the Commission Decision (which is concerned with documentary checks relating to consignments of controlled hot chilli and hot chilli products);
+- (b) Article 3 of that Decision (which is concerned with the sampling and analysis of such consignments), other than the requirement to supply the Commission with specified information; and
+- (c) Article 4 of that Decision (which is concerned with the case where consignments are split).
+
+(4) Each district council shall give such assistance and information to the Department and the Food Standards Agency as they may reasonably request in connection with the execution and enforcement of these Regulations.
+
+## 5. Application of various provisions of the Order and sampling and analysis[^key-ea5c004a9b6ee0bea2d1652aa165a50b]
+
+(1) The following provisions of the Order shall apply for the purposes of these Regulations and any reference in those provisions to the Order shall be construed, for the purposes of these Regulations, as a reference to these Regulations –
+
+- (a) Article 19 (offences due to fault of another person);
+- (b) Article 34 (obstruction, etc., of officers);
+- (c) Article 36(1) (punishment of offences), in so far as it relates to offences under Article 34(1) and (2) as applied by sub-paragraph (b).
+
+(2) Article 29 of the Order (procurement of samples) shall apply for the purposes of these Regulations with the modifications that –
+
+- (a) for paragraph (b)(ii) there shall be substituted the following provision –
+
+  > - (ii) is found by him at any premises which he is authorised to enter by virtue of regulation 4(2)(b) of the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) Regulations (Northern Ireland) 2003;
+
+  ;
+- (b) paragraph (c) shall be omitted; and
+- (c) for “any of the provisions of this Order or of regulations or orders made under it” in paragraph (d) there shall be substituted “the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) Regulations (Northern Ireland) 2003”.
+
+(3) Where a sample procured under Article 29 of the Order as applied for the purposes of these Regulations by paragraph (2) has been analysed in accordance with the provisions of Article 30 of the Order, the owner shall be entitled on request to be supplied with a copy of the certificate of analysis by the district council.
+
+## 6. Destruction of illegal imports[^key-2c82eb9987d6e6cb66e3504300556257]
+
+(1) If on an inspection or examination of any hot chilli and hot chilli products it appears to an authorised officer that they have been imported in contravention of regulation 3(1) he may after appropriate consultation with a person appearing to him to be the importer serve on that person a notice ordering the destruction of the hot chilli and hot chilli products within such reasonable period as shall be so specified.
+
+(2)[^key-c649e70b9e4f848084165f381f3efd1e] The notice served under paragraph (1) shall state –
+
+- (a) the right of appeal to a court of summary jurisdiction; and
+- (b) the period within which such an appeal may be brought.
+
+(3) The person appearing to be the importer of hot chilli and hot chilli products in respect of which a notice has been served under paragraph (1) shall ensure that they are stored until destruction under the supervision of the authorised officer at such places and under such conditions as the authorised officer may in the notice direct.
+
+(4)[^key-18206fbe437aab4d6d04619a2eea0023] Any person who is aggrieved by a decision of an authorised officer to serve a notice under paragraph (1) may appeal to a court of summary jurisdiction, which shall determine whether the notice should be upheld or set aside.
+
+(5) The period within which such an appeal as is mentioned in paragraph (4) may be brought shall be 6 days, exclusive of Saturdays, Sundays and public holidays, from the date on which notice of the decision was served on the person desiring to appeal.
+
+(6) The procedure on an appeal to a court of summary jurisdiction under paragraph (4) shall be by way of notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981[^f00007].
+
+(7) If the court allows an appeal brought under paragraph (4) the district council concerned shall compensate the owner of the hot chilli and hot chilli products concerned for any depreciation in their value resulting from the action taken by the authorised officer.
+
+(8) Any disputed question as to the right to or the amount of any compensation payable under paragraph (7) shall be determined by a single arbitrator appointed, failing agreement between the parties, by the Department; and the provisions of the Arbitration Act 1996[^f00008] shall apply accordingly.
+
+(9) Any person who breaches the terms of a notice served under paragraph (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months.
+
+(10) The cost of storage of hot chilli and hot chilli products under this regulation shall be borne by the importer.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 31st July 2003.
+
+D. Kenny
+
+A Senior Officer of the
+
+Department of Health, Social Services and Public Safety
+
+(This note is not part of the Regulations.)
+
+These Regulations implement Commission Decision [2003/460/EC](https://www.legislation.gov.uk/european/decision/2003/0460) on emergency measures regarding hot chilli and hot chilli products (O.J. No. L154, 21.6.2003, p. 114) as corrected by a corrigendum published on 25th July 2003 (O.J. No. L186, 25.7.2003, p. 47).
+
+The Regulations –
+
+- (a) prohibit the importation of “controlled hot chilli and hot chilli products” (defined in regulation 2(1)), except where they are accompanied by an analytical report demonstrating that the product does not contain Sudan red 1 (CAS No. 842-07-9) (*regulation 3*);
+- (b) provide for their enforcement (*regulation 4*);
+- (c) apply with modifications certain provisions of the Food Safety (Northern Ireland) Order 1991 for the purposes of the Regulations and provide for sampling and analysis (*regulation 5*); and
+- (d) provide for the destruction of illegal imports of controlled hot chilli and hot chilli products (*regulation 6*).
+
+The CN codes referred to in the definition of “hot chilli and hot chilli products” are the code numbers of the combined nomenclature established by Regulation 2658/87 on the tariff and statistical nomenclature and on the customs tariff (O.J. No. L256, 7.9.87, p. 1).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-418fa8e0a35d9bd13a930cd06684ccbe]: Commencement: Reg. 1 in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/362/regulation/1)
+
+[^key-06a9929ad24af6e31570af4a6c295917]: Commencement: Reg. 2 in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/362/regulation/1)
+
+[^key-255bbb70eee99e4027eb8a206b84ff55]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/362/regulation/2/1) substituted (28.1.2004) by [Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/26)](https://www.legislation.gov.uk/nisr/2004/26), [regs. 1](https://www.legislation.gov.uk/nisr/2004/26/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2004/26/regulation/2/2/a)
+
+[^key-d11f6a486f0f42ad7ccbe6f6d95a532c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2003/362/regulation/2/1) substituted (28.1.2004) by [Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/26)](https://www.legislation.gov.uk/nisr/2004/26), [regs. 1](https://www.legislation.gov.uk/nisr/2004/26/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2004/26/regulation/2/2/b)
+
+[^f00005]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-72c02891d73a7b1be9ab37bd8798e905]: Commencement: Reg. 3 in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/362/regulation/1)
+
+[^key-a0b8f9e553e79a7b1e7a7068f9a83c7b]: Commencement: Reg. 4 in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/362/regulation/1)
+
+[^key-ea5c004a9b6ee0bea2d1652aa165a50b]: Commencement: Reg. 5 in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/362/regulation/1)
+
+[^key-2c82eb9987d6e6cb66e3504300556257]: Commencement: Reg. 6 in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/362/regulation/1)
+
+[^key-c649e70b9e4f848084165f381f3efd1e]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2003/362/regulation/6/2) substituted (28.1.2004) by [Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/26)](https://www.legislation.gov.uk/nisr/2004/26), [regs. 1](https://www.legislation.gov.uk/nisr/2004/26/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2004/26/regulation/2/3)
+
+[^key-18206fbe437aab4d6d04619a2eea0023]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2003/362/regulation/6/4) substituted (28.1.2004) by [Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/26)](https://www.legislation.gov.uk/nisr/2004/26), [regs. 1](https://www.legislation.gov.uk/nisr/2004/26/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2004/26/regulation/2/4)
+
+[^f00007]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^f00008]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)

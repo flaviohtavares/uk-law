@@ -1,0 +1,635 @@
+---
+title: Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015
+id: nisr/2015/27
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: null
+text_date: '2026-06-19'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/27
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/27/pdfs/nisr_20150027_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/27/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015
+
+> Text as at 2026-06-19.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 27
+
+Health And Personal Social Services
+
+Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015
+
+Made
+
+*30*th January 2015
+
+Coming into operation
+
+23rd February 2015
+
+The Department of Health, Social Services and Public Safety [^c22339021], in exercise of the powers conferred by Articles 42, 106(b) and 107(6) of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c22339031], in conjunction with the Department of Finance and Personnel, makes the following Regulations:
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 and shall come into operation on 23rd February 2015.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**authorised child**” means a child who—
+  - (a) has been granted leave to enter the United Kingdom with a parent or legal guardian for the purpose of the parent or legal guardian receiving a course of treatment in respect of which no charge may be made or recovered under regulation 11; or
+  - (b) is a child of an authorised companion;
+- “**authorised companion**” means a person who has been granted leave to enter the United Kingdom to accompany a person who is obtaining a course of treatment in respect of which no charge may be made or recovered under regulation 11;
+  - (a) obtaining a course of treatment in respect of which no charge may be made or recovered under regulation 11;[^key-9f7751e489543716de5736b32ea48c1b] or[^key-5cd3bd200a7ecf7b1316cfe030a42427]
+  - (b) ordinarily resident in Ukraine and is obtaining a course of treatment;
+- “**Board**” means the Regional Health and Social Care Board established under section 7 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c22339041];
+- “**child**” means a person who is—
+  - (a) under the age of sixteen; or
+  - (b) a qualifying young person within the meaning of section 138 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22339051] or section 142 of the Social Security Contributions and Benefits Act 1992 [^c22339061] (“Child” and “qualifying young person”;
+- “Continental Shelf” except in reference to a designated area of the Continental Shelf, means the sea bed and subsoil of the submarine area (other than in the Baltic or Mediterranean Seas, including the Adriatic and Aegean, or the Black Sea), adjacent to the coasts, lying north of the latitude of 25 degrees north and between the longitude of 30 degrees west and 35 degrees east, of the territory (including islands) of—
+  - (a) any country situated on the Continent of Europe; or
+  - (b) the Republic of Ireland;
+
+where the submarine area is outside the seaward limits of the territorial limits of those countries and the Republic of Ireland and is an area with respect to which the exercise by any of them of sovereign rights in accordance with international law is recognised by the Government of the United Kingdom;
+
+- “**core hours**” means the period beginning at 8am and ending at 6.30pm on any day from, and including, Monday to Friday except a public holiday and a local holiday agreed with the Board;
+- “**designated area of the Continental Shelf**” means any area which is for the time being designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964 [^c22339071] as an area within which the rights of the United Kingdom with respect to the sea bed and subsoil and their natural resources may be exercised;
+- [^key-8ad565506774b8c7a90c6cacecbef8cb]...
+- “**general health services**” means Part VI services being primary medical services, general dental services, general ophthalmic services or pharmaceutical services, provided under the Order;
+- “**GMS Contracts Regulations**” means the Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004 [^c22339091];
+- “**health professional**” means a person other than a social worker who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c22339101], (the Professional Standards Authority for Health and Social Care;
+- “**HSC trust**” means a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 [^c22339111];
+- “**the Order**” means the Health and Personal Social Services (Northern Ireland) Order 1972”;
+- [^key-05b378d731820cd7936f65fbebe012f5]...
+- [^key-3474346456f2a76ea8e34a585e6fc877]...
+- [^key-1d1754cb5dfbf0fb289bb563f2cdd1b6]...
+- “**Personal Dental Services**” means dental services of a kind that may be provided by a general dental practitioner in accordance with Part VI of the Order;
+- “**Primary Medical Services**” means services of a kind that may be provided by a general medical practitioner in accordance with arrangements under Article 57A of the Order;
+- “**reciprocal agreement**” means arrangements mutually agreed between the Government of the United Kingdom and the Government of a country or territory outside the United Kingdom for the provision of health care;
+- “**refugee**” means a person who is a refugee within the meaning of Article 1 of the Convention relating to the Status of Refugees 1951 [^c22339121] and Article 1 of the Protocol relating to the Status of Refugees 1967 [^c22339131] and any other person taking refuge in the territory of a member State with leave of the Government of that State;
+- “**regulation [(EC) 883/2004](https://www.legislation.gov.uk/eur/2004/883)**” means Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/883) of the European Parliament and of the Council of 29th April 2004 on the coordination of social security systems [^c22339141]
+- “**services forming part of health services**” means accommodation, services and other facilities provided under Article 5 of the Order (the Department's duty to provide accommodation and medical services, etc) and includes accommodation, services and other facilities provided by a HSC trust, but does not include any accommodation, service or facility made available or provided under—
+  - (a) Article 31 of the Order (accommodation and services for private patients);
+  - (b) Article 3(2) of the Health and Medicines (Northern Ireland) Order 1988 [^c22339151] (powers to make more income available for improving health services); or
+  - (c) paragraph 14 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991 [^c22339161] (accommodation and services for private patients of HSC trusts);
+- “**ship or vessel**” includes hovercraft;
+- “**treatment the need for which arose during the visit**” means—
+  - (a) diagnosis of symptoms or signs occurring for the first time after the visitor's arrival in the United Kingdom; or
+  - (b) treatment which, in the opinion of a medical practitioner or dental practitioner employed by, or under contract with, a Board or a HSC trust, is required promptly for a condition which—
+    - (i) arose after the visitor's arrival in the United Kingdom;
+    - (ii) became acutely exacerbated after the visitor's arrival; or
+    - (iii) but for the treatment would be likely to become acutely exacerbated after the visitor's arrival;
+- [^key-fd988e60e9143c37423dfd2b0666c0c9]...
+- “**visitor**” means a person not ordinarily resident in Northern Ireland.
+
+(2) In calculating a period of residence in Northern Ireland for the purposes of these Regulations, any interruption by reason of temporary absence of not more than 182 days shall be disregarded. The temporary absence cannot include an absence where the visitor was not lawfully entitled to enter or remain in the United Kingdom.
+
+## PART 2 — SERVICES FORMING PART OF HEALTH SERVICES
+
+### 3. Visitors to whom services forming part of health services shall be available
+
+Services forming part of health services shall be available to any visitor at a charge determined by the Department, subject to regulations 4 to 23.
+
+### 4. Services exempt from charges
+
+(1) Subject to paragraph (2), no charge may be made or recovered in respect of any services forming part of health services provided to a visitor which fall within the following paragraphs—
+
+- (a) accident and emergency services, whether provided at a hospital accident and emergency department, a minor injuries unit, or elsewhere, but not including any services provided—
+  - (i) after the visitor has been accepted as an in-patient; or
+  - (ii) at an outpatient appointment;
+- (b) services otherwise than at, or by staff employed to work at, or under the direction of a hospital;
+- (c) family planning services;
+- (d) treatment in respect of a disease listed in Schedule 1;
+- (e) treatment for sexually transmitted infections;
+- (f) treatment in respect of infection with any Human Immunodeficiency Virus;
+- (g) services provided to a visitor who is liable to be detained in a hospital or, received into guardianship under the Mental Health (Northern Ireland) Order 1986 [^c22339171] or any other transferred provision authorising orders for admission to, and detention in, hospital by reason of mental disorder; or
+- (h) treatment which is provided in circumstances where-
+  - (i) a requirement to submit to the form of treatment concerned is imposed by, or included in, an order of a court; and
+  - (ii) paragraph (g) does not apply.
+
+(2) The services listed in paragraph (1)(a) – (h) are not exempt from charge if it appears that the visitor has travelled to Northern Ireland specifically to receive those services.
+
+### 5. Visitors exempt from charges – lawful residence for 12 months
+
+(1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who has resided lawfully in the United Kingdom for a period of not less than twelve months immediately preceding the time when such services are provided.
+
+(2) Paragraph (1) does not apply to a person who has leave to enter the United Kingdom for the purpose of undergoing private medical treatment, or a person in relation to whom a determination under regulation 11 has been made.
+
+(3) Where a person meets the residence qualification in paragraph (1) on a date during a course of treatment for which charges could have been made prior to that date, no charge may be made in respect of services subsequently received.
+
+### 6. Visitors exempt from charges – presence for work, study etc, or to settle
+
+(1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who the Board or HSC trust is satisfied would be present for any purpose specified in paragraph (2)—
+
+- (a) in the United Kingdom;
+- (b) in a designated area of the Continental Shelf;
+- (c) in or over any area of the Continental Shelf; or
+- (d) on a stationary structure within the territorial waters of the United Kingdom
+
+if that visitor was present in Northern Ireland while being provided with the services forming part of health services.
+
+(2) The purposes specified for this paragraph are—
+
+- (a) engaging in employment with an employer which has its principal place of business in the United Kingdom or which is registered in the United Kingdom as a branch of an overseas company;
+- (b) being a self-employed person whose principal place of business is in the United Kingdom;
+- (c) working as a volunteer with a voluntary organisation that is providing a service to which Article 71 (arrangements with and assistance to voluntary organisations) of the Order applies, or a service similar to a relevant service as defined in sections 64 and 65 (financial and other assistance to certain voluntary organisations) of the Health Services and Public Health Act 1968 [^c22339181];
+- (d) pursuing a full time course of study which is—
+  - (i) substantially funded by the Northern Ireland departments, the Secretary of State, the Welsh Ministers or the Scottish Ministers; or
+  - (ii) of at least six months duration; or
+- (e) taking up permanent residence in the United Kingdom.
+
+### 7. Visitors exempt from charges – EU Rights
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who has entitlement to the provision of the services in question at no charge under or by virtue of any of the following—
+
+- (a) regulations made under article 48 of the Treaty on the Functioning of the European Union;
+- (b) an agreement entered into between the European Union and any other country;
+- (c) any other enforceable EU right [^c22339191]**.**
+
+### 8. Visitors exempt from charges – reciprocal agreements
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor where those services are provided in circumstances covered by a reciprocal agreement with a country or territory specified in Schedule 2.
+
+### 9. Visitors exempt from charges – refugees, asylum seekers and children in care
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who—
+
+- (a) has been granted temporary protection, asylum or humanitarian protection under the immigration rules made under section 3(2) (general provisions for regulation and control) of the Immigration Act 1971 [^c22339201];
+- (b) has made an application to be granted temporary protection, asylum or humanitarian protection under those rules; or
+- (c) is a child, taken into the care of an authority under the Children (Northern Ireland) Order 1995 [^c22339211].
+
+### 10. Visitors exempt from charges - human trafficking
+
+(1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor, where the competent authorities—
+
+- (a) consider there are reasonable grounds to believe that person is a victim within the meaning of Article 4 of the Convention, and the recovery and reflection period in relation to that person under Article 13 of the Convention has not yet expired; or
+- (b) have identified that person as a victim within the meaning of Article 4 of the Convention.
+
+(2) In this regulation “**the competent authorities**” means the competent authorities of the United Kingdom for the purposes of the Convention, and “**the Convention**” means the Council of Europe Convention on Action Against Trafficking in Human Beings [^c22339221].
+
+### 11. Visitors exempt from charges – exceptional humanitarian reasons
+
+(1) Where a visitor who has been granted leave to enter the United Kingdom for a course of treatment applies (or someone on his behalf applies) for exemption from charges for services forming part of health services, and the Department determines exceptional humanitarian reasons justify it, then no charge may be made or recovered in respect of that visitor and that course of treatment.
+
+(2) Such a determination may only be made by the Department if it is satisfied in the case of that visitor that—
+
+- (a) the treatment specified is not available in that person's home country;
+- (b) the necessary arrangements have been made for temporary accommodation for that person, any authorised companion and any authorised child for the duration of the course of treatment; and
+- (c) the necessary arrangements have been made for the return of that person, any authorised companion and any authorised child to their home country when the course of treatment is completed.
+
+### 12. Visitors exempt from charges – diplomats
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is a diplomatic agent for the purposes of the Articles of the Vienna Convention on Diplomatic Relations set out in Schedule 1 to the Diplomatic Privileges Act 1964 [^c22339231].
+
+### 13. Visitor exempt from charges – NATO forces
+
+(1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is a person to whom Article IX(5) of the North Atlantic Treaty Organisation Status of Forces Agreement [^c22339241] applies.
+
+(2) This regulation applies where the services in question cannot readily be provided by the medical services of the armed forces of the visitor's own country, or those of the United Kingdom.
+
+### 14. Visitors exempt from charges – long term visits by United Kingdom pensioners
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor whilst in the United Kingdom who is—
+
+- (a) in receipt of a retirement pension under the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22339251] or the Social Security Contributions and Benefits Act 1992 [^c22339261];
+- (b) resident in the United Kingdom for more than 182 days, and in another EEA state or Switzerland for less than 183 days each year; and
+- (c) not registered as a resident of another EEA state or Switzerland.
+
+### 15. Visitors exempt from charges – war pensioners and armed forces compensation scheme payment recipients
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is in receipt of—
+
+- (a) any pension or other benefit under a Personal Injuries Scheme or Service Pensions Instrument as defined in regulation 2(1) (interpretation) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland)1979 [^c22339271]; or
+- (b) a payment made under article 15(1)(c) (description of benefits – injury) or article 29(1) (description of benefits – death) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 [^c22339281].
+
+### 15A. Visitors exempt from charges – visitors from Ukraine[^key-0670fe844d8cff3717e3d44ff53d9c23]
+
+(1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who—
+
+- (a) is lawfully present in the United Kingdom, and
+- (b) is ordinarily resident in Ukraine.
+
+(2) This paragraph applies to a visitor who, during the relevant period—
+
+- (a) received services forming part of health services and who is exempt from charge by virtue of—
+  - (i) paragraph (1); or
+  - (ii) regulation 22(1)(ba) (family members of visitors); or
+- (b) received services forming part of health services the need for which arose during the visit and is exempt from charge by virtue of being—
+  - (i) an authorised companion; or
+  - (ii) authorised child
+
+  who has been granted leave to enter the United Kingdom to accompany a person who is exempt from charge under paragraph (1).
+
+(3) A visitor to whom paragraph (2) applies is to be treated for the purposes of these Regulations as if, at the time the services forming part of health services were provided, the visitor was a visitor in respect of whom no charge may be made or recovered for those services forming part of health services.
+
+(4) Where, in respect of a visitor to whom paragraph (2) applies, a charge determined by the Department in respect of services forming part of health services—
+
+- (a) is yet to be made, no charge shall be made;
+- (b) is yet to be recovered, no charge shall be recovered; or
+- (c) has been made and payment received in respect of the charge, the sum paid in respect of the charge shall be repaid.
+
+(5) In this regulation, the “**relevant period**” means the period from and including 24th February 2022 until the coming into operation of these Regulations.
+
+### 16. Visitors exempt from charges – Her Majesty's United Kingdom Forces, Crown servants and others
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is any of the following—
+
+- (a) a member of Her Majesty's United Kingdom forces;
+- (b) a Crown servant (other than a person falling within sub-paragraph (a)), recruited in the United Kingdom and employed by, or in the service of, the Government of the United Kingdom;
+- (c) an employee, recruited in the United Kingdom, of the British Council or the Commonwealth War Graves Commission;
+- (d) working in employment that is financed in part by the Government of the United Kingdom in accordance with arrangements with the Government of some other country or territory or a public body in such other country or territory.
+
+### 17. Visitors exempt from charges – former residents working overseas
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who—
+
+- (a) has at any time had not less than ten years continuous lawful residence in the United Kingdom; and
+- (b) is employed or self-employed outside the United Kingdom, provided that the period of employment or self-employment has lasted for no more than five years.
+
+### 18. Visitors exempt from charges – missionaries
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is working as a missionary for an organisation that is established in the United Kingdom, regardless of whether the missionary—
+
+- (a) derives a salary or wage from the organisation; or
+- (b) receives any type of funding or assistance from the organisation for the purposes of working overseas for the organisation.
+
+### 19. Visitors exempt from charges – prisoners and detainees
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor—
+
+- (a) who is detained in prison or in a young offenders centre provided by the Department of Justice under the Prison Act (Northern Ireland) 1953 [^c22339291] as extended by section 2 of the Treatment of Offenders Act (Northern Ireland) 1968 [^c22339301] or in a juvenile justice centre provided under Article 51 of the Criminal Justice (Children) (Northern Ireland) Order 1998 [^c22339311]; or
+- (b) who is detained under any of the following provisions—
+  - (i) Schedule 2 (administrative provisions as to control on entry etc) or 3 (supplementary provisions as to deportation) to the Immigration Act 1971 [^c22339321];
+  - (ii) section 62 (detention by Secretary of State) of the Nationality, Immigration and Asylum Act 2002 [^c22339331];
+  - (iii) section 40(7)(c) (searches: contracting out) of the Immigration, Asylum and Nationality Act 2006 [^c22339341];
+  - (iv) section 2 (detention) or 36 (detention) of the UK Borders Act 2007 [^c22339351].
+
+### 20. Visitors exempt from charges – employees on ships
+
+No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is employed on a ship or vessel registered in the United Kingdom.
+
+### 21. Visitors exempt from charges for treatment the need for which arose during the visit only
+
+(1) No charge may be made or recovered in respect of any services forming part of health services, consisting of treatment the need for which arose during the visit, provided to a visitor who is any of the following—
+
+- (a) in receipt of a pension or benefit under the Social Security Contributions and Benefits (Northern Ireland) Act 1992 or the Social Security Contributions and Benefits Act 1992 and has at any time had—
+  - (i) not less than ten years continuous lawful residence in the United Kingdom; or
+  - (ii) not less than ten years continuous service as a Crown servant employed by, or in the service of, the Government of the United Kingdom;
+- (b) resident in an EEA state, Switzerland or in a country or territory specified in Schedule 2 (except Israel) and has at any time had not less than ten years continuous lawful residence in the United Kingdom;
+- (c) a national of a state which is a contracting party to the European Convention on Social and Medical Assistance 1954 [^c22339361] or the European Social Charter 1961 [^c22339371] and is—
+  - (i) lawfully present in the United Kingdom; and
+  - (ii) without sufficient resources to pay the charge; or
+- (d) an authorised child or an authorised companion.
+
+(2) For the purposes of this regulation, “**treatment**” includes medical, dental and nursing services required for –
+
+- (a) the care of women who are pregnant or in childbirth; or
+- (b) the prevention or diagnosis of illness.
+
+### 22. Family members of visitors
+
+(1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is a member of the family of another visitor and is lawfully present in the United Kingdom if the other visitor is exempt from charges under any of the following regulations—
+
+- (a) regulation 10 (human trafficking);
+- (b) regulation 13 (NATO forces);
+- (ba)[^key-6d1d877207f2d5924368ae7d8a9a5a19] regulation 15A(1) (visitors from Ukraine);
+- (c) regulation 16 (Her Majesty's United Kingdom Forces, Crown servants and others);
+- (d) regulation 18 (missionaries).
+
+(2) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is a member of the family of another visitor and is lawfully present on a permanent basis with that other visitor whilst that other visitor is residing in or visiting the United Kingdom, if that other visitor is exempt from charges under any of the following regulations—
+
+- (a) regulation 5 (lawful residence for 12 months);
+- (b) regulation 6 (presence for work, study etc, or to settle);
+- (c) regulation 7 (EU Rights);
+- (d) regulation 9(a) (refugees);
+- (e) regulation 12 (diplomats);
+- (f) regulation 14 (long term visits by United Kingdom pensioners);
+- (g) regulation 15 (war pensioners and armed forces compensation scheme payment recipients);
+- (h) regulation 17 (former residents working overseas);
+- (i) regulation 19 (prisoners and detainees);
+- (j) regulation 20 (employees on ships).
+
+(3) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who is a member of the family of another visitor and is present with that other visitor whilst that other visitor is residing in or visiting the United Kingdom, if that other visitor is exempt from charges under—
+
+- (a) regulation 9(b) (asylum seekers ).
+
+(4) No charge may be made or recovered in respect of any services forming part of health services consisting of treatment the need for which arose during the visit, provided to a visitor who is a member of the family of another visitor and is lawfully present on a permanent basis with that other visitor whilst that other visitor is residing in or visiting the United Kingdom, if that other visitor is exempt from charges under regulation 8 (reciprocal agreements), or regulation 21(1) (a) or (b) (treatment the need for which arose during the visit only).
+
+(5) For the purposes of this regulation “**member of the family of a visitor**” means—
+
+- (a) the spouse or civil partner of a visitor; or
+- (b) a child in respect of whom a visitor is a parent or legal guardian.
+
+(6) None of the provisions in this regulation affect any entitlement which any member of the family of a visitor may have to the provision of any services forming part of health services by virtue of an enforceable EU right or any other exemption which they may be entitled to in their own right.
+
+### 23. Extent of exemption from charges
+
+Notwithstanding any provision in these Regulations, a visitor shall only be exempt from charges to the extent that charges would not be payable by a person ordinarily resident in Northern Ireland.
+
+## PART 3 — GENERAL HEALTH SERVICES
+
+### 24. Visitors to whom general health services shall be available
+
+(1) Subject to paragraph (2) general health services shall be available to a visitor who is exempt from charges under—
+
+- (a) regulation 5 (lawful residence for 12 months);
+- (b) regulation 6 (presence for work, study etc, or to settle);
+- (c) regulation 8 (reciprocal arrangements);
+- (d) regulation 9 (refugees, asylum seekers and children in care);
+- (e) regulation 10 (human trafficking);
+- (f) regulation 11 (exceptional humanitarian reasons)
+- (g) regulation 12 (diplomats);
+- (h) regulation 13 (NATO forces);
+- (i) regulation 14 (long term visits by United Kingdom pensioners);
+- (j) regulation 15 (war pensioners and armed forces compensation scheme payment recipients);
+- (ja)[^key-429db22c88eb548e5cbe7024262757d9] regulation 15A(1) (visitors from Ukraine);
+- (k) regulation 16 (Her Majesty's United Kingdom Forces, Crown servants and others);
+- (l) regulation 17 (former residents working overseas);
+- (m) regulation 18 (missionaries);
+- (n) regulation 19 (prisoners and detainees);
+- (o) regulation 20 (employees on ships);
+- (p) regulation 22 (family members of visitors);
+- (q) article 18(1) of Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883).
+
+(2) Where general health services are provided to a visitor under this regulation no charge may be made or recovered in respect of those services, except to the extent that charges would be payable by a person ordinarily resident in Northern Ireland.
+
+### 25. Visiting patients under Directive 2011/24/EU[^key-61adf58b4ca924d7746aa7da6c867f07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — TRANSITIONAL PROVISIONS AND REVOCATIONS
+
+### 26. Transitional provisions
+
+Any visitor to whom services forming part of health services were available under the terms of the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005 [^c22339401] and who is in Northern Ireland on a visit when those Regulations are revoked may, for the duration of that visit, retain any entitlement to health services on the terms set out in those Regulations.
+
+### 27. Revocations
+
+The following Regulations are revoked—
+
+- (a) Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005;
+- (b) Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2008 [^c22339411]; and
+- (c) Regulation 3 of The Charges for Drugs and Appliances and Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2009 [^c22339421]; and
+- (d) Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2013 [^c22339431]
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 30th January 2015
+
+Mark Lee
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 30th January 2015
+
+Joanne McBurney
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE 1 — DISEASES FOR WHICH NO CHARGE IS TO BE MADE FOR TREATMENT
+
+Regulation 4(1)(d)
+
+- Acute encephalitis
+- Acute poliomyelitis
+- Anthrax
+- Botulism
+- Bruscellosis
+- Cholera
+- Coronavirus Disease (COVID-19)[^key-e24b0a7ab8d8a52ec35c5ca159aafe89]
+- Diphtheria
+- Enteric fever (typhoid and paratyphoid fever)
+- Food poisoning
+- Haemolytic uraemic syndrome (HUS)
+- Hantavirus diseases, including hantavirus pulmonary or cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS)[^key-89992fb87628d44e35e2ef3e034e19fa]
+- Infectious bloody diarrhoea
+- Invasive group A streptococcal disease and scarlet fever
+- Invasive meningococcal disease (meningococcal meningitis, meningococcal septicaemia and other forms of invasive disease)
+- Legionnaires disease
+- Leprosy
+- Leptospirosis
+- Malaria
+- Measles
+- Monkeypox[^key-7400c864e65969d0c59ec685655b452e]
+- Mumps
+- Pandemic Influenza (defined as “phase 6” in the World Health Organisation's (“WHO”) influenza pandemic phrases, or influenza that might become pandemic (defined as “phase 4” or “Phase 5” by WHO)
+- Plague
+- Rabies
+- Rubella
+- Severe Acute Respiratory Syndrome (SARS)
+- Smallpox
+- Tetanus
+- Tuberculosis
+- Typhus
+- Viral haemorrhagic fevers
+- Viral hepatitis
+- Whooping cough
+- Yellow fever
+
+## SCHEDULE 2 — COUNTRIES OR TERRITORIES IN RESPECT OF WHICH THE UNITED KINGDOM GOVERNMENT HAS ENTERED INTO A RECIPROCAL AGREEMENT
+
+Regulation 8, 21(1)(b)
+
+- Anguila
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Australia
+- Bailiwick of Guernsey[^key-df8ac50468023c95f2df19cd2f33c2c2]
+- [^key-105572608afc656f908d5ac896938ca2]...
+- [^key-105572608afc656f908d5ac896938ca2]...
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Bosnia and Herzegovina[^key-b7c880f97bd63cd658a487c6a819a4c0]
+- British Virgin Islands
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Falkland Islands
+- Faroe Islands[^M_F_22742ff3-040f-40e0-e720-6d8ee179884d]
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Gibraltar
+- Iceland[^key-b9680184517fee73d416c9873858a7e8]
+- Ireland[^key-daf18e7d9b2c2b6db28db819f22a010d]
+- Isle of Man
+- Israel
+- Jersey
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Kosovo
+- Liechtenstein[^key-10f95c0c705fa92227f96016d45c9b02]
+- [^key-105572608afc656f908d5ac896938ca2]...
+- North Macedonia
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Montenegro
+- Montserrat
+- New Zealand
+- Norway
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Serbia
+- St. Helena
+- Switzerland
+- [^key-105572608afc656f908d5ac896938ca2]...
+- [^key-105572608afc656f908d5ac896938ca2]...
+- Turks & Caicos Islands
+- [^key-105572608afc656f908d5ac896938ca2]...
+- [^key-105572608afc656f908d5ac896938ca2]...
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005. The Regulations make available, to visitors in Northern Ireland, certain health services under the Health and Personal Social Services (Northern Ireland) Order 1972, at a charge determined by the Department of Health, Social Services and Public Safety, “the Department”. The Regulations go on to provide for various exemptions from charges: some services are always exempt from charge, some categories of visitor are exempt from charge.
+
+Regulation 3 provides that services forming part of health services (mainly secondary care services) shall be made available to any visitor, at a charge determined by the Department.
+
+Regulation 4 sets out specific services forming part of health services provided to visitors which are exempt from charges, including accident and emergency services, family planning services and treatment for diseases listed in Schedule 1 to these Regulations. It also provides that services forming part of health services which are exempt from charge under these Regulations shall be available to a visitor unless that person has travelled to Northern Ireland specifically to receive those services.
+
+Regulations 5 to 22 set out the circumstances in which a visitor is exempt from charges for any services forming part of health services, in the event the service is not one specified in regulation 4.
+
+Regulation 5 provides an exemption for a visitor who has lawfully resided in the United Kingdom for at least twelve months. Regulation 6 exempts a visitor who is present in the United Kingdom (or designated areas) for a specified purpose, such as employment. Regulation 7 provides exemption for a visitor who is entitled to the services at no charge by virtue of an enforceable European Union right. Regulation 8 provides an exemption for services provided to a visitor where those services are covered by the terms of a reciprocal agreement made between the United Kingdom and a country listed in Schedule 2 to these Regulations.
+
+Regulations 9 to 13 provide exemptions in certain circumstances for refugees, asylum seekers and children in care, for cases involving human trafficking, for exceptional humanitarian reasons, for diplomats and NATO forces. Regulations 14 and 15 provide exemptions from charges for United Kingdom pensioners who reside in another EEA State or Switzerland for a period not exceeding six months each year, and for those receiving any pension or benefit paid under certain war or armed forces compensation schemes. Regulation 16 provides an exemption for members of the United Kingdom forces, other Crown servants and others employed by certain public bodies. Regulations 17 to 20 provide exemptions in certain circumstances for former United Kingdom residents working overseas, missionaries, persons imprisoned or detained under specified enactments and employees on ships.
+
+Regulation 21 sets out the circumstances in which a visitor will be exempt from charges for services forming part of health services, the need for which arose during the visitor's visit to Northern Ireland. Regulation 22 sets out the conditions for which a family member of a visitor may also be exempt from charges for services forming part of health services.
+
+Regulation 23 provides that a visitor shall only be exempt from charges to the extent that charges would not be payable by a person ordinarily resident in Northern Ireland.
+
+Regulation 24 makes available general health services, (in accordance with Part VI of the Health and Personal Social Services (Northern Ireland) Order 1972 (mainly primary care services)), to various classes of persons eligible to avail of services forming part of health services at no charge, unless charges would be payable by a person ordinarily resident in Northern Ireland. The policy intention is to ensure access to health care at the most appropriate setting.
+
+Regulation 25 prescribes certain general health services which may be made available to visiting patients exercising rights under Directive 2011/24/EU on the application of patients' rights in cross border healthcare. Where these services are provided to a visiting patient, the charge is such as may be determined by the Department.
+
+Regulation 26 introduces transitional arrangements in respect of visitors who are in Northern Ireland on the date on which the revocation takes place, and who have an entitlement to services under the terms of the revoked Regulations, to enable them to retain entitlement for the duration of that visit.
+
+Regulation 27 provides for the revocation of the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005 and subsequent amendments thereto.
+
+## Annotations
+
+[^c22339021]: Marginal citation: See [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^c22339031]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
+
+[^key-9f7751e489543716de5736b32ea48c1b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/27/regulation/2) renumbered as paragraph (a) (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2022/174/regulation/2/a)
+
+[^key-5cd3bd200a7ecf7b1316cfe030a42427]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/27/regulation/2) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/174/regulation/2/b)
+
+[^c22339041]: Marginal citation: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
+
+[^c22339051]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7) section 138 was substituted by section 2(2) of the [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6)
+
+[^c22339061]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7) section 142 was substituted by section 1(2) of the [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6)
+
+[^c22339071]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)
+
+[^key-8ad565506774b8c7a90c6cacecbef8cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22339091]: Marginal citation: S.R. [2004 No. 140](https://www.legislation.gov.uk/ukcm/2004/140) as amended by S.R. [2004 No. 477](https://www.legislation.gov.uk/ukcm/2004/477), S.R. 2005 Nos. 230 and 368, S.R. [2006 No. 319](https://www.legislation.gov.uk/ukcm/2006/319), S.R. 2013 Nos. 59 and 301.
+
+[^c22339101]: Marginal citation: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25 has been amended by the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), [section 113](https://www.legislation.gov.uk/ukpga/2008/14/section/113), [Schedule 10](https://www.legislation.gov.uk/ukpga/2008/14/schedule/10), [paragraph 17](https://www.legislation.gov.uk/ukpga/2008/14/paragraph/17) and Schedule 15, Part 2; and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), [sections 220](https://www.legislation.gov.uk/ukpga/2012/7/section/220) and 224.
+
+[^c22339111]: Marginal citation: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^key-05b378d731820cd7936f65fbebe012f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3474346456f2a76ea8e34a585e6fc877]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/c) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1d1754cb5dfbf0fb289bb563f2cdd1b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(d)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/d) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22339121]: Marginal citation: Cmd. 9171 of 1954
+
+[^c22339131]: Marginal citation: Cmd. 3906 of 1968
+
+[^c22339141]: Marginal citation: OJ No. L166. 30.04.2004. p1
+
+[^c22339151]: Marginal citation: [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)
+
+[^c22339161]: Marginal citation: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^key-fd988e60e9143c37423dfd2b0666c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22339171]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
+
+[^c22339181]: Marginal citation: [1968 c.46](https://www.legislation.gov.uk/ukpga/1968/46)
+
+[^c22339191]: Marginal citation: For the expression “enforceable EU right” see [section 2(1)](https://www.legislation.gov.uk/nisr/2015/27/section/2/1) of the [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68) as amended by section3(3) of , and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7)
+
+[^c22339201]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
+
+[^c22339211]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^c22339221]: Marginal citation: Cmd 7465. The Council of Europe Convention on Action against Trafficking in Human Beings 2005 (CETS No. 197) was opened for signature in Warsaw on 16th May 2005
+
+[^c22339231]: Marginal citation: [1964 c.81](https://www.legislation.gov.uk/ukpga/1964/81)
+
+[^c22339241]: Marginal citation: Cmd 9363 of 1955. The Agreement was made in London on 19th June 1951. Article IX(5) provides for visiting forces to receive medical, dental and hospital services under the same conditions as comparable personnel of the receiving state where there are inadequate facilities where they are stationed
+
+[^c22339251]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^c22339261]: Marginal citation: 1992 c 4
+
+[^c22339271]: Marginal citation: S.R. [1979 No. 242](https://www.legislation.gov.uk/ukcm/1979/242) as amended by S.R. [1980 No. 451](https://www.legislation.gov.uk/ukcm/1980/451)
+
+[^c22339281]: Marginal citation: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517)
+
+[^key-0670fe844d8cff3717e3d44ff53d9c23]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2015/27/regulation/15A) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/174/regulation/3)
+
+[^c22339291]: Marginal citation: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
+
+[^c22339301]: Marginal citation: [1968 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1968/29)
+
+[^c22339311]: Marginal citation: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
+
+[^c22339321]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Relevant amendments to Schedule 2 are made by section 169(1) of, and paragraphs 43 and 60 of Schedule 14 to, the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33) (“**the 1999 Act**”), and section 140(1) of that Act, section 73(5) of the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) (“**the 2002 Act**”) and section 42(1) and (3) of the [Immigration Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) (“**the 2006 Act**”). Relevant amendments to Schedule 3 are made by section 64 of, and Schedule 10 to, the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [section 54](https://www.legislation.gov.uk/ukpga/1982/48/section/54) of the 1999 Act, and section 169(1) of, and paragraphs 43 and 68 of Schedule 14 to that Act, section 114(3) of, and paragraph 7 of Schedule 7 to, the 2002 Act, section 34 of the [Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), and section 53 of the 2006 Act.
+
+[^c22339331]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^c22339341]: Marginal citation: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^c22339351]: Marginal citation: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
+
+[^c22339361]: Marginal citation: Cmd. 9512. The European Convention on Social and Medical Assistance (CETS No. 14) was opened for signature in Paris on 11th December 1953.
+
+[^c22339371]: Marginal citation: Cmd. 1667. The European Social Charter (CETS No. 35) was opened for signature in Turin on 18th October 1961. Article 13 provides the right to social and medical assistance.
+
+[^key-6d1d877207f2d5924368ae7d8a9a5a19]: Textual amendment: [Reg. 22(1)(ba)](https://www.legislation.gov.uk/nisr/2015/27/regulation/22/1/ba) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2022/174/regulation/4)
+
+[^key-429db22c88eb548e5cbe7024262757d9]: Textual amendment: [Reg. 24(1)(ja)](https://www.legislation.gov.uk/nisr/2015/27/regulation/24/1/ja) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2022/174/regulation/5)
+
+[^key-61adf58b4ca924d7746aa7da6c867f07]: Textual amendment: Reg. 25 omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/3) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22339401]: Marginal citation: S.R. [2005 No. 551](https://www.legislation.gov.uk/ukcm/2005/551)
+
+[^c22339411]: Marginal citation: S.R. [2008 No. 377](https://www.legislation.gov.uk/ukcm/2008/377)
+
+[^c22339421]: Marginal citation: S.R. [2009 No. 186](https://www.legislation.gov.uk/ukcm/2009/186)
+
+[^c22339431]: Marginal citation: S.R. [2013 No. 302](https://www.legislation.gov.uk/ukcm/2013/302)
+
+[^key-e24b0a7ab8d8a52ec35c5ca159aafe89]: Textual amendment: Words in Sch. 1 inserted (7.3.2020) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/25)](https://www.legislation.gov.uk/nisr/2020/25), [regs. 1](https://www.legislation.gov.uk/nisr/2020/25/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/25/regulation/2)
+
+[^key-89992fb87628d44e35e2ef3e034e19fa]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/27/schedule/1) inserted (19.6.2026) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/122)](https://www.legislation.gov.uk/nisr/2026/122), [regs. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/122/regulation/2)
+
+[^key-7400c864e65969d0c59ec685655b452e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/27/schedule/1) inserted (7.7.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/195)](https://www.legislation.gov.uk/nisr/2022/195), [regs. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/195/regulation/2) (with [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2022/195/regulation/4/1/d))
+
+[^key-105572608afc656f908d5ac896938ca2]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) omitted (25.10.2021) by virtue of [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/c)
+
+[^key-df8ac50468023c95f2df19cd2f33c2c2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/a)
+
+[^key-b7c880f97bd63cd658a487c6a819a4c0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) substituted (25.10.2021) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/a)
+
+[^M_F_22742ff3-040f-40e0-e720-6d8ee179884d]: Textual amendment: Words in Sch. 2 inserted (25.10.2021) by The Provision of Health Services to [Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/b)
+
+[^key-b9680184517fee73d416c9873858a7e8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/b)
+
+[^key-daf18e7d9b2c2b6db28db819f22a010d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (25.10.2021) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/b)
+
+[^key-10f95c0c705fa92227f96016d45c9b02]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/c)

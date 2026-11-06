@@ -1,0 +1,164 @@
+---
+title: The Industrial Tribunals (Interest on Awards in Age Discrimination Cases) Regulations (Northern Ireland) 2006
+id: nisr/2006/262
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-06-13'
+text_date: '2020-01-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/262
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/262/pdfs/nisr_20060262_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/262/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Industrial Tribunals (Interest on Awards in Age Discrimination Cases) Regulations (Northern Ireland) 2006
+
+> Text as at 2020-01-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 262
+
+INDUSTRIAL TRIBUNALS
+
+AGE DISCRIMINATION
+
+The Industrial Tribunals (Interest on Awards in Age Discrimination Cases) Regulations (Northern Ireland) 2006
+
+Made
+
+13th June 2006
+
+Coming into operation
+
+1st October 2006
+
+The Office of the First Minister and deputy First Minister, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to discrimination[^f00002], in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-27350d524bdcaa00f60254da4c7380f1]
+
+(1) These Regulations may be cited as the Industrial Tribunals (Interest on Awards in Age Discrimination Cases) Regulations (Northern Ireland) 2006 and shall come into operation on 1st October 2006.
+
+(2) In these Regulations—
+
+- “the Age Regulations” means the Employment Equality (Age) Regulations (Northern Ireland) 2006[^f00003];
+- “an award under the Age Regulations” means an order under regulation 43(1)(b) of the Age Regulations for payment of compensation, but does not include an award in respect of costs, allowances or preparation time under Part 13 of Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020, even if that award is made in the same proceedings as such an order;[^key-e3b63146e1459510246fcfaf5747861e]
+- “tribunal” means an industrial tribunal established in pursuance of regulations made under, or having effect as if made under, Article 3 of the Industrial Tribunals (Northern Ireland) Order 1996[^f00005].
+
+(3) In these Regulations, any reference to a tribunal includes, in relation to an award under the Age Regulations, any tribunal which under Article 85 of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00006] has the jurisdiction, and exercises the powers, of the tribunal.
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Interest on awards[^key-9e19e8fd3bb80cb14c69ed112aba8dab]
+
+(1) Where, at any time after 1st October 2006 a tribunal makes an award under the Age Regulations—
+
+- (a) it may, subject to and in accordance with these Regulations, include interest on any sums so awarded; and
+- (b) it shall consider whether to do so, without the need for any application by a party in the proceedings.
+
+(2) Nothing in paragraph (1) shall prevent the tribunal from making an award or decision, with regard to interest, in terms which have been agreed between the parties.
+
+## 3. Rate of interest[^key-2f0b0ed2af3ecec035149c2313c752da]
+
+(1) Interest shall—
+
+- (a) subject to paragraph (2), be applied at the same rate as is in force, during the period for which it is to be calculated, in relation to decrees in the county court;
+- (b) be calculated as simple interest which accrues from day to day.
+
+(2) Where the rate of interest applied under paragraph (1)(a) has varied during a period for which interest is to be calculated, the tribunal may, if it so desires in the interests of simplicity, apply such median or average of those rates as seems to it appropriate.
+
+## 4. Calculation of interest[^key-b18583550014950cb7403a0b1ac4a7cc]
+
+(1) In this regulation and regulations 5 and 6 in relation to any award under the Age Regulations—
+
+- “day of calculation” means the day on which the amount of interest included on the sums so awarded is calculated by the tribunal; and
+- “mid-point date” means the date half-way through the period mentioned in paragraph (2) or, where the number of days in that period is even, the first day of the second half of that period.
+
+(2) The period referred to in paragraph (1) is the period beginning on the date of the contravention or, as the case may be, of the act of discrimination or harassment to which the award in question relates and ending on the day of calculation (both dates inclusive).
+
+**5.**[^key-876f8e339f14cc76a0ecf9416a22ba68] Interest shall not be included on any sum awarded under the Age Regulations in relation to a loss or matter occurring after the day of calculation or in respect of any time before the contravention or, as the case may be, the act of discrimination or harassment to which the award relates.
+
+**6.**[^key-92ef2ea930a013baacd66d5754868419] (1) Subject to paragraphs (2) and (3)—
+
+- (a) in the case of any sum awarded under the Age Regulations for injury to feelings, any interest included shall be for the period beginning on the date of the contravention or, as the case may be, the act of discrimination or harassment to which the award relates, and ending on the day of calculation (both dates inclusive);
+- (b) in the case of all other sums of damages or compensation (other than any sum referred to in regulation 5), and all arrears of remuneration awarded under the Age Regulations, interest shall be for the period beginning on the mid-point date and ending on the day of calculation (both dates inclusive).
+
+(2) Where any payment has been made before the day of calculation to the complainant by or on behalf of the respondent in respect of any loss or matter to which an award under the Age Regulations relates, interest in respect of the corresponding part of the award shall be calculated as if the references in paragraph (1), and in the definition of “mid-point date” in regulation 4, to the day of calculation were to the date on which the payment was made.
+
+(3) Where a tribunal is of the opinion that, in relation to any award under the Age Regulations there are circumstances, whether relating to the case as a whole or to a particular sum in an award, which have the effect that serious injustice would be caused if interest were to be awarded in respect of the period or periods in paragraph (1) or (2), it may—
+
+- (a) calculate interest, or as the case may be, interest on the particular sum for such different period, or
+- (b) calculate interest for such different periods in respect of various sums in the award,
+
+as it considers appropriate in the circumstances, having regard to the provisions of these Regulations.
+
+## 7. Decision in writing[^key-27ea000767d4fa7432d897901961a26c]
+
+(1) A tribunal’s written statement of reasons for its decision to make an award under the Regulations shall contain a statement of the total amount of any interest included therein and, unless this amount has been agreed between the parties, either a table showing how it has been calculated or a description of the manner in which it has been calculated.
+
+(2) A tribunal’s written statement of reasons shall include reasons for any decision not to award interest made under regulation 2.
+
+## 8. Interest for period after award[^key-8f22a90ddb84c62745b2e74459ad9680]
+
+In relation to an award under the Age Regulations (whether or not including interest under regulation 2) for which the relevant decision day under the Industrial Tribunals (Interest) Order (Northern Ireland) 1990[^f00008] falls at any time after 1st October 2006—
+
+- (a) that Order shall apply as if, in Article 3 thereof, references to the calculation day were references to the day immediately following the relevant decision day and accordingly, subject to paragraph (b), interest shall accrue under that Order from that day onwards (including that day); but
+- (b) notwithstanding paragraph (a), interest shall not be payable by virtue of that Order if payment of the full amount of the award (including interest thereon) is made within 14 days after the relevant decision day.
+
+Sealed with the Official Seal of the Office of the First Minister and deputy First Minister on 13th June 2006.
+
+Laurene McAlpine
+
+A senior officer of the Office of the First Minister and deputy First Minister
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into operation on 1st October 2006, make special provisions in relation to interest on awards and compensation orders made by industrial tribunals under the Employment Equality (Age) Regulations (Northern Ireland) 2006 (“the Age Regulations”).
+
+These Regulations are made under section 2(2) of the European Communities Act 1972 and ensure that the remedies available under the Age Regulations comply with Article 17 of Council Directive [2000/78/EC](https://www.legislation.gov.uk/european/directive/2000/0078) of 27th November 2000 establishing a general framework for equal treatment in employment (O.J. No. L303, 2.12.2000, p. 16) so far as it relates to discrimination on grounds of age.
+
+Regulation 2 enables an industrial tribunal which makes an award or order of compensation under the Age Regulations to include a sum by way of interest on the amount awarded. Regulation 3 provides that such interest is to be calculated as simple interest which accrues from day to day and specifies the rate of interest to be used. Regulations 4 to 6 contain rules for the calculation of interest. There is also provision for the industrial tribunal to depart from these rules where it is of the opinion that serious injustice would be done if the rules were to be applied. Regulation 7 provides that written details must be given of the calculation of interest and that reasons must be given if no interest is awarded.
+
+Regulation 8 alters the effect of the Industrial Tribunals (Interest) Order (Northern Ireland) 1990 (“the 1990 Order”) as it applies to an award or order of compensation made under the Age Regulations (including any interest awarded under regulation 2 of these Regulations). In relation to such an award, interest will begin to accrue from the day after the day in which the tribunal’s decision is sent to the parties (and not from a date 42 days later); however no interest will be payable under the 1990 Order if the full amount of the award is paid to the complainant within 14 days after the decision is sent out.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00002]: Footnote: See the European Communities (Designation) (No. 3) Order 2002 ([S.I. 2002/1819](https://www.legislation.gov.uk/uksi/2002/1819))
+
+[^key-27350d524bdcaa00f60254da4c7380f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^f00003]: Footnote: [S.R. 2006 No. 261](https://www.legislation.gov.uk/nisr/2006/261)
+
+[^key-e3b63146e1459510246fcfaf5747861e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/262/regulation/1/2) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/6) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+
+[^f00005]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
+
+[^f00006]: Footnote: [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9e19e8fd3bb80cb14c69ed112aba8dab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/262/regulation/2) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^key-2f0b0ed2af3ecec035149c2313c752da]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/262/regulation/3) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^key-b18583550014950cb7403a0b1ac4a7cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/262/regulation/4) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^key-876f8e339f14cc76a0ecf9416a22ba68]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/262/regulation/5) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^key-92ef2ea930a013baacd66d5754868419]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/262/regulation/6) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^key-27ea000767d4fa7432d897901961a26c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/262/regulation/7) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^key-8f22a90ddb84c62745b2e74459ad9680]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/262/regulation/8) in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/262/regulation/1)
+
+[^f00008]: Footnote: [S.R. 1990 No. 87](https://www.legislation.gov.uk/nisr/1990/87)

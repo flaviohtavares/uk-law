@@ -1,0 +1,114 @@
+---
+title: The Insolvency (Amendment) (2016 Act) (Commencement No. 2 and Saving Provision) Order (Northern Ireland) 2020
+id: nisr/2020/236
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2020-11-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2020/236
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2020/236/pdfs/nisr_20200236_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/236/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insolvency (Amendment) (2016 Act) (Commencement No. 2 and Saving Provision) Order (Northern Ireland) 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 236 (C. 6)
+
+Insolvency
+
+The Insolvency (Amendment) (2016 Act) (Commencement No. 2 and Saving Provision) Order (Northern Ireland) 2020
+
+Made
+
+3rd November 2020
+
+The Department for the Economy[^f00001] makes the following Order in exercise of the powers conferred by section 28(2) and (3) of the Insolvency (Amendment) Act (Northern Ireland) 2016[^f00002].
+
+## 1. Citation and interpretation
+
+(1) This Order may be cited as the Insolvency (Amendment) (2016 Act) (Commencement No. 2 and Saving Provision) Order (Northern Ireland) 2020.
+
+(2) In this Order—
+
+- “the Act” means the Insolvency (Amendment) Act (Northern Ireland) 2016;
+- “the Insolvency Order” means the Insolvency (Northern Ireland) Order 1989[^f00003].
+
+## 2. Appointed day
+
+The day appointed for the coming into operation of the following provisions of the Act is 4th November 2020.
+
+- (a) section 6 (fast-track voluntary arrangements: notification of the Department).
+- (b) section 12 (bankruptcy: early discharge)
+- (c) section 27(3) and Schedule 4 insofar as they relate to repeal of Article 253(2) of the Insolvency Order.
+
+## 3. Saving provision
+
+Despite the repeal of Article 253(2) of the Insolvency Order by section 12 of the Act, Article 253(2) continues to have effect in relation to a bankruptcy which commenced before 4th November 2020.
+
+Sealed with the Official Seal of the Department for the Economy on 3rd November 2020
+
+(L.S.)
+
+Colin Jack
+
+A senior officer of the Department for the Economy
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+This Order brings into operation certain provisions of the Insolvency (Amendment) Act (Northern Ireland) 2016 (“the Act”).
+
+Article 2 commences section 6 of the Act which amends Article 237C of the Insolvency (Northern Ireland) Order 1989 (“the Insolvency Order”) by adding a requirement for the Official Receiver to notify the Department as well as report to the High Court whether a proposal by a bankrupt for a voluntary arrangement with the Official Receiver acting as nominee (a so-called “fast-track” voluntary arrangement) has been approved or rejected by the bankrupt’s creditors.
+
+Article 2 also commences section 12 of the Act which repeals Article 253(2) of the Insolvency Order- the early discharge procedure.
+
+Article 3 saves the provision in respect of a bankruptcy which commenced before 4 November 2020.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the Insolvency (Amendment) Act (Northern Ireland) 2016 have been brought into operation by commencement order made before the date of this Order–
+
+| Provision | Date of Commencement | S.R. No. |
+| --- | --- | --- |
+| Section 7 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 8 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 9 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 10 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 11 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 13 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 14 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 15 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 16 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 17 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 18 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 19 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 20 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 21 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 22 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 23 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 24 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Section 25 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Schedule 1 | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Schedule 2 (partially) | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Schedule 3 (partially) | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+| Schedule 4 (repeals, partially) | 1st April 2016 | [2016 No.203 (C. 13)](https://www.legislation.gov.uk/uksi/2016/203) |
+
+## Annotations
+
+[^f00001]: Footnote: The Department of Enterprise, Trade and Investment was renamed the Department for the Economy by section 1(3) of the Departments Act (Northern Ireland( 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
+
+[^f00002]: Footnote: [2016 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2016/2)
+
+[^f00003]: Footnote: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405)

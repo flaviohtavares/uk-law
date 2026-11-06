@@ -1,0 +1,50 @@
+---
+title: Houses in Multiple Occupation Act (Northern Ireland) 2016, section 19
+act: Houses in Multiple Occupation Act (Northern Ireland) 2016
+section: '19'
+status: revised
+text_date: '2020-01-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/22/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Houses in Multiple Occupation Act (Northern Ireland) 2016, section 19
+
+> Text as at 2020-01-13.
+>
+> Extent: Northern Ireland.
+
+## 19. Duration of HMO licence[^key-8e48326f91bb8eded24adb08fe7c465d]
+
+*Extent: N.I.*
+
+(1) An HMO licence has effect from—
+
+- (a) the date on which notice of the decision to grant it is served under paragraph 13 of Schedule 2, or
+- (b) such later date as may be specified in the licence.
+
+(2) An HMO licence has effect for—
+
+- (a) 5 years, or
+- (b) such shorter period, of not less than 6 months, as may be specified in the licence.
+
+(3) Subsections (1) and (2) do not apply to a licence which is treated as having been granted in accordance with paragraph 12(6) of Schedule 2.
+
+(4) Such a licence—
+
+- (a) has effect from the date by which the council was required by that paragraph to determine the application, and
+- (b) has effect for 1 year.
+
+(5) Subsections (2) and (4)(b) are subject to the following provisions, which provide for the date on which a licence is to cease to have effect in certain circumstances—
+
+- (a) section 21 (effect on existing licence where application is made to renew);
+- (b) section 23 (revocation of licence);
+- (c) section 27 (surrender of licence);
+- (d) section 28 (change of ownership of property);
+- (e) section 29 (death of licence holder).
+
+## Annotations
+
+[^key-8e48326f91bb8eded24adb08fe7c465d]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/22/section/19) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -1,0 +1,23 @@
+---
+title: The Building Society Insolvency Rules (Northern Ireland) 2014, section 194
+act: The Building Society Insolvency Rules (Northern Ireland) 2014
+section: '194'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2014/41/section/194
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency Rules (Northern Ireland) 2014, section 194
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 194. Nomination and appointment of shorthand writers
+
+(1) Apply rule 7.14 of the 1991 Rules.
+
+(2) In paragraph (2) omit “113” and “263 or 337”.
+
+(3) Omit paragraph (3).

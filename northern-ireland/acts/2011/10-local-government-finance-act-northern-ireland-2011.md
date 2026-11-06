@@ -1,0 +1,841 @@
+---
+title: Local Government Finance Act (Northern Ireland) 2011
+id: nia/2011/10
+type: NorthernIrelandAct
+category: primary
+status: revised
+made_date: '2011-03-16'
+text_date: '2016-05-08'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2011/10
+pdf_urls:
+- http://www.legislation.gov.uk/nia/2011/10/pdfs/niaen_20110010_en.pdf
+- http://www.legislation.gov.uk/nia/2011/10/pdfs/nia_20110010_en.pdf
+- http://www.legislation.gov.uk/nia/2011/10/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Finance Act (Northern Ireland) 2011
+
+> Text as at 2016-05-08.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Local Government Finance Act (Northern Ireland) 2011
+
+2011 CHAPTER 10
+
+An Act to make provision for the financial affairs of district councils; to make provision relating to grants to district councils and for payments to councillors and other payments by district councils.
+
+\[16th March 2011\]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-16db8486b899eb78961ef584a785f1c5]
+
+## PART 1 — FINANCIAL ADMINISTRATION[^key-f3b917610ba0fa2374733bae554c8d43][^key-a1c7f2197da7354889f338ea72fe18db]
+
+### General
+
+#### 1. Duty to make arrangements[^key-17fba23b37ebd474e1ea26b6ff06e56c][^key-2907fad5f975a97f6a94f534f71c159c][^key-6d81d9897a6d8295d8ecc912b14724a9]
+
+(1) A council shall make arrangements for the proper administration of its financial affairs.
+
+(2) A council shall designate an officer of the council as its chief financial officer.
+
+(3) Arrangements made by a council under subsection (1) shall be carried out under the supervision of its chief financial officer.
+
+#### 2. Accounting practices[^c22528311][^key-fb5720d5f9b02ff7ea11443869dcd516]
+
+(1) Regulations may make provision about the accounting practices to be followed by a council, in particular with respect to the charging of expenditure to the general fund.
+
+(2) The Department may issue guidance about the accounting practices to be followed by a council, in particular with respect to the charging of expenditure to the general fund.
+
+(3) In any statutory provision, any reference to proper practices, in relation to accounts of a council, is to those accounting practices—
+
+- (a) which the council is required to follow by virtue of any statutory provision, or
+- (b) which, whether by reference to any generally recognised published code or otherwise, are regarded as proper accounting practices to be followed in the keeping of accounts of councils, either generally or of the description concerned.
+
+(4) In the event of conflict between practices falling within paragraph (a) of subsection (3) and practices falling within paragraph (b) of that subsection, only those falling within paragraph (a) are to be regarded as proper practices.
+
+(5) In this section “**council**” includes any local government body within the meaning of Part 2 of the Local Government (Northern Ireland) Order 2005 (NI 18).
+
+### Annual budget
+
+#### 3. Annual budget[^c22528321][^key-8341f9154938cee4936b66bb8ecc5d49][^key-b80f21d008da66f65d5dc14724163aa2]
+
+(1) In each financial year a council shall cause to be submitted to it estimates of the income and expenditure of the council during the next financial year.
+
+(2) A council, before the prescribed date in each year—
+
+- (a) shall consider the estimates for the next financial year;
+- (b) may revise the estimates in such manner as the council thinks fit;
+- (c) shall approve the estimates, subject to any revision under paragraph (b);
+- (d) shall authorise the expenditure included in the estimates; and
+- (e) shall fix for the next financial year the amount estimated to be required to be raised by means of rates made by the council.
+
+(3) No expenditure shall be incurred by or on behalf of a council unless—
+
+- (a) previously authorised in accordance with the estimates approved by the council; or
+- (b) otherwise previously authorised by the council; or
+- (c) if not so authorised, necessarily incurred in circumstances of emergency;
+
+but any expenditure under paragraph (c) shall, as soon as reasonably practicable, be reported to the council with a view to being approved by the council.
+
+(4) A council may make standing orders for the purpose of giving effect to this section so long as they are not inconsistent with any statutory provision.
+
+#### 4. Report by chief financial officer on estimates[^key-f132b941c37f5976c64af9edafb74df2][^key-751c793b91d6313c9def0210b4a76975]
+
+(1) The chief financial officer of a council shall submit to the council a report on the robustness of the estimates.
+
+(2) A council shall have regard to that report when considering the estimates under section 3(2)(a).
+
+(3) In this section “**the estimates**” means the estimates submitted to the council under section 3(1).
+
+#### 5. In-year review[^key-a2dc7da16199316f2829aceb03430816]
+
+During each financial year a council shall keep its financial position under review.
+
+### Reserves
+
+#### 6. Reserves - general[^key-edd647c9310e7e2bf89d4d28ecf4938c]
+
+(1) Regulations may make provision requiring a council to maintain financial reserves in accordance with the regulations.
+
+(2) The chief financial officer of a council shall submit to the council a report on the adequacy of any proposed financial reserves for a financial year.
+
+(3) A council shall have regard to that report when considering the estimates for that year under section 3(2)(a).
+
+#### 7. Controlled reserves[^key-82ad3d1bef1c2cdf666781466369d909]
+
+(1) In this section “**controlled reserve**” means a financial reserve of a description prescribed under section 6(1) for the purposes of this section.
+
+(2) In the case of a controlled reserve, it shall not be regarded as appropriate for the balance of the reserve at the end of any financial year to be less than the minimum amount determined in accordance with regulations under section 6(1).
+
+(3) If in any financial year it appears to the chief financial officer of a council that a controlled reserve is or is likely to be inadequate, the chief financial officer shall report to the council on—
+
+- (a) the reasons for that situation; and
+- (b) the action, if any, which the chief financial officer considers it would be appropriate to take to prevent such a situation arising in relation to the corresponding reserve for the next financial year.
+
+(4) For the purposes of subsection (3), a controlled reserve is inadequate if the balance of the reserve at the end of a financial year is less than the minimum amount determined in accordance with regulations under section 6(1).
+
+(5) A council shall have regard to any report under this section when considering the estimates for the next financial year under section 3(2)(a).
+
+### Funds
+
+#### 8. The general fund[^key-20cb27ceb933539d816f2e1ec58eccbd][^key-62e24697ef41b0a20c3783d5e1ee8592]
+
+Subject to section 9, all income of a council shall be carried to a fund to be called “the general fund”, and all expenditure falling to be discharged by the council shall be discharged out of that fund.
+
+#### 9. Power to establish other funds[^key-4151aeac2de9d8fd7628fa433e561ec6][^key-62e24697ef41b0a20c3783d5e1ee8592]
+
+(1) A council may, in addition to any other fund established under this Part, establish such funds as it considers appropriate.
+
+(2) Any income arising from the investing of the money in any fund established under this section, or otherwise from the application of the fund, shall be carried to the fund.
+
+#### 10. Limitation on application of funds[^key-ce25cc658738e3cfad6605e2a1678d05][^key-62e24697ef41b0a20c3783d5e1ee8592]
+
+(1) A council shall not directly or indirectly apply any money under its control for any purpose not authorised specifically or generally by a statutory provision.
+
+(2) A council shall not directly or indirectly apply any money derived from trust funds for any purpose not authorised by the specific trusts affecting those funds.
+
+### Borrowing
+
+#### 11. Power to borrow[^key-7cb23c28c5af37c54fe003c26447ff02]
+
+A council may borrow money—
+
+- (a) for any purpose relevant to its functions under any statutory provision; or
+- (b) for the purposes of the prudent management of its financial affairs.
+
+#### 12. Control of borrowing[^key-57f30f28f172b6aa8c84a1df2476102a]
+
+(1) A council may not borrow money if doing so would result in a breach of—
+
+- (a) the limit determined by it under section 13, or
+- (b) any limit applicable to it under section 14.
+
+(2) The Department may, in relation to specific borrowing by a particular council, by direction disapply subsection (1)(b), so far as relating to any limit applicable under section 14(1).
+
+(3) A council may not, without the consent of the Department of Finance and Personnel, borrow otherwise than in sterling.
+
+(4) This section applies to borrowing under any power available to a council under any statutory provision.
+
+#### 13. Duty to determine affordable borrowing limit[^c22528331][^key-c63abe63c8ff4927e295ad2dbcbd28c3]
+
+(1) A council shall determine and keep under review how much money it can afford to borrow.
+
+(2) Regulations may make provision about the performance of the duty under subsection (1).
+
+(3) Regulations under subsection (2) may, in particular—
+
+- (a) make provision about—
+  - (i) when a determination under subsection (1) is to be made,
+  - (ii) how such a determination is to be made, and
+  - (iii) the period for which such a determination is to be made;
+- (b) make provision about the monitoring of an amount determined under subsection (1);
+- (c) make provision about factors to which regard may be had in making a determination under subsection (1) or in monitoring an amount determined under that subsection.
+
+(4) Regulations under subsection (2) may include provision requiring a council making a determination under subsection (1) to have regard to one or more specified codes of practice, whether issued by the Department or otherwise.
+
+(5) A council's function under subsection (1) shall be discharged only by the council.
+
+(6) The power under subsection (4) is not to be read as limited to the specification of an existing document.
+
+#### 14. Imposition of borrowing limits[^key-04dab178a1be139f0f8f8db72c82c338]
+
+(1) Regulations made with the consent of the Department of Finance and Personnel may for national economic reasons set limits in relation to the borrowing of money by councils.
+
+(2) The Department may by direction set limits in relation to the borrowing of money by a particular council for the purpose of ensuring that the council does not borrow more than it can afford.
+
+(3) A council subject to a limit set under subsection (1) may transfer any headroom it has in relation to the limit to another council subject to a corresponding limit.
+
+(4) Regulations made with the consent of the Department of Finance and Personnel may make provision about the exercise of the right under subsection (3) and may, in particular, make provision about—
+
+- (a) the circumstances in which a council is to be regarded as having headroom for the purposes of subsection (3), and
+- (b) the amount of headroom which it has for those purposes.
+
+(5) Where an amount is transferred under subsection (3), this Part shall have effect—
+
+- (a) in relation to the transferor, as if the limit in relation to which the headroom exists were reduced by that amount, and
+- (b) in relation to the transferee, as if the corresponding limit to which it is subject were increased by that amount.
+
+#### 15. Temporary borrowing[^key-f0c9b902b112670b7ffc7f208e169c9a]
+
+(1) Subject to subsection (2), any limit for the time being determined by a council under section 13, or applicable to it under section 14, shall be treated for the purposes of this Part as increased by the amount of any payment which—
+
+- (a) is due to the council in the period to which the limit relates, but
+- (b) has not yet been received by it.
+
+(2) In the case of a limit determined under section 13, or set under section 14(2), subsection (1) shall not apply to any payment whose delayed receipt was taken into account in arriving at the limit.
+
+#### 16. Protection of lenders[^key-32a3c9f503e64c4a17596780af1d4b96]
+
+A person lending money to a council shall not be bound to enquire whether the council has power to borrow the money and shall not be prejudiced by the absence of any such power.
+
+### Credit arrangements
+
+#### 17. “Credit arrangements”[^c22528341][^key-0dfbf630d152d228686f7983f7b08018][^key-086737556b0530c79605fb57f5a80879]
+
+(1) For the purposes of this Part, a council shall be taken to have entered into a credit arrangement where—
+
+- (a) it enters into a transaction which gives rise to a liability on its part, and
+- (b) the liability is a qualifying liability.
+
+(2) A transaction entered into by a council is to be taken for the purposes of subsection (1) as giving rise to a liability on the part of the council if—
+
+- (a) it falls in accordance with proper practices to be treated for the purposes of the council's accounts as giving rise to such a liability, or
+- (b) it falls in accordance with regulations to be treated as falling within paragraph (a).
+
+(3) The reference in subsection (1)(b) to a qualifying liability is to any liability other than—
+
+- (a) a liability to repay money,
+- (b) a liability in respect of which the date for performance is less than 12 months after the date on which the transaction giving rise to the liability is entered into, and
+- (c) a prescribed liability.
+
+#### 18. Control of credit arrangements[^c22528351][^key-9efd36719c0af7b21fd423e87bcaddfc][^key-086737556b0530c79605fb57f5a80879]
+
+(1) A council may not enter into, or vary, a credit arrangement if doing so would result in a breach of—
+
+- (a) the limit determined by it under section 13, or
+- (b) any limit applicable to it under section 14.
+
+(2) In applying those limits for the purposes of subsection (1)—
+
+- (a) entry into a credit arrangement shall be treated as the borrowing of an amount of money equal to the cost of the arrangement, and
+- (b) variation of a credit arrangement shall be treated as the borrowing of an amount of money equal to the cost of the variation.
+
+(3) Regulations may make provision about the calculation for the purposes of subsection (2) of the cost of a credit arrangement or a variation and, in particular, about the treatment of options.
+
+### Capital expenditure
+
+#### 19. “Capital expenditure”[^c22528361][^key-8abf0879e4ed31d30a3005897897708f][^key-086737556b0530c79605fb57f5a80879]
+
+(1) Subject to subsections (2) and (3), references in this Part to capital expenditure, in relation to a council, are to expenditure of the council which falls to be capitalised in accordance with proper practices.
+
+(2) Regulations may provide that expenditure of councils shall be treated for the purposes of this Part as being, or as not being, capital expenditure.
+
+(3) The Department may by direction provide that expenditure of a particular council shall be treated for the purposes of this Part as being, or as not being, capital expenditure.
+
+### Capital receipts
+
+#### 20. “Capital receipt”[^c22528371][^key-553b567386def7241c4e1f55dbb3c6aa][^key-086737556b0530c79605fb57f5a80879]
+
+(1) Subject to subsection (3), references in this Part to a capital receipt, in relation to a council, are to a sum received by the council in respect of the disposal by it of an interest in a capital asset.
+
+(2) An asset is a capital asset for the purposes of subsection (1) if, at the time of the disposal, expenditure on the acquisition of the asset would be capital expenditure.
+
+(3) Regulations may—
+
+- (a) make provision for the whole of a sum received by a council in respect of the disposal by it of an interest in a capital asset, or such part of such a sum as may be determined under the regulations, to be treated as not being a capital receipt for the purposes of this Part;
+- (b) make provision for the whole of a sum received by a council otherwise than in respect of the disposal by it of an interest in a capital asset, or such part of such a sum as may be determined under the regulations, to be treated as being a capital receipt for the purposes of this Part.
+
+(4) Where a sum becomes payable to a council before it is actually received by the council, it shall be treated for the purposes of this section as received by the council when it becomes payable to the council.
+
+#### 21. Non-money receipts[^key-2a9043bed0da97ed89a8c6d13bfeafc2][^key-086737556b0530c79605fb57f5a80879]
+
+(1) Regulations may apply section 20 to cases where—
+
+- (a) a council makes a disposal of the kind mentioned in subsection (1) of that section and the consideration for the disposal does not consist wholly of money payable to the council, or
+- (b) a council receives otherwise than in the form of money anything which, if received in that form, would be a capital receipt under that section.
+
+(2) Regulations under subsection (1) may, in particular—
+
+- (a) make provision for a council to be treated as receiving a sum of such an amount as may be determined under the regulations;
+- (b) make provision about when the deemed receipt is to be treated as taking place.
+
+#### 22. Use of capital receipts[^c22528381][^key-c081fb72ea7ee571954f3a7f0e895d77][^key-086737556b0530c79605fb57f5a80879]
+
+(1) Regulations may make provision about the use of capital receipts by a council.
+
+(2) Regulations under subsection (1) may, in particular, make provision requiring an amount equal to the whole or any part of a capital receipt to be used only to meet—
+
+- (a) capital expenditure, or
+- (b) debts or other liabilities.
+
+### Investment
+
+#### 23. Power to invest[^key-23e30705bf629b764b294aa621c1bb9e]
+
+A council may invest—
+
+- (a) for any purpose relevant to its functions under any statutory provision, or
+- (b) for the purposes of the prudent management of its financial affairs.
+
+### Miscellaneous
+
+#### 24. Security for money borrowed, etc.[^key-a815fc5cdf11c3b7cf7cc3bb0c68942e]
+
+(1) Except as provided by subsection (3), a council may not mortgage or charge any of its property as security for money which it has borrowed or which it otherwise owes.
+
+(2) Security given in breach of subsection (1) shall be unenforceable.
+
+(3) All money borrowed by a council (whether before or after the commencement of this section), together with any interest on the money borrowed, shall be charged indifferently on all the revenues of the council.
+
+(4) All securities created by a council shall rank equally without any priority.
+
+(5) The High Court may appoint a receiver on application by a person entitled to principal or interest due in respect of any borrowing by a council if the amount due remains unpaid for a period of two months after demand in writing.
+
+(6) The High Court may appoint a receiver under subsection (5) on such terms, and confer such powers, as it thinks fit.
+
+(7) The High Court may confer on a receiver appointed under subsection (5) any powers of the council or its officers of collecting, receiving and recovering the revenues of the council and of making rates.
+
+(8) No application under subsection (5) may be made unless the sum due in respect of the borrowing concerned amounts to not less than £10,000.
+
+(9) The Department may by order substitute a different sum for the one for the time being specified in subsection (8).
+
+(10) An order shall not be made under subsection (9) unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+#### 25. Guidance[^c22528391][^key-abe931b623f4d732cf436dba57011341][^key-62099c31f7c247670b2d1d7b26f14ef1]
+
+(1) In carrying out its functions under this Part, a council shall have regard—
+
+- (a) to such guidance as the Department may issue, and
+- (b) to such other guidance as regulations may specify for the purposes of this section.
+
+(2) The power under subsection (1)(b) is not to be read as limited to the specification of existing guidance.
+
+## PART 2 — GRANTS TO COUNCILS
+
+### 26. De-rating grant[^key-db4b924865ddeab8a48eb42b536a782a]
+
+(1) The Department shall for each financial year make a grant under this section to councils (unless in any particular case the amount of the grant would be nil).
+
+(2) In this section “**the de-rating grant**” means the grant made under this section for any financial year.
+
+(3) The amount of a de-rating grant shall be an amount equal to the difference between—
+
+- (a) the amount of the product of the district rate for that year (within the meaning of the Rates (Northern Ireland) Order 1977 (NI 28)); and
+- (b) the amount which, but for the provisions of Articles 31B and 42 of, and paragraph 4 of Schedule 7 to, that Order, would have been the amount of that product.
+
+(4) Subsection (3) is subject to section 28 (reductions in grants).
+
+(5) Payments in respect of the de-rating grant shall be made to a council at such times as the Department may determine.
+
+### 27. Rates support grant[^c22528401][^key-de464348606fefc032f2a0e7281f0b01]
+
+(1) The Department shall for each financial year make a grant under this section to councils (unless in any particular case the amount of the grant would be nil).
+
+(2) In this section “**the rates support grant**” means the grant made under this section for any financial year.
+
+(3) The amount of the rates support grant payable to a council for any financial year shall be determined in accordance with regulations and shall not be reduced during the financial year in question.
+
+(4) Subsection (3) is subject to section 28 (reductions in grants).
+
+(5) Regulations under this section may in particular make provision—
+
+- (a) for the amount of the rates support grant to be calculated by reference to a formula;
+- (b) for determining the manner in which and time at which that calculation is to be made.
+
+(6) The formula may be such that the amount payable is nil.
+
+(7) For the purposes of this section “**formula**” includes methods, principles and rules of any description.
+
+(8) Regulations under this section may contain any provision for a person to exercise a discretion in dealing with any matter which the Department considers appropriate.
+
+(9) Regulations shall not be made under this section unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+
+(10) A council shall give the Department such information for the purpose of the calculation mentioned in subsection (5), at such time and in such form as the Department may determine.
+
+(11) Payments in respect of the rates support grant shall be made to a council at such times as the Department may determine.
+
+### 27A. Transferred functions grant[^key-d60fae9e59c17889340de0a4707e9f3b]
+
+(1) The Department shall for any prescribed financial year make a grant under this section to councils.
+
+(2) In this section “**transferred functions grant**” means the grant payable under this section for any financial year.
+
+(3) The transferred functions grant is payable only to a council which is a new council within the meaning of Part 2 of the Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010.
+
+(4) The amount of the transferred functions grant payable to a council for any financial year is the amount equal to the difference between—
+
+- (a) the amount of the product of the district rate for that year (within the meaning of the Rates (Northern Ireland) Order 1977) so far as it relates to the rateable net annual values of the hereditaments in the district of that council; and
+- (b) the amount which would have been the amount of that product if the total of the rateable net annual values of the hereditaments in the district of that council had been increased by a prescribed amount.
+
+(5) Subsection (4) is subject to section 28 (reductions in grants) and to section 63(4) of the Local Government Act (Northern Ireland) 2014.
+
+(6) Payments in respect of transferred functions grant shall be made to a council at such times as the Department may determine.
+
+### 28. Reductions in grants under section 26 , 27 or 27A[^key-843151ced3d5f3e5b2e18a5e9ee85c8a][^key-e8af0e3954e56016aecd9b69723ba557]
+
+(1) Subsection (2) applies where the Department is satisfied, from information contained in a relevant report relating to a council, that as regards any financial year—
+
+- (a) the council has failed to achieve or maintain a reasonable standard of economy, efficiency and effectiveness in the discharge of its functions, or
+- (b) the expenditure of the council has been excessive having regard to the council's financial resources and other circumstances relevant to the council.
+
+(2) Where this subsection applies, the Department shall prepare and lay before the Assembly—
+
+- (a) a draft order providing that, in such financial year as is specified in the order (or in each of such financial years as are so specified), the amount of any grants payable to the council under section 26 , 27 or 27A[^key-ba2ef957b0c57f66a085718c9c10fac3] shall be reduced by such amount as is so specified (or is so specified in relation to that year); and
+- (b) a document setting out—
+  - (i) the reasons for making any reduction specified in the order; and
+  - (ii) such details of the relevant report as the Department thinks appropriate.
+
+(3) If the draft order laid before the Assembly under subsection (2)(a) is approved by resolution of the Assembly, the Department shall make the order in the same terms as the draft.
+
+(4) If that draft order is not so approved, the Department may prepare and lay before the Assembly a new draft order and document complying with subsection (2), and subsection (3) and this subsection apply in relation to that draft order as they apply in relation to the original draft order.
+
+(5) In subsections (1) and (2) “**relevant report**” means a report made by a local government auditor under Part 2 of the Local Government (Northern Ireland) Order 2005 (NI 18).
+
+(6) The Department may—
+
+- (a) defray any expenditure incurred in any financial year in the provision of services for a council by a body specified in regulations; and
+- (b) deduct from the amount of any grant payable under section 26 , 27 or 27A[^key-a1a111603f878ba84b9e18cbf13cefe3] to the council for that year such amount (not exceeding the total of the expenditure so defrayed) as the Department considers appropriate.
+
+(7) Before exercising its powers under subsection (6) the Department shall consult councils and—
+
+- (a) such associations representative of councils;
+- (b) such associations representative of officers of councils; and
+- (c) such other persons or bodies,
+
+as appear to the Department to be appropriate.
+
+### 29. Other grants to councils[^key-b34be896e7db9d3fb77ce4a1e6dc6a71][^key-8812fc0af910c6a7e869ddd8126b54cf]
+
+(1) The Department or any other Northern Ireland department may, in respect of a financial year, make grants to councils for such purposes and of such amounts and subject to such conditions as that department may determine.
+
+(2) Grants shall not be made under this section without the consent of the Department of Finance and Personnel.
+
+### 30. Payments due by councils to departments, etc.[^key-6b6c948779628f2e7cd2c659b4cbc5ae][^key-8812fc0af910c6a7e869ddd8126b54cf]
+
+Where the payment of any sum by a council is required to comply with any statutory provision and is due—
+
+- (a) to a Northern Ireland department or public body; or
+- (b) to the Consolidated Fund; or
+- (c) to any public fund under the control of a Northern Ireland department or public body,
+
+the amount of the sum may be abated from any grant (or contribution) payable to the council out of money appropriated by Act of the Assembly.
+
+## PART 3 — PAYMENTS TO COUNCILLORS, ETC.
+
+### 31. Allowances, etc. for councillors[^c22528411][^key-1f79dfeb7753324c34f7b649033ccafe]
+
+(1) Regulations may provide for the payment by councils of such allowances or other payments as may be prescribed to councillors for, or in relation to anything done in connection with, service as councillors.
+
+(2) Payments by a council under the regulations shall be of such amounts or at such rates as may be determined by the council, but shall not exceed such amounts or rates as may be determined by the Department.
+
+(3) Regulations may require each council to make a scheme setting out the amounts or rates of the allowances or other payments determined by the council.
+
+(4) Regulations under subsection (3) may require councils—
+
+- (a) to make a scheme by a prescribed date;
+- (b) to publish a scheme in a prescribed manner.
+
+(5) Payments by a council under the regulations shall be made subject to and in accordance with—
+
+- (a) its scheme;
+- (b) regulations under this section; and
+- (c) any guidance issued by the Department.
+
+(6) In this section any reference to a council includes a reference to a joint committee and any reference to the district of a council includes a reference to the districts of all the councils which have concurred in appointing the joint committee.
+
+(7) In this section “**joint committee**” has the same meaning as in the Local Government Act (Northern Ireland) 1972 (c. 9).
+
+### 32. Allowances for chairperson and vice-chairperson[^key-d35a9f183d6e7782390241abcd7aa921]
+
+(1) A council may pay an allowance to the chairperson of the council.
+
+(2) A council may pay an allowance to any vice-chairperson of the council.
+
+(3) An allowance under subsection (1) or (2) shall be of such amount as the council considers to be reasonable to meet the expenses of the office of chairperson or vice-chairperson as the case may be.
+
+(4) An allowance under subsection (1) or (2) is in addition to any other allowance or other payment payable under this Part.
+
+### 33. Expenses of official and courtesy visits, etc.[^key-0e1a9782737cdece1627784275267781]
+
+(1) Subject to subsection (2), a council may—
+
+- (a) make payments towards expenditure reasonably incurred by councillors in making official or courtesy visits, whether inside or outside the United Kingdom, on behalf of the council;
+- (b) defray any expenses reasonably incurred in the reception and entertainment by way of official courtesy of distinguished persons residing in or visiting the district of the council or persons representative of or connected with local government or other public services whether inside or outside the United Kingdom, and in the supply of information to any such persons.
+
+(2) Payments made by a council under subsection (1)(a) towards expenditure incurred by a councillor for any purpose corresponding to a purpose for which payments may be made under section 31 shall be at such rates as may be determined by the council, but shall not exceed the rates determined by the Department under section 31 for payments for the corresponding purpose.
+
+### 34. Expenses incurred in attending conferences and meetings[^key-26bfa676274e6c7b9e5ddba20d6456ee]
+
+(1) Subject to subsection (3), a council may make payments towards expenditure reasonably incurred by a councillor in respect of attendance authorised by the council at any conference or meeting, whether inside or outside the United Kingdom, convened by any person or body (other than a person or body convening it in the course of a trade or business or a body whose objects are wholly or partly political) for the purpose of discussing matters which, in the opinion of the council, relate to—
+
+- (a) the interests of the district or any part of it; or
+- (b) the interests of the inhabitants of the district or any part of it.
+
+(2) Payments made under subsection (1) may include any reasonable expenses incurred in purchasing reports of the proceedings of any such conference or meeting.
+
+(3) Payments made by a council under subsection (1) towards expenditure incurred by a councillor for any purpose corresponding to a purpose for which payments may be made under section 31 shall be at such rates as may be determined by the council but shall not exceed the rates determined by the Department under section 31 for payments for the corresponding purpose.
+
+### 35. Panel to advise on payments to councillors
+
+(1) Regulations may establish a panel to advise the Department on payments by councils to councillors.
+
+(2) Regulations under this section may make provision relating to the membership and functions of the panel.
+
+(3) Regulations under this section may in particular include provision—
+
+- (a) requiring the panel to comply with directions given by the Department (including directions requiring the panel to provide the Department with advice or information in relation to such matters as the Department may direct);
+- (b) requiring the Department to make available to the panel such premises, staff and services as the panel may reasonably require; and
+- (c) requiring the Department to pay to members of the panel such allowances as the Department may determine.
+
+### 36. Interpretation
+
+In this Part “**councillor**” includes a member of a committee or sub-committee of a council, whether that person is a member of the council or not, and in section 34(1) includes an officer of a council.
+
+## PART 4 — MISCELLANEOUS POWERS TO MAKE PAYMENTS
+
+### Payments for special purposes
+
+#### 37. Payments for special purposes[^key-1cec0b837fa297a65f4053f9b91ef7b2][^key-612f97c7c0137a7e5227857a27995232]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38. Restrictions on power to make payments under section 37[^key-4f803424198ca910669cd114a8a6f6e9][^key-eb3f93aab905d47b7fa1c4ddc3849557]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Public appeals
+
+#### 39. Public appeals[^key-127495c45725ab6b930ce0a40de8d9d8]
+
+[^key-a90bd4305b857a09c3cfc55e19e3aa15]...A council may make payments to any fund which is raised in connection with a particular event directly affecting persons resident in the United Kingdom on behalf of whom a public appeal for contributions has been made—
+
+- (a) by the chairperson of a council; or
+- (b) by a committee of which the chairperson of a council is a member; or
+- (c) by such a person or body as is referred to in section 137(3)(c) of the Local Government Act 1972 (c. 70); or
+- (d) by such a person or body as is referred to in section 83(3)(c) of the Local Government (Scotland) Act 1973 (c. 65).
+
+### Limit on expenditure under sections 37 and 39
+
+#### 40. Limit on expenditure under sections 37 and 39[^key-6644e366df7fe0c84453aa754bcc7aee][^key-a59ebbb9243cbe632677a105d29063e7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Subscriptions
+
+#### 41. Subscriptions to certain local government associations and other bodies[^key-81c106358d54acbcaff52bd31de3628d][^key-375c5e7a2f0499660db55bb6f24fa020][^key-0a65364cfcb0aeaa8439a140a1642092]
+
+(1) A council may pay reasonable subscriptions, whether annually or otherwise, to the funds of—
+
+- (a) associations of councils or officers or members of councils formed for the purpose of consultation upon and discussion of matters relating to the common interests of councils or matters relating to local government;
+- (b) voluntary bodies established for scientific, technical or professional purposes the objects of which are ancillary to any of the functions of the council.
+
+(2) Subject to subsection (3), a council may pay reasonable subscriptions, whether annually or otherwise, to the funds of professional bodies in respect of the individual membership of officers of the council.
+
+(3) A council shall pay subscriptions under subsection (2) in respect of an officer's membership of only one professional body at any one time.
+
+(4) In this section “**professional body**” means—
+
+- (a) a professional association, membership of which is wholly or mainly restricted to individuals who have or are seeking a qualification appropriate to the practice of the profession concerned; or
+- (b) an association the primary purpose of which is the advancement of a particular branch of knowledge, or the fostering of professional expertise, connected with the past or present professions or employments of its members.
+
+## PART 5 — SUPPLEMENTARY
+
+### 42. General interpretation
+
+In this Act—
+
+- “**association**” includes any body of persons, corporate or unincorporated;
+- “**chief financial officer**” means the officer designated under section 1(2);
+- “**council**” means a district council, and in relation to any district means the council for that district;
+- “**the Department**” means the Department of the Environment;
+- “**direction**” means direction in writing; and “**direct**” shall be construed accordingly;
+- “**district**”, in relation to any council, means the district for which that council acts;
+- “**the general fund**” means the fund mentioned in section 8;
+- “**officer**” includes servant;
+- “**prescribed**” means prescribed by regulations;
+- “**proper practices**” shall be construed in accordance with section 2(3) and (4);
+- “**public body**” means a body (other than a council) established by or under a statutory provision;
+- “**regulations**” means regulations made by the Department;
+- “**statutory provision**” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33);
+- “**voluntary body**” means any association carrying on or proposing to carry on any activities otherwise than for the purpose of gain by the association or individual members.
+
+### 43. Regulations and orders
+
+(1) Regulations made under any provision of this Act, except section 27, shall be subject to negative resolution.
+
+(2) Regulations and orders under this Act may contain such incidental, supplementary, consequential, transitory or saving provisions as the Department thinks necessary or expedient.
+
+### 44. Consultation on regulations, orders and guidance
+
+(1) Subject to subsection (2), before making any regulations or orders under this Act or issuing any guidance under this Act, the Department shall consult councils and—
+
+- (a) such associations representative of councils;
+- (b) such associations representative of officers of councils; and
+- (c) such other persons or bodies,
+
+as appear to the Department to be appropriate.
+
+(2) Subsection (1) shall not apply to regulations under section 14(1) or to orders under section 28(3) or 47(2).
+
+### 45. Minor and consequential amendments[^key-1968846ac895b66c9ebb6637d674b2ed]
+
+Schedule 1 (which contains minor and consequential amendments) shall have effect.
+
+### 46. Repeals[^key-5fc674325239574de385b87af1c57fa2]
+
+The repeals set out in Schedule 2 shall have effect.
+
+### 47. Commencement
+
+(1) The following provisions of this Act shall come into operation on Royal Assent—
+
+- section 35;
+- section 36;
+- section 42;
+- section 43;
+- section 44;
+- this section; and
+- section 48.
+
+(2)[^c22528301] The other provisions of this Act shall come into operation on such day or days as the Department may by order appoint.
+
+### 48. Short title
+
+This Act may be cited as the Local Government Finance Act (Northern Ireland) 2011.
+
+SCHEDULES
+
+## SCHEDULE 1 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+Section 45.
+
+### Local Government Act (Northern Ireland) 1972 (c. 9)
+
+**1.**[^key-977030c243585fa1d4c713e1d3e00656] In section 9 (vacation of office on account of non-attendance), in subsection (2)(b) for “36” substitute “ 31 of the Local Government Finance Act (Northern Ireland) 2011 ”.
+
+**2.**[^key-e7a48743c508e9245e065e7060d66784] In section 96 (acquisition, etc., of land), in subsection (4) for “63(1)” substitute “ 24(3) of the Local Government Finance Act (Northern Ireland) 2011 ”.
+
+**3.**[^key-dd2b06bf5b18d3bf11e5d9916f9b1887] In section 115D (sections 115A to 115C: supplementary provisions), in subsection (1) for “115” substitute “ section 37 of the Local Government Finance Act (Northern Ireland) 2011 ”.
+
+**4.**[^key-9ddae99e491e3e4f30aad16eb3e9eddf] In Schedule 3 (The Staff Commission), in paragraph 2A for “specified in or determined under the regulations under section 36(1)” substitute “ determined by the Department under section 31(2) of the Local Government Finance Act (Northern Ireland) 2011 ”.
+
+**5.**[^key-b354ecbd2a75337ad2c52875528da1d6] In Schedule 7 (provisions applied to joint committees) the entries relating to section 36 and section 115 shall cease to have effect.
+
+### The Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11)
+
+**6.**[^key-7792a065097f7cb07dd5484b8f07820a] In Schedule 4 (restrictions on disclosure of information), in the definition of “chief financial officer” in paragraph 7(3), for “148(1) of the Local Government Act (Northern Ireland) 1972” substitute “ 42 of the Local Government Finance Act (Northern Ireland) 2011 ”.
+
+### Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)
+
+**7.**[^key-98748a7e315092e98736356ff8447a03] In section 17 (power to modify existing legislation), in subsection (2) after paragraph (c) insert—
+
+> - (cc) the Local Government Finance Act (Northern Ireland) 2011;
+
+.
+
+## SCHEDULE 2 — REPEALS[^key-79d95b87273acf42e7dff34c43056a8d]
+
+Section 46.
+
+| Short Title | Extent of repeal |
+| --- | --- |
+| The Local Government Act (Northern Ireland) 1972 (c. 9). | Sections 12 and 13(2A).<br>Sections 36 to 38.<br>Sections 53 to 73.<br>Section 111.<br>Section 115.<br>In section 142(c), the words “or the chief financial officer of a council”.<br>In section 143, the words “(other than regulations under section 115(2A))”.<br>Section 145.<br>In section 148(1) the definition of “chief financial officer”.<br>Schedule 5.<br>In Schedule 7, the entries relating to section 36 and section 115. |
+| The Financial Provisions (Northern Ireland) Order 1978 (NI 11). | Article 9. |
+| The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985 (NI 15). | Article 24.<br>Article 27. |
+| The Trustee Act (Northern Ireland) 2001 (c. 14). | In Schedule 2, paragraph 22. |
+| The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002 (NI 3). | Articles 3 to 7. |
+| The Local Government (Northern Ireland) Order 2005 (NI 18). | Article 28(7).<br>Article 32. |
+
+## Annotations
+
+[^key-16db8486b899eb78961ef584a785f1c5]: Modification: [Act](https://www.legislation.gov.uk/nia/2011/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-f3b917610ba0fa2374733bae554c8d43]: Modification: Pt. 1 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [4](https://www.legislation.gov.uk/nisr/2012/10/article/4)
+
+[^key-a1c7f2197da7354889f338ea72fe18db]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2011/10/part/1) applied with modifications (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [4](https://www.legislation.gov.uk/nisr/2015/183/article/4)
+
+[^key-17fba23b37ebd474e1ea26b6ff06e56c]: Commencement: S. 1 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-2907fad5f975a97f6a94f534f71c159c]: Modification: [S. 1](https://www.legislation.gov.uk/nia/2011/10/section/1) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2013/179/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/179/schedule/3)
+
+[^key-6d81d9897a6d8295d8ecc912b14724a9]: Modification: [S. 1](https://www.legislation.gov.uk/nia/2011/10/section/1) modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3) (with [art. 4(4)](https://www.legislation.gov.uk/nisr/2013/238/article/4/4))
+
+[^c22528311]: Commencement: S. 2 wholly in operation at 1.4.2012; s. 2 not in operation at Royal Assent see s. 47(1); s. 2 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-fb5720d5f9b02ff7ea11443869dcd516]: Commencement: S. 2 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528321]: Commencement: S. 3 wholly in operation at 1.4.2012; s. 3 not in operation at Royal Assent see s. 47(1); s. 3 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-8341f9154938cee4936b66bb8ecc5d49]: Commencement: S. 3 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-b80f21d008da66f65d5dc14724163aa2]: Modification: [S. 3](https://www.legislation.gov.uk/nia/2011/10/section/3) modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3) (with [art. 4(4)](https://www.legislation.gov.uk/nisr/2013/238/article/4/4))
+
+[^key-f132b941c37f5976c64af9edafb74df2]: Commencement: S. 4 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-751c793b91d6313c9def0210b4a76975]: Modification: [S. 4](https://www.legislation.gov.uk/nia/2011/10/section/4) modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3) (with [art. 4(4)](https://www.legislation.gov.uk/nisr/2013/238/article/4/4))
+
+[^key-a2dc7da16199316f2829aceb03430816]: Commencement: S. 5 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-edd647c9310e7e2bf89d4d28ecf4938c]: Commencement: S. 6 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-82ad3d1bef1c2cdf666781466369d909]: Commencement: S. 7 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-20cb27ceb933539d816f2e1ec58eccbd]: Commencement: S. 8 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-62e24697ef41b0a20c3783d5e1ee8592]: Modification: [Ss. 8-10](https://www.legislation.gov.uk/nia/2011/10/section/8) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2013/179/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/179/schedule/3)
+
+[^key-4151aeac2de9d8fd7628fa433e561ec6]: Commencement: S. 9 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-ce25cc658738e3cfad6605e2a1678d05]: Commencement: S. 10 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-7cb23c28c5af37c54fe003c26447ff02]: Commencement: S. 11 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-57f30f28f172b6aa8c84a1df2476102a]: Commencement: S. 12 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528331]: Commencement: S. 13 wholly in operation at 1.4.2012; s. 13 not in operation at Royal Assent see s. 47(1); s. 13 in operation for certain purposes at 10.9.2011 and 1.11.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2](https://www.legislation.gov.uk/nisr/2011/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-c63abe63c8ff4927e295ad2dbcbd28c3]: Commencement: S. 13 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-04dab178a1be139f0f8f8db72c82c338]: Commencement: S. 14 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-f0c9b902b112670b7ffc7f208e169c9a]: Commencement: S. 15 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-32a3c9f503e64c4a17596780af1d4b96]: Commencement: S. 16 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528341]: Commencement: S. 17 wholly in operation at 1.4.2012; s. 17 not in operation at Royal Assent see s. 47(1); s. 17 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-0dfbf630d152d228686f7983f7b08018]: Commencement: S. 17 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-086737556b0530c79605fb57f5a80879]: Modification: [Ss. 17-22](https://www.legislation.gov.uk/nia/2011/10/section/17) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2013/179/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/179/schedule/3)
+
+[^c22528351]: Commencement: S. 18 wholly in operation at 1.4.2012; s. 18 not in operation at Royal Assent see s. 47(1); s. 18 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-9efd36719c0af7b21fd423e87bcaddfc]: Commencement: S. 18 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528361]: Commencement: S. 19 wholly in operation at 1.4.2012; s. 19 not in operation at Royal Assent see s. 47(1); s. 19 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-8abf0879e4ed31d30a3005897897708f]: Commencement: S. 19 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528371]: Commencement: S. 20 wholly in operation at 1.4.2012; s. 20 not in operation at Royal Assent see s. 47(1); s. 20 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-553b567386def7241c4e1f55dbb3c6aa]: Commencement: S. 20 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-2a9043bed0da97ed89a8c6d13bfeafc2]: Commencement: S. 21 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528381]: Commencement: S. 22 wholly in operation at 1.4.2012; s. 22 not in operation at Royal Assent see s. 47(1); s. 22 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-c081fb72ea7ee571954f3a7f0e895d77]: Commencement: S. 22 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-23e30705bf629b764b294aa621c1bb9e]: Commencement: S. 23 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-a815fc5cdf11c3b7cf7cc3bb0c68942e]: Commencement: S. 24 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528391]: Commencement: S. 25 wholly in operation at 1.4.2012; s. 25 not in operation at Royal Assent see s. 47(1); s. 25 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-abe931b623f4d732cf436dba57011341]: Commencement: S. 25 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-62099c31f7c247670b2d1d7b26f14ef1]: Modification: [S. 25](https://www.legislation.gov.uk/nia/2011/10/section/25) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2013/179/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/179/schedule/3)
+
+[^key-db4b924865ddeab8a48eb42b536a782a]: Commencement: S. 26 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528401]: Commencement: S. 27 wholly in operation at 1.4.2012; s. 27 not in operation at Royal Assent see s. 47(1); s. 27 in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-de464348606fefc032f2a0e7281f0b01]: Commencement: S. 27 in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-d60fae9e59c17889340de0a4707e9f3b]: Textual amendment: [S. 27A](https://www.legislation.gov.uk/nia/2011/10/section/27A) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 114(1)](https://www.legislation.gov.uk/nia/2014/8/section/114/1), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+
+[^key-843151ced3d5f3e5b2e18a5e9ee85c8a]: Commencement: S. 28 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-e8af0e3954e56016aecd9b69723ba557]: Textual amendment: Words in [s. 28](https://www.legislation.gov.uk/nia/2011/10/section/28) heading substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 114(2)](https://www.legislation.gov.uk/nia/2014/8/section/114/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+
+[^key-ba2ef957b0c57f66a085718c9c10fac3]: Textual amendment: Words in [s. 28(2)(a)](https://www.legislation.gov.uk/nia/2011/10/section/28/2/a) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 114(2)](https://www.legislation.gov.uk/nia/2014/8/section/114/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+
+[^key-a1a111603f878ba84b9e18cbf13cefe3]: Textual amendment: Words in [s. 28(6)(b)](https://www.legislation.gov.uk/nia/2011/10/section/28/6/b) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 114(2)](https://www.legislation.gov.uk/nia/2014/8/section/114/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+
+[^key-b34be896e7db9d3fb77ce4a1e6dc6a71]: Commencement: S. 29 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-8812fc0af910c6a7e869ddd8126b54cf]: Modification: Ss. 29-30 applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2013/179/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/179/schedule/3)
+
+[^key-6b6c948779628f2e7cd2c659b4cbc5ae]: Commencement: S. 30 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528411]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/10/section/31) wholly in operation at 1.4.2012; [s. 31](https://www.legislation.gov.uk/nia/2011/10/section/31) not in operation at Royal Assent see [s. 47(1)](https://www.legislation.gov.uk/nia/2011/10/section/47/1); [s. 31](https://www.legislation.gov.uk/nia/2011/10/section/31) in operation for certain purposes at 10.9.2011 otherwise 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(1)(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-1f79dfeb7753324c34f7b649033ccafe]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/10/section/31) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-d35a9f183d6e7782390241abcd7aa921]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2011/10/section/32) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-0e1a9782737cdece1627784275267781]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/10/section/33) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-26bfa676274e6c7b9e5ddba20d6456ee]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2011/10/section/34) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-1cec0b837fa297a65f4053f9b91ef7b2]: Textual amendment: [S. 37](https://www.legislation.gov.uk/nia/2011/10/section/37) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 117(a)](https://www.legislation.gov.uk/nia/2014/8/section/117/a), [129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+
+[^key-612f97c7c0137a7e5227857a27995232]: Commencement: S. 37 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-4f803424198ca910669cd114a8a6f6e9]: Textual amendment: [S. 38](https://www.legislation.gov.uk/nia/2011/10/section/38) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 117(b)](https://www.legislation.gov.uk/nia/2014/8/section/117/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+
+[^key-eb3f93aab905d47b7fa1c4ddc3849557]: Commencement: S. 38 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-127495c45725ab6b930ce0a40de8d9d8]: Commencement: S. 39 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-a90bd4305b857a09c3cfc55e19e3aa15]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/nia/2011/10/section/39) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+
+[^key-6644e366df7fe0c84453aa754bcc7aee]: Textual amendment: [S. 40](https://www.legislation.gov.uk/nia/2011/10/section/40) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 117(c)](https://www.legislation.gov.uk/nia/2014/8/section/117/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+
+[^key-a59ebbb9243cbe632677a105d29063e7]: Commencement: S. 40 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-81c106358d54acbcaff52bd31de3628d]: Commencement: S. 41 in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-375c5e7a2f0499660db55bb6f24fa020]: Modification: S. 41 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [4](https://www.legislation.gov.uk/nisr/2012/10/article/4)
+
+[^key-0a65364cfcb0aeaa8439a140a1642092]: Modification: [S. 41](https://www.legislation.gov.uk/nia/2011/10/section/41) applied with modifications (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [4](https://www.legislation.gov.uk/nisr/2015/183/article/4)
+
+[^key-1968846ac895b66c9ebb6637d674b2ed]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/10/section/45) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-5fc674325239574de385b87af1c57fa2]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2011/10/section/46) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^c22528301]: Subordinate legislation: [S.47(2)](https://www.legislation.gov.uk/nia/2011/10/section/47/2) fully exercised: different dates appointed for specified provisions by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2](https://www.legislation.gov.uk/nisr/2011/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/306/schedule)
+
+[^key-977030c243585fa1d4c713e1d3e00656]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/1) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-e7a48743c508e9245e065e7060d66784]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/2) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-dd2b06bf5b18d3bf11e5d9916f9b1887]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/3) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-9ddae99e491e3e4f30aad16eb3e9eddf]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/4) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-b354ecbd2a75337ad2c52875528da1d6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/5) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-7792a065097f7cb07dd5484b8f07820a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/6) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-98748a7e315092e98736356ff8447a03]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/7) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
+
+[^key-79d95b87273acf42e7dff34c43056a8d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/10/schedule/2) in operation at 1.4.2012 by [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)

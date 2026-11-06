@@ -1,0 +1,492 @@
+---
+title: The Social Security (Contributions) (Isle of Man) Order (Northern Ireland) 2026
+id: nisr/2026/147
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2026-07-09'
+text_date: '2026-07-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2026/147
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2026/147/pdfs/nisr_20260147_en.pdf
+- http://www.legislation.gov.uk/nisr/2026/147/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Contributions) (Isle of Man) Order (Northern Ireland) 2026
+
+> Text as at 2026-07-09.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2026 No. 147
+
+Social Security
+
+The Social Security (Contributions) (Isle of Man) Order (Northern Ireland) 2026
+
+Made
+
+9th July 2026
+
+Coming into operation in accordance with article 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 155(1)(a) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-d1e77e31dc1c1be1aeb0d2b28e7ebf6f]
+
+(1) This Order may be cited as the Social Security (Contributions) (Isle of Man) Order (Northern Ireland) 2026.
+
+(2) The Order comes into force on the first day of the month following the later of the dates on which each Party to the Agreement notifies the other that they have complied with all necessary domestic procedures for the Agreement to come into effect in accordance with paragraph 67 of the Agreement[^f00002].
+
+(3) In this Order “**the Agreement**” means the Agreement in the Schedule to this Order as set out in the Exchange of Letters between His Majesty’s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty’s Government of the Isle of Man dated 15th May 2026 and 18th May 2026, respectively.
+
+## 2. Modification of Acts[^key-ddc4a44222ae47ef7dc0037233b6fb19]
+
+The following legislation is modified to such extent as may be required to give effect to the provisions contained in the Agreement, so far as such relate to Northern Ireland—
+
+- (a) the Social Security Administration (Northern Ireland) Act 1992, and
+- (b) the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00003].
+
+Pat McFadden
+
+Secretary of State for Work and Pensions
+
+9th July 2026
+
+## SCHEDULE[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Articles 1 and 2
+
+|  |
+| --- |
+| AGREEMENT ON SOCIAL SECURITY RELATING TO NATIONAL INSURANCE CONTRIBUTIONS<br>BETWEEN<br>HIS MAJESTY’S GOVERNMENT OF THE UNITED<br>KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND<br>ON THE ONE PART,<br>AND<br>HIS MAJESTY’S GOVERNMENT OF THE ISLE OF MAN ON THE OTHER |
+
+### 1. Interpretation
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+For the purposes of this Agreement:
+
+- (a) “**the 1977 Agreement**” means the agreement contained in Schedule 1 to the Social Security (Isle of Man) Order 1977;
+- (b) “**activity as an employed person**” means any activity treated as such for the purposes of the legislation of the Participant in which such activity takes place;
+- (c) “**activity as a self-employed person**” means any activity treated as such for the purposes of the legislation of the Participant in which such activity takes place;
+- (d) “**competent authority**” means, in relation to the United Kingdom, the Commissioners for His Majesty’s Revenue and Customs or an authorised representative, and in relation to the Isle of Man, the Treasury or an authorised representative;
+- (e) “**Government employee**” means a person who is in the service of the Government, or considered to be such or treated as such by the Participant to which the administration employing them is subject, and includes civil servants and public sector employees;
+- (f) “**home base**” means the place from where the crew member normally starts and ends a duty period or a series of duty periods, and where, under normal conditions, the operator/airline is not responsible for the accommodation of the crew member concerned;
+- (g) “**legislation**” means the laws, regulations and provisions on contributions of the Social Security systems indicated under paragraphs 5 and 6 of this Agreement;
+- (h) “Participant” and collectively “**Participants**” means the United Kingdom or the Isle of Man;
+- (i) “**personal data**” means any data concerning or relating to an identified or identifiable natural person;
+- (j) “**registered office or place of business**” means the registered office or place of business where the essential decisions of the undertaking are taken and where the functions of its central administration are carried out;
+- (k) “**residence**” means the place where a person habitually resides, and the words “reside”, and “**resident**” shall be construed accordingly;
+- (l) “**United Kingdom**” means England, Scotland, Wales, and Northern Ireland.
+
+**2.** Unless the context otherwise requires, expressions in this Agreement shall have the same meaning as in the United Kingdom or Isle of Man Acts referred to in this Agreement.
+
+**3.** The rules for the construction of Acts of Parliament and instruments contained in the Interpretation Act 1978 shall apply for the purposes of the interpretation of this Agreement as they apply for the purposes of the interpretation of an Act of Parliament or instrument.
+
+**4.** This Agreement:
+
+- (a) shall not affect rights and obligations under any agreement or convention on social security which either Participant has concluded with a third party and shall not prevent either Participant taking into account in the operation of this Agreement the provisions of any such agreement.
+- (b) has effect only in accordance with and subject to the domestic law of each Participant and does not create rights or obligations enforceable otherwise than through such law.
+
+### 5. Scope of Legislation
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The Agreement shall apply:
+
+- (a) in relation to the territory of the Isle of Man, to the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, and the Social Security (Consequential Provisions) Act 1992 (Acts of Parliament), as those Acts apply to the Isle of Man by virtue of Orders made, or having effect as if made, under the Social Security Act 2000 (An Act of Tynwald).
+- (b) in relation to the territory of the United Kingdom, to:
+  - (i) the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, the Social Security (Consequential Provisions) Act 1992 the Social Security Contributions (Transfer of Functions, etc.) Act 1999;
+  - (ii) the Social Security Administration (Northern Ireland) Act 1992, the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Social Security (Consequential Provisions) (Northern Ireland) Act 1992, the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999;
+
+  and the legislation which was repealed or consolidated by those Acts, Laws or Orders or repealed by legislation consolidated by them.
+
+**6.** Subject to paragraph 7, this Agreement shall apply also to any legislation which supersedes, replaces, amends, supplements or consolidates the legislation specified in paragraph 5.
+
+**7.** Nothing in this Agreement shall be construed as requiring either Participant to act in a manner inconsistent with its obligations under agreements with a third country or an international organisation.
+
+### 8. Territorial Scope
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The provisions of this Agreement shall apply, on the one hand, to the United Kingdom and, on the other hand, to the Isle of Man.
+
+### 9. Application of Agreement/Persons Covered
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+This Agreement shall apply to a person who is, or has been, subject to the legislation of either or both Participants.
+
+### 10. Equality of Treatment
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Unless otherwise provided for by this Agreement, a person who is subject to the legislation of a Participant shall enjoy the same rights and be subject to the same obligations under that legislation as the nationals of that Participant.
+
+### 11. Equal Treatment of Income, Facts, or Events
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Unless otherwise provided by this Agreement, the following provisions shall apply:
+
+- (a) where, under the legislation of a Participant, the receipt of income has certain legal effects, the relevant provisions of that legislation shall also apply to the receipt of equivalent income under the legislation of, or to income acquired in, the other Participant;
+- (b) where, under the legislation of a Participant, legal effects are attributed to the occurrence of certain facts or events, that Participant shall take account of like facts or events that have occurred in the other Participant as though they had taken place in its own territory.
+
+### 12. Cross-Border Situations
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+This Agreement shall not apply to a person whose situation is confined in all respects within either Participant.
+
+### 13. Applicable Legislation - General Provisions
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+A person shall be subject to the legislation of a single Participant, which shall be determined in accordance with this Part.
+
+**14.** Subject to paragraphs 15 to 21:
+
+- (a) A person pursuing an activity as an employed or self-employed person in one Participant shall be subject to the legislation of that Participant.
+- (b) A person called up or recalled for service in the armed forces or for civilian service in a Participant shall be subject to the legislation of that Participant;
+
+**15.** A person carrying out an activity as an employed, or self-employed person, normally pursued on board a vessel at sea flying the flag of a Participant shall be deemed to be carrying out an activity pursued in the Participant in which that person resides. Where the undertaking or person paying the remuneration of that person has a registered office or place of business in either Participant, that undertaking, or person, shall be considered as the employer for the purposes of the applicable legislation.
+
+**16.** Activities of a flight crew or cabin crew member performing air passenger or freight services shall be deemed to be carrying out this activity in the Participant where the home base is located.
+
+**17.** Any person to whom paragraphs 14 to 16 do not apply shall be subject to the legislation of the Participant in which they reside.
+
+### 18. Government Employees
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+A Government employee shall be subject to the legislation of the Participant to which the administration employing them is subject.
+
+**19.** A Government employee who is employed by the administrations of both Participants shall be subject to the legislation of the Participant in which they reside.
+
+**20.** A Government employee employed by the administration of one Participant and carrying out an employed or self-employed activity in the other Participant, shall be subject to the legislation of the Participant to which the administration employing them is subject.
+
+**21.** A Government employee employed by the administrations of both Participants and carrying out an employed or self-employed activity in one or both Participants shall be subject to the legislation of the Participant in which they reside.
+
+### 22. Detached Workers
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+A person who pursues an activity as an employed person in one Participant on behalf of an employer which normally carries out its activities there, and who is sent by that employer to the other Participant to perform work on that employer’s behalf, shall continue to be subject to the legislation of the Participant in which the activities are normally carried out, provided that the anticipated duration of such work does not exceed 36 months.
+
+**23.** A person who normally pursues an activity as a self-employed person in one Participant, who goes to pursue a similar activity in the other Participant, shall continue to be subject to the legislation of the Participant in which they normally pursue that activity, provided that the anticipated duration of such activity in the other Participant does not exceed 36 months.
+
+### 24. Pursuit of Activities in Both Participants
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+A person who normally pursues an activity as an employed person in both Participants shall be subject only to the legislation of the Participant in which they reside.
+
+**25.** A person who normally pursues an activity as a self-employed person in both Participants, shall be subject only to the legislation of the Participant in which they reside.
+
+**26.** A person who normally pursues an activity as an employed person and an activity as a self-employed person in both Participants shall be subject to the legislation of the Participant in which they carry out their activity as an employed person; or, if that person is employed in both Participants, that person shall be subject to the legislation determined in accordance with paragraph 24.
+
+**27.** A person referred to in paragraphs 24 to 26 shall be treated, for the purposes of the legislation determined in accordance with these provisions, as though that person was pursuing all their activities as an employed or self-employed person and were receiving all their income in the Participant concerned.
+
+### 28. Exceptions
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The competent authorities, or the bodies designated by these authorities may by common agreement provide for exceptions to Paragraphs 13 to 27 in the interest of certain persons or categories of persons.
+
+### 29. Obligations of an Employer in the other Participant
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+An employer of a person which has its registered office or place of business in the Participant other than the Participant whose legislation is applicable to such a person shall fulfil all the obligations laid down by that legislation, notably the obligation to pay the contributions provided for by that legislation, as if it had its registered office or place of business in the former Participant.
+
+**30.** An employer who does not have a registered office or place of business in the Participant whose legislation is applicable to their employee may agree that the employee may fulfil the employer’s obligations on its behalf as regards the payment of contributions without prejudice to the employer’s underlying obligations. The employer shall send notice of such an arrangement to the competent authority of that Participant.
+
+### 31. Cooperation
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The competent authorities shall communicate to each other, as soon as possible, all information about the measures taken by them for the application of this Agreement or about changes in their national legislation insofar as these changes affect the application of this Agreement.
+
+**32.** The competent authorities shall assist one another on any matter relating to the application of this Agreement as if the matter were one affecting the application of their own legislation. This assistance shall be free of charge.
+
+**33.** The competent authorities may, for the purposes of this Agreement, communicate directly with one another and with the persons covered by this Agreement or their representatives.
+
+**34.** The competent authorities shall have a duty of mutual cooperation to ensure the correct application of this Agreement. The competent authorities, in accordance with the principle of good administration, shall respond to all queries within a reasonable period of time and shall in this connection provide the persons concerned with any information required for exercising the rights conferred on them by this Agreement.
+
+### 35. Arrangements for Administration
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The competent authorities shall establish the administrative arrangements necessary for the application of this Agreement and shall comply with those arrangements.
+
+**36.** The competent authorities shall, without delay, provide or exchange all information necessary for establishing and determining the rights and obligations of persons under this Agreement and for the administration or enforcement of the Agreement.
+
+**37.** The competent authorities may agree procedures other than or in addition to those provided by this Agreement, provided that such procedures do not adversely affect the rights or obligations of any individual or individuals concerned.
+
+**38.** The competent authorities shall establish, if not already in place, liaison offices for the purposes of facilitating the implementation of this Agreement.
+
+**39.** Where the legislation of one Participant provides that any certificate or other document which is submitted under the legislation of that Participant shall be exempt, wholly, or partly, from any legal dues or administrative charges, that exemption shall apply to any certificate or other document which is submitted under the legislation of any other Participant or in accordance with this Agreement.
+
+**40.** Documents issued by a competent authority of one Participant showing the position of a person for the purposes of the application of this Agreement and supporting evidence on the basis of which such documents have been issued shall be accepted by the competent authority of the other Participant for as long as they have not been withdrawn or declared to be invalid by the Participant in which they were issued.
+
+**41.** A competent authority of one Participant shall not reject a certificate, document or statement of any kind written in an official language of the other Participant on the grounds that it is written in a language which is not an official language of that Participant.
+
+### 42. Confidentiality and Protection of Personal Data
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Any information, including any personal data, exchanged pursuant to this Agreement shall be covered by an obligation of confidentiality and shall be protected in accordance with the domestic law of the receiving Participant, and shall be used only for the purpose of implementing this Agreement.
+
+**43.** Where one of the Participants wishes to use information or personal data obtained under the Agreement for purposes other than implementing the Agreement, it shall obtain, in conformity with the domestic law of the Participant which provided the information, the prior written consent of the competent authorities. Such use shall be subject to any restrictions laid down by that Authority.
+
+**44.** Unless disclosure is required under the legislation of a Participant, any personal data which is sent in accordance with, and for the purposes of, this Agreement to that Participant by any other Participant is confidential, should be protected in accordance with the receiving State’s domestic law, and shall be used only for the purpose of implementing this Agreement and the legislation to which this Agreement applies.
+
+**45.** Where this Agreement provides for the transfer of personal data, such transfer shall take place in accordance with the transferring Participant’s rules on international transfers of personal data. Where needed, each State will make best efforts, while respecting the transferring Participant’s rules on international transfers of personal data, to establish safeguards necessary for the transfer of personal data.
+
+### 46. Data Processing
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The Participants shall, to the extent that it is reasonably practicable to do so, progressively use new technologies for the exchange, access and processing of the information required to apply this Agreement.
+
+**47.** Each Participant shall be responsible for managing its own part of any system of electronic exchange of information.
+
+**48.** An electronic document sent or issued by an institution in conformity with this Agreement by one Participant may not be rejected by any authority or institution of the other Participant on the grounds that it was received by electronic means, once the receiving institution has declared that it can receive electronic documents. Reproduction and recording of such documents shall be presumed to be a correct and accurate reproduction of the original document or representation of the information it relates to, unless there is proof to the contrary.
+
+**49.** An electronic document shall be considered valid if the computer system on which the document is recorded contains the safeguards necessary in order to prevent any alteration, disclosure, or unauthorised access to the recording. It shall at any time be possible to reproduce the recorded information in an immediately readable form.
+
+### 50. Declarations or Appeals
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+For the purposes of paragraphs 51 and 52, ‘decision’ means a determination that a person is or was liable to pay a contribution, or to be treated as having paid a contribution, of a particular class, and if so, the amount of that liability.
+
+**51.** Any declaration, request for review or reconsideration of a decision (including information or documents relating to any of those), which is submitted by a person to the competent authority of one Participant, when it should have been submitted to the competent authority of the other Participant, should be forwarded to the correct Participant and should be treated it as if it had been submitted to the correct competent authority.
+
+**52.** Subject to paragraph 53, the date on which such a declaration, request for review or reconsideration of a decision was first submitted to the competent authority of the first Participant shall be considered as the date of submission to the competent authority of the other Participant.
+
+**53.** If a person who is carrying out an activity as an employed or self-employed person or resides in one Participant does not, despite having been asked to do so, notify the fact that they have been carrying out the activity as an employed or self-employed person, or have resided in the other Participant, the date on which the person provides this information or submits a new declaration for missing periods of activity as an employed or self-employed person and/or residence in a Participant shall be considered as the date of submission of the claim to that Participant, subject to more favourable provisions of that legislation.
+
+### 54. Resolution of Disputes
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+In the event of a dispute regarding the interpretation or application of this Agreement, the competent authorities of the two Participants shall make all reasonable efforts to settle the issue through negotiation, mediation, or other jointly decided procedure.
+
+### 55. Provisional Application of the Applicable Legislation
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Where there is a difference of views between the Participants concerning the determination of the legislation applicable to a person, the person concerned shall be made provisionally subject to the legislation of one of the Participants, the order of priority being determined as follows:
+
+- (a) The legislation of the Participant where the person pursues their activity as an employed person or self-employed person, if such activity is pursued in only one Participant;
+- (b) The legislation of the Participant of residence if the person concerned pursues an activity as an employed person or self-employed person in both Participants, or if the person concerned has no such activity in either Participant.
+
+**56.** Where there is a difference of views under paragraph 55, the Participants shall seek to resolve the difference without delay.
+
+**57.** Where in accordance with paragraph 55, determination is made that a Participant’s legislation is provisionally applicable, and it is subsequently determined that in fact the other Participant’s legislation is applicable, that latter Participant’s legislation shall be applicable as if the difference of views had not existed, from the date when the person was made subject to the former Participant’s legislation.
+
+**58.** If necessary and where appropriate, the Participants shall between themselves settle the financial situation of the person concerned as regards contributions received, and in accordance with paragraphs 61 to 64, and the Annex to this Agreement.
+
+### 59. Provisional Calculation of Contributions
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Unless otherwise provided for in this Agreement, where a person is liable to pay a contribution, and the competent authority does not have all the information concerning the situation in the other Participant which is necessary to calculate definitively the amount of that contribution, that competent authority may calculate the contribution on a provisional basis, where such calculation is possible on the basis of the information at its disposal.
+
+**60.** The contribution concerned shall be recalculated once all the necessary supporting evidence or documents are provided to the competent authority.
+
+### 61. Collection and Recovery of National Insurance Contributions
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Collection or recovery of contributions due to a Participant (P1) may be effected in the other Participant (P2) in accordance with the procedures and with the guarantees and privileges applicable to the collection of contributions due to the corresponding competent authority of P2.
+
+**62.** Enforceable decisions of the judicial and administrative authorities relating to the collection or recovery of contributions, interest and any other charges under the legislation of one Participant (P1) shall be recognised and enforced in the other Participant (P2) at the request of the competent authority in P1 within the limits of and in accordance with the laws and procedures applicable to similar decisions of P2 concerning the collection of contributions. Such decisions shall be declared enforceable in P2 insofar as its legislation and any other procedures so require.
+
+**63.** Claims of a competent authority of one Participant (P1) shall in enforcement, bankruptcy or settlement proceedings in the other Participant (P2) enjoy the same privileges as the legislation of P2 accords to similar claims.
+
+**64.** For the purpose of this Article, the recovery of contributions shall, wherever possible, be by way of offsetting between the institutions of the Participants. If it is not possible to recover all or any of the contributions via this offsetting procedure, the remainder of the amount due shall be recovered in accordance with the Annex to this Agreement.
+
+### 65. Transitional Provision
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+In applying the provisions of paragraphs 22 and 23 of this Agreement in the case of persons whose detachment or self-employment referred to in the said paragraphs commenced prior to the date this Agreement comes into effect, the period of such detachment or self-employment shall be considered to begin on the date this Agreement comes into effect.
+
+### 66. The 1977 Agreement
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The 1977 Agreement shall not apply, and this Agreement shall apply to a person for the purposes of determining liability to pay or treating as having paid contributions under the legislation of the Participants from the date this Agreement comes into effect.
+
+### 67. Coming into Effect
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The Participants shall notify each other in writing when the necessary domestic procedures for coming into effect have been completed. This Agreement shall come into effect on the first day of the month following the later of such notification and have effect in relation to the tax year beginning on or after 6th April next following the date on which this Agreement comes into effect.
+
+### 68. Termination of this Agreement
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Either Participant may terminate this Agreement by written notification being provided by the other Participant. Subject to paragraph 69, this Agreement shall cease to be in effect on the first day of the twelfth month following the date of notification.
+
+**69.** In the event that this Agreement is terminated, the Competent Authorities shall commence negotiations, prior to the expiry of the period referred to in paragraph 68, on the settlement of any questions concerning contribution liability outstanding by virtue of the provisions of this Agreement.
+
+### 70. Integral part of the Agreement
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+The Annexes to this Agreement shall form an integral part of this Agreement.
+
+|  |
+| --- |
+| ANNEX A TO THE AGREEMENT |
+
+In relation to the Agreement the Participants acknowledge the following:
+
+**1.** That the United Kingdom continues to be responsible for the international relations of the Isle of Man in international law and that the Agreement cannot therefore create obligations which are binding under international law. It is understood that both Participants will implement the Agreement in their respective domestic legal systems to give legal effect to the terms of the Agreement.
+
+**2.** That the Agreement is not intended to alter or affect the constitutional relationship between the Isle of Man and the United Kingdom. Annexes to this Agreement shall form an integral part of this Agreement.
+
+|  |
+| --- |
+| ANNEX B TO THE AGREEMENT<br>RECOVERY |
+
+### 1. Definition and Common Provisions
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+For the purpose of paragraphs 61 to 64 of the Agreement, and this Annex:
+
+- (a) “**claim**” means all claims relating to contributions, including interest, fines, administrative penalties and all other charges and costs connected with the claim in accordance with the legislation of the Participant making the claim;
+- (b) “**Participant A**” means the Participant which makes a request under this Annex;
+- (c) “**Participant B**” means the Participant to which the request is made under this Annex.
+
+**2.** The competent authorities may decide a minimum amount of a claim for which a request for recovery may be made.
+
+### 3. Request for Information
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+At the request of Participant A, Participant B shall provide any information which would be useful to Participant A in the recovery of its claim, using such powers as are available to it under the laws of Participant B to obtain such information, and provided that Participant B shall not be obliged to supply information which it would not be able to obtain for the purpose of recovering similar claims arising in that Participant, or which would disclose any commercial, industrial or professional secrets or be contrary to its law or public policy.
+
+### 4. Notification of Addressee
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+At the request of Participant A, Participant B shall in accordance with its laws, notify the addressee specified by Participant A of all instruments and decisions, including those of a judicial nature, which come from Participant A and which relate to a claim and/or to its recovery. Participant B shall subsequently inform Participant A of the date on which the decision or instrument was notified to the addressee.
+
+### 5. Request for Recovery
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+At the request of Participant A, Participant B shall recover claims that are the subject of an instrument permitting enforcement issued by Participant A to the extent permitted by and in accordance with the laws in force in Participant B.
+
+**6.** Participant A may only make a request for recovery if:
+
+- (a) it also provides to Participant B an official or certified copy of the instrument permitting enforcement of the claim in Participant A;
+- (b) the claim and/or instrument permitting its enforcement are not disputed in that Participant;
+- (c) it has, in that Participant, applied appropriate recovery procedures available to it on the basis of the instrument permitting enforcement, and the measures taken will not result in the payment in full of the claim;
+- (d) the period of limitation according to the laws in force in Participant A has not expired.
+
+### 7. Instrument Permitting Enforcement of the Recovery
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Any instrument permitting enforcement of the claim in Participant A shall be directly recognised and treated automatically as an instrument permitting the enforcement of that claim in Participant B, to the extent that the laws of Participant B allow.
+
+**8.** Notwithstanding paragraph 7, the instrument permitting enforcement of the claim in Participant A may, where appropriate and in accordance with the provisions in force in Participant B, be accepted as, recognised as, supplemented with, or replaced by an instrument permitting enforcement in Participant B:
+
+- (a) within three months of the date of receipt of the request for recovery, the competent authority in Participant B shall endeavour to complete the acceptance, recognition, supplementing or replacement, except in cases where paragraph 9 applies;
+- (b) Participant B shall inform Participant A of the grounds for exceeding the three-month period;
+- (c) the relevant competent authorities may not refuse to complete these actions where the instrument permitting enforcement is properly drawn up.
+
+**9.** If any of these actions should give rise to a dispute in connection with the claim and/or the instrument permitting enforcement issued by Participant A, paragraphs 13 and 14 shall apply.
+
+### 10. Payment Arrangements
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Claims shall be recovered in the currency of Participant B.
+
+**11.** Interest (if any) shall be charged under the laws in force in Participant B from the date of receipt by Participant B of the request for recovery.
+
+**12.** The entire amount of the claim that is recovered by Participant B (including any interest) shall be remitted by Participant B to Participant A.
+
+### 13. Dispute Concerning the Claim or the Instrument Permitting its Enforcement or regarding Enforcement Measures
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+If, in the course of the recovery procedure, the claim and/or the instrument permitting its enforcement issued in Participant A are contested by an interested party:
+
+- (a) the action shall be brought by the interested party before the appropriate authorities in Participant A, in accordance with the laws in force in Participant A;
+- (b) Participant A shall without delay notify Participant B of this action;
+- (c) as soon as Participant B has received notification of the action, it shall suspend the enforcement procedure pending the decision of the appropriate authority;
+- (d) where the appropriate authority is a judicial or administrative tribunal, the decision of that tribunal, insofar as it permits recovery of the claim in Participant A, shall constitute the “instrument permitting enforcement” within the meaning of paragraphs 7 to 9 and the recovery of the claim shall proceed on the basis of that decision.
+
+**14.** Where the dispute concerns enforcement measures taken in Participant B, the action shall be brought before the appropriate authority in Participant B in accordance with the laws in force in Participant B.
+
+### 15. Limits Applying to Assistance by Participant B
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Participant B shall not be obliged:
+
+- (a) to grant assistance with recovery of a claim if it would create serious economic or social difficulties in Participant B, insofar as the laws in force in Participant B allow it to refrain from taking such action for similar national claims;
+- (b) to grant assistance with a request for information, notification or recovery of a claim, if the initial request applies to claims more than five years old, dating from the date the instrument permitting the recovery was established in accordance with the laws in force in Participant A. If the claim or instrument is contested, the time limit begins from the date it is established that the claim or the instrument may no longer be contested.
+
+### 16. Periods of Limitation in Respect of Enforcement Action
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+Questions concerning periods of limitation of a claim and/or instrument permitting enforcement shall be governed by the laws in force in Participant A, insofar as they concern the claim and/or the instrument permitting its enforcement, and by the laws in force in Participant B, insofar as they concern enforcement measures in Participant B.
+
+### 17. Precautionary Measures
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+At the request of Participant A, Participant B shall take precautionary measures intended to ensure recovery of a claim in so far as the laws in force in Participant B so permit.
+
+**18.** For the purposes of this Article, the provisions and procedures laid down in paragraphs 5 to 9 and paragraphs 13 to 15 shall apply in the same way with all necessary adjustments.
+
+### 19. Costs Related to Recovery
+
+[^key-65e02ba1a16debeb188ac64453d567d2]
+
+In respect of any assistance provided for under paragraphs 3 to 6, and paragraphs 10 and 11, Participant B shall not make any charge to Participant A unless otherwise decided, but may recover and retain any costs of recovery, from the person who is the subject of the request for information or recovery.
+
+**20.** Participant A shall remain liable to Participant B for any costs and losses incurred, as a result of actions that are held to be unfounded.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the modification of the Social Security Administration (Northern Ireland) Act 1992 and the Social Security Contributions and Benefits (Northern Ireland) Act 1992, in order to give effect to the Agreement on Social Security as set out in the Exchange of Letters between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Isle of Man dated 15th May 2026 and 18th May 2026, respectively. The provisions relate to liability for National Insurance contributions arising in respect of employment and self-employment.
+
+The Order will come into operation and implement the Agreement set out in the Schedule, on the first day of the month after such time as both parties to the Agreement have completed the necessary domestic procedures to prepare for their respective legislation to come into operation and have notified the other party. The Agreement will have effect in relation to the tax year beginning on or after 6th April next following the date on which the letters are exchanged. This is in accordance with paragraph 67 of the Agreement (coming into effect).
+
+A Tax Information and Impact Note has not been prepared for this instrument as it is secondary legislation giving effect to an agreement preventing the double payment of National Insurance Contributions.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
+
+[^key-d1e77e31dc1c1be1aeb0d2b28e7ebf6f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/147/article/1) in operation at 9.7.2026 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/147/article/1/2)
+
+[^f00002]: Footnote: Upon the participants having notified each other that their respective domestic procedures for entry into force have been completed, in accordance with paragraph 67 of the Agreement, a notice will be published in the Belfast Gazette by His Majesty’s Revenue and Customs.
+
+[^key-ddc4a44222ae47ef7dc0037233b6fb19]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/147/article/2) in operation at 9.7.2026 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/147/article/1/2)
+
+[^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^key-65e02ba1a16debeb188ac64453d567d2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/147/schedule) in operation at 9.7.2026 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/147/article/1/2)

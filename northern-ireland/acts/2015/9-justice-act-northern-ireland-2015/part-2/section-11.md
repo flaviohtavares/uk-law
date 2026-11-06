@@ -1,0 +1,47 @@
+---
+title: Justice Act (Northern Ireland) 2015, section 11
+act: Justice Act (Northern Ireland) 2015
+section: '11'
+status: not-yet-in-force
+text_date: '2023-11-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/9/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Justice Act (Northern Ireland) 2015, section 11
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 11. Direct committal: specified offences
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Where—
+
+- (a) this Chapter applies in relation to an accused charged with an offence, and
+- (b) the offence is a specified offence,
+
+the court shall forthwith commit the accused to the Crown Court for trial for the offence (and accordingly shall not conduct committal proceedings in relation to that offence).
+
+(2) Where the court commits an accused for trial for an offence under this section, the functions of the court then cease in relation to that offence, except as provided by—
+
+- (a) section 13; or
+- (b) Article 29(2)(a) of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 or any regulations under Article 26(3) of the Access to Justice (Northern Ireland) Order 2003.
+
+(3) For the purposes of this Chapter a specified offence is—
+
+- (a) murder;
+- (b) manslaughter;
+- (c) an offence—
+  - (i) of aiding, abetting, counselling, procuring or inciting the commission of an offence specified above;
+  - (ii) of conspiring to commit an offence so specified;
+  - (iii) of attempting to commit an offence so specified;
+  - (iv) under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) in relation to an offence specified above.
+
+(4) The Department may by order amend subsection (3).

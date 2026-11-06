@@ -1,0 +1,190 @@
+---
+title: Feeding Stuffs (Sampling and Analysis) and Feeding Stuffs (Enforcement) (Amendment) Regulations (Northern Ireland) 2003
+id: nisr/2003/287
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-06-03'
+text_date: '2010-10-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/287
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/287/pdfs/nisr_20030287_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/287/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Feeding Stuffs (Sampling and Analysis) and Feeding Stuffs (Enforcement) (Amendment) Regulations (Northern Ireland) 2003
+
+> Text as at 2010-10-11.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 287
+
+AGRICULTURE
+
+Feeding Stuffs (Sampling and Analysis) and Feeding Stuffs (Enforcement) (Amendment) Regulations (Northern Ireland) 2003
+
+Made
+
+3rd June 2003
+
+Coming into operation
+
+14th July 2003
+
+The Department of Health, Social Services and Public Safety in exercise of the powers conferred by sections 66(1), 75(1), 76(1), 77(4), 78(6), 79(1) and (2), 84 and 86 of the Agriculture Act 1970[^f00001] (as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000[^f00002]), after consultation as required by section 84(1) of that Act and by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], and being a Department designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972[^f00005] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) (in so far as these Regulations cannot be made under the powers in the Agriculture Act 1970 specified above), and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-abb8cd35a38f9330ca7206aa37115972]
+
+(1) These Regulations may be cited as the Feeding Stuffs (Sampling and Analysis) and Feeding Stuffs (Enforcement) (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation on 14th July 2003.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 2. Amendment of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^key-e62e96fb4d359e6fe9f08580bd91981d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-a64b2f5549c442816e6381e6a2bf6440]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9.[^key-a64b2f5549c442816e6381e6a2bf6440]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10.[^key-a64b2f5549c442816e6381e6a2bf6440]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11.[^key-03c56cd76b098f56422ef3bf0cbacaa6]
+
+In regulation 10 (modification of section 76 of the Agriculture Act 1970) –
+
+- (a) “(as specified in regulation 7)” shall be omitted;
+- (b) for the modified version of subsection (8) of section 76 of the Agriculture Act 1970 which is set out in that regulation there shall be substituted the following subsection —
+
+  > (8) Subject to subsections (9), (10) and (12) of this section, an inspector entering premises by virtue of this section, or of a warrant issued under it, shall have the right to take on those premises a sample of any material appearing to him to be a controlled product other than relevant material as described in subsection (7) of this section, in the like manner as that prescribed in Part II of Schedule 1 to the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999.
+
+  ;
+- (c) immediately after the modified version of section (8) of section 76 of that Act as so set out there shall be inserted the following subsection –
+
+  > (8A) For the purposes of this Part of this Act a sample taken in accordance with subsection (8) of this section shall be deemed to be taken in the prescribed manner.
+
+  ; and
+- (d) in the modified version of subsection (9) of section 76 of that Act as so set out for “subsection (8)” there shall be inserted “subsections (8) and (10)”.
+
+## 12.[^key-267e055deaddae82b7ae82abe3733559]
+
+For regulations 11 and 11A (modification of sections 77(4) and 78(6) of the Agriculture Act 1970) there shall be substituted the following regulations –
+
+> **11. Analysis for the purposes of sections 77(4) and 78(6) of the Agriculture Act 1970**
+>
+> For the purpose of the enforcement and administration of the Feeding Stuffs Regulations (Northern Ireland) 2001[^f00012], analysis in relation to a sample of a product which falls to be inspected pursuant to Directive 95/53 but is not –
+>
+> - (a) a feeding stuff;
+> - (b) a premixture to which Part A or Part B of Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryptophan in feeding stuffs applies; or
+> - (c) a feed material to which Annex II to Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin–like PCBs in feeding stuffs applies,
+>
+> shall be treated as carried out in the prescribed manner for the purposes of sections 77(4) and 78(6) of the Act if —
+>
+> - (d) where there is an applicable standard of the kind referred to in the first indent of Article 18.3 of Directive 95/53, analysis is carried out in accordance with that standard; and
+> - (e) where there is no such standard, analysis is carried out in accordance with any scientifically valid method the application of which does not contravene any general principle of the Treaty establishing the European Community.
+>
+> **11A.** For the purpose of the enforcement and administration of the Feeding Stuffs Regulations (Northern Ireland) 2001, analysis in relation to a sample of a premixture to which Part A or Part B of Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryptophan in feeding stuffs applies shall be treated as carried out in the prescribed manner for the purposes of sections 77(4) and 78(6) of the Act if it is carried out in accordance with whichever of those Parts is applicable in the case concerned.
+>
+> **11B.** For the purpose of the enforcement and administration of the Feeding Stuffs Regulations (Northern Ireland) 2001, analysis in relation to a sample of a feed material to which Annex II to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin–like PCBs in feeding stuffs applies shall be treated as carried out in the prescribed manner for the purposes of sections 77(4) and 78(6) of the Act if it is carried out in accordance with the requirements specified in that Annex.
+
+.
+
+## 13.[^key-3af6695b6b1d7f88ce7ab97cd2eeea57]
+
+In each of regulations 12 (modification of section 83 of the Agriculture Act 1970) and 13 (modification of section 86 of the Agriculture Act 1970), “(as specified in regulation 7)” shall be omitted.
+
+## 14. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-6ccba8c13a82054ae5009f3d73ad3cc3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 3rd June 2003.
+
+W. B. Smith
+
+A Senior Officer of the
+
+Department of Health, Social Services and Public Safety
+
+(This note is not part of the Regulations.)
+
+These Regulations, which amend the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999 (as already amended), the Feeding Stuffs (Enforcement) Regulations 1999 (as already amended), and the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999 (as already amended), implement Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin–like PCBs in feeding stuffs (O.J. No. L209, 6.8.2002, p. 15).
+
+These Regulations –
+
+- (a) amend the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999 (“the 1999 Regulations”) by –
+  - (i) inserting into regulation 1(2) a definition of “Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070)” (*regulation 3*),
+  - (ii) substituting a revised regulation 3, which makes the requirements as regards the prescribed manner of taking and handling samples, which previously applied only to samples of feeding stuffs, applicable also to feed materials to be sampled pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) and removes the reference to paragraph 10 of Part II of Schedule 1 to the 1999 Regulations (*regulation 4*),
+  - (iii) amending regulation 5 so that it now includes provisions which, when read with provisions added by the Regulations to Schedule 2 to the 1999 Regulations, specify the method of analysis to be used to determine whether dioxins and dioxin–like PCBs are present or active in a sample of a feeding stuff or a feed material to be analysed pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) (and if it is in what quantity or proportion) and extend to that determination the application of specified provisions in Part I of Schedule 2 to the 1999 Regulations (*regulations 5 and 7*), and
+  - (iv) modifying Part IV of the Agriculture Act 1970 ([1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40) – “the 1970 Act”) so as to provide that, in order to determine whether dioxins and dioxin–like PCBs are present or active in a sample of a feeding stuff or a feed material to be analysed pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) (and if they are in what quantity or proportion) the sample is to be submitted to and analysed by a laboratory which satisfies specified requirements of that Directive, and making consequential amendments to Parts I and II of Schedule 3 to the 1999 Regulations (*regulation 6*);
+- (b) amend the Feeding Stuffs (Enforcement) Regulations 1999 by –
+  - (i) modifying regulation 7 so as to disapply it in relation to regulations 11 and 11A and ensure that it does not become applicable in relation to the new regulation 11B (regulation 9);
+  - (ii) making consequential amendments to those Regulations (*regulations 10, 11(a) and (b) and 13)*;
+  - (iii) providing that samples taken in accordance with section 76 of the 1970 Act (as modified for the purposes of those Regulations) are to be deemed to be taken in the prescribed manner for the purposes of Part IV of that Act (*regulation 11(c)*);
+  - (iv) further modifying section 76(9) of the 1970 Act as modified for the purposes of those Regulations by inserting into it a reference to section 76(10) as so modified (*regulation 11(d)*);
+  - (v) substituting revised regulations 11 and 11A (which are concerned with analysis for the purposes of sections 77(4) and 78(6) of the 1970 Act), the former being amended to include reference to feed materials to which Annex II to Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) applies and the latter being re–enacted with drafting improvements (*regulation 12*), and
+  - (vi) inserting a new regulation, 11B, which specifies the circumstances in which, for the purposes of enforcing the Feeding Stuffs Regulations (Northern Ireland) 2001, analysis in relation to samples of feed materials to which Annex II to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) applies is to be treated as carried out in the prescribed manner for the purposes of sections 74(4) and 78(6) of the 1970 Act (*regulation 12*); and
+  - (vii) make consequential amendments to the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999 (*regulation 14*).
+
+## Annotations
+
+[^f00001]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40); sections 68(1A) and 74A were inserted by the Agriculture Act 1970 Amendment Regulations 1982 ([S.I. 1982/980](https://www.legislation.gov.uk/uksi/1982/980)) and the European Communities Act 1972 ([1972 c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), Schedule 4, paragraph 6 respectively
+
+[^f00002]: Footnote: [S.R. 2000 No. 78](https://www.legislation.gov.uk/nisr/2000/78)
+
+[^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1. Under Article 3 of the EC Regulation “food law” extends to feed produced for, or fed to, food producing animals
+
+[^f00004]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers conferred by section 2(2) were extended by virtue of section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51)
+
+[^key-abb8cd35a38f9330ca7206aa37115972]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/287/regulation/1) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-e62e96fb4d359e6fe9f08580bd91981d]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/nisr/2003/287/regulation/2) revoked (11.10.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 (S.R. 2010/323)](https://www.legislation.gov.uk/nisr/2010/323), [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/323/schedule/3)
+
+[^key-a64b2f5549c442816e6381e6a2bf6440]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/nisr/2003/287/regulation/8) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005/546)](https://www.legislation.gov.uk/nisr/2005/546), [reg. 1](https://www.legislation.gov.uk/nisr/2005/546/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/546/schedule/3)
+
+[^key-03c56cd76b098f56422ef3bf0cbacaa6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/287/regulation/11) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+
+[^key-267e055deaddae82b7ae82abe3733559]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/287/regulation/12) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+
+[^f00012]: Footnote: [S.R. 2001 No. 47](https://www.legislation.gov.uk/nisr/2001/47), as amended by [S.R. 2001 Nos. 209](https://www.legislation.gov.uk/nisr/2001/209) and [428](https://www.legislation.gov.uk/nisr/2001/428) and [S.R. 2002 No. 263](https://www.legislation.gov.uk/nisr/2002/263)
+
+[^key-3af6695b6b1d7f88ce7ab97cd2eeea57]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/287/regulation/13) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+
+[^key-6ccba8c13a82054ae5009f3d73ad3cc3]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/287/regulation/14) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005/546)](https://www.legislation.gov.uk/nisr/2005/546), [reg. 1](https://www.legislation.gov.uk/nisr/2005/546/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/546/schedule/3)

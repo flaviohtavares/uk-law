@@ -1,0 +1,197 @@
+---
+title: Teachers' (Eligibility) Regulations (Northern Ireland) 1997
+id: nisr/1997/312
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-06-24'
+text_date: '2006-11-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/312
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/312/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Teachers' (Eligibility) Regulations (Northern Ireland) 1997
+
+> Text as at 2006-11-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 312
+
+EDUCATION
+
+Teachers' (Eligibility) Regulations (Northern Ireland) 1997
+
+Made
+
+24th June 1997
+
+Coming into operation
+
+1st September 1997
+
+The Department of Education, in exercise of the powers conferred on it by Articles 70(1) and (2)[^f00001] and 134(1)[^f00002] of the Education and Libraries (Northern Ireland) Order 1986[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-00cdccd399faafbdf02d1a795f1fa0a1]
+
+These Regulations may be cited as the Teachers' (Eligibility) Regulations (Northern Ireland) 1997 and shall come into operation on 1st September 1997.
+
+## 2. Revocations[^key-2dc30c72796cd9119f8c9eb45139c6c3]
+
+The following Regulations are hereby revoked—
+
+- (a) the Teachers' (Eligibility) Regulations (Northern Ireland) 1987[^f00004];
+- (b) the Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 1988[^f00005].
+
+## 3. Interpretation[^key-e0633351f6f4004c7ef8fb4ec19794db]
+
+In these Regulations—
+
+- “eligible to teach” means a person who has such qualifications as may be approved by the Department and satisfies the requirements of [^key-815c3f3771e6f6c7f55cd0f437cc6db6]... regulation 7 (Health requirements);
+- “medical practitioner” means a fully registered person within the meaning of the Medical Act 1983[^f00006];
+- “reckonable service” has the same meaning as in the Teachers' Superannuation Regulations (Northern Ireland) 1977[^f00007].
+
+## 4. Application[^key-3a4aef16c24d667dac9fa61fa68731cb]
+
+These Regulations shall apply to teachers in grant-aided schools and to peripatetic teachers.
+
+## 5. Qualifications[^key-f78137510b98a2984e3a1fa84f6af78d]
+
+Every person employed as a teacher shall have such qualifications as may be approved by the Department.
+
+## 6. Age requirements[^key-18ceb0c8326949df348b041ac91ab6a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Health requirements[^key-565b69009189aadfacc3645685fa16e5]
+
+(1) An employing authority shall not employ a person as a teacher unless it is satisfied as to his health or physical capacity therefor.
+
+(2) For the purpose of this regulation, where it appears to an employing authority reasonable to do so—
+
+- (a) in the case of the first appointment as a teacher, it may accept the conclusions of an institution providing courses for the initial or further training of teachers;
+- (b) in the case of any appointment to employment as a teacher of a person previously employed in such employment, it may rely upon the person’s medical record while in that employment.
+
+(3) A person employed as a teacher shall not continue in that employment if his employing authority is satisfied that he has not the health or physical capacity therefor.
+
+(4) For the purpose of this regulation, where it appears to an employing authority that a person may no longer have the health or physical capacity for employment as a teacher, that employing authority—
+
+- (a) may suspend his employment;
+- (b) shall afford him an opportunity to submit medical evidence and make representations to it;
+- (c) shall consider such evidence and representations, and any other medical evidence available to it, including such evidence which has been furnished on the ground that it would not be in the best interests of the person concerned to see it;
+- (d) may require him to submit himself for examination by a medical practitioner appointed by it and if, without good cause, he fails to submit himself for such examination or refuses to make available medical evidence or information sought by the medical practitioner, it may reach a conclusion in the matter on such evidence and information available to it, notwithstanding that further medical evidence may be desirable.
+
+(5) At any time before such medical examination as is referred to in paragraph (4)(*d*), his employing authority, or the person himself, may submit to the medical practitioner appointed under that paragraph a statement containing evidence or other matter relevant to the examination; and the examination may be attended by any medical practitioner appointed for the purpose by the person being examined.
+
+(6) Paragraph (4) shall have effect without prejudice to the power of a board of governors or principal to suspend a person under Schedule 4 to the Education Reform (Northern Ireland) Order 1989[^f00008].
+
+## 8. Employment of teachers[^key-8ccf040e372eb3439d47a9f2252967e2]
+
+(1) Subject to paragraph (2) or (3), as the case may be, only persons eligible to teach shall be employed as teachers in a grant-aided school or as peripatetic teachers.
+
+(2) Subject to paragraph (5), where a board of governors which is an employing authority is satisfied that no person eligible to teach is available for employment, it may employ for a period normally not exceeding four weeks, a person who is not eligible to teach.
+
+(3) Subject to paragraph (5), where a board of governors which is not an employing authority satisfies the relevant employing authority that no person eligible to teach is available for employment, the board of governors—
+
+- (a) may appoint for a period normally not exceeding four weeks, a person who is not eligible to teach; and
+- (b) shall notify that employing authority within three working days of such appointment.
+
+(4) In paragraph (3) “working day” means any weekday other than a Saturday or a public holiday.
+
+(5) A board of governors shall not appoint to employment under paragraph (2) or (3) any person whose employment is for the time being—
+
+- (a) suspended by an employing authority under regulation 7(4)(*a*); or
+- (b) prohibited or restricted by the Department under regulation 9(1)(*a*) or (*b*).
+
+## 9. Prohibition or restriction on a person’s employment as a teacher[^key-11e0a26811ec61679be6783a954b34f6]
+
+(1) The Department may prohibit or restrict the employment or further employment of a person eligible to teach—
+
+- (a) on medical grounds; or
+- (b) on grounds of his misconduct (whether or not evidenced by his conviction of a criminal offence).
+
+(2) The Department may direct an employing authority to suspend or terminate the teacher’s employment.
+
+(3) The Department shall not exercise its powers under paragraph (2) without first consulting that employing authority.
+
+(4) Where the Department is considering exercising its powers under paragraph (1) or (2) it shall—
+
+- (a) afford the teacher concerned an opportunity to make representations to it;
+- (b) consider such representations and all other relevant information available to it.
+
+(5) Where the Department has prohibited or restricted a person’s employment as a teacher on medical grounds or on grounds of his misconduct, it may subsequently remove or modify such prohibition or restriction.
+
+## 10. Misconduct reports[^key-b4c8eeb2cfc1538df21eab9ea03ca666]
+
+Where an employing authority has dismissed a person from employment as a teacher on grounds of his misconduct (whether or not he is convicted of a criminal offence) or would have so dismissed him or considered so dismissing him but for his resignation, that employing authority shall give to the Department such information relating to those grounds as the Department thinks fit.
+
+Sealed with the Official Seal of the Department of Education on
+
+D. Woods
+
+Assistant Secretary
+
+24th June 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations revoke and replace the Teachers' (Eligibility) Regulations (Northern Ireland) 1987 and the Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 1988. The Regulations provide for persons eligible to teach—
+
+- (a) to have such qualifications as may be approved by the Department (regulation 5); and
+- (b) to satisfy the age requirements (regulation 6) and health requirements (regulation 7).
+
+- Regulation 7 provides that a person shall not be employed or continue to be employed as a teacher where he no longer satisfies the health requirements. An employing authority may suspend his employment and the opportunity is given to the teacher to submit medical evidence and to make representations to the employing authority.
+- Regulation 8 provides for a person who is not eligible to teach to be appointed only where an employing authority is satisfied that no person who is eligible to teach is available for employment. Such an appointment is normally limited to a period of four weeks.
+- Regulation 9 enables the Department to prohibit or restrict the employment or further employment of a person eligible to teach on medical grounds or on grounds of his misconduct, and to direct an employing authority to suspend or terminate a teacher’s employment. The Department must first consult the employing authority and give the teacher concerned an opportunity to make representations to the Department. The Department may remove or modify any such prohibition or restriction.
+- The Regulations also make the following principal changes—
+  - regulation 10 requires an employing authority to provide the Department with information about any teacher it has dismissed on grounds of misconduct or would have considered so dismissing but for his resignation;
+  - new teachers are no longer required to serve a probationary period before their eligibility to teach is confirmed; and
+  - the Department may no longer prohibit or restrict a teacher’s employment on educational grounds.
+
+## Annotations
+
+[^f00001]: Footnote: Article 70 was substituted by Article 8 of S.I. [1987/167 (N.I. 2)](https://www.legislation.gov.uk/nisi/1987/167) and Article 70(1) was amended by Article 42(2) of S.I. [1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810)
+
+[^f00002]: Footnote: As amended by Article 50(1) and Part II of Schedule 4 to S.I. [1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810)
+
+[^f00003]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
+
+[^key-00cdccd399faafbdf02d1a795f1fa0a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^key-2dc30c72796cd9119f8c9eb45139c6c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/312/regulation/2) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^f00004]: Footnote: [S.R. 1987 No. 266](https://www.legislation.gov.uk/nisr/1987/266)
+
+[^f00005]: Footnote: [S.R. 1988 No. 218](https://www.legislation.gov.uk/nisr/1988/218)
+
+[^key-e0633351f6f4004c7ef8fb4ec19794db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/312/regulation/3) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^key-815c3f3771e6f6c7f55cd0f437cc6db6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/1997/312/regulation/3) omitted (10.11.2006) by virtue of [Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/441)](https://www.legislation.gov.uk/nisr/2006/441), [regs. 1](https://www.legislation.gov.uk/nisr/2006/441/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2006/441/regulation/2/a)
+
+[^f00006]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
+
+[^f00007]: Footnote: [S.R. 1977 No. 260](https://www.legislation.gov.uk/nisr/1977/260): relevant amending regulations are [S.R. 1980 No. 305](https://www.legislation.gov.uk/nisr/1980/305)
+
+[^key-3a4aef16c24d667dac9fa61fa68731cb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/312/regulation/4) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^key-f78137510b98a2984e3a1fa84f6af78d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/312/regulation/5) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^key-18ceb0c8326949df348b041ac91ab6a6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/312/regulation/6) revoked (10.11.2006) by [Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/441)](https://www.legislation.gov.uk/nisr/2006/441), [regs. 1](https://www.legislation.gov.uk/nisr/2006/441/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2006/441/regulation/2/b)
+
+[^key-565b69009189aadfacc3645685fa16e5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/312/regulation/7) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^f00008]: Footnote: S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
+
+[^key-8ccf040e372eb3439d47a9f2252967e2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/312/regulation/8) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^key-11e0a26811ec61679be6783a954b34f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/312/regulation/9) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+
+[^key-b4c8eeb2cfc1538df21eab9ea03ca666]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/312/regulation/10) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)

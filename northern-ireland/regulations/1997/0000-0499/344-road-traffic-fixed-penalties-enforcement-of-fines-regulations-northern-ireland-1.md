@@ -1,0 +1,288 @@
+---
+title: Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997
+id: nisr/1997/344
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-07-28'
+text_date: '1997-07-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/344
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/344/data.pdf
+pending_changes: 23
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (23).** Text as at 1997-07-28. See https://www.legislation.gov.uk/changes/affected/nisr/1997/344
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1997 No. 344
+
+ROAD TRAFFIC
+
+Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997
+
+Made
+
+28th July 1997
+
+To be laid before Parliament
+
+Coming into operation
+
+1st October 1997
+
+The Lord Chancellor, in exercise of the powers conferred on him by Article 76(4) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00001] hereby makes the following Regulations:—
+
+## 1. Citation and commencement[^key-0b21ccffee3a994eb31a3db5800afaa1]
+
+These Regulations may be cited as the Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997 and shall come into operation on 1st October 1997.
+
+## 2. Interpretation[^key-2cb4dd1c314bea72bac6185f36bbb24c]
+
+In these Regulations—
+
+- “clerk of petty sessions” has the same meaning as in Article 2(4) of the Magistrates' Courts (Northern Ireland) Order 1981[^f00002];
+- “court” means a resident magistrate sitting in or out of petty sessions held pursuant to Article 11 of the Magistrates' Courts (Northern Ireland) Order 1981;
+- “complaint” means a complaint for failing to pay a sum payable in default;
+- “county court division” has the same meaning as in Article 3 of the County Courts (Northern Ireland) Order 1980[^f00003];
+- “defaulter” means a person against whom a sum payable in default has been registered under Article 76(1) of the Offenders Order;
+- “defendant” means a defaulter against whom a complaint is made;
+- “notice of registration” means notice of registration in accordance with Article 76(2) of the Offenders Order;
+- “petty sessions district” has the same meaning as in Article 11 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00002];
+- “resident magistrate” means a resident magistrate appointed under Part II of the Magistrates' Courts Act (Northern Ireland) 1964[^f00004];
+- “the Offenders Order” means the Road Traffic Offenders (Northern Ireland) Order 1996[^f00005];
+- “sum payable in default” means a sum registered under Article 76 of the Offenders Order for enforcement as a fine.
+
+## 3. Procedure on registration of a sum payable in default[^key-e6c2486b884c345cb4a65d98188469a7]
+
+(1) This Regulation applies where the Chief Constable, or a person authorised by him to act in that behalf, issues a registration certificate under Article 75 of the Offenders Order.
+
+(2) The clerk of petty sessions directed by the Lord Chancellor under Article 75(3) of the Offenders Order to receive a registration certificate shall upon receipt of such a certificate—
+
+- (a) in the Order Book of the court of summary jurisdiction for that petty sessions district sign the entry required to be made by him by Article 76(1) of the Offenders Order; and
+- (b) give the defaulter notice of registration in the form in the Schedule.
+
+(3) A sum payable in default shall be enforced only in accordance with Regulations 4, 5 and 6.
+
+## 4. Enforcement where defaulter fails to pay by due date[^key-6b3fbbc70b155dfac91aa07ceadd5ff0]
+
+(1) This Regulation is subject to Regulation 6 and applies where a defaulter has failed to pay a sum payable in default by the due date.
+
+(2) A resident magistrate or other justice of the peace may, upon complaint made to him by the clerk of petty sessions for the petty sessions district in which the sum payable in default is registered for enforcement as a fine, at any time after the expiration of 14 days from the due date and before the expiration of 6 months from that date—
+
+- (a) issue and cause to be served on the defendant a summons for the appearance of the defendant before a court acting for the same petty sessions district in which the sum payable in default is registered; or
+- (b) by warrant cause the defendant to be brought before a court acting for the same petty sessions district in which the sum payable in default is registered or for any other petty sessions district in the same county court division.
+
+(3) In paragraphs (1) and (2) “the due date” means—
+
+- (a) within the time stated in the notice of registration; or
+- (b) where any application for a longer time to pay than that stated in the notice of registration has been granted by the court under Article 91(1) of the Magistrates' Courts (Northern Ireland) Order 1981 the final date by which payment was to have been made; or
+- (c) where any application for payment by instalments has been granted by the court under Article 91(1) of the Magistrates' Courts (Northern Ireland) Order 1981 where the defendant has failed to pay any one instalment and the final date by which that instalment was to have been paid has passed.
+
+(4) A warrant shall not be issued under paragraph (2)(*b*) unless the complaint is in writing and substantiated on oath.
+
+## 5. Procedure where warrant issued[^key-12263444b9d7060d7c53046e2f39e656]
+
+(1) Where a defendant has been taken into custody in pursuance of a warrant issued under Regulation 4(2)(*b*) or paragraph (5) of this Regulation for the purpose of causing him to be brought before a court he shall, if it will not be practicable to bring him before a court within twenty-four hours after he was so taken into custody, be brought, as soon as practicable, before a justice of the peace.
+
+(2) If he thinks fit the justice of the peace may discharge the defendant upon the defendant entering into a recognizance for a reasonable amount to appear before a court at the time and place named in the recognizance.
+
+(3) Where a defendant is not so discharged the justice of the peace shall commit him to prison and direct that he shall be brought before a court as soon as practicable thereafter and in any case not later than seven days from the date of such commitment.
+
+(4) A court before which a defendant is brought under Regulation 4(2)(*b*) or paragraph (5) of this Regulation may hear the complaint in accordance with Regulation 7 or may, if it thinks fit, discharge such person upon his entry into a recognizance for a reasonable amount to appear before a court at the time and place named in the recognizance.
+
+(5) If the defendant fails to appear at the time and place mentioned in a recognizance entered into under paragraph (2) or (4) the court may by warrant cause him to be brought before a court acting for the same petty sessions district in which the sum payable in default is registered or for any other petty sessions district in the same county court division.
+
+## 6. Enforcement of sums payable in default where the defaulter is a body corporate[^key-da32ea06e64536dd1e7f4fe9a28dc25e]
+
+(1) On the registration of any sum payable in default against a body corporate a complaint in accordance with Regulation 4 shall not be required.
+
+(2) If the defaulter is a body corporate the court may, on the application of the clerk of petty sessions for the petty sessions district in which the sum payable in default is registered, make such order under the provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the satisfaction and enforcement of sums adjudged to be paid by a conviction (as modified by paragraph (3)) as it sees fit.
+
+(3) The Magistrates' Courts (Northern Ireland) Order 1981 shall apply to sums payable in default by a body corporate as if—
+
+- (a) in Article 91 the words “, subject to Article 93,” were omitted;
+- (b) in Article 92 paragraph (1)—
+  - (i) the words “Subject to this Article and Article 93” were omitted;
+  - (ii) sub-paragraphs (*b*) and (*c*) were omitted;
+- (c) in Article 92 paragraphs (2), (3) and (5) were omitted;
+- (d) Articles 93, 94, 96 and 110 were omitted; and
+- (e) in Article 115(1) after the words “this Order”, the words “or under the Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997” were inserted.
+
+## 7. Procedure at hearing[^key-e96d05fd50178666d5cef5414974bd56]
+
+(1) Subject to paragraph (2) at the hearing of a complaint the court shall hear the evidence and such representations, if any, as may be made to it by or on behalf of the parties and the court may make such order under the provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the satisfaction and enforcement of sums adjudged to be paid by a conviction (as modified by Regulation 8) as it sees fit.
+
+(2) At the hearing of a complaint if the defendant or his representative on his behalf admits the truth of the complaint the court may make an order without hearing the evidence.
+
+(3) Where at the time and place appointed for the hearing or adjourned hearing of a complaint the defendant fails to appear, the court may adjourn the hearing or, if satisfied that there are no sufficient grounds for adjournment or further adjournment may, subject to paragraphs (4) and (6), proceed in his absence.
+
+(4) Where the defendant fails to appear in answer to a summons issued under Regulation 4(2)(*a*) the court shall only proceed in his absence if it is proved that the summons was duly served upon him or that he is evading service of the summons.
+
+(5) Where a defendant appears at the time and place appointed for the hearing or adjourned hearing of a complaint the court may, if the complainant (having in the case of a warrant issued under Regulation 4(2)(*b*) or 5(5) due notice of the defendant’s arrest) fails to appear,—
+
+- (a) dismiss the complaint;
+- (b) order the complaint to be struck out;
+- (c) adjourn or further adjourn the hearing; or
+- (d) if evidence has been received on a previous occasion, proceed in the absence of the complainant.
+
+(6) Where at the time and place appointed for the hearing or adjourned hearing of a complaint both the complainant and the defendant fail to appear, the court may—
+
+- (a) dismiss the complaint;
+- (b) order the complaint to be struck out;
+- (c) adjourn or further adjourn the hearing; or
+- (d) if evidence has been received on a previous occasion, proceed in the absence of the parties.
+
+## 8. Modification of the Magistrates' Courts (Northern Ireland) Order 1981 in respect of proceedings against defendants[^key-f691c0ff9fb3d5d91213a7b1ad2eaf76]
+
+The provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the satisfaction and enforcement of sums adjudged to be paid by a conviction shall apply to a sum payable in default registered against a defendant as if—
+
+- (a) in Article 91(1) the words “, subject to Article 93,” were omitted;
+- (b) in Article 92(1) the words “and Article 93” were omitted;
+- (c) Article 93 were omitted;
+- (d) in Article 115(1) after the words “this Order”, the words “or under the Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997” were inserted.
+
+## 9. Remittal of sums payable in default[^key-a96a45bb87583e2fcc919fc5aec97b0a]
+
+The court may, on the application in writing by the clerk of petty sessions for the petty sessions district in which a sum payable in default is registered, remit the sum so registered or any part of it if the court is satisfied that—
+
+- (a) the defaulter or defendant cannot be found;
+- (b) the defaulter or defendant is living outside Northern Ireland;
+- (c) the defaulter or defendant is dead; or
+- (d) on the return of a warrant of distress it appears that the money and goods of the defaulter or defendant are insufficient to satisfy the sum.
+
+## 10. Right of Appeal[^key-dd3280dc375ec2fdbc018024e3dfbd63]
+
+A defendant may appeal to a county court against any order of a court made with respect to the enforcement of payment of a sum payable in default as if the order had been made upon his conviction by a magistrates' court.
+
+## 11. Service of documents[^key-643403636aaead1b92562026abb075dc]
+
+Section 24 of the Interpretation Act (Northern Ireland) 1954[^f00006] shall apply in relation to the manner in which a person may be provided with a document for the purposes of enforcing the payment of a sum registered under Article 76 of the Order as a fine as if in subsection (1) of that section the word “registering” were omitted.
+
+## 12. Conduct of proceedings[^key-6f0fb7938ed1a0459f1eb3e3344bf69e]
+
+A member of the Northern Ireland Court Service designated by the Lord Chancellor although not of counsel or a solicitor may prosecute and conduct any proceedings under these Regulations before a court or a Justice of the Peace on behalf of the clerk of petty sessions.
+
+Irvine of Lairg, *C.*
+
+Dated 28th July 1997.
+
+## SCHEDULE
+
+Road Traffic Offenders (Northern Ireland) Order 1996: Article 76(2)
+
+Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997: Regulation 2(1)
+
+Regulation 3(2)(*b*)
+
+### Notice of Registration of a Fixed Penalty as a Fine
+
+To: PETTY SESSIONS OFFICE
+
+COURTHOUSE
+
+ORDER BOOK No.
+
+On the day of 19 , a fixed penalty notice was issued against you and remains unpaid.
+
+The Chief Constable (or person authorised on his behalf) has now issued a registration certificate under \[Article 61(3)/Article 69(2)\*[^f00007]\] of the Road Traffic Offenders (NI) Order 1996 requiring a sum equal to the fixed penalty plus one half of the amount of that penalty to be registered under Article 76 of the Road Traffic Offenders (NI) Order 1996 for enforcement as a fine.
+
+You are hereby given notice that:
+
+- (a) in consequence of the registration certificate issued by the Chief Constable or person authorised on his behalf the sum of £ has been registered as a fine and is now enforceable by the court of summary jurisdiction acting for the petty sessions district of \[ \];
+- (b) the particulars of the offence to which the fixed penalty notice relates are:
+  - Date of offence
+  - Location of offence
+  - Nature of offence
+  - Fixed Penalty Notice No.
+  - Date Notice to owner/notice to hirer\*[^f00007] was issued
+  - Vehicle Registration No. #[^f00008]
+  - Driver No. #[^f00008]
+- (c) you must pay the fine on or before the day of 19 either by post in a pre-paid envelope addressed to the clerk of petty sessions at (address of courthouse) or personally at that court office.
+
+If you cannot pay you should on or before the last date for payment mentioned in paragraph (*c*) above either make an application in writing for further time to pay or for payment to be made in instalments. Your application to the court should be addressed to me, the clerk of petty sessions at the above address.
+
+#### 1. WARNING[^key-70506e66fb05a77b3bc01087d19abf97]
+
+**Failure to pay this fine within the time allowed may result in a summons or a warrant for your arrest to secure your attendance at court being issued against you. A court hearing will take place to decide how this fine is to be enforced and an order may be made committing you to prison in default of payment of the fine.**
+
+#### 2. Bodies Corporate
+
+**If this notice is addressed to a body corporate failure to pay this fine within the time allowed may result in a warrant of distress being issued against the property of that body without further notice for the purpose of recovering the sum.**
+
+Dated this day of 19 .
+
+Clerk of Petty Sessions
+
+(This note is not part of the Regulations.)
+
+These Regulations are made under Part IV of the Road Traffic Offenders (Northern Ireland) Order 1996 which makes provision for a new fixed penalty scheme to be introduced in respect of road traffic offences in Northern Ireland and, in particular, for unpaid fixed penalties to be registered as sums adjudged to be paid by a conviction of a court of summary jurisdiction.
+
+These Regulations prescribe the procedure to be followed on the registration of such sums and prescribe the Notice of Registration of the sum as a sum adjudged to be paid by conviction of a court of summary jurisdiction which must be sent to the person defaulting on payment of the fixed penalty under Article 76(2) of the Road Traffic Offenders (Northern Ireland) Order 1996 and Regulation 3(2)(*b*) of these Regulations.
+
+In respect of persons other than bodies corporate, Regulation 4 and 5 prescribe that upon complaint for non-payment of such a sum a summons or warrant of arrest may be issued for the appearance of the person defaulting on payment of the sum at a court of summary jurisdiction. Under Regulation 7 (which prescribes the procedure at the hearing of such a complaint) the court may make such order as it sees fit under the provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the satisfaction and enforcement of such sums as modified by Regulation 8.
+
+Regulation 6 prescribes that in respect of such a sum registered against a body corporate a court may make any order it would have power to make in respect of the satisfaction and enforcement of such a sum under the provisions of the Magistrates' Courts (Northern Ireland) Order 1981 as modified by paragraph (3) of that Regulation.
+
+Regulation 9 provides for the remittal of such sums by the court in certain circumstances.
+
+Regulation 10 grants a right of appeal against any order of a court in respect of the enforcement of such a sum.
+
+Regulation 11 permits the service of documents under the Regulations by ordinary post.
+
+Regulation 12 permits members of the Northern Ireland Court Service designated by the Lord Chancellor for that purpose to prosecute and conduct proceedings under the Regulations although not of counsel or a solicitor.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
+
+[^key-0b21ccffee3a994eb31a3db5800afaa1]: Commencement: Reg. 1 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-2cb4dd1c314bea72bac6185f36bbb24c]: Commencement: Reg. 2 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^f00002]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^f00003]: Footnote: S.I. [1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
+
+[^f00004]: Footnote: [1964 c. 21 (N.I.)](https://www.legislation.gov.uk/apni/1964/21)
+
+[^f00005]: Footnote: S.I. [1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
+
+[^key-e6c2486b884c345cb4a65d98188469a7]: Commencement: Reg. 3 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-6b3fbbc70b155dfac91aa07ceadd5ff0]: Commencement: Reg. 4 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-12263444b9d7060d7c53046e2f39e656]: Commencement: Reg. 5 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-da32ea06e64536dd1e7f4fe9a28dc25e]: Commencement: Reg. 6 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-e96d05fd50178666d5cef5414974bd56]: Commencement: Reg. 7 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-f691c0ff9fb3d5d91213a7b1ad2eaf76]: Commencement: Reg. 8 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-a96a45bb87583e2fcc919fc5aec97b0a]: Commencement: Reg. 9 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-dd3280dc375ec2fdbc018024e3dfbd63]: Commencement: Reg. 10 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^key-643403636aaead1b92562026abb075dc]: Commencement: Reg. 11 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-6f0fb7938ed1a0459f1eb3e3344bf69e]: Commencement: Reg. 12 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+
+[^f00007]: Footnote: \* delete as appropriate
+
+[^f00008]: Footnote: \# to be completed if known by the clerk of petty sessions
+
+[^key-70506e66fb05a77b3bc01087d19abf97]: Commencement: Sch. Pt. 1 para. 1n1 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)

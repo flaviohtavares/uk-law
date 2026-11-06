@@ -1,0 +1,45 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 160
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '160'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/160
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 160
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 160. Definitions for purposes of Part 9
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) In this Part—
+
+- “**the appropriate officer**”, in relation to a person who is detained in a place of safety, means—
+  - (a) where the place of safety is a hospital, the constable who has charge of the person;
+  - (b) where the place of safety is a police station, the custody officer at that police station;
+- “best interests”: see section 157 for provisions about the determination of a person's best interests;
+- “**custody officer**”, in relation to a police station, means a person who under PACE is a custody officer, or performing the functions of a custody officer, at that police station;
+- “**PACE**” means the Police and Criminal Evidence (Northern Ireland) Order 1989;
+- “**place of safety**” means—
+  - (a) any hospital whose managing authority is willing temporarily to receive persons who may be taken there under this Part; or
+  - (b) any police station;
+- “**public place**” means a place to which the public have access;
+- “unable to make a decision”, and references to enabling a person to make a decision, are to be read in accordance with section 4.
+
+(2) The Department of Justice may by regulations amend the definition of “place of safety” in subsection (1).
+
+(3) Regulations under subsection (2) may make such consequential amendments of this Part as the Department of Justice considers appropriate.
+
+(4) The provision which may be made by virtue of subsection (3) includes, in particular, provision which amends or applies either of sections 142 and 143 or makes provision corresponding to those sections.
+
+(5) For the purposes of sections 147 and 157, where the age of a person is not known, it is to be taken to be the age that the person appears to be.

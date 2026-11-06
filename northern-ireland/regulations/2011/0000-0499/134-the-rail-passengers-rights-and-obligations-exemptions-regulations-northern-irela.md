@@ -1,0 +1,103 @@
+---
+title: The Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011
+id: nisr/2011/134
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-03-21'
+text_date: '2014-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/134
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/134/pdfs/nisrem_20110134_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/134/pdfs/nisr_20110134_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/134/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011
+
+> Text as at 2014-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 134
+
+Transport
+
+The Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011
+
+Made
+
+21st March 2011
+
+Coming into operation
+
+22nd April 2011
+
+The Department for Regional Development[^f00001], being a Department designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to measures relating to railways and railway transport, in exercise of the powers conferred by that section makes the following Regulations:
+
+## 1. Citation, commencement and extent[^key-670f37725db672f98e90354389f84166]
+
+(1) These Regulations may be cited as the Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011 and come into operation on the 22<sup>nd</sup> April 2011.
+
+## 2. Interpretation[^key-c7edab2f644153cb7df070551dfeb2b7]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Exemption of domestic rail passenger services from the provisions of the Community Regulation[^key-c7edab2f644153cb7df070551dfeb2b7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Liability in respect of exempt services[^key-c7edab2f644153cb7df070551dfeb2b7]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Revocation of regulations 2, 3 and 4[^key-6208027f1f43d3985fd274b21235f12c]
+
+Regulations 2 and 3 and 4 shall cease to have effect on 31<sup>st</sup> December 2014.
+
+Sealed with the Official Seal of the Department for Regional Development on 21st March 2011
+
+B. R. D. White
+
+A senior officer of the
+
+Department
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations exempt domestic rail passenger services in Northern Ireland from provisions of Regulation [(EC) No. 1371/2007](https://www.legislation.gov.uk/european/regulation/2007/1371) of the European Parliament and of the Council of 23<sup>rd</sup> October 2007 on rail passengers’ rights and obligations (“the Community Regulation”) (OJ No. L315,3.12.2007, p.14).
+
+The Community Regulation harmonises, across the European Community, the rules regarding the rights and obligations of rail passengers. It particularly focuses on the areas of information and ticketing provision, rights in case of injury and damage to luggage, compensation and assistance for delays, and rights for persons of reduced mobility and enforcement of those rights. It comes into operation on 22<sup>nd</sup> April 2011 and Article 2(4) gives member States the power to grant exemptions to the above services from all provisions of the Community Regulation except those listed in article 2(3). These relate primarily to the information to be provided to passengers; companies’ obligations to passengers in the event of delay, missed connections and cancellations; the definition and monitoring of service quality standards; the personal security of passengers; and the handling of complaints. An exemption under Article 2(4) may be granted for a period no longer than five years, which may be renewed for a maximum period of five years on each occasion.
+
+*Regulation 3(1)* grants such an exemption to domestic rail passenger services as defined in Article 3 (11) of the Community Regulation.
+
+*Regulation 4* makes an ancillary provision, to regulate the relationship between those operating exempt services and those operating services that are not exempt. Under the Community Regulation, an operator may be liable to passengers for acts and omissions of others, but those others may in turn be liable to that operator. However, where those others are exempt under these Regulations, they may no longer be so liable to that operator. Regulation 4 preserves the original position.
+
+Under *regulation 5*, regulations 2, 3 and 4 will cease to have effect on 31<sup>st</sup> December 2014.
+
+## Annotations
+
+[^f00001]: Footnote: [SI 1999/283](https://www.legislation.gov.uk/uksi/1999/283)
+
+[^f00002]: Footnote: [SI 1996/266](https://www.legislation.gov.uk/uksi/1996/266)
+
+[^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992 (Cm 2073) and the Protocol adjusting the agreement signed at Brussels on 17<sup>th</sup> March 1993 (Cm 2183)
+
+[^key-670f37725db672f98e90354389f84166]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/134/regulation/1) in operation at 22.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/134/regulation/1/1)
+
+[^key-c7edab2f644153cb7df070551dfeb2b7]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2011/134/regulation/2) ceases to have effect (31.12.2014) by virtue of [The Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011 (S.R. 2011/134)](https://www.legislation.gov.uk/nisr/2011/134), [reg. 5](https://www.legislation.gov.uk/nisr/2011/134/regulation/5)
+
+[^key-6208027f1f43d3985fd274b21235f12c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/134/regulation/5) in operation at 22.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/134/regulation/1/1)

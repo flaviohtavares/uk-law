@@ -1,0 +1,63 @@
+---
+title: The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 1999
+id: nisr/1999/389
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: repealed
+made_date: '1999-09-17'
+text_date: '2006-03-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/389
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/389/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 1999
+
+> This law has been repealed or revoked.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**No longer in force.**
+
+1999 No. 389
+
+PLANT HEALTH
+
+The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 1999 (revoked)[^key-03b08f3735b54a5ec4458dcad978eabb]
+
+Made
+
+17th September 1999
+
+Coming into operation
+
+1st November 1999
+
+[^key-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation and commencement[^key-03b08f3735b54a5ec4458dcad978eabb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^key-03b08f3735b54a5ec4458dcad978eabb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-03b08f3735b54a5ec4458dcad978eabb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/389) revoked (31.3.2006) by [The Plant Health (Wood and Bark) Order (Northern Ireland) 2006 (S.R. 2006/66)](https://www.legislation.gov.uk/nisr/2006/66), [reg. 1](https://www.legislation.gov.uk/nisr/2006/66/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/66/schedule/14)

@@ -1,0 +1,545 @@
+---
+title: The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013
+id: nisr/2013/43
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2013-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2013/43
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2013/43/pdfs/nisrem_20130043_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/43/pdfs/nisr_20130043_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/43/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 43
+
+Animals
+
+Animal Welfare
+
+The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013
+
+Laid before the Assembly in draft
+
+Made
+
+5th March 2013
+
+Coming into operation
+
+1st April 2013
+
+The Department of Agriculture and Rural Development, in exercise of the powers conferred on it by Sections 12 and 55(3) of the Welfare of Animals Act (Northern Ireland) 2011[^f00001] makes the following Regulations.
+
+In accordance with section 12(9) of that Act, the Department of Agriculture and Rural Development has consulted those persons appearing to it to represent interests with which these Regulations are concerned as it considered appropriate.
+
+In accordance with section 55(1) of that Act, a draft of these Regulations have been laid before and approved by resolution of the Northern Ireland Assembly.
+
+## PART I — INTRODUCTION
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 and shall come into operation on 1st April 2013.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “the Act” means the Welfare of Animals Act (Northern Ireland) 2011;
+- “breeding bitch” means an unneutered female dog which is more than 6 months old;
+- “breeding establishment” means one or more premises, within the same district council area, operated by the same person from which that person keeps 3 or more breeding bitches; and
+  - (a) breeds 3 or more litters of puppies in any 12 month period;
+  - (b) advertises 3 or more litters of puppies for sale in any 12 month period;
+  - (c) supplies 3 or more litters of puppies in any 12 month period; or
+  - (d) advertises a business of breeding or selling of puppies;
+- “charity” has the same meaning as set out in the Charities Act (Northern Ireland) 2008[^f00002];
+- “the Department” means the Department of Agriculture and Rural Development;
+- “the Dogs Order” means the Dogs (Northern Ireland) Order 1983[^f00003];
+- “enrichment and enhancement programme” means a written document approved by an inspector detailing how dogs will have the opportunity to express normal behaviour;
+- “hunt club” means a hunt club—
+  - (a) which is registered with a national hunting association that is a member of the Hunting Association of Ireland or registered with the Northern Ireland Masters of Hounds Association;
+  - (b) that operates in accordance with the guidelines for kennel management issued by the Hunting Association of Ireland; and
+  - (c) does not sell dogs or pups;
+- “inspector” means a person appointed by a district council for the purposes of the Act or these Regulations;
+- “licence” means a licence granted under regulation 5;
+- “licence conditions” means those conditions specified in Schedule 4 to these Regulations;
+- “other dog” means a male dog which is more than 6 months old;
+- “puppy” means a dog which is less than 6 months old; and
+- “socialization programme” means a written document approved by an inspector detailing how puppies will be socialized before being sold or homed.
+
+### 3. Notices
+
+(1) Any notice served under these Regulations shall be in writing and may be amended, suspended or revoked in writing at any time.
+
+(2) Any such notice may be served by—
+
+- (a) delivering it to the person;
+- (b) leaving it at the person’s usual or last known address; or
+- (c) sending it by post to the person at that address.
+
+(3) If the name or address of any occupier of premises on whom a notice is to be served under these Regulations cannot, after reasonable inquiry, be ascertained, the notice may be served by leaving it conspicuously affixed to a building or object on the premises.
+
+### 4. Licensing of a dog breeding establishment
+
+(1) The activity described in paragraph (2) is an activity for the purposes of section 12(1) of the Act.
+
+(2) A person shall not operate a breeding establishment except under the authority of a licence granted under these Regulations.
+
+(3) Paragraph (2) shall not apply to—
+
+- (a) a hunt club; or
+- (b) a charity.
+
+(4) A dog found on any premises shall, unless the contrary is shown, be presumed for the purposes of these Regulations to be kept at the premises.
+
+## PART II — ISSUING OF LICENCES
+
+### 5. Licences
+
+(1) An application for a licence shall—
+
+- (a) be in writing;
+- (b) be in the form prescribed in Schedule 1; and
+- (c) be accompanied by the appropriate fee specified in regulation 8(1).
+
+(2) On receipt of a fully completed application for a licence an inspector shall carry out an inspection of the applicant’s breeding establishment to ensure that the requirements specified in Schedule 4 are being met in relation to the establishment;
+
+(3) A district council shall grant a licence to the applicant, if it is satisfied that—
+
+- (a) the breeding establishment is situated in its district council area;
+- (b) the requirements specified in Schedule 4 are being met in relation to the establishment; and
+- (c) the appropriate fee has been paid in accordance with regulation 8(1).
+
+(4) In fulfilling its functions under these Regulations a district council shall have regard to guidance issued by the Department.
+
+(5) A licence granted by a district council under these Regulations shall—
+
+- (a) be in writing;
+- (b) be in the form specified in Schedule 2;
+- (c) subject to regulations 9 or 12, remain in force for a period of one year;
+- (d) state the number of bitches and other dogs over 6 months of age to be kept under the terms of the licence;
+- (e) be subject to the licensing conditions specified in Schedule 4; and
+- (f) may be subject to additional conditions as specified in the licence.
+
+(6) The holder of a licence shall ensure that a copy of the licence granted under these Regulations shall be displayed at all premises comprising the breeding establishment.
+
+(7) A district council shall maintain a register of all persons licensed under these Regulations and the register shall include all the details prescribed in Schedule 3.
+
+(8) The register may be kept in manual or computerised form so long as the record is capable of being reproduced in a legible form for inspection.
+
+### 6. Persons who shall not apply for a licence
+
+(1) A person shall not apply for a licence if they are disqualified under—
+
+- (a) section 33 of the Act;
+- (b) section 34 of the Animal Welfare Act 2006[^f00004];
+- (c) section 40(1) and (2) of the Animal Health and Welfare (Scotland) Act 2006 (disqualification orders)[^f00005];
+- (d) section 33A of the Dogs (Northern Ireland) Order 1983[^f00006];
+- (e) section 3(3) of the Breeding of Dogs Act 1973 from keeping a breeding establishment[^f00007];
+- (f) section 4(3) of the Riding Establishments Act 1964 from keeping a riding establishment[^f00008];
+- (g) section 3(3) of the Animal Boarding Establishments Act 1963 from keeping a boarding establishment[^f00009];
+- (h) section 1(1) of the Protection of Animals (Amendment) Act 1954 from having custody of an animal[^f00010];
+- (i) section 5(3) of the Pet Animals Act 1951 from keeping a pet shop[^f00011]; or
+- (j) section 5(2) or 9(5) of the Control of Dogs (Scotland) Act 2010[^f00012];
+
+and any licence issued to such a person is invalid.
+
+(2) A person under 16 years of age shall not apply for a licence.
+
+### 7. Death of a licence holder
+
+(1) In the event of the death of the licence holder, that licence is deemed to have been granted to the personal representatives of the licence holder and remains in force for a period of 3 months beginning with the date of death, but remains subject to the provisions in Part III.
+
+(2) Paragraph (1) shall not apply in the case of a personal representative who is subject to a disqualification order under any of the provisions set out in regulation 6.
+
+(3) The personal representative shall notify the district council which issued the licence that the licence has been vested in them within 1 month of the death of the licence holder.
+
+(4) A district council may, on the application of those personal representatives, extend the period of 3 months referred to in paragraph (1) if the district council is satisfied that the extension is necessary for the purpose of winding up the deceased’s estate and that no other circumstances make extension undesirable.
+
+### 8. Fees
+
+(1) A district council shall charge the following fee—
+
+- (a) in the case of a breeding establishment at which not more than 10 bitches are kept, £150;
+- (b) in the case of a breeding establishment at which not less than 11 and not more than 25 bitches are kept, £200;
+- (c) in the case of a breeding establishment at which not less than 26 and not more than 50 bitches are kept, £250;
+- (d) in the case of a breeding establishment at which not less than 51 and not more than 100 bitches are kept, £300;
+- (e) in the case of a breeding establishment at which not less than 101 and not more than 200 bitches are kept, £350; and
+- (f) for establishments over 200 bitches, £350 plus an amount of £50 for every additional 100 bitches.
+
+(2) The fee charged for granting a licence is not refundable.
+
+## PART III — AMENDMENT, SUSPENSION AND REVOCATION OF A LICENCE
+
+### 9. Grounds for amendment and suspension
+
+A district council may at any time amend or suspend a licence on being satisfied that—
+
+- (a) the licence conditions are not being complied with;
+- (b) there has been a breach of these Regulations;
+- (c) information supplied by the licence holder is false; or
+- (d) it is necessary to protect the welfare of an animal.
+
+### 10. Procedure for suspension and amendment
+
+(1) If a licence is amended or suspended the district council must notify the licence holder in writing, without undue delay, by way of notice in accordance with paragraph (3).
+
+(2) Subject to regulation 14(3) an amendment or suspension under regulation 9 has effect at the end of the period of 7 days beginning with the date of service of the notice of amendment or notice of suspension.
+
+(3) A notice of amendment or suspension shall—
+
+- (a) state the district council’s grounds for amendment or suspension;
+- (b) state when it comes into effect;
+- (c) specify any measures that the district council considers are necessary in order to remedy the grounds; and
+- (d) set out the right to make representations to a district council under regulation 14(1) and the right of appeal to the magistrates’ court under regulation 14(4).
+
+### 11. Reinstatement of licence
+
+(1) A district council shall reinstate a suspended licence by way of notice once it is satisfied that the grounds specified in the notice of suspension have been or will be complied with.
+
+(2) Where a licence is reinstated under paragraph (1) the period for which it is issued may be varied.
+
+### 12. Grounds for revocation of a licence
+
+(1) The district council may revoke a licence on being satisfied that—
+
+- (a) the licence conditions are not being complied with;
+- (b) there has been a breach of these Regulations;
+- (c) information supplied by the licence holder is false;
+- (d) it is necessary to protect the welfare of an animal; or
+- (e) a licence has been suspended for more than 28 days, unless there is an outstanding appeal to the magistrates’ court.
+
+(2) Where a licence holder is disqualified under any of the enactments listed in regulation 6 their licence is automatically revoked when the time limit for any appeal against that disqualification expires or, if an appeal is made, when that appeal is refused.
+
+### 13. Notice of revocation
+
+(1) When a district council revokes a licence it must notify the holder in writing and the notice of revocation shall have effect at the end of the period of 7 days beginning with the date of service of the notice of revocation.
+
+(2) A notice of revocation shall—
+
+- (a) state the district council’s grounds for revocation;
+- (b) state when it comes into effect; and
+- (c) set out the right to make representations to a district council under regulation 14(1) and the right of appeal to the magistrates’ court under regulation 14(4).
+
+### 14. Appeals
+
+(1) Any person who is aggrieved by the refusal to grant a licence under regulation 5(3), a decision to amend or suspend a licence under regulation 9 or the decision to revoke a licence under regulation 12 may within 7 days of the refusal or decision make representations in writing to the district council.
+
+(2) Where representations are made under paragraph (1) in relation to a decision made under regulation 9 the amendment or suspension shall not have effect until the district council considers the representations and makes a determination in accordance with paragraph (3).
+
+(3) The district council shall make a determination on the representations and inform the aggrieved person of its determination in writing within 7 days from the date of its determination.
+
+(4) A person aggrieved by the determination of the district council under paragraph (3) may appeal to a magistrate’s court.
+
+(5) The procedure on an appeal to a magistrates’ court under paragraph (4) is by way of complaint, and the Magistrates’ Courts (Northern Ireland) Order 1981[^f00013] applies to the proceedings.
+
+(6) The period within which an appeal may be brought is 28 days beginning with the day following the date on which the decision is notified under paragraph (3).
+
+## PART IV — MISCELLANEOUS PROVISIONS
+
+### 15. Powers of entry and search
+
+An offence under regulation 18(b) shall be treated as a relevant offence for the purposes of section 22 of the Act (entry and search under warrant in connection with offences).
+
+### 16. Evidence of registers
+
+In any proceedings under these Regulations a document purporting to be a copy of an entry in a register of breeding establishments and purporting to be certified as such by a person authorised by the district council shall be evidence of the matters recorded in the entry.
+
+### 17. Post-conviction powers
+
+The relevant post-conviction powers contained in sections 32, 33, 34 and 41 of the Act apply in relation to a conviction for an offence under regulation 18(b).
+
+### 18. Offences
+
+It is an offence for a person, without lawful authority or excuse to—
+
+- (a) act in breach of regulation 4; or
+- (b) contravene any condition of a licence,
+
+and a person guilty of such an offence shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 6 months, or both.
+
+### 19. Transitional provisions
+
+If a person registered with a district council in respect of a breeding establishment under Article 13 of the Dogs Order applies to a district council under regulation 5 for a licence not less than 28 days before the expiry of the registration, Schedule 4 shall have effect in relation to the application and in relation to any licence granted on foot of the application as if paragraphs 1(1)(a), (b) and (c) and 2(3) were omitted until the end of a period of six months beginning with the date of the licence.
+
+### 20. Enforcement
+
+These Regulations shall be enforced by the district council.
+
+### 21. Amendment of the Dogs (Northern Ireland) Order 1983
+
+(1) The Dogs Order shall be amended as follows.
+
+(2) In Article 2 (Interpretation) the definitions of “breeding establishment” and “unsterilised” shall be omitted.
+
+(3) In paragraph (1)(a) of Article 8 (Block licences) for “any of which is used for breeding purposes” substitute “which breed between them less than 3 litters in a 12 month period”.
+
+(4) After Article 11 (Appeal against refusal of, or cancellation of, registration in respect of guard dog kennels) the heading “Breeding establishments” shall be omitted.
+
+(5) Article 12 (Prohibition on breeding establishments) and Article 13 (Registration of breeding establishments) are repealed.
+
+(6) In Article 14 (Display of registration certificate) omit—
+
+- (a) “or a breeding establishment”; and
+- (b) “or, as the case may be, the establishment” in both places that it occurs.
+
+(7) In the heading of Article 15 (Registers of licences, guard dog kennels and breeding establishments) omit “and breeding establishments”.
+
+(8) In paragraph (1)(a) of Article 15 after “force” insert “and”.
+
+(9) In paragraph (1)(b) of Article 15 after “guard dog kennels” omit “and”.
+
+(10) Omit Article 15(1)(c).
+
+(11) In Article 16 (Evidence of registers)—
+
+- (i) after “licences” for “,” substitute “or”; and
+- (ii) omit “or breeding establishment”.
+
+(12) In paragraph (1)(b) of Article 18 (Penalty for applying for or obtaining a licence or registration while disqualified) omit “or a breeding establishment”.
+
+(13) Paragraph (1)(b) of Article 43 (Inspection of certain kennels and breeding establishments) shall be omitted.
+
+(14) In paragraph (1)(c) of Article 43 (Inspection of certain kennels and breeding establishments) omit “or for the purpose of dog breeding”.
+
+(15) In paragraph (1)(c)(i) of Article 43 (Inspection of certain kennels and breeding establishments) omit “establishment”.
+
+(16) In Article 46 (Power to extend provisions relating to breeding establishments to other establishments) for “12” substitute “14”.
+
+(17) In Article 47 (Records) omit “(b) a breeding establishment;”.
+
+### 22. Amendment of the Dogs (Licensing and Identification) Regulations (Northern Ireland) 2012
+
+In the declaration of the applicant specified in Schedule 5 (Application for a Block Licence) to the Dogs (Licensing and Identification) Regulations (Northern Ireland) 2012[^f00014], for “(a) not less than three unsterilized bitches any of which is used for breeding purposes; or” substitute “not less than three unsterilized bitches which are not kept under a breeding establishment licence.”
+
+### 23. Repeals
+
+The Dogs (Breeding Establishments and Guard Dog Kennels) Regulations (Northern Ireland) 1983[^f00015] are repealed.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 5<sup>th</sup> March 2013
+
+K. Davey
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — Application for a Dog Breeding Establishment Licence
+
+Regulation 5(1)
+
+## SCHEDULE 2 — Dog Breeding Establishment Licence
+
+Regulation 5(5)
+
+## SCHEDULE 3 — Particulars to be contained in a register of Dog Breeding Establishment Licences kept by district councils
+
+Regulation 5(7)
+
+**1.** The licence-holder’s surname, forename/s, address and contact telephone.
+
+**2.** The premises at which the dogs are kept if different from the licence-holder’s address.
+
+**3.** The number of breeding bitches over 6 months old to be kept on the premises under the terms of the licence.
+
+**4.** The number of other dogs over 6 months old to be kept on the premises under the terms of the licence.
+
+**5.** Licence number.
+
+**6.** Date of issue of licence.
+
+**7.** Date until which the licence is valid.
+
+**8.** Details of any dog which has been subject to any control conditions and the control conditions.
+
+## SCHEDULE 4 — Licence Conditions
+
+Regulation 2, 5(2)(3)(5)
+
+### 1. Condition 1: Accommodation and environment
+
+(1) Accommodation in which a dog is being or may be kept, shall be durable and appropriate in—
+
+- (a) construction;
+- (b) size;
+- (c) exercise facilities;
+- (d) temperature;
+- (e) lighting;
+- (f) ventilation;
+- (g) cleanliness; and
+- (h) drainage.
+
+(2) Appropriate measures shall be taken for the protection of persons and dogs in case of fire or other emergency.
+
+(3) Adequate clean bedding shall be provided for each dog and shall be renewed when soiled.
+
+### 2. Condition 2: Whelping facilities
+
+(1) All bitches shall be provided with a designated area prior to whelping with a suitable whelping box/bed.
+
+(2) Heating facilities should be adequate, secure and safe and capable of providing the range of temperatures, suitable for both pups and bitch.
+
+(3) An area shall be provided within the whelping kennel where a bitch can rest away from her pups.
+
+### 3. Condition 3: Diet
+
+(1) A dog shall be supplied daily with a suitable quantity and quality of food for the type and breed of dog.
+
+(2) A dog shall have access to clean drinking water at all times.
+
+### 4. Condition 4: Normal behaviour
+
+(1) A dog shall have regular access to adequate facilities to enable them to exhibit normal behaviour patterns through play, interaction and relief from boredom.
+
+(2) Where not detrimental to the health of the dog, the dog should have regular exercise suitable to the breed and size of the dog.
+
+### 5. Condition 5: Socialization
+
+The licence holder shall have a written socialization programme for puppies approved by the inspector.
+
+### 6. Condition 6: Enhancement and enrichment
+
+The licence holder shall have a written enhancement and enrichment programme for bitches, stud dogs and other dogs approved by the inspector.
+
+### 7. Condition 7: Health
+
+(1) Where appropriate the licence holder or an attendant shall inspect all dogs at regular intervals throughout the day and night.
+
+(2) Licence holders shall take all reasonable steps to protect dogs from pain, suffering, injury and disease.
+
+(3) Licence holders shall take all reasonable steps to prevent and control the spread of infectious or contagious diseases amongst dogs in the breeding establishment.
+
+(4) Adequate and suitable isolation facilities shall be available to—
+
+- (a) house a sick dog pending veterinary treatment; and
+- (b) for recuperation where appropriate.
+
+(5) A dog shall not be continually exposed to direct sunlight.
+
+(6) A dog shall receive any necessary veterinary treatment and such treatment shall include vaccinations.
+
+### 8. Condition 8: Mating
+
+The licence holder shall ensure that a breeding bitch shall not—
+
+- (a) be mated until she is over 12 months old;
+- (b) give birth to more than 3 litters in any period of 3 years and shall not be bred in any consecutive heat period;
+- (c) give birth to more than 6 litters of pups in total; and
+- (d) be mated after 8 years old unless veterinary certification is granted before she is bred from.
+
+### 9. Condition 9: Change of ownership of a puppy
+
+A licence holder shall retain ownership and possession of a puppy until the puppy is at least 8 weeks old.
+
+### 10. Condition 10: Identification of breeding bitches and other dogs
+
+(1) All breeding bitches and other dogs shall be identified with a microchip.
+
+(2) The microchip referred to in sub-paragraph (1) shall comply with the requirements of regulation 9 of the Dogs (Licensing and Identification) Regulations (Northern Ireland) 2012[^f00016].
+
+(3) This paragraph does not apply to the breeding bitch or other dog if the keeper of the breeding bitch or other dog produces to the district council a certificate signed by a veterinary surgeon to the effect that implantation (or continued implantation) of a microchip in the breeding bitch or other dog would have an adverse effect on the health of the dog.
+
+(4) Where a breeding bitch or other dog arrives on any premises and has not already been microchipped, the holder of the licence shall microchip the breeding bitch or other dog within 7 days.
+
+### 11. Condition 11: Identification of puppies
+
+(1) The holder of a licence shall ensure that a puppy shall be identified with a microchip before it is 8 weeks of age.
+
+(2) The microchip referred to in sub-paragraph (1) shall comply with the requirements of regulation 9 of the Dogs (Licensing and Identification) Regulations (Northern Ireland) 2012.
+
+(3) The licence-holder shall be the first registered owner of any puppy born on the licence holder’s premises before—
+
+- (a) the puppy departs the licence holder’s premises with a view to changing ownership; or
+- (b) the licence-holder transfers ownership of the puppy to a third party.
+
+(4) The licence-holder shall provide sufficient details to allow the new owner of a puppy to update the microchip database.
+
+### 12. Condition 12: Record keeping requirements
+
+(1) The licence holder shall maintain a record in relation to each breeding bitch kept on the premises setting out her—
+
+- (a) Name/number (if any);
+- (b) date of birth;
+- (c) breed;
+- (d) health status;
+- (e) microchip number;
+- (f) mating details including—
+  - (i) breed and unique microchip number of the sire; and
+  - (ii) details of each puppy born including—
+    - (aa) date of birth;
+    - (bb) sex;
+    - (cc) microchip number of each puppy; and
+    - (dd) date when ownership is transferred.
+
+(2) The licence holder shall maintain a record in relation to each other dog setting out the details as required by sub-paragraph (1)(a) to (e).
+
+(3) The record may be kept in manual or computerised form so long as the record is capable of being reproduced in a legible form for inspection by an inspector.
+
+(4) The record shall be available for inspection by an inspector and retained by the licence holder for 3 years from the date the breeding bitch or other dog dies or is transferred to a new owner.
+
+(5) When a breeding bitch or other dog is transferred the date of transfer and the name, address and contact telephone number of the new owner shall be recorded on the record referred to in paragraph (1). When a breeding bitch or other dog dies, the date of death shall be recorded on the record referred to in paragraph (1). As a minimum the licence holder shall provide to the new owner of the bitch the record in respect of sub-paragraph (1)(a) to (e) and the number of litters produced by the bitch.
+
+(6) When ownership of a puppy is transferred the name, address and contact telephone number of the new owner shall be recorded on the record referred to in paragraph (1). As a minimum the licence holder shall provide to the new owner of the puppy the date of birth and microchip number of the puppy.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the licensing of dog breeding establishments. Part I of the Regulations designates the breeding of dogs for the purposes of section 12(1) of the Welfare of Animals Act (Northern Ireland) [2011 (c.16)](https://www.legislation.gov.uk/nia/2011/16) (“the Act”). The consequence of this designation is that, subject to qualifying criteria and some exceptions, any person wishing to breed dogs shall obtain a licence from the district council in which the establishment is located.
+
+Part II of the Regulations makes provision for the granting of the licence by district councils and the charging of fees to cover any reasonable expenses incurred in performing this function and for monitoring compliance with these Regulations.
+
+Part III provides for the suspension and revocation of the licence if the conditions in Schedule 4 to these Regulations are breached and for appeals.
+
+Part IV provides powers of entry and applies relevant post conviction powers contained in the Act. It provides that a breach of the Regulations is a criminal offence and provides for councils to enforce these Regulations.
+
+Schedule 1 to these Regulations sets out the form of the application for a Dog breeding Establishment Licence.
+
+Schedule 2 to these Regulations sets out the form of the Dog Breeding Establishment Licence.
+
+Schedule 3 to these Regulations sets out the particulars to be contained in a register of Dog Breeding Establishment Licences to be kept by Councils.
+
+Schedule 4 to these Regulations sets out conditions that shall be met in order for a district council to grant a licence.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c. 16](https://www.legislation.gov.uk/nia/2011/16)
+
+[^f00002]: Footnote: [2008 c. 12](https://www.legislation.gov.uk/nia/2008/12)
+
+[^f00003]: Footnote: [S.I. 1983/764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764)
+
+[^f00004]: Footnote: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45)
+
+[^f00005]: Footnote: [2006 asp. 11](https://www.legislation.gov.uk/asp/2006/11)
+
+[^f00006]: Footnote: [S.I. 1983 No. 764 (N.I.8)](https://www.legislation.gov.uk/nisi/1983/764) as amended by [1991 (N.I.21)](https://www.legislation.gov.uk/nisi/1991/2292)
+
+[^f00007]: Footnote: [1973 c. 60](https://www.legislation.gov.uk/ukpga/1973/60)
+
+[^f00008]: Footnote: [1964 c. 70](https://www.legislation.gov.uk/ukpga/1964/70)
+
+[^f00009]: Footnote: [1963 c. 43](https://www.legislation.gov.uk/ukpga/1963/43)
+
+[^f00010]: Footnote: [1954 c. 40](https://www.legislation.gov.uk/ukpga/1954/40)
+
+[^f00011]: Footnote: [1951 c. 35](https://www.legislation.gov.uk/ukpga/1951/35)
+
+[^f00012]: Footnote: [2010 asp. 9](https://www.legislation.gov.uk/asp/2010/9)
+
+[^f00013]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^f00014]: Footnote: [S.R. 2012 No. 132](https://www.legislation.gov.uk/nisr/2012/132)
+
+[^f00015]: Footnote: [S.R. 1983 No. 380](https://www.legislation.gov.uk/nisr/1983/380)
+
+[^f00016]: Footnote: [S.R. 2012 No. 132](https://www.legislation.gov.uk/nisr/2012/132)

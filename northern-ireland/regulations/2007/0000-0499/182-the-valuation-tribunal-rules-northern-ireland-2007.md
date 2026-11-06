@@ -1,0 +1,732 @@
+---
+title: The Valuation Tribunal Rules (Northern Ireland) 2007
+id: nisr/2007/182
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-03-18'
+text_date: '2018-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/182
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/182/pdfs/nisrem_20070182_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/182/pdfs/nisr_20070182_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/182/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Valuation Tribunal Rules (Northern Ireland) 2007
+
+> Text as at 2018-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 182
+
+rates
+
+The Valuation Tribunal Rules (Northern Ireland) 2007
+
+Made
+
+18th March 2007
+
+Coming into operation
+
+16th April 2007
+
+To be laid before Parliament
+
+The Lord Chancellor makes the following Rules in exercise of the powers conferred by Article 36A(3) of, and paragraphs 7 to 13 of Schedule 9B to, the Rates (Northern Ireland) Order 1977[^f00001].
+
+## 1. Citation and commencement[^key-2d101422f2f11cc2a85b29d021719b30]
+
+These Rules may be cited as the Valuation Tribunal Rules (Northern Ireland) 2007 and shall come into operation on 16th April 2007.
+
+## 2. Interpretation[^key-12a69c1fa833a67730c7eb7191e5f5f1]
+
+(1) In these Rules—
+
+- “the 1977 Order” means the Rates (Northern Ireland) Order 1977;
+- [^key-d256af30b13ab7deb3b50678eb5fa644]...[^f00002]
+- “the[^key-fb3cb86e266d56640fd3c945bdec294d] 2008 Regulations” means the Rate Relief (Lone Pensioner Allowance) Regulations (Northern Ireland) 2008;
+- [^key-d256af30b13ab7deb3b50678eb5fa644]...
+- [^key-d256af30b13ab7deb3b50678eb5fa644]...
+- “the[^key-3b6f35b9d9bc1552c500db3ae93a6756] 2011 Act” means the High Hedges Act (Northern Ireland) 2011;
+- “the 2017 Regulations” means the Rate Relief Regulations (Northern Ireland) 2017[^key-11145b3f865c5c9c45dd43072750d8b3][^f00003];
+- “appeal” means an appeal to the Valuation Tribunal under—
+  - (a) Article 13(3)[^f00003], 31A(12B)[^f00004] , 54 or paragraph 9(1) of Schedule 8B to,[^key-73acda773eda5326549f0ce104fb6dc2] [^f00005] of the 1977 Order; [^key-458b00844d04ae8eefae5d3c529060de]...
+  - (b) [^key-52a8716f03553c527c51d291a56e2059]...
+
+    [^key-f3ddcaed61f11867d4b26911c893967c]
+  - (c) regulation 10(1) of the[^key-22bcf46e3127b367664c3a26942fe819] 2008 Regulations;
+  - (d) [^key-52a8716f03553c527c51d291a56e2059]...[^key-4833f66a289df5732193143e3ab48c48]
+  - (e) [^key-52a8716f03553c527c51d291a56e2059]...[^key-42a4128c212b777ac2f1f7b42a601425]
+- or[^key-93351ddba2e05f047fa964720424dd4e]
+  - (a) section 7(1) or (3) of the 2011 Act;
+- or[^key-ebdbbcb7e71f7804b751e6e6ba740698]
+  - ((g)) regulation 18(1) of the 2017 Regulations;
+- “credit card” means a card which —[^key-f6b4b92a16c799d448424bc3e98d064c]
+  - (i) may be used on its own to pay for goods or services or to withdraw cash; and
+  - (ii) enables the holder to make purchases and to draw cash up to a prearranged limit;
+- “debit card” means a card which may be used as a means of payment under arrangements which do not provide for the extension of credit to the cardholder, but provide for amounts paid by means of the card to be debited to a specified account in a person’s name (or in their name jointly with one or more others);
+- “the Executive” means the Northern Ireland Housing Executive;[^key-c295093172dfb77ab16d0d849e515104]
+- “FAX” means the making of a facsimile copy of a document by the transmission of electronic signals;
+- “hearing” means an oral hearing;
+- “hedge owner” means every person falling within section 7(2)(b) of the[^key-f1679a6ad52b1dd030a29d45dc442065] 2011 Act;
+- “interim order” means an order made by the Valuation Tribunal under rule 9;
+- “legal member” means a member of the Valuation Tribunal appointed under paragraph 2(2)(b)(i) of Schedule 9B to the 1977 Order;
+- “member who has had experience in the valuation of land” means a member of the Valuation Tribunal appointed under paragraph 2(2)(b)(ii) of Schedule 9B to the 1977 Order;
+- “notice of appeal” means a notice of appeal under rule 5;
+- “order” means an order made by the Valuation Tribunal other than an interim order;
+- “ordinary member” means a member of the Valuation Tribunal appointed under paragraph 2(2)(b)(iii) of Schedule 9B to the 1977 Order;
+- “payment instrument” means a cheque or payable order;[^key-89bf8b0a6cf4e16269bf565d635dd701]
+- “President” means the President of the Valuation Tribunal appointed under paragraph 2(2)(a) of Schedule 9B to the 1977 Order or a legal member designated by the Lord Chief Justice under paragraph 2(4) of that Schedule to carry out the functions of the President;
+- “register” means the register to be kept under rule 20;
+- “respondent”—
+  - (a) in relation to an appeal under Article 13(3) or 31A(12B) of, or paragraph 9 of Schedule 8B to, the 1977 Order or regulation 18(1) of the 2017 Regulations, means the Department;[^key-bcb238c8be6fff1616aa64beba2e1670]
+  - (b) in relation to an appeal under Article 54 of the 1977 Order, means the Commissioner;
+
+    [^key-5cc80ea260fb00692f1bba5057833618]...
+  - (c) in relation to an appeal under regulation 10(1) of the[^key-12739c9a9ec1c3503d20db6eaba84fd5] 2008 Regulations, means the Department or the Executive as the case may be;
+- and[^key-e75cf207056b726dcb890fcf3b5a42a3]
+  - (a) in relation to an appeal under section 7(1) or (3) of the 2011 Act, means the council and every person falling within section 7(2) if not the appellant;
+- “Secretary” means the person for the time being designated to discharge the functions of the Secretary under these Rules;
+- “tribunal” means a tribunal constituted in accordance with rule 4 and which, by virtue of paragraph 6 of Schedule 9B to the 1977 Order, exercises the jurisdiction of the Valuation Tribunal.
+
+(2) In these Rules, a Form referred to by number means the Form so numbered in the Schedule.
+
+## 3. The overriding objective[^key-c761af15cf028a41bb66c96f2fb6400f]
+
+(1) The overriding objective of these Rules is to enable the Valuation Tribunal, with the assistance of the parties, to deal with cases fairly and justly.
+
+(2) Dealing with a case fairly and justly includes so far as is practicable—
+
+- (a) dealing with the case in ways which are proportionate to the complexity of the issues and to the resources of the parties;
+- (b) seeking informality and flexibility in the proceedings under these Rules;
+- (c) ensuring that the parties are on an equal footing procedurally and are able to participate fully in the proceedings, including assisting any party in the presentation of his case without advocating the course he should take;
+- (d) using the Valuation Tribunal’s special expertise effectively; and
+- (e) avoiding delay, so far as compatible with the proper consideration of the issues.
+
+(3) The Valuation Tribunal shall seek to give effect to the overriding objective when it—
+
+- (a) exercises any power under these Rules; or
+- (b) interprets these Rules.
+
+(4) In particular, the Valuation Tribunal must manage cases actively in accordance with the overriding objective.
+
+## 4. Composition of tribunals[^key-3d09927705cf9aed3bf96dac1060a0dc]
+
+(1) Subject to paragraphs (3)[^key-2731bb6b2922dbc5d1924f3744cd729b] , (4) and (5)[^key-ccaea32529de9c6dfa48dedfb14e15f9] , a tribunal shall comprise three members of the Valuation Tribunal and shall include—
+
+- (a) the President or a legal member;
+- (b) a member who has had experience in the valuation of land; and
+- (c) an ordinary member.
+
+(2) The chairman of a tribunal shall be the President or the legal member.
+
+(3)[^key-2dd696c3d5bf130421bed3cbd2576c44] Any proceedings may, with the consent of the parties, be considered and determined—
+
+- (a) in the absence of any one member other than the chairman; or
+- (b) by the chairman alone,
+
+(4)[^key-84ae061c4d0707752da2e3a5621fe024] In relation to an appeal under section 7(1) or (3) of the 2011 Act, rule 4(1)(c) does not apply.
+
+(5)[^key-e1d2d2a6cce17fd0f058fcde3fc0474f] In relation to an appeal under regulation 18(1) of the 2017 Regulations, rule 4(1)(b) does not apply.
+
+## 5. Notice of appeal[^key-e1c986f204f81e56df33eb8ef004d66e]
+
+Subject to rule 9(2)(d)—
+
+- (a) an appeal under Article 13(3) of the 1977 Order shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 1 within 28 days of the Department issuing the notice of determination;
+- (b) an appeal under Article 31A(12B) of the 1977 Order shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 2 within 28 days of the Department issuing the notice of the result of the review;
+- (c) an appeal under Article 54 of the 1977 Order shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 3 within 28 days of the Commissioner issuing the decision;
+- (d)[^key-fb0673d94746335f43e532c0e1ae5133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-8fa3f4b26378f11015ce8aff4e9a3a06] an appeal under regulation 10(1) of the 2008 Regulations shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 5 within 28 days of the Department or, as the case may be, the Executive issuing the notice of the result of the review.
+- (f)[^key-dd80d580fa1b28f1ec3b21759d1b5e18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-4196dd68a801ca87439b4fb4dad8cc6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-7f8dd5e3d5640303f7dd276a77634db1] an appeal under section 7(1) or (3) of the 2011 Act shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 8 within 28 days beginning with the relevant date.
+- (i)[^key-c2d848ff469250a4c4f0d784cfa4d235] an appeal under paragraph 9 of Schedule 8B to the 1977 Order shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 9 within 28 days of the Commissioner issuing the decision;[^key-47f578be42d81ea8e7dd8b199d14cb6a]
+- (j)[^key-0412b170753e4fb43153cd6c8bbc8b08] an appeal under regulation 18(1) of the 2017 Regulations shall be instituted by delivering to the Secretary a notice of appeal in accordance with Form 10 within three months of the Department issuing the notice under regulation 17(3).
+
+## 5A. High hedges fee[^key-1ca73209e09294e51dee93d2df0f9f15]
+
+(1) An appeal under section 7(1) or (3) of the 2011 Act shall be accompanied by a fee as specified in regulation 17(1) of the Planning (Fees) Regulations (Northern Ireland) 1995 as if it were an appeal under Article 127(2)(b) of the Planning (Northern Ireland) Order 1991.
+
+(2) The fee shall be taken—
+
+- (a) in cash;
+- (b) by credit card payment;
+- (c) by debit card payment; or
+- (d) by payment instrument.
+
+## 5B. High hedges grounds of appeal - Issue of a remedial notice
+
+An appeal under section 7(1) of the 2011 Act against the issue of a remedial notice may be made on any of the following grounds—
+
+- (a) that the height of the high hedge specified in the remedial notice is not adversely affecting the complainant’s reasonable enjoyment of the domestic property so specified;
+- (b) that the initial action specified in the remedial notice is insufficient to remedy the adverse effect;
+- (c) that the initial action specified in the remedial notice exceeds what is necessary or appropriate to remedy the adverse effect; and
+- (d) that the period specified in the remedial notice for taking the initial action so specified is not what should reasonably be allowed.
+
+## 5C. High hedges grounds of appeal - Withdrawal etc of remedial notice
+
+(1) Where—
+
+- (a) a remedial notice is withdrawn without the agreement of the complainant; and
+- (b) the council has not issued a further remedial notice in respect of the same high hedge,
+
+  an appeal under section 7(1) of the 2011 Act against the withdrawal of the notice may be made on the ground that there has been no material change in circumstances since the remedial notice was issued that justifies withdrawal of the notice.
+
+(2) Where the council has waived or relaxed the requirements of a remedial notice without the agreement of the complainant or the owner or occupier of the neighbouring land (as the case may be), an appeal under section 7(1) of the 2011 Act against the waiver or relaxation may be made on any of the following grounds—
+
+- (a) that there has been no material change in circumstances since the notice was issued that justifies the waiver or relaxation of its requirements;
+- (b) that the requirements of the remedial notice, as waived or relaxed, are insufficient to remedy the adverse effect of the high hedge on the complainant’s reasonable enjoyment of the domestic property specified in the notice or to prevent its recurrence; and
+- (c) that the requirements of the remedial notice, as waived or relaxed, exceed what is necessary or appropriate to remedy the adverse effect of the high hedge or to prevent its recurrence.
+
+## 5D. High hedges grounds of appeal - Unfavourable decisions
+
+An appeal under section 7(3) of the 2011 Act (where the council decides otherwise than in the complainant’s favour), may be made on either of the following grounds—
+
+- (a) that the council could not reasonably conclude that the height of the high hedge specified in the complaint is not adversely affecting the complainant’s reasonable enjoyment of the domestic property so specified; or
+- (b) that, having concluded that the height of the high hedge specified in the complaint is adversely affecting the complainant’s reasonable enjoyment of the domestic property so specified, the council could not reasonably conclude that no action should be taken with a view to remedying that adverse effect or preventing its recurrence.
+
+## 6. Service of notice of appeal on respondent[^key-80f54bd887dce9ed8f44ad24eeb08fb1]
+
+The Secretary shall, as soon as possible after receipt of a notice of appeal, send a copy of it to the respondent.
+
+## 7. Notification to other interested parties[^key-165a69e6e1ba4983923f656a6be20c01]
+
+(1) Where an appellant has indicated in the notice of appeal that there are other interested parties, the Secretary shall send to each such person a copy of the notice of appeal.
+
+(2) Any person who receives a copy of a notice of appeal under paragraph (1) may within 28 days of the copy of the notice of appeal being sent to him, deliver to the Secretary a notice of his intention to appear as a party on such appeal and stating—
+
+- (a) his interest in the matter and the grounds upon which he intends to rely;
+- (b) whether he intends to appear separately or jointly with some other person;
+- (c) whether he intends to call an expert witness; and
+- (d) an address for sending documents to him.
+
+(3) Where the appellant has indicated in the notice of appeal that he is content for the appeal to be disposed of by written representations, a person shall also indicate in his notice to the Secretary under paragraph (2) whether he consents to this.
+
+(4) Every person who delivers to the Secretary a notice of his intention to appear as a party in accordance with paragraph (2) shall be a party to the appeal.
+
+## 8. Notification of appearances by the Secretary[^key-643b18b35571a9931a4fdf9607884f6b]
+
+The Secretary shall, as soon as possible after receipt under rule 7(2) of a notice of intention to appear as a party on an appeal, send a copy of it to the other parties to the appeal.
+
+## 9. General power to manage proceedings[^key-1062b6f6fc21fae67e300d605084f2f2]
+
+(1) [^key-1d47c9456fc95354a5eeceaed51db593]... Subject to paragraph (2A), the[^key-b0bea4b3a9ad8bb91e3ee7a1cb6ac5c7] Valuation Tribunal may, either on its own initiative or on the application of a party, make such interim orders as it considers necessary or desirable in relation to an appeal before it.
+
+(2) Without prejudice to the generality of paragraph (1), the Valuation Tribunal may make an interim order—
+
+- (a) as to the manner in which an appeal is to be conducted, including any time limit to be observed;
+- (b) that a party provide additional information;
+- (c) requiring the attendance of any person in Northern Ireland to give evidence or to produce documents;
+- (d) extending any time limit, whether or not expired (including any time limit for instituting an appeal);
+- (e) requiring the provision of written answers to questions put by it;
+- (f) staying the whole or part of any proceedings;
+- (g) that part of the proceedings be dealt with separately;
+- (h) that any person who the Valuation Tribunal considers has an interest in the appeal may be joined as a party to the proceedings;
+- (i) that a witness statement be prepared or exchanged; or
+- (j) as to the use of experts or interpreters in the proceedings.
+
+(2A)[^key-10e7f5ed7ef0a0c5643b4fb43b13e6a7] The time limit for instituting an appeal in accordance with regulation 18(1) of the 2017 Regulations shall not be extended,
+
+(3) An interim order may specify the time at, or within which and the place at which, any act is required to be done.
+
+(4) An interim order may impose conditions.
+
+(5) An interim order which requires a person to act or refrain from acting shall, as appropriate, include a statement of the possible consequences under rule 10 of a party’s failure to comply with it within the time allowed by the Valuation Tribunal.
+
+(6) An interim order containing a requirement described in paragraph (2)(c)[^key-90c336e4b0538954bb8065ef3558dbd2] shall state that, under paragraph 11(2) of Schedule 9B to the 1977 Order, any person who without reasonable excuse fails to comply with the requirement shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+
+(7) An application for an interim order (otherwise than during a hearing) shall be made to the Secretary in writing and shall set out the reasons for the application.
+
+(8) The Secretary shall send a copy of an application under paragraph (7) to the other parties, unless the application has been accompanied by the written consent of all the other parties to the making of the interim order.
+
+(9) A party who objects to an application under paragraph (7) may, within 14 days of the Secretary sending the copy of the application to him, deliver to the Secretary a notice of objection, which shall be in writing and shall set out the reasons for objecting to the making of the interim order.
+
+(10) The Secretary shall send a copy of a notice of objection received by him under paragraph (9) to the other parties.
+
+(11) Before making an interim order, the Valuation Tribunal shall consider any objections it may have received and, if it considers it necessary for deciding the application, shall give the applicant and the parties an opportunity of being present or represented before it.
+
+(12) The Valuation Tribunal may vary or revoke an interim order upon an application made in accordance with paragraph (7) by—
+
+- (a) a party; or
+- (b) where an interim order imposes a requirement, by the person subject to the requirement.
+
+(13) The President or a legal member may exercise the powers of the Valuation Tribunal under this rule.
+
+## 10. Failure to comply with an interim order[^key-4922c7429abddff79bb5da67f05487d0]
+
+(1) If a party fails to comply with an interim order, the Valuation Tribunal may, before or at the determination of the appeal—
+
+- (a) dismiss the whole or part of the appeal; or
+- (b) order that the respondent shall be debarred from contesting the appeal.
+
+(2) The Valuation Tribunal shall not exercise its power under paragraph (1) unless it has sent to the party who has not complied with the interim order a notice giving that party an opportunity—
+
+- (a) to comply with the interim order within the period specified in the notice; or
+- (b) to establish why the Valuation Tribunal should not exercise its powers under paragraph (1).
+
+(3) The President or a legal member may exercise the powers of the Valuation Tribunal under this rule.
+
+## 11. Disposal by written representations[^key-6134e9e7a360415ac4ec3ef6647b7db7]
+
+(1) Subject to rule 11A, an appeal[^key-f9908cae8da034504e2510b2596db69b] may be disposed of on the basis of written representations if all the parties have given their consent in writing.
+
+(2) Where all the parties have given their consent as mentioned in paragraph (1), the Secretary shall send notice to the parties accordingly.
+
+(3) Within 28 days of the Secretary giving notice to the parties under paragraph (2) each party may deliver to the Secretary his written representations.
+
+(4) The Secretary shall send a copy of any representations received by him under paragraph (3) to the other parties, accompanied by a statement of the effect of paragraphs (5) and (6).
+
+(5) A party to whom a copy of written representations is sent under paragraph (4), may within 28 days of the Secretary sending the copy of the representations, deliver to the Secretary his reply, or a notice that he does not intend to make a reply, as the case may be.
+
+(6) The Secretary shall send a copy of any reply received by him under paragraph (5) to the other parties.
+
+(7) The Valuation Tribunal may if it thinks fit—
+
+- (a) require any party to furnish in writing further particulars of the grounds relied on and of any relevant facts or contention; or
+- (b) make an order that the appeal be disposed of on the basis of a hearing.
+
+(8) Where the Valuation Tribunal requires a party to furnish further particulars under paragraph (7)(a), the Secretary shall send a copy of such particulars to the other parties.
+
+(9) A party may within 28 days of the Secretary sending a copy of further particulars under paragraph (8) to him, deliver to the Secretary any further information he wishes to provide in response.
+
+## 11A. Special procedure for high hedge appeals[^key-4f82b552c50045da84fd4ae892fd6518]
+
+(1) Subject to paragraph (2) an appeal under section 7(1) or (3) of the 2011 Act shall be disposed of on the basis of written representations.
+
+(2) Where an appeal is to be disposed of under paragraph (1) the remaining provisions of these Rules shall, with any necessary modifications, apply to that appeal as if it were an appeal under rule 11(1).
+
+## 12. Notice of hearing[^key-8df3360fb62553107151a3c5b60b7f17]
+
+(1) Where an appeal is to be disposed of by a hearing, the Secretary shall, not less than 28 days before the date of hearing, send to the parties notice of the date, time and place appointed for the hearing.
+
+(2) Where the hearing of an appeal has been postponed, the Secretary shall take such steps as are reasonably practicable in the time available to notify the parties of the postponement.
+
+## 13. Withdrawal[^key-5ba0524d5fa05cd2226f958cbfde4884]
+
+(1) An appellant may withdraw his appeal at any time, either at a hearing or in writing in accordance with paragraph (2).
+
+(2) To withdraw an appeal in writing the appellant shall deliver to the Secretary a notice signed by him, or his representative, stating that the appeal is withdrawn.
+
+(3) The Secretary shall inform the other parties of the withdrawal.
+
+## 14. Representation at a hearing[^key-b9ced162755e32d386bb7e77c3bedf23]
+
+A party to an appeal which is to be disposed of at a hearing may appear in person (with assistance from any person if he wishes), by counsel or solicitor, or any other representative.
+
+## 15. Conduct of a hearing[^key-64505e93d716d684ca3c0a7865f04366]
+
+(1) A hearing shall take place in public except where the Valuation Tribunal is satisfied that a private hearing is required in the interests of juveniles or the protection of the private lives of the parties.
+
+(2) The Valuation Tribunal may decide under paragraph (1) that part only of the hearing shall be in private or that information about the proceedings before it, the names and identifying characteristics of persons concerned in the proceedings or specified evidence given in the proceedings shall not be made public.
+
+(3) If every party other than the respondent fails to appear at a hearing, the Valuation Tribunal may dismiss the appeal.
+
+(4) If any party does not appear at a hearing, the Valuation Tribunal may hear and determine the appeal in his absence.
+
+(5) The parties may be heard in such order as the Valuation Tribunal may determine.
+
+(6) A party may call witnesses and may examine any witness before the Valuation Tribunal.
+
+(7) The Valuation Tribunal may require any witness to give evidence under oath or affirmation.
+
+(8) A hearing may be adjourned for such time, to such place and on such terms (if any) as the Valuation Tribunal thinks fit and reasonable notice of the time and place to which the hearing has been adjourned shall be given to the parties by the Secretary.
+
+## 16. Inspection of hereditament[^key-d29f15cb0a13f34d22c36e6cbc6d7348]
+
+If it thinks fit, the Valuation Tribunal may inspect any hereditament which is the subject of an appeal provided the Secretary has given notice to the parties inviting them to be present.
+
+## 17. Evidence[^key-cea36672ed878f2d73d112310866d6a2]
+
+The Valuation Tribunal shall not be bound by any statutory provision or rule of law relating to the admissibility of evidence before courts of law.
+
+## 18. Exclusion of persons disrupting proceedings[^key-e738e7cf9331e986a4695e1ee986fd50]
+
+(1) Without prejudice to any other powers it may have, the Valuation Tribunal may exclude from any proceedings, or part of them, any person (including a party or the party’s representative) whose conduct has disrupted the proceedings.
+
+(2) In deciding whether to exercise the power conferred by paragraph (1), the Valuation Tribunal shall, apart from other considerations, have regard to—
+
+- (a) the interests of the parties; and
+- (b) in the case of the exclusion of a party or a party’s representative, whether the party will be adequately represented.
+
+## 19. Decisions and orders[^key-b6c25b786722b58be5d59ed6a15977e5]
+
+(1) If the parties agree in writing upon the terms of a decision or order, the Valuation Tribunal may, if it thinks fit, make such decision or order.
+
+(2) Where two or more members of a tribunal are acting, any decision may be made by a majority and if the votes are equal, the chairman is to have a casting vote.
+
+(3) Where a matter is dealt with on the basis of a hearing, the decision may be given orally at the end of the hearing or reserved.
+
+(4) The Valuation Tribunal may make an order in consequence of a decision.
+
+(5) An order may require a valuation list to be altered.
+
+(6) As soon as reasonably practicable after a decision has been made by the Valuation Tribunal, it shall—
+
+- (a) in the case of a decision given orally, be confirmed; and
+- (b) in any other case, be communicated,
+
+by a notice in writing to the parties and (save in the case of a decision made under paragraph (1)) the notice shall contain a statement of reasons for the decision.
+
+(7) The notice under paragraph (6) shall be accompanied by a copy of any order made by the Valuation Tribunal in consequence of its decision.
+
+## 20. Registration of decisions etc.[^key-3a35cae698f946a6f2ae55ce81dd0d2b]
+
+(1) Subject to rule 15(2), the Secretary shall make arrangements for each decision, interim order or order of the Valuation Tribunal to be entered in a register.
+
+(2) The register may be kept in any form, whether documentary or otherwise.
+
+(3) The Secretary shall make provision for inspection of the register at all reasonable hours by any person without charge.
+
+(4) Clerical mistakes in any document recording a decision, interim order or order of the Valuation Tribunal, or errors arising in such a document from an accidental slip or omission, may be corrected by the President or by a legal member by certificate in writing, and a copy of the corrected document shall be sent to the persons to whom a copy of the original document was sent.
+
+(5) A document purporting to be certified by the Secretary to be a true copy of any entry of a decision, interim order or order in the register shall, unless the contrary is proved, be deemed to be sufficient evidence of the entry and of the matters contained in it.
+
+## 21. Review[^key-9031462b28511cd7f7c2a8845c2dd565]
+
+(1) If, on the application of a party or on its own initiative, the Valuation Tribunal is satisfied that—
+
+- (a) its decision was wrong because of an error on the part of the Valuation Tribunal or its staff; or
+- (b) a party, who was entitled to be heard at a hearing but failed to be present or represented, had a good reason for failing to be present or represented; or
+- (c) new evidence, to which the decision relates, has become available since the conclusion of the proceedings and its existence could not reasonably have been known or foreseen before then; or
+- (d) otherwise the interests of justice require,
+
+the Valuation Tribunal may review the relevant decision.
+
+(2) An application for the purposes of paragraph (1)—
+
+- (a) may be made immediately following the decision at a hearing; or
+- (b) if not so made, shall be delivered to the Secretary within 14 days of receipt by the party making the application of written notice of the decision,
+
+and shall be in writing stating the reasons in full.
+
+(3) Where the Valuation Tribunal proposes to review a decision on its own initiative, the Secretary shall send notice of that proposal to the parties.
+
+(4) The parties shall have an opportunity to be heard on any application or proposal for review under this rule.
+
+(5) The relevant decision shall be reviewed by the tribunal which made the decision or, where it is not practicable for it to be reviewed by that tribunal, by a different tribunal.
+
+(6) Following review of a decision the Valuation Tribunal may—
+
+- (a) vary or set aside the decision;
+- (b) vary or revoke any order made in consequence of that decision; and
+- (c) where a decision is set aside, may order a rehearing before either the same or a different tribunal.
+
+(7) On the variation or setting aside of a decision, or the variation or revocation of an order of the Valuation Tribunal, the Secretary shall immediately make such correction as may be necessary in the register and shall send a copy of the entry so corrected to the parties.
+
+(8) In this rule “decision” means a decision which is a final determination of the proceedings.
+
+## 22. Case stated for the Court of Appeal[^key-f6e62ef0183ec75a487e1b6454b4c00b][^key-d83ca6b90ea7f8fc6b8cbb947b1327f4]
+
+(1) An application under—
+
+- (a) Article 31A(12C) of the 1977 Order; [^key-c0ab79de1908b59cbf0749c5a4cb4871]... or[^key-fe75ca7e06b8dddf50918692baee875b]
+- (b)[^key-f4b8aa12c5898a52aeb5b4b3c02b8b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) Regulation 10(2) of the 2008 Regulations,for a case to be stated upon a point of law for the decision of the Court of Appeal shall be made by delivering to the Secretary—
+- (i) within 14 days of the receipt of the notice in writing of the decision of the Valuation Tribunal by the applicant, a notice of application stating the point of law upon which the applicant wishes to have the decision of the Court of Appeal; and
+- (ii) within 14 days of delivery to the Secretary of the notice of application referred to in sub-paragraph (i), a draft case.
+- (d)[^key-92708a29d4358f1fd35010656d4f4cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-01eac8283344d03d91fcd3d5315134fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If upon a case stated upon a point of law, any directions are given by the Court of Appeal for the amendment of any decision of the Valuation Tribunal, the amendments shall be made by the Valuation Tribunal accordingly and the Secretary shall—
+
+- (a) send notice of the amended decision to all persons to whom notice of the original decision was sent; and
+- (b) make the appropriate amendments to the register.
+
+## 23. Time Limits[^key-8891303bc1bf93b445ca92bf18bff7b8]
+
+(1) Any period of time for doing any act required or permitted to be done under any of these Rules or under any interim order or order of the Valuation Tribunal shall be calculated in accordance with paragraphs (2) to (5).
+
+(2) Where any act must be done within a certain number of days of an event, the date of that event shall not be included in the calculation.
+
+(3) Where any act must be done not less than a certain number of days before an event, the date of that event shall not be included in the calculation.
+
+(4) Where the Valuation Tribunal gives any decision or makes any interim order or order which imposes a time limit for doing any act, the last date for compliance shall, wherever practicable, be expressed as a calendar date.
+
+(5) Where any act must or may have been done within a certain number of days of a document being sent to a party by the Secretary or the Valuation Tribunal, the date when the document was sent shall, unless the contrary is proved, be regarded as the date on the letter from the Secretary or the Valuation Tribunal which accompanied the document.
+
+## 24. Service of documents[^key-c4d0f4c484849d60c05e3e29242ef782]
+
+(1) This rule has effect in relation to any notice or other document required or authorised by these Rules to be sent to a party to an appeal.
+
+(2) Any such document shall be regarded as having been sent to that party if it is—
+
+- (a) delivered to him;
+- (b) left at his proper address;
+- (c) sent by ordinary first class post to him at that address; or
+- (d) transmitted to him by FAX or other means of electronic data transmission in accordance with paragraph (3), (4) or (5).
+
+(3) A document may be transmitted by FAX where the party has indicated in writing to the Secretary that he is willing to regard a document as having been sent to him if it is transmitted to a specified FAX number and the document is transmitted to that number.
+
+(4) In the case of the Department or the Executive[^key-e8ff98d2a0464168cf2c1f4730300c0b] , an indication under paragraph (3) can be expressed to apply to any appeal to which it is a respondent.
+
+(5) In the case of the Commissioner, an indication under paragraph (3) can be expressed to apply to any appeal to which he is a respondent.
+
+(6) Paragraphs (3) to (5) shall apply with appropriate modification to a transmission of electronic data other than by FAX as it applies to a transmission by FAX.
+
+(7) Where the proper address includes a numbered box number at a document exchange, a document may be sent by leaving the document addressed to that numbered box at that document exchange or at a document exchange which transmits documents every business day to that exchange.
+
+(8) For the purposes of these Rules—
+
+- (a) the proper address of the appellant, or a person who is a party by virtue of rule 7(4), is the address specified in his notice of appeal or notice of intention to appear as a party on the appeal, as the case may be;
+- (b) the proper address of the Department is such address as the Department from time to time specifies in a notice delivered to the Secretary as being the proper address in all such proceedings; [^key-33a5b46ad08a8c2e82e72501334df33b]...
+- (c) the proper address of the Commissioner is such address as the Commissioner from time to time specifies in a notice delivered to the Secretary as being the proper address in all such proceedings.
+
+  ; and[^key-390bfdf424a1cad593391a518311daf8]
+- (d) the proper address of the Executive is such address as the Executive from time to time specifies in a notice delivered to the Secretary as being the proper address in all such proceedings.
+
+(9) If no address for sending documents to has been specified, the proper address for the purposes of these Rules shall be the person’s usual or last known address.
+
+(10) A party may at any time by notice in writing to the Secretary change his proper address for service for the purposes of these Rules.
+
+(11) A party may, by notice in writing to the Secretary, vary or revoke any indication given by him under paragraph (3).
+
+## 25. Delivery of documents to the Secretary[^key-db1397a4d82269fb85c7fc4edb27bfd4]
+
+(1) Any notice or other document required to be delivered to the Secretary under any provision of these Rules may be transmitted to him by FAX or other means of electronic data transmission.
+
+(2) Where the address of the Secretary includes a numbered box number at a document exchange, the delivery of such a document may be effected by leaving the document addressed to that numbered box at that document exchange or at a document exchange which transmits documents every business day to that exchange, and any document which is left at a document exchange in accordance with this paragraph shall, unless the contrary is proved, be deemed to have been delivered on the second business day after the day on which it is left.
+
+(3) Where a notice of appeal is transmitted by FAX, the copy of the signature on the transmitted copy shall satisfy the need for the signature of the relevant person or their known agent to appear on the notice of appeal.
+
+(4) Where a notice of appeal is transmitted by means of electronic data transmission other than FAX, there is no need for a signature by the appellant or his known agent to appear on the notice of appeal.
+
+(5) The requirement in rule 13(2) for a notice to be signed by an appellant or his representative—
+
+- (a) in the case of a notice transmitted by FAX, shall be satisfied if a copy of the signature of the relevant person appears on the transmitted copy; and
+- (b) shall not apply in relation to a notice transmitted by other means of electronic data transmission.
+
+## 26. Powers[^key-544cbe5ff4b52abf429509a73cb59d0d]
+
+Subject to the provisions of these Rules and any directions given by the President under paragraph 14 of Schedule 9B to the 1977 Order, the Valuation Tribunal may regulate its own procedure.
+
+Signed by the authority of the Lord Chancellor
+
+Bridget Prentice
+
+Parliamentary Under Secretary of State
+
+Department for Constitutional Affairs
+
+Dated 18th March 2007
+
+## SCHEDULE[^key-b7f696429b89a310da5b08d3b2252335][^key-a849da7e77176efcc39f179b8cef62c6][^key-c73104a94afa38bd8fa06d9fcc7f3f0a][^key-c2257b7b6e07c0c08a6d99f303c75627][^key-3b64af77927720d10ffe42a1a44109a6][^key-be5dc439646858fbbb4948ccadb72f77][^key-be5dc439646858fbbb4948ccadb72f77][^key-f02f9c3bd98b151010bec446ce9f8779][^key-f3cb58ec359b4fda485ed4d9443efff1][^key-185056a87297b6c2aa7bcfe0d991a89a]
+
+Rule 2(2)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2007/182/images/nisr_20070182_en_epp_001.gif)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2007/182/images/nisr_20070182_en_epp_012.gif)[image: see source](https://www.legislation.gov.uk/nisr/2007/182/images/nisr_20070182_en_epp_013.gif)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules regulate the exercise of rights of appeal to the Northern Ireland Valuation Tribunal (“the Tribunal”) and prescribe the practice and procedure in relation to proceedings before the Tribunal.
+
+The Rules regulate appeals under the following provisions of the Rates (Northern Ireland) Order 1977 ([S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)):
+
+- Article 13(3) which enables a person to appeal against a determination of the Department of Finance and Personnel (“the Department”) as to the effective date of an alteration made in a valuation list;
+- Article 54 which enables a person to appeal against a valuation decision of the Commissioner of Valuation for Northern Ireland; and
+- Article 31A(12B) which enables a person to appeal to the Tribunal against the result of a review by the Department of a decision that a person is not entitled to a rate rebate for a property with a special facility for a person with a disability.
+
+By virtue of the Rates (Appeals) Regulations (Northern Ireland) 2007 ([S.R. 2007 No. 150](https://www.legislation.gov.uk/nisr/2007/150)) the Northern Ireland Valuation Tribunal has jurisdiction in relation to appeals under Articles 13(3) and 54 of the 1977 Order relating to—
+
+- (a) domestic property; and
+- (b) the non-domestic element of property used both for domestic and non-domestic purposes where—
+  - (i) the net annual value of the non-domestic element of the property does not exceed £12,500; and
+  - (ii) the appellant has, at the same time, made an appeal to the Tribunal in relation to the domestic element of the property.
+
+The Rules also regulate appeals under regulation 12(1) of the Rate Relief (Education, Training and Leaving Care) Regulations (Northern Ireland) 2007 ([S.R. 2007 No. 148](https://www.legislation.gov.uk/nisr/2007/148)) which provides for an appeal to the Tribunal against the result of a review by the Department of a decision that a person is not entitled to exemption from rates under those Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 36A was inserted by Article 29(1) of the Rates (Amendment) (Northern Ireland) Order 2006, [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954) and Schedule 9B was inserted by Article 29(2) of, and Schedule 1 to, that Order.
+
+[^key-2d101422f2f11cc2a85b29d021719b30]: Commencement: Rule 1 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-12a69c1fa833a67730c7eb7191e5f5f1]: Commencement: Rule 2 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-d256af30b13ab7deb3b50678eb5fa644]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/182/article/2/1) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 3(a)](https://www.legislation.gov.uk/nisr/2018/44/article/3/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^f00002]: Footnote: [S.R. 2007 No. 148](https://www.legislation.gov.uk/nisr/2007/148).
+
+[^key-fb3cb86e266d56640fd3c945bdec294d]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2008/153/rule/3/1/a)
+
+[^key-3b6f35b9d9bc1552c500db3ae93a6756]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(a)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/a)
+
+[^key-11145b3f865c5c9c45dd43072750d8b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/182/article/2/1) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 3(b)](https://www.legislation.gov.uk/nisr/2018/44/article/3/b), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^f00003]: Footnote: Article 13(3) was amended by paragraph 8(7) of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006.
+
+[^f00004]: Footnote: Article 31A(12B) was inserted by Article 17(8) of the Rates (Amendment) (Northern Ireland) Order 2006.
+
+[^key-73acda773eda5326549f0ce104fb6dc2]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2007/182/article/2/1/a) substituted (25.6.2012) by [The Valuation Tribunal (Amendment No. 2) Rules (Northern Ireland) 2012 (S.R. 2012/217)](https://www.legislation.gov.uk/nisr/2012/217), [arts. 1](https://www.legislation.gov.uk/nisr/2012/217/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/217/article/3/a)
+
+[^f00005]: Footnote: Article 54 was substituted by Article 33 of the Rates (Amendment) (Northern Ireland) Order 2006.
+
+[^key-458b00844d04ae8eefae5d3c529060de]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) omitted (5.5.2008) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [3(1)(b)(i)](https://www.legislation.gov.uk/nisr/2008/153/rule/3/1/b/i)
+
+[^key-52a8716f03553c527c51d291a56e2059]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/182/article/2/1) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 3(c)(i)](https://www.legislation.gov.uk/nisr/2018/44/article/3/c/i), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-f3ddcaed61f11867d4b26911c893967c]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) omitted (9.4.2010) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/104)](https://www.legislation.gov.uk/nisr/2010/104), [rules 1](https://www.legislation.gov.uk/nisr/2010/104/rule/1), [3(1)(b)(i)](https://www.legislation.gov.uk/nisr/2010/104/rule/3/1/b/i)
+
+[^key-22bcf46e3127b367664c3a26942fe819]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2008/153/rule/3/1/b/ii)
+
+[^key-4833f66a289df5732193143e3ab48c48]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) omitted (16.4.2012) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(b)(i)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/b/i)
+
+[^key-42a4128c212b777ac2f1f7b42a601425]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (9.4.2010) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/104)](https://www.legislation.gov.uk/nisr/2010/104), [rules 1](https://www.legislation.gov.uk/nisr/2010/104/rule/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/104/rule/3/1/b/ii)
+
+[^key-93351ddba2e05f047fa964720424dd4e]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(b)(ii)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/b/ii)
+
+[^key-ebdbbcb7e71f7804b751e6e6ba740698]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/182/article/2/1) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 3(c)(ii)](https://www.legislation.gov.uk/nisr/2018/44/article/3/c/ii), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-f6b4b92a16c799d448424bc3e98d064c]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(c)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/c)
+
+[^key-c295093172dfb77ab16d0d849e515104]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [3(1)(c)](https://www.legislation.gov.uk/nisr/2008/153/rule/3/1/c)
+
+[^key-f1679a6ad52b1dd030a29d45dc442065]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(d)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/d)
+
+[^key-89bf8b0a6cf4e16269bf565d635dd701]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(e)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/e)
+
+[^key-bcb238c8be6fff1616aa64beba2e1670]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/182/article/2/1) substituted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 3(d)](https://www.legislation.gov.uk/nisr/2018/44/article/3/d), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-5cc80ea260fb00692f1bba5057833618]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) omitted (16.4.2012) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(f)(i)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/f/i)
+
+[^key-12739c9a9ec1c3503d20db6eaba84fd5]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [3(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2008/153/rule/3/1/d/ii)
+
+[^key-e75cf207056b726dcb890fcf3b5a42a3]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/2/1) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 3(f)(ii)](https://www.legislation.gov.uk/nisr/2012/122/rule/3/f/ii)
+
+[^key-c761af15cf028a41bb66c96f2fb6400f]: Commencement: Rule 3 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-3d09927705cf9aed3bf96dac1060a0dc]: Commencement: Rule 4 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-2731bb6b2922dbc5d1924f3744cd729b]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/4/1) substituted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 4(a)](https://www.legislation.gov.uk/nisr/2012/122/rule/4/a)
+
+[^key-ccaea32529de9c6dfa48dedfb14e15f9]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisr/2007/182/article/4/1) substituted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 4(a)](https://www.legislation.gov.uk/nisr/2018/44/article/4/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-2dd696c3d5bf130421bed3cbd2576c44]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/nisr/2007/182/article/4/3) substituted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 4(b)](https://www.legislation.gov.uk/nisr/2018/44/article/4/b), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-84ae061c4d0707752da2e3a5621fe024]: Textual amendment: [Rule 4(4)](https://www.legislation.gov.uk/nisr/2007/182/rule/4/4) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 4(c)](https://www.legislation.gov.uk/nisr/2012/122/rule/4/c)
+
+[^key-e1d2d2a6cce17fd0f058fcde3fc0474f]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/nisr/2007/182/article/4/5) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 4(c)](https://www.legislation.gov.uk/nisr/2018/44/article/4/c), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-e1c986f204f81e56df33eb8ef004d66e]: Commencement: Rule 5 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-fb0673d94746335f43e532c0e1ae5133]: Textual amendment: [Art. 5(d)](https://www.legislation.gov.uk/nisr/2007/182/article/5/d) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 5(a)](https://www.legislation.gov.uk/nisr/2018/44/article/5/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-8fa3f4b26378f11015ce8aff4e9a3a06]: Textual amendment: [Rule 5(e)](https://www.legislation.gov.uk/nisr/2007/182/rule/5/e) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [4](https://www.legislation.gov.uk/nisr/2008/153/rule/4)
+
+[^key-dd80d580fa1b28f1ec3b21759d1b5e18]: Textual amendment: [Art. 5(f)](https://www.legislation.gov.uk/nisr/2007/182/article/5/f) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 5(a)](https://www.legislation.gov.uk/nisr/2018/44/article/5/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-4196dd68a801ca87439b4fb4dad8cc6b]: Textual amendment: [Art. 5(g)](https://www.legislation.gov.uk/nisr/2007/182/article/5/g) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 5(a)](https://www.legislation.gov.uk/nisr/2018/44/article/5/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-7f8dd5e3d5640303f7dd276a77634db1]: Textual amendment: [Rule 5(h)](https://www.legislation.gov.uk/nisr/2007/182/rule/5/h) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 5](https://www.legislation.gov.uk/nisr/2012/122/rule/5)
+
+[^key-c2d848ff469250a4c4f0d784cfa4d235]: Textual amendment: [Art. 5(i)](https://www.legislation.gov.uk/nisr/2007/182/article/5/i) inserted (25.6.2012) by [The Valuation Tribunal (Amendment No. 2) Rules (Northern Ireland) 2012 (S.R. 2012/217)](https://www.legislation.gov.uk/nisr/2012/217), [arts. 1](https://www.legislation.gov.uk/nisr/2012/217/article/1), [4](https://www.legislation.gov.uk/nisr/2012/217/article/4)
+
+[^key-47f578be42d81ea8e7dd8b199d14cb6a]: Textual amendment: [Art. 5(i)](https://www.legislation.gov.uk/nisr/2007/182/article/5/i) semicolon substituted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 5(b)(i)](https://www.legislation.gov.uk/nisr/2018/44/article/5/b/i), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-0412b170753e4fb43153cd6c8bbc8b08]: Textual amendment: [Art. 5(j)](https://www.legislation.gov.uk/nisr/2007/182/article/5/j) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2018/44/article/5/b/ii), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-1ca73209e09294e51dee93d2df0f9f15]: Textual amendment: [Rules 5A-5D](https://www.legislation.gov.uk/nisr/2007/182/rule/5A) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 6](https://www.legislation.gov.uk/nisr/2012/122/rule/6)
+
+[^key-80f54bd887dce9ed8f44ad24eeb08fb1]: Commencement: Rule 6 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-165a69e6e1ba4983923f656a6be20c01]: Commencement: Rule 7 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-643b18b35571a9931a4fdf9607884f6b]: Commencement: Rule 8 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-1062b6f6fc21fae67e300d605084f2f2]: Commencement: Rule 9 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-1d47c9456fc95354a5eeceaed51db593]: Textual amendment: Word in [art. 9(1)](https://www.legislation.gov.uk/nisr/2007/182/article/9/1) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 6(a)](https://www.legislation.gov.uk/nisr/2018/44/article/6/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-b0bea4b3a9ad8bb91e3ee7a1cb6ac5c7]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/nisr/2007/182/article/9/1) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 6(a)](https://www.legislation.gov.uk/nisr/2018/44/article/6/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-10e7f5ed7ef0a0c5643b4fb43b13e6a7]: Textual amendment: [Art. 9(2A)](https://www.legislation.gov.uk/nisr/2007/182/article/9/2A) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 6(b)](https://www.legislation.gov.uk/nisr/2018/44/article/6/b), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-90c336e4b0538954bb8065ef3558dbd2]: Textual amendment: Words in [art. 9(6)](https://www.legislation.gov.uk/nisr/2007/182/article/9/6) substituted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 6(c)](https://www.legislation.gov.uk/nisr/2018/44/article/6/c), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-4922c7429abddff79bb5da67f05487d0]: Commencement: Rule 10 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-6134e9e7a360415ac4ec3ef6647b7db7]: Commencement: Rule 11 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-f9908cae8da034504e2510b2596db69b]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/11/1) substituted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 7](https://www.legislation.gov.uk/nisr/2012/122/rule/7)
+
+[^key-4f82b552c50045da84fd4ae892fd6518]: Textual amendment: [Rule 11A](https://www.legislation.gov.uk/nisr/2007/182/rule/11A) inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [art. 1](https://www.legislation.gov.uk/nisr/2012/122/article/1), [rule 8](https://www.legislation.gov.uk/nisr/2012/122/rule/8)
+
+[^key-8df3360fb62553107151a3c5b60b7f17]: Commencement: Rule 12 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-5ba0524d5fa05cd2226f958cbfde4884]: Commencement: Rule 13 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-b9ced162755e32d386bb7e77c3bedf23]: Commencement: Rule 14 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-64505e93d716d684ca3c0a7865f04366]: Commencement: Rule 15 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-d29f15cb0a13f34d22c36e6cbc6d7348]: Commencement: Rule 16 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-cea36672ed878f2d73d112310866d6a2]: Commencement: Rule 17 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-e738e7cf9331e986a4695e1ee986fd50]: Commencement: Rule 18 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-b6c25b786722b58be5d59ed6a15977e5]: Commencement: Rule 19 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-3a35cae698f946a6f2ae55ce81dd0d2b]: Commencement: Rule 20 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-9031462b28511cd7f7c2a8845c2dd565]: Commencement: Rule 21 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-f6e62ef0183ec75a487e1b6454b4c00b]: Commencement: Rule 22 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-d83ca6b90ea7f8fc6b8cbb947b1327f4]: Textual amendment: [Rule 22(1)](https://www.legislation.gov.uk/nisr/2007/182/rule/22/1) substituted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [5](https://www.legislation.gov.uk/nisr/2008/153/rule/5)
+
+[^key-c0ab79de1908b59cbf0749c5a4cb4871]: Textual amendment: Word in [rule 22(a)](https://www.legislation.gov.uk/nisr/2007/182/rule/22/a)[(b)](https://www.legislation.gov.uk/nisr/2007/182/rule/22/b) omitted (9.4.2010) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/104)](https://www.legislation.gov.uk/nisr/2010/104), [rules 1](https://www.legislation.gov.uk/nisr/2010/104/rule/1), [5(a)](https://www.legislation.gov.uk/nisr/2010/104/rule/5/a)
+
+[^key-fe75ca7e06b8dddf50918692baee875b]: Textual amendment: Word in [art. 22(1)(a)](https://www.legislation.gov.uk/nisr/2007/182/article/22/1/a) inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 7(a)](https://www.legislation.gov.uk/nisr/2018/44/article/7/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-f4b8aa12c5898a52aeb5b4b3c02b8b5c]: Textual amendment: [Art. 22(1)(b)](https://www.legislation.gov.uk/nisr/2007/182/article/22/1/b) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 7(b)](https://www.legislation.gov.uk/nisr/2018/44/article/7/b), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-92708a29d4358f1fd35010656d4f4cf1]: Textual amendment: [Art. 22(1)(d)](https://www.legislation.gov.uk/nisr/2007/182/article/22/1/d) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 7(b)](https://www.legislation.gov.uk/nisr/2018/44/article/7/b), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-01eac8283344d03d91fcd3d5315134fa]: Textual amendment: [Art. 22(1)(e)](https://www.legislation.gov.uk/nisr/2007/182/article/22/1/e) omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 7(b)](https://www.legislation.gov.uk/nisr/2018/44/article/7/b), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-8891303bc1bf93b445ca92bf18bff7b8]: Commencement: Rule 23 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-c4d0f4c484849d60c05e3e29242ef782]: Commencement: Rule 24 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-e8ff98d2a0464168cf2c1f4730300c0b]: Textual amendment: Words in [rule 24(4)](https://www.legislation.gov.uk/nisr/2007/182/rule/24/4) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [6(a)](https://www.legislation.gov.uk/nisr/2008/153/rule/6/a)
+
+[^key-33a5b46ad08a8c2e82e72501334df33b]: Textual amendment: Word in [rule 24(8)(b)](https://www.legislation.gov.uk/nisr/2007/182/rule/24/8/b) omitted (5.5.2008) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [6(b)(i)](https://www.legislation.gov.uk/nisr/2008/153/rule/6/b/i)
+
+[^key-390bfdf424a1cad593391a518311daf8]: Textual amendment: [Rule 24(8)(d)](https://www.legislation.gov.uk/nisr/2007/182/rule/24/8/d) inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [6(b)(ii)](https://www.legislation.gov.uk/nisr/2008/153/rule/6/b/ii)
+
+[^key-db1397a4d82269fb85c7fc4edb27bfd4]: Commencement: Rule 25 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-544cbe5ff4b52abf429509a73cb59d0d]: Commencement: Rule 26 in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-b7f696429b89a310da5b08d3b2252335]: Commencement: Sch. in operation at 16.4.2007, see [rule 1](https://www.legislation.gov.uk/nisr/2007/182/rule/1)
+
+[^key-a849da7e77176efcc39f179b8cef62c6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 5 inserted (5.5.2008) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/153)](https://www.legislation.gov.uk/nisr/2008/153), [rules 1](https://www.legislation.gov.uk/nisr/2008/153/rule/1), [7](https://www.legislation.gov.uk/nisr/2008/153/rule/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/153/schedule)
+
+[^key-c73104a94afa38bd8fa06d9fcc7f3f0a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 6 inserted (9.4.2010) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/104)](https://www.legislation.gov.uk/nisr/2010/104), [rule 1](https://www.legislation.gov.uk/nisr/2010/104/rule/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/104/schedule)
+
+[^key-c2257b7b6e07c0c08a6d99f303c75627]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 7 inserted (9.4.2010) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/104)](https://www.legislation.gov.uk/nisr/2010/104), [rules 1](https://www.legislation.gov.uk/nisr/2010/104/rule/1), [6](https://www.legislation.gov.uk/nisr/2010/104/rule/6), [Sch.](https://www.legislation.gov.uk/nisr/2010/104/schedule)
+
+[^key-3b64af77927720d10ffe42a1a44109a6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 8 inserted (16.4.2012) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2012 (S.R. 2012/122)](https://www.legislation.gov.uk/nisr/2012/122), [rules 1](https://www.legislation.gov.uk/nisr/2012/122/rule/1), [9](https://www.legislation.gov.uk/nisr/2012/122/rule/9), [Sch.](https://www.legislation.gov.uk/nisr/2012/122/schedule)
+
+[^key-be5dc439646858fbbb4948ccadb72f77]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 9 inserted (25.6.2012) by [The Valuation Tribunal (Amendment No. 2) Rules (Northern Ireland) 2012 (S.R. 2012/217)](https://www.legislation.gov.uk/nisr/2012/217), [art. 5](https://www.legislation.gov.uk/nisr/2012/217/article/5), [rule 1](https://www.legislation.gov.uk/nisr/2012/217/rule/1), [Sch.](https://www.legislation.gov.uk/nisr/2012/217/schedule)
+
+[^key-f02f9c3bd98b151010bec446ce9f8779]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 10 Form inserted (1.4.2018) by [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1), [Sch.](https://www.legislation.gov.uk/nisr/2018/44/schedule)
+
+[^key-f3cb58ec359b4fda485ed4d9443efff1]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Form 4 Form omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 8(a)](https://www.legislation.gov.uk/nisr/2018/44/article/8/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)
+
+[^key-185056a87297b6c2aa7bcfe0d991a89a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/182/schedule) Forms 6, 7 omitted (1.4.2018) by virtue of [The Valuation Tribunal (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/44)](https://www.legislation.gov.uk/nisr/2018/44), [art. 8(a)](https://www.legislation.gov.uk/nisr/2018/44/article/8/a), [rule 1](https://www.legislation.gov.uk/nisr/2018/44/rule/1)

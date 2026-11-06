@@ -1,0 +1,356 @@
+---
+title: The Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009
+id: nisr/2009/91
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-03-10'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/91
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/91/pdfs/nisr_20090091_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/91/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 91
+
+Road Traffic
+
+The Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009
+
+Made
+
+10th March 2009
+
+Coming into operation
+
+23rd April 2009
+
+The Department of the Environment makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00001].
+
+The Department of the Environment is designated[^f00002] for the purposes of section 2(2) of the European Communities Act in relation to the regulation of the type, description, construction or equipment of vehicles and the regulation and supervision of the working conditions of persons engaged in road transport.
+
+It appears to the Department of the Environment that it is necessary or expedient that references to Community instruments in these Regulations be construed as references to those instruments as amended from time to time.
+
+## 1. Citation and commencement[^key-2dc4c07af20e2943959a576d29866c31]
+
+These Regulations may be cited as the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009 and shall come into operation on 23<sup>rd </sup>April 2009.
+
+## 2. Interpretation[^key-dd9462e19286cfd8a5ac464cbd2078da]
+
+(1) In these Regulations—
+
+- “the Community Drivers’ Hours Regulation” means Regulation No [(EC) 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of the European Parliament and of the Council[^f00003] as amended from time to time;
+- “the[^key-4cc89e0496711f82d7b0313d24217ebf] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport, as read with these Regulations and as amended from time to time;
+
+- “the Department” means the Department for Infrastructure;[^key-ecd57a947273cb620ad8663c5b0b3a91]
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(3) Any expression used in these Regulations which is used in the Community Drivers’ Hours Regulation has the same meaning as in that Regulation.
+
+## 3. Exemption from the Community Drivers’ Hours Regulation[^key-fc48dc8b98aa3c40d3d328ccbeeb8994]
+
+(1) [^key-56231efc4505a56a1965b2a10994941a]... Exemption is granted from Articles 6, 7, 8 and 9 of the Community Drivers' Hours Regulation[^key-a3ae58560b3e78b6d9109e66cd808add] in respect of—
+
+- (a) any vehicle falling within a description specified in Part 1 of the Schedule, and
+- (b) any vehicle—
+  - (i) which has a maximum permissible mass not exceeding 7.5 tonnes,
+  - (ii) which is being used to deliver items as part of a universal service by a universal service provider as defined in Article 2(13) of Directive [97/67/EC](https://www.legislation.gov.uk/european/directive/1997/0067)[^f00006] of the European Parliament and of the Council on common rules for the development of the internal market of Community postal services,
+  - (iii) which is being used within a 100[^key-88ee4c256b95383129b16af99fed1039] kilometre radius from the base of the universal service provider, and
+  - (iv) the driving of which does not constitute the driver’s main activity.
+
+(2) [^key-5dd789af0c85408818b4d77fb7b5b18b]... Exemption is granted from Articles 6, 7, 8 and 9 of the Community Drivers' Hours Regulation[^key-bac6f40842b62c39a3418a64c9a4baab] in respect of any vehicle falling within a description specified in Part 2 of the Schedule.
+
+## 4. Supplementary provisions relating to the Community Drivers’ Hours Regulation[^key-9837101aa0693f004a78bc0cad2fd799]
+
+For the purpose of Article 3(i) of the Community Drivers’ Hours Regulation and Article 2.2(k) of the European Agreement concerning the Work of Crews of Vehicles Engaged in International Road Transport (as applied by Article 2(3) of that Regulation)[^key-fe08d09f6c9d7784e68760ec145c6bd9] a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
+
+## 5. Exemption from the EU Tachographs Regulation[^key-9227c37b72453813a1efd6ec8d876771][^key-de57e1dc259c2af61ddf7892b81155e1]
+
+(1) [^key-63594bf31d7037cde82f971a55ed4cce]... Exemption is granted from the provisions of the EU Tachographs Regulation[^key-0adb7adc111c2557c65ad331bc02be73] in respect of any vehicle falling within a description specified in Part 1 of the Schedule.
+
+(2) [^key-50a2ad1e4695aaa078de38706fbf0b6e]...exemption is granted from the provisions of the EU Tachographs Regulation[^key-e7854282acd6c243a73460607ebcc312] in respect of:
+
+- (a) any vehicle falling within a description specified in Part 2 of the Schedule; and
+- (b) any vehicle being used for collecting sea coal.
+
+## 6. Amendment of Part VI of the Road Traffic (Northern Ireland) Order 1981[^key-c6597391e8d56fef9462f3797ea92700]
+
+(1) The Road Traffic (Northern Ireland) Order 1981[^f00007] shall be amended as follows.
+
+(2) In Article 2(2) (interpretation)—
+
+- (a) at the end of the definition of “applicable Community Rules” insert—
+
+  > - and includes the European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport of 1<sup>st</sup> July 1970[^f00008], as amended from time to time
+
+  ; and
+- (b) After the definition of “certificate of insurance” insert—
+
+  > - “the Community Drivers’ Hours Regulation” means Regulation No [(EC) 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of the European Parliament and of the Council[^f00009] as amended from time to time;
+
+  .
+
+(3) In Article 81 (offences against applicable community rules)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) Where, in the case of a driver of a motor vehicle, there is a contravention of any requirement of the applicable Community rules as to periods of driving, or distance driven, or periods on or off duty, then the offender, the offender’s employer and any other person to whose orders the offender was subject shall be guilty of an offence under this Order.
+
+  ; and
+- (b) after paragraph (1) insert the following paragraphs—
+
+  > (1A) A person shall not be liable to be convicted under paragraph (1) if being charged as the offender’s employer, or a person to whose orders the offender was subject, he proves—
+  >
+  > - (a) that at the time of the contravention he was complying with Article 10(1) (distance related payments etc.) and Article 10(2) (organisation of drivers’ work etc.) of the Community Driver’s Hours Regulation); and
+  > - (b) that he took all reasonable steps to avoid the contravention.
+  >
+  > (1B) A person who—
+  >
+  > - (a) is subject to the requirement imposed by Article 10(4) of the Community Drivers’ Hours Regulation (undertakings etc. to ensure that contractually agreed transport time schedules respect that Regulation); and
+  > - (b) fails to take all reasonable steps to comply with that requirement,
+  >
+  > shall be guilty of an offence under this Order.
+
+  .
+
+## 7. Amendment of the Road Traffic Offenders (Northern Ireland) Order 1996[^key-c72f38e4053852c3e9d25a6ba48e82b0]
+
+In Part 1 of Schedule 1 to the Road Traffic Offenders (Northern Ireland) Order 1996[^f00010] (prosecution and punishment of offences) after the entry relating to offences under Article 81 (1) of the Road Traffic (Northern Ireland) Order 1981 insert—
+
+> |  |  |  |  |  |  |
+> | --- | --- | --- | --- | --- | --- |
+> | 81(1B) | Contravention of requirement imposed by Article 10(4) of Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) (undertakings etc. to ensure that contractually agreed transport time schedules respect that Regulation). | Summarily. | Level 4 on the standard scale. |  |  |
+
+.
+
+## 8. Revocation[^key-54fbd12456a469f6a6ea55681c9e0f20]
+
+The following Regulations are revoked—
+
+- (a) the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 1987[^f00011];
+- (b) the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) (Amendment) Regulations (Northern Ireland) 1988[^f00012];
+- (c) the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) (Amendment) Regulations (Northern Ireland) 1999[^f00013];
+
+Sealed with the Official Seal of the Department of the Environment on 10th March 2009.
+
+Stanley Duncan
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE — EXEMPTED VEHICLES
+
+Regulations 3 and 5
+
+### PART 1 — Vehicles exempted by Regulations 3(1) and 5(1)
+
+**1.**[^key-88b4129386ac9b88aa977bc04cb3be35] (1) Any vehicle which is owned or hired without a driver by a public authority to undertake carriage by road otherwise than in competition with private transport undertakings.
+
+(2) A vehicle does not fall within the description specified in this paragraph unless the vehicle is being used—
+
+- (a) by a health and social services body—
+  - (i) to provide ambulance services and services for the conveyance of persons suffering illness, expectant or nursing mothers or other persons for whom such transport is reasonably required; or
+  - (ii) to carry staff, patients, medical supplies, equipment, organs or blood;
+  - (iii) to provide services for old persons and services for persons to whom welfare arrangements for physically and mentally handicapped persons apply;
+- (b) by Her Majesty’s Coastguard, a general lighthouse authority or a local lighthouse authority;
+- (c) for the purpose of maintaining railways by the Northern Ireland Railways;
+- (d) by Waterways Ireland within the jurisdiction of Northern Ireland for the purpose of maintaining navigable waterways.
+
+(3) In this paragraph—
+
+- “general lighthouse authority” and “local lighthouse authority” have the same meaning as in Part 8 of the Merchant Shipping Act 1995[^f00014];
+- “health and social services body” means—
+  - (a) a health and social services board established under Article 16(1) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00015];
+  - (b) the Northern Ireland Central Services Agency for the Health and Social Services established under Article 26(1) of the Health and Personal Services (Northern Ireland) Order 1972;
+  - (c) a special agency established under Article 3(1) of the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990[^f00016]; or
+  - (d) a Health and Social Services Trust established under Article 10(1) of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00017].
+
+**2.**[^key-09749fafe3377b82723253cccdf4da43] (1) Any vehicle which is being used or hired without a driver by an agricultural, horticultural, forestry, farming or fishery undertaking for carrying goods as part of its own entrepreneurial activity within a 100 kilometre radius from where the undertaking is based.
+
+(2) A vehicle which is being used by a fishery undertaking does not fall within the description specified in this paragraph unless the vehicle is being used—
+
+- (a) to carry live fish; or
+- (b) to carry a catch of fish from the place of landing to a place where it is to be processed.
+
+**3.**[^key-d2340a421d52d30eba9bb9e445608d27] Any tractor which is used for agricultural or forestry work within a 100 kilometre radius of the base of the undertaking which owns, hires or leases the tractor.
+
+**4.**[^key-a217a5bd0d4d111b9b6480884ea86891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-7314bd6088702e2a2a91bd63ef826b1f] Any vehicle which operates exclusively on an island which does not exceed 2300 square kilometres in area and is not linked to the rest of Northern Ireland by a bridge, ford or tunnel open for use by motor vehicles.
+
+**6.**[^key-ceba335b8bacd2a35b032a11a3935cd5] Any vehicle which is used by an undertaking for the carriage of goods within a 100[^key-0bd506462ad1dd9e65647ad6f43e7682] kilometre radius from where the undertaking is based, is propelled by means of natural or liquefied gas or electricity and has a maximum permissible mass, including the weight of any trailer or semi-trailer drawn by it, not exceeding 7.5 tonnes.
+
+**7.**[^key-e9cc735d7cd64205b3f75accf7aa8e4f] (1) Any vehicle which is being used for driving instruction and examination with a view to obtaining a driving licence or certificate of professional competence.
+
+(2) A vehicle does not fall within the description specified in this paragraph if the vehicle or any trailer or semi-trailer drawn by it is being used for the commercial carriage of goods or passengers.
+
+**8.**[^key-0b907286cbbd56084c93ae5d4ec89d55] Any vehicle which is being used in connection with—
+
+- (a) sewerage, flood protection, water, gas or electricity maintenance services ;
+- (b) road maintenance or control;
+- (c) door-to-door household refuse collection or disposal;
+- (d) telegraph or telephone services;
+- (e) radio or television broadcasting; or
+- (f) the detection of radio or television transmitters or receivers.
+
+**9.**[^key-36d3a1d1ed2af735815efbf92e62cd82] Any vehicle with not more than 17 seats, including the driver’s seat, used exclusively for the non-commercial carriage of passengers.
+
+**10.**[^key-a0b7e53c429beb717519076dd0fa9ffa] Any specialised vehicle which is being used for transporting circus or funfair equipment.
+
+**11.**[^key-6129168303ab3fb163558c51eecfa9e6] Any mobile project vehicle the primary purpose of which is use as an educational facility when stationary and which is specially fitted for that purpose.
+
+**12.**[^key-014b8e475d7fefb16620faf7e337044a] Any vehicle which is being used for the collection of milk from farms or for the return to farms of milk containers or milk products intended for animal feed.
+
+**13.**[^key-af7f08f3ec791ed31c07c713c6345f1a] Any vehicle which is being used to carry animal waste or carcasses which are not intended for human consumption.
+
+**14.**[^key-2b5a0f384b9420bb37659aecff70576a] (1) Any vehicle which is used exclusively on roads inside hub facilities.
+
+(2) For the purposes of this paragraph, examples of “hub facilities” include ports, interports and railway terminals.
+
+**15.**[^key-fb0fcb1d8985a9fc0be894ae290f3241] Any vehicle which is being used to carry live animals from a farm to a market, or from a market to a slaughterhouse, where the distance between the farm and the market, or between the market and the slaughterhouse, does not exceed 100[^key-85337317065421b48ac672a77bfda79b] kilometres.
+
+### PART 2 — Vehicles Exempted by Regulations 3(2) and 5(2)
+
+**16.**[^key-d30052dea24eeb9f19bcedb661283889] Any vehicle which is being used by the Royal National Lifeboat Institution for the purpose of hauling lifeboats.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations facilitate compliance with the new Community Drivers’ Hours Regulation (Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561)), which had full effect as from 11 April 2007, replacing the former Community Drivers’ Hours Regulation ([Council Regulation (EEC) No 3820/85](https://www.legislation.gov.uk/european/regulation/1985/3820)). These Regulations revoke the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations 1987, as amended, that implemented certain discretionary, national exemptions allowed under [Council Regulation (EEC) No 3820/85](https://www.legislation.gov.uk/european/regulation/1985/3820), as amended, which sets out the drivers’ hours enforcement penalties (in relation to both the EC and domestic drivers’ hours rules).
+
+These Regulations make provisions to implement the new enforcement measures contained in the new Community Drivers’ Hours Regulation that: make transport undertakings automatically liable for infringements committed by their drivers, although a defence is provided; make undertakings, consignors, freight forwarders, tour operators, principal contractors, sub-contractors and driver employment agencies responsible for ensuring that contractually agreed transport time schedules respect the new Community Drivers’ Hours Regulation; and enable enforcement authorities in Northern Ireland to take action in respect of infringements detected there but committed outside Northern Ireland.
+
+These Regulations give effect to those discretionary national derogations contained in the Community Drivers’ Hours Regulation that have been adopted in Northern Ireland. They exempt certain types of operation from the Community Drivers’ Hours Regulation and, in most cases, from the application of the Community Recording Equipment Regulation ([Council Regulation (EEC) No 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821)). These Regulations also continue to exempt certain operations that were exempted after a special authorisation was granted by the European Commission in 1987.
+
+These Regulations define “historic status” for the purpose of a new automatic exemption in the new Community Drivers’ Hours Regulation for commercial vehicles which have a historic status according to the legislation of the Member State in which they are being driven and which are used for the non-commercial carriage of passengers or goods.
+
+Copies of EC Regulations referred to in these Regulations can be obtained from TSO, 16 Arthur Street, Belfast BT1 4GB.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (in these footnotes the “2006 Act”) paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and paragraph 2(2) was amended by section 27(2) of the 2006 Act.
+
+[^f00002]: Footnote: [S.I. 1972 No. 1811](https://www.legislation.gov.uk/uksi/1972/1811) and [S.I. 1975 No. 1707](https://www.legislation.gov.uk/uksi/1975/1707)
+
+[^key-2dc4c07af20e2943959a576d29866c31]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-dd9462e19286cfd8a5ac464cbd2078da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/91/regulation/2) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^f00003]: Footnote: O.J. No.L102, 11.04.06, p.1.
+
+[^key-4cc89e0496711f82d7b0313d24217ebf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/91/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2016/343/regulation/5/2)
+
+[^key-ecd57a947273cb620ad8663c5b0b3a91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/91/regulation/2/1) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2019/6/regulation/12)
+
+[^f00005]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-fc48dc8b98aa3c40d3d328ccbeeb8994]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/91/regulation/3) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-56231efc4505a56a1965b2a10994941a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/91/regulation/3/1) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/14/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a3ae58560b3e78b6d9109e66cd808add]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/91/regulation/3/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/596/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: O.J. No. L15, 21.01.98 p14-25. Directive [97/67/EC](https://www.legislation.gov.uk/european/directive/1997/0067) has been amended by Directive [2002/39/EC](https://www.legislation.gov.uk/european/directive/2002/0039) and by Regulation 1982/2003 but these do not amend Article 2(13).
+
+[^key-88ee4c256b95383129b16af99fed1039]: Textual amendment: Word in [reg. 3(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2009/91/regulation/3/1/b/iii) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2016/343/regulation/5/3)
+
+[^key-5dd789af0c85408818b4d77fb7b5b18b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2009/91/regulation/3/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [14(3)(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/14/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bac6f40842b62c39a3418a64c9a4baab]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2009/91/regulation/3/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [14(3)(b)](https://www.legislation.gov.uk/uksi/2019/596/regulation/14/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9837101aa0693f004a78bc0cad2fd799]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/91/regulation/4) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-fe08d09f6c9d7784e68760ec145c6bd9]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2009/91/regulation/4) inserted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2019/12/regulation/28)
+
+[^key-9227c37b72453813a1efd6ec8d876771]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/91/regulation/5) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-de57e1dc259c2af61ddf7892b81155e1]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2009/91/regulation/5) heading substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2016/343/regulation/5/4)
+
+[^key-63594bf31d7037cde82f971a55ed4cce]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2009/91/regulation/5/1) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/15/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0adb7adc111c2557c65ad331bc02be73]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2009/91/regulation/5/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2019/596/regulation/15/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50a2ad1e4695aaa078de38706fbf0b6e]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2009/91/regulation/5/2) omitted (31.12.2020) by virtue of[The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/596/regulation/15/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e7854282acd6c243a73460607ebcc312]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2009/91/regulation/5/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/596/regulation/15/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c6597391e8d56fef9462f3797ea92700]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/91/regulation/6) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^f00007]: Footnote: [1981 No. 154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
+
+[^f00008]: Footnote: Cmnd 7401, Cmnd 8572, Cmnd 9037, Cm 1776, Cm 3042 and Cm 3135
+
+[^f00009]: Footnote: O.J. No.L102, 11.04.06, p.1.
+
+[^key-c72f38e4053852c3e9d25a6ba48e82b0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/91/regulation/7) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^f00010]: Footnote: [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
+
+[^key-54fbd12456a469f6a6ea55681c9e0f20]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/91/regulation/8) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^f00011]: Footnote: [S.R. 1987/218](https://www.legislation.gov.uk/nisr/1987/218)
+
+[^f00012]: Footnote: [S.R. 1988/297](https://www.legislation.gov.uk/nisr/1988/297)
+
+[^f00013]: Footnote: [S.R. 1999/295](https://www.legislation.gov.uk/nisr/1999/295)
+
+[^key-88b4129386ac9b88aa977bc04cb3be35]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/1) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^f00014]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00015]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
+
+[^f00016]: Footnote: [S.I. 1990/247 (N.I. 3)](https://www.legislation.gov.uk/nisi/1990/247)
+
+[^f00017]: Footnote: [S.I. 1991/194 ((N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^key-09749fafe3377b82723253cccdf4da43]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/2) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-d2340a421d52d30eba9bb9e445608d27]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/3) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-a217a5bd0d4d111b9b6480884ea86891]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/4) omitted (31.10.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2016/343/regulation/5/6/a)
+
+[^key-7314bd6088702e2a2a91bd63ef826b1f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/5) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-ceba335b8bacd2a35b032a11a3935cd5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/6) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-0bd506462ad1dd9e65647ad6f43e7682]: Textual amendment: Word in [Sch. para. 6](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/6) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/5/6/b)
+
+[^key-e9cc735d7cd64205b3f75accf7aa8e4f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/7) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-0b907286cbbd56084c93ae5d4ec89d55]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/8) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-36d3a1d1ed2af735815efbf92e62cd82]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/9) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-a0b7e53c429beb717519076dd0fa9ffa]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/10) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-6129168303ab3fb163558c51eecfa9e6]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/11) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-014b8e475d7fefb16620faf7e337044a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/12) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-af7f08f3ec791ed31c07c713c6345f1a]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/13) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-2b5a0f384b9420bb37659aecff70576a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/14) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-fb0fcb1d8985a9fc0be894ae290f3241]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/15) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)
+
+[^key-85337317065421b48ac672a77bfda79b]: Textual amendment: Word in [Sch. para. 15](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/15) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/5/6/b)
+
+[^key-d30052dea24eeb9f19bcedb661283889]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nisr/2009/91/schedule/paragraph/16) in operation at 23.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1)

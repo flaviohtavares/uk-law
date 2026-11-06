@@ -1,0 +1,110 @@
+---
+title: Licensing (Requirements for Conference Centre) Regulations (Northern Ireland) 1997
+id: nisr/1997/26
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-01-24'
+text_date: '1997-02-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/26
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/26/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing (Requirements for Conference Centre) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (2).** Text as at 1997-02-20. See https://www.legislation.gov.uk/changes/affected/nisr/1997/26
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 26
+
+LICENSING
+
+Licensing (Requirements for Conference Centre) Regulations (Northern Ireland) 1997
+
+Made
+
+24th January 1997
+
+Coming into operation
+
+20th February 1997
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Article 2(2) of the Licensing (Northern Ireland) Order 1996[^f00001] and of all other powers enabling it in that behalf, with the concurrence of the Department of Economic Development, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-7152f944d5ee3b20b3c944ea257632be]
+
+These Regulations may be cited as the Licensing (Requirements for Conference Centre) Regulations (Northern Ireland) 1997 and shall come into operation on 20th February 1997.
+
+## 2. Requirements to which a conference centre must conform[^key-d30a31bdcdc26e358df3bae33b551bff]
+
+The requirements to which a conference centre as defined in Article 2(2) of the Licensing (Northern Ireland) Order 1996 must conform are that—
+
+- (a) the premises must have a specialised conference brochure or otherwise advertise the provision of conference facilities as one of the main businesses carried on in the premises;
+- (b) the premises must—
+  - (i) have a minimum of 2 conference rooms, one of which must be capable of seating at least 60 persons in addition to providing adequate space for the person or persons addressing the gathering; and
+  - (ii) be capable of providing a main table meal for up to 60 delegates simultaneously.
+- (c) the conference rooms must be used exclusively or mainly as meeting rooms;
+- (d) the premises must have at least one named member of staff with designated responsibility for handling conference enquiries and arrangements;
+- (e) adequate equipment for use at conferences must be available on the premises; and
+- (f) the premises must have—
+  - (i) a letter from an environmental health officer of the district council for the district in which the premises are situated, stating that the premises comply with the hygiene provisions of the Food Safety (Northern Ireland) Order 1991[^f00002], with the Food Safety (General Food Hygiene) Regulations (Northern Ireland) 1995[^f00003] and the Food Safety (Temperature Control) Regulations (Northern Ireland) 1995[^f00004];
+  - (ii) a letter from an inspector appointed by that district council, stating that the premises comply with the provisions of the Health and Safety at Work (Northern Ireland) Order 1978[^f00005]; and
+  - (iii) either, where applicable, a fire certificate issued by the Fire Authority for Northern Ireland under the provisions of the Fire Services (Northern Ireland) Order 1984[^f00006] or a letter from an authorised member of the fire brigade, stating that the premises afford an adequate means of escape in case of fire and that appropriate means for fighting fire have been provided and maintained on those premises, together with, where necessary, appropriate means for giving warning in case of fire.
+
+**3.**[^key-cd9d6c1b29756e41fc53ef3f79609bd4] In regulation 2—
+
+- “inspector” has the meaning assigned to it by Article 2 of the Health and Safety at Work (Northern Ireland) Order 1978; and
+- “authorised member of the fire brigade” has the meaning assigned to it by Article 21 of the Fire Services (Northern Ireland) Order 1984.
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+J. Harbison
+
+Under Secretary
+
+24th January 1997.
+
+The Department of Economic Development hereby concurs with the foregoing Regulations
+
+Sealed with the Official Seal of the Department of Economic Development on
+
+Malcolm J. Briant
+
+Assistant Secretary
+
+28th January 1997.
+
+(This note is not part of the Regulations.)
+
+These regulations set out the conditions to which premises must conform before they may be awarded a certificate by the Northern Ireland Tourist Board for the purposes of securing a licence for the sale by retail of intoxicating liquor.
+
+A Cost Compliance Assessment is available in respect of these regulations and a copy may be obtained on request from the Department of Health and Social Services, Social Legislation Branch 2, Annexe 3, Castle Buildings, Stormont, Belfast BT4 3RA.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1996/3158 (N.I. 22)](https://www.legislation.gov.uk/nisi/1996/3158)
+
+[^key-7152f944d5ee3b20b3c944ea257632be]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
+
+[^key-d30a31bdcdc26e358df3bae33b551bff]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
+
+[^f00002]: Footnote: [S.I. 1991 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
+
+[^f00003]: Footnote: [S.R. 1995 No. 360](https://www.legislation.gov.uk/nisr/1995/360) as amended by [S.R. 1996 No. 286](https://www.legislation.gov.uk/nisr/1996/286)
+
+[^f00004]: Footnote: [S.R. 1995 No. 377](https://www.legislation.gov.uk/nisr/1995/377) as amended by [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383)
+
+[^f00005]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00006]: Footnote: S.I. [1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
+
+[^key-cd9d6c1b29756e41fc53ef3f79609bd4]: Commencement: Reg. 3 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)

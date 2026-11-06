@@ -1,0 +1,327 @@
+---
+title: Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) Regulations 2002
+id: nisr/2002/96
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-03-08'
+text_date: '2004-11-12'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/96
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/96/pdfs/nisr_20020096_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/96/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) Regulations 2002
+
+> Text as at 2004-11-12.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 96
+
+POLICE
+
+Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) Regulations 2002
+
+Made
+
+8th March 2002
+
+To be laid before Parliament
+
+Coming into operation in accordance with regulation 1(2)
+
+The Secretary of State, in pursuance of section 26 of the Police (Northern Ireland) Act 1998[^f00001], and after consulting, in accordance with section 26(6) of that Act, the Northern Ireland Policing Board and the Police Association, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-5f02e5573dc9f2dd22011708c3f5130e]
+
+(1) These regulations may be cited as the Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) Regulations 2002.
+
+(2) These regulations shall come into operation on 5th April 2002, but—
+
+- (a) Regulations 3, 4, 5 and 7 shall have effect from 9th February 1999;
+- (b) Regulation 6 shall have effect—
+  - (i)[^key-e48fcbbbef29a2b6305703a21dc0e960] in the case of sub-paragraph (a), from 1st April 1997;
+  - (i)(a) in the case of sub-paragraph (a)(i), from 1st April 1998;
+  - (ii) in the case of paragraph (*b*) from 1st April 1999,
+  - (iii) in the case of paragraph (*c*) from 1st April 2000;
+  - (iv) in the case of paragraph (*d*) from 1st April 2001;
+- (c) Regulation 8 shall have effect from 1st July 2000 except that paragraph 1 shall have effect from 1st September 1997[^key-9dce48f98b9d3739c468dc5964608371] .
+- (d)[^key-5f40d308f5da71ea146596df24b896d1] Regulation 9 shall have effect:
+  - (i) in the case of paragraph (2), from 1st September 1994;
+  - (ii) in the case of paragraph (3), from 1st April 1998;
+- (e) Regulations 5 and 7 shall have effect from 1st September 1996.
+
+(3) In these Regulations “the principal Regulations” means the Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) Regulations 1996[^f00002].
+
+## 2. Public Holidays[^key-8b1cbc2674718dc9d8a51ff123e90c1a]
+
+(1) In regulation 2(1) of the principal Regulations, in the definition of public holiday, for the words “last Monday in May” substitute the words “3rd June 2002, 4th June 2002”.
+
+(2) This regulation shall only apply in the year 2002.
+
+## 3. Reference to Pay Schedule[^key-c37af240cd4c2c19e551126cc1451d3c]
+
+In regulation 1 of the principal Regulations sub-paragraph (*e*) shall be omitted.
+
+## 4. Part-time Working[^key-009aa20f89033c62655d81e2cca4d69d]
+
+(1) In regulation 4A of the principal Regulations (part-time appointments), after paragraph (1), there shall be inserted the following paragraphs—
+
+> (1A) In these Regulations a person appointed to perform part-time service includes a person appointed to share a job with another person.
+>
+> (1B) A person appointed to perform part-time service may not be appointed to serve as a full-time member without his consent.
+>
+> (1C) A person appointed to perform part-time service immediately after serving as a full-time member may give notice in writing of his intention to be re-appointed as a full-time member and shall be so appointed—
+>
+> - (a) within one month of the date the notice is received by the Northern Ireland Policing Board, where the authority has a suitable vacancy, or
+> - (b) except where sub-paragraph (*a*) applies, when 3 months have elapsed since the day the notice was received, or from an earlier date if reasonably practicable.
+
+.
+
+(2) In regulation 20 of the principal Regulations (variable shift arrangements)—
+
+- (a) in paragraph (1) the words “, appointed otherwise than under regulation 4A (part-time appointments)” shall be omitted;
+- (b) in paragraph (4), at the end there shall be added “but subject in its application to members appointed in accordance with regulation 4A (part-time appointments) to paragraph (5)”;
+- (c) after paragraph (4), add—
+
+  > (5) In their application to members appointed in accordance with regulation 5 to whom variable shift arrangements apply—
+  >
+  > - (a) Schedule 12 shall have effect as if the Table in regulation 18(3D), as substituted by paragraph 3 of that Schedule, was the Table set out in regulation 18(3) as substituted by paragraph 1 of Schedule 2; and
+  > - (b) Schedule 2 shall have effect as if paragraph 1 (except to the extent provided by sub-paragraph (*a*) above), paragraph 2 and paragraph 3 of that Schedule were omitted.
+
+  .
+
+(3) In regulation 30 (rate of pay), paragraph 2A shall be omitted.
+
+(4) Schedule 12 to the principal Regulations shall be amended in accordance with the following provisions of this regulation and in those provisions a reference to a paragraph number is, except where the context otherwise requires, a reference to the paragraph of that Schedule bearing that number.
+
+(5) In regulation 2(3) of the principal Regulations, inserted by paragraph 1, for the word “inspector” there shall be substituted the word “superintendent”.
+
+(6) In paragraph 3 in the paragraph substituted by sub-paragraph (*b*), for the words “ascertained from Schedule 4” there shall be substituted “determined by the Secretary of State in accordance with regulation 30”.
+
+(7) In paragraph 4—
+
+- (a) after the words “period of duty)” insert the words “for “inspector” in paragraph (1) there shall be substituted “superintendent” and”,
+- (b) in regulation 18(3A)—
+  - (i) after “(3)” insert “or (3ZA)”, and
+  - (ii) for head (*b*), substitute—
+
+    > - (b) if no different number was agreed to by the member, his normal period of duty is the number of hours determined on the last previous review, or where no such review has taken place, under paragraph (1).
+
+    ,
+- (c) after regulation 18(3A), insert—
+
+  > (3ZA) In addition to any review required under paragraph (3A), a member or the chief officer may require a further review where there has been or is likely to be significant changes in the normal daily period of duty or in the circumstances of the member.
+  >
+  > (3ZB) On any review under paragraph (3ZA) the chief officer shall have regard to the number of hours actually spent on duty during the interval preceding the review.
+
+  ,
+- (d) in regulation 18(3D) for the Table there shall be substituted the following Table:
+
+  > TABLE
+  >
+  > | Number of hours | Refreshment time |
+  > | --- | --- |
+  > | Less than 6 hours | 30 minutes |
+  > | 6 hours or more, but less than 7 hours | 35 minutes |
+  > | 7 hours or more, but less than 8 hours | 40 minutes |
+  > | 8 hours or more, but less than 9 hours | 45 minutes |
+  > | 9 hours or more, but less than 10 hours | 50 minutes |
+  > | 10 hours or more | 60 minutes |
+
+(8) After paragraph 4, there shall be inserted the following paragraph—
+
+> **4A.** In regulation 20(1) for “inspector” substitute “superintendent”.
+
+.
+
+(9) In paragraph 5(*a*) after head (i) there shall be inserted the following head—
+
+> - (ia) for “inspector” substitute “superintendent”, and
+
+.
+
+(10) In paragraph 6, after regulation 22(2), insert—
+
+> (2A) In the case of a member working a variable shift arrangement, the number of hours on duty shall be determined by adding together—
+>
+> - (a) the average number of hours the member is contracted to work in the 7 day period referred to in paragraph (2);
+> - (b) the number of hours (if any) the member worked on any rest day falling within that period; and
+> - (c) the number of hours (if any) the member worked on any public holiday falling within that period.
+
+.
+
+(11) In paragraph 7—
+
+- (a) in sub-paragraph (*c*), in regulation 23(4D), for “paragraph (4C)”, substitute “paragraph (4B)(*c*)”,
+- (b) after sub-paragraph (*c*) insert—
+
+  > - (cc) after paragraph (4D), add—
+  >
+  >   > (4E) In the case of any member working a variable shift arrangement the number of hours on duty shall be for the purposes of paragraph (4C)(*a*) be determined by adding together—
+  >   >
+  >   > - (a) the average number of hours the member is contracted to work in the week in which the free day occurred;
+  >   > - (b) the number of hours (if any) the member worked on any rest day in that week; and
+  >   > - (c) the number of hours (if any) the member worked on any public holiday within that period.
+
+  ,
+- (c) in sub-paragraph (*d*), at the end of regulation 23(6A), add—
+
+  > (6B) Any entitlement of a member arising under paragraphs (5), (6) and (6A) in respect of any day is in addition to any payments due to that member for that day in accordance with regulation 30 (rate of pay).
+
+  .
+- (d) in sub-paragraph (*f*), in head (i), in sub-paragraph (*b*) for “one quarter” substitute “one half”.
+
+(12) Paragraph 9 shall be omitted.
+
+(13) In paragraph 12,
+
+(1) in the paragraph substituted by sub-paragraph (*a*), for the words “ascertained from Schedule 4” there shall be substituted “determined by the Secretary of State in accordance with regulation 30”.
+
+(2) at the end, there shall be added the following sub-paragraphs—
+
+> - (b) after paragraph (1A) insert—
+>
+>   > (1B) A member’s rate of pay for days of leave is to be the rate determined by the Secretary of State in accordance with this regulation—
+>   >
+>   > - (a) reduced in the case of a member who shares a job with another person by one half; and
+>   > - (b) except in a case to which sub-paragraph (*a*) refers—
+>   >   - (i) reduced in the case of a constable or sergeant in the proportion that the number of determined hours bears to 40 times the number of weeks in the relevant period; and
+>   >   - (ii) multiplied in the case of a member above the rank of sergeant, by the appropriate factor.
+>
+>   and
+> - (c) after paragraph (3), there shall be added the following paragraph—
+>
+>   > (4) For the purposes of this regulation, in reckoning a member’s service in any rank any part-time service shall be taken into account as though it was full-time service.
+
+.
+
+(14) Paragraph 14 shall be omitted.
+
+(15) Paragraph 17 shall be omitted.
+
+## 5. Amendment of Regulation 30 of the principal Regulations[^key-bc79a5fee2882d776b0d3533bdf78ca5]
+
+(1) For regulation 30(1) of the principal Regulations (rate of pay) there shall be substituted the following paragraphs:
+
+> (1) Subject to the following provisions of this Part, the pay of members shall be determined by the Secretary of State.
+>
+> (1A) A determination under paragraph (1) may be made with retrospective effect to any date specified in the determination, but nothing in this paragraph shall be construed as authorising the pay payable to any person to be reduced retrospectively.
+
+.
+
+## 6. Increase in Removal Allowance
+
+In regulation 38(6) of the principal Regulations (removal allowance)—
+
+- (a)[^key-e8f0deb133d5b31c47c6b8a118b51a14][^key-dc11db94ba197b228837d33540cd780b] for “£1,396” there shall be substituted “£1,431”;
+- (a)(i) for “£1,431” there shall be substituted “£1,482”;
+- (b)[^key-f088a24042bd5b91c4ada2a33d21fa03] for “£1,482” there shall be substituted “£1,524”;
+- (c)[^key-ecc12b5e1eef46e1cb0ac4f03f2dcfa5] for “£1,524” there shall be substituted “£1,551”;
+- (d)[^key-cbd29b0874df4a4117e7d8a4fa5986d5] for “£1,551” there shall be substituted “£1,596”.
+
+## 7. Amendments to Schedule 4 of the principal Regulations[^key-2db39cae4cb4817a05c3d6f26f427fa4]
+
+Schedule 4 to the principal Regulations shall be omitted.
+
+## 8. Dog Handler’s Allowance[^key-2e4d8afd3dc0c8850d666d22d87b9055]
+
+In paragraph 1 of Schedule 8 to the principal Regulations (dog handler’s allowance) for “£1,023” there shall be substituted “£1,059”.
+
+- (a) Paragraph 1 of Schedule 8 to the principal Regulations (dog handler’s allowance) shall be substituted by—
+
+  > **1.** Subject as hereinafter provided, a dog handler’s allowance shall be payable at an annual rate of £1,554.
+
+  and
+
+  - in paragraph 1 as substituted by this regulation, for “£1,554” there shall be substituted, from and including 1st September 2000, “£1,602.”;
+- (b) for paragraph 2 substitute—
+
+  > **2.** Where the member keeps and cares for at his home more than one dog owned by the Northern Ireland Policing Board, there shall be added to the allowance an amount equal to 25 per cent of the sum specified in paragraph 1 for each such dog.
+
+  .
+
+## 9. Replacement Allowance[^key-7b9b70285c5694febbe23b342567ffd6]
+
+(1) Schedule 11 to the principal Regulations (replacement allowance) shall be amended as follows.
+
+(2) After paragraph 2(2) there shall be inserted the following sub-paragraph:
+
+> (2A) Where a member of a Police Force in Scotland or England and Wales in receipt of a replacement allowance under a corresponding regulation which has effect there transfers to the police force in Northern Ireland he shall be treated from the date of his transfer as if he were a qualifying member.
+
+.
+
+(3) After paragraph 2(4)(*b*) there shall be inserted the following head:
+
+> - (c) or a period of relevant service within the meaning of paragraph (*b*) or (*c*) of section 27(1) of the Police (Northern Ireland) Act 1998 or any corresponding provision for the time being in force in Scotland or England and Wales,
+
+.
+
+John Reid
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+8th March 2002
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) Regulations 1996 (“the 1996 Regulations”).
+
+Regulation 2 makes provision for the last Bank Holiday in May to be replaced with the 3rd and 4th June for the year 2002.
+
+Regulations 3, 5 and 7 replace the pay scales formerly set out in Schedule 4 to the 1996 Regulations with a provision that the pay of members of the police force will be determined by the Secretary of State.
+
+Regulation 4 makes provision for part-time workers, including those taking part in job-share arrangements. In particular provision is made relating to the members' normal period of duty and pay and allowances.
+
+Regulations 6 and 8 increase the amounts of certain allowances.
+
+By virtue of regulation 1(2), the regulations there cited have effect from dates before the coming into force of these Regulations. Retrospection is authorised by section 18 of the Administrative and Financial Provisions Act (Northern Ireland) 1962.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^key-5f02e5573dc9f2dd22011708c3f5130e]: Commencement: Reg. 1 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
+
+[^key-e48fcbbbef29a2b6305703a21dc0e960]: Textual amendment: [Reg. 1(2)(b)(i)(i)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i) substituted for [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i) (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/2)
+
+[^key-9dce48f98b9d3739c468dc5964608371]: Textual amendment: Words in [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/c) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/3)
+
+[^key-5f40d308f5da71ea146596df24b896d1]: Textual amendment: [Reg. 1(2)(d)-(e)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/d) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(4)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/4)
+
+[^f00002]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564) as amended by [S.R. 1997 No. 363](https://www.legislation.gov.uk/nisr/1997/363), [S.R. 1999 No. 411](https://www.legislation.gov.uk/nisr/1999/411) and [S.R. 2001 No. 80](https://www.legislation.gov.uk/nisr/2001/80)
+
+[^key-8b1cbc2674718dc9d8a51ff123e90c1a]: Commencement: Reg. 2 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
+
+[^key-c37af240cd4c2c19e551126cc1451d3c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/96/regulation/3) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+
+[^key-009aa20f89033c62655d81e2cca4d69d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/96/regulation/4) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+
+[^key-bc79a5fee2882d776b0d3533bdf78ca5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/96/regulation/5) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+
+[^key-e8f0deb133d5b31c47c6b8a118b51a14]: Commencement: [Reg. 6(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i)
+
+[^key-dc11db94ba197b228837d33540cd780b]: Textual amendment: [Regs. 6(a)-(ai)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) substituted for [reg. 6(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/nisr/2004/403/regulation/3/2)
+
+[^key-f088a24042bd5b91c4ada2a33d21fa03]: Commencement: [Reg. 6(b)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/b) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/ii)
+
+[^key-ecc12b5e1eef46e1cb0ac4f03f2dcfa5]: Commencement: [Reg. 6(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/c) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/iii)
+
+[^key-cbd29b0874df4a4117e7d8a4fa5986d5]: Commencement: [Reg. 6(d)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/d) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/iv)
+
+[^key-2db39cae4cb4817a05c3d6f26f427fa4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/96/regulation/7) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+
+[^key-2e4d8afd3dc0c8850d666d22d87b9055]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/96/regulation/8) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/c)
+
+[^key-7b9b70285c5694febbe23b342567ffd6]: Commencement: Reg. 9 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)

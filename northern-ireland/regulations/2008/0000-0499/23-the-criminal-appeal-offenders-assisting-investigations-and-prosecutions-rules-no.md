@@ -1,0 +1,302 @@
+---
+title: The Criminal Appeal (Offenders Assisting Investigations and Prosecutions) Rules (Northern Ireland) 2008
+id: nisr/2008/23
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-01-21'
+text_date: '2009-06-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/23
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/23/pdfs/nisrem_20080023_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/23/pdfs/nisr_20080023_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/23/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Appeal (Offenders Assisting Investigations and Prosecutions) Rules (Northern Ireland) 2008
+
+> Text as at 2009-06-30.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 23
+
+supreme court, northern ireland
+
+procedure
+
+The Criminal Appeal (Offenders Assisting Investigations and Prosecutions) Rules (Northern Ireland) 2008
+
+Made
+
+21st January 2008
+
+Coming into operation
+
+25th February 2008
+
+To be laid before Parliament
+
+The Northern Ireland Supreme Court Rules Committee makes the following Rules in exercise of the powers conferred by sections 55 and 55A of the Judicature (Northern Ireland) Act 1978[^f00001].
+
+## 1. Citation and commencement and interpretation[^key-665624351c85055704e19cfc826569a5]
+
+(1) These Rules may be cited as the Criminal Appeal (Offenders Assisting Investigations and Prosecutions) Rules (Northern Ireland) 2008 and shall come into operation on 25th February 2008.
+
+(2) In these Rules—
+
+- “Court” means the Court of Appeal of Northern Ireland;
+- “the 2005 Act” means the Serious Organised Crime and Police Act 2005[^f00002];
+- “the 2006 Order” means the Serious Organised Crime and Police Act 2005 (Appeals under Section 74) Order 2006[^f00003];
+- “appeal” means an appeal under section 74(8) of the 2005 Act against a decision of the Crown Court and “application for leave to appeal” shall be construed accordingly;
+- “appellant” means an appellant under section 74(8) of the 2005 Act, including a person who has given notice of application for leave to appeal;
+- “chief clerk” means the chief clerk of the Crown Court before which the offender was tried;
+- “Master” means the Master (High Court);
+- “offender” means a person whose case has been referred to the Crown Court under section 74(3) of the 2005 Act; and
+- “specified prosecutor” means a person specified in section 71(4) of the 2005 Act.
+
+## 2. Forms[^key-21c3c800641f2bf2c70f2cd1e7cb70e8]
+
+Any reference in these Rules to a Form means a form set out in the Schedule or a form to the same effect.
+
+## 3. Application for leave to appeal[^key-135f7d8c40cc22ee77496441ce79b2ba]
+
+(1) An application by an offender or specified prosecutor for leave to appeal to the Court shall be in Form 1 which shall specify the grounds of the application.
+
+(2) Notice of the application for leave to appeal shall be given within 28 days from the date of the decision of the Crown Court under section 74 of the 2005 Act and shall be served, by the appellant, on—
+
+- (a) the Master;
+- (b) the chief clerk; and
+- (c) the other party to the appeal.
+
+(3) The Court may, on application by the appellant, extend the time within which notice of an application for leave to appeal shall be given either before or after that period expires.
+
+(4) The notice under paragraph (1) shall be accompanied by any documents necessary for the proper determination of the appeal or application for leave to appeal including—
+
+- (a) a transcript of the decision which is the subject of the appeal;
+- (b) any skeleton arguments provided to the judge of the Crown Court by the parties; and
+- (c) a copy of the relevant written agreement entered into by the offender to give assistance to the prosecutor or investigator of an offence.
+
+(5) In the case of an appellant who is given leave to appeal, a notice of application for leave to appeal shall be treated as notice of appeal.
+
+## 4. Notes and report of trial judge[^key-27303ee4e4555967355439591a60efe2]
+
+The Master may request the trial judge to furnish to him a certified copy of his notes of the trial together with a report in writing giving his opinion upon the case or any point arising in it.
+
+## 5. Bail or custody orders in the Court of Appeal[^key-c6e9ee989880209fa44184befc7fafb3]
+
+Rules 5 to 13 of Order 79 of the Rules of the Supreme Court (Northern Ireland) 1980[^f00004] shall apply to bail or custody orders made in the Court of Appeal under Article 25 of the 2006 Order.
+
+## 6. Application by offender to be present[^key-29e40d60ad71071485de7bf75c6220ba]
+
+Except where made orally to the Court, an application by the offender to be present at proceedings for which leave is required under Article 27 of the 2006 Order shall be in Form 2 and shall, as soon as reasonably practicable, be served on the Master and on the other party to the appeal.
+
+## 7. Examination of witnesses or evidence by the court[^key-93378b0feb10d7abb822318accde6105]
+
+(1) Prior to the hearing of an appeal or an application for leave to appeal, a party may apply to the Court for an order under Article 28 of the 2006 Order for—
+
+- (a) the production of any document, exhibit or other thing connected with the proceedings;
+- (b) a witness to attend for examination and be examined by the Court; or
+- (c) the reception of evidence which was not adduced in the proceedings under section 74 of the 2005 Act.
+
+(2) Except where made orally to the Court, an application under paragraph (1) shall be in Form 3 and shall, as soon as reasonably practicable, be served on the Master and on the other party to the appeal.
+
+(3) Where the Court makes an order under Article 28 of the 2006 Order of its own motion or on the application of a party, the Master shall notify every party to the appeal of the order and the reasons for it.
+
+## 8. Supply of documentary and other exhibits[^key-154a3ba304582ff368d5223652ec2bb0]
+
+(1) The Master shall, on request, supply to a party to the appeal copies of documents or other exhibits required for the appeal or application for leave to appeal and in such case may make charges in accordance with scales and charges fixed for the time being by the Treasury.
+
+(2) The Master shall, on request, make arrangements for a party to the appeal to inspect any document or other exhibit required for the appeal.
+
+(3) This rule shall not apply to the supply of transcripts of any proceedings or part thereof.
+
+## 9. Applications which may be heard by a single judge[^key-471fbc88730c797ab2e026783b0f162d]
+
+(1) A single judge of the Court shall, for the purpose of hearing any of the applications referred to in Article 31 of the 2006 Order, sit in such place as he may appoint and he may sit otherwise than in open court.
+
+(2) As soon as practicable after a single judge of the Court determines such an application, the Master shall serve notice of the Judge’s decision in Form 4 on the every party to the appeal.
+
+(3) Where a single judge of the Court has determined an application referred to in Article 31 of the 2006 Order, a party aggrieved may have the application determined by the Court by serving notice in Form 4 on the Master within 14 days, or such longer period as the single judge of the Court may fix, from the date on which notice of the decision was served on him.
+
+## 10. Notice of hearing and determination of the Court[^key-7f78fa4837f45279dda9967bec19081a]
+
+(1) The Master shall, as far in advance as reasonably practicable, give notice of the date fixed for the hearing by the Court of an appeal or application to—
+
+- (a) the specified prosecutor;
+- (b) the offender; and
+- (c) the chief clerk.
+
+(2) As soon as reasonably practicable after the determination of an appeal or application for leave to appeal, the Master shall serve notice of the decision of the Court on those parties listed in paragraph (1).
+
+(3) Where a party to whom notice is required to be given under this rule is in custody, notice shall instead be given to the person having custody of him.
+
+## 11. Assistance from the Crown Court[^key-70b7698ff09014b3f05fefd8a605566d]
+
+The Master may require the chief clerk to furnish the Court with any assistance or information which it may require for the purposes of exercising its jurisdiction under section 74 of the 2005 Act or these Rules.
+
+## 12. Appeal to the House of Lords[^key-be4ae281025ff47d3c792e370fc1daea]
+
+An application to the Court for leave to appeal to the House of Lords under Part V of the 2006 Order shall either be made—
+
+- (a) orally immediately after the decision of the Court from which an appeal lies to the House of Lords; or
+- (b) by serving notice in writing which shall include the grounds of the application on the Master within 28 days of the decision of the Court.
+
+## 13. Abandonment of proceedings[^key-891332155dbf2bb75a1f1f7efc247d09]
+
+An appeal or an application for leave to appeal (including an application for leave to appeal to the House of Lords) may be abandoned before the hearing of the appeal or application by serving on the Master notice thereof in Form 5.
+
+## 14. Service[^key-80627e204bad3b7c0113d9f75d749aa3]
+
+(1) For the purposes of these Rules, service of a document on the Master may, unless otherwise directed by the Master, a single judge of the Court or the Court, be effected—
+
+- (a) by an offender who is in custody, by delivering it to the person having custody of him;
+- (b) by delivering it personally to the Master; or
+- (c) by addressing it to the Master and leaving it at, or sending it by recorded delivery or by fax to, his office in the Royal Courts of Justice, Chichester Street, Belfast, BT1 3JF.
+
+(2) For the purposes of these Rules, service of a document on the chief clerk may, unless otherwise directed by the Master, a single judge of the Court or the Court, be effected—
+
+- (a) by an offender who is in custody, by delivering it to the person having custody of him;
+- (b) by delivering it personally to the chief clerk;
+- (c) by addressing it to the chief clerk and leaving it at, or sending it by recorded delivery or by fax to, the Crown Court at which the ruling appealed against was made.
+
+(3) A person having custody of an offender to whom a document in pursuance of paragraph (1)(a) or (2)(a), shall endorse on it the date of delivery and send it forthwith to the Master or, as the case may be, the chief clerk.
+
+(4) For the purposes of these Rules—
+
+- (a) service of a document on any other person may, unless otherwise directed by the Master, a single judge of the Court or the Court, be effected—
+  - (i) by delivering the document personally to the person to whom it is directed or his solicitor;
+  - (ii) by leaving it for him with some person at his last known or usual place of abode;
+  - (iii) by sending it by recorded delivery to that person’s last known or usual place of abode or to his solicitor’s business address; or
+  - (iv) by sending it by fax in accordance with sub-paragraph (b);
+- (b) service by fax under sub-paragraph (a)(iv) may be effected—
+  - (i) in the case of a offender or interested party who is represented by a solicitor, by sending it to that solicitor at a specified fax number where he has indicated in writing that he is willing to accept service by fax; or
+  - (ii) in the case of the specified prosecutor, by sending it to the prosecution at a fax number where he indicated in writing that he is willing to accept service by fax.
+
+(5) A document sent by recorded delivery shall be deemed to be served at the time when it is delivered.
+
+(6) Where a document is sent by fax before 5.00pm it shall, unless the contrary is shown, be deemed to be served on that day, and, in any other case, on the business day next following.
+
+Brian Kerr
+
+Patrick Coghlin
+
+Paul Girvan
+
+Anthony Campbell
+
+Tony Caher
+
+Dated 15th January 2008
+
+Signed by the authority of the Lord Chancellor
+
+In exercise of the powers conferred by section 55A(3) of the Judicature (Northern Ireland) Act 1978, I allow these Rules.
+
+David Hanson
+
+Minister of State
+
+Ministry of Justice
+
+Dated 21st January 2008
+
+## SCHEDULE[^key-5c084e06a0008a2d26d4d729f0fa60f9]
+
+Form 1
+
+[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_001)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_002)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_003)
+
+Form 2
+
+[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_004)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_005)
+
+Form 3
+
+[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_006)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_007)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_008)
+
+[^key-ddc641d55f36dc83cf3f32a838ba4104]Form 4
+
+[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_epp_002.gif)
+
+### PART B — APPLICATION FOR DETERMINATION BY THE COURT
+
+[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_epp_003.gif)
+
+Form 5
+
+[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_012)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_013)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules make provision for applications relating to the review of sentences of offenders offering assistance to prosecutors and investigating officers under section 74 of the Serious Organised Crime and Police Act 2005 (‘the 2005 Act’) and Parts 4 and 5 of the Serious Organised Crime and Police Act 2005 (Appeals under Section 74) Order 2006 (‘the 2006 Order’).
+
+Under the 2005 Act and the 2006 Order, the Court of Appeal may, on an application by a specified prosecutor or offender, review Crown Court decisions regarding the sentencing of offenders who
+
+- received a reduced sentence on the basis of an agreement to assist prosecutors or investigators but subsequently knowingly failed to give assistance; or
+- gives or agrees to give assistance or further assistance after having been sentenced.
+
+In particular, the Rules;
+
+- prescribe procedure in relation to a notice of appeal or an application for leave to appeal made by a specified prosecutor or an offender under section 74(8) of the 2005 Act;
+- make provision in relation to provision of notes of the original trial to the Court of Appeal by the trial judge;
+- provide that the provisions Rules 5 to 13 of Order 79 of the Rules of the Supreme Court (Northern Ireland) 1980[^f00005] governing bail and custody orders made in the Court of Appeal shall apply to applications made under Article 25 of the 2006 Order;
+- make provision in relation to the right of an unrepresented appellant to be present at the hearing of his appeal;
+- prescribe the procedure to be followed in relation to application for an order for the production of a document, exhibit or other thing, or for a witness to attend to be examined;
+- make provision in relation to the supply of copies of documents and exhibits, excepting transcripts;
+- make provision in relation to applications which may be heard by a single judge and in relation to applications by aggrieved parties for decisions of the judge to be determined by the Court;
+- prescribe the procedure for making an application to the Court of Appeal for leave to appeal to the House of Lords under Part 5 of the 2006 Order; and
+- prescribe procedure governing the abandonment of proceedings by the appellant.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23) to which the most recent relevant amendment was made by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-665624351c85055704e19cfc826569a5]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2008/23/article/1) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^f00002]: Footnote: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15)
+
+[^f00003]: Footnote: [S.I. 2006/2135](https://www.legislation.gov.uk/uksi/2006/2135)
+
+[^key-21c3c800641f2bf2c70f2cd1e7cb70e8]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2008/23/article/2) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-135f7d8c40cc22ee77496441ce79b2ba]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2008/23/article/3) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-27303ee4e4555967355439591a60efe2]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2008/23/article/4) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-c6e9ee989880209fa44184befc7fafb3]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2008/23/article/5) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^f00004]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
+
+[^key-29e40d60ad71071485de7bf75c6220ba]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2008/23/article/6) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-93378b0feb10d7abb822318accde6105]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2008/23/article/7) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-154a3ba304582ff368d5223652ec2bb0]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2008/23/article/8) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-471fbc88730c797ab2e026783b0f162d]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2008/23/article/9) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-7f78fa4837f45279dda9967bec19081a]: Commencement: [Rule 10](https://www.legislation.gov.uk/nisr/2008/23/article/10) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-70b7698ff09014b3f05fefd8a605566d]: Commencement: [Rule 11](https://www.legislation.gov.uk/nisr/2008/23/article/11) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-be4ae281025ff47d3c792e370fc1daea]: Commencement: [Rule 12](https://www.legislation.gov.uk/nisr/2008/23/article/12) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-891332155dbf2bb75a1f1f7efc247d09]: Commencement: [Rule 13](https://www.legislation.gov.uk/nisr/2008/23/article/13) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-80627e204bad3b7c0113d9f75d749aa3]: Commencement: [Rule 14](https://www.legislation.gov.uk/nisr/2008/23/article/14) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-5c084e06a0008a2d26d4d729f0fa60f9]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2008/23/schedule) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+
+[^key-ddc641d55f36dc83cf3f32a838ba4104]: Textual amendment: [Sch. Form 4](https://www.legislation.gov.uk/nisr/2008/23/schedule) substituted (30.6.2009) by [The Criminal Appeal (Offenders Assisting Investigations and Prosecutions) (Amendment) Rules (Northern Ireland) 2009 (S.R. 2009/209)](https://www.legislation.gov.uk/nisr/2009/209), [rules 1](https://www.legislation.gov.uk/nisr/2009/209/article/1), [2](https://www.legislation.gov.uk/nisr/2009/209/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/209/schedule)
+
+[^f00005]: Footnote: [S.R. 1980 No.346](https://www.legislation.gov.uk/nisr/1980/346)

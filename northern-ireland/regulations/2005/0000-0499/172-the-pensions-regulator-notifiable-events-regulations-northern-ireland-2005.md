@@ -1,0 +1,130 @@
+---
+title: The Pensions Regulator (Notifiable Events) Regulations (Northern Ireland) 2005
+id: nisr/2005/172
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-25'
+text_date: '2009-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/172
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/172/pdfs/nisr_20050172_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/172/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Regulator (Notifiable Events) Regulations (Northern Ireland) 2005
+
+> Text as at 2009-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 172
+
+PENSIONS
+
+The Pensions Regulator (Notifiable Events) Regulations (Northern Ireland) 2005
+
+Made
+
+25th March 2005
+
+Coming into operation
+
+6th April 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Articles 64(2) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-eaae109b7c4b4a3f08b4a98b1e11fe01]
+
+(1) These Regulations may be cited as the Pensions Regulator (Notifiable Events) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+(2) In these Regulations –
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “business” includes trade or profession;
+- “control” has the meaning ascribed to it in Article 4(10) of the Insolvency Order (“associate”), and “controlling company” is to be construed accordingly;
+- “debt” includes a contingent debt;
+- “director” has the meaning given to it in Article 9 of the Companies Order[^f00002] (“director” and “shadow director”);
+- [^key-b57632d6cbd2dd632978a4ce148f0234]...
+- [^key-b57632d6cbd2dd632978a4ce148f0234]...
+- “scheme assets” means the value of the assets according to the most recent actuarial valuation carried out under Article 203 of the Order (actuarial valuations and reports) or, if no such valuation has been carried out, the most recent valuation carried out under Article 56 of the 1995 Order (minimum funding requirement) and regulations made thereunder.
+
+## 2. Notifiable events[^key-e83daf2f9d1f1abac0998a84c29e56ea]
+
+(1) The events prescribed for the purposes of Article 64(2)(a) of the Order (duty to notify the Regulator of certain events – prescribed events in respect of an eligible scheme) are –
+
+- (a) any decision by the trustees or managers to take action which will, or is intended to, result in any debt which is or may become due to the scheme not being paid in full;
+- (b)[^key-fb25a55eb823bf8aaf494c357e9c76d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a decision by the trustees or managers of a scheme (“the relevant scheme”) to make a transfer payment to, or accept a transfer payment from, another scheme , or where the trustees or managers are required to make or accept a transfer payment without such a decision having been taken, the making or acceptance of that payment,[^key-6b97e198f6193572ac1cabb80046f013] the value of which is more than the lower of –
+  - (i) 5 per cent. of the value of the scheme assets of the relevant scheme, and
+  - (ii) £1,500,000 (one million five hundred thousand pounds);
+- (d) a decision by the trustees or managers to grant benefits, or a right to benefits, on more favourable terms than those provided for by the scheme rules, without either seeking advice from the actuary (appointed under Article 47(1) of the 1995 Order) or securing additional funding where such funding was advised by the actuary;
+- (e) a decision by the trustees or managers to grant benefits, or a right to benefits, to a member , or where the trustees or managers are required to grant benefits or a right to benefits without such a decision having been taken, the granting of those benefits or that right,[^key-185cb25651fba0b804befc1efa54fdee] the cost of which is more than the lower of –
+  - (i) 5 per cent. of the value of the scheme assets, and
+  - (ii) £1,500,000 (one million five hundred thousand pounds).
+
+(2) The events prescribed for the purposes of Article 64(2)(b) of the Order (duty to notify the Regulator of certain events – prescribed events in respect of the employer in relation to an eligible scheme) are –
+
+- (a) any decision by the employer to take action which will, or is intended to, result in a debt which is or may become due to the scheme not being paid in full;
+- (b) a decision by the employer to cease to carry on business in the United Kingdom , or where the employer ceases to carry on business in the United Kingdom without such a decision having been taken, the cessation of business in the United Kingdom by that employer[^key-6cd4b0ea034b977eaad69fe5127fbcf0] ;
+- (c) where applicable, receipt by the employer of advice that it is trading wrongfully within the meaning of Article 178 of the Insolvency Order[^f00003] (wrongful trading), or circumstances being reached in which a director or former director of the company knows that there is no reasonable prospect that the company will avoid going into insolvent liquidation within the meaning of that Article, and for this purpose Article 178(4) of that Order applies;
+- (d) any breach by the employer of a covenant in an agreement between the employer and a bank or other institution providing banking services, other than where the bank or other institution agrees with the employer not to enforce the covenant;
+- (e)[^key-4deb4fdbe5748802b4c8fc00aaa0d898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) where the employer is a company, a decision by a controlling company to relinquish control of the employer company , or where the controlling company relinquishes such control without a decision to do so having been taken, the relinquishing of control of the employer company by that controlling company[^key-02aba0fad8b58c0d87f96cfaf7d1c664] ;
+- (g)[^key-c1d8b9779c8270d4be3fdd34f42308b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) the conviction of an individual, in any jurisdiction, for an offence involving dishonesty, if the offence was committed while the individual was a director or partner of the employer.
+
+Sealed with the Official Seal of the Department for Social Development on 25th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe those events the occurrence of which must be notified to the Regulator by an appropriate person by virtue of Article 64(1) of the Pensions (Northern Ireland) Order 2005 (“the Order”).
+
+In relation to events in respect of certain occupational pension schemes the duty to notify the Regulator falls on the trustees or managers of the scheme; in relation to events in respect of employers in relation to eligible pension schemes, the duty falls on the employers.
+
+The Pensions Regulator has prepared directions and a code of practice which give further information regarding notifiable events. The code of practice will be published on the Pensions Regulator’s website: www.thepensionsregulator.gov.uk.
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of Article 64(2) of the Order, one of the enabling provisions under which these Regulations are made, on 25th February 2005 for the purpose of authorising the making of regulations and for all other purposes on 6th April 2005.
+
+As these Regulations are made before the expiry of the period of six months beginning with the coming into operation of provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-eaae109b7c4b4a3f08b4a98b1e11fe01]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/172/regulation/1/1)
+
+[^f00002]: Footnote: By virtue of regulation 4 of, and Part I of Schedule 2 to, the Limited Liability Partnerships Regulations (Northern Ireland) 2004 ([S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307)) Article 9 (except paragraph (3)) applies to limited liability partnerships with the modifications set out in regulation 4(1)
+
+[^key-b57632d6cbd2dd632978a4ce148f0234]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/172/regulation/1/2) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/106)](https://www.legislation.gov.uk/nisr/2009/106), [regs. 1](https://www.legislation.gov.uk/nisr/2009/106/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2009/106/regulation/2/2)
+
+[^key-e83daf2f9d1f1abac0998a84c29e56ea]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/172/regulation/1/1)
+
+[^key-fb25a55eb823bf8aaf494c357e9c76d4]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/1/b) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/106)](https://www.legislation.gov.uk/nisr/2009/106), [regs. 1](https://www.legislation.gov.uk/nisr/2009/106/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2009/106/regulation/2/3/a)
+
+[^key-6b97e198f6193572ac1cabb80046f013]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/1/c) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [9(a)(i)](https://www.legislation.gov.uk/nisr/2005/357/regulation/9/a/i)
+
+[^key-185cb25651fba0b804befc1efa54fdee]: Textual amendment: Words in [reg. 2(1)(e)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/1/e) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [9(a)(ii)](https://www.legislation.gov.uk/nisr/2005/357/regulation/9/a/ii)
+
+[^key-6cd4b0ea034b977eaad69fe5127fbcf0]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/2/b) added (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [9(b)(i)](https://www.legislation.gov.uk/nisr/2005/357/regulation/9/b/i)
+
+[^f00003]: Footnote: Article 178 is modified by section 90 of, and Schedule 15 to, the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53) and by section 23 of and Schedule 10 to, the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40). By virtue of regulation 5 of the Limited Liability Partnerships Regulations (Northern Ireland) 2004 Article 178 applies to limited liability partnerships with the modifications set out in regulation 5(2)(a) and (b)
+
+[^key-4deb4fdbe5748802b4c8fc00aaa0d898]: Textual amendment: [Reg. 2(2)(e)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/2/e) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/106)](https://www.legislation.gov.uk/nisr/2009/106), [regs. 1](https://www.legislation.gov.uk/nisr/2009/106/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2009/106/regulation/2/3/b)
+
+[^key-02aba0fad8b58c0d87f96cfaf7d1c664]: Textual amendment: Words in [reg. 2(2)(f)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/2/f) added (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [9(b)(ii)](https://www.legislation.gov.uk/nisr/2005/357/regulation/9/b/ii)
+
+[^key-c1d8b9779c8270d4be3fdd34f42308b7]: Textual amendment: [Reg. 2(2)(g)](https://www.legislation.gov.uk/nisr/2005/172/regulation/2/2/g) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/106)](https://www.legislation.gov.uk/nisr/2009/106), [regs. 1](https://www.legislation.gov.uk/nisr/2009/106/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2009/106/regulation/2/3/b)

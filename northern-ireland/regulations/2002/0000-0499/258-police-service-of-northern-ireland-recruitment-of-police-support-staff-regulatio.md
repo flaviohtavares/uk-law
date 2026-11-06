@@ -1,0 +1,180 @@
+---
+title: Police Service of Northern Ireland (Recruitment of Police Support Staff) Regulations 2002
+id: nisr/2002/258
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2002-07-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2002/258
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/258/pdfs/nisr_20020258_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/258/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police Service of Northern Ireland (Recruitment of Police Support Staff) Regulations 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 258
+
+POLICE
+
+Police Service of Northern Ireland (Recruitment of Police Support Staff) Regulations 2002
+
+Made
+
+29th July 2002
+
+To be laid before Parliament
+
+Coming into operation
+
+20th September 2002
+
+The Secretary of State, in pursuance of sections 43 and 44 of the Police (Northern Ireland) Act 2000[^f00001], and after consulting the Northern Ireland Policing Board, the Chief Constable, the Equality Commission for Northern Ireland and the Police Association for Northern Ireland, hereby makes the following regulations:
+
+## 1. Citation and commencement
+
+(1) These regulations may be cited as the Police Service of Northern Ireland (Recruitment of Police Support Staff) Regulations 2002.
+
+(2) These regulations shall come into operation on 20th September 2002.
+
+## 2. Interpretation
+
+In these regulations –
+
+- “the Act” means the Police (Northern Ireland) Act 2000;
+- “the agent” means any person appointed under regulation 3(1);
+- “independent community observers” means the independent community observers appointed by the Board under regulation 10(1) of the police recruitment regulations;
+- “the police recruitment regulations” means the Police (Recruitment) (Northern Ireland) Regulations 2001[^f00002];
+- “police support staff” has the same meaning as in section 4(6) of the Act;
+- “the vetting panel” means the panel established by the Chief Constable under regulation 12(1) of the police recruitment regulations.
+
+## 3. Recruitment agent
+
+(1) The Chief Constable may appoint a person to exercise functions in connection with the selection of qualified candidates for appointment under section 4(3) of the Act to posts in the police support staff; and where such a person (“the agent”) is so appointed, he shall exercise such functions as are conferred on the agent by or under these regulations.
+
+(2) The Chief Constable may appoint more than one agent.
+
+(3) The agent shall be appointed on such terms and conditions, including conditions as to payment, as the Chief Constable shall determine.
+
+(4) The Chief Constable shall not require the agent to carry out, in relation to candidates for appointment under section 4(3) of the Act to posts in the police support staff –
+
+- (a) assessments of the suitability of such candidates under regulation 7 or under any provision of the police recruitment regulations applied to such candidates by that regulation;
+- (b) the monitoring of such candidates in accordance with the Fair Employment (Monitoring) Regulations (Northern Ireland) 1999[^f00003].
+
+(5) Without prejudice to paragraph (4), the Chief Constable may require the agent to carry out ancillary functions in relation to the matters specified in that paragraph.
+
+## 4. Advertising of vacancies
+
+(1) Subject to paragraph (2), where a vacancy in the police support staff is to be filled under section 4(3) of the Act, the Chief Constable or the agent shall publish notice of the vacancy.
+
+(2) Paragraph (1) shall not apply to a vacancy for any post which is not a relevant post, if it appears to the Chief Constable that it is unnecessary to publish notice of the vacancy.
+
+(3) In publishing notice of vacancies in accordance with paragraph (1) the Chief Constable or (as the case may be) the agent shall have regard to the recommendations contained in paragraph 15.8 of the Report of the Independent Commission on Policing for Northern Ireland (“A New Beginning: Policing in Northern Ireland” published on 9th September 1999).
+
+## 5. Information to be provided by applicants
+
+(1) The Chief Constable or, subject to regulation 3(4) and paragraph (2), the agent, shall request each candidate for appointment under section 4(3) of the Act to a post in the police support staff to provide such information as may be appropriate to establish whether the candidate is qualified for the post.
+
+(2) Candidates shall not be asked to send information about criminal convictions other than to the Chief Constable.
+
+## 6. Tests and assessments
+
+(1) Where it appears to the Chief Constable that tests or assessments are necessary to determine whether a candidate is qualified for appointment under section 4(3) of the Act to a post in the police support staff, he shall –
+
+- (a) subject to paragraphs (2) and (3), carry out, or
+- (b) ask the agent to carry out,
+
+the tests or assessments.
+
+(2) In the case of medical tests or assessments, the Chief Constable or the agent shall arrange for them to be carried out by a registered medical practitioner approved by the Chief Constable.
+
+(3) The Chief Constable or the agent may arrange for persons who –
+
+- (a) are, or who have been, police officers or members of the police support staff, and
+- (b) appear to the Chief Constable or the agent to have specialist knowledge of the duties of a post,
+
+to participate in the process of developing or carrying out tests or assessments of candidates for that post.
+
+## 7. Vetting panel and Independent Assessor
+
+(1) The functions of the vetting panel established by the Chief Constable under regulation 12(1) of the police recruitment regulations shall include, in relation to any candidate for appointment under section 4(3) of the Act to a post in the police support staff whose case is referred to it, deciding on behalf of the Chief Constable and subject to his direction and control, on the suitability of the candidate for appointment to the post.
+
+(2) No decision may be made that a candidate is unsuitable for appointment under section 4(3) of the Act to a post in the police support staff, except –
+
+- (a) by the vetting panel, or
+- (b) in accordance with regulation 13(7) of the police recruitment regulations.
+
+(3) The functions of the Independent Assessor appointed by the Secretary of State under regulation 13(1) of the police recruitment regulations shall include reviewing decisions of the vetting panel as to the suitability of any candidate for appointment under section 4(3) of the Act to a post in the police support staff.
+
+(4) Regulations 12 and 13 of the police recruitment regulations shall apply in relation to any such candidate as they apply in relation to a candidate for appointment as a police trainee.
+
+(5) Any reference in regulation 14 or 15 of the police recruitment regulations to –
+
+- (a) information received under Part III of those regulations, or
+- (b) functions under that Part of those regulations,
+
+shall include a reference to information received or (as the case may be) functions conferred, by virtue of this regulation.
+
+## 8. Pool of qualified applicants
+
+Where posts at the same level in the police support staff –
+
+- (a) are relevant posts, and
+- (b) are to be filled under section 4(3) of the Act at or about the same time,
+
+the Chief Constable or the agent shall place all candidates who are qualified and suitable for appointment to those posts in a pool of applicants for the purposes of section 46(5) of the Act.
+
+## 9. Independent community observers
+
+(1) The functions of the independent community observers appointed by the Board under regulation 10(1) of the police recruitment regulations shall include reporting to the Board on such aspects of the recruitment process for police support staff as may be agreed by the Board and the Chief Constable.
+
+(2) Independent community observers shall not be involved in any aspect of the recruitment process under regulation 7.
+
+(3) The reports of independent community observers on the recruitment process for police support staff shall deal with –
+
+- (a) the adequacy of facilities and arrangements; and
+- (b) whether, so far as practical, the same procedures are being applied to all the candidates for any particular post in the police support staff.
+
+(4) The reports of independent community observers on the recruitment process for police support staff shall be made in such form and on such occasions as the Board may determine.
+
+(5) The Chief Constable and the agent shall make such arrangements as are necessary to enable the independent community observers to carry out their duties under this regulation.
+
+John Reid
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+29th July 2002
+
+(This note is not part of the Regulations.)
+
+These regulations make provision for the recruitment of police support staff. They give effect to recommendations of the Independent Commission on Policing in Northern Ireland in its report “A New Beginning: Policing in Northern Ireland” (“the Patten Report”) published on 9th September 1999. They apply only to posts to which candidates are to be appointed under section 4(3) of the Police (Northern Ireland) Act 2000.
+
+Regulation 3 provides for the appointment of an agent (“the recruitment agent”) to exercise certain functions of the Chief Constable in connection with the recruitment of police support staff.
+
+Regulation 4 makes provision for the advertising of vacancies for police support staff and requires the Chief Constable or the recruitment agent to have regard to the recommendations of the Patten Report in conducting advertising.
+
+Regulations 5 and 6 set out the functions of the Chief Constable and the recruitment agent as regards information to be provided by candidates for posts in the police support staff, and as regards tests and assessments for such candidates.
+
+Regulation 7 makes provision for vetting candidates for posts in the police support staff. Paragraphs (1) and (2) extend the functions of the vetting panel established under regulation 12(1) of the Police (Recruitment) (Northern Ireland) Regulations 2001 (“the police recruitment regulations”) to include deciding on the suitability of candidates for appointment to posts in the police support staff. Regulation 7(3) extends the functions of the Independent Assessor appointed under regulation 13(1) of the police recruitment regulations to include reviewing decisions of the vetting panel as to the suitability of candidates for appointment to posts in the police support staff. Regulation 7(4) and (5) apply other provisions of the police recruitment regulations to the recruitment of police support staff.
+
+Regulation 8 applies to relevant posts in the police support staff (as defined in section 44(7) of the Police (Northern Ireland) Act 2000). It requires the Chief Constable or the recruitment agent to form a pool of candidates who are qualified for appointment to the posts and whom it has been decided are suitable for appointment to the posts.
+
+Regulation 9 extends the functions of the independent community observers appointed under regulation 10(1) of the police recruitment regulations to include reporting to the Northern Ireland Policing Board on the recruitment process for police support staff.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
+
+[^f00002]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140)
+
+[^f00003]: Footnote: [S.R. 1999 No. 148](https://www.legislation.gov.uk/nisr/1999/148)

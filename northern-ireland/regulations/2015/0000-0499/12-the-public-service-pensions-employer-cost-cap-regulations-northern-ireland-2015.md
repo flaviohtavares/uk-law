@@ -1,0 +1,102 @@
+---
+title: The Public Service Pensions (Employer Cost Cap) Regulations (Northern Ireland) 2015
+id: nisr/2015/12
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-01-19'
+text_date: '2022-09-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/12
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/12/pdfs/nisrem_20150012_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/12/pdfs/nisr_20150012_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/12/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Service Pensions (Employer Cost Cap) Regulations (Northern Ireland) 2015
+
+> Text as at 2022-09-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 12
+
+Public Service Pensions
+
+The Public Service Pensions (Employer Cost Cap) Regulations (Northern Ireland) 2015
+
+Made
+
+19 January 2015
+
+Coming into operation
+
+1 April 2015
+
+The Department of Finance and Personnel, in exercise of the powers conferred by section 12(5) of the Public Service Pensions Act (Northern Ireland) 2014[^f00001] and after consultation with persons or representatives of such persons as appear to the Department likely to be affected, as required by section 12(10) of that Act, makes the following Regulations:
+
+## 1. Citation and commencement[^key-065878128d3edba38ec1077a546e2e4d]
+
+These Regulations may be cited as the Public Service Pensions (Employer Cost Cap) Regulations (Northern Ireland) 2015, and come into operation on 1 April 2015.
+
+## 2. Interpretation[^key-76af8ba78a3c3925f9ae5a3db81aca6b]
+
+In these Regulations, a “relevant scheme” means a defined benefits scheme (and any connected scheme) to which section 12 of the Public Service Pensions Act (Northern Ireland) 2014 applies.
+
+## 3. Specified margins[^key-43a77a12fcd72ffdcba8d8738f62e8c2]
+
+The cost of the relevant scheme must remain within the following margins—
+
+- (a) an upper margin, being a rate of 3[^key-cfb2de7e22349a50b7a9b3d8ce9b85c5] percentage points above the employer cost cap of the scheme; and
+- (b) a lower margin, being a rate of 3[^key-ca1abb318e7625cacda436c07621fcd2] percentage points below the employer cost cap of the scheme.
+
+## 4. Target cost[^key-d13b1af207fe3ff6613cfd873ee7748f]
+
+For cases where the cost of a relevant scheme exceeds the upper margin set out in regulation 3, or falls below the lower margin set out in regulation 3, the target cost will be the same as the employer cost cap of the scheme.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 19 January 2015.
+
+(L.S.)
+
+Grace Nesbitt
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 12 of the Public Service Pensions Act (Northern Ireland) 2014 (“the Act”) requires defined benefits pension schemes to set a rate, expressed as a percentage of pensionable earnings of scheme members, to be used to measure changes in the cost of the scheme and in connected schemes (defined in that section as the ‘employer cost cap’). The employer cost cap is then used to help regulate and stabilise the costs of the defined benefits pension scheme.
+
+Section 12 of the Act directly applies this requirement to defined benefits pension schemes made using the power in section 1 of the Act. Section 31(1)(e) of the Act also applies this requirement to new public body defined benefits pension schemes, where they are established under section 32(7) of the Act or under other powers.
+
+These Regulations provide that the specified margins in which scheme costs must remain, before corrective action is taken to rebalance the costs of the scheme, are set at 2 percentage points above and below the employer cost cap.
+
+They further provide that the target cost of a scheme, for cases where the cost would otherwise go beyond these margins, is the same as the employer cost cap. The target cost is the rate to which the costs of the scheme must return as a result of any corrective action.
+
+An impact assessment has not been produced for this rule as no significant impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.2(N.I)](https://www.legislation.gov.uk/nia/2014/2)
+
+[^key-065878128d3edba38ec1077a546e2e4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/12/regulation/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/12/regulation/1)
+
+[^key-76af8ba78a3c3925f9ae5a3db81aca6b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/12/regulation/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/12/regulation/1)
+
+[^key-43a77a12fcd72ffdcba8d8738f62e8c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/12/regulation/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/12/regulation/1)
+
+[^key-cfb2de7e22349a50b7a9b3d8ce9b85c5]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/nisr/2015/12/regulation/3/a) substituted (16.9.2022) by [The Public Service Pensions (Employer Cost Cap and Specified Restricted Scheme) Regulations (Northern Ireland) 2022 (S.R. 2022/204)](https://www.legislation.gov.uk/nisr/2022/204), [regs. 1](https://www.legislation.gov.uk/nisr/2022/204/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2022/204/regulation/3/2/a)
+
+[^key-ca1abb318e7625cacda436c07621fcd2]: Textual amendment: Word in [reg. 3(b)](https://www.legislation.gov.uk/nisr/2015/12/regulation/3/b) substituted (16.9.2022) by [The Public Service Pensions (Employer Cost Cap and Specified Restricted Scheme) Regulations (Northern Ireland) 2022 (S.R. 2022/204)](https://www.legislation.gov.uk/nisr/2022/204), [regs. 1](https://www.legislation.gov.uk/nisr/2022/204/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2022/204/regulation/3/2/b)
+
+[^key-d13b1af207fe3ff6613cfd873ee7748f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/12/regulation/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/12/regulation/1)

@@ -1,0 +1,204 @@
+---
+title: The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016
+id: nisr/2016/333
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2016-09-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2016/333
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/333/pdfs/nisrem_20160333_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/333/pdfs/nisr_20160333_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/333/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 333
+
+Energy Conservation
+
+The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016
+
+Made
+
+16th September 2016
+
+Coming into operation
+
+7th October 2016
+
+The Department for Communities makes the following Regulations in exercise of the powers conferred by Article 17 of the Social Security (Northern Ireland) Order 1990[^f00001] and now vested in it.[^f00002]
+
+The Department of Finance has consented to the making of these Regulations in accordance with Article 17(8) of the Social Security (Northern Ireland) Order 1990.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 and shall come into operation on 7 October 2016.
+
+(2) In these Regulations “the principal Regulations” means the Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009[^f00003].
+
+## 2. Amendments to the principal Regulations
+
+The principal Regulations are amended in accordance with regulations 3 to 7.
+
+**3.** (1) In regulation 2 (interpretation) after the definition of “administering agency” insert—
+
+> - “Affordable Warmth grant” means a grant payable for any of the purposes set out in regulation 4(2A)[^f00004]
+
+.
+
+(2) For the definition of “affordable warmth survey”[^f00005] substitute the following definition—
+
+> - “affordable warmth survey” means a survey of homes identified by the Ulster University as most at risk of fuel poverty by Census Output Area or a local council survey of homes considered to be at risk of fuel poverty;
+
+.
+
+(3) For the definition of “benefit entitlement check” substitute—
+
+> - “benefit entitlement check” means a process to establish whether an applicant for an Affordable Warmth grant might be entitled to claim any social security benefit or tax credit;
+
+.
+
+(4) After the definition of “benefit entitlement check” insert—
+
+> - “Boiler Replacement grant” means a grant payable for the purposes of regulation 4(1A);
+
+.
+
+(5) After the definition of “registered housing association” insert—
+
+> - “technical inspection” means inspection of a dwelling carried out by or on behalf of the Northern Ireland Housing Executive for the purposes of an Affordable Warmth grant.
+
+.
+
+**4.** In regulation 3(2) (powers of the Department) after “the making of”, insert—
+
+> an Affordable Warmth grant,
+
+.
+
+**5.** (1) After regulation 4 (purposes for which grant may be approved), after paragraph (1) insert—
+
+> (1A) An application for a Boiler Replacement grant to replace a heating boiler with a new more energy efficient heating boiler may be approved, where the existing boiler—
+>
+> - (a) is at least 15 years old; and
+> - (b) the applicant is the homeowner and lives in the dwelling as their sole or main residence.
+
+.
+
+(2) in paragraph (2) omit sub paragraph (g).
+
+(3) after paragraph (2) insert—
+
+> (2A) An Affordable Warmth grant may be made by the Department or its administering agency for one or more of the following purposes—
+>
+> - (a) to provide a mains gas, oil or biomass heating system where none exists;
+> - (b) to replace a boiler system where the conditions set out in regulation 4(2D) are met;
+> - (c) to convert a liquid petroleum gas or solid fuel heating system to a mains gas, oil or biomass heating system;
+> - (d) to convert an Economy 7 heating system to mains gas or oil heating system, or to a high energy efficiency storage system;
+> - (e) to provide or replace ineffective insulation to any water heating system or to provide any part of such a system with insulation incorporated in it;
+> - (f) to provide, where there is no draught proofing to external doors and or windows, or remove and replace where it is ineffective;
+> - (g) to replace defective radiators in an ineffective heating system;
+> - (h) to install thermostatic radiator valves to an existing heating system;
+> - (i) to replace exterior window frames which are ineffective and beyond repair;
+> - (j) to facilitate the removal of asbestos from the dwelling;
+> - (k) to provide insulation in homes of solid wall construction.
+>
+> (2B) A grant shall not be payable under regulation 4(2A) unless the works are recommended as a result of a technical inspection.
+>
+> (2C) Where an affordable warmth survey is completed, the householder shall also be provided with energy advice and offered a benefit entitlement check.
+>
+> (2D) Subject to regulation 4(2A)(b) a replacement boiler may be provided where the following conditions are met—
+>
+> - (a) the householder or their spouse/partner is aged 65 or older; or
+> - (b) the householder or their spouse/partner have a dependent child or children aged under 16 years and for whom they receive child benefit; or
+> - (c) a member of the household is in receipt of disability living allowance under section 71 of the 1992 Act or personal independence payment under Part 5 of the Welfare Reform (Northern Ireland) Order 2015[^f00006]; and
+> - (d) the existing boiler is at least 15 years old.
+
+.
+
+**6.** In regulation 5 (persons to whom a grant may be made)[^f00007] after paragraph (2) insert—
+
+> (2A) An Affordable Warmth grant may be made under regulation 4(2A) in respect of a person who is the householder of a dwelling and occupies it as their only or main residence and the dwelling was included in an affordable warmth survey.
+>
+> (2B) The householder is not eligible for an Affordable Warmth grant where the annual household income is £20,000 or greater.
+
+.
+
+**7.** (1) In regulation 6 (maximum amount of grant)[^f00008] after paragraph (3) add—
+
+> (4) Subject to paragraph (5) the Department or its administering agency shall not pay a total amount of grant in respect of an application qualifying under—
+>
+> - (a) regulation 4(2A) (a) to (i) exceeding the amount properly charged for the works or £7,500, whichever is the lesser; or
+> - (b) where regulation 4(2A) (j) or (k) also applies, an amount not exceeding the amount properly charged for the works or £10,000, whichever is the lesser.
+>
+> (5) In the case of a qualifying application in respect of a private tenancy the amount payable under paragraph (4) shall not exceed 50 per cent of either the amount properly charged for the works or the lesser amount.
+
+.
+
+(2) In regulation 6(2A) for “warm homes plus” substitute “boiler replacement” and for “regulation 4(2)(g)” substitute “regulation 4(1A).”.
+
+## 8. Savings Provisions
+
+(1) Regulation 6 (maximum amount of grant) of the principal Regulations, as that regulation had effect immediately before the relevant date, shall continue to apply to an application for a Boiler Replacement grant, Warm Homes grant or a Warm Homes Plus grant made before the relevant date.
+
+(2) In paragraph (1) the relevant date means the date of coming into operation of these Regulations.
+
+Sealed with the Official Seal of the Department for Communities on 16 September 2016.
+
+(L.S.)
+
+Ian Snowden
+
+A senior officer of the
+
+Department for Communities
+
+The Department of Finance consents to the Regulations
+
+Sealed with the Official Seal of the Department of Finance on 16 September 2016.
+
+(L.S.)
+
+Emer Morelli
+
+A senior officer of the
+
+Department of Finance
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009 (“the 2009 Regulations”), by changing the eligibility criteria so that households with an annual income of less than £20,000 may be eligible to receive assistance under the Affordable Warmth grant scheme.
+
+These Regulations also clarify the conditions under which a Boiler Replacement grant may be payable.
+
+The 2009 Regulations enable the Department for Communities to make or arrange for the making of an Affordable Warmth grant for the improvement of energy efficiency in privately owned or privately rented dwellings occupied by persons on a low income. They also enable the Department for Communities to provide assistance to help owner occupiers on a low income to replace a heating boiler that is at least 15 years old with a new, more energy efficient boiler.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1990/1511 (N.I. 15)](https://www.legislation.gov.uk/nisi/1990/1511) Article 17 was amended by [S.I. 1996/2879 (N.I. 21)](https://www.legislation.gov.uk/nisi/1996/2879) Article 3
+
+[^f00002]: Footnote: *See* [S.R. 1997 No. 391](https://www.legislation.gov.uk/nisr/1997/391), [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 6(e) and Schedule 4, Part IV and [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76)
+
+[^f00003]: Footnote: [S.R. 2009 No. 195](https://www.legislation.gov.uk/nisr/2009/195); relevant amendments are [S.R. 2014 No. 52](https://www.legislation.gov.uk/nisr/2014/52)
+
+[^f00004]: Footnote: Regulation 4 (2A) is inserted by regulation 6 of these Regulations
+
+[^f00005]: Footnote: The definition of “affordable warmth survey” was inserted by regulation 3 of [S.R. 2014 No. 52](https://www.legislation.gov.uk/nisr/2014/52)
+
+[^f00006]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^f00007]: Footnote: Regulation 5 was amended by regulation 5 of [S.R. 2014 No. 52](https://www.legislation.gov.uk/nisr/2014/52)
+
+[^f00008]: Footnote: Regulation 6 was amended by regulation 6 of [S.R. 2014 No. 52](https://www.legislation.gov.uk/nisr/2014/52)

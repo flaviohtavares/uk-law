@@ -1,0 +1,50 @@
+---
+title: Child Support, Pensions and Social Security Act (Northern Ireland) 2000, section 34
+act: Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+section: '34'
+status: revised-with-pending-changes
+text_date: '2017-07-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2000/4/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Child Support, Pensions and Social Security Act (Northern Ireland) 2000, section 34
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2017-07-10. See https://www.legislation.gov.uk/changes/affected/nia/2000/4
+>
+> Extent: Northern Ireland.
+
+## 34. Modification of earnings factors
+
+*Extent: N.I.*
+
+(1) In section 44A(5) of the Pension Schemes (Northern Ireland) Act 1993 (c. 49) (in this Act referred to as the Pension Schemes Act) (additional pension and other benefits), after 44(5) there shall be inserted “or (5A)”.
+
+(2) Subsection (1) shall have effect—
+
+- (a) in relation to the application of section 44(5A) of the Contributions and Benefits Act by virtue of sections 39C(1) and 48BB(5) of that Act;
+- (b) in relation to the application of section 44(5A) of the Contributions and Benefits Act in the circumstances described in Article 125(4) to (6) of the Pensions (Northern Ireland) Order 1995 (NI 22) (in this Act referred to as the Pensions Order).
+
+(3) In relation to the period—
+
+- (a) beginning with and including 6th April 2000; and
+- (b) ending with the day before the first regulations under section 44A(5) of the Pension Schemes Act (as amended by subsection (1)) come into operation,
+
+the Department shall be taken to have, and to have had, power to calculate and pay relevant pensions by reference to section 44(5) of the Contributions and Benefits Act as modified by regulations under section 44A(5) of the Pension Schemes Act.
+
+(4) For the purposes of applying subsection (3)—
+
+- (a) the substitution made by Article 125(1) of the Pensions Order shall be ignored; and
+- (b) references in statutory provisions to section 44(5A) of the Contributions and Benefits Act shall (so far as necessary) be treated as references to section 44(5) of that Act.
+
+(5) The first regulations under section 44A(5) of the Pension Schemes Act (as amended by subsection (1)) may include provision in relation to—
+
+- (a) revising the calculation of a relevant pension;
+- (b) paying a relevant pension in accordance with a revised calculation.
+
+(6) For the purposes of this section, relevant pensions are pensions which fall to be calculated—
+
+- (a) in the circumstances described in Article 125(4) to (6) of the Pensions Order; and
+- (b) in relation to persons where, by virtue of section 44A(1) of the Pension Schemes Act, section 44(6) of the Contributions and Benefits Act has effect in any tax year as mentioned in section 44A(1) of the Pension Schemes Act in relation to some but not all of a person's earnings.

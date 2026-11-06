@@ -1,0 +1,322 @@
+---
+title: Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010
+id: nisr/2010/30
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-02-09'
+text_date: '2012-09-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/30
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/30/pdfs/nisrem_20100030_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/30/pdfs/nisr_20100030_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/30/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010
+
+> Text as at 2012-09-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 30
+
+Safeguarding Vulnerable Groups
+
+Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010
+
+Made
+
+9th February 2010
+
+Coming into operation
+
+1st April 2010
+
+To be laid before Parliament
+
+The Secretary of State makes the following Order in exercise of the powers conferred by Articles 9(3), 25(12), 56(1) and (2), 61(1)(a), (2)(a) and (c) and (3) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00001].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-759050923a988a86bbcbd50136467d99]
+
+This Order may be cited as the Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 and comes into operation on 1st April 2010.
+
+### 2. Interpretation[^key-93519a4c2f8a3144f6f82381645b4bf7]
+
+In this Order—
+
+- “the 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+## PART 2 — Regulated activity relating to children
+
+### 3. Regulated activity: children[^key-47d788f180226db1864d85499611d58c]
+
+Part 1 of Schedule 2 to the 2007 Order (regulated activity relating to children) is amended in accordance with Articles 4 to 6.
+
+**4.**[^key-ebaf64e08ec3931d483bc84a10104a4b] (1) Paragraph 1 (general) is amended as follows.
+
+(2) After sub-paragraph (7) insert—
+
+> (7A) The exercise of a function under Article 130 of the Children (Northern Ireland) Order 1995[^f00002], so far as it gives the person exercising the function the opportunity, in consequence of anything the person is permitted or required to do in the exercise of that function, to have contact with children is a regulated activity relating to children.
+
+.
+
+(3) In sub-paragraph (8) for the words from “relates” to “paragraph 3(1)” substitute “gives the person exercising the function the opportunity, in consequence of anything the person is permitted or required to do in the exercise of that function, to have contact with children”.
+
+(4) Omit sub-paragraph (9).
+
+(5) Omit sub-paragraph (10).
+
+(6) Omit sub-paragraph (11).
+
+(7) In sub-paragraph (12), for “(8) or (9)” substitute “(7A) or (8)”.
+
+**5.**[^key-f478fdcce33b1fd3f4da02a5be6d1769] In paragraph 3(1) (establishments)—
+
+- (a) omit the words “and (8)”; and
+- (b) after paragraph (b) insert—
+
+  > - (bb) premises which are used for the provision of education by an education and library board or on its behalf, which do not fall within paragraph (a) or (b);
+
+  .
+
+**6.**[^key-c10027f6eb76c20577363e5e36778977][^key-b036abf87c90e14c4360371228aeabda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Regulated activity relating to vulnerable adults
+
+### 7. Regulated activity: vulnerable adults[^key-ae752d2b5b8bc3beef2faa0aa724c77d]
+
+Part 2 of Schedule 2 to the 2007 Order (regulated activity relating to vulnerable adults) is amended in accordance with Articles 8 and 9.
+
+**8.**[^key-ef60c7547c79a13743ffaf63f0483499] (1) Paragraph 7 (regulated activity relating to vulnerable adults) is amended as follows.
+
+(2) In sub-paragraph (5) for “ or (4)” substitute “, (4) or (6)”.
+
+(3) For sub-paragraph (6) substitute—
+
+> (6) The exercise of a function of the following so far as it gives the person exercising the function the opportunity, in consequence of anything the person is permitted or required to do in the exercise of that function, to have contact with vulnerable adults, is a regulated activity relating to vulnerable adults—
+>
+> - (a) the Chief Inspector of Criminal Justice in Northern Ireland;
+> - (b) RQIA.
+
+.
+
+(4) Omit sub-paragraph (7).
+
+(5) Omit sub-paragraph (8).
+
+**9.**[^key-2a2f5469cece9e5bf659e18c9a23fa36][^key-7efa533f3d29af4aff1a2aebd890748d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — The period condition
+
+### 10. Regulated activity: the period condition[^key-1bb507e33f7fb5c4c4140831bcfc767b]
+
+In Part 3 of Schedule 2 to the 2007 Order (the period condition), in paragraph 10(1) for “two” substitute “three”.
+
+### 11. Controlled activity: the period condition[^key-3acbaaf36e3d9582c554c0a8d3296aec][^key-f14ebd9e432583baf225b7edf56d0be7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Devolution alignment
+
+### 12. Provision of information by the Independent Safeguarding Authority to a police force in England, Wales or Scotland[^key-f6491fe427b5375b70af286ec501bd24]
+
+In Article 52A(1)[^f00008] of the 2007 Order, after “Police Service of Northern Ireland” insert “or the chief constable of a police force in England, Wales or Scotland”.
+
+## PART 6 — Miscellaneous amendments to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007
+
+**13.**[^key-e5cd9a1b3cbf0d5a58f5649d963b1ca4] The 2007 Order is amended in accordance with Articles 14 to 24.
+
+### 14. Definition of institution of further education[^key-d8e69a27dd4f65b7d00e6d08a3a18f18][^key-ff087cb51647ef0f6fa5433dfc56b146]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Amendments to references to the Regulation and Improvement Authority[^key-b49c0cedbe94e689485e31edb2ad7e6b]
+
+(1) In Article 2(2) (Interpretation) for the definition of “the Regulation and Improvement Authority” substitute—
+
+> - “RQIA” means the Health and Social Care Regulation and Quality Improvement Authority;
+
+.
+
+(2) In Article 47(7) and paragraph 1(8) of Schedule 2 for “the Regulation and Improvement Authority” substitute “RQIA”.
+
+### 16. Educational establishments: members of governing body subject to monitoring[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-cdf4b44f53113d3e28761dd951a9a21f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Educational establishments: check on members of governing body[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-ab444e3930083e447165397aec3f6a41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Monitoring application[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-1122cad89564c970cf18becd0f227f6d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Monitoring: additional fees[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-a2f33338cb2a72519cdcb1ff3d0b5e51]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Vetting information[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-ec2bdf02ccf0d2975495e047533a400e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Notification of cessation of monitoring[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-e3e923d381e175e3510ad825784ec495]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Registers[^key-5c1b3e014283603eba4b7925f307d44b]
+
+In Article 43 (Registers: duty to refer)—
+
+- (a)[^key-5a4f9d983891cfd72a2f50185e32270d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in the table in paragraph (7) in entry 3, in column 1 (relevant register) for “Either of” substitute “Any of”.
+
+**23.**[^key-55266ef54f6fe70e4dc9b29a61251fc7] In Article 45 (Registers: notice of barring and cessation of monitoring), in paragraph (6)(a), omit “of entry 1 or 8”.
+
+**24.**[^key-c98e84198418e4cd272d6d74613df762][^key-c92f5a3e84fd5303495170b548bae5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+9th February 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the definition of regulated activity in the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (“the 2007 Order”). It also makes amendments to the definitions of controlled activity in Articles 25 and 26 of the 2007 Order and provides for the Independent Safeguarding Authority (“the ISA”) to be able to disclose information to police forces in England, Wales and Scotland. Part 6 makes a number of miscellaneous amendments, some of which are required: in consequence of Health and Social Care reform in Northern Ireland; to provide greater flexibility in relation to monitoring; and greater clarity in relation to the requirement to refer to the ISA as it relates to Keepers of Registers. The ISA is a statutory non-departmental public body established under section 1 of the Safeguarding Vulnerable Groups Act 2006 and is under a duty to establish the children’s barred list and the adults’ barred list. The ISA is tasked with making barring decisions relating to people who are unsuitable to work with vulnerable groups.
+
+Articles 3 to 6 amend the definition of regulated activity relating to children in Part 1 of Schedule 2 to the 2007 Order (“the Schedule”).
+
+Article 4 amends Part 1 of the Schedule to bring the exercise by any person of any function listed in that Article within the scope of regulated activity relating to children. The exercise of such a function is only a regulated activity if, in exercising the function, a person has the opportunity to have contact with children.
+
+Similar amendments are made by Articles 7 to 9 of the Order to the definition of regulated activity relating to vulnerable adults in Part 2 of the Schedule. Article 8 amends paragraph 7 of the Schedule to include any function of the Criminal Justice Inspectorate or the Health and Social Care Regulation and Quality Improvement Authority, which provides the person exercising that function with the opportunity to have contact with vulnerable adults.
+
+Article 5 includes pupil referral units and premises which are used for the provision of alternative education within the list of establishments in paragraph 3(1) of the Schedule, in circumstances where such units do not fall within paragraph 3(1)(a) or (b).
+
+Article 6 amends the list of ‘office-holders’ in paragraph 4(1) of the Schedule and adds positions relating to the management of pupil referral units and provisions relating to the proprietors of independent schools. Article 6 also brings the exercise of the functions of a member of an adoption or fostering panel within the definition of regulated activity relating to children.
+
+Article 10 amends the definition of “period condition” which is set out in Part 3 of the Schedule by replacing the period of two days with three days. The period condition is relevant to whether or not an activity is a regulated activity. Article 11 makes similar amendments to a reference to the period which is relevant to the definitions of controlled activity in Articles 25 and 26 of the 2007 Order.
+
+Article 12 amends Article 52A of the 2007 Order. Article 52A was inserted by section 91 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26)) and enables the ISA to disclose any information it has to the police in Northern Ireland for the purposes of crime prevention, detection, etc. The amendment in Article 12 extends the power under Article 52A in order that the ISA can, for the same purposes, provide information to the police in England, Wales and Scotland.
+
+Article 14 amends the definition of an institution of further education to include a college or institution established under Article 5(1) of the Agriculture Act (Northern Ireland) [1949 (c.2)](https://www.legislation.gov.uk/apni/1949/2). The effect of this is to bring within the scope of controlled activity individuals who work in agricultural colleges in Northern Ireland, who have the opportunity for contact with children on a frequent or intensive basis.
+
+Article 16 amends paragraph 11 of Article 12 of the 2007 Order by replacing the phrase ‘acts as a governor’ with ‘is a member of a governing body of the establishment’. This is consistent with the terminology used in paragraph 4(1) of the Schedule. The reference to an establishment is to an educational establishment as defined at Article 12(5) of the 2007 Order.
+
+Article 17 has two objectives:
+
+(1) to create a new criminal offence where a governor acts as a member of a governing body before consenting to the check or providing the appropriate officer with any information required to carry out the check. This is being achieved by inserting new paragraph (1A) at Article 17.
+
+(2) to ensure that a person (“the appropriate officer”), who is required under Article 17 of the 2007 Order to make a check on a member of a governing body (“governor”) of an educational establishment, does not commit an offence if the governor fails to consent to the check or fails to provide the appropriate officer with any information necessary to make the check. This is provided for by the insertion of paragraph (6) to Article 17.
+
+The provisions at sub-paragraphs (c) and (d) of Article 17 mirror the provision in Articles 17(3) and (4) of the 2007 Order. Article 17(3) of the 2007 Order ensures that the appropriate officer does not commit an offence if he or she does not make a check on a governor where the governor was appointed before the commencement of Article 17; Article 17(4) of the 2007 Order allows the Secretary of State by order to set a date when the exception in Article 17(3) comes to an end (known as “sunsetting”). These provisions relate to the Government’s announced policy of phasing in, over a few years, the requirements to register with the Independent Safeguarding Authority.
+
+Article 18 amends provisions in Article 28 of the 2007 Order relating to an application to become subject to monitoring. The 2007 Order provides at Article 28(1) that an individual must make a monitoring application in order to become subject to monitoring (in effect register with the Vetting and Barring Scheme established by the 2007 Order). Article 28(10) currently provides that the “form and manner” of an application will be prescribed in regulations. The purpose of this amendment is to allow the Secretary of State to determine the form, manner and content of the application form. This will allow the Secretary of State to amend the application form without needing to make secondary legislation.
+
+Article 19 makes provision for the payment of a fee by persons who are subject to monitoring under the 2007 Order, and have benefited from a free application to the monitoring scheme as a volunteer undertaking unpaid activity (i.e. activity not carried out for financial gain), if they subsequently enter activities regulated under the 2007 Order for which they receive payment. Fees for applications for monitoring under the 2007 Order will be prescribed under powers set out in Article 29. The fees will be based on cost-recovery for the scheme. It is intended that no fee will be prescribed for persons joining the scheme as unpaid volunteers.
+
+Article 19(1) provides that a fee becomes payable when persons who have benefited from a free application (unpaid volunteers) undergo a change of circumstances which means that a fee would have been payable under Article 28(1)(d) (persons in paid regulated activity). This removes a loophole which would enable individuals to apply to the monitoring scheme as unpaid volunteers and avoid the payment of a fee when moving into paid activities or activities. This Article provides a power to prescribe the change in circumstances (moving from unpaid to paid activity) and to set a fee for such persons. It also clarifies that an individual does not cease to be subject to monitoring under Article 28, merely because the required fee has not been paid. However, subparagraph (c) of Article 20 inserts a specific power for the Secretary of State to refuse to provide information under Article 32 unless the relevant fee under Article 28A is paid.
+
+Article 20 amends Article 32 of the 2007 Order and changes the requirements arising from the declaration to be made by persons eligible to receive vetting information under Article 32. Article 32 requires the Secretary of State to provide vetting information to certain categories of persons entitled to know the status of an individual under the Vetting and Barring Scheme established by the 2007 Order. This is information which indicates whether the individual is registered with the scheme (or “subject to monitoring” under Article 28 of the 2007 Order). The persons entitled to see such information are employers, personnel suppliers and certain other bodies set out in Schedule 5 to the 2007 Order.
+
+Article 32(2) of the 2007 Order currently requires a declaration to be made indicating within which of the “specified entries” in Schedule 5 of the Order the enquirer falls. The Government believes that this is no longer necessary. The amendment simplifies the declaration by removing the reference to a “specified entry” in Schedule 5, and substituting a requirement for the enquirer to indicate whether he is entitled to information relating to children, to vulnerable adults, or to both. The effect is to simplify the application procedure for those entitled to the information.
+
+Sub-paragraph (f) of Article 19 relates specifically to members of the governing body of educational establishments. Currently Article 32(5) aims to ensure that the appropriate officer can make an application under Article 32 to receive vetting information in relation to any appointed governor without the need to obtain the consent of the governor. This provision will no longer be effective as, under Article 17 of the 2007 Order, a governor must consent to a check being made under Article 32 of the 2007 Order and must provide information enabling the appropriate officer to make such a check before the governor can legally act as a governor.
+
+New section 28A \[inserted at Article 19(1)\] provides that persons who had been entitled to a free application because they were unpaid volunteers should pay a prescribed fee upon taking part in paid activities. Sub-paragraph (g) amends the declaration by the person seeking the information under Article 32 to require them to indicate whether the application relates to paid activities. This provision is intended to assist the enforcement of fees. The new requirement to indicate whether the application related to paid activities should flag up those individuals who are moving from unpaid to paid activities, and therefore alert the Secretary of State that a required fee is due. Should this fee not be paid, the Secretary of State can refuse to provide the information required.
+
+Article 21 amends Article 34 of the 2007 Order, changing the requirements arising from the declaration to be made by persons eligible to receive information about the cessation of monitoring under Article 34. Article 34 requires the Secretary of State to establish a register of persons entitled to be notified when an individual ceases to be monitored in accordance with provisions in Article 28 of the 2007 Order, that is, persons who are “registered” with the Vetting and Barring Scheme established by that Order.
+
+The current provisions require the Secretary of State to provide such persons with information when an individual in whom they have registered an interest ceases to be monitored under the 2007 Order. Persons entitled to this information are those registered under Article 34, who must also fall within the categories of person set out in Schedule 5. This includes employers, personnel suppliers, local authorities and certain other bodies set out in Schedule 5.
+
+Article 34(3) currently requires a declaration to be made indicating within which of the “specified entries” in Schedule 5 the applicant for registration falls. Article 34(5) provides that the application and registration apply to those specified entries.
+
+The effect of sub-paragraphs (a) to (d) is that the relevant declaration need not specify which particular entry of the table in Schedule 5 the applicant falls within; all that is needed is for the declaration to state that the applicant falls within the table.
+
+Sub-paragraph (e) relates specifically to members of the governing body of an educational institution. Currently Article 34(8) of the 2007 Order aims to ensure that the appropriate officer can register in relation to any appointed governor without the need to obtain the consent of the governor. This provision will no longer be effective as under Article 17 a governor must consent to a check under Article 32 of the 2007 Order before he or she can legally act as a governor. Under Article 34(9) of the 2007 Order, consent given for the purposes of Article 32 has effect as consent to an application by the appropriate officer to register in relation to the governor under Article 34.
+
+Article 22 amends Article 43 of the 2007 Order to require keepers of professional registers to refer information to the ISA in circumstances where a registration decision is made, or likely to be made, or an investigation is ongoing, or likely to be conducted, on the basis that the harm test \[as defined in Article 43(3)\] is satisfied.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
+
+[^key-759050923a988a86bbcbd50136467d99]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-93519a4c2f8a3144f6f82381645b4bf7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2010/30/article/2) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-47d788f180226db1864d85499611d58c]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2010/30/article/3) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-ebaf64e08ec3931d483bc84a10104a4b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2010/30/article/4) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^f00002]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^key-f478fdcce33b1fd3f4da02a5be6d1769]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2010/30/article/5) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-c10027f6eb76c20577363e5e36778977]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2010/30/article/6) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-b036abf87c90e14c4360371228aeabda]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2010/30/article/6) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-ae752d2b5b8bc3beef2faa0aa724c77d]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2010/30/article/7) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-ef60c7547c79a13743ffaf63f0483499]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2010/30/article/8) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-2a2f5469cece9e5bf659e18c9a23fa36]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisr/2010/30/article/9) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-7efa533f3d29af4aff1a2aebd890748d]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2010/30/article/9) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-1bb507e33f7fb5c4c4140831bcfc767b]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2010/30/article/10) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-3acbaaf36e3d9582c554c0a8d3296aec]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/2010/30/article/11) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-f14ebd9e432583baf225b7edf56d0be7]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2010/30/article/11) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-f6491fe427b5375b70af286ec501bd24]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2010/30/article/12) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^f00008]: Footnote: Article 52A was inserted by the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), section 91.
+
+[^key-e5cd9a1b3cbf0d5a58f5649d963b1ca4]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2010/30/article/13) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-d8e69a27dd4f65b7d00e6d08a3a18f18]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/nisr/2010/30/article/14) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-ff087cb51647ef0f6fa5433dfc56b146]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2010/30/article/14) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-b49c0cedbe94e689485e31edb2ad7e6b]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2010/30/article/15) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-4bccc09a80c8f7a3e120028e85427bc1]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/nisr/2010/30/article/21) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-cdf4b44f53113d3e28761dd951a9a21f]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2010/30/article/16) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-ab444e3930083e447165397aec3f6a41]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2010/30/article/17) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-1122cad89564c970cf18becd0f227f6d]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2010/30/article/18) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-a2f33338cb2a72519cdcb1ff3d0b5e51]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2010/30/article/19) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-ec2bdf02ccf0d2975495e047533a400e]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2010/30/article/20) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-e3e923d381e175e3510ad825784ec495]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2010/30/article/21) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-5c1b3e014283603eba4b7925f307d44b]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2010/30/article/22) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-5a4f9d983891cfd72a2f50185e32270d]: Textual amendment: [Art. 22(a)](https://www.legislation.gov.uk/nisr/2010/30/article/22/a) and word revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-55266ef54f6fe70e4dc9b29a61251fc7]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2010/30/article/23) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+
+[^key-c98e84198418e4cd272d6d74613df762]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/nisr/2010/30/article/24) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-c92f5a3e84fd5303495170b548bae5b4]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2010/30/article/24) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)

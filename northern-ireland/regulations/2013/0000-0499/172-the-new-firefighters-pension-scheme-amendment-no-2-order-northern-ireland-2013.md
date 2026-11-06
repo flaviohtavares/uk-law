@@ -1,0 +1,165 @@
+---
+title: The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013
+id: nisr/2013/172
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2013-06-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2013/172
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2013/172/pdfs/nisrem_20130172_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/172/pdfs/nisr_20130172_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/172/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 172
+
+Fire And Rescue
+
+Pensions
+
+The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013
+
+Made
+
+24th June 2013
+
+Coming into operation-
+
+1st October 2013
+
+The Department of Health, Social Services and Public Safety, in exercise of the powers conferred by Article 10(1), (3), (4) and (5) of the Fire Services (Northern Ireland) Order 1984[^f00001] and now vested in it[^f00002] and with the approval of the Department of Finance and Personnel[^f00003], in accordance with Article 10(1) of that Order, makes the following Order.
+
+## 1. Citation and commencement
+
+This Order may be cited as the New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 and shall come into operation on 1st October 2013.
+
+## 2. Amendment of the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007
+
+The Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007 (which sets out the New Firefighters’ Pension Scheme), shall be amended in accordance with the Schedule.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 24th June 2013.
+
+Julie Thompson
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+The Department of Finance and Personnel approves this Order.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 24th June 2013.
+
+Jack Layberry
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE — Amendment of the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007
+
+Article 2
+
+**1.** In Part 1 (citation and interpretation), in Article 2(1) (interpretation), insert the following definitions at the appropriate places—
+
+> - “the Automatic Enrolment Regulations” mean the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010;
+
+[^f00004];
+
+> - “automatic enrolment date” has the meaning given by section 3(7) (automatic enrolment) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00005];
+
+;
+
+> - “automatic re-enrolment date” means the date determined in accordance with regulation 12[^f00006] of the Automatic Enrolment Regulations;
+
+;
+
+> - “automatically enrolled” means becoming a firefighter member of the Scheme on the automatic enrolment date;
+
+;
+
+> - “automatically re-enrolled” means becoming a firefighter member of the Scheme on the automatic re-enrolment date;
+
+; and
+
+> - “opt in” means becoming a firefighter member of the Scheme pursuant to the right in section 7(3) of the Pensions (No. 2) Act (Northern Ireland) 2008 and in accordance with the arrangements prescribed by the Automatic Enrolment Regulations, and similar expressions are to be construed accordingly;
+
+.
+
+**2.** In Part 2 (Scheme membership, cessation and retirement)—
+
+- (a) In Article 4 (Scheme membership)—
+  - (i) in paragraph (2), for “article 9(3)” substitute “article 9”; and
+  - (ii) after paragraph (2) insert—
+
+    > (2A) Where a person who has made an election not to pay pension contributions under the Firefighters’ Pension Scheme Order (Northern Ireland) 2007 is automatically enrolled in this Scheme, that enrolment shall constitute an election to become a firefighter member of this Scheme.
+
+    ;
+- (b) in Article 8 (Election not to make pension contributions) after paragraph (1) insert—
+
+  > (1A) A written notice given under paragraph (1) should be signed by the firefighter member or, where the notice is in electronic format, it must include a statement confirming that that person personally submitted the notice.
+
+  ; and
+- (c) in Article 9 (Rejoining the Scheme)—
+  - (i) for paragraph (1), substitute—
+
+    > (1) A person who has made a contributions election may cancel it by giving a signed written notice to the Board or, where the notice is in electronic format, it must include a statement confirming that that person personally submitted the notice.
+  - (ii) after paragraph (1), insert—
+
+    > (1A) Where a person who has made a contributions election is subsequently automatically enrolled or re-enrolled in the Scheme, that enrolment or re-enrolment shall constitute a cancellation of their contributions election.
+
+    ;
+  - (iii) omit paragraph (2); and
+  - (iv) in paragraph (3), after “is received” add—
+
+    > or in the case of a firefighter member who has been automatically enrolled or re-enrolled, with effect from the automatic enrolment or re-enrolment date (as the case may be)
+
+    .
+
+**3.** In Part 3 (Personal awards), in article 18 (Refund of aggregate pension contributions)—
+
+- (a) before paragraph (1), insert—
+
+  > (Z1) Paragraphs (1) and (2) are subject to paragraph (3).
+
+  ; and
+- (b) after paragraph (2) add—
+
+  > (3) In the case of a firefighter member who makes a contributions election subsequent to being automatically enrolled or re-enrolled in the Scheme, or having opted in to the Scheme, paragraphs (1) and (2) apply with the following modifications—
+  >
+  > - (a) “three months’ qualifying service” means three months’ qualifying service since being automatically enrolled or re-enrolled, or opting in (as the case may be), on that occasion; and
+  > - (b) “aggregate pension contributions” means the payments made by the firefighter member to the Board by way of pension contributions since being automatically enrolled or re-enrolled, or opting in (as the case may be), on that occasion.
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007. The amendments ensure that the New Firefighters’ Pension Scheme 2007 complies with the requirements prescribed by the Pensions (No. 2) Act (Northern Ireland) 2008 and the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 with regard to arrangements the employer must make in respect of automatic enrolment and automatic re-enrolment of a jobholder in a qualifying scheme. The amendments also ensure the Scheme complies with other arrangements prescribed by the Pensions (No. 2) Act (Northern Ireland) 2008 and the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 by which a jobholder or a worker may join and/or leave a qualifying pension scheme.
+
+A full regulatory impact assessment has not been produced for this Order as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821); Article 10(5) was amended by [S.I. 1998/1549 (N.I. 11)](https://www.legislation.gov.uk/nisi/1998/1549) Article 4. Article 10 was continued by [S.I. 2006/1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254), Article 60(1) and (2)
+
+[^f00002]: Footnote: See [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(c) and Schedule 4, Part III
+
+[^f00003]: Footnote: Formerly the Department of Finance. See [S.I. 1982/338 (N.I.6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
+
+[^f00004]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122)
+
+[^f00005]: Footnote: [2008 c.13 (NI)](https://www.legislation.gov.uk/nia/2008/13)
+
+[^f00006]: Footnote: Regulation 12 was amended by [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232), regulation 2(7)

@@ -1,0 +1,31 @@
+---
+title: Charities Act (Northern Ireland) 2008, section 18
+act: Charities Act (Northern Ireland) 2008
+section: '18'
+status: revised
+text_date: '2022-03-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/12/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act (Northern Ireland) 2008, section 18
+
+> Text as at 2022-03-30.
+>
+> Extent: Northern Ireland.
+
+## 18. Effect of, and claims and objections to, registration
+
+*Extent: N.I.*
+
+(1) An institution shall for all purposes other than rectification of the register be conclusively presumed to be or to have been a charity at any time when it is or was on the register of charities.
+
+(2) Any person who is or may be affected by the registration of an institution as a charity may, on the ground that it is not a charity, object to its being entered by the Commission in the register, or apply to the Commission for it to be removed from the register; and the Department may by regulations make provision as to the manner in which any such objection or application is to be made, prosecuted or dealt with.
+
+(3) If there is an appeal to the Tribunal against any decision of the Commission to enter an institution in the register, or not to remove an institution from the register, then until the Commission is satisfied whether the decision of the Commission is or is not to stand, the entry in the register shall be maintained, but shall be in suspense and marked to indicate that it is in suspense.
+
+(4) For the purposes of subsection (1) an institution shall be deemed not to be on the register during any period when the entry relating to it is in suspense under subsection (3).
+
+(5) Any question affecting the registration or removal from the register of an institution may, notwithstanding that it has been determined by a decision on appeal under Schedule 3, be considered afresh by the Commission and shall not be concluded by that decision, if it appears to the Commission that there has been a change of circumstances or that the decision is inconsistent with a later judicial decision.

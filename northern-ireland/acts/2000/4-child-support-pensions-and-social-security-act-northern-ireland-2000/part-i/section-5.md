@@ -1,0 +1,141 @@
+---
+title: Child Support, Pensions and Social Security Act (Northern Ireland) 2000, section 5
+act: Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+section: '5'
+status: revised-with-pending-changes
+text_date: '2017-07-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2000/4/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Child Support, Pensions and Social Security Act (Northern Ireland) 2000, section 5
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2017-07-10. See https://www.legislation.gov.uk/changes/affected/nia/2000/4
+>
+> Extent: Northern Ireland.
+
+## 5. Departure from usual rules for calculating maintenance
+
+*Extent: N.I.*
+
+(1) The Child Support Order shall be amended as follows.
+
+(2) For Articles 28A to 28C (application for a departure direction, preliminary consideration of applications and the imposition of a regular payments condition) there shall be substituted—
+
+> **Variations**
+>
+> **28A. Application for variation of usual rules for calculating maintenance**
+>
+> (1) Where an application for a maintenance calculation is made under Article 7, or treated as made under Article 9, the person with care or the non-resident parent may apply to the Department for the rules by which the calculation is made to be varied in accordance with this Order.
+>
+> (2) Such an application is referred to in this Order as an application for a variation.
+>
+> (3) An application for a variation may be made at any time before the Department has made a decision (under Article 13 or 14(1)) on the application for a maintenance calculation (or the application treated as having been made under Article 9).
+>
+> (4) A person who applies for a variation—
+>
+> - (a) need not make the application in writing unless the Department directs in any case that he must; and
+> - (b) shall say upon what grounds the application is made.
+>
+> (5) In other respects an application for a variation shall be made in such manner as may be prescribed.
+>
+> (6) Schedule 4A shall have effect in relation to applications for a variation.
+>
+> **28B. Preliminary consideration of applications**
+>
+> (1) Where an application for a variation has been duly made to the Department, it may give it a preliminary consideration.
+>
+> (2) Where the Department does so it may, on completing the preliminary consideration, reject the application (and proceed to make its decision on the application for a maintenance calculation without any variation) if it appears to it—
+>
+> - (a) that there are no grounds on which it could agree to a variation;
+> - (b) that it has insufficient information to make a decision on the application for the maintenance calculation under Article 13 (apart from any information needed in relation to the application for a variation), and therefore that its decision would be made under Article 14(1); or
+> - (c) that other prescribed circumstances apply.
+>
+> **28C. Imposition of regular payments condition**
+>
+> (1) Where—
+>
+> - (a) an application for a variation is made by the non-resident parent; and
+> - (b) the Department makes an interim maintenance decision,
+>
+> it may also, if it has completed its preliminary consideration (under Article 28B) of the application for a variation and has not rejected it under that Article, impose on the non-resident parent one of the conditions mentioned in paragraph (2) (a regular payments condition).
+>
+> (2) The conditions are that—
+>
+> - (a) the non-resident parent shall make the payments of child support maintenance specified in the interim maintenance decision;
+> - (b) the non-resident parent shall make such lesser payments of child support maintenance as may be determined in accordance with regulations made by the Department.
+>
+> (3) Where the Department imposes a regular payments condition, it shall give written notice of the imposition of the condition and of the effect of failure to comply with it to—
+>
+> - (a) the non-resident parent; and
+> - (b) all the persons with care concerned.
+>
+> (4) A regular payments condition shall cease to have effect—
+>
+> - (a) when the Department has made a decision on the application for a maintenance calculation under Article 13 (whether it agrees to a variation or not);
+> - (b) on the withdrawal of the application for a variation.
+>
+> (5) Where a non-resident parent has failed to comply with a regular payments condition, the Department may in prescribed circumstances refuse to consider the application for a variation, and instead make its decision under Article 13 as if no such application had been made.
+>
+> (6) The question whether a non-resident parent has failed to comply with a regular payments condition shall be determined by the Department.
+>
+> (7) Where the Department determines that a non-resident parent has failed to comply with a regular payments condition it shall give written notice of its determination to—
+>
+> - (a) that parent; and
+> - (b) all the persons with care concerned.
+
+.
+
+(3) In Article 28D (determination of applications)—
+
+- (a) for paragraph (1) there shall be substituted—
+
+  > (1) Where an application for a variation has not failed, the Department shall, in accordance with the relevant provisions of, or made under, this Order—
+  >
+  > - (a) either agree or not agree to a variation, and make a decision under Article 13 or 14(1); or
+  > - (b) refer the application to an appeal tribunal for the tribunal to determine what variation, if any, is to be made.
+
+  ;
+- (b) in paragraphs (2) and (3), for departure direction there shall be substituted “variation”; and
+- (c) in paragraph (2), in sub-paragraph (a) lapsed or shall cease to have effect, at the end of sub-paragraph (b) “or” shall be inserted, and after that sub-paragraph there shall be added—
+
+  > - (c) the Department has refused to consider it under Article 28C(5).
+
+  .
+
+(4) In Article 28E (matters to be taken into account)—
+
+- (a) in paragraphs (1), (3) and (4), for any application for a departure direction there shall be substituted “whether to agree to a variation”; and
+- (b) in paragraph (4)(a), for a departure direction were made there shall be substituted “the Department agreed to a variation”.
+
+(5) For Article 28F (departure directions) there shall be substituted—
+
+> **28F. Agreement to a variation**
+>
+> (1) The Department may agree to a variation if—
+>
+> - (a) it is satisfied that the case is one which falls within one or more of the cases set out in Part I of Schedule 4B or in regulations made under that Part; and
+> - (b) it is the opinion of the Department that, in all the circumstances of the case, it would be just and equitable to agree to a variation.
+>
+> (2) In considering whether it would be just and equitable in any case to agree to a variation, the Department—
+>
+> - (a) shall have regard, in particular, to the welfare of any child likely to be affected if it did agree to a variation; and
+> - (b) shall, or as the case may be shall not, take any prescribed factors into account, or shall take them into account (or not) in prescribed circumstances.
+>
+> (3) The Department shall not agree to a variation (and shall proceed to make its decision on the application for a maintenance calculation without any variation) if it is satisfied that—
+>
+> - (a) it has insufficient information to make a decision on the application for the maintenance calculation under Article 13, and therefore that its decision would be made under Article 14(1); or
+> - (b) other prescribed circumstances apply.
+>
+> (4) Where the Department agrees to a variation, it shall—
+>
+> - (a) determine the basis on which the amount of child support maintenance shall be calculated in response to the application for a maintenance calculation (including an application treated as having been made); and
+> - (b) make a decision under Article 13 on that basis.
+>
+> (5) If the Department has made an interim maintenance decision, that decision shall be treated as having been replaced by the Department's decision under Article 13, and except in prescribed circumstances any appeal connected with it (under Article 22) shall lapse.
+>
+> (6) In determining whether or not to agree to a variation, the Department shall comply with regulations made under Part II of Schedule 4B.
+
+.

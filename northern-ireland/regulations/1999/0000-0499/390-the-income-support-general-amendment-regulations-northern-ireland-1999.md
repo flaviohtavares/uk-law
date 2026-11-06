@@ -1,0 +1,144 @@
+---
+title: The Income Support (General) (Amendment) Regulations (Northern Ireland) 1999
+id: nisr/1999/390
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-09-17'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/390
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/390/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (General) (Amendment) Regulations (Northern Ireland) 1999
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 390
+
+SOCIAL SECURITY
+
+The Income Support (General) (Amendment) Regulations (Northern Ireland) 1999
+
+Made
+
+17th September 1999
+
+Coming into operation—
+
+for all purposes except regulation 2(2)(c)
+
+4th October 1999
+
+for the purposes of regulation 2(2)(c)
+
+29th November 1999
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(a), 132(3) and (4)(a) and (b) and 171(1), (3) and (4) of the Social Security Contributions and Benefits Act (Northern Ireland) 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-c2e21b4c4f92e694a37dba2d510757c2]
+
+(1) These Regulations may be cited as the Income Support (General) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation—
+
+- (a) except for regulation 2(2)(c) on 4th October 1999;
+- (b) in the case of regulation 2(2)(c) on 29th November 1999.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-2205635c30e341142590a52c9a3ae70d][^key-7cb23ef07e63437fe803b5ff7952a22c]
+
+(1)[^key-2205635c30e341142590a52c9a3ae70d] The Income Support (General) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 42 (notional income)—
+
+- (a)[^key-2205635c30e341142590a52c9a3ae70d] in paragraph (6)[^f00004]—
+  - (i) at the beginning, there shall be inserted “Subject to paragraph (6A),”;
+  - (ii) the words from “; but this paragraph” to the end shall be omitted;
+- (b)[^key-2205635c30e341142590a52c9a3ae70d] after paragraph (6) there shall be inserted the following paragraphs—
+
+  > (6A) Paragraph (6) shall not apply—
+  >
+  > - (a) to a claimant who is engaged by a charitable or voluntary organisation or who is a volunteer if the adjudication officer is satisfied in any of those cases that it is reasonable for him to provide the service free of charge;
+  > - (b) in a case where the service is performed in connection with the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(p) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996, or
+  > - (c) to a claimant who is engaged in work experience whilst participating in—
+  >   - (i) the New Deal for Lone Parents[^f00005], or
+  >   - (ii) a scheme which has been approved by the Department of Economic Development as supporting the objectives of the New Deal for Lone Parents,
+  >
+  >   but this sub-paragraph shall only apply in respect of a claimant to the extent that he has been engaged in such work experience during the period specified in paragraph (6B).
+  >
+  > (6B) The period specified for the purposes of paragraph (6A)(c) shall be the period commencing on, and including, the day on which the claimant was first engaged in such work experience with an employer and ending on the day—
+  >
+  > - (a) which is 26 weeks after that day where he has been engaged in such work experience with that employer throughout that period; or
+  > - (b) on which he completed 150 hours of such work experience with that employer,
+  >
+  > whichever shall first occur.
+  >
+  > (6C) In determining the number of hours of work experience which the claimant has completed for the purposes of paragraph (6B)(b), no account shall be taken of any time allowed to that claimant by his employer for a meal.
+
+  ;
+- (c)[^key-7cb23ef07e63437fe803b5ff7952a22c] in paragraph (6A)(a), for “adjudication officer” there shall be substituted “Department”.
+
+(3)[^key-2205635c30e341142590a52c9a3ae70d] In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) in paragraph 13[^f00006] for sub-paragraph (d) there shall be substituted the following sub-paragraph—
+
+> - (d) any child care expenses reimbursed to the claimant in respect of his participation in—
+>   - (i) an employment programme specified in regulation 75(1)(a) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in a training scheme specified in regulation 75(1)(b)(ii) of those Regulations, or
+>   - (ii) the New Deal for Lone Parents or in a scheme which has been approved by the Department of Economic Development as supporting the objectives of the New Deal for Lone Parents,
+
+.
+
+## 3. Amendment of the Social Security (New Deal Pilot) Regulations[^key-03bd82de3a5b51afd7cedd72a5eafa0a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+17th September 1999.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Income Support (General) Regulations (Northern Ireland) 1987.
+
+In particular, they provide that in relation to a claimant who is engaged in work experience whilst participating in the New Deal for Lone Parents or in a scheme which has been approved by the Department of Economic Development as supporting the objectives of the New Deal for Lone Parents, for the purposes of determining entitlement to income support of that claimant—
+
+- notional earnings shall not be attributed except where the claimant has been engaged in such work experience with the same employer for more than 26 weeks or 150 hours, whichever shall first occur (regulation 2(2));
+- child care expenses reimbursed to the claimant shall be disregarded (regulation 2(3)).
+
+These Regulations also make consequential changes to the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1998 (regulation 3).
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^key-c2e21b4c4f92e694a37dba2d510757c2]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/a)
+
+[^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-2205635c30e341142590a52c9a3ae70d]: Commencement: Reg. 2(1)(2)(a)(b)(3) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/a)
+
+[^key-7cb23ef07e63437fe803b5ff7952a22c]: Commencement: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/1999/390/regulation/2/2/c) in operation at 29.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/390/regulation/1/1/b)
+
+[^f00003]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387); [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
+
+[^f00004]: Footnote: Paragraph (6) was amended by [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
+
+[^f00005]: Footnote: The New Deal For Lone Parents Operational Vision was produced for the Social Security Agency of the Department of Health and Social Services by Corporate Document Services — 3/99
+
+[^f00006]: Footnote: Paragraph 13 was substituted by regulation 3(8)(b) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387) and amended by regulation 17(7)(a) and (b) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
+
+[^key-03bd82de3a5b51afd7cedd72a5eafa0a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/390/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

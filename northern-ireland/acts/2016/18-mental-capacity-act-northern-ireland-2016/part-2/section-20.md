@@ -1,0 +1,43 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 20
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '20'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 20
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 20. Treatment with serious consequences: resistance by P etc
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) This section applies where—
+
+- (a) the act mentioned in section 9(1) is, or is done in the course of, the provision to P of treatment which is treatment with serious consequences (see section 21);
+- (b) section 19 (objection from nominated person) does not apply;
+- (c) the act—
+  - (i) is resisted by P (see section 68); or
+  - (ii) is done while P is subject to an additional measure (see section 23); and
+- (d) the circumstances are such as may be prescribed.
+
+(2) Section 9(2) (protection from liability) applies to the act only if—
+
+- (a) the provision of the treatment to P is authorised; and
+- (b) the prevention of serious harm condition (as well as the conditions of section 9(1)(c) and (d), and any other conditions that apply under this Part) is met.
+
+(3) Subsection (2)(a) does not apply where the situation is an emergency (see section 65).
+
+(4) For the purposes of subsection (2)(a) the provision of the treatment to P is “authorised” if, at the time the act is done, there is in force an authorisation granted under Schedule 1 which authorises the provision of the treatment to P.
+
+(5) See section 22 for the prevention of serious harm condition.

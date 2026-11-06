@@ -1,0 +1,296 @@
+---
+title: The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011
+id: nisr/2011/89
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-03-10'
+text_date: '2014-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/89
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/89/pdfs/nisrem_20110089_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/89/pdfs/nisr_20110089_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/89/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011
+
+> Text as at 2014-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 89
+
+Pensions
+
+The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011
+
+Made
+
+10th March 2011
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 24(2)(b), 69(4)(b), 97D(4)(b), 109(1), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], and Articles 171(4), 236(1), 237(1) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00003].
+
+## 1. Citation, commencement and interpretation[^key-071503304f04b39287a0414a2b6a3897][^key-071503304f04b39287a0414a2b6a3897]
+
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 and shall come into operation—
+
+- (a) for the purposes of this regulation and regulation 7, on 31st March 2011, and
+- (b) for all other purposes, on 6th April 2011.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly
+
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-b9e85a25434350ec7afc2f0f44e7751a][^key-c96896f9b0f1907177833a8d95ddd056]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-0179e45a4ea64e88e390c0bdf08bbee9]
+
+(1) The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00007] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 12 (transfer of member’s accrued rights without consent)—
+
+- (a) for paragraph (3)[^f00008] substitute—
+
+  > (3) The condition set out in this paragraph is that—
+  >
+  > - (a) the relevant actuary[^f00009] gives a certification, by completing the certificate in Schedule 3, in relation to the member’s rights in the receiving scheme;
+  > - (b) the relevant actuary sends that certificate to the trustees or managers of the transferring scheme;
+  > - (c) the transfer takes place within 3 months of the date of the relevant actuary’s signature in the certificate; and
+  > - (d) there are no significant changes to the benefits, data and documents used in making the certificate (see the benefits, data and documents specified in the certificate) by the date on which the transfer takes place.
+
+  ;
+- (b) in paragraph (4) for “paragraph (3)(a)” substitute “making the certification in paragraph 1 of the certificate in Schedule 3”;
+- (c) in paragraph (4A) for “paragraph (3)(b)” substitute “making the certification in paragraph 2 of the certificate in Schedule 3”.
+
+(3) After Schedule 2 (revocations) add Schedule 3 as set out in Schedule 1 to these Regulations.
+
+## 4. Amendment of the Protected Rights (Transfer Payment) Regulations[^key-d1bbba433d9d2319b2e8df66b36b66fb]
+
+(1) The Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00010] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 3C(8)[^f00011] (transfer payment to a money purchase contracted-out scheme or the money purchase part of a mixed benefit contracted-out scheme without the member’s consent) for sub-paragraph (b) substitute—
+
+> - (b) the relevant actuary gives a certification, by completing the certificate in Schedule 3, in relation to the member’s protected rights in the receiving scheme;
+> - (ba) the relevant actuary sends that certificate to the trustees or managers of the transferring scheme;
+> - (bb) the transfer takes place within three months of the date of the relevant actuary’s signature in the certificate;
+> - (bc) there are no significant changes to the benefits, data and documents used in making the certificate (see the benefits, data and documents specified in the certificate) by the date on which the transfer takes place, and
+
+.
+
+(3) After Schedule 2 (transitional provisions) add Schedule 3 as set out in Schedule 2 to these Regulations.
+
+## 5. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-33191418c0726727f9ce6d69e8d7a752]
+
+(1) The Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00012] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 10 (transfer of a person’s pension credit rights without consent)—
+
+- (a) for paragraph (3) substitute—
+
+  > (3) The condition set out in this paragraph is that, subject to paragraph (6)—
+  >
+  > - (a) the relevant actuary gives a certification, by completing the certificate in the Schedule, in relation to the person’s pension credit rights in the receiving scheme;
+  > - (b) the relevant actuary sends that certificate to the trustees or managers of the transferring scheme;
+  > - (c) the transfer takes place within 3 months of the date of the relevant actuary’s signature in the certificate, and
+  > - (d) there are no significant changes to the benefits, data and documents used in making the certificate (see the benefits, data and documents specified in the certificate) by the date on which the transfer takes place.
+
+  ;
+- (b) in paragraph (4) for “paragraph (3)(b)” substitute “making the certification in paragraph 2 of the certificate in the Schedule”.
+
+(3) At the end add the Schedule as set out in Schedule 3 to these Regulations.
+
+## 6. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-fa9b6fa17d8b1e52ad2dbc609f47f481]
+
+In regulation 7 of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00013] (notifications to employers and duty to consult)—
+
+- (a) in paragraph (2)—
+  - (i) in sub-paragraph (a) for “(7), or” substitute “(7);”;
+  - (ii) after sub-paragraph (b) add—
+
+    > or
+    >
+    > - (c) where the person proposing the change employs all the affected members.
+
+    ;
+- (b) for paragraph (3) substitute—
+
+  > (3) A relevant employer[^f00014] must consult about the listed change in accordance with regulations 11 to 16 if—
+  >
+  > - (a) that employer (“E”) employs all the affected members, or
+  > - (b) E’s employees appear to E to include affected members and E is a relevant employer who—
+  >   - (i) has been notified under paragraph (1), or
+  >   - (ii) falls within paragraph (2)(b).
+
+  .
+
+## 7. Amendment of the Occupational Pension Schemes (Fraud Compensation Levy) Regulations[^key-ba18bcd5cb1e3d2837bc1839525a1ad9][^key-ba18bcd5cb1e3d2837bc1839525a1ad9]
+
+In regulation 3(3)(b) of the Occupational Pension Schemes (Fraud Compensation Levy) Regulations (Northern Ireland) 2006[^f00015] (the fraud compensation levy) for “23 pence” substitute “75 pence”.
+
+## 8. Revocations[^key-7bb4e4e9e51b4f3d167e234aa3e0fd9a]
+
+Regulation 2(a) of the Occupational Pension Schemes (Preservation of Benefit) (Amendment) Regulations (Northern Ireland) 1999[^f00016] is revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 10th March 2011
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE 1 — Schedule to be added to the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^key-a3d42f5e18480e0cfcaf437b5d436b76]
+
+Regulation 3(3)
+
+> **SCHEDULE 3 — Actuary’s certificate**
+>
+> Regulation 12(3)
+>
+> Given for the purposes of regulation 12(3) of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991
+>
+> **Notes:**
+>
+> Phrases used in this certificate have the same meaning as in the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991 (“the 1991 Regulations”).
+>
+> The certification in paragraph 1 was made in accordance with regulation 12(4) of the 1991 Regulations. The certification in paragraph 2 was made in accordance with regulation 12(4A) of the 1991 Regulations.
+>
+> This certificate is valid only for the purposes of the 1991 Regulations.
+>
+> This certificate must not be taken by the trustees or managers of the scheme as authority to make a transfer without each member’s consent. It must also not be taken as a recommendation to make a transfer without each such member’s consent. The trustees or managers of the scheme need to satisfy themselves that making the transfer is consistent with their duties to the transferring members and the remaining members. The trustees of the scheme need to satisfy themselves that making the transfer is consistent with their responsibilities and powers under trust law.
+>
+> The actuary is not expressing in this certificate an opinion on whether or not the amount of the transfer value is reasonable.
+>
+> The actuary has taken account of the benefits accrued by the date of this certificate. The actuary has not taken account of any differences between the terms and conditions of any benefits that may accrue in the future under the transferring scheme and the receiving scheme.
+
+## SCHEDULE 2 — Schedule to be added to the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^key-f6149637659cb60fd06023ef78907de4]
+
+Regulation 4(3)
+
+> **SCHEDULE 3 — Actuary’s certificate**
+>
+> Regulation 3C(8)
+>
+> Given for the purposes of regulation 3C(8)(b) of the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996
+>
+> **Notes:**
+>
+> Phrases used in this certificate have the same meaning as in the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996 (“the 1996 Regulations”).
+>
+> This certificate is valid only for the purposes of the 1996 Regulations.
+>
+> This certificate must not be taken by the trustees or managers of the scheme as authority to make a transfer without each member’s consent. It must also not be taken as a recommendation to make a transfer without each such member’s consent. The trustees or managers of the scheme need to satisfy themselves that making the transfer is consistent with their duties to the transferring members and the remaining members. The trustees of the scheme need to satisfy themselves that making the transfer is consistent with their responsibilities and powers under trust law.
+>
+> The actuary is not expressing in this certificate an opinion on whether or not the amount of the transfer value is reasonable.
+>
+> The actuary has taken account of the benefits accrued by the date of this certificate. The actuary has not taken account of any differences between the terms and conditions of any benefits that may accrue in the future under the transferring scheme and the receiving scheme.
+
+## SCHEDULE 3 — Schedule to be added to the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^key-259ddf20a3f1d44220c21f1ab698bdd1]
+
+Regulation 5(3)
+
+> **SCHEDULE — Actuary’s certificate**
+>
+> Regulation 10(3)
+>
+> Given for the purposes of regulation 10(3) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000
+>
+> **Notes:**
+>
+> Phrases used in this certificate have the same meaning as in the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000 (“the 2000 Regulations”).
+>
+> The certification in paragraph 2 was made in accordance with regulation 10(4) of the 2000 Regulations.
+>
+> This certificate is valid only for the purposes of the 2000 Regulations.
+>
+> This certificate must not be taken by the trustees or managers of the scheme as authority to make a transfer without the consent of each person with pension credit rights. It must also not be taken as a recommendation to make a transfer without each such person’s consent. The trustees or managers of the scheme need to satisfy themselves that making the transfer is consistent with their duties to the transferring persons and the remaining persons. The trustees of the scheme need to satisfy themselves that making the transfer is consistent with their responsibilities and powers under trust law.
+>
+> The actuary is not expressing in this certificate an opinion on whether or not the amount of the transfer value is reasonable.
+>
+> The actuary has taken account of the benefits accrued by the date of this certificate. The actuary has not taken account of any differences between the terms and conditions of any benefits that may accrue in the future under the transferring scheme and the receiving scheme.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend various Regulations concerning occupational and personal pension schemes.
+
+Regulation 2 amends the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987 to update a reference to the Pensions Advisory Service.
+
+The Board for Actuarial Standards is withdrawing Guidance Note 16 (“GN16”). When certain persons’ rights to a pension are transferred from one pension scheme to another, an actuary is required to certify that the value of certain benefits remains broadly the same after the transfer. GN16 includes a certificate for actuaries to complete when making that certification. As a result of the withdrawal of GN16, the following provisions of these Regulations make several amendments which insert that certificate into legislation—
+
+- regulation 3 and Schedule 1 amend the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991;
+- regulation 4 and Schedule 2 amend the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996;
+- regulation 5 and Schedule 3 amend the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000.
+
+Regulation 6 amends the Occupational Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 to alter the circumstances in which an employer has to consult scheme members about a change to the scheme. An employer is required to consult where all the members affected by the change are employees of that employer. Such an employer does not have to inform any other employers in the scheme about making the change.
+
+Regulation 7 amends the Occupational Pension Schemes (Fraud Compensation Levy) Regulations (Northern Ireland) 2006 to increase the maximum fraud compensation levy which may be raised in any one financial year from 23 pence per member to 75 pence per member. The fraud compensation levy is paid by occupational pension schemes and is used to fund the Fraud Compensation Fund, which makes payments to certain schemes which have lost money due to fraud.
+
+Regulation 8 makes a consequential revocation.
+
+As these Regulations, in so far as they are made under the Pensions (Northern Ireland) Order 2005, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 289(1) of that Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 24(2)(b) was amended by paragraph 2(2) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)); section 97D was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); section 109(1) was amended by section 48 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000; section 178(1) was amended by Parts III and IV of Schedule 5 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 236(1) is modified in its application to multi-employer schemes by [S.R. 2006 No. 4](https://www.legislation.gov.uk/nisr/2006/4)
+
+[^key-071503304f04b39287a0414a2b6a3897]: Commencement: Reg. 1 in operation at 31.3.2011, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/a)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b9e85a25434350ec7afc2f0f44e7751a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/89/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-c96896f9b0f1907177833a8d95ddd056]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^key-0179e45a4ea64e88e390c0bdf08bbee9]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^f00007]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending Regulations are [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324) and [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
+
+[^f00008]: Footnote: Paragraphs (3) and (4) were substituted with paragraphs (3) to (4A) by regulation 2(a) of [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324) and paragraphs (3) and (4A) were amended by regulation 2(a) and (b) of [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
+
+[^f00009]: Footnote: The definition of “the relevant actuary” in regulation 12(5) was substituted by regulation 2(c) of [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
+
+[^key-d1bbba433d9d2319b2e8df66b36b66fb]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^f00010]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509); relevant amending Regulations are [S.R. 2005 No. 467](https://www.legislation.gov.uk/nisr/2005/467)
+
+[^f00011]: Footnote: Regulation 3C was inserted by regulation 2(5) of [S.R. 2005 No. 467](https://www.legislation.gov.uk/nisr/2005/467)
+
+[^key-33191418c0726727f9ce6d69e8d7a752]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^f00012]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146), to which there are amendments not relevant to these Regulations
+
+[^key-fa9b6fa17d8b1e52ad2dbc609f47f481]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^f00013]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48); the relevant amending Regulations are [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
+
+[^f00014]: Footnote: The definition of “relevant employer” in regulation 3(2) was substituted by regulation 8(2) of [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
+
+[^key-ba18bcd5cb1e3d2837bc1839525a1ad9]: Commencement: Reg. 7 in operation at 31.3.2011, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/a)
+
+[^f00015]: Footnote: [S.R. 2006 No. 85](https://www.legislation.gov.uk/nisr/2006/85)
+
+[^key-7bb4e4e9e51b4f3d167e234aa3e0fd9a]: Commencement: Reg. 8 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^f00016]: Footnote: [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
+
+[^key-a3d42f5e18480e0cfcaf437b5d436b76]: Commencement: Sch. 1 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^key-f6149637659cb60fd06023ef78907de4]: Commencement: Sch. 2 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+
+[^key-259ddf20a3f1d44220c21f1ab698bdd1]: Commencement: Sch. 3 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)

@@ -1,0 +1,716 @@
+---
+title: Magistrates' Courts (Licensing) Rules (Northern Ireland) 1997
+id: nisr/1997/62
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-02-17'
+text_date: '2022-04-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/62
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/62/data.pdf
+pending_changes: 86
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Magistrates' Courts (Licensing) Rules (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (86).** Text as at 2022-04-07. See https://www.legislation.gov.uk/changes/affected/nisr/1997/62
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 62
+
+MAGISTRATES' COURTS
+
+Magistrates' Courts (Licensing) Rules (Northern Ireland) 1997
+
+Made
+
+17th February 1997
+
+Coming into operation
+
+20th February 1997
+
+The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001], and of all other powers enabling him on that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following rules:—
+
+## Part I
+
+### 1. Citation and commencement[^key-80a5d116f4d65d2d76c92d03426d86c6]
+
+These Rules may be cited as the Magistrates' Courts (Licensing) Rules (Northern Ireland) 1997 and shall come into operation on 20th February 1997.
+
+### 2. Revocation[^key-f1f388a129c092160e2ab98c3c24e686]
+
+(1) The rules set out in paragraph (2) are hereby revoked.
+
+(2) The rules referred to in paragraph (1) are—
+
+- (a) the Magistrates' Courts (Licensing) Rules (Northern Ireland) 1990[^f00002];
+- (b) the Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 1992[^f00003].
+
+### 3. Interpretation[^key-24fa2a8d63c1038843c158cfffd44c7e]
+
+(1) In these rules unless the context otherwise requires,
+
+- “the Order” means the Licensing (Northern Ireland) Order 1996[^f00004];a reference to an Article or Schedule by number is a reference to that Article or Schedule so numbered in the Order, and expressions which are defined in the Order have the same meaning as in the Order.
+
+(2) Any reference in these rules to a Form by number is a reference to that Form so numbered in the Schedule.
+
+(3) The notes appended to the Forms do not form any part thereof and are so appended only for the purpose of assisting their proper completion.
+
+(4)[^key-a33384ce06804b3c2b73d9dde67ae855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Renewal of Licences
+
+### 4. Applications for the renewal of licences[^key-424a624b91885a5a7ea6a311e634b1c8]
+
+(1) Notice of application for the renewal of a licence, in accordance with Article 14 and paragraphs 3 and 4 of Schedule 4 shall be in Form 1.
+
+(2) Where on such an application the applicant intends also to make an application under Article 43 (for an order directing that the hours be the alternative permitted hours), or under Article 44 (for an order for additional permitted hours) or under Article 44A (for an order for further additional permitted hours),[^key-28802cc79603ea7f4c7f873dcc86da7e] or under Article 48 (for an order specifying part of the premises as suitable for extension licences) or under Article 58A (for an order specifying part of the premises as suitable for underage functions)[^key-0095c47a07593ba65f03b79e9f341948], he shall attach to the notice in Form 1 served on the clerk of petty sessions [^key-812bc7442bd22a257f416ac19f087940]..., and to the copies required to be served by paragraph 3 of Schedule 4, a notice in Form 15, 16, 16A,[^key-1549a07b7d9c11b4e41f5183e8942f77] 17 or 20, as may be appropriate and, (except where an order is in force in relation to the part of the premises to which the application relates and no structural alteration to that part of the premises has been made since the order was granted), a plan of the premises distinguishing the part thereof to which the application relates.
+
+(2A)[^key-c0fd8e947194b3e2c46f34df655a5152] Where on such application the applicant intends also to make an application under Article 44 or Article 44A, a copy of the pages of the newspapers bearing the notices referred to in paragraph 2A of Schedule 9, endorsed with the date on which they were published, shall be lodged with the clerk of petty sessions a reasonable time before the hearing of the application.
+
+(3) Notice of intention to object to the renewal of a licence, in accordance with Article 15 and paragraphs 5 and 6 of Schedule 4, shall be in Form 2.
+
+## Part III — Documents
+
+### 5. Documents to be lodged with applications or produced to the court[^key-1f9fb45080e1741120d900335d97bae9]
+
+(1) Where application is made for the renewal of a licence for an hotel or a guest-house a current certificate, issued by the Northern Ireland Tourist Board, stating that the premises are those of an establishment allocated by a certificate under Article 13 of the Tourism (Northern Ireland) Order 1992[^f00005] to the statutory category of hotel or guest-house, as the case may be, shall be lodged with a notice of application.
+
+(2) Where application is made for the renewal of a licence for a conference centre a copy of the current certificate, issued by the Northern Ireland Tourist Board, stating that the said premises comply with Article 2(2) shall be lodged with the notice of application.
+
+(3) Evidence for the purposes of Article 2(5) that a licence was granted before 31st July 1902 or under Article 4(1) of the Licensing (Northern Ireland) Order 1978[^f00006] or under Article 12(1) of the Licensing (Northern Ireland) Order 1990 or Article 11(1) of the Order in lieu of such a licence may be in the form of a certified extract from the register of licences.
+
+(4) Where application is made:—
+
+- (a) for the renewal of a licence for an hotel, restaurant, conference centre, higher education institute or premises of the kind mentioned in Article 5(1)(*a*) and either an application is to be made or an order is in force for the premises under Article 44;
+- (b) for an order under Article 44 other than on renewal; [^key-cf3d3cd3387da3c4fbf1c19f9ae4b24f]...
+- (ba)[^key-c97c5e130b787bb704fb433e257f224c] for an order under Article 44A(2) other than on renewal;
+- (c) for the renewal of a licence for any place of entertainment ;[^key-d1731c465a984e0312c912921fb61a39] or,[^key-9040f3d8ab8de49c55c9b2f0de6791c7]
+- (d) for the renewal of a licence for any indoor arena or outdoor stadium[^key-76d45dcbec4b046c6e8e232721e2b140],
+
+any licence required for those premises by a council under Schedule 1 to the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985[^f00007] shall be produced to the court.
+
+## Part IV — Transfer of Licences and Authorisations under Article 29
+
+### 6. Applications for the transfer or the concurrent transfer and renewal of a licence[^key-589ccd1c4262c940bc6e032ebade204b]
+
+(1) Notice of application for the transfer of a licence in accordance with Article 22 and paragraphs 1 and 2 of Schedule 5, shall be in Form 3, and notice of application for the transfer and renewal of a licence under Article 23 shall be in Form 4.
+
+(2) Where an application is made for the transfer of a licence, or the transfer and renewal of a licence, a copy of the pages of the newspapers bearing the notices referred to in paragraph 1(*a*) of Schedule 5 or paragraph 8(*b*)(ii)(*a*) of Schedule 4, as the case may be, endorsed with the date on which they were published shall be lodged with the clerk of petty sessions a reasonable time before the hearing of the application.
+
+(3) Notice of intention to object to the transfer of a licence shall be in Form 5.
+
+### 7. Protection orders, temporary continuance of business in certain circumstances and authorisation of continuance of business[^key-ccdc428bff0f9c0b380e9dac0a0201c0]
+
+(1) Notice of application for a protection order, in accordance with Article 26 and paragraphs 2 and 3 of Schedule 6, shall be in Form 6.
+
+(2) Notice that a person is carrying on business by virtue of Article 28 shall be in Form 7.
+
+(3) Notice of application for an order authorising the continuance of a business in temporary or other premises, in accordance with Article 29 and paragraphs 2 and 3 of Schedule 6, shall be in Form 8.
+
+(4) Notice of intention to object to the making of a protection order or an order under Article 29 shall be in Form 9.
+
+## Part V — Occasional Licences
+
+### 8. Applications for the grant of an occasional licence[^key-e62736e16adbf1bec7358c5a8651a042]
+
+(1) Notice of application for the grant of an occasional licence, in accordance with Article 30 and paragraphs 2 and 4 of Schedule 7, shall be in Form 10.
+
+(2) An occasional licence shall be in Form 11.
+
+(3) The applicant for an occasional licence shall attach to the notice of application and to the copies thereof to be served on the sub-divisional commander and the district council a written statement containing the particulars referred to in paragraph (4) made by the body organising the function to which the application relates.
+
+(4) The written statement referred to in paragraph (3) shall be signed by an officer of the body and shall set out the names and purposes of the body, the nature of the function, the premises on which and the times during which the function is to be held. It shall also state the names and addresses of each of the persons to be in personal charge of running the function.
+
+(5) A caution such as is referred to in paragraph (3) of Schedule 7 shall be in Form 12 and the cautioner shall, in addition to complying with that paragraph, serve a copy of the caution on the person to whom the licence was granted.
+
+(6) The sub-divisional commander, the district council or a cautioner who intends to appear at the hearing and to object to the grant of an occasional licence shall not later than 5 days before the date fixed for hearing serve notice of his intention to object and his grounds for so doing upon the applicant and upon the clerk of petty sessions. The said notice shall be in Form 13.
+
+(7) Where the sub-divisional commander does not object to the grant of a licence he may so state at the foot of the copy of the notice of the application which he receives and may cause the said copy of the notice to be delivered to the clerk of petty sessions not later than the day before the court sitting at which the application is made.
+
+## Part VI — Alterations to Licensed Premises
+
+### 9. Alterations required by lawful authority[^key-2632d206559b7d128ae01c3a5fbf26d7]
+
+(1) Notice of an alteration to licensed premises required by order of some lawful authority, referred to in Article 31(1)(ii) and paragraph 7 of Schedule 8, shall be in Form 14.
+
+(2) The proposed alterations shown in the plan required to be attached to Form 14 under paragraph 8(1) of Schedule 8 should be authenticated on behalf of the authority in question by the signature of an officer thereof having power to do so.
+
+## Part VII — Alternative Permitted Hours
+
+### 10. Applications for an order for alternative permitted hours for off-sales[^key-90e8878a22f46c1ecbf35bad8ec69467]
+
+(1) Notice of an application for an order for alternative permitted hours, in accordance with Article 43 and paragraphs 2 and 3 of Schedule 9, shall be in Form 15.
+
+(2) Where an application is made for an order for alternative permitted hours, the applicant shall attach to the notice in Form 15 served on the clerk of petty sessions, and to the copies required to be served by paragraph 2 of Schedule 9, a plan of the premises distinguishing the part thereof to which the application relates.
+
+(3) Notice of intention to object to the making of an order for alternative permitted hours, in accordance with paragraphs 4 and 5 of Schedule 9, shall be in Form 21.
+
+## Part VIII — Additional Permitted Hours and further additional permitted hours[^key-3ce3fe59f5434b78cb6b7d40cfed87c8]
+
+### 11. Applications for additional permitted hours[^key-f2c5a1736320d997e841f39e9f0e20f0]
+
+(1) Notice of an application for an order for additional permitted hours, in accordance with Article 44 and paragraphs 2 , 2A[^key-95d4e24fe3ea279b99748008e96b6dbc] and 3 of Schedule 9, shall be in Form 16.
+
+(2) Where an application is made for an order for additional permitted hours, the applicant shall attach to the notice in Form 16 served on the clerk of petty sessions, and to the copies required to be served by paragraph 2 of Schedule 9, (except where an order for additional permitted hours is in force in relation to the part of the premises to which the plan relates and no structural alteration to the premises has been made to that part since the order for additional hours was granted in respect of the premises or since the licence for the premises was last renewed), a plan of the premises distinguishing the part thereof to which the application relates.
+
+(2A)[^key-6111273a3d680ffffb8c5e9548fae348] A copy of the pages of the newspapers bearing the notices referred to in paragraph 2A of Schedule 9, endorsed with the date on which they were published, shall be lodged with the clerk of petty sessions a reasonable time before the hearing of the application.
+
+(3) Notice of intention to object to the making of an order for additional permitted hours, in accordance with paragraphs 4 and 5 of Schedule 9, shall be in Form 21.
+
+### 11A. Applications for further additional permitted hours where an order under Article 44 applies[^key-049033beb7420e88a813065c5c521285]
+
+(1) Notice of an application for an order for further additional permitted hours, in accordance with Article 44A and paragraphs 2, 2A and 3 of Schedule 9, shall be in Form 16A.
+
+(2) A copy of the pages of the newspapers bearing the notices referred to in paragraph 2A of Schedule 9, endorsed with the date on which they were published, shall be lodged with the clerk of petty sessions a reasonable time before the hearing of the application.
+
+(3) Notice of intention to object to the making of an order for further additional permitted hours in accordance with paragraphs 4 and 5 of Schedule 9, shall be in Form 21.
+
+## Part IX — Extension Licences
+
+### 12. Applications for an order specifying part of the premises as being suitable for functions[^key-b7a8e1a1a0c1899db5eb0fe2a27dd8ba]
+
+(1) Notice of an application for an order specifying part of the premises as suitable for an extension licence, in accordance with Article 48 and paragraphs 2 and 3 of Schedule 9, shall be in Form 17.
+
+(2) Where an application is made for an order specifying part of the premises as suitable for functions, the applicant shall attach to the notice in Form 17 served on the clerk of petty sessions, and to the copies required to be served by paragraph 2 of Schedule 9, a plan of the premises distinguishing the part thereof to which the application relates.
+
+(3) Notice of intention to object to the making of an order specifying part of the premises as suitable for functions, in accordance with paragraphs 4 and 5 of Schedule 9, shall be in Form 21.
+
+### 13. Applications for extension licence[^key-c176fffa0dcb4cdaa7a603d5139a3e50]
+
+(1) A notice of application for an extension licence, in accordance with Article 47 and paragraphs 2 and 3 of Schedule 10, shall be in Form 18.
+
+(2) Paragraphs (3), (4) and (7) of Rule 8 shall apply to applications for the grant of extension licences as they apply to occasional licences, and paragraph 7 of Rule 8 shall, in so applying, have effect as if for the words “the court sitting at which the application is to be made” there were substituted the words “the day on which the application is to be considered”.
+
+(3) Notice of intention to object to the grant of an extension licence shall be in Form 19.
+
+## PART X — UNDERAGE FUNCTIONS[^key-b36d8b21d38d84e483d8965de3d5b659]
+
+### 13A. Applications for an order specifying part of the premises as being suitable for underage functions
+
+(1) Notice of an application for an order specifying part of the premises as suitable for underage functions, in accordance with Article 58A and paragraphs 2 and 3 of Schedule 9, shall be in Form 20.
+
+(2) Where an application is made for an order specifying part of the premises as suitable for underage functions, the applicant shall attach to the notice in Form 20 served on the clerk of petty sessions, and to the copies required to be served by paragraph 2 of Schedule 9, a plan of the premises distinguishing the part thereof to which the application relates.
+
+(3) Notice of intention to object to the making of an order specifying part of the premises as suitable for underage functions, in accordance with paragraphs 4 and 5 of Schedule 9, shall be in Form 21.
+
+### 13B. Applications for authorisation for underage functions
+
+(1) A notice of application for an authorisation for underage functions in accordance with Article 58B and paragraphs 2 and 3 of Schedule 10 shall be in Form 20A.
+
+(2) Paragraphs (3), (4) and (7) of Rule 8 shall apply to applications for authorisations for underage functions as they apply to occasional licences, and paragraph 7 of Rule 8 shall, in so applying, have effect as if for the words “the court sitting at which the application is to be made” there were substituted the words “the day on which the application is to be considered”.
+
+(3) Notice of intention to object to the grant of an authorisation for underage functions shall be in Form 20B.
+
+### 14. Applications for children’s certificates[^key-b36d8b21d38d84e483d8965de3d5b659]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART XA — LICENCE FOR INDOOR ARENA AND OUTDOOR STADIUM[^key-2cac76f3405c6254a208f0c226a6d215][^M_F_91009949-4160-466d-cdfc-f8b2e4f78e01]
+
+### 14A. Applications for attachment, variation, removal of conditions
+
+(1)[^key-9e9427c3debda554cb6fb74eb7fb8694] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Notice of application to attach conditions to a licence [^key-70a03640667a107fcf046c7b8f13f419]... in accordance with Article 77A shall be in Form 22.
+
+(3) A district commander who intends to make an application to attach conditions to a licence [^key-70a03640667a107fcf046c7b8f13f419]..., shall not less than three weeks before the day on which the application is to be considered serve notice of the application upon the clerk of petty sessions [^key-25f5a628059a98fbf7d50852ce1ffac9]... and a copy of the notice of application on –
+
+- (a) the person to whom the licence to which the application relates was granted; and
+- (b) the district council for the district in which the premises are situated.
+
+(4) Notice of application to vary or remove conditions, as the case may be, attached to a licence [^key-70a03640667a107fcf046c7b8f13f419]... in accordance with Article 77A shall be in Form 23.
+
+(5) A person who intends to apply to vary or remove conditions attached to a licence [^key-70a03640667a107fcf046c7b8f13f419]... shall, not less than three weeks before the day on which the application is to be considered, serve notice of the application upon the clerk of petty sessions [^key-d8f79387775291808084e0e1e9b6f5e9]... and serve a copy of the notice of application on (where they are not the applicant) –
+
+- (a) the person to whom the licence to which the application relates was granted;
+- (b) the district commander of the police district in which the premises are situated; and
+- (c) the district council for the district in which the premises are situated.
+
+## Part XI — Miscellaneous
+
+### 15. Plans[^key-520f9798629c1f971cf077aa7b39c7db]
+
+Any plan which is required to be served must:—
+
+- (a) be to scale on substantial paper or other material;
+- (b) show each floor of the premises on a separate page measuring approximately 18 inches (46 centimetres) by 18 inches (46 centimetres);
+- (c) be certified as true and correct by an architect, surveyor or other person considered by the court to be competent to do so;
+- (d) show the parts of the premises on which intoxicating liquor is sold, or in which it is intended that intoxicating liquor should be sold, by clearly distinguishing in bold, hatched or shaded colour between that and other parts of the premises.
+
+### 16. Costs[^key-eb1f682f683656c53816055284a97bb5]
+
+Article 163 of the Magistrates' Courts (Northern Ireland) 1981[^f00008] (costs) shall apply to an application under Schedules 4, 5, 6, 7, 8, 9 or 10 as if any objector were a respondent.
+
+### 17. Register of licences[^key-87799a3de6a01734e39a02014f3cbe44]
+
+(1) Where premises were licensed for which plans were deposited in the office of the chief clerk and have been sent to the clerk of petty sessions or plans were in the possession of the clerk of petty sessions before 3rd May 1971[^f00009], those plans should be indexed as relating to the register and kept as plans duly sent to such clerk under Article 34(3).
+
+(2)[^key-1777853d327ea8e838a9996b09475c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this rule the expression “chief clerk” has the meaning assigned to it by Article 2(2) of the County Courts (Northern Ireland) Order 1980[^f00010].
+
+### 18. Copies of notices for sub-divisional commander[^key-b0ba145630e5245fe9aaabcc8292de2f]
+
+(1) Any notice, document or copy thereof required by the Order or these Rules to be served on the sub-divisional commander of a police sub-division shall be served, unless the sub-divisional commander otherwise directs, by being lodged with the member of the Royal Ulster Constabulary for the time being in charge of a police station within the sub-division in which the premises to which the document relates are situated or, as the case may be, in which the applicant resides.
+
+(2) Notwithstanding anything in Article 2(9), where the applicant is a body corporate paragraph (1) shall have effect as if for the reference to the police sub-division in which the applicant resides there was substituted a reference to that in which the body has its principal or registered office.
+
+### 19. Mode of service of documents[^key-c9520b80c486164a90dbee0ef647052e]
+
+(1) Any notice, document or copy thereof such as is referred to in rule 18 or which is required by the Order or these Rules to be served on the clerk of petty sessions or any other person or body may be served by the applicant, his solicitor or a member of the staff in the solicitor’s office over the age of 16 years by sending it by registered post or by the recorded delivery service in an envelope addressed to the intended recipient:—
+
+- (a) rule 18 applies, at the police station specified in that rule;
+- (b) where service is to be on the clerk of petty sessions or a local or official body, at the address of his or its office;
+- (c) in any other case, his residence.
+
+(2) A notice of application or any other document required by the Order or these Rules to be served on the clerk of petty sessions and also required to be served on any other person or body shall be endorsed with a note of the mode and date of service of such document on such other person or body.
+
+(3) Production of the Post Office advice of delivery shall be evidence of such posting.
+
+Mackay of Clashfern, *C.*
+
+Dated 17th February 1997.
+
+## SCHEDULE[^key-c2bd8bbec0de2d6546c06f0a0739a84a]
+
+Rule 3(2)
+
+[^key-67d167fe9d802319c54f26f0cb5a36ed][^key-cf15eb9c53adae7c872dd1c02235841a][^key-21ffaaf3cc05ee653dd6d9fc590d88f4][^key-09fa7e490659eb68d75350ec5ce8fc69][^key-2bd3c25f0ac47fedc7c2297114984f6b]Form 1
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 14, Schedule 4, paras. 3 and 4)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_001)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_002)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_003)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_004)
+
+[^key-8cec1bb02eae1a79b90e3956b0fe29fb][^key-bc127634cdefa049957f043ec74a2a24][^key-7ebc8cc2698ffc2d4f56b4d365be887f][^key-d610c02fb76928a44108905c8ee5178d]Form 2
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 14, Schedule 4, paras. 5 and 6)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_005)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_006)
+
+[^key-a24ff7a97ff0178ea9f03875cdb32256][^key-b588eb663990290e508651b4bcbaa0fe][^key-130f35c97a50a12139d59b0fcbf3c24b][^key-341173218e3a6d4c8e43c412ba74c4e7][^key-f5f12861afb15180ccd96435034883de]Form 3
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 22, Schedule 5, paras. 1 and 2)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_007)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_008)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_009)
+
+[^key-5f5648232421aa351cf0ecda7924d765][^key-b588eb663990290e508651b4bcbaa0fe][^key-130f35c97a50a12139d59b0fcbf3c24b][^key-341173218e3a6d4c8e43c412ba74c4e7][^key-f61826ee532be9a56714f04ef3aec3b3]Form 4
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 23)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_010)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_011)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_012)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_013)
+
+[^key-270044b7f55ab21cb1cf585548c3a24d][^key-b588eb663990290e508651b4bcbaa0fe][^key-130f35c97a50a12139d59b0fcbf3c24b][^key-341173218e3a6d4c8e43c412ba74c4e7][^key-8d0b5f8982d91a60bbcfc7cb819de02b]Form 5
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Schedule 5, paras. 3 and 4)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_014)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_015)
+
+[^key-5e4b2fca2b5132a67ed137eec4dd883a][^key-a08f85a3a8db6e595ac89ded0a4a1986][^key-e32d9e72d6ea4b1dbaaba80ce63f89d2][^key-cb523f92be97ee865a641206ef40d644]Form 6
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 26, Schedule 6, paras. 2 and 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_016)
+
+[^key-ea346d6c763fddad101decfa26396760][^key-79971ec409b93967ab5bb788b4bd03d2]Form 7
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 28(3))
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_017)
+
+[^key-b22acd71f3f7f20ff1e8b37251974cd7][^key-8bc18d31863545a5064c9c6f0e1e518f][^key-93e39efc8e508fe8adb37542f2f61c3f][^key-78d5d6ab8ff0657ef2f26a56fb307468]Form 8
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 29, Schedule 6, paras. 2 and 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_018)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_019)
+
+[^key-c1cd53d57ca4db61915becc17a1218f7][^key-fcd3dd86e56e0bcdf20322ebb77fee52]Form 9
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Schedule 6, para. 5)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_020)
+
+[^key-34070b2ef2208260764412b6be4bb54b][^key-a6bf1975fd037a2a55c708356a1407a2][^key-f7d43fbc21ee097268fe1c78ae6700f3]Form 10
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 30 and Schedule 7)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_021)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_022)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_023)
+
+[^key-6b7e0ca64aa08d9bc1a9cf30f78b82b3]Form 11
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 30 and Schedule 7)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_024)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_025)
+
+Form 12
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 30 and Schedule 7, para. 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_026)
+
+[^key-b9e1bcc452efa58ff402651ac2b95d0a][^key-917581b64884a12ff3cca757d90a77e0]Form 13
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 30 and Schedule 7, para. 5)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_027)
+
+[^key-0b5a891dbfebf8e02e735912e2e7d64d][^key-83df130886634f0e15ca38e4203782b3][^key-c55606b56fe9168546fe4d6b3703bb2d]Form 14
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 31 and Schedule 8)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_028)
+
+[^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e]Form 15
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 43(1))
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_029)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_030)
+
+[^key-c26c42f0b4ca48f57a62278c03dc5c2c][^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e][^key-1111407f6e300930f93bfb96981d6b0e][^key-b20fc94b0d9f7f0f753fcd10b95c70b4]Form 16
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 44, Schedule 9, paras. 2 and 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_031)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_032)
+
+[^key-01bd8e4e0fc03aa55bfe12cf5070cdb4]Form 16A
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_004.gif)
+
+[^key-50e42edc66527500a4b480afbc47d673][^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e][^key-94be774ad6f289f3db2f2b7dcaae97ec]Form 17
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 48, Schedule 9, paras. 2 and 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_033)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_034)
+
+[^key-97ed9dc6b25dcce28694479102ec2d98][^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e][^key-55653a57185d8002ab14b3fba2fb01ae][^key-fee354c299bcfaba2b413c79a2c5ac29]Form 18
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 47, Schedule 10, paras. 2 and 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_035)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_036)
+
+[^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e]Form 19
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 47, Schedule 10, paras. 4 and 5)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_037)
+
+[^key-2129ed319b97e356562587c96ab9b4a6]Form 20
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Article 59, Schedule 9, paras. 2 and 3)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_005.gif)
+
+[^key-684c081dfdfeb699a2efa762c0ccb67d]Form 20A
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_006.gif)
+
+[^key-684c081dfdfeb699a2efa762c0ccb67d]Form 20B
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_007.gif)
+
+[^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e][^key-fcf8f16eac614f8b16d70d8507d57a96][^key-5363d40f71a53c217a0a90d4a36d96e4][^key-22277c833e5be56c10ef9c3bdf51be90][^key-2a11161dd324eb291f1115cc34fda050][^key-a32057c0cb1cc194f92bea646e3c094a][^key-631b6af439d3689db1a982a32df23d1a]Form 21
+
+**LICENSING (NORTHERN IRELAND) ORDER 1996**
+
+(Schedule 9, paras. 4 and 5)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_040)[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_041)
+
+[^key-44723732656cc615f84215b61f7d11cb][^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e][^key-dc98f36bf68e4f58b2447807783d11cc]Form 22
+
+Licensing (Northern Ireland) Order 1996
+
+(Article 77A)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_001.gif)
+
+[^key-a51e42b2f627e178af26b4cbe04b76d1][^key-2908918bd586486d74826b72298f5cbe][^key-5026bd03504ad6e24636eff1db4f076e][^key-94c8d4be63ef916f1358e18355246089]Form 23
+
+Licensing (Northern Ireland) Order 1996
+
+(Article 77A)
+
+[image: see source](https://www.legislation.gov.uk/nisr/1997/62/images/nisr_19970062_en_epp_002.gif)
+
+(This note is not part of the Rules.)
+
+These Rules provide for the procedure to be followed in connection with applications to a magistrates' court under the Licensing (Northern Ireland) Order 1996. The Magistrates' Courts (Licensing) Rules (Northern Ireland) 1990 are revoked.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^key-80a5d116f4d65d2d76c92d03426d86c6]: Commencement: Rule 1 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-f1f388a129c092160e2ab98c3c24e686]: Commencement: Rule 2 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^f00002]: Footnote: [S.R. 1990 No. 211](https://www.legislation.gov.uk/nisr/1990/211)
+
+[^f00003]: Footnote: [S.R. 1992 No. 542](https://www.legislation.gov.uk/nisr/1992/542)
+
+[^key-24fa2a8d63c1038843c158cfffd44c7e]: Commencement: Rule 3 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^f00004]: Footnote: S.I. [1996/3158 (N.I. 22)](https://www.legislation.gov.uk/nisi/1996/3158)
+
+[^key-a33384ce06804b3c2b73d9dde67ae855]: Textual amendment: [Rule 3(4)](https://www.legislation.gov.uk/nisr/1997/62/article/3/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(1)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-424a624b91885a5a7ea6a311e634b1c8]: Commencement: Rule 4 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-28802cc79603ea7f4c7f873dcc86da7e]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/nisr/1997/62/rule/4/2) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/1/a)
+
+[^key-0095c47a07593ba65f03b79e9f341948]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/nisr/1997/62/rule/4/2) substituted (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/2)
+
+[^key-812bc7442bd22a257f416ac19f087940]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/nisr/1997/62/article/4/2) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(2)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-1549a07b7d9c11b4e41f5183e8942f77]: Textual amendment: Word in [rule 4](https://www.legislation.gov.uk/nisr/1997/62/rule/4) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/1/b)
+
+[^key-c0fd8e947194b3e2c46f34df655a5152]: Textual amendment: [Rule 4(2A)](https://www.legislation.gov.uk/nisr/1997/62/rule/4/2A) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(1)(c)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/1/c)
+
+[^key-1f9fb45080e1741120d900335d97bae9]: Commencement: Rule 5 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^f00005]: Footnote: S.I. [1992/235 (N.I. 3)](https://www.legislation.gov.uk/nisi/1992/235)
+
+[^f00006]: Footnote: S.I. [1978/1044 (N.I. 14)](https://www.legislation.gov.uk/nisi/1978/1044)
+
+[^key-cf3d3cd3387da3c4fbf1c19f9ae4b24f]: Textual amendment: Word in [rule 5(4)(b)](https://www.legislation.gov.uk/nisr/1997/62/article/5/4/b) omitted (6.1.2005) by virtue of [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2004/451/article/2/a)
+
+[^key-c97c5e130b787bb704fb433e257f224c]: Textual amendment: [Rule 5(4)(ba)](https://www.legislation.gov.uk/nisr/1997/62/rule/5/4/ba) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/2)
+
+[^key-d1731c465a984e0312c912921fb61a39]: Textual amendment: [Rule 5(4)(c)](https://www.legislation.gov.uk/nisr/1997/62/article/5/4/c): semicolon substituted for comma (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/451/article/2/b)
+
+[^key-9040f3d8ab8de49c55c9b2f0de6791c7]: Textual amendment: [Rule 5(4)(d)](https://www.legislation.gov.uk/nisr/1997/62/article/5/4) and word inserted (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/451/article/2/b)
+
+[^key-76d45dcbec4b046c6e8e232721e2b140]: Textual amendment: Words in [rule 5(4)(d)](https://www.legislation.gov.uk/nisr/1997/62/rule/5/4/d) inserted (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [2](https://www.legislation.gov.uk/nisr/2016/405/rule/2)
+
+[^f00007]: Footnote: S.I. [1985/1208 (N.I. 15)](https://www.legislation.gov.uk/nisi/1985/1208)
+
+[^key-589ccd1c4262c940bc6e032ebade204b]: Commencement: Rule 6 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-ccdc428bff0f9c0b380e9dac0a0201c0]: Commencement: Rule 7 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-e62736e16adbf1bec7358c5a8651a042]: Commencement: Rule 8 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-2632d206559b7d128ae01c3a5fbf26d7]: Commencement: Rule 9 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-90e8878a22f46c1ecbf35bad8ec69467]: Commencement: Rule 10 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-3ce3fe59f5434b78cb6b7d40cfed87c8]: Textual amendment: Words in [Pt. VIII](https://www.legislation.gov.uk/nisr/1997/62/part/VIII) title inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(3)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/3)
+
+[^key-f2c5a1736320d997e841f39e9f0e20f0]: Commencement: Rule 11 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-95d4e24fe3ea279b99748008e96b6dbc]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/nisr/1997/62/rule/11/1) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/4/a)
+
+[^key-6111273a3d680ffffb8c5e9548fae348]: Textual amendment: [Rule 11(2A)](https://www.legislation.gov.uk/nisr/1997/62/rule/11/2A) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/4/b)
+
+[^key-049033beb7420e88a813065c5c521285]: Textual amendment: [Rule 11A](https://www.legislation.gov.uk/nisr/1997/62/rule/11A) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(5)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/5)
+
+[^key-b7a8e1a1a0c1899db5eb0fe2a27dd8ba]: Commencement: Rule 12 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-c176fffa0dcb4cdaa7a603d5139a3e50]: Commencement: Rule 13 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-b36d8b21d38d84e483d8965de3d5b659]: Textual amendment: [Pt. X](https://www.legislation.gov.uk/nisr/1997/62/part/X) substituted (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/3)
+
+[^key-2cac76f3405c6254a208f0c226a6d215]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/nisr/1997/62/part/10A) inserted (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [3](https://www.legislation.gov.uk/nisr/2004/451/article/3)
+
+[^M_F_91009949-4160-466d-cdfc-f8b2e4f78e01]: Textual amendment: Words in [rule 14A](https://www.legislation.gov.uk/nisr/1997/62/rule/14A) heading inserted (19.12.2016) by virtue of [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/405/rule/3/a)
+
+[^key-9e9427c3debda554cb6fb74eb7fb8694]: Textual amendment: [Rule 14A(1)](https://www.legislation.gov.uk/nisr/1997/62/rule/14A/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(3)(a)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/3/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-70a03640667a107fcf046c7b8f13f419]: Textual amendment: Words in [rule 14A](https://www.legislation.gov.uk/nisr/1997/62/rule/14A) omitted (19.12.2016) by virtue of [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2016/405/rule/3/b)
+
+[^key-25f5a628059a98fbf7d50852ce1ffac9]: Textual amendment: Words in [rule 14A(3)](https://www.legislation.gov.uk/nisr/1997/62/rule/14A/3) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(3)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/3/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-d8f79387775291808084e0e1e9b6f5e9]: Textual amendment: Words in [rule 14A(5)](https://www.legislation.gov.uk/nisr/1997/62/rule/14A/5) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(3)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/3/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-520f9798629c1f971cf077aa7b39c7db]: Commencement: Rule 15 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-eb1f682f683656c53816055284a97bb5]: Commencement: Rule 16 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^f00008]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^key-87799a3de6a01734e39a02014f3cbe44]: Commencement: Rule 17 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^f00009]: Footnote: The commencement date of section 34(3) of the Licensing Act (Northern Ireland) [1971 (c. 13 (N.I.))](https://www.legislation.gov.uk/apni/1971/13)
+
+[^key-1777853d327ea8e838a9996b09475c13]: Textual amendment: [Rule 17(2)](https://www.legislation.gov.uk/nisr/1997/62/article/17/2) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(4)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^f00010]: Footnote: S.I. [1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
+
+[^key-b0ba145630e5245fe9aaabcc8292de2f]: Commencement: Rule 18 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-c9520b80c486164a90dbee0ef647052e]: Commencement: Rule 19 in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-c2bd8bbec0de2d6546c06f0a0739a84a]: Commencement: Sch. in operation at 20.2.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/62/rule/1)
+
+[^key-67d167fe9d802319c54f26f0cb5a36ed]: Textual amendment: [Sch. Form 1](https://www.legislation.gov.uk/nisr/1997/62/schedule): words inserted after “(j) a seaman’s canteen;\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2004/451/article/4/a)
+
+[^key-cf15eb9c53adae7c872dd1c02235841a]: Textual amendment: [Sch. Form 1](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-21ffaaf3cc05ee653dd6d9fc590d88f4]: Textual amendment: [Sch. Form 1](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-09fa7e490659eb68d75350ec5ce8fc69]: Textual amendment: [Sch. Form 1](https://www.legislation.gov.uk/nisr/1997/62/schedule/1/form/1/paragraph/1): in paragraph \[1\] of the “Notes”, the words “for the district in which the premises are situated” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/a/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-2bd3c25f0ac47fedc7c2297114984f6b]: Textual amendment: [Sch. Form 1](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/1): words inserted after “wholly or substantially surrounding that area\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/a)
+
+[^key-8cec1bb02eae1a79b90e3956b0fe29fb]: Textual amendment: [Sch. Form 2 note 3(e)(ii)](https://www.legislation.gov.uk/nisr/1997/62/schedule): the word “k” substituted for “j” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2004/451/article/4/b)
+
+[^key-bc127634cdefa049957f043ec74a2a24]: Textual amendment: [Sch. Form 2](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(b)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/b/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-7ebc8cc2698ffc2d4f56b4d365be887f]: Textual amendment: [Sch. Form 2](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/b/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-d610c02fb76928a44108905c8ee5178d]: Textual amendment: [Sch. Form 2](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/2): in note 3(e)(ii), the word “(l)” substituted for “(k)” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/b)
+
+[^key-a24ff7a97ff0178ea9f03875cdb32256]: Textual amendment: [Sch. Form 3](https://www.legislation.gov.uk/nisr/1997/62/schedule): words inserted after “(j) a seaman’s canteen;\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2004/451/article/4/c)
+
+[^key-b588eb663990290e508651b4bcbaa0fe]: Textual amendment: [Sch. Forms 3, 4, 5](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(c)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-130f35c97a50a12139d59b0fcbf3c24b]: Textual amendment: [Sch. Forms 3, 4, 5](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): the words “sitting at…” substituted for “for the Division of” in each place where they occur (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/c/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-341173218e3a6d4c8e43c412ba74c4e7]: Textual amendment: [Sch. Forms 3, 4, 5](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/c/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-f5f12861afb15180ccd96435034883de]: Textual amendment: [Sch. Form 3](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/3): words inserted after “wholly or substantially surrounding that area\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/a)
+
+[^key-5f5648232421aa351cf0ecda7924d765]: Textual amendment: [Sch. Form 4](https://www.legislation.gov.uk/nisr/1997/62/schedule): words inserted after “(j) a seaman’s canteen\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(d)](https://www.legislation.gov.uk/nisr/2004/451/article/4/d)
+
+[^key-f61826ee532be9a56714f04ef3aec3b3]: Textual amendment: [Sch. Form 4](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/4): words inserted after “wholly or substantially surrounding that area\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/a)
+
+[^key-270044b7f55ab21cb1cf585548c3a24d]: Textual amendment: [Sch. Form 5 note 3(e)(ii)](https://www.legislation.gov.uk/nisr/1997/62/schedule): the word “k” substituted for “j” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(e)](https://www.legislation.gov.uk/nisr/2004/451/article/4/e)
+
+[^key-8d0b5f8982d91a60bbcfc7cb819de02b]: Textual amendment: [Sch. Form 5](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/5): in note 3(d), the word “(l)” substituted for “(j)” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/c)
+
+[^key-5e4b2fca2b5132a67ed137eec4dd883a]: Textual amendment: [Sch. Form 6](https://www.legislation.gov.uk/nisr/1997/62/schedule): the word “k” substituted for “j” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(f)](https://www.legislation.gov.uk/nisr/2004/451/article/4/f)
+
+[^key-a08f85a3a8db6e595ac89ded0a4a1986]: Textual amendment: [Sch. Form 6](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(d)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/d/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-e32d9e72d6ea4b1dbaaba80ce63f89d2]: Textual amendment: [Sch. Form 6](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “of the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/d/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-cb523f92be97ee865a641206ef40d644]: Textual amendment: [Sch. Form 6](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/6): the word “(l)” substituted for “(k)” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(d)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/d)
+
+[^key-ea346d6c763fddad101decfa26396760]: Textual amendment: [Sch. Form 7](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(e)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/e/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-79971ec409b93967ab5bb788b4bd03d2]: Textual amendment: [Sch. Form 7](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(e)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/e/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-b22acd71f3f7f20ff1e8b37251974cd7]: Textual amendment: [Sch. Form 8](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “\[5(1)(k)\]” inserted after “\[5(1)(j)\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(g)](https://www.legislation.gov.uk/nisr/2004/451/article/4/g)
+
+[^key-8bc18d31863545a5064c9c6f0e1e518f]: Textual amendment: [Sch. Form 8](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(f)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/f/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-93e39efc8e508fe8adb37542f2f61c3f]: Textual amendment: [Sch. Form 8](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “of the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(f)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/f/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-78d5d6ab8ff0657ef2f26a56fb307468]: Textual amendment: [Sch. Form 8](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/8): the words “5\[1\]\[l\]” inserted after “\[5(1)(k)\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(e)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/e)
+
+[^key-c1cd53d57ca4db61915becc17a1218f7]: Textual amendment: [Sch. Form 9](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(g)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/g/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-fcd3dd86e56e0bcdf20322ebb77fee52]: Textual amendment: [Sch. Form 9](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(g)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/g/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-34070b2ef2208260764412b6be4bb54b]: Textual amendment: [Sch. Form 10](https://www.legislation.gov.uk/nisr/1997/62/schedule/1/form/10/paragraph/3): in paragraph \[3\] of the “Notes”, the words from “The application” to the end of the first use of paragraphs (a) and (b) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(h)(iii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/h/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-a6bf1975fd037a2a55c708356a1407a2]: Textual amendment: [Sch. Form 10](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(h)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/h/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-f7d43fbc21ee097268fe1c78ae6700f3]: Textual amendment: [Sch. Form 10](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the petty sessions district in which the premises are situated” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(h)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/h/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-6b7e0ca64aa08d9bc1a9cf30f78b82b3]: Textual amendment: [Sch. Form 11](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-b9e1bcc452efa58ff402651ac2b95d0a]: Textual amendment: [Sch. Form 13](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(j)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/j/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-917581b64884a12ff3cca757d90a77e0]: Textual amendment: [Sch. Form 13](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(j)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/j/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-0b5a891dbfebf8e02e735912e2e7d64d]: Textual amendment: [Sch. Form 14](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “\[5(1)(k)\]” inserted after “\[5(1)(j)\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(h)](https://www.legislation.gov.uk/nisr/2004/451/article/4/h)
+
+[^key-83df130886634f0e15ca38e4203782b3]: Textual amendment: [Sch. Form 14](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the petty sessions district in which the premises are situated” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(k)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/k); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-c55606b56fe9168546fe4d6b3703bb2d]: Textual amendment: [Sch. Form 14](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/14): the words “5\[1\]\[l\]” inserted after “\[5(1)(k)\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(e)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/e)
+
+[^key-2908918bd586486d74826b72298f5cbe]: Textual amendment: [Sch. Forms 15-23](https://www.legislation.gov.uk/nisr/1997/62/schedule/1) heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(l)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/l/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-5026bd03504ad6e24636eff1db4f076e]: Textual amendment: [Sch. Forms 15-23](https://www.legislation.gov.uk/nisr/1997/62/schedule/1): at the end, the words “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [21(5)(l)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/21/5/l/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-c26c42f0b4ca48f57a62278c03dc5c2c]: Textual amendment: [Sch. Form 16](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “\[an indoor arena\]\[1\]” inserted after “\[a higher education institution\] \[1\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(i)](https://www.legislation.gov.uk/nisr/2004/451/article/4/i)
+
+[^key-1111407f6e300930f93bfb96981d6b0e]: Textual amendment: [Sch. Form 16](https://www.legislation.gov.uk/nisr/1997/62/schedule): in note 3, the words “Easter Day or Good Friday” omitted (4.1.2022) by virtue of [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(a)(i)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/6/a/i)
+
+[^key-b20fc94b0d9f7f0f753fcd10b95c70b4]: Textual amendment: [Sch. Form 16](https://www.legislation.gov.uk/nisr/1997/62/schedule): in note 5, the words “An Article 44 order may not continue to be used for the provision of entertainment or refreshment after the latest time that intoxicating liquor may be consumed on the premises.” inserted after “performing.” (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/6/a/ii)
+
+[^key-01bd8e4e0fc03aa55bfe12cf5070cdb4]: Textual amendment: [Sch. Form 16A](https://www.legislation.gov.uk/nisr/1997/62/schedule) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2021/339/rule/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/339/schedule)
+
+[^key-50e42edc66527500a4b480afbc47d673]: Textual amendment: [Sch. Form 17](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “\[an indoor arena\]” inserted after “\[a higher education institution\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(j)](https://www.legislation.gov.uk/nisr/2004/451/article/4/j)
+
+[^key-94be774ad6f289f3db2f2b7dcaae97ec]: Textual amendment: [Sch. Form 17](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/17): the words “\[an outdoor stadium\]” inserted after “\[an indoor arena\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(f)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/f)
+
+[^key-97ed9dc6b25dcce28694479102ec2d98]: Textual amendment: [Sch. Form 18](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “\[an indoor arena\]” inserted after “\[a higher education institution\]” (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [4(k)](https://www.legislation.gov.uk/nisr/2004/451/article/4/k)
+
+[^key-55653a57185d8002ab14b3fba2fb01ae]: Textual amendment: [Sch. Form 18](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/18): the words “\[an outdoor stadium\]” inserted after “\[an indoor arena\]” (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(f)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/f)
+
+[^key-fee354c299bcfaba2b413c79a2c5ac29]: Textual amendment: [Sch. Form 18](https://www.legislation.gov.uk/nisr/1997/62/schedule): in note 5, the words “Easter Day or Good Friday” omitted (4.1.2022) by virtue of [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/6/c)
+
+[^key-2129ed319b97e356562587c96ab9b4a6]: Textual amendment: [Sch. Form 20](https://www.legislation.gov.uk/nisr/1997/62/schedule) substituted (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/4/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2022/123/schedule/1)
+
+[^key-684c081dfdfeb699a2efa762c0ccb67d]: Textual amendment: [Sch. Forms 20A, 20B](https://www.legislation.gov.uk/nisr/1997/62/schedule) inserted (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/4/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2022/123/schedule/2)
+
+[^key-fcf8f16eac614f8b16d70d8507d57a96]: Textual amendment: [Sch. Form 21](https://www.legislation.gov.uk/nisr/1997/62/schedule): in the title, the words “\[Article 44A (order for further additional permitted hours)\]” inserted after “(order for additional permitted hours)\]” (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(d)(i)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/6/d/i)
+
+[^key-5363d40f71a53c217a0a90d4a36d96e4]: Textual amendment: [Sch. Form 21](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “\[an order under Article 44A of the Licensing (Northern Ireland) Order 1996 (order for further additional permitted hours)\]” inserted after “(order for additional permitted hours)\]” (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(d)(ii)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/6/d/ii)
+
+[^key-22277c833e5be56c10ef9c3bdf51be90]: Textual amendment: [Sch. Form 21](https://www.legislation.gov.uk/nisr/1997/62/schedule): note 3(ba) inserted (4.1.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/339)](https://www.legislation.gov.uk/nisr/2021/339), [rules 1](https://www.legislation.gov.uk/nisr/2021/339/rule/1), [2(6)(d)(iii)](https://www.legislation.gov.uk/nisr/2021/339/rule/2/6/d/iii)
+
+[^key-2a11161dd324eb291f1115cc34fda050]: Textual amendment: [Sch. Form 21](https://www.legislation.gov.uk/nisr/1997/62/schedule) heading: the words “\[Article 58A (order specifying premises as suitable for underage functions)\]” substituted for “\[Article 59 (grant of a children’s certificate)\]” (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(4)(c)(i)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/4/c/i)
+
+[^key-a32057c0cb1cc194f92bea646e3c094a]: Textual amendment: [Sch. Form 21](https://www.legislation.gov.uk/nisr/1997/62/schedule): the words “an order under Article 58A of the Licensing (Northern Ireland) Order 1996 (order specifying premises as being suitable for underage functions)” substituted for “the grant of a children’s certificate under Article 59 of the Licensing (Northern Ireland) Order 1996” (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/4/c/ii)
+
+[^key-631b6af439d3689db1a982a32df23d1a]: Textual amendment: [Sch. Form 21](https://www.legislation.gov.uk/nisr/1997/62/schedule): note 3(d) substituted (7.4.2022) by [The Magistrates’ Courts (Licensing) (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/123)](https://www.legislation.gov.uk/nisr/2022/123), [rules 1](https://www.legislation.gov.uk/nisr/2022/123/rule/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/nisr/2022/123/rule/2/4/c/iii)
+
+[^key-44723732656cc615f84215b61f7d11cb]: Textual amendment: [Sch. Form 22](https://www.legislation.gov.uk/nisr/1997/62/schedule) inserted (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [5](https://www.legislation.gov.uk/nisr/2004/451/article/5), [Sch.](https://www.legislation.gov.uk/nisr/2004/451/schedule)
+
+[^key-dc98f36bf68e4f58b2447807783d11cc]: Textual amendment: [Sch. Form 22](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/22): the words “\[indoor arena\]\[outdoor stadium\]” substituted for “indoor arena” in each place where they occur (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(g)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/g)
+
+[^key-a51e42b2f627e178af26b4cbe04b76d1]: Textual amendment: [Sch. Form 23](https://www.legislation.gov.uk/nisr/1997/62/schedule) inserted (6.1.2005) by [Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2004 (S.R. 2004/451)](https://www.legislation.gov.uk/nisr/2004/451), [rules 1(1)](https://www.legislation.gov.uk/nisr/2004/451/article/1/1), [5](https://www.legislation.gov.uk/nisr/2004/451/article/5), [Sch.](https://www.legislation.gov.uk/nisr/2004/451/schedule)
+
+[^key-94c8d4be63ef916f1358e18355246089]: Textual amendment: [Sch. Form 23](https://www.legislation.gov.uk/nisr/1997/62/schedule/form/23): the words “\[indoor arena\]\[outdoor stadium\]” substituted for “indoor arena” in each place where they occur (19.12.2016) by [The Magistrates' Courts (Licensing) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/405)](https://www.legislation.gov.uk/nisr/2016/405), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/405/rule/1/1), [4(g)](https://www.legislation.gov.uk/nisr/2016/405/rule/4/g)

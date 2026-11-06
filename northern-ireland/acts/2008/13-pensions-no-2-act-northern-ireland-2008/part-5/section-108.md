@@ -1,0 +1,58 @@
+---
+title: Pensions (No. 2) Act (Northern Ireland) 2008, section 108
+act: Pensions (No. 2) Act (Northern Ireland) 2008
+section: '108'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/13/section/108
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions (No. 2) Act (Northern Ireland) 2008, section 108
+
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/nia/2008/13
+>
+> Extent: Northern Ireland.
+
+## 108. Delegation of powers by the Regulator
+
+*Extent: N.I.*
+
+(1) In paragraph 2 of Schedule 1 to the 2005 Order (regulations relating to delegation of the Pensions Regulator's functions) the existing provision becomes sub-paragraph (1).
+
+(2) For paragraph (d) of that sub-paragraph substitute—
+
+> - (d) permitting the Regulator to authorise such persons, in such circumstances and under such arrangements, as the Regulator may determine, to exercise on behalf of the Regulator—
+>   - (i) the power to determine whether to exercise any of the functions listed in sub-paragraph (2) ;
+>   - (ii) the power to exercise any of the functions listed in sub-paragraph (2) or such other functions as may be prescribed.
+
+.
+
+(3) After that sub-paragraph insert—
+
+> (2) The functions mentioned in sub-paragraph (1)(d) are—
+>
+> - (a) the power to issue an improvement notice under Article 9;
+> - (b) the power to issue a third party notice under Article 10;
+> - (c) the power to recover unpaid contributions under Article 13;
+> - (d) the power to require information under Article 67;
+> - (e) the power to vary or revoke a determination, order, notice or direction under Article 96;
+> - (f) the power to require payment of a penalty under Article 10 of the 1995 Order;
+> - (g) the power to issue a compliance notice under section 35 of the Pensions (No. 2) Act (Northern Ireland) 2008;
+> - (h) the power to issue a third party compliance notice under section 36 of that Act;
+> - (i) the power to issue an unpaid contributions notice under section 37 of that Act;
+> - (j) the power to issue a fixed penalty notice under section 40 of that Act;
+> - (k) the power to issue an escalating penalty notice under section 41 of that Act;
+> - (l) the power to recover penalties under section 42 of that Act;
+> - (m) the power to review a notice under section 43 of that Act;
+> - (n) the power to issue a compliance notice in respect of prohibited recruitment conduct under section 51 of that Act;
+> - (o) the power to issue a penalty notice in respect of prohibited recruitment conduct under section 52 of that Act.
+
+.
+
+(4) Subsections (1) to (3)—
+
+- (a) do not affect any regulations made under paragraph 2(d) of Schedule 1 to the 2005 Order before the coming into operation of this section, and
+- (b) do not affect the powers conferred by that paragraph, so far as exercisable for the purpose of making, by way of consolidation, provision having the same effect as any provision of those regulations.

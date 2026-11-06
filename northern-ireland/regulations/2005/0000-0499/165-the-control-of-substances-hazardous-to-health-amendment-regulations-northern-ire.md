@@ -1,0 +1,236 @@
+---
+title: The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005
+id: nisr/2005/165
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-24'
+text_date: '2009-07-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/165
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/165/pdfs/nisr_20050165_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/165/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005
+
+> Text as at 2009-07-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 165
+
+HEALTH AND SAFETY
+
+The Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005
+
+Made
+
+24th March 2005
+
+Coming into operation –
+
+All regulations except regulations 3(a), (c) to (f) and (h) and 4(b)
+
+1st May 2005
+
+Regulations 3(a), (c) to (f) and (h) and 4(b)
+
+1st June 2005
+
+The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred by Articles 2(5), 17(1), (2), (4), (5) and (6), and 55(2) of, and paragraphs 1(1) and (4), 7, 8, 10, 13, 14, 15 and 19 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] and of every other power enabling it in that behalf and for the purpose under Article 46(1)[^f00004] of that Order of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland[^f00005] under Article 13(1A)[^f00006] of that Order after the carrying out by the said Executive of consultations in accordance with Article 46(3) of that Order, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-cc98aa17261718eb49922dfced785919]
+
+These Regulations may be cited as the Control of Substances Hazardous to Health (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 1st May 2005, except for regulations 3(a), (c) to (f) and (h), and 4(b) which shall come into operation on 1st June 2005.
+
+## 2. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^key-24910405da3f758bdf660641c1d373c5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003[^key-3500b94f002d21e5d4a88a36b70e3c3d][^key-4ca1c73dfeaef64f6e97fc0cfbb2d982]
+
+In the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003[^f00008] –
+
+- (a)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 2(1) –
+  - (i) the definition of “maximum exposure limit” shall be omitted;
+  - (ii) the definition of “occupational exposure standard” shall be omitted;
+  - (iii) after the definition of “the risk assessment” there shall be added the following definition –
+
+    > - “risk phrase” has the meaning assigned to it in regulation 2(1) of the CHIP Regulations;
+
+    ;
+  - (iv) in the definition of “substance hazardous to health”, in sub-paragraph (b), for the words “a maximum exposure limit or an occupational exposure standard” there shall be substituted the words “a workplace exposure limit”;
+  - (v) after the definition of “workplace” there shall be added the following definition –
+
+    > - “workplace exposure limit” for a substance hazardous to health means the exposure limit approved by the Executive for that substance in relation to the specified reference period when calculated by a method approved by the Executive, as contained in the Great Britain Health and Safety Executive publication “EH/40 Workplace Exposure Limits 2005” as updated from time to time.
+
+    ;
+- (b)[^key-4ca1c73dfeaef64f6e97fc0cfbb2d982] in regulation 3, for paragraph (3) there shall be substituted the following paragraph –
+
+  > (3) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which –
+  >
+  > - (a) are carried out solely by the crew under the direction of the master; and
+  > - (b) are not liable to expose persons other than the master and crew to a risk to their health and safety,
+  >
+  > and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
+
+  ;
+- (c)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 6(2)(f), for the words “occupational exposure standard, maximum exposure limit”, there shall be substituted the words “workplace exposure limit”;
+- (d)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 7 –
+  - (i) for paragraph (7), there shall be substituted the following paragraph –
+
+    > (7) Without prejudice to the generality of paragraph (1), where there is exposure to a substance hazardous to health, control of that exposure shall only be treated as adequate if –
+    >
+    > - (a) the principles of good practice for the control of exposure to substances hazardous to health set out in Schedule 2A are applied;
+    > - (b) any workplace exposure limit approved for that substance is not exceeded; and
+    > - (c) for a substance –
+    >   - (i) which carries the risk phrase R45, R46 or R49, or for a substance or process which is listed in Schedule 1, or
+    >   - (ii) which carries the risk phrase R42 or R42/43, or which is listed in section C of the Great Britain Health and Safety Executive publication “Asthmagen? Critical assessments of the evidence for agents implicated in occupational asthma”[^f00009] as updated from time to time, or any other substance which the risk assessment has shown to be a potential cause of occupational asthma,
+    >
+    >   exposure is reduced to as low a level as is reasonably practicable.
+
+    ; and
+  - (ii) paragraph (8) shall be omitted;
+- (e)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 9, for paragraph (1) there shall be substituted the following paragraph –
+
+  > (1) Every employer who provides any control measure to meet the requirements of regulation 7 shall ensure that –
+  >
+  > - (a) in the case of plant and equipment, including engineering controls and personal protective equipment, it is maintained in an efficient state, in efficient working order, in good repair and in a clean condition; and
+  > - (b) in the case of the provision of systems of work and supervision and of any other measure, it is reviewed at suitable intervals and revised if necessary.
+
+  ;
+- (f)[^key-3500b94f002d21e5d4a88a36b70e3c3d] in regulation 12(2) –
+  - (i) in sub-paragraph (a)(ii) for the words “occupational exposure standard, maximum exposure limit” there shall be substituted the words “workplace exposure limit”; and
+  - (ii) in sub-paragraph (d) for the words “maximum exposure limit”, in each place where they occur, there shall be substituted the words “workplace exposure limit”;
+- (g)[^key-4ca1c73dfeaef64f6e97fc0cfbb2d982] to the end of Schedule 2 there shall be added –
+  - (i) in column 1 the entry –
+
+    > **13.** Cement and cement-containing preparations which contain, when hydrated, more than 0·0002% soluble chromium (VI) of the total dry weight of the cement.
+
+    ; and
+  - (ii) to correspond with it in column 2 the entry –
+
+    > - Supply and use for all purposes except for controlled, closed and totally automated processes in which cement and cement-containing preparations are handled solely by machines and in which there is no possibility of contact with the skin.
+
+    ; and
+- (h)[^key-3500b94f002d21e5d4a88a36b70e3c3d] after Schedule 2 there shall be inserted the Schedule set out in the Schedule to these Regulations.
+
+## 4. Amendment of the Control of Lead at Work Regulations (Northern Ireland) 2003[^key-6ca6f2e61cccc5a1fa49ebd8f30d98ff][^key-4d9370f88d063ee524193062bb736717]
+
+In the Control of Lead at Work Regulations (Northern Ireland) 2003[^f00010] –
+
+- (a)[^key-6ca6f2e61cccc5a1fa49ebd8f30d98ff] in regulation 3, for paragraph (3) there shall be substituted the following paragraph –
+
+  > (3) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which –
+  >
+  > - (a) are carried out solely by the crew under the direction of the master; and
+  > - (b) are not liable to expose persons other than the master and crew to a risk to their health and safety,
+  >
+  > and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
+
+  ; and
+- (b)[^key-4d9370f88d063ee524193062bb736717] in regulation 8, for paragraph (1) there shall be substituted the following paragraph –
+
+  > (1) Every employer who provides any control measure to meet the requirements of regulation 6 shall ensure that –
+  >
+  > - (a) in the case of plant and equipment, including engineering controls and personal protective equipment, it is maintained in an efficient state, in efficient working order, in good repair and in a clean condition; and
+  > - (b) in the case of the provision of systems of work and supervision and any other measure, it is reviewed at suitable intervals and revised if necessary.
+
+  .
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 24th March 2005.
+
+Noel Lavery
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE[^key-f8c5d2c4c9fd87b07cf0e545733a42a6]
+
+Regulation 3(h)
+
+[^key-f8c5d2c4c9fd87b07cf0e545733a42a6]
+
+> **SCHEDULE 2A — PRINCIPLES OF GOOD PRACTICE FOR THE CONTROL OF EXPOSURE TO SUBSTANCES HAZARDOUS TO HEALTH**
+>
+> Regulation 7(7)
+>
+> - (a) Design and operate processes and activities to minimise emission, release and spread of substances hazardous to health.
+> - (b) Take into account all relevant routes of exposure – inhalation, skin absorption and ingestion – when developing control measures.
+> - (c) Control exposure by measures that are proportionate to the health risk.
+> - (d) Choose the most effective and reliable control options which minimise the escape and spread of substances hazardous to health.
+> - (e) Where adequate control of exposure cannot be achieved by other means, provide, in combination with other control measures, suitable personal protective equipment.
+> - (f) Check and review regularly all elements of control measures for their continuing effectiveness.
+> - (g) Inform and train all employees on the hazards and risks from the substances with which they work and the use of control measures developed to minimise the risks.
+> - (h) Ensure that the introduction of control measures does not increase the overall risk to health and safety.
+
+.
+
+(This note is not part of the Regulations.)
+
+**1.** These Regulations amend the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003 ([S.R. 2003 No. 34](https://www.legislation.gov.uk/nisr/2003/34)) (“the COSHH Regulations”), the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 ([S.R. 2002 No. 301](https://www.legislation.gov.uk/nisr/2002/301)) (“the CHIP Regulations”), and the Control of Lead at Work Regulations (Northern Ireland) 2003 ([S.R. 2003 No. 35](https://www.legislation.gov.uk/nisr/2003/35)) (“the CLAW Regulations”).
+
+**2.** The Regulations implement as respects Northern Ireland the provisions concerning chromium VI in cement contained in Directive [2003/53/EC](https://www.legislation.gov.uk/european/directive/2003/0053) of the European Parliament and of the Council (O.J. No. L178, 17.7.2003, p. 24) amending for the 26th time Council Directive [76/769/EEC](https://www.legislation.gov.uk/european/directive/1976/0769) by amending the COSHH Regulations to prohibit the supply and use of cement and cement-containing preparations containing when hydrated more than 0·0002% soluble chromium VI of the dry weight of the cement except in certain fully automated and enclosed processes (regulation 3(g)), and by amending the CHIP Regulations by adding a requirement to mark the packaging of cement whose chromium VI content would exceed that limit but for the use of reducing agents with information on how long and in which conditions those agents will remain effective (regulation 2).
+
+**3.** The Regulations further amend the COSHH Regulations by –
+
+- (a) excluding defined shipboard activities of ships' crews from their operation, except for Navy ships (regulation 3(b));
+- (b) replacing regulation 7(7) and (8) by substituting new requirements to observe principles of good practice for the control of exposure to substances hazardous to health introduced by Schedule 2A, to ensure that workplace exposure limits are not exceeded, and to ensure in respect of carcinogens and asthmagens that exposure is reduced to as low a level as is reasonably practicable (regulation 3(d)(i) and (h));
+- (c) introducing a single new workplace exposure limit for substances hazardous to health which replaces occupational exposure standards and maximum exposure limits (regulation 3(a), (c), (d) and (f)); and
+- (d) introducing a duty to review control measures other than the provision of plant and equipment, including systems of work and supervision, at suitable intervals (regulation 3(e)).
+
+**4.** The Regulations amend the CLAW Regulations by excluding defined shipboard activities of ships' crews, except for Navy ships, from their operation (regulation 4(a)), and by introducing a duty to review control measures other than the provision of plant and equipment, including systems of work and supervision, at suitable intervals (regulation 4(b)).
+
+**5.** Copies of the publications mentioned in the Regulations as follows –
+
+- (a) the Great Britain Health and Safety Executive publication “EH40/2005, Workplace Exposure Limits 2005”, which contains the list of workplace exposure limits which the Health and Safety Executive for Northern Ireland has approved for use in Northern Ireland; and
+- (b) “Asthmagen? Critical assessments of the evidence for agents implicated in occupational asthma”, HSE Books 1997; ISBN 0 7176 1465 4.
+
+are obtainable from HSE Books, PO Box 1999 Sudbury, Suffolk CO10 2WA.
+
+**6.** In Great Britain, the corresponding Regulations are the [Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004 No. 3386)](https://www.legislation.gov.uk/uksi/2004/3386). Copies of the Regulatory Impact Assessments relating to those Regulations, together with a Northern Ireland Supplement, are held at the offices of the Health and Safety Executive for Northern Ireland at 83 Ladas Drive, Belfast BT6 9FR from where copies may be obtained on request.
+
+**7.** A person who contravenes the Regulations is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5); that Department was formerly the Department of Manpower Services; *see* [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3
+
+[^f00002]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00003]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 47A was inserted by Article 3, and Article 2 was amended by Articles 4 and 8, of [S.I. 1997/1774 (N.I. 16)](https://www.legislation.gov.uk/nisi/1997/1774)
+
+[^f00004]: Footnote: Article 46 was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
+
+[^f00005]: Footnote: Formerly the Health and Safety Agency for Northern Ireland; *see* [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 3(1)
+
+[^f00006]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
+
+[^key-cc98aa17261718eb49922dfced785919]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+
+[^key-24910405da3f758bdf660641c1d373c5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/165/regulation/2) revoked (27.7.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/238)](https://www.legislation.gov.uk/nisr/2009/238), [regs. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1), [18](https://www.legislation.gov.uk/nisr/2009/238/regulation/18), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/I)
+
+[^key-3500b94f002d21e5d4a88a36b70e3c3d]: Commencement: [Reg. 3(a)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/a)[(c)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/c)[(d)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/d)[(e)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/e)[(f)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/f)[(h)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/h) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+
+[^key-4ca1c73dfeaef64f6e97fc0cfbb2d982]: Commencement: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/b)[(g)](https://www.legislation.gov.uk/nisr/2005/165/regulation/3/g) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+
+[^f00008]: Footnote: [S.R. 2003 No. 34](https://www.legislation.gov.uk/nisr/2003/34)
+
+[^f00009]: Footnote: HSE Books 1997 ISBN 0 7176 1465 4
+
+[^key-6ca6f2e61cccc5a1fa49ebd8f30d98ff]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2005/165/regulation/4/a) in operation at 1.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+
+[^key-4d9370f88d063ee524193062bb736717]: Commencement: [Reg. 4(b)](https://www.legislation.gov.uk/nisr/2005/165/regulation/4/b) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)
+
+[^f00010]: Footnote: [S.R. 2003 No. 35](https://www.legislation.gov.uk/nisr/2003/35)
+
+[^key-f8c5d2c4c9fd87b07cf0e545733a42a6]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/165/schedule) in operation at 1.6.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/165/regulation/1)

@@ -1,0 +1,116 @@
+---
+title: The Charges for Drugs and Appliances and Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2009
+id: nisr/2009/186
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-05-08'
+text_date: '2015-02-23'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/186
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/186/pdfs/nisrem_20090186_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/186/pdfs/nisr_20090186_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/186/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Charges for Drugs and Appliances and Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2009
+
+> Text as at 2015-02-23.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 186
+
+Health And Personal Social Services
+
+The Charges for Drugs and Appliances and Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2009
+
+Made
+
+8th May 2009
+
+Coming into operation
+
+9th May 2009
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 42, 98, 106 and 107(6) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002], in conjunction with the Department of Finance and Personnel insofar as they relate to the Provision of Health Services to Persons not Ordinarily Resident and with the approval of the Department of Finance and Personnel insofar as they relate to Charges for Drugs and Appliances.
+
+## 1. Citation, commencement and interpretation[^key-023f61ce1cea6061524127bbfae60fcc]
+
+(1) These Regulations may be cited as the Charges for Drugs and Appliances and Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2009 and shall come into operation on 9th May 2009.
+
+(2) In these Regulations—
+
+- (a) “the Charges for Drugs and Appliances Regulations” means the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^f00003];
+- (b) “the Provision of Health Services to Persons not Ordinarily Resident Regulations” means the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005[^f00004].
+
+## 2. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^M_F_643ba869-ff7e-4ade-9118-9cee9513530f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005[^key-af5a6b5cab36ee2198135769fb50ab4e][^key-5d3ff102f9c52c7149bf9398b4e44244]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 8th May 2009.
+
+Christine Jendoubi
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+Sealed with the Official Seal of the Department of Finance and Personnel insofar as the foregoing Regulations relate to the Provision of Health Services to Persons not Ordinarily Resident on 8th May 2009.
+
+Mary McIvor
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+The Department of Finance and Personnel hereby approves the foregoing Regulations insofar as they relate to Charges for Drugs and Appliances.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 8th May 2009.
+
+Mary McIvor
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend Regulations relating to the making and recovery of charges in relation to the supply of drugs and the provision of treatment as part of the health service in Northern Ireland, so as to enable the provision of treatment in relation to pandemic influenza without charge.
+
+Regulation 2 amends the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997 which make provision for charges for the supply of drugs and appliances under the Health and Personal Social Services (Northern Ireland) Order 1972. The amendment provides that no charge shall be made by the Regional Board or an HSC trust when there is a pandemic disease (such as pandemic influenza) which poses a serious risk, or potentially poses a serious risk, to human health (or such a disease is anticipated imminently) and the supply of the drug is in accordance with a protocol relating to that disease as provided for in Article 12F of the Prescription Only Medicines (Human Use) Order 1997 or Article 8 of the Medicines (Pharmacy and General Sale—Exemption) Order 1980.
+
+Regulation 3 amends the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005 (“the 2005 Regulations”) which make provision as to the entitlement of, and exemption from charges for, services forming part of health services which may be provided to visitors to Northern Ireland. Regulation 4(5)(d) of the 2005 Regulations provides that no charge shall be made in respect of services forming part of the health service that are provided for a visitor for treatment in respect of a disease listed in Schedule 1 to the 2005 Regulations. Regulation 3 of these Regulations amends that Schedule to insert an entry for pandemic influenza. The effect is that a visitor who is being treated in a hospital for pandemic influenza will be exempt from charges for any Health Service treatment in respect of that condition.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the private and voluntary sectors.
+
+## Annotations
+
+[^f00001]: Footnote: *See* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) relevant amending instruments are [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907) Article 14; [S.I. 1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023) Articles 5(1) and (2); [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229); [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) Article 7; [S.I 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Articles 31(1) and (2), 34 and Part II of Schedule 5; [S.I. 1992/2671 (N.I. 18)](https://www.legislation.gov.uk/nisi/1992/2671) Article 3; [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177) Article 29; [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3) section 48 and [2008 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2008/2)
+
+[^key-023f61ce1cea6061524127bbfae60fcc]: Commencement: Reg. 1 in operation at 9.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/186/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382) relevant amending instruments are [S.R. 1998 Nos. 94](https://www.legislation.gov.uk/nisr/1998/94) and [135](https://www.legislation.gov.uk/nisr/1998/135), [S.R. 1999 No. 166](https://www.legislation.gov.uk/nisr/1999/166); [S.R. 2000 No. 57](https://www.legislation.gov.uk/nisr/2000/57); [S.R. 2001 No. 123](https://www.legislation.gov.uk/nisr/2001/123), [S.R. 2002 No. 91](https://www.legislation.gov.uk/nisr/2002/91); [S.R. 2003 No. 153](https://www.legislation.gov.uk/nisr/2003/153), [S.R. 2004 No. 94](https://www.legislation.gov.uk/nisr/2004/94), [S.R. 2005 No.97](https://www.legislation.gov.uk/nisr/2005/97), [S.R. 2006 No.145](https://www.legislation.gov.uk/nisr/2006/145), [S.R. 2007 No. 140](https://www.legislation.gov.uk/nisr/2007/140) and [S.R. 2008 No. 488](https://www.legislation.gov.uk/nisr/2008/488)
+
+[^f00004]: Footnote: [S.R. 2005 No. 551](https://www.legislation.gov.uk/nisr/2005/551)
+
+[^M_F_643ba869-ff7e-4ade-9118-9cee9513530f]: Textual amendment: Reg. 2 revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010](https://www.legislation.gov.uk/nisr/2010/71/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1/made), [sch](https://www.legislation.gov.uk/nisr/2010/71/schedule/made)
+
+[^key-af5a6b5cab36ee2198135769fb50ab4e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/186/regulation/3) revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [regs. 1](https://www.legislation.gov.uk/nisr/2015/27/regulation/1), [27(c)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/c)
+
+[^key-5d3ff102f9c52c7149bf9398b4e44244]: Commencement: Reg. 3 in operation at 9.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/186/regulation/1/1)

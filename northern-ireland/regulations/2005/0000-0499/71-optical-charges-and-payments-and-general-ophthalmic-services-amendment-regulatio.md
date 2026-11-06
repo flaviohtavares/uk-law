@@ -1,0 +1,208 @@
+---
+title: Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2005
+id: nisr/2005/71
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-09'
+text_date: '2007-11-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/71
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/71/pdfs/nisr_20050071_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/71/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2005
+
+> Text as at 2007-11-09.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 71
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2005
+
+Made
+
+9th March 2005
+
+Coming into operation –
+
+Except for regulations 2 and 6
+
+1st April 2005
+
+Regulations 2 and 6
+
+6th April 2005
+
+The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 62, 98, 106 and 107(6) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, and after consultation with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians, as required by Article 62(3) of the said Order, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-c405751545c5a06b980aa66ecf63bcb3][^key-c405751545c5a06b980aa66ecf63bcb3]
+
+(1) These Regulations may be cited as the Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation –
+
+- (a) except for regulations 2 and 6 on 1st April 2005; and
+- (b) regulations 2 and 6 on 6th April 2005.
+
+(2) In these Regulations –
+
+- “the Optical Regulations” means the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997[^f00003];
+- “the Ophthalmic Regulations” means the Health and Personal Social Services (General Ophthalmic Services) Regulations (Northern Ireland) 1986[^f00004].
+
+## PART I — AMENDMENTS OF OPTICAL REGULATIONS
+
+### 2. Amendment of regulation 8 of the Optical Regulations[^key-7353f9f52cc0d576d4f8dbd1e43bbe10]
+
+In regulation 8(3)(k)(ii)[^f00005] of the Optical Regulations (eligibility – supply of optical appliances) for “£14,600” there shall be substituted “£15,050”.
+
+### 3. Amendment of regulation 19 of the Optical Regulations[^key-6a15f2acc29ad8ccd14f1113e977cc3d][^key-6a15f2acc29ad8ccd14f1113e977cc3d]
+
+In regulation 19 of the Optical Regulations (redemption value of voucher for replacement or repair) –
+
+- (a) in paragraph (1)(b) for “£46·80” there shall be substituted “£48·00”; and
+- (b) in paragraph (3) for “£12·10” there shall be substituted “£12·40”.
+
+### 4. Amendment of the Schedules to the Optical Regulations[^key-a4a412b89ff9f74e5114e9a66b1bcad4][^key-a4a412b89ff9f74e5114e9a66b1bcad4]
+
+(1) In Schedule 1 to the Optical Regulations (voucher letter codes and face values – supply and replacement)[^f00006], in column 3 (face value of voucher), for each amount specified in column 1 of the Table below (old amount) there shall be substituted the amount specified in relation to it in column 2 of that Table (new amount).
+
+TABLE
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th>Old amount</th><th>New amount</th></tr>
+</thead>
+<tbody>
+<tr><td>£32·10</td><td>£32·90</td></tr>
+<tr><td>£48·80</td><td>£50·00</td></tr>
+<tr><td>£71·30</td><td>£73·10</td></tr>
+<tr><td>£161·00</td><td>£165·00</td></tr>
+<tr><td>£55·40</td><td>£56·80</td></tr>
+<tr><td>£70·40</td><td>£72·20</td></tr>
+<tr><td>£91·30</td><td>£93·60</td></tr>
+<tr><td>£177·00</td><td>£181·40</td></tr>
+<tr><td>£164·90</td><td>£169·00</td></tr>
+<tr><td>£46·80</td><td>£48·00</td></tr>
+</tbody>
+</table>
+
+(2) In Schedule 2 to the Optical Regulations (prisms, tints, photochromic lenses, small and special glasses and complex appliances) –
+
+- (a) in paragraph 1(1)(a) (prism – single vision lens) for “£10·40” there shall be substituted “£10·70”;
+- (b) in paragraph 1(1)(b) (prism – other lens) for “£12·50” there shall be substituted “£12·80”;
+- (c) in paragraph 1(1)(c) (single vision tinted lens) for “£3·50” there shall be substituted “£3·60”;
+- (d) in paragraph 1(1)(d) (other tinted lens) for “£4·00” there shall be substituted “£4·10”;
+- (e) in paragraph 1(1)(e) (small glasses) –
+  - (i) in sub-head (i) for “£52·80” there shall be substituted “£54·10”;
+  - (ii) in sub-head (ii) for “£46·80” there shall be substituted “£48·00”; and
+  - (iii) in sub-head (iii) for “£25·40” there shall be substituted “£26·00”;
+- (f) in paragraph 1(1)(g) (specially manufactured frames) for “£52·80” there shall be substituted “£54·10”;
+- (g) in paragraph 2(a) (minimum complex appliance payment – single vision lenses) for “£12·10” there shall be substituted “£12·40”; and
+- (h) in paragraph 2(b) (minimum complex appliance payment – other cases) for “£30·50” there shall be substituted “£31·30”.
+
+(3) For Schedule 3 to the Optical Regulations (voucher values – repair)[^f00007], there shall be substituted the Schedule 3 set out in the Schedule.
+
+### 5. Application of Regulations 3 and 4[^key-b92e494d6e608d0d97618da3fabd02e1][^key-b92e494d6e608d0d97618da3fabd02e1]
+
+The amendments made in regulations 3 and 4 apply only in relation to a voucher accepted or used pursuant to regulation 12 or regulation 17 of the Optical Regulations on or after 1st April 2005.
+
+## PART II — AMENDMENT OF OPHTHALMIC REGULATIONS
+
+### 6. Amendment of regulation 15 of the Ophthalmic Regulations[^key-576bd75b85fac5ff892b5de7d3f0f1fe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 9th March 2005.
+
+Deirdre Kenny
+
+Senior Officer of the
+
+Department of Health, Social Services and Public Safety
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 9th March 2005.
+
+Dr. Mary McIvor
+
+Senior Officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE — TO THE OPTICAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^key-7af50a46cf82cff0ba79cab14668680b][^key-7af50a46cf82cff0ba79cab14668680b]
+
+Regulation 4(3)
+
+> **SCHEDULE 3 — Voucher Value – Repair**
+>
+> Regulation 19(2) and (3)
+>
+> <table>
+> <thead>
+> <tr><th></th><th colspan="9">Letter Codes – Values</th></tr>
+> <tr><th>Nature of repair</th><th><em>A</em></th><th><em>B</em></th><th><em>C</em></th><th><em>D</em></th><th><em>E</em></th><th><em>F</em></th><th><em>G</em></th><th><em>H</em></th><th><em>I</em></th></tr>
+> <tr><th></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th><th><em>£</em></th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Repair or replacement of one lens</td><td>10·25</td><td>18·80</td><td>30·35</td><td>76·30</td><td>22·20</td><td>29·90</td><td>40·60</td><td>84·50</td><td>78·30</td></tr>
+> <tr><td>Repair or replacement of 2 lenses</td><td>20·50</td><td>37·60</td><td>60·70</td><td>152·60</td><td>44·40</td><td>59·80</td><td>81·20</td><td>169·00</td><td>156·60</td></tr>
+> <tr><td>Repair or replacement of:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+> <tr><td>the front of a frame</td><td>10·50</td><td>10·50</td><td>10·50</td><td>10·50</td><td>10·50</td><td>10·50</td><td>10·50</td><td>10·50</td><td>10·50</td></tr>
+> <tr><td>a side of a frame</td><td>6·25</td><td>6·25</td><td>6·25</td><td>6·25</td><td>6·25</td><td>6·25</td><td>6·25</td><td>6·25</td><td>6·25</td></tr>
+> <tr><td>the whole frame</td><td>12·40</td><td>12·40</td><td>12·40</td><td>12·40</td><td>12·40</td><td>12·40</td><td>12·40</td><td>12·40</td><td>12·40</td></tr>
+> </tbody>
+> </table>
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Optical Charges and Payments Regulations (Northern Ireland) 1997 (“the optical Regulations”) which provide for payments to be made, by means of a voucher system, in respect of costs incurred by certain categories of persons in connection with the supply, replacement and repair of optical appliances. The Regulations also amend the General Ophthalmic Services Regulations (Northern Ireland) 1986 (“the ophthalmic Regulations”) which provide for the arrangements under which ophthalmic medical practitioners and ophthalmic opticians provide General Ophthalmic Services.
+
+Regulation 2 amends regulation 8 of the optical Regulations to increase the income level at which recipients of tax credits are entitled to health service optical vouchers.
+
+Regulation 3 amends regulation 19 of the optical Regulations to increase the redemption value of a voucher issued towards the cost of replacement of a single contact lens and to increase the maximum contribution by way of a voucher to the cost of repair of a frame.
+
+Regulation 4 and the Schedule amend the Schedules to the optical Regulations. Firstly, the value of vouchers issued towards the costs of the supply and replacement of glasses and contact lenses is increased; secondly, the additional values for vouchers for prisms, tints, photochromic lenses and special categories of appliances are increased; and thirdly, the value of vouchers issued towards the cost of the repair and replacement of optical appliances is increased.
+
+Regulation 5 provides that the increases contained in regulations 3 and 4 only apply in relation to vouchers accepted or used on or after 1st April 2005.
+
+Regulation 6 amends regulation 15 of the ophthalmic Regulations to increase the income level used in determining eligibility for free health service sight tests for recipients of tax credits.
+
+## Annotations
+
+[^f00001]: Footnote: *See* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by Article 3(2) of, and paragraph 3 of Schedule 1 to, the Health and Social Security (Northern Ireland) Order 1984 ([S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158)); paragraphs 4 and 5 of Article 8 of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 34 of, and Part II of Schedule 5 to, the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) there are other amendments which are not relevant
+
+[^key-c405751545c5a06b980aa66ecf63bcb3]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/71/regulation/1/1/a)
+
+[^f00003]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191); relevant amending Regulations are [S.R. 1999 Nos. 111](https://www.legislation.gov.uk/nisr/1999/111) and [394](https://www.legislation.gov.uk/nisr/1999/394), [S.R. 2000 No. 51](https://www.legislation.gov.uk/nisr/2000/51), [S.R. 2001 No. 133](https://www.legislation.gov.uk/nisr/2001/133), [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85), [S.R. 2003 Nos. 176](https://www.legislation.gov.uk/nisr/2003/176) and [424](https://www.legislation.gov.uk/nisr/2003/424) and [S.R. 2004 Nos. 92](https://www.legislation.gov.uk/nisr/2004/92), [113](https://www.legislation.gov.uk/nisr/2004/113), [162](https://www.legislation.gov.uk/nisr/2004/162) and [188](https://www.legislation.gov.uk/nisr/2004/188)
+
+[^f00004]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163); relevant amending Regulations are [S.R. 1989 No. 113](https://www.legislation.gov.uk/nisr/1989/113), [S.R. 1995 No. 115](https://www.legislation.gov.uk/nisr/1995/115), [S.R. 1996 No. 416](https://www.legislation.gov.uk/nisr/1996/416), [S.R. 1999 Nos. 112](https://www.legislation.gov.uk/nisr/1999/112) and [394](https://www.legislation.gov.uk/nisr/1999/394), [S.R. 2001 No. 339](https://www.legislation.gov.uk/nisr/2001/339), [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85), [S.R. 2003 Nos. 176](https://www.legislation.gov.uk/nisr/2003/176) and [424](https://www.legislation.gov.uk/nisr/2003/424) and [S.R. 2004 Nos. 92](https://www.legislation.gov.uk/nisr/2004/92), [113](https://www.legislation.gov.uk/nisr/2004/113), [162](https://www.legislation.gov.uk/nisr/2004/162) and [156](https://www.legislation.gov.uk/nisr/2004/156)
+
+[^key-7353f9f52cc0d576d4f8dbd1e43bbe10]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/71/regulation/1/1/b)
+
+[^f00005]: Footnote: Regulation 8(3)(k)(ii) was added by [S.R. 2003 No. 176](https://www.legislation.gov.uk/nisr/2003/176) and amended by [S.R. 2004 No. 92](https://www.legislation.gov.uk/nisr/2004/92)
+
+[^key-6a15f2acc29ad8ccd14f1113e977cc3d]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/71/regulation/1/1/a)
+
+[^key-a4a412b89ff9f74e5114e9a66b1bcad4]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/71/regulation/1/1/a)
+
+[^f00006]: Footnote: Schedule 1 is substituted by the Schedule to [S.R. 1999 No. 111](https://www.legislation.gov.uk/nisr/1999/111) and amended by [S.R. 2004 No. 92](https://www.legislation.gov.uk/nisr/2004/92)
+
+[^f00007]: Footnote: Schedule 3 is substituted by the Schedule to [S.R. 2004 No. 92](https://www.legislation.gov.uk/nisr/2004/92)
+
+[^key-b92e494d6e608d0d97618da3fabd02e1]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/71/regulation/1/1/a)
+
+[^key-576bd75b85fac5ff892b5de7d3f0f1fe]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/71/regulation/6) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+
+[^key-7af50a46cf82cff0ba79cab14668680b]: Commencement: Sch. in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/71/regulation/1/1/a)

@@ -1,0 +1,48 @@
+---
+title: The Employment Rights (Northern Ireland) Order 1996, section 132
+act: The Employment Rights (Northern Ireland) Order 1996
+section: '132'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisi/1996/1919/section/132
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Rights (Northern Ireland) Order 1996, section 132
+
+> **Warning: changes not yet applied to this text (68).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/nisi/1996/1919
+>
+> Extent: Northern Ireland.
+
+## 132. Health and safety cases[^c20508511]
+
+*Extent: N.I.*
+
+(1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that—
+
+- (a) having been designated by the employer to carry out activities in connection with preventing or reducing risks to health and safety at work, the employee carried out (or proposed to carry out) any such activities,
+- (b) being a representative of workers on matters of health and safety at work or member of a safety committee—
+  - (i) in accordance with arrangements established under or by virtue of any statutory provision, or
+  - (ii) by reason of being acknowledged as such by the employer,
+
+  the employee performed (or proposed to perform) any functions as such a representative or a member of such a committee,
+- (ba)[^c17624361] the employee took part (or proposed to take part) in consultation with the employer pursuant to the Health and Safety (Consultation with Employees) Regulations (Northern Ireland) 1996 or in an election of representives of employees safety within the meaning of those Regulations (whether as a candidate or otherwise),
+- (c) being an employee at a place where—
+  - (i) there was no such representative or safety committee, or
+  - (ii) there was such a representative or safety committee but it was not reasonably practicable for the employee to raise the matter by those means,
+
+  he brought to his employer's attention, by reasonable means, circumstances connected with his work which he reasonably believed were harmful or potentially harmful to health or safety,
+- (d) in circumstances of danger which the employee reasonably believed to be serious and imminent and which he could not reasonably have been expected to avert, he left (or proposed to leave) or (while the danger persisted) refused to return to his place of work or any dangerous part of his place of work, or
+- (e) in circumstances of danger which the employee reasonably believed to be serious and imminent, he took (or proposed to take) appropriate steps to protect himself or other persons from the danger.
+
+(2) For the purposes of paragraph (1)(e) whether steps which an employee took (or proposed to take) were appropriate is to be judged by reference to all the circumstances including, in particular, his knowledge and the facilities and advice available to him at the time.
+
+(3) Where the reason (or, if more than one, the principal reason) for the dismissal of an employee is that specified in paragraph (1)(e), he shall not be regarded as unfairly dismissed if the employer shows that it was (or would have been) so negligent for the employee to take the steps which he took (or proposed to take) that a reasonable employer might have dismissed him for taking (or proposing to take) them.
+
+## Annotations
+
+[^c20508511]: Editorial: The insertion of the new arts. 130ZA-130ZH preceded by new "Retirement" crossheading and followed by new "Other Dismissals" crossheading on 1.10.2006 gives rise to a change in the structure of this Order on legislation.gov.uk which breaks the continuity of historical versions of the existing provisions which are brought under new "Other Dismissals" crossheading
+
+[^c17624361]: Textual amendment: SR 1996/511

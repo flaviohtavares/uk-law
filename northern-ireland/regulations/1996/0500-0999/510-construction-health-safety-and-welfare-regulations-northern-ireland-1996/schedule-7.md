@@ -1,0 +1,31 @@
+---
+title: Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996, SCHEDULE 7
+act: Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996
+section: schedule-7
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1996/510/schedule/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996, SCHEDULE 7
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 7 — Places of work requiring inspection
+
+Regulation 28(1)
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th><em>Place of work</em></th><th><em>Time of Inspection</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1. Any working platform or part thereof or any personal suspension equipment provided pursuant to regulation 6(3)(<em>b</em>) or (<em>c</em>).</td><td>1. (i) Before being taken into use for the first time; and<br>(ii) after any substantial addition, dismantling or other alteration; and<br>(iii) after any event likely to have affected its strength or stability; and<br>(iv) at regular intervals not exceeding 7 days since the last inspection.</td></tr>
+<tr><td>2. Any excavation which is supported pursuant to regulation 12(1), (2) or (3).</td><td>2. (i) Before any person carries out work at the start of every shift; and<br>(ii) after any event likely to have affected the strength or stability of the excavation or any part thereof; and<br>(iii) after any accidental fall of rock or earth or other material.</td></tr>
+<tr><td>3. Cofferdams and caissons</td><td>3. (i) Before any person carries out work at the start of every shift; and<br>(ii) after any event likely to have affected the strength or stability of the cofferdam or caisson or any part thereof.</td></tr>
+</tbody>
+</table>

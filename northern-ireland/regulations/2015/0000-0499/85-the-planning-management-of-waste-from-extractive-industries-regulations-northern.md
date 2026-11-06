@@ -1,0 +1,758 @@
+---
+title: The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015
+id: nisr/2015/85
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-02-26'
+text_date: '2025-02-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/85
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/85/pdfs/nisrem_20150085_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/85/pdfs/nisr_20150085_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/85/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015
+
+> Text as at 2025-02-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 85
+
+Planning
+
+The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015
+
+Made
+
+26th February 2015
+
+Coming into operation
+
+1st April 2015
+
+The Department of the Environment being a designated [^c22421921] Department for the purposes of section 2(2) of the European Communities Act 1972 [^c22421931] in relation to the environment makes the following Regulations in exercise of the powers conferred by that section.
+
+## PART 1 — INTRODUCTORY PROVISIONS
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015 and shall come into operation on 1st April 2015.
+
+### 2. Interpretation
+
+(1) The Interpretation Act (Northern Ireland) 1954 [^c22421941] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(2) In these Regulations—
+
+- “**the 2011 Act**” means the Planning Act (Northern Ireland) 2011 [^c22421951];
+- “best available techniques” has the same meaning as in Article 3(10) of Council[^M_F_e8d217c9-f757-40ff-ec26-26cbff22bfb0] [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) of 24 November 2010 as it had effect immediately before exit day;
+- “**Category A waste facility**” means a facility so classified in Schedule 3;
+- “**competent person**” means a person with sufficient training, experience, knowledge and other qualities to enable that person to undertake the duties assigned to them relative to these Regulations;
+- “**council**” means district council;
+- “**dam**” means an engineered structure designed to retain or confine either water or waste or both within a pond;
+- “**dangerous substance**” means a substance, mixture or preparation which is dangerous within the meaning of Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) [^c22421971];
+- ″the Department″ means the Department for Infrastructure;[^key-bf46e9181b44d668aca215fb1545ec97]
+- “**the Directive**” means Council Directive [2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) [^c22421981] of 15th March 2006 on the management of waste from extractive industries and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) [^c22421991] as it had effect immediately before exit day[^M_F_bcdb8158-9d88-4d3d-902d-fb9520e60544];
+- [^M_F_cd47f6d6-0ba7-4fc4-db40-c6bdfb61c056]...
+- “**Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118)**” means Council Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) [^c22422011] of 22nd<sup></sup>December 2013 on the protection of groundwater against pollution and deterioration as it had effect immediately before exit day[^M_F_02b42e65-a06b-4cc7-a86c-8ee7abea6271];
+- “**Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)**” means Council Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) [^c22422021] of 19th November 2008 on hazardous waste as it had effect immediately before exit day[^M_F_6a6c4691-b0af-4c03-d6bd-98b1c3e9b647];
+- “**Directive 2012/18/EU**” means Council Directive 2012/18/EU [^c22422031] of 4th July 2012 on the control of major accident hazards involving dangerous substances as it had effect immediately before exit day[^M_F_1b9cb212-5da5-4c3f-a6df-6f303ff31740];
+- [^M_F_cbbce1c7-db11-4e42-ece9-3b419653b7cb]...
+- [^M_F_a669d3f1-8ea2-470a-e089-5eda38d12e21]...
+- “**Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)**” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) [^c22422061] of the European Parliament and of the Council of 23rd October 2000 establishing a framework for community action in the field of water policy as it had effect immediately before exit day[^M_F_b67f79e9-ef93-4896-940e-b5900dad1a80];
+- “**EIA development**” has the same meaning as in the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015 [^c22422071];
+- “**extractive waste**” means waste produced from an extractive industry and resulting from the prospecting, winning, working, treatment and storage of minerals but does not include the following—
+  - (a) waste which is generated by the prospecting, winning, working and treatment of minerals but which does not directly result from those operations;
+  - (b) waste resulting from the offshore prospecting, winning, working and treatment of minerals; or
+  - (c) the injection of water and re–injection of pumped groundwater as defined in the first and second indents of Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), to the extent authorised by any law implementing[^M_F_c5617bfe-dfa1-4f94-fccd-70a0a15a5fa2] that Article;
+- “**extractive waste site**” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension, for the following time periods—
+  - (a) a period of six months or less for sites for hazardous waste generated unexpectedly;
+  - (b) a period of one year or less for sites for non–hazardous, non inert waste;
+  - (c) a period of three years or less for sites for polluted soil, non–hazardous waste resulting from the prospecting, winning of minerals, waste resulting from the working, treatment and storage of peat and inert waste;
+
+  but does not include any area which falls within a waste facility; and such a site is deemed to include—
+
+  - (i) any dam or other structure serving to contain, retain, confine or otherwise support the extractive waste site;
+  - (ii) (but not to be limited to), heaps and ponds;
+
+  but excludes excavation voids into which waste is replaced, after extraction of the mineral, for rehabilitation and construction purposes;
+- “**financial guarantee**” means the guarantee required by regulation 8;
+- “**hazardous waste**” has the meaning given to it in Article 3(2) of Council Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+- “**heap**” means an engineered facility for the deposit of solid waste on the surface;
+- “**inert waste**” means waste which satisfies the following requirements—
+  - (a) it does not undergo any significant physical, chemical or biological transformations;
+  - (b) it does not dissolve, burn or otherwise physically or chemically react, biodegrade or adversely affect other matter with which it comes into contact in a way likely to give rise to environmental pollution or harm human health;
+  - (c) the total leachability and pollutant content of the waste is insignificant, in particular not such as to endanger the quality of either surface water or underground water or both; and
+  - (d) the ecotoxicity of the leachate is insignificant, in particular not such as to endanger the quality of either surface water or groundwater or both;
+- “**leachate**” means any liquid percolating through the deposited waste and emitted from or contained within an extractive waste site or waste facility, including polluted drainage, which may adversely affect the environment if not appropriately treated;
+- “**major accident**” means an occurrence on–site in the course of an operation involving the management of extractive waste in any establishment covered by these Regulations, leading to a serious danger to either human health or the environment or both, whether immediately or over time, on–site or off–site;
+- “**major development**” shall be construed in accordance with the Planning (Development Management) Regulations (Northern Ireland) 2015 [^c22422081];
+- “Member State” shall be construed in accordance with Schedule 1 to the Interpretation Act 1978;[^M_F_1c5fff47-ffdc-49c6-8a34-98471f52117a]
+- “**minerals**” includes all minerals and substances in or under land of a kind ordinarily worked for removal by underground or surface working, except that it does not include turf cut for purposes other than sale;
+- “**mining operations**” has the same meaning as in section 250(1) of the 2011 Act (Interpretation);
+- “**offshore**” means that area of the sea and seabed extending from the low water mark of ordinary or medium tides outwards;
+- “**operator**” means the person who is or will be responsible for the management of extractive waste, including in respect of temporary storage of extractive waste as well as the operational and after-closure phases;
+- “**outline planning permission**” has the same meaning as in section 62(1) of the 2011 Act (Duration of planning permission);
+- “**planning permission**” means permission under Part 3 of the 2011 Act;
+- “**pond**” means a natural or engineered facility for disposing of fine grained waste, normally tailings, along with varying amounts of free water, resulting from the treatment of minerals and from the clearing and recycling of process water;
+- “**prospecting**” means the search for mineral deposits of economic value, including sampling, bulk sampling, drilling and trenching, but excluding any works required for the development of such deposits, and any activities directly associated with an existing extractive operation;
+- “**the public**” means one or more natural or legal persons and associations, organisations or groups made up of such persons;
+- “**the public concerned**” means the public affected or likely to be affected by, or having an interest in, the environmental decision–making under Parts 3 or 5 and non–governmental organisations promoting environmental protection and meeting any requirements under national legislation are deemed to have such an interest;
+- “**receiving body of water**” means surface waters, groundwater, transitional waters and coastal waters as defined in Article 2(1), (2), (6) and (7) of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060);
+- “**Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272)**” means Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of 16th December 2008 on classification, labelling and packaging of substances and mixtures as amended from time to time[^M_F_b2f80640-0d07-46b7-8743-2d78228b9e66];
+- “**rehabilitation**” means the treatment of the land affected by a waste facility in such a way as to restore the land to a satisfactory state, with particular regard to soil quality, wildlife, natural habitats, freshwater systems, landscape and appropriate beneficial uses;
+- “**relevant development**” means development comprising mining operations involving the management of extractive waste;
+- “**substantial change**” means a change in the structure or operation of a waste facility that, in the opinion of the council or, as the case may be, the Department may have significant negative effects on human health or the environment or both;
+- “**tailings**” means the waste solids or slurries that remain after the treatment of minerals by separation process (e.g. crushing, grinding, size–sorting, flotation and other physico–chemical techniques) to remove the valuable minerals from the less valuable rock;
+- “**treatment**” means the mechanical, physical, biological, thermal or chemical process, or combination of processes, carried out on extracted material, with a view to extracting the mineral, including size change, classification, separation and leaching, and the re–processing of previously discarded waste, but excluding smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes;
+- “**unpolluted soil**” means soil that is removed from the upper layer of the ground during extractive activities and that is not “deemed to be polluted under national legislation or[^M_F_7d729474-cc40-4563-bd3b-a85944fb7c75] assimilated[^key-7e4101d4a45cb486af5e47044e5fecca] law”;
+- “**waste**” means anything that is waste for the purposes of Council Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste;
+- “**waste facility**” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension, for the following time periods—
+  - (a) no time period for Category A waste facilities and facilities for waste characterised as hazardous in the waste management plan;
+  - (b) six months for facilities for hazardous waste generated unexpectedly;
+  - (c) one year for facilities for non–hazardous, non–inert waste;
+  - (d) three years for facilities for unpolluted soil, non–hazardous waste resulting from the prospecting, winning of minerals, waste resulting from the working, treatment and storage of peat and inert waste;
+
+  and such a facility is deemed to include any dam or other structure serving to contain, retain, confine or otherwise support the facility but not to be limited to, heaps and ponds, but excludes excavation voids into which waste is replaced, after extraction of the mineral, for rehabilitation and construction purposes;
+- “**waste management plan**” has the meaning given by regulation 6; and
+- “**weak acid dissociable cyanide**” means cyanide and cyanide compounds that are dissociated with a weak acid at a defined pH.
+
+(3) Notwithstanding paragraph (2), expressions used in these Regulations and in the Directive and not otherwise defined in these Regulations shall, unless the context otherwise requires, have the same meaning for the purposes of these Regulations as they have for the purposes of the Directive.
+
+### 3. Applications for planning permission
+
+(1) These Regulations apply to applications for planning permission for relevant development.
+
+(2) Where an application is one to which section 26 of the 2011 Act (Department's jurisdiction in relation to developments of regional significance) applies or which has been referred to the Department under section 29 of the 2011 Act (Call in of applications, etc., to Department) these Regulations shall be construed as if references to the council were references to the Department.
+
+## PART 2 — GENERAL PROVISIONS
+
+### 4. Prohibition on the grant of planning permission or deemed grant of planning permission for relevant development without prior approval of a waste management plan and conditions on such permission
+
+(1) Subject to regulation 5—
+
+- (a) planning permission for relevant development shall not be granted unless a waste management plan has been submitted to and approved by the council in accordance with regulations 6 and 7;
+- (b) every planning permission granted for relevant development in respect of a waste facility shall be subject to the conditions of regulations 8 to 12;
+- (c) every planning permission to which sub-paragraph (b) applies and which involves a Category A waste facility shall be subject to the conditions referred to in those respective sub-paragraphs, as applicable, and shall also be subject to the conditions of regulation 13; and
+- (d) every application for planning permission to which sub-paragraph (c) applies shall be accompanied by such information as is necessary to enable the council to draw up an external emergency plan in accordance with regulation 19.
+
+(2) If planning permission for relevant development is granted without the conditions required by these Regulations, as appropriate, it shall be deemed to have been granted subject to such conditions.
+
+### 5. Exemptions, reductions and waiver
+
+(1) Nothing in these Regulations shall apply to relevant development carried out in extractive waste sites or in waste facilities which closed on or before 1st May 2008 and which remain closed.
+
+(2)[^key-623ae35d0f1c8c99634f73144ac5e261] Regulation 4(1)(d) shall not apply to those waste facilities which fall within the scope of [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018)
+
+(3) The requirement of regulation 6 and the conditions of regulations 8, 11 to13, and 18 shall not apply to mining operations in facilities which—
+
+- (a) stopped accepting waste before 1st May 2006;
+- (b) have completed closure procedures approved by the Department; and
+- (c) have been effectively closed since 31st December 2010.
+
+(4) The requirement of regulation 6 and the conditions of regulations 8, 9(1)(d)(ii) and (iii), 9(1)(g) and (h), 9(3), 10(4) and (5), 11, 12, and 19(1) shall not apply to relevant development where the extractive waste is—
+
+- (a) inert waste or unpolluted soil resulting from the winning, working, treatment and storage of minerals and the working of quarries; or
+- (b) where the extractive waste is waste resulting from the working, treatment and storage of peat;
+
+unless deposited in a Category A waste facility.
+
+(5) For non-hazardous, non-inert extractive waste the council may reduce or waive the conditions of regulations 8, 9(1)(d)(ii) and (iii), 9(3), 10(4) and (5), 12(b), (e) and (f), and 19(1), unless deposited in a Category A waste facility.
+
+(6) The council or, as the case may be, the Department may reduce or waive the requirement of regulation 6 and the conditions in these Regulations where the extractive waste is—
+
+- (a) non-hazardous waste generated from the winning of minerals, except oil and evaporates other than gypsum and anhydrite;
+- (b) unpolluted soil; or
+- (c) other waste resulting from the working, treatment and storage of peat;
+
+and it is satisfied that such extractive waste will be managed using best available techniques without endangering human health and without using processes or methods which could harm the environment, and in particular without—
+
+- (i) risk to water, air, soil and fauna and flora,
+- (ii) causing a nuisance through noise or odours,
+- (iii) adversely affecting the landscape or places of special interest, and
+- (iv) resulting in the abandonment, dumping or uncontrolled depositing of extractive waste.
+
+(7) From the date on which these Regulations come into force until 30th April 2018, regulation 10(4)(b) shall apply to a planning permission mentioned in regulation 24 as if, for “10 parts per million” there were substituted “ 25 parts per million ”.
+
+(8) The conditions of regulation 10(1)(b) and (c) may be reduced or waived by the council where it is satisfied, having assessed the environmental risks, taking into account in particular and as applicable any law implementing Directives[^key-3e298086e4e53bbf1dd7487f88daa4da] [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) or [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), that—
+
+- (a) the collection and treatment of leachate is not necessary; or
+- (b) it has been established that the waste facility poses no potential hazard to soil, groundwater or surface water.
+
+## PART 3 — WASTE MANAGEMENT PLAN
+
+### 6. Preparation and submission of a waste management plan
+
+(1) A plan for the minimisation, treatment, recovery and disposal of extractive waste which takes account of the principle of sustainable development (a “waste management plan”) shall be submitted to the council.
+
+(2) The waste management plan shall satisfy the objectives in Schedule 1 and shall include the following information—
+
+- (a) the identity of the operator;
+- (b) the actual, or proposed location of the extractive waste site or waste facility, including in respect of a waste facility any possible alternative locations;
+- (c) sufficient information and identification to enable the council to evaluate the operator's ability to meet the objectives of the waste management plan, as detailed in Schedule 1, and explaining in particular how the option and method chosen as detailed in paragraph 1(a) of Schedule 1 will fulfil those objectives;
+- (d) the class, in accordance with paragraph 3, into which the operator considers the site or facility falls, with appropriate assessment to allow the council to consider whether it agrees with that classification, including an identification of possible accident hazards;
+- (e) waste characterisation in accordance with Schedule 2 and a statement of the estimated total quantities of extractive waste to be produced during the operational phase;
+- (f) a description of the operation generating such waste and of any subsequent treatment to which it is subject;
+- (g) a description of how the environment and human health may be adversely affected by the deposit of such waste and the preventative measures to be taken in order to minimise environmental impact during operation and after-closure, including the aspects referred to in regulation 9(1)(a) to (c), (d)(i), (e) and (f) and 9(2);
+- (h) whether or not the operator intends to place extractive waste into excavation voids for rehabilitation and construction purposes (whether the voids were created through surface or underground extraction) and, if such placing is intended, details of the proposed control and monitoring procedures—
+  - (i) to secure the stability of the extractive waste in accordance with regulation 9(1)(a) to (c), (d)(i), (e) and (f) and 9(2), and
+  - (ii) to prevent the pollution of soil, surface water and groundwater in accordance with regulations 10(1)(a) to (c) and 10(3);
+- (i) the proposed plan for closure, including rehabilitation, after-closure procedures and monitoring as provided for in regulations 11 and 12;
+- (j) measures for prevention of water status deterioration in accordance with any law that implements[^key-0ee06c4eba3782d6f6678f4bdd823d55] Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) and for the prevention or minimisation of air and soil pollution in accordance with regulation 10;
+- (k) if classified as a waste facility, a survey of the condition of the land affected or to be affected by it.
+
+(3) The options for the proposed classification are—
+
+- (a) an extractive waste site;
+- (b) a waste facility; or
+- (c) a Category A waste facility (in accordance with Schedule 3).
+
+(4) Where the facility is classified as a Category A waste facility, the waste management plan shall include a document demonstrating that a major accident prevention policy, a safety management system for implementing that policy and an internal emergency plan, all as described in regulation 13, are in effect or will be put into effect in accordance with that regulation prior to the commencement of operations.
+
+(5) The waste management plan shall be reviewed and amended as appropriate and submitted to the council no later than the fifth year after the date on which the planning permission was granted or the plan was approved, as the case may be, and thereafter no later than every fifth year following the date of the last review.
+
+(6) The waste management plan shall, in the event of substantial changes to the operation of the waste facility or to the waste deposited, be amended as appropriate and any such amendments shall be submitted to the council.
+
+### 7. Consideration and approval of a waste management plan
+
+(1) Where a waste management plan is submitted to the council the council shall—
+
+- (a) publish notice of the waste management plan in at least one newspaper circulating in the locality in which the land to which the plan relates is situated;
+- (b) where it maintains a website for the purpose of advertisement of applications for planning permission, publish the notice on that website;
+- (c) await the expiration of 14 days from the date on which the notice is first published in a newspaper in pursuance of sub-paragraph (a) or is first published on the website in pursuance of sub-paragraph (b), whichever is the later, before it considers whether or not to approve the waste management plan; and
+- (d) consult the public concerned and, in considering whether or not to approve the waste management plan, shall take into account any comments made by the public concerned.
+
+(2) The council may—
+
+- (a) refuse a waste management plan; or
+- (b) approve a waste management plan;
+
+but it may not approve a waste management plan unless it is satisfied that—
+
+- (i) the objectives of the waste management plan will be met, taking account of the extent to which compliance will be secured through other national legislation or[^key-ae1e29230119ea8f199161e31c6a8ae8] assimilated[^key-ce91d9e7994f47dfdfd7ed97ef8d81e2] law,
+- (ii) the conditions of the planning permission set out in these Regulations can be expected to be complied with, as appropriate,
+- (iii) the waste management plan is appropriate to the category in which it considers the site or facility falls, and
+- (iv) where the plan relates to a Category A waste facility, major accident hazards are identified and the necessary features are incorporated into the design, construction, operation and maintenance, closure and after-closure of the waste facility in order to prevent such accidents and to limit their adverse consequences for human health and the environment including any transboundary impacts.
+
+## PART 4 — CONDITIONS FOR WASTE FACILITIES
+
+### 8. Financial guarantee
+
+(1) No operations involving the management of extractive waste shall commence until a financial guarantee is provided by the operator to the council.
+
+(2) The purpose of the financial guarantee shall be to ensure that—
+
+- (a) all conditions on the planning permission pertaining to the management of extractive waste, including after-closure conditions, are met; and
+- (b) there are funds readily available at any given time for the rehabilitation of the land affected by the waste facility, as described in the waste management plan.
+
+### 9. Construction and management
+
+(1) In the construction and management of a new waste facility or the modification of an existing waste facility, it shall be ensured that—
+
+- (a) the facility is suitably located taking into account in particular obligations under national legislation or[^key-e07d30c0d3bccabc8b256b233094c218] assimilated[^key-a056e7e4c9739d6c29e7fcf043edac4d] law relating to protected areas, and geological, hydrological, hydrogeological, seismic and geotechnical factors;
+- (b) the facility is designed so as to meet the necessary requirements for, in the short and long term perspectives, preventing pollution of the soil, air, groundwater or surface water in accordance with any law implementing Directives[^key-4d429638c70ff5966ad2f6795e27823c] [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) and [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) and ensuring efficient collection of contaminated water and leachate and reducing erosion, caused by water or wind, as far as it is technically possible and economically viable;
+- (c) the facility is suitably constructed, managed and maintained to ensure its physical stability and to prevent pollution or contamination of soil, air, surface water or groundwater in the short and long term perspectives as well as to minimise as far as possible damage to landscape;
+- (d) there are suitable plans and arrangements for regular monitoring and inspection of the facility by competent persons and for taking action in the event of results indicating instability or water or soil contamination and that in relation to such monitoring and inspections—
+  - (i) reports of the monitoring and inspections are kept in order to ensure the appropriate hand–over of information, particularly in the event of a change of operator,
+  - (ii) reports are made to the council, at a frequency to be determined by it, but in any event no less than once a year, of all monitoring results on the basis of aggregated data, and
+  - (iii) where the council decides that such reports need to be validated by an independent expert, such expert shall be allowed access to the facility to conduct appropriate monitoring and all reasonable requirements of the expert shall be complied with;
+- (e) suitable arrangements are made for the rehabilitation of the land and the closure of the facility;
+- (f) suitable arrangements are made for the after-closure phase of the facility;
+- (g) the management of the facility is undertaken by a competent person;
+- (h) technical development and training of staff involved in the management of the facility is provided; and
+- (i) up-to-date records are kept of all waste management operations, which are made available for inspection by the council on request.
+
+(2) In the event of a change of operator during the management of the waste facility it shall be ensured that there is a transfer of relevant up-to-date information and records relating to the waste facility.
+
+(3) Where any events likely to affect the stability of the waste facility or any significant adverse environmental effects revealed by the control and monitoring procedures are identified—
+
+- (a) the council shall be notified without undue delay and no later than 48 hours after those events or effects;
+- (b) the internal emergency plan shall be implemented, where applicable;
+- (c) any instruction from the council as to the corrective measures to be taken shall be followed; and
+- (d) the operator shall be liable for the costs of the measures undertaken.
+
+### 10. Prevention of water status deterioration, air and soil pollution
+
+(1) Documentary evidence shall be provided to the council, both prior to the commencement of operations involving the management of extractive waste and during such operations, demonstrating, where applicable, compliance with any law that implements[^key-239ca07e3916c006583ecac9e03d82df] Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) through, inter alia—
+
+- (a) the evaluation of the leachate generation potential, including contaminant content of the leachate, of the deposited waste during the operational phase of the facility and determining the water balance of that facility;
+- (b) prevention or minimisation of leachate generation and surface water or groundwater and soil from being contaminated by the waste;
+- (c) collection and treatment of contaminated water and leachate from the waste facility to the appropriate standard required for their discharge; and
+- (d) the taking of adequate measures, based on best available techniques, to prevent or reduce dust and gas emissions.
+
+(2) Where extractive waste is to be disposed of, whether in solid, slurry or liquid form, into any receiving body of water other than one constructed for the purpose of disposing of extractive waste, documentary evidence shall be submitted to the council to demonstrate compliance with any law implementing Directives[^key-1be8100ca7b2c89198b9c00c34f97b6d] [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) and [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060).
+
+(3) Where extractive waste is to be placed back into extractive voids, whether created through surface or underground extraction, which will be allowed to flood after-closure, documentary evidence shall be submitted to the council to demonstrate—
+
+- (a) that when the extractive waste is so placed, the necessary measures shall be taken to prevent or minimise water status deterioration and soil pollution in accordance with paragraphs (1)(a), (b) and (c), insofar as applicable; and
+- (b) compliance with environmental obligations in[^key-95c2e8e2eb396c7b8bd67641760a03e7] assimilated[^key-3cfec079b5be279f88bb7cb02499266c] law, in particular any law which implements [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060);
+
+(4) Where a pond involving the presence of cyanide is to be managed, documentary evidence to demonstrate—
+
+- (a) that the concentration of weak acid dissociable cyanide in the pond is or will be reduced to the lowest possible level using best available techniques; and
+- (b) that the concentration of weak acid dissociable cyanide at the point of discharge of the tailings from the processing plant into the pond does not exceed 10 parts per million,
+
+shall be submitted to the council.
+
+(5) Upon request in writing to the council it shall be demonstrated, through a risk assessment that takes site-specific conditions into account, that the concentration limits need to be lowered below 10 parts per million.
+
+### 11. Closure
+
+(1) Closure of the waste facility shall not commence until the following requirements are satisfied—
+
+- (a) the conditions relating to the management of extractive waste are met; and
+- (b) an authorisation for closure notice is issued by the council.
+
+(2) The waste facility shall not be regarded as closed until the council has issued a final closure notice.
+
+### 12. After–closure
+
+Following closure of the waste facility, where the council considers it necessary, and for as long as may be specified in a final closure notice—
+
+- (a) maintenance, monitoring, control and corrective measures shall be undertaken;
+- (b) the physical and chemical stability of the facility shall be controlled and any negative environmental effects shall be minimised in order to fulfil relevant environmental requirements as set out in any law implementing Directives[^key-523501d6403c5c9aad35876b37a85518] [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) and [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), in particular with respect to surface and groundwater, by ensuring that—
+  - (i) all the structures pertaining to the facility are monitored and conserved, with control and measuring apparatus always ready for use, and
+  - (ii) where applicable, overflow channels and spillways are kept clean and free;
+- (c) the leachate generation potential, including contaminant content of the leachate, of the deposited waste shall be evaluated, and the water balance of the waste facility shall be determined;
+- (d) measures shall be taken to ensure—
+  - (i) the prevention or minimisation of leachate generation and surface water or groundwater and soil from being contaminated by the waste, and
+  - (ii) contaminated water and leachate from the waste facility shall be collected and treated to the appropriate standard required for their discharge;
+- (e) the council shall be notified of any events or developments likely to affect the stability of the waste facility and of any significant adverse environmental effects revealed by the after-closure and monitoring procedures and where applicable—
+  - (i) the internal emergency plan shall be implemented,
+  - (ii) any instructions from the council as to the corrective measures to be taken shall be followed, and
+  - (iii) liability for the costs of implementing the internal emergency plan and taking the corrective measures shall rest with the operator;
+- (f) all monitoring results shall be reported to the council on the basis of aggregated data, at a frequency to be determined by it.
+
+## PART 5 — ADDITIONAL CONDITIONS FOR CATEGORY A WASTE FACILITIES
+
+### 13. Major accident prevention policy, safety management system and internal emergency plan
+
+(1) No operations involving the management of extractive waste shall commence unless a major accident prevention policy is drawn up, a safety management system to implement that policy is put into effect, and an internal emergency plan, specifying the measures to be taken on-site in the event of an emergency is put into effect.
+
+(2) A safety manager shall be appointed to ensure the implementation and periodic supervision of the major accident prevention policy.
+
+(3) The major accident prevention policy and safety management system shall be proportionate to the major accident hazards presented by the waste facility and account shall be taken of the following factors—
+
+- (a) the major accident prevention policy shall include the overall aims and principles of action with respect to the control of major accident hazards;
+- (b) the safety management system shall include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major accident prevention policy;
+- (c) the safety management system shall address the following issues—
+  - (i) organisation and personnel, including their roles and responsibilities in the management of major accident hazards at all levels in the organisation, identification of training needs of such personnel and the provision of the training so identified and involvement of employees and, where appropriate, subcontractors,
+  - (ii) identification and evaluation of major accident hazards, including the adoption and implementation of procedures for systematically identifying major accident hazards arising from normal and abnormal operations and assessment of their likelihood and severity,
+  - (iii) operational control, including the adoption and implementation of procedures and instructions for safe operation, including maintenance of plant, processes, equipment and temporary stoppages,
+  - (iv) management of change, including the adoption and implementation of procedures for planning modifications to, or the design of, new waste facilities,
+  - (v) planning for emergencies, including the adoption and implementation of procedures to identify foreseeable emergencies by systematic analysis and to prepare, test and review emergency plans to respond to such emergencies,
+  - (vi) monitoring performance, including the adoption and implementation of procedures for the ongoing assessment of compliance with the objectives set by the major accident prevention policy and safety management system and the mechanisms for investigation and taking corrective action in case of non-compliance and such procedures shall cover the system for reporting major accidents or near misses, particularly those involving failure of protective measures, and their investigation and follow up on the basis of lessons learnt, and
+  - (vii) audit and review, including the adoption and implementation of procedures for periodic systematic assessment of the major accident prevention policy and the effectiveness and suitability of the safety management system and the documented review of performance of the policy and safety management system and its updating by senior management.
+
+(4) The internal emergency plan shall include the following—
+
+- (a) names or positions of persons authorised to set emergency procedures in motion and the person in charge of and co–ordinating the on-site mitigatory action;
+- (b) for foreseeable conditions or events which could be significant in bringing about an accident, a description of the action which should be taken to control the conditions or events and to limit their consequences, including a description of the safety equipment and the resources available;
+- (c) arrangements for limiting the risks to persons on-site including how warnings are to be given and the actions persons are expected to take on receipt of a warning;
+- (d) arrangements for providing early warning of the incident to the council, the type of information which should be contained in an initial warning and the arrangements for the provision of more detailed information as it becomes available;
+- (e) arrangements for training staff in the duties they will be expected to perform, and where necessary, co-ordination with the emergency services;
+- (f) arrangements for providing assistance with off-site mitigatory action;
+- (g) arrangements, where appropriate, to communicate the necessary information to the public concerned and to the relevant services or authorities in the area.
+
+(5) Copies of the major accident prevention policy, the safety management system and the internal emergency plan shall be provided to the council.
+
+(6) In the event of a major accident, the council shall be immediately provided with all information required to help minimise the consequences of the accident for human health and to allow the assessment and minimisation of the actual and potential extent of the environmental damage.
+
+(7) The council shall be provided with such further information as it requires to draw up an external emergency plan.
+
+## PART 6 — DUTIES OF THE COUNCIL
+
+### 14. Inspections by the council
+
+The council shall, prior to the commencement of operations involving the management of extractive waste and thereafter at regular intervals, inspect each waste facility for which permission for relevant development has been granted to ensure that the operator is complying with the conditions imposed on that permission pursuant to these Regulations and implementing the waste management plan approved by it.
+
+### 15. Financial guarantee
+
+Where planning permission for relevant development is subject to the condition in regulation 8(1) the council shall—
+
+- (a) calculate the financial guarantee on the basis of—
+  - (i) the likely environmental impact of the waste facility, taking into account in particular the classification of the waste facility, the characteristics of the waste and the future use of the rehabilitated land, and
+  - (ii) the assumption that independent and suitably qualified third parties will assess and perform any rehabilitation work needed;
+- (b) determine the form of the financial guarantee and may accept the provision of a guarantee from an industry-sponsored mutual guarantee fund or equivalent; and
+- (c) periodically review the size of the guarantee and adjust as necessary, in accordance with any rehabilitation work which it may deem necessary on the land affected by the extractive waste, as described in the approved waste management plan prepared in accordance with regulation 6.
+
+### 16. Further information and evidence
+
+(1) Where the applicant has submitted a waste management plan and the council is of the opinion that the plan should contain further information to meet the requirements of regulation 6 and Schedule 1, it may require the applicant, by notice in writing to submit such further information.
+
+(2) Where planning permission for relevant development is subject to the condition in regulation 9(1)(d)(ii), the council shall consider whether the monitoring report submitted to it should be validated by an independent expert.
+
+(3) On receipt of a request under paragraphs (1) or (2) the applicant shall submit the further information or evidence within three months from the date of the request or such extended period as may be agreed in writing between the applicant and the council and, if not submitted, the application shall be deemed to be refused and the deemed refusal shall not give rise to an appeal to the planning appeals commission by virtue of section 58 of the 2011 Act (Appeals) or section 60 of the 2011 Act (Appeal against failure to take planning decision).
+
+(4) Where such further information and any other information including consultee responses is received by the council it shall be advertised on its website and placed on the planning register, kept pursuant to section 242 of the 2011 Act (Planning register).
+
+(5) Where information is requested under paragraph (1) or any other information is received by the council, it shall suspend determination of the application and shall not determine it before the expiry of the period of four weeks after the date on which the notice of that information was published under paragraph (4), or the expiry of the period of notice given to bodies consulted about that information, whichever is the latest.
+
+### 17. Public participation
+
+(1) Where an application for planning permission in relation to relevant development, which is not EIA development, has been made, the council shall make available for public inspection at all reasonable hours a register, kept pursuant to section 242 of the 2011 Act, which shall include a copy of the following, where applicable—
+
+- (a) any determination, opinion or direction given or information received pursuant to these Regulations; and
+- (b) where information has been taken into consideration in determining an application for planning permission or subsequent application or appeal, a statement containing—
+  - (i) the content of the decision and any conditions attached to it,
+  - (ii) the main reasons and considerations on which the decision is based including, if relevant, information about the participation of the public,
+  - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the development, and
+  - (iv) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(2) Where the register under this regulation is kept using electronic storage, the council may make the register available for inspection by the public on a website maintained by the council for that purpose.
+
+### 18. Closure
+
+(1) Where the council receives a request for authorisation for closure of a waste facility, it shall issue an authorisation for closure notice.
+
+(2) The council shall not issue an authorisation for closure notice unless it is satisfied that all conditions of the planning permission relating to the waste facility in question have been met.
+
+(3) Prior to the issue of a final closure notice in accordance with paragraph (4), the council shall, without undue delay—
+
+- (a) assess all reports provided by the operator;
+- (b) carry out a final on–site inspection of the waste facility in question; and
+- (c) certify that the land affected by the waste facility has been rehabilitated.
+
+(4) Where the council is satisfied, following its inspection and assessment pursuant to paragraph (3), that the closure procedures have been appropriately carried out, it shall issue a final closure notice in writing which—
+
+- (a) certifies that the land affected by the waste facility has been rehabilitated; and
+- (b) releases the operator from obligations in respect of any financial guarantee condition to which the planning permission is subject pursuant to regulation 8, except insofar as they relate to any after–closure conditions to which the permission is subject pursuant to regulation 12.
+
+(5) The council may, if it considers it appropriate to do so, take over responsibility for the obligations relating to a condition to which a planning permission is subject pursuant to regulation 12(a).
+
+### 19. External emergency plan
+
+(1) Where planning permission has been granted or deemed to be granted for relevant development in respect of a Category A waste facility, the council shall draw up an external emergency plan specifying the measures to be taken off-site in the event of an accident.
+
+(2) The external emergency plan shall have the following objectives—
+
+- (a) to contain and control major accidents and other accidents so as to minimise their effects, and in particular to limit damage to human health and the environment;
+- (b) to implement the measures necessary to protect human health and the environment from the effects of major accidents and other incidents;
+- (c) to communicate the necessary information to the public and to the relevant services or authorities in the area; and
+- (d) to provide for the rehabilitation, restoration and clean-up of the environment following a major accident.
+
+(3) The public concerned will be provided with early and effective opportunities to participate in the preparation and review of the external emergency plan referred to in paragraph (1) and the council shall make arrangements to inform the public concerned of proposals to prepare and review the plan, including information about the right to participate in that process and how to do so.
+
+(4) The council shall afford the public concerned a reasonable timescale to express comments and shall take due account of the comments received in reaching its decision on the preparation or review of the plan.
+
+(5) Information on safety measures and the action required in the event of an accident at the site shall be provided by the council to the public concerned, free of charge.
+
+(6) The information referred to in paragraph (5) shall contain at least all matters specified in Schedule 4.
+
+(7) The information referred to in paragraph (5) shall be reviewed by the council at least every three years and updated as necessary.
+
+(8) Where the council becomes aware of an accident involving a Category A waste facility which is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^key-cf52ab9a6619e68b7e1c13d699d8a417] Member State, the council must immediately notify the Department. Such notification must include a copy of all information provided to the council pursuant to a condition imposed by virtue of regulation 13(6).
+
+(9) The Department, upon being notified under paragraph (8), must forward a copy of the information referred to in paragraph (8) to the [^key-fea0258c62e0f1a29a9a75ec5ffe8983]... Member State concerned.
+
+### 20. Co operation with ... Member States[^key-bc5d4c1e990bda1b946fe9c8908e4ae0]
+
+(1) Where it appears to the council that proposed relevant development which is the subject of an application for planning permission or a waste management plan, as the case may be, is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^key-c10ed525acb6515b77f9d6d34879ee8f] Member State it shall immediately forward to the Department a copy of the application or waste management plan.
+
+(2) Where on consideration of the information to be provided pursuant to paragraph (1) the Department considers that the proposed relevant development is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^key-a286e19889d308028007e0bef90eb19b] Member State or where a Member State likely to be thus affected so requests, the Department shall–
+
+- (a) forward a copy of the application or waste management plan, as the case may be, and all related material to the [^key-dd3975124e1c08999294a2a431897cbf]... Member State at the same time as it makes such documents available to the public in Northern Ireland;
+- (b) give the Member State a reasonable time in which to consult its own nationals and allow them to submit representations before the council decides whether or not to grant the application or approve the waste management plan, as the case may be.
+
+(3) This regulation shall not apply to those applications or waste management plans, as the case may be, in respect of planning permission for relevant development which constitutes EIA development.
+
+### 21. Inventory of closed waste facilities
+
+(1) The council shall prepare and maintain an inventory of closed waste facilities, including abandoned waste facilities, which caused serious negative environmental impacts or have the potential of becoming, in the short or medium term, a serious threat to human health or the environment.
+
+(2) The inventory shall be available for inspection by the public at all reasonable hours.
+
+(3) On request by any member of the public and on payment of a reasonable fee, the council shall provide a copy of any item entered in the inventory.
+
+(4) The inventory shall take into account the methodologies referred to in Article 21 of the Directive, where available.
+
+### 22. Review
+
+(1) The council shall review the conditions imposed pursuant to these Regulations on a planning permission for relevant development—
+
+- (a) where there are substantial changes in the operation of the waste facility or the waste deposited;
+- (b) on the basis of monitoring results reported by the operator pursuant to regulation 9(3) or inspections carried out pursuant to regulations 9(1)(d) or 14(1); or
+- (c) in the light of substantial changes in best available techniques.
+
+(2) Where the council undertakes a review in accordance with paragraph (1), it shall inform the public concerned and give them an opportunity to make comment before the council completes its review.
+
+(3) A review in consequence of paragraph (1) may add to, reduce or update the conditions attached to that permission in pursuance of these Regulations.
+
+### 23. Consequential amendment of subordinate legislation
+
+In regulation (4) of the Landfill Regulations (Northern Ireland) 2003 [^c22422171] (Cases where Regulations do not apply), after paragraph (b) insert “ (ba) waste which falls within the scope of the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015 ”.
+
+### 24. Revocation, savings and transitional provisions
+
+(1) The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010 [^c22422181] (”2010 Regulations”) are revoked.
+
+(2) Nothing in paragraph (1) shall affect the continued application of the 2010 Regulations in respect of the approval by the Department of a waste management plan where—
+
+- (a) the application for planning permission to which the waste management plan relates was received by the Department after the coming into operation of the 2010 Regulations; and
+- (b) planning permission was granted by the Department before the coming into operation of these Regulations.
+
+(3) Where by virtue of paragraph 2 of Schedule 2 to the Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 [^c22422191] an application for planning permission—
+
+- (a) is treated as if it had been made to the appropriate council under the 2011 Act; or
+- (b) is treated as having been made to the Department under section 26 of the 2011 Act; or
+- (c) is treated as having been referred to the Department under section 29 of the 2011 Act,
+
+then, where that application is for relevant development within the meaning of the 2010 Regulations it shall be treated as an application for relevant development for the purposes of these Regulations and anything done by, to or in relation to the Department in connection with its functions under the 2010 Regulations shall be treated as if it had been done by, to or in relation to the appropriate council or, as the case may be, the Department in connection with its functions under these Regulations.
+
+(4) Where by virtue of regulation 4(1)(c) of the 2010 Regulations planning permission for development comprising mining operations granted before the 1st April 2010 was deemed, subject to the prior submission to and approval by the Department of a waste management plan in accordance with regulations 6 and 7 of the 2010 Regulations, to include planning permission for relevant development then—
+
+- (a) where a waste management plan has been submitted to and approved by the Department before the coming into operation of these Regulations that planning permission shall be deemed under these Regulations to include planning permission for relevant development and shall be subject to the conditions of regulation 8 to 12 of these Regulations; and a Category A waste facility shall also be subject to regulation 13;
+- (b) where a waste management plan has been submitted to the Department but is not approved before the coming into operation of these Regulations then it shall be treated as if it had been submitted to the appropriate council and if approved by the council in accordance with the provisions of these Regulations that planning permission shall be deemed in accordance with sub-paragraph (a);
+- (c) where before the coming into operation of these Regulations no such waste management plan has been submitted to the Department for its approval then, without prejudice to the power of the Department or the council to take enforcement action under Part 5 of the 2011 Act, a waste management plan must be submitted to the council for its approval and if approved by the council that planning permission shall be deemed in accordance with sub-paragraph (a).
+
+(5) Nothing in this regulation shall affect the generality of section 29 of the Interpretation Act (Northern Ireland) 1954.
+
+Sealed with the Official Seal of the Department of the Environment on 26th February 2015
+
+Angus Kerr
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — WASTE MANGEMENT PLAN: OBJECTIVES
+
+Regulation 6(2)
+
+The objectives of the waste management plan are—
+
+1. To prevent or reduce waste production and its harmfulness, in particular by the consideration of—
+
+- (a) waste management in the design phase and in the choice of the method used for mineral extraction and treatment;
+- (b) the changes that the extractive waste may undergo in relation to an increase in surface area and exposure to conditions above ground;
+- (c) placing extractive waste back into the excavation void after extraction of the mineral, as far as is technically and economically feasible and environmentally sound in accordance with existing environmental standards at community level and with the requirements of these Regulations where relevant;
+- (d) where the site is a waste facility, putting topsoil back in place after closure or, if this is not practically feasible, reusing topsoil elsewhere; and
+- (e) using less dangerous substances for the treatment of minerals.
+
+2. To encourage the recovery of extractive waste by means of recycling, reusing or reclaiming such waste, where this is environmentally sound in accordance with existing environmental standards at community level and with the requirements of these Regulations where relevant.
+
+3. To ensure short and long-term safe disposal of the extractive waste, in particular where the site is a waste facility by considering, during the design phase, management during the operation and after-closure of the facility and by choosing a design which—
+
+- (a) requires minimal and, if possible, ultimately no monitoring, control and management of the closed waste facility;
+- (b) prevents or at least minimises any long-term negative effects, for example attributable to migration of airborne or aquatic pollutants from the waste facility; and
+- (c) ensures the long-term geotechnical stability of any dams or heaps rising above the pre-existing ground surface.
+
+## SCHEDULE 2 — WASTE CHARACTERISATION
+
+Regulation 6(2)(e)
+
+The waste to be deposited in an extractive waste site or facility shall be characterised in such a way as to guarantee long-term physical and chemical stability of the structure of the facility and to prevent major accidents. The waste characterisation shall include, where appropriate and in accordance with the classification of the site or facility, the following aspects—
+
+1. A description of the expected physical and chemical characteristics of the waste to be deposited in the short and long-term, with particular reference to its stability under surface atmospheric/meteorological conditions, taking account of the type of mineral to be extracted and the nature of any overburden and/or gangue minerals that will be displaced in the course of the extractive operations.
+
+2. Characterisation of the waste according to the relevant entry in Decision [2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) [^c22422201] with particular regard to its hazardous characteristics.
+
+3. A description of the chemical substances to be used during treatment of the extracted material and their stability.
+
+4. A description of the method of deposition.
+
+5. The waste transport system to be employed.
+
+## SCHEDULE 3 — CRITERIA FOR CLASSIFICATION OF CATEGORY A WASTE FACILITIES
+
+Regulation 6(3)(c)
+
+A waste facility shall be classified as Category A if—
+
+1. A failure or incorrect operation e.g. the collapse of a heap or the bursting of a dam, could give rise to a major accident, on the basis of a risk assessment taking into account factors such as the present or future size, the location and the environmental impact of the waste facility; or
+
+2. It contains waste classified as hazardous under Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) [^c22422211] above a certain threshold; or
+
+3.[^key-892f7992f779b3b9302caa06f205de13] It contains substances or preparations classified as dangerous which fall within the scope of Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272).
+
+## SCHEDULE 4 — INFORMATION TO BE COMMUNICATED TO THE PUBLIC CONCERNED IN THE EVENT OF AN ACCIDENT
+
+Regulation 19(6)
+
+The information to be communicated to the public concerned in the event of an accident includes the following—
+
+1. Name of operator and address of the waste facility.
+
+2. Identification, by position held, of the person providing the information.
+
+3. Confirmation that the waste facility is subject to planning controls and to these Regulations and, where applicable, that the information relevant to the elements referred to in regulation 7(2)(iv) has been approved by the council.
+
+4. An explanation in clear and simple terms of the activity or activities undertaken at the site.
+
+5. The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics.
+
+6. General information relating to the nature of the major accident hazards, including their potential effects on the surrounding population and environment.
+
+7. Adequate information on how the surrounding population concerned are to be warned and kept informed in the event of a major accident.
+
+8. Adequate information on the actions the surrounding population concerned should take, and on the behaviour they should adopt, in the event of a major accident.
+
+9. Confirmation that the operator is required to make adequate arrangements on–site, in particular liaison with the emergency services, to deal with major accidents and to minimise their effects.
+
+10. A reference to the external emergency plan drawn up to cope with any off-site effects from an accident, including advice to co–operate with any instructions or requests from the emergency services at the time of an accident.
+
+11. Details of where further relevant information can be obtained.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Directive [2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) (O.J. No.L102, 11.4.2006, P.15-34) (“**the Mining Waste Directive**”) of the European Parliament and of the Council of 15th March 2006 on the management of waste from extractive industries and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) (O.J. No.L143, 30.4.2004, p.56-75) (“**the Waste Framework Directive**”). The Regulations replace the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010 (“**the 2010 Regulations**”) to take account of the role of district councils as local planning authorities and also for revisions to the EC Directives since the 2010 Regulations came into operation.
+
+Regulation 2 provides definitions, most of which are derived from the Directive. Two types of areas are defined for the application of the Directive, an “extractive waste site” and a “waste facility”. For the latter, a definition of a “Category A waste facility” is also provided in the Regulations, this type of waste facility being subject to the additional controls in Part 5.
+
+Regulation 3 provides that the requirements of these Regulations apply to applications for planning permission (not outline planning permission) to a council which relates in whole or in part to an extractive waste area, waste facility or an area which will be developed to contain extractive waste. Any such application should be accompanied by a waste management plan. It also applies the Regulations to any application which may be determined by the Department with any such modifications as may be necessary.
+
+Regulation 4 provides that planning permission for the management of extractive waste cannot be granted unless a waste management plan is approved by the council under these Regulations and provides that such permissions which involve waste facilities will be subject to conditions as set out in these Regulations. It also makes provision for the deemed grant of planning permission for the management of extractive waste for existing sites and similarly subjects such permissions in respect of waste facilities to the conditions set out in these Regulations.
+
+Regulation 5 details exemptions from the controls of Regulation 4 and reduces what the Regulations would otherwise require in relation to particular types of waste considered to be of low risk to the environment or human health.
+
+Regulation 6 (and Schedules 1, 2 and 3) set out what a waste management plan must include. This plan is central to the system the Directive requires and includes the classification into which the site or facility falls. Schedule 1 gives the objectives of the plan, Schedule 2 provides for how waste is to be characterised and Schedule 3 provides the criteria for the classification of a Category A waste facility.
+
+Regulation 7 details the obligations placed on the council for consultation, consideration and subsequent decision to approve, or otherwise, the waste management plan submitted to it pursuant to regulation 6.
+
+Regulation 8 provides the condition for a financial guarantee and its purpose.
+
+Regulation 9 details the conditions for the construction and management of waste facilities.
+
+Regulation 10 details the conditions associated with the prevention of water status deterioration, air and soil pollution.
+
+Regulation 11 details the conditions associated with the authorisation for the commencement of and final closure procedures for waste facilities.
+
+Regulation 12 details the conditions for after–closure and the ongoing obligations of the operator.
+
+Regulation 13 details the additional conditions which apply to Category A waste facilities. These conditions seek to minimise the risk of accidents that arise from operation of this particular type of waste facility and to guarantee a high level of protection for the environment and human health. Such a facility requires having a major accident prevention policy drawn up, a safety management system to implement that policy put in place and an internal emergency plan specifying the measures to be taken on-site in the event of an emergency.
+
+Regulations 14 to 18 detail the duties of the council in relation to inspections, the financial guarantee, the validation of a monitoring report submitted by an operator and closure procedures, along with further information and evidence to be made available to the public.
+
+Regulation 19 details the requirement for the council to draw up an external emergency plan for a Category A waste facility specifying the measures to be taken off-site in the event of an accident, and to make this available to, and consult with, the public concerned.
+
+Regulation 20 details the measures to be undertaken by the council and the Department to ensure co-operation with other Member States, including time for consultation with nationals of those Member States.
+
+Regulation 21 details the obligation on the council to prepare and maintain an inventory of closed waste facilities.
+
+Regulation 22 details the requirement on the council to review any conditions imposed pursuant to these Regulations on a planning permission for relevant development.
+
+Regulation 23 explicitly exempts waste falling within the scope of the requirements from the scope of the Landfill Regulations (Northern Ireland) 2003 (as amended), which implement the requirements of Council Directive [99/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) (O.J. No. L182, 16.7.1999, p. 1-19) transposing the Landfill Directive. Landfill Regulations will continue to apply to waste other than extractive waste.
+
+Regulation 24 saves a number of aspects of the 2010 Regulations and transitional provisions provides that a council can apply the requirements of these Regulations to any permission for relevant development previously granted by the Department, as well as revoking the 2010 regulations.
+
+A regulatory impact assessment has been prepared in relation to these Regulations. A copy may be obtained from the Department of the Environment, Causeway Exchange, 1-7 Bedford Street, Town Parks, Belfast, BT2 7EG. Telephone number (028 90 823532) or accessed at www.planningni.gov.uk.
+
+The Explanatory Memorandum is available alongside the regulations on the government's website www.legislation.gov.uk
+
+## Annotations
+
+[^c22421921]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301)
+
+[^c22421931]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers of section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51)
+
+[^c22421941]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c22421951]: Marginal citation: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^M_F_e8d217c9-f757-40ff-ec26-26cbff22bfb0]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.R. 2020/300](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/3), [6(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/6/3))
+
+[^c22421971]: Marginal citation: O.J. No. L353, 31.12.2008, p.1-1355
+
+[^key-bf46e9181b44d668aca215fb1545ec97]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/2/2) substituted (27.3.2019) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/24)](https://www.legislation.gov.uk/nisr/2019/24), [regs. 1](https://www.legislation.gov.uk/nisr/2019/24/regulation/1), [6](https://www.legislation.gov.uk/nisr/2019/24/regulation/6)
+
+[^c22421981]: Marginal citation: O.J. No. L102, 11.4.2006, p.15-34
+
+[^c22421991]: Marginal citation: O.J. No. L143, 30.4.2004, p.56-75
+
+[^M_F_bcdb8158-9d88-4d3d-902d-fb9520e60544]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_cd47f6d6-0ba7-4fc4-db40-c6bdfb61c056]: Textual amendment: Words in reg. 2(2) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22422011]: Marginal citation: O.J. No. L372, 27.12.2006, p.19-31
+
+[^M_F_02b42e65-a06b-4cc7-a86c-8ee7abea6271]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22422021]: Marginal citation: O.J. No. L312, 22.11.2008, p.3-30
+
+[^M_F_6a6c4691-b0af-4c03-d6bd-98b1c3e9b647]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22422031]: Marginal citation: O.J. No. L197, 24.7.2012, p.1-37
+
+[^M_F_1b9cb212-5da5-4c3f-a6df-6f303ff31740]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(f)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_cbbce1c7-db11-4e42-ece9-3b419653b7cb]: Textual amendment: Words in reg. 2(2) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/300/regulation/3)
+
+[^M_F_a669d3f1-8ea2-470a-e089-5eda38d12e21]: Textual amendment: Words in reg. 2(2) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/300/regulation/3)
+
+[^c22422061]: Marginal citation: O.J. No. L327, 22.12.2000, p.1-73
+
+[^M_F_b67f79e9-ef93-4896-940e-b5900dad1a80]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(g)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22422071]: Marginal citation: S.R. [2015 No.74](https://www.legislation.gov.uk/ukcm/2015/74)
+
+[^M_F_c5617bfe-dfa1-4f94-fccd-70a0a15a5fa2]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(h)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22422081]: Marginal citation: S.R. [2015 No.71](https://www.legislation.gov.uk/ukcm/2015/71)
+
+[^M_F_1c5fff47-ffdc-49c6-8a34-98471f52117a]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_b2f80640-0d07-46b7-8743-2d78228b9e66]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(j)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_7d729474-cc40-4563-bd3b-a85944fb7c75]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(2)(k)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7e4101d4a45cb486af5e47044e5fecca]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 24(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/24/a)
+
+[^key-623ae35d0f1c8c99634f73144ac5e261]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/5/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3e298086e4e53bbf1dd7487f88daa4da]: Textual amendment: Words in [reg. 5(8)](https://www.legislation.gov.uk/nisr/2015/85/regulation/5/8) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0ee06c4eba3782d6f6678f4bdd823d55]: Textual amendment: Words in [reg. 6(2)(j)](https://www.legislation.gov.uk/nisr/2015/85/regulation/6/2/j) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae1e29230119ea8f199161e31c6a8ae8]: Textual amendment: Words in [reg. 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2015/85/regulation/7/2/b/i) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ce91d9e7994f47dfdfd7ed97ef8d81e2]: Textual amendment: Word in [reg. 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2015/85/regulation/7/2/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 24(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/24/b)
+
+[^key-e07d30c0d3bccabc8b256b233094c218]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/nisr/2015/85/regulation/9/1/a) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a056e7e4c9739d6c29e7fcf043edac4d]: Textual amendment: Word in [reg. 9(1)(a)](https://www.legislation.gov.uk/nisr/2015/85/regulation/9/1/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 24(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/24/c)
+
+[^key-4d429638c70ff5966ad2f6795e27823c]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/nisr/2015/85/regulation/9/1/b) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-239ca07e3916c006583ecac9e03d82df]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2015/85/regulation/10/1) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1be8100ca7b2c89198b9c00c34f97b6d]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/10/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-95c2e8e2eb396c7b8bd67641760a03e7]: Textual amendment: [Reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2015/85/regulation/10/3/b) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(7)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3cfec079b5be279f88bb7cb02499266c]: Textual amendment: Word in [reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2015/85/regulation/10/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 24(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/24/d)
+
+[^key-523501d6403c5c9aad35876b37a85518]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/nisr/2015/85/regulation/12/b) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cf52ab9a6619e68b7e1c13d699d8a417]: Textual amendment: Word in [reg. 19(8)](https://www.legislation.gov.uk/nisr/2015/85/regulation/19/8) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(9)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fea0258c62e0f1a29a9a75ec5ffe8983]: Textual amendment: Word in [reg. 19(9)](https://www.legislation.gov.uk/nisr/2015/85/regulation/19/9) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(10)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bc5d4c1e990bda1b946fe9c8908e4ae0]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/nisr/2015/85/regulation/20) heading omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(11)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c10ed525acb6515b77f9d6d34879ee8f]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2015/85/regulation/20/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(11)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a286e19889d308028007e0bef90eb19b]: Textual amendment: Word in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/20/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(11)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd3975124e1c08999294a2a431897cbf]: Textual amendment: Word in [reg. 20(2)(a)](https://www.legislation.gov.uk/nisr/2015/85/regulation/20/2/a) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(11)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22422171]: Marginal citation: S.R. [2003 No.496](https://www.legislation.gov.uk/ukcm/2003/496)
+
+[^c22422181]: Marginal citation: S.R. [2010 No.64](https://www.legislation.gov.uk/ukcm/2010/64)
+
+[^c22422191]: Marginal citation: S.R. [2015 No.49](https://www.legislation.gov.uk/ukcm/2015/49) (c.5)
+
+[^c22422201]: Marginal citation: O.J. No. L226, 6.9.2000, p.3-24
+
+[^c22422211]: Marginal citation: O.J. No. L312, 22.11.2008, p.3-30
+
+[^key-892f7992f779b3b9302caa06f205de13]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/85/schedule/3/paragraph/3) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [6(12)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

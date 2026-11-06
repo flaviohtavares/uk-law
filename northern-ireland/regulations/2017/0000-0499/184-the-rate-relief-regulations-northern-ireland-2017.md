@@ -1,0 +1,1027 @@
+---
+title: The Rate Relief Regulations (Northern Ireland) 2017
+id: nisr/2017/184
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2017-09-11'
+text_date: '2025-06-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2017/184
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2017/184/pdfs/nisrem_20170184_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/184/pdfs/nisr_20170184_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/184/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rate Relief Regulations (Northern Ireland) 2017
+
+> Text as at 2025-06-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2017 No. 184
+
+Rates
+
+The Rate Relief Regulations (Northern Ireland) 2017
+
+Made
+
+11th September 2017
+
+Coming into operation
+
+27th September 2017
+
+The Department of Finance [^c22867411] makes the following Regulations in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977 [^c22867421]
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Rate Relief Regulations (Northern Ireland) 2017 and shall come into operation on 27th September 2017.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Administration Act**” means the Social Security Administration (Northern Ireland) Act 1992 [^c22867431];
+- “**the Contributions and Benefits Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22867441]
+- “**the 1977 Order**” means the Rates (Northern Ireland) Order 1977;
+- “**the 2003 Order**” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^c22867451]
+- “[^key-51d9f1f780320a71f8f7dad93298f6ba]**the Universal Credit (Claims and Payments) Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016
+- “**the Universal Credit Regulations**” means the Universal Credit Regulations (Northern Ireland) 2016 [^c22867461];
+- “[^key-55a052fd09037c35af5e457d2e166447]**the Universal Credit (Transitional Provisions) Regulations**” means the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
+- “**the Welfare Reform Order**” means the Welfare Reform (Northern Ireland) Order 2015 [^c22867471];
+- “**attribution period**” means a period of one month—
+  - (a) initially beginning from and including the date of claim to the day before the corresponding date in the following month or if that date does not exist the closest date before that date had it existed; and
+  - (b) in subsequent months from and including the day following the last day of the previous attribution period to the day before that date in the following month or if that date does not exist the closest date before that date had it existed,
+
+  as the case may require;
+- “**claim**” means a claim under regulation 3;
+- “**claimant**” means a person making a claim under regulation 3 or 4;
+- “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or if any of the preceding persons is one member of a couple, the other member of that couple;
+- “couple” means—[^key-3e5cdd05aa5d2f9dd75ab094353f3d6e][^key-08a9ca16bc3646b577ee60d1d7e20a27]
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;
+- “**Department**” means the Department of Finance;
+- “**Department for Communities**” has the same meaning as in section 1 of the Departments Act (Northern Ireland) 2016 [^c22867481]
+- “**dwelling occupied as the home**” means the dwelling together with any garage, garden and outbuildings normally occupied by the claimant as his home, including any part thereof not so occupied which it is impracticable or unreasonable to sell separately, together with—
+  - (a) any agricultural land adjoining that dwelling; and
+  - (b) any land not adjoining that dwelling which it is impracticable or unreasonable to sell separately;
+- “electronic communication” has the same meaning given in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001 [^c22867491];
+- “entitled to universal credit” shall include awards that are reduced to nil by the application of the deductions in regulation 10(6)(b) and (c).
+- “**family member**” means—
+  - (a) a couple;
+  - (b) a couple and a member of the same household who is a close relative;
+- “**housing benefit**” means housing benefit under section 129 of the Contributions and Benefits Act [^c22867501] and for the purposes of these regulations any low income rate relief;
+- “**income**” shall be construed in accordance with regulation 10(7)[^key-344b3966ced7390803a0337c4adcee37] ;
+- “**independent hospital**” has the meaning assigned to it by Article 2(2) of the 2003 Order;
+- “**liable for rates**” means chargeable to occupied rates in accordance with Part II (Rating) of the 1977 Order as modified by regulation 11 for the purposes of these regulations;
+- “**low income rate relief**” means a rate relief in accordance with the Rate Relief (General) Regulations (Northern Ireland) 2007 [^c22867511] or the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 [^c22867521];
+- “**maximum amount**” means the maximum amount applied to the universal credit award in accordance with Article 13(2) of the Welfare Reform Order with the exception of any transitional element provided for in regulations 53 to 58, and 64 of and[^key-65c3f7137c8e5473acb7eada33262957] schedules 2 and 3[^key-ea9c51eef1aba0c11498575b30aecbec] to the Universal Credit (Transitional Provisions) Regulations extant on the relevant date;
+- “**nursing home**” has the same meaning as in Article 11 of the 2003 Order;
+- “**official computer system**” means a computer system maintained by or on behalf of the Department to—
+  - (a) send or receive any claim or information; or
+  - (b) process or store any claim or information;
+- “**overpayment**” means any payment by way of rate relief to which there is no entitlement under these regulations (whether on initial decision or as subsequently revised or further revised);
+- “partner” means where a claimant is a member of a couple, the other member of that couple;[^key-6b3819f7e09d9175f426f9f7a552344b]
+- “**payment**” includes crediting an account;
+- “**rate relief**” means rate relief in accordance with these regulations except within the term “low income rate relief”;
+- “**relevant authority**” means the authority administering rate relief on behalf of the Department in accordance with these regulations;
+- “**relevant date**” means, subject to regulation 9—
+  - (a) in the first instance the date of the claim in accordance with regulation 5;
+  - (b) every year thereafter on the anniversary of that date of claim: and
+  - (c) where the date of claim is 29th February, the anniversary dates will be 28th February every year thereafter;
+- “**residential care home**” has the same meaning as in Article 10 of the 2003 Order;
+- “**universal credit**” means universal credit under Part 2 of The Welfare Reform (Northern Ireland) Order 2015 [^c22867531] including any modification made to that Order or regulations prescribed by that Order by the Universal Credit (Transitional Provisions) Regulations unless otherwise stated[^key-6bc2d3a69b23b1549c98c37da6b9184a] ;
+- “**universal credit award**” shall be construed in accordance with regulation 10(6);
+- “**universal credit information**” means the universal credit award, income and maximum amount figures determined in accordance with these regulations.
+- “**writing**” includes writing produced as a result of electronic communications used in accordance with the Schedule.
+
+(2)[^key-8b623b359a6a2908d30e0253402c7d27] For the purposes of these regulations any apportionment made to any of the figures in the universal credit information in accordance with regulation 22A(2) (assessment period cycle to remain the same following change in the first date of entitlement) or 24 (apportionment where re-claim is delayed after loss of employment) of the universal credit regulations shall be ignored.
+
+(3) Subject to paragraph (4)[^key-f762b7e3fd2f7413d4cd7fcd353498f4] , the Interpretation Act (Northern Ireland) 1954 [^c22867541] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly
+
+(4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in this period.
+
+(5)[^key-d8acbd45419fea8ab41756da04613aa1] Where two people are parties to a polygamous marriage, the fact that they are husband and wife is to be disregarded if—
+
+- (a) one is a party to an earlier marriage that still subsists; and
+- (b) the other party to that earlier marriage is living in the same household;
+
+and accordingly the person who is not a party to the earlier marriage shall for the purposes of these regulations be treated as a single person.
+
+(6) In Paragraph (5) “polygamous marriage” means a marriage during which a party to it is married to more than one person and which took place under the laws of a country which permits polygamy.
+
+## PART 2 — Claims
+
+### 3. Claim for rate relief
+
+(1) A claim must be made to the Department for rate relief in accordance with these regulations.
+
+(2) Except as provided in paragraph (3), a claim for rate relief must be made by means of an electronic communication in accordance with the provisions set out in the Schedule and completed in accordance with any instructions given by the relevant authority for that purpose.
+
+(3) Where the Department is of the view that the process referred to in paragraph 2[^key-d9d7efc81b71a0dfa18698723ad7bf54] needs to be facilitated it shall make available support arrangements for a claimant.
+
+(4) In the case of a couple [^key-4276451e5999ef2ddc4034e215715f59]... a claim shall be made by whichever one of them they agree should so claim or, in default of agreement, by such one of them as the relevant authority shall determine.
+
+(5)[^key-426475885408f6b54ea55538b26a3973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Person unable to act
+
+(1) Where a person is unable for the time being to act, and—
+
+- (a) a controller has been appointed by the High Court under Part 8 of the Mental Health (Northern Ireland) Order 1986 [^c22867551] with power to claim, or as the case may be, receive social security benefits on his behalf; or
+- (b) an attorney with a general power or a power to claim or, as the case may be, receive social security benefits, has been appointed by that person under the Powers of Attorney Act (Northern Ireland) 1971 [^c22867561] or the Enduring Powers of Attorney (Northern Ireland) Order 1987 [^c22867571],
+
+that controller or attorney, as the case may be, may make a claim for rate relief on behalf of that person.
+
+(2) Where paragraph (1) does not apply and a person who is liable for rates is for the time being unable to act and the Department for Communities has appointed a person to act on his behalf for the purposes of regulation 52(1) of the Universal Credit (Claims and Payments) Regulations[^key-3c4023d5aa7b644b39b9b62a91854e73] the relevant authority may, if that person agrees, treat him as if he had been appointed by them under paragraph (3).
+
+(3) Subject to paragraph (4), the relevant authority may upon receipt of a written application made by a person appoint that person (“**the appointee**”) to act on behalf of the claimant and to exercise on behalf of the claimant any right to which the claimant might be entitled under these regulations and to receive and deal with any rate rebate sums payable to the claimant.
+
+(4) Paragraph (3) is subject to the condition that a person applying to be appointed as an appointee must be aged 18 years or over.
+
+(5) Subject to paragraph (6), an appointment under paragraphs (2) or (3) comes to an end if—
+
+- (a) the relevant authority at any time revokes it by notice in writing;
+- (b) the appointee resigns their appointment by giving four weeks' notice in writing to the relevant authority of an intention to resign; or
+- (c) the relevant authority is notified that a controller or an attorney has been appointed.
+
+(6) Anything required by these regulations to be done by or to a claimant who is for the time being unable to act may be done by or to a controller, an attorney, an appointee or any person treated as the appointee under this regulation and the receipt of any such person so appointed shall be a good discharge to the relevant authority for any sum paid.
+
+### 5. Time within which a claim for rate relief is to be made
+
+(1) Subject to the provisions of these regulations, where a claim for rate relief is received or treated as received within three months of the date the first payment of universal credit is issued, following the initial decision to award universal credit, the date of claim will be the first day of entitlement to such universal credit claim.
+
+(1A)[^key-7a6ec3fde794cd7559f99d02425d2e54] Subject to the provisions of these regulations where a revision in accordance with regulation 13 results in a disallowance of rate relief and the claimant would have been entitled to rate relief at any time between the effective date of that decision and the date that decision is made if a new claim had been made—
+
+- (a) where the relevant authority is aware that there is such entitlement at the time that decision is made, a claim may be treated as made in accordance with paragraph (1) for any such period;
+- (b) where the relevant authority is not aware of such entitlement the three month period referred to in paragraph (1) for any claim in that period shall start from the date the decision to revise is issued.
+
+(1B) Subject to the provisions of these regulations where a revision in accordance with regulations 13(1)(h) and 14(7) results in a disallowance of rate relief and the claimant would be entitled to rate relief if a new claim was made from the day following the last day of entitlement a claim may be treated as made in accordance with paragraph (1) from that date.
+
+(2) Where a claimant is entitled to universal credit but was precluded from rate relief by virtue of regulation 10(1)(c) and housing benefit subsequently ceases—
+
+- (a) the day following this cessation will be treated as the first day of entitlement of universal credit; and
+- (b) the first payment of universal credit issued following cessation shall be treated as the first payment of universal credit.
+
+(3) For the purposes of paragraph (1) where a claim is not received within the times specified in paragraph (1) or (2) but is received within one month of the date of issue of the next rate bill following the death of a former partner who was, at the date of his death entitled to rate relief in respect of the same dwelling, the date of claim or claims will be the first day of entitlement to any universal credit claim made on or after that date of death until the claim for rate relief is determined.
+
+(4) Subject to paragraphs (13) and (14), where[^key-6703413f3b4516dca5da665e9b698d64] a claim for rate relief is not received, or treated as received within a time specified in paragraphs (1) to (3), the date of claim will be—
+
+- (a) 3 months before the date it was received or treated as received if there is entitlement to universal credit on that date.
+- (b) where there is no entitlement to universal credit on the date specified in sub-paragraph (a), the first day of entitlement of any universal credit claim made between that date and the date the claim for rate relief is determined.
+
+(5) Where a claimant is unable to make a claim by means of an electronic communication in accordance with the Schedule due to a failure of the official computer system, on the last day of the time specified within paragraphs (1) to (3), the claim will be treated as made on that day provided it is made within 48 hours of the system becoming available again.
+
+(6) A claim for rate relief made by means of an electronic communication in accordance with the provisions set out in the Schedule is defective if it is not completed in accordance with the instructions of the relevant authority.
+
+(7) A claim made in accordance with regulation 3(3) shall be properly completed if the relevant authority is provided with all the information requested and the claim is defective if all the information is not so provided.
+
+(8) If a claim for rate relief is defective the relevant authority must inform the claimant of the defect.
+
+(9) The relevant authority shall treat the claim as properly made in the first instance if–
+
+- (a) in the case of a claim for rate relief made in accordance with regulation 3(3), the person corrects the defect; or
+- (b) in the case of a claim for rate relief made by means of an electronic communication, the claim is completed in accordance with any instructions of the relevant authority,
+
+within one month from the date on which the claimant is first informed of the defect.
+
+(10) A claim for rate relief that is not properly made is not a claim for the purposes of these regulations.
+
+(11) In the case of a claim for rate relief where the defect is not rectified in accordance with paragraph (9), the claim for rate relief will be treated as received on the date that the defect is rectified.
+
+(11A)[^key-c1103a2ba4df65da124d3525193244b6] For the purposes of these regulations where a new award of universal credit is made to a claimant couple in accordance with regulation 22(5) of the Universal Credit Regulations any award of universal credit for a claimant that subsisted on the day before that new award is effective from shall be treated as ending on that day.
+
+(12) Subject to paragraphs (13) and (14) where[^key-47db235fa5d3a7d314e57c0476794ae2] a claimant makes a claim for rate relief and there are any periods where there is no entitlement to universal credit before the claim for rate relief has been determined, that claim for rate relief shall be treated as a multiple claim for each new universal credit award up to the date of determination of that rate relief claim and the date of claim for each of those claims will be the date of first entitlement of each of the universal credit awards within that period.
+
+(13) For a date of claim to apply in accordance with this regulation, the claimant must otherwise be entitled to rate relief.
+
+(14)[^key-612f50a851c2d2d5cc78d4660dde32a9] Where paragraph (13) applies the date of claim will be the date or dates that the claimant would otherwise become entitled to rate relief between—
+
+- (a) the date that would in accordance with this regulation otherwise be the date of claim; and
+- (b) the date the decision on the claim is made.
+
+### 6. Date of first entitlement to rate relief
+
+A claimant who makes a claim for rate relief shall be entitled to it from the date of claim for rate relief in accordance with regulation 5.
+
+### 7. Amendment of claim
+
+(1) A claimant who has made a claim for rate relief may amend it at any time before a determination has been made on the claim for rate relief.
+
+(2) Any claim amended in accordance with paragraph (1) may be treated as if it had been so amended in the first instance.
+
+### 8. Withdrawal of rate relief claim
+
+(1) A claimant who has made a rate relief claim may withdraw it at any time before a determination has been made on it by notice in writing received by electronic communication, by telephone call to a telephone number specified by the relevant authority or in such other manner as the relevant authority may decide or accept.
+
+(2) Any notice of withdrawal given in accordance with paragraph (1) has effect when it is received.
+
+### 9. Opting to end an award of rate relief
+
+(1) Subject to paragraph (2) a person may opt to end an award of rate relief at any time by notice in writing received by electronic communication, by telephone call to a telephone number specified by the relevant authority or in such other manner as the relevant authority may decide or accept.
+
+(2) Any notice of opting to end an award given in accordance with paragraph (1) has effect from the date specified by the claimant or where no date is specified, from the day the notice is received.
+
+(3) Where a claimant gives notice of ending an award before a decision has been given on the claim, which is not a withdrawal in accordance with regulation 8, and an award is later made the notice shall be accepted and treated as if an award had been made at the time the notice was received.
+
+(4) Once an award has ended in accordance with this regulation it cannot be reinstated.
+
+(5) Subject to paragraph (7) where a claimant opts to end an award of rate relief in accordance with paragraph (1) any new claim which has a date of claim before the date that the next relevant date would have been due on the award had it not so ended, will have entitlement calculated using the universal credit information that would have applied had the award not so ended.
+
+(6) Where a new claim is received in accordance with paragraph (5) the next relevant date shall be the date that would have been the next relevant date had the previous award not ended in accordance with this regulation.
+
+(7) Paragraphs (5) and (6) shall cease to apply where entitlement to universal credit ceases at any time after the claimant opts to end an award.
+
+## PART 3 — Entitlement
+
+### 10. Entitlement
+
+(1) Subject to the provisions of these regulations, a person is entitled to rate relief if at the relevant date—
+
+- (a) he is liable for rates in respect of a dwelling in Northern Ireland which he occupies as his home and remains so liable;
+- (b) he has eligible rates calculated in accordance with regulation 11;
+- (c) subject to paragraphs (2) and (2A)[^key-a54cd381866fa34165dcff10fd4acf3b] he is not entitled to housing benefit;
+- (d)[^key-3b60c18a506856ac299721a3d0cd3f92] he has an award of universal credit and that award continues; and
+- (e) either, for the attribution period—
+  - (i) his income does not exceed the maximum amount; or
+  - (ii) his income exceeds that amount, but only by so much that there is an amount remaining if the deduction for which paragraph (3)(b) provides is made.
+
+(2) Where Part 10 of these regulations applies and entitlement to housing benefit is only by virtue of regulation 3(2)(a) of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 [^c22867591] (housing benefit in respect of specified accommodation or temporary accommodation[^key-34eeca19b1748ee142d6155a04d21691] ) then if the claimant is otherwise entitled to rate relief he shall be entitled to rate relief for the other dwelling occupied as his home as if the claimant was not in such specified accommodation or temporary accommodation , or entitled to housing benefit in respect of it, for the purposes of those regulations.
+
+(2A)[^key-1bd3a3daccb488b692ff43df3d18ca8f] Where regulation 6(2A) or 47(1)(a)[^key-7e6fbdd586892bb6ba70a46b896565d9] of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 applies, rate relief shall be calculated as if the award of housing benefit in the form of a rent rebate or allowance terminated at the same time as housing benefit in the form of a rate rebate for the same property in accordance with regulation 6(2) or 47(1)(b) respectively of those regulations.
+
+(2B)[^key-abb9aa824328127ec101c2dc52e7e872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a person is entitled to rate relief, then—
+
+- (a) if his income does not exceed the maximum amount, the amount of the rate relief shall be the amount which is the appropriate eligible rates in his case; and
+- (b) if his income exceeds the maximum amount, the amount of the rate relief shall be what remains after the deduction from the appropriate eligible rates of 15 per cent, of the excess of his income over the maximum amount.
+
+(4) Where the relevant authority receives information from the Department for Communities that information shall be accepted without seeking verification from other sources.
+
+(5) Notwithstanding paragraph (4) a relevant authority may delay making a decision in relation to rate relief if an issue arises as to whether the universal credit information is correct pending confirmation from the Department for Communities[^key-0ca9710002b92ad9ff46b157456f0d99] .
+
+(6) For the purposes of these regulations[^key-8e08daa8c879c01dcde77623b4b96b72] “universal credit award” shall include payments on account made to the claimant in accordance with Part 2 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 [^c22867601] as if universal credit was awarded without the application of that Part and—
+
+- (a) shall exclude any payment made under—
+  - (i) Part 3 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 or regulation 17 of the Universal Credit (Transitional Provisions) Regulations (advances)[^key-b6225237eee2f506a248c4346b2e86aa] ;
+  - (ii)[^key-612d413a1978b0ab01e8617711431e8f] regulations 53 to 58, and 64 of and schedules 2 and 3[^key-776882bdae874a9de46f8a2d9299df68] to the Universal Credit (Transitional Provisions) Regulations (transitional protection element);
+  - (iii) Part 8, Chapter 3 of the Universal Credit Regulations (hardship payment);
+  - (iv) payments made in accordance with Article 137 of the Welfare Reform Order (payments to persons suffering financial disadvantage);
+- (b) where deductions are made in accordance with—
+  - (i) Part 8, Chapter 2 of the Universal Credit Regulations (sanctions);
+  - (ii) Part 5 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 [^c22867611] (recovery of overpayments);
+  - (iii) The Social Security (Payments on Account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 [^c22867621] , regulations 96 to 104 of the Housing Benefit Regulations (Northern Ireland) 2006 and regulations 77 to 85 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^key-bb634e7040231c78bc9dcbf91e8e0d3f] ;
+  - (iv) regulation 8 of the Universal Credit (Transitional Provisions) Regulations [^key-099bb0af488b795296523daf202f5bd1]... (treatment of overpayments);
+  - (v) section 69ZH of the Administration Act (recovery of hardship payments);
+  - (vi) regulation 55, of and Schedules 5 and 6 of the Universal Credit (Claims and Payments) Regulations[^key-458271076e24d2083f4c62038a03c8ea] [^c22867631] (deduction from benefit and direct payment to third parties and in respect of child support maintenance and payment to persons with care) as modified by regulation 18 of the Universal Credit (Transitional Provisions) Regulations[^key-71e5295f1d4257d69fa193ce19ad68a6] ;
+  - (vii) the Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002 [^c22867641];
+  - (viii) the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (recovery of payments) [^c22867651],
+
+  the award shall be as if these deductions had not been made; and
+- (c) where deductions are made in accordance with Article 101 of the Welfare Reform Order (the benefit cap) as modified by regulations 6B(a)[^key-803c930838d690d6ba69979fb641786c] , 7 and 61C of the Universal Credit (Transitional Provisions) Regulations[^key-5368b9959d923a752cc54db399d03139] the award shall be the award after this deduction has been made.
+
+(7)[^key-83c78e910b88c4f54a496795614ff358] Subject to paragraph (8) for the purposes of these regulations[^key-dbb554adca54322b89d9240688398571] “income” means—
+
+- (a) income as assessed for universal credit in accordance with Part 6, Chapters 2 and 3 of the Universal Credit Regulations as adjusted by regulation 29(7) and as modified by[^key-8e3aa7ffda0f1fd03cb7c06f3f07fb8c] regulation 6B and 61B[^key-bee7ee6100d3342418cca2e8952f1d8f] of the Universal Credit (Transitional Provision) Regulations , that was applied to the universal credit award extant on the relevant date with the following modifications—
+  - (i) income from earnings shall be adjusted to the net earnings as assessed for universal credit in accordance with Part 6, Chapter 2 of the Universal Credit Regulations as modified by regulation 3A of the Universal Credit (Transitional Provisions) Regulations[^key-a3df0c2fadeb5968ae190d73f59b9a3f] less—
+    - (aa) any payment in lieu of holiday pay where holidays are not taken;
+    - (bb) any payment in lieu of notice where notice has not been worked; and
+    - (cc) half of the universal credit work allowance determined in accordance with regulation 23(2) of the Universal Credit Regulations;
+  - (ii) where the total amount to be deducted in accordance with sub paragraph (a)(i)(aa) to (cc) exceeds the amount of net earnings only the amount equivalent to the net earnings shall be deducted;
+
+plus
+
+- (b) the amount of the universal credit award in accordance with paragraph (6) at the relevant date.
+
+(8) Paragraph (7)(a)(i)(aa) and (bb) shall only apply where the claimant provides such appropriate evidence as the relevant authority may require.
+
+### 11. Eligible rates
+
+(1) Subject to these regulations, and any apportionment in accordance with Article 19 of the 1977 Order, the eligible rates shall be the amount of the payments by way of rates payable in respect of the hereditament occupied as his home.
+
+(2) Where a rateable unit consists partly of a hereditament in the capital list and partly of a hereditament in the NAV list, only such proportion of the rates payable for the part of the hereditament in the capital value list shall count as the appropriate eligible rates for the purpose of these regulations.
+
+(3) Subject to paragraph (4) where more than one person is liable to make payments by way of rates in respect of a dwelling, the rates payable in respect of that dwelling shall be apportioned by the relevant authority for the purposes of calculating the appropriate eligible rates for each such person having regard to all circumstances, in particular the number of such persons and the proportion of rates paid by each such person.
+
+(4) For the purpose of these regulations a person shall be treated as if he were not liable for rates where—
+
+- (a) he or his partner is a close relative of the owner or landlord of the dwelling where the owner or landlord also resides in that dwelling;
+- (b) he is in—
+  - (i) a residential care home;
+  - (ii) a nursing home; or
+  - (iii) independent hospital;
+- (c) the relevant authority is satisfied that the liability was created to take advantage of the rate relief scheme in these regulations.
+
+(5) The total eligible rates, whether applicable to one or more person in respect of the same dwelling cannot exceed the rates chargeable for that dwelling in accordance with the 1977 Order.
+
+### 12. Calculation of eligible rates amount for the attribution period
+
+(1) Subject to regulations 11, 13 and 14, a claimant's entitlement to rate relief in any attribution period shall be calculated in accordance with the following provisions of this regulation.
+
+(2) The amount of eligible rates for the attribution period shall be—
+
+- (a) where rates are charged—
+  - (i) for a full year by dividing the annual rates chargeable by 12.
+  - (ii) for only part of the year by dividing the rates chargeable for that portion of the year by the number equal to the number of days in that portion, multiplying by the number of days in that year and dividing by 12.
+
+(3) Subject to paragraph (4), where the application of this regulation results in a shortfall or surplus amount of rate relief compared to the rates liability for the dwelling occupied as the home for the period that the claimant occupies the same dwelling within any year and is entitled to rate relief for the whole of that period, the amount of rate relief payable in the attribution period that includes the—
+
+- (a) 31st March; or
+- (b) the date that the claimant's rates liability for that dwelling ends,
+
+shall be adjusted so that the rate relief payable for that dwelling within that year for the period that rate relief is payable corresponds with the claimant's rates liability on that dwelling for that period.
+
+(4) Paragraph (3) shall only apply where regulation 10(3)(a) applies for the whole of that period.
+
+## PART 4 — Revisions
+
+### 13. Revisions
+
+(1) Subject to the provisions in this regulation, a relevant decision may be revised or further revised by the relevant authority which made the decision where—
+
+- (a) that decision arose from an official error;
+- (b) the decision was made in ignorance of, or was based upon a mistake as to, some material fact;
+- (c)[^key-822ad1a9ad95283e9012f032755cc04d] liability for eligible rates ends;
+- (d)[^key-951b56e2fae0172a8ebba45079ec833c] entitlement to universal credit—
+  - (i) ends;
+  - (ii) would have ended if any transitional element provided for in regulations 53 to 58, and 64 of and schedules 2 and 3[^key-87cf3a83d7bcd26574aba8a3d48014bb] to the Universal Credit (Transitional Provisions) Regulations was not included, or
+  - (iii) is treated as ending in accordance with regulation 5(11A);
+- (e) entitlement to housing benefit commences except where regulation 10(2) applies;
+- (f) there is a change to the amount of the eligible rates, as prescribed in regulation 11 for which the claimant is liable;
+- (g) there is a change or cessation of occupation in the dwelling the claimant occupies or is treated as occupying as his home in accordance with Part 9 of these regulations; or
+- (h) on the next relevant date following an award of rate relief, the claimant has earned income or had earned income at the last relevant date[^key-2923b0d34917f5b45290283f46fcc8c0].
+- (i)[^key-61104ab406e5cdac7aa82c38b88c81bd] regulation 10(7)(i)(aa) or (bb) and (8) apply in accordance with the requirement in regulation 14 (7A) to provide appropriate evidence
+
+(1A)[^key-bc694fc9a272269bd2e4ec7b263348f9] Where paragraph (1)(c),(d) or (e) applies the award of rate relief will end on the effective date of the decision as determined by regulation 14.
+
+(2) Subject to paragraph (3) where a decision revised in accordance with paragraph (1) does not end entitlement, entitlement shall be re-determined in accordance with regulation 10[^key-f3a3409d96626d841422b7e7489442e4] using the relevant universal credit information in place at the last relevant date.
+
+(3) Where the effective date of the revision in accordance with regulation 14 is the same as the relevant date, the universal credit information applicable at that date shall be applied.
+
+(4) In this regulation “**official error**” means an error made by—
+
+- (a) a relevant authority or a person—
+  - (i) authorised to carry out any function of a relevant authority relating to rate relief, or
+  - (ii) providing services relating to rate relief directly or indirectly to a relevant authority;
+- (b) an officer of—
+  - (i) the Department;
+  - (ii) the Department for Communities; or
+- (c) the Commissioners of Inland Revenue, or
+- (d) a person employed by someone acting on behalf of a person or body referred to in sub-paragraphs (b) and (c),
+
+but excludes any error caused wholly or partly by any person or body not specified in sub-paragraphs (a) to (c) and any error of law which is shown to have been an error only by virtue of a subsequent decision of a court.
+
+### 14. Date from which a revision takes effect
+
+(1) Where the relevant authority decides that the date from which a relevant decision took effect was erroneous, the revised decision shall take effect from the date the original decision should have taken effect had the error not occurred and may be further revised in accordance with this regulation.
+
+(2) A decision made by virtue of regulation 13(1)(a) [^key-dbdef323d0c8f14cd55b0c6306e84f45]... shall have the same effective date as the decision being so revised.
+
+(3)[^key-6a4374684cc40def85951a8013faffa4] The effective date of a decision made in accordance with regulation 13(1)(b)—
+
+- (a) which is more advantageous to the person affected than it would otherwise have been but for that ignorance or mistake shall be:—
+  - (i) where the relevant authority is notified by the claimant of that ignorance or mistake, with such appropriate evidence as it requires, within 3 months of the date the decision to be revised was issued, the same effective date as the decision being so revised; or
+  - (ii) where within 3 months of the date the decision to be revised was issued, the relevant authority has information or appropriate evidence which is sufficient to show that the original decision was made in ignorance of, or was based upon a mistake as to some material fact, the same effective date as the decision being so revised; or
+  - (iii) where sub-paragraphs (a)(i) and (ii) do not apply, the date the relevant authority receives such appropriate evidence as it requires; or
+- (b) in any case where sub-paragraph (a) does not apply, it shall be revised from the same effective date as the decision being so revised.
+
+(4) A decision made by virtue of regulation 13(1)(d) shall have effect from the day after the last day of that entitlement to universal credit;
+
+(5) Subject to paragraphs (6) and (9) a decision made by virtue of regulation 13(1)(c), (e)[^key-9dedcdde8f23d36f78fcc2e320b3e485], (f) and (g) shall have effect from the day the change occurs.
+
+(6) For the purposes of this regulation, where a change referred to in regulation13(1)(f) and (g) occurs and the revising decision is more advantageous to the claimant—
+
+- (i) but is notified by the claimant more than 3 months from when it occurs the date of notification of the change of circumstances shall be treated as the date on which the change of circumstances occurred;
+- (ii) but the change is not notified by the claimant the change of circumstances shall be treated as occurring on the date on which the relevant authority first had sufficient information to complete the revision.
+
+(7) A decision made in accordance with regulation 13(1)(h) shall take effect from the same date in the following month or if that date does not exist the closest date before that date had it existed.
+
+(7A)[^key-ff4c57e861bead3a3fc12288dda54b3c] Where a decision is made in accordance with regulation 13(1)(i) and the effective date of the decision to be revised occurs in the period between 28th March 2020 and 4th January 2021 and the relevant authority is notified with the appropriate evidence as required in regulation 10(8) —
+
+- (a) before 4th April 2021, it shall have the same effective date as the decision being so revised;
+- (b) where sub-paragraph (a) does not apply, the effective date will be the date the relevant authority receives the appropriate evidence.
+
+(8) The amount of rate relief payable within an attribution period as a result of this regulation will be calculated in accordance with regulation 16.
+
+(9) In this regulation where there is a change in valuation of the dwelling occupied as the home in accordance with Part 3 of the 1977 Order and the relevant authority is made aware of the change within 3 months of it occurring the change shall take effect from the date the new valuation applies from.
+
+(10) Where in consequence of this regulation an award of rate relief is to be revised the entitlement in any attribution period will be calculated in accordance with regulation 16.
+
+### 15. Duty to notify changes of circumstances
+
+(1) Subject to paragraph (3), if at any time between the making of a claim and a decision being made on it, or during an award of rate relief, there is a change of circumstances which the claimant, or any person by whom or on whose behalf sums payable by way of rate relief are receivable, might reasonably be expected to know might affect the claimant's right to—
+
+- (a) the amount of rate relief; or
+- (b) the receipt of rate relief,
+
+that person shall be under a duty to notify that change of circumstances by giving notice to the relevant authority.
+
+(2) Subject to paragraph (3) the changes referred to in paragraph (1) shall include—
+
+- (a) the cessation of entitlement to universal credit;
+- (b) the suspension of payment of universal credit;
+- (c) an award of housing benefit;
+- (d) absence from a dwelling that lasts or is likely to last more than 13 weeks;
+- (e) a change in the amount of rates the claimant is liable to pay to his landlord;
+- (f) a change in the number of people living in the property, excluding dependent children;
+- (g) starting work.
+
+(3) The duty imposed on a person by paragraph (1) does not extend to changes—
+
+- (a) referred to in paragraph (2)(e) that are solely generated by the Department;
+- (b) these regulations.
+
+(4) For the purposes of this regulation “**notice**” means—
+
+- (a) by electronic communication in accordance with the Schedule; or
+- (b) by telephone call to the telephone number specified by the relevant authority if the claim falls within a class of case for which the relevant authority accepts notifications of changes of circumstances by telephone or where, in any other case, the relevant authority is willing to do so.
+
+### 16. Calculation of entitlement in attribution period where a revision occurs
+
+(1) Where a decision is to be revised in accordance with regulation 13 within an attribution period, the amount of rate relief payable for that attribution period shall be calculated by—
+
+- (a) determining the monthly entitlement in accordance with regulation 10 based on each different set of circumstances;
+- (b) dividing that monthly entitlement by the number of days in that attribution period;
+- (c) multiplying that by the number of days to which those circumstances within that attribution period apply; and
+- (d) adding each of the figures so determined to establish the amount of entitlement for that attribution period.
+
+(2) Where the revision results in cessation of rate relief, the award shall cease on the effective date of the revision.
+
+## PART 5 — Review and Appeals
+
+### 17. Review
+
+(1) Where a claim is made for rate relief under regulation 3 the relevant authority shall serve notice of any decision in relation thereto on the claimant.
+
+(2) Any person who is aggrieved by a decision of the Department notified to him under paragraph (1) may, within three months of the service of the notice on him, apply to the Department for a review by the Department of the decision so notified to him.
+
+(3) The Department shall serve on the person upon whom a notice was served under paragraph (1) a notice of the result of any review relating to that notice.
+
+### 18. Appeals
+
+(1) If the claimant is dissatisfied with the result of the review conducted in accordance with regulation 17, he may within three months of the serving of the notice of the result of the review, appeal to the Valuation Tribunal where paragraph (2) applies.
+
+(2)[^key-c1e3bfc22e11ad4bd8c8b5d84c571307] This paragraph applies to decisions made in accordance with—
+
+- (a) regulation 28 (the occupation condition) except where regulation 28(4) has been applied;
+- (b) regulation 29 (claimant living in another hereditament during essential repairs) except where regulation 29(3) has been applied;
+- (c) regulation 30 (claimant housed in two dwellings by a provider of social housing) except where regulation 30(3) has been applied;
+- (d) regulation 31 (moving home: adaptations to new home for disabled person) except where regulation 31(4) has been applied;
+- (e) regulation 32 (claimant living in another hereditament because of reasonable fear of violence) except where regulation 32(5) has been applied;
+- (f) regulations 33 (moving in delayed by adaptations to a hereditament to meet disablement needs) except where regulation 33(3) has been applied;
+- (g) regulation 34(1) (moving into a hereditament following stay in hospital or care home) except where regulation 34(3) has been applied;
+- (h) regulation 35 (periods of temporary absence exceeding 6 months) except where regulation 35(4) has been applied.
+
+(3) No appeal lies to the Valuation Tribunal against any other decision in relation to a claim for rate relief made under these regulations.
+
+## PART 6 — Suspension
+
+### 19. Cases where a relevant authority may suspend
+
+(1) A relevant authority may suspend any payment of rate relief in the circumstances set out in paragraph (2).
+
+(2) The circumstances referred to in paragraph (1) are where it appears to the relevant authority that a doubt arises as to whether—
+
+- (a) the conditions of entitlement to rate relief are or were fulfilled;
+- (b) a decision awarding rate relief should be revised under regulation 13;
+- (c) an amount of rate relief is recoverable under Part 8[^key-aa5f0ff7ceda8688abc53eb27cab1df5] (overpayments).
+
+### 20. Making or restoring of payments suspended
+
+Payments suspended in accordance with regulation 19 shall be made or restored where the relevant authority is satisfied that the benefit so suspended is properly payable and no outstanding issues remain to be resolved.
+
+## PART 7 — Payment and offsetting
+
+### 21. Time and manner of payment
+
+(1) The relevant authority shall pay rate relief at any of the following frequencies—
+
+- (a) from the date of claim up to the end of the financial year in which the decision to award rate relief is made and annually for each financial year thereafter;
+- (b) monthly in arrears for the attribution period; or
+- (c) such other time as is appropriate to the circumstances of the case.
+
+(2) Notwithstanding paragraph (1), for the purposes of regulation 19 (Cases where a relevant authority may suspend) and Part 8 (Overpayments), where rate relief is credited to a rate account, rate relief shall be treated as paid monthly in arrears on the last day of the attribution period.
+
+(3) In relation to any credit treated as made in accordance with paragraph (2) after a decision in relation to suspension or revision is made—
+
+- (a) where a new decision results in a disallowance, is made; or
+- (b) where a new decision results in a reduced award, is made after regulation 20 is applied,
+
+the balance shall be debited from the rate account and treated as if it were never made after the application of regulation 22.
+
+### 22. Offsetting
+
+(1) Where a person has been paid a sum of rate relief under a decision which is subsequently revised or further revised, any sum paid in respect of the period covered by the subsequent decision shall be offset against arrears of entitlement under the subsequent decision except to the extent that the sum exceeds the arrears and shall be treated as properly paid on account of them.
+
+(2) Any amount of housing benefit for rates paid in respect of a period for which there is rate relief entitlement may be treated as properly payable on account of rate relief up to the amount of rate relief that is due for that period.
+
+## PART 8 — Overpayments
+
+### 23. Recoverable overpayments
+
+Any amount of rate relief determined in accordance with these regulations which is subsequently found to have been paid in excess of entitlement shall be an overpayment recoverable by the Department.
+
+### 24. Person from whom recovery may be sought
+
+Where an overpayment is recoverable in accordance with regulation 23, it shall be recoverable from—
+
+- (a) in the case where rates are chargeable on a hereditament in accordance with Article 20 or 21 of the 1977 Order and the overpayment is in relation to—
+  - (i) the amount of the rates liability determined in accordance with regulation 11 based on information supplied by the owner; or
+  - (ii) occupation of the hereditament,
+
+  the owner, the claimant and any person acting on behalf of the claimant in accordance with regulation 4;
+- (b) in any other case it shall be recoverable from[^key-56bee5a99dc20cda246f9ba7566fdc36] the claimant and any person acting on behalf of the claimant in accordance with regulation 4.
+
+### 25. Methods of recovery
+
+(1) Without prejudice to any other method of recovery, a relevant authority may recover an overpayment due from any person referred to in regulation 24 (person from whom recovery may be sought) by any of the methods specified in paragraph (2) or any combination of those methods.
+
+(2) An overpayment may be recovered either—
+
+- (a) by payment by or on behalf of the person from whom it is recoverable;
+- (b) by an addition, up to the amount of the overpayment, being made to the rate account as rates payable;
+- (c) by deduction from any rate relief to which that person is entitled (including arrears of entitlement after offsetting under regulation 22); or
+- (d) where an overpayment is recoverable from a claimant who has a partner[^key-cb90536dd30a01a413c6a59fb68f968a], a relevant authority may recover the overpayment by deduction from any rate relief payable to the claimant's partner provided that the claimant and that partner were a couple both at the time of the overpayment and when the deduction is made.
+
+### 26. Sums to be deducted in calculating recoverable overpayments
+
+(1) In calculating the amount of a recoverable overpayment of rate relief, the relevant authority shall deduct any amount of rate relief which should have been determined to be payable in respect of the whole or part of the overpayment period—
+
+- (a) on the basis of the claim as presented to the relevant authority;
+- (b) on the basis of the claim as it would have appeared had the correct data been used by the relevant authority; or
+- (c) on the basis of the claim as it would have appeared if any change of circumstances had been notified to the relevant authority at the time that change occurred.
+
+(2) In calculating the amount of recoverable overpayment of rate relief, the relevant authority may deduct from the rate account so much of any payment of rates in respect of the overpayment period which exceeds the amount, if any, which the claimant was liable to pay for that period under the original erroneous decision.
+
+### 27. Overpayment of rate relief where there is no liability to pay rates
+
+(1) Where rate relief has been credited to a rate account in respect of a property to which a claimant is not chargeable to rates, in accordance with the 1977 Order, including when it is credited after the death of a claimant, the amount of rate relief so paid shall be debited from the rate account.
+
+(2) Any payment other than a credit paid to or on behalf of a deceased person which covers a period after the date of death shall be offset against any award of rate relief for the same or part of the same period paid to any person who was a former partner of the deceased person at the date of his death, regardless of whether it is for the same property.
+
+## PART 9 — Circumstances in which a claimant is or is not to be treated as occupying a hereditament as his home
+
+### 28. The occupation condition
+
+(1) A claimant is to be treated as occupying as his home the hereditament normally occupied as his home.
+
+(2) Subject to these regulations, no claimant is to be treated as occupying a hereditament which comprises more than one hereditament.
+
+(3) Where the claimant occupies more than one hereditament, regard is to be had to all the circumstances in determining which hereditament the claimant occupies as his home, including (among other things) any person with whom the claimant occupies each dwelling.
+
+(4) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 1 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+### 29. Claimant living in another hereditament during essential repairs
+
+(1) Where a claimant—
+
+- (a) is required to move into a hereditament (“the other hereditament”) on account of essential repairs being carried out to the hereditament the claimant normally occupies as his home;
+- (b) intends to return to the hereditament which is under repair; and
+- (c) is liable for rates in respect of either the other hereditament or the hereditament which he normally occupies as his home (but not both),
+
+the claimant is to be treated as normally occupying as his home the hereditament in respect of which those conditions are met.
+
+(2) A claimant is subject to regulation 28[^key-bb6b720c3e7463f8df5d53468b8758a7] where—
+
+- (a) paragraph (1)(a) and (b) apply to the claimant; but
+- (b) the claimant is liable for rates in respect of both the other hereditament and the hereditament which he normally occupies as his home.
+
+(3) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 2 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+### 30. Claimant housed in two dwellings by a provider of social housing
+
+(1) In paragraph (2), “**relevant claimant**” means a claimant who meets all of the following conditions—
+
+- (a) the first condition is that the claimant has been housed in two dwellings (“**hereditament A**” and “**hereditament B**”) by a provider of social housing on account of the number of children and qualifying young persons living with the claimant;
+- (b) the second condition is that the claimant normally occupies both hereditament A and hereditament B with children or qualifying young persons for whom the claimant is responsible;
+- (c) the third condition is that the claimant is liable for rates in respect of both hereditament A and hereditament B (and for these purposes it is irrelevant whether the claimant's liability is to the same or a different person).
+
+(2) In the case of a relevant claimant, both hereditament A and hereditament B are to be treated as the single hereditament which the relevant claimant normally occupies as his home.
+
+(3) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 3 of Schedule 3 to the Universal Credit Regulations shall be followed for the purposes of this regulation.
+
+(4) In paragraph (1)—
+
+- “**social housing**” means housing provided by—
+  - (a) the Housing Executive; or
+  - (b) a registered housing association
+- “**registered housing association**” means a housing association which is registered in a register maintained under Article 14 of the Housing (Northern Ireland) Order 1992;
+- “**qualifying young person**” means a qualifying young person for the purposes of the Universal Credit Regulations.
+
+### 31. Moving home: adaptations to new home for disabled person
+
+(1) Paragraph (2) applies where—
+
+- (a) the claimant has moved into a hereditament (“the new hereditament”) and, immediately before the move, is liable for rates in respect of the new hereditament; and
+- (b) there was a delay in moving in that was necessary to enable the new hereditament to be adapted to meet the disablement needs of a family member in receipt of—
+  - (i) the care component of disability living allowance at the middle or highest rate,
+  - (ii) attendance allowance, or
+  - (iii) the daily living component of personal independence payment.
+
+(2) The claimant is to be treated as occupying both the new hereditament and the hereditament from which the move was made (“the old hereditament”) if—
+
+- (a) immediately before the move, the claimant was entitled to rate relief in respect of the old hereditament; and
+- (b) the delay in moving into the new hereditament was reasonable.
+
+(3) No claimant may be treated as occupying both the old hereditament and the new hereditament under this regulation for more than one month.
+
+(4) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 4 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+### 32. Claimant living in another hereditament because of reasonable fear of violence
+
+(1) This regulation applies where—
+
+- (a) a claimant is occupying a hereditament (“the other hereditament”) other than the hereditament which he normally occupies as his home (“the home hereditament”);
+- (b) it is unreasonable to expect the claimant to return to the home hereditament on account of the claimant's reasonable fear of violence in the home, or by a former partner, against the claimant or any family member for whom the claimant is responsible; and
+- (c) the claimant intends to return to the home hereditament.
+
+(2) The claimant is to be treated as normally occupying both the home hereditament and the other hereditament as his home if he is liable for rates in respect of both the home hereditament and the other hereditament.
+
+(3) Where the claimant is liable for rates in respect of one hereditament only, he is to be treated as normally occupying that hereditament as his home.
+
+(4) No claimant may be treated as occupying both the home hereditament and the other hereditament under paragraph (2) for more than 12 months.
+
+(5) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 5 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+### 33. Moving in delayed by adaptations to a hereditament to meet disablement needs
+
+(1) The claimant is to be treated as having occupied a hereditament before he moved into it where—
+
+- (a) the claimant has since moved in and, immediately before the move, is liable for rates in respect of the hereditament;
+- (b) there was a delay in moving in that was necessary to enable the hereditament to be adapted to meet the disablement needs of a family member in receipt of—
+  - (i) the care component of disability living allowance at the middle or highest rate,
+  - (ii) attendance allowance, or
+  - (iii) the daily living component of personal independence payment;
+- (c) it was reasonable to delay moving in.
+
+(2) No claimant may be treated as occupying a hereditament under this regulation for more than one month.
+
+(3) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 6 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+### 34. Moving into a hereditament following stay in hospital or care home
+
+(1) The claimant is to be treated as having occupied a hereditament before he moved into it where—
+
+- (a) he has since moved in and, immediately before the move was liable for rates in respect of that hereditament; and
+- (b) the liability to make the payments arose while he was a patient or accommodated in a care home.
+
+(2) No claimant may be treated as occupying a hereditament under this regulation for more than one month.
+
+(3) Any determination in respect of the claimant's award of universal credit made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 7 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+(4) In this paragraph—
+
+- “**care home**” means a residential care home;
+- “**patient**” means a person who is undergoing medical or other treatment as an in-patient in any hospital or similar institution.
+
+## PART 10 — Treated as not occupying a hereditament
+
+### 35. Periods of temporary absence exceeding 6 months
+
+(1) Subject to paragraphs (2) and (3), a claimant is to be treated as no longer occupying a hereditament from which they are temporarily absent where the absence exceeds, or is expected to exceed, six months.
+
+(2) Paragraph (1) shall not apply to a claimant who falls within regulation 29 (claimant living in another hereditament during essential repairs).
+
+(3) Where a claimant who falls within regulation 32 (claimant living in another hereditament because of reasonable fear of violence) is temporarily absent from the hereditament which he normally occupies as his home, he is to be treated as no longer occupying that hereditament where his absence exceeds, or is expected to exceed, 12 months.
+
+(4) Any determination made (whether on the initial decision or as subsequently revised or superseded or further revised or superseded) in accordance with paragraph 8 of Schedule 3 to the Universal Credit Regulations shall be followed for the purpose of this regulation.
+
+## PART 11 — Information
+
+### 36. Supply and sharing of information
+
+For the purposes of these regulations the Department may make use of relevant information pertaining to a universal credit award that may be held by the Department for Communities.
+
+### 37. Recording of information received
+
+Where the Department obtains information under regulation 36, it shall make and retain a record of that information.
+
+## PART 12 — Consequential provisions
+
+### 38. Consequential provisions[^key-6d60de76334e977080c9b31689e367a5]
+
+(1) Subject to the provisions of paragraphs (2), (3) and (4) where a person entitled to low income rate relief makes a claim for Universal Credit, whether or not subsequently withdrawn, entitlement to low income rate relief will terminate—
+
+- (a) on the day before the first date on which the claimant is entitled to universal credit in connection with the claim; or
+- (b) if the claimant is not entitled to universal credit, on the day before the first date on which they would have been so entitled, if all the basic and financial conditions applicable to the claimant had been met.
+
+(2) Subject to the provisions of paragraphs (3) and (4) where a migration notice is issued in accordance with regulation 45 of the Universal Credit (Transitional Provisions) Regulations to a person entitled to low income rate relief, entitlement to low income rate relief will terminate—
+
+- (a) on migration day if a claim for universal credit is made; or
+- (b) where no claim for universal credit is made, on the day before deadline day.
+
+(3) Paragraphs (1)(b) and (2)(b) shall not apply to claimants who are over the upper age limit for universal credit as provided in Article 9(1)(b) of the Welfare Reform Order unless regulation 3(1)(a) of the Universal Credit Regulations apply (they are a member of a couple and one member is under the qualifying age for state pension credit).
+
+(4) Paragraphs (1) and (2) shall not preclude the claimant from low income rate relief in respect of a hereditament for specified accommodation or temporary accommodation where housing benefit is not precluded for that hereditament by virtue of regulation 3(2)(a) of the Universal Credit (Transitional Provisions).
+
+(5) No person shall be eligible to make a claim to low income rate relief on any date on which that person is eligible to claim universal credit except where—
+
+- (a) a person over the upper age limit for universal credit as provided in Article 9(1)(b) of the Welfare Reform Order who is issued with a migration notice does not claim universal credit; or
+- (b) the hereditament in relation to the claim falls within regulation 3(2)(a) of the Universal Credit (Transitional Provisions) Regulations (housing benefit in respect of specified accommodation and temporary accommodation).
+
+(6) For the purposes of this regulation—
+
+- “**deadline day**” has the meaning as prescribed by regulation 45 of the Universal Credit (Transitional Provisions) Regulations;
+- “**migration day**” has the meaning as prescribed in regulation 50 of the Universal Credit (Transitional Provisions) Regulations.
+
+Sealed with the Official Seal of the Department of Finance on 11th September 2017
+
+Brian McClure
+
+A senior officer of the
+
+Department of Finance
+
+## SCHEDULE — ELECTRONIC COMMUNICATIONS
+
+Regulation 3
+
+### PART 1 — Use of Electronic Communications
+
+#### 1. Use of electronic communications by the relevant authority or the Department
+
+The relevant authority may use an electronic communication in connection with claims for, and awards of, relief under these regulations.
+
+#### 2. Conditions for the use of electronic communications by another person
+
+(1) A person other than the relevant authority may use an electronic communication in connection with the matters referred to in paragraph 1 if the conditions specified in sub-paragraphs (2) to (5) are satisfied.
+
+(2) The first condition is that the person is for the time being permitted to use an electronic communication for the purpose in question by an authorisation given by means of a direction of the relevant authority.
+
+(3) The second condition is that the person uses an approved method of—
+
+- (a) authenticating the identity of the sender of the communication where required to do so;
+- (b) electronic communication;
+- (c) authenticating any claim or information delivered by means of an electronic communication; and
+- (d) subject to sub-paragraph (6), submitting any claim or information to the relevant authority.
+
+(4) The third condition is that any claim or information sent by means of an electronic communication is in an approved form.
+
+(5) The fourth condition is that the person maintains such records as may be specified in a direction given by the relevant authority.
+
+(6) Where a claimant uses any method other than the method approved by the relevant authority of submitting any claim or information, it is to be treated as not having been submitted.
+
+(7) In this paragraph “**approved**” means approved by means of a direction given by the relevant authority for the purposes of this Schedule.
+
+#### 3. Use of intermediaries
+
+The relevant authority may use intermediaries in connection with—
+
+- (a) the delivery of any claim or information by means of an electronic communication; and
+- (b) the authentication or security of anything transmitted by such means,
+
+and may require other persons to use intermediaries in connection with those matters.
+
+### PART 2 — Evidential Provisions
+
+#### 4. Effect of delivering information by electronic communications
+
+(1) Any claim or information which is delivered by means of an electronic communication is to be treated as having been delivered in the manner or form required by any provision of these regulations on the day on which the conditions imposed—
+
+- (a) by this Schedule; and
+- (b) by or under an applicable enactment (except to the extent that the condition thereby imposed is incompatible with this Schedule),
+
+are satisfied.
+
+(2) The relevant authority may, by a direction, determine that any claim or information is to be treated as delivered on a different day (whether earlier or later) from the day specified in sub-paragraph (1).
+
+(3) Any claim or information is not to be taken to have been delivered to an official computer system by means of an electronic communication unless it is accepted by the system to which it is delivered.
+
+#### 5. Proof of delivery
+
+(1) The use of an approved method of electronic communication is to be presumed, unless the contrary is proved, to have resulted in delivery—
+
+- (a) in the case of any claim or information falling to be delivered to the relevant authority, if the delivery of that claim or information is recorded on an official computer system; or
+- (b) in the case of any information that falls to be delivered by the relevant authority, if the dispatch of that information is recorded on an official computer system.
+
+(2) The use of an approved method of electronic communication is to be presumed, unless the contrary is proved, not to have resulted in delivery—
+
+- (a) in the case of any claim or information falling to be delivered to the relevant authority, if the delivery of that claim or information is not recorded on an official computer system; or
+- (b) in the case of information that falls to be delivered by the relevant authority, if the despatch of that information is not recorded on an official computer system.
+
+(3) The time and date of receipt of any claim or information sent by an approved method of electronic communication is to be presumed, unless the contrary is proved, to be that recorded on an official computer system.
+
+#### 6. Proof of identity
+
+(1) The identity of—
+
+- (a) the sender of any claim or information delivered by means of an electronic communication to an official computer system; or
+- (b) the recipient of any claim or information delivered by means of an electronic communication from an official computer system,
+
+is to be presumed, unless the contrary is proved, to be the person whose name is recorded as such on that official computer system.
+
+(2) Any claim or information delivered by an approved method of electronic communication on behalf of another person (“P”) is to be deemed to have been delivered by P unless P proves that it was delivered without P's knowledge or connivance.
+
+#### 7. Proof of content
+
+The content of any claim or information sent by means of an electronic communication is to be presumed, unless the contrary is proved, to be that recorded on an official computer system.
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for rate relief for eligible claimants and come into operation in line with the making of a relevant Commencement Order under Article 2(2), (3)(a) and (4) of the Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006).
+
+Part 1 of these Regulations contains general provisions and provides for the citation, commencement and interpretation provisions.
+
+Part 2, read in conjunction with the Schedule, makes provision for making a claim for rate relief, as well as the timescales and means through which a claim shall be made, amended or withdrawn.
+
+Part 3 makes provision as to the entitlement to rate relief and outlines the eligible rates to be taken into account in any provision of rate relief.
+
+Part 4 provides for revisions to a decision as to entitlement, as well as the effective date of such a revision and the process in respect of notifying any associated change of circumstances.
+
+Part 5 sets out the process through which a decision made under the Regulations may be reviewed and appealed.
+
+Part 6 sets out the process through which a payment of rate relief may be suspended, as well as providing for the means of restoring any suspended payment.
+
+Part 7 provides for the mechanisms for payment and offsetting rate relief.
+
+Part 8 sets out the method for identifying overpayments of rate relief and the means through which the overpayments may be recovered.
+
+Part 9 provides for the range of circumstances in which a claimant is, or is not to be, treated as occupying a hereditament as his or her home.
+
+Part 10 makes provision as to when a person shall be treated as no longer occupying a hereditament for the purposes of these Regulations.
+
+Part 11 makes provision for the supply, sharing and recording of information in relation to the scheme.
+
+Part 12 makes consequential provisions to choreograph the phasing in of these Regulations in conjunction with the introduction of Universal Credit in Northern Ireland. It also ensures that any Commencement Order made under Article 2(2), (3)(a) and (4) of the Welfare Reform (Northern Ireland) Order 2015 that has a consequential effect on housing benefit support, shall have the same effect on the low income rate relief as provided through the Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007 No. 204) and the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007 No. 203) An exception is made for cases where a person, but for regulation 38(2), would be eligible to claim housing benefit by virtue of regulation 3(2)(a) of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 226) (housing benefit in respect of specified accommodation).
+
+## Annotations
+
+[^c22867411]: Marginal citation: The Department of Finance and Personnel was renamed the Department of Finance by section 1(4) of The Departments Act (Northern Ireland) [2016 c.5](https://www.legislation.gov.uk/ukpga/2016/5)
+
+[^c22867421]: Marginal citation: SI 1977/2157 N.I. 28; [Article 30A](https://www.legislation.gov.uk/nisr/2017/184/article/30A) was amended by Article 134 of [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I.1))](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^c22867431]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^c22867441]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^c22867451]: Marginal citation: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^key-51d9f1f780320a71f8f7dad93298f6ba]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/a)
+
+[^c22867461]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216)
+
+[^key-55a052fd09037c35af5e457d2e166447]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/b)
+
+[^c22867471]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^key-3e5cdd05aa5d2f9dd75ab094353f3d6e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [168](https://www.legislation.gov.uk/uksi/2019/1514/regulation/168) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-08a9ca16bc3646b577ee60d1d7e20a27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [118](https://www.legislation.gov.uk/uksi/2019/1514/regulation/118) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^c22867481]: Marginal citation: [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
+
+[^c22867491]: Marginal citation: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); the definition of “electronic communications” has been substituted by paragraph 170 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c22867501]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^key-344b3966ced7390803a0337c4adcee37]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/c)
+
+[^c22867511]: Marginal citation: S.R. [2007 No. 204](https://www.legislation.gov.uk/ukcm/2007/204)
+
+[^c22867521]: Marginal citation: S.R. [2007 No. 203](https://www.legislation.gov.uk/ukcm/2007/203)
+
+[^key-65c3f7137c8e5473acb7eada33262957]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/d)
+
+[^key-ea9c51eef1aba0c11498575b30aecbec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/184/regulation/2/1) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
+
+[^key-6b3819f7e09d9175f426f9f7a552344b]: Textual amendment: Words in reg. 2(1) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/a)
+
+[^c22867531]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^key-6bc2d3a69b23b1549c98c37da6b9184a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/184/regulation/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/2/e)
+
+[^key-8b623b359a6a2908d30e0253402c7d27]: Textual amendment: Reg. 2(2) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/b)
+
+[^key-f762b7e3fd2f7413d4cd7fcd353498f4]: Textual amendment: Words in reg. 2(3) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/c)
+
+[^c22867541]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-d8acbd45419fea8ab41756da04613aa1]: Textual amendment: Reg. 2(5)-(6) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/2/d)
+
+[^key-d9d7efc81b71a0dfa18698723ad7bf54]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/3) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/a)
+
+[^key-4276451e5999ef2ddc4034e215715f59]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/4) omitted (8.5.2018) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/b)
+
+[^key-426475885408f6b54ea55538b26a3973]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2017/184/regulation/3/5) omitted (8.5.2018) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/3/c)
+
+[^c22867551]: Marginal citation: [S.I. 1986/595 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/595).
+
+[^c22867561]: Marginal citation: [1971 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1971/33).
+
+[^c22867571]: Marginal citation: [S.I. 1987/1627 (N.I. 16)](https://www.legislation.gov.uk/nisi/1987/1627).
+
+[^key-3c4023d5aa7b644b39b9b62a91854e73]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/4/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/3)
+
+[^key-7a6ec3fde794cd7559f99d02425d2e54]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/1A)[(1B)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/1B) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/4/a)
+
+[^key-6703413f3b4516dca5da665e9b698d64]: Textual amendment: Words in reg. 5(4) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/a)
+
+[^key-c1103a2ba4df65da124d3525193244b6]: Textual amendment: [Reg. 5(11A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/11A) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/4/b)
+
+[^key-47db235fa5d3a7d314e57c0476794ae2]: Textual amendment: Words in reg. 5(12) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/b)
+
+[^key-612f50a851c2d2d5cc78d4660dde32a9]: Textual amendment: [Reg. 5(14)](https://www.legislation.gov.uk/nisr/2017/184/regulation/5/14) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/4/c)
+
+[^key-a54cd381866fa34165dcff10fd4acf3b]: Textual amendment: Words in reg. 10(1)(c) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/a)
+
+[^key-3b60c18a506856ac299721a3d0cd3f92]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/1/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/a)
+
+[^c22867591]: Marginal citation: S.R. [2016 No. 226](https://www.legislation.gov.uk/ukcm/2016/226)
+
+[^key-34eeca19b1748ee142d6155a04d21691]: Textual amendment: Words in reg. 10(2) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/b)
+
+[^key-1bd3a3daccb488b692ff43df3d18ca8f]: Textual amendment: Reg. 10(2A) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/c)
+
+[^key-7e6fbdd586892bb6ba70a46b896565d9]: Textual amendment: Words in [reg. 10(2A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/2A) inserted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/a)
+
+[^key-abb9aa824328127ec101c2dc52e7e872]: Textual amendment: [Reg. 10(2B)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/2B) omitted (16.6.2025) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/b)
+
+[^key-0ca9710002b92ad9ff46b157456f0d99]: Textual amendment: Words in reg. 10(5) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/5/d)
+
+[^key-8e08daa8c879c01dcde77623b4b96b72]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(i)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/i)
+
+[^c22867601]: Marginal citation: S.R. [2016 No. 223](https://www.legislation.gov.uk/ukcm/2016/223)
+
+[^key-b6225237eee2f506a248c4346b2e86aa]: Textual amendment: Words in [reg. 10(6)(a)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/i) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/ii/aa)
+
+[^key-612d413a1978b0ab01e8617711431e8f]: Textual amendment: [Reg. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/ii) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/ii/bb)
+
+[^key-776882bdae874a9de46f8a2d9299df68]: Textual amendment: Words in [reg. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/a/ii) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
+
+[^c22867611]: Marginal citation: S.R. [2016 No. 224](https://www.legislation.gov.uk/ukcm/2016/224)
+
+[^c22867621]: Marginal citation: S.R. [1988 No. 142](https://www.legislation.gov.uk/ukcm/1988/142)
+
+[^key-bb634e7040231c78bc9dcbf91e8e0d3f]: Textual amendment: Words in [reg. 10(6)(b)(iii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/iii) added (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(aa)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/aa)
+
+[^key-099bb0af488b795296523daf202f5bd1]: Textual amendment: Words in [reg. 10(6)(b)(iv)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/iv) omitted (1.4.2023) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(bb)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/bb)
+
+[^key-458271076e24d2083f4c62038a03c8ea]: Textual amendment: Words in [reg. 10(6)(b)(vi)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/vi) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/3)
+
+[^c22867631]: Marginal citation: S.R. [2016 No. 220](https://www.legislation.gov.uk/ukcm/2016/220)
+
+[^key-71e5295f1d4257d69fa193ce19ad68a6]: Textual amendment: Words in [reg. 10(6)(b)(vi)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/b/vi) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iii)(cc)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/cc)
+
+[^c22867641]: Marginal citation: S.R. [2002 No. 79](https://www.legislation.gov.uk/ukcm/2002/79)
+
+[^c22867651]: Marginal citation: S.R. [2016 No. 223](https://www.legislation.gov.uk/ukcm/2016/223)
+
+[^key-803c930838d690d6ba69979fb641786c]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/c) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(c)(iv)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iv)
+
+[^key-5368b9959d923a752cc54db399d03139]: Textual amendment: Words in [reg. 10(6)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/6/c) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/c)
+
+[^key-83c78e910b88c4f54a496795614ff358]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7)[(8)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/8) substituted for [reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7) (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/2)
+
+[^key-dbb554adca54322b89d9240688398571]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(i)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/i)
+
+[^key-8e3aa7ffda0f1fd03cb7c06f3f07fb8c]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/ii)
+
+[^key-bee7ee6100d3342418cca2e8952f1d8f]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/3/d)
+
+[^key-a3df0c2fadeb5968ae190d73f59b9a3f]: Textual amendment: Words in [reg. 10(7)(a)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/10/7/a/i) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(5)(d)(iii)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/d/iii)
+
+[^key-822ad1a9ad95283e9012f032755cc04d]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/c) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/a)
+
+[^key-951b56e2fae0172a8ebba45079ec833c]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/b)
+
+[^key-87cf3a83d7bcd26574aba8a3d48014bb]: Textual amendment: Words in [reg. 13(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/d/ii) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/2)
+
+[^key-2923b0d34917f5b45290283f46fcc8c0]: Textual amendment: Words in [reg. 13(1)(h)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/h) substituted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/3/a)
+
+[^key-61104ab406e5cdac7aa82c38b88c81bd]: Textual amendment: [Reg. 13(1)(i)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1/i) inserted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/3/b)
+
+[^key-bc694fc9a272269bd2e4ec7b263348f9]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/1A) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/c)
+
+[^key-f3a3409d96626d841422b7e7489442e4]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/13/2) inserted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/6/d)
+
+[^key-dbdef323d0c8f14cd55b0c6306e84f45]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/2) omitted (1.4.2023) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/7/a)
+
+[^key-6a4374684cc40def85951a8013faffa4]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/3) substituted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/4/a)
+
+[^key-9dedcdde8f23d36f78fcc2e320b3e485]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/5) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/7/b)
+
+[^key-ff4c57e861bead3a3fc12288dda54b3c]: Textual amendment: [Reg. 14(7A)](https://www.legislation.gov.uk/nisr/2017/184/regulation/14/7A) inserted (4.1.2021) by [The Rate Relief (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/308)](https://www.legislation.gov.uk/nisr/2020/308), [regs. 1](https://www.legislation.gov.uk/nisr/2020/308/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2020/308/regulation/2/4/b)
+
+[^key-c1e3bfc22e11ad4bd8c8b5d84c571307]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/18/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/8)
+
+[^key-aa5f0ff7ceda8688abc53eb27cab1df5]: Textual amendment: Words in [reg. 19(2)(c)](https://www.legislation.gov.uk/nisr/2017/184/regulation/19/2/c) substituted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/6)
+
+[^key-56bee5a99dc20cda246f9ba7566fdc36]: Textual amendment: Word in [reg. 24(b)](https://www.legislation.gov.uk/nisr/2017/184/regulation/24/b) inserted (8.5.2018) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/109)](https://www.legislation.gov.uk/nisr/2018/109), [regs. 1](https://www.legislation.gov.uk/nisr/2018/109/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2018/109/regulation/2/7)
+
+[^key-cb90536dd30a01a413c6a59fb68f968a]: Textual amendment: Words in [reg. 25(2)(d)](https://www.legislation.gov.uk/nisr/2017/184/regulation/25/2/d) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/9)
+
+[^key-bb6b720c3e7463f8df5d53468b8758a7]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/29/2) substituted (1.4.2023) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/39)](https://www.legislation.gov.uk/nisr/2023/39), [regs. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/10)
+
+[^key-6d60de76334e977080c9b31689e367a5]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2017/184/regulation/38) substituted (16.6.2025) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/91/regulation/3/4)

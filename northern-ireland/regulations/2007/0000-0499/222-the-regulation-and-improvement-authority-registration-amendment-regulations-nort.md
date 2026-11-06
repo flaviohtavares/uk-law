@@ -1,0 +1,166 @@
+---
+title: The Regulation and Improvement Authority (Registration) (Amendment) Regulations (Northern Ireland) 2007
+id: nisr/2007/222
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-03-29'
+text_date: '2014-04-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/222
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/222/pdfs/nisr_20070222_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/222/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Regulation and Improvement Authority (Registration) (Amendment) Regulations (Northern Ireland) 2007
+
+> Text as at 2014-04-11.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 222
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+The Regulation and Improvement Authority (Registration) (Amendment) Regulations (Northern Ireland) 2007
+
+Made
+
+29th March 2007
+
+Coming into operation
+
+30th April 2007
+
+The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred on it by Articles 17 (1) (a) and (b) and 48 (2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
+
+## 1. Citation, and commencement[^key-241de794cd0e3140506e020032321887]
+
+These Regulations may be cited as the Regulation and Improvement Authority (Registration) (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
+
+## 2. Amendment of the Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^key-e999feb1a1979c459867c03242382742]
+
+(1) The Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 2 (1) (Interpretation)—
+
+- (a) the following definitions shall be inserted in the appropriate places—
+
+  > - “direct service provider” means a provider who supplies a domiciliary care worker who is employed by, and who acts for and under the control of, the provider;
+  > - “domiciliary care service user” means any person for whom a domiciliary care agency—
+  >   - supplies a domiciliary care worker who is employed by the agency (including domiciliary care workers supplied by a direct service provider); or
+  >   - provides services for the purpose of supplying him with a domiciliary care worker for employment by him;
+  > - “domiciliary care worker” means a person who—
+  >   - is employed by a domiciliary care agency to act for and under the control of , another person;
+  >   - is introduced by a domiciliary care agency to a domiciliary care service user for employment by him; or
+  >   - is employed by a direct service provider, in a position which is concerned with the provision of personal care in their own homes for persons who by reason of illness, infirmity or disability are unable to provide it for themselves without assistance;
+  > - “personal care” has the same meaning as in the Domiciliary Care Agencies Regulations (Northern Ireland) 2007[^f00003]
+
+  ;
+- (b) in the definition of “placement plan” the words “Regulation 13” shall be substituted by the words “Regulation 12”;
+- (c) the definition of “statement of purpose” shall be amended as follows—
+  - (i) at sub-paragraph (e) substitute the words “to be completed in relation to” with the words “to be compiled in accordance with regulation 4 of”;
+  - (ii) for paragraph (f) substitute the following paragraphs:
+
+    > - (f) in relation to a day care setting the written statement required to be compiled in accordance with regulation 4 of the Day Care Settings Regulations (Northern Ireland) 2007[^f00004];
+    > - (g) in relation to a residential family care centre, the written statement required to be compiled in accordance with regulation 3 of the Residential Family Centres Regulations (Northern Ireland) 2007[^f00005];
+    > - (h) in relation to a domiciliary care agency the written statement required to be prepared in accordance with regulation 5 of the Domiciliary Care Agencies Regulations (Northern Ireland) 2007;
+    > - (i) in relation to an adult placement agency the written statement required to be compiled in accordance with regulation 3 of the Adult Placement Agencies Regulations (Northern Ireland) 2007[^f00006];
+    > - (j) in relation to an establishment or agency of any other description, a written statement of the aims and objectives of the establishment or agency;
+- (d) at the end of paragraph (3), there shall be added—
+
+  > - (b) references to the supply of a domiciliary care worker mean—
+  >   - (i) the supply of a domiciliary care worker who is employed by a domiciliary care agency to act for and under the control of another person;
+  >   - (ii) the introduction of a domiciliary care worker employed by a direct service provider to a domiciliary care service user;
+  > - (c) the term “employment” includes employment under a contract of service or a contract for services or otherwise than under a contract and whether or not for payment.
+
+(3) In regulation 8 (2) (a) for the words “Schedule 6” substitute the words “Schedule 8”.
+
+(4) In Schedule 2—
+
+- (a) for paragraph 4 there shall be substituted the following paragraph:
+
+  > **4.** When Part V of the Police Act 1997[^f00007] is commenced in Northern Ireland the following documents in relation to the responsible person—
+  >
+  > - (a) a criminal record certificate—
+  >   - (i) which has been issued under section 113A of the Police Act 1997; and
+  >   - (ii) the application for which was countersigned by the RQIA[^key-c37b79a26d1aa3abbf4406aae4797e16] ;
+  > - (b) an enhanced criminal record certificate—
+  >   - (i) which has been issued under section 113B of that Act; and
+  >   - (ii) the application for which was signed by the RQIA .
+- (b) in paragraph 10:
+  - (i) in sub-paragraph (1), for the words “In the case of an establishment or agency other than a nursing agency, a statement” there shall be substituted the words “In the case of an establishment or agency other than a domiciliary care agency or a nursing agency, a statement”
+  - (ii) for sub-paragraph (2) substitute the following paragraph:
+
+“(2) The following documents are specified when Part V of the Police Act 1997 is commenced in Northern Ireland—
+
+- (a) where the position falls within section 113 of the Police Act 1997, an enhanced criminal record check issued under section 113B of that Act; or
+- (b) in any other case, a criminal record certificate issued to the person under section 113A of that Act.
+  - (iii) after sub-paragraph (4) there shall be added:
+
+    > (5) In the case of a domiciliary care agency, a statement confirming that—
+    >
+    > - (a) where the applicant is an organisation, the documents specified in sub-paragraph (2) have been issued to the responsible individual;
+    > - (b) the information specified in sub-paragraph (3) has been provided to the applicant in relation to any person who is supplied, or is intended to be supplied, as a domiciliary care worker by the domiciliary agency;
+    > - (c) the applicant will make the documents or information referred to in this sub-paragraph available for inspection by the RQIA if the RQIA so requires
+
+    .
+
+(5) In Schedule 8 at the end of Part II, after paragraph 9 insert the following paragraph:
+
+> **10. Registers relating to day care settings, residential family centres, domiciliary care agencies and adult placement agencies**
+>
+> In the case of the register relating to—
+>
+> - (a) day care settings, the code DCS;
+> - (b) residential family centres, the code RFC;
+> - (c) domiciliary care agencies, the code DCA;
+> - (d) adult placement agencies, the code APA.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 29th March 2007.
+
+M. Briscoe
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005 which make provision in relation to the registration of certain establishments and agencies under Part III of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2005. The amendments correct errors in the 2005 Regulations. Amendments also relate to the registration of the following descriptions of establishments and agencies—
+
+- Day Care Settings
+- Residential Family Centres
+- Domiciliary Care Agencies
+- Adult Placement Agencies
+
+In relation to the each of the above description of establishments and agencies, these Regulations amend the 2005 Regulations so as to define the Statement of Purpose that is to be provided to the Regulation and Improvement Authority by certain applicants for registration (amendment to regulation 2). Certain new definitions are also added into regulation 2 in consequence of the amendments made by these regulations.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^key-241de794cd0e3140506e020032321887]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1)
+
+[^key-e999feb1a1979c459867c03242382742]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/222/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1)
+
+[^f00002]: Footnote: [S.R. 2005/99](https://www.legislation.gov.uk/nisr/2005/99)
+
+[^f00003]: Footnote: [S.R. 2007/235](https://www.legislation.gov.uk/nisr/2007/235)
+
+[^f00004]: Footnote: [S.R 2007/234](https://www.legislation.gov.uk/nisr/2007/234)
+
+[^f00005]: Footnote: [S.R 2007/236](https://www.legislation.gov.uk/nisr/2007/236)
+
+[^f00006]: Footnote: [S.R 2007/221](https://www.legislation.gov.uk/nisr/2007/221)
+
+[^f00007]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
+
+[^key-c37b79a26d1aa3abbf4406aae4797e16]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

@@ -1,0 +1,267 @@
+---
+title: The Common Agricultural Policy (Control and Enforcement) Regulations (Northern Ireland) 2015
+id: nisr/2015/192
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-27'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/192
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/192/pdfs/nisrem_20150192_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/192/pdfs/nisr_20150192_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/192/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy (Control and Enforcement) Regulations (Northern Ireland) 2015
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 192
+
+Agriculture
+
+The Common Agricultural Policy (Control and Enforcement) Regulations (Northern Ireland) 2015
+
+Made
+
+27th March 2015
+
+Coming into operation
+
+30th April 2015
+
+The Department of Agriculture and Rural Development is a Department designated [^c22500271] for the purposes of section 2(2) of the European Communities Act 1972 [^c22500281] in relation to the Common Agricultural Policy of the European Union and in relation to matters relating to the promotion of rural development.
+
+The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of that Act.
+
+## 1. Title, commencement and interpretation
+
+(1) These Regulations may be cited as the Common Agricultural Policy (Control and Enforcement) Regulations (Northern Ireland) 2015 and shall come into operation on 30th April 2015.
+
+(2) The Interpretation Act (Northern Ireland) 1954 [^c22500291] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(3) In these Regulations—
+
+- “**the European Regulations**” means those European Regulations listed in the Schedule;
+- “**the Horizontal Delegated Regulation**” means Commission Delegated Regulation (EU) No. 640/2014 supplementing Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance [^c22500301];
+- “**the Horizontal Implementing Regulation**” means Commission Implementing Regulation (EU) No. 809/2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control systems, rural development measures and cross compliance [^c22500311];
+- “**the Horizontal Regulation**” means Regulation (EU) No. 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy [^c22500321];
+- “**Council Regulation 73/2009**” means Council Regulation [(EC) No. 73/2009](https://www.legislation.gov.uk/eur/2009/73) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers [^c22500331];
+- “**Council Regulation 1698/2005**” means Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/eur/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development etc [^c22500341];
+- “**Council Regulation 1782/2003**” means Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers [^c22500351];
+- “**Regulation (EU) No. 1305/2013**” means Regulation (EU) No. 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development [^c22500361];
+- “**area-related aid schemes**” has the meaning given in Article 2(20) of the Horizontal Delegated Regulation;
+- “**authorised person**” means a person authorised in writing by the Department for the purposes of these Regulations;
+- “direct payment” has the meaning given in Article 1 of the Direct Payments Regulation (EU) No. 1307/2013[^key-cfcf87bf02621f14edecd5c3f034a77c];
+- “**beneficiary**” has the meaning given by sub-paragraph (1) of Article 2(1) of the Horizontal Delegated Regulation;
+- “**the Department**” means the Department of Agriculture and Rural Development;
+- “**proper address**” means that person's last known address;
+- “**single application**” means an application for direct payments in relation to area-related aid schemes.
+
+(3A)[^key-0ba7bb7ae7fa82ee87cb29b91f889607] References in these Regulations to the Horizontal Delegated Regulation, the Horizontal Implementing Regulation and the Horizontal Regulation are, to the extent that they relate to the direct payments for claim year 2020, references to those Regulations as they exist in domestic law.
+
+(4) Other terms used in these Regulations that are also used in any of the European Regulations have the meaning they bear in those Regulations.
+
+## 2. Applications
+
+(1) For the purposes of Article 13(1) of the Horizontal Implementing Regulation and Article 12 of the Horizontal Delegated Regulation, the final date on which a single application, aid application or payment claim may be submitted to the Department is 15th May or, if that date is a Saturday, Sunday, Bank Holiday or other public holiday, the next working day.
+
+(2) In paragraph (1)—
+
+- “**Bank Holiday**” means a day specified in paragraph 1 of Schedule 1 to the Banking and Financial Dealings Act 1971 [^c22500371];
+- “**payment claim**” means a claim for support under the integrated system as provided by Article 67(2) of the Horizontal Regulation;
+- “**working day**” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+
+## 3. Minimum size of agricultural area
+
+For the purposes of Article 72(1) of the Horizontal Regulation, the minimum size of an agricultural parcel in respect of which a single application may be made is 0.1 hectare.
+
+## 4. Recovery of undue payments
+
+Where a beneficiary is liable to repay all or part of a direct payment the amount of the payment, together with any interest on that amount calculated in accordance with regulation 5, is recoverable as a debt.
+
+## 5. Interest
+
+(1) Interest may be charged in respect of each day of the period referred to in Article 7(2) of the Horizontal Implementing Regulation and for this purpose the rate of interest applicable on any day is one percentage point above the Bank of England base rate.
+
+(2) In this regulation, “**Bank of England base rate**” means—
+
+- (a) except where sub-paragraph (b) applies, the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the money markets; or
+- (b) if an order under section 19 (reserve powers) of the Bank of England Act 1998 [^c22500381] is in force, any equivalent rate determined by the Treasury under that section.
+
+(3) For the purposes of this regulation, interest shall be charged from the payment deadline as recorded in the recovery notice issued by the Department.
+
+(4) For the purposes of paragraph (3), the payment deadline shall be set at 60 days from the date of the recovery notice issued by the Department.
+
+(5) In any proceedings relating to this regulation, a certificate of the Department stating the Bank of England base rate applicable during the period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
+
+## 6. Set-off
+
+The amount of—
+
+- (a) any sum payable by the Department or its agent under Title IV of Council Regulation 1698/2005;
+- (b) any sum payable by the Department or its agent under Title III of Regulation (EU) No. 1305/2013; or
+- (c) any sum payable by the Department under the European Regulations, Council Regulation 73/2009 or Council Regulation 1782/2003
+
+may be set off against the amount of any sum recoverable by the Department under regulation 4 or 5.
+
+## 7. Powers of entry
+
+(1) An authorised person may exercise any of the powers specified in this regulation for the purpose of enforcing the European Regulations.
+
+(2) An authorised person, on producing, if so required, a duly authenticated document showing that person's authority, may at any reasonable hour enter any land or premises other than premises used solely as a private dwelling.
+
+(3)[^key-a435e5e210e2c61ee5342536fe83b39f] An authorised person entering any land or premises by virtue of this regulation may be accompanied by—
+
+- (a) any representative of the European Commission, except for matters relating to direct payments for any claim year following 31st December 2019; and
+- (b) such other persons as the authorised person considers necessary for any purpose mentioned in paragraph (1).
+
+(4) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
+
+## 8. Powers of inspection etc
+
+(1) An authorised person who has entered any land or premises in exercise of a power conferred by regulation 8 may—
+
+- (a) carry out any inquiries, checks, examinations, measurements and tests;
+- (b) take samples;
+- (c) inspect land, whether it is farmed or is withdrawn from agricultural production, or premises;
+- (d) inspect livestock, crops, machinery or equipment;
+- (e) mark any animal or other thing for identification purposes;
+- (f) have access to, inspect, copy and print any documents or records (in whatever form they are held) or remove such documents to enable them to be copied or retained as evidence;
+- (g) have access to, inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the documents or records;
+- (h) take a photograph, or a record in digital form, of anything on the land;
+- (i) remove anything reasonably believed to be evidence of any non-compliance;
+- (j) remove a carcase on the land or premises for the purpose of carrying out a post-mortem examination on it.
+
+(2) An authorised person who enters any land or premises under a power under other legislation may exercise any of the powers specified in this regulation for the purposes of enforcing these Regulations.
+
+(3) Paragraph (1) applies in relation to a person referred to in regulation 8(3)(b) when such person is acting under the instructions of an authorised person, as if such a person were an authorised person.
+
+## 9. Assistance to authorised persons
+
+The beneficiary in respect of any land or premises entered by an authorised person in exercise of a power conferred by regulation 7 and any employee or agent of that beneficiary, must give an authorised person (“AP”) such assistance as AP may reasonably request so as to enable AP to exercise any power conferred on AP by regulation 7 or 8 and must arrange for the collection, penning and securing of any animal if requested.
+
+## 10. Transfers of holdings
+
+For the purposes of Article 8(3)(a) of the Horizontal Implementing Regulation, the period within which the transferee must inform the Department of the transfer and request payment of the aid or support, or both, is 90 days beginning with the first day after the date of transfer.
+
+## 11. Offences and Penalties
+
+(1) It is an offence for any person to—
+
+- (a) intentionally obstruct any person acting in the execution of these Regulations;
+- (b) without reasonable cause, proof of which lies with that person, fail to give any person acting in the execution of these Regulations any assistance or information that that person may reasonably require under these Regulations; or
+- (c) knowingly or recklessly furnish to any person acting in execution of these Regulations any information that is false or misleading in any material particular.
+
+(2) Nothing in paragraph 1(b) shall be construed as requiring any person to answer any question if to do so might incriminate him.
+
+(3) A person guilty of an offence under paragraph (1)(a) or (b) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) A person guilty of an offence under paragraph (1)(c) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on the indictment, to a fine.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 27th March 2015.
+
+David Small
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+## SCHEDULE — The European Regulations
+
+Regulations 1(3), 6 and 7(1)
+
+Commission Regulation (EU) No. 1303/2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund.
+
+Commission Delegated Regulation (EU) No. 639/2014 supplementing Regulation (EU) No. 1307/2013.
+
+Commission Implementing Regulation (EU) No. 641/2014 laying down rules for the application of Regulation (EU) No. 1307/2013.
+
+Commission Regulation (EU) No. 1307/2013 laying down rules for direct payments to farmers under support schemes within the framework of the common agricultural policy.
+
+Commission Delegated Regulation (EU) No. 640/2014 supplementing Regulation (EU) No. 1306/2013.
+
+Commission Implementing Regulation (EU) No. 908/2014 laying down rules for the application of Regulation (EU) No. 1306/2013.
+
+Commission Implementing Regulation (EU) No. 809/2014 laying down rules for the application of Regulation (EU) No. 1306/2013.
+
+Commission Regulation (EU) No. 1306/2013 laying down rules for the financing, management and monitoring of the common agricultural policy.
+
+Commission Delegated Regulation (EU) No. 807/2014 supplementing Regulation (EU) No.1305/2013.
+
+Commission Implementing Regulation (EU) No. 808/2014 laying down rules for the application of Regulation (EU) No. 1305/2013.
+
+Commission Regulation (EU) No. 1305/2013 relating to support for rural development by the European Agricultural Fund for Rural Development.
+
+Commission Delegated Regulation ([^key-d7bec9c46d0a2c0400e075d636936e64]EU) 2016/1613 providing for exceptional adjustment aid to milk producers and farmers in other livestock sectors
+
+Commission Implementing Regulation ([^key-34e5fd2fdb71d3ecc7a0bdc055e4eaa8]EU) 2017/39 on rules for the application of Regulation (EU) No 1308/2013 of the European parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments
+
+Commission Delegated Regulation (EU) 2017/40 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014
+
+*(This note is not part of the Order)*
+
+These Regulations make provision for the implementation in Northern Ireland of the European Regulations (as defined in Schedule 1) relating to the administration of the common agricultural policy of the European Union.
+
+Regulation 2 sets the final date each year when applications for direct payments or rural development payments for that year will be accepted by the Department. Regulation 3 sets the minimum size of agricultural parcel that may be claimed for within a single application.
+
+Regulation 4 allows for payments due to the Department from beneficiaries to be treated by the Department as debt. Regulation 5 sets out how interest to be charged on amounts owed to the Department as debt will be calculated.
+
+Regulation 6 provides for debts owed to the Department to be deducted from future payments to that beneficiary.
+
+Regulation 7 provides powers of entry to land and premises for the purposes of enforcing Common Agricultural Policy regulations to persons authorised by the Department. Regulation 8 sets out the powers of inspection of such authorised persons.
+
+Regulation 9 requires beneficiaries to assist persons authorised by the Department exercise the powers provided in regulations 7 and 8.
+
+Regulation 10 sets the maximum time (90 days) which beneficiaries have to notify the Department of a transfer of an application (and therefore payment) to another farmer.
+
+Regulation 11 establishes offences and penalties for any person obstructing, failing to provide reasonable information or providing false or misleading information to any person executing these Regulations.
+
+## Annotations
+
+[^c22500271]: Marginal citation: [S.I.2000/2812](https://www.legislation.gov.uk/uksi/2000/2812) to which there are amendments not relevant to the subject matter of these Regulations and [S.I.2000/3238](https://www.legislation.gov.uk/uksi/2000/3238).
+
+[^c22500281]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c22500291]: Marginal citation: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^c22500301]: Marginal citation: O.J. No. L 181. 20.6.2014, p.48
+
+[^c22500311]: Marginal citation: O.J. No. L 227, 31.7.2014, p.69
+
+[^c22500321]: Marginal citation: O.J. No. L 347, 20.12.2013, p.549, amended by Regulation (EU) No. 1310/2013 of the European Parliament and of the Council (O.J. No. L 347, 20.12.2013, p.865).
+
+[^c22500331]: Marginal citation: O.J. No. L 30, 31.1.2009, p.16, as last amended by Commission Implementing Regulation (EU) No. 320/2014 (O.J. No. L 93, 28.3.2014, p.81) and repealed on 1st January 2015 by Article 72(2) of the Direct Payments Regulation.
+
+[^c22500341]: Marginal citation: O.J. No. L 277, 21.10.2005, p.1, as last amended by Regulation (EU) No. 1312/2011 of the European Parliament and of the Council (O.J. No. L 339, 21.12.2011, p.1).
+
+[^c22500351]: Marginal citation: O.J. No. L 270, 21.10.2003, p.1, as last amended by Council Regulation (EC) No. 1009/2008 (O.J. No. L 276, 17.10.2008, p.1) and repealed on 1st January 2009 by Council Regulation (EC) No. 73/2009 (O.J. No. L 30.1.2009, p.16).
+
+[^c22500361]: Marginal citation: O.J. No. L 347, 20.12.2013, p.487, amended by Regulation (EU) No. 1310/2013 of the European Parliament and of the Council (O.J. No. L. 347, 20.12.2013, p.865).
+
+[^key-cfcf87bf02621f14edecd5c3f034a77c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/192/regulation/1/3) substituted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2020/22/regulation/3/2/a)
+
+[^key-0ba7bb7ae7fa82ee87cb29b91f889607]: Textual amendment: [Reg. 1(3A)](https://www.legislation.gov.uk/nisr/2015/192/regulation/1/3A) inserted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2020/22/regulation/3/2/b)
+
+[^c22500371]: Marginal citation: 1971, c.80.
+
+[^c22500381]: Marginal citation: 1998, c.11
+
+[^key-a435e5e210e2c61ee5342536fe83b39f]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2015/192/regulation/7/3) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [5](https://www.legislation.gov.uk/nisr/2020/324/regulation/5)
+
+[^key-d7bec9c46d0a2c0400e075d636936e64]: Textual amendment: Words in Sch. inserted (22.5.2017) by [The Single Common Market Organisation (Emergency Aid) (England and Northern Ireland) Regulations 2017 (S.I. 2017/599)](https://www.legislation.gov.uk/uksi/2017/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/599/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/2)
+
+[^key-34e5fd2fdb71d3ecc7a0bdc055e4eaa8]: Textual amendment: Words in Sch. inserted (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/734/regulation/6/4)

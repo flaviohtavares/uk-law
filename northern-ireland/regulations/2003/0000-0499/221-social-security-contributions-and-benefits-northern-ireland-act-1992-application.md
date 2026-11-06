@@ -1,0 +1,177 @@
+---
+title: Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts XIIZA , 12ZB and 12ZC to Adoptions from Overseas) Regulations (Northern Ireland) 2003
+id: nisr/2003/221
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-04-07'
+text_date: '2015-04-05'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/221
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/221/pdfs/nisr_20030221_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/221/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts XIIZA , 12ZB and 12ZC to Adoptions from Overseas) Regulations (Northern Ireland) 2003
+
+> Text as at 2015-04-05.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 221
+
+EMPLOYMENT
+
+Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts XIIZA , 12ZB and 12ZC[^key-5a06b2ff3af1cdd995fcb3c138292065] to Adoptions from Overseas) Regulations (Northern Ireland) 2003
+
+Made
+
+7th April 2003
+
+Coming into operation
+
+8th April 2003
+
+The Department for Employment and Learning in exercise of the powers conferred on it by sections 167ZK and 167ZT of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and of every other power enabling it in that behalf, hereby makes the following Regulations, which contain only regulations made by virtue of and consequential upon Articles 5 and 6 of the Employment (Northern Ireland) Order 2002[^f00002] and which are made before the end of the period of 6 months beginning with the coming into operation of that statutory provision[^f00003] –
+
+## 1. Citation, commencement and interpretation[^key-8dcbf9dbf9a050978fe266151ba5a699]
+
+(1) These Regulations may be cited as the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts XIIZA , 12ZB and 12ZC[^key-a0e0e6887d6beb5bd508167a215fb56f] to Adoptions from Overseas) Regulations (Northern Ireland) 2003 and shall come into operation on 8th April 2003.
+
+(2) In these Regulations –
+
+- “the Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “adoption from overseas” means the adoption of a child who enters Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom.
+
+## 2. Application of Part XIIZA of the Act to adoptions from overseas[^key-c7698a828be949b40150bd3bb0b740b2]
+
+Part XIIZA of the Act [^key-f25643fc7f919532a3c556b9cc720ef8]... shall apply in relation to adoptions from overseas, with the modifications of sections 167ZB, 167ZE , 167ZEB, 167ZEE[^key-4e60caa694f8ec66cc8ae24a1f938d41] and 167ZJ of the Act specified in the second column of Schedule 1.
+
+## 3. Application of Part XIIZB of the Act to adoptions from overseas[^key-e05b18238eff6bd05b9aa55ce36f5b7a]
+
+Part XIIZB of the Act shall apply in relation to adoptions from overseas, with the modifications of sections 167ZL and 167ZS of the Act specified in the second column of Schedule 2.
+
+## 4. Application of Part 12ZC of the Act to adoptions from overseas[^key-8b446136c978b771ea3051e289a881ef]
+
+Part 12ZC of the Act shall apply in relation to adoptions from overseas, with the modifications of sections 167ZW and 167ZX of the Act specified in the second column of Schedule 3.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 7th April 2003.
+
+R. B. Gamble
+
+A senior officer of the
+
+Department for Employment and Learning
+
+## SCHEDULE 1 — APPLICATION OF PART XIIZA OF THE ACT TO ADOPTIONS FROM OVERSEAS[^key-700e4dc4166f9e846498101c649c7473]
+
+Regulation 2
+
+| Provision | Modification |
+| --- | --- |
+| Section 167ZB(2) | [^key-414477286ce95443ebecfb0f34ed4f0e]...<br>In paragraph (a)(i), for “who is placed for adoption under the law of any part of the United Kingdom” substitute “who is adopted from overseas”.<br>In paragraph (a)(ii), for “a person with whom the child is so placed for adoption” substitute “an adopter of the child”.<br>In paragraph (b), omit “ending with the relevant week”[^key-5020a82628739f62bb487c53f7d9986a]<br>In paragraph (d), for “the day on which the child is placed for adoption” substitute “the day on which the child enters Northern Ireland”.<br>In paragraph (e), for “a person with whom the child is placed for adoption” substitute “an adopter of the child”. |
+| Section 167ZB(3) | For subsection (3) substitute –[^key-81f52e61905aaadf9cea750f2dff9365]<br>> (3) The references in subsection (2)(c) and (d) to the relevant week are to –<br>><br>> - (a) the week in which official notification is sent to the adopter, or<br>> - (b) the week at the end of which the person satisfies the condition in subsection (2)(b),<br>><br>> whichever is the later.<br>[^key-61172ea76017fd28586009c85cc5129f]... |
+| Section 167ZB(6) | For “the placement for adoption of more than one child as part of the same arrangement” substitute “the adoption from overseas of more than one child as part of the same arrangement”. |
+| Section 167ZB(7) | Omit subsection (7). |
+| Section 167ZE(3) | In paragraph (b), for “with the date of the child’s placement for adoption” substitute “with the date of the child’s entry into Northern Ireland”. |
+| Section 167ZE(10) | For subsection (10) substitute –<br>> (10) Where more than one child is the subject of adoption from overseas as part of the same arrangement, and the date of entry of each child is different, the reference in subsection (3)(b) to the date of the child’s entry into Northern Ireland shall be interpreted as a reference to the date of the entry of the first child to enter Northern Ireland.<br>. |
+| [^key-332fcc691773c974ac371f10a7cdc5be]. . . | [^key-332fcc691773c974ac371f10a7cdc5be]. . . |
+| [^key-abbba57832097949cb74a926bdb1e84c]. . . | [^key-abbba57832097949cb74a926bdb1e84c]. . . |
+| [^key-373c0aefc2f46867459103af857d7a88]. . . | [^key-373c0aefc2f46867459103af857d7a88]. . . |
+| [^key-259874a2a29c3e9f4b49bda207547eae]. . . | [^key-259874a2a29c3e9f4b49bda207547eae]. . . |
+| [^key-7d3907b31725f7acb4f79af9e0ec32a8]. . . | [^key-7d3907b31725f7acb4f79af9e0ec32a8]. . . |
+| Section 167ZJ(1) | In the appropriate places in the alphabetical order, insert –<br>> - “adopter”, in relation to a child, means a person by whom the child has been or is to be adopted;<br>> - “adoption from overseas” means the adoption of a child who enters Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and the references to a child adopted from overseas shall be construed accordingly;<br>> - “official notification” means written notification, issued by or on behalf of the relevant domestic authority, that it is prepared to issue a certificate to the overseas authority concerned with the adoption of the child, or has issued a certificate and sent it to that authority, confirming, in either case, that the adopter is eligible to adopt and has been assessed and approved as being a suitable adoptive parent;<br>> - “relevant domestic authority” means –<br>>   - (a) in the case of an adopter to whom the Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003 apply, the Department of Health, Social Services and Public Safety; and<br>>   - (b) in any other case, the Secretary of State.<br>. |
+
+## SCHEDULE 2 — APPLICATION OF PART XIIZB OF THE ACT TO ADOPTIONS FROM OVERSEAS[^key-7d5f6f162a6d70dc7309f05887162838]
+
+Regulation 3
+
+| Provision | Modification |
+| --- | --- |
+| Section 167ZL(2) | [^key-094519c5b11be56159da14f27ba5ae40]...<br>In paragraph (a), for “with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom” substitute “who is, or is expected to be, an adopter of a child from overseas”.<br>In paragraph (b), omit “ending with the relevant week”[^key-1ae757e5e111e01c90bf37e4ad872b6c] |
+| Section 167ZL(3) | For subsection (3) substitute –[^key-1a268b3e734fa103b74235bad3528ba9]<br>> (3) The reference in subsection (2)(d) to the relevant week is to –<br>><br>> - (a) the week in which official notification is sent to the adopter, or<br>> - (b) the week at the end of which the person satisfies the condition in subsection (2)(b),<br>><br>> whichever is the later.<br>[^key-95e664904aeb8485cf4c6ea4c39ebf7c]... |
+| Section 167ZL(4) | In paragraph (b), for “placed for adoption with him” substitute “adopted by him”. |
+| Section 167ZL(5) | For “the placement, or expected placement, for adoption of more than one child” substitute “the adoption, or expected adoption from overseas of more than one child”. |
+| Section 167ZS(1) | In the appropriate places in the alphabetical order, insert –<br>> - “adopter”, in relation to a child, means a person by whom a child has been or is to be adopted;<br>> - “adoption from overseas” means the adoption of a child who enters Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and the reference to an adopter from overseas shall be construed accordingly;<br>> - “official notification” means written notification, issued by or on behalf of the relevant domestic authority, that it is prepared to issue a certificate to the overseas authority concerned with the adoption of the child, or has issued a certificate and sent it to that authority, confirming, in either case, that the adopter is eligible to adopt and has been assessed and approved as being a suitable adoptive parent;<br>> - “relevant domestic authority” means –<br>>   - (a) in the case of an adopter to whom the Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003 apply, the Department of Health, Social Services and Public Safety; and<br>>   - (b) in any other case, the Secretary of State.<br>. |
+
+## SCHEDULE 3 — Application of Part 12ZC of the Act to adoptions from overseas[^key-04b05ae5d5d14b6300f71615e523c21b]
+
+Regulation 4
+
+| Provision | Modification |
+| --- | --- |
+| Section 167ZW | In subsection (1), for “with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom” substitute “by whom a child is, or is expected to be, adopted from overseas”. |
+|  | In paragraph (f) of subsection (2), for “placement for adoption of the child” substitute “adoption of the child from overseas”. |
+|  | In paragraph (a) of subsection (4), for “with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom” substitute “by whom a child is, or is expected to be, adopted from overseas”. |
+|  | In paragraph (g) of subsection (4), for “placement for adoption of the child” substitute “adoption of the child from overseas”. |
+| Section 167ZX | In subsection (12), for “placement for adoption” substitute “adoption from overseas”. |
+|  | After subsection (12) insert—<br>> (13) For the purposes of this section, a person adopts a child from overseas if the person adopts a child who enters Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom.<br>. |
+
+(This note is not part of the Regulations.)
+
+This Statutory Rule contains only regulations made by virtue of Articles 5 and 6 of the Employment (Northern Ireland) Order 2002, which came into operation on 8th December 2002. The Statutory Rule is made before the end of the period of 6 months beginning with the coming into operation of those provisions. The regulations in it are therefore exempted by section 150(5)(b) of the Social Security Administration (Northern Ireland) Act 1992 from the requirement under section 149 of that Act to refer the proposals to make the regulations to the Social Security Advisory Committee and they are made without reference to the Committee.
+
+These Regulations, made under provisions inserted into the Social Security Contributions and Benefits (Northern Ireland) Act 1992 by the Employment (Northern Ireland) Order 2002, apply Parts XIIZA and XIIZB of that Act, as modified by these Regulations, to adoptions from overseas, which are adoptions of children who enter Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of a child for adoption under the law of any part of the United Kingdom. The Regulations relating to statutory paternity pay and statutory adoption pay in connection with adoptions from overseas are the Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2003 ([S.R. 2003 No. 223](https://www.legislation.gov.uk/nisr/2003/223)).
+
+## Annotations
+
+[^key-5a06b2ff3af1cdd995fcb3c138292065]: Textual amendment: Words in [Title](https://www.legislation.gov.uk/nisr/2003/221/title) substituted (15.3.2015) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA and 12ZB to Adoptions from Overseas) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/88)](https://www.legislation.gov.uk/nisr/2015/88), [regs. 1](https://www.legislation.gov.uk/nisr/2015/88/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/88/regulation/3)
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); sections 167ZA to 167ZK of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Part XIIZA) were inserted by Article 5 of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)), and sections 167ZL to 167ZT (Part XIIZB) by Article 6 of that Order
+
+[^f00002]: Footnote: S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)
+
+[^f00003]: Footnote: *See* section 150(5)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-8dcbf9dbf9a050978fe266151ba5a699]: Commencement: Reg. 1 in operation at 8.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/221/regulation/1/1)
+
+[^key-a0e0e6887d6beb5bd508167a215fb56f]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/221/regulation/1/1) substituted (15.3.2015) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA and 12ZB to Adoptions from Overseas) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/88)](https://www.legislation.gov.uk/nisr/2015/88), [regs. 1](https://www.legislation.gov.uk/nisr/2015/88/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/88/regulation/4)
+
+[^key-c7698a828be949b40150bd3bb0b740b2]: Commencement: Reg. 2 in operation at 8.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/221/regulation/1/1)
+
+[^key-f25643fc7f919532a3c556b9cc720ef8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2003/221/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [13(2)](https://www.legislation.gov.uk/nisr/2015/146/article/13/2) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+
+[^key-4e60caa694f8ec66cc8ae24a1f938d41]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2003/221/regulation/2) inserted (3.10.2010) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA and 12ZB to Adoptions from Overseas) Regulations (Northern Ireland) 2003 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/305)](https://www.legislation.gov.uk/nisr/2010/305), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/305/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2010/305/regulation/2/2/b)
+
+[^key-e05b18238eff6bd05b9aa55ce36f5b7a]: Commencement: Reg. 3 in operation at 8.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/221/regulation/1/1)
+
+[^key-8b446136c978b771ea3051e289a881ef]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/221/regulation/4) inserted (15.3.2015) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA and 12ZB to Adoptions from Overseas) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/88)](https://www.legislation.gov.uk/nisr/2015/88), [regs. 1](https://www.legislation.gov.uk/nisr/2015/88/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/88/regulation/5)
+
+[^key-700e4dc4166f9e846498101c649c7473]: Commencement: Sch. 1 in operation at 8.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/221/regulation/1/1)
+
+[^key-414477286ce95443ebecfb0f34ed4f0e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (6.4.2004) by virtue of [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/2/a)
+
+[^key-5020a82628739f62bb487c53f7d9986a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) inserted (6.4.2004) by [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/2/b)
+
+[^key-81f52e61905aaadf9cea750f2dff9365]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) substituted (6.4.2004) by [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/2/c)
+
+[^key-61172ea76017fd28586009c85cc5129f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (6.4.2004) by virtue of [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/2/d)
+
+[^key-332fcc691773c974ac371f10a7cdc5be]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [13(3)(a)(i)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/13/3/a/i) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+
+[^key-abbba57832097949cb74a926bdb1e84c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [13(3)(a)(ii)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/13/3/a/ii) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+
+[^key-373c0aefc2f46867459103af857d7a88]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [13(3)(a)(iii)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/13/3/a/iii) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+
+[^key-259874a2a29c3e9f4b49bda207547eae]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [13(3)(a)(iv)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/13/3/a/iv) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+
+[^key-7d3907b31725f7acb4f79af9e0ec32a8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2003/221/schedule/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [13(3)(a)(v)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/13/3/a/v) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+
+[^key-7d5f6f162a6d70dc7309f05887162838]: Commencement: Sch. 2 in operation at 8.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/221/regulation/1/1)
+
+[^key-094519c5b11be56159da14f27ba5ae40]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/221/schedule/2) omitted (6.4.2004) by virtue of [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/3/a)
+
+[^key-1ae757e5e111e01c90bf37e4ad872b6c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/221/schedule/2) inserted (6.4.2004) by [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/3/b)
+
+[^key-1a268b3e734fa103b74235bad3528ba9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/221/schedule/2) substituted (6.4.2004) by [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/3/c)
+
+[^key-95e664904aeb8485cf4c6ea4c39ebf7c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/221/schedule/2) omitted (6.4.2004) by virtue of [Statutory Paternity Pay and Statutory Adoption Pay (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/132)](https://www.legislation.gov.uk/nisr/2004/132), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/132/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2004/132/regulation/3/3/d)
+
+[^key-04b05ae5d5d14b6300f71615e523c21b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2003/221/schedule/3) inserted (15.3.2015) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA and 12ZB to Adoptions from Overseas) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/88)](https://www.legislation.gov.uk/nisr/2015/88), [regs. 1](https://www.legislation.gov.uk/nisr/2015/88/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/88/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2015/88/schedule)

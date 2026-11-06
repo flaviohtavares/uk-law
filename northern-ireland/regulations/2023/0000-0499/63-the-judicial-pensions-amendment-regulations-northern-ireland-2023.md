@@ -1,0 +1,427 @@
+---
+title: The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023
+id: nisr/2023/63
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2023-04-04'
+text_date: '2023-05-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2023/63
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2023/63/pdfs/nisrem_20230063_en.pdf
+- http://www.legislation.gov.uk/nisr/2023/63/pdfs/nisr_20230063_en.pdf
+- http://www.legislation.gov.uk/nisr/2023/63/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023
+
+> Text as at 2023-05-02.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2023 No. 63
+
+Public Service Pensions
+
+The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023
+
+Made
+
+4th April 2023
+
+Coming into operation
+
+2nd May 2023
+
+The Department of Justice makes these Regulations in exercise of the powers conferred by sections 1(1) and (2)(b), 2(1), 3(1) to (3), 18(5), (6), and (7) (read with section 89(4) and (5) of the Public Service Pensions and Judicial Offices Act 2022)[^f00001] and 25(3) of, and paragraph 2 of Schedule 2 and Schedule 3 to, the Public Service Pensions Act (Northern Ireland) 2014[^f00002].
+
+In accordance with section 21 of, and paragraph 2(2) of Schedule 2 to, the Public Service Pensions Act (Northern Ireland) 2014 the Department of Justice has consulted such persons and representatives of such persons as appear to be likely to be affected by these Regulations.
+
+In accordance with section 3(5) of that Act, the Department of Finance[^f00003] has consented to the making of these Regulations.
+
+The Department of Justice has had regard to the matters referred to in section 5(4) of that Act.
+
+In accordance with section 24(1)(c) of that Act, the Pension Board for the scheme of judicial office holders has stated that it considers these Regulations to be minor or wholly beneficial.
+
+## 1. Citation, commencement and interpretation[^key-6a2c5f4867ad6e0ba34e21b8fe12cbed][^key-6a2c5f4867ad6e0ba34e21b8fe12cbed]
+
+(1) These Regulations may be cited as the Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023.
+
+(2) Save as provided by paragraph (3), these Regulations come into operation on 2nd May 2023 or, if later, the day after the day on which they are made.
+
+(3) Regulations 1, 2(1) and (2), 4(b), 14, 15 and 16(2)(b), (5) and (6) come into force on the day after the day on which these Regulations are made.
+
+(4) In these Regulations—
+
+- “the 2015 Regulations” mean the Judicial Pensions Regulations (Northern Ireland) 2015[^f00004];
+- “**the 2017 Regulations**” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017[^f00005].
+
+## 2. Application, effect and transitory provision[^key-f49c63f1df8c4c7b2b381ca287faa51c][^key-c662d4b036e2ebd438be2e318c7de554][^key-c61ac2c7437e434cc6174b74e0314b86]
+
+(1)[^key-f49c63f1df8c4c7b2b381ca287faa51c] Paragraph (2) to (4) and regulations 3 (in so far as it applies to regulations 4(b) and 16(2)(b), (5) and (6)), 4(b) and 16(2)(b), (5) and (6) are deemed to have effect from 1st April 2015.
+
+(2)[^key-f49c63f1df8c4c7b2b381ca287faa51c] Until the coming into force of regulation 16(2)(e) the definition of “tapered protection member” in paragraph 1 of Schedule 2 to the 2015 Regulations is to have effect as though for “12 and 13” there were substituted “12, 13 and 13A”.
+
+(3)[^key-c662d4b036e2ebd438be2e318c7de554] Paragraph (4) of this regulation applies where a person (P) is—
+
+- (a) a member of the scheme established by the 2015 Regulations; and
+- (b) a person to whom regulation 48(1) of the 2017 Regulations applies.
+
+(4)[^key-c61ac2c7437e434cc6174b74e0314b86] The 2015 Regulations are to apply to the calculation of any sums payable in respect of P’s retirement or death under the 2015 Regulations as though—
+
+- (a) the amendments made by these Regulations other than regulations 14 and 15; and
+- (b) the 2017 Regulations, had been in force on the day before the day on which P retired or died.
+
+## 3. Amendment of the Judicial Pensions Regulations 2015[^key-5b49a7da7fb98518c54f4bfd6766961d]
+
+The 2015 Regulations are amended in accordance with regulations 4 to 17.
+
+**4.**[^key-9ea96b009d1321c42c8f1f72fbe559d6][^key-3604d0adb37b31375ce00dabcd6cdf1b] In regulation 2 (interpretation)—
+
+- (a)[^key-9ea96b009d1321c42c8f1f72fbe559d6] In the appropriate place, insert—
+
+  > - “**FPJR 2017**” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017;
+
+  ;
+
+  > - “**the Fee-Paid Judges Scheme**” means the scheme established by Parts 1 to 11 of the FPJR 2017;
+
+  ;
+
+  > - “**qualifying judicial service**” has the meaning given in regulation 6 of the FPJR 2017;
+
+  ;
+
+  > - “**relevant scheme**” means—
+  >   - (i) an existing scheme;
+  >   - (ii) the Fee-Paid Judges Scheme;
+
+  , and
+- (b)[^key-3604d0adb37b31375ce00dabcd6cdf1b] in the definition of “index adjustment”, for “that scheme year” substitute “the previous scheme year”.
+
+**5.**[^key-d7348c0acd8335587bf13100f36419cf][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 17 (enrolment), in paragraph (2)(b)(ii), for “an existing” substitute “a relevant”.
+
+**6.**[^key-ec1a04c29c91e3a39570beb60acd4d37][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 55 (qualifying service)—
+
+- (a) for “an existing” in both places where it occurs substitute “a relevant”, and
+- (b) after paragraph (2) insert—
+
+  > (3) In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+**7.**[^key-8ffd5242cf6a6875101a7fa59575a3dd][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 97 (entitlement to surviving adult’s pension)—
+
+- (a) in paragraphs (1) and (2), for “an existing” substitute “a relevant”, and
+- (b) after paragraph (5) insert—
+
+  > (6) In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+**8.**[^key-aa1b43dd048a40db15616f2ed2f80f07][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 100 (annual rate of surviving adult’s pension on death in service)—
+
+- (a) In paragraphs (2) and (5)(b)(i), for “an existing” substitute “a relevant”, and
+- (b) At the end insert—
+
+  > (7) In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+**9.**[^key-45d5d35a955451dd2848028ce49ba0a4][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 119 (meaning of “**final pay**”)—
+
+- (a) for paragraph (4) substitute—
+
+  > (4) In this regulation and in regulation 120, if the member is a transition member with continuity of service, “pensionable earnings” in respect of any period includes—
+  >
+  > - (a) the member’s pensionable earnings under an existing scheme before the closing date; and
+  > - (b) the amount which is the higher of—
+  >   - (i) the total fees paid to the member in respect of qualifying fee-paid service in the period in question, or
+  >   - (ii) the total fees which would have been paid to the member in respect of such service in the period in question if, for any office held by the member, the daily fee paid to the member had been the daily fee determined by the Industrial Tribunals and Fair Employment Tribunal or accepted by the appropriate Minister to be payable in respect of that period.
+
+  , and
+- (b) after paragraph (4) insert—
+
+  > (5) In this regulation “**qualifying fee-paid service**” has the meaning given in regulation 4 of the FPJR 2017.
+
+  .
+
+**10.**[^key-d5fb77ebcca17f02add6060d4ee4c865][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 120 (meaning of “**annualised final pay**”) omit paragraph (3).
+
+**11.**[^key-9cce82074464011d21d307f47926d6f5][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 121 (amount payable on death in service)—
+
+- (a) in paragraph (2) for “an existing” substitute “a relevant”, and
+- (b) after paragraph (7) insert—
+
+  > (8) In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+**12.**[^key-e73816778c4d45dba5afb669d02e5f77][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 122 (amount payable on death out of service), in paragraph (2), for “an existing” substitute “a relevant”.
+
+**13.**[^key-2bb6e98f3627671630668d7085831256][^key-5b49a7da7fb98518c54f4bfd6766961d] Omit regulation 144.
+
+**14.**[^key-c4d0971d08031d3a767dab063711763d] In regulation 153 (forfeiture: relevant monetary obligations and relevant monetary losses), in paragraph 5—
+
+- (a) in sub-paragraph (c) of the definition of “relevant monetary obligation” for “criminal, fraudulent or negligent” substitute “criminal or fraudulent”, and
+- (b) in sub-paragraph (b) of the definition of “relevant monetary loss” for “criminal, fraudulent or negligent” substitute “criminal or fraudulent”.
+
+**15.**[^key-63fbcb61ac5312b994c249545819a9d5] In regulation 154 (set-off)—
+
+- (a) After paragraph (3)(a), insert—
+
+  > - (aa) arose out of P’s criminal or fraudulent act or omission;
+
+  , and
+- (b) In paragraph (4)(b), for “criminal, fraudulent or negligent” substitute “criminal or fraudulent”.
+
+**16.**[^key-748bea35448d2431d765afaf69b97a4f][^key-8bd5146a572c08221080626781b7d9d6][^key-89c7d5721cfca9e40f347b10269782ac][^key-46971e6b1022fd8b38c5af699f799be0][^key-900bdb21e6d8717bc324bbf50888eff6] (1) Schedule 2 (transitional provisions) is amended as follows.
+
+(2) In paragraph 1 (interpretation)—
+
+- (a)[^key-748bea35448d2431d765afaf69b97a4f] in the definition of “closing date”—
+  - (i) for “an existing” substitute “a relevant”, and
+  - (ii) for “that scheme” substitute “such a scheme”;
+- (b)[^key-8bd5146a572c08221080626781b7d9d6] in the definition of “full protection member”, for “8 and 9” substitute “8, 9 and 9A”;
+- (c) in the definition of “protected member” for “an existing” substitute “a relevant”;
+- (d) in the definition of “tapered protection closing date” for “an existing” substitute “a relevant”;
+- (e) for the definition of “tapered protection member” substitute—
+
+  > - “tapered protection member”—
+  >   - (a) in relation to an existing scheme, has the meaning given in paragraphs 12, 13 and 13A; and
+  >   - (b) in relation to the Fee-Paid Judges Scheme, means a person who meets the conditions in sub-paragraphs (a) to (d) of regulation 14(6);
+
+  ;
+- (f) in the definition of “transition date”—
+  - (i) for “an existing” substitute “a relevant”;
+  - (ii) for “that scheme” substitute “such a scheme”, and
+- (g) in the definition of “transition member” for “an existing” substitute “a relevant”.
+
+(3)[^key-89c7d5721cfca9e40f347b10269782ac] In paragraph 2 (meaning of “**continuity of service**”)—
+
+- (a) renumber the existing text as sub-paragraph (1);
+- (b) in that paragraph for “an existing” substitute “a relevant”, and
+- (c) at the end insert—
+
+  > (2) In this paragraph a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+(4)[^key-89c7d5721cfca9e40f347b10269782ac] In paragraph 3 (meaning of “**tapered protection closing date**”)—
+
+- (a) in sub-paragraph (1)—
+  - (i) for “an existing” substitute “a relevant”, and
+  - (ii) omit “under Part 4 of this Schedule”, and
+- (b) after sub-paragraph (2) insert—
+
+  > (3) In this paragraph “**the option**” means—
+  >
+  > - (a) in relation to an existing scheme, the option under Part 4 of this Schedule;
+  > - (b) in relation to the Fee-Paid Judges Scheme, the option under regulation 14(6)(d).
+
+  .
+
+(5)[^key-8bd5146a572c08221080626781b7d9d6] After paragraph 9 (members moving between schemes after the scheme closing date) insert—
+
+> **9A. Members with previous service in a fee-paid office**
+>
+> A person (P) is a full protection member of an existing scheme if—
+>
+> - (a) P was serving in a fee-paid office on 31st March 2012;
+> - (b) P was aged 55 years or over on 1st April 2012;
+> - (c) the appropriate Minister has notified P that P is eligible to a pension in respect of their service in that fee-paid office;
+> - (d) P either—
+>   - (i) was an active member of an existing scheme on the scheme closing date, or
+>   - (ii) begins service, which would have been pensionable under an existing scheme, after scheme closing date, and
+> - (e) P would, unless P dies, reach normal pension age under that scheme on or before 1st April 2022.
+
+.
+
+(6)[^key-8bd5146a572c08221080626781b7d9d6] After paragraph 13 (members moving between schemes after the scheme closing date) insert—
+
+> **13A. Members with previous service in a fee-paid office**
+>
+> A person (P) is a tapered protection member of an existing scheme if—
+>
+> - (a) P was serving in a fee-paid office on 31st March 2012;
+> - (b) P was aged between 51 years and 6 months and 55 years on 1st April 2012;
+> - (c) the appropriate Minister has notified P that P is eligible to a pension in respect of their service in that fee-paid office;
+> - (d) P either—
+>   - (i) was an active member of an existing scheme on the scheme closing date, or
+>   - (ii) begins service, which would have been pensionable under an existing scheme, after the scheme closing date, but before the tapered protection closing date for that scheme, and
+> - (e) P would, unless P dies, reach normal pension age under that scheme during the period beginning with 2nd April 2022 and ending with 1st September 2025.
+
+.
+
+(7)[^key-46971e6b1022fd8b38c5af699f799be0] In the heading before paragraph 15 for “an existing” substitute “a relevant”.
+
+(8)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 15 (transition member who has not reached normal pension age), in sub-paragraphs (1), (2) and (3) for “an existing” in each place where it occurs substitute “a relevant”.
+
+(9)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 16 (annual rate of surviving adult’s pensions when transition member dies in service)—
+
+- (a) in sub-paragraphs (2) and (3) and in the definition of “period of service” in sub-paragraph (4), for “an existing” in each place where it occurs substitute “a relevant”, and
+- (b) at the end, insert—
+
+  > (5) In this paragraph a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+(10)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 17 (annual rate of eligible child’s pension when transition member dies in service)—
+
+- (a) in sub-paragraphs (2) and (3) and in the definition of “period of service” in sub-paragraph (4), for “an existing” in each place where it occurs substitute “a relevant”, and
+- (b) at the end, insert—
+
+  > (5) In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+  .
+
+(11)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 18(2)(b) (death in service lump sum) for “an existing” substitute “a relevant”.
+
+(12)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 19 (death out of service lump sum)—
+
+- (a) for “an existing” in each place where it occurs substitute “a relevant”; and
+- (b) for “the existing” substitute “the relevant”.
+
+(13)[^key-46971e6b1022fd8b38c5af699f799be0] In the heading to Part 7 for “an existing scheme” substitute “relevant schemes”.
+
+(14)[^key-46971e6b1022fd8b38c5af699f799be0] In the heading to paragraph 21 for “the existing” substitute “a relevant”.
+
+(15) In paragraph 21 (repayment of contributions under the existing scheme) for “an existing” in both places where it occurs substitute “a relevant”.
+
+(16) In the heading to paragraph 23 for “the existing” substitute “a relevant”.
+
+(17) In paragraph 23 (nomination under existing scheme continues to have effect) for sub-paragraph (3) substitute—
+
+> (3) In this paragraph, “**existing nomination**” means—
+>
+> - (a) a nomination which—
+>   - (i) was made for the purpose of a relevant scheme; and
+>   - (ii) at the closing date, had effect under that scheme; or
+> - (b) a nomination which—
+>   - (i) was made in anticipation of membership of the Fee-Paid Judges Scheme; and
+>   - (ii) at the closing date would have had effect under that scheme if it had been in force.
+
+.
+
+**17.**[^key-2f2c99556ad9ed1d011bda1007c40a4d][^key-5b49a7da7fb98518c54f4bfd6766961d] (1) Schedule 3 (modifying provisions and amendments) is amended as follows.
+
+(2) In paragraph 1 (application) for “an existing” substitute “a relevant”.
+
+(3) In paragraph 2(3)(a) after “the Act” insert “and the scheme created by the Judicial Pensions (Fee-Paid Judges) Regulations 2017”.
+
+(4) In paragraph 3 (application)—
+
+- (a) renumber the existing text as sub-paragraph (1);
+- (b) in that sub-paragraph omit “(“**the old scheme**”)”, and
+- (c) at the end insert—
+
+  > (2) This Part also applies where a person (P)—
+  >
+  > - (a) is a member of the Fee-Paid Judges Scheme by virtue of pensionable service for that scheme;
+  > - (b) is a member of this scheme by virtue of pensionable service for this scheme;
+  > - (c) P’s service in the Fee-Paid Judges Scheme and service in the new scheme are continuous.
+  >
+  > (3) In this Part “**the old scheme**” means a scheme referred to in sub-paragraph (1)(a) or (2)(a) of which P is a member.
+
+  .
+
+Sealed with the Official Seal of the Department of Justice on 4th April 2023
+
+Richard Pengelly
+
+A senior officer of the
+
+Department of Justice
+
+The Department of Finance consents to the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance on 4th April 2023
+
+Patrick Neeson
+
+A senior officer of the
+
+Department of Finance
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations amend the Judicial Pensions (Northern Ireland) Regulations 2015 ([S.R. 2015 No. 76](https://www.legislation.gov.uk/nisr/2015/76)) (“**the 2015 Regulations**”).
+
+Regulations 4(a), 5 to 12, 16(2)(a) and (c) to (g), (3), (4) and (7) to (17) and 17 make provision consequential upon the making of the Judicial Pensions (Fee-Paid Judges) Regulations 2017 ([S.I.2017/522](https://www.legislation.gov.uk/uksi/2017/522) (“**the 2017 Regulations**”) in order to ensure that, where relevant, pensions calculated under the 2015 Regulations take account of a person’s service in the scheme established by the 2017 Regulations as they would take account of a person’s entitlement under the scheme established by the Judicial Pensions and Retirement Act [1993 (c. 8)](https://www.legislation.gov.uk/ukpga/1993/8).
+
+Regulation 4(b) corrects the definition of index adjustment to ensure that adjustment of the opening balance of a member’s pension account is made using the index adjustment for the year it follow.
+
+Regulations 14 and 15 remove negligence as a basis for forfeiture or set-off of pension while regulation 16(2)(b) and (e), (5) and (6) apply full and tapering protection to fee-paid judges who have subsequently been appointed to salaried office and meet the required age conditions.
+
+Regulation 2(1) provides that regulation 4(b) has effect from 1st April 2015. It also provides that regulations 2(2) and 16(2)(b), (5) and (6) (which provide for an extension of full and tapering protection as set out above) have effect from that date. As those aspects of regulation 16(2)(e) which also relate to this provision form part of a wider amendment which comes into force separately regulation 2(2) makes transitory provision which modifies the definition of “tapered protection member” until regulation 16(2)(e) comes into force. Regulation 2(3) and (4) ensures that the pension entitlements of, or in respect of, individuals who have already retired or died and who would have been a member of the scheme established by the 2017 Regulations if they had been in force are calculated in the same way as those who die or retire after the coming into force of these Regulations. Section 3(3)(b) of the Public Service Pensions Act (Northern Ireland) [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) permits scheme regulations to make retrospective provision.
+
+Regulation 13 removes the need for valuations of the scheme to be carried out.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
+
+[^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
+
+[^f00003]: Footnote: Formerly the Department of Finance and Personnel, see section 1(4) and (11) of and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)).
+
+[^key-6a2c5f4867ad6e0ba34e21b8fe12cbed]: Commencement: Reg. 1 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+
+[^f00004]: Footnote: [S.R. 2015 No. 76](https://www.legislation.gov.uk/nisr/2015/76) as amended by [S.R. 2016 No. 138](https://www.legislation.gov.uk/nisr/2016/138), [S.R. 2019 No. 26](https://www.legislation.gov.uk/nisr/2019/26), [S.R. 2020 No. 10](https://www.legislation.gov.uk/nisr/2020/10), and [S.R. 2022 No. 73](https://www.legislation.gov.uk/nisr/2022/73).
+
+[^f00005]: Footnote: [S.I. 2017/522](https://www.legislation.gov.uk/uksi/2017/522).
+
+[^key-f49c63f1df8c4c7b2b381ca287faa51c]: Commencement: Reg. 2(1),(2) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+
+[^key-c662d4b036e2ebd438be2e318c7de554]: Commencement: Reg. 2(3) comes into force in accordance with reg. 1(2)
+
+[^key-c61ac2c7437e434cc6174b74e0314b86]: Commencement: Reg. 2(4) comes into force in accordance with reg. 1(2)
+
+[^key-5b49a7da7fb98518c54f4bfd6766961d]: Commencement: Reg. 3 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-9ea96b009d1321c42c8f1f72fbe559d6]: Commencement: Reg. 4(a) comes into force in accordance with reg. 1(2)
+
+[^key-3604d0adb37b31375ce00dabcd6cdf1b]: Commencement: Reg. 4(b) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+
+[^key-d7348c0acd8335587bf13100f36419cf]: Commencement: Reg. 5 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-ec1a04c29c91e3a39570beb60acd4d37]: Commencement: Reg. 6 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-8ffd5242cf6a6875101a7fa59575a3dd]: Commencement: Reg. 7 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-aa1b43dd048a40db15616f2ed2f80f07]: Commencement: Reg. 8 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-45d5d35a955451dd2848028ce49ba0a4]: Commencement: Reg. 9 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-d5fb77ebcca17f02add6060d4ee4c865]: Commencement: Reg. 10 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-9cce82074464011d21d307f47926d6f5]: Commencement: Reg. 11 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-e73816778c4d45dba5afb669d02e5f77]: Commencement: Reg. 12 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-2bb6e98f3627671630668d7085831256]: Commencement: Reg. 13 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+
+[^key-c4d0971d08031d3a767dab063711763d]: Commencement: Reg. 14 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+
+[^key-63fbcb61ac5312b994c249545819a9d5]: Commencement: Reg. 15 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+
+[^key-748bea35448d2431d765afaf69b97a4f]: Commencement: Reg. 16(2)(a) comes into force in accordance with reg. 1(3)
+
+[^key-8bd5146a572c08221080626781b7d9d6]: Commencement: Reg. 16(2)(b),(5),(6) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+
+[^key-89c7d5721cfca9e40f347b10269782ac]: Commencement: Reg. 16(3)-(4) comes into force in accordance with reg. 1(3)
+
+[^key-46971e6b1022fd8b38c5af699f799be0]: Commencement: Reg. 16(7)-(14) comes into force in accordance with reg. 1(3)
+
+[^key-900bdb21e6d8717bc324bbf50888eff6]: Commencement: Reg. 16(c)-(g) comes into force in accordance with reg. 1(3)
+
+[^key-2f2c99556ad9ed1d011bda1007c40a4d]: Commencement: Reg. 17 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)

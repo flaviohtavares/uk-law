@@ -1,0 +1,268 @@
+---
+title: The Social Security (Incapacity for Work) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000
+id: nisr/2000/4
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-01-26'
+text_date: '2010-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/4
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/4/pdfs/nisr_20000004_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/4/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Incapacity for Work) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000
+
+> Text as at 2010-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 4
+
+SOCIAL SECURITY
+
+The Social Security (Incapacity for Work) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000
+
+Made
+
+26th January 2000
+
+Coming into operation
+
+3rd April 2000
+
+The Department for Social Development, in exercise of the powers conferred by sections 167A, 167C, 167D and 171(3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 75(5) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made by virtue of, or consequential upon, Article 58 of, and paragraph 22(2) of Schedule 8 to, that Order and which is made before the end of the period of six months beginning with the coming into operation of those provisions[^f00004], hereby makes the following Regulations:
+
+## Part I — General
+
+### 1. Citation, commencement and interpretation[^key-54a6e4e66df8f252afcd734644d9bda6]
+
+(1) These Regulations may be cited as the Social Security (Incapacity for Work) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000 and shall come into operation on 3rd April 2000.
+
+(2) In these Regulations “the General Regulations” means the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00005].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## Part II — Incapacity for Work Amendments
+
+### 2. Amendment of the General Regulations[^key-9022592fdfcd241996e0d81a88817ca3]
+
+(1) The General Regulations shall be amended in accordance with paragraphs (2) to (14).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) the definition of “the all work test” shall be omitted; and
+- (b) after the definition of “the own occupation test” there shall be inserted the following definition—
+
+  > - “personal capability assessment” means the assessment defined in Part III;
+
+  .
+
+(3) In regulation 6[^f00007] (information required for determining capacity for work)—
+
+- (a) in paragraph (1) after “work” there shall be inserted “, and the information or evidence required which is capable of being used for assisting or encouraging a person to obtain work or to enhance his prospects of obtaining it,”;
+- (b) in paragraph (1)(*a*)—
+  - (i) the words “or the all work test” shall be omitted; and
+  - (ii) after “applies,” there shall be inserted “or where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment,”;
+- (c) for paragraph (1)(*b*) there shall be substituted—
+
+  > - (b) where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment, such information—
+  >   - (i) relating to a person’s ability to perform the activities referred to in the Schedule, or
+  >   - (ii) capable of being used for assisting or encouraging a person to obtain work or to enhance his prospects of obtaining it,
+  >
+  >   as the Department may request in the form of a questionnaire;
+
+  ;
+- (d) in paragraph (1)(*c*) for “relating to the relevant test” there shall be substituted “as is capable of being used for the purpose referred to in sub-paragraph (*b*)(ii), or relating to the own occupation test or the personal capability assessment”;
+- (e) in paragraph (2) for “paragraph (1)(*b*)” there shall be substituted “paragraph (1)(*b*)(i)”; and
+- (f) after paragraph (3) there shall be added the following paragraph—
+
+  > (4) Information requested for the purpose referred to in paragraph (1)(*b*)(ii) shall not be used for the purposes of determining whether a person is capable or incapable of work in accordance with Part XIIA of the Contributions and Benefits Act.
+
+  .
+
+(4) In regulation 8(1) (person may be called for a medical examination) for “Where a question arises as to” there shall be substituted “Where it falls to be determined”.
+
+(5) In regulation 10(1)[^f00008] (certain persons with a severe condition to be treated as incapable of work) for “Where the all work test applies” there shall be substituted “Where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment”.
+
+(6) In regulation 13A[^f00009] (welfare to work beneficiary)—
+
+- (a)[^key-a312ed746d867b892e8c4bbedcbd0721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph (2)(*c*)(i) for “satisfied the all work test in accordance with Part III” there shall be substituted “determined to be incapable of work in accordance with the personal capability assessment under Part III”.
+
+(7) In regulation 14(*a*)(ii) (pregnancy) for “where the all work test applies” there shall be substituted “where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment”.
+
+(8)[^M_F_e4b3ab48-0f26-4b53-c355-c53b1052006d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In regulation 17A[^f00011] (person who claims unemployment benefit to be treated as capable of work)—
+
+- (a) for “Where the all work test applies” there shall be substituted “Where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment”; and
+- (b) for “satisfies that test” there shall be substituted “is incapable of work in accordance with the personal capability assessment”.
+
+(10) In the heading to Part III for “All Work Test” there shall be substituted “Personal Capability Assessment”.
+
+(11) For regulation 24 (the all work test) there shall be substituted the following regulation—
+
+> **24. The personal capability assessment**
+>
+> For the purposes of section 167C(2)(a) the personal capability assessment is an assessment of the extent to which a person who has some specific disease or bodily or mental disablement is capable of performing the activities prescribed in the Schedule, or is incapable by reason of such disease or bodily or mental disablement of performing those activities.
+
+.
+
+(12) For regulation 25(1) (assessment under the all work test) there shall be substituted—
+
+> **25. Incapacity under the personal capability assessment**
+>
+> (1) For the purposes of section 167C(2)(b) a person is incapable of work in accordance with the personal capability assessment when one or more of the descriptors in Part I or Part II apply to him if, by adding the points listed in column (3) of the Schedule against the descriptor, he obtains a total score of at least—
+>
+> - (a) 15 points in respect of descriptors specified in Part I;
+> - (b) 10 points in respect of descriptors specified in Part II; or
+> - (c) 15 points in respect of descriptors specified in Parts I and II.
+
+.
+
+(13)[^key-774afc8188e0354f9d6fb120acdde994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) For regulation 28(1) (conditions for treating the all work test as satisfied until assessment) there shall be substituted—
+
+> **28. Conditions for treating a person as incapable of work until the personal capability assessment is carried out**
+>
+> (1) Where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment that person shall, if the conditions set out in paragraph (2) are met, be treated as incapable of work in accordance with the personal capability assessment until such time as he has been assessed or he falls to be treated as capable of work in accordance with regulation 7 or 8.
+
+.
+
+## Part III — Consequential Amendments
+
+### 3. Amendment of the Social Security (Medical Evidence) Regulations[^key-42be1796f7e1f905bd18e9d3f748257d]
+
+(1) The Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^f00013] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) the definition of “the all work test”[^f00014] shall be omitted; and
+- (b) after the definition of “doctor” there shall be inserted the following definition—
+
+  > - “personal capability assessment” means the assessment provided for in section 167C of the Contributions and Benefits Act;
+
+  .
+
+(3) In regulation 2 (evidence of incapacity for work and confinement)—
+
+- (a)[^key-77f24b755a5a2eb106de569af251c2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-77f24b755a5a2eb106de569af251c2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in paragraph (2)[^f00016] for “all work test” there shall be substituted “personal capability assessment”.
+
+(4) In Schedule 1B[^f00017]—
+
+- (a) in Part I in paragraphs 1, 2 and 3 for “all work test statement” there shall be substituted “personal capability assessment statement”; and
+- (b) in Part II—
+  - (i) for “all work test” in both places where it occurs there shall be substituted “personal capability assessment”; and
+  - (ii) for “the all work assessment” there shall be substituted “the assessment”.
+
+### 4. Amendment of the Income Support (General) Regulations[^key-85795fcc920f18f9c352765e5201d37f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^key-755961eb758e2ab7037f23fe86b625a7]
+
+(1) The Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00021] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 31 (application of the new tests of incapacity for work)—
+
+- (a) in paragraph (1)[^f00022]—
+  - (i) for “the all work test shall apply to him” there shall be substituted “the question of whether he is capable or incapable of work shall fall to be determined in accordance with the personal capability assessment”;
+  - (ii) for “that test” there shall be substituted “that assessment”; and
+  - (iii) for “(the all work test)” there shall be substituted “(the personal capability assessment)”; and
+- (b) in paragraphs (3) and (4)[^f00023] for “shall be treated as having satisfied the incapacity for work test in accordance with regulations made under section 167C” there shall be substituted “shall be treated as being incapable of work in accordance with regulations made under section 167C”.
+
+(3) In regulation 32 (treatment of days of incapacity arising before the appointed day) the words “(period after which the all work test applies)” shall be omitted.
+
+## Part IV — Transitional Provision
+
+### 6. Person determined or treated as satisfying the all work test[^key-27e1a5cc0fa4ef88f3ad4552fc0e44c4]
+
+(1) For the purposes of Part XIIA of the Social Security Contributions and Benefits Act (Northern Ireland) 1992 (incapacity for work) a determination under the all work test made before 3rd April 2000 shall from that date be treated as if it were a determination under the personal capability assessment.
+
+(2) For the purposes of regulation 28 of the General Regulations, where before 3rd April 2000 the all work test was treated as satisfied in relation to a person under that regulation, from that date regulation 28 shall apply in relation to that person as if he had been treated as incapable of work in accordance with the personal capability assessment.
+
+Sealed with the Official Seal of the Department for Social Development on 26th January 2000.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 in consequence of the coming into force of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (“the Order”). Those Regulations are amended so that as well as requesting information about a person’s incapacity for work the Department can request information, in the form of a questionnaire or additional information, capable of being used to assist or encourage a person to obtain work or enhance his prospects of doing so; and to change references to the all work test to references to the personal capability assessment (regulation 2).
+
+The Regulations also amend the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976, the Income Support (General) Regulations (Northern Ireland) 1987 and the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995 to change references to the all work test to references to the personal capability assessment (regulations 3 to 5).
+
+The Regulations make transitional provision where the all work test has been satisfied or treated as satisfied before 3rd April 2000 (regulation 6).
+
+These Regulations are made in consequence of Article 58 of, and paragraph 22(2) of Schedule 8 to, the Order, which respectively substitute section 167C of, and insert section 167A(2A) into, the Social Security Contributions and Benefits (Northern Ireland) Act 1992. Article 58 of, and paragraph 22(2) of Schedule 8 to, the Order came into operation for the purpose only of making regulations on 1st December 1999 by virtue of Article 1(5) of the Order. In so far as not already in operation, Article 58 comes into operation on 3rd April 2000 and paragraph 22(2) of Schedule 8 came into operation on 16th December 1999 by virtue of the Welfare Reform and Pensions (1999 Order) (Commencement No. 1) Order (Northern Ireland) 1999 ([S.R. 1999 No. 494 (C. 38)](https://www.legislation.gov.uk/nisr/1999/494)). Since the Regulations are made before the end of the period of 6 months from the commencement of those provisions of the Order, they are, accordingly, exempt, by virtue of section 150(5)(b) of the Social Security Administration (Northern Ireland) Act 1992 from reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 167A was inserted by Article 7 of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)) and is amended by paragraph 22 of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); section 167C was inserted by Article 7 of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 and is substituted by Article 58 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and section 167D was inserted by Article 8(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
+
+[^f00002]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: *See* section 150(5)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-54a6e4e66df8f252afcd734644d9bda6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/4/regulation/1) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149), [S.R. 1996 Nos. 289](https://www.legislation.gov.uk/nisr/1996/289) and [601](https://www.legislation.gov.uk/nisr/1996/601) and [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9022592fdfcd241996e0d81a88817ca3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/4/regulation/2) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+
+[^f00007]: Footnote: Regulation 6 was amended by regulation 4(2) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and regulation 25(2) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^f00008]: Footnote: Regulation 10(1) was amended by regulation 4(3)(*a*) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^f00009]: Footnote: Regulation 13A was inserted by regulation 4(2) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
+
+[^key-a312ed746d867b892e8c4bbedcbd0721]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2000/4/regulation/2/6/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^M_F_e4b3ab48-0f26-4b53-c355-c53b1052006d]: Textual amendment: Reg. 2(8) revoked (10.4.2006) by [The Social Security (Incapacity for Work) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/150)](https://www.legislation.gov.uk/nisr/2006/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2006/150/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/150/schedule)
+
+[^f00011]: Footnote: Regulation 17A was inserted by regulation 4(6) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and amended by regulation 25(3) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^key-774afc8188e0354f9d6fb120acdde994]: Textual amendment: [Reg. 2(13)](https://www.legislation.gov.uk/nisr/2000/4/regulation/2/13) revoked (10.2.2005) by [The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/15)](https://www.legislation.gov.uk/nisr/2005/15), [regs. 1](https://www.legislation.gov.uk/nisr/2005/15/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/15/regulation/3)
+
+[^key-42be1796f7e1f905bd18e9d3f748257d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/4/regulation/3) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+
+[^f00013]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175); relevant amending regulations are [S.R. 1982 No. 153](https://www.legislation.gov.uk/nisr/1982/153), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^f00014]: Footnote: The definition of “the all work test” was inserted by regulation 2(2) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468)
+
+[^key-77f24b755a5a2eb106de569af251c2a6]: Textual amendment: [Reg. 3(3)(a)-(b)](https://www.legislation.gov.uk/nisr/2000/4/regulation/3/3/a) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
+
+[^f00016]: Footnote: Paragraph (2) was amended by regulation 2(3)(*b*) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468)
+
+[^f00017]: Footnote: Schedule 1B was inserted by regulation 2(5) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and amended by regulation 2(3) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^key-85795fcc920f18f9c352765e5201d37f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/4/regulation/4) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
+
+[^key-755961eb758e2ab7037f23fe86b625a7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/4/regulation/5) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+
+[^f00021]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
+
+[^f00022]: Footnote: Paragraph (1) was amended by regulation 3(5)(*a*) of [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
+
+[^f00023]: Footnote: Paragraph (4) was amended by regulation 3(8)(*a*) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^key-27e1a5cc0fa4ef88f3ad4552fc0e44c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/4/regulation/6) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)

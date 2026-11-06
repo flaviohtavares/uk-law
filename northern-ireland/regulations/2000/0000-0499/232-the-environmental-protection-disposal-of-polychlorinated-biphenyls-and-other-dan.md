@@ -1,0 +1,541 @@
+---
+title: The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000
+id: nisr/2000/232
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-07-14'
+text_date: '2025-06-17'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/232
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/232/pdfs/nisr_20000232_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/232/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-06-17. See https://www.legislation.gov.uk/changes/affected/nisr/2000/232
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 232
+
+ENVIRONMENTAL PROTECTION
+
+EUROPEAN COMMUNITIES
+
+The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000
+
+Made
+
+14th July 2000
+
+Coming into operation in accordance with regulation 1(2) and (3)
+
+The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to restrictions on the marketing and use of certain dangerous substances and preparations and measures relating to the prevention, reduction and elimination of pollution caused by waste, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:[^key-eae31d476aec8c142286b2170481b802]
+
+## 1. Citation and commencement[^key-b66a2d25ab9011d25310755e6b8eb30f]
+
+(1) These Regulations may be cited as the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000.
+
+(2) Except as provided by paragraph (3) these Regulations shall come into operation on 7th August 2000.
+
+(3) Regulation 13 shall come into operation on 1st April 2001.
+
+## 2. Interpretation[^key-c8690c929b19006610f0c875721dea86]
+
+(1) In these Regulations—
+
+- “the 1997 Order” means the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00003];
+- “applicant” means a person who applies for registration under regulation 6;
+- “contaminated equipment” means any equipment (including any transformer, capacitor or receptacle containing residual stocks) which—
+  - (a) contains PCBs; or
+  - (b) having contained PCBs, has not been decontaminated,
+
+  other than one which contains a total volume of PCBs not exceeding 5 dm<sup>3</sup>;
+- and for the purposes of this definition—
+  - (i) the PCB volume of a power capacitor shall be measured by reference to all of the separate elements of a combined set, and
+  - (ii) anything of a type that may contain PCBs shall be treated as containing PCBs, unless it is reasonable to assume the contrary;
+- “decontamination” means all operations which enable equipment, objects, materials or fluids contaminated by PCBs to be reused, recycled or disposed of under safe conditions, and which may include replacement, meaning all operations in which PCBs are replaced by suitable fluids not containing PCBs;
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs[^key-8f179c6dcee55329674afff20589b24e];
+- “the Directive” means Council Directive [96/59/EC](https://www.legislation.gov.uk/european/directive/1996/0059) on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCB/PCT)[^f00004];
+- “[^key-b4326291d5e2fa5d9e0cd7c5eeb2c153][Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)” means [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste as last amended by Directive (EU) 2018/851;[^key-535c86aca80267c8281759fec533ffb6]
+- “disposal” means any of the operations D8, D9, D10, D12 (only in safe, deep, underground storage in dry rock formations and only for equipment containing PCBs or used PCBs which cannot be decontaminated) and D15 provided for in Annex I of Directive[^key-8e35eb72f671867d8b672dd123277a28] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) and set out in Schedule 1 to these Regulations;
+- “holder” means the person who is in possession of PCBs, including any used PCBs, or of any equipment;
+- “PCBs” means any of the following substances—
+  - polychlorinated biphenyls,
+  - polychlorinated terphenyls,
+  - monomethyl-dibromo-diphenyl methane,
+  - monomethyl-dichloro-diphenyl methane,
+  - monomethyl-tetrachlorodiphenyl methane,
+  - and, except in regulations 4(3), (3B) and (4), 5(3), 9(3) and (3A),[^key-a9d37043e10d8760e3f099c50902a387] includes any mixture containing any of those substances in a total of more than 0.005% by weight;
+- “registered holder” means a person registered with the Department in accordance with regulation 6, and a registered holder is a registered holder in relation to particular equipment if a description of that equipment, including its location, has been furnished to the Department;
+- “transformer” includes ancillary equipment, that is to say, equipment that is an integral part of the site of which the transformer is part, including radiators, bushings, through-wall bushings, and capacitors on air blast circuit breakers;
+- “used PCBs” means any PCBs which are waste within the meaning of Directive[^key-0fbf9af4fb5517871dedb3117e9e9508] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098).
+
+(2) Other expressions used in these Regulations and in the Directive shall have the same meaning as they have in the Directive.
+
+(2A)[^key-4bd8e719c6c534fb9d2242d3f10520b5] For the purposes of these Regulations, Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) is to be read as if—
+
+- (a) Article 5(2) were omitted;
+- (b) in Article 6—
+  - (i) paragraphs 1 to 3 were omitted; and
+  - (ii) in paragraph 4—
+    - (aa) in the first sentence, for the words from “Where criteria” to “paragraph 1 and 2” there were substituted “ Except where Council Regulation (EU) No 333/2011, Commission Regulation (EU) No 1179/2012 or Commission Regulation (EU) No 715/2013 applies ”;
+    - (bb) the second sentence were omitted.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 3. Prohibition[^key-198a234385bd8b3b6320fe1314228068]
+
+(1) Subject to paragraphs (2) to (4), no person shall hold any contaminated equipment after 31st October 2000 unless he is a registered holder of that equipment.
+
+(2) A person may hold contaminated equipment, notwithstanding that he is not a registered holder, for the purposes of, or in the course of, any business, manufacturing process or trade concerned with the decontamination or disposal of such equipment.
+
+(3) A person who applies for registration in accordance with regulation 6(1) and (2), no later than 28 days after the coming into operation of these Regulations but whose application has not been finally determined by 31st October 2000 shall be treated as being a registered holder until 14 days after his application is finally determined.
+
+(4) A person who first holds contaminated equipment on or after the date on which these Regulations come into operation shall be treated as being a registered holder from the date on which he first holds such equipment until 14 days after his application for registration is finally determined, if he applies for registration in accordance with regulation 6(1) and (2), no later than 28 days after the date on which he becomes the holder of contaminated equipment.
+
+(5) For the purposes of this regulation an application is finally determined—
+
+- (a) where it is granted under regulation 6(3), on the date on which it is granted;
+- (b) where it is refused under regulation 6(3), on the date on which the Department gives notice under regulation 6(5);
+- (c) where it is deemed by regulation 6(6) to be refused—
+  - (i) where the period allowed for appealing against that refusal expires without an appeal being brought, on the expiry of that period,
+  - (ii) where an appeal is brought within that period, on the expiry of the period of 14 days beginning with the date of the determination or earlier withdrawal of the appeal.
+
+## 4. Prohibition on holding irrespective of registration[^key-1b4658385fdbfa4d18a7eef41bf7713e]
+
+(1) Subject to paragraphs (2) to (3C)[^key-111b8db5095871e7567ca3da03b1f61d], (5), and (8), no person shall, after 31st March 2001, hold—
+
+- (a) any PCBs, including any used PCBs; or
+- (b) any equipment (whether or not that equipment is contaminated equipment)—
+  - (i) which contains PCBs; or
+  - (ii) which, having contained PCBs, has not been decontaminated.
+
+(2) A person may hold—
+
+- (a) PCBs, including any used PCBs, or equipment for the purposes of, or in the course of any business, manufacturing process or trade concerned with the decontamination or disposal of PCBs or such equipment;
+- (b) PCBs, including any used PCBs, which are manufactured, supplied or used solely for the purposes of analysis, or of research connected with the properties and effects of PCBs, and any equipment used as a receptacle for those PCBs, provided that any such PCBs and equipment are disposed of as soon as possible after the PCBs are no longer required for those purposes.
+
+(3)[^key-b8690feefb36a42b2aff09e47855ab1a] Paragraph (3A) applies to a transformer in respect of which it is reasonable to assume that it contains—
+
+- (a) 0.005% by weight, or less, of PCBs within the fluids containing PCBs; or
+- (b) a total volume of 0.05dm<sup>3</sup>, or less, of fluids containing PCBs.
+
+(3A) A transformer to which this paragraph applies—
+
+- (a) may be held until the end of its useful life; and
+- (b) must then be decontaminated in accordance with paragraph (4)(b) to (d), or disposed of, as soon as possible.
+
+(3B) Paragraph (3C) applies to a transformer in respect of which it is reasonable to assume that it contains—
+
+- (a) more than 0.005% but no more than 0.05% by weight of PCBs within the fluids containing PCBs; and
+- (b) a total volume of more than 0.05dm<sup>3</sup> of PCBs fluids containing PCBs.
+
+(3C) A transformer to which this paragraph applies—
+
+- (a) may be held until the end of 31st December 2025; and
+- (b) must then be decontaminated in accordance with paragraph (4)(b) to (d), or disposed of, as soon as possible.
+
+(4) A transformer in respect of which it is reasonable to assume that the fluids contain more than 0.05% by weight of PCBs shall be decontaminated under the following conditions—
+
+- (a) the objective of the decontamination must be to reduce the content of PCBs in the fluid to 0.005% by weight, or less, or to reduce the total volume of fluids containing PCBs to 0.05dm[^key-96db344a925dc7c597c860414ddb68a5]<sup>3</sup>, or less;
+- (b) the replacement fluid not containing PCBs must entail markedly lesser risks;
+- (c) the replacement of the fluid must not compromise the subsequent disposal of the PCBs; and
+- (d) the labelling of the transformer after its decontamination must be replaced by the labelling specified in Schedule 2 to these Regulations.
+
+(5)
+
+- (a) The Department may, on an application in writing made by a holder and if it is satisfied as to the matters specified in paragraph (6), by a direction in writing given to the holder before 31st March 2001, provide that paragraph (1) shall not apply in relation to such equipment as is specified in the direction until such date, being after 31st March 2001 but before 1st January 2008 as shall be specified in the direction.
+- (b) The application under paragraph (*a*) shall be accompanied by the fee specified in Schedule 3 to these Regulations.
+
+(6) The matters referred to in paragraph (5) are—
+
+- (a) that the equipment will be replaced as part of a major programme for the replacement of an installation or plant of which the equipment is part (“the programme”);
+- (b) that the programme was approved by the owners or other persons in control of the operation of the installation or plant before the date on which these Regulations are made;
+- (c) that the equipment will be disposed of by the date to be specified in the direction;
+- (d) that to require the disposal of the equipment before that date would disrupt the programme to a significant extent; and
+- (e) that all reasonable precautions have been taken to secure that PCBs cannot escape from the equipment pending its disposal.
+
+(7) Equipment in respect of which a direction is given under paragraph (5) shall, unless decontaminated or disposed of before the date specified in the direction, be disposed of on that date.
+
+(8) Any equipment containing PCBs—
+
+- (a) which is equipment to which none of paragraphs (2) to (3C)[^key-95adc31516f7abfef9d5f330626434e0] and (5) apply;
+- (b) which is relevant[^key-26664e9df78425f9fba904e30c206f32] equipment; and
+- (c) which is part of another piece of equipment which is also relevant[^key-f9be8735104a32960d8e56abb0dd607f] equipment,
+
+may be held until that other piece of equipment is taken out of use, recycled or disposed of; and shall then, where reasonably practicable, be removed and collected separately from that other equipment.
+
+(9)[^key-e97c9df12339c414ec1b495438ef04bd] In paragraph (8), “**relevant equipment**” means any equipment (including any capacitor or receptacle containing residual stocks) which—
+
+- (a) contains PCBs; or
+- (b) having contained PCBs, has not been decontaminated, other than one which contains a total volume of PCBs exceeding 0.05dm<sup>3</sup>.
+
+(10) For the purposes of paragraph (9)—
+
+- (a) the PCB volume of a power capacitor shall be measured by reference to all of the separate elements of a combined set; and
+- (b) anything of a type which may contain PCBs shall be treated as containing PCBs unless it is reasonable to assume the contrary.
+
+## 5. Labelling of contaminated equipment[^key-ade7e6c58381915498c55f575af408d0]
+
+(1) The registered holder of any contaminated equipment in respect of which an inventory is to be, or has been, made under regulation 9 shall affix to that equipment and the doors of premises where such equipment is located, an indelible sign and, subject to regulation 4(4)(*d*), shall take reasonable steps to secure that the sign remains so affixed while that equipment remains at that location.
+
+(2) Subject to paragraph (3), the sign shall record that the equipment is, or the premises contains equipment that is, contaminated by PCBs.
+
+(3)[^key-e7a3d69f617ee26eedc58d080e4bca5c] Equipment in respect of which it is reasonable to assume that—
+
+- (a) within the equipment the fluids contain 0.005% by weight, or less, of PCBs; or
+- (b) the equipment contains a total volume of 0.05dm<sup>3</sup>, or less, of fluids containing PCBs, may be labelled as “PCBs contaminated \<0.005% or \<0.05dm<sup>3</sup>”.
+
+## 6. Registration[^key-c8d5c4cc69771bb732ca8fef5898d7ec]
+
+(1) Subject to paragraph (2), an application for registration—
+
+- (a) shall be made in writing on a form provided by the Department;
+- (b) shall contain the following particulars—
+  - (i) the name and address of the applicant,
+  - (ii) a description of the contaminated equipment, identifying its location or intended location,
+  - (iii) a description of the PCBs which are or were contained in the equipment, so far as can reasonably be identified without excessive cost,
+  - (iv) so far as can reasonably be ascertained without excessive cost, the quantity of such of those PCBs as have been identified, and
+  - (v) every date on which treatment or replacement was carried out or is envisaged, specifying in each case the nature of the treatment or replacement; and
+- (c) shall be accompanied by the appropriate fee specified in Schedule 3 to these Regulations.
+
+(2) Information of the descriptions—
+
+- (a) in paragraph (1)(*b*)(ii) to (v) may be provided in an electronic form acceptable to the Department;
+- (b)[^key-3e79e15f89bab3b21cd4489c150e2475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An application for registration shall be granted where the applicant has complied with paragraph (1) and shall otherwise be refused.
+
+(4) Where an application for registration is granted, the Department shall register the applicant and, in respect of the applicant, the other particulars furnished under paragraph (1)(*b*) and shall, within 28 days of it being granted, confirm in writing that the applicant is registered with it.
+
+(5) Where an application for registration is refused, the Department shall give notice in writing of the refusal to the applicant within 28 days of the refusal; and the notice shall be accompanied by a statement of the reasons for the decision and as to the circumstances in which an offence under regulation 12(1) may be committed.
+
+(6) Where the Department fails to determine an application within 56 days of the date on which the application is made, the application shall be deemed to have been refused on the expiry of that period.
+
+## 7. Cancellation of registration or particulars[^key-c864451a8d8a12e44876b8c6ab86615e]
+
+(1) The Department may cancel the registration with it of a holder where it appears to the Department that the applicant supplied false information in connection with his application for registration or has failed to comply with regulation 10(1) or (2) or a notice under regulation 10(4) (whether or not proceedings are instituted).
+
+(2) The Department shall cancel the registered particulars in respect of a particular location if it appears to the Department that the registered holder does not hold contaminated equipment there.
+
+(3) Before any cancellation under paragraph (1) or (2) takes effect the Department shall, subject to paragraph (4), serve on the registered holder written notice of—
+
+- (a) its decision to cancel;
+- (b) the reasons for the decision;
+- (c) the date when the cancellation will take effect, not being earlier than 28 days from the date of service of the notice.
+
+(4) Nothing in paragraph (3) shall require the Department to give notice of a cancellation which gives effect to information supplied by a registered holder pursuant to regulation 10(1) and (2) or a notice under regulation 10(4).
+
+## 8. Appeals[^key-b816a953809ae16d6bac48ea6aff50dc]
+
+(1) A person may appeal by notice in writing to the Planning Appeals Commission against—
+
+- (a) the deemed refusal of an application under regulation 6(6) of an application for registration; or
+- (b) the cancellation of a registration under regulation 7.
+
+(2) An appeal—
+
+- (a) under paragraph (1)(*a*) shall be brought within the period of 28 days beginning with the date on which the application is deemed to be refused;
+- (b) under paragraph (1)(*b*) shall be brought before the date on which the cancellation takes effect.
+
+(3) The provisions set out in Article 41(3), (4), (5) and (6) of, and Part I of Schedule 2 (in so far as it applies to Article 41) to, the 1997 Order (concerning the reference of matters involved in appeals) shall apply in relation to appeals under this regulation and matters involved in them, as they apply in relation to appeals under the provisions specified in paragraphs (1) and (2) of that Article and matters involved in those appeals.
+
+(4) While an appeal is pending in a case falling within paragraph (1)(*b*), the decision in question shall be ineffective as respects any equipment which is the subject matter of the appeal; and if the appeal is dismissed or withdrawn the decision shall become effective from the end of the day on which the appeal is dismissed or withdrawn.
+
+## 9. Inventories of contaminated equipment[^key-30cc3cab49e1b14ef37a208d083ee7e2]
+
+(1) The Department shall, on or before 31st December 2000, compile an inventory of the contaminated equipment held at every location in respect of which there is a registered holder.
+
+(2) Subject to paragraph (3), an inventory compiled in accordance with paragraph (1) shall record—
+
+- (a) the name and address of the registered holder of the contaminated equipment;
+- (b) the location and description of the equipment;
+- (c) the quantity of PCBs contained in the equipment, in each case specifying (so far as reasonably practicable) the particular substance or mixture concerned;
+- (d) the dates and types of treatment or replacement carried out or envisaged; and
+- (e) the dates of declaration.
+
+(3)[^key-ec54f2a665529eba2a0da5610c210a1e] In respect of entries in the inventory compiled on or before 30th September 2000, or an application made under regulation 10(1) before 30th September 2019, an inventory need not record information of the descriptions in paragraph (2)(c) and (d) as regards any equipment in respect of which it is reasonable to assume that the content of PCBs in the fluids is between 0.05% and 0.005% by weight.
+
+(3A) In respect of an application made under regulation 10(1) on or after 30th September 2019, an inventory need not record information of the descriptions in paragraph (2)(c) and (d) as regards any equipment in respect of which it is reasonable to assume that it contains—
+
+- (a) 0.005% by weight, or less, of PCBs within the fluids containing PCBs; or
+- (b) a total volume of 0.05dm<sup>3</sup>, or less, of fluids containing PCBs.
+
+(4) The Department shall, on or before 31st December 2000 and each year thereafter, review and if necessary revise the inventory which it has compiled in accordance with paragraph (1).
+
+(5) Paragraph (3) shall apply in respect of a review under paragraph (4) as it applies to the compilation of the inventory.
+
+## 10. Information for inventories[^key-9ea3ec1028ea59f8139cbdef1bb9ad75]
+
+(1)(a) A registered holder who (because any of paragraphs (2) to (3C)[^key-6f825e8beaa5f800280339ebda5cfd6c] or (5) of regulation 4 apply) intends to continue to hold contaminated equipment on or after 31st October 2001 or in any subsequent year shall apply in writing in that year, but before 31st October, for the registration to continue.
+
+- (b) The application under sub-paragraph (*a*) shall be accompanied by the fee specified in Schedule 3 to these Regulations.
+
+(2) In applying, the registered holder shall, in respect of each of his items of contaminated equipment which have been or are to be, included in an inventory made in accordance with regulation 9(1), notify the Department of the locations and descriptions and, subject to regulation 9(3), or 9(3A) (as the case may be),[^key-a32d8af45607a28f0118252268aa9637] the quantities and dates and types of treatment, referred to in regulation 9(2).
+
+(3) The Department shall monitor the quantities of which it is notified under paragraph (2), and shall consider what, if any, changes to a holder’s registered particulars are required as a result of the notification.
+
+(4) For the purpose of enabling the Department to discharge the function referred to in paragraph (3), the Department may by notice in writing served on the registered holder of any equipment in respect of which a quantity has been notified in accordance with paragraph (2) require him to provide, within such reasonable period as the Department may specify in the notice, such information as the Department may reasonably require.
+
+## 11. Information for the public[^key-f4eac50aeed050fc40b9a8a7b3cf10fb]
+
+(1) Subject to paragraphs (5) and (6), the Department shall make available for public inspection, without charge, and at all reasonable hours, a copy of every inventory and revised inventory which it has compiled.
+
+(2) The copy may be kept in any form but shall be indexed and arranged so that members of the public can readily trace information recorded in it.
+
+(3) Subject to paragraphs (5) and (7), the Department shall keep a register specifying the quantity, origin, nature and PCB content of used PCBs in respect of which copies of consignment notes specifying that information are furnished to it under regulations 5(4), 8(9) or 9(3) of the Special Waste Regulations (Northern Ireland) 1998[^f00008] by a person in the course of a business concerned with disposal of PCBs.
+
+(4) The register may be kept in any form and may, in particular, comprise copies, or extracts of copies, of consignment notes; but it shall—
+
+- (a) be indexed and arranged so that members of the public can readily trace information recorded in it; and
+- (b) be made available for public inspection, without charge, at all reasonable hours.
+
+(5) Nothing in paragraph (1) or (3) shall require the Department to make available information which—
+
+- (a) is capable of being, or must be, treated as confidential for the purposes of regulation 5 of the Environmental Information Regulations (Northern Ireland) 1993[^f00009]; or
+- (b) would be capable of being, or would have to be, treated as confidential for those purposes if it were information to which those Regulations applied.
+
+(6) Nothing in paragraph (1) shall require the Department to retain an inventory or revised inventory, as the case may be, which has been superseded by a revised inventory once 4 years have elapsed from the date on which the revised inventory or the most recent revised inventory, as the case may be, was compiled.
+
+(7) The register mentioned in paragraphs (3) and (4) shall be kept until 31st December 2010.
+
+## 12. Offences and penalties[^key-30143388f628c80f4f0c819645eaa1f4]
+
+(1) A person who holds any contaminated equipment in contravention of regulation 3 is guilty of an offence.
+
+(2) A person—
+
+- (a) who holds PCBs or equipment in contravention of paragraph (1) of regulation 4;
+- (b) who, being the holder of PCBs or equipment to which sub-paragraph (*b*) of paragraph (2) of regulation 4 applies, fails to dispose of them in accordance with that sub-paragraph; or
+- (c) who, being the holder of equipment, fails to decontaminate or dispose of that equipment—
+  - (i) in a case to which paragraph (3) of regulation 4 applies, as soon as possible after the end of its useful life;
+  - (ia)[^key-576cb305eb2e612573403de6fd975a9e] in a case to which paragraph (3B) of regulation 4 applies, as soon as possible after 31st December 2025;
+  - (ii) in a case to which paragraph (5) of regulation 4 applies, in accordance with paragraph (7) of that regulation;
+  - (iii) in a case to which paragraph (8) of regulation 4 applies, as soon as possible after the end of the useful life of the other piece of equipment of which it is part,
+
+  is guilty of an offence.
+
+(3) A person who fails to comply with regulation 4(4)(*d*) or regulation 5 is guilty of an offence.
+
+(4) A person who—
+
+- (a) supplies information for the purposes of regulation 6(1) knowing it to be false or misleading in a material particular or recklessly supplies information which is false or misleading in a material particular;
+- (b) fails without reasonable excuse to supply information in accordance with regulation 10(2) or a notice under regulation 10(4); or
+- (c) supplies such information knowing it to be false or misleading in a material particular or recklessly supplies information which is false or misleading in a material particular,
+
+is guilty of an offence.
+
+(5) A person guilty of an offence under paragraph (1) or (2) shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine or a term of imprisonment not exceeding 2 years, or both.
+
+(6) A person guilty of an offence under paragraph (3) or (4) shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+## 13. Revocation[^key-317b7e56a5d355af33050917f9c2235b]
+
+The Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 1994[^f00010] shall be revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 14th July 2000.
+
+Sam Foster
+
+Minister of the Environment
+
+## SCHEDULE 1 — Disposal operations D8, D9, D10, D12 and D15 as set out in [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste, as amended[^key-d38d65983ec54f04fb69b3162ce32cff][^key-fec29827a6851cac9b0c873ece98549a]
+
+Regulation 2
+
+> **D8.** Biological treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D1 to D12.
+>
+> **D9.** Physico-chemical treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D1 to D12 (e.g. evaporation, drying, calcination, etc.).
+>
+> **D10.** Incineration on land.
+>
+> **D12.** Permanent storage (e.g. emplacement of containers in a mine, etc.).
+>
+> **D15.** Storage pending any of the operations numbered D1 to D14 (excluding temporary storage, pending collection, on the site where it is produced).
+
+## SCHEDULE 2 — Labelling of decontaminated equipment[^key-9083bf3275221570cb39faa6a3640dd1]
+
+Regulation 4(4)(*d*)
+
+[^key-9083bf3275221570cb39faa6a3640dd1]Each item of decontaminated equipment must be clearly marked with an indelible and embossed or engraved sign which must include the following information—
+
+> **Decontaminated PCB Equipment**
+>
+> Fluid containing PCBs was replaced
+>
+> - with (name of the substitute)
+> - on (date)
+> - by (undertaking).
+>
+> Concentration of PCBs in
+>
+> - old fluid % by weight
+> - new fluid % by weight.
+
+## SCHEDULE 3 — Fees
+
+Regulation 4(5), 6 and 10(1)
+
+### Part I[^key-69587a887736c4d7b32a7dfffc02a3bf]
+
+Fees payable for the registration of equipment under regulation 6 and renewing a registration under regulation 10(1).
+
+For Paper Submission
+
+| Number of Pieces of Equipment | Fees |
+| --- | --- |
+| ≤20 | £155 |
+| 21-50 | £250 |
+| 51-100 | £475 |
+| \>100 | £475 + £50 per 50 above 100 |
+
+For Electronic Submission
+
+| Number of Pieces of Equipment | Fees |
+| --- | --- |
+| ≤20 | £155 |
+| \>20 | £250 |
+
+### Part II[^key-acc86d640602edd500300bed67b0b372]
+
+The fee payable for an application under regulation 4(5) shall be £1,050.
+
+(This note is not part of the Regulations.)
+
+These Regulations relate to Council Directive [96/59/EC](https://www.legislation.gov.uk/european/directive/1996/0059) (“the Directive”) on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (“PCBs”). They are for the purpose of implementing the provisions of the Directive which require decontamination or disposal of PCBs and equipment containing them and the associated provisions for inventories, labelling and monitoring. They are additional to the existing relevant requirements of the waste management licensing regime under the Waste and Contaminated Land (Northern Ireland) Order 1997.
+
+Subject to exceptions, in particular for businesses concerned with the decontamination and disposal of PCBs, regulation 3 prohibits the holding of certain equipment contaminated by PCBs (“contaminated equipment”) by anyone other than a person registered with the Department of the Environment (“the Department”) under these Regulations. The prohibition applies after 31st October 2000.
+
+Subject to exceptions, in particular for businesses concerned with decontamination and disposal of PCBs, for transformers and for certain other equipment being replaced under major replacement programmes, regulation 4(1) prohibits the holding of PCBs and equipment (whether or not within the definition of “contaminated equipment” in regulation 2). This provision applies even though a person is registered with the Department, but only applies after 31st March 2001.
+
+Contaminated equipment is to be labelled as such (regulation 5) and, when decontaminated, within specified limits, is to be re-labelled in the form set out in Schedule 2 to the Regulations (regulation 4(4)(*d*)).
+
+Regulation 6 provides for the procedure for registration. Applicants for registration are required to specify, amongst other things, the date by which they expect to have decontaminated or disposed of the equipment concerned. Regulation 7 provides for cancellation of the registration and regulation 8 for appeals against the non-determination of an application for registration or the cancellation of a registration.
+
+Registered holders are required to provide information to the Department on a regular basis (regulation 10).
+
+Regulations 9, 10(3) and 11 set out the duties of the Department to monitor the information supplied, to prepare an inventory and to review it at regular intervals, to provide an annual statement of the number of registered holders and items of equipment of which particulars are registered, and in relation to public registers. The preparation of inventories by the Department is to facilitate the discharge of the obligation imposed by Article 4.1 of the Directive to send to the Commission a summary of the inventories of equipment with PCB volumes of more than 5dm<sup>3</sup>. The Department also obtains other relevant information through the system of consignment notes under the Special Waste Regulations (Northern Ireland) 1998.
+
+Regulation 12 creates criminal offences.
+
+Regulation 13 revokes the Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 1994. These are superseded, in particular, by regulation 4 of these Regulations.
+
+Schedule 1 to the Regulations records the disposal operations D8 to D10, D12 and D15 set out in Annex IIA of Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste, as replaced by Council Decision 96/350. These are the only permitted methods of disposal of PCBs and equipment contaminated by PCBs under the Directive.
+
+Schedule 2 sets out the Directive’s requirements for the labelling of decontaminated equipment.
+
+Schedule 3 sets out the fees for registering equipment under regulation 6 or renewing registration under regulation 10(1) and for an application for a direction from the Department to add specified equipment in accordance with regulation 4(5), (6) and (7).
+
+Copies of Council Directives [96/59/EC](https://www.legislation.gov.uk/european/directive/1996/0059) and [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) may be obtained from the Stationery Office, 16 Arthur Street, Belfast BT1 4GD.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1992/1711](https://www.legislation.gov.uk/uksi/1992/1711), [2870](https://www.legislation.gov.uk/uksi/1992/2870)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-eae31d476aec8c142286b2170481b802]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2000/232) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+
+[^key-b66a2d25ab9011d25310755e6b8eb30f]: Commencement: Reg. 1 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-c8690c929b19006610f0c875721dea86]: Commencement: Reg. 2 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^f00003]: Footnote: S.I. [1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
+
+[^key-8f179c6dcee55329674afff20589b24e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/1) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/3/1)
+
+[^f00004]: Footnote: O.J. No. L243, 24.9.96, p. 31
+
+[^key-b4326291d5e2fa5d9e0cd7c5eeb2c153]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/1) inserted (17.1.2019) by [The Air Quality (Amendment, etc.) Regulations (Northern Ireland) 2018 (S.R. 2018/215)](https://www.legislation.gov.uk/nisr/2018/215), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/215/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2018/215/regulation/3)
+
+[^key-535c86aca80267c8281759fec533ffb6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/1) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/285/regulation/3/2)
+
+[^key-8e35eb72f671867d8b672dd123277a28]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/1) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [32(2)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/32/2/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+
+[^key-a9d37043e10d8760e3f099c50902a387]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/1) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/111/regulation/3/2)
+
+[^key-0fbf9af4fb5517871dedb3117e9e9508]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/1) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [32(2)(b)](https://www.legislation.gov.uk/nisr/2011/127/regulation/32/2/b) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+
+[^key-4bd8e719c6c534fb9d2242d3f10520b5]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2000/232/regulation/2/2A) inserted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-198a234385bd8b3b6320fe1314228068]: Commencement: Reg. 3 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-1b4658385fdbfa4d18a7eef41bf7713e]: Commencement: Reg. 4 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-111b8db5095871e7567ca3da03b1f61d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/1) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/1)
+
+[^key-b8690feefb36a42b2aff09e47855ab1a]: Textual amendment: [Reg. 4(3)-(3C)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/3) substituted for [reg. 4(3)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/3) (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/2)
+
+[^key-96db344a925dc7c597c860414ddb68a5]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/4/a) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/3)
+
+[^key-95adc31516f7abfef9d5f330626434e0]: Textual amendment: Words in [reg. 4(8)(a)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/8/a) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(4)(i)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/4/i)
+
+[^key-26664e9df78425f9fba904e30c206f32]: Textual amendment: Word in [reg. 4(8)(b)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/8/b) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(4)(ii)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/4/ii)
+
+[^key-f9be8735104a32960d8e56abb0dd607f]: Textual amendment: Word in [reg. 4(8)(c)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/8/c) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(4)(ii)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/4/ii)
+
+[^key-e97c9df12339c414ec1b495438ef04bd]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/9)[(10)](https://www.legislation.gov.uk/nisr/2000/232/regulation/4/10) inserted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [4(4)(iii)](https://www.legislation.gov.uk/nisr/2025/111/regulation/4/4/iii)
+
+[^key-ade7e6c58381915498c55f575af408d0]: Commencement: Reg. 5 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-e7a3d69f617ee26eedc58d080e4bca5c]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2000/232/regulation/5/3) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2025/111/regulation/5)
+
+[^key-c8d5c4cc69771bb732ca8fef5898d7ec]: Commencement: Reg. 6 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-3e79e15f89bab3b21cd4489c150e2475]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/nisr/2000/232/regulation/6/2/b) omitted (17.6.2025) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2025/111/regulation/6)
+
+[^key-c864451a8d8a12e44876b8c6ab86615e]: Commencement: Reg. 7 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-b816a953809ae16d6bac48ea6aff50dc]: Commencement: Reg. 8 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-30cc3cab49e1b14ef37a208d083ee7e2]: Commencement: Reg. 9 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-ec54f2a665529eba2a0da5610c210a1e]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/nisr/2000/232/regulation/9/3)[(3A)](https://www.legislation.gov.uk/nisr/2000/232/regulation/9/3A) substituted for [reg. 9(3)](https://www.legislation.gov.uk/nisr/2000/232/regulation/9/3) (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2025/111/regulation/7)
+
+[^key-9ea3ec1028ea59f8139cbdef1bb9ad75]: Commencement: Reg. 10 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-6f825e8beaa5f800280339ebda5cfd6c]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2000/232/regulation/10/1) substituted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/8/1)
+
+[^key-a32d8af45607a28f0118252268aa9637]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/10/2) inserted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2025/111/regulation/8/2)
+
+[^key-f4eac50aeed050fc40b9a8a7b3cf10fb]: Commencement: Reg. 11 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^f00008]: Footnote: [S.R. 1998 No. 289](https://www.legislation.gov.uk/nisr/1998/289)
+
+[^f00009]: Footnote: [S.R. 1993 No. 45](https://www.legislation.gov.uk/nisr/1993/45), amended by [S.R. 1998 No. 238](https://www.legislation.gov.uk/nisr/1998/238)
+
+[^key-30143388f628c80f4f0c819645eaa1f4]: Commencement: Reg. 12 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-576cb305eb2e612573403de6fd975a9e]: Textual amendment: [Reg. 12(2)(c)(ia)](https://www.legislation.gov.uk/nisr/2000/232/regulation/12/2/c) inserted (17.6.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/111)](https://www.legislation.gov.uk/nisr/2025/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2025/111/regulation/9)
+
+[^key-317b7e56a5d355af33050917f9c2235b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/232/regulation/13) in operation at 1.4.2001, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/3)
+
+[^f00010]: Footnote: [S.R. 1994 No. 222](https://www.legislation.gov.uk/nisr/1994/222)
+
+[^key-d38d65983ec54f04fb69b3162ce32cff]: Commencement: Sch. 1 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-fec29827a6851cac9b0c873ece98549a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2000/232/schedule/1) heading substituted (18.12.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/285/regulation/3/3)
+
+[^key-9083bf3275221570cb39faa6a3640dd1]: Commencement: Sch. 2 in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-69587a887736c4d7b32a7dfffc02a3bf]: Commencement: Sch. 3 Pt. I in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)
+
+[^key-acc86d640602edd500300bed67b0b372]: Commencement: Sch. 3 Pt. II in operation at 7.8.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/232/regulation/1/2)

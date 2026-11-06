@@ -1,0 +1,148 @@
+---
+title: Local Government (Councillors’ Remuneration Panel) Regulations (Northern Ireland) 2012
+id: nisr/2012/279
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2012-07-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2012/279
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/279/pdfs/nisrem_20120279_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/279/pdfs/nisr_20120279_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/279/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Councillors’ Remuneration Panel) Regulations (Northern Ireland) 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 279
+
+Local Government
+
+Local Government (Councillors’ Remuneration Panel) Regulations (Northern Ireland) 2012
+
+Made
+
+5th July 2012
+
+Coming into operation
+
+10th September 2012
+
+The Department of the Environment makes the following Regulations in exercise of the powers conferred upon it by section 35 of the Local Government Finance Act (Northern Ireland) 2011[^f00001].
+
+In accordance with section 44 of that Act the Department has consulted councils, such associations representative of councils, such associations representative of officers of councils and such other persons or bodies as appear to be appropriate.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Local Government (Councillors’ Remuneration Panel) Regulations (Northern Ireland) 2012 and shall come into operation on 10th September 2012.
+
+(2) In these Regulations—
+
+- “chairperson” means a person appointed by the Department in accordance with regulation 3(1)(a);
+- “the Department” means the Department of the Environment;
+- “the panel” means the panel established in accordance with regulation 2; and
+- “panel member” means a person appointed by the Department in accordance with regulation 3(1)(b).
+
+## 2. Establishment of the panel
+
+The Department shall establish a panel known as the Councillors’ Remuneration Panel for Northern Ireland.
+
+## 3. Membership of the panel
+
+(1) The panel shall consist of—
+
+- (a) a chairperson; and
+- (b) not more than four or less than two other panel members, as appears to the Department to be appropriate.
+
+(2) The following persons shall not be a chairperson or a panel member—
+
+- (a) a member of the Northern Ireland Assembly[^f00002];
+- (b) a member of the House of Lords;
+- (c) a member of Parliament;
+- (d) a member of the Parliament of the European Union;
+- (e) a member of a council; or
+- (f) a person who is disqualified from being or becoming a councillor[^f00003].
+
+## 4. Tenure of panel members
+
+(1) The chairperson and panel members shall hold and vacate office in accordance with the terms of their appointment.
+
+(2) The chairperson and panel members shall be appointed for a period not exceeding 4 years.
+
+(3) The chairperson and panel members may be appointed for periods of different duration.
+
+(4) A person appointed as chairperson may hold that office until their term of office expires.
+
+(5) Subject to regulation 3(2), a chairperson or a panel member may, on the termination of the period of tenure of office, be eligible for re-appointment for such further period, not exceeding 4 years.
+
+(6) A chairperson or panel member appointed to fill a casual vacancy is to serve in that office until the date upon which the term of office of the person in whose place that panel member is appointed would have expired.
+
+(7) A chairperson or panel member may resign by giving a signed notice in writing to the Department.
+
+(8) The Department may by notice in writing remove a person from office as a chairperson or panel member.
+
+## 5. Meetings of the panel
+
+(1) Subject to paragraph (2), the chairperson is to preside at meetings of the panel.
+
+(2) If the chairperson is absent from a meeting of the panel, another panel member is to preside.
+
+(3) Subject to any provisions made by these Regulations, the panel may regulate its own procedure.
+
+## 6. Administration
+
+(1) The Department shall pay to the chairperson and panel members such allowances and expenses incurred in discharging the functions of the panel as the Department may determine.
+
+(2) The Department shall make available to the panel such premises, staff and services as the panel may reasonably require.
+
+## 7. The work of the panel
+
+(1) The panel shall comply with any directions given to it by the Department as to the discharge of its functions.
+
+(2) Without prejudice to the generality of (1), the Department may direct the panel to provide the Department with advice or information in relation to matters specified in the direction, and to report to the Department in a manner and by a date specified in the direction.
+
+## 8. Information
+
+The panel may, in the discharge of its functions, seek information or advice from any body or person.
+
+Sealed with the Official Seal of the Department of the Environment on 5th July 2012
+
+Linda MacHugh
+
+A senior officer of the Department of the Environment
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in accordance with section 35 of the Local Government Finance Act (Northern Ireland) 2011. They make provision for the Department to establish a remuneration panel to consider and make recommendations regarding the framework and level of allowances payable to councillors.
+
+**Regulation 2** requires the Department to appoint the panel.
+
+**Regulation 3** provides that the panel must consist of a chairperson and not more than four or less than two other panel members.
+
+**Regulation 4** provides for the tenure of the chairperson and panel members.
+
+**Regulation 5** makes provision in relation to meetings of the panel.
+
+**Regulation 6** requires the Department to pay the expenses incurred by the panel in carrying out its functions and also makes provision for the payment of allowances to the panel and the provision of appropriate administrative support.
+
+**Regulation 7** requires the panel to comply with any directions given to it by the Department as to the discharge of its functions.
+
+**Regulation 8** makes provision for the panel to seek information or advice from any source to enable it to carry out its functions.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c.10 (N.I.)](https://www.legislation.gov.uk/nia/2011/10)
+
+[^f00002]: Footnote: Within the meaning of the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00003]: Footnote: See section 4 of the Local Government Act (Northern Ireland) [1972 (c.9) (N.I.)](https://www.legislation.gov.uk/apni/1972/9)

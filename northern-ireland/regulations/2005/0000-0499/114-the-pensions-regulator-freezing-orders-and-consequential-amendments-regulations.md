@@ -1,0 +1,170 @@
+---
+title: The Pensions Regulator (Freezing Orders and Consequential Amendments) Regulations (Northern Ireland) 2005
+id: nisr/2005/114
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-15'
+text_date: '2012-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/114
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/114/pdfs/nisr_20050114_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/114/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Regulator (Freezing Orders and Consequential Amendments) Regulations (Northern Ireland) 2005
+
+> Text as at 2012-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 114
+
+PENSIONS
+
+The Pensions Regulator (Freezing Orders and Consequential Amendments) Regulations (Northern Ireland) 2005
+
+Made
+
+15th March 2005
+
+Coming into operation
+
+6th April 2005
+
+The Department for Social Development, in exercise of the powers conferred by sections 89A(2), 95(4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], and Articles 19(10), 20(7)(a), 26(7)(c) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-54a5cdb55a4c0efde9580cf85a9c3dcc]
+
+(1) These regulations may be cited as the Pensions Regulator (Freezing Orders and Consequential Amendments) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+(2) In these Regulations –
+
+- “the Act” means the Pension Schemes (Northern Ireland) Act 1993;
+- “the Order” means the Pensions (Northern Ireland) Order 2005, and
+- “salary related occupational pension scheme” shall be construed in accordance with section 89(1A) of the Act[^f00004].
+
+## 2. Meaning of “the actuary”[^key-b74e0f903c49db25eabffe12db0eba6e]
+
+The qualification[^key-9368d68fafbc6fe3172b52abb2d5c42e] prescribed for the purposes of paragraph (b)(i) of the definition of “the actuary” in Article 19(10) of the Order (freezing orders) is Fellowship of the Institute and Faculty of Actuaries.[^M_F_397e4525-06e6-40c1-95e3-a0199a906c97]
+
+## 3. Modification of the Act[^key-413d080de7b6f5c8f587a0aba4cf258b]
+
+(1) This regulation applies where, in relation to a salary related occupational pension scheme –
+
+- (a) the trustees or managers are required to act in accordance with subsection (2) of section 95 of the Act[^f00005] (trustees' duties after exercise of cash equivalent option) within whichever of the time limits set out in paragraph (a) of that subsection is applicable (“the relevant period”), and
+- (b) at any time during the relevant period there is a freezing order in effect, which is made in accordance with Article 19 of the Order and which contains a direction under paragraph (4)(f) of that Article that affects the application referred to in section 95(2) of the Act.
+
+(2) Where this regulation applies, section 95(2) of the Act shall have effect as if for paragraph (a) there were substituted –
+
+> - (a) in the case of a member of a salary related occupational pension scheme –
+>   - (i) by the date which is the last day of the period of 6 months beginning immediately after the guarantee date, or (if earlier) by the date on which the member attains normal pension age, or
+>   - (ii) (if later than the date arrived at under sub-paragraph (i)) where a freezing order made under Article 19 of the Pensions (Northern Ireland) Order 2005 which contains a direction under paragraph (4)(f) of that Article is in effect prior to the date arrived at under sub-paragraph (i) in relation to that scheme, within 3 months beginning with the date on which that direction ceases to have effect;
+
+.
+
+## 4. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-a6996e45ac8abeb720439b4d515c086d]
+
+(1) The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00006] shall be amended in accordance with the following paragraphs.
+
+(2) In regulation 6 (guaranteed statements of entitlement) –
+
+- (a)[^M_F_c88c1998-3142-4cab-f3b3-e3b47287b95c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after paragraph (1) there shall be inserted –
+
+  > (1A) Where a relevant scheme has received an application, the guarantee date must be either –
+  >
+  > - (a) within the period, or, where applicable, the longer period, set out in paragraph (1); or
+  > - (b) within a period of 3 months beginning on the date on which the relevant direction ceases to have effect,
+  >
+  > whichever ends later.
+  >
+  > (1B) In paragraph (1A) –
+  >
+  > - “application” means an application for a statement of entitlement made under section 89A(1) (salary related schemes: right to statement of entitlement);
+  > - “relevant scheme” means a scheme which either –
+  >   - (a) is the subject of a freezing order made under Article 19 of the Pensions (Northern Ireland) Order 2005 containing a relevant direction on the date it receives the application; or
+  >   - (b) becomes the subject of such a freezing order during the period, or, where applicable, the longer period set out in paragraph (1); and
+  > - “relevant direction” means a direction under Article 19(4)(g) of the Pensions (Northern Ireland) Order 2005.
+
+  .
+
+(3) In regulation 13 (extension of time limits for payment of cash equivalents) –
+
+- (a) the word “or” at the end of paragraph (b) shall be omitted;
+- (b) after paragraph (b) there shall be inserted –
+
+  > - (ba) the scheme is or has been within the 3 months immediately before the end of that period the subject of a freezing order under Article 19 of the Pensions (Northern Ireland) Order 2005 which contains a direction under Article 19(4)(f) of that Order; or
+
+  , and
+- (c) in paragraph (c) for “paragraph (a) or (b)” there shall be substituted “paragraph (a), (b) or (ba)”.
+
+## 5. Prescribed period for notification of non-payment of contribution[^key-6dd57f2eac71e9013ac433281461a322]
+
+The period prescribed for the purposes of Article 26(7)(c) of the Order (period within which trustees or managers must give notice to the Regulator and to the member of failure to pay a contribution) is –
+
+- (a) in the case of notice to the Regulator, 7 days, and
+- (b) in the case of notice to the member, 14 days.
+
+Sealed with the Official Seal of the Department for Social Development on 15th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations make provision relating to freezing orders under Article 19 of the Pensions (Northern Ireland) Order 2005 (“the Order”).
+
+Regulation 1 provides for citation, commencement and interpretation.
+
+Regulation 2 prescribes the qualifications necessary for a person to be brought within the meaning of “the actuary” as set out in Article 19(10) of the Order.
+
+Trustees or managers of pension schemes are required to abide by specified time limits in taking certain actions in relation to members' entitlements, such as issuing a statement of entitlement to a member of a salary related occupational pension scheme (under section 89A of the Pension Schemes (Northern Ireland) Act 1993 (“the Act”), or carrying out what the member requires in response to an application received from the member to take his cash equivalent in accordance with section 91 of the Act. If, however, the scheme in question is the subject of a freezing order which contains certain directions, it may be impossible for the trustees or managers to abide by the time limits set out in section 95 the Act, or regulations made under it.
+
+Regulation 3 modifies the Act, and regulation 4 amends the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996, to take account of the fact that it may be impossible to abide by the time limits, and extends the time limits where appropriate if a freezing order containing a relevant direction is or has been in effect.
+
+Regulation 5 prescribes the period within which trustees or managers must give notice to the Pensions Regulator and to the member of failure to pay a contribution where they were required to do so by the Regulator in an order made under Article 26 of the Order (power to give a direction where a freezing order ceases to have effect).
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of Articles 19(10) (in part), 20(7)(a) and 26(7)(c) of the Order, some of the enabling provisions under which these Regulations are made, for the purpose of authorising the making of regulations on 25th February 2005 and for all other purposes on 6th April 2005.
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 89A was inserted by Article 149 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and section 95(4) was substituted by paragraph 8(c) of Schedule 4 to that Order
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); *see* paragraph (b)(i) of the definition of “the actuary” in Article 19(10)
+
+[^key-54a5cdb55a4c0efde9580cf85a9c3dcc]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+
+[^f00004]: Footnote: Section 89(1A) was inserted by Article 148(3) of the Pensions (Northern Ireland) Order 1995
+
+[^key-b74e0f903c49db25eabffe12db0eba6e]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+
+[^key-9368d68fafbc6fe3172b52abb2d5c42e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/114/regulation/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2012/113/regulation/9/a/b)
+
+[^M_F_397e4525-06e6-40c1-95e3-a0199a906c97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/114/regulation/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2012/113/regulation/9/a/b)
+
+[^key-413d080de7b6f5c8f587a0aba4cf258b]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+
+[^f00005]: Footnote: Subsection (2) was substituted by paragraph 8(a) of Schedule 4 to the Pensions (Northern Ireland) Order 1995
+
+[^key-a6996e45ac8abeb720439b4d515c086d]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619), to which there are amendments not relevant to these Regulations
+
+[^M_F_c88c1998-3142-4cab-f3b3-e3b47287b95c]: Textual amendment: Reg. 4(2)(a) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370/contents/made), [Regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/made), [sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/made)
+
+[^key-6dd57f2eac71e9013ac433281461a322]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)

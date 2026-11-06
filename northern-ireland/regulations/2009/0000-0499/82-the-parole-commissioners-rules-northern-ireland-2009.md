@@ -1,0 +1,721 @@
+---
+title: The Parole Commissioners’ Rules (Northern Ireland) 2009
+id: nisr/2009/82
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-03-05'
+text_date: '2022-03-21'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/82
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/82/pdfs/nisrem_20090082_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/82/pdfs/nisr_20090082_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/82/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Parole Commissioners’ Rules (Northern Ireland) 2009
+
+> Text as at 2022-03-21.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 82
+
+Prisons
+
+The Parole Commissioners’ Rules (Northern Ireland) 2009
+
+Made
+
+5th March 2009
+
+Coming into operation
+
+1st April 2009
+
+To be laid before Parliament
+
+The Secretary of State makes the following rules in exercise of the powers conferred by Article 100(4) of, and paragraph 4 of Schedule 4 to, the Criminal Justice (Northern Ireland) Order 2008[^f00001] —
+
+## PART 1 — INTRODUCTORY
+
+### 1. Title and Commencement[^key-223d0a9f63942aef279eb4f677e50e56]
+
+These rules may be cited as the Parole Commissioners’ Rules 2009 and shall come into operation on 1 April 2009.
+
+### 2. Application and Interpretation[^key-1c8ca3335d14cbd05b307561c055d6bb]
+
+(1) Subject to rules 25, 26 and 31(1) these rules apply where a prisoner’s case is referred to the Commissioners by the Secretary of State under Articles 6 or 9(4) of the 2001 Order or Articles 18 , 20A[^key-2fff0038b3e055deac78378eb7561100] or 28(4) of the 2008 Order.
+
+(2) In these rules—
+
+- “the 2001 Order” means the Life Sentences (Northern Ireland) Order 2001[^f00002];
+- “the 2008 Order” means the Criminal Justice (Northern Ireland) Order 2008;
+- “the 2001 Rules” means the Life Sentence Review Commissioners’ Rules 2001[^f00003]
+- “case papers” means those documents, materials and papers submitted by the parties under rules 8, 10 and 25(b);
+- “chairman of the panel” means chairman of the panel nominated under rule 12(2);
+- “Chief Commissioner” means the Chief Commissioner appointed under paragraph 1(4) of Schedule 4 to the 2008 Order;
+- “Commissioners” means the Parole Commissioners, appointed under paragraph 1(1) of Schedule 4 to the 2008 Order ;
+- “deputy Chief Commissioner” means the deputy Chief Commissioner appointed under paragraph 1(5) of Schedule 4 to the 2008 Order;
+- “extended custodial prisoner” means a person serving one or more sentences as defined under Article 14 of the 2008 Order;
+- “hearing” includes consideration of a prisoner’s case by a single Commissioner;
+- “indeterminate custodial prisoner” means a person serving one or more sentences as defined under Article 13(4) of the 2008 Order;
+- “life prisoner” means a life prisoner as defined under Article 2 of the 2001 Order;
+- “panel” means a panel of Commissioners constituted in accordance with rule 12(2);
+- “parties” means the prisoner and the Secretary of State;
+- “party” means either the prisoner or the Secretary of State;
+- “prison” includes any place where the prisoner is detained, and in the case of rule 7(2) means any place where the person was detained;
+- “prisoner” includes an “extended custodial prisoner”, an “indeterminate custodial prisoner”, and a “life prisoner”;
+- “single Commissioner” shall be construed in accordance with rule 12(1);
+- “special advocate” means a person appointed under paragraph 4(3) of Schedule 4 to the 2008 Order to represent the interests of the prisoner.
+
+## PART 2 — POWERS
+
+### 3. General powers of the Commissioners[^key-c9e06926978c71aff1943a7b997d867b]
+
+(1) Subject to the provisions of these rules, the Commissioners may regulate their own procedure in dealing with any matter as they consider appropriate.
+
+(2) The Commissioners shall make available to the prisoner, to the Secretary of State, and to their representatives information regarding any procedures they adopt pursuant to paragraph (1).
+
+(3) The Commissioners may deal with matters and cases in the order they consider appropriate save that they shall, so far as is practicable to do so, give priority to the consideration of cases under Parts 4 and 5.
+
+(4) Where a prisoner’s case has been referred to the Commissioners by the Secretary of State and the Chief Commissioner thinks it necessary to interview the prisoner the Chief Commissioner may authorise a Commissioner to interview the prisoner with the prisoner’s consent and a report of that interview shall be considered by the single Commissioner and panel (if any) dealing with the prisoner’s case.
+
+(5) A copy of the report of the interview prepared under paragraph (4) shall be made available to the prisoner and the Secretary of State.
+
+### 4. The deputy Chief Commissioner[^key-8665c557d936e3793dffd2fb43fdcd8c]
+
+The deputy Chief Commissioner shall exercise such powers and functions as may be delegated by the Chief Commissioner and in the event of the Chief Commissioner being unavailable shall exercise all or any of the powers and functions conferred on the Chief Commissioner by these rules.
+
+### 5. Deemed delegation to deputy Chief Commissioner[^key-9ed7c4b233f327ea449185b6054d0ecc]
+
+When the Chief Commissioner is a member of a panel dealing with a case, the Chief Commissioner shall, after appointment of the panel under rule 12(2) be deemed to have delegated all of the powers and functions of the Chief Commissioner relating to that case to the deputy Chief Commissioner.
+
+## PART 3 — PRISONERS’ CASES
+
+### 6. Listing and provisional timetable[^key-1e657622749e207ce659e6b9bba88646]
+
+(1) Where a case is referred to the Commissioners by the Secretary of State the Commissioners shall, within 7 days, list the case and serve written notice of referral on the parties indicating a provisional timetable for consideration of the case by a single Commissioner.
+
+(2) Within 5 weeks of the case being listed, the prisoner shall notify the Commissioners and the Secretary of State whether the prisoner wishes to attend any oral hearing that may be held.
+
+(3) Subject to rules 16(2) and 17(2) any oral hearing of a case shall be fixed for a date that:
+
+- (a) where the single Commissioner has provisionally directed that the prisoner be released or has directed that the case should be considered by a panel, is no later than 8 weeks from the date of the provisional direction or direction as the case may be; or
+- (b) where the single Commissioner has directed that the prisoner not be released and the prisoner has served a notice in accordance with rule 13(5), is no later than 8 weeks from the date of service of the notice.
+
+### 7. Representation[^key-094d6a3ee5c6a5e8a9e0d3740d93a654]
+
+(1) Subject to paragraphs (2) and (3) the prisoner may appoint a person to act as the prisoner’s representative.
+
+(2) ) The following persons may act as a representative of the prisoner only with the consent of the Chief Commissioner:
+
+- (a) any person serving a sentence of imprisonment;
+- (b) any person who has been released from prison on licence for life, or any person who —[^key-7c10299a057574915ba804a29fe779ef]
+  - (i) is on licence having been released under Article 18 or 20A of the 2008 Order, or
+  - (ii) is a person to whom Article 18 or 20A of that Order applies and who is on licence having been released under Article 20 of that Order;
+- (c) any person who is on licence having been released from prison under Article 26 of the Criminal Justice (Northern Ireland) Order 1996[^f00004];
+- (d) any person who is on licence having been released from prison under Article 46 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^f00005].
+
+(3) Subject to rules 14 and 18, the Chief Commissioner, in deciding whether to grant consent in accordance with paragraph (2), may require the prisoner and the prisoner’s proposed representative to provide such evidence, whether oral or written, including prison licence documentation and criminal records, as the Chief Commissioner considers necessary to enable the Chief Commissioner to make a decision.
+
+(4) Within 3 weeks of the case being listed, the prisoner shall notify the Commissioners and the Secretary of State of the name, address and occupation of any person appointed in accordance with paragraph (1).
+
+(5) Where the prisoner has not appointed a representative, the single Commissioner appointed under rule 12(1) or the chairman of the panel appointed under rule 12(2) may, with the prisoner’s consent, appoint an eligible person to act on the prisoner’s behalf and shall notify the Secretary of State accordingly.
+
+(6) In paragraph (5) “eligible person” means someone not falling within the category of person at paragraph (2).
+
+(7) Where the prisoner appoints a new representative or the name, address or occupation of the prisoner’s representative changes, the prisoner shall serve written notice giving details of the changes on the Commissioners and on the Secretary of State within 7 days of the appointment of the new representative or becoming aware of the changes.
+
+(8) Where a party wishes another person other than a representative or a witness to be admitted to an oral hearing, the party shall make a written application to the Commissioners for the admission of such person.
+
+(9) An application under paragraph (8) shall state the reason for the application, include the name, address and occupation of the person to whom it relates and be made no later than 3 weeks prior to the date of such hearing.
+
+(10) The chairman of the panel may grant or refuse an application under paragraph (8) and shall communicate within 7 days the decision to both parties giving reasons in writing, in the case of a refusal, for the decision.
+
+(11) Before granting any application under paragraph (8) the chairman of the panel shall obtain the agreement of:
+
+- (a) in the case where such hearing is to be held at a prison or other place of detention, a governor; and
+- (b) in any other case, the person in whom is vested the authority to agree.
+
+(12) In paragraph (11)(a) “governor” means any governor and includes a prison officer to whom a governor’s functions has been delegated.
+
+### 8. Information and reports by the Secretary of State[^key-970f016704bdc9c3394ad933b9aeff0d]
+
+(1) Within 8 weeks of the case being listed for hearing, and subject to paragraph (2) and rule 9, the Secretary of State shall serve on the Commissioners and the prisoner or the prisoner’s representative:
+
+- (a) the information specified in Part A of Schedule 1;
+- (b) the reports specified in Part B of that Schedule; and
+- (c) such further information as the Secretary of State considers to be relevant to the case.
+
+(2) Any part of the information or reports referred to in paragraph (1) which, in the opinion of the Secretary of State, should be withheld from the prisoner on the ground that its disclosure would adversely affect the health or welfare of the prisoner or any other person, shall be recorded in a separate document and served only on the Commissioners together with the reasons for believing that its disclosure would have that effect.
+
+(3) Where a document is withheld from the prisoner in accordance with paragraph (2), it shall nevertheless be served as soon as practicable on the prisoner’s representative if that representative is:
+
+- (a) a barrister or solicitor;
+- (b) a registered medical practitioner; or
+- (c) a person whom the single Commissioner, or the chairman of the panel, directs is suitable by virtue of experience or professional qualification;
+
+provided that no information disclosed in accordance with this paragraph shall be disclosed either directly or indirectly to the prisoner or to any other person without the authority of the single Commissioner, or the chairman of the panel.
+
+### 9. Non-disclosure of confidential information[^key-a87f6d5948b0f9bc224337c19428ff7f]
+
+(1) This rule applies where the Secretary of State certifies as confidential information any information, document or evidence which, in the Secretary of State’s opinion, would, if disclosed to the prisoner or any other person be likely to:
+
+- (a) adversely affect the safety of any individual;
+- (b) result in the commission of an offence;
+- (c) facilitate an escape from lawful custody or the doing of any act prejudicial to the safe keeping of persons in custody;
+- (d) impede the prevention or detection of offences or the apprehension or prosecution of suspected offenders;
+- (e) be contrary to the interests of national security; or
+- (f) otherwise cause substantial harm to the public interest;
+
+and any such information, document or evidence is referred to in these rules as confidential information.
+
+(2) Neither the Commissioners nor a special advocate shall in any circumstances disclose to or serve on the prisoner, the prisoner’s representative, any witness appearing for the prisoner or any other person, any confidential information and shall not allow the prisoner, the prisoner’s representative, any witness appearing for the prisoner or any other person to hear argument or the examination of evidence which relates to any confidential information.
+
+(3) Where the Secretary of State has certified information as confidential, the Secretary of State shall, within 7 days of doing so, serve on the prisoner and on the Commissioners, whether by way of inclusion with the case papers or otherwise, written notice of this stating, so far as the Secretary of State considers it possible to do so without causing harm of the kind referred to in paragraph (1), the gist of the information withheld and the reasons for withholding it.
+
+### 10. Evidence of the prisoner[^key-cac2d23f5554f3850b3be9e59192b0e7]
+
+Where the prisoner wishes to make representations about the case or to adduce documentary evidence, the prisoner shall serve such representations and documentary evidence on the Commissioners and the Secretary of State within 14 weeks of the case being listed.
+
+### 11. Further evidence and information[^key-8a43ac16498392afc9853e0186ed0e1d]
+
+(1) Following receipt of the papers from the parties, the single Commissioner or the chairman of the panel may require either party to produce further evidence or information on any topic relevant to the conduct or determination of the case and may stay the progress of the case until a response to their requirement has been received.
+
+(2) Subject to rules 8(2) and 9, any further evidence or information produced under paragraph (1) shall be served by the party responding on the Commissioners and on the other party.
+
+(3) A party may not supplement or add to case papers, response papers or further evidence and information produced and served under this rule without the leave of the single Commissioner or the chairman of the panel dealing with the case, as the case may be.
+
+### 12. Appointment of single Commissioner and panels of Commissioners[^key-40b16165ddd9b28dc8aff13e26f69cb4]
+
+(1) Within 7 days from the referral of a prisoner’s case to the Commissioners by the Secretary of State the Chief Commissioner shall appoint a Commissioner who shall act as the single Commissioner for the purpose of conducting proceedings in relation to a prisoner’s case pursuant to rule 13.
+
+(2) Where consideration of a prisoner’s case is required pursuant to rules 16 or 17 the Chief Commissioner shall appoint three Commissioners to form a panel for the purpose of conducting proceedings in relation to a prisoner’s case and shall nominate one of the three Commissioners to act as chairman of the panel.
+
+(3) The members of the panel appointed under paragraph (2) shall, so far as reasonably practicable, include a person who is legally qualified as described in paragraph 1(2)(a) of Schedule 4 to the 2008 Order.
+
+(4) The members of the panel appointed under paragraph (2) shall, so far as reasonably practicable, include a registered medical practitioner who is a psychiatrist, or a chartered psychologist.
+
+(5) In relation to any prisoner’s case, no Commissioner appointed under paragraph (1) shall be appointed to the panel formed under paragraph (2).
+
+(6) If a Commissioner who has been appointed as the single Commissioner under paragraph (1) or as a member of a panel under paragraph (2) becomes unavailable or if the Chief Commissioner considers that it would be inappropriate for that Commissioner to continue to act the Chief Commissioner shall, subject to paragraphs (3), (4) and (5), appoint another Commissioner to take the place of that Commissioner.
+
+### 13. Consideration by single Commissioner[^key-f301fd2b9c8321998b40c0c2ffe7e26b]
+
+(1) Within 4 weeks of the expiry of the time specified in rule 10 the single Commissioner shall consider the prisoner’s case and make a provisional direction or direction under paragraph (2).
+
+(2) The single Commissioner shall either:
+
+- (a) provisionally direct that the prisoner be released;
+- (b) provisionally direct that the prisoner not be released; or
+- (c) direct that the case be considered by a panel appointed under rule 12(2).
+
+(3) Any direction or provisional direction under paragraph (2) shall be recorded in writing and shall be provided to the parties within 7 days of the date of the direction or provisional direction, and reasons for that direction or provisional direction shall be given at the same time.
+
+(4) Where the single Commissioner provisionally directs under paragraph (2) that the prisoner not be released, the prisoner may require a panel appointed under rule 12(2) to consider the prisoner’s case.
+
+(5) Where a prisoner requires their case to be considered by a panel under paragraph (4), the prisoner must within 2 weeks of the date of receipt of the provisional direction serve notice to that effect on the Commissioners and the Secretary of State.
+
+(6) If no notice has been served in accordance with paragraph (5), the provisional direction of the single Commissioner shall become final and shall be provided to the parties within 1 week of the expiry of the period stipulated in paragraph (5).
+
+(7) Subject to paragraph (6); directions made under paragraph (2)(a) or (b) are provisional directions only, final directions shall only be made pursuant to rules 16 or 17.
+
+### 14. Directions of single Commissioner[^key-e991e7369b30581535e19e739e233e03]
+
+(1) Subject to paragraph (2), before a panel is appointed under rule 12(2), the single Commissioner may give, vary or revoke directions to ensure the efficient further conduct of the prisoner’s case, including directions in respect of matters such as:
+
+- (a) the provisional timetable for the case;
+- (b) subject to paragraph (8) the varying of the time within which or by which an act, required or authorised by these rules, is to be done;
+- (c) the service of documents;
+- (d) the submission and production of evidence;
+- (e) the appointment of a special advocate and the conduct of a special advocate under rule 19;
+- (f) the representation of the prisoner;
+
+and following the single Commissioner’s appointment under rule 12(1) and consideration of the prisoner’s case under rule 13 the single Commissioner shall consider whether such directions need to be given.
+
+(2) Directions under paragraph (1) may be given, varied or revoked either:
+
+- (a) of the single Commissioner’s own motion; or
+- (b) on the written application of a party to the Commissioners which has been served on the other party and on the Commissioner and which specifies the direction sought.
+
+(3) Within 7 days of making a direction under paragraph (1) the single Commissioner shall serve on the parties such direction which shall be recorded in writing with reasons and dated and signed by the single Commissioner.
+
+(4) Within 7 days of being notified of a direction given under paragraph (3) either party may appeal to the Chief Commissioner by serving written notice of appeal on both the Chief Commissioner and the other party stating the grounds of the appeal.
+
+(5) Within 7 days of being served with a notice of appeal under paragraph (4) the other party may in reply make written representations on the appeal which shall be served on the Chief Commissioner and the party moving the appeal.
+
+(6) The Chief Commissioner shall consider the written representations of the parties and after having done so shall allow or reject the appeal and make such further or other directions of the type mentioned in paragraph (1) as the Chief Commissioner sees fits.
+
+(7) The direction of the Chief Commissioner made under paragraph (6) shall be final and shall be recorded in writing with reasons, dated and signed by the Chief Commissioner and served on the other parties not more than 7 days after the date of making the direction.
+
+(8) The time specified in rule 13(5) shall not be varied save in exceptional circumstances.
+
+### 15. Adjournment[^key-0c677d63461c31139428a141b757587f]
+
+(1) The single Commissioner or the panel may at any time adjourn the consideration of a prisoner’s case by way of direction for any purpose they consider appropriate
+
+(2) On adjourning a case under paragraph (1), the single Commissioner or chairman of the panel shall give such directions as they consider appropriate for ensuring the prompt consideration of the case.
+
+(3) Any direction made under paragraphs (1) or (2) shall be recorded in writing and shall be provided to the parties within 7 days of the date of the direction and reasons for that direction shall be given at the same time.
+
+(4) Where an oral hearing is adjourned without a date having been fixed under paragraph (2), the chairman of the panel shall give the parties not less than 14 days notice, or such shorter notice to which all parties may consent, of the date, time and place of the resumed hearing.
+
+### 16. Provisional direction of single Commissioner that the prisoner be released or single Commissioner directs that the case should be considered by a panel[^key-3765e4118f7694372af27065a6a3de17]
+
+(1) In any case where:
+
+- (a) the single Commissioner has made a provisional direction under rule 13(2)(a) that the prisoner be released; or
+- (b) case should be considered by a panel;
+
+the prisoner’s case shall be considered by a panel appointed under rule 12(2).
+
+(2) Where a panel is required to consider a prisoner’s case under paragraph (1) the panel shall hold an oral hearing unless both parties and the panel agree otherwise.
+
+(3) The panel shall either:
+
+- (a) direct that the prisoner not be released; or
+- (b) direct that the prisoner be released.
+
+### 17. Provisional direction of single Commissioner that the prisoner not be released[^key-95f01dbc1d428cce70721ecbe76b6132]
+
+(1) Where the single Commissioner has made a provisional direction under rule 13(2)(b) that the prisoner not be released, and the prisoner has served such notice as is required under rule 13(5) a panel formed under rule 12(2) shall consider the prisoner’s case.
+
+(2) Where a panel is required to consider a prisoner’s case under paragraph (1) the panel shall hold an oral hearing, unless both parties and the panel agree otherwise.
+
+(3) The panel shall either:
+
+- (a) direct that the prisoner not be released; or
+- (b) direct that the prisoner be released.
+
+### 18. Directions of chairman of the panel[^key-90e6cc44bf1d30098f59f22523108ce8]
+
+(1) Subject to paragraph (2), the chairman of the panel may give, vary or revoke directions for the conduct of the case allocated to the panel, including directions in respect of matters such as:
+
+- (a) the timetable for the case;
+- (b) an act, required or authorised by these rules, is to be done;
+- (c) the service of documents;
+- (d) the submission and production of evidence;
+- (e) the curing or waiving of irregularities;
+- (f) the listing, location and adjournment of hearings, including hearings under paragraph 7(b);
+- (g) the calling of witnesses;
+- (h) advocate under rule 19;
+- (i) the representation of the prisoner;
+
+and following appointment under rule 12(2), the chairman of the panel shall consider whether such directions need to be given at any time.
+
+(2) Directions under paragraph (1) may be given, varied or revoked either:
+
+- (a) of the chairman of the panel’s own motion; or
+- (b) on the written application of a party to the Commissioners which has been served on the other party and which specifies the direction which is sought.
+
+(3) Within 7 days of making a direction under paragraph (1) the chairman of the panel shall serve on the parties such direction which shall be recorded in writing with reasons and dated and signed by the chairman of the panel.
+
+(4) Within 7 days of being served with a direction given under paragraph (3) either party may appeal to the Chief Commissioner by serving a written notice of appeal on both the Chief Commissioner and the other party stating the grounds of the appeal.
+
+(5) Within 7 days of being served with a notice of appeal under paragraph (4) the other party may in reply make written representations on the appeal which shall be served on the Chief Commissioner and the party moving the appeal.
+
+(6) The Chief Commissioner shall consider the written representations of the parties.
+
+(7) After considering the written representations made under paragraph (6) the Chief Commissioner may make a direction:
+
+- (a) upon the basis of the written representations; or
+- (b) where the Chief Commissioner thinks it necessary, after hearing oral submissions from the parties, and in such circumstances, the Chief Commissioner shall give the parties at least 7 days’ notice of such a hearing.
+
+(8) Subject to paragraph (9), a hearing under paragraph 7(b) shall be conducted in accordance with rule 22.
+
+(9) The Chief Commissioner may hold a hearing described under paragraph 7(b) in the absence of the prisoner at a location other than the prison or other place where the prisoner is detained.
+
+(10) The direction of the Chief Commissioner made under paragraph (7) shall be final and shall be recorded in writing with reasons, dated and signed by the Chief Commissioner, and served on the parties not more that 7 days after the date of the making of the direction.
+
+### 19. Special advocates[^key-1aee1664e51548886b3b80e139f5dcfe]
+
+(1) On receiving a certificate of confidential information under rule 9, the single Commissioner or chairman of the panel dealing with the case shall inform the Advocate General for Northern Ireland of the proceedings before the panel, with a view to the Advocate General for Northern Ireland, if the Advocate General for Northern Ireland thinks fit to do so, appointing a special advocate to represent the interests of the prisoner.
+
+(2) The function of the special advocate is to represent the interests of the prisoner, as mentioned by paragraph (1), by:
+
+- (a) making written submissions to the single Commissioner;
+- (b) making submissions to the panel in any oral hearings from which the prisoner and the prisoner’s representative are excluded;
+- (c) cross-examining witnesses at any such hearings; and
+- (d) making written submissions to the panel.
+
+(3) Except in accordance with paragraph (4) a special advocate may not communicate directly or indirectly with the prisoner whose interests the special advocate has been appointed to represent on any matter connected with the case before the panel.
+
+(4) A special advocate may seek directions from the single Commissioner or chairman of the panel dealing with the case authorising the special advocate to seek information in connection with the case from the prisoner whose interests the special advocate has been appointed to represent.
+
+(5) In paragraph (4) a reference to a prisoner whose interests the special advocate has been appointed to represent includes the representative of the prisoner.
+
+(6) Until section 27 of the Justice (Northern Ireland) Act 2002[^f00006] comes into force, paragraph (1) shall have effect as if the references to the Advocate General for Northern Ireland were references to the Attorney-General.
+
+### 20. Notice of oral hearing[^key-94ab1ca6bedf7489b1478aa02226f8eb]
+
+(1) When finalising the date for an oral hearing the Commissioners shall consult the parties.
+
+(2) The Commissioners shall give the parties at least 2 weeks’ notice of the date, time and place scheduled for oral hearing or such shorter notice to which the parties may consent.
+
+### 21. Witnesses[^key-fb97ebdb111ced1265616abc62be6109]
+
+(1) Where one party wishes to call witnesses at the oral hearing, that party shall make a written application to the chairman of the panel, and shall serve a copy on the other party at least 6 weeks before the date of the hearing, giving the name, address and occupation of the witnesses whom that party wishes to call and the substance of the evidence that party proposes to adduce.
+
+(2) The chairman of the panel may grant or refuse an application under paragraph (1) and shall communicate within 7 days the decision to both parties, giving reasons in writing, in the case of a refusal, for the decision.
+
+### 22. Location and privacy of oral hearings[^key-cbf624b422d3a025131295b8ea7ba0a2]
+
+(1) Subject to rule 18(9) oral hearings shall be held at the prison unless the chairman of the panel and the parties agree otherwise.
+
+(2) Oral hearings shall be held in private.
+
+(3) Subject to rule 22A, information[^key-c0fcb13f0c19d8e9d21acdf3f2947765] about the proceedings and the names of any persons concerned in the proceedings shall not be made public.
+
+(4) The chairman of the panel may admit to the oral hearing such persons on such terms and conditions as the chairman of the panel considers appropriate.
+
+### 22A. Information about proceedings[^key-8ce8acd57efa36d3cf07f074b4f18bb6]
+
+(1) Where a registered victim or other person makes a request for a summary of the reasons for a provisional direction of a single Commissioner recorded under rule 13(2)(b) that has become final by virtue of rule 13(6), the Chief Commissioner must appoint a Commissioner to consider the request. The appointed Commissioner must then produce a summary of the reasons for that direction, unless the appointed Commissioner decides that there are exceptional circumstances why a summary should not be produced for disclosure.
+
+(2) The Chief Commissioner is not required to appoint a Commissioner to produce a summary under paragraph (1) where the request is made more than 6 months after the date when the direction under rule 13(2)(b) became final, unless the Chief Commissioner decides that there are exceptional reasons to do so.
+
+(3) In a summary produced under paragraph (1)—
+
+- (a) the names of the parties to proceedings under Rule 13(2) may be disclosed;
+- (b) the names of other persons concerned in the proceedings must not be disclosed;
+- (c) other information about proceedings under these Rules must not be disclosed except insofar as the Commissioner appointed under paragraph (1) directs.
+
+(4) Where a registered victim or other person makes a request for a summary of the reasons for a decision recorded after oral proceedings under rule 24(2), the Chief Commissioner must appoint a Commissioner to consider the request. The appointed Commissioner must then produce a summary of the reasons for that decision, unless the appointed Commissioner decides that there are exceptional circumstances why a summary should not be produced for disclosure.
+
+(5) The Chief Commissioner is not required to appoint a Commissioner to produce a summary under paragraph (4) where the request is made more than 6 months after the date of the decision, unless the Chief Commissioner decides that there are exceptional reasons to do so.
+
+(6) In a summary produced under paragraph (4)—
+
+- (a) the names of the parties to the oral proceedings under rule 24(2) may be disclosed;
+- (b) the names of other persons concerned in the proceedings must not be disclosed;
+- (c) other information about proceedings under these Rules must not be disclosed except insofar as the Commissioner appointed under paragraph (4) directs.
+
+(7) This Rule does not affect the operation of Rule 9 (Non-disclosure of confidential information).
+
+(8) For the purposes of this rule, “**registered victim**” means a person who is registered or entitled to receive information under any of —
+
+- (a) the Prisoner Release Victims Information Scheme, 2003;
+- (b) the Probation Board for Northern Ireland Victim Information Scheme, 2005;
+- (c) the Victims of Mentally Disordered Offenders Information (Northern Ireland) Scheme, 2008.
+
+### 22B. Appeals about summaries[^key-2663fc544a8e5ccb02a40205853e5793]
+
+(1) here a Commissioner appointed under paragraph (1) or (4) of Rule 22A decides that there are exceptional circumstances why a summary should not be produced for disclosure pursuant to the respective paragraph, the registered victim or other person who has made the request for the summary, may, within 14 days of being served with notice of that decision, appeal to the Chief Commissioner by serving a written notice of appeal on the Chief Commissioner stating the grounds of the appeal.
+
+(2) After considering the notice of appeal the Chief Commissioner must make a determination on the appeal and must direct either that a summary is to be produced for disclosure, or that a summary is not to be produced for disclosure.
+
+(3) A direction by the Chief Commissioner under paragraph (2)—
+
+- (a) shall be final; and
+- (b) must be recorded in writing with reasons, dated and signed by the Chief Commissioner, and served on the registered victim or other person not more than 14 days after the date of the making of the direction.
+
+(4) Rule 22A applies to the production of a summary following a direction on appeal under this Rule for the production of a summary.
+
+### 23. Oral hearing procedure[^key-3ad802d2d4277409f954551f6f2bee91]
+
+(1) At the beginning of the oral hearing the chairman of the panel shall explain the order of proceedings which the panel proposes to adopt.
+
+(2) Subject to this rule, the panel shall conduct the oral hearing in such manner as they consider most suitable to the clarification of the issues before them and generally to the just handling of the case and they shall, so far as appears to them appropriate, seek to avoid formality in the proceedings.
+
+(3) Subject to paragraphs (5), (7) and (8) the parties shall be entitled to appear and be heard at the oral hearing and take such part in the proceedings as the panel considers appropriate and the parties may:
+
+- (a) make submissions;
+- (b) hear each other’s evidence and submissions;
+- (c) call any witnesses whom the chairman of the panel has authorised to give evidence in accordance with rule 21; and
+- (d) put questions to any witness appearing at the oral hearing.
+
+(4) Subject to rule 11 the parties may not, without leave of the panel, rely on or refer to documents, information or evidence which do not appear in substance in the case papers.
+
+(5) The chairman of the panel may require any person present at the oral hearing who is, in the chairman of the panel’s opinion, behaving in a contemptuous or disruptive manner, to leave, and may permit that person to return, if at all, only on such conditions as the chairman of the panel may direct.
+
+(6) The panel may receive in evidence any document or information notwithstanding that such document or information would be inadmissible in a court of law, but no person shall be compelled to give evidence or produce any document which that person could not be compelled to give or produce on the trial of an action in the High Court.
+
+(7) The panel shall require the prisoner, any witness appearing for the prisoner and any other person they think appropriate, to leave the hearing where argument is being heard or evidence is being examined which includes or relates to information or reports withheld from the prisoner or others under rule 8(2).
+
+(8) The panel shall require the prisoner, the prisoner’s representative, any witness appearing for the prisoner and any other person they think appropriate, to leave the hearing where argument is being heard or evidence is being examined which includes or relates to confidential information which has not been made available to the prisoner or any other person under rule 9.
+
+(9) After all the evidence has been heard, the prisoner shall be given a further opportunity to address the panel.
+
+### 24. The decision of the panel[^key-29d13de6b907df071ad1bab2f7e568d0]
+
+(1) The decision of the majority of the panel shall be the decision of the panel.
+
+(2) The decision of the panel shall be recorded in writing with reasons, dated and signed by the chairman of the panel, and communicated in writing to the parties not more than 7 days after the end of the consideration of the case.
+
+## PART 4 — RECALLED PRISONERS
+
+### 25. Recalled life, indeterminate and extended custodial and terrorist prisoners[^key-550a87f8618957b299abfbeeafc730d7][^key-e4725cd97f776672a3bae6cbb22e1dd1]
+
+Where the Secretary of State refers a life prisoner’s case to the Commissioners under Article 9(4) of the 2001 Order or the case of a prisoner who was released on licence under Article 18 or 20A of the 2008 Order[^key-d628ca89058b2d15e9f4f720def05132] to the Commissioners under Article 28(4) of the 2008 Order, these rules shall apply subject to the following modifications:
+
+- (a) rules 6, 7(4), (7), (9) and (10), 8(1), 9(3), 10, 12(1), 13(1), (3) and (6), 14(3), (4), (5) and (7), 15(3) and (4), 18(3), (4), (5), (7)(b) and (10), 20(2), 21 and 24(2) shall apply as if for references to the periods of time specified there were substituted a reference to such period of time as the Commissioners, the single Commissioner or the chairman of the panel shall determine, taking account of both the desirability of reaching an early decision in the prisoner’s case and the need to ensure fairness to the prisoner; and
+- (b) rule 8(1) shall apply as if for the reference to the information and reports specified in Schedule 1 there were substituted a reference to the information and reports specified in Schedule 2.
+
+## PART 5 — SHORT CUSTODIAL TERMS
+
+### 26. Short custodial terms[^key-c42412a71eb7c9c9753f3906172dc580]
+
+(1)[^key-bf7ac9e23a8f5fc0bcce5a104a05f1f3] Subject to paragraph (2), where—
+
+- (a) the Department of Justice refers to the Commissioners—
+  - (i) the case of an extended custodial prisoner under Article 18 of the 2008 Order, or
+  - (ii) the case of any prisoner under Article 20A of that Order, and
+- (b) the relevant part of the prisoner's sentence is less than 26 weeks;
+
+these rules shall apply subject to the modifications made by rule 25(a).
+
+(2) Where this rule applies the prisoner may agree that the modifications made by rule 25(a) do not have effect.
+
+(3)[^key-70c5f4c2e23db7f5474cff3c05f361e7] For the purposes of paragraph (1)(b), the “relevant part of the sentence”—
+
+- (a) in the case of an extended custodial prisoner to whom Article 18 of the 2008 Order applies, means one half of the appropriate custodial term of the sentence as defined by Article 14(4) or 14(6) of that Order;
+- (b) in the case of a prisoner to whom Article 20A of that Order applies, has the meaning given by paragraph (9) of that Article;
+
+and in determining the length of that part any reduction required by section 26(2) of the Treatment of Offenders Act (Northern Ireland) 1968 is to be taken into account.
+
+## PART 6 — MISCELLANEOUS
+
+### 27. Time[^key-1b4117d8a82db3f99d9be430a15a1ba3]
+
+Where the time prescribed by or under these rules for doing any act expires on a Saturday, Sunday or public holiday in Northern Ireland, the act shall be done in time if done on the next working day.
+
+### 28. Transmission of documents[^key-4ee8bd5cce7354c30a939ba223d08047]
+
+(1) Subject to paragraph (2), any document required or authorised by these rules to be served on or otherwise transmitted to any person may be sent by pre-paid post or delivered:
+
+- (a) in the case of a document directed to the Commissioners, the Chief Commissioner or the chairman of the panel, to the office of the Commissioners;
+- (b) in the case of a document directed to the Secretary of State, to the Northern Ireland Prison Service Headquarters;
+- (c) in any other case, to the last known address of the person to whom the document is directed.
+
+(2) Service of any document required to be served or otherwise transmitted under these rules may be effected by FAX where:
+
+- (a) the technical facilities are available to the parties and the parties consent to and agree upon mode of service;
+- (b) the parties agree the specified FAX numbers to which the document is transmitted; and
+- (c) not later than one day after service by FAX, the party serving the document dispatches a copy of it to the other party or parties, as required by these rules, by any of the means prescribed for service under paragraph (1), and if he fails to do so, the document shall be deemed never to have been served by FAX.
+
+(3) Where the FAX is transmitted on a working day before 5.00 pm it shall, unless the contrary is shown, be deemed to be served on that day, and, in any other case, on the working day next following.
+
+(4) In this rule “FAX” means the making of a facsimile copy of a document by the transmission of electronic signals.
+
+### 29. Irregularities[^key-5258d3286d7b18043a14c9cd9604f43d]
+
+Any irregularity resulting from a failure to comply with these rules, or with any rule of practice for the time being in force, which occurs before a single Commissioner appointed under rule 12(1) or a panel appointed under rule 12(2) has determined a case shall not of itself render the proceedings void, unless the Commissioners, the single Commissioner or the panel shall so direct, but such proceedings may be set aside either wholly or in part as irregular, or amended or otherwise dealt with in such manner and upon such terms as the Commissioners, the single Commissioner or the panel shall think fit.
+
+### 30. Clerical mistakes and slips[^key-685f73bff119beb036966b1b1a4d8be0]
+
+Clerical mistakes in any document recording decisions under these rules, or errors arising in such document from an accidental slip or omission, may be corrected:
+
+- (a) in the case of a provisional direction or direction, by the single Commissioner appointed under rule 12(1) by certificate under the single Commissioner’s hand;
+- (b) in the case of a direction of a panel appointed under rule 12(2) by the chairman of the panel by certificate under the chairman of the panel’s hand;
+- (c) in the case of a direction by the Chief Commissioner under rules 14(6) or 18(7) by certificate under the Chief Commissioner’s hand; or
+- (d) with the consent of the parties, by written certification of the Chief Commissioner.
+
+## PART 7 — SUPPLEMENTARY
+
+### 31. Transitional Provision[^key-4d2ef25a8bfa71fe184e5280146e3ffb]
+
+(1) Where the case of a life prisoner has been listed under rule 4 of the 2001 Rules before the coming into operation of these rules, the 2001 Rules shall apply.
+
+(2) Where the case of a life prisoner is listed on or after these rules come into operation, these rules shall apply.
+
+### 32. Revocation and saving[^key-03e36d3fb4053af8176b8774f4a3967f]
+
+(1) Subject to paragraph (2) the 2001 Rules are revoked.
+
+(2) That revocation shall be of no effect in relation to a case as is referred to in rule 31(1)
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+## SCHEDULE 1 — Information and reports for submission by the Secretary of State on a reference to the Commissioners under Article 6 of the 2001 Order or Article 18 of the 2008 Order
+
+### PART A — Information Relating to the Prisoner[^key-d41d0c5dcdac58f47c865f47a9793fa5]
+
+- **1.** The full name of the prisoner.
+- **2.** The date of birth of the prisoner.
+- **3.** The prison or place of detention in which the prisoner is detained and details of other prisons or places of detention in which the prisoner has been detained, including the date and reasons for any transfer.
+- **4.** The date the prisoner was sentenced and the details of the offence(s) in question, including information as to whether a certificate was issued by the Attorney-General to deschedule any offence(s) in question or as to whether the Director of Public Prosecutions for Northern Ireland did not issue a certificate for non-jury trial.
+- **5.** Where applicable, the previous convictions, sentences, licences, periods of temporary release from prison and the release and recall history of the prisoner.
+- **6.** The comments, if available, of the trial judge in passing sentence on the prisoner including any comments on licence conditions.
+- **7.** Where applicable, the conclusions of the Court of Appeal in respect of any appeal by the prisoner, the Attorney-General or the Director of Public Prosecutions for Northern Ireland against conviction or sentence.
+- **8.** Where applicable, particulars of and documents relating to any previous applications by the prisoner in respect of the case.
+
+### PART B — Reports Relating to the Prisoner[^key-d51e8c9de518374663068e191f0d5ace]
+
+- **1.** Any pre-trial and pre-sentence reports examined by the sentencing court and any police report on the circumstances of the offence(s).
+- **2.** Any report on the prisoner while he was subject to a transfer direction under Article 53 of the Mental Health (Northern Ireland) Order 1986[^f00008].
+- **3.** Any current reports on the prisoner’s performance and behaviour in prison, where relevant, (reports previously examined by the Commissioners need only be summarised), including any:
+  - prison reports;
+  - record of offences against discipline;
+  - reports on any temporary release;
+  - details of, and reports on compliance with, any sentence management plan;
+  - reports on the prisoner’s health including mental health;
+  - psychology reports;
+  - assessment of the likelihood of re-offending and the risk of the prisoner being a danger to the public if released immediately; or
+  - assessment of suitability for release on licence and licence conditions.
+- **4.** An up-to-date report prepared for the Commissioners by a probation officer, including any reports on the following:
+  - details of the prisoner’s home address, family circumstances, and family attitudes towards the prisoner;
+  - alternative options if the prisoner cannot return home;
+  - the opportunity for employment on release;
+  - the local community’s attitude towards the prisoner (if known);
+  - the attitudes and concerns of the victim(s) of the offence(s) (if known);
+  - the prisoner’s view of the index offence;
+  - the prisoner’s response to previous periods of supervision;
+  - the prisoner’s behaviour during any temporary release from prison during the current sentence;
+  - the prisoner’s attitude to the prospect of release, and requirements and objectives of supervision;
+  - an assessment of the likelihood of re-offending and the risk of serious harm;
+  - a programme of supervision;
+  - a view on suitability for release; and
+  - recommendations regarding any special licence conditions.
+- **5.** Any interview report prepared at the direction of the Chief Commissioner under rule 3(4).
+- **6.** Any other information which the Secretary of State considers relevant to the case and wishes to draw to the attention of the Commissioners.
+
+## SCHEDULE 2 — Information and reports for submission by the Secretary of State on a reference to the Commissioners under Article 9(4) of the 2001 Order or an indeterminate custodial prisoner’s or extended custodial prisoner’s case under Article 28(4) of the 2008 Order
+
+### PART A — Information Relating to the Prisoner[^key-16e97bfba45c9704128dabf65c92f833]
+
+- **1.** The full name of the prisoner.
+- **2.** The date of birth of the prisoner.
+- **3.** The prison or place of detention in which the prisoner is detained and details of other prisons or places of detention in which the prisoner has been detained, including the date and reasons for any transfer.
+- **4.** The date the prisoner was sentenced and the details of the offence(s) in question, including information as to whether a certificate was issued by the Attorney-General to deschedule any offence(s) in question or as to whether the Director of Public Prosecutions for Northern Ireland did not issue a certificate for non-jury trial.
+- **5.** Where applicable, the previous convictions, sentences, licences, periods of temporary release from prison, release and recall history of the prisoner.
+- **6.** The details of, and reports on compliance with, any sentence management plan.
+- **7.** The detail of any previous recalls of the prisoner including the reasons for such recalls and subsequent re-release on licence.
+- **8.** The statement of reasons for the most recent recall which was given to the prisoner, and any representations made by him under Article 9(3) of the 2001 Order or Article 28(3)(b) of the 2008 Order.
+- **9** The details of any memorandum which the Commissioners considered prior to making their recommendation for recall under Article 9(1) of the 2001 Order or Article 28(2)(a) of the 2008 Order or confirming the Secretary of State’s decision to recall under Article 9(2) of the 2001 Order or Article 28(2)(b) of the 2008 Order, including the reasons why the Secretary of State considered it expedient in the public interest to recall that prisoner before a recommendation from the Commissioners was practicable.
+
+### PART B — Reports Relating to the Prisoner[^key-336093e519e502b4357e88d50dca224a]
+
+- **1.** Any reports considered by the Commissioners prior to making its recommendation for recall under Article 9(1) of the 2001 Order or Article 28(2)(a) of the 2008 Order or its confirmation of the Secretary of State’s decision to recall under Article 9(2) of the 2001 Order or Article 28(2)(b) of the 2008 Order.
+- **2.** Any other relevant reports.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These rules prescribe the practice and procedure to be followed by single Parole Commissioners and panels of Commissioners in dealing with the hearing of cases of life prisoners under the Life Sentences (Northern Ireland) Order 2001 and indeterminate and extended custodial prisoners under the Criminal Justice (Northern Ireland) Order 2008 (“the 2008 Order”). They include provision for:
+
+- (a) the appointment of, and procedures to be followed by single Commissioners appointed under rule 12(1) and panels of Commissioners appointed under rule 12(2);
+- (b) the making of directions by single Commissioners and the chairman of a panel for the conduct of a case and appeals against such directions to the Chief Commissioner appointed under paragraph 1(4) of Schedule 4 to the 2008 Order;
+- (c) the consideration of a prisoner’s release by single Commissioners and panels of Commissioners;
+- (d) the appointment of a special advocate in cases involving confidential information;
+- (e) the reduction of time limits to permit the early hearing of cases involving recalled life, indeterminate custodial and extended custodial prisoners and extended custodial prisoners sentenced to short minimum custodial periods.
+
+Rule 32 provides for the revocation of the Life Sentence Review Commissioners’ Rules 2001 except in relation to life prisoners’ cases listed under those rules prior to the coming into operation of these rules.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
+
+[^key-223d0a9f63942aef279eb4f677e50e56]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-1c8ca3335d14cbd05b307561c055d6bb]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-2fff0038b3e055deac78378eb7561100]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2009/82/rule/2/1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/2)
+
+[^f00002]: Footnote: [S.I. 2001/2564 (N.I.2)](https://www.legislation.gov.uk/nisi/2001/2564)
+
+[^f00003]: Footnote: [S.R. 2001 No. 317](https://www.legislation.gov.uk/nisr/2001/317)
+
+[^key-c9e06926978c71aff1943a7b997d867b]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-8665c557d936e3793dffd2fb43fdcd8c]: Commencement: Rule 4 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-9ed7c4b233f327ea449185b6054d0ecc]: Commencement: Rule 5 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-1e657622749e207ce659e6b9bba88646]: Commencement: Rule 6 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-094d6a3ee5c6a5e8a9e0d3740d93a654]: Commencement: Rule 7 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-7c10299a057574915ba804a29fe779ef]: Textual amendment: [Rule 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/82/rule/7/2/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/82/rule/7/2/b/ii) substituted for words (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/3)
+
+[^f00004]: Footnote: [SI 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160) as modified by [S.R. 2008 No. 217](https://www.legislation.gov.uk/nisr/2008/217)
+
+[^f00005]: Footnote: [SI 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504) as amended by [S.I. 2001/2564 (N.I. 2)](https://www.legislation.gov.uk/nisi/2001/2564)
+
+[^key-970f016704bdc9c3394ad933b9aeff0d]: Commencement: Rule 8 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-a87f6d5948b0f9bc224337c19428ff7f]: Commencement: Rule 9 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-cac2d23f5554f3850b3be9e59192b0e7]: Commencement: Rule 10 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-8a43ac16498392afc9853e0186ed0e1d]: Commencement: Rule 11 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-40b16165ddd9b28dc8aff13e26f69cb4]: Commencement: Rule 12 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-f301fd2b9c8321998b40c0c2ffe7e26b]: Commencement: Rule 13 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-e991e7369b30581535e19e739e233e03]: Commencement: Rule 14 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-0c677d63461c31139428a141b757587f]: Commencement: Rule 15 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-3765e4118f7694372af27065a6a3de17]: Commencement: Rule 16 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-95f01dbc1d428cce70721ecbe76b6132]: Commencement: Rule 17 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-90e6cc44bf1d30098f59f22523108ce8]: Commencement: Rule 18 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-1aee1664e51548886b3b80e139f5dcfe]: Commencement: Rule 19 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^f00006]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
+
+[^key-94ab1ca6bedf7489b1478aa02226f8eb]: Commencement: Rule 20 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-fb97ebdb111ced1265616abc62be6109]: Commencement: Rule 21 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-cbf624b422d3a025131295b8ea7ba0a2]: Commencement: Rule 22 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-c0fcb13f0c19d8e9d21acdf3f2947765]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/nisr/2009/82/rule/22/3) substituted (21.6.2021) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/138)](https://www.legislation.gov.uk/nisr/2021/138), [rules 1](https://www.legislation.gov.uk/nisr/2021/138/rule/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/138/rule/2/1)
+
+[^key-8ce8acd57efa36d3cf07f074b4f18bb6]: Textual amendment: [Rule 22A](https://www.legislation.gov.uk/nisr/2009/82/rule/22A) substituted (21.3.2022) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/65)](https://www.legislation.gov.uk/nisr/2022/65), [rules 1](https://www.legislation.gov.uk/nisr/2022/65/rule/1), [3](https://www.legislation.gov.uk/nisr/2022/65/rule/3) (with [rule 5(1)-(3)](https://www.legislation.gov.uk/nisr/2022/65/rule/5/1))
+
+[^key-2663fc544a8e5ccb02a40205853e5793]: Textual amendment: [Rule 22B](https://www.legislation.gov.uk/nisr/2009/82/rule/22B) inserted (21.3.2022) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/65)](https://www.legislation.gov.uk/nisr/2022/65), [rules 1](https://www.legislation.gov.uk/nisr/2022/65/rule/1), [4](https://www.legislation.gov.uk/nisr/2022/65/rule/4) (with [rule 5(1)-(3)](https://www.legislation.gov.uk/nisr/2022/65/rule/5/1))
+
+[^key-3ad802d2d4277409f954551f6f2bee91]: Commencement: Rule 23 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-29d13de6b907df071ad1bab2f7e568d0]: Commencement: Rule 24 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-550a87f8618957b299abfbeeafc730d7]: Commencement: Rule 25 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-e4725cd97f776672a3bae6cbb22e1dd1]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/nisr/2009/82/rule/25) heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(4)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/4/a)
+
+[^key-d628ca89058b2d15e9f4f720def05132]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/nisr/2009/82/rule/25) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(4)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/4/b)
+
+[^key-c42412a71eb7c9c9753f3906172dc580]: Commencement: Rule 26 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-bf7ac9e23a8f5fc0bcce5a104a05f1f3]: Textual amendment: [Rule 26(1)](https://www.legislation.gov.uk/nisr/2009/82/rule/26/1) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(5)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/5/a)
+
+[^key-70c5f4c2e23db7f5474cff3c05f361e7]: Textual amendment: [Rule 26(3)](https://www.legislation.gov.uk/nisr/2009/82/rule/26/3) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(5)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/5/b)
+
+[^key-1b4117d8a82db3f99d9be430a15a1ba3]: Commencement: Rule 27 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-4ee8bd5cce7354c30a939ba223d08047]: Commencement: Rule 28 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-5258d3286d7b18043a14c9cd9604f43d]: Commencement: Rule 29 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-685f73bff119beb036966b1b1a4d8be0]: Commencement: Rule 30 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-4d2ef25a8bfa71fe184e5280146e3ffb]: Commencement: Rule 31 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-03e36d3fb4053af8176b8774f4a3967f]: Commencement: Rule 32 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-d41d0c5dcdac58f47c865f47a9793fa5]: Commencement: Sch. 1 Pt. A in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-d51e8c9de518374663068e191f0d5ace]: Commencement: Sch. 1 Pt. B in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^f00008]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), as amended by [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504) and prospectively amended by [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26)
+
+[^key-16e97bfba45c9704128dabf65c92f833]: Commencement: Sch. 2 Pt. A in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+
+[^key-336093e519e502b4357e88d50dca224a]: Commencement: Sch. 2 Pt. B in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)

@@ -1,0 +1,85 @@
+---
+title: Local Government (Superannuation) Regulations (Northern Ireland) 1992, SCHEDULE 12
+act: Local Government (Superannuation) Regulations (Northern Ireland) 1992
+section: schedule-12
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1992/547/schedule/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Superannuation) Regulations (Northern Ireland) 1992, SCHEDULE 12
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 12 — Surrender of Part of Retirement Pension
+
+Regulation E17
+
+### PART I — LIMITS ON AMOUNT SURRENDERED
+
+**1.** (1) The part of the retirement pension surrendered on any occasion—
+
+- (a) must be an exact number of pounds; and
+- (b) must secure for the beneficiary a pension of at least £39 per annum.
+
+(2) The surrendered part must not, together with any parts previously surrendered—
+
+- (a) exceed the lower of—
+  - (i) the amount which would result in the reduction of the retirement pension to less than the rate of the pension which would become payable to the beneficiary; and
+  - (ii) one third of the retirement pension; or
+- (b) where the person’s local government employment is or was contracted-out employment, be of an amount which would result in the retirement pension—
+  - (i) becoming payable at an annual rate less than that obtained by multiplying one eightieth of his pensionable remuneration by the length in years of the whole period of his service in contracted-out employment; or
+  - (ii) being, but for regulation E1(3), less than his guaranteed minimum if any.
+
+**2.** Where the person falls within regulation E17(2)(b), references in paragraph 1 to the retirement pension are references to the retirement pension which would become payable if he were to cease to hold his employment on the day on which the surrender takes effect.
+
+### PART II — PROCEDURE
+
+**3.** Upon a person’s first becoming eligible to notify his wish to surrender part of his retirement pension the employing authority shall send him a notice stating that provision has been made by these regulations for the surrender of part of a retirement pension to a spouse or dependant and informing the person to whom the notice is addressed that he may on application to the authority obtain further information on the subject.
+
+**4.** Where a person wishes to make a surrender he may—
+
+- (a) in the case of a pensionable employee who on ceasing to hold his employment becomes entitled to a retirement pension (in this Schedule referred to as “a retiring employee”) not more than 2 months before or within one month after the date on which he ceases to be employed; and
+- (b) in the case of a pensionable employee who would, if he were to retire from his employment, become entitled to a retirement pension (in this Schedule referred to as “a continuing employee”), within 2 months before or at any time after becoming a continuing employee and while he is still employed,
+
+notify his desire to surrender a part of that retirement pension by completing the form provided for the purpose, and sending it, together with a copy thereof, to the employing authority, and they shall transmit the original to the Committee.
+
+Provided that where the Committee are satisfied that it has not been reasonably practicable for a retiring employee to notify his desire to surrender a part of a retirement pension within the time limit imposed by sub-paragraph (a) owing to circumstances beyond his control, they may at their discretion extend that limit to a date not more than 6 months after the date on which he ceases to be employed.
+
+**5.** On receipt by the Committee of a notification given by a person under paragraph 4 the Committee shall—
+
+- (a) forthwith arrange for the person to be examined by a registered medical practitioner nominated by them and for a report to be given to them by the practitioner stating whether, in his opinion, the person is in good health, regard being had to his age; and if the opinion stated in such report is that the person is not in good health, the Committee shall notify him accordingly and offer him an opportunity of a further examination by some other registered medical practitioner nominated by them with a view to that practitioner reporting to them on the state of the person’s health;
+- (b) require the person to furnish at his own expense—
+  - (i) a certificate of his birth, except where the date of birth has been duly recorded by the authority and is not disputed;
+  - (ii) in respect of a beneficiary who is the person’s spouse, a birth certificate and a marriage certificate;
+  - (iii) in respect of a beneficiary who is a dependant, a birth certificate and such evidence as may be appropriate to prove dependency,
+
+  and any other information or evidence which the Committee consider necessary.
+
+Provided that if for any reason a birth or marriage certificate cannot be supplied, the Committee may accept such other evidence of birth or marriage as they think fit in order to determine the age or the question of marriage of the person concerned, as the case may be.
+
+**6.** Any fee payable to a practitioner in respect of an examination and report under paragraph 5 shall be paid by the person examined at the time of the examination.
+
+**7.** (1) Subject to the provisions of this Schedule, unless the Committee are of opinion, on consideration of a report obtained by them under paragraph 5, that the person to whom the report relates is not in good health or they are of opinion that the evidence produced in regard to marriage or dependency is not satisfactory, they shall allow the surrender of such part of the retirement pension as is specified in the person’s notification and as is in conformity with this Schedule and shall grant to the beneficiary named in the notification a pension, payable in the event of the beneficiary’s surviving the person and to be calculated in accordance with regulation E17(4).
+
+Provided that a decision by the Committee to allow a surrender by a retiring employee shall not be made before the date on which he ceases to be employed and a decision by the Committee to allow a surrender by a continuing employee shall not be made before the date on which he becomes such an employee.
+
+(2) Notwithstanding anything in sub-paragraph (1), the Committee shall, if they are dissatisfied with the evidence of marriage, but are nevertheless satisfied on the evidence already before them or, after making such further enquiries as they think necessary, that a person named as spouse in the notification given under paragraph 4 is a dependant of the person who gave the notification, treat the notification as if the person named therein as spouse has been named as a dependant of the person giving the notification.
+
+(3) As soon as is reasonably practicable after coming to a decision in regard to a notification given by a person, the Committee shall notify him that they have allowed a surrender in favour of the person named in his notification or that they have decided not to allow a surrender of any part of the retirement pension, as the case may be, and if the Committee have allowed a surrender they shall also furnish him with a statement as to the amount of the pension to which the beneficiary may become entitled after his death and, if the person who gave the notification under paragraph 4 is a retiring employee, with a statement as to the amount of the reduced retirement pension to which he is entitled.
+
+(4) A notification of a decision not to allow a surrender shall state the grounds for the decision.
+
+(5) A notification sent to an employee in pursuance of sub-paragraph (3) shall, if it has been posted in a prepaid envelope addressed to the employee by the Committee, be deemed to have been received by the employee at the time at which a letter would be delivered in the ordinary course of post.
+
+**8.** A person who has given a notification of his desire to surrender a part of his retirement pension under paragraph 4 may cancel or amend the notification by a notice in writing addressed to the employing authority at any time before he has received notification from the Committee that his surrender has been allowed.
+
+**9.** (1) A notification given by a person under paragraph 4 shall become null and void if—
+
+- (a) the beneficiary dies before the person receives notification from the Committee that his surrender has been allowed; or
+- (b) the person dies at any time before midnight on the day on which the Committee decide to allow the surrender.
+
+(2) Subject as aforesaid, a surrender allowed in pursuance of a notification given by a person shall have effect as from the date on which the person ceases to hold his employment.

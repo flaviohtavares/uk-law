@@ -1,0 +1,214 @@
+---
+title: The Rates (Social Sector Value) Regulations (Northern Ireland) 2007
+id: nisr/2007/86
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-02-14'
+text_date: '2025-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/86
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/86/pdfs/nisrem_20070086_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/86/pdfs/nisr_20070086_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/86/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rates (Social Sector Value) Regulations (Northern Ireland) 2007
+
+> Text as at 2025-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 86
+
+rates
+
+The Rates (Social Sector Value) Regulations (Northern Ireland) 2007
+
+Made
+
+14th February 2007
+
+Coming into operation
+
+1st April 2007
+
+To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
+
+The Department of Finance and Personnel[^f00001] makes the following Regulations in exercise of powers conferred by Article 23A of the Rates (Northern Ireland) Order 1977[^f00002]:
+
+## 1. Citation and commencement[^key-b7ae35a05f9962891ae17a69e1748860]
+
+These Regulations may be cited as the Rates (Social Sector Value) Regulations (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
+
+## 2. Interpretation[^key-471cf173837b3d14eb06f56895262fba]
+
+In these Regulations—
+
+- “the 1977 Order” means the Rates (Northern Ireland) Order 1977;
+- “the 2006 Order” means the Rates (Amendment) (Northern Ireland) Order 2006[^f00003];
+- “employee” means a person employed under a contract of service;
+- “hostel” has the meaning assigned to it by Article 2(2) of the Housing (Northern Ireland) Order 1981[^f00004].
+
+## 3. Liability to be rated in respect of a hereditament in the social sector[^key-9aa9c794a512809b93cda00636556fab]
+
+Subject to Article 23A(2) of the 1977 Order, a person shall be chargeable to rates in respect of a hereditament in the social sector as if its rateable capital value were such figure as may be determined by the Department (its “social sector value”).
+
+## 4. Prescribed registered housing associations[^key-64699946d27ab31eeb9b8d3abb216998]
+
+The registered housing associations listed in Schedule 1 are prescribed for the purposes of paragraph (a) of the definition of “hereditament in the social sector” in Article 23A(3) of the 1977 Order.
+
+## 5. Hereditaments which are not in the social sector[^key-eba6d205879ca6c19d1f592587f87393]
+
+The hereditaments listed in Schedule 2 are hereditaments of a prescribed description for the purposes of paragraph (b) of the definition of “hereditament in the social sector” in Article 23A(3) of the 1977 Order.
+
+## 6. References[^key-8b1eb9ed94293cb1cf0efab754738f58]
+
+In relation to a hereditament in the social sector—
+
+- (a) the references to rateable capital value in Articles 9(5)(b)[^f00005], 30(2)(b)[^f00006] and 31A(10)[^f00007] of the 1977 Order shall be construed as references to social sector value;
+- (b) the reference to rateable values in Article 16(1)(a)[^f00008] of the 1977 Order, in so far as it includes a reference to rateable capital value, shall be construed as a reference to social sector value.
+
+## 7. Departures from valuation list and refunds[^key-9cf6ea8ea0f8cdd383fac7b1132a3fde]
+
+Articles 10[^f00009] and 15(1)(b)[^f00010] of the 1977 Order shall have effect subject to these Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 14th February 2007
+
+Brian McClure
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE 1 — Prescribed Registered Housing Associations[^key-ca030bd42aa09d47cd5f7e1b95712f78]
+
+Regulation 4
+
+Abbeyfield and Wesley Housing Association Ltd
+
+Alpha Housing (Northern Ireland) Ltd
+
+Apex Housing Association Ltd
+
+Arbour Housing Ltd
+
+Ark Housing Association Northern Ireland Ltd
+
+Choice Housing Ireland Ltd
+
+Clanmil Housing Association Ltd
+
+Connswater Homes Ltd
+
+Covenanter Residential Association Ltd
+
+Craigowen Housing Association Ltd
+
+Grove Community Housing Association
+
+Newington Housing Association Ltd
+
+North Belfast Housing Association Ltd
+
+Radius Housing Association
+
+Rural Housing Association Ltd
+
+St. Matthew’s Housing Association Ltd
+
+Triangle Housing Association Ltd
+
+Woodvale and Shankill Community Housing Association Ltd
+
+Woven Housing Association Ltd
+
+## SCHEDULE 2 — Hereditaments which are not in the social sector
+
+Regulation 5
+
+**1.**[^key-a3aaf345b407e6604fd49859e426f2e9] A hereditament which is shown, or would fall to be shown, in the NAV list other than a hereditament which is also shown, or would also fall to be shown, in the capital value list.
+
+**2.**[^key-a07a65eaa926ce4b4aeb88983e160419] A hereditament used for, or in connection with, a hostel.
+
+**3.**[^key-94c4c5c7f1d85eed19fd389aea44122f] (1) A hereditament which is used for providing living accommodation for a person who—
+
+- (a) is an employee of the Northern Ireland Housing Executive or of a registered housing association listed in Schedule 1;
+- (b) resides in the hereditament in connection with his employment by that body; and
+- (c) has no liability for rates in respect of the hereditament during his period of residence there.
+
+(2) For the purposes of sub-paragraph (1), a hereditament—
+
+- (a) which is not in use; and
+- (b) which the Department considers will, when next in use, fall within that sub-paragraph,
+
+shall be deemed to be in use and to fall within that sub-paragraph.
+
+**4.**[^key-df08cb4428ebaea8e30e1661bc578292] (1) Subject to sub-paragraph (2), a hereditament which is distinguished in the capital value list as exempt to any extent from rates.
+
+(2) Sub-paragraph (1) shall not apply where the social sector value of the hereditament would be less than its rateable capital value.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide, subject to exceptions, for a person to be chargeable to rates in respect of a domestic property owned by the Northern Ireland Housing Executive (“NIHE”) or a housing association listed in Schedule 1 to the Regulations, on the basis of a social sector value rather than on the basis of the property’s rateable capital value (regulation 3). In determining a social sector value, the Department of Finance and Personnel (“the Department”) is under a duty, by virtue of Article 23A(2) of the Rates (Northern Ireland) Order 1977 (“the 1977 Order”), to ensure that the amount of rates chargeable is such proportion of any rent payable in respect of the property as the Department considers appropriate.
+
+Regulation 4 and Schedule 1 list the housing associations whose properties are within the scope of the Regulations.
+
+Regulation 5 and Schedule 2 list the classes of NIHE and housing association property to which the Regulations do not apply.
+
+Regulation 6 provides, in the case of a property to which the Regulations apply, that certain references in the 1977 Order to rateable capital value are to be construed as references to social sector value.
+
+Regulation 7 provides that certain provisions of the 1977 Order are to have effect subject to these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Finance; *see* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
+
+[^f00002]: Footnote: [S.I.1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 23A was inserted by Article 7 of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)); see Article 2(2) of [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157) for the definitions of “the Department”, “prescribed” and “regulations”; the definition of “regulations” was amended by Schedule 3 to the Departments (Northern Ireland) Order 1982, [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) and by paragraph 2(10) of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006
+
+[^key-b7ae35a05f9962891ae17a69e1748860]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-471cf173837b3d14eb06f56895262fba]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/86/regulation/2) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)
+
+[^f00004]: Footnote: [S.I. 1981/156 (N.I. 3)](https://www.legislation.gov.uk/nisi/1981/156)
+
+[^key-9aa9c794a512809b93cda00636556fab]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/86/regulation/3) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-64699946d27ab31eeb9b8d3abb216998]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/86/regulation/4) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-eba6d205879ca6c19d1f592587f87393]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/86/regulation/5) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-8b1eb9ed94293cb1cf0efab754738f58]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/86/regulation/6) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^f00005]: Footnote: Article 9(5)(b) was substituted by paragraph 5 of Schedule 2 to the 2006 Order
+
+[^f00006]: Footnote: Article 30(2)(b) was amended by paragraph 13(2) of Schedule 2 to the 2006 Order
+
+[^f00007]: Footnote: Article 31A(10) was substituted by Article 17(5) of the 2006 Order
+
+[^f00008]: Footnote: Article 16(1)(a) was amended by paragraph 11(2) of Schedule 2 to the 2006 Order
+
+[^key-9cf6ea8ea0f8cdd383fac7b1132a3fde]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/86/regulation/7) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^f00009]: Footnote: Article 10 was amended by paragraph 6 of Schedule 2 to the 2006 Order
+
+[^f00010]: Footnote: Article 15(1) was amended by Article 7(b) of the Rates Amendment (Northern Ireland) Order 1979 ([S.I. 1979/297 (N.I. 4)](https://www.legislation.gov.uk/nisi/1979/297)), by paragraph 3 of Schedule 3 to the Rates (Amendment) (Northern Ireland) Order 2004 ([S.I. 2004/703 (N.I. 4)](https://www.legislation.gov.uk/nisi/2004/703)) and by paragraph 10 of Schedule 2 and Schedule 3 to the 2006 Order
+
+[^key-ca030bd42aa09d47cd5f7e1b95712f78]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/86/schedule/1) substituted (1.4.2025) by [The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/43)](https://www.legislation.gov.uk/nisr/2025/43), [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2025/43/schedule)
+
+[^key-a3aaf345b407e6604fd49859e426f2e9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/86/schedule/2/paragraph/1) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-a07a65eaa926ce4b4aeb88983e160419]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/86/schedule/2/paragraph/2) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-94c4c5c7f1d85eed19fd389aea44122f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/86/schedule/2/paragraph/3) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)
+
+[^key-df08cb4428ebaea8e30e1661bc578292]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/86/schedule/2/paragraph/4) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/86/regulation/1)

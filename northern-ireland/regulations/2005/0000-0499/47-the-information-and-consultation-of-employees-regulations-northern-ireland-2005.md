@@ -1,0 +1,1234 @@
+---
+title: The Information and Consultation of Employees Regulations (Northern Ireland) 2005
+id: nisr/2005/47
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-02-23'
+text_date: '2020-01-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/47
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/47/pdfs/nisrem_20050047_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/47/pdfs/nisr_20050047_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/47/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Information and Consultation of Employees Regulations (Northern Ireland) 2005
+
+> Text as at 2020-01-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 47
+
+EMPLOYMENT
+
+The Information and Consultation of Employees Regulations (Northern Ireland) 2005
+
+Made
+
+23rd February 2005
+
+To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
+
+Coming into operation
+
+6th April 2005
+
+The Department for Employment and Learning, in exercise of the powers conferred on it by Section 43 of the Employment Relations Act 2004[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-5f57b6e0ce7119fb47d1371ceee0f626]
+
+These Regulations may be cited as the Information and Consultation of Employees Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+### 2. Interpretation[^key-5132ae0b5bd9a238201def9f5bff9de5]
+
+(1) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(2) In these Regulations –
+
+- “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00003];
+- “agency worker” has the same meaning as in regulation 3 of the Agency Workers Regulations (Northern Ireland) 2011;[^key-d57a30bd2925539b4f419943a8ab731b]
+- “the 1992 Order” means the Industrial Relations (Northern Ireland) Order 1992[^f00004];
+- “the Agency” means the Labour Relations Agency;
+- “consultation” means the exchange of views and establishment of a dialogue between –
+  - (a) information and consultation representatives and the employer; or
+  - (b) in the case of a negotiated agreement which provides as mentioned in regulation 16(1)(f)(ii), the employer and the employees;
+- “contract of employment” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing;
+- “date of the ballot” means the day or last day on which voting may take place and, where voting in different parts of the ballot is arranged to take place on different days or during periods ending on different days, the last of those days;
+- “employee” means an individual who has entered into or works under a contract of employment and in Part VIII and regulation 38 includes, where the employment has ceased, an individual who worked under a contract of employment;
+- “employee request” means a request by employees under regulation 7 for the employer to initiate negotiations to reach an agreement under these Regulations;
+- “employer notification” means a notification by an employer under regulation 11 that he intends to start negotiations to reach an agreement under these Regulations;
+- “information” means data transmitted by the employer –
+  - (a) to the information and consultation representatives; or
+  - (b) in the case of a negotiated agreement which provides as mentioned in regulation 16(1)(f)(ii), directly to the employees,
+
+  in order to enable those representatives or those employees to examine and to acquaint themselves with the subject matter of the data;
+- “Information and Consultation Directive” means European Parliament and Council Directive [2002/14/EC](https://www.legislation.gov.uk/european/directive/2002/0014) of 11 March 2002[^f00005] establishing a general framework for informing and consulting employees in the European Community;
+- “information and consultation representative” means –
+  - (a) in the case of a negotiated agreement which provides as mentioned in regulation 16(1)(f)(i), a person elected or appointed in accordance with that agreement; or
+  - (b) a person elected in accordance with regulation 19(1);
+- “negotiated agreement” means –
+  - (a) an agreement between the employer and the negotiating representatives reached through negotiations as provided for in regulation 14 which satisfies the requirements of regulation 16(1); or
+  - (b) an agreement between the employer and the information and consultation representatives referred to in regulation 18(2);
+- “negotiating representative” means a person elected or appointed pursuant to regulation 14(1)(a);
+- “parties” means the employer and the negotiating representatives or the information and consultation representatives, as the case may be;
+- “[^key-3fe407fd514232a3a2d10216fbbf3391]Pension Schemes Regulations” means The Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006
+- “pre-existing agreement” means an agreement between an employer and his employees or their representatives which –
+  - (a) is made prior to the making of an employee request; and
+  - (b) satisfies the conditions set out in regulation 8(1)(a) to (d),
+
+  but does not include an agreement concluded in accordance with regulations 17 or 42 to 45 of the Transnational Information and Consultation Regulations 1999[^f00006], or a negotiated agreement;
+- “standard information and consultation provisions” means the provisions set out in regulation 20;
+- “suitable information relating to the use of agency workers” means information as to—[^key-829a572d538b06a7ffa935ab74fbd86d]
+  - (a) the number of agency workers working temporarily for and under the supervision and direction of the employer,
+  - (b) the parts of the employer’s undertaking in which those agency workers are working, and
+  - (c) the type of work those agency workers are carrying out.
+- “undertaking” means a public or private undertaking carrying out an economic activity, whether or not operating for gain; and
+- “valid employee request” means an employee request which –
+  - (a) satisfies the requirements of regulation 7; and
+  - (b) is not invalid by virtue of regulation 12.
+
+### 3. Application[^key-39f3a2de406f4601d67608eb36198593]
+
+(1) These Regulations apply to undertakings –
+
+- (a) employing in the United Kingdom, in accordance with the calculation in regulation 4, at least the number of employees in column 1 of the table in Schedule 1 to these Regulations on or after the corresponding date in column 2 of that table; and
+- (b) subject to paragraph (2), whose registered office, head office or principal place of business is situated in Northern Ireland.
+
+(2) Where the registered office is situated in Northern Ireland and the head office or principal place of business is situated in Great Britain or vice versa, these Regulations shall only apply where the majority of employees are employed to work in Northern Ireland.
+
+(3) In these Regulations, an undertaking to which these Regulations apply is referred to, in relation to its employees, as the “employer”.
+
+### 3A. Agency Workers[^key-c3a12de1d0c6ebf47fae4ecde4f37c89]
+
+(1) Paragraphs (2) and (3) apply to an agency worker whose contract within regulation 3(1)(b) of the Agency Workers Regulations (Northern Ireland) 2011 (contract with the temporary work agency) is not a contract of employment.
+
+(2) For the purposes of regulations 3, 4 and Schedule 1, any agency worker who has a contract with a temporary work agency shall be treated as being employed by that temporary work agency for the duration of that agency worker’s assignment with the employer.
+
+(3) In these Regulations “assignment” has the same meaning as in regulation 2 and “temporary work agency” has the same meaning as in regulation 4, of the Agency Workers Regulations (Northern Ireland) 2011.
+
+## PART II — EMPLOYEE NUMBERS AND ENTITLEMENT TO DATA
+
+### 4. Calculation of number of employees[^key-1453e21037cb3cf467d45a721c8ba7b1]
+
+(1) Subject to paragraph (4), the number of employees for the purposes of regulation 3(1) shall be determined by ascertaining the average number of employees employed in the previous 12 months, calculated in accordance with paragraph (2).
+
+(2) Subject to paragraph (3), the average number of employees is to be ascertained by determining the number of employees employed in each month in the previous 12 months (whether they were employed throughout the month or not), adding together those monthly figures and dividing the number by 12.
+
+(3) For the purposes of the calculation in paragraph (2) if, for the whole of a month within the 12-month period, an employee works under a contract by virtue of which he would have worked for 75 hours or less in that month –
+
+- (i) were the month to have contained 21 working days;
+- (ii) were the employee to have had no absences from work; and
+- (iii) were the employee to have worked no overtime,
+
+the employee may be counted as representing half of a full-time employee, for the month in question, if the employer so decides.
+
+(4) If the undertaking has been in existence for less than 12 months, the references to 12 months in paragraphs (1), (2) and (3), and the divisor of 12 referred to in paragraph (2) shall be replaced by the number of months the undertaking has been in existence.
+
+### 5. Entitlement to data[^key-f4b81e680f810209f352fd7163687acc]
+
+(1) An employee or an employees' representative may request data from the employer for the purpose of determining the number of people employed by the employer’s undertaking in the United Kingdom.
+
+(2) Any request for data made under paragraph (1) must be in writing and be dated.
+
+(3) The employer must provide the employee or the employees' representative who made the request with data to enable him to –
+
+- (a) make the calculation of the numbers of employees referred to in regulation 4; and
+- (b) determine, for the purpose of regulation 7(2), what number of employees constitutes 10% of the employees in the undertaking.
+
+### 6. Complaint of failure to provide data[^key-ea78f61502b60d16924cf76a77abb606]
+
+(1) An employee or an employees' representative who has requested data under regulation 5 may present a complaint to the Industrial Court that –
+
+- (a) the employer has failed to provide the data referred to in regulation 5(3); or
+- (b) the data which has been provided by the employer is false or incomplete in a material particular.
+
+(2) Where the Industrial Court finds the complaint to be well-founded it shall make an order requiring the employer to disclose data to the complainant which order shall specify –
+
+- (a) the data in respect of which the Industrial Court finds that the complaint is well-founded and which is to be disclosed to the complainant;
+- (b) the date (or if more than one, the earliest date) on which the employer refused or failed to disclose data, or disclosed false or incomplete data; and
+- (c) a date, not being less than one week from the date of the order, by which the employer must disclose the data specified in the order.
+
+(3) The Industrial Court shall not consider a complaint presented under this regulation unless it is made after the expiry of a period of one month beginning on the date on which the complainant made his request for data under regulation 5.
+
+## PART III — NEGOTIATED AGREEMENTS
+
+### 7. Employee request to negotiate an agreement in respect of information and consultation[^key-0cc5a8f830e5f3f290e2de6c8cfad7c5]
+
+(1) On receipt of a valid employee request, the employer shall, subject to paragraphs (8) and (9) initiate negotiations by taking the steps set out in regulation 14(1).
+
+(2) Subject to paragraph (3), an employee request is not a valid employee request unless it consists of –
+
+- (a) a single request made by at least 10% of the employees in the undertaking; or
+- (b) a number of separate requests made on the same or different days by employees which when taken together mean that at least 10% of the employees in that undertaking have made requests provided that the requests are made within a period of six months.
+
+(3) Where the figure of 10% in paragraph (2) would result in less than 15 or more than 2,500 employees being required in order for a valid employee request to be made, that paragraph shall have effect as if, for the figure of 10%, there were substituted the figure of 15 or, as the case may be, 2,500.
+
+(4) An employee request is not a valid employee request unless the single request referred to in paragraph (2)(a) or each separate request referred to in paragraph (2)(b) –
+
+- (a) is in writing;
+- (b) is sent to –
+  - (i) the registered office, head office or principal place of business of the employer; or
+  - (ii) the Industrial Court; and
+- (c) specifies the names of the employees making it and the date on which it is sent.
+
+(5) Where a request is sent to the Industrial Court under paragraph 4(b)(ii), the Industrial Court shall –
+
+- (a) notify the employer that the request has been made as soon as reasonably practicable;
+- (b) request from the employer such information as it needs to verify the number and names of the employees who have made the request; and
+- (c) inform the employer and the employees who have made the request how many employees have made the request on the basis of the information provided by the employees and the employer.
+
+(6) Where the Industrial Court requests information from the employer under paragraph (5)(b), the employer shall provide the information requested as soon as reasonably practicable.
+
+(7) The date on which an employee request is made is –
+
+- (a) where the request consists of a single request satisfying paragraph (2)(a) or of separate requests made on the same day satisfying paragraph (2)(b), the date on which the request is or requests are sent to the employer by the employees or the date on which the Industrial Court informs the employer and the employees, in accordance with paragraph 5(c) of how many employees have made the request; and
+- (b) where the request consists of separate requests made on different days, the date on which –
+  - (i) the request, which results in paragraph (2)(b) being satisfied, is sent to the employer by the employees; or
+  - (ii) the Industrial Court informs the employer and the employees in accordance with paragraph 5(c) of how many employees have made the request where that request results in paragraph (2)(b) being satisfied.
+
+(8) If the employer decides to hold a ballot under regulation 8 or 9, the employer shall not be required to initiate negotiations unless and until the outcome of the ballot is that in regulation 8(5)(b).
+
+(9) If an application is made to the Industrial Court under regulation 13, the employer shall not be required to initiate negotiations unless and until the Industrial Court declares that there was a valid employee request or that the employer’s notification was valid.
+
+### 8. Pre-existing agreements: ballot for endorsement of employee request[^key-68aaf2b246e68757f4ffe1ea8143dd61]
+
+(1) Subject to regulation 9, this regulation applies where a valid employee request has been made under regulation 7 by fewer than 40% of employees employed in the undertaking on the date that request was made and where there exists one or more pre-existing agreements which –
+
+- (a) are in writing;
+- (b) cover all the employees of the undertaking;
+- (c) have been approved by the employees; and
+- (d) set out how the employer is to give information to the employees or their representatives and seek their views on such information.
+
+(2) Where this regulation applies, the employer may, instead of initiating negotiations in accordance with regulation 7(1), hold a ballot to seek the endorsement of the employees of the undertaking for the employee request in accordance with paragraphs (3) and (4).
+
+(3) The employer must –
+
+- (a) inform the employees in writing within one month of the date of the employee request that he intends to hold a ballot under this regulation; and
+- (b) arrange for the ballot to be held as soon as reasonably practicable thereafter, provided that the ballot does not take place before a period of 21 days has passed since the employer informed the employees under sub-paragraph (a).
+
+(4) A ballot must satisfy the following requirements –
+
+- (a) the employer must make such arrangements as are reasonably practicable to ensure that the ballot is fair;
+- (b) all employees of the undertaking on the day on which the votes may be cast in the ballot, or if the votes may be cast on more than one day, on the first day of those days, must be given an entitlement to vote in the ballot;
+- (c) the ballot must be conducted so as to secure that –
+  - (i) so far as is reasonably practicable, those voting do so in secret; and
+  - (ii) the votes given in the ballot are accurately counted.
+
+(5) Where the employer holds a ballot under this regulation –
+
+- (a) he must, as soon as reasonably practicable after the date of the ballot, inform the employees of the result;
+- (b) if the employees endorse the employee request, the employer is under the obligation in regulation 7(1) to initiate negotiations; and
+- (c) if the employees do not endorse the employee request, the employer is no longer under the obligation in regulation 7(1) to initiate negotiations.
+
+(6) For the purposes of paragraph (5), the employees are to be regarded as having endorsed the employee request if –
+
+- (a) at least 40% of the employees employed in the undertaking; and
+- (b) the majority of the employees who vote in the ballot,
+
+have voted in favour of endorsing the request.
+
+(7) An employee or an employees' representative who believes that an employer has not, pursuant to paragraph (3)(a), informed his employees that he intends to hold a ballot within the period specified in that paragraph may apply to the Industrial Court for a declaration that the employer is under the duty in regulation 7(1) to initiate negotiations.
+
+(8) Where an employer, acting pursuant to paragraph (3)(a), has informed the employees that he intends to hold a ballot, any employee or employees' representative who believes that the employer has not complied with paragraph (3)(b) may present a complaint to the Industrial Court.
+
+(9) Where the Industrial Court finds a complaint under paragraph (8) well-founded it shall make an order requiring the employer to hold the ballot within such period as the order may specify.
+
+### 8A. Pre-existing agreements: agency workers[^key-e5de66c445c94eb4466e92420d6a66ca]
+
+Where information about the employment situation is to be provided under a pre-existing agreement by an employer, such information must include suitable information relating to the use of agency workers (if any) in that undertaking.
+
+### 9. Pre-existing agreements covering groups of undertakings[^key-2f08d706776545f1cc735eb7b1fd3cca]
+
+(1) This regulation applies where –
+
+- (a) the requirements of regulation 8(1) are satisfied in relation to an undertaking;
+- (b) the pre-existing agreement or one of the pre-existing agreements covers employees in one or more undertakings other than the undertaking mentioned in sub-paragraph (a);
+- (c) the other undertaking or each of the other undertakings mentioned in sub-paragraph (b) is one in respect of which there is an agreement that satisfied, or are agreements that taken together satisfied, the requirements in sub-paragraphs (a) to (d) of regulation 8(1) on the date on which the valid employee request was made in respect of the undertaking mentioned in sub-paragraph (a); and
+- (d) the valid employee request in relation to the undertaking mentioned in sub-paragraph (a) either –
+  - (i) alone, or
+  - (ii) aggregated with any requests made by employees in the undertakings mentioned in sub-paragraph (b) within the period of six months preceding the date of the valid employee request mentioned in regulation 8(1),
+
+  is made by fewer than 40% of the employees in the undertakings mentioned in paragraph (1)(a) and (b).
+
+(2) Where this regulation applies the employers may hold a combined ballot for endorsement of the employee request in accordance with this regulation and in that event regulation 8 shall apply to the ballot with the modification that references to employees shall be treated as referring to the employees employed in all of the undertakings referred to in paragraph (1)(a) and (b).
+
+(3) Notwithstanding paragraph (2), the undertaking mentioned in paragraph (1)(a) may choose to hold the ballot for endorsement of the employee request in accordance with regulation 8 rather than under this regulation.
+
+### 10. Complaint about ballot for endorsement of employee request[^key-348f370522c6f6cfce2785a399e5b73b]
+
+(1) Any employee in the undertaking referred to in regulation 8(1) or employee in one of the undertakings referred to in regulation 9(1), or representative of such employees, who believes that a requirement has not been satisfied that has to be satisfied in order to entitle either the employer, in accordance with regulation 8(2), to hold a ballot, or the employers, in accordance with regulation 9(2), to hold a combined ballot, may, within 21 days of the employer informing the employees of the relevant undertaking under regulation 8(3)(a), present a complaint to the Industrial Court.
+
+(2) Any employee or employees' representative who believes that the arrangements for a ballot held under regulation 8 or 9, as the case may be, did not satisfy one or more of the requirements set out in regulation 8(4) may, within 21 days of the date of the ballot, present a complaint to the Industrial Court.
+
+(3) Where the Industrial Court finds a complaint under paragraph (1) or (2) well-founded it shall –
+
+- (a) in the case of a finding on a complaint under paragraph (1), that any requirement set out in sub-paragraph (a) to (d) of regulation 8(1) was not satisfied in relation to the undertaking referred to in regulation 8(1) or 9(1)(a), make an order requiring the employer to whom regulation 8(1) or 9(1)(a) relates to initiate negotiations in accordance with regulation 7(1);
+- (b) in the case of a finding on a complaint under paragraph (1) that any requirement set out in sub-paragraphs (b) to (d) of regulation 9(1) has not been satisfied, make an order that no combined ballot shall take place and requiring the employer to whom regulation 9(1)(a) relates, according to the preference he has expressed, to initiate negotiations in accordance with regulation 7(1) or, within such period as the order may specify, to conduct a ballot under regulation 8; and
+- (c) in the case of a complaint under paragraph (2) –
+  - (i) where prior to the order being made, the employer referred to in regulation 8(1) or 9(1)(a) makes representations to the Industrial Court that he would prefer to initiate negotiations under regulation 7, make an order requiring that employer to do so; or
+  - (ii) in the absence of such representations, order the employer or employers to hold the ballot under regulation 8 or 9, as the case may be, again within such period as the order may specify.
+
+### 11. Employer notification of decision to start negotiations[^key-9d7610530f4a8cd60ec0ee03289abc89]
+
+(1) The employer may start the negotiation process set out in regulation 14(1) on his own initiative by issuing a written notification satisfying the requirements of paragraph (2) and where the employer issues such a notification regulations 14 to 17 shall apply.
+
+(2) The notification referred to in paragraph (1) must –
+
+- (a) state that the employer intends to start the negotiating process and that the notification is given for the purpose of these Regulations;
+- (b) state the date on which it is issued; and
+- (c) be published in such a manner as to bring it to the attention of, so far as reasonably practicable, all the employees of the undertaking.
+
+### 12. Restrictions on employee request and employer notification[^key-e368230dc65aad78e507dd72f048c3ee]
+
+(1) Subject to paragraph (2), no employee request or employer notification is valid if it is made or issued, as the case may be –
+
+- (a) where a negotiated agreement applies, within a period of three years from the date of the agreement or, where the agreement is terminated within that period, before the date on which the termination takes effect;
+- (b) where the standard information and consultation provisions apply within a period of three years from the date on which they started to apply; and
+- (c) where the employer has held a ballot under regulation 8, or was one of the employers who held a ballot under regulation 9 and the result was that the employees did not endorse the valid employee request referred to in regulation 8(1), within a period of three years from the date of that request.
+
+(2) Paragraph (1) does not apply where there are material changes in the undertaking during the applicable period having the result –
+
+- (a) where a ballot held under regulation 8 or 9 had the result that the employees did not endorse the valid employee request, that there is no longer a pre-existing agreement which satisfies paragraph (1)(b) and (c) of regulation 8 or in the case of a ballot held under regulation 9, that there is no longer an agreement satisfying paragraph (1)(b) of that regulation; or
+- (b) where a negotiated agreement exists, that the agreement no longer complies with the requirement in regulation 16(1) that it must cover all the employees of the undertaking.
+
+### 13. Dispute about employee request, employer notification or whether obligation in regulation 7(1) applies[^key-2957874f216f745fb0e48c23f6b2a375]
+
+(1) If the employer considers that there was no valid employee request –
+
+- (a) because the employee request did not satisfy any requirement of regulation 7(2) to (4) or was prevented from being valid by regulation 12; or
+- (b) because the undertaking was not one to which these Regulations applied (under regulation 3) on the date on which the employee request was made,
+
+the employer may apply to the Industrial Court for a declaration as to whether there was a valid employee request.
+
+(2) If an employee or an employees' representative considers that an employer notification was not valid because it did not comply with one or more of the requirements in regulation 11(2) or was prevented from being valid by regulation 12, he may apply to the Industrial Court for a declaration as to whether the notification was valid.
+
+(3) The Industrial Court shall only consider an application for a declaration made under paragraph (1) or (2) if the application is made within a one month period beginning on the date of the employee request or the date on which the employer notification is made.
+
+### 14. Negotiations to reach an agreement[^key-49b5b44f7b7f879c5cdc926f159fe6aa]
+
+(1) In order to initiate negotiations to reach an agreement under these Regulations the employer must as soon as reasonably practicable –
+
+- (a) make arrangements, satisfying the requirements of paragraph (2), for the employees of the undertaking to elect or appoint negotiating representatives; and thereafter
+- (b) inform the employees in writing of the identity of the negotiating representatives; and
+- (c) invite the negotiating representatives to enter into negotiations to reach a negotiated agreement.
+
+(2) The requirements for the election or appointment of negotiating representatives under paragraph (1)(a) are that –
+
+- (a) the election or appointment of the representatives must be arranged in such a way that, following their election or appointment, all employees of the undertaking are represented by one or more representatives; and
+- (b) all employees of the undertaking must be entitled to take part in the election or appointment of the representatives and where there is an election, all employees of the undertaking on the day on which the votes may be cast in the ballot, or if the votes may be cast on more than one day, on the first day of those days, must be given an entitlement to vote in the ballot.
+
+(3) The negotiations referred to in paragraph (1)(c) shall last for a period not exceeding six months commencing at the end of a period of three months beginning with the date on which the valid employee request was made or the valid employer notification was issued; but the following periods shall not count towards the 3-month period –
+
+- (a) where the employer holds a ballot pursuant to regulation 8 or 9, the period between the employer notifying the employees of his decision to hold such a ballot and whichever of the following dates is applicable –
+  - (i) where there is no complaint to the Industrial Court under regulation 10, the date of the ballot;
+  - (ii) where there is a complaint to the Industrial Court under regulation 10 and the complaint is dismissed by the Industrial Court or on appeal, the date on which it is finally dismissed;
+  - (iii) where there is a complaint to the Industrial Court and the outcome, whether of the complaint or of any appeal from it, is an order to hold the ballot under regulation 8 or 9 again, the date of the ballot that most recently took place;
+  - (iv) where there is a complaint to the Industrial Court under regulation 10 and the outcome, whether of the complaint or of any appeal from it, is an order requiring the employer to initiate negotiations in accordance with regulation 7(1), the date on which the order is made;
+- (b) where an application for a declaration is made to the Industrial Court pursuant to regulation 13, the period between the date of that application and the final declaration of the Industrial Court or any appeal from that declaration; and
+- (c) where a complaint about the election or appointment of negotiating representatives is presented pursuant to regulation 15, the time between the date of the complaint and the determination of the complaint, including any appeal, and where the complaint is upheld, the further period until the negotiation representatives are re-elected or re-appointed.
+
+(4) Where a complaint about the ballot for employee approval of a negotiated agreement is presented pursuant to regulation 17, the time between the date the complaint is presented to the Industrial Court and the determination of the complaint (including any appeal and, where the complaint is upheld, the further period until the re-holding of the ballot) shall not count towards the 6-month period mentioned in paragraph (3).
+
+(5) If, before the end of the 6-month period referred to in paragraph (3), the employer and a majority of the negotiating representatives agree that the period should be extended, it may be extended by such period as the parties agree and thereafter may be further extended by such period or periods as the parties agree.
+
+(6) Where one or more employers wish to initiate negotiations to reach an agreement to cover employees in more than one undertaking, any employer whose employees have not made a valid employee request and who has not issued a valid employer notification, shall issue such a notification.
+
+(7) Where paragraph (6) applies, the provisions of paragraphs (1) to (5) of this regulation and regulations 15 and 16 apply with the following modifications –
+
+- (a) the references to the employees of the undertaking refer to the employees of all the undertakings to be covered by any negotiated agreement; and
+- (b) references to employees refer to employees of all the undertakings to be covered by any negotiated agreement.
+
+### 15. Complaints about election or appointment of negotiating representatives[^key-369e09741809428dc4948edc4c81627c]
+
+(1) If an employee or an employees' representative considers that one or both of the requirements for the election or appointment of negotiating representatives set out in regulation 14(2) have not been complied with, he may, within 21 days of the election or appointment, present a complaint to the Industrial Court.
+
+(2) Where the Industrial Court finds the complaint well-founded it shall make an order requiring the employer to arrange for the process of election or appointment of negotiating representatives referred to in regulation 14 to take place again within such period as the order shall specify.
+
+### 16. Negotiated agreements[^key-8dc774ae877368c75b3b79738e268fb4]
+
+(1) A negotiated agreement must cover all employees of the undertaking and may consist either of a single agreement or of different parts (each being approved in accordance with paragraph (4)) which, taken together, cover all the employees of the undertaking. The single agreement or each part must –
+
+- (a) set out the circumstances in which the employer must inform and consult the employees to which it relates;
+- (b) be in writing;
+- (c) be dated;
+- (d) be approved in accordance with paragraphs (3) to (5);
+- (e) be signed by or on behalf of the employer; [^key-34c431d2d1969651332b8a4020dedcfe]...
+- (f) either –
+  - (i) provide for the election or appointment of information and consultation representatives to whom the employer must provide the information and whom the employer must consult in the circumstances referred to in sub-paragraph (a); or
+  - (ii) provide that the employer must provide information directly to the employees to which it relates and consult those employees directly in the circumstances referred to in sub-paragraph (a); and[^key-936654bac220eed30e93138805ab468f]
+- (g) provide that where an employer is to provide information about the employment situation, under that agreement or under any part, such information shall include suitable information relating to the use of agency workers (if any) in that undertaking.
+
+(2) Where a negotiated agreement consists of different parts they may provide differently in relation to the matters referred to in paragraph (1)(a) and (f).
+
+(3) A negotiated agreement consisting of a single agreement shall be treated as being approved for the purpose of paragraph (1)(d) if –
+
+- (a) it has been signed by all the negotiating representatives; or
+- (b) it has been signed by a majority of negotiating representatives, and either –
+  - (i) approved in writing by at least 50% of employees employed in the undertaking; or
+  - (ii) approved by a ballot of those employees, the arrangements for which satisfied the requirements set out in paragraph (5), in which at least 50% of the employees voting, voted in favour of approval.
+
+(4) A part shall be treated as being approved for the purpose of paragraph (1)(d) if the part –
+
+- (a) has been signed by all the negotiating representatives involved in negotiating the part; or
+- (b) has been signed by a majority of those negotiating representatives and either –
+  - (i) approved in writing by at least 50% of employees (employed in the undertaking) to which the part relates; or
+  - (ii) approved by a ballot of those employees, the arrangements for which satisfied the requirements set out in paragraph (5), in which at least 50% of the employees voting, voted in favour of approving the part.
+
+(5) The ballots referred to in paragraphs (3) and (4) must satisfy the following requirements –
+
+- (a) the employer must make such arrangements as are reasonably practicable to ensure that the ballot is fair;
+- (b) all employees of the undertaking or, as the case may be, to whom the part of the agreement relates, on the day on which the votes may be cast in the ballot, or if the votes may be cast on more than one day, on the first day of those days, must be given an entitlement to vote in the ballot; and
+- (c) the ballot must be conducted so as to secure that –
+  - (i) so far as is reasonably practicable, those voting do so in secret; and
+  - (ii) the votes given in the ballot are accurately counted.
+
+(6) Where the employer holds a ballot under this regulation he must, as soon as reasonably practicable after the date of the ballot, inform the employees entitled to vote of the result.
+
+### 17. Complaints about ballot for employee approval of negotiated agreement[^key-c7fbd309eaca36e4814439f66d381d89]
+
+(1) Any negotiating representative who believes that the arrangements for a ballot held under regulation 16 did not satisfy one or more of the requirements set out in paragraph (5) of that regulation, may, within 21 days of the date of the ballot, present a complaint to the Industrial Court.
+
+(2) Where the Industrial Court finds the complaint well-founded it shall make an order requiring the employer to hold the ballot referred to in regulation 16 again within such period as the order may specify.
+
+### 17A. Negotiated agreements and listed changes to pension schemes[^key-6b0308bc367d515538d0432d37bc4aaf]
+
+(1) A requirement in any negotiated agreement or any part of such an agreement made before 6th April 2006 to inform and consult employees or their representatives about a listed change shall cease to apply once—
+
+- (a) the employer is under a duty under any of regulations 7(3) and 11 to 13 of the Pension Schemes Regulations; and
+- (b) he has notified the information and consultation representatives or, where he must consult employees directly, the employees, in writing that he will be complying with his duty under the provisions of the Pension Schemes Regulations referred to in sub-paragraph (a), instead of his obligations under the negotiated agreement, provided that the notification is given on each occasion on which the employer has become or is about to become subject to the duty.
+
+(2) For the purposes of this regulation “listed change” has the meaning given by regulation 6(2) of the Pension Schemes Regulations.
+
+## PART IV — STANDARD INFORMATION AND CONSULTATION PROVISIONS
+
+### 18. Application of standard information and consultation provisions[^key-2f57b32ef8618be5d249cb1dbe245c0d]
+
+(1) Subject to paragraph (2) –
+
+- (a) where the employer is under a duty, following the making of a valid employee request or issue of a valid employer notification, to initiate negotiations in accordance with regulation 14 but does not do so, the standard information and consultation provisions shall apply from the date –
+  - (i) which is six months from the date on which the valid employee request was made or the valid employer notification was issued; or
+  - (ii) information and consultation representatives are elected under regulation 19,
+
+  whichever is the sooner; and
+- (b) if the parties do not reach a negotiated agreement within the time limit referred to in regulation 14(3) (or that period as extended by agreement under paragraph (5) of that regulation) the standard information and consultation provisions shall apply from the date –
+  - (i) which is six months from the date on which that time limit expires; or
+  - (ii) information and consultation representatives are elected under regulation 19,
+
+  whichever is the sooner.
+
+(2) Where the standard information and consultation provisions apply, the employer and the information and consultation representatives elected pursuant to regulation 19 may, at any time, reach an agreement that provisions other than the standard information and consultation provisions shall apply.
+
+(3) An agreement referred to in paragraph (2) shall only have effect if it covers all the employees of the undertaking, complies with the requirements listed in regulation 16(1)(a) to (c), (e) and (f) and is signed by a majority of the information and consultation representatives.
+
+### 19. Election of information and consultation representatives[^key-6122968b0432dd07c5f05becf0704ffd]
+
+(1) Where the standard information and consultation provisions are to apply, the employer shall, before the standard information and consultation provisions start to apply, arrange for the holding of a ballot of its employees to elect the relevant number of information and consultation representatives.
+
+(2) The provisions in Schedule 2 to these Regulations apply in relation to the arrangements for and conduct of any such ballot.
+
+(3) In this regulation the “relevant number of information and consultation representatives” means one representative per 50 employees or part thereof, provided that that number is at least two and does not exceed 25.
+
+(4) An employee or an employees' representative may complain to the Industrial Court that the employer has not arranged for the holding of a ballot in accordance with paragraph (1).
+
+(5) Where the Industrial Court finds the complaint well-founded, it shall make an order requiring the employer to arrange, or re-arrange and hold the ballot.
+
+(6) Where the Industrial Court finds a complaint under paragraph (4) well-founded, the employee or the employees' representative may make an application to the High Court under regulation 22(6) and paragraphs (7) and (8) of that regulation shall apply to any such application.
+
+### 20. Standard information and consultation provisions[^key-e77c3c1b200d94a32785058c9d13f344]
+
+(1) Where the standard information and consultation provisions apply pursuant to regulation 18, the employer must provide the information and consultation representatives with information on –
+
+- (a) the recent and probable development of the undertaking’s activities and economic situation;
+- (b) the situation, structure and probable development of employment within the undertaking (and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)[^key-a23418bf61c3cdb3525e77dc76647e38] and on any anticipatory measures envisaged, in particular, where there is a threat to employment within the undertaking; and
+- (c) subject to paragraph (5), decisions likely to lead to substantial changes in work organisation or in contractual relations, including those referred to in –
+  - (i) articles 216 to 220 of the 1996 Order[^f00007]; [^key-86512fce785c70463feb958e06629235]...
+  - (ii)[^key-552a1279524eca1ced8bf3d4180573c7] regulations 13 to 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006; and
+  - (iii) regulations 13 to 16 of the Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006.
+
+(2) The information referred to in paragraph (1) must be given at such time, in such fashion and with such content as are appropriate to enable, in particular, the information and consultation representatives to conduct an adequate study and, where necessary, to prepare for consultation.
+
+(3) The employer must consult the information and consultation representatives on the matters referred to in paragraph (1)(b) and (c).
+
+(4) The employer must ensure that the consultation referred to in paragraph (3) is conducted –
+
+- (a) in such a way as to ensure that the timing, method and content of the consultation are appropriate;
+- (b) on the basis of the information supplied by the employer to the information and consultation representatives and of any opinion which those representatives express to the employer;
+- (c) in such a way as to enable the information and consultation representatives to meet the employer at the relevant level of management depending on the subject under discussion and to obtain a reasoned response from the employer to any such opinion; and
+- (d) in relation to matters falling within paragraph (1)(c), with a view to reaching agreement on decisions within the scope of the employer’s powers.
+
+(5) The duties in this regulation to inform and consult the information and consultation representatives on decisions falling within paragraph (1)(c) cease to apply once the employer is under a duty under –
+
+- (a) Article 216 of the 1996 Order referred to in paragraph (1)(c)(i) (duty of employer to consult representatives of employees); [^key-6ae5b55efb512663876575bcfcc3cb7c]...
+- (b) regulation 13[^key-8b29476c9b14c79f39f9159bad24416c] of the Regulations referred to in paragraph (1)(c)(ii) or paragraph (1)(c)(iii)[^key-578f6d7e160b0c29f8042314d7aa010f] (duty to inform and consult trade union representatives); or[^key-8608e9a15e29ece082f923d290ca1c80]
+- (c) any of regulations 7(3) and 11 to 13 of the Pension Schemes Regulations,
+
+and he has notified the information and consultation representatives in writing that he will be complying with his duty under the legislation referred to in sub-paragraph (a), (b) or (c)[^key-ae83bad830d0b10e76aca7e6ce1d3b6a], as the case may be, instead of under these Regulations provided that the notification is given on each occasion on which the employer has become or is about to become subject to the duty.
+
+(6) Where there is an obligation in these Regulations on the employer to inform and consult his employees, a failure on the part of a person who controls the employer (either directly or indirectly) to provide information to the employer shall not constitute a valid reason for the employer failing to inform and consult.
+
+## PART V — DUTY OF CO-OPERATION
+
+### 21. Co-operation[^key-db8c0ec99c46b6e5fb22fe24ee607aed]
+
+The parties are under a duty, when negotiating or implementing a negotiated agreement or when implementing the standard information and consultation provisions, to work in a spirit of co-operation and with due regard for their reciprocal rights and obligations, taking into account the interests of both the undertaking and the employees.
+
+## PART VI — COMPLIANCE AND ENFORCEMENT
+
+### 22. Disputes about operation of a negotiated agreement or the standard information and consultation provisions[^key-c8d30a53b6ca1427e1117f79a94c4b54]
+
+(1) Where –
+
+- (a) a negotiated agreement has been agreed; or
+- (b) the standard information and consultation provisions apply,
+
+a complaint may be presented to the Industrial Court by a relevant applicant who considers that the employer has failed to comply with the terms of the negotiated agreement or, as the case may be, one or more of the standard information and consultation provisions.
+
+(2) A complaint brought under paragraph (1) must be brought within a period of three months commencing with the date of the alleged failure.
+
+(3) In this regulation –
+
+- “failure” means an act or omission; and
+- “relevant applicant” means –
+  - (a) in a case where information and consultation representatives have been elected or appointed, an information and consultation representative; or
+  - (b) in a case where no information and consultation representatives have been elected or appointed, an employee or an employees' representative.
+
+(4) Where the Industrial Court finds the complaint well-founded it shall make a declaration to that effect and may make an order requiring the employer to take such steps as are necessary to comply with the terms of the negotiated agreement or, as the case may be, the standard information and consultation provisions.
+
+(5) An order made under paragraph (4) shall specify –
+
+- (a) the steps which the employer is required to take; and
+- (b) the period within which the order must be complied with.
+
+(6) Where the Industrial Court makes a declaration under paragraph (4) the relevant applicant may, within the period of three months beginning with the date on which the declaration is made, make an application to the High Court for a penalty notice to be issued.
+
+(7) Where such an application is made, the High Court shall issue a written penalty notice to the employer requiring him to pay a penalty to the Department for Employment and Learning in respect of the failure unless satisfied, on hearing representations from the employer, that the failure resulted from a reason beyond the employer’s control or that he has some other reasonable excuse for his failure.
+
+(8) Regulation 23 shall apply in respect of a penalty notice issued under this regulation.
+
+(9) No order of the Industrial Court under this regulation shall have the effect of suspending or altering the effect of any act done or of any agreement made by the employer or of preventing or delaying any act or agreement which the employer proposes to do or to make.
+
+### 23. Penalties[^key-86cb387d036a2dca171d3d4fcf0504a0]
+
+(1) A penalty notice issued under regulation 22 shall specify –
+
+- (a) the amount of the penalty which is payable;
+- (b) the date before which the penalty must be paid; and
+- (c) the failure and period to which the penalty relates.
+
+(2) No penalty set by the High Court under this regulation may exceed £75,000.
+
+(3) Matters to be taken into account by the High Court when setting the amount of the penalty, shall include –
+
+- (a) the gravity of the failure;
+- (b) the period of time over which the failure occurred;
+- (c) the reason for the failure;
+- (d) the number of employees affected by the failure; and
+- (e) the number of employees employed by the undertaking or, where a negotiated agreement covers employees in more than one undertaking, the number of employees covered by both or all of the undertakings.
+
+(4) The date specified under paragraph (1)(b) must not be earlier than the end of the period within which an appeal against a declaration or order made by the Industrial Court under regulation 22 may be made.
+
+(5) If the specified date in a penalty notice has passed and –
+
+- (a) the period during which an appeal may be made has expired without an appeal having been made; or
+- (b) such an appeal has been made and determined,
+
+the Department for Employment and Learning may recover from the employer, as a civil debt due to it, any amount payable under the penalty notice which remains outstanding.
+
+(6) The making of an appeal suspends the effect of a penalty notice.
+
+(7) Any sums received by the Department under regulation 22 or this regulation shall be paid into the Consolidated Fund.
+
+### 24. Exclusivity of remedy[^key-0c1937fd6c3ecfbea0b3ad1d78efb953]
+
+Where Parts I to VI provide for a remedy for infringement of any right by way of application or complaint to the Industrial Court (and provide for no other remedy), no other remedy is available for infringement of that right.
+
+## PART VII — CONFIDENTIAL INFORMATION
+
+### 25. Breach of statutory duty[^key-7caa890c1910ad8664635f80b1269f14]
+
+(1) A person to whom the employer, pursuant to his obligations under these Regulations, entrusts any information or document on terms requiring it to be held in confidence shall not disclose that information or document except, where the terms permit him to do so, in accordance with those terms.
+
+(2) In this regulation a person referred to in paragraph (1) to whom information or a document is entrusted is referred to as a “recipient”.
+
+(3) The obligation to comply with paragraph (1) is a duty owed to the employer, and a breach of the duty is actionable accordingly (subject to the defences and other incidents applying to actions for breach of statutory duty).
+
+(4) Paragraph (3) shall not affect any legal liability which any person may incur by disclosing the information or document, or any right which any person may have in relation to such disclosure otherwise than under this regulation.
+
+(5) No action shall lie under paragraph (3) where the recipient reasonably believed the disclosure to be a “protected disclosure” within the meaning given to that expression by Article 67A of the 1996 Order[^f00009].
+
+(6) A recipient to whom the employer has entrusted any information or document on terms requiring it to be held in confidence may apply to the Industrial Court for a declaration as to whether it was reasonable for the employer to require the recipient to hold the information or document in confidence.
+
+(7) If the Industrial Court considers, on an application under paragraph (6), that the disclosure of the information or document by the recipient would not, or would not be likely to, harm the legitimate interests of the undertaking, it shall make a declaration that it was not reasonable for the employer to require the recipient to hold the information or document in confidence.
+
+(8) If a declaration is made under paragraph (7), the information or document shall not at any time thereafter be regarded as having been entrusted to the recipient who made the application under paragraph (6), or to any other recipient, on terms requiring it to be held in confidence.
+
+### 26. Withholding of information by the employer[^key-271acec2df9db9a9b96dd34bd933ca45]
+
+(1) The employer is not required to disclose any information or document to a person for the purposes of these Regulations where the nature of the information or document is such that, according to objective criteria, the disclosure of the information or document would seriously harm the functioning of, or would be prejudicial to, the undertaking.
+
+(2) If there is a dispute between the employer and –
+
+- (a) where information and consultation representatives have been elected or appointed, such a representative; or
+- (b) where no information and consultation representatives have been elected or appointed, an employee or an employees' representative,
+
+as to whether the nature of the information or document which the employer has failed to provide is such as is described in paragraph (1), the employer or a person referred to in sub-paragraph (a) or (b) may apply to the Industrial Court for a declaration as to whether the information or document is of such a nature.
+
+(3) If the Industrial Court makes a declaration that the disclosure of the information or document in question would not, according to objective criteria, be seriously harmful or prejudicial as mentioned in paragraph (1), the Industrial Court shall order the employer to disclose the information or document.
+
+(4) An order under paragraph (3) shall specify –
+
+- (a) the information or document to be disclosed;
+- (b) the person or persons to whom the information or document is to be disclosed;
+- (c) any terms on which the information or document is to be disclosed; and
+- (d) the date before which the information or document is to be disclosed.
+
+## PART VIII — PROTECTIONS FOR INFORMATION AND CONSULTATION REPRESENTATIVES, ETC.
+
+### 27. Right to time off for information and consultation representatives, etc.[^key-e5cbbbdb2d69885c501b77ffe1885d1d]
+
+(1) An employee who is –
+
+- (a) a negotiating representative; or
+- (b) an information and consultation representative,
+
+is entitled to be permitted by his employer to take reasonable time off during the employee’s working hours in order to perform his functions as such a representative.
+
+(2) For the purpose of this regulation, the working hours of an employee shall be taken to be any time when, in accordance with his contract of employment, the employee is required to be at work.
+
+### 28. Right to remuneration for time off under regulation 27[^key-77744c511a16fed716ccc2975f837a6a]
+
+(1) An employee who is permitted to take time off under regulation 27 is entitled to be paid remuneration by his employer for the time taken off at the appropriate hourly rate.
+
+(2) Chapter IV of Part I of the 1996 Order (a week’s pay) shall apply in relation to this regulation as it applies in relation to Article 90 of the 1996 Order.
+
+(3) The appropriate hourly rate, in relation to an employee, is the amount of one week’s pay divided by the number of normal working hours in a week for that employee when employed under the contract of employment in force on the day when time is taken.
+
+(4) But where the number of normal working hours differs from week to week or over a longer period, the amount of one week’s pay shall be divided instead by –
+
+- (a) the average number of normal working hours calculated by dividing by 12 the total number of the employee’s normal working hours during the period of 12 weeks ending with the last complete week before the day on which the time is taken off; or
+- (b) where the employee has not been employed for a sufficient period to enable the calculations to be made under sub-paragraph (a), a number which fairly represents the number of normal working hours in a week having regard to such of the considerations specified in paragraph (5) as are appropriate in the circumstances.
+
+(5) The considerations referred to in paragraph (4)(b) are –
+
+- (a) the average number of normal working hours in a week which the employee could expect in accordance with the terms of his contract; and
+- (b) the average number of normal working hours of other employees engaged in relevant comparable employment with the same employer.
+
+(6) A right to any amount under paragraph (1) does not affect any right of an employee in relation to remuneration under his contract of employment (“contractual remuneration”).
+
+(7) Any contractual remuneration paid to an employee in respect of a period of time off under regulation 27 goes towards discharging any liability of the employer to pay remuneration under paragraph (1) in respect of that period, and conversely, any payment of remuneration under paragraph (1) in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
+
+### 29. Right to time off: complaint to industrial tribunals[^key-fa1c02b23b3862d490552f4a10f2df48]
+
+(1) An employee may present a complaint to an industrial tribunal that his employer –
+
+- (a) has unreasonably refused to permit him to take time off as required by regulation 27; or
+- (b) has failed to pay the whole or part of any amount to which the employee is entitled under regulation 28.
+
+(2) An industrial tribunal shall not consider a complaint under this regulation unless it is presented –
+
+- (a) before the end of the period of three months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted; or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+
+(2A)[^key-5185c7d2d729e8ae69c361a5a81bf97b] Regulation 29A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+
+(3) Where a tribunal finds a complaint under this regulation well-founded, the tribunal shall make a declaration to that effect.
+
+(4) If the complaint is that the employer has unreasonably refused to permit the employee to take time off, the tribunal shall also order the employer to pay to the employee an amount equal to the remuneration to which he would have been entitled under regulation 28 if the employer had not refused.
+
+(5) If the complaint is that the employer has failed to pay the employee the whole or part of any amount to which he is entitled under regulation 28, the tribunal shall also order the employer to pay to the employee the amount it finds due to him.
+
+### 29A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-5ce254c833f8969d9ad40b1b2f4a1d65]
+
+(1) In this regulation—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact Labour Relations Agency before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article.
+
+(2) In working out when the time limit set by regulation 29(2)(a) expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the time limit set by regulation 29(2)(a) would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the industrial tribunal by regulation 29(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
+
+### 30. Unfair dismissal[^key-16ef0e3215387485e2deac1d1dfcf736]
+
+(1) An employee who is dismissed and to whom paragraph (2) or (5) applies shall be regarded, if the reason (or, if more than one, the principal reason) for the dismissal is a reason specified in, respectively, paragraph (3) or (6), as unfairly dismissed for the purposes of Part XI of the 1996 Order.
+
+(2) This paragraph applies to an employee who is –
+
+- (a) an employees' representative;
+- (b) a negotiating representative;
+- (c) an information and consultation representative; or
+- (d) a candidate in an election in which any person elected will, on being elected, be such a representative.
+
+(3) The reason is that –
+
+- (a) the employee performed or proposed to perform any functions or activities as such a representative or candidate;
+- (b) the employee exercised or proposed to exercise an entitlement conferred on the employee by regulation 27 or 28; or
+- (c) the employee (or a person acting on his behalf) made or proposed to make a request to exercise such an entitlement.
+
+(4) Paragraph (1) does not apply in the circumstances set out in paragraph (3)(a) where the reason (or principal reason) for the dismissal is that in the performance, or purported performance, of the employee’s functions or activities he has disclosed any information or document in breach of the duty in regulation 25, unless the employee reasonably believed the disclosure to be a “protected disclosure” within the meaning given to that expression by Article 67A of the 1996 Order.
+
+(5) This paragraph applies to any employee whether or not he is an employee to whom paragraph (2) applies.
+
+(6) The reason is that the employee –
+
+- (a) took, or proposed to take, any proceedings before an industrial tribunal to enforce a right or secure an entitlement conferred on him by these Regulations;
+- (b) exercised, or proposed to exercise, any entitlement to apply or complain to the Industrial Court or the High Court conferred by these Regulations or to exercise the right to appeal in connection with any rights conferred by these Regulations;
+- (c) requested, or proposed to request, data in accordance with regulation 5;
+- (d) acted with a view to securing that an agreement was or was not negotiated or that the standard information and consultation provisions did or did not become applicable;
+- (e) indicated that he did or did not support the coming into existence of a negotiated agreement or the application of the standard information and consultation provisions;
+- (f) stood as a candidate in an election in which any person elected would, on being elected, be a negotiating representative or an information and consultation representative;
+- (g) influenced or sought to influence by lawful means the way in which votes were to be cast by other employees in a ballot arranged under these Regulations;
+- (h) voted in such a ballot;
+- (i) expressed doubts, whether to a ballot supervisor or otherwise, as to whether such a ballot had been properly conducted; or
+- (j) proposed to do, failed to do, or proposed to decline to do, any of the things mentioned in sub-paragraphs (d) to (i).
+
+(7) It is immaterial for the purpose of paragraph (6)(a) –
+
+- (a) whether or not the employee has the right or entitlement; or
+- (b) whether or not the right has been infringed;
+
+but for that paragraph to apply, the claim to the right and, if applicable, the claim that it has been infringed must be made in good faith.
+
+### 31. Subsidiary provisions relating to unfair dismissal[^key-79f32975fe747fce0e67793d37f27bc1]
+
+(1) In Article 137 of the 1996 Order (redundancy as unfair dismissal) –
+
+- (a) in paragraph (1)(c) (which requires one of a specified group of paragraphs to apply for a person to be treated as unfairly dismissed)[^f00010] for “(7E)” substitute “(7F)”; and
+- (b) after paragraph (7E) insert –
+
+  > (7F) This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one specified in paragraph (3) or (6) of regulation 30 of the Information and Consultation of Employees Regulations (Northern Ireland) 2005 (read with paragraphs (4) and (7) of that regulation).
+
+  .
+
+(2) In Article 140[^f00011] of the 1996 Order (exclusion of right: qualifying period of employment) in paragraph (3) (cases where no qualifying period of employment is required)[^f00012] –
+
+- (a) omit the word “or” at the end of sub-paragraph (m); and
+- (b) after paragraph (n) insert –
+
+  > or
+  >
+  > - (o) paragraph (3) or (6) of regulation 30 of the Information and Consultation of Employees Regulations (Northern Ireland) 2005 (read with paragraphs (4) and (7) of that regulation) applies.
+
+  .
+
+(3) In Article 141 of the 1996 Order (exclusion of right: upper age limit) in paragraph (2) (cases where upper age limit does not apply)[^f00013] –
+
+- (a) omit the word “or” at the end of sub-paragraph (m); and
+- (b) after sub-paragraph (n) insert –
+
+  > or
+  >
+  > - (o) paragraph (3) or (6) of regulation 30 of the Information and Consultation of Employees Regulations (Northern Ireland) 2005 (read with paragraphs (4) and (7) of that regulation) applies.
+
+  .
+
+### 32. Detriment[^key-e7670f10ab38f919b3b62ca529ae337a]
+
+(1) An employee to whom paragraph (2) or (5) applies has the right not to be subjected to any detriment by any act, or deliberate failure to act, by his employer, done on a ground specified in, respectively, paragraph (3) or (6).
+
+(2) This paragraph applies to an employee who is –
+
+- (a) an employees' representative;
+- (b) a negotiating representative;
+- (c) an information and consultation representative; or
+- (d) a candidate in an election in which any person elected will, on being elected, be such a representative.
+
+(3) The ground is that –
+
+- (a) the employee performed or proposed to perform any functions or activities as such a representative or candidate;
+- (b) the employee exercised or proposed to exercise an entitlement conferred on the employee by regulation 27 or 28; or
+- (c) the employee (or a person acting on his behalf) made or proposed to make a request to exercise such an entitlement.
+
+(4) Paragraph (1) does not apply in the circumstances set out in paragraph (3)(a) where the ground (or principal ground) for the subjection to detriment is that in the performance, or purported performance, of the employee’s functions or activities he has disclosed any information or document in breach of the duty in regulation 25, unless the employee reasonably believed the disclosure to be a “protected disclosure” within the meaning given to that expression by Article 67A of the 1996 Order.
+
+(5) This paragraph applies to any employee whether or not he is an employee to whom paragraph (2) applies.
+
+(6) The ground is that the employee –
+
+- (a) took, or proposed to take, any proceedings before an industrial tribunal to enforce a right or secure an entitlement conferred on him by these Regulations;
+- (b) exercised, or proposed to exercise, any entitlement to apply or complain to the Industrial Court or the High Court conferred by these Regulations or to exercise the right to appeal in connection with any rights conferred by these Regulations;
+- (c) requested, or proposed to request, data in accordance with regulation 5;
+- (d) acted with a view to securing that an agreement was or was not negotiated or that the standard information and consultation provisions did or did not become applicable;
+- (e) indicated that he did or did not support the coming into existence of a negotiated agreement or the application of the standard information and consultation provisions;
+- (f) stood as a candidate in an election in which any person elected would, on being elected, be a negotiating representative or an information and consultation representative;
+- (g) influenced or sought to influence by lawful means the way in which votes were to be cast by other employees in a ballot arranged under these Regulations;
+- (h) voted in such a ballot;
+- (i) expressed doubts, whether to a ballot supervisor or otherwise, as to whether such a ballot had been properly conducted; or
+- (j) proposed to do, failed to do, or proposed to decline to do, any of the things mentioned in sub-paragraphs (d) to (i).
+
+(7) It is immaterial for the purpose of paragraph (6)(a) –
+
+- (a) whether or not the employee has the right or entitlement; or
+- (b) whether or not the right has been infringed,
+
+but for that paragraph to apply, the claim to the right and, if applicable, the claim that it has been infringed must be made in good faith.
+
+(8) This regulation does not apply where the detriment in question amounts to dismissal.
+
+### 33. Detriment: enforcement and subsidiary provisions[^key-bbecc35888ce815d9494c8c984a20cb9]
+
+(1) An employee may present a complaint to an industrial tribunal that he has been subjected to a detriment in contravention of regulation 32.
+
+(2) The provisions of Articles 71(2) to (4) and 72 of the 1996 Order (complaints to industrial tribunals and remedies) shall apply in relation to a complaint under this regulation as they apply in relation to a complaint under Article 71 of the Order but taking references in those provisions to the employer as references to the employer within the meaning of regulation 32(1).
+
+### 34. Conciliation[^key-dcba298f9ec3f22d8d0f5864217c2213]
+
+In Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation) in paragraph (1) (which specifies the proceedings and claims to which the Article applies)[^f00014] –
+
+- (a) omit the word “or” at the end of sub-paragraph (l); and
+- (b) after sub-paragraph (m), insert –
+
+  > or
+  >
+  > - (n) under regulation 29 or 33 of the Information and Consultation of Employees Regulations (Northern Ireland) 2005.
+
+  .
+
+## PART IX — MISCELLANEOUS
+
+### 35. Industrial Court: proceedings[^key-f62ee669f848709d97c2477170718d35]
+
+(1) Where under these Regulations a person presents a complaint or makes an application to the Industrial Court the complaint or application must be in writing and in such form as the Industrial Court may require.
+
+(2) In its consideration of a complaint or application under these Regulations, the Industrial Court shall make such enquiries as it sees fit and so far as reasonably practicable give any person whom it considers has a proper interest in the complaint or application an opportunity to be heard.
+
+(3) The Industrial Court may draw an adverse inference from a party’s failure to comply with any reasonable request to provide information or documents relevant to a complaint presented to it or an application made to it.
+
+(4) A declaration or order made by the Industrial Court under these Regulations may be relied on in relation to an employer whose registered office, head office or principal place of business is in Northern Ireland, as if it were a declaration or order made by the High Court.
+
+(5) A declaration or order made by the Industrial Court under these Regulations must be in writing and state the reasons for the Industrial Court’s findings.
+
+(6) An appeal lies to the High Court on any question of law arising from any declaration or order of, or arising in any proceedings before, the Industrial Court under these Regulations.
+
+### 36. Labour Relations Agency[^key-ddd26b20f565020bec898bfa46082fe8]
+
+(1) If on receipt of an application or complaint under these Regulations the Industrial Court is of the opinion that it is reasonably likely to be settled by conciliation or other assistance provided by the Agency in accordance with paragraph (2), it shall refer the application or complaint to the Agency and shall notify the applicant or complainant and any persons whom it considers have a proper interest in the application or complaint accordingly.
+
+(2) Where the Industrial Court refers an application or complaint to the Agency under paragraph (1), Article 84 of the 1992 Order (functions of the Agency in relation to trade disputes) shall apply, and the Agency may assist the parties to achieve a settlement, as if –
+
+- (a) the dispute or difference between the parties amounted to a trade dispute as defined in Article 127 of the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00015]; and
+- (b) the parties to the application or complaint had requested the assistance of the Agency under Article 84 of the 1992 Order.
+
+(3) If the Agency does not consider it appropriate to offer its assistance in accordance with paragraph (2) it shall inform the Industrial Court.
+
+(4) If the Agency has offered the parties its assistance in accordance with paragraph (2), the application or complaint referred has not thereafter been settled or withdrawn, and the Agency is of the opinion that no provision or further provision of its assistance is likely to result in a settlement or withdrawal, it shall inform the Industrial Court of its opinion.
+
+(5) If –
+
+- (a) an application or complaint is not referred to the Agency; or
+- (b) it is so referred, but the Agency informs the Industrial Court as mentioned in paragraph (3) or (4),
+
+the Industrial Court shall proceed to hear and determine the application or complaint.
+
+### 37. Restrictions on contracting out: general[^key-607c68ad63eb6cf80a6fa5ca3e520198]
+
+(1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports –
+
+- (a) to exclude or limit the operation of any provision of these Regulations other than a provision of Part VIII; or
+- (b) to preclude a person from bringing any proceedings before the Industrial Court or High Court under any provision of these Regulations other than a provision of Part VIII.
+
+(2) Paragraph (1) does not apply to any agreement to refrain from continuing any proceedings referred to in sub-paragraph (b) of that paragraph made after the proceedings have been instituted.
+
+### 38. Restrictions on contracting out: Part VIII[^key-7aece04005818bb3858b261c4b4140c8]
+
+(1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports –
+
+- (a) to exclude or limit the operation of any provision of Part VIII; or
+- (b) to preclude a person from bringing any proceedings before an industrial tribunal under that Part.
+
+(2) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an industrial tribunal where the Agency has taken action under any of Articles 20A to 20C[^key-88e60920c8a81a32d84880e195cae341] of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation).
+
+(3) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing before an industrial tribunal proceedings within Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (proceedings under these Regulations where conciliation is available) if the conditions regulating compromise agreements under these Regulations are satisfied in relation to the agreement.
+
+(4) For the purposes of paragraph (3) the conditions regulating compromise agreements are that –
+
+- (a) the agreement must be in writing;
+- (b) the agreement must relate to the particular proceedings;
+- (c) the employee must have received advice from a relevant independent adviser as to the terms and effect of the proposed agreement and, in particular, its effect on his ability to pursue his rights before an industrial tribunal;
+- (d) there must be in force, when the adviser gives the advice, a contract of insurance, or an indemnity provided for members of a profession or a professional body, covering the risk of a claim by the employee in respect of loss arising in consequence of the advice;
+- (e) the agreement must identify the adviser; and
+- (f) the agreement must state that the conditions in sub-paragraphs (a) to (e) are satisfied.
+
+(5) A person is a relevant independent adviser for the purposes of paragraph (4)(c) if he –
+
+- (a) is a qualified lawyer;
+- (b) is an officer, official, employee or member of an independent trade union who has been certified in writing by the trade union as competent to give advice and authorised to do so on behalf of the trade union; or
+- (c) works at an advice centre (whether as an employee or as a volunteer) and has been certified in writing by the centre as competent to give advice and authorised to do so on behalf of the centre.
+
+(6) A person is not a relevant independent adviser for the purposes of paragraph (4)(c) –
+
+- (a) if he is the employer or an associated employer or is employed by or is acting in the matter for the employer or an associated employer;
+- (b) in the case of a person within paragraph (5)(b) or (c), if the trade union or advice centre is the employer or an associated employer; or
+- (c) in the case of a person within paragraph (5)(c), if the employee makes a payment for the advice received from him.
+
+(7) In paragraph (5)(a), “qualified lawyer” means a barrister (whether in practice as such or employed to give legal advice), or a solicitor who holds a practising certificate.
+
+(8) For the purposes of paragraph (6) any two employers shall be treated as associated if –
+
+- (a) one is a company of which the other (directly or indirectly) has control; or
+- (b) both are companies of which a third person (directly or indirectly) has control;
+
+and “associated employer” shall be construed accordingly.
+
+### 39. Crown employment[^key-a5c86fb5addcf2092d71c63808df220d]
+
+(1) These Regulations have effect in relation to Crown employment and persons in Crown employment as they have effect in relation to other employment and other employees.
+
+(2) In these Regulations “Crown employment” means employment in an undertaking to which these Regulations apply and which is under or for the purposes of a government department or any officer or body exercising on behalf of the Crown functions conferred by a statutory provision.
+
+(3) For the purposes of the application of these Regulations in relation to Crown employment in accordance with paragraph (1) –
+
+- (a) references to an employee shall be construed as references to a person in Crown employment; and
+- (b) references to a contract of employment shall be construed as references to the terms of employment of a person in Crown employment.
+
+### 40. Exception for merchant navy[^key-94d13d8326980eb495020fea3bde46a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Employment and Learning on 23rd February 2005.
+
+T. Devine
+
+A senior officer of the
+
+Department for Employment and Learning
+
+## SCHEDULE 1 — APPLICATION OF REGULATIONS[^key-02cee4327bd46aaeee95aea15c04adb4]
+
+Regulation 3
+
+| Number of employees | Date Regulations apply |
+| --- | --- |
+| At least 150 | 6th April 2005 |
+| At least 100 | 6th April 2007 |
+| At least 50 | 6th April 2008 |
+
+## SCHEDULE 2 — REQUIREMENTS FOR BALLOTS HELD UNDER REGULATION 19
+
+Regulation 19
+
+### 1. Ballot arrangements[^key-b95aaf34123f36fbf1fc49b6c5d9b220]
+
+Ballots held under regulation 19 must comply with the requirements specified in paragraph 2.
+
+### 2.[^key-8675cf2748337986ac3213875ddc2e7f]
+
+The requirements referred to in paragraph 1 are that –
+
+- (a) the ballot must comprise a single ballot but may instead, if the employer so decides, comprise separate ballots of employees in such constituencies as the employer may decide where the employer considers that if separate ballots were to be held for those constituencies, the information and consultation representatives to be elected would better reflect the interests of the employees as a whole than if a single ballot were held;
+- (b) if, at any point, it becomes clear that the number of people standing as candidates in the ballot is equal to or fewer than the relevant number of information and consultation representatives (as defined in regulation 19(3)), the obligation on the employer to hold the ballot in regulation 19 will cease and the candidates referred to above will become the information and consultation representatives;
+- (c) all employees of the undertaking on the day on which the votes may be cast in the ballot, or if the votes may be cast on more than one day, on the first day of those days, must be given an entitlement to vote in the ballot;
+- (d) any employee who is an employee of the undertaking at the latest time at which a person may become a candidate in the ballot is entitled to stand in the ballot as a candidate as an information and consultation representative;
+- (e) the employer must, in accordance with paragraph 6, appoint an independent ballot supervisor to supervise the conduct of the ballot;
+- (f) after the employer has formulated proposals as to the arrangements for the ballot and before he has published the final arrangements under sub-paragraph (g) he must, so far as reasonably practicable, consult with employees' representatives or, if no such representatives exist, the employees, on the proposed arrangements for the ballot; and
+- (g) the employer must publish the final arrangements for the ballot in such manner as to bring them to the attention of, so far as reasonably practicable, his employees and, where they exist, the employees' representatives.
+
+### 3.[^key-0ccd14780a1720bf0e4838ce44520420]
+
+Any employee or an employees' representative who believes that the arrangements for the ballot are defective may, within a period of 21 days beginning on the date on which the employer published the final arrangements under paragraph 2(g), present a complaint to the Industrial Court.
+
+### 4.[^key-d1d5a15962ff3c37e3015ce99ff9577c]
+
+Where the Industrial Court finds the complaint well-founded it shall make a declaration to that effect and may make an order requiring the employer to modify the arrangements he has made for the ballot or to satisfy the requirements in sub-paragraphs (a) to (g) of paragraph 2.
+
+### 5.[^key-292efd35208bcf07059ce79d45ad2f76]
+
+An order under paragraph 4 shall specify the modifications to the arrangements which the employer is required to make and the requirements he must satisfy.
+
+### 6.[^key-060ee3c0e8936c1f81c4b24f2a92f6ee]
+
+A person is an independent ballot supervisor for the purposes of paragraph 2(e) if the employer reasonably believes that he will carry out any functions conferred on him in relation to the ballot competently and has no reasonable grounds for believing that his independence might reasonably be called into question.
+
+### 7.[^key-d5c0eddb6654c9763ae300bac4b513ba]
+
+For the purposes of paragraph 3 the arrangements for the ballot are defective if any of the requirements specified in sub-paragraphs (a) to (g) of paragraph 2 are not satisfied.
+
+### 8. Conduct of the ballot[^key-edb5f5ecb887db07b01d632c4b678c76]
+
+The employer must –
+
+- (a) ensure that a ballot supervisor appointed under paragraph 2(e) carries out his functions under this Schedule and that there is no interference with his carrying out of those functions; and
+- (b) comply with all reasonable requests made by a ballot supervisor for the purposes of or in connection with the carrying out of those functions.
+
+### 9.[^key-0c9b844708681854d01f14d4ad0aee5b]
+
+A ballot supervisor’s appointment shall require that he –
+
+- (a) supervises the conduct of the ballot he is being appointed to supervise, in accordance with the arrangements for the ballot published by the employer under paragraph 2(g) or, where appropriate, in accordance with the arrangements as required to be modified by an order made under paragraph 4;
+- (b) does not conduct the ballot before the employer has satisfied the requirement specified in paragraph 2(g) and –
+  - (i) where no complaint has been presented under paragraph 3, before the expiry of 21 days beginning with the date on which the employer published his arrangements under paragraph 2(g); or
+  - (ii) where a complaint has been presented under paragraph 3, before the complaint has been determined and, where appropriate, the arrangements have been modified as required by an order made as a result of the complaint;
+- (c) conducts the ballot so as to secure that –
+  - (i) so far as reasonably practicable, those entitled to vote are given the opportunity to do so;
+  - (ii) so far as reasonably practicable, those entitled to stand as candidates are given the opportunity to stand;
+  - (iii) so far as reasonably practicable, those voting are able to do so in secret; and
+  - (iv) the votes given in the ballot are fairly and accurately counted.
+
+### 10.[^key-84d6686906b13927a76c7fd4458ecc19]
+
+As soon as reasonably practicable after the date of the ballot, the ballot supervisor must publish the results of the ballot in such manner as to make them available to the employer and, so far as reasonably practicable, the employees entitled to vote in the ballot and the persons who stood as candidates in the ballot.
+
+### 11.[^key-cabdb9441102bdd9a1e995ab052cc2d7]
+
+A ballot supervisor shall publish a report (“an ineffective ballot report”) where he considers (whether or not on the basis of representations made to him by another person) that –
+
+- (a) any of the requirements referred to in paragraph 2 was not satisfied with the result that the outcome of the ballot would have been different; or
+- (b) there was interference with the carrying out of his functions or a failure by the employer to comply with all reasonable requests made by him with the result that he was unable to form a proper judgement as to whether each of the requirements referred to in paragraph 2 was satisfied in the ballot.
+
+### 12.[^key-b115110a31bbca9d21acfd348e9a693b]
+
+Where a ballot supervisor publishes an ineffective ballot report the report must be published within a period of one month commencing on the date on which the ballot supervisor publishes the results of the ballot under paragraph 10.
+
+### 13.[^key-e599db1af039a65f3e619cc2767c4ae6]
+
+A ballot supervisor must publish an ineffective ballot report in such manner as to make it available to the employer and, so far as reasonably practicable, the employees entitled to vote in the ballot and the persons who stood as candidates in the ballot.
+
+### 14.[^key-4e9e8aa797cf1ce86f1346a58f5c268a]
+
+Where a ballot supervisor publishes an ineffective ballot report the outcome of the ballot shall be of no effect and –
+
+- (a) if there has been a single ballot or an ineffective ballot report has been published in respect of every separate ballot, the outcome of the ballot or ballots shall be of no effect and the employer shall again be under the obligation in regulation 19;
+- (b) if there have been separate ballots and sub-paragraph (a) does not apply –
+  - (i) the employer shall arrange for the separate ballot or ballots in respect of which an ineffective ballot report has been issued to be reheld in accordance with regulation 19; and
+  - (ii) no such ballot shall have effect until it has been reheld and no ineffective ballot report has been published in respect of it.
+
+### 15.[^key-1806bea22cf5f23232516b3dcc6ba128]
+
+All costs relating to the holding of the ballot, including payments made to a ballot supervisor for supervising the conduct of the ballot, shall be borne by the employer (whether or not an ineffective ballot report has been made).
+
+(This note is not part of the Regulations.)
+
+These Regulations, made under powers in Section 43 of the Employment Relations Act 2004 implement in Northern Ireland Directive [2002/14/EC](https://www.legislation.gov.uk/european/directive/2002/0014) establishing a general framework for informing and consulting employees in the European Community (“the Information and Consultation Directive”).
+
+The principal provisions of the Regulations provide as follows –
+
+**1.** Regulation 3 sets out the undertakings to which the Regulations apply.
+
+**2.** Regulation 4 provides a method of calculating the number of employees in an undertaking, regulation 5 provides the employees of an undertaking with an entitlement to data to make the calculation in regulation 4 and regulation 6 allows a complaint to be made to the Industrial Court that the employer has failed to provide such data or has supplied false or incomplete data.
+
+**3.** Part III deals with negotiated agreements and, in particular, regulation 7 provides that an employer must start negotiations on receipt of a valid employee request. However, the employer does not have to do so if there exists a pre-existing agreement and the request was made by fewer than 40% of employees. In the latter case the employer can choose to seek employee endorsement for the request and, unless at least 40% of employees in the undertaking and the majority of employees who vote do endorse the request, the employer does not have to start negotiations (regulation 8).
+
+**4.** Regulation 9 allows for combined ballots to be held where there are pre-existing agreements covering groups of undertakings.
+
+**5.** Regulation 10 covers complaints to the Industrial Court about ballots held under regulation 8 or 9.
+
+**6.** Regulation 11 allows for negotiations to be commenced by an employer notification of his intention to start negotiations.
+
+**7.** Regulation 12 contains certain restrictions on when an employee request or an employer notification can be made.
+
+**8.** Regulation 13 allows applications to the Industrial Court that an employee request or an employer notification is invalid.
+
+**9.** Regulation 14 sets out what steps have to be taken to initiate negotiations, including the election or appointment of negotiating representatives and regulation 15 allows a complaint to the Industrial Court in relation to the election or appointment of such representatives.
+
+**10.** Regulation 16 sets out what a negotiated agreement must contain and how it must be approved and regulation 17 provides for a complaint to the Industrial Court about such approval.
+
+**11.** Part IV contains provisions relating to the standard information and consultation provisions. Regulation 18 sets out when they apply, regulation 19 obliges the employer to hold a ballot for the appointment of information and consultation representatives to act under the standard provisions and regulation 20 sets out the employer’s obligations under the standard provisions.
+
+**12.** Regulation 21 places the parties under a duty of co-operation.
+
+**13.** Part VI deals with compliance and enforcement. Regulation 22 provides for complaints to the Industrial Court about the operation of a negotiated agreement or the standard information and consultation provisions and for an application to be made to the High Court for a penalty notice where the Industrial Court finds a failure to comply with the negotiated agreement or the standard provisions by the employer. Regulation 23 deals with penalties under a penalty notice.
+
+**14.** Regulation 24 provides that the only remedies available for infringement of rights under Parts I to VI are the ones under Parts I to VI of the Regulations and not otherwise.
+
+**15.** Part VII deals with confidential information and regulation 25 imposes a statutory duty not to disclose confidential information on anyone to whom such information is given and provides for an application to the Industrial Court to challenge the necessity of information or a document being treated as confidential. Regulation 26 provides that an employer does not have to disclose certain information.
+
+**16.** Part VIII – regulations 27, 28 and 29 provides protection to employees taking part in negotiations, information and consultation procedures or elections including protection against unfair dismissal (regulations 30 and 31) and detriment (regulations 32 and 33). Regulation 34 allows the Labour Relations Agency to conciliate in such disputes.
+
+**17.** Regulation 35 details Industrial Court proceedings on receipt of a complaint and Regulation 36 provides for the Industrial Court to refer a complaint to the Labour Relations Agency where it is of the opinion that it is likely to be settled by conciliation.
+
+**18.** Regulations 37 and 38 place restrictions on contracting out of the rights provided by these Regulations.
+
+**19.** Regulation 39 applies the rights of employees to Crown employees (although the Regulations will only apply if they are employed in an undertaking within the meaning of the Directive) and regulation 40 provides an exception for the merchant navy.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 24](https://www.legislation.gov.uk/ukpga/2004/24)
+
+[^key-5f57b6e0ce7119fb47d1371ceee0f626]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-5132ae0b5bd9a238201def9f5bff9de5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/47/regulation/2) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00003]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
+
+[^key-d57a30bd2925539b4f419943a8ab731b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/2/2) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25/a)
+
+[^f00004]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
+
+[^f00005]: Footnote: O.J. No. L80, 23.3.2002. p. 29
+
+[^key-3fe407fd514232a3a2d10216fbbf3391]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/47/regulation/2) inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [3](https://www.legislation.gov.uk/nisr/2006/86/regulation/3)
+
+[^f00006]: Footnote: S.I. [1999/3323](https://www.legislation.gov.uk/uksi/1999/3323)
+
+[^key-829a572d538b06a7ffa935ab74fbd86d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/2/2) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25/b)
+
+[^key-39f3a2de406f4601d67608eb36198593]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/47/regulation/3) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-c3a12de1d0c6ebf47fae4ecde4f37c89]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2005/47/regulation/3A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/26)
+
+[^key-1453e21037cb3cf467d45a721c8ba7b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/47/regulation/4) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-f4b81e680f810209f352fd7163687acc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/47/regulation/5) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-ea78f61502b60d16924cf76a77abb606]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/47/regulation/6) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-0cc5a8f830e5f3f290e2de6c8cfad7c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/47/regulation/7) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-68aaf2b246e68757f4ffe1ea8143dd61]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/47/regulation/8) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-e5de66c445c94eb4466e92420d6a66ca]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/nisr/2005/47/regulation/8A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/27)
+
+[^key-2f08d706776545f1cc735eb7b1fd3cca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/47/regulation/9) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-348f370522c6f6cfce2785a399e5b73b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/47/regulation/10) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-9d7610530f4a8cd60ec0ee03289abc89]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/47/regulation/11) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-e368230dc65aad78e507dd72f048c3ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/47/regulation/12) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-2957874f216f745fb0e48c23f6b2a375]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/47/regulation/13) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-49b5b44f7b7f879c5cdc926f159fe6aa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/47/regulation/14) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-369e09741809428dc4948edc4c81627c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/47/regulation/15) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-8dc774ae877368c75b3b79738e268fb4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/47/regulation/16) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-34c431d2d1969651332b8a4020dedcfe]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/nisr/2005/47/regulation/16/1/e) omitted (5.12.2011) by virtue of [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28)
+
+[^key-936654bac220eed30e93138805ab468f]: Textual amendment: [Reg. 16(1)(g)](https://www.legislation.gov.uk/nisr/2005/47/regulation/16/1/g) and word inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28)
+
+[^key-c7fbd309eaca36e4814439f66d381d89]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/47/regulation/17) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-6b0308bc367d515538d0432d37bc4aaf]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2005/47/regulation/17A) inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/86/regulation/4)
+
+[^key-2f57b32ef8618be5d249cb1dbe245c0d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/47/regulation/18) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-6122968b0432dd07c5f05becf0704ffd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/47/regulation/19) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-e77c3c1b200d94a32785058c9d13f344]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/47/regulation/20) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-a23418bf61c3cdb3525e77dc76647e38]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/b) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/29)
+
+[^f00007]: Footnote: Articles 216 and 217 were amended by Articles 8, 9 and 10 of the Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations (Northern Ireland) 1999 ([S.R. 1999/432](https://www.legislation.gov.uk/nisr/1999/432))
+
+[^key-86512fce785c70463feb958e06629235]: Textual amendment: Word in [reg. 20(1)(c)(i)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/i) omitted (30.12.2007) by virtue of [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/2/a)
+
+[^key-552a1279524eca1ced8bf3d4180573c7]: Textual amendment: [Reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/ii)[(iii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/iii) substituted for [reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/ii) (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/2/b)
+
+[^key-6ae5b55efb512663876575bcfcc3cb7c]: Textual amendment: Word in [reg. 20(5)(a)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/a) omitted (6.4.2006) by virtue of [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/a)
+
+[^key-8b29476c9b14c79f39f9159bad24416c]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/b) substituted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/3)
+
+[^key-578f6d7e160b0c29f8042314d7aa010f]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/b) inserted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/3)
+
+[^key-8608e9a15e29ece082f923d290ca1c80]: Textual amendment: [Reg. 20(5)(c)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/c) and word inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/b)
+
+[^key-ae83bad830d0b10e76aca7e6ce1d3b6a]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5) substituted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/c)
+
+[^key-db8c0ec99c46b6e5fb22fe24ee607aed]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/47/regulation/21) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-c8d30a53b6ca1427e1117f79a94c4b54]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/47/regulation/22) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-86cb387d036a2dca171d3d4fcf0504a0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/47/regulation/23) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-0c1937fd6c3ecfbea0b3ad1d78efb953]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/47/regulation/24) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-7caa890c1910ad8664635f80b1269f14]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/47/regulation/25) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^f00009]: Footnote: Article 67A of the 1996 Order was inserted by Article 3 of the Public Interest Disclosure (Northern Ireland) Order 1998 (S.I. [1998/1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763))
+
+[^key-271acec2df9db9a9b96dd34bd933ca45]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/47/regulation/26) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-e5cbbbdb2d69885c501b77ffe1885d1d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/47/regulation/27) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-77744c511a16fed716ccc2975f837a6a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/47/regulation/28) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-fa1c02b23b3862d490552f4a10f2df48]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/47/regulation/29) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-5185c7d2d729e8ae69c361a5a81bf97b]: Textual amendment: [Reg. 29(2A)](https://www.legislation.gov.uk/nisr/2005/47/regulation/29/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 30](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/30)
+
+[^key-5ce254c833f8969d9ad40b1b2f4a1d65]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/nisr/2005/47/regulation/29A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/31)
+
+[^key-16ef0e3215387485e2deac1d1dfcf736]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/47/regulation/30) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-79f32975fe747fce0e67793d37f27bc1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/47/regulation/31) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^f00010]: Footnote: Article 137 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed
+
+[^f00011]: Footnote: Article 140(1) was amended by [S.R. 1999 No. 277](https://www.legislation.gov.uk/nisr/1999/277) Article 3
+
+[^f00012]: Footnote: Article 140(3) has been amended on a number of occasions to specify additional cases in which no qualifying period of employment is required
+
+[^f00013]: Footnote: Article 141(2) has been amended on a number of occasions to specify additional cases where the upper age limit does not apply
+
+[^key-e7670f10ab38f919b3b62ca529ae337a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/47/regulation/32) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-bbecc35888ce815d9494c8c984a20cb9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/47/regulation/33) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-dcba298f9ec3f22d8d0f5864217c2213]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/47/regulation/34) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^f00014]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921) Article 20 has been amended on a number of occasions to specify additional proceedings and claims to which the Article applies
+
+[^key-f62ee669f848709d97c2477170718d35]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/47/regulation/35) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-ddd26b20f565020bec898bfa46082fe8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/47/regulation/36) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^f00015]: Footnote: [S.R. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisr/1995/1980)
+
+[^key-607c68ad63eb6cf80a6fa5ca3e520198]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2005/47/regulation/37) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-7aece04005818bb3858b261c4b4140c8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/47/regulation/38) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-88e60920c8a81a32d84880e195cae341]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/38/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 32](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/32)
+
+[^key-a5c86fb5addcf2092d71c63808df220d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/47/regulation/39) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-94d13d8326980eb495020fea3bde46a5]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/47/regulation/40) omitted (26.1.2020) by virtue of [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/12/regulation/4/2)
+
+[^key-02cee4327bd46aaeee95aea15c04adb4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/47/schedule/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-b95aaf34123f36fbf1fc49b6c5d9b220]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-8675cf2748337986ac3213875ddc2e7f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/2) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-0ccd14780a1720bf0e4838ce44520420]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/3) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-d1d5a15962ff3c37e3015ce99ff9577c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/4) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-292efd35208bcf07059ce79d45ad2f76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/5) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-060ee3c0e8936c1f81c4b24f2a92f6ee]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/6) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-d5c0eddb6654c9763ae300bac4b513ba]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/7) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-edb5f5ecb887db07b01d632c4b678c76]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/8) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-0c9b844708681854d01f14d4ad0aee5b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/9) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-84d6686906b13927a76c7fd4458ecc19]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/10) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-cabdb9441102bdd9a1e995ab052cc2d7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/11) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-b115110a31bbca9d21acfd348e9a693b]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/12) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-e599db1af039a65f3e619cc2767c4ae6]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/13) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-4e9e8aa797cf1ce86f1346a58f5c268a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/14) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+
+[^key-1806bea22cf5f23232516b3dcc6ba128]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/15) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)

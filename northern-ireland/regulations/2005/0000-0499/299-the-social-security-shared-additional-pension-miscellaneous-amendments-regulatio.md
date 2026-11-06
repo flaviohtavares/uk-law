@@ -1,0 +1,323 @@
+---
+title: The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005
+id: nisr/2005/299
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-06-15'
+text_date: '2011-04-05'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/299
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/299/pdfs/nisr_20050299_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/299/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005
+
+> Text as at 2011-04-05.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 299
+
+SOCIAL SECURITY
+
+The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005
+
+Made
+
+15th June 2005
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by sections 54(1), 113(1), and 171(3) of, and paragraphs 1, 3 and 5 of Schedule 5A to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 1(1), 5(1)(a) to (c) and (g), 69(6), 71(1) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-4e2767449e2e54c6f5054cdd5139245c]
+
+(1) These Regulations may be cited as the Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 and shall come into operation on 6th July 2005 except for regulation 2(8) and (10) which shall come into operation on 6th April 2006.
+
+(2) In these Regulations –
+
+- “shared additional pension” means a shared additional pension under section 55A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00004].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^key-5a305ee2dca35a3965987472a60b64f9][^key-145d2961cb85c507c22d36da390ae977]
+
+(1)[^key-5a305ee2dca35a3965987472a60b64f9] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) to (11).
+
+(2)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 2(1) (interpretation) –
+
+- (a)[^M_F_85cbd8da-60a9-4b0c-8851-5ae59ff0b337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in the definition of “long term benefits”[^f00008] after “retirement pension,” there shall be inserted “a shared additional pension,”; and
+- (c) immediately before the definition of “state pension credit”[^f00009] there shall be inserted the following definition –
+
+  > - “shared additional pension” means a shared additional pension under section 55A of the Contributions and Benefits Act;
+
+  .
+
+(3)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 3 (claims not required for entitlement to benefit in certain cases) after paragraph (h)[^f00010] there shall be added the following paragraph –
+
+> - (i) in the case of a shared additional pension where the beneficiary is in receipt of a retirement pension of any category.
+
+.
+
+(4)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 4 (making a claim for benefit) –
+
+- (a) in paragraph (6A)[^f00011] –
+  - (i) in sub-paragraph (a)(ii) after “category” there shall be inserted “or a shared additional pension”, and
+  - (ii) in sub-paragraph (b) after “retirement pension” there shall be inserted “or a shared additional pension”; and
+- (b) in paragraph (11)[^f00012] after “graduated retirement benefit” there shall be inserted “, a shared additional pension”.
+
+(5)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 13(3)[^f00013] (advance claims and awards) after “increase of retirement pension,” there shall be inserted “a shared additional pension,”.
+
+(6)[^key-5a305ee2dca35a3965987472a60b64f9] In regulation 15(1) (advance notice of retirement and claim for and award of pension) after “increase in any such pension,” there shall be inserted “or a shared additional pension,”.
+
+(7)[^key-5a305ee2dca35a3965987472a60b64f9] For regulation 15B[^f00014] (advance claim for pension following deferment) there shall be substituted –
+
+> **15B. Advance claim for pension following deferment**
+>
+> Where a person’s entitlement to a Category A or Category B retirement pension or a shared additional pension is deferred in accordance with section 55(3) (pension increase or lump sum where entitlement to retirement pension is deferred) or section 55C(3) (pension increase or lump sum where entitlement to shared additional pension is deferred) of the Contributions and Benefits Act[^f00015] (as the case may be) a claim for –
+>
+> - (a) a Category A or Category B retirement pension;
+> - (b) any increase in that pension; and
+> - (c) a shared additional pension,
+>
+> may be made at any time not more than 4 months before the date on which the period of deferment, within the meaning of section 55(3) or section 55C(3) (as the case may be), ends.
+
+.
+
+(8)[^key-95199f2bacc46f9a8272d20856e0b7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-5a305ee2dca35a3965987472a60b64f9] In Schedule 1, in the Table in Part I[^f00017] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) where “A retirement pension of any category” appears in column (1) (benefit claimed), in the corresponding paragraph in column (2) (alternative benefit), after “any other category” there shall be inserted “, a shared additional pension”.
+
+(10)[^key-145d2961cb85c507c22d36da390ae977] In Schedule 4 (prescribed times for claiming benefit), after paragraph 14[^f00018] there shall be added the following paragraph –
+
+> |  |  |
+> | --- | --- |
+> | **15.** Shared additional pension. | As regards any day on which, apart from satisfying the condition of making a claim, the claimant is entitled to the pension, that day and the period of 12 months immediately following it. |
+
+.
+
+(11) In Schedule 6 (days for payment of long term benefits) after paragraph 5 there shall be inserted the following paragraph –
+
+> **5A. Shared additional pension**
+>
+> Shared additional pension shall be payable on Mondays, except that –
+>
+> - (a) where a retirement pension is payable to the claimant, it shall be payable on the same day as the retirement pension; or
+> - (b) the Department may, notwithstanding the provisions of sub-paragraph (a), arrange for a shared additional pension to be payable on such other day of the week as it may, in the circumstances of any particular case, determine.
+
+.
+
+## 3. Amendment of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^key-75ad9fc11e1efbee46541929d7beb083]
+
+(1) The Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00019] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation) immediately before the definition of “the Widow’s Benefit and Retirement Pensions Regulations”[^f00020] there shall be inserted the following definition –
+
+> - “shared additional pension” means a shared additional pension under section 55A of the Contributions and Benefits Act;
+
+.
+
+(3) In regulation 4(1)[^f00021] (modification of the Act etc.) after “retirement pension of any category” there shall be inserted “, a shared additional pension”.
+
+(4) In regulation 5(3)(c)[^f00022] (application of disqualification in respect of up-rating of benefit) –
+
+- (a) after “retirement pension of any category” there shall be inserted “, any additional shared additional pension”; and
+- (b) after “entitled to a retirement pension” there shall be inserted “, a shared additional pension”.
+
+## 4. Amendment of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^key-b677c573e28e249e305890b6cf911f6b]
+
+In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00023] (interpretation) –
+
+- (a) in the definition of “personal benefit”[^f00024] after “pension or allowance” there shall be inserted “, except a shared additional pension,”; and
+- (b) immediately before the definition of “training allowance” there shall be inserted the following definition –
+
+  > - “shared additional pension” means a shared additional pension under section 55A of the Contributions and Benefits Act;
+
+  .
+
+## 5. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^key-43c7314b54723463bca3d517adba31f1]
+
+(1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00025] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation) immediately before the definition of “1914-1918 War Injuries Scheme” there shall be inserted the following definition –
+
+> - “shared additional pension” means a shared additional pension under section 55A of the Contributions and Benefits Act;
+
+.
+
+(3) In regulation 2(1)(a)[^f00026] (election to be treated as not having retired) after “retirement pension” there shall be inserted “or a shared additional pension”.
+
+(4) In regulation 3(a)[^f00027] (provisions applying after election) after “retirement pension”, where it appears the first time and the third time, there shall be inserted “or a shared additional pension”.
+
+(5) In regulation 4 (days to be treated as days of increment) after paragraph (3) there shall be added the following paragraph –
+
+> (4) For the purposes of paragraph 3 of Schedule 5A to the Contributions and Benefits Act a day shall be treated as a day of increment in relation to any person if it is a day in that person’s period of deferment, other than a Sunday, in respect of which if that person had not deferred his entitlement to a shared additional pension he would have been entitled to it (and would not have been disqualified from receiving it by reason of imprisonment or detention in legal custody).
+
+.
+
+## 6. Amendment of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^key-553495c1717d3d63556718025c6333bb]
+
+(1) The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00028] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation) immediately before the definition of “standard rate of increase” there shall be inserted the following definition –
+
+> - “shared additional pension” means a shared additional pension under section 55A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+.
+
+(3) In regulation 2(2)[^f00029] (exceptions from disqualification for imprisonment etc.) after “maternity allowance,” there shall be inserted “a shared additional pension,”.
+
+## 7. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^key-58a2af6e855bd89ad37eaff3f07fe9e1]
+
+In regulation 5(2) of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00030] (offsetting prior payments against subsequent award), in Case 1 (payment pursuant to a decision which is revised, superseded or overturned on appeal) after “benefit” there shall be inserted “or by way of a shared additional pension under section 55A of the Contributions and Benefits Act”.
+
+## 8. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^key-16f38571ea70549fae3007771b16a045]
+
+(1) The Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^f00031] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation) after the definition of “retirement pension” there shall be added the following definition –
+
+> - “shared additional pension” means a shared additional pension under section 55A of the Contributions and Benefits Act.
+
+.
+
+(3)[^key-615801fbd756c79105ed967cc25b75c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 3 (amount of retirement pension not included in the calculation of the lump sum) –
+
+- (a) in sub-paragraph (1)(a)(i) after “disability living allowance” there shall be inserted “, a shared additional pension”;
+- (b) after paragraph (1) there shall be inserted the following paragraph –
+
+  > (1A) For the purposes of the calculation of the lump sum under paragraph 5 of Schedule 5A to the Act, the amount of a shared additional pension to which a person (“the deferrer”) would have been entitled for the accrual period if his entitlement had not been deferred shall not include any such pension where, for the entire accrual period, the deferrer would have been disqualified for receiving shared additional pension by reason of imprisonment or detention in legal custody.
+
+  ;
+- (c) in paragraph (3) –
+  - (i) after “paragraph (1)(d)” there shall be inserted “or a shared additional pension as specified in paragraph (1A)”, and
+  - (ii) after “paragraph (1)” there shall be inserted “or a shared additional pension not included by paragraph (1A)”, and
+- (d) in paragraph (8) after “retirement pension” insert “or a shared additional pension”.
+
+## 9. Transitional provisions[^key-d5664994a6b812018a4c8129a0932716]
+
+(1) Subject to paragraph (2) a claim for a shared additional pension made during the period from 6th April 2005 to 5th April 2006 in respect of any day in the period from 6th April 2005 to 5th April 2006 shall be treated as made on that day if on that day, apart from satisfying the condition of making a claim, the claimant satisfies the other conditions of entitlement for that pension.
+
+(2) Where a claim for a shared additional pension is made in accordance with regulation 30(5)[^f00033] of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (payments on death), the prescribed time shall be the period of 3 months ending on the date of the deceased’s death and beginning on and including any day on which, apart from satisfying the condition of making a claim, he would have been entitled to the pension.
+
+Sealed with the Official Seal of the Department for Social Development on 15th June 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for claiming and paying Shared Additional Pension.
+
+Regulation 2 amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)) in relation to claims for and payment of shared additional pension.
+
+Regulations 3 to 8 harmonise various regulations to align the rules for claiming and paying Shared Additional Pension with those relating to Retirement Pension and Graduated Retirement Benefit.
+
+Regulation 9 makes transitional provisions.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 54(1) was amended by paragraph 6 of Schedule 2 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and paragraph 12 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)). Schedule 5A was inserted by paragraph 14 of Schedule 9 to the Pensions (Northern Ireland) Order 2005 (S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 71(1) was amended by paragraph 32(2) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)). Section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-4e2767449e2e54c6f5054cdd5139245c]: Commencement: Reg. 1 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00004]: Footnote: Section 55A was inserted by paragraph 3 of Schedule 6 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-5a305ee2dca35a3965987472a60b64f9]: Commencement: Reg. 2(1)-(7) (9) in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^key-145d2961cb85c507c22d36da390ae977]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/8)[(10)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/10) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7) and [83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345) and [456](https://www.legislation.gov.uk/nisr/1994/456), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 Nos. 365](https://www.legislation.gov.uk/nisr/1999/365) and [381](https://www.legislation.gov.uk/nisr/1999/381), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [317](https://www.legislation.gov.uk/nisr/2003/317) and [S.R. 2005 Nos. 14](https://www.legislation.gov.uk/nisr/2005/14) and [122](https://www.legislation.gov.uk/nisr/2005/122)
+
+[^M_F_85cbd8da-60a9-4b0c-8851-5ae59ff0b337]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/2/a) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/286/schedule/2)
+
+[^f00008]: Footnote: The definition of “long term benefits” was amended by regulation 2 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), regulation 2(2) of [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365), regulation 10(2)(b) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108) and paragraph 1(i) of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323)
+
+[^f00009]: Footnote: The definition of “state pension credit” was inserted by regulation 3(a)(v) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00010]: Footnote: Paragraph (h) was added by regulation 5 of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
+
+[^f00011]: Footnote: Paragraph (6A) was inserted by regulation 2(2)(b) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317)
+
+[^f00012]: Footnote: Paragraph (11) was added by regulation 2(2)(b) of [S.R. 2005 No. 14](https://www.legislation.gov.uk/nisr/2005/14)
+
+[^f00013]: Footnote: Paragraph (3) was amended by regulation 6 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), regulation 2(3)(a) of [S.R. 1994 No. 345](https://www.legislation.gov.uk/nisr/1994/345) and regulation 6(1) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00014]: Footnote: Regulation 15B was inserted by regulation 2(2) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122)
+
+[^f00015]: Footnote: Sections 55 and 55C were substituted by Article 273(1) and (2) of the Pensions (Northern Ireland) Order 2005
+
+[^key-95199f2bacc46f9a8272d20856e0b7e9]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/299/regulation/2/8) revoked (6.4.2006) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2005/541/regulation/5)
+
+[^f00017]: Footnote: The Table in Part I was substituted by Schedule 1 to [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456)
+
+[^f00018]: Footnote: Paragraphs 13 and 14 were added by regulation 2(5) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122)
+
+[^key-75ad9fc11e1efbee46541929d7beb083]: Commencement: Reg. 3 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending regulations are [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^f00020]: Footnote: The definition of “the Widow’s Benefit and Retirement Pensions Regulations” was substituted by regulation 2 of [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392)
+
+[^f00021]: Footnote: Regulation 4(1) was amended by regulation 2 of [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330) and regulation 6(3) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^f00022]: Footnote: Regulation 5(3)(c) was amended by regulation 6(3)(a)(ii) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and regulation 3 of [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330)
+
+[^key-b677c573e28e249e305890b6cf911f6b]: Commencement: Reg. 4 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00023]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^f00024]: Footnote: The definition of “personal benefit” was amended by regulation 2(a) of [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451) and regulation 11(2)(c) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^key-43c7314b54723463bca3d517adba31f1]: Commencement: Reg. 5 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00025]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); relevant amending regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
+
+[^f00026]: Footnote: Regulation 2(1)(a) was amended by regulation 8(3) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and regulation 4(3)(a) of [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
+
+[^f00027]: Footnote: Regulation 3(a) was amended by regulation 8(4)(a) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
+
+[^key-553495c1717d3d63556718025c6333bb]: Commencement: Reg. 6 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00028]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^f00029]: Footnote: Paragraph (2) was amended by Schedule 2 to [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), regulation 7(3) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 16 of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), regulation 2(a) of [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57) and regulation 9(3) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^key-58a2af6e855bd89ad37eaff3f07fe9e1]: Commencement: Reg. 7 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00030]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); regulation 5(2) was amended by article 11(4) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
+
+[^key-16f38571ea70549fae3007771b16a045]: Commencement: Reg. 8 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00031]: Footnote: [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
+
+[^key-615801fbd756c79105ed967cc25b75c6]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/3) revoked (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2011/109/regulation/4)
+
+[^key-d5664994a6b812018a4c8129a0932716]: Commencement: Reg. 9 in operation at 6.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1)
+
+[^f00033]: Footnote: Regulation 30(5) was amended by regulation 2(4)(a) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122)

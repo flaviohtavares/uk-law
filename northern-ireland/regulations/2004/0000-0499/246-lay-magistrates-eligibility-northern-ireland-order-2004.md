@@ -1,0 +1,212 @@
+---
+title: Lay Magistrates (Eligibility) (Northern Ireland) Order 2004
+id: nisr/2004/246
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-05-24'
+text_date: '2016-10-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/246
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/246/pdfs/nisr_20040246_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/246/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Lay Magistrates (Eligibility) (Northern Ireland) Order 2004
+
+> Text as at 2016-10-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 246
+
+JUSTICE
+
+Lay Magistrates (Eligibility) (Northern Ireland) Order 2004
+
+Made
+
+24th May 2004
+
+Coming into operation in accordance with Article 1(1) of this Order
+
+The Lord Chancellor, in exercise of the powers conferred on him by sections 9(4), (5) and (6) of the Justice (Northern Ireland) Act 2002[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order, a draft of which has been approved by each House of Parliament:
+
+## 1. Title, commencement and interpretation[^key-98c29777d720f3393501e61d5768aec2]
+
+(1) This Order may be cited as the Lay Magistrates (Eligibility) (Northern Ireland) Order 2004 and shall come into operation on the same day as section 9(1) of the Justice (Northern Ireland) Act 2002 comes into force.
+
+(2) In this Order –
+
+- “close relative” means, in relation to a particular person, the father, father-in-law, mother, mother-in-law, son, son-in-law, daughter, daughter-in-law, brother, brother-in-law, sister, sister-in-law or step child of that person and any such relative of a person who is a partner of that person; and
+- “partner” means, in relation to a particular person, another person (whether of a different sex or the same sex) who is not a close relative, but with whom that person is living in an enduring family relationship.
+
+## 2. Eligibility of persons for appointment as Lay Magistrates[^key-37800a7426100c8feea0ffe929cb804f]
+
+Unless the Lord Chancellor otherwise determines in the case of a particular person, no person shall be appointed to be a Lay Magistrate –
+
+- (a) if he does not reside or work in, or within 15 miles of, the administrative[^key-e91f5ae505f6925b051b3ec5e52b44b9] court division to which the appointment relates;
+- (b) if he is a member of –
+  - (i) the House of Commons or the House of Lords,
+  - (ii) the European Parliament,
+  - (iii) the Scottish Parliament,
+  - (iv) the National Assembly for Wales,
+  - (v) the Northern Ireland Assembly, or
+  - (vi) either House of the Irish Parliament;
+- (c) if he has been selected (whether formally or informally) as a prospective candidate for election to any such House, Parliament or Assembly;
+- (d) if he is employed as a paid agent of a political party seeking representation in any such House, Parliament or Assembly;
+- (e) if he is –
+  - (i) a member of the Police Service of Northern Ireland[^f00002],
+  - (ii) a member of the Police Service of Northern Ireland Reserve[^f00003],
+  - (iii) a member of the Northern Ireland Policing Board[^f00004],
+  - (iv) an employee of the Northern Ireland Policing Board,
+  - (v) the Police Ombudsman for Northern Ireland[^f00005],
+  - (vi) an employee of the Police Ombudsman for Northern Ireland,
+  - (vii)[^key-cb7a6a6d27366536a34efdecdb3a8280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^key-cb7a6a6d27366536a34efdecdb3a8280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ix) the Director, or deputy Director of Public Prosecutions for Northern Ireland[^f00007],
+  - (x) a member of staff of the Director of Public Prosecutions for Northern Ireland,
+  - (xi) a member of Her Majesty’s Regular Armed Forces,
+  - (xii) a member of staff of the Northern Ireland Prison Service,
+  - (xiii) a member of staff of the Youth Justice Agency,
+  - (xiv) a member of the Probation Board for Northern Ireland[^f00008],
+  - (xv) a member of staff of the Probation Board for Northern Ireland,
+  - (xvi) a practising barrister or solicitor,
+  - (xvii) a member of the panel of guardians ad litem appointed under the Guardians Ad Litem (Panel) Regulations (Northern Ireland) 1996[^f00009];
+  - (xviii)[^key-06a2bc5c699f3e563a7d76c0502380f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xix)[^key-95597bdff52538018a92a07deb31f7ac] the Director General of the National Crime Agency,
+  - (xx)[^key-cf8a714259320a7e20c0bd7d4398da7e] a National Crime Agency officer;
+- (f) if he is the spouse or partner of –
+  - (i) a member of the Police Service of Northern Ireland,
+  - (ii) a member of the Police Service of Northern Ireland Reserve,
+  - (iii) a member of the Northern Ireland Policing Board,
+  - (iv) an employee of the Northern Ireland Policing Board,
+  - (v) the Police Ombudsman for Northern Ireland,
+  - (vi) an employee of the Police Ombudsman for Northern Ireland,
+  - (vii)[^key-65093a374fa7ba5c6ef547cf9771d978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^key-65093a374fa7ba5c6ef547cf9771d978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ix) the Director, or deputy Director of Public Prosecutions for Northern Ireland,
+  - (x) a member of staff of the Director of Public Prosecutions for Northern Ireland,
+  - (xi) a member of Her Majesty’s Regular Armed Forces,
+  - (xii) a member of staff of the Northern Ireland Prison Service,
+  - (xiii) a member of staff of the Youth Justice Agency,
+  - (xiv) a member of the Probation Board for Northern Ireland,
+  - (xv) a member of the panel of guardians ad litem appointed under the Guardians Ad Litem (Panel) Regulations (Northern Ireland) 1996;
+  - (xvi)[^key-5ab05139708b87eba4a976525a976909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xvii)[^key-ad0c313091d27c20ddbd6d39d31529ad] the Director General of the National Crime Agency,
+  - (xviii)[^key-05b5c3b275e5e02d531a43c8937e51d5] a National Crime Agency officer;
+- (g) if he is a close relative of –
+  - (i) the Police Ombudsman for Northern Ireland,
+  - (ii)[^key-a9446176f725bc4d0611fc4828969466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the Director, or deputy Director of Public Prosecutions for Northern Ireland;
+  - (iv)[^key-c66e9685d6929a60efa91d14fe038e35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^key-3ac22aa832fd1b0fcb1d20d6aa0ed3b2] the Director General of the National Crime Agency;
+  - (vi)[^key-c1bfef43bcaca20c578d2823cee615e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) if he, his spouse or partner is a former –
+  - (i) member of the Police Service of Northern Ireland,
+  - (ii) member of the Police Service of Northern Ireland Reserve,
+  - (iii) member of the Northern Ireland Policing Board,
+  - (iv) Police Ombudsman for Northern Ireland,
+  - (v) Director of the Assets Recovery Agency,
+  - (vi) member of staff of the Assets Recovery Agency (including its deputy Director and assistant Director),
+  - (vii) Director, or deputy Director of Public Prosecutions for Northern Ireland,
+  - (viii) member of staff of the Director of Public Prosecutions for Northern Ireland,
+  - (ix) member of staff of the Northern Ireland Prison Service,
+  - (x) member of staff of the Youth Justice Agency,
+  - (xi)[^key-34122d36aed5e375017312e078bb87b7] a member of the Board of the Serious Organised Crime Agency,
+  - (xii) the Director General of the Serious Organised Crime Agency,
+  - (xiii) a member of staff of the Serious Organised Crime Agency.
+  - (xiv)[^key-8ebf843eea238baff3a507f89a67a64d] the Director General of the National Crime Agency;
+  - (xv) a National Crime Agency officer;
+
+  unless a period of more than two years has elapsed since that person ceased to hold such an office or have such an occupation;
+- (i)[^key-c8b9c2380fe79217d9aca648f64c3d5c] if he is an undischarged bankrupt or his estate has been sequestrated and he has not been discharged or he is a person in relation to whom a moratorium period under a debt relief order applies[^key-5b713d4f774ab9b807ee8941392f0a12] or he has made a composition or arrangement with, or granted a trust deed for, his creditors;
+- (ia)[^key-412de790639cc75e3f194ab74621a051] if he is the subject of a bankruptcy restrictions order under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986 or he is the subject of a debt relief restrictions order under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986[^key-efb8b53b5efd8d90620d2165163937ff]; or
+- (j) if he has been convicted of an offence punishable by a term of imprisonment.
+
+Falconer of Thoroton, *C.*
+
+Dated 24th May 2004.
+
+(This note is not part of the Order.)
+
+This Order provides that, unless the Lord Chancellor otherwise determines in the case of a particular person, a person will not be eligible for appointment as a Lay Magistrate under section 9(1) of the Justice (Northern Ireland) Act 2002 if –
+
+(1) he does not reside or work in (or within 15 miles of) the county court division to which the appointment relates (Article 2(a));
+
+(2) he is the holder of a specified office or has a specified occupation (Article 2(b) – (e));
+
+(3) certain persons related to or connected with him hold a specified office or have a specified occupation (Article 2(f) and (g));
+
+(4) he or certain persons related to or connected with him have held a specified office or specified occupation in a preceding two year period (Article 2(h));
+
+(5) a bankruptcy order has been made against him or his estate has been sequestrated or he has made a composition or arrangement with, or granted a trust deed for, his creditors (Article 2(i)); or
+
+(6) he has been convicted of an offence punishable by a term of imprisonment (Article 2(j)).
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
+
+[^key-98c29777d720f3393501e61d5768aec2]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/246/article/1) in operation at 1.9.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/246/article/1/1)
+
+[^key-37800a7426100c8feea0ffe929cb804f]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/246/article/2) in operation at 1.9.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/246/article/1/1)
+
+[^key-e91f5ae505f6925b051b3ec5e52b44b9]: Textual amendment: Word in [art. 2(a)](https://www.legislation.gov.uk/nisr/2004/246/article/2/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 128](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/128) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k)
+
+[^f00002]: Footnote: Section 1(1) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^f00003]: Footnote: Section 1(3) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^f00004]: Footnote: Section 2 of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^f00005]: Footnote: Section 51 of the Police (Northern Ireland) Act [1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^key-cb7a6a6d27366536a34efdecdb3a8280]: Textual amendment: [Art. 2(e)(vii)(viii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/e/vii/viii) revoked (1.4.2008) by [The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/8/2/a)
+
+[^f00007]: Footnote: Article 4 of the Prosecution of Offences (Northern Ireland) Order 1972 (S.I. [1972/538 (N.I. 1)](https://www.legislation.gov.uk/nisi/1972/538))
+
+[^f00008]: Footnote: Article 3 of the Probation Board (Northern Ireland) Order 1982 (S.I. [1982/713 (N.I. 10)](https://www.legislation.gov.uk/nisi/1982/713))
+
+[^f00009]: Footnote: Regulation 4 of the Guardians Ad Litem (Panel) Regulation (Northern Ireland) 1996 ([S.R. 1996 No. 128](https://www.legislation.gov.uk/nisr/1996/128))
+
+[^key-06a2bc5c699f3e563a7d76c0502380f6]: Textual amendment: [Art. 2(e)(xviii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/e/xviii) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(2)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/2/a)
+
+[^key-95597bdff52538018a92a07deb31f7ac]: Textual amendment: [Art. 2(e)(xix)](https://www.legislation.gov.uk/nisr/2004/246/article/2/e/xix) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(2)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/2/b)
+
+[^key-cf8a714259320a7e20c0bd7d4398da7e]: Textual amendment: [Art. 2(e)(xx)](https://www.legislation.gov.uk/nisr/2004/246/article/2/e/xx) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(2)(c)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/2/c)
+
+[^key-65093a374fa7ba5c6ef547cf9771d978]: Textual amendment: [Art. 2(f)(vii)(viii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/f/vii/viii) revoked (1.4.2008) by [The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1), [Sch. para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/8/3/a)
+
+[^key-5ab05139708b87eba4a976525a976909]: Textual amendment: [Art. 2(f)(xvi)](https://www.legislation.gov.uk/nisr/2004/246/article/2/f/xvi) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(3)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/3/a)
+
+[^key-ad0c313091d27c20ddbd6d39d31529ad]: Textual amendment: [Art. 2(f)(xvii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/f/xvii) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(3)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/3/b)
+
+[^key-05b5c3b275e5e02d531a43c8937e51d5]: Textual amendment: [Art. 2(f)(xviii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/f/xviii) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(3)(c)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/3/c)
+
+[^key-a9446176f725bc4d0611fc4828969466]: Textual amendment: [Art. 2(g)(ii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/g/ii) revoked (1.4.2008) by [The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1), [Sch. para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/8/4/a)
+
+[^key-c66e9685d6929a60efa91d14fe038e35]: Textual amendment: [Art. 2(g)(iv)](https://www.legislation.gov.uk/nisr/2004/246/article/2/g/iv) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(4)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/4/a)
+
+[^key-3ac22aa832fd1b0fcb1d20d6aa0ed3b2]: Textual amendment: [Art. 2(g)(v)](https://www.legislation.gov.uk/nisr/2004/246/article/2/g/v) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(4)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/4/b)
+
+[^key-c1bfef43bcaca20c578d2823cee615e0]: Textual amendment: [Art. 2(g)(vi)](https://www.legislation.gov.uk/nisr/2004/246/article/2/g/vi) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(4)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/4/a)
+
+[^key-34122d36aed5e375017312e078bb87b7]: Textual amendment: [Art. 2(h)(xi)-(xiii)](https://www.legislation.gov.uk/nisr/2004/246/article/2/h/xi/xiii) inserted (1.4.2008) by [The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 (S.I. 2008/574)](https://www.legislation.gov.uk/uksi/2008/574), [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2008/574/schedule/paragraph/8/5)
+
+[^key-8ebf843eea238baff3a507f89a67a64d]: Textual amendment: [Art. 2(h)(xiv)](https://www.legislation.gov.uk/nisr/2004/246/article/2/h/xiv)[(xv)](https://www.legislation.gov.uk/nisr/2004/246/article/2/h/xv) inserted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 47(5)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/47/5)
+
+[^key-c8b9c2380fe79217d9aca648f64c3d5c]: Textual amendment: [Art. 2(i)](https://www.legislation.gov.uk/nisr/2004/246/article/2/i) substituted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 32(2)(a)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/32/2/a)
+
+[^key-5b713d4f774ab9b807ee8941392f0a12]: Textual amendment: Words in [art. 2(i)](https://www.legislation.gov.uk/nisr/2004/246/article/2/i) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 39(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/39/a)
+
+[^key-412de790639cc75e3f194ab74621a051]: Textual amendment: [Art. 2(ia)](https://www.legislation.gov.uk/nisr/2004/246/article/2/ia) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 32(2)(b)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/32/2/b)
+
+[^key-efb8b53b5efd8d90620d2165163937ff]: Textual amendment: Words in [art. 2(ia)](https://www.legislation.gov.uk/nisr/2004/246/article/2/ia) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 39(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/39/b)

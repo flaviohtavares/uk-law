@@ -1,0 +1,110 @@
+---
+title: The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2000
+id: nisr/2000/244
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-07-26'
+text_date: '2005-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/244
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/244/pdfs/nisr_20000244_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/244/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2000
+
+> Text as at 2005-08-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 244
+
+EDUCATION
+
+The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2000
+
+Made
+
+26th July 2000
+
+Coming into operation
+
+1st August 2000
+
+The Department of Higher and Further Education, Training and Employment in exercise of the powers conferred by Article 3(2) of and paragraphs 1(1) of Schedule 2, to the Education (Student Loans) (Northern Ireland) Order 1990[^f00001], and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-7b2187a2810de9edd2c3409e44e27612]
+
+These Regulations may be cited as the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 1st August 2000.
+
+## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^key-8f6a766d68fdcdbd28bb1bd0eaa3b46c]
+
+(1) The Education (Student Loans) Regulations (Northern Ireland) 1998[^f00003] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 3(1) there shall be inserted in the appropriate place the following definition—
+
+> - “metropolitan police district” means the areas referred to in section 76(1) of the London Government Act 1963([^f00004] as it had effect prior to its amendment by section 323 of the Greater London Authority Act 1999([^f00005]
+
+.
+
+(3) At the end of regulation 3(4) there shall be added the following sentence—
+
+> - Without prejudice to the foregoing, members of the regular naval, military or air forces of the Crown shall be treated as being temporarily employed within the meaning of this paragraph for any period during which they serve outside the United Kingdom and Islands as members of such forces.
+
+.
+
+(4)[^key-c3ea24d892f026c31a4cd0e6efcb1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In Schedule 1 for paragraph 3(*a*) there shall be substituted—
+
+> - (a)
+>   - (i) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to enter or remain in the United Kingdom, or
+>   - (ii) before 1st July 1993 applied to the Secretary of State for the Home Department for recognition as a refugee and who has been informed by a person acting under the authority of the Secretary of State for the Home Department that it is thought right to allow him to enter or remain in the United Kingdom,
+
+.
+
+Sealed with the Official Seal of the Department of Higher and Further Education, Training and Employment on 26th July 2000.
+
+Robson Davison
+
+A senior officer of the
+
+Department of Higher and Further Education, Training and Employment
+
+(This note is not part of the Regulations.)
+
+These Regulations, which come into operation on 1st August 2000, amend the Education (Student Loans) Regulations (Northern Ireland) 1998 (“the principal Regulations”). The principal Regulations govern loans made under the Education (Student Loans) (Northern Ireland) Order 1990, which are mortgage style repayment loans. Such loans are for the most part made to students who began their courses before 1st August 1998. Loans under the Student Support (Northern Ireland) Order 1998, repayable through the tax system, are made to students beginning their courses on or after 1st August 1998.
+
+The definition of “metropolitan police district” is amended so as to refer to the boundaries as they were prior to their amendment by the Greater London Authority Act 1999 (regulation 2(2)).
+
+Regulation 3(4) is amended so as to provide expressly that members of the regular armed forces are treated as falling within the temporary employment abroad exemption from the residence conditions in paragraph 7 of Schedule 1 to the principal Regulations (regulation 2(3)).
+
+These amending Regulations also increase the maximum amounts which may be lent in relation to an academic year in line with inflation (regulation 2(4)).
+
+Paragraph 3 of Schedule 1 has been amended to reflect new Home Office procedures in relation to refugees (regulation 2(5)).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); as amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), Article 43 and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), Article 3 and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), Articles 3 to 6
+
+[^f00002]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 5(*b*) and Schedule 3 Part II
+
+[^key-7b2187a2810de9edd2c3409e44e27612]: Commencement: Reg. 1 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/244/regulation/1)
+
+[^key-8f6a766d68fdcdbd28bb1bd0eaa3b46c]: Commencement: Reg. 2 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/244/regulation/1)
+
+[^f00003]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303) and by [S.R. 1999 No 343](https://www.legislation.gov.uk/nisr/1999/343)
+
+[^f00004]: Footnote: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33); section 76 was amended by the Local Authorities etc. (Miscellaneous Provisions) Order 1974 ([S.I. 1974/482](https://www.legislation.gov.uk/uksi/1974/482)), Article 11
+
+[^f00005]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29)
+
+[^key-c3ea24d892f026c31a4cd0e6efcb1d44]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2000/244/regulation/2/4) revoked (1.8.2005) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/351)](https://www.legislation.gov.uk/nisr/2005/351), [regs. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/351/regulation/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/351/schedule/1)

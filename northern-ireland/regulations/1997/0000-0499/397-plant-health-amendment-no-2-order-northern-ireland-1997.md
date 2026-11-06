@@ -1,0 +1,83 @@
+---
+title: Plant Health (Amendment No. 2) Order (Northern Ireland) 1997
+id: nisr/1997/397
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '1997-08-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1997/397
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/397/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Plant Health (Amendment No. 2) Order (Northern Ireland) 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 397
+
+PLANT HEALTH
+
+Plant Health (Amendment No. 2) Order (Northern Ireland) 1997
+
+Made
+
+29th August 1997
+
+Coming into operation
+
+6th October 1997
+
+The Department of Agriculture, in exercise of the powers conferred on it by sections 2[^f00001], 3(1)[^f00002], 3A[^f00003], 3B(1)[^f00004] and 4(1)[^f00005] of the Plant Health Act (Northern Ireland) 1967[^f00006] and of all powers enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Plant Health (Amendment No. 2) Order (Northern Ireland) 1997 and shall come into operation on 6th October 1997.
+
+## 2. Amendment of the Plant Health Order (Northern Ireland) 1993
+
+The Plant Health Order (Northern Ireland) 1993[^f00007] shall be amended in accordance with Articles 3 and 4.
+
+**3.** In Schedule 3, Part A, item 7, there shall be inserted in the second column after the words “third countries other than:” the word “Algeria”.
+
+**4.** In Schedule 14[^f00008] at the end there shall be added the following—
+
+> - Commission Directive [97/14/EC](https://www.legislation.gov.uk/european/directive/1997/0014)
+
+.
+
+Sealed with the Official Seal of the Department of Agriculture on
+
+R. S. Johnston
+
+Assistant Secretary
+
+29th August 1997.
+
+(This note is not part of the Order.)
+
+This Order further amends the Plant Health Order (Northern Ireland) 1993. The Order implements as respects Northern Ireland Commission Directive [97/14/EC](https://www.legislation.gov.uk/european/directive/1997/0014) removing the prohibition on the import of ware potatoes from Algeria into the Community (O.J. No. L.87, 02.04.97, p. 17).
+
+## Annotations
+
+[^f00001]: Footnote: As amended by [S.R. & O. (N.I.) 1972 No. 351](https://www.legislation.gov.uk/nisro/1972/351) Art. 3 and Sch. 2; [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2), s. 177(1) and Sch. 4 Pt. II; and [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 15(2)
+
+[^f00002]: Footnote: As amended by [S.R. & O. (N.I.) 1972 No. 351](https://www.legislation.gov.uk/nisro/1972/351) Art. 3 and Sch. 2
+
+[^f00003]: Footnote: Inserted by [S.I. 1975/1038 (N.I. 8)](https://www.legislation.gov.uk/nisi/1975/1038) Art. 11(2)
+
+[^f00004]: Footnote: Inserted by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 15(2)
+
+[^f00005]: Footnote: As amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 15(2)
+
+[^f00006]: Footnote: [1967 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1967/28)
+
+[^f00007]: Footnote: [S.R. 1993 No. 256](https://www.legislation.gov.uk/nisr/1993/256); the relevant amending instruments are [S.R. 1995 No. 250](https://www.legislation.gov.uk/nisr/1995/250), [S.R. 1995 No. 494](https://www.legislation.gov.uk/nisr/1995/494), [S.R. 1996 No. 204](https://www.legislation.gov.uk/nisr/1996/204), [S.R. 1996 No. 249](https://www.legislation.gov.uk/nisr/1996/249) and [S.R. 1997 No. 110](https://www.legislation.gov.uk/nisr/1997/110)
+
+[^f00008]: Footnote: *See* [S.R. 1995 No. 250](https://www.legislation.gov.uk/nisr/1995/250) Art. 18 and Sch. 3, [S.R. 1995 No. 494](https://www.legislation.gov.uk/nisr/1995/494) Art. 7, [S.R. 1996 No. 204](https://www.legislation.gov.uk/nisr/1996/204) Art. 10, [S.R. 1996 No. 249](https://www.legislation.gov.uk/nisr/1996/249) Art. 10 and [S.R. 1997 No. 110](https://www.legislation.gov.uk/nisr/1997/110) Art. 6

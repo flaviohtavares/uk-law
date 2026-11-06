@@ -1,0 +1,341 @@
+---
+title: The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010
+id: nisr/2010/80
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-03-10'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/80
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/80/pdfs/nisrem_20100080_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/80/pdfs/nisr_20100080_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/80/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 80
+
+Pensions
+
+The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010
+
+Made
+
+10th March 2010
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 164A(1) and (5), 188(4)(a), 189(2) and 287(2) and (3) of, and paragraphs 25(1) and 33 of Schedule 6 to, the Pensions (Northern Ireland) Order 2005[^f00001].
+
+## 1. Citation and commencement[^key-9eb72e114d29b804b3fceebef5a47025][^key-9eb72e114d29b804b3fceebef5a47025]
+
+These Regulations may be cited as the Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 and shall come into operation—
+
+- (a) for the purposes of this regulation and regulations 2, 3 and 5, on 1st April 2010, and
+- (b) for the purposes of regulation 4, on 6th April 2010.
+
+## 2. Amendment of Schedule 8 to the Pensions (Northern Ireland) Order[^key-1a392ba31e3088a367f14c6dd2edf7fc][^key-1a392ba31e3088a367f14c6dd2edf7fc]
+
+In Schedule 8 to the Pensions (Northern Ireland) Order 2005 (reviewable matters) after paragraph 19A[^f00002] insert—
+
+> **19B.** Any determination by the Board under regulation 19A(7) or (8) of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^f00003] (interest for late payment of the pension protection levy) to waive interest or the failure to make any such determination.
+
+.
+
+## 3. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^key-7cb320dc1ecc24dd2c514b739fb2168c][^key-7cb320dc1ecc24dd2c514b739fb2168c]
+
+In the Schedule to the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations (Northern Ireland) 2005[^f00004] (interested person[^f00005]) after paragraph 19A[^f00006] insert—
+
+> |  |  |
+> | --- | --- |
+> | 19B. Paragraph 19B | 19B. The trustees or managers of the scheme in respect of which the Board has made, or failed to make, a determination to waive interest under regulation 19A(7) or (8) of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006 (interest for late payment of the pension protection levy). |
+
+.
+
+## 4. Amendment of the Pension Protection Fund (Compensation) Regulations[^key-b4d128ddfddfdc845679f509a18a7d69]
+
+(1) The Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^f00007] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2 (circumstances where a person shall be entitled to early payment of compensation)—
+
+- (a)[^key-e340f0a033787c95bd80ead9477029e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (a)—
+    - (aa) for head (ii) substitute—
+
+      > - (ii) the name of the scheme for which the Board has assumed responsibility (“the relevant scheme”), and
+
+      ;
+    - (bb) in head (iii) for “(“the requested early payment date”);” substitute “, and”;
+  - (ii) in sub-paragraph (b) for “scheme, and” substitute “scheme.”;
+  - (iii) omit sub-paragraph (c);
+- (c) omit paragraph (4).
+
+(3) In regulation 23 (cash balance schemes: modification of paragraphs 5, 15 and 19 of Schedule 6)—
+
+- (a) in paragraph (1) for “This regulation applies” substitute “Subject to paragraph (1A), this regulation applies”;
+- (b) after paragraph (1) insert—
+
+  > (1A) This regulation does not apply to a cash balance scheme which is also a career average revalued earnings scheme within the meaning of regulation 24(1).
+
+  .
+
+(4) After Part 10 (cash balance schemes) add—
+
+> **PART 11 — CAREER AVERAGE REVALUED EARNINGS SCHEMES**
+>
+> **24. Career average revalued earnings schemes: modification of paragraphs 8, 10, 11 and 14 of Schedule 6**
+>
+> (1) This regulation applies to a career average revalued earnings scheme, that is to say an occupational pension scheme where the whole of the pension entitlement is determined by reference to the member’s earnings in each year of pensionable service, and where those earnings, or a proportion of those earnings accrued as a pension, may be revalued each year until the member attains normal pension age or the pension is put into payment.
+>
+> (2) In their application to a career average revalued earnings scheme, paragraphs 8 and 11 of Schedule 6 shall have effect with the following modifications—
+>
+> - (a) as if for sub-paragraph (5) of those paragraphs there were substituted—
+>
+>   > (5) Subject to sub-paragraph (5A), the accrued amount means an amount equal to such initial annual rate of pension to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the pension ended.
+>   >
+>   > (5A) In any case where the Board is satisfied that it is not possible to identify the initial annual rate of pension in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount.
+>
+>   , and
+> - (b) as if sub-paragraphs (6) and (7) of those paragraphs were omitted.
+>
+> (3) In their application to a career average revalued earnings scheme, paragraph 10 of Schedule 6 shall have effect with the following modifications—
+>
+> - (a) as if for sub-paragraph (4) there were substituted—
+>
+>   > (4) Subject to sub-paragraph (4A), the accrued amount means an amount equal to such amount of scheme lump sum to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the scheme lump sum ended.
+>   >
+>   > (4A) In any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum in sub-paragraph (4), the Board may, having regard to the admissible rules, determine the accrued amount.
+>
+>   , and
+> - (b) as if sub-paragraphs (5) and (6) were omitted.
+>
+> (4) In their application to a career average revalued earnings scheme, paragraph 14 of Schedule 6 shall have effect with the following modifications—
+>
+> - (a) as if for sub-paragraph (5) there were substituted—
+>
+>   > (5) Subject to paragraph (5A), the accrued amount means an amount equal to such amount of scheme lump sum to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the scheme lump sum ended.
+>   >
+>   > (5A) In any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount.
+>
+>   , and
+> - (b) as if sub-paragraphs (6) and (7) were omitted.
+>
+> **25. Schemes where part of pension entitlement is determined on a career average revalued earnings basis: modification of paragraphs 8, 10, 11 and 14 of Schedule 6**
+>
+> (1) This regulation applies to an occupational pension scheme where part of the pension entitlement is determined on a career average revalued earnings basis, that is to say by reference to the member’s earnings in each year of pensionable service applicable to that part, and where those earnings, or a proportion of those earnings accrued as a pension, may be revalued each year until the member attains normal pension age or the pension is put into payment.
+>
+> (2) In their application to a scheme where part of the pension entitlement is determined on a career average revalued earnings basis, paragraphs 8 and 11 of Schedule 6 shall have effect with the following modifications—
+>
+> - (a) as if for sub-paragraph (5) of those paragraphs there were substituted—
+>
+>   > (5) Subject to sub-paragraphs (6) and (7), the accrued amount is—
+>   >
+>   > [formula: see source](https://www.legislation.gov.uk/nisr/2010/80)
+>   >
+>   > where—
+>   >
+>   > - X is an amount equal to such initial annual rate of that part of the pension which is determined on a career average revalued earnings basis to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to that part of the pension ended, or in any case where the Board is satisfied that it is not possible to identify the initial annual rate of pension, such amount as the Board may determine, having regard to the admissible rules, and
+>   > - Y is AR x PE x PS.
+>   >
+>   > (5A) In sub-paragraph (5)—
+>   >
+>   > - “AR” is the active member’s annual accrual rate, under the admissible rules, in respect of that part of the pension which is not determined on a career average revalued earnings basis,
+>   > - “PE” is the active member’s annual pensionable earnings, under the admissible rules, in respect of that part of the pension which is not determined on a career average revalued earnings basis, and
+>   > - “PS” is the active member’s pensionable service, under the admissible rules, in years (including any fraction of a year) in respect of that part of the pension which is not determined on a career average revalued earnings basis.
+>
+>   ;
+> - (b) as if in sub-paragraph (6) of those paragraphs—
+>   - (i) for “the pension” there were substituted “that part of the pension which is not determined on a career average revalued earnings basis”;
+>   - (ii) after “formula” there were inserted “Y is AR x PE x PS”, and
+>   - (iii) for “the accrued amount” there were substituted “Y”, and
+> - (c) as if in sub-paragraph (7) of those paragraphs—
+>   - (i) after “formula” there were inserted “Y is AR x PE x PS”, and
+>   - (ii) for “the accrued amount” there were substituted “Y”.
+>
+> (3) In their application to a scheme where part of the pension entitlement is determined on a career average revalued earnings basis, paragraph 10 of Schedule 6 shall have effect with the following modifications—
+>
+> - (a) as if for sub-paragraph (4) there were substituted—
+>
+>   > (4) Subject to sub-paragraphs (5) and (6), the accrued amount is—
+>   >
+>   > [formula: see source](https://www.legislation.gov.uk/nisr/2010/80)
+>   >
+>   > where—
+>   >
+>   > - X is an amount equal to such amount of the scheme lump sum that relates to that part of the pension which is determined on a career average revalued earnings basis, to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to that scheme lump sum ended, or in any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum, such amount as the Board may determine, having regard to the admissible rules, and
+>   > - Y is AR x PE x PS.
+>   >
+>   > (4A) In sub-paragraph (4)—
+>   >
+>   > - “AR” is the active member’s annual accrual rate, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis,
+>   > - “PE” is the active member’s annual pensionable earnings, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis, and
+>   > - “PS” is the active member’s pensionable service, under the admissible rules, in years (including any fraction of a year) in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis.
+>
+>   ;
+> - (b) as if in sub-paragraph (5)—
+>   - (i) after “the scheme lump sum” there were inserted “that relates to that part of the pension which is not determined on a career average revalued earnings basis”;
+>   - (ii) after “formula” there were inserted “Y is AR x PE x PS”, and
+>   - (iii) for “the accrued amount” there were substituted “Y”, and
+> - (c) as if in sub-paragraph (6)—
+>   - (i) after “formula” there were inserted “Y is AR x PE x PS”, and
+>   - (ii) for “the accrued amount” there were substituted “Y”.
+>
+> (4) In their application to a scheme where part of the pension entitlement is determined on a career average revalued earnings basis, paragraph 14 of Schedule 6 shall have effect with the following modifications—
+>
+> - (a) as if for sub-paragraph (5) there were substituted—
+>
+>   > (5) Subject to sub-paragraphs (6) and (7), the accrued amount is—
+>   >
+>   > [formula: see source](https://www.legislation.gov.uk/nisr/2010/80)
+>   >
+>   > where—
+>   >
+>   > - X is an amount equal to such amount of the scheme lump sum that relates to that part of the pension which is determined on a career average revalued earnings basis, to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to that scheme lump sum ended, or in any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum, such amount as the Board may determine, having regard to the admissible rules, and
+>   > - Y is AR x PE x PS.
+>   >
+>   > (5A) In sub-paragraph (5)—
+>   >
+>   > - “AR” is the active member’s annual accrual rate, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis,
+>   > - “PE” is the active member’s annual pensionable earnings, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis, and
+>   > - “PS” is the active member’s pensionable service, under the admissible rules, in years (including any fraction of a year) in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis.
+>
+>   ;
+> - (b) as if in sub-paragraph (6)—
+>   - (i) after “the scheme lump sum” there were inserted “that relates to that part of the pension which is not determined on a career average revalued earnings basis”;
+>   - (ii) after “formula” there were inserted “Y is AR x PE x PS”, and
+>   - (iii) for “the accrued amount” there were substituted “Y”, and
+> - (c) as if in sub-paragraph (7)—
+>   - (i) after “formula” there were inserted “Y is AR x PE x PS”, and
+>   - (ii) for “the accrued amount” there were substituted “Y”.
+
+.
+
+## 5. Amendment of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations[^key-d0329fe8c66495b1c695883c94eb06a6][^key-d0329fe8c66495b1c695883c94eb06a6]
+
+After regulation 19 of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^f00010] (collection of the pension protection levy by instalments) insert—
+
+> **19A. Interest for late payment of the pension protection levy**
+>
+> (1) Subject to paragraph (2), interest is to be charged in the case of late payment of a pension protection levy.
+>
+> (2) Interest, or any part of interest, is not to be charged where there is a waiver under—
+>
+> - (a) paragraph (7) in respect of that interest, or
+> - (b) paragraph (8) in respect of that part of interest.
+>
+> (3) There is late payment of a pension protection levy where that levy has not been paid within 28 days of the date on which the Board sends the notification under Article 164(3)(c) of the Order (calculation, collection and recovery of levies).
+>
+> (4) The annual rate of interest to be charged is 5% higher than—
+>
+> - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England[^f00011] as the official dealing rate, being the rate at which that Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
+> - (b) where an order under section 19 of the Bank of England Act 1998[^f00012] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
+>
+> (5) Interest is to be calculated—
+>
+> - (a) on a daily basis;
+> - (b) on the amount of the pension protection levy which has not been paid, and
+> - (c) from the first day on which there is a late payment of the pension protection levy until the day on which that levy is paid.
+>
+> (6) Where the interest to be charged includes a fraction of a penny, that fraction is to be ignored.
+>
+> (7) The circumstances in which interest may be waived are where the Board is satisfied that—
+>
+> - (a) any of the circumstances specified in regulation 4 of the Pension Protection Fund (Waiver of Pension Protection Levy and Consequential Amendments) Regulations (Northern Ireland) 2007[^f00013] (circumstances in which pension protection levy may be waived) apply;
+> - (b) charging interest would not be conducive to the prudent management of the Board’s financial affairs, or
+> - (c) it is reasonable not to charge interest.
+>
+> (8) The circumstances in which any part of interest may be waived are where the Board is satisfied that—
+>
+> - (a) the circumstances mentioned in paragraph (7)(a) apply, or
+> - (b) it is reasonable not to charge any part of interest.
+>
+> (9) For the purposes of considering whether it is reasonable not to charge interest or any part of interest under paragraphs (7)(c) and (8)(b), the Board must have regard to such matters as the Board considers relevant including (where relevant) the following matters—
+>
+> - (a) the dates on which any payments of the pension protection levy are made;
+> - (b) the dates on which any payments of the pension protection levy were made in previous years;
+> - (c) any failure by the person or persons by or on behalf of whom the pension protection levy is payable to—
+>   - (i) reply to correspondence from the Board about interest or the pension protection levy, or
+>   - (ii) provide the Board with information it requests about interest or the pension protection levy, and
+> - (d) any—
+>   - (i) review, reconsideration or reference to the PPF Ombudsman under Chapter 6 of Part III of the Order, or
+>   - (ii) appeal against any determination or direction of the PPF Ombudsman,
+>
+>   which has been brought by the person or persons by or on behalf of whom the pension protection levy is payable.
+
+.
+
+Sealed with the Official Seal of the Department for Social Development on 10th March 2010
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Pensions (Northern Ireland) Order 2005 (“the 2005 Order”), the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations (Northern Ireland) 2005 (“the Review Regulations”), the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005 (“the Compensation Regulations”) and the Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (“the General Regulations”).
+
+Regulation 2 amends the 2005 Order. Where interest is charged on the late payment of a pension protection levy, the Board of the Pension Protection Fund (“the Board”) may waive the interest. This regulation provides that decisions on waiving interest may be challenged by way of review, reconsideration and appeal to the Pension Protection Fund Ombudsman.
+
+Regulation 3 amends the Review Regulations to specify the persons who may challenge the Board’s decisions on waiving interest.
+
+Regulation 4 amends the Compensation Regulations. Paragraph (2) amends regulation 2 to change the circumstances in which Pension Protection Fund compensation can be paid early. It raises the minimum age from which a person can become entitled to early payments, reduces the information a person has to provide to the Board and enables the Board to make early payments more quickly. Paragraph (4) inserts regulations 24 and 25 to provide for modifications to provisions in Schedule 6 to the 2005 Order in relation to career average revalued earnings schemes or schemes where part of pension entitlement is determined on a career average revalued earnings basis. (Paragraph (3) makes consequential amendments to regulation 23.)
+
+Regulation 5 amends the General Regulations to make provision for interest to be charged where there is late payment of a pension protection levy. In particular, it sets out when interest arises, the rate of interest, how interest is calculated and the circumstances in which the Board can waive interest.
+
+The [Pensions (2008 No. 2 Act) (Commencement No. 4) Order (Northern Ireland) 2010 (S.R. 2010 No. 50 (C. 2)](https://www.legislation.gov.uk/nisr/2008/2)) provides for the coming into operation of paragraph 4 of Schedule 9 to the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13), which inserts Article 164A into the 2005 Order, one of the enabling provisions under which these Regulations are made, on 26th February 2010.
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 289(1) of the 2005 Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 164A was inserted by paragraph 4 of Schedule 9 to the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13)
+
+[^key-9eb72e114d29b804b3fceebef5a47025]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+
+[^key-1a392ba31e3088a367f14c6dd2edf7fc]: Commencement: Reg. 2 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+
+[^f00002]: Footnote: Paragraph 19A was inserted by regulation 8 of [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)
+
+[^f00003]: Footnote: [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155); regulation 19A is inserted by regulation 5 of these Regulations
+
+[^key-7cb320dc1ecc24dd2c514b739fb2168c]: Commencement: Reg. 3 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+
+[^f00004]: Footnote: [S.R. 2005 No. 138](https://www.legislation.gov.uk/nisr/2005/138); relevant amending Regulations are [S.R. 2005 Nos. 357](https://www.legislation.gov.uk/nisr/2005/357) and [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)
+
+[^f00005]: Footnote: The definition of “interested person” in regulation 1(2) was amended by regulation 7(2)(c) of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
+
+[^f00006]: Footnote: Paragraph 19A was inserted by regulation 9 of [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)
+
+[^key-b4d128ddfddfdc845679f509a18a7d69]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b)
+
+[^f00007]: Footnote: [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149); relevant amending Regulations are [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155)
+
+[^key-e340f0a033787c95bd80ead9477029e7]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/a) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/c)
+
+[^key-d0329fe8c66495b1c695883c94eb06a6]: Commencement: Reg. 5 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+
+[^f00010]: Footnote: [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155) to which there are amendments not relevant to these Regulations
+
+[^f00011]: Footnote: The Monetary Policy Committee is established by section 13 of the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11)
+
+[^f00012]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11)
+
+[^f00013]: Footnote: [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)

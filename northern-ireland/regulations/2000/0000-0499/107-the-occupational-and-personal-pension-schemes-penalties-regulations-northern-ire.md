@@ -1,0 +1,110 @@
+---
+title: The Occupational and Personal Pension Schemes (Penalties) Regulations (Northern Ireland) 2000
+id: nisr/2000/107
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-03-21'
+text_date: '2005-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/107
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/107/pdfs/nisr_20000107_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/107/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Penalties) Regulations (Northern Ireland) 2000
+
+> Text as at 2005-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 107
+
+PENSIONS
+
+The Occupational and Personal Pension Schemes (Penalties) Regulations (Northern Ireland) 2000
+
+Made
+
+21st March 2000
+
+Coming into operation
+
+3rd April 2000
+
+The Department for Social Development, in exercise of the powers conferred by sections 2(2), 164(1), (2) and (4), 177(4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 3(2), 10(3), 41(1), 113(1) and 166(3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-9acc50b799f1e4e70be80c34def97d4f]
+
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Penalties) Regulations (Northern Ireland) 2000 and shall come into operation on 3rd April 2000.
+
+(2) In these Regulations—
+
+- “the Audited Accounts Regulations” means the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00004];
+- “the Register Regulations” means the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 1997[^f00005].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Audited Accounts Regulations[^key-adc169a1f73d3d1b08d2f44fb4624116]
+
+In regulation 2 of the Audited Accounts Regulations (requirement of trustees or managers to obtain documents) for paragraph (3) there shall be substituted the following paragraphs—
+
+> (3) Where the trustees or managers of a scheme have failed without reasonable excuse to take all such steps as are necessary to secure compliance with either the requirement to obtain accounts audited by the auditor of the scheme or the requirement to obtain an auditor’s statement about contributions to the scheme in accordance with paragraph (1)(*a*) or (*b*), they shall be liable to pay to the Authority, within 28 days from the date of its imposition, a penalty not exceeding—
+>
+> - (a) £5,000 in the case of an individual; and
+> - (b) £50,000 in any other case.
+>
+> (4) Article 3 of the Order shall apply to a trustee of a scheme in respect of any failure by that trustee to comply with the requirements of paragraph (1)(*a*) or (*b*).
+
+.
+
+## 3. Amendment of the Register Regulations[^key-2bb6cb65c187926fa00bb6241ea5097e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 21st March 2000.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations are made under the Pension Schemes (Northern Ireland) Act 1993 and the Pensions (Northern Ireland) Order 1995 (“the Order”).
+
+Regulation 1 provides for citation, commencement and interpretation.
+
+Regulation 2 amends the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997 so as to apply a civil penalty under Article 10 of the Order (power of the Occupational Pensions Regulatory Authority (“the Authority”) to impose civil penalties), instead of a criminal penalty, in respect of any failure to comply with the requirement to obtain accounts audited by the auditor of the scheme or a statement from the auditor about contributions to the scheme. It also inserts regulation 2(4) into those Regulations under which the trustees of the scheme are liable to the imposition of a prohibition order under Article 3 of the Order in respect of any such failure.
+
+Regulation 3 amends the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 1997 so as to provide that, for the future, a breach of the requirements imposed by regulation 2, 3 or 6(3) of those Regulations renders the trustees or managers of the scheme liable to the imposition of a civil penalty by the Authority instead of a criminal penalty.
+
+As these Regulations, in so far as they are made under Part II of the Order, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain, the requirement for consultation under Article 117(1) of the Order does not apply by virtue of paragraph (2)(*e*) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 164 was substituted by Article 151(1) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and section 178(1) was amended by paragraph 68 of Schedule 3, and Parts III and V of Schedule 5, to that Order
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-9acc50b799f1e4e70be80c34def97d4f]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/107/regulation/1/1)
+
+[^f00004]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); to which there are amendments not relevant to these regulations
+
+[^f00005]: Footnote: [S.R. 1997 No. 102](https://www.legislation.gov.uk/nisr/1997/102), as amended by [S.R. 1997 Nos. 271](https://www.legislation.gov.uk/nisr/1997/271) and [544](https://www.legislation.gov.uk/nisr/1997/544) and [S.R. 1998 No. 85](https://www.legislation.gov.uk/nisr/1998/85)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-adc169a1f73d3d1b08d2f44fb4624116]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/107/regulation/1/1)
+
+[^key-2bb6cb65c187926fa00bb6241ea5097e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/107/regulation/3) revoked (6.4.2005) by [The Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/93)](https://www.legislation.gov.uk/nisr/2005/93), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b), [6(e)](https://www.legislation.gov.uk/nisr/2005/93/regulation/6/e)

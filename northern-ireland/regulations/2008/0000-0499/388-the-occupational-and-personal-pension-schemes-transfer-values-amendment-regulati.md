@@ -1,0 +1,147 @@
+---
+title: The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008
+id: nisr/2008/388
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2008-09-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2008/388
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/388/pdfs/nisr_20080388_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/388/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 388
+
+Pensions
+
+The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008
+
+Made
+
+22nd September 2008
+
+Coming into operation
+
+13th October 2008
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 93(1) and (2)(b), 97AF(1), (3)(b) and (4)(b), 177(2) to (4) and 178 of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 and shall come into operation on 13th October 2008.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of Personal Pension Schemes (Transfer Values) Regulations
+
+In regulation 3(2) of the Personal Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1987[^f00004] (manner of calculation and verification of cash equivalents) after “the realisable value” insert “at the date of calculation”.
+
+## 3. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations
+
+(1) The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00005] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 7B[^f00006] (initial cash equivalents for salary related benefits: assumptions)—
+
+- (a) for the heading substitute “Initial cash equivalents for salary related benefits: assumptions and guidance”;
+- (b) for paragraph (1) substitute—
+
+  > (1) The trustees must calculate the initial cash equivalent for salary related benefits—
+  >
+  > - (a) by using the assumptions determined under this regulation; and
+  > - (b) where the scheme falls within paragraph (6), in accordance with the guidance referred to in that paragraph.
+
+  ;
+- (c) in paragraph (4) for “The trustees must” substitute “Except where the scheme falls within paragraph (6), the trustees must”;
+- (d) after paragraph (5) add—
+
+  > (6) A scheme falls within this paragraph if it is a public service pension scheme in respect of which guidance has been prepared, and from time to time revised, by the Treasury for calculating the discount rates[^f00007].
+
+  .
+
+(3) In regulation 7C(2)[^f00008] (manner of calculation of initial cash equivalents for money purchase benefits) after “realisable value” insert “at the date of calculation”.
+
+## 4. Amendment of the Occupational Pension Schemes (Early Leavers: Cash Transfer Sums and Contribution Refunds) Regulations
+
+(1) The Occupational Pension Schemes (Early Leavers: Cash Transfer Sums and Contribution Refunds) Regulations (Northern Ireland) 2006[^f00009] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2B[^f00010] (initial cash transfer sum for salary related benefits: assumptions)—
+
+- (a) for the heading substitute “Initial cash transfer sum for salary related benefits: assumptions and guidance”;
+- (b) for paragraph (1) substitute—
+
+  > (1) The trustees or managers must calculate the initial cash transfer sum for salary related benefits—
+  >
+  > - (a) by using the assumptions determined under this regulation, and
+  > - (b) where the scheme falls within paragraph (6), in accordance with the guidance referred to in that paragraph.
+
+  ;
+- (c) in paragraph (4) for “The trustees or” substitute “Except where the scheme falls within paragraph (6), the trustees or”;
+- (d) after paragraph (5) add—
+
+  > (6) A scheme falls within this paragraph if it is a public service pension scheme in respect of which guidance has been prepared, and from time to time revised, by the Treasury for calculating the discount rates.
+
+  .
+
+(3) In regulation 2C(2)[^f00011] (manner of calculation of initial cash transfer sums for money purchase benefits) after “realisable value” insert “at the date of calculation”.
+
+(4) In regulation 2D[^f00012] (alternative manner of calculating and verifying cash transfer values)—
+
+- (i) in the heading for “cash transfer values” substitute “cash transfer sums”;
+- (ii) for “cash transfer value”, in each place where it occurs, substitute “cash transfer sum”.
+
+Sealed with the Official Seal of the Department for Social Development on 22nd September 2008
+
+(L.S.)
+
+Bryan Davis
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Personal Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1987, the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996 and the Occupational Pension Schemes (Early Leavers: Cash Transfer Sums and Contribution Refunds) Regulations (Northern Ireland) 2006. Those Regulations set out the manner of calculating and verifying transfer values (the amount which may be transferred from one pension scheme to another).
+
+Regulations 3(2) and 4(2) insert a requirement for trustees or managers of public service pension schemes to comply with guidance. The guidance is prepared, and where appropriate revised, by the Treasury. It sets out how discount rates are to be calculated. Discount rates are used by trustees or managers when calculating and verifying transfer values.
+
+Regulations 2, 3(3) and 4(3) clarify amendments made by the Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (“the 2008 Regulations”). In calculating and verifying the transfer value for a money purchase scheme, trustees or managers are required to calculate the realisable value of the member’s pension benefits. These amendments specify that the realisable value is the value on the date the transfer value is calculated. Regulation 4(4) corrects a minor drafting error.
+
+An assessment of the cost to business of these Regulations was detailed in a Regulatory Impact Assessment which accompanied the 2008 Regulations. Copies of that assessment have been laid in the Business Office and the Library of the Northern Ireland Assembly and are available from the Department for Social Development, Social Security Policy and Legislation Division, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast BT7 2JA.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and paragraph 5(1) of Schedule 5 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4); section 97AF was inserted by Article 241 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); section 178 was amended by paragraph 14 of Schedule 4 and Schedule 5 to the Pensions (Northern Ireland) Order 1995, paragraph 31 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and paragraph 27 of Schedule 10 to the Pensions (Northern Ireland) Order 2005
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00004]: Footnote: [S.R. 1987 No. 290](https://www.legislation.gov.uk/nisr/1987/290); regulation 3 was substituted by paragraph 1(3) of Schedule 2 to [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00005]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619); relevant amending Regulations are [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00006]: Footnote: Regulation 7B was inserted by regulation 4 of [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00007]: Footnote: The Treasury have issued guidance entitled “Basis for setting the discount rate for calculating cash equivalent transfer values payable by public service pension schemes”. A copy of the guidance can be obtained from The Correspondence & Enquiry Unit, 2/W1, HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and public.enquiries@hm-treasury.gsi.gov.uk. It is also available on the internet at http://www.hm-treasury.gov.uk/documents/taxation\_work\_and\_welfare/public\_service\_pensions/tax\_pensions\_guidance.cfm
+
+[^f00008]: Footnote: Regulation 7C was inserted by regulation 4 of [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00009]: Footnote: [S.R. 2006 No. 49](https://www.legislation.gov.uk/nisr/2006/49) as amended by [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00010]: Footnote: Regulation 2B was inserted by paragraph 8(3) of Schedule 2 to [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00011]: Footnote: Regulation 2C was inserted by paragraph 8(3) of Schedule 2 to [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)
+
+[^f00012]: Footnote: Regulation 2D was inserted by paragraph 8(3) of Schedule 2 to [S.R. 2008 No. 370](https://www.legislation.gov.uk/nisr/2008/370)

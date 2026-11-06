@@ -1,0 +1,53 @@
+---
+title: Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010, section 40
+act: Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010
+section: '40'
+status: revised
+text_date: '2022-07-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2010/2/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010, section 40
+
+> Text as at 2022-07-01.
+>
+> Extent: Northern Ireland.
+
+## 40. Obtaining of information etc by authorised persons[^key-5bdd485006236c24c4fb7652fb82c22a]
+
+*Extent: N.I.*
+
+(1) Where an authorised person has reasonable cause to believe that a vehicle is used for the carriage of goods by road—
+
+- (a) the owner or driver of the vehicle,
+- (b) any person who has made, is making or intends to make, use of that vehicle for the carriage of goods by road, or
+- (c) any servant or agent of any person of the kind referred to in paragraphs (a) or (b),
+
+shall furnish to that authorised person all such information, and produce for inspection all such documents, as the authorised person may reasonably require from that person for the purposes set out in subsection (2).
+
+(2) The purposes referred to in subsection (1) are—
+
+- (a) obtaining the name and address of the owner of the vehicle or of the person whose servant or agent the driver is, and
+- (b) ascertaining, in relation to any goods which have been, or are being, or are to be, carried on the vehicle particulars of—
+  - (i) the description of the goods and the name and address of the owner of the goods;
+  - (ii) the places from which and to which the goods have been, are being, or are to be, carried.
+
+(3) The owner or occupier of any premises entered by an authorised person under section 38, or any servant or agent of any such person, or any person found on any such premises, shall give to the authorised person such information as it is in the person's power to give as to—
+
+- (a) the name and address of the owner of any vehicle used for the carriage of goods by road which is kept in or on those premises or of the person whose servant or agent the driver of any such vehicle is;
+- (b) the matters referred to in subsection (2)(b)(i), and (ii), in relation to any goods which have been, are being, or are to be, carried on any such vehicle kept in or on those premises;
+- (c) any use of those premises in connection with the carriage of goods by road or the maintenance of vehicles used for the carriage of goods by road.
+
+(4) An authorised person may take copies of any documents—
+
+- (a) produced under this section; or
+- (b) relating to the carriage of goods by road or the maintenance of vehicles used for the carriage of goods by road, being documents which are found by the authorised person or constable on any vehicle or premises entered under section 38;
+
+and for that purpose the authorised person may detain any document or vehicle for such time as is required for such copying.
+
+## Annotations
+
+[^key-5bdd485006236c24c4fb7652fb82c22a]: Commencement: S. 40 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

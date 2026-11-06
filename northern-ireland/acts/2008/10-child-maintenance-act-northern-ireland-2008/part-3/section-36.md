@@ -1,0 +1,41 @@
+---
+title: Child Maintenance Act (Northern Ireland) 2008, section 36
+act: Child Maintenance Act (Northern Ireland) 2008
+section: '36'
+status: revised-with-pending-changes
+text_date: '2016-02-17'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/10/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Child Maintenance Act (Northern Ireland) 2008, section 36
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2016-02-17. See https://www.legislation.gov.uk/changes/affected/nia/2008/10
+>
+> Extent: Northern Ireland.
+
+## 36. Regulations: general
+
+*Extent: N.I.*
+
+(1) Power to make regulations under this Act includes power to make incidental, supplementary, consequential or transitional provision or savings.
+
+(2) Power to make regulations under this Act may be exercised so as to provide for a person to exercise a discretion in dealing with any matter.
+
+(3) Subject to the following provisions of this section, any regulations made under this Act shall be subject to negative resolution.
+
+(4) Regulations under section 3(1) or (4) or the first regulations under paragraphs 2(1), 3(1), 5(1) or (2), 6(1) or (3) or 7 of Schedule 2—
+
+- (a) must be laid before the Assembly after being made; and
+- (b) take effect on such date as may be specified in the regulations, but (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of 6 months from that date unless at some time before the expiration of that period the regulations are approved by a resolution of the Assembly.
+
+(5) This subsection applies to any regulations under this Act which—
+
+- (a) but for subsection (6), would be subject to negative resolution, and
+- (b) are contained in a statutory rule which includes any regulations subject to the confirmatory procedure.
+
+(6) Any regulations to which subsection (5) applies shall not be subject to negative resolution, but shall be subject to the confirmatory procedure.
+
+(7) In this section “**the confirmatory procedure**” means the procedure described in subsection (4).

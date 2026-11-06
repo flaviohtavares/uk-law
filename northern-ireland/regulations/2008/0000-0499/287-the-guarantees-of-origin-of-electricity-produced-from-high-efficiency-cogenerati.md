@@ -1,0 +1,523 @@
+---
+title: The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008
+id: nisr/2008/287
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-06-30'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/287
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/287/pdfs/nisr_20080287_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/287/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 287
+
+Electricity
+
+The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008
+
+Made
+
+30th June 2008
+
+Coming into operation
+
+22nd September 2008
+
+The Department of Enterprise, Trade and Investment, being a Department designated [^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to regulation of the electricity sector, makes the following Regulations in exercise of the powers conferred upon it by that section:
+
+## 1. Citation, commencement and extent[^key-b8d4bc81e9de15fd0c9c1b83e3d84955]
+
+These Regulations may be cited as the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 and shall come into operation on 22 September 2008.
+
+## 2. Interpretation[^key-20e51e9d277ea65acb90a8a8461f33c7]
+
+(1)[^key-962a56854b469d81a2bba40b498502d8] For the purposes of these Regulations—
+
+- “**CHPGO**” means a guarantee of origin of electricity produced from high-efficiency cogeneration;
+- “**the CHPGO holder**” means the person to whom the CHPGO is issued or transferred;
+- “**CHPQA**” means the Combined Heat and Power Quality Assurance programme referred to in the CHPQA Standard and accompanying CHPQA guidance notes, Issue 6, October 2016, prepared on behalf of the Department for Business, Energy and Industrial Strategy ;
+- “**cogeneration**” means the simultaneous generation in one process of thermal energy and electrical or mechanical energy;
+- “**cogeneration unit**” means a unit that is able to operate in cogeneration mode;
+- “**the competent authority**” means the Department for the Economy;
+- “**economically justifiable demand**” means demand that does not exceed the needs for heating or cooling and which would otherwise be satisfied at market conditions by energy generation processes other than cogeneration;
+- “**electricity from cogeneration**” means electricity generated in a process linked to the production of useful heat and calculated in accordance with the methodology laid down in Schedule 4;
+- “**energy**” means all forms of energy products, combustible fuels, heat, renewable energy, electricity, or any other form of energy;
+- “**Energy Efficiency Directive**” means Directive 2012/27/EU of the European Parliament and of the Council of 25th October 2012 on energy efficiency, amending Directives [2009/125/EC](https://www.legislation.gov.uk/eudr/2009/125) and 2010/30/EU and repealing Directives [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) and [2006/32/EC](https://www.legislation.gov.uk/eudr/2006/32), as it applies in the European Union;
+- “**Great Britain**” includes—
+  - (a) the territorial sea of the United Kingdom which is adjacent to Great Britain; and
+  - (b) any area designated under the Continental Shelf Act 1964;
+- “**guarantee of origin**” means, except in relation to paragraphs (3) to (5) of regulation 10, a certificate issued by the competent authority certifying that the electricity in respect of which the certificate is issued is electricity produced from high-efficiency cogeneration;
+- “**harmonised efficiency reference values**” means the values indicated in paragraph 7 of Schedule 7 and set in accordance with that paragraph and with Commission Delegated Regulation (EU) 2015/2402 of 12 October 2015 reviewing harmonised efficiency reference values for separate production of electricity and heat in application of Directive 2012/27/EU of the European Parliament and of the Council;
+- “**high-efficiency cogeneration**” means cogeneration that meets the criteria in Schedule 3;
+- “**micro-cogeneration unit**” means a cogeneration unit with a maximum capacity below 50 kilowatt electrical (kW<sub>e</sub>);
+- “**overall efficiency**” means the annual sum of electricity and mechanical energy production and useful heat output divided by the fuel input used for heat produced in a cogeneration process and gross electricity and mechanical energy production;
+- “**power-to-heat ratio**” means the ratio of electricity from cogeneration to useful heat when operating in full cogeneration mode using operational data of the specific unit;
+- “**small-scale cogeneration unit**” means a cogeneration unit with installed capacity below 1 megawatt electrical (MW<sub>e</sub>);
+- “**useful heat**” means heat produced in a cogeneration process to satisfy economically justifiable demand for heating or cooling.
+
+(2)[^key-5f2e6cd543d1124b89099549c1ad88d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Issue of CHPGOs and the competent authority[^key-a38e2b8db1ef795504d9dbc96ac2f1d3]
+
+(1) CHPGOs shall be issued by the competent authority in accordance with these Regulations.
+
+(2)[^key-5ac5d88eb7850d3e45f2162f02c013b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Request to issue CHPGOs[^key-34686bcfc5810ee12d3e541c2509db31]
+
+(1) A producer of electricity may request a CHPGO from the competent authority.
+
+(2) A request may not be made for a CHPGO under paragraph (1) where the electricity is produced outside Northern Ireland.
+
+(3) A request under paragraph (1) shall not be considered duly made until the competent authority is provided with all the information specified in Schedule 1 and the statement required under paragraph (4).
+
+(4) The person making a request under paragraph (1) shall provide with the request a statement that in respect of the electricity which is the subject of the request—
+
+- (a) he is entitled to the issue of a CHPGO under these Regulation;
+- (b) he has not made and does not intend to make a request for a CHPGO in respect of the same electricity to any person outside Northern Ireland[^key-a75c204468c748d431cb6ec55f141097] ; and
+- (c) he has not made and does not intend to make another request under paragraph (1) in respect of the same electricity.
+
+## 5. Issue and content of CHPGOs[^key-ee0b31d6314d64c7ea04c3b1229ca53f]
+
+(1) Where the competent authority—
+
+- (a) Receives a request made in accordance with regulation 4(1); and
+- (b) Is satisfied that the electricity to which the request relates was produced from high-efficiency cogeneration; and
+- (c) Receives any charge payable under regulation 9;
+
+The authority shall issue a CHPGO in respect of that electricity.
+
+(2) A CHPGO shall be issued to the person making the request for it under Regulation 4(1) or such other person as that person may specify in the request.
+
+(2A)[^key-82876afd7ed2222f697973a7fcd8410b] A CHPGO—
+
+- (a) shall be issued by reference to a standard size of 1MWh; and
+- (b) shall relate to the net electricity output measured at the station boundary and exported to the grid.
+
+(3) A CHPGO—
+
+- (a) shall contain the matters set out in Schedule 2[^key-3eb5c6d6fafd4165ce1868fedd692510] ; and
+- (b) may contain such other matters as the competent authority considers appropriate.
+
+(4) Where a CHPGO has been issued in respect of any electricity and not revoked, a further CHPGO in respect of the same electricity shall not be issued by the competent authority.
+
+## 6. Replacement CHPGOs[^key-a8cb09f67505952b70f182e33c821272]
+
+(1) The CHPGO holder may request the competent authority to review the issue of the CHPGO and to issue a replacement CHPGO if—
+
+- (a) the CHPGO holder believes that the CHPGO is inaccurate; and
+- (b) the request is made in writing to the competent authority within 21 days of the issue of the CHPGO.
+
+(2) A request under paragraph (1) shall—
+
+- (a) state the particulars of the CHPGO which the CHPGO holder believes are inaccurate, and
+- (b) provide all necessary information in support of that request.
+
+(3) The competent authority shall acknowledge to the CHPGO holder the receipt of a request under paragraph (1) within seven days of receipt.
+
+(4) The competent authority shall (on the basis of the information provided in a request under paragraph (1))—
+
+(5) The 40 day period may be extended if so agreed by the CHPGO holder and the competent authority.
+
+(6) If the competent authority decides—
+
+- (a) to revoke the CHPGO, it shall give notice under regulation 8(2);
+- (b) not to revoke the CHPGO, it shall as soon as possible given written notice to the CHPGO holder, with reasons for that decision; and
+- (c) to issue a replacement CHPGO, it shall do so as soon as possible.
+
+## 7. Transfer of CHPGOs[^key-0b71c9f5cccca8bba7b1916f41209355]
+
+(1) If the CHPGO holder no longer operates the plant to which the CHPGO relates, he may request the competent authority to transfer the CHPGO to the person who does operate that plant.
+
+(2) If the competent authority receives—
+
+- (a) a written request for a transfer referred to in paragraph (1);
+- (b) satisfactory evidence of the matters referred to in that paragraph; and
+- (c) any charge payable under regulation 9;
+
+it shall effect the transfer of the CHPGO.
+
+## 8. Revocation of CHPGOs[^key-3144febfc0ce5f48b96d6898d1a6ee67]
+
+(1) The competent authority shall revoke a CHPGO where—
+
+- (a) it decides that the CHPGO is inaccurate;
+- (b) it is satisfied that the information provided under regulation 4 in connection with the request for the CHPGO is incorrect in a material particular; or
+- (c) it is otherwise satisfied that the CHPGO should not have been issued, or was issued to the wrong person.
+
+(2) Where the competent authority revokes a CHPGO, it shall as soon as possible give written notice to the CHPGO holder.
+
+(3) A CHPGO that is revoked—
+
+- (a) under sub-paragraph (1)(a), shall be treated as if it had not been issued;
+- (b) under sub-paragraphs (1)(b) or (c), shall cease to have effect from the date that notice is given under paragraph (2).
+
+## 9. Charging[^key-adbf94b770409abbb88db85427f53d02]
+
+(1) The competent authority may require the payment of a charge from—
+
+- (a) A producer of electricity who requests a CHPGO under Regulation 4; or
+- (b) A CHPGO holder who requests a transfer of a CHPGO under Regulation 8.
+
+(2) A charge payable under paragraph (1) shall not exceed the costs of the competent authority in complying with the request to which it relates.
+
+(3) The competent authority shall not be required to issue or transfer a CHPGO until the charge is paid.
+
+## 10. Recognition of CHPGOs[^key-6626212bf39276c6aa30e2bdec992d89]
+
+(1) A public authority shall recognise a CHPGO issued by the[^key-44ebd480b0ea2a71d2bb42520e50ed8e] competent authority as proof of the matters referred to in Schedule 2[^key-3ab1d6a71c33109951f603ffab420c9e] .
+
+(2) For the purposes of the regulation a public authority means any Northern Ireland Minister, government department, public body of any description or any person holding public office.
+
+(3)[^key-3c0f82bc50ba463e029085ced9ffa6ed] Subject to paragraph (4), a public authority must recognise, as proof of the matters referred to in Schedule 2, a CHPGO which has been issued—
+
+- (a) in a member State in accordance with article 14(10) of the Energy Efficiency Directive; or
+- (b) in Great Britain in accordance with the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 .
+
+(4) A public authority is not required to recognise, to the extent referred to in paragraph (3), a CHPGO issued outside Northern Ireland if—
+
+- (a) it has been requested to refuse or withdraw such recognition by the authority which issued or supervised the issue of the CHPGO; or
+- (b) on the basis of objective, transparent and non-discriminatory criteria, it is satisfied that the CHPGO should not have been issued or that refusal of recognition is necessary for the prevention of fraud.
+
+(5) Where a public authority has refused to recognise a CHPGO issued in a[^key-bb759c309a5d1f9c439a16d327c01a7f] Member State, it shall recognise that CHPGO where the Commission of the European Communities required before[^key-b14ed72610e6c1277dd3049cb6ebd881] IP completion day[^key-20203033fd31a4b2070e8fb2de259f9a] such recognition under Article 14(10) of the Energy Efficiency Directive[^key-13a6c14d597618ebd2e67984350012ee] .
+
+(6) Nothing in this regulation shall require a public authority to satisfy itself that a CHPGO issued in a[^key-d5539b397a511d85796c7f47b39b8abe] Member State or Great Britain has been properly issued.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 30 June 2008
+
+Jenny Pyper
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — Information to be supplied with a request for a CHPGO
+
+Regulation 4(3)
+
+**1.**[^key-543298837b8368f54e4c573e75642aae] The name and address and, if a company, the registered number, of the person requesting the issue of the CHPGO.
+
+**2.**[^key-ab7b25a0b517f29d239ae85d0b7da134] Where the person signing the statement required under regulation 4(4) is not the person making the request, the name and address of the person signing the statement.
+
+**3.**[^key-abad406aae5ee3de9537040d4a7fdcba] Whether the person requesting the issue of the CHPGO is the producer of the electricity in respect of which the CHPGO is requested and, if not, the name and address and, if a company the registered number, of the producer.
+
+**4.**[^key-21e035c5d941f86d7fbd1bcfeec8396a] The beginning and end of the period covered by the request.
+
+**5.**[^key-6cc60080dd922c1846a32564f3d0acbb] The place where the electricity in respect of which the CHPGO is requested was produced, and the name, if any, of the plant.
+
+**6.**[^key-c41a3590f80902875b22146ff200dc57] The quantity of electricity in respect of which the CHPGO is requested, together with the total quantity of electricity produced by the plant during the period covered by the request.
+
+**7.**[^key-716f7e697a9aae52b0431759d3960909] The information relating to the plant which a person would be required to provide if they requested a certificate under CHPQA in relation to that plant.
+
+**8.**[^key-52ca2414a3c70d76ee538db74abc3491] The primary fuel source from which the electricity was produced.
+
+**9.**[^key-a8ab0e016f1bd22e8923efc58f10caa8] The heat to power ratio of the plant producing it.
+
+**10.**[^key-bd1d6565abee8549120a345a296bfd42] The amount of useful heat utilised during the period covered by the request.
+
+**11.**[^key-2c4d4cf93c9566cdb000c9f2b6ac6130] Such further information as the competent authority may, in the particular circumstances of the case, reasonably require
+
+- (a) for the purposes of ascertaining the accuracy of the information required to be provided under paragraphs 1 to 10; or
+- (b) to enable the competent authority to be satisfied that any electricity produced is from high-efficiency cogeneration.
+
+## SCHEDULE 2 — Information to be contained in a CHPGO[^key-1232022c22f36d24b0f7ac0f59140b1c]
+
+**No longer in force.**
+
+Regulation 5(3)
+
+**1.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Information to be contained in a CHPGO[^key-d5f294f0e87086e9bda8956969faa5bc]
+
+Regulation 5(3) and 10(1) and (3)
+
+**1.** The identity, location, type and capacity (thermal and electrical) of the installation where the energy was produced.
+
+**2.** The dates and places of production.
+
+**3.** The lower calorific value of the fuel source from which the electricity was produced.
+
+**4.** The quantity and the use of the heat generated together with the electricity.
+
+**5.** The quantity of electricity from high-efficiency cogeneration calculated in accordance with Schedule 3 that the guarantee of origin represents.
+
+**6.** The primary energy savings calculated in accordance with Schedule 3 based on the harmonised efficiency reference values.
+
+**7.** The nominal electric and thermal efficiency of the plant.
+
+**8.** Whether and to what extent the installation has benefited from investment support.
+
+**9.** Whether and to what extent the unit of energy has benefited in any other way from a national support scheme, and the type of support scheme.
+
+**10.** The date on which the installation became operational.
+
+**11.** The date and country of issue and a unique identification number.
+
+## SCHEDULE 3 — Methodology for determining the efficiency of the cogeneration process
+
+Regulation 2 and paragraph 5 and 6 of Schedule 2
+
+### 1. Values to be used
+
+Values used for calculation of efficiency of cogeneration and primary energy savings must be determined on the basis of the expected or actual operation of the unit under normal conditions of use.
+
+### 2. High-efficiency cogeneration
+
+For the purposes of these Regulations high-efficiency cogeneration shall fulfil the following criteria—
+
+- (a) cogeneration production from cogeneration units shall provide primary energy savings, calculated in accordance with paragraph 3, of at least 10% compared with the references for separate production of heat and electricity;
+- (b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high-efficiency cogeneration.
+
+### 3. Calculation of primary energy savings
+
+The amount of primary energy savings provided by cogeneration production defined in accordance with Schedule 4 must be calculated on the basis of the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2008/287)
+
+where—
+
+PES is primary energy savings;
+
+CHP Hη is the heat efficiency of the cogeneration production defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration;
+
+Ref Hη is the harmonised efficiency reference value for separate heat production;
+
+CHP Eη is the electrical efficiency of the cogeneration production defined as annual electricity from cogeneration divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration. For the purpose only of calculating the electrical efficiency of the cogeneration production, where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy;
+
+Ref Eη is the harmonised efficiency reference value for separate electricity production.
+
+### 4. Calculations of primary energy savings using alternative calculation
+
+(1) The competent authority may calculate primary energy savings from a production of heat and electricity and mechanical energy in accordance with sub-paragraph (2) without applying Schedule 4 to exclude the non-cogenerated heat and electricity parts of the same process. Such a production can be regarded as high-efficiency cogeneration provided it fulfils the efficiency criteria in paragraph 2 and, for cogeneration units with an electrical capacity larger than 25 megawatts (MW), the overall efficiency is above 70%. However, specification of the quantity of electricity from cogeneration produced in such a production, for issuing a guarantee of origin, must be determined in accordance with Schedule 4.
+
+(2) If primary energy savings for a process are calculated using the alternative calculation in sub-paragraph (1) the primary energy savings must be calculated using the formula in paragraph 3 but replacing “CHP Hη” with “Hη” and “CHP Eη” with “Eη”, where—
+
+- Hη means the heat efficiency of the process, defined as the annual heat output divided by the fuel input used to produce the sum of heat output and electricity output;
+- Eη means the electricity efficiency of the process, defined as the annual electricity output divided by the fuel input used to produce the sum of heat output and electricity output. For the purpose only of calculating the electrical efficiency of the cogeneration production, where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy.
+
+**5.** The competent authority may use other reporting periods than one year for the purpose of the calculations according to paragraphs 3 and 4.
+
+**6.** For micro-cogeneration units the calculation of primary energy savings may be based on certified data.
+
+### 7. Efficiency reference values for separate production of heat and electricity
+
+(1) The harmonised efficiency reference values consist of a matrix of values differentiated by relevant factors, including year of construction and types of fuel, and must be based on a well-documented analysis taking, inter alia, into account data from operational use under realistic conditions, fuel mix and climate conditions as well as applied cogeneration technologies.
+
+(2) The efficiency reference values for separate production of heat and electricity in accordance with the formula set out in paragraph 3 establish the operating efficiency of the separate heat and electricity production that cogeneration is intended to substitute.
+
+(3) The efficiency reference values must be calculated according to the following principles—
+
+- (a) for cogeneration units the comparison with separate electricity production must be based on the principle that the same fuel categories are compared;
+- (b) each cogeneration unit must be compared with the best available and economically justifiable technology for separate production of heat and electricity on the market in the year of construction of the cogeneration unit;
+- (c) the efficiency reference values for cogeneration units older than 10 years of age must be fixed on the reference values of units of 10 years of age;
+- (d) the efficiency reference values for separate electricity production and heat production must reflect the climate of the United Kingdom.
+
+## SCHEDULE 4 — General principles for the calculation of electricity from cogeneration
+
+Regulation 2 and paragraphs 3 and 4 of Schedule 3
+
+### General principles
+
+**1.** (1) Values used for calculation of electricity from cogeneration must be determined on the basis of the expected or actual operation of the unit under normal conditions of use. For micro-cogeneration units the calculation may be based on certified values.
+
+(2) Electricity production from cogeneration must be considered equal to total annual electricity production of the unit measured at the outlet of the main generators—
+
+- (a) in cogeneration units of the types referred to in paragraph 2(b) and (d) to (h) with an annual overall efficiency at a level of at least 75%; and
+- (b) in cogeneration units of the types referred to in paragraph 2(a) and (c) with an annual overall efficiency at a level of at least 80%.
+
+(3) In cogeneration units with an annual overall efficiency below the value referred to in sub-paragraph (2)(a) or with an annual overall efficiency below the value referred to in sub-paragraph (2)(b) cogeneration is calculated according to the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2008/287)
+
+where—
+
+E<sub>CHP</sub> is the amount of electricity from cogeneration;
+
+C is the power-to-heat ratio;
+
+H<sub>CHP</sub> is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
+
+(4) For the purposes of sub-paragraph (3), the calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used for units of types (a), (b), (c), (d) and (e) referred to in paragraph 2 provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit—
+
+| *Type of unit* | *Default power to heat ratio, C* |
+| --- | --- |
+| Combined cycle gas turbine with heat recovery | 0.95 |
+| Steam back pressure turbine | 0.45 |
+| Steam condensing extraction turbine | 0.45 |
+| Gas turbine with heat recovery | 0.55 |
+| Internal combustion engine | 0.75 |
+
+(5) If a share of the energy content of the fuel input to the cogeneration process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in sub-paragraphs (2) and (3).
+
+(6) The power-to-heat ratio when operating in cogeneration mode at a capacity lower than full cogeneration is the ratio of electricity to useful heat determined using operational data of the specific unit.
+
+(7) The competent authority may use other reporting periods than one year for the purpose of the calculations according to sub-paragraphs (2) and (3).
+
+### Cogeneration technologies covered by these Regulations
+
+**2.** The cogeneration technologies covered by these Regulations are—
+
+- (a) combined cycle gas turbine with heat recovery;
+- (b) steam back pressure turbine;
+- (c) steam condensing extraction turbine;
+- (d) gas turbine with heat recovery;
+- (e) internal combustion engine;
+- (f) microturbines;
+- (g) Stirling engines;
+- (h) fuel cells;
+- (i) steam engines;
+- (j) Organic Rankine cycles;
+- (k) any other type of technology or combination thereof involving the simultaneous generation in one process of thermal energy and electrical or mechanical energy.
+
+**3.** When determining the values used for the calculation of electricity from cogeneration, the detailed Guidelines established by Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952) of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex 2 to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) of the European Parliament and of the Council must be applied.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations implement as respects Northern Ireland Article 5 of the Directive [2004/8/EC](https://www.legislation.gov.uk/european/directive/2004/0008) (OJ L 52, 21.2.2004, p.50) of the European Parliament and of the council on the promotion of cogeneration based on a useful heat demand in the internal energy market and amending Directive [92/42/EEC](https://www.legislation.gov.uk/european/directive/1992/0042) (OJ L 167, 22.6.1992, p.17). That article provides for the issue of guarantees of origin of electricity from high-efficiency cogeneration. The cogeneration of electricity is more commonly referred to in the United Kingdom as electricity produced from combined heat and power or CHP.
+
+Regulation 3 provides that the Department of Enterprise, Trade and Investment, as the competent authority, is the issuer of guarantees of origin of electricity produced from high-efficiency cogeneration.
+
+Regulation 4 provides for the procedure that a producer of electricity must follow to obtain a guarantee, Schedule 1 sets out the information that a producer must provide to the competent authority. Paragraph 7 of that Schedule refers to the Combined Heat and Power Quality Assurance (CHPQA) programme. The CHPQA Standard, Issue 2, November 2007 published by the Department for Environment, Food and Rural Affairs. It may be obtained from www.chpqa.com. Or the CHPQA administrator telephone 0870 190 6196 and E-mail: chpqainfo@chpqa.com
+
+Regulation 5 provides for the issue and content of a guarantee. Schedule 2 specifies the information to be included in a guarantee of origin.
+
+Regulation 6 sets out when a guarantee may be replaced.
+
+Regulation 7 provides for the transfer of a guarantee.
+
+Regulation 8 sets out when and how a guarantee may be revoked.
+
+Regulation 9 provides that a charge may be made for the issue or transfer of a guarantee.
+
+Regulation 10 provides for the recognition of guarantees, including those issued by competent authorities outside Northern Ireland.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1998/745](https://www.legislation.gov.uk/uksi/1998/745)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) (c.46)
+
+[^key-b8d4bc81e9de15fd0c9c1b83e3d84955]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-20e51e9d277ea65acb90a8a8461f33c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/287/regulation/2) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-962a56854b469d81a2bba40b498502d8]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/2/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5f2e6cd543d1124b89099549c1ad88d9]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2008/287/regulation/2/2) omitted (31.12.2020) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-a38e2b8db1ef795504d9dbc96ac2f1d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/287/regulation/3) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-5ac5d88eb7850d3e45f2162f02c013b4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/287/regulation/3/2) omitted (31.12.2020) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-34686bcfc5810ee12d3e541c2509db31]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/287/regulation/4) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-a75c204468c748d431cb6ec55f141097]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/nisr/2008/287/regulation/4/4/b) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee0b31d6314d64c7ea04c3b1229ca53f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/287/regulation/5) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-82876afd7ed2222f697973a7fcd8410b]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/nisr/2008/287/regulation/5/2A) inserted (10.12.2014) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/4/a)
+
+[^key-3eb5c6d6fafd4165ce1868fedd692510]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/nisr/2008/287/regulation/5/3/a) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a8cb09f67505952b70f182e33c821272]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/287/regulation/6) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-0b71c9f5cccca8bba7b1916f41209355]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/287/regulation/7) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-3144febfc0ce5f48b96d6898d1a6ee67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/287/regulation/8) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-adbf94b770409abbb88db85427f53d02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/287/regulation/9) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-6626212bf39276c6aa30e2bdec992d89]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/287/regulation/10) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-44ebd480b0ea2a71d2bb42520e50ed8e]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3ab1d6a71c33109951f603ffab420c9e]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3c0f82bc50ba463e029085ced9ffa6ed]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/3) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bb759c309a5d1f9c439a16d327c01a7f]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b14ed72610e6c1277dd3049cb6ebd881]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/849](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/3))
+
+[^key-20203033fd31a4b2070e8fb2de259f9a]: Annotation text not found in the source document.
+
+[^key-13a6c14d597618ebd2e67984350012ee]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (10.12.2014) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/5/c)
+
+[^key-d5539b397a511d85796c7f47b39b8abe]: Textual amendment: Word in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/6) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(d)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-543298837b8368f54e4c573e75642aae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/1) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-ab7b25a0b517f29d239ae85d0b7da134]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/2) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-abad406aae5ee3de9537040d4a7fdcba]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/3) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-21e035c5d941f86d7fbd1bcfeec8396a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/4) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-6cc60080dd922c1846a32564f3d0acbb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/5) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-c41a3590f80902875b22146ff200dc57]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/6) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-716f7e697a9aae52b0431759d3960909]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/7) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-52ca2414a3c70d76ee538db74abc3491]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/8) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-a8ab0e016f1bd22e8923efc58f10caa8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/9) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-bd1d6565abee8549120a345a296bfd42]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/10) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-2c4d4cf93c9566cdb000c9f2b6ac6130]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/11) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+
+[^key-1232022c22f36d24b0f7ac0f59140b1c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/287/schedule/2) omitted (10.12.2014) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/6)
+
+[^key-d5f294f0e87086e9bda8956969faa5bc]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/nisr/2008/287/schedule/2) inserted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

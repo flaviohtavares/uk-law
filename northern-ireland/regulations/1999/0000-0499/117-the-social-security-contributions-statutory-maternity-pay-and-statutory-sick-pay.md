@@ -1,0 +1,209 @@
+---
+title: The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999
+id: nisr/1999/117
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-03-15'
+text_date: '2001-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/117
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/117/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999
+
+> Text as at 2001-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 117
+
+SOCIAL SECURITY
+
+STATUTORY MATERNITY PAY; STATUTORY SICK PAY
+
+The Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999
+
+Made
+
+15th March 1999
+
+Coming into operation
+
+6th April 1999
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 1(6), 3(2) and (3), 10A(7), 159(3), 167(5) and 171(1) to (3) of, and paragraphs 3(5), 5A, 6 and 8(1)(g), (l), (m), (n) and (q) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, and with the concurrence of the Inland Revenue in so far as their concurrence is required, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-a5f8b170c7fee7fc1d18251d35b28f0a]
+
+(1) These Regulations may be cited as the Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 and shall come into operation on 6th April 1999.
+
+(2) In these Regulations “the principal Regulations” means the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00002].
+
+## 2. Amendment of regulation 18 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of regulation 19 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Insertion of Part IIB into the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of regulation 31 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of regulation 32 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of regulation 46 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of regulation 111 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of regulation 112 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of Schedule 1 to the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of the Statutory Sick Pay (General) Regulations[^key-0e51b3e6615e3cbc78beae45cf637bba]
+
+For paragraph (2) of regulation 17 of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00052] (meaning of “earnings”) there shall be substituted the following paragraph—
+
+> (2) For the purposes of section 159(2) of the Contributions and Benefits Act, the expression “earnings” refers to gross earnings and includes any remuneration or profit derived from a person’s employment except any payment or amount which is—
+>
+> - (a) excluded from the computation of a person’s earnings under regulation 19 (payments to be disregarded) or 19B (payments to directors to be disregarded) of the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00053];
+> - (b) a chargeable emolument under section 10A of the Contributions and Benefits Act (Class 1B contributions), except where, in consequence of such a chargeable emolument being excluded from earnings, a person would not be entitled to statutory sick pay.
+
+.
+
+## 12. Amendment of the Statutory Maternity Pay (General) Regulations[^key-34856ad90a086f3bb4cf15fee1ce9068]
+
+For paragraph (2) of regulation 20 of the Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00054] (meaning of “earnings”) there shall be substituted the following paragraph—
+
+> (2) For the purposes of section 167(4) of the Contributions and Benefits Act, the expression “earnings” refers to gross earnings and includes any remuneration or profit derived from a woman’s employment except any payment or amount which is—
+>
+> - (a) excluded from the computation of a person’s earnings under regulation 19 (payments to be disregarded) or 19B (payments to directors to be disregarded) of the Social Security (Contributions) Regulations (Northern Ireland) 1979;
+> - (b) a chargeable emolument under section 10A of the Contributions and Benefits Act (Class 1B contributions), except where, in consequence of such a chargeable emolument being excluded from earnings, a woman would not be entitled to statutory maternity pay.
+
+.
+
+## 13. Revocations[^key-cf008089a3d8a53e53ff4518265e3062]
+
+The following regulations are hereby revoked—
+
+- (a) the Contracting-out (Recovery of Class 1 Contributions) Regulations (Northern Ireland) 1982[^f00055];
+- (b) regulations 2(c), 5(a) and 10(2), (6) and (10) of the Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1992[^f00056];
+- (c) regulation 3(10) of the Social Security (Contributions) (Amendment No. 6) Regulations (Northern Ireland) 1992[^f00057];
+- (d) regulations 4(3)(b) and 5(3)(b) of the Social Security (Miscellaneous Provisions) (Amendment No. 3) Regulations (Northern Ireland) 1992[^f00058];
+- (e) regulation 7(4)(c) of the Social Security (Contributions) (Amendment No. 5) Regulations (Northern Ireland) 1996[^f00059];
+- (f) the Social Security (Contributions) (Amendment No. 4) Regulations (Northern Ireland) 1998[^f00060];
+- (g) regulation 2(a), (b) and (d) of the Social Security (Contributions) (Amendment No. 5) Regulations (Northern Ireland) 1998[^f00061].
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+11th March 1999.
+
+The Commissioners of Inland Revenue hereby concur.
+
+Nick Montagu
+
+G. H. Bush
+
+Two of the Commissioners of Inland Revenue
+
+15th March 1999
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Social Security (Contributions) Regulations (Northern Ireland) 1979 (“the principal Regulations”), the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 and the Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987.
+
+Regulation 2 amends regulation 18 of the principal Regulations by adding new paragraphs (16) to (20) to provide for the calculation of earnings in respect of any payment by way of a gain arising from the exercise, assignment or release of a right to acquire shares in a body corporate and for matters incidental thereto. It also omits paragraphs (2A), (2B), (4), (5), (5A) and (9A) and makes consequential amendments to paragraphs (2), (7A) and (9).
+
+Regulation 3(a) amends regulation 19(1) of the principal Regulations by omitting sub-paragraph (ll) and by adding 6 new sub-paragraphs which exclude from the computation of a person’s earnings for the purposes of earnings-related contributions—
+
+- (a) a payment by way of a gain realised by the exercise of a right to acquire shares where that right and those shares are not readily convertible assets (new sub-paragraph (zd));
+- (b) a payment by way of the grant of a right on, or after, 6th April 1999 to acquire shares which is not capable of being exercised more than 10 years after it is obtained (new sub-paragraph (ze));
+- (c) a payment by way of the conferment of a beneficial interest in conditional shares pursuant to the exercise of a right to acquire shares granted on, or after, 6th April 1999 (new sub-paragraph (zf));
+- (d) a payment by way of the acquisition of conditional and convertible shares pursuant to a right to acquire shares granted before 9th April 1998 (new sub-paragraph (zg));
+- (e) a payment by way of a gain realised by the assignment or release of a right to acquire shares where a subsequent right forms all or part of the consideration for that assignment or release (new sub-paragraph (zh));
+- (f) a payment by way of a gain realised by the exercise, assignment or release of a right to acquire shares obtained before 6th April 1999 unless that right was received in consideration for the assignment or release of another right and was of a substantially greater total market value than that of the right it replaced (new sub-paragraph (zi)).
+
+Regulation 3(b) adds a new paragraph (10) to regulation 19 of the principal Regulations to make incidental provision for the purposes of the new sub-paragraphs (zd), (zh) and (zi).
+
+Regulation 4 inserts a new Part IIB into the principal Regulations (comprising new regulations 22I and 22J) to provide for the calculation of, and exception from liability for, Class 1B contributions.
+
+Regulation 10 amends Schedule 1 to the principal Regulations—
+
+- (a) to provide for the recovery of contributions following a payment to an employee, or ex-employee, consisting wholly or partially of non-monetary earnings in cases where there are no, or insufficient, monetary earnings from which such contributions could be deducted at the time of that payment; and
+- (b) to extend the provisions of that Schedule to Class 1B contributions for the purposes of the payment and recovery of those contributions and the inspection of employer’s records.
+
+Regulation 11 substitutes regulation 17(2) of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 to provide for emoluments included in a PAYE settlement agreement to be excluded from the calculation of earnings for the purposes of statutory sick pay unless such exclusion results in a person failing to qualify for the benefit.
+
+Regulation 12 substitutes regulation 20(2) of the Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987 to provide for emoluments included in a PAYE settlement agreement to be excluded from the calculation of earnings for the purposes of statutory maternity pay unless such exclusion results in a woman failing to qualify for the benefit.
+
+Regulations 5 to 9 make consequential amendments to regulations 31, 32, 46, 111 and 112 of the principal Regulations.
+
+Regulation 13 contains revocations.
+
+Sections 1(6) and 10A of, and paragraphs 5A, 6 and 8(1)(l) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (“the Act”), some of the enabling provisions under which these Regulations are made, were either amended or inserted by Article 50 of, and paragraphs 38(3) and 58(7) to (9), (11) and (16) of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 (“the Order”) which were brought into operation, for the purpose only of authorising the making of regulations, on 9th September 1998 and for all other purposes on 6th April 1999, by virtue of the Social Security (1998 Order) (Commencement No. 1) Order (Northern Ireland) 1998 ([S.R. 1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312)) (“the Commencement Order”). Paragraph 3(5) of Schedule 1 to the Act, a further enabling provision, was added by Article 52(b) of the Order which was brought into operation on 9th September 1998 by virtue of the Commencement Order.
+
+These Regulations correspond to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 1(6) was amended by paragraph 38(3) of Schedule 6 to, section 10A was inserted by Article 50 of, paragraph 3(5) was added by Article 52(b) of, paragraph 5A was inserted, and paragraphs 6 and 8(1)(l) were amended, by paragraph 58(7) to (9), (11) and (16) of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)); paragraph 8(1)(g) was amended by paragraph 11 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^key-a5f8b170c7fee7fc1d18251d35b28f0a]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+
+[^f00002]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1981 No. 30](https://www.legislation.gov.uk/nisr/1981/30), [S.R. 1982 No. 267](https://www.legislation.gov.uk/nisr/1982/267), [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), [S.R. 1985 No. 59](https://www.legislation.gov.uk/nisr/1985/59), [S.R. 1990 No. 110](https://www.legislation.gov.uk/nisr/1990/110), [S.R. 1991 Nos. 310](https://www.legislation.gov.uk/nisr/1991/310) and [490](https://www.legislation.gov.uk/nisr/1991/490), [S.R. 1992 Nos. 41](https://www.legislation.gov.uk/nisr/1992/41), [126](https://www.legislation.gov.uk/nisr/1992/126) and [280](https://www.legislation.gov.uk/nisr/1992/280), [S.R. 1993 No. 130](https://www.legislation.gov.uk/nisr/1993/130), [S.R. 1995 No. 91](https://www.legislation.gov.uk/nisr/1995/91), [S.R. 1996 Nos. 30](https://www.legislation.gov.uk/nisr/1996/30), [433](https://www.legislation.gov.uk/nisr/1996/433) and [566](https://www.legislation.gov.uk/nisr/1996/566), [S.R. 1997 No. 163](https://www.legislation.gov.uk/nisr/1997/163) and [S.R. 1998 Nos. 317](https://www.legislation.gov.uk/nisr/1998/317), [332](https://www.legislation.gov.uk/nisr/1998/332) and [416](https://www.legislation.gov.uk/nisr/1998/416)
+
+[^key-18f1898b7df3c76876740dd1a6824434]: Textual amendment: [Regs. 2-10](https://www.legislation.gov.uk/nisr/1999/117/regulation/2) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
+
+[^key-0e51b3e6615e3cbc78beae45cf637bba]: Commencement: Reg. 11 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+
+[^f00052]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); paragraph (2) was substituted by [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^f00053]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), [S.R. 1987 Nos. 143](https://www.legislation.gov.uk/nisr/1987/143), [348](https://www.legislation.gov.uk/nisr/1987/348) and [468](https://www.legislation.gov.uk/nisr/1987/468), [S.R. 1988 No. 204](https://www.legislation.gov.uk/nisr/1988/204), [S.R. 1991 Nos. 106](https://www.legislation.gov.uk/nisr/1991/106) and [490](https://www.legislation.gov.uk/nisr/1991/490), [S.R. 1993 Nos. 64](https://www.legislation.gov.uk/nisr/1993/64), [114](https://www.legislation.gov.uk/nisr/1993/114) and [437](https://www.legislation.gov.uk/nisr/1993/437), [S.R. 1995 No. 257](https://www.legislation.gov.uk/nisr/1995/257), [S.R. 1996 Nos. 89](https://www.legislation.gov.uk/nisr/1996/89) and [566](https://www.legislation.gov.uk/nisr/1996/566), [S.R. 1997 Nos. 163](https://www.legislation.gov.uk/nisr/1997/163) and [180](https://www.legislation.gov.uk/nisr/1997/180) and [S.R. 1998 Nos. 103](https://www.legislation.gov.uk/nisr/1998/103) and [317](https://www.legislation.gov.uk/nisr/1998/317)
+
+[^key-34856ad90a086f3bb4cf15fee1ce9068]: Commencement: Reg. 12 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+
+[^f00054]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); paragraph (2) was substituted by [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^key-cf008089a3d8a53e53ff4518265e3062]: Commencement: Reg. 13 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+
+[^f00055]: Footnote: [S.R. 1982 No. 267](https://www.legislation.gov.uk/nisr/1982/267)
+
+[^f00056]: Footnote: [S.R. 1992 No. 41](https://www.legislation.gov.uk/nisr/1992/41)
+
+[^f00057]: Footnote: [S.R. 1992 No. 280](https://www.legislation.gov.uk/nisr/1992/280)
+
+[^f00058]: Footnote: [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^f00059]: Footnote: [S.R. 1996 No. 433](https://www.legislation.gov.uk/nisr/1996/433)
+
+[^f00060]: Footnote: [S.R. 1998 No. 332](https://www.legislation.gov.uk/nisr/1998/332)
+
+[^f00061]: Footnote: [S.R. 1998 No. 416](https://www.legislation.gov.uk/nisr/1998/416)

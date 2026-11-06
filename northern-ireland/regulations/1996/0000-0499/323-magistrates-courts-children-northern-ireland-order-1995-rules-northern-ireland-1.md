@@ -1,0 +1,1568 @@
+---
+title: Magistrates' Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996
+id: nisr/1996/323
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1996-07-25'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/323
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/323/pdfs/nisr_19960323_en.pdf
+- http://www.legislation.gov.uk/nisr/1996/323/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Magistrates' Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 323
+
+MAGISTRATES' COURTS
+
+Magistrates' Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996
+
+Made
+
+25th July 1996
+
+Coming into operation
+
+4th November 1996
+
+The Lord Chancellor, in exercise of the powers conferred on him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001] and Article 71 and 165 of the Children (Northern Ireland) Order 1995[^f00002] and all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following rules:—
+
+## 1. Citation, commencement and interpretation[^key-198bc78a83b80d268e185b33b0b291f7]
+
+(1) These Rules may be cited as the Magistrates' Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996 and shall come into operation on 4th November 1996.
+
+(2) Nothing in these rules shall affect any proceedings pending (within the meaning of paragraph 1 of Schedule 8 to the Children (Northern Ireland) Order 1995) immediately before these rules come into operation.
+
+(3) In these rules unless the context otherwise requires—
+
+- “**the Allocation Order**” means the Children (Allocation of Proceedings) Order (Northern Ireland) 1996[^f00003];
+- “**application**” means an application under or by virtue of the Order or under these Rules and “**applicant**” shall be construed accordingly;
+- “**an Article 8 order**” has the same meaning as in Article 8(2);
+- “**Board**” means a Health and Social Services Board;
+- “**business day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday which is, or is to be observed as, a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971[^f00004];
+- “[^key-5d18ed48f30f01875ec424f88e2242a8]**the Central Authority for Northern Ireland**” means the Department of Justice[^key-cefdf6ae2c97ff2081c53a7b81be66ac];
+- “**child**” means—
+  - (a) subject to paragraph (b), a person under the age of 18 with respect to whom the proceedings are brought; and
+  - (b) where the proceedings are under Schedule 1 also includes a person who has reached the age of 18;
+- “[^key-491aea66e0ce01d94a50db1480b116d3]**Contracting State**” means a State party to the 1996 Hague Convention;
+- [^key-7ff080a2af76f8e1e817fcf7ef791f7e]...
+- “**court**” includes a family proceedings court to which proceedings are brought in accordance with the Allocation Order and a resident magistrate or member of a juvenile court panel in respect of the proceedings prescribed in rule 2(5)(*a*) and a resident magistrate in respect of the proceedings prescribed in rule 2(5)(b);
+- “**directions appointment**” means a hearing for directions under rule 15;
+- “**document exchange**” means any document exchange for the time being approved by the Lord Chancellor;
+- “**file**” means deposit with the clerk of petty sessions;
+- “**guardian ad litem**” means a guardian ad litem appointed under Article 60, of the child with respect to whom the proceedings are brought;
+- “[^key-fa43c94286fa362f35fcda4ddfe2382a]**the 1996 Hague Convention**” means the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996;
+- “**judgment**” in rules 21A to 21V is to be construed [^key-6e24df1cbe3c5708ad4a5a366a4fa8bb]... as meaning any measure taken by an authority with jurisdiction under Chapter II of the 1996 Hague Convention where that Convention applies;
+- “**leave**” includes permission and approval;
+- [^key-9a28eda697821f048b897527791e330b]...
+- “**parental responsibility**” has the same meaning as in Article 6 [^key-80bea483c8716924eeb13f4489868852]... and in relation to proceedings under the Hague Convention, as in Article 1(2) of that Convention[^key-5ef0ed3862a34c9e0e900fcea2299525];
+- “**parties**” in relation to any relevant proceedings means the respondents specified in column (iii) of Schedule 2 and the applicant;
+- “**relevant proceedings**” has the same meaning as in Article 165(3);
+- “**specified proceedings**” has the same meaning as in Article 60(6) and rule 2(2);
+- “**the Order**” means the Children (Northern Ireland) Order 1995 and an Article or Schedule referred to by number means the Article or Schedule so numbered in the Order;
+- “**Trust**” means a Health and Social Services Trust by whom functions are exercisable by virtue of an authorisation for the time being in operation under the Health and Personal Social Services (Northern Ireland) Order 1994[^f00005];
+- “**welfare officer**” means a person who has been asked to prepare a welfare report under Article 4.
+
+(4) Any reference to a form is a reference to a form in Schedule 1 to these rules and includes a reference to a form to the same effect with such variations as the circumstances might require.
+
+(5) The Magistrates' Courts Rules (Northern Ireland) 1984[^f00006] shall have effect subject to the provisions of these Rules.
+
+## 2. Matters prescribed for the purposes of the Order[^key-54ca5138d368eb5686157abdfc32c91a]
+
+(1) The parties to proceedings in which directions are given under Article 57(6) and any person named in such a direction, form the prescribed class for the purposes of Article 57(8)(*b*) (application to vary directions made with interim care or interim supervision order).
+
+(2) The following proceedings are specified for the purposes of Article 60 in accordance with paragraph 6(i) thereof—
+
+- (a) proceedings under Article 33(1);
+- (b) proceedings under Article 44;
+- (c) applications under Article 52(7);
+- (d) proceedings under paragraph 6(3) of Schedule 3.
+
+(3) The applicant for an order that has been made under Article 62(1) and the persons referred to in Article 62(11) may, in any circumstances, apply under Article 62(12) for a child assessment order to be varied or discharged.
+
+(4) The following persons form the prescribed class for the purposes of Article 63(9)(*b*) (application to vary directions)—
+
+- (a) the parties to the application in which it is sought to vary the directions;
+- (b) the guardian ad litem;
+- (c) the authority in whose area the child is ordinarily resident;
+- (d) any person who is named in the directions.
+
+(5) Where, in accordance with the Allocation Order an application is required to be commenced in a family proceedings court the following proceedings are prescribed for the purposes of Article 165(2)(i)—
+
+- (a) proceedings on an ex parte application under Article 63; 67 and 69; and under rule 5 , 9 and 11[^key-f631e63ae325fa972579eef1b989bf76] are proceedings with respect to which a resident magistrate or member of a juvenile court panel may discharge the functions of a court of summary jurisdiction; and
+- (b) proceedings in accordance with rule 3, 6, 7, 9,[^key-76923bd0bbe5cdd4e0862ef96e3d3b2a] 11, 15, 16, 17, 18, 19 and 20 are proceedings with respect to which a resident magistrate may discharge the functions of a court of summary jurisdiction.
+
+## 3. Application for leave to commence proceedings[^key-d83ec5d19e076b74c838a29a1368cf39]
+
+(1) Where the leave of the court is required to bring any relevant proceedings, the person seeking leave shall file—
+
+- (a) an application for leave in Form C2; and
+- (b) a draft of the application in respect of which leave is sought in the appropriate form in Schedule 1 or where there is no such form, in writing, together with sufficient copies for one to be served on each respondent; and
+- (c) A draft summons in Form C1A.
+
+(2) On considering a request for leave filed under paragraph (1), the court shall—
+
+- (a) grant the request whereupon the clerk of petty sessions shall issue a summons in Form C1A; or
+- (b) fix a date for a hearing of the request whereupon the clerk of petty sessions shall give such notice as the court directs to the person making the request and to such other persons as the court requires to be notified of the date so fixed.
+
+## 4. Application[^key-c4497ac190b568eebe21886eefacd038]
+
+(1) An application by way of complaint to a justice of the peace or clerk of petty sessions for an order under the Order shall be made in writing in Form C1 together with such of Forms C1AA or[^key-bac955cf2d0146d3666dd2b708f03fe8] C6 to C17 as is appropriate.
+
+(2) Subject to paragraph (3) any summons issued in consequence of such an application shall be prepared by the applicant in Form C1A and shall be served on each respondent to the application along with a copy of the written application the minimum number of days prior to the date fixed for hearing as is specified in relation to that application in column (iii) of Schedule 2 to these rules.
+
+(3) Where an applicant is also making an application for an order under the Domestic Proceedings (Northern Ireland) Order 1980[^f00007] then any summons issued shall be in the appropriate form in the Magistrates' Courts (Domestic Proceedings) Rules 1996[^f00008] and shall be prepared and served in accordance with those rules together with a copy of the written application referred to in paragraph (1).
+
+(4) At the same time as complying with paragraph (2) or (3) notice of the proceedings in Form C2A shall also be given by the applicant to those persons set out in relation to the relevant class of proceedings in column (iv) of Schedule 2 to these rules.
+
+## 5. Ex parte application[^key-75a71c00802857b0fe3e5345f5a54eac]
+
+(1) An application for—
+
+- (a) an Article 8 order;
+- (b) an emergency protection order under Article 63;
+- (c) an order or warrant under Article 67;
+- (d) a recovery order under Article 69; or
+- (e) a warrant under Article 178(2)
+
+may with the leave of the court be made ex parte and in which case Article 77(2) of the Magistrates' Courts (Northern Ireland) Order 1981 (civil proceedings to be upon complaint) and rule 4 shall not apply.
+
+(2) Where under paragraph (1) the leave of the court is granted the application may be made orally and the applicant shall within 48 hours of the making of the application—
+
+- (a) file a written copy of the application in Form C1 together with such of Forms C1AA or[^key-75edb96974220901e524eb305db36dc9] C6 to C17 as is appropriate; and
+- (b) serve a copy of the application and any order on—
+  - (i) the parties;
+  - (ii) any person who has actual care of the child or had such care immediately prior to the making of the order; and
+  - (iii) in the case of an order or warrant referred to in paragraph (1)(*b*) or (*c*) on the Board or Trust in whose area the child lives or was found.
+
+(3) Where the court refuses to make an order on an ex parte application it may direct that the application be made inter partes.
+
+## 6. Withdrawal of application[^key-1130297a2c6e8f30717da7bf7acd9da5]
+
+(1) An application may be withdrawn only with leave of the court.
+
+(2) Subject to paragraph (3) a person seeking leave to withdraw an application shall file and serve on the parties a written request for leave in Form C2 setting out the reasons for the request.
+
+(3) The request under paragraph (2) may be made orally to the court if the parties and, if appointed, the guardian ad litem or the welfare officer are present.
+
+(4) Upon receipt of a written request under paragraph (2), the court shall—
+
+- (a) if
+  - (i) the parties consent in writing,
+  - (ii) any guardian ad litem has had an opportunity to make representations, and
+  - (iii) the court thinks fit,
+
+  grant the request; in which case the clerk of petty sessions shall notify the parties, and any guardian ad litem or welfare officer; or
+- (b) the court shall fix a date for the hearing of the request and the clerk of petty sessions shall give at least 7 days' notice to the parties, and any guardian ad litem or the welfare officer of the date so fixed.
+
+## 7. Transfer of proceedings[^key-8fd3062d8725fc6199584c832546b2a5]
+
+(1) Where in any relevant proceedings the court receives a request in writing from a party that the proceedings be transferred to a county court or the High Court in accordance with the Allocation Order the court shall issue an order or certificate in the appropriate form in Schedule 1 to these Rules granting or refusing the request.
+
+(2) A copy of the order or certificate issued under paragraph (1) shall be sent by the clerk of petty sessions—
+
+- (a) to the parties,
+- (b) to any guardian ad litem, and
+- (c) to the chief clerk of the county court or the Master (Probate and Matrimonial) or the Master (Care and Protection) of the High Court as the case may be.
+
+## 8. Parties[^key-e040d2682cbadcf2d2394e87198ab0cd]
+
+(1) The respondents to relevant proceedings shall be those persons set out in the relevant entry in column (iii) of Schedule 2 to these rules.
+
+(2) In any relevant proceedings a person may file a request in Form C2 that he or another person—
+
+- (a) be joined as a party, or
+- (b) cease to be a party.
+
+(3) On considering a request under paragraph (2) the court shall, subject to paragraph (4)—
+
+- (a) grant it without a hearing or representations, save that this shall be done only in the case of a request under paragraph (2)(*a*), whereupon the clerk of petty sessions shall inform in writing the parties and the person making the request of that decision, or
+- (b) order that a date be fixed for the consideration of the request, whereupon the clerk of petty sessions shall give notice in writing of the date so fixed, together with a copy of the request—
+  - (i) in the case of a request under paragraph (2)(*a*), to the applicant and the person to be joined if he is not also the applicant, and
+  - (ii) in the case of a request under paragraph (2)(*b*), to the parties, or
+- (c) invite the parties or any of them to make written representations, within a specified period, as to whether the request should be granted; and upon the expiry of the period the court shall act in accordance with sub-paragraph (*a*) or (*b*).
+
+(4) Where a person with parental responsibility requests that he be joined under paragraph (2)(*a*), the court shall grant his request.
+
+(5) In any relevant proceedings the court may direct—
+
+- (a) that a person who would not otherwise be a respondent under these Rules be joined as a party to the proceedings, or
+- (b) that a party to the proceedings cease to be a party.
+
+## 9. Service[^key-2ea0faff941830a502d0576733b5851c]
+
+(1) Rule 11 and rule 13[^key-e36fe59f7deb0500970c0256fe4fcd57] of the Magistrates' Courts Rules (Northern Ireland) 1984 shall apply to the service of a summons under these Rules.
+
+(2) Service of any other document under these Rules may be effected—
+
+- (a) if the person to be served is not known by the person serving to be acting by solicitor—
+  - (i) by delivering it to him personally, or
+  - (ii) by delivering it at, or by sending it by first class post to, his residence or his last known residence, or
+- (b) if the person to be served is known by the person serving to be acting by solicitor—
+  - (i) by delivering the document at, or sending it by first class post to, the solicitor’s address for service,
+  - (ii) where the solicitor’s address for service includes a numbered box at a document exchange, by leaving the document at that document exchange or at a document exchange which transmits documents on every business day to that document exchange, or
+  - (iii) by sending a legible copy of the document by facsimile transmission to the solicitor’s office.
+
+(3) In this rule, “**first class post**” means first class post which has been pre-paid or in respect of which pre-payment is not required.
+
+(4) Where a child who is a party to any relevant proceedings is required by these rules to serve a document, service shall be effected by—
+
+- (a) the solicitor acting for the child,
+- (b) where there is no such solicitor, the guardian ad litem, or
+- (c) where there is neither such a solicitor nor a guardian ad litem, the clerk of petty sessions.
+
+(5) Service of any document on a child shall, subject to any direction of the court, be effected by service on—
+
+- (a) the solicitor acting for the child,
+- (b) where there is no such solicitor, the guardian ad litem, or
+- (c) where there is neither such a solicitor nor a guardian ad litem, with leave of the court, the child.
+
+(6) Where the court refuses leave under paragraph (5)(*c*), a direction shall be given under paragraph (8).
+
+(7) A document shall, unless the contrary is proved, be deemed to have been served—
+
+- (a) in the case of service by first class post, on the second business day after posting, and
+- (b) in the case of service in accordance with paragraph (1)(*b*)(ii), on the second business day after the day on which it is left at the document exchange.
+
+(8) In any relevant proceedings, where these rules require a document to be served, the court may, without prejudice to any power under rule 15, direct that—
+
+- (a) the requirement shall not apply;
+- (b) the time specified by the rules for complying with the requirement shall be abridged to such extent as may be specified in the direction;
+- (c) service shall be effected in such manner as may be specified in the direction.
+
+## 10. Acknowledgement of application[^key-34b9762375afbef2268e9fe6a66ba62a]
+
+Within 14 days of the service of a summons on an application for an Article 8 order or an application under Schedule 1 each respondent shall file and serve on the parties an acknowledgement in Form C4 and, if both parts of question 6 or question 7 (or both) on Form C4 are answered in the affirmative, Form C1AA.[^key-bdfd6caa4c8eb06d3a9377a7372178cf].
+
+## 11. Appointment of guardian ad litem[^key-fbe7090e1064f133ddbd0d0546363690]
+
+(1) As soon as practicable after the commencement of specified proceedings the court shall appoint a guardian ad litem unless the court considers that such an appointment is not necessary to safeguard the interests of the child.
+
+(2) At any stage in specified proceedings a party may apply, without notice to the other parties unless the court otherwise directs, for the appointment of a guardian ad litem.
+
+(3) The court shall grant an application under paragraph (2) unless it is considered that such an appointment is not necessary to safeguard the interests of the child, in which case reasons shall be given; and a note of such reasons shall be taken by the clerk of petty sessions.
+
+(4) At any stage in specified proceedings the court may appoint a guardian ad litem even though no application is made for such an appointment.
+
+(5) The clerk of petty sessions shall, as soon as practicable, notify the parties and any welfare officer in Form C41 of an appointment under this rule or, as the case may be, of a decision not to make such an appointment.
+
+(6) Upon the appointment of a guardian ad litem the clerk of petty sessions shall, as soon as practicable, notify him of the appointment in Form C41 and serve on him copies of the application and of documents filed under rule 18(1).
+
+(7) A guardian ad litem appointed from a panel established by regulations made under Article 60(7) shall not—
+
+- (a) be a member, officer or servant of a Board or Trust which, or an authorised person (within the meaning of Article 49(2)) who, is a party to the proceedings;
+- (b) be, or have been, a member, officer or servant of a Board or Trust voluntary organisation (within the meaning of Article 74(1)) who has been directly concerned in that capacity in arrangements relating to the care, accommodation or welfare of the child during the five years prior to the commencement of the proceedings;
+- (c) be a serving probation officer (except that a probation officer who has not in that capacity been previously concerned with the child or his family and who is employed part-time may, when not engaged in his duties as a probation officer, act as a guardian ad litem).
+
+(8) When appointing a guardian ad litem, the court may give consideration to appointing of anyone who has previously acted as guardian ad litem of the same child.
+
+(9) The appointment of a guardian ad litem under this rule shall continue for such time as is specified in the appointment or until terminated by the court.
+
+(10) When terminating an appointment in accordance with paragraph (9), the court shall give reasons in writing for so doing, and the clerk of petty sessions shall notify the parties, any welfare officer and the guardian ad litem of the termination in Form C41.
+
+## 12. Powers and duties of guardian ad litem[^key-478a6ec302a6ca30a924bb1fa270285b]
+
+(1) In carrying out his duty under Article 60(2) the guardian at litem shall have regard to the principle set out in Article 3(2) and the matters set out in Article 3(3)(*a*) to (*f*) as if for the word ‘court' in that Article there were substituted the words ‘guardian ad litem'.
+
+(2) The guardian ad litem shall—
+
+- (a) appoint a solicitor to represent the child, unless such a solicitor has already been appointed, and
+- (b) give such advice to the child as is appropriate having regard to his understanding and, subject to rule 13(1)(*a*), instruct the solicitor representing the child on all matters relevant to the interests of the child, including possibilities for appeal, arising in the course of the proceedings.
+
+(3) Where it appears to the guardian ad litem that the child—
+
+- (a) is instructing his solicitor direct, or
+- (b) intends to, and is capable of, conducting the proceedings on his own behalf,
+
+he shall so inform the court and thereafter—
+
+- (i) shall perform all of his duties set out in this rule, other than duties under paragraph (2)(*a*) and such other duties as the court may direct,
+- (ii) shall take such part in the proceedings as the court may direct, and
+- (iii) may, with leave of the court, have legal representation in his conduct of those duties.
+
+(4) The guardian ad litem shall, unless excused by the court, attend all directions appointments in, and hearings of, the proceedings and shall advise the court on the following matters—
+
+- (a) whether the child is of sufficient understanding for any purpose including the child’s refusal to submit to a medical or psychiatric examination or other assessment that the court has power to require, direct or order;
+- (b) the wishes of a child in respect of any matter relevant to the proceedings, including his attendance at court;
+- (c) the appropriate forum for the proceedings;
+- (d) the appropriate timing of the proceedings or any part of them;
+- (e) the options available to it in respect of the child and the suitability of each such option including what order should be made in determining the application;
+- (f) any other matter concerning which the court seeks his advice or concerning which he considers that the court should be informed.
+
+(5) The advice given under paragraph (4) may, subject to any order of the court, be given orally or in writing; and if the advice be given orally, a note of it shall be taken by the court.
+
+(6) The guardian ad litem shall, where practicable, notify any person whose joinder as a party to those proceedings would be likely, in the guardian ad litem’s opinion, to safeguard the interests of the child, of that person’s right to apply to be joined under rule (8)(2) and shall inform the court—
+
+- (a) of any such notification given,
+- (b) of anyone whom he attempted to notify under this paragraph but was unable to contact, and
+- (c) of anyone whom he believes may wish to be joined to the proceedings.
+
+(7) The guardian ad litem shall, unless the court otherwise directs, not less than 7 days before the date fixed for the final hearing of the proceedings, file a written report advising on the interests of the child; and the clerk of petty sessions shall, as soon as practicable, serve a copy of the report on the parties.
+
+(8) The guardian ad litem shall serve and accept service of documents on behalf of the child in accordance with rule 9(4)(*b*) and (5)(*b*) and, where the child has not himself been served, and has sufficient understanding, advise the child of the contents of any documents so served.
+
+(9) The guardian ad litem shall make such investigations as may be necessary for him to carry out his duties and shall, in particular—
+
+- (a) contact or seek to interview such persons as he thinks appropriate or as the court directs,
+- (b) if he inspects records of the kinds referred to in Article 61, bring to the attention of the court, and such other persons as the court may direct, all such records and documents which may, in his opinion, assist in the proper determination of the proceedings, and
+- (c) obtain such professional assistance as is available to him which he thinks appropriate or which the court directs him to obtain.
+
+(10) In addition to his duties under other paragraphs of this rule, the guardian ad litem shall provide to the court such other assistance as may be required.
+
+(11) A party may question the guardian ad litem about oral or written advice tendered by him to the court under this rule.
+
+## 13. Solicitor for child[^key-9e9b0e8a4ea3e67635b4d8701e5596c7]
+
+(1) A solicitor appointed under Article 60(3) or in accordance with rule 12(2)(*a*) shall represent the child—
+
+- (a) in accordance with instructions received from the guardian ad litem (unless the solicitor considers, having taken into account the views of the guardian ad litem and any direction of the court under rule 12(3), that the child wishes to give instructions which conflict with those of the guardian ad litem and that he is able, having regard to his understanding, to give such instructions on his own behalf in which case he shall conduct the proceedings in accordance with instructions received from the child), or
+- (b) where no guardian ad litem has been appointed for the child and the condition in Article 60(4)(*b*) is satisfied, in accordance with instructions received from the child, or
+- (c) in default of instructions under (*a*) or (*b*), in furtherance of the best interests of the child.
+
+(2) A solicitor appointed under Article 60(3) or in accordance with rule 12(2)(*a*) shall serve and accept service of documents on behalf of the child in accordance with rule 9(4)(*a*) and (5)(*a*) and, where the child has not himself been served and has sufficient understanding, advise the child of the contents of any documents so served.
+
+(3) Where the child wishes an appointment of a solicitor under Article 60(3) or in accordance with rule 12(2)(*a*) to be terminated, he may apply to the court for an order terminating the appointment; and the solicitor and the guardian ad litem shall be given an opportunity to make representations.
+
+(4) Where the guardian ad litem wishes an appointment of a solicitor under Article 60(3) to be terminated, he may apply to the court for an order terminating the appointment; and the solicitor and, if he is of sufficient understanding, the child, shall be given an opportunity to make representations.
+
+(5) When terminating an appointment in accordance with paragraph (3) or (4), the court shall give reasons in writing for so doing and the clerk of petty sessions shall notify the solicitor, the parties, the guardian ad litem and any welfare officer of the termination in Form C42.
+
+## 14. Welfare Officer[^key-35520e88a59459df86f43cd368e61cf6]
+
+(1) Where the court has directed that a written report be made by a welfare officer, the report shall be filed at or by such time as the court directs or, in the absence of such a direction, at least 14 days before a relevant hearing; and the clerk of petty sessions shall, as soon as practicable, serve a copy of the report on the parties and any guardian ad litem.
+
+(2) In paragraph (1), a hearing is relevant if the clerk of petty sessions has given the welfare officer notice that his report is to be considered at it.
+
+(3) After the filing of a written report by a welfare officer, the court may direct that the welfare officer attend any hearing at which the report is to be considered; and
+
+- (a) except where such a direction is given at a hearing attended by the welfare officer, the clerk of petty sessions shall inform the welfare officer of the direction; and
+- (b) at the hearing at which the report is considered any party may question the welfare officer about his report.
+
+(4) This rule is without prejudice to the court’s power to give directions under rule 15.
+
+## 15. Directions[^key-1d5d641cc27c0ba4bbe809ba5f0f7706]
+
+(1) In this rule ‘party' includes the guardian ad litem and where a request or direction concerns a report under Article 4, the welfare officer.
+
+(2) In any relevant proceedings the court may, subject to paragraph (4), give, vary or revoke directions for the conduct of the proceedings, including—
+
+- (a) the timetable for the proceedings;
+- (b) varying the time within which or by which an act is required, by these rules, to be done;
+- (c) the attendance of the child;
+- (d) the appointment of a guardian ad litem whether under Article 60 or otherwise, or of a solicitor under Article 60(3);
+- (e) the service of documents;
+- (f) the submission of evidence including experts' reports;
+- (g) the preparation of welfare reports under Article 4;
+- (h) the transfer of the proceedings to another court in accordance with the Allocation Order;
+  - (i) consolidation with other proceedings;
+
+  and the clerk of petty sessions shall, on receipt of an application, or where proceedings have been transferred to his court, refer the application to the court to consider whether such directions need to be given.
+
+(3) Where a direction is given under paragraph (2)(*h*), an order or certificate shall be issued in the appropriate form in Schedule 1 to these rules and the clerk of petty sessions shall follow the procedure set out in rule 7(2).
+
+(4) Directions under paragraph (2) may be given, varied or revoked either—
+
+- (a) of the court’s own motion and having given the parties notice in Form C3 of the intention to do so and an opportunity to attend and be heard or to make written representations,
+- (b) on the written request in Form C2 of a party specifying the direction which is sought, filed and served on the other parties, or
+- (c) on the written request in Form C2 of a party specifying the direction which is sought, to which the other parties consent and which they or their representatives have signed.
+
+(5) In an urgent case, the request under paragraph (4)(*b*) may, with the leave of the court, be made—
+
+- (a) orally,
+- (b) without notice to the parties, or
+- (c) both as in sub-paragraph (*a*) and as in sub-paragraph (*b*).
+
+(6) On receipt of a request under paragraph (4)(*b*) the clerk of petty sessions shall fix a date for the hearing of the request and give not less than 2 days' notice in Form C3 to the parties of the date so fixed.
+
+(7) On considering a request under paragraph (4)(*c*) the court shall either—
+
+- (a) grant the request, whereupon the clerk of petty sessions shall inform the parties of the decision, or
+- (b) fix a date for the hearing of the request, whereupon the clerk of petty sessions shall give not less than 2 days' notice in Form C3 to the parties of the date so fixed.
+
+(8) A party may request, in accordance with paragraph 4(*b*) or (*c*), that an order be made under Article 11(3) or, if he is entitled to apply for such an order, under Article 57(1), and paragraphs (5), (6) and (7) shall apply accordingly.
+
+(9) Where, in any relevant proceedings, the court has power to make an order of its own motion, the power to give directions under paragraph (2) shall apply.
+
+(10) Directions of a court which are still in force immediately prior to the transfer of relevant proceedings to another court shall continue to apply following the transfer, subject to any changes of terminology which are required to apply those directions to the court to which the proceedings are transferred, unless varied or discharged by directions under paragraph (2).
+
+(11) The court shall record the giving, variation or revocation of a direction under this rule in Form C18 and the clerk of petty sessions shall serve, as soon as practicable, a copy of the form on any party who was not present at the giving, variation or revocation.
+
+## 16. Timing of proceedings[^key-a1085cfa003052aa328328a292e85b25]
+
+At the—
+
+- (a) transfer of relevant proceedings to a family proceedings court in accordance with Article 10 or 11 of the Allocation Order, or
+- (b) postponement or adjournment of any hearing or directions appointment,
+
+the court shall—
+
+- (i) fix a date upon which the proceedings shall next come before the court, which date shall where paragraph (*a*) applies, be as soon as possible after the transfer; and
+- (ii) give notice to the parties and any guardian ad litem or welfare officer of the date so fixed.
+
+## 17. Attendance at directions appointment and hearing[^key-6369d451f16b8bfe0990b4bc4e4e5469]
+
+(1) Subject to paragraph (2), a party shall attend a directions appointment of which he has been given notice in accordance with rule 15(4) unless the court otherwise directs.
+
+(2) Relevant proceedings shall take place in the absence of any party including the child if—
+
+- (a) the court considers it in the interests of the child, having regard to the matters to be discussed or the evidence likely to be given, and
+- (b) the party is represented by a guardian ad litem or solicitor;
+
+and when considering the interests of the child under sub-paragraph (*a*) the court shall give the guardian ad litem, solicitor for the child and, if he is of sufficient understanding, the child, an opportunity to make representations.
+
+(3) Subject to paragraph (4) below, where at the time and place appointed for a hearing or directions appointment the applicant appears but one or more of the respondents do not, the court may proceed with the hearing or appointment.
+
+(4) The court shall not begin to hear an application in the absence of a respondent unless—
+
+- (a) it is proved to the satisfaction of the court that he received reasonable notice of the date of the hearing; or
+- (b) the court is satisfied that the circumstances of the case justify proceeding with the hearing.
+
+(5) Where, at the time and place appointed for a hearing or directions appointment, one or more respondents appear but the applicant does not, the court may refuse the application or, if sufficient evidence has previously been received, proceed in the absence of the applicant.
+
+(6) Where at the time and place appointed for a hearing or directions appointment neither the applicant nor any respondent appears, the court may refuse the application.
+
+(7) If the court considers it expedient in the interests of the child, it shall hear any relevant proceedings in private when only the officers of the court, the parties, their legal representatives and such other persons as specified by the court may attend.
+
+## 18. Evidence[^key-8f2ca6e592e5f017eb138d4d74ec25a7]
+
+(1) Subject to paragraphs (4) and (5) in any relevant proceedings a party shall file and serve on the other parties, any welfare officer and any guardian ad litem of whose appointment he has been given notice under rule 11(5)—
+
+- (a) written statements in Form C46 of the substance of the oral evidence which the party intends to adduce at a hearing of, or a directions appointment in, those proceedings,
+- (b) copies of any documents, including, subject to rule 19(3), experts' reports, upon which the party intends to rely, at a hearing of, or a directions appointment in, those proceedings,
+
+at or by such time as the court directs or, in the absence of a direction, before the hearing or appointment.
+
+(2) A party may, subject to any direction of the court about the timing of statements under this rule, file and serve on the parties a statement which is supplementary to a statement served under paragraph (1).
+
+(3) At a hearing or directions appointment a party may not, without the leave of the court—
+
+- (a) adduce evidence, or
+- (b) seek to rely on a document,
+
+in respect of which he has failed to comply with the requirements of paragraph (1).
+
+(4) In proceedings for an Article 8 order a party shall—
+
+- (a) neither file nor serve any document other than as required or authorised by these Rules, and
+- (b) in completing a form prescribed by these Rules, neither give information, nor make a statement, which is not required or authorised by that form,
+
+without the leave of the court.
+
+(5) In proceedings for an Article 8 order, no statement or copy may be filed under paragraph (1) unless the court otherwise directs.
+
+## 18A. Evidence by video link or other method[^key-4cebbaa0f6e14827af5a4fa5fc85abf4]
+
+The court may allow a witness to give evidence through a video link or by any other method of direct communication.
+
+## 19. Expert evidence: examination of child[^key-667a44c56398b3c89b9d1278b18e7483]
+
+(1) No person may, without the leave of the court, cause a child to be medically or psychiatrically examined, or otherwise assessed, for the purpose of the preparation of expert evidence for use in the proceedings.
+
+(2) An application for leave under paragraph (1) shall be made in Form C2 and shall, unless the court otherwise directs, be served on all the parties to the proceedings and on any guardian ad litem.
+
+(3) Where the leave of the court has not been given under paragraph (1), no evidence arising out of an examination or assessment to which that paragraph applies may be adduced without the leave of the court.
+
+## 20. Amendment[^key-ee88873dad95c6b32ba22965b632c9a3]
+
+(1) Subject to rule 18(2), a document which has been filed or served in any relevant proceedings may not be amended without the leave of the court which shall, unless the court otherwise directs, be requested in writing.
+
+(2) On considering a request for leave to amend a document the court shall either—
+
+- (a) grant the request, whereupon the clerk of petty sessions shall inform the person making the request of that decision, or
+- (b) invite the parties or any of them to make representations, within a specified period, as to whether such an order should be made.
+
+(3) A person amending a document shall file it with the clerk of petty sessions and serve it on those persons on whom it was served prior to amendment; and the amendments shall be identified.
+
+## 21. Hearing[^key-4d074970acc58d39abbba718fd05cb55]
+
+(1) Before the hearing the resident magistrate and any members of the juvenile court panel who will be dealing with the case shall read any documents which have been filed under rule 18.
+
+(2) Unless the court otherwise directs at a hearing of, or directions appointment in, relevant proceedings the parties and the guardian ad litem shall adduce their evidence in the following order—
+
+- (a) the applicant,
+- (b) any party with parental responsibility for the child,
+- (c) other respondents,
+- (d) the guardian ad litem,
+- (e) the child if he is a party to the proceedings and there is no guardian ad litem.
+
+(3) After the final hearing of relevant proceedings, the court shall make its decision as soon as is practicable.
+
+(4) Before the court makes an order or refuses an application the resident magistrate shall record in writing—
+
+- (a) the names of any members of the juvenile court panel who heard the case with him;
+- (b) the reasons for the court’s decision and any findings of fact.
+
+(5) When making an order or when refusing an application the resident magistrate shall—
+
+- (a) where the court has made a finding of fact state such finding and complete Form C19; and
+- (b) state the reasons for the court’s decision.
+
+(6) After the court announces its decision, the clerk of petty sessions shall, subject to rule 5(2)(*b*), as soon as practicable serve a copy of the order in the prescribed form in Schedule 1 to these rules on the parties to the proceedings and or any person with whom the child is living.
+
+## 21A. Transfer of proceedings ... under Article 8 of the 1996 Hague Convention[^key-d75f099b1f261ed4910368ae0454baf9][^key-9de55b8ce80d7ea2c781cc03566f9923]
+
+(1) Where a court is considering the transfer of proceedings to the court of another [^key-79e90c647afd188418e9d408e6c846e0]... Contracting State under rules 21B to 21D it will—
+
+- (a) fix a date for a hearing for the court to consider the question of transfer; and
+- (b) give directions as to the manner in which the parties may make representations.
+
+(2) The court may, with the consent of all parties, deal with the question of transfer without a hearing.
+
+(3) Directions which are in force immediately prior to the transfer of proceedings to a court in another [^key-7d9d2041bffcc38f74bb1dccb0ee2e91]... Contracting State under rules 21B to 21D will continue to apply until the court in that other State accepts jurisdiction in accordance with the provisions of [^key-cab7535fe3160c28e3ec9002ebb12644]... the 1996 Hague Convention (as appropriate), subject to any variation or revocation of the directions.
+
+(4) The clerk of petty sessions will—
+
+- (a) take a note of the giving, variation or revocation of directions under this rule; and
+- (b) as soon as practicable serve a copy of the directions order on every party.
+
+(5) A register of all applications and requests for transfer of jurisdiction to or from another [^key-b4eea37877d59bfbc5309ff8eff3daae]... Contracting State will be kept by the clerk of petty sessions.
+
+(6) In this rule and in rules 21B to 21V, references to the court of another [^key-1f050626de51da3b4e836ad39799ac70]... Contracting State include [^key-7cb32b58155f2ca5537b905da830f30a]... authorities of Contracting States which have jurisdiction to take measures directed to the protection of the person or property of the child within the meaning of the 1996 Hague Convention.
+
+## 21B. Application by a party for transfer of the proceedings to another ... Contracting State[^key-1060c7c1be317326ec309ac4162a170b]
+
+(1) A party may apply to the court [^key-a385c22203a2394fbf0d84b6e1f6ee7d]... under Article 8(1) of the 1996 Hague Convention—
+
+- (a) to stay the proceedings, or a specified part of the proceedings, and to invite the parties to introduce a request before a court of another [^key-4fa4f5e41a8324d851d352961e738c09]... Contracting State; or
+- (b) to make a request to a court of [^key-dfecbd353321e17250b0bac9ad56b19e]... another Contracting State to assume jurisdiction for the proceedings, or a specified part of the proceedings.
+
+(2) An application under paragraph (1) must be made—
+
+- (a) to the court in which the relevant parental responsibility proceedings are pending; and
+- (b) in Form C1 or C2 as appropriate.
+
+(3) The applicant must file the application and serve it on the respondents not less than 42 days before the hearing of the application.
+
+## 21C. Application by a court of ... another Contracting State for transfer of the proceedings[^key-2bbbd13c48d06b08a786f13b1dd06418]
+
+(1) This rule applies where a court of [^key-5d3cafb6ec6983c5461478e35315b18c]... another Contracting State makes an application [^key-809255f4e27d3b11451ed0ea8a7f24e2]... under Article 9 of the 1996 Hague Convention that the court having jurisdiction in relation to the proceedings transfer the proceedings, or a specified part of the proceedings, to the applicant court.
+
+(2) When the court receives the application, the clerk of petty sessions will—
+
+- (a) as soon as practicable, notify the Central Authority for Northern Ireland of the application; and
+- (b) serve the application, and notice of the hearing on all other parties in Northern Ireland not less than 5 days before the hearing of the application.
+
+## 21D. Exercise by the court of its own motion of powers to seek to transfer the proceedings
+
+(1) The court having jurisdiction in relation to the proceedings may of its own motion exercise its powers under [^key-93097abcf7a73aa4c56ad5df768fcc5e]... Article 8 of the 1996 Hague Convention in relation to the proceedings, or a specified part of the proceedings.
+
+(2) Where the court proposes to exercise its powers, the clerk of petty sessions will give the parties not less than 5 days notice of the hearing.
+
+## 21E. Application to High Court to make request under ... Article 9 of the 1996 Hague Convention to request transfer of jurisdiction[^key-9d467b287c1a07052568124c9e29f28c][^key-ea67da1321c718095094c95189a6ee41]
+
+(1) An application from an interested person for the court to request transfer of jurisdiction in a matter concerning a child from [^key-6d360d241c535d8f272b37aab4060c4a]... another Contracting State [^key-50c495081532a32b1cf0ac4095521556]... Article 9 of the 1996 Hague Convention (as the case may be) must be made without notice.
+
+(2) Upon receipt of an application under paragraph (1), the clerk of petty sessions must transfer the application to the Office of Care and Protection.
+
+(3) Upon the High Court agreeing to the request under paragraph (1), the court to which the proceedings are allocated must forthwith fix a directions hearing to consider the future conduct of the case.
+
+## 21F. Procedure where the court receives a request from the authorities of another ... Contracting State to assume jurisdiction in a matter concerning a child[^key-5481b7066e38f589de57cc3451dc052e]
+
+(1) Where the court receives a request to assume jurisdiction in a matter concerning a child from a court or other authority which has jurisdiction in another [^key-2f3b9f7f398d590f64d608372bdc594c]... Contracting State, that court must forthwith refer the request to a judge of the High Court for a decision regarding acceptance of jurisdiction to be made.
+
+(2) Upon the High Court agreeing to the request under paragraph (1), the court to which the proceedings are allocated must forthwith fix a directions hearing to consider the future conduct of the case.
+
+(3) The clerk of petty sessions will serve notice of the directions hearing on all parties to the proceedings in the other [^key-cd96f1fe6c2b58e29f3d295533e0adfd]... Contracting State no later than 5 days before the date of that hearing.
+
+## 21G. Service of the court’s order or request relating to transfer of jurisdiction under ... the 1996 Hague Convention[^key-5d877c657db7b017b1cf888a7008b611]
+
+The clerk of petty sessions will serve an order or request relating to transfer of jurisdiction on all parties, the Central Authority of the other [^key-8917aa50ae7b12c847e4b933c947ea7f]... Contracting State, and the Central Authority for Northern Ireland.
+
+## 21H. Questions as to the court’s jurisdiction or whether the proceedings should be stayed
+
+(1) If at any time after issue of an application it appears to the court that under [^key-7bead43ca31fc687c035d80a18a0a4bd]... Article 13 of the 1996 Hague Convention it is or may be required to stay the proceedings or to decline jurisdiction, the court must—
+
+- (a) stay the proceedings; and
+- (b) fix a date for a hearing to determine jurisdiction or whether there should be a stay or other matter.
+
+(2) The clerk of petty sessions will serve notice of the hearing referred to at paragraph (1)(b) on the parties to the proceedings.
+
+(3) The court must, in writing—
+
+- (a) give reasons for its decision under paragraph (1); and
+- (b) where it makes a finding of fact, state such finding.
+
+(4) The court may with the consent of all the parties deal with any question as to the jurisdiction of the court, or as to whether the proceedings should be stayed, without a hearing.
+
+## 21I. Request for consultation as to contemplated placement of child in Northern Ireland
+
+(1) This rule applies to a request made—
+
+- (a)[^key-f6a6806b1510f828e444410f5c0d135f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) under Article 33 of the 1996 Hague Convention by a court in another Contracting State
+
+for consultation on or consent to the contemplated placement of a child in Northern Ireland.
+
+(2) Where the court receives a request directly from a court in another [^key-cf4ce42ae0ca7c22171230639655e20e]... Contracting State, the court must, as soon as practicable after receipt of the request, notify the Central Authority for Northern Ireland of the request and take the appropriate action under paragraph (4).
+
+(3) Where it appears to the clerk of petty sessions that no proceedings relating to the child are pending before a court in Northern Ireland, the clerk must inform the Central Authority for Northern Ireland of that fact and forward to the Central Authority all documents relating to the request sent by the court in the other [^key-c188c544f139ec5089f7af4bca9b69bc]... Contracting State.
+
+(4) Where the court receives a request forwarded by the Central Authority for Northern Ireland, the court must, as soon as practicable after receipt of the request, either—
+
+- (a) where proceedings relating to the child are pending before the court, fix a directions hearing; or
+- (b) where proceedings relating to the child are pending before another court in Northern Ireland, send a copy of the request to that court and notify the Central Authority for Northern Ireland of this action.
+
+## 21J. Request made by court in Northern Ireland for consultation as to contemplated placement of child in another ... Contracting State[^key-0654e84bac4a0d3bd168157bfb9b4f67]
+
+(1) This rule applies where the court is contemplating the placement of a child in [^key-61024e3c67adcf397a28be8524cef44e]... another Contracting State under Article 33 of the 1996 Hague Convention, and proposes to send a request for consultation with or for the consent of the Central Authority or other authority having jurisdiction in the other State in relation to the contemplated placement.
+
+(2) In this rule, a reference to “**the request**” includes a reference to a report prepared for the purposes of Article 33 of the 1996 Hague Convention [^key-9a5605460a112191c2b2fa0c3a388fa2]....
+
+(3) Where the court sends the request directly to the Central Authority or other authority having jurisdiction in the other State, it must at the same time send a copy of the request to the Central Authority for Northern Ireland.
+
+(4) The court may send the request to the Central Authority for Northern Ireland for onward transmission to the Central Authority or other authority having jurisdiction in the other [^key-3f1584b0b011a3634ea35c2fb77bd8d8]... State.
+
+(5) The court should give consideration to the documents which should accompany the request.
+
+## 21K. Applications for recognition or non-recognition
+
+(1) [^key-d3b0d1f7f3ebaca21666ed2765c7fced]... Where the person making an application under rules 21L to 21Y does not produce the documents required by those rules, the court may—
+
+- (a) fix a time within which the documents are to be produced;
+- (b) accept equivalent documents; or
+- (c) dispense with the production of documents if the court considers that it has sufficient information.
+
+(2) [^key-c0d44838dce09eacf7339b4c92f94ad5]... A translation of the judgment must be supplied.
+
+(3) Where any document required by these rules or by the direction of the court under paragraph (1) is not in the English language, the applicant must supply a translation of each such document into English by a notary public or a person qualified for the purpose, authenticated by witness statement or affidavit.
+
+## 21L. Application for recognition of a judgment under the Council Regulation[^key-21aefc4d5e9e20dcd5cea019abd2d4cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21M. Application for non-recognition of a judgment under the Council Regulation[^key-9b97dda2902536eec4f6e990102afae8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21N. Application for recognition of a judgment under the 1996 Hague Convention
+
+An application for recognition under the 1996 Hague Convention must be supported by a statement that is sworn to be true or an affidavit—
+
+- (a) exhibiting—
+  - (i) the judgment, or a verified, certified or otherwise duly authenticated copy of the judgment;
+  - (ii) any documents to support the statements referred to paragraph (d);
+- (b) giving a description of the opportunities provided by the authority which gave the judgment in question for the child to be heard, except where that judgment was given in a case of urgency;
+- (c) giving details of any measures taken in a non-Contracting State of the habitual residence of the child, if applicable, specifying the nature and effect of the measure, and the date on which it was taken;
+- (d) in so far as not apparent from the copy of the judgment provided, stating the grounds on which the authority which gave the judgment has based its jurisdiction;
+- (e) where appropriate, stating whether Article 33 of the 1996 Hague Convention has been complied with, and the identity and address of the authority or authorities from which consent has been obtained;
+- (f)[^key-ed69712120010472c7f63a1ec3df5594] stating—
+  - (i) whether the judgment provided for the payment of a sum or sums of money;
+  - (ii) whether interest is recoverable on the judgment or part of it in accordance with the law of the Contracting State in which the judgment was given, and if so, the rate of interest, the date from which the interest is recoverable, and the date on which interest ceases to accrue;
+- (g) giving an address within the jurisdiction of the court for service of process on the party making the application and stating, so far as is known to the witness, the name and the usual or last known address or place of business of the person against whom judgment was given.
+
+## 21O. Application for non-recognition of a judgment under the 1996 Hague Convention
+
+An application for an order that a judgment should not be recognised under the 1996 Hague Convention must be supported by a statement that is sworn to be true or an affidavit—
+
+- (a) exhibiting —
+  - (i) the judgment, or a verified, certified or otherwise duly authenticated copy of the judgment;
+  - (ii) any documents to support the statements referred to in paragraph (b);
+- (b) stating the ground or grounds under Articles 23 of the 1996 Hague Convention on which it is requested that the judgment should not be recognised and the reasons why the applicant asserts that such ground or grounds is or are made out; and
+- (c) giving an address within the jurisdiction of the court for service of process on the applicant and stating, so far as is known to the applicant, the name and usual or last known address or place of business of the person in whose favour the judgment was given.
+
+## 21P. Stay of recognition proceedings by reason of an appeal
+
+Where recognition or non-recognition of a judgment given in another [^key-5d82839a45217c98d4dd2ad62f836290]... Contracting State is raised as an incidental question in other proceedings, the court may stay the proceedings—
+
+- (a) if an ordinary appeal against the judgment has been lodged; or
+- (b) if the judgment was given in the Republic of Ireland, if enforcement of the judgment is suspended there by reason of an appeal.
+
+## 21Q. Effect of refusal of application for a decision that a judgment should not be recognised
+
+Where the court refuses an application for a decision that a judgment should not be recognised, the court may direct that the decision to refuse the application be treated as a decision that the judgment be recognised.
+
+## 21R. Decision on recognition of a judgment
+
+(1) Where the court orders that the judgment should be recognised, the clerk of petty sessions will serve a copy of the order on each party as soon as practicable.
+
+(2) A sealed order of the court will constitute notification that the judgment has been recognised [^key-81457d49d0e420f6ad67fcfc03ed45d4]... under Article 24 of the 1996 Hague Convention.
+
+(3) The sealed order must indicate—
+
+- (a) full particulars of the judgment recognised;
+- (b) the name of the party making the application and that party’s address for service within the jurisdiction;
+- (c) the right of the person against whom judgment was given to appeal against the order for recognition; and
+- (d) the period within which an appeal against the order for recognition may be made.
+
+## 21S. Request for a certificate or a certified copy of a judgment
+
+(1) An application for a certified copy of a judgment [^key-00db05281a0a49b872f0477f5bd73602]... must be made to the court which made the order and without giving notice to any other party.
+
+(2) The certified copy of the judgment will be an office copy sealed with the seal of the court and signed by the clerk of petty sessions. It will be issued with a certified copy of any order which has varied any of the terms of the original order.
+
+(3) [^key-622bc6efc05ada48a140cb742df1a523]... The court must indicate on the certified copy of the judgment the grounds on which it based its jurisdiction to make the order, for the purposes of Article 23(2)(a) of the 1996 Hague Convention.
+
+## 21T. Applications for certified copy of judgment and certificate under Article 41 of the Council Regulation[^key-983314b069900168b7bbe05d1ae3ed63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21U. Applications for certified copy of judgment and certificate under Article 39 of the Council Regulation[^key-a9376e2f48231c6227461839df3aa761]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21V. Applications for certified copy of judgment under the 1996 Hague Convention
+
+An application for a certified copy of the judgment for the purposes of recognition and enforcement of the judgment under the 1996 Hague Convention must be supported by a statement that is sworn to be true or an affidavit—
+
+- (a) exhibiting—
+  - (i)[^key-da11dfd847fabd4e867843fc4de986d3] a copy of the application by which the proceedings were begun and a copy of all pleadings filed in the proceedings;
+  - (ii) evidence of service of the proceedings, if any;
+- (b) stating the grounds on which the court based its jurisdiction to make the orders in question;
+- (c) stating the age of the child at the time of the judgment and the measures taken, if any, for the child’s wishes and feelings to be ascertained; and
+- (d) stating which persons were provided with notice of the proceedings.
+
+## 21W. Certificates issued in Northern Ireland under Articles 41 of the Council Regulation
+
+The clerk of petty sessions will serve—
+
+- (a) a certificate issued under Articles 41 of the Council Regulation; or
+- (b) a certificate rectified under rule 21X,
+
+on all parties and will transmit a copy to the Central Authority for Northern Ireland.
+
+## 21X. Rectification of certificate issued under Articles 41 of the Council Regulation[^key-580fadfcb41a420632ec8dd99b244160]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21Y. Authentic instruments and agreements under Article 46 of the Council Regulation[^key-5273911ca533b5ea28da7b5877c46451]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 22. Costs[^key-4eb029abac41be48661803778aad610a]
+
+(1) In any relevant proceedings, the court may, at any time during the proceedings in that court, make an order that a party pay the whole or any part of the costs of any other party.
+
+(2) A party against whom the court is considering making a costs order shall have an opportunity to make representations as to why the order should not be made.
+
+## 23. Confidentiality of documents[^key-c5bc5c8fb0bc039524655607254a5848]
+
+(1) Subject to paragraphs (2) and (3)[^key-404338e5f07810d8daef8a5815cabd71] no document, other than a record of an order, held by the court and relating to relevant proceedings shall be disclosed, other than to—
+
+- (a) a party,
+- (b) the legal representative of a party,
+- (c) the guardian ad litem,
+- (d) the Legal Aid Department, or
+- (e) a welfare officer
+
+without the leave of the court.
+
+(2) Where the Department of Health and Social Services requires a person mentioned in regulation 2(2) or (3) of the Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992[^f00009] to furnish information or evidence for a purpose mentioned in regulation 3(1) of those Regulations, nothing in paragraph (1) shall prevent that person from furnishing the information or evidence sought or to require him to seek the leave of the court before doing so.
+
+(3) Nothing in paragraph (1) shall prevent the notification by the court of a direction under Article 56(1) to the authority concerned.
+
+(4)[^key-08aa0f570352c6d100370f512fa24788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 24. Disclosure of address[^key-30877497c125b36638c1fb51f38a6ecb]
+
+(1) Nothing in these rules shall be construed as requiring any party to reveal the address of their private residence or that of any child except by order of the court.
+
+(2) Where a party declines to reveal an address in reliance upon paragraph (1) he shall give notice of that address to the court in Form C5 and that address shall not be revealed to any person except by order of the court.
+
+## 25. Notification of Consent[^key-f1002354150bd90af06ba7fd4442bc55]
+
+(1) Consent for the purposes of—
+
+- (a) Article 16(3), or
+- (b) Article 33(3)(c) or (d), or
+- (c) Article 57A(2)(b)(ii), or
+- (d) Article 63A(2)(b)(ii)
+
+may be given either orally in court or in writing signed by the person giving the consent.
+
+(2) Any written consent given for the purposes of paragraph (2) of Article 57A or Article 63A shall include a statement that the person giving consent—
+
+- (a) is able and willing to give to the child the care which it would be reasonable to expect a parent to give him; and
+- (b) understands that the giving of consent could lead to the exclusion of the relevant person from the dwelling-house in which the child lives.
+
+## 25A. Exclusion requirements: interim care orders and emergency protection orders[^key-5b06bc29131088eabadc400d5c29b86a]
+
+(1) This rule applies where the court includes an exclusion requirement in an interim care order or an emergency protection order.
+
+(2) The applicant shall—
+
+- (a) prepare a separate statement of the evidence in support of the inclusion of an exclusion requirement;
+- (b) serve the statement on the relevant person with a copy of the order containing the exclusion requirement;
+- (c) inform the relevant person of his right to apply to vary or discharge the exclusion requirement.
+
+(3) The relevant person shall serve the parties to the proceedings with any application which he makes for the variation or discharge of the exclusion requirement.
+
+(4) Where an exclusion requirement ceases to have effect whether—
+
+- (a) as a result of the removal of a child under Article 57A(6) or Article 63A(6),
+- (b) because of the discharge of the interim care order or emergency protection order, or
+- (c) otherwise,
+
+the applicant shall inform—
+
+- (i) the relevant person,
+- (ii) the parties to the proceedings; and
+- (iii) (where necessary) the court.
+
+(5) Where the court includes an exclusion requirement in an interim care order or an emergency protection order of its own motion, paragraph (2) shall apply with the omission of any reference to the statement of the evidence.
+
+(6) In this rule—
+
+- “the applicant” means the person who initiated the proceedings in which the interim care order or the emergency protection order is made;
+- “exclusion requirement” means one or more of the provisions referred to in Article 57A(3) or, as the case may be, Article 63A(3); and
+- “relevant person” has the same meaning as in Article 57A(2)(a) or, as the case may be, Article 63A(2)(a).
+
+## 26. Secure accommodation[^key-7e83732febfabda9232033170ed87937]
+
+In proceedings under Article 44 the clerk of petty sessions shall, if practicable, arrange for copies of all written reports before the court to be made available before the hearing to—
+
+- (a) the applicant,
+- (b) the parent or guardian of the child,
+- (c) any legal representative of the child,
+- (d) the guardian ad litem, and
+- (e) the child, unless the court otherwise directs;
+
+and copies of such reports may, if the court considers it desirable, be shown to any person who is entitled to notice of the proceedings in accordance with these Rules.
+
+## 27. Investigation under Article 56[^key-a824e7a0a73bdcac2ba4b3e18f6d0763]
+
+(1) On giving a direction under Article 56 the court shall adjourn the proceedings and the clerk of petty sessions shall record the direction in Form C35.
+
+(2) A copy of the direction recorded under paragraph (1) shall, as soon as practicable after the direction is given be served by the clerk of petty sessions on the parties to the proceedings in which the direction is given and, where the appropriate authority is not a party, on that authority.
+
+(3) When serving the copy of the direction on the appropriate authority the clerk of petty sessions shall also serve copies of such of the documentary evidence which has been or is to be adduced in the proceedings as the court may direct.
+
+(4) Where an authority informs the court of any of the matters set out in Article 56(3)(*a*) to (*c*) it shall do so in writing.
+
+## 28. Appeals to a family proceedings court[^key-2a16f00b60b15d1be9f5015fbd39fd17]
+
+(1) An appeal to a family proceedings court under—
+
+- (a) Article 113,
+- (b) Article 131(6), or
+- (c) Article 145
+
+shall be brought by notice in Form C46 and shall be signed by the appellant or his legal representative.
+
+(2) The notice of appeal shall be accompanied by any copy of the decision or determination appealed against.
+
+(3) An appeal under Article 131(6) may only be brought within 21 days from the date of the step to which the appeal relates.
+
+(4) The clerk of petty sessions shall fix a date for the hearing of the appeal and shall give at least seven days' notice of the date so fixed to the parties.
+
+## 29. Contribution orders[^key-74728f99a7f1f98b6081ca99a99f736d]
+
+(1) An application for a contribution order under Article 41(1) shall be accompanied by a copy of the contribution notice served in accordance with Article 40(1) and a copy of any notice served by the contributor under Article 40(8).
+
+(2) Where an authority notifies the court of an agreement reached under Article 41(6) it shall do so in writing through the clerk of petty sessions.
+
+(3) An application for the variation or revocation of a contribution order under Article 41(8) shall be accompanied by a copy of the contribution order which it is sought to vary or revoke.
+
+## 30. Direction to an education and library board[^key-5787970dc629869565ae580f1391139a]
+
+(1) For the purpose of paragraph 6 of Schedule 13 to the Education and Libraries (Northern Ireland) Order 1986[^f00010] a direction to an education and libraries board to apply for an education supervision order shall be in Form C35A.
+
+(2) Where, following such a direction the education and library board informs the court that they have decided not to apply for an education supervision order, they shall do so in writing.
+
+Mackay of Clashfern, *C.*
+
+Dated 25th July 1996.
+
+## SCHEDULE 1 — Forms[^key-ba2dfa63837092e853af3d69defa6868]
+
+Rule 1(4)
+
+[^key-77796bddfca3272d476ef7afd6a60684][^key-997d30118e19420b51ad520714ca5d79][^key-82d2ef2113bf1c52fbca044428b6e3ab][^key-60495bb7469fce1e820d209a63487a07][^key-2b1f7ad91c95eea976322f95f6dfcd9a]FORM C1
+
+APPLICATION FOR AN ORDER
+
+Children (Northern Ireland) Order 1995
+
+Magistrates' Courts (Children (Northern Ireland) Order 1995 Rules (Northern Ireland) 1996
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_001) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_002) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_003)
+
+[^key-bbe58e8fd4c04e0c4cbd121bcf2a5438]FORM C1AA[^key-66a6d806ce8e0f7076cf37b313eed07f]
+
+SUPPLEMENTAL INFORMATION FORM
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_007.gif)[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_008.gif)[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_009.gif)[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_010.gif)[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_011.gif)[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_012.gif)
+
+[^key-93e59048fbcbdac9e5106b9bcbdf4c79]FORM C1A
+
+SUMMONS TO RESPONDENT ON AN APPLICATION UNDER THE CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_004)
+
+[^key-14e92fcb1fb09b5b28617cdbb3ec9f47][^key-6a0d20a8663164c7d8507599480e1d52][^key-1ee917717a902ebcb710f0918684c3e5]FORM C2
+
+APPLICATION
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_005)
+
+[^key-40c059ff0545f7902c766004224f4963]FORM C2A
+
+NOTICE TO NON-PARTIES OF PROCEEDINGS
+
+Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_006)
+
+[^key-811254acb1cdb14dc7db59b50f127f1a]FORM C3
+
+NOTICE TO PARTIES OF DIRECTIONS APPOINTMENT
+
+Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_007)
+
+[^key-eeff7f4612e66be51d0b140d3ea33c7d]FORM C4
+
+ACKNOWLEDGEMENT
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_013.gif) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_014.gif) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_015.gif)
+
+FORM C5
+
+CONFIDENTIAL ADDRESS
+
+Magistrates' Courts (Children Order (Northern Ireland) 1995) Rules (Northern Ireland) 1996
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_010)
+
+[^key-02ac2c9132d32e55a8d74e5e9821c6ec]FORM C6
+
+SUPPLEMENT FOR AN APPLICATION CONCERNING THE REGISTRATION OF A CHILD-MINDER OR PROVIDER OF DAY CARE
+
+Article 129 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_011)
+
+[^key-e8663d7bb1a537434d2872837a1cb5f1]FORM C7
+
+SUPPLEMENT FOR AN APPLICATION FOR FINANCIAL PROVISION FOR A CHILD OR VARIATION OF FINANCIAL PROVISION FOR A CHILD
+
+Schedule 1 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_012) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_013)
+
+[^key-5f5681b073b7c8b6a781eec0e0eccb55][^key-9ccb9c0d3ac6dd1a554efabc5fdfad38][^key-27023f10d863a4fa84eb041f00cce9ef]FORM C7A
+
+STATEMENT OF MEANS
+
+Schedule 1 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_014) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_015) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_016) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_017)
+
+[^key-ce9d300907844ffa18ea7a85901742bd][^key-06d172c93aa7a3595dc482a0753b9edd]FORM C8
+
+SUPPLEMENT FOR AN APPLICATION FOR AN EMERGENCY PROTECTION ORDER
+
+Article 63 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_001.gif) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_002.gif)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C9
+
+SUPPLEMENT FOR AN APPLICATION FOR A WARRANT TO ASSIST A PERSON AUTHORISED BY AN EMERGENCY PROTECTION ORDER
+
+Article 67 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_020)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C10
+
+SUPPLEMENT FOR AN APPLICATION FOR A CARE OR SUPERVISION ORDER
+
+Article 50 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_021)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C11
+
+SUPPLEMENT FOR AN APPLICATION FOR AUTHORITY TO REFUSE CONTACT WITH A CHILD IN CARE
+
+Article 53(4) Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_022)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C12
+
+SUPPLEMENT FOR AN APPLICATION FOR CONTACT WITH A CHILD IN CARE
+
+Article 53(2) and (3) Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_023)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C13
+
+SUPPLEMENT FOR AN APPLICATION FOR A CHILD ASSESSMENT ORDER
+
+Article 62 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_024)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C14
+
+SUPPLEMENT FOR AN APPLICATION FOR AN EDUCATION SUPERVISION ORDER
+
+Article 55 Children (Northern Ireland) Order 1995
+
+Paragraph 6 Schedule 4 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_025)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C14A
+
+SUPPLEMENT FOR AN APPLICATION FOR AN EXTENSION OF AN EDUCATION SUPERVISION ORDER
+
+Paragraph 5(2) of Schedule 4 to the Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_026)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C15
+
+SUPPLEMENT FOR AN APPLICATION FOR A RECOVERY ORDER
+
+Article 69 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_027) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_028)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C16
+
+APPLICATION FOR A WARRANT OF ASSISTANCE
+
+Article 178 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_029) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_030) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_031)
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]FORM C17
+
+SUPPLEMENT FOR AN APPLICATION FOR AN ORDER TO HOLD A CHILD IN SECURE ACCOMMODATION
+
+Article 44 Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_032)
+
+[^key-8d4c9ac48990e21c8f3f00b873928c14]FORM C18
+
+ORDER OR DIRECTION
+
+Children (Northern Ireland) Order 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_033)
+
+FORM C19
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_034)
+
+[^key-2d679b98f11b313f476a6771e964d612][^key-40858dcb68a50351460b2364691c83ed][^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C20
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_003.gif) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_004.gif)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C21
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_037)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C22
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_038) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_039)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C23
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_040)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C24
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_041) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_042)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C25
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_043) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_044) [image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_045)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C26
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_046)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C27
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_047)
+
+[^key-d041046d5440a4ef435d4e0e6b2189d5][^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C28
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_epp_005.gif)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C29
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_049)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C30
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_050)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]FORM C31
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_051)
+
+[^key-b784d33dbecd4272b2f19419558cde07]FORM C32
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_052)
+
+[^M_F_1244c364-e10b-4b96-83f1-dd003e7f32ff]FORM C33
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_053)
+
+[^key-4b4db65cfe32bddc8040304eb8676615]FORM C34
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_054)
+
+[^key-544219f74d22a3eca3f707fa676c8e8b]FORM C35
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_055)
+
+[^key-68fe028aa4e29d38504e6f4fb0d3778c]FORM C35A
+
+EDUCATION AND LIBRARIES (NORTHERN IRELAND) ORDER 1986: Schedule 13 paragraph 6
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_056)
+
+[^key-5adeead3a5a012ea8635ae23d0be1eec]FORM C36
+
+CHILDREN (NORTHERN IRELAND) ORDER 199
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_057)
+
+[^key-1e58b261eedfe46394d300dcb76af1a6]FORM C37
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_058)
+
+[^key-cb87a87c46667779e2217533bf0f3390]FORM C38
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_059)
+
+[^key-3a1552ce2d7f987dd24543568c56526f][^key-cc8370efa950f3a1953fd075b67d4972]FORM C39
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_060)
+
+[^key-16d471fd4828c25050fc0bdcf26d998b]FORM C40
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_061)
+
+[^key-242d936f59485a1e2d4da5f17c535776]FORM C41
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_062)
+
+[^key-81ffe69d68d845fc5645cf75f71a8d02]FORM C42
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_063)
+
+[^key-00ec1e8765adb3fa99d826aa524d08e4]FORM C43
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_064)
+
+[^key-0d8666bcce6cd5faa2cf2b4b3a027b0a]FORM C44
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_065)
+
+[^key-af8204763194b5827c3d47a1c07adb18][^key-6e252a607b43393564072b77c86f0fd4]FORM C45
+
+CHILDREN (NORTHERN IRELAND) ORDER 1995
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_066)
+
+FORM C46
+
+WRITTEN STATEMENT OF THE SUBSTANCE OF ORAL EVIDENCE TO BE ADDUCED AT \[HEARING\] \[DIRECTIONS APPOINTMENT\]
+
+Rule 18 Magistrates' Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/323/images/nisr_19960323_en_067)
+
+## SCHEDULE 2 — Notices and Respondents[^key-2f9cdb8bfef43e4db4a6fb0bcb00f3af]
+
+Rule 4
+
+<table>
+<thead>
+<tr><th><em>(i)</em></th><th><em>(ii)</em></th><th><em>(iii)</em></th><th><em>(iv)</em></th></tr>
+<tr><th><em>Provision under which proceedings brought</em></th><th><em>Minimum number of days prior to hearing or directions appointment for service under rule 4(2)</em></th><th><em>Respondents</em></th><th><em>Persons to whom notice is to be given</em></th></tr>
+</thead>
+<tbody>
+<tr><td>All applications</td><td>See separate entries below</td><td>Subject to separate entries below:<br>every person whom the applicant believes to have parental responsibility for the child;<br>where the child is the subject of a care order, every person whom the applicant believes to have had parental responsibility immediately prior to the making of the care order;<br>in the case of an application to extend, vary or discharge an order, the parties to the proceedings leading to the order which it is sought to have extended, varied or discharged;<br>in the case of specified proceedings, the child.</td><td>Subject to separate entries below:<br>any authority providing accommodation for the child;<br>persons who are caring for the child at the time when the proceedings are commenced;<br>in the case of proceedings brought in respect of a child who is alleged to be staying in a refuge which is certificated under Article 70(1) or (2), the person who is providing the refuge.</td></tr>
+<tr><td>Article 7(1)(c), 7(1A), 7(4), 8, 13(1), 16(6), 33(1), 52(7), 159(1), 163(1) Schedule 1, Paragraphs 10(3) and 12(4) of Schedule 8</td><td>14 days</td><td>As for “all applications” above and:<br>in the case of proceed-ings under Schedule 1, those persons whom the applicant believes to be interested in or affected by the proceedings;<br>in the case of an application under paragraph 10(3)(b) or 12(4) of Schedule 8, any person, other than the child, named in the order or directions which it is sought to discharge or vary.</td><td>As for “all applications” above, and:<br>in the case of an application for an Article 8 order, every person whom applicant believes—<br>(i) to be named in a court order with respect to the same child, which has not ceased to have effect,<br>(ii) to be a party to pending proceedings in respect of the same child, or<br>(iii) to be a person with whom the child has lived for at least 3 years prior to the application,<br>unless, in a case to which (i) or (ii) applies, the applicant believes that the court order or pending proceedings are not relevant to the application; in the case of an application under Article 33(1), the parties to the proceedings leading to the care order; in the case of an application under Article 159(1), the father of the child if he does not have parental responsibility.</td></tr>
+<tr><td>Article 55(1), 58(1), 58(2), 58(3), 58(4), 62(1), Paragraph 6(3) of Schedule 3, Paragraphs 5(2) and 7(1) of Schedule 4</td><td>7 days</td><td>As for “all applications” above, and:<br>in the case of an application under Article 58(2) or (3), the supervisor;<br>in the case of proceedings under paragraph 7(1) of Schedule 4, the education and library board concerned;<br>in the case of proceedings under Article 55 or paragraph 5(2) or 7(1) of Schedule 4, the child.</td><td>As for “all applications” above, and:<br>in the case of an application for an order under Article 62(1)—<br>(i) every person whom the applicant believes to be a parent of the child,<br>(ii) every person whom the applicant believes to be caring for the child,<br>(iii) every person in whose favour a contact order is in force with respect to the child, and<br>(iv) every person who is allowed to have contact with the child by virtue of an order under Article 53.</td></tr>
+<tr><td>Article 50, 53(2), 53(3), 53(4), 53(9) or 57(8)(b)</td><td>3 days</td><td>As for “all applications” above, and:<br>in the case of an application under Article 53, the person whose contact with the child is the subject of the application.</td><td>As for “all applications” above, and:<br>in the case of an application under Article 50—<br>(i) every person whom the applicant believes to be a party to pending relevant proceedings in respect of the same child, and<br>(ii) every person whom the applicant believes to be a parent without parental responsibility for the child.</td></tr>
+<tr><td>Article 62(12)</td><td>2 days</td><td>As for “all applications” above.</td><td>Those of the persons referred to in Article 62(11)(a) to (e) who were not party to the application for the order which it is sought to have varied or discharged.</td></tr>
+<tr><td>Article 44, 63(1), 63(9)(b), 64(3), 64(7), 67(9), 69(1), 178(1)</td><td>1 day</td><td>As for “all applications” above, and:<br>in the case of an application under Article 63(9)(b)—<br>(i) the parties to the application for the order in respect of which it is sought to vary the directions;<br>(ii) any person who was caring for the child prior to the making of the order, and<br>(iii) any person whose contact with the child is affected by the direction which it is sought to have varied;<br>in the case of an application under Article 69, the person whom the applicant alleges to have effected or to have been or to be responsible for the taking or keeping of the child.</td><td>Except for applications under Article 178(1), as for “all applications” above, and:<br>in the case of an application under Article 63(1), every person whom the applicant believes to be a parent of the child;<br>in the case of an application under Article 63(9)(b)—<br>(i) the authority in whose area the child is living, and<br>(ii) any person whom the applicant believes to be affected by the direction which it is sought to have varied;<br>in the case of an application under Article 178(1), the person referred to in Article 178(1) and any person preventing or likely to prevent such a person from exercising powers under enactments mentioned in paragraph (6) of that Article.</td></tr>
+</tbody>
+</table>
+
+[^key-054777fdde6855b46c8f8cb822202f33]
+
+(This note is not part of the Rules.)
+
+These Rules provide for applications to a magistrates' court (including a family proceedings court) under the Children (Northern Ireland) Order 1995.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^f00002]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^key-198bc78a83b80d268e185b33b0b291f7]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/323/rule/1) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^f00003]: Footnote: [S.R. 1996 No. 300](https://www.legislation.gov.uk/nisr/1996/300)
+
+[^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^key-5d18ed48f30f01875ec424f88e2242a8]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2005/559/article/3/a) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-cefdf6ae2c97ff2081c53a7b81be66ac]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 26](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/26) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+
+[^key-491aea66e0ce01d94a50db1480b116d3]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) inserted (1.11.2012) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/61)](https://www.legislation.gov.uk/nisr/2011/61), [rules 2](https://www.legislation.gov.uk/nisr/2011/61/rule/2), [4(a)(b)](https://www.legislation.gov.uk/nisr/2011/61/rule/4/a)
+
+[^key-7ff080a2af76f8e1e817fcf7ef791f7e]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [19(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/19/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fa43c94286fa362f35fcda4ddfe2382a]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) inserted (1.11.2012) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/61)](https://www.legislation.gov.uk/nisr/2011/61), [rules 2](https://www.legislation.gov.uk/nisr/2011/61/rule/2), [4(c)](https://www.legislation.gov.uk/nisr/2011/61/rule/4/c)
+
+[^key-6e24df1cbe3c5708ad4a5a366a4fa8bb]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [19(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/19/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9a28eda697821f048b897527791e330b]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [19(c)](https://www.legislation.gov.uk/nisr/2019/238/rule/19/c) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-80bea483c8716924eeb13f4489868852]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [19(d)](https://www.legislation.gov.uk/nisr/2019/238/rule/19/d) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5ef0ed3862a34c9e0e900fcea2299525]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/3) inserted (1.11.2012) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/61)](https://www.legislation.gov.uk/nisr/2011/61), [rules 2](https://www.legislation.gov.uk/nisr/2011/61/rule/2), [4(d)](https://www.legislation.gov.uk/nisr/2011/61/rule/4/d)
+
+[^f00005]: Footnote: [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429)
+
+[^f00006]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225)
+
+[^key-54ca5138d368eb5686157abdfc32c91a]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/323/rule/2) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-f631e63ae325fa972579eef1b989bf76]: Textual amendment: Words in [rule 2(5)(a)](https://www.legislation.gov.uk/nisr/1996/323/rule/2/5/a) substituted (23.6.2008) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment No. 2) Rules (Northern Ireland) 2008 (S.R. 2008/225)](https://www.legislation.gov.uk/nisr/2008/225), [rules 1](https://www.legislation.gov.uk/nisr/2008/225/rule/1), [3](https://www.legislation.gov.uk/nisr/2008/225/rule/3)
+
+[^key-76923bd0bbe5cdd4e0862ef96e3d3b2a]: Textual amendment: Word in [rule 2(5)(b)](https://www.legislation.gov.uk/nisr/1996/323/rule/2/5/b) inserted (10.3.2008) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/35)](https://www.legislation.gov.uk/nisr/2008/35), [rules 1](https://www.legislation.gov.uk/nisr/2008/35/rule/1), [2(b)](https://www.legislation.gov.uk/nisr/2008/35/rule/2/b)
+
+[^key-d83ec5d19e076b74c838a29a1368cf39]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/323/rule/3) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-c4497ac190b568eebe21886eefacd038]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/323/rule/4) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-bac955cf2d0146d3666dd2b708f03fe8]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/4/1) inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [4](https://www.legislation.gov.uk/nisr/2005/559/article/4) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^f00007]: Footnote: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563)
+
+[^f00008]: Footnote: S.R. 1996 No.
+
+[^key-75a71c00802857b0fe3e5345f5a54eac]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/323/rule/5) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-75edb96974220901e524eb305db36dc9]: Textual amendment: Words in [rule 5(2)(a)](https://www.legislation.gov.uk/nisr/1996/323/rule/5/2/a) inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [5](https://www.legislation.gov.uk/nisr/2005/559/article/5) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-1130297a2c6e8f30717da7bf7acd9da5]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/1996/323/rule/6) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-8fd3062d8725fc6199584c832546b2a5]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/1996/323/rule/7) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-e040d2682cbadcf2d2394e87198ab0cd]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/1996/323/rule/8) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-2ea0faff941830a502d0576733b5851c]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/1996/323/rule/9) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-e36fe59f7deb0500970c0256fe4fcd57]: Textual amendment: Words in [rule 9](https://www.legislation.gov.uk/nisr/1996/323/rule/9) substituted (29.3.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 1999 (S.R. 1999/63)](https://www.legislation.gov.uk/nisr/1999/63), [rules 1(1)](https://www.legislation.gov.uk/nisr/1999/63/article/1/1), [2](https://www.legislation.gov.uk/nisr/1999/63/article/2) (with [rule 7](https://www.legislation.gov.uk/nisr/1999/63/article/7))
+
+[^key-34b9762375afbef2268e9fe6a66ba62a]: Commencement: [Rule 10](https://www.legislation.gov.uk/nisr/1996/323/rule/10) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-bdfd6caa4c8eb06d3a9377a7372178cf]: Textual amendment: Words in [rule 10](https://www.legislation.gov.uk/nisr/1996/323/rule/10) inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [6](https://www.legislation.gov.uk/nisr/2005/559/article/6) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-fbe7090e1064f133ddbd0d0546363690]: Commencement: [Rule 11](https://www.legislation.gov.uk/nisr/1996/323/rule/11) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-478a6ec302a6ca30a924bb1fa270285b]: Commencement: [Rule 12](https://www.legislation.gov.uk/nisr/1996/323/rule/12) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-9e9b0e8a4ea3e67635b4d8701e5596c7]: Commencement: [Rule 13](https://www.legislation.gov.uk/nisr/1996/323/rule/13) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-35520e88a59459df86f43cd368e61cf6]: Commencement: [Rule 14](https://www.legislation.gov.uk/nisr/1996/323/rule/14) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-1d5d641cc27c0ba4bbe809ba5f0f7706]: Commencement: [Rule 15](https://www.legislation.gov.uk/nisr/1996/323/rule/15) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-a1085cfa003052aa328328a292e85b25]: Commencement: [Rule 16](https://www.legislation.gov.uk/nisr/1996/323/rule/16) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-6369d451f16b8bfe0990b4bc4e4e5469]: Commencement: [Rule 17](https://www.legislation.gov.uk/nisr/1996/323/rule/17) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-8f2ca6e592e5f017eb138d4d74ec25a7]: Commencement: [Rule 18](https://www.legislation.gov.uk/nisr/1996/323/rule/18) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-4cebbaa0f6e14827af5a4fa5fc85abf4]: Textual amendment: [Rule 18A](https://www.legislation.gov.uk/nisr/1996/323/rule/18A) inserted (22.10.2007) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2007 (S.R. 2007/397)](https://www.legislation.gov.uk/nisr/2007/397), [rules 1](https://www.legislation.gov.uk/nisr/2007/397/rule/1), [2](https://www.legislation.gov.uk/nisr/2007/397/rule/2)
+
+[^key-667a44c56398b3c89b9d1278b18e7483]: Commencement: [Rule 19](https://www.legislation.gov.uk/nisr/1996/323/rule/19) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-ee88873dad95c6b32ba22965b632c9a3]: Commencement: [Rule 20](https://www.legislation.gov.uk/nisr/1996/323/rule/20) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-4d074970acc58d39abbba718fd05cb55]: Commencement: [Rule 21](https://www.legislation.gov.uk/nisr/1996/323/rule/21) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-d75f099b1f261ed4910368ae0454baf9]: Textual amendment: [Rules 21A-21D](https://www.legislation.gov.uk/nisr/1996/323/rule/21A) substituted (1.11.2012) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/61)](https://www.legislation.gov.uk/nisr/2011/61), [rules 2](https://www.legislation.gov.uk/nisr/2011/61/rule/2), [5](https://www.legislation.gov.uk/nisr/2011/61/rule/5)
+
+[^key-9de55b8ce80d7ea2c781cc03566f9923]: Textual amendment: Words in [rule 21A](https://www.legislation.gov.uk/nisr/1996/323/rule/21A) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79e90c647afd188418e9d408e6c846e0]: Textual amendment: Words in [rule 21A(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21A/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7d9d2041bffcc38f74bb1dccb0ee2e91]: Textual amendment: Words in [rule 21A(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/21A/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(c)(i)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/c/i) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cab7535fe3160c28e3ec9002ebb12644]: Textual amendment: Words in [rule 21A(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/21A/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(c)(ii)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/c/ii) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b4eea37877d59bfbc5309ff8eff3daae]: Textual amendment: Words in [rule 21A(5)](https://www.legislation.gov.uk/nisr/1996/323/rule/21A/5) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(d)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/d) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1f050626de51da3b4e836ad39799ac70]: Textual amendment: Words in [rule 21A(6)](https://www.legislation.gov.uk/nisr/1996/323/rule/21A/6) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(e)(i)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/e/i) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7cb32b58155f2ca5537b905da830f30a]: Textual amendment: Words in [rule 21A(6)](https://www.legislation.gov.uk/nisr/1996/323/rule/21A/6) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [20(e)(ii)](https://www.legislation.gov.uk/nisr/2019/238/rule/20/e/ii) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1060c7c1be317326ec309ac4162a170b]: Textual amendment: Words in [rule 21B](https://www.legislation.gov.uk/nisr/1996/323/rule/21B) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/21/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a385c22203a2394fbf0d84b6e1f6ee7d]: Textual amendment: Words in [rule 21B(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21B/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/21/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4fa4f5e41a8324d851d352961e738c09]: Textual amendment: Words in [rule 21B(1)(a)](https://www.legislation.gov.uk/nisr/1996/323/rule/21B/1/a) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [21(c)](https://www.legislation.gov.uk/nisr/2019/238/rule/21/c) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dfecbd353321e17250b0bac9ad56b19e]: Textual amendment: Words in [rule 21B(1)(b)](https://www.legislation.gov.uk/nisr/1996/323/rule/21B/1/b) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [21(d)](https://www.legislation.gov.uk/nisr/2019/238/rule/21/d) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2bbbd13c48d06b08a786f13b1dd06418]: Textual amendment: Words in [rule 21C](https://www.legislation.gov.uk/nisr/1996/323/rule/21C) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [22(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/22/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5d3cafb6ec6983c5461478e35315b18c]: Textual amendment: Words in [rule 21C(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21C/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [22(b)(i)](https://www.legislation.gov.uk/nisr/2019/238/rule/22/b/i) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-809255f4e27d3b11451ed0ea8a7f24e2]: Textual amendment: Words in [rule 21C(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21C/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [22(b)(ii)](https://www.legislation.gov.uk/nisr/2019/238/rule/22/b/ii) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-93097abcf7a73aa4c56ad5df768fcc5e]: Textual amendment: Words in [rule 21D(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21D/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [23](https://www.legislation.gov.uk/nisr/2019/238/rule/23) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d467b287c1a07052568124c9e29f28c]: Textual amendment: [Rules 21E-21Y](https://www.legislation.gov.uk/nisr/1996/323/rule/21E) inserted (1.11.2012) by [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/61)](https://www.legislation.gov.uk/nisr/2011/61), [rules 2](https://www.legislation.gov.uk/nisr/2011/61/rule/2), [6](https://www.legislation.gov.uk/nisr/2011/61/rule/6)
+
+[^key-ea67da1321c718095094c95189a6ee41]: Textual amendment: Words in [rule 21E](https://www.legislation.gov.uk/nisr/1996/323/rule/21E) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [24(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/24/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6d360d241c535d8f272b37aab4060c4a]: Textual amendment: Words in [rule 21E(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21E/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [24(b)(i)](https://www.legislation.gov.uk/nisr/2019/238/rule/24/b/i) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50c495081532a32b1cf0ac4095521556]: Textual amendment: Words in [rule 21E(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21E/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [24(b)(ii)](https://www.legislation.gov.uk/nisr/2019/238/rule/24/b/ii) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5481b7066e38f589de57cc3451dc052e]: Textual amendment: Words in [rule 21F](https://www.legislation.gov.uk/nisr/1996/323/rule/21F) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [25(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/25/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2f3b9f7f398d590f64d608372bdc594c]: Textual amendment: Words in [rule 21F(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21F/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [25(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/25/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd96f1fe6c2b58e29f3d295533e0adfd]: Textual amendment: Words in [rule 21F(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/21F/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [25(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/25/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5d877c657db7b017b1cf888a7008b611]: Textual amendment: Words in [rule 21G](https://www.legislation.gov.uk/nisr/1996/323/rule/21G) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [26(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/26/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8917aa50ae7b12c847e4b933c947ea7f]: Textual amendment: Words in [rule 21G](https://www.legislation.gov.uk/nisr/1996/323/rule/21G) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [26(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/26/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7bead43ca31fc687c035d80a18a0a4bd]: Textual amendment: Words in [rule 21H](https://www.legislation.gov.uk/nisr/1996/323/rule/21H) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [27](https://www.legislation.gov.uk/nisr/2019/238/rule/27) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f6a6806b1510f828e444410f5c0d135f]: Textual amendment: [Rule 21I(a)](https://www.legislation.gov.uk/nisr/1996/323/rule/21I/a) and word omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [28(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/28/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cf4ce42ae0ca7c22171230639655e20e]: Textual amendment: Words in [rule 21I(2)](https://www.legislation.gov.uk/nisr/1996/323/rule/21I/2) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [28(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/28/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c188c544f139ec5089f7af4bca9b69bc]: Textual amendment: Words in [rule 21I(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/21I/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [28(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/28/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0654e84bac4a0d3bd168157bfb9b4f67]: Textual amendment: Words in [rule 21J](https://www.legislation.gov.uk/nisr/1996/323/rule/21J) heading omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [29(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/29/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-61024e3c67adcf397a28be8524cef44e]: Textual amendment: Words in [rule 21J(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21J/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [29(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/29/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9a5605460a112191c2b2fa0c3a388fa2]: Textual amendment: Words in [rule 21J(2)](https://www.legislation.gov.uk/nisr/1996/323/rule/21J/2) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [29(c)](https://www.legislation.gov.uk/nisr/2019/238/rule/29/c) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f1584b0b011a3634ea35c2fb77bd8d8]: Textual amendment: Word in [rule 21J(4)](https://www.legislation.gov.uk/nisr/1996/323/rule/21J/4) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [29(d)](https://www.legislation.gov.uk/nisr/2019/238/rule/29/d) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3b0d1f7f3ebaca21666ed2765c7fced]: Textual amendment: Words in [rule 21K(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21K/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [30(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/30/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c0d44838dce09eacf7339b4c92f94ad5]: Textual amendment: Words in [rule 21K(2)](https://www.legislation.gov.uk/nisr/1996/323/rule/21K/2) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [30(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/30/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-21aefc4d5e9e20dcd5cea019abd2d4cc]: Textual amendment: [Rule 21L](https://www.legislation.gov.uk/nisr/1996/323/rule/21L) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [31](https://www.legislation.gov.uk/nisr/2019/238/rule/31) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9b97dda2902536eec4f6e990102afae8]: Textual amendment: [Rule 21M](https://www.legislation.gov.uk/nisr/1996/323/rule/21M) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [31](https://www.legislation.gov.uk/nisr/2019/238/rule/31) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ed69712120010472c7f63a1ec3df5594]: Textual amendment: [Rule 21N(f)](https://www.legislation.gov.uk/nisr/1996/323/rule/21N/f)[(g)](https://www.legislation.gov.uk/nisr/1996/323/rule/21N/g) substituted for [rule 21N(f)](https://www.legislation.gov.uk/nisr/1996/323/rule/21N/f) (31.12.2020) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [32](https://www.legislation.gov.uk/nisr/2019/238/rule/32) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5d82839a45217c98d4dd2ad62f836290]: Textual amendment: Words in [rule 21P](https://www.legislation.gov.uk/nisr/1996/323/rule/21P) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [33](https://www.legislation.gov.uk/nisr/2019/238/rule/33) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-81457d49d0e420f6ad67fcfc03ed45d4]: Textual amendment: Words in [rule 21R(2)](https://www.legislation.gov.uk/nisr/1996/323/rule/21R/2) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [34](https://www.legislation.gov.uk/nisr/2019/238/rule/34) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-00db05281a0a49b872f0477f5bd73602]: Textual amendment: Words in [rule 21S(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/21S/1) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [35(a)](https://www.legislation.gov.uk/nisr/2019/238/rule/35/a) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-622bc6efc05ada48a140cb742df1a523]: Textual amendment: Words in [rule 21S(3)](https://www.legislation.gov.uk/nisr/1996/323/rule/21S/3) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [35(b)](https://www.legislation.gov.uk/nisr/2019/238/rule/35/b) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-983314b069900168b7bbe05d1ae3ed63]: Textual amendment: [Rule 21T](https://www.legislation.gov.uk/nisr/1996/323/rule/21T) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [36](https://www.legislation.gov.uk/nisr/2019/238/rule/36) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a9376e2f48231c6227461839df3aa761]: Textual amendment: [Rule 21U](https://www.legislation.gov.uk/nisr/1996/323/rule/21U) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [36](https://www.legislation.gov.uk/nisr/2019/238/rule/36) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-da11dfd847fabd4e867843fc4de986d3]: Textual amendment: [Rule 21V(a)(i)](https://www.legislation.gov.uk/nisr/1996/323/rule/21V/a/i) substituted (31.12.2020) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [37](https://www.legislation.gov.uk/nisr/2019/238/rule/37) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-580fadfcb41a420632ec8dd99b244160]: Textual amendment: [Rule 21X](https://www.legislation.gov.uk/nisr/1996/323/rule/21X) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [38](https://www.legislation.gov.uk/nisr/2019/238/rule/38) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5273911ca533b5ea28da7b5877c46451]: Textual amendment: [Rule 21Y](https://www.legislation.gov.uk/nisr/1996/323/rule/21Y) omitted (31.12.2020) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2019 (S.R. 2019/238)](https://www.legislation.gov.uk/nisr/2019/238), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/238/rule/1/1), [38](https://www.legislation.gov.uk/nisr/2019/238/rule/38) (with [rule 39](https://www.legislation.gov.uk/nisr/2019/238/rule/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4eb029abac41be48661803778aad610a]: Commencement: [Rule 22](https://www.legislation.gov.uk/nisr/1996/323/rule/22) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-c5bc5c8fb0bc039524655607254a5848]: Commencement: [Rule 23](https://www.legislation.gov.uk/nisr/1996/323/rule/23) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-404338e5f07810d8daef8a5815cabd71]: Textual amendment: Words in [rule 23(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/23) substituted (1.6.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment No. 2) Rules (Northern Ireland) 1999 (S.R. 1999/223)](https://www.legislation.gov.uk/nisr/1999/223), [rules 1](https://www.legislation.gov.uk/nisr/1999/223/article/1), [2(a)](https://www.legislation.gov.uk/nisr/1999/223/article/2/a)
+
+[^f00009]: Footnote: [S.R. 1992 No. 339](https://www.legislation.gov.uk/nisr/1992/339)
+
+[^key-08aa0f570352c6d100370f512fa24788]: Textual amendment: [Rule 23(4)](https://www.legislation.gov.uk/nisr/1996/323/rule/23/4) revoked (1.6.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment No. 2) Rules (Northern Ireland) 1999 (S.R. 1999/223)](https://www.legislation.gov.uk/nisr/1999/223), [rules 1](https://www.legislation.gov.uk/nisr/1999/223/article/1), [2(b)](https://www.legislation.gov.uk/nisr/1999/223/article/2/b)
+
+[^key-30877497c125b36638c1fb51f38a6ecb]: Commencement: [Rule 24](https://www.legislation.gov.uk/nisr/1996/323/rule/24) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-f1002354150bd90af06ba7fd4442bc55]: Textual amendment: [Rule 25](https://www.legislation.gov.uk/nisr/1996/323/rule/25) substituted (29.3.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 1999 (S.R. 1999/63)](https://www.legislation.gov.uk/nisr/1999/63), [rules 1(1)](https://www.legislation.gov.uk/nisr/1999/63/article/1/1), [4(1)](https://www.legislation.gov.uk/nisr/1999/63/article/4/1) (with [rule 7](https://www.legislation.gov.uk/nisr/1999/63/article/7))
+
+[^key-5b06bc29131088eabadc400d5c29b86a]: Textual amendment: [Rule 25A](https://www.legislation.gov.uk/nisr/1996/323/rule/25A) inserted (29.3.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 1999 (S.R. 1999/63)](https://www.legislation.gov.uk/nisr/1999/63), [rules 1(1)](https://www.legislation.gov.uk/nisr/1999/63/article/1/1), [5](https://www.legislation.gov.uk/nisr/1999/63/article/5) (with [rule 7](https://www.legislation.gov.uk/nisr/1999/63/article/7))
+
+[^key-7e83732febfabda9232033170ed87937]: Commencement: [Rule 26](https://www.legislation.gov.uk/nisr/1996/323/rule/26) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-a824e7a0a73bdcac2ba4b3e18f6d0763]: Commencement: [Rule 27](https://www.legislation.gov.uk/nisr/1996/323/rule/27) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-2a16f00b60b15d1be9f5015fbd39fd17]: Commencement: [Rule 28](https://www.legislation.gov.uk/nisr/1996/323/rule/28) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-74728f99a7f1f98b6081ca99a99f736d]: Commencement: [Rule 29](https://www.legislation.gov.uk/nisr/1996/323/rule/29) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-5787970dc629869565ae580f1391139a]: Commencement: [Rule 30](https://www.legislation.gov.uk/nisr/1996/323/rule/30) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^f00010]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
+
+[^key-ba2dfa63837092e853af3d69defa6868]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-77796bddfca3272d476ef7afd6a60684]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1: before para. 1, the words "Important Note: you should only answer question 6A if you are asking the court to make an Article 8 order." are inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2005/559/article/8/a/i) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-997d30118e19420b51ad520714ca5d79]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1: para. 6A inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2005/559/article/8/a/ii) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-82d2ef2113bf1c52fbca044428b6e3ab]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1: in para. 9 the word “parents” is substituted for “mother and father” (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2005/559/article/8/a/iii/aa) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-60495bb7469fce1e820d209a63487a07]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1: in para. 9 the words “or civil partners of each other” are inserted after “married to each other” (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2005/559/article/8/a/iii/bb) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-2b1f7ad91c95eea976322f95f6dfcd9a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1: in the title, the words “\[Petty Sessions District of\]” and “County Court Division of” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(a)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-bbe58e8fd4c04e0c4cbd121bcf2a5438]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1AA: in the title, the words “\[Petty Sessions District of\]” and “County Court Division of” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(c)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-66a6d806ce8e0f7076cf37b313eed07f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1AA Form inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(b)](https://www.legislation.gov.uk/nisr/2005/559/article/8/b), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/559/schedule/1) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-93e59048fbcbdac9e5106b9bcbdf4c79]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C1A: in the title, the words “County Court Division of” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-14e92fcb1fb09b5b28617cdbb3ec9f47]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C2: before para. 1, the words "Important Note: you should only answer question 3A if you are asking the court to make an Article 8 order." are inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(c)(i)](https://www.legislation.gov.uk/nisr/2005/559/article/8/c/i) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-6a0d20a8663164c7d8507599480e1d52]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C2: para. 3A inserted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(c)(ii)](https://www.legislation.gov.uk/nisr/2005/559/article/8/c/ii) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-1ee917717a902ebcb710f0918684c3e5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C2: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(d)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-40c059ff0545f7902c766004224f4963]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C2A: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(d)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-811254acb1cdb14dc7db59b50f127f1a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C3: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(d)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-eeff7f4612e66be51d0b140d3ea33c7d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C4 substituted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(d)](https://www.legislation.gov.uk/nisr/2005/559/article/8/d), [Sch. 2](https://www.legislation.gov.uk/nisr/2005/559/schedule/2) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-02ac2c9132d32e55a8d74e5e9821c6ec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C6: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(e)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/e); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-e8663d7bb1a537434d2872837a1cb5f1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C7: in the title, the words “\[PETTY SESSIONS DISTRICT\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(f)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/f); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-5f5681b073b7c8b6a781eec0e0eccb55]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C7A: in para. 1, the words “in a civil partnership,” are inserted after “married” (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(e)(i)](https://www.legislation.gov.uk/nisr/2005/559/article/8/e/i) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-9ccb9c0d3ac6dd1a554efabc5fdfad38]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C7A: in para. 2, the words “civil partner,” are inserted after “spouse” (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(e)(ii)](https://www.legislation.gov.uk/nisr/2005/559/article/8/e/ii) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-27023f10d863a4fa84eb041f00cce9ef]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C7A: in the title, the words “\[PETTY SESSIONS DISTRICT\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(f)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/f); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-ce9d300907844ffa18ea7a85901742bd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C8 substituted (29.3.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 1999 (S.R. 1999/63)](https://www.legislation.gov.uk/nisr/1999/63), [rules 1(1)](https://www.legislation.gov.uk/nisr/1999/63/article/1/1), [6](https://www.legislation.gov.uk/nisr/1999/63/article/6), [Sch.](https://www.legislation.gov.uk/nisr/1999/63/schedule) (with [rule 7](https://www.legislation.gov.uk/nisr/1999/63/article/7))
+
+[^key-06d172c93aa7a3595dc482a0753b9edd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Forms C8-C17, in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(g)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/g); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-8d4c9ac48990e21c8f3f00b873928c14]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C18: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “\[COUNTY COURT DIVISION OF\]” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(h)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/h); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-2d679b98f11b313f476a6771e964d612]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C20 substituted (29.3.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 1999 (S.R. 1999/63)](https://www.legislation.gov.uk/nisr/1999/63), [rules 1(1)](https://www.legislation.gov.uk/nisr/1999/63/article/1/1), [6](https://www.legislation.gov.uk/nisr/1999/63/article/6), [Sch.](https://www.legislation.gov.uk/nisr/1999/63/schedule) (with [rule 7](https://www.legislation.gov.uk/nisr/1999/63/article/7))
+
+[^key-40858dcb68a50351460b2364691c83ed]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C20: in the Notes the words “You may apply at any time, but the court will only hear an application to end an order when 72 hours have passed since the order was made." are omitted (10.3.2008) by virtue of [The Magistrates’ Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/35)](https://www.legislation.gov.uk/nisr/2008/35), [rules 1](https://www.legislation.gov.uk/nisr/2008/35/rule/1), [3](https://www.legislation.gov.uk/nisr/2008/35/rule/3)
+
+[^key-a264dbfade92d9de6f775c0e2b628bfb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Forms C20-C31: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-d041046d5440a4ef435d4e0e6b2189d5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C28 substituted (29.3.1999) by [Magistrates' Courts (Children (Northern Ireland) Order 1995) (Amendment) Rules (Northern Ireland) 1999 (S.R. 1999/63)](https://www.legislation.gov.uk/nisr/1999/63), [rules 1(1)](https://www.legislation.gov.uk/nisr/1999/63/article/1/1), [6](https://www.legislation.gov.uk/nisr/1999/63/article/6), [Sch.](https://www.legislation.gov.uk/nisr/1999/63/schedule) (with [rule 7](https://www.legislation.gov.uk/nisr/1999/63/article/7))
+
+[^key-b784d33dbecd4272b2f19419558cde07]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Forms C32: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(j)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/j); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^M_F_1244c364-e10b-4b96-83f1-dd003e7f32ff]: Textual amendment: Sch. 1 Form C33: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(j)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/j); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-4b4db65cfe32bddc8040304eb8676615]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C34: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(k)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/k); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-544219f74d22a3eca3f707fa676c8e8b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C35: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(l)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/l); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-68fe028aa4e29d38504e6f4fb0d3778c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C35A: in the title, the words “PETTY SESSIONS DISTRICT OF” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(m)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/m); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-5adeead3a5a012ea8635ae23d0be1eec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C36: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(n)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/n); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-1e58b261eedfe46394d300dcb76af1a6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C37: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(n)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/n); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-cb87a87c46667779e2217533bf0f3390]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C38: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(o)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/o); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-3a1552ce2d7f987dd24543568c56526f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C39: the words “Article \[7(1)\]\[7(1A)\]” are substituted for “Article 7” (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [8(f)](https://www.legislation.gov.uk/nisr/2005/559/article/8/f) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))
+
+[^key-cc8370efa950f3a1953fd075b67d4972]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C39: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(p)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/p); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-16d471fd4828c25050fc0bdcf26d998b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C40: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(q)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/q); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-242d936f59485a1e2d4da5f17c535776]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C41: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(q)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/q); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-81ffe69d68d845fc5645cf75f71a8d02]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C42: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(q)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/q); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-00ec1e8765adb3fa99d826aa524d08e4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C43: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(r)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/r); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-0d8666bcce6cd5faa2cf2b4b3a027b0a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C44: in the title, the words “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(r)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/r); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-af8204763194b5827c3d47a1c07adb18]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C45: in the title, the words “COUNTY COURT DIVISION OF” are omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(s)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/s/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-6e252a607b43393564072b77c86f0fd4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1996/323/schedule/1) Form C45: the word “at…” inserted after “Clerk of Petty Sessions” (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [20(s)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/20/s/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-2f9cdb8bfef43e4db4a6fb0bcb00f3af]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1996/323/schedule/2) in operation at 4.11.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/323/rule/1/1)
+
+[^key-054777fdde6855b46c8f8cb822202f33]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/1996/323/schedule/2) substituted (6.1.2006) by [The Magistrates' Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2005 (S.R. 2005/559)](https://www.legislation.gov.uk/nisr/2005/559), [rules 1](https://www.legislation.gov.uk/nisr/2005/559/article/1), [9](https://www.legislation.gov.uk/nisr/2005/559/article/9) (with [rule 22](https://www.legislation.gov.uk/nisr/2005/559/article/22))

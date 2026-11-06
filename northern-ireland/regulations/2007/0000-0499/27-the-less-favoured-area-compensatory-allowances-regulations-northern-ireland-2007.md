@@ -1,0 +1,451 @@
+---
+title: The Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2007
+id: nisr/2007/27
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-01-18'
+text_date: '2008-02-25'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/27
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/27/pdfs/nisr_20070027_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/27/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2007
+
+> Text as at 2008-02-25.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 27
+
+AGRICULTURE
+
+The Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2007
+
+Made
+
+18th January 2007
+
+Coming into operation
+
+18th January 2007
+
+The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community and in relation to matters relating to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2), hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-478b709235f57008c4a24753b6712add]
+
+These Regulations may be cited as the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2007 and shall come into operation on 18th January 2007.
+
+## 2. Interpretation[^key-4e7a8172649e7276599d2a5131a6c396]
+
+(1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(2) In these Regulations—
+
+- “the 1994 Regulations” means the Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1994[^f00004];
+- “the 1996 Regulations” means the Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1996[^f00005];
+- “the 1999 Regulations” means the Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1999[^f00006];
+- “agriculture” includes horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds, and the use of land for woodlands where that use is ancillary to the use of land for other agricultural purposes;
+- “authorised person” means any person who is authorised by the Department, either generally or specially, to act in relation to matters arising under these Regulations, whether or not he is an officer of the Department;
+- “beneficiary” means a person who has entered into an undertaking;
+- “claimant” means any person who has made a claim for less favoured area compensatory allowance;
+- “claimed forage area” means land which has been entered at column J of the field data sheet in a single application for the year 2006;
+- “the Commission” means the Commission of the European Communities;
+- “Commission Regulation 796/2004” means Commission Regulation [(EC) No. 796/2004](https://www.legislation.gov.uk/european/regulation/2004/0796)[^f00007] laying down detailed rules for the implementation of cross-compliance, modulation and the integrated administration and control system provided for in Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers;
+- “Commission Regulation 817/2004” means Commission Regulation [(EC) No. 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817)[^f00008] laying down detailed rules for the application of Council Regulation 1257/1999;
+- “Commission Regulation 1973/2004” means Commission Regulation [(EC) No. 1973/2004](https://www.legislation.gov.uk/european/regulation/2004/1973)[^f00009] laying down detailed rules for the application of Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) as regards the support schemes provided for in Titles IV and IVa of that Regulation and the use of land set aside for the production of raw materials;
+- “Commission Regulation 1974/2006” means Commission Regulation [(EC) No. 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974)[^f00010] laying down detailed rules for the application of Council Regulation 1698/2005[^f00011];
+- “common land” means land the grazing of animals on which is shared;
+- “compensatory allowance” means either—
+  - (a) any payment made under these Regulations, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2001[^f00012], the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2002[^f00013], the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2003[^f00014], the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2004[^f00015], the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2005[^f00016], the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2006[^f00017]; or
+  - (b) in the case of a compensatory allowance payable in the year 2000 or earlier, any payment made under the Hill Livestock (Compensatory Allowances) Regulations;
+- “Council Regulation 1254/1999” means Council Regulation [(EC) No. 1254/1999](https://www.legislation.gov.uk/european/regulation/1999/1254)[^f00018] on the common organisation of the market in beef and veal;
+- “Council Regulation 1257/1999” means Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257)[^f00019] on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations;
+- “Council Regulation 1782/2003” means Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782)[^f00020] establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending certain Regulations;
+- “Council Regulation 1698/2005” means Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development from the European Agricultural Fund for Rural Development (EAFRD);
+- “cross-border holding” means a holding which is situate partly in Northern Ireland and partly in one or more of England, Scotland or Wales;
+- “deer” means deer of the Red, Fallow or Sika species managed on a holding enclosed by a deer-proof barrier and kept by way of business for the primary purpose of the production of meat;
+- “deer-proof barrier” means a barrier which will, to the satisfaction of the Department, and having regard to the character and nature of the land, prevent the entry of deer on to or, as the case may be, the escape of deer from any land;
+- “the Department” means the Department of Agriculture and Rural Development;
+- “designated map” means the map marked “map of less-favoured farming areas in Northern Ireland”, dated 8th May 1991, signed by the Secretary of State and deposited at the Offices of the Department at Dundonald House, Upper Newtownards Road, Belfast BT4 3SB;
+- “disadvantaged land” (except in the expression “severely disadvantaged land”) means land shown coloured blue on the designated map;
+- “electronic communication” has the same meaning as in the Electronic Communications Act (Northern Ireland) 2001[^f00021];
+- “eligible forage area” means such part of the qualifying forage area that has been entered in a single application at column G under either of the land use codes in column 1 of Schedule 1 and as lies within a less favoured area;
+- “eligible land” means land within the less favoured area;
+- “ewe” has the same meaning as in Article 112(a) of Council Regulation 1782/2003;
+- “the first compensatory allowance”, in relation to a claimant, means the first payment of compensatory allowance to him (whether payable under these Regulations, the Hill Livestock (Compensatory Allowances) Regulations, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2001, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2002, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2003, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2004, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2005, or the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2006 ;
+- “forage area” has the same meaning as in Article 131(2)(b) of Council Regulation 1782/2003;
+- “goat” means any goat (of any species) which is kept by way of business for the primary purpose of the production of milk or fibre;
+- “heifer” has the same meaning as in Article 3 of Council Regulation 1254/1999;
+- “Hill Livestock (Compensatory Allowances) Regulations” means the 1994 Regulations, the 1996 Regulations or the 1999 Regulations, as the case may be;
+- “holding” has the same meaning as in Article 2(b) of Council Regulation 1782/2003;
+- “individual reference quantity of milk” has the same meaning as in Article 117 of Commission Regulation 1973/2004;
+- “less favoured area” means all that land coloured blue or pink on the designated map;
+- “less favoured area compensatory allowance” means the compensatory allowance payable in accordance with these Regulations, with Chapter V of Title II of Council Regulation 1257/1999 and Chapter I of Title IV of Council Regulation 1698/2005;
+- “livestock unit” means a unit of measurement of livestock numbers, and the following constitute a single livestock unit—
+  - (a) one suckler cow or a heifer aged over 24 months;
+  - (b) 1.67 heifers aged between 8 months and 24 months;
+  - (c) 6.67 ewes;
+  - (d) 6.67 breeding female goats;
+  - (e) 3.3 breeding female deer over 27 months; or
+  - (f) 5 breeding female deer over 6 months but less than 27 months;
+- “minimum grazing period” means the seven month period 1 April 2006 to 31 October 2006;
+- “notional livestock density” means the number of livestock units per hectare of eligible forage area, calculated as a fraction of which the numerator is the number of relevant animals expressed in livestock units and the denominator is the claimant’s eligible forage area expressed in hectares;
+- “other competent authority” means the Secretary of State for Environment, Food and Rural Affairs, the Scottish Ministers, or the National Assembly for Wales;
+- “qualifying forage area” means the relevant forage area, or in relation to a claimant in relation to whom regulation 8 applies, such part of the relevant forage area as results from the reductions made to the relevant forage area in accordance with that regulation;
+- “related less favoured area” means, in relation to a claimant, all that claimed forage area, excluding less favoured area, in respect of which the Department has been advised by any other competent authority that the claimant is eligible for a related less favoured area allowance;
+- “related less favoured area allowance” means—
+  - (a) in relation to England, the Hill Farm Allowance;
+  - (b) in relation to Scotland, the Less Favoured Area Support Scheme; and
+  - (c) in relation to Wales, the Tir Mynydd Scheme;
+- “relevant animals” means—
+  - (a) the number of suckler cows, heifers and ewes present on a claimant’s holding for at least the minimum grazing period in the year 2006;
+  - (b) the average number of breeding female deer present on a claimant’s holding on a number of dates determined by the Department; and
+  - (c) the average number of breeding female goats present on a claimant’s holding on a number of dates determined by the Department;
+- “relevant forage area” means any claimed forage area situated in Northern Ireland;
+- “severely disadvantaged land” means land shown coloured pink on the designated map;
+- “single application” has the meaning given to it in Article 2(11) of Commission Regulation 796/2004;
+- “suckler cow” shall have the same meaning as in Article 3 of Council Regulation 1254/1999;
+- “undertaking” means an undertaking under regulation 5(a)(i) — (iii); and
+
+(3) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended on the date on which these Regulations are made.
+
+(4) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is capable of being subsequently reproduced.
+
+## 3. Power to make payments[^key-e05882db1a6697d659fbe695bd6710bc]
+
+Subject to regulation 5, the Department may make payments of less favoured area compensatory allowance in respect of the year 2007 to any claimant who is eligible under regulation 4 in respect of any eligible forage area.
+
+## 4. Eligibility of claimants for less favoured area compensatory allowance[^key-2f8e5f7d2204162bfe84abdd9db9f190]
+
+(1) Subject to regulation 5 a claimant shall be eligible for less favoured area compensatory allowance if, and only if,—
+
+- (a) his application is made in such form and contains such particulars relating to that application as the Department requires;
+- (b) his application is submitted no later than the 19th January 2007;
+- (c) the claimed forage area entered in that application complies with one of the conditions specified in paragraph (3); and
+- (d) subject to paragraph (4), the notional livestock density is not less than 0.2.
+
+(2) Article 21 of Commission Regulation 796/2004 (late submission) shall apply to a claim made in an application submitted after 19th January 2007.
+
+(3) The conditions are—
+
+- (a) that the claimed forage area lying within the less favoured area is not less than three hectares; or
+- (b) where the claimed forage area lying within the less favoured area is not less than one hectare but less than three hectares, the total claimed forage area includes land situated in a related less favoured area which is eligible for related less favoured area allowance.
+
+(4) The Department may determine that a notional livestock density of less than 0.2 is sufficient for the purposes of paragraph (1)(c) if it is reasonably satisfied that it is appropriate to do so in all the circumstances of the case, having regard, in particular, to the number of animals kept on the eligible forage area and any obligation of the claimant as to the number of animals that may be kept on the land comprising the eligible forage area.
+
+(5) In order to enable it to consider whether to exercise its discretion under paragraph (4), the claimant shall provide the Department with such information as it reasonably may require.
+
+(6)[^key-daea7193b95cc7007cfae1d38b2239d1] The following Articles of Commission Regulation 769/2004 shall apply to a claim for less favoured compensatory allowance—
+
+- (a) Article 19 (Obvious error);
+- (b) Article 22 (Withdrawal);
+- (c) Article 51(Over declaration);
+- (d) Article 53 (Intentional over declaration);
+- (e) Article 66 (Cross-Compliance — reductions in the case of negligence);
+- (f) Article 67 (Cross-Compliance — reductions in the case of intentional non-compliance); and
+- (g) Article 68 (Exceptions from the application of reductions).
+
+## 5. Conditions[^key-92c31269d6bd9319265be54143c5d8ea][^key-fbd43053c57e6c85e5d2801c22ee9a96]
+
+Less favoured area compensatory allowance shall not be paid to a claimant unless—
+
+- (a) he has given a written undertaking, in such form as the Department may reasonably require, that he would,
+  - (i) for a period of five years from the date of payment of the first compensatory allowance, continue to use for the purposes of agriculture at least three hectares of land which is either eligible land or related less favoured area;
+  - (ii) adhere to the statutory management requirements provided for in Articles 4 of and in Annex III to the Council Regulations 1782/2003; and
+  - (iii) adhere to the standards of good agricultural and environmental conditions provided for in Article 5 of Council Regulation 1782/2003 and in the Schedule to the Common Agricultural Policy Single Payment and Support Scheme (Cross-Compliance) Regulations (Northern Ireland) 2005[^f00022];
+- (b) he is not in breach of that undertaking at the date of payment.
+
+## 6. Release from undertaking[^key-b5ff2b769816a8572a159735782724a3][^key-fbd43053c57e6c85e5d2801c22ee9a96]
+
+A claimant shall not be taken to be in breach of the undertaking referred to in regulation 5—
+
+- (a) if he is prevented from continuing to discharge that undertaking by reason of any material circumstance beyond his control; or
+- (b) if he ceases to farm, and at least three hectares of the eligible land, or of any related less favoured area, last used by him for the grazing of animals continue to be used for the purposes of agriculture.
+
+## 7. Amount of payment[^key-9da5f5314a56298694b133360fcf81ef]
+
+Subject to regulation 8, payment of less favoured area compensatory allowance in respect of the descriptions of eligible forage area specified in column 1 of Schedule 2 shall be made at the rates specified in column 2 of Schedule 2.
+
+## 8. Exclusion of forage area[^key-a84d9f68df12252734bacb471b27d217]
+
+(1) Subject to paragraph (2), if, on 31st March 2006, a claimant had available to him an individual reference quantity of milk, his relevant forage area shall be reduced by 1 hectare per 10,000 litres of that quantity for the purposes of determining his qualifying forage area.
+
+(2) Where any holding in respect of which a claim has been made is a cross-border holding, the individual reference quantity of milk applicable to that part of the claimant’s holding situate in Northern Ireland shall be calculated as follows:
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2007/27)
+
+where:
+
+- “X” is the claimed forage area in hectares of that part of the holding which is situate in Northern Ireland;
+- “Y” is the total claimed forage area in hectares of that holding;
+- “TIRQ” is the individual reference quantity of milk available to the claimant in respect of that holding; and
+- “IRQ” is the individual reference quantity of milk which is treated as applicable to that part of the holding situate in Northern Ireland, and the reduction, for the purposes of this regulation, of the relevant forage area shall be 1 hectare per 10,000 litres of the individual reference quantity of milk applicable to that part of the claimant’s holding situate in Northern Ireland.
+
+(3) Where paragraph (1) or (2) applies, the reduction in the relevant forage area shall first be applied to land which is not eligible land, followed by disadvantaged land, and lastly, severely disadvantaged land.
+
+## 9. Powers of authorised persons[^key-4d1cf2b3c03cbf6e6e0d77b6d9841705][^key-415be2cb9afdfb875c977b27ac790eb3]
+
+(1) An authorised person may at all reasonable times, on producing, if so required, some duly authenticated document showing his authority, enter on any land, other than land used solely for the purpose of a dwelling-house—
+
+- (a) to which a claim or an undertaking relates, or
+- (b) on which he has reasonable grounds to believe that documents relating to a claim or an undertaking are being kept,
+
+for any of the purposes mentioned in paragraph (2).
+
+(2) The purposes referred to in paragraph (1) are—
+
+- (a) inspecting the land to which the claim or undertaking relates;
+- (b) verifying the accuracy of any information provided by a claimant or a beneficiary relating to a claim or an undertaking; and
+- (c) determining whether or not a beneficiary has complied with an undertaking.
+
+(3) An authorised person who has entered any land under paragraph (1) may—
+
+- (a) inspect the land and any document, record or equipment on it which he reasonably believes relates to a claim or an undertaking;
+- (b) require the claimant or beneficiary, or any employee, servant or agent of such claimant or beneficiary, to produce, or secure the production of, any document or supply any additional information in his possession or under his control relating to the claim or undertaking, as the case may be;
+- (c) where any information referred to in sub-paragraph (b) is kept by means of a computer, have access to any computer and any associated apparatus or material which is or has been used for storing that information and require that information to be reproduced in a form in which it is legible and can be taken away;
+- (d) require copies of or extracts from any such document or other record referred to in subparagraph (a) or (b) to be produced;
+- (e) retain a copy of any document produced to him;
+- (f) seize and retain any document or other record which he reasonably believes may be required as evidence in proceedings under these Regulations;
+- (g) carry out any inquiries, checks, examinations and tests;
+- (h) take samples;
+- (i) inspect any crop growing on that land or kept on it;
+- (j) mark any animal or other thing for identification purposes; and
+- (k) in so far as may be necessary for the purposes of paragraph (2)(b) or (c), inspect and count livestock on the land and may, for this purpose, require the claimant or beneficiary, or any employee, servant or agent of such beneficiary, to arrange for the collection, penning and securing of such livestock.
+
+(4) A claimant or beneficiary and any employee, servant or agent of such claimant or beneficiary shall give an authorised person all reasonable assistance in relation to the exercise of his powers under paragraphs (1) and (3).
+
+(5) An authorised person entering any land under paragraph (1) may be accompanied by—
+
+- (a) any official of the Commission, and
+- (b) such other persons as he considers necessary,
+
+and paragraphs (3) and (4) shall apply in relation to any person referred to in sub-paragraph (b), when acting under the instructions of an authorised person, as if he were an authorised person.
+
+## 10. Breaches of undertakings[^key-9d086b26852249d1bbd49a872506c342][^key-415be2cb9afdfb875c977b27ac790eb3]
+
+Where—
+
+- (a) any information furnished to the Department by a beneficiary is false or misleading,
+- (b) a beneficiary is in breach of any of the terms of an undertaking, or
+- (c) a beneficiary is in breach of any requirement to which he is subject under these Regulations, Council Regulation 1257/1999, Council Regulation 1698/2005, Commission Regulation 817/2004, or, Commission Regulation 1974/2006 the Department may exercise any of the powers specified in regulation 11.
+
+## 11. Department’s powers of recovery etc.[^key-4ffc8e4d0fadbe9ef1c42479cb752449][^key-415be2cb9afdfb875c977b27ac790eb3]
+
+(1) The powers conferred by regulation 10 are—
+
+- (a) to withhold the whole or any part of the sums payable to the beneficiary;
+- (b) to recover on demand the whole or any part of the sums already paid to the beneficiary; and
+- (c) to require the beneficiary to pay to the Department an additional sum equal to no more than 10% of the sums paid or payable to him.
+
+(2) Where the Department takes any step specified in paragraph (1), it may also suspend or terminate the undertaking, and thereupon any entitlement of the beneficiary to payment in respect of the unexpired period of the undertaking shall likewise be suspended or terminated, as the case may be.
+
+(3) The powers conferred on the Department by paragraph (2) shall be exercisable by a notice served on the beneficiary by post at his last known address.
+
+## 12. Recovery of interest[^key-c10230cf1ef052d5e04c15478be69601][^key-415be2cb9afdfb875c977b27ac790eb3]
+
+(1) Where the Department exercises the power conferred by regulation 11(1)(b), it may also recover on demand interest on the sum to be recovered, and the rate of interest shall be one percentage point above LIBOR on a day to day basis.
+
+(2) For the purposes of this regulation, “LIBOR” means the sterling three month London interbank offered rate in force during the period between the date on which the Department makes the payment to be recovered and the date on which it recovers the payment.
+
+(3) In any proceedings relating to this regulation, a certificate of the Department stating the LIBOR applicable during a period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
+
+## 13. Sums payable to the Department to be recoverable as a debt[^key-a15c2a4525773f335a82048d5aa216cd][^key-415be2cb9afdfb875c977b27ac790eb3]
+
+In any case where an amount falls to be paid to the Department by virtue of (or by virtue of action taken under) these Regulations, the amount so falling to be paid shall be recoverable as a debt.
+
+## 14. Decisions amenable to review[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. First review by the Department[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-8e01074280468399b02a01e4b110a20c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Decision following first review[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Further review by the Department[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-8e01074280468399b02a01e4b110a20c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Decision following further review[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. Further review by persons appointed[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 22. Powers of persons appointed[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. Notification of decisions[^key-8e01074280468399b02a01e4b110a20c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 24. Offences and penalties[^key-be53931ad203a25c8caa2187f462fede][^key-415be2cb9afdfb875c977b27ac790eb3]
+
+(1) A person is guilty of an offence if—
+
+- (a) for the purposes of obtaining the whole or part of a less favoured area compensatory allowance for himself or any other person he knowingly or recklessly makes a statement which is false or misleading in a material particular; or
+- (b) he intentionally obstructs an authorised person (or a person accompanying him and acting under his instructions) in the exercise of his powers under regulation 9.
+
+(2) A person guilty of an offence under paragraph (1)(a) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) A person guilty of an offence under paragraph (1)(b) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) No prosecution for an offence under paragraph (1) shall be commenced after the expiration of three years from the commission of the offence or one year from the date that, in the prosecutor’s opinion, evidence sufficient to justify the proceedings came to his knowledge, whichever is the earlier.
+
+(5) Where paragraph (4) applies—
+
+- (a) a statement of the date on which evidence sufficient in the prosecutor’s opinion to justify the proceedings came to his knowledge is conclusive evidence of its contents if signed by or on behalf of the prosecutor; and
+- (b) such a statement purporting to be so signed shall be treated as being so signed unless the contrary is proved.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 18th January 2007.
+
+G. O'Doherty
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — ELIGIBLE LAND USE CODES[^key-d6567d271d7983c3ca4658d4d49d1028]
+
+Regulation 3
+
+| Column 1 | Column 2 |
+| --- | --- |
+| FR1 | Grass (grass for grazing hay and silage, rough grazing, grazed heather, sainfoin, clover, lucerne and forage vetches) |
+| OT3 | Grazed orchards or grazed woodlands (orchards and woodlands which are grazed by livestock and which have been used to support subsidy payments in the past) |
+
+## SCHEDULE 2 — PAYMENT RATES PER HECTARE[^key-bb51945a6195585f5507c61d0772139a]
+
+Regulation 7
+
+| Column 1 | Column 2 |
+| --- | --- |
+| *Extent: E+W+S+N.I.*<br>**1.** Severely disadvantaged land (not being common land) | £22.80 |
+| *Extent: E+W+S+N.I.*<br>**2.** Disadvantaged land (not being common land) | £11.40 |
+| *Extent: E+W+S+N.I.*<br>**3.** Common land | £11.40 |
+
+(This note is not part of the Regulations.)
+
+These Regulations implement Commission Regulation 817/2004 (O.J. No. L153, 30.04.2004, p. 30: Corrigendum O.J. No. L231, 30.06.2004, p. 24) laying down detailed rules for the application of Council Regulation 1257/1999 (O.J. No. L160, 26.06.1999, p. 80) and Commission Regulation 1974/2006 laying down detailed rules for the application of Council Regulation 1698/2005 on support for rural development.
+
+In particular the Regulations implement Articles 13, 14 and 15 of Council Regulation 1257/1999 and Articles 36 and 51(1) of Council Regulation 1698/2005 (which deal with support for less favoured areas) by defining the conditions of eligibility for less favoured area compensatory allowance (regulations 3 to 6) and the rates at which it is to be paid (regulation 7 and Schedule 2).
+
+Regulation 8 provides for the exclusion of forage area in respect of claimants who held milk quota at 31st March 2006.
+
+Regulation 9 confers powers of entry and inspection on persons authorised by the Department of Agriculture and Rural Development (“the Department”).
+
+Regulations 10 and 11 grant the Department the powers to withhold or recover payments and take certain other action in the event of a breach of an undertaking given by a claimant under these Regulations and in certain other events.
+
+Regulation 12 provides for the recovery of interest on sums recovered.
+
+Regulation 13 provides that amounts to be paid to the Department shall be recoverable as a debt.
+
+Regulations 14 to 23 provide procedures for the review of any decision of the Department to refuse, reduce or recover payment of less favoured compensatory allowance.
+
+Regulation 24 creates offences of making false or misleading statements and of obstructing persons authorised by the Department.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2000/2812](https://www.legislation.gov.uk/uksi/2000/2812) to which there are amendments not relevant to the subject matter of these Regulations and S.I. [2000/3238](https://www.legislation.gov.uk/uksi/2000/3238)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-478b709235f57008c4a24753b6712add]: Commencement: Reg. 1 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-4e7a8172649e7276599d2a5131a6c396]: Commencement: Reg. 2 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00004]: Footnote: [S.R. 1994 No. 417](https://www.legislation.gov.uk/nisr/1994/417) amended by [S.R. 1995 No. 22](https://www.legislation.gov.uk/nisr/1995/22), [S.R. 1995 No. 245](https://www.legislation.gov.uk/nisr/1995/245), [S.R. 1995 No. 404](https://www.legislation.gov.uk/nisr/1995/404), [S.R. 1996 No. 7](https://www.legislation.gov.uk/nisr/1996/7) and revoked by [S.R. 1996 No. 230](https://www.legislation.gov.uk/nisr/1996/230)
+
+[^f00005]: Footnote: [S.R. 1996 No. 230](https://www.legislation.gov.uk/nisr/1996/230) amended by [S.R. 1996 No. 498](https://www.legislation.gov.uk/nisr/1996/498), [S.R. 1997 No. 13](https://www.legislation.gov.uk/nisr/1997/13), [S.R. 1997 No. 486](https://www.legislation.gov.uk/nisr/1997/486), [S.R. 1998 No. 34](https://www.legislation.gov.uk/nisr/1998/34), [S.R. 1998 No. 439](https://www.legislation.gov.uk/nisr/1998/439), [S.R. 1999 No. 68](https://www.legislation.gov.uk/nisr/1999/68) and which cease to apply by virtue of [S.R. 1999 No. 497](https://www.legislation.gov.uk/nisr/1999/497)
+
+[^f00006]: Footnote: [S.R. 1999 No. 497](https://www.legislation.gov.uk/nisr/1999/497)
+
+[^f00007]: Footnote: O.J. No. L141, 30.04.2004, p. 1 as last amended by Commission Regulation [(EC) No. 436/2005](https://www.legislation.gov.uk/european/regulation/2005/0436) (O.J. No. L072, 18.03.2005, p. 5)
+
+[^f00008]: Footnote: O.J. No. L153, 30.04.2004, p. 30 as last amended by Commission Regulation [(EC) No. 1360/2005](https://www.legislation.gov.uk/european/regulation/2005/1360) (O.J. No. L214, 19.08.2005, p. 55)
+
+[^f00009]: Footnote: O.J. No. L345, 20.11.2004, p. 1 as last amended by Commission Regulation [(EC) No. 1044/2005](https://www.legislation.gov.uk/european/regulation/2005/1044) (O.J. No. L172, 05.07.2005, p. 76)
+
+[^f00010]: Footnote: O.J No. L368, 23.12.2006, p. 1
+
+[^f00011]: Footnote: O.J. No. L277, 21.10.2005, p. 1
+
+[^f00012]: Footnote: [S.R. 2001 No.71](https://www.legislation.gov.uk/nisr/2001/71)
+
+[^f00013]: Footnote: [S.R. 2002 No. 72](https://www.legislation.gov.uk/nisr/2002/72)
+
+[^f00014]: Footnote: [S.R. 2003 No. 162](https://www.legislation.gov.uk/nisr/2003/162)
+
+[^f00015]: Footnote: S.R. No. [2004 No. 495](https://www.legislation.gov.uk/nisr/2004/495)
+
+[^f00016]: Footnote: S.R. No. [2005 No. 106](https://www.legislation.gov.uk/nisr/2005/106)
+
+[^f00017]: Footnote: S.R. No. [2006 No. 52](https://www.legislation.gov.uk/nisr/2006/52)
+
+[^f00018]: Footnote: O.J. No. L160, 26.06.1999, as last amended by Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) (O.J. No. L270, 21.10.2003, p.1)
+
+[^f00019]: Footnote: O.J. No. L160, 26.06.1999, p. 80 as last amended by Council Regulation [(EC) No. 2223/2004](https://www.legislation.gov.uk/european/regulation/2004/2223) (O.J. No. L379, 24.12.2004, p. 1)
+
+[^f00020]: Footnote: O.J. No. L270, 21.10.2003, p. 1 as last amended by Commission Regulation [(EC) No. 118/2005](https://www.legislation.gov.uk/european/regulation/2005/0118) (O.J. No. L24, 27.01.2005, p. 15)
+
+[^f00021]: Footnote: [2001 c. 9](https://www.legislation.gov.uk/nia/2001/9); the definition of electronic communication contained in section 4 amended by section 406 (1) of and paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^key-e05882db1a6697d659fbe695bd6710bc]: Commencement: Reg. 3 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-2f8e5f7d2204162bfe84abdd9db9f190]: Commencement: Reg. 4 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-daea7193b95cc7007cfae1d38b2239d1]: Modification: [Reg. 4(6)](https://www.legislation.gov.uk/nisr/2007/27/regulation/4/6) applied (12.9.2007) by [The Less Favoured Area Compensatory Allowances (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/361)](https://www.legislation.gov.uk/nisr/2007/361), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/361/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/361/regulation/5)
+
+[^key-92c31269d6bd9319265be54143c5d8ea]: Commencement: Reg. 5 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-fbd43053c57e6c85e5d2801c22ee9a96]: Modification: [Regs. 5](https://www.legislation.gov.uk/nisr/2007/27/regulation/5), [6](https://www.legislation.gov.uk/nisr/2007/27/regulation/6) applied (12.9.2007) by [The Less Favoured Area Compensatory Allowances (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/361)](https://www.legislation.gov.uk/nisr/2007/361), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/361/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/361/regulation/5)
+
+[^f00022]: Footnote: [S.R. 2005 No. 310](https://www.legislation.gov.uk/nisr/2005/310)
+
+[^key-b5ff2b769816a8572a159735782724a3]: Commencement: Reg. 6 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-9da5f5314a56298694b133360fcf81ef]: Commencement: Reg. 7 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-a84d9f68df12252734bacb471b27d217]: Commencement: Reg. 8 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-4d1cf2b3c03cbf6e6e0d77b6d9841705]: Commencement: Reg. 9 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-415be2cb9afdfb875c977b27ac790eb3]: Modification: [Regs. 9-24](https://www.legislation.gov.uk/nisr/2007/27/regulation/9) applied (12.9.2007) by [The Less Favoured Area Compensatory Allowances (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/361)](https://www.legislation.gov.uk/nisr/2007/361), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/361/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/361/regulation/5)
+
+[^key-9d086b26852249d1bbd49a872506c342]: Commencement: Reg. 10 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-4ffc8e4d0fadbe9ef1c42479cb752449]: Commencement: Reg. 11 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-c10230cf1ef052d5e04c15478be69601]: Commencement: Reg. 12 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-a15c2a4525773f335a82048d5aa216cd]: Commencement: Reg. 13 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-8e01074280468399b02a01e4b110a20c]: Textual amendment: [Regs. 14-23](https://www.legislation.gov.uk/nisr/2007/27/regulation/14) revoked (25.2.2008) by [Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2008 (S.R. 2008/34)](https://www.legislation.gov.uk/nisr/2008/34), [regs. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1), [15(2)](https://www.legislation.gov.uk/nisr/2008/34/regulation/15/2)
+
+[^key-be53931ad203a25c8caa2187f462fede]: Commencement: Reg. 24 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-d6567d271d7983c3ca4658d4d49d1028]: Commencement: Sch. 1 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)
+
+[^key-bb51945a6195585f5507c61d0772139a]: Commencement: Sch. 2 in operation at 18.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/27/regulation/1)

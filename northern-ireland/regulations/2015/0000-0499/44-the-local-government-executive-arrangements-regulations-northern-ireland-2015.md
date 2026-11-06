@@ -1,0 +1,925 @@
+---
+title: The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015
+id: nisr/2015/44
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-02-09'
+text_date: '2020-05-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/44
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/44/pdfs/nisr_20150044_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/44/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015
+
+> Text as at 2020-05-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 44
+
+Local Government
+
+The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015
+
+Made
+
+9th February 2015
+
+Coming into operation
+
+1st April 2015
+
+The Department of the Environment makes the following Regulations, in exercise of the powers conferred by sections 22(3), (5) and (6), 23(5), 25(1) to (4), 26, 30(1) and 35 of the Local Government Act (Northern Ireland) 2014 [^c22351421]:
+
+In accordance with section 127(1) of that Act, the Department has consulted councils, such associations or bodies representative of councils, such associations or bodies representative of officers of councils and such other persons or bodies as appeared to the Department to be appropriate.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015 and shall come into operation on 1 April 2015.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the 1972 Act**” means the Local Government Act (Northern Ireland) 1972 [^c22351431];
+- “**the 2011 Act**” means the Local Government Finance Act (Northern Ireland) 2011 [^c22351441];
+- “**the 2014 Act**” means the Local Government Act (Northern Ireland) 2014;
+- “**the Planning Act**” means the Planning Act (Northern Ireland) 2011 [^c22351451];
+- “**background papers**” in relation to a report or part of a report, means those documents other than published works, that—
+  - (a) relate to the subject matter of the report or, as the case may be, the part of the report; and
+  - (b) in the opinion of the proper officer—
+    - (i) disclose any facts or matters on which the report or an important part of the report is based; and
+    - (ii) were relied on to a material extent in preparing the report;
+- “**confidential information**” means—
+  - (a) information provided to the council by a government department on terms (however expressed) which forbid the disclosure of the information to the public; or
+  - (b) information the disclosure of which to the public is prohibited by or under any enactment or by the order of a court,
+
+  and in either case, a reference to the obligation of confidence is to be construed accordingly;
+- “**copy**” in relation to any document includes a copy made from a copy;
+- “**council**” means a district council which is operating executive arrangements in accordance with Part 6 of the 2014 Act (executive arrangements) ;
+- “**decision maker**” means the decision-making body by which an executive decision is made;
+- “**decision-making body**” means—
+  - (a) the executive of a council; or
+  - (b) a joint committee, where all the members of the joint committee are members of a council executive, which is authorised to discharge the function to which the executive decision relates in accordance with these Regulations;
+- “**document**” means any report or background papers, other than that only in a draft form, taken into consideration in relation to an executive decision;
+- “**executive decision**” means a decision made or to be made by a decision maker in connection with the discharge of a function which is the responsibility of the executive of a council;
+- “**information**” includes an expression of opinion, any recommendation and any decision made;
+- “**key decision**” has the meaning given in regulation 21 (key decisions);
+- “**newspaper**” has the meaning specified by section 52 of the 2014 Act (interpretation and application of this Part);
+- “**nominating officer**” has the same meaning as in paragraph 16(1) of Schedule 1 to the 2014 Act (interpretation);
+- “[^key-58445882043d9b60b963822430c50238]**open to the public**” includes access through remote means including (but not limited to) video conferencing, live webcast and live interactive streaming and where a meeting is accessible to the public through such remote means the meeting is open to the public whether or not members of the public are able to attend in person;
+- “**party**” has the same meaning as in paragraph 16(1) of Schedule 1 to the 2014 Act (interpretation);
+- “**planning decision**” means—
+  - (a) any decision on an application under the Planning Act for any agreement, approval, consent or permission; or
+  - (b) any enforcement decision relating to any development within the meaning of the Planning Act;
+- “**private meeting**” means a meeting, or part of a meeting, of the decision-making body during which the public are excluded in accordance with regulation 20(2) (procedures prior to private meetings);
+- “**proper officer**” means an officer appointed by the council for the purpose of supporting the executive;
+- “**public meeting**” means a meeting of the decision-making body which is open to the public in accordance with section 42 of the 2014 Act (admission to meetings of councils);
+- “**relevant body**” means, in relation to any council whose functions are the subject of the arrangements for the joint exercise of functions and where the function is the responsibility of the executive of that council—
+  - (a) where the council has a cabinet-style executive, the cabinet-style executive; or
+  - (b) where the council has a streamlined committee executive, the relevant streamlined committee;
+- “**relevant council**” means the council whose executive is responsible for the discharge of the function to which the executive decision relates;
+- “**relevant executive**” means an executive of a council under Part 6 of the 2014 Act (executive arrangements);
+- “**relevant overview and scrutiny committee**” means an overview and scrutiny committee of the relevant council which has terms of reference including the power to review or scrutinise decisions made, or other actions taken, in connection with the discharge of the function to which the decision relates; and
+- “**report**” in relation to an executive decision does not include a report in draft form;
+- “**right of recourse to a review**” does not include any right to make a complaint to the Northern Ireland Commissioner for Complaints pursuant to the Commissioner for Complaints (Northern Ireland) Order 1996 [^c22351461].
+
+## PART 2 — Functions and responsibilities
+
+### 3. Functions not to be the responsibility of a council's executive
+
+(1) The functions of a council specified in column (1) of Schedule 1 (functions not to be the responsibility of a council's executive) by reference to the enactments specified in relation to those functions in column (2) are not to be the responsibility of an executive of the council.
+
+(2) The functions of—
+
+- (a) imposing any condition, limitation or other restriction on an approval, consent, licence, permission or registration granted in the exercise of a function specified in column (1) of Schedule 1; and
+- (b) determining any other terms to which any such approval, consent, licence, permission or registration is subject,
+
+are not to be the responsibility of an executive of the council.
+
+(3) The function of determining whether, and in what manner, to enforce—
+
+- (a) any failure to comply with an approval, consent, licence, permission or registration granted as mentioned in paragraph (2)(a);
+- (b) any failure to comply with a condition, limitation or term to which any such approval, consent, licence, permission or registration is subject; or
+- (c) any other contravention in relation to a matter with regard to which the function of determining an application for approval, consent, licence, permission or registration would not be the responsibility of an executive of the council,
+
+is not to be the responsibility of an executive of the council.
+
+(4) The function of—
+
+- (a) amending, modifying or varying any such approval, consent, licence, permission or registration as is mentioned in paragraph (2), or any condition, limitation or term to which it is subject; or
+- (b) revoking any such approval, consent, licence, permission or registration,
+
+is not to be the responsibility of an executive of the council.
+
+(5) The function of making any scheme authorised or required by regulations under section 31 of the 2011 Act (allowances, etc. for councillors) , or of amending, revoking or replacing any such scheme, is not to be the responsibility of an executive of the council.
+
+(6) The function of determining—
+
+- (a) the amount of any allowance payable under section 32 of the 2011 Act (allowances for chairperson and vice-chairperson);
+- (b) the rates at which payments are to be made under regulation 7 of the Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 [^c22351471] (travelling and subsistence allowances);
+- (c) the amount of any allowance payable pursuant to a scheme under section 31 of the 2011 Act (allowances, etc. for councillors), or the rates at which payments by way of any such allowance are to be made;
+- (d) whether a charge should be made for any approval, consent, licence, permit or registration the issue of which is not the responsibility of an executive of the council; and
+- (e) where a charge is made for any such approval, consent, licence, permit or registration, the amount of the charge,
+
+is not to be the responsibility of an executive of the council.
+
+(7) Section 7 of the 2014 Act (arrangements for discharge of functions of councils) shall not apply with respect to the discharge of any functions mentioned in paragraphs (5) or (6)(a) to (c).
+
+(8) Subject to any provision of regulations under section 26 of the 2014 Act (joint exercise of functions), the function of—
+
+- (a) making arrangements for the discharge of functions by a joint committee or officer under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly); and
+- (b) making appointments under section 11 of the 2014 Act (appointment of committees, etc for the purpose of discharging functions),
+
+is not to be the responsibility of an executive of the council.
+
+(9) Unless otherwise provided for by any other provision of these Regulations, a function of a council which, by virtue of any enactment passed or made before the making of these Regulations, may be discharged only by a council, and is not to be the responsibility of an executive of the council.
+
+### 4. Functions which may be the responsibility of a council's executive
+
+The functions specified in Schedule 2 (functions which may be the responsibility of a council's executive) may be the responsibility of an executive of a council.
+
+### 5. Function not to be the sole responsibility of a council's executive
+
+(1) In connection with the discharge of the function—
+
+- (a) of formulating or preparing a plan or strategy of a description specified in column (1) of Schedule 3 ( functions not to be the sole responsibility of a council's executive);
+- (b) of formulating a plan or strategy for the control of the council's borrowing or capital expenditure; or
+- (c) of formulating or preparing any other plan or strategy whose adoption or approval is, by virtue of regulation 6(1), a matter for determination by the council,
+
+the actions designated by paragraph (3) (“the paragraph (3) actions”), shall not be the responsibility of an executive of the council.
+
+(2) Except to the extent of the paragraph (3) actions, such function mentioned in paragraph (1) shall be the responsibility of such an executive.
+
+(3) The actions designated by this paragraph are—
+
+- (a) the giving of instructions requiring the executive to reconsider any draft plan or strategy submitted by the executive for the council's consideration;
+- (b) the amendment of any draft plan or strategy submitted by the executive for the council's consideration;
+- (c) the approval, for the purpose of its submission to a Northern Ireland department for its approval, of any plan or strategy (whether or not in the form of a draft) of which any part is required to be so submitted; and
+- (d) the adoption (with or without modification) of the plan or strategy.
+
+(4) The function of amending, modifying, varying or revoking any plan or strategy of a description referred to in paragraph (1), (whether approved or adopted, before or after the coming into operation of these Regulations)—
+
+- (a) shall be the responsibility of the executive to the extent that the making of the amendment, modification, variation or revocation—
+  - (i) is required for giving effect to requirements of a Northern Ireland department in relation to a plan or strategy submitted for its approval, or to any part so submitted; or
+  - (ii) is authorised by a determination made by the council when approving or adopting the plan or strategy, as the case may be; and
+- (b) shall not be the responsibility of such an executive to any other extent.
+
+(5) Section 7 of the 2014 Act (arrangements for discharge of functions of council) shall not apply with respect to the discharge—
+
+- (a) of a function specified in paragraph (1) to the extent that, by virtue of that paragraph, it is not the responsibility of an executive of the council; and
+- (b) of the functions specified in paragraph (4) to the extent that they are not the responsibility of an executive of the council.
+
+(6) Subject to paragraph (7) in connection with the discharge of the function of—
+
+- (a) making a calculation in accordance with section 3 of the 2011 Act (annual budget), whether originally or by way of substitute; or
+- (b) notifying a rate under Part II of the Rates (Northern Ireland) Order 1977 (rating), the actions designated by paragraph (8) (“the paragraph (8) actions”),
+
+shall be the responsibility of an executive of the council.
+
+(7) Except to the extent of the paragraph (8) actions, such function mentioned in paragraph (6) shall not be the responsibility of such an executive.
+
+(8) The actions designated by this paragraph are—
+
+- (a) the preparation, for submission to the council for its consideration, of—
+  - (i) estimates of the amounts to be aggregated in making the calculation or of other amounts to be used for the purposes of the calculation and estimates of the calculation; or
+  - (ii) the amounts required to be stated in the rate;
+- (b) the reconsideration of those estimates and amounts in accordance with the council's requirements; and
+- (c) the submission for the council's consideration of revised estimates and amounts.
+
+### 6. Discharge of executive functions by councils
+
+(1) Subject to paragraph (2), a function of any of the descriptions specified in column (1) of Schedule 4 (circumstances in which functions are not to be the responsibility of a council's executive) (which, but for this paragraph, may be the responsibility of an executive of the council), shall not be the responsibility of such an executive in the circumstances specified in column (2) in relation to that function.
+
+(2) Paragraph (1) shall not apply in relation to the discharge of a function of the description specified in paragraph 3 of column (1) of Schedule 4 where—
+
+- (a) the circumstances which render necessary the making of the determination may reasonably be regarded as urgent; and
+- (b) the individual or body by whom the determination is to be made has obtained a statement in writing that the determination needs to be made as a matter of urgency from—
+  - (i) the chairperson of the relevant overview and scrutiny committee or, if there is no such person;
+  - (ii) the chairperson of every relevant overview and scrutiny committee or, if such persons are unable to act;
+  - (iii) the chairperson or, in their absence, the vice-chairperson of the council .
+
+(3) In paragraph (2) “**relevant overview and scrutiny committee**” means an overview and scrutiny committee of the council concerned whose terms of reference include the power to review or scrutinise decisions or other actions taken in the discharge of functions to which the determination relates.
+
+(4) The individual or body by whom a determination is made pursuant to paragraph (2) shall, as soon as reasonably practicable after the making of the determination, submit to the council a report which shall include particulars of—
+
+- (a) the determination;
+- (b) the emergency or other circumstances in which it was made; and
+- (c) the reason for the determination.
+
+(5) Section 7 of the 2014 Act (arrangements for discharge of functions of council) shall not apply with respect to the discharge of a function referred to in paragraph (1) which, by virtue of that paragraph, is not the responsibility of an executive of the council.
+
+## PART 3 — Discharge of Functions
+
+### CHAPTER 1 — Bodies with power to make arrangements
+
+#### 7. Cabinet-style executive
+
+In the case of a council which has a cabinet-style executive, that executive has power to make arrangements under regulation 9 and to make arrangements under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly) in accordance with Chapter 3 as respects any functions which, by virtue of section 24 of the 2014 Act (allocation and discharge of functions), may be discharged by the executive.
+
+#### 8. Streamlined committee executive
+
+In the case of a council which has a streamlined committee executive, the relevant streamlined committee has power to make arrangements under regulation 9 and to make arrangements under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly) in accordance with Chapter 3 as respects any functions which, by virtue of section 24 of the 2014 Act (allocation and discharge of functions), may be discharged by that streamlined committee.
+
+### CHAPTER 2 — Discharge of functions by another council
+
+#### 9. Discharge of an executive's functions by another council or another relevant executive
+
+(1) Subject to paragraph (3), a body with power to make arrangements under this regulation, in relation to a council, may make the arrangements specified in paragraph (2).
+
+(2) The arrangements referred to in paragraph (1) are arrangements for a function which is the responsibility of the executive of the council to be discharged by—
+
+- (a) another council; or
+- (b) a relevant executive of another council.
+
+(3) If the function which is the responsibility of the executive of the council—
+
+- (a) is also a function which is, or which becomes, the responsibility of the relevant executive of the other council; or
+- (b) is not, or ceases to be, a function of the other council and that other council is operating, or begins to operate, executive arrangements,
+
+the arrangements referred to in paragraph (1) must not, or, as the case may be, must no longer provide for the other council to discharge that function but may provide for the executive of the other council to discharge it.
+
+(4) Any arrangements made under this regulation—
+
+- (a) are not to prevent the body which made the arrangements from exercising the functions to which they relate; and
+- (b) are to be made with the other council concerned.
+
+#### 10. Discharge of a council's functions by the relevant executive of another council
+
+(1) A council may make arrangements for the discharge of any of its functions, which are not the responsibility of an executive of that council, by a relevant executive of another council in accordance with this regulation.
+
+(2) Arrangements may only be made for the relevant executive of the other council to discharge any function referred to in paragraph (1) if the function is also a function of that other council and is the responsibility of the executive of that council.
+
+(3) Any arrangements made under this regulation—
+
+- (a) are not to prevent the council which made the arrangements from exercising the functions to which they relate; and
+- (b) are to be made with the other council concerned.
+
+#### 11. Responsibility for functions delegated to the relevant executive of another council
+
+Where, by virtue of regulation 9 or 10, arrangements are in force for the discharge of any functions of a council, or for the discharge of any functions which are the responsibility of the executive of that council, by the relevant executive of another council, those functions are to be treated, for the purposes of section 24 of the 2014 Act (allocation and discharge of functions), as functions which are the responsibility of the relevant executive of that other council.
+
+#### 12. Further delegation of discharge of functions delegated to another council.
+
+(1) Where, by virtue of regulation 9, arrangements are in force for the discharge of any functions which are the responsibility of the executive of a council by another council, then, subject to the terms of the arrangements, that other council may arrange for the discharge of any of those functions by a committee, sub-committee or officer of the council.
+
+(2) Where by virtue of paragraph (1) any functions may be discharged by a committee of another council, then, unless that council otherwise directs, the committee may arrange for the discharge of any of those functions by a sub-committee or an officer of the council.
+
+(3) Where by virtue of paragraph (1) or (2) any functions may be discharged by a sub-committee of another council, unless that council or, as the case may be, that committee otherwise directs, the sub-committee may arrange for the discharge of any of those functions by an officer of the council.
+
+### CHAPTER 3 — Joint exercise of functions
+
+#### 13. Joint arrangements for exercise of an executive's functions
+
+(1) Arrangements made under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly), in relation to functions which are the responsibility of an executive of a council, by a body on which power has been conferred by regulation 7 or 8, in relation to that council, must be made in accordance with this Chapter.
+
+(2) Any arrangements made in relation to a function are to be made—
+
+- (a) if the function is a function which is also the responsibility of the executive of the other council concerned, with the body which, by virtue of regulation 7 or 8, has power to make such arrangements in relation to that other council; and
+- (b) in any other case, with the other council.
+
+#### 14. Variation of joint arrangements
+
+(1) If a function, in relation to which arrangements have been made in accordance with regulation 13(2), is a function which becomes the responsibility of the relevant executive of the other council, the body which by virtue of regulation 7 or 8 has power to make arrangements under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly) in accordance with this Chapter must take the action specified in paragraph (2).
+
+(2) As soon as reasonably practicable after the executive becomes responsible for the function, the appropriate body must—
+
+- (a) decide whether or not the function is to continue to be discharged in relation to the council in accordance with the existing arrangements; and
+- (b) notify in writing all of the other parties to the arrangements–
+  - (i) that the executive of the other council has become responsible for the function; and
+  - (ii) what decision has been made under sub-paragraph (a).
+
+(3) Until the body decides whether or not the function is to continue to be discharged in accordance with the existing arrangements, the function is to continue to be discharged under the existing arrangements.
+
+(4) Where the body decides that the function is to continue to be discharged in accordance with the existing arrangements, the function is to continue to be so discharged.
+
+(5) Where the body decides that the function is not to continue to be discharged in accordance with the existing arrangements, and has notified in writing that decision to all the other parties to the arrangements, the function must cease to be so discharged.
+
+#### 15. Arrangements involving joint committees
+
+(1) Paragraph (2) applies where—
+
+- (a) arrangements are made under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly) at the same time in relation to more than one function;
+- (b) at least one of those functions is one which is the responsibility of an executive of a council; and
+- (c) the arrangements in respect of each function are made on behalf of the same council, regardless of who made the arrangements on behalf of each council in respect of each function.
+
+(2) Where this paragraph applies, the arrangements may provide for one joint committee to discharge all the functions which are the subject of the arrangements on behalf of those councils.
+
+(3) Subject to paragraph (4), where the arrangements provide for the discharge of functions by a joint committee, the joint committee may be a new joint committee or an existing joint committee.
+
+(4) Arrangements made under this Chapter may only provide for an existing joint committee to discharge functions on behalf of the councils concerned where each function, which the joint committee will discharge or will continue to discharge once the arrangements are made, is to be discharged on behalf of each of those councils and not on behalf of any other councils.
+
+(5) Where arrangements provide for the discharge of functions by a joint committee and the functions to be discharged by that joint committee, in relation to a constituent council, are all the responsibility of the council—
+
+- (a) the appointment of the joint committee is to be made, under section 11(1)(b) of the 2014 Act (appointment of committees etc. for the purpose of discharging functions); and
+- (b) the number of members to be appointed, their term of office, and the area (if restricted) within which the committee is to exercise its authority, are to be fixed under section 11(2) of the 2014 Act,
+
+in relation to the council, by the council.
+
+(6) Where arrangements provide for the discharge of functions by a joint committee and the functions to be discharged by that joint committee, in relation to a constituent council, are all the responsibility of the executive of the council—
+
+- (a) the appointment of the joint committee is to be made, under section 11(1)(b) of the 2014 Act; and
+- (b) the number of members to be appointed, their term of office, and the area (if restricted) within which the committee is to exercise its authority, are to be fixed, under section 11(2) of the 2014 Act,
+
+in relation to the council, by the body which, by virtue of regulation 7 or 8, has power to make arrangements under section 9 of the 2014 Act in accordance with this Chapter.
+
+(7) Where arrangements provide for the discharge of functions by a joint committee and one or more, but not all, of the functions to be discharged by that joint committee, in relation to a constituent council, are the responsibility of the executive of the council—
+
+- (a) the appointment of the joint committee is to be made, under section 11(1)(b) of the 2014 Act; and
+- (b) the number of members to be appointed, their term of office, and the area (if restricted) within which the committee is to exercise its authority, are to be fixed, under section 11(2) of the 2014 Act,
+
+in relation to the council, by that council with the agreement of the executive of that council.
+
+(8) A joint committee appointed in accordance with this regulation may, subject to the terms of the arrangements and unless a relevant body, if any, directs otherwise, arrange for the discharge of any of its functions by a sub-committee of the joint committee or an officer of one of the councils concerned.
+
+(9) Any sub-committee appointed in accordance with paragraph (8) may, subject to the terms of the arrangements and unless the joint committee or a relevant body, if any, directs otherwise, arrange for the discharge of any of its functions by an officer of one of the councils concerned.
+
+#### 16. Members of joint committees
+
+(1) A council may exercise the function under section 11(3) of the 2014 Act (appointment of committees etc. for the purpose of discharging functions) in relation to a joint committee where members of that committee are appointed by the council in accordance with paragraph (5) or (7) of regulation 15.
+
+(2) Subject to paragraphs (3) to (8), every person appointed to a joint committee in accordance with regulation 15 by an executive must be a member of that executive, and paragraph (9) shall apply to such appointments.
+
+(3) Where—
+
+- (a) the joint committee is discharging a function in relation to two or more councils; or
+- (b) the function which the joint committee is discharging is a function which is required by statute to be discharged by a joint committee,
+
+every person appointed to the joint committee in relation to the council, in accordance with regulation 15, by the council's executive must be a member of that executive or of that council. Paragraph (9) shall apply to such appointments by the executive and paragraph (10) shall apply to such appointments by the council.
+
+(4) Where arrangements provide for the discharge of functions by a joint committee and one or more, but not all, of the functions to be discharged by that joint committee, in relation to a council, are the responsibility of the executive of that council—
+
+- (a) where only one member of the council is a member of the joint committee, that person may be, but need not be, a member of the executive of the council; and
+- (b) where more than one member of the council is a member of the joint committee, at least one member of the executive of the council must be a member of the joint committee.
+
+(5) Paragraph (6) applies where—
+
+- (a) arrangements provide for the discharge of functions by a joint committee;
+- (b) the functions to be discharged by that joint committee, in relation to a constituent council, are all the responsibility of the executive of that council; and
+- (c) the joint committee previously discharged one or more functions in relation to the council which were not the responsibility of the executive of that council.
+
+(6) Where this paragraph applies—
+
+- (a) if sub-paragraph (a) or (b) of paragraph (3) applies, any member of the joint committee, who was appointed by the council and is not a member of the council or of the executive of the council, ceases to be a member of the joint committee;
+- (b) if neither sub-paragraph (a) or (b) of paragraph (3) applies, any member of the joint committee, who was appointed by the council and is not a member of the executive of the council, ceases to be a member of the joint committee; and
+
+any other member of the joint committee, who was appointed by the council, is to be treated as if that person had been appointed by the body who, by virtue of regulation 7 or 8, has power to make arrangements under section 9 of the 2014 Act (arrangements for discharge of functions by councils jointly) in accordance with regulation 15.
+
+(7) Where—
+
+- (a) the joint committee has functions in respect of part of the area of one of the councils concerned; and
+- (b) those functions are the responsibility of the executive of that council,
+
+the representatives of that council on the joint committee may include any members of that council who have been elected for the district electoral areas which are wholly or partly within that part of the council's area, and paragraph (10) shall apply to the appointment of those members.
+
+(8) Where the joint committee has functions in respect of part of the area of one of the councils concerned and the representatives of that council on that committee are appointed, in accordance with regulation 15, by the council itself, those representatives must be members of that council who have been elected for district electoral areas which are wholly or partly within that part of the council's area and paragraph (10) shall apply to those appointments.
+
+(9) The number of members which each nominating officer of a party may nominate shall, in so far as is practicable, bear the same proportion to the number of places to be appointed as is borne by the number of members of the executive who stood in the name of that party.
+
+(10) Paragraphs (2) to (4) of Schedule 2 to the 2014 Act (appointment of councillors to committees, etc.) shall apply to these appointments, as if the joint committee is a committee of the council.
+
+## PART 4 — Overview and scrutiny – Prescribed matters
+
+### 17. Prescribed matters
+
+Subject to regulation 18, the descriptions of matters specified as prescribed matters for the purposes of section 30 of the 2014 Act (reference of matters to overview and scrutiny committees etc.) are—
+
+- (a) any matter relating to a planning decision;
+- (b) any matter relating to a licensing decision; and
+- (c) any matter relating to a person in respect of which that person has a right of recourse to a review or right of appeal conferred under any statutory provision.
+
+### 18. Systemic failure in discharge of functions not a prescribed matter
+
+A matter does not fall within a description in regulation 17(a) to (c) if it consists of an allegation that a function for which the council is responsible has not been discharged at all or that its discharge has failed or is failing on a systemic basis.
+
+## PART 5 — Meetings and Access to Information
+
+### CHAPTER 1 — Admission of public to meetings of council executives and their committees
+
+#### 19. Admission of the public to meetings of council executives and their sub-committees
+
+A decision-making body may hold a meeting in public , open to the public[^key-28977a045757ae165ee1090a3b12a167] or in private.
+
+#### 20. Procedures prior to private meetings
+
+(1) A decision made by a decision-making body to hold a meeting in private is a prescribed decision for the purposes of section 35(5) of the 2014 Act (meetings and access to information etc.: further provision and regulations).
+
+(2)[^M_C_939c7980-ef5b-4ee3-dfcb-1fdb4fea38c2] At least 28 days before a private meeting, the decision-making body must—
+
+- (a) make available at the offices of the relevant council a notice of its intention to hold the meeting in private; and
+- (b) publish that note on the relevant council's website.
+
+(3) A notice under paragraph (2) must include a statement of the reasons for the meeting to be held in private.
+
+(4)[^M_C_f8d77532-017c-4de6-9d47-16d240085ff6] At least five days before a private meeting, the decision-making body must—
+
+- (a) make available at the offices of the relevant council a further notice of its intention to hold the meeting in private; and
+- (b) publish that notice on the council's website.
+
+(5) A notice under paragraph (4) must include—
+
+- (a) a statement of the reasons for the meeting to be held in private;
+- (b) details of any representations received by the decision-making body about why the meeting should be open to the public; and
+- (c) a statement of its response to any such representations.
+
+(6) Where the date by which a meeting must be held makes compliance with this regulation impracticable, the meeting may only be held in private where the decision-making body has obtained agreement from—
+
+- (a) the chairperson of the relevant overview and scrutiny committee;
+- (b) the chairperson of the relevant council, if the chairperson of the relevant overview and scrutiny committee is unable to act; or
+- (c) the vice-chairperson of the relevant council, where there is no chairperson of either the relevant overview and scrutiny committee or of the relevant council available,
+
+that the meeting is urgent and cannot reasonably be deferred.
+
+(7)[^M_C_3d180b62-253e-4aa5-8dcf-5ae1361206e1] As soon as reasonably practicable after the decision-making body has obtained agreement under paragraph (6) to hold a private meeting, it must—
+
+- (a) make available at the offices of the relevant council a notice setting out the reasons why the meeting is urgent and cannot reasonably be deferred; and
+- (b) publish that note on the relevant council's website.
+
+### CHAPTER 2 — Key decisions
+
+#### 21. Key decisions
+
+(1) In these regulations a “**key decision**” means a decision under executive arrangements, which is likely—
+
+- (a) to result in the relevant council incurring expenditure which is, or the making of savings which are, significant having regard to the relevant council's budget for the service or function to which the decision relates; or
+- (b) to be significant in terms of its effects on communities living or working in an area comprising two or more district electoral areas in the local government district of the relevant council.
+
+(2) In determining the meaning of “**significant**” for the purposes of paragraph (1) the council must have regard to any guidance for the time being issued by the Department in accordance with section 111 of the 2014 Act (guidance).
+
+#### 22. Publicity in connection with key decisions
+
+(1) Where a decision-making body intends to make a key decision, a document must be published, prior to that decision being made, in accordance with paragraph (2), which states—
+
+- (a) that a key decision is to be made on behalf of the relevant council;
+- (b) the matter in respect of which the decision is to be made;
+- (c) where the decision maker is an individual, that individual's name, and title if any and, where the decision maker is a decision-making body, its name and a list of its members;
+- (d) the date on which, or the period within which, the decision is to be made;
+- (e) a list of the documents submitted to the decision maker for consideration in relation to the matter in respect of which the key decision is to be made;
+- (f) the address from which, subject to any prohibition or restriction on their disclosure, copies of, or extracts from, any documents listed is available;
+- (g) that other documents relevant to those matters may be submitted to the decision maker; and
+- (h) the procedure for requesting details of those documents (if any) as they become available.
+
+(2)[^M_C_5f7b28d1-cad9-4f5c-a1b4-65c33f86bd04] At least 28 clear days before a key decision is made, the document referred to in paragraph (1) must be —
+
+- (a) open to inspection by the public at the offices of the relevant council; and
+- (b) published on the relevant council's website.
+
+(3) Where, in relation to any matter—
+
+- (a) the public may be excluded under section 42(2) of the 2014 Act (admission to meetings of councils) from the meeting at which the matter is to be discussed; or
+- (b) documents relating to the decision need not, because of regulation 32(2), be disclosed to the public, the document referred to in paragraph (1) must contain particulars of the matter but may not contain any confidential information or exempt information.
+
+#### 23. General exception
+
+(1) Subject to regulation 24, where the publication of the intention to make a key decision under regulation 22 is impracticable, that decision may only be made—
+
+- (a) where the proper officer has informed the chairperson of the relevant overview and scrutiny committee or, if there is no such person available, each member of the relevant overview and scrutiny committee by notice in writing, of the matter about which the decision is to be made;
+- (b)[^M_C_1ea5c0a2-59f6-42fa-ef0d-6be52cf1f08c] where the proper officer has made open to inspection by the public at the offices of the relevant council, and published on the relevant council's website, a copy of the notice given pursuant to sub-paragraph (a); and
+- (c) after five days have elapsed following the day on which the proper officer made open to inspection by the public the notice referred to in sub-paragraph (b).
+
+(2) Where paragraph (1) applies to any matter, regulation 22 need not be complied with in relation to that matter.
+
+(3)[^M_C_b4b9f4f0-9e4b-4d76-de1f-0bb164c90a36] As soon as practicable after the proper officer has complied with paragraph (1), the proper officer must—
+
+- (a) make open to inspection by the public at the offices of the relevant council a notice setting out the reasons why compliance with regulation 22 is impracticable; and
+- (b) publish that notice on the relevant council's website.
+
+#### 24. Cases of special urgency
+
+(1) Where the date by which a key decision must be made makes compliance with regulation 23 impracticable, the decision may only be made where the decision maker has obtained agreement from—
+
+- (a) the chairperson of the relevant overview and scrutiny committee; or
+- (b) if there is no such person, or if the chairperson of the relevant overview and scrutiny committee is unable to act, the chairperson of the relevant council; or
+- (c) where there is no chairperson of either the relevant overview and scrutiny committee or of the relevant council available, the vice-chairperson of the relevant council,
+
+that the making of the decision is urgent and cannot reasonably be deferred.
+
+(2)[^M_C_949017c0-9f21-4b6f-f2ff-ce5e9f46d01f] As soon as reasonably practicable after the decision maker has obtained agreement under paragraph (1) that the making of the decision is urgent and cannot reasonably be deferred, the decision maker must—
+
+- (a) make open to inspection by the public at the offices of the relevant council a notice setting out the reasons that the meeting is urgent and cannot reasonably be deferred; and
+- (b) publish that notice on the relevant council's website.
+
+### CHAPTER 3 — Recording of executive decisions and inspection of related papers and documents
+
+#### 25. Recording of executive decisions made at meetings
+
+(1) As soon as reasonably practicable after any meeting of a decision-making body at which an executive decision was made, the proper officer, or if the proper officer was not present at the meeting, the person chairing, must ensure that a written statement is produced for every executive decision made which includes the information specified in paragraph (2).
+
+(2) The statement referred to in paragraph (1) must include—
+
+- (a) a record of the decision including the date it was made;
+- (b) a record of the reasons for the decision;
+- (c) details of any alternative options considered and rejected by the decision-making body at the meeting at which the decision was made;
+- (d) a record of any conflict of interest relating to the matter decided which is declared by any member of the decision-making body which made the decision; and
+- (e) in respect of any declared conflict of interest, any note of dispensation granted by the Department.
+
+(3) For the purposes of paragraph (1) “**person chairing**” means the person actually chairing or the person nominated to chair that meeting.
+
+(4) Executive decisions made by decision-making bodies are prescribed decisions for the purposes of section 34(3) of the 2014 Act (meetings and access to information etc.).
+
+#### 26. Recording of executive decisions made by officers
+
+(1) As soon as reasonably practicable after an officer has made a decision which is an executive decision, the officer must produce a written statement which must include—
+
+- (a) a record of the decision including the date it was made;
+- (b) a record of the reasons for the decision;
+- (c) details of any alternative options considered and rejected by the officer when making the decision;
+- (d) a record of any conflict of interest declared by an executive member, who is consulted by the officer, which relates to the decision; and
+- (e) in respect of any declared conflict of interest, any note of dispensation granted by the Department.
+
+#### 27. Inspection of documents following executive decisions
+
+(1)[^M_C_a74e39ef-16cd-4a18-e7b5-7e87ad02f46d] Subject to regulation 32, after a meeting of a decision-making body at which an executive decision has been made, or after an officer has made an executive decision, the proper officer must ensure that a copy of—
+
+- (a) any records prepared in accordance with regulations 25 or 26; and
+- (b) any report considered at the meeting or, as the case may be, considered by the officer and relevant to a decision recorded in accordance with regulations 25 or 26 or, where only part of the report is relevant to such a decision, that part,
+
+must be made open to inspection by members of the public, as soon as reasonably practicable, at the offices of the relevant council, and on that council's website.
+
+(2)[^M_C_494583ce-960f-4f0c-e890-f107e0dcd4fc] Where a request on behalf of a newspaper is made for a copy of any of the documents available for public inspection under paragraph (1), those documents must be supplied for the benefit of the newspaper by the relevant council on payment by the newspaper to the council of postage, copying or other necessary charge for transmission.
+
+### CHAPTER 4 — Additional rights of members of the council and of members of overview and scrutiny committees
+
+#### 28. Additional rights of access to documents for members of councils
+
+(1) Subject to paragraphs (5) and (6), any documents which—
+
+- (a) are in the possession or under the control of the executive of a council; and
+- (b) contain material relating to any business to be transacted at a public meeting,
+
+must be available for inspection by any member of the relevant council.
+
+(2) Any documents which are required by paragraph (1) to be available for inspection by any member of the relevant council must be available for such inspection for at least five days before the meeting except that—
+
+- (a) where the meeting is convened at shorter notice, such a document must be available for inspection when the meeting is convened; and
+- (b) where an item is added to the agenda at shorter notice, a document that would be required to be available under paragraph (1) in relation to that item, must be available for inspection when the item is added to the agenda.
+
+(3) Subject to paragraphs (5) and (6), any document which—
+
+- (a) is in the possession and control of the executive of the council; and
+- (b) contains material relating to–
+  - (i) any business transacted at a private meeting; or
+  - (ii) any decision made by an officer in accordance with executive arrangements,
+
+must be available for inspection by any member of the relevant council when the meeting concludes or, where an executive decision is made by an officer, immediately after the decision has been made.
+
+(4) Any document which is required by paragraph (3) to be available for inspection by any member of the relevant council must be available for such inspection, in any event, within 24 hours of the conclusion of the meeting or the decision being made, as the case may be.
+
+(5) Paragraphs (1) and (3) do not require a document to be available for inspection if it appears to the proper officer that it discloses exempt information of a description falling within Part 1 (descriptions of exempt information) of Schedule 6 (access to information: exempt information) to the 2014 Act.
+
+(6) Notwithstanding paragraph (5), paragraphs (1) and (3) require the documents to be available for inspection if the information is information of a description for the time being falling within—
+
+- (a) paragraph 3 of Schedule 6 to the 2014 Act (access to information: exempt information) (except to the extent that the information relates to any terms proposed or to be proposed by or to the council in the course of negotiations for a contract); or
+- (b) paragraph 6 of Schedule 6 to the 2014 Act.
+
+(7) The rights conferred by paragraphs (1) and (3) are in addition to any other rights that a member of a council may have.
+
+#### 29. Additional rights of access to documents for members of overview and scrutiny committees
+
+(1) Subject to paragraph (3), a member of an overview and scrutiny committee of a relevant council is entitled to a copy of any document which—
+
+- (a) is in the possession or under the control of the executive of that council; and
+- (b) contains material relating to–
+  - (i) any business that has been transacted at a meeting of a decision-making body of that council; or
+  - (ii) any decision that has been made by an officer of the council in accordance with executive arrangements.
+
+(2) Subject to paragraph (3), where a member of a relevant overview and scrutiny committee requests a document which falls within paragraph (1), the executive must provide that document as soon as reasonably practicable and, in any case, no later than 10 days after the executive receives the request.
+
+(3) No member of a relevant overview and scrutiny committee is entitled to a copy of any such document or part of a document as contains exempt or confidential information unless that information is relevant to —
+
+- (a) an action or decision that that member is reviewing or scrutinising; or
+- (b) any review contained in any programme of work of the relevant overview and scrutiny committee or sub-committee of that committee.
+
+(4) Where the executive determines that a member of an overview and scrutiny committee is not entitled to a copy of a document or part of any such document for a reason set out in paragraph (1) or (3), it must provide the relevant overview and scrutiny committee with a written statement setting out its reasons for that decision.
+
+#### 30. Reports to the council where the key decision procedure is not followed
+
+(1) Where an executive decision has been made and—
+
+- (a) was not treated as being a key decision; and
+- (b) a relevant overview and scrutiny committee is of the opinion that the decision should have been treated as a key decision,
+
+that overview and scrutiny committee may require the executive which is responsible for the decision to submit a report to the relevant council within such reasonable period as the committee may specify.
+
+(2) A report under paragraph (1) must include details of—
+
+- (a) the decision and the reasons for the decision;
+- (b) the decision maker by which the decision was made; and
+- (c) if the executive of the relevant council is of the opinion that the decision was not a key decision, the reasons for that decision.
+
+#### 31. Executive reports to the council
+
+(1) The cabinet-style executive or each streamlined committee must submit to the relevant council at such intervals as may be determined by the relevant council a report containing details of each executive decision taken during the period since the last report was submitted to the council where the making of the decision was agreed as urgent in accordance with regulation 24.
+
+(2) A report submitted for the purposes of paragraph (1) must include—
+
+- (a) particulars of each decision made; and
+- (b) a summary of the matters in respect of which each decision was made.
+
+(3) The cabinet-style executive or each streamlined committee must submit at least one report under paragraph (1) annually to the relevant council.
+
+### CHAPTER 5 — General provisions relating to information
+
+#### 32. Confidential information and exempt information
+
+(1) Nothing in these Regulations is to be taken to authorise or require the disclosure of confidential information in breach of the obligation of confidence.
+
+(2) Where an officer makes an executive decision in accordance with executive arrangements, nothing in these Regulations—
+
+- (a) authorises or requires documents relating to that decision to be disclosed to the public, or made available for public inspection, where the documents contain confidential information; or
+- (b) requires documents relating to that decision to be disclosed to the public, or made available for public inspection where the disclosure of the documents would, in the opinion of the officer making the decision, give rise to the disclosure of exempt information.
+
+#### 33. Inspection and supply of documents
+
+(1) Any document required by any provision of these Regulations to be open to inspection by members of the public must be available for inspection—
+
+- (a)[^M_C_e21516fa-4fb3-4134-8404-a9264252fff4] at all reasonable hours at the offices of the relevant council;
+- (b) on the relevant council's website; and
+- (c)[^M_C_4350a2f9-ce5c-4310-8592-e5d5bf945033] in the case of documents to be available for inspection pursuant to section 45 of the 2014 Act (inspection of background papers), on payment of a reasonable fee required by the relevant council by the person seeking to inspect the documents at the offices of the relevant council.
+
+(2)[^M_C_7440c600-ad74-473c-a2bf-97c0361c51c0] Subject to paragraph (4), where a document is to be open to inspection by a person under any provision in these Regulations, the person may—
+
+- (a) make a copy of the whole or part of the document;
+- (b) require the person having custody of the document to supply the person requiring inspection with a copy of the whole or part of the document, on payment by the person requiring the copy to the relevant council of postage, copying or other necessary charge for transmission.
+
+(3) Subject to paragraph (4), any member of the public may, in any publicly available medium, reproduce, or provide commentary in relation to, any document supplied to that person or made available for inspection by members of the public under these Regulations.
+
+(4) Paragraphs (2) and (3) do not require or authorise the doing of any act which infringes the copyright of any work except that, where the owner of the copyright is the relevant council, nothing done pursuant to those paragraphs constitutes an infringement of copyright.
+
+(5) Where any document required by these Regulations to be open to inspection by the public—
+
+- (a) is supplied to, or available for inspection by, members of the public; or
+- (b) is supplied for the benefit of any newspaper in pursuance of regulation 27(2),
+
+the publication thereby of any defamatory matter contained in the document is privileged unless the publication is proved to be with malice.
+
+(6) Any written record of an executive decision or any report required by regulation 27 to be available for inspection by members of the public, must be retained by the relevant council and made available for inspection by the public for a period of at least six years beginning on the date on which the decision, to which the report or record relates, was made.
+
+(7) The rights conferred on any person by these Regulations to inspect, copy or be supplied with documents are in addition to any such rights that person may have apart from those under these Regulations.
+
+#### 34. Offences
+
+(1) A person who has custody of a document which is required by regulation to be available for inspection by members of the public commits an offence if, without reasonable excuse, that person—
+
+- (a) intentionally obstructs any person exercising a right conferred under these Regulations to inspect, or to make a copy of the whole or part of the document; or
+- (b) refuses to supply a copy of the whole or part of the document in accordance with regulation 27(2) or 33(2).
+
+(2) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+### CHAPTER 6 — Publication etc. of documents by the executive: confidential and exempt information
+
+#### 35. Interpretation of Chapter 6
+
+An expression used in this Chapter and in section 33 of the 2014 Act (publication etc. of reports, recommendations and responses: confidential and exempt information) has the same meaning in this Chapter as it has in section 34.
+
+#### 36. Application of Chapter 6
+
+This Chapter applies to—
+
+- (a) the publication by the executive of a council under section 32 of the 2014 Act (duty of council or executive to respond to overview and scrutiny committee) of responses to reports or recommendations of overview an scrutiny committees and sub-committees of such committees; and
+- (b) the provision by such executive under that section of copies of such responses.
+
+#### 37. Exemptions from publication requirements, etc
+
+(1) In publishing the document the executive—
+
+- (a) must exclude any confidential information; and
+- (b) may exclude any relevant exempt information.
+
+(2) In providing a copy of the document to a member of the council the executive may exclude any confidential or relevant exempt information.
+
+(3) Where information is excluded under paragraph (1) or (2), the executive, in publishing or providing a copy of the document—
+
+- (a) may replace so much of the document as discloses the information with a summary which does not disclose the information; and
+- (b) must do so if, in consequence of excluding the information, the document published, or copy provided, would be misleading or not reasonably comprehensible.
+
+(4) If by virtue of any of paragraphs (1) to (3) an executive, in publishing or providing a copy of the document—
+
+- (a) excludes information; or
+- (b) replaces part of the document with a summary, it is nevertheless to be taken for the purposes of section 32 of the 2014 Act (duty of council or executive to respond to overview and scrutiny committee) to have published or provided a copy of the response.
+
+Sealed with the Official Seal of the Department of the Environment on 9 February 2015
+
+Linda MacHugh
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — FUNCTIONS NOT TO BE THE RESPONSIBILITY OF A COUNCIL'S EXECUTIVE
+
+Regulation 3
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| *Function* | *Provision of Act or Statutory Instruments* |
+| *A. Functions relating to planning* |  |
+| 1\. Any local development plan function. | Part 2 of the Planning Act (Northern Ireland) 2011 [^c22351481]. |
+| 2\. Any planning control function. | Part 3 of the Planning Act (Northern Ireland) 2011. |
+| 3\. Any additional planning control function. | Part 4 of the Planning Act (Northern Ireland) 2011. |
+| 4\. Any enforcement function. | Part 5 of the Planning Act (Northern Ireland) 2011. |
+| *B. Licensing and registration functions (in so far as not covered by any other paragraph of this Schedule)* |  |
+| 1\. Power to issue licences authorising the use of land as a caravan sites (“site licences”). | Section 3(3) of the Caravans Act (Northern Ireland) 1963 [^c22351491]. |
+| 2\. Power to grant amusement permits. | Article 111 of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 [^c22351501]. |
+| 3\. Power to register societies for societies' lotteries purposes. | Article 136 of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985. |
+| 4\. Power to grant pleasure permits. | Article 157 of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985. |
+| 5\. Power to license places of entertainment. | Article 3 of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985 [^c22351511]. |
+| 6\. Power to license sex establishments. | Article 4 of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985. |
+| 7\. Power to register premises for acupuncture, tattooing, ear-piercing and electrolysis. | Part V of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985. |
+| 8\. The power to license street trading | The Street Trading Act (Northern Ireland) 2001 [^c22351521]. |
+| 9\. Duty to keep list of persons entitled to sell non-medicinal poisons. | Article 7 of the Poisons (Northern Ireland) 1976 [^c22351531]. |
+| 10\. Power to license knackers' yards. | Section 2 of the Public Health (Ireland) Act 1898 [^c22351541]. |
+| 11\. Power to approve premises for the solemnisation of marriages. | Article 18(2) of the Marriage (Northern Ireland) Order 2003 [^c22351551]. |
+| *C. Functions relating to health and safety at work* |  |
+| 1\. Functions under any of the “relevant statutory provisions” within the meaning of the Health and Safety at Work (Northern Ireland) Order 1978 to the extent that those functions are discharged otherwise that in the council's capacity as an employer. | Part II of the Health and Safety at Work (Northern Ireland) Order 1978 [^c22351561]. |
+| *D. Functions relating to elections.* |  |
+| 1\. Duty to declare vacancy in office in certain cases. | Section 10 of the Local Government Act (Northern Ireland) 1972 [^c22351571]. |
+| 2\. Duty to give public notice of a casual vacancy | Section 10 of the Local Government Act (Northern Ireland) 1972. |
+| *E. Functions relating to Policing and Community Safety Partnerships* |  |
+| 1\. Duty to establish a Policing and Community Safety Partnership (PCSP) for the district. | Section 20(1) of the Justice Act (Northern Ireland) 2011 [^c22351581]. |
+| 2\. Duty to establish a District Policing and Community Safety Partnership (DPCSP) for each police district. | Section 20(2) of the Justice Act (Northern Ireland) 2011. |
+| 3\. Duty to appoint political members of a PCSP or DPCSP. | Section 20(3) of, and paragraph 3(1) of Schedule 1 to, the Justice Act (Northern Ireland) 2011 for PCSPs; and section 20(4) of, and paragraph 3(1) of Schedule 2 to, the Justice Act (Northern Ireland) 2011 for DPCSPs. |
+| 4\. Duty to nominate persons willing to be candidates for appointment as independent members of a PCSP. | Section 20(3) of, and paragraph 5(1) of Schedule 1 to, the Justice Act (Northern Ireland) 2011. |
+| 5\. Power to remove a person from office as a political or independent member of a PCSP or DPCSP. | Section 20(3) of, and paragraph 8(1) of Schedule 1 to, the Justice Act (Northern Ireland) 2011 for PCSPs and section 20(4) of, and paragraph 8(1) of Schedule 2 to, the Justice Act (Northern Ireland) 2011 for DPCSPs. |
+| 6\. Duty to appoint a chair from among the political members. | Section 20(3) of, and paragraph 10(1) of Schedule 1 to, the Justice Act (Northern Ireland) 2011 for PCSPs and section 20(4) of, and paragraph 10(1) of Schedule 2 to, the Justice Act (Northern Ireland) 2011 for DPCSPs. |
+| *F. Functions relating to name and status of areas and individuals* |  |
+| 1\. Functions in relation to the designation of aldermen and the conferment of the freedom of the borough in accordance with the charter granted to the borough. | Section 2 of the Local Government Act (Northern Ireland) 1972. |
+| 2\. Power to petition for a charter to confer borough status. | Section 2 of the Local Government Act (Northern Ireland) 1972. |
+| 3\. Power to change the name of a district. | Section 51 of the Local Government Act (Northern Ireland) 1972. |
+| *G. Miscellaneous functions* |  |
+| 1\. Power to make bye-laws. | Any provision of any enactment (including a local Act), whenever passed. |
+| 2\. Duty to approve council's statement of accounts. | Regulation 5(1) of the Local Government (Accounts and Audit) Regulations (Northern Ireland) 2006 [^c22351591]. |
+| 3\. Duty to make standing orders for the purposes of sections 37 and 41 of the Local Government Act (Northern Ireland) 2014 [^c22351601]. | Sections 37 and 41 of the Local Government Act (Northern Ireland) 2014. |
+| 4\. Power to appoint staff. | Section 41 of the Local Government Act (Northern Ireland) 1972. |
+| 5\. Duty to make standing orders as to contracts. | Section 99 of the Local Government Act (Northern Ireland) 1972. |
+
+## SCHEDULE 2 — FUNCTIONS WHICH MAY BE THE RESPONSIBILITY OF A COUNCIL'S EXECUTIVE
+
+Regulation 4
+
+**1.** The determination of an appeal against any decision made by or on behalf of the council.
+
+**2.** The discharge of any function relating to the control of pollution or the management of air quality.
+
+**3.** The service of an abatement notice in respect of a statutory nuisance.
+
+**4.** The inspection of the council's area to detect any statutory nuisance.
+
+**5.** The investigation of any complaint as to the existence of a statutory nuisance.
+
+**6.** The obtaining of information under section 133 of the Planning Act (Northern Ireland) 2011 (power to require information about activities on land) as to interests in land.
+
+**7.** The appointment of any individual—
+
+- (a) to any office other than an office in which he is employed by the council;
+- (b) to any body other than—
+  - (i) the council;
+  - (ii) a joint committee of two or more councils; or
+- (c) to any committee or sub-committee of such a body,
+
+and the revocation of any such appointment.
+
+## SCHEDULE 3 — FUNCTIONS NOT TO BE THE SOLE RESPONSIBILITY OF A COUNCIL'S EXECUTIVE
+
+Regulation 5
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| *Plans and strategies* | *Reference* |
+| Performance Improvement Plan | Section 92(2) and (4) of the Local Government Act (Northern Ireland) 2014 [^c22351611]. |
+| Community Plan | Section 68 of the Local Government Act (Northern Ireland) 2014. |
+
+## SCHEDULE 4 — CIRCUMSTANCES IN WHICH FUNCTIONS ARE NOT TO BE THE RESPONSIBILITY OF A COUNCIL'S EXECUTIVE
+
+Regulation 6
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| *Function* | *Circumstances* |
+| 1\. The adoption or approval of a plan or strategy (whether statutory or non-statutory), other than a plan or strategy of a description referred to in regulation 4(1)(b) or Schedule 3. | The council determines that the decision whether the plan or strategy should be adopted or approved should be taken by them. |
+| 2\. The determination of any matter in the discharge of a function which—<br>- (a) is the responsibility of the executive; and<br>- (b) is concerned with the council's budget, or their borrowing or capital expenditure. | The individual or body by whom, by virtue of any of section 24 of the Local Government Act (Northern Ireland) 2014 [^c22351621] (allocation and discharge of functions) or provision made under section 26 of that Act (joint exercise of functions), the determination is to be made—<br>- (a) is minded to determine the matter contrary to or not wholly in accordance with—<br>  - (i) the council's budget; or<br>  - (ii) the plan or strategy for the time being approved or adopted by the council in relation to their borrowing or capital expenditure; and<br>- (b) is not authorised by the council's executive arrangements, financial regulations, standing orders or other rules or procedures to make a determination in those terms. |
+| 3\. The determination of any matter in the discharge of a function—<br>- (a) which is the responsibility of the executive; and<br>- (b) in relation to which a plan or strategy (whether statutory or non-statutory) has been adopted or approved by the council. | The individual or body by whom, by virtue of any of section 24 of the Local Government Act (Northern Ireland) 2014 or provision made under section 26 of that Act, that determination is to be made, is minded to determine the matter in terms contrary to the plan or, as the case may be, the strategy adopted or approved by the council. |
+
+*(This note is not part of the Regulations)*
+
+Part 6 of the Local Government Act (Northern Ireland) 2014 (“**the 2014 Act**”) (executive arrangements) provides for the discharge of a council's functions by an executive of the council (which must take one of the forms specified in section 21(2) of that Act (council executives)) unless those functions are specified as functions that are not to be the responsibility of the council's executive. These regulations specify the functions that are not to be the responsibility of a council's executive or are to be the responsibility of an executive only to a limited extent or only in specified circumstances.
+
+Regulations 3 and 4, by reference to the Schedules to the Regulations, prescribe those functions which are not to be, or may be the responsibility of a council's executive. Regulation 5, by reference to Schedule 3, prescribes the functions which may not be the sole responsibility of a council's executive.
+
+Regulation 6 provides that those functions listed in Schedule 4, which but for Regulation 6 would be the responsibility of an executive, are not to be an executive's responsibility in the circumstances set out in column (2) of that Schedule.
+
+Regulation 9 enables arrangements to be made for the discharge of functions, which are the responsibility of a council's executive, by another council or an executive of another council. Regulations 7 and 8 set out who may make such arrangements in relation to cabinet-style executives and streamlined committee executives, respectively.
+
+Regulation 10 also enables a council to make arrangements for the discharge of its functions, which are not the responsibility of an executive of that council, by the executive of another council. The council can only do this if the function is also a function of the other council which is the responsibility of the other council's executive.
+
+Regulation 11 provides that where the arrangements made under regulation 9 are for the discharge of functions by the executive of another council, those functions are treated as the responsibility of that executive for the purposes of section 24 of the 2014 Act (allocation and discharge of functions).
+
+Regulation 12 makes provision that where arrangements are made under regulation 9 for the discharge of functions by another council those functions may be discharges by a committee, sub-committee or officer of the other council.
+
+Regulations 13 to 15 make provision in connection with the discharge of functions jointly by two or more councils, or by a joint committee, under section 9(1) of the 2014 Act (arrangements for discharge of functions by councils jointly) where any of those functions are the responsibility of an executive of a council. Regulations 7 and 8 also apply to who may make the arrangements, in relation to the executive concerned, in accordance with regulation 13.
+
+Regulation 16 makes provision in respect of membership of joint committees.
+
+Section 30(1)(c) of the 2014 Act (reference of matters to overview and scrutiny committee etc.) requires the executive arrangements of a council to include provision enabling those of its members who are not members of the council's overview and scrutiny committee to refer to that committee any matter relevant to the committee's functions that is not a prescribed matter.
+
+Regulation 17 provides that a member of a council may not refer to the council's overview and scrutiny committee any matter relating to a planning decision or a licensing decision; a matter relating to an individual or entity where that individual or entity already has a statutory right to a review or appeal (other than the right to complain to the Northern Ireland Commissioner for Complaints).
+
+Regulation 18 provides that a matter does not fall within a prescribed matter (as prescribed by regulation 17) if it consists of an allegation that a function for which the council is responsible has not been discharged at all or that its discharge has failed or is failing on a systemic basis.
+
+Part 5 of the Regulations makes provision for public access to meetings and to information relating to decisions of council executives, and their sub-committees. In addition, they provide for access to information relating to decisions made by joint committees where these are solely comprised of executive members and discharge executive functions. The Regulations also make provision for public access to documents where executive decisions are made by officers.
+
+Regulation19 provides that a meeting of a decision-making body may be held in public or in private. Regulation 20 sets out the formalities to be complied with before a private meeting is held.
+
+Regulation 21 sets out the meaning of a key decision under executive arrangements and Regulation 22 sets out the publicity requirements in relation to key decisions. Regulations 23 and 24 allow exceptions to these requirements.
+
+Regulations 25 and 26 make provision in relation to the requirement for executive decisions to be recorded in a written statement. Regulation 27 sets out the documents relating to an executive decision which must be made available for inspection by the public.
+
+Regulation 28 sets out the additional rights of access for members of councils to documents relating to the business of the executive. Regulation 29 sets out additional rights of members of overview and scrutiny committees in relation to decisions that committee is scrutinising and in certain circumstances the committee can access exempt of confidential information.
+
+Regulation 30 makes provision enabling an overview and scrutiny committee to require the executive to make a report to the council on matters which have not been dealt with as a key decision and which the overview and scrutiny committee consider should have been treated as such. Regulation 31 requires the executive to provide reports to the council on all matters which have been treated as urgent under Regulation 24.
+
+Regulation 32 makes general provision regarding the non-disclosure of confidential or exempt information. Regulation 33 establishes the manner in which documents required to be open to inspection under these Regulations are to be held at the offices of the council. Regulation 34 sets out offences where documents have not been made open for inspection as required under these Regulations.
+
+## Annotations
+
+[^c22351421]: Marginal citation: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8)
+
+[^c22351431]: Marginal citation: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
+
+[^c22351441]: Marginal citation: [2011 c.10 (N.I.)](https://www.legislation.gov.uk/nia/2011/10)
+
+[^c22351451]: Marginal citation: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^key-58445882043d9b60b963822430c50238]: Textual amendment: Words in reg. 2 inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2020/74/regulation/12)
+
+[^c22351461]: Marginal citation: [S.I. 1996/1297 (N.I. 7)](https://www.legislation.gov.uk/nisi/1996/1297)
+
+[^c22351471]: Marginal citation: S.R. [2012 No. 85](https://www.legislation.gov.uk/nisr/2012/85)
+
+[^key-28977a045757ae165ee1090a3b12a167]: Textual amendment: Words in reg. 19 inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2020/74/regulation/13)
+
+[^M_C_939c7980-ef5b-4ee3-dfcb-1fdb4fea38c2]: Modification: Reg. 20(2) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/a)
+
+[^M_C_f8d77532-017c-4de6-9d47-16d240085ff6]: Modification: Reg. 20(4) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/44/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2015/44/regulation/14/1)[(2)(b)](https://www.legislation.gov.uk/nisr/2015/44/regulation/14/2/b)
+
+[^M_C_3d180b62-253e-4aa5-8dcf-5ae1361206e1]: Modification: Reg. 20(7) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/44/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2015/44/regulation/14/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2015/44/regulation/14/2/c)
+
+[^M_C_5f7b28d1-cad9-4f5c-a1b4-65c33f86bd04]: Modification: Reg. 22(2) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(d)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/d)
+
+[^M_C_1ea5c0a2-59f6-42fa-ef0d-6be52cf1f08c]: Modification: Reg. 23(1)(b) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(e)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/e)
+
+[^M_C_b4b9f4f0-9e4b-4d76-de1f-0bb164c90a36]: Modification: Reg. 23(3) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/f)
+
+[^M_C_949017c0-9f21-4b6f-f2ff-ce5e9f46d01f]: Modification: Reg. 24(2) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(g)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/g)
+
+[^M_C_a74e39ef-16cd-4a18-e7b5-7e87ad02f46d]: Modification: Reg. 27(1) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(h)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/h)
+
+[^M_C_494583ce-960f-4f0c-e890-f107e0dcd4fc]: Modification: Reg. 27(2) disapplied (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/3/a)
+
+[^M_C_e21516fa-4fb3-4134-8404-a9264252fff4]: Modification: Reg. 33(1)(a) disapplied (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/3/b)
+
+[^M_C_4350a2f9-ce5c-4310-8592-e5d5bf945033]: Modification: Reg. 33(1)(c) disapplied (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/3/b)
+
+[^M_C_7440c600-ad74-473c-a2bf-97c0361c51c0]: Modification: Reg. 33(2) disapplied (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(3)(c)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/3/c)
+
+[^c22351481]: Marginal citation: [2011 c. 25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^c22351491]: Marginal citation: [1963 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1963/17)
+
+[^c22351501]: Marginal citation: [S.I. 1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204)
+
+[^c22351511]: Marginal citation: [S.I. 1985/1208 (N.I. 15)](https://www.legislation.gov.uk/nisi/1985/1208)
+
+[^c22351521]: Marginal citation: [2001 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2001/8)
+
+[^c22351531]: Marginal citation: [S.I. 1976/1213 (N.I. 23)](https://www.legislation.gov.uk/nisi/1976/1213)
+
+[^c22351541]: Marginal citation: [1898 c. 52](https://www.legislation.gov.uk/ukpga/1898/52)
+
+[^c22351551]: Marginal citation: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413)
+
+[^c22351561]: Marginal citation: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^c22351571]: Marginal citation: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
+
+[^c22351581]: Marginal citation: [2011 c. 24 (N.I.)](https://www.legislation.gov.uk/nia/2011/24)
+
+[^c22351591]: Marginal citation: S.R. [2006 No. 89](https://www.legislation.gov.uk/nisr/2006/89)
+
+[^c22351601]: Marginal citation: [2014 c. 8](https://www.legislation.gov.uk/nia/2014/8) N.I.
+
+[^c22351611]: Marginal citation: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8)
+
+[^c22351621]: Marginal citation: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8)

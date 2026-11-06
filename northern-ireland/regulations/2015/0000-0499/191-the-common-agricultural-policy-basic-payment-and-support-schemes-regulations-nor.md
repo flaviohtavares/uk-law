@@ -1,0 +1,316 @@
+---
+title: The Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015
+id: nisr/2015/191
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-27'
+text_date: '2026-01-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/191
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/191/pdfs/nisrem_20150191_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/191/pdfs/nisr_20150191_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/191/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015
+
+> Text as at 2026-01-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 191
+
+Agriculture
+
+The Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015
+
+Made
+
+27th March 2015
+
+Coming into operation
+
+30th April 2015
+
+The Department of Agriculture and Rural Development is a Department designated [^c22503121] for the purposes of section 2(2) of the European Communities Act 1972 [^c22503131] in relation to the Common Agricultural Policy of the European Union and in relation to matters relating to the promotion of rural development.
+
+The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of that Act.
+
+## 1. Title, commencement and interpretation
+
+(1) These Regulations may be cited as the Common Agricultural Policy Basic Payment and Support Scheme Regulations (Northern Ireland) 2015 and shall come into operation on 30th April 2015.
+
+(2) The Interpretation Act (Northern Ireland) 1954 [^c22503141] shall apply to this Order as it applies to an Act of the Assembly.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “[^key-e34f4119b1b5f657f05224979ba64359]**the 2025 scheme year**” means the scheme year beginning on 1<sup>st</sup> January and ending on 31<sup>st</sup> December 2025,
+- “**the Direct Payments Delegated Regulation**” means Commission Delegated Regulation (EU) No.639/2014 supplementing the Direct Payments Regulation [^c22503151];
+- “**the Direct Payments Implementing Regulation**” means Commission Implementing Regulation (EU) No.641/2014 laying down rules for the application of the Direct Payments Regulation [^c22503161];
+- “**the Direct Payments Regulation**” means Regulation (EU) No. 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy [^c22503171];
+- “**the European Regulations**” means—
+  - (a) the Direct Payments Regulation;
+  - (b) the Direct Payments Delegated Regulation;
+  - (c) the Direct Payments Implementing Regulation; and
+  - (d) the Horizontal Implementing Regulation;
+- “**the Horizontal Implementing Regulation**” means Commission Implementing Regulation (EU) No. 809/2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance [^c22503181];
+- “[^key-5be11dcb3cdfc448ee6173275f839fcf]**active farmer**” means a person who holds decision making power, derives the benefits and assumes the financial risks in relation to the agricultural activity on the land;
+- “[^key-0d7f12f9a3af4e3977b80b8f521cd6a2]**agricultural activity**” has the same meaning as in the Direct Payments Regulation;
+- “**Bank Holiday**” means a day specified in paragraph 1 of Schedule 1 to the Banking and Financial Dealings Act 1971 [^c22503191];
+- “**Farm Sustainability Payment Scheme**” has the same meaning as in the Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025;
+- “**management control**” in relation to land means management control for the purpose of any agricultural activity in the relevant scheme year and includes authority from the owner of the land to carry out the agricultural activity;
+- “**working day**” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+
+(2) Terms used in these Regulations that are also used in any of the European Regulations have the meaning they bear in those Regulations.
+
+(3)[^key-de11af28e99a2c5890b1b710f87bba5f] In these Regulations, any reference to “the European Regulations” is a reference to those Regulations as amended from time to time.
+
+## PART 1 — Basic Payment Scheme
+
+### 3. Regions
+
+(1) For the purposes of Article 23(1) of the Direct Payments Regulation, Northern Ireland will be a single region.
+
+### 4. Payment entitlements
+
+(1) For the purposes of Article 8(1) of the Direct Payments Implementing Regulation, the period within which the transferor of payment entitlements must notify the Department of the transfer is—
+
+- (a) on or before 2nd May 2016, if 2016 is the first calendar year in which the transferee may include those entitlements in the transferee's application for direct payments; or
+- (aa)[^key-5b1c3850eddd27484548665d18590b06] on or before 15<sup>th</sup> May in relation to the 2025 scheme year and subsequent scheme years,
+- (b) otherwise from 3rd May of the preceding calendar year to 2nd May (both those dates included) of the first calendar year where the first calendar year is 2017 or a subsequent year in which the transferee may include those entitlements in the transferee's application for direct payments , or[^key-ba53248d45b5a6a3839724433792b865]
+- (c)[^key-df2daff1b6de8e97b2f9a5ce19631d96] otherwise from 16<sup>th</sup> May of the preceding calendar year to 15<sup>th</sup> May (both those dates included) of the first calendar year where the first calendar year is 2026 or a subsequent year in which the transferee may include those entitlements in the transferee’s application for direct payments.
+
+(2) If, for the purposes of paragraph (1), 2nd May or 15[^key-e8211de7461baeeb85805f578bd9549f]<sup>th</sup> May is not a working day, the deadline for notification is the next working day.
+
+(3)[^key-637204249eafb2f7c1a88278a1a5b921] For the purposes of Article 22(1) of the Horizontal Implementing Regulation, to the extent that Article relates to direct payments [^key-2b67fbcfa342924a3d6bd0ea9f1eb0e7]..., applications for the allocation of payment entitlements must be submitted on or before 15<sup>th</sup> May of the relevant calendar year.
+
+### 5. Allocation of Payment Entitlements
+
+Article 21(3) of the Direct Payments Regulation shall not be applied.
+
+### 6.
+
+Article 24(1)(c) of the Direct Payments Regulation shall be applied with the exception of the last sentence of that paragraph.
+
+### 7.
+
+The limitations referred to in Article 24(3) of the Direct Payments Regulation shall not be applied.
+
+### 8.
+
+In accordance with Article 25(4) of the Direct Payments Regulation payment entitlements with an initial unit value lower than 100% of the regional unit value in 2019 shall for claim year 2019 have their unit value increased by 71.4% of the difference between their initial unit value and 100% of the regional unit value in 2019.
+
+### 9.
+
+The decrease referred to in Article 25(7) of the Direct Payments Regulation shall be applied in a linear fashion each year.
+
+### 10.
+
+The initial unit value of payment entitlements as referred to in Article 26 of the Direct Payments Regulation shall be calculated in accordance with paragraph 3 of that Article.
+
+### 10A. Active farmers[^key-cb681e4ddc58885aac95ca5a7f89f189]
+
+(1)[^key-6ce99d4ebabaa9928ce9842ca87885a5] Only persons who are active farmers on land for which they have claimed payment entitlements shall be eligible to activate payment entitlements in respect of that land
+
+(2)[^key-b2c0504b5f1e892afe0c30a30c036c47] An applicant for the Farm Sustainability Payment Scheme must have management control of any agricultural activity carried out on land used to activate entitlements.
+
+(3) An applicant for the Farm Sustainability Payment Scheme must carry out agricultural activity on at least 3 hectares of land used to activate entitlements.
+
+(4) Where an applicant for the Farm Sustainability Payment Scheme submits a claim of less than 5 hectares of land to activate entitlements, the applicant must carry out agricultural activity on at least 2 hectares of land used to activate entitlements.
+
+### 11. Active farmers[^key-02ad25300ec49e7b2057d7b764ea5b6b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Minimum eligible area of holding
+
+For the purposes of Article 10(1) [^key-bce96183db2dfd69e1f877273b9ea993]... of the Direct Payments Regulation, no direct payments may be granted to a farmer where the eligible area of the holding for which the payments are claimed or due to be granted in accordance with Article 10(1)[^key-5b7d63bff0bf4251351f7293ed4da4c5]... is less than three hectares.
+
+### 13.
+
+For the purposes of Article 24(9) of the Direct Payments Regulation, the minimum size per holding in respect of which a farmer may apply for an allocation of payment entitlements shall be 3 hectares.
+
+### 14. Date on which eligible land must be at farmer's disposal
+
+In relation to any year in which the farmer makes a declaration in respect of parcels pursuant to Article 33(1) of the Direct Payments Regulation, the date on which those parcels must be at the farmer's disposal is 15th May.
+
+### 15. Reductions[^key-5f9d014bdfd34b8500280692d69ccec4]
+
+For the purposes of Article 11(1) of the Direct Payments Regulation, where the payments to be granted to a farmer pursuant to Chapter 1 of Title III of that Regulation for a given calendar year exceed the amount stated in Column 1 of the Table it must be reduced by the percentage stated in Column 2 or Column 3 of the Table in Schedule 2 of the Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 as the case may be.
+
+### 16. Short rotation coppice
+
+For the purposes of Article 4(1)(k) [^key-9f7e8230715c4384cfe96b4ff0f97436]... of the Direct Payments Regulation—
+
+- (a) the list of planted tree species is—
+  - (i) Alder (Alnus spp);
+  - (ii) Birch (Betula spp);
+  - (iii) Hazel (Corylus avellana);
+  - (iv) Ash (Fraxinus excelsior);
+  - (v) Lime (Tilia cordata);
+  - (vi) Sweet chestnut (Castanea sativa);
+  - (vii) Sycamore (Acer pseudoplatanus);
+  - (viii) Willow (Salix spp); and
+  - (ix) Poplar (Populus spp);
+- (b) the maximum harvest cycle is 5 years.
+
+## PART 2 — Young farmer scheme
+
+### 17. Young farmer
+
+(1) The payment for young farmers as referred to in Annex I of the Direct Payments Regulation shall be calculated in accordance with Article 50(8) of that Regulation.
+
+(2) For the purposes of Article 50(9) of the Direct Payments Regulation, a single maximum limit of 90 hectares is applicable to the number of payment entitlements activated by the farmer.
+
+## PART 3 — Greening
+
+### 18. Calculation of greening payment[^key-cfb1dcfa2043636ed2ded211a06a0422]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Crop diversification[^key-fa793facfe014c376de568e26738438d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Environmentally sensitive permanent grassland
+
+(1)[^key-ded0e7a5755c54b135148cfd35584b6c] Permanent grasslands in areas to which the Conservation Directives apply are designated as permanent grasslands which are environmentally sensitive for the purposes of and in the areas referred to in the first subparagraph of Article 45(1) of the Direct Payments Regulation as it had effect immediately before exit day.
+
+(2) In paragraph (1)—
+
+“**the Conservation Directives**” means—
+
+- (a) Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild fauna and flora [^c22503201] as amended from time to time[^key-0d4c1f23223c20a68be767275006d156] ; and
+- (b) Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) of the European Parliament and of the Council on the conservation of wild birds [^c22503211] as amended from time to time ;
+
+### 21. Ecological focus areas[^key-cd2fb07410486c942f56e9afcdb4be6d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Revocations and savings
+
+(1) The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2010 [^c22503221] are revoked.
+
+(2) Notwithstanding paragraph (1), the Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2010 as in force immediately before 2015 continue to apply in respect of aid applications relating to 2014 and earlier claim years.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 27th March 2015.
+
+David Small
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — Ecological focus areas: Nitrogen-fixing crops for the purposes of Article 45(10) of the Direct Payments Delegated Regulation[^key-0b2d5c5947d811a3f50ae2f3bc0f2d8f]
+
+Regulation 21(3)
+
+.................................
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in Northern Ireland for the administration of Regulation (EU) No.1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy (OJ No. L347, 20.12.2013, p. 608) (“**the Direct Payments Regulation**”) and the three other associated Regulations referred to in the regulation 2(1).
+
+Regulation 3 provides for one region in Northern Ireland for the purposes of the basic payment scheme. Regulation 4 makes provision for the period within which a transferor must notify the Department of a transfer of payment entitlements and the deadline for submitting applications for the allocation of payment entitlements from the regional reserve.
+
+Regulations 5, 6, 7, 8, 9 and 10 detail how the European Direct Payments Regulation will be implemented in Northern Ireland, including those Articles which will not apply here.
+
+Regulation 11 provides detail for tests to rebut the presumption that certain businesses are not entitled to receive direct payments.
+
+Regulations 12 and 13 define the minimum eligible area for allocating entitlements and claiming payments under the Basic Payment Scheme as 3 hectares.
+
+Regulation 14 fixes the date on which parcels used as the basis for a claim under the basic payment scheme must be at the disposal of farmers.
+
+Regulation 15 provides for the reduction by 100% of the part (if any) of any basic payment granted to a farmer which exceeds EUR 150,000.
+
+Regulation 16 designates the short rotation coppice trees eligible under the basic payment scheme and sets the maximum harvest cycle. Regulation 17 provides for the basis on which an increase in direct payments to qualifying farmers aged 40 or less and participating in the young farmer scheme must be calculated.
+
+Regulation 18 sets out how greening payments will be calculated.
+
+Regulation 19 sets out the period to be taken into account for the purposes of determining whether crop diversification requirements have been met. Regulation 20 provides for the designation of permanent grasslands which are environmentally sensitive.
+
+Regulation 21 sets out the areas which are to be ecological focus areas (“EFAs”) and details as to the scope of the EFAs relating to landscape features and areas with nitrogen-fixing crops.
+
+Regulation 22 revokes the Regulations which provide in Northern Ireland for the administration of the European Single Payment and Support Scheme but with a saving provision for the continued application for the Common Agricultural Policy Single Payment and Support Scheme Regulations 2010 in respect of aid applications relating to claim years before 2015.
+
+## Annotations
+
+[^c22503121]: Marginal citation: [S.I.2000/2812](https://www.legislation.gov.uk/uksi/2000/2812) to which there are amendments not relevant to the subject matter of these Regulations and [S.I.2000/3238](https://www.legislation.gov.uk/uksi/2000/3238).
+
+[^c22503131]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c22503141]: Marginal citation: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^key-e34f4119b1b5f657f05224979ba64359]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/191/regulation/2) inserted (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/26/regulation/4/2)
+
+[^c22503151]: Marginal citation: O.J. No. L 181, 20.6.2014, p.1.
+
+[^c22503161]: Marginal citation: O.J. No. L 181, 20.6.2014, p. 74.
+
+[^c22503171]: Marginal citation: O.J. No. L 347, 20.12.2013, p. 608, as amended by Regulation (EU) No. 1310/2013 of the European Parliament and of the Council (OJ No. L 347, 20.12.2013, p. 865).
+
+[^c22503181]: Marginal citation: O.J. No. L 227, 31.7.2014, p.69.
+
+[^key-5be11dcb3cdfc448ee6173275f839fcf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/191/regulation/2/1) inserted (24.2.2025) by [The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025 (S.R. 2025/33)](https://www.legislation.gov.uk/nisr/2025/33), [regs. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2025/33/regulation/8/2)
+
+[^key-0d7f12f9a3af4e3977b80b8f521cd6a2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/191/regulation/2/1) inserted (1.1.2026) by [The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3), [8(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/8/2)
+
+[^c22503191]: Marginal citation: 1971, c.80.
+
+[^key-de11af28e99a2c5890b1b710f87bba5f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2015/191/regulation/2/3) inserted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/11/regulation/6/2)
+
+[^key-5b1c3850eddd27484548665d18590b06]: Textual amendment: [Reg. 4(1)(aa)](https://www.legislation.gov.uk/nisr/2015/191/regulation/4/1/aa) inserted (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [4(3)(a)(i)](https://www.legislation.gov.uk/nisr/2025/26/regulation/4/3/a/i)
+
+[^key-ba53248d45b5a6a3839724433792b865]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/191/regulation/4/1/b) substituted (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/26/regulation/4/3/a/ii)
+
+[^key-df2daff1b6de8e97b2f9a5ce19631d96]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/nisr/2015/191/regulation/4/1/c) added (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [4(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2025/26/regulation/4/3/a/iii)
+
+[^key-e8211de7461baeeb85805f578bd9549f]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2015/191/regulation/4/2) inserted (10.3.2025) by [The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/26)](https://www.legislation.gov.uk/nisr/2025/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2025/26/regulation/4/3/b)
+
+[^key-637204249eafb2f7c1a88278a1a5b921]: Textual amendment: Reg. 4(3) substituted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2020/22/regulation/2/2/a)
+
+[^key-2b67fbcfa342924a3d6bd0ea9f1eb0e7]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2015/191/regulation/4/3) omitted (23.2.2021) by virtue of [The Direct Payments to Farmers (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/40)](https://www.legislation.gov.uk/nisr/2021/40), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/40/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2021/40/regulation/4)
+
+[^key-cb681e4ddc58885aac95ca5a7f89f189]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/nisr/2015/191/regulation/10A) inserted (24.2.2025) by [The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025 (S.R. 2025/33)](https://www.legislation.gov.uk/nisr/2025/33), [regs. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1),
+
+[^key-6ce99d4ebabaa9928ce9842ca87885a5]: Textual amendment: [Reg. 10A(1)](https://www.legislation.gov.uk/nisr/2015/191/regulation/10A/1): reg. 10A renumbered as reg.10A(1) (1.1.2026) by [8(3)](https://www.legislation.gov.uk/nisr/2025/33/regulation/8/3)[The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/nisr/2025/179/regulation/8/3/a)
+
+[^key-b2c0504b5f1e892afe0c30a30c036c47]: Textual amendment: [Reg. 10A(2)-(4)](https://www.legislation.gov.uk/nisr/2015/191/regulation/10A/2) inserted (1.1.2026) by [The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/nisr/2025/179/regulation/8/3/b)
+
+[^key-02ad25300ec49e7b2057d7b764ea5b6b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/191/regulation/11) revoked (25.6.2018) by [The Common Agricultural Policy Basic Payment and Support Schemes (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/122)](https://www.legislation.gov.uk/nisr/2018/122), [regs. 1](https://www.legislation.gov.uk/nisr/2018/122/regulation/1), [3](https://www.legislation.gov.uk/nisr/2018/122/regulation/3)
+
+[^key-bce96183db2dfd69e1f877273b9ea993]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/nisr/2015/191/regulation/12) omitted (24.2.2020) by virtue of [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/22/regulation/2/3/a)
+
+[^key-5b7d63bff0bf4251351f7293ed4da4c5]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/nisr/2015/191/regulation/12) omitted (24.2.2020) by virtue of [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/22/regulation/2/3/b)
+
+[^key-5f9d014bdfd34b8500280692d69ccec4]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/191/regulation/15) substituted (1.1.2026) by [The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3), [8(4)](https://www.legislation.gov.uk/nisr/2025/179/regulation/8/4)
+
+[^key-9f7e8230715c4384cfe96b4ff0f97436]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2015/191/regulation/16) omitted (24.2.2020) by virtue of [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/22/regulation/2/4)
+
+[^key-cfb1dcfa2043636ed2ded211a06a0422]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/191/regulation/18) omitted (25.2.2021) by virtue of [The Direct Payments to Farmers (Simplifications) Regulations (Northern Ireland) 2021 (S.R. 2021/42)](https://www.legislation.gov.uk/nisr/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/42/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2021/42/regulation/9/2)
+
+[^key-fa793facfe014c376de568e26738438d]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/191/regulation/19) omitted (25.2.2021) by virtue of [The Direct Payments to Farmers (Simplifications) Regulations (Northern Ireland) 2021 (S.R. 2021/42)](https://www.legislation.gov.uk/nisr/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/42/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2021/42/regulation/9/3)
+
+[^key-ded0e7a5755c54b135148cfd35584b6c]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/nisr/2015/191/regulation/20/1) substituted (24.2.2020) by [The Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/22)](https://www.legislation.gov.uk/nisr/2020/22), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/22/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2020/22/regulation/2/5)
+
+[^c22503201]: Marginal citation: O.J. No. L 206, 22.7.1992 p.7
+
+[^key-0d4c1f23223c20a68be767275006d156]: Textual amendment: Words in reg. 20(2) inserted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2019/11/regulation/6/3)
+
+[^c22503211]: Marginal citation: O.J. No. L 20, 26.1.2010, p.7. This instrument codifies, with minor amendments, Council Directive 1979/409/EEC as amended.
+
+[^key-cd2fb07410486c942f56e9afcdb4be6d]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/191/regulation/21) omitted (25.2.2021) by virtue of [The Direct Payments to Farmers (Simplifications) Regulations (Northern Ireland) 2021 (S.R. 2021/42)](https://www.legislation.gov.uk/nisr/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/42/regulation/1/1), [9(4)](https://www.legislation.gov.uk/nisr/2021/42/regulation/9/4)
+
+[^c22503221]: Marginal citation: S.R. [2010 No. 161](https://www.legislation.gov.uk/ukcm/2010/161)
+
+[^key-0b2d5c5947d811a3f50ae2f3bc0f2d8f]: Textual amendment: Sch. omitted (25.2.2021) by virtue of [The Direct Payments to Farmers (Simplifications) Regulations (Northern Ireland) 2021 (S.R. 2021/42)](https://www.legislation.gov.uk/nisr/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/42/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2021/42/regulation/9/5)

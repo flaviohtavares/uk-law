@@ -1,0 +1,232 @@
+---
+title: The Crown Court (Children’s Evidence) (Dismissal of Transferred Charges) Rules (Northern Ireland) 1996
+id: nisr/1996/70
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1996-03-05'
+text_date: '2010-04-12'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/70
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/70/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crown Court (Children’s Evidence) (Dismissal of Transferred Charges) Rules (Northern Ireland) 1996
+
+> Text as at 2010-04-12.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 70
+
+SUPREME COURT, NORTHERN IRELAND
+
+CROWN COURT
+
+The Crown Court (Children’s Evidence) (Dismissal of Transferred Charges) Rules (Northern Ireland) 1996
+
+Made
+
+5th March 1996
+
+To be laid before Parliament
+
+Coming into operation
+
+8th April 1996
+
+We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and paragraph 4(8) of Schedule 1 to the Children’s Evidence (Northern Ireland) Order 1995[^f00002] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
+
+## 1. Citation and commencement[^key-ad132d0ffb61678a7c422cc23e0ddaa1]
+
+These Rules may be cited as the Crown Court (Children’s Evidence) (Dismissal of Transferred Charges) Rules (Northern Ireland) 1996 and shall come into operation on 8th April 1996.
+
+## 2. Interpretation[^key-635464990f21c247a781f1aad8f19b57]
+
+(1) In these Rules, unless the context otherwise requires—
+
+- “the chief clerk” means the chief clerk of the Court at the place where a case is to be tried and includes such other civil servants in the Department of Justice[^key-05deaf668df10d735981468bc691fa15] as may be authorised to act on his behalf for the purpose in question;
+- “the Director of Public Prosecutions” means the Director of Public Prosecutions for Northern Ireland;
+- “the Order” means the Children’s Evidence (Northern Ireland) Order 1995 and a reference to an Article or Schedule by number is a reference to the Article or Schedule so numbered in the Order.
+
+(2) Any reference in these Rules to a form by number is a reference to that form so numbered in the Schedule to these Rules.
+
+(3) The forms set out in the Schedule to these Rules or forms substantially to the like effect may be used with such variations as the circumstances may require.
+
+## 3. Oral applications for dismissal[^key-f702d49b851da33393f1733d3df17c69]
+
+(1) Where notice of transfer has been given under Article 4 and a person to whom it relates intends to apply orally under paragraph 4(1) of Schedule 1 for any charge in the case to be dismissed, he shall give notice in writing in Form 1 of his intention to the chief clerk.
+
+(2) A notice of intention to make such an application shall be given not later than 14 days after the day on which notice of transfer was given, and a copy thereof shall be given at the same time to the Director of Public Prosecutions and to any other person to whom the notice of transfer relates.
+
+(3) The time for giving notice may be extended, either before or after it expires, by the Crown Court on an application made in accordance with paragraph (4) below.
+
+(4) An application for an extension of time for giving notice shall be made in writing in Form 1 specifying the grounds of the application and shall be sent to the chief clerk and a copy thereof shall be given at the same time to the Director of Public Prosecutions and to any other person to whom the notice of transfer relates.
+
+(5) The chief clerk shall give notice in Form 3 of the judge’s decision on an application under paragraph (3) above —
+
+- (a) to the applicant;
+- (b) to the Director of Public Prosecutions; and
+- (c) to any other person to whom the notice of transfer relates.
+
+(6) A notice of intention to make an application under paragraph 4(1) of Schedule 1 shall be accompanied by a copy of any material on which the applicant relies and shall—
+
+- (a) specify the charge or charges to which it relates;
+- (b) state whether the leave of the judge is sought under paragraph 4(4) of Schedule 1 to adduce oral evidence on the application, indicating what witnesses it is proposed to call at the hearing; and
+- (c) confirm in relation to each such witness that he is not a child to whom paragraph 4(5) of Schedule 1 applies.
+
+(7) Where leave is sought from the judge for oral evidence to be given on an application, notice of his decision including, if leave has been granted, an indication of what witnesses are to be called, shall be given by the chief clerk in Form 3 to the Director of Public Prosecutions and to any other party to whom the notice of transfer relates.
+
+(8) Where an application for dismissal under paragraph 4(1) of Schedule 1 is to be made orally, the chief clerk shall list the application for hearing before a judge of the Crown Court.
+
+## 4. Written applications for dismissal[^key-cb16f4047f939edb3f5c0bd8580a4243]
+
+(1) A written application for dismissal under paragraph 4(1) of Schedule 1 shall be made in Form 1.
+
+(2) The application shall be sent to the chief clerk and shall be accompanied by a copy of any statement or other document and identify any article, on which the applicant relies.
+
+(3) A copy of the application and of any accompanying document shall be given at the same time to the Director of Public Prosecutions and to any other person to whom the notice of transfer relates.
+
+(4) A written application for dismissal shall be made not later than 14 days after the day on which the notice of transfer was given unless the time for making the application is extended, either before or after it expires, by the Crown Court; and paragraphs (4) and (5) of rule 3 above shall apply for the purposes of this paragraph as if the references therein to giving notice of intention to make an oral application were references to making a written application under this rule.
+
+## 5. Reply by prosecution[^key-5f6ba01c47c58d0bd952d0b5ec1807b9]
+
+(1) Not later than 7 days from the date of service of notice of intention to apply orally for the dismissal of any charge contained in a notice of transfer, the Director of Public Prosecutions may apply to the Crown Court for leave under paragraph 4(4) of Schedule 1 to adduce oral evidence at the hearing of the application.
+
+(2) Not later than 7 days from the date of receiving a copy of an application for dismissal under rule 4(3) above, the Director of Public Prosecutions may apply to the Crown Court for an oral hearing of the application.
+
+(3) An application under paragraph (1) or (2) above shall be made in writing in Form 2 to the chief clerk specifying the grounds of the application and, in the case of an application under paragraph (2) above, stating whether the leave of the judge is sought under paragraph 4(4) of Schedule 1 to adduce oral evidence. Where leave is sought to adduce oral evidence under paragraph (1) or (2) above, the application should indicate what witnesses it is proposed to call and confirm in relation to each witness that he is not a child to whom paragraph 4(5) of Schedule 1 applies.
+
+(4) Notice of the judge’s determination upon an application under paragraph (1) or (2) above, indicating what witnesses (if any) are to be called, shall be served in Form 3 by the chief clerk on the Director of Public Prosecutions and on any other party to whom the notice of transfer relates.
+
+(5) Where, having received the material specified in rule 3(6) or, as the case may be rule 4(2) above, the Director of Public Prosecutions proposes to adduce in reply thereto any written comments or any further evidence, the Director of Public Prosecutions shall serve any such comments, copies of the statements or other documents outlining the evidence of any proposed witnesses and copies of any video recordings which it is proposed to tender in evidence, and copies of any further documents on the chief clerk not later than 14 days from the date of receiving the said material, and shall at the same time serve copies thereof on all parties to whom the notice of transfer relates. In the case of a defendant, acting in person, copies of video recordings need not be served but shall be made available for viewing by him.
+
+(6) The time for—
+
+- (a) making an application under paragraph (1) or (2) above; or
+- (b) serving any material on the chief clerk under paragraph (5) above,
+
+may be extended, either before or after it expires, by the Crown Court on an application made in accordance with paragraph (7) below.
+
+(7) An application for an extension of time under paragraph (6) above shall be made in writing in Form 2 and shall be served on the chief clerk; and a copy thereof shall be served at the same time on the applicant for dismissal and on any other person to whom the notice of transfer relates.
+
+## 6. Determination of applications for dismissal — procedural matters[^key-36804da53ab36a3bdb7c812d5d1ad01e]
+
+(1) A judge may grant leave for a witness to give oral evidence on an application for dismissal notwithstanding that notice of intention to call the witness has not been given in accordance with the foregoing provisions of these Rules.
+
+(2) Where an application for dismissal is determined otherwise than at an oral hearing, the chief clerk shall as soon as practicable, send to all parties to the case a notice, in Form 4, of the outcome of the application.
+
+Brian Hutton
+
+R. D. Carswell
+
+J. M. Nicholson
+
+J. F. B. Russell
+
+A. R. Hart
+
+J. W. Wilson
+
+James Wall
+
+Francis Keenan
+
+R. Appleton
+
+J. L. Bamford
+
+Patrick Lynch
+
+Dated 6th February 1996.
+
+I concur
+
+Mackay of Clashfern, C.
+
+Dated 5th March 1996.
+
+## SCHEDULE[^key-c60b9f8e881afac23dbddc6ef23dc3a6]
+
+Rule 2
+
+Form 1
+
+IN THE CROWN COURT IN NORTHERN IRELAND
+
+**Application for dismissal of transferred charge(s) under paragraph 4 of Schedule 1 to the Children’s Evidence (Northern Ireland) Order 1995**
+
+Rule 4 and 5
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_001) [image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_002) [image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_003)
+
+Form 2
+
+IN THE CROWN COURT IN NORTHERN IRELAND
+
+**Application by prosecution for oral hearing of defence application for dismissal**
+
+Rule 5
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_004) [image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_005)
+
+Form 3
+
+IN THE CROWN COURT IN NORTHERN IRELAND
+
+**Notification of Court’s Determination on Applications under paragraph 4 of Schedule 1 to the Children’s Evidence (Northern Ireland) Order 1995**
+
+Rule 3
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_006)
+
+Form 4
+
+IN THE CROWN COURT IN NORTHERN IRELAND
+
+**Notification of the Court’s determination of a written application for dismissal of transferred charge(s) under paragraph 4 of Schedule 1 Children’s Evidence (Northern Ireland) Order 1995**
+
+Rule 6
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/70/images/nisr_19960070_en_007)
+
+(This note is not part of the Rules.)
+
+These Rules make provision for the purposes of paragraph 4 of Schedule 1 to the Children’s Evidence (Northern Ireland) Order 1995 ([S.I. 1995/757 (N.I. 3.)](https://www.legislation.gov.uk/nisi/1995/757)) to permit a person charged with certain offences involving children whose case has been transferred to the Crown Court under Article 4 of that Order to apply to the Crown Court for the charges to be dismissed.
+
+Rule 3 makes provision for oral applications for dismissal.
+
+Rule 4 relates to written applications.
+
+Rule 5 makes provision for the prosecution response.
+
+Rule 6 provides for the notification of determination on applications where there is no oral hearing and permits witnesses to be heard by leave of the judge notwithstanding failure to give proper notice.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
+
+[^f00002]: Footnote: S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
+
+[^key-ad132d0ffb61678a7c422cc23e0ddaa1]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+
+[^key-635464990f21c247a781f1aad8f19b57]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/70/article/2) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+
+[^key-05deaf668df10d735981468bc691fa15]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/1996/70/article/2/1) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 24](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/24) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+
+[^key-f702d49b851da33393f1733d3df17c69]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/70/article/3) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+
+[^key-cb16f4047f939edb3f5c0bd8580a4243]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/70/article/4) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+
+[^key-5f6ba01c47c58d0bd952d0b5ec1807b9]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/70/article/5) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+
+[^key-36804da53ab36a3bdb7c812d5d1ad01e]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/1996/70/article/6) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)
+
+[^key-c60b9f8e881afac23dbddc6ef23dc3a6]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/70/schedule) in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/70/article/1)

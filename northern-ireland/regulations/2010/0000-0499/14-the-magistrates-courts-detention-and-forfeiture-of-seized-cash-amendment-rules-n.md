@@ -1,0 +1,109 @@
+---
+title: The Magistrates’ Courts (Detention and Forfeiture of Seized Cash) (Amendment) Rules (Northern Ireland) 2010
+id: nisr/2010/14
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2010-01-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2010/14
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/14/pdfs/nisr_20100014_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/14/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates’ Courts (Detention and Forfeiture of Seized Cash) (Amendment) Rules (Northern Ireland) 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 14
+
+Magistrates’ Courts
+
+The Magistrates’ Courts (Detention and Forfeiture of Seized Cash) (Amendment) Rules (Northern Ireland) 2010
+
+Made
+
+26th January 2010
+
+Coming into operation in accordance with rule 1
+
+The Magistrates’ Courts Rules Committee makes the following Rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001] after consultation with the Lord Chancellor and with the agreement of the Lord Chief Justice.
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Magistrates’ Court (Detention and Forfeiture of Seized Cash) (Amendment) Rules (Northern Ireland) 2010 and shall come into operation on the same day as sections 64 and 65 of the Policing and Crime Act 2009[^f00002] come into force.
+
+## 2. Amendment of the Magistrates’ Courts (Detention and Forfeiture of Seized Cash) Rules (Northern Ireland) 2003
+
+The Magistrates’ Courts (Detention and Forfeiture of Seized Cash) Rules (Northern Ireland) 2003[^f00003] are amended as follows—
+
+(1) after rule 7 insert—
+
+> **7A. Application to set aside the forfeiture of cash made under a forfeiture notice.**
+>
+> (1) An application under section 297E[^f00004] shall be made in writing, accompanied by a copy of the forfeiture notice, shall state the grounds on which it is made, and shall be lodged with the clerk of petty sessions for the petty sessions district in which the cash was seized.
+>
+> (2) The clerk of petty sessions shall send a copy of the application to—
+>
+> - (a) the Commissioners of Revenue and Customs, where the forfeiture notice was given by a senior officer of Revenue and Customs; or
+> - (b) the Chief Constable, or, as the case may be, the chief officer of the police force to which the senior officer belongs, where the forfeiture notice was given by a senior police officer; or
+> - (c) the Chief Constable, where the forfeiture notice was given by an accredited financial investigator who was a member of staff of the Police Service of Northern Ireland; or
+> - (d) the Minister of the Crown in charge of the department of the Government of the United Kingdom, or the department, where the forfeiture notice was given by an accredited financial investigator who is a member of staff of that department; or
+> - (e) the Northern Ireland department, where the forfeiture notice was given by an accredited financial investigator who was a member of staff of that department; or
+> - (f) in any other case, the employer of the accredited financial investigator who gave the forfeiture notice; and
+> - (g) every person (other than the applicant) to whom a notice has been given under regulations made under section 297A(3).
+>
+> (3) The clerk of petty sessions shall fix a date for the hearing of the application, which, unless he directs otherwise, shall not be earlier than seven days from the date on which it is received, and shall notify that date to the applicant and to every person to whom a copy of the application is required to be sent under paragraph (2).
+>
+> (4) A direction made under section 297F shall be in Form 4, and shall require the release of the cash within seven days of the date of the direction, or such longer period as, with the agreement of the applicant, may be specified, except that the cash shall not be released whilst section 298(4) applies.
+
+;
+
+(2) in the Schedule—
+
+- (a) in Form 2, in the note under “**Decision**”, for “*three months*” substitute *“six months*”;
+- (b) in Form 4—
+  - (i) in the heading, for “(section 297(2), Rule 7(6))”, substitute “(sections 297(2) and 297F(2); Rules 7(6) and 7A(4))”;
+  - (ii) in the title for “Detained Cash under section 297(2)” substitute “\[Detained Cash under section 297(2)\]\[Cash Subject to Forfeiture Notice under section 297F(2)\]”.
+
+George Conner
+
+John Rea
+
+Peter Luney
+
+John P B Maxwell
+
+Nigel Broderick
+
+Dated 26th January 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Magistrates’ Courts (Detention and Forfeiture of Seized Cash) Rules (Northern Ireland) 2003 \[[S.R. 2003 No.17](https://www.legislation.gov.uk/nisr/2003/17)\] (‘the principal Rules’) to take account of amendments made to the Proceeds of Crime Act 2002 (‘the 2002 Act’), by the Policing and Crime Act 2009.
+
+- Rule 2(1) inserts new Rule 7A into the principal Rules to prescribe the procedure for an application to set aside forfeiture under section 297E of the 2002 Act.
+- New Rule 7A(1) provides that an application to set aside forfeiture shall be in writing and lodged with the clerk of petty sessions for the district in which the cash was seized.
+- New Rule 7A(2) prescribes the categories of persons to which the clerk of petty sessions must provide a copy of the application to set aside forfeiture.
+- New Rule 7A(3) provides that the clerk of petty sessions shall fix a date for the hearing of the application, not less than seven days from the date on which the application was received, and shall notify the applicant and any other person required to be notified of the date of the hearing.
+- New Rule 7A(4) provides that a direction for the release of cash made under section 297F shall be in Form 4, and shall require that the cash shall be released within seven days from the date of the direction, or other period as agreed by the applicant, except where an application for forfeiture under section 298(4) of the 2002 Act has yet to be concluded.
+- Rule 2(2)(a) amends Form 2 of the principal Rules (Order/Further Order for Continued Detention of Seized Cash) to substitute the reference to the maximum duration of the order from three months to six months.
+- Rule 2(2)(b) amends Form 4 of the principal Rules so that it can be used for a direction for the release of cash subject to a forfeiture notice under section 297F(2) of the 2002 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [S. I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Article 13 was amended by paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^f00002]: Footnote: [2009 c.26](https://www.legislation.gov.uk/ukpga/2009/26).
+
+[^f00003]: Footnote: [S.R. 2003/17](https://www.legislation.gov.uk/nisr/2003/17); to which the most recent relevant amendments were made by [S.R. 2008 No.362](https://www.legislation.gov.uk/nisr/2008/362).
+
+[^f00004]: Footnote: Section 297E was inserted by section 65 of the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26).

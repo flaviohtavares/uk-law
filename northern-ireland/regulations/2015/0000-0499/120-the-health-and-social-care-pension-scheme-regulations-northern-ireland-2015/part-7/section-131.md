@@ -1,0 +1,57 @@
+---
+title: The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015, section 131
+act: The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
+section: '131'
+status: revised
+text_date: '2026-03-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/120/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015, section 131
+
+> Text as at 2026-03-02.
+>
+> Extent: Northern Ireland.
+
+## 131. Interpretation of Part
+
+*Extent: N.I.*
+
+In this Part—
+
+- “**cash equivalent**” means an amount calculated in accordance with regulations made under section 93 of the 1993 Act [^c22440671];
+- “**club scheme**” means a registered occupational pension scheme (other than a connected scheme) that has agreed to make and receive transfer value payments under the club transfer arrangements;
+- “**club transfer**” means a transfer value payment made pursuant to club transfer arrangements: and “non-club transfer” must be construed accordingly;
+- “**club transfer arrangements**” means arrangements approved by the scheme manager as providing reciprocal arrangements between this scheme and other registered occupational pension schemes for making and receiving transfer value payments;
+- “**club transfer earned pension**” means the pension attributable to the receipt of a club transfer value;
+- “**club transfer value**”, in relation to an amount of accrued earned pension under this scheme or under another club scheme, means an amount calculated by the scheme manager—
+  - (a) in accordance with the club transfer arrangements; and
+  - (b) by reference to the guidance and tables provided by the Government Actuary for this purpose and that are in use on the date used for the calculation.
+- “**guarantee date**” has the meaning given by regulation 134(3);
+- “**guaranteed cash equivalent**”, in relation to accrued rights to benefits under this scheme, means the cash equivalent of those accrued rights as at the guarantee date, as specified in a statement of entitlement;
+- “**personal pension scheme**” means a personal pension scheme which—
+  - (a) in the case of such a scheme established on, or after, 6th April 2006 is a registered pension scheme for the purposes of the 2004 Act and which the scheme manager agrees to recognise as a transferring scheme for the purposes of Part 7;
+  - (b) in the case of a scheme established before that date, was—
+    - (i) approved by the Commissioners for Her Majesty's Revenue and Customs for the purposes of Chapter 4 of Part 14 of the Income and Corporation Taxes Act 1988 (personal pension schemes) [^c22440681]; and
+    - (ii) on the 6th April 2006 became a registered pension scheme for the purposes of the 2004 Act.
+- “**registered occupational pension scheme**” means registered under Chapter 2 of Part 4 of the 2004 Act [^c22440691];
+- “**statement of entitlement**”, in relation to a member's accrued rights to benefits under this scheme, means a statement by the scheme manager of the amount of the cash equivalent of those rights as at the guarantee date;
+- “**transfer value**”, in relation to accrued rights other than accrued earned pension which is the subject of a club transfer means—
+  - (a) for accrued rights to benefits under this scheme, an amount equal to the guaranteed cash equivalent of those accrued rights; and
+  - (b) for accrued rights under another pension scheme, an amount—
+    - (i) determined by the scheme actuary of that scheme; and
+    - (ii) specified in a statement of accrued rights provided by the scheme manager of that scheme;
+- “**transfer value payment**” means—
+  - (a) the payment of a transfer value or club transfer value under this Part; or
+  - (b) the payment of a transfer value under Chapter 4 of Part 4 of the 1993 Act.
+
+## Annotations
+
+[^c22440671]: Marginal citation: [Section 93](https://www.legislation.gov.uk/nisr/2015/120/section/93) was amended by the [Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))](https://www.legislation.gov.uk/nisi/1995/3213) Article 165 and Schedule 4 paragraph 6; the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c.4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) section 52 and Schedule 5 paragraph 5(1)
+
+[^c22440681]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Chapter 4 was repealed by sections 1322 and 1326 of, and paragraphs 1 and 25 of Schedule 1 and Part 1 of Schedule 3 to, the [Corporation Tax Act 2009 (c.4)](https://www.legislation.gov.uk/ukpga/2009/4). For transitional provisions and savings see [section 1325(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1325/1) of and Parts 1 and 2 of Schedule 2 to, that Act
+
+[^c22440691]: Marginal citation: [Chapter 2](https://www.legislation.gov.uk/nisr/2015/120/part/2) of Part 4 deals with registration of pension schemes for tax purposes

@@ -1,0 +1,176 @@
+---
+title: The Social Security (Income Support and Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 2006
+id: nisr/2006/234
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-05-25'
+text_date: '2008-12-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/234
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/234/pdfs/nisr_20060234_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/234/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Income Support and Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 2006
+
+> Text as at 2008-12-02.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 234
+
+SOCIAL SECURITY
+
+The Social Security (Income Support and Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 2006
+
+Made
+
+25th May 2006
+
+Coming into operation
+
+30th May 2006
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(a), 123(1)(e) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 8(2) and (4), 9(4), 10, 36(2) of, and paragraphs 8 and 8A(1) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003].
+
+## 1. Citation, commencement and interpretation[^key-63028ea1a153358b2e59c9efd73d7b01]
+
+(1) These Regulations may be cited as the Social Security (Income Support and Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 30th May 2006.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-b86440d3c74188ee70cc218a6a0e833f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-2cd99fca206ce069783b1a08f7cedda1]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00008] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 5(1)[^f00009] (exceptions to requirement to be available immediately)—
+
+- (a) sub-paragraph (a) shall be omitted;
+- (b) in sub-paragraph (b), after “voluntary work” there shall be inserted “or who has caring responsibilities”.
+
+(3) In regulation 14 (circumstances in which a person is to be treated as available)—
+
+- (a) in paragraph (1)[^f00010]—
+  - (i) after “to whom regulation 15(a), (b)” there shall be inserted “, (bc)”, and
+  - (ii) after “circumstances apply, subject to”, there shall be inserted “paragraph (2B) and to”;
+- (b) after paragraph (1)(p)[^f00011] there shall be added the following sub-paragraphs—
+
+  > - (q) if he is required to attend a court or tribunal as a justice of the peace, a party to any proceedings, a witness or a juror;
+  > - (r) if, for a maximum of 96 hours before being released, he is in police detention within the meaning in Article 2(3) of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00012] (general interpretation).
+
+  ;
+- (c) after paragraph (2A)[^f00013], there shall be inserted the following paragraph—
+
+  > (2B) A person shall not be treated as available for employment under paragraph (1)(q)—
+  >
+  > - (a) for more than 8 weeks,
+  > - (b) where he does not, before the period during which he is required to attend the court or tribunal, give an employment officer notice, in writing where requested by the employment officer, that he is so required, or
+  > - (c) where he is a prisoner as defined by regulation 85(4)[^f00014] (special cases).
+
+  , and
+- (d)[^key-b6061ee57120336847b761749e24bcdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 19 (circumstances in which a person is to be treated as actively seeking employment)—
+
+- (a) in paragraph (1), for “paragraph (2)” there shall be substituted “paragraphs (2) and (2A)”;
+- (b) after paragraph (1)(t)[^f00015] there shall be added the following sub-paragraphs—
+
+  > - (u) in any week during which he is, for not less than 3 days, required to attend a court or tribunal as a justice of the peace, a party to any proceedings, a witness or a juror;
+  > - (v) if, for a maximum of 96 hours before being released, he is in police detention within the meaning in Article 2(3) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (general interpretation).
+
+  ;
+- (c) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) A person shall not be treated as actively seeking employment under paragraph (1)(u)—
+  >
+  > - (a) for more than 8 weeks,
+  > - (b) where he does not, before the period during which he is required to attend the court or tribunal, give an employment officer notice, in writing where requested by the employment officer, that he is so required, or
+  > - (c) where he is a prisoner as defined by regulation 85(4) (special cases).
+
+  , and
+- (d)[^key-012327963c153e913d84733a2471e0e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In regulation 30 (circumstances in which a claimant is to be regarded as having good cause for failing to comply with a notification under regulation 23)—
+
+- (a) in paragraph (a)[^f00016], “(a) or” shall be omitted, and
+- (b)[^key-863d3443c2dc19751e15d7ce5e5999e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-9ba019354b32db1d790a9aa1b41854ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 25th May 2006.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”) and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”).
+
+Regulation 2 amends the Income Support Regulations to change the circumstances in which a person can be entitled to income support where they are required to attend a court or tribunal as a justice of the peace, a party to any proceedings, a witness or a juror.
+
+Regulation 3 amends the Jobseeker’s Allowance Regulations to change some of the jobseeker’s allowance entitlement conditions (namely that the person is available for employment, is actively seeking work and attends at such place and time as is specified) which a person can be treated as having met in two different sets of circumstances. Firstly, where the person is required to attend a court or tribunal as a justice of the peace, a party to any proceedings, a witness or a juror (similar provision is also made in the case of a member of a joint-claim couple). Secondly, where the person is detained in custody in specified circumstances.
+
+Regulation 3(2) amends the circumstances in which a carer does not have to meet the requirement to be available for work immediately.
+
+Regulation 3(3)(a)(i) updates a cross-reference for persons regarded as available for work.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to, the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and section 171(1) was amended by paragraph 5 of Schedule 4 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 10 was amended by Article 56 of, and paragraph 8 of Schedule 7 and Article 67 of, and paragraph 23(7) of Schedule 8 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), Article 36(2) was amended by Article 4 of, and paragraph 55 of Schedule 3 to, the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and paragraph 8A(1) of Schedule 1 was inserted by Article 56 of, and paragraph 16(1) and (2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00003]: Footnote: See Article 8(b) and Part II of Schedule 6 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-63028ea1a153358b2e59c9efd73d7b01]: Commencement: Reg. 1 in operation at 30.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/234/regulation/1/1)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b86440d3c74188ee70cc218a6a0e833f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/234/regulation/2) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^key-2cd99fca206ce069783b1a08f7cedda1]: Commencement: Reg. 3 in operation at 30.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/234/regulation/1/1)
+
+[^f00008]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1999 No. 107](https://www.legislation.gov.uk/nisr/1999/107), [S.R. 2001 No. 56](https://www.legislation.gov.uk/nisr/2001/56), [S.R. 2002 No. 388](https://www.legislation.gov.uk/nisr/2002/388) and [S.R. 2004 No. 308](https://www.legislation.gov.uk/nisr/2004/308)
+
+[^f00009]: Footnote: Paragraph (1) was substituted by regulation 2(2)(a) of [S.R. 2002 No. 388](https://www.legislation.gov.uk/nisr/2002/388)
+
+[^f00010]: Footnote: Paragraph (1) was amended by regulation 2(2) of [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138)
+
+[^f00011]: Footnote: Sub-paragraph (p) was added by regulation 3(2)(b) of [S.R. 2004 No. 308](https://www.legislation.gov.uk/nisr/2004/308)
+
+[^f00012]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); Article 2 was amended by Article 3(3) of the Police (Amendment) (Northern Ireland) Order 1995 ([S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)), paragraph 8(3) of Schedule 15 to, the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11) and paragraph 1 of Schedule 3 to, the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6)
+
+[^f00013]: Footnote: Paragraph (2A) was inserted by regulation 2(4) of [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138)
+
+[^f00014]: Footnote: The definition of “prisoner” was amended by regulation 5(2)(c) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^key-b6061ee57120336847b761749e24bcdf]: Textual amendment: [Reg. 3(3)(d)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/3/d) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^f00015]: Footnote: Sub-paragraph (t) was added by regulation 3(3)(b) of [S.R. 2004 No. 308](https://www.legislation.gov.uk/nisr/2004/308)
+
+[^key-012327963c153e913d84733a2471e0e9]: Textual amendment: [Reg. 3(4)(d)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/4/d) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^f00016]: Footnote: Paragraph (a) was amended by regulation 2(5) of [S.R. 2000 No. 255](https://www.legislation.gov.uk/nisr/2000/255) and regulation 2(5) of [S.R. 2002 No. 388](https://www.legislation.gov.uk/nisr/2002/388)
+
+[^key-863d3443c2dc19751e15d7ce5e5999e0]: Textual amendment: [Reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/5/b) revoked (2.12.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/478)](https://www.legislation.gov.uk/nisr/2008/478), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/14/b)
+
+[^key-9ba019354b32db1d790a9aa1b41854ca]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/6) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)

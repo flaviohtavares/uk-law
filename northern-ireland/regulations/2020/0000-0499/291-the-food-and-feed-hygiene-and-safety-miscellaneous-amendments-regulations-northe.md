@@ -1,0 +1,171 @@
+---
+title: The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020
+id: nisr/2020/291
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2020-11-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2020/291
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2020/291/pdfs/nisrem_20200291_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/291/pdfs/nisr_20200291_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/291/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 291
+
+Agriculture
+
+The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020
+
+Made
+
+30th November 2020
+
+Coming into operation
+
+25th December 2020
+
+The Department of Health[^f00001] being a department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to food (including drink) including the primary production of food and measures relating to feed produced for or fed to food-producing animals[^f00003], the common agricultural policy of the European Union[^f00004], and measures in the veterinary and phytosanitary fields for the protection of public health[^f00005] makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, that Act.
+
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00006].
+
+## 1. Citation, commencement and interpretation
+
+These Regulations may be cited as the Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 and come into operation on 25th December 2020.
+
+**2.** The Interpretation Act (Northern Ireland) 1954[^f00007] applies to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Amendment of the Official Feed and Food Controls Regulations (Northern Ireland) 2009
+
+(1) The Official Feed and Food Controls Regulations (Northern Ireland) 2009 are amended as follows.
+
+(2) In regulation 21 (Interpretation of this Part), for the definition of “product” substitute—
+
+> - “**product**” means feed and food of non-animal origin whose import is regulated by Article 44 or Article 47(1)(d), (e) or (f) of Regulation 2017/625 and includes composite products and foodstuffs which are not required to be subject to veterinary checks as provided in Commission [Decision 2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275) concerning lists of composite products to be subject to controls at border control posts;
+
+.
+
+(3) In regulation 28 (Checks on products), in each place it occurs, for “and 45(1), (2) and (4) of Regulation 2017/625” substitute “, 45(1), (2) and (4) of Regulation 2017/625 and regulation 45(1)”.
+
+(4) In regulation 34(2) (costs and fees) after “as referred to in”, insert “Article 79(2)(a) and (c) and”.
+
+## 4. Amendment of the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016
+
+(1) The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 are amended as follows.
+
+(2) In regulation 2 (Interpretation)—
+
+- (a) In paragraph (1)—
+  - (i) omit the definition of “Directive 2008/38”;
+  - (ii) after the definition “Regulation 767/2009” insert—
+
+    > - “**Regulation 2020/354**” means Commission Regulation (EU) 2020/354 of 4 March 2020 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038)[^f00008];
+
+    ;
+- (b) In paragraph (2), for “or Regulation 767/2009” substitute “, Regulation 767/2009 or Regulation 2020/354”;
+- (c) in paragraph (3), for “Directive 82/475, Directive 2002/32, Directive 2008/38, Regulation 1831/2003 or Regulation 767/2009” substitute “Directive 82/475, Directive 2002/32, Regulation 1831/2003, Regulation 767/2009 or Regulation 2020/354”.
+
+(3) For Part 7 (Implementation of Directive 2008/38) substitute—
+
+> **Part 7 — Enforcement of Regulation 2020/354**
+>
+> **16. Interpretation of this Part**
+>
+> In this Part any reference to a numbered Article is a reference to the Article so numbered in Regulation 2020/354.
+>
+> **17. Control of feed intended for particular nutritional purposes**
+>
+> A person who contravenes or fails to comply with Article 1 (conditions on marketing), as read with Article 2 (derogation for feed which complies with the provisions of [Directive 2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038)) and Article 3 (derogation for feed labelled before 25 March 2022 in accordance with the rules applicable before 25 March 2020) commits an offence.
+
+(4) In regulation 18 (Penalties for offences under these regulations), in paragraph (1), for “17(1)” substitute “17”.
+
+(5) In regulation 19 (Duties to enforce), after “Regulation 767/2009” insert “, Regulation 2020/354”.
+
+## 5. Amendment of the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016
+
+(1) The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016[^f00009] are amended as follows.
+
+(2) In regulation 2 (Interpretation)—
+
+- (a) in paragraph (1) -
+  - (i) omit the definition “Regulation 882/2004”;
+  - (ii) after the definition “Regulation 767/2009” insert—
+
+    > - “**Regulation 2017/625**” means Regulation (EU) 2017/625 of 15 March 2017 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438);
+    > - “**Regulation 2020/354**” means Commission Regulation (EU) 2020/354 of 4 March 2020 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038)[^f00010];
+
+    ;
+- (b) in paragraph (2), for “Regulation 882/2004, Regulation 183/2005 or Regulation 152/2009” substitute “Regulation 183/2005, Regulation 152/2009, Regulation 2017/625 or Regulation 2020/354”;
+- (c) in paragraph (5), for “Regulation 183/2005 or Regulation 152/2009” substitute “Regulation 183/2005, Regulation 152/2009 or Regulation 2020/354”.
+
+(3) In regulation 18 (Analysis other than in the course of official controls), for paragraph (2) substitute—
+
+> (2) In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis must be carried out in the manner referred to in Article 34 (1) and (2) of Regulation 2017/625 as read with Regulation 2019/1793.
+
+.
+
+(4) In Schedule 1 (Specified Feed Law), in the table—
+
+- (a) omit the entry “Regulation 882/2004, in so far as it relates to feed”;
+- (b) below the entry for “Regulation 767/2009” add the following two entries—
+
+  > Regulation 2017/625 in so far as it relates to feed
+  >
+  > Regulation 2020/354
+
+  .
+
+Sealed with the official seal of the Department of Health on 30th November 2020.
+
+Lourda Geoghegan
+
+A senior officer of the Department of Health
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Official Feed and Food Controls Regulations (Northern Ireland) 2009([S.R.2009 No.427](https://www.legislation.gov.uk/nisr/2009/427) as last amended by [S.R 2019 No.218](https://www.legislation.gov.uk/nisr/2019/218)) (“**the 2009 Regulations**”). The 2009 Regulations provide for the execution and enforcement of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No. 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No. 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No. 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438) (Official Controls Regulations) (OJ No. L95 7.4.2017, p. 1) (“**Regulation 2017/625**”).
+
+Regulation 3(2) substitutes a revised definition of “product” in regulation 21 to provide that food and feed of non-animal origin regulated under Article 47(1)(d), (e) or (f) of Regulation 2017/625 is included in the scope of Part 3. Regulation 3(3) makes a consequential amendment as a result of the revised definition.
+
+Regulation 3(4) amends regulation 34 to make provision for the payment of costs of official controls under Article 79(2)(a) and (c) of Regulation 2017/625 in respect of Part 3.
+
+These Regulations will also amend the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 ([S.R 2016 No.4](https://www.legislation.gov.uk/nisr/2016/4)) and the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 ([S.R. 2016 No. 5](https://www.legislation.gov.uk/nisr/2016/5)) to provide for the execution and enforcement of Commission Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038) (OJ No. L67, 5.3.2020, p.1.).
+
+These Regulations substitute references to Regulation 2017/625 for references to Regulation 882/2004 in the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 ([S.R.2016 No.4](https://www.legislation.gov.uk/nisr/2016/4)). Regulation 2017/625 revoked and replaced Regulation 882/2004.
+
+An impact assessment has not been produced for this statutory Rule as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health, Social Services and Public Safety; see [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), section 1
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: [S.I.2003/2901](https://www.legislation.gov.uk/uksi/2003/2901)
+
+[^f00004]: Footnote: [S.I.2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00005]: Footnote: [S.I.1999/2027](https://www.legislation.gov.uk/uksi/1999/2027)
+
+[^f00006]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation [(EC) No. 2019/1243](https://www.legislation.gov.uk/european/regulation/1243/2019) of the European Parliament and of the Council adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (OJ No. L198, 25.7.2019, p.241)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00008]: Footnote: OJ No. L67, 5.3.2020, p.1
+
+[^f00009]: Footnote: [S.R. 2016 No.5](https://www.legislation.gov.uk/nisr/2016/5)
+
+[^f00010]: Footnote: OJ No. L67, 5.3.2020, p.1

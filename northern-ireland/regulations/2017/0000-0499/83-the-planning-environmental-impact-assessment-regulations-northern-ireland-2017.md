@@ -1,0 +1,1522 @@
+---
+title: The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017
+id: nisr/2017/83
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2017-05-11'
+text_date: '2025-02-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2017/83
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2017/83/pdfs/nisrem_20170083_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/83/pdfs/nisr_20170083_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/83/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017
+
+> Text as at 2025-02-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2017 No. 83
+
+Planning
+
+The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017
+
+Made
+
+11th May 2017
+
+Coming into operation
+
+16th May 2017
+
+The Department for Infrastructure is a Northern Ireland department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
+
+The Department for Infrastructure makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 51 of the Planning Act (Northern Ireland) 2011[^f00003].
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-8b6b02cc19b1df7a0ce70b6e32e90d03]
+
+ These Regulations may be cited as the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 and come into operation on the 16th May 2017.
+
+### 2. Interpretation[^key-4de20de496bd3b017525d43b57934ca7]
+
+(1) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
+
+(2) In these Regulations—
+
+- “the 2011 Act” means the Planning Act (Northern Ireland) 2011 and references to sections are references to sections in the Act;
+- “any other information” means any other substantive information relating to the environmental statement and provided by the applicant or the appellant as the case may be;
+- “any particular person” includes any non-governmental organisation promoting environmental protection;
+- “applicant” means an applicant (or prospective applicant) for the grant of a planning permission or subsequent consent;
+- “the Commission” means the Planning Appeals Commission;
+- “council” means a district council;
+- “the Department” means the Department for Infrastructure;
+- “the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092)[^f00005] of the European Parliament and of the Council of the 13 December 2011 on the assessment of the effects of certain public and private projects on the environment, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052)[^f00006] of the European Parliament and of the Council of 16 April 2014; as it had effect immediately before exit day[^key-87b066da882d9cc108f1c6846811f08a]
+- “Directive 2008/98/EC” means Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste as it had effect immediately before IP completion day;[^M_F_7993321a-74cd-48a8-fad4-3efa3f6218ed]
+- “Directive 2009/31/EC” means Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide as it had effect immediately before IP completion day;
+- “documents” includes photographs, drawings, maps and plans;
+- “EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2<sup></sup>May 1992, together with the Protocol adjusting that agreement signed at Brussels on 17 March 1993, as modified or supplemented at the date of these Regulations;
+- “EEA State” means—
+  - (a) a state that is a member state; or
+  - (b) any other state which is a party to the EEA agreement;
+- “EIA application” means—
+  - (a) an application for planning permission for EIA development; or
+  - (b) a subsequent application in respect of EIA development;
+- “EIA development” means development which is—
+  - (a) Schedule 1 development;
+  - (b) Schedule 2 development likely to have significant effects on the environment by virtue of factors such as its nature, size or location; or
+  - (c) directed as such under regulation 3(1)(a);
+- “electronic communication” has the meaning assigned to it by section 4 of the Electronic Communications Act (Northern Ireland) 2001[^f00007];
+- “environmental impact assessment” means the process described in regulation 5;
+- “environmental information” means the environmental statement, including any further information and any other information, any representations made by any body required by these Regulations to be consulted and any representations duly made by any other person about the likely environmental effects of the proposed development;
+- “environmental statement” has the meaning given to it by regulation 11;
+- “exempt development” means development in respect of which the Department has made a direction under regulation 3(1)(b) or 3(1)(c) or the Secretary of State has made a direction under regulation 62 of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^f00008];
+- “further information” has the meaning given to it in regulation 21(1);
+- “the General Development Procedure Order” means the Planning (General Development Procedure) Order (Northern Ireland) 2015[^f00009];
+- “the General Regulations” means the Planning General Regulations (Northern Ireland) 2015[^f00010];
+- “the land” means the land on which the development would be carried out or, in relation to development already carried out, has been carried out;
+- “local advertisement”, in relation to a notice, means—
+  - (a) by publication of the notice in at least one newspaper circulating in the locality in which the land to which the application or appeal relates is situated; and
+  - (b) by publication of the notice on a website maintained by or on behalf of the Department, council or the Commission;
+- “monitoring measure” means a condition requiring the monitoring of any significant adverse effects on the environment of the proposed development;
+- “Schedule 1 application” and “Schedule 2 application” mean an application for planning permission for Schedule 1 development and Schedule 2 development respectively;
+- “Schedule 1 development” means development, other than exempt development, of a description mentioned in Schedule 1;
+- “Schedule 2 development” means development, other than exempt development, of a description mentioned in column 1 of the table in Schedule 2 where—
+  - (a) any part of that development is to be carried out in a sensitive area; or
+  - (b) any applicable threshold or criterion in the corresponding part of column 2 of that table is respectively exceeded or met in relation to that development;
+- “scoping opinion” has the meaning given to it by regulation 8(1)(b);
+- “screening determination” has the meaning given to it by regulation 8(1)(a);
+- “selection criteria” means the criteria set out in Schedule 3;
+- “sensitive area” means any of the following—
+  - (a) an area of special scientific interest, that is to say, land so declared under Article 28 of the Environment (Northern Ireland) Order 2002[^f00011];
+  - (b) an area of outstanding natural beauty, that is to say, an area so designated under Article 14(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985[^f00012];
+  - (c) a National Park, that is to say, an area so designated under Article 12(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+  - (d) a property appearing on the World Heritage List kept under Article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage[^f00013]
+  - (e) a scheduled monument within the meaning of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^f00014];
+  - (f) a European Site within the meaning of regulation 9 of the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995[^f00015].
+- “subsequent application” means an application for approval of a matter where the approval—
+  - (a) is required by or under a condition to which a planning permission is subject; and
+  - (b) must be obtained before all or part of the development permitted by the planning permission may be begun;
+- “subsequent consent” means consent granted pursuant to a subsequent application;
+- “Union legislation” means[^key-aa70c1b9092e3e5eea3799e791013f53] assimilated[^key-2d67f9e145730efc91193bf9af0bbbac] law;
+
+(3) Subject to paragraph (4), expressions used both in these Regulations and in the 2011 Act have the same meaning for the purposes of these Regulations as they have for the purposes of the 2011 Act.
+
+(4) Expressions used both in these Regulations and in the Directive (whether or not also used in the 2011 Act) have the same meaning for the purposes of these Regulations as they have for the purposes of the Directive.
+
+(5) In these Regulations, and in relation to the use of electronic communications or electronic storage for any purpose of these Regulations which is capable of being effected electronically—
+
+- (a) the expression “address” includes any number or address used for the purpose of such communications except that where these Regulations impose any obligation on any person to provide a name and address to any other person, the obligation shall not be fulfilled unless the person on whom it is imposed provides a postal address;
+- (b) references to plans, notices or other documents or to copies of such things include references to such documents or copies of them in electronic form.
+
+(6) Paragraphs (7) to (10) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement in these Regulations to give or send any statement, notice or other document to any other person (“recipient”).
+
+(7) The requirement shall (except on the case of service of a notice under regulation 34(2)) be taken to be fulfilled where the notice or other document transmitted by means of electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(8) In paragraph (7), “legible in all material respects” means that the information contained in the notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(9) Where the electronic communication is received by the recipient outside the recipient’s business hours, it shall be taken to have been received on the next working day; and for this purpose “working day” means a day which is not a Saturday, Sunday or a public holiday.
+
+(10) A requirement in these Regulations that any application, notice or other document should be in writing is fulfilled where the document meets the criteria in paragraph (7).
+
+### 3. Directions[^key-76305d439d9b0d3255b85ca488b8b742]
+
+(1) The Department may direct that—
+
+- (a) a particular development of a description described in column 1 of the table in Schedule 2 and which does not meet the conditions in sub-paragraphs (a) and (b) of the definition of “Schedule 2 development” is EIA development;
+- (b) [^key-2aca86bcba8ecea030f63c5c98068330]... a particular proposed development specified in the direction is exempted from these Regulations where the application of the Regulations would result in adversely affecting the purpose of the development, provided the objectives of these Regulations are met; or
+- (c) these Regulations do not apply in relation to a particular proposed development specified in the direction if the development comprises or forms part of a project having the response to civil emergencies as its sole purpose and the application of the Regulations would have an adverse effect on that purpose.
+
+(1A)[^key-53d99ba53d411d7f4c69a22fc65b1851] The Department must not make a direction under paragraph (1)(b) that a project is exempt unless, where the Department considers that the development is likely to have significant effects on the environment in an EEA State, or where an EEA State likely to be significantly affected so requests, the Department has carried out a form of consultation with that EEA State broadly equivalent to the form described in regulation 29 or 30, as appropriate, or is satisfied that such an equivalent consultation has been carried out, before planning permission or subsequent consent is granted in respect of the development.
+
+(2) Where a direction is made under paragraph (1), the Department shall send a copy of the direction to the council or councils in whose district the proposed development is to be situated.
+
+(3) Where a direction is made under paragraph (1)(b), the Department shall—
+
+- (a) make available to the public the information considered in making the direction and the reasons for making the direction;
+- (b) consider whether another form of assessment would be appropriate; and
+- (c) take such steps as are considered appropriate to bring the information obtained under the other form of assessment to the attention of the public.
+
+(4)[^key-44dc1cce289fc1592acdb449b685aef9] Before planning permission or subsequent consent is given in respect of a development which is exempt under paragraph (1)(b), the council or, as the case may be, the Department, must take into account the results of—
+
+- (a) any other assessment considered appropriate by the Department under paragraph (3)(b); and
+- (b) any consultation with an EEA State carried out under paragraph (1A) about the development.
+
+### 4. Prohibition on granting planning permission or subsequent consent without an environmental impact assessment[^key-94c5ccb1c67b9023545557d72446c54a]
+
+A council, the Department or the Commission shall not grant planning permission or subsequent consent for EIA development unless an environmental impact assessment has been carried out in respect of that development.
+
+### 5. Environmental impact assessment[^key-21f7f37958206a2bfed48759071e85bf]
+
+(1) An environmental impact assessment is a process consisting of—
+
+- (a) the preparation of an environmental statement by the applicant;
+- (b) any consultation, publication and notification required by, or by virtue of, these Regulations or any other enactment in respect of EIA development; and
+- (c) the steps required under regulations 24 and 25.
+
+(2) The environmental impact assessment shall identify, describe and assess in an appropriate manner, in the light of each individual case, the direct and indirect significant effects of the proposed development on the following factors—
+
+- (a) population and human health;
+- (b) biodiversity, with particular attention to species and habitats protected under any law that implemented[^key-688dcef0aa4379f83f30bbdaf83d3b76] [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)[^f00016] and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147)[^f00017];
+- (c) land, soil, water, air and climate;
+- (d) material assets, cultural heritage and the landscape ; and
+- (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
+
+(3) The effects referred to in paragraph (2) on the factors set out in that paragraph shall include—
+
+- (a) the operational effects of the proposed development, where the proposed development will have operational effects; and
+- (b) the expected effects deriving from the vulnerability of the proposed development to risks of major accidents or disasters that are relevant to the proposed development.
+
+(4) The council, the Department or the Commission, as the case may be, shall ensure that it has, or has access as necessary to, sufficient expertise to examine the environmental statement.
+
+### 6. Confirmation that development is EIA development[^key-0f3d45da5638157be2ae8c29abbc7fbc]
+
+(1) Subject to any direction made by the Department under regulation 3(1) or by the Secretary of State under regulation 62 of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017, the occurrence of an event mentioned in paragraph (2) shall determine for the purpose of these Regulations that a particular development is EIA development.
+
+(2) The events are—
+
+- (a) the submission by the applicant or appellant, in relation to that development, of a statement referred to by the applicant or appellant as an environmental statement for the purposes of these Regulations; or
+- (b) the determination by the council or by the Department or, following a hearing by the Commission, confirmation by the council or by the Department, that the development is EIA development.
+
+### 7. Appeals under Section 58 or Section 60 of the 2011 Act[^key-e5f76f9382a51e1e1060f0e60ed60b57]
+
+(1) Where an appeal is made to the Commission under section 58 or 60, the functions conferred on the council or on the Department by Part 3 to Part 8 of these Regulations shall be exercisable by the Commission in respect of that appeal.
+
+(2) For the purpose of paragraph (1), regulation 15(4) shall have effect as if substituted by the following provision—
+
+> (4) An appellant receiving a notification pursuant to paragraph (1) shall, within 4 weeks from the date of the determination, inform the Commission, in writing, that the appellant—
+>
+> - (a) accepts the Commission’s determination and proposes to provide an environmental statement; or
+> - (b) does not accept the Commission’s determination.
+
+(3) For the purposes of paragraph (1), regulation 15(6) does not apply.
+
+(4) For the purposes of paragraph (1), the words “and a deemed refusal by the council shall not give rise to an appeal to the Commission by virtue of section 58 or 60” contained in regulations 15(5), (8) and 21(3) shall not have effect.
+
+## PART 2 — Pre-Application Procedures
+
+### 8. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^key-e0bd051676d1cc7e0b3adf4058bddb15]
+
+(1) Subject to paragraphs (2) to (6), before applying for planning permission or subsequent consent, an applicant may request in writing the council or, as the case may be, the Department to—
+
+- (a) make a determination as to whether a proposed development is or is not EIA development (a “screening determination”);
+- (b) give an opinion as to the scope and level of detail of the information to be provided in the environmental statement to be submitted with an EIA application (a “scoping opinion”).
+
+(2) A request for a scoping opinion may be made at the same time as a request for a screening determination.
+
+(3) When making a request for a screening determination, an applicant shall, taking into account so far as relevant the selection criteria and the available results of other environmental assessments required under Union legislation (other than legislation implementing the requirements of the Directive), provide the following information—
+
+- (a) a plan sufficient to identify the land;
+- (b) a description of the development, including in particular—
+  - (i) a description of the physical characteristics of the whole development and, where relevant, of demolition works;
+  - (ii) a description of the location of the development, with particular regard to the environmental sensitivity of geographical areas likely to be affected;
+- (c) a description of the aspects of the environment likely to be significantly affected by the development;
+- (d) to the extent the information is available, a description of any likely significant effects of the development on the environment resulting from—
+  - (i) the expected residues and emissions and the production of waste, where relevant; and
+  - (ii) the use of natural resources, in particular soil, land, water and biodiversity.
+
+(4) The applicant, when making a request for a screening determination, may also provide a description of any features of the proposed development or any measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+(5) A request for a scoping opinion in respect of an application for planning permission shall be accompanied by—
+
+- (a) a plan sufficient to identify the land;
+- (b) a description of the nature and purpose of the proposed development, including its location and technical capacity; and
+- (c) an explanation of the likely significant effects of the development on the environment.
+
+(6) A request for a screening determination or scoping opinion in respect of a subsequent application shall be accompanied by—
+
+- (a) a plan sufficient to identify the land;
+- (b) sufficient information to enable the council or, as the case may be, the Department to identify any planning permission granted for the development in respect of which a subsequent application has been made; and
+- (c) the information referred to in paragraph (3)(c) and (d), but only to the extent that this relates to the likely significant effects on the environment which were not identified at the time that the planning permission was granted.
+
+(7) Where the council or, as the case may be, the Department has to make a screening determination, it shall take into account—
+
+- (a) any information provided by the applicant;
+- (b) where relevant, the results of other environmental assessments carried out pursuant to Union legislation other than legislation implementing the requirements of the Directive; and
+- (c) such of the selection criteria as are relevant to the proposed development.
+
+(8) Subject to paragraph (11), the council or, as the case may be, the Department shall inform the applicant, in writing, of its screening determination within 4 weeks from the date of receipt of the request, or within such longer period, not exceeding 90 days beginning with the date of receipt of the request, as may be agreed in writing between the council or, as the case may be, the Department and the applicant.
+
+(9) The Department shall send a copy of its screening determination to the council in whose district the proposed development is to be situated.
+
+(10) Where the council or, as the case may be, the Department consider that due to exceptional circumstances relating to the nature, complexity, location or size of the proposed development it is not practicable for the council or, as the case may be, the Department to make a screening determination within the period specified in paragraph (8), the council or Department may extend that period by notice in writing to the applicant giving reasons for that conclusion and the date when the screening determination may be expected.
+
+(11) Where the council or, as the case may be, the Department considers that it has not been provided with sufficient information to enable it to respond to a request for a screening determination or a scoping opinion, it shall notify the applicant in writing of the particular points on which additional information is required, and the period for making the screening determination or for giving a scoping opinion shall not commence until receipt of that additional information.
+
+(12) Subject to paragraph (16), the council or, as the case may be, the Department shall not give a scoping opinion until it has consulted such other authorities likely to be concerned by the proposed development by reason of their specific environmental responsibilities or local or regional competences, but shall respond to such a request within 6 weeks of receipt of that request or such longer period as may be agreed in writing with the applicant.
+
+(13) The Department shall send a copy of its scoping opinion to the council in whose district the proposed development is to be situated.
+
+(14) If, in response to a request for a screening determination, the council or, as the case may be, the Department determines that the proposed development is EIA development, it shall provide with the screening determination a written statement giving the main reasons for that conclusion with reference to the relevant selection criteria.
+
+(15) If, in response to a request for a screening determination, the council or, as the case may be, the Department, determines that the proposed development is not EIA development, it shall provide with the screening determination a written statement giving the reasons for that conclusion with reference to the relevant selection criteria and, where proposed by the applicant, state any features of the development and measures envisaged to avoid or prevent, what might otherwise have been, significant adverse effects on the environment.
+
+(16) Where the council or, as the case may be, the Department makes a screening determination and the applicant has also requested a scoping opinion, the council or, as the case may be, the Department shall respond to the request for the scoping opinion within 6 weeks of the date of issue of its screening determination under paragraph (14) or such longer period as may be agreed in writing with the applicant.
+
+(17) In giving a scoping opinion, the council or, as the case may be, the Department shall take into account —
+
+- (a) any information provided by the applicant about the proposed development;
+- (b) the characteristics of the development;
+- (c) the likely significant effects of the development on the environment; and
+- (d) representations from the authorities consulted under paragraph (12).
+
+(18) Where, following receipt of a scoping opinion under paragraph (16), an applicant wishes to proceed with the submission of an environmental statement, the applicant shall by notice in writing inform the council or, as the case may be, the Department to such effect within 4 weeks of the date of the scoping opinion.
+
+(19) Where, following receipt of a screening determination under paragraph (14), the applicant wishes to proceed with the proposed development, the applicant shall by notice in writing inform the council or, as the case may be, the Department that the applicant either—
+
+- (a) accepts the council’s or, as the case may be, the Department’s screening determination and proposes to provide an environmental statement; or
+- (b) does not accept the council’s or, as the case may be, the Department’s screening determination and proposes to seek a hearing before the Commission.
+
+(20) The notice referred to in paragraph (19) shall be served on the council or, as the case may be, the Department within 4 weeks of the date of the screening determination.
+
+(21) Where the council or, as the case may be, the Department has given a scoping opinion or where it has received a statement under regulation 6(2)(a) it shall not be precluded from requiring further information in connection with any environmental statement that may be submitted.
+
+## PART 3 — Preparation of Environmental Statements
+
+### 9. Procedure to facilitate preparation of environmental statements[^key-0f07832bf312579cbb042a2dd230e385]
+
+(1) An applicant who intends to submit an environmental statement to a council or, as the case may be, the Department may give notice in writing of that intention to the council or the Department.
+
+(2) A notice under paragraph (1) shall include, or be accompanied by, the information necessary to identify the land and the nature and purpose of the development, and shall indicate the main environmental consequences to which the person giving notice proposes to refer in the environmental statement.
+
+(3) Where the council—
+
+- (a) receives a notice under paragraph (1) or pursuant to regulation 8(18), (19)(a) or 15(4)(a); or
+- (b) confirms a determination pursuant to regulation 15(7),
+
+it shall notify—
+
+- (i) any other council in the area in which the land to which the proposal relates is situated of the details of the proposed development; and
+- (ii) such other authorities likely to be concerned by the proposed development by reason of their specific environmental responsibilities or local or regional competences,
+
+of the name and address of the applicant and of the duty imposed on them by regulation 10(1) to make information available to the applicant; and
+
+- (iii) inform the applicant in writing of the names and addresses of the bodies so notified.
+
+(4) Where the Department—
+
+- (a) receives a notice under paragraph (1) or pursuant to regulation 8(18), (19)(a), 15(4)(a) or 16(5); or
+- (b) confirms a determination pursuant to regulation 15(7) or 16(8),
+
+it shall notify—
+
+- (i) the council or councils in whose district the proposed development is to be situated of the details of the proposed development; and
+- (ii) such other authorities likely to be concerned by the proposed development by reason of their specific environmental responsibilities or local or regional competences,
+
+of the name and address of the applicant and of the duty imposed on them by regulation 10(1) to make information available to the applicant; and
+
+- (iii) inform the applicant in writing of the names and addresses of the bodies so notified.
+
+### 10. Provision of information[^key-91bbb4d3b11dfbd95d496a6e46fa9f5e]
+
+(1) Subject to paragraph (2), any body notified by the council or, as the case may be, the Department pursuant to regulation 9(3) or (4) shall, if requested by the person who intends to submit the environmental statement, or may without such request, enter into consultation with that person with a view to ascertaining whether the body has information in its possession which that person or they consider relevant to the preparation of the environmental statement, and shall make that information available to that person.
+
+(2) Any body which receives a request for information under paragraph (1) shall treat it as a request for information under regulation 5(1) of the Environmental Information Regulations 2004[^f00018].
+
+### 11. Environmental statements[^key-1eef5170b71902c74d465fcd3a1c01be]
+
+(1) An EIA application shall be accompanied by an environmental statement for the purposes of these Regulations.
+
+(2) An environmental statement is a statement which includes at least—
+
+- (a) a description of the proposed development comprising information on the site, design, size and other relevant features of the development;
+- (b) a description of the likely significant effects of the proposed development on the environment;
+- (c) a description of any features of the proposed development, or measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the applicant, which are relevant to the proposed development and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the significant effects of the development on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any information specified in Schedule 4 relevant to the specific characteristics of the particular development or type of development and to the environmental features likely to be significantly affected.
+
+(3) To ensure the completeness and quality of the statement, the environmental statement shall—
+
+- (a) be prepared by competent experts;
+- (b) contain a statement by or on the behalf of the applicant setting out how the requirements of paragraph (3)(a) have been complied with;
+- (c) where a scoping opinion has been issued in accordance with regulation 8, be based on the most recent scoping opinion issued (so far as the proposed development remains materially the same as the proposed development which was subject to that scoping opinion);
+- (d) include the information reasonably required for reaching a reasoned conclusion on the significant effects of the development on the environment, taking into account current knowledge and methods of assessment; and
+- (e) be prepared, taking into account other relevant environmental assessments required under Union legislation or some other provision of domestic legislation, with a view to avoiding duplication of assessment.
+
+## PART 4 — Procedures on Receipt of Application
+
+### 12. Application which appears to require determination as to need for environmental impact assessment[^key-7c9c06f40f2f3b1a844db494229a4cef]
+
+(1) Where it appears to the council or, as the case may be, the Department that an application for planning permission—
+
+- (a) is a Schedule 1 application or a Schedule 2 application;
+- (b) the development in question has not been the subject of a screening determination as to whether the development is or is not EIA development; and
+- (c) the application is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations,
+
+the council or, as the case may be, the Department shall make a screening determination as to whether the development is EIA development, and paragraphs (7), (8), (9), (10), (11), (14) and (15) of regulation 8 shall apply as if receipt of the application were a request made under paragraph (1)(a) of regulation 8.
+
+(2) Where regulation 8(11) applies by virtue of this regulation, the council or, as the case may be, the Department shall, where necessary to ensure that the applicant has provided the information referred to in regulation 8(3), make a request for additional information before making a screening determination.
+
+### 13. Subsequent application where environmental information previously provided[^key-09378ee0fe679a4ca130eb902ace1d62]
+
+(1) This regulation applies where it appears to the council or, as the case may be, the Department that—
+
+- (a) an application which is before it for determination—
+  - (i) is a subsequent application in relation to Schedule 1 development or Schedule 2 development;
+  - (ii) has not itself been the subject of a screening determination as to whether the development is or is not EIA development; and
+  - (iii) is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations; and
+- (b) the original application was accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations.
+
+(2) Where it appears to the council or, as the case may be, the Department that the environmental information previously submitted in relation to the original application is adequate to assess the significant effects of the development on the environment, it shall take that information into consideration in its decision for subsequent consent.
+
+(3) Where it appears to the council or, as the case may be, the Department that the environmental information already before it is not adequate to assess the significant effects of the development on the environment, it shall serve a notice seeking further information in accordance with regulation 21(1).
+
+### 14. Subsequent application where environmental information not previously provided[^key-f6328c2929392de44d02597d5320a836]
+
+(1) Where it appears to the council or, as the case may be, the Department that—
+
+- (a) an application—
+  - (i) is a subsequent application in relation to Schedule 1 development or Schedule 2 development;
+  - (ii) has not itself been the subject of a screening determination as to whether the development is or is not EIA development; and
+  - (iii) is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations; and
+- (b) the original application was not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations,
+
+the council or, as the case may be, the Department shall make a screening determination as to whether the development to which the application relates is EIA development, and paragraphs (7), (8), (9), (10), (11), (14) and (15) of regulation 8 shall apply as if receipt of the application were a request made under paragraph (1)(a) of regulation 8.
+
+(2) Where regulation 8(11) applies by virtue of this regulation, the council or, as the case may be, the Department shall, where necessary to ensure that the application has provided the information referred to in regulation 8(6), make a request for additional information before issuing a screening determination.
+
+### 15. Application without an environmental statement[^key-0707e375a678a18a70abc9efed07cebe]
+
+(1) Where an EIA application, including an application in respect of development which it has been determined is EIA development under regulation 12 or 14, is not accompanied by an environmental statement or a statement referred to by the applicant as an environmental statement for the purpose of these Regulations, the council or, as the case may be, the Department shall notify the applicant in writing that the submission of such a statement is required.
+
+(2) Where notification is given by the Department under paragraph (1), it shall send a copy of the notification to the council or councils in whose district the proposed development is to be situated.
+
+(3) The council or, as the case may be, the Department shall notify the applicant in accordance with paragraph (1) within 4 weeks from the date of receipt of the application or such longer period as may be agreed in writing with the applicant.
+
+(4) An applicant receiving a notification pursuant to paragraph (1) shall, within 4 weeks from the date of the determination, inform the council or, as the case may be, the Department, in writing, that the applicant—
+
+- (a) accepts the determination and proposes to provide an environmental statement; or
+- (b) does not accept the determination and proposes to seek a hearing before the Commission.
+
+(5) If the applicant does not inform the council or, as the case may be, the Department in writing in accordance with paragraph (4), the permission or subsequent consent sought shall be deemed to be refused at the end of the relevant 4 week period and a deemed refusal by the council shall not give rise to an appeal to the Commission by virtue of section 58 or 60.
+
+(6) Where, following receipt of a notification pursuant to paragraph (1), an applicant proposes to seek a hearing before the Commission, the applicant shall by notice in writing inform the Commission to such effect within 4 weeks from the date of the notification.
+
+(7) Where the council or, as the case may be, the Department determines or, following a hearing by the Commission, confirms that an environmental statement is required, the statement shall be submitted within 6 months from the date of determination or such extended period as may be agreed in writing between the applicant and the council or Department.
+
+(8) If the applicant does not submit an environmental statement in accordance with paragraph (7), the application for planning permission or subsequent application shall be deemed to be refused and a deemed refusal by the council shall not give rise to an appeal to the Commission by virtue of section 58 or 60.
+
+(9) Where, following a hearing by the Commission, the council or, as the case may be, the Department withdraws its determination that an environmental statement is required, the period within which the application for planning permission or subsequent application is to be determined shall be calculated from the date of notice to the applicant of the council’s or Department’s withdrawal.
+
+### 16. Application referred to the Department under Section 29 without an environmental statement[^key-c9f6d648ea47f1674ff85bdd7449ab15]
+
+(1) Where an application has been referred to the Department under section 29 for determination, and it appears to the Department that—
+
+- (a) it is a Schedule 1 application or a Schedule 2 application;
+- (b) the development in question—
+  - (i) has not been the subject of a determination as to whether the development is or is not EIA development; or
+  - (ii) in the case of a subsequent application, was the subject of a determination before planning permission was granted to the effect that it is not EIA development; and
+- (c) the application is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations,
+
+the Department shall make a screening determination as to whether the development is EIA development, and paragraphs (7), (8), (9), (10), (11), (14) and (15) of regulation 8 shall apply as if the referral of the application were a request made under paragraph (1)(a) of regulation 8.
+
+(2) Where regulation 8(11) applies by virtue of paragraph (1) the Department shall, where necessary to ensure that the applicant has provided—
+
+- (a) in the case of applications for planning permission, the information referred to in regulation 8(3); and
+- (b) in the case of subsequent applications, the information referred to in regulation 8(6),
+
+make a request for additional information before making a screening determination.
+
+(3) Where the Department has determined that an application referred to it under section 29 for determination is an EIA application, but it is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations, the Department shall notify the applicant in writing that the submission of an environmental statement is required, and shall send a copy of the notification to the council in whose district the proposed development is to be situated.
+
+(4) The Department shall notify the applicant in accordance with paragraph (3) within 4 weeks from the date of referral of the application or such longer period as may be reasonably required.
+
+(5) An application receiving a notification pursuant to paragraph (3) shall, within 4 weeks from the date of the determination, inform the Department, in writing, that the applicant—
+
+- (a) accepts the determination and proposes to provide an environmental statement; or
+- (b) does not accept the determination and proposes to seek a hearing before the Commission.
+
+(6) It the applicant does not inform the Department in writing in accordance with paragraph (5), the permission or subsequent consent sought shall be deemed to be refused at the end of the relevant 4 week period.
+
+(7) Where, following receipt of a notification pursuant to paragraph (3), an applicant proposes to seek a hearing before the Commission, the applicant shall by notice in writing inform the Commission to such effect within 4 weeks from the date of the notification.
+
+(8) Where the Department determines or, following a hearing by the Commission, confirms that an environmental statement is required, the statement shall be submitted within 6 months from the date of determination or such extended period as may be agreed in writing between the applicant and the Department, and if not so submitted, the application for planning permission or subsequent application shall be deemed to be refused.
+
+(9) Where, following a hearing by the Commission, the Department withdraws its determination that an environmental statement is required, the period within which the application for planning permission or subsequent application is to be determined shall be calculated from the date of notice to the applicant of the Department’s withdrawal.
+
+### 17. Extension of the period for council’s or Department’s decision on an application for planning permission or subsequent application[^key-af214460b4f0e64e2e0415b345fd9421]
+
+Where an application for planning permission or subsequent application is an EIA application, Articles 12 and 20 of the General Development Procedure Order shall have effect as if—
+
+- (a) in Article 12 for the reference to a period of 8 weeks from the date the application was received; and
+- (b) in paragraph (2)(b) of Article 20 for the reference to a period of 8 weeks from the date the application was received,
+
+there were substituted a reference to a period of 16 weeks; and
+
+- (c) after paragraph (3)(b) of Article 20 there were inserted—
+
+  > - (ba) the environmental statement required to be submitted in respect of the application has been submitted, together with the documents required to accompany that statement; and
+  > - (bb) in the case of an application falling within regulation 12(1) or 14(1) of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 where the council or, as the case may be, the Department has requested further information in order to make a determination under regulation 12(3) or 14(3) of those Regulations, when that information was received; and
+  > - (bc) where evidence verifying information in the environmental statement has been requested, when that evidence was received; and
+
+  ; and
+- (d) the date when an application is received for the purposes of Article 12 were the date when each of the events referred to in Article 20(3) (ba) to (bc) has occurred in relation to that application.
+
+## PART 5 — Publicity and Consultation
+
+### 18. Publicity where an environmental statement is submitted[^key-d013790436edd35e82d540c4004149a1]
+
+(1) Where an environmental statement is submitted the council or, as the case may be, the Department shall, when it receives the environmental statement publish a notice, by local advertisement, stating —
+
+- (a) that an application for planning permission or a subsequent application has been made to the council or, as the case may be, the Department and is accompanied by an environmental statement;
+- (b) the address or location and nature of the proposed development;
+- (c) in the case of an application for planning permission, that the environmental statement is available for inspection free of charge and the times and places at which, and the means by which, it is available for inspection;
+- (d) in the case of a subsequent application, that a copy of the planning permission and supporting documents for the development in respect of which the application has been made, may be inspected by members of the public at all reasonable hours at the relevant office of the council or, as the case may be, the Department;
+- (e) details of a website maintained by or on behalf of the council or, as the case may be, the Department on which the environmental statement and other documents have been made available in accordance with paragraph (3);
+- (f) a postal address (within the locality in which the land proposed to be developed is situated) at which copies of the environmental statement may be obtained from the applicant in accordance with regulation 19(a), so long as stocks last, and if a charge is to be made for a copy, the amount of the charge; and
+- (g) that any person wishing to make representations about the application should make them in writing to the council or, as the case may be, the Department, and the latest date by which representations should be made (being a date not less than 30 days from the date on which the notice is first published).
+
+(2) Where the council or, as the case may be, the Department is aware of any particular person who is or is likely to be affected by, or has an interest in, the application for planning permission or subsequent application, and who is unlikely to become aware of it by means of a local advertisement, it shall send a notice in writing to such person containing the details set out in the notice under paragraph (1) and the address of the relevant office of the council or, as the case may be, the Department.
+
+(3) The council or, as the case may be, the Department shall make the environmental statement available for inspection on a website maintained by it or on its behalf.
+
+### 19. Availability of copies of environmental statement[^key-c344c5a4c9f6e5ed37a95f2b8366dbe8]
+
+An applicant who submits an environmental statement shall—
+
+- (a) ensure that a reasonable number of copies of the statement are made available at the address given in the notice pursuant to regulation 18(1)(f); and
+- (b) provide the council or, as the case may be, the Department with sufficient copies of it, or parts of it, to enable the council or, as the case may be, the Department to comply with regulation 20 and 3 additional copies.
+
+### 20. Consultation where environmental statement submitted[^key-5710b099f32170937532b8263e263aa1]
+
+(1) Where the council receives an environmental statement in relation to a proposed development, it shall consult any other council and bodies mentioned in regulation 9(3) and inform them that they may make representations.
+
+(2) Where the Department receives an environmental statement in relation to a proposed development, it shall consult the council in whose district the proposed development is to be situated and bodies mentioned in regulation 9(4) and inform them that they may make representations.
+
+(3) The council or, as the case may be, the Department shall give not less than 30 days notice to any council and bodies consulted under paragraph (1) or (2) that environmental information is to be taken into account in determining the application for planning permission or subsequent application.
+
+### 21. Further information and evidence relating to environmental statement[^key-3694459ae84b89f7e68b4ad65d056467]
+
+(1) Where the applicant has submitted a statement which the applicant refers to as an environmental statement and the council or, as the case may be, the Department is of the opinion that, in order to satisfy the requirements of regulation 11(2), the statement should contain supplementary information which is directly relevant to reaching a reasoned conclusion on the significant effects of the development described in the application on the environment in order to be an environmental statement, it shall require the applicant, by notice in writing, to submit that supplementary information, and such information provided by the applicant is referred to in these Regulations as “further information”.
+
+(2) The council or, as the case may be, the Department may, by notice in writing, require an applicant to produce such evidence as it may reasonably call for to verify any information in the environmental statement.
+
+(3) On receipt of a notice under paragraphs (1) and (2) the applicant shall submit the further information or evidence within three months from the date of the notice or such extended period as may be agreed in writing between the applicant and the council or, as the case may be, the Department and, if not so submitted, the application shall be deemed to be refused, and a deemed refusal by the council shall not give rise to an appeal to the Commission by virtue of section 58 or 60.
+
+(4) Subject to paragraph (6), regulations 18 to 20 shall apply where such further information and any other information is received by the council or, as the case may be, the Department, as if references to “environmental statement” were references to “further information and any other information”.
+
+(5) Subject to paragraph (6), where information is requested under paragraph (1) or any other information is received by the council or, as the case may be, the Department, it shall suspend determination of the application and shall not determine it before the expiry of the period of 30 days after the date on which notice of that information was published under regulation 18, or the expiry of the period of notice given to bodies consulted about that information under regulation 20, whichever is the latest.
+
+(6) Paragraphs (4) and (5) shall not apply to further information and any other information provided for the purposes of a public local inquiry or hearing held under section 26(10) or (11) or section 29(6) or (7).
+
+(7) Where a public local inquiry or hearing is to be held under section 26(10) or (11) or section 29(6) or (7) in relation to an EIA application, the Department shall, not less than 30 days before the inquiry or hearing is to be held, publish notice of it by local advertisement.
+
+(8) Every notice published pursuant to paragraph (7) shall contain:
+
+- (a) a clear statement of the date, time and place of the inquiry or hearing;
+- (b) details of where and when copies of any information provided for the purposes of the inquiry or hearing may be inspected and, where practicable, copied by the public.
+
+(9) Where a public local inquiry or hearing is to be held under section 26(10) or (11) or section 29(6) or (7) in relation to an EIA application, the Commission or, as the case may be, the person appointed by the Department shall, not less than 30 days before the inquiry or hearing is to be held, afford to any person who so requests a reasonable opportunity to inspect and, where practicable, take copies of any information provided for the purposes of the inquiry or hearing.
+
+(10) For the purpose of paragraph (9), an opportunity is to be taken as having been afforded to a person where the person is notified of—
+
+- (a) publication on the Commission’s website, or publication on a website accessible by the person appointed by the Department, of any information provided for the purposes of the inquiry or hearing;
+- (b) the address of that website; and
+- (c) the place on the website where that information may be accessed and how it may be accessed.
+
+### 22. Charges[^key-b0e2fdb1a20def691b0604e3c2741c80]
+
+(1) A reasonable charge reflecting the cost of printing and distribution of an environmental statement, part of it, or further information or any other information may be made by the applicant in respect of copies made available under regulation 19(a).
+
+(2) A body entering into consultation pursuant to regulation 10 may make a reasonable charge for the costs of making available to the applicant information in its possession.
+
+## PART 6 — Coordination, Decision-making, Monitoring and Notification of Decisions
+
+### 23. Coordination of assessments[^key-e35a386c310146c274a72179e11590d8]
+
+(1) Where, in relation to EIA development, there is, in addition to the requirement for an environmental impact assessment to be carried out in accordance with these Regulations, also a requirement to carry out a Habitats Regulations Assessment, the council or, as the case may be, the Department shall, where appropriate, ensure that the Habitats Regulations Assessment and the environmental impact assessment are coordinated.
+
+(2) In this regulation a “Habitats Regulations Assessment” means an assessment under regulation 43 of the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995.
+
+### 24. Consideration of whether planning permission or subsequent consent should be granted[^key-cf5e074d981ac0c8fbe7829664596e50]
+
+(1) When determining an EIA application the council or, as the case may be, the Department shall—
+
+- (a) examine the environmental information;
+- (b) reach a reasoned conclusion on the significant effects of the proposed development on the environment, taking into account the examination referred to in sub-paragraph (a) and, where appropriate, its own supplementary examination;
+- (c) integrate that reasoned conclusion into the decision as to whether planning permission or subsequent consent is to be granted; and
+- (d) if planning permission or subsequent consent is to be granted, consider whether it is appropriate to attach conditions or impose monitoring measures.
+
+(2) The reasoned conclusion referred to in paragraph (1) shall be up to date at the time that the decision as to whether planning permission or subsequent consent is to be granted; but that conclusion shall be taken to be up to date if, in the opinion of the council or, as the case may be, the Department, it addresses the significant effects that are likely to arise as a result of the development described in the EIA application.
+
+(3) In cases where no statutory timescale is in place, the decision of the council or, as the case may be, the Department as to whether planning permission or subsequent consent is to be granted shall be taken within a reasonable period of time, taking into account the nature and complexity of the proposed development, from the date on which the council or, as the case may be, the Department has been provided with the environmental information.
+
+### 25. Monitoring[^key-f6fdb749267969548cfba626a474cea5]
+
+(1) When considering whether to impose a monitoring measure under regulation 24(1)(d), and the nature of any such monitoring measure, the council or, as the case may be, the Department shall consider—
+
+- (a) whether monitoring measures are proportionate to the nature, location and size of the proposed development and the significance of its effects on the environment having regard in particular to the type of parameters to be monitored and the duration of the monitoring;
+- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under Union legislation (other than legislation implementing the requirements of the Directive) or other legislation applicable in Northern Ireland are more appropriate than imposing a monitoring measure; and
+- (c) if monitoring measures are considered appropriate, whether provision should be made to require appropriate remedial action.
+
+(2) Where monitoring measures or measures envisaged to avoid, prevent or reduce and, if possible, offset significant adverse effects on the environment are required, the council or, as the case may be, the Department shall take steps to ensure that those measures are undertaken.
+
+### 26. Information to accompany decisions[^key-2e81507f59e58f93932ac4eb99dd237b]
+
+(1) Where an EIA application is determined by a council or, as the case may be, the Department, it shall provide the applicant with the information specified in paragraph (2).
+
+(2) The information is—
+
+- (a) information regarding the right to challenge the validity of the decision and the procedures for doing so; and
+- (b) if the decision is to grant planning permission or subsequent consent—
+  - (i) the reasoned conclusion of the council or, as the case may be, the Department on the significant effects of the development on the environment, taking into account the results of the examination referred to in regulation 24(1)(a) and (b);
+  - (ii) any conditions to which the decision is subject;
+  - (iii) a description of any features of the development and any measures envisaged in order to avoid, prevent, reduce and, if possible, offset likely significant adverse effects on the environment; and
+  - (iv) any monitoring measures considered appropriate by the council or, as the case may be, the Department; or
+- (c) if the decision is to refuse planning permission or subsequent consent, the main reasons for the refusal.
+
+### 27. Duty to inform the public of decisions[^key-e3e2563ffea9da806ee783a8f7a95ba8]
+
+(1) Where an EIA application is determined by a council or, as the case may be, the Department, it shall promptly—
+
+- (a) inform the bodies mentioned in regulation 9(3)(b)(ii) or (4)(b)(ii), as appropriate, of the decision in writing;
+- (b) inform the public of the decision by local advertisement or by such other means as are reasonable in the circumstances.
+
+(2) Where an EIA is determined by the Department it shall also—
+
+- (a) notify the council in whose district the proposed development is to be situated of its decision;
+- (b) provide the council with a statement containing—
+  - (i) the main reasons and considerations on which the decision was based including information about the arrangements taken to ensure the public had the opportunity to participate in the decision making procedures;
+  - (ii) a summary of the results on the consultations undertaken and information gathered in respect of the application and how those results, in particular comments received from an EEA State pursuant to consultation under regulation 29, have been incorporated or otherwise addressed; and
+  - (iii) details of the matters referred to in regulation 26(2).
+
+(3) Where, after environmental information has been taken into consideration, an EIA application is determined by the Commission, the Commission shall promptly—
+
+- (a) notify the council in whose district the proposed development is to be situated of its decision; and
+- (b) provide the council with a copy of a statement containing—
+  - (i) the main reasons and considerations on which the decision was based including information about the arrangements taken to ensure the public had the opportunity to participate in the decision making procedures;
+  - (ii) a summary of the results of the consultations undertaken and information gathered in respect of application and how those results, in particular comments received from an EEA State pursuant to consultation under regulation 29, have been incorporated or otherwise addressed; and
+  - (iii) details of the matters referred to in regulation 26(2).
+
+(4) The council shall, as soon as reasonably practicable after receipt of a notification from the Commission under paragraph (3), comply with paragraph (1) as if the decision so notified were a decision of the council.
+
+## PART 7 — Development by a Council
+
+### 28. Modifications where application is by a council[^key-e3a3a569cbb95f8f1273b86d400bb9cf]
+
+Where the council is also (or would be) the applicant (whether alone or jointly with any other person), these Regulations shall apply to an EIA application (or proposed application) subject to the following modifications—
+
+- (a) regulations 8 and 9(1) to 9(3) shall not apply;
+- (b) regulation 10(1) shall apply to any body from whom the council requests assistance as it applies to any body notified in accordance with regulation 9(3);
+- (c) regulation 12 shall apply as if—
+  - (i) the words “or, as the case may be, the Department” were omitted; and
+  - (ii) the references to paragraph (8), (9), (10) and (11) of regulation 8 were omitted.
+- (d) regulation 13 shall apply as if the words “or, as the case may be, the Department” were omitted;
+- (e) regulation 14 shall apply as if—
+  - (i) the words “or, as the case may be, the Department” were omitted; and
+  - (ii) the reference to paragraphs (8), (9), (10) and (11) of regulation 8 were omitted;
+- (f) regulation 15 shall not apply;
+- (g) regulation 18 shall apply as if—
+  - (i) for “Where an environmental statement is submitted the council or, as the case may be, the Department shall, when it receives the environmental statement”, there were substituted, “Where a council submits an environmental statement it shall”;
+  - (ii) in paragraph (1)(a), (1)(c), (1)(d), (1)(f), (2) and (3) the words “or, as the case may be, the Department” were omitted;
+  - (iii) in paragraph (1)(e) the words “from the applicant” were omitted.
+- (h) paragraph (b) of regulation 19 shall not apply;
+- (i) regulation 20 shall apply if—
+  - (i) in paragraph (1) for the word “receives” there were substituted “submits”;
+  - (ii) paragraph (2) were omitted;
+  - (iii) in paragraph (3) the words “or, as the case may be, the Department” were omitted.
+
+## PART 8 — Development with Significant Transboundary Effects
+
+### 29. Development in Northern Ireland likely to have significant effects on the environment in an EEA State[^key-8699582a087e0d8b91a48f3e34ea8a66][^key-390a9f5341610f875cbaadc608dcbf97]
+
+(1) Where a council becomes aware that an EIA application made to it is in respect of proposed development which is likely to have significant effects on the environment in an[^key-f99b9e27b802c82739b6316c3a13f04f] EEA State, the council shall immediately send to the Department a copy of the application and environmental statement and any documents submitted with the application.
+
+(2) Where—
+
+- (a) it comes to the attention of the Department that proposed development in Northern Ireland is the subject of an EIA application and is likely to have significant effects on the environment in an[^key-a71c6e1b54d70e7578c24da31730e89a] EEA State; or
+- (b) an EEA State likely to be significantly affected by such development so requests, the Department shall—
+  - (i) publish a notice in the Belfast Gazette giving the address of the proposed development, stating that it is accompanied by an environmental statement and that it is likely to have significant effects on the environment of an EEA State and giving an address at which additional information may be obtained;
+  - (ii) send to the EEA State as soon as possible and no later than the date of publication of the notice referred to in sub-paragraph (b)(i), the particulars mentioned in paragraph (3) and, if relevant, the information referred to in paragraph (4); and
+  - (iii) give the EEA State a reasonable time in which to indicate whether it wishes to participate in the procedure for which these Regulations provide.
+
+(3) The particulars referred to in paragraph (2)(b)(ii) are—
+
+- (a) a description of the development, together with any available information on its possible significant effect on the environment in an[^key-f74bcbf85fe4d9b8f49db5bd22b2c005] EEA State; and
+- (b) information on the nature of the decision which may be taken.
+
+(4) Where an EEA State indicates, in accordance with paragraph (2)(b)(iii), that it wishes to participate in the procedure for which these Regulations provide, the Department shall send to that EEA State—
+
+- (a) a copy of the application concerned;
+- (b) a copy of any planning permission relating to the development;
+- (c) a copy of any environmental statement in respect of the development to which that application relates;
+- (d) details of the authority responsible for deciding the application; and
+- (e) relevant information regarding the procedure under these Regulations,
+
+unless that information has already been provided to the EEA State earlier in accordance with paragraph (2)(b)(ii).
+
+(5) The Department shall also ensure that the EEA State concerned is given an opportunity, before planning permission or subsequent consent for the development is granted, to forward to the Department, within a reasonable time, the opinions of its public and of the authorities which the EEA State designated to be consulted about the project[^key-6fcf88dc93debe582ad5fd38d70d5bc4] on the information supplied.
+
+(6) The Department shall—
+
+- (a) enter into consultation with the EEA State concerned regarding, amongst other things, the potential significant effects of the development on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects; and
+- (b) determine, in agreement with the [^key-a8956d041672f360c8a637fe32b3c45a]... EEA State, a reasonable period of time for the duration of the consultation period.
+
+(7) Where an EEA State has been consulted in accordance with paragraph (6), on the determination of the application concerned, the Department shall inform the EEA State of the decision and shall forward to it the information referred to in regulation 26(2).
+
+### 30. Projects in an EEA State likely to have significant transboundary effects[^key-3c697b571be3c3dd24ffb5a17946f4e1][^key-262aff715d883a81ce98942c9893d4f2]
+
+(1) Where the Department receives from an[^key-7f1dd1193b742a424a320c46771d77b1] EEA State [^key-8d095fac257b54d37fb62c4763bff83a]..., information which the EEA State has gathered from the applicant of a proposed project in that EEA State which is likely to have significant effects on the environment in Northern Ireland, the Department shall [^key-89e2db82834b4071c0d40b3754f88645]...—
+
+- (a) enter into consultations with that EEA State regarding, amongst other things, the potential significant effects of the proposed project on the environment in Northern Ireland and the measures envisaged to reduce or eliminate such effects and whether it wishes to participate in that EEA State’s procedure; and
+- (b) determine in agreement with that EEA State a reasonable period, before development consent for the project is granted, during which members of the public in Northern Ireland may submit to the competent authority (which the EEA State designated as responsible for performing the duties arising from the Directive)[^key-352294046e7269b173f59636d3cdd21e] representations [^key-59d303eda3b1a68f1972c4139cede347]....
+
+(2) The Department shall also—
+
+- (a) arrange for the information referred to in paragraph (1) to be made available, within a reasonable time, both to the authorities in Northern Ireland which it considers are likely to be concerned by the project by reason of the specific environmental responsibilities or local or regional competences, and to the public concerned in Northern Ireland;
+- (b) ensure that those authorities and the public concerned in Northern Ireland are given an opportunity before development consent for the project is granted, to forward to the competent authority in the relevant EEA State, within a reasonable time, their opinion on the information supplied; and
+- (c) make available to the public concerned, in an appropriate manner, any information received from the competent authority of the relevant EEA State [^key-cf64ed4edd9141a6032ae7ae29dfb74f]....
+
+## PART 9 — Unauthorised EIA Development
+
+### 31. Interpretation of Part 9[^key-172a3b83d7877be00b971ea92b83022b]
+
+In this Part—
+
+- “deemed application” shall be construed in accordance with section 145(5);
+- “enforcement functions” means—
+  - (a) the issue of an enforcement notice under section 138 or section 139;
+  - (b) the issue of a planning contravention notice under section 133;
+  - (c) the issue of a temporary stop notice under section 135;
+  - (d) the issue of a stop notice under section 150 or section 151;
+  - (e) the service of a breach of conditions notice under section 152; and
+  - (f) an application to the court for an injunction under section 156.
+- “enforcement notice” means a notice issued under section 138 or section 139;
+- “ground (a) appeal” means an appeal under section 143, so far as brought on the ground mentioned in subsection (3)(a) of that section;
+- “regulation 34 notice” means a notice issued under regulation 34(2);
+- “unauthorised EIA development” means EIA development for which planning permission or subsequent consent has not been granted.
+
+### 32. Duty to ensure objectives of the Directive are met[^key-96f882e7921fd7c329c0048dd473c656]
+
+The council or, as the case may be, the Department shall consider the exercise of their enforcement functions in such a way as to secure compliance with the requirements of any law which implemented the Directive and the objectives of the Directive[^key-8f0a2deecc7a3e965bbce7b20d310c33] .
+
+### 33. Prohibition on the grant of planning permission or subsequent consent for unauthorised EIA development[^key-1ea34bc890fbbd5790dbbccc384234cb]
+
+The Commission shall not grant planning permission or subsequent consent under section 145(1) in respect of unauthorised EIA development unless an environmental impact assessment has been carried out in respect of that development.
+
+### 34. Determination as to need for environmental statement, etc.[^key-55c3f8426da660a393611191a4412d07]
+
+(1) Where it appears to the council or, as the case may be, the Department that the matters constituting the breach of planning control comprise Schedule 1 development or Schedule 2 development, the council or, as the case may be, the Department shall, before an enforcement notice is issued—
+
+- (a) take steps to obtain information about the development, having regard to the requirements of regulation 8(3) and the obligations under regulation 32, in order to inform a screening determination; and
+- (b) make a screening determination and paragraphs (7), (14) and (15) of regulation 8 shall apply.
+
+(2) Where it appears to the council or, as the case may be, the Department that the matters constituting the breach of planning control comprise or include EIA development, the council or, as the case may be, the Department shall serve with a copy of the enforcement notice a notice (“regulation 34 notice”) which shall—
+
+- (a) include a copy of the screening determination required by paragraph (1)(b); and
+- (b) require a person who gives notice of an appeal under section 143 to submit to the Commission with the notice sufficient copies of an environmental statement relating to that development to enable the Commission to comply with regulation 37.
+
+(3) Where the council issues a regulation 34 notice it shall send a copy of the notice to—
+
+- (a) the Commission;
+- (b) any other council for the area in which the land to which the unauthorised EIA development relates is situated;
+- (c) any other authorities likely to be concerned by the unauthorised EIA development by reason of their specific environmental responsibilities or local or regional competences; and
+- (d) any particular person of whom it is aware, who is likely to be affected by, or has an interest in, the regulation 34 notice.
+
+(4) Where the Department issues a regulation 34 notice it shall send a copy of the notice to—
+
+- (a) the Commission,
+- (b) the council or councils in the area in which the land to which the unauthorised EIA development relates is situated;
+- (c) any other authorities likely to be concerned by the unauthorised EIA development by reason of their specific environmental responsibilities or local or regional competences; and
+- (d) any particular person of whom it is aware, who is likely to be affected by, or has an interest in, the regulation 34 notice.
+
+(5) Where the council or, as the case may be, the Department serves the Commission with a copy of a regulation 34 notice it shall also provide it with a list of the other persons to whom, in accordance with paragraph (3) or (4), a copy of the notice has been or is to be sent.
+
+(6) Where a person gives notice of appeal under section 143 and the council or, as the case may be, the Department has served on that person a regulation 34 notice with which they do not agree, that person may by notice in writing, within 4 weeks of the date of service of the enforcement notice, inform the council or, as the case may be, the Department that they propose to seek a hearing before the Commission.
+
+(7) Where, in relation to paragraph (6), a person proposes to seek a hearing before the Commission, that person shall, by notice in writing, inform the Commission to such effect within 4 weeks of the service of the enforcement notice.
+
+### 35. Time period for submission of environmental statement[^key-441c88bc228209b0eb050778c3869b50]
+
+Where the council or, as the case may be, the Department determines or, following a hearing by the Commission, confirms that an environmental statement is required, it shall be submitted to the Commission within 6 months from the date of the determination or such extended period as may be agreed in writing between the appellant and the Commission and if not so submitted the deemed application and the ground (a) appeal (if any) shall elapse at the end of that period.
+
+### 36. Provision of information[^key-de85c038563bff6ff02aed334029fbf0]
+
+(1) Subject to paragraph (2), any person on whom a copy of regulation 34 notice is served pursuant to regulation 34(3)(b) to (d) or regulation 34(4)(b) to (d) (“the consultee”) shall, if requested by the person on whom the regulation 34 notice was served, or may without such request, enter into consultation with that person to determine whether the consultee has in their possession any information which that person or the consultee consider relevant to the preparation of an environmental statement and, if they have, the consultee shall make any such information available to that person.
+
+(2) Regulations 10(2) and 22(2) shall apply to information under paragraph (1) as they apply to information under regulation 10(1).
+
+### 37. Procedure where the Commission receives an environmental statement[^key-b0c30411fd24ea71bbc639e48b917957]
+
+(1) Where the Commission receives an environmental statement, or a statement referred to by the appellant as an environmental statement, in connection with an enforcement appeal, it shall send a copy of the statement to the council or, as the case may be, the Department and to the bodies on whom a copy of the regulation 34 notice was served.
+
+(2) The Commission shall give not less than 30 days notice to the council or, as the case may be, the Department and the bodies referred to in paragraph (1) that environmental information will be taken into consideration in determining the ground (a) appeal (if any) and inform them that they may make representations within this period.
+
+### 38. Further information and evidence respecting environmental statements[^key-16566140f4712b4b9b8c3c1ec33e088d]
+
+(1) Regulation 21(1) and (2) shall apply to statements provided in accordance with this Part with the following modifications—
+
+- (a) where the Commission notifies the appellant under regulation 21(1), the appellant shall provide the further information within such period as the Commission may specify in the notice or such longer period as the Commission may allow;
+- (b) if an appellant to whom a notice has been given under sub-paragraph (a) fails to provide the further information within the period specified or allows (as the case may be), the deemed application and the ground (a) appeal (if any) shall lapse at the end of that period.
+
+(2) Regulations 37 and 39 shall apply in relation to further information received by the Commission in accordance with paragraph (1) as if references in those regulations to an environmental statement were references to the further information.
+
+(3) The Commission shall send the council or, as the case may be, the Department a copy of any notice sent to the appellant under paragraph (1).
+
+(4) Where the Department receives a notice under paragraph (3), it shall copy the notice to the council.
+
+### 39. Publicity for environmental statements and decision making[^key-ad0e01f83b867ef3033045915d7889b0]
+
+(1) Where the Commission receives a copy of an environmental statement or a statement submitted by the appellant referred to as an environmental statement, either of which is accompanied by further information and any other information, in connection with an enforcement appeal it shall publish by local advertisement a notice stating—
+
+- (a) the name of the appellant and that the appellant has appealed to the Commission against the enforcement notice;
+- (b) the address or location of the land to which the notice related and the nature of the development;
+- (c) sufficient information to enable any planning permission for the development to be identified;
+- (d) that a copy of the environmental statement and further information and any other information may be inspected by members of the public at all reasonable hours;
+- (e) an address in the locality at which the statement and further information and any other information may be inspected and the latest date it will be made available for inspection (being a date not less than 30 days from the date on which the notice is first published);
+- (f) that any person wishing to make representations about any matter dealt with in the statement and further information and any other information should make them in writing and the latest date by which representations should be made (being a date not less than 30 days from the date on which the notice is first published); and
+- (g) the address to which such representations are to be sent.
+
+(2) Where an appeal is made to the Commission under section 143 in relation to an unauthorised EIA development, the functions conferred to on the council or on the Department by Part 6 shall be exercisable by the Commission in respect of that appeal.
+
+### 40. Significant transboundary effects[^key-3fc5d469e20f08bc4af2d0775caabe85]
+
+Regulation 29 shall apply to unauthorised EIA development as if—
+
+- (a) for regulation 29(1) there were substituted—
+
+  > (1) Where, on the consideration of an appeal under section 143, the Commission is of the opinion that matters which are alleged to constitute the breach of planning control comprise or include EIA development and the development has or is likely to have significant effects on an[^key-bf0129517cb75d4d133ed0898d4b8544] EEA state, it shall notify the Department.
+
+  ;
+- (b) in regulation 29(2)(a) and (b)(i) the word “proposed” was omitted;
+- (c) in regulation 29(4)(a) the words “ a copy of the application concerned” were replaced by the words “a description of the development concerned”; and
+- (d) in regulation 29(4)(c) the words “that application” were replaced by the words “the deemed application under section 145(5)”.
+
+## PART 10 — Permission in Enterprise and Simplified Planning Zones and Permission Granted by Development Orders
+
+### 41. Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes[^key-db001e039eacc3bda7219f2bf4826fef]
+
+After the commencement of these Regulations—
+
+- (a) the adoption of a simplified planning zone scheme under section 34 (or the alteration of such a scheme under section 37);
+- (b) an order designating an enterprise zone under the Enterprise Zones (Northern Ireland) Order 1981[^f00019] and the modification in relation to an approved enterprise zone under that Order,
+
+shall not grant planning permission for—
+
+- (i) Schedule 1 development; or
+- (ii) Schedule 2 development unless the council or, as the case may be, the Department has made a determination that the development is not EIA development.
+
+### 42. Development Orders[^key-1348f279b1aa379a7545085692be8305]
+
+Subject to paragraph (2), A development order under section 32 made after the commencement of these Regulations shall not grant planning permission for—
+
+- (a) Schedule 1 development; or
+- (b) Schedule 2 development unless the council or, as the case may be, the Department has made a determination that the development is not EIA development.
+
+## PART 11 — Miscellaneous
+
+### 43. Objectivity and bias[^key-a52d595ba10985947afda560637b9f60]
+
+(1) The council or, as the case may be, the Department shall perform their duties under these Regulations in an objective manner and so as not to find themselves in a situation giving rise to a conflict of interest.
+
+(2) Where the council or, as the case may be, the Department is (or would be) an applicant and it will also be responsible for determining its own application, the council or, as the case may be, the Department shall make appropriate administrative arrangements to ensure that there is a functional separation, when performing any duty under these Regulations, between the persons making the application and the persons responsible for determining that application.
+
+### 44. Availability of information in relation to determinations, opinions, decisions, etc.[^key-065c4e741edce3b01b36960a4afb9fef]
+
+(1) The council shall make available for public inspection at all reasonable hours at the place where a register pursuant to Article 24 of the General Development Procedure Order is kept, a copy of—
+
+- (a) any determination or opinion given pursuant to regulation 8(1), 12(1), 14(1) or 16(1), notification under regulation 15(1) or 16(3), or determination confirmed or amended under regulation 45(2) together with the accompanying statement of reasons, the relevant request and the documents which accompanied it;
+- (b) any environmental statement and further information and any other information received under these Regulations; and
+- (c) where environmental information has been taken into consideration in determining an application for planning permission or subsequent application or appeal, a statement containing—
+  - (i) the main reasons and considerations on which the decision was based including information about the arrangements taken to ensure the public had the opportunity to participate in the decision making procedures;
+  - (ii) a summary of the results of the consultations undertaken and information gathered in respect of applications and how those results, in particular comments received from an EEA State pursuant to consultation under regulation 29, have been incorporated or otherwise addressed; and
+  - (iii) details of the matters referred to in regulation 26(2).
+
+(2) The council shall make available for public inspection at all reasonable hours at the place where a register pursuant to Article 26 of the General Development Procedure Order is kept, a copy of—
+
+- (a) every regulation 34 notice served by the council or, as the case may be, the Department;
+- (b) every determination made by the council or, as the case may be, the Department in accordance with regulation 34(2) or notice confirmed or amended under regulation 45(2) in respect of a deemed application under Part 8;
+- (c) every environmental statement or additional information received by the council or, as the case may be, the Department by virtue of regulation 37(1); and
+- (d) every notice received by the council or, as the case may be, the Department under regulation 38(3) or (4).
+
+(3) A register kept pursuant to Article 27 of the General Development Procedure Order is kept, a copy of any direction given by the Department pursuant to regulation 3(1)(a) to (c), and any information obtained under regulation 3(2).
+
+(4) Where the registers kept under this regulation are kept using electronic storage, the council may make the registers available for inspection by the public on a website maintained by the council for that purpose.
+
+### 45. Hearing by the Commission in relation to the council’s or Department’s determination[^key-4f0fe71120a5f059e6884d45a7241f59]
+
+(1) Where a person seeks a hearing before the Commission under regulations 8(19), 15(4), 16(5) or 34(6) it shall afford that person the opportunity of appearing before and being heard by the Commission.
+
+(2) Where a hearing is held, the council or, as the case may be, the Department shall consider the report of the Commission and may confirm, amend or withdraw its determination.
+
+### 46. Use of electronic communications[^key-e04e15611a1e1fbecf1d152fa6e8bdd8]
+
+(1) Paragraph (2) applies where a person uses electronic communications to make an application under regulation 8, and except where a contrary intention appears, the applicant shall be taken to have agreed—
+
+- (a) to the use of electronic communications for all purposes relating to the application which is capable of being effected using such communications;
+- (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the application;
+- (c) that the person’s deemed agreement under this paragraph shall subsist until the person gives notice in writing that the person wishes to revoke the agreement and such withdrawal or revocation shall be final and shall take effect on a date specified by the person in the notice but not less than seven days after the date on which the notice is given.
+
+(2) In paragraphs (3)(a), 5(a) and 6(a) of regulation 8 the requirement for the application to be accompanied by a plan sufficient to identify the land to which the application relates is satisfied where the applicant identifies the land on an electronic map provided by the council or, as the case may be, the Department and for this purpose a map is taken to be provided where the council or, as the case may be, the Department has published it on its website.
+
+### 47. Application to the Crown[^key-d8c21f7ff7ff4a0e06cdfdc84553b6aa]
+
+These Regulations shall apply to the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
+
+### 48. Revocation, saving and transitional provisions[^key-b5703db00a42d542235b3e18835ca9e6]
+
+(1) Subject to paragraphs (2) to (4) the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015[^f00020] (“the 2015 Regulations”) are revoked except for regulations 45(3) and (4).
+
+(2) The 2015 Regulations continue to have effect as they did immediately before 16th May 2017 where before that date—
+
+- (a) the applicant or, as the case may be, the appellant has submitted an environmental statement (within the meaning of the 2015 Regulations); or
+- (b) the applicant has made a request under regulation 7(1)(b) of the 2015 Regulations for an opinion as to the information to be provided in the environmental statement.
+
+(3) Parts 1 and 2 of the 2015 Regulations continue to have effect as they did immediately before 16th May 2017 in respect of—
+
+- (a) a request for a determination under regulation 7(1)(a) of the 2015 Regulations made to the council or, as the case may be, the Department, before that date.
+- (b) a determination by the council or, as the case may be, the Department where the process to make the determination was initiated before that date.
+
+(4) Regulations 45(3) and (4) of the 2015 Regulations continue to have effect in respect of the matters specified in paragraph 2(a) to (c) of regulation 40 of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2012.
+
+Sealed with the Official Seal of the Department for Infrastructure on 11th May 2017
+
+Angus Kerr
+
+A senior officer of the
+
+Department for Infrastructure
+
+## SCHEDULE 1 — Descriptions of development and applicable thresholds and criteria for the purpose of the definition of “Schedule 2 development”
+
+Regulation 2(2)
+
+### Interpretation
+
+In this Schedule—
+
+- “airport” means an airport which complies with the definition in the 1944 Chicago Convention setting up the International Civil Aviation Organisation (Annex 14)[^f00021];
+- “express road” means a road which complies with the definition in the European Agreement on Main International Traffic Arteries of 15 November 1975[^f00022];
+- “nuclear power station” and “other nuclear reactor” do not include an installation from the site of which all nuclear fuel and other radioactive contaminated materials have been permanently removed; and development for the purpose of dismantling or decommissioning a nuclear power station or other nuclear reactor shall not be treated as development of the description mentioned in paragraph 2(b) of this Schedule.
+
+### Descriptions of development
+
+The carrying out of development to provide any of the following—
+
+**1.**[^key-10b77c9f8ecfcfb10efe65d1191540a8] Crude-oil refineries (excluding undertakings manufacturing only lubricants from crude oil) and installations for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
+
+**2.**[^key-8596b507d2a3248c0141c9167e85b2fe]  
+
+- (a) Thermal power stations and other combustion installations with a heat output of 300 megawatts or more; and
+- (b) Nuclear power stations and other nuclear reactors (except research installations for the production and conversion of fissionable and fertile materials, whose maximum power does not exceed 1 kilowatt continuous thermal load).
+
+**3.**[^key-c9fc974ba04e6eb7f234d0a2c88fb585]  
+
+- (a) Installations for the reprocessing of irradiated nuclear fuel.
+- (b) Installations designed—
+  - (i) for the production or enrichment of nuclear fuel,
+  - (ii) for the processing of irradiated nuclear fuel or high-level radioactive waste,
+  - (iii) for the final disposal of irradiated nuclear fuel,
+  - (iv) solely for the final disposal of radioactive waste,
+  - (v) solely for the storage (planned for more than 10 years) of irradiated nuclear fuels or radioactive waste in a different site than the production site.
+
+**4.**[^key-00f030abb918e5b0d3196f808570ef27]  
+
+- (a) Integrated works for the initial smelting of cast-iron and steel;
+- (b) Installations for the production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes.
+
+**5.**[^key-de57db8544fa6c3103215e5ffe4b3842] Installations for the extraction of asbestos and for the processing and transformation of asbestos and products containing asbestos—
+
+- (a) for asbestos–cement products, with an annual production of more than 20,000 tonnes of finished products;
+- (b) for friction material, with an annual production of more than 50 tonnes of finished products; and
+- (c) for other uses of asbestos, utilisation of more than 200 tonnes per year.
+
+**6.**[^key-6f33e7af62c22037d302f35e79afcf47] Integrated chemical installations, that is to say, installations for the manufacture on an industrial scale of substances using chemical conversion processes, in which several units are juxtaposed and are functionally linked to one another and which are—
+
+- (a) for the production of base organic chemicals;
+- (b) for the production of basic inorganic chemicals;
+- (c) for the production of phosphorous–, nitrogen– or potassium–based fertilisers (simple or compound fertilisers);
+- (d) for the production of basic plant health products and of biocides;
+- (e) for the production of basic pharmaceutical products using a chemical or biological process;
+- (f) for the production of explosives.
+
+**7.**[^key-c8db44673047f5155128463da74d20c3]  
+
+- (a) Construction of lines for long–distance railway traffic and of airports with a basic runway length of 2,100 metres or more;
+- (b) Construction of motorways and express roads;
+- (c) Construction of a new road of four or more lanes, or realignment and/or widening of an existing road of two lanes or less so as to provide four or more lanes, where such new road, or realigned and/or widened section of road would be 10 kilometres or more in a continuous length.
+
+**8.**[^key-bd9231a469f1c8c8b7b08a038726008e]  
+
+- (a) Inland waterways and ports for inland–waterway traffic which permit the passage of vessels of over 1,350 tonnes;
+- (b) Trading ports, piers for loading and unloading connected to land and outside ports (excluding ferry piers) which can take vessels of over 1,350 tonnes.
+
+**9.**[^key-9fc65b125fee914adae0a3e16e661150] Waste disposal installations for the incineration, chemical treatment (as defined in Annex I to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)), of the European Parliament and of the Council on waste and repealing certain directives[^f00023], under heading D9) or landfill of hazardous waste (as defined in regulation 6 of the Hazardous Waste Regulations (Northern Ireland) 2005**)**[^f00024].
+
+**10.**[^key-9fb650540f07817f5bedfcd46398b194] Waste disposal installations for the incineration or chemical treatment (as defined in Annex I to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) under heading D9) of non-hazardous waste with a capacity exceeding 100 tonnes per day.
+
+**11.**[^key-295b90f45a31ff7245c3422bf85c3531] Groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
+
+**12.**[^key-12b27361e4d2a22333120720912b027d]  
+
+- (a) Works for the transfer of water resources, other than piped drinking water, between river basins where the transfer aims at preventing possible shortages of water and where the amount of water transferred exceeds 100 million cubic metres per year;
+- (b) In all other cases, works for the transfer of water resources, other than piped drinking water, between river basins where the multi-annual average flow of the basin of abstraction exceeds 2,000 million cubic metres per year and where the amount of water transferred exceeds 5% of this flow.
+
+**13.**[^key-35849398401b0a6c2d4b83633df9eb90] Waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in Article 2 point (6) of [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271)[^f00025].
+
+**14.**[^key-b4748e367cee7b8b41da72f21377c0b6] Extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of petroleum and 500,000 cubic metres per day in the case of gas.
+
+**15.**[^key-cf643b85c7b855f39504bff9e47578fe] Dams and other installations designed for the holding back or permanent storage of water, where a new or additional amount of water held back or stored exceeds 10 million cubic metres.
+
+**16.**[^key-88343ac865350f0aae6255998ca30ad2] Pipelines with a diameter of more than 800 millimetres and a length of more than 40 kilometres:
+
+- for the transport of gas, oil or chemicals, or
+- for the transport of carbon dioxide streams for the purposes of geological storage, including associated booster stations.
+
+**17.**[^key-b761a841c31455f78923d02a27d1798d] Installations for the intensive rearing of poultry or pigs with more than—
+
+- (a) 85,000 places for broilers or 60,000 places for hens;
+- (b) 3,000 places for production pigs (over 30 kg); or
+- (c) 900 places for sows.
+
+**18.**[^key-dc6e0bd71f4e99eec52ff108e7309d98] Industrial plants for—
+
+- (a) the production of pulp from timber or similar fibrous materials;
+- (b) the production of paper and board with a production capacity exceeding 200 tonnes per day.
+
+**19.**[^key-03f431388941b1186ec14f551fc3811c] Quarries and open–cast mining where the surface of the site exceeds 25 hectares, or peat extraction where the surface of the site exceeds 150 hectares.
+
+**20.**[^key-549a9c877f44b7e4da82fbcba3974795] Construction of overhead electrical power lines with a voltage of 220 kV or more and a length of more than 15 kilometres.
+
+**21.**[^key-cc68900ce04aa54961a7d8255acd6111] Installations for storage of petroleum, petrochemical or chemical products with a capacity of 200,000 tonnes or more.
+
+**22.**[^key-e915d8ac628931117b21e4e79eedc51a] Storage sites pursuant Chapter 3 of Part 1 of the Energy Act 2008[^key-1b1853b119cb2265288cfc9dd930fba6][^f00024] and any law that implemented to [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide[^f00026].
+
+**23.**[^key-0f19c1e02b03007761896380e57958f4] Installations for the capture of carbon dioxide streams for the purposes<sub></sub>of geological storage pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented[^key-8ac62f5d1681e31629c2497be2d95400] [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) from installations covered by this Schedule, or where the total yearly capture of carbon dioxide is 1.5 megatonnes or more.
+
+**24.**[^key-8cdfe10be7f12997deaad0712b01b982] Any change to or extension of development listed in this Schedule where such a change or extension itself meets the thresholds, if any, or description of development set out in this Schedule.
+
+## SCHEDULE 2 — Descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”
+
+Regulation 2(2)
+
+**1.**[^key-7770eeac4c976be4d3fc2794d05180c4] In the Table below—
+
+- “area of the works”, includes any area occupied by apparatus, equipment, machinery, materials, plant, spoil heaps or other facilities or stores required for construction or installation;
+- “floorspace”, means floorspace in a building or buildings;
+- “waterway” and “underground strata” have the meanings assigned to them by Article 2(2) of the Water (Northern Ireland) Order 1999[^f00027].
+
+**2.**[^key-f18fc166b5926efa6106bddb5821b7bb] The Table below sets out the descriptions of development and applicable thresholds and criteria for the purposes of classifying development as Schedule 2 development.
+
+<table>
+<thead>
+<tr><th colspan="2"><strong>Column 1</strong><br><strong>Description of development</strong></th><th colspan="2"><strong>Column 2</strong><br><strong>Applicable thresholds and criteria</strong></th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">The carrying out of development to provide any of the following—</th></tr>
+<tr><td>1. Agriculture and aquaculture</td><td colspan="3"></td></tr>
+<tr><td>(a) Projects for the use of uncultivated land or semi–natural areas for intensive agricultural purposes;</td><td colspan="3">The area of the development exceeds 0.5 hectare.</td></tr>
+<tr><td>(a) Water management projects for agriculture, including irrigation and land drainage projects;</td><td colspan="3">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td>(a) Intensive livestock installations (unless included in Schedule 1);</td><td colspan="3">The area of floorspace exceeds 500 square metres.</td></tr>
+<tr><td>(a) Intensive fish farming;</td><td colspan="3">The installation resulting from the development is designed to produce more than 10 tonnes of dead weight fish per year.</td></tr>
+<tr><td>(a) Reclamation of land from the sea.</td><td colspan="3">All development.</td></tr>
+<tr><td>2. Extractive industry</td><td colspan="3"></td></tr>
+<tr><td>(a) Quarries, open–cast mining and peat extraction (unless included in Schedule 1);<br>(b) Underground mining;</td><td colspan="3">All development (except the construction of buildings or other ancillary structures where the floorspace does not exceed 1,000 square metres).</td></tr>
+<tr><td>(a) Extraction of minerals by fluvial or marine dredging;</td><td colspan="3">All development.</td></tr>
+<tr><td>(a) Deep drillings, in particular—<br>(i) geothermal drilling;<br>(ii) drilling for the storage of nuclear waste material;<br>(iii) drilling for water supplies;<br>with the exception of drillings for investigating the stability of the soil;</td><td colspan="3">(i) In relation to any type of drilling the area of the works exceeds 1 hectare; or<br>(ii) in relation to geothermal drilling and drilling for the storage of nuclear waste material only, drilling is to be undertaken within 100 metres of any waterway or water in underground strata.</td></tr>
+<tr><td>(a) Surface industrial installations for the extraction of coal, petroleum, natural gas and ores, as well as bituminous shale.</td><td colspan="3">The area of the development exceeds 0.5 hectare.</td></tr>
+<tr><td colspan="4">3. Energy industry</td></tr>
+<tr><td colspan="2">(a) Industrial installations for the production of electricity, steam and hot water (unless included in Schedule 1);</td><td colspan="2">The area of the development exceeds 0.5 hectare.</td></tr>
+<tr><td colspan="2">(a) Industrial installations for carrying gas, steam and hot water;</td><td colspan="2">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Transmission of electrical energy by overhead cables (unless included in Schedule 1);</td><td colspan="2">(i) The nominal voltage of the electric line exceeds 33kV; and<br>(ii) the purpose of the line is the provision of a supply to more than one consumer;<br>(iii) where the modification of an existing line is proposed, it is outside the tolerances specified in the Overhead Lines (Exemption) Regulations (Northern Ireland) 1992 (<a href="https://www.legislation.gov.uk/nisr/1992/118">S.R. 1992 No. 118</a>).</td></tr>
+<tr><td colspan="2">(a) Surface storage of natural gas;<br>(b) Underground storage of combustible gases;<br>(c) Surface storage of fossil fuels;</td><td colspan="2">(i) the area of any building, deposit or structure exceeds 500 square metres; or<br>(ii) a building, deposit or structure is to be sited within 100 metres of any waterway or water in underground strata.</td></tr>
+<tr><td colspan="2">(a) Industrial briquetting of coal and lignite;</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">(a) Installations for the processing and storage of radioactive waste (unless included in Schedule 1);</td><td colspan="2">(i) The area of floorspace exceeds 1,000 square metres; or<br>(ii) the installation resulting from the development will require an authorisation or the variation of an authorisation under the Radioactive Substances Act 1993.</td></tr>
+<tr><td colspan="2">(a) Installations for hydroelectric energy production;</td><td colspan="2">The installation is designed to produce more than 0.5 megawatts.</td></tr>
+<tr><td colspan="2">(a) Installations for the harnessing of wind power for energy production (wind farms).</td><td colspan="2">(i) the development involves the installation of more than 2 turbines; or<br>(ii) the hub height of any turbine or height of any other structure exceeds 15 metres.</td></tr>
+<tr><td colspan="2">(a) Installations for the capture of carbon dioxide streams for the purposes of geological storage pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented <a href="https://www.legislation.gov.uk/european/directive/2009/0031">Directive 2009/31/EC</a> from installations not included in Schedule 1.</td><td colspan="2">All development</td></tr>
+<tr><td colspan="2">4. Production and processing of metals</td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting;<br>(b) Installations for the processing of ferrous metals—<br>(i) hot–rolling mills;<br>(ii) smitheries with hammers;<br>(iii) application of protective fused metal coats.<br>(c) Ferrous metal foundries;<br>(d) Installations for the smelting, including the alloyage, of non–ferrous metals, excluding precious metals, including recovered products (refining, foundry casting, etc.);<br>(e) Installations for surface treatment of metals and plastic materials using an electrolytic or chemical process;<br>(f) Manufacture and assembly of motor vehicles and manufacture of motor–vehicle engines;<br>(g) Shipyards;<br>(h) Installations for the construction and repair of aircraft;<br>(i) Manufacture of railway equipment;<br>(j) Swaging by explosives;<br>(k) Installations for the roasting and sintering of metallic ores.</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">5. Mineral industry</td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Coke ovens (dry coal distillation);<br>(b) Installations for the manufacture of cement;<br>(c) Installations for the production of asbestos and the manufacture of asbestos-based products (unless included in Schedule 1);<br>(d) Installations for the manufacture of glass including glass fibre;<br>(e) Installations for smelting mineral substances including the production of mineral fibres;<br>(f) Manufacture of ceramic products by burning, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain.</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">6. Chemical industry (unless included in Schedule 1)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Treatment of intermediate products and production of chemicals;<br>(b) Production of pesticides and pharmaceutical products, paint and varnishes, elastomers and peroxides;</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">(a) Storage facilities for petroleum, petrochemical and chemical products.</td><td colspan="2">(i) The area of any building or structure exceeds 0.05 hectare; or<br>(ii) more than 200 tonnes of petroleum, petrochemical or chemical products is to be stored at any one time.</td></tr>
+<tr><td colspan="4">7. Food industry</td></tr>
+<tr><td colspan="2">(a) Manufacture of vegetable and animal oils and fats;<br>(b) Packing and canning of animal and vegetable products;<br>(c) Manufacture of dairy products;<br>(d) Brewing and malting;<br>(e) Confectionery and syrup manufacture;<br>(f) Installations for the slaughter of animals;<br>(g) Industrial starch manufacturing installations;<br>(h) Fish–meal and fish–oil factories;<br>(i) Sugar factories.</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">8. Textile, leather, wood and paper industries</td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Industrial plants for the production of paper and board (unless included in Schedule 1);<br>(b) Plants for the pre–treatment (operations such as washing, bleaching, mercerisation) or dyeing of fibres or textiles;<br>(c) Plants for the tanning of hides and skins;<br>(d) Cellulose–processing and production installations.</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">9. Rubber industry</td><td colspan="2"></td></tr>
+<tr><td colspan="2">Manufacture and treatment of elastomer–based products.</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">10. Infrastructure projects</td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Industrial estate development projects;<br>(b) Urban development projects, including the construction of shopping centres and car parks;<br>(c) Construction of intermodal transshipment facilities and of intermodal terminals (unless included in Schedule 1);</td><td colspan="2">The area of the development exceeds 0.5 hectare.</td></tr>
+<tr><td colspan="2">(a) Construction of railways (unless included in Schedule 1);</td><td colspan="2">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Construction of airfields (unless included in Schedule 1);</td><td colspan="2">(i) The development involves an extension to a runway; or<br>(ii) the area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Construction of roads (unless included in Schedule 1);</td><td colspan="2">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Construction of harbours and port installations, including fishing harbours (unless included in Schedule 1);</td><td colspan="2">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Inland–waterway construction (unless included in Schedule 1), canalisation and flood–relief works;<br>(b) Dams and other installations designed to hold water or store it on a long–term basis (unless included in Schedule 1);<br>(c) Tramways, elevated and underground railways, suspended lines or similar lines of a particular type, used exclusively or mainly for passenger transport;</td><td colspan="2">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Oil and gas pipeline installations and pipelines for the transport of carbon dioxide streams for the purposes of geological storage (unless included in Schedule 1);<br>(b) Installations of long–distance aqueducts;</td><td colspan="2">(i) The area of the works exceeds 1 hectare; or,<br>(ii) in the case of a gas pipeline, the installation has a design operating pressure exceeding 7 bar gauge.</td></tr>
+<tr><td colspan="2">(a) Coastal work to combat erosion and maritime works capable of altering the coast through the construction, for example, of dykes, moles, jetties and other sea defence works, excluding the maintenance and reconstruction of such works;</td><td colspan="2">All development.</td></tr>
+<tr><td colspan="2">(a) Ground water abstraction and artificial ground water recharge schemes (unless included in Schedule 1);<br>(b) Works for the transfer of water resources between river basins (unless included in Schedule 1).</td><td colspan="2">The area of the works exceeds 1 hectare.</td></tr>
+<tr><td colspan="4">11. Other projects</td></tr>
+<tr><td colspan="2">(a) Permanent racing and test tracks for motorised vehicles;</td><td colspan="2">The area of the development exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">(a) Installations for the disposal of waste (unless included in Schedule 1);</td><td colspan="2">(i) The disposal is by incineration; or<br>(ii) the area of the development exceeds 0.5 hectare; or<br>(iii) the installation is to be sited within 100 metres of any waterway or water in underground strata or, marine waters.</td></tr>
+<tr><td colspan="2">(a) Waste–water treatment plants (unless included in Schedule 1);</td><td colspan="2">The area of the development exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">(a) Sludge–deposition sites;<br>(b) Storage of scrap iron, including scrap vehicles;</td><td colspan="2">(i) The area of the deposit or storage exceeds 0.5 hectare; or<br>(ii) a deposit is to be made or scrap stored within 100 metres of any waterway or water in underground strata or, marine waters.</td></tr>
+<tr><td colspan="2">(a) Test benches for engines, turbines or reactors;<br>(b) Installations for the manufacture of artificial mineral fibres;<br>(c) Installations for the recovery or destruction of explosive substances;<br>(d) Knackers’ yards.</td><td colspan="2">The area of floorspace exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">12. Tourism and leisure</td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Ski–runs, ski–lifts and cable–cars and associated developments;</td><td colspan="2">(i) The area of the works exceeds 1 hectare; or<br>(ii) the height of any building or other structure exceeds 15 metres.</td></tr>
+<tr><td colspan="2">(a) Marinas;</td><td colspan="2">The area of the enclosed water surface exceeds 1,000 square metres.</td></tr>
+<tr><td colspan="2">(a) Holiday villages and hotel complexes outside urban areas and associated developments;<br>(b) Theme parks;</td><td colspan="2">The area of the development exceeds 0.5 hectare.</td></tr>
+<tr><td colspan="2">(a) Permanent camp sites and caravan sites.</td><td colspan="2">The area of the development exceeds 1 hectare.</td></tr>
+<tr><td colspan="2">13.  </td><td colspan="2"></td></tr>
+<tr><td colspan="2">(a) Any change to or extension of development of a description listed in paragraphs 1 to 12 of column 1 of this table, where that development is already authorised, executed or in the process of being executed.<br>(b) Any change to or extension of development of a description listed in Schedule 1 (other than a change or extension falling within paragraph 24 of that Schedule) where that development is already authorised, executed or in the process of being executed.</td><td colspan="2">The thresholds and criteria in the corresponding part of column 2 of this table applied to the development as changed or extended are met or exceeded and in such a case the change or extension may have significant adverse effects on the environment;<br>The thresholds and criteria in column 2 of the paragraph of this table indicated below applied to the development as changed or extended are met or exceeded and in such a case the change or extension may have significant adverse effects on the environment.</td></tr>
+<tr><td colspan="2"></td><td><strong>Paragraph in</strong><br><strong>Schedule 1</strong></td><td><strong>Paragraph of</strong><br><strong>this table</strong></td></tr>
+<tr><td colspan="2"></td><td>1</td><td>6 (a)</td></tr>
+<tr><td colspan="2"></td><td>2(a)</td><td>3 (a)</td></tr>
+<tr><td colspan="2"></td><td>2(b)</td><td>3 (h)</td></tr>
+<tr><td colspan="2"></td><td>3</td><td>3 (h)</td></tr>
+<tr><td colspan="2"></td><td>4</td><td>4</td></tr>
+<tr><td colspan="2"></td><td>5</td><td>5</td></tr>
+<tr><td colspan="2"></td><td>6</td><td>6 (a)</td></tr>
+<tr><td colspan="2"></td><td>7(a)</td><td>10 (d) (in relation to railways) or 10 (e) (in relation to airports)</td></tr>
+<tr><td colspan="2"></td><td>7(b) and (c)</td><td>10 (f)</td></tr>
+<tr><td colspan="2"></td><td>8(a)</td><td>10 (h)</td></tr>
+<tr><td colspan="2"></td><td>8(b)</td><td>10 (g)</td></tr>
+<tr><td colspan="2"></td><td>9</td><td>11 (b)</td></tr>
+<tr><td colspan="2"></td><td>10</td><td>11 (b)</td></tr>
+<tr><td colspan="2"></td><td>11</td><td>10 (n)</td></tr>
+<tr><td colspan="2"></td><td>12</td><td>10 (o)</td></tr>
+<tr><td colspan="2"></td><td>13</td><td>11 (c)</td></tr>
+<tr><td colspan="2"></td><td>14</td><td>2 (e)</td></tr>
+<tr><td colspan="2"></td><td>15</td><td>10 (i)</td></tr>
+<tr><td colspan="2"></td><td>16</td><td>10 (k)</td></tr>
+<tr><td colspan="2"></td><td>17</td><td>1 (c)</td></tr>
+<tr><td colspan="2"></td><td>18</td><td>8 (a)</td></tr>
+<tr><td colspan="2"></td><td>19</td><td>2 (a)</td></tr>
+<tr><td colspan="2"></td><td>20</td><td>3 (c)</td></tr>
+<tr><td colspan="2"></td><td>21</td><td>6 (c)</td></tr>
+<tr><td colspan="2"></td><td>22</td><td>3 (k)</td></tr>
+<tr><td colspan="2"></td><td>23</td><td>3 (k)</td></tr>
+<tr><td colspan="2">(a) Development of a description mentioned in Schedule 1, undertaken exclusively or mainly for the development and testing of new methods or products and not used for more than two years.</td><td colspan="2">All development</td></tr>
+</tbody>
+</table>
+
+[^key-422da5939f70cf43f85dec10308ae970]
+
+## SCHEDULE 3 — Selection criteria referred to in Article 4.3 of the Directive[^key-1791d00a3370a66f998a52c4d17ba33b]
+
+Regulation 2(2) definition of “selection criteria”
+
+### 1. Characteristics of development[^key-1791d00a3370a66f998a52c4d17ba33b]
+
+The characteristics of development shall be considered having regard, in particular, to—
+
+- (a) the size and design of the whole development;
+- (b) the cumulation with other existing development and/or approved development;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents and/or disasters which are relevant to the development concerned, including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of development[^key-1791d00a3370a66f998a52c4d17ba33b]
+
+The environmental sensitivity of geographical areas likely to be affected by development shall be considered, with particular regard to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under national legislation and areas designated pursuant to Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00028] and Council [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) on the conservation of wild birds[^f00029];
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards laid down in Union legislation and relevant to the development, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Characteristics of the potential impact[^key-1791d00a3370a66f998a52c4d17ba33b]
+
+The likely significant effects of development on the environment shall be considered in relation to criteria set out under paragraphs 1 and 2 of this Schedule, with regard to the impact of the development on the factors specified in regulation 5(2), taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing and/or approved development;
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 4 — Matters for Inclusion in Environmental Statement
+
+Regulation 11(2)
+
+**1.**[^key-794f0e00644bab5e7bf41ce3240c6211] Description of the development, including in particular—
+
+- (a) a description of the location of the development;
+- (b) a description of the physical characteristics of the whole development, including, where relevant, requisite demolition works, and the land–use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the development (in particular any production processes), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.**[^key-00e629ed510013ad4b53be3c37e0b455] A description of the reasonable alternatives (for example in terms of development design, technology, location, size and scale) studied by the applicant or appellant, which are relevant to the proposed development and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.**[^key-8eb58f421ef6fa31dd3bfc211e89c76a] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the development as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of availability of environmental information and scientific knowledge.
+
+**4.**[^key-29c08face2f2f58728bfc1d2808bb086] A description of the factors specified in regulation 5(2) likely to be significantly affected by the development: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.**[^key-0ef305bf915d83ef40c7687e9701ff40] A description of the likely significant effects of the development resulting from, inter alia:
+
+- (a) the construction and existence of the development, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing and/or approved development, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the development on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the development to climate change;
+- (g) the technologies and the substances used.
+
+The description of the likely significant effects on the factors specified in regulation 5(2) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the development. This description should take into account the environmental protection objectives established at Union or United Kingdom level (as they had effect immediately before exit day)[^key-749d5ccc23853d07bd39db45836e143d] which are relevant to the development including in particular those established under any law that implemented[^key-281d9797120b6189342d7820448d32f6] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147).
+
+**6.**[^key-89d61bbf6f6a811056fc45e924ccf5a9] A description of the forecasting methods or evidence used to identify and assess the significant effects on the environment, including details of the difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.**[^key-47a014333fc08ab916cdc349cecdf426] A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-development analysis). That description should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**8.**[^key-659909e181c30bcb9654cc51ad44c6eb] A description of the expected significant adverse effects of the development on the environment deriving from the vulnerability of the development to risks to major accidents and/or disasters which are relevant to the development concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation such as any law that implemented[^key-b06c9796621534b839e93b8a1794b7ac] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council or Council Directive 2009/71/Euratom as it had effect immediately before IP completion day[^M_F_f0b85fac-2d07-439c-b5b7-d8b6872da5a6] or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of any law that implemented[^key-84f90beb68b6282149771d58552a5490] the Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**9.**[^key-b5d79a5aa86d24b3bdf679986d18b43c] A non–technical summary of the information provided under paragraphs 1 to 8.
+
+**10.**[^key-d738d21a8be6b9ddf92b722a647b705d] A reference list detailing the sources used for the descriptions and assessments included in the Environmental Statement.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations revoke and replace the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015.
+
+These Regulations implement, in respect of the planning system in Northern Ireland, [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment (O.J. No. L26, 28.1.2012, p.1), as amended by Council [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) (O.J. No. L124, 25.04.2014, p.1) which came into operation on 15 May 2014.
+
+Part 1 defines terms used in the Regulations, sets out the Department’s power of direction, ensures that EIA development cannot be permitted without the consideration of environmental information, describes the environmental impact assessment process, sets out the matters that confirm that development is EIA development and provides that the Planning Appeals Commission (the Commission) can carry out council or Departmental functions in respect of appeals under section 58 or 60 of the 2011 Act.
+
+Part 2 sets out pre-application procedures under which a developer can ask the council or Department to give a determination as to whether proposed development is EIA development or an opinion as to the information to be provided in an environmental statement.
+
+Part 3 contains procedures to facilitate the preparation of environmental statements and the provision of information relevant to their preparation and sets out the minimum content and requirements when preparing an environmental statement.
+
+Part 4 sets out procedures for dealing with applications on receipt by a council or the Department. These include those for determining whether or not the application is an EIA application, consideration of any environmental information previously provided, requiring an environmental statement to be provided and provisions for the Department to process EIA applications referred to it under section 29 of the 2011 Act without an environmental statement. The period for making a decision on planning applications or subsequent applications is extended for EIA applications.
+
+Part 5 contains the publicity arrangements for environmental statements including the availability of copies, consultation requirements, the need for further information and evidence, and charges for the cost of printing and distributing the environmental statement.
+
+Part 6 is new and ensures that, where the proposed development also requires a Habitats Regulations Assessment, the environmental impact assessment is coordinated with that assessment, sets out the procedures when considering whether planning permission or subsequent consent should be granted, specifies the factors to bear in mind when considering whether to impose monitoring measures, describes the information to accompany a decision and details the arrangements for informing the public of decisions.
+
+Part 7 deals with development by a council, modifying the Regulations as appropriate.
+
+Part 8 sets out transboundary procedures where development in Northern Ireland is likely either to affect other EEA states, or the reverse.
+
+Part 9 contains the procedures for unauthorised development which is or appears to be EIA development.
+
+Part 10 restricts the grant of planning permission under simplified planning zone and enterprise zone schemes and any development order made after the commencement of these Regulations.
+
+Part 11 requires the council and the Department to perform their duties in an objective manner and avoid conflicts of interest, sets out the requirements to make information available for inspection, specifies the circumstances in which the Commission will allow people to appear before it and be heard, and the effect of the Commission’s report on determinations. It also details how electronic communications will apply to applications, applies the Regulations to the Crown and revokes the 2015 Regulations with saving and transitional provisions.
+
+Schedule 1 lists the developments for which environmental assessment is mandatory. Schedule 2 lists, with thresholds/criteria, development for which environmental assessment is required if it has significant environmental effects. Schedule 3 lists the selection criteria to be taken into account to determine whether a development listed in Schedule 2 should be subject to an environmental impact assessment. Schedule 4 lists matters for inclusion in an environmental statement. Schedule 5 lists the extent of the revocations imposed by these Regulations.
+
+A Regulatory Impact Assessment has been prepared in relation to these Regulations. A copy may be obtained from the Department for Infrastructure, Planning Policy Division, Clarence Court, 10-18 Adelaide Street, Town Parks, Belfast BT2 8GB (Tel: 028 9054 0572) or accessed at http://www.planningni.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301)
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) The enabling powers of section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51)
+
+[^f00003]: Footnote: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^key-8b6b02cc19b1df7a0ce70b6e32e90d03]: Commencement: Reg. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-4de20de496bd3b017525d43b57934ca7]: Commencement: Reg. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00004]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/nia/1954/33)
+
+[^f00005]: Footnote: O.J. No. L26, 28.1.2012, p.1-21
+
+[^f00006]: Footnote: O.J. No. L124, 25.4.2014, p.1-18
+
+[^key-87b066da882d9cc108f1c6846811f08a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_7993321a-74cd-48a8-fad4-3efa3f6218ed]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/5)
+
+[^f00007]: Footnote: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9) (as amended by [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21))
+
+[^f00008]: Footnote: [S.I. 2017 No. 571](https://www.legislation.gov.uk/uksi/2017/571)
+
+[^f00009]: Footnote: [S.R. 2015 No. 72](https://www.legislation.gov.uk/nisr/2015/72)
+
+[^f00010]: Footnote: [S.R. 2015 No. 39](https://www.legislation.gov.uk/nisr/2015/39)
+
+[^f00011]: Footnote: [S.I. 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
+
+[^f00012]: Footnote: [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170)
+
+[^f00013]: Footnote: *See* Command Paper 9424
+
+[^f00014]: Footnote: [S.I. 1995/1625 (N.I. 9)](https://www.legislation.gov.uk/nisi/1995/1625)
+
+[^f00015]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
+
+[^key-aa70c1b9092e3e5eea3799e791013f53]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d67f9e145730efc91193bf9af0bbbac]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 28](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/28)
+
+[^key-76305d439d9b0d3255b85ca488b8b742]: Commencement: Reg. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-2aca86bcba8ecea030f63c5c98068330]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-53d99ba53d411d7f4c69a22fc65b1851]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/1A) inserted (30.1.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-44dc1cce289fc1592acdb449b685aef9]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/4) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-94c5ccb1c67b9023545557d72446c54a]: Commencement: Reg. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-21f7f37958206a2bfed48759071e85bf]: Commencement: Reg. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-688dcef0aa4379f83f30bbdaf83d3b76]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/5/2/b) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00016]: Footnote: O.J. No. L206, 22.7.92, p.7
+
+[^f00017]: Footnote: O.J. No. L20, 26.1.2010, p.7
+
+[^key-0f3d45da5638157be2ae8c29abbc7fbc]: Commencement: Reg. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e5f76f9382a51e1e1060f0e60ed60b57]: Commencement: Reg. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e0bd051676d1cc7e0b3adf4058bddb15]: Commencement: Reg. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-0f07832bf312579cbb042a2dd230e385]: Commencement: Reg. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-91bbb4d3b11dfbd95d496a6e46fa9f5e]: Commencement: Reg. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00018]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)
+
+[^key-1eef5170b71902c74d465fcd3a1c01be]: Commencement: Reg. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-7c9c06f40f2f3b1a844db494229a4cef]: Commencement: Reg. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-09378ee0fe679a4ca130eb902ace1d62]: Commencement: Reg. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-f6328c2929392de44d02597d5320a836]: Commencement: Reg. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-0707e375a678a18a70abc9efed07cebe]: Commencement: Reg. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-c9f6d648ea47f1674ff85bdd7449ab15]: Commencement: Reg. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-af214460b4f0e64e2e0415b345fd9421]: Commencement: Reg. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-d013790436edd35e82d540c4004149a1]: Commencement: Reg. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-c344c5a4c9f6e5ed37a95f2b8366dbe8]: Commencement: Reg. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-5710b099f32170937532b8263e263aa1]: Commencement: Reg. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-3694459ae84b89f7e68b4ad65d056467]: Commencement: Reg. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-b0e2fdb1a20def691b0604e3c2741c80]: Commencement: Reg. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e35a386c310146c274a72179e11590d8]: Commencement: Reg. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-cf5e074d981ac0c8fbe7829664596e50]: Commencement: Reg. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-f6fdb749267969548cfba626a474cea5]: Commencement: Reg. 25 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-2e81507f59e58f93932ac4eb99dd237b]: Commencement: Reg. 26 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e3e2563ffea9da806ee783a8f7a95ba8]: Commencement: Reg. 27 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e3a3a569cbb95f8f1273b86d400bb9cf]: Commencement: Reg. 28 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-8699582a087e0d8b91a48f3e34ea8a66]: Commencement: Reg. 29 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-390a9f5341610f875cbaadc608dcbf97]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/nisr/2017/83/regulation/29) heading substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f99b9e27b802c82739b6316c3a13f04f]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a71c6e1b54d70e7578c24da31730e89a]: Textual amendment: Word in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f74bcbf85fe4d9b8f49db5bd22b2c005]: Textual amendment: Word in [reg. 29(3)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/3) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6fcf88dc93debe582ad5fd38d70d5bc4]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/5) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a8956d041672f360c8a637fe32b3c45a]: Textual amendment: Word in [reg. 29(6)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/6/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3c697b571be3c3dd24ffb5a17946f4e1]: Commencement: Reg. 30 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-262aff715d883a81ce98942c9893d4f2]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/nisr/2017/83/regulation/30) heading substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f1dd1193b742a424a320c46771d77b1]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8d095fac257b54d37fb62c4763bff83a]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89e2db82834b4071c0d40b3754f88645]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-352294046e7269b173f59636d3cdd21e]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1/b) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(aa)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/aa)[(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-59d303eda3b1a68f1972c4139cede347]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iv)[(bb)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cf64ed4edd9141a6032ae7ae29dfb74f]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/2/c) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-172a3b83d7877be00b971ea92b83022b]: Commencement: Reg. 31 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-96f882e7921fd7c329c0048dd473c656]: Commencement: Reg. 32 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-8f0a2deecc7a3e965bbce7b20d310c33]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2017/83/regulation/32) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ea34bc890fbbd5790dbbccc384234cb]: Commencement: Reg. 33 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-55c3f8426da660a393611191a4412d07]: Commencement: Reg. 34 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-441c88bc228209b0eb050778c3869b50]: Commencement: Reg. 35 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-de85c038563bff6ff02aed334029fbf0]: Commencement: Reg. 36 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-b0c30411fd24ea71bbc639e48b917957]: Commencement: Reg. 37 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-16566140f4712b4b9b8c3c1ec33e088d]: Commencement: Reg. 38 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-ad0e01f83b867ef3033045915d7889b0]: Commencement: Reg. 39 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-3fc5d469e20f08bc4af2d0775caabe85]: Commencement: Reg. 40 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-bf0129517cb75d4d133ed0898d4b8544]: Textual amendment: Word in [reg. 40(a)](https://www.legislation.gov.uk/nisr/2017/83/regulation/40/a) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-db001e039eacc3bda7219f2bf4826fef]: Commencement: Reg. 41 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00019]: Footnote: [S.I. 1981/607 (N.I. 15)](https://www.legislation.gov.uk/nisi/1981/607)
+
+[^key-1348f279b1aa379a7545085692be8305]: Commencement: Reg. 42 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-a52d595ba10985947afda560637b9f60]: Commencement: Reg. 43 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-065c4e741edce3b01b36960a4afb9fef]: Commencement: Reg. 44 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-4f0fe71120a5f059e6884d45a7241f59]: Commencement: Reg. 45 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e04e15611a1e1fbecf1d152fa6e8bdd8]: Commencement: Reg. 46 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-d8c21f7ff7ff4a0e06cdfdc84553b6aa]: Commencement: Reg. 47 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-b5703db00a42d542235b3e18835ca9e6]: Commencement: Reg. 48 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00020]: Footnote: [S.R. 2015 No. 74](https://www.legislation.gov.uk/nisr/2015/74)
+
+[^f00021]: Footnote: *See* Command Paper 6614
+
+[^f00022]: Footnote: *See* Command Paper 6993
+
+[^key-10b77c9f8ecfcfb10efe65d1191540a8]: Commencement: Sch. 1 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-8596b507d2a3248c0141c9167e85b2fe]: Commencement: Sch. 1 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-c9fc974ba04e6eb7f234d0a2c88fb585]: Commencement: Sch. 1 para. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-00f030abb918e5b0d3196f808570ef27]: Commencement: Sch. 1 para. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-de57db8544fa6c3103215e5ffe4b3842]: Commencement: Sch. 1 para. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-6f33e7af62c22037d302f35e79afcf47]: Commencement: Sch. 1 para. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-c8db44673047f5155128463da74d20c3]: Commencement: Sch. 1 para. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-bd9231a469f1c8c8b7b08a038726008e]: Commencement: Sch. 1 para. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-9fc65b125fee914adae0a3e16e661150]: Commencement: Sch. 1 para. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00023]: Footnote: O.J. No. L312, 22.11.08, p.3.
+
+[^f00024]: Footnote: [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
+
+[^key-9fb650540f07817f5bedfcd46398b194]: Commencement: Sch. 1 para. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-295b90f45a31ff7245c3422bf85c3531]: Commencement: Sch. 1 para. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-12b27361e4d2a22333120720912b027d]: Commencement: Sch. 1 para. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-35849398401b0a6c2d4b83633df9eb90]: Commencement: Sch. 1 para. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00025]: Footnote: O.J. No. L135, 30.5.91, p.40
+
+[^key-b4748e367cee7b8b41da72f21377c0b6]: Commencement: Sch. 1 para. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-cf643b85c7b855f39504bff9e47578fe]: Commencement: Sch. 1 para. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-88343ac865350f0aae6255998ca30ad2]: Commencement: Sch. 1 para. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-b761a841c31455f78923d02a27d1798d]: Commencement: Sch. 1 para. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-dc6e0bd71f4e99eec52ff108e7309d98]: Commencement: Sch. 1 para. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-03f431388941b1186ec14f551fc3811c]: Commencement: Sch. 1 para. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-549a9c877f44b7e4da82fbcba3974795]: Commencement: Sch. 1 para. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-cc68900ce04aa54961a7d8255acd6111]: Commencement: Sch. 1 para. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-e915d8ac628931117b21e4e79eedc51a]: Commencement: Sch. 1 para. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-1b1853b119cb2265288cfc9dd930fba6]: Textual amendment: Words in [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2017/83/schedule/1/paragraph/22) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(9)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00026]: Footnote: O.J. No. L140, 5.6.2009, p.114
+
+[^key-0f19c1e02b03007761896380e57958f4]: Commencement: Sch. 1 para. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-8ac62f5d1681e31629c2497be2d95400]: Textual amendment: Words in [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2017/83/schedule/1/paragraph/23) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8cdfe10be7f12997deaad0712b01b982]: Commencement: Sch. 1 para. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-7770eeac4c976be4d3fc2794d05180c4]: Commencement: Sch. 2 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00027]: Footnote: [S.I. 1999 No. 662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662) as amended by [S.I. 2006 No. 3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
+
+[^key-f18fc166b5926efa6106bddb5821b7bb]: Commencement: Sch. 2 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-422da5939f70cf43f85dec10308ae970]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2017/83/schedule/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1791d00a3370a66f998a52c4d17ba33b]: Commencement: Sch. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^f00028]: Footnote: O.J. No. L206, 22.7.92, p7
+
+[^f00029]: Footnote: O.J. No. L20, 26.1.2010, p7
+
+[^key-794f0e00644bab5e7bf41ce3240c6211]: Commencement: Sch. 4 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-00e629ed510013ad4b53be3c37e0b455]: Commencement: Sch. 4 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-8eb58f421ef6fa31dd3bfc211e89c76a]: Commencement: Sch. 4 para. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-29c08face2f2f58728bfc1d2808bb086]: Commencement: Sch. 4 para. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-0ef305bf915d83ef40c7687e9701ff40]: Commencement: Sch. 4 para. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-749d5ccc23853d07bd39db45836e143d]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/5) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-281d9797120b6189342d7820448d32f6]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/5) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89d61bbf6f6a811056fc45e924ccf5a9]: Commencement: Sch. 4 para. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-47a014333fc08ab916cdc349cecdf426]: Commencement: Sch. 4 para. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-659909e181c30bcb9654cc51ad44c6eb]: Commencement: Sch. 4 para. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-b06c9796621534b839e93b8a1794b7ac]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_f0b85fac-2d07-439c-b5b7-d8b6872da5a6]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/5)
+
+[^key-84f90beb68b6282149771d58552a5490]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b5d79a5aa86d24b3bdf679986d18b43c]: Commencement: Sch. 4 para. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+
+[^key-d738d21a8be6b9ddf92b722a647b705d]: Commencement: Sch. 4 para. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)

@@ -1,0 +1,248 @@
+---
+title: The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+id: nisr/1997/130
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-03-06'
+text_date: '2003-03-03'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/130
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/130/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+
+> Text as at 2003-03-03.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 130
+
+SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+
+Made
+
+6th March 1997
+
+Coming into operation—
+
+for the purposes of regulations 1, 2 and 6
+
+21st March 1997
+
+for the purposes of regulation 8
+
+6th April 1997
+
+for all other purposes
+
+7th April 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by Articles 2(2), 6(1)(*b*) and (5), 14(1), (2) and (4)(*b*), 21(8)(*b*)(i), 28(4)(*i*) and (*l*), 36(1) and (2) and 39 of, and paragraph 1(1) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00001], sections 122(1)(*a*), 132(3) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], sections 59 and 165(1) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and Articles 4 and 19(1) of the Child Support (Northern Ireland) Order 1995[^f00004] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-0974888df231e2af03d4e09f11a9b684]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and shall come into operation—
+
+- (a) for the purposes of this regulation and of regulations 2 and 6, on 21st March 1997;
+- (b) for the purposes of regulation 8, on 6th April 1997, and
+- (c) for all other purposes, on 7th April 1997.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Amendment of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations[^key-659e5fc2886dd06ca662af076e8d6205]
+
+In section 35(9) of the National Insurance Act (Northern Ireland) 1966[^f00006], as continued in force by regulation 2(3) of, and Schedule 1 to, the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978[^f00007] for “regulation 9(5) of the Jobseeker’s Allowance (Transitional Provisions) Regulations (Northern Ireland) 1996” there shall be substituted “regulation 10(6) of the Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996[^f00008]”.
+
+## 3. Amendment of the Social Security (General Benefit) Regulations[^key-b8c3d64ac6f3a9d8568adcc9403fbd4e]
+
+In regulation 9 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00009] (payment of benefit and suspension of payments pending a decision on appeals or references, arrears and repayments) paragraphs (5), (6) and (6A) shall be omitted.
+
+## 4. Amendment of the Income Support (General) Regulations[^key-2187f5a365da488e8b041109ab738813]
+
+In regulation 35 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00010] (earnings of employed earners)—
+
+- (a) in paragraph (2)[^f00011] after sub-paragraph (*d*) there shall be added the following sub-paragraph—
+
+  > - (e) any lump sum payment made under the Iron and Steel Employees Re-adaptation Benefits Scheme[^f00012];
+- (b) in paragraph (3)(*a*)(ii)[^f00013] for “(*d*)” there shall be substituted “(*e*)”.
+
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-70ebbf39f1cb644afe5c2393866b3d80]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00014] shall be amended in accordance with paragraphs (2) to (12).
+
+(2) In regulation 1(2) (interpretation), in the definition of “week”[^f00015] after “in” there shall be inserted “the definition of “full-time student” and”.
+
+(3) In regulation 51(1)[^f00016] (remunerative work) for “work is work” there shall be substituted “ “work” is work”.
+
+(4) In regulation 72 (good cause for the purposes of Article 21(5)(*a*) and (6)(*c*) and (*d*) of the Order)—
+
+- (a) in paragraph (5) sub-paragraph (*c*) shall be omitted;
+- (b) after paragraph (5) there shall be inserted the following paragraph—
+
+  > (5A) A person is to be regarded as having good cause for any act or omission for the purposes of Article 21(6)(*c*) and (*d*) of the Order if—
+  >
+  > - (a) in a case where it has been agreed that the claimant may restrict his hours of availability to less than 24 hours a week, the employment in question is for less than 16 hours a week, or
+  > - (b) in a case not falling within sub-paragraph (*a*), the employment is for less than 24 hours a week.
+
+  .
+
+(5) In regulation 75 (interpretation for the purposes of Article 21 of the Order and Part V)—
+
+- (a) in paragraph (2) after “regulation 69 (prescribed period)” there shall be inserted “and the first occasion on which the word occurs in regulation 72(5A)(*a*)[^f00017]”;
+- (b) in paragraph (3) for “and regulation 69” there shall be substituted “, regulation 69 and the first occasion on which the word occurs in regulation 72(5A)(*a*)”.
+
+(6) In regulation 80(1) (deductions in respect of earnings) for “week” there shall be substituted “benefit week”.
+
+(7) In regulation 81(2)[^f00018] (payments by way of pensions) for sub-paragraph (*c*) there shall be substituted the following sub-paragraph—
+
+> - (c) any payments from a personal pension scheme, an occupational pension scheme or a public service pension scheme which are payable to him and which arose in accordance with the terms of such a scheme on the death of a person who was a member of the scheme in question.
+
+.
+
+(8) In regulation 85(1) (applicable amounts in special cases) for “capital if calculated” there shall be substituted “capital, if calculated”.
+
+(9) In regulation 97(1)[^f00019] (calculation of weekly amount of income) for “(6)” there shall be substituted “(7)”.
+
+(10) In regulation 98(2)[^f00020] (earnings of employed earners) after sub-paragraph (*f*) there shall be added the following sub-paragraph—
+
+> - (g) any lump sum payment made under the Iron and Steel Employees Re-adaptation Benefits Scheme
+
+.
+
+(11) In regulation 103(5) (calculation of income other than earnings) for “week” there shall be substituted “benefit week”.
+
+(12) In paragraph 38 of Schedule 6 (disregard of sums in the calculation of income other than earnings) for “week” there shall be substituted “benefit week”.
+
+## 6. Amendment of the Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations[^key-e091596a4089ecc54e72542e2c9f22a5]
+
+(1) The Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996[^f00021] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 8(6) (claims for entitlement to a jobseeker’s allowance) after “applies” there shall be inserted “or 156 days in a case to which paragraph (5) applies”.
+
+(3) In regulation 9(3)(*b*) (further provisions applying to a continuing entitlement to a jobseeker’s allowance)—
+
+- (a) at the end of head (i) there shall be inserted “or”;
+- (b) in head (ii) after “that day” there shall be inserted “is after the last day of the transitionally protected period and”;
+- (c) at the end of head (ii) “, or” shall be omitted;
+- (d) head (iii) shall be omitted.
+
+(4) In regulation 10(7) (transitionally protected period) after “paragraph 1 of” there shall be inserted “Part I of”.
+
+## 7. Amendment of the Social Security (Back to Work Bonus) (No. 2) Regulations[^key-397c2e8148aa21a36bd291b03fb0bdaa]
+
+(1) The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00022] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 18(3) (death) after “regulation 6 (waiting period)” there shall be inserted “where that partner becomes entitled to a qualifying benefit no more than 12 weeks after the date of death”.
+
+(3) In regulation 19(6) (trade disputes) for “the partner’s earnings” there shall be substituted “that partner’s or that person’s earnings”.
+
+## .... Amendment of the Social Security (Child Maintenance Bonus) Regulations[^key-1c216325ea570db4ae1985b49aa98ecd][^key-1c216325ea570db4ae1985b49aa98ecd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Revocation[^key-9b2106760f092c3cf90031645e273b4f]
+
+The Social Security (General Benefit) (Amendment) Regulations (Northern Ireland) 1984[^f00026] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+6th March 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations primarily amend the Jobseeker’s Allowance Regulations (Northern Ireland) 1996, the Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996 and the Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996 by both correcting a number of technical errors (regulations 5, 6 and 7) and making certain other amendments. In particular, those amendments—
+
+- (a) clarify what constitutes good cause for the purpose of any sanction imposed under the Jobseekers (Northern Ireland) Order 1995 (regulation 5(4) and (5));
+- (b) allow any pension payments made to a jobseeker as a result of the death of a person who was a member of a pension scheme, to be disregarded in the calculation of a contribution-based jobseeker’s allowance (regulation 5(7));
+- (c) provide that payments under the Iron and Steel Employees Re-adaptation Benefits Scheme should not be treated as earnings or as a compensation payment for jobseeker’s allowance purposes (regulation 5(10));
+- (d) provide that an income support claimant’s earnings should count towards a Back to Work Bonus if they are involved in a trade dispute and become incapable of work or enter their maternity pay period (regulation 7(3));
+- (e) clarify the formula whereby days of unemployment benefit count as days of entitlement to a contribution-based jobseeker’s allowance at the end of a transitionally protected period; and provide that the formula should not be used where a new award of contribution-based jobseeker’s allowance which is transitionally protected is based on the same tax years as a previous non-linking award of unemployment benefit (regulation 6(3)).
+
+- Regulation 2 amends a technical error in the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978 which also relates to jobseeker’s allowance paid during the transitional period.
+- Regulation 3 amends the Social Security (General Benefit) Regulations (Northern Ireland) 1984 by omitting certain provisions which are now rendered otiose with the introduction of contribution-based jobseeker’s allowance.
+- Regulation 4 amends the Income Support (General) Regulations (Northern Ireland) 1987 by providing similar amendments in relation to income support to those made in relation to jobseeker’s allowance by regulation 5(10) of these Regulations.
+- Regulation 8 amends the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996 by making minor textual amendments.
+- Regulation 9 revokes the Social Security (General Benefit) (Amendment) Regulations (Northern Ireland) 1984.
+- Regulations 2 to 7 and 9 make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Education and Employment and the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992 are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+- Regulation 8 is made under Article 4 of the Child Support (Northern Ireland) Order 1995 (“the 1995 Order”) which came into operation on 16th October 1996 by virtue of the Child Support (1995 Order) (Commencement No. 3) Order (Northern Ireland) 1996 ([S.R. 1996 No. 429 (C. 24)](https://www.legislation.gov.uk/nisr/1996/429)). Section 149(5) of the Social Security Administration (Northern Ireland) Act 1992 which relates to the Social Security Advisory Committee, is applied to Article 4 of the 1995 Order by virtue of the amendment made to section 149(5) by paragraph 16 of Schedule 3 to the 1995 Order. The regulation is made within 6 months of the coming into operation of Article 4 and accordingly is exempt, by virtue of section 150(5)(*a*) of the Social Security Administration (Northern Ireland) Act 1992, from reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00004]: Footnote: [S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
+
+[^key-0974888df231e2af03d4e09f11a9b684]: Commencement: Reg. 1 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/a)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-659e5fc2886dd06ca662af076e8d6205]: Commencement: Reg. 2 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/a)
+
+[^f00006]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
+
+[^f00007]: Footnote: [S.R. 1978 No. 105](https://www.legislation.gov.uk/nisr/1978/105); relevant amending Regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^f00008]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518)
+
+[^key-b8c3d64ac6f3a9d8568adcc9403fbd4e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/130/regulation/3) in operation at 7.4.1997, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/c)
+
+[^f00009]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending Regulations are [S.R. 1984 No. 299](https://www.legislation.gov.uk/nisr/1984/299)
+
+[^key-2187f5a365da488e8b041109ab738813]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/130/regulation/4) in operation at 7.4.1997, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/c)
+
+[^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1993 Nos. 311](https://www.legislation.gov.uk/nisr/1993/311) and [373](https://www.legislation.gov.uk/nisr/1993/373) and [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11)
+
+[^f00011]: Footnote: Paragraph (2) was amended by regulation 4(11) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
+
+[^f00012]: Footnote: The Scheme is set out in regulation 4 of, and the Schedule to, the European Communities (Iron and Steel Employees Re-adaptation Benefits Scheme) (No. 2) (Amendment) Regulations 1996 ([S.I. 1996/3182](https://www.legislation.gov.uk/uksi/1996/3182))
+
+[^f00013]: Footnote: Paragraph (3) was inserted by regulation 11(*b*) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
+
+[^key-70ebbf39f1cb644afe5c2393866b3d80]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/130/regulation/5) in operation at 7.4.1997, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/c)
+
+[^f00014]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356) and [358](https://www.legislation.gov.uk/nisr/1996/358) and [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00015]: Footnote: The definition was amended by regulation 2(3) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^f00016]: Footnote: Paragraph (1) was amended by regulation 7(*a*) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
+
+[^f00017]: Footnote: Paragraph (5A) is inserted by regulation 5(4)(*b*) of these Regulations
+
+[^f00018]: Footnote: Paragraph (2) was amended by regulation 19(4) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^f00019]: Footnote: Regulation 97 was amended by regulation 6(2) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00020]: Footnote: Regulation 98 was amended by regulation 22 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^key-e091596a4089ecc54e72542e2c9f22a5]: Commencement: Reg. 6 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/a)
+
+[^f00021]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518)
+
+[^key-397c2e8148aa21a36bd291b03fb0bdaa]: Commencement: Reg. 7 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/a)
+
+[^f00022]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519)
+
+[^key-1c216325ea570db4ae1985b49aa98ecd]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/130/regulation/8) revoked by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (S.R. 2001/25)](https://www.legislation.gov.uk/nisr/2001/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/25/regulation/1/1), [4(1)(c)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/1/c)
+
+[^key-9b2106760f092c3cf90031645e273b4f]: Commencement: Reg. 9 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/130/regulation/1/1/a)
+
+[^f00026]: Footnote: [S.R. 1984 No. 299](https://www.legislation.gov.uk/nisr/1984/299)

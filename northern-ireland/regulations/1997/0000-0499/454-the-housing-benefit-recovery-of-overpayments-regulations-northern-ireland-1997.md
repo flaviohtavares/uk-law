@@ -1,0 +1,159 @@
+---
+title: The Housing Benefit (Recovery of Overpayments) Regulations (Northern Ireland) 1997
+id: nisr/1997/454
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-10-10'
+text_date: '1997-11-03'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/454
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/454/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing Benefit (Recovery of Overpayments) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (4).** Text as at 1997-11-03. See https://www.legislation.gov.uk/changes/affected/nisr/1997/454
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 454
+
+HOUSING
+
+The Housing Benefit (Recovery of Overpayments) Regulations (Northern Ireland) 1997
+
+Made
+
+10th October 1997
+
+Coming into operation
+
+3rd November 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(1)(*j*), 61(1) and (2), 73(3) to (7) and 165(4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, and by this statutory rule which contains only regulations made by virtue of, or consequential upon, Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00002] and is made before the end of the period of six months from the coming into operation of that Article, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-43fcb29d7e313923049d7031cebccc80]
+
+(1) These Regulations may be cited as the Housing Benefit (Recovery of Overpayments) Regulations (Northern Ireland) 1997 and shall come into operation on 3rd November 1997, immediately following the coming into operation of the Housing Benefit (General) (Amendment No. 7) Regulations (Northern Ireland) 1997[^f00003].
+
+(2) In these Regulations—
+
+- “the Act” means the Social Security Administration (Northern Ireland) Act 1992;
+- “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00004];
+- and other expressions used in these Regulations and in the Housing Benefit Regulations shall have the same meanings in these Regulations as in the Housing Benefit Regulations.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Prescribed benefits[^key-fbf15e37746dfc24d7e01f3909c68c69]
+
+(1) The benefits prescribed for the purposes of section 73(5) and (7)[^f00006] of the Act (recovery of overpaid housing benefit) are those set out in paragraphs (2) to (4).
+
+(2) Prescribed benefits within section 73(5)(*a*) of the Act are—
+
+- (a) housing benefit, and
+- (b) those benefits prescribed from time to time in regulation 105(1) of the Housing Benefit Regulations[^f00007] (recovery of overpayments from prescribed benefits), but only in cases where—
+  - (i) the Executive has, pursuant to regulation 102 of the Housing Benefit Regulations (method of recovery), requested the Department to recover an overpayment of housing benefit from such benefits, and
+  - (ii) the Department is satisfied as to the matters prescribed in regulation 105(3) of the Housing Benefit Regulations.
+
+(3) Housing benefit is prescribed for the purposes of section 73(5)(*b*) or (*c*) of the Act (benefits paid to a landlord or agent to discharge an obligation owed by another person).
+
+(4) Prescribed benefits within section 73(7) of the Act (benefits recoverable from the county court) are housing benefit and those benefits prescribed from time to time in regulation 105(1) of the Housing Benefit Regulations.
+
+## 3. Restriction on recovery of rent and consequent notifications[^key-ade975be5b92ae24d20466d902283ab6]
+
+(1) Where, pursuant to section 73(5)(*b*) of the Act, an amount has been recovered by deduction from housing benefit paid to a person (referred to as “the landlord” in this regulation) to discharge (in whole or in part) an obligation owed to him by the person on whose behalf the recoverable amount was paid (referred to as “the tenant” in this regulation) that obligation shall, in a case to which paragraph (2) applies, be taken to be discharged by the amount of the deduction.
+
+(2) This paragraph applies in a case where the amount recovered from the landlord relates to an overpayment of housing benefit in relation to which the landlord has—
+
+- (a) agreed to pay a penalty pursuant to section 109A(4) of the Act[^f00008] (penalty as an alternative to prosecution), or
+- (b) been convicted of an offence arising under the Act or any other statutory provision.
+
+(3) In any case to which paragraph (2) applies where the Executive has determined that there is an overpayment and that it is recoverable from the landlord it shall notify both the landlord and the tenant that—
+
+- (a) the overpayment that it has recovered or that it has determined to recover (“that sum”) was one to which paragraph (2) applies, and
+- (b) the landlord has no right in relation to that sum against the tenant, and that his obligation to the landlord shall be taken to be discharged by the amount so recovered.
+
+## 4. Amendment of Schedule 6 to the Housing Benefit Regulations[^key-335dc23f492adae3b9ee7c26936beb4f]
+
+(1) Schedule 6 to the Housing Benefit Regulations (matters to be included in the notice of determination) shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In paragraph 11 after sub-paragraph (*b*)[^f00009] there shall be added the following sub-paragraph—
+
+> - (c) informing both landlords and claimants that where a payment of housing benefit is recoverable from a landlord and the recovery is made from housing benefit payable to the landlord to discharge (in whole or in part) an obligation owed to him by a claimant, then, in a case where that claimant is not the person on whose behalf the recoverable amount was paid, that obligation shall nonetheless be taken to be discharged by the amount so recovered,
+
+.
+
+(3) In paragraph 11A[^f00010] for “In this Part” there shall be substituted “In this Schedule”.
+
+(4) Paragraph 14 shall be renumbered as sub-paragraph (1) of paragraph 14 and after that sub-paragraph there shall be added the following sub-paragraph—
+
+> (2) In a case where it is—
+>
+> - (a) determined that there is a recoverable overpayment;
+> - (b) determined that that overpayment is recoverable from a landlord, and
+> - (c) decided that recovery of that overpayment is to be made by deduction from a rent allowance paid to that landlord to discharge (in whole or in part) an obligation owed to him by a claimant (“claimant A”), not being the claimant on whose behalf the recoverable amount was paid,
+>
+> the notice of determination to that landlord shall identify both—
+>
+> - (i) the person on whose behalf the recoverable amount was paid to that landlord, and
+> - (ii) the claimant A.
+
+.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+10th October 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations implement provisions of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 ([S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)) (“the Order”) in relation to the recovery of overpayments of housing benefit.
+
+Regulation 2 prescribes from which benefits such recovery may be made.
+
+Regulation 3 provides that where the overpayment is being recovered from the landlord of a claimant in relation to whose claim for housing benefit that overpayment arose, the liability of that claimant to that landlord shall nonetheless continue to be discharged to the extent of the overpayment recovered in cases where the landlord has either agreed to pay a penalty as an alternative to prosecution or has been prosecuted in relation to that overpayment and that both that landlord and the claimant shall be notified of this.
+
+Regulation 4 amends Schedule 6 to the Housing Benefit (General) Regulations (Northern Ireland) 1987, which provides for the content of notices of determination. It requires the Northern Ireland Housing Executive (“the Executive”), when determining to make payments of housing benefit to a claimant’s landlord, to inform both landlords and claimants that overpayments of housing benefit due from that landlord, in relation to such benefit paid in respect of other claimants, may be recovered from that landlord by deduction from such direct payments, but that the obligation of the claimant, in respect of whom that benefit is being paid, shall nonetheless be discharged to the value of the benefit that would, were it not for that recovery, have been paid. It also requires the Executive, when notifying a landlord that an overpayment is recoverable from him and is to be made by deduction of direct payments made to him, to identify both the person on whose behalf the recoverable amount was paid to that landlord and the claimant from whose directly paid benefit the recovery is to be made.
+
+Sub-sections (5) to (7) of section 73 of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) (“the Administration Act”), are some of the enabling provisions under which these Regulations are made, and are added by Article 15 of the Order which is brought into operation, for the purpose only of authorising the making of regulations on 8th October 1997, by virtue of the Social Security Administration (Fraud) (1997 Order) (Commencement No. 2) Order (Northern Ireland) 1997 ([S.R. 1997 No. 449 (C. 26)](https://www.legislation.gov.uk/nisr/1997/449)). As the Regulations are made before the end of a period of 6 months from the commencement of that Article they are accordingly exempt, by virtue of section 150(5)(*b*) of the Administration Act, from reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); subsections (5) to (7) were added to section 73 by Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 ([S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182))
+
+[^f00002]: Footnote: [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182); *see* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-43fcb29d7e313923049d7031cebccc80]: Commencement: Reg. 1 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)
+
+[^f00004]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334) and [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-fbf15e37746dfc24d7e01f3909c68c69]: Commencement: Reg. 2 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+
+[^f00006]: Footnote: Section 73(5) and (7) was inserted by Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997
+
+[^f00007]: Footnote: Regulation 105(1) was amended by regulation 16 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), regulation 11(3) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) and regulation 18 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
+
+[^key-ade975be5b92ae24d20466d902283ab6]: Commencement: Reg. 3 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+
+[^f00008]: Footnote: Section 109A was inserted by Article 14 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997
+
+[^key-335dc23f492adae3b9ee7c26936beb4f]: Commencement: Reg. 4 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/454/regulation/1/1)
+
+[^f00009]: Footnote: Paragraph 11 was amended by regulation 6(*a*) of [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)
+
+[^f00010]: Footnote: Paragraph 11A was inserted by regulation 6(*b*) of [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)

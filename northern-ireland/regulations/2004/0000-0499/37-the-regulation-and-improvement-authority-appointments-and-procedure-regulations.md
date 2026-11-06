@@ -1,0 +1,417 @@
+---
+title: The Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004
+id: nisr/2004/37
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-02-05'
+text_date: '2024-12-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/37
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/37/pdfs/nisr_20040037_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/37/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004
+
+> Text as at 2024-12-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 37
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+The Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004
+
+Made
+
+5th February 2004
+
+Coming into operation
+
+1st April 2004
+
+The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by Article 3(2) of, and paragraph 5 of Schedule 1 to, the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001] and of all other powers enabling it in that behalf, hereby makes the following regulations:
+
+## 1. Citation, commencement and interpretation[^key-719e93efbae233522e6e2e34e198ecbd]
+
+(1) These Regulations may be cited as the RQIA[^key-299494054e3fa68438c98325074f75ca] (Appointments and Procedure) Regulations (Northern Ireland) 2004 and shall come into operation on 1st April 2004.
+
+(2) In these Regulations –
+
+- “the Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+- “the Authority” means the RQIA ;
+- “[^key-2ab8a11377882456d4e9fb7d32f4232a]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “the chairman” means the chairman of the Authority;
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^key-01109b60592f1a88ebcdfb92718a1ba3]
+- “member” means a member of the Authority other than the chairman;
+- “health service body” means –
+  - (a) a health authority, a special health authority, a Primary Care Trust or an NHS Trust respectively constituted under sections 8, 11 and 16A of the National Health Services Act 1977[^f00002] and section 5 of the National Health Service and Community Care Act 1990[^f00003];
+  - (aa) a clinical commissioning group established under section 14D of the National Health Service Act 2006;[^key-2bf1729f36be608d22154be2c3c31a98]
+  - (ab) the National Health Service Commissioning Board;
+  - (ac) the National Institute for Health and Care Excellence;
+  - (ad) the Health and Social Care Information Centre;
+  - (ae) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-e3c10596771c01f51ceab732e81561ee];
+  - (b) a Health Board, a Special Health Board, the Common Services Agency for the Scottish Health Service or an NHS Trust respectively constituted under sections 2, 10 and 12A of the National Health Service (Scotland) Act 1978[^f00004];
+  - (c) a Dental Practice Board or a Scottish Dental Practice Board;
+  - (d) the Public Health Laboratory Service Board; and
+  - (e) the National Radiological Protection Board established by section 1 of the Radiological Protection Act 1970[^f00005];
+- “health and social services body” means –
+  - (a) a Health and Social Services Board;
+  - (b) an HSS Trust;
+  - (c) the Agency; or
+  - (d) a special agency.
+
+## The Chairman and Members
+
+### 2. Appointments[^key-2abd8539081bb2911d95cf00634f0599]
+
+The Authority shall consist of a chairman and not more than 12 other members appointed by the Department.
+
+### 3. Terms of appointment[^key-e8282872294e73342a01a8fd8a296b88]
+
+(1) The chairman shall be appointed for a period not exceeding 4 years.
+
+(2) The members of the Authority shall be appointed for a period not exceeding 4 years.
+
+(3) Members may be appointed for periods of different duration.
+
+(4) The period of appointment of the chairman and of any particular member shall be determined by the Department.
+
+(5) Subject to Regulation 4 the chairman or a member of the Authority may, on the termination of the period of tenure of office, be eligible for re-appointment for such further period, not exceeding 4 years, as the Department may in any particular case determine.
+
+(6) The Department may instead of re-appointing the chairman or a member on the expiration of their term of office, extend their appointment for such further period as may appear reasonable in the particular circumstances but the period by which an appointment is extended must not exceed 4 years.
+
+### 4. Disqualification for appointment[^key-6bc84762e3d23e364b38baa39642e153]
+
+(1) The following persons are disqualified for appointment as chairman or as a member of the Authority –
+
+- (a) a person who within 5 years of the day his appointment would otherwise have taken effect has been convicted whether in the United Kingdom or elsewhere of any offence and has had passed on him a sentence of imprisonment (whether suspended or not) for a period of not less than 3 months without the option of a fine;
+- (b)[^key-173e256506109a4e20e209158d90c159] a person who is the subject of a bankruptcy restrictions order
+- (ba)[^key-23dfbdd93b51ad59ce1576b17e587b24] a person who is the subject of a debt relief restrictions order;
+- (c) a person who has been dismissed, otherwise than by reason of redundancy, from any paid employment with a health service body or a health and social services body;
+- (d) a person whose tenure of office as chairman or as a member of a committee or sub-committee or a director of any public body, health service body (other than a clinical commissioning group)[^key-e04f8c4c2e3eec57dab054092723ccf8] or health and social services body , or as the chair or a member of the governing body of a clinical commissioning group,[^key-6fe375538431de385c23049c368ebbb2] has been terminated on the ground that –
+  - (i) it was not in the interests of, or conducive to the good management of, that body, that he should continue to hold office;
+  - (ii) it was not in the interests of the Health Service or the Health and Personal Social Services that he should continue to hold office;
+  - (iii) the person failed without the consent of that body to attend its meetings for a continuous period of 3 months;
+  - (iv) the person failed to declare a pecuniary interest or withdraw from consideration of any matter in respect of which he had a pecuniary interest;
+- (e) a person who is employed by the Authority, the Northern Ireland Social Care Council[^f00006], the Northern Ireland Practice and Education Council[^f00007] or any body exercising functions similar to those of the aforementioned bodies under legislation in force in the United Kingdom;
+- (f) a person who is a chairman, member, director or employee of a health service body[^key-98c1e91f2b4487290b6e11da430ed6f7]...or a health and social services body;
+- (fa)[^key-fb3370b6644247590e0d1c3be5e9b7a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) a person whose application for registration under Part III of the Order, Parts II and III of the Registered Homes (Northern Ireland) Order 1992[^f00008], Part VIII of the Children (Northern Ireland) Order 1995[^f00009], Part I of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00010], Part IV of the Care Standards Act 2000[^f00011] or Part I of the Regulation of Care (Scotland) Act 2001[^f00012], has been refused, or
+  - (i) whose registration has been suspended and the suspension has not been terminated; or
+  - (ii) whose name has been removed from the register and not restored.
+- (h) a person included in a list kept by the Secretary of State under section 1 of the Protection of Children Act 1999[^f00013] (list of individuals considered unsuitable to work with children), section 81 of the Care Standards Act 2000 (list of individuals considered unsuitable to work with vulnerable adults), Article 1 of the Protection of Children (Scotland) Act 2003[^f00014] or a list kept by the Department under Article 3 or 35 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00015];
+- (i) any employed or self-employed health care professional or employees of health care professionals;
+- (j) a person whose registration as a health care professional has been withdrawn or suspended;
+- (k) he holds a paid appointment or office with a trade union which represents the interests of members who are employed by a health service body or a health and social services body;
+- (l) any person who has financial or related interests which prejudice the exercise of his duties.
+
+(2) For the purposes of paragraph (1)(a) –
+
+- (a) the date of conviction shall be deemed to be the date on which the ordinary period allowed for making an appeal or application with respect to the conviction expires or, if such an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its not being prosecuted; and
+- (b) there shall be disregarded –
+  - (i) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom;
+  - (ii) any sentence of imprisonment passed by such a court on a person who at the time the sentence was passed was under 21 years of age.
+
+(3)[^key-5346417379bd4220b6980b76499c4d63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of paragraph (1)(c) “dismissal” excludes dismissal which is established to have been unfair in industrial tribunal proceedings.
+
+(5)[^key-9dbbc1bcc0345b9199beaa714f106e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Subject to paragraph (7), a person who is disqualified under paragraph (1)(c) may, after the expiry of 2 years beginning on the date on which he was dismissed, apply in writing to the Department to remove that disqualification, and the Department may direct that that disqualification shall cease.
+
+(7) Where the Department refuses an application to remove a disqualification, no further application may be made by that person until the expiry of the period of 2 years beginning with the date of the application and this paragraph shall apply to any subsequent application.
+
+(8) In paragraph (1)(i), a “health care professional” means –
+
+- (a) a medical practitioner or dental practitioner;
+- (b) a nurse, midwife or health visitor registered in accordance with the Nursing and Midwifery Order 2001[^f00016];
+- (c) a registered pharmacist;
+- (d) an ophthalmic optician, other than a body corporate enrolled in the list kept under section 9 of the Opticians Act 1989[^f00017];
+- (e) a person who is registered as a member of a profession to which the Professions Supplementary to Medicine Act 1960[^f00018] extends;
+- (f) a fully registered osteopath as defined by section 41 of the Osteopaths Act 1993[^f00019]; [^key-cfa81ffcc8599d3cc2f4f797d2d831fa]...
+- (g) a fully registered chiropractor as defined by section 43 of the Chiropractors Act 1994[^f00020].
+
+; or[^key-12ef8512777e7b78d4b73e6c10b8ae9b]
+
+- (h) a person registered under the Anaesthesia Associates and Physician Associates Order 2024
+
+### 5. Resignations[^key-091f81e5c083a446942c3dad8ae1ef3c]
+
+(1) The chairman or a member of the Authority may resign his office at any time during his term of office by giving not less than 30 days notice in writing to the Department of his intention to do so.
+
+(2) A person who resigns as chairman of the Authority may, if the Department consents, continue to serve as a member for any part of the period of his appointment which remains when his resignation as chairman takes effect.
+
+(3) A person who, on his resignation as chairman, seeks to continue to serve as a member shall inform the Department in writing of his wish to do so when he submits his resignation as chairman.
+
+(4) A person who fails to comply with the requirement of paragraph (3) shall cease to be a member of the Authority when his term of office as chairman terminates.
+
+(5) In the case of a member who during his term of office is appointed chairman of the Authority, the terms on which he was appointed a member shall cease to apply on the day on which his appointment as chairman takes effect.
+
+### 6. Termination of tenure of office of chairman and members[^key-020fa5a8a9c0faed5ef779790a52950a]
+
+(1) The Department –
+
+- (a) shall terminate the appointment of a person as chairman or as a member of the Authority where the person –
+  - (i) becomes disqualified for appointment under regulation 4; or
+  - (ii) fails without the consent of the Authority to attend 3 consecutive meetings; and
+- (b) may terminate the appointment of a person as chairman or as a member of the Authority where the person –
+  - (i) is incapable of carrying out his functions for reasons of ill health; or
+  - (ii) has failed to comply with regulation 10 (exclusion on account of pecuniary interest).
+
+(2) Paragraph (1)(a)(ii) shall not apply where the Department is satisfied that the person had good cause for not attending the meetings and that, once the circumstances which caused him to miss the meetings are removed, he can and will attend the meetings of the Authority.
+
+(3) Where the Department decides to terminate an appointment under paragraph (1), it shall forthwith give the person concerned notice in writing of the termination of his appointment and of the reasons for his decision.
+
+(4) Where the Department is of the opinion that it is not in the interests of, or conducive to the good management of the Authority or any of its committees that the chairman or member should continue to hold office, it may forthwith terminate his appointment by giving him notice in writing to that effect.
+
+(5) Where a person has been appointed chairman or a member and it comes to the notice of the Department that at the time of the appointment he was disqualified for appointment under regulation 4, it shall forthwith declare that the person in question was not duly appointed and notify him in writing to that effect; and upon receipt of such notification, his appointment shall be terminated and he shall cease to act as such chairman or member.
+
+(6) A person who, after his appointment as chairman or as a member of the Authority, becomes the subject of a bankruptcy restrictions order[^key-f2e356479ac4d69a48ad4935921a829f] or a debt relief restrictions order[^key-55dd6a76a2499b26ccaf02a04f382af6] , shall give notice in writing of the fact to the Department.
+
+### 7. Appointment of deputy chairman[^key-8d56fa5d8a0940019f4f9ae39f14f93f]
+
+(1) Subject to paragraph (2), the chairman and members of the Authority may appoint one of their number to be deputy chairman for such period, not exceeding the remainder of his term of office as a member, as they may specify on appointing him.
+
+(2) Any member so appointed may at any time resign from the office of deputy chairman by giving notice in writing to the chairman.
+
+(3) Where the chairman is, for whatever reason, unable to perform his duties as chairman, the deputy chairman may perform those duties.
+
+## Committees, meetings and procedures
+
+### 8. Appointment of committees and sub-committees[^key-4595de19d1429b838dcb22fb33d5f4de]
+
+(1) Subject to any directions given to it by the Department, the Authority may and if so directed by the Department, shall appoint committees of the Authority.
+
+(2) A committee appointed by the Authority may, subject to such directions as may be given by the Department or the Authority, appoint sub-committees.
+
+(3) Committees and sub-committees appointed under this regulation may consist of such persons, whether or not members of the Authority, as the Authority or the committee making the appointment may determine.
+
+(4) Regulations 4 and 6 shall apply to appointments to committees and sub-committees and to the termination of those appointments as they apply to appointments to the Authority and to the termination of those appointments.
+
+### 9. Meetings and proceedings[^key-0ef874c9b2fb7ef83f83f59c7b408e74]
+
+(1) The meetings and proceedings of the Authority shall be conducted in accordance with the provisions set out in the Schedule and with Standing Orders made under paragraph (2).
+
+(2) Subject to those provisions, to regulation 10 (exclusion on account of pecuniary interest) and to such directions as may be given by the Department, the Authority shall make, and may vary or revoke, Standing Orders for the regulation of its proceedings and business, including provision for the suspension of the Standing Orders or any of them.
+
+(3) The proceedings of the Authority shall not be invalidated by any defect in the appointment of a member.
+
+### 10. Disclosure of pecuniary interest and exclusion of chairman and members in proceedings on account of pecuniary interest[^key-3a052606f7d5fb7b4126b10f81598f9f]
+
+(1) Subject to the following provisions of this regulation, if the chairman or any member of the Authority has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter and is present at any meeting of the Authority at which the contract, proposed contract or other matter is the subject of consideration, he shall at the meeting and as soon as practicable after its meeting, disclose his interest and shall not take part in the consideration or discussion of the contract or other matter or vote on any question with respect to it.
+
+(2) The Authority may, by Standing Orders made under regulation 9(2), provide for the exclusion of the chairman or any member of the Authority from a meeting of the Authority while any contract, proposed contract or other matter in which he has a pecuniary interest, direct or indirect, is under consideration.
+
+(3) Any remuneration, compensation or allowances payable to the chairman or a member by virtue of paragraph 6 of Schedule 1 to the Order (Remuneration and allowances) shall not be treated as a pecuniary interest for the purpose of this regulation.
+
+(4) Subject to paragraphs (2) and (5), the chairman or a member shall be treated for the purpose of this regulation as having an indirect pecuniary interest in a contract, proposed contract or other matter if –
+
+- (a) he, or a nominee of his, is a director of a company or other body, not being a public body, with which the contract was made or is proposed to be made or which has a direct pecuniary interest in the other matter under consideration; or
+- (b) he is a partner of, or is in the employment of, a person with whom the contract was made or who has a direct pecuniary interest in the other matter under consideration;
+
+and in the case of married persons or civil partners[^key-98b29d5e2ad753a9138468a2f948410c] living together the interest of one spouse or civil partner[^key-40d1d33f8b4ea00aeada5a6797bdc14a] shall, if known to the other, be deemed for the purpose of this regulation to be also an interest of the other.
+
+(5) Neither the chairman nor a member shall be treated as having a pecuniary interest in any contract, proposed contract or other matter by reason only –
+
+- (a) of his membership of a company or other body if he has no beneficial interest in any securities of that company or other body; or
+- (b) of an interest in any company, body or person with which he is connected as mentioned in paragraph (4) which is so remote or insignificant that it cannot reasonably be regarded as likely to influence him in consideration or discussion of, or in voting on, any question with respect to that contract, proposed contract or other matter.
+
+(6) Where the chairman or a member –
+
+- (a) has an indirect pecuniary interest in a contract, proposed contract or other matter by reason only of a beneficial interest in securities of a company or other body; and
+- (b) the total nominal value of those securities does not exceed £5,000 or one-hundredth of the total nominal value of the issued share capital of the company or body, whichever is the lesser; and
+- (c) if the share capital is of more than one class, the total nominal value of shares of any one class in which he has a beneficial interest does not exceed one-hundredth of the total issued capital of that class,
+
+this regulation shall not prohibit him from taking part in the consideration or discussion of the contract or other matter, or from voting on any question with respect to it, without prejudice however to his duty to disclose his interest.
+
+(7) This regulation applies to any committee or sub-committee of the Authority as it applies to the Authority and applies to any member of any such committee or sub-committee (whether or not he is also a member of the Authority) as it applies to a member of the Authority.
+
+(8) In this regulation –
+
+- “public body” includes –
+  - (a) any body established for the purpose of carrying on under national ownership, any industry or undertaking or part of any industry or undertaking;
+  - (b) the governing body of any university, university college or college school or hall of a university; and
+  - (c) the National Trust for Places of Historic Interest or Natural Beauty incorporated by the National Trust Act 1907[^f00021];
+- “securities” means –
+  - (a) shares or debentures, whether or not constituting a charge on the assets of a company or other body, or rights or interests in any share or such debentures; or
+  - (b) rights (whether actual or contingent) in respect of money lent to, or deposited with, any industrial or provident society or building society;
+- “shares” means shares in the share capital of a company or other body or the stock of a company or other body.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 5th February 2004.
+
+Noel McCann
+
+A Senior Officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE — PROVISIONS AS TO MEETINGS AND PROCEEDINGS OF THE AUTHORITY
+
+Regulation 9(1)
+
+**1.**[^key-5fbe0e80170409d33b75605bb66ade9c] The first meeting of the Authority shall be held on such day and at such place as may be fixed by the chairman, and he shall be responsible for convening the meeting.
+
+**2.**[^key-2362b8ff0b34ca22c6ab6a8762bd448b] (1) The chairman may call a meeting of the Authority at any time.
+
+(2) If a requisition for a meeting, signed by at least 5 other members, is presented to the chairman, and the chairman either –
+
+- (a) refuses to call a meeting; or
+- (b) without so refusing, does not, within 21 days after the requisition has been presented to him, call a meeting,
+
+those members may forthwith call a meeting.
+
+(3) Before each meeting of the Authority, a notice of the meeting which –
+
+- (a) specifies the principal business proposed to be transacted at it; and
+- (b) is signed by the chairman or by an officer of the Authority authorised by the chairman to sign it on his behalf,
+
+shall be served on each member at least 7 clear days before the day of the meeting.
+
+(4) The proceedings of any meeting shall not be invalidated by a failure to deliver such notice to any member.
+
+(5) In the case of a meeting called under sub-paragraph (2) by members, those members shall sign the notice and no business other than that specified in the notice shall be transacted at the meeting.
+
+**3.**[^key-36b9ce77825e04c20fec8a3eb2fbb549] (1) At any meeting of the Authority the chairman or, in his absence, the deputy chairman (if there is one and he is present) shall preside.
+
+(2) If the chairman and deputy chairman are both absent, such other member present, as the other members present shall choose for the purpose, shall preside.
+
+**4.**[^key-9e50dbd6cf934c26f3b3519eadffa3a6] (1) At any meeting of the Authority the quorum shall be one third (rounded up to a whole number) of the appointed members, including the chairman.
+
+(2) Where the Authority is considering the appointment of a Chief Executive, the Authority is not quorate unless the chairman is present.
+
+**5.**[^key-3ac97fcb5b4fe384e16da9a3ca35a882] Every question at a meeting shall be determined by a majority of the votes of the members present and competent to vote on the question and, in the case of an equality of votes, the chairman or, in his absence, the person presiding at the meeting, shall have a second vote.
+
+**6.**[^key-a9edca5f153d25ee141e8690c1cdb0f1] (1) The minutes of the proceedings of a meeting shall be drawn up and shall be signed at the ensuing meeting by the person presiding at that next meeting.
+
+(2) The names of the members present at a meeting shall be recorded in the minutes.
+
+(This note is not part of the Regulations.)
+
+These Regulations make provision concerning the membership and procedure of the Health and Personal Social Services Regulation and Improvement Authority (“the Authority”) established under Part II of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003. In particular they make provision for the appointment (regulation 2) and terms of appointment (regulation 3) of the chairman and members of the Authority; for disqualification for appointment (regulation 4); for resignations (regulation 5); for the termination of appointments by the Department (regulation 6) and for the appointment of the deputy chairman (regulation 7). Provision is also made for the establishment of committees and sub-committees (regulation 8), the conduct of meetings (regulation 9) and the exclusion from meetings of those with a pecuniary interest in matters under discussion (regulation 10).
+
+These Regulations do not impose a charge on businesses.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^key-719e93efbae233522e6e2e34e198ecbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/37/regulation/1) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-299494054e3fa68438c98325074f75ca]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+
+[^key-2ab8a11377882456d4e9fb7d32f4232a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 30](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/30)
+
+[^key-01109b60592f1a88ebcdfb92718a1ba3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 36(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/36/2)
+
+[^f00002]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49) as amended by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) and the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8)
+
+[^f00003]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19) as amended by the Health Authorities Act 1995 and the Health Act 1999
+
+[^key-2bf1729f36be608d22154be2c3c31a98]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 73(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/73/2)
+
+[^key-e3c10596771c01f51ceab732e81561ee]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/5/2)
+
+[^f00004]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 2 was amended by paragraph 1 of Schedule 7 to the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) and by section 28 of the National Health Service and Community Care Act 1990; section 10 was amended by paragraph 2 of Schedule 6 to the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53); section 12A was inserted by section 31 of the National Health Service and Community Care Act 1990
+
+[^f00005]: Footnote: [1970 c. 46](https://www.legislation.gov.uk/ukpga/1970/46)
+
+[^key-2abd8539081bb2911d95cf00634f0599]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/37/regulation/2) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-e8282872294e73342a01a8fd8a296b88]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/37/regulation/3) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-6bc84762e3d23e364b38baa39642e153]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/37/regulation/4) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-173e256506109a4e20e209158d90c159]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/1/b) substituted (13.5.2008) by [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. Pt. 2 para. 12(2)(a)](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/2/paragraph/12/2/a)
+
+[^key-23dfbdd93b51ad59ce1576b17e587b24]: Textual amendment: [Reg. 4(1)(ba)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/1/ba) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 36(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/36/3)
+
+[^key-e04f8c4c2e3eec57dab054092723ccf8]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/1/d) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 73(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/73/3/a/i)
+
+[^key-6fe375538431de385c23049c368ebbb2]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/1/d) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 73(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/73/3/a/ii)
+
+[^f00006]: Footnote: Established by the Health and Personal Social Services Act (Northern Ireland) [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^f00007]: Footnote: Established by the Health and Personal Social Services Act (Northern Ireland) [2002 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2002/9)
+
+[^key-98c1e91f2b4487290b6e11da430ed6f7]: Textual amendment: Words in [reg. 4(1)(f)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/1/f) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/5/3/a)
+
+[^key-fb3370b6644247590e0d1c3be5e9b7a0]: Textual amendment: [Reg. 4(1)(fa)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/1/fa) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/5/3/b)
+
+[^f00008]: Footnote: S.I. [1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204)
+
+[^f00009]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^f00010]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^f00011]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14)
+
+[^f00012]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8)
+
+[^f00013]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14)
+
+[^f00014]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5)
+
+[^f00015]: Footnote: S.I. [2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417)
+
+[^key-5346417379bd4220b6980b76499c4d63]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/3) omitted (13.5.2008) by virtue of [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. Pt. 2 para. 12(2)(b)](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/2/paragraph/12/2/b)
+
+[^key-9dbbc1bcc0345b9199beaa714f106e0c]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/5) omitted (13.5.2008) by virtue of [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. Pt. 2 para. 12(2)(b)](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/2/paragraph/12/2/b)
+
+[^f00016]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253)
+
+[^f00017]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44)
+
+[^f00018]: Footnote: [1960 c. 66](https://www.legislation.gov.uk/ukpga/1960/66)
+
+[^f00019]: Footnote: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21)
+
+[^key-cfa81ffcc8599d3cc2f4f797d2d831fa]: Textual amendment: Word in [reg. 4(8)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/8) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 13(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/13/a)
+
+[^f00020]: Footnote: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17)
+
+[^key-12ef8512777e7b78d4b73e6c10b8ae9b]: Textual amendment: [Reg. 4(8)(h)](https://www.legislation.gov.uk/nisr/2004/37/regulation/4/8/h) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 13(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/13/b)
+
+[^key-091f81e5c083a446942c3dad8ae1ef3c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/37/regulation/5) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-020fa5a8a9c0faed5ef779790a52950a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/37/regulation/6) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-f2e356479ac4d69a48ad4935921a829f]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2004/37/regulation/6/6) substituted (13.5.2008) by [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [art. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [Sch. Pt. 2 para. 12(3)](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/2/paragraph/12/3)
+
+[^key-55dd6a76a2499b26ccaf02a04f382af6]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2004/37/regulation/6/6) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 36(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/36/4)
+
+[^key-8d56fa5d8a0940019f4f9ae39f14f93f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/37/regulation/7) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-4595de19d1429b838dcb22fb33d5f4de]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/37/regulation/8) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-0ef874c9b2fb7ef83f83f59c7b408e74]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/37/regulation/9) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-3a052606f7d5fb7b4126b10f81598f9f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/37/regulation/10) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-98b29d5e2ad753a9138468a2f948410c]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2004/37/regulation/10/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [157(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/157/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-40d1d33f8b4ea00aeada5a6797bdc14a]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2004/37/regulation/10/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [157(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/157/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^f00021]: Footnote: [1907 c. cxxxvi](https://www.legislation.gov.uk/ukla/1907/136)
+
+[^key-5fbe0e80170409d33b75605bb66ade9c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/37/schedule/paragraph/1) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-2362b8ff0b34ca22c6ab6a8762bd448b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/37/schedule/paragraph/2) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-36b9ce77825e04c20fec8a3eb2fbb549]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2004/37/schedule/paragraph/3) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-9e50dbd6cf934c26f3b3519eadffa3a6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2004/37/schedule/paragraph/4) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-3ac97fcb5b4fe384e16da9a3ca35a882]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2004/37/schedule/paragraph/5) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)
+
+[^key-a9edca5f153d25ee141e8690c1cdb0f1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2004/37/schedule/paragraph/6) in operation at 1.4.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/37/regulation/1/1)

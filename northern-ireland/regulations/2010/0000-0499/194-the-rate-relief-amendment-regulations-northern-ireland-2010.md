@@ -1,0 +1,172 @@
+---
+title: The Rate Relief (Amendment) Regulations (Northern Ireland) 2010
+id: nisr/2010/194
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2010-06-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2010/194
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/194/pdfs/nisrem_20100194_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/194/pdfs/nisr_20100194_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/194/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rate Relief (Amendment) Regulations (Northern Ireland) 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 194
+
+Rates
+
+The Rate Relief (Amendment) Regulations (Northern Ireland) 2010
+
+Made
+
+1st June 2010
+
+Coming into operation
+
+1st July 2010
+
+The Department of Finance and Personnel, in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977[^f00001], makes the following Regulations.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Rate Relief (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 1st July 2010.
+
+## 2. Amendment of the Rate Relief (General) Regulations (Northern Ireland) 2007
+
+(1) The Rate Relief (General) Regulations (Northern Ireland) 2007[^f00002] shall be amended in accordance with paragraphs (2) to (11).
+
+(2) Omit regulation 2(1)(q).
+
+(3) Omit regulation 3(c).
+
+(4) For regulation 11(1)(e)(i)(bb) substitute—
+
+> - (bb) in sub-paragraph (e) after “regulation 53(1)” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+
+.
+
+(5) Omit regulation 17(2)(f)(ii).
+
+(6) In regulation 19—
+
+- (a) omit paragraph (1)(g);
+- (b) in—
+  - (i) paragraph (1)(u)(ii); and
+  - (ii) paragraph (1)(u)(iii)(bb),
+
+  for “sub-paragraph (c)” substitute “sub-paragraph (d)” and for ““(d)” substitute ““(e)”;
+- (c) in paragraph (2)(b) after “after” insert ““(e)”,”;
+- (d) in paragraph (2)(c) substitute “paragraphs 2(i) and (ii) after “(e)”, “(j)”, and “(i)”” with “paragraph 2(b)(ii) after “(j)”, “(i)”, and “(k)””;
+- (e) in paragraph (2)(e) omit “and (4)(a)”.
+
+(7) In regulation 22 omit paragraphs (1)(d), (2) and (3).
+
+(8) Omit regulation 24(f)(vi).
+
+(9) Omit regulation 26(1)(h)(ii).
+
+(10) In regulation 30—
+
+- (a) for paragraph (1)(a) substitute—
+
+  > - (a) as if in regulation 85(2) after “and 82” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 26”;
+
+  ;
+- (b) before paragraph (2)(d)(i) insert—
+
+  > - (zi) after “70” and “71” insert “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 22”;
+
+  .
+
+(11) Omit regulation 31(c).
+
+## 3. Amendment of the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007
+
+(1) The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007[^f00003] shall be amended in accordance with paragraphs (2) to (9).
+
+(2) Omit regulation 2(1)(f).
+
+(3) For regulation 3(a)(iv)(aa) substitute—
+
+> - (aa) after “regulation 9” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+
+.
+
+(4) In regulation 19—
+
+- (a) for paragraph (1)(h) substitute—
+
+  > - (h) as if in regulation 27—
+  >   - (i) in—
+  >     - (aa) paragraph (1)(g) after “Schedule 7” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  >     - (bb) paragraph (2) after “regulation 42(2)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  >   - (ii) in paragraph (1) after sub-paragraph (h) there were inserted—
+  >
+  >     > - (ha) any payment of rate relief,
+  >
+  >     ;
+
+  ;
+- (b) in—
+  - (i) paragraph (1)(r)(ii); and
+  - (ii) paragraph (1)(r)(iii)(bb),
+
+  for “sub-paragraph (c)” substitute “sub-paragraph (d)” and for ““(d)” substitute ““(e)”;
+- (c) omit paragraph (3)(e).
+
+(5) Omit regulation 21(1)(d) and (2).
+
+(6) Omit regulation 23(g)(vi).
+
+(7) Omit regulation 25(1)(d)(ii).
+
+(8) In regulation 29—
+
+- (a) for paragraph (1)(a) substitute—
+
+  > - (a) as if in regulation 66(2) after “and 63” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 25”;
+
+  ;
+- (b) after paragraph (2)(e)(ii) insert—
+
+  > - (iii) in sub-paragraph (3) after “regulation 51” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 21”;
+
+  .
+
+(9) In regulation 30—
+
+- (a) omit paragraph (c);
+- (b) in paragraph (i)(ii)(bb) for “or 93” there were substituted “or 74”.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 1st June 2010
+
+Brian McClure
+
+A senior officer of the Department
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Rate Relief (General) Regulations (Northern Ireland) 2007 and the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 which apply with modifications the Housing Benefit Regulations (Northern Ireland) 2006 and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (“the Housing Benefit Regulations”) for the purposes of the low income rate relief scheme.
+
+Regulations 2 and 3 make minor amendments to the Rate Relief (General) Regulations (Northern Ireland) 2007 and the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 to take account of amendments to the Housing Benefit Regulations. They also make minor drafting corrections.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30A was inserted by Article 14 of the Rates (Amendment) (Northern Ireland) Order 2006, [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)
+
+[^f00002]: Footnote: [S.R. 2007 No. 204](https://www.legislation.gov.uk/nisr/2007/204) as amended by [S.R. 2009 No. 339](https://www.legislation.gov.uk/nisr/2009/339)
+
+[^f00003]: Footnote: [S.R. 2007 No. 203](https://www.legislation.gov.uk/nisr/2007/203) as amended by [S.R. 2007 No. 244](https://www.legislation.gov.uk/nisr/2007/244), [S.R. 2008 No. 68](https://www.legislation.gov.uk/nisr/2008/68) and [S.R. 2009 No. 339](https://www.legislation.gov.uk/nisr/2009/339)

@@ -1,0 +1,228 @@
+---
+title: The Tryptophan in Food Regulations (Northern Ireland) 2005
+id: nisr/2005/440
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-10-05'
+text_date: '2010-01-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/440
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/440/pdfs/nisr_20050440_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/440/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tryptophan in Food Regulations (Northern Ireland) 2005
+
+> Text as at 2010-01-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 440
+
+FOOD
+
+The Tryptophan in Food Regulations (Northern Ireland) 2005
+
+Made
+
+5th October 2005
+
+Coming into operation
+
+11th November 2005
+
+The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred by Articles 15(1)(a) and (f), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-816f23c562a915360de32f734676d38d]
+
+These Regulations may be cited as the Tryptophan in Food Regulations (Northern Ireland) 2005 and shall come into operation on 11th November 2005.
+
+## 2. Interpretation[^key-179e5ed98771fc1c8d7cfc636a563378]
+
+(1) In these Regulations—
+
+- “appropriate medical certificate” means a certificate in writing given by a medical practitioner that a person requires food to which tryptophan has been added to treat a condition from which a medical practitioner has diagnosed him to be suffering;
+- “[^key-4ba664bbf1324cc78191ac762ddf1c4d]Regulation 953/2009” means [Commission Regulation (EC) No. 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) on substances that may be added for specific nutritional purposes in foods for particular nutritional uses;
+- “dose form” means a form such as capsules, pastilles, tablets, pills, and other similar forms, sachets of powder, ampoules of liquids, drop dispensing bottles, and other similar forms of liquids or powders designed to be taken in measured small unit quantities;
+- “follow-on formula” means a food intended for particular nutritional use by infants in good health who are aged over four months, and constituting the principal liquid element in a progressively diversified diet;
+- “food supplement” means any food the purpose of which is to supplement the normal diet and which—
+  - (a) is a concentrated source of a vitamin or mineral or other substance with a nutritional or physiological effect, alone or in combination; and
+  - (b) is sold in dose form;
+- “hospital” has the same meaning as in the Health and Personal Social Services (Northern Ireland) Order 1972[^f00006] and shall include a nursing home;
+- “infant” means a child under the age of twelve months;
+- “infant formula” means a food intended for particular nutritional use by infants in good health during the first four to six months of life, and satisfying by itself the nutritional requirements of such infants;
+- “medical practitioner” means a registered person within the meaning of the Medical Act 1983[^f00007];
+- “nursing home” has the same meaning as in Article 11 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00008];
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “pharmacist” means a person lawfully conducting a retail pharmacy business within the meaning of section 69 of the Medicines Act 1968[^f00009];
+- “processed cereal-based foods” and “baby foods” have the same meaning as in the Processed Cereal-based Foods and Baby Foods for Infants and Young Children Regulations (Northern Ireland)2003[^f00010];
+- “tryptophan” means dextrorotatory tryptophan, laevorotatory tryptophan or racemic tryptophan, or any salt or peptide prepared from any of those forms.
+
+(2) In these Regulations references to adding tryptophan to food—
+
+- (a) do not include cases where food which contains only tryptophan occurring naturally in it is added to any other such food or to food which contains no tryptophan;
+- (b) but otherwise include cases where food to which tryptophan has been added is added to any other food,
+
+and references in regulations 4 and 5 to food containing tryptophan do not include cases where that tryptophan only occurs naturally in the food or an ingredient of the food.
+
+## 3. Presumption[^key-0b579e3fa1df208acdfd444c49f63b19]
+
+Where any requirements of these Regulations are contravened in respect of any food and that food is part of a batch, lot or consignment of food of the same class or description, it shall be presumed, until the contrary is proved, that all of the food in that batch, lot or consignment fails to comply with those requirements.
+
+## 4. Prohibitions[^key-5cd4d8975ad5db89965fa47b8a59d127]
+
+Subject to regulation 5, no person shall—
+
+- (a) add tryptophan to food;
+- (b) sell, or offer for sale, food containing tryptophan; or
+- (c) expose for sale food containing tryptophan.
+
+## 5. Exceptions from prohibitions[^key-9b0387f5a7f9a8a7eb9c781f61c939eb]
+
+(1) Food containing tryptophan may be sold or offered for sale—
+
+- (a) by a pharmacist; or
+- (b) in the course of the activities of a hospital,
+
+to a person in respect of whom there is an appropriate medical certificate or to someone acting on that person’s behalf, and—
+
+- (i) any person may add tryptophan to food intended for sale in those circumstances; and
+- (ii) any person may sell, or offer for sale, food containing tryptophan for the purposes of its being sold in those circumstances.
+
+(2) Regulation 4 shall not apply in respect of—
+
+- (a) laevorotatory tryptophan added to any infant formula or follow-on formula;
+- (b) laevorotatory tryptophan added to any processed cereal-based food or baby food; or
+- (c)[^key-594c84450c5d582d336373d9bb918d3d] laevorotatory tryptophan, its sodium, potassium, calcium or magnesium salts or its hydrochloride, added in compliance with Regulation 953/2009 to any food for a particular nutritional use referred to in the Annex to that Regulation;
+
+if that added substance complies with the purity criteria specified for that substance in the European Pharmacopoeia[^f00011].
+
+(3) Regulation 4 shall not apply in respect of laevorotatory tryptophan added to any food supplement if—
+
+- (a) the laevorotatory tryptophan complies with the purity criteria specified for that substance in the European Pharmacopoeia; and
+- (b) the recommended daily dose for that food supplement does not exceed 220 mg.
+
+## 6. Offences and penalty[^key-949f223c8c13ef2d572094421c4b7ef1]
+
+(1) Subject to paragraph (2), a person who contravenes regulation 4 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) A pharmacist or a person acting in the course of the activities of a hospital who contravenes regulation 4(b) by reason only that a document purporting to be the appropriate medical certificate is not genuine does not commit an offence if, having exercised all due diligence, he has reasonable cause to believe that the document was an appropriate medical certificate.
+
+## 7. Enforcement[^key-c34e8aa0aeb80adfaa444736007d5882]
+
+(1) Subject to paragraph (2), each district council shall enforce and execute these Regulations within its district.
+
+(2) Each district council shall enforce and execute these Regulations in its district in relation to imported food.
+
+## 8. Application of various provisions of the Order[^key-cd46887208e5f1feee3d43d89a600172]
+
+The following provisions of the Order shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order or Part thereof shall be construed as a reference to these Regulations—
+
+- (a) Articles 2(4) (which relates to matters deemed to be a sale of food);
+- (b) Article 3 (application to food offered as prizes, etc.);
+- (c) Article 4 (presumptions that food intended for human consumption);
+- (d) Article 19 (offences due to fault of another person);
+- (e) Article 20 (defence of due diligence) as it applies for the purposes of Article 13 or 14;
+- (f) Article 30(8) (which relates to documentary evidence);
+- (g) Article 34(1) (obstruction etc. of officers);
+- (h) Article 34(2) with the modification that the reference to “any such requirement as is mentioned in paragraph (1)(b)” shall be deemed to be a reference to any such requirement as is mentioned in that paragraph as applied by paragraph (g);
+- (i) Article 36(1) (punishment of offences) in so far as it relates to offences under Article 34(1) as applied by paragraph (g);
+- (j) Article 36(2) and (3) in so far as it relates to offences under Article 34(2) as applied by paragraph (h).
+
+## 9. Condemnation of food[^key-10551ebbb9aaa9f0914495857d052928]
+
+Where any food is certified by a food analyst as being food which it is an offence under these Regulations to sell, that food may be treated for the purposes of Article 8 of the Order (under which food may be seized and destroyed on the order of a justice of the peace)[^f00012] as failing to comply with food safety requirements.
+
+## 10. Revocations[^key-0b7e194e5f9dd0416feb98a96575b7b2]
+
+(1) The Tryptophan in Food Regulations (Northern Ireland) 1990[^f00013] are hereby revoked.
+
+(2) Regulation 10 of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) Regulations (Northern Ireland) 2002[^f00014] is hereby revoked.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 5th October 2005.
+
+D. Bingham
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations consolidate with amendments the Tryptophan in Food Regulations (Northern Ireland) 1990, as amended.
+
+**2.** Tryptophan is an amino acid. These Regulations continue to prohibit the addition of tryptophan (as defined in regulation 2(1)) to food, and the sale, offer for sale and exposure for sale of food containing tryptophan, subject to exceptions (regulations 2(2), 4 and 5).
+
+**3.** The main changes effected by these Regulations are—
+
+- (a) the addition of a new exception from the prohibitions in the Regulations in respect of laevorotatory tryptophan added to food supplements if certain conditions are met (regulation 5(3));
+- (b) the insertion of a qualification to the existing exception in respect of laevorotatory tryptophan, its sodium, potassium, calcium or magnesium salts or its hydrochloride added to certain foods for particular nutritional use in that the added substance must comply with specified purity criteria (regulation 5(2)).
+
+**4.** The Regulations also—
+
+- (a) continue to provide for offences and a penalty (regulation 6);
+- (b) make provision as to enforcement (regulation 7);
+- (c) apply various provisions of the Food Safety (Northern Ireland) Order 1991 (regulations 8 and 9) and include a presumption as regards food which contravenes the Regulations in certain circumstances (regulation 3);
+- (d) make revocations (regulation 10).
+
+**5.** The Regulations were notified in draft to the European Commission in accordance with Article 8 of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council (O.J. No. L204, 21.7.98, p. 37) laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services, as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) of the European Parliament and of the Council (O.J. No. L217, 5.8.98, p. 18).
+
+**6.** The European Pharmacopoeia may be obtained from The Stationery Office (customer services telephone number 0870 600 5522; email: customer.services@tso.co.uk).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; *see* S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1663 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28) and [S.R. 2004 Nos. 482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1. That Regulation was last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L245, 29.9.2003, p. 4)
+
+[^key-816f23c562a915360de32f734676d38d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-179e5ed98771fc1c8d7cfc636a563378]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/440/regulation/2) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-4ba664bbf1324cc78191ac762ddf1c4d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/440/regulation/2/1) substituted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) Regulations (Northern Ireland) 2009 (S.R. 2009/398)](https://www.legislation.gov.uk/nisr/2009/398), [regs. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2009/398/regulation/5/2)
+
+[^f00006]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
+
+[^f00007]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
+
+[^f00008]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^f00009]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67), section 69 is amended by the Pharmacists (Fitness to Practise) Act 1997 ([1997 c. 19)](https://www.legislation.gov.uk/ukpga/1997/19), Schedule, paragraph 5, from a date to be appointed
+
+[^f00010]: Footnote: [S.R. 2003 No. 530](https://www.legislation.gov.uk/nisr/2003/530)
+
+[^key-0b579e3fa1df208acdfd444c49f63b19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/440/regulation/3) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-5cd4d8975ad5db89965fa47b8a59d127]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/440/regulation/4) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-9b0387f5a7f9a8a7eb9c781f61c939eb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/440/regulation/5) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-594c84450c5d582d336373d9bb918d3d]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/nisr/2005/440/regulation/5/2/c) substituted (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) Regulations (Northern Ireland) 2009 (S.R. 2009/398)](https://www.legislation.gov.uk/nisr/2009/398), [regs. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2009/398/regulation/5/3)
+
+[^f00011]: Footnote: European Pharmacopoeia 5th Edition, Volume II (2004) Pub. European Directorate for the Quality of Medicines, at pages 2636 to 2638
+
+[^key-949f223c8c13ef2d572094421c4b7ef1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/440/regulation/6) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-c34e8aa0aeb80adfaa444736007d5882]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/440/regulation/7) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-cd46887208e5f1feee3d43d89a600172]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/440/regulation/8) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^key-10551ebbb9aaa9f0914495857d052928]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/440/regulation/9) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^f00012]: Footnote: Article 8 was amended by [S.R. 2004 No. 505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^key-0b7e194e5f9dd0416feb98a96575b7b2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/440/regulation/10) in operation at 11.11.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/440/regulation/1)
+
+[^f00013]: Footnote: [S.R. 1990 No. 329](https://www.legislation.gov.uk/nisr/1990/329), amended by [S.R. 1991 No. 203](https://www.legislation.gov.uk/nisr/1991/203), [S.R. 2002 No. 264](https://www.legislation.gov.uk/nisr/2002/264), [S.R. 2003 No. 530](https://www.legislation.gov.uk/nisr/2003/530)
+
+[^f00014]: Footnote: [S.R. 2002 No. 264](https://www.legislation.gov.uk/nisr/2002/264)

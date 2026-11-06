@@ -1,0 +1,45 @@
+---
+title: Justice Act (Northern Ireland) 2015, section 102
+act: Justice Act (Northern Ireland) 2015
+section: '102'
+status: revised-with-pending-changes
+text_date: '2023-11-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/9/section/102
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Justice Act (Northern Ireland) 2015, section 102
+
+> **Warning: changes not yet applied to this text (27).** Text as at 2023-11-27. See https://www.legislation.gov.uk/changes/affected/nia/2015/9
+>
+> Extent: Northern Ireland.
+
+## 102. Regulations, orders and directions
+
+*Extent: N.I.*
+
+(1) Except as provided by subsection (2), regulations made by the Department under this Act are subject to negative resolution.
+
+(2) Regulations under sections 65 to 69 shall not be made unless a draft of the regulations has been laid before, and approved by resolution of, the Assembly.
+
+(3) Except as provided by subsections (4) to (6), orders made by the Department under this Act are subject to negative resolution.
+
+(4) Subsection (3) does not apply to an order under section 106(2).
+
+(5) An order under section 31(3) is subject to negative resolution only if it is made without a draft of the order having been laid before and approved by a resolution of the Assembly.
+
+(6) No order to which this subsection applies may be made unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+(7) Subsection (6) applies to—
+
+- (a) an order under section 4(7), 11(4), 50(11), 51(12) or paragraph 10 of Schedule 7;
+- (b) an order under section 6(2) containing provision which amends or repeals a provision of an Act of Parliament or Northern Ireland legislation.
+
+(8) Regulations and orders made by the Department under this Act may contain such incidental, supplementary, transitional and saving provisions as appear to the Department to be necessary or expedient.
+
+(9) A power to give directions under this Act includes power—
+
+- (a) to amend or revoke the directions;
+- (b) to include in the directions such incidental, supplementary, transitional and saving provisions as appear to the person giving the directions to be necessary or expedient.

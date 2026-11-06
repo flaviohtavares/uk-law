@@ -1,0 +1,2454 @@
+---
+title: The Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023
+id: nisr/2023/141
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2023-09-21'
+text_date: '2026-06-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2023/141
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2023/141/pdfs/nisrem_20230141_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2023/141/pdfs/nisr_20230141_en.pdf
+- http://www.legislation.gov.uk/nisr/2023/141/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023
+
+> Text as at 2026-06-18.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2023 No. 141
+
+Public Service Pensions
+
+The Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023
+
+Made
+
+21st September 2023
+
+Coming into operation
+
+1st October 2023
+
+The Department of Finance makes these Regulations in exercise of the powers conferred by sections 1(1) and (2)(a), 2(1) (together with paragraph 1 of Schedule 2) and 3(1), (2)(a) (as read with paragraph 13 of Schedule 3) and (c) and (3) of the Public Service Pensions Act (Northern Ireland) 2014[^f00001] (“**the 2014 Act**”) and sections 5(1) and (5), 6(1), 7(3), 8(1) and (3), 10(1), 11(1) and (5), 12(1) and (3), 18(1) to (3), (5), (6) and (8), 19(1), (4) and (5), 20(1), (4) and (5), 21, 22(1) and (6), 24(1), 25(1) and (4), 26(1) and (2), 29(1), (7) and (8) and 31(2) and (3) of the Public Service Pensions and Judicial Offices Act 2022[^f00002] (“PSPJOA 2022”).
+
+In accordance with section 21(1) of the 2014 Act, the Department of Finance has consulted the representatives of such persons as appear to the Department of Finance likely to be affected by these Regulations.
+
+To the extent required by section 27 of PSPJOA 2022, these Regulations are made in accordance with Treasury Directions[^f00003] made under that section.
+
+## PART 1 — Introductory provisions
+
+### 1. Citation and commencement[^key-6449dfcec510f9dddb92cd189b83bd18]
+
+These Regulations—
+
+- (a) may be cited as the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023;
+- (b) come into operation on 1st October 2023.
+
+### 2. Interpretation[^key-d8c10b066f7c4f22c06e101743e90e3d]
+
+(1) In these Regulations—
+
+- “**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “**the 2014 Regulations**” means the Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^f00004];
+- “**the PSP Directions 2023**” means the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023;
+- “**alpha**” means the pension scheme established by the 2014 Regulations;
+- “**alpha benefits**” means new scheme benefits[^f00005] under alpha;
+- “**civil service scheme**” means alpha or the PCSPS(NI);
+- “**deferred choice decision**” has the meaning given in regulation 12(1);
+- “**deferred choice decision-maker**” means the person who may make a deferred choice decision under regulation 12(2);
+- “**deferred choice member**” means a member with remediable service who is not an immediate choice member;
+- “**end of the section 10 election period**”, in relation to a deferred choice member, means the end of the day determined in accordance with—
+  - (a) where the member is the deferred choice decision-maker, regulation 13(1)(b);
+  - (b) where a person other than the member is the deferred choice decision-maker, regulation 13(4)(b);
+- “**immediate choice decision**” has the meaning given in regulation 8(1);
+- “**immediate choice decision-maker**” means the person who may make an immediate choice decision under regulation 8(2);
+- “**immediate choice member**” means a member with remediable service who, immediately before 1st October 2023, was deceased or entitled to the present payment of a pension, other than an excluded pension, under a civil service scheme; and “**excluded pension**” means a pension the rate of which—
+  - (a) is not determined (by any extent) by reference to the member’s remediable service, and
+  - (b) is not affected by the coming into force of section 2(1) of PSPJOA 2022;
+- “**member**” means an active, deferred, deceased or pensioner, but not a pension credit member[^f00006] of a civil service scheme;
+- “**opted-out service election**” has the meaning given in regulation 6(1);
+- “**the PCSPS(NI)**” means the pension scheme made under Article 3 of the Superannuation (Northern Ireland) Order 1972[^f00007] which is the principal civil service pension scheme within the meaning of Article 4(10) of that Order, and in relation to a member—
+  - (a) “**the PCSPS(NI)**” means the Section of the PCSPS(NI) that is the relevant Chapter 1 legacy scheme[^f00008] for the member;
+  - (b) “**PCSPS(NI) benefits**” means benefits under the PCSPS(NI);
+- “**remediable service**”, in relation to a member, means (except in this definition) the member’s remediable service[^f00009] in an employment or office that is pensionable service under a civil service scheme;
+- “**remedy member**” means a deferred choice member or an immediate choice member;
+- “**the scheme manager**” means the Department of Finance;
+- “**Section I**” means Section I of the PCSPS(NI);
+- “**Section II**” means Section II of the PCSPS(NI);
+- “**Section III**” means Section III of the PCSPS(NI);
+- “**section 6 election**” has the meaning given in regulation 8(1)(a);
+- “**section 10 election**” has the meaning given in regulation 12(1)(a).
+
+(2) For the purposes of these Regulations, a reference in PSPJOA 2022 to section 2(1) of that Act coming into force is to be understood as a reference to that section coming into force in relation to members of a civil service scheme.
+
+(3) A term used in these Regulations which—
+
+- (a) is defined in, or for the purposes of, a provision in Chapter 1 of Part 1 of PSPJOA 2022, and
+- (b) is not defined differently in these Regulations,
+
+has the meaning given in, or for the purposes of, that provision.
+
+(4) A term used in these Regulations which—
+
+- (a) is defined in the 2014 Regulations, Section I, Section II or Section III (a “relevant scheme”), and
+- (b) is not defined differently in—
+  - (i) these Regulations, or
+  - (ii) in, or for the purposes of, a provision in Chapter 1 of Part 1 of PSPJOA 2022,
+
+has, in relation to the relevant scheme, the meaning given in that scheme.
+
+(5) In these Regulations, a reference to a provision of the PSP Directions 2023 is a reference to that provision as amended from time to time.
+
+### 3. Delegation[^key-a01e760117b678e0d0a778f3daf3d1dd]
+
+The scheme manager may delegate any functions of the scheme manager under these Regulations, including this power to delegate.
+
+## PART 2 — Remediable service statements
+
+### 4. Requirements relating to remediable service statements[^key-f484929fe4b720658c78ee3ba97059ec]
+
+(1) The scheme manager must provide a remediable service statement in respect of a remedy member (“**M**”) in accordance with—
+
+- (a) section 29 of PSPJOA 2022,
+- (b) direction 20 of the PSP Directions 2023, and
+- (c) this regulation.
+
+(2) The scheme manager must provide a remediable service statement in respect of M—
+
+- (a) before the relevant date[^f00010],
+- (b) where M is, in relation to their remediable service, for the time being—
+  - (i) an active member, at least once in each year ending with the anniversary of the relevant date;
+  - (ii) a deferred member, within three months of receipt of a written request by the member[^f00011], and
+- (c) where M is a deferred choice member, as soon as is reasonably practicable following receipt of notification—
+  - (i) that M intends to claim payment of any pension benefits in relation to M’s remediable service, or
+  - (ii) that M has died.
+
+(3) The remediable service statement must be provided—
+
+- (a) to M, or
+- (b) where —
+  - (i) M is deceased, and
+  - (ii) the eligible decision-maker as determined in accordance with the Schedule is a person other than the scheme manager,
+
+  to the person who is for the time being the eligible decision-maker in relation to M’s remediable service in accordance with the Schedule.
+
+(4) The remediable service statement must include—
+
+- (a) where the scheme manager has determined that any information to be provided in connection with M’s remediable service must be communicated in a particular form and manner, information about that form and manner;
+- (b) where M is an immediate choice member, information about the irrevocability of an immediate choice decision;
+- (c) where M is a deferred choice member, information about the circumstances in which a deferred choice decision is revocable, and the circumstances in which it is irrevocable;
+- (d) where regulation 61 applies in relation to M, information about the election that may be made in accordance with regulation 61(2), how to make that election, and the consequences of making, or not making, that election.
+
+(5) For further provision about—
+
+- (a) what a remediable service statement must include, see—
+  - (i) section 29(5) of PSPJOA 2022;
+  - (ii) direction 20(1) of the PSP Directions 2023;
+- (b) when a remediable service statement must be combined with a benefit information statement provided under section 14 of the Public Service Pensions Act 2014, see direction 20(2) of the PSP Directions 2023.
+
+### 4A. Voidable remediable service statements[^key-46254cc7d0980fff29033919ef9aa68d]
+
+(1) The scheme manager may treat as void a remediable service statement provided in relation to a member (“**M**”), including where an immediate choice decision or a deferred choice decision has been made in relation to M’s remediable service, provided that the scheme manager is satisfied that—
+
+- (a) the remediable service statement fails to meet one or more of the requirements in—
+  - (i) regulation 4(4);
+  - (ii) section 29(5) of PSPJOA 2022 (remediable service statements);
+  - (iii) Treasury directions under section 29(6) of PSPJOA 2022, and
+- (b) but for the failure in sub-paragraph (a), it is more likely than not that the relevant decision-maker (“**D**”) would make, or as the case may be, would have made a different immediate choice decision or deferred choice decision.
+
+(2) The scheme manager may in particular determine that a remediable service statement fails to meet one or more of the requirements in the provisions mentioned in paragraph (1)(a) where—
+
+- (a) the scheme manager provides the remediable service statement to D before affording D a reasonable opportunity to make an election under—
+  - (i) regulation 62B(2);
+  - (ii) regulation 62C(2);
+  - (iii) regulation 62D(2);
+  - (iv) regulation 62E(2);
+  - (v) regulation 62F(2);
+  - (vi) section 5 of PSPJOA 2022,
+- (b) D, having made a remedy decision in relation to M based on the remediable service statement mentioned in sub-paragraph (a), makes one or more of the elections mentioned in sub-paragraph (a)(i) to (vi) in relation to M, and
+- (c) had D made that election or those elections before the provision of the remediable service statement, the remediable service statement would have contained different information.
+
+(3) Where a remediable service statement is voided in accordance with paragraph (1)—
+
+- (a) it is to be treated as never having been provided;
+- (b) regulation 13(1)(b)(iii) does not apply.
+
+(4) In this regulation, “**relevant decision-maker**” means—
+
+- (a) where M is a deferred choice member, the deferred choice decision-maker;
+- (b) where M is an immediate choice member, the immediate choice decision-maker.
+
+## PART 3 — Decisions about the treatment of remediable service
+
+### CHAPTER 1 — Opted-out service elections
+
+#### 5. Application and interpretation of Chapter 1[^key-1ed3365f987c9e295540573a105e5d6c]
+
+(1) This Chapter applies to and in respect of a member (“**M**”) with PCSPS(NI) opted-out service.
+
+(2) In this Chapter—
+
+- “**opted-out service decision-maker**” means the person who may make an opted-out service election under regulation 6(2);
+- “**PCSPS(NI) opted-out service**” means relevant opted-out service[^f00012] in an employment or office in relation to the PCSPS(NI).
+
+#### 6. Election in relation to PCSPS(NI) opted-out service[^key-ba7a5bbb2273f44c1ed599051713a911]
+
+(1) An election (an “opted-out service election”) may be made in relation to M’s PCSPS(NI) opted-out service in accordance with this Chapter and section 5 of PSPJOA 2022.
+
+(2) An opted-out service election may be made—
+
+- (a) by M or,
+- (b) where M is a deceased member, by the eligible decision-maker determined in accordance with the Schedule.
+
+(3) Where a person other than the scheme manager is the opted-out service decision-maker, an opted-out service election may only be made after the scheme manager determines an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager,
+- (c) received by the scheme manager during the period beginning with 1st October 2023 and ending—
+  - (i) at the end of 30th September 2024, or
+  - (ii) such later time as the scheme manager considers reasonable in all the circumstances, and
+- (d) accompanied by such information—
+  - (i) which is within the person’s possession, or
+  - (ii) which the person may reasonably be expected to obtain,
+
+  that the scheme manager may by written notice require the person to provide in relation to the decision which caused the service in question to become opted-out service.
+
+(4) As soon as is reasonably practicable after receipt of an application, the scheme manager must—
+
+- (a) determine whether an opted-out service election may be made in relation to M, and
+- (b) notify the person who made the application whether such an opted-out service election may be made.
+
+(5) Where the scheme manager is the opted-out service decision-maker, the scheme manager must, as soon as is reasonably practicable after determining that they are the opted-out service decision-maker, determine whether to make an opted-out service election in relation to M.
+
+(6) The scheme manager may refuse an application where any of the following conditions is not met—
+
+- (a) the decision by virtue of which M’s service became opted-out service was communicated to the scheme manager on or after 12th March 2012;
+- (b) the decision by virtue of which M’s service became opted-out service was made pursuant to a relevant breach of a non-discrimination rule[^f00013];
+- (c) any—
+  - (i) assets held for the purposes of a partnership pension account[^f00014] that are referable to pension contributions made by or on behalf of M in respect of M’s PCSPS(NI) opted-out service are transferred to the PCSPS(NI), and
+  - (ii) entitlement to a future or current pension under the partnership pension account that would otherwise arise under the rules of the partnership pension account in respect of the value of the assets transferred is surrendered;
+- (d) where any assets that are referable to pension contributions made by or on behalf of M in respect of M’s PCSPS(NI) opted-out service have been paid or transferred out of a partnership pension account, an amount determined by the scheme manager following consultation with the scheme actuary is paid to the PCSPS(NI) in respect of the payment or transfer.
+
+(7) An opted-out service election to be made by—
+
+- (a) a person other than the scheme manager is made when that person confirms that an opted-out service election is to be made following receipt of the notification mentioned in paragraph (4)(b);
+- (b) the scheme manager is made at the time determined by the scheme manager.
+
+(8) See section 5(2) to (4) of PSPJOA 2022 about the effect, timing and irrevocability of an opted-out service election.
+
+### CHAPTER 2 — Immediate choice decision for alpha or PCSPS(NI) benefits
+
+#### 7. Application of Chapter 2[^key-7854e2835a7be8ca923f2b056388d8e3]
+
+(1) This Chapter applies in respect of the remediable service of an immediate choice member (“**M**”).
+
+(2) Where M has remediable service in multiple employments or offices, this Chapter applies separately in relation to the remediable service in each employment or office.
+
+#### 8. Immediate choice decision for alpha or PCSPS(NI) benefits: general[^key-adb8a3c6b7df21a7d1d5247476f6029d]
+
+(1) A decision (an “immediate choice decision”) may be made in accordance with this Chapter—
+
+- (a) to make an election (a “section 6 election”) by virtue of section 6 of PSPJOA 2022 in relation to M’s remediable service, or
+- (b) that no section 6 election is to be made in relation to that service.
+
+(2) An immediate choice decision may be made—
+
+- (a) by M, or
+- (b) where M is deceased, by the eligible decision-maker determined in accordance with the Schedule.
+
+(3) An immediate choice decision made by—
+
+- (a) a person other than the scheme manager is made when it is received by the scheme manager in a form and manner determined by the scheme manager;
+- (b) the scheme manager is made at the time determined by the scheme manager.
+
+(4) An immediate choice decision may only be made before the end of the section 6 election period[^f00015].
+
+(5) An immediate choice decision is irrevocable.
+
+(6) An immediate choice decision to make a section 6 election takes effect as a section 6 election (see sections 6(5) and (7), 7(1)(b) and 9 of PSPJOA 2022 about the effect of a section 6 election).
+
+(7) Paragraph (8) applies where—
+
+- (a) immediately before 1st October 2023, M has remediable service in alpha (“alpha service”), and
+- (b) an immediate choice decision is made that no section 6 election is to be made in relation to M’s remediable service.
+
+(8) Where this paragraph applies, section 6(4) of PSPJOA 2022 does not apply in relation to M’s alpha service (and, accordingly, section 2(1) of PSPJOA 2022 has effect in relation to M’s alpha service for the purposes mentioned in section 2(3)(b) of that Act from the time the immediate choice decision mentioned in paragraph (7)(b) is made).
+
+(9) The following provisions of PSPJOA 2022 have effect in relation to an immediate choice decision that no section 6 election is to be made as they have effect in relation to a section 6 election—
+
+- (a) section 6(7) (section 6 election has effect in respect of all remediable service in the employment or office);
+- (b) section 7(1)(b) (provision about when a section 6 election is to be treated as having taken effect);
+- (c) section 9 (provision about persons with remediable service in more than one Chapter 1 legacy scheme).
+
+#### 9. Immediate choice decision: additional requirements[^key-5719c20045bc029cb809b12b407acb78]
+
+(1) This regulation applies where the immediate choice decision-maker (“**D**”) is a person other than the scheme manager.
+
+(2) An immediate choice decision may not be made unless a remediable service statement has been provided to D in accordance with regulation 4(2)(a).
+
+(3) An immediate choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
+
+- (a) information in D’s possession, or
+- (b) information which D can reasonably be expected to obtain.
+
+#### 10. Immediate choice decision: deemed section 6 election[^key-6ef09084870f2d56fb226cf04f58d7df]
+
+(1) A section 6 election is treated as made in relation to M’s remediable service immediately before the end of the section 6 election period where—
+
+- (a) the end of the section 6 election period in relation to M has passed,
+- (b) no immediate choice decision has been made in relation to M’s remediable service, and
+- (c) condition A or B is met.
+
+(2) Condition A is met where all of M’s remediable service was in alpha.
+
+(3) Condition B is met where—
+
+- (a) M’s remediable service was mixed service, and
+- (b) the scheme manager determines, having consulted the scheme actuary, that the value of benefits payable in relation to M’s remediable service would be greater if payable as alpha benefits than if they were payable as PCSPS(NI) benefits.
+
+### CHAPTER 3 — Deferred choice decision for alpha or PCSPS(NI) benefits
+
+#### 11. Application of Chapter 3[^key-39f5f15e02ed3c243bbeabd7c99241e7]
+
+(1) This Chapter applies in respect of the remediable service of a deferred choice member (“**M**”).
+
+(2) Where M has remediable service in multiple employments or offices, this Chapter applies separately in relation to the remediable service in each employment or office.
+
+#### 12. Deferred choice decision for alpha or PCSPS(NI) benefits: general[^key-4be9e9b59d5c2e200bd294bfd0c3aec7]
+
+(1) A decision (a “deferred choice decision”) may be made—
+
+- (a) to make an election (a “section 10 election”) by virtue of section 10 of PSPJOA 2022 in relation to M’s remediable service, or
+- (b) that no section 10 election is to be made in relation to that service.
+
+(2) A deferred choice decision may be made—
+
+- (a) by M, or
+- (b) where M is deceased, by the eligible decision-maker determined in accordance with the Schedule.
+
+(3) A deferred choice decision made by—
+
+- (a) a person other than the scheme manager is made when it is received by the scheme manager in a form and manner determined by the scheme manager;
+- (b) the scheme manager is made at a time determined by the scheme manager.
+
+(4) A deferred choice decision may only be made before the end of the section 10 election period.
+
+(5) A deferred choice decision to make a section 10 election takes effect as a section 10 election (see sections 10(4) and (5), 11(3)(b), (4) and (7) and 13 of PSPJOA 2022 about the effect of a section 10 election).
+
+(6) Where the deferred choice decision is that no section 10 election is to be made, the benefits payable to or in respect of M, so far as they are determined by reference to M’s remediable service, are PCSPS(NI) benefits.
+
+(7) The following provisions of PSPJOA 2022 have effect in relation to a decision that no section 10 election is to be made as they have effect in relation to a section 10 election—
+
+- (a) section 10(5) (section 10 election has effect in respect of all remediable service in the employment or office);
+- (b) section 11(3)(b), (4) and (7) (provision about when a section 10 election takes effect, and the effect of lapse or revocation of a section 10 election);
+- (c) section 13 (persons with remediable service in more than one Chapter 1 legacy scheme).
+
+#### 13. Deferred choice decision: when a deferred choice decision may be made[^key-15ea3428183a6d712ee5300900defde1]
+
+(1) Where the deferred choice decision-maker is M, a deferred choice decision may be made only during the period—
+
+- (a) beginning on the date of issue of the remediable service statement issued under regulation 4(2)(c)(i), and
+- (b) ending—
+  - (i) at the end of the day 3 months before the day the scheme manager reasonably expects, by virtue of the notification mentioned in regulation 4(2)(c)(i), that benefits in relation to M’s remediable service will become payable,
+  - (ii) subject to paragraph (2), at the end of such other day as the scheme manager considers reasonable in all the circumstances, or
+  - (iii) if earlier than the time which applies by virtue of paragraph (i) or (ii), at the end of the day before the day on which benefits become payable in relation to M’s remediable service.
+
+(2) The end of the period during which a deferred choice decision may be made must not be more than one year before the day on which it is reasonably expected that, if a section 10 election were made, alpha benefits would become payable to or in respect of M.
+
+(3) Where—
+
+- (a) the period for making a deferred choice decision has begun in accordance with paragraph (1)(a), and
+- (b) the scheme manager receives notice that M has died before benefits become payable to M in relation to M’s remediable service,
+
+the period during which a deferred choice decision may be made is to be treated as ending in accordance with paragraph (4)(b) instead of paragraph (1)(b).
+
+(4) Where the deferred choice decision-maker is a person other than M (“**D**”), a deferred choice decision may only be made during the period—
+
+- (a) beginning—
+  - (i) where D is a person other than the scheme manager, on the date of issue of the remediable service statement issued under regulation 4(2)(c)(ii), or
+  - (ii) where D is the scheme manager, on the date the scheme manager receives notice that M has died, and
+- (b) ending—
+  - (i) at the end of the day 12 months after that date,
+  - (ii) except where D is the scheme manager, at the end of such other day as the scheme manager considers reasonable in all the circumstances, or
+  - (iii) if earlier than the time which applies by virtue of paragraph (i) or (ii), immediately after a deferred choice decision is made by D.
+
+(5) Where—
+
+- (a) the deferred choice decision-maker is D, and
+- (b) M had made a deferred choice decision,
+
+D may make a deferred choice decision only if they revoke M’s deferred choice decision in accordance with regulation 14(2).
+
+#### 14. Deferred choice decision: revocation[^key-97786a20e713af92e18fb81312caf38d]
+
+(1) Where the deferred choice decision-maker is M, M may revoke a deferred choice decision—
+
+- (a) at any time before benefits become payable in relation to M’s remediable service, and
+- (b) by M communicating to the scheme manager notice of the revocation in a form and manner determined by the scheme manager.
+
+(2) Where—
+
+- (a) the deferred choice decision-maker is a person other than M or the scheme manager (“**D**”),
+- (b) M had made a deferred choice decision,
+- (c) immediately before M’s death, no pension benefits were payable in relation to M’s remediable service, and
+- (d) the end of the section 10 election period has not passed,
+
+D may revoke M’s deferred choice decision by communicating to the scheme manager notice of the revocation in a form and manner determined by the scheme manager.
+
+(3) A deferred choice decision made by a person other than M is irrevocable.
+
+#### 15. Deferred choice decision: additional requirements[^key-9038ece822749fd5ab03841118ddd207]
+
+Where the deferred choice decision-maker (“**D**”) is a person other than the scheme manager, a deferred choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
+
+- (a) information in D’s possession, or
+- (b) information which D can reasonably be expected to obtain.
+
+## PART 4 — Provision about divorce and dissolution arrangements
+
+### CHAPTER 1 — Pension credit and pension debit members
+
+#### SECTION 1 — Application and interpretation of Chapter 1
+
+##### 16. Application and interpretation of Chapter 1[^key-1d40ad9b6800489b9825c8eb08b6274e]
+
+(1) This Chapter applies in relation to—
+
+- (a) a pension credit member,
+- (b) the corresponding pension debit member, and
+- (c) the pension sharing order by virtue of which C became a pension credit member in relation to D’s remediable service (the “**relevant pension sharing order**”).
+
+(2) In this Chapter—
+
+- “**appropriate person**” means—
+  - (a) D, or
+  - (b) where D is deceased, D’s personal representatives;
+- “**C**” means the pension credit member mentioned in paragraph (1)(a);
+- “**cash equivalent**” means an amount calculated in accordance with regulations made under Article 27 of WRP(NI)O 1999[^f00016];
+- “**corresponding pension debit member**” means the remedy member referred to in sub-paragraph (c) of the definition of “pension credit member”;
+- “**D**” means the corresponding pension debit member mentioned in paragraph (1)(b);
+- “**pension credit member**” means a member of a civil service scheme who has rights under the scheme—
+  - (a) which are attributable (directly or indirectly) to a pension credit,
+  - (b) which arise by virtue of a pension sharing order with a transfer day on or after 1st April 2015, and
+  - (c) the value of which was determined (to any extent) by reference to the value of benefits payable in respect of the remediable service of a remedy member;
+- “**pension sharing order**” means the order or provision by virtue of which Article 26 of WRP(NI)O 1999 applies in relation to a pension credit member and the corresponding pension debit member;
+- “**relevant pension sharing order**” has the meaning given in paragraph (1)(c);
+- “**remediable relevant benefits**” means the benefits or future benefits described in Article 26(4) and (5) of WRP(NI)O 1999 to which D is entitled by virtue of remediable shareable rights;
+- “**remediable shareable rights**” means D’s shareable rights secured by virtue of D’s remediable service during the period beginning with 1st April 2015 and ending with the earlier of—
+  - (a) the day before the transfer date, or
+  - (b) the last day of D’s remediable service;
+- “**shareable rights**” has the meaning given in Article 24(2) of WRP(NI)O 1999;
+- “**transfer day**” means the day on which the relevant pension sharing order takes effect;
+- “**valuation day**” has the meaning given in Article 26(7) of WRP(NI)O 1999.
+
+#### SECTION 2 — Pension sharing orders: information provided before 1st October 2023
+
+##### 17. Application and interpretation of Section 2[^key-60d2723c4d7b07999c60d737a1adce50]
+
+(1) This Section applies where, before 1st October 2023, the scheme manager has provided information for the purpose of determining amounts under Article 26 of WRP(NI)O 1999 in respect of a remedy member’s remediable service.
+
+(2) In this Section—
+
+- “**alternative amount**” has the meaning given in regulation 18;
+- “alternative reduction amount” and “alternative reduction amounts” have the meanings given in, respectively, regulation 21(3) and (4);
+- “**alternative scheme**”, in relation to a relevant pension sharing order that does not relate to mixed service[^f00017] means—
+  - (a) where the initial scheme is the PCSPS(NI), alpha;
+  - (b) where the initial scheme is alpha, the PCSPS(NI);
+- “**C’s pension account**” has the meaning given in regulation 20(4);
+- “**initial amount**” means the total amount determined for the purposes of the relevant pension sharing order under Article 26(2) and (3) of WRP(NI)O 1999 in relation to D’s remediable shareable rights;
+- “**initial reduction amount**” means the amount by which D’s remediable relevant benefits were reduced pursuant to the relevant pension sharing order;
+- “**initial scheme**”, in relation to a relevant pension sharing order that does not relate to mixed service, means the civil service scheme in respect of which an initial amount or an initial reduction amount was determined;
+- “**remediable credit adjustment**” has the meaning given in regulation 19(2).
+
+(3) For the purposes of this Section, a relevant pension sharing order relates to mixed service if it specifies an appropriate amount in accordance with Article 26(2) or (3) of WRP(NI)O 1999 by reference to the value of remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured in both the PCSPS(NI) and alpha (and, accordingly, a relevant pension sharing order does not relate to mixed service if it specifies an appropriate amount by reference to remediable shareable rights secured in only one of those schemes).
+
+##### 18. Meaning of “alternative amount”[^key-7027b27188f329fcd9c733e59fe15c47]
+
+(1) “**Alternative amount**” means—
+
+- (a) in relation to a relevant pension order that does not relate to mixed service, where an initial amount was determined under —
+  - (i) Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from the initial scheme, the amount that would have been determined applying the relevant percentage value under that section on the valuation day if the remediable relevant benefits had been secured in the alternative scheme;
+  - (ii) Article 26(3) of WRP(NI)O 1999 in relation to an amount to be transferred from the initial scheme, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the alternative scheme;
+- (b) in relation to a relevant pension order that relates to mixed service, the greater of—
+  - (i) the PCSPS(NI) amount, and
+  - (ii) the alpha amount.
+
+(2) In paragraph (1)(b)—
+
+- “**the PCSPS(NI) amount**” means, where the initial amount was—
+  - (a) determined under Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from both the PCSPS(NI) and alpha (except where paragraph (2A) applies)[^key-dad693e6eb5d0498779c29242daf38a7] , the amount that would have been determined applying—
+    - (i) in relation to pre-taper date remediable relevant benefits, the PCSPS(NI) percentage value, and
+    - (ii) in relation to post-taper date remediable relevant benefits, the alpha percentage value,
+
+    under that Article on the valuation day if all of the remediable relevant benefits had been secured in the PCSPS(NI);
+  - (b) determined under Article 26(3) of WRP(NI)O 1999 in relation to an amount to be transferred from both the PCSPS(NI) and alpha, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the PCSPS(NI);
+- “**the alpha amount**” means, where the initial amount was—
+  - (a) determined under Article 26(2) of WRP(NI)O 1999 in relation to a percentage value to be transferred from both the PCSPS(NI) and alpha (except where paragraph (2A) applies)[^key-684b2c83ccc137bd0baf931f00ffbc3b] , the amount that would have been determined applying—
+    - (i) in relation to pre-taper date remediable relevant benefits, the PCSPS(NI) percentage value, and
+    - (ii) in relation to post-taper date remediable relevant benefits, the alpha percentage value,
+
+    under that Article on the valuation day if all of the remediable relevant benefits had been secured in alpha;
+  - (b) determined under Article 26(3) of WRP(NI)O 1999 in relation to an amount to be transferred from both the PCSPS(NI) and alpha, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in alpha.
+
+(2A)[^key-e8db9294feb29c11dd694247a25dc4d4] This paragraph applies where the relevant pension order—
+
+- (a) relates to mixed service, and
+- (b) specifies a PCSPS(NI) specified amount and an alpha specified amount.
+
+(2B) Where paragraph (2A) applies—
+
+- “**the PCSPS(NI) amount**” means the aggregate of—
+  - (a) in relation to pre-taper date remediable relevant benefits, the amount equal to the PCSPS(NI) implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the PCSPS(NI), and
+  - (b) in relation to post-taper date remediable relevant benefits, the amount equal to the alpha implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the PCSPS(NI).
+- “**the alpha amount**” means the aggregate of—
+  - (a) in relation to pre-taper date remediable relevant benefits, the amount equal to the PCSPS(NI) implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in alpha, and
+  - (b) in relation to post-taper date remediable relevant benefits, the amount equal to the alpha implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in alpha.
+
+(3) In this regulation—
+
+- “[^key-426245b00be875b4a3ae39d27945922c]**aggregate PCSPS(NI) and alpha implied percentage**” means the percentage that the amount to be transferred from both the PCSPS(NI) and alpha represented of the cash equivalent of the relevant benefits determined as if pre-taper date benefits had been secured in the PCSPS(NI) and post-taper date benefits had been secured in alpha on valuation day;
+- “**alpha implied percentage**” means the percentage that the alpha specified amount represented of the cash equivalent of the post-taper date benefits determined as if all of those benefits had been secured in alpha on valuation day;
+- “**alpha percentage value**” means the percentage value specified in a relevant pension sharing order in relation to alpha for the purpose of determining an amount under Article 26(2) of WRP(NI)O 1999;
+- “**alpha specified amount**” means the amount specified in a relevant pension sharing order in relation to alpha for the purpose of determining an amount under section 26(3) of WRP(NI)O 1999;
+- “**implied percentage**”, in relation to the value of benefits under a civil service scheme, means the percentage that an initial amount determined under Article 26(3) of WRP(NI)O 1999 represented of the cash equivalent of the remediable relevant benefits under that scheme on valuation day;
+- “**PCSPS(NI) implied percentage**” means the percentage that the PCSPS(NI) specified amount represented of the cash equivalent of the pre-taper date benefits determined as if all of those benefits had been secured in the PCSPS(NI) on valuation day;
+- “**PCSPS(NI) percentage value**” means the percentage value specified in a relevant pension sharing order in relation to the PCSPS(NI) for the purpose of determining an amount under Article 26(2) of WRP(NI)O 1999;
+- “**PCSPS(NI) specified amount**” means the amount specified in a relevant pension sharing order in relation to the PCSPS(NI) for the purpose of determining an amount under section 26(3) of WRP(NI)O 1999;
+- “**post-taper date remediable relevant benefits**” means remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured by virtue of D’s remediable service after D’s tapered protection closing date;
+- “**pre-taper date remediable relevant benefits**” means remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured by virtue of D’s remediable service on or before D’s tapered protection closing date;
+- “**relevant percentage value**” means the percentage value the relevant pension sharing order specifies in relation to the initial scheme for the purpose of determining an amount under section 26(2) of WRP(NI)O 1999;
+- “**tapered protection closing date**”, in relation to D, has the meaning given in paragraph 3 of Schedule 2 to the 2014 Regulations.
+
+##### 19. Information provided before 1st October 2023: calculating a remediable credit adjustment[^key-1863dc9664d5af08f84425ad53b09cb6]
+
+(1) The scheme manager must determine the alternative amount in relation to C’s pension credit—
+
+- (a) as soon as reasonably practicable after 30th September 2023, and
+- (b) having consulted the scheme actuary.
+
+(2) Where—
+
+- (a) the alternative amount is greater than the initial amount, or
+- (b) the relevant pension sharing order relates to mixed service and the alternative amount is lower than the initial amount,
+
+C’s pension account is subject to an adjustment (a “remediable credit adjustment”) equal to the difference.
+
+(3) The scheme manager must, by the end of 30th September 2024, provide C with a statement setting out—
+
+- (a) the alternative amount,
+- (b) any remediable credit adjustment, and
+- (c) where regulation 20(4)(b) applies in relation to C, an explanation of the request that may be made in accordance with regulation 20(5) and the consequences of making, or not making, such a request.
+
+##### 20. Information provided before 1st October 2023: applying a remediable credit adjustment[^key-e9d8e4081dd30941e1a1dab19fab95c4]
+
+(1) This regulation applies where C’s pension account is subject to a remediable credit adjustment.
+
+(2) The scheme manager must adjust C’s pension account by an amount equal to the remediable credit adjustment.
+
+(3) An adjustment made under paragraph (2) has effect as if it had been made on the transfer day.
+
+(4) “**C’s pension account**” means, where C has, in relation to the relevant pension sharing order—
+
+- (a) a pension credit in only one civil service scheme, C’s pension account under that scheme;
+- (b) a pension credit in both civil service schemes—
+  - (i) the pension account identified by C in a request made in accordance with paragraph (5), or
+  - (ii) if no request is made in accordance with paragraph (5), C’s pension account under the PCSPS(NI).
+
+(5) A request is made in accordance with this paragraph if—
+
+- (a) it is made in writing to the scheme manager for the purpose of paragraph (4)(b)(i),
+- (b) it is in a form determined by the scheme manager,
+- (c) it unambiguously identifies only one of C’s pension accounts, and
+- (d) it is received by the scheme manager by—
+  - (i) the end of the day 6 months after the date the statement required by regulation 19(3) was provided to C, or
+  - (ii) the end of such later day that the scheme manager considers reasonable in all the circumstances.
+
+(6) A request made in accordance with paragraph (5) is irrevocable.
+
+(7) Section 14(3) to (6) of PSPJOA 2022 applies in relation to C as it applies in relation to a member described in section 14(1) (“**M**”) as if—
+
+- (a) a reference to M’s remediable service in an employment or office were a reference to C’s pension credit;
+- (b) a reference to any effect of sections 2(1) and 6(4) and (5) were a reference to the effect of this regulation;
+- (c) the term “**operative time**” means the time at which the adjustment mentioned in paragraph (2) is made (disregarding paragraph (3)).
+
+##### 21. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^key-762bcf27220df4c70cb5640855c8b14c]
+
+(1) This regulation applies where D’s remediable relevant benefits have been reduced by an initial reduction amount.
+
+(2) The scheme manager must determine the alternative reduction amount or, where the relevant pension sharing relates to mixed service, the alternative reduction amounts in relation to D’s remediable relevant benefits—
+
+- (a) as soon as reasonably practicable after 30th September 2023, and
+- (b) having consulted the scheme actuary.
+
+(3) Where the relevant pension sharing order does not relate to mixed service, the “alternative reduction amount” is such amount as the scheme manager considers appropriate having regard to—
+
+- (a) the cash equivalent of the remediable relevant benefits on the valuation day as if they had been secured in the alternative scheme,
+- (b) the percentage value or the amount to be transferred specified in the relevant pension sharing order, and
+- (c) the provisions of Articles 26 and 28 of WRP(NI)O 1999.
+
+(4) Where the pension sharing order relates to mixed service, the “alternative reduction amounts” are such amounts as the scheme manager considers appropriate having regard to—
+
+- (a) the cash equivalent of the remediable relevant benefits on the valuation day as if they had all been secured in—
+  - (i) the PCSPS(NI), and separately
+  - (ii) alpha, and
+- (b) the matters mentioned in paragraph (3)(b) and (c).
+
+#### SECTION 3 — Information provided on or after 1st October 2023
+
+##### 22. Application and interpretation of Section 3[^key-0e0b565fb98ecf3ef020604d85afff89]
+
+(1) This Section applies where, on or after 1st October 2023, the scheme manager provides information for the purpose of determining amounts under Article 26 of WRP(NI)O 1999 in respect of a remedy member’s remediable service.
+
+(2) In this Section—
+
+- “**the alpha cash equivalent**” has the meaning given in regulation 23(2)(b);
+- “**alternative reduction amount**” has the meaning given in regulation 24(3);
+- “**appropriate amount**” means an amount calculated for the purposes of Article 26(1) of WRP(NI)O 1999;
+- “**immediate choice pensioner member**” means an immediate choice member who is, immediately before these Regulations come into force, a pensioner member in relation to their remediable service;
+- “**the PCSPS(NI) cash equivalent**” has the meaning given in regulation 23(2)(a).
+
+##### 23. Information provided on or after 1st October 2023: calculation of pension credits and debits[^key-0eb380f48d02202567990e32386701b5]
+
+(1) This regulation applies where D is—
+
+- (a) a deferred choice member and no pension benefits have become payable in relation to D’s remediable service, or
+- (b) an immediate choice pensioner member and—
+  - (i) the end of the section 6 election period in relation to D has not passed, and
+  - (ii) no immediate choice decision has been made in relation to D’s remediable service.
+
+(2) For the purpose of calculating the appropriate amount, the scheme manager must determine—
+
+- (a) the cash equivalent of D’s remediable relevant benefits on the valuation day as if those remediable relevant benefits were in the PCSPS(NI) (“the PCSPS(NI) cash equivalent”), and
+- (b) the cash equivalent of those benefits on valuation day as if they were in alpha (“the alpha cash equivalent”).
+
+(3) For the purpose of calculating the pension credit and the pension debit, the scheme manager must use the greater of—
+
+- (a) the PCSPS(NI) cash equivalent, or
+- (b) the alpha cash equivalent.
+
+##### 24. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^key-049753057196d90f1c06a5c84fa310b4]
+
+(1) This regulation applies where D’s remediable relevant benefits are to be reduced in relation to a pension debit calculated under regulation 23(3).
+
+(2) The scheme manager must determine the alternative reduction amount in relation to D’s remediable relevant benefits—
+
+- (a) as soon as reasonably practicable after the transfer day, and
+- (b) having consulted the scheme actuary.
+
+(3) The “alternative reduction amount” is such amount as the scheme manager considers appropriate having regard to—
+
+- (a) the cash equivalent of D’s remediable relevant benefits on valuation day as if they had been remediable relevant benefits secured in—
+  - (i) where the pension debit mentioned in paragraph (1) was calculated on the basis of the PCSPS(NI) cash equivalent, alpha;
+  - (ii) where the pension debit was calculated on the basis of the alpha cash equivalent, the PCSPS(NI);
+- (b) the percentage value or the amount to be transferred specified in the relevant pension sharing order, and
+- (c) the provisions of Articles 26 and 28 of WRP(NI)O 1999.
+
+### CHAPTER 2 — Arrangements on divorce, annulment or dissolution other than a pension sharing order
+
+#### 25. Arrangements other than a pension sharing order: calculating the value of pension benefits[^key-aaac2924fc9a973155a90b1578bfeef9]
+
+(1) This regulation applies where—
+
+- (a) the value of the remediable rights of a member (“**M**”) must be determined for the purpose of proceedings connected to M’s divorce, annulment or the dissolution of M’s civil partnership,
+- (b) the divorce, annulment or dissolution is to take effect—
+  - (i) on or after 1st October 2023, and
+  - (ii) before the earlier of—
+    - (aa) a decision taking effect in relation to M’s remediable service, or
+    - (bb) the end of the relevant election period, and
+- (c) the value of M’s remediable rights is not to be subject to a pension sharing order.
+
+(2) The value of M’s remediable rights for the purpose of the proceedings is the greater of those rights valued by the scheme manager, having consulted the scheme actuary, as if they were—
+
+- (a) secured in the PCSPS(NI), or
+- (b) secured in alpha.
+
+(3) In this regulation—
+
+- “**decision**” means an immediate choice decision or a deferred choice decision;
+- “**end of the relevant election period**” means, where M is—
+  - (a) a deferred choice member, the end of the section 10 election period in relation to M;
+  - (b) an immediate choice member, the end of the section 6 election period in relation to M;
+- “**pension sharing order**” means an order or provision which by virtue of Article 26 of WRP(NI)O 1999 in relation to M’s remediable rights;
+- “**remediable rights**” means the rights secured by virtue of M’s remediable service.
+
+## PART 5 — Voluntary contributions
+
+### CHAPTER 1 — Added pension
+
+#### 26. Interpretation of Chapter 1[^key-050d3133c9df0328cd94da0b09ce2bb3]
+
+In this Chapter—
+
+- “**added pension rights**” means rights to alpha added pension or PCSPS(NI) added pension;
+- “**alpha added pension**” means benefits secured under Part 2 of Schedule 1 to the 2014 Regulations;
+- “**PCSPS(NI) added pension**” means benefits secured under—
+  - (a) rule C1.1 or C1.2 of Section I;
+  - (b) Section 14 of Section II;
+  - (c) rule D.4 or D.5 of Section III;
+- “**periodic arrangement**” means an arrangement under which a remedy member secures added pension rights by virtue of periodic voluntary contributions.
+
+#### 27. Lump sum purchase of added pension[^key-8d66c8760a7c7c69eaed0cb574ade54a]
+
+(1) This regulation applies in relation to added pension rights secured by a lump sum voluntary contribution made by a remedy member (“M”) during the period of M’s remediable service (“the remediable voluntary contribution”).
+
+(2) The scheme manager must—
+
+- (a) as soon as practicable after 1st October 2023, and
+- (b) having consulted the scheme actuary,
+
+determine the equivalent value of the added pension rights that would have been secured in the alternative scheme if the remediable voluntary contribution had been paid to the alternative scheme in the same relevant pension year in which the remediable voluntary contribution was paid (“the alternative added pension value”).
+
+(3) Paragraph (4) applies where—
+
+- (a) M is a deferred choice member, and
+- (b) the added pension rights mentioned in paragraph (1) are rights to alpha added pension.
+
+(4) Where this paragraph applies—
+
+- (a) the rights to alpha added pension secured by the remediable voluntary contribution are extinguished, and
+- (b) the scheme manager must confer rights to PCSPS(NI) added pension that are of equivalent value to the alternative added pension value.
+
+(5) Paragraph (6) applies where—
+
+- (a) M has rights to PCSPS(NI) added pension (whether or not by virtue of paragraph (4)), and
+- (b) the benefits payable in relation to M’s remediable service are alpha benefits by virtue of—
+  - (i) a section 6 election (including a deemed section 6 election), or
+  - (ii) a section 10 election.
+
+(6) Where this paragraph applies the scheme manager must, having consulted the scheme actuary, vary M’s rights to PCSPS(NI) added pension so that they are equivalent to added pension rights that would have been secured under alpha if the remediable voluntary contribution had been paid to alpha in the same relevant pension year in which the remediable voluntary contribution was paid.
+
+(7) In this regulation—
+
+- “**alternative scheme**” means—
+  - (a) in relation to added pension rights secured or treated as secured in alpha, the PCSPS(NI);
+  - (b) in relation to added pension rights secured or treated as secured in the PCSPS(NI), alpha;
+- “**relevant pension year**” has the meaning given in direction 5(16)(c)(i) of the PSP Directions 2023.
+
+#### 28. Periodic arrangements for alpha added pension[^key-3aa5890e6ab8a4fdbea63ec7fe06887a]
+
+(1) This regulation applies in relation to a periodic arrangement for alpha added pension (“the relevant periodic arrangement”)—
+
+- (a) of a member (“**M**”) who is—
+  - (i) a deferred choice member, or
+  - (ii) an immediate choice member in respect of whose remediable service section 2(3)(b) of PSPJOA 2022 has effect, and
+- (b) which commenced during M’s period of remediable service.
+
+(2) The relevant periodic arrangement is to be treated on and after 1st October 2023 as if it is (and always was) a periodic arrangement for PCSPS(NI) added pension.
+
+(3) The rights to alpha added pension secured by payment of any voluntary contribution pursuant to the relevant periodic arrangement are extinguished.
+
+(4) The scheme manager must—
+
+- (a) as soon as is practicable after 1st October 2023, and
+- (b) having consulted the scheme actuary,
+
+confer rights to PCSPS(NI) added pension that are of an equivalent value to the added pension rights that would have been secured in the PCSPS(NI) if each voluntary contribution paid to alpha pursuant to the relevant periodic arrangement had been paid to the PCSPS(NI) in the same relevant pension year in which the voluntary contribution was paid to alpha.
+
+#### 29. PCSPS(NI) added pension: treatment on a section 6 or 10 election[^key-51368a1e9e1df7236048a75fc39b2f4e]
+
+(1) This regulation applies where—
+
+- (a) a remedy member (“**M**”) has rights to PCSPS(NI) added pension—
+  - (i) secured by voluntary contributions made pursuant to a periodic arrangement which commenced during the period of M’s remediable service, or
+  - (ii) conferred under regulation 28(4) in place of extinguished rights to alpha added pension, and
+- (b) the benefits payable in relation to M’s remediable service are, by virtue of a section 6 election (including a deemed section 6 election) or a section 10 election, alpha benefits.
+
+(2) The scheme manager must, having consulted the scheme actuary, vary the rights to PCSPS(NI) added pension so that they are equivalent to the added pension rights that would have been secured in alpha if the voluntary contributions that originally secured the rights mentioned in paragraph (1)(a) had been paid to alpha in the same relevant pension year in which the voluntary contribution was paid.
+
+### CHAPTER 2 — Effective pension age
+
+#### 30. Treatment of EPA rights[^key-bef867b645adffa63ab0534601c2b078]
+
+(1) This regulation applies where a remedy member (“**M**”) entered into an arrangement during the period of their remediable service to pay periodic voluntary contributions (the “remediable voluntary contributions”) to secure EPA rights.
+
+(2) The scheme manager must, as soon as is practicable after 30th September 2023 and having consulted the scheme actuary, determine—
+
+- (a) the equivalent value of added pension rights that would have been secured in the PCSPS(NI) if each remediable voluntary contribution had been paid to secure added pension rights in the PCSPS(NI) in the same relevant pension year in which the remediable voluntary contribution was paid (“the PCSPS(NI) added pension value”), and
+- (b) the “compensatable amount”, being an amount by way of compensation which is equal to—
+  - (i) the aggregate of all of M’s remediable voluntary contributions, less
+  - (ii) an amount in respect of the value of tax relief in accordance with direction 5(5) to (9) of the PSP Directions 2023.
+
+(3) Where a determination is made in accordance with direction 5(8) of the PSP Directions 2023, the following apply—
+
+- (a) direction 5(10) (provision of explanation);
+- (b) direction 5(11) and (12) (appeals).
+
+(3A)[^key-823a065e4d39dc8f84d55d3c5228be8c] Before making a remedy decision, the relevant decision-maker may opt for the scheme manager to pay M or, where M is deceased, M’s personal representatives the compensatable amount.
+
+(3B) The option in paragraph (3A) may only be exercised—
+
+- (a) by notice in a form and manner determined by the scheme manager, and
+- (b) during a period determined by the scheme manager.
+
+(4) When making a remedy decision that no section 6 election or (as the case may be) no section 10 election is to be made in respect of M’s remediable service, the relevant decision-maker may also make a decision in accordance with paragraph (5) that—
+
+- (a) rights to added pension are to be conferred under the PCSPS(NI) that are of an equivalent value to the PCSPS(NI) added pension value, or
+- (b) the scheme manager is required to pay M or, where M is deceased, M’s personal representatives the compensatable amount.
+
+(5) A decision is made in accordance with this paragraph where it is communicated to the scheme manager—
+
+- (a) in a form and manner determined by the scheme manager, and
+- (b) at the same time as the remedy decision mentioned in paragraph (4).
+
+(6) Where—
+
+- (a) a decision is made in accordance with paragraph (5) for the purpose in paragraph (4)(a), or
+- (b) no decision has been made in accordance with paragraph (5), and—
+  - (i) the period during which a remedy decision may be made in relation to M’s remediable service has passed,
+  - (ii) no remedy decision has been made that a section 6 election or a section 10 election is to be made in relation to M’s remediable service, and
+  - (iii) M is not an immediate choice member in respect of whose remediable service a section 6 election is deemed to have been made under regulation 10,
+
+the scheme manager must confer rights to added pension under the PCSPS(NI) that are of an equivalent value to the PCSPS(NI) added pension value.
+
+(7)[^key-9d19976e69c38955e35eb15c4e55bb8b] Where an option is exercised or a decision is made in accordance with—
+
+- (a) paragraph (3B) for the purpose of paragraph (3A), or
+- (b) paragraph (5) for the purpose of paragraph (4)(b),
+
+(8) Where—
+
+- (a) rights to added pension under the PCSPS(NI) are conferred under paragraph (6), or
+- (b) compensation is paid in relation to M’s remediable EPA rights under paragraph (7),
+
+any rights that would otherwise have been secured by the remediable voluntary contributions are extinguished.
+
+(9) In this regulation—
+
+- “**added pension**”, in relation to the PCSPS(NI), has the meaning given to “PCSPS(NI) added pension” in regulation 26;
+- “**EPA rights**” means rights to benefits secured under Part 3 of Schedule 1 to the 2014 Regulations;
+- “**remediable EPA rights**” means EPA rights secured by virtue of remediable voluntary contributions;
+- “**remedy decision**” means an immediate choice decision or a deferred choice decision;
+- “**relevant decision-maker**” means—
+  - (a) where M is a deferred choice member, the deferred choice decision-maker;
+  - (b) where M is an immediate choice member, the immediate choice decision-maker;
+- “**relevant pension year**” has the meaning given in direction 5(16)(c) of the PSP Directions 2023.
+
+### CHAPTER 3 — Treatment of remediable added pension rights
+
+#### 31. Application and interpretation of Chapter 3[^key-0c05f3072b800e11d616af91dfa03f67]
+
+(1) This Chapter applies in relation to “remediable added pension rights”, being added pension rights secured by a remedy member (“**M**”) by virtue of—
+
+- (a) a lump sum voluntary contribution made during the period of M’s remediable service, or
+- (b) a voluntary contribution under a periodic arrangement which commenced during the period of M’s remediable service.
+
+(2) In paragraph (1), “added pension rights” and “periodic arrangement” have the meanings given in regulation 26.
+
+#### 32. Treatment of added pension rights under alpha[^key-4e1813e44e3459d092c6bacece4c28e4]
+
+(1) Where M’s remediable added pension rights would, apart from this regulation, be rights to benefits under alpha, the rights—
+
+- (a) are not, and are treated as never having been, rights to benefits under alpha, and
+- (b) are treated as being, and as always having been, rights to benefits under the PCSPS(NI).
+
+(2) Paragraph (1) has effect for the purpose of determining which civil service scheme is (or at any time was) required to pay benefits to or in respect of M’s remediable added pension rights.
+
+(3) Paragraph (4) applies where—
+
+- (a) section 2(1) of PSPJOA 2022 has effect in relation to the remediable service of an immediate choice member (“**M**”),
+- (b) M secured rights to alpha added pension (within the meaning of regulation 26) by virtue of—
+  - (i) an arrangement under which M paid a lump sum voluntary contribution during the period of M’s remediable service, or
+  - (ii) a periodic arrangement which commenced during the period of M’s remediable service, and
+- (c) immediately before 1st October 2023, M was a pensioner member in relation to alpha.
+
+(4) Where this paragraph applies—
+
+- (a) the rights to alpha added pension mentioned in paragraph (3)(b) are to be treated for the purposes of these Regulations and of PSPJOA 2022 as if those rights were secured by virtue of M’s remediable service, and
+- (b) section 2(5)(a) of PSPJOA 2022 does not apply in relation to the arrangement by virtue of which M secured the rights to alpha added pension (and, accordingly, section 2(1) of PSPJOA 2022 affects that arrangement).
+
+#### 33. Benefits already paid in relation to added pension rights[^key-dc258aba4953aeb0fa049df640139455]
+
+(1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that alpha has at any time paid to a person (“**P**”) so far as—
+
+- (a) they are calculated by reference to remediable added pension rights, and
+- (b) they are benefits that, as a result of regulation 32(1)(a), P was not entitled to receive.
+
+(2) The paid benefits are to be treated for all purposes—
+
+- (a) as not having been paid to P by alpha, but
+- (b) as having been paid to P instead by the PCSPS(NI).
+
+#### 34. Pension benefits and lump sum benefits in relation to remediable additional rights[^key-08d3388074bc8a07d29df13720627c89]
+
+(1) This regulation applies in relation to any benefits that have been paid to or in respect of the remediable added pension rights of an immediate choice member.
+
+(2) Where, at the operative time—
+
+- (a) the aggregate of benefits that (after taking into account the effect, if any, of regulation 33(2)) have been paid under the PCSPS(NI) to any person (“**the beneficiary**”) in respect of M’s remediable additional rights, exceeds
+- (b) the aggregate of the benefits to which (after taking into account the effect, if any, of regulations 27(6), 28(4) and 29(2) and 32(1)) the beneficiary is entitled under the scheme in respect of the rights,
+
+the beneficiary must pay an amount equal to the difference to the scheme.
+
+(3) Where, at the operative time—
+
+- (a) the amount mentioned in paragraph (2)(a), is less than
+- (b) the amount mentioned in paragraph (2)(b),
+
+the scheme manager must pay an amount equal to the difference to the beneficiary.
+
+(4) In this regulation, “**the operative time**” means—
+
+- (a) if an immediate choice decision is made in relation to M’s remediable service, the time the decision is made;
+- (b) otherwise, the end of the section 6 election period in relation to M.
+
+### CHAPTER 4 — Remedial arrangements to pay voluntary contributions to the PCSPS(NI)
+
+#### 35. Remedial arrangements to pay voluntary contributions to secure EPA rights[^key-7a975b166d9630b29b9a5d493f22980c]
+
+(1) This regulation applies to a remedy member (“**M**”) who—
+
+- (a) was, immediately before 1st April 2022, a full protection member within the meaning given to that term by paragraph 1 of Schedule 2 to the 2014 Regulations, and
+- (b) is not a deceased member.
+
+(2) M may elect to enter into an arrangement (a “remedial arrangement”) to pay voluntary contributions to the PCSPS(NI) for rights to EPA in accordance with—
+
+- (a) Part 3 of Schedule 1 to the 2014 Regulations, and
+- (b) this regulation.
+
+(3) M may only enter into a remedial arrangement—
+
+- (a) in respect of a period of M’s remediable service,
+- (b) if the scheme manager is satisfied that it is more likely than not that, but for a relevant breach of a non-discrimination rule, M would, during the period of M’s remediable service, have entered into a similar arrangement,
+- (c) before—
+  - (i) the end of the period of one year beginning with the day on which a remediable service statement is first provided in respect of M, or
+  - (ii) such later time as the scheme manager considers reasonable in all the circumstances, and
+- (d) after the scheme manager has approved an application made in accordance with paragraph (4).
+
+(4) An application is made in accordance with this paragraph where—
+
+- (a) the application is in writing in a form and manner determined by the scheme manager,
+- (b) it is accompanied by any information the scheme manager reasonably requires to be provided for the purposes of—
+  - (i) determining the matters mentioned in paragraph (3)(b);
+  - (ii) complying with any requirement imposed by Part 3 of Schedule 1 to the 2014 Regulations in connection with exercising an option to pay voluntary contributions for rights to EPA, and
+- (c) it is received by the scheme manager—
+  - (i) before the end of the period of six months beginning with the day on which a remediable service statement is first provided in respect of M, or
+  - (ii) such later time as the scheme manager considers reasonable in all the circumstances.
+
+(5) Where M enters into a remedial arrangement—
+
+- (a) the scheme manager must confer rights under the PCSPS(NI) which are equivalent to the rights M would have secured had M entered into a similar arrangement but for a relevant breach of a non-discrimination rule, and
+- (b) M owes to the scheme manager an amount equal to—
+  - (i) the aggregate of the voluntary contributions which M would have owed had M entered into the remedial arrangement at the time M would have entered into a similar arrangement but for a relevant breach of a non-discrimination rule, less
+  - (ii) tax relief amounts calculated in accordance with direction 12(2) to (7) of the PSP Directions 2023.
+
+(6) Where a determination is made in accordance with direction 12(6) of the PSP Directions 2023, the following apply—
+
+- (a) direction 12(8) (provision of explanation);
+- (b) direction 12(9) and (10) (appeals).
+
+(7) Paragraph (8) applies where—
+
+- (a) M is a deferred choice member who enters into a remedial arrangement, and
+- (b) the end of the section 10 election period in relation to M passes and no section 10 election is made, or deemed to be made, in relation to M’s remediable service.
+
+(8) Where this paragraph applies—
+
+- (a) the rights mentioned in paragraph (5)(a) are extinguished, and
+- (b) the scheme manager owes M or, where M is deceased, M’s personal representatives the amount mentioned in paragraph (5)(b).
+
+## PART 6 — Transfers
+
+### CHAPTER 1 — General
+
+#### 36. Interpretation of Part 6[^key-dedd76ce5378a8612bf53d7d8ccaf431]
+
+(1) In this Part—
+
+- “**receiving scheme**”, in relation to a remediable value, means the scheme to which the remediable value was, or is to be, paid;
+- “**reformed public service pension scheme**” means—
+  - (a) a Chapter 1 scheme[^f00018];
+  - (b) a judicial scheme within the meaning of section 70(1) of PSPJOA 2022;
+  - (c) a local government scheme within the meaning of section 86(1) of PSPJOA 2022;
+- “**remediable club transfer value**”, in relation to a member, means the payment or acceptance by the scheme manager of—
+  - (a) a transfer value under Part F of Section I in accordance with the public sector transfer arrangements (within the meaning given to that term by rule A.1(4) of Section I);
+  - (b) a transfer value under Section 6 of Section II in connection with a qualifying transfer (within the meaning given to that term by rule 6.37(iii) of Section II);
+  - (c) a transfer value under Part G of Section III in connection with a Club transfer (within the meaning given to that term by rule A.1(4) of Section III);
+  - (d) a club transfer value under Part 10 of the 2014 Regulations,
+
+  so far as the transfer value relates to the member’s remediable rights;
+- “**remediable rights**”, in relation to a member, means the member’s rights to benefits under a reformed public service pension scheme secured by virtue of the member’s remediable service;
+- “**remediable transfer value**”, in relation to a member, means the payment or acceptance by the scheme manager of a transfer value (other than a remediable club transfer value) under—
+  - (a) Part F of Section I;
+  - (b) Section 6 of Section II;
+  - (c) Part G of Section III;
+  - (d) Part 10 of the 2014 Regulations,
+
+  so far as the transfer value relates to the member’s remediable rights;
+- “**remediable value**” means a remediable club transfer value or a remediable transfer value;
+- “**sending scheme**”, in relation to a remediable value, means the scheme which paid, or is to pay, the remediable value.
+
+(2) Where a provision of this Part requires the scheme manager to calculate a transfer value (including a remediable value), that value is to be calculated in accordance with—
+
+- (a) the provisions of the civil service scheme which apply to the calculation of values of that type, and
+- (b) the guidance and tables provided for the purpose of calculating such values that were, or are, in use on the date used for the calculation of the value which originally secured rights under a civil service scheme.
+
+#### 37. Transferred out remediable service statements[^key-84fb89cbf6aa97f7ad4f86c07f1ad2b6]
+
+Where a remedy member has transferred any rights in respect of remediable service out of a civil service scheme, the scheme manager must provide a transferred out remediable service statement in accordance with direction 6(2) to (4) of the PSP Directions 2023 (and direction 6(4) applies as if the reference to “any provision made by virtue of section 29(1) of PSPJOA 2022” were a reference to regulation 4).
+
+### CHAPTER 2 — Transfers on a cash equivalent basis
+
+#### SECTION 1 — Transfers before 1st October 2023
+
+##### 38. Transfers out before 1st October 2023[^key-f1344e729f54f65b430574149dc5ba35]
+
+(1) Except where paragraph (1A) applies,[^key-3990742c79d5b3ccaed265b755deaef8] this regulation applies in relation to a remedy member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1st October 2023.
+
+(1A)[^key-a4c7737ba82660b5b41d43ba1a3b9c1c] This paragraph applies where—
+
+- (a) the receiving scheme was not a local government scheme within the meaning of section 86(1) of PSPJOA 2022, and
+- (b) the payment was made in circumstances in which any of the following applied—
+  - (i) Rule F.12 of Section I,
+  - (ii) Rule 6.35 of Section II, to the extent that it concerns persons being transferred to a new employer without their consent,
+  - (iii) Rule G.12 of Section III, or
+  - (iv) regulations 155(1) or (2) of the 2014 Regulations (bulk transfers out).
+
+(2) The scheme manager, having consulted the scheme actuary, must calculate the transfer value of M’s remediable rights as if they were secured in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+(3) The scheme manager must notify the receiving scheme of the results of the calculation mentioned in paragraph (2).
+
+(4) Where—
+
+- (a) the greater of the amounts calculated under paragraph (2) (“*x*”) is greater than
+- (b) the amount of the remediable transfer value (“*y*”),
+
+the scheme manager must take reasonable steps to pay the receiving scheme an amount equal to *x* – *y*.
+
+(5) A payment made under paragraph (4) is subject to the same conditions as the remediable transfer value.
+
+(6) Where—
+
+- (a) paragraph (4) applies, and
+- (b) the scheme manager, having taken reasonable steps, is unable to make the payment required by that paragraph,
+
+the scheme manager owes M or, where M is deceased, M’s personal representatives an amount by way of compensation equal to *x – y* (“the compensatable amount”) reduced in accordance with paragraph (7).
+
+(7) Where, if the compensatable amount was paid immediately after the requirement to pay it arose, the payment—
+
+- (a) would be a payment described in regulation 6 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00019] (“**the 2009 Regulations**”) read as if regulation 6(1)(a) of those Regulations were omitted, the compensatable amount is to be reduced by the amount equal to the income tax that would be chargeable on it if regulation 3(b) of the 2009 Regulations applied to it;
+- (b) would not be a payment so described, the compensatable amount is to be reduced by an amount equal to the income tax that would be charged on the amount if it were taxed as pension income under Part 9 of the Income Tax (Earnings and Pensions) Act 2003[^f00020].
+
+##### 39. Transfers in before 1st October 2023[^key-5f26843c4e13d1b5171440d4ec3aa960]
+
+(1) Except where paragraph (1A) applies,[^key-4b10bf52e2d5487e4e75ee0eb0e18774] this regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
+
+(1A)[^key-694fffa9ea0bb6a541bddd7fcb387a98] This paragraph applies where—
+
+- (a) the sending scheme was not a local government scheme within the meaning of section 86(1) PSPJOA 2022, and
+- (b) the payment was accepted in circumstances in which any of the following applied—
+  - (i) Rule F.13 of Section I,
+  - (ii) Rule 6.35 or 6.35za of, or paragraph 19 of Appendix 10 to, Section II, to the extent that each concerns persons being transferred to a new employer without their consent,
+  - (iii) Rule G.13 of Section III, or
+  - (iv) regulation 156(1) or (2) of the 2014 Regulations (bulk transfers in).
+
+(2) The scheme manager, having consulted the scheme actuary, must determine M’s remediable benefits if the transfer value, together with any payment accepted under paragraph (3), were applied in respect of rights secured in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+(3) Where the sending scheme was a reformed public service pension scheme, the scheme manager may accept a payment—
+
+- (a) in respect of the remediable rights to which the remediable transfer value relates, and
+- (b) which is made by the sending scheme pursuant to, or to provision made under, PSPJOA 2022.
+
+(4) A payment accepted under paragraph (3) is to be used for the purpose of determining M’s benefits under a civil service scheme on the same terms as the remediable transfer value.
+
+#### SECTION 2 — Transfers on or after 1st October 2023
+
+##### 40. Application of Section 2[^key-6ae4e43fe1ddfd66a45539364a4e9c02]
+
+This Section applies in respect of a deferred choice member (“**M**”) where no pension benefits have become payable in relation to M’s remediable service.
+
+##### 41. Transfers out on or after 1st October 2023[^key-920f5fd0db31724266fb60ad9179b2a8]
+
+(1) This regulation applies to a remediable transfer value to be paid in relation to M by the scheme manager on or after 1st October 2023.
+
+(2) The scheme manager, having consulted the scheme actuary, must calculate the transfer value of M’s remediable rights as if those rights had been secured in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+(3) The amount of the remediable transfer value is the greater of the amounts calculated under paragraph (2).
+
+### CHAPTER 3 — Transfers on a club basis
+
+#### SECTION 1 — Club transfers before 1st October 2023
+
+##### 42. Club transfers out before 1st October 2023[^key-877a5d300591d473894bbdb03a54a5d6]
+
+(1) This regulation applies in relation to each member (“**M**”) in respect of whom the scheme manager paid a remediable club transfer value before 1st October 2023.
+
+(2) The scheme manager must calculate the transfer value of M’s rights under a civil service scheme as if all of M’s remediable rights had been secured in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+(3) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
+
+(4) Where the receiving scheme is a local government scheme (within the meaning of section 86(1) of PSPJOA 2022), and—
+
+- (a) the greater of the amounts calculated under paragraph (2) (“*x*”) is greater than
+- (b) the amount of the remediable transfer value (“*y*”),
+
+the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
+
+(5) A payment made under paragraph (4) is subject to the same conditions as the remediable club transfer value.
+
+##### 43. Club transfers in before 1st October 2023[^key-5e2b4fc4a0fb115ded2e8b49019d989c]
+
+(1) This regulation applies in relation to each remediable club transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
+
+(2) The scheme manager may accept an adjustment in the value of a remediable club transfer value—
+
+- (a) in respect of the remediable rights to which the remediable club transfer value payment relates, and
+- (b) which is made by the sending scheme pursuant to, or to provision made under, PSPJOA 2022.
+
+(3) An adjustment accepted under paragraph (2) is to be used for the purpose of determining M’s benefits under a civil service scheme on the same terms as the remediable club transfer value.
+
+(4) The scheme manager must determine M’s remediable benefits as if the remediable club transfer value, together with any adjustment accepted under paragraph (2), were applied in respect of rights secured in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+#### SECTION 2 — Club transfers on or after 1st October 2023
+
+##### 44. Application of Section 2[^key-dd19b0d7e82e0f3fa671c7b3f27135d2]
+
+This Section applies in respect of a member (“**M**”) who is a deferred choice member, and to whom no pension benefits have become payable in relation to M’s remediable service.
+
+##### 45. Club transfers out on or after 1st October 2023[^key-bcfe78a72e680db0abfd2ecf495e854b]
+
+(1) This regulation applies in relation to a remediable club transfer value to be paid by the scheme manager in respect of M on or after 1st October 2023.
+
+(2) The scheme manager must calculate the transfer value of M’s rights under a civil service scheme as if all of M’s remediable rights had been secured in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+(3) The amount of the remediable club transfer value is the greater of the amounts calculated under paragraph (2).
+
+(4) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
+
+##### 46. Club transfers in on or after 1st October 2023[^key-d9917eeb8904be4f4d87c2cc50e4d178]
+
+(1) This regulation applies in relation to a remediable club transfer value payment which is accepted by the scheme manager on or after 1st October 2023.
+
+(2) The scheme manager must determine M’s benefits as if the remediable transfer value were applied in respect of rights in—
+
+- (a) the PCSPS(NI), and separately
+- (b) alpha.
+
+#### SECTION 3 — Interim payment of benefits in certain cases
+
+##### 47. Interim payment of benefits in certain cases[^key-af0855d477e3f3b80224377bdd7557b5]
+
+(1) This regulation applies in relation to a deferred choice member (“**M**”) in respect of whom the scheme manager has accepted a remediable club transfer value, where—
+
+- (a) benefits become payable under the PCSPS(NI) in relation to M’s remediable service, and
+- (b) it is impracticable for the scheme manager to issue a remediable service statement in relation to M’s remediable service because the sending scheme has not provided the information required to determine the value of M’s rights in accordance with regulation 43(4).
+
+(2) The scheme manager may, during the relevant period, pay to a person who is entitled to receive benefits in relation to M’s pensionable service (“**the beneficiary**”) the following benefits in relation to M’s rights under the PCSPS(NI)—
+
+- (a) such benefits as do not relate to the remediable club transfer value determined as if a deferred choice decision has been made that no section 10 election is to be made in relation to M’s remediable service, and
+- (b) such benefits as relate to the remediable club transfer value determined as if regulation 50(1) does not apply in relation to the rights secured by the remediable club transfer value.
+
+(3) Where, at the end of the relevant period—
+
+- (a) the aggregate of the benefits that have been paid pursuant to paragraph (2), exceeds
+- (b) the aggregate of the benefits to which (after taking into account the effect, if any, of regulation 50(1) and (4) and section 10(4) of PSPJOA 2022) the beneficiary is entitled under the PCSPS(NI) in respect of M’s pensionable service,
+
+the beneficiary must pay an amount equal to the difference to the scheme manager.
+
+(4) Where, at the end of the relevant period—
+
+- (a) the amount mentioned in paragraph (3)(a), is less than
+- (b) the amount mentioned in paragraph (3)(b),
+
+the scheme manager must pay an amount equal to the difference to the beneficiary.
+
+(5) Regulation 13(1)(b)(iii) does not apply to determine the end of the section 10 election period in relation to M.
+
+(6) In this regulation, “**relevant period**” means the period beginning with the day on which benefits become payable in relation to M’s remediable service and ending with the earlier of—
+
+- (a) the time at which a deferred choice decision is made in relation to M’s remediable service, and
+- (b) the end of the section 10 election period in relation to M.
+
+### CHAPTER 4 — Treatment of rights secured by virtue of a remediable value
+
+#### 48. Application and interpretation of Chapter 4[^key-b443aecafb1320fe3987dcde53e9cb9d]
+
+(1) This Chapter applies in relation to the following accepted by the scheme manager in respect of a member (“**M**”)—
+
+- (a) a remediable transfer value, together with any payment accepted under regulation 39(3);
+- (b) a remediable club transfer value, together with any adjustment accepted under regulation 43(2).
+
+(2) In this Chapter, “**transferred in remediable rights**” means M’s remediable rights in a civil service scheme secured by virtue of a remediable value accepted by the scheme manager together with any payment or, as the case may be, adjustment under regulation 39(3) or 43(2).
+
+#### 49. Transferred in remediable rights treated as being in the PCSPS(NI)[^key-7919749acad74a304c9575477a84ca47]
+
+(1) Where M’s transferred in remediable rights would, apart from this regulation, be rights to benefits under alpha, the rights—
+
+- (a) are not, and are treated as never having been, rights under alpha, and
+- (b) are treated as being, and as always having been, rights under the PCSPS(NI).
+
+(2) Paragraph (1) has effect—
+
+- (a) for the purposes of determining which civil service scheme is (or at any time was) required to pay benefits to or in respect of M’s transferred in remediable rights, and
+- (b) subject to regulation 50, for all other purposes.
+
+#### 50. Varying the value of benefits secured by virtue of transferred in remediable rights[^key-3313f44b1b0a6a2f83bf31df0f92a2ba]
+
+(1) Where—
+
+- (a) M is a deferred choice member, and
+- (b) M’s transferred in remediable rights are treated as rights to benefits under the PCSPS(NI) by virtue of regulation 49(1)(b),
+
+the scheme manager must vary the value of those rights so that they are of an equivalent value to the rights M would have secured under the PCSPS(NI) if the rights had been transferred into that scheme.
+
+(2) A variation under paragraph (1) is to be treated as having taken effect when these Regulations come into operation.
+
+(3) Where—
+
+- (a) M is an immediate choice member, and
+  - (i) an immediate choice decision has been made that no section 6 election is to be made in relation to M’s remediable service, or
+  - (ii) the end of the section 6 election period in relation to M has passed and no section 6 election has been made (or deemed to have been made) in relation to M’s remediable service, and
+- (b) M’s transferred in remediable rights are treated as rights to benefits under the PCSPS(NI) by virtue of regulation 49(1)(b),
+
+the scheme manager must vary the value of those rights so that they are of an equivalent value to rights M would have secured under the PCSPS(NI) if the rights had been transferred into that scheme.
+
+(4) A variation under paragraph (3) is to be treated as having taken effect on the earlier of—
+
+- (a) the time that an immediate choice decision (including a deemed section 6 election) is treated as having taken effect in relation to M’s remediable service, and
+- (b) the end of the section 6 election period in relation to M.
+
+(5) Where—
+
+- (a) the benefits payable to or in respect of M’s remediable service are alpha benefits by virtue of a section 6 election (including a deemed section 6 election) or a section 10 election, and
+- (b) the benefits payable in relation to M’s transferred in remediable rights would otherwise be PCSPS(NI) benefits,
+
+the scheme manager must vary the value of those rights so that they are of an equivalent value to rights M would have secured under alpha if the rights had been transferred into that scheme.
+
+(6) Where the scheme manager is required to vary the value of any rights under this regulation so that they are of an equivalent value to rights that would have been secured in another scheme (“**the alternative scheme**”), the scheme manager must—
+
+- (a) where the rights were secured by virtue of a remediable transfer value, first consult the scheme actuary, and
+- (b) calculate the varied value of the rights as if the remediable value which originally secured rights under a civil service scheme were transferred into the alternative scheme in the relevant pension year that the transfer occurred.
+
+(7) In paragraph (6), “**relevant pension year**” has the meaning given by direction 4(14)(f) of the PSP Directions 2023.
+
+#### 51. Benefits already paid in relation to transferred in remediable rights[^key-018f2df5bf97dfeb2d77eb412ffe9656]
+
+(1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that alpha has at any time paid to a person (“**P**”) so far as—
+
+- (a) they are calculated by reference to P’s, or any other person’s, transferred in remediable rights, and
+- (b) they are benefits that, as a result of regulation 49(1)(a), P was not entitled to receive from alpha.
+
+(2) The paid benefits are to be treated for all purposes—
+
+- (a) as not having been paid to P by alpha, but
+- (b) as having been paid to P instead by the PCSPS(NI).
+
+#### 52. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^key-2c9090558c8e92683796315a56b935fe]
+
+(1) This regulation applies in relation to any benefits that have been paid to or in respect of the transferred in remediable rights of an immediate choice member (“**M**”).
+
+(2) Where, at the operative time—
+
+- (a) the aggregate of benefits that (after taking into account the effect, if any, of regulation 51(2)) have been paid under the PCSPS(NI) to any person (“**the beneficiary**”) in respect of M’s transferred in remediable rights, exceeds
+- (b) the aggregate of the benefits to which (after taking into account the effect, if any, of regulation 50(3) or (5) in relation to the rights) the beneficiary is entitled under the scheme in respect of the rights,
+
+the beneficiary must pay an amount equal to the difference to the scheme.
+
+(3) Where, at the operative time—
+
+- (a) the amount mentioned in paragraph (2)(a), is less than
+- (b) the amount mentioned in paragraph (2)(b),
+
+the scheme manager must pay an amount equal to the difference to the beneficiary.
+
+(4) In this regulation, “**the operative time**” means—
+
+- (a) if an immediate choice decision is made in relation to M’s remediable service, the time the decision is made;
+- (b) otherwise, the end of the section 6 election period in relation to M.
+
+## PART 7 — Provision about special cases
+
+### CHAPTER 1 — Ill-health retirement
+
+#### 53. Application and interpretation of Chapter 1[^key-aa92bb25f6f73e1c42870502d83d43f3]
+
+(1) This Chapter applies in relation to a remedy member (“**M**”) in respect of whom a process of assessment to determine M’s entitlement to ill-health benefits began during the period of M’s remediable service.
+
+(2) In this Chapter—
+
+- “**alternative scheme**” means, in relation to a person who has been assessed for entitlement to ill-health benefits under—
+  - (a) the PCSPS(NI), alpha;
+  - (b) alpha, the PCSPS(NI);
+- “**ill-health benefits**” means—
+  - (a) the following under rule D.4 of Section I—
+    - (i) a lower tier pension (“Section I lower tier”), or
+    - (ii) a lower tier pension and an upper tier top up pension (“Section I upper tier”);
+  - (b) an ill health pension, whether or not with a lump sum, under rule 3.4 of Section II (“Section II ill health benefits”);
+  - (c) the following under rule E.7 of Section III—
+    - (i) a lower tier earned pension (“Section III lower tier”), or
+    - (ii) a lower tier earned pension and an upper tier top up earned pension (“Section III upper tier”);
+  - (d) the following under regulation 74 of the 2014 Regulations—
+    - (i) a lower tier earned pension (“alpha lower tier”), or
+    - (ii) a lower tier earned pension and an upper tier top up earned pension (“alpha upper tier”);
+- “**IHR criteria**” means the requirements in connection with a person’s health imposed by the PCSPS(NI) or (as the case may be) the 2014 Regulations for entitlement to ill-health benefits;
+- “**initial assessment**” means the process of assessment mentioned in paragraph (1);
+- “**relevant time**” means the time when the initial assessment was finally determined, and “**finally determined**” means—
+  - (a) it has been determined that the member meets the IHR criteria in a civil service scheme, or
+  - (b) it has been determined that the member does not meet the ill-health retirement criteria of that scheme, and all routes for disputing that determination have been exhausted (including where any deadline for initiating a dispute has passed and no dispute has been initiated);
+- “**remediable ill-health benefits**” means ill-health benefits payable in relation to M’s remediable service.
+
+#### 54. Whether M meets the IHR criteria in M’s alternative scheme[^key-77ec0e9c804d7a8589866485edb9c115]
+
+(1) Where, pursuant to the initial assessment, it has been finally determined that—
+
+- (a) M meets the IHR criteria for alpha upper tier, M is to be deemed to meet whichever of the following is the IHR criteria in M’s relevant Chapter 1 legacy scheme—
+  - (i) Section I upper tier;
+  - (ii) Section II ill health benefits;
+  - (iii) Section III upper tier;
+- (b) M meets the IHR criteria for alpha lower tier, M is to be deemed to meet whichever of the following is the IHR criteria in M’s relevant Chapter 1 legacy scheme—
+  - (i) Section I lower tier;
+  - (ii) Section II ill health benefits;
+  - (iii) Section III lower tier;
+- (c) M meets the IHR criteria for—
+  - (i) Section III lower tier, M is to be deemed to meet the IHR criteria for alpha lower tier;
+  - (ii) Section III upper tier, M is to be deemed to meet the IHR criteria for alpha upper tier;
+- (d) M satisfies the severe ill-health condition, M is to be deemed to meet the IHR criteria for all ill-health benefits in both alpha and the PCSPS(NI);
+- (e) M does not meet the IHR criteria for—
+  - (i) Section I lower tier, Section II ill health benefits or Section III lower tier, M is to be deemed to not meet the IHR criteria for alpha lower tier or alpha upper tier;
+  - (ii) Section I upper tier or Section III upper tier, M is to be deemed to not meet the IHR criteria for alpha upper tier.
+
+(2) Where, pursuant to the initial assessment, it has been finally determined that—
+
+- (a) M meets the IHR criteria for alpha lower tier, and—
+  - (i) M’s relevant Chapter 1 legacy scheme is not Section II, and
+  - (ii) it has not been determined that M satisfies the severe ill-health condition,
+
+  the scheme manager must determine whether M, at the relevant time, met the IHR criteria for whichever of Section I upper tier or Section III upper tier is the IHR criteria in M’s relevant Chapter 1 legacy scheme;
+- (b) M meets the IHR criteria for Section I lower tier, Section I upper tier or Section II ill health benefits and it has not been determined that M satisfies the severe ill-health condition, the scheme manager must determine whether M, at the relevant time, met the IHR criteria for alpha lower tier or alpha upper tier;
+- (c) M does not meet the IHR criteria for alpha lower tier or alpha upper tier, the scheme manager must determine whether M, at the relevant time, met the IHR criteria for whichever of the following is M’s relevant Chapter 1 legacy scheme—
+  - (i) Section I lower tier and Section I upper tier;
+  - (ii) Section II ill health benefits;
+  - (iii) Section III lower tier and Section III upper tier.
+
+(3) Paragraphs (1) and (2) do not apply where—
+
+- (a) it has been finally determined, pursuant to the initial assessment, that M meets the IHR criteria for alpha lower tier or alpha upper tier, and
+- (b) at the relevant time, M had reached the pension age that would have applied to M had M been a member of the PCSPS(NI).
+
+(4) In making a determination required by paragraph (2), the scheme manager must—
+
+- (a) obtain the opinion of the scheme medical adviser about whether M met the applicable IHR criteria at the relevant time, and
+- (b) treat the opinion of the scheme medical adviser as conclusive of that question.
+
+(5) In forming an opinion for the purpose of paragraph (4), the scheme medical adviser may only have regard to—
+
+- (a) the report (the “outcome report”) produced pursuant to the initial assessment on the basis of which it was determined whether M met, or did not meet, any IHR criteria;
+- (b) where no outcome report is available, any other evidence which—
+  - (i) relates to the question of M’s entitlement to ill-health benefits which was, or could have been, available at or before the relevant time, and
+  - (ii) the scheme manager considers relevant to that question.
+
+(6) For the purposes of this regulation, M satisfies the severe ill-health condition if M is a person described in any of section 229(4)(a) to (c) of the FA 2004[^f00021].
+
+#### 55. Deferred choice members entitled to ill-health benefits in their alternative scheme only[^key-91a78ac033b33a12a586f6c0e9b7cc88]
+
+(1) This regulation applies where—
+
+- (a) it was finally determined, pursuant to the initial assessment, that M was not entitled to any ill-health benefits under alpha,
+- (b) it is determined, pursuant to regulation 54, that at the relevant time M met the IHR criteria in whichever of Section I, Section II or Section III is M’s relevant Chapter 1 legacy scheme, and
+- (c) M is a deferred choice member.
+
+(2) The scheme manager must, as soon as reasonably practicable following the determination mentioned in paragraph (1)(b), send to M a written notice setting out—
+
+- (a) that an election (an “immediate IHR election”) may be made,
+- (b) the time by which an immediate IHR election must be received by the scheme manager, and
+- (c) the consequences of making (or not making) an immediate IHR election.
+
+(3) M may make an immediate IHR election by sending notice of the election to the scheme manager—
+
+- (a) in a form and manner determined by the scheme manager, and
+- (b) so that it is received by the scheme manager no later than the end of the period of three months beginning with the day on which the notice mentioned in paragraph (2) is issued.
+
+(4) Where an immediate IHR election is made, M is, subject to paragraph (5), to be treated—
+
+- (a) for all purposes as if a deferred choice decision has been made that no section 10 election is to be made in relation to M’s remediable service (and, accordingly, the benefits payable in relation to M’s remediable service are PCSPS(NI) benefits),
+- (b) as not being entitled to any benefits in respect of service in an employment or office which—
+  - (i) took place on or after 1st April 2022, and
+  - (ii) is pensionable service under alpha;
+- (c) as not being entitled to the payment of ill-health benefits from the PCSPS(NI), and
+- (d) as being entitled to the payment of ill-health benefits which are—
+  - (i) of an amount that would have been determined under the PCSPS(NI) if the relevant time had been 31st March 2022, and
+  - (ii) payable—
+    - (aa) from alpha, and
+    - (bb) from the day after M’s last day of service in an employment or office which is capable of being pensionable service in a civil service scheme.
+
+(5) Where M does not leave all service in an employment or office which is capable of being pensionable service in a civil service scheme before—
+
+- (a) the end of the period of three months beginning with the day on which notice of the immediate IHR election is received by the scheme manager, or
+- (b) such later time as the scheme manager considers reasonable in all the circumstances,
+
+M is to be treated as if the immediate IHR election had not been made (and no subsequent immediate IHR election may be made).
+
+(6) An immediate IHR election is irrevocable.
+
+(7) The provisions of Chapter 1 of PSPJOA 2022 and of these Regulations about the timing and effect of, as the case may be, a deferred choice decision and a section 10 election apply subject to this regulation.
+
+#### 56. Remedy members entitled to ill-health benefits in their alternative scheme only[^key-e51f1af2d39af793ad7aff1dc570aa76]
+
+(1) This regulation applies where—
+
+- (a) it was finally determined, pursuant to the initial assessment, that M was not entitled to any ill-health benefits under alpha,
+- (b) it is determined, pursuant to regulation 54, that at the relevant time M met the IHR criteria in whichever of Section I, Section II or Section III is M’s relevant Chapter 1 legacy scheme, and
+- (c) M is, or at any time was, a pensioner member of alpha in relation to their remediable service.
+
+(2) Where the benefits payable in relation to M’s remediable service are, by virtue of these Regulations and PSPJOA 2022, PCSPS(NI) benefits, M is to be treated as entitled to the payment of ill-health benefits—
+
+- (a) of an amount that would have been determined under the PCSPS(NI) if the relevant time had been 31st March 2022, and
+- (b) payable—
+  - (i) from alpha, and
+  - (ii) from the day M became a pensioner member of alpha in relation to their remediable service.
+
+(3) M is not entitled to the payment of ill-health benefits from the PCSPS(NI).
+
+#### 57. Remedy members with provisional awards of ill-health pension[^key-55528661cfca30aaa31f641f895f6883]
+
+(1) This regulation applies in relation to a remedy member who, immediately before 1st October 2023, is treated as being entitled to ill-health benefits pursuant to—
+
+- (a) rule D.6 of Section I;
+- (b) rule E.11 of Section III;
+- (c) regulation 75 of the 2014 Regulations.
+
+(2) The scheme manager must—
+
+- (a) determine whether M meets the IHR criteria in M’s alternative scheme, and
+- (b) in making that determination, obtain the opinion of the scheme medical adviser about whether M meets the IHR criteria in M’s alternative scheme.
+
+#### 58. Disapplication of certain requirements[^key-316cc19dca181b827ad93cd259601c8d]
+
+(1) This regulation applies where, by virtue of these Regulations or PSPJOA 2022, ill-health benefits determined by reference to a remedy member’s alternative scheme are payable to a person.
+
+(2) Such ill-health benefits are payable irrespective of non-compliance with a requirement imposed by the PCSPS(NI) or the 2014 Regulations for—
+
+- (a) the scheme manager to approve an entitlement to ill-health benefits;
+- (b) a person to make an application in relation to an entitlement to ill-health benefits.
+
+### CHAPTER 2 — Miscellaneous special cases
+
+#### 59. Protection of the amount of pension in payment to an eligible child[^key-87aef86a88cbcf633b77c197705191ed]
+
+(1) This regulation applies where—
+
+- (a) immediately before 1st October 2023, a pension (a “child pension”) is in payment to an eligible child (“**E**”) in respect of the remediable service of a deceased member (“**M**”),
+- (b) there is a surviving adult (“**S**”) in relation to the deceased member,
+- (c) E is not in the care of S, and
+- (d) S makes an immediate choice decision which would (disregarding this regulation) result in a decrease in the rate of the child pension payable to E in respect of M’s remediable service.
+
+(2) Where this regulation applies—
+
+- (a) E does not owe the scheme manager a liability under section 14(3) of PSPJOA 2022 in respect of the child pension, and
+- (b) the rate of the child pension continues to be the rate that was payable before the immediate choice decision was made.
+
+#### 60. Modification of nomination rules for Section II members[^key-70a6781be958e6f7a84eb7e3dfc890c6]
+
+(1) The regulation applies in relation to a remedy member (“**M**”) who is entitled to nominate a person under rule 3.8 of Section II to receive a death benefit.
+
+(2) Rule 3.8 of Section II applies as if it allows—
+
+- (a) M to nominate—
+  - (i) one or more individuals,
+  - (ii) one incorporated or unincorporated body, or
+  - (iii) one or more individuals and one incorporated or unincorporated body, and
+- (b) for the nomination to specify how payments are to be apportioned between—
+  - (i) two or more individuals or,
+  - (ii) one or more individuals and one incorporated or unincorporated body.
+
+(3) Where—
+
+- (a) M has made a nomination (“the original nomination”) in relation to remediable service in alpha pursuant to regulation 122 of the 2014 Regulations, and
+- (b) M is, by virtue of the operation of PSPJOA 2022 or these Regulations, entitled to nominate a person under rule 3.8 of Section II in relation to that remediable service,
+
+the original nomination continues as if it were made under rule 3.8 of Section II as that rule applies by virtue of paragraph (2).
+
+#### 61. Aggregation of PCSPS(NI) membership[^key-4beff2172b9dc6b78990adc45d0620db]
+
+(1) This regulation applies in relation to a remedy member (“**M**”)—
+
+- (a) who left pensionable service under Section I, Section II or Section III (“the relevant Section”) before 1st April 2022,
+- (b) who, during the period beginning with 1st April 2015 and ending at the end of 31st March 2022, began service (“subsequent service”) in an employment or office which was pensionable under alpha,
+- (c) whose subsequent service would, but for a relevant breach of a non-discrimination rule, have been pensionable under the relevant Section, and
+- (d) who would, had their subsequent service been pensionable under the relevant Section, have been entitled to exercise an aggregation option.
+
+(1A)[^key-f4ef9442533315f334a27f0413234e4d] Paragraphs (1B) and (1C) apply where—
+
+- (a) M is a deferred choice member,
+- (b) one of regulations 38, 41 or 42 of these Regulations applies in respect of M, and
+- (c) a deferred choice decision has not been made.
+
+(1B) M may elect, in accordance with paragraph (1C), that M’s eligible remediable service is to be treated as if an aggregation option had been exercised in relation to that service.
+
+(1C) An election under paragraph (1B) is made in accordance with this paragraph where—
+
+- (a) the scheme manager, on receipt of M’s application for a statement of entitlement, notifies M that M may make such an election, and
+- (b) M gives notice to the scheme manager, in a form and manner determined by the scheme manager, of M’s decision to make such an election.
+
+(2) When making a relevant remedy decision, the relevant decision-maker may elect that M’s eligible remediable service is to be treated as if an aggregation option had been exercised in relation to that service.
+
+(3) An election under paragraph (2) may only be made and revoked in the same circumstances as the relevant remedy decision.
+
+(4) Where an election is made under paragraph (1B) or[^key-4359741eb455971352eb900be1b7373e] paragraph (2), M’s eligible remediable service is to be treated for all purposes as if the aggregation option had been exercised in relation to that service.
+
+(5) In this regulation—
+
+- “**aggregation option**” means—
+  - (a) where the relevant Section is Section I, an option in accordance with rule G.2, G.3 or G.4 of that Section;
+  - (b) where the relevant Section is Section II, an option in accordance with rule 3.38 of that Section;
+  - (c) where the relevant Section is Section III, an option in accordance with rule H.5 of that Section.
+- “**eligible remediable service**” means so much of M’s remediable service as was, immediately before 1st April 2022, service under alpha;
+- “**relevant decision-maker**” means, where M is—
+  - (a) an immediate choice member, the immediate choice decision-maker;
+  - (b) a deferred choice member, the deferred choice decision-maker;
+- “**relevant remedy decision**” means—
+  - (a) an immediate choice decision that no section 6 election is to be made in relation to M’s remediable service, or
+  - (b) a deferred choice decision that no section 10 election is to be made in relation to M’s remediable service.
+
+#### 62. Payment of annual allowance tax charges and provision of information[^key-d2637187abe66502a4038db38e6ab76c]
+
+Where a remedy member is unable to give an effective notice to the scheme administrator under section 237B(3) of FA 2004[^f00022] in relation to an in-scope tax year (within the meaning of direction 7(7) of the PSP Directions 2023) because the time limit in section 237BA[^f00023] has passed, direction 7(2) to (6) of the PSP Directions 2023 applies in relation to the remedy member.
+
+#### 62A. Recovery of injury or compensation scheme benefits[^key-f135c2bf3b45382cb130d49ea506bd44]
+
+(1) This regulation applies where—
+
+- (a) there has been payment to or in respect of a remedy member (“**M**”) of benefits under one or more of—
+  - (i) an injury or compensation scheme established under section 1 of the 2014 Act;
+  - (ii) an injury or compensation scheme established under section 3 of the Superannuation (Northern Ireland) Order 1972, and
+- (b) the amount of payment mentioned in (a) exceeds the amount that would have been paid had there been no relevant breach of a non-discrimination rule in relation to M’s service.
+
+(2) The scheme manager may recover the excess amount mentioned in paragraph (1)(b).
+
+#### 62B. Opt-out period election
+
+(1) This regulation applies in relation to a member (“**M**”) where—
+
+- (a) all of M’s remediable service was in alpha, or
+- (b) M’s remediable service was mixed service.
+
+(2) The relevant decision-maker may make an election that, for such period of M’s remediable service as the relevant decision-maker specifies (“the opt-out period”), M’s service be treated as not having been pensionable service under a civil service scheme.
+
+(3) Except where the scheme manager is the relevant decision-maker, an election under paragraph (2) may only be made after the scheme manager has determined an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager, and
+- (c) received by the scheme manager during a period determined by the scheme manager.
+
+(4) The scheme manager may by written notice require a person who has made an application under paragraph (3) to provide in relation to the application such information that—
+
+- (a) is within the person’s possession, or
+- (b) the person may reasonably be expected to obtain.
+
+(5) As soon as reasonably practicable after receipt of an application under paragraph (3), the scheme manager must—
+
+- (a) determine whether an election under paragraph (2) may be made in relation to M, and
+- (b) notify the person who made the application whether such an election may be made.
+
+(6) Where the scheme manager is the relevant decision maker, the scheme manager must, as soon as is reasonably practicable after determining that they are the relevant decision-maker, determine whether to make such an election in relation to M.
+
+(7) The scheme manager may refuse an application under paragraph (3) where the scheme manager is not satisfied that, but for a relevant breach of a non-discrimination rule, M would more likely than not have opted out of pensionable service for the opt-out period or an equivalent period.
+
+(8) An election under paragraph (2) is made by—
+
+- (a) a person other than the scheme manager when that person sends confirmation to the scheme manager that such an election is to be made following receipt of the notification mentioned in paragraph (5);
+- (b) the scheme manager at the time determined by the scheme manager.
+
+(9) Where an election under paragraph (2) is made, the scheme manager must—
+
+- (a) treat M as having opted that M’s service during the opt-out period should not be pensionable service under a civil service scheme, and
+- (b) pay to M or, where M is deceased, M’s personal representatives an amount of compensation equal to the amount of pension contributions M paid during the opt-out period.
+
+(10) In this regulation, “**relevant decision-maker**” means, where M is —
+
+- (a) an immediate choice member, the immediate choice decision-maker;
+- (b) a deferred choice member, the deferred choice decision-maker.
+
+#### 62C. Retrospective ill-health retirement assessment under alpha
+
+(1) This regulation applies to an immediate choice member (“**M**”), where M was, immediately before 1st April 2022, a full protection member within the meaning of paragraph 1 of Schedule 2 to the 2014 Regulations.
+
+(2) The immediate choice decision-maker may elect for M’s service to be treated as if, during the period of M’s remediable service, M had claimed payment of ill-health benefits under Chapter 4 of Part 6 of the 2014 Regulations (“ill-health benefits”).
+
+(3) Except where the scheme manager is the immediate choice decision-maker, an election under paragraph (2) may only be made after the scheme manager has determined an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager, and
+- (c) received by the scheme manager during a period determined by the scheme manager.
+
+(4) The scheme manager may by written notice require the person who has made an application under paragraph (3) to provide in relation to the application such information that—
+
+- (a) is within the person’s possession, or
+- (b) the person may reasonably be expected to obtain.
+
+(5) As soon as reasonably practicable after receipt of an application made under paragraph (3), the scheme manager must—
+
+- (a) determine whether an election under paragraph (2) may be made in relation to M,
+- (b) determine the entitlement, if any, to ill-health benefits for the period claimed, as if all of M’s remediable service had been in alpha, and
+- (c) notify the person who made the application what M’s entitlement, if any, to ill-health benefits for the period claimed would be.
+
+(6) Where the scheme manager is the relevant decision-maker, the scheme manager must as soon as is reasonably practicable after determining that they are the relevant decision-maker, determine whether to make such an election in relation to M.
+
+(7) The scheme manager may refuse an application made under paragraph (3) where the scheme manager is not satisfied that, but for a relevant breach of a non-discrimination rule, M would more likely than not have claimed payment of ill-health benefits during the period of M’s remediable service.
+
+(8) An election under paragraph (2) is made by—
+
+- (a) a person other than the scheme manager when that person sends confirmation to the scheme manager that such an election is to be made following receipt of the notification mentioned in paragraph (5)(c);
+- (b) the scheme manager at the time determined by the scheme manager.
+
+(9) Where an election under paragraph (2) is made, the scheme manager must treat M’s service as if the ill-health benefits determined under paragraph (5)(b) had been payable from the day after M’s last day of service in an employment or office which is capable of being pensionable service in a civil service scheme.
+
+#### 62D. Retrospective ill-health retirement assessment under Section II
+
+(1) This regulation applies in relation to an immediate choice member (“**M**”) where—
+
+- (a) M was, as at the closing date, a member of Section II, and
+- (b) either—
+  - (i) all of M’s remediable service was in alpha, or
+  - (ii) M’s remediable service was mixed service.
+
+(2) The immediate choice decision-maker may make an election for M’s service to be treated as if, during the period of M’s remediable service, M had claimed payment of an ill-health pension.
+
+(3) Except where the scheme manager is the immediate choice decision-maker, an election under paragraph (2) may only be made after the scheme manager has determined an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager, and
+- (c) received by the scheme manager during a period determined by the scheme manager.
+
+(4) The scheme manager may by written notice require the person making the application under paragraph (3) to provide in relation to the application such information which—
+
+- (a) is within the person’s possession, or
+- (b) the person may reasonably be expected to obtain.
+
+(5) As soon as reasonably practicable after receipt of an application made under paragraph (3), the scheme manager must—
+
+- (a) determine whether an election under paragraph (2) may be made in relation to M,
+- (b) determine the entitlement, if any, to ill-health pension for the period claimed, as if all of M’s remediable service had been in Section II, and
+- (c) notify the person who made the application of the determinations made in accordance with sub-paragraphs (a) and (b).
+
+(6) Where the scheme manager is the immediate choice decision-maker, the scheme manager must, as soon as is reasonably practicable after determining that they are the immediate choice decision-maker, determine whether to make an election under paragraph (2) in relation to M.
+
+(7) The scheme manager may refuse an application made under paragraph (3) where the scheme manager is not satisfied that, but for a relevant breach of a non-discrimination rule, M would more likely than not have claimed payment of an ill-health pension during the period of M’s remediable service.
+
+(8) An election under paragraph (2) is made by—
+
+- (a) a person other than the scheme manager when that person sends confirmation to the scheme manager that such an election is to be made following receipt of the notification mentioned in paragraph (5)(c);
+- (b) the scheme manager at the time determined by the scheme manager.
+
+(9) Where an election under paragraph (2) is made, the scheme manager must treat M as if the ill-health pension had been payable from the day after M’s last day of service in an employment or office which is capable of being pensionable service in a civil service scheme.
+
+#### 62E. Recalculation of partial retirement pension under PCSPS(NI)
+
+(1) This regulation applies in relation to a deferred choice member (“**M**”), where
+
+- (a) either—
+  - (i) all of M’s remediable service was in alpha, or
+  - (ii) M’s remediable service was mixed service,
+- (b) M exercised a partial retirement option under the PCSPS(NI) during M’s period of remediable service and
+- (c) M did not exercise a partial retirement option under alpha during M’s period of remediable service.
+
+(2) The deferred choice decision-maker may make an election that the pensionable service in respect of which M exercised the partial retirement option mentioned in paragraph (1)(b) be treated as if it included M’s remediable service up to and including the date on which that option was exercised.
+
+(3) Except where the scheme manager is the eligible decision-maker, an election under paragraph (2) may only be made after the scheme manager has determined an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager, and
+- (c) received by the scheme manager during a period determined by the scheme manager.
+
+(4) The scheme manager may by written notice require the person making the application under paragraph (3) to provide in relation to the application such information which—
+
+- (a) is within the person’s possession, or
+- (b) the person may reasonably be expected to obtain.
+
+(5) As soon as reasonably practicable after receipt of an application made under paragraph (3), the scheme manager must—
+
+- (a) determine whether an election under paragraph (2) may be made in relation to M, and
+- (b) notify the person who made the application whether such an election may be made.
+
+(6) Where the scheme manager is the person who may make an election under paragraph (2), the scheme manager must, as soon as is reasonably practicable after determining that they are that person, determine whether to make such an election in relation to M.
+
+(7) The scheme manager may refuse an application made under paragraph (3) where the scheme manager is not satisfied that it is more likely than not that, but for a relevant breach of a non-discrimination rule, M would, during the period of M’s remediable service, have exercised an option under paragraph (2) in relation to M’s remediable service.
+
+(8) An election under paragraph (2) is made by—
+
+- (a) a person other than the scheme manager when that person sends confirmation to the scheme manager that an election is to be made following receipt of the notification mentioned in paragraph (5);
+- (b) the scheme manager at the time determined by the scheme manager.
+
+(9) Where an election under paragraph (2) is made, the scheme manager must adjust M’s subsequent partial retirement pension payments under the PCSPS(NI) as if the pensionable service in respect of which M exercised a partial retirement option under the PCSPS(NI) included M’s remediable service up to and including the date on which that option was exercised.
+
+(10) In this regulation—
+
+- “**partial retirement option under alpha**” means an option exercisable under Chapter 3 of Part 6 of the 2014 Regulations;
+- “**partial retirement option under PCSPS(NI)**” means an option exercisable under—
+  - (a) rule D.1A of Section I
+  - (b) rule 3.3b of Section II;
+  - (c) Rule E.4 of Section III.
+
+#### 62F. Recalculation of early retirement pension under PCSPS(NI)
+
+(1) This regulation applies in relation to a deferred choice member (“**M**”), where—
+
+- (a) either—
+  - (i) all of M’s remediable service was in alpha, or
+  - (ii) M’s remediable service was mixed service,
+- (b) M exercised an early retirement option under the PCSPS(NI) during M’s period of remediable service and
+- (c) M did not exercise an early retirement option under alpha during M’s period of remediable service.
+
+(2) The deferred choice decision-maker may make an election that the pensionable service in respect of which M exercised the early retirement option mentioned in paragraph (1)(b) be treated as if it included M’s remediable service up to and including the date on which that option was exercised.
+
+(3) Except where the scheme manager is the eligible decision-maker, an election under paragraph (2) may only be made after the scheme manager has determined an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager, and
+- (c) received by the scheme manager during a period determined by the scheme manager.
+
+(4) The scheme manager may by written notice require the person making the application under paragraph (3) to provide in relation to the application such information which—
+
+- (a) is within the person’s possession, or
+- (b) the person may reasonably be expected to obtain.
+
+(5) As soon as reasonably practicable after receipt of an application made under paragraph (3), the scheme manager must—
+
+- (a) determine whether an election under paragraph (2) may be made in relation to M, and
+- (b) notify the person who made the application whether such an election may be made.
+
+(6) Where the scheme manager is the person who may make an election under paragraph (2), the scheme manager must, as soon as is reasonably practicable, determine whether to make such an election in relation to M.
+
+(7) The scheme manager may refuse an application made under paragraph (3) where the scheme manager is not satisfied that it is more likely than not that, but for a relevant breach of a non-discrimination rule, M would, during the period of M’s remediable service, have exercised an option under paragraph (2) in relation to M’s remediable service.
+
+(8) An election under paragraph (2) by—
+
+- (a) a person other than the scheme manager is made when that person sends confirmation to the scheme manager that an election is to be made following receipt of the notification mentioned in paragraph (5);
+- (b) the scheme manager is made at the time determined by the scheme manager.
+
+(9) Where an election under paragraph (2) is made, the scheme manager must adjust M’s subsequent early retirement pension payments under the PCSPS(NI) as if the pensionable service in respect of which M exercised an early retirement option under the PCSPS(NI) included M’s remediable service up to and including the date on which that option was exercised.
+
+(10) In this regulation, “**early retirement option**” means an option to receive immediate payment of a reduced pension before reaching normal pension age.
+
+## PART 8 — Immediate detriment cases
+
+### 63. Treatment of immediate detriment cases[^key-f5a5ea4f54fc602fa3ee40703e1e9380]
+
+(1) This regulation applies in relation to a person’s (“A’s”) remediable service where an immediate detriment remedy has been obtained in relation to that service by virtue of the condition provided for in section 32(3) of PSPJOA 2022 (“the second condition”) having been met.
+
+(2) These Regulations and sections 2 to 30 of PSPJOA 2022 apply in relation to A’s remediable service as they apply in relation to the remediable service of an immediate choice member in respect of whose remediable service an immediate choice decision has been made that no section 6 election is to be made.
+
+(3) Any amount paid by way of benefits or compensation pursuant to the agreement by virtue of which the second condition has been met is to be treated for the purposes of section 14 of PSPJOA 2022, as—
+
+- (a) a lump sum benefit, if the amount was paid by way of a lump sum;
+- (b) a pension benefit, if the amount was paid otherwise than by way of a lump sum.
+
+## PART 9 — Liabilities and payment
+
+### CHAPTER 1 — Application of Part 9
+
+#### 64. Application of Part 9[^key-6b0c87aa97c2b1a8f0d0c30fa40bfc8c]
+
+This Part applies in relation to relevant amounts[^f00024] owed in respect of the remediable service of a remedy member.
+
+### CHAPTER 2 — Interest, compensation and netting off
+
+#### 65. Interest[^key-3577b9e90f5e116a61bcd83d2e2a6eca]
+
+(1) The scheme manager must calculate interest on a relevant amount described in direction 15 of the PSP Directions 2023 in accordance with the provisions of directions 14 and 15 which apply to that description of relevant amount.
+
+(2) In relation to relevant amounts not described in direction 15 of the PSP Directions 2023, the scheme manager must determine whether interest is paid and, if so, what rate of interest applies and how it is calculated.
+
+(3) The following provisions of the PSP Directions 2023 apply in relation to a determination under paragraph (2) as if it were a determination under direction 16(1) of those Directions—
+
+- (a) direction 16(2) (provision of explanation);
+- (b) direction 16(3) and (4) (appeals).
+
+#### 66. Indirect compensation[^key-b8f2b182aee0f65116ee7a2a3aa45c2b]
+
+(1) This regulation applies where, pursuant to an application under regulation 67, the scheme manager determines that an immediate choice member (“**M**”) has incurred a compensatable loss[^f00025] that is a Part 4 tax loss[^f00026] (a “relevant loss”).
+
+(2) M is not to be paid an amount under section 23 of PSPJOA 2022 by of compensation in respect of the relevant loss.
+
+(3) Instead, the amount of benefit payable under a civil service scheme is to be increased to reflect the amount of the relevant loss in such manner as determined by the scheme manager in accordance with direction 10(2) to (4) of the PSP Directions 2023.
+
+#### 67. Applications for compensation or indirect compensation[^key-a91cf4280efe0cc3f2ec9c83a29927f7]
+
+(1) This regulation applies in relation to—
+
+- (a) the payment of a relevant amount by way of compensation under section 23(1) of PSPJOA 2022;
+- (b) the increase of benefits by way of indirect compensation under regulation 66.
+
+(2) The relevant amount is not payable, or (as the case may be) the benefits are not to be increased, except where—
+
+- (a) an application is made in accordance with direction 18(1) and (2) of the PSP Directions 2023,
+- (b) the application is accompanied by such information that the scheme manager may by written notice require the person making the application (“**P**”) to provide in relation to the proposed compensation which is—
+  - (i) information within P’s possession, or
+  - (ii) information which P may reasonably be expected to obtain, and
+- (c) the scheme manager makes a determination in accordance with direction 18(3) of those Directions.
+
+(3) The following apply in relation to a determination in accordance with direction 18(3) of the PSP Directions 2023—
+
+- (a) direction 18(4) (provision of explanation);
+- (b) direction 18(5) and (6) (appeals).
+
+#### 68. Netting off[^key-1ea730c30ff4dc6c6590e2f4acdb9577]
+
+(1) This regulation applies where—
+
+- (a) relevant amounts owed by and to a person (“**P**”) fall to be paid at the same time or similar times, and
+- (b) the scheme manager has—
+  - (i) determined the interest (if any) that is to be paid on the relevant amounts in accordance with regulation 65, and
+  - (ii) reduced the relevant amounts by tax relief amounts in accordance with regulation 69.
+
+(2) The scheme manager may determine, in accordance with direction 19(2) to (5) of the PSP Directions 2023, that the relevant amounts (and any interest on them) must be aggregated and that the difference must be paid by P to the scheme or (as the case may be) by the scheme to P.
+
+(3) The following provisions of the PSP Directions 2023 apply in relation to a determination under paragraph (2) as if it were a determination under direction 19(1) of those Directions—
+
+- (a) direction 19(6) (provision of explanation);
+- (b) direction 19(7) and (8) (appeals).
+
+### CHAPTER 3 — Reduction and waiver of liabilities
+
+#### 69. Reduction of liabilities in relation to pension contributions[^key-7c745a0b6fc7097fadd67b46cab63863]
+
+(1) This regulation applies where—
+
+- (a) a person owes a liability to pay pension contributions in relation to the remediable service of a remedy member, or
+- (b) the scheme manager owes a liability to pay compensation in relation to such service,
+
+under section 15, 16 or 17 of PSPJOA 2022.
+
+(2) The scheme manager must reduce the liability by tax relief amounts[^f00027]—
+
+- (a) determined in accordance with direction 4(5) to (9) of the PSP Directions 2023, and
+- (b) before the liability is netted off in accordance with regulation 68.
+
+(2A)[^key-2da96df1c0d78294416848ceb9b35bef] Where the aggregate sum of the tax relief amounts as calculated under direction 4(6) of the PSP Directions (NI) 2023 is negative in relation to a relevant member who is an active member of the scheme, a reduction may be made at the discretion of the scheme manager in accordance with direction 4(7)(b)(ii) of those Directions.
+
+(3) The following provisions of the PSP Directions 2023 apply where the scheme manager makes a determination under direction 4(8)—
+
+- (a) direction 4(10) (provision of explanation);
+- (b) direction 4(11) and (12) (appeals).
+
+(4) Paragraphs (5) and (6) apply where assets (“the transferred assets”) held for the purposes of a partnership pension account have been transferred to the PCSPS(NI) in relation to the PCSPS(NI) opted-out service of a remedy member (“**M**”) in accordance with the condition mentioned in regulation 6(6)(c)(i).
+
+(5) The scheme manager—
+
+- (a) must reduce a liability mentioned in paragraph (1)(a) owed in relation to M’s remediable service by an amount equal to the value of the transferred assets which was, immediately before the transfer, referable to employee pension contributions made by or on behalf of M in respect of M’s PCSPS(NI) opted-out service;
+- (b) must not reduce such a liability by reference to the value of the transferred assets which was, immediately before the transfer, referable to any other source.
+
+(6) Where the value of the transferred assets mentioned in paragraph (5)(a) is greater than the liability mentioned in paragraph (1)(a), the scheme manager owes M or, where M is deceased, M’s personal representatives an amount equal to the difference.
+
+(7) In this regulation, “**PCSPS(NI) opted-out service**” has the meaning given in regulation 5(2).
+
+#### 70. Power to reduce or waive amounts owed by a person to the scheme manager[^key-3270e7079b195d817b62a0f80a014e32]
+
+(1) The scheme manager may reduce or waive an amount owed by a person to the scheme under—
+
+- (a) section 14, 15, 16 or 17 of PSPJOA 2022, or
+- (b) these Regulations.
+
+(2) When reducing or waiving an amount under paragraph (1), the scheme manager must comply with the requirements set out in direction 4(1)(a) to (c) of the PSP Directions 2023 (and the reference in direction 4(1)(c) to “any scheme regulations made by virtue of section 26(1)(b) of PSPJOA 2022” is to be read as a reference to regulation 73).
+
+#### 71. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^key-8f8f441c0d4a42101aabfba035c7182a]
+
+(1) This regulation applies where the scheme manager owes a liability to pay compensation to a person (“**P**”) under section 16(3) of PSPJOA 2022.
+
+(2) The scheme manager and P may agree to waive the liability.
+
+(3) Such an agreement—
+
+- (a) must be in writing,
+- (b) may be rescinded with the agreement of the scheme manager and P, and
+- (c) in any event ceases to apply where—
+  - (i) the end of the section 10 election period in relation to the remediable service in respect of which the compensation is payable has passed, and
+  - (ii) no section 10 election is made, or deemed to have been made, in relation to that remediable service.
+
+(4) Where an agreement is rescinded or otherwise ceases to apply, the scheme manager owes P the liability mentioned in paragraph (1).
+
+### CHAPTER 4 — Payment of net liabilities
+
+#### 72. Application of Chapter 4[^key-bd7f0c913a6698933ea74d215fe09792]
+
+This Chapter applies in respect of a relevant amount (together with any interest on that amount) which will be payable after taking into account the effect, if any, of regulations 65 to 71 (a “net liability”).
+
+#### 73. Payment of amounts owed to the scheme manager[^key-2a64f1257894297261ec8283a3740fe3]
+
+(1) This regulation applies where a person (“**P**”) has a net liability to the scheme manager within the meaning of regulation 72.
+
+(2) The scheme manager must send notice in writing to P setting out—
+
+- (a) how the net liability has been calculated,
+- (b) an explanation of the circumstances in which the net liability may be reduced or waived under regulation 70,
+- (c) where the net liability has been calculated by reference to an amount by way of compensation under section 16(3) of PSPJOA 2022, an explanation of the agreement that may be made under regulation 71,
+- (d) when and how the net liability must be paid, and
+- (e) the consequences of not paying the net liability.
+
+(3) Where—
+
+- (a) the scheme manager has sent a notice under paragraph (2), and
+- (b) the amount of the net liability is subsequently adjusted,
+
+the scheme manager must send another notice in writing to P under paragraph (2).
+
+(4) P must pay the amount of the net liability to the scheme manager—
+
+- (a) before the end of the period of six months beginning with the day after the day on which P receives the most recent notice under paragraph (2), or
+- (b) in accordance with an agreement under paragraph (5).
+
+(5) P and the scheme manager may agree that the net liability is to be paid in part or in full—
+
+- (a) by way of instalments, or
+- (b) by way of deductions from any benefits (including a lump sum benefit) to which P is entitled under a civil service scheme.
+
+(6) P and the scheme manager may agree to vary an agreement under paragraph (5).
+
+(7) Where P does not pay any amount that falls due by virtue of paragraph (4)(a) or an agreement under paragraph (5), the scheme manager may deduct such sums from benefits payable to P under a civil service scheme as seem reasonable to the scheme manager for the purpose of discharging P’s liability.
+
+(8) P has no liability to pay any amount on account of the net liability until the time for payment arises in accordance with this regulation or an agreement under this regulation, and until that time the scheme manager has no cause of action for the recovery of any such amount (whether for the purposes of The Limitation (Northern Ireland) Order 1989 [^f00028] or otherwise).
+
+#### 74. Payment of amounts owed to a person[^key-4e7dc796235ee4070be8f216b57d6741]
+
+(1) This regulation applies where the scheme manager owes a net liability to a person (“**P**”).
+
+(2) The scheme manager must pay the amount of the net liability to P—
+
+- (a) as soon as reasonably practicable after the scheme manager determines the amount of the net liability, or
+- (b) where the scheme manager requires P to provide information in accordance with paragraph (3), as soon as reasonably practicable after receipt of that information.
+
+(3) Before paying the amount of a net liability owed to P, the scheme manager may by written notice given as soon as reasonably practicable after the scheme manager determines the amount of the net liability, require P to provide information in relation to the net liability which is—
+
+- (a) information which is within P’s possession, or
+- (b) information which P may reasonably be expected to obtain.
+
+Sealed with the Official Seal of the Department of Finance on 21st September 2023.
+
+(L.S.)
+
+Barry Armstrong
+
+A senior officer of the
+
+Department of Finance
+
+## SCHEDULE — Eligible decision-makers for deceased members
+
+Regulations 4(3), 6(2), 8(2) and 12(2)
+
+### 1. Interpretation[^key-b9e2482868a36d122aaae992fcc8f059]
+
+(1) In this Schedule—
+
+- “**beneficiary**” means a person who has become entitled to receive any death benefit;
+- “child”, except in the term “eligible child”, means a person under the age of 18;
+- “**death benefit**” means a benefit payable on the death of a member under—
+  - (a) Part 8 of the 2014 Regulations;
+  - (b) Part E of Section I;
+  - (c) section 4 of Section II;
+  - (d) Part F of Section III;
+- “**decision**” means an opted-out service election, an immediate choice decision or a deferred choice decision;
+- “**eligible decision-maker**” means a person who may make—
+  - (a) an opted-out service election in accordance with regulation 6(2)(b);
+  - (b) an immediate choice decision in accordance with regulation 8(2)(b);
+  - (c) a deferred choice decision in accordance with regulation 12(2)(b);
+- “**surviving adult**” means—
+  - (a) a surviving spouse;
+  - (b) a surviving civil partner;
+  - (c) in relation to—
+    - (i) alpha, a surviving partner within the meaning of regulation 101 of the 2014 Regulations;
+    - (ii) Section I, a surviving adult dependant within the meaning of rule E.2 of that Section;
+    - (iii) Section III, a surviving adult dependant within the meaning of rule F.2 of that Section.
+
+(2) In this Schedule, a reference to—
+
+- (a) a beneficiary is a reference to a beneficiary of death benefits in relation to M’s remediable service;
+- (b) an eligible child is a reference to an eligible child of M;
+- (c) M is a reference to the deceased remedy member in respect of whose remediable service an election may be made;
+- (d) a surviving adult is a reference to a surviving adult in relation to M.
+
+### 2. Sole beneficiary: an adult[^key-bc865628e87d73d7894920d6c79c4e24]
+
+(1) Where a person is—
+
+- (a) the sole beneficiary, and
+- (b) an adult,
+
+the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) the person mentioned in sub-paragraph (1), or
+- (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
+
+### 3. Sole beneficiary: a child
+
+(1) Where a person (“**A**”) is—
+
+- (a) the sole beneficiary, and
+- (b) a child,
+
+the eligible decision maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) A’s parent or guardian, or
+- (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
+
+### 4. Sole beneficiary: a body[^key-a3684fe0cab5ff1cff169310acc87f20]
+
+Where a body (whether corporate or unincorporated) is the sole beneficiary, the eligible decision-maker is—
+
+- (a) M’s personal representative, or
+- (b) where M has no personal representative, the scheme manager.
+
+### 5. Sole beneficiary: M’s estate[^key-55f8de5c7f07b112de41d8fa0eb6ddd0]
+
+Where M’s estate is the sole beneficiary, the eligible decision-maker is—
+
+- (a) M’s personal representative, or
+- (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
+
+### 6. Multiple beneficiaries: including a surviving adult
+
+(1) Where—
+
+- (a) two or more adults are the only beneficiaries, and
+- (b) one of those adults (“**B**”), is a surviving adult,
+
+the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) B, or
+- (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
+
+### 7. Multiple beneficiaries: including adult eligible children[^key-54fd140ee759fd5fb973da2112d82eb7]
+
+(1) Where—
+
+- (a) two or more adults are the only beneficiaries,
+- (b) none of those adults is a surviving adult, and
+- (c) two or more of those adults are eligible children,
+
+the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) the person agreed upon by the adult eligible children, or
+- (b) where no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager, the scheme manager.
+
+### 8. Multiple beneficiaries: nominated individuals only[^key-336aabf493ea11e5cd1c4fc38d32db25]
+
+(1) Where—
+
+- (a) two or more adults (the “nominated adults”) are beneficiaries of lump sum death benefits, and
+- (b) none of the following are beneficiaries—
+  - (i) a surviving adult, or
+  - (ii) an eligible child (whether or not an adult),
+
+the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) M’s personal representative;
+- (b) where M has no personal representative, the person agreed upon by the nominated adults;
+- (c) where—
+  - (i) M has no personal representative, and
+  - (ii) no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager,
+
+  the scheme manager.
+
+### 9. Multiple beneficiaries: non-adult eligible children[^key-bb3b4d45af29b38deadcc76831e0d74b]
+
+Where the only beneficiaries are children, two or more of whom are eligible children, the eligible decision-maker is—
+
+- (a) where one person has parental responsibility for all the eligible children, that person;
+- (b) otherwise—
+  - (i) M’s personal representative, or
+  - (ii) where M has no personal representative, the scheme manager.
+
+### 10. Multiple beneficiaries: nominated children only[^key-99b4427c53c164cb2f476cfdc989119b]
+
+Where the only beneficiaries are two or more children who are not eligible children, the eligible decision-maker is—
+
+- (a) where one person has parental responsibility for all the children, that person;
+- (b) otherwise—
+  - (i) M’s personal representative, or
+  - (ii) where M has no personal representative, the scheme manager.
+
+### 11. Multiple beneficiaries: one or more adults and one or more children[^key-ef2b1590122bfc12e7946e08d1bf7712]
+
+(1) Where the beneficiaries include one or more adults and one or more children—
+
+- (a) M’s personal representative is the eligible decision-maker;
+- (b) where M has no personal representative, and—
+  - (i) one of the beneficiaries is a surviving adult, that surviving adult is the eligible decision-maker;
+  - (ii) none of the beneficiaries is a surviving adult and—
+    - (aa) one or more of the beneficiaries is an eligible child, or
+    - (bb) none of the beneficiaries is an eligible child,
+
+    the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) Where sub-paragraph (1)(b)(ii) applies, and—
+
+- (a) all relevant children are under 18 and—
+  - (i) have the same guardian, the eligible-decision maker is that guardian;
+  - (ii) do not have the same guardian, the eligible decision-maker is the scheme manager;
+- (b) all relevant children are 18 or over, the eligible decision-maker is—
+  - (i) the person agreed upon by those relevant children, or
+  - (ii) where no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager, the scheme manager;
+- (c) one or more relevant children are under 18 and one or more of the relevant children are 18 or over, the eligible decision-maker is the person agreed upon by—
+  - (i) the relevant children who are 18 or over, and
+  - (ii) the guardian of the relevant children who are under 18.
+
+(3) In sub-paragraph (2), “**relevant children**” means—
+
+- (a) where sub-paragraph (1)(b)(ii)(aa) applies, eligible children;
+- (b) where sub-paragraph (1)(b)(ii)(bb) applies, a person who is a beneficiary and who meets any of conditions A, B or C as set out in regulation 113(2), (3) and (4) of the 2014 Regulations.
+
+### 12. Other cases[^key-b2ddd7dadd67e50f50697f92044c3835]
+
+In any case not covered by paragraphs 2 to 11, the eligible decision-maker is the scheme manager.
+
+### 13. Option for scheme manager to be eligible decision-maker[^key-3cd5e279193d7eaba462d0a862787ef2]
+
+(1) A person (other than the scheme manager) determined as the eligible decision-maker in accordance with paragraph 2, 3, 5, or 6 may, subject to sub-paragraph (3) opt for the scheme manager to be the eligible decision-maker (“scheme manager option”).
+
+(2) A scheme manager option may only be exercised by notice to the scheme manager in a form and manner determined by the scheme manager.
+
+(3) Where a scheme manager option has been exercised, the scheme manager may determine, if the scheme manager considers it reasonable in all the circumstances, that the eligible decision-maker is the scheme manager,
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Public Service Pensions Act (Northern Ireland) [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) (“PSPA(NI) 2014”) makes provision, and confers powers to make further provision (in the form of “**scheme regulations**” as defined in section 1 of PSPA(NI) 2014), about the establishment of public service pension schemes. The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014 ([S.R. 2014 No. 290](https://www.legislation.gov.uk/nisr/2014/290)) (“**the 2014 Regulations**”) are the scheme regulations establishing alpha, the successor civil service pension scheme to the Principal Civil Service Pension Scheme (Northern Ireland) (“the PCSPS(NI)”). The 2014 Regulations provided for transitional protection for certain cohorts of PCSPS(NI) members. This transitional protection was subsequently found to unlawfully discriminate between civil service pension scheme members on the basis of age.
+
+The Public Service Pensions and Judicial Offices Act [2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7) (“PSPJOA 2022”), at Chapter 1, makes provision, and confers powers for scheme regulations under PSPA(NI) 2014 to make further provision, in relation to specified service (“**remediable service**” as defined in section 1 of PSPJOA 2022) of members who benefitted from transitional protection, and of members who did not benefit from transitional protection only by reason of their age. Section 27 of PSPJOA 2022 requires certain powers to make scheme regulations to be exercised in accordance with Treasury directions. Section 38(1) of PSPJOA 2022 defines Treasury directions, in relation to new and existing schemes referenced in the PSPA(NI) 2014, as meaning directions given by the Department of Finance in Northern Ireland (DoF(NI)).
+
+These Regulations are scheme regulations under PSPA(NI) 2014 and in accordance with PSPJOA 2022 in relation to a member’s remediable service in the PCSPS(NI) and alpha. They are, to the extent required by section 27 of PSPJOA 2022, made in accordance with DoF(NI) directions under that section (in the form of The Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023). These Regulations have retrospective effect, which is authorised by section 3(3)(b) of PSPA(NI) 2014.
+
+Part 2 of these Regulations makes provision about when and to whom a remediable service statement is to be provided by the scheme manager (as defined in regulation 2(1)), as well as the contents of the remediable service statement.
+
+Part 3 makes provision about the principal decisions that may be made in relation to a member’s remediable service—
+
+- (a) Chapter 1 makes provision about when and how an election may be made for service in respect of which a member opted-out of alpha to be reinstated and treated as remediable service;
+- (b) Chapter 2 makes provision about when and how a decision may be made, or be deemed to have been made, about whether the remediable service of a pensioner or deceased member (an “immediate choice member”) is to be treated as service in the PCSPS(NI) or in alpha;
+- (c) Chapter 3 makes provision similar to Chapter 2, but in relation to the remediable service of an active or deferred member (a “deferred choice member”).
+
+Part 4 makes provision about cases in which the pension rights secured by virtue of a member’s remediable service are at issue in proceedings relating to the member’s separation from a spouse or civil partner—
+
+- (a) Chapter 1 makes provision about sharing the value of such rights under a pension sharing order where they are subject to a pension debit under Article 26 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147). It provides, in particular, for the calculation or, where appropriate, the re-calculation of the value of a pension debit and a pension credit in relation to the rights;
+- (b) Chapter 2 makes provision about the calculation of the value of rights for the purposes of sharing those rights under an arrangement other than a pension sharing order.
+
+Part 5 makes provision about lump sum voluntary contributions paid by a member during the period of their remediable service, and periodical contributions paid by a member under an arrangement which commenced during the period of their remediable service, to secure additional pension rights—
+
+- (a) Chapter 1 makes provision about rights to additional pension secured in the PCSPS(NI) or alpha in accordance with which rights are conferred or, where relevant, varied so that they reflect the value of rights that would have been secured in the civil service pension scheme in respect of which the member’s pension benefits secured by virtue of their remediable service ultimately become payable;
+- (b) Chapter 2 makes provision about rights to effective pension age secured in alpha in accordance with which, on a decision for the member’s remediable service to be treated as service in the PCSPS(NI), the rights are either converted into PCSPS(NI) additional pension or they are extinguished and compensation is paid in relation to them;
+- (c) Chapter 3 makes provision which causes additional pension rights secured in, and benefits in relation to such rights paid out of, alpha to be treated as secured in, or paid out of, the PCSPS(NI), and for financial corrections of any pension benefits paid in respect of the remediable service of an immediate choice member in relation to such rights;
+- (d) Chapter 4 makes provision enabling a member who did not have the opportunity to elect to purchase rights to effective pension age in respect of remediable service to do so retrospectively.
+
+Part 6 makes provision about transfers in and out of a civil service pension scheme of pension rights during the period of a member’s remediable service—
+
+- (a) Chapter 1 makes provision about, among other things, the provision of a remediable service statement to a person who has transferred out rights in respect of remediable service and in respect of whom a remediable service statement is not otherwise required to be provided;
+- (b) Chapter 2 makes provision about transfers in and out of a civil service pension scheme on a cash equivalent basis, including provision about the calculation (and, where appropriate, the recalculation) of the value of a cash equivalent transfer value, and the making and accepting of payments in relation to the transfer value of rights secured by virtue of remediable service;
+- (c) Chapter 3 makes provision similar to Chapter 2, but in relation to transfers in and out of a civil service pension scheme on a club basis;
+- (d) Chapter 4 makes provision for—
+  - (i) transfers into alpha in respect of rights secured by virtue of remediable service to be treated as being transferred into the PCSPS(NI);
+  - (ii) rights transferred into the PCSPS(NI) to be varied so that they reflect the value of rights in the civil service pension scheme in respect of which rights secured by virtue of a member’s remediable service ultimately become payable;
+  - (iii) financial corrections of any pension benefits paid in respect of the transferred-in rights of an immediate choice member.
+
+Part 7 makes provision about special cases—
+
+- (a) Chapter 1 makes provision about the reassessment of ill-health retirement applications which may have been treated differently if they had been assessed in a member’s alternative civil service pension scheme;
+- (b) Chapter 2 makes provision about—
+  - (i) protecting the amount of any child pension which is already in payment so that it will not be reduced as a result of PSPJOA 2022 or these Regulations;
+  - (ii) ensuring that a member of Section II of the PCSPS(NI) has the same rights in relation to nominating persons to receive a death benefit as members of alpha and of Sections I and III of the PCSPS(NI);
+  - (iii) allowing members who would, but for the transitional protection, have been able to aggregate separate periods of pensionable service in the PCSPS(NI).
+
+Part 8 makes provision cases in which a person has already obtained a remedy in relation to their remediable service. Such persons are treated for the purposes of PSPJOA 2022 and these Regulations as if they were an immediate choice member who has elected to receive PCSPS(NI) benefits in relation to their remediable service.
+
+Part 9 makes provision about any amounts (“relevant amounts”) owed to or by a person as a result of PSPJOA 2022 or these Regulations—
+
+- (a) Chapter 2 makes provision for the calculation of interest on relevant amounts, for the increase of benefits instead of the payment of a relevant amount, for the making of an application where a person wishes to claim compensation, and for the netting off of relevant amounts owed to and by a person;
+- (b) Chapter 3 makes provision about the reduction and waiver of relevant amounts, in particular a requirement for the scheme manager to reduce some relevant amounts by tax relief amount, the discretion of the scheme manager to reduce or waive relevant amounts owed by a person to a scheme in certain circumstances, and the option to defer payment of certain relevant amounts owed to a member until an election is made in relation to the member’s remediable service;
+- (c) Chapter 4 makes provision about when and how relevant amounts must be paid.
+
+An impact assessment has not been completed for these Regulations. An Explanatory Memorandum has been published alongside these Regulations on http://www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) was amended by section 94(12) of PSPJOA 2022, and section 3(2)(c) was inserted by section 94(13) of that Act.
+
+[^f00002]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
+
+[^f00003]: Footnote: See section 38 of PSPJOA 2022 for the meaning of “Treasury Directions”, which includes directions given by the Department of Finance. The Public Service Pensions (Exercise of Powers, Compensation, and Information) Directions (Northern Ireland) 2023 were published on 26 January 2023 and are accessible online at https://www.finance-ni.gov.uk/publications/directions-made-under-public-service-pensions-and-judicial-offices-act-2022.
+
+[^key-6449dfcec510f9dddb92cd189b83bd18]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-d8c10b066f7c4f22c06e101743e90e3d]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00004]: Footnote: [S.R. 2014 No. 290](https://www.legislation.gov.uk/nisr/2014/290).
+
+[^f00005]: Footnote: See section 34 of PSPJOA 2022 for the meaning of “new scheme benefits”.
+
+[^f00006]: Footnote: See section 19(7) of PSPJOA 2022 for the meanings of “pension debit” and “pension credit”.
+
+[^f00007]: Footnote: [1972 No. 1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073).
+
+[^f00008]: Footnote: See section 4 of PSPJOA 2022 for the meaning of “the relevant Chapter 1 legacy scheme”.
+
+[^f00009]: Footnote: See section 1 of PSPJOA 2022 for the meaning of “remediable service”.
+
+[^key-a01e760117b678e0d0a778f3daf3d1dd]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-f484929fe4b720658c78ee3ba97059ec]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00010]: Footnote: See section 29(10) of PSPJOA 2022 for the meaning of “the relevant date”.
+
+[^f00011]: Footnote: In accordance with section 29(9) of PSPJOA 2022, only one request under regulation 4(2)(b)(ii) may be made during any period of 12 months.
+
+[^key-46254cc7d0980fff29033919ef9aa68d]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/141/regulation/4A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [4](https://www.legislation.gov.uk/nisr/2026/99/regulation/4)
+
+[^key-1ed3365f987c9e295540573a105e5d6c]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00012]: Footnote: See sections 5(7) (read with section 4) and 36 of PSPJOA 2022 for the meaning of relevant opted-out service in relation to a Chapter 1 legacy scheme (such as the PCSPS(NI)).
+
+[^key-ba7a5bbb2273f44c1ed599051713a911]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00013]: Footnote: See section 25(8) of PSPJOA 2022 for the meaning of “non-discrimination rule” and section 25(9) for the circumstances in which breach of a non-discrimination rule is “relevant”.
+
+[^f00014]: Footnote: See section 110(1) of PSPJOA 2022 for the definition of “partnership pension account”.
+
+[^key-7854e2835a7be8ca923f2b056388d8e3]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-adb8a3c6b7df21a7d1d5247476f6029d]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00015]: Footnote: See section 7(2) of PSPJOA 2022 for the meaning of “the end of the section 6 election period”.
+
+[^key-5719c20045bc029cb809b12b407acb78]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-6ef09084870f2d56fb226cf04f58d7df]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-39f5f15e02ed3c243bbeabd7c99241e7]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-4be9e9b59d5c2e200bd294bfd0c3aec7]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-15ea3428183a6d712ee5300900defde1]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-97786a20e713af92e18fb81312caf38d]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-9038ece822749fd5ab03841118ddd207]: Commencement: Reg. 15 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-1d40ad9b6800489b9825c8eb08b6274e]: Commencement: Reg. 16 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00016]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**WRP(NI)O 1999**” means the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147).
+
+[^key-60d2723c4d7b07999c60d737a1adce50]: Commencement: Reg. 17 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00017]: Footnote: See section 19(6) for the meaning of “mixed service”.
+
+[^key-7027b27188f329fcd9c733e59fe15c47]: Commencement: Reg. 18 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-dad693e6eb5d0498779c29242daf38a7]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2/b) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(2)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/2/a)
+
+[^key-684b2c83ccc137bd0baf931f00ffbc3b]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2/b) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(2)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/2/b)
+
+[^key-e8db9294feb29c11dd694247a25dc4d4]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2A)[(2B)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/2B) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/3)
+
+[^key-426245b00be875b4a3ae39d27945922c]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2023/141/regulation/18/3) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [5(4)](https://www.legislation.gov.uk/nisr/2026/99/regulation/5/4)
+
+[^key-1863dc9664d5af08f84425ad53b09cb6]: Commencement: Reg. 19 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-e9d8e4081dd30941e1a1dab19fab95c4]: Commencement: Reg. 20 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-762bcf27220df4c70cb5640855c8b14c]: Commencement: Reg. 21 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-0e0b565fb98ecf3ef020604d85afff89]: Commencement: Reg. 22 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-0eb380f48d02202567990e32386701b5]: Commencement: Reg. 23 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-049753057196d90f1c06a5c84fa310b4]: Commencement: Reg. 24 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-aaac2924fc9a973155a90b1578bfeef9]: Commencement: Reg. 25 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-050d3133c9df0328cd94da0b09ce2bb3]: Commencement: Reg. 26 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-8d66c8760a7c7c69eaed0cb574ade54a]: Commencement: Reg. 27 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-3aa5890e6ab8a4fdbea63ec7fe06887a]: Commencement: Reg. 28 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-51368a1e9e1df7236048a75fc39b2f4e]: Commencement: Reg. 29 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-bef867b645adffa63ab0534601c2b078]: Commencement: Reg. 30 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-823a065e4d39dc8f84d55d3c5228be8c]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/3B) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [6(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/6/2)
+
+[^key-9d19976e69c38955e35eb15c4e55bb8b]: Textual amendment: [Reg. 30(7)](https://www.legislation.gov.uk/nisr/2023/141/regulation/30/7) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [6(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/6/3)
+
+[^key-0c05f3072b800e11d616af91dfa03f67]: Commencement: Reg. 31 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-4e1813e44e3459d092c6bacece4c28e4]: Commencement: Reg. 32 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-dc258aba4953aeb0fa049df640139455]: Commencement: Reg. 33 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-08d3388074bc8a07d29df13720627c89]: Commencement: Reg. 34 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-7a975b166d9630b29b9a5d493f22980c]: Commencement: Reg. 35 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-dedd76ce5378a8612bf53d7d8ccaf431]: Commencement: Reg. 36 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00018]: Footnote: See section 33 of PSPJOA 2022 for the meaning of “Chapter 1 scheme”.
+
+[^key-84fb89cbf6aa97f7ad4f86c07f1ad2b6]: Commencement: Reg. 37 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-f1344e729f54f65b430574149dc5ba35]: Commencement: Reg. 38 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-3990742c79d5b3ccaed265b755deaef8]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2023/141/regulation/38/1) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/1/a)
+
+[^key-a4c7737ba82660b5b41d43ba1a3b9c1c]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/38/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/1/b)
+
+[^f00019]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171). Regulation 6 was amended by section 42(6)(a) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^f00020]: Footnote: [2003, c. 1](https://www.legislation.gov.uk/ukpga/2009/1171).
+
+[^key-5f26843c4e13d1b5171440d4ec3aa960]: Commencement: Reg. 39 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-4b10bf52e2d5487e4e75ee0eb0e18774]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2023/141/regulation/39/1) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/2/a)
+
+[^key-694fffa9ea0bb6a541bddd7fcb387a98]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/39/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/7/2/b)
+
+[^key-6ae4e43fe1ddfd66a45539364a4e9c02]: Commencement: Reg. 40 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-920f5fd0db31724266fb60ad9179b2a8]: Commencement: Reg. 41 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-877a5d300591d473894bbdb03a54a5d6]: Commencement: Reg. 42 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-5e2b4fc4a0fb115ded2e8b49019d989c]: Commencement: Reg. 43 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-dd19b0d7e82e0f3fa671c7b3f27135d2]: Commencement: Reg. 44 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-bcfe78a72e680db0abfd2ecf495e854b]: Commencement: Reg. 45 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-d9917eeb8904be4f4d87c2cc50e4d178]: Commencement: Reg. 46 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-af0855d477e3f3b80224377bdd7557b5]: Commencement: Reg. 47 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-b443aecafb1320fe3987dcde53e9cb9d]: Commencement: Reg. 48 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-7919749acad74a304c9575477a84ca47]: Commencement: Reg. 49 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-3313f44b1b0a6a2f83bf31df0f92a2ba]: Commencement: Reg. 50 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-018f2df5bf97dfeb2d77eb412ffe9656]: Commencement: Reg. 51 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-2c9090558c8e92683796315a56b935fe]: Commencement: Reg. 52 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-aa92bb25f6f73e1c42870502d83d43f3]: Commencement: Reg. 53 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-77ec0e9c804d7a8589866485edb9c115]: Commencement: Reg. 54 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00021]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 229(4) was inserted by paragraph 6(4) of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^key-91a78ac033b33a12a586f6c0e9b7cc88]: Commencement: Reg. 55 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-e51f1af2d39af793ad7aff1dc570aa76]: Commencement: Reg. 56 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-55528661cfca30aaa31f641f895f6883]: Commencement: Reg. 57 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-316cc19dca181b827ad93cd259601c8d]: Commencement: Reg. 58 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-87aef86a88cbcf633b77c197705191ed]: Commencement: Reg. 59 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-70a6781be958e6f7a84eb7e3dfc890c6]: Commencement: Reg. 60 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-4beff2172b9dc6b78990adc45d0620db]: Commencement: Reg. 61 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-f4ef9442533315f334a27f0413234e4d]: Textual amendment: [Reg. 61(1A)-(1C)](https://www.legislation.gov.uk/nisr/2023/141/regulation/61/1A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(1)(a)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/1/a)
+
+[^key-4359741eb455971352eb900be1b7373e]: Textual amendment: Words in [reg. 61(4)](https://www.legislation.gov.uk/nisr/2023/141/regulation/61/4) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(1)(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/1/b)
+
+[^key-d2637187abe66502a4038db38e6ab76c]: Commencement: Reg. 62 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00022]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted by paragraph 15 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^f00023]: Footnote: Section 237BA was inserted by section 9(3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
+
+[^key-f135c2bf3b45382cb130d49ea506bd44]: Textual amendment: [Regs. 62A-62F](https://www.legislation.gov.uk/nisr/2023/141/regulation/62A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [8(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/8/2)
+
+[^key-f5a5ea4f54fc602fa3ee40703e1e9380]: Commencement: Reg. 63 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-6b0c87aa97c2b1a8f0d0c30fa40bfc8c]: Commencement: Reg. 64 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00024]: Footnote: See section 26(3) of PSPJOA 2022 for the meaning of “relevant amounts”.
+
+[^key-3577b9e90f5e116a61bcd83d2e2a6eca]: Commencement: Reg. 65 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-b8f2b182aee0f65116ee7a2a3aa45c2b]: Commencement: Reg. 66 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00025]: Footnote: See section 23 of PSPJOA 2022 and direction 11 of the PSP Directions 2023 for the meaning of “compensatable loss”.
+
+[^f00026]: Footnote: See section 23(9) of PSPJOA 2022 for the meaning of “Part 4 tax loss”.
+
+[^key-a91cf4280efe0cc3f2ec9c83a29927f7]: Commencement: Reg. 67 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-1ea730c30ff4dc6c6590e2f4acdb9577]: Commencement: Reg. 68 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-7c745a0b6fc7097fadd67b46cab63863]: Commencement: Reg. 69 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00027]: Footnote: See section 18(4) of PSPJOA 2022 for the meaning of “**tax relief amounts**” for the purposes of a liability mentioned in regulation 68(1)(a) and section 18(7) of that Act for the meaning of that term for the purposes of a liability mentioned in regulation 68(1)(b).
+
+[^key-2da96df1c0d78294416848ceb9b35bef]: Textual amendment: [Reg. 69(2A)](https://www.legislation.gov.uk/nisr/2023/141/regulation/69/2A) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [9](https://www.legislation.gov.uk/nisr/2026/99/regulation/9)
+
+[^key-3270e7079b195d817b62a0f80a014e32]: Commencement: Reg. 70 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-8f8f441c0d4a42101aabfba035c7182a]: Commencement: Reg. 71 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-bd7f0c913a6698933ea74d215fe09792]: Commencement: Reg. 72 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-2a64f1257894297261ec8283a3740fe3]: Commencement: Reg. 73 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^f00028]: Footnote: [1989 No. 1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339).
+
+[^key-4e7dc796235ee4070be8f216b57d6741]: Commencement: Reg. 74 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-b9e2482868a36d122aaae992fcc8f059]: Commencement: Sch. para. 1 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-bc865628e87d73d7894920d6c79c4e24]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/2), [3](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/3) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/2)
+
+[^key-a3684fe0cab5ff1cff169310acc87f20]: Commencement: Sch. para. 4 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-55f8de5c7f07b112de41d8fa0eb6ddd0]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/5), [6](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/6) substituted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(3)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/3)
+
+[^key-54fd140ee759fd5fb973da2112d82eb7]: Commencement: Sch. para. 7 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-336aabf493ea11e5cd1c4fc38d32db25]: Commencement: Sch. para. 8 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-bb3b4d45af29b38deadcc76831e0d74b]: Commencement: Sch. para. 9 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-99b4427c53c164cb2f476cfdc989119b]: Commencement: Sch. para. 10 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-ef2b1590122bfc12e7946e08d1bf7712]: Commencement: Sch. para. 11 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-b2ddd7dadd67e50f50697f92044c3835]: Commencement: Sch. para. 12 in operation at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/141/regulation/1/b)
+
+[^key-3cd5e279193d7eaba462d0a862787ef2]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2023/141/schedule/paragraph/13) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [10(4)](https://www.legislation.gov.uk/nisr/2026/99/regulation/10/4)

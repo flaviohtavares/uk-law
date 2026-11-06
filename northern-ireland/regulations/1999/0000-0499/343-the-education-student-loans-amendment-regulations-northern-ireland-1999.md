@@ -1,0 +1,90 @@
+---
+title: The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1999
+id: nisr/1999/343
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-08-03'
+text_date: '2005-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/343
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/343/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1999
+
+> Text as at 2005-08-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 343
+
+EDUCATION
+
+The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1999
+
+Made
+
+3rd August 1999
+
+Coming into operation
+
+1st August 1999
+
+The Department of Education, in exercise of the powers conferred on it by Article 3(2) of and paragraphs 1 and 2 of Schedule 2 to, the Education (Student Loans) (Northern Ireland) Order 1990[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-ba0ed41cd4a7bada2ca222988efb626a]
+
+These Regulations may be cited as the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 1st August 1999.
+
+## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^key-25a32c961292f85c1f8f8fada46e0422]
+
+The Education (Student Loans) Regulations (Northern Ireland) 1998[^f00002] shall be amended as provided in regulations 3 and 4.
+
+**3.**[^key-f704aeb1f433b4d6e657fed064e7ee92][^key-0ebee36506c1ab57764efcf794e7ce56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-c4491fc1f280c9cf5e5d6b5c3d2783e2] In Schedule 2—
+
+- (a) in paragraph 1 in the definition of “course” insert after the words “at the same” the words “or another”;
+- (b) in paragraph 3—
+  - (i) for the word “results” substitute the words “would result”; and
+  - (ii) after the initials “APR” insert the words “for a loan on the terms of this loan”.
+
+Sealed with the Official Seal of the Department of Education on 3rd August 1999.
+
+Alan McVeigh
+
+Assistant Secretary
+
+(This note is not part of the Regulations.)
+
+These Regulations, which come into operation on 1st August 1999, amend the Education (Student Loans) Regulations (Northern Ireland) 1998 (“the principal Regulations”). The principal Regulations govern loans made under the Education (Student Loans) (Northern Ireland) Order 1990, which are mortgage style repayment loans. Such loans are for the most part made to students who began their courses before 1st August 1998. Loans under the Student Support (Northern Ireland) Order 1998, repayable through the tax system, are made to students beginning their courses on or after 1st August 1998.
+
+These amending Regulations increase the maximum amounts which may be lent in relation to an academic year in line with inflation (regulation 3).
+
+They provide for loans to continue to be available, and not to become repayable, when a student transfers to another designated course at another institution, as well as when he transfers to such a course at the same institution (regulation 4(a)).
+
+They also clarify the means of calculating interest by reference to the annual percentage rate of charge (regulation 4(b)).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); as amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), Article 43 and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), Article 3 and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), Articles 3 to 6
+
+[^key-ba0ed41cd4a7bada2ca222988efb626a]: Commencement: Reg. 1 in operation at 1.8.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/343/regulation/1)
+
+[^key-25a32c961292f85c1f8f8fada46e0422]: Commencement: Reg. 2 in operation at 1.8.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/343/regulation/1)
+
+[^f00002]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262) and by [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303)
+
+[^key-f704aeb1f433b4d6e657fed064e7ee92]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/343/regulation/3) revoked (1.8.2005) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/351)](https://www.legislation.gov.uk/nisr/2005/351), [regs. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/351/regulation/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/351/schedule/1)
+
+[^key-0ebee36506c1ab57764efcf794e7ce56]: Commencement: Reg. 3 in operation at 1.8.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/343/regulation/1)
+
+[^key-c4491fc1f280c9cf5e5d6b5c3d2783e2]: Commencement: Reg. 4 in operation at 1.8.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/343/regulation/1)

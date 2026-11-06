@@ -1,0 +1,92 @@
+---
+title: The Universal Credit (Childcare) (Amendment) Regulations (Northern Ireland) 2023
+id: nisr/2023/90
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2023-06-06'
+text_date: '2023-06-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2023/90
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2023/90/pdfs/nisrem_20230090_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2023/90/pdfs/nisr_20230090_en.pdf
+- http://www.legislation.gov.uk/nisr/2023/90/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Universal Credit (Childcare) (Amendment) Regulations (Northern Ireland) 2023
+
+> Text as at 2023-06-28.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2023 No. 90
+
+Social Security
+
+The Universal Credit (Childcare) (Amendment) Regulations (Northern Ireland) 2023
+
+Made
+
+6th June 2023
+
+Coming into operation
+
+28th June 2023
+
+The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 17(1) and (3), 48(1) and (5) of the Welfare Reform (Northern Ireland) Order 2015[^f00002].
+
+The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
+
+## 1. Citation and commencement[^key-d0dbbad8eca652d4b78bab9a35e07c59]
+
+These Regulations may be cited as the Universal Credit (Childcare) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 28th June 2023.
+
+## 2. Amendment of the Universal Credit Regulations[^key-841ddf6641547bfe293302da005ce036]
+
+(1) The Universal Credit Regulations (Northern Ireland) 2016[^f00004] are amended as follows.
+
+(2) In regulation 38 (Amounts of elements), in the table—
+
+- (a) in the row under “Childcare costs element” showing the maximum amount for one child, for “£646.35” substitute “£950.92”;
+- (b) in the row under “Childcare costs element” showing the maximum amount for two or more children, for “£1,108.04” substitute “£1,630.15”.
+
+Sealed with the Official Seal of the Department for Communities on 6th June 2023.
+
+(L.S.)
+
+David Tarr
+
+A senior officer of the Department for Communities
+
+Explanatory Note
+
+(This is not part of the Regulations)
+
+These Regulations amend the Universal Credit Regulations (Northern Ireland) (2016 S.R. No. 2016) (“**the UC Regulations**”).
+
+Regulation 2(2) amends regulation 38 of the UC Regulations and increases the maximum amount which can be paid in respect of childcare costs in universal credit.
+
+These Regulations make in relation to Northern Ireland provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+A full impact assessment has not been produced for these Regulations as no, or no significant, impact on the private, public or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: The Department for Social Development was renamed the Department for Communities in accordance with section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5).
+
+[^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
+
+[^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927).
+
+[^key-d0dbbad8eca652d4b78bab9a35e07c59]: Commencement: Reg. 1 in operation at 28.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/90/regulation/1)
+
+[^key-841ddf6641547bfe293302da005ce036]: Commencement: Reg. 2 in operation at 28.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/90/regulation/1)
+
+[^f00004]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216). Regulation 80A was inserted by [S.R. 2016 No. 375](https://www.legislation.gov.uk/nisr/2016/375).

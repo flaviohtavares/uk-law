@@ -1,0 +1,121 @@
+---
+title: The Housing Benefit (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2012
+id: nisr/2012/157
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2012-03-30'
+text_date: '2014-01-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2012/157
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/157/pdfs/nisrem_20120157_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/157/pdfs/nisr_20120157_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing Benefit (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2012
+
+> Text as at 2014-01-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2012 No. 157
+
+Housing
+
+The Housing Benefit (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2012
+
+Made
+
+30th March 2012
+
+Coming into operation
+
+2nd April 2012
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(d), 129A(2) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c21232321] and now vested in it [^c21232331].
+
+Proposals in respect of these Regulations were not referred to the Social Security Advisory Committee since it appeared to the Department for Social Development that by reason of the urgency of the matter it was inexpedient to do so [^c21232341].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Housing Benefit (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2012 and shall come into operation on 2nd April 2012.
+
+(2) The Interpretation Act (Northern Ireland) 1954 [^c21232351] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Housing Benefit (Executive Determinations) Regulations
+
+(1) The Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008 [^c21232361] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation) before the definition of “broad rental market area” insert—
+
+> “**applicable consumer prices index**” in relation to any year means the consumer prices index of annual inflation as at September of that year published by the Office of National Statistics [^c21232371];
+
+.
+
+(3) In regulation 3 (broad rental market area determinations and local housing allowance determinations)—
+
+- (a) in paragraph (1) for “On 20th March 2008 and so often thereafter as the Executive considers appropriate, the Executive shall” substitute “ At such times as the Executive considers appropriate, the Executive shall, if the Department agrees ”;
+- (b) for paragraph (2) substitute—
+
+  > (2) In 2012, and in each subsequent year, no more than 20 working days after the applicable consumer prices index is published, the Executive shall for each broad rental market area determine, in accordance with the Schedule, a local housing allowance for each of the categories of dwelling set out in paragraph 1 of the Schedule.
+
+  ; and
+- (c) for paragraph (3) substitute—
+
+  > (3) Any broad rental market area determination made in accordance with paragraph (1) shall take effect—
+  >
+  > - (a) on the day the determination is made for the purpose of enabling the Executive to determine a local housing allowance for that area; and
+  > - (b) for all other purposes on the next 1st April following the day on which the determination is made.
+  >
+  > (3A) Any local housing allowance determination made in accordance with paragraph (2) shall take effect on the next 1st April following the day on which the determination is made.
+
+  .
+
+(4) In the Schedule (broad rental market area determinations and local housing allowance determinations)—
+
+- (a) in paragraph 1(1) [^c21232381] (categories of dwelling) for “regulation 3(2)(a)” substitute “ regulation 3(2) ”; and
+- (b)[^key-626dc8992d984dbd460d138d456edbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 30th March 2012
+
+Anne McCleary
+
+A senior officer of the
+
+Department for Social Development
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008 to make changes to the way in which broad rental market areas and local housing allowance are determined.
+
+Regulation 2(2) inserts a definition of “applicable consumer prices index” into regulation 2(1).
+
+Regulation 2(3) amends regulation 3. Regulation 2(3)(a) amends paragraph (1) so that where the Northern Ireland Housing Executive (“**the Executive**”) considers that one or more broad rental market areas need to be determined, a determination will only be made where the Department agrees that the Executive should do so. Regulation 2(3)(b) substitutes paragraph (2) so that the Executive determines local housing allowance rates annually in accordance with the Schedule no more than 20 working days after the publication of the consumer prices index (“CPI”) as at September of that year. Regulation 2(3)(c) substitutes paragraph (3) so that a broad rental market area determination takes effect on the day it is made for the purpose of allowing the Executive to determine a local housing allowance and from 1st April after it is made for other purposes. Regulation 2(3)(c) also substitutes a new paragraph (3A) which provides that a local housing allowance determination takes effect from 1st April after it is made.
+
+Regulation 2(4) amends the Schedule. Regulation 2(4)(a) makes an amendment consequential on the amendment by regulation 2(3)(b). Regulation 2(4)(b)(i) inserts paragraph 2(1A) so that the local housing allowance is the lower of the rent at the 30th percentile of listed rents or the previous year's local housing allowance increased by reference to CPI. Regulation 2(4)(b)(ii) makes an amendment consequential on the amendment by regulation 2(4)(b)(i). Regulation 2(4)(b)(iii) substitutes sub-paragraphs (11) to (13) for sub-paragraphs (11) to (12) of paragraph 2 to provide for the method of increasing the local housing allowance by reference to CPI. Where the CPI published in any year is not a positive number or is zero, the rent at the 30th percentile will be compared with the previous year's local housing allowance rate.
+
+## Annotations
+
+[^c21232321]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [section 129A](https://www.legislation.gov.uk/nisr/2012/157/section/129A) was inserted by section 30(2) of the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2) and section 171(1) was amended by paragraph 5 of Schedule 4 to the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^c21232331]: Marginal citation: *See* Article 8(b) of S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481)
+
+[^c21232341]: Marginal citation: *See* sections 149(2) and 150(1)(a) of the [Social Security Administration (Northern Ireland) Act 1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^c21232351]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c21232361]: Marginal citation: S.R. [2008 No.100](https://www.legislation.gov.uk/ukcm/2008/100); relevant amending Regulations are S.R. [2011 No. 51](https://www.legislation.gov.uk/ukcm/2011/51)
+
+[^c21232371]: Marginal citation: The Consumer Prices Index figure is published on the website of the Office for National Statistics (www.ons.gov.uk)
+
+[^c21232381]: Marginal citation: To which there is an amendment not relevant to these Regulations
+
+[^key-626dc8992d984dbd460d138d456edbc9]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2012/157/regulation/2/4/b) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)

@@ -1,0 +1,175 @@
+---
+title: Bookmaking (Forms of Licences) Regulations (Northern Ireland) 2004
+id: nisr/2004/424
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-10-05'
+text_date: '2016-10-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/424
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/424/pdfs/nisr_20040424_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/424/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bookmaking (Forms of Licences) Regulations (Northern Ireland) 2004
+
+> Text as at 2016-10-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 424
+
+BETTING, GAMING AND LOTTERIES
+
+Bookmaking (Forms of Licences) Regulations (Northern Ireland) 2004
+
+Made
+
+5th October 2004
+
+Coming into operation
+
+6th January 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Article 15(1) and (2) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00001] and now vested in it [^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-4c68758f03a087a99b34ed8cb52eac57]
+
+These Regulations may be cited as the Bookmaking (Forms of Licences) Regulations (Northern Ireland) 2004 and shall come into operation on 6th January 2005.
+
+## 2. Forms of licences[^key-62b8185c6f91212783627474caf8d6ef]
+
+(1) A bookmaker’s licence shall be in Form 1 in the Schedule.
+
+(2) A bookmaking office licence shall be in Form 2 in the Schedule.
+
+(3) There shall be entered on each licence such of the entries as are therein set out as relate to the orders made by the court whether upon the grant or renewal of the bookmaker’s licence or upon the grant, transfer, renewal of, or otherwise in relation to, the bookmaking office licence.
+
+(4)[^key-b0657bafd54ae19e5ec286a38e456f4a] Every entry on each licence shall be verified, as the case may be, by the signature of the chief clerk or the clerk of petty sessions.
+
+## 3. Revocations[^key-ff3e12e2d4a0fecac306b64f91609144]
+
+The following are hereby revoked –
+
+- (a) the Bookmaking (Forms of Licences) Regulations (Northern Ireland) 1987[^f00003]; and
+- (b) the Bookmaking (Forms of Licences) (Amendment) Regulations (Northern Ireland) 2004[^f00004].
+
+Sealed with the Official Seal of the Department for Social Development on 5th October 2004.
+
+Henry Johnston
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE[^key-8badab6cc98189a6d5dafc6ef6b443d0][^key-ffb2ef1640bf431731617e7779ba32f1][^key-5ce562929a12e15b4090b693506a98f8][^key-c5d47636a8e89c0160672b2043238358][^key-c1eb42a2d1f6b198a713d33ed7f82ea5][^key-83dac324d85edbfebedc7cca20bcc3a0][^key-bf328db67979c0f12d8627a6c41f6a9d][^key-e390d1fb494ad044afb4e329ca3da25a][^key-9c601dcafb481d89732f8e253be7ec4c][^key-722e37869fddf3daa454d0c4ca23c8fd][^key-4c302257485a16792ec263ed7cb0a3ce][^key-887e166573337d1c54e2d29d158cd2e7][^key-c9d5a9f3d99b84938abce15b288b392d][^key-4fcf5d8b3d09d025bca67768070f57c1][^key-0701f505adfd37874226b731d3b50887][^key-391169afbacaa4fa6da4767844ba143a][^key-ec92fad635153b9b96befea2ea205cf5][^key-c6114050e1002d828f6ec40b02d8c2ad][^key-4a571e86a90eb4ed19aa51bfd96ccf33][^key-18050d438c7b17017c7a0e123edca3b7][^key-493c59fb35d8298caf185d59934d6b09][^key-ceffb99a7140818ab14cae15f179a610][^key-b03eb8680a07f7b564262213ba52f7fb][^key-0ad6752496b7cade195b212926635109][^key-aebf6e5fbb97fc8442910e72f8ea27f4][^key-1af62a653ee0ad91d4e680cd1db2c2a2][^key-382584325f9817fffc37fe05e4f9d434][^key-7c031d60c7bd17756c92da7ecfcdf2e3][^key-7d26cc7f492c1922460d4a5c146c7aee]
+
+Regulation 2(1)
+
+FORM 1
+
+LICENCE AUTHORISING THE HOLDER TO CARRY ON THE BUSINESS OF A BOOKMAKER – BOOKMAKER'S LICENCE
+
+(Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2004/424/images/nisr_20040424_en_001)
+
+FORM 2
+
+LICENCE AUTHORISING A LICENSED BOOKMAKER TO CARRY ON THE BUSINESS OF A BOOKMAKER IN PREMISES SPECIFIED IN THE LICENCE – BOOKMAKING OFFICE LICENCE
+
+(Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985)
+
+Regulation 2(2)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2004/424/images/nisr_20040424_en_002) [image: see source](https://www.legislation.gov.uk/nisr/2004/424/images/nisr_20040424_en_003) [image: see source](https://www.legislation.gov.uk/nisr/2004/424/images/nisr_20040424_en_004) [image: see source](https://www.legislation.gov.uk/nisr/2004/424/images/nisr_20040424_en_005)
+
+(This note is not part of the Regulations.)
+
+These Regulations prescribe the form of bookmakers' and bookmaking office licences.
+
+They revoke and re-enact with changes the Bookmaking (Forms of Licences) Regulations (Northern Ireland) 1987 as amended by the Bookmaking (Forms of Licences) (Amendment) Regulations (Northern Ireland) 2004 to take account of the transfer of responsibility for the grant of bookmaking office licences from a court of summary jurisdiction to a county court.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204) as amended by S.I. [2004/310 (N.I. 1)](https://www.legislation.gov.uk/nisi/2004/310), Article 5(1) and Schedule 2; *see* Article 2(2) of S.I. [1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204) for the definitions of “the Department” and “regulations”
+
+[^f00002]: Footnote: *See* Article 8(b) of and Part II of Schedule 6 to the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
+
+[^key-4c68758f03a087a99b34ed8cb52eac57]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1) in operation at 6.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1)
+
+[^key-62b8185c6f91212783627474caf8d6ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/424/regulation/2) in operation at 6.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1)
+
+[^key-b0657bafd54ae19e5ec286a38e456f4a]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2004/424/regulation/2/4) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(2)](https://www.legislation.gov.uk/nisr/2016/317/article/23/2); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-ff3e12e2d4a0fecac306b64f91609144]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/424/regulation/3) in operation at 6.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1)
+
+[^f00003]: Footnote: [S.R. 1987 No. 191](https://www.legislation.gov.uk/nisr/1987/191)
+
+[^f00004]: Footnote: [S.R. 2004 No. 257](https://www.legislation.gov.uk/nisr/2004/257)
+
+[^key-8badab6cc98189a6d5dafc6ef6b443d0]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) in operation at 6.1.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1)
+
+[^key-ffb2ef1640bf431731617e7779ba32f1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) heading omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(3)(a)](https://www.legislation.gov.uk/nisr/2016/317/article/23/3/a); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-5ce562929a12e15b4090b693506a98f8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(3)(b)](https://www.legislation.gov.uk/nisr/2016/317/article/23/3/b); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-c5d47636a8e89c0160672b2043238358]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(3)(c)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/3/c/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-c1eb42a2d1f6b198a713d33ed7f82ea5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/3/c/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-83dac324d85edbfebedc7cca20bcc3a0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) heading omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(a)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/a); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-bf328db67979c0f12d8627a6c41f6a9d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(b)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/b/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-e390d1fb494ad044afb4e329ca3da25a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/b/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-9c601dcafb481d89732f8e253be7ec4c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(c)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/c/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-722e37869fddf3daa454d0c4ca23c8fd]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/c/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-4c302257485a16792ec263ed7cb0a3ce]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/c/iii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-887e166573337d1c54e2d29d158cd2e7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(i)(aa)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/i/aa); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-c9d5a9f3d99b84938abce15b288b392d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(i)(bb)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/i/bb); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-4fcf5d8b3d09d025bca67768070f57c1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(i)(cc)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/i/cc); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-0701f505adfd37874226b731d3b50887]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(ii)(aa)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/ii/aa); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-391169afbacaa4fa6da4767844ba143a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(ii)(bb)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/ii/bb); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-ec92fad635153b9b96befea2ea205cf5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(iii)(bb)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/iii/bb); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-c6114050e1002d828f6ec40b02d8c2ad]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(iii)(aa)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/iii/aa); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-4a571e86a90eb4ed19aa51bfd96ccf33]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(d)(iii)(cc)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/d/iii/cc); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-18050d438c7b17017c7a0e123edca3b7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(e)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/e/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-493c59fb35d8298caf185d59934d6b09]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(e)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/e/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-ceffb99a7140818ab14cae15f179a610]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(e)(iii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/e/iii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-b03eb8680a07f7b564262213ba52f7fb]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(f)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/f/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-0ad6752496b7cade195b212926635109]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(f)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/f/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-aebf6e5fbb97fc8442910e72f8ea27f4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(f)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/f/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-1af62a653ee0ad91d4e680cd1db2c2a2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(4)(f)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/4/f/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-382584325f9817fffc37fe05e4f9d434]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form inserted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(d)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/23/d/i); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-7c031d60c7bd17756c92da7ecfcdf2e3]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(d)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/d/ii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-7d26cc7f492c1922460d4a5c146c7aee]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/424/schedule) Form omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [23(d)(iii)](https://www.legislation.gov.uk/nisr/2016/317/article/23/d/iii); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)

@@ -1,0 +1,63 @@
+---
+title: Clean Neighbourhoods and Environment Act (Northern Ireland) 2011, section 43
+act: Clean Neighbourhoods and Environment Act (Northern Ireland) 2011
+section: '43'
+status: revised
+text_date: '2015-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2011/23/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Clean Neighbourhoods and Environment Act (Northern Ireland) 2011, section 43
+
+> Text as at 2015-04-01.
+>
+> Extent: Northern Ireland.
+
+## 43. Fixed penalty notices for contravention of dog control order[^key-8533fb9f6371515163273c87e92b2864]
+
+*Extent: N.I.*
+
+(1) This section applies where on any occasion an authorised officer of a district council has reason to believe that a person has committed an offence under a dog control order made by that council.
+
+(2) The authorised officer may give that person a notice offering that person the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
+
+(3) A fixed penalty payable under this section is payable to the district council whose officer gave the notice.
+
+(4) Where a person is given a notice under this section in respect of an offence—
+
+- (a) no proceedings may be instituted for that offence before the expiration of the period of 14 days following the date of the notice; and
+- (b) that person may not be convicted of that offence if that person pays the fixed penalty before the expiration of that period.
+
+(5) A notice under this section must give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information of the offence.
+
+(6) A notice under this section must also state—
+
+- (a) the period during which, by virtue of subsection (4), proceedings will not be taken for the offence;
+- (b) the amount of the fixed penalty; and
+- (c) the person to whom and the address at which the fixed penalty may be paid.
+
+(7) Without prejudice to payment by any other method, payment of the fixed penalty may be made by pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise) to the person mentioned in subsection (6)(c) at the address so mentioned.
+
+(8) Where a letter is sent in accordance with subsection (7) payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+
+(9) The form of a notice under this section is to be such as the Department may by order prescribe.
+
+(10) In any proceedings a certificate which—
+
+- (a) purports to be signed on behalf of the clerk of the council, and
+- (b) states that payment of a fixed penalty was or was not received by a date specified in the certificate,
+
+is evidence of the facts stated.
+
+(11) In this section “**authorised officer**”, in relation to a district council, means—
+
+- (a) an employee of the district council who is authorised in writing by the council for the purpose of giving notices under this section;
+- (b) any person who, in pursuance of arrangements made with the council, has the function of giving such notices and is authorised in writing by the council to perform that function; and
+- (c) any employee of such a person who is authorised in writing by the council for the purpose of giving such notices.
+
+## Annotations
+
+[^key-8533fb9f6371515163273c87e92b2864]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2011/23/section/43) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -1,0 +1,176 @@
+---
+title: The Chemical Analysis of Water Status (Technical Specifications) Regulations (Northern Ireland) 2011
+id: nisr/2011/238
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-07-01'
+text_date: '2018-12-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/238
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/238/pdfs/nisrem_20110238_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/238/pdfs/nisr_20110238_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/238/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Chemical Analysis of Water Status (Technical Specifications) Regulations (Northern Ireland) 2011
+
+> Text as at 2018-12-24.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 238
+
+European Communities
+
+Environmental Protection
+
+The Chemical Analysis of Water Status (Technical Specifications) Regulations (Northern Ireland) 2011
+
+Made
+
+1st July 2011
+
+Coming into operation
+
+20th August 2011
+
+The Department of the Environment, being a department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the Environment, in exercise of the powers conferred upon it by that section, makes the following Regulations:
+
+## 1. Citation and commencement[^key-9faf96fcc77708a5d1e2e226155bbf9d]
+
+These Regulations may be cited as The Chemical Analysis of Water Status (Technical Specifications) Regulations (Northern Ireland) 2011 and shall come into operation on 20<sup>th</sup> August 2011.
+
+## 2. Interpretation[^key-e21704477ae29c0b4c3fe97eb3f500fd]
+
+(1) In these Regulations—
+
+- “limit of detection” means the output signal or concentration value above which it can be affirmed, with a stated level of confidence that a sample is different from a blank sample containing no determinand of interest;
+- “limit of quantification” means a stated multiple of the limit of detection at a concentration of the determinand that can reasonably be determined with an acceptable level of accuracy and precision. The limit of quantification can be calculated using an appropriate standard or sample, and may be obtained from the lowest calibration point on the calibration curve, excluding the blank;
+- [^key-95508f9f4c5086931c86b20ed9848398]...[^f00003]
+- “[^key-c81c2a89603244949f5608d7e0511d35]**protected area**” has the same meaning as in regulation 10(2) of the 2017 Regulations;
+- “[^key-d4f9837ff4a442b9567549e3854f9800]**river basin district**” and “**international river basin districts**” have the same meaning as in regulation 2(1) of the 2017 Regulations;
+- “the Water Framework Directive” means Directive 2000/60[^key-5de30da6d447aae0fb4d3857698a128f] EC of the European Parliament and of the Council establishing a framework for Community action in the field of water policy as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101).
+- “the Department” means the Department of the Environment;
+- “the Directive” means Council Directive [2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090) of 31 July 2009 laying down, pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status[^f00004];
+- “the Water Framework Directive” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy[^f00005]; and
+- “uncertainty of measurement” means a non-negative parameter characterizing the dispersion of the quantity values being attributed to a measurand, based on the information used.
+
+(2) Words and expressions used in these Regulations have the same meaning as they do in the Water Framework Directive.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Application of these Regulations[^key-b9ef4682a3e2b2b9323d6f63ddb8f84b]
+
+The Department when carrying out its functions under regulation 11 of the 2017 Regulations[^key-861e04f7363ec0cb2e59acf81ba180e6] shall—
+
+- (a) monitor or secure the monitoring of the status of the water environment in the river basin district and the part of any international river basin districts falling within Northern Ireland;
+- (b) monitor or secure the monitoring of the status of the water environment in protected areas; and
+- (c) analyse or secure the analysis of information obtained following monitoring under sub paragraphs (a) and (b).
+
+## 4. Methods of analysis[^key-8b28fc7de738b10ca7e908138fc251f8]
+
+The Department shall ensure that all methods of analysis, including laboratory, field and on-line methods, used for the purposes of regulation 3(c) are validated and documented in accordance with EN ISO/IEC-17025 standard[^f00007] or other equivalent standard accepted at international level.
+
+## 5. Minimum performance criteria for methods of analysis[^key-e97566f03812c8660cff91152d6c8c80]
+
+The Department shall ensure that—
+
+- (a) the minimum performance criteria for all methods of analysis applied are based on uncertainty of measurement of 50% or below (k = 2) estimated at the level of relevant environmental quality standards and a limit of quantification equal or below a value of 30% of the relevant environmental quality standards; and
+- (b) in the absence of relevant environmental quality standard for a given parameter, or in the absence of a method of analysis meeting the minimum performance criteria set out in paragraph (a), that monitoring is carried out using best available techniques not entailing excessive costs.
+
+## 6. Calculation of mean values[^key-36896e4649e2e4c4a3526ec0dce9de37]
+
+The Department shall ensure that—
+
+- (a) subject to paragraph (c), where the amounts of physico-chemical or chemical measurands in a given sample are below the limit of quantification, the measurement results shall be set to half of the value of the limit of quantification concerned for the calculation of mean values;
+- (b) where a calculated mean value of the measurement results referred to in paragraph (a) is below the limits of quantification, the value shall be referred to as ‘less than limit of quantification’; and
+- (c) where measurands are total sums of a given group of physico-chemical parameters or chemical measurands, including their relevant metabolites, degradation and reaction products, results below the limit of quantification of the individual substances shall be set to zero.
+
+## 7. Quality assurance and control[^key-e23e646a6fac225d1881b50041ca22ce]
+
+The Department shall ensure that—
+
+- (a) it or a party contracted by it apply quality management system practices in accordance with EN ISO/IEC-17025 standard or other equivalent standard accepted at international level;
+- (b) it or a party contracted by it demonstrate their competence in analysing relevant physico-chemical or chemical measurands by:
+  - (i) participation in proficiency testing programmes covering the methods of analysis referred to in regulation 4 of measurands at levels of concentrations that are representative of monitoring programmes carried out under r regulation 11 of the 2017 Regulations[^key-3f2cdbff35349db87bd580e184ef54ef] , and
+  - (ii) analysis of available reference materials that are representative of collected samples which contain appropriate levels of concentrations in relation to relevant environmental quality standards referred to in regulation 5;
+- (c) the proficiency testing programme referred to in paragraph (b) subparagraph (i) shall be organised by accredited organisations or internationally or nationally recognised organisations which meet the requirements of ISO/IEC guide 43-1[^f00008] or of other equivalent standard accepted at international level; and
+- (d) the results of participation in the proficiency testing programmes referred to in paragraph (b) subparagraph (i) shall be evaluated on the basis of the scoring systems set out in ISO/IEC guide 43-1 or in the ISO-13528 standard[^f00009] or in other equivalent standard accepted at international level.
+
+Sealed with the Official Seal of the Department of the Environment on 1<sup>st</sup> July 2011
+
+Denis McMahon
+
+A senior officer of the Department of the Environment
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement in Northern Ireland Council Directive [2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090) of 31 July 2009 laying down, pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status.
+
+Regulation 2 provides definitions for terms used in the Regulations.
+
+Regulation 3 details under what circumstances the provisions of the Regulations will apply.
+
+Regulation 4 transposes Article 3 of the Directive by ensuring that the Department validates and documents all methods of analysis used for the purposes of chemical monitoring programmes.
+
+Regulation 5 transposes Article 4 of the Directive by requiring the Department to ensure that minimum performance criteria for methods of analysis are applied.
+
+Regulation 6 transposes Article 5 of the Directive by detailing the process that the Department must use for the calculation of mean values.
+
+Regulation 7 transposes Article 6 of the Directive by requiring the Department, or a party contracted by it, to apply specified standards, accepted at international level, for quality assurance and control. The Department, or a party contracted by it, are also required to demonstrate their competences in analysing physico-chemical or chemical measurands.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301)
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-9faf96fcc77708a5d1e2e226155bbf9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^key-e21704477ae29c0b4c3fe97eb3f500fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/238/regulation/2) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^key-95508f9f4c5086931c86b20ed9848398]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/238/regulation/2/1) omitted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by virtue of [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 6(2)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/6/2/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+
+[^f00003]: Footnote: [S.R. 2003 No.544](https://www.legislation.gov.uk/nisr/2003/544)
+
+[^key-c81c2a89603244949f5608d7e0511d35]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/238/regulation/2/1) inserted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 6(2)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/6/2/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+
+[^key-d4f9837ff4a442b9567549e3854f9800]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/238/regulation/2/1) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 6(2)(c)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/6/2/c) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+
+[^key-5de30da6d447aae0fb4d3857698a128f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/238/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/12)
+
+[^f00004]: Footnote: O.J. No. L201, 1.8 2009, p.36
+
+[^f00005]: Footnote: O.J. No. L327, 22.12.2000, p.1.
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b9ef4682a3e2b2b9323d6f63ddb8f84b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/238/regulation/3) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^key-861e04f7363ec0cb2e59acf81ba180e6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2011/238/regulation/3) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/6/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+
+[^key-8b28fc7de738b10ca7e908138fc251f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/238/regulation/4) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^f00007]: Footnote: ISO/IEC 17025:2005 General requirements for the competence of testing and calibration laboratories. Published by the International Organisation for Standardisation (www.iso.org).
+
+[^key-e97566f03812c8660cff91152d6c8c80]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/238/regulation/5) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^key-36896e4649e2e4c4a3526ec0dce9de37]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/238/regulation/6) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^key-e23e646a6fac225d1881b50041ca22ce]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/238/regulation/7) in operation at 20.8.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/238/regulation/1)
+
+[^key-3f2cdbff35349db87bd580e184ef54ef]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2011/238/regulation/7) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/6/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+
+[^f00008]: Footnote: ISO/IEC Guide 43-1 Proficiency testing by interlaboratory comparison Part 1: Development and operation of proficiency testing schemes. Published by the International Organisation for Standardisation (www.iso.org).
+
+[^f00009]: Footnote: ISO 13528:2005. Statistical methods for use in proficiency testing by interlaboratory comparisons. Published by the International Organisation for Standardisation (www.iso.org).

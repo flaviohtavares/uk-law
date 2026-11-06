@@ -1,0 +1,510 @@
+---
+title: The Specified Animal Pathogens Order (Northern Ireland) 2008
+id: nisr/2008/336
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-08-06'
+text_date: '2013-11-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/336
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/336/pdfs/nisr_20080336_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/336/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Specified Animal Pathogens Order (Northern Ireland) 2008
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2013-11-18. See https://www.legislation.gov.uk/changes/affected/nisr/2008/336
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 336
+
+Animals
+
+Animal Health
+
+The Specified Animal Pathogens Order (Northern Ireland) 2008
+
+Made
+
+6th August 2008
+
+Coming into operation
+
+30th August 2008
+
+The Department of Agriculture and Rural Development[^f00001], makes the following Order in exercise of the powers conferred by Articles 2(3), 5(1), 19, 30(1) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00002].[^key-f9d9c863a99eb6dfdb1d9f242edeb4c2]
+
+## 1. Citation and commencement[^key-eefc8981849593e01bb878c033589086]
+
+This Order may be cited as the Specified Animal Pathogens Order (Northern Ireland) 2008 and shall come into operation on 30th August 2008.
+
+## 2. Interpretation[^key-f3f03c0f6444c00fbc4a49d60ceb7fa8]
+
+(1) In this Order—
+
+- “animal” includes poultry;
+- “carrier” means any living creature except man which may carry or transmit a specified animal pathogen or the tissue, cell culture, body fluid, excreta, carcase or part of a carcase of such creature by or by means of which a specified animal pathogen may be transmitted or carried;
+- “the Department” means the Department of Agriculture and Rural Development;
+- “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981;
+- “premises” includes any land, building or other place; and
+- “specified animal pathogen” means an animal pathogen listed in Schedule 1, including—
+  - (a) intact pathogens;
+  - (b) pathogens which have been attenuated or genetically modified by any means; and
+  - (c) any nucleic acid derived from an animal pathogen listed in that Schedule that could produce that pathogen when introduced into a biological system in which the nucleic acid is capable of replicating.
+
+(2) In this Order “inspector” does not include an inspector appointed by a district council.
+
+(3) A licence or notice issued under this Order must be in writing, may be subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
+
+## 3. Extension of the definition of “animal”, “poultry” and “disease”[^key-74f2b0d3ab791278ee4d2a13021931ce]
+
+For the purposes of the 1981 Order in its application to this Order—
+
+- (a) the list of animals in Part I of Schedule 1 to the 1981 Order is hereby extended so as to comprise—
+  - (i) any kind of mammal except man, and
+  - (ii) any kind of four-footed beast which is not a mammal;
+- (b) the list of poultry in Part II of Schedule 1 to the 1981 Order is hereby extended so as to comprise birds of any kind; and
+- (c) the lists of diseases in Parts III and IV of Schedule 1 to the 1981 Order are hereby extended so as to comprise any disease of animals and poultry which may be caused by one or more specified animal pathogens.
+
+## 4. Prohibitions in relation to specified animal pathogens[^key-d3724391cc523450ba9d37344e6db244]
+
+(1) A person shall not have in their possession—
+
+- (a) any animal pathogen specified in Part 1 of Schedule 1; or
+- (b) any carrier in which they know such a pathogen is present,
+
+except under the authority of a licence issued by the Department.
+
+(2) A person shall not deliberately introduce into any animal any animal pathogen specified in either Part 1 or Part 2 of that Schedule, except under the authority of a licence issued by the Department.
+
+(3) A person must immediately notify the Department if that person—
+
+- (a) has possession of any thing in respect of which they have reasonable grounds for suspecting that an animal pathogen specified in Part 1 of Schedule 1 is present; and
+- (b) does not have a licence in respect of that pathogen.
+
+## 5. Exceptions[^key-b0b1c07965368bdcfb13d3a016f0c2b7]
+
+(1) Article 4 shall not apply to any person who is transporting a pathogen or carrier and who does not own or have any rights in that pathogen or carrier.
+
+(2) Article 4 shall not apply in relation to any pathogen or carrier contained in a product—
+
+- (a) authorised to be placed on the market in Northern Ireland as a veterinary medicinal product, or authorised to be administered to an animal in Northern Ireland;
+- (b) authorised to be placed on the market under the Human Medicines Regulations 2012[^key-88a59e6a9d18e98112e2f1cd793c9da7] ;
+- (c) licensed in accordance with the provisions of section 7(2) of the Medicines Act 1968[^f00004].
+
+(3) Article 4 shall not apply to any specified animal pathogen contained in an animal where—
+
+- (a) such pathogen was not deliberately introduced into the animal; and
+- (b) a notification has been made to the Department or to a member of the Police Service of Northern Ireland[^f00005] under Article 10 of the 1981 Order or any order made thereunder regarding the presence of disease, or suspicion of it, in the animal, or the Department is aware of the presence of such disease, or suspicion of it, in the said animal.
+
+## 6. Powers of inspectors[^key-6f352ffec44ed04a852231e1f73d092b]
+
+In addition to the powers set out in the 1981 Order, an inspector enforcing this Order has the powers set out in Schedule 2.
+
+## 7. Improvement notices[^key-12356b7c9739163524c4c1f794d9afc8]
+
+(1) If an inspector is of the opinion that a person—
+
+- (a) is carrying on any activity contravening one or more of the conditions of a licence issued to them under this Order, or
+- (b) has contravened one or more of those conditions in circumstances that make it likely that the contravention will continue or be repeated,
+
+that inspector may serve on that person a notice (“an improvement notice”).
+
+(2) An improvement notice must—
+
+- (a) specify the conditions of the licence that have been contravened;
+- (b) explain the reasons why the inspector is of that opinion; and
+- (c) require that person to remedy the contravention or the matters occasioning it, within such period as may be specified in the notice.
+
+(3) A notice must include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates; and any such directions may be framed so as to afford the person on whom the notice is served a choice between different ways of remedying the contravention or matter.
+
+## 8. Prohibition notices[^key-4391eb32a61862c92a74bf0980744799]
+
+(1) This paragraph applies to any activities for which a licence is required under this Order.
+
+(2) If an inspector is of the opinion that the activities involve or may involve a risk of serious harm to animals, the inspector may serve on that person a notice (“a prohibition notice”).
+
+(3) A prohibition notice must—
+
+- (a) state that the inspector is of that opinion;
+- (b) specify the matters which in that inspector’s opinion give or may give rise to a risk of serious harm to animals; and
+- (c) direct that the activities to which the notice relates must not be carried on unless the matters specified in the notice have been remedied.
+
+(4) A direction contained in a prohibition notice under sub-paragraph (3)(c) takes effect—
+
+- (a) at the end of the period specified in the notice; or
+- (b) if the notice so declares, immediately.
+
+## 9. Appeals against improvement and prohibition notices[^key-25942285542f021701333106e40bcc17]
+
+(1) A person on whom an improvement or prohibition notice is served may, within 21 days, appeal against the notice to a person appointed for the purpose by the Department.
+
+(2) The appointed person must consider the appeal and any representations made by the Department and report in writing, with a recommended course of action, to the Department.
+
+(3) The Department may then either cancel the notice or confirm it, with or without modifications, and must notify the appellant, together with the reasons.
+
+## 10. Licences[^key-025c516f60ffdc1f7abe1b0360be311e]
+
+A person shall not contravene a licence condition imposed on that person.
+
+## 11. Revocation[^key-54320af713190414c4ac8ba82f9fee5c]
+
+The Specified Animal Pathogens Order (Northern Ireland) 1999[^f00006] is hereby revoked.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 6th August 2008.
+
+Elizabeth Redmond
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — Specified animal pathogens
+
+Article 3
+
+### PART I
+
+**1.**[^key-dc309a93b9bf494bffe8bee58a1afb67] African horse sickness virus
+
+**2.**[^key-b5a50ff7b74f6cbf283f2f51b7260066] African swine fever virus
+
+**3.**[^key-c451aa1959f864d0bd8d3bafad15455e] Aujeszky’s disease virus
+
+**4.**[^key-e690ffb977e442da2ada40d163409cda] Avian influenza viruses that are —
+
+- (a) uncharacterised;
+- (b) Type A viruses which have an intravenous pathogenicity index in six-week-old chickens of greater than 1.2; or
+- (c) Type A viruses H5 or H7 subtype for which nucleotide sequencing has demonstrated multiple basic amino acids at the cleavage site of hæmagglutinin
+
+**5.**[^key-4b539e8e6dfcd4ac7de9b0b6eb720155] Babesia bovis
+
+**6.**[^key-a734fbc8f1586ac151987dcb150176ff] Babesia bigemina
+
+**7.**[^key-0e3f6174aa2ece9abbee0d6baed3800a] Babesia caballi
+
+**8.**[^key-d7b107ec567fe274c5c4a87b672b3db9] Bacillus anthracis
+
+**9.**[^key-230f23b8d722727752d7163423fbf1be] Bluetongue virus
+
+**10.**[^key-efde7e1c9b45d64584df468f44c269e8] Bovine leucosis virus
+
+**11.**[^key-90cd39f6ed652ce5098735d3a5f8d293] Brucella abortus
+
+**12.**[^key-cf762164da56bd31356f2d7b08546c6b] Brucella melitensis
+
+**13.**[^key-7c6e21b01d7c70755802de5f28e3474d] Brucella ovis
+
+**14.**[^key-12f331268907594bb15d93a9b8a156e2] Brucella suis
+
+**15.**[^key-56de2a44de19c8a5241854043b208afc] Burkholderia mallei
+
+**16.**[^key-c9486e174386a12099e838c01eaf7434] Classical swine fever virus
+
+**17.**[^key-0364ecf0fc8f9995c265522982549eb9] Cochliomyia hominivorax
+
+**18.**[^key-954cea35af46fd9d145981c9ef3d64fe] Eastern and Western equine encephalomyelitis viruses
+
+**19.**[^key-c9c3afd5c13ef2df88a2c644d501c3c3] Echinococcus multilocularis
+
+**20.**[^key-a6ac83f49b22a10b131491ef03da0473] Echniococcus granulosus
+
+**21.**[^key-e688d821f8bff3ee7ca816848417ee3d] Ehrlichia ruminantium
+
+**22.**[^key-fe5c4b9a68f702da03e6679e5410e43f] Equine infectious anemia virus
+
+**23.**[^key-6d254559408f9c7edbd6c45d8b221ca1] Foot and mouth disease virus
+
+**24.**[^key-f5552f724d62fcf394335b4ed4ded985] Hendra disease virus
+
+**25.**[^key-ba9e9149c25496c928398c1b56084286] Histoplasma farciminosum
+
+**26.**[^key-1f20c525df209e027c7a0d07e912a0f8] Japanese encephalitis virus
+
+**27.**[^key-e509b061b5df83a835f25b1f9070812e] Lumpy skin disease virus
+
+**28.**[^key-31b6a6928cf9a2ab9e97607783f28574] Maedi-Visna
+
+**29.**[^key-f33f9486212e207e41c4ccb0c931491d] Mycoplasma agalactiae
+
+**30.**[^key-f5b7d96427224389e7cd43989e82bf66] Mycoplasma capricolum sub species capripneumoniae
+
+**31.**[^key-f786676a2e734792535c3b5a702e0257] Mycoplasma mycoides sub species mycoides SC and mycoides LC variants
+
+**32.**[^key-32c94aad424683787d23108355d9b5b7] Mycoplasma mycoides var capri
+
+**33.**[^key-245b45c38d1ebe6e14171f4d9be0a84f] Newcastle disease (avian paramyxovirus type 1) viruses which are—
+
+- (a) uncharacterised; or
+- (b) have an intracerebral pathogenicity index in one-day-old chicks of 0.4 or more, when not less than 10 million 50% egg infectious doses (EID50) are administered to each bird in the test.
+
+**34.**[^key-99ecba067f1f4b88fc3088f6876064eb] Nipah disease virus
+
+**35.**[^key-b89f52ce6b5fbfb6186c968d9c2d5f85] Peste des petits ruminants virus
+
+**36.**[^key-3533018ef4af81bf45bf52d7c7213277] Rabies virus and all viruses of the genus Lyssavirus
+
+**37.**[^key-b752d94837b83fc62ec79e170bba4c84] Rift Valley Fever virus
+
+**38.**[^key-87732ff8f7183994947b3cd601089d00] Rinderpest virus
+
+**39.**[^key-7b2e14a7c4eab79ad9a52f906f5c1b29] St. Louis equine encephalomyelitis virus
+
+**40.**[^key-50be17c657188843cf65a1e373ce73a9] Sheep and goat pox virus
+
+**41.**[^key-cc1d97eb07b747fff9421f996aca9bfd] Swine vesicular disease virus
+
+**42.**[^key-cf0bd6e161e678a7dd0b20ec62163cda] Teschen disease virus
+
+**43.**[^key-e1d6f68548246e8e571d66c211a0803a] Theileria annulata
+
+**44.**[^key-54844173cbf992d8eb64756aff4cb3a9] Theileria equi
+
+**45.**[^key-45e14bf43cc2d387984f4488783b442b] Theileria parva
+
+**46.**[^key-4b623949efe7f1238a284a06d07edfbe] Trichinella spiralis
+
+**47.**[^key-71f86b73e8ee226fbfb702df4badb1cc] Trypanosoma brucei
+
+**48.**[^key-2db3b903ce23cfcae7a568125067e138] Trypanosoma congolense
+
+**49.**[^key-6b48477f378236680185561eb141975a] Trypanosoma equiperdum
+
+**50.**[^key-b906a10079c68acc79f4f70b69767664] Trypanosoma evansi
+
+**51.**[^key-377e2d9c93b8f4ce3976956eff193121] Trypanosoma simiae
+
+**52.**[^key-5e7a488ab9f0e803ee0fa4c0a7ca7c20] Trypanosoma vivax
+
+**53.**[^key-f19d144793abfc67737b867e20e4e227] Venezuelan equine encephalomyelitis virus
+
+**54.**[^key-7fdbefcee26b95b908f3ad073bbe741b] Vesicular stomatitis virus
+
+**55.**[^key-8e8cdb68278777a97789d7e595f573b7] West Nile virus
+
+### PART II
+
+**56.**[^key-7cede770be57506d75109c33331f40c7] The live virus causing viral hæmorrhagic disease of rabbits
+
+## SCHEDULE 2 — Powers of inspectors
+
+Article 6
+
+### 1. General powers of inspectors[^key-27828f919d51323d10ef8685ae2e9aab]
+
+(1) The inspector may be accompanied by such other persons as the inspector considers necessary.
+
+(2) For the purposes of enforcing this Order an inspector may—
+
+- (a) take any necessary equipment or materials on to the premises;
+- (b) make such examination and investigation as may in any circumstances be necessary, and may direct that the premises, any part of the premises or anything in the premises be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation;
+- (c) take measurements or photographs or make recordings;
+- (d) take samples of any articles or substances, or the atmosphere (both on the premises and in the vicinity of the premises);
+- (e) cause any article or substance to be dismantled or subjected to any process or test (but not so as to damage or destroy it unless this is in the circumstances necessary for the purpose of the process or test);
+- (f) take possession of any article or substance and detain it for so long as is necessary—
+  - (i) to examine it and do to it anything that the inspector has power to do;
+  - (ii) to ensure that it is not tampered with before the examination is completed;
+  - (iii) to ensure that it is available for use as evidence in any civil or criminal proceedings;
+- (g) require any person whom the inspector has reasonable cause to believe to be able to give any information (including that person’s name and address) relevant to any examination or investigation, to answer (in the absence of persons other than a person nominated by that person to be present and any persons whom the inspector may allow to be present) such questions as the inspector thinks fit to ask and to sign a declaration of the truth of the answers;
+- (h) require the production of, inspect, and take copies of any licence issued under this Order or any record, or remove it to enable it to be copied and examined;
+- (i) require any person to afford such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the inspector to exercise any of the powers conferred by this Schedule;
+- (j) have access to, inspect and check the operation of any computer and any associated apparatus or material that is or has been in use in connection with the records; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford such assistance as may reasonably be required and, where a record is kept by means of a computer, may require the records to be produced in a form in which they may be taken away.
+
+(3) An inspector who proposes to exercise the power conferred by sub-paragraph (2)(e) in the case of an article or substance found in any premises must, if so requested by a person who at the time is present in and has responsibilities in relation to those premises, cause anything which is to be done by virtue of that power to be done in the presence of that person.
+
+(4) Before exercising the power conferred by sub-paragraph (2)(e) in the case of any article or substance, an inspector must consult such persons as appear appropriate for the purpose of ascertaining what dangers, if any, there may be in doing anything proposed to be done under that power.
+
+(5) Where an inspector takes possession of any article or substance found in any premises, the inspector must leave there, either with a responsible person or, if that is impracticable, fixed in a conspicuous position, a notice giving particulars of that article or substance sufficient to identify it and stating that it has been taken under that power; and before taking possession of any such substance under that power an inspector must, if it is practicable to do so, take a sample of it and give to a responsible person at the premises a portion of the sample marked in a manner sufficient to identify it.
+
+(6) No answer given by a person in pursuance of a requirement imposed under sub-paragraph (2)(g) is admissible in evidence against that person or the spouse or civil partner of that person in any proceedings.
+
+### 2. Seizure of pathogens[^key-fb8406086b842731963145d8a816341f]
+
+(1) Where an inspector has reasonable grounds for suspecting that a specified animal pathogen or a carrier is in the possession of a person who does not hold a licence required by this Order or in contravention of a condition of a licence granted under this Order, that inspector may at any time seize, or caused to be seized, such pathogen, carrier or any material in which the inspector reasonably suspects such pathogen to have been kept or into which they reasonably suspect it to be introduced.
+
+(2) If the inspector considers it expedient to do so, that inspector may for the purpose of preventing the introduction or spreading of disease, detain, treat or destroy any pathogen, carrier or material seized.
+
+### 3. Cleansing and disinfection[^key-788d65266d8ddad191b0e71fd1986f30]
+
+(1) An inspector may, by notice served upon the occupier of any premises (including a dwelling house) or upon the owner or person in charge of any vehicle by which a specified pathogen, carrier or material is or has been present in contravention of this Order or of a licence issued under it, require the person on whom the notice was served to cleanse and disinfect such premises, place or vehicle in such manner as that inspector may by such notice specify at the expense of the person on whom the notice is served.
+
+(2) Where the requirements of such a notice have not been complied with, the inspector may carry out or cause to be carried out the cleansing and disinfection specified in the notice at the expense of the person on whom the notice has been served.
+
+### 4. Production of licences[^key-30fcd9a4c53fecabb1dd68c23736d7d7]
+
+Any person acting under the authority of a licence issued under this Order, shall on demand made by an officer of Her Majesty’s Customs and Excise, an inspector or by a member of the Police Service of Northern Ireland produce the licence and allow a copy thereof or an extract therefrom to be taken and shall, also on such demand, furnish his name and address.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and re-enacts with amendments the Specified Animal Pathogens Order (Northern Ireland) 1999 (S. R. [1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)).
+
+The principal change is to provide for additional powers for inspectors (Schedule 2).
+
+As in the previous Order, it provides that possession of an animal pathogen specified in Part I of Schedule 1, or introduction into an animal of an animal pathogen specified in Parts I and II of that Schedule, requires a licence from the Department.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Agriculture for Northern Ireland see the Departments Order 1999 [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article3 (4)
+
+[^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Arts. 19, 22 to 24 and Schedule, [S.R. 2002 No.225](https://www.legislation.gov.uk/nisr/2002/225) and [S.R. 2006 No.41](https://www.legislation.gov.uk/nisr/2006/41)
+
+[^key-f9d9c863a99eb6dfdb1d9f242edeb4c2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2008/336) excluded (18.11.2013) by [The African Horse Sickness Regulations (Northern Ireland) 2013 (S.R. 2013/244)](https://www.legislation.gov.uk/nisr/2013/244), [reg. 4(a)](https://www.legislation.gov.uk/nisr/2013/244/regulation/4/a) (with [reg. 4](https://www.legislation.gov.uk/nisr/2013/244/regulation/4))
+
+[^key-eefc8981849593e01bb878c033589086]: Commencement: Art. 1 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-f3f03c0f6444c00fbc4a49d60ceb7fa8]: Commencement: Art. 2 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-74f2b0d3ab791278ee4d2a13021931ce]: Commencement: Art. 3 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-d3724391cc523450ba9d37344e6db244]: Commencement: Art. 4 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-b0b1c07965368bdcfb13d3a016f0c2b7]: Commencement: Art. 5 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-88a59e6a9d18e98112e2f1cd793c9da7]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2008/336/regulation/5/2/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 122](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/122) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^f00004]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67)
+
+[^f00005]: Footnote: By virtue of section 1 of the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32) the body of constables known as the Royal Ulster Constabulary shall be styled for operational purposes the “Police Service of Northern Ireland”
+
+[^key-6f352ffec44ed04a852231e1f73d092b]: Commencement: Art. 6 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-12356b7c9739163524c4c1f794d9afc8]: Commencement: Art. 7 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-4391eb32a61862c92a74bf0980744799]: Commencement: Art. 8 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-25942285542f021701333106e40bcc17]: Commencement: Art. 9 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-025c516f60ffdc1f7abe1b0360be311e]: Commencement: Art. 10 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-54320af713190414c4ac8ba82f9fee5c]: Commencement: Art. 11 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^f00006]: Footnote: [S.R. 1999 No. 436](https://www.legislation.gov.uk/nisr/1999/436)
+
+[^key-dc309a93b9bf494bffe8bee58a1afb67]: Commencement: Sch. 1 para. 1 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-b5a50ff7b74f6cbf283f2f51b7260066]: Commencement: Sch. 1 para. 2 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-c451aa1959f864d0bd8d3bafad15455e]: Commencement: Sch. 1 para. 3 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-e690ffb977e442da2ada40d163409cda]: Commencement: Sch. 1 para. 4 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-4b539e8e6dfcd4ac7de9b0b6eb720155]: Commencement: Sch. 1 para. 5 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-a734fbc8f1586ac151987dcb150176ff]: Commencement: Sch. 1 para. 6 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-0e3f6174aa2ece9abbee0d6baed3800a]: Commencement: Sch. 1 para. 7 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-d7b107ec567fe274c5c4a87b672b3db9]: Commencement: Sch. 1 para. 8 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-230f23b8d722727752d7163423fbf1be]: Commencement: Sch. 1 para. 9 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-efde7e1c9b45d64584df468f44c269e8]: Commencement: Sch. 1 para. 10 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-90cd39f6ed652ce5098735d3a5f8d293]: Commencement: Sch. 1 para. 11 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-cf762164da56bd31356f2d7b08546c6b]: Commencement: Sch. 1 para. 12 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-7c6e21b01d7c70755802de5f28e3474d]: Commencement: Sch. 1 para. 13 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-12f331268907594bb15d93a9b8a156e2]: Commencement: Sch. 1 para. 14 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-56de2a44de19c8a5241854043b208afc]: Commencement: Sch. 1 para. 15 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-c9486e174386a12099e838c01eaf7434]: Commencement: Sch. 1 para. 16 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-0364ecf0fc8f9995c265522982549eb9]: Commencement: Sch. 1 para. 17 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-954cea35af46fd9d145981c9ef3d64fe]: Commencement: Sch. 1 para. 18 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-c9c3afd5c13ef2df88a2c644d501c3c3]: Commencement: Sch. 1 para. 19 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-a6ac83f49b22a10b131491ef03da0473]: Commencement: Sch. 1 para. 20 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-e688d821f8bff3ee7ca816848417ee3d]: Commencement: Sch. 1 para. 21 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-fe5c4b9a68f702da03e6679e5410e43f]: Commencement: Sch. 1 para. 22 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-6d254559408f9c7edbd6c45d8b221ca1]: Commencement: Sch. 1 para. 23 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-f5552f724d62fcf394335b4ed4ded985]: Commencement: Sch. 1 para. 24 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-ba9e9149c25496c928398c1b56084286]: Commencement: Sch. 1 para. 25 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-1f20c525df209e027c7a0d07e912a0f8]: Commencement: Sch. 1 para. 26 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-e509b061b5df83a835f25b1f9070812e]: Commencement: Sch. 1 para. 27 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-31b6a6928cf9a2ab9e97607783f28574]: Commencement: Sch. 1 para. 28 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-f33f9486212e207e41c4ccb0c931491d]: Commencement: Sch. 1 para. 29 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-f5b7d96427224389e7cd43989e82bf66]: Commencement: Sch. 1 para. 30 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-f786676a2e734792535c3b5a702e0257]: Commencement: Sch. 1 para. 31 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-32c94aad424683787d23108355d9b5b7]: Commencement: Sch. 1 para. 32 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-245b45c38d1ebe6e14171f4d9be0a84f]: Commencement: Sch. 1 para. 33 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-99ecba067f1f4b88fc3088f6876064eb]: Commencement: Sch. 1 para. 34 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-b89f52ce6b5fbfb6186c968d9c2d5f85]: Commencement: Sch. 1 para. 35 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-3533018ef4af81bf45bf52d7c7213277]: Commencement: Sch. 1 para. 36 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-b752d94837b83fc62ec79e170bba4c84]: Commencement: Sch. 1 para. 37 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-87732ff8f7183994947b3cd601089d00]: Commencement: Sch. 1 para. 38 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-7b2e14a7c4eab79ad9a52f906f5c1b29]: Commencement: Sch. 1 para. 39 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-50be17c657188843cf65a1e373ce73a9]: Commencement: Sch. 1 para. 40 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-cc1d97eb07b747fff9421f996aca9bfd]: Commencement: Sch. 1 para. 41 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-cf0bd6e161e678a7dd0b20ec62163cda]: Commencement: Sch. 1 para. 42 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-e1d6f68548246e8e571d66c211a0803a]: Commencement: Sch. 1 para. 43 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-54844173cbf992d8eb64756aff4cb3a9]: Commencement: Sch. 1 para. 44 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-45e14bf43cc2d387984f4488783b442b]: Commencement: Sch. 1 para. 45 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-4b623949efe7f1238a284a06d07edfbe]: Commencement: Sch. 1 para. 46 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-71f86b73e8ee226fbfb702df4badb1cc]: Commencement: Sch. 1 para. 47 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-2db3b903ce23cfcae7a568125067e138]: Commencement: Sch. 1 para. 48 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-6b48477f378236680185561eb141975a]: Commencement: Sch. 1 para. 49 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-b906a10079c68acc79f4f70b69767664]: Commencement: Sch. 1 para. 50 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-377e2d9c93b8f4ce3976956eff193121]: Commencement: Sch. 1 para. 51 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-5e7a488ab9f0e803ee0fa4c0a7ca7c20]: Commencement: Sch. 1 para. 52 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-f19d144793abfc67737b867e20e4e227]: Commencement: Sch. 1 para. 53 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-7fdbefcee26b95b908f3ad073bbe741b]: Commencement: Sch. 1 para. 54 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-8e8cdb68278777a97789d7e595f573b7]: Commencement: Sch. 1 para. 55 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-7cede770be57506d75109c33331f40c7]: Commencement: Sch. 1 para. 56 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-27828f919d51323d10ef8685ae2e9aab]: Commencement: Sch. 2 para. 1 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-fb8406086b842731963145d8a816341f]: Commencement: Sch. 2 para. 2 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-788d65266d8ddad191b0e71fd1986f30]: Commencement: Sch. 2 para. 3 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)
+
+[^key-30fcd9a4c53fecabb1dd68c23736d7d7]: Commencement: Sch. 2 para. 4 in operation at 30.8.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/336/article/1)

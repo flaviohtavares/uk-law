@@ -1,0 +1,149 @@
+---
+title: The Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010
+id: nisr/2010/13
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-01-26'
+text_date: '2016-10-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/13
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/13/pdfs/nisr_20100013_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/13/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010
+
+> Text as at 2016-10-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 13
+
+Magistrates’ Courts
+
+The Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010
+
+Made
+
+26th January 2010
+
+Coming into operation
+
+1st March 2010
+
+The Magistrates’ Courts Rules Committee makes the following Rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001] after consultation with the Lord Chancellor and with the agreement of the Lord Chief Justice.
+
+## 1. Citation, commencement and interpretation[^key-efbbe9fd81f2d9d0ef279cdc9855fa83]
+
+(1) These Rules may be cited as the Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010 and shall come into operation on 1st March 2010.
+
+(2) In these Rules, “foreign travel restriction order” means an order under Schedule 5 to the Counter Terrorism Act 2008[^f00002].
+
+## 2. Foreign Travel Restriction Orders[^key-11f934468244c4f81b94759efea9b68c]
+
+(1) A summons issued on foot of a complaint for a foreign travel restriction order shall be in Form 1.
+
+(2) A foreign travel restriction order shall be in Form 2.
+
+(3) A summons issued on foot of a complaint for the variation, renewal or discharge of a foreign travel restriction order shall be made in Form 3[^key-973f743bdd994c25e3e8502db267a4e8]....
+
+(4) Subject to paragraph (5), service of a summons under these Rules may be effected by—
+
+- (a) a member of the Police Service of Northern Ireland serving a copy of the summons on the defendant in person; or
+- (b) by sending a copy of the summons by ordinary first class post to the defendant at his last known address (in which cases the summons shall be deemed to have been received in the ordinary course of post, unless the defendant proves that he did not receive it).
+
+(5) In the case of a summons on foot of a complaint for the variation or discharge of a foreign travel restriction order issued by the defendant mentioned in that order, service may be effected in accordance with paragraphs (2), (6) and (7) of Rule 11 of the Magistrates’ Courts (Northern Ireland) Rules 1984 by delivering a copy of the summons to any police station [^key-079fc8e3a585c94608b3cc9acf633fab]... and leaving a copy with the officer in charge or any other constable.
+
+(6) Where the court makes a foreign travel restriction order, the clerk of petty sessions shall serve a copy of the order on the defendant—
+
+- (a) where the defendant is present, in person, if practicable; or
+- (b) by sending it by ordinary first class post to the defendant at either his last known address or any address which is currently notified by him under Part 4 of the Counter Terrorism Act 2008 (in which cases the order will be deemed to have been received by him in the ordinary course of post unless the defendant proves that he did not receive it),
+
+and shall send a copy by ordinary first class post to the complainant.
+
+(7) Where the court makes an order varying, renewing or discharging a foreign travel restriction order the clerk of petty sessions shall serve on the defendant a copy of the order as it has been varied, renewed or discharged—
+
+- (a) where the defendant is present, in person, if practicable; or
+- (b) by sending it by ordinary first class post to the defendant at either his last known address or any address which is currently notified by him under Part 4 of the Counter Terrorism Act 2008 (in which cases the order will be deemed to have been received by him in the ordinary course of post unless the defendant proves he did not receive it),
+
+and shall send a copy by ordinary first class post to the complainant.
+
+(8) In paragraphs (6) and (7), references to the complainant and the defendant are references to the complainant and the defendant in the proceedings in which the order was originally made.
+
+George Conner
+
+John Rea
+
+Peter Luney
+
+John P B Maxwell
+
+N Broderick
+
+Dated 26th January 2010
+
+## SCHEDULE[^key-42baa2a41ff5d3993df808dfece0d1df]
+
+Rule 2(1)
+
+[^key-9e5c26ae017195e989dc322bd3632e94][^key-7adeb1da9ddaf240c40dbc57daf4c995]Form 1
+
+[^key-4b6792ef3adb66fd3c2ff03f6b9ad7e3]Form 2
+
+[^key-93cba892d966ffbd43cf43aaa6e295cb][^key-cde5a50bb686c08a6520dc78ffd29a97]Form 3
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules prescribe the procedure for applying to a court of summary jurisdiction, under Schedule 5 to the Counter Terrorism Act 2008, for a foreign travel restriction order.
+
+Rule 2(1) provides that a summons on foot of a complaint for a foreign travel restriction order must be in Form 1.
+
+Rule 2(2) provides that a foreign travel restriction order must be in Form 2.
+
+Rule 2(3) prescribes that a summons issued for variation, renewal or discharge of a foreign travel restriction order must be in Form 3.
+
+Rule 2(4) provides that, subject to paragraph (5), a summons for a foreign travel restriction order must be served on the defendant either by the police or by ordinary first class post. Where the summons is served by first class post it will be deemed to have been served on the defendant in the ordinary course of post unless the defendant proves he did not receive it.
+
+Rule 2(5) provides that a summons issued by a person who was the defendant to the original foreign travel restriction order for variation, renewal or discharge of that order must be served on the police in accordance with Rule 11, paragraphs (2), (6) and (7) of the Magistrates’ Courts Rules (Northern Ireland) 1984 (by summons server or other person who has received the permission of the court to fulfil that function).
+
+Rule 2(6) provides that where the court makes a foreign travel restriction order, the clerk of petty sessions must serve a copy of the order on the defendant, either personally or by first class post, and on the complainant by first class post.
+
+Rule 2(7) makes similar provision in respect of the service of an order for the variation, renewal or discharge of a foreign travel restriction order.
+
+Rule 2(8) makes provision in respect of the interpretation of references to complainant and defendant in paragraphs (6) and (7) of these Rules.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Article 13 was amended by paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-efbbe9fd81f2d9d0ef279cdc9855fa83]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2010/13/rule/1) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
+
+[^f00002]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
+
+[^key-11f934468244c4f81b94759efea9b68c]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2010/13/rule/2) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
+
+[^key-973f743bdd994c25e3e8502db267a4e8]: Textual amendment: Words in [rule 2(3)](https://www.legislation.gov.uk/nisr/2010/13/rule/2/3) omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(1)(a)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/1/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-079fc8e3a585c94608b3cc9acf633fab]: Textual amendment: Words in [rule 2(5)](https://www.legislation.gov.uk/nisr/2010/13/rule/2/5) omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(1)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/1/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-42baa2a41ff5d3993df808dfece0d1df]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
+
+[^key-9e5c26ae017195e989dc322bd3632e94]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 1: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-7adeb1da9ddaf240c40dbc57daf4c995]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 1: the words “for the said petty sessions district” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-4b6792ef3adb66fd3c2ff03f6b9ad7e3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 2: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-93cba892d966ffbd43cf43aaa6e295cb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 3: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+
+[^key-cde5a50bb686c08a6520dc78ffd29a97]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 3: the words “for the said petty sessions district” are omitted (5.7.2016 for specified purposes) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/c/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

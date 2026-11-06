@@ -1,0 +1,19 @@
+---
+title: The Postal Administration Rules (Northern Ireland) 2021, section 40
+act: The Postal Administration Rules (Northern Ireland) 2021
+section: '40'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2021/257/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Postal Administration Rules (Northern Ireland) 2021, section 40
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 40. Debts of insolvent company to rank equally
+
+Debts other than preferential debts rank equally between themselves in the postal administration and, after the preferential debts, shall be paid in full unless the assets are insufficient for meeting them, in which case they abate in equal proportions between themselves.

@@ -1,0 +1,51 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 62
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '62'
+status: revised-with-pending-changes
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 62
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2022-04-01. See https://www.legislation.gov.uk/changes/affected/nia/2016/18
+>
+> Extent: Northern Ireland.
+
+## 62. Disregard of certain detention[^key-a98369db01e461613c9ac835f41a777c]
+
+*Extent: N.I.*
+
+(1) In this section a “**person who has been subject to short-term detention**” means a person who—
+
+- (a) for any period, has been detained under this Part in a hospital in circumstances amounting to a deprivation of liberty otherwise than under an authorisation under Schedule 1; and
+- (b) immediately after the end of that period, was not detained in a hospital in circumstances amounting to a deprivation of liberty under an authorisation under Schedule 1.
+
+(2) In this section “**the relevant detention**” means the detention mentioned in subsection (1)(a).
+
+(3) Where a question seeking information with respect to the previous health or circumstances of a person who has been subject to short-term detention is put to that or any other person, otherwise than in judicial proceedings—
+
+- (a) the question is to be treated as not relating to the relevant detention and the answer may be framed accordingly; and
+- (b) the person questioned is not to be subjected to any liability or otherwise prejudiced in law by reason of any failure to acknowledge or disclose the relevant detention in answering the question.
+
+(4) An obligation imposed on a person (“A”) by any rule of law or by the provisions of any agreement or arrangement to disclose any matters does not extend to requiring disclosure of the relevant detention of a person who has been subject to short-term detention (whether A or another person).
+
+(5) The fact that a person who has been subject to short-term detention has been subject to the relevant detention, or any failure to disclose that fact, is not a proper ground for dismissing or excluding the person from any office, profession, occupation or employment, or for prejudicing the person in any way in any occupation or employment.
+
+(6) Any disqualification, disability, prohibition or other penalty which, by virtue of any rule of law or statutory provision other than this Act, attaches to or is imposed on any person by reason of the fact that the person has been detained in circumstances amounting to a deprivation of liberty under this Act is not to attach to a person merely because he or she is a person who has been subject to short-term detention.
+
+(7) In subsection (3) “**judicial proceedings**” includes, in addition to proceedings before any of the ordinary courts of law, proceedings before any tribunal, body or person that has power—
+
+- (a) by virtue of any statutory provision, law, custom or practice,
+- (b) under the rules governing any association, institution, profession, occupation or employment, or
+- (c) under any provision of an agreement providing for arbitration with respect to questions arising under the agreement,
+
+to determine any question affecting the rights, privileges, obligations or liabilities of any person, or to receive evidence affecting the determination of any such question.
+
+## Annotations
+
+[^key-a98369db01e461613c9ac835f41a777c]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2016/18/section/62) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

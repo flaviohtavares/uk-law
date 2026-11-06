@@ -1,0 +1,190 @@
+---
+title: The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA, 12ZB and 12ZC to Parental Order Cases) Regulations (Northern Ireland) 2015
+id: nisr/2015/90
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-02'
+text_date: '2019-01-03'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/90
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/90/pdfs/nisrem_20150090_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/90/pdfs/nisr_20150090_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/90/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA, 12ZB and 12ZC to Parental Order Cases) Regulations (Northern Ireland) 2015
+
+> Text as at 2019-01-03.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 90
+
+Employment
+
+Work And Families
+
+The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA, 12ZB and 12ZC to Parental Order Cases) Regulations (Northern Ireland) 2015
+
+Made
+
+2nd March 2015
+
+Coming into operation
+
+15th March 2015
+
+The Department for Employment and Learning makes the following Regulations in exercise of the powers conferred by sections 167ZK(2), 167ZT(2) and 167ZZ8(2) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22448121].
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Application of Parts 12ZA, 12ZB and 12ZC to Parental Order Cases) Regulations (Northern Ireland) 2015 and come into operation on 15th March 2015.
+
+(2) Regulation 4 does not have effect in cases involving children whose expected week of birth ends on or before 4th April 2015.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-a191265d9b4b2c8198678c4524d1ff45]
+  - (a) applies, or intends to apply during the period of 6 months beginning with that day—
+    - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or
+    - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and
+  - (b) expects the court to make such an order in respect of the child;
+- [^key-72bcc57a3a012424031db2a2b7e4122c]...
+- [^key-3a10ab0c40ddbe7f73f95f00676b8c31]...
+- “section 54 parental order parent” means a person—[^key-3ed2fb2c11c872bad0cd24407b425079]
+  - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
+  - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
+- “section 54A parental order parent” means a person—
+  - (a) on whose application the court has made an order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
+  - (b) who is an intended parent of a child by reference to an application or intended application for such an order.
+
+## 3. Application of Part 12ZA of the Act to parental order parents
+
+Part 12ZA of the Act [^c22448141] (statutory paternity pay) has effect in relation to section 54 parental order parents[^key-043f5588d7b403ae7e1427a2c744dddd] with the modifications of sections 167ZA, 167ZB and 167ZE of the Act specified in the second column of Schedule 1 to these Regulations.
+
+## 4. Application of Part 12ZB of the Act to parental order parents
+
+Part 12ZB of the Act [^c22448151] (statutory adoption pay) has effect in relation to section 54 parental order parents and section 54A parental order parents[^key-a25a5d1f8b1eca4b416e10503e0318f7] with the modifications of sections 167ZL and 167ZN of the Act specified in the second column of Schedule 2 to these Regulations.
+
+## 5. Application of Part 12ZC of the Act to parental order parents
+
+Part 12ZC of the Act [^c22448161] (statutory shared parental pay) has effect in relation to section 54 parental order parents[^key-336fa571ba7b496118eb2adfe6cf3796] with the modifications of sections 167ZW and 167ZX of the Act specified in the second column of Schedule 3 to these Regulations.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 2nd March 2015.
+
+Dr Stephen Farry
+
+Minister for Employment and Learning
+
+## SCHEDULE 1 — Application of Part 12ZA of the Act to parental order cases
+
+Regulation 3
+
+<table>
+<tbody>
+<tr><th><em>Provision</em></th><th><em>Modification</em></th></tr>
+<tr><td>Section 167ZA</td><td>After subsection (4) insert—<br>(4A) A person who satisfies the conditions in section 167ZB(2)(a) to (d) in relation to a child is not entitled to statutory paternity pay under this section in respect of that child.<br>.</td></tr>
+<tr><td rowspan="7">Section 167ZB</td><td>For paragraph (a) of subsection (2) substitute—<br>(a) that he satisfies prescribed conditions as to being a person—<br>(i) on whose application the court has made a parental order in respect of a child, or<br>(ii) who is an intended parent of a child;<br>(ab) that he satisfies prescribed conditions as to relationship with the other person on whose application the parental order was made or who is an intended parent of the child;<br>.</td></tr>
+<tr><td>In paragraph (d) of subsection (2), for “the day on which the child is placed for adoption” substitute “ the day on which the child is born ”.</td></tr>
+<tr><td>In paragraph (e) of subsection (2), omit “where he is a person with whom the child is placed for adoption,”.</td></tr>
+<tr><td>For subsection (3) substitute—<br>(3) The references in this section to the relevant week are to the week immediately preceding the 14th week before the expected week of the child's birth.<br>.</td></tr>
+<tr><td>After subsection (3) insert—<br>(3B) In a case where a child is born earlier than the 14th week before the expected week of the child's birth—<br>(a) subsection (2)(b) shall be treated as satisfied in relation to a person if, had the birth occurred after the end of the relevant week, the person would have been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;<br>(b) subsection (2)(c) shall be treated as satisfied in relation to a person if the person's normal weekly earnings for the period of 8 weeks ending with the week immediately preceding the week in which the child is born are not less than the lower earnings limit in force under section 5(1)(a) immediately before the commencement of the week in which the child is born; and<br>(c) subsection (2)(d) shall not apply.<br>.</td></tr>
+<tr><td>In subsection (6), for “the placement for adoption of more than one child as part of the same arrangement” substitute “ the birth, or expected birth, of more than one child as a result of the same pregnancy ”.</td></tr>
+<tr><td>For subsection (7) substitute—<br>(7) In this section—<br>“<strong>intended parent</strong>”, in relation to a child, means a person who, on the day of the child's birth—<br>(a) applies, or intends to apply during the period of 6 months beginning with that day, with another person for a parental order in respect of the child, and<br>(b) expects the court to make a parental order on that application in respect of the child; and<br>“<strong>parental order</strong>” means an order under section 54(1) of the Human Fertilisation and Embryology Act 2008.<br>.</td></tr>
+<tr><td rowspan="5">Section 167ZE</td><td>In paragraph (b) of subsection (3), for “with the date of the child's placement for adoption” substitute “ with the date of the child's birth ”.</td></tr>
+<tr><td>In subsection (4)—<br>(a) in paragraph (a), for “sub-paragraph (i) of section 167ZA(2)(a)” substitute “ section 167ZA(2)(a)(i) ”;<br>(b) in paragraph (b), for “sub-paragraph (ii) of that provision” substitute “ section 167ZA(2)(a)(ii) or 167ZB(2)(ab) ”.</td></tr>
+<tr><td>In subsection (9), for “the reference in subsection (3)(a) to the date of the child's birth shall be read as a reference” substitute “ the references in subsection (3)(a) and (b) to the date of the child's birth shall be read as references ”.</td></tr>
+<tr><td>Omit subsection (10).</td></tr>
+<tr><td>Omit subsection (12).</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — Application of Part 12ZB of the Act to parental order cases
+
+Regulation 4
+
+<table>
+<tbody>
+<tr><th><em>Provision</em></th><th><em>Modification</em></th></tr>
+<tr><td rowspan="6">Section 167ZL</td><td>For paragraph (a) of subsection (2) substitute—<br>(a) that he is—<br>(i) a person on whose application the court has made a an order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008 in respect of a child, or<br>(ii) an intended parent of a child;<br>.<br>At the beginning of paragraph (e) of subsection (2) insert—<br>in the case of a person on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 or who is an intended parent of a child by reference to an application or intended application for such an order;</td></tr>
+<tr><td>For subsection (3) substitute—<br>(3) The references in this section to the relevant week are to the week immediately preceding the 14<sup>th</sup> week before the expected week of the child's birth.<br>.</td></tr>
+<tr><td>After subsection (3) insert—<br>(3A) In a case where a child is born earlier than the 14th week before the expected week of the child's birth—<br>(a) subsection (2)(b) shall be treated as satisfied in relation to a person if, had the birth occurred after the end of the relevant week, the person would have been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week; and<br>(b) subsection (2)(d) shall be treated as satisfied in relation to a person if the person's normal weekly earnings for the period of 8 weeks ending with the week immediately preceding the week in which the child is born are not less than the lower earnings limit in force under section 5(1)(a) immediately before the commencement of the week in which the child is born.<br>.</td></tr>
+<tr><td>For paragraph (b) of subsection (4), substitute—<br>(b) the other person on whose application the court has made a an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child or who is an intended parent of the child—<br>(i) is a person to whom the conditions in subsection (2) above apply, and<br>(ii) has elected to receive statutory adoption pay.<br>.</td></tr>
+<tr><td>In subsection (5), for “placement, or expected placement, for adoption of more than one child as part of the same arrangement” substitute “ birth, or expected birth, of more than one child as a result of the same pregnancy ”.</td></tr>
+<tr><td>After subsection (8) insert—<br>(9) In this section—<br>“intended parent”, in relation to a child, means a person who, on the day of the child’s birth—<br>(a) applies, or intends to apply during the period of 6 months beginning with that day—<br>(i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or<br>(ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and<br>(b) expects the court to make such an order respect of the child.<br>.</td></tr>
+<tr><td rowspan="2">Section 167ZN</td><td>In subsection (2F) , for “in which the person is notified that the person has been matched with a child for the purposes of adoption” substitute “ immediately preceding the 14th week before the expected week of the child's birth ”.</td></tr>
+<tr><td>Omit subsection (9) .</td></tr>
+</tbody>
+</table>
+
+[^key-9703d1778dccfb5ed752caca18d8f9a4][^key-6b36a7578201255987721fc63c5cac0c][^key-dd9aefefebe40a1d636c49914a64a288][^key-9e45e699fdcdfda93fc8f1c87e4d2490][^c22448171][^c22448181]
+
+## SCHEDULE 3 — Application of Part 12ZC of the Act to parental order cases
+
+Regulation 5
+
+<table>
+<tbody>
+<tr><th><em>Provision</em></th><th><em>Modification</em></th></tr>
+<tr><td rowspan="5">Section 167ZW</td><td>In subsection (1), for “with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom” substitute “ on whose application the court has made a parental order in respect of a child or who is an intended parent of a child ”.</td></tr>
+<tr><td>In paragraph (a) of subsection (2), for “another person” substitute “ the other person on whose application the court has made a parental order in respect of the child or who is an intended parent of the child ”.</td></tr>
+<tr><td>In paragraph (f) of subsection (2), for “the placement for adoption of the child” substitute “ being a person on whose application the court has made a parental order in respect of the child or being an intended parent of the child ”.</td></tr>
+<tr><td>In paragraph (a) of subsection (4), for “with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom” substitute “ on whose application the court has made a parental order in respect of a child or who is an intended parent of a child ”.</td></tr>
+<tr><td>In paragraph (g) of subsection (4), for “the placement for adoption of the child” substitute “ being a person on whose application the court has made a parental order in respect of the child or being an intended parent of the child ”.</td></tr>
+<tr><td rowspan="2">Section 167ZX</td><td>In subsection (12), for “the placement for adoption of more than one child as part of the same arrangement” substitute “ the birth of more than one child as a result of the same pregnancy ”.</td></tr>
+<tr><td>After subsection (12) insert—<br>(13) In this section—<br>“<strong>intended parent</strong>”, in relation to a child, means a person who, on the day of the child's birth—<br>(a) applies, or intends to apply during the period of 6 months beginning with that day, with another person for a parental order in respect of the child, and<br>(b) expects the court to make a parental order on that application in respect of the child; and<br>“<strong>parental order</strong>” means an order under section 54(1) of the Human Fertilisation and Embryology Act 2008.<br>.</td></tr>
+</tbody>
+</table>
+
+*(This note is not part of these Regulations)*
+
+These Regulations apply Parts 12ZA, 12ZB and 12ZC of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, as modified by these Regulations, to parental order parents. A parental order parent is a person who has applied, or intends to apply, with another person, under section 54 of the Human Fertilisation and Embryology Act 2008 for a parental order in respect of a child or someone who has such an order. Part 12ZA provides for entitlement to statutory paternity pay. Part 12ZB provides for entitlement to statutory adoption pay. Part 12ZC provides for entitlement statutory shared parental pay.
+
+An impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impacts were assessed within the document ‘Sharing parental rights, extending flexibility at work – public consultation’, published in May 2013 (www.delni.gov.uk/index/consultation-zone/archived-consultations/archived-consultations-2013/working-parents-rights.htm), and supplemented by a further publication in April 2014 (www.delni.gov.uk/index/publications/equality-good-relations/shared-parental-leave-and-pay.htm).
+
+## Annotations
+
+[^c22448121]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Section 167ZK was inserted by the [Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836); subsection (2) was inserted by the [Work and Families Act (Northern Ireland) 2015 (c. 1(N.I.))](https://www.legislation.gov.uk/nia/2015/1), [section 11(2)](https://www.legislation.gov.uk/nia/2015/1/section/11/2). Section 167ZT was inserted by the Employment (Northern Ireland) Order 2002 (([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)); subsection (2) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 11(3)](https://www.legislation.gov.uk/nia/2015/1/section/11/3). Section 167ZZ8(2) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
+
+[^key-a191265d9b4b2c8198678c4524d1ff45]: Textual amendment: Words in reg. 2 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/2/a)
+
+[^key-72bcc57a3a012424031db2a2b7e4122c]: Textual amendment: Words in reg. 2 omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/2/b)
+
+[^key-3a10ab0c40ddbe7f73f95f00676b8c31]: Textual amendment: Words in reg. 2 omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/2/c)
+
+[^key-3ed2fb2c11c872bad0cd24407b425079]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/90/regulation/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/2/d)
+
+[^c22448141]: Marginal citation: Part 12ZA was inserted by [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)), Article 5.
+
+[^key-043f5588d7b403ae7e1427a2c744dddd]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2015/90/regulation/3) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/3)
+
+[^c22448151]: Marginal citation: Part 12ZB was inserted by [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)), Article 6.
+
+[^key-a25a5d1f8b1eca4b416e10503e0318f7]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2015/90/regulation/4) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/4)
+
+[^c22448161]: Marginal citation: Part 12ZC was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
+
+[^key-336fa571ba7b496118eb2adfe6cf3796]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2015/90/regulation/5) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/5)
+
+[^key-9703d1778dccfb5ed752caca18d8f9a4]: Textual amendment: Words in Sch. 2 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(7)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/7/a)
+
+[^key-6b36a7578201255987721fc63c5cac0c]: Textual amendment: Words in Sch. 2 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(7)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/7/b)
+
+[^key-dd9aefefebe40a1d636c49914a64a288]: Textual amendment: Words in Sch. 2 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(7)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/7/c)
+
+[^key-9e45e699fdcdfda93fc8f1c87e4d2490]: Textual amendment: Words in Sch. 2 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 10(7)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/10/7/d)
+
+[^c22448171]: Marginal citation: Subsection (2F) was inserted by the Work and Families (Northern Ireland) Act 2015, section 13(2).
+
+[^c22448181]: Marginal citation: Subsection (9) was inserted by the Work and Families (Northern Ireland) Act 2015, section 9(5).

@@ -1,0 +1,311 @@
+---
+title: The Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013
+id: nisr/2013/115
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2013-04-23'
+text_date: '2022-03-17'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2013/115
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2013/115/pdfs/nisrem_20130115_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/115/pdfs/nisr_20130115_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/115/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013
+
+> Text as at 2022-03-17.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2013 No. 115
+
+Road Traffic And Vehicles
+
+The Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013
+
+Made
+
+23rd April 2013
+
+Coming into operation
+
+27th May 2013
+
+The Department of the Environment makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c21777951].
+
+The Department of the Environment has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the carriage of passengers and goods by road [^c21777961].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013 and shall come into operation on 27<sup>th</sup> May 2013.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2010 Act**” means the Good Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 [^c21777971];
+- “**Community authorisation**” means a Community authorisation issued under Article 3 of Council Regulation 881/92;
+- “**Community licence**” means a licence issued under Article 4 of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072)[^key-9a04ecdbffe84a8cd6ed360bc2f69891] of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market as it has effect in EU law as amended from time to time;
+- “**Council Regulation 881/92**” means Council Regulation [(EEC) No 881/92](https://www.legislation.gov.uk/eur/1992/881) on access to the market in the carriage of goods by road within the Community [^c21777981];
+- [^M_F_642603e2-e0d2-4e0d-bc83-c2c377711e97]“**Department**” means the Department for Infrastructure[^key-296abd4bf68ff42f99b55077ddc278f1] ;
+- “**driver attestation**” means a driver attestation issued under Article 5 of Regulation 1072/2009;
+- “EU driver attestation” means a driver attestation issued under Article 5 of Regulation[^key-a26468ae35af72c04e1a1faff1dd1069] [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market as it has effect in EU law as amended from time to time;
+- “exit day” has the meaning given in section 20 of the European Union (Withdrawal) Act 2018;
+- “**Regulation 1071/2009**” means Regulation (EC) No.1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing council Directive [96/26/EC](https://www.legislation.gov.uk/eudr/1996/26) [^c21777991];
+- “**Regulation 1072/2009**” means Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market [^c21778001];
+- “**standard operator's licence**” means a standard licence within the meaning of section 2 of the 2010 Act.
+- “UK licence for the Community” means a licence issued under Article 4 of Regulation 1072/2009.[^key-08e24b0bcb4ceadfff1e72959e5411c3]
+
+(2) Expressions used which are also used in Regulation 1072/2009 have the meaning as in Regulation 1072/2009.
+
+(3) The Interpretation Act (Northern Ireland) 1954 [^c21778011] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Use of goods vehicle without Community licence or a driver attestation
+
+A person who uses a vehicle in Northern Ireland in contravention of Article 3 of Regulation 1072/2009 (requirement to possess a Community licence etc.[^key-8f5f59e3a3d6a93e61f07de3579e8861]) is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## 4. Competent Authority[^key-cfaaacbe63d596b1ca53a33be9775bdd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Issue of a UK licence for the Community and driver attestation[^key-73838141803c049efb642b2c7e06fb08]
+
+(1) Subject to regulation 11(1) (supply of information), a person is entitled to be issued by the Department with a UK licence for the Community[^key-675065f2747f0cf7ffb8de67cba61732] if the person holds a standard operator's licence that authorises international transport operations [^c21778021].
+
+(2)[^key-f141f61d60051477ec2ec1623be2604f] On and after exit day a Community licence issued by the Department[^key-433e02e6aba1669cfcae3a2688bfeacb] is treated as a UK licence for the Community.
+
+(3)[^key-ab6917b37c37cad77fd47091a6d4d4d2] Subject to regulation 11(1) (supply of information), the holder of a UK licence for the Community is entitled to be issued with a driver attestation if the holder complies with the requirements of Article 5(1A) of Regulation 1072/2009.
+
+(4)[^key-3826c3a52438ceb848565d9beb063fef] On and after exit day any driver attestation issued by the Department under the provisions of Article 5(1) of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market is treated as a driver attestation for the purposes of Article 5(1A) of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072).
+
+## 6. Withdrawal of a UK licence for the Community and driver attestation[^key-1e37f21e0bc7f3dfadc866f3939a7e80]
+
+(1) Where the holder of a UK licence for the Community[^key-e6ad490453663b3afae716c915b9ea5d] issued by the Department, is guilty of an infringement in Northern Ireland of [^key-2ce5e8f1a8d43fb330ae9fc56d2ece07]... road transport legislation which may lead to the loss of good repute in accordance with Article 6(1) and (2) of Regulation 1071/2009 [^c21778041], the Department may impose either or both of the following penalties—
+
+- (a) the temporary or permanent withdrawal of some or all of the certified true copies of the UK licence for the Community ;
+- (b) the temporary or permanent withdrawal of the UK licence for the Community as determined by the Department.
+
+(2) Where the holder of a UK licence for the Community issued by the Department is guilty of an infringement involving any misuse of driver attestations within the meaning of Article 12(2) of Regulation 1072/2009, the Department may impose either one or both of the following penalties—
+
+- (a) the temporary or permanent withdrawal of some or all of the certified true copies of the driver attestation;
+- (b) the temporary or permanent withdrawal of the driver attestation.
+
+## 7. Review and appeal of decision – UK licence for the Community[^key-eb4c517752e3d347c92f391ee1c4afc7][^key-ffa3a774255cf9bfd73255f605583160]
+
+(1) A person who—
+
+- (a) applies for a UK licence for the Community[^key-cc4aa3dfb9b78e4c4eda0639c48b60a5] ; and
+- (b) wishes to dispute a reasoned decision of the Department to refuse to issue the person with a UK licence for the Community ,
+
+may apply to the Department for a review of that reasoned decision.
+
+(2) A person who—
+
+- (a) is the holder of a UK licence for the Community ; and
+- (b) wishes to dispute a reasoned decision of the Department to withdraw it or any certified true copies of it,
+
+may apply to the Department for a review of that reasoned decision.
+
+(3) An application under paragraph (1) or (2) must be made within a period of 28 days, beginning with the day on which the aggrieved person (“the applicant”) was informed of the decision of the Department to refuse to issue that person with a UK licence for the Community or to withdraw it or any certified true copies of it.
+
+(4) The Department must—
+
+- (a) consider any written representations made and any evidence provided by the applicant; and
+- (b) within the period of 56 days beginning with the day on which the application was made, provide the applicant with a review decision (setting out the Department’s reasons for so doing) confirming, reversing or varying the reasoned decision.
+
+(5) A person who is aggrieved by a review decision under paragraph (4) may appeal to the Upper Tribunal against that decision.
+
+## 8. Review and appeal of decision – driver attestation
+
+(1) A person who—
+
+- (a) applies for a driver attestation; and
+- (b) wishes to dispute a reasoned decision of the Department to refuse to issue the person with a driver attestation,
+
+may apply to the Department for a review of that reasoned decision.
+
+(2) A person who—
+
+- (a) is the holder of a driver attestation; and
+- (b) wishes to dispute a reasoned decision of the Department to withdraw it or any certified true copies of it,
+
+may apply to the Department for a review of that reasoned decision.
+
+(3) An application under paragraph (1) or (2) must be made within a period of 28 days, beginning with the day on which the aggrieved person (“the applicant”) was informed of the decision of the Department to refuse to issue that person with a driver attestation or to withdraw it or any certified true copies of it.
+
+(4) The Department must—
+
+- (a) consider any written representations made and any evidence provided by the applicant; and
+- (b) within the period of 56 days beginning with the day on which the application was made, provide the applicant with a review decision (setting out the Department’s reasons for so doing) confirming, reversing or varying the reasoned decision.
+
+(5) A person who is aggrieved by a review decision under paragraph (4) may appeal to a court of summary jurisdiction against that decision.
+
+## 9.[^key-d38cfa968d45d757f0ab9a5fe3a5dbff]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Authorised inspecting officers
+
+The following are authorised inspecting officers for the purposes of Regulation 1072/2009—
+
+- (a) police constables in uniform;
+- (b) examiners appointed under Article 74 of the Road Traffic (Northern Ireland) Order 1995 [^c21778051].
+
+## 11. Supply of information
+
+(1) The Department may refuse to issue a UK licence for the Community[^key-315a667e2ea3b3a163ccc244c8f8bd79] or driver attestation to an applicant if the applicant fails to supply any information that the Department may reasonably request for the purpose of verifying whether the applicant satisfies the conditions laid down in Article 4(1) or 5(1) of Regulation 1072/2009 as the case may be.
+
+(2) The holder of a UK licence for the Community or driver attestation must supply such information as the Department may reasonably require from time to time to enable the Department to decide whether the holder is entitled to retain the licence or attestation.
+
+(3) A person who fails to supply any information required under paragraph (2) may have the UK licence for the Community or driver attestation, and any certified true copies of it, withdrawn by the Department.
+
+## 12. Death, bankruptcy etc of holder of UK licence for the Community[^key-f60c104f669c3066836e81f8e8d6691f]
+
+(1) Where a person holds a standard operator's licence by virtue of a direction under regulation 29 of the Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 [^c21778061], that person is also treated as the holder of any UK licence for the Community[^key-e0354489438e1652304b1476268a3192] held by the actual holder of that standard operator's licence, for the same period as is specified in that direction.
+
+(2) For the purposes of paragraph (1), “**actual holder**” has the same meaning as in regulation 29(1) of the Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012.
+
+## 13. Bodies corporate
+
+For the purposes of these Regulations, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with that member's functions of management as if that member were a director of the body corporate.
+
+## 14. Amendment of the Road Traffic (Northern Ireland) Order 1981
+
+(1) The Road Traffic (Northern Ireland) Order 1981 [^c21778071] is amended in accordance with paragraphs (2) and (3).
+
+(2) In Schedule 1 (statutory provisions conferring functions on authorised officers)—
+
+- (a) the entry for Article 5(4) of Council Regulation [(EEC) No. 881/92](https://www.legislation.gov.uk/european/regulation/1992/0881) shall be omitted; and
+- (b) after the entry for Regulation 6 of the Road Transport (Passenger Vehicles Cabotage) Regulations (Northern Ireland) 2005 insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Article 4(6) of Regulation [(EC) No. 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council of 21st October 2009 on common rules for access to the international road haulage market. | To require the presentation of a certified true copy of a Community licence, which is required to be kept on board certain goods vehicles. |
+
+  .
+
+(3) In Schedule 2 (statutory provisions relating to vehicles and their drivers)—
+
+- (a) the entry for regulation 3 and 7 of the Goods Vehicles (Community Authorisations) Regulations 1992 [^c21778081] shall be omitted; and
+- (b) after the last entry add—
+
+  > |  |  |
+  > | --- | --- |
+  > | Regulation 3 of the Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013. | To impose a penalty for the contravention of the requirement to possess a Community licence when using a goods vehicle. |
+
+  .
+
+## 15. Revocation
+
+The Goods Vehicles (Community Authorisations) Regulations 1992 are revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 23<sup>rd</sup> April 2013
+
+Iain Greenway
+
+A senior officer of the
+
+Department of the Environment
+
+*(This note is not part of the Regulations)*
+
+These Regulations give effect to aspects of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of 21 October 2009 (“Regulation 1072/2009”), which makes provision for a Community licence allowing goods vehicles access to the market in the carriage of goods by road between Member States and for a driver attestation where the driver is a third country national.
+
+Regulation 1072/2009, which has direct effect in Member States, recasts existing European Regulations and governs the conditions for the issue and use of Community licences and driver attestations. It prescribes the form of the Community licence (Article 4.4 and Annexes I and II) and driver attestation (Article 5(3) and Annexes I and III), and the period of validity for each (Articles 4(2) and 5(7) respectively).
+
+These Regulations establish an offence, punishable on summary conviction by a fine up to level 4 on the standard scale (regulation 3).
+
+The competent authority for the purposes Regulation 1072/2009 is the Department, as provided for in regulation 4.
+
+Regulation 5 confers entitlement to a Community licence on the basis of the relevant Northern Ireland licence. It also provides that existing Community authorisations and driver attestations are deemed to be Community licences and driver attestations respectively for the purposes of Regulation 1072/2009 and of these Regulations. Provision is also made for administrative penalties in certain circumstances – which include the refusal to issue and the withdrawal of documents (regulation 6). The Regulations confer rights of appeal against administrative penalties (regulations 7 to 9).
+
+Authorised inspecting officers are designated for the purpose of Regulation 1072/2009 (regulation 10).
+
+Regulation 11 requires the holder of a Community licence or driver attestation to supply information in certain circumstances, and provides that such documents may be withdrawn in the event of failure to comply.
+
+Provision is made for the automatic transfer of a Community licence following death and bankruptcy or incapacity of the holder (regulation 12) and for offences which may be committed by a body corporate (regulation 13). In addition provision is made for the amendment of the Road Traffic (Northern Ireland) Order 1981, so that an authorised inspecting officer may prohibit the driving of a vehicle on the road in certain circumstances (regulation 14).
+
+A full impact assessment of the effect that Regulation 1072/2009 (along with two other related EU Road Transport Regulations) will have on the costs of business and the voluntary sector is published with the Explanatory Memorandum alongside this Regulation on www.legislation.gov.uk. Regulation 1072/2009 can be viewed on the EUR-Lex website at www.eur-lex.europa.eu.
+
+## Annotations
+
+[^c21777951]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c21777961]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266)
+
+[^c21777971]: Marginal citation: [2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)
+
+[^key-9a04ecdbffe84a8cd6ed360bc2f69891]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21777981]: Marginal citation: O.J. No. L 095, 09.04.92, p1.
+
+[^M_F_642603e2-e0d2-4e0d-bc83-c2c377711e97]: Textual amendment: Reg. 2(1): by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), it is provided that (31.12.2020) in the definition of “Department”, the words “for Infrastructure” are substituted for the words “of the Environment”
+
+[^key-296abd4bf68ff42f99b55077ddc278f1]: Textual amendment: Words in reg. 2(1) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2019/6/regulation/16)
+
+[^key-a26468ae35af72c04e1a1faff1dd1069]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21777991]: Marginal citation: O.J. No. L 300, 14.11.09, p51.
+
+[^c21778001]: Marginal citation: O.J. No. L 300, 14.11.09, p72.
+
+[^key-08e24b0bcb4ceadfff1e72959e5411c3]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21778011]: Marginal citation: [1954 c.33](https://www.legislation.gov.uk/ukpga/1954/33)
+
+[^key-8f5f59e3a3d6a93e61f07de3579e8861]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/nisr/2013/115/regulation/3) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cfaaacbe63d596b1ca53a33be9775bdd]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/115/regulation/4) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [134](https://www.legislation.gov.uk/uksi/2022/293/regulation/134)
+
+[^key-73838141803c049efb642b2c7e06fb08]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2013/115/regulation/5) heading substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-675065f2747f0cf7ffb8de67cba61732]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2013/115/regulation/5/1) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21778021]: Marginal citation: see section 2(5) of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010
+
+[^key-f141f61d60051477ec2ec1623be2604f]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2013/115/regulation/5/2) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-433e02e6aba1669cfcae3a2688bfeacb]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2013/115/regulation/5/2) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [135](https://www.legislation.gov.uk/uksi/2022/293/regulation/135)
+
+[^key-ab6917b37c37cad77fd47091a6d4d4d2]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2013/115/regulation/5/3) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3826c3a52438ceb848565d9beb063fef]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/nisr/2013/115/regulation/5/4) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(4)(d)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e37f21e0bc7f3dfadc866f3939a7e80]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2013/115/regulation/6) heading substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6ad490453663b3afae716c915b9ea5d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2013/115/regulation/6) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2ce5e8f1a8d43fb330ae9fc56d2ece07]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2013/115/regulation/6/1) omitted (31.12.2020) by virtue of [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(5)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21778041]: Marginal citation: Article 6(1) of Regulation 1071/2009 states that, subject to paragraph (2), Member States are to determine the conditions to be met to satisfy the good repute provisions of Article 3(1)(b). This is prescribed in regulation 5 of the Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. [2012 No. 257](https://www.legislation.gov.uk/ukcm/2012/257)).
+
+[^key-eb4c517752e3d347c92f391ee1c4afc7]: Textual amendment: Regs. 7 8 substituted (28.10.2013) by [The Goods Vehicles (Community Licence) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/224)](https://www.legislation.gov.uk/nisr/2013/224), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/224/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2013/224/regulation/2/2)
+
+[^key-ffa3a774255cf9bfd73255f605583160]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2013/115/regulation/7) heading substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cc4aa3dfb9b78e4c4eda0639c48b60a5]: Textual amendment: Words in [reg. 7(1)-(3)](https://www.legislation.gov.uk/nisr/2013/115/regulation/7/1) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d38cfa968d45d757f0ab9a5fe3a5dbff]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2013/115/regulation/9) omitted (28.10.2013) by virtue of [The Goods Vehicles (Community Licence) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/224)](https://www.legislation.gov.uk/nisr/2013/224), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/224/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/224/regulation/2/3)
+
+[^c21778051]: Marginal citation: S.I 1995/2994 (N.I. 18)
+
+[^key-315a667e2ea3b3a163ccc244c8f8bd79]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2013/115/regulation/11) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f60c104f669c3066836e81f8e8d6691f]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/nisr/2013/115/regulation/12) heading substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21778061]: Marginal citation: S.R. [2012 No. 261](https://www.legislation.gov.uk/ukcm/2012/261)
+
+[^key-e0354489438e1652304b1476268a3192]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/115/regulation/12/1) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2019/708/regulation/8/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21778071]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
+
+[^c21778081]: Marginal citation: S.I. [1992 No. 3077](https://www.legislation.gov.uk/ukcm/1992/3077)

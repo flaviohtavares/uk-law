@@ -1,0 +1,38 @@
+---
+title: Charities Act (Northern Ireland) 2008, section 98
+act: Charities Act (Northern Ireland) 2008
+section: '98'
+status: revised
+text_date: '2022-03-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/12/section/98
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act (Northern Ireland) 2008, section 98
+
+> Text as at 2022-03-30.
+>
+> Extent: Northern Ireland.
+
+## 98. Consent of Commission required for approval etc by members of charitable companies
+
+*Extent: N.I.*
+
+(1) Where a company is a charity—
+
+- (a) any approval given by the members of the company under any provision of Chapter 4 of Part 10 of the Companies Act 2006 (transactions with directors requiring approval by members) listed in subsection (2), and
+- (b) any affirmation given by members of the company under section 196 or 214 of that Act (affirmation of unapproved property transactions and loans),
+
+is ineffective without the prior written consent of the Commission.
+
+(2) The provisions are—
+
+- (a) section 188 (directors' long-term service contracts);
+- (b) section 190 (substantial property transactions with directors etc);
+- (c) section 197, 198 or 200 (loans and quasi-loans to directors etc);
+- (d) section 201 (credit transactions for benefit of directors etc);
+- (e) section 203 (related arrangements);
+- (f) section 217 (payments to directors for loss of office);
+- (g) section 218 (payments to directors for loss of office: transfer of undertaking etc).

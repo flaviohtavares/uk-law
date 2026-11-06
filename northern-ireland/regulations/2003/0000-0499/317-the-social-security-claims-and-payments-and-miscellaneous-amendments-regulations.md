@@ -1,0 +1,199 @@
+---
+title: The Social Security (Claims and Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+id: nisr/2003/317
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-06-24'
+text_date: '2009-07-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/317
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/317/pdfs/nisr_20030317_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/317/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+
+> Text as at 2009-07-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 317
+
+SOCIAL SECURITY
+
+The Social Security (Claims and Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+
+Made
+
+24th June 2003
+
+Coming into operation
+
+21st July 2003
+
+The Department for Social Development, in exercise of the powers conferred by sections 5(1)(a) and (k), 5A(1), (2) and (6)(c) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-ddb55d1936c272444a97a427c3db1a8c]
+
+These Regulations may be cited as the Social Security (Claims and Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation on 21st July 2003.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-2f90c904acdbba0f1ea3786b251facb6]
+
+(1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 4 (making a claim for benefit) –
+
+- (a) in paragraph (6)[^f00004] after “Subject to” there shall be inserted “paragraphs (6A) to (6D) and”;
+- (b) after paragraph (6) there shall be inserted the following paragraphs –
+
+  > (6A) Paragraphs (6B) and (6C) apply in relation to a person –
+  >
+  > - (a) who has attained the qualifying age and makes a claim for –
+  >   - (i) an attendance allowance, a bereavement benefit, a carer’s allowance, a disability living allowance or incapacity benefit, or
+  >   - (ii) a retirement pension of any category for which a claim is required or a winter fuel payment for which a claim is required under regulation 3(1)(b) of the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^f00005];
+  > - (b) who has not yet attained the qualifying age and makes a claim for a retirement pension in advance in accordance with regulation 15(1); or
+  > - (c) who has attained the qualifying age and makes a claim for income support in respect of a period before 6th October 2003.
+  >
+  > (6B) A person to whom paragraph (6A) applies may make a claim by sending or delivering it to, or by making it in person at –
+  >
+  > - (a) an office designated by the Department for accepting such claims; or
+  > - (b) an office of –
+  >   - (i) a relevant authority administering housing benefit,
+  >   - (ii) a person providing to such an authority services relating to housing benefit, or
+  >   - (iii) a person authorised to exercise any function of a relevant authority relating to housing benefit,
+  >
+  >   if the Department has arranged with the relevant authority or person specified in head (ii) or (iii) for them to receive claims in accordance with this sub-paragraph,
+  >
+  > provided that the claim is made on a form which is approved or provided by the Department for the purpose.
+  >
+  > (6C) Where a person to whom paragraph (6A) applies makes a claim in accordance with paragraph (6B)(b), on receipt of the claim the relevant authority or other person specified in that sub-paragraph –
+  >
+  > - (a) shall forward the claim to the Department as soon as reasonably practicable;
+  > - (b) may receive information or evidence relating to the claim supplied by –
+  >   - (i) the person making, or who has made, the claim, or
+  >   - (ii) other persons in connection with the claim,
+  >
+  >   and shall forward it to the Department as soon as reasonably practicable;
+  > - (c) may obtain information or evidence relating to the claim from the person who has made the claim, but not any medical information or evidence except for that which the claimant must provide in accordance with instructions on the form, and shall forward the information or evidence to the Department as soon as reasonably practicable;
+  > - (d) may record information or evidence relating to the claim supplied or obtained in accordance with sub-paragraph (b) or (c) and may hold the information or evidence (whether as supplied or obtained or as recorded) for the purpose of forwarding it to the Department; and
+  > - (e) may give information and advice with respect to the claim to the person who makes, or who has made, the claim.
+  >
+  > (6D) The benefits specified in paragraph (6A) are relevant benefits for the purposes of section 5A of the Administration Act.
+
+  ; and
+- (c)[^key-b3f91caf781e72bbf31257f7d72e9acb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 4A[^f00007] (further provisions as to claims) paragraph (5) shall be omitted.
+
+(4) In regulation 4C[^f00008] (making a claim for state pension credit) –
+
+- (a) for paragraph (4) there shall be substituted the following paragraph –
+
+  > (4) A claim made in writing may also be made at an office of –
+  >
+  > - (a) a relevant authority administering housing benefit;
+  > - (b) a person providing to such an authority services relating to housing benefit; or
+  > - (c) a person authorised to exercise any function of a relevant authority relating to housing benefit,
+  >
+  > if the Department has arranged with the relevant authority or person specified in sub-paragraph (b) or (c) for them to receive claims in accordance with this paragraph.
+
+  ; and
+- (b) in paragraph (11)(b) after “appropriate office” there shall be inserted “or other office specified in regulation 4E(3)”.
+
+(5) In regulation 4E(3) (making a claim after attaining qualifying age: date of claim) –
+
+- (a) in sub-paragraph (a) after “an appropriate office” there shall be inserted “or other office designated by the Department for accepting claims for state pension credit or the office of a person specified in regulation 4C(4),”; and
+- (b) for “the appropriate office” there shall be substituted “an office specified in sub-paragraph (a)”.
+
+(6) In regulation 6 (date of claim) –
+
+- (a) after paragraph (1)[^f00009] there shall be inserted the following paragraph –
+
+  > (1ZA) In the case of a claim made in accordance with regulation 4(6B) –
+  >
+  > - (a) paragraph (1) shall apply in relation to a claim received at an office specified in that regulation as it applies in relation to a claim received at an appropriate office; and
+  > - (b) paragraph (1A) shall apply in relation to an office specified in that regulation as it applies in relation to an appropriate office.
+
+  ;
+- (b) in paragraph (8)[^f00010] for “paragraph (8A)” there shall be substituted “paragraphs (8A) and (8B)”; and
+- (c) after paragraph (8A)[^f00011] there shall be inserted the following paragraph –
+
+  > (8B) In the case of a claim for disability living allowance or attendance allowance made in accordance with regulation 4(6B), paragraphs (8) and (8A) shall apply in relation to an office specified in that regulation as they apply in relation to an appropriate office.
+
+  .
+
+(7) In regulation 32 (information to be given and changes to be notified) paragraph (1A)[^f00012], as inserted by the Social Security (Claims and Information) Regulations (Northern Ireland) 2001[^f00013], shall be renumbered paragraph (1C).
+
+## 3. Amendment of the Housing Benefit Regulations[^key-aea826bfd4f678c526440f1d5ecd693e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 24th June 2003.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (“the Claims and Payments Regulations”) and the Housing Benefit (General) Regulations (Northern Ireland) 1987 (“the Housing Benefit Regulations”) in respect of benefit claims.
+
+Regulation 2 amends the Claims and Payments Regulations to –
+
+- enable a person of qualifying age for state pension credit to make a claim for attendance allowance, bereavement benefit, carer’s allowance, disability living allowance, incapacity benefit, retirement pension, a winter fuel payment or income support at an office designated by the Department for Social Development (“the Department”) for accepting such claims or at an authorised office of an authority administering housing benefit;
+- make consequential amendments in respect of claims for state pension credit at such an office;
+- fix the date of claim where a person of qualifying age for state pension credit –
+  - notifies such an office of intent to claim state pension credit or, transitionally, income support,
+  - makes a claim for another benefit from such an office, or
+  - asks the office for a claim form for disability living allowance or attendance allowance; and
+- make a minor technical amendment to correct a numbering error.
+
+Regulation 3 amends the Housing Benefit Regulations to enable a person of qualifying age for state pension credit to make a claim for housing benefit at an office nominated by the Department and authorised by the relevant authority to accept such claims.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5A was inserted by Article 68 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and amended by paragraph 8 of Schedule 1 to the Social Security Act (Northern Ireland) [2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10) and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-ddb55d1936c272444a97a427c3db1a8c]: Commencement: Reg. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/317/regulation/1)
+
+[^key-2f90c904acdbba0f1ea3786b251facb6]: Commencement: Reg. 2 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/317/regulation/1)
+
+[^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1994 No. 345](https://www.legislation.gov.uk/nisr/1994/345), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), [S.R. 2001 Nos. 175](https://www.legislation.gov.uk/nisr/2001/175) and [176](https://www.legislation.gov.uk/nisr/2001/176) and [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00004]: Footnote: Paragraph (6) was substituted by regulation 2(4)(b) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and amended by regulation 2(3)(e) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365) and paragraph 2(3) and (4) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
+
+[^f00005]: Footnote: [S.R. 2000 No. 91](https://www.legislation.gov.uk/nisr/2000/91)
+
+[^key-b3f91caf781e72bbf31257f7d72e9acb]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/2003/317/regulation/2/2/c) revoked (13.7.2009) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/240)](https://www.legislation.gov.uk/nisr/2009/240), [regs. 1](https://www.legislation.gov.uk/nisr/2009/240/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/240/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2009/240/schedule)
+
+[^f00007]: Footnote: Regulation 4A was inserted by regulation 3 of [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
+
+[^f00008]: Footnote: Regulations 4C and 4E were inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00009]: Footnote: Paragraph (1) was amended by regulation 3(4)(a) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and paragraph 3 of Schedule 3 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
+
+[^f00010]: Footnote: Paragraph (8) was added by regulation 4(d) of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and amended by regulation 3(2) of [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375)
+
+[^f00011]: Footnote: Paragraph (8A) was inserted by regulation 3(2)(b) of [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375)
+
+[^f00012]: Footnote: Paragraph (1A) was inserted by paragraph 2(8) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
+
+[^f00013]: Footnote: [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
+
+[^key-aea826bfd4f678c526440f1d5ecd693e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/317/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

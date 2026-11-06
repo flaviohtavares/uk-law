@@ -1,0 +1,49 @@
+---
+title: The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009, section 90
+act: The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009
+section: '90'
+status: revised
+text_date: '2013-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/122/section/90
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009, section 90
+
+> Text as at 2013-04-01.
+>
+> Extent: Northern Ireland.
+
+## 90. Meeting of creditors to remove bank liquidator[^key-a825281542a096e2b7890ee1a84c6ad7]
+
+*Extent: N.I.*
+
+(1) Apply rule 4.120 of the 1991 Rules.
+
+(2) In paragraph (1), for “Article 148(4)”, substitute “section 109 of the 2009 Act”.
+
+(3) In paragraph (2), for “official receiver” substitute “Bank of England and the FSA”.
+
+(4) In paragraph (4) substitute—
+
+> (4) Where the meeting passes a resolution that—
+>
+> - (a) the bank liquidator be removed;
+> - (b) a new bank liquidator be appointed, or
+> - (c) the bank liquidator not to be given their release
+>
+> the bank liquidator shall be given a copy of that resolution and if it has been resolved to remove the bank liquidator, the bank liquidator shall be given a certificate to that effect.
+
+.
+
+(5) For paragraph (5) substitute—
+
+> (5) If the creditors have resolved to appoint a new bank liquidator, the certificate of his appointment shall also be sent to the registrar of companies within that time and rule 4.106 shall apply.
+
+.
+
+## Annotations
+
+[^key-a825281542a096e2b7890ee1a84c6ad7]: Commencement: Rule 90 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

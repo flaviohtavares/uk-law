@@ -1,0 +1,175 @@
+---
+title: The New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order (Northern Ireland) 1999
+id: nisr/1999/278
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1999-06-16'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/278
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/278/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order (Northern Ireland) 1999
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2006-11-20. See https://www.legislation.gov.uk/changes/affected/nisr/1999/278
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 278
+
+EMPLOYMENT AND TRAINING
+
+SOCIAL SECURITY
+
+The New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order (Northern Ireland) 1999
+
+Made
+
+16th June 1999
+
+Coming into operation
+
+18th July 1999
+
+Whereas arrangements known as “the New Deal” have been made by the Department of Economic Development under section 1 of the Employment and Training Act (Northern Ireland) 1950 (“the 1950 Act”)[^f00001]:
+
+And whereas the New Deal includes an employment programme known as “the New Deal Pilot for 25 plus self employment route”:
+
+And whereas it appears to the Department of Economic Development that these arrangements make provisions for persons using facilities provided in pursuance of them to receive payments in connection with their use of those facilities:
+
+Now, therefore, the Department of Economic Development, in exercise of the powers conferred on it by Article 4 of the Employment and Training (Amendment) (Northern Ireland) Order 1988[^f00002]:
+
+## 1. Citation, commencement and interpretation[^key-dca208bb06c4506280015843cde55941]
+
+(1) This Order may be cited as the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order (Northern Ireland) 1999 and shall come into operation on 18th July 1999.
+
+(2) In this Order—
+
+- “the 1950 Act” means the Employment and Training Act (Northern Ireland) 1950;
+- “the Department” means the Department of Economic Development;
+- “the intensive activity period of the New Deal Pilot for 25 plus” means the programme known as such and provided in pursuance of the New Deal arrangements for which only persons who are aged 25 years or over are eligible, and which includes, for any such person, jobsearch activity and one or more of the following, namely training, study, assistance in pursuing self-employed earner’s employment and work experience;
+- “participant” in relation to the New Deal arrangements means a person who is assisted by those arrangements for the purposes of section 1 of the 1950 Act;
+- “the New Deal arrangements” means the arrangements made by the Department under section 1 of the 1950 Act and known as “the New Deal”;
+- “the self-employment route” in relation to any participant in the New Deal arrangements means the system whereby that person receives assistance in pursuing self-employed earner’s employment whilst participating in the intensive activity period of the New Deal Pilots for 25 plus;
+- “training allowance” means a payment made directly by the Department to a participant in the New Deal arrangements in connection with his participation in one or more of the programmes provided in pursuance of those arrangements.
+
+## 2. Treatment of persons and payments for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and other specified statutory provisions[^key-8bf8ccb2f6d6bef62d13eb5186e11905]
+
+(1) Paragraph (2) applies for the purposes of—
+
+- (a) Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00003];
+- (b) the Jobseekers (Northern Ireland) Order 1995[^f00004]; and
+- (c) the statutory provisions specified in the Schedule.
+
+(2) If during any period or periods commencing with or falling after the date on which this Order comes into operation, a participant in the self-employment route within the intensive activity period of the New Deal Pilot for 25 plus receives, or is eligible to receive, either a mandatory top-up payment or other payment made to him in order to assist with the expenses of such participation, he is to be treated for that period, or those periods, and in respect of his participation as not being employed and any such payments made to such a person during that period or those periods in connection with his use of facilities shall be treated as a grant and not as a training allowance.
+
+Sealed with the Official Seal of the Department of Economic Development on
+
+G. O'Doherty
+
+Assistant Secretary
+
+16th June 1999.
+
+## SCHEDULE — List of Subordinate Legislation[^key-cc186e6e74d82fbb8c5dc0104f2469dc]
+
+Article 2
+
+[^key-cc186e6e74d82fbb8c5dc0104f2469dc]
+
+- The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00005].
+- The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00006].
+- The Income Support (General) Regulations (Northern Ireland) 1987[^f00007].
+- The Social Security (Claims and Payments) (Northern Ireland) Regulations 1987[^f00008].
+- The Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00009].
+- The Housing Benefit Regulations (Northern Ireland) 2006[^key-7d19c304ae77d9caae280d75299e1af9]
+
+  The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+- The Family Credit (General) Regulations (Northern Ireland) 1987[^f00011].
+- The Fire Services (Factories, Offices and Shop Premises) Order (Northern Ireland) 1993[^f00012].
+- The Income Support (General) (Amendment No. 3) Regulations (Northern Ireland) 1991[^f00013].
+- The Income Support (General) (Amendment No. 5) Regulations (Northern Ireland) 1991[^f00014].
+- The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00015].
+- The Child Support (Maintenance Assessment Procedure) (Northern Ireland) Regulations 1992[^f00016].
+- The Child Support (Maintenance Assessment and Special Cases) Regulations (Northern Ireland) 1992[^f00017].
+- The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00018].
+- The Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996[^f00019].
+- The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00020].
+- The Housing Renovation etc. Grants (Reduction of Grant) Regulations (Northern Ireland) 1997[^f00021].
+- The Student Awards Regulations (Northern Ireland) 1998[^f00022].
+- The Social Security (New Deal Pilot) Regulations (Northern Ireland) 1998[^f00023].
+- The Education (Student Support) Regulations (Northern Ireland) 1999[^f00024].
+- The Education (Student Loans) Regulations (Northern Ireland) 1998[^f00025].
+
+(This note is not part of the Order.)
+
+This Order provides that, for the purposes of Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7) and the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and of the subordinate legislation specified in the Schedule of the Order, a person using facilities provided in pursuance of the employment programme known as “the intensive activity period of the New Deal Pilot for 25 plus self-employment route” and receiving or entitled to receive in connection with the use of those facilities a top-up payment or assistance with the expenses of participation or both shall be treated as not being employed and as being in receipt of a grant rather than a training allowance. The effect of the Order is that receipt of the top-up payment or expenses on the part of those using the facilities does not affect their entitlement to continue to receive jobseeker’s allowance nor the conditions on which Jobseeker’s Allowance is paid to them.
+
+This Order does not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29) Section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 (S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 (S.I. [1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))
+
+[^f00002]: Footnote: S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)
+
+[^key-dca208bb06c4506280015843cde55941]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/278/article/1) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
+
+[^key-8bf8ccb2f6d6bef62d13eb5186e11905]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/278/article/2) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
+
+[^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00004]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^key-cc186e6e74d82fbb8c5dc0104f2469dc]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1999/278/schedule) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
+
+[^f00005]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113) as amended by [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1998 No. 298](https://www.legislation.gov.uk/nisr/1998/298), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00006]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242) as amended by [S.R. 1982 No. 272](https://www.legislation.gov.uk/nisr/1982/272) and [S.R. 1988 No. 312](https://www.legislation.gov.uk/nisr/1988/312)
+
+[^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459) as amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1998 No. 318](https://www.legislation.gov.uk/nisr/1998/318), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 176](https://www.legislation.gov.uk/nisr/1998/176), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
+
+[^f00008]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465) as amended by [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
+
+[^f00009]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460) as amended by [S.R. 1998 No. 371](https://www.legislation.gov.uk/nisr/1998/371)
+
+[^key-7d19c304ae77d9caae280d75299e1af9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/278/schedule) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/6/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00011]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463) as amended by [S.R. 1988 No. 131](https://www.legislation.gov.uk/nisr/1988/131), [S.R. 1988 No. 423](https://www.legislation.gov.uk/nisr/1988/423), [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^f00012]: Footnote: [S.R. 1993 No. 319](https://www.legislation.gov.uk/nisr/1993/319)
+
+[^f00013]: Footnote: [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
+
+[^f00014]: Footnote: [S.R. 1991 No. 474](https://www.legislation.gov.uk/nisr/1991/474)
+
+[^f00015]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78) as amended by [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^f00016]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340) as amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00017]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341) as amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00018]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198) as amended by [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^f00019]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518)
+
+[^f00020]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519)
+
+[^f00021]: Footnote: [S.R. 1997 No. 456](https://www.legislation.gov.uk/nisr/1997/456) as amended by [S.R. 1998 No. 396](https://www.legislation.gov.uk/nisr/1998/396)
+
+[^f00022]: Footnote: [S.R. 1998 No. 273](https://www.legislation.gov.uk/nisr/1998/273) as amended by [S.R. 1998 No. 300](https://www.legislation.gov.uk/nisr/1998/300)
+
+[^f00023]: Footnote: [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421) as amended by [S.R. 1999 No. 158](https://www.legislation.gov.uk/nisr/1999/158)
+
+[^f00024]: Footnote: [S.R. 1999 No. 192](https://www.legislation.gov.uk/nisr/1999/192)
+
+[^f00025]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303)

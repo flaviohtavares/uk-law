@@ -1,0 +1,392 @@
+---
+title: The Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012
+id: nisr/2012/67
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2012-02-22'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2012/67
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/67/pdfs/nisrem_20120067_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/67/pdfs/nisr_20120067_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/67/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2012 No. 67
+
+Animals
+
+The Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012
+
+Made
+
+22nd February 2012
+
+Coming into operation
+
+19th March 2012
+
+The Department of Agriculture and Rural Development[^f00001], makes the following Order in exercise of the powers conferred by Articles 5(1), 19, 44, 51(2) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00002].
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement[^key-9d03d0972e7aff9b0a40f7644308b039]
+
+This Order may be cited as the Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012 and shall come into operation 19th March 2012.
+
+### 2. Interpretation[^key-479200ae7117b4f9ec7893289217f1fa]
+
+(1) In this Order—
+
+- “curer mark” means a code of up to 4 characters applied to the shoulder of a pig as a tattoo, allocated to a keeper and registered by the Department;
+- “Divisional Veterinary Office” in relation to any holding means the Divisional Veterinary Office or DARD Direct Office of the Department which processes movements for the area in which a holding is located;
+- “the Directive” means Council Directive [2008/71/EC](https://www.legislation.gov.uk/european/directive/2008/0071) of 15 July 2008 on the identification and registration of pigs[^f00003];
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
+  - (a) by means of an electronic telecommunications network; or
+  - (b) by other means but while in an electronic form;
+- “holding” means any establishment, construction or, in the case of an open air farm, any place in which pigs are held, kept or handled and includes land with or without buildings;
+- “holding code” means an alphanumeric code, allocated by the Department under article 4(3);
+- “holding register” means the register required under article 5(1);
+- “identification mark” means any individual identification number, holding code or curer mark applied to a pig in accordance with this Order, or an identification mark applied in accordance with the Aujeszky’s Disease Order (Northern Ireland) 1994[^f00004];
+- “individual identification number” means a unique number of up to 4 digits for the identification of each pig;
+- “keeper” means any person having care and control of pigs, whether on a temporary or permanent basis, but does not include a person who only transports pigs;
+- “market” means a market place, sale-yard or any other premises or place to which animals are brought from any other place and exposed for sale and includes any place, lairage or parking area adjoining a market and used in connection with it;
+- “movement document” means a document approved by the Department, or by the competent authority of any country outside Northern Ireland in the case of a pig imported from that country, for the notification of pig movements as required under article 14;
+- “operator” means the person for the time being responsible, or a duly authorised representative of such a person, for—
+  - (a) in the case of a market, managing the reception or the sale of animals in a market; or
+  - (b) in the case of a show, managing the reception of animals in a show; or
+  - (c) in the case of a slaughterhouse, managing the reception of animals in a slaughterhouse.
+- “pig” means any animal of the *suidae* family;
+- “show” means an event at which animals are exhibited but not for the purpose of sale;
+- “slaughterhouse” means any premises used for the commercial slaughter or killing of pigs, the flesh of which is intended for human consumption, including any associated facilities for moving or lairaging such animals.
+
+(2) Any other expressions defined in the Directive have the same meaning in this Order.
+
+### 3. Authorisations[^key-614a44dabfd62dd055f898399ac82cd4]
+
+(1) An authorisation, licence, notice, approval or registration under this Order or the Directive—
+
+- (a) shall be in writing;
+- (b) may be made subject to conditions; and
+- (c) may be amended, suspended or revoked by notice in writing at any time.
+
+(2) A person to whom any document specified in paragraph (1) is issued shall comply with its requirements.
+
+### 4. Notification of holdings[^key-a7a5d84b423b49045282f745e787b5b8]
+
+(1) A person who intends to keep a pig on a holding shall inform the Department in writing beforehand, giving details of—
+
+- (a) the name and address of the keeper of the pig;
+- (b) the address or an accurate description of the location of the holding;
+- (c) the name and address of the owner and, if different, the occupier of the holding;
+- (d) the address or an accurate description of the location of the premises on the holding on which the pig is intended to be kept; and
+- (e) any other species of animals on the holding and any numbers or codes used to identify any cattle, sheep, goats or poultry on the holding.
+
+(2) A notification made to the Department under article 3 of the Aujeszky’s Disease Order (Northern Ireland) 1994 or paragraph 3 and Annex 1 of the Schedule to the Aujeszky’s Disease Scheme Order (Northern Ireland) 1994[^f00005] shall, notwithstanding the revocation of those Orders, be regarded as a notification for the purpose of paragraph (1).
+
+(3) On receiving notification under paragraph (1) the Department may allocate to the keeper a holding code.
+
+(4) A person shall not move a pig onto a holding until a holding code has been allocated.
+
+(5) A person shall not move a pig to different premises on a holding until the address or an accurate description of those premises has been notified in writing or by electronic communication to the Department.
+
+(6) If there is any change to the information notified pursuant to paragraphs (1) or (2) or if the keeper stops keeping pigs on any premises on the holding, the keeper shall notify the Department in writing or by electronic communication within 7 days of the change.
+
+## PART 2 — HOLDING REGISTERS
+
+### 5. Holding register[^key-23448626d50023df398034256417ab96]
+
+(1) A keeper shall maintain a holding register in which the following information shall be recorded in chronological order—
+
+- (a) in the case of births, the number of pigs born and the date of identification, within 48 hours of the application of the identification mark;
+- (b) in the case of the replacement of an identification mark with a different identification mark, the date of replacement, the old identification mark (if known), and the new identification mark, within 48 hours of the replacement;
+- (c) in the case of movements onto or off a holding, the date of movement, the number of pigs moved and the serial number of the movement document, within 48 hours of the movement;
+- (d) in the case of the death of identified pigs, the date of discovery of the death and the number of pigs that have died, within 48 hours of the discovery of the death; and
+- (e) the total number of pigs on the holding once per year.
+
+(2) A keeper shall keep the holding register for 3 years from the last date of entry.
+
+### 6. Notification of pigs on a holding[^key-780932732740c9bcbe136ee202a008d1]
+
+A keeper shall notify the Department of the total number of pigs on the holding by such a date as the Department may from time to time determine and in such form and in such manner as the Department may specify.
+
+## PART 3 — IDENTIFICATION
+
+### 7. Ear tags and tattoos[^key-fcaa7ba5508d0dcbfe974f769ccd3d6e]
+
+(1) An ear tag shall be—
+
+- (a) easy to read during the pig’s lifetime;
+- (b) made of either metal or plastic or a combination of metal and plastic;
+- (c) tamper-resistant;
+- (d) incapable of re-use;
+- (e) designed to remain attached to the pig without harming it;
+- (f) printed with the keeper’s holding code.
+
+(2) A person shall not sell or supply an ear tag except in accordance with the conditions of a licence issued by the Department.
+
+(3) A tattoo shall be applied either by tattoo forceps, in which case it shall be on an ear, or by slap-marking equipment in which case it shall be on the shoulder.
+
+(4) As an alternative to applying a tattoo by methods referred to in paragraph (3) a keeper may apply a tattoo to a shoulder of a pig by means of equipment which uses compressed air to drive the tattooing pins into the skin of the pig.
+
+(5) A tattoo shall be easy to read during the pig’s lifetime.
+
+(6) A tattoo shall bear a holding code or in the case of a pig being moved direct to slaughter, a tattoo may bear a holding code or curer mark.
+
+### 8. Identification of pigs[^key-6feea4550728fcfa087f1f00e7ab257d]
+
+(1) Subject to paragraph (6), a person shall not move a pig off a holding unless it is identified in accordance with this article.
+
+(2) A pig shall be identified with an ear tag bearing a holding code and an individual identification number by the time it reaches 6 months of age or before it is moved off the holding, whichever is earlier.
+
+(3) Paragraph (2) does not apply in the case of a pig that is kept for meat production and which is under the age of 6 months. Any such pig may be identified with an ear tag or tattoo.
+
+(4) When an individual identification number is applied to a pig, the same number shall not be applied to any other pig on the same holding.
+
+(5) An identification mark applied on a holding shall bear the holding code or curer mark allocated to the keeper of that holding.
+
+(6) Paragraphs (2) to (5) do not apply to a pig which was identified in accordance with the Aujeszky’s Disease Order (Northern Ireland) 1994.
+
+### 9. Removing or defacing an identification mark[^key-943e6ef4a08b0a5772ee33505bc59317]
+
+(1) Subject to paragraph (2), a person shall not remove or deface an identification mark except in accordance with the conditions of a licence issued by the Department.
+
+(2) A person may remove an ear tag if the welfare of the pig requires urgent removal.
+
+### 10. Replacement of an identification mark[^key-f0b6a7c5b09795d0eae0160aff50e366]
+
+(1) Subject to paragraph (2), a person shall not replace an identification mark applied under this Order or the Aujeszky’s Disease Order (Northern Ireland) 1994 except under the conditions of a licence issued by the Department.
+
+(2) A keeper shall replace an identification mark if it has—
+
+- (a) become illegible;
+- (b) been removed for welfare reasons; or
+- (c) been lost.
+
+(3) A keeper shall replace an identification mark to which paragraph (2) applies as soon as possible following discovery and in any event within 28 days of the discovery and shall either—
+
+- (a) apply a new identification mark and cross-refer that new identification mark with the original identification mark (if known) in the register kept in accordance with article 5; or
+- (b) if the original identification mark was applied on the holding, the keeper may apply an identical identification mark.
+
+### 11. Additional requirements for export[^key-39cf73473c57e8149a874e121e902cdf]
+
+A keeper shall not move a pig off a holding for the purposes of trade with the EU[^key-709aef13ac9bb61d62032300c661f29f] or export unless it has been identified with an eartag bearing a holding code and individual identification number, except in accordance with the conditions of a licence issued by the Department.
+
+### 12. Additional requirements for movements of pigs to a show[^key-1eb8fdcb8eaa62981a2d059c9b1d55ff]
+
+A person shall not move a pig off a holding—
+
+- (a) to a show; or
+- (b) for breeding purposes with the intention of returning the pig to the holding from which it was moved,
+
+unless it is identified with an eartag bearing a holding code and individual identification number.
+
+### 13. Identification of pigs moved onto a holding from outside the European Union[^key-deed20b4409b039e224dd76bb7f0a7db]
+
+(1) Subject to paragraph (3) a keeper importing a pig from outside the European Union shall apply an ear tag to the pig containing the following information, in the following order—
+
+- (a) the holding code of the holding into which the imported pig is introduced;
+- (b) an individual identification number;
+- (c) any other information, if the keeper wishes to apply such information; and
+- (d) the letter “F”.
+
+(2) The ear tag shall be applied to the pig within 30 days of its arrival at the holding of destination and, in any event, before it is moved off that holding.
+
+(3) If a new identification mark is applied, a keeper shall cross-refer the new identification mark with the original identification mark (if known) in the register kept in accordance with article 5.
+
+(4) Paragraphs (1), (2) and (3) shall not apply in the case of a pig which is moved directly to a slaughterhouse and is slaughtered within 30 days of arrival in Northern Ireland.
+
+## PART 4 — MOVEMENTS
+
+### 14. Movement of pigs[^key-487fe7468b08dc3fecffaeb5f8118e86]
+
+(1) A person transporting pigs off a holding shall carry a movement document signed by the keeper which specifies—
+
+- (a) the name, address and the holding code of the holding of departure;
+- (b) the name, address and the holding code of the holding of destination;
+- (c) the date of the movement;
+- (d) the number of pigs that the document covers;
+- (e) the most recently applied identification mark of each pig being moved; and
+- (f) in the case of a movement from a market, the lot numbers of the pigs being moved.
+
+(2) The movement document shall be given to the keeper of the holding of destination, who shall—
+
+- (a) complete it with their name, address, holding code, their signature and date of arrival of the pig on the holding of destination; and
+- (b) keep it for a period of 3 years with the holding register.
+
+(3) In the case of a pig moved onto a holding from a place outside Northern Ireland the keeper shall, within 7 days of the pig arriving on that holding, send a copy of the movement document to the Divisional Veterinary Office.
+
+(4) The keeper of the holding of departure shall —
+
+- (a) send a copy of the movement document to the Divisional Veterinary Office within 7 days of the pigs leaving the holding, except in the case of a movement to a market, slaughterhouse or show; and
+- (b) keep a copy of the movement document for a period of 3 years with the holding register.
+
+(5) In the case of a movement to or from a market, a slaughterhouse or a show, the operator shall send a copy of the movement document to the Divisional Veterinary Office on the day of the movement to which it relates, or where this is not practicable on the next working day.
+
+(6) Where the Department has authorised a person to notify the movement of a pig by means of electronic communication, that person may electronically transmit the information required under paragraphs (4)(a) and (5) to the centralised computer database, within the time periods specified in those paragraphs.
+
+(7) The centralised computer database means the database operated by the Department for the purposes of Article 3 of the Directive.
+
+## PART 5 — MARKETS, SLAUGHTERHOUSES & SHOWS
+
+### 15. Market operator[^key-007f086522f3e71750d42b602d75744d]
+
+A market operator shall—
+
+- (a) ensure that a pig is not accepted into the market or sold at the market if it is subject to a movement restriction notice served under article 19 which prevents movement to the market;
+- (b) ensure that a pig is not accepted into the market or sold at the market unless it is identified with an eartag bearing a holding code and individual identification number;
+- (c) ensure that a pig is not accepted into the market or sold at the market unless it is accompanied by a movement document as specified in article 14(1);
+- (d) ensure that the identification mark of each pig accepted into the market or sold at the market is recorded in the holding register;
+- (e) ensure that all pigs are divided into groups of one or more pigs immediately upon their arrival at the market and shall ensure—
+  - (i) a lot number is allocated to each group, and
+  - (ii) the lot number is recorded in the holding register at the market, and
+  - (iii) the lot number is recorded on the movement document which accompanied the pigs into the market.
+
+### 16. Slaughterhouse operator[^key-bdc5dc1d7b37d7fb5551cb056e4f4224]
+
+A slaughterhouse operator shall—
+
+- (a) ensure that a pig is not accepted for slaughter if it is subject to a movement restriction notice served under article 19 which prevents movement to slaughter;
+- (b) take reasonable steps to be satisfied as to the traceability and provenance of any pig presented for slaughter;
+- (c) ensure that a pig is not accepted for slaughter unless it is identified in accordance with this Order, except in accordance with the conditions of a licence issued by the Department;
+- (d) ensure that a pig is not accepted for slaughter unless it is accompanied by a movement document in accordance with article 14(1);
+- (e) complete the movement document with the kill number.
+
+### 17. Show operator[^key-fdc240c3d67769ad7ab3c6e8ab45ba44]
+
+A show operator shall—
+
+- (a) ensure that a pig is not accepted into the show unless it is identified with an eartag bearing a holding code and individual identification number;
+- (b) ensure that a pig is not accepted into the show unless it is accompanied by a movement document in accordance with article 14(1).
+
+## PART 6 — MISCELLANEOUS
+
+### 18. Walking licences for pet pigs[^key-5cc46ad56b403d746833957d6cb97e3e]
+
+The Department may issue a walking licence to a keeper of a pet pig allowing a person to take the pig for a walk off the holding without complying with articles 5(1)(c) or 14 but the person walking the pig shall carry a copy of the licence throughout the walk.
+
+### 19. Movement restriction[^key-03938ab181026b719fe79800afc9648c]
+
+(1) An inspector may, serve a notice on a keeper of a holding, prohibiting the movement of pigs onto or off the holding specified in the notice, except in accordance with the conditions of a licence issued by the Department, if the inspector is satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that holding.
+
+(2) An inspector may, serve a notice on a keeper of a pig, prohibiting the movement of that pig off the holding specified in the notice, except in accordance with the conditions of a licence issued by the Department, if the inspector is satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that pig.
+
+### 20. Transitional and saving provisions[^key-05bd8d5dac66ba0a9d3a97714bb3696c]
+
+(1) Any record in respect of pigs required to be kept by any person under the provisions of the Animals (Records) Order (Northern Ireland) 1997[^f00006] as in operation immediately before the commencement of this Order shall be retained by the keeper for a period of 3 years from the end of the month in which the last entry in the record was made.
+
+(2) Any record kept in accordance with the provisions of Article 5 of the Aujeszky’s Disease Order (Northern Ireland) 1994 shall be retained by the keeper for a period of 1 year.
+
+### 21. Amendment and revocations[^key-6edf408046836fcc254f944b3c8fd784]
+
+(1) The Animals (Records) Order (Northern Ireland) 1997 and the Animals (Records) (Amendment) Order (Northern Ireland) 2000[^f00007] are revoked.
+
+(2) In article 13 of the Sales, Markets and Lairs Order (Northern Ireland) 1975[^f00008], for “the Animal (Records) Order (Northern Ireland) 1997”, substitute “The Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012”.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 22nd February 2012.
+
+C.McMaster
+
+A senior officer of the Department of Agriculture and Rural Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order implements Council Directive [2008/71/EC](https://www.legislation.gov.uk/european/directive/2008/0071) on the identification and registration of pigs (O.J. No. L 213 8.08.2008, p.31).
+
+Part 1 of the Order deals with authorisations and notification of holdings. Any person who keeps pigs on a holding is required to notify certain particulars to the Department. On receiving a notification the Department may allocate a holding code (article 4(3)).
+
+Part 2 of the Order makes provision for every keeper to keep an up-to-date holding register and requires each keeper to inform the Department of the number of pigs on the holding (articles 5 and 6).
+
+Part 3 of the Order sets out some general provisions in relation to the application of identification devices (article 7).
+
+Article 8 makes provision for the application of identification marks to pigs.
+
+Article 9 prohibits the removal or defacement of identification marks applied under article (7).
+
+Article 10 sets out provisions for the removal or replacement of identification marks on pigs where they have become lost or illegible.
+
+Articles 11 to 13 impose additional requirements for the identification of pigs destined for export, movement to shows or being imported from a country outside the European Union.
+
+Part 4 makes provision for a movement document to accompany a pig between holdings (article 14).
+
+Part 5 of the Order makes provision for record keeping requirements for pigs at markets (article 15), slaughterhouses (article 16) and shows (article 17).
+
+Part 6 of the Order contains miscellaneous provisions including article 18 which provides for walking licences for pet pigs. Article 19 specifies the conditions whereby the Department may restrict the movement of a pig off a holding or restrict the movement of pigs onto or off a holding. Article 20 contains transitional and saving provisions. Article 21 revokes the Animals (Records) Order (Northern Ireland) 1997 and amends the Sales, Markets and Lairs Order (Northern Ireland) 1975.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Agriculture for Northern Ireland see the Departments Order 1999 [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(4)
+
+[^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 19, 22 to 24 and Schedule, [S.R. 2002 No. 225](https://www.legislation.gov.uk/nisr/2002/225) and [S.R. 2006 No.41](https://www.legislation.gov.uk/nisr/2006/41), the [Diseases of Animals Act (NI) 2010 ch.1](https://www.legislation.gov.uk/nia/2010/1)
+
+[^key-9d03d0972e7aff9b0a40f7644308b039]: Commencement: Art. 1 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-479200ae7117b4f9ec7893289217f1fa]: Commencement: Art. 2 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^f00003]: Footnote: O. J. No. L 213, 8.08.2008, p.31
+
+[^f00004]: Footnote: [S.R. 1994 No.198](https://www.legislation.gov.uk/nisr/1994/198)
+
+[^key-614a44dabfd62dd055f898399ac82cd4]: Commencement: Art. 3 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-a7a5d84b423b49045282f745e787b5b8]: Commencement: Art. 4 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^f00005]: Footnote: [S.R. 1994 No.199](https://www.legislation.gov.uk/nisr/1994/199)
+
+[^key-23448626d50023df398034256417ab96]: Commencement: Art. 5 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-780932732740c9bcbe136ee202a008d1]: Commencement: Art. 6 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-fcaa7ba5508d0dcbfe974f769ccd3d6e]: Commencement: Art. 7 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-6feea4550728fcfa087f1f00e7ab257d]: Commencement: Art. 8 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-943e6ef4a08b0a5772ee33505bc59317]: Commencement: Art. 9 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-f0b6a7c5b09795d0eae0160aff50e366]: Commencement: Art. 10 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-39cf73473c57e8149a874e121e902cdf]: Commencement: Art. 11 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-709aef13ac9bb61d62032300c661f29f]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/nisr/2012/67/article/11) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [17](https://www.legislation.gov.uk/nisr/2020/324/regulation/17)
+
+[^key-1eb8fdcb8eaa62981a2d059c9b1d55ff]: Commencement: Art. 12 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-deed20b4409b039e224dd76bb7f0a7db]: Commencement: Art. 13 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-487fe7468b08dc3fecffaeb5f8118e86]: Commencement: Art. 14 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-007f086522f3e71750d42b602d75744d]: Commencement: Art. 15 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-bdc5dc1d7b37d7fb5551cb056e4f4224]: Commencement: Art. 16 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-fdc240c3d67769ad7ab3c6e8ab45ba44]: Commencement: Art. 17 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-5cc46ad56b403d746833957d6cb97e3e]: Commencement: Art. 18 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-03938ab181026b719fe79800afc9648c]: Commencement: Art. 19 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^key-05bd8d5dac66ba0a9d3a97714bb3696c]: Commencement: Art. 20 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^f00006]: Footnote: [S.R. 1997 No.172](https://www.legislation.gov.uk/nisr/1997/172)
+
+[^key-6edf408046836fcc254f944b3c8fd784]: Commencement: Art. 21 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+
+[^f00007]: Footnote: [S.R. 2000 No.344](https://www.legislation.gov.uk/nisr/2000/344)
+
+[^f00008]: Footnote: [S.R. 1975 No.294](https://www.legislation.gov.uk/nisr/1975/294) as amended

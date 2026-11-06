@@ -1,0 +1,783 @@
+---
+title: The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005
+id: nisr/2005/458
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-10-20'
+text_date: '2024-09-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/458
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/458/pdfs/nisr_20050458_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/458/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-09-16. See https://www.legislation.gov.uk/changes/affected/nisr/2005/458
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 458
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005
+
+Made
+
+20th October 2005
+
+Coming into operation
+
+14th November 2005
+
+The Department for Social Development, in exercise of the powers conferred by sections 67(2), 72(8), 122(1)(a) and (d), 129(2) and (4), 131(1) and (2), 132(2), (3) and (4), 132A(2), (3) and (4), 133(2)(h) and (i), 134(1)(a) and (2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 1(1C), 5(1)(q) and (5) and 165(4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Articles 6(5) and (12), 14(1), (2) and (4)(a), 22(4) and 22B(4) of and paragraphs 1(2)(b), 8, 8A, 10(1) and (2) and 12 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00003] and now vested in it[^f00004], sections 6(4)(c) and 7(4)(c) of the Social Security Fraud Act (Northern Ireland) 2001[^f00005] and sections 2(3)(b), 6(1), 15(2) and (6)(b), 17(2)(a) and 19(1) to (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00006] and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00007], in so far as regulation 4 and Schedule 2 are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that Regulation should not be referred to it[^f00008], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-f38d1b4e2a400fb955647d484e2ab4b2]
+
+(1) These Regulations may be cited as the Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005 and shall come into operation on 14th November 2005.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^key-181585496a1819030989e61e28b32c66]
+
+In regulation 2(1A) of the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987[^f00010] (interpretation)—
+
+- (a) in sub-paragraph (a) for “residential accommodation, residential care home or nursing home” there shall be substituted “residential care home, nursing home, Abbeyfield Home or independent hospital”, and
+- (b) in sub-paragraph (b) and at the end of paragraph (1A) for “accommodation or home” there shall be substituted “home or hospital”.
+
+## 3. Amendment of the Income Support (General) Regulations[^key-0e59f5e3d4258ac5a9ac004144b293d1]
+
+The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] shall be amended in accordance with Schedule 1.
+
+## 4. Amendment of the Housing Benefit (General) Regulations[^key-61301c163223c4e647adfc839e68754c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-9276ac5b6502d4297659ea63824d5a63]
+
+(1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00014] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) Regulation 34B[^f00015] (transitional provisions for persons in hostels or certain residential accommodation) shall be omitted.
+
+(3) In Schedule 8A[^f00016] (deductions from benefits and direct payment to third parties)—
+
+- (a) in paragraph 1 (interpretation) for the definition of “hostel”[^f00017] there shall be substituted the following definition—
+
+  > - “hostel” means an establishment—
+  >   - (a) in which there is provided for persons generally, or for a class of persons, accommodation, otherwise than in separate and self-contained premises, and either board or facilities of a kind set out in paragraph 4A(1)(d) adequate to the needs of those persons; and—
+  >   - (b) which is—
+  >     - (i) managed by or owned by a housing association registered with the Department of the Environment in accordance with Article 124 of the Housing (Northern Ireland) Order 1981[^f00018];
+  >     - (ii) operated other than on a commercial basis and in respect of which funds are provided wholly or in part by a government department or public body, or
+  >     - (iii) managed by a voluntary organisation or charity and provides care, support or supervision with a view to assisting those persons to be rehabilitated or resettled within the community;
+  >   - (c) which is not—
+  >     - (i) a residential care home;
+  >     - (ii) a nursing home;
+  >     - (iii) an independent hospital, or
+  >     - (iv) an establishment run by the Abbeyfield Society including all bodies corporate or incorporate which are affiliated to that Society;
+  >   - (d) in sub-paragraph (b)(iii) a “voluntary organisation” means any association carrying on any activities otherwise than for the purpose of gain by the association or by individual members thereof, but shall not include any public body;
+  >   - (e) in sub-paragraph (c)—
+  >     - (i) “independent hospital” has the meaning assigned to it by Article 2(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+  >     - (ii) “nursing home” has the meaning it has for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 by virtue of Article 11 of that Order;
+  >     - (iii) “residential care home” has the meaning it has for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 by virtue of Article 10 of that Order;
+
+  ;
+- (b) in paragraph 4[^f00019] (miscellaneous accommodation costs)—
+  - (i) in sub-paragraph (1)[^f00020]—
+    - (aa)[^M_F_4de04ec4-3c02-452b-c8bc-e67dad7271cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) in head (b) sub-heads (i) and (ii) shall be omitted;
+  - (ii) in sub-paragraph (2)[^f00021] for head (a) there shall be substituted the following head—
+
+    > - (a) in a case where a beneficiary is not in accommodation as specified in regulation 15(7)(c) of the State Pension Credit Regulations, an amount equal to the award of income support, jobseeker’s allowance, or guarantee credit payable to the claimant but excluding an amount, if any, which when added to any other income of the beneficiary as determined in accordance with regulation 28 of the Income Support Regulations, regulation 93 of the Jobseeker’s Allowance Regulations or regulation 17 of the State Pension Credit Regulations will equal the amount prescribed in respect of personal expenses in sub-paragraph (2A), and
+
+    .
+
+## 6. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^key-07e0d06259284ffeff316bf38644faaa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Social Security (Attendance Allowance) Regulations[^key-de464849e861673766092ee123ab4d7d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-28984cfab64df123cd13e7ca415962f9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Jobseeker’s Allowance Regulations[^key-a21d2294e201ee326eac221a814a61ca]
+
+The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00026] shall be amended in accordance with Schedule 3.
+
+## 10. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-564464429c5d325a25c0fdf0f9544b4a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of the Social Security (Loss of Benefit) Regulations[^key-4b618d3c34ea4b0870a725da7bf9b26b]
+
+(1) The Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002[^f00031] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 5(4) (meaning of “person in hardship”) for “or nursing home” there shall be substituted “, nursing home, an Abbeyfield Home or an independent hospital”.
+
+(3) In regulation 11(5) (application of Part and meaning of “couple in hardship”) for “or nursing home” there shall be substituted “, nursing home, an Abbeyfield Home or an independent hospital”.
+
+## 12. Amendment of the State Pension Credit Regulations[^key-619b28bdb6bc252e7e58407d600f46ce]
+
+The State Pension Credit Regulations (Northern Ireland) 2003[^f00032] shall be amended in accordance with Schedule 4.
+
+## 13. Revocations[^key-b0a1962598d3a3ecef97a775c44c63b5]
+
+The regulations specified in column (1) of Schedule 5 are revoked to the extent mentioned in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 20th October 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+The Department of Finance and Personnel hereby consents to regulation 4 and Schedule 2 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 20th October 2005.
+
+Jack Layberry
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE 1 — AMENDMENT OF THE INCOME SUPPORT (GENERAL) REGULATIONS
+
+Regulation 3
+
+**1.**[^key-1f9053f5a13a1ad5ee3f171835cd739c] In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) after the definition of “the Registered Homes Order”[^f00033] there shall be inserted the following definition—
+
+    > - “Abbeyfield Home” means an establishment run by the Abbeyfield Society including all bodies corporate or incorporate which are affiliated to that Society;
+
+    ;
+  - (ii) after the definition of “housing benefit expenditure”[^f00034] there shall be inserted the following definition—
+
+    > - “independent hospital” has the meaning assigned to it by Article 2(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+
+    ;
+  - (iii) for the definition of “nursing home”[^f00035] there shall be substituted the following definition—
+
+    > - “nursing home” has the meaning it has for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 by virtue of Article 11 of that Order;
+
+    ;
+  - (iv) the definition of “residential accommodation”[^f00036] shall be omitted, and
+  - (v) for the definition of “residential care home”[^f00037] there shall be substituted the following definition—
+
+    > - “residential care home” has the meaning it has for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 by virtue of Article 10 of that Order;
+
+    .
+- (b) in paragraph (1A)[^f00038] for the words from “or a nursing home” to “reside in that home” there shall be substituted “, nursing home, Abbeyfield home or an independent hospital and he is temporarily absent from that home or hospital, he shall be regarded as continuing to reside in that home or hospital”.
+
+**2.**[^key-1ca587cd4ff5769dd04bd7d8b7fd635c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-4903d3e884a3e18cd31c2ef311f35811] In regulation 16 (circumstances in which a person is to be treated as being or not being a member of the household)—
+
+- (a) in paragraph (3)(e)[^f00040] for “in residential accommodation, a residential care home or a nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital”;
+- (b) in paragraph (5)(b)[^f00041] the words from “provided under” to “in regulation 21(3)” shall be omitted;
+- (c) in paragraph (8) before the definition of “an authority”[^f00042] there shall be inserted the following definition—
+
+  > - “accommodation” means accommodation provided or arranged by the Department of Health, Social Services and Public Safety under Article 15 or 36 of the 1972 Order in a home owned or managed by a Health and Social Services Board or an HSS trust where the accommodation is provided for a person whose stay in that accommodation has become other than temporary;
+
+  .
+
+**4.**[^key-cf34a4df608b1ebb9de97cf997c01b1d] In regulation 17(4)(a) (applicable amounts)[^f00043] for head (iii) there shall be substituted the following head—
+
+> - (iii) in a residential care home, nursing home, an Abbeyfield Home or an independent hospital,
+
+.
+
+**5.**[^key-32c68908a495501a80670daf350bb5c6] In regulation 21 (special cases)—
+
+- (a) in paragraph (3) the definition of “residential accommodation”[^f00044] shall be omitted, and
+- (b) paragraphs (3A) to (3C)[^f00045] and (4)[^f00046] to (4B)[^f00047] shall be omitted.
+
+**6.**[^key-405bb6a545361206e75f182ece8c05c3] In regulation 42 (notional income) for paragraph (4A)[^f00048] there shall be substituted the following paragraph—
+
+> (4A) Where the claimant resides in a residential care home, nursing home, an Abbeyfield Home or an independent hospital, or is temporarily absent from such a home or hospital, any payment made by a person other than the claimant or a member of his family in respect of some or all of the cost of maintaining the claimant or his partner in that home or hospital shall be treated as possessed by the claimant or his partner.
+
+.
+
+**7.**[^key-0bd5be903cb67ae3b72ca6b1d6d53bfb] In regulation 53 (calculation of tariff income from capital)—
+
+- (a) in paragraph (1B)[^f00049]—
+  - (i) for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraphs—
+
+    > - (a) a residential care home, nursing home or an independent hospital;
+    > - (b) an Abbeyfield Home;
+
+    ;
+  - (ii) sub-paragraph (c) shall be omitted.
+- (b) in paragraph (1C)[^f00050] for “accommodation” in both places where it occurs, there shall be substituted “hospital”;
+- (c) paragraph (4)[^f00051] shall be omitted.
+
+**8.**[^key-14e8740be67c916d177f3a23ad4db84e] In Schedule 3 (housing costs)[^f00052]—
+
+- (a) in paragraph 3(13) (circumstances in which a person is to be treated as occupying a dwelling as his home) for head (c) there shall be substituted the following head—
+
+  > - (c) “residential accommodation” means accommodation which is a residential care home, a nursing home, an Abbeyfield Home, or an independent hospital;
+
+  ;
+- (b) in paragraph 4(1) (housing costs not met), in head (b) for “in accommodation which is a residential care home or a nursing home except where he is in such accommodation” there shall be substituted “living in a residential care home, nursing home, an Abbeyfield Home or an independent hospital except where he is living in such a home or hospital”.
+
+**9.**[^key-3b3223f2c160e9e4e3543d705dd5b1de] In Schedule 3A[^f00053] (protected sum), in paragraph 7 (protected persons), for sub-paragraph (4)[^f00054] there shall be substituted the following sub-paragraph—
+
+> (4) Paragraph 6(b) shall not apply to a protected person if—
+>
+> - (a) he moves to accommodation where he—
+>   - (i) satisfies condition (i) or (iii) of sub-paragraph (1)(b);
+>   - (ii) is receiving both board and personal care other than in a residential care home, nursing home or an independent hospital;
+> - (b) he becomes a patient within the meaning of regulation 21(3);
+> - (c) on his ceasing to be a patient within the meaning of regulation 21(3) either—
+>   - (i) he returns to the accommodation which he occupied immediately before he became a patient, or
+>   - (ii) he moves to other accommodation where he—
+>     - (aa) satisfies condition (i) or (iii) of sub-paragraph (1)(b), or
+>     - (bb) is receiving both board and personal care other than in a residential care home, nursing home or an independent hospital, or
+> - (d) in a case to which sub-paragraph (6) applies, on his becoming re-entitled to income support, he is in—
+>   - (i) the accommodation which he occupied immediately before he ceased to be entitled to income support, or
+>   - (ii) accommodation where he—
+>     - (aa) satisfies condition (i) or (iii) of sub-paragraph (1)(b), or
+>     - (bb) is receiving both board and personal care other than in a residential care home, nursing home or an independent hospital.
+
+.
+
+**10.**[^key-203718879dfaa4aace4c8a2234720dba] In Schedule 7 (applicable amounts in special cases)—
+
+- (a) in paragraph 9[^f00055] (specified cases of temporarily separated couples) at column (1)—
+  - (i) in sub-paragraph (a) for heads (i) and (ii) there shall be substituted the following head—
+
+    > - (i) not a patient but is residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital, or
+
+    ;
+  - (ii) in sub-paragraph (b) for heads (iii) and (iv) there shall be substituted the following head—
+
+    > or,
+    >
+    > - (iii) residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital.
+
+    ;
+- (b) in paragraph 10[^f00056] (polygamous marriages where one or more partners are temporarily separated) at column (1) for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraph—
+
+  > - (a) not a patient but is residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital;
+
+  .
+
+**11.**[^key-b9ea41a587bd0975a13c10ae86f62353] In Schedule 8 (sums to be disregarded in the calculation of earnings), in paragraph 4(2)[^f00057], 4(3)(a)(ii) and 4(4)(a) “or in residential accommodation” shall be omitted.
+
+**12.**[^key-ecfdd41b70468942782eb7988a21c80f] In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a)[^key-bd2d04abc29a0e841269db224c7a0680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph 30A[^f00059]—
+  - (i) in sub-paragraph (1) for “in a residential care home or nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital” and after “in that home” there shall be added “or hospital”;
+  - (ii) in sub-paragraph (2) for “or nursing home is provided by the Department” there shall be substituted “, nursing home, an Abbeyfield Home or an independent hospital is provided by the Department of Health, Social Services and Public Safety”;
+- (c) in paragraph 62[^f00060] for “in a residential care or nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital”.
+
+**13.**[^key-56895e4b42b88da01c04020843d0ebbf] In Schedule 10 (capital to be disregarded), in paragraph 59(5)[^f00061] for “being in residential accommodation, a residential care home or a nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital”.
+
+## SCHEDULE 2 — AMENDMENT OF THE HOUSING BENEFIT (GENERAL) REGULATIONS
+
+Regulation 4
+
+**1.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Transitional arrangements and savings for Housing Benefit[^key-96e73b340e32f97aea9150b1b7c4043d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-96e73b340e32f97aea9150b1b7c4043d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — AMENDMENT OF THE JOBSEEKER'S ALLOWANCE REGULATIONS
+
+Regulation 9
+
+**1.**[^key-895d9ba8e23d827aa290f57c4b6cf226] In regulation 1 (citation, commencement and interpretation)—
+
+- (a) in paragraph (2)—
+  - (i) after the definition of “the 1998 Order”[^f00079] there shall be inserted the following definition—
+
+    > - “Abbeyfield Home” means an establishment run by the Abbeyfield Society including all bodies corporate or incorporate which are affiliated to that Society;
+
+    ;
+  - (ii) after the definition of “the Income Support Regulations” there shall be inserted the following definition—
+
+    > - “independent hospital” has the meaning assigned to it by Article 2(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00080];
+
+    ;
+  - (iii) for the definition of “nursing home” there shall be inserted the following definition—
+
+    > - “nursing home” has the meaning it has for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 by virtue of Article 11 of that Order;
+
+    ;
+  - (iv) the definition of “residential accommodation” shall be omitted, and
+  - (v) for the definition of “residential care home” there shall be inserted the following definition—
+
+    > - “residential care home” has the meaning it has for the purposes of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 by virtue of Article 10 of that Order;
+
+    .
+- (b) in paragraph (2F)[^f00081] for the words from “or a nursing home” to “reside in that home” there shall be substituted “, nursing home, an Abbeyfield Home or an independent hospital and he is temporarily absent from that home or hospital, he shall be regarded as continuing to reside in that home or hospital”.
+
+**2.**[^key-6a2b632793613ae95f35756508114553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-5cf6e7943f22dc5a63c02675abc4e769] In regulation 78 (circumstances in which a person is to be treated as being or not being a member of the household)—
+
+- (a) in paragraph (3)(d)[^f00083] for “in residential accommodation or a residential care home or a nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital”;
+- (b) in paragraph (5)(c) the words from “provided under” to “in regulation 85(4)” shall be omitted;
+- (c) in paragraph (9) before the definition of “an authority”[^f00084] there shall be inserted the following definition—
+
+  > - “accommodation” means accommodation provided or arranged by the Department of Health, Social Services and Public Safety under Article 15 or 36 of the 1972 Order in a home owned or managed by a Health and Social Services Board or an HSS trust where the accommodation is provided for a person whose stay in that accommodation has become other than temporary;
+
+  .
+
+**4.**[^key-484b3f6d0c4c72f7c5abe159c9ec3619] In regulation 85 (special cases)—
+
+- (a)[^key-95a8b17e57ad1d2618a391116ad72cb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph (4) the definition of “residential accommodation” shall be omitted, and
+- (c) paragraphs (5)[^f00086] and (6) shall be omitted.
+
+**5.**[^key-f7958e56ae7c6159a7b41d5419dfc2bf] In regulation 105 (notional income), for paragraph (11)[^f00087] there shall be substituted the following paragraph—
+
+> (11) Where the claimant resides in a residential care home, nursing home, an Abbeyfield Home or an independent hospital, or is temporarily absent from such a home or hospital, any payment made by a person other than the claimant or a member of his family in respect of some or all of the cost of maintaining the claimant or his partner in that home or hospital shall be treated as possessed by the claimant or his partner.
+
+.
+
+**6.**[^key-bf192fd9e950cd13122453880aded89f] In regulation 116 (calculation of tariff income from capital)—
+
+- (a) in paragraph (1B)[^f00088]—
+  - (i) for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraphs—
+
+    > - (a) a residential care home, nursing home or an independent hospital;
+    > - (b) an Abbeyfield Home.
+
+    ;
+  - (ii) sub-paragraph (c) shall be omitted;
+- (b) in paragraph (1C)[^f00089] for “accommodation” in both places where it occurs, there shall be substituted “hospital”;
+- (c) paragraph (4)[^f00090] shall be omitted.
+
+**7.**[^key-9dd3d476b0efa35001e674bfc3b18914] In regulation 140 (meaning of “person in hardship”), in paragraph (4) for “or nursing home” there shall be substituted “, nursing home, an Abbeyfield Home or an independent hospital”.
+
+**8.**[^key-a48bf6768125146deef7d4642bd9578c] In regulation 146A[^f00091] (meaning of “couple in hardship”), in paragraph (4) for “or nursing home” there shall be substituted “home, nursing home, an Abbeyfield Home or an independent hospital”.
+
+**9.**[^key-2c1562af43e54338c1948645f091d0e1] In Schedule 2 (housing costs)—
+
+- (a) in paragraph 3(13) (circumstances in which a person is to be treated as occupying a dwelling as his home) for head (c) there shall be substituted the following head—
+
+  > - (c) “residential accommodation” means accommodation which is a residential care home, a nursing home, an Abbeyfield Home, or an independent hospital;
+
+  ;
+- (b) in paragraph 4(1) (housing costs not met), in head (b)[^f00092] for “in accommodation which is a residential care home or a nursing home except where he is in such accommodation” there shall be substituted “living in a residential care home, nursing home, an Abbeyfield Home or an independent hospital except where he is living in such a home or hospital”.
+
+**10.**[^key-b3eb602f1c79d80875f712c2edb3ad7f] In Schedule 4 (applicable amounts in special cases)—
+
+- (a) in paragraph 5 (specified cases of temporarily separated couples) at column (1)—
+  - (i) in sub-paragraph (a) for heads (i) and (ii) there shall be substituted the following head—
+
+    > - (i) not a patient but is residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital, or
+
+    ;
+  - (ii) in sub-paragraph (b) for heads (iii) and (iv) there shall be substituted the following head—
+
+    > or
+    >
+    > - (iii) residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital.
+
+    ;
+- (b) in paragraph 6 (polygamous marriages where one or more partners are temporarily separated) at column (1) for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraph—
+
+  > - (a) not a patient but is residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital;
+
+  .
+
+**11.**[^key-ab6c5e6a706782f5691c5cdb396b8505] In Schedule 4A[^f00093] (applicable amounts of joint-claim couples in special cases)—
+
+- (a) in paragraph 4 (specified cases of temporarily separated joint-claim couples) at column (1)—
+  - (i) in sub-paragraph (a) for heads (i) and (ii) there shall be substituted the following head—
+
+    > - (i) not a patient but is residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital, or
+
+    ;
+  - (ii) in sub-paragraph (b) for heads (iii) and (iv) there shall be substituted the following head—
+
+    > or
+    >
+    > - (iii) residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital.
+
+    ;
+- (b) in paragraph 5 (polygamous marriages where one or more members are temporarily separated) at column (1) for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraph—
+
+  > - (a) not a patient but is residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital;
+
+  .
+
+**12.**[^key-e388cc1d857855e29eca3594d1a12f57] In Schedule 5 (sums to be disregarded in the calculation of earnings), in paragraph 5(2)[^f00094], 5(3)(a)(ii) and 5(4)(a) “or in residential accommodation” shall be omitted.
+
+**13.**[^key-85072a87d47605d3dc4f2b47618b5574] In Schedule 5A[^f00095] (sums to be disregarded in the calculation of earnings of members of joint-claim couples), in paragraph 1(2)[^f00096], 1(3)(a)(ii) and 1(4)(a) “or in residential accommodation” shall be omitted.
+
+**14.**[^key-2dcc899347637d0a84c11a8b04a4c657] In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a)[^key-acfe67407edf90dc1c7b7d3ca76e64ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph 32[^f00098]—
+  - (i) in sub-paragraph (1) for “in a residential care home or nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital” and after “in that home” there shall be added “or hospital”;
+  - (ii) in sub-paragraph (2) for “or nursing home is provided by the Department” there shall be substituted “, nursing home, an Abbeyfield Home or an independent hospital is provided by the Department of Health, Social Services and Public Safety”;
+- (c) in paragraph 60[^f00099] for “in a residential care or nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital”.
+
+**15.**[^key-c5feccd5c0e9e24b2c355b4d6cdc2a75] In Schedule 7 (capital to be disregarded) in paragraph 52(5)[^f00100] for “being in residential accommodation, a residential care home or a nursing home” there shall be substituted “residing in a residential care home, nursing home, an Abbeyfield Home or an independent hospital”.
+
+## SCHEDULE 4 — AMENDMENT OF THE STATE PENSION CREDIT REGULATIONS
+
+Regulation 12
+
+**1.**[^key-009fa6b56cc99715034ef8ea4c0e8f14] In regulation 1(2) (citation, commencement and interpretation), after the definition of “the Income Support Regulations” there shall be inserted the following definition—
+
+> - “independent hospital” has the meaning assigned to it by Article 2(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+
+.
+
+**2.**[^key-c6a57771e91d6a7282ee1c70eb0ea2b1] In regulation 5(1) (persons treated as being or not being members of the same household), in sub-paragraph (b) for “or nursing home” there shall be substituted “, nursing home or an independent hospital”.
+
+**3.**[^key-f3c0379b9d25f7b6f8257a2950a0b31a] In regulation 12(c) (end of assessed income period) for “or nursing home” there shall be substituted “, nursing home or an independent hospital”.
+
+**4.**[^key-9a2e65c3e53e0aa4cf1578c6cd171c62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-722d225d147c0dffe4cdc6478cc6e063] In Schedule 2 (housing costs)—
+
+- (a) in paragraph 4 (circumstances in which a person is to be treated as occupying a dwelling as his home)—
+  - (i) in sub-paragraph (7), in head (c)(iii) for “or nursing home” there shall be substituted “, nursing home or an independent hospital”;
+  - (ii) for sub-paragraph (8) there shall be substituted the following sub-paragraph—
+
+    > (8) This sub-paragraph applies to a person who enters a residential care home, nursing home or an independent hospital—
+    >
+    > - (a) for the purpose of ascertaining whether that residential care home, nursing home or independent hospital suits his needs, and
+    > - (b) with the intention of returning to the dwelling which he normally occupies as his home should, in the event that, the residential care home, nursing home or independent hospital prove not to suit his needs,
+    >
+    > and while in the residential care home, nursing home or independent hospital, the part of the dwelling which he normally occupies as his home is not let, or as the case may be, sub-let to another person.
+
+    .
+  - (iii) in sub-paragraph (9) for “accommodation” in both places where it occurs, there shall be substituted “residential care home, nursing home or independent hospital”;
+  - (iv) in sub-paragraph (11), in head (c)(iii), (c)(vii) and (c)(ix) for “or nursing home” there shall be substituted “, nursing home or an independent hospital”;
+- (b) in paragraph 5(1), in head (b) for “or nursing home” there shall be substituted “, nursing home or an independent hospital”.
+
+**6.**[^key-049b1b71d28989b9a9d1956bd66c7c3a] In Schedule 5 (capital disregarded for the purpose of calculating income), in paragraph 13(5) for “being in a residential care home or nursing home.” there shall be substituted “residing in a residential care home, nursing home or an independent hospital.”.
+
+## SCHEDULE 5 — REGULATIONS REVOKED[^key-f592130c683e068d067bd3763c850646]
+
+Regulation 13
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (Claims and Payments) (Amendment No.2) Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/398">S.R. 1989 No. 398</a></td><td>Regulation 5</td></tr>
+<tr><td>The Social Security (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 1991</td><td><a href="https://www.legislation.gov.uk/nisr/1991/488">S.R. 1991 No. 488</a></td><td>Regulation 6(7)(a)(ii)</td></tr>
+<tr><td>The Social Security Benefits (Amendments Consequential Upon the Introduction of Community Care) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/149">S.R. 1993 No. 149</a></td><td>Paragraph 3 of Schedule 2</td></tr>
+<tr><td>The Income Support and Jobseeker’s Allowance (Amounts for Persons in Residential Care and Nursing Homes) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/227">S.R. 2001 No. 227</a></td><td>The whole of the Regulations</td></tr>
+<tr><td>The Social Security (Amendment) (Residential Care and Nursing Homes) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/132">S.R. 2002 No. 132</a></td><td>Regulation 3(2)</td></tr>
+<tr><td>The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/191">S.R. 2003 No. 191</a></td><td>Regulation 13</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations make amendments to social security legislation that are consequential upon the introduction of a new regulatory system in Northern Ireland of “residential care homes”, “nursing homes” and “independent hospitals” by the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003. This has replaced the previous system of regulation of residential care homes and nursing homes, as provided for by the Registered Homes (Northern Ireland) Order 1992. The new system also requires the registration of Health and Social Service Trust homes and small homes, which were previously unregulated.
+
+The Regulations therefore replace references in social security legislation to terms describing these establishments, which were based on the old regulatory system, with new terms in line with the current regulatory system.
+
+These Regulations make amendments to the following sets of regulations—
+
+- (i) The Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987 (at regulation 2);
+- (ii) The Income Support (General) Regulations (Northern Ireland) 1987 (at regulation 3 and Schedule 1);
+- (iii) The Housing Benefit (General) Regulations (Northern Ireland) 1987 (at regulation 4 and Schedule 2);
+- (iv) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (at regulation 5);
+- (v) The Social Fund (Cold Weather Payments) (General) Regulations (Northern Ireland) 1988 (at regulation 6);
+- (vi) The Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992 (at regulation 7);
+- (vii) The Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 (at regulation 8);
+- (viii) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (at regulation 9 and Schedule 3);
+- (ix) The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000 (at regulation 10);
+- (x) The Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002 (at regulation 11).
+- (xi) The State Pension Credit Regulations (Northern Ireland) 2003 (at regulation 12 and Schedule 4).
+
+Paragraphs 10 to 12 of Schedule 2 to the Regulations make transitional provision to preserve the existing transitional protection provided to a closed category of housing benefit claimants in certain types of residential accommodation.
+
+Regulation 13 makes consequential revocations as set out in Schedule 5. It also revokes the Income Support and Jobseeker’s Allowance (Amounts for Persons in Residential Care and Nursing Homes) Regulations (Northern Ireland) 2001, which, due to the amendments made by the Social Security (Amendment) (Residential Care and Nursing Homes) Regulations (Northern Ireland) 2002, are obsolete.
+
+In so far as these Regulations are required, for the purposes of regulation 4 and Schedule 2, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 132A was inserted by paragraph 3 of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14)](https://www.legislation.gov.uk/nia/2002/14), section 134(1)(a) was substituted by Article 66(1) of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and section 171(1) was amended by paragraph 5 of Schedule 4 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 1(1C) was inserted by Article 18 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 ([S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)) and section 5(5) was inserted by Article 3 of the Housing Benefit (Payment to Third Parties) (Northern Ireland) Order 1996 ([S.I. 1996/2597 (N.I. 20)](https://www.legislation.gov.uk/nisi/1996/2597))
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 22B was inserted by paragraph 14 of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), paragraph 8A of Schedule 1 was inserted by paragraph 16(2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999, paragraph 10(1) of Schedule 1 was substituted by paragraph 16(5) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 and paragraph 10(2) of Schedule 1 was amended by paragraph 114 of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and paragraph 16(6) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00004]: Footnote: *See* Article 8(b) and Part II of Schedule 6 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00005]: Footnote: [2001 c. 17 (N.I.)](https://www.legislation.gov.uk/nia/2001/17)
+
+[^f00006]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^f00007]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of and Part II of Schedule 4 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00008]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-f38d1b4e2a400fb955647d484e2ab4b2]: Commencement: Reg. 1 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-181585496a1819030989e61e28b32c66]: Commencement: Reg. 2 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00010]: Footnote: [S.R. 1987 No. 150](https://www.legislation.gov.uk/nisr/1987/150); paragraph (1A) was inserted by regulation 2(3) of [S.R. 1996 No. 423](https://www.legislation.gov.uk/nisr/1996/423) and amended by regulation 2(2)(b) of [S.R. 1997 No. 155](https://www.legislation.gov.uk/nisr/1997/155)
+
+[^key-0e59f5e3d4258ac5a9ac004144b293d1]: Commencement: Reg. 3 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [193](https://www.legislation.gov.uk/nisr/1988/193), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1991 No. 345](https://www.legislation.gov.uk/nisr/1991/345), [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149), [165](https://www.legislation.gov.uk/nisr/1993/165) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65), [77](https://www.legislation.gov.uk/nisr/1994/77) and [165](https://www.legislation.gov.uk/nisr/1994/165), [S.R. 1995 Nos. 86](https://www.legislation.gov.uk/nisr/1995/86) and [301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1996 Nos. 93](https://www.legislation.gov.uk/nisr/1996/93), [199](https://www.legislation.gov.uk/nisr/1996/199) and [489](https://www.legislation.gov.uk/nisr/1996/489), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1998 Nos. 2](https://www.legislation.gov.uk/nisr/1998/2) and [81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 2000 Nos. 74](https://www.legislation.gov.uk/nisr/2000/74) and [366](https://www.legislation.gov.uk/nisr/2000/366), [S.R. 2001 No. 150](https://www.legislation.gov.uk/nisr/2001/150), [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191), [195](https://www.legislation.gov.uk/nisr/2003/195), [261](https://www.legislation.gov.uk/nisr/2003/261) and [267](https://www.legislation.gov.uk/nisr/2003/267)
+
+[^key-61301c163223c4e647adfc839e68754c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/458/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-9276ac5b6502d4297659ea63824d5a63]: Commencement: Reg. 5 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00014]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1989 No.398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 No. 472](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [412](https://www.legislation.gov.uk/nisr/2003/412)
+
+[^f00015]: Footnote: Regulation 34B was inserted by regulation 5 of [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398) and amended by Article 9(2) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and regulation 13 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00016]: Footnote: Schedule 8A was inserted by regulation 2(3) of, and the Schedule to, [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67)
+
+[^f00017]: Footnote: The definition of “hostel” was inserted by regulation 6(7)(a)(ii) of [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488) and amended by paragraph 3(3) of Schedule 2 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and regulation 3(2) of [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^f00018]: Footnote: [S.I. 1981/156 (N.I. 3)](https://www.legislation.gov.uk/nisi/1981/156)
+
+[^f00019]: Footnote: Paragraph 4 was substituted by paragraph 2(2) of Schedule 1 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00020]: Footnote: Sub-paragraph (1) was amended by regulation 8(a)(ii) of [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), regulation 2(26)(d)(ii) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), Article 9(2) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 3(3)(a) of [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and regulation 2(a) to (d) of [S.R. 2003 No. 412](https://www.legislation.gov.uk/nisr/2003/412)
+
+[^M_F_4de04ec4-3c02-452b-c8bc-e67dad7271cb]: Textual amendment: reg. 5(3)(b)(i)(aa) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008](https://editorial.legislation.gov.uk/nisr/2008/286/contents), [reg 1(b)](https://editorial.legislation.gov.uk/nisr/2008/286/regulation/1), [Sch. 2](https://editorial.legislation.gov.uk/nisr/2008/286/schedule/2)
+
+[^f00021]: Footnote: Sub-paragraph (2) was substituted by regulation 2(e) of [S.R. 2003 No. 412](https://www.legislation.gov.uk/nisr/2003/412)
+
+[^key-07e0d06259284ffeff316bf38644faaa]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/458/regulation/6) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)
+
+[^key-de464849e861673766092ee123ab4d7d]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/458/regulation/7) revoked (29.10.2007) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/431)](https://www.legislation.gov.uk/nisr/2007/431), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/431/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/431/regulation/5), [Sch.](https://www.legislation.gov.uk/nisr/2007/431/schedule)
+
+[^key-28984cfab64df123cd13e7ca415962f9]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/458/regulation/8) revoked (29.10.2007) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/431)](https://www.legislation.gov.uk/nisr/2007/431), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/431/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/431/regulation/5), [Sch.](https://www.legislation.gov.uk/nisr/2007/431/schedule)
+
+[^key-a21d2294e201ee326eac221a814a61ca]: Commencement: Reg. 9 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00026]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356), [358](https://www.legislation.gov.uk/nisr/1996/358) and [503](https://www.legislation.gov.uk/nisr/1996/503), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1998 Nos. 2](https://www.legislation.gov.uk/nisr/1998/2) and [81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), [S.R. 2000 Nos. 350](https://www.legislation.gov.uk/nisr/2000/350) and [366](https://www.legislation.gov.uk/nisr/2000/366), [S.R. 2001 No. 150](https://www.legislation.gov.uk/nisr/2001/150), [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and [S.R. 2003 Nos. 195](https://www.legislation.gov.uk/nisr/2003/195) and [261](https://www.legislation.gov.uk/nisr/2003/261)
+
+[^key-564464429c5d325a25c0fdf0f9544b4a]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/458/regulation/10) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+
+[^key-4b618d3c34ea4b0870a725da7bf9b26b]: Commencement: Reg. 11 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00031]: Footnote: [S.R. 2002 No. 79](https://www.legislation.gov.uk/nisr/2002/79)
+
+[^key-619b28bdb6bc252e7e58407d600f46ce]: Commencement: Reg. 12 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00032]: Footnote: [S.R. 2003 No.28](https://www.legislation.gov.uk/nisr/2003/28)
+
+[^key-b0a1962598d3a3ecef97a775c44c63b5]: Commencement: Reg. 13 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-1f9053f5a13a1ad5ee3f171835cd739c]: Commencement: Sch. 1 para. 1 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00033]: Footnote: The definition of “the Registered Homes Order” was inserted by regulation 2(2)(a) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00034]: Footnote: The definition of “housing benefit expenditure” was substituted by regulation 4(1) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00035]: Footnote: The definition of “ nursing home” was substituted by regulation 2(1) of, and paragraph 1(a)(i) of Part I of the Schedule to [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^f00036]: Footnote: The definition of “residential accommodation” was substituted by regulation 2(c) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 1 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and regulation 2(1) of, and paragraph 1(a)(ii) of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^f00037]: Footnote: The definition of “residential care home” was inserted by regulation 2(2)(d) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and substituted by regulation 2(1) of, and paragraph 1(a)(i) of Part I of the Schedule to [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^f00038]: Footnote: Paragraph (1A) was inserted by regulation 2(1) of, and paragraph 1(b) of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and amended by regulation 3(2) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
+
+[^key-1ca587cd4ff5769dd04bd7d8b7fd635c]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/458/schedule/1/paragraph/2) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/2) (with [reg. 4(3)-(7)](https://www.legislation.gov.uk/nisr/2010/6/regulation/4/3))
+
+[^key-4903d3e884a3e18cd31c2ef311f35811]: Commencement: Sch. 1 para. 3 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00040]: Footnote: Paragraph 3(e) was amended by paragraph 6(3) of Schedule 2 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00041]: Footnote: Paragraph 5(b) was amended by regulation 8(d) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), regulation 3 and 10 of, and paragraph 3 of Schedule 1 to, [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and regulation 8(a) of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00042]: Footnote: The definition of “an authority” was inserted by regulation 2(3)(c)(i) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
+
+[^key-cf34a4df608b1ebb9de97cf997c01b1d]: Commencement: Sch. 1 para. 4 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00043]: Footnote: Paragraph (4)(a)(iii) was added by regulation 2 of [S.R. 1988 No. 193](https://www.legislation.gov.uk/nisr/1988/193) and amended by paragraph 6(4) of Schedule 2 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and regulation 2(1) of, and paragraph 3 of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^key-32c68908a495501a80670daf350bb5c6]: Commencement: Sch. 1 para. 5 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00044]: Footnote: The definition of “residential accommodation” was amended by paragraph 1(4)(a) of Schedule 1 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and paragraph 1(f) of Schedule 12 to, [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00045]: Footnote: Paragraph (3A) was inserted by regulation 2(b) of [S.R. 1991 No. 345](https://www.legislation.gov.uk/nisr/1991/345) and amended by paragraph 6(6) of Schedule 2 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), regulation 2 of [S.R. 1996 No. 489](https://www.legislation.gov.uk/nisr/1996/489) and regulation 2(1) and paragraph 6(c) of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132), paragraph (3B) was inserted by regulation 4(3)(a) of [S.R. 1993 No. 165](https://www.legislation.gov.uk/nisr/1993/165) and paragraph 1(g) of Schedule 12 to, [S.R. 1994 No. 165](https://www.legislation.gov.uk/nisr/1994/165) and paragraph (3C) was inserted by regulation 4(3)(a) of [S.R. 1993 No. 165](https://www.legislation.gov.uk/nisr/1993/165)
+
+[^f00046]: Footnote: Paragraph (4) was substituted by paragraph 1(4)(b) of Schedule 1 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and amended by regulation 2(6)(b) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^f00047]: Footnote: Paragraph (4A) was inserted by regulation 4(5)(b) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403) and amended by paragraph 1(4)(c) of Schedule 1 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and paragraph (4B) was inserted by regulation 4(3)(b) of [S.R. 1993 No. 165](https://www.legislation.gov.uk/nisr/1993/165)
+
+[^key-405bb6a545361206e75f182ece8c05c3]: Commencement: Sch. 1 para. 6 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00048]: Footnote: Paragraph (4A) was inserted by regulation 4(4)(b) of [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77) and amended by paragraph 10(h) of Schedule 1 to, [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
+
+[^key-0bd5be903cb67ae3b72ca6b1d6d53bfb]: Commencement: Sch. 1 para. 7 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00049]: Footnote: Paragraph (1B) was inserted by regulation 11(1)(b)(ii) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93) and amended by regulation 8(a) and (b) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00050]: Footnote: Paragraph (1C) was inserted by regulation 11(1)(b)(ii) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00051]: Footnote: Paragraph (4) was added by regulation 11(1)(b)(iv) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^key-14e8740be67c916d177f3a23ad4db84e]: Commencement: Sch. 1 para. 8 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00052]: Footnote: Schedule 3 was substituted by regulation 2 of [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^key-3b3223f2c160e9e4e3543d705dd5b1de]: Commencement: Sch. 1 para. 9 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00053]: Footnote: Schedule 3A was inserted by paragraph 16 of Schedule 1 and schedule 2 to, [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00054]: Footnote: Sub-paragraph (4) was amended by regulation 17(f) of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431)
+
+[^key-203718879dfaa4aace4c8a2234720dba]: Commencement: Sch. 1 para. 10 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00055]: Footnote: Paragraph 9 was amended by regulation 22 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 11(a) of [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), regulation 3(7)(a) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387) and regulation 7 and paragraph 6(13)(a) of Schedule 2 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00056]: Footnote: Paragraph 10 was amended by regulation 34(a) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), regulation 3(7)(b) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), paragraph 6(13)(b) and Schedule 2 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and regulation 2(8)(a) of [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267)
+
+[^key-b9ea41a587bd0975a13c10ae86f62353]: Commencement: Sch. 1 para. 11 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00057]: Footnote: Paragraph 4 was substituted by regulation 9 of [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and amended by regulation 3 of [S.R. 2000 No. 366](https://www.legislation.gov.uk/nisr/2000/366), paragraph 16(a) and Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and regulation 24(7)(c) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^key-ecfdd41b70468942782eb7988a21c80f]: Commencement: Sch. 1 para. 12 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-bd2d04abc29a0e841269db224c7a0680]: Textual amendment: [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/nisr/2005/458/schedule/1/paragraph/12/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^f00059]: Footnote: Paragraph 30A was inserted by regulation 4(22)(e) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373) and amended by regulation 2(1) of, and paragraph 17(f) of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^f00060]: Footnote: Paragraph 62 was added by regulation 9(1)(c)(ii) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^key-56895e4b42b88da01c04020843d0ebbf]: Commencement: Sch. 1 para. 13 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00061]: Footnote: Paragraph 59 was inserted by regulation 2(1) of [S.R. 2001 No. 150](https://www.legislation.gov.uk/nisr/2001/150)
+
+[^key-96e73b340e32f97aea9150b1b7c4043d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/458/schedule/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-895d9ba8e23d827aa290f57c4b6cf226]: Commencement: Sch. 3 para. 1 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00079]: Footnote: The definition of “the 1998 Order” was inserted by Article 9(2)(a) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
+
+[^f00080]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^f00081]: Footnote: Paragraph (2F) was inserted by regulation 2(2) of, and paragraph 1(b) of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and amended by regulation 5(2) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
+
+[^key-6a2b632793613ae95f35756508114553]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/458/schedule/3/paragraph/2) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/2) (with [reg. 4(3)-(7)](https://www.legislation.gov.uk/nisr/2010/6/regulation/4/3))
+
+[^key-5cf6e7943f22dc5a63c02675abc4e769]: Commencement: Sch. 3 para. 3 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00083]: Footnote: Paragraph (3) was amended by regulation 18 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(5) of, and paragraph 33(c) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00084]: Footnote: The definition of “an authority” was inserted by regulation 8(4)(c) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
+
+[^key-484b3f6d0c4c72f7c5abe159c9ec3619]: Commencement: Sch. 3 para. 4 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-95a8b17e57ad1d2618a391116ad72cb2]: Textual amendment: [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/nisr/2005/458/schedule/3/paragraph/4/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+
+[^f00086]: Footnote: Paragraph (5) was substituted by regulation 2(9)(c) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^key-f7958e56ae7c6159a7b41d5419dfc2bf]: Commencement: Sch. 3 para. 5 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00087]: Footnote: Paragraph (11) was amended by regulation 3 of, and paragraph 10(f) of Schedule 2 to, [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
+
+[^key-bf192fd9e950cd13122453880aded89f]: Commencement: Sch. 3 para. 6 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00088]: Footnote: Paragraph (1B) was inserted by regulation 10(b) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356) and amended by regulation 8 of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00089]: Footnote: Paragraph (1C) was inserted by regulation 10(b) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
+
+[^f00090]: Footnote: Paragraph (4) was added by regulation 10(c) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
+
+[^key-9dd3d476b0efa35001e674bfc3b18914]: Commencement: Sch. 3 para. 7 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-a48bf6768125146deef7d4642bd9578c]: Commencement: Sch. 3 para. 8 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00091]: Footnote: Regulation 146A was inserted by regulation 2(3) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-2c1562af43e54338c1948645f091d0e1]: Commencement: Sch. 3 para. 9 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00092]: Footnote: Head (b) was amended by regulation 2(5) of, and paragraph 54(4)(a) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-b3eb602f1c79d80875f712c2edb3ad7f]: Commencement: Sch. 3 para. 10 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-ab6c5e6a706782f5691c5cdb396b8505]: Commencement: Sch. 3 para. 11 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00093]: Footnote: Schedule 4A was inserted by paragraph 57 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-e388cc1d857855e29eca3594d1a12f57]: Commencement: Sch. 3 para. 12 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00094]: Footnote: Paragraph 5 was amended by regulation 3 of, and paragraph 3(b) of the Schedule to, [S.R. 2000 No. 366](https://www.legislation.gov.uk/nisr/2000/366) and regulation 2(2) of, and paragraph 21(a) of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^key-85072a87d47605d3dc4f2b47618b5574]: Commencement: Sch. 3 para. 13 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00095]: Footnote: Schedule 5A was inserted by regulation 58 of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00096]: Footnote: Paragraph 1 was amended by regulation 3 of, and paragraph 3(c) of the Schedule to, [S.R. 2000 No. 366](https://www.legislation.gov.uk/nisr/2000/366) and regulation 2(2) of, and paragraph 22 of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^key-2dcc899347637d0a84c11a8b04a4c657]: Commencement: Sch. 3 para. 14 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-acfe67407edf90dc1c7b7d3ca76e64ab]: Textual amendment: [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/nisr/2005/458/schedule/3/paragraph/14/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^f00098]: Footnote: Paragraph 32 was amended by regulation 2(2) of, and paragraph 23(f) of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
+
+[^f00099]: Footnote: Paragraph 60 was added by regulation 9(2)(b) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^key-c5feccd5c0e9e24b2c355b4d6cdc2a75]: Commencement: Sch. 3 para. 15 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^f00100]: Footnote: Paragraph 52 was inserted by regulation 2(1) of [S.R. 2001 No. 150](https://www.legislation.gov.uk/nisr/2001/150)
+
+[^key-009fa6b56cc99715034ef8ea4c0e8f14]: Commencement: Sch. 4 para. 1 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-c6a57771e91d6a7282ee1c70eb0ea2b1]: Commencement: Sch. 4 para. 2 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-f3c0379b9d25f7b6f8257a2950a0b31a]: Commencement: Sch. 4 para. 3 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-9a2e65c3e53e0aa4cf1578c6cd171c62]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/458/schedule/4/paragraph/4) revoked (2.11.2009) by [The Social Security (Deemed Income from Capital) Regulations (Northern Ireland) 2009 (S.R. 2009/262)](https://www.legislation.gov.uk/nisr/2009/262), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/262/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2009/262/regulation/4)
+
+[^key-722d225d147c0dffe4cdc6478cc6e063]: Commencement: Sch. 4 para. 5 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-049b1b71d28989b9a9d1956bd66c7c3a]: Commencement: Sch. 4 para. 6 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)
+
+[^key-f592130c683e068d067bd3763c850646]: Commencement: Sch. 5 in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1)

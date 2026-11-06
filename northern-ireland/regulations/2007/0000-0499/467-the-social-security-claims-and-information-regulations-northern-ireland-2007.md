@@ -1,0 +1,416 @@
+---
+title: The Social Security (Claims and Information) Regulations (Northern Ireland) 2007
+id: nisr/2007/467
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-11-12'
+text_date: '2017-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/467
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/467/pdfs/nisr_20070467_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/467/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Information) Regulations (Northern Ireland) 2007
+
+> Text as at 2017-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 467
+
+Social security; hOUSING; rATES
+
+The Social Security (Claims and Information) Regulations (Northern Ireland) 2007
+
+Made
+
+12th November 2007
+
+Coming into operation
+
+10th December 2007
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 5(1)(a), 5A(1), (2) and (6)(c), 5B(2) and (5) and 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
+
+The Social Security Advisory Committee has agreed that proposals in respect of regulations 7 and 8 should not be referred to it[^f00003].
+
+## 1. Citation, commencement and interpretation[^key-adefe5769180b98606c927b4d0b39bcd]
+
+(1) These Regulations may be cited as the Social Security (Claims and Information) Regulations (Northern Ireland) 2007 and shall come into operation on 10th December 2007.
+
+(2) In regulations 4 and 5 “the Administration Act” means the Social Security Administration (Northern Ireland) Act 1992.
+
+(3) In regulations 2 to 4—
+
+- “specified benefit” means one or more of the following benefits—
+  - (a) attendance allowance;
+  - (b) bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015;[^key-def25a64e7aa4fb2587923d5f8b23e8f]
+  - (c) [^key-def25a64e7aa4fb2587923d5f8b23e8f]...
+  - (d) carer’s allowance;
+  - (e) disability living allowance;
+  - (ee) employment and support allowance;[^M_F_1d336f9b-ecc7-4c76-901b-c9c01ac40718]
+  - (g) incapacity benefit;
+  - (h) income support;
+  - (i) jobseeker’s allowance;
+  - (j) retirement pension;
+  - (k) state pension credit;
+  - (l) widowed parent’s allowance;
+  - (m) winter fuel payment;
+- “administering authority” means an authority administering housing benefit and includes persons providing services to an administering authority and persons authorised to exercise any function of an administering authority relating to housing benefit;
+- “the Department” includes persons providing services to the Department.
+
+## 2. Use of social security information: administering authorities[^key-6d90aac17db9f47c7822dbfea900df3c]
+
+(1) This regulation applies where social security information[^f00004] held by an administering authority was supplied by the Department to the administering authority and this information—
+
+- (a) was used by the Department in connection with a person’s claim for, or award of, a specified benefit; and
+- (b) is relevant to that person’s claim for, or award of, housing benefit.
+
+(2) The administering authority must, for the purposes of the person’s claim for, or award of, housing benefit, use that information without verifying its accuracy.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the information is supplied more than 12 months after it was used by the Department in connection with a claim for, or an award of, a specified benefit;
+- (b) the information is supplied within 12 months of its use by the Department but the administering authority has reasonable grounds for believing the information has changed in the period between its use by the Department and its supply to the administering authority; or
+- (c) the date on which the information was used by the Department cannot be determined.
+
+## 3. Use of social security information: Department[^key-1a8d09f12c7dab5d211a6c938918cd64]
+
+(1) This regulation applies where social security information held by the Department was supplied by an administering authority to the Department and this information—
+
+- (a) was used by the administering authority in connection with a person’s claim for, or award of, housing benefit; and
+- (b) is relevant to that person’s claim for, or award of, a specified benefit.
+
+(2) The Department must, for the purposes of the person’s claim for, or award of, a specified benefit, use that information without verifying its accuracy.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the information is supplied more than 12 months after it was used by an administering authority in connection with a claim for, or an award of, housing benefit;
+- (b) the information is supplied within 12 months of its use by the administering authority but the Department has reasonable grounds for believing the information has changed in the period between its use by the administering authority and its supply to the Department; or
+- (c) the date on which the information was used by the administering authority cannot be determined.
+
+## 4. Social security information verified by administering authorities[^key-9529c439ffedef33ca46a08ea13cb1fa]
+
+(1) This regulation applies where social security information is verified by an administering authority by virtue of regulations made under section 5A(2)(e) of the Administration Act and forwarded by that administering authority to the Department.
+
+(2) The Department must, for the purposes of a person’s claim for, or award of, a specified benefit, use this information without verifying its accuracy.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the Department has reasonable grounds for believing the social security information received from the administering authority is inaccurate; or
+- (b) the Department receives the information more than 4 weeks after it was verified by the administering authority.
+
+## 5. Specified benefits for the purpose of section 5B(3) of the Administration Act[^key-07009d5a017323238de71f24e442a513]
+
+The benefits specified for the purpose of section 5B(3) of the Administration Act are—
+
+- (a) a “specified benefit” within the meaning given in regulation 1(3); and
+- (b) housing benefit.
+
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-dbe8146583504a6ba06cdb9b28c84435]
+
+(1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00005] are amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 4 (making a claim for benefit)—
+
+- (a) in paragraph (6A)[^f00006]—
+  - (i) for “Paragraphs (6B) and (6C) apply in relation to a person” substitute “This paragraph applies to a person”, and
+  - (ii) for sub-paragraphs (c) and (d) substitute—
+
+    > - (c) who makes a claim for income support; or
+    > - (d) who has not attained the qualifying age and who makes a claim for a carer’s allowance, disability living allowance or incapacity benefit.
+
+    ;
+- (b) in paragraph (6B)(b)—
+  - (i) in head (i) for “a relevant authority” substitute “an authority”;
+  - (ii) in head (iii) for “a relevant authority” substitute “such an authority”, and
+  - (iii) for “the relevant authority” substitute “the authority”; and
+- (c) in paragraph (6C)—
+  - (i) for “the relevant authority” substitute “the authority”, and
+  - (ii) after sub-paragraph (c) insert—
+
+    > - (cc) may verify any non-medical information or evidence supplied or obtained in accordance with sub-paragraph (b) or (c) and shall forward it to the Department as soon as reasonably practicable;
+
+    .
+
+(3) In regulation 4C[^f00007]—
+
+- (a) in paragraph (4)[^f00008]—
+  - (i) in sub-paragraph (a) for “a relevant authority” substitute “an authority”;
+  - (ii) in sub-paragraph (c) for “a relevant authority” substitute “such an authority”, and
+  - (iii) for “the relevant authority” substitute “the authority”; and
+- (b) in paragraph (5)[^f00009]—
+  - (i) for “the relevant authority” substitute “the authority”, and
+  - (ii) after sub-paragraph (c) insert—
+
+    > - (cc) may verify any non-medical information or evidence supplied or obtained in accordance with sub-paragraph (b) or (c) and shall forward it to the Department as soon as reasonably practicable;
+
+    .
+
+(4) In regulation 6(1C)[^f00010] (claims for incapacity benefit) omit “who has attained the qualifying age”.
+
+(5) After regulation 32 (information to be given and changes to be notified) insert—
+
+> **32A. Information relating to awards of benefit**
+>
+> (1) Where an authority or person to whom paragraph (2) applies has arranged with the Department for the authority or person to receive claims for a specified benefit or obtain information or evidence relating to claims for a specified benefit in accordance with regulation 4 or 4C, the authority or person may—
+>
+> - (a) receive information or evidence which relates to an award of that benefit and which is supplied by—
+>   - (i) the person to whom the award has been made, or
+>   - (ii) other persons in connection with the award,
+>
+>   and shall forward it to the Department as soon as reasonably practicable;
+> - (b) verify any information or evidence supplied; and
+> - (c) record the information or evidence supplied and hold it (whether as supplied or recorded) for the purpose of forwarding it to the Department.
+>
+> (2) This paragraph applies to—
+>
+> - (a) an authority administering housing benefit;
+> - (b) a person providing to such an authority services relating to housing benefit;
+> - (c) a person authorised to exercise any function of such an authority relating to housing benefit.
+>
+> (3) In paragraph (1) “specified benefit” means one or more of the following benefits—
+>
+> - (a) attendance allowance;
+> - (b) bereavement allowance;
+> - (c) bereavement payment;
+> - (d) carer’s allowance;
+> - (e) disability living allowance;
+> - (f) incapacity benefit;
+> - (g) income support;
+> - (h) jobseeker’s allowance;
+> - (i) retirement pension;
+> - (j) state pension credit;
+> - (k) widowed parent’s allowance;
+> - (l) winter fuel payment.
+
+.
+
+## 7. Amendment of the Housing Benefit Regulations[^key-7b081e184378bf126cca27a9239269b4]
+
+(1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00011] are amended in accordance with paragraphs (2) and (3).
+
+(2) In Part XIV in the heading omit “from landlords and agents” and after it insert—
+
+> **SECTION 1 — Claims and information**
+>
+> **104A. Interpretation**
+>
+> In this Section—
+>
+> - “administering authority” means an authority administering housing benefit;
+> - “the Department” means the Department, the Department for Employment and Learning or a person providing services to either Department;
+> - “relevant information” means information or evidence relating to the administration of claims for or awards of housing benefit.
+>
+> **104B. Collection of information**
+>
+> (1) The Department may receive or obtain relevant information from—
+>
+> - (a) persons making, or who have made, claims for housing benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (2) In paragraph (1) references to persons who have made claims for housing benefit include persons to whom awards of benefit have been made on those claims.
+>
+> **104C. Verifying information**
+>
+> The Department may verify relevant information supplied to, or obtained by, it in accordance with regulation 104B.
+>
+> **104D. Recording and holding information**
+>
+> Where the Department obtains relevant information or such information is supplied to it, it—
+>
+> - (a) shall make a record of such information; and
+> - (b) may hold that information, whether as supplied or obtained or recorded, for the purpose of forwarding it to the person or authority for the time being administering housing benefit.
+>
+> **104E. Forwarding of information**
+>
+> Where the Department holds relevant information it—
+>
+> - (a) shall forward it to the person or authority for the time being administering claims for or awards of housing benefit to which the relevant information relates, being—
+>   - (i) an administering authority;
+>   - (ii) a person providing services to an administering authority, or
+>   - (iii) a person authorised to exercise any function of an administering authority relating to housing benefit; and
+> - (b) may continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as it considers appropriate.
+>
+> **104F. Request for information**
+>
+> Where the Department holds information or evidence relating to social security matters it shall forward such information or evidence as may be requested to the person or authority making that request, provided that—
+>
+> - (a) the request is made by—
+>   - (i) an administering authority;
+>   - (ii) a person providing services to an administering authority, or
+>   - (iii) a person authorised to exercise any function of an administering authority relating to housing benefit;
+> - (b) the information or evidence requested includes relevant information;
+> - (c) the Department is able to provide the information or evidence requested in the form in which it was originally supplied or obtained; and
+> - (d) provision of the information or evidence requested is considered necessary by the Department to the proper performance by an administering authority of its functions relating to housing benefit.
+>
+> SECTION 2
+>
+> Information from landlords and agents
+
+*.*
+
+(3) In regulations 105, 108(1) and 110 for “Part” substitute “Section”.
+
+## 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-8733288c2726158b653becba618102a1]
+
+(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00012] are amended in accordance with paragraphs (2) and (3).
+
+(2) In Part XIII after the heading “Information” insert—
+
+> **SECTION 1 — Claims and information**
+>
+> **85A. Interpretation**
+>
+> In this Section—
+>
+> - “administering authority” means an authority administering housing benefit;
+> - “the Department” means the Department, the Department for Employment and Learning or a person providing services to either Department;
+> - “relevant information” means information or evidence relating to the administration of claims for or awards of housing benefit.
+>
+> **85B. Collection of information**
+>
+> (1) The Department may receive or obtain relevant information from—
+>
+> - (a) persons making, or who have made, claims for housing benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (2) In paragraph (1) references to persons who have made claims for housing benefit include persons to whom awards of benefit have been made on those claims.
+>
+> **85C. Verifying information**
+>
+> The Department may verify relevant information supplied to, or obtained by, it in accordance with regulation 85B.
+>
+> **85D. Recording and holding information**
+>
+> Where the Department obtains relevant information or such information is supplied to it, it—
+>
+> - (a) shall make a record of such information; and
+> - (b) may hold that information, whether as supplied or obtained or recorded, for the purpose of forwarding it to the person or authority for the time being administering housing benefit.
+>
+> **85E. Forwarding of information**
+>
+> Where the Department holds relevant information it—
+>
+> - (a) shall forward it to the person or authority for the time being administering claims for or awards of housing benefit to which the relevant information relates, being either—
+>   - (i) an administering authority;
+>   - (ii) a person providing services to an administering authority, or
+>   - (iii) a person authorised to exercise any function of an administering authority relating to housing benefit; and
+> - (b) may continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as it considers appropriate.
+>
+> **85F. Request for information**
+>
+> Where the Department holds information or evidence relating to social security matters it shall forward such information or evidence as may be requested to the person or authority making that request, provided that—
+>
+> - (a) the request is made by—
+>   - (i) an administering authority;
+>   - (ii) a person providing services to an administering authority, or
+>   - (iii) a person authorised to exercise any function of an administering authority relating to housing benefit;
+> - (b) the information or evidence requested includes relevant information;
+> - (c) the Department is able to provide the information or evidence requested in the form in which it was originally supplied or obtained; and
+> - (d) provision of the information or evidence requested is considered necessary by the Department to the proper performance by an administering authority of its functions relating to housing benefit.
+>
+> SECTION 2
+>
+> Information from landlords and agents
+
+*.*
+
+(3) In regulations 86, 89(1) and 91 for “Part” substitute “Section”.
+
+## 9. Revocation[^key-3ee3f36bbe405f9abd9d2fea69b57da8]
+
+Regulation 2(3)(b) of the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006[^f00013] is revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 12th November 2007
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision concerning the persons or bodies to whom claims for benefit may be made and as to the use and verification of social security information by those persons or bodies.
+
+Regulation 2 provides that where an authority administering housing benefit (“administering authority”) receives social security information from the Department for Social Development (“the Department”) that has been used by the Department in connection with a person’s claim for, or award of, certain benefits, then the administering authority must accept this information as correct and use it in connection with that person’s claim for, or award of, housing benefit without carrying out further checks as to its accuracy. This obligation will not arise where certain exceptions apply.
+
+Regulation 3 makes similar provision in respect of information received by the Department from an administering authority which was used by the administering authority in connection with a person’s claim for, or award of, housing benefit.
+
+Regulation 4 provides that, where an administering authority verifies social security information and forwards this to the Department, then the Department must, subject to certain exceptions, without further checking this information, use it in connection with a person’s claim for, or award of a specified benefit.
+
+Regulation 5 specifies benefits for the purpose of section 5B(3) of the Social Security Administration (Northern Ireland) Act 1992 (“the Administration Act”).
+
+Regulation 6 amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 to enable administering authorities to receive claims and connected information for specified benefits administered by the Department and to verify the information before forwarding it to the Department.
+
+Regulation 7 amends the Housing Benefit Regulations (Northern Ireland) 2006 to enable the Department and the Department for Employment and Learning to receive housing benefit claims and connected information and to verify the information before forwarding it to the administering authority.
+
+Regulation 8 amends the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 to make equivalent provision to that made by regulation 7.
+
+Regulation 9 makes a consequential revocation.
+
+In so far as these Regulations are required, for the purposes of regulations 7 and 8, to be referred to the Social Security Advisory Committee under section 149(2) of the Administration Act, after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, that Act, are not subject to the requirement of section 149(2) for prior reference to the Social Security Advisory Committee.
+
+Sections 5A and 5B of the Administration Act were respectively amended and inserted by section 38 of the Welfare Reform Act (Northern Ireland) 2007. Section 38(1) was brought into operation on 8th October 2007 by virtue of the Welfare Reform (2007 Act) (Commencement No. 2) Order (Northern Ireland) 2007 ([S.R. 2007 No. 429 (C. 27)](https://www.legislation.gov.uk/nisr/2007/429)).
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5A was inserted by Article 68 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and amended by paragraph 29 of Schedule 3 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4), paragraph 8 of Schedule 1 to the [Social Security Act (Northern Ireland) 2002 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2002/10) and section 38(2) of the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2); section 5B was inserted by section 38(1) of the Welfare Reform Act (Northern Ireland) 2007 and in section 165 subsection (1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and subsection (6) was amended by Schedule 7 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-adefe5769180b98606c927b4d0b39bcd]: Commencement: Reg. 1 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^key-def25a64e7aa4fb2587923d5f8b23e8f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/3/b) substituted (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 24](https://www.legislation.gov.uk/nisr/2017/66/article/24), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+
+[^M_F_1d336f9b-ecc7-4c76-901b-c9c01ac40718]: Textual amendment: Words in reg. 1(3) inserted (28.06.2010) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (SR 2010/200)](https://www.legislation.gov.uk/nisr/2010/200/contents), [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [reg. 8](https://www.legislation.gov.uk/nisr/2010/200/regulation/8)
+
+[^key-6d90aac17db9f47c7822dbfea900df3c]: Commencement: Reg. 2 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^f00004]: Footnote: “Social security information” is defined by section 5B(4) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-1a8d09f12c7dab5d211a6c938918cd64]: Commencement: Reg. 3 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^key-9529c439ffedef33ca46a08ea13cb1fa]: Commencement: Reg. 4 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^key-07009d5a017323238de71f24e442a513]: Commencement: Reg. 5 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^key-dbe8146583504a6ba06cdb9b28c84435]: Commencement: Reg. 6 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [317](https://www.legislation.gov.uk/nisr/2003/317), [S.R. 2005 Nos. 46](https://www.legislation.gov.uk/nisr/2005/46) and [299](https://www.legislation.gov.uk/nisr/2005/299) and [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)
+
+[^f00006]: Footnote: Paragraphs (6A) to (6D) were inserted by regulation 2(2)(b) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317) and paragraph (6A) was amended by regulation 2(4)(a) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299) and regulation 2(3) of [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)
+
+[^f00007]: Footnote: Regulation 4C was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00008]: Footnote: Paragraph (4) was substituted by regulation 2(4)(a) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317)
+
+[^f00009]: Footnote: Paragraph (5) was substituted by regulation 5(3)(c) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^f00010]: Footnote: Paragraph (1C) was inserted by regulation 2(7)(a) of [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)
+
+[^key-7b081e184378bf126cca27a9239269b4]: Commencement: Reg. 7 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
+
+[^key-8733288c2726158b653becba618102a1]: Commencement: Reg. 8 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^f00012]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
+
+[^key-3ee3f36bbe405f9abd9d2fea69b57da8]: Commencement: Reg. 9 in operation at 10.12.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1)
+
+[^f00013]: Footnote: [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)

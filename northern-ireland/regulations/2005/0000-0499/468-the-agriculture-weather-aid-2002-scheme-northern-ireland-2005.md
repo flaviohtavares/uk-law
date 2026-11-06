@@ -1,0 +1,285 @@
+---
+title: The Agriculture (Weather Aid 2002) Scheme (Northern Ireland) 2005
+id: nisr/2005/468
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-10-28'
+text_date: '2006-06-15'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/468
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/468/pdfs/nisr_20050468_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/468/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agriculture (Weather Aid 2002) Scheme (Northern Ireland) 2005
+
+> Text as at 2006-06-15.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 468
+
+AGRICULTURE
+
+The Agriculture (Weather Aid 2002) Scheme (Northern Ireland) 2005
+
+Made
+
+28th October 2005
+
+The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by sections 1(1) and 2(1) of the Agriculture (Temporary Assistance) Act (Northern Ireland) 1954[^f00002] and of all other powers enabling it in that behalf, having consulted with such bodies of persons appearing to it to represent any interests concerned and with the approval of the Department of Finance and Personnel, hereby makes the following Scheme:
+
+## 1. Citation[^key-f6a1a838f6bc570de08a732dccd2b0af]
+
+This scheme may be cited as the Agriculture (Weather Aid 2002) Scheme (Northern Ireland) 2005.
+
+## 2. Interpretation[^key-f235f52fa4ab57fb6c4fa34596303519]
+
+(1) In this scheme—
+
+- “application” means application made in pursuance of a notice published under Article 5(1);
+- “Arable Area Aid Payment” means the arable area payment established under Council Regulation [(EC) 1251/1999](https://www.legislation.gov.uk/european/regulation/1999/1251)[^f00003] establishing a support system for producers of certain arable crops applies;
+- “area payment” means a payment of grant referred to in Article 3(5);
+- “authorised officer” means a person authorised by the Department for the purposes of this Scheme;
+- “Beef Special Premium” means the special premium established under Article 4 of the Council Regulation;
+- “bull” means an uncastrated male bovine animal;
+- “the Council Regulation” means Council Regulation 1254/1999[^f00004] on the common organisation of the market in beef and veal;
+- “direct sale” in relation to milk means a sale directly to the consumer in the course of a business;
+- “eligible cattle” means any bovine animal to which Article 3(3)(a) or (b) applies;
+- “eligible producer” means a producer who falls within Article 4;
+- “eligible sheep” means any sheep to which Article 3(3)(c) applies;
+- “grant” means a grant payable by the Department under and for the purposes of Article 3(1);
+- “headage payment” means a payment of grant referred to in Article 3(3);
+- “less favoured area” means any land which in 2002 fell within a production region referred to in regulation 3(1)(a) of the Arable Area Payments Regulations (Northern Ireland) 1997[^f00005];
+- “milk” means milk from cows;
+- “production payment” means a payment of grant referred to in Article 3(4);
+- “Sheep Annual Premium” means the premium established by Article 4 of Council Regulation [(EC) 2529/2001](https://www.legislation.gov.uk/european/regulation/2001/2529)[^f00006] on the common organisation of the market in sheepmeat and goatmeat;
+- “Slaughter Premium” means the slaughter premium established under Article 11 of the Council Regulation;
+- “Suckler Cow Premium” means the suckler cow premium established under Article 6 of the Council Regulation;
+- “table potatoes” means maincrop ware potatoes intended for human consumption but does not include seed potatoes.
+
+(2) Any reference in this Scheme to eligible litres shall be construed in accordance with Article 3(4)(a).
+
+(3) Any reference in this Scheme to eligible barley or wheat hectarage shall be construed in accordance with Article 3(5).
+
+(4) Any reference in this Scheme to sales of table potatoes by an eligible producer shall be considered as a reference only to sale of such potatoes produced by him.
+
+(5) Expressions which are not defined in paragraph (1) and which appear in the Council Regulation have the same meaning in this Scheme as they have for the purposes of that Regulation.
+
+## 3. Scope of the scheme[^key-953a5c8ae25bbd293662024cc9989c9f]
+
+(1) The Department may, under and in accordance with the following provisions, pay to any eligible producer a grant in respect of any financial loss incurred by him because of reduced agricultural outputs or increased agricultural production costs as a direct result of abnormally adverse weather conditions in the year 2002.
+
+(2) The grant payable to each eligible producer shall be the total of all headage payments, production payments and area payments to which he is entitled under this Scheme.
+
+(3) A headage payment shall be made to an eligible producer in respect of—
+
+- (a) each bovine animal (other than a bull) for which, in respect of the year 2002, that producer received a Suckler Cow Premium or a Beef Special Premium;
+- (b) each beef heifer for which, in respect of the year 2002, that producer received a Slaughter Premium;
+- (c) each sheep for which, in respect of the year 2002, that producer received a Sheep Annual Premium.
+
+(4) A production payment shall be made to an eligible producer in respect of—
+
+- (a) each litre of milk (“eligible litre”) sold by wholesale or direct sale in the year 2002;
+- (b) the eligible tonnes of table potatoes per hectare sold by him as calculated in accordance with Article 7.
+
+(5) An area payment shall be made to an eligible producer in respect of each hectare or part of a hectare—
+
+- (a) used by him for the production of spring barley in a less favoured area and for which, in respect of the year 2002, he received an Arable Area Payment (“the eligible barley hectarage”);
+- (b) used by him in the production of wheat in a less favoured area and for which in respect of that year, he received an Arable Area Payment (“eligible wheat hectarage”);
+
+## 4. Eligibility for payment[^key-4d8c97ed17bb626b7457cfbe8ceea082]
+
+An eligible producer for the purposes of Article 3 is a person who in 2002—
+
+- (a) engaged in rearing cattle and in respect of that year received a premium of Suckler Cow Premium, Beef Special Premium or Slaughter Premium;
+- (b) engaged in sheep rearing and in respect of that year received a payment of Sheep Annual Premium;
+- (c) engaged in the production of milk;
+- (d) engaged in the production of table potatoes and who also engaged in such production in at least two years (excluding 2002) out of the period 1997 to 2004;
+- (e) engaged in the production of spring barley in a less favoured area and in respect of that year received an Arable Area Payment; or
+- (f) engaged in the production of wheat in a less favoured area and in respect of that year received an Arable Area Payment.
+
+## 5. Application for payment[^key-441eb05d54adc345193838ad25490d68]
+
+(1) The Department shall publish in such manner as it considers appropriate a notice inviting, and specifying the closing date for applications for grant.
+
+(2) An application shall be in writing, shall be made in such form and manner and shall be delivered to such address as the Department may specify in the notice under paragraph (1) or from time to time require.
+
+(3) An application shall specify whether it is for a headage payment, an area payment or a production payment or for any combination thereof.
+
+(4) An applicant shall furnish all such information relating to the application as the Department may specify in the notice under paragraph (1) or from time to time require.
+
+## 6. Calculation of payment[^key-0d08a14a1062cf4344197ab335d5798b]
+
+(1) As soon as reasonably practicable after the date specified as the closing date for applications in a notice published under Article 5(1) the Department shall—
+
+- (a) identify those applications which are made by an eligible producer;
+- (b) determine the total number of eligible sheep and of eligible cattle to which those applications relate;
+- (c) determine the total number of eligible litres to which those applications relate;
+- (d) determine the total eligible barley hectarage, and the total eligible wheat hectarage to which those applications relate; and
+- (e) determine the total eligible tonnes of table potatoes [^key-120b5c380ff1a986009de40add14200b]...to which those applications relate.
+
+(2) The Department shall then calculate the grant payable to each eligible producer in respect of his application in accordance with Article 8.
+
+## 7. Calculation of payment for producers of table potatoes[^key-f815d3fe306cc9a7bac0f3710faa1cfa]
+
+(1) For the purposes of this Scheme the number of eligible tonnes of potatoes per hectare in the case of any eligible producer shall be X where
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2005/468)
+
+(2) For the purposes of this Scheme—
+
+- (a) A is the average sales by the producer of table potatoes expressed in tonnes;
+- (b) B is the average hectarage of table potatoes planted by the producer;
+- (c) C is 20% in the case of any person who produced table potatoes in a less favoured area and 30% in the case of any other producer of table potatoes;
+- (d) D is the actual sales expressed in tonnes of table potatoes in the year 2002 by the producer;
+- (e) E is the hectarage of table potatoes planted in the year 2002 by the producer.
+
+(3) For the purposes of this Scheme, an eligible producer’s average sales of table potatoes are—
+
+- (a) the annual average of such sales in the period 1999 to 2001;
+- (b) where the producer did not sell table potatoes in any one of those three years but has sold table potatoes in two or more years during the period 1997 to 2004, the annual average of such sales in those years (excluding sales in 2002).
+
+(4) For the purposes of this Scheme the average hectarage of table potatoes planted by an eligible producer means the average of such hectarage calculated using the same years as were used under paragraph (3) to calculate his average annual sales of table potatoes.
+
+(5)[^key-ab895a26c1e9149dcef2cb1d77467e08] For the purposes of this Scheme Y shall be the sum obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to table potatoes by the total number of tonnes of table potatoes obtained under Article 6(1)(e) provided that Y shall not exceed £98.70.
+
+## 8. Rate of payment[^key-30c78351078648f885b2fc51ce657a4e]
+
+(1) The headage payment in respect of each eligible cattle shall be the amount obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to such animals by the total number thereof identified under Article 6(1);
+
+(2) The headage payment in respect of each eligible sheep shall be the amount obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to such animals by the total number thereof identified under Article 6(1);
+
+(3) The area payment in respect of each eligible barley hectare shall be the amount obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to such barley hectarage by the total eligible barley hectarage identified under Article 6(1);
+
+(4) The area payment in respect of each eligible wheat hectare shall be the amount obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to such wheat hectarage by the total eligible wheat hectarage identified under Article 6(1);
+
+(5) The production payment in respect of each eligible litre shall be the amount obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to such litres by the total number thereof identified under Article 6(1);
+
+(6) The production payment for each eligible producer in respect of his sales of eligible tonnes of table potatoes per hectare shall be the sum *X* × *Y* × *E*.
+
+## 9. Withholding of payment[^key-8e3a0b4e7e735475d18cdf46b7b7c0a2]
+
+Where a person, with a view to obtaining a payment for himself or any other person, makes any statement or furnishes any information which is false or misleading, or refuses to cooperate with an authorised officer exercising powers under the Scheme, the Department may withhold the whole or part of any amount payable to that person or such other person and may recover the whole or part of any payment already paid to that person or such other person.
+
+## 10. Recovery of payment[^key-cfcf1d26a0586dbd9ab4385874282671]
+
+(1) Where an amount falls to be paid to the Department by virtue of this Scheme that amount or any part thereof shall be recoverable as a civil debt.
+
+(2) Where a payment is to be recovered, whether in whole or in part, the Department shall charge interest on the amount to be recovered and the rate of interest shall be one percentage point above LIBOR calculated on a day to day basis from the date on which the payment was made.
+
+(3) In any proceedings under this Article, a certificate of the Department stating the LIBOR applicable during a period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
+
+(4) For the purposes of this Article “LIBOR” means the sterling three month London interbank offered rate in force at any relevant time.
+
+## 11. Powers of authorised officers[^key-80afb1c0d94d842a3aeecd5b59df6c11]
+
+(1) An authorised officer may, at all reasonable hours and on producing, if so required, some duly authenticated document showing his authority, enter any land or premises for the purposes of exercising powers specified under the Scheme.
+
+(2) An authorised officer may—
+
+- (a) require an applicant or any employee, servant or agent of an applicant, to provide any relevant record or documentation or extracts therefrom and to supply such additional information as is in that person’s possession or under his control relating to an application under the scheme;
+- (b) have access to, and inspect and copy any relevant records or documents (in whatever form they are held) or remove such records or documents to enable them to be copied;
+- (c) have access to, inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the relevant records or documents; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford him such assistance as he may reasonably require and, where a record is kept by means of a computer, may require the records to be produced in a form in which they may be taken away;
+- (d) seize and retain any relevant record or document which he has reason to believe may be required as evidence in proceedings under the Scheme.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 28th October 2005.
+
+Norman Fulton
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 28th October 2005.
+
+Jack Layberry
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE — RATES OF PAYMENT[^key-98758101dcb56adebe3c6be3f5bf9250]
+
+Article 8
+
+| **Payment Type**<br>**(1)** | **Total Amount**<br>**(2)** |
+| --- | --- |
+| Eligible Sheep | £293,559 |
+| Eligible Cattle | £2,339,590 |
+| Eligible Barley Hectarage | £77,350 |
+| Eligible Wheat Hectarage | £61,611 |
+| Eligible Litres | £1,297,575 |
+| Table Potatoes | £500,000 |
+
+(This note is not part of the Scheme)
+
+This Scheme provides for payments to be made by the Department of Agriculture and Rural Development to producers in certain sectors of the agricultural industry who suffered financial losses whether resulting from reduced outputs or from increased production costs or both as a direct result of the abnormally adverse weather conditions in 2002.
+
+The Scheme—
+
+- (a) establishes eligibility criteria for eligible producers(Article 4);
+- (b) specifies the manner in which applications shall be made(Article 5);
+- (c) specifies the methods by which rates of payments shall be determined(Articles 6 to 8);
+- (d) enables the Department to withhold payment in any case where false or misleading information has been provided or where a person fails to co-operate with an authorised officer(Article 9);
+- (e) provides for the recovery of payments made under the Scheme(Article 10); and
+- (f) enables an authorised officer to exercise powers of entry and have access to relevant records and documents(Article 11).
+
+Under Section 4(1) of the Agriculture (Temporary Assistance) Act (Northern Ireland) 1954, any person who, being required or authorised under or by virtue of this scheme to furnish any information, record or document, furnishes any information, record or document which, to his knowledge, is false in a material particular shall be guilty of an offence and shall, without prejudice to Article 10 of the Perjury (Northern Ireland) Order 1979 [(S.I.) 1979/No. 1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714), be liable on summary conviction to a fine not exceeding level 4 on the standard scale or to imprisonment not exceeding twelve months or to both such fine and such imprisonment.
+
+Under Section 4(2) of that Act any person—
+
+- (a) who acts in contravention of, or neglects or fails to comply with any provision contained in this Scheme; or
+- (b) obstructs or impedes an authorised officer in the exercise of any power under this Scheme,
+
+shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## Annotations
+
+[^f00001]: Footnote: The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments Order 1999 (S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
+
+[^f00002]: Footnote: [1954 c. 31](https://www.legislation.gov.uk/apni/1954/31) as amended by [1957 c. 3 (N.I.)](https://www.legislation.gov.uk/apni/1957/3), S.I. [1977/1245 (N.I. 12)](https://www.legislation.gov.uk/nisi/1977/1245) Art. 20 and S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art.7
+
+[^key-f6a1a838f6bc570de08a732dccd2b0af]: Commencement: S. 1 in operation at made date, see Scheme
+
+[^key-f235f52fa4ab57fb6c4fa34596303519]: Commencement: S. 2 in operation at made date, see Scheme
+
+[^f00003]: Footnote: O.J. No. L160, 26.6.1999, p.1
+
+[^f00004]: Footnote: O.J. No. L160, 26.6.1999, p.21
+
+[^f00005]: Footnote: [S.R. 1997 No. 477](https://www.legislation.gov.uk/nisr/1997/477) as amended by [S.R. 1998 No. 308](https://www.legislation.gov.uk/nisr/1998/308) and S.R. No. 120
+
+[^f00006]: Footnote: O.J. No. L341, 22.12.2001, p.3
+
+[^key-953a5c8ae25bbd293662024cc9989c9f]: Commencement: S. 3 in operation at made date, see Scheme
+
+[^key-4d8c97ed17bb626b7457cfbe8ceea082]: Commencement: S. 4 in operation at made date, see Scheme
+
+[^key-441eb05d54adc345193838ad25490d68]: Commencement: S. 5 in operation at made date, see Scheme
+
+[^key-0d08a14a1062cf4344197ab335d5798b]: Commencement: S. 6 in operation at made date, see Scheme
+
+[^key-120b5c380ff1a986009de40add14200b]: Textual amendment: Words in [art. 6(1)(e)](https://www.legislation.gov.uk/nisr/2005/468/article/6/1/e) omitted (15.6.2006) by virtue of [The Agriculture (Weather Aid 2002) (Amendment) Scheme (Northern Ireland) 2006 (S.R. 2006/232)](https://www.legislation.gov.uk/nisr/2006/232), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/232/article/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2006/232/article/2/a)
+
+[^key-f815d3fe306cc9a7bac0f3710faa1cfa]: Commencement: S. 7 in operation at made date, see Scheme
+
+[^key-ab895a26c1e9149dcef2cb1d77467e08]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/nisr/2005/468/article/7/5) substituted (15.6.2006) by [The Agriculture (Weather Aid 2002) (Amendment) Scheme (Northern Ireland) 2006 (S.R. 2006/232)](https://www.legislation.gov.uk/nisr/2006/232), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/232/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2006/232/article/2/b)
+
+[^key-30c78351078648f885b2fc51ce657a4e]: Commencement: S. 8 in operation at made date, see Scheme
+
+[^key-8e3a0b4e7e735475d18cdf46b7b7c0a2]: Commencement: S. 9 in operation at made date, see Scheme
+
+[^key-cfcf1d26a0586dbd9ab4385874282671]: Commencement: S. 10 in operation at made date, see Scheme
+
+[^key-80afb1c0d94d842a3aeecd5b59df6c11]: Commencement: S. 11 in operation at made date, see Scheme
+
+[^key-98758101dcb56adebe3c6be3f5bf9250]: Commencement: Sch. in operation at made date, see Scheme

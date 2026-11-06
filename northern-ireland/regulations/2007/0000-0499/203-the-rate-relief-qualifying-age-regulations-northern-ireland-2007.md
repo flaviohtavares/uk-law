@@ -1,0 +1,2078 @@
+---
+title: The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007
+id: nisr/2007/203
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-03-23'
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/203
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/203/pdfs/nisr_20070203_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/203/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007
+
+> Text as at 2022-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 203
+
+Rates
+
+The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007
+
+Made
+
+23rd March 2007
+
+Coming into operation
+
+1st April 2007
+
+The Department of Finance and Personnel[^f00001] makes the following Regulations in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977[^f00002].[^key-5ee04af5b1591d064c77a91c39f88798]
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-7d2906cd10101441b4cc65ff8dba0b65]
+
+(1) These Regulations may be cited as the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
+
+(2) These Regulations are to be read, in a case where a person if he, or if he has a partner, his partner, has attained the qualifying age for state pension credit, with the Rate Relief (General) Regulations (Northern Ireland) 2007[^f00003].
+
+### 2. Interpretation[^key-c831e56043945815c578af3b7aaadb27]
+
+(1) Regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations (interpretation) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (za)[^M_F_61bfb98a-0179-4870-8906-46bab197d64d] as if the reference to “amended determination” were omitted;
+- (a) as if for the definition of “appropriate office” there were substituted—
+
+  > - “appropriate office” means the office of a relevant authority which that authority deems appropriate for dealing with a claim from a particular area;
+
+  ;
+- (b) as if in the definition of “assessment period”—
+  - (i) in paragraph (a) after “regulation 35”;
+  - (ii) in paragraph (b) after “regulation 31”,
+
+  there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (c) as if the definition of “benefit week” were omitted;
+- (ca)[^M_F_2506d9b7-633b-41bc-c5b3-b8b989ce935f] as if the reference to “broad rental market area” were omitted;
+- (cb) as if the reference to “broad rental market area determination” were omitted;
+- (cc) as if the reference to “change of dwelling” were omitted;
+- (d) as if for the definition of “claim” there were substituted—
+
+  > - “claim” means, unless the context otherwise requires, a claim for rate relief;
+
+  ;
+- (e) as if in the definition of “claimant” for “housing benefit” there were substituted “rate relief”;
+- (f)[^M_F_79d15f75-cd69-4dbe-a502-a3282e9cb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) as if in the definition of “date of claim” after “regulation 62” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (h) as if in the definition of “designated office” after “housing benefit”, in both places where it occurs, there were inserted “or rate relief”;
+- (i) as if for the definition of “earnings” there were substituted—
+
+  > - “earnings” has the meaning prescribed in regulation 33 or, as the case may be, 36 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19;
+
+  ;
+- (j) as if for the definition of “eligible rates” there were substituted—
+
+  > - “eligible rates” is to be construed in accordance with regulation 12 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 14;
+
+  ;
+- (k) as if the definition of “eligible rent” were omitted;
+- (kza)[^M_F_5e159a27-82ec-4c28-d36d-2d468a9f210b] as if the definition of “equity-sharing lease” was omitted;
+- (ka)[^M_F_505040d5-8c9d-4fb5-d227-f09a366b2fd5] as if the reference to “the Executive Determinations Regulations” were omitted;
+- (l)[^M_F_01cd768a-9b4b-4a43-ec41-1b43b17bac09] as if for the definition of “extended payment” there were substituted—
+
+  > - “extended payment (qualifying contributory benefits)” means a payment of rate relief payable pursuant to regulation 51 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 21 or regulation 71 of the Housing Benefit Regulations (extended payments (qualifying contributory benefits)) as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 22 of those Regulations;
+
+  ;
+- (la)[^M_F_bc442688-f4fe-4017-e09e-4d6104261b5c] as if for the definition of “extended payment period” there were substituted—
+
+  > - “extended payment period” means the period for which an extended payment is payable in accordance with regulation 51A of Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 21 or regulation 70A (duration of extended payment period) or 71A (duration of extended payment period (qualifying contributory benefits)) of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 22 of those Regulations;
+
+  ;
+- (m) as if in the definition of “family” after “the Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 15”;
+- (ma)[^M_F_8d8782c2-39f5-44a1-f1f2-fc1ef41aacfd] as if the reference to “linked person” were omitted;
+- (mb) as if the reference to “local housing allowance” were omitted;
+- (n) as if the definition of “maximum rent” were omitted;
+- (na)[^M_F_bade713d-f9c0-43ef-daad-3a7b6d0e570c] as if the reference to “maximum rent (LHA)” were omitted;
+- (o) as if for the definition of “net earnings” there were substituted—
+
+  > - “net earnings” means such earnings as are calculated in accordance with regulation 34 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19;
+
+  ;
+- (p) as if in the definition of “net profit” after “regulation 37” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (q) as if for the definition of “non-dependant” there were substituted—
+
+  > - “non-dependant” has the meaning prescribed in regulation 3 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 3;
+
+  ;
+- (r) as if in the definition of “non-dependant deduction” after “regulation 53” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (s) as if in the definition of “person affected” after “Appeals Regulations” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+- (sa)[^M_F_2bc350e3-f6c4-493f-a62c-92baa9d7352d] as if the reference to “reckonable rent” were omitted;
+- (sb) as if the reference to “registered housing association” were omitted;
+- (t) as if in the definition of “relevant authority” for “housing benefit” there were substituted “rate relief”;
+- (ta)[^M_F_dd71029f-2892-48e6-cb22-3a9fd8403e28] as if the reference to “relevant information” were omitted;
+- (u) as if for the definition of “remunerative work” there were substituted—
+
+  > - “remunerative work” has the meaning prescribed in regulation 6 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 3;
+
+  ;
+- (v) as if in the definition of “rent” after “regulation 13(1)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations;”;
+- (w) as if for the definition of “young person” there were substituted—
+
+  > - “young person” has the meaning prescribed in regulation 17(1) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 16;
+
+  .
+
+(2) In these Regulations—
+
+- “the 1998 Order” means the Social Security (Northern Ireland) Order 1998[^f00004];
+- “the 2000 Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00005];
+- “the Decisions and Appeals Regulations 1999” means the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00006];
+- “hereditament” means property which is, or may become, liable to a rate, being a unit of such property which is, or would fall to be, shown as a separate item in a capital value list;
+- “housing benefit” means housing benefit provided by virtue of a scheme under section 122 of the Act but, unless the context otherwise requires, only in so far as it relates to housing benefit which is payable in the form of a rate rebate;
+- “the Housing Benefit Regulations” means the Housing Benefit Regulations (Northern Ireland) 2006[^f00007];
+- “the Housing Benefit (State Pension Credit) Regulations” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00008];
+- “the principal Order” means the Rates (Northern Ireland) Order 1977;
+- “rate relief” means relief from rates, which are payable in respect of a hereditament which a person occupies as his home, as calculated under regulation 22 (calculation of weekly amount of rate relief);
+- “rate relief week” means a period of 7 consecutive days commencing upon a Monday and ending on a Sunday.
+
+(3) References in these Regulations to a person to whom the Housing Benefit (State Pension Credit) Regulations apply, shall, unless the context otherwise requires, include a reference to a person to whom those Regulations would apply were a claim for housing benefit to be made by that person.
+
+(4) Regulation 2(2) to (8) of the Housing Benefit (State Pension Credit) Regulations (references to a person who is liable to make payments, interpretation) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if in paragraph (2)—
+  - (i) after “is liable to make payments” there were inserted “in respect of a hereditament”;
+  - (ii) after “regulation 8” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+- (b) as if in paragraph (4)—
+  - (i) for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+  - (ii) in sub-paragraph (a)(i) the words from “and, in the case of” to “use the land,” were omitted.
+
+### 3. Modification of regulations 3 to 6[^key-3f8f73988aa357dbf6b507c695eede2f]
+
+Regulations 3 to 6 of the Housing Benefit (State Pension Credit) Regulations shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if in regulation 3—
+  - (i) for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+  - (ii) in paragraph (2)(c) after “regulation 19” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 16”;
+  - (iii) in paragraph (3) after “regulation 9(1)” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (iv) in paragraph (4)—
+    - (aa)[^M_F_7ed5308b-b95b-4667-8059-4c413f2732fd] after “regulation 9” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+    - (bb) the definition of “communal area” in Schedule 1 to the Housing Benefit (State Pension Credit) Regulations were applied for the purposes of the application of regulation 3 of the Housing Benefit (State Pension Credit) Regulations to these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations;
+- (b) as if regulation 4 were omitted;
+- (c) as if in regulation 6(6) for “benefit week” there were substituted “rate relief week”.
+
+### Arrangements for rate relief
+
+#### 4. Rate relief scheme[^key-830fb6853fd4dab91b724e0141bbd5a4]
+
+(1) The relevant authorities shall take such steps as appear to them appropriate for the purpose of securing that persons who may be entitled to rate relief become aware that they may be entitled to it.
+
+(2) The relevant authorities shall make copies of the rate relief scheme available, without payment, for public inspection at their offices at all reasonable hours.
+
+#### 5. Arrangements for rate relief[^key-2e4d3196deae619667acb61e070c53d3]
+
+(1) Rate relief shall be granted in accordance with paragraph (2).
+
+(2) The relevant authority, as it considers appropriate in the circumstances, may discharge entitlement to rate relief by means of any, or any combination, of the following—
+
+- (a) a payment or payments by the relevant authority to the claimant;
+- (b) a reduction in the amount of any payment which that person is liable to make by way of rates;
+- (c) a payment direct to the landlord where in accordance with regulations made under the Administration Act an amount of housing benefit payable to the claimant or his partner is being paid direct to the landlord; or
+- (d) a transfer of funds between the Executive and the Department,
+
+and “pay”, in relation to rate relief, includes discharge in any of those forms.
+
+**6.**[^key-5de447e50a651b20fd8633a79b4d0fd1] (1) Rate relief shall be administered by—
+
+- (a) the Department insofar as it relates to persons who own the hereditaments which they occupy as their home;
+- (b) the Executive insofar as it relates to persons who are tenants of the Executive, private tenants or tenants of registered housing associations.
+
+(2) In this regulation—
+
+- “private tenants” means tenants under any tenancy except—
+  - (a) a tenancy under which the estate of the landlord belongs to the Executive or a registered housing association;
+  - (b) a tenancy the purpose of which is to confer on the tenant the right to occupy a hereditament for a holiday;
+- “registered housing association” means a housing association registered in the register maintained under Part II of the Housing (Northern Ireland) Order 1992[^f00009].
+
+## PART 2 — Provisions affecting entitlement to rate relief
+
+### 7. Entitlement to rate relief[^key-315b03bb4d4c643bcbe30c905cfc97f7]
+
+A person is entitled to rate relief if—
+
+- (a) he is liable to make payments in respect of a hereditament which he occupies as his home;
+- (b) there is an appropriate maximum rate relief in his case; and
+- (c) either—
+  - (i) he is, or if a claim for housing benefit were made would be, entitled to less than 100% housing benefit; or
+  - (ii) he is not, or if such a claim were made would not be, entitled to any housing benefit because his income exceeds the amount calculated in accordance with Part 5 (applicable amounts).
+
+**8.**[^key-b1180c424980f4d0d5310625ca7e1b6d] Where a person is entitled to rate relief, then—
+
+- (a) if he has no income or his income does not exceed the applicable amount calculated in accordance with Part 5 (applicable amounts), the amount of rate relief shall be the amount which is the appropriate maximum rate relief in his case; or
+- (b) if his income exceeds the applicable amount calculated in accordance with Part 5, the amount of rate relief shall be the amount calculated under regulation 22 (calculation of weekly amount of rate relief).
+
+### Exclusions from rate relief
+
+#### 9. Exclusions from rate relief[^key-59735e5b6907e4ee992476d1bfa3718c]
+
+Where one member of a family is entitled to rate relief that entitlement excludes any other member being entitled to that relief for the same period.
+
+**10.**[^key-4c0e5452a3d7554ee7c0ed950593a10e] A person shall not be entitled to rate relief where he is a person who is not chargeable to rates in respect of a hereditament.
+
+#### 11. Modification of Part II and Schedule A1[^key-55b9db9cacace378b107f237574bd210]
+
+(1) Part II of the Housing Benefit (State Pension Credit) Regulations (provisions affecting entitlement to housing benefit) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “benefit weeks”, wherever it occurs, there were substituted “rate relief weeks”;
+- (c) as if—
+  - (i) for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+  - (ii) in regulation 7(6) for “dwellings”, wherever it occurs, there were substituted “hereditaments”;
+- (d) as if in regulation 7—
+  - (i) in paragraphs (3) and (4) “(including payments of mortgage interest or analogous payments)” were omitted;
+  - (ii) in paragraph (3) after “of a dwelling)” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 21 of those Regulations”;
+  - (iii) in paragraph (6)(b) after “Housing Benefit Regulations” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 21 of those Regulations”;
+  - (iv) in paragraph (9)—
+    - (aa) in sub-paragraph (a) after “regulation 62”;
+    - (bb) in sub-paragraph (b) after “Part IX”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (e) as if in regulation 8—
+  - (i) in paragraph (1)—
+    - (aa) after “regulation 9” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+    - (bb) in sub-paragraph (e) after “Housing Benefit Regulations” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 21 of those Regulations”;
+  - (ii) in paragraph (2) after “to 60” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+- (f)[^M_F_13527f34-421e-4863-bb65-54f33c409ccd] as if in regulation 9—
+  - (i) paragraph (1)(h) were omitted;
+  - (ii) in paragraph (1)(l) for “Part VII of the Act” there were substituted “Article 30A of the principal Order”;
+- (g) as if in regulation 10—
+  - (i) in paragraph (1) after “Schedule A1 (treatment of claims for housing benefit by refugees)” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (ii) in paragraph (6) after “2000” there were inserted “as applied for the purposes of these Regulations by regulation 13”;
+- (h) as if in regulation 10A—
+  - (i) after “Schedule A1”, wherever it occurs, there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (ii) in paragraph (1)(a) for “; and” there were substituted “.”;
+  - (iii) paragraphs (1)(b) and (2) were omitted.
+
+(2) Schedule A1 to the Housing Benefit (State Pension Credit) Regulations shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (c) as if for “benefit”, wherever it occurs, there were substituted “rate relief”;
+- (d) as if “rent or”, wherever it occurs, were omitted;
+- (e) as if in paragraph 2(4) after “regulation 62(13)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (f) as if paragraph 3(1) were omitted;
+- (g) as if in paragraph 4 after “Part V” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”;
+- (h) as if in paragraph 6 after “regulation 65” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (i) as if in paragraph 7 after “Part VII” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (j) as if in paragraph 8—
+  - (i) in sub-paragraph (2) after “regulation 71”;
+  - (ii) in sub-paragraph (3) “and 74”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+- (k) as if in paragraph 10 after “Schedule 9” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 29”.
+
+#### 12. Modification of the Immigration and Asylum Act 1999[^key-969f4bb37a01717ed21395d507f8205e]
+
+Section 115 of the Immigration and Asylum Act 1999[^f00010] (exclusion from benefits) shall apply for the purposes of these Regulations as it applies to the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for paragraph (1) there were substituted—
+
+  > (1) A person shall not be entitled to rate relief while he is a person to whom this section applies.
+
+  ;
+- (b) as if paragraphs (2), (5), (7) and (8) were omitted;
+- (c) as if for paragraph (6) there were substituted—
+
+  > (6) In relation to rate relief “prescribed” means prescribed by regulations made by the Department of Finance and Personnel.
+
+  .
+
+#### 13. Modification of the Social Security (Immigration and Asylum) Consequential Amendments Regulations[^key-5fa83c37bc4117ab3c837b806ed6fc62]
+
+Regulation 2 of and Part I of the Schedule to the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^f00011] shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if in regulation 2—
+  - (i) in paragraph (1) for “income-based jobseeker’s allowance, income support, a social fund payment or housing benefit under the Contributions and Benefits Act, as the case may be,” there were substituted “rate relief”;
+  - (ii) paragraphs (2), (3), (4)(b), (5) were omitted;
+  - (iii) in paragraph (4)(a) for “income support, a social fund payment or housing benefit under the Contributions and Benefits Act, as the case may be,” there were substituted “rate relief”;
+  - (iv) in paragraph (6)—
+    - (aa) for “housing benefit or a social fund payment under the Contributions and Benefits Act, as the case may be,” there were substituted “rate relief”;
+    - (bb) after “regulation 11(4)” there were inserted “of the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000”;
+- (b) as if in Part I of the Schedule for the title there were substituted “Persons not excluded from rate relief under section 115 of the Immigration and Asylum Act 1999”.
+
+## PART 3 — Payments in respect of a hereditament
+
+### 14. Modification of Part III[^key-190882df022bbf12479cf0762a6f84f1]
+
+Part III of the Housing Benefit (State Pension Credit) Regulations (payments in respect of a dwelling) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (b) as if for “housing benefit” and “that benefit”, wherever they occur, there were substituted “rate relief”;
+- (c) as if for “benefit week” and “benefit weeks”, wherever they occur, there were substituted “rate relief week” and “rate relief weeks” respectively;
+- (d) as if for regulation 11 (eligible housing costs) there were substituted—
+
+  > **11.** Rate relief shall be payable in respect of the payments specified in regulation 12(1) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 14 and a claimant’s maximum rate relief shall be calculated under Part VII of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21 by reference to the amount of his eligible rates determined in accordance with regulation 12(3) of the Housing Benefit Regulations as applied with modifications by regulation 14.
+
+  ;
+- (e) as if in regulation 12 (rates)—
+  - (i) in paragraph (1) “in the form of a rate rebate” were omitted;
+  - (ii) in paragraph (2) after “regulation 13(1)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations”;
+  - (iii) in paragraph (6) after “Housing Benefit Regulations” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 21 of those Regulations”;
+- (f) as if regulations 13 to 16 and Schedules 1 to 3 were omitted.
+
+## PART 4 — Membership of a family
+
+### 15. Modification of the Act[^key-0a8b991e8432c3ce5de42aa9ad5166f7]
+
+Sections 133(1) and 138 of the Act shall apply for the purposes of these Regulations they apply for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if in section 133(1) the following definitions were omitted—
+  - (i) “dwelling”;
+  - (ii) “income-based jobseeker’s allowance”;
+  - (iii) “industrial injuries regulations”;
+  - (iv) “war pension scheme”;
+- (b) as if in section 138 for “the Department” there were substituted “the Department of Finance and Personnel”.
+
+### 16. Modification of Part IV[^key-f4c35f062f118c1fa143e759a3de1871]
+
+Part IV of the Housing Benefit (State Pension Credit) Regulations (membership of a family) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “benefit week”, wherever it occurs, there were substituted “rate relief week”;
+- (b) as if in regulation 17(1) and (3)—
+  - (i) after “section 133(1) of the Act” and “section 138 of the Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 15”;
+  - (ii) “as it applies to housing benefit” were omitted;
+- (c) as if in regulation 17(3) for “that Act” there were substituted “the Act”;
+- (d) as if in regulation 18(1) after “regulation 17(3)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 16”;
+- (e) as if in regulation 19(1) after “regulation 18” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 16”.
+
+## PART 5 — Applicable amounts
+
+### 17. Modification of Part V and Schedule 4[^key-d583220a6d75ddbbb3a1fff6cd79e753]
+
+(1) Part V of the Housing Benefit (State Pension Credit) Regulations (applicable amounts) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications as if in regulation 20—
+
+- (a) after “Schedule A1” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulations 11 and 23”;
+- (b) after Schedule 4” and “that Schedule”, wherever they occur, there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”.
+
+(2) Schedule 4 to the Housing Benefit (State Pension Credit) Regulations (applicable amounts) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if after “this Part”, wherever it occurs, there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”;
+- (b) as if in Part I in paragraphs 1 and 2 after “regulation 20” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”;
+- (c) as if in Part I in paragraph 1[^f00012] in Column (2) (amount) for each amount (“Column 2 amount”) there were substituted an amount equivalent to the total of each Column 2 amount increased—
+  - (i)[^M_F_38238fe2-e06d-4d4b-b9d8-5e68ffa153db] for a person to whom sub-paragraph (1) applies, by 15%;
+  - (ii)[^key-34d3d073ffa140124c4233c2289078c9] for a person to whom sub-paragraph (2), (4) or (5) applies, by 10%,
+
+  and in each case where the resultant figure is not a whole penny it shall be rounded to the nearest penny and 0.5 of a penny shall be rounded up;
+- (d) as if—
+  - (i) in Part II in paragraph 3(1) after “and (d)”;
+  - (ii) in Part III in paragraph 4 after “regulation 20(1)(e)”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17” ;[^M_F_9ec53157-306a-492e-f4a3-7ba38888ed05]
+- (e)[^M_F_c3a27d03-61a3-4088-c6db-b87b4add1d7b] as if in Part IV in paragraph 12(4) for the amount specified in Column 2 there were substituted an amount equivalent to the amount increased by 20% and where the resultant figure is not a whole penny it shall be rounded to the nearest penny and 0.5 of a penny shall be rounded up.
+
+## PART 6 — Assessment of income and capital
+
+### 18. Modification of the Act[^key-9a04eb118bc5e242fbf307ffdb53fefe]
+
+Section 132(1) of the Act shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modification as if for “an income-related benefit” there were substituted “rate relief”.
+
+### 19. Modification of Part VI and Schedules 5, 6 and 7[^key-954e76935971aeaa158ff9de7a85d914]
+
+(1) Part VI of the Housing Benefit (State Pension Credit) Regulations (income and capital) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if after “this Part” wherever it occurs there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (b) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (c) as if for “benefit week” and “benefit weeks”, wherever they occur except in regulation 46(4)(b) and (c), there were substituted “rate relief week” and “rate relief weeks” respectively;
+- (d) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (e) as if in regulation 21(1) for “section 132(1) of the Act” there were substituted “regulation 18 of these Regulations”;
+- (f) as if in regulation 25—
+  - (i) for “Department”, wherever it occurs, there were substituted “Department for Social Development”;
+  - (ii) in paragraph (4)—
+    - (aa) in sub-paragraph (b) after “regulation 28(1)(c)”;
+    - (bb) in sub-paragraph (f) after “regulation 22”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (iii) in paragraph (4)—
+    - (aa) in sub-paragraph (d) after “Schedule 5”;
+    - (bb) in sub-paragraph (g) after “Schedule 6”,
+
+    there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (iv) in paragraph (4)(e) after “regulation 19” regulation 16 there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 16”;
+  - (v) in—
+    - (aa) paragraph (5) after “to 47”;
+    - (bb) paragraph (6) after “regulation 41”;
+    - (cc) in paragraph (7) after “to 47”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (vi)[^M_F_e843850e-d9c4-4141-d748-726b5bf5a7a9] in paragraphs (6), (8)(a) and (b), for “£16,000” there were substituted “£50,000”;
+- (g) as if in regulation 26—
+  - (i) after “nor 25”;
+  - (ii) after “to 47”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (h)[^M_F_b8e5aeb3-01d6-41fd-ed7f-c152d4d5ed6d] as if in regulation 27—
+  - (i) in—
+    - (aa) paragraph (1)(g) after “Schedule 7” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+    - (bb) paragraph (2) after “regulation 42(2)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (ii) in paragraph (1) after sub-paragraph (h) there were inserted—
+
+    > - (ha) any payment of rate relief,
+
+    ;
+- (i) as if in regulation 28(1)—
+  - (i) after “regulations 32, 59 and 60” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulations 19 and 23”;
+  - (ii) for “section 129(1)(c) of the Act (conditions of entitlement to housing benefit)” there were substituted “regulation 7 of these Regulations (entitlement to rate relief)”;
+  - (iii) in—
+    - (aa) sub-paragraph (b) after “regulation 27(2)”;
+    - (bb) sub-paragraph (c) after “regulation 29”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (j) as if in regulation 29—
+  - (i) in paragraph (7)(b) after “regulation 18” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 16”;
+  - (ii) in paragraph (11)—
+    - (aa) in sub-paragraph (b)(i) after “Housing Benefit Regulations” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 17 of those Regulations”;
+    - (bb) in sub-paragraph (e) after “regulation 20(2)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”;
+- (k) as if in regulation 31—
+  - (i) in—
+    - (aa) paragraph (8) after “Schedule 5”;
+    - (bb) in paragraph (9) after “Schedule 6”;
+    - (cc) in paragraph (10) after “Schedule 7”,
+
+    there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (ii) in paragraph (10) after “regulation 27(2)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (l) as if in regulation 34—
+  - (i) in—
+    - (aa) paragraph (1) after “regulation 28” and “regulation 31(5)”;
+    - (bb) paragraph (2) after “regulation 31(5)”;
+    - (cc) paragraph (5) after “regulation 31(2)(b)”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (ii) in paragraph (1) after “Schedule 5” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (m) as if—
+  - (i) in regulation 37—
+    - (aa) in paragraph (1) after “regulation 28”;
+    - (bb) in paragraphs (1)(b)(i), (2)(b) and (8)(a) after “regulation 38”;
+  - (ii) in regulation 38—
+    - (aa) in paragraph (1) after “or (8)(a)(i)”;
+    - (bb) in paragraph (2) after “or (8)(a)(ii)”;
+    - (cc) in paragraph (3)(a) after “regulation 37”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (n) as if in regulation 39—
+  - (i) in paragraph (8) for “that benefit” there were substituted “rate relief”;
+  - (ii) in paragraph (11) —
+    - (aa) “(other than housing benefit)” were omitted;
+    - (bb) in sub-paragraph (a) “rent or, as the case may be,” were omitted and for “regulation 59(2)(b) or (c) or, as the case maybe, (3)(b) or (c)” there were substituted “regulation 59(3)(b) or (c) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (iii) in paragraph (12) after “regulation 25(1)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (o) as if for regulation 41 there were substituted—
+
+  > **41.** (1) A person shall not be entitled to rate relief if his capital exceeds the prescribed amount.
+  >
+  > (2) For the purposes of paragraph (1) the prescribed amount is £50,000[^M_F_b3a82efc-802c-4b4c-c394-3ed0f82577f1].
+
+  ;
+- (p) as if in regulation 42—
+  - (i) in paragraph (1) for “Part VII of the Act (income related benefits) as it applies to housing benefit” there were substituted “these Regulations”;
+  - (ii) in paragraph (2) after “Schedule 7” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (q) as if in regulation 45—
+  - (i) in paragraph (1) for “that benefit” there were substituted “rate relief”;
+  - (ii) in—
+    - (aa) paragraph (1) after “regulation 46”;
+    - (bb) paragraph (3) after “regulation 42”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (r) as if in regulation 46—
+  - (i) in paragraphs (1), (2)(b), (4), (6)(a)(i) and (b) and (8) after “regulation 45(1)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+  - (ii) in paragraph (3) after sub-paragraph (d)[^M_F_7b05d369-79b0-489d-a8bf-c5304daaf15e] for “.” there were substituted “; and” and—
+
+    > - (e) where the claimant has also claimed housing benefit, the amount of housing benefit to which he would have been entitled in respect of the rate relief week to which paragraph (2) refers but for the application of regulation 45(1) of the Housing Benefit (State Pension Credit) Regulations (notional capital) as applied with modifications for the purposes of these Regulations by regulation 19.
+
+    ;
+  - (iii) in paragraph (4)—
+    - (aa) in sub-paragraph (a) after “regulation 59(4)(a)” there were inserted “of the Housing Benefit Regulations applied with modifications for the purposes of these Regulations by regulation 23”;
+    - (bb) after sub-paragraph (d)[^M_F_1deb98b3-192c-4bb4-d7f0-4922964aea5d] for “.” there were substituted “; and” and—
+
+      > - (e) if the claimant would, but for regulation 45(1) of the Housing Benefit (State Pension Credit) Regulations, have been entitled to housing benefit in respect of the benefit week, within the meaning of regulation 2(1) of those Regulations (interpretation), which includes the last day of the relevant week, the amount to which he would have been entitled and, for the purposes of this sub-paragraph, if the amount is in respect of a part-week, that amount shall be determined by dividing the amount of the Housing Benefit to which he would have been entitled by the number equal to the number of days in the part-week and multiplying the quotient so obtained by 7.
+
+      ;
+- (s) as if in regulation 47(1) after “regulation 45(3)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”.
+
+(2) Schedule 5 to the Housing Benefit (State Pension Credit) Regulations (sums disregarded in the calculation of earnings) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if in paragraphs 4(3) and 9(2)(b)(ii)(bb)after “Schedule 4” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”;
+- (c)[^M_F_a4a178a1-2cce-4a46-f2bf-0aa4d86ac8d7] as if—
+  - (i) in paragraph 5A(1)(c) after “regulation 24”;
+  - (ii) in paragraph 5A(3) after “regulation 21”;
+  - (iii) in paragraph 8 after “regulation 31(8)(b)”;
+  - (iv) in paragraph 9(3)(b) after “regulation 28(1)(c)”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation
+
+  19”;
+- (d)[^M_F_fe960bf6-8c18-4b07-f2e4-c0aab58edc8b] as if in paragraph 6 after “Schedule 6” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (e) as if in paragraph 9(4) after “regulation 6” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 3”.
+
+(3) Schedule 6 to the Housing Benefit (State Pension Credit) Regulations (amounts to be disregarded in the calculation of income other than earnings) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (c) as if in paragraph 13(4) after “regulation 53” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (d) as if—
+  - (i) in paragraph 22 after “Schedule 5”;
+  - (ii) in paragraph 23 after “Schedule 7”;
+  - (iii) in paragraph 25 after “Schedule 7”,
+
+  there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (e)[^M_F_90e2c342-8ad2-4df4-d14b-678ada5f74ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Schedule 7 to the Housing Benefit (State Pension Credit) Regulations (capital to be disregarded) shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs except in paragraph 21(2), there were substituted “rate relief”;
+- (b) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (c) as if in paragraph 21(1)(a), (b) and (c) after “benefit” there were inserted “or rate relief”;
+- (d) as if in paragraph 22—
+  - (i) after “relevant benefit” there were inserted “or rate relief”;
+  - (ii) after “entitled to benefit” there were inserted “or rate relief”;
+  - (iii) after “Housing Benefit Regulations” there were inserted “or the Rate Relief (General) Regulations (Northern Ireland) 2007”.
+
+### 20. Notional entitlement to housing benefit[^key-2e01d4ece8a033c2a73c6e8e7cc48b2b]
+
+Where a person has not made a claim for housing benefit, the relevant authority shall assess what the amount of his entitlement to housing benefit in the form of a rate rebate (“notional amount”) would be were he to make such a claim and an amount equivalent to that notional amount shall be taken into account in full as housing benefit when assessing entitlement to rate relief in accordance with regulation 22 (calculation of weekly amount of rate relief).
+
+## PART 7 — Amount of rate relief
+
+### 21. Modification of Part VII and Schedule 8[^key-f4478523c67472ce586aa0a593bcb0bc]
+
+(1) Part VII of the Housing Benefit (State Pension Credit) Regulations (amount of benefit) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “benefit week”, wherever it occurs, there were substituted “rate relief week”;
+- (c) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (d)[^M_F_6db7afd9-9b07-4ad1-8e7a-64974d727829] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) as if in regulation 48—
+  - (i) paragraph (a) were omitted;
+  - (ii) in paragraph (b) for “those regulations” there were substituted “regulations 59 and 60 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+- (f) as if regulation 49 were omitted;
+- (g)[^M_F_c334474e-a6b7-4bce-b7ff-0e11a4f69386] as if in regulation 50—
+  - (i) in paragraph (1)(a) for “of those Regulations” there were substituted “as applied with modifications for the purposes of those Regulations by regulation 22 of the Rate Relief (General) Regulations (Northern Ireland) 2007”;
+  - (ii) in paragraph (2)(a) after “of those Regulations” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 22 of those Regulations”;
+  - (iii) in paragraph (2)(b) and (c) after “71” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 22 of those Regulations”;
+- (h)[^M_F_6b485015-3850-4f91-d44d-e43b8873874b] as if in regulation 51A(3)(b) “rent or” were omitted
+- (ha)[^M_F_10a93c44-c9e9-4953-c3ae-fa46d2607e3b] as if in regulation 51B—
+  - (i) in paragraph (1) after “51”, wherever it occurs, there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 21”;
+  - (ii) in paragraph (2) “rent and”, wherever it occurs, is omitted;
+  - (iii) in paragraph (3)(a) after “51(2)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 21”;
+  - (iv) in paragraph (3)(b) “rent or” were omitted and after “59(4)(c)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 23”;
+  - (v) in paragraph (4)(a) after “7(6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 11”;
+  - (vi) in paragraph (4)(b) “rent or” were omitted;
+  - (vii) in paragraph (5) “rent and” were omitted and after “60(1)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 23”;
+- (hb) as if in regulation 51C—
+  - (i) in paragraph (1) after “51(1)(b)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+  - (ii) in paragraph (2) after “51B(1)(a)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (i) as if regulation 52—
+  - (i) in paragraph (2) for “Department” there were substituted “Department for Social Development”;
+  - (ii) in paragraph (6) after “regulation 48” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (j) as if in regulation 53—
+  - (i) in paragraph (1)—
+    - (aa) after “regulation 48” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+    - (bb) sub-paragraph (a)(i) and (b)(i) were omitted;
+    - (cc) in sub-paragraphs (a)(ii) and (b)(ii) for “a rate rebate” there were substituted “rate relief”;
+  - (ii) in paragraph (2)—
+    - (aa) sub-paragraphs (a) to (e) were omitted;
+    - (bb) in sub-paragraphs (f) to (h) for “a rate rebate” there were substituted “rate relief”;
+  - (iii) in paragraph 6(a) after “Schedule 4” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 17”;
+  - (iv) in paragraph 7(f) after “regulation 7” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (v) in paragraph (8)—
+    - (aa) sub-paragraph (a) were omitted;
+    - (bb) in sub-paragraph (b) for “rate rebate” there were substituted “rate relief”;
+  - (vi) in paragraph 10(b) and (c)—
+    - (aa) after “regulation 37 of the Housing Benefit Regulations”;
+    - (bb) after “Schedule 6 to those Regulations”,
+
+    there were inserted “as applied with modification for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 19 of those Regulations”;
+- (k) as if regulation 54 were omitted.
+
+(2)[^M_F_d469b947-b5c8-415c-cbb1-d3e88fc487c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Calculation of weekly amounts and changes of circumstances
+
+### 22. Calculation of weekly amount of rate relief[^key-6b79485c3f4b155779e1dcad9e267fba]
+
+(1) For the purposes of Article 30A of the principal Order the amount of a person’s rate relief in any rate relief week shall be calculated by applying the formula (“the rate relief formula”)—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2007/203)
+
+where—
+
+- *M* is the weekly amount of maximum rate relief;
+- *E* is 12 per cent of the weekly amount of excess of income;
+- *HB* is the weekly amount of housing benefit entitlement;
+- *RR* is the weekly amount of rate relief entitlement.
+
+(2) In this regulation—
+
+- “applicable amount” means the applicable amount as calculated under Part 5 (applicable amounts);
+- “excess of income” means the resultant figure after the deduction of a person’s income from his applicable amount;
+- “housing benefit entitlement” means that amount of housing benefit determined in accordance with Part VIII of the Housing Benefit (State Pension Credit) Regulations but only in so far as it relates to a rate rebate, or as the case may be, an amount equivalent to the amount of notional entitlement as calculated under regulation 20 (notional entitlement to housing benefit); arrears of housing benefit shall be disregarded in full for the purposes of these Regulations;
+- “income” means income as calculated under Part 6 (income and capital);
+- “maximum rate relief” means the maximum rate relief amount as calculated under regulation 21(1)(e) (maximum rate relief).
+
+(3) Where the result of the rate relief formula is zero or a negative amount there shall be no entitlement to a payment of rate relief.
+
+### 23. Modification of Part VIII[^key-3fff3e370c7e0e9ca5d9dfd4d027c986]
+
+Part VIII of the Housing Benefit (State Pension Credit) Regulations (calculation of weekly amounts and changes of circumstances) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “dwelling” and “dwellings”, wherever they occur, there were substituted “hereditament” and “hereditaments” respectively;
+- (b) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (c) as if for “benefit week” and “benefit weeks”, wherever they occur, there were substituted “rate relief week” and “rate relief weeks” respectively;
+- (d) as if in regulation 55—
+  - (i) in paragraph (1) for “that benefit” there were substituted “rate relief”;
+  - (ii) paragraph (2)(b) were omitted;
+- (e) as if in regulation 57—
+  - (i) in paragraph (1)—
+    - (aa) after “regulation 32” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+    - (bb) after “Appeals Regulations” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+    - (cc) after “regulation 59(6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (ii) in paragraphs (2) and (3) after “Appeals Regulations” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+  - (iii) in paragraphs (3) and (4) after “regulation 7(6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (iv) in paragraph (5)—
+    - (aa) after “regulation 59(6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+    - (bb) in sub-paragraph (a)(i) for “rent” there were substituted “rates”;
+    - (cc) in sub-paragraph (a)(i) for “59(2)(b) or (c)” there were substituted “59(3)(b) or (c) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (v) in paragraph (10) the words from “except in a case” to the end of that paragraph were omitted;
+  - (vi) in paragraph (11) after “or (10)” there were inserted of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (vii) in paragraph (12) after “regulation 53” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (f) as if in regulation 58—
+  - (i) for “Department”, wherever it occurs, there were substituted “Department for Social Development”;
+  - (ii) in paragraph (8) after “regulation 52” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+  - (iii) in paragraph (9)—
+    - (aa) after “regulation 59(6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+    - (bb) sub-paragraph (a)(i) were omitted;
+    - (cc) in sub-paragraph (a)(ii) “in any other case,” were omitted;
+  - (iv) in paragraph (10) after “regulation 25(1)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (g) as if in regulation 59—
+  - (i) “rent or”, wherever it occurs, were omitted;
+  - (ii) paragraph 2 were omitted;
+  - (iii) in paragraph (3)(a) for “paragraph (2)” there were substituted “regulation 59(2) of the Housing Benefit Regulations”;
+  - (iv) in paragraph (4)—
+    - (aa) in sub-paragraph (a) after “regulation 55(2)”;
+    - (bb) in sub-paragraph (b) after “or (11)”;
+    - (cc) in sub-paragraph (c) after “57(2)” and “57(3)”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (v) in paragraph (5) after “Parts V to VII” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulations 17, 19 and 21”;
+  - (vi)[^M_F_b3e23c6b-5459-422e-c95f-981325fb21a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii) in paragraph (9) “(2) or” were omitted;
+  - (viii) in paragraph (10)—
+    - (aa) for “benefit” there were substituted “rate relief”;
+    - (bb) after “regulation 7(6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+- (h) as if in regulation 60—
+  - (i) in the heading “Rent and” were omitted;
+  - (ii) for “rent-free”, wherever it occurs, there were substituted “rate-free”;
+  - (iii) in paragraph (1)—
+    - (aa) “to pay rent or” and “made together with rent” were omitted;
+    - (bb) after “regulation 8(1)(d)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (iv) in paragraph (2)—
+    - (aa) for “rent” there were substituted “rates”;
+    - (bb) after “regulation 59(4)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (v) in paragraph (3)(a)—
+    - (aa) for “59(2)(a)” there were substituted “59(3)(a) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+    - (bb) for “rent” there were substituted “rates”;
+  - (vi) in paragraph (3)(b)—
+    - (aa) for “59(2)(b) or (c)” there were substituted “59(3)(b) or (c) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+    - (bb) for “rent” there were substituted “rates”;
+  - (vii) in paragraph (4)—
+    - (aa) after “or (6)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+    - (bb) for “rent-free” there were substituted “rate-free”;
+    - (cc) “rent or” were omitted.
+
+### 24. Date on which entitlement is to commence[^key-a4df53d81051f513418af1a4f0fde0d9]
+
+A person who makes a claim within one month of his receipt of a decision on his claim to housing benefit and he is entitled to rate relief he shall be entitled to that rate relief from the rate relief week corresponding to the benefit week from which he is entitled to housing benefit.
+
+## PART 9 — Claims
+
+### 25. Modification of Part IX and Schedule 10[^key-4a0db3ece7328ae931f8a30c461bcd15]
+
+(1) Part IX of the Housing Benefit (State Pension Credit)[^M_F_3b817aae-9c81-4466-d19d-d74b854baf87] Regulations[^f00013] (claims) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “benefit week”, wherever it occurs, there were substituted “rate relief week”;
+- (c) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (d)[^M_F_c8a8a2cf-b303-426a-ad10-2e51bdfe5b96] as if in regulation 62—
+  - (i) in paragraphs (5B) to (5G) for “the Department” there were substituted “the Department for Social Development”;
+  - (ii)[^M_F_9cef7a27-83ae-408e-d828-c11dbe49b8a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) in paragraph (11) for “award benefit” there were substituted “award rate relief”;
+- (e) as if in regulation 62A after “Schedule 10” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (f) as if in regulation 63—
+  - (i) in paragraph (1) after “Schedule A1 (treatment of claims for housing benefit by refugees)” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+  - (ii) in paragraph 3(a) and (b) after “regulation 65” there were inserted “ of the Housing Benefit (State Pension Credit) Regulations as applied with modification for the purposes of these Regulations by regulation 25”;
+  - (iii) in paragraph (4)(a)(i) and (b) after “Housing Benefit Regulations” and “those Regulations” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 19 of those Regulations”;
+  - (iv) in paragraph (4)(c) after “or (c)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (g) as if—
+  - (i)[^M_F_46fbc192-50db-466e-f680-1a64989b2701] in regulation 64(2) and (5) after “regulation 62”;
+  - (ii) in regulation 65(1)(a) after “regulation 62”;
+  - (iii) in regulation 65A after “regulation 65”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25;”;
+- (gg)[^M_F_a132503d-3d29-4ed3-a36d-84f5fc9d5054] as if in regulation 65(5)(b) for “£16,000” there were substituted “£50,000”;
+- (h) as if in regulation 65(5)(c)—
+  - (i) in head (i) after “regulation 22”;
+  - (ii) in head (ii) after “regulation 25(4)(e)”,
+
+  there were inserted “ of the Housing Benefit (State Pension Credit) Regulations as applied with modification for the purposes of these Regulations by regulation 19”;
+- (i) as if in regulation 65A after “Schedule 10” there were inserted “to the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 25”.
+
+(2) Schedule 10 to the Housing Benefit (State Pension Credit) Regulations[^f00014] (electronic communication) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modification as if in paragraph 2(1) for “housing benefit” there were substituted “rate relief”.
+
+### 26. Making a claim for rate relief[^key-647d1b3b53908ca0b4f6585045301381]
+
+Subject to regulation 25(2), every claim for rate relief shall be made in writing on a form approved by the Department for the purpose of rate relief, or in such other manner, being in writing, as the Department may accept as sufficient in the circumstances of any particular case.
+
+### 27. Claims in advance for rate relief[^key-b5c3f4bb1144c280ea71d69b8d6e56c9]
+
+Where a claim is received by a relevant authority prior to 1st April 2007 it shall be treated as having been made on 1st April 2007.
+
+### 28. Entitlement dependent on claim[^key-2b44866f96cfd09038276b69baedfcd4]
+
+Entitlement to a payment of rate relief shall be dependent upon a claim for rate relief being made in accordance with the provisions of these Regulations.
+
+## PART 10 — Decisions on questions
+
+### 29. Modification of Part X and Schedule 9[^key-35fbc42aaf71b577de40b8e60bffc1c9]
+
+(1) Part X of the Housing Benefit (State Pension Credit) Regulations (decisions on questions) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a)[^M_F_b61ac020-00ae-46f0-c1d8-4eeb8937c913] as if in regulation 66(2) after “and 63” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 25”;
+- (b) as if in regulation 67(1) after “Schedule 9” there were inserted “to the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 29”.
+
+(2) Schedule 9 to the Housing Benefit (State Pension Credit) Regulations (matters to be included in decision notice) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit” and “rate rebate”, wherever they occur, there were substituted “rate relief”;
+- (b) as if after “Decisions and Appeal Regulations”, wherever it occurs, there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+- (c) as if—
+  - (i) in paragraph 1 after “regulation 67”;
+  - (ii) in paragraph 2 after “regulation 67(2)”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 29”;
+- (d) as if in paragraph 7 “II,” were omitted;
+- (e) as if in paragraph 9—
+  - (i) in sub-paragraph (1)—
+    - (aa) heads (b), (c) and (f) were omitted;
+    - (bb) in head (d) “after regulation 53” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+    - (cc) in head (e) for “rent allowance, or rent rebate or rate rebate, as the case may be,” there were substituted “rate relief”;
+    - (dd) in head (g) for “an allowance or rebate” there were substituted “rate relief”;
+    - (ee) in head (h) after “regulation 65” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+  - (ii) in sub-paragraph (2)—
+    - (aa) in head (c) for “Department” there were substituted “Department for Social Development”;
+    - (bb) in head (d) after “regulation 25” and in sub-paragraph (e) after “regulation 25(7)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (iii)[^M_F_09b908bd-9980-4e31-83fe-3b8454ec919d] in sub-paragraph (3) after “regulation 51” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these regulations by regulation 21”;
+- (iii)[^M_F_708359bb-df79-43a0-8acb-a64129252e6b] in sub-paragraph (3) after “51” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 21”;
+- (f) as if—
+  - (i) in paragraph 11 after “regulation 73 or 74”;
+  - (ii) in paragraph 12 after “regulation 73”,
+
+  there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+- (g) as if in paragraph 13 after “regulation 22” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 19”;
+- (h) if in paragraph 14(1)(a)—
+  - (i) for the words from “either” to “regulation 54,” there were substituted “on grounds of income”;
+  - (ii) for sub-head (i) there were substituted—
+
+    > - (i) the matters set out in paragraph 9(a) and (d);
+
+    ;
+  - (iii) sub-head (iii) were omitted;
+- (i) as if in paragraph 15—
+  - (i) in sub-paragraph (1) after “regulation 78” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”;
+  - (ii) in sub-paragraph (1)(e) for “benefit weeks” there were substituted “rate relief weeks”;
+  - (iii) in sub-paragraph (1)(f) for the words from “a rent allowance” to “case may be,” there were substituted “rate relief”;
+  - (iv) in sub-paragraph (2)(c) for “rent allowance” there were substituted “rate relief”.
+
+## PART 11 — Payments
+
+### 30. Modification of Part XI[^key-cc71607c773f75379c2a52e22a803a88]
+
+Part XI of the Housing Benefit (State Pension Credit) Regulations (payments) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the modifications set out in the following paragraphs—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (c)[^M_F_c185fbe7-19bd-41d3-96d4-80f4e10f2448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) as if in regulation 68—
+  - (i) in paragraph (1)—
+    - (aa) for “70 to 76” there were substituted “72 to 76 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (bb) in sub-paragraph (a) “rent or” were omitted;
+  - (ii) in paragraph (2) for “that benefit” there were substituted “rate relief”;
+  - (iii) in paragraph (3) for “70 to 75” there were substituted “72 to 75 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+- (e) as if regulations 69, 70 and 71 were omitted;
+- (f) as if in regulation 72—
+  - (i) paragraphs (1) and (3) were omitted;
+  - (ii) in paragraph (2)—
+    - (aa) for “rent allowance or rate rebate” there were substituted “rate relief”;
+    - (bb) after “or (5)” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (g) as if in regulation 73—
+  - (i) in paragraph (1)—
+    - (aa) after “Schedule A1” there were inserted “to the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+    - (bb) for “rent allowance or rate rebate” there were substituted “rate relief”;
+    - (cc) “rent or” were omitted;
+    - (dd) for “allowance or rebate” there were substituted “rate relief”;
+    - (ee) in sub-paragraph (b) “rent or” were omitted;
+  - (ii) in paragraph (2)—
+    - (aa) for “rent allowance”, in each place where it occurs, there were substituted “rate relief”;
+    - (bb) after “regulation 74” there shall be inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (cc) “rent or” and “or both” shall be omitted;
+  - (iia)[^M_F_18da27fd-8331-496e-880c-c803a0e9926f] as if paragraph (2A) were omitted;
+  - (iii) in paragraph (3) for “rate rebate” there were substituted “rate relief”;
+  - (iv) in paragraph (4) for “rent allowance or rate rebate” there were substituted “rate relief”;
+- (h) as if in regulation 74—
+  - (i) in paragraph (1)—
+    - (aa) after “Schedule A1” there were inserted “to the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 11”;
+    - (bb) after “regulation 73” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (cc) for “a rent allowance or rate rebate” there were substituted “rate relief”;
+    - (dd) in sub-paragraph (c) for “allowance or rebate” there were substituted “rate relief”, “rent or” were omitted and for “of rent” there were substituted “of rates”;
+  - (ii) paragraph (2) were omitted;
+  - (iii) in paragraph (3) for “rent allowance or rate rebate” there were substituted “rate relief”;
+  - (iv) in paragraph (4)—
+    - (aa) “or (2)” were omitted;
+    - (bb) for “a rate rebate” there were substituted “rate relief”;
+  - (v) in paragraph (5) after “regulation 73” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+- (i) as if in regulation 75—
+  - (i) in paragraph (3) for “benefit” there were substituted “rate relief”;
+  - (ii) in paragraph (5)—
+    - (aa) for “a rent allowance or rate rebate” and “allowance or rebate” there were substituted “rate relief”;
+    - (bb) after “or 74[^M_F_4b9f90d4-5188-465c-cc19-bf4153813eed]” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (cc) “rent or” were omitted;
+- (j) as if in regulation 76—
+  - (i) in paragraph (2) after “regulation 82(1)”;
+  - (ii) in paragraph (3) after “regulation 77”,
+
+    there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”.
+
+## PART 12 — Overpayments
+
+### 31. Application of section 73 of the Administration Act[^key-cc6f8ee37c9b3998727db0ef2d14f1a6]
+
+Section 73(1), (2), (3)(a) and (b) and (7) of the Administration Act shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) for “housing benefit” there were substituted “rate relief”;
+- (b) in paragraph (1) for “by the Department, the Department of the Environment or by the Housing Executive” there were substituted “the relevant authority”;
+- (c) paragraph (2) for “the Department of the Environment or the Housing Executive” there were substituted “the relevant authority”.
+
+### 32. Modification of Part XII[^key-d455c7d865411690e0562ece52895445]
+
+Part XII of the Housing Benefit (State Pension Credit) Regulations (overpayments) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “benefit week” and “benefit weeks”, wherever they occur, there were substituted “rate relief week” and “rate relief weeks” respectively;
+- (c) as if for “dwelling”, wherever it occurs, there were substituted “hereditament”;
+- (d) as if in regulation 77—
+  - (i) after “this Part” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”;
+  - (ii) for “rebate” there were substituted “rate relief”;
+  - (iii) for the words from “and includes” to “decided” were omitted;
+- (e) as if in regulation 78—
+  - (i) paragraph (3)(c) and (d) were omitted;
+  - (ii) in paragraph (4) for “rent rebate or rate rebate or both” and, in both places where it occurs, “benefit” there were substituted “rate relief”;
+- (f) as if in regulation 79—
+  - (i) in paragraph (1)—
+    - (aa) after “Administration Act” there were inserted “ as applied with modifications for the purposes of these Regulations by regulation 31”;
+    - (bb) in sub-paragraph (a) after “or 74” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (cc) in sub-paragraph (d)(i) for “section 105A or 106(1) of the Administration Act (dishonest or false representations for obtaining benefit)” there were substituted “regulation 48 of these Regulations”;
+    - (dd) in sub-paragraph (d)(ii) after “regulation 65” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+  - (ii) in paragraph (2) after “Administration Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 31”;
+  - (iia)[^M_F_e6d5b146-0301-47b9-8fec-1f0d363334a4] as if paragraph (2A) were omitted;
+  - (iii)[^M_F_77ed95dd-7595-4ec6-accb-a501b85c71e8] as if for paragraph (3) there were substituted—
+
+    > (3) For the purposes of paragraph (1), “landlord” shall have the same meaning as it has for the purposes of regulation 73 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30.
+
+    ;
+  - (iv) in paragraph (4) after “regulation 78(3)” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”;
+- (g) as if regulation 80—
+  - (i) in paragraph (1)—
+    - (aa) after “regulation 79” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”;
+    - (bb) after “regulation 76” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (cc) the words from “or, where” to “regulation 83” were omitted;
+  - (ia)[^M_F_0e9683c3-7064-4c2d-c83e-4de9f75d3395] in paragraph (1A) there were omitted “or where it is unable to do so, may request the Department to recover any recoverable overpayment from the benefits prescribed in regulation 83(2A),”;
+  - (ii) paragraphs (3), (4), (5), (7) and (8) were omitted;
+- (h) as if in regulation 81(1) after “regulation 78(2) there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”;
+- (i) as if in regulation 82(2)—
+  - (i) for “In the case of rent or rate rebate only, in” there were substituted “In”;
+  - (ii) “rent or” were omitted;
+- (j) as if regulation 82A, and regulations 83 to 85[^M_F_c4988d87-ab73-4bcc-d7ca-c42d584800ba] were omitted.
+
+### 33. Destination of repayments, etc.[^key-272edcc5e2698f9004f7f698867a9233]
+
+(1) Any sum recovered by, received by or repaid to a relevant authority under or by virtue of any provision of these Regulations shall be paid into the Consolidated Fund of Northern Ireland.
+
+(2) All penalties recovered by or for a relevant authority under or by virtue of any provision of these Regulations shall be paid into the Consolidated Fund of Northern Ireland.
+
+## PART 13 — Supply of Information
+
+### 34. Supply of information[^key-70959722f250f20e3ce33cd89a0f4410]
+
+Where information or evidence relating to a rate relief claim has been received at an office of a relevant authority that is not the appropriate office that authority shall forward the information or evidence received to the appropriate office.
+
+### 35. Sharing of information[^key-8487b5233eb504b7af22badc0fa344f3]
+
+Where information is given and evidence is gathered in relation to a claim for housing benefit that information or evidence may be used in relation to a claim for rate relief but only where the claimant has given permission, in writing, for such information or evidence to be shared.
+
+### 36. Supply of government information for fraud prevention and verification[^key-a503b98eeafe9cf971df0c5a65d735ee]
+
+(1) This regulation applies to information which is held by, or by a person providing services to, a Minister of the Crown or a Northern Ireland department or other government department and which relates to any matter relating to rate relief.
+
+(2) Information to which this regulation applies may be supplied to, or to a person providing services to, the Department—
+
+- (a) for use in the prevention, detection, investigation or prosecution of offences relating to rate relief; or
+- (b) for use in checking the accuracy of information relating to rate relief and (where appropriate) amending or supplementing such information.
+
+(3) Information supplied under paragraph (2) shall not be supplied by the recipient to any other person or body unless—
+
+- (a) it could be supplied to that person or body under paragraph (2);
+- (b) it is supplied for the purposes of any civil or criminal proceedings relating to rate relief in the principal Order; or
+- (c) it is supplied to the Executive.
+
+(4) But where information supplied under paragraph (2) has been used (in accordance with sub-paragraph (b) of that paragraph) in amending or supplementing other information, it is lawful for it to be—
+
+- (a) supplied to any person or body to whom that other information could be supplied; or
+- (b) used for any purpose for which that other information could be used.
+
+(5) This regulation does not limit the circumstances in which information may be supplied apart from this regulation.
+
+### 37. Supply of information to the Executive[^key-0987bd6b93daeb35e7a0c9c7d8cb0604]
+
+(1) This regulation applies to information relating to rate relief which is held—
+
+- (a) by the Department; or
+- (b) by a person providing services to the Department in connection with the provision of those services.
+
+(2) Information to which this regulation applies may be supplied to—
+
+- (a) the Executive; or
+- (b) a person authorised to exercise any function of the Executive relating to rate relief,
+
+for use in the administration of rate relief.
+
+(3) But where information to which this regulation applies has been supplied to the Department or the person providing services under regulation 36 it may only be supplied under paragraph (2)—
+
+- (a) for use in the prevention, detection, investigation or prosecution of offences relating to rate relief; or
+- (b) for use in checking the accuracy of information relating to rate relief and (where appropriate) amending or supplementing such information.
+
+(4) The Department—
+
+- (a) may impose conditions on the use of information supplied under paragraph (2); and
+- (b) may charge a reasonable fee in respect of the cost of supplying information under that paragraph.
+
+(5) Where information is supplied to the Executive or other person under paragraph (2), the Executive or other person shall have regard to it in the exercise of any function relating to rate relief.
+
+(6) Information supplied under paragraph (2) shall not be supplied by the recipient to any other person or body unless—
+
+- (a) it is supplied—
+  - (i) by the Executive to a person authorised to exercise any function of the Executive relating to rate relief; or
+  - (ii) by a person authorised to exercise any function of the Executive relating to rate relief to the Executive;
+- (b) it is supplied for the purposes of any civil or criminal proceedings relating to rate relief in the principal Order; or
+- (c) it is supplied under regulation 38.
+
+(7) This regulation does not limit the circumstances in which information may be supplied apart from it (in particular by reason of regulation 36(4)).
+
+(8) In this regulation and in regulations 38 and 39—
+
+- (a) any reference to a person authorised to exercise any function of the Executive relating to housing benefit shall include a reference to a person providing services to the Executive which relate to that benefit; and
+- (b) any reference to the exercise of any function relating to such a benefit shall include a reference to the provision of any services so relating.
+
+### 38. Supply of information by the Executive[^key-2ed43842eb2549d20e3d417763e5fe92]
+
+(1) The Department may require—
+
+- (a) the Executive; or
+- (b) a person authorised to exercise any function of the Executive relating to rate relief,
+
+to supply rate relief administration information held by the Executive or other person to, or to a person providing services to, the Department for use for any purpose relating to rate relief.
+
+(2) The Department may require—
+
+- (a) the Executive; or
+- (b) a person authorised to exercise any function of the Executive relating to rate relief,
+
+to supply rate relief policy information held by the Executive or other person to, or to a person providing services to, the Department.
+
+(3) Information shall be supplied under paragraph (1) or (2) in such manner and form, and in accordance with such requirements, as may be specified in directions given by the Department.
+
+(4) In paragraph (1) “rate relief administration information”, in relation to the Executive or other person, means any information which is relevant to the exercise of any function relating to rate relief by the Executive or other person.
+
+(5) In paragraph (2) “rate relief policy information” means any information which may be relevant to the Department—
+
+- (a) in preparing estimates of likely future expenditure on rate relief; or
+- (b) in developing policy relating to rate relief.
+
+### 39. Unauthorised disclosure of information relating to particular persons[^key-896af21a6b070b43769d99759b25eb6d]
+
+(1) A person who is or has been employed in rate relief administration or adjudication is guilty of an offence if he discloses without lawful authority any information which he acquired in the course of his employment and which relates to a particular person.
+
+(2) A person who is or has been employed in the audit of expenditure or the investigation of complaints is guilty of an offence if he discloses without lawful authority any information—
+
+- (a) which he acquired in the course of his employment;
+- (b) which is, or is derived from, information acquired or held by or for the purposes of any of the government departments or other bodies or persons referred to in paragraphs (10) and (11); and
+- (c) which relates to a particular person.
+
+(3) It is not an offence under this regulation—
+
+- (a) to disclose information in the form of a summary or collection of information so framed as not to enable information relating to any particular person to be ascertained from it; or
+- (b) to disclose information which has previously been disclosed to the public with lawful authority.
+
+(4) It is a defence for a person charged with an offence under this regulation to prove that at the time of the alleged offence—
+
+- (a) he believed that he was making the disclosure in question with lawful authority and had no reasonable cause to believe otherwise; or
+- (b) he believed that the information in question had previously been disclosed to the public with lawful authority and had no reasonable cause to believe otherwise.
+
+(5) A person guilty of an offence under this regulation shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both; or
+- (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(6) For the purposes of this regulation, the persons who are “employed in rate relief administration or adjudication” are—
+
+- (a) any person specified in paragraphs (10) and (11);
+- (b) any other person who carries out the administrative work of any of the government departments or other bodies or persons referred to in paragraphs (10) and (11); and
+- (c) any person who provides, or is employed in the provision of, services to any of those departments, persons or bodies;
+
+and “employment”, in relation to any such person, shall be construed accordingly.
+
+(7) For the purposes of this regulation, the persons who are “employed in the audit of expenditure or the investigation of complaints” are—
+
+- (a) the Comptroller and Auditor General for Northern Ireland;
+- (b) the Northern Ireland Parliamentary Commissioner for Administration;
+- (c) the Northern Ireland Commissioner for Complaints;
+- (d) any member of the staff of the Northern Ireland Audit Office;
+- (e) any other person who carries out the administrative work of that Office, or who provides, or is employed in the provision of, services to it; and
+- (f) any officer of any of the Commissioners or Commissions referred to in paragraphs (b) and (c);
+
+and “employment”, in relation to any such person, shall be construed accordingly.
+
+(8) For the purposes of this regulation a disclosure is to be regarded as made with lawful authority if, and only if, it is made—
+
+- (a) in accordance with his official duty—
+  - (i) by a civil servant; or
+  - (ii) by a person employed in the audit of expenditure or the investigation of complaints, who does not fall within paragraph (7)(e);
+- (b) by any other person either—
+  - (i) for the purposes of the function in the exercise of which he holds the information and without contravening any restriction duly imposed by the person responsible; or
+  - (ii) to, or in accordance with an authorisation duly given by, the person responsible;
+- (c) in accordance with any statutory provision or order of a court;
+- (d) for the purpose of instituting, or otherwise for the purposes of, any proceedings before a court or before any tribunal or other body or person referred to in paragraphs (10) and (11); or
+- (e) with the consent of the appropriate person;
+
+and in this subsection “the person responsible” means the Department, the Lord Chancellor or any person authorised by the Department or the Lord Chancellor for the purposes of this paragraph.
+
+(9) For the purposes of paragraph (8)(e), “the appropriate person” means the person to whom the information in question relates, except that if the affairs of that person are being dealt with—
+
+- (a) under a power of attorney;
+- (b) by a controller appointed under Article 101 of the Mental Health (Northern Ireland) Order 1986[^f00015] or by a receiver appointed under section 99 of the Mental Health Act 1983[^f00016];
+- (c) by a Scottish mental health custodian, that is to say a guardian or other person entitled to act on behalf of the person under the Adults with Incapacity (Scotland) Act 2000[^f00017]; or
+- (d) by a mental health appointee, that is to say—
+  - (i) a person directed or authorised as mentioned in sub-paragraph (a) of rule 38(1) of Order 109 of the Rules of the Supreme Court (Northern Ireland) 1980[^f00018] or sub-paragraph (a) of rule 41(1) of the Court of Protection Rules 1984[^f00019]; or
+  - (ii) a controller ad interim appointed under sub-paragraph (b) of the said rule 38(1) or any receiver ad interim appointed under sub-paragraph (b) of the said rule 41(1),
+
+the appropriate person is the attorney, controller, receiver or appointee, as the case may be, or, in a case falling within paragraph (a) above, the person to whom the information relates.
+
+(10) In this regulation the specified persons are—
+
+- (a) a civil servant in—
+  - (i) the Department;
+  - (ii) the Department for Social Development,
+
+  but only to the extent that the appropriate Department carries out functions relating to rate relief.
+- (b) a civil servant in the Department of Justice[^M_F_2ae51048-0810-4b69-b44d-ddd64a3f54f8] but only to the extent that the functions carried out relate to functions of the Chief Social Security Commissioner, appointed under section 50(1)(a) of the Administration Act, or any other Social Security Commissioner, appointed under section 50(1)(b) of that Act, and then only in so far as relating to rate relief.
+- (c) the following persons—
+  - (i) a member, officer or employee of the Executive;
+  - (ii) a person authorised to exercise any function of the Executive relating to rate relief or any employee of such a person;
+  - (iii) a person authorised under regulation 56 to consider and report to the Department on the administration of rate relief.
+- (d) the clerk to, or other officer or member of the staff of, an appeal tribunal constituted under Chapter I of Part II of the 1998 Order, and whose remit has been extended to hear appeals against decisions relating to rate relief.
+
+(11) In paragraph (10)—
+
+- (a) any reference to a person authorised to exercise any function of the Executive relating to rate relief shall include a reference to a person providing services to the Executive which relate to that rate relief; and
+- (b) any reference to the exercise of any function relating to such rate relief shall include a reference to the provision of any services so relating.
+
+## PART 14 — Decisions, Revisions and Appeals
+
+### 40. Modification of the 2000 Act[^key-80baa948f8849f21f87184896cf83ffd]
+
+Schedule 7 to the 2000 Act shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “benefit”, wherever it occurs except in paragraphs 13(4)(b), 16(7)(b) and 17(7)(b)(ii), there were substituted “rate relief”;
+- (c) as if in paragraph 6—
+  - (i) in sub-paragraph (1)(a) for “; or” there were substituted “.”;
+  - (ii) sub-paragraph (1)(b) were omitted;
+  - (iii) sub-paragraphs (2)(a) and (c) and (4) were omitted;
+  - (iv) after sub-paragraph (2)(b) for “; or” there were substituted “.”;
+  - (v) in sub-paragraph (6) for “section 73 of the Administration Act (overpayments of housing benefit)” there were substituted “Part 12 of these Regulations”;
+- (d) as if paragraph 8(2)(a) were omitted;
+- (e) as if in paragraph 14(3) for “section 5(1)(hh) of the Administration Act” there were substituted “regulation 45 of these Regulations”;
+- (f) as if paragraph 19(3)(b) and (c) were omitted;
+- (g) as if in paragraph 20(1)(b) the reference to the Department were a reference to the Department of Finance and Personnel;
+- (h) as if paragraphs 21 and 22 were omitted.
+
+### 41. Modification of the Decisions and Appeals Regulations 1999[^key-b97b54fca73663a6611e7bf9e5465a14]
+
+(1) Subject to paragraph (2), the provisions in Chapters II to V of Part V of the Decisions and Appeals Regulations 1999 shall apply, in relation to the procedure to be followed in respect of appeals under Schedule 7 to the 2000 Act, to these Regulations as they apply for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “the Department”, wherever it occurs, there were substituted “the relevant authority”;
+- (b) as if in regulation 50 after “Article 8(4)” there were inserted “of the 1998 Order”;
+- (c) as if in regulation 53(3) for sub-paragraph (b) there were substituted—
+
+  > - (b) the conditions governing appeals to a Commissioner;
+
+  ;
+- (d) as if in regulation 55(3) “or, as the case may be, a Child Support Commissioner” were omitted;
+- (e) as if in regulation 56—
+  - (i) in paragraph (1) for “or the Child Support Order” there were substituted “of these Regulations”;
+  - (ii) paragraph (3) were omitted;
+- (f) as if in regulation 57—
+  - (i) in paragraph (1) for “or the Child Support Order” there were substituted “of these Regulations”;
+  - (ii) in paragraph (3)—
+    - (aa) in sub-paragraph (a)(i) after “regulation 53(3)”;
+    - (bb) in sub-paragraph (a)(ii) after “regulation 53(4)”,
+  - (iii) there were inserted “of the Decisions and Appeals Regulations 1999 as applied with modifications for the purposes of these Regulations by regulation 41”;
+- (g) as if in regulation 58(1) for “Article 13 or 14” there were substituted “paragraph 6 or 7 of Schedule 7 to the 2000 Act as applied with modifications for the purposes of these Regulations by regulation 40”;
+- (h) as if for regulation 58A there were substituted—
+
+  > **58A.** A partner, within the meaning of section 2AA(7) of the Administration Act, may appeal to a Commissioner under paragraph 6 of Schedule 7 to the 2000 Act, as applied with modifications for the purposes of these Regulations by regulation 40, from a decision of an appeal tribunal in respect of a decision that—
+  >
+  > - (a) the partner of a person entitled to rate relief has failed to comply with a requirement to take part in an interview which applied to the partner by virtue of the regulations, or
+  > - (b) it has not been shown that the partner had good cause for such a failure.
+
+  .
+
+(2) Regulations 38A, 41, 42, 44, 45, 52 and 54(13) shall not apply in relation to the procedure to be followed in respect of appeals under Schedule 7 to the 2000 Act.
+
+### 42. Modification of the Decisions and Appeals Regulations[^key-f86885682fb8eb5ae7d78f8a486c40a1]
+
+The Decisions and Appeals Regulations shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit (State Pension Credit) Regulations with the following modifications—
+
+- (a) as if for “housing benefit”, wherever it occurs, there were substituted “rate relief”;
+- (b) as if for “benefit week”, wherever it occurs, there were substituted “rate relief week”;
+- (c) as if after “Schedule 7 to the Act”, wherever it occurs, there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+- (d) as if in regulation 1(2) there were inserted in the appropriate place—
+
+  > - “the Department” means the Department of Finance and Personnel;
+
+  ;
+- (e) as if in regulation 2(a) and (b) “, the Department”, wherever it occurs were omitted;
+- (f) as if in regulation 3(1)—
+  - (i) in sub-paragraph (b) for ‘dwelling’ there were substituted ‘hereditament’;
+  - (ii) for sub-paragraphs (c), (d) and (e) there were substituted—
+
+    > - (c) a person appointed by the relevant authority under regulation 61(3) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25, or, as the case maybe, regulation 80(3) of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 26 of those Regulations;
+    > - (d) a person from whom the relevant authority determines that an overpayment is recoverable in accordance with Part XII of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32, or, as the case maybe, Part XIII of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 33 of those Regulations;
+    > - (e) a landlord or agent acting on behalf of that landlord and that decision is made under regulation 73 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30, or, as the case maybe, regulation 92 or 93 of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 31 of those Regulations;
+
+    ;
+- (g) as if regulation 4—
+  - (i) paragraph (5) were omitted;
+  - (ii) in paragraphs (6B) and (6C) [^M_F_70541458-ab47-4fef-ffc7-f29e4420bfa2]...after “relevant benefit” there were inserted “or housing benefit”;
+- (h) as if regulation 7—
+  - (i) paragraphs (2)(d) and (2ZA) were omitted;
+  - (ii) in paragraph (2)(f) and (g) for “the Department” there were substituted “the Department for Social Development”;
+  - (iia)[^M_F_fc2498c6-fd20-462e-ec4f-6d025db408d7] in paragraph (2)(h)(ii) after “relevant benefit” there were inserted “or housing benefit”;
+  - (iii) in paragraph (3) for “regulation 84(2) of the Housing Benefit Regulations or, as the case maybe, regulation 65(2) of the Housing Benefit (State Pension Credit) Regulations” there were substituted “regulation 84(2) of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 26 of those Regulations or, as the case maybe, regulation 65(2) of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (ha)[^M_F_2a7b8eca-9bbd-4a3f-c714-ff5e50a18988] as if in regulation 7A paragraphs (1) to (3) were omitted;
+- (i) as if in regulation 8—
+  - (i) in paragraph (2) for the words from “in accordance with” to “as the case may be” there were substituted “in accordance with regulation 77 of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 24 of those Regulations or, as the case maybe, regulations 57 or 58 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (ii) in paragraph (3)(a) after “Housing Benefit (State Pension Credit) Regulations” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 23”;
+  - (iii) paragraph (6A) were omitted;
+- (j) as if in regulation 11(2)(c) for “section 73 of the Administration Act (overpayments of housing benefit) or regulations made under that section” there were substituted “Part 12 of these Regulations”;
+- (k) as if in regulation 13(2)(c) for “regulation 82 of the Housing Benefit Regulations or, regulation 63 of the Housing Benefit (State Pension Credit) Regulations” there were substituted “regulation 82 of the Housing Benefit Regulations as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 26 of those Regulations or, as the case maybe, regulation 63 of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25”;
+- (l) as if regulation 17(2)—
+  - (i) in sub-paragraph (b) for “Administration Act” there were substituted “these Regulations;
+  - (ii) in sub-paragraph (d) for “section 73 of the Administration Act” there were substituted “Part 12 of these Regulations”;
+- (m) as if regulation 22(2) and regulation 23 were omitted;
+- (n) as if in the Schedule—
+  - (i)[^M_F_6d692797-dddc-4d1a-8e56-0c869123fc4c] paragraphs 1 and 6 were omitted;
+  - (ii) in paragraph 1A[^f00020]—
+    - (aa) regulations 14C(5)(e) (board and attendance) and 15 (decisions),[^M_F_2c697bea-3267-45a1-c351-c697380461cf] were omitted;
+    - (bb) after “the Housing Benefit (State Pension Credit) Regulations” there were inserted “as applied with modifications for the purposes of these Regulations by regulations 25, 32 and 32”;
+    - (cc) in sub-paragraph (a) after “62” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 25 ”;
+    - (dd) sub-paragraph (b) were omitted;
+    - (ee) in sub-paragraphs (c) and (d) after “73” and “74” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 30”;
+    - (ff) in sub-paragraphs (e) to (h) after “78”, “79”, “81” and “82” there were inserted “of the Housing Benefit (State Pension Credit) Regulations as applied with modifications for the purposes of these Regulations by regulation 32”;
+  - (iii) in paragraph 3 after “the Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+  - (iv) in paragraph 4 after “these Regulations” and “regulation 14” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+  - (v) in paragraph 5 after “the Housing Benefit (State Pension Credit) Regulations” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 19”.
+
+### 43. Modification of the Commissioner Procedures Regulations[^key-ca884912697f4957f9485b4e3ec70fac]
+
+The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999[^f00021] Regulations shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
+
+- (a) as if for “the Department”, wherever it occurs, there were substituted “the relevant authority”;
+- (b) as if regulation 3 were omitted;
+- (c) as if in regulation 4—
+  - (i) there were inserted in the appropriate place—
+
+    > - the Rate Relief Regulations” means the Rate Relief (General) Regulations (Northern Ireland) 2007 and the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007;
+
+    ;
+  - (ii) in the definition of “the chairman”[^f00022]—
+    - (aa) after “and 10” there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+    - (bb) after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+  - (iii) the definition of “the Department”[^f00023] were omitted;
+  - (iv) in the definition of “person affected”[^f00024] after “(Northern Ireland) 2001” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+  - (v) in the definition of “relevant authority”[^f00025] after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+  - (vi) in paragraph (2)[^f00026]—
+    - (aa) after “to the 2000 Act”, in both places where it occurs, there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+    - (bb) after “(Northern Ireland) 2001” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 42”;
+- (d) as if—
+  - (i) in regulation 5(2)(a) after “and 13(2)”;
+  - (ii) in regulation 7(1)—
+    - (aa) in sub-paragraph (a) after “and 20”;
+    - (bb) in sub-paragraph (b) after “regulation 23”;
+    - (cc) in sub-paragraph (c) after “regulation 25”;
+    - (dd) in sub-paragraph (d) after “regulation 5”;
+    - (ee) in sub-paragraph (e) after “regulation 26”;
+    - (ff) in sub-paragraph (f) after “regulation 27”;
+    - (gg) in sub-paragraph (g) after “regulation 5”;
+  - (iii) in regulation 11(2)—
+    - (aa) after “regulation 9”;
+    - (bb) in sub-paragraph (b) after “regulation 12”;
+  - (iv) in regulation 12(1) after “regulation 11(2)”;
+  - (v) in regulation 14(3)[^f00027] after “regulation 15(2)”,
+
+  there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+- (e) as if in regulation 15[^f00028]—
+  - (i) in paragraph (1) after “to the 2000 Act”, in both places where it occurs, there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+  - (ii) in paragraph (2) after “regulation 14(2)” there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+- (f) as if in regulation 18(4)[^f00029] after “regulation 20” there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+- (g) as if in regulation 19[^f00030]—
+  - (i) in paragraphs (1) and (3)(b) after “regulation 18” there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+  - (ii) after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+- (h) as if in regulation 20(4) after “and 19” there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+- (i) as if in regulation 24(6)(ff)[^f00031] for “housing benefit” there were substituted “rate relief”;
+- (j) as if in regulation 28(2)[^f00032] after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+- (k) as if—
+  - (i) in regulations 30 and 31 after “and 32”;
+  - (ii) in regulation 32—
+    - (aa) in paragraph (1) after “and 31”;
+    - (bb) in paragraph (2) after “regulation 30” and “regulation 31”,
+
+  there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+- (l) as if in regulation 32(1)[^f00033] after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+- (m) as if in regulation 33[^f00034]—
+  - (i) in paragraph (1) after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+  - (ii) in paragraph (2)—
+    - (aa) in sub-paragraph (a) after “regulation 30”;
+    - (bb) in sub-paragraph (b) after “regulation 31” and “regulation 31(2)”,
+
+    there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”;
+  - (iii) in paragraph (3)—
+    - (aa) after “Housing Benefit Regulations (Northern Ireland) 2006” there were inserted “as applied with modifications for the purposes of the Rate Relief (General) Regulations (Northern Ireland) 2007 by regulation 26 of those Regulations;
+    - (bb) after “Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 25”;
+    - (cc) after “to the 2000 Act” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 40”;
+  - (iv) in paragraph (4)—
+    - (aa) in sub-paragraph (a) for “housing benefit” there were substituted “rate relief”;
+    - (bb) sub-paragraphs (b) and (c) were omitted;
+  - (v) in paragraph (5) after “regulation 26” there were inserted “of the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 as applied with modifications for the purposes of these Regulations by regulation 43”.
+
+## PART 15 — Enforcement
+
+### 44. Authorisations for investigators[^key-c1bee71b78028471be4fb6111778461d]
+
+(1) An individual who for the time being has the Department’s authorisation for the purposes of this Part, shall be entitled, for any one or more of the purposes mentioned in paragraph (2), to exercise any of the powers which are conferred on an authorised officer by regulation 45 (provision of information).
+
+(2) Those purposes are—
+
+- (a) ascertaining in relation to any case whether rate relief is or was payable in that case in accordance with any provision of the principal Order;
+- (b) ascertaining whether provisions of the principal Order relating to rate relief are being, have been or are likely to be contravened (whether by particular persons or more generally);
+- (c) preventing, detecting and securing evidence of the commission (whether by particular persons or more generally) of rate relief offences.
+
+(3) An individual has the Department’s authorisation for the purposes of this Part, if, and only if, the Department has granted him an authorisation for those purposes and he is—
+
+- (a) an official of the Department;
+- (b) an individual employed by the Executive; or
+- (c) an individual authorised to carry out functions of the Executive relating to rate relief.
+
+(4) An authorisation granted for the purposes of this Part, to an individual of any of the descriptions mentioned in paragraph (3)—
+
+- (a) shall be contained in a certificate provided to that individual as evidence of his entitlement to exercise powers conferred by this Part;
+- (b) may contain provision as to the period for which the authorisation is to have effect; and
+- (c) may restrict the powers exercisable by virtue of the authorisation so as to prohibit their exercise except for particular purposes, in particular circumstances or in relation to particular provisions of the principal Order.
+
+(5) An authorisation granted under this regulation may be withdrawn at any time by the Department.
+
+(6) Where the Department grants an authorisation for the purposes of this Part, to an individual employed by the Executive, or to an individual authorised to carry out functions of the Executive relating to rate relief—
+
+- (a) the Department and the Executive shall enter into such arrangements (if any) as they consider appropriate with respect to the carrying out of functions conferred on that individual by or in connection with the authorisation granted to him; and
+- (b) the Department may make to the Executive such payments (if any) as the Department thinks fit in respect of the carrying out by that individual of any such functions.
+
+(7) The matters on which a person may be authorised to consider and report to the Department under regulation 56 shall be taken to include the carrying out by any such individual as is mentioned in sub-paragraph (b) or (c) of paragraph (3) of any functions conferred on that individual by virtue of any grant by the Department of an authorisation for the purposes of this Part.
+
+(8) The powers conferred by regulation 45 shall be exercisable in relation to persons holding office under the Crown and persons in the service of the Crown, and in relation to premises owned or occupied by the Crown, as they are exercisable in relation to other persons and premises.
+
+### 45. Provision of information[^key-e373f6d3e45730290a3bc9b4b3ba64fd]
+
+(1) An authorised officer who has reasonable grounds for suspecting that a person—
+
+- (a) is a person falling within paragraph (2); and
+- (b) has or may have possession of or access to any information about any matter that is relevant for any one or more of the purposes mentioned in regulation 44(2),
+
+may, by written notice, require that person to provide all such information described in the notice as is information of which he has possession, or to which he has access, and which it is reasonable for the authorised officer to require for a purpose so mentioned.
+
+(2) The persons who fall within this paragraph are—
+
+- (a) any person who is or has been an employer or employee within the meaning of any provision made by or under the Act;
+- (b) any person who is or has been a self-employed earner within the meaning of any such provision;
+- (c) any person who by virtue of any provision made by or under the Act falls, or has fallen, to be treated for the purposes of any such provision as a person within sub-paragraph (a) or (b);
+- (d) any person who is carrying on, or has carried on, any business involving the supply of goods for sale to the ultimate consumers by individuals not carrying on retail businesses from retail premises;
+- (e) any person who is carrying on, or has carried on, any business involving the supply of goods or services by the use of work done or services performed by persons other than employees of his;
+- (f) any person who is carrying on, or has carried on, an agency or other business for the introduction or supply, to persons requiring them, of persons available to do work or to perform services;
+- (g) any district council acting in its capacity as an authority responsible for the granting of any licence;
+- (h) any person who is or has been a trustee or manager of a personal or occupational pension scheme as defined in the Administration Act; and
+- (i) the servants and agents of any such person as is specified in any of sub-paragraphs (a) to (h).
+
+(3) The obligation of a person to provide information in accordance with a notice under this regulation shall be discharged only by the provision of that information, at such reasonable time and in such form as may be specified in the notice, to the authorised officer who—
+
+- (a) is identified by or in accordance with the terms of the notice; or
+- (b) has been identified, since the giving of the notice, by a further written notice given by the authorised officer who imposed the original requirement or another authorised officer.
+
+(4) The power of an authorised officer under this regulation to require the provision of information shall include a power to require the production and delivery up and (if necessary) creation of, or of copies of or extracts from any such documents containing the information as may be specified or described in the notice imposing the requirement.
+
+(5) A person shall not be required under this regulation to provide—
+
+- (a) any information that tends to incriminate either himself or, in the case of a person who is married or is a civil partner, his spouse or civil partner; or
+- (b) any information in respect of which a claim to legal professional privilege would be successful in any proceedings;
+
+and for the purposes of this paragraph it is immaterial whether the information is in documentary form or not.
+
+### 46. Authorisations by Housing Executive[^key-7dc065940401d79e1277ddb2c76f443a]
+
+(1) An individual who for the time being has the authorisation of the Executive for the purposes of this Part, (“a Housing Executive authorisation”) shall be entitled, for any one or more of the purposes mentioned in paragraph (2), to exercise any of the powers which, subject to paragraph (7), are conferred on an authorised officer by regulation 45 (power to require information).
+
+(2) Those purposes are—
+
+- (a) ascertaining in relation to any case whether rate relief is or was payable in that case;
+- (b) ascertaining whether provisions of the principal Order that relate to rate relief are being, have been or are likely to be contravened (whether by particular persons or more generally);
+- (c) preventing, detecting and securing evidence of the commission (whether by particular persons or more generally) of rate relief offences.
+
+(3) An individual has the authorisation of the Executive, for the purposes of this Part, if, and only if, the Executive has granted him an authorisation for those purposes and he is—
+
+- (a) an individual employed by the Executive;
+- (b) an individual authorised to carry out functions of the Executive relating to rate relief; or
+- (c) an official of a government department.
+
+(4) Regulation 44(4) shall apply in relation to a Housing Executive authorisation as it applies in relation to an authorisation under regulation 44.
+
+(5) A Housing Executive authorisation may be withdrawn at any time by the Executive or by the Department.
+
+(6) It shall be the duty of the Executive to comply with any directions of the Department as to—
+
+- (a) whether or not Housing Executive authorisations are to be granted by the Executive;
+- (b) the period for which authorisations granted by the Executive are to have effect;
+- (c) the number of persons who may be granted authorisations by the Executive at any one time; and
+- (d) the restrictions to be contained by virtue of subsection (4) above in the authorisations granted by the Executive for those purposes.
+
+(7) The powers conferred by regulation 45 shall have effect in the case of an individual who is an authorised officer by virtue of this regulation as if regulation 45 had effect—
+
+- (a) with the substitution for every reference to the purposes mentioned in regulation 44(2) of a reference to the purposes mentioned in paragraph (2); and
+- (b) with the substitution for every reference to the principal Order of a reference to so much of it as relates to rate relief.
+
+### 47. Delay, obstruction etc. of inspector[^key-efbba716c17b4198ba9ab560385870cb]
+
+If a person refuses or neglects to answer any question or to furnish any information or to produce any document when required to do so under these Regulations, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 48. False representations for obtaining relief[^key-6199ab465aedd182b78e5a1877400416]
+
+(1) If a person for the purpose of obtaining rate relief under the principal Order, whether for himself or some other person, or for any other purpose connected with that legislation—
+
+- (a) makes a statement or representation which he knows to be false; or
+- (b) produces or furnishes, or knowingly causes or knowingly allows to be produced or furnished, any document or information which he knows to be false in a material particular,
+
+he shall be guilty of an offence.
+
+(2) A person shall be guilty of an offence if—
+
+- (a) there has been a change of circumstances affecting any entitlement of his to rate relief under any provision of the principal Order;
+- (b) the change is not a change that is required to be notified;
+- (c) he knows that the change affects an entitlement of his to such rate relief; and
+- (d) he fails to give a prompt notification of that change in the prescribed manner to the prescribed person.
+
+(3) For the purposes of paragraph (2) a notification of a change is prompt if, and only if, it is given as soon as reasonably practicable after the change occurs.
+
+(4) A person guilty of an offence under this regulation shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 3 months, or to both.
+
+### 49. Breach of regulations[^key-b3fd0d22b4afdcbe8c21b49a0476c8ad]
+
+(1) A person who contravenes, or fails to comply with, any provision of these Regulations shall be guilty of an offence.
+
+(2) A person guilty of such an offence as is mentioned in paragraph (1) shall be liable on summary conviction—
+
+- (a) to a fine not exceeding level 3 on the standard scale;
+- (b) in the case of an offence of continuing a contravention or failure after conviction, to a fine not exceeding £40 for each day on which it is so continued.
+
+### 50. Penalty as alternative to prosecution[^key-8863cd6bae216c28e1714a8b53209046]
+
+(1) This regulation applies where an overpayment is recoverable from a person by, or due from a person to, the Department or the Executive under or by virtue of regulation 32 and it appears to the Department or the Executive that—
+
+- (a) the making of the overpayment was attributable to an act or omission on the part of that person; and
+- (b) there are grounds for instituting against him proceedings for an offence (under the principal Order or any other statutory provision) relating to the overpayment.
+
+(2) The Department or the Executive may give to the person a written notice—
+
+- (a) stating that he may be invited to agree to pay a penalty and that, if he does so in the manner specified by the Department or the Executive, no such proceedings will be instituted against him; and
+- (b) containing such information relating to the amount and period of the overpayment.
+
+(3) The amount of the penalty shall be 30 per cent. of the amount of the overpayment (rounded down to the nearest whole penny).
+
+(4) If the person agrees in the specified manner to pay the penalty—
+
+- (a) the amount of the penalty shall be recoverable by the same methods as those by which the overpayment is recoverable; and
+- (b) no proceedings will be instituted against him for an offence (under the principal Order or any other statutory provision) relating to the overpayment.
+
+(5) The person may withdraw his agreement to pay the penalty by notifying the Department or the Executive, in the manner specified by the Department or the Executive, at any time during the period of 28 days beginning with, and including, the day on which he agrees to pay it; and if he does so—
+
+- (a) so much of the penalty as has already been recovered shall be repaid; and
+- (b) paragraph (4)(b) shall not apply.
+
+(6) Where, after the person has agreed to pay the penalty, it is decided on a review or appeal that the overpayment is not recoverable or due, so much of the penalty as has already been recovered shall be repaid.
+
+(7) Where, after the person has agreed to pay the penalty, the amount of the overpayment is revised on a review or appeal—
+
+- (a) so much of the penalty as has already been recovered shall be repaid; and
+- (b) paragraph (4)(b) shall no longer apply by reason of the agreement; but if a new agreement is made under this regulation in relation to the revised overpayment, the amount already recovered by way of penalty, to the extent that it does not exceed the amount of the new penalty, may be treated as recovered under the new agreement instead of being repaid.
+
+(8) Subject to paragraph (9), the Department and the Executive may agree that, to the extent determined by the agreement, one may carry out on the other’s behalf, or may join in the carrying out of, any of the other’s functions under this regulation.
+
+(9) Paragraph (8) shall not authorise any delegation of the function of the person by whom any overpayment is recoverable, or to whom it is due, of determining whether or not a notice should be given under paragraph (2) in respect of that overpayment.
+
+(10) In this regulation “overpayment” means—
+
+- (a) a payment which should not have been made;
+- (b) a sum which the Department should have received;
+- (c) an amount of rate relief paid in excess of entitlement; or
+- (d) an amount equal to an excess of rate relief allowed;
+
+and the reference in paragraph (1)(a) to the making of the overpayment is to the making of the payment, the failure to receive the sum, the payment of rate relief in excess of entitlement or the allowing of an excess of rate relief.
+
+### 51. Notice[^key-23c84fd5b6cbf6b42c0ec5c36410b470]
+
+(1) Where the Department or the Executive gives to a person a written notice under regulation 50(2), the notice shall contain the information that—
+
+- (a) the penalty only applies to an overpayment which is recoverable under section 73 of the Administration Act as applied with modifications for the purposes of these Regulations by regulation 31;
+- (b) the penalty only applies where it appears to the relevant authority that the making of the overpayment was attributable to an act or omission by the person and that there are grounds for instituting proceedings for an offence relating to the overpayment;
+- (c) the penalty is 30 per cent. of the amount of the overpayment, is payable in addition to repayment of the overpayment and is recoverable by the same methods as those by which the overpayment is recoverable;
+- (d) a person who agrees to pay a penalty may withdraw the agreement within 28 days (including the date of the agreement) by notifying the relevant authority in the manner specified by the relevant authority; if the person withdraws the agreement, so much of the penalty as has already been recovered shall be repaid and the person will no longer be immune from proceedings for an offence;
+- (e) if it is decided on review or appeal (or in accordance with regulations) that the overpayment is not recoverable or due, so much of the penalty as has already been recovered shall be repaid;
+- (f) if the amount of the overpayment is revised on review or appeal, except as covered by a new agreement to pay the revised penalty, so much of the penalty as has already been recovered shall be repaid and the person will no longer be immune from proceedings for an offence;
+- (g) the payment of a penalty does not give the person immunity from prosecution in relation to any other overpayment or any offence not relating to an overpayment.
+
+(2) The notice shall set out—
+
+- (a) the manner specified by the relevant authority by which the person may agree to pay a penalty;
+- (b) the manner specified by the relevant authority by which the person may notify the withdrawal of his agreement to pay a penalty.
+
+### 52. Legal proceedings[^key-0b1284ac9a9a6fb08cf8b9d11724e2b1]
+
+(1) Any person authorised by the Department or the Executive in that behalf may conduct any proceedings under any provision of the principal Order relating to rate relief before a magistrates’ court, although not a barrister or solicitor.
+
+(2) Notwithstanding anything in any statutory provision proceedings for an offence under the principal Order relating to rate relief may be begun at any time within the period of 3 months from the date on which evidence, sufficient in the opinion of the Department or the Executive to justify a prosecution for the offence, comes to its knowledge or within a period of 12 months from the commission of the offence, whichever period last expires.
+
+(3) For the purposes of paragraph (2) a certificate purporting to be signed by or on behalf of the Minister in charge of the Department or by a senior officer of the Department or by a member of the Executive or by an officer of the Executive authorised by it to act for the purposes of this regulation as to the date on which such evidence as is mentioned in paragraph (2) came to its or the Executive’s knowledge shall be conclusive evidence of that date.
+
+(4)[^key-6a9ce2693b1169feedca2458c7dceb3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-cf5622856b86b574f67516e8bedee854] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 53. Interpretation of enforcement provisions[^key-d3268963bff180bbdee2adf45d070035]
+
+(1) In this Part “authorised officer” means a person acting in accordance with any authorisation for the purposes of this Part, which is for the time being in force in relation to him.
+
+(2) For the purposes of this Part—
+
+- (a) references to a document include references to anything in which information is recorded in electronic or any other form;
+- (b) the requirement that a notice given by an authorised officer be in writing shall be taken to be satisfied in any case where the contents of the notice—
+  - (i) are transmitted to the recipient of the notice by electronic means; and
+  - (ii) are received by him in a form that is legible and capable of being recorded for future reference.
+
+(3) In this Part, “premises” includes—
+
+- (a) moveable structures and vehicles, vessels, aircraft and hovercraft;
+- (b) installations that are offshore installations for the purposes of the Mineral Workings (Offshore Installations) Act 1971[^f00035]; and
+- (c) places of all other descriptions whether or not occupied as land or otherwise,
+
+and references in this Part to the occupier of any premises shall be construed, in relation to premises that are not occupied as land, as references to any person for the time being present at the place in question.
+
+(4) In this Part—
+
+- “rate relief offence” means—
+  - (a) any criminal offence in connection with a claim for a rate relief;
+  - (b) any criminal offence in connection with the receipt or payment of any amount by way of such a rate relief;
+  - (c) any criminal offence committed for the purpose of facilitating the commission (whether or not by the same person) of a rate relief offence;
+  - (d) any attempt or conspiracy to commit a rate relief offence.
+
+(5) In this Part—
+
+- (a) any reference to a person authorised to carry out any function relating to rate relief shall include a reference to a person providing services relating to that rate relief directly or indirectly to the Executive; and
+- (b) any reference to the carrying out of a function relating to rate relief shall include a reference to the provision of any services relating to it.
+
+## PART 16 — Rate Relief Finance
+
+### 54. Rate relief finance[^key-92348e6dddaba10dbb5787dd9df7d88a]
+
+(1) The Department shall, in respect of each financial year, pay to the Executive a grant towards the expenditure incurred or to be incurred by the Executive in that year by way of payment of rate relief (including, if the Department so determines, an amount towards the cost of administering rate relief).
+
+(2) The amount of the grant under paragraph (1) which is to be paid to the Executive shall be such as the Department shall determine.
+
+(3) A grant under paragraph (1) shall be paid to the Executive at such time and in such manner as the Department may think fit.
+
+### 55. Claims for finance etc.[^key-8b31465c8ede1b2e6d43cddbbc622d93]
+
+(1) The Department, unless it otherwise determines, shall not pay a grant under regulation 54 until the Executive has made a claim for it in such form and manner as the Department may determine.
+
+(2) The Department may withhold from the Executive so much of any grant under regulation 54 as it thinks fit until either—
+
+- (a) the Executive has supplied it with prescribed particulars relating to its claim for a grant and complied with prescribed conditions as to records, certificates, audit or otherwise; or
+- (b) the Department is satisfied that there is a good reason for the Executive’s failure to supply those particulars or comply with those conditions.
+
+(3) If the Executive fails to make a claim for a grant within such period as the Department considers reasonable, the Department may withhold from the Executive such part of the grant as it thinks fit for so long as it thinks fit.
+
+(4) Where the amount of the grant paid to the Executive for any year is found to be incorrect, the amount of the grant payable to it for any subsequent year may be adjusted for the purpose of rectifying that mistake in whole or in part.
+
+### 56. Persons to report on administration[^key-ddf49c03cf7b3c0268a278fcc2303a1f]
+
+(1) The Department may authorise persons to consider and report to it on the administration by the Executive of rate relief and, in particular, the Executive’s performance in the prevention and detection of fraud relating to that relief.
+
+(2) A person may be authorised under paragraph (1) on such terms and for such period as the Department thinks fit.
+
+### 57. Powers of investigation[^key-5d243b84802e9f6ffdd54c46238fad49]
+
+(1) A person authorised under regulation 56—
+
+- (a) has a right of access at all reasonable times to any document relating to the administration of rate relief;
+- (b) is entitled to require from any person holding or accountable for any such document such information and explanation as he thinks necessary; and
+- (c) is entitled, if he thinks it necessary, to require any such person to produce any such document or to attend before him in person to give such information or explanation.
+
+(2) A person authorised under regulation 56(1) is entitled to require any officer or member of the Executive or any person involved in the administration of rate relief for the Executive—
+
+- (a) to give him such information and explanation relating to the administration of rate relief as he thinks necessary; and
+- (b) if he thinks it necessary, to require any such person to attend before him in person to give the information or explanation.
+
+(3) A person who without reasonable excuse fails to comply with a requirement under paragraph (1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) A person authorised under paragraph (1) may—
+
+- (a) require any document or information which is to be given to him under paragraph (1) or (2) to be given in any form reasonably specified by him; and
+- (b) take copies of any document produced to him.
+
+(5) In this regulation “document” means anything in which information of any description is recorded.
+
+### 58. Reports[^key-e20926d3ee1f4d40c3c4fcbd0a881dc2]
+
+(1) A report about the Executive by a person authorised under regulation 56(1) may include recommendations about improvements which could be made by the Executive in its administration of rate relief and, in particular, in the prevention and detection of fraud relating to that relief.
+
+(2) When the Department receives a report about the Executive from a person authorised under regulation 56(1) it shall send a copy to the Executive.
+
+### Directions by Department
+
+#### 59. Directions[^key-166cb5796d9ae51075794d8597513687]
+
+(1) This regulation applies where—
+
+- (a) a copy of a report has been sent to the Executive under regulation 58(2) (reports);
+- (b) a report has been laid before the Assembly under Article 21(5) of the Housing (Northern Ireland) Order 1981[^f00036]; or
+- (c) a copy of a report has been sent to the Executive under regulation 64(7).
+
+(2) The Department may invite the Executive to consider the report and to submit proposals for—
+
+- (a) improving the Executive’s performance in relation to the prevention and detection of fraud relating to rate relief or otherwise in relation to the administration of that relief; and
+- (b) remedying any failings identified by the report.
+
+(3) After considering the report and any proposals made by the Executive in response to it, the Department may give directions to the Executive as to—
+
+- (a) standards which the Executive is to attain in the prevention and detection of fraud relating to rate relief or otherwise in the administration of that relief; and
+- (b) the time within which the standards are to be attained.
+
+(4) When giving directions to the Executive under paragraph (3), the Department may make recommendations to the Executive setting out any course of action which the Department thinks the Executive might take to attain the standards which it is directed to attain.
+
+#### 60. Information about attainment of standards[^key-a6e9021543d4ca3e830a5630822ea0c3]
+
+(1) Where directions have been given to the Executive under regulation 59(3), the Department may require the Executive to supply to it any information which the Department considers may assist it in deciding—
+
+- (a) whether the Executive has attained the standards which it has been directed to attain; or
+- (b) whether the Executive is likely to attain those standards within the time specified in the directions.
+
+(2) Information may be supplied under paragraph (1) in such manner and form as the Department may require.
+
+#### 61. Enforcement notices[^key-5a52de9bb7462dba4ad15e409e33452a]
+
+(1) Where directions have been given to the Executive under regulation 59(3) and the Department—
+
+- (a) is not satisfied that the Executive has attained the standards which it has been directed to attain; or
+- (b) is not satisfied that the Executive is likely to attain those standards within the time specified in the directions,
+
+the Department may serve on the Executive a written notice under this regulation.
+
+(2) The notice shall—
+
+- (a) identify the directions and state why the Department is not satisfied as mentioned in paragraph (a) or (b) of paragraph (1); and
+- (b) require the Executive to submit a written response to the Department within a time specified in the notice.
+
+(3) If any person (other than the Executive) carrying out work relating to the administration of rate relief may be affected by any determination which may be made under regulation 62 (enforcement determination), the Executive shall—
+
+- (a) consult that person before submitting its response; and
+- (b) include in its response any relevant observations made by that person.
+
+(4) The Executive’s response shall either—
+
+- (a) state that the Executive has attained the standards, or is likely to attain them within the time specified in the directions, and justify that statement; or
+- (b) state that the Executive has not attained the standards, or is not likely to attain them within that time, and (if the Executive wishes) give reasons why a determination under regulation 62 should not be made or should not include any particular provision.
+
+(5) The notice may relate to any one or more matters covered by the directions.
+
+(6) The serving of a notice under this regulation relating to any directions or matter does not prevent the serving of further notices under this regulation relating to the same directions or matter.
+
+#### 62. Enforcement determination[^key-296062aba5f935953265a31a5d8ee34e]
+
+(1) Where, after the time specified in the notice under regulation 61, has expired, the Department—
+
+- (a) is not satisfied that the Executive has attained the standards in question; or
+- (b) is not satisfied that the Executive is likely to attain those standards within the time specified in the directions,
+
+the Department may make a determination under this regulation.
+
+(2) The determination may be made whether or not the Executive has responded to the notice under regulation 61.
+
+(3) The determination shall be designed to secure the attainment of the standards in question and—
+
+- (a) shall include provision such as is specified in paragraph (4); and
+- (b) may also include provision such as is specified in paragraph (5).
+
+(4) The provision referred to in paragraph (3)(a) is provision that the Executive must comply with specified requirements as to inviting, preparing, considering and accepting bids to carry out any work which—
+
+- (a) falls to be carried out in pursuance of the Executive’s functions relating to the administration of rate relief; and
+- (b) is of a description specified in the determination.
+
+(5) The provision referred to in paragraph (3)(b) is provision of any one or more of the following kinds relating to the work, or any specified category of the work, to which the determination relates—
+
+- (a) provision that it may not be carried out by the Executive;
+- (b) provision that it may not be carried out by any person (other than the Executive) who has been carrying it out; and
+- (c) provision that any contract made by the Executive with any person for carrying it out shall include terms requiring a level of performance which will secure, or contribute to securing, the attainment of the standards in question.
+
+#### 63. Enforcement determination: Supplementary[^key-f86c8aff9b302e6a407fbdc067303d3c]
+
+(1) The provisions included in a determination, under regulation 62, shall take effect from a date specified in the determination; and different dates may be specified in relation to different provisions.
+
+(2) The making of a determination under regulation 62 in relation to any directions which does not prevent the making of further determinations under that paragraph in relation to the same directions.
+
+(3) The provision included in a determination by virtue of regulation 62(3) may include—
+
+- (a) requirements that the Department be satisfied as to any specified matter; and
+- (b) requirements that the Department authorise or consent to any specified matter.
+
+(4) The provision so included may also include provision as to the time at which any contract for the carrying out of work to which the determination relates (and which is not previously discharged) is to be taken to be frustrated by the determination.
+
+(5) A determination under regulation 62 shall have effect in spite of any statutory provision under or by virtue of which the Executive is required or authorised to carry out any work to which the determination relates.
+
+#### 64. Role of NIAO auditors in relation to rate relief[^key-5d852d923f0316a8d38e214f3f3768d1]
+
+(1) The Department may request an auditor of the Northern Ireland Audit Office (“NIAO auditor”) to conduct or assist the Department in conducting studies designed to improve economy, efficiency, effectiveness and quality of performance in the discharge by the Executive of functions relating to the administration of rate relief.
+
+(2) In this regulation “study” means a study which a NIAO auditor is requested to conduct, or assist the Department in conducting, under paragraph (1).
+
+(3) If a NIAO auditor requires the Executive or any officer or member of the Executive to supply him or an authorised person with such information as is needed for the purposes of the study, the Executive or officer or member shall supply the information.
+
+(4) If a NIAO auditor requires the Executive to make available for inspection by him or by an authorised person documents which relate to the Executive and are needed for the purposes of the study, the Executive shall make the documents available.
+
+(5) Any information obtained under a requirement under paragraph (3) or (4) may be disclosed by a NIAO auditor to the Department for the purposes of any of its functions which are connected with rate relief.
+
+(6) In paragraphs (3) and (4) “authorised person” means a person authorised by a NIAO auditor for the purposes of this regulation.
+
+(7) A NIAO auditor shall send to the Department a copy of any report of a study; and the Department or a NIAO auditor may send a copy of a report of a study to the Executive.
+
+(8) Any report of a study may be published by the Department.
+
+(9) A NIAO auditor shall not conduct, or assist the Department in conducting, a study unless, before he does so, the Department has made arrangements for the payment of such reasonable amount as may be agreed between it and the auditor in respect of the study.
+
+(10) The Department may supply to a NIAO auditor any information held by it which relates to rate relief and which appears to it to be relevant to the exercise of any function of the auditor.
+
+## PART 17 — Payment of travelling expenses by Department
+
+### 65. Payment of travelling expenses by Department[^key-feb6749a3f6930762ddd5a9af613b1ca]
+
+The relevant authority may pay such travelling expenses as it may determine—
+
+- (a) to persons required by the relevant authority to attend any interview in connection with the operation of rate relief;
+- (b) to persons attending offices of the Department or the Executive in connection with rate relief.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 23rd Month 2007
+
+Brian McClure
+
+A senior officer of the Department of Finance and Personnel
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for rate relief for claimants who have attained the qualifying age for state pension credit. In the case of a woman that age is pensionable age and in the case of a man it is the age which is pensionable age in the case of a woman born on the same day as the man (section 1(6) of the State Pension Credit Act (Northern Ireland) 2002). These Regulations do not however apply if either the claimant or the claimant’s partner is in receipt of income support or an income-based jobseeker’s allowance, notwithstanding that the claimant has attained the qualifying age for state pension credit. Provisions relating to those claimants and others who have not attained the qualifying age for state pension credit are contained in the Rate Relief (General) Regulations (Northern Ireland) 2007.
+
+These Regulations, in the main, modify the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 ([S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)) (“the Housing Benefit (State Pension Credit) Regulations”) for the purposes only of rate relief.
+
+Part 1 of the Regulations contains general provisions, modification of regulations 3 to 6 of the Housing Benefit (State Pension Credit) Regulations and arrangements for rate relief.
+
+Part 2 makes provision as to entitlement to and exclusion from rate relief. It contains modifications which makes provision in relation to the circumstances in which a person is or is not to be treated as occupying a hereditament as his home and is or is not to be treated as liable to make payments for a hereditament. It also contains modifications of Part II of the Housing Benefit (State Pension Credit) Regulations, the Immigration and Asylum Act 1999 ([1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33)) and the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000 ([S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)).
+
+Part 3 modifies Part III of the Housing Benefit (State Pension Credit) Regulations to specify those payments by way of rates which are to be eligible for the payment of rate relief.
+
+Part 4 modifies sections 133(1) and 138 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 ([1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)) (“the Act”) and Part IV of the Housing Benefit (State Pension Credit) Regulations to specify the circumstances in which a person is or is not to be treated as responsible for another person and who is to be treated as a member of the same household as a claimant for rate relief.
+
+Part 5 modifies Part V of and Schedule 4 to the Housing Benefit (State Pension Credit) Regulations to provide for the calculation of the applicable amount in respect of a person’s entitlement to rate relief, by reference to which the amount of his relief is calculated.
+
+Part 6 modifies section 132(1) of the Act and Part VI of and Schedules 5, 6 and 7 to the Housing Benefit (State Pension Credit) Regulations and contains provisions enabling the income and capital of a person to whom these Regulations apply to be determined. They provide in particular—
+
+- that a person entitled to a guarantee credit in state pension credit is to be treated as having neither income nor capital;
+- that a person whose entitlement to state pension credit is restricted to the savings credit will have his income calculated by reference to the assessment made by the Department for Social Development for the purpose of determining the award of state pension credit. This figure is subject to certain adjustments the determining authority is required to make under regulation 19;
+- that persons to whom the Regulations apply but who have no entitlement to state pension credit are to have their income and capital determined in accordance with regulation 19.
+
+Part 7 modifies Part VII of and Schedules 8 and 9 to the Housing Benefit (State Pension Credit) Regulations to provide for the maximum amount of rate relief payable, extended payments and non-dependant deductions.
+
+Part 8 modifies Part VIII of the Housing Benefit (State Pension Credit) Regulations. It provides, by the use of a formula, for the calculation of the weekly amount of rate relief and contains provisions as to when rate relief is to begin, together with provisions relating to change of circumstances and the date those changes take effect.
+
+Part 9 modifies Part IX of the Housing Benefit (State Pension Credit) Regulations to provide for the making, amendment and withdrawal of claims, the evidence and information required in connection with claims and the duty to notify changes of circumstances. It also provides for the treatment of claims made prior to 1 April 2007 and for payment of rate relief to be dependent on a claim being made.
+
+Part 10 modifies Part X of the Housing Benefit (State Pension Credit) Regulations to provide for the determination of questions arising on claims and the notification of decisions by authorities.
+
+Part 11 modifies Part XI of the Housing Benefit (State Pension Credit) Regulations to provide for the payment of rate relief, including to whom payments are to be made and the withholding of rate relief.
+
+Part 12 modifies section 73(1), (2), (3)(a) and (b) and (7) of the Social Security Administration (Northern Ireland) Act 1992 ([1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)) and Part XII of the Housing Benefit (State Pension Credit) Regulations to provide for the recovery of overpaid rate relief, what constitutes a recoverable overpayment and the method of recovery. It also provides for sums recovered to be paid into the Consolidated Fund of Northern Ireland.
+
+Part 13 provides for the supply, sharing and unauthorised disclosure of information which relates to any matter relating to rate relief for fraud prevention and verification.
+
+Part 14 provides the appeals procedures for rate relief. It modifies Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 ([2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)), Chapters II to V of Part V of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 ([S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)) the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 ([S.R. 1999 No. 225](https://www.legislation.gov.uk/nisr/1999/225)) and the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 ([S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213)) for the purposes of these Regulations.
+
+Part 15 contains provisions relating to enforcement purposes in relation to matters connected with rate relief, including authorisations, the provision of information, delay or obstruction of inspectors, false representations, breach of regulations, penalties as alternatives to prosecution, notices and legal proceedings.
+
+Part 16 contains provisions relating to finance, persons to report on administration and their powers of investigation, reports about the Northern Ireland Housing Executive (“the Executive”), directions by the Department of Finance and Personnel (“the Department”), information about, notice on and the making of a determination on the attainment of standards attained by the Executive and the role of auditors of the Northern Ireland Audit Office in relation to rate relief.
+
+Part 17 contains provisions relating to payment of travelling expenses by the Department.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Finance: *see* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
+
+[^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30A was inserted by Article 14 of [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)
+
+[^key-5ee04af5b1591d064c77a91c39f88798]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2007/203) excluded (27.9.2017) by [The Rate Relief Regulations (Northern Ireland) 2017 (S.R. 2017/184)](https://www.legislation.gov.uk/nisr/2017/184), [reg. 38(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/38/2) (with [reg. 38(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/38/3))
+
+[^key-7d2906cd10101441b4cc65ff8dba0b65]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 2007 No. 204](https://www.legislation.gov.uk/nisr/2007/204)
+
+[^key-c831e56043945815c578af3b7aaadb27]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_61bfb98a-0179-4870-8906-46bab197d64d]: Textual amendment: Reg. 2(1)(za) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_2506d9b7-633b-41bc-c5b3-b8b989ce935f]: Textual amendment: Reg. 2(1)(ca)-(cc) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(b)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_79d15f75-cd69-4dbe-a502-a3282e9cb553]: Textual amendment: Reg. 2(1)(f) omitted by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(2)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_5e159a27-82ec-4c28-d36d-2d468a9f210b]: Textual amendment: Reg. 2(1)(kza) inserted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [3(2)](https://www.legislation.gov.uk/nisr/2011/43/regulation/3/made)
+
+[^M_F_505040d5-8c9d-4fb5-d227-f09a366b2fd5]: Textual amendment: Reg. 2(1)(ka) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(c)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_01cd768a-9b4b-4a43-ec41-1b43b17bac09]: Textual amendment: Reg. 2(1)(l) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(d)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_bc442688-f4fe-4017-e09e-4d6104261b5c]: Textual amendment: Reg. 2(1)(la) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(e)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_8d8782c2-39f5-44a1-f1f2-fc1ef41aacfd]: Textual amendment: Reg. 2(1)(ma)(mb) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(f)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_bade713d-f9c0-43ef-daad-3a7b6d0e570c]: Textual amendment: Reg. 2(1)(na) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(g)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_2bc350e3-f6c4-493f-a62c-92baa9d7352d]: Textual amendment: Reg. 2(1)(sa)(sb) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(h)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_dd71029f-2892-48e6-cb22-3a9fd8403e28]: Textual amendment: Reg. 2(1)(ta) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(2)(i)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^f00004]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00005]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00006]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
+
+[^f00007]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
+
+[^f00008]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
+
+[^key-3f8f73988aa357dbf6b507c695eede2f]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_7ed5308b-b95b-4667-8059-4c413f2732fd]: Textual amendment: Reg. 3(a)(iv)(aa) substituted (1.7.2010) by[The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(3)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^key-830fb6853fd4dab91b724e0141bbd5a4]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-2e4d3196deae619667acb61e070c53d3]: Commencement: Reg. 5 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-5de447e50a651b20fd8633a79b4d0fd1]: Commencement: Reg. 6 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
+
+[^key-315b03bb4d4c643bcbe30c905cfc97f7]: Commencement: Reg. 7 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-b1180c424980f4d0d5310625ca7e1b6d]: Commencement: Reg. 8 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-59735e5b6907e4ee992476d1bfa3718c]: Commencement: Reg. 9 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-4c0e5452a3d7554ee7c0ed950593a10e]: Commencement: Reg. 10 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-55b9db9cacace378b107f237574bd210]: Commencement: Reg. 11 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_13527f34-421e-4863-bb65-54f33c409ccd]: Textual amendment: Reg. 11(1)(f) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(4)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^key-969f4bb37a01717ed21395d507f8205e]: Commencement: Reg. 12 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00010]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33)
+
+[^key-5fa83c37bc4117ab3c837b806ed6fc62]: Commencement: Reg. 13 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
+
+[^key-190882df022bbf12479cf0762a6f84f1]: Commencement: Reg. 14 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-0a8b991e8432c3ce5de42aa9ad5166f7]: Commencement: Reg. 15 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-f4c35f062f118c1fa143e759a3de1871]: Commencement: Reg. 16 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-d583220a6d75ddbbb3a1fff6cd79e753]: Commencement: Reg. 17 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00012]: Footnote: The sums specified in paragraph 1 of Part I of Schedule 4 to [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406) were set out in Schedule 8 to [S.R. 2007 No. 153](https://www.legislation.gov.uk/nisr/2007/153)
+
+[^M_F_38238fe2-e06d-4d4b-b9d8-5e68ffa153db]: Textual amendment: Reg. 17(2)(c)(i) substituted (19.4.2007) by [The Rate Relief (Qualifying Age) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/244)](https://www.legislation.gov.uk/nisr/2007/244), [regs. 1](https://www.legislation.gov.uk/nisr/2007/244/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2007/244/regulation/2/a)
+
+[^key-34d3d073ffa140124c4233c2289078c9]: Textual amendment: [Reg. 17(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2007/203/regulation/17/2/c/ii) substituted (1.4.2022) by [The Rate Relief (Qualifying Age) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/92)](https://www.legislation.gov.uk/nisr/2022/92), [regs. 1](https://www.legislation.gov.uk/nisr/2022/92/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/92/regulation/2)
+
+[^M_F_9ec53157-306a-492e-f4a3-7ba38888ed05]: Textual amendment: Semicolon in reg. 17(2)(d) substituted for full stop (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [3(3)(a)](https://www.legislation.gov.uk/nisr/2011/43/regulation/3/made)
+
+[^M_F_c3a27d03-61a3-4088-c6db-b87b4add1d7b]: Textual amendment: Reg. 17(2)(e) inserted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [3(3)(b)](https://www.legislation.gov.uk/nisr/2011/43/regulation/3/made)
+
+[^key-9a04eb118bc5e242fbf307ffdb53fefe]: Commencement: Reg. 18 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-954e76935971aeaa158ff9de7a85d914]: Commencement: Reg. 19 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_e843850e-d9c4-4141-d748-726b5bf5a7a9]: Textual amendment: Reg. 19(1)(f)(vi) inserted (1.4.2008) by [The Rate Relief (Qualifying Age) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/68)](https://www.legislation.gov.uk/nisr/2008/68/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2008/68/regulation/1/made), [3](https://www.legislation.gov.uk/nisr/2008/68/regulation/3/made)
+
+[^M_F_b8e5aeb3-01d6-41fd-ed7f-c152d4d5ed6d]: Textual amendment: Reg. 19(1)(h) substituted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(4)(a)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_b3a82efc-802c-4b4c-c394-3ed0f82577f1]: Textual amendment: Words in reg. 19(1)(o) substituted (1.4.2008) by [The Rate Relief (Qualifying Age) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/68)](https://www.legislation.gov.uk/nisr/2008/68/contents/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2008/68/regulation/1/made), [4](https://www.legislation.gov.uk/nisr/2008/68/regulation/4/made)
+
+[^M_F_7b05d369-79b0-489d-a8bf-c5304daaf15e]: Textual amendment: Words in reg. 19(1)(r)(ii) substituted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(4)(b)(i)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_1deb98b3-192c-4bb4-d7f0-4922964aea5d]: Textual amendment: Words in reg. 19(1)(r)(iii)(bb) substituted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_a4a178a1-2cce-4a46-f2bf-0aa4d86ac8d7]: Textual amendment: Reg. 19(2)(c) substituted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [3(4)(a)](https://www.legislation.gov.uk/nisr/2011/43/regulation/3/made)
+
+[^M_F_fe960bf6-8c18-4b07-f2e4-c0aab58edc8b]: Textual amendment: Reg. 19(2)(d) substituted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [3(4)(b)](https://www.legislation.gov.uk/nisr/2011/43/regulation/3/made)
+
+[^M_F_90e2c342-8ad2-4df4-d14b-678ada5f74ff]: Textual amendment: Reg. 19(3)(e) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(4)(c)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^key-2e01d4ece8a033c2a73c6e8e7cc48b2b]: Commencement: Reg. 20 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-f4478523c67472ce586aa0a593bcb0bc]: Commencement: Reg. 21 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_6db7afd9-9b07-4ad1-8e7a-64974d727829]: Textual amendment: Reg. 21(1)(d) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(5)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_c334474e-a6b7-4bce-b7ff-0e11a4f69386]: Textual amendment: Reg. 21(1)(g) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(5)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_6b485015-3850-4f91-d44d-e43b8873874b]: Textual amendment: Reg. 21(1)(h) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(5)(b)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_10a93c44-c9e9-4953-c3ae-fa46d2607e3b]: Textual amendment: Reg. 21(1)(ha)(hb) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(5)(c)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_d469b947-b5c8-415c-cbb1-d3e88fc487c4]: Textual amendment: Reg. 21(2) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(5)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^key-6b79485c3f4b155779e1dcad9e267fba]: Commencement: Reg. 22 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-3fff3e370c7e0e9ca5d9dfd4d027c986]: Commencement: Reg. 23 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_b3e23c6b-5459-422e-c95f-981325fb21a8]: Textual amendment: Reg. 23(g)(vi) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(6)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^key-a4df53d81051f513418af1a4f0fde0d9]: Commencement: Reg. 24 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-4a0db3ece7328ae931f8a30c461bcd15]: Commencement: Reg. 25 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_3b817aae-9c81-4466-d19d-d74b854baf87]: Textual amendment: words in reg. 25(1) inserted (1.4.2008) by [The Rate Relief (Qualifying Age) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/68)](https://www.legislation.gov.uk/nisr/2008/68/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2008/68/regulation/1/made), [6(a)](https://www.legislation.gov.uk/nisr/2008/68/regulation/6/made)
+
+[^f00013]: Footnote: Regulations 81, 83 and 84 were amended by regulation 2 of [S.R. 2006 No. 462](https://www.legislation.gov.uk/nisr/2006/462) and regulations 81A and 84A were inserted by regulation 2 of [S.R. 2006 No. 463](https://www.legislation.gov.uk/nisr/2006/463)
+
+[^M_F_c8a8a2cf-b303-426a-ad10-2e51bdfe5b96]: Textual amendment: Reg. 25(1)(d) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(6)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_9cef7a27-83ae-408e-d828-c11dbe49b8a9]: Textual amendment: Reg. 25(1)(d)(ii) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(7)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_46fbc192-50db-466e-f680-1a64989b2701]: Textual amendment: Reg. 25(1)(g)(i) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(6)(b)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_a132503d-3d29-4ed3-a36d-84f5fc9d5054]: Textual amendment: Reg. 25(1)(gg) inserted (1.4.2008) by [The Rate Relief (Qualifying Age) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/68)](https://www.legislation.gov.uk/nisr/2008/68/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2008/68/regulation/1/made), [6(b)](https://www.legislation.gov.uk/nisr/2008/68/regulation/6/made)
+
+[^f00014]: Footnote: Schedule 10 was inserted by Article 3(5) of [S.R. 2006 No. 463](https://www.legislation.gov.uk/nisr/2006/463)
+
+[^key-647d1b3b53908ca0b4f6585045301381]: Commencement: Reg. 26 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-b5c3f4bb1144c280ea71d69b8d6e56c9]: Commencement: Reg. 27 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-2b44866f96cfd09038276b69baedfcd4]: Commencement: Reg. 28 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-35fbc42aaf71b577de40b8e60bffc1c9]: Commencement: Reg. 29 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_b61ac020-00ae-46f0-c1d8-4eeb8937c913]: Textual amendment: Reg. 29(1)(a) substituted (1.7.2010) by[The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(8)(a)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_09b908bd-9980-4e31-83fe-3b8454ec919d]: Textual amendment: Reg. 29(2)(e)(iii) inserted (1.7.2010) by[The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(8)(b)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_708359bb-df79-43a0-8acb-a64129252e6b]: Textual amendment: Reg. 29(2)(e)(iii) added (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(7)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^key-cc71607c773f75379c2a52e22a803a88]: Commencement: Reg. 30 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_c185fbe7-19bd-41d3-96d4-80f4e10f2448]: Textual amendment: Reg. 30(c) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(9)(a)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^M_F_18da27fd-8331-496e-880c-c803a0e9926f]: Textual amendment: Reg. 30(g)(iia) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(8)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_4b9f90d4-5188-465c-cc19-bf4153813eed]: Textual amendment: Words in reg. 30(i)(ii)(bb) substituted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [3(9)(b)](https://www.legislation.gov.uk/nisr/2010/194/regulation/3/made)
+
+[^key-cc6f8ee37c9b3998727db0ef2d14f1a6]: Commencement: Reg. 31 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-d455c7d865411690e0562ece52895445]: Commencement: Reg. 32 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_e6d5b146-0301-47b9-8fec-1f0d363334a4]: Textual amendment: Reg. 32(f)(iia) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(9)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_77ed95dd-7595-4ec6-accb-a501b85c71e8]: Textual amendment: Reg. 32(f)(iii) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(9)(b)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_0e9683c3-7064-4c2d-c83e-4de9f75d3395]: Textual amendment: Reg. 32(g)(ia) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(9)(c)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_c4988d87-ab73-4bcc-d7ca-c42d584800ba]: Textual amendment: Words in reg. 32(j) substituted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made) [regs. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [3(5)](https://www.legislation.gov.uk/nisr/2011/43/regulation/3/made)
+
+[^key-272edcc5e2698f9004f7f698867a9233]: Commencement: Reg. 33 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-70959722f250f20e3ce33cd89a0f4410]: Commencement: Reg. 34 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-8487b5233eb504b7af22badc0fa344f3]: Commencement: Reg. 35 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-a503b98eeafe9cf971df0c5a65d735ee]: Commencement: Reg. 36 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-0987bd6b93daeb35e7a0c9c7d8cb0604]: Commencement: Reg. 37 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-2ed43842eb2549d20e3d417763e5fe92]: Commencement: Reg. 38 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-896af21a6b070b43769d99759b25eb6d]: Commencement: Reg. 39 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00015]: Footnote: [S.I. 1986/595 (N.I.)](https://www.legislation.gov.uk/nisi/1986/595)
+
+[^f00016]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20)
+
+[^f00017]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4)
+
+[^f00018]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
+
+[^f00019]: Footnote: [S.I. 1984/2035](https://www.legislation.gov.uk/uksi/1984/2035)
+
+[^M_F_2ae51048-0810-4b69-b44d-ddd64a3f54f8]: Textual amendment: Words in reg. 39(10)(b) substituted by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/37/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1/made), [37](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/37/made)
+
+[^key-80baa948f8849f21f87184896cf83ffd]: Commencement: Reg. 40 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-b97b54fca73663a6611e7bf9e5465a14]: Commencement: Reg. 41 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-f86885682fb8eb5ae7d78f8a486c40a1]: Commencement: Reg. 42 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^M_F_70541458-ab47-4fef-ffc7-f29e4420bfa2]: Textual amendment: Words in reg. 42(g)(ii) omitted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(10)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_fc2498c6-fd20-462e-ec4f-6d025db408d7]: Textual amendment: Reg. 42(h)(iia) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(10)(b)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_2a7b8eca-9bbd-4a3f-c714-ff5e50a18988]: Textual amendment: Reg. 42(h)(ha) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(10)(c)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^M_F_6d692797-dddc-4d1a-8e56-0c869123fc4c]: Textual amendment: Reg. 42(n)(i) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(10)(d)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^f00020]: Footnote: Paragraph 1A of the Schedule was inserted by paragraph 3(7)(b) of Schedule 2 to [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
+
+[^M_F_2c697bea-3267-45a1-c351-c697380461cf]: Textual amendment: Words in reg. 42(n)(ii)(aa) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [3(10)(e)](https://www.legislation.gov.uk/nisr/2009/339/regulation/3/made)
+
+[^key-ca884912697f4957f9485b4e3ec70fac]: Commencement: Reg. 43 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00021]: Footnote: [S.R. 1999 No. 225](https://www.legislation.gov.uk/nisr/1999/225)
+
+[^f00022]: Footnote: The definition of “the chairman” was amended by regulation 2(3) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00023]: Footnote: The definition of “the Department” was substituted by regulation 2(3) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00024]: Footnote: The definition of “person affected” was inserted by regulation 2(3) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00025]: Footnote: The definition of “relevant authority” was inserted by regulation 2(3) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00026]: Footnote: Regulation 4(2) was inserted by regulation 2(3) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00027]: Footnote: Regulation 14(3) was amended by regulation 2(7) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00028]: Footnote: Regulation 15 was amended by regulation 2(8) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00029]: Footnote: Regulation 18(4) was inserted by regulation 2(9) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00030]: Footnote: Regulation 19 was amended by regulation 2(10) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00031]: Footnote: Regulation 24(6)(ff) was inserted by regulation 2(11) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00032]: Footnote: Regulation 28(2) was amended by regulation 2(12) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00033]: Footnote: Regulation 32(1) was amended by regulation 2(15) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^f00034]: Footnote: Regulation 33 was amended by regulation 2(16) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
+
+[^key-c1bee71b78028471be4fb6111778461d]: Commencement: Reg. 44 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-e373f6d3e45730290a3bc9b4b3ba64fd]: Commencement: Reg. 45 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-7dc065940401d79e1277ddb2c76f443a]: Commencement: Reg. 46 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-efbba716c17b4198ba9ab560385870cb]: Commencement: Reg. 47 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-6199ab465aedd182b78e5a1877400416]: Commencement: Reg. 48 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-b3fd0d22b4afdcbe8c21b49a0476c8ad]: Commencement: Reg. 49 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-8863cd6bae216c28e1714a8b53209046]: Commencement: Reg. 50 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-23c84fd5b6cbf6b42c0ec5c36410b470]: Commencement: Reg. 51 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-0b1284ac9a9a6fb08cf8b9d11724e2b1]: Commencement: Reg. 52 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-6a9ce2693b1169feedca2458c7dceb3f]: Textual amendment: [Reg. 52(4)](https://www.legislation.gov.uk/nisr/2007/203/regulation/52/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [109(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [109(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/3))
+
+[^key-cf5622856b86b574f67516e8bedee854]: Textual amendment: [Reg. 52(5)](https://www.legislation.gov.uk/nisr/2007/203/regulation/52/5) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [109(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [109(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/3))
+
+[^key-d3268963bff180bbdee2adf45d070035]: Commencement: Reg. 53 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00035]: Footnote: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61)
+
+[^key-92348e6dddaba10dbb5787dd9df7d88a]: Commencement: Reg. 54 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-8b31465c8ede1b2e6d43cddbbc622d93]: Commencement: Reg. 55 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-ddf49c03cf7b3c0268a278fcc2303a1f]: Commencement: Reg. 56 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-5d243b84802e9f6ffdd54c46238fad49]: Commencement: Reg. 57 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-e20926d3ee1f4d40c3c4fcbd0a881dc2]: Commencement: Reg. 58 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-166cb5796d9ae51075794d8597513687]: Commencement: Reg. 59 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^f00036]: Footnote: [S.I. 1981/156 (N.I. 3)](https://www.legislation.gov.uk/nisi/1981/156)
+
+[^key-a6e9021543d4ca3e830a5630822ea0c3]: Commencement: Reg. 60 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-5a52de9bb7462dba4ad15e409e33452a]: Commencement: Reg. 61 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-296062aba5f935953265a31a5d8ee34e]: Commencement: Reg. 62 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-f86c8aff9b302e6a407fbdc067303d3c]: Commencement: Reg. 63 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-5d852d923f0316a8d38e214f3f3768d1]: Commencement: Reg. 64 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)
+
+[^key-feb6749a3f6930762ddd5a9af613b1ca]: Commencement: Reg. 65 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1)

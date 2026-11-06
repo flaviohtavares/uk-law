@@ -1,0 +1,34 @@
+---
+title: Public Services Ombudsman Act (Northern Ireland) 2016, section 5
+act: Public Services Ombudsman Act (Northern Ireland) 2016
+section: '5'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/4/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services Ombudsman Act (Northern Ireland) 2016, section 5
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/nia/2016/4
+>
+> Extent: Northern Ireland.
+
+## 5. Power to investigate complaints made by a person aggrieved
+
+*Extent: N.I.*
+
+(1) The Ombudsman may investigate a complaint, made by a member of the public who claims to have sustained an injustice (in this Act referred to as “**a person aggrieved**”), if the requirements of this section are met.
+
+(2) The complaint must relate to action taken by a listed authority (see sections 12 and 13).
+
+(3) The complaint must relate to a matter which can be investigated (see sections 14 to 23).
+
+(4) The procedural requirements of sections 24 to 27 must have been followed.
+
+(5) In this section “**member of the public**” means any individual or any incorporated or unincorporated body other than—
+
+- (a) a listed authority acting in its capacity as such, or
+- (b) a member or officer, at the time of the action complained of and acting in that capacity, of the listed authority against which the complaint is made.

@@ -1,0 +1,886 @@
+---
+title: The Domiciliary Care Agencies Regulations (Northern Ireland) 2007
+id: nisr/2007/235
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-04-04'
+text_date: '2020-04-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/235
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/235/pdfs/nisr_20070235_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/235/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Domiciliary Care Agencies Regulations (Northern Ireland) 2007
+
+> Text as at 2020-04-02.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 235
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+The Domiciliary Care Agencies Regulations (Northern Ireland) 2007
+
+Made
+
+4th April 2007
+
+Coming into operation
+
+30th April 2007
+
+The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 2(2), 2(8)(b), 23(1), (2)(a) to (d) and (f) to (j), (5)(a) and (7)(a) to (h) and (j), 25, 30, 31(1), 32 and 48(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
+
+In accordance with Article 23(8) of that Order the Department has consulted with such persons as it considers appropriate.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-dc6ee908255be94ebb84837c43506932]
+
+These Regulations may be cited as the Domiciliary Care Agencies Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
+
+### 2. Interpretation[^key-cce043cb45087177a6f7a4986b860bf5]
+
+(1) In these Regulations—
+
+- “the Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+- “agency” means a domiciliary care agency;
+- “agency premises” means the premises from which the activities of an agency are carried on;
+- “[^key-778be765bdc094a53bcc17ea7b5b8d69]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-5a2b4bcd1ef7ab6b46bd1a6ed485e8de]
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;
+- “direct service provider” means a provider who supplies a domiciliary care worker who is employed by, and who acts for and under the control of, the provider;
+- “domiciliary care worker” means a person who—
+  - (a) is employed by an agency to act for, and under the control of, another person;
+  - (b) is introduced by an agency to a service user for employment by him; or
+  - (c) is employed by a direct service provider,
+
+  in a position which is concerned with the provision of prescribed services in their own homes for persons who by reason of illness, infirmity, disability or family circumstances are unable to provide any such service for themselves without assistance;
+- “organisation” means a body corporate or any unincorporated association other than a partnership;
+- “personal care” has the same meaning as in Article10(3) of the Order;
+- “prescribed services” shall be construed in accordance with regulation 3;
+- “[^key-9b8409184c0fba7a078bc55162ad4d26]**the register**” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;
+- “registered manager”, in relation to an agency, means a person who is registered under Part III of the Order as the manager of the agency;
+- “registered person”, in relation to an agency, means any person who is the registered provider or the registered manager of the agency;
+- “registered provider”, in relation to an agency, means a person who is registered under Part III of the Order as the person carrying on the agency;
+- “relative” in relation to a service user, means—
+  - (a) the service user’s spouse or civil partner;
+  - (b) any parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece of the service user, or his spouse or civil partner;
+  - (c) the spouse or civil partner of any relative within sub-paragraph (b) of this definition,
+
+  and for the purpose of determining any such relationship a service user’s step-child shall be treated as his child, and references to “spouse” include a former spouse and a person who is living with the service user as husband or wife and references to “civil partner” include a former civil partner and a person who is living with the service user as if they were civil partners;
+- “**the relevant part**” means that part of the register referred to in section 3(2) of the 2001 Act which is most relevant to that person, taking into account their current employment;
+- “representative” means in relation to a service user, a person other than the registered person or a person employed by the agency, who with the service user’s express or implied consent, takes an interest in the service user’s health and welfare;
+- “responsible individual” shall be construed in accordance with regulation 8(2);
+- “service user” means any person for whom an agency—
+  - (a) supplies a domiciliary care worker who is employed by the agency (including domiciliary care workers supplied by a direct service provider); or
+  - (b) provides services for the purpose of supplying him with a domiciliary care worker for employment by him;
+- “service user’s guide” means the guide produced in accordance with regulation 6(1);
+- “service user plan” means the written plan prepared in accordance with regulation 15(2);
+- “statement of purpose” means the written statement compiled in accordance with regulation 5(1).
+
+(2) In these Regulations, references to the supply of a domiciliary care worker mean—
+
+- (a) the supply of a domiciliary care worker who is employed by an agency to act for and under the control of another person;
+- (b) the introduction of a domiciliary care worker by an agency to a service user for employment by him; and
+- (c) the supply of a domiciliary care worker employed by a direct service provider to a service user.
+
+(3) In these Regulations, the terms “employed” and “employment” include employment under a contract of service or a contract for services, or otherwise than under a contract and whether or not for payment.
+
+### 3. Prescribed services[^key-e0420be612691a1517b3986e3c84b184]
+
+For the purposes of the definition of “domiciliary care agency” in Article 2(2) of the Order, the prescribed services are:
+
+- (a) personal care; and
+- (b) assessment of the need for such care.
+
+### 4. Excepted undertakings[^key-14317521c7b0939fd02e281d17d86cd4]
+
+For the purposes of the Order, an undertaking is excepted from the definition of “domiciliary care agency” in Article 2(2) of the Order if the undertaking is carried on by an individual who—
+
+- (a) carries it on otherwise than in partnership with others;
+- (b) is not employed by an organisation to carry it on; and
+- (c) does not employ any other person for the purpose of the undertaking.
+
+### 5. Statement of purpose[^key-147f3d38e9d6ff436fbbe012eac489cc]
+
+(1) The registered person shall compile in relation to the agency a written statement (in these Regulations referred to as “the statement of purpose”) which shall consist of a statement as to the matters listed in Schedule 1.
+
+(2) The registered person shall supply a copy of the statement of purpose to the RQIA[^key-cf8fa49351d4fc45dfde5e028dd4ec6f] and shall make a copy of it available on request for inspection at the agency premises by every service user and the service user’s representative.
+
+(3) Nothing in regulation 25 shall require or authorise the registered person to contravene, or not to comply with—
+
+- (a) any other provision of these Regulations; or
+- (b) the conditions for the time being in force in relation to the registration of the registered person under Part III of the Order.
+
+### 6. Service user’s guide[^key-b4fb952dc3d98e7826c226b3212f729d]
+
+(1) The registered person shall produce a written service user’s guide which shall include—
+
+- (a) a summary of the statement of purpose;
+- (b) the terms and conditions in respect of the services to be provided to service users, including details as to the amount and method of payment of fees, if appropriate;
+- (c) a summary of the complaints procedure established in accordance with regulation 22; and
+- (d) the address and telephone number of the RQIA.
+
+(2) The registered person shall supply a copy of the service user’s guide to the RQIA and every service user and, upon request, to the service user’s representative.
+
+(3) On request the registered person shall also provide, to the service user or the service user’s representative, access to a copy of the most recent inspection report and information on how to access earlier inspection reports.
+
+### 7. Review of statement of purpose and service user’s guide[^key-1c146611876280654ad47688b92daf4c]
+
+The registered person shall—
+
+- (a) keep under review and, where appropriate, revise the statement of purpose and the service user’s guide; and
+- (b) notify the RQIA and service users or their representatives of any material revision within 28 days.
+
+## PART II — REGISTERED PERSONS
+
+### 8. Fitness of registered provider[^key-7516680ae268552845bd890ddaf254ce]
+
+(1) A person shall not carry on an agency unless he is fit to do so.
+
+(2) A person is not fit to carry on an agency unless the person—
+
+- (a) is an individual, who carries on the agency—
+  - (i) otherwise than in partnership with others, and he satisfies the requirements set out in paragraph (3);
+  - (ii) in partnership with others, and he and each of his partners satisfies the requirements set out in paragraph (3);
+- (b) is a partnership, and each of the partners satisfies the requirements set out in paragraph (3);
+- (c) is an organisation and—
+  - (i) the organisation has given notice to the RQIA of the name, address and position in the organisation of an individual (in these Regulations referred to as “the responsible individual”) who is a director, manager, secretary or other officer of the organisation and is responsible for supervising the management of the agency; and
+  - (ii) that individual satisfies the requirements set out in paragraph (3).
+
+(3) The requirements are that—
+
+- (a) he is of integrity and good character;
+- (b) he is physically and mentally fit to carry on the agency; and
+- (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
+
+(4) A person shall not carry on an agency if—
+
+- (a) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged and the bankruptcy order has not been annulled or rescinded; or
+- (ab)[^key-183c7106fa4eb360c72ca20caf96f867] he is the subject of a bankruptcy restrictions order; or
+- (ac)[^key-c3eeab32055edb387af67ed7e6b3da34] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
+- (b) he has made a composition or arrangement with his creditors and has not been discharged in respect of it.
+
+### 9. Appointment of manager[^key-b53deef577510c760f17af85934a874d]
+
+(1) The registered provider shall appoint an individual to manage the agency where—
+
+- (a) there is no registered manager in respect of the agency; and
+- (b) the registered provider—
+  - (i) is an organisation or a partnership; or
+  - (ii) is not a fit person to manage an agency; or
+  - (iii) is not, or does not intend to be, managing the agency himself.
+
+(2) Where the registered provider appoints a person to manage the agency, he shall forthwith give notice to the RQIA of—
+
+- (a) the name of the person so appointed; and
+- (b) the date on which the appointment is to take effect.
+
+### 10. Fitness of registered manager[^key-853b4351673fa030a98cab153f1aa595]
+
+(1) A person shall not manage an agency unless he is fit to do so.
+
+(2) A person is not fit to manage an agency unless—
+
+- (a) he is of integrity and good character;
+- (b) having regard to the size of the agency, the statement of purpose and the number and needs of the service users—
+  - (i) he has the qualifications, skills and experience necessary to manage the agency; and
+  - (ii) he is physically and mentally fit to do so; and
+- (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
+
+### 11. Registered person — general requirements and training[^key-5b72ac7ea14025aca1aafcdf1129bda9]
+
+(1) The registered provider and the registered manager shall, having regard to the size of the agency, the statement of purpose and the number and needs of the service users, carry on or (as the case may be) manage the agency with sufficient care, competence and skill.
+
+(2) If the registered provider is—
+
+- (a) an individual, he shall undertake;
+- (b) an organisation, it shall ensure that the responsible individual undertakes; or
+- (c) a partnership, it shall ensure that one of the partners undertakes,
+
+from time to time such training as is appropriate to ensure that he has the experience and skills necessary for carrying on the agency.
+
+(3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the experience and skills necessary for managing the agency.
+
+### 12. Notification of offences[^key-5b9927b75ad0820356d7b503a2a627f2]
+
+Where the registered person or the responsible individual is convicted of any criminal offence, whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA of—
+
+- (a) the date and place of the conviction;
+- (b) the offence of which he was convicted; and
+- (c) the penalty imposed on him in respect of the offence.
+
+## PART III — CONDUCT OF DOMICILIARY CARE AGENCIES
+
+### CHAPTER I — QUALITY OF SERVICE PROVISION
+
+#### 13. Fitness of domiciliary care workers supplied by an agency[^key-a81097b0856a021fbce71afdce1d83d2][^key-670e22033fa7c2976a8f396504b81735]
+
+(1)[^key-29b7a76536904ea3e7182881df538a8d] The registered person shall ensure that no domiciliary care worker is supplied by the agency unless—
+
+- (a) he is of integrity and good character;
+- (b) he has the experience and skills necessary for the work that he is to perform;
+- (c) he is physically and mentally fit for the purposes of the work which he is to perform; [^key-b512e3e587ad9606d73d403bd24ecaa0]...
+- (d) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 3;[^key-23ff33372fd325d836943eb56cc775c9]
+
+  but this is subject to paragraphs (2) to (4).[^key-fb160f7cc576a1694a73048d02061722]
+- (e)[^key-bc12a495a43321fdee7e732ae9869c43] subject to sub-paragraphs (f) and (g), he is registered in the relevant part of the register;
+- (f) sub-paragraph (e) does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, to be registered with any person or body other than the Northern Ireland Social Care Council and is so registered; and
+- (g) sub-paragraph (e) does not apply to persons allowed to work as volunteers.
+
+(2)[^key-e2d4569e4cd8a93f408d73e49bb94d12] Where the conditions set out in paragraph (3) are satisfied, the agency may supply a domiciliary care worker (“P”) to a service user even though the information and documents mentioned in paragraphs 2 and 4 to 12 of Schedule 3 other than details of registration with an appropriate regulatory body are not available.
+
+(3) The conditions are that the registered person must ensure that—
+
+- (a) whichever of the following certificates would be required to be obtained in respect of P under paragraph 12 of Schedule 3 in the absence of paragraph (2) has been applied for—
+  - (i) a criminal record certificate pursuant to section 113A of the Police Act 1997, or
+  - (ii) an enhanced criminal record certificate pursuant to section 113B of that Act;
+- (b) the information and documents mentioned in paragraphs 2 and 4 to 11 of Schedule 3 have been requested; and
+- (c) confirmation has been obtained in writing from the Department of Justice that P is not included in the adults’ barred lists maintained under Article 6(1)(b) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+(4) Where the agency supplies a domiciliary care worker to a service user in the circumstances mentioned in paragraph (2), and the agency is acting otherwise than as an employment agency, the agency must—
+
+- (a) ensure that, so far as is reasonably practicable, an appropriately qualified and experienced member of staff supervises P and is available to be contacted when P is on duty, until the information and documents mentioned in paragraphs 2 and 4 to 12 of Schedule 3 have been obtained; and
+- (b) contact the service user, or the service user’s representative, at regular intervals and no less than once per month in order to monitor the service user’s satisfaction with the care provided by P, and any complaints that may arise;
+- (c) inform the service user, or the service user’s representative, of the position in relation to the information and documents, including when they are available; and
+- (d) terminate the supply of P to the service user where the registered person considers that the information or documents, when available, are not satisfactory.
+
+#### 14. Conduct of agency[^key-eac2d4d389b5245a6120fc7cec7406bf]
+
+Where the agency is acting otherwise than as an employment agency, the registered person shall make suitable arrangements to ensure that the agency is conducted, and the prescribed services arranged by the agency, are provided—
+
+- (a) so as to ensure the safety and well-being of service users;
+- (b) so as to safeguard service users against abuse or neglect;
+- (c) so as to promote the independence of service users;
+- (d) so as to ensure the safety and security of service users' property, including their homes;
+- (e) in a manner which respects the privacy, dignity and wishes of service users, and the confidentiality of information relating to them; and
+- (f) with due regard to the sex, religious persuasion, racial origin, and cultural and linguistic background and any disability of service users, and to the way in which they conduct their lives.
+
+#### 15. Arrangements for the provision of prescribed services[^key-39f078e758c13b1d52ec230484ce1129]
+
+(1) Paragraphs (2) to (12) apply only to the supply of domiciliary care workers to service users by an agency which is acting otherwise than as an employment agency.
+
+(2) The registered person shall, after consultation with the service user, or if consultation with the service user is not practicable, after consultation with the service user’s representative, prepare or ensure that a written plan (“the service user plan”) is prepared which shall—
+
+- (a) be consistent with any plan for the care of the service user prepared by any Health and Social Services Trust or Health and Social Services Board or other person with responsibility for commissioning personal social services for service users;
+- (b) specify the service user’s needs in respect of which prescribed services are to be provided;
+- (c) specify how those needs are to be met by the provision of prescribed services.
+
+(3) The registered person shall—
+
+- (a) make the service user’s plan available to:
+  - (i) the service user;
+  - (ii) any representative of a service user who was consulted on its preparation or revision;
+- (b) keep the service user plan under review;
+- (c) where appropriate, and after consultation with the service user, or if consultation with the service user is not practicable, after consultation with the service user’s representative, revise the service user plan; and
+- (d) notify the service user or, where applicable, the service user’s representative, of any such revision.
+
+(4) The registered person shall, so far as is practicable, ensure that the prescribed services which the agency arranges to be provided to any service user meets the service user’s needs specified in the service user plan prepared in respect of him.
+
+(5) The registered person shall, for the purpose of providing prescribed services to service users, so far as is practicable—
+
+- (a) ascertain and take into account the service user's, and where appropriate their carer's, wishes and feelings;
+- (b) provide the service user, and where appropriate their carer, with comprehensive information and suitable choices as to the prescribed services that may be provided to them; and
+- (c) encourage and enable the service user, and where appropriate their carer, to make informed decisions with respect to such prescribed services.
+
+(6) The registered person shall ensure that where the agency arranges the provision of prescribed services to a service user, the arrangements shall—
+
+- (a) specify the procedure to be followed after an allegation of abuse, neglect or other harm has been made;
+- (b) specify the circumstances in which a domiciliary care worker may administer or assist in the administration of the service user’s medication, or any other tasks relating to the service user’s health care, and the procedures to be adopted in such circumstances;
+- (c) include arrangements to assist the service user with mobility in his home, where required; and
+- (d) specify the procedure to be followed where a domiciliary care worker acts as agent for, or receives money from, a service user.
+
+(7) The registered person shall make arrangements for the recording, handling, safe keeping, safe administration and disposal of medicines used in the course of the provision of prescribed services to service users.
+
+(8) The registered person shall make suitable arrangements, including training, to ensure that domiciliary care workers operate a safe system of working, including in relation to lifting and moving service users and the operation of any special equipment.
+
+(9) The registered person shall make arrangements, by training or by other measures, to prevent service users being harmed or suffering abuse or neglect or being placed at risk of harm, abuse or neglect.
+
+(10) The registered person shall ensure that no service user is subject to physical restraint unless restraint of the kind employed is the only practicable means of securing the welfare of that or any other service user and there are exceptional circumstances.
+
+(11) On any occasion on which a service user is subject to physical restraint by a person who works as a domiciliary care worker for the purposes of the agency, the registered person shall record the circumstances, including the nature of the restraint.
+
+(12) The procedure referred to in paragraph (6)(a) shall in particular provide for—
+
+- (a) written records to be kept of any allegation of abuse, neglect or other harm and of the action taken in response; and
+- (b) the RQIA to be notified of any incident reported to the police, not later than 24 hours after the registered person—
+  - (i) has reported the matter to the police; or
+  - (ii) is informed that the matter has been reported to the police.
+
+#### 16. Staffing[^key-5eea1bacb55855418de8171a700b7d94]
+
+(1) Where an agency is acting otherwise than as an employment agency, the registered person shall, having regard to the size of the agency, the statement of purpose and the number and needs of the service users, ensure that—
+
+- (a) there is at all times an appropriate number of suitably skilled and experienced persons employed for the purposes of the agency;
+- (b) appropriate information and advice are provided to persons employed for the purposes of the agency, and are made available to them at their request, in respect of—
+  - (i) service users and their needs in respect of prescribed services; and
+  - (ii) the provision of prescribed services to service users;
+- (c) suitable assistance and where necessary, appropriate equipment, is provided to persons working for the purposes of the agency, and is made available to them at their request, in respect of the provision of prescribed services to service users;
+- (d) suitably qualified and competent persons are available to be consulted during any period of the day in which a person is working for the purposes of the agency; and
+- (e) neither of the following circumstances, that is—
+  - (i) the employment of any persons on a temporary basis for the purposes of the agency; and
+  - (ii) any arrangements made for persons to work as domiciliary care workers on a temporary basis for those purposes,
+
+  will prevent service users from receiving such continuity of care as is reasonable to meet their needs for prescribed services.
+
+(2) The registered person shall ensure that each employee of the agency—
+
+- (a) receives training and appraisal which are appropriate to the work he is to perform;
+- (b) receives suitable assistance, including time off, for the purpose of obtaining qualifications appropriate to such work; and
+- (c) is provided with a job description outlining his responsibilities.
+
+(3) The registered person shall take such steps as may be necessary to address any aspect of the performance of a domiciliary care worker which is found to be unsatisfactory.
+
+(4) The registered person shall ensure that each employee receives appropriate supervision.
+
+(5) Where an agency is acting otherwise than as an employment agency, the registered person shall ensure that—
+
+- (a) a new domiciliary care worker (“the new worker”) is provided with appropriately structured induction training lasting a minimum of three full working days; and
+- (b) during that induction training—
+  - (i) the new worker is not supplied to a service user unless accompanied by another domiciliary care worker who is a suitably qualified and competent person;
+  - (ii) a member of staff (“the staff member”) who is suitably qualified and experienced, is appointed to supervise the new worker;
+  - (iii) the staff member (or another suitably qualified and competent person if the staff member is unavailable) will always be available to be consulted while the new worker is on duty; and
+  - (iv) subject to the consent of the service user, the staff member makes arrangements to observe, on at least one occasion, the new worker carrying out his duties.
+
+#### 17. Staff handbook[^key-35ad0e9e00e63b4fdc8ea1775b88764a]
+
+(1) Where an agency is acting otherwise than as an employment agency, the registered person shall prepare a staff handbook and provide a copy to every member of staff.
+
+(2) The handbook prepared in accordance with paragraph (1) shall include a statement as to—
+
+- (a) the conduct expected of members of staff, and disciplinary action which may be taken against them;
+- (b) the role and responsibilities of domiciliary care workers and other staff;
+- (c) record keeping requirements;
+- (d) recruitment procedures; and
+- (e) training and development requirements and opportunities.
+
+#### 18. Provision of information to service users[^key-5027d3ea0d958092e1c2f1b75cfaf74b]
+
+(1) The registered person shall ensure that before a domiciliary care worker is supplied to a service user, the service user is informed of—
+
+- (a) the name of the domiciliary care worker to be supplied, and the means of contacting him;
+- (b) the name of the member of staff of the agency who is responsible for the supply of that domiciliary care worker; and
+- (c) where the agency is acting otherwise than as an employment agency, details of how he may contact the registered person, or a person nominated to act on behalf of the registered person.
+
+(1A)[^key-be49e841184fdef43e219e0bf665ce3c] Where the agency supplies a domiciliary care worker to a service user in the circumstances mentioned in regulation 13(2), and the agency is acting as an employment agency, the registered person must—
+
+- (a) inform the service user of the information and documents mentioned in paragraphs 2 and 4 to 12 of Schedule 3 that are not yet available;
+- (b) inform the service user when the information and documents are available.
+
+(2)[^key-003063ca864aaed78959edb118b0ad05] The registered person must ensure, where appropriate, that the information specified in paragraph (1) and, where applicable, paragraph (1A) is provided to the service user’s relatives or carers.
+
+#### 19. Disclosure of Information[^key-cd45121bd6b6b24582ed66d120645141]
+
+The registered person shall ensure that any personal information about a service user for whom a domiciliary care worker is supplied by the agency is not disclosed to any member of the agency’s staff, or other person, unless it is necessary to do so in order to provide an effective service to the service user.
+
+#### 20. Identification of workers[^key-1169ba56321883808cdde14c3b491b4f]
+
+Where the agency is acting otherwise than as an employment agency, the registered person shall ensure that every domiciliary care worker supplied by the agency is instructed that, while attending on a service user for the purposes of the provision of prescribed services, he must present the service user with identification showing his name, the name of the agency and a recent photograph.
+
+#### 21. Records[^key-62310c6537181c9a727365836941a9f7]
+
+(1) The registered person shall ensure that the records specified in Schedule 4 are maintained, and that they are—
+
+- (a) kept up to date, in good order and in a secure manner;
+- (b) retained for a period of not less than eight years beginning on the date of the last entry; and
+- (c) at all times available for inspection at the agency premises by any person authorized by the RQIA.
+
+(2) The registered person shall ensure that, in addition to the records referred to in paragraph (1), a copy of the service user plan and a detailed record of the prescribed services provided to the service user are kept at the service user’s home and that they are kept up to date, in good order and in a secure manner.
+
+#### 22. Complaints[^key-f55f4205d56b671ffa42a1f1d081bd1e]
+
+(1) The registered person shall establish a procedure (“the complaints procedure”) for considering complaints made to the registered person by a service user or a service user’s representative.
+
+(2) The complaints procedure shall be appropriate to the needs of service users.
+
+(3) The registered person shall supply a written copy of the complaints procedure to every service user and, upon request, to the service user’s representative.
+
+(4) Where a written copy of the complaints procedure is to be supplied in accordance with paragraph (3) to a person who is blind or whose vision is impaired, the registered person, shall so far as it is practicable to do so supply, in addition to the written copy, a copy of the complaints procedure in a form which is suitable for that person.
+
+(5) The copy of the complaints procedure to be supplied in accordance with paragraph (3) shall include—
+
+- (a) the address and telephone number of the RQIA; and
+- (b) the procedure (if any) which has been notified by the RQIA to the registered person for making complaints to the RQIA relating to the agency.
+
+(6) The registered person shall ensure that every complaint made under the complaints procedure is fully investigated.
+
+(7) The registered person shall, within the period of 28 days beginning on and including the date on which the complaint is made, or such shorter period as may be reasonable in the circumstances, inform the person who made the complaint of the action (if any) that is to be taken in response.
+
+(8) The registered person shall maintain a record of each complaint, including details of the investigations made, the outcome and any action taken in consequence and the requirements of regulation 21(1) shall apply to that record.
+
+(9) The registered person shall supply to the RQIA at its request a statement containing a summary of the complaints made during the preceding twelve months ending on the date of the request and the action taken in response.
+
+#### 23. Assessment of quality of services[^key-73ee5b5eb41c969653e835a7618d33fc]
+
+(1) The registered person shall establish and maintain a system for evaluating the quality of the services which the agency arranges to be provided.
+
+(2) At the request of the RQIA, the registered person shall supply to it a report, based upon the system referred to in paragraph (1), which describes the extent to which, in the reasonable opinion of the registered person, the agency—
+
+- (a) arranges the provision of good quality services for service users;
+- (b) takes the views of service users and their representatives into account in deciding—
+  - (i) what services to offer to them, and
+  - (ii) the manner in which such services are to be provided; and
+- (c) has responded to recommendations made or requirements imposed by the RQIA in relation to the agency over the period specified in the request.
+
+(3) The report referred to in paragraph (2) shall be supplied to the RQIA within one month of the receipt by the agency of the request referred to in that paragraph, and in the form and manner required by the RQIA.
+
+(4) The report shall also contain details of the measures that the registered person considers it necessary to take in order to improve the quality and delivery of the services which the agency arranges to be provided.
+
+(5) The system referred to in paragraph (1) shall provide for consultation with service users and their representatives.
+
+#### 24. Improvement plan[^key-040bec7fe5e4881cc05300377d65aab2]
+
+(1) If requested to do so by the RQIA, the registered person shall produce a plan (the improvement plan) setting out the methods by which, and the timetable to which, the registered person intends to improve the services which the agency arranges to be provided.
+
+(2) The registered person shall provide a written copy of the improvement plan to the RQIA within one month of receipt of the request referred to in paragraph (1).
+
+(3) A copy of the plan shall be made available to service users and their representatives.
+
+### CHAPTER 2 — PREMISES
+
+#### 25. Fitness of premises[^key-3a28ed8a4046c2ee819b4e85dd5a23eb]
+
+Subject to regulation 5(3), the registered person shall not use the premises for the purpose of an agency unless the premises are suitable for the purpose of achieving the aims and objectives of the agency set out in the statement of purpose.
+
+### CHAPTER 3 — FINANCIAL MATTERS
+
+#### 26. Financial position[^key-b446a04991399d4cded84aaea566bc09]
+
+(1) The registered provider shall carry on the agency in such manner as is likely to ensure that the agency will be financially viable for the purpose of achieving the aims and objectives of the agency set out in the statement of purpose.
+
+(2) The registered person shall, if the RQIA so requests, provide the RQIA with such information and documents as it may require in order to consider the financial viability of the agency, including—
+
+- (a) the annual accounts of the agency, certified by an accountant; and
+- (b) a certificate of insurance for the registered provider in respect of liability which may be incurred by him in relation to the agency in respect of death, injury, public liability, damage or other loss.
+
+### CHAPTER 4 — NOTICES TO BE GIVEN TO THE RQIA
+
+#### 27. Notice of absence[^key-097a6644feaa12237884e85eb66ea1c3]
+
+(1) Where—
+
+- (a) the registered provider, being an individual who manages the agency himself; or
+- (b) the registered manager,
+
+proposes to be absent from the agency for a continuous period of 28 days or more, the registered provider shall give notice in writing to the RQIA of the proposed absence.
+
+(2) Except in the case of an emergency, the notice referred to in paragraph (1) shall be given no later than one month before the proposed absence commences, or within such shorter period as may be agreed with the RQIA and the notice shall specify—
+
+- (a) the length or expected length of the absence;
+- (b) the reason for the absence;
+- (c) the arrangements which have been made for running the agency during that absence;
+- (d) the name, address and qualifications of the person who will be managing the agency during that absence; and
+- (e) in the case of the absence of the registered manager, the arrangements that have been, or are proposed to be, made for appointing another person to manage the agency during that absence, including the proposed date by which the appointment is to be made.
+
+(3) Where the absence arises as a result of an emergency, the registered provider shall give notice of the absence within one week of its occurrence specifying the matters set out in paragraph (2)(a) to (e).
+
+(4) Where—
+
+- (a) the registered provider, being an individual who manages the agency himself; or
+- (b) the registered manager,
+
+has been absent from the agency for a continuous period of 28 days or more, and the RQIA has not been given notice of the absence, the registered provider shall, without delay, give notice in writing to the RQIA of the absence, specifying the matters set out in paragraph (2)(a) to (e).
+
+(5) The registered provider shall notify the RQIA of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
+
+#### 28. Notice of changes[^key-8883968da91d794b63eb9cf6035c36fe]
+
+The registered person shall give notice in writing to the RQIA as soon as it is practicable to do so if any of the following events takes place or are proposed to take place—
+
+- (a) a person other than the registered person carries on or manages the agency;
+- (b) a person ceases to carry on or manage the agency;
+- (c) where the registered person is an individual, he changes his name;
+- (d) where the registered provider is a partnership, there is any change in the membership of that partnership;
+- (e) where the registered provider is an organisation—
+  - (i) the name or address of the organisation is changed;
+  - (ii) there is any change of director, manager, secretary or other similar officer of the organisation; or
+  - (iii) there is any change in the identity of the responsible individual;
+- (f) where the registered provider is an individual, a trustee in bankruptcy is appointed;
+- (g) where the registered provider is a company or partnership, a receiver, manager, liquidator or provisional liquidator is appointed; or
+- (fa)[^key-0841f3bdaf0cd5ebf061d80ac02fb021] where the registered provider is an individual, a debt relief order is made in respect of him;
+- (h) the registered provider acquires additional premises for the purposes of the agency.
+
+#### 29. Appointment of liquidators etc.[^key-a58cfe784a4d37b2b2eafb45aa259e88]
+
+(1) Any person to whom paragraph (2) applies must—
+
+- (a) forthwith notify the RQIA of his appointment indicating the reasons for it;
+- (b) appoint a manager in any case where there is no registered manager; and
+- (c) not more than 28 days after his appointment, notify the RQIA of his intentions regarding the future operation of the agency.
+
+(2) This paragraph applies to any person appointed as—
+
+- (a) the receiver or manager of the property of a company or partnership which is a registered provider in respect of an agency;
+- (b) the liquidator or provisional liquidator of a company which is the registered provider in respect of an agency; or
+- (c) the trustee in bankruptcy of a registered provider in respect of an agency.
+
+#### 30. Death of registered person[^key-8f374ffb07f460a86ce6c41e52f1ad75]
+
+(1) If more than one person is registered in respect of an agency, and a registered person dies, the surviving registered person shall without delay notify the RQIA of the death in writing.
+
+(2) If only one person is registered in respect of an agency, and he dies, his personal representatives must notify the RQIA in writing—
+
+- (a) without delay of the death; and
+- (b) within 28 days of their intentions regarding the future running of the agency.
+
+(3) The personal representatives of the deceased registered provider may carry on the agency without being registered in respect of it—
+
+- (a) for a period not exceeding 28 days; and
+- (b) for any further period as may be determined in accordance with paragraph (4).
+
+(4) The RQIA may extend the period specified in paragraph (3)(a) by such further period, not exceeding one year, as the RQIA shall determine, and shall notify any such determination to the personal representatives in writing.
+
+(5) The personal representatives shall appoint a person to manage the agency during any period in which, in accordance with paragraph (3), they carry on the agency without being registered in respect of it.
+
+## PART IV — MISCELLANEOUS
+
+### 31. Compliance with regulations[^key-68d99512cb6269b46f191bf745581b44]
+
+Where there is more than one registered person in respect of an agency, anything which is required under these Regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
+
+### 32. Offences[^key-16ca3eacda36e057aa5d286cb079f021]
+
+(1) A contravention of any of the provisions of regulations 5 to 7 and 12 to 28 shall be an offence.
+
+(2) The RQIA shall not bring proceedings against a person in respect of any contravention of those regulations unless—
+
+- (a) subject to paragraph (4), he is a registered person;
+- (b) notice has been given to him in accordance with paragraph (3);
+- (c) the period specified in the notice, within which the registered person may make representations to the RQIA, has expired; and
+- (d) in a case where, in accordance with paragraph (3)(b), the notice specifies any action that is to be taken within a specified period, the period has expired and the action has not been taken within that period.
+
+(3) Where the RQIA considers that the registered person has contravened any of the provisions of the regulations mentioned in paragraph (1), it may serve a notice on the registered person specifying—
+
+- (a) in what respect in its opinion the registered person has contravened any of the regulations;
+- (b) where it is practicable for the registered person to take action for the purpose of complying with any of those regulations, the action which, in the opinion of the RQIA, the registered person should take for that purpose;
+- (c) the period, not exceeding three months, within which the registered person should take any action specified in accordance with sub-paragraph (b);
+- (d) the period, not exceeding one month, within which the registered person may make representations to the RQIA about the notice.
+
+(4) The RQIA may bring proceedings against a person who was once, but no longer is, a registered person, in respect of a failure to comply with regulation 21, and for this purpose, references in paragraphs (2) and (3) to a registered person shall be taken to include such a person.
+
+Sealed with Official Seal of the Department of Health, Social Services and Public Safety on 4th April 2007.
+
+M. Briscoe
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — INFORMATION TO BE INCLUDED IN THE STATEMENT OF PURPOSE
+
+Regulation 5(1)
+
+**1.**[^key-4b94b4bb5c921778de2749e37c415d42] A statement of the aims and objectives of the agency.
+
+**2.**[^key-25b59b23df666b5b4988ec5aae507925] The nature and range of the services which the agency provides.
+
+**3.**[^key-1fcbfc269fd4a837d0140bf413189e90] The name and address of the registered provider and of any registered manager.
+
+**4.**[^key-7c2d5e29319f7903596513dafba2f15d] The relevant qualifications and experience of the registered provider and any registered manager.
+
+**5.**[^key-477264e6387616d601fce99c2895e135] The range of qualifications of the domiciliary care workers supplied by the agency and the types of settings in which they are supplied to work.
+
+**6.**[^key-1e3a0603f1d746ddaab5d57201d1d58b] The complaints procedure established in accordance with regulation 22.
+
+**7.**[^key-9cfe670757baa4151fd07a88423ad089] Status, constitution and organisational structure, which identify the lines of accountability and specify the roles and responsibilities for areas of activity.
+
+**8.**[^key-894a0888f610088e3eec722711094f77] A description of the agency’s underlying ethos and philosophy of care.
+
+## SCHEDULE 2 — INFORMATION AND DOCUMENTS REQUIRED IN RESPECT OF REGISTERED PROVIDERS AND MANAGERS OF AN AGENCY
+
+Regulations 8(3) and 10(2)
+
+**1.**[^key-75b6c098eeab5ffd1f85f29033674043] Proof of identity, including a recent photograph.
+
+**2.**[^key-9484b537f12ed5ae10b3be14a7cf5e2b] When Part V of the Police Act 1997[^f00002] is commenced in Northern Ireland, either—
+
+- (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of that Act, an enhanced criminal record certificate issued under that section; or
+- (b) in any other case, a criminal record certificate issued under section 113A of that Act,
+
+and an application for either certificate shall be accompanied where applicable by an adult’s suitability statement under section 113D of that Act.
+
+**3.**[^key-2bd991b36ac08d59a638fa6c586c6811] Two written references relating to the person, including a reference from the person’s present or most recent employer, if any.
+
+**4.**[^key-77731b345801f7f54c301b8e0406f86e] Where the person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
+
+**5.**[^key-869cc609d8e07735aac9fc6389a64c4b] Details and documentary evidence of any relevant qualifications or accredited training
+
+**6.**[^key-d878dad9f4fe3f8ddf84e072a5227209] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+
+**7.**[^key-9bad789a29413c10fe6bd6b3a0c716e9] Details of health record.
+
+**8.**[^key-644437a05109cc1f076eba6323e9c354] If applicable, details[^key-7a8f80d2b5427d445bcea662861d3ad1] of registration with, or membership of, any professional regulatory body.
+
+**9.**[^key-b1d07c9788f1678c9aa582e3259a7e7e] Details of any professional indemnity insurance.
+
+## SCHEDULE 3 — INFORMATION AND DOCUMENTS REQUIRED IN RESPECT OF DOMICILIARY CARE WORKERS
+
+Regulation 13
+
+**1.**[^key-5c34bf51e927a373236483cef6b73232] Name, address, date of birth and telephone number.
+
+**2.**[^key-7c9b9537c388994c898e6fff1fd5e462] Name, address and telephone number of next of kin
+
+**3.**[^key-a7f37c37da4e20a6dfe8af24b4bfef3b] Proof of identity, including a recent photograph.
+
+**4.**[^key-240f1145e86a1f3fb9a29726543d7c81] Two written references, relating to the person, including a reference from the person’s present or most recent employer, if any.
+
+**5.**[^key-9bab1423cb37d5cbbee2bbd895497292] Where the person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
+
+**6.**[^key-24dbbd37fdd0bdd622d937642e54b57e] Evidence of a satisfactory knowledge of the English language, where the person’s qualifications were obtained outside the United Kingdom.
+
+**7.**[^key-b42f8b5106d1105e6bd17c7fd968a331] Details and documentary evidence of any relevant qualifications or accredited training of the person and, if applicable, registration with an appropriate regulatory body.
+
+**8.**[^key-211adbcbefb443a84e80ce5c22924031] A full employment history, together with a satisfactory written explanation of any gaps in employment and details of any current employment other than for the purposes of the agency.
+
+**9.**[^key-c4c704c0a0d41b6a78bbfab2b995298e] Details of physical and mental health record, including immunisation status.
+
+**10.**[^key-c8faa22e7e72f141e38a760e404657bf] A statement by the registered provider, or the registered manager, as the case may be, that the person is physically and mentally fit for the purposes of the work which he is to perform.
+
+**11.**[^key-c916c93fffbbcece5befad60be5df054] Details of any professional indemnity insurance.
+
+**12.**[^key-7f0b376a475f66769680c8ca7d2835c6] When Part V of the Police Act 1997 is commenced in Northern Ireland, either—
+
+- (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of that Act, an enhanced criminal record certificate issued under that section; or
+- (b) in any other case, a criminal record certificate issued under section 113A of that Act, and an application for either certificate shall be accompanied where applicable by an adult’s suitability statement under section 113D of that Act.
+
+## SCHEDULE 4 — RECORDS TO BE MAINTAINED FOR INSPECTION
+
+Regulation 21(1)
+
+### 1. Records relating to domiciliary care workers and service users[^key-1af44d4b223ecd2ec8e856d9caaf1b90]
+
+Copies of all agreements between the agency and domiciliary care workers supplied or to be supplied by the agency and evidence that a copy of any standard terms and conditions has been supplied by the agency to each domiciliary care worker, including recruitment and selection records in respect of all domiciliary care workers supplied by an agency.
+
+**2.**[^key-7e376d817890cdeaa59becb9155f0c77] Copies of any statement given to a service user setting out the qualifications and relevant experience of a domiciliary care worker supplied to that service user.
+
+**3.**[^key-e686481cd3a77bea79509aa0a90097b0] An alphabetical index of service users, including the full name, address and telephone number of each of them and any serial numbers assigned to them.
+
+**4.**[^key-b8a692879a3f16e75ced86ff5b1e5139] An alphabetical index of domiciliary care workers supplied or available for supply by the agency, including any serial numbers assigned to them.
+
+**5.**[^key-222133dd67033cf8a3804f15b2ec6c16] Details of each supply of a domiciliary care worker to a service user.
+
+### 6. Records relating to training and development of staff[^key-94f70f83ca470c2c6de31a3df9e55081]
+
+Where the agency is acting otherwise than as an employment agency, details of the training undertaken by all employees including, where applicable, induction training.
+
+**7.**[^key-4cb30add727a72bdd6afaccef8073a5d] Annual staff appraisals.
+
+### 8. Other records[^key-dca90bf427d9342a431c2bbc52cd4b1e]
+
+All information provided to the RQIA for the purposes of registration in relation to the agency.
+
+**9.**[^key-d73e250f101bf0ba508a75d72db79617] Details of every allegation of abuse, neglect or other harm made against an employee of, or any domiciliary care worker who works for, the agency, (whether or not the subject of a complaint made under regulation 22), including details of the investigations made, the outcome and any action taken in consequence.
+
+**10.**[^key-a3426d82135b2a33f0329b464d1b0c12] Details of any physical restraint used on a service user by a person who works as a domiciliary care worker for the purposes of the agency.
+
+**11.**[^key-12e891d75263099db684d13bcdacc5ce] The service user plan devised for each service user in accordance with regulation 15, and a detailed record of the prescribed services provided to that service user.
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (“the Order”). Part II of the Order establishes the Northern Ireland Health and Personal Social Services Regulation and Improvement Authority (“the Regulation and Improvement Authority”) and Part III provides for the registration and inspection of establishments and agencies, including domiciliary care agencies, by the Regulation and Improvement Authority. It also provides powers to make regulations governing the conduct of establishments and agencies.
+
+Regulation 3 deals with prescribed services. Regulation 4 excepts certain undertakings from being a domiciliary care agency.
+
+Regulation 5, provides that each agency must prepare a statement of purpose in relation to the matters set out in Schedule 1 and a service user’s guide to the agency (regulation 6). The agency must be carried on in a manner which is consistent with the statement of purpose.
+
+Regulations 8 to 12 make provision about the fitness of the persons carrying on and managing an agency and require satisfactory information to be obtained in relation to the matters specified in Schedule 2. Where the provider is an organisation, it must nominate a responsible individual in respect of whom this information must be available (regulation 8). Regulation 9 prescribes the circumstances where a manager must be appointed in respect of the agency, and regulation 10 makes provision concerning the fitness of the manager. Regulation 11 imposes general requirements in relation to the proper conduct of the agency, and the need for appropriate training.
+
+Regulations 13 to 30 make provision in relation to the conduct of agencies, in particular about the quality of services to be provided by an agency. Regulation 13 makes provision about the fitness of domiciliary care workers and requires satisfactory information to be obtained in relation to the matters specified in Schedule 3. Regulations 14 and 15 set out the arrangements that must be made by a registered person relating to the conduct of an agency generally and also the procedures which must be implemented in circumstances where domiciliary care workers are supplied to persons by an agency acting otherwise than as an employment agency. In addition, provision is made as to staffing (regulation 16), the staff handbook (regulation 17), the provision of information to service users (regulation 18), the disclosure of information (regulation 19), the identification of domiciliary care workers (regulation 20), record keeping (regulation 21 and Schedule 4) and complaints (regulation 22). Regulations 23 and 24 deal with evaluating of the quality of service provision, and the assessment of the quality of services. Provision is also made for an improvement plan. Provision is also made about the suitability of premises (regulation 25) and the financial management of the agency (regulation 26). Regulations 27 to 30 deal with the giving of notices to the Regulation and Improvement Authority.
+
+Regulations 31 to 32 deal with miscellaneous matters. In particular, regulation 32 provides for offences. A breach of regulations 5 to 7 and 12 to 28 may found an offence on the part of the registered person. However, no prosecution may be brought unless the Regulation and Improvement Authority has given notice which sets out in what respect it is alleged he is not complying with a regulation, and what action (if any), and by when, the Regulation and Improvement Authority considers is necessary in order to comply with the regulation.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^key-dc6ee908255be94ebb84837c43506932]: Commencement: Reg. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-cce043cb45087177a6f7a4986b860bf5]: Commencement: Reg. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-778be765bdc094a53bcc17ea7b5b8d69]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/42/2)
+
+[^key-5a2b4bcd1ef7ab6b46bd1a6ed485e8de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/2)
+
+[^key-9b8409184c0fba7a078bc55162ad4d26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2013/225/regulation/12/2)
+
+[^key-e0420be612691a1517b3986e3c84b184]: Commencement: Reg. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-14317521c7b0939fd02e281d17d86cd4]: Commencement: Reg. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-147f3d38e9d6ff436fbbe012eac489cc]: Commencement: Reg. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-cf8fa49351d4fc45dfde5e028dd4ec6f]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+
+[^key-b4fb952dc3d98e7826c226b3212f729d]: Commencement: Reg. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-1c146611876280654ad47688b92daf4c]: Commencement: Reg. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-7516680ae268552845bd890ddaf254ce]: Commencement: Reg. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-183c7106fa4eb360c72ca20caf96f867]: Textual amendment: [Reg. 8(4)(ab)](https://www.legislation.gov.uk/nisr/2007/235/regulation/8/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/42/3)
+
+[^key-c3eeab32055edb387af67ed7e6b3da34]: Textual amendment: [Reg. 8(4)(ac)](https://www.legislation.gov.uk/nisr/2007/235/regulation/8/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/3)
+
+[^key-b53deef577510c760f17af85934a874d]: Commencement: Reg. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-853b4351673fa030a98cab153f1aa595]: Commencement: Reg. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-5b72ac7ea14025aca1aafcdf1129bda9]: Commencement: Reg. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-5b9927b75ad0820356d7b503a2a627f2]: Commencement: Reg. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-a81097b0856a021fbce71afdce1d83d2]: Commencement: Reg. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-670e22033fa7c2976a8f396504b81735]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/235/regulation/13) substituted (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2009/145/regulation/7/1)
+
+[^key-29b7a76536904ea3e7182881df538a8d]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/1): reg. 13 renumbered (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/a)
+
+[^key-b512e3e587ad9606d73d403bd24ecaa0]: Textual amendment: Word in [reg. 13(c)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/c) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/a)
+
+[^key-23ff33372fd325d836943eb56cc775c9]: Textual amendment: Semicolon in [Reg. 13(d)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/d) substituted for full stop (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/b)
+
+[^key-fb160f7cc576a1694a73048d02061722]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/1) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/a)
+
+[^key-bc12a495a43321fdee7e732ae9869c43]: Textual amendment: [Regs. 13(e)-(g)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/e) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/c)
+
+[^key-e2d4569e4cd8a93f408d73e49bb94d12]: Textual amendment: [Reg. 13(2)-(4)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/2) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/b)
+
+[^key-eac2d4d389b5245a6120fc7cec7406bf]: Commencement: Reg. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-39f078e758c13b1d52ec230484ce1129]: Commencement: Reg. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-5eea1bacb55855418de8171a700b7d94]: Commencement: Reg. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-35ad0e9e00e63b4fdc8ea1775b88764a]: Commencement: Reg. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-5027d3ea0d958092e1c2f1b75cfaf74b]: Commencement: Reg. 18 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-be49e841184fdef43e219e0bf665ce3c]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/nisr/2007/235/regulation/18/1A) re-inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/3/a)
+
+[^key-003063ca864aaed78959edb118b0ad05]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2007/235/regulation/18/2) substituted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/3/b)
+
+[^key-cd45121bd6b6b24582ed66d120645141]: Commencement: Reg. 19 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-1169ba56321883808cdde14c3b491b4f]: Commencement: Reg. 20 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-62310c6537181c9a727365836941a9f7]: Commencement: Reg. 21 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-f55f4205d56b671ffa42a1f1d081bd1e]: Commencement: Reg. 22 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-73ee5b5eb41c969653e835a7618d33fc]: Commencement: Reg. 23 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-040bec7fe5e4881cc05300377d65aab2]: Commencement: Reg. 24 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-3a28ed8a4046c2ee819b4e85dd5a23eb]: Commencement: Reg. 25 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-b446a04991399d4cded84aaea566bc09]: Commencement: Reg. 26 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-097a6644feaa12237884e85eb66ea1c3]: Commencement: Reg. 27 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-8883968da91d794b63eb9cf6035c36fe]: Commencement: Reg. 28 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-0841f3bdaf0cd5ebf061d80ac02fb021]: Textual amendment: [Reg. 28(fa)](https://www.legislation.gov.uk/nisr/2007/235/regulation/28/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/4)
+
+[^key-a58cfe784a4d37b2b2eafb45aa259e88]: Commencement: Reg. 29 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-8f374ffb07f460a86ce6c41e52f1ad75]: Commencement: Reg. 30 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-68d99512cb6269b46f191bf745581b44]: Commencement: Reg. 31 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-16ca3eacda36e057aa5d286cb079f021]: Commencement: Reg. 32 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-4b94b4bb5c921778de2749e37c415d42]: Commencement: Sch. 1 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-25b59b23df666b5b4988ec5aae507925]: Commencement: Sch. 1 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-1fcbfc269fd4a837d0140bf413189e90]: Commencement: Sch. 1 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-7c2d5e29319f7903596513dafba2f15d]: Commencement: Sch. 1 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-477264e6387616d601fce99c2895e135]: Commencement: Sch. 1 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-1e3a0603f1d746ddaab5d57201d1d58b]: Commencement: Sch. 1 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-9cfe670757baa4151fd07a88423ad089]: Commencement: Sch. 1 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-894a0888f610088e3eec722711094f77]: Commencement: Sch. 1 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-75b6c098eeab5ffd1f85f29033674043]: Commencement: Sch. 2 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-9484b537f12ed5ae10b3be14a7cf5e2b]: Commencement: Sch. 2 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
+
+[^key-2bd991b36ac08d59a638fa6c586c6811]: Commencement: Sch. 2 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-77731b345801f7f54c301b8e0406f86e]: Commencement: Sch. 2 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-869cc609d8e07735aac9fc6389a64c4b]: Commencement: Sch. 2 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-d878dad9f4fe3f8ddf84e072a5227209]: Commencement: Sch. 2 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-9bad789a29413c10fe6bd6b3a0c716e9]: Commencement: Sch. 2 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-644437a05109cc1f076eba6323e9c354]: Commencement: Sch. 2 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-7a8f80d2b5427d445bcea662861d3ad1]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/235/schedule/2/paragraph/8) substituted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(4)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/4)
+
+[^key-b1d07c9788f1678c9aa582e3259a7e7e]: Commencement: Sch. 2 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-5c34bf51e927a373236483cef6b73232]: Commencement: Sch. 3 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-7c9b9537c388994c898e6fff1fd5e462]: Commencement: Sch. 3 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-a7f37c37da4e20a6dfe8af24b4bfef3b]: Commencement: Sch. 3 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-240f1145e86a1f3fb9a29726543d7c81]: Commencement: Sch. 3 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-9bab1423cb37d5cbbee2bbd895497292]: Commencement: Sch. 3 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-24dbbd37fdd0bdd622d937642e54b57e]: Commencement: Sch. 3 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-b42f8b5106d1105e6bd17c7fd968a331]: Commencement: Sch. 3 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-211adbcbefb443a84e80ce5c22924031]: Commencement: Sch. 3 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-c4c704c0a0d41b6a78bbfab2b995298e]: Commencement: Sch. 3 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-c8faa22e7e72f141e38a760e404657bf]: Commencement: Sch. 3 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-c916c93fffbbcece5befad60be5df054]: Commencement: Sch. 3 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-7f0b376a475f66769680c8ca7d2835c6]: Commencement: Sch. 3 para. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-1af44d4b223ecd2ec8e856d9caaf1b90]: Commencement: Sch. 4 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-7e376d817890cdeaa59becb9155f0c77]: Commencement: Sch. 4 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-e686481cd3a77bea79509aa0a90097b0]: Commencement: Sch. 4 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-b8a692879a3f16e75ced86ff5b1e5139]: Commencement: Sch. 4 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-222133dd67033cf8a3804f15b2ec6c16]: Commencement: Sch. 4 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-94f70f83ca470c2c6de31a3df9e55081]: Commencement: Sch. 4 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-4cb30add727a72bdd6afaccef8073a5d]: Commencement: Sch. 4 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-dca90bf427d9342a431c2bbc52cd4b1e]: Commencement: Sch. 4 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-d73e250f101bf0ba508a75d72db79617]: Commencement: Sch. 4 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-a3426d82135b2a33f0329b464d1b0c12]: Commencement: Sch. 4 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+
+[^key-12e891d75263099db684d13bcdacc5ce]: Commencement: Sch. 4 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)

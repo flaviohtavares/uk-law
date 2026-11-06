@@ -1,0 +1,77 @@
+---
+title: Charities Act (Northern Ireland) 2008, section 112
+act: Charities Act (Northern Ireland) 2008
+section: '112'
+status: not-yet-in-force
+text_date: '2022-03-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/12/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act (Northern Ireland) 2008, section 112
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 112. Conversion of charitable company or registered society[^key-6877a1b676fa5df5090600344ee64fd0]
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The following may apply to the Commission to be converted into a CIO, and for the CIO's registration as a charity, in accordance with this section—
+
+- (a) a charitable company,
+- (b) a charity which is a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 (“[^key-595f16f54641d4102cdd16cbb31d18bb]**the 1969 Act**”) (c. 24).
+
+(2) But such an application may not be made by a company or registered society having a share capital if any of the shares are not fully paid up.
+
+(3) Such an application is referred to in this section and sections 113 and 114 as an “application for conversion”.
+
+(4) The Commission shall notify the following of any application for conversion—
+
+- (a) the appropriate registrar, and
+- (b) such other persons (if any) as the Commission thinks appropriate in the particular case.
+
+(5) The company or registered society shall supply the Commission with—
+
+- (a) a copy of a resolution of the company or registered society that it be converted into a CIO,
+- (b) a copy of the proposed constitution of the CIO,
+- (c) a copy of a resolution of the company or registered society adopting the proposed constitution of the CIO,
+- (d) such other documents or information as may be prescribed by regulations made by the Department, and
+- (e) such other documents or information as the Commission may require for the purposes of the application.
+
+(6) The resolution referred to in subsection (5)(a) shall be—
+
+- (a) a special resolution of the company or registered society, or
+- (b) a unanimous resolution signed by or on behalf of all the members of the company or registered society who would be entitled to vote on a special resolution.
+
+(7) In the case of a company, Chapter 3 of Part 3 of the Companies Act 2006 (c. 46) does not apply to such a resolution.
+
+(8) In the case of a registered society, “**special resolution**” has the meaning given in section 61(3) of the 1969 Act[^key-959d12b8a5d9d2180b97d81a7db4c1df] .
+
+(9) In the case of a company limited by guarantee which makes an application for conversion (whether or not it also has a share capital), the proposed constitution of the CIO shall (unless subsection (11) applies) provide for the CIO's members to be liable to contribute to its assets if it is wound up, and for the amount up to which they are so liable.
+
+(10) That amount shall not be less than the amount up to which they were liable to contribute to the assets of the company if it was wound up.
+
+(11) If the amount each member of the company is liable to contribute to its assets on its winding up is £10 or less, the guarantee shall be extinguished on the conversion of the company into a CIO, and the requirements of subsections (9) and (10) do not apply.
+
+(12) In subsection (4), and in sections 113 and 114, “**the appropriate registrar**” means—
+
+- (a) in the case of an application for conversion by a charitable company, the registrar of companies,
+- (b) in the case of an application for conversion by a registered society, the registrar for the purposes of the 1969 Act[^key-7e99414cc7b00f61373c53e14000449b] (c. 24).
+
+(13) In this section, “**charitable company**” means a company which is a charity.
+
+## Annotations
+
+[^key-6877a1b676fa5df5090600344ee64fd0]: Textual amendment: Words in s. 112 heading substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(5)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/5); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+
+[^key-595f16f54641d4102cdd16cbb31d18bb]: Textual amendment: Words in s. 112(1)(b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+
+[^key-959d12b8a5d9d2180b97d81a7db4c1df]: Textual amendment: Words in s. 112(8) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+
+[^key-7e99414cc7b00f61373c53e14000449b]: Textual amendment: Words in s. 112(12)(b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(4)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/4); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)

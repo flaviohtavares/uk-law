@@ -1,0 +1,139 @@
+---
+title: M1/A1 (Sprucefield Interchange) Order (Northern Ireland) 2003
+id: nisr/2003/112
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2003-02-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2003/112
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/112/pdfs/nisr_20030112_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/112/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# M1/A1 (Sprucefield Interchange) Order (Northern Ireland) 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 112
+
+ROADS
+
+M1/A1 (Sprucefield Interchange) Order (Northern Ireland) 2003
+
+Made
+
+26th February 2003
+
+Coming into operation
+
+11th April 2003
+
+WHEREAS the Department for Regional Development[^f00001] in accordance with Article 15(1) of the Roads (Northern Ireland) Order 1993[^f00002] considers it expedient that the roads proposed to be constructed and described in Part I of the Schedule should be designated as special roads;
+
+AND WHEREAS the Department in accordance with Article 14(1) of that Order considers it expedient for the purpose of improving the trunk system that the roads proposed to be constructed on the route described in Part I of the Schedule and the roads proposed to be constructed on the route described in Part II of the Schedule should be designated as trunk roads;
+
+AND WHEREAS the Department in accordance with Article 68(4) of that Order proposes on the completion of works providing alternative facilities for road traffic to:
+
+- (i) abandon the road described in Part III of the Schedule; and
+- (ii) stop-up the roads described in Part IV of the Schedule to road traffic;
+
+AND WHEREAS notice has been published, served and displayed in compliance with paragraphs 1, 2 and 3 of Schedule 8 to that Order;
+
+AND WHEREAS no objection has been received;
+
+NOW THEREFORE the Department, in exercise of the powers conferred by Articles 14(1), 15(1), 16(1) and (2) and 68(1) and (3) of the Roads (Northern Ireland) Order 1993 and now exercisable by it[^f00003] and of every other power enabling it in that behalf, hereby orders and directs as follows:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the M1/A1 (Sprucefield Interchange) Order (Northern Ireland) 2003 and shall come into operation on 11th April 2003.
+
+(2) In this Order “the Contractor” means The Sprucefield Centre Limited whose registered office is situated at 298 Upper Newtownards Road, Belfast BT4 3EJ.
+
+(3) In this Order “the map” means the drawing numbered 5148.00/0125 marked “Ml/A1 (Sprucefield Interchange) Order (Northern Ireland) 2003” copies of which have been deposited at the Department’s Roads Service offices, Headquarters, Room 2-01, Clarence Court, 10-18 Adelaide Street, Belfast BT2 8GB and Eastern Division, Hydebank, 4 Hospital Road, Belfast BT8 8JL.
+
+## 2. Designation and direction
+
+The roads described in Part I of the Schedule shall become special and trunk roads and be part of the Belfast-Ballygawley-Londonderry Trunk Road T3.
+
+## 3. Direction
+
+The roads described in Part II of the Schedule shall become trunk roads and be part of the Lisburn-Newry-Land Frontier Trunk Road T4.
+
+## 4. Abandonment
+
+The Contractor shall carry out such works as the Department considers necessary for the provision of alternative facilities for road traffic and on completion of the works the road described in Part III of the Schedule shall be abandoned.
+
+## 5. Stopping-up
+
+(1) The Contractor shall carry out such works as the Department considers necessary for the provision of alternative facilities for road traffic and on completion of the works the roads described in Part IV of the Schedule shall be stopped-up to road traffic.
+
+(2) The Department shall carry out such works as it considers necessary to prevent or restrict to such extent as the Department thinks fit, access to the roads by road traffic.
+
+## 6. Classification of traffic
+
+The roads described in Part I of the Schedule shall be used only by traffic of Classes I and II as set out in Schedule I to the Roads (Northern Ireland) Order 1993.
+
+Sealed with the Official Seal of the Department for Regional Development on 26th February 2003.
+
+J. Carlisle
+
+A senior officer of the
+
+Department for Regional Development
+
+## SCHEDULE
+
+### PART I — the new roads to be constructed as special and trunk roads and part of the m1 motorway and t3
+
+Approximately 2866 metres of new slip roads in the townland of Magherageery and County of Down consisting of:–
+
+- (a) approximately 620 metres extending in an easterly direction from a point on the M1 approximately 1837 metres west of the centre point of the bridge carrying the M1 motorway over the T4(A1) Hillsborough Road to a point on the new roundabout north of the M1 motorway approximately 1217 metres west of that bridge more particularly delineated, coloured green and marked S1 on the map;
+- (b) approximately 895 metres extending in an easterly direction from a point on the new roundabout north of the M1 motorway approximately 1217 metres west of the centre point of the bridge carrying the M1 motorway over the T4(A1) Hillsborough Road to a point on the M1 motorway approximately 322 metres west of that bridge more particularly delineated coloured green and marked S2 on the map;
+- (c) approximately 701 metres extending in a westerly direction from a point on the new roundabout south of the M1 motorway approximately 1217 metres west of the centre point of the bridge carrying the M1 motorway over the T4(A1) Hillsborough Road to a point on the M1 motorway approximately 1918 metres west of that bridge more particularly delineated coloured green and marked S3 on the map; and
+- (d) approximately 650 metres extending in a westerly direction from a point on the M1 motorway approximately 567 metres west of the centre point of the bridge carrying the M1 motorway over the T4 (A1) Hillsborough Road to a point on the new roundabout south of the M1 motorway approximately 1217 metres west of that bridge more particularly delineated coloured green and marked S4 on the map.
+
+### PART II — the new roads to be constructed as trunk roads and part of the t4
+
+Approximately 1247 metres of new roads in the townland of Magherageery and County of Down consisting of:–
+
+- (a) approximately 893 metres extending in a generally north-westerly direction from a point on the present T4 (A1) approximately 460 metres south-west of the Sprucefield roundabout to a point approximately 111 metres north of the M1 motorway including two new roundabouts and an underpass to carry the road under the M1 motorway more particularly delineated and hatched red and hatched yellow respectively on the map;
+- (b) approximately 315 metres extending in a south-westerly direction from a point on the present T4 approximately 238 metres south-west of the Sprucefield roundabout to a point approximately 553 metres south-west of that roundabout including a new roundabout more particularly delineated and hatched red on the map; and
+- (c) approximately 39 metres extending in a westerly direction from the Sprucefield roundabout more particularly delineated and hatched red on the map.
+
+### PART III — the road to be abandoned
+
+The present westbound on slip road from the Sprucefield roundabout to the M1 motorway more particularly delineated and coloured yellow on the map.
+
+### PART IV — the roads to be stopped-up to road traffic
+
+**1.** The present eastbound off slip road:
+
+- (a) at its junction with the M1 more particularly delineated and shown by the line A-B on the map; and
+- (b) at a line approximately 460 metres from its junction with the M1 more particularly delineated and shown by the line C-D on the map.
+
+**2.** T4(A1) Hillsborough Road at a line approximately 550 metres south-west of the Sprucefield roundabout more particularly delineated and shown by the line E-F on the map.
+
+(This note is not part of the Order.)
+
+This Order provides that approximately 2866 metres of new slip roads described in Part I of the Schedule and more particularly delineated and coloured green on the map shall become special roads subject to motorway traffic restrictions and be part of the Belfast-Ballygawley-Londonderry Trunk Road T3.
+
+The Order also provides that approximately 1247 metres of new roads including two new roundabouts described in Part II of the Schedule and more particularly delineated and hatched red and a new underpass hatched yellow on the map shall become trunk roads and be part of the trunk road system.
+
+The Order also provides for the abandonment and stopping-up of certain roads.
+
+The map referred to above means Drawing No. 5148.00/0125 marked “M1/A1 (Sprucefield Interchange) Order (Northern Ireland) 2003” copies of which have been deposited for inspection at the Department’s Roads Service offices; Headquarters, Room 201, Clarence Court, 10-18 Adelaide Street, Belfast BT2 8GB and Eastern Division, Hydebank, 4 Hospital Road, Belfast BT8 8JL.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(1)
+
+[^f00002]: Footnote: S.I. [1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160)
+
+[^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(d) and Schedule 4 Part IV

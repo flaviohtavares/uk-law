@@ -1,0 +1,370 @@
+---
+title: The Caseins and Caseinates Regulations (Northern Ireland) 2016
+id: nisr/2016/415
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-11-23'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/415
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/415/pdfs/nisrem_20160415_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/415/pdfs/nisr_20160415_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/415/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Caseins and Caseinates Regulations (Northern Ireland) 2016
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 415
+
+Food
+
+The Caseins and Caseinates Regulations (Northern Ireland) 2016
+
+Made
+
+23rd November 2016
+
+Coming into operation
+
+22nd December 2016
+
+[^c22825471][^c22825481]The Department of Health makes the following Regulations in exercise of the powers conferred by Articles 15(1), 16(1), 25(1), (2)(e) and (3), 26(3), 32(1) and 47(2) of the Food Safety (Northern Ireland) Order 1991 .
+
+In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health, has had regard to relevant advice given by the Food Standards Agency.
+
+There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22825491].[^key-e5e1cb90466c1b55816f1ee0bc0cb10f]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Caseins and Caseinates Regulations (Northern Ireland) 2016 and come into operation on 22nd December 2016.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**casein product**” means edible acid casein, edible caseinate or edible rennet casein;
+- “**edible acid casein**” means a milk product obtained by separating, washing and drying the acid-precipitated coagulum of skimmed milk and/or of other products obtained from milk and complying with the standards set out in Schedule 1;
+- “**edible caseinate**” means a milk product obtained by action of edible casein or edible casein curd coagulum with neutralizing agents, followed by drying and complying with the standards set out in Schedule 2;
+- “**edible rennet casein**” means a milk product obtained by separating, washing and drying the coagulum of skimmed milk and/or of other products obtained from milk; the coagulum is obtained through the reaction of rennet or other coagulating enzymes and complying with the standards set out in Schedule 3;
+- “**FIC**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) as last amended by Regulation ([^key-f280f46c27a68991689d299b8779d24f]EU) 2015/2283 of the European Parliament and of the Council [^c22825501];
+- “**food business operator**” has the meaning given in Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council;
+- “**the Order**” means the Food Safety (Northern Ireland) Order 1991;
+- “**Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332)**” means Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes and amending Council Directive [83/417/EEC](https://www.legislation.gov.uk/european/directive/1983/0417), Council Regulation [(EC) No 1493/1999](https://www.legislation.gov.uk/european/regulation/1999/1493), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013), Council Directive [2001/112/EC](https://www.legislation.gov.uk/european/directive/2001/0112) and Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258) as last amended by[^key-0ec5a34ee72d4d0dfa47cbdd9254260c] [Commission Regulation (EU) No 1056/2012](https://www.legislation.gov.uk/european/regulation/2012/1056) [^c22825511]; and
+- “**sell**” includes possess for sale and offer, expose or advertise for sale.
+
+## 3. Scope
+
+These Regulations apply to caseins and caseinates intended for sale for human consumption.
+
+## 4. Restriction on use of caseins and caseinates in the preparation of food
+
+(1) A person must not use any casein or caseinate in the preparation of food unless it complies with the standards set out in Schedule 4.
+
+(2) A person marketing caseins or caseinates which do not comply with paragraph (1) for a purpose other than the caseins or caseinates being used in the preparation of food, must indicate explicitly or by clear implication the nature, quality or intended use of the product.
+
+## 5. General restriction on marketing and use of casein products
+
+(1) A person must not sell any food with a label, whether or not attached to or printed on the package or container, which includes the name of any casein product unless the requirements set out in paragraph (4) are complied with.
+
+(2) A person must not display any ticket or notice with any food offered or exposed for sale which includes the name of any casein product unless the requirements set out in paragraph (4) are complied with.
+
+(3) A person must not publish, or be a party to the publication of, any advertisement for food which includes the name of a casein product unless the requirements set out in paragraph (4) are complied with.
+
+(4) The requirements are that —
+
+- (a) the food is or contains a casein product; or
+- (b) the name is used in such a context as to indicate explicitly or by clear implication that the food is not a casein product and does not contain one.
+
+## 6. Labelling of casein products
+
+(1) Without prejudice to the provisions of FIC, a person must not sell any casein product unless it is marked or labelled with–
+
+- (a) the name of that casein product as defined in regulation 2 and in the case of edible caseinate with an indication of the cation or cations listed in Schedule 2, paragraph 4 (food additives);
+- (b) in the case of casein products sold as mixtures—
+  - (i) the words “mixture of” followed by the names of the casein products which make up the mixture, in descending order of weight;
+  - (ii) an indication of the cation or cations listed in Schedule 2 paragraph 4 (food additives) in the case of edible caseinates;
+  - (iii) in the case of mixtures containing edible caseinates, the protein content;
+- (c) the net quantity of the casein product, expressed in kilograms or grams;
+- (d) the name or business name and address of the food business operator under whose name or business name the product is marketed or, if that food business operator is not established in the European Union, the importer into the European Union market;
+- (e) in the case of a casein product imported from countries outside the European Union, the name of the country of origin; and
+- (f) the lot identification of the casein product or the date of production.
+
+(2) The particulars required by paragraph (1) must be easily visible, clearly legible, indelible and given in English, either exclusively or in addition to any other language.
+
+(3) The particulars required by paragraph (1)(b)(iii), (c), (d) and (e) may be given in a document accompanying the product.
+
+(4) Without prejudice to the provisions of FIC, where any casein product exceeds the minimum milk protein content set out for that product in—
+
+- (a) entry 2 of the table in paragraph 1 of Schedule 1 in relation to edible acid caseins
+- (b) entry 2 of the table in paragraph 1 of Schedule 2 in relation to edible caseinates; or
+- (c) entry 2 of the table in paragraph 1 of Schedule 3 in relation to edible rennet casein;
+
+a person may mark that fact on the package, label or container of that product.
+
+## 7. Enforcement
+
+It is the duty of each district council within its district to enforce and execute these Regulations.
+
+## 8. Application and modification of provisions of the Order
+
+(1) Article 9(1) and (2) of the Order (improvement notices) apply for the purposes of these Regulations with the modification (in the case of Article 9(1) set out in Schedule 5 Part 1 for the purposes of;
+
+- (a) enabling an improvement notice to be served on a person requiring that person to comply with any of the provisions of regulations 4, 5 or 6; and
+- (b) making the failure to comply with a notice referred to in subparagraph (a) an offence.
+
+(2) The provisions of the Order specified in column 1 of the table in Part 2 of Schedule 5 apply, with the modifications (if any) specified in column 2 of that table for the purpose of these Regulations.
+
+(3) Paragraphs (1) and (2) are without prejudice to the application of the Order to these Regulations for purposes other than those specified in paragraph (1).
+
+## 9. Revocations
+
+The Caseins and Caseinates Regulations (Northern Ireland) 1986 [^c22825521] and the Caseins and Caseinates (Amendment) Regulations (Northern Ireland) 1990 [^c22825531] are revoked.
+
+Sealed with the official seal of the Department of Health on 23rd November 2016.
+
+Dr Paddy Woods
+
+A senior officer of the
+
+Department of Health
+
+## SCHEDULE 1 — Standards applicable to edible acid caseins
+
+Regulation 2
+
+1\. Essential factors of composition
+
+<table>
+<tbody>
+<tr><td>1</td><td>Maximum moisture content</td><td>12% by weight</td></tr>
+<tr><td rowspan="2">2</td><td>Minimum milk protein content calculated on the dried extract</td><td>90% by weight</td></tr>
+<tr><td>of which minimum casein content</td><td>95% by weight</td></tr>
+<tr><td>3</td><td>Maximum milk fat content</td><td>2% by weight</td></tr>
+<tr><td>4</td><td>Maximum titratable acidity, expressed in ml of decinormal sodium hydroxide solution per g</td><td>0,27</td></tr>
+<tr><td>5</td><td>Maximum ash content (P<sub>2</sub>O<sub>5</sub> included)</td><td>2.5% by weight</td></tr>
+<tr><td>6</td><td>Maximum anhydrous lactose content</td><td>1% by weight</td></tr>
+<tr><td>7</td><td>Maximum sediment content (burnt particles)</td><td>22.5 mg in 25 g</td></tr>
+</tbody>
+</table>
+
+2\. Contaminants
+
+|  |  |
+| --- | --- |
+| Maximum lead content | 0,75 mg/kg |
+
+3\. Impurities
+
+|  |  |
+| --- | --- |
+| Extraneous matter (such as wood or metal particles, hairs or insect fragments) | nil in 25 g |
+
+4\. Processing aids, bacterial cultures and authorised ingredients
+
+|  |  |
+| --- | --- |
+| 1\. | *acids:*<br>*— lactic acid*<br>*— hydrochloric acid*<br>*— sulphuric acid*<br>*— citric acid*<br>*— acetic acid*<br>*— orthophosphoric acid* |
+| 2\. | bacterial cultures producing lactic acid |
+| 3\. | Whey |
+
+5\. Organoleptic characteristics
+
+|  |  |  |
+| --- | --- | --- |
+| 1\. | Odour | No foreign odours |
+| 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure. |
+
+## SCHEDULE 2 — Standards applicable to edible caseinates
+
+Regulation 2
+
+1\. Essential factors of composition
+
+<table>
+<tbody>
+<tr><td>1</td><td>Maximum moisture content</td><td>8% by weight</td></tr>
+<tr><td rowspan="2">2</td><td>Minimum milk protein content calculated on the dried extract</td><td>88% by weight</td></tr>
+<tr><td>of which minimum casein content</td><td>95% by weight</td></tr>
+<tr><td>3</td><td>Maximum milk fat content</td><td>2% by weight</td></tr>
+<tr><td>4</td><td>Maximum anhydrous lactose content</td><td>1% by weight</td></tr>
+<tr><td>5</td><td>pH value</td><td>6,0 to 8,0</td></tr>
+<tr><td>6</td><td>Maximum sediment content (burnt particles)</td><td>22.5 mg in 25 g</td></tr>
+</tbody>
+</table>
+
+2\. Contaminants
+
+|  |  |
+| --- | --- |
+| Maximum lead content | 0,75 mg/kg |
+
+3\. Impurities
+
+|  |  |
+| --- | --- |
+| Extraneous matter (such as wood or metal particles, hairs or insect fragments) | nil in 25 g |
+
+4\. Food additives
+
+(optional neutralising and buffering agents)
+
+|  |  |  |
+| --- | --- | --- |
+| hydroxydes | of | Sodium |
+| carbonates |  | Potassium |
+| phosphates |  | Calcium |
+| citrates |  | Ammonium |
+|  |  | Magnesium |
+
+5\. Characteristics
+
+|  |  |  |
+| --- | --- | --- |
+| 1\. | Odour | Very slight foreign flavours and odours |
+| 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure. |
+| 3\. | Solubility | Almost entirely soluble in distilled water, except for calcium caseinate. |
+
+## SCHEDULE 3 — Standards applicable to edible rennet caseins
+
+Regulation 2
+
+1\. Essential factors of composition
+
+<table>
+<tbody>
+<tr><td>1</td><td>Maximum moisture content</td><td>12% by weight</td></tr>
+<tr><td rowspan="2">2</td><td>Minimum milk protein content calculated on the dried extract</td><td>84% by weight</td></tr>
+<tr><td>of which minimum casein content</td><td>95% by weight</td></tr>
+<tr><td>3</td><td>Maximum milk fat content</td><td>2% by weight</td></tr>
+<tr><td>4</td><td>Maximum ash content (P<sub>2</sub>O<sub>5</sub> included)</td><td>7,5% by weight</td></tr>
+<tr><td>5</td><td>Maximum anhydrous lactose content</td><td>1% by weight</td></tr>
+<tr><td>6</td><td>Maximum sediment content (burnt particles)</td><td>15 mg in 25 g</td></tr>
+</tbody>
+</table>
+
+2\. Contaminants
+
+|  |  |
+| --- | --- |
+| Maximum lead content | 0,75 mg/kg |
+
+3\. Impurities
+
+|  |  |
+| --- | --- |
+| Extraneous matter (such as wood or metal particles, hairs or insect fragments) | nil in 25 g |
+
+4\. Processing aids
+
+|  |
+| --- |
+| — rennet meeting the requirements of Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) [^c22825541]; |
+| — other milk-coagulating enzymes meeting the requirements of Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332). |
+
+5\. Organoleptic characteristics
+
+|  |  |  |
+| --- | --- | --- |
+| 1\. | Odour | No foreign odours |
+| 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure. |
+
+## SCHEDULE 4 — Standards applicable to caseins and caseinates in food
+
+Regulation 4
+
+1\. Contaminants
+
+|  |  |
+| --- | --- |
+| Maximum lead content | 0,75 mg/kg |
+
+2\. Impurities
+
+|  |  |
+| --- | --- |
+| Extraneous matter (such as wood or metal particles, hairs or insect fragments) | nil in 25 g |
+
+## SCHEDULE 5 — Application and modification of provisions of the Order
+
+Regulation 8
+
+### Part 1 — Modification of Article 9(1)
+
+**1.** For Article 9(1) of the Order (improvement notices) substitute—
+
+> (1) If an authorised officer has reasonable grounds for believing that a person is failing to comply with regulation 4, 5 or 6 of the Caseins and Caseinates Regulations (Northern Ireland) 2016, the authorised officer may, by a notice served on that person (in this Order referred to as an “**improvement notice**”) —
+>
+> - (a) state the officer's grounds for believing that the person is failing to comply with the relevant provision;
+> - (b) specify the matters which constitute the person's failure so to comply;
+> - (c) specify the measures which, in the officer's opinion, the person must take in order to secure compliance; and
+> - (d) require the person to take those measures, or measures that are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
+
+.
+
+### Part 2 — Application and modification of other provisions of the Order
+
+| *Column 1* *Provision of the Order* | *Column 2* *Modifications* |
+| --- | --- |
+| Article 2 (4) (extended meaning of “sale” etc.) | For “this Order” substitute “ the Caseins and Caseinates Regulations (Northern Ireland) 2016 ” |
+| Article 3 (application to food offered as prizes, etc.) | For “this Order” substitute “ the Caseins and Caseinates Regulations (Northern Ireland) 2016 ”. |
+| Article 4 (presumptions that food intended for human consumption) | For “this Order” substitute “ the Caseins and Caseinates Regulations (Northern Ireland) 2016 ”. |
+| Article 19 (offences due to fault of another person) | For “any of the preceding provisions of this Part” substitute “ Article 9(2) as applied by regulation 8(1) and Schedule 5 of the Casein and Caseinates Regulations (Northern Ireland) 2016 ” |
+| Article 20(1) and (5) (defence of due diligence) | In paragraph (1) for “any of the preceding provisions of this Part” substitute “ Article 9(2), as applied by regulation 8(1) and Schedule 5 of the Caseins and Caseinates Regulations (Northern Ireland) 2016 ”. |
+| Article 30(8) (which relates to documentary evidence) | After “this Order,” insert “ as applied and modified by regulation 8(2) and Schedule 5 of the Caseins and Caseinates Regulations (Northern Ireland) 2016 ” |
+| Article 34 (obstruction of officers) | In each place occurring in paragraph (1), for “this Order” substitute “ the Caseins and Caseinates Regulations (Northern Ireland) 2016 ”. |
+| Article 36(1) and (2) (punishment of offences) | In paragraph (1), after “Article 34(1)”, insert—<br>“, as applied and modified by regulation 8(2) and Schedule 5 of the Caseins and Caseinates Regulations (Northern Ireland) 2016.”.<br>After paragraph (1), insert—<br>“(1A) A person guilty of an offence under Article 9(2), as applied by regulation 8(1) of the Caseins and Caseinates Regulations (Northern Ireland) 2016 shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.”.<br>In paragraph (2)—<br>- (a) for “any other offence under this Order”, substitute “ an offence under Article 34(2), as applied by regulation 8(2) and Schedule 5 of the Caseins and Caseinates Regulations (Northern Ireland) 2016 ”; and<br>- (b) in subparagraph (b), for “the relevant amount”, substitute “ the statutory maximum ”. |
+| Article 37 (appeals) | For paragraph (1) substitute—<br>“(1) Any person who is aggrieved by a decision of an authorised officer to serve an improvement notice under Article 9(1) as applied and modified by regulation 8(1) and Schedule 5 of the Caseins and Caseinates Regulations (Northern Ireland) 2016 may appeal to a court of summary jurisdiction.”. |
+| Article 38 (appeals against improvement notices) | In both paragraphs (1) and (2) insert “ as applied and modified by regulation 8(1) and Schedule 5 of the Caseins and Caseinates Regulations (Northern Ireland) 2016 ” after “improvement notice”. |
+
+*(This note is not part of the Regulations)*
+
+These Regulations will revoke and replace the Caseins and Caseinates Regulations (Northern Ireland) 1986 (S.R. 1986 No. 40) and the Caseins and Caseinates (Amendment) Regulations (Northern Ireland) 1990 (S.R. 1990 No. 37).
+
+These Regulations only apply to casein products intended for human consumption (regulation 3).
+
+These Regulations—
+
+- (a) implement Directive (EU) 2015/2203 of the European Parliament and of the council on the approximation of the laws of the Member States relating to caseins and caseinates intended for human consumption and repealing Council Directive [83/417/EEC](https://www.legislation.gov.uk/european/directive/1983/0417) (OJ No L 314, 101202005 p.1;
+- (b) prescribe definitions and standards for certain casein products (regulation 2 and Schedules 1 to 3);
+- (c) prohibit the use of any casein or caseinate in the preparation of food if it does not comply with the particular standards (regulation 4 and Schedule 4);
+- (d) subject to specified exceptions, prohibit the labelling or advertisement of food with the names of casein products unless the food is or contains a casein product (regulation 5);
+- (e) impose additional requirements as to the labelling of casein products (regulation 6);
+- (f) impose an obligation on district councils to enforce the Regulations (regulation 7);
+- (g) apply certain provisions of the Food Safety (Northern Ireland) Order 1991 (N.I.7) with modifications. This includes the application (with modifications) of Article 9(1), enabling an improvement notice to be served to require compliance with regulations 4-6. The provisions, as applied, make the failure to comply with an improvement notice an offence (regulation 8 and Schedule 5);
+- (h) revoke S.R. 1986 No. 40 and S.R. 1990 No. 37 (regulation 9).
+
+## Annotations
+
+[^c22825471]: Marginal citation: Formerly the Department of Health, Social Services and Public Safety; see [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), [section 1](https://www.legislation.gov.uk/nia/2016/5/section/1)
+
+[^c22825481]: Marginal citation: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), [paragraphs 26 to 42](https://www.legislation.gov.uk/nisi/1996/1663/paragraph/26) of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and S.R.2004 Nos.482 and 505
+
+[^c22825491]: Marginal citation: OJ No. L 31, 1.2.2002, p.1 as last amended by Regulation (EU) No. 652/2014 of the European Parliament and of the Council of 15th May 2014 (OJ No. L 189, 27.6.2014, p.1)
+
+[^key-e5e1cb90466c1b55816f1ee0bc0cb10f]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^key-f280f46c27a68991689d299b8779d24f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/415/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [34(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/34/a)
+
+[^c22825501]: Marginal citation: OJ. No. L304, 22.11.2011, p18 as last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No. L27, 30.1.2014 p.7)
+
+[^key-0ec5a34ee72d4d0dfa47cbdd9254260c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/415/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [34(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/34/b)
+
+[^c22825511]: Marginal citation: OJ No L 354, 3.12.2008, p 7, last amended by Commission Regulation (EU) No 1056/2012 (OJ No L 313, 13.11.2012, p 9)
+
+[^c22825521]: Marginal citation: S.R. [1986 No. 40](https://www.legislation.gov.uk/ukcm/1986/40)
+
+[^c22825531]: Marginal citation: S.R. [1990 No. 37](https://www.legislation.gov.uk/ukcm/1990/37)
+
+[^c22825541]: Marginal citation: OJ No L 354, 3.12.2008, p 7, last amended by Commission Regulation (EU) No 1056/2012 of 12 November 2012

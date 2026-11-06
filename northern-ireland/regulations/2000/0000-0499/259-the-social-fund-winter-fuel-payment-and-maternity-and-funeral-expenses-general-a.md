@@ -1,0 +1,124 @@
+---
+title: The Social Fund (Winter Fuel Payment and Maternity and Funeral Expenses (General)) (Amendment) Regulations (Northern Ireland) 2000
+id: nisr/2000/259
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-08-16'
+text_date: '2024-09-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/259
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/259/pdfs/nisr_20000259_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/259/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund (Winter Fuel Payment and Maternity and Funeral Expenses (General)) (Amendment) Regulations (Northern Ireland) 2000
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2024-09-16. See https://www.legislation.gov.uk/changes/affected/nisr/2000/259
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 259
+
+SOCIAL SECURITY
+
+The Social Fund (Winter Fuel Payment and Maternity and Funeral Expenses (General)) (Amendment) Regulations (Northern Ireland) 2000
+
+Made
+
+16th August 2000
+
+Coming into operation
+
+17th September 2000
+
+The Department for Social Development, in exercise of the powers conferred by sections 134(1)(*a*) and (2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 10(1)(*a*) of the Social Security (Northern Ireland) Order 1998[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-a7eb5f6dc618af6bfbe5e5a59959f48d]
+
+(1) These Regulations may be cited as the Social Fund (Winter Fuel Payment and Maternity and Funeral Expenses (General)) (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 17th September 2000.
+
+(2) In these Regulations, “the General Regulations” means the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987[^f00004].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-e6b3cec40bbfd373aa56e521e3f4f81a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the General Regulations[^key-25c367298a1d1f4f9614b87aebcad030]
+
+In regulation 4(2) of the General Regulations[^f00007] (amount of a Sure Start Maternity Grant), in each place where “£200” appears there shall be substituted “£300”.
+
+## 4. Transitional provisions[^key-179197e35f096cbb19518658e174858a]
+
+(1) Subject to paragraph (2), the General Regulations shall have effect as if regulation 3 of these regulations had not been made where––
+
+- (a) the expected date of confinement;
+- (b) the date of birth of the child (including any still-born);
+- (c) the date of the adoption order, or
+- (d) in the case of a child in respect of whom an order has been granted pursuant to section 30 of the Human Fertilisation and Embryology Act 1990[^f00008] (parental orders), the date of the order,
+
+is before 3rd December 2000.
+
+(2) Subject to paragraph (3), where a claim is made for a Sure Start Maternity Grant before 3rd December 2000 in respect of a child born (including any still-born) on or after that date regulation 4(2) of the General Regulations shall have effect as if the amount of the Sure Start Maternity Grant in that case were £300.
+
+(3) Where a decision is made in a case to which paragraph (2) applies on the basis that the amount of a Sure Start Maternity Grant is £200—
+
+- (a) that decision may be revised under Article 10 of the Social Security (Northern Ireland) Order 1998 (revision of decisions)—
+  - (i) within 13 months of that decision; or
+  - (ii) where the Department receives an application for a revision of that decision made within 13 months of that decision, and
+- (b) any payment made pursuant to that decision (before revision) shall be offset against any amount payable pursuant to the revision under Article 10 of that Order.
+
+(4) Regulation 3(1) of the General Regulations (provision against double payment) shall not prevent a payment being made in consequence of paragraphs (2) and (3).
+
+Sealed with the Official Seal of the Department for Social Development on 16th August 2000.
+
+Cliff Radcliffe
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000 and the Social Fund (Maternity and Funeral Expenses (General)) Regulations (Northern Ireland) 1987.
+
+In particular, regulation 2 increases the amount of winter fuel payments from the social fund from £100 to £150 where a person aged 60 or over is being paid income support or an income-based jobseeker’s allowance and is not in residential accommodation in the qualifying week and from £50 to £75 in other cases.
+
+Regulation 3 increases the amount of a Sure Start Maternity Grant from £200 to £300.
+
+Regulation 4 makes a transitional provision.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 134(1) was substituted by Article 66(1) of the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^f00002]: Footnote: [S.I. 1998 No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00003]: Footnote: *See* Article 8(*b*) of, and Part II of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
+
+[^key-a7eb5f6dc618af6bfbe5e5a59959f48d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/259/regulation/1) in operation at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/259/regulation/1/1)
+
+[^f00004]: Footnote: [S.R. 1987 No. 150](https://www.legislation.gov.uk/nisr/1987/150); relevant amending Regulations are [S.R. 1988 No. 22](https://www.legislation.gov.uk/nisr/1988/22), [S.R. 1989 No. 71](https://www.legislation.gov.uk/nisr/1989/71), [S.R. 1990 No. 132](https://www.legislation.gov.uk/nisr/1990/132), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6) and [394](https://www.legislation.gov.uk/nisr/1992/394), [S.R. 1996 No. 423](https://www.legislation.gov.uk/nisr/1996/423), [S.R. 1997 No. 155](https://www.legislation.gov.uk/nisr/1997/155), [S.R. 1999 Nos. 385](https://www.legislation.gov.uk/nisr/1999/385) and [499](https://www.legislation.gov.uk/nisr/1999/499) and [S.R. 2000 No. 49](https://www.legislation.gov.uk/nisr/2000/49)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-e6b3cec40bbfd373aa56e521e3f4f81a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/259/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+
+[^key-25c367298a1d1f4f9614b87aebcad030]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/259/regulation/3) in operation at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/259/regulation/1/1)
+
+[^f00007]: Footnote: Paragraph (2) was substituted by regulation 3(*b*) of [S.R. 1992 No. 394](https://www.legislation.gov.uk/nisr/1992/394) and sub-paragraph (*d*) was added by [S.R. 1997 No. 155](https://www.legislation.gov.uk/nisr/1997/155) and amended by [S.R. 2000 No. 49](https://www.legislation.gov.uk/nisr/2000/49)
+
+[^key-179197e35f096cbb19518658e174858a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/259/regulation/4) in operation at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/259/regulation/1/1)
+
+[^f00008]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37)

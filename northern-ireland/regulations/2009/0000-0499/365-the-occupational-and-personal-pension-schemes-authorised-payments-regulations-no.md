@@ -1,0 +1,248 @@
+---
+title: The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009
+id: nisr/2009/365
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-11-10'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/365
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/365/pdfs/nisrem_20090365_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/365/pdfs/nisr_20090365_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/365/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 365
+
+Pensions
+
+The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009
+
+Made
+
+10th November 2009
+
+Coming into operation
+
+1st December 2009
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 8C(1)(c), 17(1), 24(4), 28A(2)(c), 67(6), 97C(2), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 74(3)(e), 89(5)(c)(ii) and (iii) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and Article 73(4) of, and paragraph 7(4) of Schedule 5 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004].
+
+## 1. Citation, commencement and interpretation[^key-99e8929369fd989291e3647b660b2126]
+
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009 and shall come into operation on 1st December 2009.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-cd76c6d5bfaa5006e9bf09c91b0013d1]
+
+For regulation 5 of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00006] (short service benefit in lump sum form) substitute—
+
+> **5. Short service benefit in lump sum form**
+>
+> For the purposes of section 67(6) of the Act (basic principle as to short service benefit), the circumstances in which the trustees or managers of a scheme may provide for payment of short service benefit in the form of a lump sum before normal pension age are that the payment of a lump sum—
+>
+> - (a) to the member is permitted in accordance with paragraph (a), (b), (e), (f) or (g) of the lump sum rule in section 166(1) of the Finance Act 2004[^f00007]; or
+> - (b) is—
+>   - (i) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004);
+>   - (ii) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00008] (commutation payments); and
+>   - (iii) made to or in respect of a member.
+
+.
+
+## 3. Amendment of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations[^key-efcfb2dd98903b9a5c39cb44cd04e1e8]
+
+In regulation 5 of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations (Northern Ireland) 1996[^f00009] (conditions upon which appropriate policies of insurance may be commuted)—
+
+- (a) in paragraph (1) for “paragraph (2)” substitute “paragraph (2), (2A)”;
+- (b) after paragraph (2) insert—
+
+  > (2A) This paragraph is satisfied if the lump sum payment is—
+  >
+  > - (a) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004);
+  > - (b) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments), and
+  > - (c) made to or in respect of a member.
+
+  .
+
+## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-e3812fafc9f2d0b04f8311b07e66494a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-817752b742be1768985175bd70f9ee4a]
+
+In regulation 8(6)(b) of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00013] (requirements to be satisfied by transferee schemes, annuities, etc.) for head (i) substitute—
+
+> - (i) of a lump sum—
+>   - (aa) that is a trivial commutation lump sum or a winding up lump sum for the purposes of Part 1[^f00014] of Schedule 29 to the Finance Act 2004 (registered pension schemes: authorised lump sums – lump sum rule) is made to a member, or
+>   - (bb) is made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004), is a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments) and is made to or in respect of a member, and
+
+.
+
+## 6. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-f7c618a20e19ff6328476ac2db897719]
+
+In regulation 8 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00015] (giving effect to protected rights by the provision of a lump sum)—
+
+- (a) in paragraph (1)[^f00016] for “either paragraph (1A)” substitute “paragraph (1A), (1AA)”;
+- (b) after paragraph (1A) insert—
+
+  > (1AA) This paragraph is satisfied if the lump sum payment is—
+  >
+  > - (a) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004);
+  > - (b) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments), and
+  > - (c) made to or in respect of a member.
+
+  .
+
+## 7. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-ba45d09a21553cb641d7dc439a5497c8]
+
+In regulation 2(1)(a) of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00017] (commutation of a pension under an occupational pension scheme)—
+
+- (a) at the end of head (i) omit “or”;
+- (b) after head (ii) add—
+
+  > - (iii) the earner or the earner’s widow, widower or surviving civil partner is a payment—
+  >   - (aa) by a registered pension scheme (within the meaning given in section 150(2) of the 2004 Act), and
+  >   - (bb) that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments), or
+
+  .
+
+## 8. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-98d9ca5f289ed2b97b9a66888efa0828]
+
+In regulation 15 of the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000[^f00018] (disqualification as a destination for pension credit – annuity contracts and insurance policies)—
+
+- (a) in paragraph (4)—
+  - (i) omit “either”;
+  - (ii) at the end of sub-paragraph (a) omit “or”;
+  - (iii) after sub-paragraph (a) insert—
+
+    > - (aa) the condition set out in paragraph (5A) is satisfied, or
+
+    ;
+- (b) after paragraph (5) insert—
+
+  > (5A) The condition referred to in paragraph (4)(aa) is that the lump sum payment is—
+  >
+  > - (a) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004);
+  > - (b) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments), and
+  > - (c) made to or in respect of a member.
+
+  .
+
+## 9. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-a764951d281cb92eb576b22997aa08a8]
+
+For regulation 3 of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00019] (pension credit benefit in lump sum form) substitute—
+
+> **3. Pension credit benefit in lump sum form**
+>
+> For the purposes of section 97C(2) (basic principle as to pension credit benefit), the circumstances in which the trustees or managers of a scheme may provide for payment of pension credit benefit in the form of a lump sum before normal benefit age are—
+>
+> - (a) those which permit payment of a lump sum in accordance with paragraph (a), (b), (e), (f) or (g) of the lump sum rule in section 166(1) of the Finance Act 2004, or
+> - (b) that the lump sum payment is—
+>   - (i) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004);
+>   - (ii) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments), and
+>   - (iii) made to or in respect of a member.
+
+.
+
+## 10. Revocations[^key-cb95ceb48ad16d2a8db742c71aa0bd3f]
+
+The following regulations are revoked—
+
+- (a) regulation 3(2) of the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007[^f00020];
+- (b) regulation 2 of the Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007[^f00021];
+- (c) regulation 14(3) of the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009[^f00022].
+
+Sealed with the Official Seal of the Department for Social Development on 10th November 2009
+
+(L.S.)
+
+B McGahan
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend occupational and personal pensions legislation to update references to certain tax legislation.
+
+The Registered Pension Schemes (Authorised Payments) Regulations 2009 (“the 2009 Regulations”) introduce new tax rules for pension schemes. They provide that some more payments made by pension schemes will be authorised payments and so will not attract some tax charges.
+
+These Regulations amend a number of Regulations concerning occupational and personal pension schemes so that they refer to the new tax rules in the 2009 Regulations. They also make consequential revocations.
+
+As these Regulations, in so far as they are made under Part II of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) and Part V of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (“the 1999 Order”), make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement for consultation does not apply by virtue of Article 117(2)(e) of the 1995 Order and Article 73(9) of the 1999 Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 8C was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); section 17(1) was substituted by Article 261(1) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); section 24(4) was amended by paragraph 3(2) of Schedule 5 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and Article 261(3) of the Pensions (Northern Ireland) Order 2005; section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995 and amended by Article 19 of [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and regulation 2(4) of [S.R. 2007 No. 457](https://www.legislation.gov.uk/nisr/2007/457); section 97C was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); section 178(1) was amended by Parts III and IV of Schedule 5 to the Pensions (Northern Ireland) Order 1995
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 74(3)(e) was added by Article 247(2)(c) of the Pensions (Northern Ireland) Order 2005; Article 89(5) was amended by paragraph 46(4) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, Article 243(2) of the Pensions (Northern Ireland) Order 2005 and paragraph 24 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434)
+
+[^f00003]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-99e8929369fd989291e3647b660b2126]: Commencement: Reg. 1 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-cd76c6d5bfaa5006e9bf09c91b0013d1]: Commencement: Reg. 2 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); regulation 5 was substituted by regulation 3(2) of [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185)
+
+[^f00007]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^f00008]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171)
+
+[^key-efcfb2dd98903b9a5c39cb44cd04e1e8]: Commencement: Reg. 3 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00009]: Footnote: [S.R. 1996 No. 94](https://www.legislation.gov.uk/nisr/1996/94); regulation 5 was substituted by Article 27(2) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
+
+[^key-e3812fafc9f2d0b04f8311b07e66494a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/365/regulation/4) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+
+[^key-817752b742be1768985175bd70f9ee4a]: Commencement: Reg. 5 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00013]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621); regulation 8(6) was added by regulation 11 of [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171) and amended by regulation 2 of [S.R. 2007 No. 338](https://www.legislation.gov.uk/nisr/2007/338)
+
+[^f00014]: Footnote: *See* paragraphs 7 to 10 of Schedule 29
+
+[^key-f7c618a20e19ff6328476ac2db897719]: Commencement: Reg. 6 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00015]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56); relevant amending provisions are [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and [S.I. 2007/829](https://www.legislation.gov.uk/uksi/2007/829)
+
+[^f00016]: Footnote: Paragraph (1) was substituted with paragraphs (1) to (1F) by Article 32(3) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and paragraph (1D) was substituted by Article 5(b) of [S.I. 2007/829](https://www.legislation.gov.uk/uksi/2007/829)
+
+[^key-ba45d09a21553cb641d7dc439a5497c8]: Commencement: Reg. 7 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00017]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); regulation 2(1) was substituted by Article 33(3)(a) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
+
+[^key-98d9ca5f289ed2b97b9a66888efa0828]: Commencement: Reg. 8 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00018]: Footnote: [S.R. 2000 No. 145](https://www.legislation.gov.uk/nisr/2000/145); regulation 15 was amended by paragraph 4 of Schedule 1 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and Article 37(4) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
+
+[^key-a764951d281cb92eb576b22997aa08a8]: Commencement: Reg. 9 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146); regulation 3 was substituted by regulation 14(3) of [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)
+
+[^key-cb95ceb48ad16d2a8db742c71aa0bd3f]: Commencement: Reg. 10 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+
+[^f00020]: Footnote: [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185)
+
+[^f00021]: Footnote: [S.R. 2007 No. 338](https://www.legislation.gov.uk/nisr/2007/338)
+
+[^f00022]: Footnote: [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)

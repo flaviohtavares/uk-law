@@ -1,0 +1,341 @@
+---
+title: The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006
+id: nisr/2006/148
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-03-21'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/148
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/148/pdfs/nisr_20060148_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/148/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 148
+
+PENSIONS
+
+The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006
+
+Made
+
+21st March 2006
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 218(8)(c), 219(10), 220(2) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-41b8f5e48433720b206d474b0458a569]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006, immediately prior to the coming into operation of the provisions of Article 2(6) of, and Part 6 of the Schedule to, the Pensions (2005 Order) (Commencement No. 7) Order (Northern Ireland) 2005[^f00002].
+
+(2) In these Regulations—
+
+- “associated” shall be construed in accordance with paragraph (4);
+- “connected” shall be construed in accordance with paragraph (4);
+- “direct payment paid-up insurance scheme” means a scheme under which—
+  - (a) no further contributions are payable;
+  - (b) the benefits that may be provided in respect of an individual are determined by reference to the value of the whole or a specified part of the rights under a contract of insurance, and
+  - (c) the benefits in respect of any member are, in accordance with an agreement made between the insurer and the trustees of the scheme (or a subsequent agreement made with any person for the provision of those benefits in respect of the member, by that person), to be paid by the insurer (or that person) directly to the member or to a person entitled to benefits in respect of that member;
+- “former old code scheme” means a registered pension scheme which was formerly approved under section 208 of the Income and Corporation Taxes Act 1970[^f00003] (approved superannuation funds) and under the provisions of which—
+  - (a) no further contributions are payable, and
+  - (b) the entitlement in respect of each member is to a benefit consisting of a specified fixed amount which may not be altered unless—
+    - (i) the member retires otherwise than at his normal pension age, or
+    - (ii) another person becomes entitled to a benefit in respect of him;
+- “independently selected” in relation to a trustee of a scheme or a director of a company which is a trustee of a scheme, means selected as a trustee (or, as the case may be, a director)—
+  - (a) by some or all of the members of the scheme (otherwise than wholly or mainly by members who are directors of companies which are employers in relation to the scheme), or
+  - (b) by an organisation which represents some or all of the members of the scheme (other than wholly or mainly members who are such directors);
+- “insurer” (subject to paragraph (5)) means—
+  - (a) a person who has permission under Part IV of the Financial Services and Markets Act 2000[^f00004] (permission to carry on regulated activities) to effect or carry out contracts of long-term insurance, [^key-71ee26d339a6a75749b824fbe588a925]...
+  - (b) [^key-71ee26d339a6a75749b824fbe588a925]...
+- “registered pension scheme” has the meaning given in section 150(2) of the Finance Act 2004[^f00005] (meaning of “pension scheme”);
+- “relevant centralised scheme” means a scheme in which—
+  - (a) membership is open to employees of more than one employer under a single scheme;
+  - (b) at least two of the employers are not associated or connected, and
+  - (c) in the case of a scheme which has one or more trustees and in which each trustee is a company—
+    - (i) the scheme rules do not provide that the power to appoint or remove all the directors is exercisable solely by one employer, and
+    - (ii) at least one-third of the directors of the company or each of those companies are independent or independently selected, or
+  - (d) in the case of a scheme where at least one of the trustees is not a company, either—
+    - (i) the scheme rules do not provide that the power to appoint or remove all the trustees is exercisable solely by one employer, or
+    - (ii) at least one-third of the trustees are persons who—
+      - (aa) have no legal or beneficial interest in the assets of any of the employers or of the scheme (otherwise than as trustees) and are neither connected nor associated with any of the employers, and
+      - (bb) have been independently selected;
+- “relevant executive pension scheme” means a scheme—
+  - (a) in relation to which the company is the only employer and the sole trustee, and
+  - (b) the members of which are either current or former directors of the company and which includes at least one-third of the current directors;
+- “relevant small occupational pension scheme” means a scheme with fewer than 12 members, where—[^M_F_ef01112b-052a-4b6b-e8fb-898b6986dee8]
+  - (a) all the members are trustees of the scheme and either—
+    - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme, or
+    - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order (power to appoint independent trustees), and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article, or
+  - (b) all the members are directors of a company which is the sole trustee of the scheme, and either—
+    - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee are made by the unanimous agreement of the directors who are members of the scheme, or
+    - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order, and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
+- “relevant wholly insured scheme” means a scheme under which there is a sole trustee and all the benefits are secured by contracts of insurance or annuity contracts, some or all of which are with an insurer who—
+  - (a) is, or is connected, with the sole trustee of the scheme, but
+  - (b) is not, and is not connected with, the employer;
+- “section 615(6) scheme” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Income and Corporation Taxes Act 1988[^f00007] (exemption from tax in respect of certain pensions);
+- “small insured scheme” means a scheme—
+  - (a) with fewer than 12 members, and
+  - (b) in which all the scheme benefits are secured with an insurer under a contract of insurance or annuity contract.
+
+(3) For the purposes of paragraph (2), a director is independent in relation to a scheme only if he—
+
+- (a) has no direct legal or beneficial interest in the assets of any of the employers or of the scheme, and
+- (b) is neither connected nor associated with any of the employers.
+
+(4) For the purposes of these Regulations Articles 4 and 7 of the Insolvency Order[^f00008] (associated and connected persons) shall apply as they apply for the purposes of that Order.
+
+(5) The definition of insurer in paragraph (2) shall be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000 (the classes of activity and categories of investment), and
+- (b) any relevant order under that section, or
+- (c) Schedule 2 to that Act (regulated activities).
+
+(6) References to “employer” and “employers” in paragraphs (c)(i) and (d) of the definition in paragraph (2) of “relevant centralised scheme” and in paragraph (3) do not include companies which carry on the business of acting as trustee of, or providing administrative services to, the scheme and no other business.
+
+(7) In these Regulations, any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 2005 bearing that number.
+
+## 2. Exemptions from requirement to have member-nominated trustees[^key-13e8195e5859ba5e7b7d70235e1c4513]
+
+For the purposes of Article 218(8)(c) (requirement for member-nominated trustees) a scheme is of a prescribed description if the scheme—
+
+- (a) has fewer than two members;
+- (b) is a scheme to which Article 22 of the 1995 Order[^f00009] (circumstances in which independent trustees provisions apply) applies;
+- (c) is an occupational pension scheme within the meaning given by section 1 of the Pension Schemes Act[^f00010] (categories of pension schemes), but which is not a registered pension scheme;
+- (d) is a relevant small occupational pension scheme;
+- (e) is a relevant centralised scheme;
+- (f) is a direct payment paid-up insurance scheme;
+- (g) is a former old code scheme;
+- (h) is a section 615(6) scheme;
+- (i) is established under section 48 of the Northern Ireland Act 1998[^f00011] (pensions of members), or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00012] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00013];
+- (j) is a scheme where the sole trustee, or all the trustees are independent within the meaning given by Article 23(3) of the 1995 Order;
+- (k) is a stakeholder pension scheme within the meaning of Article 3 of the 1999 Order[^f00014];
+- (l) is a small insured scheme, [^M_F_6dd29a82-4ca8-43e8-a89e-bc6e4c37b72e]...
+- (m) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005.
+
+  or[^M_F_4f2e2a9e-ee1a-4f7f-cb30-c9a8484014e0]
+- (n) is designated as an existing scheme by virtue of Article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994 (designation of existing schemes).
+
+## 3. Prescribed exemptions from requirement to have member-nominated directors of corporate trustees[^key-5ea37d007cd3251069015ba622c6aaad]
+
+For the purposes of Article 219(10) (requirement for member-nominated directors of corporate trustees) a scheme is of a prescribed description if the scheme—
+
+- (a) has fewer than two members;
+- (b) is a scheme to which Article 22 of the 1995 Order applies;
+- (c) is an occupational pension scheme within the meaning given by section 1 of the Pension Schemes Act, but which is not a registered pension scheme;
+- (d) is a relevant small occupational pension scheme;
+- (e) is a relevant centralised scheme;
+- (f) is a direct payment paid-up insurance scheme;
+- (g) is a former old code scheme;
+- (h) is a section 615(6) scheme;
+- (i) is established under section 48 of the Northern Ireland Act 1998, or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965 or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976;
+- (j) is a stakeholder pension scheme within the meaning of Article 3 of the 1999 Order;
+- (k) is a scheme which is a relevant executive pension scheme in relation to the company;
+- (l) is a scheme where all the directors (or the sole director) of the trustee (or trustees)[^M_F_9cdf90cf-a5ee-4072-b147-5099f9a5ee80] are independent within the meaning given by Article 23(3) of the 1995 Order;
+- (m) is a small insured scheme;
+- (n) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005, [^M_F_364a785a-1b86-4006-8754-e0c92cf1443b]...
+- (o) is a scheme which is a relevant wholly insured scheme.
+
+  or[^M_F_934d9726-ce69-4cf7-f6a0-3b251cef543f]
+- (p) is designated as an existing scheme by virtue of Article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994.
+
+## 4. Transitional[^key-31b4736c0687580672e8371519d60740]
+
+In relation to a scheme which has alternative arrangements for the appointment of trustees or directors approved under Article 17(1) (exceptions) or 19(1) (corporate trustees: exceptions) of the 1995 Order immediately prior to the date those Articles were repealed, the approval of such arrangements shall cease to have effect—
+
+- (a) on the date the approval under regulation 20 of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996[^f00015] (cessation of approval of appropriate rules and alternative arrangements) would cease to have effect but for the revocation of those Regulations, or
+- (b) on 31st October 2007,
+
+whichever is the earlier.
+
+## 5. Modifications of Articles 218 and 219[^key-d7c8ae8c0121b4f836293b1915212440]
+
+(1) Articles 218 (requirement for member-nominated trustees) and 219 (requirement for member-nominated directors of corporate trustees) shall be modified in their application to the cases prescribed in paragraphs (2) to (7)[^M_F_d36339b4-753e-4dc2-b355-5ee867f3ae1a].
+
+(2) In relation to a scheme where the scheme rules contain provisions requiring that there be more than one third member-nominated trustees or directors as the case may be, Articles 218 and 219 shall be modified as if—
+
+- (a) in Article 218(1)(a) for “at least one-third of the total number of trustees” there were substituted “the nomination and selection of member-nominated trustees at least in a proportion not less than that proportion set out in the scheme rules”;
+- (b) Article 218(4) were omitted;
+- (c) in Article 219(1)(a) for “at least one-third of the total number of directors of the company” there were substituted “the nomination and selection of member-nominated directors at least in a proportion not less than that proportion set out in the scheme rules”, and
+- (d) Article 219(4) were omitted.
+
+(3) In relation to a scheme where the scheme rules provide that trustees of the scheme may be removed by a vote of the membership, then in relation to any application of that scheme rule, Article 218 shall be modified as if paragraph (6) of that Article were omitted.
+
+(4) In relation to a scheme which has member-nominated trustees or, as the case may be, directors appointed under Article 16(1) (requirement for member-nominated trustees) or 18(1) (corporate trustees: member-nominated directors) of the 1995 Order[^f00016] immediately prior to the date those Articles are repealed, Articles 218 and 219 shall be modified as if—
+
+- (a) in Article 218 after paragraph (2) there were inserted the following paragraph—
+
+  > (2A) In the case of a scheme which has member-nominated trustees appointed under Article 16(1) of the 1995 Order (requirement for member-nominated trustees) immediately prior to the date that Article was repealed, “member-nominated trustees” includes any member-nominated trustees appointed under that Article for the remainder of their term of office under Article 16(5) of that Order.
+
+  , and
+- (b) in Article 219 after paragraph (2) there were inserted the following paragraph—
+
+  > (2A) In the case of a scheme which has member-nominated directors appointed under Article 18(1) of the 1995 Order (corporate trustees: member-nominated directors) immediately prior to the date that Article was repealed, “member-nominated directors” includes any member-nominated directors appointed under that Article for the remainder of their term of office under Article 18(5) of that Order.
+
+  .
+
+(5) In relation to a scheme which has arrangements for the appointment of member-nominated trustees or directors approved under Article 17(1) (exceptions) or 19(1) (corporate trustees: exceptions) of the 1995 Order immediately prior to the date those Articles are repealed, Articles 218 and 219 shall be modified as if—
+
+- (a) in Article 218 for paragraph (3) there were substituted the following paragraph—
+
+  > (3) The “commencement date”, in relation to a scheme, is—
+  >
+  > - (a) the date the approval under regulation 20 of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996 (cessation of approval of appropriate rules and alternative arrangements) would cease to have effect but for the revocation of those Regulations, or
+  > - (b) 31st October 2007,
+  >
+  > whichever is the earlier.
+
+  , and
+- (b) in Article 219 for paragraph (3) there were substituted the following paragraph—
+
+  > (3) The “commencement date”, in relation to a company, is—
+  >
+  > - (a) the date the approval under regulation 20 of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996 would cease to have effect but for the revocation of those Regulations, or
+  > - (b) 31st October 2007,
+  >
+  > whichever is the earlier.
+
+  .
+
+(6) In relation to a scheme which has no active or pensioner members Articles 218 and 219 shall be modified as if for sub-paragraph (a) of paragraph (2) of both Articles there were substituted the following sub-paragraph—
+
+> - (a) are nominated as the result of a process in which at least such deferred members, as the trustees determine, are eligible to participate, and
+
+.
+
+(7)[^M_F_8f1fb998-2344-48a6-c1f4-77af5616cf4b] In relation to a scheme where—
+
+- (a) every trustee is a company;
+- (b) at least one trustee only has directors who are independent (or a sole director who is independent) within the meaning given by Article 23(3)(3) of the 1995 Order, and
+- (c) at least one trustee has one or more directors who are not independent within that meaning,
+
+Article 219 shall be modified as if after paragraph (1) there were inserted the following paragraph—
+
+- “(1A) But paragraph (1) does not apply to such a company which only has directors who are independent (or a sole director who is independent) within the meaning given by Article 23(3) of the 1995 Order.”.
+
+## 6. Revocations[^key-758cd4de4dd090d3ad28903f5f1effb6]
+
+The Regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 21st March 2006.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — Revocations[^key-55d727a18dc273704f793f5be903e532]
+
+Regulation 6
+
+| *Column (1)* | *Column (2)* | *Column (3)* |
+| --- | --- | --- |
+| *Citation* | *References* | *Extent of revocation* |
+| The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996 | [S.R. 1996 No. 431](https://www.legislation.gov.uk/nisr/1996/431) | The whole of the Regulations |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 | [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) | Paragraph 4 of the Schedule |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 | [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) | Regulation 3 |
+| The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 | [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262) | Regulation 29 |
+| The Occupational Pension Schemes (Member-nominated Trustees and Directors) (Amendment) Regulations (Northern Ireland) 2002 | [S.R. 2002 No. 279](https://www.legislation.gov.uk/nisr/2002/279) | The whole of the Regulations |
+| The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 | [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256) | Regulation 6 |
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to member-nominated trustees and directors under Articles 218 and 219 of the Pensions (Northern Ireland) Order 2005 (“the Order”).
+
+Regulation 1 provides for citation, commencement and interpretation.
+
+Regulation 2 prescribes the types of scheme where the minimum proportion of member-nominated trustees specified Article 218(1) of the Order is not required.
+
+Regulation 3 prescribes the types of scheme where the minimum proportion of member-nominated directors set out under Article 219(1) of the Order is not required.
+
+Regulation 4 makes transitional provision in respect of schemes which had existing arrangements approved under Article 17 or 19 of the Pensions (Northern Ireland) Order 1995 prior to the repeal of those Articles.
+
+Regulation 5 modifies the provisions of Articles 218 and 219 of the Order in respect of schemes whose existing scheme rules require a higher proportion of trustees or directors to be member-nominated. It also provides for transitional provisions for schemes that were exempted under the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996.
+
+Regulation 6 makes consequential revocations.
+
+The Pensions (2005 Order) (Commencement No. 6) Order (Northern Ireland) 2005 ([S.R. 2005 No. 411 (C. 32)](https://www.legislation.gov.uk/nisr/2005/411)) provides for the coming into operation of some of the enabling provisions under which these Regulations are made as follows—
+
+- Articles 218(8)(c) and 219(10), for the purpose only of authorising the making of regulations, on 1st November 2005 and for all other purposes on 6th April 2006, and
+- Article 220(2) on 1st November 2005.
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-41b8f5e48433720b206d474b0458a569]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/148/regulation/1) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+
+[^f00002]: Footnote: [S.R. 2005 No. 543 (C. 37)](https://www.legislation.gov.uk/nisr/2005/543); Articles 16 to 18, 20 and 21 of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) were amended by paragraphs 34 and 38 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), respectively. Articles 16 to 21 of the Pensions (Northern Ireland) Order 1995 are repealed by Schedule 11 to the Pensions (Northern Ireland) Order 2005 with effect from 6th April 2006
+
+[^f00003]: Footnote: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10); section 208 was repealed by Schedule 14 to the Finance Act [1971 (c. 68)](https://www.legislation.gov.uk/ukpga/1971/68) with effect from 6th April 1980
+
+[^f00004]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
+
+[^key-71ee26d339a6a75749b824fbe588a925]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/148/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^M_F_ef01112b-052a-4b6b-e8fb-898b6986dee8]: Textual amendment: Words in reg. 1(2) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(2)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
+
+[^f00007]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 615(6) was amended by paragraph 11 of Schedule 10 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16)
+
+[^f00008]: Footnote: Article 4 was amended by paragraph 80 of Schedule 29 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33)
+
+[^key-13e8195e5859ba5e7b7d70235e1c4513]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/148/regulation/2) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+
+[^f00009]: Footnote: Article 22 was amended by section 43(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and Article 32(2) of, and paragraph 34 of Schedule 10 to, the Pensions (Northern Ireland) Order 2005
+
+[^f00010]: Footnote: Section 1 is amended by Article 216 of the Pensions (Northern Ireland) Order 2005
+
+[^f00011]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00012]: Footnote: [1965 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1965/18); Part II was amended by the Members' Pensions (Northern Ireland) Order 1976 ([S.I. 1976/426 (N.I. 8)](https://www.legislation.gov.uk/nisi/1976/426)). *See also* section 33(1) of the Northern Ireland Constitution Act [1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36)
+
+[^f00013]: Footnote: [S.I. 1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
+
+[^f00014]: Footnote: Article 3 was amended by Article 262(2) to (4) of the Pensions (Northern Ireland) Order 2005
+
+[^M_F_6dd29a82-4ca8-43e8-a89e-bc6e4c37b72e]: Textual amendment: Words in reg. 2(l) omitted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(3)(a)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
+
+[^M_F_4f2e2a9e-ee1a-4f7f-cb30-c9a8484014e0]: Textual amendment: Words in reg. 2 inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(3)(b)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
+
+[^key-5ea37d007cd3251069015ba622c6aaad]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/148/regulation/3) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+
+[^M_F_9cdf90cf-a5ee-4072-b147-5099f9a5ee80]: Textual amendment: Words in [reg. 3(l)](https://www.legislation.gov.uk/nisr/2006/148/regulation/3) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://editorial.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/1), [20(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/20)
+
+[^M_F_364a785a-1b86-4006-8754-e0c92cf1443b]: Textual amendment: Words in reg. 3(n) omitted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(4)(a)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
+
+[^M_F_934d9726-ce69-4cf7-f6a0-3b251cef543f]: Textual amendment: Words in reg. 3 inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(4)(b)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
+
+[^key-31b4736c0687580672e8371519d60740]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/148/regulation/4) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+
+[^f00015]: Footnote: [S.R. 1996 No. 431](https://www.legislation.gov.uk/nisr/1996/431); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and [S.R. 2002 No. 279](https://www.legislation.gov.uk/nisr/2002/279)
+
+[^key-d7c8ae8c0121b4f836293b1915212440]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+
+[^M_F_d36339b4-753e-4dc2-b355-5ee867f3ae1a]: Textual amendment: Words in [Reg. 5](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://editorial.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/1), [20(3)(a)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/20)
+
+[^f00016]: Footnote: Articles 16 and 18 were amended by paragraphs 34 and 36 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), respectively and are repealed by Schedule 11 of the Pensions (Northern Ireland) Order 2005 with effect from 6th April 2006
+
+[^M_F_8f1fb998-2344-48a6-c1f4-77af5616cf4b]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://editorial.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/1), [20(3)(b)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/20)
+
+[^key-758cd4de4dd090d3ad28903f5f1effb6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/148/regulation/6) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+
+[^key-55d727a18dc273704f793f5be903e532]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/148/schedule) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)

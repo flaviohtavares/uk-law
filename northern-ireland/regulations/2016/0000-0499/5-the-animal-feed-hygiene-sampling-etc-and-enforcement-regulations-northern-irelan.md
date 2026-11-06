@@ -1,0 +1,926 @@
+---
+title: The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016
+id: nisr/2016/5
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-01-11'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/5
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/5/pdfs/nisrem_20160005_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/5/pdfs/nisr_20160005_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/5/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 5
+
+Agriculture
+
+The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016
+
+Made
+
+11th January 2016
+
+Coming into operation-
+
+14th February 2016
+
+[^c22819571][^c22819581][^c22819591]The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred on it by sections 66(1), 74A(4), 79(9) and 84 of the Agriculture Act 1970 , as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000 .
+
+[^c22819601]In so far as these Regulations cannot be made under the Agriculture Act 1970, the Department of Health, Social Services and Public Safety makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 as read with paragraph 1A of Schedule 2 to that Act.
+
+[^c22819611][^c22819621][^c22819631][^c22819641]The Department of Health, Social Services and Public Safety has been designated for the purposes of section 2(2) of the European Communities Act 1972 (in relation to the common agricultural policy of the European Union , the control and regulation of genetically modified organisms , measures in the veterinary and phytosanitary fields for the protection of public health and measures relating to feed produced for or fed to food-producing animals .
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, Social Services and Public Safety that it is expedient for a reference to an EU instrument mentioned in regulation 2(5) to be construed as references to that instrument as any Annex to it may be amended from time to time.
+
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22819651] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.[^key-2773ccb119301a06b67cb706738e0a11]
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 and come into operation on 14th February 2016.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Agriculture Act 1970;
+- [^key-c229033aa8a9e3037a6dfe8e37924d42]...[^key-5b4d3067bc797a33c4b20dfdfca7547f]
+- “Regulation 183/2005” means subject to regulation 2(5) Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/eur/2005/0183) of the European Parliament and of the Council laying down requirements for feed hygiene as last amended by Commission Regulation (EU) 2015/1905;
+- “Regulation 152/2009” means subject to regulation 2(5) Regulation [(EC) No. 152/2009](https://www.legislation.gov.uk/eur/2009/0152) laying down the methods of sampling and analysis for the official control of feed as last amended by Commission Regulation (EU) 2017/771;
+- “Regulation 767/2009” means Regulation [(EC) 767/2009](https://www.legislation.gov.uk/eur/2009/767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) and repealing Council [Directive 79/373/EEC](https://www.legislation.gov.uk/eudr/1979/0373), Commission [Directive 80/511/EEC](https://www.legislation.gov.uk/eudr/1980/0511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/eudr/1982/471), [83/228/EEC](https://www.legislation.gov.uk/eudr/1983/228), [93/74/EEC](https://www.legislation.gov.uk/eudr/1993/74), [93/113/EC](https://www.legislation.gov.uk/eudr/1993/113) and [96/25/EC](https://www.legislation.gov.uk/eudr/1996/25) and Commission [Decision 2004/217/EC](https://www.legislation.gov.uk/eud/2004/0217) as last amended by Commission Regulation (EU) 2017/2279;
+- “Regulation 2017/625” means Regulation (EU) 2017/625 of 15 March 2017 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-ee0adef2cef3c9bfbeef728b22258e2a] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438);
+- “Regulation 2020/354” means Commission Regulation (EU) 2020/354 of 4 March 2020 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/eudr/2008/0038);
+- “**the Agency**” means the Food Standards Agency;
+- “**agricultural analyst**” means an agricultural analyst appointed under section 67 of the Act [^c22819701] ;
+- “**authorised officer**” means a person (whether or not a DARD officer) who is authorised by DARD, either generally or specially, to act in relation to matters arising under these Regulations;
+- “**DARD**” means the Department of Agriculture and Rural Development;
+- “**premises**” includes any establishment, any place, vehicle, stall or moveable structure and any ship or aircraft;
+- “**prescribed manner**” means the manner prescribed by Regulation 152/2009;
+- “**specified feed law**” means the instruments specified in Schedule 1.
+
+(2) Subject to paragraph (3), any other expression used in these Regulations and in Regulation 183/2005, Regulation 152/2009, Regulation 2017/625 or Regulation 2020/354[^key-72ab4153643f9882d28aad137c48c9da] has the same meaning in these Regulations as it does in the EU Regulation.
+
+(3) Where, apart from this paragraph, any period of less than seven days which is specified in these Regulations would include any day which is —
+
+- (a) a Saturday, a Sunday, Christmas Day or Good Friday; or
+- (b) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c22819711],
+
+that shall be excluded from the period.
+
+(4) In these Regulations “feed” or “**feeding stuff**” does not include any of the following feed additives or premixtures consisting solely of such additives —
+
+- (a) coccidiostats;
+- (b) histomonostats; and
+- (c) all other zootechnical additives except —
+  - (i) digestibility enhancers,
+  - (ii) gut flora stabilisers, and
+  - (iii) substances incorporated into feed with the intention of favourably affecting the environment.
+
+(5) Any reference in these Regulations to Regulation 183/2005, Regulation 152/2009 or Regulation 2020/354[^key-16bf6f07027e09f250c998d42ff0f41f] is a reference to that Regulation as any Annex to it may be amended from time to time.
+
+(6) The Interpretation Act (Northern Ireland) 1954 [^c22819721] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## PART 2 — Requirements for Feed Hygiene, Registration and Approval
+
+### 3. Interpretation of Part 2
+
+(1) This Part does not apply to the activities mentioned in Article 2(2) of Regulation 183/2005.
+
+(2) Any reference in this Part or in Schedule 2 to a numbered Article or Annex is a reference to the Article or Annex so numbered in Regulation 183/2005.
+
+### 4. Competent authorities
+
+(1) The competent authorities for the purposes of specified Articles are—
+
+- (a) in respect of Articles 9(1) and (3), 18(3), 20(2), 21(1) and 22(2)(b), the Agency and DARD;
+- (b) in respect of Articles 7, 9(2), 10, 13, 14, 15, 16, 17, 18(1), (2) and (4) and 19(2), DARD; and
+- (c) in respect of Article 19(1), the Agency.
+
+(2) The competent authorities for the purposes of the section headed “Dioxin Monitoring” in Annex II are —
+
+- (a) in respect of paragraph 2(f)[^key-a7f9bfcb7eb9f3ddfb619ee7bf55344e], DARD; and
+- (b) in respect of paragraph 7, DARD and the Agency.
+
+### 5. Enforcement of specified provisions of Regulation 183/2005
+
+Any person who contravenes any of the provisions of Regulation 183/2005 specified in the first column of Table 1 or Table 2 of Schedule 2 commits an offence.
+
+### 6. Form of notification with a view to registration
+
+Any person who is required under Article 9 (official controls, notification and registration) to notify DARD of the information mentioned in paragraph (2)(a) or (b) of that Article must ensure that any such notification—
+
+- (a) is in writing and signed by that person or on their behalf;
+- (b) contains the person's name and, if different, business name;
+- (c) contains the person's address and, if different, the address of any establishment to which the notification relates;
+- (d) identifies the feed business activities in such form as may be required by DARD; and
+- (e) is properly addressed to DARD.
+
+### 7. Form of application for approval
+
+Where approval of a feed business establishment is required pursuant to Article 10, an application to DARD must be made which —
+
+- (a) is in writing and signed by or on behalf of the applicant;
+- (b) contains the name or business name and the address of the applicant and, if different, the address of the establishment;
+- (c) identifies which of the feed business activities specified in Article 10(1) or as may be specified pursuant to Article 10(3) the applicant is exercising or intends to exercise and for which approval is sought;
+- (d) in the case of any person to whom Article 17(2) (exemption from on-site visits) applies, includes a statement to the effect that the establishment is one to which Article 17(1) applies and a declaration of compliance as required by paragraph (2) of that Article; and
+- (e) is properly directed to DARD.
+
+### 8. Procedure for suspension of registration or approval
+
+(1) Where DARD proposes to take action pursuant to Article 14 (temporary suspension of registration or approval) it must serve on the feed business operator a notice in accordance with paragraph (2).
+
+(2) The notice served by DARD must—
+
+- (a) specify the operative date of the notice (“**the operative date**”);
+- (b) state that on the operative date DARD intends to suspend the registration or approval of the establishment pursuant to Article 14 and these Regulations;
+- (c) specify the feed business activity or activities to which the notice relates;
+- (d) identify the remedial action required;
+- (e) state that unless remedial action has been carried out to its' satisfaction within one year of the operative date, the registration or approval will be revoked without further notice on the first anniversary of the operative date; and
+- (f) provide information on the time limit for appealing under regulation 12.
+
+### 9. Procedure for lifting of suspension
+
+Where DARD having served notice on a feed business operator under regulation 8 is satisfied that—
+
+- (a) the remedial action required under paragraph (2)(e) of that regulation has been carried out; and
+- (b) the period for action specified in that sub-paragraph has not expired,
+
+it must immediately lift the suspension and notify the feed business operator to that effect.
+
+### 10. Procedure for revocation of registration or approval
+
+(1) Where DARD proposes to take action in the circumstances set out in Article 15 (revocation of registration or approval) it must serve on the feed business operator a notice in accordance with paragraph (2).
+
+(2) A notice served under paragraph (1) must—
+
+- (a) specify the operative date of the notice;
+- (b) state that the registration or approval as the case may be has been revoked;
+- (c) specify the feed business activity or activities to which the revocation relates;
+- (d) identify which of the conditions of revocation set out in Article 15 is applicable;
+- (e) provide information on the time limits for appealing under regulation 12.
+
+(3) Where DARD has revoked a registration or approval under this regulation it must —
+
+- (a) make the appropriate amendments to its own register of feed business establishments; and
+- (b) promptly transmit to the Agency the necessary information to ensure compliance with Article 19(3) (updating of national lists).
+
+### 11. Form of application for amendments to registration or approval
+
+Where a feed business operator wishes to apply for amendments to registration or approval pursuant to Article 16 (amendments to registration or approval of an establishment), an application to DARD must be made which—
+
+- (a) is signed by or on behalf of the applicant;
+- (b) contains the name or business name and the address of the applicant and, if different, the address of the establishment;
+- (c) identifies the activities to which the application for amendments relates;
+- (d) is properly addressed to DARD.
+
+### 12. Rights of appeal in connection with registration or approval
+
+(1) Any person who is aggrieved by the decision of DARD taken in respect of—
+
+- (a) the approval of an establishment under Article 13;
+- (b) suspension of the registration or approval of an establishment under Article 14;
+- (c) revocation of the registration or approval of an establishment under Article 15; or
+- (d) amendment of the approval of an establishment under Article 16,
+
+may appeal to a court of summary jurisdiction.
+
+(2) The procedure on appeal to a court of summary jurisdiction under paragraph (1) shall be by way of notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981 [^c22819731].
+
+(3) The period within which an appeal under paragraph (1) may be brought is one month from which notice of the decision was served on the person wishing to appeal and a notice under Part VII is deemed for the purposes of this paragraph to be the bringing of the appeal.
+
+(4) Where on an appeal under paragraph (1) a court of summary jurisdiction determines that the decision of DARD is incorrect, DARD must give effect to the determination of the court.
+
+(5) Where a registration or an approval is suspended or revoked, the feed business operator who, immediately before such suspension or revocation, had been operating the establishment concerned may continue to operate it, subject to any conditions imposed by DARD for the protection of public health, unless—
+
+- (a) the time limit for appealing against the decision to suspend or revoke registration or approval has expired without an appeal having been brought; or
+- (b) where an appeal against that decision has been brought, the appeal has been finally disposed of or abandoned.
+
+(6) Nothing in paragraph (5) permits the operation of a feed business establishment if a feed business prohibition order, a feed business emergency prohibition notice or a feed business emergency prohibition order has been imposed in relation to that establishment.
+
+### 13. Fees for approvals or amendments to approvals
+
+(1) A feed business operator who applies to DARD for an approval or amendment to an approval must—
+
+- (a) pay the relevant fee when the application is submitted; and
+- (b) reimburse DARD on demand the cost of any laboratory analysis incurred by it in connection with the application.
+
+(2) In relation to any such application referred to in paragraph (1) submitted to it, DARD need not—
+
+- (a) take any steps to approve an establishment in respect of one or more of its feed business activities until the relevant fee has been paid to it; nor
+- (b) approve an establishment in respect of one or more of its feed business activities until it has been reimbursed in accordance with paragraph (1)(b).
+
+(3) Where the establishment in relation to which approval or amendment to approval is sought is one at which more than one feed business activity requiring approval may be exercised, the feed business operator is liable to pay a single relevant fee, which fee shall be the highest one otherwise payable.
+
+(4) In this regulation “**relevant fee**” means the appropriate fee specified in Schedule 3.
+
+## PART 3 — Sampling and analysis
+
+### 14. Procedure relating to samples for analysis
+
+(1) Where an authorised officer obtains a sample and decides to have it analysed for the purpose of ascertaining whether there is or has been any contravention of specified feed law, the officer must divide the sample into three parts of as near as may be equal size and—
+
+- (a) cause each part to be marked sealed and fastened in the prescribed manner;
+- (b) send one part for analysis to the agricultural analyst from DARD;
+- (c)[^key-d646ce7b4c1b49f8a585abb2d4865d72] send another part to—
+  - (i) the person on whose premises the material was sampled or to that person’s agent; or
+  - (ii) the person who offered the material for sale by means of distance communication if the material was ordered from such a person or to that person’s agent;
+- (d) retain and preserve the remaining part as an officially sealed reference sample.
+
+(2) If the person who manufactured any material sampled under these Regulations is not a person to whom part of the sample should be sent under paragraph (1), that paragraph has effect as if for the reference to three parts there were substituted a reference to four parts, and the authorised officer must within fourteen days of the date of sampling send the fourth part to the manufacturer, unless the officer does not know and is unable to ascertain after making reasonable enquiries the identity or the address in the United Kingdom of the manufacturer.
+
+(3) The part of the sample sent to the agricultural analyst must be accompanied by a statement signed by the authorised officer confirming that the sample was taken in the prescribed manner.
+
+(4) The agricultural analyst must analyse the part of the sample sent under paragraph (1)(b), and send a certificate of analysis to the authorised officer, who must send a copy to —
+
+- (a)[^key-ff230ec784df62251ad3142b8b9ed5de] the person on whose premises the material was sampled or that person’s agent;
+- (b) the person who offered the material for sale by means of distance communication if the material was ordered from such a person or to that person’s agent; and
+- (c) if part of the sample was sent under paragraph (2), to the person to whom that part was sent.
+
+(5) Any analysis required to be made under paragraph (4) may be performed by any person acting under the direction of the agricultural analyst.
+
+(6) If the agricultural analyst to whom the sample was sent under paragraph (1)(b) determines that an effective analysis of the sample cannot be performed by him or her or under his or her direction, that analyst must send it to another agricultural analyst, together with any documents received with the sample, and paragraph (4) shall then apply as if the sample had originally been sent to that other analyst.
+
+### 15. Secondary analysis by the Chief Agricultural Analyst
+
+(1) Where a part of a sample sent under regulation 14(1)(b) has been analysed and—
+
+- (a) proceedings are intended to be or have been commenced against a person for an offence under specified feed law; and
+- (b) the prosecution intends to adduce evidence of the result of that part of the sample,
+
+paragraphs (2) to (6) apply.
+
+(2) The authorised officer —
+
+- (a) may, of his own volition;
+- (b) must, if requested by the prosecutor (if a person other than the authorised officer); or
+- (c) must (subject to paragraph (6)), if requested by the defendant,
+
+send the retained part of the sample to be analysed by the Chief Agricultural Analyst.
+
+(3) The Chief Agricultural Analyst must analyse in the prescribed manner the part of the sample sent under paragraph (2) and send to the authorised officer a certificate of the analysis which must be signed by the Chief Agricultural Analyst or by a person authorised by the Chief Agricultural Analyst to sign.
+
+(4) Any analysis required to be made under paragraph (3) may be performed by any person acting under the direction of the Chief Agricultural Analyst.
+
+(5) The authorised officer must immediately on receipt supply the prosecutor (if a person other than the authorised officer) and the defendant with a copy of the Chief Agricultural Analyst certificate of analysis.
+
+(6) Where a request is made under paragraph (2)(c) the authorised officer may give notice in writing to the defendant requesting payment of a fee specified in the notice in respect of the functions mentioned in paragraph (3), and if the specified fee does not exceed either —
+
+- (a) the cost of performing those functions; or
+- (b) the appropriate fee for the performance of any similar function under section 78 of the Act [^c22819741],
+
+the authorised officer may in the absence of agreement by the defendant to pay the fee refuse to comply with the request made under paragraph (2)(c).
+
+(7) In this regulation —
+
+- (a) “**defendant**” includes a prospective defendant; and
+- (b) “**the appropriate fee**” means such fee as may be fixed in accordance with the provisions of section 78(10) of the Act.
+
+### 16. Methods of sending a final sample
+
+Any final sample required to be sent to any person pursuant to—
+
+- (a) paragraph 8 of Annex I to Regulation 152/2009;
+- (b) section 77(1) or (2) or section 78(1)(a), (2) or (4) of the Act; or
+- (c) regulation 14(1), (2) or (6) or 15(2),
+
+may be sent by any appropriate method that maintains the integrity of the sample prior to analysis, or delivered by hand.
+
+### 17. Form and status of certificate of analysis
+
+(1) The certificate of analysis of any feed to be sent pursuant to—
+
+- (a) section 77(4) of the Act; or
+- (b) regulation 14(4) or 15(3),
+
+must be in the form set out in Schedule 4 and must be completed in accordance with the notes to that Schedule and with paragraphs 4 and 5 of Part C of Annex II to Regulation 152/2009.
+
+(2) A certificate of analysis by an agricultural analyst is to be received, in any legal proceedings, as evidence of the facts stated in the certificate if the party against whom it is to be given in evidence —
+
+- (a) has been served with a copy of it not less than twenty-one days before the hearing; and
+- (b) has not, before the seventh day preceding the hearing, served on the other party a notice requiring the attendance of the person who made the analysis.
+
+(3) Any document purporting to be a certificate of analysis for the purposes of paragraph (2) is to be deemed to be such a certificate unless the contrary is proved.
+
+### 18. Analysis other than in the course of official controls
+
+(1) Where a sample of feed is to be analysed pursuant to—
+
+- (a) section 75(1) of the Act (sample analysed at the request of the purchaser); or
+- (b) section 78(1) of the Act (further analysis by Chief Agricultural Analyst) in so far as that subsection does not relate to official controls,
+
+the method of analysis shall be the appropriate one, if any, set out in Regulation 152/2009.
+
+(2)[^key-ce574ec74d171b7b9d9fa29b921e7892] In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis must be carried out in the manner referred to in Article 34 (1) and (2) of Regulation 2017/625 as read with Regulation 2019/1793.
+
+### 19. Offence of tampering with a sample
+
+Any person who—
+
+- (a) tampers with any material so as to procure that any sample of it taken or submitted for analysis under these Regulations does not correctly represent the material; or
+- (b) tampers or interferes with any sample taken or submitted for analysis under these Regulations,
+
+commits an offence.
+
+## PART 4 — Duties of execution and enforcement
+
+### 20. Duty to enforce
+
+It is the duty of DARD to execute and enforce the provisions of these Regulations and Regulation 183/2005.
+
+### 21. Protection of authorised officers acting in good faith
+
+(1) An authorised officer is not personally liable in respect of any act done—
+
+- (a) in the execution or purported execution of these Regulations; and
+- (b) within the scope of the officer's employment,
+
+if the officer did that act in the honest belief that the duty under these Regulations required or entitled the officer to do it.
+
+(2) Nothing in paragraph (1) is to be construed as relieving DARD of any liability in respect of the acts of its officers.
+
+(3) Where an action has been brought against an authorised officer in respect of an act done —
+
+- (a) in the execution or purported execution of these Regulations; but
+- (b) outside the scope of the officer's employment,
+
+the authority may indemnify the officer against the whole or a part of any damages ordered to be paid or any costs incurred if it is satisfied that the officer honestly believed that the act complained of was within the scope of the officer's employment.
+
+(4) An agricultural analyst is to be treated for the purposes of this regulation as being an authorised officer, whether or not the appointment is a whole-time one.
+
+## PART 5 — Enforcement powers and related provisions
+
+### 22. Feed business improvement notices
+
+(1) If an authorised officer has reasonable grounds for believing that a feed business operator is failing to comply with specified feed law, the officer may by a notice served on that person (in these Regulations referred to as a “**feed business improvement notice**”)—
+
+- (a) state the officer's grounds for believing that the feed business operator is failing to comply with specified feed law;
+- (b) specify the matters which constitute the feed business operator's failure to comply;
+- (c) specify the measures which, in the officer's opinion, the feed business operator must take in order to secure compliance; and
+- (d) require the feed business operator to take those measures, or measures which are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
+
+(2) A feed business improvement notice must state the right to appeal under regulation 23 and the appropriate time limit for bringing any such appeal.
+
+(3) Any person who fails to comply with a feed business improvement notice commits an offence.
+
+### 23. Right of appeal against feed business improvement notices
+
+(1) Any person who is aggrieved by a decision of an authorised officer to serve a feed business improvement notice may appeal to a court of summary jurisdiction.
+
+(2) The procedure on an appeal to a Magistrates Court under paragraph (1) shall be by way of notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981.
+
+(3) The period within which an appeal under paragraph (1) may be brought is -
+
+- (a) one month from the date on which notice of the decision was served on the person desiring to appeal; or
+- (b) if it is shorter, the period specified in the notice pursuant to regulation 22(1)(d),
+
+and a notice under Part VII deemed for the purposes of this paragraph to be the bringing of the appeal.
+
+### 24. Further provisions relating to appeals
+
+(1) On an appeal against a feed business improvement notice the court may cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the court may in the circumstances think fit.
+
+(2) Where any period specified in a feed business improvement notice pursuant to regulation 22(1)(d) would otherwise include any day on which an appeal against that notice is pending, that day is to be excluded from that period.
+
+(3) An appeal is to be regarded as pending for the purposes of paragraph (2) until it is finally disposed of, is withdrawn or is struck out for want of prosecution.
+
+### 25. Feed business prohibition orders
+
+(1) If—
+
+- (a) a feed business operator is convicted of an offence under specified feed law; and
+- (b) the court by or before which the operator is so convicted is satisfied that the health risk condition is fulfilled with respect to the feed business concerned,
+
+the court must by an order impose the appropriate prohibition.
+
+(2) The health risk condition is fulfilled with respect to any feed business if any of the following involves risk of injury to health (including any impairment, whether permanent or temporary), namely —
+
+- (a) the use for the purposes of the business of any process or treatment;
+- (b) the construction of any premises used for the purposes of the business, or the use for those purposes of any equipment; or
+- (c) the state or condition of any premises or equipment used for the purposes of the business;
+
+and health means the health of an animal or, through the consumption of the products of such animal, human health.
+
+(3) The appropriate prohibition is —
+
+- (a) in a case falling within paragraph (2)(a), a prohibition on the use of the process or treatment for the purposes of the business;
+- (b) in a case falling within paragraph (2)(b), a prohibition on the use of the premises or equipment for the purposes of the business or any other feed business of the same class or description; and
+- (c) in a case falling within paragraph (2)(c), a prohibition on the use of the premises or equipment for the purposes of any feed business.
+
+(4) If —
+
+- (a) a feed business operator is convicted of an offence under specified feed law; and
+- (b) the court by or before which the operator is so convicted thinks it proper to do so in all the circumstances of the case,
+
+the court may, by an order, impose a prohibition on the feed business operator participating in the management of any feed business, or any feed business of a class or description specified in the order.
+
+(5) As soon as practicable after the making of an order under paragraph (1) or (4) (in these Regulations referred to as a “**feed business prohibition order**”), DARD must—
+
+- (a) serve a copy of the order on the relevant feed business operator; and
+- (b) in the case of an order made under paragraph (1), affix a copy of the order in a conspicuous position on such premises used for the purposes of the feed business as the authority considers appropriate,
+
+and any person who knowingly contravenes such an order commits an offence.
+
+(6) A feed business prohibition order ceases to have effect —
+
+- (a) in the case of an order made under paragraph (1), on the issue by the enforcement authority of a certificate to the effect that it is satisfied that the feed business operator has taken sufficient measures to secure that the health risk condition is no longer fulfilled with respect to the feed business; and
+- (b) in the case of an order made under paragraph (4), on the giving by the court of a direction to that effect.
+
+(7) DARD must issue a certificate under paragraph (6)(a) within three days of its being satisfied as mentioned in that paragraph; and on an application by the feed business operator for such a certificate, the authority must —
+
+- (a) determine, as soon as is reasonably practicable and in any event within 14 days, whether or not it is so satisfied; and
+- (b) if it determines that it is not so satisfied, give notice to the feed business operator of the reasons for that determination.
+
+(8) The court shall give a direction under paragraph (6)(b) if, on an application by the feed business operator, the court thinks it proper to do so having regard to all the circumstances of the case, including in particular the conduct of the feed business operator since the making of the order; but no such application shall be entertained if it is made —
+
+- (a) within six months of the making of the feed business prohibition order; or
+- (b) within three months of the making by the feed business operator of a previous application for such a direction.
+
+(9) Where a court of summary jurisdiction makes an order under regulation 26(2) with respect to any feed business, paragraph (1) shall apply as if the feed business operator had been convicted by the court of an offence under specified feed law.
+
+(10) Where the commission of an offence by a feed business operator leads to the conviction of another person pursuant to regulation 32(1), paragraph (4) shall apply in relation to that other person as it applies in relation to the feed business operator and any reference in paragraph (5) or (8) to the feed business operator is to be construed accordingly.
+
+### 26. Feed business emergency prohibition notices and orders
+
+(1) If an authorised officer is satisfied that the health risk condition is fulfilled with respect to any feed business the officer may, by a notice served on the relevant feed business operator (in these Regulations referred to as a “**feed business emergency prohibition notice**”), impose the appropriate prohibition.
+
+(2) If a court of summary jurisdiction is satisfied, on the application of such an officer, that the health risk condition is fulfilled with respect to any feed business, the court must, by an order (in these Regulations referred to as a “**feed business emergency prohibition order**”), impose the appropriate prohibition.
+
+(3) Such an officer may not apply for a feed business emergency prohibition order unless, at least one day before the date of the application, the officer has served notice on the relevant feed business operator of the intention to apply for the order.
+
+(4) Regulation 25(2) and (3) apply for the purposes of this regulation as they apply for the purposes of that regulation, but as if the reference in paragraph (2) to risk of injury to health were a reference to imminent risk of such injury.
+
+(5) As soon as practicable after the service of a feed business emergency prohibition notice, an authorised officer must affix a copy of the notice in a conspicuous position on such premises used for the purposes of the feed business as the officer considers appropriate; and any person who knowingly contravenes such a notice commits an offence.
+
+(6) As soon as practicable after the making of a feed business emergency prohibition order, an authorised officer must —
+
+- (a) serve a copy of the order on the relevant feed business operator; and
+- (b) affix a copy of the order in a conspicuous position on such premises used for the purposes of the feed business as the officer considers appropriate,
+
+and any person who knowingly contravenes such an order commits an offence.
+
+(7) A feed business emergency prohibition notice ceases to have effect —
+
+- (a) if no application for a feed business emergency prohibition order is made within the period of three days beginning with the service of the notice, at the end of that period; or
+- (b) if such an application is so made, on the determination or abandonment of the application.
+
+(8) A feed business emergency prohibition notice or a feed business emergency prohibition order cease to have effect on the issue by DARD of a certificate to the effect that it is satisfied that the feed business operator has taken sufficient measures to secure that the health risk condition is no longer fulfilled with respect to the feed business.
+
+(9) DARD must issue a certificate under paragraph (8) within three days of being satisfied as mentioned in that paragraph; and on an application by the feed business operator for such a certificate, the authority must —
+
+- (a) determine as soon as is reasonably practicable and in any event within 14 days whether or not it is so satisfied; and
+- (b) if it determines that it is not so satisfied, give notice to the feed business operator of the reasons for that determination.
+
+(10) Where a feed business emergency prohibition notice is served on a feed business operator, DARD must compensate the operator in respect of any loss suffered by reason of complying with the notice unless —
+
+- (a) an application for a feed business emergency prohibition order is made within the period of three days beginning with the service of the notice; and
+- (b) the court declares itself satisfied, on the hearing of the application, that the health risk condition was fulfilled with respect to the feed business at the time when the notice was served,
+
+and any disputed question as to the right to or the amount of any compensation payable under this paragraph is to be determined by arbitration.
+
+### 27. Powers of entry and inspection
+
+(1) For the purposes of—
+
+- (a) executing and enforcing specified feed law; or
+- (b) carrying out investigations, in accordance with Article 4.2 of Directive [2002/32/EC](https://www.legislation.gov.uk/european/directive/2002/0032) of the European Parliament and of the Council on undesirable substances in animal feed [^c22819761] to determine the source of specified undesirable substances,
+
+an authorised officer may at all reasonable times, and on producing, if requested to do so, some duly authenticated documentation showing their identity, their authority and the extent of their powers, enter premises mentioned in paragraph (2).
+
+(2) The premises (not being premises used wholly as a dwelling) are —
+
+- (a) any premises on which the officer has reasonable cause to believe that feed has been, or is being, manufactured or produced, or is being kept for the purpose of being placed on the market, incorporated in another product or used; or
+- (b) any premises on which the officer has reasonable cause to believe that there is any feed of which the occupier of the premises has possession or control.
+
+(3) If a lay magistrate, on sworn complaint in writing, is satisfied that there is reasonable ground for entry into any such premises as are mentioned in paragraph (2), and either —
+
+- (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
+- (b) that an application for admission or the giving of such a notice would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier temporarily absent,
+
+the lay magistrate may by signed warrant authorise the authorised officer to enter the premises, if need be by reasonable force.
+
+(4) Every warrant granted under this regulation shall continue in force for a period of one month.
+
+(5) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may be accompanied by such other persons and take such equipment as may appear to the officer to be necessary, and on leaving any unoccupied premises entered by virtue of such a warrant, must leave them as effectively secured against unauthorised entry as the officer found them.
+
+(6) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, has the right to inspect —
+
+- (a) any material appearing to be feed;
+- (b) any article appearing to be a container or package used or intended to be used to store, wrap or package any feed, or to be a label or advertisement used or intended to be used in connection with feed; or
+- (c) any vehicle, plant or equipment appearing to be used, or intended to be used, in connection with the manufacture, production, storage, transport or use of feed, and any process of manufacture, production, storage, transport or use of feed.
+
+(7) Subject to paragraph (9), an authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, has the right to take on those premises, in the prescribed manner, a sample of any material appearing to be a feed manufactured, produced, placed on the market or intended to be placed on the market or to be material used, or intended to be used, as feed.
+
+(8) Without prejudice to the authorised officer's powers and duties as to the taking of samples in the prescribed manner, an authorised officer may take a sample in a manner other than that prescribed of any material which has been sold for use as feed or which the officer has reasonable cause to believe to be intended for sale as such.
+
+(9) Where, for the purpose of taking a sample pursuant to paragraph (7) or (8), an authorised officer takes some of it from each of one or more containers, which are exposed for sale by retail, and none of which weighs more than six kilograms, the owner of the container or containers may require the officer to purchase the container or containers on behalf of DARD.
+
+(10) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, has the right —
+
+- (a) to require any person carrying on, or appearing to be carrying on, a feed business, or any person employed in connection with such a business, to produce any record (in whatever form it is held) relating to or arising out of the exercise in the course of that business of any such activity, and of which that person has possession or control; and
+- (b) to inspect and take copies of any record, or of any entry in any record produced in pursuance of the preceding sub-paragraph.
+
+(11) An authorised officer exercising the power conferred by paragraph (10) in respect of a record held by means of a computer —
+
+- (a) is entitled at any reasonable time to have access to, and inspect and check the operation of, any computer and associated apparatus or material which is or has been, or which it appears is or has been, in use in connection with the record in question;
+- (b) may require —
+  - (i) the person by whom or on whose behalf the computer is or has been so used, or
+  - (ii) any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material,
+
+  to afford the authorised officer such reasonable assistance as the officer may require for that purpose; and
+- (c) may require the record, or an extract from the record, to be produced in a form in which it may be taken away.
+
+(12) Where (in the case of a person carrying on, or appearing to carry on, a business which consists of or includes the manufacture of a compound feed) —
+
+- (a) a requirement is made under paragraph (10)(a) in relation to any feed which is, or appears to be, intended for a particular nutritional purpose; and
+- (b) at the time the requirement is made, the record in respect of which it is made has been published and is available in accessible form for public use,
+
+the person of whom the requirement is made shall be deemed to comply with it if, at the time it is made, that person supplies the authorised officer making it with correct and adequate details of the publication concerned, and of where a copy of it may be obtained.
+
+(13) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, has the right to seize and detain any record which the officer has reasonable cause to believe to be a record which may be required as evidence in proceedings under specified feed law.
+
+(14) In this regulation —
+
+- (a) “**compound feed**” has the meaning given in Article 3(2)(h) of Regulation 767/2009; and
+- (b) “**feed which is, or appears to be, intended for a particular nutritional purpose**” is to be construed in accordance with the definitions of “feed intended for particular nutritional purposes” in Article 3(2)(o) of that Regulation.
+
+(15) Nothing in this regulation authorises any person, except with the permission of DARD under the Diseases of Animals (Northern Ireland) Order [^c22819771], to enter any premises —
+
+- (a) on which an animal or bird affected with any disease to which that Act applies is kept; and
+- (b) which is situated in a place declared under that Act to be infected with such a disease.
+
+### 28. Powers of detention and seizure
+
+(1) Where an authorised officer has inspected or sampled any material under these Regulations, paragraphs (2) to (8) apply where, on such an inspection, or upon analysis of samples taken, it appears to the officer that the material fails to comply with the requirements of specified feed law.
+
+(2) The authorised officer may either —
+
+- (a) give notice to the person in charge of the material that, until the notice is withdrawn, the material or any specified portion of it —
+  - (i) is not to be used as feed; and
+  - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+- (b) seize the material in order to have it dealt with by a lay magistrate,
+
+and any person who knowingly contravenes the requirements of a notice under sub-paragraph (a) commits an offence.
+
+(3) An authorised officer who exercises the powers conferred by paragraph (2)(a) must, as soon as is reasonably practicable and in any event within 21 days, determine whether or not the officer is satisfied that the material complies with the requirements mentioned in paragraph (1) and —
+
+- (a) if so satisfied, forthwith withdraw the notice;
+- (b) if not so satisfied, proceed to have the matter dealt with by a lay magistrate under paragraph (5).
+
+(4) Where the authorised officer exercises the powers conferred by paragraph (2)(b) or takes action under paragraph (3)(b), the officer must inform the person in charge of the material of the intention to have it dealt with by a lay magistrate and —
+
+- (a) any person who might be liable under the provisions of specified feed law to a prosecution in respect of the material shall, if that person attends before the lay magistrate by whom the material falls to be dealt with, be entitled to be heard and to call witnesses; and
+- (b) that lay magistrate may, but need not, be a member of the court before which any person is charged with an offence under those provisions in relation to that material.
+
+(5) Subject to paragraph (8), if it appears to a lay magistrate, on the basis of such evidence as the lay magistrate considers appropriate in the circumstances, that any material falling to be dealt with by a lay magistrate under this regulation fails to comply with the requirements of specified feed law then the lay magistrate must condemn the material and order —
+
+- (a) the material to be destroyed or to be so disposed of as to prevent it from being used as food for human consumption or for feed; and
+- (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the feed business operator.
+
+(6) If a notice under paragraph (2)(a) is withdrawn, or the lay magistrate by whom any material falls to be dealt with under this regulation refuses to condemn it, DARD must compensate the owner of the material for any depreciation in its value resulting from the action taken by the authorised officer.
+
+(7) Any disputed question as to the right or the amount of any compensation payable under paragraph (6) is to be determined by a single arbitrator appointed, failing agreement between the parties, by the Department of Health, Social Services and Public Safety and the provisions of the Arbitration Act 1996 apply.
+
+(8) In the case of material referred to in Article 15.1 of Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c22819781] which is the subject of an authorisation granted under that Regulation and has been produced in accordance with any conditions relating to that authorisation but does not bear the appropriate labelling as required by Article 25, the lay magistrate may order —
+
+- (a) that the material be labelled properly as soon as reasonably practicable and at the expense of the feed business operator; and
+- (b) the release of the material into the custody of the operator.
+
+### 29. Offences relating to the exercise of powers
+
+(1) Any person who wilfully obstructs an authorised officer in the exercise of the officer's powers under these Regulations or fails to comply with any requirement lawfully made in the exercise of such powers commits an offence.
+
+(2) Any person not being an authorised officer who purports to act as such under these Regulations commits an offence.
+
+(3) Any person who discloses to any other person —
+
+- (a) any information in relation to any manufacturing process or trade secret which has been obtained on premises entered by virtue of these Regulations, or
+- (b) any other information obtained in pursuance of these Regulations,
+
+commits an offence unless the disclosure was made in and for the purpose of the performance of functions under these Regulations.
+
+(4) Paragraph (3) does not apply to prevent an authorised officer who has taken a sample under these Regulations from disclosing —
+
+- (a) to the manufacturer or to the last seller of the material, information as to the place where and the person from whom the sample was taken and the results of any analysis of that sample;
+- (b) to any person who had that material on their premises, information as to the results of any analysis of that sample; or
+- (c) any information which it is necessary to disclose in order to prevent the occurrence of a serious risk to human or animal health or to the environment.
+
+### 30. Liability for expenditure
+
+(1) Subject to paragraph (2) any sums due to DARD by virtue of Article 138(4) (action in the case of non-compliance) of Regulation 2017/625[^key-eaf1aa9586bc608a13414dc74090bbd6] must be paid by the feed business operator to the authority on demand.
+
+(2)[^key-c182a012fcd21772372782f11c796309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Penalties for offences
+
+(1) Anyone guilty of an offence under regulation 5, as read with Table 1 of Schedule 2, or regulation 22(3), 25(5), 26(5) or (6) or 28(2) is liable—
+
+- (a) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding the statutory maximum or both;
+- (b) on conviction on indictment to a term of imprisonment not exceeding 2 years or to a fine or both.
+
+(2) Anyone guilty of an offence under regulation 5, as read with Table 2 of Schedule 2, or regulation 19, 29(1) or (2) is liable on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding level 5 on the standard scale, or both.
+
+(3) Anyone guilty of an offence under regulation 29(3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 32. Defences
+
+(1) Where the commission by any person of an offence under specified feed law is due to the act or default of some other person, that other person commits the offence and may be accused and convicted of the offence whether or not proceedings are taken against the first-mentioned person.
+
+(2) In any proceedings for an offence under specified feed law it shall, subject to paragraph (3), be a defence to prove that —
+
+- (a) the commission of the offence was due to a mistake, or to reliance on information supplied to the accused, or to the act or default of another person, or to an accident or some other cause beyond the control of the accused; and
+- (b) the accused took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by the accused or any person under their control.
+
+(3) If in any case the defence provided by paragraph (2) involves the allegation that the commission of the offence was due to the act or default of another person or to reliance on information supplied by another person, the person accused shall not, without leave of the court, be entitled to rely on that defence unless —
+
+- (a) at least seven clear days before the hearing; and
+- (b) where the accused has previously appeared before a court in connection with the alleged offence, within one month of the first such appearance,
+
+the accused has served on the prosecutor a notice giving any information the accused may have to identify or assist in identifying that other person.
+
+(4) In any proceedings in which it alleged that a material has failed to comply with the requirements of specified feed law it is a defence for the person accused to prove that the material in respect of which the offence was alleged to have been committed —
+
+- (a) was feed to which Article 25 of Regulation 183/2005 applies; and
+- (b) could lawfully be exported in accordance with the requirements of Article 12 (food and feed exported from the EU) of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22819791].
+
+### 33. Institution of and time limit for prosecutions
+
+(1) Without prejudice to any enactment relating to the place where proceedings may be taken, proceedings for an offence under specified feed law may be taken in the place where the person accused resides or carries on business.
+
+(2) No prosecution for an offence under these Regulations or Part 2 of the Animal Feed (Composition, Marketing and Use Regulations (Northern Ireland) 2016 [^c22819801] may be begun after the expiry of —
+
+- (a) three years from the commission of the offence; or
+- (b) one year from its discovery by the prosecutor,
+
+whichever is the earlier.
+
+### 34. Notices
+
+Any notice to be served by DARD under regulation 8, 9, 10, 22, 26, or 28—
+
+- (a) must be in writing and signed by an authorised officer acting on behalf of DARD;
+- (b) if purporting to bear the signature (which includes a facsimile of a signature by whatever means reproduced) of a person who is expressed to be an authorised officer, shall be deemed, unless the contrary is proven, to have been duly issued by such an authorised officer.
+
+## PART 6 — Amendments and Revocations
+
+### 35. Consequential amendments
+
+(1) The Official Feed and Food Controls Regulations (Northern Ireland) 2009 [^c22819811] are amended in accordance with paragraph (2).
+
+(2) In Schedule 2 (definition of relevant feed law)—
+
+- (a) omit paragraph (b); and
+- (b) in paragraph (e), for “the Feed Hygiene and Enforcement Regulations (Northern Ireland) 2005” substitute “ the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 ”.
+- (c) Omit Schedule 7.
+
+### 36. Revocations
+
+The instruments specified in the first column of Schedule 5 are revoked to the extent specified in the second column.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 11th January 2016.
+
+Deborah McNeilly
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — Specified Feed Law
+
+Regulation 2
+
+|  |
+| --- |
+| Part IV of the Agriculture Act 1970, in so far as it relates to animal feeding stuffs |
+| The Official Feed and Food Controls Regulations (Northern Ireland) 2009, in so far as they relate to feed |
+| The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 |
+| The Animal Feed (Hygiene, Sampling etc. and Enforcement Regulations (Northern Ireland) 2016 |
+| The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018[^key-260b526aeca37f935aea5f8fb338791a] |
+| Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, in so far as it relates to feed |
+| Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c22819821], in so far as it relates to feed |
+| Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition [^c22819831] |
+| [^key-6a2983188777cd460c35173b571dc3c3]. . . |
+| Regulation 183/2005 |
+| Commission Regulation [(EC) No. 669/2009](https://www.legislation.gov.uk/eur/2009/669) implementing Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/882) of the European Parliament and of the Council as regards the increased level of official controls on imports of certain feed and food of non-animal origin and amending Decision [2006/504/EC](https://www.legislation.gov.uk/eud/2006/504), in so far as it relates to feed |
+| Regulation 767/2009. |
+| Regulation 2017/625 in so far as it relates to feed[^key-e1d673d3fcf052b9543fe28eaee4754a] |
+| Regulation 2020/354 |
+
+## SCHEDULE 2 — Specified Provisions of Regulation 183/2005
+
+Regulation 5
+
+Table 1
+
+| *Specified provision* | *Summary of subject matter* |
+| --- | --- |
+| Article 9(2) | Requirement on feed business operators to register any establishment under their control with the competent authority and to supply and keep up to date relevant information |
+| Article 11 | Prohibition on a feed business operator operating without registration or, if required, approval |
+| Article 23(1), as read with Article 24 (interim measures) | Requirement that feed business operators importing feed from third countries observe certain conditions as to the origins of the feed and the safety of the feed itself |
+| Article 25 | Requirement that feed produced for export to third countries, including feed for non food-producing animals, must satisfy the provisions of Article 12 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178). |
+
+Table 2
+
+| *Specified provision* | *Summary of subject matter* |
+| --- | --- |
+| Article 5(1), as read with Annex I | Requirement that feed business operators engaged in primary production and specified associated activities must comply with the relevant provisions in Annex I |
+| Article 5(2), as read with Annex II | Requirement that feed business operators other than those engaged in primary production and specified associated activities must comply with the relevant provisions in Annex II |
+| Article 5(3) | Requirement on feed business operators to comply with specified microbiological criteria and targets |
+| Article 5(5), as read with Annex III | Requirement that farmers must comply with the provisions in Annex III when feeding food-producing animals |
+| Article 5(6) | Requirement that feed business operators and farmers must only source and use feed from registered or approved establishments |
+| Article 6(1), as read with 6(2) | Requirement that feed business operators other than those engaged in primary production and associated operations must put in place and maintain written procedures based on HACCP |
+| Article 6(3) | Requirement that feed business operators must review and make any necessary adaptations to HACCP procedures when any stage of their operation is modified |
+| Article 7(1) | Requirement that feed business operators must provide competent authorities with evidence of compliance with Article 6 and keep documentation up-to-date |
+| Article 17(2) | Requirement that feed business operators who act only as traders without holding products on their premises must provide a declaration of compliance to the competent authority. |
+
+## SCHEDULE 3 — Fees Payable for Approvals
+
+Regulation 13(4)
+
+| *Activity requiring approval of establishment* | *Fee (£)* |
+| --- | --- |
+| Manufacture only, or manufacture and placing on the market, of substances referred to in Article 10(1)(a) or (b) of Regulation 183/2005 other than those feed additives specified in regulation 2(4), or of premixtures of such additives | 212.00 |
+| Placing on the market of substances referred to in Article 10(1)(a) or (b) of Regulation 183/2005 other than those feed additives specified in regulation 2(4), or of premixtures of such additives | 106.00 |
+| Any of the activities referred to at Point 10 of the Section headed “Facilities and Equipment” in Annex II to Regulation 183/2005 | 212.00 |
+
+## SCHEDULE 4 — Form of Certificate of Analysis
+
+Regulation 17
+
+[image: see source](https://www.legislation.gov.uk/nisr/2016/5/images/nisr_20160005_en_sld_001)
+
+Notes for completion of certificate:
+
+|  |  |
+| --- | --- |
+| 1\. | Insert the name of the local authority. |
+| 2\. | Insert date. |
+| 3\. | Insert name of person submitting the sample for analysis and mode of transport. |
+| 4\. | Insert the name or description applied to the material. |
+| 5\. | Insert the distinguishing mark on the sample and the date of sampling shown. |
+| 6\. | Indicate the particulars marked, labelled or otherwise documented. |
+| 7\. | Insert the relevant results, the conclusions drawn from those results and any other relevant observations. Expand this section as necessary. |
+| 8\. | In the case of analysis of substances for which no method is prescribed by relevant EU legislation, after the results indicate the method used. |
+
+## SCHEDULE 5 — Revocations
+
+Regulation 36
+
+| *Regulations* | *Extent* |
+| --- | --- |
+| The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005 No.546) | The whole Regulations |
+| The Feed (Specified Undesirable Substances) Regulations (Northern Ireland) 2006 (S.R. 2006 No.471) | The whole Regulations |
+| The Official Feed and Food Controls Regulations (Northern Ireland) 2009 (S.R. 2009 No. 427) | Regulation 46 and Schedule 7 |
+| The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 (S.R. 2010 No. 323) | Regulations 4, 5, 6, 20, 21, and 22 and Schedule 1 |
+| The Feed (Hygiene and Enforcement) and the Animal Feed (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013 No. 294) | The whole Regulations |
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for the continuing execution and enforcement of Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183) of the European Parliament and of the Council laying down requirements for feed hygiene (OJ No. L25, 8.2.2005, p.1), (“Regulation 183/2005”) and Commission Regulation [(EC) No. 152/2009](https://www.legislation.gov.uk/european/regulation/2009/0152) laying down the methods of sampling and analysis for the official control of feed (OJ No. L54, 26.2.2009, p.1), (“Regulation 152/2009”), and also make provision as to administration generally in relation to feed law, in particular so as to give effect to Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (OJ No. L191, 28.5.2004, p.1), (“Regulation 882/2004”).
+
+Part 2 of these Regulations deals with the execution and enforcement of Regulation 183/2005, which provides that almost all businesses producing, trading in or using animal feed should be either registered, or as the case may be approved, by the competent authorities. The excepted activities to which Regulation 183/2005, and consequently Part 2 of these Regulations, do not apply, are set out in Article 2 of that Regulation and comprise —
+
+- (a) the private domestic production of feed for animals not kept for consumption, or kept for private domestic consumption only;
+- (b) the feeding of non food-producing animals;
+- (c) the feeding of animals kept for private domestic consumption or for direct supply, by the producer, of small quantities of primary products to the final consumer or to local retailers;
+- (d) the direct supply, by the producer, of small quantities of primary produced feed to local farms for use on those farms; and
+- (e) the retailing of pet food.
+
+In particular provision is made in Part 2 to —
+
+- (f) designate the competent authorities for the purposes of the various functions mentioned in Regulation 183/2005 (*regulation 4*);
+- (g) identify those provisions of Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183) where failure to comply gives rise to an offence (*regulation 5 and Schedule 2*);
+- (h) set out the requirements which must be observed by anyone —
+  - (i) notifying the enforcement authority with a view to registering a feed business establishment (*regulation 6*); or
+  - (ii) applying for approval of a feed business establishment (*regulation 7*);
+- (i) lay down the procedures to be followed by an enforcement authority when —
+  - (i) suspending the registration or approval of a feed business establishment (*regulation 8*);
+  - (ii) lifting the suspension of a registration or approval *(regulation 9*); or
+  - (iii) revoking the registration or approval of a feed business establishment (*regulation 10*);
+- (j) set out the requirements to be observed by anyone applying for an amendment to a registration or approval (*regulation 11*);
+- (k) provide for a right of appeal against decisions relating to registrations or approvals taken by enforcement authorities (*regulation 12*); and
+- (l) specify the fees payable by an applicant for approval or amendment to an approval (*regulation 13 and Schedule 3*).
+
+Part 3 of these Regulations provides for the execution of Regulation 152/2009 and contains other provisions relating to sampling and analysis, in particular by —
+
+- (m) laying down the procedure to be observed when taking and sub-dividing samples for analysis (*regulation 14*);
+- (n) providing for secondary analysis of a sample to be carried out by the Laboratory of the Chief Agricultural Analyst (*regulation 15*);
+- (o) making provision for the sending or hand delivery of samples (*regulation 16*);
+- (p) prescribing the form and evidential status of a certificate of analysis (*regulation 17*);
+- (q) making provision for methods of analysis where the sampling has not been carried out in the course of official controls (*regulation 18*); and
+- (r) making it an offence to tamper or otherwise interfere with a sample (*regulation 19*).
+
+Part 4 of these Regulations contains provisions relating to the execution and enforcement of these Regulations, in particular —
+
+- (s) specifying that it is the duty of DARD to enforce the Regulations (*regulation 20*);
+- (t) limiting the personal liability of an authorised officer acting in good faith (*regulation 21*).
+
+Part 5 of these Regulations contains enforcement powers and provisions dealing with related matters; in detail —
+
+- (u) a power for an authorised officer to serve an improvement notice where a feed business is failing to comply with specified feed law (*regulation 22*);
+- (v) the right of a business operator to appeal to a magistrates' court against an improvement notice (*regulation 23*);
+- (w) additional matters relating to appeals (*regulation 24*);
+- (x) provision for a court to impose a prohibition order on a feed business operator convicted of an offence under specified feed law (*regulation 25*);
+- (y) a power for a magistrates' court to impose on an operator an emergency prohibition order under specified conditions and after due notice has been served (*regulation 26*);
+- (z) powers for an authorised officer for specified purposes to enter premises, together with associated powers of inspection etc. (*regulation 27*);
+- (aa) a power for an authorised officer to detain or seize non-compliant feed and apply to the magistrates' court for its destruction or disposal (*regulation 28*);
+- (bb) a number of offences relating to the exercise of enforcement powers (*regulation 29*);
+- (cc) provision for recovery of money incurred by the enforcement authority in dealing with non-compliance (*regulation 30*);
+- (dd) the maximum penalties that a court may impose for offences under these Regulations (*regulation 31*);
+- (ee) defences to offences under specified feed law (*regulation 32*);
+- (ff) provisions relating to where proceedings for an offence may be taken under specified feed law and the time limits for beginning a prosecution under these Regulations (*regulation 33*); and
+- (gg) requirements regarding notices (*regulation 34*).
+
+Part 6 of these Regulations contains provisions that make consequential amendments to the Official Feed and Food Controls Regulations (Northern Ireland) 2009 (*regulation 35*), revoke certain other regulations (*regulation 36 and Schedule 5*).
+
+## Annotations
+
+[^c22819571]: Marginal citation: Formerly the Department of Health and Social Services; see [S.I](https://www.legislation.gov.uk/nisr/2016/5/section/I). 1999/283 (N.I.1) Article 3(6)
+
+[^c22819581]: Marginal citation: [1970 c.40](https://www.legislation.gov.uk/ukpga/1970/40); [sections 66(1)](https://www.legislation.gov.uk/nisr/2016/5/section/66/1) and 84 are modified in their application to Northern Ireland by section 86 of the Act and were amended by S.R. [2004 No. 506](https://www.legislation.gov.uk/ukcm/2004/506); [section 66(1)](https://www.legislation.gov.uk/nisr/2016/5/section/66/1) was also amended by S.R. [2010 No. 323](https://www.legislation.gov.uk/ukcm/2010/323); [section 74A](https://www.legislation.gov.uk/nisr/2016/5/section/74A) was inserted by paragraph 6 of Schedule 4 to the [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^c22819591]: Marginal citation: S.R. [2000 No.78](https://www.legislation.gov.uk/ukcm/2000/78)
+
+[^c22819601]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (2006 c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and amended by Part 1 of Schedule 1 to the [European Union (Amendment) Act 2008 (2008 c.7)](https://www.legislation.gov.uk/ukpga/2008/7)
+
+[^c22819611]: Marginal citation: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^c22819621]: Marginal citation: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755)
+
+[^c22819631]: Marginal citation: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027)
+
+[^c22819641]: Marginal citation: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901)
+
+[^c22819651]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
+
+[^key-2773ccb119301a06b67cb706738e0a11]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^key-c229033aa8a9e3037a6dfe8e37924d42]: Textual amendment: Words in reg. 2(1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/a/i)
+
+[^key-5b4d3067bc797a33c4b20dfdfca7547f]: Textual amendment: Words in reg. 2(1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [36(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/36/2)
+
+[^key-ee0adef2cef3c9bfbeef728b22258e2a]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/a/ii)
+
+[^c22819701]: Marginal citation: Section 67 is modified in its application to Northern Ireland by section 86(3) of the Act
+
+[^key-72ab4153643f9882d28aad137c48c9da]: Textual amendment: Words in reg. 2(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/b)
+
+[^c22819711]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^key-16bf6f07027e09f250c998d42ff0f41f]: Textual amendment: Words in reg. 2(5) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/c)
+
+[^c22819721]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-a7f9bfcb7eb9f3ddfb619ee7bf55344e]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2016/5/regulation/4/2/a) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [36(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/36/3)
+
+[^c22819731]: Marginal citation: 1981 N.I.26
+
+[^key-d646ce7b4c1b49f8a585abb2d4865d72]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/14/1/c) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [41(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/41/a)
+
+[^key-ff230ec784df62251ad3142b8b9ed5de]: Textual amendment: [Reg. 14(4)(a)-(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/14/a/c) substituted for reg. 14(4)(a)(b) (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [41(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/41/b)
+
+[^c22819741]: Marginal citation: As modified in its application to Northern Ireland by section 86 of the Act
+
+[^key-ce574ec74d171b7b9d9fa29b921e7892]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2016/5/regulation/18/2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/3)
+
+[^c22819761]: Marginal citation: OJ No. L140, 30.5.2002, p.10. This instrument was last amended by Commission Regulation (EU) No. 1275/2013 (OJ No. L328, 7.12.2013, p.86). The threshold levels referred to in Article 4.2 and set out in Annex II were last amended by Commission Regulation (EU) No. 277/2012 (OJ No. L91, 29.3.2012, p.1)
+
+[^c22819771]: Marginal citation: [1981 No.1115](https://www.legislation.gov.uk/ukcm/1981/1115) (N.I.22)
+
+[^c22819781]: Marginal citation: OJ No.L268, 18.10.2003, p.1
+
+[^key-eaf1aa9586bc608a13414dc74090bbd6]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2016/5/regulation/30/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [42(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/42/a)
+
+[^key-c182a012fcd21772372782f11c796309]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/nisr/2016/5/regulation/30/2) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [42(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/42/b)
+
+[^c22819791]: Marginal citation: OJ No. L31,1.2.2002, p.1 as last amended by Regulation (EC) No.569/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
+
+[^c22819801]: Marginal citation: S.R. [2016 No.4](https://www.legislation.gov.uk/ukcm/2016/4)
+
+[^c22819811]: Marginal citation: S.R. [2009 No.427](https://www.legislation.gov.uk/ukcm/2009/427), amended by S.R. [2010 No.323](https://www.legislation.gov.uk/ukcm/2010/323), S.R. [2010 No. 355](https://www.legislation.gov.uk/ukcm/2010/355), S.R. 2011 No. No.48 and S.R. [2013 No. 291](https://www.legislation.gov.uk/ukcm/2013/291)
+
+[^key-260b526aeca37f935aea5f8fb338791a]: Textual amendment: Words in Sch. 1 inserted (6.2.2018) by [The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018 (S.R. 2018/16)](https://www.legislation.gov.uk/nisr/2018/16), [regs. 1](https://www.legislation.gov.uk/nisr/2018/16/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2018/16/regulation/7/2)
+
+[^c22819821]: Marginal citation: OJ No. L268, 18.10.2003, p.1
+
+[^c22819831]: Marginal citation: OJ No. L268, 18.10.2003, p. 29. This Regulation was last amended by Regulation (EC) No. 767/2009
+
+[^key-6a2983188777cd460c35173b571dc3c3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/5/schedule/1) Table omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/4/a)
+
+[^key-e1d673d3fcf052b9543fe28eaee4754a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/5/schedule/1) Table inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/4/b)

@@ -1,0 +1,129 @@
+---
+title: The Child Support and Social Security (Transitional Provision) (Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+id: nisr/2003/91
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-02-24'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/91
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/91/pdfs/nisr_20030091_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/91/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support and Social Security (Transitional Provision) (Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 91
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+SOCIAL SECURITY
+
+The Child Support and Social Security (Transitional Provision) (Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+
+Made
+
+24th February 2003
+
+Coming into operation
+
+3rd March 2003
+
+The Department for Social Development, in exercise of the powers conferred on it by section 28(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-e52c07877983aa57c914c9d25320c316]
+
+These Regulations may be cited as the Child Support and Social Security (Transitional Provision) (Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation on 3rd March 2003.
+
+## 2. Amendment of revocation, saving and transitional provisions[^key-37732cb31174629909ee26a532b021e3]
+
+(1)[^key-5cad3ee494b2ea492f93a0af8c18b1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-5cad3ee494b2ea492f93a0af8c18b1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-5cad3ee494b2ea492f93a0af8c18b1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the Social Security and Child Support (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2001[^f00006] –
+
+- (a) in regulation 3(2) (savings) for “Where” there shall be substituted “Subject to the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001, where”; and
+- (b) in regulation 4 (revocations) for “The” there shall be substituted “Subject to the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001 and regulation 3(1), the”.
+
+(5) At the beginning of each of the provisions specified in paragraph (6) there shall be inserted the following paragraph –
+
+> (Z1) This regulation is subject to the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001.
+
+.
+
+(6) The provisions referred to in paragraph (5) are –
+
+- (a) regulation 5 of the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations (Northern Ireland) 2001[^f00007] (savings);
+- (b) regulation 9 of the Child Support (Consequential Amendments and Transitional Provisions) Regulations (Northern Ireland) 2001[^f00008] (savings for particular cases); and
+- (c) regulation 4 of the Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations (Northern Ireland) 2001[^f00009] (transitional provisions and savings).
+
+## 3. Amendment of the Child Support (Transitional Provisions) Regulations[^key-73cb0512101339a58316bf311897c739]
+
+In regulation 16 of the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001 (conversion calculation and conversion decision) after paragraph (2A)[^f00010] there shall be inserted the following paragraph –
+
+> (2B) For the purposes of regulation 2 of the Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations (Northern Ireland) 1996[^f00011] (interpretation for the purposes of section 72A of the Act), a conversion decision shall be treated on or after the case conversion date as if it were a maintenance calculation.
+
+.
+
+Sealed with the Official Seal of the Department for Social Development on 24th February 2003.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations provide for the amendment of various sets of Regulations relating to child support.
+
+Regulation 1 makes provision for citation and commencement.
+
+Regulation 2 amends regulations which concern revocations and savings consequential upon the introduction of changes to the child support scheme made by Part I of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the Act”), to ensure that those revocations or savings are to have effect subject to the provisions of the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001 (“the Transitional Regulations”).
+
+Regulation 3 amends the Transitional Regulations to provide that for the purposes of the Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations (Northern Ireland) 1996, which provide for the interpretation of the term “child maintenance” for the purposes of section 72A of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), a conversion decision made under the Transitional Regulations is to be treated on or after the conversion date as if it were a maintenance calculation.
+
+Section 28(1) of the Act, the enabling provision under which these Regulations are made, was brought into operation on 22nd November 2000, for the purpose only of authorising the making of regulations, by virtue of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 1) Order (Northern Ireland) 2000 ([S.R. 2000 No. 358 (C. 16)](https://www.legislation.gov.uk/nisr/2000/358)) and is brought into operation on 3rd March 2003, in so far as not already in operation, by virtue of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003 ([S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53)).
+
+These Regulations do not impose any cost on business.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^key-e52c07877983aa57c914c9d25320c316]: Commencement: Reg. 1 in operation at 3.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/91/regulation/1)
+
+[^key-37732cb31174629909ee26a532b021e3]: Commencement: Reg. 2 in operation at 3.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/91/regulation/1)
+
+[^key-5cad3ee494b2ea492f93a0af8c18b1b0]: Textual amendment: [Reg. 2(1)-(3)](https://www.legislation.gov.uk/nisr/2003/91/regulation/2/1) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^f00006]: Footnote: [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23)
+
+[^f00007]: Footnote: [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
+
+[^f00008]: Footnote: [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29)
+
+[^f00009]: Footnote: [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16)
+
+[^key-73cb0512101339a58316bf311897c739]: Commencement: Reg. 3 in operation at 3.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/91/regulation/1)
+
+[^f00010]: Footnote: Paragraph (2A) was inserted by regulation 10(7)(b) of [S.R. 2003 No. 84](https://www.legislation.gov.uk/nisr/2003/84)
+
+[^f00011]: Footnote: [S.R. 1996 No. 202](https://www.legislation.gov.uk/nisr/1996/202); regulation 2 was amended by regulation 5 of [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29)

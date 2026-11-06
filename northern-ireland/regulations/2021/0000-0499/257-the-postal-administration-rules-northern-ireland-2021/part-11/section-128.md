@@ -1,0 +1,19 @@
+---
+title: The Postal Administration Rules (Northern Ireland) 2021, section 128
+act: The Postal Administration Rules (Northern Ireland) 2021
+section: '128'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2021/257/section/128
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Postal Administration Rules (Northern Ireland) 2021, section 128
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 128. Formal defects
+
+No postal administration proceedings shall be invalidated by any formal defect or by any irregularity, unless the court before which objection is made considers that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of the court.

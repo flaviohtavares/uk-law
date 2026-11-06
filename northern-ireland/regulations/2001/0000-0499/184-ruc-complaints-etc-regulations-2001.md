@@ -1,0 +1,332 @@
+---
+title: RUC (Complaints etc) Regulations 2001
+id: nisr/2001/184
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2001-04-27'
+text_date: '2001-05-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/184
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/184/pdfs/nisr_20010184_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/184/data.pdf
+pending_changes: 8
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# RUC (Complaints etc) Regulations 2001
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2001-05-02. See https://www.legislation.gov.uk/changes/affected/nisr/2001/184
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 184
+
+POLICE
+
+RUC (Complaints etc) Regulations 2001
+
+Made
+
+27th April 2001
+
+To be laid before Parliament .
+
+30th April 2001
+
+Coming into operation
+
+2nd May 2001
+
+The Secretary of State, in pursuance of section 64 of the Police (Northern Ireland) Act 1998[^f00001] as amended by section 65 of the Police (Northern Ireland) Act 2000[^f00002], and after consulting the Police Authority, Police Association and Police Ombudsman for Northern Ireland in accordance with section 64 of the 1998 Act, hereby makes the following regulations:—
+
+## 1. Citation and commencement[^key-9de1ecb8412f3fb2065c083e3fd8169f]
+
+These regulations may be cited as the RUC (Complaints etc) Regulations 2001 and shall come into operation on 2nd May 2001.
+
+## 2. Amendment of earlier Regulations[^key-5a813f35d637f86523b19a81db012aa3]
+
+(1) The Royal Ulster Constabulary (Discipline and Disciplinary) Appeals Regulations 1988[^f00003] shall be amended as follows—
+
+- (a) in Regulation 3, after the definition of “the Act of 1970” there shall be inserted—
+
+  > - “the Act of 1998” means the Police (Northern Ireland) Act 1998[^f00004];
+  > - “allegation” includes a matter referred to the Ombudsman under section 55 of the Act of 1998;
+- (b) after Regulation 5(4)(*c*) there shall be added—
+
+  > or
+  >
+  > - (d) an officer of the Ombudsman appointed under section 56(1) of the Act of 1998.
+
+  ;
+- (c) after Regulation 5(6) there shall be added—
+
+  > (7) The provisions of this regulation are without prejudice to the powers of the Ombudsman with regard to the approval of the investigating officer under section 57(3) of the Act of 1998 or the appointment of an investigating officer of the Ombudsman under section 56(1) of the Act of 1998.
+
+  ;
+- (d) in Regulation 7(1), at the end, there shall be added—
+
+  > or a memorandum from the Ombudsman prepared in accordance with section 59(2) of the Act of 1998.
+
+  ;
+- (e) after Regulation 29(4)(*b*) there shall be added—
+
+  > or
+  >
+  > - (c) an officer of the Ombudsman appointed under section 56(1) of the Act of 1998.
+
+  ;
+- (f) after Regulation 29(6) there shall be added—
+
+  > (7) The provisions of this regulation are without prejudice to the powers of the Ombudsman with regard to the approval of the investigating officer under section 57(3) of the Act of 1998 or the appointment of an investigating officer of the Ombudsman under section 56(1) of the Act of 1998.
+
+  .
+
+(2) The Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) Regulations 1988[^f00005] shall be amended as follows—
+
+- (a) in Regulation 2, after the definition of “the Act of 1970” there shall be inserted—
+
+  > - “the Act of 1998” means the Police (Northern Ireland) Act 1998;
+  > - “allegation” includes a matter referred to the Ombudsman under section 55 of the Act of 1998;
+- (b) after Regulation 4(4)(*b*) there shall be added—
+
+  > or
+  >
+  > - (c) an officer of the Ombudsman appointed under section 56(1) of the Act of 1998.
+
+  ;
+- (c) after Regulation 4(6) there shall be added—
+
+  > (7) The provisions of this regulation are without prejudice to the powers of the Ombudsman with regard to the approval of the investigating officer under section 57(3) of the Act of 1998 or the appointment of an investigating officer of the Ombudsman under section 56(1) of the Act of 1998.
+
+  ;
+- (d) in Regulation 6(1), at the end, there shall be added—
+
+  > or a memorandum from the Ombudsman prepared in accordance with section 59(2) of the Act of 1998.
+
+  .
+
+(3) The Royal Ulster Constabulary (Conduct) Regulations 2000[^f00006] shall be amended as follows—
+
+- (a) in Regulation 2(4) after “commenced” there shall be inserted—
+
+  > on or
+
+  ;
+- (b) in Regulation 4, before the definition of “appropriate officer” there shall be inserted—
+
+  > “allegation” includes a matter referred to the Ombudsman under section 55 of the Act of 1998;
+
+  ;
+- (c) in Regulation 7(2), at the end, there shall be added—
+
+  > or an allegation to which section 55 of the Act of 1998 applies.
+
+  .
+
+(4) The Royal Ulster Constabulary (Conduct) (Senior Officers) Regulations 2000[^f00007] shall be amended as follows—
+
+- (a) in Regulation 4(1), before the definition of “appropriate standard” there shall be inserted—
+
+  > “allegation” includes a matter referred to the Ombudsman under section 55 of the Act of 1998;
+
+  ;
+- (b) in Regulation 7(2)(*a*), after “complaint” there shall be inserted “or allegation”.
+
+(5) The Royal Ulster Constabulary (Complaints etc.) Regulations 2000[^f00008] shall be amended as follows—
+
+- (a) for Regulation 3 there shall be substituted—
+
+  > **3.** These Regulations apply to—
+  >
+  > - (a) any complaint made to the Ombudsman;
+  > - (b) any matter under consideration by the Ombudsman under section 55 of the Act of 1998; and
+  > - (c) any complaint referred to in Article 4 of the Police (Northern Ireland) Act 1998 (Commencement) Order (Northern Ireland) 2000[^f00009]
+
+  .
+- (b) in Regulation 25(1)—
+  - (i) the final “or” shall be omitted from paragraph (*a*),
+  - (ii) paragraph (*b*) shall be omitted, and
+  - (iii) in paragraph (*c*), for “in either case that” there shall be substituted “and”.
+
+## 3. Interpretation[^key-cb1041c1443ea0db87d72af34944b31a]
+
+The following expressions have the meanings hereby respectively assigned to them, that is to say:—
+
+- “the 1988 Regulations” means the Royal Ulster Constabulary (Complaints etc) Regulations 1988, as amended;
+- “the 1998 Act” means the Police (Northern Ireland) Act 1998;
+- “the 2000 Regulations” means the Royal Ulster Constabulary (Complaints etc) Regulations 2000;
+- “chief constable” shall be construed as including a reference to an officer discharging the functions of the chief constable;
+- “the Ombudsman” means the Police Ombudsman established by Part VII of the Police (Northern Ireland) Act 1998;
+- “complaint” has the same meaning as under section 50(1) of the 1998 Act;
+- “complainant” has the same meaning as under section 50(1) of the 1998 Act;
+- “member” means a member of the Royal Ulster Constabulary or Royal Ulster Constabulary Reserve;
+- “member concerned”, in relation to a complaint or other matter means the member about whose conduct the complaint is made or other matter concerns;
+- “other matter” is a matter (not being a complaint) which the Ombudsman may investigate under section 55 of the 1998 Act;
+- “the Order” means the Police (Northern Ireland) Order 1987[^f00010];
+- “Police Authority” means the Police Authority for Northern Ireland established by section 1 of the 1998 Act.
+
+## 4. Application of regulations[^key-657750a36f79ff57c693cbe6cfe54320]
+
+These regulations apply to any complaint made on or after 6th November 2000 or to any other matter brought to the Ombudsman’s attention on or after 6th November 2000.
+
+## 5. Conditions to be met for complaints[^key-1d3cd2cf53ed94591c540273bad96d33]
+
+Subject to regulations 6 and 10, the requirements for a complaint received under section 52(1) of the 1998 Act to be dealt with in accordance with the provisions of Part VII of the 1998 Act shall be:
+
+(1) It is made by, or on behalf of, a member of the public;
+
+(2) It is about the conduct of a member which took place not more than 12 months before the date on which the complaint is made or referred to the Ombudsman under section 52(1); and
+
+(3)
+
+- (a) A statement has not been issued in respect of the disciplinary aspects of an investigation under Article 9(11) of the Order or section 59(2) of the 1998 Act;
+- (b) the complaint has not been informally resolved in accordance with Article 5 of the Order or section 53 of the 1998 Act;
+- (c) the complaint has not been withdrawn within the meaning of Regulation 16 of the 1988 Regulations or Regulation 23 of the 2000 Regulations;
+- (d) the complaint has not been dispensed with under Regulation 17 of the 1988 Regulations or Regulation 25 of the 2000 Regulations;
+- (e) the complaint has not been otherwise dealt with under regulations made under 64(2)(*d*) or (*e*) of the 1998 Act, or
+- (f) the complaint has not otherwise been investigated by the police.
+
+## 6. Exceptions for certain complaints[^key-9fed01800d430fb9fa79a44d4d5d1046]
+
+(1) Regulation 5(2) shall not apply where the complaint is not the same or substantially the same as a previous complaint or matter and the Ombudsman believes that a member may have committed a criminal offence or behaved in a manner which would justify disciplinary proceedings; and the Ombudsman believes that the complaint should be investigated because of the gravity of the matter or the exceptional circumstances.
+
+(2) Regulation 5(2) and (3) shall not apply where new evidence has come to light which is not evidence which was reasonably available at the time of the original complaint, the Ombudsman believes that a member may have committed a criminal offence or behaved in a manner which would justify disciplinary proceedings, and the Ombudsman believes that the complaint should be investigated because of the gravity of the matter or the exceptional circumstances.
+
+(3) Where the Ombudsman decides that a case falls under Regulation 6(1) or (2), he shall investigate it under section 56 of the 1998 Act.
+
+(4) Where the Ombudsman decides that a complaint meets the criteria in paragraph (1) or (2) except that the case is not grave or exceptional and the Ombudsman believes that the member may have committed a criminal offence then he may investigate it by applying section 54(3) of the 1998 Act.
+
+(5) If any conduct to which a complaint wholly or partly relates is or has been the subject of disciplinary or criminal proceedings, the Ombudsman shall have no powers in relation to the complaint in so far as it relates to that conduct.
+
+## 7. Conditions to be met for other matters – referred by the Secretary of State, Chief Constable or Police Authority[^key-a0b20e22acb13794243e3142a880b310]
+
+Subject to Regulations 9 and 10, the Ombudsman shall consider any other matter referred to him under subsections (1), (2), or (4) of section 55 of the 1998 Act if:
+
+(1) The actions, behaviour or conduct to which the matter relates took place not more than 12 months before the date on which the reference is made; and
+
+(2)
+
+- (a) statement has not been issued in respect of the disciplinary aspects of an investigation under Article 9(11) of the Order or section 59(2) of the 1998 Act;
+- (b) the complaint has not been informally resolved in accordance with Article 5 of the Order or section 53 of the 1998 Act;
+- (c) the matter has not been withdrawn within the meaning of Regulation 16 of the 1988 Regulations or Regulation 23 of the 2000 Regulations,
+- (d) the matter has not been dispensed with under Regulation 17 of the 1988 Regulations or Regulation 25 of the 2000 Regulations;
+- (e) the matter has not been otherwise dealt with under regulations made under 64(2)(*d*) or (*e*) of the 1998 Act; or
+- (f) the matter has not been otherwise investigated by the police.
+
+## 8. Conditions to be met for other matters – being considered by the Ombudsman[^key-cd7db6f53e759c9778b716b8ea314f74]
+
+Subject to Regulations 9 and 10, the Ombudsman shall be able to consider a formal investigation of any non-complaint matter under section 55(6) of the 1998 Act if:
+
+- (a) the actions or behaviour to which the matter relates took place not more than12 months before that time; and
+- (b) a statement has not been issued in respect of the disciplinary aspects of an investigation under Article 9(11) of the Order or section 59 (2) of the 1998 Act;
+- (c) the matter has not been informally resolved in accordance with Article 5 of the Order or section 53 of the 1998 Act;
+- (d) the matter has not been withdrawn within the meaning of Regulation 16 of the 1988 Regulations or Regulation 23 of the 2000 Regulations,
+- (e) the matter has not been dispensed with under Regulation 17 of the 1988 Regulations or Regulation 25 of the 2000 Regulations;
+- (f) the matter has not been otherwise dealt with under regulations made under 64(2)(*d*) or (*e*) of the 1998 Act; or
+- (g) the matter has not been otherwise investigated by the police.
+
+## 9. Exceptions for certain matters[^key-9ac1cdc45e3bee1f89df7bbd81c1fa75]
+
+(1) Regulation 7(1) and 8(1) shall not apply where the matter is not the same or substantially the same as a previous complaint or matter and the Ombudsman believes that a member may have committed a criminal offence or behaved in a manner which would justify disciplinary proceedings, and the Ombudsman believes that the matter should be investigated because of the gravity of the matter or the exceptional circumstances.
+
+(2) Regulations 7 and 8 shall not apply where new evidence has come to light which is not evidence which was reasonably available at the time the matter originally occurred, the Ombudsman believes that a member may have committed a criminal offence or behaved in a manner which would justify disciplinary proceedings, and the Ombudsman believes that the matter should be investigated because of the gravity of the matter or the exceptional circumstances.
+
+(3) Where the Ombudsman decides a matter falls under paragraph (1) or (2), he shall investigate it under section 56 of the 1998 Act.
+
+(4) Where the Ombudsman decides that a matter meets the criteria in paragraph (1) or (2) except that the case is not grave or exceptional and the Ombudsman believes that the member may have committed a criminal offence then he may investigate it by applying section 54(3) of the 1998 Act.
+
+(5) If any conduct to which any other matter wholly or partly relates is or has been the subject of disciplinary or criminal proceedings the Ombudsman shall have no powers in relation to the matter in so far as it relates to that conduct.
+
+## 10. Initial period[^key-f7249e0c5cbfd08f195c6f972ce37516]
+
+(1) In the initial period paragraphs 5(2) and 7(1) and 8(1) shall have effect with the substitution of “2 years” for “12 months”.
+
+(2) In paragraph (1) “the initial period” means the period of 12 months beginning on 6th November 2000.
+
+## 11. Standard of proof[^key-91dd95fc75d1f0f42b2175cdce05d553]
+
+(1) Where a complaint or other matter relates to conduct by a member which occurred or commenced before 6th November 2000 a charge shall not be regarded as proved unless it is:
+
+- (a) admitted by the accused; or
+- (b) proved by the person presenting the case beyond reasonable doubt.
+
+(2) Where a complaint or other matter relates to conduct by a member which occurred or commenced on or after 6th November 2000 the person considering the case shall not find that the conduct of the member concerned failed to meet the appropriate standard unless the conduct is—
+
+- (a) admitted by the member concerned; or
+- (b) proved by the person presenting the case, on the balance of probabilities, to have failed to meet the standard.
+
+John Reid
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+27th April 2001
+
+(This note is not part of the regulation.)
+
+These regulations set out the circumstances in which the Ombudsman may investigate complaints (or other matters) depending on the date the police conduct in question took place and whether or not it has previously been dealt with.
+
+In general, the Ombudsman will be able to deal with cases not previously dealt with and arising from conduct in the previous 12 months. The regulations set out exceptions to this general rule.
+
+If there has been a delay in complaining and there are grave or exceptional circumstances and it appears that a criminal offence has been committed or an officer has behaved in a manner which would justify disciplinary proceedings then the Ombudsman may also investigate the case (regulations 6(1) and 9(1)).
+
+In addition, the Ombudsman may take on a case, even if it has been dealt with before, if there is new evidence, and it appears that a criminal offence has been committed or disciplinary proceedings justified and the matter is grave or exceptional (regulations 6(2) and 9(2)).
+
+There is also provision for any case which indicates a crime and which has either not been dealt with before or in respect of which there is new evidence even if the grave or exceptional test is not met (regulations 6(4) and 9(4)).
+
+Regulation 10 provides that the general period of 12 months shall be 24 months for the first year of operation of the Ombudsman’s office.
+
+Regulation 11 sets out the standard of proof to be applied to different cases.
+
+The regulations refer to the Royal Ulster Constabulary. The references should be taken to mean the Police Service of Northern Ireland once the name is changed. Similarly references to the Police Authority should be taken to mean Northern Ireland Policing Board when the Authority is dissolved.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 Ch 32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^f00002]: Footnote: [2000 Ch 32](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^key-9de1ecb8412f3fb2065c083e3fd8169f]: Commencement: Reg. 1 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-5a813f35d637f86523b19a81db012aa3]: Commencement: Reg. 2 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^f00003]: Footnote: [S.R. 1988/10](https://www.legislation.gov.uk/nisr/1988/10)
+
+[^f00004]: Footnote: [1998 Ch. 32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^f00005]: Footnote: [S.R. 1988/8](https://www.legislation.gov.uk/nisr/1988/8)
+
+[^f00006]: Footnote: [S.R. 2000/315](https://www.legislation.gov.uk/nisr/2000/315)
+
+[^f00007]: Footnote: [S.R. 2000/320](https://www.legislation.gov.uk/nisr/2000/320)
+
+[^f00008]: Footnote: [S.R. 2000/318](https://www.legislation.gov.uk/nisr/2000/318)
+
+[^f00009]: Footnote: [S.R. 2000/399](https://www.legislation.gov.uk/nisr/2000/399)
+
+[^key-cb1041c1443ea0db87d72af34944b31a]: Commencement: Reg. 3 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^f00010]: Footnote: [1987 No. 938 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/938)
+
+[^key-657750a36f79ff57c693cbe6cfe54320]: Commencement: Reg. 4 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-1d3cd2cf53ed94591c540273bad96d33]: Commencement: Reg. 5 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-9fed01800d430fb9fa79a44d4d5d1046]: Commencement: Reg. 6 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-a0b20e22acb13794243e3142a880b310]: Commencement: Reg. 7 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-cd7db6f53e759c9778b716b8ea314f74]: Commencement: Reg. 8 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-9ac1cdc45e3bee1f89df7bbd81c1fa75]: Commencement: Reg. 9 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-f7249e0c5cbfd08f195c6f972ce37516]: Commencement: Reg. 10 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+
+[^key-91dd95fc75d1f0f42b2175cdce05d553]: Commencement: Reg. 11 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)

@@ -1,0 +1,25 @@
+---
+title: The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018, section 1
+act: The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018
+section: '1'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2018/200/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018, section 1
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 and shall come into operation on 24th December 2018.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00007] applies to these Regulations as it applies to an Act of the Assembly.
+
+## Annotations
+
+[^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

@@ -1,0 +1,108 @@
+---
+title: The Social Security Benefits Up-rating Regulations (Northern Ireland) 2005
+id: nisr/2005/96
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2005-03-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2005/96
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/96/pdfs/nisr_20050096_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/96/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating Regulations (Northern Ireland) 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 96
+
+SOCIAL SECURITY
+
+The Social Security Benefits Up-rating Regulations (Northern Ireland) 2005
+
+Made
+
+11th March 2005
+
+Coming into operation
+
+11th April 2005
+
+The Department for Social Development, in exercise of the powers conferred by sections 90, 113(1)(a) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 135(3) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations, which contain only provisions in consequence of an order[^f00004] under section 132 of the Social Security Administration (Northern Ireland) Act 1992:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security Benefits Up-rating Regulations (Northern Ireland) 2005 and shall come into operation on 11th April 2005.
+
+(2) In these Regulations “the Up-rating Order” means the Social Security Benefits Up-rating Order (Northern Ireland) 2005[^f00004].
+
+## 2. Exceptions relating to payment of additional benefit under awards made before the commencing date
+
+Section 135(3) of the Social Security Administration (Northern Ireland) Act 1992 (effect of alteration of rates of benefit under Parts II to V of the Contributions and Benefits Act) shall not apply if a question arises as to either –
+
+- (a) the weekly rate at which the benefit is payable by virtue of the Up-rating Order; or
+- (b) whether the conditions for receipt of the benefit at the altered rate are satisfied,
+
+until that question has been determined in accordance with the provisions of the Social Security (Northern Ireland) Order 1998[^f00005].
+
+## 3. Persons not ordinarily resident in Northern Ireland
+
+Regulation 5 of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00006] (application of disqualification in respect of up-rating of benefit) shall apply to any additional benefit payable by virtue of the Up-rating Order.
+
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations
+
+In paragraph 2B of Schedule 2 to the Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00007] (prescribed circumstances for increase of a carer’s allowance) –
+
+- (a) in sub-paragraph (a) for “£165” there shall be substituted “£170”; and
+- (b) in sub-paragraph (b) for “£21” and “£165” there shall be substituted “£22” and “£170” respectively.
+
+## 5. Revocation
+
+The Social Security Benefits Up-rating Regulations (Northern Ireland) 2004[^f00008] are hereby revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 11th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations contain only provisions in consequence of an order under section 132 of the Social Security Administration (Northern Ireland) Act 1992 and accordingly, by virtue of section 149(3) of, and paragraph 3 of Schedule 5 to, that Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+Regulation 2 provides that where a question has arisen about the effect of the Social Security Benefits Up-rating Order (Northern Ireland) 2005 (“the Up-rating Order”) on a benefit already in payment the altered rate will not apply until that question is determined.
+
+Regulation 3 applies the provisions of regulation 5 of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978 so as to restrict the application of the increases specified in the Up-rating Order in cases where the beneficiary lives abroad.
+
+Regulation 4 raises from £165 to £170 and £21 to £22 the earnings limits for child dependency increases payable with a carer’s allowance. These increases were abolished by sections 1(3)(e) and 60 of, and Schedule 6 to, the Tax Credits Act 2002 but are saved for transitional cases by virtue of Article 2 of the Tax Credits Act 2002 (Transitional Provisions and Savings) Order (Northern Ireland) 2003.
+
+Regulation 5 makes a consequential revocation.
+
+These Regulations do not impose any costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 90 was amended by paragraph 25 of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), Article 2(2) of the Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002 ([S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321)) and Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); *see also* Article 2 of [S.R. 2003 No. 212](https://www.legislation.gov.uk/nisr/2003/212)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: [S.R. 2005 No. 82](https://www.legislation.gov.uk/nisr/2005/82)
+
+[^f00005]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00006]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending regulations are [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392), [S.R. 1988 No. 77](https://www.legislation.gov.uk/nisr/1988/77), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1990 No. 123](https://www.legislation.gov.uk/nisr/1990/123), [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330), [S.R. 1994 No. 269](https://www.legislation.gov.uk/nisr/1994/269) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^f00007]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending regulations are [S.R. 1984 No. 382](https://www.legislation.gov.uk/nisr/1984/382), [S.R. 2001 No. 106](https://www.legislation.gov.uk/nisr/2001/106), [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2004 No. 83](https://www.legislation.gov.uk/nisr/2004/83)
+
+[^f00008]: Footnote: [S.R. 2004 No. 83](https://www.legislation.gov.uk/nisr/2004/83)

@@ -1,0 +1,283 @@
+---
+title: The Income-Related Benefits and Jobseeker’s Allowance (Amendment No. 2) Regulations (Northern Ireland) 1997
+id: nisr/1997/412
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-09-10'
+text_date: '1997-10-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/412
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/412/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income-Related Benefits and Jobseeker’s Allowance (Amendment No. 2) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (5).** Text as at 1997-10-07. See https://www.legislation.gov.uk/changes/affected/nisr/1997/412
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 412
+
+SOCIAL SECURITY
+
+The Income-Related Benefits and Jobseeker’s Allowance (Amendment No. 2) Regulations (Northern Ireland) 1997
+
+Made
+
+10th September 1997
+
+Coming into operation in accordance with regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 123(1)(*e*), 131(1), 132(2), (3) and (4)(*a*) and (*b*), 133(2)(*h*) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5), 14(1), (2) and (4)(*a*) and (*b*), 15(3), 36(2) and 39 of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulations 4 and 7(1), (2)(*c*), (5) and (6)(*c*) are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00004] hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-b5f8996ee81863f45727c2fb051faf6b]
+
+(1) These Regulations may be cited as the Income-Related Benefits and Jobseeker’s Allowance (Amendment No. 2) Regulations (Northern Ireland) 1997 and, subject to paragraphs (2) to (4), shall come into operation on 6th October 1997.
+
+(2) In relation to a claimant for either income support or jobseeker’s allowance, these Regulations shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th October 1997.
+
+(3) In paragraph (2) the expression “benefit week” shall have the same meaning as in regulation 2(1) of the Income Support Regulations[^f00005] or, where appropriate, in regulation 1(2) of the Jobseeker’s Allowance Regulations[^f00006].
+
+(4) In so far as these Regulations amend provisions relating to disability working allowance or family credit, they shall come into operation on 7th October 1997 and, in relation to any particular claimant for either of those benefits, they shall have effect, where a claimant has an award of disability working allowance or family credit which is current on 7th October 1997, on the day following the expiration of that award.
+
+(5) In these Regulations—
+
+- “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00007];
+- “the Family Credit Regulations” means the Family Credit (General) Regulations (Northern Ireland) 1987[^f00008];
+- “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00009];
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00010];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011].
+
+(6) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of the Disability Working Allowance Regulations[^key-bcb13ee72484112982820c1cc9e2d575]
+
+After regulations 29(2)(*c*) (notional income) and 37(1)(*b*) and (2)(*d*)[^f00013] (notional capital) of the Disability Working Allowance Regulations there shall be inserted “or” and the following sub-paragraph bearing the appropriate letter—
+
+> - any sum to which paragraph 44(*a*) of Schedule 4[^f00014] (disregard of compensation for personal injuries which is administered by the Court) refers
+
+.
+
+## 3. Amendment of the Family Credit Regulations[^key-5396e0c3cdf6f3009b3f01b3f271611f]
+
+After regulations 26(2)(*c*) (notional income) and 34(1)(*b*) and (2)(*d*)[^f00015] (notional capital) of the Family Credit Regulations there shall be inserted “or” and the following sub-paragraph bearing the appropriate letter—
+
+> - any sum to which paragraph 45(*a*) of Schedule 3[^f00016] (disregard of compensation for personal injuries which is administered by the Court) refers
+
+.
+
+## 4. Amendment of the Housing Benefit Regulations[^key-7a422c014c6a384e0df445e66861ad8a]
+
+(1) The Housing Benefit Regulations shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 5(5)(*d*)[^f00017] (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) for “his liability to make payments in respect of two dwellings is unavoidable” there shall be substituted “he could not reasonably have avoided liability in respect of two dwellings”.
+
+(3) After regulations 35(2)(*c*) (notional income) and 43(2)(*d*)[^f00018] (notional capital) there shall be inserted “or” and the following sub-paragraph bearing the appropriate letter—
+
+> - any sum to which paragraph 45(*a*) of Schedule 5[^f00019] (disregard of compensation for personal injuries which is administered by the Court) refers,
+
+.
+
+## 5. Amendment of the Income Support Regulations[^key-56afe0d0799144c8b6c5359162776753]
+
+(1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 4ZA[^f00020] (prescribed categories of person) after paragraph (3) there shall be added the following paragraph—
+
+> (4) A person who falls within a prescribed category in Schedule 1B[^f00021] for the purposes of this regulation for any day in a benefit week, shall fall within that category for the whole of that week.
+
+.
+
+(3) In regulation 40(3A)[^f00022] (calculation of income other than earnings) for “week” there shall be substituted “benefit week”.
+
+(4) After regulations 42(2)(*g*) (notional income) and 51(1)(*b*) and (2)(*d*)[^f00023] (notional capital) there shall be inserted “or” and the following sub-paragraph bearing the appropriate letter—
+
+> - any sum to which paragraph 43(*a*) of Schedule 10[^f00024] (disregard of compensation for personal injuries which is administered by the Court) refers
+
+.
+
+(5) In regulation 61 (interpretation) in the definition of “grant income” in paragraph (*c*) for “paragraph 1, 2 or 7 of Schedule 1” there shall be substituted “paragraph 1, 2, 10, 11 or 12 of Schedule 1B”[^f00025].
+
+(6) In Part II of Schedule 4 (persons to whom regulation 19 does not apply) paragraphs 15[^f00026] and 16 shall be omitted.
+
+## 6. Amendment of the Jobseeker’s Allowance Regulations[^key-d156962e17622216f0ff3b7bf1756909]
+
+After regulations 105(2)(*g*) (notional income) and 113(1)(*b*) and (2)(*d*) (notional capital) of the Jobseeker’s Allowance Regulations there shall be inserted “or” and the following sub-paragraph bearing the appropriate letter—
+
+> - any sum to which paragraph 41(*a*) of Schedule 7[^f00027] (disregard of compensation for personal injuries which is administered by the Court) refers
+
+.
+
+## 7. Common amendments[^key-caab19361445f181750b17dcdbe52c5a][^key-f89031bdbd73b4c7dae6d8291019256e][^key-37aed5be0316591c0aff0a0bf42d4629][^key-febe19963a770bcdfe89b4a09c85715e][^key-94bda37d08bf032d723d9d899e32ee9e]
+
+(1) In each of the regulations specified in paragraph (2) after “Independent Living Funds” there shall be inserted “or payments made pursuant to section 19(1)(*a*) of the Coal Industry Act 1994[^f00028] (concessionary coal)”.
+
+(2) The regulations to which paragraph (1)[^f00029] refers (which relate to notional income) are—
+
+- (a) regulation 29(3) of the Disability Working Allowance Regulations;
+- (b) regulation 26(3) of the Family Credit Regulations;
+- (c) regulation 35(3) of the Housing Benefit Regulations;
+- (d) regulation 42(4) of the Income Support Regulations, and
+- (e) regulation 105(10) of the Jobseeker’s Allowance Regulations.
+
+(3) In each of the paragraphs of the Schedules specified in paragraph (4) for the words from “and is provided” to “required” there shall be substituted “by reason of old age and infirmity, disablement, past or present dependence on alcohol or drugs, past or present mental disorder or a terminal illness and the care is provided in the home”.
+
+(4) The paragraphs of the Schedules to which paragraph (3) refers (which relate to the calculation of applicable amounts) are—
+
+- (a) paragraph 2A(2)(*aa*)[^f00030] of Schedule 2 to the Income Support Regulations, and
+- (b) paragraph 3(2)(*b*) of Schedule 1 to the Jobseeker’s Allowance Regulations.
+
+(5) Each of the paragraphs of the Schedules specified in paragraph (6) shall be amended in the following manner—
+
+- (a) “under the age of 18” shall be omitted, and
+- (b) in sub-paragraph (*b*) at the end there shall be added “where the person concerned is under the age of 18”.
+
+(6) The paragraphs of the Schedules to which paragraph (5) refers (which relate to the disregard of capital administered by a Court) are—
+
+- (a) paragraph 44 of Schedule 4 to the Disability Working Allowance Regulations;
+- (b) paragraph 45 of Schedule 3 to the Family Credit Regulations;
+- (c) paragraph 45 of Schedule 5 to the Housing Benefit Regulations;
+- (d) paragraph 43 of Schedule 10 to the Income Support Regulations, and
+- (e) paragraph 41 of Schedule 7 to the Jobseeker’s Allowance Regulations.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+10th September 1997.
+
+The Department of the Environment for Northern Ireland hereby consents to regulations 4 and 7(1), (2)(*c*), (5) and (6)(*c*) of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+John Ritchie
+
+Assistant Secretary
+
+10th September 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Disability Working Allowance (General) Regulations (Northern Ireland) 1992, the Family Credit (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Income Support (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+With respect to housing benefit, provision is made—
+
+for housing benefit to be payable in respect of two dwellings where a claimant could not reasonably have avoided his liabilities in respect of both of them (regulation 4(2)).
+
+With respect to income support, provision is made—
+
+so that where a person is of a prescribed category for any day in a benefit week he shall fall in that category for the whole of that week (regulation 5(2));
+
+to amend the reference to “week” in the calculation of income other than earnings to refer to “benefit week” (regulation 5(3));
+
+to amend the definition of “grant income” and the apportionment of student loans in respect of benefit weeks in calculating income other than earnings (regulation 5(5));
+
+to omit provisions in Schedule 4 which formerly had effect with respect to regulation 19 (applicable amounts for persons in residential care and nursing homes) (regulation 5(6)).
+
+With respect to income support and jobseeker’s allowance, provision is made—
+
+to amend the definition of “personal care” which is used for the purpose of defining a residential allowance (regulation 7(3) and (4)).
+
+With respect to all the benefits, provision is made—
+
+for excepting certain funds in Court from being treated as notional income or capital (regulations 2, 3, 4(3), 5(4) and 6);
+
+for excepting certain payments under the Coal Industry Act 1994 from being treated as notional income (regulation 7(1) and (2));
+
+for extending the disregard of capital arising from compensation for personal injuries administered by the Court for persons aged under 18 to persons aged 18 and over (regulation 7(5) and (6)).
+
+In so far as these Regulations are required, for the purposes of regulations 4 and 7(1), (2)(*c*), (5) and (6)(*c*) to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(*e*) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; subsection (6A) was inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-b5f8996ee81863f45727c2fb051faf6b]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/412/regulation/1/1)
+
+[^f00005]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(*a*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00007]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending Regulations are [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
+
+[^f00008]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 326](https://www.legislation.gov.uk/nisr/1991/326), [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
+
+[^f00009]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 47](https://www.legislation.gov.uk/nisr/1991/47), [S.R. 1993 Nos. 145](https://www.legislation.gov.uk/nisr/1993/145) and [195](https://www.legislation.gov.uk/nisr/1993/195) and [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335)
+
+[^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149), [165](https://www.legislation.gov.uk/nisr/1993/165), [195](https://www.legislation.gov.uk/nisr/1993/195) and [235](https://www.legislation.gov.uk/nisr/1993/235), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367) and [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); to which there are amendments not relevant to these Regulations
+
+[^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-bcb13ee72484112982820c1cc9e2d575]: Commencement: Reg. 2 in operation at 7.10.1997 with effect in accordance with reg. 1(4)
+
+[^f00013]: Footnote: Regulation 29(2)(*a*) to (*c*) was substituted and regulation 37(2)(*d*) was added by regulation 6(4)(*a*) and (5) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367) respectively
+
+[^f00014]: Footnote: Paragraph 44 was added by regulation 4(10)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and is amended by regulation 7(5) and (6)(*a*) of these Regulations
+
+[^key-5396e0c3cdf6f3009b3f01b3f271611f]: Commencement: Reg. 3 in operation at 7.10.1997 with effect in accordance with reg. 1(4)
+
+[^f00015]: Footnote: Regulation 26(2)(*a*) to (*c*) was substituted and regulation 34(2)(*d*) was added by regulation 4(4)(*a*) and (5) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367) respectively and regulation 34(1)(*b*) was substituted by regulation 2 of [S.R. 1990 No. 347](https://www.legislation.gov.uk/nisr/1990/347)
+
+[^f00016]: Footnote: Paragraph 45 was added by regulation 3(12)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and is amended by regulation 7(5) and (6)(*b*) of these Regulations
+
+[^key-7a422c014c6a384e0df445e66861ad8a]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/412/regulation/1/1)
+
+[^f00017]: Footnote: Regulation 5(5)(*d*) was amended by regulation 3(*c*) of [S.R. 1993 No. 145](https://www.legislation.gov.uk/nisr/1993/145)
+
+[^f00018]: Footnote: Regulation 35(2)(*a)* to (*c*) was substituted and regulation 43(2)(*d*) was added by regulation 3(4)(*a*) and (5) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367) respectively
+
+[^f00019]: Footnote: Paragraph 45 was added by regulation 13(*b*) of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335) and is amended by regulation 7(5) and (6)(*c*) of these Regulations
+
+[^key-56afe0d0799144c8b6c5359162776753]: Commencement: Reg. 5 in operation at 6.10.1997 with effect in accordance with reg. 1(2)(3)
+
+[^f00020]: Footnote: Regulation 4ZA was inserted by regulation 4 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00021]: Footnote: Schedule 1B was inserted by regulation 22 of, and Schedule 1 to, [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00022]: Footnote: Paragraph (3A) was inserted by regulation 4(4)(*b*) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and amended by regulation 8 of [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46)
+
+[^f00023]: Footnote: Regulations 42(2)(*g*) and 51(2)(*d*) were added by regulation 2(4)(*a*) and 2(5) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367) respectively and regulation 51(1)(*b*) was substituted by regulation 3 of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346)
+
+[^f00024]: Footnote: Paragraph 43 was added by regulation 2(11)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and amended by regulation 7(5) and (6)(*d*) of these Regulations
+
+[^f00025]: Footnote: Schedule 1B was inserted by regulation 22 of, and Schedule 1 to, [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199); relevant amending Regulations are [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00026]: Footnote: Paragraph 15 was amended by paragraph 6(12)(*f*) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^key-d156962e17622216f0ff3b7bf1756909]: Commencement: Reg. 6 in operation at 6.10.1997 with effect in accordance with reg. 1(2)(3)
+
+[^f00027]: Footnote: Paragraph 41 was amended by regulation 7(5) and (6)(*e*) of these Regulations
+
+[^key-caab19361445f181750b17dcdbe52c5a]: Commencement: Reg. 7(1)(5) in operation at 6.10.1997 , see [reg. 1(2)(3)](https://www.legislation.gov.uk/nisr/1997/412/regulation/1/2/3)
+
+[^key-f89031bdbd73b4c7dae6d8291019256e]: Commencement: Reg. 7(1)(5) in operation at 7.10.1997 , see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1997/412/regulation/1/4)
+
+[^key-37aed5be0316591c0aff0a0bf42d4629]: Commencement: Reg. 7(2)(a)(b)(6)(a)(b) in operation at 7.10.1997 , see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1997/412/regulation/1/4)
+
+[^key-febe19963a770bcdfe89b4a09c85715e]: Commencement: Reg. 7(2)(c)(6)(c) in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/412/regulation/1/1)
+
+[^key-94bda37d08bf032d723d9d899e32ee9e]: Commencement: Reg. 7(2)(d)(e)(3)(4)(6)(d)(e) in operation at 6.10.1997 with effect in accordance with reg. 1(2)(3)
+
+[^f00028]: Footnote: [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21)
+
+[^f00029]: Footnote: With respect to the regulations referred to in sub-paragraphs (*a*) to (*d*) relevant amending Regulations are [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195)
+
+[^f00030]: Footnote: Paragraph 2A was inserted by regulation 2(6) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149); relevant amending Regulations are [S.R. 1993 Nos. 165](https://www.legislation.gov.uk/nisr/1993/165) and [235](https://www.legislation.gov.uk/nisr/1993/235)

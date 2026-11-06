@@ -1,0 +1,161 @@
+---
+title: The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1997
+id: nisr/1997/330
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-07-10'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/330
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/330/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1997
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 330
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1997
+
+Made
+
+10th July 1997
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 129(2) and (4), 132(3) and (4)(*b*) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 14(1) and (4)(*b*) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 2(*b*) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-36efee6242afb0601716c6fc6a04227c]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1997 and shall come into operation as follows—
+
+- (a) regulation 1 on 1st August 1997;
+- (b) regulation 2(*a*) and (*e*)—
+  - (i) in a case where a student’s period of study begins on or after 1st August 1997 but before 1st September 1997, on the first day of that period;
+  - (ii) in any other case, on 1st September 1997,
+
+    so, however, that regulation 2(*a*) and (*e*) shall have effect in relation to any particular claimant at the beginning of the first benefit week to commence for that claimant on or after the day mentioned in head (i) or the date on or after the day mentioned in head (ii), whichever applies in his case; and for this purpose the expression “benefit week” has the same meaning as in regulation 2(1) of the Income Support Regulations[^f00005] or, as the case may be, in regulation 1(2) of the Jobseeker’s Allowance Regulations[^f00006];
+- (c) regulations 2(*b*) and 3—
+  - (i) in a case where a student’s period of study begins on or after 1st August 1997 but before 1st September 1997, on the first Monday of that period;
+  - (ii) in any other case, on 1st September 1997;
+- (d) regulation 2(*c*) and (*d*)—
+  - (i) in a case where a student’s period of study begins on or after 1st August 1997 but before 1st September 1997, on the first Tuesday of that period;
+  - (ii) in any other case, on 2nd September 1997, and
+- (e) regulation 4 on 2nd September 1997.
+
+(3) In these Regulations—
+
+- [^key-0738acedcc7c54eba4cef0fd5e8d54db]...
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00008];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009].
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment to the calculation of a student’s grant income[^key-f1790b8cc6f56784de1bf46418179db7][^key-c788f9d2311a01e9083b7b231f49f4ca][^key-c189d0bb1100ecee67277f3a488d3c11][^key-ffae89350e7a834c9eb0e763ed0ac53b]
+
+In the following provisions (which all relate to the calculation of a student’s grant income) for “£280” in each place where it occurs there shall be substituted “£287”—
+
+- (a)[^key-f1790b8cc6f56784de1bf46418179db7][^key-c788f9d2311a01e9083b7b231f49f4ca] regulation 62(2)(*g*) of the Income Support Regulations[^f00011];
+- (b)[^key-fea0f0d6e41926c15f13fda4727fa047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-c189d0bb1100ecee67277f3a488d3c11][^key-ffae89350e7a834c9eb0e763ed0ac53b] regulation 38(2)(*f*) of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00013];
+- (d)[^key-c189d0bb1100ecee67277f3a488d3c11][^key-ffae89350e7a834c9eb0e763ed0ac53b] regulation 42(2)(*e*) of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00014];
+- (e)[^key-f1790b8cc6f56784de1bf46418179db7][^key-c788f9d2311a01e9083b7b231f49f4ca] regulation 131(2)(*f*) of the Jobseeker’s Allowance Regulations[^f00015].
+
+## 3. Amendment of regulation 51 of the Housing Benefit Regulations[^key-f7d7557e1431dade37232b718d787bf5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Revocation[^key-e2a5d209ca275a87db46cb9060b0b2ed]
+
+The Income-Related Benefits (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1996[^f00017] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+10th July 1997.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 2(*b*) of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+Cynthia Doake
+
+Assistant Secretary
+
+11th July 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Family Credit (General) Regulations (Northern Ireland) 1987, the Disability Working Allowance (General) Regulations (Northern Ireland) 1992 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+Regulation 2 increases, from £280 to £287, the amount to be allowed in respect of the cost of books and equipment in calculating a student’s grant income.
+
+Regulation 3 increases, from £17·45 to £17·85, the amount of the deduction to be made in calculating a student’s eligible rent for housing benefit purposes.
+
+Regulation 4 contains a consequential revocation.
+
+In so far as these Regulations are required, for the purposes of regulation 2(*b*), to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-36efee6242afb0601716c6fc6a04227c]: Commencement: Reg. 1 in operation at 1.8.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/1/a)
+
+[^f00005]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(*a)* of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^key-0738acedcc7c54eba4cef0fd5e8d54db]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and [S.R. 1996 Nos. 291](https://www.legislation.gov.uk/nisr/1996/291) and [405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^f00009]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 Nos. 358](https://www.legislation.gov.uk/nisr/1996/358) and [503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-f1790b8cc6f56784de1bf46418179db7]: Commencement: Reg. 2(a)(e) comes into operation for specified purposes in accordance with [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/1/b)
+
+[^key-c788f9d2311a01e9083b7b231f49f4ca]: Commencement: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/1997/330/regulation/2/a)[(e)](https://www.legislation.gov.uk/nisr/1997/330/regulation/2/e) in operation at 1.9.1997 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/1/b/ii)
+
+[^key-c189d0bb1100ecee67277f3a488d3c11]: Commencement: Reg. 2(c)(d) comes into operation for specified purposes in accordance with [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/1/d)
+
+[^key-ffae89350e7a834c9eb0e763ed0ac53b]: Commencement: [Reg. 2(c)](https://www.legislation.gov.uk/nisr/1997/330/regulation/2/c)[(d)](https://www.legislation.gov.uk/nisr/1997/330/regulation/2/d) in operation at 2.9.1997 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/1/d/ii)
+
+[^f00011]: Footnote: Regulation 62(2)(*g*) was amended by regulation 2(*a*) of [S.R. 1996 No. 291](https://www.legislation.gov.uk/nisr/1996/291) and regulation 5(9)(*b*) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^key-fea0f0d6e41926c15f13fda4727fa047]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/1997/330/regulation/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00013]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1996 Nos. 291](https://www.legislation.gov.uk/nisr/1996/291) and [405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^f00014]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending Regulations are [S.R. 1996 No. 291](https://www.legislation.gov.uk/nisr/1996/291)
+
+[^f00015]: Footnote: Regulation 131(2)(*f*) was amended by regulation 24 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^key-f7d7557e1431dade37232b718d787bf5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/330/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-e2a5d209ca275a87db46cb9060b0b2ed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/330/regulation/4) in operation at 2.9.1997, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1997/330/regulation/1/1/e)
+
+[^f00017]: Footnote: [S.R. 1996 No. 291](https://www.legislation.gov.uk/nisr/1996/291)

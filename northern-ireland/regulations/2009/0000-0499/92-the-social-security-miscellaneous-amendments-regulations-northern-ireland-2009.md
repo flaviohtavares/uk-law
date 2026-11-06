@@ -1,0 +1,799 @@
+---
+title: The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009
+id: nisr/2009/92
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-03-10'
+text_date: '2013-10-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/92
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/92/pdfs/nisr_20090092_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/92/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009
+
+> Text as at 2013-10-29.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 92
+
+Housing; Rates; Social Security
+
+The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009
+
+Made
+
+10th March 2009
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(a) and (d), 123(1)(d) and (e), 129(2), 131, 132(3) and (4)(a) and (b), 132A(3) and (4)(a), 133(2)(e), (f), (i), (j) and (m) and 171(1) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 13A(2)(b) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Articles 6(5), 14(1), (4)(a) and (b) and 36(2) of, and paragraph 1(1) of Schedule 1 to the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], sections 15(1), (3), (4) and (6)(b) and 19(1) to (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00005] and sections 17, 25(2) and 28(2) of the Welfare Reform Act (Northern Ireland) 2007[^f00006].
+
+Regulations 6 and 7 are made with the consent of the Department of Finance and Personnel[^f00007]
+
+The Social Security Advisory Committee has agreed that proposals in respect of regulations 6 and 7 should not be referred to it[^f00008].
+
+In accordance with section 13A(2) of the Social Security Administration (Northern Ireland) Act 1992 the Department has consulted with such organisations representing qualifying lenders likely to be affected by regulation 3 as it considers appropriate.
+
+## 1. Citation, commencement and interpretation[^key-5e7a09bddf29dd809dddaa3cf239216f][^key-443cd2f6e95d2bdc00bf946c04c2273e]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 and, subject to paragraphs (2) to (4), shall come into operation on 6th April 2009.
+
+(2) This regulation and regulation 3 shall come into operation on 1st April 2009.
+
+(3) Regulations 2(5) and (12), 4(5) and (11)(b), 5(2), (3) and (4), 6(4) and (11), 7(3), (4) and (7) and 8(3)(b) and (8), in so far as they relate to a particular beneficiary, shall come into operation on the first day of the first benefit week to commence for that beneficiary on or after 6th April 2009.
+
+(4) Regulations 6(2)(b) and (9)(a) and (b) and 7(6) in so far as they relate to a particular beneficiary, shall come into operation—
+
+- (a) in relation to a case where rent is payable at intervals of a week or any multiple of a week, on 6th April 2009; and
+- (b) in relation to any other case, on 1st April 2009,
+
+immediately after Article 19(5) of, and Schedule 6 to, and Article 19(7) of, and Schedule 7 to, the Social Security Benefits Up-rating Order (Northern Ireland) 2009[^f00009] comes into operation.
+
+(5) In this regulation “benefit week” has the same meaning as in—
+
+- (a) regulation 2(1)[^f00010] of the Income Support (General) Regulations (Northern Ireland) 1987[^f00011], in so far as it relates to regulation 2(5) and (12);
+- (b) regulation 1(2)[^f00012] of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00013], in so far as it relates to regulation 4(5) and (11)(b);
+- (c) regulation 1(2) of the State Pension Credit Regulations (Northern Ireland) 2003[^f00014], in so far as it relates to regulation 5(2), (3) and (4);
+- (d) regulation 2(1) of the Housing Benefit Regulations (Northern Ireland) 2006[^f00015], in so far as it relates to regulation 6(4) and (11);
+- (e) regulation 2(1) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00016], in so far as it relates to regulation 7(3), (4) and (7);
+- (f) regulation 2(1) of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00017], in so far as it relates to regulation 8(3)(b) and (8).
+
+(6) The Interpretation Act (Northern Ireland) 1954[^f00018] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations
+
+(1)[^key-75ea1643f5aadde9321c94be4e80df67] The Income Support (General) Regulations (Northern Ireland) 1987 are amended in accordance with paragraphs (2) to (12).
+
+(2)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “attendance allowance” insert—
+
+  > - “basic rate”, where it relates to the rate of tax, has the same meaning as in the Income Tax Act 2007[^f00019] (see section 989 of that Act);
+
+  ; and
+- (b) omit the definition of “starting rate”[^f00020].
+
+(3)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 4ZA[^f00021] (prescribed categories of person) in paragraph (3)(b) after “12” insert “, 15A,”.
+
+(4)[^key-75ea1643f5aadde9321c94be4e80df67] Omit regulation 21(1A)[^f00022] (special cases).
+
+(5)[^key-e9d89a5263b8504cbcd81ea7fc55b092] For regulation 30(2A)[^f00023] (calculation of earnings of self-employed earners) substitute—
+
+> (2A) This paragraph applies to—
+>
+> - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
+> - (b) any payment in respect of any—
+>   - (i) book registered under the Public Lending Right Scheme 1982[^f00024], or
+>   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982,
+>
+> where the claimant is the first owner of the copyright, design, patent or trade mark, or an original contributor to the book or work concerned.
+
+.
+
+(6)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 39(1)[^f00025] (deduction of tax and contributions for self-employed earners) and in regulation 42(8)(a)[^f00026] (notional income)—
+
+- (a) omit “the starting rate or, as the case may be, the starting rate and”; and
+- (b) for “starting rate” substitute “basic rate”.
+
+(7)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 39D[^f00027] deduction in respect of tax for participants in the self-employment route)—
+
+- (a) in paragraph (1)(c) omit “the starting rate of tax or, as the case may be, the starting rate and”; and
+- (b) in paragraph (2) for “starting rate” substitute “basic rate”.
+
+(8)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 61(1)[^f00028] (interpretation)—
+
+- (a) for the definition of “contribution”[^f00029] substitute—
+
+  > - “contribution” means—
+  >   - (a) any contribution in respect of the income of a student or any person which the Department, the Scottish Ministers or an education authority takes into account in ascertaining the amount of a student’s grant or student loan; or
+  >   - (b) any sums, which in determining the amount of a student’s allowance or bursary in Scotland under the Education (Scotland) Act 1980[^f00030], the Scottish Ministers or education authority takes into account being sums which the Scottish Ministers or education authority considers that it is reasonable for the following persons to contribute towards the holder’s expenses—
+  >     - (i) the holder of the allowance or bursary;
+  >     - (ii) the holder’s parents;
+  >     - (iii) the holder’s parent’s spouse, civil partner or a person ordinarily living with the holder’s parent as if he were the spouse or civil partner of that parent, or
+  >     - (iv) the holder’s spouse or civil partner;
+
+  ;
+- (b) in the definition of “grant income”[^f00031] in paragraph (c) for “or 12 of Schedule 1B (lone parent or disabled student) applies” substitute “, 12 or 15A of Schedule 1B applies (lone parent, disabled student or persons in education)”.
+
+(9)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 62(2) (calculation of grant income), after sub-paragraph (j)[^f00032] add—
+
+> - (k) of higher education bursary for care leavers made under Part III of the Children Act 1989[^f00033].
+
+.
+
+(10)[^key-75ea1643f5aadde9321c94be4e80df67] In regulation 66A(4)(a)(ii) (treatment of student loans) for “or 12 of Schedule 1B applies (lone parent or disabled student)” substitute “, 12 or 15A of Schedule 1B applies (lone parent, disabled student or persons in education)”.
+
+(11)[^key-75ea1643f5aadde9321c94be4e80df67] In Schedule 1B[^f00034] (prescribed categories of person)—
+
+- (a) in paragraph 3(a) before “ill” insert “temporarily”; and
+- (b) after paragraph 15[^f00035] (persons in education) insert—
+
+  > **15A. Circumstances in which a person in education will be treated as not being a member of a household**
+  >
+  > (1) A person is subject to this regulation if they fulfil the conditions in sub-paragraphs (2) to (5).
+  >
+  > (2) The first condition is that he is under the age of 21.
+  >
+  > (3) The second condition is that he is undertaking a course of full-time, non-advanced education.
+  >
+  > (4) The third condition is that he was accepted to attend, enrolled on, or began the course before attaining the age of 19.
+  >
+  > (5) The fourth condition is that—
+  >
+  > - (a) he has no parent;
+  > - (b) of necessity he has to live away from his parents because—
+  >   - (i) he is estranged from them;
+  >   - (ii) he is in physical or moral danger, or
+  >   - (iii) there is a serious risk to his physical or mental health; or
+  > - (c) he is living away from his parents where they are unable financially to support him and are—
+  >   - (i) chronically sick or mentally or physically disabled;
+  >   - (ii) detained in custody pending trial or sentence upon conviction or under a sentence imposed by a court, or
+  >   - (iii) prohibited from entering or re-entering Northern Ireland.
+  >
+  > (6) In this paragraph—
+  >
+  > - “chronically sick or mentally or physically disabled” has the meaning given in regulation 13(3)(b);
+  > - “course of full-time, non-advanced education” means education of a kind referred to in regulation 3(2)(a) or (b) of the Child Benefit (General) Regulations 2006[^f00036];
+  > - “parent” includes a person acting in place of a parent which—
+  >   - (a) for the purposes of sub-paragraph (5)(a) and (b) has the meaning given in regulation 13(3)(a)(i), and
+  >   - (b) for the purposes of sub-paragraph (5)(c), has the meaning given in regulation 13(3)(a)(ii).
+
+  .
+
+(12)[^key-e9d89a5263b8504cbcd81ea7fc55b092] In Schedule 10 (capital to be disregarded) after paragraph 39[^f00037] insert—
+
+> **39A.** Any payment made under Part 8A of the Contributions and Benefits Act[^f00038] (entitlement to health in pregnancy grant).
+
+.
+
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-31548603a1d68ef3da5df58e0d0a7862]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Jobseeker’s Allowance Regulations
+
+(1)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 are amended in accordance with paragraphs (2) to (11).
+
+(2)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In regulation 1(2) (citation, commencement and interpretation)—
+
+- (a) before the definition of “ the benefit Acts”[^f00040] insert—
+
+  > - “basic rate”, where it relates to the rate of tax, has the same meaning as in the Income Tax Act 2007 (see section 989 of that Act);
+
+  ; and
+- (b) omit the definition of “starting rate”[^f00041].
+
+(3)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In regulation 51(2) (remunerative work) omit sub-paragraph (c).
+
+(4)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] Omit regulation 85(2) (special cases).
+
+(5)[^key-25b296e0dbeb5a0225740bb0b4bc4029] For regulation 95(2A)[^f00042] (calculation of earnings of self-employed earners) substitute—
+
+> (2A) This paragraph applies to—
+>
+> - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
+> - (b) any payment in respect of any —
+>   - (i) book registered under the Public Lending Right Scheme 1982, or
+>   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982,
+>
+> where the claimant is the first owner of the copyright, design, patent or trade mark, or an original contributor to the book or work concerned.
+
+.
+
+(6)[^key-f78fbaa0ec4cad463a6524cbdb47f63c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In regulation 102D[^f00045] (deduction in respect of tax for participants in the self-employment route)—
+
+- (a)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] in paragraph (1)(c) omit “the starting rate of tax or, as the case may be, the starting rate and”; and
+- (b)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] in paragraph (2) for “starting rate” substitute “basic rate”.
+
+(8)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In regulation 130 (interpretation) for the definition of “contribution”[^f00046] substitute—
+
+> - “contribution” means—
+>   - (a) any contribution in respect of the income of a student or any person which the Department, the Scottish Ministers or an education authority takes into account in ascertaining the amount of a student’s grant or student loan; or
+>   - (b) any sums, which in determining the amount of a student’s allowance or bursary in Scotland under the Education (Scotland) Act 1980, the Scottish Ministers or education authority takes into account being sums which the Scottish Ministers or education authority consider that it is reasonable for the following persons to contribute towards the holder’s expenses—
+>     - (i) the holder of the allowance or bursary;
+>     - (ii) the holder’s parents;
+>     - (iii) the holder’s parent’s spouse, civil partner or a person ordinarily living with the holder’s parent as if he were the spouse or civil partner of that parent, or
+>     - (iv) the holder’s spouse or civil partner;
+
+.
+
+(9)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In regulation 131(2) (calculation of grant income) after sub-paragraph (i)[^f00047] add—
+
+> - (j) of higher education bursary for care leavers made under Part III of the Children Act 1989.
+
+.
+
+(10)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In regulation 163(4)(c)[^f00048] (calculation of earnings) in added paragraph (4) for “starting rate” substitute “basic rate”.
+
+(11)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] In Schedule 7 (capital to be disregarded)—
+
+- (a)[^key-d3b6ac4344af342eecbdbfeeaf5b8f65] in paragraph 12(1)(b)[^f00049] after “ Benefits Act” insert “, child tax credit or working tax credit” and
+- (b)[^key-25b296e0dbeb5a0225740bb0b4bc4029] after paragraph 37[^f00050] insert—
+
+  > **37A.** Any payment made under Part 8A of the Benefits Act (entitlement to health in pregnancy grant).
+
+  .
+
+## 5. Amendment of the State Pension Credit Regulations[^key-e700fa96dc1ee545ef37f74beb173843]
+
+(1)[^key-e700fa96dc1ee545ef37f74beb173843] The State Pension Credit Regulations (Northern Ireland) 2003 are amended in accordance with paragraphs (2) to (4).
+
+(2)[^key-b1f1abdac3d1723ad4d329df1ba46973] In regulation 15(5) (income for the purposes of the Act)—
+
+- (a) for sub-paragraph (f)[^f00051] substitute—
+
+  > - (f) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+
+  ;
+- (b) for sub-paragraph (g) substitute—
+
+  > - (g) any payment in respect of any—
+  >   - (i) book registered under the Public Lending Right Scheme 1982, or
+  >   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982;
+
+  .
+
+(3)[^key-b1f1abdac3d1723ad4d329df1ba46973] In regulation 17 (calculation of weekly income)—
+
+- (a) for paragraph (5)(a) substitute—
+
+  > - (a) royalties or other sums received as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+
+  ;
+- (b) for paragraph (5)(b) substitute—
+
+  > - (b) any payment in respect of any—
+  >   - (i) book registered under the Public Lending Right Scheme 1982; or
+  >   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982, and;
+
+  ; and
+- (c) for paragraph (9)(b) substitute—
+
+  > - (b) any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
+
+  .
+
+(4)[^key-b1f1abdac3d1723ad4d329df1ba46973] In Schedule 5 (income from capital) after paragraph 23A[^f00052] insert—
+
+> **23B.** Any payment made under Part 8A of the Contributions and Benefits Act (entitlement to health in pregnancy grant).
+
+.
+
+## 6. Amendment of the Housing Benefit Regulations[^key-072c4710607ddce6bfc184636e20381b][^key-1e93d631dbede7060b5c4c76038b948c][^key-072c4710607ddce6bfc184636e20381b]
+
+(1)[^key-2ba4b2fb598913a864e8e92e531beb0e] The Housing Benefit Regulations (Northern Ireland) 2006 are amended in accordance with paragraphs (2) to (11).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a)[^key-2ba4b2fb598913a864e8e92e531beb0e] after the definition of “attendance allowance” insert—
+
+  > - “basic rate”, where it relates to the rate of tax, has the same meaning as in the Income Tax Act 2007[^f00053] (see section 989 of that Act);
+
+  ;
+- (b)[^key-072c4710607ddce6bfc184636e20381b][^key-1e93d631dbede7060b5c4c76038b948c] in the definition of “main phase employment and support allowance”[^f00054] after “Act” insert “except in Part I of Schedule 4”; and
+- (c)[^key-2ba4b2fb598913a864e8e92e531beb0e] omit the definition of “starting rate”[^f00055].
+
+(3)[^key-2ba4b2fb598913a864e8e92e531beb0e] In regulation 33(6)(a)[^f00056] (calculation of net earnings of employed earners), regulation 36(1)[^f00057] (deduction of tax and contributions of self-employed earners) and regulation 39(12)(a)[^f00058] (notional income)—
+
+- (a) omit “the starting rate or, as the case may be, the starting rate and”; and
+- (b) “starting rate” substitute “basic rate”.
+
+(4)[^key-98e61be1dd97a87e4d718db0b11e4303] In regulation 34 (earnings of self-employed earners) for paragraph (3)[^f00059] substitute—
+
+> (3) This paragraph applies to—
+>
+> - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
+> - (b) any payment in respect of any—
+>   - (i) book registered under the Public Lending Right Scheme 1982[^f00060], or
+>   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982,
+>
+> where the claimant is the first owner of the copyright, design, patent or trade mark, or an original contributor to the book or work concerned.
+
+.
+
+(5)[^key-2ba4b2fb598913a864e8e92e531beb0e] In regulation 50(1) (interpretation)—
+
+- (a) for the definition of “contribution”[^f00061] substitute—
+
+  > - “contribution” means—
+  >   - (a) any contribution in respect of the income of a student or any person which the Department, the Scottish Ministers or an education authority takes into account in ascertaining the amount of a student’s grant or student loan; or
+  >   - (b) any sums, which in determining the amount of a student’s allowance or bursary in Scotland under the Education (Scotland) Act 1980, the Scottish Ministers or education authority takes into account being sums which the Scottish Ministers or education authority considers that it is reasonable for the following persons to contribute towards the holder’s expenses—
+  >     - (i) the holder of the allowance or bursary;
+  >     - (ii) the holder’s parents;
+  >     - (iii) the holder’s parent’s spouse, civil partner or a person ordinarily living with the holder’s parent as if he were the spouse or civil partner of that parent, or
+  >     - (iv) the holder’s spouse or civil partner;
+
+  ; and
+- (b) in the definition of “period of study”—
+  - (i) for paragraph (b)(i) substitute—
+
+    > - (i) the day before the start of the next year of the course in a case where the student’s grant or loan is assessed at a rate appropriate to his studying throughout the year or, if he does not have a grant or loan, where a loan would have been assessed at such a rate had he had one, or
+
+    , and
+  - (ii) in paragraph (b)(ii) for “recognised” substitute “normal”.
+
+(6)[^key-4377099e52e9f59cc542cc1daec76477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-2ba4b2fb598913a864e8e92e531beb0e] In regulation 56(2) (calculation of grant income) after sub-paragraph (h) add—
+
+> - (i) of higher education bursary for care leavers made under Part III of the Children Act 1989[^f00062].
+
+.
+
+(8)[^key-2ba4b2fb598913a864e8e92e531beb0e] In regulation 60 (other amounts to be disregarded) omit paragraph (2)[^f00063].
+
+(9) In Schedule 4 (applicable amounts)—
+
+- (a)[^key-49f2fac113dfe66fa82352e95d3908c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-072c4710607ddce6bfc184636e20381b][^key-1e93d631dbede7060b5c4c76038b948c] in paragraph 3(4)—
+  - (i) in head (c) for “continued to be entitled to one or other of those benefits” substitute “continuously, since that date, been entitled to income support, an income-based jobseeker’s allowance or an income-related employment and support allowance or a combination of those benefits”;
+  - (ii) in head (d) for “either of those benefits” substitute “income support, an income-based jobseeker’s allowance or an income-related employment and support allowance”, and
+  - (iii) in head (e)[^f00066] after “12” insert “or a component under paragraph 23 or 24”; and
+- (c)[^key-2ba4b2fb598913a864e8e92e531beb0e] in paragraph 14(2)(b) for “and either a person is entitled to or” substitute “and either a person is entitled to and”.
+
+(10)[^key-2ba4b2fb598913a864e8e92e531beb0e] In Schedule 5 (sums to be disregarded in the calculation of earnings)—
+
+- (a) after paragraph 2[^f00067] insert—
+
+  > **2A.** In the case of a claimant who has been engaged in remunerative work or part-time employment as a self-employed earner or, had the employment been in Northern Ireland would have been so engaged and who has ceased to be so employed, from the date of the cessation of his employment any earnings derived from that employment except earnings to which regulation 34(3) and (4) applies.
+
+  ; and
+- (b) in paragraph 17(2)(b)(iv)(bb)[^f00068] for “conditions for the,” substitute “conditions for”.
+
+(11)[^key-98e61be1dd97a87e4d718db0b11e4303] In Schedule 7 (capital to be disregarded) after paragraph 42[^f00069] insert—
+
+> **42A.** Any payment made under Part 8A of the Act[^f00070] (entitlement to health in pregnancy grant).
+
+;
+
+## 7. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-d23b8778737651de707a13765ec019b8][^key-730f36911af6d71fae8c55bf43da65bc][^key-c4ffff520c30699e58a92903c5790dc9][^key-730f36911af6d71fae8c55bf43da65bc]
+
+(1)[^key-d23b8778737651de707a13765ec019b8] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 are amended in accordance with paragraphs (2) to (7).
+
+(2)[^key-d23b8778737651de707a13765ec019b8] In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “attendance allowance” insert—
+
+  > - “basic rate”, where it relates to the rate of tax, has the same meaning as in the Income Tax Act 2007 (see section 989 of that Act);
+
+  ; and
+- (b) omit the definition of “starting rate”[^f00071].
+
+(3)[^key-a58021ba98bd734b3fcfc7e4308a3669] In regulation 27(1) (meaning of “income”) for sub-paragraphs (o) and (p) substitute—
+
+> - (o) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+> - (p) any payment in respect of any—
+>   - (i) book registered under the Public Lending Right Scheme 1982, or
+>   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982;
+
+.
+
+(4)[^key-a58021ba98bd734b3fcfc7e4308a3669] In regulation 31 (calculation of weekly income)—
+
+- (a) in paragraph (5) for sub-paragraphs (a) and (b) substitute—
+
+  > - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+  > - (b) any payment in respect of any—
+  >   - (i) book registered under the Public Lending Right Scheme 1982; or
+  >   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982; and
+
+  ;
+- (b) for paragraph (8)(b) substitute—
+
+  > - (b) any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
+
+  ; and
+- (c) after paragraph (8) insert—
+
+  > (8A) For the purpose of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
+
+  .
+
+(5)[^key-d23b8778737651de707a13765ec019b8] In regulation 34(5)(a)[^f00072] (calculation of net earnings of employed earners) and regulation 38(1)[^f00073] (deduction of tax and contributions of self-employed earners)—
+
+- (a) omit “the starting rate or, as the case may be, the starting rate and”; and
+- (b) for “starting rate” substitute “basic rate”.
+
+(6)[^key-730f36911af6d71fae8c55bf43da65bc][^key-c4ffff520c30699e58a92903c5790dc9] In Schedule 5 (sums disregarded from claimant’s earnings) in paragraph 5(1) after head (c) add—
+
+> or
+>
+> - (d) has, or is to be treated as having, limited capability for work within the meaning of section 1(4) of the Welfare Reform Act or limited capability for work-related activity within the meaning of section 2(5) of that Act and either—
+>   - (i) the assessment phase as defined in section 24(2) of the Welfare Reform Act has ended, or
+>   - (ii) regulation 7 of the Employment and Support Allowance Regulations (circumstances where the condition that the assessment phase has ended before entitlement to the support component or the work-related activity component arises does not apply) applies.
+
+.
+
+(7)[^key-a58021ba98bd734b3fcfc7e4308a3669] In Schedule 7 (capital to be disregarded) after paragraph 28A[^f00074] insert—
+
+> **28B.** Any payment made under Part 8A of the Act (entitlement to health in pregnancy grant).
+
+.
+
+## 8. Amendment of the Employment and Support Allowance Regulations[^key-7abaabbe24a9940f2028948954626377]
+
+(1)[^key-7abaabbe24a9940f2028948954626377] The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs (2) to (8).
+
+(2)[^key-7abaabbe24a9940f2028948954626377] In regulation 91(2)(c) (calculation of earnings derived from employed earner’s employment and income other than earnings) for “income-related” substitute “employment and support”.
+
+(3) In regulation 92 (calculation of earnings of self-employed earners)—
+
+- (a)[^key-7abaabbe24a9940f2028948954626377] for paragraph (2) substitute—
+
+  > (2) Where the claimant’s earnings consist of any items to which paragraph (2A) applies those earnings shall be taken into account over a period equal to such number of weeks as is equal to the number obtained (and any fraction shall be treated as a corresponding fraction of a week) by dividing the earnings by the amount of employment and support allowance which would be payable had the payment not been made plus an amount equal to the total of the sums which would fall to be disregarded from the payment under Schedule 7 (earnings to be disregarded) as is appropriate in the claimant’s case.
+
+  ; and
+- (b)[^key-0c4ad7a2832c86aef46a63bc6019608a] after paragraph (2) insert—
+
+  > (2A) This paragraph applies to—
+  >
+  > - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
+  > - (b) any payment in respect of any—
+  >   - (i) book registered under the Public Lending Right Scheme 1982, or
+  >   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982,
+  >
+  > where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work concerned.
+
+  .
+
+(4)[^key-939b1eed6d11fad4fe13facf2240b013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-7abaabbe24a9940f2028948954626377] In regulation 94(1) (calculation of weekly amount of income) for sub-paragraph (b)(iii) substitute—
+
+> - (iii) in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7,
+> - (iiia) in a case where that period is a year and the payment is income other than an award of working tax credit, by dividing the amount of the payment by 52,
+
+.
+
+(6)[^key-7abaabbe24a9940f2028948954626377] In regulation 131(1) (interpretation) for the definition of “contribution” substitute—
+
+> - “contribution” means—
+>   - (a) any contribution in respect of the income of a student or any person which the Department, the Scottish Ministers or an education authority takes into account in ascertaining the amount of a student’s grant or student loan; or
+>   - (b) any sums, which in determining the amount of a student’s allowance or bursary in Scotland under the Education (Scotland) Act 1980[^f00076], the Scottish Ministers or education authority takes into account being sums which the Scottish Ministers or education authority considers that it is reasonable for the following persons to contribute towards the holder’s expenses—
+>     - (i) the holder of the allowance or bursary,
+>     - (ii) the holder’s parents,
+>     - (iii) the holder’s parent’s spouse, civil partner or a person ordinarily living with the holder’s parent as if he were the spouse or civil partner of that parent, or
+>     - (iv) the holder’s spouse or civil partner;
+
+.
+
+(7)[^key-7abaabbe24a9940f2028948954626377] In regulation 132(2) (calculation of grant income), after sub-paragraph (i) add—
+
+> - (j) of higher education bursary for care leavers made under Part III of the Children Act 1989.
+
+.
+
+(8)[^key-0c4ad7a2832c86aef46a63bc6019608a] In Schedule 9 (capital to be disregarded) after paragraph 38 add—
+
+> **38A.** Any payment made under Part 8A of the Contributions and Benefits Act (entitlement to health in pregnancy grant).
+
+.
+
+## 9. Revocations[^key-76f6028fdc37abfae90d1b6cf70f6e87]
+
+The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 10th March 2009
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the Department for Social Development
+
+The Department of Finance and Personnel consents to regulations 6 and 7.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 11th March 2009
+
+(L.S.)
+
+Adrian Arbuthnot
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE — Revocations[^key-2a1d23f1866335798301b018fe076f51]
+
+Regulation 9
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Income Support (General) (Amendment No. 2) Regulations (Northern Ireland) 1991</td><td><a href="https://www.legislation.gov.uk/nisr/1991/170">S.R. 1991 No. 170</a></td><td>Regulation 3</td></tr>
+<tr><td>The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998</td><td><a href="https://www.legislation.gov.uk/nisr/1998/81">S.R. 1998 No. 81</a></td><td>Regulation 3(1) and (2)</td></tr>
+<tr><td>The Social Security (Students Amendments) Regulations (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/317">S.R. 1999 No. 317</a></td><td>Regulations 2(2)(a) and 3(2)(a)</td></tr>
+<tr><td>The Social Security (Students and Income-Related Benefits Amendment) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/278">S.R. 2001 No. 278</a></td><td>Regulation 2(1)(c)</td></tr>
+<tr><td>The State Pension Credit (Transitional and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/421">S.R. 2003 No. 421</a></td><td>Regulation 2(7)(a)</td></tr>
+<tr><td>The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/536">S.R. 2005 No. 536</a></td><td>Paragraphs 12(5) and 23(7) of Schedule 3</td></tr>
+<tr><td>The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/396">S.R. 2007 No. 396</a></td><td>Regulations 4(2)(c), (7) (8) and (9)(c), 7(2)(c), (8), (9), (10)(b) and (12), 9(2)(b), (5), (6) and (7)(c) and 10(2)(b), (4) and (5)</td></tr>
+<tr><td>The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/128">S.R. 2007 No. 128</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/112">S.R. 2008 No. 112</a></td><td>Regulations 2(6)(b) and 4(10)(b</td></tr>
+<tr><td>The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/179">S.R. 2008 No. 179</a></td><td>Regulation 3(7)</td></tr>
+<tr><td>The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/428">S.R. 2008 No. 428</a></td><td>Regulations 2(6)(a) and 6(4)(a)</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend—
+
+- the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”);
+- the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (“the Claims and Payments Regulations”);
+- the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”);
+- the Housing Benefit Regulations (Northern Ireland) 2006 (“the Housing Benefit Regulations”);
+- the Housing Benefit Regulations (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (“the Housing Benefit State Pension Credit Regulations”);
+- the State Pension Credit Regulations (Northern Ireland) 2003 (the State Pension Credit Regulations), and
+- the Employment and Support Allowance Regulations (Northern Ireland) 2008, (“the Employment and Support Allowance Regulations”).
+
+Regulation 2 amends the Income Support Regulations to—
+
+- remove a reference to residential care and nursing home charges which are no longer made by the Department; and
+- clarify that a person will fall within the prescribed category of persons who can claim income support when they are temporarily looking after a child because of the “temporary” illness of the usual carer.
+
+Regulation 3 amends paragraph 6 of Schedule 8B to the Claims and Payments Regulations by increasing from £0∙47 to £0∙55 the fee which qualifying lenders pay for the purpose of defraying administrative expenses incurred by the Department for Social Development in making payments in respect of mortgage interest direct to those lenders.
+
+Regulations 2, 4, 6 and 7 amend the Income Support Regulations, the Jobseeker’s Allowance Regulations, the Housing Benefit Regulations and the Housing Benefit State Pension Credit Regulations so as to remove obsolete references to “starting rate” of taxation, and where appropriate to replace it with reference to “basic rate”.
+
+Regulations 2, 4, 6, and 8 amend the Income Support Regulations, the Jobseeker’s Allowance Regulations, the Housing Benefit Regulations and the Employment and Support Allowance Regulations to:
+
+- amend the definition of “contribution” to include, where appropriate, the income of a parent’s partner to the list of persons who may be considered as eligible to make a financial contribution to a student; and
+- provide for a disregard for the payment of the higher education bursary for care leavers when calculating student grant income.
+
+Regulation 2 and 6 amend the Income Support Regulations and the Housing Benefit Regulations to change the eligibility criteria for these benefits for students in full-time, non-advanced education.
+
+Regulations 2 and 4 to 8 amend the Income Support Regulations, the Jobseeker’s Allowance Regulations, the State Pension Credit Regulations, the Housing Benefit Regulations, the Housing Benefit State Pension Credit Regulations and the Employment and Support Allowance Regulations to—
+
+- add references to design, patent and trade mark rights to the provisions relating to the treatment of royalties payments; and
+- add a reference to foreign public lending right scheme payments in provisions relating to the treatment of United Kingdom public lending scheme payments.
+
+Regulations 2, 4 and 6 to 8 provide that the health in pregnancy grant is disregarded when assessing the capital of a claimant or a claimant’s partner.
+
+Regulation 4 amends the Jobseeker’s Allowance Regulations to remove a provision that treated someone who worked on an annual contract at an educational establishment, but not during the summer holiday period, as being in paid employment for the whole year.
+
+Regulations 6 and 7 amend the Housing Benefit Regulations and the Housing Benefit State Pension Credit Regulations, clarifying that entitlement to those benefits will include certain people who qualify for income support, an income-based jobseeker’s allowance, an income-related employment and support allowance or a combination of those benefits.
+
+Regulation 6 amends the Housing Benefit Regulations to—
+
+- change the definition for “period of study” to align it with the provisions of other income related benefit legislation;
+- remove obsolete provisions relating to free school meals and school meals grants;
+- align the category of a “severely disabled claimant” for the purposes of calculating applicable amounts with that used across other income related benefits legislation;
+- extend the definition of “main phase employment and support allowance” to provide that a person aged less than 25 who qualifies for main phase employment and support allowance but has a nil award because of insufficient National Insurance contributions, will get the over 25 rate basic rate of housing benefit; and
+- ensure that the provisions for awarding an additional amount appropriate to lone parents will also apply to a lone parent who is claiming employment and support allowance.
+
+Regulation 7 amends the Housing Benefit State Pension Credit Regulations to ensure that the treatment of a royalties payment is restricted to specified circumstances, so that the treatment is consistent with other income related-benefits legislation. It also corrects an omission to ensure that a housing benefit claimant aged 60 or over who qualifies for main phase employment and support allowance but has a nil award because of insufficient National Insurance contributions, is entitled to the £20 weekly earnings disregard, as is the case for a counterpart actually receiving contribution-based employment and support allowance.
+
+Regulation 8 amends the Employment and Support Allowance Regulations to—
+
+- provide that payment of working tax credit during the last 4 week period of eligibility for those credits is disregarded when assessing eligibility to employment and support allowance; and
+- clarify how working tax credit paid during a year should be calculated.
+
+In so far as these Regulations are required, for the purposes of regulations 6 and 7, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, that Act, are not subject to the requirement of section 149(2) for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(d) was substituted by paragraph 13(4) and section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)), section 129(2) was amended by Article 8 of the Housing Support Services (Northern Ireland) Order ([S.I. 2002/3154 (N.I. 8)](https://www.legislation.gov.uk/nisi/2002/3154), section 132A was inserted by paragraph 3 of Schedule 2 to the [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14) and section 171 was amended by paragraph 5 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and paragraph 28(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 13A was inserted by paragraph 1 of the Schedule to the Social Security (Mortgage Interest Payments) (Northern Ireland) Order 1992 ([S.I. 1992/1309 (N.I. 9)](https://www.legislation.gov.uk/nisi/1992/1309)) and amended by paragraph 23 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995, paragraph 9 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002, Article 18 of [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and paragraph 109 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 36(2) was amended by paragraph 55 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00005]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^f00006]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^f00007]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00008]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-5e7a09bddf29dd809dddaa3cf239216f]: Commencement: Reg. 1 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^key-443cd2f6e95d2bdc00bf946c04c2273e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/92/regulation/1) in operation at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/2)
+
+[^f00009]: Footnote: [S.R. 2009 No. 89](https://www.legislation.gov.uk/nisr/2009/89)
+
+[^f00010]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1991 No. 170](https://www.legislation.gov.uk/nisr/1991/170) , [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412), [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241), [S.R. 2001 Nos. 151](https://www.legislation.gov.uk/nisr/2001/151) and [278](https://www.legislation.gov.uk/nisr/2001/278), [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128), [S.R. 2007 Nos. 306](https://www.legislation.gov.uk/nisr/2007/306) and [396](https://www.legislation.gov.uk/nisr/2007/396), [S.R. 2008 Nos.112](https://www.legislation.gov.uk/nisr/2008/112), [428](https://www.legislation.gov.uk/nisr/2008/428) and [498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00012]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), regulation 2(2)(a) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503) and regulation 13(2) of [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359)
+
+[^f00013]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R.1996 Nos. 358](https://www.legislation.gov.uk/nisr/1996/358) and [503](https://www.legislation.gov.uk/nisr/1996/503), [S.R 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278), [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359), [S.R. 2007 Nos. 306](https://www.legislation.gov.uk/nisr/2007/306) and [396](https://www.legislation.gov.uk/nisr/2007/396), [S.R. 2008 Nos. 112](https://www.legislation.gov.uk/nisr/2008/112), [286](https://www.legislation.gov.uk/nisr/2008/286) and [498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00014]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [421](https://www.legislation.gov.uk/nisr/2003/421), [S.R. 2004 No. 110](https://www.legislation.gov.uk/nisr/2004/110) and [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00015]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405) relevant amending Regulations are [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396), [S.R. 2008 Nos. 112](https://www.legislation.gov.uk/nisr/2008/112), [179](https://www.legislation.gov.uk/nisr/2008/179), [378](https://www.legislation.gov.uk/nisr/2008/378) and [428](https://www.legislation.gov.uk/nisr/2008/428) and [S.R. 2009 No. 89](https://www.legislation.gov.uk/nisr/2009/89)
+
+[^f00016]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396) and [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00017]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); to which there are amendments not relevant to these Regulations
+
+[^f00018]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-75ea1643f5aadde9321c94be4e80df67]: Commencement: [Reg. 2(1)-(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/2/1), [(6)-(11)](https://www.legislation.gov.uk/nisr/2009/92/regulation/2/6) in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^f00019]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3)
+
+[^f00020]: Footnote: The definition of “starting rate” was inserted by regulation 4(2)(c) of S.R .[2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00021]: Footnote: Regulation 4ZA was inserted by regulation 4 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00022]: Footnote: Paragraph (1A) was inserted by regulation 3 of S R. [1991 No. 170](https://www.legislation.gov.uk/nisr/1991/170)
+
+[^key-e9d89a5263b8504cbcd81ea7fc55b092]: Commencement: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/92/regulation/2/5)[(12)](https://www.legislation.gov.uk/nisr/2009/92/regulation/2/12) coming into operation in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3)
+
+[^f00023]: Footnote: Paragraph (2A) was inserted by regulation 2(6)(b) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112)
+
+[^f00024]: Footnote: The Scheme is set out in the appendix to [S.I. 1982/719](https://www.legislation.gov.uk/uksi/1982/719)
+
+[^f00025]: Footnote: Paragraph (1) was amended by regulation 4(7) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), regulation 2(8) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), regulation 3(4) of [S.R 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306) and regulation 4(7) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00026]: Footnote: Paragraph (8)(a) was amended by regulation 4(8)(a) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), regulation 2(8) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), regulation 3(6)(f) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306) and regulation 4(9)(c) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00027]: Footnote: Regulation 39D was inserted by regulation 3(3) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182) and amended by regulation 14(3)(c) of [S.R. 2001 No. 151](https://www.legislation.gov.uk/nisr/2001/151); paragraph 1(c) was amended by regulation 4(8) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396) and paragraph (2) was amended by regulation 3(5)(b) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306) and regulation 4(8) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00028]: Footnote: Regulation 61 was renumbered as regulation 61(1) by regulation 3(3) of [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241)
+
+[^f00029]: Footnote: The definition of “contribution” was substituted by regulation 5(8)(a) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405) and amended by regulation 3(1) and (2)(d) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), regulation 3(2)(a) of [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), regulation 2(1)(c) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278), paragraph 12(5) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and regulation 2(6)(a) of [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
+
+[^f00030]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44)
+
+[^f00031]: Footnote: The definition of “grant income” was amended by regulation 5(5) of [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^f00032]: Footnote: Sub-paragraph (j) was added by regulation 3(2)(b) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300)
+
+[^f00033]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41); Provision relating to higher education bursaries for care leavers was inserted into the Children Act 1989 by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23)
+
+[^f00034]: Footnote: Schedule 1B was inserted by regulation 22 of and Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00035]: Footnote: Paragraph 15 was amended by regulation 2(7)(a) of [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128)
+
+[^f00036]: Footnote: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223), as amended by regulations 2 and (4)(a) of [S.I. 2007/2150](https://www.legislation.gov.uk/uksi/2007/2150).
+
+[^f00037]: Footnote: Paragraph 39 was substituted by regulation 2(7)(d) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00038]: Footnote: *See* section 136A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by section 134 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14)
+
+[^key-31548603a1d68ef3da5df58e0d0a7862]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/92/regulation/3) revoked (12.4.2010) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2010 (S.R. 2010/81)](https://www.legislation.gov.uk/nisr/2010/81), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/81/regulation/1/b), [5](https://www.legislation.gov.uk/nisr/2010/81/regulation/5)
+
+[^key-d3b6ac4344af342eecbdbfeeaf5b8f65]: Commencement: [Reg. 4(1)-(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/4/1), [(6)-(11)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/4/6) in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^f00040]: Footnote: The definition of “the benefits Acts” was inserted by regulation 3(2)(a) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00041]: Footnote: The definition of “starting rate” was inserted by regulation 7(2)(c) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^key-25b296e0dbeb5a0225740bb0b4bc4029]: Commencement: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2009/92/regulation/4/5)[(11)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/4/11/b) coming into operation in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3)
+
+[^f00042]: Footnote: Paragraph 2A was inserted by regulation 4(10)(b) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112)
+
+[^key-f78fbaa0ec4cad463a6524cbdb47f63c]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/nisr/2009/92/regulation/4/6) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
+
+[^f00045]: Footnote: Regulation 102D was inserted by regulation 4(4) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182); paragraph (1)(c) and (2) were amended by regulation 4(3) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306) and regulation 7(9) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00046]: Footnote: The definition of “contribution” was amended by regulation 3(1) and (2)(e) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), regulation 2(2)(a) of [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), regulation 2(1)(c) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278) and paragraph 23(7) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
+
+[^f00047]: Footnote: Sub-paragraph (i) was added by regulation 3(3)(b) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300)
+
+[^f00048]: Footnote: Paragraph 4 was amended by regulation 7(12) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00049]: Footnote: Paragraph 12(1)(b) was amended by regulations 4(16)(a) and 7 of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), regulation 19(29)(a) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 3(7)(a) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00050]: Footnote: Paragraph 37 was substituted by regulation 3(7)(d) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^key-e700fa96dc1ee545ef37f74beb173843]: Commencement: Reg. 5(1) in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^key-b1f1abdac3d1723ad4d329df1ba46973]: Commencement: [Reg. 5(2)-(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/2) coming into operation in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3)
+
+[^f00051]: Footnote: Sub-paragraph (f) was amended by regulation 2(7)(a) of S. R. [2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
+
+[^f00052]: Footnote: Paragraph 23A was added by regulation 23(9)(c) of [S.R 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and renumbered by regulation 3(5) of [S.R. 2004 No. 110](https://www.legislation.gov.uk/nisr/2004/110)
+
+[^key-072c4710607ddce6bfc184636e20381b]: Commencement: Reg. 6(2)(b)(9)(a)(b) in operation at 1.4.2009 in so far as not already in operation, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/4/b)
+
+[^key-1e93d631dbede7060b5c4c76038b948c]: Commencement: Reg. 6(2)(b)(9)(a)(b) in operation at 6.4.2009 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/4/a)
+
+[^key-2ba4b2fb598913a864e8e92e531beb0e]: Commencement: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/2/a)[(c)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/2/c)[(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/3), [(5)-(8)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/5), [(9)(c)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/9/c)[(10)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/10) in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^f00053]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3)
+
+[^f00054]: Footnote: The definition of “main phase employment and support allowance” was inserted by regulation 3(2)(a)(viii) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00055]: Footnote: The definition of “starting rate” was inserted by regulation 9(2)(b) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00056]: Footnote: Regulation 33(6)(a) was amended by regulation 9(5) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00057]: Footnote: Regulation 36(1) was amended by regulation 9(6) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00058]: Footnote: Regulation 39(12(a) was amended by regulation 9(7)(c) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^key-98e61be1dd97a87e4d718db0b11e4303]: Commencement: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/4)[(11)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/11) coming into operation in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3)
+
+[^f00059]: Footnote: Paragraphs (3) and (4) were added by regulation 6(3) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112)
+
+[^f00060]: Footnote: The Scheme is set out in the appendix to [S.I. 1982/719](https://www.legislation.gov.uk/uksi/1982/719)
+
+[^f00061]: Footnote: The definition of “contribution” was amended by regulation 6(4)(a) of [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
+
+[^key-4377099e52e9f59cc542cc1daec76477]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/6) revoked (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2012/121/schedule)
+
+[^f00062]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); Provision relating to higher education bursaries for care leavers was inserted into the Children Act 1989 by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23)
+
+[^f00063]: Footnote: Paragraph (2) was amended by regulation 3(7) of [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179)
+
+[^key-49f2fac113dfe66fa82352e95d3908c6]: Textual amendment: [Reg. 6(9)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/9/a) revoked (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2011/136/regulation/6)
+
+[^f00066]: Footnote: Head (e) was amended by regulation 3(8)(a) of [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179)
+
+[^f00067]: Footnote: Paragraph (2) was amended by regulation 9(11)(b) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00068]: Footnote: Paragraph (bb) was amended by regulation 3(9)(b)(ii) of [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179) and regulation 3(18)(c)(ii) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00069]: Footnote: Paragraph 42 was substituted by regulation 5(6)(c) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^f00070]: Footnote: *See* section 136A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by section 134 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14)
+
+[^key-d23b8778737651de707a13765ec019b8]: Commencement: Reg. 7(1)(2)(5) in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^key-730f36911af6d71fae8c55bf43da65bc]: Commencement: [Reg. 7(6)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/6) in operation at 1.4.2009 in so far as not already in operation, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/4/b)
+
+[^key-c4ffff520c30699e58a92903c5790dc9]: Commencement: Reg. 7(6) in operation at 6.4.2009 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/4/a)
+
+[^f00071]: Footnote: The definition of “starting rate” was inserted by regulation 10(2)(b) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396).
+
+[^key-a58021ba98bd734b3fcfc7e4308a3669]: Commencement: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/3)[(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4)[(7)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/7) coming into operation in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3)
+
+[^f00072]: Footnote: Regulation 34(5)(a) was amended by regulation 10(4) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00073]: Footnote: Regulation 38(1) was amended by regulation 10(5) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
+
+[^f00074]: Footnote: Paragraph 28A was inserted by regulation 6(7)(c) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
+
+[^key-7abaabbe24a9940f2028948954626377]: Commencement: Reg. 8(1)(2)(3)(a)(4)-(7) in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^key-0c4ad7a2832c86aef46a63bc6019608a]: Commencement: [Reg. 8(3)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/3/b)[(8)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/8) coming into operation in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3)
+
+[^key-939b1eed6d11fad4fe13facf2240b013]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/4) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
+
+[^f00076]: Footnote: [1980 c. 4](https://www.legislation.gov.uk/ukpga/1980/4)
+
+[^key-76f6028fdc37abfae90d1b6cf70f6e87]: Commencement: Reg. 9 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)
+
+[^key-2a1d23f1866335798301b018fe076f51]: Commencement: Sch. in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1)

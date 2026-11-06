@@ -1,0 +1,45 @@
+---
+title: Adoption and Children Act (Northern Ireland) 2022, section 135
+act: Adoption and Children Act (Northern Ireland) 2022
+section: '135'
+status: not-yet-in-force
+text_date: '2024-11-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2022/18/section/135
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adoption and Children Act (Northern Ireland) 2022, section 135
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 135. Contact: children in care of authority[^key-1688e789eafd1b1fe3fe823a8c71e71d]
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Article 53 of the Children Order (parental contact etc. with children in care) is amended as follows.
+
+(2) In paragraph (1) after “subject to the provisions of this Article” insert “and the authority’s duty under Article 26(1)(a)”.
+
+(3) After paragraph (6) insert—
+
+> (6A) Where (by virtue of an order under this Article, or because paragraph (6) applies) an authority is authorised to refuse to allow contact between the child and a person who is mentioned in sub-paragraphs (a) to (c) of Article 29(1), Article 29(1) does not require the authority to endeavour to promote contact between the child and that person.
+
+.
+
+(4) In paragraph (8) before sub-paragraph (a) insert—
+
+> - (za) what an authority must have regard to in considering whether contact between a child and a person who is mentioned in any of sub-paragraphs (a) to (d) of paragraph (1) is consistent with safeguarding and promoting the child’s welfare;
+
+.
+
+(5) In paragraph (11) after the word “Before” insert “making, varying or discharging an order under this Article or”.
+
+## Annotations
+
+[^key-1688e789eafd1b1fe3fe823a8c71e71d]: Commencement: S. 135 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

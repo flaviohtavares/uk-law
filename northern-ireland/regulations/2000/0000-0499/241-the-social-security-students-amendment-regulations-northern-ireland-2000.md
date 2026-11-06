@@ -1,0 +1,296 @@
+---
+title: The Social Security (Students Amendment) Regulations (Northern Ireland) 2000
+id: nisr/2000/241
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-07-24'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/241
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/241/pdfs/nisr_20000241_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/241/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Students Amendment) Regulations (Northern Ireland) 2000
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Regulations made by the Department for Social Development and laid before the Assembly under Article 37(2) of the Jobseekers (Northern Ireland) Order 1995 for approval by resolution of the Assembly before the expiration of 6 months from the date of their coming into operation.
+
+2000 No. 241
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Students Amendment) Regulations (Northern Ireland) 2000
+
+Made
+
+24th July 2000
+
+Coming into operation
+
+31st July 2000
+
+The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(*a*) and (*d*), 123(1)(*e*), 131(1), 132(3) and (4)(*b*), 133(2)(i) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and Articles 2(2), 6(5), 8(2) and (4), 9(4), 14(1) and 4(*b*), 23, and 36(2) of, and paragraph 14 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 2 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-2b057b80975b359e0520d020d4fb3cbd]
+
+(1) These Regulations may be cited as the Social Security (Students Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 31st July 2000.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Housing Benefit Regulations[^key-656abc94020e27255792925020ee6891]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Income Support Regulations[^key-fac9873c11b07c73be1f08663b37a56a]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00012] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) for the definition of “course of study”, there shall be substituted the following definition—
+
+  > - “course of study” means any course of study, whether or not it is a sandwich course (within the meaning prescribed in regulation 61(1)) and whether or not a grant is made for attending or undertaking it;
+
+  ;
+- (b) after the definition of “employment”[^f00013] there shall be inserted the following definition—
+
+  > - “full-time student” has the meaning prescribed in regulation 61(1);
+
+  ;
+- (c) for the definition of “last day of the course”[^f00014], there shall be substituted the following definition—
+
+  > - “last day of the course” has the meaning prescribed in regulation 61(1);
+
+  ;
+- (d) for the definition of “period of study”[^f00015] there shall be substituted the following definition—
+
+  > - “period of study” means the period beginning on, and including, the date on which a person starts attending or undertaking a course of study and ending with the last day of the course or such earlier date (if any) as he finally abandons it or is dismissed from it;
+
+  ;
+- (e) the definition of “student” shall be omitted.
+
+(3) Regulation 61 (interpretation of Chapter VIII of Part V—students) shall be renumbered regulation 61(1) and in that renumbered paragraph—
+
+- (a) after the definition of “education authority” there shall be inserted the following definition—
+
+  > - “full-time student” means a person, who is—
+  >   - (a) aged less than 19 and is attending or undertaking a full-time course of advanced education;
+  >   - (b) aged 19 or over but under pensionable age and is attending or undertaking a full-time course of study at an educational establishment, or
+  >   - (c) on a sandwich course;
+
+  ;
+- (b) in the definition of “standard maintenance grant”[^f00016], in paragraph (*a*), after “attending” there shall be inserted “or undertaking”;
+- (c) for the definition of “student”[^f00017] there shall be substituted the following definition—
+
+  > - “student” means a person, other than a person in receipt of a training allowance who is attending or undertaking a course of study at an educational establishment;
+
+  .
+
+(4) After the renumbered regulation 61(1) there shall be added the following paragraphs—
+
+> (2) For the purposes of the definition of “full-time student” in paragraph (1), a person shall be regarded as attending or, as the case may be, undertaking a full-time course of study, a full-time course of advanced education or as being on a sandwich course—
+>
+> - (a) subject to paragraph (3), in the case of a person attending or undertaking a part of a modular course which would be a full-time course of study for the purposes of this Part, for the period beginning on, and including, the day on which that part of the course starts and ending—
+>   - (i) on the last day on which he is registered with the educational establishment as attending or undertaking that part as a full-time course of study, or
+>   - (ii) on such earlier date (if any) as he finally abandons the course or is dismissed from it;
+> - (b) in any other case, throughout the period beginning on, and including, the date on which he starts attending or undertaking the course and ending on the last day of the course or on such earlier date (if any) as he finally abandons it or is dismissed from it.
+>
+> (3) For the purposes of sub-paragraph (*a*) of paragraph (2), the period referred to in that sub-paragraph shall include—
+>
+> - (a) where a person has failed examinations or has failed to successfully complete a module relating to a period when he was attending or undertaking a part of the course as a full-time course of study, any period in respect of which he attends or undertakes the course for the purpose of retaking those examinations or that module;
+> - (b) any period of vacation within the period specified in that paragraph or immediately following that period except where the person has registered with the educational establishment to attend or undertake the final module in the course and the vacation immediately follows the last day on which he is required to attend or undertake the course.
+>
+> (4) In paragraph (2), “modular course” means a course of study which consists of two or more modules, the successful completion of a specified number of which is required before a person is considered by the educational establishment to have completed the course.
+
+.
+
+(5) In the provisions specified in the Schedule to these Regulations, for “student” there shall be substituted “full-time student”.
+
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-9365c48a92056440463a482302b9b973]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00018] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1—
+
+- (a) in paragraph (2) (interpretation) for the definition of “course of study” there shall be substituted the following definition—
+
+  > - “course of study” means any course of study, whether or not it is a sandwich course and whether or not a grant is made for attending or undertaking it;
+
+  ;
+- (b) after paragraph (2) there shall be inserted the following paragraphs—
+
+  > (2A) For the purposes of the definition of “full-time student” in paragraph (2) but subject to paragraph (2D), a person shall be regarded as attending or, as the case may be, undertaking a full-time course of study or as being on a sandwich course—
+  >
+  > - (a) subject to paragraph (2B), in the case of a person attending or undertaking a part of a modular course which would be a full-time course of study, for a period beginning on, and including, the day on which that part of the course starts and ending—
+  >   - (i) on the last day on which he is registered with the educational establishment as attending or undertaking that part as a full-time course of study, or
+  >   - (ii) on such earlier date (if any) as he finally abandons the course or is dismissed from it;
+  > - (b) in any other case, throughout the period beginning on, and including, the date on which he starts attending or undertaking the course and ending on the last day of the course or on such an earlier date (if any) as he finally abandons it or is dismissed from it.
+  >
+  > (2B) For the purposes of sub-paragraph (*a*) of paragraph (2A), the period referred to in that sub-paragraph shall include—
+  >
+  > - (a) where a person has failed examinations or has failed to successfully complete a module relating to a period when he was attending or undertaking a part of the course as a full-time course of study, any period in respect of which he attends or undertakes the course for the purpose of retaking those examinations or that module;
+  > - (b) any period of vacation within the period specified in that paragraph or immediately following that period except where the person has registered with the educational establishment to attend or undertake the final module in the course and the vacation immediately follows the last day on which he is required to attend or undertake the course.
+  >
+  > (2C) In paragraph (2A), “modular course” means a course of study which consists of two or more modules, the successful completion of a specified number of which is required before a person is considered by the educational establishment to have completed the course.
+  >
+  > (2D) A full-time student shall not be regarded as undertaking a full-time course of advanced education or a full-time course of study for the period specified in paragraph (2E) if—
+  >
+  > - (a) at any time during an academic year, with the consent of the relevant educational establishment, he ceases to attend or undertake a course because he is—
+  >   - (i) engaged in caring for another person, or
+  >   - (ii) ill;
+  > - (b) he has subsequently ceased to be engaged in caring for that person or, as the case may be, he has subsequently recovered from that illness, and
+  > - (c) he is not eligible for a grant or a student loan (as defined in regulation 130) in respect of the period specified in paragraph (2E).
+  >
+  > (2E) The period specified for the purposes of paragraph (2D) is the period beginning on, and including, the day on which he ceased to be engaged in caring for that other person or, as the case may be, the day on which he recovered from that illness and ending on the day before—
+  >
+  > - (a) the day on which he resumes attending or undertaking the course, or
+  > - (b) the first day of the following academic year,
+  >
+  > whichever shall first occur.
+
+  .
+
+(3) In regulation 4 (interpretation of Parts II, IV and V), for the definition of “period of study” there shall be substituted the following definition—
+
+> - “period of study” means—
+>   - (a) the period during which the student is regarded as attending or undertaking the course of study, and
+>   - (b) any period of attendance by the student at his educational establishment or any period of study undertaken by the student, in connection with the course, which occurs before or after the period during which he is to be regarded as undertaking the course of study;
+
+.
+
+(4) In regulation 130 (interpretation of Chapter IX of Part VIII—full-time students)—
+
+- (a) the definition of “last day of the course” shall be omitted;
+- (b) in the definition of “standard maintenance grant”[^f00019], in paragraph (*a*), after the word “attending” there shall be inserted “or undertaking”.
+
+Sealed with the Official Seal of the Department for Social Development on 24th July 2000.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+The Department of Finance and Personnel hereby consents to regulation 2 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 25th July 2000.
+
+David Sterling
+
+Senior Officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE — Provisions in the Income Support (General) Regulations (Northern Ireland) 1987 in which references to “student” are to be substituted with references to “full-time student”[^key-fb50d54386d7c3c595a6c7854e0bf33d]
+
+Regulation 3(5)
+
+[^key-fb50d54386d7c3c595a6c7854e0bf33d]
+
+- Regulation 4ZA(2) and (3)[^f00020] (prescribed categories of person)
+- Regulation 26 (calculation of income and capital of students)
+- Regulation 29(2A)[^f00021] (calculation of earnings derived from employed earner’s employment and income other than earnings)
+- Regulation 32(6A)[^f00022] (calculation of weekly amount of income)
+- Regulation 40(3A)[^f00023] (calculation of income other than earnings) except in the titles of the legislation referred to in that paragraph
+- Title of Chapter VIII of Part V
+- Schedule 1B[^f00024] (prescribed categories of person)—
+  - paragraph 10 (disabled students)
+  - paragraph 11
+  - paragraph 12 (deaf students) except in the titles of the legislation referred to in that paragraph
+- Schedule 3[^f00025] (housing costs)—
+  - paragraph 3(3), (6)(*b*) and (11)(*c*)(viii)
+  - paragraph 14(5B)(*b*)[^f00026]
+- Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+  - paragraph 39(4)(*b*)(ii)[^f00027] and (5)(*b*)(ii)[^f00028]
+  - paragraph 59(1)
+  - paragraph 64(2)
+- Schedule 10 (capital to be disregarded)—
+  - paragraph 22(4)(*b*)(ii) and (5)(*b*)(ii)[^f00029]
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Income Support (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+In particular, they make various amendments to the rules on the treatment of students in relation to those benefits by providing new or amended definitions of “course of study” (regulations 2(2)(*a*), 3(2)(*a*) and 4(2)(*a*)), “full-time student” (regulation 3(2)(*b*), (3)(*a*)), “period of study” (regulations 3(2)(*d*) and 4(3)), “standard maintenance grant” (regulations 2(2)(*b*), 3(3)(*b*) and 4(4)(*b*)) and “student” (regulations 2(2)(*c*) and 3(3)(*c*)).
+
+They prescribe the period when full-time students are to be treated as attending or undertaking a full-time course of study by reference to modular courses (which are defined) and non-modular courses (regulations 2(3), 3(4) and 4(2)(*b*)). They also prescribe that full-time students, for the purposes of housing benefit or jobseeker’s allowance, are not, in certain circumstances, to be regarded as attending or undertaking a course in the period after ceasing caring responsibilities or after from recovering from an illness until they return to their course (regulations 2(4) and 4(2)(*b*)).
+
+Regulations 3(2)(*c*) and (*e*) and (5) and 4(4)(*a*) and the Schedule make consequential amendments.
+
+The Report of the Social Security Advisory Committee dated 8th May 1998 on the proposals referred to them in respect of the Social Security Amendment (Students) Regulations 2000 ([S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981)), together with a statement showing the extent to which those Regulations give effect to the Recommendations of the Committee, and in so far as they do not give effect to them, the reasons why not, are contained in Command Paper Cm. 4739 published by The Stationery Office Limited.
+
+In so far as these Regulations are required, for the purposes of regulation 2, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(*e*) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* Article 8(*b*) of, and Part II of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
+
+[^f00004]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); consent function transferred from the Department of the Environment to the Department of Finance and Personnel; *see* Article 6(*b*) of, and Part II of Schedule 4 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999
+
+[^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-2b057b80975b359e0520d020d4fb3cbd]: Commencement: Reg. 1 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-656abc94020e27255792925020ee6891]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/241/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-fac9873c11b07c73be1f08663b37a56a]: Commencement: Reg. 3 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+
+[^f00012]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459): relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 Nos. 46](https://www.legislation.gov.uk/nisr/1991/46), [204](https://www.legislation.gov.uk/nisr/1991/204) and [338](https://www.legislation.gov.uk/nisr/1991/338), [S.R. 1992 Nos. 147](https://www.legislation.gov.uk/nisr/1992/147) and [201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [412](https://www.legislation.gov.uk/nisr/1997/412), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81) and [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
+
+[^f00013]: Footnote: The definition of “employment” was inserted by regulation 2(*b*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00014]: Footnote: The definition of “last day of the course” was inserted by regulation 2 of [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
+
+[^f00015]: Footnote: The definition of “period of study” was substituted by regulation 4(2) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
+
+[^f00016]: Footnote: The definition of “standard maintenance grant” was substituted by regulation 5(8)(*a*) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^f00017]: Footnote: The definition of “student” was amended by regulation 6 of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
+
+[^key-9365c48a92056440463a482302b9b973]: Commencement: Reg. 4 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+
+[^f00018]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00019]: Footnote: The definition of “standard maintenance grant” was amended by regulation 2(14)(*b*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^key-fb50d54386d7c3c595a6c7854e0bf33d]: Commencement: Sch. in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+
+[^f00020]: Footnote: Regulation 4ZA was inserted by regulation 4 of [S.R. 1996 No 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph (3) was amended by regulation 5(3) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
+
+[^f00021]: Footnote: Regulation 29(2A) was inserted by regulation 5(1)(*b*) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22) and amended by regulation 8 of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^f00022]: Footnote: Regulation 32(6A) was inserted by regulation 6(1) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00023]: Footnote: Regulation 40(3A) was inserted by regulation 4(4)(*b*) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and was amended by regulation 8 of [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46) and regulation 5(3) of [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^f00024]: Footnote: Schedule 1B was inserted by regulation 22 of, and Schedule 1 to, [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00025]: Footnote: Schedule 3 was substituted by regulation 2 of, and Schedule 1 to, [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^f00026]: Footnote: Paragraph 14(5B) was inserted by regulation 2(3)(*i*)(iii) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434) and sub-paragraph (5B)(*b*) was substituted by regulation 24(*b*)(iii) of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00027]: Footnote: Paragraph 39 was substituted by regulation 4(7)(*b*) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204) and sub-paragraph (4) was amended by regulation 5(7)(*b*) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201)
+
+[^f00028]: Footnote: Paragraph 39(5) was amended by regulation 5(7)(*b*) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201)
+
+[^f00029]: Footnote: Paragraph 22(4) and (5) was amended by regulation 5(8)(*a*)(iv) and (v) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201)

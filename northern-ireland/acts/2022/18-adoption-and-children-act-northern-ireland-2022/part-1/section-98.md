@@ -1,0 +1,47 @@
+---
+title: Adoption and Children Act (Northern Ireland) 2022, section 98
+act: Adoption and Children Act (Northern Ireland) 2022
+section: '98'
+status: not-yet-in-force
+text_date: '2024-11-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2022/18/section/98
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adoption and Children Act (Northern Ireland) 2022, section 98
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 98. Restriction on reports[^key-7feabaa1a644189fbe228781b3b84845]
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) A person who is not within a prescribed description may not, in any prescribed circumstances, prepare a report for any person about the suitability of a child for adoption or of a person to adopt a child or about the adoption, or placement for adoption, of a child.
+
+(2) If a person (“**P**”)—
+
+- (a) contravenes subsection (1); or
+- (b) causes a person to prepare a report, or submits to any person a report which has been prepared, in contravention of that subsection,
+
+P is guilty of an offence.
+
+(3) If a person who works for an appropriate voluntary organisation—
+
+- (a) contravenes subsection (1); or
+- (b) causes a person to prepare a report, or submits to any person a report which has been prepared, in contravention of that subsection,
+
+the person who manages the appropriate voluntary organisation is also guilty of the offence.
+
+(4) A person (“**P**”) is not guilty of an offence under subsection (2)(b) unless it is proved that P knew or had reason to suspect that the report would be, or had been, prepared in contravention of subsection (1); but this subsection only applies if sufficient evidence is adduced to raise an issue as to whether P had the knowledge or reason mentioned.
+
+(5) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding level 5 on the standard scale, or both.
+
+## Annotations
+
+[^key-7feabaa1a644189fbe228781b3b84845]: Commencement: S. 98 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

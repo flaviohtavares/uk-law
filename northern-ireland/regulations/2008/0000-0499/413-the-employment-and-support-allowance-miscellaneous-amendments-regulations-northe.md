@@ -1,0 +1,513 @@
+---
+title: The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008
+id: nisr/2008/413
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-10-06'
+text_date: '2009-10-26'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/413
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/413/pdfs/nisr_20080413_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/413/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008
+
+> Text as at 2009-10-26.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 413
+
+Social Security
+
+The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008
+
+Made
+
+6th October 2008
+
+Coming into operation
+
+27th October 2008
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 2(1)(c), 3(2)(b) and (d) and (3), 4(2)(a), 5(3), 8(1), (2)(a) and (b), 17(1), (2) and (3)(b), 25(2)(a) and 28(2) of, and paragraphs 1(4) and 6(1)(b), (2) to (5) and (8) of Schedule 1 and paragraphs 1(a), 2 and 10 of Schedule 2 to, the Welfare Reform Act (Northern Ireland) 2007[^f00001].
+
+## 1. Citation and commencement[^key-1c1e626da32ab23963c050a6e834d39a]
+
+(1) These Regulations may be cited as the Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 and, subject to paragraph (2), shall come into operation on 27th October 2008.
+
+(2) Regulation 5 shall come into operation immediately before the coming into operation of regulations 12, 16, 19 and 30 of, and Schedule 2 to, the Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008[^f00002].
+
+## 2. Amendment of the Administration Act[^key-a6d8fd6074e8638de2fb90eec55292bd]
+
+In section 72(3) of the Administration Act[^f00003] (income support and other payments) in paragraph (c) and the full-out words after that paragraph for “or an income-based jobseeker’s allowance”, in each place where it occurs, substitute “, an income-based jobseeker’s allowance or an income-related employment and support allowance”.
+
+## 3. Amendment of the Employment and Support Allowance Regulations[^key-23b7a9a47cb9f8c50370949a3b54cdb4]
+
+(1) The Employment and Support Allowance Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs (2) to (33).
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) after the definition of “attendance allowance” insert—
+
+    > - “basic rate” has the meaning given by section 989 of the Income Tax Act 2007[^f00004];
+
+    ,
+  - (ii) omit the definition of “the starting rate”, and
+  - (iii) after the definition of “sports award” insert—
+
+    > - “state pension credit” means a state pension credit under the State Pension Credit Act (Northern Ireland) 2002[^f00005];
+
+    ; and
+- (b) in paragraph (2) omit “Chapter 9 of Part 10 (income and capital: child support) and”.
+
+(3) In regulation 9 (condition relating to youth – claimants aged 20 or over but under 25) after paragraph (5) add—
+
+> (6) A claimant is to be treated as not having limited capability for work on a day which is not, for the purposes of paragraph 4(1)(d)(ii) of Schedule 1 to the Act (period of 196 consecutive days preceding the relevant period of limited capability for work), part of any consecutive days of limited capability for work.
+
+.
+
+(4) In regulation 26 (claimants receiving certain regular treatment) for paragraph (2) substitute—
+
+> (2) A claimant who receives the treatment referred to in paragraph (1) is only to be treated as having limited capability for work from the first week of treatment in which the claimant undergoes no fewer than—
+>
+> - (a) two days of treatment;
+> - (b) two days of recovery from any of the forms of treatment listed in paragraph (1); or
+> - (c) one day of treatment and one day of recovery from that treatment,
+>
+> but the days of treatment or recovery from that treatment or both need not be consecutive.
+
+.
+
+(5) For regulation 32 substitute—
+
+> **32. Certain claimants to be treated as not having limited capability for work**
+>
+> (1) A claimant who is or has been a member of Her Majesty’s forces is to be treated as not having limited capability for work on any day which is recorded by the Secretary of State for Defence as a day of sickness absence from duty.
+>
+> (2) A claimant is to be treated as not having limited capability for work on any day on which the claimant attends a training course in respect of which the claimant is paid a training allowance or premium pursuant to arrangements made under section 1 or 3 of the Employment and Training Act.
+>
+> (3) Paragraph (2) is not to apply—
+>
+> - (a) for the purposes of any claim to employment and support allowance for a period commencing after the claimant ceased attending the training course in question; or
+> - (b) where any training allowance or premium paid to the claimant is paid for the sole purpose of travelling or meal expenses incurred or to be incurred under the arrangement made under section 1 or 3 of the Employment and Training Act.
+
+.
+
+(6)[^key-58799ed60e84b86e9596b818bcc2b06c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) After regulation 72 (permanent health insurance) insert—
+
+> **72A. Financial Assistance Scheme**
+>
+> (1) For the purposes of sections 2(1)(c) and 3 of the Act (deductions from contributory allowance) pension payment is to include a Financial Assistance Scheme payment.
+>
+> (2) In this regulation “Financial Assistance Scheme payment” means a payment made under the Financial Assistance Scheme Regulations 2005[^f00006].
+
+.
+
+(8)[^key-7e9a373e689033d6fed26a6ad5b01323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) For regulation 85 substitute—
+
+> **85. Child maintenance and liable relative payments**
+>
+> Regulations 91 to 109 and 111 to 117 and Chapter 10 do not apply to any payment which is calculated in accordance with Chapter 8 (child maintenance and liable relative payments).
+
+.
+
+(10) Omit regulation 86 (child support).
+
+(11) In regulation 99 (deduction of tax and contributions for self-employed earners)—
+
+- (a) in paragraph (1) omit “the starting rate or, as the case may be, the starting rate and”; and
+- (b) in paragraph (2) for “starting rate” substitute “basic rate”.
+
+(12) In regulation 103 (deduction in respect of tax for participants in the self-employment route)—
+
+- (a) in paragraph (1)(c) omit “the starting rate of tax or, as the case may be, the starting rate and”; and
+- (b) in paragraph (2) for “starting rate” substitute “basic rate”.
+
+(13) In regulation 104 (calculation of income other than earnings)—
+
+- (a) in paragraph (4) for “Paragraph (5) applies” substitute “Paragraphs (5) and (5A) apply”;
+- (b) at the beginning of paragraph (5) for “The” substitute “Where a relevant payment is made quarterly, the”;
+- (c) after paragraph (5) insert—
+
+  > (5A) Where a relevant payment is made by 2 or more instalments in a quarter, the amount of a relevant payment to be taken into account for the assessment period for the purposes of paragraph (1) in respect of a person to whom paragraph (4) applies, shall be calculated by applying the formula in paragraph (5) but as if—
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | A | \= | the total amount of the relevant payments which that person received, or would have received, from the first day of the academic year to the day the person abandoned the course, or was dismissed from it, less any deduction under regulation 137(6). |
+
+  ; and
+- (d) in paragraph (6)—
+  - (i) for “For the purposes of this paragraph and paragraphs (4) and (5)” substitute “In this regulation”, and
+  - (ii) for the definition of “assessment period” substitute—
+
+    > - “assessment period” means—
+    >   - (a) in a case where a relevant payment is made quarterly, the period beginning with the benefit week which includes the day on which the claimant abandoned, or was dismissed from, the course and ending with the benefit week which includes the last day of the last quarter for which an instalment of the relevant payment was payable to that claimant;
+    >   - (b) in a case where the relevant payment is made by 2 or more instalments in a quarter, the period beginning with the benefit week which includes the day on which the claimant abandoned, or was dismissed from, the course and ending with the benefit week which includes—
+    >     - (i) the day immediately before the day on which the next instalment of the relevant payment would have been due had the payments continued, or
+    >     - (ii) the last day of the last quarter for which an instalment of the relevant payment was payable to that claimant,
+    >
+    >     whichever of those dates is earlier;
+
+    .
+
+(14) In regulation 109(2) (notional income – calculation and interpretation)—
+
+- (a) in sub-paragraph (a) omit “the starting rate or, as the case may be, the starting rate and”; and
+- (b) in sub-paragraph (b) for “starting rate” substitute “basic rate”.
+
+(15) In regulation 118(6) (calculation of tariff income from capital) for “regulations 112 and 126 (income treated as capital and liable relative payments treated as capital)” substitute “regulation 112 (income treated as capital)”.
+
+(16) In Chapter 8 of Part 10 for the heading “Liable relatives” substitute “Child maintenance and liable relatives payments”.
+
+(17) In regulation 119 (interpretation)—
+
+- (a)[^key-7598685d8f16215755bd1da2fe37db22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after the definition of “claimant” insert—
+
+  > - “claimant’s family” shall be construed in accordance with section 133 of the Contributions and Benefits Act (interpretation of Part 7 and supplementary provisions);
+  > - “housing costs” means those costs which may be met under paragraph 1(1) of Schedule 6;
+
+  ;
+- (c) after the definition of “liable relative” insert—
+
+  > - “ordinary clothing and footwear” means clothing and footwear for normal daily use but does not include school uniforms;
+
+  ;
+- (d) in the definition of “payment”—
+  - (i) omit “including, except in the case of a discretionary trust, any payment which would be so made or derived upon application being made by the claimant but which has not been acquired by the claimant but only from the date on which it could be expected to be acquired were an application made;”, and
+  - (ii) for paragraph (d) substitute—
+
+    > - (d) made to a third party, or in respect of a third party, unless the payment is—
+    >   - (i) in relation to the claimant or the claimant’s family, and
+    >   - (ii) the payment is in respect of food, ordinary clothing or footwear, fuel, rent or rates, housing costs or water charges;
+
+    ; and
+- (e) in the definition of “periodical payment”—
+  - (i) in paragraph (a) omit “in pursuance of a court order or agreement for maintenance”, and
+  - (ii) in paragraph (c) for “not exceeding” substitute “, after the appropriate disregard under paragraph 57 of Schedule 8 (sums to be disregarded in the calculation of income other than earnings) has been applied to it, that does not exceed”.
+
+(18)[^key-212f9fa30bbac7bd7a54888bfda59ee6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(19) For regulation 123 substitute—
+
+> **123. Period over which payments other than periodical payments are to be taken into account**
+>
+> (1) The period over which a payment other than a periodical payment (a “non-periodical payment”) is to be taken account shall be determined as follows.
+>
+> (2) Except in a case where paragraph (4) applies, the number of weeks over which a non-periodical payment is to be taken into account shall be equal to the number obtained by dividing that payment by the amount referred to in paragraph (3).
+>
+> (3) The amount is the aggregate of £2 and—
+>
+> - (a) the amount of employment and support allowance that would be payable had no payment been made; and
+> - (b) where applicable, the maximum amount of disregard that would apply to the payment under paragraph 57 of Schedule 8.
+>
+> (4) This paragraph applies in a case where a liable relative makes a periodical payment and a non-periodical payment concurrently and the weekly amount of the periodical payment (as calculated in accordance with regulation 124) is less than B.
+>
+> (5) In a case where paragraph (4) applies, the non-periodical payment shall, subject to paragraphs (6) and (7), be taken into account over a period of the number of weeks equal to the number obtained by applying the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2008/413)
+>
+> (6) If the liable relative ceases to make periodical payments, the balance (if any) of the non-periodical payment shall be taken into account over the number of weeks equal to the number obtained by dividing that balance by the amount referred to in paragraph (3).
+>
+> (7) If the amount of any subsequent periodical payment varies, the balance (if any) of the non-periodical payment shall be taken into account over a period of the number of weeks equal to the number obtained by applying the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2008/413)
+>
+> (8) The period under paragraph (2) or (5) shall begin on the date on which the payment is treated as paid under regulation 125 (date on which a child maintenance or liable relative payment is to be treated as paid) and the period under paragraph (6) or (7) shall begin on the first day of the benefit week in which the cessation or variation of the periodical payment occurred.
+>
+> (9) Any fraction which arises by applying a calculation or formula referred to in this regulation shall be treated as a corresponding fraction of a week.
+>
+> (10) In paragraphs (4) to (7)—
+>
+> |  |  |  |
+> | --- | --- | --- |
+> | A | \= | the amount of the non-periodical payment; |
+> | B | \= | the aggregate of £2 and the amount of employment and support allowance that would be payable had the periodical payment not been made and, where applicable, the maximum disregard under paragraph 57 of Schedule 8; |
+> | C | \= | the weekly amount of the periodical payment; |
+> | D | \= | the balance (if any) of the non-periodical payment; |
+> | E | \= | the weekly amount of any subsequent periodical payment. |
+
+.
+
+(20)[^key-753975f4c78e810a4fd2051ca2aace2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(21)[^key-753975f4c78e810a4fd2051ca2aace2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(22) Omit regulations 126 to 130.
+
+(23)[^key-293cd011876cbb9ad43814a721f64d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(24)[^key-df7eb597b16f21a9caece1cedccb80e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(25) In regulation 144(2) (waiting days)—
+
+- (a) in sub-paragraph (a) for “or statutory sick pay” substitute “, statutory sick pay or a maternity allowance”;
+- (b) omit “or” after sub-paragraph (b); and
+- (c) after sub-paragraph (c) add—
+
+  > or
+  >
+  > - (d) the claimant is the other member of a couple to whom regulation 4H(2) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00009] applies and the former claimant was not entitled to an employment and support allowance in respect of 3 days at the beginning of the period of limited capability for work which relates to the former claimant’s entitlement.
+
+  .
+
+(26) In regulation 146 (advance awards) in paragraph (2)(b) for “29” substitute “30”.
+
+(27) In regulation 156(8) (circumstances in which a person is to be treated as being or not being a member of the household) for “paragraph (6)(d) or (h)” substitute “paragraph (6)(d) or (g)”.
+
+(28) In Schedule 2 (assessment of whether a claimant has limited capability for work)—
+
+- (a) in paragraph (3)(c) (bending or kneeling) for “pick a light object” substitute “pick up a light object”;
+- (b) in paragraph 10(c) (continence other than enuresis (bed wetting) where the claimant has an artificial stoma) for heads (iii) to (vi) substitute—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > |  |  |  |
+  > | (iii) | Where the claimant’s artificial stoma relates solely to the evacuation of the bowel, has no voluntary control over voiding of the bladder. | 15 |
+  > | (iv) | Where the claimant’s artificial stoma relates solely to the evacuation of the bowel, at least once a week loses control of bladder so that the claimant cannot control the full voiding of the bladder. | 15 |
+  > | (v) | Where the claimant’s artificial stoma relates solely to the evacuation of the bowel, at least once a month loses control of bladder so that the claimant cannot control the full voiding of the bladder. | 9 |
+  > | (vi) | Where the claimant’s artificial stoma relates solely to the evacuation of the bowel, risks losing control of the bladder so that the claimant cannot control the full voiding of the bladder if not able to reach a toilet quickly. | 6 |
+  > | (vii) | None of the above apply. | 0 |
+
+  ; and
+- (c) in paragraph 21(d) (dealing with other people) for “causing significant distress to himself” substitute “causing himself significant distress”.
+
+(29) In Schedule 4 (amounts) in paragraph 1(3) of column 1—
+
+- (a) in head (f)(ii) for “was” substitute “were”; and
+- (b) for head (h) substitute—
+
+  > - (h) where the claimant is aged not less than 18 but less than 25 and the claimant’s partner is a person under 18 who—
+  >   - (i) would not qualify for an income-related allowance if the person were not a member of a couple,
+  >   - (ii) would not qualify for income support if the person were not a member of a couple,
+  >   - (iii) does not satisfy the requirements of Article 5(1)(f)(iii) of the Jobseekers Order, and
+  >   - (iv) is not the subject of a direction under Article 18 of that Order;
+
+  .
+
+(30) In Schedule 6 (housing costs)—
+
+- (a) in paragraph 2 (remunerative work)—
+  - (i) in sub-paragraph (1)—
+    - (aa) for “the following provisions of this paragraph” substitute “sub-paragraphs (2) to (8)”, and
+    - (bb) for “person”, in the first place where it occurs, substitute “non-dependant (referred to in this paragraph as “person”)”, and
+  - (ii) for sub-paragraph (8) substitute—
+
+    > (8) A person is to be treated as not being engaged in remunerative work on any day in which that person falls within the circumstances prescribed in regulation 43(2) (circumstances under which partners of claimants entitled to an income-related allowance are not to be treated as engaged in remunerative work).
+    >
+    > (9) Whether a claimant or the claimant’s partner is engaged in, or to be treated as being engaged in, remunerative work is to be determined in accordance with regulation 41 or, as the case may be, 42 (meaning of “remunerative work” for the purposes of paragraph 6(1)(e) and (f) of Schedule 1 to the Act).
+
+    ;
+- (b) in paragraph 3(2) (previous entitlement to other income-related benefits) for “income support” substitute “an income-related allowance”;
+- (c) in paragraph 12 (general provisions applying to new and existing housing costs) after sub-paragraph (10) add—
+
+  > (11) Sub-paragraph (12) applies to a person who, had the person been entitled to income support and not an employment and support allowance, would have been a person to whom any of the following transitional or savings provisions would have applied—
+  >
+  > - (a) regulation 4 of the Income Support (General) (Amendment No. 4) Regulations (Northern Ireland) 1993[^f00010] (“the 1993 Regulations”);
+  > - (b) regulation 3 of the Income-Related Benefits (Miscellaneous Amendments) Regulations (Northern Ireland) 1995[^f00011] (“the 1995 Regulations”).
+  >
+  > (12) Where this sub-paragraph applies, the amount of housing costs applicable in the particular case is to be determined as if—
+  >
+  > - (a) in a case to which regulation 4(1) of the 1993 Regulations would have applied, sub-paragraphs (4) to (9) do not apply;
+  > - (b) in a case to which regulation 4(4) of the 1993 Regulations would have applied, the appropriate amount is £150,000; and
+  > - (c) in a case to which the 1995 Regulations would have applied, the appropriate amount is £125,000.
+
+  ; and
+- (d) for paragraph 15(11)(b) (linking rules) substitute—
+
+  > - (b) is in full-time education and in receipt of disability living allowance;
+
+  .
+
+(31)[^key-32c7581c7541e9673a6e90d978ab962c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(32) In Schedule 8 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 9 for sub-paragraph (b) substitute—
+
+  > - (b) an income-related allowance, income support or an income-based jobseeker’s allowance.
+
+  ;
+- (b) in paragraph 31(1)(e) after “the Health and” insert “Personal”; and
+- (c)[^key-6b0f817fd7b46cf19ff2ef537e4adda4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(33) In Schedule 9 (capital to be disregarded)—
+
+- (a) in paragraph 17(2)(a) for “consequences” substitute “consequence”; and
+- (b) in paragraph 45(1) for “Any payment for” substitute “Any payment of”.
+
+## 4. Amendment of the Employment and Support Allowance (Transitional Provisions) Regulations[^key-ed6fba928b0b4d52bec02df6d2f228c0]
+
+In regulation 1(3) of the Employment and Support Allowance (Transitional Provisions) Regulations (Northern Ireland) 2008[^f00012] (interpretation) omit “6(4)(a) or”.
+
+## 5. Amendment of the Employment and Support Allowance (Consequential Provisions) Regulations[^key-6a4819104ddcc12f92ee39bdbe85b491]
+
+(1) The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 are amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 12(11) (amendment of the Income Support (General) Regulations)—
+
+- (a) in sub-paragraph (f)(ii) in the added sub-paragraph (15) after “in a case where” insert “a claimant, a claimant’s partner or”; and
+- (b) in sub-paragraph (g) in the added head (i) omit “2(2) or (3) or”.
+
+(3) In regulation 16(3)(b) (amendment of the Social Fund Cold Weather Payments (General) Regulations) in the inserted sub-paragraph (ad) for “paragraphs 5 to 8” substitute “paragraphs 5 to 7”.
+
+(4) In regulation 19(25)(f)(ii) (amendment of the Jobseeker’s Allowance Regulations) in the added head (i) omit “2(2) or (3) or”.
+
+(5) In regulation 30(8)(e) (amendment of the State Pension Credit Regulations) in the added head (g) omit “2(2) or (3) or”.
+
+(6) In Schedule 2 (revocations) omit the entry relating to the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00013].
+
+## 6. Amendment of the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations[^key-8f223c852e4066c506829052660c8b09]
+
+In regulation 20(1) of the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations (Northern Ireland) 1984[^f00014] (special provisions for certain persons who have been employed abroad) for “and short-term incapacity benefit” substitute “, short-term incapacity benefit and contributory employment and support allowance”.
+
+## 7. Amendment of the Social Security (Claims and Payments) Regulations[^key-4210527014320e0723cf1f88d22f1921]
+
+In Schedule 8A to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00015] (deductions from benefits and direct payment to third parties)—
+
+- (a) renumber paragraph 1 as sub-paragraph (1) of paragraph 1 and—
+  - (i) in that sub-paragraph in the definition of “specified benefit”[^f00016] for paragraph (b) substitute—
+
+    > - (b) in all other cases means—
+    >   - (i) incapacity benefit, income support, jobseeker’s allowance, retirement pension, severe disablement allowance, state pension credit, widow’s pension or widowed mother’s allowance, or
+    >   - (ii) subject to sub-paragraph (2), employment and support allowance,
+
+    , and
+  - (ii) after that sub-paragraph add—
+
+    > (2) For the purposes of paragraph (b) of the definition of “specified benefit” in sub-paragraph (1) “employment and support allowance” means—
+    >
+    > - (a) income-related employment and support allowance; and
+    > - (b) in a case where, if there were no entitlement to contributory employment and support allowance, there would be entitlement to income-related employment and support allowance at the same rate, contributory employment and support allowance.
+
+    ;
+- (b) in paragraph 3(1)[^f00017] (housing costs) after “employment and support allowance” insert “within the meaning given in paragraph 1(2)”; and
+- (c) in paragraph 6A(12)[^f00018] (water charges) for head (b) substitute—
+
+  > - (b) “employment and support allowance” has the same meaning as in paragraph 1(2).
+
+  .
+
+## 8. Revocations[^key-457af2b6ca2fb16df55333c1e694b00c]
+
+Regulation 17(12) of the Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations (Northern Ireland) 1995[^f00019] and regulation 13(18)(a)(iv) of the Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 are revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 6th October 2008
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make various amendments in connection with the introduction of employment and support allowance from 27th October 2008.
+
+Regulation 2 amends section 72 of the Social Security Administration (Northern Ireland) Act 1992 by adding a reference to income-related employment and support allowance.
+
+Regulation 3 amends the Employment and Support Allowance Regulations (Northern Ireland) 2008 to—
+
+- remove references to “starting rate” and where appropriate replace them with “basic rate” to reflect changes to the taxation system;
+- provide that a claimant is treated as not having limited capability for work for any day for which he receives paid training in the form of a training allowance or premium except in certain circumstances;
+- increase the earnings limit from £88.50 to £92.00 a week;
+- provide for deductions to be made from contributory employment and support allowance where the claimant is in receipt of a payment from the Financial Assistance Scheme;
+- amend the requirement for a claimant to serve waiting days when he is a member of a couple, one of whom is already in receipt of income-related employment and support allowance; and
+- make provision so that all payments of child maintenance income are treated equally and taken into account in the same manner regardless of source, increase the disregard of child maintenance income to £20 per household and extend the disregard to all forms of child maintenance.
+
+Regulations 4 and 5 make corrections to, respectively, the Employment and Support Allowance (Transitional Provisions) Regulations (Northern Ireland) 2008 and the Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008.
+
+Regulations 6 amends the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations (Northern Ireland) 1984 by adding a reference to employment and support allowance.
+
+Regulation 7 amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987, in particular the definition of “specified benefit” for the purposes of deductions from benefits and direct payment to third parties.
+
+Regulation 8 makes consequential revocations.
+
+Sections 2(1)(c), 3(2)(b) and (d) and (3), 4(2)(a), 5(3), 8(1), (2)(a) and (b), 17(1), (2) and (3)(b), 25(2)(a) and 28(2) of, and paragraphs 1(4) and 6(1)(b), (2) to (5) and (8) of Schedule 1 and paragraphs 1(a), 2 and 10 of Schedule 2 to, the Welfare Reform Act (Northern Ireland) 2007, the enabling provisions under which these Regulations are made, were brought into operation on 1st July 2008 for the purpose only of authorising the making of regulations and on 27th July 2008 (sections 25(2)(a) and 28(2)) and 27th October 2008 for all other purposes by virtue of the Welfare Reform (2007 Act) (Commencement No. 5) Order (Northern Ireland) 2008 ([S.R. 2008 No. 276 (C.14)](https://www.legislation.gov.uk/nisr/2008/276)).
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^key-1c1e626da32ab23963c050a6e834d39a]: Commencement: Reg. 1 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00002]: Footnote: [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^key-a6d8fd6074e8638de2fb90eec55292bd]: Commencement: Reg. 2 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00003]: Footnote: Section 72(3) was amended by paragraph 33 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and paragraph 4(8)(b) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2)
+
+[^key-23b7a9a47cb9f8c50370949a3b54cdb4]: Commencement: Reg. 3 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00004]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3)
+
+[^f00005]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^key-58799ed60e84b86e9596b818bcc2b06c]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/6) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
+
+[^f00006]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986)
+
+[^key-7e9a373e689033d6fed26a6ad5b01323]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/8) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
+
+[^key-7598685d8f16215755bd1da2fe37db22]: Textual amendment: [Reg. 3(17)(a)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/17/a) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/c)
+
+[^key-212f9fa30bbac7bd7a54888bfda59ee6]: Textual amendment: [Reg. 3(18)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/18) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/c)
+
+[^key-753975f4c78e810a4fd2051ca2aace2c]: Textual amendment: [Reg. 3(20)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/20)[(21)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/21) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/c)
+
+[^key-293cd011876cbb9ad43814a721f64d03]: Textual amendment: [Reg. 3(23)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/23) revoked (1.8.2009 for specified purposes, 1.9.2009 in so far as not already in operation) by [The Social Security (Students and Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/261)](https://www.legislation.gov.uk/nisr/2009/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/261/regulation/1/2), [4(c)](https://www.legislation.gov.uk/nisr/2009/261/regulation/4/c)
+
+[^key-df7eb597b16f21a9caece1cedccb80e1]: Textual amendment: [Reg. 3(24)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/24) revoked (1.8.2009 for specified purposes, 1.9.2009 in so far as not already in operation) by [The Social Security (Students and Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/261)](https://www.legislation.gov.uk/nisr/2009/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/261/regulation/1/2), [4(c)](https://www.legislation.gov.uk/nisr/2009/261/regulation/4/c)
+
+[^f00009]: Footnote: Regulation 4H was inserted by regulation 13(5) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00010]: Footnote: [S.R. 1993 No. 311](https://www.legislation.gov.uk/nisr/1993/311)
+
+[^f00011]: Footnote: [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^key-32c7581c7541e9673a6e90d978ab962c]: Textual amendment: [Reg. 3(31)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/31) revoked (1.10.2009) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (S.R. 2009/318)](https://www.legislation.gov.uk/nisr/2009/318), [regs. 1](https://www.legislation.gov.uk/nisr/2009/318/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/318/regulation/6)
+
+[^key-6b0f817fd7b46cf19ff2ef537e4adda4]: Textual amendment: [Reg. 3(32)(c)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/32/c) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/c)
+
+[^key-ed6fba928b0b4d52bec02df6d2f228c0]: Commencement: Reg. 4 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00012]: Footnote: [S.R. 2008 No. 283](https://www.legislation.gov.uk/nisr/2008/283)
+
+[^key-6a4819104ddcc12f92ee39bdbe85b491]: Commencement: Reg. 5 in operation at 27.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/2)
+
+[^f00013]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
+
+[^key-8f223c852e4066c506829052660c8b09]: Commencement: Reg. 6 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00014]: Footnote: [S.R. 1984 No. 245](https://www.legislation.gov.uk/nisr/1984/245); regulation 20(1) was amended by regulation 17(12) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 13 of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^key-4210527014320e0723cf1f88d22f1921]: Commencement: Reg. 7 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00015]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Rules are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2007 Nos. 206](https://www.legislation.gov.uk/nisr/2007/206) and [330](https://www.legislation.gov.uk/nisr/2007/330) and [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00016]: Footnote: The definition of “specified benefit” was substituted by regulation 2(a)(iii) of [S.R. 2007 No. 206](https://www.legislation.gov.uk/nisr/2007/206) and amended by regulation 2(a)(ii) of [S.R. 2007 No. 330](https://www.legislation.gov.uk/nisr/2007/330) and regulation 13(18)(a)(iv) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00017]: Footnote: Paragraph 3(1) was substituted by regulation 2(26)(b) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and amended by Article 9(2) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 14(1)(b)(i) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 13(18)(b)(i) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00018]: Footnote: Paragraph 6A was inserted by regulation 2(e) of [S.R. 2007 No. 206](https://www.legislation.gov.uk/nisr/2007/206) and amended by regulation 13(18)(e) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^key-457af2b6ca2fb16df55333c1e694b00c]: Commencement: Reg. 8 in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)

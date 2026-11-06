@@ -1,0 +1,47 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 212
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '212'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/212
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 212
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 212. Conditions for transfer under section 211
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The conditions for giving a direction under section 211 in respect of a person (“A”) are—
+
+- (a) that the Department of Justice is satisfied, on the required medical reports, of the matters mentioned in subsection (2);
+- (b) that, having regard to the public interest and all the circumstances, and in particular to the matters mentioned in subsection (3), the Department of Justice considers that giving the direction is appropriate; and
+- (c) that the Department is satisfied, on the written report of a person representing the managing authority of the hospital specified in the direction (“the hospital”), that arrangements have been made for the offender's detention in the hospital in pursuance of the direction.
+
+(2) The matters referred to in subsection (1)(a) are—
+
+- (a) that A has a disorder requiring treatment;
+- (b) that failure to provide treatment to A as an in-patient in a hospital would be more likely than not to result in serious physical or psychological harm to A or serious physical harm to other persons; and
+- (c) that treatment appropriate to A's case is available for A in the hospital.
+
+(3) The matters referred to in subsection (1)(b) are—
+
+- (a) the ways in which A might become an in-patient in a hospital if no direction under this section were given; and
+- (b) how likely it is that, if such a direction is given and A is detained in hospital under the direction—
+  - (i) consent to treatment will be given by A, or by a person with authority to give consent on behalf of A; or
+  - (ii) treatment will be capable of being given to A by virtue of Part 2 of this Act (or, if A is under 16, under the Mental Health Order).
+
+(4) In subsection (1)(a) “**the required medical reports**” means written reports from at least two medical practitioners, including—
+
+- (a) if the disorder is mental disorder, an approved medical practitioner;
+- (b) otherwise, a medical practitioner who appears to the Department of Justice to have special experience in the diagnosis or treatment of the disorder.

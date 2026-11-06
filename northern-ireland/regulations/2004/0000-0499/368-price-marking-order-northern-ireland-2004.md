@@ -1,0 +1,345 @@
+---
+title: Price Marking Order (Northern Ireland) 2004
+id: nisr/2004/368
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-08-27'
+text_date: '2014-12-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/368
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/368/pdfs/nisr_20040368_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/368/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Price Marking Order (Northern Ireland) 2004
+
+> Text as at 2014-12-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 368
+
+CONSUMER PROTECTION
+
+Price Marking Order (Northern Ireland) 2004
+
+Made
+
+27th August 2004
+
+Coming into operation
+
+1st March 2005
+
+The Department of Enterprise, Trade and Investment[^f00001], in exercise of the powers conferred by section 4 of the Prices Act 1974[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf, having consulted[^f00004], in such manner as appeared to it to be appropriate having regard to the subject-matter and urgency of the Order, with such organisations representative of interests substantially affected by the Order as appeared to it, having regard to those matters, to be appropriate, hereby makes the following Order:
+
+## 1. Citation and commencement[^key-534a80a69469d0f95f6dc9ede6e0a9a1]
+
+This Order may be cited as the Price Marking Order (Northern Ireland) 2004 and shall come into operation on 1st March 2005.
+
+## 2. Interpretation[^key-88e597d8f7a818343849cae6cd0b8ac8]
+
+(1) In this Order –
+
+- “advertisement” means any form of advertisement which is made in order to promote the sale of a product but does not include any advertisement by means of which the trader intends to encourage a consumer to enter into a distance contract, a catalogue, a price list, a container or a label;
+- “consumer” means any individual who buys a product for purposes that do not fall within the sphere of his commercial or professional activity;
+- “cosmetic products” means any substance or preparation intended to be placed in contact with an external part of the human body, or with the teeth, inside of the mouth or throat with a view exclusively or mainly to one or more of the following purposes: cleaning, perfuming, changing the appearance of, protecting, and keeping in good condition it or them and correcting body odour;
+- “distance contract” means any contract concerning products concluded between a trader and a consumer, by any means, without the simultaneous physical presence of the trader and the consumer;
+- “itinerant trader” means any trader who, as a pedestrian, or from a train, aircraft, vessel, vehicle, stall, barrow, or other mobile sales unit, offers products to consumers other than by means of pre-printed material;
+- “liquid medium” has the meaning given for the purposes of the second subparagraph of point 5 of Annex IX to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;[^key-125fe0ba541c643e7b896748fea7e9b4]
+- “make-up products” means cosmetic products solely intended temporarily to change the appearance of the face or nails, including (but not limited to) lipsticks, mascaras, eye shadows, blushers and concealers;
+- “net drained weight” means the weight of a solid food product when it is presented in a liquid medium;
+- “precious metal” means gold, silver or platinum, or any other metal to which by an order under section 17 of the Hallmarking Act 1973[^f00006] the provisions of that Act are applied;
+- “products sold from bulk” means products which are not pre-packaged and are weighed or measured at the request of the consumer;
+- “relevant floor area” in relation to a shop means the internal floor area of the shop excluding any area not used for the retail sale of products or for the display of such products for retail sale;
+- “selling price” means the final price for a unit of a product, or a given quantity of a product, including VAT and all other taxes;
+- “shop” includes a store, a kiosk and a franchise or concession within a shop;
+- “small shop” means any shop which has a “relevant floor area” not exceeding 280 square metres;
+- “standard of fineness” means any one of the standards of fineness specified in column (2) of paragraph 2 of Schedule 2 to the Hallmarking Act 1973;
+- “trader” means any person who sells or offers or exposes for sale products which fall within his commercial or professional activity;
+- “unit price” means the final price, including VAT and all other taxes, for one kilogram, one litre, one metre, one square metre or one cubic metre of a product, except –
+  - (i) in respect of the products specified in Schedule 1, where unit price means the final price including VAT and all other taxes for the corresponding units of quantity set out in that Schedule; and
+  - (ii) in respect of products sold by number, where unit price means the final price including VAT and all other taxes for one individual item of the product.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to this Order as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Revocation[^key-0aa64ec4ae4d2ad867ec6721d356f189]
+
+The Price Marking Order (Northern Ireland) 2000[^f00008] is hereby revoked.
+
+## 4. Scope of application of the Order[^key-6c9c3ea927dd6ecb8d95b6ff3b7f799b]
+
+(1) This Order shall not apply to –
+
+- (a) products which are supplied in the course of the provision of a service; or
+- (b) sales by auction or sales of works of art or antiques.
+
+(2) The Electronic Commerce (EC Directive) Regulations 2002 shall apply in relation to any requirement of this Order as if the Order had been made before those Regulations were made.
+
+## 5. Obligation to indicate selling price[^key-9b19a8b63a180b7c5125375fcca3254b]
+
+(1) Subject to paragraph (2) and Articles 10 and 11, where a trader indicates that any product is or may be for sale to a consumer, he shall indicate the selling price of that product in accordance with the provisions of this Order.
+
+(2) The requirement in paragraph (1) shall not apply in respect of –
+
+- (a) products sold from bulk; or
+- (b) an advertisement for a product.
+
+## 6. Obligation to indicate unit price[^key-49190d7eac1028619f78870404acaab8]
+
+(1) Subject to paragraphs (2), (3) and (4) and Article 10, where a trader indicates that any product is or may be for sale to a consumer, he shall indicate the unit price of that product in accordance with the provisions of this Order.
+
+(2) The requirement in paragraph (1) only applies in respect of products sold from bulk or required by or under Part V or VI of the Weights and Measures (Northern Ireland) Order 1981[^f00009] to be –
+
+- (a) marked with an indication of quantity; or
+- (b) made up in a quantity prescribed by or under that Order.
+
+(3) The requirement in paragraph (1) shall not apply in relation to –
+
+- (a) any product which falls within Schedule 2;
+- (b) any product the unit price of which is identical to its selling price;
+- (c) bread made up in a prescribed quantity which is or may be for sale in a small shop, by an itinerant trader or from a vending machine; or
+- (d) any product which is pre-packaged in a constant quantity which is or may be for sale in a small shop, by an itinerant trader or from a vending machine.
+
+(4) The requirement in paragraph (1) applies in relation to an advertisement for a product only where the selling price of the product is indicated in the advertisement.
+
+## 7. Manner of indication of selling price and unit price[^key-58567d5dc9c5a4cfea783e00922c4b9a]
+
+(1) The indication of selling price and unit price shall be in sterling.
+
+(2) If a trader indicates his willingness to accept foreign currency in payment for a product, he shall, in addition to the required price indications in sterling –
+
+- (a) give an indication of the selling price and any unit price required for the product in the foreign currency in question together with any commission to be charged; or
+- (b) clearly identify the conversion rate on the basis of which the foreign currency price will be calculated together with any commission to be charged; and
+
+indicate that such selling price, unit price or conversion rate, as the case may be, does not apply to transactions via a payment card to be applied to accounts denominated in currencies other than sterling, the conversion rate for which will be that applied by the relevant payment scheme which processes the transaction.
+
+## 8. Further provisions on indication of selling price etc.[^key-72f88af93aa3fb44beaa3439a2893afc]
+
+(1) An indication of selling price, unit price, commission, conversion rate or a change in the rate or coverage of value added tax given in accordance with Article 12 shall be –
+
+- (a) unambiguous, easily identifiable and clearly legible;
+- (b) subject to paragraph (2), given in proximity to –
+  - (i) the product; or
+  - (ii) in the case of distance contracts and advertisements, a visual or written description of the product; and
+- (c) so placed as to be available to consumers without the need for them to seek assistance from the trader or someone on his behalf in order to ascertain it.
+
+(2) Paragraph (1)(b)(i) does not apply to an indication given in relation to any item of jewellery, item of precious metal, or watch displayed in a window of the premises where it is or may be for sale and the selling price of which is in excess of £3,000.
+
+(3) The indication of any charges for postage, package or delivery of a product shall be unambiguous, easily identifiable and clearly legible.
+
+(4) Where, in addition to a unit price, a price per quantity is indicated in relation to a supplementary indication of quantity the unit price shall be more prominent and the price per supplementary indication of quantity shall be expressed in characters no larger than the unit price.
+
+(5) In paragraph (4), “supplementary indication of quantity” refers to such indications of quantity as expressed in a unit of measurement other than a metric unit and as authorised by Article 6(7A) of the Weights and Measures (Northern Ireland) Order 1981[^f00010].
+
+## 9. Pre-packaged solid food in a liquid medium[^key-a84e8523b12de601d153ca3848bcdd98]
+
+In the case of a pre-packaged solid food product presented in a liquid medium, the unit price shall refer to the net drained weight of the product. Where a unit price is also given with reference to the net weight of the product, it shall be clearly indicated which unit price relates to net drained weight and which to net weight.
+
+## 10. Special provisions relating to general reductions[^key-d698d6e01e3d45094d3d0a28afeeb8bb]
+
+Where a trader proposes to sell products to which this Order applies at less than the selling price or the unit price previously applicable and indicated in accordance with Article 8(1), he may comply with the obligations specified in Articles 5(1) (to indicate the selling price) and 6(1) (to indicate the unit price) by indicating by a general notice or any other visible means that the products are or may be for sale at a reduction, provided that the details of the reduction are prominently displayed, unambiguous, easily identifiable and clearly legible.
+
+## 11. Special provisions relating to precious metals[^key-85165c7cddbba7a97efe9e53962cb52f]
+
+In the case of products the selling price of which varies from day to day according to the price of the precious metals contained in them the obligation to indicate the selling price referred to in Article 5(1) may be complied with by indicating in a manner which is unambiguous, easily identifiable and clearly legible –
+
+- (a) the weight, type and standard of fineness of each precious metal contained in the product; and
+- (b) any element of the selling price which is not referable to weight,
+
+accompanied by a clearly legible and prominent notice stating the price per unit of weight for the type and standard of fineness of each precious metal contained in the product.
+
+## 12. Change in Value Added Tax etc.[^key-681b42105c93c792a62d6634095876b6]
+
+Where there is a change in the rate or coverage of VAT or any other tax, a trader who adjusts his prices in consequence may comply with the provisions of this Order –
+
+- (a) by means of a general notice or notices for a period of 28[^key-e34a9468fe2c6125b1b71a421da94b24] days from the date any such change takes effect, indicating that any products subject to that change are not for sale at the price indicated and that such price will be adjusted to take account of the change; and
+- (b) if he continues to distribute any catalogue or sales literature printed or ordered to be printed before a change is announced and there is firmly attached to it a label which prominently states that some or all of the prices printed in it are to be adjusted to reflect the change, and
+  - (i) the label includes sufficient information to enable consumers to establish the adjusted price of any product listed, or
+  - (ii) the label refers to and is accompanied by a supplement which enables them to do so.
+
+## 13. Decimal places and rounding of unit prices below £1[^key-b4f450de1d53bbdb96dfffca5fb1b765]
+
+Where the unit price of a product falls below £1 it shall be expressed to the nearest 0·1p. Where the figure denoting one hundredths of one penny in the unit price is 5 or higher, it shall be rounded up and where it is 4 or lower it shall be rounded down.
+
+## 14. Decimal places and rounding of unit prices above £1[^key-26ea4e88d0d69692e386a6e75e84dd72]
+
+Where the unit price of a product falls above £1 it may be expressed to the nearest –
+
+- (a) 1p, in which case where the figure denoting tenths of one penny in the unit price is 5 or higher, it shall be rounded up and where it is 4 or lower it shall be rounded down; or
+- (b) 0·1p, in which case where the figure denoting one hundredths of one penny in the unit price is 5 or higher it shall be rounded up and where it is 4 or lower it shall be rounded down.
+
+## 15. Units of Quantity[^key-6a60176f5adafbefe1545e112ce68007]
+
+For the purposes of Schedule 1, the figure denoting the relevant units of quantity in the second column of the table for the corresponding product in the first column of the table refers, as indicated by or under the Weights and Measures (Northern Ireland) Order 1981, and unless specified otherwise to –
+
+- (a) grams where the product is sold by weight;
+- (b) millilitres where the product is sold by volume; and
+- (c) either grams or millilitres, as indicated by the manufacturer of the product, where the product is permitted to be sold by either weight or volume.
+
+## 16. Enforcement[^key-efd5e3a9a56afd6bdb6dee43c79d05b3]
+
+For the purpose of ascertaining whether any trader enjoys exemption from unit pricing under Article 6(3)(c) or (d) in respect of a small shop, the Department may require that trader to produce such documentary evidence relating to the shop in question as it considers necessary.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 27th August 2004.
+
+Michael Bohill
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — RELEVANT UNITS OF QUANTITY FOR SPECIFIC PRODUCTS FOR THE PURPOSE OF THE DEFINITION OF “UNIT PRICE”[^key-b7b172f9f2a5eb1117d3012832e09638]
+
+Articles 2(1) and 15
+
+| Product | Units of Quantity |
+| --- | --- |
+| Flavouring essences | 10 |
+| Food colourings | 10 |
+| Herbs | 10 |
+| Make-up products | 10 (except where sold by number) |
+| Seeds other than pea, bean, grass and wild bird seeds | 10 |
+| Spices | 10 |
+| Biscuits and shortbread | 100 (except where sold by number) |
+| Bread | 100 (except where sold by number) |
+| Breakfast cereal products | 100 (except where required to be quantity marked by number) |
+| Chocolate confectionery and sugar confectionery | 100 |
+| Coffee | 100 |
+| Cooked or ready-to-eat fish, seafoods and crustacea | 100 |
+| Cooked or ready-to-eat meat including game and poultry | 100 |
+| Cosmetic products other than make-up products | 100 |
+| Cream and non-dairy alternatives to cream | 100 |
+| Dips and spreads excluding edible fats | 100 |
+| Dry sauce mixes | 100 |
+| Fresh processed salad | 100 |
+| Fruit juices, soft drinks | 100 |
+| Handrolling and pipe tobacco | 100 |
+| Ice cream and frozen desserts | 100 |
+| Lubricating oils other than oils for internal combustion engines | 100 |
+| Pickles | 100 |
+| Pies, pasties, sausage rolls, puddings and flans indicating net quantity | 100 (except where sold by number) |
+| Potato crisps and similar products commonly known as snack foods | 100 |
+| Preserves including honey | 100 |
+| Ready to eat desserts | 100 |
+| Sauces, edible oils | 100 |
+| Soups | 100 |
+| Tea and other beverages prepared with liquid | 100 |
+| Waters, including spa waters and aerated waters | 100 |
+| Wines, sparkling wine, liqueur wine, fortified wine | 75 cl |
+| Coal, where sold by the kilogram | 50 kg |
+| Ballast, where sold by the kilogram | 1,000 kg |
+
+## SCHEDULE 2 — PRODUCTS IN RESPECT OF WHICH A TRADER IS EXEMPT FROM THE REQUIREMENT TO UNIT PRICE
+
+Article 6(3)
+
+**1.**[^key-7aa46ee0de687bfc38a18bcfa9e689d7] Any product which is offered by traders to consumers by means of an advertisement which is –
+
+- (a) purely aural;
+- (b) broadcast on television;
+- (c) shown at a cinema; or
+- (d) inside a small shop.
+
+**2.**[^key-58be98df1b556785605b7ebeb6b3089a] Any product the price of which has been reduced from the usual price at which it is sold, on account of –
+
+- (a) its damaged condition; or
+- (b) the danger of its deterioration.
+
+**3.**[^key-7151845bfe8c2ca540ea682545bc4796] Any product which comprises an assortment of different items sold in a single package.
+
+**4.**[^key-a2973a1f1201b311fdc14147d795c526] Any product the unit price of which is 0·0p as a result of Article 13 (Decimal places and rounding of unit prices below £1).
+
+(This note is not part of the Order.)
+
+This Order is made under section 4 of the Prices Act 1974 and implements Directive [98/6/EC](https://www.legislation.gov.uk/european/directive/1998/0006) of the European Parliament and of the Council (O.J. No. L80, 18.3.98, p. 27) on consumer protection in the indication of the prices of products offered to consumers. The Order revokes and re-enacts, with amendments, the Price Marking Order (Northern Ireland) 2000 which previously implemented the Directive.
+
+Article 4(1) provides that this Order does not apply to products which are supplied in the course of a provision of a service or sales by auction or sales of works of art or antiques.
+
+Article 4(2) applies to this Order the requirements of the Electronic Commerce (EC Directive) Regulations 2002.
+
+Article 5 requires traders to indicate the selling prices of all products to which this Order applies and offered for sale to consumers. Article 2 defines the selling price as the final price including VAT and other taxes.
+
+Article 6 requires, with exceptions, that the unit price must be indicated for all products sold from bulk and pre-packaged products which are required by or under Part V or VI of the Weights and Measures (Northern Ireland) Order 1981 to be marked with quantity or to be made up in a prescribed quantity. Article 15 specifies the units of quantity to be used for unit prices of the items listed in Schedule 1 to the Order.
+
+Article 7 requires selling and unit prices to be indicated in sterling but provides for additional indications to be given where a trader indicates that he is willing to accept payment in a foreign currency.
+
+Article 8 requires prices and other indications required under the Order to be given in a clear and unambiguous manner.
+
+The Order includes specific provisions relating to general price reductions (Article 10), precious metals the selling price of which varies from day to day (Article 11) and changes in VAT or other taxes which cause adjustments in prices (Article 12).
+
+Any person who contravenes this Order shall be guilty of an offence and shall be liable, on conviction on indictment, to a fine or, on summary conviction, to a fine not exceeding the prescribed sum (currently £5,000).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly known as the Department of Economic Development; *see* S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Art. 3(5)
+
+[^f00002]: Footnote: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24); section 4 was amended by the Price Commission Act [1977 (c. 33)](https://www.legislation.gov.uk/ukpga/1977/33), section 16(1) to (3)
+
+[^f00003]: Footnote: By S.I. [1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Art. 4
+
+[^f00004]: Footnote: *See* [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24); *see* section 2(6) as applied by section 4(3)
+
+[^key-534a80a69469d0f95f6dc9ede6e0a9a1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-88e597d8f7a818343849cae6cd0b8ac8]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/368/article/2) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-125fe0ba541c643e7b896748fea7e9b4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2004/368/article/2/1) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 11](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/11)
+
+[^f00006]: Footnote: [1973 c. 43](https://www.legislation.gov.uk/ukpga/1973/43)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-0aa64ec4ae4d2ad867ec6721d356f189]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/368/article/3) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^f00008]: Footnote: [S.R. 2000 No. 63](https://www.legislation.gov.uk/nisr/2000/63)
+
+[^key-6c9c3ea927dd6ecb8d95b6ff3b7f799b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/368/article/4) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-9b19a8b63a180b7c5125375fcca3254b]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2004/368/article/5) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-49190d7eac1028619f78870404acaab8]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2004/368/article/6) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^f00009]: Footnote: S.I. [1981/231 (N.I. 10)](https://www.legislation.gov.uk/nisi/1981/231)
+
+[^key-58567d5dc9c5a4cfea783e00922c4b9a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2004/368/article/7) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-72f88af93aa3fb44beaa3439a2893afc]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2004/368/article/8) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^f00010]: Footnote: Article 6(7A) was inserted by [S.R. 1995 No. 226](https://www.legislation.gov.uk/nisr/1995/226) and amended by [S.R. 2002 No. 70](https://www.legislation.gov.uk/nisr/2002/70)
+
+[^key-a84e8523b12de601d153ca3848bcdd98]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2004/368/article/9) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-d698d6e01e3d45094d3d0a28afeeb8bb]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2004/368/article/10) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-85165c7cddbba7a97efe9e53962cb52f]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2004/368/article/11) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-681b42105c93c792a62d6634095876b6]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2004/368/article/12) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-e34a9468fe2c6125b1b71a421da94b24]: Textual amendment: Word in [art. 12(a)](https://www.legislation.gov.uk/nisr/2004/368/article/12/a) substituted (1.11.2011) by [The Price Marking (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/330)](https://www.legislation.gov.uk/nisr/2011/330), [arts. 1](https://www.legislation.gov.uk/nisr/2011/330/article/1), [2](https://www.legislation.gov.uk/nisr/2011/330/article/2)
+
+[^key-b4f450de1d53bbdb96dfffca5fb1b765]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2004/368/article/13) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-26ea4e88d0d69692e386a6e75e84dd72]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2004/368/article/14) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-6a60176f5adafbefe1545e112ce68007]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2004/368/article/15) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-efd5e3a9a56afd6bdb6dee43c79d05b3]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2004/368/article/16) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-b7b172f9f2a5eb1117d3012832e09638]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/368/schedule/1) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-7aa46ee0de687bfc38a18bcfa9e689d7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2004/368/schedule/2/paragraph/1) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-58be98df1b556785605b7ebeb6b3089a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2004/368/schedule/2/paragraph/2) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-7151845bfe8c2ca540ea682545bc4796]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2004/368/schedule/2/paragraph/3) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)
+
+[^key-a2973a1f1201b311fdc14147d795c526]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2004/368/schedule/2/paragraph/4) in operation at 1.3.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1)

@@ -1,0 +1,250 @@
+---
+title: The Welfare Reform and Pensions (Northern Ireland) Order 1999, section 34
+act: The Welfare Reform and Pensions (Northern Ireland) Order 1999
+section: '34'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisi/1999/3147/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Reform and Pensions (Northern Ireland) Order 1999, section 34
+
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/nisi/1999/3147
+>
+> Extent: Northern Ireland.
+
+## 34. Requirements relating to pension credit benefit
+
+*Extent: N.I.*
+
+After section 97 of the Pension Schemes Act there shall be inserted—
+
+> **PART IVA — REQUIREMENTS RELATING TO PENSION CREDIT BENEFIT**
+>
+> **CHAPTER I — PENSION CREDIT BENEFIT UNDER OCCUPATIONAL SCHEMES**
+>
+> **97A. Scope of Chapter I.**
+>
+> (1) This Chapter applies to any occupational pension scheme whose resources are derived in whole or part from—
+>
+> - (a) payments to which subsection (2) applies made or to be made by one or more employers of earners to whom the scheme applies, or
+> - (b) such other payments by the earner or his employer, or both, as may be prescribed for different categories of scheme.
+>
+> (2) This subsection applies to payments—
+>
+> - (a) under an actual or contingent legal obligation, or
+> - (b) in the exercise of a power conferred, or the discharge of a duty imposed, on a Minister of the Crown, government department or any other person, being a power or duty which extends to the disbursement or allocation of public money.
+>
+> **97B. Interpretation.**
+>
+> In this Chapter—
+>
+> - “scheme” means an occupational pension scheme to which this Chapter applies;
+> - “pension credit rights” means rights to future benefits under a scheme which are attributable (directly or indirectly) to a pension credit;
+> - “pension credit benefit”, in relation to a scheme, means the benefits payable under the scheme to or in respect of a person by virtue of rights under the scheme attributable (directly or indirectly) to a pension credit;
+> - “normal benefit age”, in relation to a scheme, means the earliest age at which a person who has pension credit rights under the scheme is entitled to receive a pension by virtue of those rights (disregarding any scheme rule making special provision as to early payment of pension on grounds of ill-health or otherwise).
+>
+> **97C. Basic principle as to pension credit benefit.**
+>
+> (1) Normal benefit age under a scheme must be between 60 and 65.
+>
+> (2) A scheme must not provide for payment of pension credit benefit in the form of a lump sum at any time before normal benefit age, except in such circumstances as may be prescribed.
+>
+> **97D. Form of pension credit benefit and its alternatives.**
+>
+> (1) Subject to subsection (2) and section 97E, a person's pension credit benefit under a scheme must be—
+>
+> - (a) payable directly out of the resources of the scheme, or
+> - (b) assured to him by such means as may be prescribed.
+>
+> (2) Subject to subsections (3) and (4), a scheme may, instead of providing a person's pension credit benefit, provide—
+>
+> - (a) for his pension credit rights under the scheme to be transferred to another occupational pension scheme or a personal pension scheme with a view to acquiring rights for him under the rules of the scheme, or
+> - (b) for such alternatives to pension credit benefit as may be prescribed.
+>
+> (3) The option conferred by subsection (2)(a) is additional to any obligation imposed by Chapter II of this Part.
+>
+> (4) The alternatives specified in subsection (2)(a) and (b) may only be by way of complete or partial substitute for pension credit benefit—
+>
+> - (a) if the person entitled to the benefit consents, or
+> - (b) in such other cases as may be prescribed.
+>
+> **97E. Discharge of liability where pension credit or alternative benefits secured by insurance policies or annuity contracts.**
+>
+> (1) A transaction to which section 15 applies discharges the trustees or managers of a scheme from their liability to provide pension credit benefit or any alternative to pension credit benefit for or in respect of a member of the scheme if and to the extent that—
+>
+> - (a) it results in pension credit benefit, or any alternative to pension credit benefit, for or in respect of the member being appropriately secured (within the meaning of that section),
+> - (b) the transaction is entered into with the consent of the member or, if the member has died, of the member's widow or widower, and
+> - (c) such requirements as may be prescribed are met.
+>
+> (2) Regulations may provide that subsection (1)(b) shall not apply in prescribed circumstances.
+>
+> **CHAPTER II — TRANSFER VALUES**
+>
+> **97F. Power to give transfer notice.**
+>
+> (1) An eligible member of a qualifying scheme may by notice in writing require the trustees or managers of the scheme to use an amount equal to the cash equivalent of his pension credit benefit for such one or more of the authorised purposes as he may specify in the notice.
+>
+> (2) In the case of a member of an occupational pension scheme, the authorised purposes are—
+>
+> - (a) to acquire rights allowed under the rules of an occupational pension scheme, or personal pension scheme, which is an eligible scheme;
+> - (b) to purchase from one or more insurance companies such as are mentioned in section 15(4)(a), chosen by the member and willing to accept payment on account of the member from the trustees or managers, one or more annuities which satisfy the prescribed requirements; and
+> - (c) in such circumstances as may be prescribed, to subscribe to other pension arrangements which satisfy prescribed requirements.
+>
+> (3) In the case of a member of a personal pension scheme, the authorised purposes are—
+>
+> - (a) to acquire rights allowed under the rules of an occupational pension scheme, or personal pension scheme, which is an eligible scheme; and
+> - (b) in such circumstances as may be prescribed, to subscribe to other pension arrangements which satisfy prescribed requirements.
+>
+> (4) The cash equivalent for the purposes of subsection (1) shall—
+>
+> - (a) in the case of a salary related occupational pension scheme, be taken to be the amount shown in the relevant statement under section 97H, and
+> - (b) in any other case, be determined by reference to the date the notice under that subsection is given.
+>
+> (5) The requirements which may be prescribed under subsection (2) or (3) include, in particular, requirements of the Inland Revenue.
+>
+> (6) In subsections (2) and (3), references to an eligible scheme are to a scheme—
+>
+> - (a) the trustees or managers of which are able and willing to accept payment in respect of the member's pension credit rights, and
+> - (b) which satisfies the prescribed requirements.
+>
+> (7) In this Chapter, “transfer notice” means a notice under subsection (1).
+>
+> **97G. Restrictions on power to give transfer notice.**
+>
+> (1) In the case of a salary related occupational pension scheme, the power to give a transfer notice may only be exercised if—
+>
+> - (a) the member has been provided with a statement under section 97H, and
+> - (b) not more than 3 months have passed since the date by reference to which the amount shown in the statement is determined.
+>
+> (2) The power to give a transfer notice may not be exercised in the case of an occupational pension scheme if—
+>
+> - (a) there is less than a year to go until the member reaches normal benefit age, or
+> - (b) the pension to which the member is entitled by virtue of his pension credit rights, or benefit in lieu of that pension, or any part of it has become payable.
+>
+> (3) Where an eligible member of a qualifying scheme—
+>
+> - (a) is entitled to make an application under section 91 to the trustees or managers of the scheme, or
+> - (b) would be entitled to do so, but for the fact that he has not received a statement under section 89A in respect of which the guarantee date is sufficiently recent,
+>
+> he may not, if the scheme so provides, exercise the power to give them a transfer notice unless he also makes an application to them under section 91.
+>
+> (4) The power to give a transfer notice may not be exercised if a previous transfer notice given by the member to the trustees or managers of the scheme is outstanding.
+>
+> **97H. Salary related schemes: statements of entitlement.**
+>
+> (1) The trustees or managers of a qualifying scheme which is a salary related occupational pension scheme shall, on the application of an eligible member, provide him with a written statement of the amount of the cash equivalent of his pension credit benefit under the scheme.
+>
+> (2) For the purposes of subsection (1), the amount of the cash equivalent shall be determined by reference to a date falling within—
+>
+> - (a) the prescribed period beginning with the date of the application, and
+> - (b) the prescribed period ending with the date on which the statement under that subsection is provided to the applicant.
+>
+> (3) Regulations may make provision in relation to applications under subsection (1) and may, in particular, restrict the making of successive applications.
+>
+> (4) If trustees or managers to whom subsection (1) applies fail to perform an obligation under that subsection, Article 10 of the Pensions (Northern Ireland) Order 1995 (power of the Regulatory Authority to impose civil penalties) shall apply to any trustee or manager who has failed to take all such steps as are reasonable to secure that the obligation was performed.
+>
+> **97I. Calculation of cash equivalents.**
+>
+> Cash equivalents for the purposes of this Chapter shall be calculated and verified in the prescribed manner.
+>
+> **97J. Time for compliance with transfer notice.**
+>
+> (1) Trustees or managers of a qualifying scheme who receive a transfer notice shall comply with the notice—
+>
+> - (a) in the case of an occupational pension scheme, within 6 months of the valuation date or, if earlier, by the date on which the member to whom the notice relates reaches normal benefit age, and
+> - (b) in the case of a personal pension scheme, within 6 months of the date on which they receive the notice.
+>
+> (2) The Regulatory Authority may, in prescribed circumstances, extend the period for complying with the notice.
+>
+> (3) If the Regulatory Authority are satisfied—
+>
+> - (a) that there has been a relevant change of circumstances since they granted an extension under subsection (2), or
+> - (b) that they granted an extension under that subsection in ignorance of a material fact or on the basis of a mistake as to a material fact,
+>
+> they may revoke or reduce the extension.
+>
+> (4) Where the trustees or managers of an occupational pension scheme have failed to comply with a transfer notice before the end of the period for compliance—
+>
+> - (a) they shall, except in prescribed cases, notify the Regulatory Authority of that fact within the prescribed period, and
+> - (b) Article 10 of the Pensions (Northern Ireland) Order 1995 (power of the Regulatory Authority to impose civil penalties) shall apply to any trustee or manager who has failed to take all such steps as are reasonable to ensure that the notice was complied with before the end of the period for compliance.
+>
+> (5) If trustees or managers to whom subsection (4)(a) applies fail to perform the obligation imposed by that provision, Article 10 of the Pensions (Northern Ireland) Order 1995 shall apply to any trustee or manager who has failed to take all such steps as are reasonable to ensure that the obligation was performed.
+>
+> (6) Regulations may—
+>
+> - (a) make provision in relation to applications under subsection (2), and
+> - (b) provide that subsection (4) shall not apply in prescribed circumstances.
+>
+> (7) In this section “valuation date”, in relation to a transfer notice given to the trustees or managers of an occupational pension scheme, means—
+>
+> - (a) in the case of a salary related scheme, the date by reference to which the amount shown in the relevant statement under section 97H is determined, and
+> - (b) in the case of any other scheme, the date the notice is given.
+>
+> **97K. Withdrawal of transfer notice.**
+>
+> (1) Subject to subsections (2) and (3), a person who has given a transfer notice may withdraw it by giving the trustees or managers to whom it was given notice in writing that he no longer requires them to comply with it.
+>
+> (2) A transfer notice may not be withdrawn if the trustees or managers have already entered into an agreement with a third party to use the whole or part of the amount they are required to use in accordance with the notice.
+>
+> (3) If the giving of a transfer notice depended on the making of an application under section 91, the notice may only be withdrawn if the application is also withdrawn.
+>
+> **97L. Variation of the amount required to be used.**
+>
+> (1) Regulations may make provision for the amount required to be used under section 97F(1) to be increased or reduced in prescribed circumstances.
+>
+> (2) Without prejudice to the generality of subsection (1), the circumstances which may be prescribed include—
+>
+> - (a) failure by the trustees or managers of a qualifying scheme to comply with a notice under section 97F(1) within 6 months of the date by reference to which the amount of the cash equivalent falls to be determined, and
+> - (b) the state of funding of a qualifying scheme.
+>
+> (3) Regulations under subsection (1) may have the effect of extinguishing an obligation under section 97F(1).
+>
+> **97M. Effect of transfer on trustees' duties.**
+>
+> Compliance with a transfer notice shall have effect to discharge the trustees or managers of a qualifying scheme from any obligation to provide the pension credit benefit of the eligible member who gave the notice.
+>
+> **97N. Matters to be disregarded in calculations.**
+>
+> In making any calculation for the purposes of this Chapter—
+>
+> - (a) any charge or lien on, and
+> - (b) any set-off against,
+>
+> the whole or part of a pension shall be disregarded.
+>
+> **97O. Service of notices.**
+>
+> A notice under section 97F(1) or 97K(1) shall be taken to have been given if it is delivered to the trustees or managers personally or sent by post in a registered letter or by recorded delivery service.
+>
+> **97P. Interpretation of Chapter II.**
+>
+> (1) In this Chapter—
+>
+> - “eligible member”, in relation to a qualifying scheme, means a member who has pension credit rights under the scheme;
+> - “normal benefit age”, in relation to an eligible member of a qualifying scheme, means the earliest age at which the member is entitled to receive a pension by virtue of his pension credit rights under the scheme (disregarding any scheme rule making special provision as to early payment of pension on grounds of ill-health or otherwise);
+> - “pension credit benefit”, in relation to an eligible member of a qualifying scheme, means the benefits payable under the scheme to or in respect of the member by virtue of rights under the scheme attributable (directly or indirectly) to a pension credit;
+> - “pension credit rights”, in relation to a qualifying scheme, means rights to future benefits under the scheme which are attributable (directly or indirectly) to a pension credit;
+> - “qualifying scheme” means a funded occupational pension scheme and a personal pension scheme;
+> - “transfer notice” has the meaning given by section 97F(7).
+>
+> (2) For the purposes of this Chapter, an occupational pension scheme is salary related if—
+>
+> - (a) it is not a money purchase scheme, and
+> - (b) it does not fall within a prescribed class.
+>
+> (3) In this Chapter, references to the relevant statement under section 97H, in relation to a transfer notice given to the trustees or managers of a salary related occupational pension scheme, are to the statement under that section on which the giving of the notice depended.
+>
+> (4) For the purposes of this section, an occupational pension scheme is funded if it meets its liabilities out of a fund accumulated for the purpose during the life of the scheme.
+>
+> **97Q. Power to modify Chapter II in relation to hybrid schemes.**
+>
+> Regulations may apply this Chapter with prescribed modifications to occupational pension schemes—
+>
+> - (a) which are not money purchase schemes, but
+> - (b) where some of the benefits that may be provided are money purchase benefits.
+
+.

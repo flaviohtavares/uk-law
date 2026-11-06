@@ -1,0 +1,136 @@
+---
+title: The Transfer of Employment (Pension Protection) Regulations (Northern Ireland) 2005
+id: nisr/2005/94
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-11'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/94
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/94/pdfs/nisr_20050094_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/94/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transfer of Employment (Pension Protection) Regulations (Northern Ireland) 2005
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 94
+
+PENSIONS
+
+The Transfer of Employment (Pension Protection) Regulations (Northern Ireland) 2005
+
+Made
+
+11th March 2005
+
+Coming into operation
+
+6th April 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Article 235(2)(c)(ii) and (7) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement, application and interpretation[^key-d2fd64fbf1cd40d33bbaf2956e5cd1c3]
+
+(1) These Regulations may be cited as the Transfer of Employment (Pension Protection) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+(2) These Regulations apply in the case of a person (“the employee”) in relation to whom Article 234 (conditions for pension protection) applies, that is to say a person who, in the circumstances described in paragraph (1) of that Article, ceases to be employed by the transferor of an undertaking or part of an undertaking and becomes employed by the transferee.
+
+(3)[^key-9b6b29f35852793ac9c765fe8720d80e] In these Regulations “remuneration period” means a period in respect of which the employee is paid remuneration.
+
+(4) In calculating the amount of the employee’s remuneration for the purposes of these Regulations—
+
+- (a) only payments made in respect of basic pay shall be taken into account and bonus, commission, overtime and similar payments shall be disregarded, and
+- (b) no account shall be taken of any deductions which are made in respect of tax, national insurance or pension contributions.
+
+(5) In calculating the amount of a transferee’s pension contributions for the purposes of these Regulations in the case of a scheme which is contracted-out by virtue of section 5 of the Pension Schemes Act (requirements for certification of schemes: general), minimum payments within the meaning of that Act shall be disregarded.
+
+(6) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 2005 bearing that number.
+
+## 2. Requirements where the transferee’s pension scheme is not a money purchase scheme[^key-d1fb177d09344a82a695fbd8081ab363][^key-cd9f52f01af2875636b13a4b4344418b]
+
+(1) In a case where these Regulations apply, and the transferee is the employer in relation to a pension scheme which is not a money purchase scheme, that scheme complies with Article 235(2)(c)[^key-891d54b5a74f1398669b2633f84cc9b3] (alternative standard for a scheme which is not a money purchase scheme) if it provides either –
+
+- (a) for members to be entitled to benefits the value of which equals or exceeds 6 per cent. of pensionable pay for each year of employment together with the total amount of any contributions made by them and, where members are required to make contributions to the scheme, for them to contribute at a rate which does not exceed 6 per cent. of their pensionable pay, or
+- (b) for the transferee to make relevant contributions to the scheme on behalf of each employee of his who is an active member of it.
+
+(2)[^key-075ea38a6979786bb6acafdf0b0ce065] In this regulation—
+
+- “pensionable pay” means that part of the remuneration payable to a member of a scheme by reference to which the amount of contributions and benefits are determined under the rules of the scheme;
+- “relevant contributions” means contributions—
+  - (a) made by the transferee in respect of each remuneration period in respect of which the employee contributes to the scheme, and
+  - (b) the amount of which is—
+    - (i) where the employee’s contributions are less than 6 per cent. of the employee’s remuneration, not less than the contributions made by the employee, or
+    - (ii) where the employee’s contributions equal or exceed 6 per cent. of the employee’s remuneration, not less than 6 per cent. of that remuneration.
+
+## 3. Requirements where the transferee’s pension scheme is a money purchase scheme or stakeholder pension scheme[^key-fe11c72db57d9f3f4721ece80be5905a]
+
+(1) In a case where these Regulations apply, the transferee’s contributions are relevant contributions for the purposes of paragraphs (2)((money purchase scheme) and (3) to (5) (stakeholder pension scheme) of Article 235, if—
+
+- (a) the contributions are made in respect of each remuneration period in respect of which the employee contributes to the scheme, and
+- (b) paragraph (2) or (3) is satisfied.
+
+(2) This paragraph is satisfied if the amount contributed by the transferee in respect of each remuneration period is—
+
+- (a) where the employee’s contributions are less than 6 per cent. of the employee’s remuneration, an amount not less than the contributions made by the employee;
+- (b) where the employee’s contributions equal or exceed 6 per cent. of the employee’s remuneration, an amount not less than 6 per cent. of that remuneration.
+
+(3) This paragraph is satisfied if—
+
+- (a) in respect of the remuneration period immediately before the relevant time—
+  - (i) the transferor had been required to make contributions, and
+  - (ii) those contributions had been solely for the purpose of producing money purchase benefits for the employee, and
+- (b) the amount contributed by the transferee is not less than the amount the transferor had been required to contribute.
+
+Sealed with the Official Seal of the Department for Social Development on 11th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations concern the obligations of an employer under Article 235 of the Pensions (Northern Ireland) Order 2005 (“the Order”) towards a person in relation to whom Article 234 of the Order applies.
+
+Article 234 of the Order applies to a person (“the employee”) who becomes the employee of a new employer (“the transferee”) by virtue of a transfer to which the Transfer of Undertakings (Protection of Employment) Regulations 1981 apply, and who had actual or contingent rights in relation to an occupational pension scheme immediately before the transfer.
+
+Under Article 235 of the Order, the transferee is required to secure that the employee is, or is eligible to become, an active member of an occupational pension scheme (as defined in section 1 of the Pension Schemes (Northern Ireland) Act 1993 (“the Pension Schemes Act”) as substituted by Article 216 of the Order) in relation to which the transferee is the employer and, if it is a money purchase scheme, to make “relevant contributions” to it. Alternatively, the transferee must make such contributions to a stakeholder pension scheme of which the employee is a member (or offer to contribute to a stakeholder scheme of which he is eligible to be a member).
+
+Article 235(2)(c) of the Order provides that a scheme in relation to which the transferee is the employer, if it is not a money purchase scheme, must satisfy a standard provided for in the Pension Schemes Act or, if regulations so provide, comply with prescribed requirements. For the purposes of this provision, regulation 2 requires that either the value of the benefits provided for by the transferee’s scheme must be at least 6 per cent. of pensionable pay for each year of employment in addition to any contributions made by him or that the scheme must provide for the employer to make relevant contributions on behalf of his employees.
+
+Article 235(7) of the Order provides for “relevant contributions” to be defined in regulations. Regulation 3 provides that such contributions must be made in respect of each period for which the employee contributes to the pension scheme, and that the amount contributed must equal the employee’s contribution subject to an upper limit of 6 per cent. of basic pay.
+
+Article 235 of the Order, under which these Regulations are made, was brought into operation, for the purpose only of authorising the making of regulations, on 25th February 2005 and for all other purposes on 6th April 2005, by virtue of the Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)).
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-d2fd64fbf1cd40d33bbaf2956e5cd1c3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/94/regulation/1) in operation at 6.4.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/2)
+
+[^key-9b6b29f35852793ac9c765fe8720d80e]: Textual amendment: [Reg. 1(3)-(6)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/3) substituted for [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/3) (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/2)
+
+[^key-d1fb177d09344a82a695fbd8081ab363]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/94/regulation/2) in operation at 6.4.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/2)
+
+[^key-cd9f52f01af2875636b13a4b4344418b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/94/regulation/2) heading substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/3)
+
+[^key-891d54b5a74f1398669b2633f84cc9b3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/94/regulation/2/1) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [20](https://www.legislation.gov.uk/nisr/2016/158/article/20)
+
+[^key-075ea38a6979786bb6acafdf0b0ce065]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/2/2) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/4)
+
+[^key-fe11c72db57d9f3f4721ece80be5905a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/94/regulation/3) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/5)

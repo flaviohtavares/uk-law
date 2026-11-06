@@ -1,0 +1,165 @@
+---
+title: The Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005
+id: nisr/2005/398
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-08-18'
+text_date: '2013-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/398
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/398/pdfs/nisrem_20050398_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/398/pdfs/nisr_20050398_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/398/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005
+
+> Text as at 2013-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 398
+
+INSOLVENCY
+
+The Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005
+
+Made
+
+18th August 2005
+
+To be laid before Parliament
+
+Coming into operation
+
+19th September 2005
+
+The Lord Chancellor, in exercise of the powers conferred on him by Article 359 of the Insolvency (Northern Ireland) Order 1989[^f00001], and of all other powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00002], and after consulting the committee existing for that purpose under Article 360 of the said Order, hereby makes the following Rules:
+
+## 1. Citation and commencement[^key-6ecb5ced1f20884dac04c51a59f054f7]
+
+These Rules may be cited as the Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005 and shall come into operation on 19th September 2005.
+
+## 2. Interpretation[^key-bad1c124e48fc50fabc30d93fc14163b]
+
+In these Rules—
+
+- “the Act” means the Financial Services and Markets Act 2000[^f00003];
+- “the Authority” means—[^key-a03b23f46e639de83a228d0b43cebe3d]
+  - (a) in a case where the individual is a PRA-authorised person or is carrying on a PRA-regulated activity in contravention of section 19 of the Financial Services and Markets Act 2000, the Financial Conduct Authority or the Prudential Regulation Authority;
+  - (b) in any other case, the Financial Conduct Authority;
+- “debt” means the sum referred to in section 372(4)(a) of the Act;
+- “demand” means a demand made under section 372(4)(a) of the Act;
+- “individual” has the meaning given by section 372(7) of the Act;
+- “person” excludes a body of persons corporate or unincorporate;
+- “the 1991 Rules” means the Insolvency Rules (Northern Ireland) 1991[^f00004].
+
+## 3. Modification of the 1991 Rules[^key-3f0d1af06f99f730ca444bec613b0cfb]
+
+The 1991 Rules shall apply in relation to a demand, subject to the modifications set out in Rules 4 to 7.
+
+## 4. Rule 6.001[^key-810dde596a3f525cb6de44f6da7ae6aa]
+
+(1) Rule 6.001 (form and content of statutory demand) is disapplied.
+
+(2) A demand must be dated and signed by a member of the Authority’s staff authorised by it for that purpose.
+
+(3) A demand must specify that it is made under section 372(4)(a) of the Act.
+
+(4) A demand must state the amount of the debt, to whom it is owed and the consideration for it or, if there is no consideration, the way in which it arises; but if the person to whom the debt is owed holds any security in respect of the debt of which the Authority is aware—
+
+- (a) the demand must specify the nature of the security and the value which the Authority puts upon it as at the date of the demand; and
+- (b) the amount of which payment is claimed by the demand must be the full amount of the debt less the amount specified as the value of the security.
+
+(5) A demand must state the grounds on which it is alleged that the individual appears to have no reasonable prospect of paying the debt.
+
+## 5. Rule 6.002[^key-14eaf4b38eb7686d101a92332d748776]
+
+(1) Rule 6.002 (information to be given in statutory demand) is disapplied.
+
+(2) The demand must include an explanation to the individual of the following matters—
+
+- (a) the purpose of the demand and the fact that, if the individual does not comply with the demand, bankruptcy proceedings may be commenced against him;
+- (b) the time within which the demand must be complied with, if that consequence is to be avoided;
+- (c) the methods of compliance which are open to the individual; and
+- (d) the individual’s right to apply to the court for the demand to be set aside.
+
+(3) The demand must specify the name and address (and telephone number, if any) of one or more persons with whom the individual may, if he wishes, enter into communication with a view to establishing to the Authority’s satisfaction that there is a reasonable prospect that the debt will be paid when it falls due or (as the case may be) that the debt will be secured or compounded.
+
+## 6. Rules 6.003, 6.005, 6.010 and 6.022[^key-24137fe6f320368b5efddab3e88dcb6d]
+
+(1) Rules 6.003 (requirements as to service), 6.005 (hearing of application to set aside), 6.010, (proof of service of statutory demand) and 6.022 (decision on the hearing) apply as if—
+
+- (a) references to the debtor were references to an individual;
+- (b) references (other than in rule 6.005(2) and (4)(c)) to the creditor were references to the Authority; and
+- (c) references to the creditor in rule 6.005(2) and (4)(c) were references to the person to whom the debt is owed.
+
+(2) Rule 6.005(2) applies as if the reference to the creditor also included a reference to the Authority.
+
+(3) Rule 6.005(5) is disapplied and there is substituted the following—
+
+> - Where the person to whom the debt is owed holds some security in respect of his debt, and Rule 4(4) of the Bankruptcy (Financial Services and Markets Act 2000) Rules (Northern Ireland) 2005 is complied with in respect of it but the court is satisfied that the security is undervalued in the demand, the Authority may be required to amend the demand accordingly (but without prejudice to its right to present a bankruptcy petition by reference to the original demand).
+
+## 7. Rule 6.004[^key-6d79313b705f2b0d743f722722179090]
+
+Rule 6.004 (application to set aside statutory demand) applies as if references to the debtor were references to an individual.
+
+Signed by the authority of the Lord Chancellor
+
+Bridget Prentice
+
+Parliamentary Under-Secretary of State,
+
+Department for Constitutional Affairs
+
+Dated 11th August 2005
+
+The Department of Enterprise, Trade and Investment hereby concurs with the foregoing Rules.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 18th August 2005.
+
+Michael J. Bohill
+
+Senior Officer of the
+
+Department of Enterprise, Trade and Investment
+
+(This note is not part of the Rules.)
+
+These Rules modify the Insolvency Rules (Northern Ireland) 1991 in relation to a demand made by the Financial Services Authority (under section 372(4)(a) of the Financial Services and Markets Act 2000) to an individual that he establish to the Authority’s satisfaction that he has a reasonable prospect of being able to pay a regulated activity debt when it falls due.
+
+The Rules make provision, amongst other things, as to the form and content of a demand, information to be given in a demand, requirements as to service and applications to set aside a demand.
+
+## Annotations
+
+[^f00001]: Footnote: The Insolvency (Northern Ireland) Order 1989 (S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)); Article 359 is applied by section 372 of the Financial Services and Markets Act 2000 and was amended by Regulation 4(2) of the Insolvency (Northern Ireland) Order 1989 (Amendment) Regulations (Northern Ireland) 2002 ([S.R. 2002 No. 223](https://www.legislation.gov.uk/nisr/2002/223))
+
+[^f00002]: Footnote: Formerly the Department of Economic Development; *see* the Departments (Northern Ireland) Order 1999 (S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5))
+
+[^key-6ecb5ced1f20884dac04c51a59f054f7]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)
+
+[^key-bad1c124e48fc50fabc30d93fc14163b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/398/article/2) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)
+
+[^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
+
+[^key-a03b23f46e639de83a228d0b43cebe3d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2005/398/article/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/103)
+
+[^f00004]: Footnote: The Insolvency Rules (Northern Ireland) 1991 ([S.R. 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364)), as amended by the Insolvency (Amendment) Rules (Northern Ireland) 1994 ([S.R. 1994 No. 26](https://www.legislation.gov.uk/nisr/1994/26)), the Insolvency (Amendment) Rules (Northern Ireland) 1995 ([S.R. 1995 No. 291](https://www.legislation.gov.uk/nisr/1995/291)), the Insolvency (Amendment) Rules (Northern Ireland) 2000 ([S.R. 2000 No. 247](https://www.legislation.gov.uk/nisr/2000/247)), and the Insolvency (Amendment) Rules (Northern Ireland) 2002 ([S.R. 2002 No. 261](https://www.legislation.gov.uk/nisr/2002/261)) and the Insolvency (Amendment) Rules (Northern Ireland) 2003 ([S.R. 2003 No. 549](https://www.legislation.gov.uk/nisr/2003/549))
+
+[^key-3f0d1af06f99f730ca444bec613b0cfb]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/398/article/3) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)
+
+[^key-810dde596a3f525cb6de44f6da7ae6aa]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/398/article/4) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)
+
+[^key-14eaf4b38eb7686d101a92332d748776]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/398/article/5) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)
+
+[^key-24137fe6f320368b5efddab3e88dcb6d]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/398/article/6) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)
+
+[^key-6d79313b705f2b0d743f722722179090]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2005/398/article/7) in operation at 19.9.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/398/article/1)

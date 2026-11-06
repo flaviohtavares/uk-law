@@ -1,0 +1,57 @@
+---
+title: Adoption and Children Act (Northern Ireland) 2022, section 39
+act: Adoption and Children Act (Northern Ireland) 2022
+section: '39'
+status: not-yet-in-force
+text_date: '2024-11-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2022/18/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adoption and Children Act (Northern Ireland) 2022, section 39
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 39. Child to live with adopters before application[^key-c169eacf67ecbd606c42bffd2ffa314b]
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) An application for an adoption order may not be made unless—
+
+- (a) if subsection (2) applies, the condition in that subsection is met;
+- (b) if that subsection does not apply, the condition in whichever is applicable of subsections (3) to (5) applies.
+
+(2) If—
+
+- (a) the child was placed for adoption with the applicant or applicants by an adoption agency or in pursuance of an order of the High Court; or
+- (b) the applicant is a parent of the child,
+
+the condition is that the child’s home must have been with the applicant or, in the case of an application by a couple, with one or both of them at all times during the period of ten weeks preceding the application.
+
+(3) If the applicant or one of the applicants is the partner of a parent of the child, the condition is that the child’s home must have been with the applicant or, as the case may be, applicants at all times during the period of one year preceding the application.
+
+(4) If the applicants are authority foster parents, the condition is that the child’s home must have been with the applicants at all times during the period of one year preceding the application.
+
+(5) In any other case, the condition is that the child’s home must have been with the applicant or, in the case of an application by a couple, with one or both of them for not less than three years (whether continuous or not) during the period of five years preceding the application.
+
+(6) But subsections (4) and (5) do not prevent an application being made if the court gives leave to make it.
+
+(7) An adoption order may not be made unless the court is satisfied that sufficient opportunities to see the child with the applicant or, in the case of an application by a couple, both of them together in the home environment have been given—
+
+- (a) where the child was placed for adoption with the applicant or applicants by an adoption agency, to that agency;
+- (b) in any other case, to the adoption authority within whose area the child’s home is.
+
+(8) In this section and sections 40 and 41(1)—
+
+- (a) references to an adoption agency include an adoption agency within the meaning of section 2(1) of the Adoption and Children Act 2002 or Scottish adoption agency within the meaning of 144(3) of that Act;
+- (b) references to a child placed for adoption by an adoption agency are to be read accordingly.
+
+## Annotations
+
+[^key-c169eacf67ecbd606c42bffd2ffa314b]: Commencement: S. 39 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

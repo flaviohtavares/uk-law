@@ -1,0 +1,130 @@
+---
+title: The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2017
+id: nisr/2017/144
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2017-07-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2017/144
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2017/144/pdfs/nisrem_20170144_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/144/pdfs/nisr_20170144_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/144/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 144
+
+Housing
+
+The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2017
+
+Made
+
+6th July 2017
+
+Laid before Parliament
+
+10th July 2017
+
+Coming into operation in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by Articles 16, 38(1) and 48(2)(b) of the Welfare Reform (Northern Ireland) Order 2015[^f00001].
+
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of the Welfare Reform (Northern Ireland) Order 2015.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2017 and shall come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016[^f00002]
+
+## 2. Amendment to the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016
+
+(1) The Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016[^f00003] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 3 (broad rental market area determinations) after paragraph (2) insert—
+
+> (2A) The power in paragraph (2) is not limited by paragraph 2(1A) or (1B) of Schedule 1.
+
+.
+
+(3) In Schedule 1 (local housing allowance determinations)—
+
+- (a) in paragraph 2 (local housing allowance for category of dwelling in paragraph 1)—
+  - (i) after sub-paragraph (1) insert—
+
+    > (1A) For a broad rental market area not listed in column 1 in the table in paragraph 5 the local housing allowance for any category of dwelling is the lower of the amounts in sub-paragraphs (2)(a) and (b).
+    >
+    > (1B) For a broad market area listed in column 1 of the table in paragraph 5, the local housing allowance—
+    >
+    > - (a) for a category of dwelling listed in the corresponding entry in column 2 of that table, is the lower of the amounts set out in sub-paragraph (2A)(a) and (b);
+    > - (b) for a category of dwelling not so listed, is the lower of the amounts set out in sub-paragraph (2)(a) and (b).
+
+    ;
+  - (ii) in sub-paragraph (2)—
+    - (aa) for the words before paragraph (a) substitute “The amounts referred to in sub-paragraph (1A) and (1B)(b) are—”;
+    - (bb) at the end of paragraph (a) for “or” substitute “and”;
+    - (cc) in paragraph (b) omit “, where that rent is lower than the allowance referred to in head (a)”;
+  - (iii) after sub-paragraph (2) insert—
+
+    > (2A) The amounts referred to in sub-paragraph (1B)(a) are—
+    >
+    > - (a) the local housing allowance determined for that category of dwelling on 30th January 2015, plus 3%; and
+    > - (b) the maximum local housing allowance listed in column (2) of the following table for the category of dwelling—
+    >
+    >   | (1) Category of dwelling as defined in the following paragraphs of this Schedule | (2) Maximum local housing allowance for that category of dwelling |
+    >   | --- | --- |
+    >   | (1) Category of dwelling as defined in the following paragraphs of this Schedule | (2) Maximum local housing allowance for that category of dwelling |
+    >   | Paragraph 1(a) (one bedroom, shared accommodation) | £1129.42 |
+    >   | Paragraph 1(b) (one bedroom, exclusive use) | £1129.42 |
+    >   | Paragraph 1(c) (two bedrooms) | £1310.13 |
+    >   | Paragraph 1(d) (three bedrooms) | £1536.01 |
+    >   | Paragraph 1(e) (four bedrooms) | £1807.07 |
+- (b) after paragraph 4 add—
+
+  > **5.** The table referred to in paragraph 2(1A) and (1B) is—
+  >
+  > | (1) Broad rental market area | (2) Category of dwelling as defined in the following paragraphs of this Schedule |
+  > | --- | --- |
+  > | BRMA1 – South | Paragraph 1(a) (one bedroom, shared accommodation) |
+  > | BRMA1 – South | Paragraph 1(b) (one bedroom, exclusive use) |
+  > | BRMA1 – South | Paragraph 1(e) (four bedrooms) |
+  > | BRMA3 – Lough Neagh Lower | Paragraph 1(a) (one bedroom, shared accommodation) |
+  > | BRMA6 – South East | Paragraph 1(e) (four bedrooms) |
+  > | BRMA8 – Belfast | Paragraph 1(e) (four bedrooms) |
+
+Signed by the authority of the Secretary of State for Work and Pensions
+
+Caroline Dinenage
+
+Minister of State
+
+Department for Work and Pensions
+
+6th July 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016 ([S.R. 2016 No. 222](https://www.legislation.gov.uk/nisr/2016/222)) to make changes to the manner in which the local housing allowance is determined.
+
+Regulation 2 amends those Regulations to provide that, for dwellings in specified categories in specified broad rental market areas, the local housing allowance is as currently determined but with an uplift of 3%. This Regulation further provides that for these dwellings, there is a maximum local housing allowance.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^f00002]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
+
+[^f00003]: Footnote: [S.R. 2016 No. 222](https://www.legislation.gov.uk/nisr/2016/222)

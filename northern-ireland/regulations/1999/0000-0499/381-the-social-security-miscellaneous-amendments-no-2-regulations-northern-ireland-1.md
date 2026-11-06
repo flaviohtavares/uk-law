@@ -1,0 +1,247 @@
+---
+title: The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999
+id: nisr/1999/381
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-09-14'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/381
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/381/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 381
+
+HOUSING; RATES
+
+SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999
+
+Made
+
+14th September 1999
+
+Coming into operation
+
+4th October 1999
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 123(1)(e), 131(1), 132(3) and (4)(b), 133(2)(d), 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Article 36(2) of, and paragraph 1(2) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002] and sections 1(1), 5(1)(a), 61(2A) and 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00004] in so far as regulation 4 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00005], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-68967fcb44fcd6d175da37d37af71d67]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999 and shall come into operation on 4th October 1999.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-28ee9917417e242d35c9ecc4265b1427]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00007] shall be amended in accordance with paragraphs (2) to (11).
+
+(2) At the end of regulation 5 (persons treated as engaged in remunerative work) there shall be added the following paragraphs—
+
+> (8) Subject to paragraph (9), a person who has not been treated as engaged in remunerative work in accordance with regulation 6(2) as a consequence of his commencing work shall be treated as engaged in remunerative work for the period specified in paragraph (10) where he ceased to be engaged in that work within the period of 5 weeks beginning on and including the date on which he commenced it.
+>
+> (9) Paragraph (8) shall not apply in the case of a person who is temporarily absent from the work referred to in regulation 6(2)(a).
+>
+> (10) A person to whom paragraph (8) applies shall be treated as engaged in remunerative work for the period commencing on and including the day after the day on which he was last engaged in the work referred to in regulation 6(2)(a) and ending on the day on which the length of that period corresponds with the length of the period in respect of which he had not been treated as engaged in remunerative work in accordance with regulation 6(2).
+
+.
+
+(3) Regulation 6 (persons not treated as engaged in remunerative work) shall be renumbered paragraph (1) of regulation 6 and after the renumbered paragraph (1) there shall be added the following paragraphs—
+
+> (2) A lone parent shall not be treated as engaged in remunerative work for the period specified in paragraph (3) in so far as—
+>
+> - (a) he is engaged in work which—
+>   - (i) is remunerative work, and
+>   - (ii) he is expected to be engaged in for a period of no less than 5 weeks, and
+> - (b) he had been, for a continuous period of 26 weeks ending on the day before the day on which he commenced the work referred to in sub-paragraph (a)—
+>   - (i) entitled to and in receipt of income support or income-based jobseeker’s allowance, and
+>   - (ii) a lone parent.
+>
+> (3) A person referred to in paragraph (2) shall not be treated as engaged in remunerative work for the period of 14 days commencing with and including the day on which he was first engaged in the work referred to in sub-paragraph (a) of that paragraph.
+
+.
+
+(4) In the definition of “part-time employment” in both regulation 29(4D)(a) (calculation of earnings derived from employed earner’s employment and income other than earnings) and regulation 35(3)(c) (earnings of employed earners)[^f00008] for “6” there shall be substituted “6(1)”.
+
+(5) In reglulation 36(2) (calculation of net earnings of employed earners) after “13” there shall be inserted “, 15A or 15B”.
+
+(6) In regulation 38(2) (calculation of net profit of self-employed earners) after “13” there shall be inserted “or 15B”.
+
+(7) In Schedule 1B[^f00009] (prescribed categories of person)—
+
+- (a) in paragraph 8 for “regulation 6(a)” there shall be substituted “regulation 6(1)(a)”;
+- (b) in paragraph 9 for “regulation 6(g)” there shall be substituted “regulation 6(1)(g)”.
+
+(8) In Schedule 2 (applicable amounts) after paragraph 12(6)[^f00010] (additional condition for the higher pensioner and disability premiums) there shall be added the following sub-paragraph—
+
+> (7) A person—
+>
+> - (a) to whom regulation 6(2) (persons not treated as engaged in remunerative work) applies, and
+> - (b) whose applicable amount immediately before he was engaged in the work referred to in regulation 6(2)(a), included a premium applicable under paragraph 11(a),
+>
+> shall, for the period specified in regulation 6(3), be treated as having continued to satisfy the additional condition specified in this paragraph for the payment of that premium.
+
+.
+
+(9) In Schedule 8 (sums to be disregarded in the calculation of earnings) after paragraph 15A[^f00011] there shall be inserted the following paragraph—
+
+> **15B.** In the case of a person to whom regulation 6(2) (persons not treated as engaged in remunerative work) applies, any earnings which derive from the work referred to in sub-paragraph (a) of that regulation but only to the extent that they relate to work performed during the period specified in regulation 6(3).
+
+.
+
+(10) At the end of Schedule 9[^f00012] (sums to be disregarded in the calculation of income other than earnings) there shall be added the following paragraph—
+
+> **68.** In the case of a person to whom regulation 6(2) (persons not treated as engaged in remunerative work) applies, any working families tax credit or disabled person’s tax credit to which section 127[^f00013] or as the case may be 128[^f00014] of the Contributions and Benefits Act refers which is paid to that person.
+
+.
+
+(11) At the end of Schedule 10[^f00015] (capital to be disregarded) there shall be added the following paragraph—
+
+> **55.** In the case of a person to whom regulation 6(2) (persons not treated as engaged in remunerative work) applies, the amount of any—
+>
+> - (a) back to work bonus payable to that lone parent by way of a jobseeker’s allowance or income support in accordance with Article 28 of the Jobseekers Order or a corresponding payment under section 26 of the Jobseekers Act 1995[^f00016], or
+> - (b) child maintenance bonus payable to that lone parent by way of a jobseeker’s allowance or income support in accordance with Article 4 of the Child Support (Northern Ireland) Order 1995[^f00017] or a corresponding payment under section 10 of the Child Support Act 1995[^f00018],
+>
+> which is paid during the period specified in regulation 6(3).
+
+.
+
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-a4b8c69e7ae68b05ef4bdbb6fd90ae86]
+
+At the end of regulation 52 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00019] (persons treated as engaged in remunerative work) there shall be added the following paragraphs—
+
+> (4) Subject to paragraph (5), a person who has not been treated as engaged in remunerative work in accordance with regulation 6(2) of the Income Support Regulations (persons not treated as engaged in remunerative work) as a consequence of his commencing work shall be treated as engaged in remunerative work for the period specified in paragraph (6) where he ceased to be engaged in that work within the period of 5 weeks beginning on and including the date on which he commenced it.
+>
+> (5) Paragraph (4) shall not apply in the case of a person who is temporarily absent from the work referred to in regulation 6(2)(a) of the Income Support Regulations.
+>
+> (6) A person to whom paragraph (4) applies shall be treated as engaged in remunerative work for the period commencing on and including the day after the day on which he was last engaged in the work referred to in regulation 6(2)(a) of the Income Support Regulations and ending on the day on which the length of that period corresponds with the length of the period in respect of which he had not been treated as engaged in remunerative work in accordance with regulation 6(2) of those Regulations.
+
+.
+
+## 4. Amendment of the Housing Benefit (General) Regulations[^key-ab441733c69b1478aa4b9d9e1c37d6d4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-6fcf099007632cafda6858983276f60a][^key-5c4f629d7e53c18c3473302f096eee69]
+
+At the end of regulation 3 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00026] (claims not required for entitlement to benefit in certain cases) there shall be added the following paragraph—
+
+> - (h) in the case of income support where the beneficiary—
+>   - (i) is a person to whom regulation 6(2) of the Income Support (General) Regulations (Northern Ireland) 1987 (persons not treated as engaged in remunerative work) applies;
+>   - (ii) was in receipt of an income-based jobseeker’s allowance on the day before the day on which he was first engaged in the work referred to in sub-paragraph (a) of regulation 6(2) of those Regulations, and
+>   - (iii) would satisfy the conditions of entitlement to income support (apart from the condition of making a claim which would apply in the absence of this paragraph) only by virtue of regulation 6(3) of those Regulations.
+
+.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+W. B. J. Davis
+
+Assistant Secretary
+
+14th September 1999.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 4 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. McCormick
+
+Assistant Secretary
+
+14th September 1999.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+In particular, regulation 2(3) provides that for the purpose of entitlement to income support, a lone parent may be treated as not engaged in remunerative work for the first 14 days after commencing such work following a period of entitlement to income support or income-based jobseeker’s allowance of at least 26 weeks.
+
+These Regulations also provide that during the 14 day period—
+
+- any disability premium which was applicable before commencing such work, shall continue to be applicable for that period (regulation 2(8));
+- any earnings from the employment which caused the lone parent to be treated as not engaged in remunerative work shall be disregarded (regulation 2(9));
+- any working families tax credit or disabled person’s tax credit shall be disregarded as income (regulation 2(10));
+- any back to work bonus or child maintenance bonus shall be disregarded as capital when paid during that period (regulation 2(11)).
+
+Regulation 2(5) and (6) makes amendments which are consequential on that made in regulation 2(9). Regulation 2(4) and (7) makes amendments which are consequential on that made in regulation 2(3).
+
+Regulations 2(2) and 3 provide that in income support and jobseeker’s allowance respectively, a lone parent who was previously treated as not engaged in remunerative work in accordance with regulation 2(3), shall be treated as engaged in remunerative work for a specified period if he ceases to be so engaged in such work within 5 weeks of commencing it.
+
+Regulation 4(2) to (4) and (5)(b) to (f) provides for the treatment of extended payments of housing benefit in the case of lone parents who are not treated as engaged in remunerative work pursuant to these Regulations. Those provisions also make consequential and minor technical amendments.
+
+Regulation 4(5)(a) provides that extended payments of housing benefit shall be made to those persons who were in receipt of income support whilst incapable of work or were in receipt of income support or jobseeker’s allowance which included the disability premium.
+
+Regulation 5 amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 so as to provide that certain lone parents who are not treated as engaged in remunerative work pursuant to these Regulations, shall not be required to make a claim for income support in order to be entitled to it.
+
+In so far as these Regulations are required, for the purposes of regulation 4, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 133(2)(d) was substituted by paragraph 18(3) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 61(2A) was inserted by Article 30(2) of the Jobseekers (Northern Ireland) Order 1995
+
+[^f00004]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-68967fcb44fcd6d175da37d37af71d67]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-28ee9917417e242d35c9ecc4265b1427]: Commencement: Reg. 2 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+
+[^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405) and [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^f00008]: Footnote: Regulation 29(4D)(a) was inserted by regulation 9(c) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365) and regulation 35(3)(c) was added by regulation 11(b) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
+
+[^f00009]: Footnote: Schedule 1B was inserted by regulation 22 and Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00010]: Footnote: Sub-paragraph (6) was added by regulation 2(12)(c) of [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67)
+
+[^f00011]: Footnote: Paragraph 15A was inserted by regulation 5(11)(c) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^f00012]: Footnote: Paragraph 67 was added by regulation 5(4) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^f00013]: Footnote: Section 127 was amended by section 1(2) and paragraph 4(g) of Schedule 1 to the Tax Credits Act [1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10)
+
+[^f00014]: Footnote: Section 128 was amended by section 1(2) and paragraph 4(h) of Schedule 1 to the Tax Credits Act 1999
+
+[^f00015]: Footnote: Paragraph 54 was added by regulation 5(5) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^f00016]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18)
+
+[^f00017]: Footnote: [S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
+
+[^f00018]: Footnote: [1995 c. 34](https://www.legislation.gov.uk/ukpga/1995/34)
+
+[^key-a4b8c69e7ae68b05ef4bdbb6fd90ae86]: Commencement: Reg. 3 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^key-ab441733c69b1478aa4b9d9e1c37d6d4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/381/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-6fcf099007632cafda6858983276f60a]: Commencement: Reg. 5 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/381/regulation/1/1)
+
+[^key-5c4f629d7e53c18c3473302f096eee69]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/381/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00026]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)

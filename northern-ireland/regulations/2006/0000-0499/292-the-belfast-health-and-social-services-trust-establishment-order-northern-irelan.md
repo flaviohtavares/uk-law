@@ -1,0 +1,198 @@
+---
+title: The Belfast Health and Social Services Trust (Establishment) Order (Northern Ireland) 2006
+id: nisr/2006/292
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-06-22'
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/292
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/292/pdfs/nisr_20060292_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/292/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Belfast Health and Social Services Trust (Establishment) Order (Northern Ireland) 2006
+
+> Text as at 2022-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 292
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+The Belfast Health and Social Services Trust (Establishment) Order (Northern Ireland) 2006
+
+Made
+
+22nd June 2006
+
+Coming into operation
+
+1st August 2006
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Order in exercise of the powers conferred by Article 10(1) of, and paragraphs 3, 3A, 4 and 5 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991[^f00002].
+
+In accordance with Article 10(2) of that Order it has consulted with Health and Social Services Councils and such other persons and bodies as the Department considered appropriate.
+
+## 1. Citation, commencement and interpretation[^key-ab089026405b5ac721efd6c2c1e37dac]
+
+(1) This Order may be cited as the Belfast Health and Social Services Trust (Establishment) Order (Northern Ireland) 2006 and shall come into operation on 1st August 2006.
+
+(2) In this Order—
+
+- “the Order” means the Health and Personal Social Services (Northern Ireland) Order 1991;
+- “establishment date” means 1st August 2006;
+- “operational date” has the meaning assigned to it by paragraph 3(1)(*e*) of Schedule 3 to the Order;
+- [^key-a1ce60ac72978c003eca59a267c0c77e]...
+- “the Royal Group of Hospitals and Dental Hospital” means—
+  - (a) the Royal Victoria Hospital;
+  - (b) the Royal Maternity Hospital;
+  - (c) the Royal Belfast Hospital for Sick Children;
+  - (d) the Dental Hospital and School; and
+  - (e) associated on-site facilities and services; and
+- “[^key-43a6b73e15f62781311aa51ec38fdf0f]**social care and children functions**” has the meaning assigned to it by Article 10A of the Order
+- “the trust” means the Belfast Health and Social Services Trust established by Article 2.
+
+## 2. Establishment of the trust[^key-e64cc8a63c60f4ddec6eee53f53a4a10]
+
+There is established an HSS trust which shall be called the Belfast Health and Social Services Trust.
+
+## 3. Nature and functions of the trust[^key-a753cebba80d9ae7214116113b26b251]
+
+(1) The trust is established for the purposes specified in Article 10(1) of the Order.
+
+(2)[^key-3ef517e8f3030f6dd164a8ca29edf703] The trust’s functions shall be—
+
+- (a) to provide goods and services for the purposes of the health and personal social services; and
+- (b)[^key-9e0d6435adaf5ce5abe4d0660dbff9e5] to exercise social care and children’s functions \[within the meaning of Article 10A of the Order\].
+
+## 4. Operational area of the trust[^key-90e6a97e0037c82bc1cd9384e804349c]
+
+The operational area of the trust shall be—
+
+- (a) for the purposes of the statutory provisions specified in Part I of the Schedule, the local government districts of Belfast and Castlereagh;
+- (b) for the purposes of the statutory provisions specified in Part II of the Schedule, Northern Ireland;
+- (c) for the purposes of the statutory provisions specified in Part III of the Schedule, Muckamore Abbey Hospital, 1 Abbey Road, Muckamore, Antrim BT41 4SH and associated premises.
+
+## 5. Directors of the trust[^key-48f40766019d3495c65e00d6b2db49d7]
+
+(1) The trust shall have, in addition to the chairman, 7[^key-ddaabc83ce3a5e96a8dabc6200614c01] non-executive directors and 5 executive directors.
+
+(2) Since the trust is to be regarded as having a significant teaching commitment within the meaning of paragraph 3(1)(d) of Schedule 3 to the Order one of the non-executive directors shall be appointed from the Queen’s University of Belfast.
+
+## 6. Operational date of the trust[^key-0366ef8cdc97f2f2a4be67c82d84198e]
+
+The operational date of the trust shall be 1st April 2007.
+
+## 7. Limited functions before operational date[^key-b6fcab18b7342db377e46e62c8c34fd4]
+
+Between its establishment date and operational date, the trust shall have the functions of doing such things as are reasonably necessary for the purpose of enabling it to begin to operate satisfactorily with effect from the operational date including—
+
+- (a) of entering into HSS contracts; and
+- (b) of entering into other contracts including contracts of employment.
+
+## 8. Assistance by a relevant body before operational date[^key-3bbd74666e7e5df6957514c84c1797ac]
+
+(1) The Agency shall discharge the liabilities of the trust, reasonably incurred between the establishment date and the operational date, that are of a description specified in paragraph (2).
+
+(2) The liabilities referred to in paragraph (1) are—
+
+- (a) liability for the remuneration and travelling or other allowances of the chairman and non-executive directors of the trust;
+- (b) liability for the travelling or other allowances of the members of committees and sub-committees of the trust who are not also directors of the trust; and
+- (c) liability for the remuneration of persons employed by the trust.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 22nd June2006
+
+Denis McMahon
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE — Operational area[^key-060f3e77bdb837f078c299d4a0e9bdae]
+
+Article 4
+
+### PART 1
+
+| Statutory Provision | Social care and children functions |
+| --- | --- |
+| Children and Young Persons Act (Northern Ireland) 1968 | All social care and children functions |
+| Health and Personal Social Services (Northern Ireland) Order 1972 | All social care and children functions |
+| Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 | All social care and children functions |
+| Mental Health (Northern Ireland) Order 1986 | All social care and children functions |
+| Adoption (Northern Ireland) Order 1987 | All social care and children functions |
+| Disabled Persons (Northern Ireland) Act 1989 | All social care and children functions |
+| Children (Northern Ireland) Order 1995 | All social care and children functions |
+| the Criminal Justice (Northern Ireland) Order 1996 | All social care and children functions |
+| Carers and Direct Payments Act (Northern Ireland) 2002 | All social care and children functions |
+| the Criminal Justice (Northern Ireland) Order 2008 | All social care and children functions |
+| The Mental Capacity Act (Northern Ireland) 2016 | All social care and children functions |
+
+### PART 2
+
+| Statutory Provision | Social care and children functions |
+| --- | --- |
+| Health and Personal Social Services (Northern Ireland) Order 1972 | Articles 15, 36, 38(3) and (4), 99, 101, 101A and paragraphs 8 and 9 of Schedule 6 |
+| Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 | Section 2(c), (d) and (f) |
+| Mental Health (Northern Ireland) Order 1986 | Articles 8(1), 15(3), 22(1), 28(1) and (5), 29(1) and (2), 42(4), 43(3), 44(5), 45(3), 79(3), 129(1) and (2), 131 and 132 |
+| Adoption (Northern Ireland) Order 1987 | Articles 11(1), 13(3)(a), 24, 31 and 32 |
+| Children (Northern Ireland) Order 1995 | Articles 21, 23, 26, 27, 32, 54, 66 and Schedule 3 |
+
+### PART 3
+
+| Statutory Provision | Social care and children functions |
+| --- | --- |
+| Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 | All social care and children functions under section 12(1) |
+| Mental Health (Northern Ireland) Order 1986 | All social care and children functions except those under<br>Articles 18 to 26, 28(5)(*a*), 29(2), 44(1)(*b*) and 46(5) |
+
+(This note is not part of the Order)
+
+This Order establishes the Belfast Health and Social Services Trust, an HSS trust provided for in Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991.
+
+The Order provides for the functions of the trust both before (Article 7) and after (Article 3) its operational date (the date on which it assumes all its functions). The functions include the exercise of relevant statutory functions which may be delegated to the trust by Health and Social Services Boards by virtue of authorisations made under Article 3(1) of the Health and Personal Social Services (Northern Ireland) Order 1994. Article 4 and the Schedule specify the operational areas within which the trust may exercise the delegated functions.
+
+The Order also specifies the operational date of the trust (Article 6) and specifies that between the dates that the new trust is established and becomes operational, its liabilities will be discharged by the Agency (Article 8).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services. See S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Article 10 and Schedule 3 were amended by [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429) and [2001c3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^key-ab089026405b5ac721efd6c2c1e37dac]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/292/article/1) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-a1ce60ac72978c003eca59a267c0c77e]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/292/article/1/2) omitted (1.4.2022) by virtue of [The Health and Social Care Trusts (Establishment) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/103)](https://www.legislation.gov.uk/nisr/2022/103), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/103/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/103/article/2/2/a)
+
+[^key-43a6b73e15f62781311aa51ec38fdf0f]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2006/292/article/1/2) inserted (1.4.2022) by [The Health and Social Care Trusts (Establishment) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/103)](https://www.legislation.gov.uk/nisr/2022/103), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/103/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/103/article/2/2/b)
+
+[^key-e64cc8a63c60f4ddec6eee53f53a4a10]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/292/article/2) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-a753cebba80d9ae7214116113b26b251]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/292/article/3) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-3ef517e8f3030f6dd164a8ca29edf703]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisr/2006/292/article/3/2) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/426/article/2/2)
+
+[^key-9e0d6435adaf5ce5abe4d0660dbff9e5]: Textual amendment: [Art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2006/292/article/3/2/b) substituted (1.4.2022) by [The Health and Social Care Trusts (Establishment) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/103)](https://www.legislation.gov.uk/nisr/2022/103), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/103/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/103/article/2/3)
+
+[^key-90e6a97e0037c82bc1cd9384e804349c]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/292/article/4) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-48f40766019d3495c65e00d6b2db49d7]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2006/292/article/5) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-ddaabc83ce3a5e96a8dabc6200614c01]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/nisr/2006/292/article/5/1) substituted (1.4.2007) by virtue of [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/269)](https://www.legislation.gov.uk/nisr/2007/269), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/269/article/1/1), [3](https://www.legislation.gov.uk/nisr/2007/269/article/3)
+
+[^key-0366ef8cdc97f2f2a4be67c82d84198e]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2006/292/article/6) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-b6fcab18b7342db377e46e62c8c34fd4]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/292/article/7) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-3bbd74666e7e5df6957514c84c1797ac]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2006/292/article/8) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/292/article/1/1)
+
+[^key-060f3e77bdb837f078c299d4a0e9bdae]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2006/292/schedule) substituted (1.4.2022) by [The Health and Social Care Trusts (Establishment) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/103)](https://www.legislation.gov.uk/nisr/2022/103), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/103/article/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2022/103/article/2/4)

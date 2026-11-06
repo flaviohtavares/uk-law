@@ -1,0 +1,295 @@
+---
+title: The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006
+id: nisr/2006/65
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-02-27'
+text_date: '2014-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/65
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/65/pdfs/nisr_20060065_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/65/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006
+
+> Text as at 2014-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 65
+
+PENSIONS
+
+The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006
+
+Made
+
+27th February 2006
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 109, 164(1) and (4), 170, 176(4) and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 10(3), 27, 37(10), 38(3)(b), 40(1) and (2), 41(1) and (6), 47(5), 49(2) and (3), 50(7), 68(2)(e) and (5), 69(6), 73(2)(b), 75(1)(b), (5), (6D)(b)(i) and (10), 75A(1) to (4), 76(8), 85(1), 87(2), 115, 116, 122(3) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and Articles 34(1)(b), 48(1)(b) and (7)(a), 55(5), 264, 265(1) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00004].
+
+## 1. Citation and commencement[^key-48b1033416a7a96061b402c8a5cf0a08]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 and shall come into operation on 20th March 2006, subject to paragraphs (2) and (3).
+
+(2) Regulations 2, 3 and 6 to 8 shall come into operation on 30th March 2006.
+
+(3) Regulation 10 shall come into operation on 6th April 2006.
+
+## 2. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-cb391489817b841ca2e6347697219ff4]
+
+In regulation 10(1) of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00005] (disapplication of Article 38) for sub-paragraph (d) there shall be substituted the following sub-paragraph—
+
+> - (d) to a scheme—
+>   - (i) which is a section 615(6) scheme, and
+>   - (ii) in relation to which the trustees or managers are not—
+>     - (aa) authorised under Article 264 of the Pensions (Northern Ireland) Order 2005 (general authorisation to accept contributions from European employers), or
+>     - (bb) approved under Article 265 of that Order (approval in relation to particular European employer) in relation to a European employer;
+
+.
+
+## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-0947b2f7d503146135bf5f04f0e49064]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations[^key-5db9f938efef457da93c0a6522aa38b3]
+
+(1) The Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005[^f00008] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation) after the definition of “the 1997 Regulations” there shall be inserted the following definition—
+
+> - “cross-border section 615 scheme” means a scheme—
+>   - (a) which has such a superannuation fund as is mentioned in section 615(6) of the Income and Corporation Taxes Act 1988 (exemption from tax in respect of certain pensions), and
+>   - (b) in relation to which the trustees or managers are—
+>     - (i) authorised under Article 264 of the Order (general authorisation to accept contributions from European employer), and
+>     - (ii) approved under Article 265 of the Order (approval in relation to particular European employer) in relation to a European employer;
+
+.
+
+(3) In regulation 2(1) (the general levy) after “each registrable occupational pension scheme” there shall be inserted “, other than such a scheme which is a cross-border section 615 scheme,”.
+
+## 5. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^key-bf0710bb4d1a444fb76e20f303924996]
+
+(1) The Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005[^f00009] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation) after the definition of “relevant public authority” there shall be inserted the following definition—
+
+> - “scheme undertaking cross-border activities” means a scheme in relation to which the trustees or managers—
+>   - (a) are proposing to apply for authorisation, or are authorised, under Article 264 of the 2005 Order (general authorisation to accept contributions from European employers), or
+>   - (b) are proposing to apply for approval, or are approved, under Article 265 of that Order (approval in relation to particular European employer) in relation to a European employer;
+
+.
+
+(3) After sub-paragraph (b) of regulation 2(1) (registrable schemes) there shall be added “or” and the following sub-paragraph—
+
+> - (c) which—
+>   - (i) has such a superannuation fund as is mentioned in section 615(6) of the Income and Corporation Taxes Act 1988 (exemption from tax in respect of certain pensions), and
+>   - (ii) is a scheme undertaking cross-border activities.
+
+.
+
+## 6. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^key-478f9f87302a88073195b84c1719dd47]
+
+In regulation 4(1) of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005[^f00010] (schemes to which Article 75 does not apply) for sub-paragraph (g) there shall be substituted the following sub-paragraph—
+
+> - (g) a scheme—
+>   - (i) which has such a superannuation fund as is mentioned in section 615(6) of the Taxes Act 1988 (exemption from tax in respect of certain pensions), and
+>   - (ii) in relation to which the trustees or managers are not—
+>     - (aa) authorised under Article 264 of the 2005 Order (general authorisation to accept contributions from European employer), or
+>     - (bb) approved under Article 265 of that Order (approval in relation to particular European employer) in relation to a European employer;
+
+.
+
+## 7. Amendment of the Occupational Pension Schemes (Winding up, etc.) Regulations[^key-88d57ca0bf823a22f4d9d7a683429392]
+
+In regulation 3(1) of the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005[^f00011] (schemes to which Article 73 of the 1995 Order does not apply) for sub-paragraph (h) there shall be substituted the following sub-paragraph—
+
+> - (h) a scheme—
+>   - (i) which has such a superannuation fund as is mentioned in section 615(6) of the Taxes Act 1988 (exemption from tax in respect of certain pensions), and
+>   - (ii) in relation to which the trustees or managers are not—
+>     - (aa) authorised under Article 264 of the 2005 Order (general authorisation to accept contributions from European employer), or
+>     - (bb) approved under Article 265 of that Order (approval in relation to particular European employer) in relation to a European employer;
+
+.
+
+## 8. Amendment of the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations[^key-4b10a49e21155bf9b1958273a18fd629]
+
+In regulation 2 of the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations (Northern Ireland) 2005[^f00012] (prescribed schemes) for sub-paragraph (i) there shall be substituted the following sub-paragraph—
+
+> - (i) a scheme—
+>   - (i) which has such a superannuation fund as is mentioned in section 615(6) of the 1988 Act (exemption from tax in respect of certain pensions), and
+>   - (ii) in relation to which the trustees or managers are not—
+>     - (aa) authorised under Article 264 (general authorisation to accept contributions from European employer), or
+>     - (bb) approved under Article 265 (approval in relation to particular European employer) in relation to a European employer;
+
+.
+
+## 9. Amendment of the Occupational Pension Schemes (Cross-border Activities) Regulations[^key-bc1277a9b74570f949558f172589f4ff]
+
+(1) The Occupational Pension Schemes (Cross-border Activities) Regulations (Northern Ireland) 2005[^f00013] shall be amended in accordance with paragraphs (2) to (4).
+
+(2)[^key-57c786c3a4706b42c9a57c48992eb760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 5 (applications for general authorisation to accept contributions from European employers: established schemes which are carrying on cross-border activity)—
+
+- (a)[^key-a0176e24a4bdc4f0181b2b8fcbc289a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after paragraph (2) there shall be added the following paragraph—
+
+  > (3) Where—
+  >
+  > - (a) the trustees or managers of a section 615 scheme make such an application on or before 29<sup>th</sup> March 2006;
+  > - (b) that application is made in a form which—
+  >   - (i) includes the full name of the scheme, and
+  >   - (ii) in the case of—
+  >     - (aa) a money purchase scheme, provides as much of the information specified in paragraph (2)(a) as is readily available to those trustees or managers on the day on which the application is made, or
+  >     - (bb) a scheme which is not a money purchase scheme, provides as much of the information specified in paragraph (2)(b) as is readily available to those trustees or managers on the day on which the application is made, and
+  > - (c) those trustees or managers provide all of the remaining information specified in paragraph (2)(a) or (b), as the case may be, on or before 15<sup>th</sup> May 2006,
+  >
+  > that application shall be deemed to have been made on the day on or before 29<sup>th</sup> March 2006 on which the application was first made.
+
+  .
+
+(4) In regulation 10 (applications for approval in relation to particular European employer: established schemes which are carrying on cross-border activity)—
+
+- (a)[^key-ae7344d91ad1ec0c1277712058198ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after paragraph (2) there shall be added the following paragraph—
+
+  > (3) Where—
+  >
+  > - (a) the trustees or managers of a section 615 scheme make such an application on or before 29<sup>th</sup> March 2006;
+  > - (b) that application is made in a form which—
+  >   - (i) includes the information specified in Article 265(1)(a) to (c), and
+  >   - (ii) in the case of—
+  >     - (aa) a money purchase scheme, provides as much of the information specified in paragraph (2)(a) as is readily available to those trustees or managers on the day on which the notice of intention is given, or
+  >     - (bb) a scheme which is not a money purchase scheme, provides as much of the information specified in paragraph (2)(b) as is readily available to those trustees or managers on the day on which the notice of intention is given, and
+  > - (c) those trustees or managers provide all of the remaining information specified in paragraph (2)(a) or (b), as the case may be, on or before 15<sup>th</sup> May 2006,
+  >
+  > that application shall be deemed to have been made on the day on or before 29<sup>th</sup> March 2006 on which the notice of intention was first given.
+
+  .
+
+## 10. Revocations[^key-f612ad1b81eb3fdf1eee4fc29d395552]
+
+The Regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 27th February 2006.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE[^key-3c022626381d382c3a7c3611bd803dab]
+
+Regulation 10
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th>Regulations revoked</th><th>Reference</th><th>Extent of Revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997</td><td><a href="https://www.legislation.gov.uk/nisr/1997/40">S.R. 1997 No. 40</a></td><td>Regulation 2(2A)</td></tr>
+<tr><td>The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997</td><td><a href="https://www.legislation.gov.uk/nisr/1997/94">S.R. 1997 No. 94</a></td><td>In regulation 12(2), the words from “or to a scheme” to the end, in regulation 12(3)(b), the word “or” at the end, and regulation 12(3)(c)</td></tr>
+<tr><td>The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997</td><td><a href="https://www.legislation.gov.uk/nisr/1997/98">S.R. 1997 No. 98</a></td><td>Regulation 2(2)(aa)</td></tr>
+<tr><td>The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations (Northern Ireland) 2000</td><td><a href="https://www.legislation.gov.uk/nisr/2000/382">S.R. 2000 No. 382</a></td><td>The whole of the Regulations</td></tr>
+<tr><td>The Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/92">S.R. 2005 No. 92</a></td><td>Regulation 1(3)</td></tr>
+<tr><td>The occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/568">S.R. 2005 No. 568</a></td><td>Paragraph 12 of Schedule 3</td></tr>
+</tbody>
+</table>
+
+[^f00014][^f00015][^f00016]
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to certain occupational pension schemes which both have such a superannuation fund as is mentioned in section 615 (exemptions from tax in respect of certain pensions) of the Income and Corporation Taxes Act 1988, and which are undertaking, or, in the case of the amendment provided for in regulation 5, propose to undertake, cross-border activity (“cross-border section 615 schemes”).
+
+These Regulations also revoke the Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations (Northern Ireland) 2000 and certain other provisions in pensions legislation which make provision in respect of certain occupational pension schemes which are established in the Republic of Ireland which have, or have had, at least one member in pensionable service in Northern Ireland.
+
+These Regulations are consequential on the Occupational Pension Schemes (Cross-border Activities) Regulations (Northern Ireland) 2005, and on Article 3(2) of the Pensions (2005 Order) (Commencement No. 7) Order (Northern Ireland) 2005 ([S.R. 2005 No. 543 (C. 37)](https://www.legislation.gov.uk/nisr/2005/543)).
+
+Regulation 5 amends the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005. The amendment provides that from 20th March 2006 a cross-border section 615 scheme is a registrable scheme.
+
+Regulations 2, 3, 4 and 6 to 8 amend, respectively, the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996, the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997, the Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005, the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005, the Occupational Pension Schemes (Winding up etc.) Regulations (Northern Ireland) 2005 and the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations (Northern Ireland) 2005 so as to make some or all of the provisions of those Regulations apply to cross-border section 615 schemes.
+
+The amendments made by regulations 2 to 8 are made in order to comply with the requirements of the European Union Directive on the activities and supervision of institutions for occupational retirement provision (Directive [2003/41/EC](https://www.legislation.gov.uk/european/directive/2003/0041); OJ No. L 235, 23.9.03, p.10).
+
+Regulation 9 amends the Occupational Pension Schemes (Cross-border Activities) Regulations (Northern Ireland) 2005. The amendments provide that trustees or managers of cross-border section 615 schemes who apply on or before 29th March 2006 for authorisation and approval can provide some of the information required in those applications after that date provided it is all provided on or before 15th May 2006.
+
+Regulation 10 brings into effect the Schedule, which revokes the regulations which made provision exempting Republic of Ireland schemes from certain requirements imposed by the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) and by certain regulations made under the Pension Schemes (Northern Ireland) Act 1993 and the 1995 Order in relation to occupational pension schemes.
+
+Articles 264 and 265(1) of the Pensions (Northern Ireland) Order 2005 (“the 2005 Order”), two of the enabling provisions under which these Regulations are made, were brought into operation in part, for the purpose only of authorising the making of regulations, on 6th December 2005 and for all other purposes on 30th December 2005, by virtue of the Pensions (2005 Order) (Commencement No. 7) Order (Northern Ireland) 2005.
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 117(1) of the 1995 Order and Article 289(1) of the 2005 Order does not apply by virtue of paragraph (2)(e) of each of those Articles.
+
+The extent to which Articles 9, 11 and 16 of the Directive is transposed by these Regulations is detailed in the Transposition Note, a copy of which has been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of the Note are available from the Department for Social Development, Social Security Policy and Legislation Division, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast, BT7 2JA.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 109 was amended by section 48 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and by [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434); section 164 was substituted by Article 151(1) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and amended by paragraph 73 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)); section 170 was substituted by Article 161 of the Pensions (Northern Ireland) Order 1995 and amended by paragraph 3 of Schedule 1 and paragraph 23 of Schedule 10 to the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and repealed in part by Schedule 11 to that Order and section 176(4) was repealed in part by Schedule 11 to that Order
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 40(2) was repealed in part by Article 152(2) of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649); Article 73 was substituted by Article 247(1) of the Pensions (Northern Ireland) Order 2005; Article 75 was amended by Article 248 of that Order; Article 75A was inserted by Article 249 of that Order; Article 87(2) was amended by paragraph 60 of Schedule 10 to that Order; Article 115(2) was amended by section 43(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and paragraph 61 of Schedule 10 to the Pensions (Northern Ireland) Order 2005 and Article 116 was amended by paragraph 62 of Schedule 10 and repealed in part by Schedule 11 to that Order
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-48b1033416a7a96061b402c8a5cf0a08]: Commencement: Reg. 1 in operation at 20.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/1)
+
+[^key-cb391489817b841ca2e6347697219ff4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/65/regulation/2) in operation at 30.3.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2)
+
+[^f00005]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621), to which there are amendments not relevant to these Regulations
+
+[^key-0947b2f7d503146135bf5f04f0e49064]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/65/regulation/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-5db9f938efef457da93c0a6522aa38b3]: Commencement: Reg. 4 in operation at 20.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/1)
+
+[^f00008]: Footnote: [S.R. 2005 No. 92](https://www.legislation.gov.uk/nisr/2005/92)
+
+[^key-bf0710bb4d1a444fb76e20f303924996]: Commencement: Reg. 5 in operation at 20.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/1)
+
+[^f00009]: Footnote: [S.R. 2005 No. 93](https://www.legislation.gov.uk/nisr/2005/93)
+
+[^key-478f9f87302a88073195b84c1719dd47]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/65/regulation/6) in operation at 30.3.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2)
+
+[^f00010]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168); relevant amending Regulations are [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
+
+[^key-88d57ca0bf823a22f4d9d7a683429392]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/65/regulation/7) in operation at 30.3.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2)
+
+[^f00011]: Footnote: [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171), to which there are amendments not relevant to these Regulations
+
+[^key-4b10a49e21155bf9b1958273a18fd629]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/65/regulation/8) in operation at 30.3.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2)
+
+[^f00012]: Footnote: [S.R. 2005 No. 173](https://www.legislation.gov.uk/nisr/2005/173); amended by [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
+
+[^key-bc1277a9b74570f949558f172589f4ff]: Commencement: Reg. 9 in operation at 20.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/1)
+
+[^f00013]: Footnote: [S.R. 2005 No. 581](https://www.legislation.gov.uk/nisr/2005/581)
+
+[^key-57c786c3a4706b42c9a57c48992eb760]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/9/2) revoked (28.3.2006) by [The Occupational Pension Schemes (Cross-border Activities) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/160)](https://www.legislation.gov.uk/nisr/2006/160), [regs. 1](https://www.legislation.gov.uk/nisr/2006/160/regulation/1), [3](https://www.legislation.gov.uk/nisr/2006/160/regulation/3)
+
+[^key-a0176e24a4bdc4f0181b2b8fcbc289a9]: Textual amendment: [Reg. 9(3)(a)](https://www.legislation.gov.uk/nisr/2006/65/regulation/9/3/a) revoked (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2007/185/schedule)
+
+[^key-ae7344d91ad1ec0c1277712058198ced]: Textual amendment: [Reg. 9(4)(a)](https://www.legislation.gov.uk/nisr/2006/65/regulation/9/4/a) revoked (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2007/185/schedule)
+
+[^key-f612ad1b81eb3fdf1eee4fc29d395552]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/65/regulation/10) in operation at 6.4.2006, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/3)
+
+[^key-3c022626381d382c3a7c3611bd803dab]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/65/schedule) in operation at 6.4.2006, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/3)
+
+[^f00014]: Footnote: Paragraph (2A) was inserted by regulation 8 of [S.R. 2000 No. 382](https://www.legislation.gov.uk/nisr/2000/382)
+
+[^f00015]: Footnote: Regulation 12(2) was amended by regulation 9 of [S.R. 2000 No. 382](https://www.legislation.gov.uk/nisr/2000/382) and paragraph (3) was added by regulation 3(5) of [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421)
+
+[^f00016]: Footnote: Sub-paragraph (aa) was inserted by regulation 10 of [S.R. 2000 No. 382](https://www.legislation.gov.uk/nisr/2000/382)

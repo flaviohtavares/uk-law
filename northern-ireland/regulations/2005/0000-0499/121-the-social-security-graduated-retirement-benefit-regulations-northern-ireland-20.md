@@ -1,0 +1,821 @@
+---
+title: The Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005
+id: nisr/2005/121
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-16'
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/121
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/121/pdfs/nisr_20050121_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/121/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005
+
+> Text as at 2026-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 121
+
+SOCIAL SECURITY
+
+The Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005
+
+Made
+
+16th March 2005
+
+Coming into operation
+
+6th April 2005
+
+The Department for Social Development, in exercise of the powers conferred upon it by sections 62(1)(a) and (c) and 171(3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, by this statutory rule which contains regulations made by virtue of, or consequential upon, Schedule 9 to the Pensions (Northern Ireland) Order 2005[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement, effect and interpretation[^key-c05818877a6e88274b7980e8af63a924]
+
+(1) These Regulations may be cited as the Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+(2) Regulation 4, and paragraphs 4(2) and (3) and 14(2) and (3) of Schedule 1 in so far as they apply to that regulation, shall not have effect in relation to incremental periods beginning before 6th April 2005.
+
+(3) In these Regulations –
+
+- “the 1966 Act” means the National Insurance Act (Northern Ireland) 1966[^f00004];
+- “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00005];
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and references to Schedule 5 are to Schedule 5 to that Act[^f00006];
+- “the Deferral Regulations” means the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^f00007];
+- “incremental period” shall have the meaning ascribed to it in paragraph 4(6) of Schedule 1;
+- “the Pensions Schemes Act” means the Pensions Schemes (Northern Ireland) Act 1993[^f00008].
+
+## 2. Amendment of the 1966 Act[^key-5a927782b57bc481bff9d8289337ce2c]
+
+(1) The 1966 Act[^f00009] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In section 35 (graduated retirement benefit) –
+
+- (a) for subsection (4)[^f00010] there shall be substituted the following subsections –
+
+  > (4) Where a person’s entitlement to graduated retirement benefit is deferred –
+  >
+  > - (a) Schedule 2 to the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978[^f00011]; and
+  > - (b) Schedule 1 to the 2005 Regulations,
+  >
+  > shall have effect and both those Schedules shall be construed and have effect as if they were part of this subsection.
+  >
+  > (4A) For the purposes of subsection (4) a person’s entitlement to graduated retirement benefit is deferred where –
+  >
+  > - (a) he would be entitled to a Category A or Category B retirement pension but for the fact that his entitlement is deferred within the meaning in section 55(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00012], if and so long as his entitlement to such a pension is deferred;
+  > - (b) he is treated under subsection (7) as receiving a Category A or a Category B retirement pension at a nominal weekly rate, if and so long as he does not become entitled to graduated retirement benefit by reason only of not satisfying the conditions in section 1 of the Social Security Administration (Northern Ireland) Act 1992 (entitlement to benefit dependent on claim),
+  >
+  > and in relation to graduated retirement benefit, “period of deferment” shall be construed accordingly.
+
+  .
+- (b) in subsection (8) after the definition of “the Act” there shall be inserted the following definition –
+
+  > - “the 2005 Regulations” means the Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005;
+
+  .
+
+(3) In section 36(1) (special provisions as to graduated retirement benefit for widows and widowers) after “Subject to the provisions of this section” there shall be inserted “and to Schedule 1 to the 2005 Regulations.”.
+
+## 3. Amendment of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations and saving[^key-5a870c07ba12df2bbb57663328ab0db0]
+
+(1) Subject to paragraph (2), in Schedule 2 to the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978 from the word “and” at the end of paragraph 1(a) to the end of the Schedule shall be omitted.
+
+(2) Schedule 2 to those Regulations shall have effect as if the amendments made by paragraph (1) had not been made in the case of –
+
+- (a) periods of deferment (as defined by section 35(4A) of the 1966 Act) ending before 6th April 2005; and
+- (b) incremental periods beginning before that date.
+
+## 4. Schedule 1[^key-3cda18aadf0ecfb3a50999b66cc8ce52]
+
+Schedule 1 to these Regulations (which makes further provision replacing section 35(4) of the 1966 Act) shall have effect.
+
+## 5. Modification of Schedule 1 in transitional cases[^key-ded9334578488ada6028466d69cf92a1]
+
+Schedule 1 to these Regulations shall be modified by Schedule 2 to these Regulations in relation to transitional cases and in this regulation, “a transitional case” means a case where a person’s entitlement to graduated retirement benefit is deferred and the period of deferment begins before 6th April 2005 and continues on or after that day.
+
+## 6. Revocations[^key-44daf8e3f78b4a3fdd3c86e527ee6efa]
+
+Regulation 5(2)(a)(ii) and, subject to regulation 3(2) above, (3)(b) to (d) of the Social Security (Abolition of Earnings Rule) (Consequential) Regulations (Northern Ireland) 1989[^f00013] is hereby revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 16th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE 1 — FURTHER PROVISIONS REPLACING SECTION 35(4) OF THE 1966 ACT: INCREASES OF GRADUATED RETIREMENT BENEFIT AND LUMP SUMS[^key-63354e8e2d1b87f91129b777d9ccf7f7][^key-6013e13fc532ba027f373384dd87505a][^key-30f9d162955a76244f78c47389776bf7][^key-9ec6636d1988f793c0b41b61d8fb2635][^key-942ed73312c6ad4ef3536c8ccf4a1579][^key-6853b68831784fe91d9f67b31d359846][^key-4c040cc1e066bf0d97727a121e17f1af][^key-37dafbcbdb87c8e140b4475dbf436519][^key-d2f02746fe017540534e1904bf574e0e][^key-8607308b8ff97509ac326cfff4a8aad6][^key-27637cf418aff1dbc5a86117e557009f][^key-05cad0a93e8043017c0a78aa9ddd2297][^key-f831061d68b4265fdb25fa3c14c0f85e][^key-120bb20ce904f855461a72fa8a89d175][^key-8fdd9c41a140941fa4a15a6cf0da3088][^key-e22be59d86540c4a88c4e530970ae5f9][^key-f384634d8871f79c847ed8e221b22c6f][^key-3ba8e3adb8368d04e595baf0ff9cdfff][^key-603cdf65304044337be3295f3998590c][^key-0b3943ef501b4fe0d00ea082b95d6533][^key-f88641538658d64f4d5075ea7e151abb][^key-7e691654ff02f70da7b1b7c30a3f275e][^key-6ac0b1d0059753eb90a26efefb946d81][^key-ae2956916390cae80863dbc936abc36b][^key-739a777feaf3158844b76fce0707c791][^key-0c188519d2253fa208c238ab13a8f8a4][^key-f763f5b64b285c16097d86a031c9d9cf][^key-84e3e8fd343a6d8e2980eaa0cda23f06]
+
+Regulation 4
+
+### PART 1 — Increase and lump sum where entitlement to retirement pension is deferred
+
+#### 1. Scope[^key-783df2e8c93798856b5d1c20e21cc5f8]
+
+This Part applies only in respect of a person who is deferring entitlement to graduated retirement benefit by virtue of section 35(4A)(a) of the 1966 Act.
+
+#### 2. Increase or lump sum where pensioner’s entitlement is deferred[^key-7f181695545bd28f3664475e8ce20877]
+
+(1) Where a person’s entitlement to a Category A or Category B retirement pension is deferred and that person elects[^M_F_a20e7d5f-b5dc-41a9-bd03-980905a40e83]... –
+
+- (a) that paragraph 1 of Schedule 5 (increase of pension where pensioner’s entitlement is deferred) is to apply in relation to the period of deferment, paragraph 3 of this Schedule shall also apply in relation to that period;
+- (b) that paragraph 3A of Schedule 5 (lump sum where pensioner’s entitlement is deferred) is to apply in relation to the period of deferment, paragraph 5 of this Schedule shall also apply in relation to that period.
+
+(2) The reference to an election in sub-paragraph (1) includes an election a person is treated as having made under paragraph A1(2) of Schedule 5.
+
+#### 3. Increase where pensioner’s entitlement is deferred[^key-48e790ee4968fb09bf3e3e3f422f6a1f]
+
+(1) This paragraph applies where –
+
+- (a) entitlement to a Category A or Category B retirement pension is deferred and the period of deferment is less than 12 months; or
+- (b) paragraph 2(1)(a) applies.
+
+(2) The rate of the person’s graduated retirement benefit shall be increased by an amount equal to the aggregate of the increments to which he is entitled under paragraph 4 but only if that amount is enough to increase the rate of the benefit by at least 1 per cent.
+
+#### 4. Calculation of increment[^key-919f1bf966e5bbce38e1176c4a5c3852]
+
+(1) A person is entitled to an increment under this paragraph for each complete incremental period in his period of deferment.
+
+(2) The amount of the increment for an incremental period shall be ⅕th per cent. of the weekly rate of the graduated retirement benefit to which the person would have been entitled for the period if his entitlement to a Category A or Category B retirement pension had not been deferred.
+
+(3) For the purposes of sub-paragraph (2), the weekly rate of graduated retirement benefit shall be taken to include any increase in the weekly rate of that benefit and the amount of the increment in respect of such an increase shall be ⅕th per cent. of its weekly rate for each incremental period in the period of deferment beginning on the day the increase occurred.
+
+(4) Amounts under sub-paragraphs (2) and (3) shall be rounded to the nearest penny, taking any ½p as nearest to the next whole penny.
+
+(5) Where an amount under sub-paragraph (2) or (3) would, apart from this sub-paragraph, be a sum less than ½p, the amount shall be taken to be zero, notwithstanding any provision of the Contributions and Benefits Act, the Administration Act or the Pension Schemes Act.
+
+(6) In this paragraph, “incremental period” means any period of six days which are treated by the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00014] as days of increment for the purposes of paragraph 2 of Schedule 5 in relation to the person and pension in question.
+
+(7) Where one or more orders have come into operation under section 132 of the Administration Act during the period of deferment, the rate for any incremental period shall be determined as if the order or orders had come into operation before the beginning of the period of deferment.
+
+#### 5. Lump sum where pensioner’s entitlement is deferred[^key-c903a621bc3f550674093e3db95dafaf]
+
+(1) This paragraph applies where paragraph 2(1)(b) applies.
+
+(2) The person is entitled to an amount calculated in accordance with paragraph 6 (calculation of lump sum).
+
+#### 6. Calculation of lump sum[^key-bc2a9a750244fac48758f6be42b0acad]
+
+(1) The lump sum is the accrued amount for the last accrual period beginning during the period of deferment.
+
+(2) In this paragraph –
+
+- “accrued amount” means the amount calculated in accordance with sub-paragraph (3);
+- “accrual period” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to a person in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Claims and Payments Regulations[^f00015] or in accordance with regulation 22C(3) or (4) of those Regulations[^key-9bacf9a7f06d2f330bb11c355b88d8ed], if his entitlement to a retirement pension had not been deferred, where that day falls within the period of deferment.
+
+(3) The accrued amount for an accrual period for a person is –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2005/121)
+
+where –
+
+- A is the accrued amount for the previous accrual period (or, in the case of the first accrual period beginning during the period of deferment, zero);
+- P is, subject to sub-paragraph (5), the amount of the graduated retirement benefit to which the person would have been entitled for the accrual period if his entitlement to a Category A or Category B retirement pension had not been deferred;
+- R is –
+  - (a) a percentage rate two per cent. higher than the Bank of England base rate; or
+  - (b) if a higher rate is prescribed for the purposes of paragraphs 3B and 7B of Schedule 5, that higher rate.
+
+(4) For the purposes of sub-paragraph (3), any change in the Bank of England base rate is to be treated as taking effect –
+
+- (a) at the beginning of the accrual period immediately following the accrual period during which the change took effect; or
+- (b) if regulations under paragraph 3B(4) of Schedule 5 so provide, at such other time as may be prescribed in those Regulations.
+
+(5) Regulation 3 of the Deferral Regulations shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 3B of Schedule 5.
+
+#### 7. Increase or lump sum where pensioner’s deceased spouse or deceased civil partner has deferred entitlement[^key-379b397935dd1a984c65c782e9106a63][^key-8e7e936cdf2ff464d7a5186d482bcd23]
+
+(1) This paragraph applies where –
+
+- (a) a widow, widower or surviving civil partner[^key-3152f39f324ed16abeb4d405c4893c59] (“W”) is entitled to a Category A or Category B retirement pension;
+- (b) W was married to or in a civil partnership with[^key-2bd1b49dec7147615b66f71ddaefe2fd] the other party to the marriage or civil partnership[^key-2a4b7140a4af16212bac5d2f8bd05514] (“S”) when S died;
+- (c) S’s entitlement to a Category A or Category B retirement pension was deferred when S died, and
+- (d) S’s entitlement had been deferred throughout the period of 12 months ending with the day before S’s death.
+
+(2) Where W elects –
+
+- (a) that paragraph 4 of Schedule 5 (increase of pension where pensioner’s deceased spouse has deferred entitlement) is to apply in relation to the period of deferment, paragraph 8 of this Schedule shall also apply in relation to that period;
+- (b) that paragraph 7A of Schedule 5 (entitlement to lump sum where pensioner’s deceased spouse has deferred entitlement) is to apply in relation to the period of deferment, paragraph 9 of this Schedule shall also apply in relation to that period.
+
+(3) The reference to an election in sub-paragraph (2) includes an election W is treated as having made under paragraph 3C(3) of Schedule 5.
+
+#### 8. Increase where pensioner’s deceased spouse or deceased civil partner has deferred entitlement[^key-73ad54541ebccd46e04c446b6a5b7f97][^key-8edcac4d7513f429e79a5901606273c4]
+
+(1) This paragraph applies where a widow, widower or surviving civil partner[^key-c8b4a778d05c557777e9b48e5419238f] is entitled to a Category A or Category B retirement pension, was married to or in a civil partnership with[^key-f9e1de9b0d755f416201bf8adf188a6a] the other party to the marriage or civil partnership[^key-3f27c9860f2f96ee99f01740c466d049] when S died and one of the following conditions is met –
+
+- (a) S was entitled to graduated retirement benefit with an increase under this Schedule;
+- (b) paragraph 7(2)(a) applies; or
+- (c) paragraph 7 would apply to W but for the fact that the condition in sub-paragraph (1)(d) of that paragraph is not met.
+
+(2) The increase in the weekly rate of W’s graduated retirement benefit shall, in a case to which sub-paragraph (1) applies, be determined in accordance with section 36 of the 1966 Act as continued in force by regulation 2 of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978.
+
+#### 9. Entitlement to lump sum where pensioner’s deceased spouse or deceased civil partner has deferred entitlement[^key-ae85db6d1372986f713a8c9b262dd17b][^key-62a9a534dd0c39bd0cd0f37b79a2fde9]
+
+(1) This paragraph applies where paragraph 7(2)(b) applies.
+
+(2) W is entitled to an amount calculated in accordance with paragraph 10 (calculation of widowed person’s or surviving civil partner's[^key-ece3bb5977df145733c7299ddcd9c0d7] lump sum).
+
+#### 10. Calculation of widowed person’s or surviving civil partner's lump sum[^key-00d16746e417030db22537ab6ce0d57f][^key-d8327764842b6ee0e44c43b8d19d2f27]
+
+(1) The widowed person’s or surviving civil partner's[^key-cc49ead13a4bd7c59d750b87cd73ef34] lump sum is the accrued amount for the last accrual period beginning during the period which –
+
+- (a) began at the beginning of S’s period of deferment; and
+- (b) ended on the day before S’s death.
+
+(2) In this paragraph –
+
+- “S” means the other party to the marriage or civil partnership[^key-aba7d8f433cc2438c250ebf9d0bcf75d];
+- “accrued amount” means the amount calculated in accordance with sub-paragraph (3);
+- “accrual period” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to S in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Claims and Payments Regulations or in accordance with regulation 22C(3) or (4) of those Regulations[^key-9160ed5b787c311b2a8d025264f59afb], if his entitlement to a retirement pension had not been deferred, where that day falls within S’s period of deferment.
+
+(3) The accrued amount for an accrual period for W is –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2005/121)
+
+where –
+
+- A is the accrued amount for the previous accrual period (or, in the case of the first accrual period beginning during the period mentioned in sub-paragraph (1), zero);
+- P is, subject to sub-paragraph (5), one-half of the graduated retirement benefit to which S would have been entitled for the accrual period if his entitlement had not been deferred during the period mentioned in sub-paragraph (1);
+- R is –
+  - (a) a percentage rate two per cent. higher than the Bank of England base rate; or
+  - (b) if a higher rate is prescribed for the purposes of paragraphs 3B and 7B of Schedule 5, that higher rate.
+
+(4) For the purposes of sub-paragraph (3), any change in the Bank of England base rate is to be treated as taking effect –
+
+- (a) at the beginning of the accrual period immediately following the accrual period during which the change took effect; or
+- (b) if regulations under paragraph 7B(4) of Schedule 5 so provide, at such other time as may be prescribed.
+
+(5) Regulation 3 of the Deferral Regulations shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 7B of Schedule 5.
+
+(6) In any case where –
+
+- (a) there is a period between the death of S and the date on which W becomes entitled to a Category A or Category B retirement pension; and
+- (b) one or more orders have come into operation under section 132 of the Administration Act during that period,
+
+the amount of the lump sum shall be increased in accordance with that order or those orders.
+
+### PART 2 — Increase or lump sum where person is treated as receiving retirement pension at a nominal weekly rate
+
+#### 11. Scope[^key-53464affaa251d5a631fdce61fc5a23b]
+
+This Part applies only in respect of a person who is deferring entitlement to graduated retirement benefit by virtue of section 35(4A)(b) of the 1966 Act.
+
+#### 12. Choice between increase and lump sum[^key-869f45f8bfa883385b7af393a69a949b]
+
+(1) Where the period of deferment is at least 12 months, a person shall, on becoming entitled to graduated retirement benefit, elect that –
+
+- (a) paragraph 13; or
+- (b) paragraph 15,
+
+is to apply in respect of that period.
+
+(2)[^M_F_b886c46b-b9c0-4660-e2e9-7bed561e66c3] The election referred to in sub-paragraph (1) shall be made—
+
+- (a) on the date on which he claims graduated retirement benefit; or
+- (b) within the period after claiming graduated retirement benefit prescribed in paragraph 20D,
+
+and in the manner prescribed in paragraph 20E.
+
+(3) If no election under sub-paragraph (1) is made within the period referred to in sub-paragraph (2)(b), the person is to be treated as having made an election under sub-paragraph (1)(b).
+
+(4) A person who has made an election under sub-paragraph (1) (including one that the person is treated by sub-paragraph (3) as having made) may change the election in the circumstances , manner and within the period prescribed, in paragraph 20F[^M_F_71cfadd6-9aea-491d-c468-f83c9ae53d3b].
+
+#### 13. Increase[^key-adff597deee947e3271dd8eb44c88445]
+
+(1) This paragraph applies where –
+
+- (a) the period of deferment is less than 12 months; or
+- (b) the person has made an election under paragraph 12(1)(a) in respect of the period of deferment.
+
+(2) The rate of the person’s graduated retirement benefit shall be increased by an amount equal to the aggregate of the increments to which he is entitled under paragraph 14 but only if that amount is enough to increase the rate of the benefit by at least one per cent.
+
+#### 14. Calculation of increment[^key-a797d21ccee93b80cda26f1174159594]
+
+(1) A person is entitled to an increment under this paragraph for each complete incremental period in the period of deferment.
+
+(2) The amount of the increment for an incremental period shall be ⅕th per cent. of the weekly rate of the graduated retirement benefit to which the person would have been entitled for the period if his entitlement to graduated retirement benefit had not been deferred.
+
+(3) For the purposes of sub-paragraph (2), the weekly rate of graduated retirement benefit shall be taken to include any increase in the weekly rate of that benefit and the amount of the increment in respect of such an increase shall be ⅕th per cent. of its weekly rate for each incremental period in the period of deferment beginning on the day the increase occurred.
+
+(4) Amounts under sub-paragraphs (2) and (3) shall be rounded to the nearest penny, taking any ½p as nearest to the next whole penny.
+
+(5) Where an amount under sub-paragraph (2) or (3) would, apart from this sub-paragraph, be a sum less than ½p, the amount shall be taken to be zero, notwithstanding any provision of the Contributions and Benefits Act, the Administration Act or the Pension Schemes Act.
+
+(6) Where one or more orders have come into operation under section 132 of the Administration Act during the period of deferment, the rate for any incremental period shall be determined as if the order or orders had come into operation before the beginning of the period of deferment.
+
+#### 15. Lump sum[^key-0d4ba07d1473f2e682d325a53022163a]
+
+(1) This paragraph applies where paragraph 12(1)(b) applies.
+
+(2) The person is entitled to an amount calculated in accordance with paragraph 16 (calculation of lump sum).
+
+#### 16. Calculation of lump sum[^key-07366f75fa85829b7624c5aa5e61bebd]
+
+(1) The lump sum is the accrued amount for the last accrual period beginning during the period of deferment.
+
+(2) In this paragraph –
+
+- “accrued amount” means the amount calculated in accordance with sub-paragraph (3);
+- “accrual period” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to a person in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Claims and Payments Regulations or in accordance with regulation 22C(3) or (4) of those Regulations[^key-023e27c5590ba16e3405b84ab7d809b5], if he had been entitled to it, where that day falls within the period of deferment.
+
+(3) The accrued amount for an accrual period for a person is –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2005/121)
+
+where –
+
+- A is the accrued amount for the previous accrual period (or, in the case of the first accrual period beginning during the period of deferment, zero);
+- P is, subject to sub-paragraph (5), the amount of the graduated retirement benefit to which the person would have been entitled for the accrual period if he had been entitled to it;
+- R is –
+  - (a) a percentage rate two per cent. higher than the Bank of England base rate; or
+  - (b) if a higher rate is prescribed for the purposes of paragraphs 3B and 7B of Schedule 5, that higher rate.
+
+(4) For the purposes of sub-paragraph (3), any change in the Bank of England base rate is to be treated as taking effect –
+
+- (a) at the beginning of the accrual period immediately following the accrual period during which the change took effect; or
+- (b) if regulations under paragraph 3B(4) of Schedule 5 so provide, at such other time as may be prescribed in those Regulations.
+
+(5) Regulation 3 of the Deferral Regulations shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 3B of Schedule 5.
+
+#### 17. Choice between increase and lump sum where person’s deceased spouse or deceased civil partner has deferred entitlement to graduated retirement benefit[^key-f1cab8011f1cd008c24f76d65fb7580e][^key-16c79fee652b87ab9f9c0637c321bb00]
+
+(1) This paragraph applies where –
+
+- (a) a widow, widower or surviving civil partner[^key-b82b846002f4a908dc9fb1ab92f12e0f] (“W”) is entitled to a Category A or a Category B retirement pension;
+- (b) W was married to or in a civil partnership with[^key-601c7b016cdd4194412f1c1d5b813de4] the other party to the marriage or civil partnership[^key-602a6e5dfa2fda77196b99d9b9733333] (“S”) when S died;
+- (c) S’s entitlement to graduated retirement benefit was deferred when S died; and
+- (d) S’s entitlement had been deferred throughout the period of 12 months ending with the day before S’s death.
+
+(2) W shall elect either that –
+
+- (a) paragraph 18; or
+- (b) paragraph 19,
+
+is to apply in respect of S’s period of deferment.
+
+(3)[^M_F_e7fa19dd-6193-4ee4-dbb5-61ec9a8bad07] The election referred to in sub-paragraph (2) shall be made within the period prescribed in paragraph 20D and in the manner prescribed in paragraph 20E.
+
+(4) If no election under sub-paragraph (2) is made within the period referred to in sub-paragraph (3)[^M_F_fe4fa812-229d-4bd7-f4e5-ecda9ed3a4e3], the person is to be treated as having made an election under sub-paragraph (2)(b).
+
+(5)[^M_F_636d70d8-a3b4-48b2-9952-7f2c23ff08d9] A person who has made an election under sub-paragraph (2) (including one that the person is treated by sub-paragraph (4) as having made) may change the election in the circumstances, manner and within the period prescribed in paragraph 20F.
+
+#### 18. Increase where person’s deceased spouse or deceased civil partner has deferred entitlement to graduated retirement benefit[^key-b59a0d531074ff4173a33ce0e6d49559][^key-c97d3c6f97e44fc1b319c2b9aabc8ce1]
+
+(1) This paragraph applies where a widow, widower or surviving civil partner[^key-2ffe80906064b14654edaf0ba6623614] is entitled to graduated retirement benefit, was married to or in a civil partnership with[^key-adc65a3aad9744b742e9024fa04d70b5] the other party to the marriage or civil partnership[^key-68730bb8f71e8d53ca2be0909ad5514a] when S died and one of the following conditions is met –
+
+- (a) S was entitled to graduated retirement benefit with an increase under this Schedule;
+- (b) W is a widow, widower or surviving civil partner to whom paragraph 17 applies and has made an election under paragraph 17(2)(a); or
+- (c) paragraph 17 would apply to W but for the fact that the condition in sub-paragraph (1)(d) of that paragraph is not met.
+
+(2) The increase in the weekly rate of W’s graduated retirement benefit shall, in a case to which sub-paragraph (1) applies, be determined in accordance with section 36 of the 1966 Act as continued in force by regulation 2 of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978.
+
+#### 19. Entitlement to lump sum where person’s deceased spouse or deceased civil partner has deferred entitlement to graduated retirement benefit[^key-e5d7ba5bf827b078264655dfe6773038][^key-7091626997bd9f6962705771db210661]
+
+(1) This paragraph applies where paragraph 17(2)(b) applies.
+
+(2) W is entitled to an amount calculated in accordance with paragraph 20 (calculation of widowed person’s or surviving civil partner's[^key-bd03b7cef7f67ac366d404edd885ba92] lump sum).
+
+#### 20. Calculation of widowed person’s or surviving civil partner's lump sum[^key-dff971dc5ce8e96af354fb7fa9899054][^key-1e205e6df87b3ac2fab88fc1d1dbd866]
+
+(1) The widowed person’s or surviving civil partner's[^key-0785a245d327890a519838de1b10eab2] lump sum is the accrued amount for the last accrual period beginning during the period which –
+
+- (a) began at the beginning of S’s period of deferment; and
+- (b) ended on the day before S’s death.
+
+(2) In this paragraph –
+
+- “S” means the other party to the marriage or civil partnership[^key-56c1e99e44843ebef33b8db716e75738];
+- “accrued amount” means the amount calculated in accordance with sub-paragraph (3);
+- “accrual period” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to S in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Claims and Payments Regulations or in accordance with regulation 22C(3) or (4) of those Regulations[^key-99f7e9fadec7e2936b6a3a3463aa61be], if he had been entitled to it, where that day falls within S’s period of deferment.
+
+(3) The accrued amount for an accrual period for W is –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2005/121)
+
+where
+
+- A is the accrued amount for the previous accrual period (or, in the case of the first accrual period beginning during the period mentioned in sub-paragraph (1), zero);
+- P is, subject to sub-paragraph (5), one-half of the graduated retirement benefit to which S would have been entitled for the accrual period if he had been entitled to it during the period mentioned in sub-paragraph (1);
+- R is –
+  - (a) a percentage rate two per cent. higher than the Bank of England base rate; or
+  - (b) if a higher rate is prescribed for the purposes of paragraphs 3B and 7B of Schedule 5, that higher rate.
+
+(4) For the purposes of sub-paragraph (3), any change in the Bank of England base rate is to be treated as taking effect –
+
+- (a) at the beginning of the accrual period immediately following the accrual period during which the change took effect; or
+- (b) if regulations under paragraph 7B(4) of Schedule 5 so provide, at such other time as may be prescribed.
+
+(5) Regulation 3 of the Deferral Regulations shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 7B of Schedule 5.
+
+(6) In any case where –
+
+- (a) there is a period between the death of S and the date on which W becomes entitled to graduated retirement benefit; and
+- (b) one or more orders have come into operation under section 132 of the Administration Act during that period,
+
+the amount of the lump sum shall be increased in accordance with that order or those orders.
+
+#### 20A. Transitional provision relating to widower’s entitlement to increase of graduated retirement benefit or lump sum[^key-5ad1bd11cc7985e9bb2632d3a800cd72]
+
+In the case of a widower who attains pensionable age before 6th April 2010, paragraphs 17 to 19 shall not apply unless he was over pensionable age when his wife died.
+
+#### 20B. Transitional provision relating to civil partner’s entitlement to increase of graduated retirement benefit or lump sum
+
+In the case of a civil partner who attains pensionable age before 6th April 2010, paragraphs 17 to 19 shall not apply unless he was over pensionable age when his civil partner died.
+
+### PART 2A — ELECTIONS UNDER PART 2[^M_F_8a6798f2-4aca-4be0-b58b-27d94e040f06]
+
+#### 20C. Scope and interpretation
+
+(1) This Part applies in respect of elections which a person makes or is treated as having made under Part 2.
+
+(2) In this Part, “elector” means the person who may make an election under paragraph 12(1) or 17(2).
+
+#### 20D. Timing of election
+
+(1) Subject to sub-paragraph (4), the period for making an election under paragraph 12(1) is 3 months beginning on the date shown on the notice issued by the Department following the claim for graduated retirement benefit, confirming that the elector is required to make that election.
+
+(2) Subject to sub-paragraph (4), the period for making an election under paragraph 17(2) is 3 months beginning on the date shown on the notice issued by the Department following W’s claim for a Category A or Category B retirement pension or, if later, the date of S’s death, confirming that the elector is required to make that election.
+
+(3) Where more than one notice has been issued by the Department in accordance with sub-paragraph (1) or (2), the periods prescribed in those sub-paragraphs shall only begin from the date shown on the latest such notice.
+
+(4) The periods specified in sub-paragraphs (1) and (2) may be extended by the Department if it considers it reasonable to do so in any particular case.
+
+(5) Nothing in this paragraph shall prevent the making of an election on or after claiming graduated retirement benefit or Category A or Category B retirement pension, but before the issue of the notice referred to in sub-paragraph (1) or (2).
+
+#### 20E. Manner of making election
+
+An election under paragraph 12(1) or 17(2) may be made—
+
+- (a) in writing to an office specified by the Department for accepting such elections; or
+- (b) except where the Department directs in any particular case that the election must be made in accordance with sub-paragraph (a), by telephone call to the telephone number specified by the Department.
+
+#### 20F. Change of election
+
+(1) Subject to sub-paragraphs (2) and (6), this paragraph applies in the case of an election which—
+
+- (a) has been made under paragraph 12(1) or 17(2); or
+- (b) has been treated as made under paragraph 12(3) or 17(4).
+
+(2) This paragraph does not apply in the case of an election which is—
+
+- (a) made, or treated as made, by an elector who has subsequently died; or
+- (b) treated as having been made by virtue of regulation 30(5E) or (5G) of the Claims and Payments Regulations.
+
+(3) An election specified in sub-paragraph (1) may be changed by way of application made no later than the last day of the period specified in sub-paragraph (4).
+
+(4) Subject to sub-paragraph (5), the period specified for the purposes of sub-paragraph (3) is 3 months after the date shown on the written notification issued by the Department to the elector, confirming the election which the elector has made or is treated as having made.
+
+(5) The period specified in sub-paragraph (4) may be extended by the Department if it considers it reasonable to do so in any particular case.
+
+(6) An election specified in sub-paragraph (1) may not be changed where—
+
+- (a) there has been a previous change of election under this paragraph in respect of the same period of deferment;
+- (b) the application is to change the election to one under paragraph 12(1)(a) or 17(2)(a) and any amount paid to him by way of, or on account of, a lump sum pursuant to paragraph 15 or 19, has not been repaid in full to the Department within the period specified in sub-paragraph (4) or (5); or
+- (c) the application is to change the election to one under paragraph 12(1)(b) or 17(2)(b) and the amount actually paid by way of an increase of graduated retirement benefit, or actually paid on account of such an increase, would exceed the amount to which the elector would be entitled by way of a lump sum.
+
+(7) For the purposes of sub-paragraph (6)(b), repayment in full of the amount paid by way of, or on account of, a lump sum shall only be treated as having occurred if repaid to the Department in the currency in which that amount was originally paid.
+
+(8) Where the application is to change the election to one under paragraph 12(1)(b) or 17(2)(b) and sub-paragraph (6)(c) does not apply, any amount paid by way of an increase of graduated retirement benefit, or on account of such an increase, in respect of the period of deferment for which the election was originally made, shall be treated as having been paid on account of the lump sum to which the elector is entitled under paragraph 15 or 19.
+
+(9) An application under sub-paragraph (3) to change an election may be made—
+
+- (a) in writing to an office specified by the Department for accepting such applications; or
+- (b) except where the Department directs in any particular case that the application must be made in accordance with paragraph (a), by telephone call to the telephone number specified by the Department.
+
+### PART 3 — Supplementary
+
+#### 21. Supplementary[^key-a45619d18263e3238ce864b0d87f577f]
+
+Any lump sum calculated under paragraph 6, 10, 16 or 20 must be rounded to the nearest penny, taking any ½p as nearest to the next whole penny above.
+
+## SCHEDULE 2 — MODIFICATION OF SCHEDULE 1
+
+Regulation 5
+
+**1.**[^key-f2bf52aee390a16ec09eb0e22d8c2420] In paragraph 2(1) for paragraph (b) there shall be substituted the following paragraph –
+
+> - (b) that paragraph 1 of Schedule 5 is to apply in relation to so much of the period of deferment which falls before the first day of the first accrual period (as defined by paragraph 3B(2) of that Schedule) beginning on or after 6th April 2005 (“the first part”) and that paragraph 3A of that Schedule is to apply in relation to the remainder of the period of deferment (“the second part”), paragraph 3 of this Schedule shall apply in relation to the first part and paragraph 5 of this Schedule shall apply in relation to the second part.
+
+.
+
+**2.**[^key-bb23ce409f7325f215aaaebb96fd379e] In paragraph 3(2) for the words from “that amount” to the end of the sub-paragraph there shall be substituted –
+
+> - –
+>   - (a) there are at least 7 incremental periods in the period of deferment;
+>   - (b) there are at least 5 incremental periods in the period of deferment and the amount of the increment for at least one of those periods is calculated in accordance with paragraph 4(2); or
+>   - (c) paragraph 2(1)(b) applies and there is at least one incremental period before the first day of the first accrual period.
+
+.
+
+**3.**[^key-5295c08df2c15a091cc8cdfcf9afef12] At the end of paragraph 6(1) there shall be added “or, if greater, the amount equal to the total amount of graduated retirement benefit which would have been payable to the person during the period of 12 months ending with the last day of the period of deferment if his entitlement had not been deferred”.
+
+**4.**[^key-094918f109ad582de2c6acf061ebc50c] In paragraph 7 –
+
+- (a) at the end of sub-paragraph (1)(d) there shall be added “and throughout the period of 12 months falling after 5th April 2005”;
+- (b) for sub-paragraph (2)(b) there shall be substituted the following sub-paragraph –
+
+  > - (b) that paragraph 4 of Schedule 5 is to apply in relation to so much of S’s period of deferment which falls before the first day of the first accrual period (as defined by paragraph 7B(2) of that Schedule) beginning on or after 6th April 2005 (“the first part”) and that paragraph 7A of that Schedule is to apply in relation to the remainder of the period of deferment (“the second part”), paragraph 8 of this Schedule shall apply in relation to the first part and paragraph 9 of this Schedule shall apply in relation to the second part.
+
+  .
+
+**5.**[^M_F_e3651f99-4c39-477b-ba23-2b51fc6383b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-03637eca11a5e95b9d570ea60223f53b] In paragraph 12(1) –
+
+- (a) after “12 months” there shall be inserted “and at least 12 months of that period falls after 5th April 2005”;
+- (b) for sub-paragraph (b) there shall be substituted the following sub-paragraph –
+
+  > - (b) that paragraph 13 is to apply in relation to so much of the period of deferment which falls before the first day of the first accrual period (as defined in paragraph 16(2)) for the purposes of paragraph 15 and that paragraph 14 is to apply in relation to the remainder of the period of deferment.
+
+  .
+
+**7.**[^key-021e98736a0a0e29df6cc44c8b4bf344] In paragraph 13(2) for the words from “that amount” to the end of the sub-paragraph there shall be substituted –
+
+> - –
+>   - (a) there are at least 7 incremental periods in the period of deferment;
+>   - (b) there are at least 5 incremental periods in the period of deferment and the amount of the increment for at least one of those periods is calculated in accordance with paragraph 14(2); or
+>   - (c) the person has made (or is treated as having made) an election under paragraph 12(1)(b) and there is at least one incremental period before the first day of the first accrual period.
+
+.
+
+**8.**[^key-29dffa5cd4cc4373bc93032bd7a3470a] At the end of paragraph 16(1) there shall be added “or, if greater, the amount equal to the total amount of graduated retirement benefit to which the person would have been entitled for the period of 12 months ending with the last day of the period of deferment if his entitlement had not been deferred”.
+
+**9.**[^key-812eb1cc750b5ecfca65a44beba4efef] In paragraph 17 –
+
+- (a) at the end of sub-paragraph (1)(d) there shall be added “and throughout the period of 12 months falling after 5th April 2005”;
+- (b) for sub-paragraph (2)(b) there shall be substituted the following sub-paragraph –
+
+  > - (b) that paragraph 18 is to apply in relation to so much of S’s period of deferment which falls before the first day of the first accrual period (as defined in paragraph 20(2)) for the purposes of paragraph 19 and that paragraph 19 is to apply in relation to the remainder of that period of deferment.
+
+  .
+
+**10.**[^M_F_bddee1ec-e86d-4287-bf9c-b3cf9c80eb66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of these Regulations.)
+
+These Regulations make provision relating to the deferment of graduated retirement benefit arising from changes in the rules relating to the deferment of retirement pension made by the Pensions (Northern Ireland) Order 1995 and the Pensions (Northern Ireland) Order 2005 (“the 2005 Order”).
+
+Regulation 1(2) provides that the increase in the incremental rate is not to take effect in relation to incremental periods beginning before 6th April 2005.
+
+Regulations 2 to 4 and Schedule 1 repeal and re-enact the existing rules relating to increments of graduated retirement benefit where entitlement to either retirement pension or to graduated retirement benefit alone is deferred, so that they correspond with the rules for deferment of entitlement to retirement pension enacted in Schedule 5 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as amended by Schedule 9 to the 2005 Order.
+
+The two changes introduced by Schedule 1 are an increase in the incremental rate from 1/7th per cent. to ⅕th per cent. and the introduction of a new reward of a lump sum, both for those who have deferred entitlement to their graduated retirement benefit for at least 12 months and for widows and widowers where their deceased spouses deferred entitlement to their graduated retirement benefit for at least 12 months as at the date of death. Those who also had deferred entitlement to retirement pension for at least 12 months can only get the same reward for graduated retirement benefit as they elected to receive for their retirement pension, otherwise, an election can be made. The election is to be made in the manner and within the time specified in regulations made under powers introduced by the 2005 Order. The lump sum is to be calculated on the basis of the amount of graduated retirement benefit foregone in the period of deferment with interest accrued on it at a rate 2 per cent. above the Bank of England base rate.
+
+Regulation 5 and Schedule 2 modify Schedule 1 in so far as it applies to cases where a person was deferring his graduated retirement benefit before 6th April 2005 and continued deferring it after that date.
+
+Regulation 6 makes consequential revocations.
+
+Schedule 9 to the 2005 Order, under which some of these Regulations are made, was brought into operation, for the purpose of authorising the making of regulations, on 16th February and for all other purposes on 6th April 2005.
+
+Regulations 3 and 4 of, and paragraphs 2, 3, 7, 13, 14 and 18 of Schedule 1 to, these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee. Otherwise they are made by virtue of, or consequential upon, provisions of the 2005 Order and are made before the end of the period of six months of the commencement of those provisions and accordingly are exempt by virtue of section 150(5)(b) of that Act from prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 62(1)(a) was amended by paragraph 7(a) of Schedule 2 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and paragraph 16(a) of Schedule 9 to the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); section 62(1)(c) is inserted by paragraph 16(b) of Schedule 9 to the Pensions (Northern Ireland) Order 2005
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-c05818877a6e88274b7980e8af63a924]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^f00004]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
+
+[^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); the relevant amending regulations are [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108) and [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297)
+
+[^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); Schedule 5 was amended by paragraph 36 of Schedule 7 to the Pensions Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49), paragraph 40 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)), paragraphs 6 and 18 of Schedule 2 to the Pensions (Northern Ireland) Order 1995 and Part I of Schedule 9 to the Pensions (Northern Ireland) Order 2005
+
+[^f00007]: Footnote: [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
+
+[^f00008]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^key-5a927782b57bc481bff9d8289337ce2c]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^f00009]: Footnote: Sections 35 and 36 were repealed by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38) but are continued in force by regulation 2 of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978 ([S.R. 1978 No. 105](https://www.legislation.gov.uk/nisr/1978/105))
+
+[^f00010]: Footnote: Subsection (4) was amended by regulation 5(2)(a)(ii) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
+
+[^f00011]: Footnote: [S.R. 1978 No. 105](https://www.legislation.gov.uk/nisr/1978/105); relevant amending regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
+
+[^f00012]: Footnote: Section 55 is substituted by Article 273(1) of the Pensions (Northern Ireland) Order 2005
+
+[^key-5a870c07ba12df2bbb57663328ab0db0]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-3cda18aadf0ecfb3a50999b66cc8ce52]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-ded9334578488ada6028466d69cf92a1]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-44daf8e3f78b4a3fdd3c86e527ee6efa]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^f00013]: Footnote: [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
+
+[^key-63354e8e2d1b87f91129b777d9ccf7f7]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2007 (S.R. 2007/153)](https://www.legislation.gov.uk/nisr/2007/153), [arts. 1(1)(g)](https://www.legislation.gov.uk/nisr/2007/153/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2007/153/article/12)
+
+[^key-6013e13fc532ba027f373384dd87505a]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2008 (S.R. 2008/92)](https://www.legislation.gov.uk/nisr/2008/92), [arts. 1(1)(g)](https://www.legislation.gov.uk/nisr/2008/92/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2008/92/article/12)
+
+[^key-30f9d162955a76244f78c47389776bf7]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2009 (S.R. 2009/89)](https://www.legislation.gov.uk/nisr/2009/89), [arts. 1(1)(f)](https://www.legislation.gov.uk/nisr/2009/89/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2009/89/article/12)
+
+[^key-9ec6636d1988f793c0b41b61d8fb2635]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums confirmed (12.4.2010) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2010 (S.R. 2010/118)](https://www.legislation.gov.uk/nisr/2010/118), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2010/118/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2010/118/article/12)
+
+[^key-942ed73312c6ad4ef3536c8ccf4a1579]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2011 (S.R. 2011/119)](https://www.legislation.gov.uk/nisr/2011/119), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2011/119/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2011/119/article/12)
+
+[^key-6853b68831784fe91d9f67b31d359846]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2012 (S.R. 2012/116)](https://www.legislation.gov.uk/nisr/2012/116), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/c), [12(3)](https://www.legislation.gov.uk/nisr/2012/116/article/12)
+
+[^key-4c040cc1e066bf0d97727a121e17f1af]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2013/69/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2013/69/article/11)
+
+[^key-37dafbcbdb87c8e140b4475dbf436519]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2014 (S.R. 2014/78)](https://www.legislation.gov.uk/nisr/2014/78), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2014/78/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2014/78/article/11)
+
+[^key-d2f02746fe017540534e1904bf574e0e]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2), 6 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2015 (S.R. 2015/124)](https://www.legislation.gov.uk/nisr/2015/124), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2015/124/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2015/124/article/11)
+
+[^key-8607308b8ff97509ac326cfff4a8aad6]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2017 (S.R. 2017/56)](https://www.legislation.gov.uk/nisr/2017/56), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2017/56/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2017/56/article/12)
+
+[^key-27637cf418aff1dbc5a86117e557009f]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (25.9.2017) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2017 (S.R. 2017/187)](https://www.legislation.gov.uk/nisr/2017/187), [arts. 1](https://www.legislation.gov.uk/nisr/2017/187/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2017/187/article/11)
+
+[^key-05cad0a93e8043017c0a78aa9ddd2297]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2018/56/article/11)
+
+[^key-f831061d68b4265fdb25fa3c14c0f85e]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2018 (S.R. 2018/58)](https://www.legislation.gov.uk/nisr/2018/58), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2018/58/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2018/58/article/12)
+
+[^key-120bb20ce904f855461a72fa8a89d175]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (29.9.2018) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2018 (S.R. 2018/167)](https://www.legislation.gov.uk/nisr/2018/167), [arts. 1](https://www.legislation.gov.uk/nisr/2018/167/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2018/167/article/11)
+
+[^key-8fdd9c41a140941fa4a15a6cf0da3088]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (26.3.2019) by [The Social Security (2018 Benefits Up-rating) Order (Northern Ireland) 2019 (S.R. 2019/46)](https://www.legislation.gov.uk/nisr/2019/46), [arts. 1](https://www.legislation.gov.uk/nisr/2019/46/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2019/46/article/11)
+
+[^key-e22be59d86540c4a88c4e530970ae5f9]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2019 (S.R. 2019/58)](https://www.legislation.gov.uk/nisr/2019/58), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2019/58/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2019/58/article/12)
+
+[^key-f384634d8871f79c847ed8e221b22c6f]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (27.9.2019) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2019 (S.R. 2019/188)](https://www.legislation.gov.uk/nisr/2019/188), [arts. 1](https://www.legislation.gov.uk/nisr/2019/188/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2019/188/article/11)
+
+[^key-3ba8e3adb8368d04e595baf0ff9cdfff]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with art. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2020 (S.R. 2020/40)](https://www.legislation.gov.uk/nisr/2020/40), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2020/40/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2020/40/article/12)
+
+[^key-603cdf65304044337be3295f3998590c]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2021 (S.R. 2021/82)](https://www.legislation.gov.uk/nisr/2021/82), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2021/82/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2021/82/article/12)
+
+[^key-0b3943ef501b4fe0d00ea082b95d6533]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (S.R. 2022/143)](https://www.legislation.gov.uk/nisr/2022/143), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2022/143/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2022/143/article/12)
+
+[^key-f88641538658d64f4d5075ea7e151abb]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/231)](https://www.legislation.gov.uk/nisr/2022/231), [arts. 1](https://www.legislation.gov.uk/nisr/2022/231/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2022/231/article/11)
+
+[^key-7e691654ff02f70da7b1b7c30a3f275e]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Order (Northern Ireland) 2023 (S.R. 2023/27)](https://www.legislation.gov.uk/nisr/2023/27), [arts. 1](https://www.legislation.gov.uk/nisr/2023/27/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2023/27/article/11)
+
+[^key-6ac0b1d0059753eb90a26efefb946d81]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2023 (S.R. 2023/43)](https://www.legislation.gov.uk/nisr/2023/43), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2023/43/article/1), [12(3)](https://www.legislation.gov.uk/nisr/2023/43/article/12)
+
+[^key-ae2956916390cae80863dbc936abc36b]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2023/150/article/11)
+
+[^key-739a777feaf3158844b76fce0707c791]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Order (Northern Ireland) 2024 (S.R. 2024/69)](https://www.legislation.gov.uk/nisr/2024/69), [arts. 1](https://www.legislation.gov.uk/nisr/2024/69/article/1), [10(3)](https://www.legislation.gov.uk/nisr/2024/69/article/10)
+
+[^key-0c188519d2253fa208c238ab13a8f8a4]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with arts. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2024 (S.R. 2024/73)](https://www.legislation.gov.uk/nisr/2024/73), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2024/73/article/1/1/c), [11(3)](https://www.legislation.gov.uk/nisr/2024/73/article/11/3)
+
+[^key-f763f5b64b285c16097d86a031c9d9cf]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (with effect in accordance with art. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [11(3)](https://www.legislation.gov.uk/nisr/2025/64/article/11/3)
+
+[^key-84e3e8fd343a6d8e2980eaa0cda23f06]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/121/schedule/1): sums amended (coming into operation in accordance with arts. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [11(3)](https://www.legislation.gov.uk/nisr/2026/59/article/11/3)
+
+[^key-783df2e8c93798856b5d1c20e21cc5f8]: Commencement: Sch. 1 para. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-7f181695545bd28f3664475e8ce20877]: Commencement: Sch. 1 para. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^M_F_a20e7d5f-b5dc-41a9-bd03-980905a40e83]: Textual amendment: Words in Sch. 1 para. 2(1) omitted (6.4.2006) by virtue of [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/a)
+
+[^key-48e790ee4968fb09bf3e3e3f422f6a1f]: Commencement: Sch. 1 para. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-919f1bf966e5bbce38e1176c4a5c3852]: Commencement: Sch. 1 para. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^f00014]: Footnote: [S.R.1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); the relevant amending regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6) and [318](https://www.legislation.gov.uk/nisr/1992/318), [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289), [S.R. 1999 No. 371](https://www.legislation.gov.uk/nisr/1999/371) and [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
+
+[^key-c903a621bc3f550674093e3db95dafaf]: Commencement: Sch. 1 para. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-bc2a9a750244fac48758f6be42b0acad]: Commencement: Sch. 1 para. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^f00015]: Footnote: Paragraph 5 of Schedule 6 was amended by regulation 10(6)(a) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108) and regulation 2(10)(a) and (b) of [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297)
+
+[^key-9bacf9a7f06d2f330bb11c355b88d8ed]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/6/2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/57/regulation/3)
+
+[^key-379b397935dd1a984c65c782e9106a63]: Commencement: Sch. 1 para. 7 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-8e7e936cdf2ff464d7a5186d482bcd23]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/7) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(2)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/2/a)
+
+[^key-3152f39f324ed16abeb4d405c4893c59]: Textual amendment: Words in [Sch. 1 para. 7(1)(a)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/7/1/a) substituted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(2)(b)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/2/b)
+
+[^key-2bd1b49dec7147615b66f71ddaefe2fd]: Textual amendment: Words in [Sch. 1 para. 7(1)(b)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/7/1/b) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(2)(c)(i)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/2/c/i)
+
+[^key-2a4b7140a4af16212bac5d2f8bd05514]: Textual amendment: Words in [Sch. 1 para. 7(1)(b)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/7/1/b) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/2/c/ii)
+
+[^key-73ad54541ebccd46e04c446b6a5b7f97]: Commencement: Sch. 1 para. 8 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-8edcac4d7513f429e79a5901606273c4]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/8) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(3)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/3/a)
+
+[^key-c8b4a778d05c557777e9b48e5419238f]: Textual amendment: Words in [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/8/1) substituted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(3)(b)(i)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/3/b/i)
+
+[^key-f9e1de9b0d755f416201bf8adf188a6a]: Textual amendment: Words in [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/8/1) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/3/b/ii)
+
+[^key-3f27c9860f2f96ee99f01740c466d049]: Textual amendment: Words in [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/8/1) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/3/b/iii)
+
+[^key-ae85db6d1372986f713a8c9b262dd17b]: Commencement: Sch. 1 para. 9 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-62a9a534dd0c39bd0cd0f37b79a2fde9]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/9) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(4)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/4/a)
+
+[^key-ece3bb5977df145733c7299ddcd9c0d7]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/9/2) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(4)(b)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/4/b)
+
+[^key-00d16746e417030db22537ab6ce0d57f]: Commencement: Sch. 1 para. 10 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-d8327764842b6ee0e44c43b8d19d2f27]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/10) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(5)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/5/a)
+
+[^key-cc49ead13a4bd7c59d750b87cd73ef34]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/10/1) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(5)(b)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/5/b)
+
+[^key-aba7d8f433cc2438c250ebf9d0bcf75d]: Textual amendment: Words in [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/10/2) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(5)(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/5/c)
+
+[^key-9160ed5b787c311b2a8d025264f59afb]: Textual amendment: Words in [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/10/2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/57/regulation/3)
+
+[^key-53464affaa251d5a631fdce61fc5a23b]: Commencement: Sch. 1 para. 11 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-869f45f8bfa883385b7af393a69a949b]: Commencement: Sch. 1 para. 12 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^M_F_b886c46b-b9c0-4660-e2e9-7bed561e66c3]: Textual amendment: Sch. 1 para. 12(2) substituted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/b/i)
+
+[^M_F_71cfadd6-9aea-491d-c468-f83c9ae53d3b]: Textual amendment: Words in Sch. 1 para. 12(4) substituted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/b/ii)
+
+[^key-adff597deee947e3271dd8eb44c88445]: Commencement: Sch. 1 para. 13 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-a797d21ccee93b80cda26f1174159594]: Commencement: Sch. 1 para. 14 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-0d4ba07d1473f2e682d325a53022163a]: Commencement: Sch. 1 para. 15 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-07366f75fa85829b7624c5aa5e61bebd]: Commencement: Sch. 1 para. 16 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-023e27c5590ba16e3405b84ab7d809b5]: Textual amendment: Words in [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/16/2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/57/regulation/3)
+
+[^key-f1cab8011f1cd008c24f76d65fb7580e]: Commencement: Sch. 1 para. 17 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-16c79fee652b87ab9f9c0637c321bb00]: Textual amendment: Words in [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/17) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(6)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/6/a)
+
+[^key-b82b846002f4a908dc9fb1ab92f12e0f]: Textual amendment: Words in [Sch. 1 para. 17(1)(a)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/17/1/a) substituted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(6)(b)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/6/b)
+
+[^key-601c7b016cdd4194412f1c1d5b813de4]: Textual amendment: Words in [Sch. 1 para. 17(1)(b)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/17/1/b) substituted (5.12.2005) by virtue of [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(6)(c)(i)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/6/c/i)
+
+[^key-602a6e5dfa2fda77196b99d9b9733333]: Textual amendment: Words in [Sch. 1 para. 17(1)(b)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/17/1/b) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/6/c/ii)
+
+[^M_F_e7fa19dd-6193-4ee4-dbb5-61ec9a8bad07]: Textual amendment: Sch. 1 para. 17(3) substituted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(c)(i)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/c/i)
+
+[^M_F_fe4fa812-229d-4bd7-f4e5-ecda9ed3a4e3]: Textual amendment: Word in Sch. 1 para. 17(4) substituted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/c/ii)
+
+[^M_F_636d70d8-a3b4-48b2-9952-7f2c23ff08d9]: Textual amendment: Sch. 1 para. 17(5) substituted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(c)(iii)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/c/iii)
+
+[^key-b59a0d531074ff4173a33ce0e6d49559]: Commencement: Sch. 1 para. 18 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-c97d3c6f97e44fc1b319c2b9aabc8ce1]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/18) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(7)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/7/a)
+
+[^key-2ffe80906064b14654edaf0ba6623614]: Textual amendment: Words in [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/18/1) substituted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(7)(b)(i)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/7/b/i)
+
+[^key-adc65a3aad9744b742e9024fa04d70b5]: Textual amendment: Words in [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/18/1) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(7)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/7/b/ii)
+
+[^key-68730bb8f71e8d53ca2be0909ad5514a]: Textual amendment: Words in [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/18/1) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(7)(b)(iii)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/7/b/iii)
+
+[^key-e5d7ba5bf827b078264655dfe6773038]: Commencement: Sch. 1 para. 19 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-7091626997bd9f6962705771db210661]: Textual amendment: Words in [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/19) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(8)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/8/a)
+
+[^key-bd03b7cef7f67ac366d404edd885ba92]: Textual amendment: Words in [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/19/2) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(8)(b)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/8/b)
+
+[^key-dff971dc5ce8e96af354fb7fa9899054]: Commencement: Sch. 1 para. 20 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-1e205e6df87b3ac2fab88fc1d1dbd866]: Textual amendment: Words in [Sch. 1 para. 20](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/20) heading inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(9)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/9/a)
+
+[^key-0785a245d327890a519838de1b10eab2]: Textual amendment: Words in [Sch. 1 para. 20(1)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/20/1) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(9)(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/9/a)
+
+[^key-56c1e99e44843ebef33b8db716e75738]: Textual amendment: Words in [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/20/2) inserted (5.12.2005) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(c)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/c), [4(9)(b)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/9/b)
+
+[^key-99f7e9fadec7e2936b6a3a3463aa61be]: Textual amendment: Words in [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/20/2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2017/57/regulation/3)
+
+[^key-5ad1bd11cc7985e9bb2632d3a800cd72]: Textual amendment: [Sch. 1 paras. 20A, 20B](https://www.legislation.gov.uk/nisr/2005/121/schedule/1/paragraph/20A) inserted (coming into operation in accordance with reg. 1(b) of the amending Rule) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [reg. 4(10)](https://www.legislation.gov.uk/nisr/2005/541/regulation/4/10)
+
+[^M_F_8a6798f2-4aca-4be0-b58b-27d94e040f06]: Textual amendment: Sch. 1 Pt. 2A inserted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(2)(d)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/2/d)
+
+[^key-a45619d18263e3238ce864b0d87f577f]: Commencement: Sch. 1 para. 21 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-f2bf52aee390a16ec09eb0e22d8c2420]: Commencement: Sch. 2 para. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-bb23ce409f7325f215aaaebb96fd379e]: Commencement: Sch. 2 para. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-5295c08df2c15a091cc8cdfcf9afef12]: Commencement: Sch. 2 para. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-094918f109ad582de2c6acf061ebc50c]: Commencement: Sch. 2 para. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^M_F_e3651f99-4c39-477b-ba23-2b51fc6383b0]: Textual amendment: Sch. 2 para. 5 omitted (6.4.2006) by virtue of [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/3)
+
+[^key-03637eca11a5e95b9d570ea60223f53b]: Commencement: Sch. 2 para. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-021e98736a0a0e29df6cc44c8b4bf344]: Commencement: Sch. 2 para. 7 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-29dffa5cd4cc4373bc93032bd7a3470a]: Commencement: Sch. 2 para. 8 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^key-812eb1cc750b5ecfca65a44beba4efef]: Commencement: Sch. 2 para. 9 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/121/regulation/1/1)
+
+[^M_F_bddee1ec-e86d-4287-bf9c-b3cf9c80eb66]: Textual amendment: Sch. 2 para. 10 omitted (6.4.2006) by virtue of [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2006/104/regulation/7/3)

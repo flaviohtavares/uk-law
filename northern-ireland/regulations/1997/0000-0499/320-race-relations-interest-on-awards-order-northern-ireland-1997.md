@@ -1,0 +1,167 @@
+---
+title: Race Relations (Interest on Awards) Order (Northern Ireland) 1997
+id: nisr/1997/320
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-06-30'
+text_date: '1997-06-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/320
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/320/data.pdf
+pending_changes: 13
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Race Relations (Interest on Awards) Order (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (13).** Text as at 1997-06-30. See https://www.legislation.gov.uk/changes/affected/nisr/1997/320
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1997 No. 320
+
+INDUSTRIAL TRIBUNALS
+
+RACE RELATIONS
+
+Race Relations (Interest on Awards) Order (Northern Ireland) 1997
+
+Made
+
+30th June 1997
+
+Coming into operation
+
+4th August 1997
+
+The Department of Economic Development, in exercise of the powers conferred on it by Article 16(1), (3) and (4) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00001] (“the 1996 Order”) and Article 53(4) of the Race Relations (Northern Ireland) Order 1997[^f00002] and of every other power enabling it in that behalf, with the approval of the Department of Finance and Personnel in accordance with Article 16(1) of the 1996 Order, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation[^key-05fa735793d0136bc2a1a3ba9a44b3bc]
+
+(1) This Order may be cited as the Race Relations (Interest on Awards) Order (Northern Ireland) 1997 and shall come into operation on 4th August 1997.
+
+(2) In this Order—
+
+- “an award under the Order” means an order under Article 53(1)(*b*) of the Order for payment of compensation, but does not include an award in respect of costs or allowances under rule 12 in Schedule 1 to the Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 1996[^f00003], even if that award is made in the same proceedings as such an order;
+- “the Order” means the Race Relations (Northern Ireland) Order 1997; and
+- “tribunal” means an industrial tribunal established in pursuance of regulations made under, or having effect as if made under Article 3 of the Industrial Tribunals (Northern Ireland) Order 1996.
+
+(3) In this Order, any reference to a tribunal includes, in relation to an award under the Order, any tribunal which under section 6 of the Fair Employment (Northern Ireland) Act 1989[^f00004] has the jurisdiction, and exercises the powers, of the tribunal.
+
+## 2. Interest on awards[^key-e4460977aadfb049ab1935c1c943b78f]
+
+(1) Where, at any time after 4th August 1997 a tribunal makes an award under the Order—
+
+- (a) it may, subject to and in accordance with this Order, include interest on any sums so awarded; and
+- (b) it shall consider whether to do so, without the need for any application by a party in the proceedings.
+
+(2) Nothing in paragraph (1) shall prevent the tribunal from making an award or decision, with regard to interest, in terms which have been agreed between the parties.
+
+## 3. Rate of interest[^key-b9db780e92eb66e85ed341f4a200dd8b]
+
+(1) Interest shall—
+
+- (a) subject to paragraph (2), be applied at the same rate as is in force, during the period for which it is to be calculated, in relation to decrees in the county court;
+- (b) be calculated as simple interest which accrues from day to day.
+
+(2) Where the rate of interest applied under paragraph (1)(*a*) has varied during a period for which interest is to be calculated, the tribunal may, if it so desires in the interests of simplicity, apply such median or average of those rates as seems to it appropriate.
+
+## 4. Calculation of interest[^key-09a8ec2b0f033472b0138e8f3c2befe7]
+
+(1) In this Article and Articles 5 and 6 in relation to an award under the Order—
+
+- “day of calculation” means the day on which the amount of interest included on the sums so awarded is calculated by the tribunal; and
+- “mid-point date” means the date half-way through the period mentioned in paragraph (2) or, where the number of days in that period is even, the first day of the second half of that period.
+
+(2) The period referred to in paragraph (1) is the period beginning on the date of the contravention or, as the case may be, of the act of discrimination to which the award in question relates and ending on the day of calculation (both dates inclusive).
+
+**5.**[^key-551e6e4e32d2fcc2da7f58771bc940f9] Interest shall not be included on any sum awarded under the Order in relation to a loss or matter occurring after the day of calculation or in respect of any time before the contravention or, as the case may be, the act of discrimination to which the award relates.
+
+**6.**[^key-8ef938504672f302fdc3b4e9c7a81a77] (1) Subject to paragraphs (2) and (3)—
+
+- (a) in the case of any sum awarded under the Order for injury to feelings, any interest included shall be for the period beginning on the date of the contravention or, as the case may be, the act of discrimination to which the award relates, and ending on the day of calculation (both dates inclusive);
+- (b) in the case of all other sums of damages or compensation (other than any sum referred to in Article 7), and all arrears of remuneration awarded under the Order, interest shall be for the period beginning on the mid-point date and ending on the day of calculation (both dates inclusive).
+
+(2) Where any payment has been made before the day of calculation to the complainant by or on behalf of the respondent in respect of any loss or matter to which an award under the Order relates, interest in respect of the corresponding part of the award shall be calculated as if the references in paragraph (1), and in the definition of “mid-point date” in Article 4, to the day of calculation were to the date on which the payment was made.
+
+(3) Where a tribunal is of the opinion that, in relation to any award under the Order there are circumstances, whether relating to the case as a whole or to a particular sum in an award, which have the effect that serious injustice would be caused if interest were to be awarded in respect of the period or periods in paragraph (1) or (2), it may—
+
+- (a) calculate interest, or as the case may be, interest on the particular sum for such different period; or
+- (b) calculate interest for such different periods in respect of various sums in the award,
+
+as it considers appropriate in the circumstances, having regard to the provisions of this Order.
+
+## 7. Decision in writing[^key-61f2a4f72c2a621a403c12cef7acf555]
+
+(1) A tribunal’s written statement of reasons for its decision to make an award under the Order shall contain a statement of the total amount of any interest included therein and, unless this amount has been agreed between the parties, either a table showing how it has been calculated or a description of the manner in which it has been calculated.
+
+(2) A tribunal’s written statement of reasons shall include reasons for any decision not to award interest made under Article 2.
+
+## 8. Interest for period after award[^key-03934f2379de1bc2dda67876beb351a3]
+
+In relation to an award under the Order (whether or not including interest under Article 2) for which the relevant decision day under the Industrial Tribunals (Interest) Order (Northern Ireland) 1990[^f00005] (“the 1990 Order”) falls at any time after 4th August 1997—
+
+- (a) the 1990 Order shall apply as if, in Article 3 thereof, references to the calculation day were references to the day immediately following the relevant decision day and accordingly, subject to sub-paragraph (*b*), interest shall accrue under the 1990 Order from that day onwards (including that day); but
+- (b) notwithstanding sub-paragraph (*a*), interest shall not be payable by virtue of the 1990 Order if payment of the full amount of the award (including interest thereon) is made within 14 days after the relevant decision day.
+
+Sealed with the Official Seal of the Department of Economic Development on
+
+G. I. O'Doherty
+
+Assistant Secretary
+
+30th June 1997.
+
+The Department of Finance and Personnel hereby approves Article 8 of the foregoing Order.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on
+
+J. G. Sullivan
+
+Assistant Secretary
+
+30th June 1997.
+
+(This note is not part of the Order.)
+
+This Order, which comes into operation on 4th August 1997, makes special provision in relation to interest on awards and compensation orders made by industrial tribunals under the Race Relations (Northern Ireland) Order 1997 (“the 1997 Order”).
+
+Article 2 enables an industrial tribunal which makes an award or order of compensation under the 1997 Order to include a sum by way of interest on the amount awarded. Article 3 provides that such interest is to be calculated as simple interest which accrues from day to day and specifies the rate of interest to be used. Articles 4 to 6 contain rules for the calculation of interest. There is also provision for the industrial tribunal to depart from these rules where it is of the opinion that serious injustice would be done if the rules were to be applied. Article 7 provides that written details must be given of the calculation of interest and that reasons must be given if no interest is awarded.
+
+Article 8 modifies the effect of the Industrial Tribunals (Interest) (Northern Ireland) Order 1990 (“the 1990 Order”) as it applies to an award or order of compensation made under the 1997 Order (including any interest awarded under Article 2). In relation to such an award, interest will begin to accrue from the day after the day on which the tribunal’s decision is sent to the parties (and not from a date 42 days later); however no interest will be payable under the 1990 Order if the full amount of the award is paid to the complainant within 14 days after the decision is sent out.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
+
+[^f00002]: Footnote: [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869)
+
+[^key-05fa735793d0136bc2a1a3ba9a44b3bc]: Commencement: Art. 1 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^f00003]: Footnote: [S.R. 1996 No. 173](https://www.legislation.gov.uk/nisr/1996/173) to which there are amendments not relevant to this Order
+
+[^f00004]: Footnote: [1989 c. 32](https://www.legislation.gov.uk/ukpga/1989/32)
+
+[^key-e4460977aadfb049ab1935c1c943b78f]: Commencement: Art. 2 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^key-b9db780e92eb66e85ed341f4a200dd8b]: Commencement: Art. 3 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^key-09a8ec2b0f033472b0138e8f3c2befe7]: Commencement: Art. 4 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^key-551e6e4e32d2fcc2da7f58771bc940f9]: Commencement: Art. 5 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^key-8ef938504672f302fdc3b4e9c7a81a77]: Commencement: Art. 6 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^key-61f2a4f72c2a621a403c12cef7acf555]: Commencement: Art. 7 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^key-03934f2379de1bc2dda67876beb351a3]: Commencement: Art. 8 in operation at 4.8.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/320/article/1/1)
+
+[^f00005]: Footnote: [S.R. 1990 No. 87](https://www.legislation.gov.uk/nisr/1990/87)

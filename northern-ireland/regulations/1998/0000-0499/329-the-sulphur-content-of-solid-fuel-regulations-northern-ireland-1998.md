@@ -1,0 +1,172 @@
+---
+title: The Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998
+id: nisr/1998/329
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1998-09-16'
+text_date: '2022-11-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/329
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/329/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998
+
+> Text as at 2022-11-18.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 329
+
+EUROPEAN COMMUNITIES
+
+CLEAN AIR
+
+The Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998
+
+Made
+
+16th September 1998
+
+Coming into operation
+
+15th October 1998
+
+The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the control of air pollution, in exercise of the powers conferred on it by that section, and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-1088b113b5fc395b1f2fa1dbc8a8a8a0]
+
+These Regulations may be cited as the Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998, and shall come into operation on 15th October 1998.
+
+## 2. Interpretation[^key-a9d29b92f823123534d9c49aba93fe37]
+
+(1) In these Regulations—
+
+- “authorised officer” means an officer authorised by a district council for the purposes of these Regulations;
+- “deliver” includes deposit with or consign to any person;
+- “the Department” means the Department of the Environment;
+- “private dwelling” has the same meaning as in Article 2(5) of the Clean Air (Northern Ireland) Order 1981[^f00003];
+- “relevant information” means any information held in whatever form dealing with the acquisition, sale or storage of solid fuel;
+- “sell” includes possess for the purpose of sale or offer or expose for sale;
+- “trade premises” means any place where solid fuel is held for sale or delivery, and includes any vehicle used for the delivery of such fuel.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 3. Sulphur content of solid fuel[^key-3be6654028ecea273dc91f9c44d9ac97]
+
+(1)[^key-0b5d2cd412628d52850a8afa87d2e652] Subject to paragraph (2), a person shall not sell by retail or deliver in the course of retail sale any solid fuel having a total sulphur content greater than 2 per cent. Determined on a dry basis in accordance with British Standard BS 1016-106.4.2 Methods for analysis and testing of coal and coke. Ultimate analysis of coal and coke. Determination of total sulfur content. High temperature combustion method .
+
+(2) Paragraph (1) shall not prohibit—
+
+- (a) the delivery of any such fuel to premises other than a private dwelling; or
+- (b) the possession of any such fuel for the purposes of—
+  - (i) its use in the manufacture of solid fuel; or
+  - (ii) its export from Northern Ireland.
+
+## 4. Exemption[^key-25d7e455af5a4bb602535a2c9776457e]
+
+Regulation 3 shall not apply to the sale or delivery of solid fuel held on trade premises on the date of commencement of these Regulations.
+
+## 5. Enforcement[^key-e4635a3576c1070ab72d9538a8e42ba0]
+
+These Regulations shall be enforced and executed by each district council within its district.
+
+## 6. Powers of entry[^key-8082c002b7d9bb6a5fe8a71603ef25cf]
+
+(1) An authorised officer may, for the purpose of determining whether an offence has been committed under these Regulations, at any reasonable time and on production, if so required, of his authority—
+
+- (a) enter any trade premises on which he has reasonable cause to believe that it is necessary for him to enter;
+- (b) inspect any solid fuel which has been sold or delivered to such premises;
+- (c) take a sample of such fuel from such premises;
+- (d) submit the sample referred to in sub-paragraph (*c*) for testing to a laboratory approved by the Department, for the purpose of determining its total sulphur content; and
+- (e) request and inspect any relevant information and, where any such information is kept by means of a computer—
+  - (i) have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the information; and
+  - (ii) require any person having charge of, or otherwise concerned with the operation of, the computer, associated apparatus, or material to afford him such assistance as he may reasonably require.
+
+(2) An authorised officer exercising any power conferred by paragraph (1)(*e*) may—
+
+- (a) seize and detain any records which he has reason to believe may be required as evidence in proceedings under any of the provisions of these Regulations; and
+- (b) where such records are kept by means of a computer, require them to be produced in a form in which they may be taken away.
+
+## 7. Obstruction[^key-763aae9021db44701ad86f6b62a6725a]
+
+(1) A person shall not—
+
+- (a) intentionally obstruct an authorised officer acting in the execution of these Regulations;
+- (b) without reasonable cause, fail to give an authorised officer acting in the execution of these Regulations any assistance or information which he may reasonably require for the performance of his functions under these Regulations; or
+- (c) furnish information which he knows to be false or misleading in a material particular.
+
+(2) Nothing in paragraph (1)(*b*) shall be construed as requiring a person to answer any question or give any information if to do so might incriminate him.
+
+## 8. Offences and penalties[^key-f082d12bb36a96b499b9064e86b13cbd]
+
+(1) Any person who contravenes—
+
+- (a) regulation 3(1) or permits another person to contravene that regulation; or
+- (b) regulation 7(1);
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) In proceedings for an offence under these Regulations it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by himself or by any person under his control.
+
+(3) Where the commission by any person of an offence under these Regulations is due to an act or default of some other person that other person shall be guilty of the offence and may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are brought against the first-mentioned person.
+
+Sealed with the Official Seal of the Department of the Environment on
+
+R. W. Rogers
+
+Assistant Secretary
+
+16th September 1998.
+
+(This note is not part of the Regulations.)
+
+These Regulations contribute towards the implementation, as respects Northern Ireland, of Council Directive [80/779/EEC](https://www.legislation.gov.uk/european/directive/1980/0779) on air quality limit values and guide values for sulphur dioxide and suspended particulates (“the Directive”).
+
+Regulation 3 prohibits the retail sale or delivery, with certain exceptions, of solid fuel with a sulphur content greater than 2 per cent. (dry basis). That regulation allows such fuel to be delivered to premises other than a private dwelling, and its possession for the purposes of manufacturing solid fuel or its export from Northern Ireland.
+
+Regulation 4 permits existing stocks of fuel held on trade premises on the commencement date of the Regulations to be sold or delivered, despite the prohibition in regulation 3.
+
+Regulation 5 places a duty on district councils to enforce the Regulations.
+
+Regulation 6 enables authorised officers to enter trade premises, to inspect and to take samples of solid fuel, and to submit any such samples for testing to an approved laboratory. Authorised officers are also empowered to inspect any relevant information and to seize and detain any records held on such premises.
+
+Regulation 7 prohibits the obstruction of an authorised officer or the furnishing of false or misleading information, while regulation 8 creates offences and provides that a person guilty of an offence is liable on summary conviction to a fine not exceeding level 5 on the standard scale (currently £5,000).
+
+Copies of the Directive may be obtained from the Stationery Office, 16 Arthur Street, Belfast BT1 4GD.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1988/785](https://www.legislation.gov.uk/uksi/1988/785)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-1088b113b5fc395b1f2fa1dbc8a8a8a0]: Commencement: Reg. 1 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^key-a9d29b92f823123534d9c49aba93fe37]: Commencement: Reg. 2 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^f00003]: Footnote: S.I. [1981/158 (N.I. 4)](https://www.legislation.gov.uk/nisi/1981/158)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-3be6654028ecea273dc91f9c44d9ac97]: Commencement: Reg. 3 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^key-0b5d2cd412628d52850a8afa87d2e652]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/329/regulation/3/1) substituted (18.11.2022) by [The Sulphur Content of Solid Fuel (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/275)](https://www.legislation.gov.uk/nisr/2022/275), [regs. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/275/regulation/2/2)
+
+[^key-25d7e455af5a4bb602535a2c9776457e]: Commencement: Reg. 4 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^key-e4635a3576c1070ab72d9538a8e42ba0]: Commencement: Reg. 5 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^key-8082c002b7d9bb6a5fe8a71603ef25cf]: Commencement: Reg. 6 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^key-763aae9021db44701ad86f6b62a6725a]: Commencement: Reg. 7 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+
+[^key-f082d12bb36a96b499b9064e86b13cbd]: Commencement: Reg. 8 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)

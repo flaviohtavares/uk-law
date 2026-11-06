@@ -1,0 +1,1669 @@
+---
+title: The Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015
+id: nisr/2015/94
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-02'
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/94
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/94/pdfs/nisrem_20150094_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/94/pdfs/nisr_20150094_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/94/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015
+
+> Text as at 2026-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 94
+
+Employment
+
+Work And Families
+
+The Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015
+
+Made
+
+2nd March 2015
+
+Coming into operation
+
+15th March 2015
+
+The Department for Employment and Learning makes the following Regulations in exercise of the powers conferred by sections 167ZU(1), (2), (3) and (4), 167ZV(1), (9), (10), (11) and (12), 167ZW(1), (2), (3) and (4), 167ZX(1), (8), (9), (10) and (11), 167ZY(1), 167ZZ(1), 167ZZ1(2) and (3), 167ZZ2(1), (3), (4) and (5), 167ZZ4(3), 167ZZ7(3), (4), (7) and (8) and 171(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22710381] and by section 5(1)(g), (j), (m) and (q) of the Social Security Administration (Northern Ireland) Act 1992 [^c22710391] and with the concurrence of the Commissioners for Her Majesty's Revenue and Customs in so far as such concurrence is required.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015 and come into operation on 15th March 2015.
+
+### 2. Definitions[^key-267cb11c96744ee16ef294ce7c178e9a][^key-44229b2a93d9e55078d5f14c88c3b798]
+
+(1) In these Regulations—
+
+- “**1992 Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “**A**” means a person with whom C is, or is expected to be, placed for adoption under the law of any part of the United Kingdom;
+- “**AP**” means a person who at the date C is placed for adoption is married to, or is the civil partner of, or is the partner of A;
+- “**C**” means the child in relation to whom entitlement to statutory shared parental pay arises;
+- “**M**” means the mother (or expectant mother) of C;
+- “**P**” means the father of C or a person who at the date of C's birth is married to, or is the civil partner of, or is the partner of M;
+- “**actual week of birth**”, in relation to a child, means the week beginning with midnight between Saturday and Sunday, in which the child was born;
+- “**adoption agency**” has the meaning given—
+  - (a) in relation to Northern Ireland, by Article 3(3) of the Adoption (Northern Ireland) Order 1987 [^c22710401];
+  - (b) in relation to England and Wales, by section 2 of the Adoption and Children Act 2002 [^c22710411]; and
+  - (c) in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007 [^c22710421];
+- “**child**”, in relation to A, means a person who is, or when placed with A for adoption was, under the age of 18;
+- “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
+- “**expected week of birth**”, in relation to a child, means the week, beginning with midnight between Saturday and Sunday, in which, as appropriate, it is expected that the child will be born, or was expected that the child would be born;
+- “**partner**”, in relation to M or A, means a person (whether of a different sex or the same sex) who lives with, as the case may be, M or A as well as C in an enduring family relationship but is not a relative of M or A of a kind specified in paragraph (2);
+- “**placed for adoption**” means—
+  - (a) placed for adoption by virtue of regulation 12 of the Adoption Agencies Regulations (Northern Ireland) 1989 [^c22710431];
+  - (b) placed by an authority with a person who is an approved foster parent who is also an approved prospective adopter [^c22710441] where the authority—
+    - (i) is considering adoption for the child; or
+    - (ii) is satisfied that adoption is in the best interests of the child,
+
+    and is considering whether that person would be a suitable adoptive parent for that child;
+  - (c) placed for adoption under the Adoption and Children Act 2002 or the Adoption and Children (Scotland) Act 2007; or
+  - (d) placed in accordance with section 22C of the Children Act 1989 [^c22710451] with a local authority foster parent who is also a prospective adopter;
+- “**processing**”, in relation to information, has the meaning given by section 1(1) of the Data Protection Act 1998 [^c22710461];
+- “**shared parental leave**” means leave under Article 107E or 107G of the Employment Rights (Northern Ireland) Order 1996 [^c22710471];
+- “**statutory shared parental pay**” means statutory shared parental pay payable in accordance with Part 12ZC of the 1992 Act [^c22710481];
+- “**statutory shared parental pay (adoption)**” means statutory shared parental pay payable where entitlement to that pay arises under regulation 17 or 18;
+- “**statutory shared parental pay (birth)**” means statutory shared parental pay payable where entitlement to that pay arises under regulation 4 or 5;
+- “week” in Parts 2, 3 and 5 means a period of seven days.
+
+(2) The relatives of M or A referred to in the definition of “partner” in paragraph (1) are M's, or, A's parent, grandparent, sister, brother, aunt, uncle, child, grandchild, niece or nephew.
+
+(3) References to relationships in paragraph (2)—
+
+- (a) are to relationships of the full-blood or half-blood or, in the case of an adopted person, such of those relationships as would exist but for the adoption; and
+- (b) include the relationship of a child with his adoptive, or former adoptive parents, but do not include any other adoptive relationship.
+
+(4) For the purpose of these Regulations—
+
+- (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child;
+- (b) in a case where sub-paragraph (a) applies, a person is notified as having been matched with a child on the date on which that person receives notification of the agency's decision, under regulation 11(2)(d) of the Adoption Agencies Regulations (Northern Ireland) 1989 [^c22710491], regulation 33(3)(a) of the Adoption Agencies Regulations 2005 [^c22710501], regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005 [^c22710511] or regulation 8(5) of the Adoption Agencies (Scotland) Regulations 2009 [^c22710521];
+- (c) a person is also matched with a child where each of the following conditions is met—
+  - (i) that person is an approved foster parent and an approved prospective adopter, and the child is, or is expected to be, placed by the authority with that person under Article 27(2)(a) of the Children (Northern Ireland) Order 1995 [^c22710531];
+  - (ii) the authority—
+    - (aa) is considering adoption for the child; or
+    - (bb) is satisfied that adoption is in the best interests of the child;
+  - (iii) the authority is considering whether that person would be a suitable adoptive parent for that child;
+- (d) in a case where sub-paragraph (c) applies, a person is notified as having been matched with a child on the date on which that person receives notification from the authority that the conditions in that sub-paragraph have been met;
+- (e) a person is also matched with a child for adoption when a decision has been made in accordance with regulation 22A of the Care Planning, Placement and Case Review (England) Regulations 2010 [^c22710541] and an adoption agency has identified that person with whom the child is to be placed in accordance with regulation 12B of the Adoption Agencies Regulations 2005 [^c22710551];
+- (f) in a case where sub-paragraph (e) applies, a person is notified as having been matched with a child on the date on which that person receives notification in accordance with regulation 12B(2)(a) of the Adoption Agencies Regulations 2005.
+
+(5) In paragraph (d) of the definition of “placed for adoption” in paragraph (1)—
+
+- “**local authority foster parent**” means a person approved as a local authority foster parent in accordance with regulations made by virtue of paragraph 12F of Schedule 2 to the Children Act 1989 [^c22710561];
+- “**prospective adopter**” means a person who has been approved as suitable to adopt a child and has been notified of that decision in accordance with regulation 30B(4) of the Adoption Agencies Regulations 2005 [^c22710571].
+
+### 3. Application[^key-7b111dcee64be1c17f986b55396e6fd4][^key-1f3b8b3b39b3a23c82a932c079b70151]
+
+These Regulations apply in relation to—
+
+- (a) statutory shared parental pay (birth) in respect of children whose expected week of birth begins on or after 5th April 2015;
+- (b) statutory shared parental pay (adoption) in respect of children placed for adoption on or after 5th April 2015.
+
+## PART 2 — ENTITLEMENT TO STATUTORY SHARED PARENTAL PAY (BIRTH)
+
+### 4. Entitlement of mother to statutory shared parental pay (birth)
+
+(1) M is entitled to statutory shared parental pay (birth) if M satisfies the conditions specified in paragraph (2) and if P satisfies the conditions specified in paragraph (3).
+
+(2) The conditions referred to in paragraph (1) are that—
+
+- (a) M satisfies the conditions as to continuity of employment and normal weekly earnings specified in regulation 30;
+- (b) M has at the date of C's birth the main responsibility for the care of C (apart from the responsibility of P);
+- (c) M has complied with the requirements specified in regulation 6 (notification and evidential requirements of M)**;**
+- (d) M became entitled by reference to the birth or expected birth of C to statutory maternity pay in respect of C;
+- (e) the maternity pay period that applies as a result of M's entitlement to statutory maternity pay is, and continues to be, reduced under section 161(3A) of the 1992 Act [^c22710581];
+- (f) it is M's intention to care for C during each week in respect of which statutory shared parental pay (birth) is paid to her;
+- (g) M is absent from work during each week in respect of which statutory shared parental pay (birth) is paid to her (except in the cases referred to in regulation 15 (entitlement to shared parental pay: absence from work)); and
+- (h) where M is an employee (within the meaning of the Employment Rights (Northern Ireland) Order 1996 [^c22710591]) M's absence from work as an employee during each week that statutory shared parental pay (birth) is paid to her is absence on shared parental leave in respect of C.
+
+(3) The conditions referred to in paragraph (1) are that—
+
+- (a) P has at the date of C's birth the main responsibility for the care of C (apart from the responsibility of M); and
+- (b) P satisfies the conditions relating to employment and earnings in regulation 29 (conditions as to employment and earnings of claimant's partner).
+
+### 5. Entitlement of father or partner to statutory shared parental pay (birth)
+
+(1) P is entitled to statutory shared parental pay (birth) if P satisfies the conditions specified in paragraph (2) and M satisfies the conditions specified in paragraph (3).
+
+(2) The conditions specified in paragraph (1) are that—
+
+- (a) P satisfies the conditions as to continuity of employment and normal weekly earnings specified in regulation 30;
+- (b) P has at the date of C's birth the main responsibility for the care of C (apart from the responsibility of M);
+- (c) P has complied with the requirements specified in regulation 7 (notification and evidential requirements of P);
+- (d) it is P's intention to care for C during each week in respect of which statutory shared parental pay (birth) is paid to P;
+- (e) P is absent from work during each week in respect of which statutory shared parental pay (birth) is paid to P (except in the cases referred to in regulation 15 (entitlement to statutory shared parental pay: absence from work)); and
+- (f) where P is an employee (within the meaning of the Employment Rights (Northern Ireland) Order 1996) P's absence from work as an employee during each week that statutory shared parental pay (birth) is paid to P is absence on shared parental leave in respect of C.
+
+(3) The conditions specified in paragraph (1) are—
+
+- (a) M has at the date of C's birth the main responsibility for the care of C (apart from the responsibility of P);
+- (b) M meets the conditions as to employment and earnings in regulation 29 (conditions as to employment and earnings of claimant's partner);
+- (c) M became entitled by reference to the birth, or expected birth, of C to statutory maternity pay or maternity allowance; and
+- (d) the maternity pay period or the maternity allowance period which applies to M as a result of her entitlement to statutory maternity pay or maternity allowance is, and continues to be, reduced under sections 35(3A) or 161(3A) of the 1992 Act [^c22710601].
+
+### 6. Notification and evidential requirements relating to the mother
+
+(1) The notice and evidential requirements referred to in regulation 4(2)(c) are that M gives the employer [^c22710611] who will be liable to pay statutory shared parental pay (birth) to M the notice and information specified in—
+
+- (a) paragraphs (2) and (3)(a), (b), (d) and (e) at least 8 weeks before the beginning of the first period specified by M pursuant to paragraph (2)(d);
+- (b) paragraph (3)(c) at least 8 weeks before the beginning of the first period specified by M pursuant to paragraph (2)(d) or, where C is not born by that time, as soon as reasonably practicable after the birth of C but in any event before the beginning of that first period; and
+- (c) paragraph (4) within 14 days of that employer requesting that information where the employer requests it within 14 days of receiving the notice and information specified in paragraph (2) and (3)(a), (b), (d) and (e).
+
+(2) The notice specified in this paragraph is notice of—
+
+- (a) the number of weeks in respect of which M would be entitled to claim statutory shared parental pay (birth) in respect of C if entitlement were fully exercised disregarding any intention of P to claim statutory shared parental pay in respect of C;
+- (b) the number of weeks out of those specified under sub-paragraph (a) in respect of which M intends to claim statutory shared parental pay (birth) in respect of C;
+- (c) the number of weeks out of those specified under sub-paragraph (a) in respect of which P intends to claim statutory shared parental pay (birth) in respect of C;
+- (d) the period or periods during which M intends to claim statutory shared parental pay (birth) in respect of C.
+
+(3) The information specified in this paragraph is—
+
+- (a) a written declaration signed by P who in connection with M's claim is required to satisfy the conditions specified in regulation 4(3)—
+  - (i) that P consents to M's intended claim for statutory shared parental pay;
+  - (ii) that P meets, or will meet, the conditions in regulation 4(3) (conditions to be satisfied by P);
+  - (iii) specifying P's name, address and national insurance number or, if P has no national insurance number, stating that P has no such number; and
+  - (iv) providing P's consent as regards the processing by the employer who will be liable to pay statutory shared parental pay (birth) to M of the information in the written declaration;
+- (b) C's expected week of birth;
+- (c) C's date of birth;
+- (d) M's name;
+- (e) a written declaration signed by M—
+  - (i) that the information given by M under paragraphs (2) and (3) is correct;
+  - (ii) that M meets, or will meet, the conditions in regulation 4(2);
+  - (iii) that M will immediately inform the person who will be liable to pay statutory shared parental pay (birth) if M ceases to meet the condition in regulation 4(2)(e); and
+  - (iv) specifying the date on which M's maternity pay period or maternity allowance period in respect of C began and the number of weeks by which it is, or will be, reduced.
+
+(4) The information specified in this paragraph is—
+
+- (a) a copy of C's birth certificate or, if one has not been issued, a declaration signed by M which states that it has not been issued; and
+- (b) the name and address of P's employer or, if P has no employer, a written declaration signed by M that P has no employer.
+
+### 7. Notification and evidential requirements relating to the father or partner
+
+(1) The notification and evidential requirements referred to in regulation 5(2)(c) are that P gives the employer who will be liable to pay statutory shared parental pay (birth) to P the notice and information specified in—
+
+- (a) paragraphs (2) and (3)(a), (b), (d) and (e) at least 8 weeks before the beginning of the first period specified by P pursuant to paragraph (2)(d);
+- (b) paragraph (3)(c) at least 8 weeks before the beginning of the first period specified by P pursuant to paragraph (2)(d) or, where C is not born by that time, as soon as reasonably practicable after the birth of C but in any event before the beginning of that first period; and
+- (c) paragraph (4) within 14 days of that employer requesting that information where the employer requests it within 14 days of receiving all the notices and information specified in paragraphs (2) and (3)(a), (b), (d) and (e).
+
+(2) The notice specified in this paragraph is notice of—
+
+- (a) the number of weeks in respect of which P would be entitled to claim statutory shared parental pay (birth) in respect of C if entitlement were fully exercised disregarding any intention of M to claim statutory shared parental pay in respect of C;
+- (b) the number of weeks out of those specified under sub-paragraph (a) in respect of which P intends to claim statutory shared parental pay (birth) in respect of C;
+- (c) the number of weeks out of those specified under sub-paragraph (a) in respect of which M intends to claim statutory shared parental pay (birth) in respect of C;
+- (d) the period or periods during which P intends to claim statutory shared parental pay (birth) in respect of C.
+
+(3) The information specified in this paragraph is—
+
+- (a) a written declaration signed by M who in connection with P's claim is required to satisfy the conditions specified in regulation 5(3)—
+  - (i) that M consents to P's intended claim for statutory shared parental pay;
+  - (ii) that M meets, or will meet, the conditions in regulation 5(3) (conditions to be satisfied by M);
+  - (iii) that M will immediately inform P if M ceases to meet the condition in regulation 5(3)(d);
+  - (iv) specifying M's name, address and national insurance number or, if M has no national insurance number, stating that M has no such number;
+  - (v) specifying the date on which M's maternity pay period or maternity allowance period in respect of C began and the number of weeks by which it is, or will be, reduced; and
+  - (vi) providing M's consent as regards the processing by the person who is, or will be, liable to pay statutory shared parental pay (birth) to P under section 167ZZ1(1) of the 1992 Act of the information in the written declaration;
+- (b) C's expected week of birth;
+- (c) C's date of birth;
+- (d) P's name;
+- (e) a written declaration signed by P—
+  - (i) that the information given by P is correct;
+  - (ii) that P meets, or will meet, the conditions in regulation 5(2); and
+  - (iii) that P will immediately inform the person who will be liable to pay statutory shared parental pay (birth) if M ceases to meet the condition in regulation 5(3)(d).
+
+(4) The information specified in this paragraph is—
+
+- (a) a copy of C's birth certificate or, if one has not been issued, a declaration signed by P which states that it has not been issued; and
+- (b) the name and address of M's employer or, if M has no employer a written declaration signed by P that M has no employer.
+
+### 8. Variation of number of weeks of pay to be claimed and of periods when pay is to be claimed
+
+(1) M or, as the case may be, P may vary the period or periods during which they intend to claim statutory shared parental pay (birth) by notice in writing given to the employer who will be liable to pay that pay to M or P at least 8 weeks before the beginning of the first period specified in that notice.
+
+(2) M may vary the number of weeks in respect of which M intends to claim statutory shared parental pay (birth) by notice in writing given to the employer who will be liable to pay statutory shared parental pay (birth) to M—
+
+- (a) of the number of weeks during which M and P have exercised, or intend to exercise, an entitlement to statutory shared parental pay (birth) in respect of C; and
+- (b) which is accompanied by a written declaration signed by P who in connection with M's claim is required to satisfy the conditions specified in regulation 4(3) that P consents to that variation.
+
+(3) P may vary the number of weeks in respect of which P intends to claim statutory shared parental pay (birth) by notice in writing given to the employer who will be liable to pay statutory shared parental pay (birth) to P—
+
+- (a) of the number of weeks during which P and M have exercised, or intend to exercise, an entitlement to statutory shared parental pay (birth) in respect of C; and
+- (b) which is accompanied by a written declaration by M who in connection with P's claim is required to satisfy the conditions specified in regulation 5(3) that M consents to that variation.
+
+### 9. Modification of notice conditions in case of early birth
+
+(1) This paragraph applies where—
+
+- (a) one or more of the periods specified in a notice given under regulation 6, 7 or 8 during which M or, as the case may be, P intends to claim statutory shared parental pay (birth) start in the 8 weeks following the first day of C's expected week of birth;
+- (b) C's date of birth is before the first day of the expected week of birth; and
+- (c) M or, as the case may be, P varies by notice under regulation 8(1) the period or periods referred to in sub-paragraph (a) so that that period or those periods start the same length of time following C's date of birth as that period or those periods would have started after the first day of the expected week of birth.
+
+(2) Where paragraph (1) applies the requirement in regulation 8(1) to give notice at least 8 weeks before the first period specified in the notice is satisfied if such notice is given as soon as reasonably practicable after C's date of birth.
+
+(3) This paragraph applies where—
+
+- (a) C is born more than 8 weeks before the first day of the expected week of birth; and
+- (b) M or, as the case may be, P has not given the notice and information under regulations 6 or 7 before the date of C's birth.
+
+(4) Where paragraph (3) applies and M, or as the case may be, P specifies in a notice under regulation 6 or 7 a period or periods of statutory shared parental pay (birth) which start in the 8 weeks following C's date of birth, then the following modifications apply—
+
+- (a) in regulation 6—
+  - (i) paragraph (1)(a) shall apply as if it read—
+
+    > - (a) paragraphs (2) and (3) as soon as reasonably practicable after the date of C's birth but in any event before the first period specified by M pursuant to paragraph (2)(d);
+
+    ;
+  - (ii) paragraph (1)(b) and (c) shall not apply;
+  - (iii) paragraph (4) shall not apply.
+- (b) in regulation 7—
+  - (i) paragraph (1)(a) shall apply as if it read—
+
+    > - (a) paragraphs (2) and (3) as soon as reasonably practicable after the date of C's birth but in any event before the first period specified by P pursuant to paragraph (2)(d);
+
+    ;
+  - (ii) paragraph (1)(b) and (c) shall not apply;
+  - (iii) paragraph (4) shall not apply.
+
+### 10. Extent of entitlement to statutory shared parental pay (birth)
+
+(1) The number of weeks in respect of which M or P is entitled to payments of statutory shared parental pay (birth) in respect of C is 39 weeks less—
+
+- (a) the number of weeks—
+  - (i) in respect of which maternity allowance or statutory maternity pay is payable to M in respect of C up to the time M has returned to work (where M has returned to work without satisfying the condition in regulations 4(2)(e) or 5(3)(d) (condition as to reduction of the maternity pay period or the maternity allowance period)); or
+  - (ii) in any other case, to which the maternity allowance period is reduced by virtue of section 35(3A) of the 1992 Act or, as the case may be, the maternity pay period is reduced by virtue of section 161(3A); and
+- (b) the number of weeks of statutory shared parental pay in respect of C which—
+  - (i) in the case of M, P has notified P's intention to claim under regulation 7 or 8; or
+  - (ii) in the case of P, M has notified M's intention to claim under regulation 6 or 8.
+
+(2) In a case where—
+
+- (a) P was entitled to payments of statutory shared parental pay (birth) in respect of C; and
+- (b) P ceases to be so entitled because M ceases to satisfy the condition in regulation 5(3)(d); and
+- (c) P becomes entitled again to such payments as a result of M satisfying the condition in regulation 5(3)(d),
+
+the number of weeks in which P claimed statutory shared parental pay (birth) up to the time P ceases to be so entitled is also to be deducted from the number of weeks specified in paragraph (1).
+
+(3) Where paragraph (2) applies the number of weeks of statutory shared parental pay (birth) which P notified P's intention to claim under regulation 7(2)(b) (as varied under regulation 8(3)) before P ceases to be entitled to statutory shared parental pay (birth) is to be disregarded for the purposes of this regulation.
+
+(4) In the case where M has more than one entitlement to statutory maternity pay in respect of C and in relation to all those entitlements she returns to work without satisfying the conditions in regulation 4(2)(e) or 5(3)(d), paragraph (1)(a)(i) shall apply as though it read—
+
+> - (i) in respect of which statutory maternity pay is payable to M in respect of C up to the last day M returns to work;
+
+.
+
+(5) In the case where M has more than one entitlement to statutory maternity pay in respect of C and the maternity pay periods which apply as a result of those entitlements are all reduced by virtue of section 161(3A) of the 1992 Act before she returns to work, paragraph (1)(a)(ii) shall apply as though it read—
+
+> - (ii) falling in the period beginning with the first day of the maternity pay period which is the earliest to begin and ending on the last day of the maternity pay period which is the last to end;
+
+.
+
+(6) In the case where M has more than one entitlement to statutory maternity pay in respect of C and—
+
+- (a) M returns to work in relation to one or more of those entitlements without satisfying the condition regulation 4(2)(e) or 5(3)(d), and
+- (b) in relation to one or more of the maternity pay periods which apply as a result of those entitlements that period or those periods are reduced by virtue of section 161(3A) of the 1992 Act before M returns to work,
+
+paragraph (1)(a) shall apply as though it read—
+
+> - (a) the number of weeks falling within the period beginning with the first day of the maternity pay period which is the earliest to begin and ending with the later of—
+>   - (i) the last day of the maternity pay period which is reduced by virtue of section 161(3A) of the 1992 Act before M returns to work (or, where there is more than one such period, the last of those periods); and
+>   - (ii) the day on which M returned to work without satisfying the condition in regulation 4(2)(e) or 5(3)(d) in relation to that period (or, where there is more than one such period, the last of those periods);
+
+.
+
+(7) In a case where P has more than one entitlement to statutory shared parental pay in respect of C, paragraph (1)(b)(i) shall apply as though it read—
+
+> - (i) in the case of M, P has notified P's intention to claim under regulation 7 or 8 falling within the period beginning with the first day of the earliest period so notified and ending with the last day of the latest period so notified;
+
+.
+
+(8) In a case where M has more than one entitlement to statutory shared parental pay in respect of C, paragraph (1)(b)(ii) shall apply as though it read—
+
+> - (ii) in the case of P, M has notified M's intention to claim under regulations 6 or 8 falling within the period beginning with the first day of the earliest period so notified and ending with the last day of the latest period so notified;
+
+.
+
+(9) In a case where P has more than one entitlement to statutory shared parental pay in respect of C, paragraph (2) shall apply as though the number of weeks referred to were the number of weeks which P claimed statutory shared parental pay in respect of C falling within the period beginning with the first day of the earliest period P claimed statutory shared parental pay and ending with the time P ceases to be so entitled.
+
+(10) In this regulation a person is treated as returning to work if one of the following situations apply—
+
+- (a) in a case where the person is entitled to maternity allowance, the allowance is not payable to her by virtue of regulations made under section 35(3)(a)(i) of the 1992 Act [^c22710621];
+- (b) in a case where the person is entitled to statutory maternity pay, that payment is not payable to her in accordance with section 161(4) or (6) of the 1992 Act [^c22710631].
+
+(11) In determining in paragraph (1)(a)(i) the number of weeks in respect of which maternity allowance is payable to M in respect of C up to the time M has returned to work, part of a week in respect of which maternity allowance is payable is to be treated as a whole week.
+
+(12) In paragraph (1)(a)(ii), (6), (7), (8) and (9) part of a week is to be treated as a whole week.
+
+(13) In paragraph (1)(a) “**week**” has the meaning given by section 121(1) of the 1992 Act, in relation to maternity allowance, or the meaning given by section 161(8) of that Act in relation to statutory maternity pay.
+
+### 11. When statutory shared parental pay (birth) is not to be paid
+
+(1) Statutory shared parental pay (birth) is not payable after the day before C's first birthday (or where more than one child is born as a result of the same pregnancy the first birthday of the first child so born).
+
+(2) Statutory shared parental pay (birth) is not payable to M before the end of M's maternity pay period.
+
+### 12. Work during period of payment of statutory shared parental pay (birth)
+
+(1) Despite section 167ZZ2(4) of the 1992 Act (statutory shared parental pay not payable to a person in respect of a week during any part of which the person works for any employer) statutory shared parental pay (birth) is payable to M or, as the case may be, P—
+
+- (a) in respect of a statutory pay week during any part of which M or, as the case may be, P works only for an employer—
+  - (i) who is not liable to pay that person statutory shared parental pay; and
+  - (ii) for whom that person worked in the week immediately preceding the 14th week before the expected week of birth; or
+- (b) where M or, as the case may be, P does any work on any day under a contract of service with an employer during a statutory pay week during which that employer is liable to pay that person statutory shared parental pay (birth) in respect of C and where that day and any previous days so worked do not exceed 20.
+
+(2) Where statutory shared parental pay (birth) is paid to M or P in respect of any week falling within a period specified in a notice under regulation 6, 7 and 8 during which M or P works for an employer falling within paragraph (1)(a)(i) but not paragraph (1)(a)(ii), M or, as the case may be, P shall notify the employer liable to pay statutory shared parental pay (birth) within seven days of the first day during which the former does such work.
+
+(3) The notification mentioned in paragraph (2) shall be in writing, if the employer who has been liable to pay statutory shared parental pay (birth) so requests.
+
+(4) In this regulation “**statutory pay week**” means a week in respect of which that person has chosen to exercise an entitlement to statutory shared parental pay (birth).
+
+### 13. Care of child during period of payment of statutory shared parental pay
+
+Despite section 167ZZ2(3) of the 1992 Act (statutory shared parental pay not payable to a person in respect of a week if it is not the person's intention at the beginning of the week to care for C) statutory shared parental pay (birth) is payable in the cases referred to in paragraph 6 of the Schedule (death of child).
+
+### 14. Other cases where there is no liability to pay statutory shared parental pay
+
+(1) There is no liability to pay statutory shared parental pay (birth) to M or, as the case may be, P in respect of any week—
+
+- (a) during any part of which the person who is entitled to that pay is entitled to statutory sick pay under Part 11 of the 1992 Act;
+- (b) following that in which the person who is claiming that pay has died; or
+- (c) during any part of which the person who is entitled to that pay is detained in legal custody or sentenced to a term of imprisonment except where the sentence is suspended (but see paragraph (2)).
+
+(2) There is liability to pay statutory shared parental pay (birth) to M or, as the case may be, P in respect of any week during any part of which the person who is entitled to that pay is detained in legal custody where that person—
+
+- (a) is released subsequently without charge;
+- (b) is subsequently found not guilty of any offence and is released; or
+- (c) is convicted of an offence but does not receive a custodial sentence.
+
+### 15. Conditions of entitlement to statutory shared parental pay: absence from work
+
+(1) The condition in regulation 4(2)(g) and 5(2)(e) does not apply where M or, as the case may be, P—
+
+- (a) during any part of a statutory pay week works other than for an employer;
+- (b) during any part of a statutory pay week works only for an employer who falls within paragraph (1)(a) of regulation 12 (work during period of payment of statutory shared parental pay);
+- (c) works in circumstance where paragraph (1)(b) of regulation 12 applies.
+
+(2) In this regulation “**statutory pay week**” means a week in respect of which that person has chosen to exercise an entitlement to statutory shared parental pay (birth).
+
+### 16. Entitlement to statutory shared parental pay (birth) in cases relating to death
+
+Part 1 of the Schedule (statutory shared parental pay in special circumstances) has effect.
+
+## PART 3 — ENTITLEMENT TO STATUTORY SHARED PARENTAL PAY (ADOPTION)
+
+### 17. Entitlement of adopter to statutory shared parental pay (adoption)[^key-beed59431b5d3c0d86c901c39e2ba530][^key-a609198a1366816664bd3884b8064d16]
+
+(1) A is entitled to statutory shared parental pay (adoption) if A satisfies the conditions specified in paragraph (2) and AP satisfies the conditions specified in paragraph (3).
+
+(2) The conditions referred to in paragraph (1) are that—
+
+- (a) A satisfies the conditions as to continuity of employment and normal weekly earnings specified in regulation 31 (conditions as to claimant's continuity of employment and normal weekly earnings);
+- (b) A has at the date of C's placement for adoption the main responsibility for the care of C (apart from the responsibility of AP);
+- (c) A has complied with the requirements specified in regulation 19 (notification and evidential requirements);
+- (d) A became entitled to statutory adoption pay by reference to the placement for adoption of C;
+- (e) the adoption pay period that applies as a result of A's entitlement to statutory adoption pay is, and continues to be, reduced under section 167ZN(2A) of the 1992 Act [^c22710641];
+- (f) it is A's intention to care for C during each week in respect of which statutory shared parental pay (adoption) is paid to A;
+- (g) A is absent from work during each week in respect of which statutory shared parental pay is paid to A (except in the cases referred to in regulation 27 (entitlement to statutory shared parental pay (adoption): absence from work); and
+- (h) where A is an employee (within the meaning of the Employment Rights (Northern Ireland) Order 1996) A's absence from work as an employee during each week that statutory shared parental pay is paid to A is absence on shared parental leave in respect of C.
+
+(3) The conditions referred to in paragraph (1) are that—
+
+- (a) AP has at the date of C's placement for adoption the main responsibility for the care of C (apart from the responsibility of A); and
+- (b) AP satisfies the employment and earnings conditions in regulation 29 (conditions relating to employment and earnings of claimant's partner).
+
+### 18. Entitlement of partner to statutory shared parental pay (adoption)[^key-3ab7cb8360a0aec80d943112874c329f][^key-3738d15ba5b319d8d3d89fee92cfc75f]
+
+(1) AP is entitled to statutory shared parental pay (adoption) if AP satisfies the conditions specified in paragraph (2) and A satisfies the conditions specified in paragraph (3).
+
+(2) The conditions specified in paragraph (1) are that—
+
+- (a) AP satisfies the conditions as to continuity of employment and normal weekly earnings specified in regulation 31 (conditions as to continuity of employment and normal weekly earnings);
+- (b) AP has at the date of C's placement for adoption the main responsibility for the care of C (apart from the responsibility of A);
+- (c) AP has complied with the requirements specified in regulation 20 (notification and evidential requirements);
+- (d) it is AP's intention to care for C during each week in respect of which statutory shared parental pay (adoption) is paid to AP;
+- (e) AP is absent from work during each week in respect of which statutory shared parental pay (adoption) is paid to AP (except in the cases referred to in regulation 27 (entitlement to statutory shared parental pay: absence from work)); and
+- (f) where AP is an employee (within the meaning of the Employment Rights (Northern Ireland) Order 1996) AP's absence from work as an employee during each week that statutory shared parental pay is paid to AP is absence on shared parental leave in respect of C.
+
+(3) The conditions specified in paragraph (1) are that—
+
+- (a) A has at the date of C's placement for adoption the main responsibility for the care of C (apart from any responsibility of AP);
+- (b) A satisfies the employment and earnings conditions in regulation 29;
+- (c) A became entitled to statutory adoption pay by reference to the placement for adoption of C; and
+- (d) the adoption pay period that applies as a result A's entitlement to statutory adoption pay is, and continues to be, reduced under section 167ZN(2A) of the 1992 Act.
+
+### 19. Notification and evidential requirements relating to the adopter[^key-8af3212f5071305bd35511b4a52a770e][^key-481233fd80bded62364528502d874c47]
+
+(1) The notification and evidential requirements referred to in regulation 17(2)(c) are that A gives the employer who will be liable to pay statutory shared parental pay (adoption) to A the notice and information specified in—
+
+- (a) paragraphs (2) and (3)(a), (b), (d) and (e) at least 8 weeks before the beginning of the first period specified by A pursuant to paragraph (2)(d);
+- (b) paragraph (3)(c) at least 8 weeks before the beginning of the first period specified by A pursuant to paragraph (2)(d) or, if C is not placed for adoption by that time, as soon as reasonably practicable after the placement of C but in any event before the beginning of that first period; and
+- (c) paragraph (4) within 14 days of that employer requesting that information where the employer requests it within 14 days of receiving the notice and information specified in paragraph (2) and (3)(a), (b), (d) and (e).
+
+(2) The notice specified in this paragraph is notice of—
+
+- (a) the number of weeks in respect of which A would be entitled to claim statutory shared parental pay (adoption) in respect of C if entitlement were fully exercised disregarding any intention of AP to claim statutory shared parental pay (adoption) in respect of C;
+- (b) the number of weeks (out of those specified under sub-paragraph (a)) in respect of which A intends to claim statutory shared parental pay (adoption) in respect of C;
+- (c) the number of weeks (out of those specified under sub-paragraph (a)) in respect of which AP intends to claim statutory shared parental pay (adoption) in respect of C; and
+- (d) the period or periods during which A intends to claim statutory shared parental pay (adoption) in respect of C.
+
+(3) The information specified in this paragraph is—
+
+- (a) a written declaration signed by AP who in connection with A's claim is required to satisfy the conditions specified in regulation 17(3)—
+  - (i) that AP consents to A's intended claim for statutory shared parental pay;
+  - (ii) that AP meets or will meet the conditions in regulation 17(3) (conditions to be satisfied by AP);
+  - (iii) specifying AP's name, address and national insurance number or, if AP has no national insurance number, stating that AP has no such number; and
+  - (iv) providing AP's consent as regards the processing by the employer who will be liable to pay statutory shared parental pay (adoption) to A of the information in the written declaration;
+- (b) the date on which A was notified that A had been matched with C;
+- (c) the date of C's placement for adoption;
+- (d) A's name; and
+- (e) a written declaration signed by A—
+  - (i) that the information given by A under paragraph (2) and (3) is correct;
+  - (ii) that A meets or will meet the conditions in regulation 17(2); and
+  - (iii) that A will immediately inform the person who will be liable to pay statutory shared parental pay (adoption) if A ceases to meet the condition in regulation 17(2)(e); and
+  - (iv) specifying the date on which A's adoption pay period in respect of C began and the number of weeks by which it is, or will be, reduced.
+
+(4) The information specified in this paragraph is—
+
+- (a) evidence, in the form of one or more documents issued by the adoption agency that matched A with C, of—
+  - (i) the name and address of the adoption agency;
+  - (ii) the date on which A was notified that A had been matched with C; and
+  - (iii) the date on which the adoption agency was expecting to place C with A; and
+- (b) the name and address of AP's employer or, if AP has no employer, a written declaration signed by A that AP has no employer.
+
+### 20. Notification and evidential requirements relating to the partner[^key-f701925a826084fb0490e3e5d1debe7e][^key-95a44c13211b5c7f1ffb69d9cb661b95]
+
+(1) The notification and evidential conditions referred to in regulation 18(2)(c) are that AP gives the employer who will be liable to pay statutory shared parental pay (adoption) to AP the notice and information specified in—
+
+- (a) paragraphs (2) and (3)(a), (b), (d) and (e) at least 8 weeks before the beginning of the first period specified by AP pursuant to paragraph (2)(d);
+- (b) paragraph (3)(c) at least 8 weeks before the beginning of the first period specified by AP pursuant to paragraph (2)(d) or, if C is not placed for adoption by that time, as soon as reasonably practicable after the placement of C but in any event before that first period; and
+- (c) paragraph (4) (where applicable) within 14 days of that employer requesting this information where the employer requests it within 14 days of receiving all the notice and information specified in paragraph (2) and (3)(a), (b), (d), and (e).
+
+(2) The notice specified in this paragraph is notice of—
+
+- (a) the number of weeks in respect of which AP would be entitled to claim statutory shared parental pay (adoption) in respect of C if entitlement were fully exercised disregarding any intention of A to claim statutory shared parental pay (adoption) in respect of C;
+- (b) the number of weeks (out of those specified under sub-paragraph (a)) in respect of which AP intends to claim statutory shared parental pay (adoption) in respect of C;
+- (c) the number of weeks (out of those specified under sub-paragraph (a)) in respect of which A intends to claim statutory shared parental pay (adoption) in respect of C;
+- (d) the period or periods during which AP intends to claim statutory shared parental pay (adoption) in respect of C.
+
+(3) The information specified in this paragraph is—
+
+- (a) a written declaration signed by A who in connection with AP's claim is required to satisfy the conditions in regulation 18(3)—
+  - (i) that A consents to AP's intended claim for statutory shared parental pay (adoption);
+  - (ii) that A meets, or will meet, the conditions in regulation 18(3) (conditions to be satisfied by A);
+  - (iii) that A will immediately inform AP if A ceases to meet the conditions in regulation 18(3)(d);
+  - (iv) specifying A's name, address and national insurance number or, if A has no national insurance number, stating that A has no such number;
+  - (v) specifying the date on which A's adoption pay period in respect of C began and the number of weeks by which it is, or will be, reduced; and
+  - (vi) providing A's consent as regards the processing by the employer who is, or will be, liable to pay statutory shared parental pay (adoption) to AP of the information in the written declaration;
+- (b) the date on which A was notified that A had been matched with C;
+- (c) the date of C's placement for adoption;
+- (d) AP's name;
+- (e) a written declaration signed by AP—
+  - (i) that the information given by AP is correct;
+  - (ii) that AP meets, or will meet, the conditions in regulation 18(2); and
+  - (iii) that AP will immediately inform the person who will be liable to pay statutory shared parental pay (adoption) if A ceases to meet the condition in regulation 18(3)(d).
+
+(4) The information specified in this paragraph is—
+
+- (a) evidence, in the form of one or more documents issued by the adoption agency that matched A with C, of —
+  - (i) the name and address of the adoption agency;
+  - (ii) the date on which A was notified that A had been matched with C; and
+  - (iii) the date on which the adoption agency was expecting to place C for adoption with A; and
+- (b) the name and address of A's employer or, if A has no employer, a written declaration signed by AP that A has no employer.
+
+### 21. Variation of number of weeks of pay to be claimed and of periods when pay is to be claimed[^key-5e4a54d850450f3d0ba21fbdaf6e5c96]
+
+(1) A or, as the case may be, AP may vary the period or periods during which they intend to claim statutory shared parental pay (adoption) by notice in writing given to the employer who will be liable to pay that pay to A or AP at least 8 weeks before the beginning of the first period specified in that notice.
+
+(2) A may vary the number of weeks in respect of which A intends to claim statutory shared parental pay (adoption) by notice in writing given to the employer who will be liable to pay that pay to A—
+
+- (a) of the number of weeks during which A and AP have exercised, or intend to exercise, an entitlement to statutory shared parental pay in respect of C; and
+- (b) which contains a written declaration signed by AP who in connection with A's claim is required to satisfy the conditions in regulation 17(3) that AP consents to that variation.
+
+(3) AP may vary the number of weeks in respect of which AP intends to claim statutory shared parental pay (adoption) by notice in writing given to the employer who will be liable to pay that pay to AP—
+
+- (a) of the number of weeks during which AP and A have exercised, or intend to exercise, an entitlement to statutory shared parental pay (adoption) in respect of C; and
+- (b) which is accompanied by a written declaration by A who in connection with AP's claim is required to satisfy the conditions in regulation 18(3) that A consents to that variation.
+
+### 22. Extent of entitlement to statutory shared parental pay (adoption)
+
+(1) The number of weeks in respect of which A or, as the case may be, AP is entitled to payments of statutory shared parental pay (adoption) in respect of C is 39 weeks less—
+
+- (a) the number of weeks—
+  - (i) in respect of which statutory adoption pay is payable to A in respect of C up to the time that person has returned to work (where that person has returned to work without satisfying the conditions in regulations 17(2)(e) or 18(3)(d)) (condition as to reduction in adoption pay period); or
+  - (ii) in any other case, to which the adoption pay period is reduced by virtue of section 167ZN(2A) of the 1992 Act; and
+- (b) the number of weeks of statutory shared parental pay (adoption) in respect of C which—
+  - (i) in the case of A, AP has notified AP's intention to claim under regulation 20 or 21; or
+  - (ii) in the case of AP, A has notified A's intention to claim under regulation 19 or 21.
+
+(2) In the case where A has more than one entitlement to statutory adoption pay in respect of C and in relation to all those entitlements A returns to work without satisfying the conditions in regulation 17(2)(e) or 18(3)(d), paragraph (1)(a)(i) shall apply as though it read—
+
+> - (i) in respect of which statutory adoption pay is payable to A in respect of C up to the last day A returns to work;
+
+.
+
+(3) In the case where A has more than one entitlement to statutory adoption pay in respect of C and the adoption pay periods which apply as a result of those entitlements are all reduced by virtue of section 167ZN(2A) of the 1992 Act before A returns to work, paragraph (1)(a)(ii) shall apply as though it read—
+
+> - (ii) falling in the period beginning with the first day of the adoption pay period which is the earliest to begin and ending with the last day of the adoption pay period which is the last to end;
+
+.
+
+(4) In a case where A has more than one entitlement to statutory adoption pay in respect of C and—
+
+- (a) A returns to work in relation to one or more of those entitlements without satisfying the conditions in regulation 17(2)(e) or 18(3)(d), and
+- (b) in relation to one or more of the adoption pay periods which apply as a result of those entitlements that period or those periods are reduced by virtue of section 167ZN(2A) of the 1992 Act before A returns to work,
+
+paragraph (1)(a) shall apply as though it read—
+
+> - (a) the number of weeks falling within the period beginning with the first day of the adoption pay period which is the earliest to begin and ending with the later of—
+>   - (i) the last day of the adoption pay period which is reduced by virtue of section 167ZN(2A) of the 1992 Act before A returns to work (or, where there is more than one such period, the last of those periods); and
+>   - (ii) the day on which A returned to work without satisfying the conditions in regulation 17(2)(e) or 18(3)(d) in relation to that period (or, where there is more than one such period, the last of those periods);
+
+.
+
+(5) In the case where AP has more than one entitlement to statutory shared parental pay in respect of C, paragraph (1)(b)(i) shall apply as though it read—
+
+> - (i) in the case of A, AP has notified AP's intention to claim under regulation 20 or 21 falling within the period beginning with the first day of the earliest period so notified and ending with the last day of the latest period so notified;
+
+.
+
+(6) In the case where A has more than one entitlement to statutory shared parental pay in respect of C, paragraph (1)(b)(ii) shall apply as though it read—
+
+> - (ii) in the case of AP, A has notified A's intention to claim under regulation 19 or 21 falling within the period beginning with the first day of the earliest period so notified and ending with the last day of the latest period so notified;
+
+.
+
+(7) In this regulation a person is treated as returning to work if statutory adoption pay is not payable to A in accordance with section 167ZN(3) or (5) of the 1992 Act [^c22710651].
+
+(8) In paragraph (1)(a)(ii), (4), (5) and (6) part of a week is to be treated as a whole week.
+
+(9) In paragraph (1)(a) “**week**” has the meaning given by section 167ZN(8) of the 1992 Act.
+
+### 23. When statutory shared parental pay (adoption) is not to be paid[^key-f49705e2dea3927ccc5cb4efa65e3c19][^key-ecda89e2bcbd7dccb15984c412c977fd]
+
+(1) Statutory shared parental pay (adoption) is not payable after the day before the first anniversary of the date on which C was placed for adoption (or where more than one child is placed for adoption through a single placement, the first anniversary of the date of placement of the first child).
+
+(2) Statutory shared parental pay (adoption) is not payable to A before the end of A's adoption pay period.
+
+### 24. Work during period of payment of statutory shared parental pay (adoption)[^key-620b22c2c4be69455d92db2d50feec9c][^key-44c89486b2678b22adbbac163e7fa510]
+
+(1) Despite section 167ZZ2(4) of the 1992 Act (statutory shared parental pay not payable to a person in respect of a week during any part of which the person works for any employer) statutory shared parental pay (adoption) is payable to A or, as the case may be, AP—
+
+- (a) in respect of a statutory pay week during any part of which A or, as the case may be, AP works only for an employer—
+  - (i) who is not liable to pay that person statutory shared parental pay; and
+  - (ii) for whom that person worked in the week immediately preceding the 14th week before the expected week of the placement for adoption; or
+- (b) where A or, as the case may be, AP does any work on any day under a contract of service with an employer during a statutory pay week during which that employer is liable to pay that person statutory shared parental pay (adoption) in respect of C and where that day and any previous days so worked do not exceed 20.
+
+(2) Where statutory shared parental pay (adoption) is paid to A or AP in respect of any week falling within a period specified in a notice under regulation 19, 20 or 21 during which A or AP works for an employer falling within paragraph (1)(a)(i) but not paragraph (1)(a)(ii) A or, as the case may be, AP shall notify the employer liable to pay statutory shared parental pay within seven days of the first day during which the former does such work.
+
+(3) The notification mentioned in paragraph (2) shall be in writing, if the employer who has been liable to pay statutory shared parental pay so requests.
+
+(4) In this regulation “**statutory pay week**” means a week in respect of which that person has chosen to exercise an entitlement to statutory shared parental pay (adoption).
+
+### 25. Care of child during period of payment of statutory shared parental pay
+
+Despite section 167ZZ2(3) of the 1992 Act (statutory shared parental pay not payable to a person in respect of a week if it is not the person's intention at the beginning of the week to care for C) statutory shared parental pay (adoption) is payable in the cases set out in paragraph 12 of the Schedule (disrupted placement or death of child).
+
+### 26. Other cases where there is no liability to pay statutory shared parental pay
+
+(1) There is no liability to pay statutory shared parental pay (adoption) to A or, as the case may be, AP in respect of any week—
+
+- (a) during any part of which the person who is entitled to that pay is entitled to statutory sick pay under Part 11 of the 1992 Act;
+- (b) following that in which the person who is claiming that has died; or
+- (c) during any part of which the person who is entitled to it is detained in legal custody or sentenced to a term of imprisonment except where the sentence is suspended (but see paragraph (2)).
+
+(2) There is liability to pay statutory shared parental pay to A or, as the case may be, AP in respect of any week during any part of which the person entitled to that pay is detained in legal custody where that person—
+
+- (a) is released subsequently without charge;
+- (b) is subsequently found not guilty of any offence and is released; or
+- (c) is convicted of an offence but does not receive a custodial sentence.
+
+### 27. Conditions of entitlement to statutory shared parental pay: absence from work
+
+(1) The condition in regulations 17(2)(g) and 18(2)(e) does not apply where A or, as the case may be, AP—
+
+- (a) during any part of a statutory pay week works other than for an employer;
+- (b) during any part of a statutory pay week works only for an employer who falls within paragraph (1)(a) of regulation 24 (work during period payment of statutory shared parental pay);
+- (c) works in circumstances where paragraph (1)(b) of regulation 24 applies.
+
+(2) In this regulation “**statutory pay week**” means a week in respect of which that person has chosen to exercise an entitlement to statutory shared parental pay (adoption).
+
+### 28. Entitlement to statutory shared parental pay (adoption) in cases relating to death
+
+Part 2 of the Schedule (statutory shared parental pay in special circumstances) has effect.
+
+## PART 4 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS
+
+### 29. Conditions relating to employment and earnings of a claimant's partner[^key-8352d9159323c8e0f974dce392651e17][^key-71242791f4121df31b9f24962b9f967b]
+
+(1) In relation to the entitlement of M, P, A or AP to statutory shared parental pay a person satisfies the conditions as to earnings and employment specified in regulations 4(3)(b), 5(3)(b), 17(3)(b) and 18(3)(b) if that person—
+
+- (a) has been engaged in employment as an employed or self-employed earner [^c22710661] for any part of the week in the case of at least 26 of the 66 weeks immediately preceding the calculation week; and
+- (b) has average weekly earnings (determined in accordance with paragraph (2)) of not less than the amount set out in section 35A(6A) (state maternity allowance) of the 1992 Act [^c22710671] in relation to the tax year before the tax year containing the calculation week.
+
+(2) A person's average weekly earnings are determined by dividing by 13 the specified payments made, or treated as being made, to or for the benefit of that person in the 13 weeks (whether or not consecutive) in the period of 66 weeks immediately preceding the calculation week in which the payments are greatest.
+
+(3) Where a person receives any pay after the end of the period in paragraph (2) in respect of any week falling within that period, the average weekly amount is to be determined as if such sum had been paid in that period.
+
+(4) Where a person is not paid weekly, the payments made or treated as made for that person's benefit for the purposes of paragraph (2), are to be determined by dividing the total sum paid to that individual by the nearest whole number of weeks in respect of which that sum is paid.
+
+(5) In this regulation—
+
+- “**calculation week**” means in relation to—
+  - (a) statutory shared parental pay (birth) the expected week of birth of C; and
+  - (b) statutory shared parental pay (adoption), the week in which A was notified as having been matched for adoption with C;
+- “**employed earner**” has the meaning given by section 2 of the 1992 Act [^c22710681], subject for these purposes to the effect of regulations made under section 2(2)(b) of that Act;
+- “**self-employed earner**” has the meaning given by section 2 of the 1992 Act, subject for these purposes to the effect of regulations made under section 2(2)(b) of that Act;
+- “specified payments”—
+  - (a) in relation to a self-employed earner who satisfies the conditions in paragraph (6), are to be treated as made to the self-employed earner at an amount per week equal to the amount set out in section 35(6A) of the 1992 Act that is in force at the end of the week;
+  - (b) in relation to an employed earner, are all payments made to the employed earner or for that employed earner's benefit as an employed earner specified in regulation 2 (specified payments for employed earners) of the Social Security (Maternity Allowance) (Earnings) Regulations (Northern Ireland) 2000 [^c22710691];
+- “**tax year**” means the 12 months beginning with the 6th April in any year.
+
+(6) The conditions referred to in paragraph (a) of the definition of “specified payments” are that, in respect of any week, the self-employed earner—
+
+- (a) does not hold a certificate of exception issued pursuant to regulation 44(1) of the Social Security (Contributions) Regulations 2001 [^c22710701] and has paid a Class 2 contribution (within the meaning of section 1 of the 1992 Act); or
+- (b) holds such a certificate of exception.
+
+### 30. Conditions as to continuity of employment and normal weekly earnings relating to a claimant for statutory shared parental pay (birth)
+
+(1) The conditions as to continuity of employment and normal weekly earnings referred to in regulation 4(2)(a) and 5(2)(a) are—
+
+- (a) the person has been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+- (b) the person's normal weekly earnings (see regulation 32) with the employer by reference to which the condition in sub-paragraph (a) is satisfied for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under subsection (1)(a) of section 5 (earnings limits and thresholds for class 1 contributions) of the 1992 Act at the end of the relevant week;
+- (c) the person continues in employed earner's employment with the employer by reference to which the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the first week falling within the relevant period relating to that person under section 167ZZ2(2) of the 1992 Act.
+
+(1A)[^key-d30ecb44793ff3c87f8a5cd65bb96487] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
+
+(1B) For the purpose of determining whether a person meets the condition in paragraph (1)(a), the first of those 26 weeks is a period commencing on the first day of the person’s employment with the employer (“the start date”) and ending at midnight on—
+
+- (a) the first Saturday after the start date, or
+- (b) where the start date is a Saturday, that day.
+
+(2) Where C's birth occurs earlier than the 14th week before C's expected week of birth paragraph (1) shall have effect as if, for the conditions set out there, there were substituted conditions that—
+
+- (a) the person would have been in employed earner's employment for a continuous period of at least 26 weeks ending with the relevant week had C been born after the relevant week;
+- (b) the person's normal weekly earnings for the period of eight weeks ending with the week immediately preceding C's actual week of birth are not less than the lower earnings limit in force under section 5(1)(a) of the 1992 Act immediately before the commencement of C's actual week of birth; and
+- (c) the person continues in employed earner's employment with the employer by reference to whom the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the date of C's birth and ending with the week before the first week falling within the relevant period relating to that person under section 167ZZ2(2) of the 1992 Act.
+
+(3) The references in this regulation to the relevant week are to the week immediately preceding the 14th week before C's expected week of birth.
+
+(4) Where more than one child is born as a result of the same pregnancy the date the first child is born is to be used to determine C's actual week of birth or the date of C's birth.
+
+### 31. Conditions as to continuity of employment and normal weekly earnings in relation to a claimant for statutory shared parental pay (adoption)[^key-289067ab6a1b8b4f986328bc3ca3a01f][^key-716e82985161715e16d1906e4b9caa5e]
+
+(1) The conditions as to continuity of employment and normal weekly earnings referred to in regulations 17(2)(a) and 18(2)(a) relating to the entitlement of A and AP to statutory shared parental pay (adoption) are—
+
+- (a) the person has been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+- (b) the person's normal weekly earnings (see regulation 32) with the employer by reference to which the condition in sub-paragraph (a) is satisfied for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under subsection (1)(a) of section 5 (earnings limits and thresholds for class 1 contributions) of the 1992 Act at the end of the relevant week;
+- (c) the person continues in employed earner's employment with the employer by reference to which the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the first week falling within the relevant period relating to that person under section 167ZZ2(2) of the 1992 Act.
+
+(1A)[^key-cbb86560ecd70fb9b6104b2ab02e7227] Paragraph (1B) applies where a person has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the relevant week.
+
+(1B) For the purpose of determining whether a person meets the condition in paragraph (1)(a), the first of those 26 weeks is a period commencing on the first day of the person’s employment with the employer (“the start date”) and ending at midnight on—
+
+- (a) the first Saturday after the start date, or
+- (b) where the start date is a Saturday, that day.
+
+(2) The references in paragraph (1) to the relevant week are to the week in which A was notified of having been matched with C.
+
+### 32. Normal weekly earnings of a claimant for statutory shared parental pay[^key-7a079921c73245dbd9c5b9a9b4809a40][^key-8bcebd4d30cdcea581f17e6bc09fe4fc]
+
+(1) For the purpose of section 167ZZ7(6) (which defines normal weekly earnings for the purposes of Part 12ZC of the 1992 Act) “earnings” and “relevant period” have the meanings given in this regulation.
+
+(2) The relevant period is the period—
+
+- (a) ending on the last normal pay day to fall before the appropriate date; and
+- (b) beginning with the day following the last normal pay day to fall at least eight weeks earlier than the normal pay day mentioned in sub-paragraph (a).
+
+(3) In a case where a person has no identifiable normal pay day, paragraph (2) shall have effect as if the words “day of payment” were substituted for the words “normal pay day” in each place where they occur.
+
+(4) In a case where a person has normal pay days at intervals of or approximating to one or more calendar months (including intervals of or approximating to a year) that person's normal weekly earnings shall be calculated by dividing their earnings in the relevant period by the number of calendar months in that period (or, if it is not a whole number, the nearest whole number), multiplying the result by 12 and dividing by 52.
+
+(5) In a case to which paragraph (4) does not apply and the relevant period is not an exact number of weeks, the person's normal weekly earnings shall be calculated by dividing their earnings in the relevant period by the number of days in the relevant period and multiplying the result by seven.
+
+(6) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
+
+(6A)[^key-7f5ecb808277b7205127d593a1811bb9] Paragraph (6B) applies where for all or part of the relevant period—
+
+- (a) a person is a furloughed employee;
+- (b) the person’s employer has claimed and is in receipt of financial support in respect of the person’s earnings under the Coronavirus Job Retention Scheme; and
+- (c) the person’s earnings are lower than they would otherwise have been as a result of that person being a furloughed employee.
+
+(6B) Where this paragraph applies, the person’s normal weekly earnings are to be calculated as if, during the parts of the relevant period when the person was a furloughed employee, they were paid the amount which they would have derived from their employment had they not been a furloughed employee.
+
+(6C) For the purposes of paragraphs (6A) and (6B)—
+
+- “**Coronavirus Job Retention Scheme**” (“**the Scheme**”) means any scheme to provide for payments to be made to employers on a claim made in respect of them incurring costs of employment in respect of furloughed employees arising from the health, social and economic emergency in the United Kingdom resulting from coronavirus and coronavirus disease and contained in such Directions as may be issued from time to time pursuant to section 76 of the Coronavirus Act 2020;
+- “**coronavirus**” and “**coronavirus disease**” have the meanings given in section 1 of that Act;
+- “**furloughed employee**” has the meaning given for the purposes of the Scheme.
+
+(7) The expression “**earnings**” refers to gross earnings and includes any remuneration or profit derived from a person's employment except any amount which is—
+
+- (a) excluded from the computation of a person's earnings under regulation 25 (payments to be disregarded) of, and Schedule 3 to, the Social Security (Contributions) Regulations 2001 and regulation 27 (payments to directors to be disregarded) of those Regulations (or would have been so excluded had they not been made under the age of 16);
+- (b) a chargeable emolument under section 10A (class 1B contributions) of the 1992 Act [^c22710711] except where, in consequence of such a chargeable emolument being excluded from earnings, a person would not be entitled to statutory shared parental pay (or where such a payment or amount would have been so excluded and in consequence the person would not have been entitled to statutory shared parental pay had they not been aged under the age of 16).
+
+(8) The expression “**earnings**” includes—
+
+- (a) any amount retrospectively treated as earnings by regulations made by virtue of section 4B(2) of the 1992 Act [^c22710721];
+- (b) any sum payable in respect of arrears of pay in pursuance of an order for reinstatement or re-engagement under the Employment Rights (Northern Ireland) Order 1996;
+- (c) any sum payable by way of pay in pursuance of an order made under the Employment Rights (Northern Ireland) Order 1996 for the continuation of a contract of employment;
+- (d) any sum payable by way of remuneration in pursuance of a protective award under Article 217 of the Employment Rights (Northern Ireland) Order 1996 [^c22710731];
+- (e) any sum payable by way of statutory sick pay, including sums payable in accordance with regulations made under section 147(6) of the 1992 Act;
+- (f) any sum payable by way of statutory maternity pay;
+- (g) any sum payable by way of statutory paternity pay;
+- (h) any sum payable by way of statutory shared parental pay; and
+- (i) any sum payable by way of statutory adoption pay.
+
+(9) In paragraphs (2) to (4)—
+
+- (a) “**the appropriate date**” means—
+  - (i) in relation to statutory shared parental pay (birth), the first day of the 14th week before the expected week of the child's birth or the first day in the week in which the child is born, whichever is earlier (but see paragraph (10));
+  - (ii) in relation to statutory shared parental pay (adoption) the first day of the week after the week in which A is notified of being matched with the child for the purposes of adoption;
+- (b) “**day of payment**” means a day on which the person was paid; and
+- (c) “**normal pay day**” means a day on which the terms of a person's contract of service require the person to be paid, or the practice in that person's employment is for that person to be paid if any payment is due to them.
+
+(10) Where more than one child is born as a result of the same pregnancy, the date the first child is born is to be used to determine the week in which the child is born.
+
+### 33. Treatment of persons as employees
+
+(1) A person is treated as an employee for the purposes of Part 12ZC of the 1992 Act (even though not falling within the definition of “employee” in section 167ZZ7(2) of that Act) where, and in so far as, that person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978 [^c22710741] (but see paragraph (3)).
+
+(2) A person shall not be treated as an employee for the purposes of Part 12ZC of the 1992 Act (even though falling within the definition of “employee” in section 167ZZ7(2) of that Act) where, and in so far as, that person is not treated as an employed earner by virtue of those Regulations (but see paragraph (3)).
+
+(3) Paragraphs (1) and (2) shall have effect in relation to a person who—
+
+- (a) is under the age of 16; and
+- (b) would, or as the case may be, would not have been treated as an employed earner by virtue of those Regulations had they been over that age;
+
+as they have effect in relation to a person who is, or as the case may be, is not treated as an employed earner by virtue of those Regulations.
+
+(4) A person is treated as an employee for the purpose of Part 12ZC of the 1992 Act (even though not falling within the definition of “employee” in section 167ZZ7(2) of that Act) where that person is in employed earner's employment under a contract of apprenticeship.
+
+(5) A person is not to be treated as an employee for the purposes of Part 12ZC of the 1992 Act (even though falling within the definition of “employee” in section 167ZZ7(2) of that Act) where that person is in employed earner's employment but that person's employer—
+
+- (a) does not fulfil the conditions prescribed in regulation 145(1) (conditions as to residence or presence) of the Social Security (Contributions) Regulations 2001 in so far as that provision relates to residence or presence in Northern Ireland; or
+- (b) is a person who, by reason of any international treaty to which the United Kingdom is a party or of any international convention binding the United Kingdom—
+  - (i) is exempt from the provisions of the 1992 Act; or
+  - (ii) is a person against whom the provisions of the 1992 Act are not enforceable.
+
+### 34. Continuous employment
+
+(1) A week is to be treated for the purposes of sections 167ZU and 167ZW of the 1992 Act (see also regulations 30 and 31) as part of a period of continuous employment with the employer even though no contract of service exists with that employer in respect of that week in the circumstances mentioned in paragraph (2) and subject to paragraphs (3) and (4).
+
+(2) The circumstances mentioned in paragraph (1) are that in any week the person is, for the whole or part of the week—
+
+- (a) incapable of work in consequence of sickness or injury;
+- (b) absent from work on account of a temporary cessation of work; or
+- (c) absent from work in circumstances such that, by arrangement or custom, that person is regarded as continuing in the employment of their employer for all or any purposes;
+
+and returns to work for their employer after the incapacity for or absence from work.
+
+(3) Incapacity for work which lasts for more than 26 consecutive weeks shall not count for the purposes of paragraph (2)(a).
+
+(4) Where a person—
+
+- (a) is an employee in employed earner's employment in which the custom is for the employer—
+  - (i) to offer work for a fixed period of not more than 26 consecutive weeks;
+  - (ii) to offer work for such period on two or more occasions in a year for periods which do not overlap; and
+  - (iii) to offer the work available to those persons who had worked for the employer during the last or a recent such period; but
+- (b) is absent from work because of incapacity arising from some specific disease or bodily or mental disablement,
+
+then in that case paragraph (2) shall apply as if the words “and returns to work for their employment for their employer after the incapacity for or absence from work” were omitted.
+
+### 35. Continuous employment and unfair dismissal
+
+(1) Where in consequence of specified action in relation to a person's dismissal, the person is reinstated or re-engaged by their employer or by a successor or associated employer of that employer then—
+
+- (a) the continuity of their employment shall be preserved for the purposes of sections 167ZU and 167ZW of the 1992 Act (see also regulations 30 and 31) for the period beginning with the effective date of termination and ending with the date of reinstatement or re-engagement; and
+- (b) any week which falls within the interval beginning with the effective date of termination and ending with the date of reinstatement or re-engagement, as the case may be, shall count in the computation of their period of continuous employment.
+
+(2) In this regulation—
+
+- (a) “**associated employer**” shall be construed in accordance with Article 4 of the Employment Rights (Northern Ireland) Order 1996;
+- (b) “**dismissal procedures agreement**” and “**successor**” have the same meanings as in Article 2 of the Employment Rights (Northern Ireland) Order 1996;
+- (c) “**specified action in relation to a person's dismissal**” means action which consists of—
+  - (i) the presentation by that person of a complaint under Article 145(1) (complaints to industrial tribunal) of the Employment Rights (Northern Ireland) Order 1996 [^c22710751];
+  - (ii) that person making a claim in accordance with a dismissal procedure agreement designated by an order under Article 142 of that Order [^c22710761]; or
+  - (iii) any action taken by a conciliation officer under Article 20 (conciliation) of the Industrial Tribunals (Northern Ireland) Order 1996 [^c22710771].
+
+### 36. Continuous employment and stoppages of work
+
+(1) Where a person does not work for any week or part of a week because there is a stoppage of work at that person's place of employment due to a trade dispute within the meaning of Article 2(2) of the Jobseekers (Northern Ireland) Order 1995 [^c22710781] then—
+
+- (a) that person's continuity of employment shall be treated as continuing throughout the stoppage (but see paragraph (2) for the purposes of sections 167ZU and 167ZW of the 1992 Act (see also regulations 30 and 31); and
+- (b) no such week shall count in the computation of their period of continuous employment (but see paragraph (3)).
+
+(2) Where during the stoppage of work a person is dismissed from their employment, that person's continuity of employment shall not be treated under paragraph (1) as continuing beyond the commencement of the day that person stopped work (but see paragraph (3)).
+
+(3) Paragraph (1)(b) and paragraph (2) do not apply to a person who proves that at no time did they have a direct interest in the trade dispute in question.
+
+### 37. Change of employer
+
+(1) Where a person's employer changes, a person's employment is to be treated for the purposes of sections 167ZU and 167ZW of the 1992 Act (see also regulations 30 and 31) as continuous employment with the second employer in the following circumstances—
+
+- (a) the employer's trade or business or an undertaking (whether or not it is an undertaking established by or under Northern Ireland legislation or an Act of Parliament) is transferred from one person to another;
+- (b) a contract of employment between any body corporate and the person is modified by or under Northern Ireland legislation or an Act of Parliament, whether public or local and whenever passed and some other body corporate is substituted as that person's employer;
+- (c) on the death of the employer, the person is taken into the employment of the personal representatives or trustees of the deceased;
+- (d) the person is employed by partners, personal representatives or trustees and there is a change in the partners, or as the case may be, personal representatives or trustees; or
+- (e) the person is taken into the employment of an employer who is, at the time the person entered into to the employer's employment, an associated employer of the person's previous employer.
+
+(2) In paragraph (1)(e) “**associated employer**” shall be construed in accordance with Article 4 of the Employment Rights (Northern Ireland) Order 1996.
+
+### 38. Reinstatement after service with the armed forces etc
+
+Where a person—
+
+- (a) is entitled to apply to their employer under the Reserve Forces (Safeguard of Employment) Act 1985 [^c22710791]; and
+- (b) enters the employment of that employer within the six month period mentioned in section 1(4)(b) (obligation to reinstate) of that Act,
+
+that person's previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in that six month period shall be treated as continuous for the purposes of sections 167ZU, 167ZV and 167ZZ2 of the 1992 Act (see also regulations 30 and 31).
+
+### 39. Treatment of two or more employers or two or more contracts of service as one
+
+(1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) (aggregation of earnings paid in respect of different employed earner's employments by different persons) of the Social Security (Contributions) Regulations 2001, the employers of that person in respect of those employments shall be treated as one for the purposes of Part 12ZC of the 1992 Act (and these Regulations).
+
+(2) Where two or more employers are treated as one under the provisions of paragraph (1), liability for statutory shared parental pay shall be apportioned between them in such proportions as they may agree, or in default of agreement, in the proportions which the person's normal weekly earnings from each employment bear to the amount of the aggregated normal weekly earnings over the relevant period as defined in regulation 32(2).
+
+(3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZC of the 1992 Act (and these Regulations) except where, by virtue of regulation 14 (aggregation of earnings paid in respect of separate employed earner's employments under the same employer) of the Social Security (Contributions) Regulations 2001, the earnings from those contracts of service are not aggregated for the purpose of earnings-related contributions.
+
+## PART 5 — PAYMENT OF STATUTORY SHARED PARENTAL PAY
+
+### 40. Weekly rate of payment of statutory shared parental pay
+
+(1) The weekly rate of payment of statutory shared parental pay is the smaller of the following two amounts—
+
+- (a) £194.32[^key-1ba4924079fac7c2d5ab48f94070db81];
+- (b) 90% of the normal weekly earnings of the individual claiming statutory shared parental pay determined in accordance with section 167ZZ7(6) of the 1992 Act (and regulation 32).
+
+(2) Where the amount of any payment of statutory shared parental pay is calculated by reference to—
+
+- (a) the weekly rate specified in paragraph (1)(b), or
+- (b) the daily rate of one-seventh of the weekly rate specified in paragraph (1)(a) or (b),
+
+and that amount includes a fraction of a penny, the payment shall be rounded up to the nearest whole number of pence.
+
+### 41. Statutory shared parental pay and contractual remuneration
+
+For the purposes of section 167ZZ4(1) and (2) (payment of contractual remuneration to go towards discharging liability to pay statutory shared parental pay and payment of statutory shared parental pay to go towards discharging liability to pay contractual remuneration) of the 1992 Act the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
+
+- (a) by way of remuneration;
+- (b) for incapacity for work due to sickness or injury; and
+- (c) by reason of birth, adoption or care of a child.
+
+### 42. Avoidance of liability for statutory shared parental pay
+
+(1) A former employer is liable to make payments of statutory shared parental pay to a former employee in any case where the employee has been employed for a continuous period of at least eight weeks and the employee's contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory shared parental pay.
+
+(2) In a case falling within paragraph (1)—
+
+- (a) the employee shall be treated as if the employee had been employed for a continuous period ending with the period of seven days beginning with Sunday before the first week falling within the relevant period relating to that employee under section 167ZZ2(2) of the 1992 Act; and
+- (b) regulation 32(2) (relevant period for the purpose of the calculation of normal weekly earnings) shall apply as if it read—
+
+  > (2) The relevant period is the period—
+  >
+  > - (a) ending on the last day of payment under the former contract of employment; and
+  > - (b) beginning with the day following the day of payment under that contract to fall at least 8 weeks earlier than the day of payment mentioned in sub-paragraph (a).
+
+  .
+
+### 43. Payment of statutory shared parental pay
+
+Payments of statutory shared parental pay may be made in like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board and lodgings.
+
+### 44. Time when statutory shared parental pay is to be paid
+
+(1) In any case where—
+
+- (a) a decision has been made by an officer of Revenue and Customs under Article 7(1) (decisions by officers) of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 [^c22710801] as a result of which a person is entitled to an amount of statutory shared parental pay; and
+- (b) the time for bringing an appeal against the decision has expired and either—
+  - (i) no such appeal has been brought; or
+  - (ii) such appeal has been brought and has been finally disposed of,
+
+that amount of statutory shared parental pay shall be paid within the time specified in paragraph (2).
+
+(2) The employer or former employer shall pay the amount not later than the first pay day after the following days (but see paragraphs (3) and (4))—
+
+- (a) where an appeal has been brought, the day on which the employer or former employer receives notification that it has been finally disposed of;
+- (b) where leave to appeal has been refused, and there remains no further opportunity to apply for leave, the day on which the employer or former employer receives notification of the refusal; and
+- (c) in any other case, the day on which the time for bringing an appeal expires.
+
+(3) Where it is impracticable, in view of the employer's or former employer's methods of accounting for and paying remuneration, for the requirement of payment referred to in paragraph (2) to be met by the pay day referred to in that paragraph, it shall be met not later than the next following pay day (but see paragraph (4)).
+
+(4) Where the employer or former employer would not have remunerated the employee for their work in the week in respect of which statutory shared parental pay is payable as early as the pay day specified in paragraph (2) or (if it applies) paragraph (3), the requirement of payment shall be met on the first day on which the employee would have been remunerated for his work in that week.
+
+(5) In this regulation “**pay day**” means a day on which it has been agreed, or it is the normal practice between an employer or former employer to agree and a person who is or was an employee of theirs, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
+
+### 45. Liability of the Commissioners to pay statutory shared parental pay
+
+(1) Despite section 167ZZ1(1) of the 1992 Act (liability to make payments of statutory shared parental pay is liability of the employer) where the conditions in paragraph are satisfied, liability to make payments of statutory shared parental pay to a person is to be a liability of the Commissioners and not the employer for—
+
+- (a) any week in respect of which the employer was liable to pay statutory shared parental pay to that person but did not do so; and
+- (b) for any subsequent weeks that person is entitled to payments of statutory shared parental pay.
+
+(2) The conditions in this paragraph are that—
+
+- (a) an officer of the Revenue and Customs has decided under Article 7(1) of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 that an employer is liable to make payments of statutory shared parental pay;
+- (b) the time for appealing against the decision has expired; and
+- (c) no appeal against the decision has been lodged or leave to appeal against the decision is required and has been refused.
+
+(3) Despite section 167ZZ1(1) of the 1992 Act, liability to make payments of statutory shared parental pay to a person is to be a liability of the Commissioners and not the employer as from the week in which the employer first becomes insolvent (see paragraph (4)) until the last week that person is entitled to payment of statutory shared parental pay.
+
+(4) For the purposes of paragraph (3) an employer shall be taken to be insolvent if, and only if—
+
+- (a) the employer has been adjudged bankrupt or has made a composition or arrangement with its creditors;
+- (b) the employer has died and the employer's estate falls to be administered in accordance with an order made under Article 365 of the Insolvency (Northern Ireland) Order 1989 [^c22710811]; or
+- (c) where an employer is a company or a limited liability partnership—
+  - (i) a winding-up order is made or a resolution for a voluntary winding-up is passed (or, in the case of a limited liability partnership, a determination for voluntary winding-up has been made) with respect to it;
+  - (ii) it enters administration;
+  - (iii) a receiver or manager of its undertaking is duly appointed;
+  - (iv) possession is taken, by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company or limited liability partnership comprised in or subject to the charge; or
+  - (v) a voluntary arrangement proposed for the purposes of Part 2 of the Insolvency (Northern Ireland) Order 1989 is approved under that Part.
+
+### 46. Liability of the Commissioners to pay statutory shared parental pay in case of legal custody or imprisonment
+
+Where there is liability to pay statutory shared parental pay—
+
+- (a) in respect of a period which is subsequent to the last week falling within paragraph (1)(c) of regulations 14 and 26 (cases where there is no liability to pay statutory shared parental pay); or
+- (b) during a period of detention in legal custody by virtue of paragraph (2) of those regulations,
+
+that liability, despite section 167ZZ1(1) of the 1992 Act, shall be that of the Commissioners and not the employer.
+
+### 47. Payments by the Commissioners
+
+Where the Commissioners become liable in accordance with regulation 45 **(**liability of the Commissioners to pay statutory shared parental pay) or regulation 46 (liability of the Commissioners to pay statutory shared parental pay in case of legal custody or imprisonment) then—
+
+- (a) the first payment is to be made as soon as reasonably practicable after they become so liable; and
+- (b) subsequent payments are to be made at weekly intervals,
+
+by means of an instrument of payment or by such other means as appear to the Commissioners to be appropriate in the circumstances of any particular case.
+
+### 48. Persons unable to act
+
+(1) This regulation applies where—
+
+- (a) statutory shared parental pay is payable to a person or it is alleged that statutory shared parental pay is payable to a person;
+- (b) that person is unable for the time being to act;
+- (c) no controller ad interim has been appointed by the Court with power to receive statutory shared parental pay on his behalf; and
+- (d) a written application has been made to the Commissioners by a person, who, if a natural person, is over the age of 18 to exercise any right, or deal with any sums payable, under Part 12ZC of the 1992 Act on behalf of the person unable to act.
+
+(2) Where this regulation applies the Commissioners may appoint the person referred to in paragraph (1)(d)—
+
+- (a) to exercise, on behalf of the person unable to act, any right which the person unable to act may be entitled under Part 12ZC of the 1992 Act; and
+- (b) to deal, on behalf of the person unable to act, with any sums payable to the person unable to act under Part 12ZC of the 1992 Act.
+
+(3) Where the Commissioners have made an appointment under paragraph (2)—
+
+- (a) they may at any time revoke it;
+- (b) the person appointed may resign their office after having given one month's notice in writing to the Commissioners of that person's intention to do so; and
+- (c) the appointment shall end when the Commissioners are notified that a deputy or other person to whom paragraph (1)(c) applies has been appointed.
+
+(4) Anything required by Part 12ZC of the 1992 Act to be done by or to the person who is unable to act may be done by or to the person appointed under this regulation to act on behalf of the person unable to act, and the receipt of the person so appointed shall be a good discharge to the employer or former employer of the person unable to act for any sum paid.
+
+(5) For the purposes of this regulation, “**the Court**” means either—
+
+- (a) a judge in the High Court in Northern Ireland exercising jurisdiction in matters relating to patients; or
+- (b) a Master or other statutory officer of the Office of Care and Protection in the High Court in Northern Ireland.
+
+### 49. Service of notices
+
+(1) Where a notice is to be given under these Regulations, it may be given—
+
+- (a) where paragraph (2) applies, by electronic communication;
+- (b) by post; or
+- (c) by personal delivery.
+
+(2) This paragraph applies where the person who is to receive the notice has agreed that the notice may be given to the person by being transmitted to an electronic address and in an electronic form specified by the person for that purpose.
+
+(3) Where a notice is to be given under these Regulations it is to be taken to have been given—
+
+- (a) if sent by electronic communication, on the day of transmission;
+- (b) if sent by post in an envelope which is properly addressed and sent by prepaid post, on the day on which it is posted;
+- (c) if delivered personally, on the day of delivery.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 2nd March 2015.
+
+Dr Stephen Farry
+
+Minister for Employment and Learning
+
+The Commissioners for Her Majesty's Revenue and Customs concur
+
+Jim Harra
+
+Edward Troup
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+## SCHEDULE — STATUTORY SHARED PARENTAL PAY IN SPECIAL CIRCUMSTANCES
+
+Regulations 16 and 28
+
+### PART 1 — STATUTORY SHARED PARENTAL PAY (BIRTH)
+
+#### 1. Entitlement of father or partner to statutory shared parental pay (birth) in the event of the death of M before curtailment
+
+(1) In a case where M dies—
+
+- (a) before the end of her maternity allowance period in respect of C and without reducing that period under section 35(3A) of the 1992 Act [^c22710821], or
+- (b) before the end of her maternity pay period in respect of C and without reducing that period under section 161(3A) of the 1992 Act [^c22710831],
+
+then these Regulations shall apply, in respect of any period after M dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 2(1) a person is to be regarded as falling within the definition of P if that person would have done so but for the fact that M had died.
+
+(3) In regulation 5 (entitlement of father or partner)—
+
+- (a) paragraph (3)(d) shall not apply;
+- (b) in a case where M dies before her maternity allowance period or maternity pay period in respect of C starts then the condition in paragraph (3)(c) shall be taken to be satisfied if it would have been satisfied but for the fact that M had died.
+
+(4) In regulation 7 (notification and evidential requirements relating to father or mother's partner)—
+
+- (a) paragraph (1)(a) shall apply as if it read—
+
+  > - (a) paragraphs (2) and (3) at least 8 weeks before the beginning of the first period specified by P pursuant to paragraph (2)(d) or, where it is not reasonably practicable for P to satisfy this requirement, as soon as reasonably practicable after the death of M, but in any event before that period;
+
+  ;
+- (b) paragraph (1)(b) and (c) shall not apply;
+- (c) in paragraph (2)—
+  - (i) sub-paragraph (a) shall apply as if the words “disregarding any intention of M to claim statutory shared parental pay (birth) in respect of C” were omitted; and
+  - (ii) sub-paragraph (c) shall not apply;
+- (d) in paragraph (3)—
+  - (i) sub-paragraph (a) shall not apply;
+  - (ii) sub-paragraph (d) shall apply as if it read—
+
+    > - (d) the following information relating to P and M—
+    >   - (i) P's name, M's name and national insurance number (where this number is known to P), M's address immediately before she died and the date of M's death; and
+    >   - (ii) the start date of M's maternity pay period or maternity allowance period in respect of C or, where M's death occurred before her maternity allowance period or maternity pay period in respect of C started, the date that period would have started but for the fact that M had died;
+
+    ; and
+  - (iii) sub-paragraph (e)(iii) shall not apply;
+- (e) paragraph (4) shall not apply.
+
+(5) In regulation 8(3) (variation)—
+
+- (a) sub-paragraph (a) shall apply as if the reference to M were omitted; and
+- (b) sub-paragraph (b) shall not apply.
+
+(6) In regulation 10 (extent of entitlement), paragraph (1)(a) shall apply as if the number of weeks referred to is the number of weeks in which maternity allowance or statutory maternity pay was payable to M in respect of C up to the time of M's death.
+
+#### 2. Notification and variation: death of mother or partner after curtailment
+
+(1) In the case where—
+
+- (a) P, who in connection with a claim by M would be required to satisfy the conditions specified in regulation 4(3), dies after M has reduced her maternity allowance period in respect of C under section 35(3A) of the 1992 Act or her maternity pay period in respect of C under section 161(3A) of the 1992 Act; and
+- (b) before P dies M has not given the notices and information specified in regulation 6 (notice and evidential requirements relating to the mother),
+
+then these Regulations apply in respect of any period after P dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 6 (notification and evidential requirements relating to the mother)—
+
+- (a) paragraph (1)(a) shall apply as if it read—
+
+  > - (a) paragraphs (2) and (3) at least 8 weeks before the beginning of the first period specified by M pursuant to paragraph (2)(d) or where it is not reasonably practicable for M to satisfy this requirement as soon as reasonably practicable after the death of P, but in any event before that period;
+
+  ;
+- (b) paragraph (1)(b) and (c) shall not apply;
+- (c) in paragraph (2)—
+  - (i) sub-paragraph (a) shall apply as if the words “disregarding any intention of P to claim statutory shared parental pay in respect of C” were omitted;
+  - (ii) sub-paragraph (c) shall not apply;
+- (d) in paragraph (3)—
+  - (i) sub-paragraph (a) shall not apply;
+  - (ii) sub-paragraph (d) shall apply as if it read—
+
+    > - (d) M's name, P's name and national insurance number (where this number is known to M), P's address immediately before P died and the date of P's death
+
+    ;
+- (e) paragraph (4) shall not apply.
+
+(3) In regulation 8 (variation)—
+
+- (a) paragraph (2)(a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which M and P have exercised, and the number of weeks M intends to exercise, an entitlement to statutory shared parental pay (birth) in respect of C
+
+  ;
+- (b) paragraph (2)(b) shall not apply.
+
+(4) In regulation 10 (extent of entitlement)—
+
+- (a) paragraph (1)(b)(i) shall apply as if the words “P has notified P's intention to claim” to the end read “the number of weeks in which P claimed statutory shared parental pay (birth) in respect of C up to the time of P's death.”;
+- (b) paragraph (7) shall apply as if the words “the last day of the latest period so notified” were “the time of P's death”.
+
+**3.** (1) In the case where—
+
+- (a) P, who in connection with M's claim is required to satisfy the conditions specified in regulation 4(3), dies after M has reduced her maternity allowance period in respect of C under section 35(3A) of the 1992 Act or her maternity pay period in respect of C under section 161(3A) of the 1992 Act; and
+- (b) before P dies M has given the notices and information specified in regulation 6 (notification and evidential requirements relating to the mother),
+
+then these Regulations apply in respect of any period after P dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 8 (variation)—
+
+- (a) paragraph (1) shall apply in relation to the first notice made under that paragraph following P's death as if at the end of that paragraph there is added—
+
+  > or, where it is not reasonably practicable for M to satisfy this requirement, by notice in writing given to that employer as soon as reasonably practicable after the death of P, but in any event before that period and which states the date of P's death
+
+  ;
+- (b) paragraph (2)(a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which M and P have exercised, and the number of weeks M intends to exercise, an entitlement to statutory shared parental pay (birth) in respect of C;
+
+  ;
+- (c) paragraph (2)(b) shall not apply.
+
+(3) In regulation 10—
+
+- (a) paragraph (1)(b)(i) shall apply as if the words “P has notified P's intention to claim” to the end read—
+
+  > the number of weeks in which P claimed statutory shared parental pay (birth) in respect of C up to the time of P's death;
+
+  ;
+- (b) paragraph (7) shall apply as if the words “the last day of the latest period so notified” were “the time of P's death”.
+
+**4.** (1) In the case where—
+
+- (a) M dies after she has reduced her maternity allowance period in respect of C under section 35(3A) of the 1992 Act or her maternity pay period in respect of C under section 161(3A) of the 1992 Act; and
+- (b) before M dies P has not given the notices and information specified in regulation 7 (notification and evidential requirements relating to father or partner),
+
+then these Regulations apply in respect of any period after M dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 2(1) (definitions) a person is to be regarded as falling within the definition of P if that person would have done so but for the fact that M has died.
+
+(3) In regulation 7 (notification and evidential requirements relating to P)—
+
+- (a) in paragraph (1)—
+  - (i) sub-paragraph (a) shall apply as if it read—
+
+    > - (a) paragraphs (2) and (3) at least 8 weeks before the beginning of the first period specified by P pursuant to paragraph (2)(d) or where it is not reasonably practicable for P to satisfy this requirement as soon as reasonably practicable after the death of M, but in any event before that period;
+
+    ;
+  - (ii) sub-paragraphs (b) and (c) shall not apply;
+- (b) in paragraph (2)—
+  - (i) sub-paragraph (a) shall apply as if the words “disregarding any intention of M to claim statutory shared parental pay in respect of C” were omitted;
+  - (ii) sub-paragraph (c) shall not apply;
+- (c) in paragraph (3)—
+  - (i) sub-paragraph (a) shall not apply;
+  - (ii) sub-paragraph (d) shall apply as if it read—
+
+    > - (d) P's name, M's name and national insurance number (where this number is known to P), M's address immediately before she died and the date of M's death
+
+    ;
+  - (iii) sub-paragraph (e)(iii) shall not apply;
+- (d) paragraph (4) shall not apply.
+
+(4) In regulation 8 (variation), in paragraph (3)—
+
+- (a) sub-paragraph (a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which P and M have exercised, and the number of weeks P intends to exercise, an entitlement to statutory shared parental pay (birth) in respect of C.
+
+  ;
+- (b) sub-paragraph (b) shall not apply.
+
+(5) In regulation 10 (extent of entitlement)—
+
+- (a) paragraph (1)(b)(ii) shall apply as if the words “M has notified M's intention to claim” to the end read—
+
+  > the number of weeks in which M claimed statutory shared parental pay (birth) in respect of C up to the time of M's death;
+
+  ;
+- (b) paragraph (8) shall apply as if the words “the last day of the latest period” were “the time of M's death”.
+
+**5.** (1) In the case where—
+
+- (a) M dies after she has reduced her maternity allowance period in respect of C under section 35(3A) of the 1992 Act or her maternity pay period in respect of C under section 161(3A) of the 1992 Act; and
+- (b) before M dies P has given the notice and information specified in regulation 7 (notification and evidential requirements relating to father or mother's partner),
+
+then these Regulations apply in respect of any period after M dies subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 8 (variation)—
+
+- (a) paragraph (1) shall apply in relation to the first notice made under that regulation following M's death as if at the end of that paragraph the full stop was omitted and there was added—
+
+  > or, where it is not reasonably practicable for P to satisfy this requirement, by notice in writing given to that employer as soon as reasonably practicable after the death of M, but in any event before that period and which states the date of M's death.
+
+  ;
+- (b) paragraph (3)(a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which P and M have exercised, and the number of weeks P intends to exercise, an entitlement to statutory shared parental pay (birth) in respect of C.
+
+  ;
+- (c) paragraph (3)(b) shall not apply.
+
+(3) In regulation 10 (extent of entitlement)—
+
+- (a) paragraph (1)(b)(ii) shall apply as if the words “M has notified M's intention to claim” to the end read—
+
+  > M claimed in respect of C up to the time of M's death.
+
+  ;
+- (b) paragraph (8) shall apply as if the words “the last day of the latest period” were “the time of M's death”.
+
+#### 6. Death of child
+
+(1) In the case where M has given the notice and information in accordance with regulation 6(1) and then C dies, then in respect of any period after C dies paragraph (2)(f) of regulation 4 (entitlement of mother to statutory shared parental pay) shall not apply, and regulation 8 shall apply in accordance with sub-paragraph (3).
+
+(2) In the case where P has given the notices and information in accordance with regulation and then C dies, then in respect of any period after C dies paragraph (2)(d) of regulation 5 (entitlement of father or partner to statutory shared parental pay) shall not apply and regulation 8 shall apply in accordance with sub-paragraph (3).
+
+(3) Where sub-paragraph (1) or (2) applies, regulation 8 (variation) shall apply as if it read—
+
+> (1) M, or as the case may be, P may cancel the period or periods during which they intend to claim statutory shared parental pay (birth) by notice in writing which is given at least 8 weeks before the first period to be cancelled, or, if this is not reasonably practicable, as soon as reasonably practicable after the death of C, but in any event before that period to the employer who will be liable to pay statutory shared parental pay (birth) to M or P.
+>
+> (2) M and P may each only give one notice under paragraph (1).
+
+.
+
+(4) Where more than one child is born of the same pregnancy—
+
+- (a) sub-paragraphs (2) and (3) only apply where all the children die; and
+- (b) a reference in this paragraph relating to the death of C (however expressed) is to the death of the last of those children to die.
+
+### PART 2 — STATUTORY SHARED PARENTAL PAY (ADOPTION)
+
+#### 7. Entitlement of adopter's partner to statutory shared parental pay (adoption) in the event of the death of adopter before curtailment
+
+(1) In a case where A dies before the end of A's adoption pay period in respect of C and without reducing that period under section 167ZN(2A) of the 1992 Act [^c22710841] then these Regulations apply in respect of any period after A dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 2 a person is to be regarded as falling within the definition of AP if that person would have done so but for the fact that A had died.
+
+(3) In regulation 18 (entitlement of partner to statutory shared parental pay (adoption))—
+
+- (a) paragraph (3)(d) shall not apply;
+- (b) in the case where A dies before A's adoption pay period in respect of C starts, then the condition in paragraph (3)(c) shall be taken to be satisfied if it would have been satisfied but for the fact that A had died.
+
+(4) In regulation 20 (notification and evidential requirements relating to partner)—
+
+- (a) paragraph (1)(a) shall apply as if it read—
+
+  > - (a) paragraphs (2) and (3) at least 8 weeks before the beginning of the first period specified by AP pursuant to paragraph (2)(d) or, where it is not reasonably practicable for AP to satisfy this requirement, as soon as reasonably practicable after the death of A, but in any event before that week;
+
+  ;
+- (b) paragraph (1)(b) and (c) shall not apply;
+- (c) in paragraph (2)—
+  - (i) sub-paragraph (a) shall apply as if the words “disregarding any intention of A to claim statutory shared parental pay (adoption) in respect of C” were omitted;
+  - (ii) sub-paragraph (c) shall not apply;
+- (d) in paragraph (3)—
+  - (i) sub-paragraph (a) shall not apply;
+  - (ii) sub-paragraph (d) shall apply as if it read—
+
+    > - (d) the following information about AP and A—
+    >   - (i) AP's name, A's name and national insurance number (where this number is known to AP), A's address immediately before A died and the date of A's death; and
+    >   - (ii) the start date of A's adoption pay period in respect of C;
+
+    ;
+  - (iii) sub-paragraph (e)(iii) shall not apply;
+- (e) paragraph (4) shall not apply.
+
+(5) In regulation 21 (variation), in paragraph (3)—
+
+- (a) sub-paragraph (a) shall apply as if the reference to A were omitted;
+- (b) sub-paragraph (b) shall not apply.
+
+(6) In regulation 22 (extent of entitlement), paragraph (1)(a) shall apply as if the number of weeks referred to is the number of weeks in which statutory adoption pay was payable to A in respect of C up to the time of A's death.
+
+#### 8. Notification or variation: death of adopter or adopter's partner after curtailment
+
+(1) In the case where—
+
+- (a) AP who in connection with a claim by A would be required to satisfy the conditions in regulation 17(3), dies after A has reduced A's adoption pay period in respect of C under section 167ZN(2A) of the 1992 Act; and
+- (b) before AP dies A has not given the notice and information specified in regulation 19 (notification and evidential requirements relating to the adopter),
+
+then these Regulations apply in respect of any period after AP dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 19 (notification and evidential requirements relating to the adopter)—
+
+- (a) paragraph (1)(a) shall apply as if it read—
+
+  > - (a) paragraphs (2) and (3) at least 8 weeks before the beginning of the first period specified by A pursuant to paragraph (2)(d) or, where it is not reasonably practicable for A to satisfy this requirement, as soon as reasonably practicable after the death of AP but in any event before that period;
+
+  ;
+- (b) paragraph (1)(b) and (c) shall not apply;
+- (c) paragraph (2)(a) shall apply as if the words “disregarding any intention of AP to claim statutory shared parental pay (adoption) in respect of C” were omitted;
+- (d) paragraph (2)(c) shall not apply;
+- (e) paragraph (3)(a) shall not apply;
+- (f) paragraph (3)(d) shall apply as if it read—
+
+  > - (d) A's name, AP's name and national insurance number (where this number is known to A), AP's address immediately before AP died and the date of AP's death; and
+
+  ;
+- (g) paragraph (4) shall not apply.
+
+(3) In regulation 21 (variation), in paragraph (3)—
+
+- (a) sub-paragraph (a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which A and AP have exercised, and the number of weeks A intends to exercise, an entitlement to statutory shared parental pay (adoption) in respect of C;
+
+  ;
+- (b) paragraph (b) shall not apply.
+
+(4) In regulation 22 (extent of entitlement to statutory shared parental pay (adoption))—
+
+- (a) paragraph (1)(b)(i) shall apply as if the words “AP has notified AP's intention to claim” to the end read—
+
+  > the number of weeks in which AP claimed statutory shared parental pay (adoption) in respect of C up to the time of AP's death;
+
+  ;
+- (b) paragraph (5) shall apply as if the words “the last day of the latest period so notified” were “the time of AP's death”.
+
+**9.** (1) In the case where—
+
+- (a) AP, who in connection with A's claim is required to satisfy the conditions specified in regulation 17(3), dies after A has reduced A's adoption pay period under section 167ZN(2A) of the 1992 Act; and
+- (b) before AP dies A has given the notices and information specified in regulation 19 (notification and evidential requirements relating to the adopter),
+
+then these Regulations apply in respect of any period after AP dies, subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 21 (variation)—
+
+- (a) paragraph (1) shall apply in relation to the first notice made under that paragraph following AP's death as if at the end of that paragraph the full stop was omitted and there was added—
+
+  > or, where it is not reasonably practicable for A to satisfy this requirement, by notice in writing given to that employer as soon as reasonably practicable after the death of AP, but in any event before that period and which states the date of AP's death.
+
+  ;
+- (b) paragraph (2)(a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which A and AP have exercised, and the number of weeks A intends to exercise, an entitlement to statutory shared parental pay (adoption) in respect of C;
+
+  ;
+- (c) paragraph (2)(b) shall not apply.
+
+(3) In regulation 22 (extent of entitlement)—
+
+- (a) paragraph (1)(b)(i) shall apply as if the words “AP has notified AP's intention to claim” to the end read “the number of weeks in which AP claimed statutory shared parental pay (adoption) in respect of C up to the time of AP's death;”;
+- (b) paragraph (5) shall apply as if the words “the last day of the latest period so notified” were “the time of AP's death”.
+
+**10.** (1) In the case where—
+
+- (a) A dies after A has reduced A's adoption pay period in respect of C under section 167ZN(2A) of the 1992 Act; and
+- (b) before A dies AP has not given the notice and information specified in regulation 20 (notification and evidential requirements relating to adopter's partner),
+
+then the Regulations apply in respect of any period after A dies subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 2(1) (definitions) a person is to be regarded as falling within the definition of AP if that person would have done so but for the fact that A has died.
+
+(3) In regulation 20 (notification and evidential requirements relating to partner)—
+
+- (a) paragraph (1)(a) shall apply as if it read—
+
+  > - (a) paragraphs (2) and (3) at least 8 weeks before the beginning of the first period specified by AP pursuant to paragraph (2)(d) or if it is not reasonably practicable for AP to satisfy this requirement as soon as reasonably practicable after the death of A, but in any event before that period;
+
+  ;
+- (b) paragraph (1)(b) and (c) shall not apply;
+- (c) paragraph (2)(a) shall apply as if the words “disregarding any intention of A to claim statutory shared parental pay (adoption) in respect of C” were omitted;
+- (d) paragraph (2)(c) shall not apply;
+- (e) paragraph (3)(a) shall not apply;
+- (f) paragraph (3)(d) shall apply as if it read—
+
+  > - (d) AP's name, A's name and national insurance number (where this number is known to AP), A's address immediately before A died and the date of A's death;
+
+  ;
+- (g) paragraph (4) shall not apply.
+
+(4) In regulation 21 (variation), in paragraph (3)—
+
+- (a) sub-paragraph (a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which AP and A have exercised, and the number of weeks AP intends to exercise, an entitlement to statutory shared parental pay (adoption) in respect of C;
+
+  ;
+- (b) sub-paragraph (b) shall not apply.
+
+(5) In regulation 22 (extent of entitlement)—
+
+- (a) paragraph (1)(b)(ii) shall apply as if the words “A has notified A's intention to claim” to the end read—
+
+  > the number of weeks in which A claimed statutory shared parental pay (adoption) in respect of C up to the time of A's death;
+
+  ;
+- (b) paragraph (6) shall apply as if the words “the last day of the latest period so notified” were “the time of A's death”.
+
+**11.** (1) In the case where—
+
+- (a) A dies after A has reduced A's adoption pay period in respect of C under section 167ZN(2A) of the 1992 Act; and
+- (b) before A dies AP has given the notice and information specified in regulation 20 (notification and evidential requirements relating to the partner),
+
+then these Regulations apply in respect of any period after A dies subject to the modifications in the following provisions of this paragraph.
+
+(2) In regulation 21 (variation)—
+
+- (a) paragraph (1) shall apply in relation to the first notice made under that regulation following A's death as if at the end of that paragraph the full stop was omitted and there was added—
+
+  > or, where is it not reasonably practicable for AP to satisfy this requirement, by notice in writing given to that employer as soon as reasonably practicable after the death of A, but in any event before that period and which states the date of A's death.
+
+  ;
+- (b) paragraph (3)(a) shall apply as if it read—
+
+  > - (a) of the number of weeks during which AP and A have exercised, and the number of weeks AP intends to exercise, an entitlement to statutory shared parental pay (adoption) in respect of C.
+
+  ;
+- (c) paragraph (3)(b) shall not apply.
+
+(3) In regulation 22 (extent of entitlement)—
+
+- (a) paragraph (1)(b)(ii) shall apply as if the words “A has notified A's intention to claim” to the end read—
+
+  > the number of weeks in which A claimed statutory shared parental pay (adoption) in respect of C up to the time of A's death.
+
+  ;
+- (b) paragraph (6) shall apply as if the words “the last day of the latest period so notified” were “the time of A's death”.
+
+#### 12. Death of child or disrupted placement[^key-6bcf4050ad796fa0c16b3a2771755022][^key-2881926e1efbf9572969417a29dd2590]
+
+(1) In the case where A has given the notices and information specified in regulation 19(1) and then C dies or is returned after being placed then in respect of any period after C dies or is returned after being placed paragraph (2)(f) of regulation 17 (entitlement of adopter to statutory shared parental pay) shall not apply and regulation 21 shall apply in accordance with sub-paragraph (3).
+
+(2) In the case where AP has given the notices and information specified in regulation 20(1) and then C dies or is returned after being placed then in respect of any period after C dies or is returned after being placed paragraph (2)(d) of regulation 18 (entitlement of adopter to statutory shared parental pay) shall not apply and regulation 21 shall apply in accordance with sub-paragraph (3).
+
+(3) Where sub-paragraph (1) or (2) applies, regulation 21 (variation) shall apply as if it read—
+
+> (1) A or, as the case may be, AP may cancel the period or periods during which they intend to claim statutory shared parental pay (adoption) by notice in writing which is given at least 8 weeks before the first period to be cancelled or, if this is not reasonably practicable, as soon as reasonably practicable after the death of C or after C is returned after being placed, but in any event before that period to the employer who will be liable to pay statutory shared parental pay (adoption) to A or AP.
+>
+> (2) A and AP may each only give one notice under paragraph (1).
+
+.
+
+(4) Where more than one child is placed for adoption as a result of the same placement—
+
+- (a) sub-paragraphs (1) and (2) only apply where all the children die or, as the case may be, all the children are returned after being placed;
+- (b) a reference in this paragraph to the death of C or to the return of C after being placed (however expressed) is to the death of the last of those children to die or is to the last of those children to be returned after being placed.
+
+(5) In this paragraph “**returned after being placed**” means—
+
+- (a) returned to the authority under Article 31(3) of the Adoption (Northern Ireland) Order 1987 [^c22710851];
+- (b) where the child is placed for adoption in the circumstances described in paragraph (b) of the definition of “placed for adoption” in regulation 2(1), returned to the authority following termination of the placement;
+- (c) returned to the adoption agency under sections 31 to 35 of the Adoption and Children Act 2002 [^c22710861];
+- (d) in Scotland, returned to the adoption agency, adoption society or nominated person in accordance with section 25(6) of the Adoption and Children (Scotland) Act 2007 [^c22710871]; or
+- (e) where the child is placed in accordance with section 22C of the Children Act 1989 [^c22710881], returned to the adoption agency following termination of the placement.
+
+*(This note is not part of the Regulations)*
+
+These Regulations introduce a new entitlement for mothers, fathers or the partners of mothers who are employed earners and for adopters and their partners who are employed earners to receive a statutory payment from their employers called statutory shared parental pay.
+
+Part 1 of the Regulations is introductory and in particular specifies for what children the new entitlement arises by reference to the time of their expected week of birth or placement for adoption.
+
+Part 2 (regulations 4 to 16) relates to entitlement to statutory shared parental pay in connection with the birth of a child. Regulations 4 and 5 set out the conditions which a mother, mother's partner or father must satisfy in order to be entitled to this pay. Regulations 6 and 7 detail what notices and information the claimant mother, mother's partner or father must provide. Regulation 8 provides for the claimants to vary their entitlement once they have claimed it. Regulation 9 provides for the modification of the notice provisions in the case of an early birth. Regulation 10 sets out how many weeks of statutory shared parental pay are available to the claimants. Regulation 11 sets out when the pay is not to be paid. Regulations 12 to 15 deal with further circumstances relating to such matters as work or absence from work which mean that pay may, or may not be, payable.
+
+Part 3 (regulations 17 to 28) concerns statutory shared parental pay in connection with adoption. The provisions correspond to the provisions in Part 2.
+
+Part 4 (regulations 29 to 39) sets out the conditions relating to employment and earnings that a claimant and the claimant's partner (or child's father) must satisfy in order for the claimant to be entitled to statutory shared parental pay (regulations 29 to 32). This Part also contains further provisions relating to employment (regulations 33 to 39).
+
+Part 5 (regulations 40 to 48) contains provisions as to the rate of statutory shared parental pay, how it is paid, when it is paid and who pays it.
+
+The Schedule contains provisions modifying the regulations in various cases where a claimant, a claimant's partner or father of the child dies or where the child dies or, in the case of adoption, is returned after being placed.
+
+An impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impacts were assessed within the document ‘Sharing parental rights, extending flexibility at work – public consultation’, published in May 2013 (www.delni.gov.uk/index/consultation-zone/archived-consultations/archived-consultations-2013/working-parents-rights.htm), and supplemented by a further publication in April 2014 (www.delni.gov.uk/index/publications/equality-good-relations/shared-parental-leave-and-pay.htm).
+
+## Annotations
+
+[^c22710381]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 167ZU to section 167ZZ7 were inserted by the [Work and Families Act (Northern Ireland) 2015 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2015/1), [section 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
+
+[^c22710391]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5(4A)(a) was amended by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [Schedule 1](https://www.legislation.gov.uk/nia/2015/1/schedule/1), [paragraph 3(2)](https://www.legislation.gov.uk/nia/2015/1/paragraph/3/2).
+
+[^key-267cb11c96744ee16ef294ce7c178e9a]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/94/regulation/2) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/102/regulation/4)
+
+[^key-44229b2a93d9e55078d5f14c88c3b798]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/94/regulation/2) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/99/regulation/5)
+
+[^c22710401]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); [Article 3(3)](https://www.legislation.gov.uk/nisr/2015/94/article/3/3) was amended by [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429).
+
+[^c22710411]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c22710421]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^c22710431]: Marginal citation: S.R. [1989 No. 253](https://www.legislation.gov.uk/ukcm/1989/253).
+
+[^c22710441]: Marginal citation: “Approved foster parent”, “**approved prospective adopter**” and “**authority**” are defined in section 167ZY(4) of [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), as inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
+
+[^c22710451]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41); [section 22C](https://www.legislation.gov.uk/nisr/2015/94/section/22C) was inserted by the [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [section 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1).
+
+[^c22710461]: Marginal citation: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^c22710471]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); [Articles 107E](https://www.legislation.gov.uk/nisr/2015/94/article/107E) and 107G were inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2).
+
+[^c22710481]: Marginal citation: [Part 12ZC](https://www.legislation.gov.uk/nisr/2015/94/part/12ZC) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
+
+[^c22710491]: Marginal citation: S.R. [1989 No. 253](https://www.legislation.gov.uk/ukcm/1989/253).
+
+[^c22710501]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389).
+
+[^c22710511]: Marginal citation: [S.I. 2005/1313](https://www.legislation.gov.uk/uksi/2005/1313).
+
+[^c22710521]: Marginal citation: [S.S.I. 2009/154](https://www.legislation.gov.uk/ssi/2009/154).
+
+[^c22710531]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^c22710541]: Marginal citation: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959), amended for relevant purposes by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
+
+[^c22710551]: Marginal citation: [S. I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389), amended for relevant purposes by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
+
+[^c22710561]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); [paragraph 12F](https://www.legislation.gov.uk/nisr/2015/94/paragraph/12F) was inserted by [2008 c. 23](https://www.legislation.gov.uk/ukpga/2008/23), [Schedule 1](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1), [paragraph 4](https://www.legislation.gov.uk/ukpga/2008/23/paragraph/4).
+
+[^c22710571]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389): amended for relevant purposes by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
+
+[^key-7b111dcee64be1c17f986b55396e6fd4]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/94/regulation/3) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/102/regulation/5)
+
+[^key-1f3b8b3b39b3a23c82a932c079b70151]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/94/regulation/3) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/99/regulation/6)
+
+[^c22710581]: Marginal citation: [Section 161(3A)](https://www.legislation.gov.uk/nisr/2015/94/section/161/3A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(4)](https://www.legislation.gov.uk/nia/2015/1/section/6/4).
+
+[^c22710591]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
+
+[^c22710601]: Marginal citation: [Section 35(3A)](https://www.legislation.gov.uk/nisr/2015/94/section/35/3A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(2)](https://www.legislation.gov.uk/nia/2015/1/section/6/2).
+
+[^c22710611]: Marginal citation: The word “employer” is construed in accordance with section 167ZZ7(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+[^c22710621]: Marginal citation: [Section 35(3)(a)(i)](https://www.legislation.gov.uk/nisr/2015/94/section/35/3/a/i) was amended by the [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), [Schedule 1](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1), [paragraph 5](https://www.legislation.gov.uk/nisi/2006/1947/paragraph/5).
+
+[^c22710631]: Marginal citation: [Section 161(4)](https://www.legislation.gov.uk/nisr/2015/94/section/161/4) was amended by [S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947), [Schedule 1](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1), [paragraph 6(3)](https://www.legislation.gov.uk/nisi/2006/1947/paragraph/6/3).
+
+[^key-beed59431b5d3c0d86c901c39e2ba530]: Modification: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/94/regulation/17) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [6](https://www.legislation.gov.uk/nisr/2015/102/regulation/6)
+
+[^key-a609198a1366816664bd3884b8064d16]: Modification: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/94/regulation/17) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/99/regulation/7)
+
+[^c22710641]: Marginal citation: [Section 167ZN(2A)](https://www.legislation.gov.uk/nisr/2015/94/section/167ZN/2A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(6)](https://www.legislation.gov.uk/nia/2015/1/section/6/6).
+
+[^key-3ab7cb8360a0aec80d943112874c329f]: Modification: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/94/regulation/18) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/102/regulation/7)
+
+[^key-3738d15ba5b319d8d3d89fee92cfc75f]: Modification: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/94/regulation/18) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/99/regulation/8)
+
+[^key-8af3212f5071305bd35511b4a52a770e]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/94/regulation/19) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/102/regulation/8)
+
+[^key-481233fd80bded62364528502d874c47]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/94/regulation/19) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/99/regulation/9)
+
+[^key-f701925a826084fb0490e3e5d1debe7e]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/94/regulation/20) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/102/regulation/9)
+
+[^key-95a44c13211b5c7f1ffb69d9cb661b95]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/94/regulation/20) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/99/regulation/10)
+
+[^key-5e4a54d850450f3d0ba21fbdaf6e5c96]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/94/regulation/21) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/102/regulation/10)
+
+[^c22710651]: Marginal citation: [Section 167ZN](https://www.legislation.gov.uk/nisr/2015/94/section/167ZN) was inserted by the [Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836), [section 6](https://www.legislation.gov.uk/nisi/2002/2836/section/6), and amended by [S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947), [Schedule 1](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1), [paragraph 20(2)](https://www.legislation.gov.uk/nisi/2006/1947/paragraph/20/2) and (3).
+
+[^key-f49705e2dea3927ccc5cb4efa65e3c19]: Modification: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/94/regulation/23) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/102/regulation/11)
+
+[^key-ecda89e2bcbd7dccb15984c412c977fd]: Modification: [Reg. 23](https://www.legislation.gov.uk/nisr/2015/94/regulation/23) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/99/regulation/11)
+
+[^key-620b22c2c4be69455d92db2d50feec9c]: Modification: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/94/regulation/24) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/102/regulation/12)
+
+[^key-44c89486b2678b22adbbac163e7fa510]: Modification: [Reg. 24](https://www.legislation.gov.uk/nisr/2015/94/regulation/24) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/99/regulation/12)
+
+[^key-8352d9159323c8e0f974dce392651e17]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/94/regulation/29) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [13](https://www.legislation.gov.uk/nisr/2015/102/regulation/13)
+
+[^key-71242791f4121df31b9f24962b9f967b]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2015/94/regulation/29) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [13](https://www.legislation.gov.uk/nisr/2015/99/regulation/13)
+
+[^c22710661]: Marginal citation: References to “employed earner's employment” are construed in accordance with section 2(3) of the [Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^c22710671]: Marginal citation: [Section 35A(6A)](https://www.legislation.gov.uk/nisr/2015/94/section/35A/6A) was inserted by the [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [Schedule 1](https://www.legislation.gov.uk/nia/2002/10/schedule/1), [paragraph 2(c)](https://www.legislation.gov.uk/nia/2002/10/paragraph/2/c).
+
+[^c22710681]: Marginal citation: [Section 2](https://www.legislation.gov.uk/nisr/2015/94/section/2) was amended by the [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Schedule 6(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/2), [paragraph 171](https://www.legislation.gov.uk/ukpga/2003/1/paragraph/171).
+
+[^c22710691]: Marginal citation: S.R. [2000 No. 104](https://www.legislation.gov.uk/ukcm/2000/104), amended by S.R. [2002 No. 359](https://www.legislation.gov.uk/ukcm/2002/359) and [S.I. 2007/1154](https://www.legislation.gov.uk/uksi/2007/1154).
+
+[^c22710701]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), to which there are amendments not relevant to these Regulations.
+
+[^key-d30ecb44793ff3c87f8a5cd65bb96487]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/nisr/2015/94/regulation/30/1A)[(1B)](https://www.legislation.gov.uk/nisr/2015/94/regulation/30/1B) inserted (3.4.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/133)](https://www.legislation.gov.uk/nisr/2016/133), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/3/2)
+
+[^key-289067ab6a1b8b4f986328bc3ca3a01f]: Modification: Reg. 31 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/102/regulation/14)
+
+[^key-716e82985161715e16d1906e4b9caa5e]: Modification: Reg. 31 applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/99/regulation/14)
+
+[^key-cbb86560ecd70fb9b6104b2ab02e7227]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/nisr/2015/94/regulation/31/1A)[(1B)](https://www.legislation.gov.uk/nisr/2015/94/regulation/31/1B) inserted (3.4.2016) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/133)](https://www.legislation.gov.uk/nisr/2016/133), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/133/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2016/133/regulation/3/3)
+
+[^key-7a079921c73245dbd9c5b9a9b4809a40]: Modification: Reg. 32 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/102/regulation/15)
+
+[^key-8bcebd4d30cdcea581f17e6bc09fe4fc]: Modification: Reg. 32 applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/99/regulation/15)
+
+[^key-7f5ecb808277b7205127d593a1811bb9]: Textual amendment: Reg. 32(6A)-(6C) inserted (25.4.2020) by [The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/70)](https://www.legislation.gov.uk/nisr/2020/70), [regs. 1](https://www.legislation.gov.uk/nisr/2020/70/regulation/1), [4](https://www.legislation.gov.uk/nisr/2020/70/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/nisr/2020/70/regulation/2))
+
+[^c22710711]: Marginal citation: Section 10A was inserted by the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), [Article 50](https://www.legislation.gov.uk/nisi/1998/1506/article/50).
+
+[^c22710721]: Marginal citation: Section 4B was inserted by the [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [section 2(1)](https://www.legislation.gov.uk/ukpga/2006/10/section/2/1).
+
+[^c22710731]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 217(1) was substituted by, Article 217(1A) and (1B) was inserted by and paragraph (4) was amended by S.R. [1999 No. 432](https://www.legislation.gov.uk/ukcm/1999/432).
+
+[^c22710741]: Marginal citation: S.R. [1978 No. 401](https://www.legislation.gov.uk/ukcm/1978/401), amended for relevant purposes by S.R. [1980 No. 405](https://www.legislation.gov.uk/ukcm/1980/405), S.R. [1990 No. 339](https://www.legislation.gov.uk/ukcm/1990/339), S.R. [1994 No. 92](https://www.legislation.gov.uk/ukcm/1994/92), S.R. [1998 No. 250](https://www.legislation.gov.uk/ukcm/1998/250), [S.I](https://www.legislation.gov.uk/ukcm/1998/250/section/I). 2003/733, S.I 2003/2421, 2004/770, [S.I. 2005/3134](https://www.legislation.gov.uk/uksi/2005/3134), [S.I](https://www.legislation.gov.uk/uksi/2005/3134/section/I). 2006/1531 and [S.I. 2014/635](https://www.legislation.gov.uk/uksi/2014/635).
+
+[^c22710751]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
+
+[^c22710761]: Marginal citation: [Article 142](https://www.legislation.gov.uk/nisr/2015/94/article/142) was amended by the [Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998 (S.I. 1998/1265 (N.I. 8))](https://www.legislation.gov.uk/nisi/1998/1265), [Article 13(1) to (3)](https://www.legislation.gov.uk/nisi/1998/1265/article/13/1) and (5).
+
+[^c22710771]: Marginal citation: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921).
+
+[^c22710781]: Marginal citation: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^c22710791]: Marginal citation: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17).
+
+[^key-1ba4924079fac7c2d5ab48f94070db81]: Textual amendment: Sum in [reg. 40(1)(a)](https://www.legislation.gov.uk/nisr/2015/94/regulation/40/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [10(2)](https://www.legislation.gov.uk/nisr/2026/59/article/10/2)
+
+[^c22710801]: Marginal citation: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671); [Article 7(1)](https://www.legislation.gov.uk/nisr/2015/94/article/7/1) was amended by 2006 ([S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947)), Schedule 1, paragraph 43(1) and (2) and by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [Schedule 1](https://www.legislation.gov.uk/nia/2015/1/schedule/1), [paragraph 5(1)](https://www.legislation.gov.uk/nia/2015/1/paragraph/5/1) and (2).
+
+[^c22710811]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
+
+[^c22710821]: Marginal citation: Section 35(3A) was inserted by section 6(2) of the Work and Families Act (Northern Ireland) 2015.
+
+[^c22710831]: Marginal citation: Section 161(3A) was inserted by section 6(4) of the Work and Families Act (Northern Ireland) 2015.
+
+[^c22710841]: Marginal citation: Section 167ZN(2A) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 6(6)](https://www.legislation.gov.uk/nia/2015/1/section/6/6).
+
+[^key-6bcf4050ad796fa0c16b3a2771755022]: Modification: Sch. para. 12 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/102)](https://www.legislation.gov.uk/nisr/2015/102), [regs. 1](https://www.legislation.gov.uk/nisr/2015/102/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/102/regulation/16)
+
+[^key-2881926e1efbf9572969417a29dd2590]: Modification: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2015/94/schedule/paragraph/12) applied (with modifications) (5.4.2015) by [The Statutory Shared Parental Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/99)](https://www.legislation.gov.uk/nisr/2015/99), [regs. 1](https://www.legislation.gov.uk/nisr/2015/99/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/99/regulation/16)
+
+[^c22710851]: Marginal citation: [S.I. 1987/2203](https://www.legislation.gov.uk/uksi/1987/2203); Article 31(3) was amended by the [Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2))](https://www.legislation.gov.uk/nisi/1995/755), [Schedule 9](https://www.legislation.gov.uk/nisi/1995/755/schedule/9), [paragraph 154(2)](https://www.legislation.gov.uk/nisi/1995/755/paragraph/154/2).
+
+[^c22710861]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c22710871]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^c22710881]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41); section 22C was inserted by section 8(1) of the [Children and Young Persons Act 2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23).

@@ -1,0 +1,669 @@
+---
+title: The Social Security (Amendment) (Residential Care and Nursing Homes) Regulations (Northern Ireland) 2002
+id: nisr/2002/132
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-03-29'
+text_date: '2010-01-25'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/132
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/132/pdfs/nisr_20020132_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/132/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Amendment) (Residential Care and Nursing Homes) Regulations (Northern Ireland) 2002
+
+> Text as at 2010-01-25.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 132
+
+SOCIAL SECURITY
+
+The Social Security (Amendment) (Residential Care and Nursing Homes) Regulations (Northern Ireland) 2002
+
+Made
+
+29th March 2002
+
+Coming into operation
+
+8th April 2002
+
+The Department for Social Development, in exercise of the powers conferred on it by sections 5(1)(*q*) and 165(4) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], sections 67(2), 72(8), 122(1)(*a*), 123(1)(*e*), 131(1), 132(2) and (4)(*a*) and (*b*), 133(2)(*d*) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], Articles 6(5), 14(4)(*a*) and (*b*), 15(3), 23 of, and paragraph 1(2)(*b*) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00003], Article 12(1) of the Social Security (Northern Ireland) Order 1998[^f00004], and now vested in it[^f00005], and section 3 of the Personal Social Services (Preserved Rights) Act (Northern Ireland) 2002[^f00006], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-018aec391ebb5a27b171c3e12dc1e05f]
+
+(1) These Regulations may be cited as the Social Security (Amendment) (Residential Care and Nursing Homes) Regulations (Northern Ireland) 2002 and shall come into operation on 8th April 2002.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendments to Regulations[^key-80d945315b9748aa515d11baa0a5d88c]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00008] shall be amended in accordance with Part I of the Schedule to these Regulations.
+
+(2) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009] shall be amended in accordance with Part II of the Schedule to these Regulations.
+
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-5aa80386f984235de56a6903abb0b596]
+
+(1)[^M_F_a695f387-c10b-4071-a150-3da63c99a993] Schedule 8A to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993][^f00010] (deductions from benefits and direct payment to third parties) shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+
+(2)[^key-a017846646f1aa60bb8242d5413fa735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In paragraph 4 (miscellaneous accommodation costs)— *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+
+- (a)[^key-b77ddbe8ada0d5aa5922ac2f67d95673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in sub-paragraph (1)( *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]*b*)[^f00013], “Schedule 4 (applicable amounts of persons in residential care homes and nursing homes) or” and “Schedule 3 (applicable amounts of persons in residential care and nursing homes) or” shall be omitted; *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+- (c) in sub-paragraph (2)— *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+  - (i) head ( *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]*a*) shall be omitted; *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+  - (ii (affected by repeal, see note))[^M_F_a695f387-c10b-4071-a150-3da63c99a993] in head ( *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]*ab *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]*)[^f00014]—
+    - (aa (affected by repeal, see note))[^M_F_a695f387-c10b-4071-a150-3da63c99a993] for the words from “does not have a preserved right” to “1972” there shall be substituted “is not in residential accommodation for the purposes of the Income Support Regulations or, as the case may be, for the purposes of the Jobseeker’s Allowance Regulations,”; *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+    - (bb (affected by repeal, see note))[^M_F_a695f387-c10b-4071-a150-3da63c99a993] for the words from “will equal the aggregate of the amounts” to the end of the head there shall be substituted “will equal the amount prescribed in respect of personal expenses in paragraph 13(1) of Schedule 7 to the Income Support Regulations or, as the case may be, in paragraph 15(1) of Schedule 4 or paragraph 9(1) of Schedule 4A to the Jobseeker’s Allowance Regulations;”. *(affected by repeal, see note)*[^M_F_a695f387-c10b-4071-a150-3da63c99a993]
+
+## 4. Amendment of the Social Security (Attendance Allowance) Regulations[^key-ec98de96854283078e53516523e30900]
+
+(1) The Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00015] shall be amended in accordance with paragraphs (2) to (4).
+
+(2)[^key-0d43e7c4664deedb45aeb49f374bb2a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Regulation 7A[^f00019] (persons to whom regulations 7 and 8 apply with modifications) shall be omitted.
+
+(4) Schedule 2[^f00020] (persons to whom regulations 7 and 8 apply with modifications) shall be omitted.
+
+## 5. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-642b5c78a9115ca5b0d654bddc39b90d]
+
+(1) The Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00021] shall be amended in accordance with paragraphs (2) to (4).
+
+(2)[^key-9cb582df91fa5a1dac573331aa1bff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Regulation 9A[^f00025] (persons to whom regulations 9 and 10 apply with modifications) shall be omitted.
+
+(4) Schedule 2A[^f00026] (persons to whom regulations 9 and 10 apply with modifications) shall be omitted.
+
+## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-74f68ed57d23b6270d053bc7014905e1]
+
+In Schedule 2A to the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00027] (date on which change of circumstances takes effect in certain cases where a claimant is in receipt of income support or a jobseeker’s allowance)—
+
+- (a) after paragraph 3(*a*), there shall be inserted the following sub-paragraph—
+
+  > - (aa) income support is being paid from 8th April 2002 to persons who, immediately before that day, had a preserved right for the purposes of the Income Support Regulations;
+
+  ;
+- (b) after paragraph 8(*a*), there shall be inserted the following sub-paragraph—
+
+  > - (aa) jobseeker’s allowance is being paid from 8th April 2002 to persons who, immediately before that day, had a preserved right for the purposes of the Jobseeker’s Allowance Regulations;
+
+  .
+
+Sealed with the Official Seal of the Department for Social Development on 29th March 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+## SCHEDULE
+
+Regulation 2
+
+### Part I — Amendments to the Income Support (General) Regulations
+
+**1.**[^key-03aa91296095585c645ce85f6c4228e1] In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) for the definitions of “nursing home” and “residential care home”[^f00028] there shall be substituted the following definitions—
+
+    > - “nursing home” means—
+    >   - (a) any premises registered under Part III of the Registered Homes Order; or
+    >   - (b) any premises used for the reception of such persons or the provision of such nursing or services as is mentioned in Article 16 of the Registered Homes Order and which are maintained or controlled by any body of persons constituted by a statutory provision or incorporated by Royal Charter;
+
+    ;
+
+- “residential care home” means an establishment—
+  - (a) which is required to be registered under Part II of the Registered Homes Order and is so registered;
+  - (b) run by the Abbeyfield Society including all bodies corporate or incorporate which are affiliated to that Society;
+  - (c) which provides residential accommodation with both board and personal care and is managed or provided by a body incorporated by Royal Charter or constituted by a statutory provision (other than a Health and Social Services Board or an HSS trust); or
+  - (d) which is exempt from registration under Part II of the Registered Homes Order pursuant to Article 4(4)(*a*) of that Order (requirement of registration) because one or more of the residents are treated as relatives pursuant to Article 2(6) of that Order,
+
+  and in paragraph (*c*) “personal care” means personal care for persons in need of personal care by reason of old age and infirmity, disablement, past or present dependence on alcohol or drugs or past or present mental disorder;”;
+
+  - (ii) in the definition of “residential accommodation”[^f00029], “regulation 19 and” shall be omitted;
+  - (iii) the definition of “preserved right”[^f00030] shall be omitted;
+  - (b) after paragraph (1) there shall be inserted the following paragraph—
+
+    > (1A) For the purposes of these Regulations, where a person’s principal place of residence is a residential care home or a nursing home and he is temporarily absent from that home, he shall be regarded as continuing to reside in that home—
+    >
+    > - (a) where he is absent because he is a patient, for the first 6 weeks of any such period of absence and for this purpose—
+    >   - (i) “patient” has the meaning it has in Schedule 7 by virtue of regulation 21(3), and
+    >   - (ii) periods of absence separated by not more than 28 days shall be treated as a single period of absence equal in duration to all those periods, and
+    > - (b) for the first 3 weeks of any other period of absence.
+
+    .
+
+**2.**[^key-368c58e732564dea4beb9faefc796491] In regulation 6(4)[^f00031] (persons not treated as in remunerative work), for sub-paragraph (*d*) there shall be substituted the following sub-paragraph—
+
+> - (d) a person who is in employment, who lives in, or is temporarily absent from, a residential care home, a nursing home or residential accommodation and who requires personal care by reason of old age and infirmity, disablement, past or present dependence on alcohol or drugs, past or present mental disorder or a terminal illness.
+
+.
+
+**3.**[^key-e29c7ee9a2cdb8471a77fdfa5a40620d] In regulation 17(4)(*a*)(iii) (applicable amounts), for “either of the provisions referred to in sub-paragraph (*a*) or (*b*) of” there shall be substituted “the provisions referred to in”.
+
+**4.**[^key-1b059392d4be76aa361e0da23644bc88] In regulation 18(1)[^f00032] (polygamous marriages), for “regulations 19” there shall be substituted “regulations 21”.
+
+**5.**[^key-6ee05a15f4c5e11ed9bbdeb876ee9f29] Regulation 19 (persons in homes for persons in need and nursing homes) shall be omitted.
+
+**6.**[^key-3fd095688f0640385bb48b9d936b1c5f] In regulation 21 (special cases)—
+
+- (a) in paragraph (1)[^f00033], after “Subject to” there shall be inserted “paragraph (1B),”;
+- (b) after paragraph (1A)[^f00034] there shall be inserted the following paragraph—
+
+  > (1B) An amount shall only be applicable under paragraph 10A[^f00035], 10B[^f00036], 10C[^f00037] or 13 of Schedule 7 (applicable amounts in special cases) where an amount was applicable to a person under any of those paragraphs on 7th April 2002 and shall only continue to be applicable to that person after that date for so long as the relevant conditions in column (1) of that Schedule continue to apply to him.
+
+  ;
+- (c) in paragraph (3A)[^f00038] “within the meaning of regulation 19(2) (persons in residential care homes and nursing homes)” shall be omitted.
+
+**7.**[^key-a05581b59492ab4468d623600e19ecbb] In regulation 22A(1)[^f00039] (reduction in applicable amount where the claimant is appealing against a decision which embodies a determination that he is not incapable of work), sub-paragraph (*b*) shall be omitted.
+
+**8.**[^key-91ce2d1dcf81a00941f02fe8f01b06e0] In regulation 51(3)(*a*)(ii) (notional capital)[^f00040], “or accommodation charge to the extent that it is met under regulation 19 (persons in residential care homes and nursing homes)” shall be omitted.
+
+**9.**[^key-a2be8d0ffb7e9e5d03d010895da21976] In regulation 66B(3)[^f00041] (treatment of payments from access funds)—
+
+- (a) for “, any housing costs” there shall be substituted “or any housing costs”;
+- (b) “or any accommodation charges to the extent that they are met under regulation 19 (persons in homes for persons in need and nursing homes)” shall be omitted.
+
+**10.**[^key-4d2146989822956de8e1d97ac03da9fc] In regulation 68(3)[^f00042] (income treated as capital)—
+
+- (a) for “, any housing costs” there shall be substituted “or any housing costs”;
+- (b) “or any accommodation charges to the extent that they are met under regulation 19 (persons in homes for persons in need and nursing homes)” shall be omitted.
+
+**11.**[^key-afcc90a8b7e1d12bb230f21a92958b04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-4652e2548eecfec0680972c1168685cb] In regulation 73 (amount of income support payable)—
+
+- (a) in paragraph (3), in “A”, “, subject to paragraph (4),” shall be omitted;
+- (b) paragraphs (2), (4) and (5) shall be omitted.
+
+**13.**[^key-d32a1e18c839ed893a23b15ddaf631c1] In paragraph 2A[^f00043] of Schedule 2 (applicable amounts: residential allowance)—
+
+- (a) in sub-paragraph (1), after “shall” there shall be inserted “, subject to sub-paragraph (6),”;
+- (b) in sub-paragraph (2)[^f00044]—
+  - (i) for “(3), (4) and (4A)” there shall be substituted “(3) and (4)”;
+  - (ii) in head (*a*), “, pursuant to sub-paragraph (4A),” shall be omitted;
+  - (iii) head (*b*) shall be omitted;
+- (c) in sub-paragraph (3), for “for the purposes of regulation 19” there shall be substituted “within the meaning of regulation 2(1)”;
+- (d) sub-paragraph (4A)[^f00045] shall be omitted;
+- (e) after sub-paragraph (5) there shall be added the following sub-paragraph—
+
+  > (6) An amount shall only be applicable under this paragraph where an amount was applicable to a person under this paragraph on 7th April 2002 and shall only continue to be applicable to that person after that date for so long as he continues to satisfy the conditions specified in sub-paragraph (2).
+
+  .
+
+**14.**[^key-6adc2d25f8bd26085bbd329763f8bf2d] Schedule 4 (applicable amounts of persons in homes for persons in need and nursing homes) shall be omitted.
+
+**15.**[^key-8b24c91087942905c0156f7e4784620b] In Schedule 7 (applicable amounts in special cases)—
+
+- (a)[^key-cd738959267946454ececfb0e56b12cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in column (1) of paragraph 3, “Subject to paragraph 16—” shall be omitted;
+- (c) in column (1) of paragraph 10A[^f00047], “sub-paragraph (*a*) or (*b*) (excluding heads (i) and (ii) of those sub-paragraphs) of” shall be omitted;
+- (d) in paragraph 10B(1)[^f00048]—
+  - (i) in column (1), “sub-paragraph (*a*) or (*b*) (excluding heads (i) and (ii) of those sub-paragraphs) of” shall be omitted;
+  - (ii) in column (2), “, 19” shall be omitted;
+- (e) in column (2) of paragraph 11[^f00049], “or 19” shall be omitted from each place where it appears;
+- (f) in column (2) of paragraph 11A[^f00050], “, 19” shall be omitted from each place where it appears;
+- (g) in column (2) of paragraph 12[^f00051], “, 19” shall be omitted from each place where it appears;
+- (h) in column (2) of paragraph 12A[^f00052], “, 19” shall be omitted from each place where it appears;
+- (i) paragraph 14 shall be omitted;
+- (j) in column (2) of paragraph 14A[^f00053], “19 or” shall be omitted in each place where it appears;
+- (k) paragraph 16 shall be omitted;
+- (l) in column (2) of paragraph 17A[^f00054], in sub-paragraph (2), “or Schedule 4 (applicable amounts of persons in homes for persons in need and nursing homes)” shall be omitted.
+
+**16.**[^key-301604a17a495a1c51528a5a608477c5] In Schedule 8 (sums to be disregarded in the calculation of earnings)—
+
+- (a) in paragraph 4(2), (3)(*a*)(ii) and (4)(*a*)[^f00055] “or in accommodation in a residential care home or nursing home” shall be omitted;
+- (b) in paragraph 15(*a*)[^f00056], “, or but for his accommodation in a home for persons in need or nursing home would be,” shall be omitted.
+
+**17.**[^key-f01d9b298b09fccc0f6ade35008e80a1] In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 9[^f00057], the words from “, but, where” to the end shall be omitted;
+- (b)[^key-04f806c54be6bbf8c6d4e4fbb06d6a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-04f806c54be6bbf8c6d4e4fbb06d6a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in paragraph 15B[^f00062], head (*a*) in sub-paragraph (1) shall be omitted;
+- (e) in paragraph 30(1)(*e*), for “increased, where appropriate, in accordance with paragraph 2 of Schedule 4 (applicable amounts of persons in residential care homes and nursing homes) exceeds the amount determined in accordance with regulation 19 (residential care and nursing homes) or” there shall be substituted “exceeds”;
+- (f) in paragraph 30A[^f00063]—
+  - (i) in sub-paragraph (2), “, or whose applicable amount falls to be calculated in accordance with regulation 19” shall be omitted;
+  - (ii) in sub-paragraph (3), for head (*a*) there shall be substituted the following head—
+
+    > - (a) the claimant’s applicable amount; and
+
+    ;
+- (g) in paragraph 67(2)[^f00064], “or any accommodation charges to the extent that they are met under regulation 19 (persons in residential care or nursing homes)” shall be omitted.
+
+**18.**[^key-b28e514e8cd2521bfde622159444ba7b] In paragraph 54(2)[^f00065] of Schedule 10[^f00066] (capital to be disregarded), “or any accommodation charges to the extent that they are met under regulation 19 (persons in residential care or nursing homes)” shall be omitted.
+
+### Part II — Amendments to the Jobseeker’s Allowance Regulations
+
+**1.**[^key-b6fa7cd1296213aeec546f77c8ed7dba] In regulation 1 (interpretation)—
+
+- (a) in paragraph (2), the definition of “preserved rights” shall be omitted;
+- (b) after paragraph (2E)[^f00067], there shall be inserted the following paragraph—
+
+  > (2F) For the purposes of these Regulations, where a person’s principal place of residence is a residential care home or a nursing home and he is temporarily absent from that home, he shall be regarded as continuing to reside in that home—
+  >
+  > - (a) where he is absent because he is a patient, for the first 6 weeks of any such period of absence and for this purpose—
+  >   - (i) “patient” has the meaning it has in Schedule 4 by virtue of regulation 85, and
+  >   - (ii) periods of absence separated by not more than 28 days shall be treated as a single period of absence equal in duration to all those periods, and
+  > - (b) for the first 3 weeks of any other period of absence.
+
+  .
+
+**2.**[^key-6a28e97ec879e74bf04ceb495e6f52e2] In regulation 53 (persons treated as not engaged in remunerative work), for paragraph (*c*) there shall be substituted the following paragraph—
+
+> - (c) he is in employment, lives in, or is temporarily absent from, a residential care home, a nursing home or residential accommodation and requires personal care by reason of old age and infirmity, disablement, past or present dependence on alcohol or drugs, past or present mental disorder or a terminal illness;
+
+.
+
+**3.**[^key-5cc418f49af2bfba5764972a73301a05] In regulation 82[^f00068] (income-based jobseeker’s allowance)—
+
+- (a) in paragraph (1), for “86” there shall be substituted “85”;
+- (b) in paragraph (2), for “86D” there shall be substituted “86C”.
+
+**4.**[^key-b8062e25cca38c9db635ea61c294dfff] In regulation 83 (applicable amounts), “or 86” shall be omitted.
+
+**5.**[^key-bd74cb9ce7c4c48061ee24a276e5f1e3] In regulation 84(1) (polygamous marriages), for “, 85” there shall be substituted “or 85” and “or 86” and “and for those in residential care and nursing homes” shall be omitted.
+
+**6.**[^key-3f27f11f7643524c343bbf8cfecea999] In regulation 85 (special cases)—
+
+- (a) at the beginning of paragraph (1), there shall be inserted “Subject to paragraph (2A),”;
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) An amount shall only be applicable under paragraph 7, 8, 9 or 15 of Schedule 4 where an amount was applicable to a person under any of those paragraphs on 7th April 2002 and shall only continue to be applicable to that person after that date for so long as the relevant conditions in column (1) of that Schedule continue to apply to him.
+
+  .
+
+**7.**[^key-cbd65c96694abc004c7cffeb9fc975b3] Regulation 86 (applicable amounts for persons in residential care and nursing homes) shall be omitted.
+
+**8.**[^key-b5c3e8447db96eff64d5663b85ab16e8] In both regulations 86A (applicable amounts for joint-claim couples) and 86B[^f00069] (applicable amounts for joint-claim couples: polygamous marriages), for “, 86C (special cases)” there shall be substituted “or 86C” and “or 86D (members of joint-claim couples in residential care and nursing homes)” shall be omitted.
+
+**9.**[^key-ecdb0756cfc57c0cc2f713d9b7e24492] In regulation 86C[^f00070] (joint-claim couples: special cases)—
+
+- (a) at the beginning of paragraph (1), there shall be inserted “Subject to paragraph (2A),”;
+- (b) after paragraph (2), there shall be inserted the following paragraph—
+
+  > (2A) An amount shall only be applicable under paragraph 6 or 9 of Schedule 4A where an amount was applicable to a joint-claim couple under either of those paragraphs on 7th April 2002 and shall only continue to be applicable to that couple after that date for so long as the relevant conditions in column (1) of that Schedule continue to apply to that couple.
+
+  .
+
+**10.**[^key-3096dfd548d9c114b0c9669146f2742d] Regulation 86D[^f00071] (applicable amount for a joint-claim couple where a member is in a residential care or nursing home) shall be omitted.
+
+**11.**[^key-c61bc8d00c913013a52bddc4ed404239] In regulation 113(3)(*a*)(ii)[^f00072] (notional capital)—
+
+- (a) for “is payable,” there shall be substituted “is payable”;
+- (b) “or accommodation charge to the extent that it is met under regulation 86 (persons in residential care or nursing homes)” shall be omitted.
+
+**12.**[^key-01da7a8f31904dfb6f27e0379c5d5611] In regulation 136A(3)[^f00073] (treatment of payments from access funds)—
+
+- (a) for “, any housing costs” there shall be substituted “or any housing costs”;
+- (b) “or any accommodation charges to the extent that they are met under regulation 86 (applicable amounts for persons in residential care and nursing homes)” shall be omitted.
+
+**13.**[^key-ae9e3c67a7b45ffb7afdd99e6b915214] In regulation 138(3)[^f00074] (income treated as capital)—
+
+- (a) for “, any housing costs” there shall be substituted “or any housing costs”;
+- (b) “or any accommodation charges to the extent that they are met under regulation 86 (applicable amounts for persons in residential care and nursing homes)” shall be omitted.
+
+**14.**[^key-5b89c6ab5bbdb1577b2e471c7c52e7aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-bb74d70399a042bde9c71cb01a95deb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-ce771509923fad7ae9d3cbe162d150c1] Regulation 151 (amount of jobseeker’s allowance payable where a person is in a residential care or nursing home) shall be omitted.
+
+**17.**[^key-4b1aaee2a9707ac11a10aa9362283a26] In paragraph 3 of Schedule 1 (applicable amounts: residential allowance)—
+
+- (a) in sub-paragraph (1)[^f00076], after “shall” there shall be inserted “, subject to sub-paragraph (7),”;
+- (b) in sub-paragraph (2)—
+  - (i) for “(3), (4) and (5)” there shall be substituted “(3) and (4)”;
+  - (ii) in head (*a*), “, pursuant to sub-paragraph (5),” shall be omitted;
+  - (iii) head (*c*) shall be omitted;
+- (c) sub-paragraph (5) shall be omitted;
+- (d) after sub-paragraph (6) there shall be added the following sub-paragraph—
+
+  > (7) An amount shall only be applicable under this paragraph where an amount was applicable to a person under this paragraph on 7th April 2002 and shall only continue to be applicable to that person after that date for so long as he continues to satisfy the conditions specified in sub-paragraph (2).
+
+  .
+
+**18.**[^key-827ce88d195ab5057a308970950ff582] Schedules 3 (applicable amounts of persons in residential care and nursing homes) and 3A[^f00077] (applicable amount of a joint-claim couple where a member is in a residential care or nursing home) shall be omitted.
+
+**19.**[^key-4a7c17af695c2d987d88debc32d8bf73] In Schedule 4 (applicable amounts in special cases)—
+
+- (a) in column (2) of paragraph 8(1), for “, 85 or 86” there shall be substituted “or 85”;
+- (b) in column (2) of paragraph 10[^f00078]—
+  - (i) “or 86” shall be omitted from each place where it appears;
+  - (ii) “, as the case may be,” shall be omitted from each place where it appears;
+- (c) in column (2) of paragraph 11, “or 86, as the case may be,” shall be omitted from each place where it appears;
+- (d) in column (2) of paragraph 13A[^f00079]—
+  - (i) “or 86” shall be omitted from each place where it appears;
+  - (ii) “as the case may be,” shall be omitted;
+- (e) paragraphs 16 and 17 shall be omitted;
+- (f) in column (2) of paragraph 17A[^f00080]—
+  - (i) in head (*a*)[^f00081], “or 86 (applicable amounts for persons in residential care and nursing homes)” shall be omitted;
+  - (ii) in head (*b*), “or 86” shall be omitted.
+
+**20.**[^key-1c414924a86cb6d876fe1126102d34f0] In Schedule 4A[^f00082] (applicable amounts of joint-claim couples in special cases)—
+
+- (a) in column (2) of paragraph 6(1), for “, 85 or 86” there shall be substituted “or 85”;
+- (b) in column (2) of paragraph 7—
+  - (i) in head (*a*), “or 86D” shall be omitted;
+  - (ii) in head (*b*), “or 86D, as the case may be,” and “or 86, as the case may be,” shall be omitted;
+- (c) in column (2) of paragraph 8, for “86D, as the case may be,”, in each place where it appears, there shall be substituted “86C”;
+- (d) paragraphs 10 and 11 shall be omitted.
+
+**21.**[^key-84e2e4e3390992e898abe836604b8eac] In Schedule 5 (sums to be disregarded in the calculation of earnings)—
+
+- (a) in paragraph 5(2), (3)(*a*)(ii) and (4)(*a*), “or in accommodation in a residential care home, nursing home” shall be omitted;
+- (b) in paragraph 18(*a*), “, or but for his accommodation in a residential care home or nursing home would be,” shall be omitted.
+
+**22.**[^key-efc2f07c44249f6b9d2ac64d5defc66b] In Schedule 5A[^f00083] (sums to be disregarded in the calculation of earnings of members of joint-claim couples)—
+
+- (a) in paragraph 1(2) and (4)(*a*), “or in accommodation in a residential care home or nursing home” shall be omitted;
+- (b) in paragraph 3(*a*)(ii), “or in accommodation in a residential care home, nursing home” shall be omitted.
+
+**23.**[^key-028832e2be7c6ea910222db43c672350] In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 10, the words from “, but, where” to the end shall be omitted;
+- (b)[^key-5e78f5ead06c7ae5f5a65f27dd87805f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-5e78f5ead06c7ae5f5a65f27dd87805f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) paragraph 16A[^f00084] shall be omitted;
+- (e) in paragraph 31(1)(*e*), for “increased, where appropriate, in accordance with paragraph 2 of Schedule 3 exceeds the amount determined in accordance with regulation 86 (residential care and nursing homes) or” there shall be substituted “exceeds”;
+- (f) in paragraph 32—
+  - (i) in sub-paragraph (2), “or whose applicable amount falls to be calculated in accordance with regulation 86 (residential care and nursing homes)” shall be omitted;
+  - (ii) in sub-paragraph (3), for head (*a*) there shall be substituted the following head—
+
+    > - (a) the claimant’s applicable amount, and
+
+    ;
+- (g) in paragraph 65(2)[^f00085], “or any accommodation charges to the extent that they are met under regulation 86 (persons in residential care or nursing homes)” shall be omitted.
+
+**24.**[^key-99a32712a58ab0ca0556eec553f61629] In paragraph 49(2) of Schedule 7[^f00086] (capital to be disregarded), “or any accommodation charges to the extent that they are met under regulation 86 (persons in residential care or nursing homes)” shall be omitted.
+
+(This note is not part of the Regulations.)
+
+Regulation 2 and the Schedule to these Regulations (except as referred to below) amend the Income Support (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 so as to provide, in accordance with the Personal Social Services (Preserved Rights) Act (Northern Ireland) [2002 (c. 5)](https://www.legislation.gov.uk/nia/2002/5) (“the Preserved Rights Act”), that the special amounts which are applicable to those persons in residential care homes and nursing homes who have preserved rights, shall no longer be applicable from 8th April 2002. That regulation and the Schedule also make consequential amendments.
+
+Paragraph 13 of Part I of the Schedule and paragraph 17 of Part II of the Schedule amend the rules as to when a residential allowance is applicable in income support and jobseeker’s allowance to those residing in a residential care home or a nursing home.
+
+Regulations 3 and 6 respectively amend the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 and the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 so as to make further provision and consequential amendments in connection with the cessation, from 8th April 2002, of the payment of special amounts which are applicable to recipients of income support and jobseeker’s allowance who are in residential care homes and nursing homes.
+
+Regulations 4 and 5 respectively amend the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992 and the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 so as to remove the separate provision in respect of payment of attendance allowance and the care component of disability living allowance for those persons in residential care homes and nursing homes with preserved rights.
+
+The amendments in regulations 3, 4, 5 and 6 have also been made as a consequence of the Preserved Rights Act.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(*e*) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 and section 133(2)(*d*) was substituted by paragraph 18(3) of Schedule 2 to that Order
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N. I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 15(3) was amended by paragraph 10(3) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
+
+[^f00004]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00005]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00006]: Footnote: [2002 c. 5](https://www.legislation.gov.uk/nia/2002/5)
+
+[^key-018aec391ebb5a27b171c3e12dc1e05f]: Commencement: Reg. 1 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-80d945315b9748aa515d11baa0a5d88c]: Commencement: Reg. 2 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [274](https://www.legislation.gov.uk/nisr/1988/274), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [249](https://www.legislation.gov.uk/nisr/1989/249), S.R [1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1991 Nos. 170](https://www.legislation.gov.uk/nisr/1991/170) and [345](https://www.legislation.gov.uk/nisr/1991/345), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149), [165](https://www.legislation.gov.uk/nisr/1993/165), [235](https://www.legislation.gov.uk/nisr/1993/235) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 Nos. 78](https://www.legislation.gov.uk/nisr/1996/78), [199](https://www.legislation.gov.uk/nisr/1996/199), [449](https://www.legislation.gov.uk/nisr/1996/449) and [489](https://www.legislation.gov.uk/nisr/1996/489), [S.R. 1998 Nos. 326](https://www.legislation.gov.uk/nisr/1998/326) and [421](https://www.legislation.gov.uk/nisr/1998/421), [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342), [S.R. 2000 Nos. 71](https://www.legislation.gov.uk/nisr/2000/71), [74](https://www.legislation.gov.uk/nisr/2000/74), [242](https://www.legislation.gov.uk/nisr/2000/242) and [366](https://www.legislation.gov.uk/nisr/2000/366) and [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
+
+[^f00009]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342) and [S.R. 2000 Nos. 71](https://www.legislation.gov.uk/nisr/2000/71), [241](https://www.legislation.gov.uk/nisr/2000/241), [242](https://www.legislation.gov.uk/nisr/2000/242) and [350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-5aa80386f984235de56a6903abb0b596]: Commencement: Reg. 3 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^M_F_a695f387-c10b-4071-a150-3da63c99a993]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/132/regulation/3) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00010]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); Schedule 8A was inserted by regulation 2(3) of, and the Schedule to, [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67); relevant amending Regulations are [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [375](https://www.legislation.gov.uk/nisr/1993/375) and [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^key-a017846646f1aa60bb8242d5413fa735]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2002/132/regulation/3/2) revoked (14.11.2005) by [The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005 (S.R. 2005/458)](https://www.legislation.gov.uk/nisr/2005/458), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/458/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/458/schedule/5)
+
+[^key-b77ddbe8ada0d5aa5922ac2f67d95673]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/nisr/2002/132/regulation/3/3/a) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [35](https://www.legislation.gov.uk/nisr/2008/286/regulation/35), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/286/schedule/2)
+
+[^f00013]: Footnote: Head (*b*) was amended by regulation 2(26)(*d*)(iii) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^f00014]: Footnote: Head (*ab*) was inserted by regulation 3(11)(*b*) of [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375) and amended by regulation 2(26)(*e*) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^key-ec98de96854283078e53516523e30900]: Commencement: Reg. 4 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00015]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); relevant amending Regulations are [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [165](https://www.legislation.gov.uk/nisr/1993/165) and [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^key-0d43e7c4664deedb45aeb49f374bb2a1]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2002/132/regulation/4/2) revoked (29.10.2007) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/431)](https://www.legislation.gov.uk/nisr/2007/431), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/431/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/431/regulation/5), [Sch.](https://www.legislation.gov.uk/nisr/2007/431/schedule)
+
+[^f00019]: Footnote: Regulation 7A was inserted by regulation 2(3) of [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^f00020]: Footnote: Schedule 2 was added by regulation 2(6) of, and Schedule 1 to, [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^key-642b5c78a9115ca5b0d654bddc39b90d]: Commencement: Reg. 5 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00021]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending Regulations are [S.R. 1992 No. 481](https://www.legislation.gov.uk/nisr/1992/481), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [165](https://www.legislation.gov.uk/nisr/1993/165) and [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^key-9cb582df91fa5a1dac573331aa1bff00]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2002/132/regulation/5/2) revoked (29.10.2007) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/431)](https://www.legislation.gov.uk/nisr/2007/431), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/431/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/431/regulation/5), [Sch.](https://www.legislation.gov.uk/nisr/2007/431/schedule)
+
+[^f00025]: Footnote: Regulation 9A was inserted by regulation 3(3) of [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^f00026]: Footnote: Schedule 2A was inserted by regulation 3(6) of, and Schedule 2 to, [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^key-74f68ed57d23b6270d053bc7014905e1]: Commencement: Reg. 6 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00027]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); Schedule 2A was inserted by regulation 6(22) of, and Schedule 1 to, [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^key-03aa91296095585c645ce85f6c4228e1]: Commencement: Sch. Pt. I para. 1 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00028]: Footnote: The definition of “residential care home” was inserted by regulation 2(2)(*d*) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00029]: Footnote: The definition of “residential accommodation” was substituted by regulation 2(*c*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 1 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
+
+[^f00030]: Footnote: The definition of “preserved right” was inserted by regulation 2(2)(*c*) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^key-368c58e732564dea4beb9faefc796491]: Commencement: Sch. Pt. I para. 2 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00031]: Footnote: Regulation 6(4) was added by regulation 2(*b*)(iii) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
+
+[^key-e29c7ee9a2cdb8471a77fdfa5a40620d]: Commencement: Sch. Pt. I para. 3 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-1b059392d4be76aa361e0da23644bc88]: Commencement: Sch. Pt. I para. 4 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00032]: Footnote: Regulation 18(1) was amended by regulation 5(*a*) of [S.R. 1988 No. 274](https://www.legislation.gov.uk/nisr/1988/274) and regulation 10(*a*)(i) of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^key-6ee05a15f4c5e11ed9bbdeb876ee9f29]: Commencement: Sch. Pt. I para. 5 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-3fd095688f0640385bb48b9d936b1c5f]: Commencement: Sch. Pt. I para. 6 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00033]: Footnote: Paragraph (1) was amended by regulation 4(3) of [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), regulation 12 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and regulation 2(2) of [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449)
+
+[^f00034]: Footnote: Paragraph (1A) was inserted by regulation 3 of [S.R. 1991 No. 170](https://www.legislation.gov.uk/nisr/1991/170)
+
+[^f00035]: Footnote: Paragraph 10A was inserted by regulation 34(*b*) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146)
+
+[^f00036]: Footnote: Paragraph 10B was inserted by regulation 34(*b*) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146)
+
+[^f00037]: Footnote: Paragraph 10C was inserted by regulation 19(*c*) of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431)
+
+[^f00038]: Footnote: Paragraph (3A) was inserted by regulation 2(*b*) of [S.R. 1991 No. 345](https://www.legislation.gov.uk/nisr/1991/345) and amended by paragraph 6(6) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and regulation 2 of [S.R. 1996 No. 489](https://www.legislation.gov.uk/nisr/1996/489)
+
+[^key-a05581b59492ab4468d623600e19ecbb]: Commencement: Sch. Pt. I para. 7 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00039]: Footnote: Regulation 22A was inserted by regulation 13 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^key-91ce2d1dcf81a00941f02fe8f01b06e0]: Commencement: Sch. Pt. I para. 8 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00040]: Footnote: Paragraph (3) was substituted by regulation 11(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 7 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), paragraph 6(8) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and regulation 3(2)(*a*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
+
+[^key-a2be8d0ffb7e9e5d03d010895da21976]: Commencement: Sch. Pt. I para. 9 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00041]: Footnote: Regulation 66B was inserted by regulation 2(5) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242)
+
+[^key-4d2146989822956de8e1d97ac03da9fc]: Commencement: Sch. Pt. I para. 10 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00042]: Footnote: Regulation 68 was amended by regulation 2(6) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242)
+
+[^key-afcc90a8b7e1d12bb230f21a92958b04]: Textual amendment: [Sch. Pt. I para. 11](https://www.legislation.gov.uk/nisr/2002/132/schedule/part/I/paragraph/11) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+
+[^key-4652e2548eecfec0680972c1168685cb]: Commencement: Sch. Pt. I para. 12 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-d32a1e18c839ed893a23b15ddaf631c1]: Commencement: Sch. Pt. I para. 13 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00043]: Footnote: Paragraph 2A was inserted by regulation 2(6) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00044]: Footnote: Sub-paragraph (2) was amended by regulation 2(2)(*a*) of [S.R. 1993 No. 235](https://www.legislation.gov.uk/nisr/1993/235)
+
+[^f00045]: Footnote: Sub-paragraph (4A) was inserted by regulation 2(2)(*b*) of [S.R. 1993 No. 235](https://www.legislation.gov.uk/nisr/1993/235)
+
+[^key-6adc2d25f8bd26085bbd329763f8bf2d]: Commencement: Sch. Pt. I para. 14 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-8b24c91087942905c0156f7e4784620b]: Commencement: Sch. Pt. I para. 15 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-cd738959267946454ececfb0e56b12cf]: Textual amendment: [Sch. 1 Pt. 1 para. 15(a)](https://www.legislation.gov.uk/nisr/2002/132/schedule/1/part/1/paragraph/15/a) revoked (coming into operation in accordance with reg. 1(1)(d) of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+
+[^f00047]: Footnote: Paragraph 10A was inserted by regulation 34(*b*) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and amended by regulation 8 of, and paragraph 13(*a*) of Schedule 1 to, [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
+
+[^f00048]: Footnote: Paragraph 10B was inserted by regulation 34(*b*) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and amended by regulation 8 of, and paragraph 13(*a*) of Schedule 1 to, [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
+
+[^f00049]: Footnote: Paragraph 11 was amended by regulation 22 of [S.R 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and paragraph 13(*c*) of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
+
+[^f00050]: Footnote: Paragraph 11A was inserted by regulation 19(*h*) of [S.R 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
+
+[^f00051]: Footnote: Paragraph 12 was substituted by regulation 19(*i*) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
+
+[^f00052]: Footnote: Paragraph 12A was inserted by regulation 19(*j*) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
+
+[^f00053]: Footnote: Paragraph 14A was inserted by regulation 5(10)(*a*) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
+
+[^f00054]: Footnote: Paragraph 17A was inserted by regulation 7(*a*) of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
+
+[^key-301604a17a495a1c51528a5a608477c5]: Commencement: Sch. Pt. I para. 16 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00055]: Footnote: Paragraph 4 was substituted by regulation 9 of [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and amended by regulation 6(14)(*a*), (*b*) and (*c*) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^f00056]: Footnote: Paragraph 15 was amended by regulation 12 of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), paragraph 14(*b*) of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and regulation 3 of [S.R. 2000 No. 366](https://www.legislation.gov.uk/nisr/2000/366)
+
+[^key-f01d9b298b09fccc0f6ade35008e80a1]: Commencement: Sch. Pt. I para. 17 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00057]: Footnote: Paragraph 9 was substituted by regulation 4(5)(*a*) of [S.R. 1993 No. 165](https://www.legislation.gov.uk/nisr/1993/165)
+
+[^key-04f806c54be6bbf8c6d4e4fbb06d6a90]: Textual amendment: [Sch. Pt. I para. 17(b)](https://www.legislation.gov.uk/nisr/2002/132/schedule/part/I/paragraph/17/b)[(c)](https://www.legislation.gov.uk/nisr/2002/132/schedule/part/I/paragraph/17/c) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^f00062]: Footnote: Paragraph 15B was inserted by regulation 2 of [S.R. 1996 No. 78](https://www.legislation.gov.uk/nisr/1996/78)
+
+[^f00063]: Footnote: Paragraph 30A was inserted by regulation 4(22)(*e*) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
+
+[^f00064]: Footnote: Paragraph 67 was added by regulation 5(4) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^key-b28e514e8cd2521bfde622159444ba7b]: Commencement: Sch. Pt. I para. 18 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00065]: Footnote: Paragraph 54 was added by regulation 5(5) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^f00066]: Footnote: Schedule 10 was modified to include paragraphs 52 and 53 by regulation 16(2)(*d*) of [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^key-b6fa7cd1296213aeec546f77c8ed7dba]: Commencement: Sch. Pt. II para. 1 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00067]: Footnote: Paragraph (2E) was inserted by regulation 4(2)(*b*) of [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241)
+
+[^key-6a28e97ec879e74bf04ceb495e6f52e2]: Commencement: Sch. Pt. II para. 2 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-5cc418f49af2bfba5764972a73301a05]: Commencement: Sch. Pt. II para. 3 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00068]: Footnote: Regulation 82 was substituted by regulation 2(5) of, and paragraph 34 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-b8062e25cca38c9db635ea61c294dfff]: Commencement: Sch. Pt. II para. 4 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-bd74cb9ce7c4c48061ee24a276e5f1e3]: Commencement: Sch. Pt. II para. 5 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-3f27f11f7643524c343bbf8cfecea999]: Commencement: Sch. Pt. II para. 6 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-cbd65c96694abc004c7cffeb9fc975b3]: Commencement: Sch. Pt. II para. 7 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-b5c3e8447db96eff64d5663b85ab16e8]: Commencement: Sch. Pt. II para. 8 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00069]: Footnote: Regulations 86A and 86B were inserted by regulation 2(5) of, and paragraph 35 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-ecdb0756cfc57c0cc2f713d9b7e24492]: Commencement: Sch. Pt. II para. 9 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00070]: Footnote: Regulation 86C was inserted by regulation 2(5) of, and paragraph 35 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-3096dfd548d9c114b0c9669146f2742d]: Commencement: Sch. Pt. II para. 10 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00071]: Footnote: Regulation 86D was inserted by regulation 2(5) of, and paragraph 35 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-c61bc8d00c913013a52bddc4ed404239]: Commencement: Sch. Pt. II para. 11 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00072]: Footnote: Paragraph (3) was amended by regulation 3(1)(*a*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and paragraph 44 of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-01da7a8f31904dfb6f27e0379c5d5611]: Commencement: Sch. Pt. II para. 12 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00073]: Footnote: Regulation 136A was inserted by regulation 3(7) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242)
+
+[^key-ae9e3c67a7b45ffb7afdd99e6b915214]: Commencement: Sch. Pt. II para. 13 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00074]: Footnote: Regulation 138 was amended by regulation 3(8) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242)
+
+[^key-5b89c6ab5bbdb1577b2e471c7c52e7aa]: Textual amendment: [Sch. Pt. II para. 14](https://www.legislation.gov.uk/nisr/2002/132/schedule/part/II/paragraph/14) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+
+[^key-bb74d70399a042bde9c71cb01a95deb2]: Textual amendment: [Sch. Pt. II para. 15](https://www.legislation.gov.uk/nisr/2002/132/schedule/part/II/paragraph/15) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+
+[^key-ce771509923fad7ae9d3cbe162d150c1]: Commencement: Sch. Pt. II para. 16 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-4b1aaee2a9707ac11a10aa9362283a26]: Commencement: Sch. Pt. II para. 17 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00076]: Footnote: Sub-paragraph (1) was amended by paragraph 53(3) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-827ce88d195ab5057a308970950ff582]: Commencement: Sch. Pt. II para. 18 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00077]: Footnote: Schedule 3A was inserted by regulation 2(5) of, and paragraph 55 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-4a7c17af695c2d987d88debc32d8bf73]: Commencement: Sch. Pt. II para. 19 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00078]: Footnote: Paragraph 10 was amended by regulation 2(5) of, and paragraph 56(*a*)(ii) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00079]: Footnote: Paragraph 13A was inserted by regulation 10(7)(*a*) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
+
+[^f00080]: Footnote: Paragraph 17A was added by regulation 2(5) of, and paragraph 56(*b*)(i) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00081]: Footnote: Head (*a*) was added by regulation 2(5) of, and paragraph 56(*b*)(ii) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-1c414924a86cb6d876fe1126102d34f0]: Commencement: Sch. Pt. II para. 20 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00082]: Footnote: Schedule 4A was inserted by regulation 2(5) of, and paragraph 57 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-84e2e4e3390992e898abe836604b8eac]: Commencement: Sch. Pt. II para. 21 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-efc2f07c44249f6b9d2ac64d5defc66b]: Commencement: Sch. Pt. II para. 22 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00083]: Footnote: Schedule 5A was inserted by regulation 2(5) and paragraph 58 of, Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-028832e2be7c6ea910222db43c672350]: Commencement: Sch. Pt. II para. 23 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^key-5e78f5ead06c7ae5f5a65f27dd87805f]: Textual amendment: [Sch. Pt. II para. 23(b)(c)](https://www.legislation.gov.uk/nisr/2002/132/schedule/part/II) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+
+[^f00084]: Footnote: Paragraph 16A was inserted by regulation 32 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
+
+[^f00085]: Footnote: Paragraph 65 was added by regulation 6(4) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^key-99a32712a58ab0ca0556eec553f61629]: Commencement: Sch. Pt. II para. 24 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/132/regulation/1/1)
+
+[^f00086]: Footnote: Paragraph 49 was added by regulation 6(5) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)

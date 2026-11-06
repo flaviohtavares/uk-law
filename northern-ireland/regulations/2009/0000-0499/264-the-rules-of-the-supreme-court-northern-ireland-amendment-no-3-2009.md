@@ -1,0 +1,164 @@
+---
+title: The Rules of the Supreme Court (Northern Ireland) (Amendment No.3) 2009
+id: nisr/2009/264
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2009-07-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2009/264
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/264/pdfs/nisrem_20090264_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/264/pdfs/nisr_20090264_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/264/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rules of the Supreme Court (Northern Ireland) (Amendment No.3) 2009
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2009 No. 264
+
+Supreme Court, Northern Ireland
+
+Counter-terrorism
+
+The Rules of the Supreme Court (Northern Ireland) (Amendment No.3) 2009
+
+Made
+
+9th July 2009
+
+Coming into operation in accordance with Rule 1(1)
+
+To be laid before Parliament
+
+The Northern Ireland Supreme Court Rules Committee makes the following Rules in exercise of the powers conferred by sections 55 and 55A of the Judicature (Northern Ireland) Act 1978[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Rules may be cited as the Rules of the Supreme Court (Northern Ireland) (Amendment No.3) 2009 and shall come into operation—
+
+- (a) for the purposes of rule 2(2) and this rule, on 10th August 2009; and
+- (b) for all other purposes, on the same day as Schedule 4 to the Counter-Terrorism Act 2008 comes into force.
+
+(2) In these Rules, “the principal Rules” means the Rules of the Supreme Court (Northern Ireland) 1980[^f00002] and an Order or Form referred to by a number means an Order or Form so numbered in the principal Rules.
+
+## 2. Amendment to the principal Rules
+
+The principal Rules shall be amended as follows:—
+
+(1) in Order 1, rule 11(l), omit “- financial restrictions proceedings”;
+
+(2) in Order 116A—
+
+- (a) for rule 10(2)(b), substitute—
+
+  > - (b) unless the Court otherwise directs —
+  >   - (i) in the case of directions given under section 3(2)(c), that date must be no later than 7 days from the date on which the notice of the terms of the control order is delivered to the controlled person in accordance with section 7(8) of the Act; or
+  >   - (ii) in the case of directions given under section 3(6)(b) or (c), that date must be no later than 7 days from the date on which the Court’s determination on the reference is made.
+
+  ;
+- (b) for rule 22(4), substitute—
+
+  > (4) References in this rule—
+  >
+  > - (a) to an order requiring anonymity for the controlled person are to be construed in accordance with paragraph 5(3) of the Schedule to the Act; and
+  > - (b) to the controlled person, in relation to a time before the control order has been made, are to be construed in accordance with paragraphs 5(4) of the Schedule to the Act.
+
+  ;
+- (c) at the beginning of rule 27(b), insert “adducing evidence and”; and
+- (d) after rule 29(5), insert—
+
+  > (5A) A special advocate shall be entitled to adduce evidence and to cross examine witnesses.
+
+  ;
+
+(3) in Order 116B—
+
+- (a) in Part I, for rule 1(1), substitute—
+
+  > **1.** (1) This Order applies to—
+  >
+  > - (a) financial restrictions proceedings;
+  > - (b) appeals to the Court of Appeal against an order of the High Court in such proceedings; and
+  > - (c) applications for a notification order under Schedule 4 to the Counter-Terrorism Act 2008.
+
+  ;
+- (b) in Part III—
+  - (i) for the title, substitute “APPEAL TO THE COURT OF APPEAL IN FINANCIAL RESTRICTIONS PROCEEDINGS”;
+  - (ii) in rule 12(2), for “in applications made under this Order”, substitute “in applications made under Parts II or IV of this Order”; and
+  - (iii) in rule 14(2), for “appeals brought under this Order”, substitute “appeals brought under this Part of this Order”;
+- (c) in Part IV—
+  - (i) for each reference to “proceedings to which this Order applies”, substitute “proceedings to which Parts II, III or this Part of this Order apply”;
+  - (ii) in rule 20, for “rule 1(1)”, substitute “rule 1(1)(a) and (b)”;
+  - (iii) in rule 27—
+    - (aa) in paragraph (2), for “Subject to the other rules in this Order”, substitute “Subject to the other rules in Parts II, III or this Part of this Order”; and
+    - (bb) after paragraph (4), insert —
+
+      > (4A) A special advocate is entitled to adduce evidence and to cross examine witnesses.
+
+      ; and
+- (d) after Part IV insert—
+
+  > **PART V — NOTIFICATION ORDERS**
+  >
+  > **36. Application for a notification order**
+  >
+  > (1) An application for a notification order under Schedule 4 to the Act must be made by originating summons in Form 6 in Appendix A.
+  >
+  > (2) Where the defendant wishes to serve a notice under paragraph 2(4) of Schedule 4 to the Act, the defendant must lodge and serve the notice with a memorandum of appearance not more than 14 days after service of the originating summons.
+
+  .
+
+Brian Kerr
+
+John Gillen
+
+Declan Morgan
+
+Paul Girvan
+
+Paul Maguire
+
+Tony Caher
+
+Dated 22nd June 2009
+
+Signed by the authority of the Lord Chancellor
+
+In exercise of the powers conferred by section 55A(3) of the Judicature (Northern Ireland) Act 1978, I allow these Rules.
+
+Bridget Prentice
+
+Parliamentary Under-Secretary of State
+
+Ministry of Justice
+
+Dated 9th July 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Rules of the Supreme Court (Northern Ireland) 1980 ([S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)) (“the principal Rules”) to take account of provisions in the Counter-Terrorism Act 2008 relating to control orders and notification orders.
+
+Rule 2(2) amends Order 116A of the principal Rules to reflect the amendments made by the Counter-Terrorism Act 2008 to the control order provisions in the Prevention of Terrorism Act 2005. Specifically—
+
+- Rule 2(2)(a) amends rule 10(2)(b) to provide that where a control order is made by the Court under section 3(2)(c) of the Prevention of Terrorism Act 2005, the Court will hold a directions hearing within seven days of the control order being served on the controlled person in order to allow him to make representations.
+- Rule 2(2)(b) amends rule 22(4) to provide that the Secretary of State can make an application to the Court for an anonymity order to protect the identity of the controlled person at the stage where leave is sought from the Court to make the order.
+
+Rule 2(3) inserts new Part 5 into Order 116B to prescribe the procedure for applying for a notification order under Schedule 4 to the Counter-Terrorism Act 2008. It also makes technical amendments to Order 116B to provide that the provisions of Part 3 and 4 only apply to applications for financial restrictions proceedings and not to applications under the new Part 5 in respect of notification orders.
+
+These Rules also amend Order 116A and 116B to provide that special advocates in control order proceedings and financial restrictions proceedings can adduce evidence to the Court.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23) to which the most recent relevant amendments were made by the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^f00002]: Footnote: [1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346) to which the most recent relevant amendments were made by [S.R. 2005 No. 314](https://www.legislation.gov.uk/nisr/2005/314) and [S.R. 2008 No. 479](https://www.legislation.gov.uk/nisr/2008/479).

@@ -1,0 +1,91 @@
+---
+title: Police (Northern Ireland) Act 1998 (Commencement) Order (Northern Ireland) 2000
+id: nisr/2000/399
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2000-11-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2000/399
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/399/pdfs/nisr_20000399_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/399/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police (Northern Ireland) Act 1998 (Commencement) Order (Northern Ireland) 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 399
+
+POLICE
+
+Police (Northern Ireland) Act 1998 (Commencement) Order (Northern Ireland) 2000
+
+Made
+
+2nd November 2000
+
+Coming into operation
+
+6th November 2000
+
+In exercise of the powers conferred on me by Sections 74 and 75 of the Police (Northern Ireland) Act 1998[^f00001], I hereby make the following Order:—
+
+## 1. Citation and commencement
+
+This Order may be cited as the Police (Northern Ireland) Act 1998 (Commencement) Order (Northern Ireland) 2000.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the 1987 Order” means the Police (Northern Ireland) Order 1987[^f00002];
+- “the 1998 Act” means the Police (Northern Ireland) Act 1998;
+- “Chief Constable” includes a person discharging the functions of the Chief Constable;
+- “the commencement date” has the meaning assigned thereto by Article 3 below;
+- “the Commission” means the Independent Commission for Police Complaints for Northern Ireland established in pursuance of Article 3(1) of the 1987 Order;
+- “complaint” has the meaning assigned to it by section 50 of the 1998 Act;
+- “the former complaint provisions” means the provisions applicable to complaints against members of the Police force in operation immediately before the commencement date; and
+- “the Ombudsman” means the Police Ombudsman for Northern Ireland established by section 51 of the 1998 Act.
+
+## 3. Appointed day
+
+The day appointed for the coming into operation of Part VII of the 1998 Act shall be 6th November 2000 (in this Order referred to as “the commencement date”).
+
+## 4. Transitional arrangement
+
+(1) This Article applies to any complaint falling to be dealt with before the commencement date under the former complaints provisions and not disposed of in accordance with those provisions by that date.
+
+(2) Subject to the following provisions of this Order any such complaint shall, as from the commencement date, continue to be dealt with as if Part VII of the 1998 Act had been in operation at the date on which it was made or recorded and as if anything done or falling to be done in relation thereto before the commencement date under any of the former complaints provisions was done or fell to be done in relation thereto under the corresponding provision of the said Act and the regulations made thereunder, and, in particular—
+
+- (a) where any such complaint has been submitted to the Chief Constable under Article 4(1) of the 1987 Order but not yet recorded under Article 5(1) of the 1987 Order he shall upon receipt refer it immediately to the Ombudsman;
+- (b) where any such complaint was recorded under Article 5(1) of the 1987 Order it shall be treated as having been recorded under section 52 of the 1998 Act;
+- (c) where under Article 5(3) of the 1987 Order, the Chief Constable has caused any such complaint to be investigated and has appointed a member for that purpose, the member shall be treated as having been appointed to investigate the complaint formally under section 57 of the 1998 Act;
+- (d) where a copy of the report of an investigation of any such complaint has been sent to the Director of Public Prosecutions under Article 10(4) of the 1987 Order, it shall be treated as having been sent under Section 58(2) of the 1998 Act;
+- (e) where, under Article 13 of the 1987 Order a recommendation has been made or a direction given by the Commission to the Chief Constable as to disciplinary charges to be preferred by him in relation to any such complaint, the recommendation or direction shall be treated as made or given to him by the Ombudsman in relation to that complaint under section 59 of the 1998 Act.
+
+**5.** Any regulations made under section 25, 26, 59(8) and 64 of the 1998 Act shall apply to any complaint recorded under the former complaint provision and not disposed of before the commencement date.
+
+Peter Mandelson
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+2nd November 2000
+
+(This note is not part of the Order.)
+
+The Order commences Part VII of the Police (Northern Ireland) Act 1998 which relates to the establishment of a Police Ombudsman for Northern Ireland.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^f00002]: Footnote: [1987 No. 938 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/938)

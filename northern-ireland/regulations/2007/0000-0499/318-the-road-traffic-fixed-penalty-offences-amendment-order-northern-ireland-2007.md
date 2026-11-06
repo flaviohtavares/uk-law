@@ -1,0 +1,102 @@
+---
+title: The Road Traffic (Fixed Penalty) (Offences) (Amendment) Order (Northern Ireland) 2007
+id: nisr/2007/318
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2007-06-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2007/318
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/318/pdfs/nisr_20070318_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/318/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Traffic (Fixed Penalty) (Offences) (Amendment) Order (Northern Ireland) 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 318
+
+ROAD TRAFFIC AND VEHICLES
+
+The Road Traffic (Fixed Penalty) (Offences) (Amendment) Order (Northern Ireland) 2007
+
+Made
+
+29th June 2007
+
+Coming into operation
+
+30th July 2007
+
+The Department of the Environment makes the following Order in exercise of the powers conferred by Article 57(2) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00001].
+
+In accordance with Article 91(1) of that Order the Department has consulted with such representative organisations as it thinks fit.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Road Traffic (Fixed Penalty) (Offences) (Amendment) Order (Northern Ireland) 2007 and shall come into operation on 30th July 2007.
+
+## 2. Amendment of the Road Traffic (Fixed Penalty) (Offences) Order (Northern Ireland) 1997
+
+Schedule 1 to the Road Traffic (Fixed Penalty) (Offences) Order (Northern Ireland) 1997[^f00002] (fixed penalty offences) is amended as follows—
+
+- (a) after item 9 (offences under the Road Traffic (Northern Ireland) Order 1981) insert—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 9A. | Article 90[^f00003] | Driving, or causing or permitting a person to drive, motor vehicle while uninsured. |
+
+  ;
+- (b) after item 12 (offences under the Road Traffic (Northern Ireland) Order 1981) insert—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 12A. | Article 177[^f00004] | Failure of driver or owner of vehicle or other person required to do so, to give information for purposes of identification to police. |
+
+  ; and
+- (c) after item 34 (offences under the Road Traffic (Northern Ireland) Order 1995) insert—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 34A. | Article 56A[^f00005] | Breach of requirements as to control of vehicle, mobile telephones etc. |
+
+  .
+
+Sealed with the Official Seal of the Department of the Environment on 29th June 2007.
+
+Stanley Duncan
+
+A senior officer of the
+
+Department of the Environment
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Road Traffic (Fixed Penalty) (Offences) Order (Northern Ireland) 1997 by specifying additional offences committed in respect of a vehicle under Articles 90 and 177 of the Road Traffic (Northern Ireland) Order 1981 and Article 56A of the Road Traffic (Northern Ireland) Order 1995, which are fixed penalty offences for the purposes of Part IV of the Road Traffic Offenders (Northern Ireland) Order 1996. Any liability to conviction of these offences may be discharged by the payment of a fixed penalty which is—
+
+- (a) £200.00 for using a motor vehicle while uninsured or unsecured against third-party risks;
+- (b) £120.00 for failing to give police information for the purposes of identification of drivers or owners of, and passengers in, vehicles; and
+- (c) £60.00 for breaching construction and use requirements as to the control of a vehicle, using hand-held mobile telephones etc. while driving,
+
+by virtue of the Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007 ([S.R. 2007 No. 319](https://www.legislation.gov.uk/nisr/2007/319)).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
+
+[^f00002]: Footnote: [S.R. 1997 No. 369](https://www.legislation.gov.uk/nisr/1997/369) as amended by [S.R. 1999 No. 354](https://www.legislation.gov.uk/nisr/1999/354)
+
+[^f00003]: Footnote: Article 90 was amended by [S.I. 1984/1986 (N.I. 15)](https://www.legislation.gov.uk/nisi/1984/1986), [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194), [S.R. 1994 No. 18](https://www.legislation.gov.uk/nisr/1994/18) and [S.R. 2000 No. 331](https://www.legislation.gov.uk/nisr/2000/331)
+
+[^f00004]: Footnote: Article 177 was amended by [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320) and [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
+
+[^f00005]: Footnote: Article 56A was inserted by [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916), Article 6

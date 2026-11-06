@@ -1,0 +1,29 @@
+---
+title: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 97
+act: Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
+section: '97'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1999/454/section/97
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999, section 97
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 97. Trailers drawn by agricultural motor vehicles
+
+(1) A person shall not use, or cause or permit to be used, on a road a wheeled agricultural motor vehicle drawing one or more wheeled trailers if the weight of the drawing vehicle is less than a quarter of the weight of the trailer or trailers, unless the brakes fitted to each trailer in compliance with regulation 20 or 21 are operated directly by the service braking system fitted to the motor vehicle.
+
+(2) A person shall not use, or cause or permit to be used, on a road, any motor vehicle drawing an agricultural trailer of which—
+
+- (a) more than 35% of the weight is borne by the drawing vehicle; or
+- (b) the gross weight exceeds 14,230 kg, unless it is fitted with brakes as mentioned in paragraph (1).
+
+(3) A person shall not use, or cause or permit to be used, on a road an agricultural trailer manufactured on or after 1st December 1985 which is drawn by a motor vehicle first used on or after 1st June 1986 unless the brakes fitted to the trailer—
+
+- (a) in accordance with regulation 20 can be applied progressively by the driver of the drawing vehicle, from his normal driving position and while keeping proper control of that vehicle, using a means of operation mounted on the drawing vehicle; or
+- (b) automatically come into operation on the over-run of the trailer.

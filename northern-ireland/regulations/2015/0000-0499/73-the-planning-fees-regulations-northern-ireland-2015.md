@@ -1,0 +1,314 @@
+---
+title: The Planning (Fees) Regulations (Northern Ireland) 2015
+id: nisr/2015/73
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-02-25'
+text_date: '2025-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/73
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/73/pdfs/nisrem_20150073_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/73/pdfs/nisr_20150073_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/73/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (Fees) Regulations (Northern Ireland) 2015
+
+> Text as at 2025-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 73
+
+Planning
+
+The Planning (Fees) Regulations (Northern Ireland) 2015
+
+Made
+
+25th February 2015
+
+Coming into operation
+
+1st<sup></sup>April 2015
+
+The Department of the Environment, in exercise of the powers conferred by sections 223(1), (9) and 247(1) of the Planning Act (Northern Ireland) 2011 [^c22386071] makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as The Planning (Fees) Regulations (Northern Ireland) 2015 and shall come into operation on 1<sup>st</sup> April 2015.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2011 Act**” means the Planning Act (Northern Ireland) 2011;
+- “**the Control of Advertisements Regulations**” means the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 [^c22386081]
+- “**dwellinghouse**” means a building or part of building which is used as a single private dwellinghouse, and for no other purpose;
+- “**the General Permitted Development Order**” means the Planning (General Permitted Development) Order (Northern Ireland) 2015; [^c22386091]
+- “**the General Development Procedure Order**” means the Planning (General Development Procedure) Order (Northern Ireland) 2015; [^c22386101]
+- “**glasshouse**” means a building which—
+  - (a) has not less than three-quarters of its total area comprised of glass or other translucent material;
+  - (b) is designed for the production of flowers, fruit, vegetables, herbs or other horticultural produce; and
+  - (c) is used or is to be used, solely for the purposes of agriculture;
+- “**the Hazardous Substances Regulations**” means the Planning (Hazardous Substances) Regulations (Northern Ireland) 2015 [^c22386111]
+- “**outline planning permission**” means planning permission granted in accordance with the provisions of a development order, conditional on the subsequent approval by the council or, as the case may be, the Department of the particulars of the proposed development;
+- “**reserved matters**” has the same meaning as in Article 2 of the General Development Procedure Order;
+- “**use of land**” includes use of land for the winning and working of minerals.
+
+(2) Expressions used in regulation 9 have the same meaning as in the Control of Advertisements Regulations.
+
+## 3. Fees for Planning Applications
+
+(1) Subject to regulation 4, where an application is made to the council or, as the case may be, the Department for planning permission or, for the approval of reserved matters, a fee shall be paid to the council or, as the case may be, the Department in accordance with the provisions of these Regulations.
+
+(2) Subject to regulation 8, the fee in respect of the application shall be calculated in accordance with the provisions of Schedule 1.
+
+(3) Any fee paid pursuant to this regulation shall be refunded if the application is rejected as invalidly made.
+
+## 4. Exemptions
+
+(1) Regulation 3(1) shall not apply where the council is satisfied that the application relates solely to—
+
+- (a) the carrying out of operations for the alteration or extension of an existing dwellinghouse; or
+- (b) the carrying out of operations (other than the erection of a dwellinghouse) in the curtilage of an existing dwellinghouse,
+
+for the purpose, in either case, of providing means of access to or within the dwellinghouse for a disabled person who is resident in, or is proposing to take up residence in, that dwellinghouse, or of providing facilities designed to secure that person's greater safety, health or comfort.
+
+(2) Regulation 3(1) shall not apply where the council is satisfied that the application relates solely to the carrying out of operations for the purpose of providing means of access for disabled persons to or within a building or premises to which members of the public are admitted (whether on payment or otherwise).
+
+(3) In this regulation “**disabled person**” means a person who is within any of the descriptions of persons to whom section 1 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 applies [^c22386121].
+
+## 5.
+
+Regulation 3(1) shall not apply where the council is satisfied that—
+
+- (a) the application relates to the use of a building or other land for a purpose of a class specified in the Planning (Use Classes) Order (Northern Ireland) 2015 [^c22386131] and solely to such use; and
+- (b) the existing use of that building or other land is for another purpose of the same class;
+- (c) the making of an application for planning permission in respect of the use to which the application relates is necessary by reason of (and only by reason of) a condition imposed on a permission granted or having the like effect as a permission granted under Part 3 of the 2011 Act.
+
+## 6.
+
+(1) Regulation 3(1) shall not apply where the council or, as the case may be, the Department is satisfied that an application for planning permission is made by or on behalf of a club, society or other organisation (including any persons administering a trust) which is not established or conducted for profit, and the conditions specified in paragraph (2) are satisfied.
+
+(2) the conditions referred to in paragraph (1) are that:-
+
+- (a) the application relates to the provision of community facilities (including sports grounds) and playing fields; and
+- (b) the council or, as the case may be, the Department, is satisfied that the development is to be carried out on land which is, or is intended to be, occupied by the club, society or other organisation and to be used wholly or mainly for the carrying out of its objects.
+
+## 7. Cases where reduced fees apply
+
+(1) Regulation 3(2) shall not apply where—
+
+- (a) the application relates to development which is within one or more of the classes specified in the Schedule to the General Permitted Development Order and solely to such development; and
+- (b) the permission granted by Article 3 of that Order does not apply in respect of that development by reason of and only by reason of—
+  - (i) a direction made under Article 4 of that Order which is in force on the date when the application is made; or
+  - (ii) the requirements of a condition imposed on any permission granted or having the like effect as a permission granted under Part 3 of the 2011 Act.
+
+(2) the reference in paragraph (1)(a) to an application which relates to development which is within one or more of the classes specified in the Schedule to the General Permitted Development Order shall be construed as including an application for planning permission to carry out such development without compliance with a condition subject to which a previous planning permission has been granted, where the condition in question prohibits or limits the carrying out of any development which is within one or more of the said classes.
+
+## 8. Amount of reduced fees and refunds
+
+(1) The fee for an application for planning permission to which regulation 7 applies shall be £78[^key-3ce4bd2a0974713c2b2d67f0408b0668]
+
+(2) Any fee paid in accordance with this regulation shall be refunded if the application is rejected as invalidly made.
+
+## 9. Fees for applications for express consent to display advertisements
+
+(1) Where an application is made to the council under regulation 8 of the Control of Advertisements Regulations for express consent to display an advertisement, a fee shall be paid to the council in accordance with paragraphs (2) and (3) and the fee shall be £231[^key-a44c635cdcf44589a34cae2a304a866f]
+
+(2) Where the application relates to the display of advertisements on more than one piece of land, the fee payable in respect of the application shall be the aggregate of the sums payable (calculated in accordance with the provisions of paragraph (3)) in respect of the display of advertisements on each piece of land.
+
+(3) Where the application relates to the display of more than one advertisement on the same land, a single fee shall be payable in respect of all the advertisements to be displayed on that land.
+
+(4) Where the application relates to the display, within a specified area, of advertisements on parking meters, litter bins or bus shelters, the whole of the area to which the application relates shall be treated as one piece of land for the purposes of this regulation.
+
+(5) No fee is payable under this regulation in respect of an application for express consent to display an advertisement if the application is occasioned by a direction under regulation 6 of the Control of Advertisement Regulations disapplying regulation 5 of those Regulations in relation to the advertisement in question.
+
+(6) Any fee paid pursuant to this regulation shall be refunded if the application is rejected as invalidly made.
+
+## 10. Fees for Hazardous Substances Consent
+
+(1) Where an application is made to the council, or as the case may be, the Department under regulation 5 of the Hazardous Substances Regulations a fee shall be paid to the council, or as the case may be, the Department in accordance with Schedule 2.
+
+(2) Any fee paid pursuant to this regulation shall be refunded if the application is rejected as invalidly made.
+
+## 11. Fee for an application for planning permission for EIA development
+
+Where an application for planning permission is made for EIA development as defined by regulation 2 (interpretation) of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015 [^c22386141], the fee payable in respect of the application shall be the sum of £12,924[^key-3a3cbfca742ba673f144bdb75b6bde6d] in addition to the amount that would otherwise be payable, subject to the maximum for the category of development as specified in Part 2 of Schedule 1 to these Regulations.
+
+## 12. Fees for applications for certificates of lawful use or development
+
+(1) Subject to paragraph (2), an application made to the council under section 169 or 170 of the 2011 Act shall be accompanied by a fee.
+
+(2) Paragraph (1) shall not apply where the council is satisfied that it relates solely to the carrying out of operations specified in regulation 4 for the purposes specified in that regulation.
+
+(3) Subject to paragraph (6) the fee payable in respect of an application to which this regulation applies shall be—
+
+- (a) in the case of an application under section 169(1)(a) or (b) (or under both sub- paragraphs), the amount that would be payable in respect of an application for planning permission to institute the use or carry out the operations specified in the application (or an application to do both, as the case may be);
+- (b) in the case of an application under section 169(1)(c), £307[^key-f2d11b7e0fdbdc77fb55881f90d906a3]
+- (c) in the case of an application under section 170(1)(a) or (b)(or under both sub-paragraphs), half the amount that would be payable in respect of an application for planning permission to institute the use or carry out the operations specified in the application (or an application to do both, as the case may be).
+
+(4) Where a use specified in an application under section 169(1)(a) is comprised of or includes a use as one or more separate dwellinghouses, the fee payable in respect of that application shall be £307[^key-1ee334896d945a72f4697ec12bdf6fc6] for each dwellinghouse subject to a maximum fee of £15,350 for the application.
+
+(5) Where an application is made under section 169(1)(a) or (b) (or under both sub-paragraphs) and under section 169(1)(c), the fee payable shall be the sum of the fees that would have been payable if there had been an application under section 169(1)(a) or (b) (or under both sub-paragraphs, as the case may be) and a separate application under section 169 (1)(c).
+
+(6) Any fee paid pursuant to this regulation shall be refunded if the application is rejected as invalidly made.
+
+## 13. Revocations
+
+The Regulations specified in Schedule 3 are revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 25 February 2015
+
+Angus Kerr
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — Fees in respect of applications for planning permission or for approval of reserved matters
+
+Regulation 3
+
+### PART 1 — GENERAL PROVISIONS
+
+**1.** Subject to paragraphs 2 to 4, the fee payable under regulation 3(2) in respect of an application shall be calculated in accordance with the provisions of Part 2 and (where applicable) paragraphs 5 to 7[^key-17e909568e7b687d31af28cf0d7728ab] . In the case of an application for approval of reserved matters references in this Schedule to the category of development to which an application relates shall be construed as references to the category of development authorised by the relevant outline planning permission.
+
+**2.** Where an application relates to development carried out without planning permission, or in accordance with planning permission granted for a limited period or without complying with some condition subject to which planning permission was granted, the amount of the fee payable shall be calculated in accordance with the provisions of Part 2 as if the application were one for permission to carry out that development.
+
+**3.** Where an application to renew planning permission is made, and the application has been submitted before the time limit imposed on the extant permission has expired, the fee payable shall be one-quarter of the amount that would otherwise be payable.
+
+**4.** (1) This paragraph applies where—
+
+- (a) an application is made for approval of one or more reserved matters (“**the current application**”);
+- (b) the applicant has previously applied for such approval under the same outline planning permission and paid fees in relation to one or more such applications; and
+- (c) no application has been made under that permission other than by or on behalf of the applicant.
+
+(2) Where this paragraph applies and the amount of the fees paid as mentioned in sub-paragraph (1)(b) is not less than the amount which would be payable if the applicant were by their current application seeking approval of all the matters reserved by the outline permission (and in relation to the whole of the development authorised by the permission), the amount of the fee payable in respect of the current application shall be £673[^key-99770896bf77355133552d1d5cc0fbbd]
+
+(3) Where—
+
+- (i) this paragraph applies;
+- (ii) a fee has been paid as mentioned in sub-paragraph (1)(b) at a rate lower than that prevailing at the date of the current application; and
+- (iii) sub-paragraph (2) would apply if that fee had been paid at the rate applying at that date,
+
+the amount of the fee in respect of the current application shall be £673[^key-7697c1ad83679a64d6d6e9a85e74a28d]
+
+**5.** Where, in respect of any category of development specified in Part 2, the fee is to be calculated by reference to the site area—
+
+- (a) that area shall be taken as consisting of the site area to which the application relates; and
+- (b) where the area referred to in sub-paragraph (a) is not an exact multiple of the unit of measurement specified in respect of the relevant category of development, the fraction of a unit remaining after division of the total area by the unit of measurement shall be treated, for the purposes of calculating the fee, as a complete unit.
+
+**6.** (1) In relation to development within category 5, 7 or 12(b) specified in Part 2, the area of gross floor space to be created by the development shall be ascertained by external measurement of the floor space, whether or not it is to be bounded (wholly or partly) by external walls of a building.
+
+(2) In relation to development within category 5 or 12(b) where the area of gross floor space is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floor space by the figure of 75 shall be treated as being 75 square metres.
+
+(3) In relation to development within category 7 where the area of gross floor space is not an exact multiple of 500 square metres, the area remaining after division of the total number of square metres of gross floor space by the figure of 500 shall be treated as being 500 square metres.
+
+**7.**[^key-b79609e3621bf5d11da2aa358114e332] (1) Where an application for planning permission includes more than one of the categories of development specified in Part 2 the fee for that application shall be calculated in accordance with the following provisions.
+
+(2) Unless the application includes any of categories 6, 8 and 9 an amount shall be calculated in accordance with the provisions of Part 2 for each category of development included in the application and the total of the amounts calculated for each of the categories of development shall be the fee.
+
+(3) Where the application includes any of categories 6, 8 and 9 an amount shall be calculated in respect of each category of development included in the application and the highest of the amounts so calculated shall be the fee.
+
+(4) Where a building is to contain floor space which it proposes to use for the purposes of providing common access or common services or facilities for persons occupying or using that building for development within category 3 and for persons occupying or using it for development within category 5 and/or category 7 (such floor space being referred to below as “common floor space”), the category 5 and/or category 7 floor space shall be assessed, in relation to that building, as including such proportion of the common floor space as the category 5 and/or category 7 floor space in the building bears to the gross floor space in the building.
+
+### PART 2 — SCALES OF FEES[^key-bbd0f9b2b5a51b9caa7741211277ccc5]
+
+| Category of Development | Fee payable |
+| --- | --- |
+| 1\. All buildings (other than a single dwellinghouse). | Outline Applications<br>£307 for each 0.1 hectare of the site area subject to a maximum of £12,280. |
+| 2\. Single dwellinghouse. | Outline Applications £515. |
+| 3\. The erection of a dwellinghouse. | (a) Reserved matters<br>where the application is for a single dwellinghouse, £515;<br>(b) Full<br>where the application is for a single dwellinghouse, £1,035;<br>(c) Full and reserved matters<br>- For 2 or more dwellinghouses—<br>  - (i) where the number of dwellinghouses to be created by the development is 50 or fewer, £1,215 for two dwellinghouses and £434 for each additional dwellinghouse;<br>  - (ii) where the number of dwellinghouses to be created by the development exceeds 50, £22,047; and an additional £129 for each dwellinghouse in excess of 50 dwellinghouses, subject to a maximum in total of £323,133. |
+| 4\. The extension, improvement or alteration of an existing dwellinghouse, including the erection of a building or the carrying out of other operations within the curtilage of a dwellinghouse for purposes ancillary to the enjoyment of the dwellinghouse as such, or the erection or construction of gates, fences, walls or other means of enclosure along a boundary or a curtilage of an existing dwellinghouse. | £347 for each dwelling. |
+| 5\. The erection of industrial, commercial, community and other buildings, other than dwellinghouses or buildings covered by category 4. | Full and reserved matters<br>- (a) where no floor space is to be created by the development, £220;<br>- (b) where the area of gross floor space to be created by the development does not exceed 40 sq.m., £220;<br>- (c) where the area of the gross floor space to be created by the development exceeds 40 sq.m., but does not exceed 75 sq.m., £434;<br>- (d) where the area of the gross floor space to be created by the development exceeds 75 sq.m., but does not exceed 3,750 sq.m., £434 for each 75 sq.m. of that area;<br>- (e) where the area of gross floor space to be created by the development exceeds 3,750 sq.m., £21,700; and an additional £129 for each 75 sq.m., in excess of 3,750 sq.m., subject to a maximum in total of £322,915. |
+| 6\. The erection, alteration or replacement of plant and machinery including telecommunications/datacommunications equipment, a single wind turbine and wind farms. | - (a) where the site area does not exceed 5 hectares, £434 for each 0.1 hectare of the site area;<br>- (b) where the site area exceeds 5 hectares, £21,700; and an additional £129 for each 0.1 hectare in excess of 5 hectares, subject to a maximum in total of £322,915. |
+| 7\. The erection, on land used for the purposes of agriculture, of buildings to be used for agricultural purposes and for agricultural and commercial glasshouses. | £1,153 for each 500 sq.m. of floor space subject to a maximum of £15,287. |
+| 8\. The winning and working of peat. | £2,294 for each 5 hectares of the site area subject to a maximum of £41,292. |
+| 9\. (a) The winning and working of minerals (other than peat).<br>(b) The carrying out of any operations connected with exploratory drilling for oil or natural gas.<br>(c) The use of land for the disposal of refuse or waste materials or for the deposit of material remaining after minerals have been extracted from land or the use of land for the storage of minerals in the open.<br>(d) The carrying out of any other operation not coming within any of the above categories. | £444 per 0.1 hectare of the site area subject to a maximum of £49,728. |
+| 10\. The construction of single level car parks, service roads and other means of access on land used for the purpose of a single undertaking, where the development is required for a purpose incidental to the existing use of the land. | £307. |
+| 11\. (a) The continuance of a use of land or the retention of buildings or works on land, without compliance with a condition subject to which a previous planning permission has been granted (including a condition requiring discontinuance of the use or the removal of the building or works at the end of the specified period).<br>(b) An application to develop land without compliance with a condition subject to which a previous planning permission has been granted. | £307. |
+| 12\. An application for a material change of use. | (a) where the application relates to a dwellinghouse, £842 for the first dwellinghouse and £307 for each additional dwellinghouse subject to a maximum of £15,350;<br>(b) for any other change of use, £307 for each 75 sq.m., of floor space subject to a maximum of £15,350. |
+| 13\. Any other application not falling within categories 1-12. | £1,010. |
+
+## SCHEDULE 2 — FEES FOR HAZARDOUS SUBSTANCES CONSENT
+
+Regulation 10
+
+| *Category of Development* | *Fee Payable* |
+| --- | --- |
+| 1\. Presence of hazardous substances on, over or under land. | (a) (i) where section 111(1) of the 2011 Act applies (new consent without previous conditions), £414[^key-c04f790eef60d8b08abffca690274bc3]<br>(ii) where section 111(1) of the 2011 Act does not apply and the quantity specified in the application as the maximum quantity proposed to be present exceeds twice the controlled quantity, £518[^key-8a6752ef91ff6d13a8c36b1696fe64fa]<br>(iii) in all other cases, £414<br>(b) A fee of £827[^key-136e30ef511fe16db9a0c0dc406ac9e7] shall be payable to the council in respect of an application for the continuation of hazardous substances consent under section 116 of the 2011 Act. |
+
+## SCHEDULE 3 — REGULATIONS REVOKED
+
+Regulation 13
+
+| *Regulations Revoked* | *References* |
+| --- | --- |
+| The Planning (Fees) Regulations (Northern Ireland) 2005 (except for Regulations 11, 12 & 13 and the provisions of Schedule 1 which relate to a deemed planning application) | S.R. 2005 No.222 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2005 | S.R. 2005 No.505 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2009 | S.R. 2009 No.256 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2010 | S.R. 2010 No.294 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2011 | S.R. 2011 No.99 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2011 | S.R. 2011 No.398 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2012 | S.R. 2012 No.293 |
+| The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2014 | S.R. 2014 No.127 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe the fee payable in respect of applications made under the Planning Act (Northern Ireland) 2011.
+
+A Regulatory Impact Assessment has been prepared in relation to these Regulations. A copy may be obtained from the Department of the Environment, Planning Headquarters, Causeway Exchange, 1-7 Bedford Street, Town Parks, BELFAST, BT2 7EG.
+
+## Annotations
+
+[^c22386071]: Marginal citation: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)I
+
+[^c22386081]: Marginal citation: S.R. [2015 No.66](https://www.legislation.gov.uk/ukcm/2015/66)
+
+[^c22386091]: Marginal citation: S.R. [2015 No.70](https://www.legislation.gov.uk/ukcm/2015/70)
+
+[^c22386101]: Marginal citation: S.R. [2015 No.72](https://www.legislation.gov.uk/ukcm/2015/72)
+
+[^c22386111]: Marginal citation: S.R. [2015 No.61](https://www.legislation.gov.uk/ukcm/2015/61)
+
+[^c22386121]: Marginal citation: [1978 c.53](https://www.legislation.gov.uk/ukpga/1978/53) as amended by Article 136, Schedule 5 Part II to [S.I. 1986/595 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/595)
+
+[^c22386131]: Marginal citation: S.R. [2015 No.40](https://www.legislation.gov.uk/ukcm/2015/40)
+
+[^key-3ce4bd2a0974713c2b2d67f0408b0668]: Textual amendment: Sum in [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2015/73/regulation/8/1) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/2)
+
+[^key-a44c635cdcf44589a34cae2a304a866f]: Textual amendment: Sum in [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2015/73/regulation/9/1) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/3)
+
+[^c22386141]: Marginal citation: S.R. [2015 No.74](https://www.legislation.gov.uk/ukcm/2015/74)
+
+[^key-3a3cbfca742ba673f144bdb75b6bde6d]: Textual amendment: Sum in [Reg. 11](https://www.legislation.gov.uk/nisr/2015/73/regulation/11) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/4)
+
+[^key-f2d11b7e0fdbdc77fb55881f90d906a3]: Textual amendment: Sum in [Reg. 12(3)(b)](https://www.legislation.gov.uk/nisr/2015/73/regulation/12/3/b) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/5/a)
+
+[^key-1ee334896d945a72f4697ec12bdf6fc6]: Textual amendment: Sums in [Reg. 12(4)](https://www.legislation.gov.uk/nisr/2015/73/regulation/12/4) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/5/b)
+
+[^key-17e909568e7b687d31af28cf0d7728ab]: Textual amendment: Word in Sch. 1 para. 1 substituted (31.12.2015) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/398)](https://www.legislation.gov.uk/nisr/2015/398), [regs. 1](https://www.legislation.gov.uk/nisr/2015/398/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/398/regulation/2/2/a)
+
+[^key-99770896bf77355133552d1d5cc0fbbd]: Textual amendment: Sum in [Sch. 1 Pt. 1 para. 4(2)](https://www.legislation.gov.uk/nisr/2015/73/schedule/1/part/1/paragraph/4/2) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/6/a)
+
+[^key-7697c1ad83679a64d6d6e9a85e74a28d]: Textual amendment: Sum in [Sch. 1 Pt. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2015/73/schedule/1/part/1/paragraph/4/3) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/6/a)
+
+[^key-b79609e3621bf5d11da2aa358114e332]: Textual amendment: Sch. 1 Pt. 1 para. 7 substituted (31.12.2015) for Sch. 1 Pt. 1 para. 7, 8 by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/398)](https://www.legislation.gov.uk/nisr/2015/398), [regs. 1](https://www.legislation.gov.uk/nisr/2015/398/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/398/regulation/2/2/b)
+
+[^key-bbd0f9b2b5a51b9caa7741211277ccc5]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2015/73/schedule/1/part/2) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2025/49/schedule)
+
+[^key-c04f790eef60d8b08abffca690274bc3]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/73/schedule/2) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/7/a)
+
+[^key-8a6752ef91ff6d13a8c36b1696fe64fa]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/73/schedule/2) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/7/b)
+
+[^key-136e30ef511fe16db9a0c0dc406ac9e7]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/73/schedule/2) substituted (1.4.2025) by [The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/49)](https://www.legislation.gov.uk/nisr/2025/49), [regs. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2025/49/regulation/2/7/c)

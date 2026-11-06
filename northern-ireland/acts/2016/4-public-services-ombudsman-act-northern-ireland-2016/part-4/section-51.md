@@ -1,0 +1,45 @@
+---
+title: Public Services Ombudsman Act (Northern Ireland) 2016, section 51
+act: Public Services Ombudsman Act (Northern Ireland) 2016
+section: '51'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/4/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services Ombudsman Act (Northern Ireland) 2016, section 51
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/nia/2016/4
+>
+> Extent: Northern Ireland.
+
+## 51. Consultation and co-operation with other ombudsmen
+
+*Extent: N.I.*
+
+(1) This section applies if, at any stage in the course of considering a complaint or conducting an investigation, the Ombudsman forms the opinion that the matter could be the subject of an investigation by a person mentioned in subsection (4).
+
+(2) The Ombudsman must consult that person about the matter.
+
+(3) The Ombudsman may co-operate with that person, including co-operation—
+
+- (a) by way of disclosure of information relating to the complaint or investigation,
+- (b) in the conduct of the investigation,
+- (c) in the form, content and publication of a report.
+
+(4) The persons referred to in subsection (1) are—
+
+- (a) the Parliamentary Commissioner for Administration under the Parliamentary Commissioner Act 1967,
+- (b) the Scottish Public Services Ombudsman under the Scottish Public Services Ombudsman Act 2002,
+- (c) the Commissioner for Children and Young People for Northern Ireland under the Commissioner for Children and Young People (Northern Ireland) Order 2003,
+- (d) the Public Services Ombudsman for Wales under the Public Services Ombudsman (Wales) Act 2005,
+- (e) the Commissioner for Older People for Northern Ireland under the Commissioner for Older People Act (Northern Ireland) 2011,
+- (f) the Equality Commission for Northern Ireland under the Northern Ireland Act 1998,
+- (g) the Northern Ireland Human Rights Commission under the Northern Ireland Act 1998,
+- (h) the Ombudsman in the Republic of Ireland, in respect of complaints about or investigations into an implementation body to which the North/South Co-operation (Implementation Bodies) (Northern Ireland) Order 1999 applies,
+- (i) a local government auditor within the meaning of Article 4 of the Local Government (Northern Ireland) Order 2005,
+- (j) the Comptroller and Auditor General, and
+- (k) the Health and Social Care Regulation and Quality Improvement Authority under the Health and Social Care (Reform) Act (Northern Ireland) 2009.

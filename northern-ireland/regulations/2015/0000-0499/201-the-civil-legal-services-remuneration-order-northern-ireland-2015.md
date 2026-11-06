@@ -1,0 +1,1696 @@
+---
+title: The Civil Legal Services (Remuneration) Order (Northern Ireland) 2015
+id: nisr/2015/201
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-31'
+text_date: '2026-01-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/201
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/201/pdfs/nisrem_20150201_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/201/pdfs/nisr_20150201_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/201/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Legal Services (Remuneration) Order (Northern Ireland) 2015
+
+> Text as at 2026-01-07.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 201
+
+Access To Justice
+
+The Civil Legal Services (Remuneration) Order (Northern Ireland) 2015
+
+Made
+
+31st March 2015
+
+Coming into operation
+
+1st April 2015
+
+The Department of Justice makes the following Order in exercise of the powers conferred by Articles 12(3) and 47 of the Access to Justice (Northern Ireland) Order 2003 [^c22509921], and now vested in it [^c22509931].
+
+In accordance with Article 47(2)(a) of the 2003 Order, the Department has consulted with the Lord Chief Justice, the Law Society and the General Council of the Bar of Northern Ireland.
+
+In accordance with Article 47(1) of the 2003 Order, the Department has had regard to the matters specified in that provision.
+
+## 1. Citation, commencement and revocations
+
+(1) This Order may be cited as the Civil Legal Services (Remuneration) Order (Northern Ireland) 2015 and shall come into operation on 1st April 2015.
+
+(2) Subject to paragraph (3), the instruments set out in Schedule 1 to this Order shall be revoked to the extent shown in that Schedule.
+
+(3) Nothing in the provisions revoked by this Order shall take effect in relation to any of the circumstances to which the Article 3(1)(a) to (d) of the Access to Justice (2003 Order) (Commencement No. 7, Transitional Provisions and Savings) Order (Northern Ireland) 2015 [^c22509941] applies.
+
+## 2. Interpretation
+
+In this Order, unless the context otherwise requires—
+
+- “advice”, “assistance” and “representation” have the respective meanings given by Article 2(2) of the 2003 Order;
+- “**certificate**” means a certificate granted under the General Regulations;
+- “**civil legal services**” has the meaning given by Article 10 of the 2003 Order;
+- “**costs**” means, in the case of a solicitor, the remuneration and disbursements payable under Article 12(3) of the 2003 Order and, in the case of counsel, the remuneration payable under that provision;
+- “**counsel**” means counsel authorised by the Director under regulation 31 of the General Regulations and selected to act for an assisted person;
+- “**the Department**” means the Department of Justice;
+- “**the Director**” means the Director of Legal Aid Casework designated by the Department under section 2 of the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014 [^c22509951];
+- “**disbursements**” means travelling and witness expenses and other out of pocket expenses incurred by a solicitor in providing civil legal services;
+- “**fee-earner**” means a solicitor or any clerk who regularly does work for which it is appropriate to make a direct charge to the client;
+- “the Financial Regulations” mean the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c22509961];
+- “the General Regulations” mean the Civil Legal Services (General) Regulations (Northern Ireland) 2015 [^c22509971];
+- “**the 2003 Order**” means the Access to Justice (Northern Ireland) Order 2003;
+- “representation” (higher courts) and representation (lower courts) have the respective meanings given by regulation 2 of the General Regulations;
+- “**representative**” means a solicitor or counsel.
+
+## 3. Application[^key-528d9bb052208eb63c4ad2381894de7e]
+
+(1) Subject to paragraph (2) this Order shall apply for the determination of the remuneration payable to representatives in respect of providing civil legal services—
+
+- (a) where the date of initial advice for an application for advice and assistance under the General Regulations is on or after 1st April 2015; or
+- (b) where the work is done under a certificate granted under the General Regulations on or after 1st April 2015.
+
+(2) This Order shall not apply to the determination of remuneration payable to representatives in respect of providing civil legal services to which the Civil Legal Services (Remuneration) Order (Northern Ireland) 2025 applies (see Articles 3, 20 and 21 of that Order).
+
+## 4. Service of notices and documents
+
+(1) Any document that is required to be sent to the Department under this Order may be sent—
+
+- (a) by post or by personal delivery to an address specified by the Department; or
+- (b) by electronic mail.
+
+(2) Any notice or document that is required to be sent to a representative under this Order may be sent—
+
+- (a) by post to the postal address given by the representative as their address for service; or
+- (b) by electronic mail.
+
+## 5. General
+
+(1) Subject to paragraph (2), the remuneration payable to representatives in respect of work done providing civil legal services to which this Order applies shall be determined by the Department in accordance with this Order and having regard to such directions and guidance as may be issued by the Department.
+
+(2) Paragraph (1) shall not apply to:
+
+- (a) proceedings in the county court, where the costs payable to the representative has been taxed by a district judge;
+- (b) proceedings in the High Court or Court of Appeal, where the costs payable to the representative has been taxed by the taxing master;
+- (c) proceedings in the Supreme Court, where the costs payable to the representative has been assessed by the Registrar to the Supreme Court.
+
+## 6. Interim payments
+
+(1) Paragraphs (1) to (8) of this Article apply only to—
+
+- (a) work which is being funded by way of advice and assistance; or
+- (b) proceedings which are being funded by way of representation (lower courts).
+
+(2) A solicitor may submit a claim to the Department for payment of a disbursement for which the solicitor has incurred liability in accordance with the provisions of this Article.
+
+(3) A claim for payment may be made where—
+
+- (a) the disbursement falls within any guidance issued by the Department in respect of advice and assistance or representation (lower courts), or the solicitor has obtained prior authority from the Director under the General Regulations to incur the expenditure;
+- (b)[^key-b48ffe871e991d0bb029a0443e7f1efc] subject to paragraph (3A), the total liability for such disbursement exceeds £500; and
+- (c) the solicitor has incurred[^key-45b21e832de900077856dd0a0f9bb211] such liability.
+
+(3A)[^key-3d335d0a76fb5c7b93d3f938966279f8] For the purposes of this Article, where a liability has been incurred as a result of the joint instruction of an expert, sub-paragraph (3)(b) shall be deemed to be satisfied provided that the total cost as between those jointly instructing that expert exceeds £500.
+
+(4) Without prejudice to Article 10(4), a claim under paragraph (2) shall not exceed £2,500 or the maximum fee authorised under the prior authority, whichever is the greater.
+
+(5) A claim for payment under paragraph (2) may be made at any time before the solicitor submits a claim for remuneration under Article 8(2).
+
+(6) A claim under paragraph (2) shall be submitted to the Department in such form and manner as it may direct and shall be accompanied by the authority to incur the expenditure (if applicable) and any invoices or other documents in support of the claim.
+
+(7) The Department shall allow the disbursement, subject to the limit in paragraph (4), if it appears to have been reasonably incurred and discharged in accordance with the guidance or prior authority.
+
+(8) Where the Department allows the disbursement, it shall notify the solicitor and authorise payment to the solicitor accordingly.
+
+(9) Paragraphs (10) and (11) of this Article apply only to a case which is being funded by way of representation (higher courts).
+
+(10) A representative[^key-42bdc3edae9911f98eefcc6ba624d323] acting for an assisted person may apply to the Department for the payment of a sum on account of costs incurred or to be incurred in connection with the proceedings to which the certificate relates.
+
+(11) On considering the application, the Department may authorise an interim payment to the representative[^key-00c6e2c23105dca296cf664bf2c23e60] of the amount applied for or of such other sum as the Department considers appropriate in the circumstances pending the assessment by the Department or, as the case may be, the taxation of such costs.
+
+(12) Articles 13 to 15 (redetermination etc.) shall not apply to a payment under this Article.
+
+## 7. Interim disbursements and final determination of costs
+
+(1) On a final determination of costs, Articles 8(2) and (6)(e) and 10 shall apply notwithstanding that a payment has been made under Article 6.
+
+(2) Where the amount found to be due under Article 10 in respect of a disbursement is less than the amount paid under Article 6 (“**the interim disbursement**”), the Department shall deduct the difference from the sum otherwise payable to the solicitor on the determination of costs, and where the amount due under Article 10 exceeds the interim disbursement, the Department shall add the difference to the amount otherwise payable to the solicitor.
+
+## 8. Claims for costs by representatives
+
+(1) Subject to Article 5(2), claims for remuneration by representatives shall be made and determined in accordance with the provisions of this Article and Schedule 2 to 5 to this Order, as applicable.
+
+(2) Claims for disbursements by solicitors shall be made and determined in accordance with the provisions of Article 10.
+
+(3)[^key-35de68f6e6cb6d38c2c49f6b71796fcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Subject to Article 17, no claim by a representative[^key-d6db8e69d5fd3dd87dba71946b11900f] for costs in respect of work provided by way of civil legal services shall be entertained unless it is submitted within three months from the date on which the advice and assistance was given or, as applicable, the conclusion of the proceedings to which the certificate relates.
+
+(5) Subject to paragraph (6), a claim for costs shall be submitted to the Department in such form and manner as it may direct and shall be accompanied by any receipts or other documents in support of any disbursement claimed.
+
+(6) A claim in respect of a case to which Schedule 4 applies shall—
+
+- (a) summarise, where appropriate, the items of work done by the representative or other fee-earner in respect of which fees are claimed;
+- (b) state the dates on which the items of work were done, the time taken where appropriate, the sums claimed and whether the work was done for more than one assisted person;
+- (c) specify, where appropriate, the representative or other fee-earner who undertook each of the items of work claimed;
+- (d) give particulars of any work done in relation to more than one claim or set of proceedings; and
+- (e) specify any disbursements claimed, the circumstances in which they were incurred and the amounts claimed in respect of them.
+
+(7) Where there are any special circumstances which should be drawn to the attention of the Department, the representative[^key-87e1ea7ac009fc8e09342ad2a2cefec7] shall specify them.
+
+(8) The representative[^key-de7dc6dee906703331d2ad3d096646b0] shall supply such further particulars, information and documents as the Department may require.
+
+## 9. Determination of representatives' remuneration
+
+(1) The Department shall consider the claim, any further particulars, information or documents submitted by the representative[^key-b689ef71d4ce2bc9f23826f75b850dfc] under Article 8 and any other relevant information and shall allow such work as appears to it to have been reasonably undertaken and properly done.
+
+(2) The Department shall allow remuneration for work allowed by it under this Article in accordance with the provisions of Schedule 2 to 5 to this Order, as applicable.
+
+## 10. Determination of solicitors' disbursements
+
+(1) Subject to the provisions of this Article, the Department shall allow such disbursements claimed under Article 8 as appear to it to have been actually and reasonably incurred.
+
+(2) No question as to the propriety of any step or act in relation to which prior authority has been obtained under this Order shall be raised on any determination of costs, unless the solicitor knew or ought reasonably to have known that the purpose for which the authority was given had failed or had become irrelevant or unnecessary before the costs were incurred.
+
+(3) Where costs are reasonably incurred in accordance with and subject to the limit imposed by a prior authority given under this Order, no question shall be raised on any determination of costs as to the amount of the payment to be allowed for the step or act in relation to which the authority was given.
+
+(4) Where costs are incurred in taking any steps or doing any act for which authority may be given under this Order, without such authority having been given or in excess of any fee so authorised, payment in respect of those costs may nevertheless be allowed on a determination of costs.
+
+## 11. Payment of remuneration
+
+(1) Having determined the remuneration payable to a representative in accordance with this Order, the Department shall notify the representative of the costs payable and, subject to paragraph (2), authorise payment accordingly.
+
+(2) For proceedings falling within Article 5(2)(b) or (c), the sum authorised for payment by the Department shall be the full amount allowed on taxation of the costs on account of disbursements and ninety-five per cent of the amount so allowed in respect of the representative's remuneration.
+
+(3) Where the costs payable under paragraphs (1) or (2) are varied as a result of any review, redetermination or appeal made or brought pursuant to this Order or the relevant court rules, as applicable, then—
+
+- (a) where the costs are increased, the Department shall authorise payment of the increase;
+- (b) where the costs are decreased, the representative shall repay the amount of such decrease; and
+- (c) where the payment of any costs to the representative is ordered under Article 14(15) or 15(9), the Department shall authorise such payment.
+
+## 12. Reasons for Department's decisions
+
+(1) Where a representative is dissatisfied with the calculation of the remuneration payable under Schedules 2 to 5, as applicable, the representative may request the Department to give reasons in writing for its decision and the Department shall comply with any such request.
+
+(2) Subject to Article 17, the request shall be made—
+
+- (a) within 21 days of receiving notification of the costs payable under Article 11; and
+- (b) in such form and manner as the Department may direct.
+
+(3) Clerical mistakes or errors arising from any accidental slip or omission, in the calculation of the remuneration under Article 9 or the determination of disbursements under Article 10 may be corrected by the Department without a redetermination under Article 13 or an appeal under Article 14, where applicable.
+
+## 13. Redetermination of costs by Department
+
+(1) Where a representative is dissatisfied with the calculation of the remuneration payable under Schedule 2, 3, 4 or 5 as applicable, the representative may apply to the Department to redetermine those costs.
+
+(2) Subject to Article 17, the application shall be made within 21 days of receiving notification of the remuneration payable under Article 11, by giving notice in writing to the Department specifying the matters in respect of which the application is made and the grounds of objection and shall be made in such form and manner as the Department may direct.
+
+(3) The notice of application shall be accompanied by the particulars, information and documents supplied under Article 8.
+
+(4) The applicant shall supply such further particulars, information and documents as the Department may require.
+
+(5) If the Department considers it necessary to receive oral representations, the Department shall inform the applicant of the date of any hearing and, subject to the provisions of this Article, may give directions as to the conduct of the hearing.
+
+(6) The Department shall redetermine the costs, whether by way of confirmation, or increase or decrease in the amount previously determined, in the light of the objections made by, or on behalf of, the applicant and shall notify the applicant of its decision.
+
+(7) The applicant may request the Department to give reasons in writing for its decision and the Department shall comply with any such request.
+
+(8) Subject to Article 17, any request under paragraph (7) shall be made within 21 days of receiving notification of the decision.
+
+## 14. Appeals to the taxing master
+
+(1) This Article applies only to claims in respect of proceedings to which Schedule 4 applies and the remuneration payable has been determined by the Department under Article 5(1).
+
+(2) Where the Department has given its reasons for its decision under Article 13, a representative who is dissatisfied with that decision may appeal to the taxing master.
+
+(3) Subject to Article 17, an appeal shall be instituted within 21 days of receiving the Department's reasons, by giving notice in writing to the taxing master.
+
+(4) The appellant shall send a copy of any notice given under paragraph (3) to the Department.
+
+(5) The notice of appeal shall be accompanied by—
+
+- (a) a copy of the written representations given under Article 13(2);
+- (b) the Department's reasons for its decision given under Article 13(7); and
+- (c) the particulars, information and documents supplied to the Department under Article 13.
+
+(6) The notice of appeal shall:
+
+- (a) be in such form as the taxing master may direct;
+- (b) specify separately each item appealed against, showing (where appropriate) the amount claimed for the item, the amount determined and the grounds of the objection to the determination; and
+- (c) state whether the appellant wishes to appear or to be represented or whether they will accept a decision given in their absence.
+
+(7) The taxing master may, and if so directed by the Department either generally or in a particular case shall, send to the Department a copy of the notice of appeal together with copies of such other documents as the Department may require.
+
+(8) With a view to ensuring that the public interest is taken into account, the Department may arrange for written or oral representations to be made on its behalf and, if it intends to do so, the Department shall inform the taxing master and the appellant.
+
+(9) Any written representations made on behalf of the Department under paragraph (8) shall be sent to the taxing master and the appellant and, in the case of oral representations, the taxing master and the appellant shall be informed of the grounds on which such representations will be made.
+
+(10) The appellant shall be permitted a reasonable opportunity to make representations in reply.
+
+(11) The taxing master shall inform the appellant (or their representative) and the Department, where representations have been or are to be made on its behalf, of the date of any hearing and, subject to the provisions of this Article, may give directions as to the conduct of the appeal.
+
+(12) The taxing master may consult the trial judge or the Department and may require the appellant to provide any further information required for the purpose of the appeal and, unless the taxing master otherwise directs, no further evidence shall be received on the hearing of the appeal and no ground of objection shall be valid which was not raised under Article 13.
+
+(13) The taxing master shall have the same powers as the Department under this Order and, in the exercise of such powers, may alter the redetermination of the Department in respect of any sum allowed, whether by increase or decrease.
+
+(14) The taxing master shall communicate the decision and the reasons for it in writing to the appellant, the Department and the Legal Services Agency.
+
+(15) Except where the taxing master confirms or decreases the sums redetermined under Article 13, the taxing master may allow the appellant a sum in respect of part or all of any reasonable costs (including any fee payable in respect of an appeal) incurred by the appellant in connection with the appeal.
+
+## 15. Appeals to the High Court
+
+(1) This Article applies only to claims in respect of proceedings to which Schedule 4 applies and the remuneration payable has been determined by the Department under Article 5(1).
+
+(2) A representative who is dissatisfied with the decision of the taxing master on an appeal under Article 14 may apply to the taxing master to certify a point of principle of general importance; provided that, if the taxing master refuses such application, the representative may renew the application before a judge of the High Court.
+
+(3) Subject to Article 17, an application under paragraph (2) shall be made within 21 days of receiving notification of the taxing master's decision under Article 14(14).
+
+(4) Where the taxing master or judge certifies a point of principle of general importance, the representative may appeal to the High Court against the decision of the taxing master on an appeal under Article 14, and the Department shall be a respondent to such an appeal.
+
+(5) Subject to Article 17, an appeal under paragraph (4) shall be instituted within 21 days of receiving the certificate under paragraph (2).
+
+(6) Where the Department is dissatisfied with the decision of the taxing master on an appeal under Article 14, it may, if no appeal has been made by the representative under paragraph (4), appeal to the High Court against that decision, and the representative shall be a respondent to the appeal.
+
+(7) Subject to Article 17, an appeal under paragraph (6) shall be instituted within 21 days of receiving notification of the taxing master's decision under Article 14(14).
+
+(8) The decision of the High Court on an appeal under paragraphs (2), (4) or (6) shall be final.
+
+(9) The judge shall have the same powers as the Department and the taxing master under this Order and may reverse, affirm or amend the decision appealed against or make such other order as the judge thinks fit.
+
+## 16. Restriction on payment
+
+Where a certificate has been granted in respect of any proceedings to which this Order applies, a representative shall not receive or be a party to the making of any payment for work done in connection with those proceedings except such payments as may be made—
+
+- (a) by the Department; or
+- (b) in respect of any expenses or fees incurred in preparing, obtaining or considering any report, opinion or further evidence, whether provided by an expert witness or otherwise, where an application under the General Regulations for an authority to incur such expenses or fees has been refused by the Director.
+
+## 17. Time limits
+
+(1) Subject to paragraph (2), the time limit within which any act is required or authorised to be done under this Order may, for good reason, be extended—
+
+- (a) in the case of acts required or authorised to be done under Article 14 or 15, by the taxing master or the High Court as the case may be; and
+- (b) in the case of acts required or authorised to be done by a representative under any other Article, by the Department.
+
+(2) Where a representative without good reason has failed (or, if an extension were not granted, would fail) to comply with a time limit, the Department, the taxing master or the High Court, as the case may be, may, in exceptional circumstances, extend the time limit and shall consider whether it is reasonable in the circumstances to reduce the remuneration, provided that the remuneration shall not be reduced unless the representative has been permitted a reasonable opportunity to show cause orally or in writing why the remuneration should not be reduced.
+
+(3) In carrying out the functions described in this Article, the Department, the taxing master or the High Court, as the case may be, shall have regard to any guidance given by the Department about the carrying out of those functions.
+
+(4) A representative may appeal to the taxing master against a decision made under this Article by the Department and such an appeal shall be instituted within 21 days of receiving notification of the decision by giving notice in writing to the taxing master specifying the grounds of appeal.
+
+## 18. Review
+
+(1) The Department shall keep the general operation of this Order under review to ensure that it is consistent with the requirements of Article 47 of the 2003 Order.
+
+(2) Without prejudice to paragraph (1), the Department shall conduct a formal review of the levels of the prescribed remuneration under this Order at least once in every review period.
+
+(3) Where the Department has conducted a review under this Article, it shall publish the result of the review—
+
+- (a) as soon as is reasonably practicable;
+- (b) in such form as it considers appropriate; and
+- (c) together with any proposals it may have with respect to the matters reviewed.
+
+(4) When conducting a review under this Article, the Department shall have regard, among the matters which are relevant, to—
+
+- (a) any representations made by the Lord Chief Justice, the Attorney General, the Law Society of Northern Ireland, the General Council of the Bar of Northern Ireland and the Director; and
+- (b) any other representations which it considers to be relevant.
+
+(5) In paragraph (2) “**review period**” means the period of three years beginning with the commencement of this Order and each subsequent period of three years.
+
+## 19. Interim fees
+
+(1) This Article applies where it appears to the Department that a certificate has been granted, or may be granted, under the General Regulations for certain proceedings falling within civil legal services and the provisions of this Order do not include a fee for those proceedings.
+
+(2) The Department must set an interim fee for those services pending a fee (“the prescribed fee”) being prescribed by the Department under this Order.
+
+(3) If the prescribed fee exceeds the interim fee, the Department shall pay the outstanding balance to any representative who was paid the interim fee set under paragraph (2).
+
+(4) If the prescribed fee is less than the interim fee, the Department shall recover the overpayment from the representative under this Article.
+
+Sealed with the Official Seal of the Department of Justice on 31st March 2015
+
+David Ford
+
+Minister of Justice
+
+## SCHEDULE 1 — Instruments Revoked
+
+Article 1(2)
+
+| *Title* | *Registered Number* | *Regulations Revoked* |
+| --- | --- | --- |
+| The Legal Aid (General) Regulations (Northern Ireland) 1965 | No. 217 | Regulations 19 to 21, 21A(4) to (7), 22 to 25 and 27 |
+| Legal Aid (Remuneration of Solicitors and Counsel in County Court Proceedings) Order (Northern Ireland) 1981 | No. 179 | The whole instrument |
+| Legal Aid (Remuneration of Solicitors and Counsel in Authorised Summary Proceedings) Order (Northern Ireland) 1981 | No. 365 | The whole instrument |
+| The Legal Advice and Assistance Regulations (Northern Ireland) 1981 | No. 366 | Regulation 23 |
+
+## SCHEDULE 2 — ADVICE AND ASSISTANCE
+
+Article 9
+
+### PART 1 — General
+
+**1.** This Schedule applies to the determination of the remuneration payable to solicitors for providing advice and assistance, including those matters in which the Director has granted an extension under regulation 32 of the General Regulations.
+
+**2.** Where the remuneration or fees properly chargeable for the advice and assistance including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the solicitor shall submit a claim to the Department requesting payment of the deficiency.
+
+**3.** (1) The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in Part 2 or 3 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the solicitor.
+
+(2) In this paragraph “**assessed deficiency**” means the amount by which the sum allowed to the solicitor by the Department in assessing the claim under sub-paragraph (1) exceeds any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order.
+
+(3)[^key-2c6fe9c39fcae900bd31ab9ccb1c03d4] In respect of any claims for costs made for work done under Tables 2 and 3 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
+
+(4) Unless otherwise prescribed by this Schedule, travel and waiting time may be claimed at the rate of £24.25 per hour and mileage may be claimed at the rate of 35.7p per mile for matters falling within this Schedule.
+
+### PART 2 — Matters other than those relating to PACE, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-a1322fc5733de3edc995ffe5e2def26a]
+
+Table 1:
+
+Solicitor – Hourly Rates
+
+| ***Work Type*** | ***Rate*** |
+| --- | --- |
+| Advice | £43.25 per hour |
+| Letters/Emails/Telephone Calls[^key-510e398af583ae969165f70383436e04] | £3.35 per item / call[^key-35e37013bae98f579827237240b7e6e0] |
+| [^key-53e6d9b2f8b0c45c29f1e1262df604ad]. . . | [^key-53e6d9b2f8b0c45c29f1e1262df604ad]. . . |
+| [^key-52e81d5a922988d8b3b9ac8a95e2508b]. . . | [^key-52e81d5a922988d8b3b9ac8a95e2508b]. . . |
+
+**Guide to Case Management in Public Law Children Order Proceedings (Article 50)**
+
+Table 2:
+
+Solicitor – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| Advice given to parent in relation to Letter Before Proceedings (LBP) | £144 |
+| Preparation and Attendance with Parent at Pre-Proceedings Meeting (PPM) | £347 |
+
+**All preparation work up to, and including, review of case by a single Parole Commissioner under Criminal Justice (Northern Ireland) Order 2008**
+
+[^c22509981]Table 3:
+
+Solicitor – Standard Fees
+
+| ***Work Type – Stage 1*** | ***Standard Fee*** |
+| --- | --- |
+| Prisoner serving a Determinate Custodial |  |
+| Sentence (DCS) | £350 |
+| Prisoner serving an Extended Custodial |  |
+| Sentence (ECS) | £500 |
+| Prisoner serving an Indeterminate Custodial |  |
+| Sentence (ICS) | £700 |
+
+### PART 3 — Police and Criminal Evidence (PACE) matters, Schedule 7 to the Terrorism Act 2000 matters or Schedule 3 to the Counter-Terrorism and Border Security Act 2019 matters[^key-564d3bdcd65979102f0355a8cde6017d]
+
+Table 1:
+
+Solicitor – Hourly Rates
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> This work relates to interviews conducted under the Police and Criminal Evidence (Northern Ireland) 1989 – S.I. 1989/1341 (N.I. 12) , Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019</td></tr>
+<tr><td colspan="2"><sup>2</sup> Unsocial hours are defined as between 7.00pm and 9.00am on any weekday, or any time on a Saturday, Sunday or Public Holiday</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong><sup>1</sup></em></th><th><em><strong>Rate</strong></em></th></tr>
+<tr><td>Normal Hours</td><td></td></tr>
+<tr><td>Advice</td><td>£51.90 per hour</td></tr>
+<tr><td>Letters/Emails/Telephone Calls</td><td>£4.02 per item</td></tr>
+<tr><td>Telephone advice</td><td>£23.70 per call</td></tr>
+<tr><td>Travel and waiting time</td><td>£29.10 per hour</td></tr>
+<tr><td>Mileage rate</td><td>42.8p per mile</td></tr>
+<tr><td>Unsocial Hours<sup>2</sup></td><td></td></tr>
+<tr><td>Advice</td><td>£69.20 per hour</td></tr>
+<tr><td>Letters/Emails/Telephone Calls</td><td>£5.36 per item</td></tr>
+<tr><td>Telephone advice</td><td>£31.60 per call</td></tr>
+<tr><td>Travel and waiting time</td><td>£38.80 per hour</td></tr>
+<tr><td>Mileage rate</td><td>42.8p per mile</td></tr>
+</tbody>
+</table>
+
+[^key-ab6713c31fd4e8d79d960d71879f1000]
+
+## SCHEDULE 3 — REPRESENTATION (LOWER COURTS)
+
+Article 9
+
+### PART 1 — General
+
+**1.** This Schedule applies to the determination of the remuneration payable to representatives for providing representation (lower courts).
+
+**2.** Where the remuneration or fees properly chargeable for the representation including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the representative shall submit a claim[^key-175b2d554e3922fc7d3c36f94d058e84] to the Department requesting payment of the deficiency.
+
+**3.** (1) The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in the relevant Table in Part 2 or 3 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the representative[^key-7b1f3ae7ea8174a2b36730930e091a64] .
+
+(2) In this paragraph “**assessed deficiency**” means the amount by which the sum allowed to the representatives by the Department in assessing the claim under sub-paragraph (1) exceeds any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order.
+
+**4.**[^key-48b1f8d96e47c3e5bb8b9ecaf40a1b33] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
+
+**5.** In respect of claims for costs made under Table 2 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
+
+**6.** In respect of claims for costs made under Table 5 of Part 2 of this Schedule, no claim shall be entertained for waiting time.
+
+**7.** In respect of claims for costs made under Table 7 of Part 2 of this Schedule, travel time may be claimed by solicitors at the rate of £24.25 per hour and no claim shall be entertained for waiting time.
+
+**8.** In respect of claims for costs made under Tables 1, 2, 3, 5, 8 and 10 in Part 3 of this Schedule, travel time may be claimed by solicitors at the rate of £24.25 per hour.
+
+**9.** In respect of claims for costs made under Tables 3 and 5 only in Part 3 of this Schedule, waiting time may be claimed by solicitors at the rate of £24.25 per hour. No other claims for waiting time by solicitors shall be entertained for proceedings in Part 3 of this Schedule.
+
+**10.** In respect of claims for costs made under Table 7 in Part 3 of this Schedule, a solicitor may claim for mileage only at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
+
+**11.** Unless otherwise prescribed by this Schedule, travel and waiting time, where payable may be claimed by solicitors at the rate of £29.25 per hour and mileage, where payable may be claimed at the rate of 35.7p per mile for proceedings falling within this Schedule.
+
+**12.** Unless otherwise prescribed by this Schedule, travel time, where payable may be claimed by authorised counsel at the rate of £12 per hour and mileage, where payable may be claimed at the rate of 35.7p per mile for proceedings falling within this Schedule.
+
+**13.** For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+
+**14.** For the proceedings listed in Part 3 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court, Tribunal or hearing venue as applicable shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court, Tribunal or hearing venue shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+
+### PART 2 — Family and Children Order Proceedings
+
+#### Children (Northern Ireland) Order 1995 or Article 31B of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c22509991][^key-7ed4eb673dde8de6387d9f6885b2051c]
+
+Solicitor's remuneration can be claimed on the basis of either Hourly Rates (Table 1) or Composite Fees (Table 2), at the election of the solicitor
+
+Table 1:
+
+Solicitor – Hourly Rates
+
+| ***Work Type*** | ***Rate*** |
+| --- | --- |
+| Consultation (other than with Counsel) and Preparation[^key-d361c74e395e1f1faf3e1df88811c260] | £58 per hour |
+| Letters Written | £3.65 per item |
+| Letters Received | £1.85 per item |
+| Telephone Calls | £3.65 per call |
+| Non Standard Telephone Call (over 5 minutes) | £58 per hour |
+| Advocacy – Solicitor Alone | £64 per hour |
+| Consultation with Counsel | £32.50 per hour |
+| Advocacy – Solicitor attending Counsel | £32.50 per hour |
+
+Table 2:
+
+Solicitor – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| Private Law | £250 |
+| Public Law | £400 |
+
+Table 3:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| On an unopposed application or a procedural issue | Standard £76.25<br>Maximum £127 |
+| On the trial of a cause or matter, or the hearing of an application: |  |
+| \-Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
+| \- Full Day | Standard £317.75<br>Maximum £508.50 |
+| \-Refresher | £140 for each additional day |
+| Consultation and Preparation[^key-4ff94392830e171da714b1cbe1a1261f] | £35.50 per hour |
+| Complex items of work (opinion, affidavits) | £82.75 per item |
+| All other written work | £50.25 per item |
+
+#### The Family Homes and Domestic Violence (Northern Ireland) Order 1998[^c22510001]
+
+Solicitor's remuneration can be claimed on the basis of either Hourly Rates (Table 4) or Composite Fees (Table 5), at the election of the solicitor
+
+Table 4:
+
+Solicitor – Hourly Rates
+
+| ***Work Type*** | ***Rate*** |
+| --- | --- |
+| Consultation (other than with Counsel) and Preparation[^key-9b96c4bf8197e1e5db07a9fca5d89261] | £58 per hour |
+| Letters Written | £3.65 per item |
+| Letters Received | £1.85 per item |
+| Telephone Calls | £3.65 per call |
+| Non Standard Telephone Call (over 5 minutes) | £58 per hour |
+| Advocacy – Solicitor Alone | £64 per hour |
+| Consultation with Counsel | £32.50 per hour |
+| Advocacy – Solicitor attending Counsel | £32.50 per hour |
+
+Table 5:
+
+Solicitor – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| Non-Molestation Order | £352 |
+| Occupation Order | £352 |
+| Non-Molestation/Occupation application withdrawn with undertakings | £352 |
+| Non-Molestation and Occupation Order | £416 |
+| Second Hearing – Contested | £192 |
+| Second Hearing – Uncontested | £96 |
+| Variation/Discharges – Contested | £352 |
+| Variation/Discharges – Uncontested | £192 |
+| Adjournments | £30 |
+| Nominal Adjournment Fee – no court attendance | £15 |
+| Withdrawn | £30 |
+| Summons not served | £30 |
+| Letters Written | £3.65 per item |
+| Letters Received | £1.85 per item |
+| Telephone Calls | £3.65 per call |
+| Non-routine telephone calls in excess of 5 minutes | £58 per hour |
+
+Table 6:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| On an unopposed application or a procedural issue | Standard £76.25<br>Maximum £127 |
+| On the trial of a cause or matter, or the hearing of an application: |  |
+| \- Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
+| \- Full Day | Standard £317.75<br>Maximum £508.50 |
+| \- Refresher | £140 for each additional day |
+| Consultation and Preparation[^key-c6a947b3a928c08dd776b080144b8f82] | £35.50 per hour |
+| Complex items of work (opinion, affidavits) | £82.75 per item |
+| All other written work | £50.25 per item |
+
+**Domestic Proceedings (Northern Ireland) Order 1980**
+
+[^c22510011]Table 7:
+
+Solicitor – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| Separation and Maintenance | £140 |
+| Variation of Maintenance | £83.50 |
+| Case withdrawn at any stage before hearing and up to strikeout | £66 |
+| Part Hearings | £29 |
+| Adjourned Hearings: |  |
+| \- less than 20 minutes | £15.50 |
+| \- in excess of 20 minutes | £29 |
+| Nominal Adjournment Fee – no court attendance | £12 |
+| Dismissed Cases | £124.50 |
+| Letters and telephone calls (not included in the basic fee) | £3.35 per item |
+| Discontinued cases (no proceedings issued) |  |
+| \- advice less than one hour | £45 |
+| \- advice of one hour | £50 |
+| \- advice in excess of one hour | £55 |
+
+Table 8:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| On an unopposed application or a procedural issue | Standard £76.25<br>Maximum £127 |
+| On the trial of a cause or matter, or the hearing of an application: |  |
+| \- Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
+| \- Full Day | Standard £317.75<br>Maximum £508.50 |
+| \- Refresher | £140 for each additional day |
+| Consultation and Preparation[^key-577758411e86ca1d061b25b06a7a026c] | £35.50 per hour |
+| Complex items of work (opinions, affidavits) | £82.50 per hour |
+| All other written work | £50.25 per item |
+
+### PART 3 — Other Proceedings
+
+**Police and Criminal Evidence (Northern Ireland) Order 1989****[^c22510021] and Terrorism Act 2000**
+
+[^c22510031]Table 1:
+
+Solicitor – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| All Proceedings | £352 |
+
+**Proceedings before the Mental Health Review Tribunal**
+
+Table 2:
+
+Solicitor – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| Preparation and Negotiation | £330 |
+| Representation at Tribunal | £370 (per half day, or part thereof) |
+| Adjourned Hearing | £76.25 |
+
+**Hearings held under Article 10 or 11 of the Life Sentences (Northern Ireland) Order 2001**
+
+[^c22510041]Table 3:
+
+Solicitor – Hourly Rate
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> If additional hours are authorised by the Department, they are payable at the same rate.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong></em></th><th><em><strong>Solicitor</strong></em></th></tr>
+<tr><td>Hourly fees for all work</td><td>£100 per hour up to a maximum fee of £800<sup>1</sup></td></tr>
+</tbody>
+</table>
+
+Table 4:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Composite fee | £2,666 | £4,000 |
+
+**Other hearings before the Parole Commissioners**
+
+Table 5:
+
+Solicitor – Hourly Rate
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> If additional hours are authorised by the Department, they are payable at the same rate.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong></em></th><th><em><strong>Solicitor</strong></em></th></tr>
+<tr><td>Hourly fees for all work</td><td>£100 per hour up to a maximum fee of £800<sup>1</sup></td></tr>
+</tbody>
+</table>
+
+Table 6:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Composite Fee | £3,000 | £4,500 |
+
+**Oral hearing before the Parole Commissioners under the Criminal Justice (Northern Ireland) Order 2008**
+
+[^c22510051]Table 7:
+
+Solicitor – Composite Fee
+
+| ***Work Type – Stage 2*** | ***Composite Fee*** |
+| --- | --- |
+| All case types | £250 |
+
+**Proceedings under sections 295, 297, 298, 301 or 302 of the Proceeds of Crime Act 2002**
+
+Table 8:
+
+Solicitor – Composite Fees
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> The Composite Fee will remunerate a solicitor for all work associated with the particular case, excluding disbursements and VAT. The fee is taken to include up to the first 7 letters and telephone calls under 5 minutes. Any further letters or telephone calls can be claimed in addition to the composite fee provided they are itemised.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong></em></th><th><em><strong>Composite Fee</strong></em></th></tr>
+<tr><td>Composite Fee</td><td>£352<sup>1</sup></td></tr>
+<tr><td>Second Hearing</td><td>£192</td></tr>
+<tr><td>Adjournment</td><td>£30</td></tr>
+<tr><td>Nominal Adjournment Fee – no court attendance</td><td>£15.50</td></tr>
+<tr><td>Withdrawn</td><td>£30</td></tr>
+<tr><td>Letters and telephone calls</td><td>£3.65 per item / call</td></tr>
+<tr><td>Non routine telephone calls (over 5 minutes)</td><td>£58 per hour</td></tr>
+</tbody>
+</table>
+
+[^key-277e465c893d163b5bdf43a6ed44528e]
+
+Table 9:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| On the trial of a cause or matter, or the hearing of an application |  |
+| – Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
+| – Full Day | Standard £317.75<br>Maximum £508.50 |
+| Part Hearing (standard) | £76.25 |
+| Part Hearing (maximum) | £127 |
+| Refresher | £140 for each additional day |
+| Consultation and Preparation[^key-54e09926835469453a7c3dafd6d831a8] | £35.50 per hour |
+| Complex items of work (opinions, affidavit) | £82.75 per item |
+| All other written work | £50.25 per item |
+
+**Proceedings regarding an order under sections 89, 90, 97, 100, 104, 108, 109, 114, 118, 123, 125 or 126 of the Sexual Offences Act 2003****[^c22510061] and Proceedings under Articles 3 and 4 of the Anti-social Behaviour (Northern Ireland) Order 2004****Proceedings before the Care Tribunal under Article 11, 12, 42 or 43 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^key-8dbf9c2acb83e951103ef3141cd598e9]** **or regulation 10 of the Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007** **Proceedings under Part 13A of the Prison and Young Offenders Centre Rules (Northern Ireland) 1995****Proceedings under paragraph 2, 6 or 7 of Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^key-4cf4150209481d715ff4017f96056691]** **Proceedings under section 57, 60 or 61 of the Justice Act (Northern Ireland) 2015**
+
+[^c22510071]Table 10:
+
+Interim Fees
+
+| ***Proceedings Type*** | ***Solicitor*** | ***Junior Counsel*** |
+| --- | --- | --- |
+| All proceedings | £180 | £180 |
+
+## SCHEDULE 4 — REPRESENTATION (HIGHER COURTS)
+
+Article 9
+
+### PART 1 — General
+
+**1.** This Schedule applies to the determination of the remuneration payable to representatives for providing representation (higher courts).
+
+**2.** The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in the relevant Table in Parts 2 to 6 of this Schedule, as applicable, and pay the assessed remuneration to the representative[^key-3983cca63f663aa4aa89ef5f60a53617] .
+
+**3.** For proceedings listed within Part 2 of this Schedule, where a representative considers that the sum allowable under Table 1 or Table 2, as applicable, would not provide reasonable remuneration according to the work reasonably undertaken and properly done, the representative may apply to the judge before whom the proceedings took place for a certificate that for any reason including the exceptional length, difficulty or complexity of the proceedings the limitation on the sums allowable under Table 1 or Table 2, as applicable, shall not apply and where such certificate is granted the Department shall allow remuneration under Table 3 to 19, as applicable.
+
+**4.** Where a judge has granted a certificate under paragraph 3, and there is a combination of proceedings heard together, the highest applicable composite fee will be payable with an additional payment of 30% of the composite fee in respect of the first related proceedings and an additional payment of 20% of the composite fee in respect of the second related proceedings.
+
+**5.** For proceedings listed within Part 3 of this Schedule, where the costs have been taxed by a district judge, the Department will pay remuneration to the solicitor on foot of the taxed bill. If the proceedings are withdrawn, abandoned or discontinued the representative's claim will be assessed by the Department in accordance with Tables 1 to 4, as applicable.
+
+**6.** For proceedings listed within Parts 4, 5 and 6 of this Schedule, the sums allowed to representatives in any proceedings shall, subject to Article 5(2)(a) and (b), be assessed by the Department in accordance with the Tables set out in the relevant Part, as applicable to the nature of the proceedings and the items of work in question.
+
+**7.**[^key-2cd5e7d00baf7ad93d67dc98969e7c30] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
+
+**8.** For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+
+**9.** For proceedings falling to be remunerated under Tables 3 to 11 of Part 2 of this Schedule, no claims for waiting time shall be entertained.
+
+**10.** For proceedings falling within Table 1 of Part 3, no claim for mileage shall be entertained. Any claim by a solicitor for travelling to attend Court shall be from the solicitor’s office to which the certificate relates.
+
+**11.** (1) For proceedings listed within Tables 2, 3 and 4 of Part 3 of this Schedule and proceedings listed within Part 4 of this Schedule, travel may be claimed as follows and claims shall not be entertained for mileage or waiting—
+
+- (a) Counsel travelling to attend a court─
+  - (i) 20 to 50 miles from the Head Post Office, Belfast, is entitled to an additional sum of £23;
+  - (ii) More than 50 miles from the Head Post Office, Belfast, is entitled to an additional sum of £46.
+- (b) Solicitor travelling to attend a court─
+  - (i) 20 to 50 miles from the solicitor’s office, or where the solicitor’s firm practises from more than one office, from the office which dealt with the proceedings is entitled to an additional sum of £23;
+  - (ii) More than 50 miles from the solicitor’s office, or where the solicitor’s firm practises from more than one office, from the office which dealt with the proceedings is entitled to an additional sum of £46.
+
+(2) Where a solicitor or counsel has conducted more than one case in the same day at the same venue, the fee set out in sub-paragraph (1) may be claimed once only and the fee shall be divided proportionately over the number of cases conducted by the solicitor or counsel.
+
+**12.** In any proceedings listed in Part 5 of this Schedule to which travel and mileage are payable, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates and any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
+
+**13.** In respect of claims for costs made under Table 1 of Part 5 of this Schedule, travel may be claimed by solicitor only from the solicitor’s office to which the certificate relates at the rate of £15 per hour and mileage at the rate of 35.7p per mile. No claim shall be entertained for waiting time.
+
+**14.** In respect of any claim for costs made under Table 2 of Part 5 of this Schedule, no claim for travelling or waiting time or mileage shall be entertained.
+
+**15.** In respect of any claim for costs made under Table 3 of Part 5 of this Schedule, no claim for mileage shall be entertained
+
+**16.** For the proceedings listed in Part 6 of this Schedule, a solicitor may claim for mileage only from the solicitor’s office to which the certificate relates at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
+
+**17.** Unless otherwise prescribed by this Schedule, travel and waiting time where payable, may be claimed by solicitors at the rate of £29.25 per hour and mileage where payable may be claimed at the rate of 35.7p per mile for proceedings falling within this Schedule.
+
+**18.** Unless otherwise prescribed by this Schedule, travel time where payable may be claimed by authorised counsel at the rate of £12 per hour and mileage where payable may be claimed at the rate of 35.7p per mile for proceedings falling within this Schedule.
+
+### PART 2 — Family and Children Order Proceedings – Family Care Centre
+
+**All proceedings including appeals from the Family Proceedings Court and Domestic Proceedings Court[^key-5d329236aed1b29ad9800d463167105d]**
+
+Table 1:
+
+Solicitor – Hourly Rates
+
+| ***Work Type*** | ***Rate*** |
+| --- | --- |
+| Preparation | £58 per hour |
+| Letters Written | £3.65 per item |
+| Letters Received | £1.85 per item |
+| Telephone Calls | £3.65 per call |
+| Non Standard Telephone Call (over 5 minutes) | £58 per hour |
+| Advocacy – Solicitor Alone | £64 per hour |
+| Consultation with Counsel | £32.50 per hour |
+| Advocacy – Solicitor with Counsel | £32.50 per hour |
+
+Table 2:
+
+Counsel – Composite Fees
+
+| ***Work Type*** | ***Composite Fee*** |
+| --- | --- |
+| On an unopposed application or a procedural issue | Standard £76.25<br>Maximum £127 |
+| On the trial of a cause or matter, or the hearing of an application: |  |
+| \- Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
+| \- Full Day | Standard £317.75<br>Maximum £508.50 |
+| \- Refresher | £140 for each additional day |
+| Consultation and Preparation[^key-d1b289c6cbc52959c1401f0f35f766bb] | £35.50 per hour |
+| Complex items of work (opinions, affidavits) | £82.75 per item |
+| All other written work | £50.25 per item |
+
+Table 3:
+
+Children Order – Proceedings under Articles 44 and 50
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £3,500 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set)[^key-22da49bbea020b8c95bc1f1fc40b785f] | £1,225 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing)[^key-1e8d809f76ca5d68e2ecebb917a2a521] | £700 |
+
+Table 4:
+
+Children Order – All Other Proceedings
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £2,000 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £700 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £400 |
+
+Table 5:
+
+Children Order – Appeals from the Family Proceedings Court – Proceedings under Articles 44 and 50
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £1,400 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £490 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £280 |
+
+Table 6:
+
+Appeals from the Family Proceedings Court and Domestic Proceedings Court – Re Other Proceedings[^key-b4775c5e7f0fd01aef5479f1e73a5d48]
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite fee | £800 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £280 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £160 |
+
+Table 7:
+
+Proceedings under Adoption (Northern Ireland) Order 1987 [^c22510091] – Freeing Order
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £3,500 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £1,225 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £700 |
+
+Table 8:
+
+Combined Proceedings – Freeing Order and Article 50
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £5,000 |
+| Additional Full day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £1,750 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £1,000 |
+
+Table 9:
+
+Adoption Order – Contested
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £3,500 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £1,225 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £700 |
+
+Table 10:
+
+Adoption Order – Uncontested
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £400 |
+| Additional Full Day | £400 |
+| Additional Half Day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £140 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £80 |
+
+Table 11:
+
+Proceedings under Family Homes and Domestic Violence (Northern Ireland) Order 1988 [^c22510101] –Non-Molestation / Occupation Order
+
+| ***Work Type*** | ***Solicitor's Composite Fee*** |
+| --- | --- |
+| Composite Fee | £528 |
+| Additional Full Day | £400 |
+| Additional Half day | £200 |
+| Judgment Fee | £150 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £184.80 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing) | £105.60 |
+
+Table 12:
+
+Children Order – All Proceedings
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £2,000 | £3,000 |
+| Directions and Written Work | £780 | £1,170 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set)[^key-94230be43c101425aef7a113f02e40c9] | £700 | £1,050 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing)[^key-e0255b75d2265e4badeb6c460dbb5564] | £400 | £600 |
+
+Table 13:
+
+Appeals from the Family Proceedings Court and Domestic Proceedings Court – No New Evidence[^key-71208f5a16e1cab3bc0b0d614f1b9cd0]
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £800 | £1,200 |
+| Directions and Written Work | £195 | £292.50 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £280 | £420 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £160 | £240 |
+
+Table 14:
+
+Appeals from the Family Proceedings Court and Domestic Proceedings Court – New Evidence[^key-26fc78d310541d15659bbc5f4da27ef1]
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £1,500 | £2,250 |
+| Directions and Written work | £312 | £468 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £525 | £787.50 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £300 | £450 |
+
+Table 15:
+
+Proceedings under Adoption (Northern Ireland) Order 1987 [^c22510111] – Freeing Order
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £2,500 | £3,750 |
+| Directions and Written Work | £780 | £1,170 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £875 | £1,312.50 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £500 | £750 |
+
+Table 16:
+
+Combined Proceedings – Freeing Order and Article 50
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £3,520 | £5,280 |
+| Directions and Written Work | £1,170 | £1,755 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £200 | £300 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £1,232 | £1,848 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £704 | 1,056 |
+
+Table 17:
+
+Adoption Order – Contested
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £2,500 | £3,750 |
+| Directions and Written Work | £780 | £1,170 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £875 | £1,312.50 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £500 | £750 |
+
+Table 18:
+
+Adoption Order – Uncontested
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £1,150 | £1,725 |
+| Directions and Written Work | £312 | £468 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £402.50 | £603.75 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £230 | £345 |
+
+Table 19:
+
+Proceedings under Family Homes and Domestic Violence (Northern Ireland) Order 1998 [^c22510121] –Non-Molestation / Occupation Order
+
+| ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
+| --- | --- | --- |
+| Brief Fee | £1,500 | £2,250 |
+| Directions and Written Work | £780 | £1,170 |
+| Refresher – Full Day | £400 | £600 |
+| Refresher – Half Day | £200 | £300 |
+| Judgment Fee | £150 | £225 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set) | £525 | £787.50 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing) | £300 | £450 |
+
+### PART 3 — Divorce and other Family Proceedings in the County Court
+
+Table 1:[^key-18fa61fdb468d70afac62c913d628b92]
+
+Divorce, Nullity and other Matrimonial Suits – Matrimonial Causes (Northern Ireland) Order 1978 (Withdrawn/Abandoned/ Discontinued Proceedings) – Solicitor
+
+|  |  |
+| --- | --- |
+| **Work Type** | **Rate** |
+| Consultation, Preparation, Travel and Waiting | £30 per hour |
+| Letters and Telephone Calls | £3.35 per item |
+| Non Standard telephone call (over 5 minutes) | £30 per hour |
+
+Table 2:
+
+Committal Proceedings
+
+<table>
+<tfoot>
+<tr><td colspan="3"><sup>1</sup> Where a case is withdrawn before a hearing date has been set, a time-based assessment of work carried out will be undertaken for the solicitor. Hourly rates – £30, letters and telephone calls – £3.35 per item, non-standard telephone calls (over 5 minutes)- £30 per hour .</td></tr>
+<tr><td colspan="3"><sup>2</sup> For each day or part of a day on which a hearing is continued after the first day, both solicitor and counsel in attendance are entitled to an additional sum equivalent to one third of counsel's fee.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong><sup>1</sup></em></th><th><em><strong>Solicitor</strong></em></th><th><em><strong>Counsel</strong></em></th></tr>
+<tr><td>Composite Fee<sup>2</sup></td><td>£601</td><td>£222</td></tr>
+<tr><td>Case withdrawn on morning of hearing</td><td>25% deduction applied</td><td>25% deduction applied</td></tr>
+</tbody>
+</table>
+
+[^key-f64fb778ed132a3ed450337c61b58c90]
+
+Table 3:
+
+Adoption Proceedings
+
+<table>
+<tfoot>
+<tr><td colspan="3"><sup>1</sup> An uplift of 50% on the basic fee will be payable to both Solicitor and Junior Counsel for each additional child involved with the same proceedings.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong></em></th><th><em><strong>Solicitor</strong></em></th><th><em><strong>Counsel</strong></em></th></tr>
+<tr><td>Standard Fee<sup>1</sup></td><td>£193.50</td><td>£129</td></tr>
+<tr><td>Adjournments</td><td>£51.60</td><td>£32.25</td></tr>
+</tbody>
+</table>
+
+Table 4:
+
+Appeals from the Family Proceedings Court
+
+| ***Work Type*** | ***Solicitor*** | ***Counsel*** |
+| --- | --- | --- |
+| Standard Fee – irrespective of Full or Half day | £422 | £110 |
+| Case withdrawn at hearing | £347 | £110 |
+| Case withdrawn prior to hearing | £211 | £55 |
+| Adjournments | £51.50 | £34 |
+
+### PART 4 — Other Proceedings in the County Court
+
+Table 1:
+
+Ordinary Civil Bill Scales – Plaintiff's and Defendant's Remuneration
+
+<table>
+<tbody>
+<tr><th><em><strong>Department's assessment of value of the claim</strong></em></th><th><em><strong>Solicitor</strong></em></th><th><em><strong>Counsel</strong></em></th></tr>
+<tr><td>Does not exceed £1,000</td><td>£538</td><td>£180</td></tr>
+<tr><td rowspan="2">Exceeds £1,000 but does not exceed £2,500</td><td></td><td></td></tr>
+<tr><td>£1,136</td><td>£263</td></tr>
+<tr><td rowspan="2">Exceeds £2,500 but does not exceed £5,000</td><td></td><td></td></tr>
+<tr><td>£1,614</td><td>£383</td></tr>
+<tr><td rowspan="2">Exceeds £5,000 but does not exceed £7,500</td><td></td><td></td></tr>
+<tr><td>£2,092</td><td>£478</td></tr>
+<tr><td rowspan="2">Exceeds £7,500 but does not exceed £10,000</td><td></td><td></td></tr>
+<tr><td>£2,391</td><td>£562</td></tr>
+<tr><td rowspan="2">Exceeds £10,000 but does not exceed £12,500</td><td></td><td></td></tr>
+<tr><td>£2,630</td><td>£640</td></tr>
+<tr><td rowspan="2">Exceeds £12,500 but does not exceed £15,000</td><td></td><td></td></tr>
+<tr><td>£2,869</td><td>£718</td></tr>
+<tr><td rowspan="2">Exceeds £15,000 but does not exceed £20,000</td><td></td><td></td></tr>
+<tr><td>£3,876</td><td>£842</td></tr>
+<tr><td rowspan="2">Exceeds £20,000 but does not exceed £25,000</td><td></td><td></td></tr>
+<tr><td>£4,253</td><td>£953</td></tr>
+<tr><td rowspan="2">Exceeds £25,000 but does not exceed £30,000</td><td></td><td></td></tr>
+<tr><td>£4,692</td><td>£1,060</td></tr>
+<tr><td>Drafting notice for, or replies to notice for, particulars – payable to either the solicitor or counsel</td><td colspan="2">£43</td></tr>
+<tr><td rowspan="2">Drafting interrogatories, or answers to interrogatories, as certified by the judge</td><td></td><td></td></tr>
+<tr><td>£70</td><td>£70</td></tr>
+<tr><td>Additional Days</td><td>50% of solicitor's scale fee on the amount claimed or decreed, as appropriate, not exceeding £600</td><td>50% of counsel's scale fee on the amount claimed or decreed, as appropriate</td></tr>
+</tbody>
+</table>
+
+Table 2:
+
+Equity Civil Bill Scales – Plaintiff's and Defendant's Remuneration
+
+<table>
+<tbody>
+<tr><th><em><strong>Where value of the personalty and / or lands</strong></em></th><th><em><strong>Solicitor's Fee</strong></em></th><th><em><strong>Counsel's Fee – for advising proceedings/defence, settling the equity civil bill and advising proofs</strong></em></th><th><em><strong>Counsel's Fee – on hearing of equity civil bill or petition</strong></em></th></tr>
+<tr><td rowspan="2">Does not exceed £5,000</td><td></td><td></td><td></td></tr>
+<tr><td>£538</td><td>£92</td><td>£267</td></tr>
+<tr><td rowspan="2">Exceeds £5,000 but does not exceed £10,000</td><td></td><td></td><td></td></tr>
+<tr><td>£1,136</td><td>£124</td><td>£342</td></tr>
+<tr><td rowspan="2">Exceeds £10,000 but does not exceed £15,000</td><td></td><td></td><td></td></tr>
+<tr><td>£1,614</td><td>£152</td><td>£458</td></tr>
+<tr><td rowspan="2">Exceeds £15,000 but does not exceed £20,000</td><td></td><td></td><td></td></tr>
+<tr><td>£2,092</td><td>£200</td><td>£534</td></tr>
+<tr><td rowspan="2">Exceeds £20,000 but does not exceed £25,000</td><td></td><td></td><td></td></tr>
+<tr><td>£2,391</td><td>£230</td><td>£612</td></tr>
+<tr><td rowspan="2">Exceeds £25,000 but does not exceed £35,000</td><td></td><td></td><td></td></tr>
+<tr><td>£2,630</td><td>£301</td><td>£763</td></tr>
+<tr><td rowspan="2">Exceeds £35,000 but does not exceed £45,000</td><td></td><td></td><td></td></tr>
+<tr><td>£2,869</td><td>£369</td><td>£917</td></tr>
+<tr><td>Additional Days</td><td>50% of solicitor's scale fee on the amount claimed or decreed, as appropriate, not exceeding £600</td><td>N/A</td><td>50% of counsel's scale fee on the amount claimed or decreed, as appropriate</td></tr>
+</tbody>
+</table>
+
+Table 3:
+
+Ejectment proceedings for the Recovery of property – Plaintiff's and Defendant's Remuneration
+
+| ***Item of Work*** | ***Solicitor*** | ***Counsel*** |
+| --- | --- | --- |
+| Proceedings for the recovery of possession of premises by a statutory body | £132 | £64 |
+| In other cases, where valuation does not exceed £4,060 | £321 | £123 |
+| In other cases, where valuation exceeds £4,060 | £458 | £230 |
+| Additional days | 50% of solicitor's scale fee on the amount claimed or decreed, as appropriate, not exceeding £600 | 50% of counsel's scale fee on the amount claimed or decreed, as appropriate |
+
+Table 4:
+
+Plaintiff's Remuneration in Remitted Actions
+
+<table>
+<tbody>
+<tr><th><em><strong>Amount decreed (or value of case as assessed by Department)</strong></em></th><th><em><strong>Solicitor</strong></em></th><th><em><strong>Counsel</strong></em></th></tr>
+<tr><td>Does not exceed £1,000</td><td>£538</td><td>£180</td></tr>
+<tr><td rowspan="2">Exceeds £1,000 but does not exceed £2,500</td><td></td><td></td></tr>
+<tr><td>£1,136</td><td>£263</td></tr>
+<tr><td rowspan="2">Exceeds £2,500 but does not exceed £5,000</td><td></td><td></td></tr>
+<tr><td>£1,614</td><td>£383</td></tr>
+<tr><td rowspan="2">Exceeds £5,000 but does not exceed £7,500</td><td></td><td></td></tr>
+<tr><td>£2,092</td><td>£478</td></tr>
+<tr><td rowspan="2">Exceeds £7,500 but does not exceed £10,000</td><td></td><td></td></tr>
+<tr><td>£2,391</td><td>£562</td></tr>
+<tr><td rowspan="2">Exceeds £10,000 but does not exceed £12,500</td><td></td><td></td></tr>
+<tr><td>£2,630</td><td>£640</td></tr>
+<tr><td rowspan="2">Exceeds £12,500 but does not exceed £15,000</td><td></td><td></td></tr>
+<tr><td>£2,869</td><td>£718</td></tr>
+<tr><td rowspan="2">Exceeds £15,000 but does not exceed £20,000</td><td></td><td></td></tr>
+<tr><td>£3,876</td><td>£842</td></tr>
+<tr><td rowspan="2">Exceeds £20,000 but does not exceed £25,000</td><td></td><td></td></tr>
+<tr><td>£4,253</td><td>£953</td></tr>
+<tr><td rowspan="2">Exceeds 25,000 but does not exceed £30,000</td><td></td><td></td></tr>
+<tr><td>£4,692</td><td>£1,060</td></tr>
+<tr><td>Drafting notice for, or replies to notice for, particulars –payable to either the solicitor or counsel</td><td colspan="2">£43</td></tr>
+<tr><td rowspan="2">Drafting interrogatories, or answers to interrogatories, as certified by the judge</td><td></td><td></td></tr>
+<tr><td>£70</td><td>£70</td></tr>
+<tr><td>Additional Days</td><td>50% of solicitor's scale fee on the amount claimed or decreed, as appropriate, not exceeding £600</td><td>50% of counsel's scale fee on the amount claimed or decreed, as appropriate</td></tr>
+</tbody>
+</table>
+
+Table 5:
+
+Defendant's Remuneration in Remitted Actions
+
+<table>
+<tbody>
+<tr><th><em><strong>Item of Work</strong></em></th><th><em><strong>Solicitor</strong></em></th><th><em><strong>Counsel</strong></em></th></tr>
+<tr><td>Fee Payable</td><td>£2869</td><td>£718</td></tr>
+<tr><td>Drafting notice for, or replies to notice for, particulars –payable to either the solicitor or counsel, as certified by the judge</td><td colspan="2">£43</td></tr>
+<tr><td>Additional Days</td><td>50% of solicitor's scale fee on the amount claimed or decreed, as appropriate, not exceeding £600</td><td>50% of counsel's scale fee on the amount claimed or decreed, as appropriate</td></tr>
+</tbody>
+</table>
+
+Table 6:
+
+Interlocutory Applications
+
+| ***Item of Work*** | ***Solicitor*** | ***>Counsel*** |
+| --- | --- | --- |
+| Instruction, drawing Notice of Motion etc. | £118.56 | £118.56 |
+| Attending before Judge on notice or ex-parte | £59.28 | £59.28 |
+| Drawing up list of documents under Order 15 | £42.07 | £42.07 |
+
+Table 7:
+
+Occasional Costs
+
+| ***Item of Work*** | ***Rate*** |
+| --- | --- |
+| Affidavit of Service | £2.72 |
+| Other Affidavit | £1.12 |
+| Preparing Recognizance | £3.12 |
+| Drawing, issuing and serving a witness summons | £9.10 |
+| Drawing costs and copies | £6.74 per page |
+| Attending taxation | £11.39 per hour |
+
+Table 8:
+
+Limited Certificates
+
+| ***Item of Work*** | ***Solicitor*** | ***Counsel*** |
+| --- | --- | --- |
+| Counsel's Opinion | £75 | £30 |
+| \- up to 5 pages | £75 | £50 |
+| \- up to 7 pages | £75 | £65 |
+| Engineer's Report | £100 | N/A |
+| Engineer's Report (no details provided) | £75 | N/A |
+| Medical Report | £50 | N/A |
+| Issue and service of Civil Bill, Replies and Discovery | £200 | N/A |
+| Stamp Duty | £50 | N/A |
+| Stamp Duty with other limitation | £100 | N/A |
+| Discovery | £50 | N/A |
+
+Table 9:[^key-72bce890f459501ff1ad8fa45e99afc3]
+
+Proceedings which have been withdrawn, abandoned or discontinued -Full certificates Solicitor
+
+|  |  |
+| --- | --- |
+| **Work Type** | **Rate** |
+| Consultation, Preparation, Waiting and Attending Court | £30 per hour |
+| Letters and Telephone Calls | £3.35 per item |
+| Non Standard telephone call (over 5 minutes) | £30 per hour |
+
+### PART 5 — High Court Proceedings
+
+**[^key-a8de8d183351fc167586da370ae3807f]...**
+
+Table 1:
+
+High Court Bail Applications and Variation Applications – Standard Fees[^key-544a3215d2676d8c5a45bf8a642814b7]
+
+| ***Solicitor*** | ***Counsel*** |
+| --- | --- |
+| £180 | £180 |
+
+#### Proceedings which have been withdrawn, abandoned or discontinued
+
+Solicitor's remuneration can be claimed on the basis of either Composite Fees (Table 2), or Hourly Rates (Table 3), at the election of the solicitor
+
+Table 2:
+
+Solicitor – Composite Fees
+
+| ***Department's assessment of value of the claim*** | ***After Writ*** | ***After Statement of Claim*** | ***After Defence*** | ***After Warned List*** | ***Within 21 Days of Trial*** |
+| --- | --- | --- | --- | --- | --- |
+| Does not exceed £14,999 | £2,515 | £3,165 | £3,565 | £4,230 | £4,885 |
+| £15,000 – £19,999 | £2,910 | £3,565 | £3,960 | £4,755 | £5,680 |
+| £20,000 – £24,999 | £3,435 | £4,090 | £4,485 | £5,012 | £6,075 |
+| £25,000 – £29,999 | £3,690 | £4,360 | £4,755 | £5,410 | £6,470 |
+| £30,000 – £34,999 | £3,960 | £4,620 | £5,155 | £5,805 | £6,870 |
+| £35,000 – £39,999 | £4,230 | £4,885 | £5,410 | £6,205 | £7,260 |
+| £40,000 – £44,999 | £4,485 | £5,155 | £5,805 | £6,600 | £7,655 |
+| £45,000 – £49,999 | £4,720 | £5,410 | £6,205 | £7,000 | £8,050 |
+| £50,000 – £54,999 | £5,015 | £5,680 | £6,600 | £7,395 | £8,450 |
+| £55,000 – £59,999 | £5,280 | £5,940 | £7,000 | £7,795 | £8,845 |
+| £60,000 – £64,999 | £5,550 | £6,205 | £7,395 | £8,190 | £9,245 |
+| £65,000 – £69,999 | £5,805 | £6,470 | £7,795 | £8,580 | £9,640 |
+| £70,000 – £74,999 | £6,075 | £6,730 | £8,190 | £8,975 | £10,035 |
+| £75,000 – £79,999 | £6,330 | £6,985 | £8,580 | £9,370 | £10,435 |
+| £80,000 – £84,999 | £6,600 | £7,290 | £8,975 | £9,770 | £10,830 |
+| £85,000 – £89,999 | £6,870 | £7,525 | £9,370 | £10,165 | £11,220 |
+| £90,000 – £94,999 | £7,130 | £7,795 | £9,770 | £10,560 | £11,615 |
+| £95,000 – £99,999 | £7,395 | £8,050 | £10,165 | £10,960 | £12,010 |
+
+Table 3:[^key-5653bdc356cc98dd1acc3d1bc6a9c909]
+
+Solicitor – Hourly Rates
+
+|  |  |
+| --- | --- |
+| **Item of Work** | **Rate** |
+| Consultation, Preparation, Travel and Waiting | £94 per hour |
+| Letters and Telephone Calls | £9.40 per item |
+| Non Standard telephone call (over 5 minutes) | £94 per hour |
+
+**Counsel's Fees – Pleadings and Interlocutory Matters**
+
+Table 4:
+
+Chancery Division
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Writ | £40 |
+| Statement of Claim | £150 |
+| Defence | £150 |
+| Defence and Counterclaim | £175 |
+| Reply and Defence to Counterclaim | £100 |
+| Reply | £35 |
+
+Table 5:
+
+Originating Proceedings
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Originating Summons or Notice of Motion | £65 |
+| Brief on Hearing of Summons or Ex-parte application | £100 |
+| Minute of Judgment | £70 |
+| Motion for Judgment | £125 |
+
+Table 6:
+
+Proceedings by Petition (not including divorce)
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Petition or Answer | £85 |
+| Other Pleadings | £65 |
+| Brief on Hearing of Summons or Motion | £100 |
+
+Table 7:
+
+Queen's Bench Division
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Writ (generally endorsed) | £35 |
+| Writ (specially endorsed) | £75 |
+| Statement of Claim (all cases) | £150 |
+| Defence | £150 |
+| Defence with Particulars | £80 |
+| Defence and Counterclaim | £175 |
+| Reply and Defence to Counterclaim | £100 |
+| Reply | £30 |
+| Third Party Notice | £75 |
+| Brief on Ex-parte Hearing | £100 |
+| Brief on Hearing of Summons or Motion | £100 |
+| Special Appointments Hearing in Motion Court | £200 |
+
+Table 8:
+
+Family Division – Probate
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Motion Paper | £90 |
+| Motion | £90 |
+| Writ | £45 |
+| Brief on Ex-parte Hearing | £100 |
+| Brief on Hearing of Summons or Motion | £100 |
+| Statement of Claim or Defence | £150 |
+| Defence and Counterclaim | £175 |
+| Reply and Defence to Counterclaim | £100 |
+| Reply | £30 |
+
+Table 9:
+
+Bankruptcy
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Examination of Witnesses | £130 |
+
+Table 10:
+
+Judicial Review
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Ex-parte docket | £45 |
+| Order 53 Statement | £90 |
+| Certificate of Urgency | £30 |
+| Substantive Affidavit | £125 |
+
+Table 11:
+
+Ancillary Relief
+
+| ***Item of Work*** |  |
+| --- | --- |
+| Summons | £45 |
+| Affidavit of Means etc. | £125 |
+
+Table 12:
+
+General
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> to include consultation (if any)</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Item of Work</strong></em></th><th></th></tr>
+<tr><td>Affidavits (general)<br>(exceptional)</td><td>£60<br>£125</td></tr>
+<tr><td>Notice of Motion / Summons</td><td>£65</td></tr>
+<tr><td>Notice for Particulars or Answer thereto</td><td>£60</td></tr>
+<tr><td>Notice to Admit to Facts</td><td>£65</td></tr>
+<tr><td>Replies to Notice to Admit Facts</td><td>£75</td></tr>
+<tr><td>Interrogatories and Answers</td><td>£100</td></tr>
+<tr><td>Proofs (Liability Admitted)<sup>1</sup></td><td></td></tr>
+<tr><td>Senior<br>or Junior</td><td>£250<br>£200</td></tr>
+<tr><td>Proofs (Liability Denied)<sup>1</sup></td><td></td></tr>
+<tr><td>Senior<br>or Junior</td><td>£300<br>£250</td></tr>
+<tr><td>Supplementary Advice, where necessary</td><td></td></tr>
+<tr><td>Senior<br>or Junior</td><td>£230<br>£200</td></tr>
+<tr><td>Opinions<sup>1</sup></td><td></td></tr>
+<tr><td>Liability and quantum<br>Liability only<br>Quantum only<br>Further</td><td>£200<br>£150<br>£150<br>£80</td></tr>
+<tr><td>Notice of Appeal<sup>1</sup></td><td>£85</td></tr>
+<tr><td>Consultation (including joint negotiations) up to one hour</td><td></td></tr>
+<tr><td>Senior<br>Thereafter per half hour</td><td>£185<br>£80</td></tr>
+<tr><td>Consultation (including joint negotiations) up to one hour</td><td></td></tr>
+<tr><td>Junior (attending on senior)<br>Thereafter per half hour<br>Junior (without senior)<br>Thereafter per half hour</td><td>£125<br>£55<br>£150<br>£60</td></tr>
+<tr><td>Appearance at Review/Application/Mention Hearing<sup>1</sup></td><td></td></tr>
+<tr><td>-less than 30 minutes</td><td rowspan="2">£100<br>(attended)<br>£125<br>(unattended)<br>£150</td></tr>
+<tr><td>-up to 1 hour</td></tr>
+<tr><td>Core Issues</td><td>£125</td></tr>
+<tr><td>Skeleton Argument</td><td>£125</td></tr>
+</tbody>
+</table>
+
+### PART 6 — Other Proceedings
+
+**Asylum and Immigration Proceedings before the First-Tier Tribunal and the Upper Tribunal**
+
+Table 1:
+
+Solicitor – Composite Fees
+
+| ***Item of Work*** | ***Composite Fee*** |
+| --- | --- |
+| Representation at a Case Management Review Hearing for First-Tier Tribunal | £175 |
+| First-Tier Tribunal (including first leave application) | £1,200 |
+| Onward Appeal Hearing in Upper Tribunal (to include second leave application) | £1,200 |
+| Adjourned hearings which are part-heard or re-listed to be concluded on a separate date | £170 per day |
+| Appeal withdrawn prior to the substantive hearing (20% of fee) | £240 |
+| Appeal withdrawn on the day of the substantive hearing (35% of fee) | £420 |
+| Asylum and Immigration Bail Hearing | £400 |
+
+## SCHEDULE 5 — INQUESTS
+
+Article 9
+
+### PART 1 — General
+
+**1.** This Schedule applies to the determination of the remuneration payable to representatives for providing civil legal services in relation to inquests funded under Article 12A of the 2003 Order.
+
+**2.** The Department shall determine the claim submitted under Article 8 in accordance with the rates set out in the relevant Table in Part 2 of this Schedule and pay the assessed remuneration to the representative[^key-b266105ca6eb720ad05eb537071ea027] .
+
+### PART 2 — Remuneration payable in Inquest cases
+
+Table 1:
+
+Solicitor's Fees
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> The rates for travel and mileage will be paid on an actuals basis.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong></em></th><th><em><strong>ate</strong></em></th></tr>
+<tr><td>Preparation</td><td>£79.50 per hour</td></tr>
+<tr><td>Hearing (including any Preliminary Hearings)</td><td>£63.38 per hour</td></tr>
+<tr><td>Travelling time<sup>1</sup></td><td>£24.75 per hour</td></tr>
+<tr><td>Mileage<sup>1</sup></td><td>35.7p per mile</td></tr>
+</tbody>
+</table>
+
+Table 2:
+
+Counsel's Fees
+
+<table>
+<tfoot>
+<tr><td colspan="3"><sup>1</sup> The rates for travel and mileage will be paid on an actuals basis.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em><strong>Work Type</strong></em></th><th><em><strong>Junior Counsel</strong></em></th><th><em><strong>Senior Counsel</strong></em></th></tr>
+<tr><td>Preparation</td><td>£87.38 per hour</td><td>£179.25 per hour</td></tr>
+<tr><td>Hearing (including any Preliminary Hearings)</td><td>£149.25 per hour</td><td>£386.25 per hour</td></tr>
+<tr><td>Refresher Fees – Full Day</td><td>£236.50</td><td>£400</td></tr>
+<tr><td>Travelling time<sup>1</sup></td><td>£12 per hour</td><td>£12 per hour</td></tr>
+<tr><td>Mileage<sup>1</sup></td><td>35.7p per mile</td><td>35.7p per mile</td></tr>
+</tbody>
+</table>
+
+*(This note is not part of the Order)*
+
+This Order prescribes the remuneration payable to solicitors and counsel for providing civil legal services under Part 2 of the Access to Justice (Northern Ireland) Order 2003.
+
+The main body of this Order deals with the manner in which the remuneration is to be determined and paid. In part, the provisions draw on the corresponding provisions contained in subordinate legislation made under Part 2 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981. Part 2 of the 1981 Order is being superseded by civil legal services as the new legislative framework for the public funding of legal services in civil matters.
+
+Initial determinations in such cases will be undertaken by the Department of Justice. A system of redeterminations and appeals is provided for enabling solicitors and counsel to challenge the remuneration determined in a particular case.
+
+Schedules 2 to 5 of this Order set out the levels of remuneration payable for the various categories of work involved, including the different forms of proceedings in each of the court tiers.
+
+This Order also revokes the provisions regarding the costs payable to solicitors and counsel made under, or treated as made under, the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (Article 1(2), together with Schedule 1).
+
+This Order comes into operation on 1st April 2015.
+
+## Annotations
+
+[^c22509921]: Marginal citation: [S.I. 2003/435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435)
+
+[^c22509931]: Marginal citation: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
+
+[^c22509941]: Marginal citation: S.R. [2015 No. 194](https://www.legislation.gov.uk/ukcm/2015/194) (C. 13)
+
+[^c22509951]: Marginal citation: [2014 c. 11 (N.I.)](https://www.legislation.gov.uk/nia/2014/11)
+
+[^c22509961]: Marginal citation: 2015 S.R. No. 196
+
+[^c22509971]: Marginal citation: 2015 S.R. No. 195
+
+[^key-528d9bb052208eb63c4ad2381894de7e]: Textual amendment: Art. 3 substituted (7.1.2026) by [The Civil Legal Services (Remuneration) Order (Northern Ireland) 2025 (S.R. 2025/198)](https://www.legislation.gov.uk/nisr/2025/198), [arts. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1), [5](https://www.legislation.gov.uk/nisr/2025/198/article/5) (with [arts. 3](https://www.legislation.gov.uk/nisr/2025/198/article/3), [4](https://www.legislation.gov.uk/nisr/2025/198/article/4), [20](https://www.legislation.gov.uk/nisr/2025/198/article/20), [21](https://www.legislation.gov.uk/nisr/2025/198/article/21))
+
+[^key-b48ffe871e991d0bb029a0443e7f1efc]: Textual amendment: [Art. 6(3)(b)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3/b) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/3/1/a)
+
+[^key-45b21e832de900077856dd0a0f9bb211]: Textual amendment: Word in [art. 6(3)(c)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3/c) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/3/1/b)
+
+[^key-3d335d0a76fb5c7b93d3f938966279f8]: Textual amendment: [Art. 6(3A)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3A) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/119/article/3/2)
+
+[^key-42bdc3edae9911f98eefcc6ba624d323]: Textual amendment: Word in [art. 6(10)](https://www.legislation.gov.uk/nisr/2015/201/article/6/10) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/119/article/3/3)
+
+[^key-00c6e2c23105dca296cf664bf2c23e60]: Textual amendment: Word in [art. 6(11)](https://www.legislation.gov.uk/nisr/2015/201/article/6/11) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/119/article/3/3)
+
+[^key-35de68f6e6cb6d38c2c49f6b71796fcc]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/nisr/2015/201/article/8/3) omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(1)](https://www.legislation.gov.uk/nisr/2019/119/article/4/1)
+
+[^key-d6db8e69d5fd3dd87dba71946b11900f]: Textual amendment: Word in [art. 8(4)](https://www.legislation.gov.uk/nisr/2015/201/article/8/4) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
+
+[^key-87e1ea7ac009fc8e09342ad2a2cefec7]: Textual amendment: Word in [art. 8(7)](https://www.legislation.gov.uk/nisr/2015/201/article/8/7) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
+
+[^key-de7dc6dee906703331d2ad3d096646b0]: Textual amendment: Word in [art. 8(8)](https://www.legislation.gov.uk/nisr/2015/201/article/8/8) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
+
+[^key-b689ef71d4ce2bc9f23826f75b850dfc]: Textual amendment: Word in [art. 9(1)](https://www.legislation.gov.uk/nisr/2015/201/article/9/1) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [5](https://www.legislation.gov.uk/nisr/2019/119/article/5)
+
+[^key-2c6fe9c39fcae900bd31ab9ccb1c03d4]: Textual amendment: Sch. 2 Pt. 1 para. 3(3), (4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2019/119/article/6/1)
+
+[^key-a1322fc5733de3edc995ffe5e2def26a]: Textual amendment: Sch. 2 Pt. 2 title substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+
+[^key-510e398af583ae969165f70383436e04]: Textual amendment: Words in Sch. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/119/article/6/2)
+
+[^key-35e37013bae98f579827237240b7e6e0]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/a)
+
+[^key-53e6d9b2f8b0c45c29f1e1262df604ad]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/b)
+
+[^key-52e81d5a922988d8b3b9ac8a95e2508b]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(c)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/c)
+
+[^c22509981]: Marginal citation: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
+
+[^key-564d3bdcd65979102f0355a8cde6017d]: Textual amendment: Words in Sch. 2 Pt. 3 title inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+
+[^key-ab6713c31fd4e8d79d960d71879f1000]: Textual amendment: Words in Sch. 2 Pt. 3 Table 1 Note 1 inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+
+[^key-175b2d554e3922fc7d3c36f94d058e84]: Textual amendment: Words in Sch. 3 para. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(1)](https://www.legislation.gov.uk/nisr/2019/119/article/7/1)
+
+[^key-7b1f3ae7ea8174a2b36730930e091a64]: Textual amendment: Word in Sch. 3 para. 3(1) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(2)](https://www.legislation.gov.uk/nisr/2019/119/article/7/2)
+
+[^key-48b1f8d96e47c3e5bb8b9ecaf40a1b33]: Textual amendment: [Sch. 3 paras. 4-14](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/paragraph/4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(3)](https://www.legislation.gov.uk/nisr/2019/119/article/7/3)
+
+[^c22509991]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^key-7ed4eb673dde8de6387d9f6885b2051c]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (11.10.2016) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/336)](https://www.legislation.gov.uk/nisr/2016/336), [arts. 1](https://www.legislation.gov.uk/nisr/2016/336/article/1), [3](https://www.legislation.gov.uk/nisr/2016/336/article/3)
+
+[^key-d361c74e395e1f1faf3e1df88811c260]: Textual amendment: Words in [Sch. 3 Pt. 2 Table 1](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(5)](https://www.legislation.gov.uk/nisr/2019/119/article/7/5)
+
+[^key-4ff94392830e171da714b1cbe1a1261f]: Textual amendment: Words in Sch. 3 Pt. 2 Table 3 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
+
+[^c22510001]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
+
+[^key-9b96c4bf8197e1e5db07a9fca5d89261]: Textual amendment: Words in [Sch. 3 Pt. 2 Table 4](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(5)](https://www.legislation.gov.uk/nisr/2019/119/article/7/5)
+
+[^key-c6a947b3a928c08dd776b080144b8f82]: Textual amendment: Words in Sch. 3 Pt. 2 Table 6 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
+
+[^c22510011]: Marginal citation: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563)
+
+[^key-577758411e86ca1d061b25b06a7a026c]: Textual amendment: Words in Sch. 3 Pt. 2 Table 8 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
+
+[^c22510021]: Marginal citation: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
+
+[^c22510031]: Marginal citation: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11)
+
+[^c22510041]: Marginal citation: [S.I. 2001/2564 (N.I. 2)](https://www.legislation.gov.uk/nisi/2001/2564)
+
+[^c22510051]: Marginal citation: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
+
+[^key-277e465c893d163b5bdf43a6ed44528e]: Textual amendment: Words in [Sch. 3 Pt. 3 Table 8](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(6)](https://www.legislation.gov.uk/nisr/2019/119/article/7/6)
+
+[^key-54e09926835469453a7c3dafd6d831a8]: Textual amendment: Words in [Sch. 3 Pt. 3 Table 9](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(7)](https://www.legislation.gov.uk/nisr/2019/119/article/7/7)
+
+[^c22510061]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42)
+
+[^key-8dbf9c2acb83e951103ef3141cd598e9]: Textual amendment: Words in Sch. 3 Pt. 3 inserted (11.10.2016) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/336)](https://www.legislation.gov.uk/nisr/2016/336), [arts. 1](https://www.legislation.gov.uk/nisr/2016/336/article/1), [4](https://www.legislation.gov.uk/nisr/2016/336/article/4)
+
+[^key-4cf4150209481d715ff4017f96056691]: Textual amendment: Words in Sch. 3 Pt. 3 inserted (1.12.2016) by [The Civil Legal Services (Remuneration) (Amendment) (No. 2) Order (Northern Ireland) 2016 (S.R. 2016/396)](https://www.legislation.gov.uk/nisr/2016/396), [arts. 1](https://www.legislation.gov.uk/nisr/2016/396/article/1), [3](https://www.legislation.gov.uk/nisr/2016/396/article/3)
+
+[^c22510071]: Marginal citation: [S.I. 2004/1988 (N.I. 12)](https://www.legislation.gov.uk/nisi/2004/1988)
+
+[^key-3983cca63f663aa4aa89ef5f60a53617]: Textual amendment: Word in Sch. 4 para. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(1)](https://www.legislation.gov.uk/nisr/2019/119/article/8/1)
+
+[^key-2cd5e7d00baf7ad93d67dc98969e7c30]: Textual amendment: [Sch. 4 paras. 7-18](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/paragraph/7) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(2)](https://www.legislation.gov.uk/nisr/2019/119/article/8/2)
+
+[^key-5d329236aed1b29ad9800d463167105d]: Textual amendment: Words in Sch. 4 Pt. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/a)
+
+[^key-d1b289c6cbc52959c1401f0f35f766bb]: Textual amendment: Words in Sch. 4 Pt. 2 Table 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/b)
+
+[^key-22da49bbea020b8c95bc1f1fc40b785f]: Textual amendment: Words in Sch. 4 Pt. 2 Table 3-11 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(c)(i)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/c/i)
+
+[^key-1e8d809f76ca5d68e2ecebb917a2a521]: Textual amendment: Words in Sch. 4 Pt. 2 Table 3-11 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/c/ii)
+
+[^key-b4775c5e7f0fd01aef5479f1e73a5d48]: Textual amendment: Words in Sch. 4 Pt. 2 Table 6 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(e)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/e)
+
+[^c22510091]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
+
+[^c22510101]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
+
+[^key-94230be43c101425aef7a113f02e40c9]: Textual amendment: Words in Sch. 4 Pt. 2 Table 12-19 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(d)(i)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/d/i)
+
+[^key-e0255b75d2265e4badeb6c460dbb5564]: Textual amendment: Words in Sch. 4 Pt. 2 Table 12-19 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/d/ii)
+
+[^key-71208f5a16e1cab3bc0b0d614f1b9cd0]: Textual amendment: Words in Sch. 4 Pt. 2 Table 13 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(f)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/f)
+
+[^key-26fc78d310541d15659bbc5f4da27ef1]: Textual amendment: Words in [Sch. 4 Pt. 2 Table 14](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/2) heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(g)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/g)
+
+[^c22510111]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
+
+[^c22510121]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
+
+[^key-18fa61fdb468d70afac62c913d628b92]: Textual amendment: [Sch. 4 Pt. 3 Table 1](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(4)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/4/a)
+
+[^key-f64fb778ed132a3ed450337c61b58c90]: Textual amendment: Words in Sch. 4 Pt. 3 Table 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(4)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/4/b)
+
+[^key-72bce890f459501ff1ad8fa45e99afc3]: Textual amendment: [Sch. 4 Pt. 4 Table 9](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(5)](https://www.legislation.gov.uk/nisr/2019/119/article/8/5)
+
+[^key-a8de8d183351fc167586da370ae3807f]: Textual amendment: Words in Sch. 4 Pt. 5 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/a)
+
+[^key-544a3215d2676d8c5a45bf8a642814b7]: Textual amendment: Sch. 4 Pt. 5 Table 1 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/b)
+
+[^key-5653bdc356cc98dd1acc3d1bc6a9c909]: Textual amendment: [Sch. 4 Pt. 5 Table 3](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/5) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(c)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/c)
+
+[^key-b266105ca6eb720ad05eb537071ea027]: Textual amendment: Word in [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2015/201/schedule/5/paragraph/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [9](https://www.legislation.gov.uk/nisr/2019/119/article/9)

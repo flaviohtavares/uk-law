@@ -1,0 +1,496 @@
+---
+title: The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025
+id: nisr/2025/33
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2025-02-20'
+text_date: '2026-01-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2025/33
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2025/33/pdfs/nisrem_20250033_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2025/33/pdfs/nisr_20250033_en.pdf
+- http://www.legislation.gov.uk/nisr/2025/33/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025
+
+> Text as at 2026-01-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2025 No. 33
+
+Agriculture
+
+The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025
+
+Laid before the Assembly in draft
+
+Made
+
+20th February 2025
+
+Coming into operation
+
+24th February 2025
+
+The Department of Agriculture, Environment and Rural Affairs, in the exercise of the powers conferred by section 48 of, and paragraph 2(1) of Schedule 6 to, the Agriculture Act 2020[^f00001] and Article 35(3) of Regulation (EU) No.1307/2013 of the European Parliament and of the Council of 17 December 2013[^f00002] makes the following Regulations:
+
+## 1. Citation and commencement[^key-b9169c2aa6d5dad6282270ef605144fe]
+
+These Regulations may be cited as The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025 and shall come into operation on 24th February 2025.
+
+## 2. Interpretation[^key-8d2ec59788dd783d0c60bf25e95e47bb]
+
+(1) In these Regulations—
+
+- “**agricultural activity**” has the same meaning as in Article 4(1)(c) of the Direct Payments Regulation;
+- “**applicant**” means an eligible farm business which has applied for a payment under the scheme;
+- “**APHIS**” means the Animal Public Health Information System maintained by the Department;
+- “**authorised person**” means any person authorised by the Department to act in matters relating to these Regulations;
+- “**Basic Payment Scheme**” has the same meaning as in the Direct Payments Regulation.
+- “**the Commission Implementing Regulation**” means Commission Implementing [Regulation (EU) No.809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) laying down the rules for the application of the Horizontal Regulation[^f00003]:
+- “**the Department**” means the Department of Agriculture, Environment and Rural Affairs;
+- “**determined area**” means the area for which all eligibility criteria or other obligations relating to the conditions for the granting of the aid have been met, regardless of the number of the payment entitlements at the beneficiary’s disposal;
+- “**the Direct Payments Delegated Regulation**” means [Regulation (EU) No.639/2014](https://www.legislation.gov.uk/european/regulation/2014/0639)[^f00004] supplementing the Direct Payments Regulation;
+- “**the Direct Payments Regulation**” means Regulation (EU) No.1307/2013 of the European Parliament and Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy;
+- “**eligible farm business**” means a farm business which has applied for a payment under the scheme on or before 9th June 2026 and meets the eligibility criteria in regulation 3;
+- “**Farm Sustainability Transition Payment Scheme**” means the Basic Payment Scheme in so far as it applies in relation to the 2025 scheme year;
+- “**Farm Sustainability Payment Scheme**” means the Basic Payment Scheme in so far as it applies in relation to the 2026 scheme year and subsequent scheme years.
+- “**the Horizontal Regulation**” means Regulation (EU) No.1306/2013[^f00005] on the financing, management and monitoring of the common agricultural policy;
+- “**the scheme**” means the Farm Sustainability Transition Payment Scheme in relation to the 2025 scheme year and the Farm Sustainability Payment scheme in relation to the 2026 scheme year in these Regulations;
+- “**scheme year**” means a year beginning on 1 January and ending on 31 December.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Farm Sustainability Payment; Eligibility Requirements[^key-8e7a9716786429e68299052f404bcabb]
+
+(1) In the scheme year 2026[^key-2406bda26bde3c8972c7c46d5587c53a] , an applicant must meet the criteria in paragraph (2) or (3) and paragraph (4).
+
+(2) An applicant for the scheme in the scheme year 2026[^key-4499bac242f7f7947cd0e3ca41f65657] shall for the year 2020 or 2021—
+
+- (a) have kept cattle or sheep or reared goats registered on APHIS;
+- (b) reared deer for meat and sold that meat commercially;
+- (c) have kept poultry registered with the Department as a commercial flock or pigs registered on APHIS, combined with selling grass (not including the sale of agistment grazing rights);
+- (d) have farmed at least three hectares of a determined area with an arable or horticultural crop specified in Schedule 1 and declared in an application to the Department for either of those years; or
+- (e) have been a contract rearer with a contract in place which demonstrated that they managed the livestock and associated grassland, bore the risks in relation to the agricultural activity being carried out and obtained benefits from it.
+
+(3) Paragraph (2) shall not apply to an applicant who in the year 2022, 2023, 2024, 2025 or 2026 has set up a new eligible farm business.
+
+(4) An eligible farm business shall have activated at least three payment entitlements in 2026.
+
+## 4. Farm Sustainability Payment; Payment Entitlement Transition Requirements[^key-a2ffcf59c5389bba97c3e6d1d91340b3]
+
+(1) Subject to paragraph (2), payment entitlement leases agreed during the 2025 and 2026 scheme years trading period shall not exceed a term of more than one year.
+
+(2) An entitlement lease granted before 1st January 2025 shall continue to have effect until its expiry.
+
+**5.**[^key-b78bfdbb901a953703276820f6d14aa1] Payment entitlements where the lease ceases after the 2026 scheme year shall at the lease cessation date, revert to the lessor for an eligible farm business or if the lessor is not an eligible farm business, the payment entitlements shall expire.
+
+**6.**[^M_F_35680b7a-ae48-4da9-8205-bb33edb67889] (1) Subject to paragraphs (2) to (4), a farm business not eligible for the Farm Sustainability Payment Scheme in 2026 may transfer entitlements to an eligible farm business by 15 May 2026.
+
+(2) Subject to paragraph (3), a farm business not eligible for the Farm Sustainability Payment Scheme in 2026 may not transfer entitlements under paragraph (1) to a farm business created with a new farm business identification number issued on or after 18 November 2025.
+
+(3) The prohibition on transfer of entitlements in paragraph (2) shall not apply to a transfer of entitlements by way of actual inheritance.
+
+(4) For the purposes of this regulation, actual inheritance has the same meaning as in Article 34 of the Direct Payments Regulation.
+
+**7.**[^key-a7463d09acc3bec4a7b183b32bdde0b7] Payment entitlements not held by eligible farm businesses, as determined in regulation 3, shall expire on 15th May 2026.
+
+## 8. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^key-454a0e767b80a74d47c216b15387b76c]
+
+(1) The Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^f00007] shall be amended as follows:
+
+(2) In regulation 2(1), (interpretation) in the appropriate place insert—
+
+> - “**active farmer**” means a person who holds decision making power, derives the benefits and assumes the financial risks in relation to the agricultural activity on the land;
+
+.
+
+(3) After regulation 10 insert—
+
+> **10A. Active farmers**
+>
+> Only persons who are active farmers on land for which they have claimed payment entitlements shall be eligible to activate payment entitlements in respect of that land
+
+.
+
+## 9. Amendment of the Beef Carbon Reduction Scheme Regulations (Northern Ireland) 2023[^key-6666f42e3dda49a99977a1cc2703bd9f]
+
+(1) The Beef Carbon Reduction Scheme Regulations (Northern Ireland) 2023[^f00008] shall be amended as follows.
+
+(2) In regulation 2 (interpretation), insert in the appropriate places—
+
+- (a) “**Farm Sustainability Transition Payment Scheme**” means the Basic Payment Scheme in so far as it applies to the 2025 scheme year;
+- (b) “**Farm Sustainability Payment Scheme**” means the payment scheme for the 2026 scheme year and subsequent scheme years which replaces the Farm Sustainability Transition Payment Scheme.
+
+(3) In regulation 5 (Specific requirements; animal and farm businesses), for paragraph (b) substitute—
+
+> - (b) be eligible for a payment under–
+>   - (i) the Basic Payment Scheme;
+>   - (ii) the Farm Sustainability Transition Payment Scheme; or
+>   - (iii) the Farm Sustainability Payment Scheme.
+
+.
+
+## 10. Hemp Production Requirements[^key-73ec4b795ffafe02511ddfee65910a0d]
+
+In Article 9 of the Direct Payments Delegated Regulation[^f00009], paragraphs 2, 3, 4 and 7 and Annex III shall be omitted.
+
+**11.**[^key-b446533d254c72574ec0b1c042ab46a9] In accordance with Article 35, paragraph 3 of the Direct Payments Regulation[^f00010], active farmers in relation to hemp production shall—
+
+- (a) hold a current licence issued by the Department of Health to grow hemp; and
+- (b) supply the original seed labels to an authorised person upon request.
+
+## 12. Amendments to existing legislation[^key-e893ae79ba9dfb7c8a6be63e1a4f8ca5]
+
+Schedule 2 sets out amendments to existing legislation.
+
+## 13. Amendment of the Direct Payments Regulation[^key-a9d4a68e9126198ca0920cda6c1923a4]
+
+(1) The Direct Payments Regulation shall be amended as follows.
+
+(2) In Article 5A –
+
+- (a) for paragraphs 1 and 2, substitute “The Department of Agriculture, Environment and Rural Affairs shall determine the total ceiling for Northern Ireland for each year prior to the commencement of payments”;
+- (b) omit paragraph 3;
+- (c) omit Annex II.
+
+(3) In Article 30, after paragraph 12, add –
+
+> **13.** A young farmer or a farmer commencing their agricultural activity is not eligible to apply for an allocation of payment entitlements in a year after 2025.
+
+.
+
+(4) In Article 32, after paragraph 1, insert—
+
+> **1A.** The relevant authority may make additional payments based on the amount paid under –
+>
+> - (i) the Basic Payment Scheme;
+> - (ii) the Farm Sustainability Transition Scheme; or
+> - (iii) the Farm Sustainability Scheme
+
+.
+
+(5) In Article 50, after paragraph 11, add—
+
+> **12.** This Article shall not apply after 2025 except where a young farmer is eligible to receive the payment in 2025.
+>
+> **13.** A young farmer who received the payment in 2025 or earlier may continue to receive the payment until the end of the 5 year period specified in paragraph 5.
+
+(6) In Article 53—
+
+- (a) for paragraph 1 substitute “The relevant authority shall determine the amount that may be used to finance measures under Article 52.”;
+- (b) omit paragraphs 3 and 5.
+
+## 14. Amendment of the Direct Payments Delegated Regulation[^key-f26f3ad85bd6d982a4e6cd66e852b991]
+
+(1) The Direct Payments Delegated Regulation shall be amended as follows.
+
+(2) In Article 53a—
+
+- (a) in paragraph 1—
+  - (i) in the first subparagraph, omit “if jointly agreed by the relevant authorities for each constituent nation”;
+  - (ii) omit the second subparagraph;
+- (b) omit paragraphs 2 to 6.
+
+## 15. Amendment of Commission Implementing [Regulation (EU) No.641/2014](https://www.legislation.gov.uk/european/regulation/2014/0641)[^key-b55f27aa69dbae4a4c2b8fbc736b4c49]
+
+In Commission Implementing [Regulation (EU) No.641/2014](https://www.legislation.gov.uk/european/regulation/2014/0641)[^f00011] laying down rules for the application of [Regulation (EU) No.1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307), in Article 8(1), omit “prior to exit day”.
+
+Sealed with the Official Seal of the Department of Agriculture, Environment and Rural Affairs on 20th February 2025
+
+Rosemary Agnew
+
+A senior officer of the Department of Agriculture, Environment and Rural Affairs
+
+## SCHEDULE 1 — Specified Crops[^key-a691c043fe89863c2630dfb8f6167bfd]
+
+Regulation 3(2)(d)
+
+Table 1
+
+| Land Use Code | Land Type |
+| --- | --- |
+| CO1 | Spring Barley Includes Feed barley, Malting barley, Two row barley, Six row barley |
+| CO2 | Winter Barley includes Feed barley, Malting barley, Two row barley, Six row barley |
+| CO3 | Spring Wheat Biscuit wheat, Common or Bread wheat, Durum wheat, Einkorn, Feed wheat, Red wheat, Spelt |
+| CO4 | Winter Wheat Biscuit wheat, Common or Bread wheat, Durum wheat, Einkorn, Feed wheat, Red wheat, Spelt |
+| CO5 | Spring Oats. Oats, Quaking oats, Porridge oats, Feed oats, Naked oats |
+| CO6 | Winter Oats. Oats, Quaking oats, Porridge oats, Feed oats, Naked oats |
+| CO7 | Maize including Forage Maize, Maize, Corn, Sweetcorn |
+| CO8 | Rapeseed Industrial rape (no separate spring and winter varieties), Spring Oilseed rape, Swede (no separate spring and winter varieties) |
+| CO9 | Winter Oilseed rape Winter Oilseed rape |
+| CO10 | Spring Triticale |
+| CO11 | Winter Triticale |
+| CO12 | Linseed Spring Linseed, Flax (no separate spring and winter varieties) |
+| CO13 | Winter Linseed |
+| CO14 | Spring Rye, Rye |
+| CO15 | Winter Rye, Rye |
+| CO16 | Wild Bird Cover |
+| CO17 | Beet. Includes Beetroot, Chard, Field Beet, Fodder Beet, Mangolds, Red beet, Sugar Beet |
+| HV1 | Potato Early potato, Maincrop potato, Seed potato |
+| HV2 | Turnip. Bok choi (no separate spring and winter varieties), Chinese cabbage (Pak choi) (no separate spring and winter varieties), Turnip (no separate spring and winter varieties), Spring Turnip rape |
+| HV3 | Winter Turnip rape. Winter Turnip rape |
+| HV4 | Cabbage. Broccoli, Brussels sprouts, Cabbages, Calabrese, Cauliflower, Chinese kale, Kale, Kohlrabi, Red cabbage, Savoy cabbage, White cabbage, Mustard |
+| HV5 | Carrots |
+| HV6 | Parsnips |
+| HV7 | Onions. Onions, Shallots, Garlic, Leeks, Chives, Scallions, Spring onions |
+| HV8 | Asparagus (permanent crop) |
+| HV9 | Aubergine. Aubergine, Eggplant |
+| HV10 | Butternut Squash. Butternut squash, Cheese pumpkin |
+| HV11 | Celeriac. Includes Celeriac, Celery |
+| HV12 | Chicory. Includes Chicory, Endive, Radicchio, Italian Chicory |
+| HV13 | Cucumber |
+| HV14 | Herbs |
+| HV15 | Horseradish (permanent crop) |
+| HV16 | Lettuce. Lettuce, Romaine lettuce, Cos lettuce, Iceberg lettuce, Butterhead lettuce. |
+| HV17 | Parsley. |
+| HV18 | Spinach. |
+| HV19 | Radish. |
+| HV20 | Squash. |
+| HF1 | Strawberry. |
+| HF2 | Tomato. |
+| HF3 | Rhubarb (permanent crop) |
+| HF4 | Raspberries, Mulberries, Blackberries, Loganberries, Currants, Cranberries, Bilberries (permanent crops) |
+| NF1 | Spring Peas Feed pea, Mange tout, Marrow fat pea, Snap pea, Snow pea, Vining pea |
+| NF2 | Spring Field Beans Includes Broad beans, Field beans, Tic beans |
+| NF3 | Winter Field Beans. Includes Broad beans, Field beans, Tic beans |
+| NF4 | Spring Sweet Lupins |
+| NF5 | Winter Sweet Lupins |
+| EC1 | Short rotation coppice. Alder, Birch, Hazel, Ash, Lime, Sweet Chestnut, Sycamore, Willow and Poplar (permanent crop) Maximum harvest cycle is 5 years. |
+| EC2 | Hemp |
+| EC3 | Miscanthus, Reed Canary Grass (permanent crops.) |
+| OT1 | Flowers |
+| OT3 | Non-commercial grazed orchards, grazed woodlands or areas in agri forestry. |
+| OT4 | Ornamentals and Nurseries. Areas of young woody plants. (Permanent crops) |
+| OT5 | Commercial Orchards Commercial orchards used to grow top fruit for example, apples and pears. (Permanent crop). |
+| OT9 | Land that was eligible, claimed and on which SFP was paid in respect of 2008 scheme year and is subsequently (after 31 December 2008) converted to forestry under an EU scheme remains eligible for the duration of the forestry scheme. |
+| OT10 | Land that was eligible, claimed and on which SFP was paid in respect of 2008 scheme year and is subsequently (after 31 December 2008) planted with trees under an EU agri-environment scheme, remains eligible for the duration of the EU agri-environment scheme. |
+| OT11 | Land in an EU Forestry Scheme on which SFP was paid in 2008 in respect of set-aside entitlements remains eligible for the duration of the forestry scheme. |
+| OT23 | Seed mixture Mixed crop |
+
+## SCHEDULE 2 — Amendments to existing legislation
+
+Regulation 12
+
+### 1. Amendment of the Horizontal Regulation[^key-861a209ae9c9d3a114644080215b85ed]
+
+(1) The Horizontal Regulation shall be amended as follows.
+
+(2) In relation to the 2025 scheme year, in Article 67, paragraph 4, subparagraph (b), for “basic payment scheme” substitute “farm sustainability transition payment scheme”.
+
+(3) In relation to the 2026 scheme year and subsequent scheme years, for the “basic payment scheme” substitute “farm sustainability payment scheme”.
+
+### 2. Amendment of the Direct Payments Regulation[^key-2f49210750f06af575db76bca95c57f3]
+
+(1) The Direct Payments Regulation shall be amended as follows.
+
+(2) In relation to the 2025 scheme year, paragraphs (3) and (4) apply.
+
+(3) In Article 1(b)(i), for “a basic payment (the basic payment scheme)” substitute “the farm sustainability transition payment scheme”.
+
+(4) In the following provisions, for “basic payment scheme” substitute “farm sustainability transition payment scheme”—
+
+- (a) Article 5A, paragraph 5;
+- (b) TITLE III, the heading;
+- (c) Chapter 1, the heading;
+- (d) Section 1, the heading;
+- (e) Article 21;
+- (f) Article 22, the heading and paragraphs 2 and 4
+- (g) Article 23, paragraphs 1, 2 and 5;
+- (h) Article 25, paragraph 1;
+- (i) Article 30, paragraphs 7(e), 8 and 9;
+- (j) Article 31, paragraph 1(f), (g);
+- (k) Section 3; the heading
+- (l) Article 32, paragraph 1;
+- (m) Article 33, paragraph 2;
+- (n) Article 35, paragraph 1;
+- (o) Article 41, paragraphs 1 and 2;
+- (p) Article 50, paragraphs 1 and 2;
+- (q) Article 52, paragraph 4(b);
+- (r) Annex I.
+
+(5) In relation to the 2026 scheme year and subsequent scheme years, in the provisions mentioned in paragraphs (3) and (4), for “basic payment scheme” substitute “farm sustainability payment scheme”.
+
+### 3. Amendment of the Direct Payments Delegated Regulation[^key-b330f739b125bda9aedf8b87f8e390c2]
+
+(1) The Direct Payments Delegated Regulation shall be amended as follows.
+
+(2) In relation to the 2025 scheme year, paragraph (3) applies.
+
+(3) In the following provisions for “basic payment scheme” substitute “farm sustainability transition payment scheme”—
+
+- (a) Article 1 paragraph (b);
+- (b) CHAPTER 2, the heading;
+- (c) Section 1, the heading;
+- (d) Article 26;
+- (e) Article 28, paragraph 3 in the sixth paragraph and paragraph 4;
+- (f) Article 49, paragraph 1(a) and in both places where it occurs in paragraph 3.
+
+(4) In relation to the 2026 scheme year and subsequent scheme years, in the provisions mentioned in paragraph (3), for “basic payment scheme” substitute “farm sustainability payment scheme”.
+
+### 4. Amendment of Commission Delegated [Regulation (EU) No.640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-4344c7d6730a226355d294d57c7512a6]
+
+(1) The Commission Delegated [Regulation (EU) No.640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^f00012] shall be amended as follows.
+
+(2) In relation to the 2025 scheme year, paragraphs (3) and (4) apply.
+
+(3) In the following provisions, for “basic payment scheme” substitute “farm sustainability transition payment scheme”—
+
+- (a) Article 6, paragraph 1;
+- (b) Article 11;
+- (c) Article 17, paragraph 1(a);
+- (d) Article 18, paragraphs 1, 2, 3 and 7;
+- (e) Article 19a, the heading.
+
+(4) In relation to the 2025 scheme year and 2026 scheme year and subsequent scheme years, in Article 18a, in paragraphs 1 and 2, omit “basic”.
+
+(5) In relation to the 2026 scheme year and subsequent scheme years, in the provisions mentioned in paragraph (3), for “basic payment scheme” substitute “farm sustainability payment scheme”.
+
+### 5. Amendment of Commission Implementing [Regulation (EU) No.641/2014](https://www.legislation.gov.uk/european/regulation/2014/0641)[^key-7db96f8d9ee234e475d8de8c6a9973b4]
+
+(1) The Commission Implementing [Regulation (EU) No.641/2014](https://www.legislation.gov.uk/european/regulation/2014/0641)[^f00013] shall be amended as follows.
+
+(2) In relation to the 2025 scheme year, paragraph (3) applies.
+
+(3) In the following provisions, for “basic payment scheme” substitute “farm sustainability transition payment scheme”—
+
+- (a) Article 1, paragraph (b);
+- (b) CHAPTER 2, the heading;
+- (c) Article 9, paragraph 1.
+
+(4) In relation to the 2026 scheme year and subsequent scheme years, in the provisions mentioned in paragraph (3), for “basic payment scheme” substitute “farm sustainability payment scheme”.
+
+### 6. Amendment of the Commission Implementing [Regulation (EU) No809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-0f58317afa19df6acff952c76c2f2de1]
+
+(1) The Commission Implementing Regulation[^f00014] shall be amended as follows.
+
+(2) In relation to the 2025 scheme year, paragraph (3) applies.
+
+(3) In the following provisions for “basic payment scheme” substitute “farm sustainability transition payment scheme”—
+
+- (a) Article 14, paragraph 1(c);
+- (b) Article 17, paragraph 4;
+- (c) Article 22, paragraphs 1 and 2;
+- (d) Article 23, paragraph 5;
+- (e) Article 30, in both places where it occurs;
+- (f) Article 38, paragraph 8.
+
+(4) In relation to the 2026 scheme year and subsequent scheme years, in the provisions mentioned in paragraph (3), for “basic payment scheme” substitute “farm sustainability payment scheme”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations establish the requirements for farm sustainability transition payments and farm sustainability payments provided by the Department. The payments made by the Department of Agriculture, Environment and Rural Affairs are to applicants who are eligible for farm sustainability transition payments and farm sustainability payments.
+
+The Scheme—
+
+specifies the eligibility criteria to receive payments (regulation 3);
+
+specifies the requirements to transition Basic Payment Scheme entitlements to Farm Sustainability Transition Payment scheme entitlements (regulations 4, 5, 6 and 7);
+
+specifies amendments to the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015 (regulation 8);
+
+specifies amendments to the Beef Carbon Reduction Scheme Regulations (Northern Ireland) 2023 (regulation 9);
+
+specifies hemp production requirements for the scheme (regulations 10 and 11) ;
+
+amends existing legislation (regulation 12);
+
+amends the Direct Payment Regulation for this scheme (regulation 13);
+
+amends the Direct Payments Delegated Regulation for this scheme (regulation 14);
+
+amends the Commission Implementing Regulation for this scheme (EU) No. 641/2014 (regulation 15);
+
+lists crops eligible for the scheme (see Schedule 1); and
+
+lists the amendments to current legislation substituting the definition of the “basic payment scheme” to “**farm sustainability transition scheme**” in relation to the 2025 scheme year and “**farm sustainability payment scheme**” in relation to the 2026 scheme year and subsequent years (see Schedule 2).
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21)
+
+[^f00002]: Footnote: EUR 1307/2013
+
+[^key-b9169c2aa6d5dad6282270ef605144fe]: Commencement: Reg. 1 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-8d2ec59788dd783d0c60bf25e95e47bb]: Commencement: Reg. 2 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00003]: Footnote: EUR 809/2014
+
+[^f00004]: Footnote: EUR 639/2014
+
+[^f00005]: Footnote: EUR 1306/2013
+
+[^f00006]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-8e7a9716786429e68299052f404bcabb]: Commencement: Reg. 3 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-2406bda26bde3c8972c7c46d5587c53a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2025/33/regulation/3/1) substituted (1.1.2026) by [The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3), [9(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/2)
+
+[^key-4499bac242f7f7947cd0e3ca41f65657]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2025/33/regulation/3/2) inserted (1.1.2026) by [The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3), [9(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/3)
+
+[^key-a2ffcf59c5389bba97c3e6d1d91340b3]: Commencement: Reg. 4 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-b78bfdbb901a953703276820f6d14aa1]: Commencement: Reg. 5 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^M_F_35680b7a-ae48-4da9-8205-bb33edb67889]: Textual amendment: Reg. 6 substituted (18.11.2025) by [The Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 (S.R. 2025/179)](https://www.legislation.gov.uk/nisr/2025/179), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2), [9(4)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/4)
+
+[^key-a7463d09acc3bec4a7b183b32bdde0b7]: Commencement: Reg. 7 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-454a0e767b80a74d47c216b15387b76c]: Commencement: Reg. 8 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00007]: Footnote: [S.R. 2015 No.191](https://www.legislation.gov.uk/nisr/2015/191)
+
+[^key-6666f42e3dda49a99977a1cc2703bd9f]: Commencement: Reg. 9 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00008]: Footnote: [S.R. 2023 No. 212](https://www.legislation.gov.uk/nisr/2023/212)
+
+[^key-73ec4b795ffafe02511ddfee65910a0d]: Commencement: Reg. 10 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00009]: Footnote: EUR 639/2014
+
+[^key-b446533d254c72574ec0b1c042ab46a9]: Commencement: Reg. 11 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00010]: Footnote: EUR 1307/2013
+
+[^key-e893ae79ba9dfb7c8a6be63e1a4f8ca5]: Commencement: Reg. 12 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-a9d4a68e9126198ca0920cda6c1923a4]: Commencement: Reg. 13 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-f26f3ad85bd6d982a4e6cd66e852b991]: Commencement: Reg. 14 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-b55f27aa69dbae4a4c2b8fbc736b4c49]: Commencement: Reg. 15 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00011]: Footnote: EUR 641/2014
+
+[^key-a691c043fe89863c2630dfb8f6167bfd]: Commencement: Sch. 1 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-861a209ae9c9d3a114644080215b85ed]: Commencement: Sch. 2 para. 1 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-2f49210750f06af575db76bca95c57f3]: Commencement: Sch. 2 para. 2 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-b330f739b125bda9aedf8b87f8e390c2]: Commencement: Sch. 2 para. 3 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^key-4344c7d6730a226355d294d57c7512a6]: Commencement: Sch. 2 para. 4 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00012]: Footnote: EUR [2014 No. 640](https://www.legislation.gov.uk/uksi/2014/640)
+
+[^key-7db96f8d9ee234e475d8de8c6a9973b4]: Commencement: Sch. 2 para. 5 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00013]: Footnote: EUR [2014 No. 641](https://www.legislation.gov.uk/uksi/2014/641)
+
+[^key-0f58317afa19df6acff952c76c2f2de1]: Commencement: Sch. 2 para. 6 in operation at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/33/regulation/1)
+
+[^f00014]: Footnote: EUR [2014 No. 809](https://www.legislation.gov.uk/uksi/2014/809)

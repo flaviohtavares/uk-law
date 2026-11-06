@@ -1,0 +1,29 @@
+---
+title: Charities Act (Northern Ireland) 2008, section 177
+act: Charities Act (Northern Ireland) 2008
+section: '177'
+status: revised
+text_date: '2022-03-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/12/section/177
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act (Northern Ireland) 2008, section 177
+
+> Text as at 2022-03-30.
+>
+> Extent: Northern Ireland.
+
+## 177. Miscellaneous provisions as to evidence
+
+*Extent: N.I.*
+
+(1) Where, in any proceedings to recover or compel payment of any rentcharge or other periodical payment claimed by or on behalf of a charity out of land or of the rents, profits or other income of land, otherwise than as rent incident to a reversion, it is shown that the rentcharge or other periodical payment has at any time been paid for 12 consecutive years to or for the benefit of the charity, that shall be prima facie evidence of the perpetual liability to it of the land or income, and no proof of its origin shall be necessary.
+
+(2) Evidence of any order, certificate or other document issued by the Commission may be given by means of a copy which it retained, or which is taken from a copy so retained, and evidence of an entry in any register kept by it may be given by means of a copy of the entry, if (in each case) the copy is certified in accordance with subsection (3).
+
+(3) The copy shall be certified to be a true copy by any member of the staff of the Commission generally or specially authorised by the Commission to act for that purpose.
+
+(4) A document purporting to be such a copy shall be received in evidence without proof of the official position, authority or handwriting of the person certifying it.

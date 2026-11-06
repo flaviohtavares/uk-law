@@ -1,0 +1,924 @@
+---
+title: The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010
+id: nisr/2010/227
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-06-28'
+text_date: '2021-05-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/227
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/227/pdfs/nisrem_20100227_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/227/pdfs/nisr_20100227_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/227/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010
+
+> Text as at 2021-05-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 227
+
+Road Traffic And Vehicles
+
+The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010
+
+Made
+
+28th June 2010
+
+Coming into operation
+
+2nd August 2010
+
+The Department of the Environment makes the following Regulations, in exercise of the powers conferred upon it by Articles 48(1), (2), (4) and (6), 50, 51(1), 52(1), (2), (3), (4), (6) and (7), 55(4), 56(1) and (3), 57(1) and (2), 62(1) and (2), 70(1), 75, 76 and 77 of the Road Traffic (Northern Ireland) Order 2007[^f00001]:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement[^key-d926c384a55f827640070d6f37a4054a]
+
+These Regulations may be cited as the Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 and shall come into operation on 2<sup>nd </sup>August 2010.
+
+### 2. Interpretation[^key-67ed61405b697ce0587df2c418d4bc77]
+
+(1) In these Regulations—
+
+- “approved driving instructor” and “approved motorcycle instructor” means a person whose name is[^key-57a738eb45ef387a11c6444b53b2ca11] registered in Part 1 of[^key-060ab2fea94945b84273006f4421aec3] the register;
+- “certificate” means a document issued to an approved driving instructor, an approved motorcycle instructor, an[^key-a51e8ca21e624ec8f69f64bdaa897cd8] EU temporary driving instructor or an EU temporary motorcycle instructor as evidence of registration as shown in Part I or Part II of Schedule 5;
+- “community licence” means a document issued in respect of a member State other than the United Kingdom by an authority of that or another member State (including the United Kingdom) authorising the holder to drive a motor vehicle, not being—
+  - (a) a document containing a statement to the effect that that or a previous document was issued in exchange for a document issued in respect of a State other than an EEA State;
+  - (b) a document in any of the forms for an international driving permit annexed to the Paris Convention on Motor Traffic of 1926, the Geneva Convention on Road Traffic of 1949 or the Vienna Convention on Road Traffic of 1968; or
+  - (c) a document issued for a purpose corresponding to that mentioned in Article 13(2) of the Road Traffic (Northern Ireland) Order 1981;
+- “continued ability and fitness test” means the test of continued ability and fitness to give instruction in the driving of motor cars or the riding of motorcycles[^key-fd48b8568cad20d66f946464c59f8fbb] referred to in regulation 4(2) and the nature and content of which is prescribed in regulation 13;
+- “Department” means the Department of the Environment;
+- “driving ability and fitness test” means the practical test of ability and fitness to drive referred to in the definition of “examination” and the nature of which is prescribed in regulation 9;
+- “[^key-8ab60dfc1934410a1a0b906c71732b03]EU temporary driving instructor” and “EU temporary motorcycle instructor” mean a person who is registered in Part 2 of the register;
+- “examination” means the examination of ability to give instruction in the driving of or the riding of the relevant vehicle category and for the purposes of these Regulations shall consist of the theory and hazard perception test, the driving ability and fitness test or the riding ability and fitness test as the case may be and the instructional ability and fitness test;[^key-0e5308318794da51a2fedf07f2c7eec4]
+- “examiner”, in relation to part of the examination or the continued ability and fitness test, means an officer of the Department appointed to conduct that part of the examination or that test;
+- “home State” has the same meaning as in regulation 2(1) of the Regulations of 2015;[^key-73a47f760552f83f30b93ee5f8867f38]
+- “instructional ability and fitness test” means the practical test of ability and fitness to give instruction in the driving of motor cars or the riding of motorcycles[^key-4b27227a4636fbebfa58a35afac0a555] referred to in the definition of “examination” and the nature of which is prescribed in regulation 10;
+- “motor car” means a motor vehicle (other than an invalid carriage or motor cycle)—
+  - (a) which is not constructed or adapted to carry more than nine persons inclusive of the driver; [^key-aaa2a85d0216d7ed43ce1a22e49d7900]...
+  - (b) which has a maximum gross weight not exceeding 3.5 tonnes; and[^key-f9d0323b177383b13b3e8eddf7e2b67a]
+  - (c) which is a vehicle of category B or category B+E as specified in column (2) of Schedule 1 to the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996;
+- “motorcycle” means a mechanically propelled vehicle, not being an invalid carriage, with less than 4 wheels and the weight of which unladen does not exceed 410 kilograms;[^key-30deec7422206651f7de4fe59626bc7b]
+- “relevant vehicle category” means the category of vehicle being either a motor car or motorcycle for which the applicant wishes to give instruction;
+- “riding ability and fitness test” means the practical test of ability and fitness to ride a motorcycle referred to in the definition of “examination” and the nature of which is prescribed in regulation 9;
+- “the Order of 1981” means the Road Traffic (Northern Ireland) Order 1981[^f00002];
+- “the Order of 1996” means the Road Traffic Offenders (Northern Ireland) Order 1996[^f00003];
+- “the Order of 2007” means the Road Traffic (Northern Ireland ) Order 2007[^f00004];
+- “the register” means either the register of approved driving instructors, the register of approved motorcycle instructors, the register of[^key-43cb78d226ef950628f2d4e0643559d5] EU temporary driving instructors or the register of EU temporary motorcycle instructors, as the case may be;
+- “the Regulations of 2004” means the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004[^f00005];
+- “the Regulations of 2015” means the European Union (Recognition of Professional Qualifications) Regulations 2015;[^key-de83c9cc41435feca3f23d6ac84f7f23]
+- “the theory test” or “the theory and hazard perception test” means the theory and hazard perception test referred to in the definition of “examination” and the nature of which is prescribed in regulation 8;[^key-29f6b42202644d721a8c4d75ce1b3949] and
+- “trainee licence” means a licence granted by the Department in accordance with regulations made under Article 135 of the Order of 1981 for the purpose of gaining experience in giving driving instruction for motor cars[^key-565d70aeb004a549a53fade7f9068e8c].
+
+(2) In these Regulations a reference to a part of the examination is a reference to one of the three parts of the examination set out in the definition of “examination” in paragraph (1).
+
+(3) These Regulations shall apply to driving instruction in relation to motor cars and motorcycles[^M_F_746baa3a-a627-45a3-98fc-67e228a9b7d2].
+
+## PART 2 — REGISTRATION
+
+### 3. Register[^key-a536d384af84c99e1ee1508a4c8c8786]
+
+The register is to be compiled on behalf of the Department and maintained by the Registrar.
+
+### 4. Registration[^key-cf1888079d706ab4a7ff4beb6ab3be52]
+
+(1) The conditions prescribed under Article 52(1) of the Order of 2007 for registration in Part 1 of the register are—[^key-35f5a22277fd34e986cad1c2f9434e24]
+
+- (a) that he has passed the examination for the relevant vehicle category[^key-5a200ef5eca36125dcb2291a357e05e0];
+- (b) that application is made within one year of passing the examination for the relevant vehicle category;
+- (c) that he is the holder of a current licence of one of the following kinds, that is to say—
+  - (i) a current licence to drive the relevant vehicle category[^key-eb7e3daa6cdfe064ee17e6b5c431a218] granted under Article 13(1) of the Order of 1981[^f00006];
+  - (ii) a current licence to drive the relevant vehicle category granted under the corresponding law in force in Great Britain; or
+  - (iii) a Community licence by which he is authorised to drive the relevant vehicle category in Northern Ireland,
+
+  and that, during the period of six years ending with the day on which the application is made, one or more of the following requirements have been satisfied in relation to him for the periods amounting in the aggregate to at least four years—
+
+  - (aa) he has held a current licence of one of the kinds aforesaid,
+  - (bb) after having passed the test of competence prescribed under Article 5(1) of the Order of 1981 or, as the case may be, the law for the time being in force in Great Britain corresponding to that Article, to drive a motor vehicle, he has held a current provisional licence to drive a motor vehicle,
+  - (cc) he has held a current foreign licence, that is to say, a document issued under the law of a country or territory other than an EEA state (within the meaning of the Order of 1981) authorising the holder to drive a motor vehicle in that country;
+- (d) that he has not, during any part of the period of four years ending with the day on which the application is made, been disqualified under Article 35 or 41 of the Order of 1996 from holding or obtaining a licence granted under Article 13(1) of the Order of 1981 or under the corresponding law in Great Britain; [^key-2fba145926ffb35c6a5330b609fedc2c]...
+- (e)[^key-1fa00f866f08ef3a8f6cdd3c80247a4a] that he has provided the Department with a signed declaration stating that he is able to safely take control of the motor car if an emergency situation arises;
+- (f) that he follows the guidance issued by the Registrar listed in Schedule 7; and
+- (g) apart from the fulfilment of the foregoing conditions that he is a fit and proper person to have his name entered in the register.
+
+(1A)[^key-fa61267a0fc946ec69332bfe444542de] Where the Registrar is satisfied that a person who has applied under Article 52(1) of the Order of 2007 for registration in Part 1 of the register is entitled to give paid instruction in any description of driving instruction by virtue of Part 3 of the Regulations of 2015, regulation 4(1)(a) and (b) shall not apply in relation to the applicant.
+
+(2) The entry or retention of a person’s name in the register shall be subject to the condition that so long as the name is therein that person will, if at any time so required by the Registrar, undergo a practical test of his continued ability and fitness to give instruction in the driving of motor cars or in the riding of motorcycles[^key-b99d4a2e00228b3197fa5c3312599d99] as set out in regulation 13.
+
+(3)[^key-a9523c691882823dac177264aad0b6f7] Where the examination referred to in paragraph (1)(a) has been passed in a vehicle with an automatic transmission, instruction can only be given in vehicles fitted with an automatic transmission.
+
+### 5. Extension of registration[^key-0d978d9a018d2b8a7bccb12b351cc153]
+
+(1) A person may apply to the Registrar for an extension of his registration under Article 56(1) of the Order of 2007 no later than 4 weeks before his registration is terminated under Article 55(1) of that Order.
+
+(2) The prescribed requirements as to which the Registrar must be satisfied before extending the registration of an applicant under Article 56(3) of the Order of 2007 are—
+
+- (a) that he has not refused to undergo a test such as is mentioned in regulation 13 during the previous period of registration;
+- (b) that his ability and fitness to give instruction in the driving or as the case may be the riding of the relevant vehicle category[^key-797ee1b1abdb7149b0a989a03c2a037a] continue, having regard to any such test which he has undergone during the said period, to be of a satisfactory standard;
+- (c) that he has not during any part of the said period been disqualified under Article 35 or 41 of the Order of 1996 from holding or obtaining a licence to drive a motor vehicle granted under Article 13(1) of the Order of 1981 or under the corresponding law in Great Britain;
+- (d) that he is the holder of a current licence of one of the kinds mentioned in regulation 4(1)(c); [^key-45df85ca755ba5d20072701eaaa2bced]...
+- (dd)[^key-169a519fffeaff4da41fd3a660bc4dae] that he follows the guidance issued by the Registrar listed in Schedule 7; and
+- (e) that apart from the fulfilment of the foregoing conditions he continues to be a fit and proper person to have his registration extended.
+
+### 6. Termination of registration[^key-ef335c4169ffbc08872aed4e352a5a9c]
+
+(1) The prescribed conditions as to which the Registrar must be satisfied before terminating the registration of a person under Article 57(1) of the Order of 2007 are—
+
+- (a) that he did not hold a current licence of one of the kinds mentioned in regulation 4(1)(c);
+- (b) that he was disqualified under Article 35 or 41 of the Order of 1996 from holding or obtaining a licence to drive a motor vehicle granted under Article 13(1) of the Order of 1981 or under the corresponding law in Great Britain;
+- (c) that he refused to undergo a test such as is mentioned in regulation 13;
+- (d) that he failed to appear for such a test on more than two occasions;
+- (e) that he failed to pass such a test; [^key-3ec82f308e19974d7264170dfb640b4b]...
+- (f) that he ceased to be a fit and proper person to have his name included in the register[^M_F_add7434c-a40c-4b5d-e8c0-35c7e9f3929c]... ;[^key-ae2bae69ce636b560b692856f5f51439] [^key-63884addd9fc768e4222170792da98fb]...
+- (g) that he has failed to follow the guidance issued by the Registrar listed in Schedule 7.
+- (h)[^key-4619640136fae59df7ea202ed54b2c43] that he was not entitled to have been entered in the register by virtue of Part 2 of the Regulations of 2015;
+- (i) that he is no longer registered in the register maintained by the officer referred to in section 125(2) of the Road Traffic Act 1988;
+- (j) that his declaration under Part 2 of the Regulations of 2015 is no longer valid as he is no longer registered in his home State; or
+- (k) that in accordance with regulation 13(2) of the Regulations of 2015, his provision of professional services is deemed not to be on a temporary and occasional basis.
+
+(2) Where a person whose registration in Part 1 of the register[^key-98741fad0bb9e750fa2177fffe6a3452] has been terminated under Article 57(1) applies under Article 51(2) of the Order of 2007 to be registered again and either—
+
+- (a) the application is made after the end of the period of one year beginning with the date on which registration was terminated; or
+- (b) his registration was terminated on the grounds that he has failed to pass such a test as is mentioned in regulation 13,
+
+the Registrar shall not regard the condition specified in sub-paragraph (a) of regulation 4(1) as fulfilled unless he is satisfied that that person has again passed the examination mentioned in that sub-paragraph since the date on which his registration was terminated.
+
+(3) A person whose registration in Part 1 of the register[^key-f156e85344f17c150e9d930d6c81fe26] was terminated under Article 55(1) of the Order of 2007 who applies to be registered shall be required again to pass the examination unless his application is made before the end of a period of one year from the date the registration was terminated.
+
+## PART 3 — EXAMINATION OF ABILITY TO GIVE INSTRUCTION
+
+### 7. General provisions[^key-b3dbff06e38aa401b99b37224ca8f576]
+
+(1) A person who desires to submit himself for any part of the examination shall supply the Registrar with such particulars as the Department may determine.
+
+(2) Where a person has passed the theory test for the relevant vehicle category[^key-6adae17eb6ac8687ceaf4cd5ff57fb15] (whether before or after these Regulations are made) he shall not be eligible to take it again during the following two years.
+
+(3) Where a person has failed the theory test for the relevant vehicle category[^key-f5d50208778f40785b60093305f21441] on his third attempt he shall not be eligible to take it again for a period of two years commencing on the date of the first attempt.
+
+(4) Subject to the provisions of this regulation, a person shall be regarded as having passed the examination for the relevant vehicle category[^key-7c7b60c8ee9f33ce7ea819e4ca850335] only if the following conditions are fulfilled in his case—
+
+- (a) he has passed the three parts of the examination for the relevant vehicle category in the following order:
+  - (i) the theory test and hazard perception test;
+  - (ii) the driving ability and fitness test or the riding ability and fitness test as the case may be[^key-bada189313a848a3813afd58fdd6fcf6]; and
+  - (iii) the instructional ability and fitness test;
+- (b) he passed the driving ability and fitness test or the riding ability and fitness test as the case may be[^key-3b2f2abb06496cdb9a8543f5fca95e9b] on his first, second or third attempt after he had passed the theory test for the relevant vehicle category;
+- (c) within two years after passing the theory test and having passed the driving ability and fitness test or the riding ability and fitness test as the case may be[^key-e165c20d180b9c7452659c6e24da92d9] he made an application to take the instructional ability and fitness test for the relevant vehicle category; and
+- (d) he passed the instructional ability and fitness test for the relevant vehicle category[^key-90074d6bb769d9fcfb6536ff09717152] on his first, second or third attempt after he had passed the theory test for the relevant vehicle category, and on a date appointed by the Registrar in respect of an application made in accordance with sub-paragraph (c).
+
+(4A)[^key-134f85651eb860626e10f4436c9bf48c] Notwithstanding paragraph (4)(c), a person may make an application to take the instructional ability and fitness test for the relevant vehicle category within three years after passing the theory test and having passed the driving ability and fitness test or the riding ability and fitness test, as the case may be, where the two year period would otherwise have expired or would otherwise expire between 31<sup>st</sup> May 2020 and 31<sup>st</sup> August 2021.
+
+(5) For the purposes of this regulation—
+
+- (a) where a person has commenced the driving ability and fitness test , the riding ability and fitness test[^key-94f99d9e8ebc21c57976996c336c760a] or the instructional ability and fitness test and does not complete the test, the person shall be treated as having failed the test in question unless the Registrar is satisfied that the person had a reasonable excuse for not completing that test;
+- (b) subject to sub-paragraph (c), a reference to the passing of the theory test for the relevant vehicle category[^key-d88fcb6c29f8aceb67372dd836860e36] , the driving ability and fitness test or the riding ability and fitness test[^key-a6fc4543fb6aa569ea8c7fe5a38ad076] (including paragraph (4)(a)) shall, in relation to a person who has passed that examination or test (as the case may be) on more than one occasion, be read as a reference to the last of those occasions; and
+- (c) if a person takes the theory test for the relevant vehicle category[^key-83f589681b491673ac6c48ef962bf65d] on an occasion when he is not eligible to take it he shall not in any circumstances be regarded as having passed on that occasion.
+
+(6) For the purposes of this regulation a person shall be deemed to have made an application on the date that his application and the fee prescribed by these Regulations are received by the Registrar.
+
+### 8. Theory and hazard perception test[^key-1ac2e369a3928d9d7689c67080b1f9ae]
+
+(1) The theory and hazard perception test shall be conducted in two parts according to the relevant vehicle category and will consist of either—
+
+- (a) one part being the test of driving theory described in Part I of Schedule 1 and the other being the test of hazard perception as described in paragraph (4); or
+- (b) one part being the test of riding theory described in Part II of Schedule 1 and the other being the test of hazard perception as described in paragraph (4).
+
+(2) The candidate must take the test of hazard perception immediately after taking the test of driving theory or riding theory as the case may be.
+
+(3) The tests of driving and riding theory shall be conducted in writing or by means of data recorded on equipment operating in response to instructions given by the candidate.
+
+(4) The test of hazard perception shall—
+
+- (a) be conducted by means of the exhibition of film clips that take the perspective of the driver of a motor vehicle and show, at some point during each film clip, one or more hazards to traffic occurring on or near the road; and
+- (b) require the candidate (using electronic equipment provided for the purpose and capable of recording the exact moment of each response) to indicate during each film clip the moment he observes a hazard relating to traffic on the road.
+
+(5) A candidate taking the test of hazard perception must satisfy the examiner that his performance in the test of hazard perception demonstrates an ability to perceive hazards on the road.
+
+(6) For the purposes of this regulation “film clip” means a sequence of visual images displayed electronically.
+
+### 9. Driving and riding ability and fitness tests
+
+(1) The driving ability and fitness test and the riding ability and fitness test shall each consist of tests of eyesight and either tests of driving or of riding technique for the relevant vehicle category and the candidate shall be required to reach the qualifying standard in both the tests of eyesight and of driving or riding technique on the same occasion.
+
+(2) The test of eyesight shall be a test of the candidate’s ability to read in good daylight (with the aid of glasses or contact lenses if worn), a motor vehicle registration mark containing letters and figures—
+
+- (a) 79 millimetres in height and 50 millimetres wide at a distance of 26.5 metres; or
+- (b) 79 millimetres in height and 57 millimetres wide at a distance of 27.5 metres.
+
+(3) The tests of driving or riding technique described in Parts I and II of Schedule 2 shall, so far as possible, be conducted both on urban roads and on roads of different classes outside built-up areas and a candidate must satisfy the examiner that he has an adequate knowledge of the principles of good driving and road safety or good riding and road safety as the case may be and that he can apply them in practice.
+
+(4) The candidate shall, during the driving ability and fitness test, allow to travel in the vehicle—
+
+- (a) the person authorised to conduct the test; and
+- (b) any person authorised by the Department for the purpose of supervising the test.
+
+(5) The candidate shall, during the riding ability and fitness test, allow to accompany and by means of radio listen to the instruction any person or persons authorised by the Department for the purpose of supervising the test or otherwise.
+
+### 10. Instructional ability and fitness test[^key-a244c8857fa564dc5056b8cefe52e319]
+
+(1)[^key-456b9447dced6aa1c7ac34719f23969a] The instructional ability and fitness test described in Parts I and II of Schedule 3 shall be a test in which the candidate is required to demonstrate his knowledge and ability by giving practical driving or riding instruction for the relevant vehicle category to an examiner, as if the examiner were—
+
+- (a) a novice or partly-trained pupil; or
+- (b) a pupil who is approaching driving or riding test standard.
+
+(2) The candidate shall, during the test of giving practical driving instruction[^key-81d013bb0f9f9723a64837f6060a69cb], allow to travel in the vehicle—
+
+- (a) the person authorised to conduct the test; and
+- (b) any person or persons authorised by the Department for the purpose of supervising the test or otherwise.
+
+(3)[^key-2de1fc6f87c14534658d7d536fcada6e] The candidate shall, during the test of giving practical riding instruction, allow to accompany and by means of radio listen to the instruction any person or persons authorised by the Department for the purpose of supervising the test or otherwise.
+
+### 11. Motor car to be provided for practical part of examination[^key-e8f2bcf7005856f76bfc2b94f79b15c9]
+
+(1) A candidate for the driving ability and fitness test or the instructional ability and fitness test described in Part I of Schedule 3[^key-52ff737ee9468478981bf16c0456a567] shall provide, at his own expense, a motor car for the purposes of that test, in respect of which the following conditions are satisfied.
+
+(2) The vehicle must have four wheels and be either—
+
+- (a) constructed solely for the carriage of passengers and their effects and fitted with a rigid roof, with or without a sliding panel; or
+- (b) a dual purpose vehicle as defined in Article 2(2) of the Order of 1981.
+
+(3) Subject to paragraph (3A), the vehicle must[^key-20bae5033345e6d74112d983fed08e44]—
+
+- (a) have a readily adjustable driving seat and a seat for a forward-facing front passenger;
+- (b) have a steering wheel on its off-side;
+- (c) be provided with a means whereby the driver may, independently of the use of the accelerator or the brakes, gradually vary the proportion of the power being produced by the engine which is transmitted to the road wheels;
+- (d) have fitted for use with the driver’s seat and front passenger seat a properly anchored and functioning three-point seat belt;
+- (e) have fitted as an integral part of the front passenger seat a head restraint which satisfies the requirements of Council Directive [78/932/EEC](https://www.legislation.gov.uk/european/directive/1978/0932)[^f00007], and be fitted with head restraints on the driver’s seat and the forward facing front seats;
+- (f) in the case of a vehicle with forward facing seats behind the driver’s seat an inertia reel belt for one of those seats nearest either side of the vehicle and a three point belt, a lap belt, a disabled person’s belt or a child restraint for at least one other of those seats;
+- (g) be fitted with an interior rear-view mirror providing adequate rearward vision from the front passenger seat; and
+- (h) be otherwise suitable for the purposes of the test.
+
+(3A)[^key-09ad2cddff049bcba9bc856e4a38d6bc] The requirement in paragraph (3)(c) shall not apply where the Registrar is satisfied that the candidate has a disabled person’s limited driving licence.
+
+(4) The vehicle must not, during any driving ability and fitness test display the distinguishing mark referred to in regulation 12(1)(b) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00008] or anything resembling such a distinguishing mark.
+
+(5) In the case of a vehicle provided for the purposes of an instructional ability and fitness test, there must be in force in relation to the use of the vehicle a policy of insurance that—
+
+- (a) complies with the requirements of Article 92 of the Order of 1981 in relation to the candidate as driver of the vehicle;
+- (b) complies with the requirements of that Article in relation to the examiner as the driver of the vehicle; and
+- (c) insures the examiner as the driver of the vehicle in respect of liability for damage to the vehicle during the test,
+
+and throughout the test there shall be displayed in a conspicuous manner on the front and on the back of the vehicle distinguishing marks in the form referred to in regulation 12(1)(b) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996.
+
+(6)[^key-c47795e422cfb51eb9598eee88634a41] In this regulation—
+
+- “disabled person’s limited driving licence” means a licence of one of the following kinds—
+  - (a) a licence to drive a motor vehicle granted under Part II of the Order of 1981 (not being a provisional licence within the meaning of Part II of that Order) which is limited, by virtue of a notice served under Article 9(5)(b) of that Order, to a motor car equipped with an automatic transmission;
+  - (b) a licence to drive a motor vehicle granted under Part 3 of the Road Traffic Act 1988 (not being a provisional licence within the meaning of Part 3 of that Act) which is limited by virtue of a notice served under section 92(5)(b) of that Act, to a motor car equipped with an automatic transmission; and
+  - (c) a community licence authorising the driving of a motor vehicle which is similarly limited by virtue of any corresponding provisions of the law under which it was issued and a counterpart of that licence.
+
+### 11A. Motorcycle to be provided for practical part of examination[^key-7240abb42ff4500f48f6235f5376de76]
+
+(1) A candidate for the riding ability and fitness test or the instructional ability and fitness test described in Part II of Schedule 3 shall provide, at his own expense, a motorcycle for the purposes of that test in respect of which the following conditions are satisfied.
+
+(2) The vehicle provided for the purposes of a riding ability and fitness test must have two wheels and have an engine power output of at least 35 kilowatts (46.9 brake horse power) and be otherwise suitable for the purpose of the test.
+
+(3) The vehicle provided for the purposes of an instructional ability and fitness test must have two wheels and have an engine power output of at least 11 kilowatts (14.6 brake horse power) and be otherwise suitable for the purpose of the test.
+
+(4) The vehicle must not, during any riding ability and fitness test, display the distinguishing mark referred to in regulation 12(1)(b) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 or anything resembling such a distinguishing mark.
+
+(5) In the case of a vehicle provided for the purposes of an instructional ability and fitness test, there must be in force in relation to the use of the vehicle a policy of insurance that complies with the requirements of Article 92 of the Order of 1981 in relation to the candidate as rider of the vehicle.
+
+### 12. Further requirements at test[^key-65ce78f73280e7b56ec4372acf5156cb]
+
+(1) A person who submits himself for a test specified in regulation 8, 9 or 10 shall, before the test commences—
+
+- (a) produce an appropriate licence authorising him to drive a motor vehicle of the class in which the test is to be taken for inspection; and
+- (b) in the case of a person who produces an appropriate licence which does not contain his photograph, produce to the person conducting the test one of the documents listed in Schedule 4 as evidence of his identity.
+
+(2) In this regulation “appropriate licence” means a licence which fulfils the conditions laid out in regulation 4(1)(c).
+
+## PART 4 — TEST OF CONTINUED ABILITY AND FITNESS TO GIVE INSTRUCTION
+
+### 13. Nature of test and provision of a motor vehicle[^key-e18b019f72b8ef83f56482550d4b8a5b]
+
+(1) The following provisions shall have effect where a person is required to undergo the continued ability and fitness test.
+
+(2) The test shall consist of the attendance of the examiner while the person is giving instruction to a pupil or pupils.
+
+(3) Where a pupil is under instruction and unless the examiner otherwise directs, the test for the relevant vehicle category shall be either—
+
+- (a) carried out in a motor car on a road while the examiner is in the vehicle; or
+- (b) carried out on a motorcycle on a road while the examiner is on a separate motorcycle and is able to communicate, to both the person giving the instruction and the pupil, by way of radio which is not hand-held while in operation.
+
+(4) The candidate shall be assessed on his instructional ability, and, in particular, in respect of the following qualities—
+
+- (a) his method, clarity, adequacy and correctness of instruction;
+- (b) his observation and proper correction of the pupil’s errors;
+- (c) his manner, patience and tact in dealing with the pupil; and
+- (d) his ability to inspire confidence.
+
+(5) Where paragraph (3)(a) applies, the candidate shall provide a motor car which is a passenger vehicle and which conforms to the requirements as laid out in regulation 11(2) and (3) and in respect of which there shall be in existence at the time of the test a policy of insurance which shall include the liability of the driver and the person in charge of the vehicle to passengers in the vehicle.
+
+(6) Where paragraph (3)(a) applies, the candidate shall, during the test, allow to travel in the vehicle—
+
+- (a) the person authorised to conduct the test; and
+- (b) any person or persons authorised by the Department for the purpose of supervising the test or otherwise.
+
+(7) Where a candidate has undergone a test of continued ability and fitness to instruct and has not been successful and where another opportunity at the test is given, he shall be required to undergo the test within fourteen weeks from the date of being unsuccessful.
+
+(8)[^key-3c79fc06a34416f92eb7e19cfd5bd0cf] Where a test had been passed in a vehicle with automatic transmission, instruction can only be given in vehicles fitted with automatic transmission.
+
+## PART 5 — SUPPLEMENTARY
+
+### 14. Official title of registered person[^key-559ce0f966dead6cb4fde8e4194be751]
+
+(1) The official title for use by persons whose names are in Part 1 of[^key-b1087ae27c4aa437a632c61eab3964ca] the register shall be “Department for Infrastructure[^key-4d25af446cb604ddf4f25a22bb5f14e5] Approved Driving Instructor or[^key-ee32598321ae56f0c608b5bdd14220ce] Department for Infrastructure Approved Motorcycle Instructor” as the case may be”.
+
+(1A)[^key-f86ff74b650c22cd1a30bc4428a4cd49] The official title for use by persons whose names are in Part 2 of the register shall be the title used in that person’s home State.
+
+(2) The certificate for issue to persons whose names are in Part 1 of[^key-9b72cdc0ff3b2f5ead334731bb709a06] the register, as evidence of their names being thereon, shall be in the form set out in Part 1[^key-e507ef97e436a4b11b70bf52b7cad0e2][^key-03521e87b9e6796526410dbbfcbd4fae] of Schedule 5.
+
+(3)[^key-c2bade7c7a443b8db94d5bdc94b63829] The certificate for issue to persons whose names are in Part 2 of the register, as evidence of their names being thereon, shall be in the form set out in Part II of Schedule 5.
+
+### 15. Display of certificate[^key-0e53a9017757edb75374f986dd6752bb]
+
+A person issued with a certificate referred to in regulation 14(2) or (3)[^key-3cd88b6026e4cf132dcfdc655037b429] shall, at all times when acting in accordance with his approved or[^key-9c87d5aad24a2d0638a16163b75e464d] EU temporary driving instructor’s registration or his approved or EU temporary motorcycle instructor’s registration, wear the certificate or display the certificate in or on the vehicle as the case may be in such position and manner as to be plainly and distinctly visible.
+
+### 16. Instruction deemed to be given for payment of money[^key-c35d66ebc17b3afbc1222cd7ef46d9e7]
+
+Instruction in the driving of a motor car or a motorcycle on a road, being instruction which is given free of charge, to a person who is not the holder of a current driving licence, by, or in pursuance of arrangements made by, a person carrying on business in the supply of motor cars or motorcycles, and in connection with the supply of a motor car or motorcycle in the course of that business, shall be deemed to be given for the payment of money by the person to whom the instruction is given.
+
+### 16A. Ratio of motorcycle trainees to approved or EU temporary motorcycle instructors[^key-e022729e588c91e5cd3ff2ae909c744c][^key-ee2a8605c8283d15c090f7472beecd00]
+
+During instruction in the riding of motorcycles on the public road there shall be no more than two motorcycle trainees in the charge of an approved or[^key-b55883e4b8126715a6776169288c14e7] EU temporary motorcycle instructor at any one time.
+
+### 17. Fees[^key-afa6b1ba29baff14dcd73ffb33b515a4]
+
+The fee to be paid by a person in respect of the matter specified in an item in column (2) of the table in Schedule 6 shall be the amount specified in that item in column (3).
+
+### 18. Repayment of fees[^key-1093885aa367ca684bd61b491f49288b]
+
+(1) The fees paid in pursuance of the matters specified in items 1 to 6 of Schedule 6 shall be repaid—
+
+- (a) if no appointment for a test is made or the appointment made is subsequently cancelled by the Department;
+- (b) if the person for whom the appointment is made gives to the Department notice cancelling the appointment of not less than three clear days before the date of the appointment;
+- (c) if the person for whom the appointment is made keeps the appointment but the test does not take place, or is not completed, for reasons attributable neither to him nor to the vehicle in which the test was to take place;
+- (d) if the person for whom the appointment is made satisfies the Department that he cannot, or, as the case may be, could not reasonably be present for testing on the date of the appointment due to exceptional circumstances occurring not more than seven days before the said date and of which notice is given within three days of the occurrence thereof to the Department at the test centre where the test is, or as the case may be, was to be held; or
+- (e) if a person whose name has been on the register decides to have their name removed from the register, then a part refund may be paid based on the number of full years left to run on the certificate.
+
+(2) In this regulation “exceptional circumstances” means an accident, a fire, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts therefor).
+
+### 19. Exemption from regulations[^key-0dc6a9a914383cebad2e4b58bf26f82d]
+
+The Registrar may exempt from the condition specified in regulation 4(1)(a) a person who satisfies the Registrar that his name is in the corresponding register established under the law of Great Britain and that he is resident in Northern Ireland.
+
+### 20. Exemption of police instructors[^key-9288506dd098e7896e165df6cd91d695]
+
+(1) Article 48 of the Order of 2007 shall not apply to the giving of instruction by a police instructor in pursuance of arrangements made by the Chief Constable.
+
+(2) In this regulation—
+
+- “police instructor” means—
+  - (a) an officer of the Police Service of Northern Ireland[^f00009] whose duties consist of or include, or have consisted of or included, the giving of instruction in the driving of motor cars or the riding of motorcycles[^key-18430c31f9abfa67ae648ab9914ddd6f] to officers of the Police Service of Northern Ireland; or
+  - (b) any person employed by the Northern Ireland Policing Board for the purpose of giving such instruction to members of the Police Service of Northern Ireland.
+
+### 21. Exemption of Departmental Officers[^key-313897430a326b63f95bdb2a54e03057]
+
+Article 48 of the Order of 2007 shall not apply to any person employed as an examiner by the Department when that person is giving driving instruction or instruction in riding motorcycles[^key-e0c7218f4e14aff43e4f49578deca454] to officers of the Department.
+
+### 22. Exemption of Trainee Licence Holders[^key-83b742a3d281638c24a93b9ebb493402]
+
+Article 48(1)(a) and (2)(a) of the Order of 2007 shall not apply to a person who holds a trainee licence in the driving of motor cars[^key-a6c5cbb02fcc58590b96d9827430d6c9].
+
+### 23. Transitional provisions[^key-7512fed1383a5d2451ef178d5fb6f276]
+
+(1) Where a person has made an application for any part of the examination under the Regulations of 2004[^f00010] but at the date upon which these Regulations come into operation that application has not been determined the application shall be treated as an application for the corresponding examination under these Regulations.
+
+(2) Where a person has passed a part of the examination under the Regulations of 2004 that person shall be deemed to have passed the corresponding part of the examination under these Regulations.
+
+(3) Where a person has applied to be registered in the register under the Regulations of 2004 but at the date upon which these Regulations come into operation the application has not been determined, the application shall be treated as having been made under these Regulations.
+
+(4) Where a person is registered in the register in accordance with the Regulations of 2004 that person shall be deemed to be registered in the register maintained under Article 51 of the Order of 2007 and shall be issued with a certificate under these Regulations which shall be valid for the unexpired period of registration remaining under the 2004 Regulations.
+
+(5) Where a person has passed the instructional ability and fitness test examination under the Motor Cars (Driving Instruction)(Trainee Licence) Regulations (Northern Ireland) 2010 that person shall be treated as having passed the instructional ability and fitness test under these Regulations.
+
+(6)[^key-b9bcf104a2515355904f1912bbe32767] Where a person immediately before the coming into operation of these Regulations was providing instruction in the riding of motorcycles, that person may continue to provide such instruction for a period of six months from and including the date on which these Regulations come into operation unless before that date he meets the requirements set out in regulation 7(4).
+
+(7) Where a person satisfies the Department that he has acceptable equivalent qualifications and experience in providing instruction in the riding of motorcycles, that person may be deemed to have passed part or all of the examination for the purposes of these Regulations for the period of six months from and including the date on which these Regulations come into operation.
+
+### 24. Revocations[^key-880095a3ce91623669344864173f3a2a]
+
+Regulations 3 to 15 and 23 to 29 of, and Schedules 2 to 4 to, the Regulations of 2004 and regulations 1 and 2 of those Regulations in so far as they relate to the provisions aforesaid are hereby revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 28<sup>th</sup> June 2010.
+
+Deirdre Kenny
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1[^key-bdd5b9ce14dc7d811fae401b0c77ea4d]
+
+Regulation 8
+
+### PART I — SPECIFIED MATTERS FOR DRIVING THEORY TEST
+
+The test of driving theory shall consist of a theoretical examination, in which the candidate is required to answer from his own knowledge, on all or any of the following subjects—
+
+- (a) the principles of road safety generally and their application in particular circumstances;
+- (b) the techniques of driving a motor car correctly, courteously and safely, including control of the vehicle, road procedure, recognising hazards, taking proper action with respect to hazards, dealing with pedestrians and other road users and the use of safety equipment;
+- (c) the tuition required to instruct a pupil on the matters set out in paragraph (b), the correction of the pupil’s errors, the manner of the instructor, the relationship between instructor and pupil and simple vehicle adaptation for disabled drivers;
+- (d) the theory of learning and the theory and practice of teaching and assessment;
+- (e) the Official Highway Code for Northern Ireland, published by The Stationery Office and other matters in the booklet in which it is published;
+- (f) the booklet “The Official DSA Guide to Learning To Drive” issued by the Department for Transport and published by The Stationery Office;
+- (g) the interpretation of the reasons for failure appended to the Statement of Failure to pass the test of competence prescribed by regulation 36(2)(b) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996;
+- (h) knowledge, adequate to the needs of driving instruction, of the mechanism and design of a motor car; and
+- (i) the book “The Official DSA Guide to Driving - The Essential Skills “, issued by the Department for Transport and published by The Stationery Office.
+
+### PART II — SPECIFIED MATTERS FOR RIDING THEORY TEST
+
+The test of riding theory shall consist of a theoretical examination, in which the candidate is required to answer from his own knowledge, on all or any of the following subjects—
+
+- (a) the principles of road safety generally and their application in particular circumstances;
+- (b) the techniques of riding a motorcycle correctly, courteously and safely, including control of the vehicle, road procedure, recognising hazards, taking proper action with respect to hazards, dealing with pedestrians and other road users and the use of safety equipment;
+- (c) the tuition required to instruct a pupil on the matters set out in paragraph (b), the correction of the pupil’s errors, the manner of the instructor, the relationship between instructor and pupil and simple vehicle adaptation for disabled drivers;
+- (d) the theory of learning and the theory and practice of teaching and assessment;
+- (e) the Official Highway Code for Northern Ireland, published by The Stationery Office and other matters in the booklet in which it is published;
+- (f) the booklet “The Official DSA Guide to Learning To Ride” issued by the Department for Transport and published by The Stationery Office;
+- (g) the interpretation of the reasons for failure appended to the Statement of Failure to pass the test of competence prescribed by regulation 36(2)(b) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996;
+- (h) knowledge, adequate to the needs of riding instruction, of the mechanism and design of a motorcycle; and
+- (i) the book “The Official DSA Guide to Riding - The Essential Skills”, issued by the Department for Transport and published by The Stationery Office.
+
+## SCHEDULE 2
+
+Regulation 9
+
+### PART I — SPECIFIED MATTERS FOR DRIVING ABILITY AND FITNESS TEST
+
+**1.** The candidate taking the test of driving technique shall be required to satisfy the examiner of his ability to perform on five occasions (or at the discretion of the person conducting the test, show how to perform) a check on the condition and safety of one component of the vehicle, chosen at the discretion of the person conducting the test, from the list of components specified in paragraph 2, and conduct an actual check on the condition of a second component, similarly chosen from the list.
+
+**2.** For the purposes of paragraph 1 the list of components of the vehicle is as follows: tyres, steering, brakes, fluids (e.g. engine oil, coolant, washer fluid), lights, reflectors, direction indicators and audible warning device.
+
+**3.** A candidate taking the test of driving technique shall in particular be required to satisfy the examiner on—
+
+- (a) his expert handling of controls;
+- (b) his use of correct road procedure;
+- (c) his anticipation of the actions of other road users and taking of appropriate action;
+- (d) his sound judgement of distance, speed and timing; and
+- (e) his consideration for the convenience and safety of other road users.
+
+**4.** The candidate taking the test of driving technique shall be required to demonstrate his ability to perform all or any of the following manoeuvres—
+
+- (a) moving away straight ahead or at an angle;
+- (b) overtaking, meeting or crossing the path of other vehicles and taking an appropriate course;
+- (c) turning right-hand and left-hand corners;
+- (d) stopping the vehicle as in an emergency; and
+- (e) carrying out manoeuvres involving the use of reverse gear.
+
+### PART II — SPECIFIED MATTERS FOR RIDING ABILITY AND FITNESS TEST
+
+**5.** The candidate taking the test of riding technique shall be required to satisfy the examiner of his ability to perform on five occasions (or at the discretion of the person conducting the test, show how to perform) a check on the condition and safety of one component of the vehicle, chosen at the discretion of the person conducting the test, from the list of components specified in paragraph 6, and conduct an actual check on the condition of a second component, similarly chosen from the list.
+
+**6.** For the purposes of paragraph 5 the list of components of the vehicle is as follows: tyres, steering, brakes, fluids (e.g. engine oil, coolant), lights, reflectors, direction indicators and audible warning device.
+
+**7.** A candidate taking the test of riding technique shall in particular be required to satisfy the examiner on—
+
+- (a) his expert handling of controls;
+- (b) his use of correct road procedure;
+- (c) his anticipation of the actions of other road users and taking of appropriate action;
+- (d) his sound judgement of distance, speed and timing; and
+- (e) his consideration for the convenience and safety of other road users.
+
+**8.** The candidate taking the test of riding technique shall be required to demonstrate his ability to perform all or any of the following manoeuvres—
+
+- (a) moving away straight ahead or at an angle;
+- (b) overtaking, meeting or crossing the path of other vehicles and taking an appropriate course;
+- (c) turning right-hand and left-hand corners;
+- (d) special manoeuvres as specified in Schedule 7A to the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996.
+
+## SCHEDULE 3
+
+Regulation 10
+
+### PART I — SPECIFIED MATTERS FOR INSTRUCTIONAL ABILITY AND FITNESS DRIVING TEST
+
+**1.** For the instructional ability and fitness driving test, the candidate shall, in respect of one or both of those levels as the examiner shall specify, instruct the examiner in such of the following subjects as the examiner shall specify as the basis of the instruction—
+
+- (a) explaining the controls of the vehicle;
+- (b) moving off;
+- (c) making normal stops;
+- (d) reversing, and while doing so entering limited openings to the right or to the left;
+- (e) turning to face the opposite direction, using forward and reverse gears;
+- (f) parking close to the kerb, using forward and reverse gears;
+- (g) using mirrors and explaining how to make an emergency stop;
+- (h) approaching and turning corners;
+- (i) judging speed, and making normal progress;
+- (j) road positioning;
+- (k) dealing with road junctions;
+- (l) dealing with crossroads;
+- (m) dealing with pedestrian crossings;
+- (n) meeting, crossing the path of, overtaking and allowing adequate clearance for, other vehicles and other road users; and
+- (o) giving correct signals.
+
+**2.** The candidate’s knowledge and ability shall be assessed on—
+
+- (a) the method, clarity, adequacy and correctness of his instruction;
+- (b) the observation and correction of the examiner’s driving errors; and
+- (c) his manner generally.
+
+### PART II — SPECIFIED MATTERS FOR INSTRUCTIONAL ABILITY AND FITNESS RIDING TEST
+
+**3.** For the instructional ability and fitness riding test, the candidate shall, in respect of one or both of those levels as the examiner shall specify, instruct the examiner in such of the following subjects as the examiner shall specify as the basis of the instruction—
+
+- (a) basic skills for novice riders;
+- (b) special manoeuvres as specified in Schedule 7A to the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996;
+- (c) approaching and turning corners;
+- (d) judging speed, and making normal progress;
+- (e) road positioning;
+- (f) dealing with road junctions;
+- (g) dealing with crossroads;
+- (h) dealing with pedestrian crossings;
+- (i) meeting, crossing the path of, overtaking and allowing adequate clearance for, other vehicles and other road users; and
+- (j) giving correct signals.
+
+**4.** The candidate’s knowledge and ability shall be assessed on—
+
+- (a) the method, clarity, adequacy and correctness of his instruction;
+- (b) the observation and correction of the examiner’s driving errors; and
+- (c) his manner generally.
+
+## SCHEDULE 4 — EVIDENCE OF IDENTITY OF TEST CANDIDATES
+
+Regulation 12
+
+**1.**[^key-6126ea7e967b72b1395c2d895d42ee1a] The documents referred to in Regulation 12 are—
+
+- (a) a current passport;
+- (b) a current cheque guarantee card or credit card bearing a photograph and signature of the person;
+- (c) an employer’s identity card bearing a photograph and signature of the person;
+- (d) a trade union card bearing a photograph and signature of the person;
+- (e) a current electoral identity card issued by the Chief Electoral Officer for Northern Ireland and bearing a photograph and signature of the person; and
+- (f) a photograph of the person which has been endorsed with a certificate in the prescribed form signed by an acceptable person.
+
+**2.**[^key-d1f4d24ec7eda2d4473e136d5e314cd2] In this Schedule—
+
+- “acceptable person” means a Member of Parliament, district council councillor, Justice of the Peace, minister of religion, barrister, solicitor, teacher, medical practitioner, bank official, permanent civil servant or police officer.
+- “the prescribed form”, in relation to a certificate, means the following—
+
+  [image: see source](https://www.legislation.gov.uk/nisr/2010/227/images/nisr_20100227_en_002)
+
+## SCHEDULE 5 — FORMS OF CERTIFICATES OF REGISTRATION[^key-6f607be7281e0f6d2b330b92730792a9]
+
+Regulation14(2) and (3)
+
+### PART I — FORMS OF CERTIFICATES OF REGISTRATION — PART 1 OF THE REGISTER
+
+Department for Infrastructure Approved Driving Instructor
+
+- Road Traffic (Northern Ireland) Order 2007
+- Certificate of Registration
+- Photograph
+- This is to certify that
+- \[Name\] .......................... is included in the Register of Approved Driving Instructors as qualified in giving instruction in the driving of motor cars.
+- Valid Until:
+- Signed:.......................... Registrar
+- Certificate Number
+
+Department for Infrastructure Approved Motorcycle Instructor
+
+- Road Traffic (Northern Ireland) Order 2007
+- Certificate of Registration
+- Photograph
+- This is to certify that
+- \[Name\] .......................... is included in the Register of Approved Motorcycle Instructors as qualified in giving instruction in the driving of motorcycles.
+- Valid Until:
+- Signed:.......................... Registrar
+- Certificate Number
+
+### PART II — FORMS OF CERTIFICATES OF REGISTRATION — PART 2 OF THE REGISTER
+
+EU Temporary Driving Instructor
+
+- Road Traffic (Northern Ireland) Order 2007
+- Certificate of Registration
+- \[photograph\]
+- This is to certify that
+- \[Name\]............................ is included in the Register of Temporary Driving Instructors as qualified to give instruction in the driving of motor cars.
+- Valid Until:
+- Signed:.......................... Registrar
+- Certificate Number
+
+EU Temporary Motorcycle Instructor
+
+- Road Traffic (Northern Ireland) Order 2007
+- Certificate of Registration
+- \[photograph\]
+- This is to certify that
+- \[Name\]............................ is included in the Register of Temporary Motorcycle Instructors as qualified to give instruction in the driving of motorcycles.
+- Valid Until:
+- Signed:.......................... Registrar
+- Certificate Number
+
+## SCHEDULE 6 — FEES[^key-8fe433b5bc92bd10411cd67e81902f6c]
+
+Regulation 17
+
+|  | Matter in respect of which application is made | Fee payable |
+| --- | --- | --- |
+| 1a[^key-aefd6fdf09a7e9494f4b817b82d60be6] | Submission to the driving theory test | £64 |
+| 1b | Submission to the riding theory test | £64 |
+| 2a | Submission to the driving ability and fitness test | £130 |
+| 2b | Submission to the riding ability and fitness test | £130 |
+| 3a | Submission to the instructional ability and fitness test for a motor car | £138 |
+| 3b | Submission to the instructional ability and fitness test for a motorcycle | £138 |
+| 4a | Entry of name in Part 1 of the register as an approved driving instructor | £240 |
+| 4b | Entry of name in Part 1 of the register as an approved motorcycle instructor | £240 |
+| 4c | Entry of name in Part 2 of the register as an EU temporary driving instructor | No Fee |
+| 4d | Entry of name in Part 2 of the register as an EU temporary motorcycle instructor | No Fee |
+| 5a | Renewal of entry of name in Part 1 of the register as an approved driving instructor for a further period of four years | £240 |
+| 5b | Renewal of entry of name in Part 1 of the register as an approved motorcycle instructor for a further period of four years | £240 |
+| 5c | Renewal of entry of name in Part 2 of the register as an EU temporary driving instructor | No Fee |
+| 5d | Renewal of entry of name in Part 2 of the register as an EU temporary motorcycle instructor | No Fee |
+| 6a | Re-entry of name in Part 1 of the register as an approved driving instructor as if that person’s name has been removed from the register and, by virtue of regulation 6(3) he is not required again to pass the examination | £240 |
+| 6b | Re-entry of name in Part 1 of the register as an approved motorcycle instructor as if that person’s name has been removed from the register and, by virtue of regulation 6(3) he is not required again to pass the examination | £240 |
+| 7a | Entry of name in Part 1 of the register as an approved driving instructor without passing examination by virtue of regulation 19 | £240 |
+| 7b | Entry of name in Part 1 of the register as an approved motorcycle instructor without passing examination by virtue of regulation 19 | £240 |
+
+## SCHEDULE 7 — Guidance issued by Registrar[^key-a7d9f98a969d10fd71677e3d19d5338c]
+
+Regulation 4(1)(f)
+
+### PART 1 — Motor cars
+
+**1.** The Code of Conduct for Approved Driving Instructors.
+
+**2.** ADI Conditions of Registration.
+
+**3.** ADI Your Guide to becoming an Approved Driving Instruction.
+
+**4.** Instructions included in the Quarterly Update magazine and other written instructions issued by the Registrar.
+
+### PART 2 — Motorcycles
+
+**1.** The Code of Conduct for Approved Motorcycle Instructors.
+
+**2.** AMI Conditions of Registration.
+
+**3.** Guide to becoming an Approved Motorcycle Instructor.
+
+**4.** An Instructor’s Guide to delivering Compulsory Basic Training (CBT) and Information Manual.
+
+**5.** CBT Conditions of Authority.
+
+**6.** Instructions included in the Quarterly Update magazine and other written instructions issued by the Registrar.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Road Traffic (Northern Ireland) Order 2007 introduces new provisions dealing with driving instruction. As a consequence these Regulations partially revoke the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004 (the 2004 Regulations) and re-enact with several amendments.
+
+The Regulations provide for the establishment and maintenance of a Register of driving instructors and prescribe the requirements necessary for registration.
+
+In particular, the Regulations—
+
+- (a) prescribe the time limits within which a person must apply for an extension of his registration and the requirements as to which the Registrar must be satisfied before granting an extension (regulation 5);
+- (b) prescribe the conditions as to which the Registrar must be satisfied before terminating a person’s registration and the conditions which must be satisfied when a person again applies to be registered after having previously had their registration terminated (regulation 6);
+- (c) make it a requirement for an approved driving instructor to display his certificate when giving driving instruction (regulation 15);
+- (d) prescribe the circumstances under which driving instruction provided free of charge is deemed to be given for the payment of money (regulation 16);
+- (e) prescribe the fees to be paid with regard to the registration process and the circumstances under which those fees paid are to be refunded (regulations 17 and 18 and Schedule 6);
+- (f) provide for exemptions from the requirement for registration for certain persons (regulations 20, 21 and 22); and
+- (g) make transitional provisions in respect of—
+  - (i) applications made but not determined, and
+  - (ii) persons registered as driving instructors,
+
+  before these Regulations come into operation (regulation 23).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916)
+
+[^key-d926c384a55f827640070d6f37a4054a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-67ed61405b697ce0587df2c418d4bc77]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/227/regulation/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-57a738eb45ef387a11c6444b53b2ca11]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/i)
+
+[^key-060ab2fea94945b84273006f4421aec3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/2/a)
+
+[^key-a51e8ca21e624ec8f69f64bdaa897cd8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/2/b)
+
+[^key-fd48b8568cad20d66f946464c59f8fbb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/iii)
+
+[^key-8ab60dfc1934410a1a0b906c71732b03]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/2/c)
+
+[^key-0e5308318794da51a2fedf07f2c7eec4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/iv)
+
+[^key-73a47f760552f83f30b93ee5f8867f38]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(2)(d)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/2/d)
+
+[^key-4b27227a4636fbebfa58a35afac0a555]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(v)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/v)
+
+[^key-aaa2a85d0216d7ed43ce1a22e49d7900]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-f9d0323b177383b13b3e8eddf7e2b67a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-30deec7422206651f7de4fe59626bc7b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/vi)
+
+[^f00002]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
+
+[^f00003]: Footnote: [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
+
+[^f00004]: Footnote: [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916)
+
+[^key-43cb78d226ef950628f2d4e0643559d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(2)(e)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/2/e)
+
+[^f00005]: Footnote: [S.R. 2004 No. 179](https://www.legislation.gov.uk/nisr/2004/179)
+
+[^key-de83c9cc41435feca3f23d6ac84f7f23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(2)(f)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/2/f)
+
+[^key-29f6b42202644d721a8c4d75ce1b3949]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(viii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/viii)
+
+[^key-565d70aeb004a549a53fade7f9068e8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/1) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(a)(ix)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/a/ix)
+
+[^M_F_746baa3a-a627-45a3-98fc-67e228a9b7d2]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/2/3) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/2/b)
+
+[^key-a536d384af84c99e1ee1508a4c8c8786]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/227/regulation/3) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/3)
+
+[^key-cf1888079d706ab4a7ff4beb6ab3be52]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/227/regulation/4) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-35f5a22277fd34e986cad1c2f9434e24]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(4)(a)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/4/a)
+
+[^key-5a200ef5eca36125dcb2291a357e05e0]: Textual amendment: Words in [reg. 4(1)(a)(b)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1/a) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/4/a)
+
+[^key-eb7e3daa6cdfe064ee17e6b5c431a218]: Textual amendment: Words in [reg. 4(1)(c)(i)(ii)(iii)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1/c/i) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/4/b)
+
+[^f00006]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154) Article 13(1) as amended by [S.I. 1991 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197), [S.R. 1996 No.426](https://www.legislation.gov.uk/nisr/1996/426), [S.I. 2003 (N.I. 16)](https://www.legislation.gov.uk/nisi/2003/2903), [1998 (N.I. 7)](https://www.legislation.gov.uk/nisi/1998/1074), [2003 (N.I. 16)](https://www.legislation.gov.uk/nisi/2003/2903) and [S.R. 2002 No. 374](https://www.legislation.gov.uk/nisr/2002/374)
+
+[^key-2fba145926ffb35c6a5330b609fedc2c]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-1fa00f866f08ef3a8f6cdd3c80247a4a]: Textual amendment: [Reg. 4(1)(e)-(g)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1/e) substituted for [reg. 4(1)(e)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1/e) (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-fa61267a0fc946ec69332bfe444542de]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/1A) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/4/b)
+
+[^key-b99d4a2e00228b3197fa5c3312599d99]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/2) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/4/c)
+
+[^key-a9523c691882823dac177264aad0b6f7]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/4/3) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-0d978d9a018d2b8a7bccb12b351cc153]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/227/regulation/5) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-797ee1b1abdb7149b0a989a03c2a037a]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2010/227/regulation/5/2/b) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/5)
+
+[^key-45df85ca755ba5d20072701eaaa2bced]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/5/2) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-169a519fffeaff4da41fd3a660bc4dae]: Textual amendment: [Reg. 5(2)(dd)](https://www.legislation.gov.uk/nisr/2010/227/regulation/5/2/dd) inserted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-ef335c4169ffbc08872aed4e352a5a9c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/227/regulation/6) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-3ec82f308e19974d7264170dfb640b4b]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/1) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^M_F_add7434c-a40c-4b5d-e8c0-35c7e9f3929c]: Textual amendment: Full stop in [reg. 6(1)(f)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/1/f) omitted (28.2.2015) by virtue of [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-ae2bae69ce636b560b692856f5f51439]: Textual amendment: [Reg. 6(1)(g)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/1/g) and word added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-63884addd9fc768e4222170792da98fb]: Textual amendment: Word in [reg. 6(1)(f)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/1/f) omitted (31.7.2017) by virtue of [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/5/a)
+
+[^key-4619640136fae59df7ea202ed54b2c43]: Textual amendment: [Reg. 6(1)(h)-(k)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/1/h) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/5/b)
+
+[^key-98741fad0bb9e750fa2177fffe6a3452]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/2) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(5)(c)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/5/c)
+
+[^key-f156e85344f17c150e9d930d6c81fe26]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/6/3) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(5)(d)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/5/d)
+
+[^key-b3dbff06e38aa401b99b37224ca8f576]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/227/regulation/7) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-6adae17eb6ac8687ceaf4cd5ff57fb15]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/2) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/a)
+
+[^key-f5d50208778f40785b60093305f21441]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/3) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/b)
+
+[^key-7c7b60c8ee9f33ce7ea819e4ca850335]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/4) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/c/i)
+
+[^key-bada189313a848a3813afd58fdd6fcf6]: Textual amendment: Words in [reg. 7(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/4/a/ii) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/c/ii)
+
+[^key-3b2f2abb06496cdb9a8543f5fca95e9b]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/4/b) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(c)(iii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/c/iii)
+
+[^key-e165c20d180b9c7452659c6e24da92d9]: Textual amendment: Words in [reg. 7(4)(c)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/4/c) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(c)(iv)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/c/iv)
+
+[^key-90074d6bb769d9fcfb6536ff09717152]: Textual amendment: Words in [reg. 7(4)(d)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/4/d) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(c)(v)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/c/v)
+
+[^key-134f85651eb860626e10f4436c9bf48c]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/4A) inserted (31.5.2021) by [The Motor Vehicles (Driving Instruction) (Amendment) (Coronavirus) Regulations (Northern Ireland) 2021 (S.R. 2021/137)](https://www.legislation.gov.uk/nisr/2021/137), [regs. 1](https://www.legislation.gov.uk/nisr/2021/137/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/137/regulation/2)
+
+[^key-94f99d9e8ebc21c57976996c336c760a]: Textual amendment: Words in [reg. 7(5)(a)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/5/a) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(d)(i)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/d/i)
+
+[^key-d88fcb6c29f8aceb67372dd836860e36]: Textual amendment: Words in [reg. 7(5)(b)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/5/b) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(d)(ii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/d/ii)
+
+[^key-a6fc4543fb6aa569ea8c7fe5a38ad076]: Textual amendment: Words in [reg. 7(5)(b)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/5/b) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(d)(ii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/d/ii)
+
+[^key-83f589681b491673ac6c48ef962bf65d]: Textual amendment: Words in [reg. 7(5)(c)](https://www.legislation.gov.uk/nisr/2010/227/regulation/7/5/c) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(6)(d)(iii)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/6/d/iii)
+
+[^key-1ac2e369a3928d9d7689c67080b1f9ae]: Textual amendment: [Regs. 8-9](https://www.legislation.gov.uk/nisr/2010/227/regulation/8) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/7)
+
+[^key-a244c8857fa564dc5056b8cefe52e319]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/227/regulation/10) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-456b9447dced6aa1c7ac34719f23969a]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/10/1) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/8/a)
+
+[^key-81d013bb0f9f9723a64837f6060a69cb]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/10/2) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/8/b)
+
+[^key-2de1fc6f87c14534658d7d536fcada6e]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/10/3) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/8/c)
+
+[^key-e8f2bcf7005856f76bfc2b94f79b15c9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/227/regulation/11) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-52ff737ee9468478981bf16c0456a567]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/11/1) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/9)
+
+[^key-20bae5033345e6d74112d983fed08e44]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/11/3) substituted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/7/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^f00007]: Footnote: Council Directive of 16 October 1978 on the approximation of laws relating to head restraints of seats of motor vehicles (O.J. No. L325,20.11.78, p.1)
+
+[^key-09ad2cddff049bcba9bc856e4a38d6bc]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/nisr/2010/227/regulation/11/3A) inserted (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/7/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^f00008]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542)
+
+[^key-c47795e422cfb51eb9598eee88634a41]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/nisr/2010/227/regulation/11/6) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/7/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-7240abb42ff4500f48f6235f5376de76]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/nisr/2010/227/regulation/11A) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/10)
+
+[^key-65ce78f73280e7b56ec4372acf5156cb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/227/regulation/12) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-e18b019f72b8ef83f56482550d4b8a5b]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/227/regulation/13) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/11)
+
+[^key-3c79fc06a34416f92eb7e19cfd5bd0cf]: Textual amendment: [Reg. 13(8)](https://www.legislation.gov.uk/nisr/2010/227/regulation/13/8) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))
+
+[^key-559ce0f966dead6cb4fde8e4194be751]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/227/regulation/14) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-b1087ae27c4aa437a632c61eab3964ca]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/1) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(6)(a)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/6/a)
+
+[^key-4d25af446cb604ddf4f25a22bb5f14e5]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/1) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(6)(b)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/6/b)
+
+[^key-ee32598321ae56f0c608b5bdd14220ce]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/1) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/12/a)
+
+[^key-f86ff74b650c22cd1a30bc4428a4cd49]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/1A) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(6)(c)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/6/c)
+
+[^key-9b72cdc0ff3b2f5ead334731bb709a06]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/2) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(6)(d)(i)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/6/d/i)
+
+[^key-e507ef97e436a4b11b70bf52b7cad0e2]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/2) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(6)(d)(ii)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/6/d/ii)
+
+[^key-03521e87b9e6796526410dbbfcbd4fae]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/2) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/12/b)
+
+[^key-c2bade7c7a443b8db94d5bdc94b63829]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/nisr/2010/227/regulation/14/3) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(6)(e)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/6/e)
+
+[^key-0e53a9017757edb75374f986dd6752bb]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/227/regulation/15) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(13)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/13)
+
+[^key-3cd88b6026e4cf132dcfdc655037b429]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2010/227/regulation/15) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(7)(a)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/7/a)
+
+[^key-9c87d5aad24a2d0638a16163b75e464d]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2010/227/regulation/15) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/7/b)
+
+[^key-c35d66ebc17b3afbc1222cd7ef46d9e7]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/227/regulation/16) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(14)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/14)
+
+[^key-e022729e588c91e5cd3ff2ae909c744c]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2010/227/regulation/16A) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(15)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/15)
+
+[^key-ee2a8605c8283d15c090f7472beecd00]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2010/227/regulation/16A) heading substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(8)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/8)
+
+[^key-b55883e4b8126715a6776169288c14e7]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/nisr/2010/227/regulation/16A) inserted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(9)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/9)
+
+[^key-afa6b1ba29baff14dcd73ffb33b515a4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/227/regulation/17) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-1093885aa367ca684bd61b491f49288b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/227/regulation/18) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-0dc6a9a914383cebad2e4b58bf26f82d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/227/regulation/19) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-9288506dd098e7896e165df6cd91d695]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/227/regulation/20) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^f00009]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^key-18430c31f9abfa67ae648ab9914ddd6f]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/nisr/2010/227/regulation/20/2/a) inserted (29.11.2010) by virtue of [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(16)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/16)
+
+[^key-313897430a326b63f95bdb2a54e03057]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/227/regulation/21) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-e0c7218f4e14aff43e4f49578deca454]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2010/227/regulation/21) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(17)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/17)
+
+[^key-83b742a3d281638c24a93b9ebb493402]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/227/regulation/22) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-a6c5cbb02fcc58590b96d9827430d6c9]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/nisr/2010/227/regulation/22) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(18)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/18)
+
+[^key-7512fed1383a5d2451ef178d5fb6f276]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/227/regulation/23) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^f00010]: Footnote: [S.R. 2004 No. 179](https://www.legislation.gov.uk/nisr/2004/179)
+
+[^key-b9bcf104a2515355904f1912bbe32767]: Textual amendment: [Reg. 23(6)](https://www.legislation.gov.uk/nisr/2010/227/regulation/23/6)[(7)](https://www.legislation.gov.uk/nisr/2010/227/regulation/23/7) inserted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(19)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/19)
+
+[^key-880095a3ce91623669344864173f3a2a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-bdd5b9ce14dc7d811fae401b0c77ea4d]: Textual amendment: [Schs. 1-3](https://www.legislation.gov.uk/nisr/2010/227/schedule/1) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [reg. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(20)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/20), [Sch. 1](https://www.legislation.gov.uk/nisr/2010/367/schedule/1)
+
+[^key-6126ea7e967b72b1395c2d895d42ee1a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2010/227/schedule/4/paragraph/1) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-d1f4d24ec7eda2d4473e136d5e314cd2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2010/227/schedule/4/paragraph/2) in operation at 2.8.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1)
+
+[^key-6f607be7281e0f6d2b330b92730792a9]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2010/227/schedule/5) substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(10)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/10), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/117/schedule/1)
+
+[^key-8fe433b5bc92bd10411cd67e81902f6c]: Textual amendment: [Schs. 5-6](https://www.legislation.gov.uk/nisr/2010/227/schedule/5) substituted (29.11.2010) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/367)](https://www.legislation.gov.uk/nisr/2010/367), [regs. 1](https://www.legislation.gov.uk/nisr/2010/367/regulation/1), [2(21)](https://www.legislation.gov.uk/nisr/2010/367/regulation/2/21), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/367/schedule/2)
+
+[^key-aefd6fdf09a7e9494f4b817b82d60be6]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2010/227/schedule/6) Table substituted (31.7.2017) by [The Driving and Motorcycle Instructors (Recognition of European Professional Qualifications) Regulations (Northern Ireland) 2017 (S.R. 2017/117)](https://www.legislation.gov.uk/nisr/2017/117), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/117/regulation/1/1), [6(11)](https://www.legislation.gov.uk/nisr/2017/117/regulation/6/11), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/117/schedule/2)
+
+[^key-a7d9f98a969d10fd71677e3d19d5338c]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2010/227/schedule/7) added (28.2.2015) by [The Motor Vehicles (Driving Instruction) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/5)](https://www.legislation.gov.uk/nisr/2015/5), [regs. 1](https://www.legislation.gov.uk/nisr/2015/5/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2015/5/regulation/2/10), [Sch.](https://www.legislation.gov.uk/nisr/2015/5/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/2015/5/regulation/3))

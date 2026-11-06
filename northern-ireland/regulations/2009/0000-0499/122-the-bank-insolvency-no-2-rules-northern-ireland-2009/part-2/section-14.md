@@ -1,0 +1,31 @@
+---
+title: The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009, section 14
+act: The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009
+section: '14'
+status: revised
+text_date: '2013-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/122/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009, section 14
+
+> Text as at 2013-04-01.
+>
+> Extent: Northern Ireland.
+
+## 14. Leave for the applicant to withdraw[^key-908744fdb85e1e18ab90544146b720ff]
+
+*Extent: N.I.*
+
+(1) Apply rule 4.015 of the 1991 Rules.
+
+(2) In paragraph (1) delete “at least 5 days”.
+
+(3) Delete sub paragraph (a).
+
+## Annotations
+
+[^key-908744fdb85e1e18ab90544146b720ff]: Commencement: Rule 14 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -1,0 +1,511 @@
+---
+title: The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017
+id: nisr/2017/79
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2017-04-19'
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2017/79
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2017/79/pdfs/nisrem_20170079_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/79/pdfs/nisr_20170079_en.pdf
+- http://www.legislation.gov.uk/nisr/2017/79/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017
+
+> Text as at 2026-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2017 No. 79
+
+Social Security
+
+The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017
+
+Made
+
+19th April 2017
+
+Laid before Parliament
+
+20th April 2017
+
+Coming into operation *i*n accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 122(1)(a) and (d), 131(1), 132(3) and (4)(b), 133 and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22853311], Articles 2(2), 6(5) and 14(1) and (4)(b) of the Jobseekers (Northern Ireland) Order 1995 [^c22853321], Articles 9(5)(b), 15(4), 16(3)(b) and (c), 17(1) and (4)(b), 24(2)(d), 25(1)(b), 29(7) and 48(1) and (2) of, and paragraphs 4(1)(a) and (3)(a) and 5(1) of Schedule 1 and paragraphs 1(1) and 3(1)(b) of Schedule 6 to, the Welfare Reform (Northern Ireland) Order 2015 [^c22853331] and Articles 10(6) and 22 of the Welfare Reform and Work (Northern Ireland) Order 2016 [^c22853341].
+
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) and (b) of the Welfare Reform (Northern Ireland) Order 2015.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017.
+
+(2) This regulation and regulations 4 to 8 come into operation on 11th May 2017.
+
+(3) Regulations 2 and 3 come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016 [^c22853351].
+
+(4) The Interpretation Act (Northern Ireland) 1954 [^c22853361] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Universal Credit – availability of the child element where maximum exceeded
+
+(1) The Universal Credit Regulations (Northern Ireland) 2016 are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2 (interpretation) after the definition of “statutory sick pay” insert—
+
+> “**step-parent**” in relation to a child or qualifying young person (“A”), means a person who is not A's parent but—
+>
+> - (a) is a member of a couple, the other member of which is a parent of A, where both are responsible for A; or
+> - (b) was previously a member of a couple, the other member of which was a parent of A, where immediately prior to ceasing to be a member of that couple the person was, and has since continued to be, responsible for A.
+
+(3) After regulation 25 (the child element) insert—
+
+> **25A. Availability of the child element where maximum exceeded**
+>
+> (1) Where a claimant is responsible for more than two children or qualifying young persons, the amount mentioned in Article 15(1) of the Order is to be available in respect of—
+>
+> - (a) the first and second children or qualifying young persons in the claimant's household; and
+> - (b) the third and any subsequent child or qualifying young person in the claimant's household if—
+>   - (i) the child or qualifying young person is transitionally protected; or
+>   - (ii) an exception applies in relation to that child or qualifying young person.
+>
+> (2) A reference in paragraph (1) to a child or qualifying young person being the first, second, third or subsequent child or qualifying young person in the claimant's household is a reference to the position of that child or qualifying young person in the order determined in accordance with regulation 25B.
+>
+> (3) A child or qualifying young person is “transitionally protected” in the circumstances set out in regulation 41 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 [^c22853371].
+>
+> (4) An exception applies in relation to a child or qualifying young person in the circumstances set out in Schedule 12 (availability of the child element where maximum exceeded – exceptions) [^c22853381].
+>
+> **25B. Order of children and qualifying young persons**
+>
+> (1) Subject to paragraph (2), the order of children or qualifying young persons in a claimant's household is to be determined by reference to the following date in relation to each child or qualifying young person for whom the claimant is responsible (“A”), taking the earliest date first—
+>
+> - (a) where the claimant, or if the claimant is a member of a couple, the other member, is A's parent or step-parent (in either case, other than by adoption), A's date of birth; or
+> - (b) in any other case, the date on which the claimant became responsible for A (or in the case of joint claimants where each of them became responsible for A on a different date, the earlier date).
+>
+> (2) In a case where—
+>
+> - (a) the date in relation to two or more children or qualifying young persons for whom the claimant is responsible (as determined under paragraph (1)) is the same date; or
+> - (b) a claimant gave birth to a child less than 10 months after becoming responsible for a child or qualifying young person to whom paragraph 4 of Schedule 12 (non-parental caring arrangements) applies,
+>
+> the order of those children or qualifying young persons (as between themselves only) in the claimant's household is the order determined by the Department that ensures that the amount mentioned in Article 15(1) of the Order is available in respect of the greatest number of children or qualifying young persons.
+>
+> (3) In this regulation and Schedule 12, “**claimant**” means a single claimant or either of joint claimants.
+
+.
+
+(4) After Schedule 11 (application of ESA or JSA sanctions to universal credit) insert—
+
+> **SCHEDULE 12 — Availability of the child element where maximum exceeded - exceptions**
+>
+> Regulation 25A(4)
+>
+> **1. Introduction**
+>
+> This Schedule provides for cases where, for the purposes of regulation 25A (availability of the child element where maximum exceeded), an exception applies in relation to a child or qualifying young person for whom a claimant is responsible (“A”).
+>
+> **2. Multiple births**
+>
+> An exception applies where—
+>
+> - (a) the claimant is a parent (other than an adoptive parent) of A;
+> - (b) A was one of 2 or more children born as a result of the same pregnancy;
+> - (c) the claimant is responsible for at least 2 of the children or qualifying young persons born as a result of that pregnancy; and
+> - (d) A is not the first in the order of those children or qualifying young persons as determined under regulation 25B (order of children and qualifying young persons).
+>
+> **3. Adoptions**
+>
+> An exception applies where A has been placed for adoption with, or adopted by, the claimant in accordance with the Adoption (Northern Ireland) Order 1987 [^c22853391], but not where—
+>
+> - (a) the claimant (or, if the claimant is a member of a couple, the other member)—
+>   - (i) was a step-parent of A immediately prior to the adoption; or
+>   - (ii) has been a parent of A (other than by adoption) at any time;
+> - (b) the adoption order made in respect of A was made as a Convention adoption order [^c22853401] (as defined in Article 2(2) of the Adoption (Northern Ireland) Order 1987); or
+> - (c) prior to that adoption, A had been adopted by the claimant (or, if the claimant is a member of a couple, the other member) under the law of any country or territory outside the British Islands.
+>
+> **4. Non-parental caring arrangements**
+>
+> (1) An exception applies where the claimant—
+>
+> - (a) is a friend or family carer in relation to A; or
+> - (b) is responsible for a child who is a parent of A.
+>
+> (2) In this paragraph, “**friend or family carer**” means a person who is responsible for A, but is not (or, if that person is a member of a couple, neither member is) A's parent or step-parent and—
+>
+> - (a) is named in a residence order under Article 8 of the Children (Northern Ireland) Order 1995 [^c22853411], that is in force with respect to A, as a person with whom A is to live;
+> - (b) is entitled to a guardian's allowance under section 77 of the Contributions and Benefits Act in respect of A;
+> - (c) is a guardian of A appointed under Articles 159 and 160 of the Children (Northern Ireland) Order 1995;
+> - (d) fell within any of paragraphs (a) to (c) immediately prior to A's 16th birthday and has since continued to be responsible for A; or
+> - (e) has undertaken the care of A in circumstances in which it is likely that A would otherwise be looked after by an authority.
+>
+> **5. Non-consensual conception**
+>
+> (1) An exception applies where—
+>
+> - (a) the claimant (“C”) is A's parent; and
+> - (b) the Department determines that—
+>   - (i) A is likely to have been conceived as a result of sexual intercourse to which C did not agree by choice, or did not have the freedom and capacity to agree by choice; and
+>   - (ii) C is not living at the same address as the other party to that intercourse (“B”).
+>
+> (2) The circumstances in which C is to be treated as not having the freedom or capacity to agree by choice to the sexual intercourse are to include (but are not limited to) circumstances in which, at around the time A was conceived—
+>
+> - (a) B was personally connected to C;
+> - (b) B was repeatedly or continuously engaging in controlling behaviour or coercive behaviour towards C; and
+> - (c) that behaviour had a serious effect on C.
+>
+> (3) The Department may make the determination in sub-paragraph (1)(b)(i) only if—
+>
+> - (a) C provides evidence from an approved person which demonstrates that—
+>   - (i) C had contact with that approved person or another approved person; and
+>   - (ii) C's circumstances are consistent with those of a person to whom sub-paragraphs (1)(a) and (1)(b)(i) apply; or
+> - (b) there has been—
+>   - (i) a conviction for—
+>     - (aa) an offence of rape under Article 5 of the Sexual Offences (Northern Ireland) Order 2008 [^c22853421]; or
+>     - (bb) an offence under the law of a country outside Northern Ireland that the Department considers to be analogous to the offence mentioned in sub-paragraph (aa) above; or
+>   - (ii) an award under the Northern Ireland Criminal Injuries Compensation Scheme in respect of a relevant criminal injury sustained by C,
+>
+>   where it appears likely to the Department that the offence was committed, or the criminal injury was caused, by B and resulted in the conception of A or diminished C's freedom or capacity to agree by choice to the sexual intercourse which resulted in that conception.
+>
+> (4) The Department may make the determination in sub-paragraph (1)(b)(ii) where only the available evidence is confirmation by C that that sub-paragraph applies.
+>
+> (5) For the purposes of sub-paragraph (2)(a), B was personally connected to C if, at or around the time A was conceived—
+>
+> - (a) they were in an intimate personal relationship with each other; or
+> - (b) they were living together and—
+>   - (i) were members of the same family; or
+>   - (ii) had previously been in an intimate personal relationship with each other.
+>
+> (6) For the purposes of sub-paragraph (2)(c), B's behaviour had a serious effect on C if—
+>
+> - (a) it caused C to fear, on at least two occasions, that the violence would be used against C; or
+> - (b) it caused C serious alarm or distress which had a substantial adverse effect on C's day-to-day activities.
+>
+> (7) For the purposes of sub-paragraph (5)(b)(i), B and C were members of the same family if, at or around the time A was conceived—
+>
+> - (a) they were, or had been, married to each other;
+> - (b) they were, or had been, civil partners of each other;
+> - (c) they were relatives (within the meaning given by Article 2(2) of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 [^c22853431]);
+> - (d) they had agreed to marry each other, whether or not the agreement had been terminated;
+> - (e) they had entered into a civil partnership agreement (within the meaning given by section 197(3) of the Civil Partnership Act 2004 [^c22853441]), whether or not the agreement had been terminated;
+> - (f) they were both parents of the same child; or
+> - (g) they had, or had had, parental responsibility (within the meaning given in regulation 5(2)) for the same child.
+>
+> (8) In this paragraph—
+>
+> - “**approved person**” means a person of a description specified on a list approved by the Department for the purposes of sub-paragraph (3)(a) and acting in their capacity as such;
+> - “**coercive behaviour**” has the meaning given in regulation 96(5);
+> - “**controlling behaviour**” has the meaning given in regulation 96(5);
+> - “**Northern Ireland Criminal Injuries Compensation Scheme**” means the Northern Ireland Criminal Injuries Compensation Scheme under the Criminal Injuries Compensation (Northern Ireland) Order 2002 [^c22853451]; and
+> - “**relevant criminal injury**” means—
+>   - (a) a sexual offence (including a pregnancy sustained as a direct result of being the victim of a sexual offence);
+>   - (b) physical abuse of an adult; or
+>   - (c) mental illness,
+>
+>   as described in the tariff of injuries in the Northern Ireland Criminal Injuries Compensation Scheme.
+>
+> **6. Continuation of existing exception in a subsequent award**
+>
+> An exception applies in the following circumstances—
+>
+> - (a) the claimant (“C”) is A's step-parent;
+> - (b) none of the exceptions under paragraphs 2 to 5 above apply;
+> - (c) C has previously been entitled to an award of universal credit as a member of a couple jointly with a parent of A, in which an exception under paragraph 2, 3 or 5 above applied in relation to A;
+> - (d) since that award terminated, each award of universal credit to which C has been entitled has been made—
+>   - (i) as a consequence of a previous award having ended when C ceased to be a member of a couple or became a member of a couple; or
+>   - (ii) in any other circumstances in which the assessment periods for that award begin on the same day of each month as the assessment periods for a previous award under regulation 22 (assessment periods); and
+> - (e) where, in the award mentioned in sub-paragraph (c), an exception under paragraph 2 above applied in relation to A—
+>   - (i) C is responsible for one or more other children or qualifying young persons born as a result of the same pregnancy as A; and
+>   - (ii) A is not the first in the order of those children or qualifying young persons as determined under regulation 25B (order of children and qualifying young persons.
+
+.
+
+## 3. Universal Credit – transitional arrangements regarding restrictions on availability of the child element
+
+(1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 [^c22853461] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 2 (interpretation) after the definition of “personal independence payment” insert—
+
+> “**qualifying young person**” has the same meaning as in the Universal Credit Regulations, but see also regulation 29;
+
+.
+
+(3) After regulation 39 (loss of benefits penalties maximum total reduction) insert—
+
+> **PART 3 — ARRANGEMENTS REGARDING CHANGES TO THE CHILD ELEMENT**
+>
+> **40. Restriction on claims for universal credit during the interim period**
+>
+> (1) During the interim period, no claim may be made for universal credit by a person who is responsible for more than two children or qualifying young persons, unless it is—
+>
+> - (a) a claim to which regulation 22(7) of the Universal Credit Regulations (new claim within 6 months of a previous award terminating) applies; or
+> - (b) a claim made by a single person within one month of an award of universal credit terminating because that person ceased to be a member of a couple.
+>
+> (2) The “interim period” is the period beginning with and including the day on which the Universal Credit Regulations (Northern Ireland) 2016 come into operation and ending with 31st October 2018, but may be extended by the Department if the Department considers it necessary to do so in order to protect the efficient administration of universal credit.
+>
+> **41. Availability of the child element where maximum exceeded - transitionally protected children and qualifying young persons**
+>
+> (1) A child or qualifying young person for whom the claimant is responsible (“A”) is “**transitionally protected**” for the purposes of regulation 25A of the Universal Credit Regulations (availability of the child element where maximum exceeded) [^c22853471], in the following circumstances.
+>
+> (2) For the purposes of calculating an award of universal credit in respect of an assessment period in which the interim period begins or that falls wholly within the interim period, the circumstances are that—
+>
+> - (a) A was born before 6th April 2017; and
+> - (b) there are at least two other children or qualifying young persons for whom the claimant (or either of joint claimants) is responsible who were born before 6th April 2017 and who precede A in the order determined by regulation 25B of the Universal Credit Regulations (order of children and qualifying young persons) [^c22853481].
+>
+> (3) For the purposes of calculating an award of universal credit in respect of an assessment period in which the interim period ends or that begins after the end of the interim period, the circumstances are that—
+>
+> - (a) A was born before 6th April 2017;
+> - (b) the claimant (or either of joint claimants) meets the following condition in respect of A—
+>   - (i) on the last day of the interim period, the claimant was entitled to an award of universal credit (or was in a period of non-entitlement between connected awards) and was responsible for A; or
+>   - (ii) if paragraph (i) does not apply, within the 6 months immediately preceding the first day on which the claimant first became entitled to an award of universal credit after the interim period ended, the claimant was in receipt of an individual element of child tax credit for A or was entitled to an award of income support or old style JSA where an amount in respect of A was included in the applicable amount,
+>
+>   and since the day mentioned in paragraph (i) or (ii) (whichever is applicable), the claimant has not ceased to be responsible for A or ceased to be entitled to universal credit (apart from a period of non-entitlement between connected awards); and
+> - (c) there are at least two other children or qualifying young persons born before 6th April 2017—
+>   - (i) in respect of whom the claimant (or either of joint claimants) meets the condition in sub-paragraph (b); and
+>   - (ii) who precede A in the order determined by regulation 25B of the Universal Credit Regulations.
+>
+> (4) In paragraph (3)(b) two awards are connected awards if the later award was made—
+>
+> - (a) as a consequence of the earlier award having terminated when the claimant ceased to be a member of a couple or became a member of a couple; or
+> - (b) in any other circumstances in which the assessment periods for the later award begin on the same day of each month as the assessment periods for the earlier award under regulation 22 (assessment periods) of the Universal Credit Regulations.
+>
+> (5) “**Interim period**” has the same meaning as in regulation 40(2).
+>
+> **42. Availability of the child element where maximum exceeded – continuation of exception from a previous award of child tax credit, income support or old style JSA**
+>
+> (1) Where—
+>
+> - (a) the claimant (“C”) is the step-parent of a child or qualifying young person (“A”); and
+> - (b) within the 6 months immediately preceding the first day on which C became entitled to an award of universal credit, C had an award of child tax credit, income support or old style JSA in which an exception corresponding with an exception under paragraph 2, 3, 5 or 6 of Schedule 12 to the Universal Credit Regulations [^c22853491] (availability of the child element where maximum exceeded – exceptions) applied in respect of A,
+>
+> paragraph 6 of that Schedule is to apply as if sub-paragraph (c) of that paragraph were satisfied, despite the fact that the previous award was not an award of universal credit.
+>
+> (2) In this regulation “**step-parent**” has the same meaning as in the Universal Credit Regulations.
+>
+> **43. Evidence for non-consensual conception where claimant previously had an award of child tax credit**
+>
+> (1) This regulation applies for the purposes of paragraph 5 of Schedule 12 to the Universal Credit Regulations (exception for non-consensual conception).
+>
+> (2) The Department may treat the condition in sub-paragraph (3)(a) of paragraph 5 as met if the Department is satisfied that the claimant has previously provided the evidence referred to in that sub-paragraph to the Commissioners for her Majesty's Revenue and Customs for the purposes of the corresponding exception in relation to child tax credit.
+>
+> **44. Abolition of higher amount of the child element for first child or qualifying young person – saving where claimant responsible for a child or qualifying young person born before 6th April 2017**
+>
+> Article 10(5)(b) of the Welfare Reform and Work (Northern Ireland) Order 2016 [^c22853501] (which amends the Universal Credit Regulations by omitting the amount of the child element payable for the first child or qualifying young person) does not apply where the claimant is responsible for a child or qualifying young person born before 6th April 2017.
+
+.
+
+## 4. Restrictions on amounts for children and qualifying young persons – consequential changes to Income Support[^key-91e8f4cf7d4e019954f9dee081e02721]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Restrictions on amounts for children and qualifying young persons – consequential changes to Jobseeker's Allowance[^key-dcc291ed1bd90922ce3b048417655484]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Restrictions on amounts for children and young persons – consequential changes to the Housing Benefit Regulations (Northern Ireland) 2006
+
+(1) The Housing Benefit Regulations (Northern Ireland) 2006 [^c22853601] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 20 (applicable amounts) [^c22853611]—
+
+- (a) the existing text becomes paragraph (1) and for sub-paragraph (b) (of that paragraph (1)) substitute—
+
+  > - (b) an amount determined in accordance with paragraph 2 of Schedule 4 in respect of up to two individuals who are either children or young persons and who are members of his family;
+
+  ; and
+- (b) at the end insert—
+
+  > (2) For the purposes of paragraph (1)(b), as it applies apart from paragraph (4), where the family includes more than two individuals who are either children or young persons, and, under paragraph 2 of Schedule 4, a different amount applies to different individuals, the two amounts to be included in the applicable amount shall be those that result in the greatest possible total amount.
+  >
+  > (3) Paragraph (4) applies where—
+  >
+  > - (a) (whether or not as part of a tax credit couple) the claimant has an award of child tax credit in respect of a child or young person who is a member of his family, and whether or not any amount is payable by way of such credit; and
+  > - (b) the total amount to be included in the applicable amount under paragraph (1)(b) as substituted by paragraph (4) would be higher than the total amount that would be included under paragraph (1)(b) apart from paragraph (4).
+  >
+  > (4) Where this paragraph applies, for paragraph (1)(b) substitute—
+  >
+  > > - (b) an amount determined in accordance with paragraph 2 of Schedule 4 in respect of any child or young person who is a member of his family and in respect of whom the individual element of child tax credit has been included in the determination of the maximum rate of that credit;
+  >
+  > .
+  >
+  > (5) In this regulation “**tax credit couple**” means a couple as defined in section 3(5A) of the Tax Credits Act 2002 [^c22853621].
+
+  .
+
+(3) In regulation 21 (polygamous marriages) [^c22853631]—
+
+- (a) the existing text becomes paragraph (1) and for sub-paragraph (c) (of that paragraph (1)) substitute—
+
+  > - (c) an amount determined in accordance with paragraph 2 of Schedule 4 in respect of up to two individuals who are either children or young persons and for whom he or a partner of his is responsible and who are members of the same household;
+
+  ; and
+- (b) at the end insert—
+
+  > (2) For the purposes of paragraph (1)(c), as it applies apart from paragraph (4), where the claimant and any partner are together responsible for more than two individuals who are either children or young persons and who are members of the same household, and, under paragraph 2 of Schedule 4, a different amount applies to different individuals, the two amounts to be included in the applicable amount shall be those that result in the greatest possible total amount.
+  >
+  > (3) Paragraph (4) applies where—
+  >
+  > - (a) (as part of a polygamous unit) the claimant has an award of child tax credit in respect of any child or young person for whom he or a partner of his is responsible and who is a member of the same household, and whether or not any amount is payable by way of such credit; and
+  > - (b) the total amount to be included in the applicable amount under paragraph (1)(c) as substituted by paragraph (4) would be higher than the total amount that would be included under paragraph (1)(c) apart from paragraph (4).
+  >
+  > (4) Where this paragraph applies, for paragraph (1)(c) substitute—
+  >
+  > > - (c) an amount determined in accordance with paragraph 2 of Schedule 4 in respect of any child or young person for whom he or a partner of his is responsible and who is a member of the same household and in respect of whom the individual element of child tax credit has been included in the determination of the maximum rate of that credit;
+  >
+  > .
+  >
+  > (5) In this regulation “**polygamous unit**” has the same meaning as in regulation 2 of the Tax Credits (Polygamous Marriages) Regulations 2003 [^c22853641].
+
+  .
+
+(4) In paragraphs 1, 2(1), 4 and 30(4) of Schedule 4 (applicable amounts), after “20” and “21”, in each place where they occur, insert “ (1) ”.
+
+## 7. Restrictions on amounts for children and young persons – consequential changes to the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+
+(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 [^c22853651] are amended in accordance with paragraph (2).
+
+(2) In regulation 20 (applicable amounts)—
+
+- (a) for sub-paragraph (b) of paragraph (1) substitute—
+
+  > - (b) an amount determined in accordance with paragraph 2 of that Schedule in respect of up to two individuals who are either children or young persons and who are members of his family;
+
+  ;
+- (b) at the end insert—
+
+  > (3) For the purposes of paragraph (1)(b), as it applies apart from paragraph (5), where the family includes more than two individuals who are either children or young persons, and, under paragraph 2 of that Schedule, a different amount applies to different individuals, the two amounts to be included in the applicable amount shall be those that result in the greatest possible total amount.
+  >
+  > (4) Paragraph (5) applies where—
+  >
+  > - (a) (whether or not as part of a tax credit couple) the claimant has an award of child tax credit in respect of a child or young person who is a member of his family, whether or not any amount is payable by way of such a credit; and
+  > - (b) the total amount to be included in the applicable amount under paragraph (1)(b) as substituted by paragraph (5) would be higher than the total amount that would be included under paragraph (1)(b) apart from paragraph (5).
+  >
+  > (5) Where this paragraph applies, for paragraph (1)(b) substitute—
+  >
+  > > - (b) an amount determined in accordance with paragraph 2 of that Schedule in respect of any child or young person who is a member of his family and in respect of whom the individual element of child tax credit has been included in the determination of the maximum rate of that credit;
+  >
+  > .
+  >
+  > (6) In this regulation “**tax credit couple**” means a couple as defined in section 3(5A) of the Tax Credits Act 2002.
+
+  .
+
+## 8. Housing Benefit – transitional provisions for restrictions on amounts for children and qualifying young persons[^key-1a8f539e7f1612e17f6d13a9c92ab071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by the authority of the Secretary of State for Work and Pensions
+
+Damian Hinds
+
+Minister of State
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations make changes in relation to various social security benefits as a consequence of the restrictions on entitlement to child tax credit and the child element of universal credit provided for in section 13 of the Welfare Reform and Work Act 2016 (c. 7) (the “**2016 Act**”) and Article 10 of the Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999 (N.I. 1)) (the “**2016 Order**”). The universal credit changes include exceptions from those restrictions and transitional arrangements. The Regulations also make consequential changes in relation to housing benefit, income support and jobseekers allowance.
+
+Regulation 2 amends the Universal Credit Regulations (Northern Ireland) 2016 (S.R. 2016 No. 216) (the “**Universal Credit Regulations**”) by inserting new regulations 25A and 25B and a new Schedule 12.
+
+- — Regulation 25A sets out the rule for determining whether a claimant is entitled to the child element in respect of a child or qualifying young person for whom the claimant is responsible. The child element will be available in respect of the first or second child or qualifying young person in the claimant's household as this will be within the maximum amount of the child element available under Article 15 of the Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1)) as amended by the 2016 Order. The child element will only be available in respect of a third or subsequent child or qualifying young person in the claimant's household if that child or qualifying young person is transitionally protected or an exception applies in relation to them. Regulation 25B sets out the rule for determining whether a child or qualifying young person is the first, second, third or subsequent one in the claimant's household for this purpose.
+- — Schedule 12 provides that an exception to the restriction on entitlement to the child element will apply in respect of a third or subsequent child or qualifying young person in the claimant's household who is: born as part of a multiple birth, other than the first child in that birth (paragraph 2); adopted from local authority care (paragraph 3); within the claimant's responsibility as part of a non-parental caring arrangement (paragraph 4); or born as a result of non-consensual conception (paragraph 5). Paragraph 6 of Schedule 12 also provides for certain cases where an exception, granted in a previous universal credit award to joint claimants by virtue of one member of the couple being the parent or adopter of the relevant child or qualifying young person, may continue to apply in a subsequent, connected universal credit award made to the other member of that couple, where that person continues to be responsible for the same child or qualifying young person but would not be entitled to the exception in their own right.
+
+Regulation 2 of these Regulations also inserts a new definition of “step-parent” into the Universal Credit Regulations as step-parents of children or qualifying young persons are referred to in certain exceptions under the new Schedule 12. The definition also clarifies the meaning of this term as used elsewhere in those regulations.
+
+Regulation 3 amends the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 226) by inserting a new Part 3 (comprising new regulations 40 to 44) to set out the transitional arrangements for the coming into force of Article 10 of the 2016 Order.
+
+- — Regulation 40 prevents a new claim for universal credit being made by any person with more than two children or qualifying young persons during the period beginning with the date on which the Universal Credit Regulations (Northern Ireland) 2016 come into operation and ending with 31<sup>st</sup> October 2018 (“the interim period”). The interim period may be extended by the Department.
+- — Regulation 41 sets out the circumstances in which a child or qualifying young person, who is the third or subsequent child or qualifying young person in the claimant's household, is transitionally protected for the purpose of entitlement to the child element. Different criteria apply during and after the interim period. During the interim period (as for child tax credit) the protection depends on the child or qualifying young person being born before 6th April 2017. After the interim period it also depends on their having been part of an award of universal credit since the end of the interim period or part of an award of child tax credit, income support or a jobseeker's allowance in the six months before becoming part of a universal credit award.
+- — Regulation 42 provides for the exception in paragraph 6 of the new Schedule 12 to the Universal Credit Regulations (continuation of an existing exception in a subsequent award) to apply in respect of a child or qualifying young person in a universal credit award, where a relevant exception previously applied in relation to an award of child tax credit, income support or an income related jobseeker's allowance.
+- — Regulation 43 provides that the Department may rely on evidence previously provided to HMRC (in the context of a child tax credit claim) in order to make a determination for the purposes of the non-consensual conception exception in paragraph 5 of the new Schedule 12 to the Universal Credit Regulations.
+- — Regulation 44 provides that the higher amount of the child element payable in respect of the first child or qualifying young person (abolished by Article 10(5)(b) of the 2016 Order) continues to be payable to claimants who are responsible for a child or qualifying young person born before 6th April 2017.
+
+Regulation 3 of these Regulations also inserts a definition of “qualifying young person” into the Universal Credit (Transitional Provisions) Regulations 2014 as this term is used in the new Part 3 of those regulations.
+
+Regulation 4 provides that income support claimants whose applicable amount includes an amount in respect of children or young persons will not receive an amount in respect of a third or subsequent child or young person born on or after 6th April 2017. This restriction will not apply if any of the exceptions in the new Schedule 12 to the Universal Credit Regulations would apply in respect of that child or young person if the claimant were entitled to an award of universal credit.
+
+Regulation 4 also provides that, where, as a result of this regulation, a claimant does not receive an amount in respect of a third or subsequent child or young person born on or after 6th April 2017, then any child benefit received by the claimant in respect of that child or young person is disregarded in the calculation of their income other than earnings. This aligns the treatment of child benefit received in respect of those children and young persons with the treatment of child benefit received in respect of children or young persons by claimants who are not entitled to an amount in respect of any child or young person.
+
+Regulation 5 provides for jobseeker's allowance claimants whose applicable amount includes an amount in respect of children or young persons to be treated in the same way as income support claimants in respect of third or subsequent children or young persons born on or after 6<sup>th</sup> April 2017.
+
+Regulations 6 to 8 make changes which relate to the Housing Benefit Regulations (Northern Ireland) 2006 (S.I. 2006/405) and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.I. 2006/406) consequent on the changes made to child tax credit provisions by section 13 of the 2016 Act.
+
+Regulations 6 and 7 amend the provisions of those Regulations on “applicable amounts” (amounts used for the purpose of provisions on the taking into account of a claimant's income) in order to provide that, save where the claimant is awarded child tax credit, the applicable amount is to include a maximum of two amounts for any children or young persons for whom the claimant or the claimant's partner is responsible and who are members of the same household (“default provisions”).
+
+Where the claimant has an award of child tax credit, an amount is to be included in the applicable amount for any child or young person in respect of whom an individual element of child tax credit is included in the calculation of the maximum rate of that credit, where the total amount to be included would be higher than the total amount that would be included under the default provisions (“child tax credit provisions”).
+
+Regulation 8 does not amend either of those Regulations but contains transitional provisions for the situation where a claimant is entitled to housing benefit on 5th April 2017 and the claimant's family then includes more than two children or young persons (“protected individuals”). In this case, the claimant's applicable amount is to include an amount for each protected individual, until a new claim for housing benefit is made (*See* paragraphs (2) to (4) of regulation 8).
+
+Regulation 8 also includes provision for the case where, after the 10th May 2017, the family includes one or more protected individuals and one or more new children or young persons.
+
+In this case, where the child tax credit provisions do not apply, the default provisions are to apply to any new child or young person such that an amount is only to be included in the applicable amount in respect of a new child or young person where the number of protected individuals in the family has fallen to one and, where this is the position, the maximum number of amounts to be included is two.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c22853311]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [section 133](https://www.legislation.gov.uk/nisr/2017/79/section/133) is cited for the meaning of “prescribed”; [section 171(1)](https://www.legislation.gov.uk/nisr/2017/79/section/171/1) was amended by paragraph 5 of Schedule 4 to the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^c22853321]: Marginal citation: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); [Article 2(2)](https://www.legislation.gov.uk/nisr/2017/79/article/2/2) is cited for the meaning of “prescribed” and “regulations”.
+
+[^c22853331]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^c22853341]: Marginal citation: [S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999)
+
+[^c22853351]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216)
+
+[^c22853361]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c22853371]: Marginal citation: S.R. [2016 No. 226](https://www.legislation.gov.uk/ukcm/2016/226); [Regulation 41](https://www.legislation.gov.uk/nisr/2017/79/regulation/41) is inserted by regulation 3(3) of these Regulations
+
+[^c22853381]: Marginal citation: [Schedule 12](https://www.legislation.gov.uk/nisr/2017/79/schedule/12) is inserted by regulation 2(4) of these Regulations
+
+[^c22853391]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
+
+[^c22853401]: Marginal citation: The definition of “Convention adoption order” and related expressions were inserted by section 6 of the Adoption (Intercountry Aspects) Act (Northern Ireland) 2001 ([2001 c. 11(N.I.))](https://www.legislation.gov.uk/nia/2001/11)
+
+[^c22853411]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^c22853421]: Marginal citation: [S.I.2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769)
+
+[^c22853431]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071); the definition of “relative” was amended by Article 11 of [S.I. 2005/1452 (N.I. 7)](https://www.legislation.gov.uk/nisi/2005/1452) and section 206 and paragraph 1 of Part 1 of Schedule 19 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33)
+
+[^c22853441]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
+
+[^c22853451]: Marginal citation: [S.I. 2002/796 (N.I. 1)](https://www.legislation.gov.uk/nisi/2002/796)
+
+[^c22853461]: Marginal citation: S.R. [2016 No. 226](https://www.legislation.gov.uk/ukcm/2016/226)
+
+[^c22853471]: Marginal citation: [Regulation 25A](https://www.legislation.gov.uk/nisr/2017/79/regulation/25A) is inserted by regulation 2(3) of these Regulations.
+
+[^c22853481]: Marginal citation: [Regulation 25B](https://www.legislation.gov.uk/nisr/2017/79/regulation/25B) is inserted by regulation 2(3) of these Regulations.
+
+[^c22853491]: Marginal citation: [Schedule 12](https://www.legislation.gov.uk/nisr/2017/79/schedule/12) is inserted by regulation 2(4) of these Regulations.
+
+[^c22853501]: Marginal citation: [S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999).
+
+[^key-91e8f4cf7d4e019954f9dee081e02721]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2017/79/regulation/4) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/a)
+
+[^key-dcc291ed1bd90922ce3b048417655484]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2017/79/regulation/5) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/b)
+
+[^c22853601]: Marginal citation: S,R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405); relevant amending Regulations are S.R. [2008 No. 378](https://www.legislation.gov.uk/ukcm/2008/378) and S.R. [2010 No. 312](https://www.legislation.gov.uk/ukcm/2010/312)
+
+[^c22853611]: Marginal citation: [Regulation 20](https://www.legislation.gov.uk/nisr/2017/79/regulation/20) was amended by regulation 3(7) of S.R. [2008 No. 378](https://www.legislation.gov.uk/ukcm/2008/378) and paragraph 1(3) of Schedule 4 to S.R. [2010 No. 312](https://www.legislation.gov.uk/ukcm/2010/312)
+
+[^c22853621]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21). Subsection (5A) was inserted by section 254(1) of, and paragraph 144(1) and (3) of Schedule 24 to, the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c22853631]: Marginal citation: [Regulation 21](https://www.legislation.gov.uk/nisr/2017/79/regulation/21) was amended by regulation 3(8) of S.R. [2008 No. 378](https://www.legislation.gov.uk/ukcm/2008/378) and paragraph 1(4) of Schedule 4 to S.R. [2010 No. 312](https://www.legislation.gov.uk/ukcm/2010/312)
+
+[^c22853641]: Marginal citation: [S.I](https://www.legislation.gov.uk/nisr/2017/79/section/I) 2003/742
+
+[^c22853651]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406)
+
+[^key-1a8f539e7f1612e17f6d13a9c92ab071]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2017/79/regulation/8) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/c)

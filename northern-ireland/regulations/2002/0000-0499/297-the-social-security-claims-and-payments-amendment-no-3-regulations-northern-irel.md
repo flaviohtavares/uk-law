@@ -1,0 +1,185 @@
+---
+title: The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2002
+id: nisr/2002/297
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-09-24'
+text_date: '2009-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/297
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/297/pdfs/nisr_20020297_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/297/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2002
+
+> Text as at 2009-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 297
+
+SOCIAL SECURITY
+
+The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2002
+
+Made
+
+24th September 2002
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by sections 5(1)(j), (q) and (r) and 165(1), (4) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-6d793ed98e5fbcd22893f5dda8d84508]
+
+## 1. Citation, commencement and interpretation[^key-dfe3d3a05caf36503609abc6a8b2c6e5]
+
+(1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2002 and shall come into operation –
+
+- (a) for the purposes of this regulation and regulation 2(1), (6) to (8) and (10), on 23rd October 2002;
+- (b) for the purpose of regulation 2(4) immediately before 1st April 2003; and
+- (c) for all other purposes, on 8th April 2003.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-7fcc9b22a65c2b17577e8d13419046ee][^key-8c14213843e74a4b8f48cd20460329f9][^key-99f41559e5ce69d1e9e1872a7d06fd8b]
+
+(1)[^key-7fcc9b22a65c2b17577e8d13419046ee] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004] shall be amended in accordance with paragraphs (2) to (10).
+
+(2)[^key-8c14213843e74a4b8f48cd20460329f9] In regulation 21 (direct credit transfer) –
+
+- (a) for paragraph (1)[^f00005] there shall be substituted the following paragraph –
+
+  > (1) Subject to the provisions of this regulation, benefit may, by an arrangement between the Department and the person claiming or entitled to it, be paid by way of direct credit transfer into a bank or other account –
+  >
+  > - (a) in the name of the person entitled to benefit, or his spouse or partner, or a person acting on his behalf; or
+  > - (b) in the joint names of the person entitled to benefit and his spouse or partner, or the person entitled to benefit and a person acting on his behalf.
+
+  ;
+- (b) paragraph (2) shall be omitted;
+- (c) in paragraph (3)[^f00006] “as may be provided in the application” shall be omitted; and
+- (d) in paragraphs (3B) and (3C)[^f00007] for “any application to which paragraph (2) refers” there shall be substituted “an arrangement under that paragraph”.
+
+(3)[^key-8c14213843e74a4b8f48cd20460329f9] In regulation 22 (long term benefits) for paragraph (1)[^f00008] there shall be substituted the following paragraphs –
+
+> (1) Subject to the provisions of this regulation and regulation 25(1), long term benefits may be paid at intervals of four weeks, or weekly in advance.
+>
+> (1A) Disability living allowance shall be paid at intervals of four weeks.
+
+.
+
+(4)[^key-99f41559e5ce69d1e9e1872a7d06fd8b] In regulation 23(1) (child benefit and guardian’s allowance) “and of regulation 21 (direct credit transfer)” shall be omitted.
+
+(5)[^key-8c14213843e74a4b8f48cd20460329f9] In regulation 24(1) and (2)[^f00009] (incapacity benefit, severe disablement allowance and maternity allowance) “regulation 21 and” shall be omitted.
+
+(6)[^key-7fcc9b22a65c2b17577e8d13419046ee] In regulation 29[^f00010] (payments to persons under age 18) for “the receipt of that person” there shall be substituted “a direct credit transfer under regulation 21 into that person’s account, or the receipt by him of a payment made by some other means,”.
+
+(7)[^key-7fcc9b22a65c2b17577e8d13419046ee] In regulation 30(2)(a)[^f00011] (payments on death) for “the receipt of any such person” there shall be substituted “a direct credit transfer under regulation 21 into any such person’s account, or the receipt by him of a payment made by some other means,”.
+
+(8)[^key-7fcc9b22a65c2b17577e8d13419046ee] In regulation 33(3) (persons unable to act) for “the receipt of any person so appointed” there shall be substituted “a direct credit transfer under regulation 21 into the account of any person so appointed, or the receipt by him of a payment made by some other means,”.
+
+(9)[^key-8c14213843e74a4b8f48cd20460329f9] In regulation 34A(2)[^f00012] (deductions which may be made from benefits and paid to third parties) for the words from “instrument of payment” to the end there shall be substituted “payment may be, and in the case of funeral expenses shall be, made to that person and where an instrument of payment is made payable to that person it may be sent to the beneficiary.”.
+
+(10)[^key-7fcc9b22a65c2b17577e8d13419046ee] In Schedule 6 (days for payment of long term benefits) –
+
+- (a) in paragraph 5(b)[^f00013] for “Tuesdays” there shall be substituted “the day of the week which has become the appropriate day for payment of such benefit in accordance with paragraph 6”;
+- (b) in paragraph 5(d) for “in any particular case determine” there shall be substituted “, where payment is by direct credit transfer or in the circumstances of any particular case, determine”; and
+- (c)[^key-12c649507b0af6ba111bad09de336081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocations[^key-a5bfa9798ba386f43013022b0f96cdb3]
+
+The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 24th September 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+## SCHEDULE — REGULATIONS REVOKED[^key-5ff5f4979c65025dc59c5e9f022363bb]
+
+Regulation 3
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/7">S.R. 1992 No. 7</a></td><td>Regulation 12</td></tr>
+<tr><td>The Social Security (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/83">S.R. 1992 No. 83</a></td><td>Regulation 7(8)</td></tr>
+<tr><td>The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/345">S.R. 1994 No. 345</a></td><td>Regulation 2(4)</td></tr>
+<tr><td>The Social Security (Claims and Payments) (Amendment No. 4) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/484">S.R. 1994 No. 484</a></td><td>Regulation 2(5)</td></tr>
+<tr><td>The Social Security (Claims and Payments Etc.) (Amendment) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/85">S.R. 1996 No. 85</a></td><td>Regulation 2(3)(a)</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+Regulation 2 of these Regulations amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 to –
+
+- provide for arrangements to be made with a claimant to pay benefit by direct credit transfer into a bank or other account in his name without an application by him, into the account of another specified person or into an account in the joint names of the claimant and another specified person (paragraph (2));
+- provide that disability living allowance continues to be payable at four weekly intervals and other long term benefits be payable at four weekly intervals or weekly in advance (paragraph (3));
+- clarify the time when child benefit, guardian’s allowance, incapacity benefit and severe disablement allowance is paid (paragraphs (4) and (5));
+- provide that payment of benefit by direct credit transfer into the account of a beneficiary under age 18 or a statutory appointee shall be a good discharge to the Department for Social Development (paragraphs (6) to (8));
+- provide that specified social fund payments may be made by direct credit transfer and if an instrument of payment is payable to a third party it may be sent to the beneficiary (paragraph (9)); and
+- specify days for payment of retirement pension, widow’s benefit and bereavement benefit (paragraph (10)).
+
+Regulation 3 makes consequential revocations.
+
+These Regulations correspond to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-6d793ed98e5fbcd22893f5dda8d84508]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2002/297) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^key-dfe3d3a05caf36503609abc6a8b2c6e5]: Commencement: Reg. 1 in operation at 23.10.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/a)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-7fcc9b22a65c2b17577e8d13419046ee]: Commencement: Reg. 2(1)(6)(7)(8)(10) in operation at 23.10.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/a)
+
+[^key-8c14213843e74a4b8f48cd20460329f9]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/297/regulation/2/2)[(3)](https://www.legislation.gov.uk/nisr/2002/297/regulation/2/3)[(5)](https://www.legislation.gov.uk/nisr/2002/297/regulation/2/5)[(9)](https://www.legislation.gov.uk/nisr/2002/297/regulation/2/9) in operation at 8.4.2003, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/c)
+
+[^key-99f41559e5ce69d1e9e1872a7d06fd8b]: Commencement: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2002/297/regulation/2/4) in operation at 31.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/b)
+
+[^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 Nos. 67](https://www.legislation.gov.uk/nisr/1988/67), [141](https://www.legislation.gov.uk/nisr/1988/141) and [369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7) and [83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217), [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345), [456](https://www.legislation.gov.uk/nisr/1994/456) and [484](https://www.legislation.gov.uk/nisr/1994/484), [S.R. 1996 Nos. 85](https://www.legislation.gov.uk/nisr/1996/85) and [354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365), [S.R. 2000 Nos. 365](https://www.legislation.gov.uk/nisr/2000/365) and [404](https://www.legislation.gov.uk/nisr/2000/404) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^f00005]: Footnote: Paragraph (1) was amended by regulation 7(8)(a) of [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), regulation 2(4) of [S.R. 1994 No. 345](https://www.legislation.gov.uk/nisr/1994/345) and regulation 2(3)(a) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
+
+[^f00006]: Footnote: Paragraph (3) was amended by regulation 2(2)(a) of [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217)
+
+[^f00007]: Footnote: Paragraphs (3B) and (3C) were inserted by regulation 2(4) of [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365)
+
+[^f00008]: Footnote: Paragraph (1) was amended by regulation 12 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and regulation 2(5) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
+
+[^f00009]: Footnote: Regulation 24 was substituted by regulation 2(10) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456); relevant amending regulations are [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404)
+
+[^f00010]: Footnote: Regulation 29 was substituted by regulation 2(4) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
+
+[^f00011]: Footnote: Paragraph (2) was amended by regulation 2(7)(a) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365)
+
+[^f00012]: Footnote: Regulation 34A was inserted by regulation 2(2) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67); relevant amending regulations are [S.R. 1988 Nos. 141](https://www.legislation.gov.uk/nisr/1988/141) and [369](https://www.legislation.gov.uk/nisr/1988/369)
+
+[^f00013]: Footnote: Paragraph 5(b) was substituted by regulation 10(6)(a) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
+
+[^key-12c649507b0af6ba111bad09de336081]: Textual amendment: [Reg. 2(10)(c)](https://www.legislation.gov.uk/nisr/2002/297/regulation/2/10/c) revoked (6.4.2009) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/107)](https://www.legislation.gov.uk/nisr/2009/107), [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1), [Sch. reg. 4](https://www.legislation.gov.uk/nisr/2009/107/schedule/regulation/4)
+
+[^key-a5bfa9798ba386f43013022b0f96cdb3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/297/regulation/3) in operation at 8.4.2003, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/c)
+
+[^key-5ff5f4979c65025dc59c5e9f022363bb]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2002/297/schedule) in operation at 8.4.2003, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/c)

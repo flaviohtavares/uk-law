@@ -1,0 +1,222 @@
+---
+title: The Crown Court (Prosecution Appeals) Rules (Northern Ireland) 2005
+id: nisr/2005/79
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-09'
+text_date: '2010-04-12'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/79
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/79/pdfs/nisrem_20050079_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/79/pdfs/nisr_20050079_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/79/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crown Court (Prosecution Appeals) Rules (Northern Ireland) 2005
+
+> Text as at 2010-04-12.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 79
+
+SUPREME COURT, NORTHERN IRELAND
+
+The Crown Court (Prosecution Appeals) Rules (Northern Ireland) 2005
+
+Made
+
+9th March 2005
+
+To be laid before Parliament
+
+Coming into operation
+
+18th April 2005
+
+We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and Article 32 of the Criminal Justice (Northern Ireland) Order 2004[^f00002] and all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:
+
+## 1. Citation, commencement and interpretation[^key-ec26f0d1d80776a12a1f58712a0078e3]
+
+(1) These Rules may be cited as the Crown Court (Prosecution Appeals) Rules (Northern Ireland) 2005 and shall come into operation on 18th April 2005.
+
+(2) In these Rules –
+
+- “the 2004 Order” means the Criminal Justice (Northern Ireland) Order 2004;
+- “appeal” means an appeal against a ruling under Article 17 of the 2004 Order and “application for leave to appeal” should be construed accordingly;
+- “business day” means any day other than –
+  - (a) a Saturday, Sunday, Christmas Day or Good Friday; or
+  - (b) a day which is, or is to be observed as, a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971[^f00003].
+- “chief clerk” means the chief clerk of the Court before which the defendant is being tried and includes such other civil servant in the Department of Justice[^key-16e06ffc2e34e391b259acb940d5f849] as may be authorised to act on his behalf for the purpose in question;
+- “defendant” means a party in whose favour the ruling which is the subject of the appeal was made;
+- “interested party” means a person other than the defendant who –
+  - (i) is a party to the proceedings in the Crown Court;
+  - (ii) may be affected by the decision of the judge under Article 18(1) of the 2004 Order as to whether or not the appeal should be expedited; and
+  - (iii) is permitted by the judge to make representations on that issue;
+- “judge” means the judge of the Crown Court with conduct of the proceedings;
+- “public interest ruling” means a ruling under section 3(6), 7A(8) or 8(5) of the Criminal Procedure and Investigations Act 1996[^f00004] that it is not in the public interest to disclose material in the possession of the prosecution;
+- “the proper officer” means the Master (Queen’s Bench and Appeals) and includes any other officer of the Supreme Court directed by the Lord Chief Justice to exercise the powers and duties of the Master (Queen’s Bench and Appeals).
+
+(3) The form in the Schedule shall be used where applicable with such variations as the circumstances of the particular case require.
+
+## 2. Request for adjournment to consider whether to appeal[^key-b9c2735c16be18abd87817dbaa0d8151]
+
+(1) Subject to paragraph (2), a request by the prosecution for an adjournment under Article 17(4)(b) of the 2004 Order shall be made to the judge immediately following the making of a ruling to which Article 17 of the 2004 Order applies.
+
+(2) Where the ruling is a ruling that there is no case to answer, an application by the prosecution under paragraph (1) shall be made immediately following that ruling, notwithstanding that the prosecution may also nominate one or more other rulings to be the subject of the appeal.
+
+(3) The judge shall grant the request for an adjournment under Article 17(4)(b) of the 2004 Order unless there are exceptional circumstances which make it necessary for the prosecution to indicate immediately whether or not it intends to appeal.
+
+(4) Where the judge grants an adjournment under Article 17(4)(b) of the 2004 Order, the trial shall be adjourned –
+
+- (a) until the next business day; or
+- (b) where there are exceptional circumstances, for such longer period as the judge considers necessary.
+
+(5) Subject to paragraph (6), as soon as is reasonably practicable after the prosecution informs the judge that it intends to appeal or requests an adjournment to consider whether to appeal, the chief clerk shall provide a transcript of the ruling which is the subject of the proposed appeal to –
+
+- (a) the prosecution;
+- (b) the defendant; and
+- (c) any interested party.
+
+(6) Where the ruling which is the subject of the proposed appeal is a public interest ruling, the judge may direct that paragraphs (5)(b) and (c) shall not apply.
+
+## 3. Application for leave to appeal[^key-1d30e6a5ecf258ee7f1ec49cc2d3a71a]
+
+(1) Where the prosecution intends to appeal against a ruling under Article 17 of the 2004 Order, it shall inform the judge of its intention –
+
+- (a) immediately following the making of that ruling; or
+- (b) where proceedings have been adjourned pursuant to Article 17(4)(b) of the 2004 Order, immediately upon the resumption of the said proceedings.
+
+(2) The prosecution may apply orally for leave to appeal at the same time as it informs the judge of its intention to appeal.
+
+(3) Before determining an application for leave to appeal, the judge may hear oral representations from the defendant.
+
+(4) An oral application for leave to appeal shall be determined by the judge on the day on which it is made or, where there are exceptional circumstances, on the business day next following the day on which it is made.
+
+(5) Where the judge grants leave to appeal he shall issue a certificate which shall be in Form 1 in the Schedule and which shall be forwarded, by the chief clerk, to the proper officer.
+
+## 4. Expedited appeal[^key-f81479e00df0f561ce2b86af574d08d3]
+
+(1) The prosecution shall, at the time when it informs the judge that it intends to appeal against a ruling, make oral representations as to whether or not that appeal should be expedited under Article 18(1) of the 2004 Order.
+
+(2) Before determining whether or not the appeal should be expedited, the judge may hear oral representations from the defendant or any interested party.
+
+(3) As soon as reasonably practicable after the judge determines whether or not the appeal should be expedited the chief clerk shall serve notice of the judge’s decision and the reasons for it on –
+
+- (a) the proper officer;
+- (b) the prosecution;
+- (c) the defendant; and
+- (d) any interested party.
+
+(4) Where the judge decides that the appeal should be expedited he may, at any time before notice of appeal or application for leave to appeal is served on the chief clerk, reverse that decision.
+
+(5) As soon as reasonably practicable after the judge reverses his decision that the appeal should be expedited the chief clerk shall serve notice of the reversal of the judge’s decision and the reasons for it on –
+
+- (a) the proper officer;
+- (b) the prosecution;
+- (c) the defendant; and
+- (d) any interested party.
+
+## 5. Service[^key-1b84fedd68373fc55e1f88482b6dc446]
+
+Any notice or other document which is required by these Rules to be given to any person shall be served in accordance with rule 47 of the Crown Court Rules (Northern Ireland) 1979[^f00005].
+
+## 6. Transitional provision[^key-1374010591692faa29afeb9a5c5d9a45]
+
+Until the coming into force of Part 5 of the Criminal Justice Act 2003[^f00006] a “public interest ruling” means a ruling under section 3(6), 7(5), 8(5), or 9(8) of the Criminal Procedure and Investigations Act 1996 that it is not in the public interest to disclose material in the possession of the prosecution.
+
+Brian Kerr
+
+J. M. Nicholson
+
+J. Gillen
+
+Gordon Kerr
+
+Corinne E. Philpott
+
+J. Wilson
+
+Paul G. Copeland
+
+Barra McGrory
+
+Dated 3rd March 2005
+
+Signed by authority of the Lord Chancellor
+
+I concur
+
+Baroness Ashton of Upholland
+
+Parliamentary Under-Secretary of State,
+
+Department for Constitutional Affairs
+
+Dated 9th March 2005
+
+## SCHEDULE[^key-9b4ea2174ce19d7abafb0f5584fd3323]
+
+FORM 1
+
+IN THE CROWN COURT IN NORTHERN IRELAND
+
+**Judge’s Certificate**
+
+Rule 3(5)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2005/79/images/nisr_20050079_en_001)
+
+(This note is not part of the Rules.)
+
+These Rules prescribe the procedures which apply in the Crown Court in relation to prosecution appeals under Article 17 of the Criminal Justice (Northern Ireland) Order 2004.
+
+Article 17 of the 2004 Order provides for a prosecution right of appeal to the Court of Appeal against rulings by a judge of the Crown Court, made at any time (whether before or after the commencement of the trial) before the judge starts his summing-up to the jury, that have the effect of terminating the trial.
+
+Rule 2 makes provision in relation a request by the prosecution for an adjournment to consider whether to appeal in respect of a ruling. It prescribes the manner in which such a request shall be made and the period for which the case shall be adjourned.
+
+Rule 3 prescribes the manner in which the prosecution shall inform the judge of its intention to appeal and provides for the making an oral application for leave to appeal.
+
+Rule 4 makes provision for the procedure to be applied when determining whether an appeal should be expedited.
+
+Rule 5 prescribes the manner in which documents required to be served under these Rules may be served.
+
+Rule 6 makes transitional provision in relation to the definition of a “public interest ruling”.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
+
+[^f00002]: Footnote: [S.I. 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500)
+
+[^key-ec26f0d1d80776a12a1f58712a0078e3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/79/article/1) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+
+[^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^key-16e06ffc2e34e391b259acb940d5f849]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2005/79/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 34](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/34) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+
+[^f00004]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 7A was inserted into the Criminal Procedure and Investigations Act 1996 by section 37 of the Criminal Justice Act 2003
+
+[^key-b9c2735c16be18abd87817dbaa0d8151]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/79/article/2) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+
+[^key-1d30e6a5ecf258ee7f1ec49cc2d3a71a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/79/article/3) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+
+[^key-f81479e00df0f561ce2b86af574d08d3]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/79/article/4) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+
+[^key-1b84fedd68373fc55e1f88482b6dc446]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/79/article/5) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+
+[^f00005]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90); to which the most recent relevant amendment was made by [S.R. 2004 No. 233](https://www.legislation.gov.uk/nisr/2004/233)
+
+[^key-1374010591692faa29afeb9a5c5d9a45]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/79/article/6) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+
+[^f00006]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44)
+
+[^key-9b4ea2174ce19d7abafb0f5584fd3323]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/79/schedule) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)

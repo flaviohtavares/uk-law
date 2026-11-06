@@ -1,0 +1,140 @@
+---
+title: The Rabies (Importation of Dogs, Cats and Other Mammals) (Amendment) Order (Northern Ireland) 2005
+id: nisr/2005/275
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2005-05-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2005/275
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/275/pdfs/nisr_20050275_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/275/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rabies (Importation of Dogs, Cats and Other Mammals) (Amendment) Order (Northern Ireland) 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 275
+
+ANIMALS
+
+The Rabies (Importation of Dogs, Cats and Other Mammals) (Amendment) Order (Northern Ireland) 2005
+
+Made
+
+25th May 2005
+
+Coming into operation
+
+20th June 2005
+
+The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by Articles 29 and 60 and 62(2) of, and paragraph 2 of Schedule 6 to, the Diseases of Animals (Northern Ireland) Order 1981[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Rabies (Importation of Dogs, Cats and Other Mammals) (Amendment) Order (Northern Ireland) 2005 and shall come into operation on 20th June 2005.
+
+## 2. Amendment of the Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977
+
+(1) The Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977[^f00003] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) Article 3 (Interpretation) shall be amended as follows –
+
+- after the definition of “dog” there shall be inserted the following definition –
+
+  > - “ferret” means a small domesticated polecat of the order *Mustela putorius furo*;
+
+  .
+
+(3) Article 4(1) shall be amended as follows –
+
+- (a) a reference to “a dog or cat” wherever it occurs shall be amended to read “ a dog, cat or ferret”;
+- (b) for paragraph (1)(c)(i) there shall be substituted the following paragraph –
+
+  > - (i) where landing in Northern Ireland, it is an animal which was imported into the Republic of Ireland from another member State or Norway subject to and in accordance with Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065)[^f00004]; or
+
+  ; and
+- (c) for paragraph (1)(d)(i) there shall be substituted the following paragraph –
+
+  > - (i) where landing in Northern Ireland, it is a dog, cat or ferret which was imported into one of those countries from another member State or Norway subject to and in accordance with Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065); or
+
+  .
+
+(4) For Articles 4B and 4C there shall be substituted the following Articles –
+
+> **4B. Importation of animals from a member State other than the Republic of Ireland**
+>
+> —The prohibition and restrictions on landing contained in Article 4(1), (7) and (8) shall not apply in the case of importation into Northern Ireland from another member State (other than the Republic of Ireland) of any animal to which Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065) and the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2005[^f00005] apply and which are imported in accordance with those Regulations.
+>
+> **4C. Non Commercial Movement of Pet Animals Regulations**
+>
+> The following provisions shall not apply in the case of an animal which has been –
+>
+> - (a) brought into England in accordance with the provisions of Regulation [(EC) No. 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998) and the Non Commercial Movement of Pet Animals (England) Regulations 2004[^f00006]; or
+> - (b) released from quarantine there in accordance with Article 5A of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^f00007],
+>
+> and subsequently brought to Northern Ireland, that is to say –
+>
+> - (i) the prohibition and restrictions on landing contained in Articles 4(1), (7) and (8);
+> - (ii) the requirements in respect of detention and isolation in quarantine contained in Article 5(2);
+> - (iii) the controls on the movement of animals on landing contained in Article 7; and
+> - (iv) the prohibitions and requirements in respect of detention and isolation on board vessels in harbour contained in Article 12.
+
+.
+
+(5) In Article 5 after paragraph (2) there shall be inserted the following paragraph –
+
+> (2A) Paragraph (2) shall not apply to any animal of the order *Rodentia* or *Lagomorpha* where a licence granted under Article 4(1) states that it is being brought into Northern Ireland –
+>
+> - (a) for use at research premises in connection with scientific research; or
+> - (b) to a zoological establishment licensed under section 8(1) of the Welfare of Animals Act (Northern Ireland) 1972[^f00008].
+
+.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 25th May 2005.
+
+Liam McKibben
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+(This note is not part of the Order)
+
+This Order further amends the Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977 (“the principal Order”) as set out below.
+
+The exemptions from the requirement for a licence to import certain animals into Northern Ireland are extended to include –
+
+- (a) an animal from the Republic of Ireland which was imported into that territory from another member State or Norway in accordance with Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065) (laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Council Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425));
+- (b) an animal imported from a member State (other than the Republic of Ireland) in accordance with Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065);
+- (c) a dog or cat from Great Britain, the Channel Islands or the Isle of Man which was imported into one of these countries from Norway in accordance with Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065);
+- (d) a ferret from Great Britain, the Channel Islands or the Isle of Man or which was imported into one of those countries from a member State (other than the Republic of Ireland) or Norway in accordance with Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065) or which was isolated in quarantine for at least six months before being landed in Northern Ireland.
+
+The principal Order is further amended by permitting the free movement between England and Northern Ireland of any animal brought into England in accordance with the provisions of Regulation [(EC) No. 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998) and the Non-Commercial Movement of Pet Animals (England) Regulations 2004.
+
+The quarantine requirements in Article 5(2) of the principal order are disapplied to rodents and lagomorphs which are brought into Northern Ireland to a research premises or zoo.
+
+## Annotations
+
+[^f00001]: Footnote: The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283))
+
+[^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17 and [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Article 23
+
+[^f00003]: Footnote: [S.R. 1977 No. 113](https://www.legislation.gov.uk/nisr/1977/113) as amended by [S.R. 1977 No. 256](https://www.legislation.gov.uk/nisr/1977/256), [S.R. 1994 No. 402](https://www.legislation.gov.uk/nisr/1994/402) and [S.R. 2000 No. 10](https://www.legislation.gov.uk/nisr/2000/10)
+
+[^f00004]: Footnote: O.J. No. L268, 14.9.1992, p. 54 as last amended by Regulation [(EC) No. 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998) of the European Parliament and of the Council (O.J. No. L165, 13.6.2003, p. 1)
+
+[^f00005]: Footnote: [S.R. 2005 No. 78](https://www.legislation.gov.uk/nisr/2005/78)
+
+[^f00006]: Footnote: [S.I. 2004 No. 2363](https://www.legislation.gov.uk/uksi/2004/2363)
+
+[^f00007]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211) to which there are amendments not relevant to this Order. Article 5A was inserted by [S.I. 2004/2364](https://www.legislation.gov.uk/uksi/2004/2364)
+
+[^f00008]: Footnote: [1972 c. 7](https://www.legislation.gov.uk/apni/1972/7)

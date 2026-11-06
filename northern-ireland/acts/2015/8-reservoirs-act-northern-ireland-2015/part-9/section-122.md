@@ -1,0 +1,37 @@
+---
+title: Reservoirs Act (Northern Ireland) 2015, section 122
+act: Reservoirs Act (Northern Ireland) 2015
+section: '122'
+status: not-yet-in-force
+text_date: '2021-06-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/8/section/122
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Reservoirs Act (Northern Ireland) 2015, section 122
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 122. Application to the Crown
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) This Act binds the Crown and applies to any Crown land to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
+
+(2) Notwithstanding subsection (1), any provision made by or under this Act applies to persons in the public service of the Crown as it applies to other persons.
+
+(3) In this section and sections 123 and 124, reference to the Crown includes a reference to the Crown in right of Her Majesty's Government in Northern Ireland.
+
+(4) In this section and section 123—
+
+- (a) “**Crown land**” means land in which there is a Crown estate,
+- (b) “**Crown estate**” means either—
+  - (i) an estate belonging to Her Majesty in right of the Crown,
+  - (ii) an estate belonging to a government department or held in trust for Her Majesty for the purposes of a government department,
+- (c) “**government department**” means a department of the Government of the United Kingdom or a Northern Ireland Department.

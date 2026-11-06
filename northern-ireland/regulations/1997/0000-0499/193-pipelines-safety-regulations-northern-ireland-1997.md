@@ -1,0 +1,687 @@
+---
+title: Pipelines Safety Regulations (Northern Ireland) 1997
+id: nisr/1997/193
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-03-28'
+text_date: '1997-03-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/193
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/193/data.pdf
+pending_changes: 81
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pipelines Safety Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (81).** Text as at 1997-03-28. See https://www.legislation.gov.uk/changes/affected/nisr/1997/193
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1997 No. 193
+
+HEALTH AND SAFETY
+
+Pipelines Safety Regulations (Northern Ireland) 1997
+
+Made
+
+28th March 1997
+
+Coming into operation
+
+12th May 1997
+
+The Department of Economic Development, being the Department concerned[^f00001], in exercise of the powers conferred on it by Articles 17(1) to (6)[^f00002], 40(2) and 55(2) of, and paragraphs 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003], and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
+
+## Part I — Introduction
+
+### 1. Citation and commencement[^key-3a9a7f44c5606b1eeecca39e22673606]
+
+These Regulations may be cited as the Pipelines Safety Regulations (Northern Ireland) 1997 and shall come into operation on 12th May 1997.
+
+### 2. Interpretation[^key-d18a958a61fa2d1589f728e66d0f1e5c]
+
+In these Regulations—
+
+- “dangerous fluid” has the meaning given by regulation 18(2);
+- “the Department” means the Department of Economic Development;
+- “emergency shut-down valve” means a valve which is capable of adequately blocking the flow of fluid within the pipeline at the point at which it is incorporated;
+- “fluid” includes a mixture of fluids;
+- “major accident” means death or serious injury involving a dangerous fluid;
+- “major accident hazard pipeline” has the meaning given by regulation 18(1);
+- “operator”, in relation to a pipeline, means—
+  - (a) the person who is to have or (once fluid is conveyed) has control over the conveyance of fluid in the pipeline;
+  - (b) until that person is known (should there be a case where at a material time he is not yet known) the person who is to commission or (where commissioning has started) commissions the design and construction of the pipeline;
+  - (c) when a pipeline is no longer, or is not for the time being, used, the person last having control over the conveyance of fluid in it;
+- “pipeline” shall be construed in accordance with regulation 3;
+- “territorial waters” has the same meaning as in regulation 2(1) of the Offshore Installations and Pipeline Works (Management and Administration) Regulations (Northern Ireland) 1995[^f00004].
+
+### 3. Meaning of “pipeline”[^key-9831b99f0882d4c7da395b4005622b8e]
+
+(1) Subject to the provisions of this regulation, in these Regulations “pipeline” means a pipe or system of pipes (together with any apparatus and works, of a kind described in paragraph (2), associated with it) for the conveyance of any fluid, not being—
+
+- (a) a drain or sewer;
+- (b) a pipe or system of pipes constituting or comprised in apparatus for heating or cooling or for domestic purposes;
+- (c) a pipe (not being apparatus described in paragraph (2)(*e*)) which is used in the control or monitoring of any plant.
+
+(2) The apparatus and works referred to in paragraph (1) are—
+
+- (a) any apparatus for inducing or facilitating the flow of any fluid through, or through a part of, the pipe or system;
+- (b) any apparatus for treating or cooling any fluid which is to flow through, or through a part of, the pipe or system;
+- (c) valves, valve chambers and similar works which are annexed to, or incorporated in the course of, the pipe or system;
+- (d) apparatus for supplying energy for the operation of any such apparatus or works as are mentioned in sub-paragraphs (*a*) to (*c*);
+- (e) apparatus for the transmission of information for the operation of the pipe or system;
+- (f) apparatus for the cathodic protection of the pipe or system; and
+- (g) a structure used or to be used solely for the support of a part of the pipe or system.
+
+(3) For the purpose of paragraph (2)(*c*) a valve, valve chamber or similar work shall be deemed to be annexed to, or incorporated in the course of, a pipe or system where it connects the pipe or system to plant, an offshore installation or a well.
+
+(4) A pipeline for supplying gas to premises shall be deemed not to include anything downstream of an emergency control.
+
+(5) In this regulation—
+
+- “emergency control” means a valve for shutting off the supply of gas in an emergency, being a valve intended for use by a consumer of gas;
+- “gas” has the same meaning as it has in Part III of the Gas (Northern Ireland) Order 1996[^f00005].
+
+### 4. Application[^key-83978acd6482d2adab17ee063323b903]
+
+(1) Subject to paragraph (2), within territorial waters these Regulations shall apply to and in relation to pipelines and activities to which the Offshore Installations and Pipeline Works (Management and Administration) Regulations (Northern Ireland) 1995 apply by virtue of regulation 4(1)(*f*) of those Regulations.
+
+(2) These Regulations shall not apply to any pipeline or part of a pipeline of a kind which is described in Schedule 1.
+
+(3) In the case of a pipeline to which the Pressure Systems and Transportable Gas Containers Regulations (Northern Ireland) 1991[^f00006] apply, nothing in these Regulations shall require the taking of any measures to the extent that they are for the prevention of danger within the meaning of those Regulations.
+
+## Part II — General
+
+### 5. Design of a pipeline[^key-6be41b56fff7c2519a88beb9350521c6]
+
+The operator shall ensure that a fluid is not conveyed in the pipeline unless the pipeline has been so designed that, so far as is reasonably practicable, it can withstand—
+
+- (a) forces arising from the pipeline’s operation;
+- (b) the fluids that may be conveyed in the pipeline; and
+- (c) the external forces and the chemical processes to which the pipeline may be subjected.
+
+### 6. Safety systems[^key-3280031f8de1e86dccc22d4df813c616]
+
+The operator shall ensure that a fluid is not conveyed in a pipeline unless the pipeline has been provided with such safety systems as are necessary for securing that, so far as is reasonably practicable, persons are protected from risk to their health or safety.
+
+### 7. Access for examination and maintenance[^key-fab48a6f51ddac681b0a647c37e5285c]
+
+The operator shall ensure that a fluid is not conveyed in a pipeline unless the pipeline has been so designed that, so far as is reasonably practicable, it may be examined and work of maintenance may be carried out safely.
+
+### 8. Materials[^key-3cf94eda5ae2b134de0874af475fc37a]
+
+The operator shall ensure that a fluid is not conveyed in a pipeline unless the pipeline is composed of materials which are suitable.
+
+### 9. Construction and installation[^key-8fb4fbef431959eef2df694c89d46ae6]
+
+The operator shall ensure that a fluid is not conveyed in a pipeline (save for the purpose of testing it) unless the pipeline has been so constructed and installed that, so far as is reasonably practicable, it is sound and fit for the purpose for which it has been designed.
+
+### 10. Work on a pipeline[^key-21c91b6bb03a18d57b7dfa8a70e7d92d]
+
+The operator shall ensure that modification, maintenance or other work on a pipeline is carried out in such a way that the pipeline’s soundness and fitness for the purpose for which it has been designed will not be prejudiced.
+
+### 11. Operation of a pipeline[^key-4c8f8c107acab9e457060382edd9547e]
+
+The operator shall ensure that—
+
+- (a) a fluid is not conveyed in a pipeline unless the safe operating limits of the pipeline have been established; and
+- (b) a pipeline is not operated beyond its safe operating limits,
+
+save for the purpose of testing it.
+
+### 12. Arrangements for incidents and emergencies[^key-3488550b0091fb4fbfb9eba69fe5bb34]
+
+The operator shall ensure that a fluid is not conveyed in a pipeline unless adequate arrangements have been made for dealing with—
+
+- (a) an accidental loss of fluid from the pipeline;
+- (b) discovery of a defect in or damage to the pipeline; or
+- (c) any other emergency affecting the pipeline.
+
+### 13. Maintenance[^key-d42c3809e666008644686cc693c28aeb]
+
+The operator shall ensure that a pipeline is maintained in an efficient state, in efficient working order and in good repair.
+
+### 14. Decommissioning[^key-9f006e861d134587173170b8e5293e3a]
+
+(1) The operator shall ensure that a pipeline which has ceased to be used for the conveyance of any fluid is left in a safe condition.
+
+(2) The operator of a pipeline shall ensure that work done in discharge of the duty contained in paragraph (1) is performed safely.
+
+### 15. Damage to pipeline[^key-a69d3870f6de6389ccafe49218bfd55b]
+
+A person shall not cause such damage to a pipeline as may give rise to a danger to persons.
+
+### 16. Prevention of damage to pipelines[^key-0699a5cddbf4cc1ae2cc1e7b42948375]
+
+For the purpose of ensuring that no damage is caused to a pipeline, the operator shall take such steps to inform persons of its existence and whereabouts as are reasonable.
+
+### 17. Co-operation[^key-cb49dd74bd33db5387368cde0f6a55f6]
+
+Where there are different operators for different parts of a pipeline, each operator shall co-operate with the other so far as is necessary to enable the operators to comply with the requirements of these Regulations.
+
+## Part III — Major accident hazard pipelines
+
+### 18. Dangerous fluids[^key-44d95efda5026457071d8b75ee738ef2]
+
+(1) The provisions contained in regulations 19 to 27 shall apply in relation to a pipeline in which a dangerous fluid is being, or is to be conveyed (in these Regulations referred to as a “major accident hazard pipeline”).
+
+(2) For the purpose of these Regulations a fluid is a dangerous fluid if it falls within a description in Schedule 2.
+
+### 19. Emergency shut-down valves[^key-5e810573ba73ca324401c7db0143b067]
+
+(1) The operator of a major accident hazard pipeline which—
+
+- (a) is connected to an offshore installation; and
+- (b) has an internal diameter of 40 millimetres or more,
+
+shall ensure that the requirements contained in Schedule 3 are complied with in relation to the pipeline.
+
+(2) The duty holder in relation to an offshore installation to which a pipeline described in paragraph (1) is connected shall afford, or cause to be afforded, to the operator of the pipeline such facilities as he may reasonably require for the purpose of securing that the requirements contained in Schedule 3 are complied with in relation to the pipeline.
+
+(3) In this regulation “duty holder”, in relation to an offshore installation, means the person who is the duty holder as defined by regulation 2(1) of the Offshore Installations and Pipeline Works (Management and Administration) Regulations (Northern Ireland) 1995 in relation to that installation.
+
+### 20. Notification before construction[^key-c33335268145468859761667f7e887ad]
+
+The operator shall ensure that the construction of a major accident hazard pipeline is not commenced unless he has notified to the Department the particulars specified in Schedule 4 at least 6 months, or such shorter time as the Department may approve, before such commencement.
+
+### 21. Notification before use[^key-e329bf4065420a7871b0025635861c08]
+
+The operator shall ensure that a fluid is not conveyed for the first time in a major accident hazard pipeline, or conveyed following a period in which the pipeline has been out of commission (other than for routine maintenance), until the expiration of 14 days, or of such shorter period as the Department may in that case approve, from the receipt by it of a notification of the date on which it is intended to convey or, as the case may be, resume the conveyance of fluid in the pipeline.
+
+### 22. Notification in other cases[^key-1a3d84a0869266a26114b55dbda7470c]
+
+(1) Where there is a change of operator of a major accident hazard pipeline, or of his address, the operator shall notify such change to the Department within 14 days thereafter.
+
+(2) Subject to paragraph (3), in the case of a major accident hazard pipeline the construction of which has commenced, or has been completed, the operator shall ensure that an event of a kind described in Schedule 5 does not take place until the expiration of 3 months, or such shorter time as the Department may in that case approve, from the receipt by the Department of the particulars specified in that Schedule in relation to such event.
+
+(3) Where an event of a kind described in Schedule 5 takes place in an emergency, the operator shall notify to the Department the particulars specified in that Schedule as soon as is reasonably practicable.
+
+### 23. Major accident prevention document[^key-5f03846ef31db53bb44492e7a6035dad]
+
+(1) The operator shall, before the design of a major accident hazard pipeline is completed, prepare, and thereafter revise or replace as often as may be appropriate, a document relating to the pipeline containing, subject to paragraph (2), sufficient particulars to demonstrate that—
+
+- (a) all hazards relating to the pipeline with the potential to cause a major accident have been identified;
+- (b) the risks arising from those hazards have been evaluated;
+- (c) the safety management system is adequate; and
+- (d) he has established adequate arrangements for audit and for the making of reports thereof.
+
+(2) Paragraph (1) shall only require the particulars in the document referred to in paragraph (1) to demonstrate the matters referred to in that paragraph to the extent that it is reasonable to expect the operator to address them at the time the document is prepared or revised.
+
+(3) Where the document referred to in paragraph (1) describes any health and safety arrangements or procedures to be followed, the operator shall ensure that those arrangements or procedures are followed unless in the particular circumstances of the case it is not in the best interests of the health and safety of persons to follow them and there has been insufficient time to revise or replace the document to take account of those circumstances and in such case, the operator shall ensure that such arrangements and procedures are followed as are in the best interests of the health and safety of persons.
+
+(4) In this regulation—
+
+- “audit” means systematic assessment of the adequacy of the safety management system, carried out by persons who are sufficiently independent of the system (but who may be employed by the operator) to ensure that such assessment is objective; and
+- “safety management system” means the organisation, arrangements and procedures established by the operator for ensuring that the risk of a major accident is as low as is reasonably practicable.
+
+### 24. Emergency procedures[^key-5272d6da5fe1fa3d2949932ad00fec07]
+
+(1) The operator shall ensure that a fluid is not conveyed in a major accident hazard pipeline unless—
+
+- (a) such appropriate organisation and arrangements as shall have effect; and
+- (b) the procedures which shall be followed in different circumstances,
+
+in the event of an emergency relating to the pipeline have been established and recorded.
+
+(2) The operator shall revise or replace the record of the organisation, arrangements and procedures referred to in paragraph (1) as often as may be appropriate.
+
+(3) The operator shall ensure that the organisation, arrangements and procedures referred to in paragraph (1) are tested, by practice or otherwise, as often as may be appropriate.
+
+### 25. Emergency plans in case of major accidents[^key-af49b9f426539189fa27667aa3f5a879]
+
+(1) The Department shall, within 9 months of receiving a notification pursuant to regulation 20, and subject to paragraph (5), arrange the preparation of an adequate plan detailing how an emergency relating to a possible major accident will be dealt with.
+
+(2) In the preparation of the plan pursuant to paragraph (1), the Department shall consult the operator of the pipeline and any other persons as appear to the Department to be appropriate.
+
+(3) The Department shall, as often as is appropriate and in any case not more than three years after the plan was prepared, or (where it has been revised) last revised, arrange the review of the plan and the making of such revision as is appropriate.
+
+(4) The operator of a major accident hazard pipeline shall ensure that the Department is furnished promptly with such information as may reasonably be required for the preparation of the plan referred to in paragraph (1).
+
+(5) It shall be deemed to be sufficient compliance with the requirement in paragraph (1) as to the time by which a plan is to be prepared, where such time is exceeded by reason of waiting for information referred to in paragraph (4) which has been promptly required.
+
+### 26. Charge by the Department for a plan[^key-bfe7b24a2562b1c5d940d5257c291ff2]
+
+(1) The Department may charge a fee, determined in accordance with paragraphs (2) to (4), for arranging the preparation, review or revision of a plan pursuant to regulation 25(1) or (3) to the operator of the pipeline to which the plan relates.
+
+(2) A fee shall not exceed the sum of the costs reasonably incurred by the Department in arranging the preparation, review or revision of the plan and, where the plan covers pipelines of which there are more than one operator, the fee charged to each operator shall not exceed the proportion of such sum attributable to the part or parts of the plan relating to his pipelines.
+
+(3) In determining the fee account shall not be taken of costs other than the costs of discharging functions in relation to those parts of the plan which relate to the protection of health or safety of persons and which were costs incurred after the coming into operation of these Regulations.
+
+(4) The Department may determine the cost of employing a graded officer for any period on work appropriate to his grade by reference to the average cost to it of employing officers of his grade for that period.
+
+(5) When requiring payment the Department shall send or give to the operator of the pipeline a detailed statement of the work done and costs incurred including the date of any visit to any place and the period to which the statement relates; and the fee, which shall be recoverable only as a civil debt, shall become payable one month after the statement has been sent or given.
+
+### 27. Transitional provisions[^key-32b4d339d67d7ebff8adde612e670c6a]
+
+(1) In the case of a pipeline, the construction of which is commenced within 6 months after the coming into operation of these Regulations, it shall be sufficient compliance with regulation 20 if the particulars specified in Schedule 4 are notified to the Department within 3 months after the coming into operation of these Regulations.
+
+(2) Subject to paragraph (3), in the case of a major accident hazard pipeline, the construction of which was commenced (and whether or not completed) before the coming into operation of these Regulations, the particulars specified in Schedule 4 (or, in the case of paragraphs 2, 3, 5, 6 and 8 of that Schedule, particulars, where appropriate, of the actual route of the pipeline or of the riser, materials used, fluid conveyed, and the temperature and pressure, and maximum rate of flow of that fluid) shall be notified to the Department within 6 months after the coming into operation of these Regulations.
+
+(3) Paragraph (2) shall not have effect where, pursuant to regulation 3(1) of the Notification of Installations Handling Hazardous Substances Regulations (Northern Ireland) 1984[^f00007], the particulars relating to that pipeline specified in Part II of Schedule 2 to those Regulations have been supplied before the coming into operation of these Regulations.
+
+(4) In the case of a pipeline the design of which was completed before or within 12 months after the coming into operation of these Regulations regulation 23(1) shall have effect as if, for the words “before the design of a major accident hazard pipeline is completed,” there were substituted the words “within 12 months after the coming into operation of these Regulations”.
+
+(5) In the case of a pipeline which was first used before the coming into operation of these Regulations, it shall be sufficient compliance with the requirement in regulation 24(1) where the matters referred to therein are recorded within 6 months after the coming into operation of these Regulations.
+
+(6) Where the Department receives a notification referred to in regulation 20 within 6 months after the coming into operation of these Regulations, paragraph (1) of regulation 25 shall have effect in relation to the pipeline notified as if the reference in that paragraph to 9 months were a reference to 18 months.
+
+## Part IV — Miscellaneous
+
+### 28. Defence[^key-cf436eb9db4658de0b543eecb07952d4]
+
+(1) In any proceedings for an offence for a contravention of any of the provisions of these Regulations it shall, subject to paragraphs (2) and (3), be a defence for the person charged to prove—
+
+- (a) that the commission of the offence was due to the act or default of another person not being one of his employees (hereinafter called “the other person”); and
+- (b) that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(2) The person charged shall not, without leave of the court, be entitled to rely on the defence in paragraph (1) unless, within a period ending seven days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of the other person as was then in his possession.
+
+(3) Where a contravention of any of the provisions of these Regulations by any person is due to the act or default of the other person, that other person shall be guilty of the offence which would, but for any defence under these Regulations available to the first mentioned person, be constituted by the act or default.
+
+### 29. Certificates of exemption[^key-80adb19bc7488bb3ad9efc85481aaed0]
+
+(1) Subject to paragraph (2) and to any Community obligation in respect of the encouragement of improvements in the safety and health of workers at work, the Department may, by a certificate in writing, exempt any person, pipeline or class of persons or pipelines from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked at any time by the Department by a further certificate in writing.
+
+(2) The Department shall not grant any such exemption unless, having regard to the circumstances of the case and, in particular, to—
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any statutory provision which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+### 30. Repeal of provisions of the Gas (Northern Ireland) Order 1996[^key-afb868a30a0eb6de465d116941a5533f]
+
+Articles 50 to 54 and 56 to 58 of, and Schedule 4 to, the Gas (Northern Ireland) Order 1996[^f00008] are hereby repealed.
+
+### 31. Revocation and modification of statutory provisions[^key-7f97db236ae57f57b8806338220aa96b]
+
+(1) The statutory provisions specified in column 1 of Part I of Schedule 6 shall be revoked to the extent specified opposite in column 3 of that Part.
+
+(2) The Notification of Installations Handling Hazardous Substances Regulations (Northern Ireland) 1984 shall have effect subject to the modifications specified in Part II of Schedule 6.
+
+Sealed with the Official Seal of the Department of Economic Development on
+
+Philip B. Strong
+
+Assistant Secretary
+
+28th March 1997.
+
+## SCHEDULE 1 — Pipelines to which these Regulations do not apply
+
+Regulation 4(2)
+
+**1.**[^key-29bcc4da374a9c459cfb8d664361186a] A pipeline for the conveyance of air, water vapour or steam.
+
+**2.**[^key-c93ac868624b95b5c512d0d030dd9ebc] A pipeline for the conveyance of water, other than for the purpose of injecting water into an underwater well or reservoir containing mineral resources.
+
+**3.**[^key-b42e89a62331f92fcd0dafa09abcc60f] A pipeline contained wholly within the premises occupied by a single undertaking.
+
+**4.**[^key-fac1737ac76dcd0f932e9a54ab99fe0a] A pipeline contained wholly within a caravan site.
+
+**5.**[^key-8e1222026265e49616364690bd719a57] In this Schedule “caravan” and “caravan site” have the same meaning as they have in the Caravans Act (Northern Ireland) 1963[^f00009].
+
+## SCHEDULE 2 — Descriptions of dangerous fluids
+
+Regulation 18(2) and 27(3)
+
+**1.**[^key-d51785c049c430f2a31c89bb5bd5a63c] A fluid which—
+
+- (a) is flammable in air;
+- (b) has a boiling point below 5°C, at 1 bar absolute; and
+- (c) is, or is to be, conveyed in the pipeline as a liquid.
+
+**2.**[^key-914e6917b33de75ba2b5e664975bfe70] A fluid which is flammable in air and is, or is to be, conveyed in the pipeline as a gas at above 8 bar absolute.
+
+**3.**[^key-2b5cd3039fd910bfbc551242cb5c78dd] A liquid which has a vapour pressure greater than 1.5 bar absolute when in equilibrium with its vapour at either the actual temperature of the liquid or at 20°C.
+
+**4.**[^key-1582bf6e2cbfa5cbfb144ccfe5aa5626] A toxic or very toxic fluid which—
+
+- (a) is a gas at 20°C and 1 bar absolute; and
+- (b) is, or is to be, conveyed as a liquid or a gas.
+
+**5.**[^key-2dadef15a2746010b36706a762ff840a] A toxic fluid which—
+
+- (a) at 20°C has a saturated vapour pressure greater than 0.4 bar; and
+- (b) is, or is to be, conveyed in the pipeline as a liquid.
+
+**6.**[^key-b5feb0d717d0bcb62207152e63b3fd63] Acrylonitrile.
+
+**7.**[^key-4ca46e95768c158f1f6b34be901aad35] A very toxic fluid which—
+
+- (a) at 20°C has a saturated vapour pressure greater than 0.001 bar; or
+- (b) is, or is to be, conveyed in the pipeline as a liquid at a pressure greater than 4.5 bar absolute.
+
+**8.**[^key-ba50d04ebe172d37dacd2697d6102db5] An oxidising fluid which is, or is to be, conveyed as a liquid.
+
+**9.**[^key-815163730f5409f9b34b41560551e87d] A fluid which reacts violently with water.
+
+**10.**[^key-007d10e2a9eaf48628eb6e24f173572b] For the purposes of this Schedule—
+
+- (a) a liquid is oxidising; and
+- (b) a fluid is toxic or very toxic, or reacts violently with water,
+
+if it has been, or is liable to be classified, pursuant to regulation 5 of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 1995[^f00010], as the case may be, oxidising, toxic, very toxic or as reacting violently with water.
+
+## SCHEDULE 3 — Requirements for emergency shut-down valves on certain major accident hazard pipelines connected to offshore installations
+
+Regulation 19(1) and (2)
+
+**1.**[^key-e088434240da96602eec875632d7b457] An emergency shut-down valve shall be incorporated in the riser of a pipeline—
+
+- (a) in a position in which it can be safely inspected, maintained and tested; and
+- (b) so far as this is consistent with sub-paragraph (*a*), as far down the riser as is reasonably practicable;
+
+  and such valve shall comply with paragraphs 2 to 8.
+
+**2.**[^key-ce43cfff8e937f8003fa03d214573b68] An emergency shut-down valve shall be held open by an electrical, hydraulic or other signal to the mechanism for actuating the valve on the failure of which signal the valve shall automatically close.
+
+**3.**[^key-f2d7b16435f0c23ca58544c5c4b88302] An emergency shut-down valve shall also be capable of being closed—
+
+- (a) by a person positioned by it; and
+- (b) automatically by the operation of the emergency shut-down system of the offshore installation to which the pipeline is connected,
+
+or, while relevant work of examination or maintenance is being carried out, by one of those means.
+
+**4.**[^key-9dddd12ca33a824320d17344ebf1edcd] If the pipeline is designed to allow for the passage of equipment for inspecting, maintaining or testing the pipeline, the emergency shut-down valve shall also be designed to allow for such passage.
+
+**5.**[^key-bf50fc9743bad72e24dfe126304fc12e] An emergency shut-down valve and its actuating mechanism shall so far as is reasonably practicable be protected from damage arising from fire, explosion or impact.
+
+**6.**[^key-5317882cb62838e6399ac1b6ab56b45d] An emergency shut-down valve shall be maintained in an efficient state, in efficient working order and in good repair.
+
+**7.**[^key-a2e2da62743254b80d62bc94f058c447] After an emergency shut-down valve has operated so as to block the flow of fluid within the pipeline it shall not be re-opened so as to permit the flow of fluid until steps have been taken to ensure that it is safe to do so.
+
+**8.**[^key-2fc6821bc515f3385d39f95e04caf48e] In this Schedule “emergency shut-down system” means the system comprising mechanical, electrical, electronic, pneumatic, hydraulic or other arrangements by which the plant on an offshore installation is automatically shut down in the event of an emergency.
+
+## SCHEDULE 4
+
+and 27(1) and (2)
+
+Particulars to be included in notification relating to construction of a major accident hazard pipeline
+
+Regulations 20
+
+**1.**[^key-7af288cfac84b164022d48af66217a55] The name and address of the operator of the pipeline.
+
+**2.**[^key-c0f42ca0868225dd9ab8f717f9007bff] The proposed route of the pipeline in the form of maps or drawings.
+
+**3.**[^key-d613cacaae301acc76e7b21ba2c7297a] The proposed route of the riser on any offshore installation in the form of drawings.
+
+**4.**[^key-b0c7be9fa2da41b0b0e923b611c8abbc] The length, diameter and wall thickness of the pipeline.
+
+**5.**[^key-ad222170249a454560df7a703191a1bf] The materials to be used in the construction of the pipeline.
+
+**6.**[^key-51c787cdd80b0922e8a83b20db96bc72] The fluid to be conveyed and such of its properties as are relevant to health and safety.
+
+**7.**[^key-eaa189754fdf1648176f8de173485a34] The safe operating limits of the pipeline.
+
+**8.**[^key-0090416fd7034895b421eb64f1a5b392] The intended temperature, pressure, and maximum rate of flow of the fluid to be conveyed.
+
+## SCHEDULE 5 — Particulars to be notified before certain events relating to major accident hazard pipelines
+
+Regulation 22(2) and (3)
+
+**1.**[^key-2c5c11b361d2beeadc30452aa9ad65e7] In relation to a change to the route or position of a pipeline, particulars in the form of maps or drawings of the new route or position.
+
+**2.**[^key-2b4404e6476ae1749ee196c6d3aa5644] In relation to a change to the safe operating limits of a pipeline, particulars of such change.
+
+**3.**[^key-0083602faf2176115ff18e726f4ac1f1] In relation to the start of major modification or major remedial work to a pipeline, particulars of such work.
+
+**4.**[^key-12dbfc41be7ef274d688952b34fb0446] In relation to the conveyance of a new fluid, particulars of—
+
+- (a) such of its properties as are relevant to the health or safety of persons; and
+- (b) the intended or (if, in a case to which regulation 22(3) applies, conveyance has started) actual temperature, pressure and maximum rate of flow of the fluid in the pipeline.
+
+**5.**[^key-58826693ee246176b88414025332bf71] In relation to the start of decommissioning or dismantlement of a pipeline, particulars of the steps to be taken or (if, in a case to which regulation 22(3) applies, decommissioning or dismantlement has started) taken in connection with such decommissioning or dismantlement.
+
+## SCHEDULE 6 — Revocation and modification of statutory provisions
+
+Regulation 31
+
+### Part I — Revocation of statutory provisions[^key-45514b29249ecf8d98f5839889fb3205]
+
+<table>
+<thead>
+<tr><th><em>1</em></th><th><em>2</em></th><th><em>3</em></th></tr>
+<tr><th><em>Title</em></th><th><em>Reference</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Submarine Pipe-lines Safety Regulations 1982</td><td><a href="https://www.legislation.gov.uk/uksi/1982/1513">S.I. 1982/1513</a></td><td>The whole Regulations except regulations 1(1) and 11.</td></tr>
+<tr><td>The Submarine Pipe-lines Safety (Amendment) Regulations 1986</td><td><a href="https://www.legislation.gov.uk/uksi/1986/1985">S.I. 1986/1985</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Offshore Installations (Emergency Pipe-line Valve) Regulations 1989</td><td><a href="https://www.legislation.gov.uk/uksi/1989/1029">S.I. 1989/1029</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Submarine Pipe-lines (Inspectors and Safety) (Amendment) Regulations 1991</td><td><a href="https://www.legislation.gov.uk/uksi/1991/680">S.I. 1991/680</a></td><td>Regulation 3.</td></tr>
+</tbody>
+</table>
+
+### Part II — Modification of the notification of Installations handling hazardous substances Regulations (Northern Ireland) 1984[^key-8b6620e1758cead83658326d6077d7e3]
+
+The Notification of Installations Handling Hazardous Substances Regulations (Northern Ireland) 1984 shall be modified as follows—
+
+- (a) in regulation 2(1) (interpretation)—
+  - (i) in the definition of “installation” the words “or pipe-line” shall be omitted; and
+  - (ii) the definition of “pipe-line” shall be revoked;
+- (b) in regulation 3(1) (notification of installations handling hazardous substances) the words—
+  - (i) “, or in any pipe-line to which these Regulations apply,”; and
+  - (ii) “the appropriate part of”,
+
+  shall be omitted;
+- (c) in regulation 4 (updating of the notification following changes in the notifiable activity) the words “or in the pipe-line” shall be omitted;
+- (d) in regulation 5 (re-notification where the quantity of a substance is increased to 3 times that already notified) the words “of Part I” shall be omitted; and
+- (e) in Schedule 2—
+  - (i) the title “Part I” shall be omitted; and
+  - (ii) Part II shall be revoked.
+
+(This note is not part of the Regulations.)
+
+**1.** These Regulations contain requirements relating to pipelines, for purposes of health and safety.
+
+**2.** Save as indicated below, or in the case of regulation 19(2), the requirements in these Regulations are imposed on the “operator”, defined in regulation 2(1), which also contains other definitions.
+
+**3.** Regulation 3 and Schedule 1 define “pipeline” for the purposes of the Regulations.
+
+**4.** Regulation 4 provides for the application of the Regulations. In particular, paragraph (1) has the effect that, in United Kingdom territorial waters adjacent to Northern Ireland, they apply only to pipelines and certain activities.
+
+**5.** The Regulations require—
+
+- (a) that a pipeline be designed to withstand the expected strains and processes (*regulation 5*);
+- (b) the provision of safety systems necessary for health and safety (*regulation 6*);
+- (c) that a pipeline be so designed that it may be examined and maintained with safety (*regulation 7*);
+- (d) that a pipeline be constructed of suitable materials (*regulation 8*);
+- (e) that a pipeline be so constructed and installed that it is sound and fit for its purpose (*regulation 9*);
+- (f) that work on a pipeline is carried out in such a way that its integrity will not be prejudiced (*regulation 10*);
+- (g) that the safe operating limits of a pipeline be established and not exceeded, save for testing (*regulation 11*);
+- (h) that adequate arrangements be made for dealing with incidents and emergencies involving a pipeline (*regulation 12*);
+- (i) that a pipeline be maintained in good repair (*regulation 13*);
+- (j) that a disused pipeline be left in a safe condition; and that work for that purpose be performed safely (*regulation 14*);
+- (k) that a person shall not cause such damage to a pipeline as may give rise to danger (*regulation 15*);
+- (l) that reasonable steps be taken to draw attention to the presence of a pipeline (*regulation 16*); and
+- (m) that operators of different parts of a pipeline co-operate with each other so far as necessary to enable them to comply with these Regulations (*regulation 17*).
+
+**6.** In relation to a “major accident hazard pipeline” (defined by regulation 18 as a pipeline in which a dangerous fluid, a fluid described in Schedule 2, is being, or is to be, conveyed), the Regulations contain requirements—
+
+- (a) for an emergency shut-down valve, where the pipeline is connected to an offshore oil or gas installation (*regulation 19 and Schedule 3*);
+- (b) for detailed information to be notified to the Department of Economic Development (“the Department”) in specified circumstances (*regulations 20 to 22 and Schedules 4 and 5*);
+- (c) to prepare, and follow arrangements and procedures described in, a document containing specified information (*regulation 23*);
+- (d) to establish procedures to be followed in an emergency (*regulation 24*); and
+- (e) for the Department to prepare a plan to cope with an emergency from such pipeline, and containing other provision, including provision for the Department to charge reasonable fees for arranging the preparation, review and revision of the plan (*regulations 25 and 26*).
+
+**7.** The Regulations also—
+
+- (a) contain transitional provision (*regulation 27*);
+- (b) provide a defence for their contravention (*regulation 28*);
+- (c) provide for the issue of certificates of exemption by the Department (*regulation 29*); and
+- (d) repeal certain provisions of the Gas (Northern Ireland) Order 1996 and revoke or modify certain statutory provisions (*regulations 30 and 31 and Schedule 6*).
+
+**8.** In Great Britain the corresponding Regulations are the Pipelines Safety Regulations 1996 (S.I. [1996/825](https://www.legislation.gov.uk/uksi/1996/825)). The Health and Safety Executive has prepared an Analysis of Burdens in relation to those Regulations and a Northern Ireland Cost Benefit Assessment based on that Analysis and prepared by the Department is held at 83 Ladas Drive, Belfast, BT6 9FJ, from where a copy may be obtained on request.
+
+**9.** A person who contravenes the Regulations or any requirement or prohibition imposed thereunder is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: *See* Article 2(2) of S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00002]: Footnote: Article 17 must be read with S.I. [1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3(2) and 4(2); S.I. [1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728) was amended by S.I. [1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275), Article 71(1) and Schedule 6
+
+[^f00003]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); the general purposes of Part II referred to in Article 17(1) were extended by S.I. [1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3(1) and 4(1)
+
+[^key-3a9a7f44c5606b1eeecca39e22673606]: Commencement: Reg. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-d18a958a61fa2d1589f728e66d0f1e5c]: Commencement: Reg. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00004]: Footnote: [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) to which there are amendments not relevant to these Regulations
+
+[^key-9831b99f0882d4c7da395b4005622b8e]: Commencement: Reg. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00005]: Footnote: S.I. [1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
+
+[^key-83978acd6482d2adab17ee063323b903]: Commencement: Reg. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00006]: Footnote: [S.R. 1991 No. 471](https://www.legislation.gov.uk/nisr/1991/471) to which there are amendments not relevant to these Regulations
+
+[^key-6be41b56fff7c2519a88beb9350521c6]: Commencement: Reg. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-3280031f8de1e86dccc22d4df813c616]: Commencement: Reg. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-fab48a6f51ddac681b0a647c37e5285c]: Commencement: Reg. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-3cf94eda5ae2b134de0874af475fc37a]: Commencement: Reg. 8 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-8fb4fbef431959eef2df694c89d46ae6]: Commencement: Reg. 9 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-21c91b6bb03a18d57b7dfa8a70e7d92d]: Commencement: Reg. 10 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-4c8f8c107acab9e457060382edd9547e]: Commencement: Reg. 11 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-3488550b0091fb4fbfb9eba69fe5bb34]: Commencement: Reg. 12 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-d42c3809e666008644686cc693c28aeb]: Commencement: Reg. 13 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-9f006e861d134587173170b8e5293e3a]: Commencement: Reg. 14 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-a69d3870f6de6389ccafe49218bfd55b]: Commencement: Reg. 15 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-0699a5cddbf4cc1ae2cc1e7b42948375]: Commencement: Reg. 16 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-cb49dd74bd33db5387368cde0f6a55f6]: Commencement: Reg. 17 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-44d95efda5026457071d8b75ee738ef2]: Commencement: Reg. 18 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-5e810573ba73ca324401c7db0143b067]: Commencement: Reg. 19 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-c33335268145468859761667f7e887ad]: Commencement: Reg. 20 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-e329bf4065420a7871b0025635861c08]: Commencement: Reg. 21 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-1a3d84a0869266a26114b55dbda7470c]: Commencement: Reg. 22 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-5f03846ef31db53bb44492e7a6035dad]: Commencement: Reg. 23 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-5272d6da5fe1fa3d2949932ad00fec07]: Commencement: Reg. 24 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-af49b9f426539189fa27667aa3f5a879]: Commencement: Reg. 25 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-bfe7b24a2562b1c5d940d5257c291ff2]: Commencement: Reg. 26 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-32b4d339d67d7ebff8adde612e670c6a]: Commencement: Reg. 27 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00007]: Footnote: [S.R. 1984 No. 177](https://www.legislation.gov.uk/nisr/1984/177) to which there is an amendment not relevant to these Regulations
+
+[^key-cf436eb9db4658de0b543eecb07952d4]: Commencement: Reg. 28 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-80adb19bc7488bb3ad9efc85481aaed0]: Commencement: Reg. 29 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-afb868a30a0eb6de465d116941a5533f]: Commencement: Reg. 30 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00008]: Footnote: S.I. [1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
+
+[^key-7f97db236ae57f57b8806338220aa96b]: Commencement: Reg. 31 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-29bcc4da374a9c459cfb8d664361186a]: Commencement: Sch. 1 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-c93ac868624b95b5c512d0d030dd9ebc]: Commencement: Sch. 1 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-b42e89a62331f92fcd0dafa09abcc60f]: Commencement: Sch. 1 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-fac1737ac76dcd0f932e9a54ab99fe0a]: Commencement: Sch. 1 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-8e1222026265e49616364690bd719a57]: Commencement: Sch. 1 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00009]: Footnote: [1963 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1963/17)
+
+[^key-d51785c049c430f2a31c89bb5bd5a63c]: Commencement: Sch. 2 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-914e6917b33de75ba2b5e664975bfe70]: Commencement: Sch. 2 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-2b5cd3039fd910bfbc551242cb5c78dd]: Commencement: Sch. 2 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-1582bf6e2cbfa5cbfb144ccfe5aa5626]: Commencement: Sch. 2 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-2dadef15a2746010b36706a762ff840a]: Commencement: Sch. 2 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-b5feb0d717d0bcb62207152e63b3fd63]: Commencement: Sch. 2 para. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-4ca46e95768c158f1f6b34be901aad35]: Commencement: Sch. 2 para. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-ba50d04ebe172d37dacd2697d6102db5]: Commencement: Sch. 2 para. 8 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-815163730f5409f9b34b41560551e87d]: Commencement: Sch. 2 para. 9 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-007d10e2a9eaf48628eb6e24f173572b]: Commencement: Sch. 2 para. 10 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^f00010]: Footnote: [S.R. 1995 c. 60](https://www.legislation.gov.uk/ukpga/1995/60) to which there are amendments not relevant to these Regulations
+
+[^key-e088434240da96602eec875632d7b457]: Commencement: Sch. 3 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-ce43cfff8e937f8003fa03d214573b68]: Commencement: Sch. 3 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-f2d7b16435f0c23ca58544c5c4b88302]: Commencement: Sch. 3 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-9dddd12ca33a824320d17344ebf1edcd]: Commencement: Sch. 3 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-bf50fc9743bad72e24dfe126304fc12e]: Commencement: Sch. 3 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-5317882cb62838e6399ac1b6ab56b45d]: Commencement: Sch. 3 para. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-a2e2da62743254b80d62bc94f058c447]: Commencement: Sch. 3 para. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-2fc6821bc515f3385d39f95e04caf48e]: Commencement: Sch. 3 para. 8 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-7af288cfac84b164022d48af66217a55]: Commencement: Sch. 4 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-c0f42ca0868225dd9ab8f717f9007bff]: Commencement: Sch. 4 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-d613cacaae301acc76e7b21ba2c7297a]: Commencement: Sch. 4 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-b0c7be9fa2da41b0b0e923b611c8abbc]: Commencement: Sch. 4 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-ad222170249a454560df7a703191a1bf]: Commencement: Sch. 4 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-51c787cdd80b0922e8a83b20db96bc72]: Commencement: Sch. 4 para. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-eaa189754fdf1648176f8de173485a34]: Commencement: Sch. 4 para. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-0090416fd7034895b421eb64f1a5b392]: Commencement: Sch. 4 para. 8 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-2c5c11b361d2beeadc30452aa9ad65e7]: Commencement: Sch. 5 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-2b4404e6476ae1749ee196c6d3aa5644]: Commencement: Sch. 5 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-0083602faf2176115ff18e726f4ac1f1]: Commencement: Sch. 5 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-12dbfc41be7ef274d688952b34fb0446]: Commencement: Sch. 5 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-58826693ee246176b88414025332bf71]: Commencement: Sch. 5 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-45514b29249ecf8d98f5839889fb3205]: Commencement: Sch. 6 Pt. I in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)
+
+[^key-8b6620e1758cead83658326d6077d7e3]: Commencement: Sch. 6 Pt. II in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/193/regulation/1)

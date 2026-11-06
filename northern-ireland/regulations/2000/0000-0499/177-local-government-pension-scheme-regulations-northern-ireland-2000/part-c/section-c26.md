@@ -1,0 +1,29 @@
+---
+title: Local Government Pension Scheme Regulations (Northern Ireland) 2000, section C26
+act: Local Government Pension Scheme Regulations (Northern Ireland) 2000
+section: C26
+status: revised
+text_date: '2019-11-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/177/section/C26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Pension Scheme Regulations (Northern Ireland) 2000, section C26
+
+> Text as at 2019-11-18.
+>
+> Extent: Northern Ireland.
+
+## C26. Limitation of payments (affected by repeal, see note)[^key-fa34ae0f8356cead5df3566908291b66][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+
+*Extent: N.I.*
+
+Schedule C4 has effect for the limitation, in certain circumstances, of payments under this Part and benefits under other Parts of these regulations. *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+
+## Annotations
+
+[^key-fa34ae0f8356cead5df3566908291b66]: Commencement: [Reg. C26](https://www.legislation.gov.uk/nisr/2000/177/regulation/C26) in operation at 1.8.2000, see [reg. A1(1)](https://www.legislation.gov.uk/nisr/2000/177/regulation/A1/1)
+
+[^key-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))

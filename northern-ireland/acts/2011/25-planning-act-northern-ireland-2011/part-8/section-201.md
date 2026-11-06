@@ -1,0 +1,41 @@
+---
+title: Planning Act (Northern Ireland) 2011, section 201
+act: Planning Act (Northern Ireland) 2011
+section: '201'
+status: revised
+text_date: '2023-12-26'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2011/25/section/201
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning Act (Northern Ireland) 2011, section 201
+
+> Text as at 2023-12-26.
+>
+> Extent: Northern Ireland.
+
+## 201. Acceptance by Department of endowments in respect of listed buildings[^key-a727bd1f7b853759c959b6e6b2107c88][^key-813844b15f596dfde8da39aad8742112]
+
+*Extent: N.I.*
+
+(1) Where any instrument coming into operation after 1st November 1972 contains a provision purporting to be a gift of property to the Department upon trust to use the income thereof (either for a limited time or in perpetuity) for or towards the upkeep of a listed building or other property acquired or accepted by the Department under section 200 or a building which the Department proposes so to acquire or accept, the Department may accept the gift, and if it does so, and the provision does not constitute a charitable trust, subsections (2) to (7) shall have effect.
+
+(2) The validity of the gift and of the trust to use the income as mentioned in subsection (1) (in this section referred to as “**the endowment trust**”) shall be deemed not to be, or ever to have been, affected by any rule of law or equity which would not have affected their validity if the trust had been charitable.
+
+(3) In relation to the property (of any nature) comprised in the gift and any property for the time being representing that property (in this section collectively referred to as “**the trust fund**”) the Department shall during the continuance of the endowment trust have the like powers of management, disposition and investment as in the case of settled land are conferred by law on the tenant for life and the trustees of the settlement in relation to the land and the proceeds of its sale, respectively.
+
+(4) Subsection (3) does not prejudice any additional or larger powers conferred on the Department by the trust instrument.
+
+(5) If while the endowment trust continues an event happens such that immediately after that event the Department is neither entitled to any estate in the building to which the trust relates nor has the building under its control or management, and apart from this subsection the endowment trust would not then be determined or be deemed to have failed, then on the happening of that event the endowment trust shall cease by virtue of this subsection and the trust fund shall devolve accordingly as on a failure of the trust.
+
+(6) If the trust instrument contains a provision whereby, on the failure or determination of the endowment trust, the trust fund purports to be given, or to be directed to be held, on charitable trusts, the validity of that gift or direction shall be deemed not to be, or ever to have been, affected by any rule of law or equity relating to perpetuities.
+
+(7) In this section “**gift**” includes devise, bequest, appointment, conveyance, assignment, transfer and any other assurance of property, and “**property**” means real or personal property of any description.
+
+## Annotations
+
+[^key-a727bd1f7b853759c959b6e6b2107c88]: Commencement: S. 201 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+
+[^key-813844b15f596dfde8da39aad8742112]: Commencement: S. 201 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

@@ -1,0 +1,870 @@
+---
+title: The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024
+id: nisr/2024/157
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2024-07-23'
+text_date: '2025-03-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2024/157
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2024/157/pdfs/nisrem_20240157_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2024/157/pdfs/nisr_20240157_en.pdf
+- http://www.legislation.gov.uk/nisr/2024/157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024
+
+> Text as at 2025-03-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2024 No. 157
+
+Education
+
+The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024
+
+Made
+
+23rd July 2024
+
+Coming into operation-
+
+14th August 2024
+
+The Department for the Economy[^f00001] in exercise of the powers conferred by Articles 3 and 8(4) of the Education (Student Support) (Northern Ireland) Order 1998[^f00002] and Articles 4(8) and 14(4) of the Higher Education (Northern Ireland) Order 2005[^f00003] makes the following Regulations.
+
+## PART 1
+
+### Introductory
+
+#### 1. Citation, commencement and application[^key-48b9704ec03644c559fbe0b8afe284a7]
+
+(1) These Regulations may be cited as The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024.
+
+(2) These Regulations come into operation on 14th August 2024.
+
+(3) The following provisions of these Regulations apply only in relation to the provision of support, and to fees and awards applicable, in relation to a new academic year, whether or not anything done under these Regulations is done before, on or after 1st August 2024—
+
+- (a) regulations 3 to 6 (victims of domestic violence or domestic abuse);
+- (b) regulations 9 to 12 (children of persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse or as a bereaved partner);
+- (c) regulations 13 to 15 (students settled in the United Kingdom);
+- (d) regulations 16 to 20 (termination of eligible student status);
+- (e) regulation 21 (eligibility for home fee status in certain circumstances where leave to remain expired);
+- (f) regulation 22 and 23 (amendments relating to the Ukraine Permission Extension Scheme).
+
+(4) In this regulation—
+
+- “academic year” is the period of twelve months beginning with 1st January, 1st April, 1st July or 1st September of the calendar year in which the academic year of the course in question begins, according to whether the academic year of the course in question begins—
+  - (a) on or after 1st January and before 1st April,
+  - (b) on or after 1st April and before 1st July,
+  - (c) on or after 1st July and before 1st August, or
+  - (d) on or after 1st August and on or before 31st December;
+- “**new academic year**” means an academic year which begins on or after 1st August 2024.
+
+#### 2. Interpretation[^key-7fe4115b52dd571d72f6df5554c3a0af]
+
+In these Regulations—
+
+- (a) “**the 2009 Regulations**” means the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^f00004].
+- (b) “**the 2007 Regulations**” means The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007[^f00005].
+
+## PART 2
+
+### CHAPTER 1 — Victims of domestic violence or domestic abuse
+
+#### A3.[^key-a39a5fb65833d935cb668dcdf19bed2c]
+
+The 2009 Regulations are amended in accordance with regulations 3 and 4.
+
+#### 3. Amendment to the 2009 Regulations[^key-0cbafcaabaa7a69f839151751dc7f7ad]
+
+In regulation 2 (interpretation: general), in paragraph (1), in the definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse”[^f00006]—
+
+- (a) for “leave to remain”, in both places, substitute “leave to enter or remain”;
+- (b) for paragraphs (i) to (iii) of sub-paragraph (a), substitute—
+
+  > - (i) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse[^f00007]; or
+  > - (ii) where such leave was granted before the coming into force of the Appendix Victim of Domestic Abuse, paragraph 289B (victims of domestic violence), paragraph D-DVILR.1.1. of Appendix FM (victims of domestic abuse) or paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces);
+
+  .
+
+**4.**[^key-5c9af60fe3d4ea0cc8d62dd0edf851b5] In both regulation 2A(3)(f)[^f00008] (meaning of “**protected category event**”) and paragraph 4E[^f00009] of Schedule 2 (eligible students), in each place it occurs, including in the heading to paragraph 4E of Schedule 2, for “leave to remain”, substitute “leave to enter or remain”.
+
+#### A5.[^key-f5a75fe8a54bbf57882fb9fba26f8910]
+
+The 2007 Regulations are amended in accordance with regulations 5 and 6.
+
+#### 5. Amendments to the 2007 Regulations[^key-95139ade4d38eaabf5287607ba7be85c]
+
+In both regulation 5(10)[^f00010] (prescribed description of a qualifying person), in paragraph (e) of the definition of “protected category event” and paragraph 4E[^f00011] of the Schedule (persons granted indefinite leave to remain as a victim of domestic violence or domestic abuse), in each place it occurs, including in the heading to paragraph 4E of the Schedule, for “leave to remain”, substitute “leave to enter or remain”.
+
+**6.**[^key-a07dc5bbfb853bddff2a948a96de71d7] In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse”[^f00012]—
+
+- (a) for “leave to remain”, in both places, substitute “leave to enter or remain”;
+- (b) for sub-paragraphs (aa) to (cc), substitute—
+
+  > - (aa) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse; or
+  > - (bb) where such leave was granted before the coming into force of the Appendix Victim of Domestic Abuse, paragraph 289B (victims of domestic violence), paragraph D-DVILR.1.1. of Appendix FM (victims of domestic abuse) or paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces);
+
+  .
+
+### CHAPTER 2 — Afghan Relocations and Assistance Policy Scheme
+
+#### A7.[^key-ad6ed5ba4c88a8edecffca165cda6520]
+
+The 2009 Regulations are amended in accordance with regulation 7.
+
+#### 7. Amendments to the 2009 Regulations[^key-5af6ad6ea494ecc1de9e32b66b61de79]
+
+In regulation 2 (interpretation: general), in paragraph (1), in the definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^f00013], for sub-paragraph (a)(ia), substitute—
+
+> - (ia) indefinite leave to enter or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules[^f00014];
+
+.
+
+#### A8.[^key-690dbbcb66553ed9cc3715ad0bd217b0]
+
+The 2007 Regulations are amended in accordance with regulation 8.
+
+#### 8. Amendments to the 2007 Regulations[^key-617397122e706b5b6e5d273e066092eb]
+
+In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^f00015], for sub-paragraph (a)(ia), substitute—
+
+> - (ia) indefinite leave to enter or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules;
+
+.
+
+### CHAPTER 3 — Children of persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse or as a bereaved partner
+
+#### A9.[^key-83ac8843c4b5bff83c1999f0030ef1a1]
+
+The 2009 Regulations are amended in accordance with regulations 9 and 10.
+
+#### 9. Amendments to the 2009 Regulations[^key-2e128c244af53b0ee0a04b4dbf770c80]
+
+In regulation 2A (meaning of terms including protected category event)[^f00016], in paragraph (3), in sub-paragraphs (f) and (h), after “the student” insert “or the student’s parent”.
+
+**10.**[^key-085a7d165ab69a0d08b972f334554606] In Part 2 of Schedule 2 (eligible students)—
+
+- (a) in the heading to paragraph 4D (persons granted indefinite leave to remain as a bereaved partner)[^f00017], at the end, insert “and their children”;
+- (b) paragraph 4D becomes sub-paragraph (1) of that paragraph;
+- (c) after that sub-paragraph (1) insert—
+
+  > (2) A person—
+  >
+  > - (a) granted indefinite leave to remain;
+  > - (b) who—
+  >   - (i) is the child of a person granted indefinite leave to remain as a bereaved partner; and
+  >   - (ii) on the leave application date, was the child of the person granted indefinite leave to remain as a bereaved partner;
+  > - (c) who was under 18 on the leave application date;
+  > - (d) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+  > - (e) who is ordinarily resident in Northern Ireland on the course start date.
+  >
+  > (3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to remain as a bereaved partner made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+  ;
+- (d) in the heading to paragraph 4E (persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse)[^f00018], at the end, insert “and their children”;
+- (e) paragraph 4E becomes sub-paragraph (1) of that paragraph;
+- (f) after that sub-paragraph (1) insert—
+
+  > (2) A person—
+  >
+  > - (a) granted indefinite leave to enter or remain;
+  > - (b) who—
+  >   - (i) is the child of a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse; and
+  >   - (ii) on the leave application date, was the child of the person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse;
+  > - (c) who was under 18 on the leave application date;
+  > - (d) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+  > - (e) who is ordinarily resident in Northern Ireland on the course start date.
+  >
+  > (3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+  .
+
+#### A11.[^key-cca1d0dee935cadd8c63757af185fcbb]
+
+The 2007 Regulations are amended in accordance with regulations 11 and 12.
+
+#### 11. Amendments to the 2007 Regulations[^key-b7aab0bc4eb341123afd9de48c71be16]
+
+In regulation 5 (prescribed description of a qualifying person), in paragraph (10)(d) and (e) in the definition of “protected category event”, after “the student” insert “or the student’s parent”.
+
+**12.**[^key-a1c152a0fc4611c7c76ae88e3c58ebda] In the Schedule (qualifying persons)—
+
+- (a) in the heading to paragraph 4D[^f00019] (persons granted indefinite leave to remain as a bereaved partner), at the end, insert “and their children”;
+- (b) paragraph 4D becomes sub-paragraph (1) of that paragraph;
+- (c) after that sub-paragraph (1) insert—
+
+  > (2) A person—
+  >
+  > - (a) granted indefinite leave to remain;
+  > - (b) who—
+  >   - (i) is the child of a person granted indefinite leave to remain as a bereaved partner; and
+  >   - (ii) on the leave application date, was the child of the person granted indefinite leave to remain as a bereaved partner;
+  > - (c) who was under 18 on the leave application date;
+  > - (d) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+  > - (e) who is ordinarily resident in the United Kingdom on the course start date.
+  >
+  > (3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to remain as a bereaved partner made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+  .
+- (d) in the heading to paragraph 4E (persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse), at the end, insert “and their children”;
+- (e) paragraph 4E becomes sub-paragraph (1) of that paragraph;
+- (f) after that sub-paragraph (1) insert—
+
+  > (2) A person—
+  >
+  > - (a) granted indefinite leave to enter or remain;
+  > - (b) who—
+  >   - (i) is the child of a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse; and
+  >   - (ii) on the leave application date, was the child of the person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse;
+  > - (c) who was under 18 on the leave application date;
+  > - (d) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+  > - (e) who is ordinarily resident in the United Kingdom on the course start date.
+  >
+  > (3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+  .
+
+### CHAPTER 4 — Students settled in the United Kingdom
+
+#### A13.[^key-4b41ce0092c8d44762f5cb024e1fe542]
+
+The 2009 Regulations are amended in accordance with regulations 13 and 14.
+
+#### 13. Amendments to the 2009 Regulations[^key-b4e8fb80f7d35ba02aacc3b7a6020045]
+
+In regulation 2A (meaning of terms including in-year qualifying event and settled status event)[^f00020]—
+
+- (a) in paragraph (2), after sub-paragraph (b), insert—
+
+  > - (ba) the student becomes a person described in paragraph 2 of Schedule 2;
+
+  ;
+- (b) in paragraph (4), for the words from “means the student becomes a family member” to the end substitute—
+
+  > means—
+  >
+  > - (a) the student becomes a person described in paragraph 2A of Schedule 2; or
+  > - (b) the student becomes a family member described in paragraph 9A(1)(a), 9C(1)(a) or 9D(1)(a) of Schedule 2.
+
+  .
+
+**14.**[^key-757f45b84130c8dcd165961249e3b0cb] In Part 2 of Schedule 2 (eligible students)—
+
+- (a) in paragraph 2(1), omit “on the first day of the first academic year of the course”;
+- (b) in paragraph 2(1)(b) after “Northern Ireland”, insert “on the first day of the first academic year of the course”;
+- (c) in paragraph 2A(1)(a)[^f00021] omit “on the course start date”.
+
+#### A15.[^key-832367b1ff8112ca750f7b15da44c8b2]
+
+The 2007 Regulations are amended in accordance with regulation 15.
+
+#### 15. Amendments to the 2007 Regulations[^key-7a6ac28406e720248468117b6158973f]
+
+In the Schedule (qualifying persons)—
+
+- (a) in the opening words of paragraph 2(1) omit “on the first day of the first academic year of the course”;
+- (b) in paragraph 2(1)(b), after “United Kingdom”, insert “on the first day of the first academic year of the course”;
+- (c) in paragraph 2A(1)(a)[^f00022], omit “on the course start date”.
+
+### CHAPTER 5 — Termination of eligible student status
+
+#### A16.[^key-dab614b0977974c4d5d024942447a344]
+
+The 2009 Regulations are amended in accordance with regulations 16 to 20.
+
+#### 16. Amendment to the 2009 Regulations[^key-0bb303ae85b5a03714b8323b1894e341]
+
+In regulation 5 (eligible students)—
+
+- (a) in paragraph (11)(b)[^f00023], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted,
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002[^f00024]), and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose refugee status has expired has not become a British or Irish citizen,
+
+  ;
+- (b) in paragraphs (11A)(b)[^f00025], (11D)(b)[^f00026], and (11F)(b)[^f00027], after “has been granted” insert “and that person has not become a British or Irish citizen”;
+- (c) in paragraph (11B)(b)[^f00028], after “has been granted” insert “and A has not become a British or Irish citizen”;
+- (d) in paragraphs (11C)(b)[^f00029] and (12)(b)[^f00030], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen,
+
+  ;
+- (e) in paragraph (11E)(b)[^f00031], after “has expired” insert “and that person has not become a British or Irish citizen”;
+- (f) in paragraph (12A)(b)[^f00032], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
+- (g) in paragraph (12C)(b)[^f00033] after “protected rights” insert “and has not become a British or Irish citizen”.
+
+**17.**[^key-5da863fa1e05cc5245d7a8bf681a6b6b] In regulation 105 (eligible distance learning students)—
+
+- (a) in paragraph (11)(b)[^f00034], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002[^f00035]); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose refugee status has expired has not become a British or Irish citizen.
+
+  ;
+- (b) in paragraphs (11A)(b)[^f00036], (11D)(b)[^f00037], and (11F)(b)[^f00038], after “has been granted” insert “and that person has not become a British or Irish citizen”;
+- (c) in paragraph (11B)(b)[^f00039], after “has been granted” insert “and A has not become a British or Irish citizen”;
+- (d) in paragraphs (11C)(b)[^f00040] and (12)(b)[^f00041], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen,
+
+  ;
+- (e) in paragraph (11E)(b)[^f00042], after “has expired” insert “and that person has not become a British or Irish citizen”;
+- (f) in paragraph (12A)(b)[^f00043], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
+- (g) in paragraph (12C)(b)[^f00044] after “protected rights” insert “and has not become a British or Irish citizen”.
+
+**18.**[^key-e29b5d9ed0c32e083c3ca69b1568af33] In regulation 122 (eligible part-time students)—
+
+- (a) in paragraph (10)(b)[^f00045], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002[^f00046]), and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose refugee status has expired has not become a British or Irish citizen,
+
+  ;
+- (b) in paragraphs (10A)(b)[^f00047], (10D)(b)[^f00048], and (10F)(b)[^f00049], after “has been granted” insert “and that person has not become a British or Irish citizen”;
+- (c) in paragraph (10B)(b)[^f00050], after “has been granted” insert “and A has not become a British or Irish citizen”;
+- (d) in paragraphs (10C)(b)[^f00051] and (11)(b)[^f00052], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen,
+
+  ;
+- (e) in paragraph (10E)(b)[^f00053], after “has expired” insert “and that person has not become a British or Irish citizen”;
+- (f) in paragraph (11A)(b)[^f00054], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
+- (g) in paragraph (11C)(b)[^f00055] after “protected rights” insert “and has not become a British or Irish citizen”.
+
+**19.**[^key-7e4011e3d114bbd9c7eca87c1e67de0a] In regulation 139 (eligible postgraduate students)—
+
+- (a) in paragraph (12)(b)[^f00056], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002[^f00057]); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose refugee status has expired has not become a British or Irish citizen,
+
+  ;
+- (b) in paragraphs (12A)(b)[^f00058], (12D)(b)[^f00059], and (12F)(b)[^f00060], after “has been granted” insert “and that person has not become a British or Irish citizen”;
+- (c) in paragraph (12B)(b)[^f00061], after “has been granted” insert “and A has not become a British or Irish citizen”;
+- (d) in paragraphs (12C)(b)[^f00062] and (13)(b)[^f00063], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen,
+
+  ;
+- (e) in paragraph (12E)(b)[^f00064], after “has expired” insert “and that person has not become a British or Irish citizen”;
+- (f) in paragraph (13A)(b)[^f00065], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
+- (g) in paragraph (13C)(b)[^f00066] after “protected rights” insert “and has not become a British or Irish citizen”.
+
+**20.**[^key-168a2591d3b1cf5d283abfb2020068af] In regulation 149 (eligible master’s, etc. students)—
+
+- (a) in paragraph (11)(b)[^f00067], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002[^f00068]); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose refugee status has expired has not become a British or Irish citizen,
+
+  ;
+- (b) in paragraphs (11A)(b)[^f00069], (11D)(b)[^f00070], and (11F)(b)[^f00071], after “has been granted” insert “and that person has not become a British or Irish citizen”;
+- (c) in paragraph (11B)(b)[^f00072], after “has been granted” insert “and A has not become a British or Irish citizen”;
+- (d) in paragraphs (11C)(b)[^f00073] and (12)(b)[^f00074], for the words from “has expired” to the end of sub-paragraph (b), substitute—
+
+  > has expired and—
+  >
+  > - (i) no further leave to remain has been granted;
+  > - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002); and
+  > - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen,
+
+  ;
+- (e) in paragraph (11E)(b)[^f00075], after “has expired” insert “and that person has not become a British or Irish citizen”;
+- (f) in paragraph (12A)(b)[^f00076], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
+- (g) in paragraph (12C)(b)[^f00077] after “protected rights” insert “and has not become a British or Irish citizen”.
+
+### CHAPTER 6 — Eligibility for home fee status in certain circumstances where leave to remain expired
+
+#### A21.[^key-4c3343bd1a24245c8a1204227ee65370]
+
+The 2007 Regulations are amended in accordance with regulation 21.
+
+#### 21. Amendments to the 2007 Regulations[^key-5f9d7968d5154d570d7f802c1e9ad0fc]
+
+In regulation 5 (qualifying person), after paragraph (1C)[^f00078] insert—
+
+> (1D) For the purposes of this regulation, where—
+>
+> - (a) a person becomes, after the course start date or on the first day of an academic year of the course, a person who no longer falls within a paragraph of the Schedule as a result of that person’s leave to remain, or the leave to remain of that person’s spouse, civil partner or parent, as the case may be, having expired; and
+> - (b) further leave to remain has been granted or the person whose leave to remain has expired has become a British or Irish citizen,
+>
+> the person who would otherwise no longer fall within a paragraph of the Schedule is to be treated as falling within the paragraph of the Schedule in which they previously fell for the remainder of the duration of the course.
+
+.
+
+### CHAPTER 7 — Amendments relating to the Ukraine Permission Extension Scheme
+
+#### A22.[^key-d528217f9473137e9052ef084a56901f]
+
+The 2009 Regulations are amended in accordance with regulation 22.
+
+#### 22. Amendment to the 2009 Regulations[^key-4efa9e18569a7b8ff658151cdf0ea660]
+
+In regulation 2(1) (interpretation)—
+
+- (a) in the definition of “person granted leave under one of the Ukraine Schemes”[^f00079], after “Ukraine Extension Scheme” insert “, a person granted leave under the Ukraine Permission Extension Scheme”[^f00080];
+- (b) after the definition of “person granted leave under the Ukraine Family Scheme”[^f00081] insert—
+
+  > - “**person granted leave under the Ukraine Permission Extension Scheme**” means a person—
+  >   - (a) who has leave to remain in the United Kingdom under the Ukraine Permission Extension Scheme; and
+  >   - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+
+  .
+
+#### A23.[^key-1ea5b68c8bec6458306d71510f478f3b]
+
+The 2007 Regulations are amended in accordance with regulation 23.
+
+#### 23. Amendment to the 2007 Regulations[^key-101aa67b1d28b0399f0289f7845b56d8]
+
+In the Schedule (qualifying persons), in paragraph 1(1)—
+
+- (a) in the definition of “person granted leave under one of the Ukraine Schemes”[^f00082], after “Ukraine Extension Scheme” insert “, a person granted leave under the Ukraine Permission Extension Scheme”;
+- (b) after the definition of “person granted leave under the Ukraine Family Scheme”[^f00083] insert—
+
+  > - “**person granted leave under the Ukraine Permission Extension Scheme**” means a person—
+  >   - (a) who has leave to remain in the United Kingdom under the Ukraine Permission Extension Scheme; and
+  >   - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+
+  .
+
+### CHAPTER 8 — Amendments to the definition of person granted indefinite leave to remain as a bereaved partner
+
+#### A24.[^key-59d57139a5772a3c531b2b352bec1287]
+
+The 2009 Regulations are amended in accordance with regulation 24.
+
+#### 24. Amendments to the 2009 Regulations[^key-31731449384c8ee48cb50354ad480b3a]
+
+In regulation 2(1) (interpretation), in the definition of “person granted indefinite leave to remain as a bereaved partner”[^f00084], for paragraphs (i) to (iv) (but not the “and” after paragraph (iv)) of sub-paragraph (a) substitute —
+
+> - (i) paragraph BP 11.1 of Appendix Bereaved Partner; or
+> - (ii) where such leave was granted before the coming into force of Appendix Bereaved Partner—
+>   - (aa) paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules were met (bereaved partners);
+>   - (bb) paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules were met (bereaved partners);
+>   - (cc) paragraph D-BPILR.1.1 of Appendix FM (bereaved partners); or
+>   - (dd) paragraph 36 of Appendix Armed Forces (bereaved partner of a member of HM Forces);
+
+.
+
+#### A25.[^key-3dceaa673e88d055e132ff75f20d6207]
+
+The 2007 Regulations are amended in accordance with regulation 25.
+
+#### 25. Amendments to the 2007 Regulations[^key-fe8e450f8e69aca8ee03cb484cbcee9c]
+
+In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted indefinite leave to remain as a bereaved partner”[^f00085], for paragraphs (i) to (iv) (but not the “and” after paragraph (iv)) of sub-paragraph (a) substitute —
+
+> - (i) paragraph BP 11.1 of Appendix Bereaved Partner; or
+> - (ii) where such leave was granted before the coming into force of Appendix Bereaved Partner—
+>   - (aa) paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules were met (bereaved partners);
+>   - (bb) paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules were met (bereaved partners);
+>   - (cc) paragraph D-BPILR.1.1 of Appendix FM (bereaved partners); or
+>   - (dd) paragraph 36 of Appendix Armed Forces (bereaved partner of a member of HM Forces);
+
+.
+
+## PART 3
+
+### Other amendments
+
+#### A26.[^key-d8c2a7b5b79638064ba1f4874028e02b]
+
+The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 are amended in accordance with regulations 26 to 30.
+
+#### 26. Amendments to the Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024[^key-c3cf9b3fe2e536a62ecf9b611df125be]
+
+In regulation 30(3) omit “Part 2 of”.
+
+**27.**[^key-c34304ecd7565a6bfa4b3b4db7f82a7d] In regulation 32—
+
+- (a) in paragraph (j) for “the first day of the first academic year of the course” substitute “the day on which the first term of the first academic year actually begins”;
+- (b) in paragraph (k) for “the first day of the first academic year of the course” substitute “the day on which the first term of the first academic year actually begins”.
+
+**28.**[^key-70a05ae5790587221ab23d592d2368bd] In regulation 34, in the introductory sentence, omit “Part 2 of”.
+
+**29.**[^key-790c7f0adff064a4bfa78fd2ded3c36b] In regulation 36—
+
+- (a) in paragraph (3) of the inserted regulation 2A—
+  - (i) in paragraph (i) omit “or the student’s spouse, civil partner or parent”;
+  - (ii) in paragraph (j) omit “or the student’s spouse, civil partner or parent”.
+
+**30.**[^key-8c895947f15fcfe3588fa7954121b579] In regulation 59(d)—
+
+- (a) in inserted paragraph (8) for “prescribed” substitute “protected”;
+- (b) in inserted paragraph (9) omit “Part 2 of”;
+- (c) in inserted paragraph (10)—
+  - (i) in the definition of “protected category” omit “Part 2 of”;
+  - (ii) in the definition of “settled category” for “2” substitute “2A”.
+
+#### A31.[^key-314e4a035321cc1194cbfea1ef0c6f52]
+
+The 2009 Regulations are amended in accordance with regulations 31 and 32.
+
+#### 31. Amendments to the 2009 Regulations[^key-d71aa4e391155795eae4d5c92cbf7769]
+
+In regulation 130(7)[^f00086] after “listed in” insert “regulation”.
+
+**32.**[^key-1bdcca8ddf24ba3589384f16330b08a3] In regulation 139(8) after “United Kingdom” insert “or the Republic of Ireland”.
+
+#### A33.[^key-63b02ba0007ed1439e332641227a5e2d]
+
+The 2007 Regulations are amended in accordance with regulation 33.
+
+#### 33. Amendments to the 2007 Regulations[^key-2ef9d17370ebd3502bedd1ce41f75bc2]
+
+In regulation 5—
+
+- (a) in paragraph (1A)[^f00087] omit “Part 2 of” both places where it appears;
+- (b) in paragraph (1B)(a)[^f00088] omit “Part 2 of”.
+
+Sealed with the Official Seal of the Department for the Economy on 23rd July 2024.
+
+Mr Mark Lee
+
+A senior officer of the Department for the Economy
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend legislation which makes provision about, or in connection with, student finance. Two sets of Student Support Regulations are amended. Those Regulations are the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 “the 2009 Regulations” and the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 “the 2007 Regulations”.
+
+These Regulations come into force on 14th August 2024, unless otherwise specified.
+
+Part 2 amends the 2009 and 2007 Regulations in order to:
+
+- amend the definition of “person granted indefinite leave to remain as a victim of domestic violence or abuse” to align with changes made to the immigration rules, to include persons granted indefinite leave to enter as a result of being a victim of transnational marriage abandonment;
+- amend the reference to the relevant paragraph in Appendix Afghan Relocation and Assistance Policy of the immigration rules to describe the way indefinite leave to enter or remain is given under that paragraph;
+- make provision so that children granted indefinite leave to enter or remain on the basis that their parent has been granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse or indefinite leave to remain as a bereaved partner are eligible for student support on that basis and have the same test of ordinary residence as their parent;
+- provide for persons in the student eligibility categories set out in paragraphs in the 2009 and 2007 Regulations (which require a student to have settled status) to become eligible for student support when they acquire their settled status during the course of an academic year. The requirement to be settled in the United Kingdom on the first day of the first academic year of the course, or on the course start date as appropriate, is removed and the acquisition of settled status becomes an in-year qualifying event for access to student support for students in these categories;
+- ensure that students who acquire British or Irish citizenship during the course of an academic year do not lose their status as students eligible for financial support;
+- provide for students whose leave to remain expires but who are granted further leave to remain or who become British or Irish citizens remain able to access student support for the remainder of their course;
+- include the Ukraine Permission Extension Scheme in the definition of “person granted leave under one of the Ukraine Schemes”. A definition of “person granted leave under the Ukraine Permission Extension Scheme” is also inserted, and
+- make changes to the definition of “person granted indefinite leave to remain as a bereaved partner” to take into account recent changes to the immigration rules dealing with such persons.
+
+Part 3 amends the 2009 and 2007 Regulations in order to:
+
+- correct legislative errors.
+
+A regulatory impact assessment has not been produced for this rule as no, or no significant impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department for Employment and Learning; see Article 6(1)(c) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76)).
+
+[^f00002]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760). Article 3 was amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 147(3)(a) and (b), the Student Loans (Amendment) Act (Northern Ireland) [2011, (c.2 (N.I.))](https://www.legislation.gov.uk/ukpga/2011/2), s.1(1), the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, the Finance [Act 2003, (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), s.147(4), the Higher Education (Northern Ireland) Order 2005, ([S.I. 2005/1116 (N.I. 5))](https://www.legislation.gov.uk/nisi/2005/1116), Articles 11 and 12 and the Schedule , and by the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013, ([S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881)), Schedule 1
+
+[^f00003]: Footnote: [S.I. 2005/1116](https://www.legislation.gov.uk/uksi/2005/1116) see Article 2(2) for definitions of “the Department”, “prescribed” and “regulations”.
+
+[^key-48b9704ec03644c559fbe0b8afe284a7]: Commencement: Reg. 1 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-7fe4115b52dd571d72f6df5554c3a0af]: Commencement: Reg. 2 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00004]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373), amended by S.R.s [2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383), 2012 Nos. [62](https://www.legislation.gov.uk/nisr/2012/62) and [398](https://www.legislation.gov.uk/nisr/2012/398), 2013 Nos. [128](https://www.legislation.gov.uk/nisr/2013/128) and [223](https://www.legislation.gov.uk/nisr/2013/223), 2014 Nos. [97](https://www.legislation.gov.uk/nisr/2014/97) and [309](https://www.legislation.gov.uk/nisr/2014/309), [2016 No. 21](https://www.legislation.gov.uk/nisr/2016/21), 2017 Nos. [7](https://www.legislation.gov.uk/nisr/2017/7) and [43](https://www.legislation.gov.uk/nisr/2017/43), [2018 No. 35](https://www.legislation.gov.uk/nisr/2018/35), 2019 Nos.[35](https://www.legislation.gov.uk/nisr/2019/35) and [102](https://www.legislation.gov.uk/nisr/2019/102), [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260), [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00005]: Footnote: [S.R. 2007 No. 328](https://www.legislation.gov.uk/nisr/2007/328) was amended by Order [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). S.R.s [2007 No. 375](https://www.legislation.gov.uk/nisr/2007/375), 2011 Nos. [70](https://www.legislation.gov.uk/nisr/2011/70) and [376](https://www.legislation.gov.uk/nisr/2011/376), [2013 No. 37](https://www.legislation.gov.uk/nisr/2013/37), [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260), [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-a39a5fb65833d935cb668dcdf19bed2c]: Textual amendment: [Reg. A3](https://www.legislation.gov.uk/nisr/2024/157/regulation/A3) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2025/32/regulation/24)
+
+[^key-0cbafcaabaa7a69f839151751dc7f7ad]: Commencement: Reg. 3 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+
+[^f00006]: Footnote: Definition was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00007]: Footnote: The Appendix was added to the immigration rules by Statement of Changes to the Immigration Rules laid before Parliament on 7th December 2023 (HC 246). An electronic copy of HC 246 is available at https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-246-7-december-2023, and a hard copy is available by written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
+
+[^key-5c9af60fe3d4ea0cc8d62dd0edf851b5]: Commencement: Reg. 4 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+
+[^f00008]: Footnote: Regulation 2A was inserted by S. R. [2024 No.19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00009]: Footnote: Paragraph 4E was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No.19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-f5a75fe8a54bbf57882fb9fba26f8910]: Textual amendment: [Reg. A5](https://www.legislation.gov.uk/nisr/2024/157/regulation/A5) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2025/32/regulation/25)
+
+[^key-95139ade4d38eaabf5287607ba7be85c]: Commencement: Reg. 5 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+
+[^f00010]: Footnote: Paragraph (10) was inserted by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00011]: Footnote: Paragraph 4E was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-a07dc5bbfb853bddff2a948a96de71d7]: Commencement: Reg. 6 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+
+[^f00012]: Footnote: Definition was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^key-ad6ed5ba4c88a8edecffca165cda6520]: Textual amendment: [Reg. A7](https://www.legislation.gov.uk/nisr/2024/157/regulation/A7) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2025/32/regulation/26)
+
+[^key-5af6ad6ea494ecc1de9e32b66b61de79]: Commencement: Reg. 7 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00013]: Footnote: Definition was added by
+
+[^f00014]: Footnote: The Appendix was added to the immigration rules by the Statement of Changes in the Immigration Rules laid before Parliament on 18th October 2022 (HC 719). An electronic version of HC 719 is available at, https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc719-18-october-2022, and a hard copy is available by written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
+
+[^key-690dbbcb66553ed9cc3715ad0bd217b0]: Textual amendment: [Reg. A8](https://www.legislation.gov.uk/nisr/2024/157/regulation/A8) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2025/32/regulation/27)
+
+[^key-617397122e706b5b6e5d273e066092eb]: Commencement: Reg. 8 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00015]: Footnote: Definition inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
+
+[^key-83ac8843c4b5bff83c1999f0030ef1a1]: Textual amendment: [Reg. A9](https://www.legislation.gov.uk/nisr/2024/157/regulation/A9) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2025/32/regulation/28)
+
+[^key-2e128c244af53b0ee0a04b4dbf770c80]: Commencement: Reg. 9 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+
+[^f00016]: Footnote: Regulation 2A was added [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)
+
+[^key-085a7d165ab69a0d08b972f334554606]: Commencement: Reg. 10 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+
+[^f00017]: Footnote: Paragraph 4E was inserted by [S.R. 2021 No.50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00018]: Footnote: Paragraph 4D was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^key-cca1d0dee935cadd8c63757af185fcbb]: Textual amendment: [Reg. A11](https://www.legislation.gov.uk/nisr/2024/157/regulation/A11) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2025/32/regulation/29)
+
+[^key-b7aab0bc4eb341123afd9de48c71be16]: Commencement: Reg. 11 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+
+[^key-a1c152a0fc4611c7c76ae88e3c58ebda]: Commencement: Reg. 12 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+
+[^f00019]: Footnote: Paragraph 4D was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-4b41ce0092c8d44762f5cb024e1fe542]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/nisr/2024/157/regulation/A13) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [30](https://www.legislation.gov.uk/nisr/2025/32/regulation/30)
+
+[^key-b4e8fb80f7d35ba02aacc3b7a6020045]: Commencement: Reg. 13 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
+
+[^f00020]: Footnote: Regulation 2A was inserted by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-757f45b84130c8dcd165961249e3b0cb]: Commencement: Reg. 14 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
+
+[^f00021]: Footnote: Paragraph 2A was inserted by .S.R. [2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by S.R.s [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)
+
+[^key-832367b1ff8112ca750f7b15da44c8b2]: Textual amendment: [Reg. A15](https://www.legislation.gov.uk/nisr/2024/157/regulation/A15) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2025/32/regulation/31)
+
+[^key-7a6ac28406e720248468117b6158973f]: Commencement: Reg. 15 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
+
+[^f00022]: Footnote: Paragraph 2A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by S.R.s [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-dab614b0977974c4d5d024942447a344]: Textual amendment: [Reg. A16](https://www.legislation.gov.uk/nisr/2024/157/regulation/A16) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2025/32/regulation/32)
+
+[^key-0bb303ae85b5a03714b8323b1894e341]: Commencement: Reg. 16 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+
+[^f00023]: Footnote: Paragraph 11 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00024]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by Schedule 9 to the Immigration Act 2014 and by [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [2010/21](https://www.legislation.gov.uk/uksi/2010/21) and [2014/2771](https://www.legislation.gov.uk/uksi/2014/2771).
+
+[^f00025]: Footnote: Paragraph 11A was added by [S.R. 2019 No.35](https://www.legislation.gov.uk/nisr/2019/35) and amended by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00026]: Footnote: Paragraph 11D was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00027]: Footnote: Paragraph 11F was added by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00028]: Footnote: Paragraph 11B was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00029]: Footnote: Paragraph 11C was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00030]: Footnote: Paragraph 12 was amended by S.R.s [2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00031]: Footnote: Paragraph 11E was added by [S.R. 3033 No. 75](https://www.legislation.gov.uk/nisr/3033/75) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00032]: Footnote: Paragraph 12A was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
+
+[^f00033]: Footnote: Paragraph 12C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
+
+[^key-5da863fa1e05cc5245d7a8bf681a6b6b]: Commencement: Reg. 17 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+
+[^f00034]: Footnote: Paragraph 11 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00035]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by Schedule 9 to the Immigration Act 2014 and by [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [2010/21](https://www.legislation.gov.uk/uksi/2010/21) and [2014/2771](https://www.legislation.gov.uk/uksi/2014/2771).
+
+[^f00036]: Footnote: Paragraph 11A was added by [S.R. 2019 No.35](https://www.legislation.gov.uk/nisr/2019/35) and amended by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00037]: Footnote: Paragraph 11D was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00038]: Footnote: Paragraph 11F was added by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00039]: Footnote: Paragraph 11B was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00040]: Footnote: Paragraph 11C was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00041]: Footnote: Paragraph 12 was amended by S.R.s [2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)..
+
+[^f00042]: Footnote: Paragraph 11E was added by [S.R. 3033 No. 75](https://www.legislation.gov.uk/nisr/3033/75) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00043]: Footnote: Paragraph 12A was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
+
+[^f00044]: Footnote: Paragraph 12C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
+
+[^key-e29b5d9ed0c32e083c3ca69b1568af33]: Commencement: Reg. 18 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+
+[^f00045]: Footnote: Paragraph 10 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00046]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by Schedule 9 to the Immigration Act 2014 and by [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [2010/21](https://www.legislation.gov.uk/uksi/2010/21) and [2014/2771](https://www.legislation.gov.uk/uksi/2014/2771).
+
+[^f00047]: Footnote: Paragraph 10A was added by [S.R. 2019 No.35](https://www.legislation.gov.uk/nisr/2019/35) and amended by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00048]: Footnote: Paragraph 10D was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00049]: Footnote: Paragraph 10F was added by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00050]: Footnote: Paragraph 10B was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00051]: Footnote: Paragraph 10C was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00052]: Footnote: Paragraph 11 was amended by S.R.s [2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00053]: Footnote: Paragraph 10E was added by [S.R. 3033 No. 75](https://www.legislation.gov.uk/nisr/3033/75) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00054]: Footnote: Paragraph 11A was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
+
+[^f00055]: Footnote: Paragraph 11C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
+
+[^key-7e4011e3d114bbd9c7eca87c1e67de0a]: Commencement: Reg. 19 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+
+[^f00056]: Footnote: Paragraph 12 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00057]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by Schedule 9 to the Immigration Act 2014 and by [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [2010/21](https://www.legislation.gov.uk/uksi/2010/21) and [2014/2771](https://www.legislation.gov.uk/uksi/2014/2771).
+
+[^f00058]: Footnote: Paragraph 12A was added by [S.R. 2019 No.35](https://www.legislation.gov.uk/nisr/2019/35) and amended by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00059]: Footnote: Paragraph 12D was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00060]: Footnote: Paragraph 12F was added by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00061]: Footnote: Paragraph 12B was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00062]: Footnote: Paragraph 12C was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00063]: Footnote: Paragraph 13 was amended by S.R.s [2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)..
+
+[^f00064]: Footnote: Paragraph 12E was added by [S.R. 3033 No. 75](https://www.legislation.gov.uk/nisr/3033/75) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00065]: Footnote: Paragraph 13A was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
+
+[^f00066]: Footnote: Paragraph 13C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
+
+[^key-168a2591d3b1cf5d283abfb2020068af]: Commencement: Reg. 20 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+
+[^f00067]: Footnote: Paragraph 11 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00068]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by Schedule 9 to the Immigration Act 2014 and by [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [2010/21](https://www.legislation.gov.uk/uksi/2010/21) and [2014/2771](https://www.legislation.gov.uk/uksi/2014/2771).
+
+[^f00069]: Footnote: Paragraph 11A was added by [S.R. 2019 No.35](https://www.legislation.gov.uk/nisr/2019/35) and amended by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00070]: Footnote: Paragraph 11D was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00071]: Footnote: Paragraph 11F was added by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00072]: Footnote: Paragraph 11B was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^f00073]: Footnote: Paragraph 11C was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00074]: Footnote: Paragraph 13 was amended by S.R.s [2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)..
+
+[^f00075]: Footnote: Paragraph 11E was added by [S.R. 3033 No. 75](https://www.legislation.gov.uk/nisr/3033/75) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00076]: Footnote: Paragraph 12A was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
+
+[^f00077]: Footnote: Paragraph 12C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
+
+[^key-4c3343bd1a24245c8a1204227ee65370]: Textual amendment: [Reg. A21](https://www.legislation.gov.uk/nisr/2024/157/regulation/A21) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [33](https://www.legislation.gov.uk/nisr/2025/32/regulation/33)
+
+[^key-5f9d7968d5154d570d7f802c1e9ad0fc]: Commencement: Reg. 21 in operation at 14.8.2024 with application in accordance with reg. 1(3)(e)
+
+[^f00078]: Footnote: Paragraph 1C was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
+
+[^key-d528217f9473137e9052ef084a56901f]: Textual amendment: [Reg. A22](https://www.legislation.gov.uk/nisr/2024/157/regulation/A22) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2025/32/regulation/34)
+
+[^key-4efa9e18569a7b8ff658151cdf0ea660]: Commencement: Reg. 22 in operation at 14.8.2024 with application in accordance with reg. 1(3)(f)
+
+[^f00079]: Footnote: Definition was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
+
+[^f00080]: Footnote: On 19th February 2024 the Home Office announced its intention to create the Ukraine Permission Extension Scheme which will provide a new route for Ukrainians to apply for a further 18 months’ permission to stay in the UK on expiry of their current visa. Applications to the scheme will open from early 2025. Home Office guidance was published on 28 February 2024 and is available at https://www.gov.uk/government/publications/ukraine-permission-extension-scheme-information. A hard copy is available on written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
+
+[^f00081]: Footnote: Definition was inserted by [S.R. 2022 No.201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-1ea5b68c8bec6458306d71510f478f3b]: Textual amendment: [Reg. A23](https://www.legislation.gov.uk/nisr/2024/157/regulation/A23) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2025/32/regulation/35)
+
+[^key-101aa67b1d28b0399f0289f7845b56d8]: Commencement: Reg. 23 in operation at 14.8.2024 with application in accordance with reg. 1(3)(f)
+
+[^f00082]: Footnote: Definition was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
+
+[^f00083]: Footnote: Definition was inserted by [S.R. 2022 No.201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-59d57139a5772a3c531b2b352bec1287]: Textual amendment: [Reg. A24](https://www.legislation.gov.uk/nisr/2024/157/regulation/A24) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [36](https://www.legislation.gov.uk/nisr/2025/32/regulation/36)
+
+[^key-31731449384c8ee48cb50354ad480b3a]: Commencement: Reg. 24 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00084]: Footnote: Definition was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^key-3dceaa673e88d055e132ff75f20d6207]: Textual amendment: [Reg. A25](https://www.legislation.gov.uk/nisr/2024/157/regulation/A25) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2025/32/regulation/37)
+
+[^key-fe8e450f8e69aca8ee03cb484cbcee9c]: Commencement: Reg. 25 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00085]: Footnote: Definition was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
+
+[^key-d8c2a7b5b79638064ba1f4874028e02b]: Textual amendment: [Reg. A26](https://www.legislation.gov.uk/nisr/2024/157/regulation/A26) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2025/32/regulation/38)
+
+[^key-c3cf9b3fe2e536a62ecf9b611df125be]: Commencement: Reg. 26 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-c34304ecd7565a6bfa4b3b4db7f82a7d]: Commencement: Reg. 27 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-70a05ae5790587221ab23d592d2368bd]: Commencement: Reg. 28 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-790c7f0adff064a4bfa78fd2ded3c36b]: Commencement: Reg. 29 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-8c895947f15fcfe3588fa7954121b579]: Commencement: Reg. 30 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-314e4a035321cc1194cbfea1ef0c6f52]: Textual amendment: [Reg. A31](https://www.legislation.gov.uk/nisr/2024/157/regulation/A31) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [39](https://www.legislation.gov.uk/nisr/2025/32/regulation/39)
+
+[^key-d71aa4e391155795eae4d5c92cbf7769]: Commencement: Reg. 31 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00086]: Footnote: Paragraph (7) was inserted by [S.R. 2012 No. 398](https://www.legislation.gov.uk/nisr/2012/398) and amended by S.R.s [2021 No.260](https://www.legislation.gov.uk/nisr/2021/260), [2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75) and [2024 No 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^key-1bdcca8ddf24ba3589384f16330b08a3]: Commencement: Reg. 32 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^key-63b02ba0007ed1439e332641227a5e2d]: Textual amendment: [Reg. A33](https://www.legislation.gov.uk/nisr/2024/157/regulation/A33) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [40](https://www.legislation.gov.uk/nisr/2025/32/regulation/40)
+
+[^key-2ef9d17370ebd3502bedd1ce41f75bc2]: Commencement: Reg. 33 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+
+[^f00087]: Footnote: Paragraph 1A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
+
+[^f00088]: Footnote: Paragraph 1B was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).

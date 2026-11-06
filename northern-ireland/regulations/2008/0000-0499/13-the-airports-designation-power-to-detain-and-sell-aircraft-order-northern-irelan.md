@@ -1,0 +1,74 @@
+---
+title: The Airports (Designation) (Power to Detain and Sell Aircraft) Order (Northern Ireland) 2008
+id: nisr/2008/13
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2008-01-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2008/13
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/13/pdfs/nisr_20080013_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/13/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Airports (Designation) (Power to Detain and Sell Aircraft) Order (Northern Ireland) 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 13
+
+Airports
+
+The Airports (Designation) (Power to Detain and Sell Aircraft) Order (Northern Ireland) 2008
+
+Made
+
+10th January 2008
+
+Coming into operation
+
+11th February 2008
+
+The Department for Regional Development[^f00001] makes the following Order in exercise of the powers conferred by Article 23(1) of the Airports (Northern Ireland) Order 1994[^f00002].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Airports (Designation) (Power to Detain and Sell Aircraft) Order (Northern Ireland) 2008 and shall come into operation on 11th February 2008.
+
+## 2. Designation
+
+The following airports are hereby designated for the purposes of Article 23 of the Airports (Northern Ireland) Order 1994, that is to say—
+
+- (a) Belfast International Airport;
+- (b) Belfast City Airport;
+- (c) City of Derry Airport;
+- (d) Enniskillen (St Angelo) Airport; and
+- (e) Ards Airport.
+
+Sealed with the Official Seal of the Department for Regional Development on 10th January 2008.
+
+L.S.
+
+B.R.D. White
+
+A senior officer of the Department for Regional Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Under Article 23 of the Airports (Northern Ireland) Order 1994 an airport operator may, where default is made in the payment of airport charges incurred in respect of any aircraft at an airport to which this Article applies, detain, pending payment, and sell the aircraft in order to satisfy the charges.
+
+This Order designates Belfast International Airport, Belfast City Airport, City of Derry Airport, Enniskillen (St Angelo) Airport and Ards Airport for the purposes of the said Article 23.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(1)
+
+[^f00002]: Footnote: [S.I. 1994/426 (N.I. 1)](https://www.legislation.gov.uk/nisi/1994/426)

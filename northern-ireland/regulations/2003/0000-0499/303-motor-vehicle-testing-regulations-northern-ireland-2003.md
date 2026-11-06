@@ -1,0 +1,803 @@
+---
+title: Motor Vehicle Testing Regulations (Northern Ireland) 2003
+id: nisr/2003/303
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2003-06-13'
+text_date: '2005-11-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/303
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/303/pdfs/nisr_20030303_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/303/data.pdf
+pending_changes: 51
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Motor Vehicle Testing Regulations (Northern Ireland) 2003
+
+> **Warning: changes not yet applied to this text (51).** Text as at 2005-11-24. See https://www.legislation.gov.uk/changes/affected/nisr/2003/303
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 303
+
+ROAD TRAFFIC AND VEHICLES
+
+Motor Vehicle Testing Regulations (Northern Ireland) 2003
+
+Made
+
+13th June 2003
+
+Coming into operation
+
+1st August 2003
+
+The Department of the Environment, in exercise of the powers conferred on it by Articles 61(2) and (6), 62, 63(5), (6) and (7), 72(1) and (2), 75(8), 81(8) and (9) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-005f4c77954ba5f953520532d1e5915d]
+
+These Regulations may be cited as the Motor Vehicle Testing Regulations (Northern Ireland) 2003 and shall come into operation on 1st August 2003.
+
+### 2. Interpretation[^key-5357536bd54572707c6f2cc0c933b2b9]
+
+(1) In these Regulations –
+
+- “the 1994 Act” means the Vehicle Excise and Registration Act 1994[^f00002];
+- “the Order” means the Road Traffic (Northern Ireland) Order 1995;
+- “the Construction and Use Regulations” means the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00003];
+- “the Lighting Regulations” means the Road Vehicles Lighting Regulations (Northern Ireland) 2000[^f00004];
+- “agricultural motor vehicle”, “articulated bus”, “articulated vehicle”, “minibus”, “pedestrian controlled vehicle”, “rigid vehicle”, “track laying” and “works truck” have the meanings given by regulation 2(l) of the Construction and Use Regulations;
+- “ambulance” means a motor vehicle which is constructed or adapted, and primarily used, for the carriage of persons to a place where they will receive, or from a place where they have received, medical or dental treatment, and which, by reason of design, marking or equipment is readily identifiable as a vehicle so constructed or adapted.
+- “break-down vehicle” means a motor vehicle –
+  - (a) on which is permanently mounted apparatus designed for raising one disabled vehicle partly from the ground and for drawing that vehicle when so raised; and
+  - (b) which is not equipped to carry any load other than articles required for the operation of or in connection with, that apparatus or for repairing disabled vehicles;
+- “child restraint”, “disabled person’s belt”, “forward-facing seat” and “seat belt” have the meanings given by regulation 55(11) of the Construction and Use Regulations;
+- “Community Recording Equipment Regulation” has the meaning given in Article 53 of the Order;
+- “dual-purpose vehicle” has the meaning given by Article 2(2) of the Order of 1981;
+- “examination” means an examination of a motor vehicle for the purposes of Article 61 of the Order;
+- “large passenger-carrying vehicle” means a motor vehicle which is constructed or adapted to carry more than twelve seated passengers in addition to the driver, and which is not a public service vehicle;
+- “light motor bicycle” means a motor bicycle of which the cylinder capacity of the engine does not exceed 200 cubic centimetres;
+- “light motor vehicle” means a motor vehicle with three wheels the unladen weight of which does not exceed 450 kilograms;
+- “motor bicycle” means a two-wheeled motor cycle, whether having a sidecar attached to it or not;
+- “play bus” means a motor vehicle which was originally constructed to carry more than 12 passengers but which has been adapted primarily for the carriage of playthings for children (including articles required in connection with the use of those things);
+- “the prescribed statutory requirements” has the meaning given by regulation 3(1);
+- “public service vehicle” has the meaning given by Article 2(2) of the Order of 1981[^f00005];
+- “road construction vehicle” means a motor vehicle –
+  - (a) which is constructed or adapted for use for the conveyance of built-in road construction machinery; and
+  - (b) which is not constructed or adapted for the conveyance of any other load except articles and material used for the purposes of such machinery;
+- “serial number” in relation to a vehicle the chassis of which has not been constructed separately from its superstructure, means the number given to, and for the purpose of identifying, the vehicle by its manufacturer;
+- “taxi” has the meaning given by Article 79A of the Order of 1981[^f00006];
+- “tower wagon” means either –
+  - (a) a vehicle into which there is built, as part of the vehicle, an expanding or extendible device designed for facilitating the erection, inspection, repair or maintenance of overhead structures or equipment, and which is not constructed or adapted for use, or used, for the conveyance of any load other than such a device or articles used in connection with it, or
+  - (b) a vehicle into which there is built, as part of the vehicle, an expanding or extendible device designed for facilitating the erection, inspection, repair or maintenance of overhead structures or equipment, and which is not constructed or adapted for use, or used, for the conveyance of any load other than –
+    - (i) such a device or articles used in connection with it, or
+    - (ii) articles used in connection with the installation or maintenance (by means of such a device) of materials or apparatus for lighting streets, roads or public places;
+- “vehicle testing centre” has the meaning given by Article 73 of the Order.
+
+(2) For the purposes of these Regulations the unladen weight of a vehicle shall be computed in accordance with Article 2(3) of the Order of 1981.
+
+(3) In calculating for the purposes of the definition of “large passenger-carrying vehicle” the number of seated passengers which the vehicle is constructed or adapted to carry a length of at least 400 millimetres measured horizontally along the front of each seat shall be allowed for the accommodation of each such passenger. Where a continuous seat is fitted with arms for the purpose of separating the seating spaces and the arms are so constructed that they can be folded back or otherwise put out of use, the seat shall be measured for the purposes of this paragraph as though it were not fitted with arms.
+
+(4) For the purposes of these Regulations the provisions of regulation 2(4) of the Construction and Use Regulations shall apply for determining when a motor vehicle is first used.
+
+### 3. The prescribed statutory requirements[^key-d7934425883f3690b5d594e558fb2aa9]
+
+(1) The prescribed statutory requirements for the purposes of Article 61(1)(a) of the Order are in relation to any vehicle in a Class specified in an item in column 2 of the Table, the requirements specified in that item in column 3 of the Table, and in these Regulations those requirements are referred to as “the prescribed statutory requirements”.
+
+TABLE
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th>Item</th><th>Class</th><th>Requirement</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>I and II</td><td>Paragraph 1 of Schedule 2</td></tr>
+<tr><td>2</td><td>III</td><td>Paragraph 2 of Schedule 2</td></tr>
+<tr><td>3</td><td>IV</td><td>Paragraph 3 of Schedule 2</td></tr>
+<tr><td>4</td><td>V</td><td>Paragraph 4 of Schedule 2</td></tr>
+<tr><td>5</td><td>VA</td><td>Paragraph 5 of Schedule 2</td></tr>
+<tr><td>6</td><td>VI</td><td>Paragraph 6 of Schedule 2</td></tr>
+<tr><td>7</td><td>VIA</td><td>Paragraph 7 of Schedule 2</td></tr>
+</tbody>
+</table>
+
+(2) Subject to the provisions of these Regulations, every vehicle to which these Regulations apply and which is submitted for examination in accordance with the provisions of these Regulations shall be examined for the purpose of ascertaining whether those of the prescribed statutory requirements which are applicable to the vehicle have been complied with at the date of the examination.
+
+### 4. Condition of vehicles[^key-3889be298e1bb5459acfa0a12e4b10ba]
+
+For the purposes of Article 61(1)(b) of the Order the requirement in relation to a vehicle to which these Regulations apply is that the condition of the vehicle should not be such that its use on a road would involve a danger of injury to any person, having regard, in particular, to the items described in Schedule 3, and in these Regulations that requirement is referred to as “the condition requirement”.
+
+### 5. Classification of vehicles and application of Regulations[^key-99ee56df70e6cf41bf0065dffadb6348]
+
+(1) For the purposes of these Regulations motor vehicles to which they apply are classified as follows –
+
+- Class I: Light motor bicycles.
+- Class II: Motor bicycles.
+- Class III: Light motor vehicles other than motor bicycles.
+- Class IV: Motor cars and heavy motor cars;
+  - (a) Motor cars and heavy motor cars not being vehicles within Classes III, V, VA, VI or VIA;
+  - (b) Break-down vehicles;
+  - (c) Road construction vehicles;
+  - (d) Tower wagons; and
+  - (e) Dual-purpose vehicles.
+- Class V: Motor vehicles not being vehicles within Class VA, VI or VIA which are –
+  - (a) Large passenger-carrying vehicles;
+  - (b) Ambulances with more than 16 seats in addition to the driver; and
+  - (c) Play buses.
+- Class VA: Motor vehicles, other than vehicles to which paragraph (3) applies, which are –
+  - (a) Large passenger-carrying vehicles;
+  - (b) Ambulances with more than 16 seats in addition to the driver; and
+  - (c) Play buses;
+
+  in respect of which any forward-facing seat is fitted with a relevant seat belt.
+- Class VI: Motor vehicles which are –
+  - (a) Minibuses; and
+  - (b) Ambulances with more than 8 but not more than 16 seats in addition to the driver.
+- Class VIA: Motor vehicles, other than vehicles to which paragraph (3) applies which are –
+  - (a) Minibuses; and
+  - (b) Ambulances with more than 8 but not more than 16 seats in addition to the driver;
+
+  in respect of which any forward-facing seat is fitted with a relevant seat belt.
+
+(2) Save as provided in regulation 6, these Regulations apply to every vehicle of a class specified in paragraph (1).
+
+(3) This paragraph applies to vehicles, in respect of which –
+
+- (a) a public service vehicle licence which includes an examination of the relevant seat belts has been issued on or after 19th June 2000; or
+- (b) a test certificate which includes an examination of the relevant seat belts has been issued under section 45 of the Road Traffic Act 1988[^f00007] on or after 1st August 1998; or
+- (c) a certificate of initial fitness which includes an examination of the relevant seat belts has been issued on or after 1st August 1998; or
+- (d) one or more forward-facing seats are fitted with a relevant seat belt, which, when so equipped, are of a type of vehicle in respect of which the Department is satisfied that the vehicle manufacturer holds –
+  - (i) an approval issued by or on behalf of the approval authority of an EEA State confirming compliance with the installation requirements of Community Directives 77/541[^f00008], 82/319[^f00009], 90/628[^f00010], or 96/36[^f00011]; and
+  - (ii) either –
+    - (A) an approval issued by or on behalf of the approval authority of an EEA State confirming compliance with the technical and installation requirements of Community Directives 76/115[^f00012], 81/575[^f00013], 82/318[^f00014], 90/629[^f00015], or 96/38[^f00016]; or
+    - (B) an approval issued by or on behalf of the competent authority of a contracting State confirming compliance with the technical and installation requirements of ECE Regulation 14, 14.01, 14.02 or 14.03.
+
+(4) In this regulation –
+
+- “approval authority” has the same meaning as in Community Directive 70/156[^f00017];
+- “certificate of initial fitness” has the same meaning as in section 6 of the Public Passenger Vehicles Act 1981[^f00018];
+- “contracting State” means a State which is a party to the International Agreement;
+- “EEA State” means a State which is a contracting party to the EEA Agreement;
+- “EEA Agreement” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00019] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00020];
+- “ECE Regulation” and “Community Directive” have the meanings given by regulation 2(2) of the Construction and Use Regulations;
+- “the International Agreement” means the Agreement concerning the adoption of uniform conditions of approval for motor vehicle equipment and parts and reciprocal recognition thereof concluded at Geneva on 25th March 1958[^f00021] as amended[^f00022] to which the United Kingdom is a party[^f00023]; and
+- “relevant seat belt” means a seat belt, not being a disabled person’s belt or a child restraint, which –
+  - (a) is fitted to a forward-facing seat other than as required by regulation 55 of the Construction and Use Regulations; and
+  - (b) on or after 19th June 2000 either –
+    - (i) has not undergone an examination and been found to comply with the prescribed statutory requirements referred to in item 34 in paragraph 5(c) of Schedule 2; or
+    - (ii) has undergone an examination and been found so to comply but is fitted in a vehicle in respect of which no test certificate has been issued to the effect that that is the case.
+
+### 6. Exemptions[^key-bc2959510e69f97df98c498c23cf0fc3]
+
+(1) Article 63 of the Order does not apply to the following vehicles –
+
+- (i) a heavy locomotive;
+- (ii) a light locomotive;
+- (iii) a motor tractor;
+- (iv) a track laying vehicle;
+- (v) an articulated vehicle not being an articulated bus;
+- (vi) a vehicle at a time when it is being used on a public road during any calendar week if –
+- (i) it is being used only in passing from land in the occupation of the person keeping the vehicle to other land in his occupation, and
+- (ii) it has not been used on public roads for distances exceeding an aggregate of six miles in that calendar week,
+
+and for the purposes of this sub-paragraph “public road” means a road which is repairable at the public expense;
+
+- (vii) a works truck;
+- (viii) a pedestrian controlled vehicle;
+- (ix) a vehicle (including a cycle with an attachment for propelling it by mechanical power) which is adapted, and used or kept on a road, for invalids, and which –
+- (i) does not exceed 306 kilograms in weight unladen, or
+- (ii) exceeds 306 kilograms but does not exceed 510 kilograms in weight unladen, and are supplied and maintained by or on behalf of the Department of Health and Social Services;
+- (x) a vehicle temporarily in Northern Ireland displaying a registration mark described in regulation 5 of the Motor Vehicles (International Circulation) (Registration and Licensing) Regulations (Northern Ireland) 1963[^f00024] a period of twelve months not having elapsed since the vehicle was last brought into Northern Ireland;
+- (xi) a vehicle proceeding to a port for export from the United Kingdom;
+- (xii) a vehicle in the service of a visiting force or of a headquarters (within the meaning given by Article 8(9) of The Visiting Forces and International Headquarters (Application of Law) Order 1999[^f00025];
+- (xiii) a vehicle provided for police or fire brigade purposes;
+- (xiv) a vehicle owned by or in the service of the naval, military or air forces of Her Majesty;
+- (xv) a vehicle in respect of which a test certificate issued in accordance with section 45 of the Road Traffic Act 1988[^f00026] is in force;
+- (xvi) an agricultural motor vehicle;
+- (xvii) a motor vehicle constructed and not merely adapted for the purpose of street cleansing or the collection or disposal of refuse or the collection or disposal of the contents of gullies and which is either –
+- (a) a three wheeled vehicle, or
+- (b) a vehicle which –
+  - (i) is incapable by reason of its construction of exceeding a speed of 20 miles per hour on the level under its own power, or
+  - (ii) has an inside track width of less than 810 millimetres;
+  - (xviii) a vehicle constructed or adapted for and used solely for the purpose of spreading material on roads to deal with frost, ice or snow;
+  - (xix) an electrically-propelled vehicle; and
+  - (xx) a public service vehicle.
+
+(2) The use of a vehicle –
+
+- (a)
+  - (i) for the purpose of submitting it by previous arrangement for, or bring it away from, an examination, or
+  - (ii) in the course of an examination, for the purpose of taking it to, or bringing it away from, any place where a part of the examination is to be or, as the case may be, has been, carried out, or of carrying out any part of the examination, the person so using it being either –
+    - (A) an examiner; or
+    - (B) a person acting under the personal direction of an examiner; or
+  - (iii) where a test certificate is refused on an examination –
+    - (A) for the purpose of delivering it by previous arrangement at, or bringing it away from, a place where work is to be or has been done on it to remedy for a further examination the defects on the grounds of which the test certificate was refused; or
+    - (B) for the purpose of delivering it, by towing it, to a place where the vehicle is to be broken up;
+- (b) for any purpose for which the vehicle is authorised to be used on roads by an order under Article 60 of the Order;
+- (c) where the vehicle has been imported into Northern Ireland, for the purpose of its being driven after arrival in Northern Ireland on the journey from the place where it has arrived in Northern Ireland to a place of residence of the owner or driver of the vehicle;
+- (d) for the purpose of removing it in pursuance of orders made under Article 15(1) of the Road Traffic Regulation (Northern Ireland) Order 1997[^f00027] or Article 30 of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00028];
+- (e) where the vehicle has been detained or seized by a police constable, for police purposes connected with such detention or seizure;
+- (f) where the vehicle has been removed, detained or seized or condemned as forfeited under any provision of the Customs and Excise Management Act 1979[^f00029] for any purpose authorised by an officer of Customs and Excise;
+- (g) for the purpose of testing it by a motor trader as defined in section 62(1) of the 1994 Act, to whom a trade licence has been issued under section 11 of the 1994 Act, during the course of, or after completion of repairs carried out to that vehicle by that motor trader;
+- (h)[^key-e01fccd0d66ae2d7801332e996f8a103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; and
+- (i) being a goods vehicle first used before 1st January 1960, which is used unladen and not drawing a laden trailer, and a trailer manufactured before 1st January 1960 and used unladen,
+
+is exempt from Article 63(1).
+
+(3) A vehicle in use only on Rathlin Island is exempt from Article 63(1).
+
+## PART II — EXAMINATIONS
+
+### 7. Manner of making application for examinations, and fees[^key-ea2a7aea3aa9442bc7458e559eb457db]
+
+(1) Any person wishing to have an examination carried out on a vehicle shall make application for that purpose to the Department.
+
+(2) Every person making an application under paragraph (1) shall provide such particulars as the Department may reasonably require and the appropriate fee as determined in accordance with paragraph 1 of Schedule 1.
+
+### 8. Time of application for tests[^key-71a522a3052335133ba57e6397da7e13]
+
+Every application for an examination of a vehicle shall be made –
+
+- (a) at least one month before the date on which the applicant desires to submit the vehicle for the examination; and
+- (b) not more than three months before the last day by which the vehicle is required by these Regulations to be submitted for the examination.
+
+### 9. Notice of place and time of examinations[^key-4d3379aec610022538dc406fbe71f3eb]
+
+As soon as reasonably practicable after the date of the receipt of an application for an examination and the appropriate fee for that examination the Department shall issue notice to the applicant of the vehicle testing centre at which the examination is to take place and the date and time reserved by the Department for that examination.
+
+### 10. Requirements as to vehicles submitted for examinations[^key-59a77f10672a5cbb1878a8424aef1107]
+
+(1) On being notified by the Department, the applicant shall present the vehicle for inspection in clean condition, together with the registration book and previous test certificate or licence, if any, at the time and centre specified in the notice.
+
+(2) A vehicle examiner shall not be obliged to carry out an inspection where –
+
+- (a) the vehicle is not submitted at the time and place notified to the applicant;
+- (b) on submission of a vehicle for an inspection the applicant does not, after being requested to do so, produce the registration document and previous test certificate or licence, if any;
+- (c) the correct fee in respect of that inspection has not been paid;
+- (d) the particulars provided at time of application are found to be substantially incorrect;
+- (e) the vehicle, or any motor vehicle by which it is accompanied, or any part of or any equipment of the vehicle is so dirty as to make it unreasonably difficult for the inspection to be carried out in accordance with the provisions of these Regulations;
+- (f) the vehicle, or any motor vehicle by which it is accompanied, emits substantial quantities of avoidable smoke; or
+- (g) an examiner is not able to complete the inspection due to the failure of a part of the vehicle, or any vehicle by which it is drawn or intended to be drawn, which renders the vehicle, or any such accompanying vehicle incapable of being moved in safety under the power of the vehicle or, as the case may be, of the accompanying vehicle.
+
+### 11. Application for re-examinations[^key-d6206643fa3de46e0fb06c5319cdae83]
+
+(1) Where, under regulation 12, a notification of the refusal of a test certificate in respect of a vehicle is issued, the vehicle may be submitted at a vehicle testing centre for a re-examination.
+
+(2) Where an applicant desires to submit a vehicle for a re-examination he shall make a further application for that purpose.
+
+(3) The fee payable on such an application is the appropriate fee determined in accordance with paragraph 1 of Schedule 1.
+
+(4) Where an application is made under paragraph (2) within 21 days from the date of service of the notice and the vehicle is presented for re-examination on a date and at a time appointed by the Department, the fee payable is the appropriate fee determined in accordance with paragraph 2 of Schedule 1.
+
+(5) Where an application is made under paragraph (2) within 21 days from the date of service of the notice and the vehicle is presented for re-examination on a date and a time appointed by the Department, and some or all of the statutory requirements which were not complied with in the original examination relate to item 34 in paragraph 5(c) of Schedule 2, the fee payable is the appropriate fee determined in accordance with paragraph 3 of Schedule 1.
+
+### 12. Examinations, and issue of test certificates (or notices of refusal)[^key-15b5b1d04004a801434ce110157ddfb3]
+
+On the submission of a vehicle for an examination the Department shall arrange for a vehicle to undergo that examination, and when that examination has been completed there shall be issued –
+
+- (a) where the vehicle is found to comply with the prescribed statutory requirements and the condition requirement, a test certificate, or
+- (b) where the vehicle is found not to comply with the prescribed statutory requirements or the condition requirement, a notice of refusal of a test certificate.
+
+### 13. Re-examination procedure, and issue of test certificates (or notices of refusal)[^key-3114625408f6bee1403a4fdc666a8bca]
+
+(1) Where a vehicle is submitted for a re-examination at a vehicle testing centre in circumstances where the fee for the re-examination is payable under paragraph (4) of regulation 11 a vehicle examiner shall in carrying out the examination be under an obligation only to examine the vehicle for the purpose of ascertaining whether it complies with the particular items of the prescribed statutory requirements or the condition requirement with which it was shown in the notice of a refusal of a test certificate not to comply.
+
+(2) Where a vehicle examiner finds that the vehicle complies with the particular items of the prescribed statutory requirements or the condition requirement mentioned in paragraph (1) and has no reason to believe that the other prescribed statutory requirements or the condition requirement are not complied with in relation to the vehicle, there shall be issued a test certificate.
+
+(3) Where a vehicle examiner does not find that the vehicle complies with the particular items of the prescribed statutory requirements or the condition requirement mentioned in paragraph (1) or finds that any other prescribed statutory requirement or an item of the condition requirement is not complied with in relation to the vehicle, there shall be issued a notice of the refusal of a test certificate.
+
+(4) Where a vehicle is submitted for a re-examination at a vehicle testing centre in circumstances where a fee for the re-examination is payable under regulation 11(3), the Department shall arrange for the vehicle to undergo a re-examination, and when that re-examination has been completed there shall be issued –
+
+- (a) where the vehicle is found to comply with the prescribed statutory requirements and the condition requirement, a test certificate; or
+- (b) where the vehicle is found not to comply with the prescribed statutory requirements or the condition requirement, a notice of refusal of a test certificate.
+
+(5) The person submitting the vehicle for re-examination shall produce the notification of refusal and the registration book relating to the vehicle, and the Department shall not be required to carry out the re-examination unless the notification of refusal and the registration book are produced.
+
+### 14. Form of test certificates and notices of refusal[^key-b4f005a5f863de808f84dc99c9276336]
+
+(1) Test certificates and notices of refusal of a test certificate issued under regulation 12 or 13 shall contain –
+
+- (a) the date on which it was issued;
+- (b) details of the vehicle testing centre at which it was issued; and
+- (c) the registration mark (if any) exhibited on the vehicle or, if no such mark is so exhibited, the chassis or serial number marked on the vehicle.
+
+(2) Test certificates issued under regulation 12 or 13 shall be signed by a vehicle examiner.
+
+### 15. Removal of vehicle submitted for examination[^key-4bbfd588ab7027745afa07a33cad9ff5]
+
+A person presenting a vehicle for examination shall cause it to be removed from the vehicle testing centre before the end of the day on which the examination is completed.
+
+## PART III — APPEALS
+
+### 16. Appeal on refusal of a test certificate[^key-145cb874e4bc4c5859fc18ca399567fa]
+
+- (l) An appeal under Article 61(4) of the Order shall be made in writing on a form issued by the Department and shall be sent, together with the appropriate fee determined in accordance with paragraph 1 of Schedule 1, to the Department within fourteen days from the date of issue of the notification of refusal.
+
+(2) On being notified by the Department in writing, the appellant shall present the vehicle for a further examination at the time and vehicle testing centre specified in the notice.
+
+(3) The person submitting the vehicle for such examination shall –
+
+- (a) produce the notification of refusal and the registration book relating to the vehicle; and
+- (b) give such information as may be reasonably required in relation to alterations made or repairs carried out, or any accidents or other events occurring, since the date of the notification, which may have affected the vehicle or its equipment or accessories,
+
+and the Department shall not be required to carry out the examination unless the notification of refusal and registration book are produced and such information is given.
+
+### 17. Repayment of fee on appeal[^key-431e220edd03d51f642daa0708dfa39a]
+
+(1) After the completion of the examination for the purpose of the appeal, the Department shall repay to the appellant the whole or part of the fee paid on the appeal where it appears to the Department that there were substantial grounds for contesting the whole or part of the decision appealed.
+
+(2) Subject to paragraph (3), the fee payable on appeal shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with the provisions of regulation 16.
+
+(3) Where the appellant has before the time specified under regulation 16(2) for the carrying out of the examination given the Department not less than three days' notice (whether in writing or otherwise) at the vehicle testing centre specified in the notice, that the appellant does not propose to submit the vehicle for examination at that time, any amount previously paid in respect of such a fee shall be repaid to the appellant unless another time is arranged for the carrying out of the examination.
+
+## PART IV — OTHER MATTERS
+
+### 18. Duplicate test certificates[^key-550b1131c8df1e97ee2cfea1c19ff127]
+
+(1) If a test certificate has been lost or defaced, an application for the issue of a duplicate of the original certificate may be made.
+
+(2) Subject to paragraph (3), the Department shall search the copies of test certificates and other records in its possession and upon tracing sufficient particulars of the certificate to which the application relates to enable a duplicate to be issued and on being paid the fee determined in accordance with paragraph 6 of Schedule 1 shall issue a duplicate marked “Duplicate” and the duplicate so issued shall have the same effect as the original test certificate.
+
+(3) No such search need be made if the original certificate was issued more than thirteen months previously or if the applicant does not furnish with his application the approximate date of its issue, together with particulars of the registration mark of the vehicle to which the certificate relates and also either the address or identity of the vehicle testing centre at which the original certificate was issued.
+
+### 19. Suspension or revocation of test certificates[^key-4383ba0efeec00c56aec949fa5336144]
+
+(1) The Department may suspend or revoke a test certificate if –
+
+- (a) the test certificate has been obtained by misrepresentation;
+- (b) the vehicle fails to conform with the prescribed statutory requirements or the condition requirement; or
+- (c) the test certificate has been altered, defaced or mutilated.
+
+(2) In the event of any such suspension or revocation –
+
+- (a) the Department shall serve on the owner written notice of such suspension or revocation and the test certificate shall be deemed to be suspended or revoked as from the date of such service; and
+- (b) the owner shall deliver the test certificate to the vehicle testing centre specified in the notice within 7 days of the date of service of the notice.
+
+### 19A. Certificates of temporary exemption[^key-b33f80788194b634c457c3cceda352a4]
+
+(1) The Department may issue in respect of a vehicle a certificate of temporary exemption, by virtue of which that vehicle shall not, during the period specified in the certificate be subject to the provisions of Article 63(1) of the 1995 Order, where it is satisfied that –
+
+- (a) by reason of exceptional circumstances, as defined in paragraph (3), affecting either a vehicle testing centre or the vehicle, an examination cannot be completed by a date fixed under these Regulations for carrying out the examination; and
+- (b) the use of the vehicle on or after that date would constitute an offence under Article 63(1) of the 1995 Order.
+
+(2) Every certificate of temporary exemption shall contain –
+
+- (a) in the case of a certificate issued for a motor vehicle, the registration mark (if any) exhibited on the vehicle or, if no such mark is so exhibited, the chassis or serial number marked on the vehicle or, if no such number is so marked, the identification mark which shall have been allotted to the vehicle by the Department;
+- (b) the date on which the certificate is issued; and
+- (c) the period during which the vehicle is exempted from the provisions of Article 63(1) of the 1995 Order so, however, that no such period shall exceed six months in duration.
+
+(3) For the purposes of paragraph (1)(a) “exceptional circumstances” means a failure in the supply of essential services or other unexpected happening, a fire, an accident or industrial action.
+
+### 20. Production of test certificate on application for licence[^key-7b9406f671a1ba282da86f2406ebf640]
+
+(1) Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 63(2)(a) of the Order applies, the licence shall not be granted unless there is produced a current test certificate or effective certificate of temporary exemption.[^key-429270a2c86c7665e58eeb63247125dd]
+
+(2) Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 63(2)(b) of the Order applies, the licence shall not be granted unless –
+
+- (a) there is produced a current test certificate or effective certificate of temporary exemption[^key-4f7f7a94a98d3598b92ae69f2cab8cce]; or
+- (b)[^key-52097c0fc5ecf67334bf2c484d4fb5c4] the owner of the vehicle declares in writing the year in which the vehicle was manufactured, and a period of 4 years, or such other period specified by an order made by the Department under Article 63(9) of the Order, from the date of manufacture has not expired.
+
+### 21. General provisions as to repayment of fees[^key-ee6dbd1db801b1ce3503c4bc407358e4]
+
+(1) The fees paid in pursuance of regulation 7(2) or 11(3) or (4) shall be repaid –
+
+- (a) if no appointment for an examination of the vehicle is made or the appointment made is subsequently cancelled by the Department;
+- (b) if the person for whom the appointment is made gives to the Department notice cancelling the appointment of not less than one clear day before the date of the appointment;
+- (c) if the person for whom the appointment is made keeps the appointment but the examination does not take place, or is not completed, for reasons attributable neither to him nor to the vehicle presented for examination; or
+- (d) if the person for whom the appointment is made satisfies the Department that the vehicle cannot, or, as the case may be, could not reasonably be presented for examination on the date of appointment due to exceptional circumstances occurring not more than 7 days before the said date and of which notice is given within 3 days of the occurrence thereof to the Department at the vehicle testing centre where the examination is, or, as the case may be, was to be held.
+
+(2) In this regulation “exceptional circumstances” means an accident, a fire, a failure in the supply of fuel or electricity or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts therefore).
+
+### 22. Fee payable for test under Article 75(5) or inspection under Article 81 of the Order[^key-400e45179687b19b2b0be99fc3bcc6ca]
+
+(1) The fee payable for a test under Article 75(5) of the Order is the appropriate fee determined in accordance with paragraph 5 of Schedule 1.
+
+(2) The fee payable for an inspection under Article 81 of the Order is the appropriate fee determined in accordance with paragraph 4 or 5, as the case may be, of Schedule 1.
+
+### 23. Computation of time[^key-a4484dee4eaa4b09d08a47f3793b2ad3]
+
+(1) Save in regulations 11(4), 16(1), 19(2)(b) and 21(1)(d) (insofar as it relates to 7 days), no period of time prescribed in these Regulations shall include any day which is a Saturday, Sunday or public holiday.
+
+(2) For the purposes of these Regulations “public holiday” shall not include Good Friday and shall include Easter Tuesday.
+
+### 24. Revocation[^key-10ab30fbd32cccbb9f9abe6c5b4214ce]
+
+The Regulations specified in Schedule 4 are hereby revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 13th June 2003.
+
+Stanley Duncan
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — FEES[^key-a25bd57ffd4b3a709c1343323a1b014e]
+
+Regulations 7(2), 11(3), (4) and (5), 16(1), 18(2) and 22
+
+<table>
+<tbody>
+<tr><td colspan="2">1. <em>Fee payable for examination under regulation 7(2) or 11(3) or 16(1)</em></td></tr>
+<tr><td>(a) Vehicle in Class I or II</td><td>£22·00</td></tr>
+<tr><td>(b) Vehicle in Class III or IV</td><td>£30·50</td></tr>
+<tr><td>(c) Vehicle in Class V</td><td>£41·50</td></tr>
+<tr><td>(d) Vehicle in Class VA –</td><td></td></tr>
+<tr><td>(i) with 13 to 16 seats exclusive of driver</td><td>£53·50</td></tr>
+<tr><td>(ii) with 17 to 35 seats exclusive of driver</td><td>£65·00</td></tr>
+<tr><td>(iii) with more than 35 seats exclusive of driver</td><td>£81·00</td></tr>
+<tr><td>(e) Vehicle in Class VI</td><td>£41·50</td></tr>
+<tr><td>(f) Vehicle in Class VIA</td><td>£53·50</td></tr>
+<tr><td colspan="2">2. <em>Fee payable for re-examination under regulation 11(4)</em></td></tr>
+<tr><td>(a) Vehicle in Class I or II</td><td>£14·00</td></tr>
+<tr><td>(b) Vehicle in Class III or IV</td><td>£18·50</td></tr>
+<tr><td>(c) Vehicle in Class V</td><td>£19·50</td></tr>
+<tr><td>(d) Vehicle in Class VA –</td><td></td></tr>
+<tr><td>(i) with 13 to 16 seats exclusive of driver</td><td>£19·50</td></tr>
+<tr><td>(ii) with 17 to 35 seats exclusive of driver</td><td>£32·00</td></tr>
+<tr><td>(iii) with more than 35 seats exclusive of driver</td><td>£44·00</td></tr>
+<tr><td>(e) Vehicle in Class VI</td><td>£19·50</td></tr>
+<tr><td>(f) Vehicle in Class VIA</td><td>£19·50</td></tr>
+<tr><td colspan="2"><em>3. Fee payable for re-examination under regulation 11(5)</em></td></tr>
+<tr><td>(a) Vehicle in Class VA –</td><td></td></tr>
+<tr><td>(i) with 13 to 16 seats exclusive of driver</td><td>£19·50</td></tr>
+<tr><td>(ii) with 17 to 35 seats exclusive of driver</td><td>£32·00</td></tr>
+<tr><td>(iii) with more than 35 seats exclusive of driver</td><td>£44·00</td></tr>
+<tr><td>(b) Vehicle in Class VIA</td><td>£19·50</td></tr>
+<tr><td colspan="2">4. <em>Fee payable for a full examination under Article 81 of the Order</em></td></tr>
+<tr><td>(a) Vehicle in Class I or II</td><td>£22·00</td></tr>
+<tr><td>(b) Vehicle in Class III or IV</td><td>£30·50</td></tr>
+<tr><td>(c) Vehicle in Class V</td><td>£41·50</td></tr>
+<tr><td>(d) Vehicle in Class VA –</td><td></td></tr>
+<tr><td>(i) with 13 to 16 seats exclusive of driver</td><td>£53·50</td></tr>
+<tr><td>(ii) with 17 to 35 seats exclusive of driver</td><td>£65·00</td></tr>
+<tr><td>(iii) with more than 35 seats exclusive of driver</td><td>£81·00</td></tr>
+<tr><td>(e) Vehicle in Class VI</td><td>£41·50</td></tr>
+<tr><td>(f) Vehicle in Class VIA</td><td>£53·50</td></tr>
+<tr><td>(g) Public service vehicle (not being a taxi)</td><td>£83·00</td></tr>
+<tr><td>(h) Taxi</td><td>£122·00</td></tr>
+<tr><td>(i) Goods vehicle of 3,500 kg maximum gross weight or under</td><td>£30·50</td></tr>
+<tr><td>(j) Goods vehicle over 3,500 kg maximum gross weight</td><td></td></tr>
+<tr><td>(i) 2 axle rigid vehicle</td><td>£37·50</td></tr>
+<tr><td>(ii) 3 axle rigid vehicle</td><td>£48·50</td></tr>
+<tr><td>(iii) 4 axle rigid vehicle</td><td>£60·00</td></tr>
+<tr><td>(iv) articulated vehicle having a 2 axle drawing vehicle</td><td>£42·00</td></tr>
+<tr><td>(v) articulated vehicle having a 3 axle drawing vehicle</td><td>£55·00</td></tr>
+<tr><td>(k) Trailer</td><td></td></tr>
+<tr><td>(i) 1 axle trailer</td><td>£35·00</td></tr>
+<tr><td>(ii) 2 axle trailer</td><td>£36·00</td></tr>
+<tr><td>(iii) 3 axle trailer</td><td>£37·00</td></tr>
+<tr><td colspan="2">5. <em>Fee payable for a test under Article 75(5) of the Order or a partial inspection under Article 81 of the Order</em></td></tr>
+<tr><td>(a) Vehicle in Class I or II</td><td>£14·00</td></tr>
+<tr><td>(b) Vehicle in Class III or IV</td><td>£18·50</td></tr>
+<tr><td>(c) Vehicle in Class V</td><td>£19·50</td></tr>
+<tr><td>(d) Vehicle in Class VI</td><td>£19·50</td></tr>
+<tr><td>(e) Public service vehicle (not being a taxi)</td><td>£19·50</td></tr>
+<tr><td>(f) Taxi</td><td>£19·50</td></tr>
+<tr><td>(g) Goods vehicle of 3,500 kg maximum gross weight or under</td><td>£18·50</td></tr>
+<tr><td>(h) Goods vehicle over 3,500 kg maximum gross weight</td><td>£18·50</td></tr>
+<tr><td>(i) Articulated vehicle</td><td>£19·50</td></tr>
+<tr><td>(j) Trailer</td><td>£19·50</td></tr>
+<tr><td colspan="2">6. <em>Fee payable for a duplicate test certificate</em></td></tr>
+<tr><td>Any vehicle</td><td>£10·00</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASSES I AND II
+
+Regulation 3(1)
+
+**1.**[^key-a66f88f574db4468d5ee617a70dc7e79]
+
+- (a) The requirements contained in the following provisions of the Construction and Use Regulations:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 1 | 20, 21 and 24 | Braking |
+  | 2 | 29, 30, 31 and 32 | Wheels and Tyres |
+  | 3 | 34 | Steering |
+  | 4 | 40 and 41 | Speedometer |
+  | 5 | 44 | Audible Warning Instrument |
+  | 6 | 45 | Sidestands |
+  | 7 | 46 | Petrol Tanks |
+  | 8 | 65 | Silencers |
+  | 9 | 80 | Vehicle Identification Number |
+  | 10 | 82 | Plates |
+- (b) The requirements contained in the following provisions of the Lighting Regulations:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 11 | 21 and 26 | Front Position Lamp |
+  | 12 | 21 and 26 | Dipped Beam Headlamp |
+  | 13 | 21 and 26 | Main Beam Headlamp |
+  | 14 | 21 and 26 | Rear Position Lamp |
+  | 15 | 21 and 26 | Rear Retro Reflector |
+  | 16 | 21 and 26 | Stop Lamp |
+  | 17 | 21 and 26 | Direction Indicator |
+  | 18 | 21 and 26 | Rear Registration Plate Lamp |
+- (c) The requirements contained in the following provisions of the Road Vehicles (Registration and Licensing) Regulations (Northern Ireland) 1973[^f00030]:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 19 | 18, 19, 20 and 21 | Registration Marks |
+
+### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS III
+
+**2.**[^key-581a7c8430a38ef2b50b86ada4b320f9]
+
+- (a) The requirements specified in items 1 to 5, 7 to 9 and 11 to 19, in paragraph 1.
+- (b) The requirements contained in the following provisions of the Construction and Use Regulations:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 20 | 27 | Structure and Suspension |
+  | 21 | 35, 36 and 37 | Glass and Field of Vision |
+  | 22 | 38 | Mirrors |
+  | 23 | 39 | Windscreen Cleaning |
+  | 24 | 54, 55 and 56 | Seat Belts and Anchorages fitted in accordance with the said regulations 54 and 55 |
+  | 25 | 115(1) (insofar as it relates to the condition of the seatbelts and anchorages) | Seat Belts, other than those referred to in item 24 above, and their anchorages |
+  | 26 | 62 | Mascots |
+  | 27 | 79 | Plates |
+- (c) The requirements contained in the following provisions of the Lighting Regulations:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 28 | 21 and 26 | Rear Fog Lamp |
+
+### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS IV
+
+**3.**[^key-6364f850376e8c7e2138c2ccf9ed4f97]
+
+- (a) The requirements specified in items 1 to 5, 7 to 9 and 11 to 28 in paragraphs 1 and 2.
+- (b) The requirements contained in the following provisions of the Construction and Use Regulations:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 29 | 6, 7, 8, 9, 13 and 14 | Dimensions |
+  | 30 | 42 and 83 | Speed Limiter |
+  | 31 | 58 to 61 | Rear Under-run Devices and Sideguards |
+  | 32 | 74 | Emissions |
+- (c) The requirements of the Community Recording Equipment Regulations insofar as they relate to the installation of recording equipment and the seals to be affixed to such equipment.
+
+### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS V
+
+**4.**[^key-4612c8eaea59090f1c13152268cdf201]
+
+- (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30 and 32 in paragraphs 1 to 3.
+- (b) The requirements of paragraph 3(c).
+- (c) The requirements contained in the following provision of the Construction and Use Regulations:
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 33 | 22 | Braking |
+
+### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VA
+
+**5.**[^key-f8829f43b1449ad555c6a12f472f1888]
+
+- (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30, 32 and 33 in paragraphs 1 to 4.
+- (b) The requirements of paragraph 3(c).
+- (c) The requirements contained in the following provision of the Construction and Use Regulations: –
+
+  | Item No. | Regulations | Affecting |
+  | --- | --- | --- |
+  | 34 | 115(1) (insofar as it relates to the manner in which the seat belts and anchorages have been installed including, in the case of a seat which incorporates integral seat belt anchorages, the system by which the seat assembly itself is secured to the vehicle structure and the structure of the frame and legs of the seat) | Seat Belts, other than child restraints, disabled person’s belts or those referred to in item 24 of paragraph 2 above, fitted to forward facing seats, and their anchorages |
+
+### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VI
+
+**6.**[^key-0afe2413d3c7833e5f52feb73c476859]
+
+- (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30, 32 and 33 in paragraphs 1 to 4.
+- (b) For minibuses of a type mentioned in regulation 50 of the Construction and Use Regulations, the requirements specified in Schedules 6 and 7 to those Regulations.
+- (c) The requirements of the Community Recording Equipment Regulations in so far as they relate to the installation of recording equipment and the seals to be attached to such equipment.
+
+### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VIA
+
+**7.**[^key-7021f4c7b60d98de13b8b07f809983c0]
+
+- (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30 and 32 to 34 in paragraphs 1 to 5.
+- (b) The requirements of paragraphs 6(b) and (c).
+
+## SCHEDULE 3 — CONDITION OF VEHICLES[^key-7bdfd614b823ac0e1633957fe203ed57]
+
+Regulation 4
+
+### descriptions of items to which regard shall be given during an examination
+
+- spare wheel carrier;
+- trailer coupling on a motor vehicle;
+- the chassis;
+- electrical wiring and equipment;
+- engine and transmission mountings;
+- fuel tanks and system;
+- transmission shafts and associated equipment;
+- exhaust system;
+- battery;
+- wheels and hubs;
+- suspension system;
+- axles and steering gear;
+- shock absorbers;
+- bumpers;
+- wings;
+- the cab;
+- the body;
+- driver’s controls;
+- cab step or step rings;
+- doors, locks and hinges;
+- seats;
+- seat belts;
+- entrances and exits.
+
+## SCHEDULE 4 — REGULATIONS REVOKED[^key-496a27915c252b8b97c2da8de86a7b58]
+
+Regulation 24
+
+| Title | Year and Number |
+| --- | --- |
+| Motor Vehicle Testing Regulations (Northern Ireland) 1995 | [S. R. 1995 No. 448](https://www.legislation.gov.uk/nisr/1995/448) |
+| Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1996 | [S. R. 1996 No. 140](https://www.legislation.gov.uk/nisr/1996/140) |
+| Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1998 | [S. R. 1998 No. 74](https://www.legislation.gov.uk/nisr/1998/74) |
+| Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 1999 | [S. R. 1999 No. 78](https://www.legislation.gov.uk/nisr/1999/78) |
+| Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2000 | [S. R. 2000 No. 151](https://www.legislation.gov.uk/nisr/2000/151) |
+| Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2001 | [S. R. 2001 No. 246](https://www.legislation.gov.uk/nisr/2001/246) |
+| Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2001 | [S. R. 2001 No. 364](https://www.legislation.gov.uk/nisr/2001/364) |
+| Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2002 | [S. R. 2002 No. 47](https://www.legislation.gov.uk/nisr/2002/47) |
+| Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2003 | [S. R. 2003 No. 101](https://www.legislation.gov.uk/nisr/2003/101) |
+
+(This note is not part of the Regulations.)
+
+These Regulations revoke the Motor Vehicle Testing Regulations (Northern Ireland) 1995 as amended and make provision for the testing of motor vehicles, except goods vehicles and public service vehicles, in Northern Ireland.
+
+The Regulations set out in Schedule 4 are revoked as a consequence of these Regulations (regulation 24).
+
+Any person who acts in contravention of the Regulations shall be guilty of an offence and shall be liable on summary conviction, in the case of a vehicle adapted to carry more than 8 passengers, to a fine not exceeding level 4 on the standard scale (currently £2,500), and in any other case, to a fine not exceeding level 3 on the standard scale (currently £1,000).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); *see* Article 2(2) for the definition of “the Department” and “prescribed”
+
+[^key-005f4c77954ba5f953520532d1e5915d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-5357536bd54572707c6f2cc0c933b2b9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/303/regulation/2) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
+
+[^f00003]: Footnote: [S.R. 1999 No. 454](https://www.legislation.gov.uk/nisr/1999/454); relevant amending Regulations are [S.R. 2001 No. 173](https://www.legislation.gov.uk/nisr/2001/173)
+
+[^f00004]: Footnote: [S.R. 2000 No. 169](https://www.legislation.gov.uk/nisr/2000/169)
+
+[^f00005]: Footnote: Article 2(2) was amended by [S.I. 1981/1117 (N.I. 24)](https://www.legislation.gov.uk/nisi/1981/1117), Art. 3
+
+[^f00006]: Footnote: Article 79A was inserted by Part II of Sch. 3 to [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
+
+[^key-d7934425883f3690b5d594e558fb2aa9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/303/regulation/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-3889be298e1bb5459acfa0a12e4b10ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/303/regulation/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-99ee56df70e6cf41bf0065dffadb6348]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/303/regulation/5) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^f00007]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52)
+
+[^f00008]: Footnote: O.J. No. L220, 29.8.77, p. 95
+
+[^f00009]: Footnote: O.J. No. L139, 19.5.82, p. 17
+
+[^f00010]: Footnote: O.J. No. L341, 6.12.90, p. 1
+
+[^f00011]: Footnote: O.J. No. L178, 17.7.96, p. 15
+
+[^f00012]: Footnote: O.J. No. L24, 30.1.76, p. 6
+
+[^f00013]: Footnote: O.J. No. L209, 29.7.81, p. 30
+
+[^f00014]: Footnote: O.J. No. L319, 19.5.82, p. 9
+
+[^f00015]: Footnote: O.J. No. L341, 6.12.90, p. 14
+
+[^f00016]: Footnote: O.J. No. L187, 26.7.96, p. 95
+
+[^f00017]: Footnote: O.J. No. L42, 23.2.70, p. 1
+
+[^f00018]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14); section 6(1)(a) was amended by paragraph 14 of Schedule 4 to the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40)
+
+[^f00019]: Footnote: Cmnd 2073
+
+[^f00020]: Footnote: Cmnd 2183
+
+[^f00021]: Footnote: Cmnd 2535
+
+[^f00022]: Footnote: Cmnd 3562
+
+[^f00023]: Footnote: By an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963
+
+[^key-bc2959510e69f97df98c498c23cf0fc3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/303/regulation/6) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^f00024]: Footnote: [S.R. & O. (N.I.) 1963 No. 79](https://www.legislation.gov.uk/nisro/1963/79)
+
+[^f00025]: Footnote: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736)
+
+[^f00026]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52)
+
+[^f00027]: Footnote: [S.I. 1997 No. 276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
+
+[^f00028]: Footnote: [S.I. 1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049)
+
+[^f00029]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2)
+
+[^key-e01fccd0d66ae2d7801332e996f8a103]: Textual amendment: [Reg. 6(2)(h)](https://www.legislation.gov.uk/nisr/2003/303/regulation/6/2/h) omitted (24.11.2005) by [The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/409)](https://www.legislation.gov.uk/nisr/2005/409), [regs. 1](https://www.legislation.gov.uk/nisr/2005/409/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/409/regulation/2)
+
+[^key-ea2a7aea3aa9442bc7458e559eb457db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/303/regulation/7) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-71a522a3052335133ba57e6397da7e13]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/303/regulation/8) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-4d3379aec610022538dc406fbe71f3eb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/303/regulation/9) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-59a77f10672a5cbb1878a8424aef1107]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/303/regulation/10) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-d6206643fa3de46e0fb06c5319cdae83]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/303/regulation/11) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-15b5b1d04004a801434ce110157ddfb3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/303/regulation/12) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-3114625408f6bee1403a4fdc666a8bca]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/303/regulation/13) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-b4f005a5f863de808f84dc99c9276336]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/303/regulation/14) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-4bbfd588ab7027745afa07a33cad9ff5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/303/regulation/15) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-145cb874e4bc4c5859fc18ca399567fa]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/303/regulation/16) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-431e220edd03d51f642daa0708dfa39a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/303/regulation/17) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-550b1131c8df1e97ee2cfea1c19ff127]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/303/regulation/18) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-4383ba0efeec00c56aec949fa5336144]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/303/regulation/19) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-b33f80788194b634c457c3cceda352a4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2003/303/regulation/19A) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2004/321/regulation/2)
+
+[^key-7b9406f671a1ba282da86f2406ebf640]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/303/regulation/20) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-429270a2c86c7665e58eeb63247125dd]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/1) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2004/321/regulation/3/2)
+
+[^key-4f7f7a94a98d3598b92ae69f2cab8cce]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/2/a) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2004/321/regulation/3/3)
+
+[^key-52097c0fc5ecf67334bf2c484d4fb5c4]: Textual amendment: [Reg. 20(2)(b)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/2/b) substituted (1.1.2004) by [Motor Vehicles Testing (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/518)](https://www.legislation.gov.uk/nisr/2003/518), [regs. 1](https://www.legislation.gov.uk/nisr/2003/518/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/518/regulation/2)
+
+[^key-ee6dbd1db801b1ce3503c4bc407358e4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/303/regulation/21) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-400e45179687b19b2b0be99fc3bcc6ca]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/303/regulation/22) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-a4484dee4eaa4b09d08a47f3793b2ad3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/303/regulation/23) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-10ab30fbd32cccbb9f9abe6c5b4214ce]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-a25bd57ffd4b3a709c1343323a1b014e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/303/schedule/1) substituted (1.10.2005) by [The Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/404)](https://www.legislation.gov.uk/nisr/2005/404), [regs. 1](https://www.legislation.gov.uk/nisr/2005/404/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/404/regulation/2)
+
+[^key-a66f88f574db4468d5ee617a70dc7e79]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/1) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^f00030]: Footnote: [S.R. & O. 1973 No. 490](https://www.legislation.gov.uk/nisro/1973/490); relevant amending Regulations are [S.I. 1976/2180](https://www.legislation.gov.uk/uksi/1976/2180)
+
+[^key-581a7c8430a38ef2b50b86ada4b320f9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/2) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-6364f850376e8c7e2138c2ccf9ed4f97]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-4612c8eaea59090f1c13152268cdf201]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-f8829f43b1449ad555c6a12f472f1888]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/5) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-0afe2413d3c7833e5f52feb73c476859]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/6) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-7021f4c7b60d98de13b8b07f809983c0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/7) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-7bdfd614b823ac0e1633957fe203ed57]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2003/303/schedule/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+
+[^key-496a27915c252b8b97c2da8de86a7b58]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)

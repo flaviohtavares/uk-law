@@ -1,0 +1,515 @@
+---
+title: The Social Security (Amendment) (New Deal) Regulations (Northern Ireland) 1997
+id: nisr/1997/541
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-12-16'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/541
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/541/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Amendment) (New Deal) Regulations (Northern Ireland) 1997
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 541
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Amendment) (New Deal) Regulations (Northern Ireland) 1997
+
+Made
+
+16th December 1997
+
+Coming into operation
+
+5th January 1998
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by Articles 6(5), 14(4)(*a*) and (*b*), 21(2), (8)(*b*) and (10)(*c*), 22(4) and 36(2) of, and paragraphs 3(*b*) and 14(*a*) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00001] and sections 122(1),129(4), 131(1), 132(4)(*a*) and (*b*), 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 17(1), (2)(*b*), (3), (4)(*b*), (5), (6)(*b*), (7), (8)(*b*), (9), (10)(*b*), (11) and (12)(*b*) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-e18cb38afc4e4ffc4c5f31fbda9cda0c]
+
+(1) These Regulations may be cited as the Social Security (Amendment) (New Deal) Regulations (Northern Ireland) 1997 and shall come into operation on 5th January 1998.
+
+(2) In these Regulations—
+
+- “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00005];
+- “the Family Credit Regulations” means the Family Credit (General) Regulations (Northern Ireland) 1987[^f00006];
+- [^key-99e03c090bb878ccba0c1b0c101b60b3]...
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00008];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Meanings of certain expressions used in the Jobseekers (Northern Ireland) Order 1995[^key-d3c33ca280764daab276b7929dd7ac7f]
+
+In regulation 3 of the Jobseeker’s Allowance Regulations (meanings of certain expressions used in the Order), for the definition of “employment” there shall be substituted the following definition—
+
+> - “employment”, except as provided in regulations 4 and 75, includes any trade, business, profession, office or vocation;
+
+.
+
+## 3. Interpretation of Parts II, IV and V of the Jobseeker’s Allowance Regulations[^key-01847540a8174bbd6be3b1949b984322]
+
+In regulation 4 of the Jobseeker’s Allowance Regulations (interpretation of Parts II, IV and V) in the definition of “employment”—
+
+- (a) “, 21” shall be omitted;
+- (b) for “Parts II, IV and V” there shall be substituted “Parts II and IV”.
+
+## 4. Linking periods[^key-e28e86444911e9c2d0e499605560a3eb]
+
+In regulation 48(2) of the Jobseeker’s Allowance Regulations (linking periods) after sub-paragraph (*e*)[^f00011], there shall be added the following sub-paragraph—
+
+> - (f) any period throughout which the claimant was participating—
+>   - (i) in the Employment Option of the New Deal as specified in regulation 75(1)(*a*)(i)[^f00012];
+>   - (ii) either in the Voluntary Sector Option of the New Deal as specified in regulation 75(1)(*a*)(ii) or in the Environmental Task Force Option of the New Deal as specified in regulation 75(1)(*a*)(iii) and was not entitled to a jobseeker’s allowance because, as a consequence of his participation in either of those options, the claimant was engaged in remunerative work or failed to satisfy the condition specified either in Article 4(1)(*c*) or Article 5(1)(*a*) of the Order.
+
+.
+
+## 5. Relevant education[^key-1266857cbd5b43b744dbc63c572179f2]
+
+At the end of regulation 54 of the Jobseeker’s Allowance Regulations (relevant education) there shall be added the following paragraph—
+
+> (5) A young person who is participating in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(*b*)(ii) shall not be treated as receiving relevant education.
+
+.
+
+## 6. Prescribed period for the purposes of Article 21(2) of the Jobseekers (Northern Ireland) Order 1995[^key-3c5ad1c3bd01fd4f3a9d1aaeacb53d5e]
+
+In regulation 69(*a*) of the Jobseeker’s Allowance Regulations (prescribed period for the purposes of Article 21(2) of the Order) for sub-paragraph (ii) there shall be substituted the following sub-paragraph—
+
+> - (ii) either—
+>   - (aa) where the determination mentioned in (i) does not relate to an employment programme specified in regulation 75(1)(*a*), or the training scheme specified in regulation 75(1)(*b*)(ii), on a previous occasion the jobseeker’s allowance was determined not to be payable to him in circumstances falling within Article 21(5) of the Order (circumstances in which a jobseeker’s allowance is not payable), or
+>   - (bb) where the determination mentioned in (i) relates to an employment programme specified in regulation 75(1)(*a*), or the training scheme specified in regulation 75(1)(*b*)(ii), on a previous occasion the jobseeker’s allowance was determined not to be payable to him in circumstances falling within Article 21(5) of the Order that relate to such a programme or scheme, and
+
+.
+
+## 7. Good cause for the purposes of Article 21(5)(b) of the Jobseekers (Northern Ireland) Order 1995[^key-8d40c07ca70ff02299b05cba53c24ff6]
+
+In regulation 73 of the Jobseeker’s Allowance Regulations (good cause for the purposes of Article 21(5)(b) of the Order) after paragraph (2) there shall be inserted the following paragraph—
+
+> (2A) Without prejudice to any other circumstances in which a person may be regarded as having good cause for any act or omission for the purposes of Article 21(5)(b) of the Order, a person is to be regarded as having good cause for any act or omission for those purposes if—
+>
+> - (a) the act or omission relates to an employment programme specified in regulation 75(1)(*a*) or the training scheme specified in regulation 75(1)(*b*)(ii), and
+> - (b) he had not, prior to that act or omission been given or sent a notice in writing by an employment officer referring to the employment programme or training scheme in question (“the specified programme”) and advising him that if any of the circumstances mentioned in Article 21(5)(b) of the Order arise in his case in relation to the specified programme his jobseeker’s allowance could cease to be payable or could be payable at a lower rate.
+
+.
+
+## 8. Interpretation of Article 21 of the Jobseekers (Northern Ireland) Order 1995 and Part V of the Jobseeker’s Allowance Regulations[^key-d99ee9b65dc47724498d7c9c30f8e8ff]
+
+For regulation 75 of the Jobseeker’s Allowance Regulations (interpretation) there shall be substituted the following regulation—
+
+> **75. Interpretation**
+>
+> (1) For the purposes of Article 21 of the Order (circumstances in which a jobseeker’s allowance is not payable) and of this Part—
+>
+> - (a) “an employment programme” means any one of the following programmes, provided in pursuance of arrangements made by or on behalf of the Department of Economic Development under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00013] and for which only persons who are aged 18 years or over and less than 26 years immediately prior to entry may be eligible, known as—
+>   - (i) the Employment Option of the New Deal, being a programme which lasts for any individual for up to 26 weeks and which includes for that individual employed earner’s employment, training and support;
+>   - (ii) the Voluntary Sector Option of the New Deal, being a programme which lasts for any individual for up to 6 months and which includes for that individual employed earner’s employment or a work placement combined in either case with training, support and job search;
+>   - (iii) the Environmental Task Force Option of the New Deal, being a programme which lasts for any individual for up to 6 months and which includes for that individual employed earner’s employment or a work placement combined in either case with training, support and job search.
+> - (b) “a training scheme” means—
+>   - (i) a scheme for training for which persons aged less than 18 years are eligible and for which persons aged 18 years or over and less than 25 years may be eligible, provided in Northern Ireland directly or indirectly by a Training Organisation pursuant to its arrangement with the Department of Economic Development (whether that arrangement is known as an Operating Agreement or by any other name), and
+>   - (ii) the scheme, provided in pursuance of arrangements made by or on behalf of the Department of Economic Development under section 1 of the Employment and Training Act (Northern Ireland) 1950 and for which only persons who are aged 18 years or over and less than 26 years immediately prior to entry may be eligible, known as the Full-Time Education and Training Option of the New Deal, being a scheme which lasts for any individual for up to one year and which includes for that individual some or all of the following, namely education, training, work experience and support in job search skills.
+>
+> (2) In Article 21 of the Order, except paragraph (2), and in this Part, except regulation 69 (prescribed period) and the first occasion on which the word occurs in regulation 72(5A)(*a*)[^f00014], “week” means any period of 7 consecutive days.
+>
+> (3) In Article 21(2) of the Order, regulation 69 and the first occasion on which the word occurs in regulation 72(5A)(*a*), “week” means benefit week.
+>
+> (4) In Article 21 of the Order, except paragraph (9), and in this Part, “employment” means employed earner’s employment other than such employment in which a person is employed whilst participating in an employment programme falling within paragraph (1)(*a*); and “employed earner” shall be construed accordingly.
+>
+> (5) In Article 21(9) of the Order, “employment” means employed earner’s employment.
+
+.
+
+## 9. Notional Income[^key-36545c4a9d55cf8cfd643bd620f052e4]
+
+In regulation 105 of the Jobseeker’s Allowance Regulations (notional income)—
+
+- (a) in paragraph (10) after “(concessionary coal)”[^f00015] there shall be inserted “or to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of a person’s participation in an employment programme specified in regulation 75(1)(*a*) or in a training scheme specified in regulation 75(1)(*b*)(ii)”;
+- (b) in paragraph (13) after “free of charge” there shall be added “or in a case where the service is performed in connection with the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(*p*)”.
+
+## 10. Notional Capital[^key-567880eb1dbc196ddd1bf2cdf65508d3]
+
+In regulation 113(3) of the Jobseeker’s Allowance Regulations (notional capital) after “Independent Living Funds” there shall be inserted “or pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of a person’s participation in an employment programme specified in regulation 75(1)(*a*) or in a training scheme specified in regulation 75(1)(*b*)(ii)”.
+
+## 11. Meaning of “person in hardship”[^key-8640ddc5b170a9dabd4c20dda932582a]
+
+In regulation 140 of the Jobseeker’s Allowance Regulations (meaning of “person in hardship”)—
+
+- (a) in paragraph (2) after “paragraph (3)” there shall be inserted “or (4A)”;
+- (b) after paragraph (4) there shall be inserted the following paragraph—
+
+  > (4A) In paragraph (2), a “person in hardship” does not include a claimant to whom Article 21(5)(*b*) or (*c*) of the Order (circumstances in which a jobseeker’s allowance is not payable) applies by virtue of any act or omission relating to an employment programme specified in regulation 75(1)(*a*) or to the training scheme specified in regulation 75(1)(*b*)(ii).
+
+  .
+
+## 12. Period when a person is not a person in hardship[^key-a1ad92f96543c7a13b6656b2d252e038]
+
+(1) After regulation 140 of the Jobseeker’s Allowance Regulations there shall be inserted the following regulation—
+
+> **140A. Period when a person is not a person in hardship**
+>
+> (1) A claimant who is not a person in hardship by virtue of regulation 140(4A)[^f00016] shall not be a person in hardship throughout the period of—
+>
+> - (a) 4 weeks in a case to which regulation 69(*a*)[^f00017] (prescribed period for the purposes of Article 21(2) of the Order) applies, or
+> - (b) 2 weeks in any other case,
+>
+> beginning on, and including, the day from which the decision that Article 21(5)(*b*) or (*c*) of the Order (circumstances in which a jobseeker’s allowance is not to be payable) applies by virtue of an act or omission specified in regulation 140(4A) (“the New Deal decision”), has effect by virtue of regulation 69 or, as the case may be, by virtue of regulation 56A(6) of the Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00018] (jobseeker’s allowance questions not immediately determinable).
+>
+> (2) Where a claimant who is not a person in hardship by virtue of regulation 140(4A) was a person in hardship for the purposes of regulation 142 (further circumstances in which an income-based jobseeker’s allowance is payable to a person in hardship) immediately before the commencement of the period referred to in paragraph (1), that claimant shall, subject to paragraph (3), again become a person in hardship for the purposes of regulation 142 on the day following the expiration of that period.
+>
+> (3) A claimant to whom paragraph (2) applies shall not again become a person in hardship for the purposes of regulation 142 if—
+>
+> - (a) the day following the day the period referred to in paragraph (1) expires is a day within a period in respect of which a subsequent New Deal decision applies by virtue of paragraph (1), or
+> - (b) on the day following the expiry of the period referred to in paragraph (1), he is not a person in hardship for the purposes of regulation 142.
+
+.
+
+## 13. Housing costs[^key-484baee3021a97650a9f3553ae07ac0a]
+
+(1) Schedule 2 to the Jobseeker’s Allowance Regulations (housing costs) shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In paragraph 4 (housing costs not met) after sub-paragraph (4) there shall be inserted the following sub-paragraph—
+
+> (4A) For the purposes of sub-paragraph (4), a person shall be treated as entitled to a jobseeker’s allowance during any period when he or his partner was not so entitled because—
+>
+> - (a) that person or his partner was participating in an employment programme specified in regulation 75(1)(*a*), and
+> - (b) in consequence of such participation that person, or his partner, was engaged in remunerative work or failed to satisfy the condition specified either in Article 4(1)(*c*) or in Article 5(1)(*a*) of the Order.
+
+.
+
+(3) In paragraph 13 (linking rule)—
+
+- (a) after sub-paragraph (1)(*e*) there shall be inserted the following head—
+
+  > - (ee) Where the claimant—
+  >   - (i) is a member of a couple or a polygamous marriage and the claimant’s partner was, immediately before the participation by any member of that couple or polygamous marriage in an employment programme specified in regulation 75(1)(*a*), in receipt of income-based jobseeker’s allowance and his applicable amount included an amount for the couple or for the partners of the polygamous marriage, and
+  >   - (ii) has, immediately after that participation in that programme, begun to receive income-based jobseeker’s allowance as a result of an election under regulation 4(3B) of the Claims and Payments Regulations[^f00019] by the members of the couple or polygamous marriage,
+  >
+  >   the claimant shall be treated as having been in receipt of a jobseeker’s allowance for the same period as his partner had been or had been treated, for the purposes of this Schedule, as having been;
+
+  ;
+- (b) after sub-paragraph (3) there shall be inserted the following sub-paragraph—
+
+  > (3A) For the purposes of this Schedule, a claimant who has ceased to be entitled to a jobseeker’s allowance because—
+  >
+  > - (a) that claimant or his partner was participating in an employment programme specified in regulation 75(1)(*a*), and
+  > - (b) in consequence of such participation the claimant or his partner was engaged in remunerative work or failed to satisfy the condition specified either in Article 4(1)(c) or Article 5(1)(a) of the Order,
+  >
+  > shall be treated as if he had been in receipt of a jobseeker’s allowance for the period during which he or his partner was participating in that programme.
+
+  ;
+- (c) in sub-paragraph (4) for “(1) and (3)” there shall be substituted “(1), (3) and (3A)”.
+
+## 14. Income to be disregarded[^key-d016aabef4b4352890df27644d37444b]
+
+In Schedule 6 to the Jobseeker’s Allowance Regulations (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 14—
+  - (i) after sub-paragraph (*c*) there shall be added the following sub-paragraph—
+
+    > - (d) any child care expenses reimbursed to the claimant in respect of his participation in an employment programme specified in regulation 75(1)(*a*) or in a training scheme specified in regulation 75(1)(*b*)(ii),
+
+    ;
+  - (ii) for “(*b*) or (*c*)” there shall be substituted “(*b*), (*c*) or (*d*)”;
+- (b) after paragraph 57[^f00020] there shall be added the following paragraphs—
+
+  > **58.** Any mandatory top-up payment made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Voluntary Sector Option of the New Deal as specified in regulation 75(1)(*a*)(ii) or in the Environmental Task Force Option of the New Deal as specified in regulation 75(1)(*a*)(iii).
+  >
+  > **59.** Any discretionary payment to meet, or to help to meet, special needs, made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(*b*)(ii).
+
+  .
+
+## 15. Capital to be disregarded[^key-c42fdd1c7b78b23599fab1e6a62f22a5]
+
+In Schedule 7 to the Jobseeker’s Allowance Regulations (capital to be disregarded), after paragraph 42 there shall be added the following paragraphs—
+
+> **43.** Any mandatory top-up payment made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Voluntary Sector Option of the New Deal as specified in regulation 75(1)(*a*)(ii) or in the Environmental Task Force Option of the New Deal as specified in regulation 75(1)(*a*)(iii) but only for a period of 52 weeks from and including the date of receipt of the payment.
+>
+> **44.** Any discretionary payment to meet, or to help to meet, special needs made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(*b*)(ii) but only for a period of 52 weeks from and including the date of receipt of the payment.
+
+.
+
+## 16. Amendment of Schedule 3 to the Income Support Regulations[^key-88987e387da1946824b858e320a4db14]
+
+(1) Schedule 3 to the Income Support Regulations[^f00021] (housing costs) shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In paragraph 4 (housing costs not met), after sub-paragraph (4) there shall be inserted the following sub-paragraph—
+
+> (4A) For the purposes of sub-paragraph (4), a person shall be treated as entitled to income support during any period when he or his partner was not so entitled because—
+>
+> - (a) that person or his partner was participating in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00022], and
+> - (b) in consequence of such participation that person, or his partner, was engaged in remunerative work or had an income in excess of the claimant’s applicable amount as prescribed in Part IV.
+
+.
+
+(3) In paragraph 14 (linking rule)—
+
+- (a) after sub-paragraph (1)(*e*) there shall be inserted the following head—
+
+  > - (ee) where the claimant—
+  >   - (i) is a member of a couple or a polygamous marriage and the claimant’s partner was, immediately before the participation by any member of that couple or polygamous marriage in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance (Northern Ireland) Regulations 1996, in receipt of income support and his applicable amount included an amount for the couple or for the partners of the polygamous marriage, and
+  >   - (ii) has, immediately after that participation in that programme, begun to receive income support as a result of an election under regulation 4(3) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00023] by the members of the couple or polygamous marriage,
+  >
+  >   the claimant shall be treated as having been in receipt of income support for the same period as his partner had been or had been treated, for the purposes of this Schedule, as having been;
+
+  ;
+- (b) after sub-paragraph (3) there shall be inserted the following sub-paragraph—
+
+  > (3ZA) For the purposes of this Schedule, a claimant who has ceased to be entitled to income support because—
+  >
+  > - (a) that claimant or his partner was participating in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996, and
+  > - (b) in consequence of such participation the claimant or his partner was engaged in renumerative work or had an income in excess of the claimant’s applicable amount as prescribed in Part IV (applicable amounts),
+  >
+  > shall be treated as if he had been in receipt of income support for the period during which he or his partner was participating in that programme.
+
+  ;
+- (c) in sub-paragraph (3A)[^f00024], for “(1) and (3)” there shall be substituted “(1), (3) and (3ZA)”;
+- (d) after sub-paragraph (3A) there shall be inserted the following sub-paragraph—
+
+  > (3B) For the purposes of this Schedule, in determining whether a person is entitled to or to be treated as entitled to income support, entitlement to a contribution-based jobseeker’s allowance immediately before a period during which that person or his partner is participating in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 shall be treated as entitlement to income support for the purposes of any requirement that a person is, or has been, entitled to income support for any period of time.
+
+  .
+
+## 17. Common amendments[^key-90cea092b9752eca3bb9ba51a7e78948]
+
+(1) In each of the regulations specified in paragraph (2), after “(concessionary coal)”[^f00025] there shall be inserted “or to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of a person’s participation in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in a training scheme specified in regulation 75(1)(*b*)(ii) of those Regulations”.
+
+(2) The regulations to which paragraph (1) refers (which relate to notional income) are —
+
+- (a) regulation 42(4) of the Income Support Regulations;
+- (b)[^key-09b459fc08d5269591ebd55115cd263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 26(3) of the Family Credit Regulations;
+- (d) regulation 29(3) of the Disability Working Allowance Regulations.
+
+(3) In each of the regulations specified in paragraph (4), after “free of charge” there shall be added “or in a case where the service is performed in connection with the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(*p*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996”.
+
+(4) The regulations to which paragraph (3) refers (which relate to notional earnings) are—
+
+- (a) regulation 42(6) of the Income Support Regulations;
+- (b)[^key-180985fe890684d5e341fcb9192b0b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 26(4) of the Family Credit Regulations;
+- (d) regulation 29(4) of the Disability Working Allowance Regulations.
+
+(5) In each of the regulations specified in paragraph (6), after “Independent Living Funds”[^f00026] there shall be inserted “or pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of a person’s participation in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in a training scheme specified in regulation 75(1)(*b*)(ii) of those Regulations”.
+
+(6) The regulations to which paragraph (5) refers (which relate to notional capital) are—
+
+- (a) regulation 51(3) of the Income Support Regulations;
+- (b)[^key-2f41f7bce6b4c220cc9c038e89da7e34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 34(3) of the Family Credit Regulations;
+- (d) regulation 37(3) of the Disability Working Allowance Regulations.
+
+(7) In each specified paragraph of the Schedules specified in paragraph (8) (which relate to sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) after sub-paragraph (*c*) there shall be added the following sub-paragraph—
+
+  > - (d) any child care expenses reimbursed to the claimant in respect of his participation in an employment programme specified in regulation 75(1)(*a*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in a training scheme specified in regulation 75(1)(*b*)(ii) of those Regulations,
+
+  ;
+- (b) for “(*b*) or (*c*)” there shall be substituted “(*b*), (*c*) or (*d*).”
+
+(8) The respective paragraph number and Schedules for the purposes of paragraph (7) are—
+
+- (a) paragraph 13 of Schedule 9 to the Income Support Regulations[^f00027];
+- (b)[^key-809e2632e0638a4d1a74368d0d3d35e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraph 11 of Schedule 2 to the Family Credit Regulations[^f00029];
+- (d) paragraph 11 of Schedule 3 to the Disability Working Allowance Regulations.
+
+(9) At the end of the Schedules specified in paragraph (10) (which relate to sums to be disregarded in the calculation of income other than earnings) there shall be added the following paragraphs bearing the specified respective paragraph numbers—
+
+> - Any mandatory top-up payment made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Voluntary Sector Option of the New Deal as specified in regulation 75(1)(*a*)(ii) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in the Environmental Task Force Option of the New Deal as specified in regulation 75(1)(*a*)(iii) of those Regulations.
+> - Any discretionary payment to meet, or to help meet, special needs made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(*b*)(ii) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+.
+
+(10) The respective paragraph numbers and Schedules for the purposes of paragraph (9)—
+
+- (a) paragraphs 60 and 61 of Schedule 9 to the Income Support Regulations[^f00030];
+- (b)[^key-eee58b53d1b92e72649bcdcfa1692133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraphs 58 and 59 of Schedule 2 to the Family Credit Regulations[^f00032];
+- (d) paragraphs 56 and 57 of Schedule 3 to the Disability Working Allowance Regulations[^f00033].
+
+(11) At the end of each of the Schedules specified in paragraph (12) (which relate to capital to be disregarded) there shall be added the following paragraphs bearing the specified respective paragraph numbers—
+
+> - Any mandatory top-up payment made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Voluntary Sector Option of the New Deal as specified in regulation 75(1)(*a*)(ii) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 or in the Environmental Task Force Option of the New Deal as specified in regulation 75(1)(*a*)(iii) of those Regulations but only for a period of 52 weeks from and including the date of receipt of the payment.
+> - Any discretionary payment to meet, or to help meet, special needs made to a person pursuant to section 1 of the Employment and Training Act (Northern Ireland) 1950 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(*b*)(ii) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 but only for a period of 52 weeks from and including the date of receipt of the payment.
+
+.
+
+(12) The respective paragraph numbers and Schedules for the purposes of paragraph (11) are—
+
+- (a) paragraphs 48 and 49 of Schedule 10 to the Income Support Regulations[^f00034];
+- (b)[^key-8cddeeb16ead51d95c7256912a6a2316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraphs 50 and 51 of Schedule 3 to the Family Credit Regulations[^f00036];
+- (d) paragraphs 49 and 50 of Schedule 4 to the Disability Working Allowance Regulations[^f00037].
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+16th December 1997.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 17(1), (2)(*b*), (3), (4)(*b*), (5), (6)(*b*), (7), (8)(*b*), (9), (10)(*b*), (11) and (12)(*b*) of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+R. E. Aiken
+
+Assistant Secretary
+
+16th December 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”), the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”), the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Family Credit (General) Regulations (Northern Ireland) 1987 and the Disability Working Allowance (General) Regulations (Northern Ireland) 1992.
+
+In particular, they amend the Jobseeker’s Allowance Regulations by substituting a new regulation 75 into those Regulations (regulation 8). Regulation 75 is an interpretation provision. It prescribes employment programmes and training schemes for the purposes of Article 21 of the Jobseekers (Northern Ireland) Order 1995 (“the Jobseekers Order”) and the Jobseeker’s Allowance Regulations. The effect is that if a person, without good cause, refuses or fails to participate in one of those programmes or schemes, or loses his place on one of those programmes or schemes due to misconduct, he will receive a sanction under Article 21 of the Jobseekers Order. The employment programmes and the training scheme which are prescribed in regulation 75 for the first time by these Regulations are those set out in regulation 75(1)(*a*)—known as the Employment Option of the New Deal, the Voluntary Sector Option of the New Deal and the Environmental Task Force Option of the New Deal—and regulation 75(1)(*b*)(ii)—known as the Full-Time Education and Training Option of the New Deal.
+
+These Regulations also amend regulation 69 of the Jobseeker’s Allowance Regulations to provide a different period for a sanction that is applied in relation to one of the new employment programmes and the new training scheme (regulation 6), and they provide an additional case, applicable in relation to the new employment programmes and the new training scheme, where a person is to be regarded as having good cause for the purposes of Article 21(5)(*b*) of the Jobseekers Order (regulation 7).
+
+The Regulations also allow claims for jobseeker’s allowance separated by periods on certain New Deal programmes to link (regulation 4) and for people on the Full-Time Education and Training Option of the New Deal not to be treated as receiving relevant education (regulation 5).
+
+Where a person may not be entitled to a jobseeker’s allowance as a result of any act or omission whilst on a New Deal programme or scheme, regulation 11 amends the Jobseeker’s Allowance regulations so as to provide that such a person shall not be a person in hardship. Regulation 12 amends those Regulations so as to prescribe the period during which such a person shall not be a person in hardship.
+
+These Regulations also amend both the Jobseeker’s Allowance Regulations (regulation 13) and the Income Support Regulations (regulation 16) by allowing certain periods of participation in the New Deal to be treated as periods of entitlement to those benefits for the purpose of applying the rules on payment of housing costs in those benefits.
+
+These Regulations also make various amendments to the rules on the treatment of income and capital in the benefits referred to in the first paragraph above which are consequential on the introduction of the New Deal—
+
+- (a) they provide that certain payments made to providers pursuant to the New Deal shall not be treated as either notional income (regulations 9(*a*) and 17(1) and (2)) or as notional capital of the participant (regulations 10 and 17(5) and (6));
+- (b) they provide that where a claimant performs a service in connection with the claimant’s participation in an employment programme for not less than three days in a week and a training allowance is not paid, he shall not be attributed with notional earnings (regulations 9(*b*) and 17(3) and (4));
+- (c) they provide that certain payments of child care expenses reimbursed in respect of a claimant’s participation in the New Deal shall be disregarded (regulations 14(*a*) and 17(7) and (8));
+- (d) they provide that certain other payments made to New Deal participants shall be disregarded both as income other than earnings (regulation 14(*b*) and 17(9) and (10)) and as capital (regulations 15 and 17(11) and (12)).
+
+In so far as these Regulations are required, for the purposes of regulation 17(1), (2)(*b*), (3), (4)(*b*), (5), (6)(*b*), (7), (8)(*b*), (9), (10)(*b*), (11) and (12)(*b*) to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-e18cb38afc4e4ffc4c5f31fbda9cda0c]: Commencement: Reg. 1 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1992 No 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending Regulations are [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195), [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^f00006]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1988 No. 387](https://www.legislation.gov.uk/nisr/1988/387), [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195), [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^key-99e03c090bb878ccba0c1b0c101b60b3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195), [S.R. 1995 Nos. 301](https://www.legislation.gov.uk/nisr/1995/301) and [434](https://www.legislation.gov.uk/nisr/1995/434), [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^f00009]: Footnote: [S.R. 1996 No 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22), [130](https://www.legislation.gov.uk/nisr/1997/130) and [412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-d3c33ca280764daab276b7929dd7ac7f]: Commencement: Reg. 2 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-01847540a8174bbd6be3b1949b984322]: Commencement: Reg. 3 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-e28e86444911e9c2d0e499605560a3eb]: Commencement: Reg. 4 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00011]: Footnote: Sub-paragraph (*e*) was added by regulation 2(8)(*e*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00012]: Footnote: Regulation 75 is substituted by regulation 8 of these Regulations
+
+[^key-1266857cbd5b43b744dbc63c572179f2]: Commencement: Reg. 5 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-3c5ad1c3bd01fd4f3a9d1aaeacb53d5e]: Commencement: Reg. 6 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-8d40c07ca70ff02299b05cba53c24ff6]: Commencement: Reg. 7 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-d99ee9b65dc47724498d7c9c30f8e8ff]: Commencement: Reg. 8 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00013]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))
+
+[^f00014]: Footnote: Paragraph (5A) was inserted by regulation 5(4)(*b*) of [S.R. 1997 No. 130](https://www.legislation.gov.uk/nisr/1997/130)
+
+[^key-36545c4a9d55cf8cfd643bd620f052e4]: Commencement: Reg. 9 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00015]: Footnote: Words inserted by regulation 7 of [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^key-567880eb1dbc196ddd1bf2cdf65508d3]: Commencement: Reg. 10 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-8640ddc5b170a9dabd4c20dda932582a]: Commencement: Reg. 11 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-a1ad92f96543c7a13b6656b2d252e038]: Commencement: Reg. 12 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00016]: Footnote: Paragraph (4A) is inserted by regulation 11(*b*) of these Regulations
+
+[^f00017]: Footnote: Regulation 69(*a*)(ii) is amended by regulation 6 of these Regulations
+
+[^f00018]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293); regulation 56A was inserted by regulation 2(3) of [S.R. 1996 No. 355](https://www.legislation.gov.uk/nisr/1996/355)
+
+[^key-484baee3021a97650a9f3553ae07ac0a]: Commencement: Reg. 13 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); paragraph (3B) was inserted by regulation 2(4)(*a*) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^key-d016aabef4b4352890df27644d37444b]: Commencement: Reg. 14 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00020]: Footnote: Paragraphs 56 and 57 were added by regulation 2(3)(*b*) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^key-c42fdd1c7b78b23599fab1e6a62f22a5]: Commencement: Reg. 15 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^key-88987e387da1946824b858e320a4db14]: Commencement: Reg. 16 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00021]: Footnote: Schedule 3 was substituted by Schedule 1 of [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^f00022]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^f00023]: Footnote: Paragraph (3) was amended by [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449)
+
+[^f00024]: Footnote: Sub-paragraph (3A) was inserted by regulation 2(3)(i) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
+
+[^key-90cea092b9752eca3bb9ba51a7e78948]: Commencement: Reg. 17 in operation at 5.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/541/regulation/1/1)
+
+[^f00025]: Footnote: Words inserted by regulation 7 of [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412)
+
+[^key-09b459fc08d5269591ebd55115cd263a]: Textual amendment: [Reg. 17(2)(b)](https://www.legislation.gov.uk/nisr/1997/541/regulation/17/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-180985fe890684d5e341fcb9192b0b85]: Textual amendment: [Reg. 17(4)(b)](https://www.legislation.gov.uk/nisr/1997/541/regulation/17/4/b) revoked (3.4.2000) by [The Social Security (Approved Work) Regulations (Northern Ireland) 2000 (S.R. 2000/109)](https://www.legislation.gov.uk/nisr/2000/109), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2000/109/regulation/10)
+
+[^f00026]: Footnote: Words substituted by [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195)
+
+[^key-2f41f7bce6b4c220cc9c038e89da7e34]: Textual amendment: [Reg. 17(6)(b)](https://www.legislation.gov.uk/nisr/1997/541/regulation/17/6/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00027]: Footnote: Paragraph 13 was substituted by [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387)
+
+[^key-809e2632e0638a4d1a74368d0d3d35e7]: Textual amendment: [Reg. 17(8)(b)](https://www.legislation.gov.uk/nisr/1997/541/regulation/17/8/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00029]: Footnote: Paragraph 11 was substituted by [S.R. 1988 No. 387](https://www.legislation.gov.uk/nisr/1988/387)
+
+[^f00030]: Footnote: Paragraph 59 was added by [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^key-eee58b53d1b92e72649bcdcfa1692133]: Textual amendment: [Reg. 17(10)(b)](https://www.legislation.gov.uk/nisr/1997/541/regulation/17/10/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00032]: Footnote: Paragraph 57 was added by [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00033]: Footnote: Paragraph 55 was added by [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^f00034]: Footnote: Paragraph 47 was added by [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449)
+
+[^key-8cddeeb16ead51d95c7256912a6a2316]: Textual amendment: [Reg. 17(12)(b)](https://www.legislation.gov.uk/nisr/1997/541/regulation/17/12/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00036]: Footnote: Paragraph 49 was added by [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622)
+
+[^f00037]: Footnote: Paragraph 48 was added by [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622)

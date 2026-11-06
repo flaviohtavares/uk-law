@@ -1,0 +1,248 @@
+---
+title: The Social Security (Amendment) (Lone Parents) Regulations (Northern Ireland) 1998
+id: nisr/1998/112
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1998-03-18'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/112
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/112/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Amendment) (Lone Parents) Regulations (Northern Ireland) 1998
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 112
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Amendment) (Lone Parents) Regulations (Northern Ireland) 1998
+
+Made
+
+18th March 1998
+
+Coming into operation
+
+6th April 1998
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*) and (*d*), 129(2) and (4), 131(1), 132(4)(*b*), 133(2)(*i*) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5), 14(2) and (4)(*b*) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as relates to regulations 2, 3, 4, 5, 6 and 7 of these Regulations, and without having referred any proposals on the matter to the Social Security Advisory Committee since it appears to the Department of Health and Social Services for Northern Ireland that by reason of the urgency of the matter it is inexpedient to do so[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-270fcce33c5586fa4a59ae01a5f14987]
+
+(1) These Regulations may be cited as the Social Security (Amendment) (Lone Parents) Regulations (Northern Ireland) 1998 and, subject to paragraph 2, shall come into operation on 6th April 1998.
+
+(2) To the extent that Regulation 4(*c*) of the Housing Benefit (General) (Amendment) Regulations (Northern Ireland) 1998[^f00005] comes into operation on 6th April 1998, regulation 5 of these Regulations shall come into operation immediately after that regulation 4(*c*).
+
+(3) In these Regulations—
+
+- [^key-8f0efc45d09c98708e461f38e468d8c8]...[^f00006]
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00007];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00008];
+- “the Up-rating Order” means the Social Security Benefits Up-rating Order (Northern Ireland) 1998[^f00009]
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Revocation[^key-b337734d881675f9ace66a2e84eb8c1d]
+
+The Social Security (Lone Parents) (Amendment) Regulations (Northern Ireland) 1997[^f00011] are hereby revoked.
+
+## 3. Housing benefit: students who are treated as liable to make payments in respect of a dwelling[^key-586a6a50f490d0da40a5fb2a781197e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Housing benefit: exclusions from reductions in the amounts of eligible rent relating to students[^key-586a6a50f490d0da40a5fb2a781197e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Housing benefit: amendment of provisions relating to family premium[^key-586a6a50f490d0da40a5fb2a781197e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Housing benefit: disregard of certain sums in the calculation of a lone parent’s earnings[^key-586a6a50f490d0da40a5fb2a781197e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Housing benefit: conditions for an extended payment[^key-586a6a50f490d0da40a5fb2a781197e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Income support: amendment of provisions relating to family premium[^key-2377f0c974c16de84090ca16ce80ba29]
+
+In Schedule 2 to the Income Support Regulations (applicable amounts), paragraph 3[^f00017] (family premium) shall be renumbered paragraph 3(1) and—
+
+- (a) in the renumbered sub-paragraph (1)(*a*) after “lone parent” there shall be inserted “to whom the conditions in both sub-paragraphs (2) and (3) apply”;
+- (b) after sub-paragraph (1) there shall be inserted the following sub-paragraphs—
+
+  > (2) The first condition for the purposes of sub-paragraph (1)(*a*) is that the claimant—
+  >
+  > - (a) was both a lone parent and entitled to income support on 5th April 1998; or
+  > - (b) does not come within head (*a*) but—
+  >   - (i) was both a lone parent and entitled to income support on any day during the period of 12 weeks ending on 5th April 1998;
+  >   - (ii) was both a lone parent and entitled to income support on any day during the period of 12 weeks commencing on and including 6th April 1998, and
+  >   - (iii) the last day in respect of which paragraph (i) applied was no more than 12 weeks before the first day in respect of which paragraph (ii) applied.
+  >
+  > (3) The second condition for the purposes of sub-paragraph (1)(*a*) is that as from and including the appropriate date specified in sub-paragraph (4), the claimant has continued, subject to sub-paragraph (5), to be both a lone parent and entitled to income support.
+  >
+  > (4) The appropriate date for the purposes of sub-paragraph (3) is—
+  >
+  > - (a) in a case to which sub-paragraph (2)(*a*) applies, 6th April 1998;
+  > - (b) in a case to which sub-paragraph (2)(*b*) applies, the first day in respect of which sub-paragraph (2)(*b*)(ii) applied.
+  >
+  > (5) For the purposes of sub-paragraph (3), where the claimant has ceased, for any period of 12 weeks or less, to be—
+  >
+  > - (a) a lone parent;
+  > - (b) entitled to income support; or
+  > - (c) both a lone parent and entitled to income support,
+  >
+  > the claimant shall be treated, on again becoming both a lone parent and entitled to income support, as having continued to be both a lone parent and entitled to income support throughout that period.
+  >
+  > (6) In determining whether the conditions in sub-paragraphs (2) and (3) apply, entitlement to an income-based jobseeker’s allowance shall be treated as entitlement to income support for the purposes of any requirement that a person is entitled to income support.
+
+  .
+
+## 9. Income support: disregard of certain sums in the calculation of a lone parent’s earnings[^key-15b1a6811836317df1045b0b6a3f765a]
+
+In Schedule 8 to the Income Support Regulations, for paragraph 5[^f00018] (disregard of certain sums in the calculation of a lone parent’s earnings) there shall be substituted the following paragraph—
+
+> **5.** In a case where the claimant is a lone parent and paragraph 4 does not apply, £15.
+
+.
+
+## 10. Jobseeker’s allowance: amendment of provisions relating to family premium[^key-789208d28c3c68d9e5e26d12e7fb909f]
+
+In Schedule 1 to the Jobseeker’s Allowance Regulations (applicable amounts), paragraph 4[^f00019] (family premium) shall be renumbered paragraph 4(1) and—
+
+- (a) in the renumbered sub-paragraph (1)(*a*)—
+  - (i) after “lone parent” there shall be inserted “to whom the conditions in both sub-paragraphs (2) and (3) apply”;
+  - (ii) “11,” shall be omitted;
+- (b) after sub-paragraph (1) there shall be inserted the following sub-paragraphs—
+
+  > (2) The first condition for the purposes of sub-paragraph (1)(*a*) is that the claimant—
+  >
+  > - (a) was both a lone parent and entitled to an income-based jobseeker’s allowance on 5th April 1998, or
+  > - (b) does not come within head (*a*) but—
+  >   - (i) was both a lone parent and entitled to an income-based jobseeker’s allowance on any day during the period of 12 weeks ending on 5th April 1998;
+  >   - (ii) was both a lone parent and entitled to an income-based jobseeker’s allowance on any day during the period of 12 weeks commencing on and including 6th April 1998, and
+  >   - (iii) the last day in respect of which paragraph (i) applied was no more than 12 weeks before the first day in respect of which paragraph (ii) applied.
+  >
+  > (3) The second condition for the purposes of sub-paragraph (1)(*a*) is that as from and including the appropriate date specified in sub-paragraph (4), the claimant has continued, subject to sub-paragraph (5), to be both a lone parent and entitled to an income-based jobseeker’s allowance.
+  >
+  > (4) The appropriate date for the purposes of sub-paragraph (3) is—
+  >
+  > - (a) in a case to which sub-paragraph (2)(*a*) applies, 6th April 1998;
+  > - (b) in a case to which sub-paragraph (2)(*b*) applies, the first day in respect of which sub-paragraph (2)(*b*)(ii) applied.
+  >
+  > (5) For the purposes of sub-paragraph (3), where the claimant has ceased, for any period of 12 weeks or less, to be—
+  >
+  > - (a) a lone parent;
+  > - (b) entitled to an income-based jobseeker’s allowance, or
+  > - (c) both a lone parent and entitled to an income-based jobseeker’s allowance,
+  >
+  > the claimant shall be treated, on again becoming both a lone parent and entitled to an income-based jobseeker’s allowance, as having continued to be both a lone parent and entitled to an income-based jobseeker’s allowance throughout that period.
+  >
+  > (6) In determining whether the conditions in sub-paragraphs (2) and (3) apply, entitlement to income support shall be treated as entitlement to an income-based jobseeker’s allowance for the purposes of any requirement that a person is entitled to an income-based jobseeker’s allowance.
+
+  .
+
+## 11. Jobseeker’s allowance: disregard of certain sums in the calculation of a lone parent’s earnings[^key-16684896958d4f9d4989997f0a9b0e51]
+
+In Schedule 5 to the Jobseeker’s Allowance Regulations, for paragraph 6[^f00020] (disregard of certain sums in the calculation of a lone parent’s earnings) there shall be substituted the following paragraph—
+
+> **6.** In a case where the claimant is a lone parent and paragraph 5 does not apply, £15.
+
+.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+18th March 1998.
+
+The Department of the Environment hereby consents to regulations 2, 3, 4, 5, 6 and 7 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. Ritchie
+
+Assistant Secretary
+
+18th March 1998.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”), the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”) and the Housing Benefit (General) Regulations (Northern Ireland) 1987. They also revoke the Social Security (Lone Parents) (Amendment) Regulations (Northern Ireland) 1997 (regulation 2).
+
+In particular, these Regulations prescribe the circumstances in which the applicable amount of a claimant for housing benefit, income support and income-based jobseeker’s allowance who is a lone parent, will include the lone parent rate of family premium (regulations 5, 8 and 10).
+
+These Regulations also provide that a lone parent who satisfies the relevant conditions in the period before these Regulations take effect, will requalify for the premium in income support and income-based jobseeker’s allowance following a break in the eligibility conditions of not more than 12 weeks (regulations 8 and 10).
+
+These Regulations also make related amendments to those regulations which—
+
+- (a) disregard certain sums in the calculation of a lone parent’s earnings (regulations 6, 9 and 11);
+- (b) change the conditions of entitlement of lone parents to an extended payment of housing benefit (regulation 7);
+- (c) in housing benefit, provide that students who are lone parents are treated as liable to make payments in respect of a dwelling (regulation 3) and that certain lone parents are excluded from reductions in eligible rent (regulation 4).
+
+In so far as these Regulations are required, for the purposes of regulations 2, 3, 4, 5, 6 and 7, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), they have not been so referred by virtue of section 150(1)(*a*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; subsection (6A) was inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(*a*) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-270fcce33c5586fa4a59ae01a5f14987]: Commencement: Reg. 1 in operation at 6.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1998 No. 73](https://www.legislation.gov.uk/nisr/1998/73)
+
+[^key-8f0efc45d09c98708e461f38e468d8c8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00006]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1990 Nos. 297](https://www.legislation.gov.uk/nisr/1990/297), [305](https://www.legislation.gov.uk/nisr/1990/305) and [345](https://www.legislation.gov.uk/nisr/1990/345), [S.R. 1991 No. 47](https://www.legislation.gov.uk/nisr/1991/47), [S.R. 1992 No. 549](https://www.legislation.gov.uk/nisr/1992/549), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65), [S.R. 1995 No. 129](https://www.legislation.gov.uk/nisr/1995/129), [S.R. 1996 Nos. 115](https://www.legislation.gov.uk/nisr/1996/115) and [334](https://www.legislation.gov.uk/nisr/1996/334) and [S.R. 1997 No. 4](https://www.legislation.gov.uk/nisr/1997/4)
+
+[^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
+
+[^f00008]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
+
+[^f00009]: Footnote: [S.R. 1998 No. 59](https://www.legislation.gov.uk/nisr/1998/59)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b337734d881675f9ace66a2e84eb8c1d]: Commencement: Reg. 2 in operation at 6.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 1997 No. 354](https://www.legislation.gov.uk/nisr/1997/354)
+
+[^key-586a6a50f490d0da40a5fb2a781197e8]: Textual amendment: [Regs. 3-7](https://www.legislation.gov.uk/nisr/1998/112/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-2377f0c974c16de84090ca16ce80ba29]: Commencement: Reg. 8 in operation at 6.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1)
+
+[^f00017]: Footnote: Paragraph 3 was amended by regulation 18 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and regulation 5(4) of [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
+
+[^key-15b1a6811836317df1045b0b6a3f765a]: Commencement: Reg. 9 in operation at 6.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1)
+
+[^f00018]: Footnote: Paragraph 5 was amended by regulation 5(6) of [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
+
+[^key-789208d28c3c68d9e5e26d12e7fb909f]: Commencement: Reg. 10 in operation at 6.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1)
+
+[^f00019]: Footnote: Paragraph 4 was amended by regulation 9(4)(*a*) of [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
+
+[^key-16684896958d4f9d4989997f0a9b0e51]: Commencement: Reg. 11 in operation at 6.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1)
+
+[^f00020]: Footnote: Paragraph 6 was amended by regulation 9(6) of [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)

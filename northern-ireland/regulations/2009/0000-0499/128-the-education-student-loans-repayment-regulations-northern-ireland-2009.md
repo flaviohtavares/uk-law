@@ -1,0 +1,2111 @@
+---
+title: The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009
+id: nisr/2009/128
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-03-20'
+text_date: '2026-05-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/128
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/128/pdfs/nisr_20090128_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/128/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009
+
+> Text as at 2026-05-29.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 128
+
+Education
+
+The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009
+
+Made
+
+20th March 2009
+
+Coming into operation:
+
+All regulations except regulations 2(2), 11(5)(d), 13, 16 and Part 6
+
+6th April 2009
+
+Regulations 2(2), 16 and Part 6
+
+1st September 2009
+
+Regulations 11(5)(d) and 13
+
+21st December 2009
+
+The Department for Employment and Learning[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 3(2) to (5) and 8(4) of the Education (Student Support) (Northern Ireland) Order 1998[^f00002] and now vested in it[^f00003].
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-3b468efdd1101521d040e6495cb8c079]
+
+(1) These Regulations may be cited as the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 and, subject to paragraphs (2) and (3), come into operation on 6th April 2009.
+
+(2) Regulations 2(2), 16 and Part 6 come into operation on 1st September 2009.
+
+(3) Regulations 11(5)(d) and 13 come into operation on 21st December 2009.
+
+### 2. Revocations[^key-9ad40f5d862da4906cf7749a80eb302c][^key-116768591eae41f6adc657cbf2bee2a1]
+
+(1) The Rules listed in Schedule 1[^key-3c4e7f369eb5dfaecad7bde06f78a3bf] are revoked.
+
+(2)[^key-9ad40f5d862da4906cf7749a80eb302c] Regulations 4(4), 88 and 89 of the Education (Student Support) Regulations (Northern Ireland) 2009[^f00004] are revoked.
+
+### 3. Interpretation[^key-fde1c09c0056e59df46c33b0ccb07b01]
+
+In these Regulations—
+
+- “the Order” means the Education (Student Support) (Northern Ireland) Order 1998;
+- “the 1970 Act” means the Taxes Management Act 1970[^f00005];
+- “the 1988 Act” means the Income and Corporation Taxes Act 1988[^f00006];
+- “the 2003 Act” means the Income Tax (Earnings and Pensions) Act 2003[^f00007];
+- [^key-6258c687cbde1fc6afa7148460f65e2b]...
+- [^key-6258c687cbde1fc6afa7148460f65e2b]...
+- “the 2009 Regulations” means the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009;[^key-fbeb6ddeee26d12e0cb41f2e0333bcd0]
+- “academic year” means the period from 1st September in any year to 31st August of the following year, regardless of whether this is, in fact, the period over which a borrower’s course runs;
+- “borrower” means a person to whom the Department has lent money pursuant to regulations made under Article 3 of the Order and who has not received a notice from the Department that it has been repaid or cancelled;
+- “Department” means the Department for the Economy;[^key-fb0a71c1eaa675a39ffe89601cf2a742]
+- “HMRC” means His Majesty’s Revenue and Customs[^key-67082c33031ef216dd43ce167d9c294e];
+- “National Insurance number” means the National Insurance number allocated within the meaning of the Social Security (Contributions) Regulations 2001[^f00010];
+- “overseas provisions” means the requirements of these Regulations in Part 5;
+- “overseas borrowers” means borrowers making or due to make repayments in accordance with Part 5;
+- “repayment” means repayment of a student loan;
+- “repayment threshold” means an amount given in regulation 24(6);[^key-1417cac1eaddacb248e8512f2f3e2f2e]
+- “repayment threshold Year” means: the period from 6th April to 5th April of the following year;
+- “retail price index” means the RPI All Items Index published by the Office for National Statistics;[^key-3fbed0a0508c6977013fb2153a1cdcee]
+- “**standard interest rate**” means, in relation to a loan, the greater of—
+  - (a) zero, or
+  - (b) the percentage increase in the retail price index between the two Marches immediately before the commencement of the academic year in which the loan bears interest;
+- “student loan” means the total outstanding principal, interest, penalties and charges owed by a borrower to the Department pursuant to these or any other regulations made under Article 3 of the Order excluding any interest, penalties or charges payable under Part 3 or 4;
+- “the Taxes Acts” has the same meaning as it has in the 1970 Act;
+- “tax year” –
+  - (a) for the purposes of Part 4 and any provision of Part 2 relating to Part 4 means the period from 6th April to 5th April of the following year;
+  - (b) subject to sub-paragraph (c),[^key-34194faccc4d57ca4341071fb8d58f30] for the purposes of Part 3 and any provision of Part 2 relating to Part 3 means any year of assessment for the purposes of the 1970 Act;
+  - (c) for the purposes of regulations 31 and 35(1) and (2) means the period from 6th April to 5th April of the following year[^key-8a093388613e2fc02fea17fabcefb7a7] and
+- “tax year 2009-10” for the purpose of Part 3 means the tax year beginning on 6 th April 2009 (and any corresponding expression in which two years are similarly mentioned is to be read in the same way);[^key-cb2ae9202ba7fb86cf27592ec45f18b1]
+- “the tribunal” means the First-tier Tribunal or, where determined by or under the Tribunal Procedure (Upper Tribunal) Rules 2008[^f00011], the Upper Tribunal.
+
+### 4. Application: general[^key-33b46ff2fb87fb484978971714c3d4cc]
+
+These Regulations apply to repayments of student loans made under the Order.
+
+### 5. Service by post or electronic communication[^key-92be990179cffa4f82f746f6073ae63f]
+
+(1) Any notice or other document which is authorised or required to be given, served or issued under these Regulations may be sent by ordinary post or by an electronic format.[^key-caa61ad2614722af8a1497af922cb75e]
+
+(2) In particular, any notice which the Department may give to HMRC may be transmitted electronically, and for these purposes a notice is transmitted electronically where the content and form of a notice is sent and received by electronic media between computer systems operated by the Department and HMRC respectively.
+
+## PART 2 — Provisions Applicable to all Repayments
+
+### 6. Interpretation of Part 2[^key-1995f36ceff77f903da2f1e594eee1fb][^key-2b35d93621226eb23ee96ca810292a5e]
+
+(1) In this Part—
+
+- “2006 Support Regulations” means the Education (Student Support) Regulations (Northern Ireland) 2006[^f00012].
+- “date of receipt” in relation to a repayment is to be construed in accordance with regulation 12;
+- “designated course” has the same meaning as in the 2009 Regulations;[^key-d116acec2626fd4f9b430631857936d1]
+- “designated distance learning course” has the same meaning as in the 2009 Regulations;
+- “designated part-time course” has the same meaning as in the 2009 Regulations;
+- “disability–related benefit” means long-term incapacity benefit or short-term incapacity benefit at the higher rate, disability living allowance and industrial injuries benefit, all payable under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00013] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011,[^key-cdd84ba092c7b08052cf50db79075d4e] personal independence payment under Part 5 of the Welfare Reform (Northern Ireland) Order 2015,[^key-c8b6ed1c3f6ceb1d32fd298e636020e7], or the amount of any disability premium and severe disability premium included in the applicable amount in calculating the income support payable under the Income Support (General) Regulations (Northern Ireland) 1987[^f00014];
+- “distance learning fee loan” means a loan for fees made to an eligible distance learning student pursuant to the 2009 Regulations made by the Department under Article 3 of the Order;[^key-ad9beeb6ea3c0b3e119e17e96e710fe6]
+- “end-on course” means—
+  - (a) a full-time first degree course (other than a first degree course for the initial training of teachers) which, disregarding any intervening vacation, a student begins immediately after ceasing to attend a full-time course mentioned in paragraph (2) for which the student received or was entitled to receive an award made under the Students Awards Regulations (Northern Ireland) 1998[^f00015] (other than an award within the meaning of the Students Awards Regulations (Northern Ireland) 2003[^f00016]), or financial support under Student Support Regulations; and
+  - (b) a full-time honours degree course beginning on or after 1<sup>st</sup> September 2006 which, disregarding any intervening vacation, a student begins immediately after ceasing to attend a full-time foundation degree course and for which the student received or was entitled to receive any of the financial support referred to in paragraph (a);
+- “part-time fee loan” means a loan for fees made to an eligible part-time student pursuant to the 2009 Regulations made by the Department under Article 3 of the Order;[^key-9bf9bbdc3812cac317b7d0523d99155c] and
+- “Student Support Regulations” means any Regulations made in or in relation to any academic year commencing in or after 1998 pursuant to Article 3 of the Order and which regulate or define the entitlement of a borrower to loans and the extent of any financial support available including Regulations made after the date of these Regulations.
+- “[^key-59647c1b42b80eaf934bd6d4e3705d3d]**total charge for credit rules**” means rules made under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for the purposes of Chapter 14A of Part 2 of that Order.
+
+(2) The courses mentioned in this paragraph are a course for the Diploma of Higher Education, and a course for the Higher National Diploma or Higher National Certificate of—
+
+- (a) the Business & Technician Education Council; or
+- (b) the Scottish Qualifications Authority or Qualifications Scotland[^key-943c83d9de7cf4db0f5e4ca5e7f831a2].
+
+### 7. Functions of HMRC[^key-723eba6dc4b3d69c6e8dad1256b13c19]
+
+(1) HMRC must collect repayments from borrowers in accordance with Parts 3 and 4, and the provisions of section 1 of the 1970 Act apply for those purposes as they apply for the purposes of income tax.
+
+(2) HMRC must, at such time and in such manner as the Treasury and the Department of Finance and Personnel (acting concurrently) may direct, account to the Department for, and pay to it, the sums estimated by HMRC (in the manner so directed) to have been collected by it as repayments in accordance with Parts 3 and 4.
+
+(3) Repayments do not include any interest, penalties or charges payable under Part 3 or 4 and HMRC will cause any such sums which it recovers to be paid, at such times and under such regulations as the Treasury may from time to time prescribe, to accounts to be entitled “The Account of Her Majesty’s Exchequer”, at the Bank of England and the sums so paid form part of the Consolidated Fund of the United Kingdom.
+
+### 8. Officers of Revenue and Customs[^key-8d34025e7b80734b44ed8ee7e15596a6]
+
+Any legal proceedings or administrative act authorised by or done for the purposes of these Regulations begun by an officer of Revenue and Customs may be continued by another officer; and any officer may act for any other division or area.
+
+### 9. Penalties in relation to Parts 3 and 4[^key-fc4a2978611b4c9c112725be324e14ae]
+
+(1) Section 98 of the 1970 Act (special returns etc) applies for the purposes of repayments under Parts 3 or 4 as if any reference in that section to a provision in the Table is a reference to a provision in those Parts 3 or 4 with the exception of regulations 25, 28, 55 and 56.
+
+(2)[^key-72c5c8f8dfbb86b2ea8ce8882840da32] Schedule 38 to the Finance Act 2012 ( tax advisers: sanctionable conduct[^key-8361abec6c0f435e977b5c50625949ae] ) applies for the purpose of repayments under Part 3 or 4 as it applies for the purposes of income tax.
+
+(3) For tax years—
+
+- (a) ending on or before 5th April 2008, sections 100 (determination of penalties by officer of HMRC), 100A (provisions supplementary to section 100) and 100B (appeals against policy determinations) of the 1970 Act apply to the penalties set out in regulation 35(3) in connection with repayments under Part 3 as they apply in connection with income tax;
+- (b) commencing on or after 6th April 2008, where the date on which the return is due to be filed is on or after 6th April 2009, Schedule 24 to the Finance Act 2007[^f00017] (penalties for errors) applies in relation to the assessment of penalties and appeals against the assessment of penalties in connection with Part 3 as it applies to penalties in connection with income tax.
+
+(4) Sections 100 (determination of penalties by officer of Revenue and Customs), 100A (provisions supplementary to section 100) and 100B (appeals against penalty determinations) of the 1970 Act apply to penalties other than those outlined in regulation 35(3) and (4) in connection with repayment under Part 3 and all penalties under Part 4 as they apply to penalties in connection with income tax.
+
+(5) Section 100C (penalty proceedings before the tribunal), 100D (penalty proceedings before court), 102 (mitigation of penalties), 103(3) and (4) (time limit for penalties), 103A (interest on penalties), 104 (savings for criminal proceedings) and 105 (evidence in cases of fraudulent conduct) of the 1970 Act apply to penalties in connection with repayments under Part 3 or 4 as they apply in connection with income tax.
+
+(6) Sections 112 to 115A of and Schedule 3A to the 1970 Act (documents) apply to assessments, returns or other documents made, required, issued, served, sent or lodged for the purposes of or in connection with repayments under Parts 3 or 4 as they apply to documents for the purposes of or in connection with income tax.
+
+(7) Section 118(2) of the 1970 Act (failure to act within limited time) applies in relation to anything required to be done under Parts 3 or 4 as it applies in relation to anything required to be done under that Act.
+
+(8) For the purposes of these Regulations, the amount of a repayment covered by any assessment under Part 3 is not deemed finally determined until that assessment can no longer be varied, whether by the tribunal on appeal or by the order of any Court.
+
+### 10. Interest and penalties[^key-f810e31ba864b88ac69da0b705f38772]
+
+(1) Interest and penalties charged under Parts 3 or 4 are not added to the principal outstanding, are not part of the loan, and payments of such interest or penalties are not credited against the principal outstanding.
+
+(2) Any repayments received by the Department will be applied in reduction or satisfaction of the liabilities of a borrower in the following order:—
+
+- (a) first, any outstanding penalties, costs, expenses or charges under regulation 19 or 20;
+- (b) second, any outstanding penalties, costs, expenses or charges under Part 5;
+- (c) third, any outstanding interest;
+- (d) fourth, any outstanding principal, which will be reduced or satisfied from the date of receipt.
+
+### 11. Timing and notification of repayments[^key-38378ef1593a746195a971c6baacfec5][^key-ddc548c51351bd8c8aea0d78cd5465a4][^key-7c60a0931bfc72e7392c4ff05a8aafa1]
+
+(A1)[^key-d213c8d6a50204293622322ee0ccd36f] In this regulation—
+
+- (a) paragraphs (1) to (2E) relate to the timing of repayments for a loan;
+- (b) paragraphs (3) to (10) relate to the notification of repayments for a student loan.
+
+(1) A borrower may repay all or any part of a student loan to the Department at any time, by making direct payments to the Department.
+
+(2) Subject to paragraphs (2A) to (2D), a[^key-9f46bca176d47812b77ad62148a98d6a] borrower is not required to repay any part of the student loan before the start of the following tax year commencing on 6th April after a borrower ceases to be eligible for financial support under regulations made pursuant to Article 3 of the Order, whether by reason of having completed that course or otherwise.
+
+(2A)[^key-d1dd2ef538575561ad8ce95657be3d8d] Where a borrower obtains a student loan which is a distance learning fee loan or a part-time fee loan, the borrower is not required to repay any part of that student loan until the earlier of—
+
+- (a) the start of the following tax year commencing on 6<sup>th</sup> April after the borrower ceases to be eligible for financial support under regulations made pursuant to Article 3 of the Order whether by reason of having completed that course or otherwise; or
+- (b) the start of the following tax year commencing on 6<sup>th</sup> April after the fourth anniversary of the course start date.
+
+(2B) Subject to paragraphs (2C) and (2D), a borrower who obtains a student loan and who changes their mode of study between full-time, (other than a designated distance learning course), and part-time study is required to repay—
+
+- (a) where there is a change from a full-time course to a part-time course, in accordance with paragraph (2A);
+- (b) where there is a change from a part-time course to a full-time course before the requirement to repay under paragraph (2A) applies, in accordance with paragraph (2);
+- (c) where there is a change from a part-time course to a full-time course and the requirement to repay under paragraph (2A) applies, in accordance with paragraph (2A).
+
+(2C) A borrower who obtains a student loan and who changes their mode of study between a designated distance learning course and a designated part-time course is required to repay in accordance with paragraph (2A).
+
+(2D) A borrower who obtains a student loan and who changes their mode of study, in accordance with the 2009 Regulations, between a designated course, (which is not a designated distance learning course), and a designated distance learning course is required to repay—
+
+- (a) where there is a change from a designated course into a designated distance learning course, in accordance with paragraph (2A);
+- (b) where there is a change from a designated distance learning course into a designated course before the requirement to repay under paragraph (2A) applies, in accordance with paragraph (2);
+- (c) where there is a change from a designated distance learning course into a designated course and the requirement to repay under paragraph (2A) applies, in accordance with paragraph (2A).
+
+(2E) Paragraphs (2) to (2D) have effect notwithstanding the fact that a borrower may become eligible for further financial support under regulations made pursuant to Article 3 of the Order.
+
+(3) Subject to paragraphs (7) and (8), the Department must notify the borrower and HMRC of—
+
+- (a) the first or, as the case may be, next tax year in respect of which the borrower may be required to make repayments under Part 3;
+- (b) the date on and after which a borrower may be required to make repayments by deductions from earnings under Part 4;
+- (c) the tax year in which the borrower will cease to be required to make repayments under Part 3 because of the occurrence of a relevant event; and
+- (d) the date on and after which a borrower will cease to be required to make repayments by way of deduction from earnings under Part 4 because of the occurrence of a relevant event.
+
+(4) For the purposes of paragraph (3)(c), a “relevant event” occurs when—
+
+- (a) the loan has been repaid in full to the Department;
+- (b) an amount sufficient to repay the balance owing to the Department is likely to be received by HMRC under Part 4 or by the Department directly from overseas borrowers by 30th April in the tax year immediately following the tax year in which the notice is issued; or
+- (c) the loan has been cancelled.
+
+(5) For the purposes of paragraph (3)(d), a ‘relevant event’ occurs when—
+
+- (a) the loan has been repaid in full to the Department;
+- (b) an amount sufficient to repay in full the balance owing to the Department is likely to be received by HMRC under Parts 3 and 4 and by the Department directly from overseas borrowers by the date given in the notice;
+- (c) the loan has been cancelled; or
+- (d)[^key-38378ef1593a746195a971c6baacfec5] the borrower has undertaken to repay the loan in full after the date given in the notice in accordance with regulation 13 and meets the criteria of that regulation.
+
+(6) The Department must not issue a notice under paragraph (3)(c) after the end of the calendar year during which the tax year specified in the notice ends.
+
+(7) Where the Department has notified a borrower and HMRC that repayments under Parts 3 and 4 must no longer be made but at a later date it appears to the Department that the student loan has not been fully repaid, then a further notice may be given in accordance with paragraph (3).
+
+(8) No notice need be given under paragraph (3)(a) or (b) if the borrower’s loan does not exceed £120.
+
+(9) Any notice which the Department is required to give to HMRC pursuant to this regulation may be given in respect of one or more than one borrower, and in respect of each borrower, the Department must provide the particulars required in paragraph (3).
+
+(10) Any notice given by the Department pursuant to the Education (Student Loan) (Repayment) Regulations (Northern Ireland) 2000 prior to the coming into operation of these Regulations is to be treated as having been given pursuant to these Regulations.
+
+### 12. Date of repayment[^key-2f03e328c7f2b9813c5f04358c6a4546]
+
+For the purposes of this Part, repayment will be considered to have been paid by the borrower and received by the Department as follows:—
+
+- (a) where an amount is paid by the borrower directly to the Department, or by direct debit under regulation 13, a repayment of that amount is considered to have been received on the date on which the amount is, in fact, received;
+- (b) where HMRC have notified the Department that an amount has become payable to it in respect of a tax year under Part 3, a repayment of that amount is considered to have been received by the Department on 31st January following the tax year, whether or not the borrower has, in fact, paid any or all of that amount to HMRC;
+- (c) where an amount is deducted by an employer under Part 4 in respect of the tax year ending on 5th April 2019 or any previous tax year[^key-a9021a7a14c561559631ebd5feefc4af], that amount must be aggregated with all other amounts deducted in the same tax year and repayments of the aggregate amount will be considered to have been received by the Department in equal instalments received on the days during the tax year which are—
+  - (i) the last days of a month;
+  - (ii) days after the date on which the Department has given notice under regulation 11(3)(b) that payment should be deducted; and
+  - (iii) days before the date on which the Department has given notice under regulation 11(3)(d) that payment should cease to be deducted.
+- (ca)[^key-3c87d3398f0aa389ac9619fa8b05c023] where an amount is deducted by an employer under Part 4 in respect of the tax year beginning on 6th April 2019 or any subsequent tax year, a repayment of that amount is considered to have been received by the Department on—
+  - (i) the day on which it was deducted by the employer; or
+  - (ii) where an adjustment is made in relation to the deduction, the day on which that adjustment is made or the last day of the relevant tax year if the adjustment is made outside the relevant tax year[^key-60591a299cc83dc3559957add347eeff].
+
+### 13. Direct debit repayment[^key-bce02c491d2f96e59747a59d0ac1d1f3]
+
+(1) This regulation will apply if—
+
+- (a) the borrower gives notice to the Department of an intention to repay the outstanding balance in accordance with this regulation;
+- (b) the Department is satisfied that the borrower is likely to repay all of the outstanding balance of the student loan under Part 4 within 23 months of that notice; and
+- (c) the borrower has not previously ceased making payments under this regulation without the loan having being repaid in full, unless such cessation was agreed by the Department.
+
+(2) Where this regulation applies, subject to paragraphs (3) and (4), the Department must give notice to HMRC, in accordance with regulation 11(3)(d) that deductions from the borrower’s earnings are to cease from the date specified in the notice.
+
+(3) The borrower must complete and return to the Department in the format required by the Department from time to time a standing instruction to the borrower’s bank authorising monthly lump sum payments to the Department in such sum as is required to ensure payment of the outstanding balance within the next 23 months.
+
+(4) The first date on which a bank, authorised by a borrower to make a payment, makes a payment must fall no later than 30 days after the date which the Department specifies in a notice pursuant to regulation 11(3)(d).
+
+(5) If at any time the instruction to the borrower’s bank—
+
+- (a) is refused on any second presentation by the Department; or
+- (b) is cancelled or otherwise altered by the borrower without the permission of the Department given under paragraph (6),
+
+then the Department must give notice of any refusal or failed payment to the borrower and must give a notice to HMRC and to the borrower pursuant to regulation 11(3) that deductions from earnings are to recommence unless regulation 11(8) would otherwise apply.
+
+(6) The borrower may, at any time, agree with the Department that repayment in accordance with this regulation will cease, and thereafter the Department must give a notice to HMRC and to the borrower in accordance with regulation 11(3) that repayment through the tax system is to recommence unless regulation 11(8) would otherwise apply.
+
+(7) The Department may suspend or delay the operation of paragraph (5) if and to the extent it appears to the Department expedient to do so, taking into account the causes of the failed payment and the Department must notify the borrower of any suspension or delay as the case may be.
+
+(8) This regulation will not affect any voluntary repayments made by a borrower by any method pursuant to regulation 11(1).
+
+### 14. Cancellation[^key-3694e569a271b364aa075fa823d3f7a5]
+
+(1) This regulation applies where a borrower is not in breach of any obligation to repay:
+
+- (a) a student loan under the overseas provisions;
+- (b) a student loan under regulation 13; or
+- (c) any loan mentioned in paragraph (4).
+
+(2) In this regulation “post-2006 student loan” means any student loan paid under the 2006 Support Regulations or any subsequent regulations made by the Department under Article 3 of the Order and taken out by—
+
+- (a) a borrower who takes out a student loan for the first time in respect of an academic year beginning on or after 1st September 2006; or
+- (b) a borrower who takes out a student loan in respect of a course which satisfies the following conditions—
+  - (i) it begins on or after 1st September 2006;
+  - (ii) it is not an end-on course following on from a course which the borrower began before 1st September 2006; and
+  - (iii) it is not one to which the borrower’s status as a student eligible for support under regulations made under Article 3 of the Order has been transferred from another course which the borrower began before 1st September 2006.
+
+(3) The Department must cancel the borrower’s liability to repay the student loan when one of the following occurs—
+
+- (a) the borrower dies;
+- (b) the borrower receives a disability-related benefit and because of the disability is permanently unfit for work;
+- (c) in the case of post-2006 student loans, the 25th anniversary of the date on which the borrower became liable to repay the student loan; or
+- (d) in the case of student loans which are not post-2006 student loans, the borrower reaches the age of 65.
+
+(4) For the purposes of paragraph (1) the loans are loans made under the Education (Student Loans) (Northern Ireland) Order 1990[^f00018] the Education (Student Loans) Act 1990[^f00019], the Education (Scotland) Act 1980[^f00020] and Regulations made under it, and the Teaching and Higher Education Act 1998[^f00021] and Regulations made under it.
+
+(5) The cancellation of the borrower’s liability to repay the student loan under paragraph (3) does not affect the liability of the borrower to make repayments under Part 3 subject to and in accordance with that Part in respect of any tax year—
+
+- (a) in the case of cancellation under paragraph (3)(a), during which the borrower was alive; and
+- (b) in any other case, preceding the tax year during which the student loan was cancelled.
+
+(6) The cancellation of a borrower’s liability to repay the student loan under paragraph (3) does not affect the employer’s liability to make deductions under Part 4 subject to and in accordance with that Part in respect of any earnings period ending before the date of cancellation.
+
+### 15. Refunds[^key-70ef168459a605e7b8e2902152c115a7]
+
+(1) Where the Department has received a repayment either directly from the borrower or from HMRC under Part 4—
+
+- (a) which results in the student loan being repaid in full, or
+- (b) when the student loan has already been repaid in full,
+
+the Department must refund to the borrower any amount not required to repay the loan in full together with interest calculated as if it were the principal of a student loan outstanding from the date of receipt of the repayment to the date of the refund.
+
+(2) Where the Department is considered to have received a payment from HMRC under Part 3 in respect of a tax year—
+
+- (a) which results in the student loan being repaid in full, or
+- (b) when the student loan has already been repaid in full,
+
+the repayment will be considered to have been received by the Department on 31st January next following the tax year in accordance with regulation 12(b) and the Department must refund to HMRC for the borrower’s account any overpayment which results from the receipt.
+
+(3) A refund under paragraph (2) will not carry interest and HMRC will be considered to have received the refund on the date on which the amount refunded was considered to have been received by the Department in accordance with regulation 12.
+
+(4) Where the Department has received a repayment by way of deduction from the borrower’s earnings for a tax year in accordance with Part 4 and those earnings do not exceed the repayment threshold[^key-7007955f6ebb177d0fc418ea048093d6], the Department must refund the amount deducted if the borrower applies for a refund.
+
+### 16. Interest rate on the loans[^key-08a0fd44d12dbddededdf49e8a3d0435]
+
+(1) Subject to paragraph (2), during any academic year, if the Department determines that student loans will bear interest, loans bear interest at the rate which will result in an annual percentage rate of charge determined in accordance with total charge for credit rules[^key-0d4d39ac4daac2ab89bbac7b52eafed8] equal to the standard interest rate[^key-db23f853f64a55b7a822995479974f61].
+
+(2) If the rate referred to in paragraph (1) exceeds the rate for the time being specified by article 60G(3)(d) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-80e771e6e16328bf74ad5ed0c08c1755] student loans bear interest at the rate so specified.
+
+(3) Interest is calculated on the principal outstanding daily and is added to the principal monthly.
+
+(4) The index of prices to which the Department is required by Article 3(8) of the Order to have regard in prescribing the rate of interest which student loans bear is the retail price index[^key-ef66669b8ca081036c39ff9d00628648].
+
+(5) The Department must publish, at least once a year, by whatever means and in whatever media the Department thinks fit, the interest rate determined in accordance with paragraph (1) for any forthcoming academic year, subject to any variation required by virtue of paragraph (2) to be applied.
+
+(6) If, for any academic year, the Department determines not to charge interest on student loans, the Department must publish notice of that fact in the same manner.
+
+(7) If, for any academic year, the Department publishes more than one rate of interest to apply to student loans, any subsequent rate so published will replace any previously published rate as the rate to apply from the date specified in the notice.
+
+### 17. Information requests[^key-a92325815c7b28c75d8e9cb7275c0dea]
+
+If a borrower—
+
+- (a) changes home address; or
+- (b) changes name,
+
+the borrower must inform, and provide particulars of the change to, the Department within six weeks of the relevant change.
+
+### 18. Information notices[^key-ac07bbf6f81a996acd5e264e69841734]
+
+(1) The Department may serve a notice (“an Information Notice”) on a borrower by post or by an electronic format[^key-33a49193d5c1d12c7074fb277fd16ba9].
+
+(2) An Information Notice under paragraph (1) may require the borrower to provide some or all of the following, together with documentary evidence in support where relevant—
+
+- (a) full name;
+- (b) telephone number and/or email address or both;
+- (c) National Insurance number or a valid reason for not having one;
+- (d) date of birth;
+- (e) a statement of whether the borrower is employed, self-employed or not employed;
+- (f) the following particulars of employment and income during the period specified in the notice—
+  - (i) for each part of that period during which the borrower was employed, the dates on which the employment began and (unless continuing) ended, the name and address of the employer, employee number, and gross earnings;
+  - (ii) for each part of that period during which the borrower was self-employed, the dates on which that self-employment began and (unless continuing) ended and the borrower’s gross earnings; and
+  - (iii) the amount, source and date of receipt of any other income.
+- (g)[^key-ca94b219245b61100b09e3fb5708bc70] such other information about the borrower’s financial position as may be required to determine whether the borrower is in receipt of any income.
+
+(3) An Information Notice under paragraph (1) must contain statements detailing the penalties for failure to comply with an Information Notice set out in regulations 19 and 22.
+
+(4) Where the Department serves an Information Notice on a borrower under paragraph (1), the borrower must comply with it within 28 days beginning with the day on which the Information Notice was served.
+
+### 19. Penalties and Penalty Notices[^key-3a91a3e06dd22cf5fc7d5aaea6222495]
+
+(1) Where a borrower fails to comply with regulation 17, the Department may require the borrower to pay a penalty of £50.
+
+(2) Where a borrower fails to comply with regulation 18(4), the Department may require the borrower to pay a penalty of £50.
+
+(3) Where a borrower is liable to a penalty under paragraph (1) or (2) and has not paid it by the time of the expiry of the time limit for payment, the Department may require the borrower to pay one additional penalty of £100 in respect of that failure.
+
+(4) Where a borrower was liable to a penalty under paragraph (1) or (2) and has paid the penalty but not complied with the requirements of the relevant regulation within 28 days of the date of payment of the penalty, the Department may require the borrower to pay one additional penalty of £100 in respect of that failure.
+
+(5) The Department must notify the borrower of a penalty imposed under paragraphs (1) to (4) by serving a notice (“a Penalty Notice”) on the borrower by post or by an electronic format[^key-6ac04783796559ce013ae66f6fd89985] containing the details of that and other possible penalties under regulations 19 and 22.
+
+(6) A penalty imposed under paragraphs (1) to (4) is payable within 28 days beginning on the day on which the Penalty Notice was served, despite the provisions of regulation 11(3), (4), (5) or (6).
+
+(7) The Department may add any penalty imposed under this regulation to the borrower’s loan account and it will form part of the principal of the loan from the date on which it is added.
+
+### 20. Costs and expenses[^key-2984e5d0fc2f7b70838bd86f7d53becb]
+
+(1) Where the Department incurs reasonable costs or expenses in taking steps to—
+
+- (a) serve an Information Notice on a borrower under regulation 18(1);
+- (b) obtain the information requested in an Information Notice served under regulation 18(1); or,
+- (c) serve a Penalty Notice on a borrower under regulation 19(5).
+
+the Department may require the reimbursement of those costs or expenses by the borrower and may add them to the borrower’s loan account and they will form part of the principal of the student loan from the date on which they are added.
+
+### 21. Alteration of relevant time limits[^key-7472acf35aa42ce2a5961de00d71d6f0]
+
+Where the Department considers that, having regard to all the circumstances of a particular case, a time limit in regulation 17, 18(4), or 19(4) or (6) should be relaxed, the Department may specify another time limit.
+
+### 22. Foreclosure[^key-79439c50f27e58bbf990c34df8560f40]
+
+Where a borrower fails to comply with an Information or Penalty Notice or both, the Department may require the borrower to repay the student loan in full immediately.
+
+## PART 3 — Repayments by Assessment to Income Tax
+
+### 23. Repayments of student loans by persons required to submit a tax return[^key-37fbb12c8b0ed4fa93f5ba1fae3f6f7f]
+
+Repayments by a borrower who in respect of any tax year is required to make and deliver to HMRC a return under section 8 of the 1970 Act must be made, accounted for and recovered in the same manner as income tax payable under the Taxes Acts; and in such cases the provisions of this Part (which with extensions and modifications include provisions of the Taxes Acts) will apply to and for the purposes of such repayments.
+
+### 24. Time for and amount of repayments[^key-d8aae91da8b221e47f6bc70f6bb68371]
+
+(1) Every borrower who has received a notice from the Department of a requirement to make repayments of a student loan under regulation 11(3)(a) must make repayment in respect of any tax year—
+
+- (a) which is specified in a notice under regulation 11(3)(a) or which is any subsequent year up to and including any year specified in a notice under regulation 11(3)(c); and
+- (b) for which the borrower has been required to make and deliver a return under section 8 of the 1970 Act.
+
+(2) The repayment must be an amount equal to 9% of the borrower’s total income for that year calculated in accordance with paragraph (3).
+
+(3) A borrower’s total income for the purposes of paragraph (2) will be calculated by identifying the borrower’s total income in accordance with step 1 of section 23 of the 2007 Act and from that total income:
+
+- (a) excluding the repayment threshold[^key-249271e2f0dc58d8bbc1bedf3e28e963];
+- (b) excluding unearned income unless the amount of such income for that year exceeds £2,000;
+- (c) excluding incapacity benefit payable under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00024];
+- (d) excluding amounts chargeable to tax under Chapters 5, 6, 7 or 10 of Part 3 of the 2003 Act (benefits in kind);
+- (e) excluding employment and support allowance paid under the Welfare Reform Act (Northern Ireland) 2007[^f00025];
+- (f)[^key-83ad34da3c69c1567fccdf71f63fef8c] deducting the amount of any loss in respect of which relief is given under any of the following—
+  - (i) section 64 of the 2007 Act (trade loss relief against general income);
+  - (ii) section 83 of the 2007 Act (carry-forward trade loss relief);
+  - (iii) section 118 of the 2007 Act (carry-forward property loss relief);
+  - (iv) section 120 of the 2007 Act (property loss relief against general income);
+  - (v) section 128 of the 2007 Act (in respect of losses in an employment); and
+- (g) deducting the amount of any payment in respect of which relief is given under section 96 of the 2007 Act (relief for post-cessation expenditure);
+- (h) deducting any amounts in respect of which relief is given under Part 4 Chapter 4 of the Finance Act 2004 (pension schemes etc)[^f00026] and that have not been included in the calculation of total income at step 1 of section 23 of the 2007 Act[^f00027].
+
+(4) For the purposes of this regulation, unearned income is income other than—
+
+- (a) income charged under the provisions of either the 2003 Act or Part 2 of the Income Tax (Trading and Other Income) Act 2005[^key-ac00a23d485b95c438dd6a442c8cb460] except jobseeker’s allowance to which Chapter 3 of Part 10 of the 2003 Act applies; and
+- (b) the profits of a UK furnished holiday lettings business within the meaning of section 127(2) of the 2007 Act.
+
+(5)[^key-101e259f40ae47ad8d9c62f397451e10] In this regulation—
+
+- “**the 2007 Act**” means the Income Tax Act 2007;
+- “**jobseeker’s allowance**” means an allowance within the meaning of Part II of the Jobseekers (Northern Ireland) Order 1995.
+
+(6)[^key-015a8a8e5f442f70f808fd5f511040aa] The repayment threshold is—
+
+- (a) for any repayment threshold year ending on or before 5th April 2012, an amount of £15,000;
+- (b) for any repayment threshold year ending on or after 6th April 2012 [^key-4377a37f2f8679ce3efe5722988d03e0]..., an amount equal to X + (X x Y%) and rounded up to the nearest £5 where—
+  - X is the repayment threshold for the previous repayment threshold year,
+  - Y is the percentage increase between the retail prices all items index published by the Office for National Statistics for the two Marches immediately before the commencement of the previous tax year; and
+- (c)[^key-ae6d720844d1ce64d589c14d9de51770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Personal return[^key-052d108e26a3132adc1734ede8d5f370]
+
+For the purposes of establishing the amount of the repayment which a borrower is required to make for a tax year under regulation 24, HMRC may require the borrower—
+
+- (a) to include such information as may reasonably be required, in a return required to be made and delivered under section 8 of the 1970 Act ; and
+- (b) to deliver with the return such accounts, statements and documents as may reasonably be required relating to information contained in the return as a result of paragraph (a).
+
+### 26. Returns to include self-assessment[^key-b63f21c40686d3307a4b4c14efead0f3]
+
+(1) Subject to paragraph (2), every return made and delivered by a borrower under section 8 of the 1970 Act must include a self-assessment, namely—
+
+- (a) an assessment of the amount of the repayment which, on the basis of the information contained in the return and taking into account any relief or allowance mentioned in regulation 24 the borrower is required to make for the tax year under regulation 24; and
+- (b) an assessment of the amount payable by the borrower by way of repayment, being the difference between the amount of the repayment which the borrower is assessed to make for the tax year under sub-paragraph (a) and the aggregate amount of any repayments deducted from earnings under Part 4 during that year.
+
+(2) Section 9(2) to (3A) (self-assessment) and section 9A (power to enquire into returns) of the 1970 Act apply to a self-assessment under this regulation as they apply to a self-assessment under section 9(1) of that Act, and any references in the Taxes Acts to those sections is to be construed as a reference to them as extended by this regulation.
+
+### 27. Records[^key-062eb2bdd2fde570787a7522bc875ba0]
+
+Section 12B of the 1970 Act (records to be kept for the purposes of returns) applies in the case of a borrower as if any reference to a return includes reference to a return including the information required by regulation 25(b).
+
+### 28. Other returns and information[^key-8f426e97cb8924551d598e03b86e5fda]
+
+(1)[^key-08d88f23630629f11e4463bbe247966e] Sections 20BA (orders for the delivery of documents) and 20BB (falsification etc of documents) of the 1970 Act, Schedule 23 to the Finance Act 2011 and Schedule 38 to the Finance Act 2012 apply for the purposes of establishing the amount of the repayment a borrower may be required to make under this Part as they apply for the purposes of establishing the amount in respect of which a person is chargeable to income tax.
+
+(2) Schedule 36 to the Finance Act 2008[^f00029] (information and inspection powers) applies in relation to checking a borrower’s compliance with this Part as it applies in relation to checking a person’s tax position (as defined in that Schedule) subject to the modifications in paragraph (3).
+
+(3) The modifications are —
+
+- (a) any reference to any provision of the Taxes Acts is to be treated as a reference to this Part;
+- (b) any reference to prejudice to the assessment or collection of tax is to be treated as a reference to prejudice to the assessment or collection of student loan repayments;
+- (c) the reference to information relating to the conduct of a pending appeal relating to tax is to be treated as a reference to information relating to the conduct of a pending appeal relating to compliance with this Part; and
+- (d) in paragraph 21(6)—
+  - (i) paragraphs (a) and (c) are omitted; and
+  - (ii) in paragraph (b) the reference to relevant tax for the chargeable period is to be treated as a reference to the amount of the student loan repayment shown in the self-assessment under regulation 26.
+
+### 29. Assessment, claims and appeals[^key-320e15f4067704b326214a710f7c32d2]
+
+(1) Subject to paragraph (2), Parts 4 (assessment and claims) and 5 (appeals and other proceedings) of the 1970 Act apply with any necessary modifications for the purposes of—
+
+- (a) assessing the amount of the repayment a borrower is required to make under this Part;
+- (b) claims or other matters concerning such assessment; and
+- (c) appeals against any such assessment,
+
+as if any reference to an assessment or a self-assessment included a reference to an assessment or self-assessment for the purposes of this Part.
+
+(2) HMRC may not determine the amount of a repayment which a borrower may be required to make under this Part under section 28C of the 1970 Act (determination of tax where no return delivered).
+
+### 30. Payment[^key-3254f67e509fe7805bfe96403848e09d]
+
+(1) Any repayment by a borrower under this Part must be paid as if the repayment were an amount of income tax payable by the borrower under section 59B of the 1970 Act (payment of income tax and capital gains tax) in accordance with the following paragraphs.
+
+(2) In a case where the borrower—
+
+- (a) gave the notice required by section 7 of the 1970 Act within 6 months from the end of the tax year, but
+- (b) was not given notice under section 8 of the 1970 Act until after 31st October next following that year,
+
+any repayment by a borrower must be made at the end of the period of three months beginning with the day on which the notice under section 8 of the 1970 Act was given.
+
+(3) In any other case the repayment must be made on or before 31st January next following the tax year.
+
+(4) Section 59B(4A), (5) or (6) of the 1970 Act applies where an enquiry, an amendment of a self-assessment or an assessment is made in respect of a repayment under this Part respectively, and any reference to tax payable in those subsections is to be treated as a reference to a repayment by a borrower.
+
+(5) Sections 59B(5A), (7) and (8) of the 1970 Act do not apply for the purposes of this regulation.
+
+### 31. Late payment penalties[^key-10a07f1fbc3cda54b6e5814fc2aa8e9f]
+
+(1)[^key-ca9d5223365dcfd76374aa0a9065232c] Schedule 56 to the Finance Act 2009 (penalty for failure to make payments on time) applies to repayments which have become payable by a borrower under this Part as it applies to an amount of income tax which—
+
+- (a)[^key-499e35cfc0080fcc210d065bb71384d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) falls within—
+  - (i) item 1, 12, 18 or 19 of the Table in paragraph 1 of that Schedule, or
+  - (ii) insofar as the tax falls within item 1 of that Table, item 17, 23 or 24 of that Table.
+
+(2)[^key-08f24110c4496de2cc1cae8f0e44afad] Schedule 26 to the Finance Act 2021 (penalties for failure to pay tax) applies to repayments which have become payable by a borrower under this Part as it applies to an amount of income tax which falls within item 1, 2, 3, 4, 8, 9 or 10 of the table headed “Income tax or capital gains tax” in paragraph 1(1) of that Schedule.
+
+### 32. Collection and recovery[^key-f0209a8b25595dee86ed1cda31b58aa9]
+
+Part 6 of the 1970 Act (collection and recovery) applies to repayments, interest and penalties which have become due and payable by a borrower under this Part as it applies to income tax and interest charged and penalties imposed under that Act.
+
+### 33. Persons chargeable in a representative capacity[^key-07c34f046e95f410883835ef68b10099]
+
+Sections 74 (Personal representatives) and 75 (Receivers appointed by a court) of the 1970 Act apply in the case of repayments due and payable by a borrower under this Part as they apply in the case of income tax chargeable to any person.
+
+### 34. Interest[^key-f6706d9b1b5b401e5f03aafe7c0fa94e]
+
+(1) Subject to paragraph (2), any repayment due and payable under this Part carries interest at the rate applicable under section 103 of the Finance Act 2009 for the purposes of section 101 of the Finance Act 2009 from whichever of the following days is applicable—
+
+- (a) the last day of the period referred to in regulation 30(2); or
+- (b) the date mentioned in regulation 30(3),
+
+until payment, whether or not the applicable day is a non-business day with the meaning of section 92 of the Bills of Exchange Act 1882.
+
+(2) In relation to any repayment amount due under this Part and outstanding immediately prior to 31st October 2011—
+
+- (a) section 178 of the Finance Act 1989 for the purposes of section 86 of the 1970 Act has effect up to and including 30th October 2011, and
+- (b) sections 101 and 103 of the Finance Act 2009 have effect on and after 31st October 2011.
+
+(3) Sections 90 and 91 of the 1970 Act apply to interest under this regulation as they apply to interest on income tax.
+
+(4) Subject to paragraph (5), a refund by HMRC to a borrower of an overpayment of amounts payable under this Part carries interest at the rate applicable under section 103 of the Finance Act 2009 from the date on which the overpayment arose to the date on which the order for the refund is issued.
+
+(5) In relation to any refund by HMRC where the date of overpayment arose on or before 30th October 2011—
+
+- (a) section 178 of the Finance Act 1989 has effect for any period up to and including 30th October 2011; and
+  - (ii) sections 102 and 103 of the Finance Act 2009 has effect for any period on or after 31st October 2011.
+
+### 35. Penalties[^key-e687cb65e184733a3e4abe810355d799]
+
+(1)[^key-e931c85d2fe1b5fcc39d141647b31b24] Schedule 55 to the Finance Act 2009 (penalty for failure to make returns etc) applies—
+
+- (a) in relation to a return or other document which is required to be made or delivered to HMRC[^key-48817a20eeaa06ca4c1be907dde510ab] [^key-e46270b63016d73e14ce4e773168e1ea]...,
+- (b) which falls within item 1 of the Table in paragraph 1 of that Schedule, and
+- (c) which is required to include information under regulation 25,
+
+as it applies to income tax on that same return.
+
+(2)[^key-5516f26074c26679679f63a6689d7832] The references to liability to tax in Schedule 55 to the Finance Act 2009 are construed as references to the aggregate of the amounts which, if a proper return had been delivered on the filing date, would have been payable—
+
+- (a) by the taxpayer under section 59B of the 1970 Act[^key-30449bccc3cb55c8ffb01bd437d508de] (payment of income tax and capital gains tax); and
+- (b) where the taxpayer is a borrower, by way of repayment under regulation 24.
+
+(3)[^key-9074a8243975adbc7ca02c22629a570e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^key-f3db886b94c1d1505ad3d0248c7c5beb]... Schedule 24 to the Finance Act 2007[^f00032] (penalties for errors) applies—
+
+- (a) in relation to anything done for the purposes of or in connection with the ascertainment of liability of a borrower to make a repayment under this Part as it applies for the purposes of or in connection with the ascertainment of liability to income tax; and
+- (b) in the case of returns, statements, declarations, accounts, information or documents for the purposes of repayments under this Part as it applies for the purposes of income tax.
+
+(5)[^key-8d955f24952a6437dad87a332e5c909d] Schedule 25 to the Finance Act 2021 (penalties for deliberately withholding information) applies—
+
+- (a) in relation to a return or other document which is required to be made or delivered to HMRC,
+- (b) which falls within item 1 of the table in paragraph 1(2) of that Schedule, and
+- (c) which is required to include information under regulation 25,
+
+  as it applies to income tax on that same return.
+
+(6) The references to liability to tax in Schedule 25 to the Finance Act 2021 are construed as references to the aggregate of the amounts which, if a proper return had been delivered on the filing date, would have been payable—
+
+- (a) by the taxpayer under section 59B of the 1970 Act (payment of income tax and capital gains tax: assessments other than simple assessments), and
+- (b) where the taxpayer is a borrower, by way of repayment under regulation 24.
+
+## PART 4 — Deduction of Repayments by Employers
+
+### 36. Interpretation of Part 4[^key-37aec3754d95ad34f3184455da4406e3][^key-b316a401358b9a633b5e9f513309aaa8]
+
+In this Part—
+
+- “[^key-43531e7824cdb80070f2794c45b4e09b]**approved method**” means—
+  - (a) in relation to the delivery of a return in accordance with this Part, the internet services or Electronic Data Interchange services provided through PAYE Online or PAYE Online for Agents;
+  - (b) in relation to the making of a payment in accordance with this Part, the services known as Direct Debit, BACS Direct Credit (including telephone and internet banking), CHAPS, debit and credit card over the internet (known as “**BillPay**”), Government Banking Service (formerly known as “Paymaster”), Bank Giro and payments made through the Post Office;
+- “combined amount” means an amount which includes deductions of student loan repayments under this Part and one or more of the following:
+  - (a) tax due under the PAYE Regulations;
+  - (b) earnings-related contributions due under the Contributions Regulations; or
+  - (c) amounts due under the Income Tax (Construction Industry Scheme) Regulations 2005[^f00033];
+- “the Contributions Regulations” means the Social Security (Contributions) Regulations 2001[^f00034];
+- “deductions working sheet” means any form of record on or in which are to be kept matters required by the Contributions Regulations in connection with an employee’s earnings and deductions;
+- “earnings” means, subject to regulation 40, such sums as—
+  - (a) constitute earnings for the purposes of section 3 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00035] as calculated for the purposes of the Contributions Regulations as amended from time to time; and
+  - (b) are to be taken into account for the purposes of calculating secondary Class 1 contributions under section 9 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00036];
+- “employee” means any person in receipt of earnings;
+- “employer” means any person paying earnings to an employee, and includes the Crown;
+- “Form P45” has the same meaning as in the PAYE Regulations;
+- [^key-d4b067fd188e253e4bf5757751b228c7]...
+- “income tax month” means the period beginning on the 6<sup>th</sup> day of any calendar month and ending on the 5<sup>th</sup> day of the following calendar month;
+- “income tax period” means income tax quarter where regulation 49(2) has effect, but otherwise means income tax month;
+- “income tax quarter” means the period beginning on 6th April and ending on 5th July, or beginning on 6th July and ending on 5th October, or beginning on 6th October and ending on 5th January, or beginning on 6th January and ending on 5th April;
+- “non-Real Time Information employer” means an employer other than[^key-6d9dd2a705a9b07f012fa34096661f9e] a Real Time Information employer[^key-20f615b27ae464d5e005503fb5e3c518];
+- “the PAYE Regulations” means the Income Tax (Pay As You Earn) Regulations 2003[^f00037].
+- “Real Time Information employer” has the meaning given in regulation 2A of the PAYE Regulations[^key-45788976707b698376e5e716b946751b];
+
+### 36A. Real Time Information employers[^key-3fb2fc45a925c03af90d9ac29077f0a1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Repayment of student loans by employees[^key-acad2f8c18ab0627140c5d5912336705]
+
+Subject to the provisions contained in this Part, repayments by a borrower who is an employee must be made, accounted for and recovered in the same manner as income tax deducted from the earnings of an office or employment by virtue of Regulations under section 684 of the 2003 Act.
+
+### 38. New employee to inform employer of repayments liability[^key-a57aa89a35beefcbd106103c495c3b2b]
+
+A person who commences employment with an employer must inform the employer whether the person has any liability to repay a student loan.
+
+### 38A. Commencement of employment with a Real Time Information employer[^key-374687e53f23ec0e8938dd95e13125ae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Amount of repayments[^key-54c0eb1475299ba2f493b2cb86c666c7]
+
+(1) The repayment deducted must be 9% of any earnings paid to, or provided to or for the benefit of, the borrower in respect of the employment which exceed the threshold specified in paragraph (2).
+
+(2) The threshold is—
+
+- (a) the repayment threshold[^key-5917116c716929dff06a0d2e08fe8c15], where the earnings period specified in respect of those earnings is a tax year; or
+- (b) in any other case, the amount which bears the same relation to the repayment threshold[^key-a234b7a332ab3dc1f16f2c8e3e8d3737] as the number of days, weeks or months of the earnings period specified in respect of those earnings bears to the number of days, weeks or months in the tax year respectively.
+
+(3) Where a repayment calculated under paragraph (1) includes pence as well as pounds the pence are to be ignored.
+
+(4) Alternatively, the repayment calculated under paragraph (1) may be calculated in accordance with the appropriate table prepared by the Department.
+
+(5) Where a table would otherwise be appropriate, but the earnings period is a multiple of the period in the table, then the table may be applied by—
+
+- (a) dividing the actual earnings by such figure (X) as will give the earnings earned for the period shown in the table;
+- (b) taking the appropriate repayment specified in the table; and
+- (c) multiplying the table repayment sum by figure X,
+
+to produce the appropriate payment sum for the actual earnings period.
+
+### 40. Calculation of earnings[^key-caf087f4cdd6d5084da9835fe21ec808]
+
+(1) In calculating earnings for the purposes of these Regulations, earnings paid to or for the benefit of an employee are aggregated or not aggregated as they are for the purposes of the Contributions Regulations.
+
+(2) HMRC may, where it is satisfied as to the existence of any practice in respect of the payment of earnings which causes the incidence of repayments to be avoided or reduced by means of the payment of earnings to or for the benefit of an employee by different persons in respect of different employments, give directions for securing that such repayments are made as if the practice were not followed.
+
+(3) HMRC may, where it is satisfied as to the existence of any practice in respect of the payment of earnings which causes the incidence of repayments to be avoided or reduced by means of irregular or unequal payments, give directions for securing that such repayments are made as if that practice were not followed.
+
+### 41. Earnings periods[^key-bc2d0c1703848ccd7d2e156a064e9d93]
+
+(1) The amount of repayments, if any, which is deducted by the employer must, subject to paragraph (2), be calculated by reference to the amount of earnings paid to, or provided to or for the benefit of, the borrower in respect of the employment, in the earnings period specified or determined in respect of those earnings for the purposes of the Contributions Regulations.
+
+(2) Where earnings in respect of two or more employments—
+
+- (a) fall to be aggregated for the purposes of the Contributions Regulations; and
+- (b) the earnings periods in respect of those earnings are, by virtue of the Contributions Regulations, of different lengths,
+
+the earnings period specified in respect of the aggregated earnings will be the shorter or shortest of those earnings periods.
+
+### 42. Multiple employers[^key-b8c1c1bbae340c61643ffcd8dfc0ece4]
+
+(1) Where —
+
+- (a) an employer has made an election under regulation 98(1) of the PAYE Regulations (Multiple PAYE schemes); and
+- (b) no improper purpose notice has been issued under regulation 99(1) of those Regulations (Multiple PAYE schemes: election made for improper purpose ineffective), or, if one has been issued, it has been withdrawn under regulation 99(5),
+
+the employer is to be treated as having made an election for the purposes of those Regulations.
+
+(2) Where earnings in respect of two or more employments fall to be aggregated under regulation 15(1)(a) of the Contributions Regulations, the amount to be deducted is apportioned between the employers in the same proportions as secondary Class 1 contributions are apportioned between them under that regulation.
+
+### 43. Intermediate employers[^key-711377957fee3a78c7af1fea4c778165]
+
+(1) This regulation applies where a direction has been given by HMRC under section 691 of the 2003 Act (PAYE: mobile UK workforce) and for the purposes of this regulation—
+
+- (a) “the principal employer” means the person specified as the relevant person in the direction; and
+- (b) “the immediate employer” means the person specified as the contractor in that direction.
+
+(2) Where an employee works for a person who is not an immediate employer of the employee, that person (“the principal employer”) is deemed to be the employer for the purposes of these Regulations and the immediate employer must provide the principal employer with such particulars of the employee’s earnings as may be necessary to enable the principal employer to comply with these Regulations.
+
+(3) If the employee’s earnings are paid to the employee by the immediate employer then—
+
+- (a) the principal employer must notify the immediate employer of the amount of repayments which are to be deducted when the earnings are paid to the employee, and the immediate employer must deduct the amount notified accordingly; and
+- (b) the principal employer may make a corresponding deduction on making the payment to the immediate employer of the sum from which the earnings in question are to be paid.
+
+### 44. Notice to employers[^key-71ceef908827b15e1797276474ed28ff]
+
+(1) Where HMRC has been given notice by the Department under regulation 11(3)(b) that a borrower may be required to make repayments under this Part on and after a specified date, HMRC must give notice to any person who to its knowledge is an employer of the borrower requiring the employer to make deductions of repayments from earnings paid to the borrower in accordance with these Regulations.
+
+(2) A notice under paragraph (1) must contain—
+
+- (a) the employee’s name;
+- (b) the employee’s National Insurance number; and
+- (c) the date on and after which the employer is required to make deductions.
+
+(3) Where HMRC has been given notice by the Department under regulation 11(3)(d) that it is no longer necessary for a borrower to make repayments after a particular date, HMRC must notify anyone who to its knowledge is an employer of that borrower requiring the employer not to make deductions from the borrower’s earnings on or after a particular date under this Part accordingly.
+
+(4) A notice under paragraph (3) must contain—
+
+- (a) the employee’s name;
+- (b) the employee’s National Insurance number; and
+- (c) the date on and after which no deduction is required to be made.
+
+(5) If HMRC is to give notices to an employer of two or more borrowers in accordance with paragraph (1) or (3) or both, HMRC may give one notice in respect of all such borrowers containing, in respect of each of them, the particulars specified in paragraph (2) or (4) as the case requires.
+
+### 45. Deductions of repayments[^key-2171dc7c4daac9e659ddfa5a1a2d9193]
+
+(1) Every employer who has received any of the following[^key-fb31804798a9d9a70044431b9bb5d7e5]—
+
+- (a) a notice under regulation 44(1);
+- (b) a Form P45 containing a statement under regulation 62; [^key-7199e3ee03fd1da162cb3001dd612ddf]...
+- (c)[^key-2cf2c485836a6ff68b16db0d7f882a87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-e8bd9961b7b122900b03c597923c7a12] information under regulation 38[^key-d881ed69ed7ae804e96a9e6c08ac8462] that the employee has any liability to repay any student loan,
+
+must, on making to that employee any payment of earnings on the first available pay date, which falls on or after the date referred to in paragraph (2) and at any time after that pay date, but before the date referred to in paragraph (3), deduct the appropriate repayment in accordance with these Regulations.
+
+(2) The date is—
+
+- (a) where the employer has received notice from HMRC under regulation 44(1), the date specified in the notice as the date on and after which deductions must be made;
+- (b) where the employer has received a Form P45, the date on which that Form is first received; [^key-5b4fc6c4a1f08db56abfd1bd3d6b4c45]...
+- (c)[^key-37db970a4796d9b286a0e75f0bc52ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-14efc636cabca92492b11d5f4b1bbe58] where an employer has received information under regulation 38[^key-c506dc6e077aec9563819a559068d5c3] that the employee has any liability to repay any student loan, the date on which that information is received.
+
+(3) The date referred to in this paragraph is the date specified in the notice given by HMRC under regulation 44(3) as the date on and after which deductions must not be made; and the employer must not make deductions on or after the first available pay day on or after this date.
+
+(4) Where two or more payments of earnings are to be aggregated for the purposes of calculating the amount of a repayment requiring deduction the employer may deduct that amount either wholly from one such payment or partly from one and partly from the other or any one or more of the others.
+
+(5) Subject to paragraphs (6) and (7), if the employer does not deduct from any payment of earnings to an employee the full amount of a repayment which should have been deducted, the employer may deduct the remainder of the sum which should have been deducted from any subsequent payment or payments of earnings to that employee during the same tax year.
+
+(6) An employer may not make a subsequent deduction in respect of any remainder not previously deducted after the date referred to in paragraph (3).
+
+(7) The amount of any subsequent deduction referred to in paragraph (5) may be an amount in addition to but must not exceed the amount deductible from the payment under the other provisions of this Part.
+
+(8) If the employer deducts any repayment from the earnings of an employee who is a borrower in accordance with these Regulations, the employer is not required to repay any amount to the employee only because that amount was not owed by the employee to the Department as all or part of a student loan.
+
+### 46. Priority where other deductions required[^key-7ac9e9a8c858e8046616670530b16096]
+
+(1) Where any employer is required to deduct repayments from a payment under regulation 45 but the aggregate of the deduction and any deductions on account of income tax and National Insurance contributions exceeds the amount of the payment, the employer must make the deductions on account of income tax and National Insurance first and the amount of the repayment which is to be deducted must be the remaining balance.
+
+(2) Where an employer is required to deduct repayments from a payment under regulation 45 and is also required to comply with one or more of any of the types of notice or order in paragraph (3), paragraph (4) will apply.
+
+(3) For the purposes of this paragraph, the notices and orders are—
+
+- (a) attachment of earnings orders made under the Judgments Enforcement (Northern Ireland) Order 1981[^f00038] or the Magistrates’ Courts (Northern Ireland) Order 1981[^f00039];
+- (b) deductions of earnings orders made under the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00040]; or
+- (c) income support deduction notices made under regulation 20 of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00041] (“the Social Security Regulations”).
+
+(4) An employer must deduct repayments as if they were amounts requiring deduction pursuant to an attachment of earnings order which—
+
+- (a) was not made to secure the repayment of a judgement debt or payments under an administration order;
+- (b) was the most recent order not made for that purpose; and
+- (c) specifies a protected earnings rate equal to the protected earnings rate specified in the most recent attachment of earnings order, deduction of earnings order or income support deduction notice not made for that purpose which specifies such a rate, unless there is no such order or notice.
+
+(5) Where in the circumstances described in paragraph (4) an employer is required to comply with an income support deduction notice under regulation 20 of the Social Security Regulations before deducting a repayment under regulation 45, no repayment must be deducted by the employer.
+
+(6) Where repayments to be deducted in accordance with paragraph (4) are reduced as a result of paragraph (4)(c) and the total of the reduced payments includes pence as well as pounds the pence are to be ignored.
+
+### 47. Deductions working sheet[^key-47842c26c99871f1fe25cc8c350f02ae]
+
+(1) The employer must record on the deductions working sheet for an employee the amount of any deduction from any payment of earnings under these Regulations.
+
+(2) Where two or more payments of earnings are to be aggregated for the purposes of calculating the amount of repayments requiring deduction, the employer must record a single amount, being the total of the amount requiring deduction in respect of the aggregated payments, rather than recording separate amounts in respect of each such payment.
+
+### 48. Certificate of repayments[^key-687d054bb8c85da458fc778a0d6156b9]
+
+(1) Where the employer is required to give an employee a certificate in accordance with regulation 67 of the PAYE Regulations, or paragraph 9 of Schedule 4 to the Contributions Regulations (Form P60), the employer must record in the certificate the amount of repayments deducted by that employer in the tax year to which the certificate relates.
+
+(2) Where the employer is not otherwise required to give an employee who is an employee on the last day of the tax year such a certificate but has deducted repayments in respect of a tax year the employer must give the employee a certificate showing the amount of repayments deducted for that tax year.
+
+### 49. Payment of repayments deducted to HMRC[^key-42b8d58a11552ee6917132cbbb08e9ff]
+
+(1) Subject to paragraphs (2)[^key-1bb4f2267a2993a1a59301067722ecaa]... and (6) the employer must pay an amount equal to the smaller of the repayments—
+
+- (a) deducted by the employer under these Regulations during an income tax month (and, where required, reported under regulation 54B or 54E)[^key-9812cb4444e724d5f039aba77cee4f02]; or
+- (b) which the employer was required to deduct under these Regulations during that income tax month,
+
+to HMRC within 14 days of the end of that income tax month.
+
+(1A)[^key-e60465ccb17533c2adc49aef87efd380] The amount specified in paragraph (1) must be adjusted to take account of errors corrected under regulation 54F(5).
+
+(2) Where, under paragraph 11 of Schedule 4 to the Contributions Regulations, the employer is required to pay National Insurance contributions due in respect of earnings paid in an income tax quarter within 14 days of its end, then subject to paragraphs (3) and (6), the employer must pay an amount equal to the smaller of the repayments—
+
+- (a) deducted by the employer under these Regulations during an income tax quarter, or
+- (b) which the employer is required to deduct during that quarter,
+
+to HMRC within 14 days of the end of that income tax quarter.
+
+(3)[^key-5251e779597480176de233ae6cd77227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Subject to paragraph (5), if the employer has paid to HMRC on account of repayments under this regulation an amount which the employer was not liable to pay, the amounts which the employer is required subsequently to pay in respect of other payments of earnings made by the employer during the same tax year must be reduced by the amount overpaid.
+
+(5) If the overpayment referred to in paragraph (4) corresponds to an over-deduction from the earnings of one or more employees, an employer may only act in accordance with paragraph (4) if and to the extent that the employer has reimbursed the employee or employees for that over-deduction.
+
+(6) Where an employer makes a payment in accordance with paragraph (1) or (2) by an approved method of electronic communications, payment must be made within 17 days of the end of the relevant income tax period.
+
+### 49A. Payments to and recoveries from HMRC for each income tax period by Real Time Information employers: returns under regulation 54F(5)[^key-6c6b8fe7f99d20bd93b5e7b7d6cb133b]
+
+(1) This regulation applies if, during any income tax period, a Real Time Information employer makes a return under regulation 54F(5) (Returns under regulation 54B and 54E: amendments).
+
+(2) The amount specified in regulation 49(1) for the final income tax period in the year covered by the return is to be adjusted to take account of the information in the return.
+
+(3) If the value of the adjustment required by paragraph (2) is a negative amount, the employer may recover that amount—
+
+- (a) by setting it off against the amount the employer is liable to pay under regulation 49(1) for the income tax period in which the return is made; or
+- (b) from the Commissioners for HMRC[^key-06e93f59feb8e04296d764f03f5684c5].
+
+### 50. Notice and certificate when repayments deducted not paid[^key-bf168fbbfb36a8fa8b9de313329f3268]
+
+(1) This regulation applies where, within 17 days of the end of any income tax period a non-Real Time Information employer[^key-9d56423f5b413210616a99293cc9222f] has paid no amount in respect of student loan repayments to HMRC under regulation 49 for that income tax period and HMRC is unaware of the amount, if any, which the employer is liable to pay.
+
+(2) Where this regulation applies, HMRC may give notice to the employer requiring the employer to render a return within 17 days in such form as HMRC may prescribe showing the amount in respect of student loan repayments which the employer is liable to pay to HMRC under regulation 49 in respect of the relevant income tax period.
+
+(3) Where a notice given by HMRC under paragraph (2) extends to two or more consecutive income tax periods, these Regulations have effect as if the consecutive income tax periods were one income tax period.
+
+(4) HMRC may give notice under paragraph (2), even if an amount in respect of student loan repayments has been paid to HMRC by the employer under regulation 54 for an income tax period, if HMRC is not satisfied that the amount paid is the full amount which the employer is liable to pay to HMRC in respect of the income tax period in question.
+
+(5) Upon receipt of a return made by the employer under paragraph (2) HMRC may prepare a certificate showing the amount in respect of student loan repayments which the employer is liable to pay to HMRC in respect of the income tax period in question.
+
+(6) The production of the return made by the employer under paragraph (2) and of the certificate of HMRC under paragraph (5) is sufficient evidence that the amount shown in the certificate is the amount of student loan repayment which the employer is liable to pay to HMRC in respect of the income tax period in question.
+
+(7) Any document purporting to be a certificate under paragraph (5) is deemed to be such a certificate until the contrary is proved.
+
+### 51. Notice of specified amount and certificate when repayments not deducted[^key-3db08fb7196690eef2e76bcf74891a2f]
+
+(1) This regulation applies where, after 17 days following the end of any income tax period, the employer has paid no amount in respect of student loan repayments to HMRC under regulation 49 for that income tax period and there is reason to believe that the employer is liable to pay such repayments.
+
+(2) Where this regulation applies, HMRC upon consideration of the employer’s record of past payments, whether of student loan repayments or of combined amounts, may to the best of its judgment specify the amount in respect of student loan repayments or of a combined amount which it considers the employer is liable to pay, and serve notice on the employer of that amount.
+
+(2A)[^key-b23810a3b13969ab01ea94ea96a14d2c] In arriving at the amount under paragraph (2), HMRC may also take into account any returns made by the employer under these Regulations in the income tax period in which the return is made or earlier income tax periods.
+
+(3) Where the employer has paid no amount under regulation 49 for the relevant income tax periods, HMRC may give a notice under paragraph (2) which extends to two or more consecutive income tax periods and these Regulations have effect as if those income tax periods were the latest income tax period specified in the notice.
+
+(4) HMRC may give a notice under paragraph (2) even if an amount in respect of student loan repayments has been paid to it by the employer under regulation 49 for any income tax period, if HMRC is not satisfied, having sought the employer’s explanation, that the amount paid is the full amount which the employer is liable to pay to it for that income tax period and this regulation will apply to the amount specified.
+
+(5) If the employer claims during the period allowed in a notice given under paragraph (2) that the payment made in respect of the income tax period specified is, or includes, the full amount of student loan repayments which the employer is liable to pay to HMRC for that period, but does not satisfy HMRC of this, then—
+
+- (a) the employer may require HMRC to inspect the employer’s documents and records as if an officer of Revenue and Customs had called upon the employer to produce those documents and records in accordance with regulation 55; and
+- (b) regulation 55 applies to that inspection and the notice given by HMRC under paragraph (2) is to be disregarded.
+
+(6) Subject to paragraph (7), if the specified amount, or any part of it, is unpaid on the expiration of the period of seven days allowed in the notice, the amount unpaid—
+
+- (a) is deemed to be an amount in respect of student loan repayments or to include an amount in respect of student loan repayments which the employer was liable to pay for that income tax period in accordance with regulation 49, and
+- (b) may be certified by HMRC.
+
+(7) Paragraph (6) does not apply if during the period allowed in the notice—
+
+- (a) the full amount which the employer is liable to pay to HMRC for that income tax period is paid, or
+- (b) the employer satisfies HMRC that no amount, or no further amount, is due for that income tax period.
+
+(8) The production of a certificate under paragraph (6) is sufficient evidence that the employer is liable to pay the amount shown in the certificate to HMRC.
+
+(9) Any document purporting to be a certificate under paragraph (6) is deemed to be such a certificate until the contrary is proved.
+
+(10) Despite any other provision of this regulation, if an employer pays any amount certified by HMRC under this regulation and that amount exceeds the amount which the employer would have been liable to pay in respect of that income tax period apart from this regulation, the employer is entitled to set off such excess payment against any amount which the employer is liable to pay to HMRC under regulation 49 for any subsequent income tax period.
+
+(11) If the employer renders the return required by regulation 49 after the end of the tax year and pays the total net amount in respect of student loan repayments which the employer is liable to pay, any excess amount paid and not otherwise recovered by set-off in accordance with this regulation is to be repaid.
+
+### 52. Recovery of payments deducted through the income tax system[^key-a67acf7df29fa13a0e93461e8e520c09]
+
+(1) The provisions of the Taxes Acts and of any Regulations under section 684 of the 2003 Act relating to the recovery of tax apply to the recovery of any amount which the employer is liable to pay to HMRC under regulation 49, 50, 51, 54 or 55 as if that amount had been tax charged by way of an assessment on the employer as employment income under the 2003 Act.
+
+(2) Without prejudice to paragraph (1), regulation 84 of the PAYE Regulations applies to the amount shown in a certificate under regulation 50(5), 51(6), 54(4), or 55(4), with the modification that summary proceedings for the recovery of the amount in respect of student loan repayments or a combined amount, or such part of it as remains unpaid, together with any interest payable on such amount, may be brought at any time before the expiry of 12 months after the date of the certificate.
+
+(3) In the application of any provisions referred to in paragraph (1) to any proceedings under this regulation which limit the amount which is recoverable in those proceedings, any other element of a combined amount which may by virtue of paragraphs (4) to (6) be included as part of the cause of action or matter of complaint in those proceedings is to be disregarded.
+
+(4) Proceedings may be brought for the recovery of—
+
+- (a) the total amount which the employer is liable to pay to HMRC under regulation 49, or
+- (b) the total amount which the employer is liable to pay HMRC as a combined amount including any amount under regulation 49, without specifying the respective amounts of any component of a combined amount or distinguishing the amounts which the employer is liable to pay in respect of each employee and without specifying the employees in question.
+
+(5) For the purposes of—
+
+- (a) proceedings under section 66 or 67 of the 1970 Act (including proceedings under either section as applied by the provisions of this regulation), and
+- (b) summary proceedings (including, in Scotland, proceedings in the sheriff court),
+
+the total amount specified in paragraph (4) will, subject to the provisions of paragraphs (3) and (6), be one cause of action or one matter of complaint.
+
+(6) Nothing in paragraph (4) or (5) prevents the bringing of separate proceedings for the recovery of each of the several amounts referred to in paragraph (4) which the employer is liable to pay to HMRC for any income tax period in respect of each of the employer’s employees.
+
+### 53. Interest on unpaid repayments[^key-a89d65ad74694047ac4e9092d00c481e]
+
+(1)[^key-eb66ffa9baf9865449b36f3417cc369b] Subject to paragraphs (1A) and (2), where an employer has not on or before the 14th day after the end of an income tax period, beginning on or after 6th April 2014, paid an amount which the employer is liable to pay to HMRC under regulation 49 for that period, that amount will carry interest at the rate applicable under section 103 of the Finance Act 2009 for the purposes of section 101 of the Finance Act 2009 from that date until payment.
+
+(1A) Subject to paragraph (2), any amount which an employer is liable to pay to HMRC under regulation 49 and which is outstanding immediately prior to 6th April 2014 will carry interest from the 14th day after the end of the tax year in which it should have been paid to the date of payment at the rate applicable under—
+
+- (a) section 178 of the Finance Act 1989 for the purposes of section 86 of the 1970 Act in respect of the period up to and including 5th April 2014; and
+- (b) sections 101 and 103 of the Finance Act 2009 in respect of the period from 6th April 2014.
+
+(2) Where payment is made by an approved method of electronic communications, the interest payable under paragraph (1) must be calculated as if the date in paragraph (1) was the 17th day after the end of the tax period[^key-130c88baf12bf59a6026856140dd80cb].
+
+(3) Interest payable under this regulation is recoverable as if it were an amount which the employer was liable to pay under regulation 49.
+
+(4) An amount to which paragraph (1) applies carries interest from the day mentioned in that paragraph even if that date is a non-business day within the meaning of section 92 of the Bills of Exchange Act 1882.
+
+(5) A certificate of HMRC that to the best of its knowledge and belief, any amount of interest payable under this regulation has not been paid to it by the employer, is sufficient evidence that the amount of interest shown on the certificate is unpaid and is due to the Crown.
+
+(6) Any document purporting to be a certificate under paragraph (5) is deemed to be such a certificate until the contrary is proved.
+
+(7) HMRC may prepare a certificate certifying the total amount of interest payable in respect of the whole of a combined amount without specifying to what component of the combined amount the interest relates and paragraphs (5) and (6) will apply to that certificate.
+
+(8) Where an employer has paid interest on an amount under this regulation and it is found not to have been due to be paid, although the amount in respect of which it was paid was due to be paid, that interest must be repaid to the employer.
+
+### 54. Returns by employers[^key-dd39b7289feef5d73a73846e30c2c6f2]
+
+(A1)[^key-19ed479ccd5f37b994de0018454e246f] This regulation applies to—
+
+- (a) a non-Real Time Information employer;
+- (b) a Real Time Information employer in relation to tax years in which the employer was, for the whole of the tax year, a non-Real Time Information employer; and
+- (c) a Real Time Information employer to whom HMRC has given a notice requiring a return under this regulation in respect of a tax year.
+
+(1) Not later than 44 days after the end of the tax year the employer must deliver to HMRC in such form as HMRC may approve or prescribe, a return showing in respect of each employee, in respect of whom the employer was required at any time during the tax year to prepare or maintain a deductions working sheet in accordance with regulation 47—
+
+- (a) such particulars as HMRC may require for the identification of the employee;
+- (b) the tax year to which the return relates; and
+- (c) the total amount of repayments deducted for the tax year from the earnings paid to the employee.
+
+(2) The return required by paragraph (1) must include—
+
+- (a) a statement and declaration in the form approved or prescribed by HMRC containing a list of all deductions working sheets on which the employer was obliged to keep records in accordance with these Regulations in respect of the tax year; and
+- (b) a certificate showing the total amount of repayments deducted for the tax year in respect of each employee.
+
+(3) Where the employer is a body corporate, the declaration and the certificate referred to in paragraph (2) must be signed by the secretary or a director of that body corporate.
+
+(4) If within 17 days of the end of any tax year an employer has failed to pay to HMRC the total amount of repayments which the employer is liable to pay under regulation 49, HMRC may prepare a certificate showing the amount of repayments remaining unpaid for the tax year in question.
+
+(5) Where an employer fails to make a return in accordance with paragraph (1), the employer is liable—
+
+- (a) to a penalty or penalties of the relevant monthly amount for each month (or part of a month) during which the failure continues, but excluding any month after the twelfth or for which a penalty under this paragraph has already been imposed; and
+- (b) if the failure continues beyond 12 months, without prejudice to any penalty under sub- paragraph (a), to a penalty not exceeding so much of the amount payable by the employer in accordance with the Regulations for the tax year to which the return relates as remained unpaid at the end of the 22nd April after the end of that tax year.
+
+(6) For the purposes of paragraph (5), the relevant monthly amount in the case of a failure to make a return is—
+
+- (a) £100, where the number of persons in respect of whom particulars should be included in the return is fifty or less;
+- (b) £100 for each fifty such persons, where that number is greater than fifty; and
+- (c) an additional £100 where the number of persons referred to in sub-paragraph (b) is not a multiple of fifty.
+
+(7) Where a return under this regulation must be made—
+
+- (a) at the same time as—
+  - (i) any specified return which must be made in accordance with Regulations made by HMRC under section 684 of the 2003 Act or section 70(1)(a) or 71 of the Finance Act 2004[^key-b0fc25d46d2bae071445804458cce1ee] (sub-contractors) to which section 98A of the 1970 Act (penalties) applies; or
+  - (ii) any specified return which must be made in accordance with Regulations made by HMRC under paragraph 6 of Schedule 1 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 in respect of which section 98A of the 1970 Act has been applied by such Regulations; or
+- (b) if the circumstances are such that a return mentioned in paragraph (a) does not fall to be made, at a time defined by reference to the time for making that return, had it fallen to be made,
+
+and a person has been required to pay a penalty under section 98A(2)(a) of the 1970 Act in respect of the tax return or the National Insurance contributions return or both, that person must not also be required to pay a penalty in respect of any failure to submit the return under this regulation.
+
+(8) For tax years—
+
+- (a) ending on or before 5th April 2009, where an employer fraudulently or negligently makes an incorrect return under paragraph (1), the employer will be liable to a penalty not exceeding £3000 for each employee in respect of whom incorrect particulars are included in the return;
+- (b) commencing on or after 6th April 2009, where the date on which the return is due to be filed is on or after 6th April 2010, where an employer carelessly or deliberately makes an incorrect return under paragraph (1) penalties as set out in Schedule 24 to the Finance Act 2007 (penalties for errors) will apply as they apply in connection with PAYE.
+
+(9) A certificate under paragraph (4) that the net amount in respect of student loan repayments remaining unpaid for that year has not been paid to it by the employer is sufficient evidence that the sum shown on the certificate is unpaid and is due to the Crown.
+
+(10) Any document purporting to be a certificate under paragraph (4) is deemed to be such a certificate until the contrary is proved.
+
+### 54A. Application of regulations 54B to 54F[^key-a061c4e6c5801ca0397b6fc2250a3cfa]
+
+Regulations 54B to 54F apply only to Real Time Information employers.
+
+### 54B. Real time returns of information about payments of earnings
+
+(1) On or before making a payment of earnings to an employee, an employer must deliver to HMRC the information specified in Schedule 2 (Real time returns) in accordance with this regulation [^key-baae4f673b53ae88b5d5440ef736ac3d]....
+
+(1A)[^key-7397efc13dc8c4118e5ed70192770271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B)[^key-7397efc13dc8c4118e5ed70192770271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1C)[^key-7397efc13dc8c4118e5ed70192770271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1D)[^key-7397efc13dc8c4118e5ed70192770271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1E)[^key-7397efc13dc8c4118e5ed70192770271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The information must be included in a return.
+
+(3) Subject to paragraph (4), if payments of earnings are made to more than one employee at the same time, the return under paragraph (2) must include information required by Schedule 2 in respect of each employee to whom a payment of earnings is made at that time.
+
+(4) If payments of earnings are made to more than one employee at the same time but the employer operates more than one payroll, the employer must make a return in respect of each payroll.
+
+(5) The return is to be made using an approved method of electronic communications.
+
+(6)[^key-81a259a7ffc34b9d82e0f9307db1d94a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-81a259a7ffc34b9d82e0f9307db1d94a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 54BA. Employees paid in specified circumstances[^key-f1f2f0a4d8f8319198e388b0032244f0]
+
+(1) This regulation applies if an employer makes a payment to an employee and all of the circumstances in paragraph (2) apply.
+
+(2) The circumstances are that—
+
+- (a) the payment includes an amount which is a relevant payment for work undertaken by the employee on—
+  - (i) the day the payment is made, or
+  - (ii) provided that the payment is made before the employee leaves the place of work at the end of the employee’s period of work, the day before the payment is made,
+- (b) in respect of the work mentioned in sub-paragraph (a), it was not reasonably practicable for the employer to calculate the payment due before the completion of the work, and
+- (c) it is not reasonably practicable for the employer to deliver the information required by regulation 54B(1) on making the payment.
+
+(3) The employer need not deliver the information required by regulation 54B(1) on or before making the payment.
+
+(4) The employer must deliver that information no later than the end of the period of 7 days starting with the day following the day on which the payment is made.
+
+(5) Where this regulation applies, the information required under regulation 54B(1) in respect of the relevant payment may be included in a return with the information for any other relevant payment.
+
+### 54BB. Benefits and expenses – returns under regulations 85 to 87 of the PAYE Regulations
+
+(1) This paragraph applies if an employer makes a payment of general earnings to an employee which, for the purposes of tax falls to be included in a return under—
+
+- (a) regulations 85 and 86 of the PAYE Regulations (employers: annual return of other earnings (Forms P11D and P9D) – information which must be provided for each employee), or
+- (b) regulations 85 and 87 of the PAYE Regulations (employers: annual return of other earnings (Forms P11D and P9D) – information which must also be provided for benefits code employees) or would do if the employee’s employment was subject to the benefits code for the purposes of regulation 85 of the PAYE Regulations.
+
+(2) If the employer is unable to comply with the requirement in regulation 54B(1) to deliver the information required by that regulation on or before making the payment, the employer must instead deliver the information as soon as reasonably practicable after the payment is made and in any event no later than 14 days after the end of the income tax month the payment is made in.
+
+### 54C. Modification of the requirements of regulation 54B: notional payments
+
+(1) This regulation applies if an employer makes a payment of earnings to an employee which, for the purposes of tax, is a notional payment within the meaning given by section 710(2) of the 2003 Act.
+
+(2) If the employer is unable to comply with the requirement in regulation 54B(1) to deliver the information required by that regulation on or before making the payment, the employer must instead deliver the information as soon as reasonably practicable after the payment is made and in any event no later than—
+
+- (a) the time at which the employer delivers the information required by regulation 67B of the PAYE Regulations in respect of the payment;
+- (b) the time at which the employer makes a deduction from earnings in respect of the payment in accordance with regulation 45 (Deductions of repayments); or
+- (c) 14 days after the end of the income tax month the payment is made in,
+
+whichever is earliest.
+
+### 54D. Relationship between regulation 54B and aggregation of earnings
+
+(1) Where an employee’s earnings are aggregated, the employer or, as the case may be, employers must make such arrangements as are necessary to ensure that the information specified in paragraph (2) in respect of all the aggregated earnings is provided in the information given under regulation 54B relating to one of the employee’s employments only.
+
+(2) The information specified in this paragraph is the information specified in paragraph 3 of Schedule 2 (Real time returns).
+
+### 54E. Exceptions to regulation 54B
+
+(1) This regulation applies to an employer who is—
+
+- (a) an individual who is a practising member of a religious society or order whose beliefs are incompatible with the use of electronic communications;
+- (b) a partnership, if all partners fall within sub-paragraph (a);
+- (c) a company, if all directors and the company secretary fall within sub-paragraph (a); [^key-8c6e898e8190080a1702994eabc869ba]...
+- (d) a care and support employer , or[^key-c0de1edf003153d95794ffc3d6fb3c21]
+- (e) an employer to whom a direction has been given under regulation 67(11) of the PAYE Regulations.,[^key-57493b34a47070658d6e3b5439d70203]
+
+but this is subject to paragraph (2B).
+
+(2) An employer to whom this regulation applies may proceed in accordance with this regulation instead of regulation 54B.
+
+(2A)[^key-fda200c2f2bb99e260a17706f3f5c97b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-7c5555bafdc896e76e3328327eb90e0b] This regulation does not apply if a Real Time Information employer within paragraph (1) makes a return using an approved method of electronic communications.
+
+(3) The[^key-0055b723a777164d076ad7fd8dfd5be6] employer must deliver to HMRC the information specified in Schedule 2 in respect of each employee to whom payments of earnings are made in an income tax quarter[^key-25e5ed9a6960a2cb88904b6cb8a4a5de].
+
+(4) The information must be included in a return.
+
+(5) The return required under paragraph (4) must be delivered within 14 days after the end of the income tax quarter[^key-7a13014af5ba538a397560d3bc3b7a1c] the return relates to.
+
+(6) If payments of earnings have been made to more than one employee in the income tax quarter[^key-fbca8b8858289fee107ff7bb5528ab7f], the return under paragraph (4) must include the information required by Schedule 2 in respect of each employee to whom the payment of earnings has been made.
+
+(7)[^key-6d6888c2c04de43feb31e68beb6c13bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-6d6888c2c04de43feb31e68beb6c13bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In paragraph (1)(c), “company” means a body corporate or unincorporated association but does not include a partnership.
+
+(10) In paragraph (1)(d), “a care and support employer” means an individual (“A”) who employs a person to provide domestic or personal services at or from A’s home where—
+
+- (a) the services are provided to A or a member of the A’s family;
+- (b) the recipient of the services has a physical or mental disability, or is elderly or infirm; and
+- (c) it is A who delivers the return (and not some other person on A’s behalf).
+
+### 54F. Returns under regulations 54B and 54E: amendments
+
+(1) This regulation applies where there is an inaccuracy in a return, whether careless or deliberate,[^key-a02a052550ab32467ac62189ce0fe3ee] made under regulation 54B (real time returns of information about payments of earnings) or 54E (exceptions to regulation 54B) and paragraph (2) or (3) applies.
+
+(2) This paragraph applies where the inaccuracy[^key-78ef74694fd2aa7a29abe1b0ad454c6b] relates to the information given in the return in respect of an employee under paragraph 3 of Schedule 2 (Real time returns).
+
+(3) This paragraph applies where the inaccuracy[^key-fa57061bad7adbde7cd034b1dbd36b11] was the omission of details of a payment of earnings to an employee.
+
+(4)[^key-b6bf368dd567c9d56c1c3139cb8a3108] When the employer becomes aware of an inaccuracy in a return submitted under regulation 54B or 54E, the employer must provide the correct information in the next return for the tax year in question.
+
+(5) But if the information has not been corrected before 20th April following the end of the tax year in question, the employer must make a return under this paragraph.
+
+(6) A return under paragraph (5)—
+
+- (a) must include the following—
+  - (i) the information specified in paragraph 1 of Schedule 2 (Real time returns);
+  - (ii)[^key-3eae8fa8432d515f494d1fe860255168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the value of the adjustment to the information given under paragraph 3 of Schedule 2 in the final return under regulation 54B or 54E containing information in respect of the employee in the tax year in question; and
+  - (iv) if paragraph (7) applies, the information specified in paragraph 5 of Schedule 2;
+- (b) must be made as soon as reasonably practicable after the employer becomes aware of the inaccuracy[^key-e00c7b9cd0f9d8776fc1b465fc7de6dc]; and
+- (c) must be made by an approved[^key-de4c4eab1f7bd4a698445564eb7657fa] method of electronic communications.
+
+(7) This paragraph applies if—
+
+- (a) the inaccuracy[^key-0ba327262b8370e0b4ff53f3b663226a] is within paragraph (3);
+- (b) the payment of earnings was the first payment of earnings to the employee in the employment; and
+- (c) the information specified in paragraph 5 of Schedule 2 has not otherwise been provided.
+
+(8) In the application of paragraphs (5) and (6) to cases within paragraph (3), if no information was given in any returns under regulation 54B or 54E in respect of the employee in the tax year, the value of the adjustments required must be calculated as if there was a final return containing information for the employee in the year and the figure requiring adjustment was zero.
+
+(9) Paragraph (6)(c) does not apply if the employer is one to whom regulation 54E applies but in those circumstances the return must be in such form as HMRC may approve or prescribe.
+
+### 54G. Failure to make a return under regulation 54B or 54E[^key-c3def97f8aeb50c2640f9a7b1bc81025]
+
+(1) This regulation applies where an employer does not make a return as required by regulation 54B (Real time returns of information about payments of earnings) or 54E (exceptions to regulation 54B).
+
+(2) The employer must provide the information in the next return made under regulation 54B or 54E for the tax year in question.
+
+(3) If the information has not been provided before 20 April following the end of the tax year in question, the employer must make a return under this paragraph before 20 May following the tax year in question.
+
+(4) A return under paragraph (3)—
+
+- (a) must include the information specified in Schedule 2;
+- (b) must be made as soon as reasonably practicable after discovery of the failure to make the return, and
+- (c) must be made by an approved method of electronic communications.
+
+(5)[^key-d8351d24553a482041049226e350f3f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 55. Inspection of employers’ records[^key-926fd1e7ec64117397f82f06bbedd061]
+
+(1) For the purposes of carrying out inspections of an employer’s records in relation to checking their compliance with this Part, Schedule 36 to the Finance Act 2008[^f00045] (information and inspection powers) applies as it applies in relation to checking a person’s tax position (as defined in that Schedule) subject to the modifications in paragraph (2).
+
+(2) The modifications are —
+
+- (a) any reference to any provision of the Taxes Acts is to be treated as a reference to this Part;
+- (b) the reference to information relating to the conduct of a pending appeal relating to tax is to be treated as a reference to information relating to the conduct of a pending appeal relating to compliance with this Part;
+- (c) paragraph 21 is omitted; and
+- (d) any reference to “statutory records” includes all documents and records relating to the repayments requiring deduction under this Part.
+
+(3) Statutory records (as defined in Schedule 36 to the Finance Act 2008) must be retained by the employer for not less than 3 years after the end of the tax year to which they relate.
+
+(4) HMRC may, in relation to each inspection, prepare a certificate showing—
+
+- (a) the amount in respect of student loan repayments which it appears from the documents and records produced that the employer is liable to pay HMRC for the years or income tax periods covered by the inspection; and
+- (b) any amount in respect of such student loan repayments which has not been paid to HMRC.
+
+(5) A certificate under paragraph (4) is sufficient evidence that the employer is liable to pay the amount shown in the certificate pursuant to paragraph (4)(b) to HMRC in respect of the years or income tax periods shown in the certificate.
+
+(6) Any document purporting to be a certificate under paragraph (4) is deemed to be such a certificate until the contrary is proved.
+
+### 56. Powers to obtain information[^key-42c51b61db9dfcafbb46750277eb7519]
+
+(1) For the purposes of obtaining information in relation to checking an employer’s compliance with this Part, Schedule 36 to the Finance Act 2008 (information and inspection powers) applies as it applies in relation to checking a person’s tax position (as defined in that Schedule) subject to the modifications in paragraph (2).
+
+(2) The modifications are —
+
+- (a) any reference to any provision of the Taxes Acts is to be treated as a reference to this Part;
+- (b) any reference to prejudice to the assessment or collection of tax is to be treated as a reference to prejudice to the assessment or collection of student loan repayments;
+- (c) the reference to information relating to the conduct of a pending appeal relating to tax is to be treated as a reference to information relating to the conduct of a pending appeal relating to compliance with this Part;
+- (d) paragraphs 21, 35(4)(b), 36 and 37(2) are omitted; and
+- (e) a reference to “statutory records” includes all documents and records relating to the repayments requiring deduction under this Part.
+
+### 57. Formal determination of repayments payable by employer[^key-6f78ccf972fab1e9bed3febff6014a04]
+
+(1) This regulation applies where it appears to HMRC that there may be repayments payable by an employer under regulation 49 which—
+
+- (a) have not been paid to HMRC, and
+- (b) have not been certified by HMRC under regulation 54.
+
+(2) Where this regulation applies, HMRC may determine the amount of those repayments to the best of its judgement and must serve notice of the determination on the employer.
+
+(3) A determination under this regulation may—
+
+- (a) cover the repayments payable by the employer under regulation 49 for any one or more tax periods in a tax year, and
+- (b) extend to the whole of the repayments or such part of them as is payable in respect of a class or classes of employees specified in the notice of determination (without naming the individual employees) or of one or more specified, named employees.
+
+(4) The provisions of Parts 4 (Assessment and Claims), 5 (Appeals and Other proceedings) , 5A (Payment of Tax)[^key-5d4794612b7ed9d9d0835a2044751729] and 6 (Collection and Recovery) of the 1970 Act apply to a determination under this regulation, with any necessary modification—
+
+- (a) as if the determination were an assessment for the purposes of that Act; and
+- (b) as if the amount of repayments determined was income tax charged on the employer.
+
+### 58. Interest on unpaid repayments which have been formally determined[^key-b0adefab535ea37db5b6f976d1bb27a2]
+
+(1)[^key-76fb2e5ca9946efc6f698e6dae59c55a] Subject to paragraph (1A), where—
+
+- (a) an employer has not paid an amount of repayments to HMRC under regulation 49;
+- (b) HMRC makes a determination of the amount of such repayments under regulation 57; and
+- (c) repayments are payable pursuant to that determination,
+
+those repayments will carry interest at the applicable rate under section 103 of the Finance Act 2009 for the purposes of section 101 of the Finance Act 2009 from the 14th day after the end of the income tax period in which they are payable, beginning on or after 6th April 2014, until payment.
+
+(1A) Any repayments under paragraph (1) that are outstanding immediately prior to 6th April 2014 will carry interest from the 14th day after the end of the tax year in which it should have been paid to the date of payment at the applicable rate under—
+
+- (a) section 178 of the Finance Act 1989 for the purposes of section 86 of the 1970 Act in respect of the period up to and including 5th April 2014; and
+- (b) sections 101 and 103 of the Finance Act 2009 in respect of the period from 6th April 2014.
+
+(2) Interest payable under this regulation is recoverable as if it were an amount which the employer is liable to pay under regulation 49.
+
+### 59. Death of employer[^key-6aaa7d306ee176f2f1d7ea339abdcfe7]
+
+If an employer dies, anything which that employer would have been liable to do under these Regulations must be done by the employer’s personal representative, or in the case of an employer who paid earnings on behalf of another, by the person succeeding that employer, or if not succeeded, by the person on whose behalf that employer paid earnings.
+
+### 60. Succession to a business[^key-9fd266af938231ea86497cbd02463458]
+
+(1) This regulation applies where there has been a change in the employer from whom the employee receives earnings in respect of the employment in any trade, business concern or undertaking or in connection with any property, or from whom an employee receives an annuity other than a pension.
+
+(2) Subject to paragraph (3), where this regulation applies in relation to any matter arising after the change of employer, the subsequent employer is liable to do anything that the previous employer would have been liable to do if there had been no change of employer.
+
+(3) No subsequent employer is liable for the payment of repayments deducted from an employee’s earnings before the change of employer unless those repayments are also deductible from earnings paid to the employee after the change of employer.
+
+### 61. Payment by cheque[^key-5edc9b19f9b47312d290b05874ccc94d]
+
+For the purposes of regulations 49 to 53, where—
+
+- (a) any payment to HMRC is made by cheque, and
+- (b) the cheque is paid on its first presentation to the banker on whom it is drawn, the payment will be treated as paid on the day on which the cheque was received by HMRC and references in those regulations to “pay”, “paid”, “unpaid” and “overpaid” are to be interpreted on this basis.
+
+### 62. Cessation of employment[^key-c604c5e879eadecd97147f13dcd208e5]
+
+Where an employer completes a Form P45, the employer must state in it that the employee is a borrower if, on the date of the Form P45—
+
+- (a) the employer has received notice that the employee is a borrower as described in regulation 44(1); [^key-3cf0baf4c4fae35a85e2a2bc62660626]...
+- (b)[^key-7c7d6c7d072f8afd3302c9307acbb634] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .or[^key-de4a29312dca0a7c388c4ff694b92ef2]
+- (ba) the employer has received information under regulation 38[^key-81c020991b3e86356b825959f4d1e725] that the employee has any liability to repay any student loan; and
+- (c) if paragraph (a) or (ba) apply,[^key-6aba94abe8d2373b1fb311a11a87690f] the employer has not received a notice from HMRC under regulation 44(3) requiring the employer not to make deductions from the employee’s earnings on and after a date before the date on which the person ceased to be an employee.
+
+### 63. Penalties[^key-ef269c512cddcf1d9d34eee1b463dd64]
+
+(1) [^key-5fd7dbd291d192aad5b02f1bc40c18b9]... Where in the case of any employee an employer fraudulently or negligently—
+
+- (a) makes incorrect deductions; or
+- (b) makes or receives incorrect payments in a tax year
+
+in pursuance of this Part, the employer is liable to a penalty not exceeding £3000 for each employee for whom incorrect deductions or payments are made.
+
+(2) A penalty under paragraph (1) must not be imposed before the end of the relevant tax year; and no more than one penalty per employee under that paragraph may be imposed in relation to any tax year.
+
+(3)[^key-f1e93fd981d5451787f2cb48d73f743b] Schedule 56 to the Finance Act 2009 (penalty for failure to pay tax) shall apply in relation to the late payment from an employer to HMRC of student loan repayments deducted from an employees’ earnings as if—
+
+- (a) in relation to all regulations in this part other than regulation 57 payments from an employer to HMRC were a payment of tax falling within item 2 of the table in paragraph 1 of that schedule;
+- (b) in relation to regulation 57 payments from an employer to HMRC were a payment of tax falling within items 17, 23 or 24 of the table in paragraph 1 of that schedule;
+- (c) references to the PAYE Regulations in item 2 of the table in paragraph 1 of that schedule were references to this Part.
+
+(4)[^key-35ef093348a78d0ed5f6a5cc9fea759c] For tax years commencing on or after 6th April 2014, where the date on which the return is due to be filed is on or after 6th April 2014, where a Real Time Information employer—
+
+- (a) carelessly or deliberately makes an incorrect return under regulations 54B or 54E; and
+- (b) the return contains an inaccuracy which amounts to, or leads to—
+  - (i) an understatement of liability under this Part to make payments to HMRC; or
+  - (ii) false or inflated claim for the recovery of payments made to HMRC under this Part,
+
+  penalties as set out in Schedule 24 to the Finance Act 2007 (penalties for error) will apply as they apply in connection with a return for the purposes of PAYE Regulations.
+
+### 64. Collection and recovery of penalties[^key-a5a43d4d93f348593f3b5a05a5abd39b]
+
+Section 69 of the 1970 Act (recovery of penalties etc) applies to penalties imposed under this Part as it applies to penalties imposed under that Act, but does not apply to penalties under regulation 54(8)(b)[^f00046].
+
+### 65. Application of the PAYE Regulations[^key-ac3a07ef44b8df47413ab08938a91bbc][^key-149fc7627bf5188e14092894a41b631e]
+
+To the extent that the provisions of the PAYE Regulations apply by virtue of regulation 37 for the purposes of these Regulations, the PAYE Regulations will apply as if in regulation 210 (penalties and appeals), an employer is not liable to a penalty if the employer has been liable to a penalty for failing to comply with regulation 205 of those Regulations or regulation 90N of the Contribution Regulations in relation to the same tax year.
+
+## PART 5 — Repayment by Overseas Borrowers
+
+### 66. Interpretation of Part 5[^key-8bb638215270db054792095304c0f356][^key-43726cefbef459a6347d4c6e2790e499]
+
+In this Part—
+
+- “[^key-b8f9926ecd63769b220be5ef43f54912]**country**” includes territory;
+- “**country-specific multiplier**” means the country-specific multiplier calculated in accordance with regulation 66A;
+- “gross income” means income from all sources before deductions for or relief from tax or other statutory charge;
+- “residence” in or outside the United Kingdom has the same meaning as it has in the Taxes Acts; and
+- [^key-f096c215f303fd8ccb3a6e6fd325311e]...
+
+### 66A. How to calculate country-specific multiplier[^key-6b415b58d142400704c739d006694929]
+
+(1) The country-specific multiplier for a country is the multiplier specified in the table in relation to its band.
+
+(2) The band for a country is the band specified in the table in relation to its price level index value.
+
+| Price level index value (x) | Band | Multiplier |
+| --- | --- | --- |
+| *x*\<0.3 | A | 0.2 |
+| 0.3≤*x*\<0.5 | B | 0.4 |
+| 0.5≤*x*\<0.7 | C | 0.6 |
+| 0.7≤*x*\<0.9 | D | 0.8 |
+| 0.9≤*x*\<1.1 | E | 1.0 |
+| 1.1≤*x*\<1.3 | F | 1.2 |
+| *x*≥1.3 | G | 1.4 |
+
+(3) The price level index value for a country is the quotient of—
+
+- (a) the price level value for the country in the most recent year available, and
+- (b) the price level value for the United Kingdom in the same year.
+
+  | ***Example*** |
+  | --- |
+  | 0.736687 is the country’s price level value and 1.058064 is the United Kingdom’s price level value.<br>0.736687 divided by 1.058064 is 0.696259…‬ (unrounded).<br>The price level index value for the country is 0.696259…, which is Band C.<br>The country-specific multiplier for a country in Band C is 0.6. |
+
+(4) If the price level value for a country is not published, the Department may determine the price level value for that country by reference to a comparable country.
+
+(5) In this regulation, “**price level value**” means the value published by the World Bank in its “Price level ratio of PPP conversion factor (GDP) to market exchange rate” world development indicator.”
+
+### 66B. Status of examples
+
+(1) An example used in these Regulations—
+
+- (a) is only illustrative of the provision to which it relates, and
+- (b) does not limit the provision.
+
+(2) If an example and the provision to which it relates are inconsistent, the provision prevails.
+
+### 67. Notice of overseas residence[^key-9b6edbd9dfa501f90005f75dc3497483]
+
+(1) A borrower must notify the Department of any period of residence outside the United Kingdom which exceeds 3 months.
+
+(2) A borrower must provide such information about the borrower’s income during any such period of residence as the Department may require.
+
+### 68. Notice of liability to make repayments[^key-e61690f72d5bc66288f790458b13a837]
+
+(1) Subject to regulation 70, where the Department is satisfied that a borrower is resident outside the United Kingdom, it may serve a notice on the borrower requiring the borrower to make repayments on any student loan in accordance with regulation 69.
+
+(2) In a notice served under paragraph (1), the Department may require a borrower, if the borrower has failed—
+
+- (a) to give the notice required by regulation 67(1); or
+- (b) to provide any information required by the Department under regulation 67(2),
+
+to repay immediately such part of a student loan as will reduce the amount outstanding to the amount which the Department considers would have been outstanding if the borrower had given the notice or provided the information required.
+
+### 69. Repayment by fixed instalments[^key-bb00335ae586b46858026d5147d0a28e]
+
+(1)[^key-0aaaf2dc39f6b156b9cdd39a8b36def1] A borrower must pay to the Department a fixed instalment [^key-a8b3baadb876d63a1d8bf93512859039]...—
+
+- (a) no later than the day specified in a notice served under regulation 68; and
+- (b) no later than the same day of each subsequent month.
+
+(2)[^key-0a0526d627a79613d1e4342abea1f4ec] The amount of the fixed instalment is the product of—
+
+- (a) the fixed instalment rate for the borrower’s loan, and
+- (b) the country-specific multiplier for the borrower’s country of residence.
+
+(3) The fixed instalment rate for the student loan is calculated in accordance with regulation 69A.
+
+### 69A. How to calculate fixed instalment rate[^key-215437969b82e1cc4b1e44f4fd9e7f1e]
+
+(1) The fixed instalment rate for a student loan is the result of the formula—
+
+- (a) calculated on the 6th of April of each year, and
+- (b) rounded down to the nearest £1 (if necessary).
+
+  [formula: see source](https://www.legislation.gov.uk/nisr/2009/128)
+
+(2) In the formula—
+
+- “**x**” means the median salary for graduates (to the nearest £500) in the most-recent year published by the Department for Education;
+- “**y**” means the repayment threshold for the student loan as calculated under Regulation 24(6).
+
+### 70. Repayment by income-related instalments[^key-34a49fc1a5ffe85ce58b64cf72b11819]
+
+(1) Where the Department is satisfied that a borrower to whom regulation 68 applies has complied with a requirement to provide information under regulation 67, the Department may determine that the borrower may repay a loan by income-related instalments in accordance with this regulation.
+
+(2) The first such instalment must be paid on a date determined by the Department being a date not more than 2 months later than the date of the determination and subsequent instalments must be paid on the same date in each subsequent month for up to 12 months.
+
+(2A)[^key-2e3938c441c1332132bc5c09f3040d4a] The Department must determine the amount of each instalment and must ensure that the total amount of all instalments paid in the period up to 12 months from the date of the first instalment referred to in paragraph (2) must not exceed the relevant amount.
+
+(3)[^key-bd1206c25dc6c4302e59321d2ac6d8b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-9ba61f72156f81473cbca686e8d13a51] The relevant amount is 9% of the gross income which the Department consider the borrower is likely to receive in the next 12 month period following the date of the determination referred to in paragraph (2), disregarding—
+
+- (a) income up to the applicable threshold, calculated in accordance with regulation 70A; and
+- (b) income in respect of which the Department is satisfied that repayments are likely to be made under Part 3 or 4.
+
+(5) The amount of each instalment[^key-7c8b77861716031e26fa0175046972a8] must be stated in the determination.
+
+(6) At the end of the period referred to in paragraph (2), the borrower must pay fixed instalments under regulation 69, subject to a further determination under paragraph (1).
+
+(7) At any time during the period referred to in paragraph (2), the Department may make a re-determination under paragraph (1).
+
+### 70A. How to calculate applicable threshold[^key-eea54c67f6016525f6fac4d28115971b]
+
+The applicable threshold is, in relation to a borrower’s loan, the amount—
+
+- (a) rounded up to the nearest £5 (if necessary), and
+- (b) being the product of—
+  - (i) the repayment threshold for the loan, and
+  - (ii) the country-specific multiplier for the borrower’s country of residence.
+
+### 71. Calculation of fixed instalment and applicable threshold[^key-018edad553563019862f634054d50076]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 72. Application to cease repayment by instalments[^key-1f7337670f91641c48fed0650b6fc3fe]
+
+(1) A borrower who—
+
+- (a) is required to make repayments under this Part; and
+- (b) who has not been required to repay a student loan in full immediately under regulation 73,
+
+may apply to the Department for a determination that the borrower is no longer required to make such repayments.
+
+(2) Where the Department is satisfied that—
+
+- (a) the borrower is resident in the United Kingdom; and
+- (b) the borrower is likely to be resident in the United Kingdom for the tax year during which the date specified in the determination relating to that borrower will fall,
+
+the Department may determine that a borrower who has applied under paragraph (1) is not to be required to make repayments under this Part from a date specified in the determination, being a date not more than 2 months later than the date of the determination.
+
+(3) A determination under paragraph (2) has effect until the borrower again becomes liable to repay the loan under regulation 69 or 70.
+
+### 73. Foreclosure[^key-4edf5d43f4031e1973f81b8fc3a2c693]
+
+If a borrower does not pay an instalment or other amount when it is due, the Department may require the borrower to repay the loan in full immediately.
+
+### 74. Costs and expenses of the Department[^key-e109743df71a3566fc431ede8768d5a7]
+
+(1) Where the Department incurs reasonable costs or expenses in taking steps—
+
+- (a) resulting from a borrower’s failure to comply with regulation 67, to
+  - (i) obtain a borrower’s address outside the United Kingdom; or
+  - (ii) obtain information about a borrower’s income during any period of residence outside the United Kingdom;
+- (b) to serve a notice under regulation 68(1) in any of the circumstances set out in regulation 68(2); or
+- (c) to recover the outstanding balance of the loan in full under regulation 73,
+
+the Department may require reimbursement of those costs or expenses by the borrower and may add them to the borrower’s loan account and they will form part of the principal of the loan from the date on which they are added.
+
+## PART 6 — Insolvency
+
+### 75. Effect of borrower insolvency on student loans[^key-e77166bd9cdc71a0aa25dd3f1c3a08db]
+
+(1) In this Part, “eligible student” means any person who is an eligible student—
+
+- (a) in Northern Ireland, for the purposes of the Education (Student Support) Regulations (Northern Ireland) 2008[^f00047] or any subsequent Regulations made under the Education (Student Support) (Northern Ireland) Order 1998[^f00048];
+- (b) in Wales, for the purposes of the Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2008[^f00049] or any subsequent Regulations made under section 22 of the Teaching and Higher Education Act 1998[^f00050] (“the 1998 Act”); or
+- (c) in England, for the purposes of the Education (Student Support) (No 2) Regulations 2008[^f00051] or any subsequent Regulations made under section 22 of the 1998 Act;
+
+(2) In Northern Ireland—
+
+- (a) any sum payable to an eligible student by way of a student loan which the eligible student receives or is entitled to receive after the commencement of that person’s bankruptcy, will not be treated as part of the bankrupt’s estate or claimed for the bankrupt’s estate under Article 280, 283 or 283A[^key-126003f58bf496934ee0efe6c1fcd97c] of the Insolvency (Northern Ireland) Order 1989[^f00052], whether the entitlement arises before or after the commencement of the bankruptcy; [^key-a44154f93dd2dd10b834b6cbed7f4279]...
+- (b) any debt or liability to which that person is or may become subject in respect of any sum payable to an eligible student by way of a student loan will not be included in that person’s bankruptcy debts when the person receives or is entitled to receive that sum—
+  - (i) in the case of a bankruptcy commencing before 1st March 2005, after the commencement of the bankruptcy; or
+  - (ii) in the case of a bankruptcy commencing on or after 1st March 2005, before or after the commencement of the bankruptcy.
+- (c)[^key-98fc621bfb4da7520df481497494da78] any sum payable to an eligible student by way of a student loan which the eligible student receives or is entitled to receive before or after the approval of that person’s individual voluntary arrangement under Part 8 of the Insolvency (Northern Ireland) Order 1989 will not be treated as part of the individual voluntary arrangement approved under articles 232 or 237D of that Order, whether the entitlement arises before or after the approval of the arrangement; and
+- (d) any debt or liability to which that person is or may become subject in respect of any sum payable to an eligible student by way of a student loan will not be included in that person’s individual voluntary arrangement when that person receives or is entitled to receive that sum—
+  - (i) in the case of an individual voluntary arrangement approved before 6th April 2011, after the approval of the arrangement; or
+  - (ii) in the case of an individual voluntary arrangement approved on or after 6th April 2011, before or after the approval of the arrangement.
+
+(3) In England and Wales—
+
+- (a) any sum payable to an eligible student by way of a student loan which the eligible student receives or is entitled to receive after the commencement of that person’s bankruptcy, will not be treated as part of the bankrupt’s estate or claimed for the bankrupt’s estate under section 307 or 310 of the Insolvency Act 1986[^f00053], whether the entitlement arises before or after the commencement of the bankruptcy; and
+- (b) any debt or liability to which that person is or may become subject in respect of any sum payable to an eligible student by way of a student loan will not be included in that person’s bankruptcy debts when the person receives or is entitled to receive that sum—
+  - (i) in the case of a bankruptcy commencing before 1st September 2004, after the commencement of the bankruptcy; or
+  - (ii) in the case of a bankruptcy commencing on or after 1st September 2004, before or after the commencement of the bankruptcy.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 20th March 2009
+
+Sir Reg Empey MLA
+
+Minister for Employment and Learning
+
+## SCHEDULE 1[^key-649cfdee9cb5ac7b00888979682d8b8b][^key-1e591e7b7bb19311e0b01694a74761cb]
+
+Revocations
+
+The following Regulations are revoked:
+
+| Regulations revoked | References |
+| --- | --- |
+| The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2000 | [S.R. 2000 No. 121](https://www.legislation.gov.uk/nisr/2000/121) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2001 | [S.R. 2001 No. 162](https://www.legislation.gov.uk/nisr/2001/162) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2003 | [S.R. 2003 No. 166](https://www.legislation.gov.uk/nisr/2003/166) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2004 | [S.R. 2004 No. 444](https://www.legislation.gov.uk/nisr/2004/444) |
+| The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations (Northern Ireland) 2004 | [S.R. 2004 No. 478](https://www.legislation.gov.uk/nisr/2004/478) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2006 | [S.R. 2006 No. 28](https://www.legislation.gov.uk/nisr/2006/28) |
+| The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations (Northern Ireland) 2006 | [S.R. 2006 No.331](https://www.legislation.gov.uk/nisr/2006/331) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2007 | [S.R. 2007 No. 360](https://www.legislation.gov.uk/nisr/2007/360) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2008 | [S.R. 2008 No. 129](https://www.legislation.gov.uk/nisr/2008/129) |
+| The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2009 | [S.R. 2009 No. 29](https://www.legislation.gov.uk/nisr/2009/29) |
+
+## SCHEDULE 2 — Real time returns[^key-4b3c52d746755e46bc0cd2e2d7e18d5c]
+
+Regulations 54B and 54E
+
+### 1. Information about the employer and employee
+
+The information specified in paragraphs 2 to 4 and 8 to 14 of Schedule A1 (Real time returns) to the PAYE Regulations.
+
+### 2. Information about payments to the employee, etc
+
+The total amount of repayments deducted in the earnings period in which the return is made.
+
+**3.** The total amount of repayments deducted for the tax year from the earnings paid to the employee.
+
+**4.** In a case where the earnings the return relates to will fall to be aggregated with other earnings in the same earnings period, the information required by paragraphs 2 and 3 need only be provided when the final payment of earnings in the earnings period is made.
+
+### 5. Information on the commencement of employment
+
+If the return is the first return in respect of the employee in this employment, an indication that student loan deductions are required.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and re-enact with amendments the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2000. Like those Regulations, these Regulations govern repayments of student loans by borrowers who have taken out income- contingent repayment loans for courses which began any time in or after September 1998. Students who began their courses before then, and certain limited, transitional categories of students who began their courses shortly after then (for example, gap year students) remain subject to the previous system of mortgage-style loans for maintenance under the Education (Student Loans) Act 1990.
+
+These Regulations set out the principal terms and conditions applying to repayments of income-contingent student loans in Northern Ireland.
+
+These consolidating Regulations also bring together for the first time other provisions which concern repayments of student loans but which were previously found elsewhere in Regulations under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998, namely provisions relating to the interest which may be charged on the loans during repayment and the effect of bankruptcy on a student’s entitlement to the loan, or obligation to repay it. Those other relevant regulations are revoked by these Regulations.
+
+The majority of the provisions of these Regulations come into operation on 6th April 2009. Provisions relating to the interest payable on loans and the insolvency provisions in Part 6 come into operation on 1 September 2009. Provisions relating to repayment by direct debit come into operation on 21 December 2009.
+
+Under these Regulations, repayments will be made by borrowers in four ways:
+
+- (a) through HMRC through the tax self-assessment process;
+- (b) by deductions from salaries and other employment-related payments by employers, which are paid directly to HMRC by employers;
+- (c) by direct payments to the Department for Employment and Learning (the “Department”), either as voluntary repayments or where borrowers are living and working abroad; or
+- (d) by direct debit payments to the Department, within the last two years of the loan’s repayment term.
+
+Borrowers can make direct payments to the Department at any time. Repayment by direct debit in the last 23 months of repayment for borrowers in Northern Ireland enables a borrower to manage repayments so as not to risk overpayment through the tax system, and represents a change from the previous system. A borrower may notify the Department of a desire to repay the remainder of their loan by fixed instalments. Subject to certain exceptions and conditions the Department will agree.
+
+**Part 1** sets out the main definitions applying to the Regulations. It also deals with how notices and communications required or permitted under the Regulations may be made or given.
+
+**Part 2** makes provisions which apply to all loans made by Department.
+
+This Part sets out the functions of HMRC in relation to monies collected by it, how the penalty regime set out in the Taxes Management Act 1970 will be applied to the repayments system (*regulations 7-9*).
+
+It sets out how repayments made by borrowers will be applied to outstanding penalties, charges, costs, interest and principal (*regulation 10*). Borrowers do not become liable to repay any loan until the April after they have completed or left their courses. A borrower may, however, repay a loan at any point if the borrower wishes to.
+
+The Department must notify the borrower and HMRC of the dates when loan repayments are to start and cease (*regulation 11*). A borrower’s liability to repay a student loan will end only if the loan is cancelled, the loan is repaid in full or if specified other events occur.
+
+Repayments made directly to the Department, or by direct debit are credited to a borrower’s account on the date of receipt. Repayments made through self-assessment are credited to the borrower’s account on 31 January in the tax year following the tax year for which those repayments are due. Repayments made through PAYE are deemed paid in 12 equal amounts across the year (*regulation 12*).
+
+A borrower may repay through direct debit at the end of the life of their loan to prevent over-repayment through the tax system if they request it, and previous attempts at payment by this method have not failed as a result of the direct debit being refused or cancelled without permission. A borrower can agree to re-enter the PAYE system at any time (*regulation 13*).
+
+Loans are cancelled when a borrower dies, is permanently disabled or reaches the age of 65. In relation to post -2006 student loans, the cancellation at age 65 is replaced with cancellation after 25 years (*regulation 14*).
+
+If a borrower repays more than is owed to the Department, any over-payment is repaid. Over-payment through PAYE is repaid with interest at the same level as is applied to the loans by the Department (*regulation 15*).
+
+The loans may carry interest which is applied daily at a rate of interest set by the Department from year to year, and which (if interest is charged) is equivalent to the Retail Prices (All items) Index for the 12 months to March preceding the beginning of the academic year in September (subject to an overall ‘low interest’ cap imposed by consumer credit legislation). The Department must publish the rate annually (*regulation 16*). These interest provisions were previously contained in the annual Education (Student Support) Regulations (Northern Ireland). Such interest provisions contained in those Regulations are revoked in these Regulations.
+
+The Department may require the borrower to provide information about their name, address, personal details and income and may apply penalties to the borrower if the borrower fails to comply with these requirements (*regulations 17-22*). In addition to specific penalties for failing to comply, if the Department incurs any costs or expenses on its account in obtaining information which the borrower is required to provide, they may recover those costs and expenses and add them to the balance of the loan outstanding to its owner (*regulation 20*). The Regulations may also require the borrower to repay the loan in full, immediately, if the borrower fails to comply with the obligations to provide information or pay penalties (*regulation 22*).
+
+**Part 3** deals with repayment of student loans through the self-assessment system for borrowers required to submit a self- assessment tax return. Provisions of the Taxes Management Act 1970 dealing with payment of income tax through self-assessment are extended to cover repayment of student loans, and loan repayments through self-assessment are treated like income tax.
+
+The borrower repays 9% of total annual income over £15,000 including any unearned income over £2000. Certain exclusions and reliefs are applied to the calculation of the borrower’s income for these purposes (*regulation 24*).
+
+Borrowers repaying through self-assessment must include information on student loan repayments in their annual return, and HMRC can request further information, accounts and documents as they can in relation to income tax. Borrowers make repayment by 31 January in the tax year following the relevant tax year, unless other requirements about a borrower’s return are imposed (*regulation 30*). The borrower may be liable to surcharges, interest and penalties as would apply to income tax, if the borrower’s return is missing, late, incomplete, misleading or if the borrower makes late or incomplete repayments.
+
+**Part 4** deals with how borrowers who are employees repay student loans through their employers. Loan repayments are collected and accounted for by employers in the same way as income tax is deducted from an employee’s earnings, and earnings has the same meaning as it does for National Insurance contributions purposes. Employers can therefore calculate repayments on the same sum as they calculate National Insurance contributions. Repayment is made at the rate of 9% of annual earnings over £15,000 or the proportionate part of it, depending on the pay period. Employers can calculate the value of the deduction themselves or use Tables provided by the Department for this purpose (*regulation 39*). The rules on aggregating earnings and for determining earning periods, where an employee has more than one employment with a single employer is the same for student loans as it is for National Insurance contributions. Where an employer adopts practices to avoid or reduce the amount of student loan repayments, HMRC may give directions to ignore those practices (*regulation 40*).
+
+HMRC may notify anyone who to their knowledge is an employer of a borrower and require that employer to make deductions from the employee’s earnings, and pay them to HMRC (*regulation 44*). The notice will apply from the first available pay date on or after that notice, and apply up until the date specified in a subsequent notice requiring the employer to cease making deductions (*regulation 45*). The employer is given directions as to how such deductions from the employee’s earnings rank against other deductions that the employer may be required to make (*regulation 46*), and specifies when and how student loan repayments must be paid to HMRC (*regulation 49*). HMRC may require an employer to render a return in respect of all employees detailing the repayments which the employer is liable to deduct, and may certify sums owing in respect of them whether HMRC is unaware of sums which may be owed by that employer (*regulation 50*) or has reason to believe that the employer is liable to pay repayments to HMRC (*regulation 51*). HMRC may require employers to pay interest on student loan repayments which are not made to HMRC at the right time (*regulation 53*). HMRC may recover any sums owing by employers as though they were income tax and may recover student loan repayments in the same cause of action as outstanding National Insurance contributions or tax (as part of a ‘combined amount’ (*regulation 52*)). For tax years commencing on or after 6 April 2009 those penalties provided for in Schedule 24 to the Finance Act 2007 will apply to employers who carelessly or deliberately submit incorrect returns, in place of the previous regime (*regulation 54*). Powers to inspect records and obtain information contained in Schedule 36 to the Finance Act 2008 will now apply (with modifications) in relation to a borrower’s compliance with Part 3 (*regulation 28*) and an employer’s compliance with Part 4 (*regulations 55 and 56*). The Regulations also provide for HMRC to formally determine, and certify, any sums which it appears are outstanding to HMRC from employers in respect of student loan repayments. Interest may also be charged on these sums formally determined (*regulations 57 and 58*).
+
+If an employer dies, or the business is transferred to another person, the personal representative or successor will be liable, in general, to do anything which the original employer was liable to do under these Regulations (*regulations 59-60*).
+
+Where an employee leaves an employment, the employer must state in that employee’s Form P45 that the employee is a borrower provided that the employer had received a notice stating that the employee is liable to make repayments, and had not also subsequently received a notice requiring the employer not to make deductions before the employee left the employment (*regulation 62*).
+
+An employer who either fraudulently or negligently makes incorrect deductions or makes or receives incorrect payments in a tax year for an employee is liable to a penalty of £3000 per each such employee per tax year in respect of whom the fraudulent or negligent behaviour has occurred (*regulation 63*). Penalties under Part 4 may be recovered by HMRC in the same way as income tax (*regulation 64*). Various provisions of the PAYE Regulations are applied to collections with certain modifications (*regulation 65*).
+
+**Part 5** provides for repayment by borrowers who are not resident in the UK for income tax purposes. Borrowers must tell the Department if they are overseas for more than 3 months, and provide other details (including income levels) if requested to by the Department. The Department may require a borrower resident overseas to make repayments by way of fixed instalments each month (*regulation 70*) and, if a borrower has failed to provide necessary notices or information, may require the borrower to make such repayment as will reduce the amount outstanding on the loan to the level it would have been had the borrower given the notice or provided the information (*regulation 68*).
+
+A borrower who has provided the necessary information to the Department about residence overseas and income levels may apply to the Department (as appropriate) to make repayments by way of income-related instalments, and if the Department agrees, the repayments must be at the rate of 9% of gross income which the Department consider the borrower is likely to receive in the next 12 months, disregarding any income below the applicable threshold or on which payment will be made through the UK tax system (*regulation 70*). The applicable threshold varies according to where in the world the borrower is and the level of the price level index for that country determined by Eurostat or the World Bank (*regulation 71*). A borrower may apply to the Secretary of State or Welsh Ministers to cease making repayments by instalments if they become resident in the UK and have not been required to repay the loan in full immediately under regulation 73 (*regulation 72*).
+
+A borrower failing to make repayment of any instalment or sum which is due may be required by the Department to make immediate repayment of the outstanding balance of the loan (*regulation 73*).
+
+If the Department incurs any costs or expenses, whether on their own account or on behalf of a loan purchaser in obtaining information about a borrower’s location, details and income abroad, or in obtaining payment of the whole of the outstanding loan, they may recover those costs and expenses and add them to the balance of the loan (*regulation 74*)*.*
+
+**Part 6** re-enacts provisions previously contained in the Student Support Regulations concerning insolvency of borrowers. This provides that in relation to borrowers in Northern Ireland, England and Wales, sums by way of student loans which are received or to which a borrower is entitled after their bankruptcy, do not form part of their estate for the purposes of that bankruptcy. In Northern Ireland, any debt which a student loan borrower owes to the Department does not at any time form part of the debts of that borrower for the purposes of the bankruptcy, if the bankruptcy commences on or after 1 March 2005. If the bankruptcy commences prior to that date, only sums received or entitled to be received by the borrower prior to the commencement of the bankruptcy will form part of the bankrupt’s debts in the bankruptcy.
+
+Similar provisions are applied to England and Wales, except that the relevant date for determining whether student loan debts incurred prior to the bankruptcy form part of the debts of the bankruptcy is 1 September 2004.
+
+An impact assessment has not been prepared in respect of this instrument as it has no impact on the costs of business, charities or voluntary bodies. The impact on the public sector is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly known as the Department of Higher Education, Training and Employment; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) and [2001 c.15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15)
+
+[^f00002]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760)
+
+[^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) *see* Article 5(b) and Schedule 3 Part II
+
+[^key-3b468efdd1101521d040e6495cb8c079]: Commencement: Reg. 1 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-9ad40f5d862da4906cf7749a80eb302c]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/2/2) in operation at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/2)
+
+[^key-116768591eae41f6adc657cbf2bee2a1]: Commencement: Reg. 2 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-3c4e7f369eb5dfaecad7bde06f78a3bf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/2/1) substituted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [3](https://www.legislation.gov.uk/nisr/2012/136/regulation/3)
+
+[^f00004]: Footnote: [S.R. 2009 No. 37](https://www.legislation.gov.uk/nisr/2009/37)
+
+[^key-fde1c09c0056e59df46c33b0ccb07b01]: Commencement: Reg. 3 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^f00005]: Footnote: [1970 c.9](https://www.legislation.gov.uk/ukpga/1970/9)
+
+[^f00006]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00007]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1)
+
+[^key-6258c687cbde1fc6afa7148460f65e2b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/3/b)
+
+[^key-fbeb6ddeee26d12e0cb41f2e0333bcd0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [48(b)](https://www.legislation.gov.uk/nisr/2017/7/regulation/48/b)
+
+[^key-fb0a71c1eaa675a39ffe89601cf2a742]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) substituted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [48(a)](https://www.legislation.gov.uk/nisr/2017/7/regulation/48/a)
+
+[^key-67082c33031ef216dd43ce167d9c294e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/3/1) substituted (29.5.2026) by virtue of [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/3/1)
+
+[^f00010]: Footnote: [SI 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004)
+
+[^key-1417cac1eaddacb248e8512f2f3e2f2e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) inserted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/137/regulation/3/a)
+
+[^key-3fbed0a0508c6977013fb2153a1cdcee]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/3/a)
+
+[^key-34194faccc4d57ca4341071fb8d58f30]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) inserted (6.4.2011) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/nisr/2011/137/regulation/3/b/i)
+
+[^key-8a093388613e2fc02fea17fabcefb7a7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) inserted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/nisr/2011/137/regulation/3/b/ii)
+
+[^key-cb2ae9202ba7fb86cf27592ec45f18b1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/128/regulation/3) inserted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [3(c)](https://www.legislation.gov.uk/nisr/2011/137/regulation/3/c)
+
+[^f00011]: Footnote: [SI 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698)
+
+[^key-33b46ff2fb87fb484978971714c3d4cc]: Commencement: Reg. 4 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-92be990179cffa4f82f746f6073ae63f]: Commencement: Reg. 5 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-caa61ad2614722af8a1497af922cb75e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/5/1) substituted (25.3.2021) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/2), [22(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/22/a)
+
+[^key-1995f36ceff77f903da2f1e594eee1fb]: Commencement: Reg. 6 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-2b35d93621226eb23ee96ca810292a5e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2009/128/regulation/6) heading inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [4(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/4/a)
+
+[^f00012]: Footnote: [S.R. 2006 No. 312](https://www.legislation.gov.uk/nisr/2006/312), as amended by [S.R. 2006 No. 383](https://www.legislation.gov.uk/nisr/2006/383)
+
+[^key-d116acec2626fd4f9b430631857936d1]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/6/1) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [49(a)](https://www.legislation.gov.uk/nisr/2017/7/regulation/49/a)
+
+[^f00013]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7), amended by Articles 3 to 5, 7, 8, 10 to 13 of, and Schedules 1 and 2 to, the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)). The IB provisions of the 1992 Act and the amendments of the 1994 Order are repealed by section 58 of and schedule 8 to, and amended by section 28 of and schedule 3 of the [Welfare Reform Act (Northern Ireland) 2007 (c.2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2) sections 23 and 67 and Schedules 3 and 8 from a date to be appointed (see section 60(1))
+
+[^key-cdd84ba092c7b08052cf50db79075d4e]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/6/1) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2013/3021/article/8/2)
+
+[^key-c8b6ed1c3f6ceb1d32fd298e636020e7]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/6/1) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [36](https://www.legislation.gov.uk/nisr/2016/228/regulation/36)
+
+[^f00014]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459) (see parts 3 and 4 of Schedule 2); relevant amending Regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 327](https://www.legislation.gov.uk/nisr/1994/327) and [474](https://www.legislation.gov.uk/nisr/1994/474), [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67), [S.R. 1997 No. 113](https://www.legislation.gov.uk/nisr/1997/113), [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [413](https://www.legislation.gov.uk/nisr/2003/413) and [S.R. 2007 Nos. 153](https://www.legislation.gov.uk/nisr/2007/153) and [154](https://www.legislation.gov.uk/nisr/2007/154)
+
+[^key-ad9beeb6ea3c0b3e119e17e96e710fe6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/6/1) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [49(b)](https://www.legislation.gov.uk/nisr/2017/7/regulation/49/b)
+
+[^f00015]: Footnote: [S.R. 1998 No. 273](https://www.legislation.gov.uk/nisr/1998/273)
+
+[^f00016]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459), as amended by [S.R. 2004 No. 395](https://www.legislation.gov.uk/nisr/2004/395), [S.R. 2005 No. 466](https://www.legislation.gov.uk/nisr/2005/466), [S.R. 2006 No. 378](https://www.legislation.gov.uk/nisr/2006/378), [S.R. 2007 No. 336](https://www.legislation.gov.uk/nisr/2007/336) and [S.R. 2008 No. 254](https://www.legislation.gov.uk/nisr/2008/254)
+
+[^key-9bf9bbdc3812cac317b7d0523d99155c]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/6/1) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [49(c)](https://www.legislation.gov.uk/nisr/2017/7/regulation/49/c)
+
+[^key-59647c1b42b80eaf934bd6d4e3705d3d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2009/128/regulation/6) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/nisr/2024/55/regulation/4/a/i)
+
+[^key-943c83d9de7cf4db0f5e4ca5e7f831a2]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/6/2/b) inserted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/9/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+
+[^key-723eba6dc4b3d69c6e8dad1256b13c19]: Commencement: Reg. 7 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-8d34025e7b80734b44ed8ee7e15596a6]: Commencement: Reg. 8 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-fc4a2978611b4c9c112725be324e14ae]: Commencement: Reg. 9 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-72c5c8f8dfbb86b2ea8ce8882840da32]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/9/2) substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [3](https://www.legislation.gov.uk/nisr/2013/68/regulation/3)
+
+[^key-8361abec6c0f435e977b5c50625949ae]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/9/2) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 32](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/32)
+
+[^f00017]: Footnote: [2007 c.11](https://www.legislation.gov.uk/ukpga/2007/11). Schedule 24 was amended by the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9) Schedule 40
+
+[^key-f810e31ba864b88ac69da0b705f38772]: Commencement: Reg. 10 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-38378ef1593a746195a971c6baacfec5]: Commencement: [Reg. 11(5)(d)](https://www.legislation.gov.uk/nisr/2009/128/regulation/11/5/d) in operation at 21.12.2009, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/3)
+
+[^key-ddc548c51351bd8c8aea0d78cd5465a4]: Commencement: Reg. 11 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-7c60a0931bfc72e7392c4ff05a8aafa1]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/128/regulation/11) heading substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [5(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/5/a)
+
+[^key-d213c8d6a50204293622322ee0ccd36f]: Textual amendment: [Reg. 11(A1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/11/A1) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [5(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/5/b)
+
+[^key-9f46bca176d47812b77ad62148a98d6a]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/11/2) substituted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [50(a)](https://www.legislation.gov.uk/nisr/2017/7/regulation/50/a)
+
+[^key-d1dd2ef538575561ad8ce95657be3d8d]: Textual amendment: [Reg. 11(2A)-(2E)](https://www.legislation.gov.uk/nisr/2009/128/regulation/11/2A) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [50(b)](https://www.legislation.gov.uk/nisr/2017/7/regulation/50/b)
+
+[^key-2f03e328c7f2b9813c5f04358c6a4546]: Commencement: Reg. 12 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-a9021a7a14c561559631ebd5feefc4af]: Textual amendment: Words in [reg. 12(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/12/c) inserted (with application in accordance with reg. 1(4) of the amending S.R.) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/2), [33(a)](https://www.legislation.gov.uk/nisr/2019/35/regulation/33/a)
+
+[^key-3c87d3398f0aa389ac9619fa8b05c023]: Textual amendment: [Reg. 12(ca)](https://www.legislation.gov.uk/nisr/2009/128/regulation/12/ca) inserted (with application in accordance with reg. 1(4) of the amending S.R.) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/2), [33(b)](https://www.legislation.gov.uk/nisr/2019/35/regulation/33/b)
+
+[^key-60591a299cc83dc3559957add347eeff]: Textual amendment: Words in [reg. 12(ca)(ii)](https://www.legislation.gov.uk/nisr/2009/128/regulation/12/ca/ii) substituted (25.3.2021) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/2), [22(b)](https://www.legislation.gov.uk/nisr/2021/50/regulation/22/b)
+
+[^key-bce02c491d2f96e59747a59d0ac1d1f3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/128/regulation/13) in operation at 21.12.2009, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/3)
+
+[^key-3694e569a271b364aa075fa823d3f7a5]: Commencement: Reg. 14 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^f00018]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506), amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), Article 43 and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), Article 3 and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), Articles 3 to 6
+
+[^f00019]: Footnote: [1990 c.6](https://www.legislation.gov.uk/ukpga/1990/6): repealed by the Teaching and Higher Education Act [1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4
+
+[^f00020]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44): amended by the Teaching and Higher Education Act [1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30), section 29; the Education (Graduate Endowment and Student Support) (Scotland) Act [2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6), section 3; and the Self Governing Schools etc (Scotland) Act [1989 (c.39)](https://www.legislation.gov.uk/ukpga/1989/39), Schedule 10
+
+[^f00021]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30)
+
+[^key-70ef168459a605e7b8e2902152c115a7]: Commencement: Reg. 15 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-7007955f6ebb177d0fc418ea048093d6]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/15/4) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/137/regulation/4)
+
+[^key-08a0fd44d12dbddededdf49e8a3d0435]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/128/regulation/16) in operation at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/2)
+
+[^key-0d4d39ac4daac2ab89bbac7b52eafed8]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/16/1) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/nisr/2024/55/regulation/6/a/i)
+
+[^key-db23f853f64a55b7a822995479974f61]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/16/1) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2024/55/regulation/6/a/ii)
+
+[^key-80e771e6e16328bf74ad5ed0c08c1755]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/16/2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/39/b)
+
+[^key-ef66669b8ca081036c39ff9d00628648]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/16/4) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [6(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/6/b)
+
+[^key-a92325815c7b28c75d8e9cb7275c0dea]: Commencement: Reg. 17 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-ac07bbf6f81a996acd5e264e69841734]: Commencement: Reg. 18 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-33a49193d5c1d12c7074fb277fd16ba9]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/18/1) substituted (25.3.2021) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/2), [22(c)](https://www.legislation.gov.uk/nisr/2021/50/regulation/22/c)
+
+[^key-ca94b219245b61100b09e3fb5708bc70]: Textual amendment: [Reg. 18(2)(g)](https://www.legislation.gov.uk/nisr/2009/128/regulation/18/2/g) inserted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/87/regulation/3)
+
+[^key-3a91a3e06dd22cf5fc7d5aaea6222495]: Commencement: Reg. 19 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-6ac04783796559ce013ae66f6fd89985]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/nisr/2009/128/regulation/19/5) substituted (25.3.2021) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/2), [22(d)](https://www.legislation.gov.uk/nisr/2021/50/regulation/22/d)
+
+[^key-2984e5d0fc2f7b70838bd86f7d53becb]: Commencement: Reg. 20 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-7472acf35aa42ce2a5961de00d71d6f0]: Commencement: Reg. 21 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-79439c50f27e58bbf990c34df8560f40]: Commencement: Reg. 22 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-37fbb12c8b0ed4fa93f5ba1fae3f6f7f]: Commencement: Reg. 23 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-d8aae91da8b221e47f6bc70f6bb68371]: Commencement: Reg. 24 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-249271e2f0dc58d8bbc1bedf3e28e963]: Textual amendment: Words in [reg. 24(3)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/3/a) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2011/137/regulation/5/a)
+
+[^f00024]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00025]: Footnote: [2007 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^key-83ad34da3c69c1567fccdf71f63fef8c]: Textual amendment: [Reg. 24(3)(f)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/3/f) substituted (6.4.2010) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/91)](https://www.legislation.gov.uk/nisr/2010/91), [regs. 1](https://www.legislation.gov.uk/nisr/2010/91/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/91/regulation/5)
+
+[^f00026]: Footnote: [2004 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2004/2)
+
+[^f00027]: Footnote: The requirements to ‘exclude’ certain income and to ‘deduct’ other sources of income from a borrower’s total income for the purposes of student loan repayments reflects the structure of section 23 of the 2007 Act
+
+[^key-ac00a23d485b95c438dd6a442c8cb460]: Textual amendment: Words in [reg. 24(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/4) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [7(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/7/a)
+
+[^key-101e259f40ae47ad8d9c62f397451e10]: Textual amendment: [Reg. 24(5)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/5) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [7(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/7/b)
+
+[^key-015a8a8e5f442f70f808fd5f511040aa]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/6) inserted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2011/137/regulation/5/b)
+
+[^key-4377a37f2f8679ce3efe5722988d03e0]: Textual amendment: Words in [reg. 24(6)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/6/b) deleted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2014/87/regulation/4/a)
+
+[^key-ae6d720844d1ce64d589c14d9de51770]: Textual amendment: [Reg. 24(6)(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/24/6/c) deleted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/4/b)
+
+[^key-052d108e26a3132adc1734ede8d5f370]: Commencement: Reg. 25 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-b63f21c40686d3307a4b4c14efead0f3]: Commencement: Reg. 26 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-062eb2bdd2fde570787a7522bc875ba0]: Commencement: Reg. 27 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-8f426e97cb8924551d598e03b86e5fda]: Commencement: Reg. 28 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-08d88f23630629f11e4463bbe247966e]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/28/1) substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [4](https://www.legislation.gov.uk/nisr/2013/68/regulation/4)
+
+[^f00029]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9)
+
+[^key-320e15f4067704b326214a710f7c32d2]: Commencement: Reg. 29 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-3254f67e509fe7805bfe96403848e09d]: Commencement: Reg. 30 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-10a07f1fbc3cda54b6e5814fc2aa8e9f]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/nisr/2009/128/regulation/31) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2011/137/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/nisr/2011/137/regulation/12))
+
+[^key-ca9d5223365dcfd76374aa0a9065232c]: Textual amendment: Reg. 31 renumbered as reg. 31(1) (29.5.2026) by [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2026/87/regulation/4/1/a)
+
+[^key-499e35cfc0080fcc210d065bb71384d4]: Textual amendment: [Reg. 31(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/31/a) and word omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2024/55/regulation/8)
+
+[^key-08f24110c4496de2cc1cae8f0e44afad]: Textual amendment: [Reg. 31(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/31/2) inserted (29.5.2026) by [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2026/87/regulation/4/1/b)
+
+[^key-f0209a8b25595dee86ed1cda31b58aa9]: Commencement: Reg. 32 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-07c34f046e95f410883835ef68b10099]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/nisr/2009/128/regulation/33) substituted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/136/regulation/5)
+
+[^key-f6706d9b1b5b401e5f03aafe7c0fa94e]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/nisr/2009/128/regulation/34) substituted (31.10.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2011/137/regulation/7)
+
+[^key-e687cb65e184733a3e4abe810355d799]: Commencement: Reg. 35 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-e931c85d2fe1b5fcc39d141647b31b24]: Textual amendment: [Reg. 35(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/1) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [8(a)](https://www.legislation.gov.uk/nisr/2011/137/regulation/8/a) (with [reg. 12](https://www.legislation.gov.uk/nisr/2011/137/regulation/12))
+
+[^key-48817a20eeaa06ca4c1be907dde510ab]: Textual amendment: Word in [reg. 35(1)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/1/a) substituted (29.5.2026) by [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/87/regulation/3/2)
+
+[^key-e46270b63016d73e14ce4e773168e1ea]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/1/a) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [9(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/9/a)
+
+[^key-5516f26074c26679679f63a6689d7832]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/2) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2011/137/regulation/8/b) (with [reg. 12](https://www.legislation.gov.uk/nisr/2011/137/regulation/12))
+
+[^key-30449bccc3cb55c8ffb01bd437d508de]: Textual amendment: Words in [reg. 35(2)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/2/a) substituted (29.5.2026) by [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2026/87/regulation/5/2)
+
+[^key-9074a8243975adbc7ca02c22629a570e]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/3) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [9(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/9/b)
+
+[^key-f3db886b94c1d1505ad3d0248c7c5beb]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/4) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [9(c)](https://www.legislation.gov.uk/nisr/2024/55/regulation/9/c)
+
+[^f00032]: Footnote: [2007 c.11](https://www.legislation.gov.uk/ukpga/2007/11). Schedule 24 was amended by the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9) section 122 and Schedule 40
+
+[^key-8d955f24952a6437dad87a332e5c909d]: Textual amendment: [Reg. 35(5)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/5)[(6)](https://www.legislation.gov.uk/nisr/2009/128/regulation/35/6) inserted (29.5.2026) by [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2026/87/regulation/5/3)
+
+[^key-37aec3754d95ad34f3184455da4406e3]: Commencement: Reg. 36 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-b316a401358b9a633b5e9f513309aaa8]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2009/128/regulation/36) heading inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [10(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/10/a)
+
+[^key-43531e7824cdb80070f2794c45b4e09b]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2009/128/regulation/36) inserted (21.9.2021) by [The Education (Student Fees (Amounts), Loan Repayment and Support etc.)(Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/260)](https://www.legislation.gov.uk/nisr/2021/260), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2021/260/regulation/1/3), [11](https://www.legislation.gov.uk/nisr/2021/260/regulation/11)
+
+[^f00033]: Footnote: [SI 2005/ 2045](https://www.legislation.gov.uk/uksi/2005/2045)
+
+[^f00034]: Footnote: [SI 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). These Regulations have been amended but none are relevant.
+
+[^f00035]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7). section 3 was amended by paragraph 4 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and Articles 45 and 46 of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^f00036]: Footnote: Section 9 was amended by paragraph 5 of Schedule 10 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 2(2) of the National Insurance Contributions Act [2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19) and paragraph 43 of Schedule 4 to the Pensions Act (Northern Ireland) [2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1)
+
+[^key-d4b067fd188e253e4bf5757751b228c7]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2009/128/regulation/36) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [10(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/10/b)
+
+[^key-6d9dd2a705a9b07f012fa34096661f9e]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2009/128/regulation/36) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/136/regulation/6)
+
+[^key-20f615b27ae464d5e005503fb5e3c518]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2009/128/regulation/36) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [10(c)](https://www.legislation.gov.uk/nisr/2024/55/regulation/10/c)
+
+[^f00037]: Footnote: [SI 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682) amended by [SI 2005/2691](https://www.legislation.gov.uk/uksi/2005/2691), [2006/777](https://www.legislation.gov.uk/uksi/2006/777), [2007/1077](https://www.legislation.gov.uk/uksi/2007/1077), [2007/2069](https://www.legislation.gov.uk/uksi/2007/2069), [2007/2296](https://www.legislation.gov.uk/uksi/2007/2296), [2007/2969](https://www.legislation.gov.uk/uksi/2007/2969), [2008/782](https://www.legislation.gov.uk/uksi/2008/782) and [2008/2601](https://www.legislation.gov.uk/uksi/2008/2601)
+
+[^key-45788976707b698376e5e716b946751b]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2009/128/regulation/36) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [10(d)](https://www.legislation.gov.uk/nisr/2024/55/regulation/10/d)
+
+[^key-3fb2fc45a925c03af90d9ac29077f0a1]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/nisr/2009/128/regulation/36A) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [11](https://www.legislation.gov.uk/nisr/2024/55/regulation/11)
+
+[^key-acad2f8c18ab0627140c5d5912336705]: Commencement: Reg. 37 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-a57aa89a35beefcbd106103c495c3b2b]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2009/128/regulation/38) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [12](https://www.legislation.gov.uk/nisr/2024/55/regulation/12)
+
+[^key-374687e53f23ec0e8938dd95e13125ae]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/nisr/2009/128/regulation/38A) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [13](https://www.legislation.gov.uk/nisr/2024/55/regulation/13)
+
+[^key-54c0eb1475299ba2f493b2cb86c666c7]: Commencement: Reg. 39 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-5917116c716929dff06a0d2e08fe8c15]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/39/2/a) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2011/137/regulation/9/a)
+
+[^key-a234b7a332ab3dc1f16f2c8e3e8d3737]: Textual amendment: Words in [reg. 39(2)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/39/2/b) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2011/137/regulation/9/b)
+
+[^key-caf087f4cdd6d5084da9835fe21ec808]: Commencement: Reg. 40 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-bc2d0c1703848ccd7d2e156a064e9d93]: Commencement: Reg. 41 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-b8c1c1bbae340c61643ffcd8dfc0ece4]: Commencement: Reg. 42 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-711377957fee3a78c7af1fea4c778165]: Commencement: Reg. 43 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-71ceef908827b15e1797276474ed28ff]: Commencement: Reg. 44 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-2171dc7c4daac9e659ddfa5a1a2d9193]: Commencement: Reg. 45 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-fb31804798a9d9a70044431b9bb5d7e5]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/1) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [14(a)(i)](https://www.legislation.gov.uk/nisr/2024/55/regulation/14/a/i)
+
+[^key-7199e3ee03fd1da162cb3001dd612ddf]: Textual amendment: Word in [reg. 45(1)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/1/b) omitted (6.4.2012) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/nisr/2012/136/regulation/10/a/i)
+
+[^key-2cf2c485836a6ff68b16db0d7f882a87]: Textual amendment: [Reg. 45(1)(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/1/c) and word omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [14(a)(ii)](https://www.legislation.gov.uk/nisr/2024/55/regulation/14/a/ii)
+
+[^key-e8bd9961b7b122900b03c597923c7a12]: Textual amendment: [Reg. 45(1)(d)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/1/d) and word substituted (6.4.2012) for the comma at the end of reg. 45(1)(c) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/nisr/2012/136/regulation/10/a/ii)
+
+[^key-d881ed69ed7ae804e96a9e6c08ac8462]: Textual amendment: Words in [reg. 45(1)(d)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/1/d) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [14(a)(iii)](https://www.legislation.gov.uk/nisr/2024/55/regulation/14/a/iii)
+
+[^key-5b4fc6c4a1f08db56abfd1bd3d6b4c45]: Textual amendment: Word in [reg. 45(2)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/2/b) omitted (6.4.2012) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/nisr/2012/136/regulation/10/b/i)
+
+[^key-37db970a4796d9b286a0e75f0bc52ac6]: Textual amendment: [Reg. 45(2)(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/2/c) and word omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [14(b)(i)](https://www.legislation.gov.uk/nisr/2024/55/regulation/14/b/i)
+
+[^key-14efc636cabca92492b11d5f4b1bbe58]: Textual amendment: [Reg. 45(2)(d)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/2/d) and word substituted (6.4.2012) for the full stop at the end of reg. 45(2)(c) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/nisr/2012/136/regulation/10/b/ii)
+
+[^key-c506dc6e077aec9563819a559068d5c3]: Textual amendment: Words in [reg. 45(2)(d)](https://www.legislation.gov.uk/nisr/2009/128/regulation/45/2/d) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [14(b)(ii)](https://www.legislation.gov.uk/nisr/2024/55/regulation/14/b/ii)
+
+[^key-7ac9e9a8c858e8046616670530b16096]: Commencement: Reg. 46 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^f00038]: Footnote: [SI 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226)
+
+[^f00039]: Footnote: [SI 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^f00040]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)
+
+[^f00041]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142)
+
+[^key-47842c26c99871f1fe25cc8c350f02ae]: Commencement: Reg. 47 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-687d054bb8c85da458fc778a0d6156b9]: Commencement: Reg. 48 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-42b8d58a11552ee6917132cbbb08e9ff]: Commencement: Reg. 49 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-1bb4f2267a2993a1a59301067722ecaa]: Textual amendment: Word in [reg. 49(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/49/1) omitted (6.4.2012) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [11(a)(i)](https://www.legislation.gov.uk/nisr/2012/136/regulation/11/a/i)
+
+[^key-9812cb4444e724d5f039aba77cee4f02]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/49/1/a) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [11(a)(ii)](https://www.legislation.gov.uk/nisr/2012/136/regulation/11/a/ii)
+
+[^key-e60465ccb17533c2adc49aef87efd380]: Textual amendment: [Reg. 49(1A)](https://www.legislation.gov.uk/nisr/2009/128/regulation/49/1A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2012/136/regulation/11/b)
+
+[^key-5251e779597480176de233ae6cd77227]: Textual amendment: [Reg. 49(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/49/3) omitted (6.4.2012) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2012/136/regulation/11/c)
+
+[^key-6c6b8fe7f99d20bd93b5e7b7d6cb133b]: Textual amendment: [Reg. 49A](https://www.legislation.gov.uk/nisr/2009/128/regulation/49A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [12](https://www.legislation.gov.uk/nisr/2012/136/regulation/12)
+
+[^key-06e93f59feb8e04296d764f03f5684c5]: Textual amendment: Word in [reg. 49A(3)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/49A/3/b) substituted (29.5.2026) by [The Education (Student Support and Repayment) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/87)](https://www.legislation.gov.uk/nisr/2026/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/87/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/87/regulation/3/3)
+
+[^key-bf168fbbfb36a8fa8b9de313329f3268]: Commencement: Reg. 50 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-9d56423f5b413210616a99293cc9222f]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/50/1) substituted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [13](https://www.legislation.gov.uk/nisr/2012/136/regulation/13)
+
+[^key-3db08fb7196690eef2e76bcf74891a2f]: Commencement: Reg. 51 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-b23810a3b13969ab01ea94ea96a14d2c]: Textual amendment: [Reg. 51(2A)](https://www.legislation.gov.uk/nisr/2009/128/regulation/51/2A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [14](https://www.legislation.gov.uk/nisr/2012/136/regulation/14)
+
+[^key-a67acf7df29fa13a0e93461e8e520c09]: Commencement: Reg. 52 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-a89d65ad74694047ac4e9092d00c481e]: Commencement: Reg. 53 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-eb66ffa9baf9865449b36f3417cc369b]: Textual amendment: [Reg. 53(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/53/1)[(1A)](https://www.legislation.gov.uk/nisr/2009/128/regulation/53/1A) substituted for [reg. 53(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/53/1) (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2014/87/regulation/5/a)
+
+[^key-130c88baf12bf59a6026856140dd80cb]: Textual amendment: Word in [reg. 53(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/53/2) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/5/b)
+
+[^key-dd39b7289feef5d73a73846e30c2c6f2]: Commencement: Reg. 54 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-19ed479ccd5f37b994de0018454e246f]: Textual amendment: [Reg. 54(A1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54/A1) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [15](https://www.legislation.gov.uk/nisr/2012/136/regulation/15)
+
+[^key-b0fc25d46d2bae071445804458cce1ee]: Textual amendment: Words in [reg. 54(7)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54/7) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2024/55/regulation/15)
+
+[^key-a061c4e6c5801ca0397b6fc2250a3cfa]: Textual amendment: [Regs. 54A-54F](https://www.legislation.gov.uk/nisr/2009/128/regulation/54A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [16](https://www.legislation.gov.uk/nisr/2012/136/regulation/16)
+
+[^key-baae4f673b53ae88b5d5440ef736ac3d]: Textual amendment: Words in [reg. 54B(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54B/1) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [16(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/16/a)
+
+[^key-7397efc13dc8c4118e5ed70192770271]: Textual amendment: [Reg. 54B(1A)-(1E)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54B/1A) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [16(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/16/b)
+
+[^key-81a259a7ffc34b9d82e0f9307db1d94a]: Textual amendment: [Reg. 54B(6)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54B/6)[(7)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54B/7) omitted (6.4.2013) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [6](https://www.legislation.gov.uk/nisr/2013/68/regulation/6)
+
+[^key-f1f2f0a4d8f8319198e388b0032244f0]: Textual amendment: [Regs. 54BA](https://www.legislation.gov.uk/nisr/2009/128/regulation/54BA), [54BB](https://www.legislation.gov.uk/nisr/2009/128/regulation/54BB) inserted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [7](https://www.legislation.gov.uk/nisr/2013/68/regulation/7)
+
+[^key-8c6e898e8190080a1702994eabc869ba]: Textual amendment: Word in [reg. 54E(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/1) omitted (6.4.2013) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2013/68/regulation/8/a/i)
+
+[^key-c0de1edf003153d95794ffc3d6fb3c21]: Textual amendment: [Reg. 54E(1)(e)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/1/e) and word substituted (6.4.2013) for full stop in reg. 54E(1)(d) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2013/68/regulation/8/a/ii)
+
+[^key-57493b34a47070658d6e3b5439d70203]: Textual amendment: Words in [reg. 54E(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/1) inserted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2014/87/regulation/7/a)
+
+[^key-fda200c2f2bb99e260a17706f3f5c97b]: Textual amendment: [Reg. 54E(2A)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/2A) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [17(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/17/a)
+
+[^key-7c5555bafdc896e76e3328327eb90e0b]: Textual amendment: [Reg. 54E(2B)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/2B) inserted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/7/b)
+
+[^key-0055b723a777164d076ad7fd8dfd5be6]: Textual amendment: Word in [reg. 54E(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/3) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [17(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/17/b)
+
+[^key-25e5ed9a6960a2cb88904b6cb8a4a5de]: Textual amendment: Word in [reg. 54E(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/3) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [7(c)](https://www.legislation.gov.uk/nisr/2014/87/regulation/7/c)
+
+[^key-7a13014af5ba538a397560d3bc3b7a1c]: Textual amendment: Word in [reg. 54E(5)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/5) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [7(d)](https://www.legislation.gov.uk/nisr/2014/87/regulation/7/d)
+
+[^key-fbca8b8858289fee107ff7bb5528ab7f]: Textual amendment: Word in [reg. 54E(6)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/6) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [7(c)](https://www.legislation.gov.uk/nisr/2014/87/regulation/7/c)
+
+[^key-6d6888c2c04de43feb31e68beb6c13bb]: Textual amendment: [Reg. 54E(7)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/7)[(8)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54E/8) omitted (6.4.2013) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [8(d)](https://www.legislation.gov.uk/nisr/2013/68/regulation/8/d)
+
+[^key-a02a052550ab32467ac62189ce0fe3ee]: Textual amendment: Words in [reg. 54F(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/1) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2014/87/regulation/8/a)
+
+[^key-78ef74694fd2aa7a29abe1b0ad454c6b]: Textual amendment: Word in [reg. 54F(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/2) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/8/b)
+
+[^key-fa57061bad7adbde7cd034b1dbd36b11]: Textual amendment: Word in [reg. 54F(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/3) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/8/b)
+
+[^key-b6bf368dd567c9d56c1c3139cb8a3108]: Textual amendment: [Reg. 54F(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/4) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2014/87/regulation/8/c)
+
+[^key-3eae8fa8432d515f494d1fe860255168]: Textual amendment: [Reg. 54F(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/6/a/ii) omitted (6.4.2013) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2013/68/regulation/9/a)
+
+[^key-e00c7b9cd0f9d8776fc1b465fc7de6dc]: Textual amendment: Words in [reg. 54F(6)(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/6/b) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [8(d)](https://www.legislation.gov.uk/nisr/2014/87/regulation/8/d)
+
+[^key-de4c4eab1f7bd4a698445564eb7657fa]: Textual amendment: Word in [reg. 54F(6)(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/6/c) substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2013/68/regulation/9/b)
+
+[^key-0ba327262b8370e0b4ff53f3b663226a]: Textual amendment: Word in [reg. 54F(7)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54F/7/a) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/8/b)
+
+[^key-c3def97f8aeb50c2640f9a7b1bc81025]: Textual amendment: [Reg. 54G](https://www.legislation.gov.uk/nisr/2009/128/regulation/54G) inserted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [10](https://www.legislation.gov.uk/nisr/2013/68/regulation/10)
+
+[^key-d8351d24553a482041049226e350f3f6]: Textual amendment: [Reg. 54G(5)](https://www.legislation.gov.uk/nisr/2009/128/regulation/54G/5) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [18](https://www.legislation.gov.uk/nisr/2024/55/regulation/18)
+
+[^key-926fd1e7ec64117397f82f06bbedd061]: Commencement: Reg. 55 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^f00045]: Footnote: [2008 c.9](https://www.legislation.gov.uk/ukpga/2008/9)
+
+[^key-42c51b61db9dfcafbb46750277eb7519]: Commencement: Reg. 56 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-6f78ccf972fab1e9bed3febff6014a04]: Commencement: Reg. 57 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-5d4794612b7ed9d9d0835a2044751729]: Textual amendment: Words in [reg. 57(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/57/4) inserted (6.4.2010) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/91)](https://www.legislation.gov.uk/nisr/2010/91), [regs. 1](https://www.legislation.gov.uk/nisr/2010/91/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/91/regulation/6)
+
+[^key-b0adefab535ea37db5b6f976d1bb27a2]: Commencement: Reg. 58 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-76fb2e5ca9946efc6f698e6dae59c55a]: Textual amendment: [Reg. 58(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/58/1)[(1A)](https://www.legislation.gov.uk/nisr/2009/128/regulation/58/1A) substituted for [reg. 58(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/58/1) (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [10](https://www.legislation.gov.uk/nisr/2014/87/regulation/10)
+
+[^key-6aaa7d306ee176f2f1d7ea339abdcfe7]: Commencement: Reg. 59 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-9fd266af938231ea86497cbd02463458]: Commencement: Reg. 60 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-5edc9b19f9b47312d290b05874ccc94d]: Commencement: Reg. 61 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-c604c5e879eadecd97147f13dcd208e5]: Commencement: Reg. 62 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-3cf0baf4c4fae35a85e2a2bc62660626]: Textual amendment: Word in [reg. 62(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/62/a) omitted (6.4.2012) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [17(a)](https://www.legislation.gov.uk/nisr/2012/136/regulation/17/a)
+
+[^key-7c7d6c7d072f8afd3302c9307acbb634]: Textual amendment: [Reg. 62(b)](https://www.legislation.gov.uk/nisr/2009/128/regulation/62/b) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [19(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/19/a)
+
+[^key-de4a29312dca0a7c388c4ff694b92ef2]: Textual amendment: [Reg. 62(ba)](https://www.legislation.gov.uk/nisr/2009/128/regulation/62/ba) and word substituted (6.4.2012) for the word at the end of reg. 62(b) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [17(b)](https://www.legislation.gov.uk/nisr/2012/136/regulation/17/b)
+
+[^key-81c020991b3e86356b825959f4d1e725]: Textual amendment: Words in [reg. 62(ba)](https://www.legislation.gov.uk/nisr/2009/128/regulation/62/ba) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [19(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/19/b)
+
+[^key-6aba94abe8d2373b1fb311a11a87690f]: Textual amendment: Words in [reg. 62(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/62/c) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [19(c)](https://www.legislation.gov.uk/nisr/2024/55/regulation/19/c)
+
+[^key-ef269c512cddcf1d9d34eee1b463dd64]: Commencement: Reg. 63 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-5fd7dbd291d192aad5b02f1bc40c18b9]: Textual amendment: Words in [reg. 63(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/63/1) omitted (6.4.2014) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2014/87/regulation/11/a)
+
+[^key-f1e93fd981d5451787f2cb48d73f743b]: Textual amendment: [Reg. 63(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/63/3) substituted (6.4.2010) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/91)](https://www.legislation.gov.uk/nisr/2010/91), [regs. 1](https://www.legislation.gov.uk/nisr/2010/91/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2010/91/regulation/7/1)
+
+[^key-35ef093348a78d0ed5f6a5cc9fea759c]: Textual amendment: [Reg. 63(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/63/4) inserted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/87)](https://www.legislation.gov.uk/nisr/2014/87), [regs. 1](https://www.legislation.gov.uk/nisr/2014/87/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2014/87/regulation/11/b)
+
+[^key-a5a43d4d93f348593f3b5a05a5abd39b]: Commencement: Reg. 64 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^f00046]: Footnote: Schedule 24 to the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) makes similar provision to section 69 of the 1970 Act in relation to penalties incurred under regulation 58(8)(b)
+
+[^key-ac3a07ef44b8df47413ab08938a91bbc]: Commencement: Reg. 65 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-149fc7627bf5188e14092894a41b631e]: Textual amendment: [Reg. 65](https://www.legislation.gov.uk/nisr/2009/128/regulation/65) substituted (6.4.2010) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/91)](https://www.legislation.gov.uk/nisr/2010/91), [regs. 1](https://www.legislation.gov.uk/nisr/2010/91/regulation/1), [8](https://www.legislation.gov.uk/nisr/2010/91/regulation/8)
+
+[^key-8bb638215270db054792095304c0f356]: Commencement: Reg. 66 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-43726cefbef459a6347d4c6e2790e499]: Textual amendment: Words in [reg. 66](https://www.legislation.gov.uk/nisr/2009/128/regulation/66) heading inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [20(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/20/a)
+
+[^key-b8f9926ecd63769b220be5ef43f54912]: Textual amendment: Words in [reg. 66](https://www.legislation.gov.uk/nisr/2009/128/regulation/66) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [20(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/20/b)
+
+[^key-f096c215f303fd8ccb3a6e6fd325311e]: Textual amendment: Words in [reg. 66](https://www.legislation.gov.uk/nisr/2009/128/regulation/66) deleted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [18](https://www.legislation.gov.uk/nisr/2012/136/regulation/18)
+
+[^key-6b415b58d142400704c739d006694929]: Textual amendment: [Regs. 66A](https://www.legislation.gov.uk/nisr/2009/128/regulation/66A), [66B](https://www.legislation.gov.uk/nisr/2009/128/regulation/66B) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [21](https://www.legislation.gov.uk/nisr/2024/55/regulation/21)
+
+[^key-9b6edbd9dfa501f90005f75dc3497483]: Commencement: Reg. 67 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-e61690f72d5bc66288f790458b13a837]: Commencement: Reg. 68 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-bb00335ae586b46858026d5147d0a28e]: Commencement: Reg. 69 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-0aaaf2dc39f6b156b9cdd39a8b36def1]: Textual amendment: [Reg. 69](https://www.legislation.gov.uk/nisr/2009/128/regulation/69) renumbered as reg. 69(1) (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [22(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/22/a)
+
+[^key-a8b3baadb876d63a1d8bf93512859039]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/69/1) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [22(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/22/b)
+
+[^key-0a0526d627a79613d1e4342abea1f4ec]: Textual amendment: [Reg. 69(2)](https://www.legislation.gov.uk/nisr/2009/128/regulation/69/2)[(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/69/3) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [22(c)](https://www.legislation.gov.uk/nisr/2024/55/regulation/22/c)
+
+[^key-215437969b82e1cc4b1e44f4fd9e7f1e]: Textual amendment: [Reg. 69A](https://www.legislation.gov.uk/nisr/2009/128/regulation/69A) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2024/55/regulation/23)
+
+[^key-34a49fc1a5ffe85ce58b64cf72b11819]: Commencement: Reg. 70 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-2e3938c441c1332132bc5c09f3040d4a]: Textual amendment: [Reg. 70(2A)](https://www.legislation.gov.uk/nisr/2009/128/regulation/70/2A) inserted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/68)](https://www.legislation.gov.uk/nisr/2013/68), [regs. 1](https://www.legislation.gov.uk/nisr/2013/68/regulation/1), [11(1)](https://www.legislation.gov.uk/nisr/2013/68/regulation/11/1)
+
+[^key-bd1206c25dc6c4302e59321d2ac6d8b2]: Textual amendment: [Reg. 70(3)](https://www.legislation.gov.uk/nisr/2009/128/regulation/70/3) deleted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [19](https://www.legislation.gov.uk/nisr/2012/136/regulation/19)
+
+[^key-9ba61f72156f81473cbca686e8d13a51]: Textual amendment: [Reg. 70(4)](https://www.legislation.gov.uk/nisr/2009/128/regulation/70/4) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [24(a)](https://www.legislation.gov.uk/nisr/2024/55/regulation/24/a)
+
+[^key-7c8b77861716031e26fa0175046972a8]: Textual amendment: Words in [reg. 70(5)](https://www.legislation.gov.uk/nisr/2009/128/regulation/70/5) substituted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [24(b)](https://www.legislation.gov.uk/nisr/2024/55/regulation/24/b)
+
+[^key-eea54c67f6016525f6fac4d28115971b]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/nisr/2009/128/regulation/70A) inserted (6.4.2024) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2024/55/regulation/25)
+
+[^key-018edad553563019862f634054d50076]: Textual amendment: [Reg. 71](https://www.legislation.gov.uk/nisr/2009/128/regulation/71) omitted (6.4.2024) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/55)](https://www.legislation.gov.uk/nisr/2024/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/55/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2024/55/regulation/26)
+
+[^key-1f7337670f91641c48fed0650b6fc3fe]: Commencement: Reg. 72 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-4edf5d43f4031e1973f81b8fc3a2c693]: Commencement: Reg. 73 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-e109743df71a3566fc431ede8768d5a7]: Commencement: Reg. 74 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-e77166bd9cdc71a0aa25dd3f1c3a08db]: Commencement: Reg. 75 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^f00047]: Footnote: SR. [2008 No. 250](https://www.legislation.gov.uk/nisr/2008/250)
+
+[^f00048]: Footnote: [SI 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760)
+
+[^f00049]: Footnote: [SI 2008/1373 (W. 130)](https://www.legislation.gov.uk/wsi/2008/1373)
+
+[^f00050]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30)
+
+[^f00051]: Footnote: [SI 2008/1582](https://www.legislation.gov.uk/uksi/2008/1582) as amended by [SI 2008/2094](https://www.legislation.gov.uk/uksi/2008/2094) and [SI 2008/2939](https://www.legislation.gov.uk/uksi/2008/2939)
+
+[^key-126003f58bf496934ee0efe6c1fcd97c]: Textual amendment: Words in [reg. 75(2)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/75/2/a) substituted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/nisr/2011/137/regulation/11/2/a)
+
+[^f00052]: Footnote: [SI 1989/2405 (NI. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Article 280 was amended by the Insolvency (Northern Ireland) Order 2005 ([SI 2005/1455 (NI. 10)](https://www.legislation.gov.uk/nisi/2005/1455)). Article 283 was amended by the Pensions (Northern Ireland) Order 1995 ([SI 1995/3213 (NI. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) Schedule 1, paragraph 11, the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([SI 1999/3147 (NI. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and the Insolvency (Northern Ireland) Order 2005 Articles 15 and 31 and Schedule 9
+
+[^key-a44154f93dd2dd10b834b6cbed7f4279]: Textual amendment: Word in [reg. 75(2)(a)](https://www.legislation.gov.uk/nisr/2009/128/regulation/75/2/a) omitted (6.4.2011) by virtue of [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/nisr/2011/137/regulation/11/2/b)
+
+[^key-98fc621bfb4da7520df481497494da78]: Textual amendment: [Reg. 75(2)(c)](https://www.legislation.gov.uk/nisr/2009/128/regulation/75/2/c)[(d)](https://www.legislation.gov.uk/nisr/2009/128/regulation/75/2/d) inserted (6.4.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/137)](https://www.legislation.gov.uk/nisr/2011/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/137/regulation/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2011/137/regulation/11/3)
+
+[^f00053]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); section 307 was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 261. Section 310 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), section 122 and Schedule 3, paragraph 15, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) section 18 and Schedule 2, paragraph 2 and the Enterprise Act 2002, sections 259 and 278 and Schedule 26
+
+[^key-649cfdee9cb5ac7b00888979682d8b8b]: Commencement: Sch. in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1)
+
+[^key-1e591e7b7bb19311e0b01694a74761cb]: Textual amendment: Word in Sch. added (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [21](https://www.legislation.gov.uk/nisr/2012/136/regulation/21)
+
+[^key-4b3c52d746755e46bc0cd2e2d7e18d5c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/128/schedule/2) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/136)](https://www.legislation.gov.uk/nisr/2012/136), [regs. 1](https://www.legislation.gov.uk/nisr/2012/136/regulation/1), [22](https://www.legislation.gov.uk/nisr/2012/136/regulation/22)

@@ -1,0 +1,42 @@
+---
+title: The Employment and Support Allowance Regulations (Northern Ireland) 2016, section 58
+act: The Employment and Support Allowance Regulations (Northern Ireland) 2016
+section: '58'
+status: revised
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/219/section/58
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment and Support Allowance Regulations (Northern Ireland) 2016, section 58
+
+> Text as at 2026-04-06.
+>
+> Extent: Northern Ireland.
+
+## 58. Amount of reduction for each benefit week[^key-1cf9072473436f9a06df44e2ac84d288]
+
+*Extent: N.I.*
+
+Where it has been determined that an award of an employment and support allowance is to be reduced in accordance with section 11J of the Act, the amount of the reduction for each benefit week in respect of which a reduction has effect is to be calculated as follows.
+
+- *Step 1*
+
+  Take the number of days—
+
+  - (a) in the benefit week; or
+  - (b) if lower, in the total outstanding reduction period,
+
+  and deduct any days in that benefit week or total outstanding reduction period for which the reduction is suspended in accordance with regulation 56.
+- *Step 2*
+
+  Multiply the number of days produced by step 1 by the daily reduction rate.
+- *Step 3*
+
+  Deduct the amount produced by step 2 from the amount of the award of employment and support allowance for the benefit week.
+
+## Annotations
+
+[^key-1cf9072473436f9a06df44e2ac84d288]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2016/219/regulation/58) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -1,0 +1,270 @@
+---
+title: The River Lagan Tidal Navigation and General Bye-laws (Northern Ireland) 2007
+id: nisr/2007/243
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2007-04-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2007/243
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/243/pdfs/nisr_20070243_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/243/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The River Lagan Tidal Navigation and General Bye-laws (Northern Ireland) 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 243
+
+Laganside
+
+The River Lagan Tidal Navigation and General Bye-laws (Northern Ireland) 2007
+
+Made
+
+3rd April 2007
+
+Coming into operation
+
+3rd April 2007
+
+The Department for Social Development, makes the following Bye-laws in exercise of the powers conferred by Article 19 of the Laganside Development (Northern Ireland) Order 1989[^f00001]:
+
+## 1. Citation and Commencement
+
+These Bye-laws may be cited as the River Lagan Tidal Navigation and General Bye-laws (Northern Ireland) 2007 and shall come into operation on 3<sup>rd</sup> April 2007.
+
+## 2. Application
+
+These Bye-laws shall apply to that part of the River Lagan between the Stranmillis Weir and a line five metres downstream of the seaward extremity of, and parallel to, the Lagan Bridge.
+
+## 3. Interpretation
+
+In these Bye-laws—
+
+- “the Department” means the Department for Social Development;
+- “the Order” means the Laganside Development (Northern Ireland) Order 1989;
+- “authorised officer” includes the River Manager and the River Warden of the Department for Social Development and any other person authorised in writing by the Department;
+- “event” means fishing contest, regatta, race or other organised meeting of vessels for the purpose of training, coaching, competition or display;
+- “hours of darkness” means the time between half an hour after sunset and half an hour before sunrise;
+- “master” means the person for the time being in command, charge or management or in physical control of a vessel;
+- “motorised skimmer” means a driver mounted vessel which skims through the water and relies on the operation of its engine to provide stability and manoeuvrability;
+- “Ordnance Datum” means the average value of mean sea level at Belfast for the period 1951/1956;
+- “permission of the Department” means permission in writing signed on behalf of the Department for Social Development by an officer duly authorised in that behalf;
+- “port side” means the left hand side when standing at the rear and facing towards the front of the vessel;
+- “public mooring” means any place provided by the Department or any other Public Authority where the general public is permitted to moor vessels but excluding any mooring place provided by the Department or a Public Authority and leased to private persons;
+- “river” means the stretch of the River Lagan between the Stranmillis Weir and the area down to a line five metres downstream of the Lagan Bridge up to Belfast Mean High Water Mark (+ 1.49 metres Ordnance Datum) and including the navigable length of the Blackstaff River and the Glentoran Stream and all other inlets within the designated area of the Department;
+- “starboard” means the right hand side when standing at the rear and facing towards the front of the vessel;
+- “under way” in relation to a vessel means a vessel which is not at anchor nor made fast to the shore nor aground;
+- “vessel” means any boat, open or decked punt, canoe, scull, row boat, dinghy, floating restaurant, yacht, launch, houseboat, skiff or other water craft propelled by oars, sail or engine;
+- “works” means works as set out in Articles 17 and 18 of the Order.
+
+## 4. Obstruction of Authorised Officers
+
+(1) No person shall intentionally obstruct an authorised officer or any person employed or appointed by the Department in the exercise of any powers or functions conferred on him or her under or in respect of these Bye-laws.
+
+(2) No person not duly authorised by the Department shall purport to exercise any powers of the Department in relation to the river.
+
+## 5. Enforcement of Bye-laws
+
+An authorised officer may at any time give such orders or directions as may be necessary to ensure compliance with these Bye-laws and all such persons navigating or being present on the river shall obey all such orders or directions.
+
+## 6. Care for Other River Users and Property
+
+No person on the river shall behave without due care and attention and without reasonable consideration for the river and for other persons using the river.
+
+## 7. Alcohol or Drugs
+
+No person who is under the influence of alcohol or drugs to such extent as to be incapable of navigating or having proper control of a vessel shall navigate or attempt to navigate or control the same or use on the river any equipment or facility owned by the Department, a Public Authority or private persons.
+
+## 8. Prohibitions on Navigation
+
+(1) The Department may for reasons of safety or for the purposes of an event or works on the river or for any other reason temporarily prohibit the use of any part of the river for navigation or for recreational purposes for such period as shall be specified in a notice inserted in two or more newspapers circulating in the locality and no person shall navigate on or use such part of the river for recreational purposes during such period.
+
+(2) An authorised officer may at any time in case of emergency and for reasons of safety temporarily prohibit the use of any part of the river for navigation or for recreational purposes and no person shall navigate on or use such part of the river for recreational purposes as shall be specified by the said authorised officer during the period stipulated by him provided always that no person shall be in breach of this Bye-law unless the Department shall affirmatively prove that the prohibition was imposed for reasons of safety and that an emergency justifying the prohibition existed at the time of such prohibition.
+
+## 9. Prevention of Collisions
+
+The master of any vessel on the river shall observe the International Regulations for Preventing Collisions at Sea[^f00002].
+
+## 10. Restriction on Navigation by Night, etc.
+
+(1) The master of a vessel navigating during the hours of darkness shall display lights on such vessel as follows, each to be visible over the water to a distance of 1.6 kilometres—
+
+- (a) on the mast or at a height of not less than 1.2 metres above the hull, a bright white light, (power driven vessels only), visible from right ahead to 22.5 degrees abaft the beam on either side;
+- (b) on the starboard side, a green light, visible from right ahead to 22.5 degrees abaft the beam on the starboard side;
+- (c) on the port side, a red light, visible from right ahead to 22.5 degrees abaft the beam on the port side;
+- (d) on the stern, a white light, visible from right aft to 22.5 degrees abaft the beam on either side;
+- (e) any vessel less than seven metres in length may, in lieu of (a) and (b) and (c) display an all-round white light but shall if practicable display side lights;
+- (f) any vessel with a narrow beam and exceeding 7 metres in length shall display bright white lights on its bow and stern which comply with the requirements of sub-paragraphs (a) and (d).
+
+(2) The master of any vessel aground on the river or moored or anchored other than at a public or private mooring place shall during the hours of darkness display on such vessel a bright white light of such character as to be visible upstream or downstream to a distance of two hundred metres in clear weather conditions.
+
+## 11. Navigation and Launching of Vessels
+
+(1) The master of a vessel navigating downstream on the river shall have precedence of passage through the same bridge arch over the masters of vessels navigating upstream.
+
+(2) The master of a vessel navigating along the river shall keep to his or her own starboard side of the river and the masters of vessels navigating in opposite directions shall pass port side to port side.
+
+(3) Notwithstanding any other provisions, the master of any vessel overtaking any other vessel shall keep out of the way of the vessel being overtaken. A vessel shall be deemed to be overtaking when coming up with another vessel from a direction of more than 22.5 degrees abaft the beam. If a vessel is in doubt, it shall assume that it is overtaking.
+
+(4) The master of any vessel crossing from one side of the river to the other side shall do so at a proper time having regard to other vessels navigating up and down the river and shall navigate so as not to cause obstruction or damage to any other vessel.
+
+(5) The master of any vessel that approaches the Lagan Weir which at that time is not ready to be navigated shall hold off a reasonable and safe distance from the weir and may use mooring facilities available upstream and downstream until the weir is ready for passage over.
+
+(6) No master shall launch a vessel on the river except at approved public and private launching locations.
+
+## 12. Danger, etc., to Other River Users and Speed on the River
+
+(1) No master shall navigate a vessel on the river at such speed or in such a manner as to cause or be likely to cause danger, injury, damage, obstruction or nuisance to other users of the river or to any property.
+
+(2) Except as permitted by Bye-law 19(1), no master shall navigate a vessel on the river at a speed in excess of 10 kilometres per hour.
+
+(3) The master of any vessel on the river approaching or passing any place where works are being carried on shall reduce speed.
+
+(4) Any master who stops a vessel on the river shall ensure that a proper look-out is maintained.
+
+## 13. Vessels Under Sail
+
+(1) No master shall navigate a sail boat on the river unless the mast can be lowered on and secured to the deck of the vessel.
+
+(2) A vessel under sail on the river shall have a right of way over any other vessel except for a mechanically propelled vessel which is restricted in its ability to manoeuvre.
+
+(3) When two vessels under sail on the river are approaching one another, the following rules shall apply—
+
+- (a) when each has the wind on a different side, the boat which has the wind on the port side shall keep out of the way of the other, or
+- (b) when both have the wind on the same side, the vessel which is to windward shall keep out of the way of the vessel which is to leeward.
+
+(4) For the purpose of this Bye-law the windward side shall be deemed to be the side opposite to that on which the mainsail is carried or, in the case of a square rigged vessel, the side opposite to that on which the largest fore and aft sail is carried.
+
+## 14. Precedence of Vessels for Berths
+
+At every inlet, mooring or landing place on the river vessels shall have precedence for berths in order of their arrival.
+
+## 15. Mooring of Vessels and Fixing of Ropes or Lines
+
+(1) No master shall moor a vessel—
+
+- (a) at any inlet, mooring, landing place or bridge in such a way as to cause damage to or cause obstruction to safe use of the said inlet, mooring, landing place or bridge;
+- (b) alongside another vessel except where there remains sufficient space for two vessels to pass and repass at the same time;
+- (c) to cause danger or obstruct the passage of any other vessel in any part of the river; or
+- (d) at the same place on the river, or within five hundred metres of the same place for more than forty-eight hours without the permission of the Department.
+
+(2) No person shall affix any mooring rope or line to any river bank, quay wall, bridge or other property of the Department not provided for the purpose of mooring.
+
+(3) Where a mooring rope or line is affixed to any river bank, quay wall, bridge or other property of the Department in contravention of this Bye-law, the owner or person in charge of the object shall remove the said rope or line in accordance with any directions given by an authorised officer and within a period of forty-eight hours of such directions being given.
+
+(4) Where a vessel is moored on any part of the river in contravention of this Bye-law, the owner or master shall remove the said vessel in accordance with any directions given by an authorised officer and within a period of forty-eight hours of such directions being given.
+
+## 16. Placing of Buoys, etc.
+
+(1) Except as required by Bye-law 17, no person shall place on the river any buoy, perch, marker, mooring or mooring post, other than with the permission of the Department.
+
+(2) Where any buoy, perch, marker, mooring or mooring post has been placed on the river in contravention of this Bye-law, the owner or person in charge of the object shall remove it in accordance with any directions given by an authorised officer and within a period of forty-eight hours of such directions being given.
+
+## 17. Going Aground, etc., of Vessels
+
+(1) The owner or master of any vessel which has—
+
+- (a) run aground on any part of the river; or
+- (b) sunk in any part of the river,
+
+shall, as soon as possible after the running aground or sinking, inform the Department thereof, and shall take all such steps as may be necessary to refloat the vessel or remove it from the river.
+
+(2) The owner or master of any vessel which has been sunk in any part of the river shall mark the place with a marker or buoy where the vessel sank and shall maintain the marker or buoy in that place until such vessel has been raised.
+
+(3) Where a vessel has run aground or has sunk in any part of the river, the owner or master shall remove it in accordance with any directions given by an authorised officer and within a period of forty-eight hours of such directions being given.
+
+## 18. Placing of Objects on the River Banks, etc.
+
+(1) No person shall place on any part of the river bank, quay wall or other property below Belfast Mean High Water Mark (+ 1.49 metres Ordnance Datum) any temporary mooring object whatsoever other than with the permission of the Department.
+
+(2) The owner or person in charge of any such temporary mooring object shall remove it in accordance with any directions given by an authorised officer and within a period of forty-eight hours of such directions being given.
+
+## 19. Organisation of Events
+
+(1) Bye-law 12 (2) shall not apply to vessels or to motorised skimmers taking part in an event approved by the Department.
+
+(2) The organiser of any event in respect of which the approval of the Department is sought shall—
+
+- (a) ensure that third party liability insurance is arranged for the event in a sum adequate for the event but not less than one million pounds sterling, and
+- (b) indemnify the Department against all liabilities arising from the event including death, personal injury, loss of or damage to property and necessary withdrawal of permission from the Department for use of the river for the event, and
+- (c) submit to the Department, not less than 72 hours prior to the commencement of the event, proof of such insurance, and
+- (d) complete and lodge with the Department not less than eight weeks prior to the proposed date of the event an application form in the form set out in the Schedule.
+
+(3) The Department may in the interests of safety require modifications in the timing or location of any event in respect of which its approval is sought.
+
+(4) In this Bye-law where a club, school or organisation intends to hold an event, “the organiser” means the secretary or administrative officer of such a club, school or organisation.
+
+(5) The Department shall inform the general public and river users about any event to be held on the river which requires part of the river to be closed for a period of time to accommodate the event, by placing a notice in the press or by letter at the expense of the organiser.
+
+(6) On the occasion of any event, no master shall permit any vessel to pass or be stationed thereon so as to obstruct, impede or otherwise interfere with the event or to endanger the safety of persons assembling at or on the river or to prevent or interfere with the maintenance of order.
+
+(7) No ropes or marker buoys shall be placed or left in any part of the river outside the period of time approved by the Department for an event to be held.
+
+## 20. Miscellaneous Prohibitions
+
+No person shall—
+
+- (a) bathe or swim in any part of the river;
+- (b) except where authorised by statute, deposit or leave any litter or rubbish of any kind in any part of the river except in a receptacle provided by the Department or other Public Authority;
+- (c) cause nuisance to other river users;
+- (d) cut adrift any boat moored on the river;
+- (e) except where authorised by statute, go aboard any vessel on the river without the permission of the owner or master of that vessel except as is necessary to moor or move the vessel or to gain access to another vessel, or in case of an emergency;
+- (f) hold any event without the permission of the Department;
+- (g) except for emergency signalling devices, throw, shoot or otherwise propel any stone, shot or other missile from, into or over any vessel, or the river;
+- (h) remove any bed material from the river without the permission of the Department.
+
+## 21. Penalties
+
+Any person who contravenes these Bye-laws shall be guilty of an offence under Article 19(5) of the 1989 Order and shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale, and in the case of a continuing offence, a further fine not exceeding £2 per day for each day on which the offence continues after conviction.
+
+## 22. Revocation
+
+The River Lagan Tidal Navigation and General Bye-laws (Northern Ireland) 2006 are revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 3<sup>rd</sup> April 2007
+
+Jackie Johnston
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE — APPLICATION FOR APPROVAL OF AN EVENT
+
+Bye-law 19(2)(d)
+
+<table>
+<tbody>
+<tr><td>1.</td><td>Name of Applicant</td><td></td></tr>
+<tr><td></td><td>Address</td><td></td></tr>
+<tr><td>2.</td><td>Name of Organisation</td><td></td></tr>
+<tr><td></td><td>Office Held by Applicant</td><td></td></tr>
+<tr><td></td><td>Address of Organisation</td><td></td></tr>
+<tr><td>3.</td><td>Details of Event<br>(a) Nature of Event<br>(b) Site<br>(c) Date<br>(d) Time<br>(e) Duration</td><td></td></tr>
+<tr><td>4.</td><td>Name and Address of Sports Governing Body (if applicable)</td><td></td></tr>
+<tr><td>5.</td><td>Date of Approval by Governing Body for this Event</td><td></td></tr>
+<tr><td>6.</td><td>Name and Address of Insurers for this Event</td><td></td></tr>
+<tr><td>7.</td><td>No. of Participating Vessels</td><td></td></tr>
+<tr><td>8.</td><td>SAFETY<br>(a) No. of Safety Boats Arranged<br>(b) Details of First Aid Provision</td><td></td></tr>
+<tr><td colspan="3">9. Declaration<br>1. I/we on behalf of the above organisation hereby apply for the approval of the Department for Social Development to the above event.<br>2. I/we undertake that third party liability insurance will be arranged for the event in a sum adequate for the event but not less than £1 million sterling.<br>I/we further undertake to furnish to the Department for Social Development proof of such insurance not less than 72 hours prior to the commencement of the event.<br>I/we hereby indemnify the Department for Social Development against all liabilities arising from the event including death, personal injury, loss of or damage to property and necessary withdrawal of permission from the Department for the use of the river for the event.<br>Signature(s) of Applicant(s)<br>Date</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rule)
+
+These Bye-laws re-enact the River Lagan Tidal Navigation and General Bye-laws 1995 which are revoked by the substitution of Article 19 of the Laganside Development (Northern Ireland) Order 1989 by Part 1 of Schedule 2 to the Laganside Corporation Dissolution Order (Northern Ireland) 2006 and the dissolution of the Laganside Corporation under that Order.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1989/490 (N.I. 2)](https://www.legislation.gov.uk/nisi/1989/490) inserted by [S.R. 2006/ 527](https://www.legislation.gov.uk/nisr/2006/527) Article 5(1) and Part 1 of Schedule 2
+
+[^f00002]: Footnote: The International Regulations for Preventing Collisions at Sea from Schedule 1 to the Merchant Shipping (Distress Signals and Prevention of Collisions) Regulations 1989 ([S.I. 1989/1798](https://www.legislation.gov.uk/uksi/1989/1798))

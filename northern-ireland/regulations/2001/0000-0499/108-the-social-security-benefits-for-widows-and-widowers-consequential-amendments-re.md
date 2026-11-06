@@ -1,0 +1,536 @@
+---
+title: The Social Security (Benefits for Widows and Widowers) (Consequential Amendments) Regulations (Northern Ireland) 2001
+id: nisr/2001/108
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-03-13'
+text_date: '2017-11-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/108
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/108/pdfs/nisr_20010108_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/108/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Benefits for Widows and Widowers) (Consequential Amendments) Regulations (Northern Ireland) 2001
+
+> Text as at 2017-11-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 108
+
+SOCIAL SECURITY
+
+The Social Security (Benefits for Widows and Widowers) (Consequential Amendments) Regulations (Northern Ireland) 2001
+
+Made
+
+13th March 2001
+
+Coming into operation
+
+9th April 2001
+
+The Department for Social Development, in exercise of the powers conferred by Articles 73(3) and (4)(*a*) and 75(5)(*a*) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-269b80a15b6876b941cbb83a9cb3fc32]
+
+These Regulations may be cited as the Social Security (Benefits for Widows and Widowers) (Consequential Amendments) Regulations (Northern Ireland) 2001 and shall come into operation on 9th April 2001.
+
+## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-0163b31025cc2216ac3dd97dbbf535ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Social Security (Credits) Regulations[^key-b1d0e9ca540ec85d66e81b65a3858e9f]
+
+(1) The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00008] shall be amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “benefit”[^f00009] there shall be inserted—
+
+  > - “bereavement allowance” means an allowance referred to in section 39B of the Contributions and Benefits Act[^f00010];
+  > - “bereavement benefit” means a benefit referred to in section 20(1)(*ea*)[^f00011] of the Contributions and Benefits Act (list of contributory benefits);
+
+  ;
+- (b) after the definition of “relevant past year”[^f00012] there shall be inserted—
+
+  > - “widowed parent’s allowance” means an allowance referred to in section 39A of the Contributions and Benefits Act;
+
+  .
+
+(3) In regulation 3(1)(*a*)[^f00013] (which provides that contributions or earnings shall be credited only for the purpose of satisfying the second contribution condition in relation to certain benefits) after “widowed mother’s allowance,” there shall be inserted “widowed parent’s allowance, bereavement allowance,”.
+
+(4) In regulation 4, in the heading and in paragraph (1)[^f00014] (which provides for the crediting of Class 3 contributions for the purpose of entitlement to certain benefits) after “ a widowed mother’s allowance” there shall be inserted “, a widowed parent’s allowance, a bereavement allowance”.
+
+(5) In regulation 7A(1)[^f00015] (credits for invalid care allowance) after—
+
+- (a) “widow” there shall be inserted “or widower”;
+- (b) “widow’s benefit” there shall be inserted “, bereavement benefit”.
+
+(6) In regulation 7C(1)[^f00016] (which provides for the crediting of earnings equal to the prevailing weekly lower earnings limit in certain cases where working families' tax credit is being paid) after “a widowed mother’s allowance” there shall be inserted “, a widowed parent’s allowance, a bereavement allowance”.
+
+(7) After regulation 8B[^f00017] (credits for incapacity for work) there shall be inserted—
+
+> **8C. Credits on termination of bereavement benefits**
+>
+> (1) This regulation applies for the purpose only of enabling a person who previously received a bereavement benefit (“the recipient”) to satisfy, as the case may be, the condition referred to in—
+>
+> - (a) paragraph 2(3)(*b*) of Schedule 3 to the Contributions and Benefits Act (second contribution condition for short-term incapacity benefit) in relation to short-term incapacity benefit; or
+> - (b) Article 4(1)(*b*)[^f00018] of the Jobseekers Order[^f00019] (contribution based condition) in relation to contribution-based jobseeker’s allowance.
+>
+> (2) For every year up to and including that in which the recipient ceased to be entitled to a bereavement benefit otherwise than by reason of remarriage or living together with a person of the opposite sex as husband and wife, the recipient shall be credited with such earnings as may be required to enable the condition referred to in paragraph (1) to be satisfied.
+
+.
+
+## 4. Amendment of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations[^M_F_164467e5-e70e-4095-ff83-6e6bf630cdcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^key-879c147046cd57fef9cb64189ffb4275]
+
+(1) The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00021] shall be amended in accordance with paragraph (2).
+
+(2) For regulation 4B[^f00022] (circumstances in which a person entitled to child benefit is to be treated as if he were not so entitled), there shall be substituted—
+
+> **4B. Circumstances in which a person entitled to child benefit is to be treated as if he were not so entitled**
+>
+> (1) For the purposes of the following provisions of the Contributions and Benefits Act[^f00023]—
+>
+> - (a) section 56 (child’s special allowance);
+> - (b) section 77 (guardian’s allowance);
+> - (c) section 80[^f00024] (increase in benefit for beneficiary’s dependent children);
+> - (d) section 82(4) (short-term benefits — increase for adult dependants);
+> - (e) section 85(2) (pension increase (person with care of children));
+> - (f) section 90[^f00025] (increase in benefits for beneficiaries under sections 68 and 70), and
+> - (g) paragraphs 4(1) (unemployability supplement: increase for beneficiary’s dependent children) and 6(1) (unemployability supplement: increase for dependent adults) of Schedule 7,
+>
+> a person who is entitled to child benefit in respect of a child shall be treated as if he were not so entitled for the periods referred to in paragraph (2).
+>
+> (2) The periods referred to in paragraph (1) are—
+>
+> - (a) any period throughout which—
+>   - (i) the person referred to in paragraph (1), not being a parent of the child, does not fall to be treated as responsible for the child under section 139(1)(*a*) of the Contributions and Benefits Act (meaning of “person responsible for child”), and
+>   - (ii) a parent of that child falls to be treated as responsible for the child under the said section 139(1)(*a*);
+> - (b) any period throughout which—
+>   - (i) the person referred to in paragraph (1), not being a parent of that child, falls to be treated as responsible for the child under the said section 139(1)(*a*), and
+>   - (ii) a parent of that child also falls to be treated as responsible for the child under the said section 139(1)(*a*); or
+> - (c) any day following the day on which that child died.
+>
+> (3) Sub-paragraph (*b*) of paragraph (2) shall not apply in the case of a person who is wholly or mainly maintaining the child referred to in that sub-paragraph.
+>
+> (4) For the purposes of the following provisions of the Contributions and Benefits Act—
+>
+> - (a) section 37(1) (entitlement to a widowed mother’s allowance);
+> - (b) section 39A(2) (entitlement to a widowed parent’s allowance);
+> - (c) section 56(1)(*b*);
+> - (d) section 77(1);
+> - (e) section 80;
+> - (f) section 82(4);
+> - (g) section 85(2);
+> - (h) section 90, and
+> - (i) paragraphs 4(1), 6(1) and 18(1)(*a*)(ii) of Schedule 7 (industrial death benefit: child of deceased’s family),
+>
+> a person who is entitled to child benefit in respect of a child shall be treated as if he were not so entitled for any period for which that benefit is not payable by virtue of any of the provisions referred to in paragraph (5).
+>
+> (5) The provisions referred to in paragraph (4) are—
+>
+> - (a) regulation 7 (circumstances in which a person who has ceased to receive full-time education is to continue to be treated as a child);
+> - (b) regulation 8 (exclusion from benefit of children aged 16 but under the age of 19 who are receiving advanced education);
+> - (c) regulation 9 (child receiving training under a relevant training scheme);
+> - (d) regulation 9A (child receiving income support, income-based jobseeker’s allowance or incapacity benefit); or
+> - (e) regulation 9C (child receiving financial support for vocational training),
+>
+> of the Child Benefit (General) Regulations (Northern Ireland) 1979[^f00026] or any provision contained in regulations made under section 140(1) of the Contributions and Benefits Act (exclusion from child benefit) in so far as those regulations provide that child benefit is not to be payable by virtue of section 138(1)(*b*) of that Act (meaning of “child”) and regulations made thereunder.
+
+.
+
+## 6. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^key-a968adc00dbab972b3a0e05e8cd11a85]
+
+(1) The Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00027] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) after the definition of “the Contributions Regulations”[^f00028] there shall be inserted—
+
+  > - “bereavement allowance” means an allowance referred to in section 39B of the Contributions and Benefits Act[^f00029];
+
+  ;
+
+“bereavement benefit” means a benefit referred to in section 20(1)(*ea*) of the Contributions and Benefits Act;“???”;
+
+- (b) after the definitions of “ “widow’s benefit” and “widow’s pension” ” there shall be inserted—
+
+  > - “widowed parent’s allowance” means an allowance referred to in section 39A of the Contributions and Benefits Act;
+
+  .
+
+(3) In regulation 4 (modification of the Act in relation to widow’s benefit, child’s special allowance, guardian’s allowance and retirement pension)—
+
+- (a) in the heading and in paragraph (1)[^f00030] after “widow’s benefit,” there shall be inserted “bereavement benefit”,
+- (b) after paragraph (2A)[^f00031] there shall be inserted—
+
+  > (2B) In the case of a bereavement payment, paragraph (1) above shall apply only where—
+  >
+  > - (a) the deceased spouse was in Northern Ireland at the time of his or her death;
+  > - (b) sub-paragraph (*a*) above does not apply but the surviving spouse returned to Northern Ireland within 4 weeks of the deceased spouse’s death; or
+  > - (c) the contribution conditions for widowed parent’s allowance and bereavement allowance set out in paragraph 5[^f00032] of Schedule 3 to the Contributions and Benefits Act or in regulation 6 of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00033] are satisfied in relation to the surviving spouse.
+
+  .
+
+(4) In regulation 5(3)(*d*)[^f00034] (which provides that a person’s disqualification from receiving any additional widow’s benefit shall not be affected where the widow’s husband had become entitled to a Category A retirement pension or died before the appointed date) for “if her husband” there shall be substituted “or bereavement benefit if the deceased spouse”.
+
+(5) In regulation 5A(1)[^f00035] (rate of guaranteed minimum pension for certain purposes) after “additional widowed mother’s allowance” there shall be inserted “, bereavement allowance, widowed parent’s allowance”.
+
+## 7. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-7337a515fc8c791440f3af25108dbf3d]
+
+(1) The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00036] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “benefit under Chapters I and II of Part II of the Act” there shall be inserted—
+
+  > - “bereavement allowance” means an allowance referred to in section 39B of the Contributions and Benefits Act[^f00037];
+
+  ;
+- (b) after the definition of “war pension death benefit” there shall be inserted—
+
+  > - “widowed parent’s allowance” means an allowance referred to in section 39A of the Contributions and Benefits Act;
+
+  .
+
+(3) In paragraph 3 of Column (1) of Schedule 1[^f00038] (personal benefits which are required to be adjusted) after “Widow’s benefit” there shall be inserted “, bereavement allowance, widowed parent’s allowance”.
+
+## 8. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-176eb19a92fff064d5e10a3e7823b852]
+
+(1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00039] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) after the definition of “the Act of 1970” there shall be inserted—
+
+  > - “the Administration Act” means the Social Security Administration (Northern Ireland) Act 1992[^f00040];
+  > - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+  ;
+- (b) after the definition of “the Pensions Order” there shall be inserted—
+
+  > - “bereavement allowance” means an allowance referred to in section 39B of the Contributions and Benefits Act;
+
+  ;
+- (c) after the definition of “unemployability supplement” there shall be inserted—
+
+  > - “widowed parent’s allowance” means an allowance referred to in section 39A of the Contributions and Benefits Act;
+
+  .
+
+(3) In regulation 6[^f00041] (benefit at reduced rates for those who do not satisfy the contribution conditions in full)—
+
+- (a) in paragraph (1), after sub-paragraph (*a*) there shall be inserted—
+
+  > - (aa) widowed parent’s allowance; or
+  > - (ab) bereavement allowance; or
+
+  ;
+- (b) in paragraph (2), after sub-paragraph (*a*) there shall be inserted—
+
+  > - (aa) widowed parent’s allowance; or
+
+  ;
+- (c) in paragraph (4)(*b*), after “widow’s pension” there shall be inserted “, a bereavement allowance, a widowed parent’s allowance”.
+
+(4) After regulation 7 (Category B retirement pension for certain widows by virtue of husband’s contributions) there shall be inserted—
+
+> **7A. Category B retirement pension for surviving spouses by virtue of deceased spouse’s contributions**
+>
+> (1) For the purposes of entitlement of any person (“the pensioner”) to a Category B retirement pension under section 48BB[^f00042] of the Contributions and Benefits Act (Category B retirement pension: entitlement by reference to benefits under section 39A or 39B), the pensioner shall be treated as being entitled to a widowed parent’s allowance or a bereavement allowance, as the case may be, if he would have been so entitled but for any one or more of the circumstances specified in paragraph (2).
+>
+> (2) The circumstances referred to in paragraph (1) are—
+>
+> - (a) the pensioner’s failure to make, or his delay in making, a claim for that widowed parent’s allowance or bereavement allowance;
+> - (b) the operation of section 113[^f00043] of the Contributions and Benefits Act (disqualification and suspension) or section 71[^f00044] of the Administration Act (overlapping benefits) or any regulations made under either of those sections, except for the operation of section 113(1)(*a*) of the Contributions and Benefits Act (absence from Northern Ireland);
+> - (c) the operation of any provision of the Contributions and Benefits Act or any regulations made under that Act disqualifying the pensioner from receipt of that widowed parent’s allowance or bereavement allowance for any period, except for the operation of the said section 113(1)(*a*);
+> - (d) the pensioner’s having attained pensionable age;
+> - (e) the pensioner’s having remarried.
+>
+> (3) Where this regulation applies, the weekly rate of a Category B retirement pension shall—
+>
+> - (a) in the case of a pensioner treated as being entitled to widowed parent’s allowance immediately before attaining pensionable age in consequence of the death of his or her spouse, be that specified in section 48BB(2) of the Contributions and Benefits Act;
+> - (b) in the case of a pensioner treated as being entitled to—
+>   - (i) widowed parent’s allowance at any time when over the age of 45 but not immediately before attaining pensionable age, or
+>   - (ii) bereavement allowance at any time prior to attaining pensionable age,
+>
+>   be that specified in section 48BB(5) and (6) of the Contributions and Benefits Act, as the case may be.
+
+.
+
+(5) In regulation 8(1) (which specifies who is entitled to a Category A retirement pension by virtue of the substitution of a former spouse’s contribution record) for sub-paragraph (*b*) there shall be substituted—
+
+> - (b) any man or woman widowed on or after attaining pensionable age, his or her former spouse, as the case may be, being under pensionable age when she or he died; and
+
+.
+
+## 9. Amendment of the Social Security (General Benefit) Regulations[^key-7ca4b055b68e7700a90fdd688609711c]
+
+(1) The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00045] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation) after the definition of “the Child Benefit Order” there shall be inserted—
+
+> - “bereavement benefit” means a benefit referred to in section 20(1)(*ea*) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+.
+
+(3) In regulation 2(2)[^f00046] (which provides that a person is not to be disqualified for receiving certain benefits in cases of imprisonment or detention pending criminal proceedings unless a penalty is imposed in respect of such proceedings) after “widow’s benefit,” there shall be inserted “bereavement benefit,”.
+
+## 10. Amendment of the Social Security (Claims and Payments) Regulations[^key-8bd6e808b4407917625224bd65cda816]
+
+(1)[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00047] shall be amended in accordance with paragraphs (2) to (7). *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+(2) In regulation 2(1) (interpretation)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+- (a) after the definition of “benefit orders” there shall be inserted— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+  > - “bereavement allowance” means an allowance referred to in section 39B of the *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] Contributions and Benefits Act *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00048];
+  > - “bereavement benefit” means a benefit referred to in section 20(1)( *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]*ea *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]*) of the *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] Contributions and Benefits Act *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f];
+
+  ;
+- (b) in the definition of “long term benefits” *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00049] after “a widow’s pension,” there shall be inserted “a widowed parent’s allowance, bereavement allowance,”; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+- (c) after the definition of “week” there shall be added— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+  > - “widowed parent’s allowance” means an allowance referred to in section 39A of the *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] Contributions and Benefits Act *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f].
+
+  .
+
+(3) In regulation 3 (claims not required for entitlement to benefit in certain cases)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+- (a) in paragraph ( *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]*a*), after sub-paragraph (iii) there shall be added— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+  > or *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+  >
+  > - (iv (affected by repeal, see note))[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] bereavement benefit; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+  ;
+- (b)[^key-1dc7a30cbebfc387ba05634cb61d4050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-197cdcdb6c801b64ecb9c705fbf34ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In Schedule 1, in the Table in Part I *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00051] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+- (a) in column (1) after “Widow’s benefit” there shall be inserted “or bereavement benefit”; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+- (b) in column (2) after “Widow’s benefit” there shall be inserted “or bereavement benefit”. *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+(6) In Schedule 6 (days for payment of long term benefits)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+- (a) in paragraph 5, for sub-paragraph ( *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]*b*) there shall be substituted— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+  > - (b) where— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+  >   - (i) a woman was entitled to a widow’s benefit, or *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+  >   - (ii (affected by repeal, see note))[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f] a person was entitled to a bereavement benefit, *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+  >
+  >   immediately before becoming entitled to a retirement pension, that pension shall be payable on Tuesdays; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+  ;
+- (b)[^key-36dc731155b822c20d6674e43145c266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In Schedule 7 *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00052] (manner and time of payment and commencement of entitlement in income support cases)— *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+- (a) in paragraph 2( *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]*c*), after “widow’s benefit” there shall be inserted “or bereavement benefit”; *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+- (b) in paragraph 4 *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f][^f00053], in the definition of “relevant social security benefit” after “retirement pension” there shall be inserted “, bereavement benefit”. *(affected by repeal, see note)*[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]
+
+## 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-53be3c7f29c6438a113bc9f0633030dd]
+
+(1)[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e] The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e][^f00054] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]
+
+(2) In regulation 1(2) (interpretation) after the definition of “benefit” there shall be inserted— *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]
+
+> - “bereavement benefit” means a benefit referred to in section 20(1)( *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]*ea *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]*) of the *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e] Contributions and Benefits Act *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e][^f00055];
+> - “bereavement payment” means the sum specified in Part II of Schedule 4 to the *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e] Contributions and Benefits Act *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e] (amount of widow’s payment) and referred to in section 36 of that Act *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e][^f00056];
+
+.
+
+(3) In regulation 8(1) *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e][^f00057] (which specifies payments which can be recovered because they were not made on a prescribed date), after sub-paragraph ( *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]*g*) there shall be added— *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]
+
+> - (h) any bereavement benefit other than a bereavement payment. *(affected by repeal, see note)*[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]
+
+.
+
+## 12. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-a85e51e40b3e95d00f2350605ca98ceb]
+
+(1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00058] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) before the definition of “claimant” there shall be inserted—
+
+  > - “bereavement allowance” means an allowance referred to in section 39B of the Contributions and Benefits Act;
+
+  ;
+- (b) at the end there shall be added—
+
+  > - “widowed parent’s allowance” means an allowance referred to in section 39A of the Contributions and Benefits Act.
+
+  .
+
+(3) In paragraph 3(*g*) of Schedule 2A[^f00059] (date on which change of circumstances takes effect in certain cases where a claimant is in receipt of income support or a jobseeker’s allowance) after “retirement pension” there shall be inserted “, bereavement allowance, widowed parent’s allowance”.
+
+Sealed with the Official Seal of the Department for Social Development on 13th March 2001.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations make amendments consequential on Articles 51 to 53 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (“the Order”) which amend the Social Security Contributions and Benefits (Northern Ireland) Act 1992 to provide for the introduction of bereavement payment, bereavement allowance and widowed parent’s allowance.
+
+Article 2(3)(*a*) of the [Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Northern Ireland) 2000 (S. R. 2000 No.133 (C. 5))](https://www.legislation.gov.uk/nisr/2000/133) provides for the coming into operation of Articles 51 to 53 of the Order on 24th April 2000 for the purpose only of authorising the making of regulations and on 9th April 2001 for all other purposes.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-269b80a15b6876b941cbb83a9cb3fc32]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^key-0163b31025cc2216ac3dd97dbbf535ad]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/108/regulation/2) revoked (coming into operation in accordance with reg. 1(1)(d) of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+
+[^key-b1d0e9ca540ec85d66e81b65a3858e9f]: Commencement: Reg. 3 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00008]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending regulations are [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99), [S.R. 1987 No.153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1995 Nos. 150](https://www.legislation.gov.uk/nisr/1995/150) and [479](https://www.legislation.gov.uk/nisr/1995/479), [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385)
+
+[^f00009]: Footnote: The definition of “benefit” was inserted by regulation 2(2)(*b*) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00010]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 6(2) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^f00011]: Footnote: Section 20(1)(*ea*) is inserted by paragraph 2(2)(*b*) of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00012]: Footnote: The definition of “relevant past year” was substituted by regulation 2(2) of [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326)
+
+[^f00013]: Footnote: Regulation 3(1) was substituted by regulation 2(3) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00014]: Footnote: Regulation 4(1) was amended by regulation 2(5)(*a*) of [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326)
+
+[^f00015]: Footnote: Regulation 7A(1) was inserted by regulation 19 of [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99) and paragraph (1) was amended by regulation 6(*a*) of [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153) and regulation 2(5)(*c*) of [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326)
+
+[^f00016]: Footnote: Regulation 7C was inserted by regulation 2 of [S.R. 1995 No. 479](https://www.legislation.gov.uk/nisr/1995/479) and amended by regulation 2(1) of, and Part I of Schedule 2 to, [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385)
+
+[^f00017]: Footnote: Regulation 8B was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00018]: Footnote: Article 4(1)(*b*) was modified by regulations 159 and 166 of [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198) and is amended by paragraph 4 of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00019]: Footnote: The definition of “the Jobseeker’s Order” was inserted by regulation 2(2)(b) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^M_F_164467e5-e70e-4095-ff83-6e6bf630cdcd]: Textual amendment: Reg. 4 revoked (10.4.2006) by [The Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
+
+[^key-879c147046cd57fef9cb64189ffb4275]: Commencement: Reg. 5 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00021]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending regulations are [S.R. 1980 No. 144](https://www.legislation.gov.uk/nisr/1980/144), [S.R. 1984 No. 373](https://www.legislation.gov.uk/nisr/1984/373), [S.R. 1987 No. 129](https://www.legislation.gov.uk/nisr/1987/129), [S.R. 1988 No. 138](https://www.legislation.gov.uk/nisr/1988/138), [S.R. 1989 No. 103](https://www.legislation.gov.uk/nisr/1989/103) and [S.R. 1992 No. 521](https://www.legislation.gov.uk/nisr/1992/521)
+
+[^f00022]: Footnote: Regulation 4B was inserted by regulation 2 of [S.R. 1980 No. 144](https://www.legislation.gov.uk/nisr/1980/144) and amended by [S.R. 1984 No. 373](https://www.legislation.gov.uk/nisr/1984/373), [S.R. 1987 No. 129](https://www.legislation.gov.uk/nisr/1987/129), [S.R. 1988 No. 138](https://www.legislation.gov.uk/nisr/1988/138) and [S.R. 1989 No. 103](https://www.legislation.gov.uk/nisr/1989/103)
+
+[^f00023]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 2(2) of [S.R. 1992 No. 521](https://www.legislation.gov.uk/nisr/1992/521)
+
+[^f00024]: Footnote: Section 80 was amended by Article 4(3) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)), Schedule 3 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I.15)](https://www.legislation.gov.uk/nisi/1995/2705)) and is amended by paragraph 10 of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and Article 8 of [S.R. 2001 No. 41](https://www.legislation.gov.uk/nisr/2001/41)
+
+[^f00025]: Footnote: Section 90 is amended by paragraph 25 of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00026]: Footnote: [S.R. 1979 No. 5](https://www.legislation.gov.uk/nisr/1979/5); regulation 7 was substituted by regulation 3 of [S.R. 1980 No. 261](https://www.legislation.gov.uk/nisr/1980/261) and amended by regulation 2 of [S.R. 1982 No. 114](https://www.legislation.gov.uk/nisr/1982/114), regulation 4 of [S.R. 1987 No. 130](https://www.legislation.gov.uk/nisr/1987/130) and regulation 4 of [S.R. 1988 No. 273](https://www.legislation.gov.uk/nisr/1988/273); regulations 9 and 9A were substituted by regulation 2 of [S.R. 2000 No. 361](https://www.legislation.gov.uk/nisr/2000/361) and regulation 9C was inserted by regulation 3 of [S.R. 1989 No. 102](https://www.legislation.gov.uk/nisr/1989/102)
+
+[^key-a968adc00dbab972b3a0e05e8cd11a85]: Commencement: Reg. 6 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00027]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending regulations are [S.R. 1981 No. 278](https://www.legislation.gov.uk/nisr/1981/278), [S.R. 1988 No. 77](https://www.legislation.gov.uk/nisr/1988/77), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1990 No. 123](https://www.legislation.gov.uk/nisr/1990/123) and [S.R. 1992 Nos. 330](https://www.legislation.gov.uk/nisr/1992/330) and [453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^f00028]: Footnote: The definition of “the Contributions Regulations” was substituted by regulation 3(2) of [S.R. 1981 No. 278](https://www.legislation.gov.uk/nisr/1981/278)
+
+[^f00029]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 3(2) of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^f00030]: Footnote: Paragraph (1) was amended by regulation 2 of [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330)
+
+[^f00031]: Footnote: Paragraph (2A) was inserted by regulation 2 of [S.R. 1988 No. 77](https://www.legislation.gov.uk/nisr/1988/77)
+
+[^f00032]: Footnote: Paragraph 5 was amended by paragraph 38(3) of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)), Articles 126 and 131(5) of, and paragraph 4 of Schedule 2 to, the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)), paragraph 12(3) of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and section 36 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00033]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); regulation 6 was amended by regulation 2(3) of [S.R. 1990 No. 452](https://www.legislation.gov.uk/nisr/1990/452)
+
+[^f00034]: Footnote: Regulation 5(3)(*d*) was amended by regulation 6(3)(*a*)(iii) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
+
+[^f00035]: Footnote: Regulation 5A was inserted by regulation 2(3) of [S.R. 1990 No. 123](https://www.legislation.gov.uk/nisr/1990/123)
+
+[^key-7337a515fc8c791440f3af25108dbf3d]: Commencement: Reg. 7 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00036]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and [S.R. 1992 No. 557](https://www.legislation.gov.uk/nisr/1992/557)
+
+[^f00037]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 2 of [S.R. 1992 No. 557](https://www.legislation.gov.uk/nisr/1992/557)
+
+[^f00038]: Footnote: Paragraph 3 was amended by regulation 12(3)(*a*) of [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36)
+
+[^key-176eb19a92fff064d5e10a3e7823b852]: Commencement: Reg. 8 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00039]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243), relevant amending regulations are [S.R. 1990 No. 452](https://www.legislation.gov.uk/nisr/1990/452)
+
+[^f00040]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00041]: Footnote: Regulation 6 was amended by regulation 2 of [S.R. 1990 No. 452](https://www.legislation.gov.uk/nisr/1990/452)
+
+[^f00042]: Footnote: Section 48BB is inserted by Article 53 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and amended by sections 31 and 35 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00043]: Footnote: Section 113 was amended by paragraph 48 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^f00044]: Footnote: Section 71 was amended by paragraph 32 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
+
+[^key-7ca4b055b68e7700a90fdd688609711c]: Commencement: Reg. 9 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00045]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57)
+
+[^f00046]: Footnote: Regulation 2(2) was amended by regulation 11 of, and Schedule 2 to, [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), regulation 7(3) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 16 of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 2(*a*) of [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57)
+
+[^key-8bd6e808b4407917625224bd65cda816]: Commencement: Reg. 10 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^M_F_9834d3dc-b156-408d-98af-6c06e3fbbc9f]: Textual amendment: Reg. 10 revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00047]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending rules are [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), [S.R. 1999 Nos. 365](https://www.legislation.gov.uk/nisr/1999/365) and [472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00048]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 3(2) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
+
+[^f00049]: Footnote: The definition of “long term benefits” was amended by regulation 2(2) of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and regulation 2 of [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365)
+
+[^key-1dc7a30cbebfc387ba05634cb61d4050]: Textual amendment: [Reg. 10(3)(b)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/3/b) revoked (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2017/218/regulation/18)
+
+[^key-197cdcdb6c801b64ecb9c705fbf34ced]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/4) revoked (11.4.2005) by [The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/139)](https://www.legislation.gov.uk/nisr/2005/139), [regs. 1](https://www.legislation.gov.uk/nisr/2005/139/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/139/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/139/schedule)
+
+[^f00051]: Footnote: The Table in Part I of Schedule 1 was substituted by Schedule 1 to [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456) and amended by regulation 2(19) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^key-36dc731155b822c20d6674e43145c266]: Textual amendment: [Reg. 10(6)(b)](https://www.legislation.gov.uk/nisr/2001/108/regulation/10/6/b) revoked (6.4.2009) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/107)](https://www.legislation.gov.uk/nisr/2009/107), [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/107/schedule)
+
+[^f00052]: Footnote: The heading to Schedule 7 was amended by Article 9(12)(*a*) of [S.R. 1999 No. 472(C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and regulation 3(5)(*a*) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00053]: Footnote: Paragraph 4 was amended by regulation 10(*b*) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), regulation 2(15)(*c*) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456) and regulation 2(24)(*b*) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^key-53be3c7f29c6438a113bc9f0633030dd]: Commencement: Reg. 11 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^M_F_6b3ab562-94c0-4b1e-ff30-6e5420f6ff4e]: Textual amendment: Reg. 11 revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00054]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^f00055]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 21(2)(*a*) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^f00056]: Footnote: Part II of Schedule 4 is substituted by Article 51(2) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and section 36 is substituted by paragraph (1) of that Article
+
+[^f00057]: Footnote: Regulation 8(1) was amended by regulation 14(4) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
+
+[^key-a85e51e40b3e95d00f2350605ca98ceb]: Commencement: Reg. 12 in operation at 9.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/108/regulation/1)
+
+[^f00058]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00059]: Footnote: Schedule 2A was inserted by Schedule 1 to [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)

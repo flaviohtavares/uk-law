@@ -1,0 +1,59 @@
+---
+title: Justice Act (Northern Ireland) 2015, section 17
+act: Justice Act (Northern Ireland) 2015
+section: '17'
+status: not-yet-in-force
+text_date: '2023-11-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/9/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Justice Act (Northern Ireland) 2015, section 17
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 17. Prosecutorial fine: notice of offer
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Where a Public Prosecutor receives a report that a summary offence has been committed and that the alleged offender was at the time of the offence aged over 18, the Public Prosecutor may issue a notice to that person offering that person the opportunity of receiving a prosecutorial fine notice in respect of that offence.
+
+(2) Where a Public Prosecutor receives a report that—
+
+- (a) a number of summary offences have been committed by an alleged offender,
+- (b) the offences all arise out of the same circumstances, and
+- (c) the alleged offender was at the time of the offences aged over 18,
+
+the Public Prosecutor may issue a notice to that person offering that person the opportunity of receiving a prosecutorial fine notice in respect of all the offences.
+
+(3) In subsections (1) and (2) “**summary offence**” means an offence which is punishable on summary conviction, whether or not it is also triable on indictment.
+
+(4) A notice under subsection (1) must—
+
+- (a) state the alleged offence;
+- (b) give such particulars of the circumstances alleged to constitute the offence as are necessary to provide reasonable information about it;
+- (c) state the amount of the prosecutorial fine for that offence and each of the amounts referred to in paragraphs (a) and (b) of section 19(1) or (in the case of an offence falling within section 19(2)) each of the amounts referred to in paragraphs (a), (b) and (c) of section 19(2);
+- (d) indicate that the alleged offender may accept or decline the offer by giving notice to the Public Prosecutor within 21 days of the date on which the notice was issued;
+- (e) indicate that if the offer is declined, or no notice is served under paragraph (d) within the period mentioned in that paragraph, the alleged offender is liable to be prosecuted for the offence;
+- (f) indicate that if the offer is accepted—
+  - (i) the alleged offender will be discharged from liability to be prosecuted for the offence; and
+  - (ii) a prosecutorial fine notice will be issued to the offender under section 18; and
+- (g) state the effect of section 20(1) and (2).
+
+(5) A notice under subsection (2) must—
+
+- (a) state the alleged offences;
+- (b) give such particulars of the circumstances alleged to constitute the offences as are necessary to provide reasonable information about them;
+- (c) state the amount of the prosecutorial fine for all the offences and each of the amounts referred to in paragraphs (a) and (b) of section 19(3) or (in a case where section 19(4) applies) each of the amounts referred to in paragraphs (a), (b) and (c) of section 19(4);
+- (d) indicate that the alleged offender may accept or decline the offer by giving notice to the Public Prosecutor within 21 days of the date on which the notice was issued;
+- (e) indicate that if the offer is declined, or no notice is served under paragraph (d) within the period mentioned in that paragraph, the alleged offender is liable to be prosecuted for the offences;
+- (f) indicate that if the offer is accepted—
+  - (i) the alleged offender will be discharged from liability to be prosecuted for the offences; and
+  - (ii) a prosecutorial fine notice will be issued to the offender under section 18; and
+- (g) state the effect of section 20(3) and (4).

@@ -1,0 +1,326 @@
+---
+title: The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006
+id: nisr/2006/141
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-03-16'
+text_date: '2016-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/141
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/141/pdfs/nisr_20060141_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/141/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006
+
+> Text as at 2016-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 141
+
+PENSIONS
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006
+
+Made
+
+16th March 2006
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 97C(2), 109(1)(d) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 35(3) and (4), 40(2), 47(5) and (6), 49(1), (2), (4) and (9)(b), 85(1), 86(1), 89(5) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and Articles 236(1) and 237(1) of the Pensions (Northern Ireland) Order 2005[^f00004].
+
+## 1. Citation and commencement[^key-1381f2f2fcc50255cd14aa2113817c87]
+
+These Regulations may be cited as the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 and shall come into operation—
+
+- (a) for the purposes of regulation 3, on 6th April 2006 immediately after the coming into operation of the Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations (Northern Ireland) 2005[^f00005], and
+- (b) for all other purposes on 6th April 2006.
+
+## 2. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^key-0a3048b5f194e981d99a4e5dddc2ec8b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-92faf44b7a3b07ec9afe9ec233773581]
+
+(1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00009] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) after the definition of “business days” there shall be inserted the following definitions—
+
+  > - “insurance policy” means a contract of a kind referred to in Article 2 of the Life Directive, but excluding a contract of a kind referred to in Article 2(2)(c) or (d) of that Directive;
+  > - “the Life Directive” means Directive [2002/83/EC](https://www.legislation.gov.uk/european/directive/2002/0083) of the European Parliament and of the Council of 5th November 2002 concerning life assurance[^f00010];
+
+  ;
+- (b) after the definition of “money purchase scheme”[^f00011] there shall be inserted the following definition—
+
+  > - “qualifying insurance policy” means an insurance policy issued by an insurer which is—
+  >   - (a) a person who has permission under Part IV of the 2000 Act[^f00012] to effect or carry out contracts of long term insurance, or
+  >   - (b) an undertaking established in an EEA State (as defined in paragraph 8 of Schedule 3 to the 2000 Act) other than the United Kingdom, which is authorised by the competent authorities of that State to carry on the business of direct insurance for the class of assurance as listed in Annex I to the Life Directive in which the insurance policy falls;
+
+  ;
+- (c) after the definition of “scheme year” there shall be inserted the following definition—
+
+  > - “specified qualifying insurance policy” means a qualifying insurance policy which is a contract falling within paragraph I or III of Part II of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00013] (contracts of insurance);
+
+  ;
+- (d) for the definition of “wholly insured scheme”[^f00014] there shall be substituted the following definition—
+
+  > - “wholly insured scheme” means a trust scheme, other than a stakeholder pension scheme within the meaning of Article 3 of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00015], which has no investments other than specified qualifying insurance policies.
+
+  , and
+- (e) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) For the purposes of the definition of “wholly insured scheme”, “investments” shall not include—
+  >
+  > - (a) cash held on deposit by the trustees or managers pending payment to the insurer or to members of the scheme;
+  > - (b) cash held on deposit by trustees or managers to meet the accrued liabilities or administrative expenses, or
+  > - (c) any investments arising from voluntary contributions.
+
+  .
+
+(3) In regulation 21 (circumstances where notice of non-payment of any amount payable to a scheme need not be given) for paragraph (4)[^f00016] there shall be substituted the following paragraph—
+
+> (4) Where, under Article 49(9)(b) (other responsibilities of trustees, employers, etc.), there is a requirement on the trustees or managers to give notice within a reasonable time of a failure to pay within a prescribed time an amount corresponding to any contribution payable on behalf of an active member which has been deducted from the member’s earnings, the trustees or managers shall not be required to give notice of a failure to pay such amount by the due date for the purposes of paragraph (1) of Article 86 (schedules of payments to money purchase schemes: supplementary), in a case to which that paragraph would otherwise apply.
+
+.
+
+## 4. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-1566c3ee0d4f6d379cd9317379da122e]
+
+(1) The Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00017] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1 (citation, commencement and interpretation) after paragraph (3) there shall be added the following paragraphs—
+
+> (4) Notwithstanding section 24(1) of the Interpretation Act (Northern Ireland) 1954[^f00018], a notice under regulation 2(4) may be sent by ordinary post to a member.
+>
+> (5) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954 where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+.
+
+(3) In regulation 2 (commutation of a pension under an occupational pension scheme)—
+
+- (a) for paragraph (1A)[^f00019] there shall be substituted the following paragraph—
+
+  > (1A) There are also prescribed for the purposes of Article 89(5)(c)(iii) the circumstances where—
+  >
+  > - (a) the rights of the member consist only of rights derived from equivalent pension benefits under Part III of the National Insurance Act (Northern Ireland)1966[^f00020], and
+  > - (b) either—
+  >   - (i) the member has consented to the commutation, or
+  >   - (ii) he has not consented but the conditions in paragraph (4) are satisfied.
+
+  , and
+- (b) after paragraph (3) there shall be added the following paragraph—
+
+  > (4) For the purposes of paragraph (1A)(b)(ii), the conditions are that—
+  >
+  > - (a) the trustees or managers of the scheme have sent to the member’s last known address written notice of their intention to commute his rights from equivalent pension benefits under Part III of the National Insurance Act (Northern Ireland) 1966, and
+  > - (b) no response has been received from the member before the end of the period of two months beginning with the date on which the notice was sent.
+
+  .
+
+## 5. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-10ef61068a1c3489c499cab92f5ab8b9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Personal Pension Schemes (Payments by Employers) Regulations[^key-adb73931a242926f85e46462cc597c3a]
+
+After regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000[^f00022] (prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee) there shall be inserted the following regulation—
+
+> **5A. The issue of payment statements to an employee**
+>
+> (1) Where section 107A[^f00023] (monitoring of employers' payments to personal pension schemes) applies the trustees or managers of the scheme must before the end of the interval specified in paragraph (4) or (5), as the case may be, send the employee a statement setting out the amounts and dates of the payments made under the direct payment arrangements during the period specified in paragraph (2) or (3), as the case may be.
+>
+> (2) Where the scheme is not a stakeholder pension scheme the period is, in the case of—
+>
+> - (a) the first statement referred to in paragraph (1), the period of not more than 12 months beginning with the date the employee joined the scheme and ending with the date of the last payment which appears on that statement, and
+> - (b) the second or any subsequent statement (“the relevant statement”), a period of not more than 12 months beginning with the day following the date of the last payment which appeared on the statement immediately preceding the relevant statement.
+>
+> (3) Where the scheme is a stakeholder pension scheme the period is the period which is the statement year in relation to that scheme.
+>
+> (4) Where the scheme is not a stakeholder pension scheme the interval is, in the case of—
+>
+> - (a) the first statement referred to in paragraph (1), the period of 12 months beginning with the date the employee joined the scheme;
+> - (b) the second statement, the period of 12 months beginning with the next anniversary of the date the employee joined the scheme following the date the trustees or managers sent the employee the first statement, and
+> - (c) the third or any subsequent statement, the period of 12 months beginning with the anniversary of the date the employee joined the scheme.
+>
+> (5) Where the scheme is a stakeholder pension scheme the interval is three months after the end of the statement year to which that statement relates.
+
+.
+
+## 7. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-559b47dcf01747777fa25813151de2bb]
+
+(1) The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00024] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation) in the definition of “specified qualifying insurance policy” for “paragraph III” there shall be substituted “paragraphs I or III”.
+
+(3) In regulation 13 (investments to which restrictions do not apply)—
+
+- (a) in paragraph (6)—
+  - (i) in sub-paragraph (b) “or” shall be omitted, and
+  - (ii) after sub-paragraph (c) there shall be added the following sub-paragraphs—
+
+    > - (d) Article 59(2)[^f00025] (determination of contributions: supplementary), or
+    > - (e) Article 60(5) (serious underprovision),
+
+    , and
+- (b)[^key-bbf97498c0313d9acdedda3782110268] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-43162e39be1b5b2b2c8c696805664a89]
+
+(1) The Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00026] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 3 (application) for paragraph (2) there shall be substituted the following paragraph—
+
+> (2) For the purposes of these Regulations “relevant employer” means—
+>
+> - (a) an employer employing in Northern Ireland at least the number of employees specified in paragraph (2A), and
+> - (b) in the case of—
+>   - (i) an occupational pension scheme, an employer in relation to the scheme other than one who is excluded by regulation 4, and
+>   - (ii) a personal pension scheme, an employer in relation to the scheme other than one who is excluded by regulation 5.
+>
+> (2A) The number of employees referred to in paragraph (2)(a) is—
+>
+> - (a) 150 with effect from 6th April 2006 to 5th April 2007;
+> - (b) 100 with effect from 6th April 2007 to 5th April 2008, and
+> - (c) 50 from 6th April 2008 onwards.
+>
+> (2B) For the purposes of paragraph (2)(a)—
+>
+> - (a) the number of people employed by an employer is to be determined using the same method of calculation as is set out in regulation 4 of the Information and Consultation Regulations[^f00027] (calculation of number of employees), but
+> - (b) references in that regulation to the previous 12 months are to be taken as references to the period of 12 months ending with the date of the proposal to make a listed change to which regulation 6 of these Regulations applies.
+
+.
+
+(3) In regulation 4 (excluded employers: occupational pension schemes)—
+
+- (a) after paragraph (1)(d) there shall be inserted “and”, and
+- (b) after paragraph (1)(e) the word “and”, paragraphs (1)(f), (2) and (3) shall be omitted.
+
+(4) For regulation 5 (excluded employers: personal pension schemes) there shall be substituted the following regulation—
+
+> **5. Excluded employers: personal pension schemes**
+>
+> This regulation excludes any employer in relation to a personal pension scheme where no employer contributions fall to be paid towards the scheme.
+
+.
+
+Sealed with the Official Seal of the Department for Social Development on 16th March 2006.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to—
+
+- the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997 (“the Audited Accounts Regulations”);
+- the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (“the Scheme Administration Regulations”);
+- the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997 (“the Assignment Regulations”);
+- the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000 (“the Pension Credit Benefit Regulations”);
+- the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000 (“the Payments by Employers Regulations”);
+- the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 (“the Investment Regulations”);
+- the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 (“the Consultation by Employers Regulations”).
+
+Regulation 1 provides for citation and commencement.
+
+Regulation 2 inserts a definition and updates references in the Audited Accounts Regulations.
+
+Regulation 3 inserts definitions and substitutes a definition in, and makes an amendment to, the Scheme Administration Regulations.
+
+Regulation 4 makes minor amendments to the interpretation of the Assignment Regulations and clarifies the procedure by which the trustees of a scheme may discharge rights derived from equivalent pension benefits under Part III of the National Insurance Act (Northern Ireland) 1966.
+
+Regulation 5 corrects an error in the Pension Credit Benefit Regulations.
+
+Regulation 6 inserts regulation 5A into the Payments by Employers Regulations to preserve the requirement for trustees or managers of a personal pension scheme or a stakeholder pension scheme to send an employee a statement of payments made where direct payment arrangements exist between the employee and his employer. This amendment is a consequence of the coming into operation of Article 245 of the Pensions (Northern Ireland) Order 2005 which amends section 107A of the Pension Schemes (Northern Ireland) Act 1993.
+
+Regulation 7 corrects errors in the Investment Regulations and extends the provisions under which sums which fall or fell to be treated as debts due from the employers to the trustees or managers for the purposes of regulation 13 of those Regulations.
+
+Regulation 8 amends the Consultation by Employers Regulations so that in relation to their application to small employers they are consistent with the Information and Consultation of Employees Regulations (Northern Ireland) 2005 ([S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47)).
+
+The Pensions (2005 Order) (Commencement No. 5 and Appointed Day) Order (Northern Ireland) 2005 ([S.R. 2005 No. 321 (C. 24)](https://www.legislation.gov.uk/nisr/2005/321)) provides for the coming into operation of Article 246 of the Pensions (Northern Ireland) Order 2005 (“the 2005 Order”), which substituted Articles 49(9)(b) and 86(1) of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) two of the enabling provisions under which these Regulations are made, for the purposes only of authorising the making of regulations, on 1st July 2005 and for all other purposes on 6th April 2006 and the Pensions (2005 Order) (Commencement No. 7) Order (Northern Ireland) 2005 ([S.R. 2005 No. 543 (C. 37)](https://www.legislation.gov.uk/nisr/2005/543)) provides for the coming into operation of some other enabling provisions under which these Regulations are made, as follows—
+
+- Article 221 of the 2005 Order, which substituted Article 35 of the 1995 Order, for the purposes only of authorising the making of regulations, on 6th December 2005 and for all other purposes on 30th December 2005;
+- Articles 236(1) and 237(1) of the 2005 Order, for the purpose only of authorising the making of regulations, on 1st January 2006 and for all other purposes on 6th April 2006.
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 117(1) of the 1995 Order and Article 289(1) of the 2005 Order does not apply by virtue of paragraph (2)(e) of each of those Articles.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 97C was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
+
+[^f00002]: Footnote: [S.I.1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); Article 35 was substituted by Article 221 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); Article 40(2) was repealed in part by Article 152(2) of the Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 ([S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)); Article 49(1) was amended by Article 154(2) of the Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 – see also Article 154(5) of that Order; Article 49(9)(b) was substituted by Article 246(1) of the Pensions (Northern Ireland) Order 2005; Article 86(1) was substituted by Article 246(2) of the Pensions (Northern Ireland) Order 2005; Article 89(5) was amended by paragraph 46(4) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, Article 243 of the Pensions (Northern Ireland) Order 2005 and [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434)
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); Article 236 was modified by regulation 2 of [S.R. 2006 No. 4](https://www.legislation.gov.uk/nisr/2006/4)
+
+[^key-1381f2f2fcc50255cd14aa2113817c87]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b)
+
+[^f00005]: Footnote: [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421)
+
+[^key-0a3048b5f194e981d99a4e5dddc2ec8b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/141/regulation/2) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/d)
+
+[^key-92faf44b7a3b07ec9afe9ec233773581]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/a)
+
+[^f00009]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94): relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 2000 No. 69](https://www.legislation.gov.uk/nisr/2000/69), [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256) and [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421)
+
+[^f00010]: Footnote: O.J. No. L345, 19.12.2002, p.1
+
+[^f00011]: Footnote: The definition of “money purchase scheme” was inserted by paragraph 16(2)(a) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
+
+[^f00012]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
+
+[^f00013]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)
+
+[^f00014]: Footnote: The definition of “wholly insured scheme” was substituted by regulation 3(2) of [S.R. 2005 No.421](https://www.legislation.gov.uk/nisr/2005/421)
+
+[^f00015]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147); Article 3 was amended by Article 262(2) to (4) of the Pensions (Northern Ireland) Order 2005
+
+[^f00016]: Footnote: Paragraph 4 was added by regulation 2(4) of [S.R. 2000 No. 69](https://www.legislation.gov.uk/nisr/2000/69)
+
+[^key-1566c3ee0d4f6d379cd9317379da122e]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b)
+
+[^f00017]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); relevant amending regulations are [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109) and [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171)
+
+[^f00018]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00019]: Footnote: Paragraph (1A) was inserted by regulation 8 of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
+
+[^f00020]: Footnote: [1966 c. 6](https://www.legislation.gov.uk/apni/1966/6)
+
+[^key-10ef61068a1c3489c499cab92f5ab8b9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/141/regulation/5) revoked (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [21(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/21/a)
+
+[^key-adb73931a242926f85e46462cc597c3a]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b)
+
+[^f00022]: Footnote: [S.R. 2000 No. 349](https://www.legislation.gov.uk/nisr/2000/349); relevant amending Regulations are [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421)
+
+[^f00023]: Footnote: Section 107A was inserted by Article 10 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and is amended by Article 245 of, and paragraph 12 of Schedule 10 to, the Pensions (Northern Ireland) Order 2005
+
+[^key-559b47dcf01747777fa25813151de2bb]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b)
+
+[^f00024]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569)
+
+[^f00025]: Footnote: Articles 59 and 60 were repealed by Schedule 11 of the Pensions (Northern Ireland) Order 2005, with transitional savings set out in paragraph 9 of Schedule 4 to [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568)
+
+[^key-bbf97498c0313d9acdedda3782110268]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/7/3/b) revoked (23.9.2010) by [The Occupational Pension Schemes (Investment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/287)](https://www.legislation.gov.uk/nisr/2010/287), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/1/b), [3(a)](https://www.legislation.gov.uk/nisr/2010/287/regulation/3/a)
+
+[^key-43162e39be1b5b2b2c8c696805664a89]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b)
+
+[^f00026]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48)
+
+[^f00027]: Footnote: [S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47)

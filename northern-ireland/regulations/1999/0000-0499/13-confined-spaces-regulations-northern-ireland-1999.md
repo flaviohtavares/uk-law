@@ -1,0 +1,342 @@
+---
+title: Confined Spaces Regulations (Northern Ireland) 1999
+id: nisr/1999/13
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1999-01-14'
+text_date: '1999-01-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/13
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/13/data.pdf
+pending_changes: 25
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Confined Spaces Regulations (Northern Ireland) 1999
+
+> **Warning: changes not yet applied to this text (25).** Text as at 1999-01-14. See https://www.legislation.gov.uk/changes/affected/nisr/1999/13
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1999 No. 13
+
+HEALTH AND SAFETY
+
+Confined Spaces Regulations (Northern Ireland) 1999
+
+Made
+
+14th January 1999
+
+Coming into operation
+
+1st June 1999
+
+The Department of Economic Development, being the Department concerned[^f00001], in exercise of the powers conferred on it by Articles 17(1), (2), (3), (5) and (6) and 55(2) of, and paragraphs 1(1) and (2), 8, 10 and 17(a) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00002] and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-93a2c650aadf9646265713c72f4e32c0]
+
+(1) These Regulations may be cited as the Confined Spaces Regulations (Northern Ireland) 1999 and shall come into operation on 1st June 1999.
+
+(2) In these Regulations—
+
+- “confined space” means any place, including any chamber, tank, vat, silo, pit, trench, pipe, sewer, flue, well or other similar space in which, by virtue of its enclosed nature, there arises a reasonably foreseeable specified risk;
+- “diving operation” has the same meaning assigned thereto by regulation 2(1) of the Diving Operations at Work Regulations (Northern Ireland) 1994[^f00003];
+- “free flowing solid” means any substance consisting of solid particles and which is of, or is capable of being in, a flowing or running consistency, and includes flour, grain, sugar, sand or other similar material;
+- “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00004];
+- “specified risk” means a risk of—
+  - (a) serious injury to any person at work arising from a fire or explosion;
+  - (b) without prejudice to paragraph (a)—
+    - (i) the loss of consciousness of any person at work arising from an increase in body temperature;
+    - (ii) the loss of consciousness or asphyxiation of any person at work arising from gas, fume, vapour or the lack of oxygen;
+  - (c) the drowning of any person at work arising from an increase in the level of a liquid; or
+  - (d) the asphyxiation of any person at work arising from a free flowing solid or the inability to reach a respirable environment due to entrapment by a free flowing solid;
+- “system of work” includes the provision of equipment which is in good working order.
+- “territorial waters” means United Kingdom territorial waters adjacent to Northern Ireland and “within territorial waters” includes on, over and under them.
+
+## 2. Disapplication of Regulations[^key-8dd64c997493cf718c43e53ef46e9a89]
+
+These Regulations shall not apply to or in relation to—
+
+- (a) the master or crew of a sea-going ship or to the employer of such persons in respect of the normal ship-board activities carried out solely by a ship’s crew under the direction of the master;
+- (b) any place below ground in a mine; or
+- (c) any diving operation to and in relation to which the Diving Operations at Work Regulations (Northern Ireland) 1994 apply by virtue of regulation 3 of those Regulations.
+
+## 3. Duties[^key-f5c4739b0aa9eec0fc0a12cf7187c152]
+
+(1) Every employer shall—
+
+- (a) ensure compliance with the provisions of these Regulations in respect of any work carried out by his employees; and
+- (b) ensure compliance, so far as is reasonably practicable, with the provisions of these Regulations in respect of any work carried out by persons other than his employees insofar as the provisions relate to matters which are within his control.
+
+(2) Every self-employed person shall—
+
+- (a) comply with the provisions of these Regulations in respect of his own work; and
+- (b) ensure compliance, so far as is reasonably practicable, with the provisions of these Regulations in respect of any work carried out by other persons insofar as the provisions relate to matters which are within his control.
+
+## 4. Work in confined spaces[^key-fb69580594d62a8b9d20cc0a6e03de79]
+
+(1) A person at work shall not enter a confined space to carry out work for any purpose unless it is not reasonably practicable to achieve that purpose without such entry.
+
+(2) Without prejudice to paragraph (1), so far as is reasonably practicable, a person at work shall not enter or carry out any work in, or (other than as a result of an emergency) leave, a confined space otherwise than in accordance with a system of work which, in relation to any relevant specified risks, renders that work safe and without risks to health.
+
+## 5. Emergency arrangements[^key-e3fdc3e3a75dd485319893a34249d67d]
+
+(1) Without prejudice to regulation 4, a person at work shall not enter or carry out work in a confined space unless there have been prepared in respect of that confined space suitable and sufficient arrangements for the rescue of persons in the event of an emergency, whether or not arising out of a specified risk.
+
+(2) Without prejudice to the generality of paragraph (1), the arrangements referred to in that paragraph shall not be suitable and sufficient unless—
+
+- (a) they reduce, so far as is reasonably practicable, the risks to the health and safety of any person required to put the arrangements for rescue into operation; and
+- (b) they require, where the need for resuscitation of any person is a likely consequence of a relevant specified risk, the provision and maintenance of such equipment as is necessary to enable resuscitation procedures to be carried out.
+
+(3) Whenever there arises any circumstance to which the arrangements referred to in paragraph (1) relate, those arrangements, or the relevant part of those arrangements, shall immediately be put into operation.
+
+## 6. Exemption certificates[^key-afef123e3719735ef5d6586bce0be757]
+
+(1) Subject to paragraph (2), the Department may, by a certificate in writing, exempt—
+
+- (a) any person or class of persons; or
+- (b) any type or class of confined space,
+
+from the application of any of the requirements or prohibitions imposed by these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the Department by a further certificate in writing.
+
+(2) The Department shall not grant any such exemption unless, having regard to the circumstances of the case, and in particular to—
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any statutory provisions which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+## 7. Defence in proceedings[^key-9ecb908fc148bdd3b64fcf11dced679d]
+
+(1) In any proceedings for an offence for a contravention of regulation 5(3) it shall be a defence for the person charged to prove—
+
+- (a) that the contravention was due to the act or default of another person not being one of his employees (hereinafter called “the other person”); and
+- (b) that he took all reasonable precautions and exercised all due diligence to avoid the contravention.
+
+(2) The person charged shall not, without leave of the court, be entitled to rely on the defence referred to in paragraph (1) unless, within a period ending seven clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of the other person as was then in his possession.
+
+(3) Where a contravention of the provision referred to in paragraph (1) by any person is due to the act or default of some other person, that other person shall be guilty of the offence which would, but for any defence under this regulation available to the first-mentioned person, be constituted by the act or default.
+
+## 8. Application to territorial waters[^key-1f1bc0c8d15e90af498135d978e78f26]
+
+Subject to regulation 2, these Regulations shall apply within territorial waters only to and in relation to the activities to which paragraph 2 of Schedule 1 applies.
+
+## 9. Repeal and revocations[^key-b65720a1a644ae94e9ddd7ac2ff47410]
+
+(1) Section 31 of the Factories Act (Northern Ireland) 1965[^f00005] is hereby repealed.
+
+(2) The instruments set out in column 1 of Schedule 2 are revoked to the extent shown in column 3 of that Schedule.
+
+Sealed with the Official Seal of the Department of Economic Development on
+
+R. G. F. Fry
+
+Assistant Secretary
+
+14th January 1999.
+
+## SCHEDULE 1 — Premises and activities within territorial waters
+
+Regulation 8
+
+### 1. Interpretation[^key-5107df917063727668e2a3762f2ebea3]
+
+(1) In this Schedule—
+
+- “offshore installation” shall be construed in accordance with paragraph 4(2) and (3);
+- “stand-by vessel” means a vessel which is ready to give assistance in the event of an emergency on or near an offshore installation;
+- “vessel” includes a hovercraft and any floating structure which is capable of being staffed.
+
+(2) For the purposes of this Schedule, any structures and devices on top of a well shall be treated as forming part of the well.
+
+(3) For the purposes of this Schedule, a person shall be deemed to be engaged in diving operations throughout any period from the time when he commences to prepare for diving until the time when—
+
+- (a) he is no longer subjected to raised pressure;
+- (b) he has normal inert gas partial pressure in his tissues; and
+- (c) if he entered the water, he has left it,
+
+and diving operations include the activity of any person in connection with the health and safety of a person who is, or is deemed to be, engaged in diving operations.
+
+(4) Any reference in this Schedule to premises and activities (howsoever described) shall include a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity but does not include a reference to an aircraft which is airborne.
+
+### 2. Specified activities[^key-b0308baecafaea89e10cde7fa5077dbf]
+
+Subject to paragraphs 3 to 7 this paragraph applies to—
+
+- (a) the construction, reconstruction, alteration, repair, maintenance, cleaning, demolition and dismantling of any building or other structure not being a vessel, or any preparation for any such activity;
+- (b) the loading, unloading, fuelling or provisioning of a vessel;
+- (c) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of a vessel except when carried out by the master or any officer or member of the crew of that vessel; and
+- (d) the maintaining on a station of a vessel which would be an offshore installation were it not a structure to which paragraph 4(3)(d) relates.
+
+### 3. Disapplication in respect of vessels registered outside the United Kingdom[^key-23a4deb8bbffa0904c6cc58a04d4e800]
+
+Paragraph 2 shall not apply to vessels which are registered outside the United Kingdom and are on passage through territorial waters.
+
+### 4. Disapplication in respect of offshore installations[^key-f46810de9ffe42e9e9da125dc6ff0948]
+
+(1) Paragraph 2 shall not apply to—
+
+- (a) any offshore installation and any activity on it;
+- (b) any activity, including diving operations, in connection with an offshore installation, or any activity which is immediately preparatory thereto, whether carried on from the installation itself, on or from a vessel or in any other manner, other than—
+  - (i) transporting, towing or navigating the installation; and
+  - (ii) any activity on or from a vessel being used as a stand-by vessel;
+- (c) diving operations involving the survey and preparation of the sea bed for an offshore installation.
+
+(2) Subject to sub-paragraph (3), in this Schedule “offshore installation” means a structure which is, or is to be, or has been, used while standing or stationed in water, or on the foreshore or other land intermittently covered with water—
+
+- (a) for the exploitation, or exploration with a view to exploitation, of mineral resources by means of a well;
+- (b) for the storage of gas in or under the shore or bed of any water or the recovery of gas so stored;
+- (c) for the conveyance of things by means of a pipe; or
+- (d) mainly for the provision of accommodation for persons who work on or from a structure falling within any of the provisions of this sub-paragraph,
+
+and which is not an excepted structure.
+
+(3) For the purposes of sub-paragraph (2), the excepted structures are—
+
+- (a) a structure which is connected with dry land by a permanent structure providing access at all times and for all purposes;
+- (b) a well;
+- (c) a structure which has ceased to be used for any of the purposes specified in sub-paragraph (2) and has since been used for a purpose not so specified;
+- (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (2); and
+- (e) any part of a pipeline.
+
+### 5. Disapplication in respect of wells[^key-c5b2c47751486285d7ad10b74cb7bf35]
+
+(1) Subject to sub-paragraph (2), paragraph 2 shall not apply to—
+
+- (a) a well and any activity in connection with it; and
+- (b) an activity which is immediately preparatory to any activity in head (a).
+
+(2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
+
+### 6. Disapplication in respect of pipelines[^key-f0f1c02ca6b7e2ddfd5cf2a6453a15f6]
+
+(1) Paragraph 2 shall not apply to—
+
+- (a) any pipeline;
+- (b) any pipeline works; or
+- (c) the following activities in connection with pipeline works—
+  - (i) the loading, unloading, fuelling or provisioning of a vessel;
+  - (ii) the loading, unloading, fuelling, repair and maintenance of an aircraft on a vessel,
+
+  being in either case a vessel which is engaged in pipeline works.
+
+(2) In this paragraph—
+
+- “pipeline” means a pipe or system of pipes for the conveyance of any thing, together with—
+  - (a) any apparatus for inducing or facilitating the flow of any thing through, or through a part of, the pipe or system;
+  - (b) any apparatus for treating or cooling any thing which is to flow through, or through a part of, the pipe or system;
+  - (c) valves, valve chambers and similar works which are annexed to, or incorporated in the course of, the pipe or system;
+  - (d) apparatus for supplying energy for the operation of any such apparatus or works as are mentioned in paragraphs (a) to (c);
+  - (e) apparatus for the transmission of information for the operation of the pipe or system;
+  - (f) apparatus for the cathodic protection of the pipe or system; and
+  - (g) a structure used or to be used solely for the support of a part of the pipe or system;
+- “pipeline works” means—
+  - (a) assembling or placing a pipeline or length of pipeline including the provision of internal or external protection for it;
+  - (b) inspecting, testing, maintaining, adjusting, repairing, altering or renewing a pipeline or length of pipeline;
+  - (c) changing the position of or dismantling or removing a pipeline or length of pipeline;
+  - (d) opening the bed of the sea for the purposes of the works mentioned in paragraphs (a) to (c), and tunnelling or boring for those purposes;
+  - (e) any activities incidental to the activities described in paragraphs (a) to (d);
+  - (f) diving operations in connection with any of the works mentioned in paragraphs (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
+
+### 7. Disapplication in respect of mines[^key-e973821b74da44404533a435e6043994]
+
+(1) Paragraph 2 shall not apply to the working of a mine, and work for the purpose of or in connection with the working of any part of a mine.
+
+(2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00006].
+
+## SCHEDULE 2 — Revocations[^key-b2c517169bc1773ed9e21da028b29af1]
+
+Regulation 9(2)
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th>Title of instrument</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Breathing Apparatus, Etc, (Report on Examination) Order (Northern Ireland) 1967</td><td><a href="https://www.legislation.gov.uk/nisro/1967/215">S.R. &amp; O. (N.I.) 1967 No. 215</a></td><td>The whole Order</td></tr>
+<tr><td>Shipbuilding and Ship-repairing Regulations (Northern Ireland) 1971</td><td><a href="https://www.legislation.gov.uk/nisro/1971/372">S.R. &amp; O. (N.I.) 1971 No. 372</a> as amended by <a href="https://www.legislation.gov.uk/nisr/1991/13">S.R. 1991 No. 13</a> and <a href="https://www.legislation.gov.uk/nisr/1993/20">S.R. 1993 No. 20</a></td><td>Regulations 47 to 51 and 53</td></tr>
+<tr><td>Shipbuilding (Reports on Breathing Apparatus Etc.) Order (Northern Ireland) 1975</td><td><a href="https://www.legislation.gov.uk/nisr/1975/261">S.R. 1975 No. 261</a></td><td>The whole Order</td></tr>
+<tr><td>Agriculture (Poisonous Substances) Act (Northern Ireland) 1954 (Repeals and Modifications) Regulations (Northern Ireland) 1979</td><td><a href="https://www.legislation.gov.uk/nisr/1979/130">S.R. 1979 No. 130</a></td><td>The whole Regulations</td></tr>
+<tr><td>Docks Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/320">S.R. 1989 No. 320</a></td><td>Regulation 18</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+**1.** These Regulations impose requirements and prohibitions with respect to the health and safety of persons carrying out work in confined spaces (as defined in regulation 1(2)).
+
+**2.** The Regulations do not apply to activities on-board ship, below ground at a mine or to any diving operation within the meaning of the Diving Operations at Work Regulations (Northern Ireland) 1994 (regulation 2).
+
+**3.** The Regulations give effect as respects Northern Ireland to points 6.2 and 6.3 of Part A of Annex IV to Council Directive [92/57/EEC](https://www.legislation.gov.uk/european/directive/1992/0057) (O.J. No. L245, 26.8.92, p. 6) on the implementation of minimum safety and health requirements at temporary or mobile construction sites.
+
+**4.** The Regulations—
+
+- (a) prohibit the entry into a confined space for the purpose of carrying out work where it is reasonably practicable to carry out the work by other means (regulation 4(1));
+- (b) require work in a confined space to be carried out only in accordance with a safe system of work (regulation 4(2));
+- (c) impose requirements with regard to the preparation and implementation of adequate arrangements for the rescue of any person at work in a confined space in the event of an emergency (regulation 5);
+- (d) provide that the Department of Economic Development (“the Department”) may grant exemptions from any requirement or prohibition of the Regulations in specified circumstances (regulation 6);
+- (e) provide a defence in proceedings in respect of the duty to implement emergency arrangements (regulation 7);
+- (f) specify the activities within territorial waters to which the Regulations will apply (regulation 8 and Schedule 1);
+- (g) provide for the repeal and revocation of specified statutory provisions (regulation 9 and Schedule 2).
+
+**5.** In Great Britain the corresponding Regulations are the Confined Spaces Regulations 1997 ([S.I. 1997/1713](https://www.legislation.gov.uk/uksi/1997/1713)). The Health and Safety Executive has prepared a cost benefit assessment in relation to those Regulations and a copy of that assessment, together with a Northern Ireland Supplement prepared by the Department, is held at the Department’s offices at 83 Ladas Drive, Belfast BT6 9FJ, from where copies may be obtained.
+
+**6.** A person who contravenes the Regulations is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00002]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^key-93a2c650aadf9646265713c72f4e32c0]: Commencement: Reg. 1 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146)
+
+[^f00004]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
+
+[^key-8dd64c997493cf718c43e53ef46e9a89]: Commencement: Reg. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-f5c4739b0aa9eec0fc0a12cf7187c152]: Commencement: Reg. 3 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-fb69580594d62a8b9d20cc0a6e03de79]: Commencement: Reg. 4 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-e3fdc3e3a75dd485319893a34249d67d]: Commencement: Reg. 5 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-afef123e3719735ef5d6586bce0be757]: Commencement: Reg. 6 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-9ecb908fc148bdd3b64fcf11dced679d]: Commencement: Reg. 7 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-1f1bc0c8d15e90af498135d978e78f26]: Commencement: Reg. 8 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-b65720a1a644ae94e9ddd7ac2ff47410]: Commencement: Reg. 9 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^f00005]: Footnote: [1965 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1965/20); section 31 was amended by [S.R. 1984 No. 283](https://www.legislation.gov.uk/nisr/1984/283) and [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20)
+
+[^key-5107df917063727668e2a3762f2ebea3]: Commencement: Sch. 1 para. 1 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-b0308baecafaea89e10cde7fa5077dbf]: Commencement: Sch. 1 para. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-23a4deb8bbffa0904c6cc58a04d4e800]: Commencement: Sch. 1 para. 3 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-f46810de9ffe42e9e9da125dc6ff0948]: Commencement: Sch. 1 para. 4 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-c5b2c47751486285d7ad10b74cb7bf35]: Commencement: Sch. 1 para. 5 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-f0f1c02ca6b7e2ddfd5cf2a6453a15f6]: Commencement: Sch. 1 para. 6 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^key-e973821b74da44404533a435e6043994]: Commencement: Sch. 1 para. 7 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+
+[^f00006]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
+
+[^key-b2c517169bc1773ed9e21da028b29af1]: Commencement: Sch. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)

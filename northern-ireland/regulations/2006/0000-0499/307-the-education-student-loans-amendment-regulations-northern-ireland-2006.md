@@ -1,0 +1,423 @@
+---
+title: The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006
+id: nisr/2006/307
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-07-17'
+text_date: '2007-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/307
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/307/pdfs/nisr_20060307_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/307/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006
+
+> Text as at 2007-08-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 307
+
+EDUCATION
+
+The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006
+
+Made
+
+17th July 2006
+
+Coming into operation
+
+1st August 2006
+
+The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Article 3(5) of and paragraph 1(1) of Schedule 2 to the Education (Student Loans) (Northern Ireland) Order 1990[^f00002] and now vested in it[^f00003] makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-4c5e0bed7cb5c9224a615a96043d19b4]
+
+These Regulations may be cited as the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 1st August 2006.
+
+**2.**[^key-becdddb4a37403b42e84b8dbc457e71c] In these Regulations “the principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
+
+## 3. Revocations[^key-429d9cf7bf5033e8a315d76976e250be]
+
+Regulation 4 of the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005[^f00005] is revoked.
+
+**4.**[^key-0ee21f45a78bfb4d112383a016069a73] The following provisions of the Education (Student Loans) (Amendment) (No.2) Regulations (Northern Ireland) 2005[^f00006] are revoked—
+
+- (a) regulation 7; and
+- (b) regulation 8(2) and (3).
+
+## 5. Amendment of the Principal Regulations[^key-f73b52a6527dae59ad1ebe912ba14f90]
+
+The principal Regulations shall be amended as provided by regulations 6 to 11.
+
+## 6.[^key-0e05bbaa696dc1f06f1bbe91f3ac9d03]
+
+(1) Regulation 3 (Interpretation) shall be amended as provided by paragraphs (2) and (3).
+
+(2) In paragraph (1)—
+
+- (a) before the definition of “accelerated course”, there shall be inserted—
+
+  > - “2005 loan” means a loan the maximum amount of which is the maximum amount that would have been payable under these Regulations had they not been amended by the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006;
+  > - “2006 academic year” means an academic year beginning on or after 1st August 2006 but before 1st July 2007;
+
+  ,;
+- (b) after the definition of “borrower”, there shall be inserted—
+
+  > - “Community Right student” means—
+  >   - (a) a person falling within paragraph 3 of Part 2 of Schedule 1;
+  >   - (b) a person falling within paragraph 6 of Part 2 of Schedule 1 by virtue of being—
+  >     - (i) an EEA frontier worker, an EEA frontier self-employed person, a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person;
+  >     - (ii) a family member of a person mentioned in paragraph (i); or
+  >     - (iii) a dependent direct relative in the ascending line of an EEA migrant worker or the spouse or civil partner of such a worker; or
+  >   - (c) a person falling within paragraph 8 of Part 2 of Schedule 1;
+
+  ; and
+- (c) the definition of “EEA migrant worker” shall be omitted.
+
+(3) Paragraphs (4), (5) and (6) shall be omitted.
+
+## 7.[^key-ac330cc6ed35f6e81b59216d529a2162]
+
+(1) Regulation 4[^f00007] (Conditions of eligibility) shall be amended as provided by paragraphs (2) and (3).
+
+(2) In paragraphs (1A) and (1B) for “6A” wherever it appears, there shall be substituted “9”.
+
+(3) After paragraph (1C), there shall be inserted—
+
+> (1D) Subject to paragraphs (1G) and (2), a person shall be eligible for a 2005 loan in relation to a new academic year if he—
+>
+> - (a) is either attending, or attended throughout the new academic year, a course which is—
+>   - (i) a full-time course; or
+>   - (ii) a full-time or a part-time course for the initial training of teachers which is designated by the Department
+> - (b) is a Community Right student; and
+> - (c) has entered into an agreement for a loan—
+>   - (i) in the case of a person who will—
+>     - (aa) complete the course referred to in sub-paragraph (a) during the new academic year; and
+>     - (bb) not attend a further course of study in the 2006 academic year,
+>
+>     before the final day of the course referred to in sub-paragraph (a); or
+>   - (ii) in the case of a person who will—
+>     - (aa) continue to attend the course referred to in sub-paragraph (a) in the 2006 academic year; or
+>     - (bb) attend a further course of study in the 2006 academic year,
+>
+>     before 30th April 2007.
+>
+> (1E) For the purposes of paragraph (1D)(b), the references to “the course” in the relevant paragraphs of Part 2 of Schedule 1 are to be treated as references to the course referred to in paragraph (1D)(a)(i) or (ii).
+>
+> (1F) For the purposes of paragraph (1D)(c)(i)(bb) and (ii)(bb), “further course of study” means a further course of study which is a full-time or a part-time course for the initial training of teachers which is designated by the Department.
+>
+> (1G) Paragraph (1D) shall not apply in the case of a person who would have been eligible for a loan under paragraph (1) before 30th April 2006.
+
+.
+
+## 8.[^key-df12cee11122eba04038e4d14737982c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9.[^key-34253841f5d44c0cfe8d3c7b0296df02]
+
+For regulation 7 (Terms of loans), for paragraph (1) there shall be substituted—
+
+> (1) Every agreement for a loan made on or after 30th April 2006 shall include the terms set out in Part 1 of Schedule 2.
+
+.
+
+## 10.[^key-9a4d830ef640bc69e6bde4cf57102e15]
+
+For Schedule 1 (Eligible Students), there shall be substituted—
+
+> **SCHEDULE 1 — ELIGIBLE STUDENTS**
+>
+> Regulation 4
+>
+> **PART 1 — Interpretation**
+>
+> **1.** (1) For the purposes of this Schedule—
+>
+> - “Directive 2004/38” means Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29th April 2004[^f00008] on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
+> - “EC national” means a national of a Member State of the European Community;
+> - “EEA frontier self-employed person” means an EEA national who—
+>   - (a) is self-employed in Northern Ireland; and
+>   - (b) resides in Switzerland or the territory of an EEA State other than the United Kingdom and returns to his residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+> - “EEA frontier worker” means an EEA national who—
+>   - (a) is a worker in Northern Ireland; and
+>   - (b) resides in Switzerland or the territory of an EEA State other than the United Kingdom and returns to his residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+> - “EEA migrant worker” means an EEA national who is a worker, other than an EEA frontier worker, in the United Kingdom;
+> - “EEA national” means a national of an EEA State other than the United Kingdom;
+> - “EEA self-employed person” means an EEA national who is a self-employed person, other than an EEA frontier self-employed person, in the United Kingdom;
+> - “EEA State” means a Member State of the European Economic Area;
+> - “employed person” means an employed person within the meaning of Annex 1 to the Switzerland Agreement;
+> - “family member” means—
+>   - (a) in relation to an EEA frontier worker, an EEA migrant worker, an EEA frontier self-employed person or an EEA self-employed person—
+>     - (i) his spouse or civil partner;
+>     - (ii) his child or the child of his spouse or civil partner; or
+>     - (iii) dependent direct relatives in his ascending line or that of his spouse or civil partner;
+>   - (b) in relation to a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person—
+>     - (i) his spouse or civil partner; or
+>     - (ii) his child or the child of his spouse or civil partner;
+>   - (c) in relation to an EC national who is not self-sufficient—
+>     - (i) his spouse or civil partner; or
+>     - (ii) direct descendants of his or his spouse or civil partner who are—
+>       - (aa) under the age of 21; or
+>       - (bb) dependants of his or of his spouse or civil partner;
+>   - (d) in relation to an EC national who is self-sufficient—
+>     - (i) his spouse or civil partner;
+>     - (ii) direct descendants of his or his spouse or civil partner who are—
+>       - (aa) under the age of 21; or
+>       - (bb) dependants of his or of his spouse or civil partner;
+>     - (iii) dependent direct relatives in his ascending line or that of his spouse or civil partner;
+>   - (e) in relation to a United Kingdom national, for the purposes of paragraph 9—
+>     - (i) his spouse or civil partner; or
+>     - (ii) direct descendants of his or his spouse or civil partner who are—
+>       - (aa) under the age of 21; or
+>       - (bb) dependants of his or his spouse or civil partner;
+> - “person with leave to enter or remain” means a person who—
+>   - (a) either—
+>     - (i) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to enter or remain in the United Kingdom; or
+>     - (ii) before 1st July 1993 applied to the Secretary of State for the Home Department for recognition as a refugee and who has been informed by a person acting under the authority of that Secretary of State that it is thought right to allow him to enter or remain in the United Kingdom;
+>   - (b) has been granted leave to enter or remain accordingly; and
+>   - (c) has been ordinarily resident in the United Kingdom and Islands throughout the period since he was granted leave to enter or remain;
+> - “right of permanent residence” means a right arising under Directive 2004/38 to reside in the United Kingdom permanently without restriction;
+> - “self-employed person” means—
+>   - (a) in relation to an EEA national, a person who is self-employed within the meaning of Article 7 of Directive 2004/38; or
+>   - (b) in relation to a Swiss national, a person who is a self-employed person within the meaning of Annex 1 to the Switzerland Agreement;
+> - “self-sufficient” means self-sufficient within the meaning of Article 7(1)(b) of Directive 2004/38;
+> - “settled” has the meaning given by section 33(2A) of the Immigration Act 1971[^f00009];
+> - “Swiss employed person” means a Swiss national who is an employed person, other than a Swiss frontier employed person, in the United Kingdom;
+> - “Swiss frontier employed person” means a Swiss national who—
+>   - (a) is an employed person in Northern Ireland; and
+>   - (b) resides in Switzerland or in the territory of an EEA State other than the United Kingdom and returns to his residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+> - “Swiss frontier self-employed person” means a Swiss national who—
+>   - (a) is a self-employed person in Northern Ireland; and
+>   - (b) resides in Switzerland or in the territory of an EEA State other than the United Kingdom and returns to his residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+> - “Swiss self-employed person” means a Swiss national who is a self-employed, other than a Swiss frontier self-employed person, in the United Kingdom;
+> - “Switzerland Agreement” means the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed at Luxembourg on 21st June 1999[^f00010] and which came into force on 1st June 2002;
+> - “United Kingdom national” means a person who falls to be treated as a national of the United Kingdom for the purposes of the Community Treaties;
+> - “worker” means a worker within the meaning of article 7 of Directive 2004/38.
+>
+> (2) For the purposes of this Schedule, “parent” includes a guardian, any other person having parental responsibility for a child and any person having care of a child and “child” is to be construed accordingly.
+>
+> (3) For the purposes of this Schedule, a person is to be treated as ordinarily resident in the United Kingdom and Islands or in the territory comprising the European Economic Area and Switzerland if he would have so resident but for the fact that—
+>
+> - (a) he;
+> - (b) his spouse or civil partner;
+> - (c) his parent; or
+> - (d) in the case of a dependent direct relative in the ascending line, his child or child’s spouse or civil partner,
+>
+> is or was temporarily employed outside the United Kingdom and Islands or, as the case may be, outside the territory comprising the European Economic Area and Switzerland.
+>
+> (4) For the purposes of sub-paragraph (3), temporary employment outside the United Kingdom and Islands or the territory comprising the European Economic Area and Switzerland includes—
+>
+> - (a) in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom as members of such forces; and
+> - (b) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside of the territory comprising the European Economic Area and Switzerland as members of such forces.
+>
+> (5) For the purposes of this Schedule, an area which—
+>
+> - (a) was previously not part of the European Community or the European Economic area; but
+> - (b) at any time before or after these Regulations come into operation has become part of one or other or both of these areas,
+>   - is to be considered to have always been a part of the European Economic Area.
+>
+> **PART 2 — Categories**
+>
+> **2. Persons with settled status**
+>
+> (1) A person who on the first day of the course—
+>
+> - (a) subject to sub-paragraph (2), is settled in the United Kingdom other than by reason of having acquired a right of permanent residence;
+> - (b) has been ordinarily resident throughout the three year period preceding the first day of the course in the United Kingdom and Islands; and
+> - (c) subject to sub-paragraph (3), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (b) been wholly or mainly for the purpose of receiving full-time education.
+>
+> (2) Paragraph (a) of sub-paragraph (1) does not apply if—
+>
+> - (a) the first day of the person’s course was before 1st August 1997; or
+> - (b) the person—
+>   - (i) commenced attending a course in respect of which he was eligible for a loan before 1st August 1997; and
+>   - (ii) disregarding any intervening vacation immediately after ceasing to attend that course—
+>     - (aa) commenced attending his present course; or
+>     - (bb) commenced attending another course in respect of which he was eligible for a loan or other courses one after the other in respect of each of which he was eligible for a loan until, disregarding any intervening vacation immediately after ceasing to attend that course or last of those courses, he commenced attending his present course
+>
+> (3) Paragraph (c) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3).
+>
+> **3.** A person who—
+>
+> - (a) is settled in the United Kingdom by virtue of having acquired the right of permanent residence;
+> - (b) has been ordinarily resident throughout the three year period preceding the first day of the course in the United Kingdom and Islands; and
+> - (c) in a case where his ordinary residence referred to in paragraph (b) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (b).
+>
+> **4. Refugees and persons with leave to enter or remain**
+>
+> A person who is—
+>
+> - (a) a refugee ordinarily resident in the United Kingdom and Islands who has not ceased to be so resident since he was recognised as a refugee; or
+> - (b) the spouse, civil partner, child or step-child of a person mentioned in sub-paragraph (a).
+>
+> **5.** A person—
+>
+> - (a) who is either—
+>   - (i) a person with leave to enter or remain; or
+>   - (ii) the spouse, civil partner, child or step-child of a person with leave to enter or remain;
+> - (b) who has been ordinarily resident throughout the three year period preceding the first day of the course in the United Kingdom and Islands; and
+> - (c) whose residence in the United Kingdom and Islands has not during any part of the period referred to in sub-paragraph (b) been wholly or mainly for the purpose of receiving full-time education.
+>
+> **6. Workers, employed persons, self-employed persons and their family members**
+>
+> (1) A person who—
+>
+> - (a) is—
+>   - (i) an EEA migrant worker or an EEA self-employed person;
+>   - (ii) a Swiss employed person or a Swiss self-employed person;
+>   - (iii) a family member of a person mentioned in paragraph (i) or (ii);
+>   - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+>   - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+>   - (vi) a family member of a person mentioned in paragraph (iv) or (v); and
+> - (b) has been ordinarily resident throughout the three-year period preceding the first day of the course in the territory comprising the European Economic Area and Switzerland.
+>
+> **7.** A person who—
+>
+> - (a) has been ordinarily resident throughout the three year period preceding the first day of the course in the territory comprising the European Economic Area and Switzerland; and
+> - (b) is entitled to support by virtue of article 12 of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers, as extended by the EEA Agreement.
+>
+> **8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere**
+>
+> (1) A person who—
+>
+> - (a) is settled in the United Kingdom;
+> - (b) left the United Kingdom and exercised a right of residence after having been settled in the United Kingdom;
+> - (c) has been ordinarily resident throughout the three year period preceding the first day of the course in the territory comprising the European Economic Area and Switzerland; and
+> - (d) in a case where his ordinary residence referred to in paragraph (c) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+>
+> (2) For the purposes of this paragraph, a person has exercised a right of residence if he is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Switzerland Agreement) or a person who has the right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Switzerland Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and has a right of permanent residence, if he goes to the state within the territory comprising the European Economic Area and Switzerland of which he is a national or of which the person in relation to whom he is a family member is a national.
+>
+> **9. EC nationals**
+>
+> A person who—
+>
+> - (a) is an EC national other than a United Kingdom national;
+> - (b) has been ordinarily resident throughout the three year period preceding the first day of the course in the United Kingdom and Islands; and
+> - (c) in a case where his ordinary residence referred to in paragraph (b) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (b).
+>
+> **10. Children of Swiss nationals**
+>
+> A person who—
+>
+> - (a) is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of article 3(6) of Annex 1 to the Switzerland Agreement;
+> - (b) has been ordinarily resident throughout the three year period preceding the first day of the course in the territory comprising the European Economic Area and Switzerland; and
+> - (c) in a case where his ordinary residence referred to in paragraph (b) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (b).
+
+.
+
+## 11.[^key-b6d2dc4c96e67047ae22efc1b19fefb4]
+
+(1) Schedule 2[^f00011] (Terms of loans) shall be amended as provided by paragraphs (2) to (5).
+
+(2) In paragraph 1—
+
+- (a) before the definition of “APR”, there shall be inserted—
+
+  > - “2005 loan” has the meaning given by regulation 3(1) of the Education (Student Loans) Regulations (Northern Ireland) 1998;
+
+  .
+- (b) for the definition of ““old loan and “new academic year”“, there shall be substituted—
+
+  > - “old loan”, “new academic year” and “2006 academic year” have the meaning given by regulation 3(1) of the Education (Student Loans) Regulations (Northern Ireland) 1998;
+
+  .
+
+(3) In paragraph 4 for “paragraph 4A”, there shall be substituted “paragraphs 4A and 4B”.
+
+(4) After paragraph 4A, insert—
+
+> (4B) If the loan which is the subject of the loan agreement is a 2005 loan and the borrower had completed the course in respect of which he applied for that loan before he entered into the loan agreement, the borrower must make the first repayment in April 2008 unless—
+>
+> - (a) the borrower defers repayment under paragraph 9;
+> - (b) the lender cancels the borrower’s loan under paragraph 12; or
+> - (c) paragraph 13 or 13B applies.
+
+.
+
+(5) After paragraph 13A, there shall be inserted—
+
+> **13B.** If when the borrower takes out a 2005 loan, he has already entered into an agreement for a loan in relation to a further course of study for the 2006 academic year, the lender will not ask him to make any or any more repayments under the loan agreement for the 2005 loan until he begins to repay the loan taken out in relation to the further course of study. The number of repayments for the 2005 loan will then be the same as for the loan taken out in relation to the further course of study.
+
+.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 17th July 2006
+
+David McAuley
+
+A senior officer of the
+
+Department for Employment and Learning
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Student Loans) Regulations (Northern Ireland) 1998 (the “1998 Regulations”). The 1998 Regulations, made under the Education (Student Loans) (Northern Ireland) Order 1990, govern mortgage style repayment loans. These loans are, for the most part, only available to students who started their courses before 1st August 1998 or who are attending a further course immediately after having completed a course they commenced prior to 1998.
+
+Regulation 8 increases, in line with inflation, the maximum amounts that may be lent to students in relation to an academic year commencing on or after 1st August 2006.
+
+Regulation 10 amends Schedule 1 to the 1998 Regulations in order to implement Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29th April 2004 (OJ L158, 30.04.2004, p77-123) on the rights of citizens of the Union and their family members to move and reside freely in the territory of the member states so far as the Directive relates to student loans. Certain categories of person who were not formerly eligible for student loans will be so eligible as a result of the Directive. To qualify for a student loan a person must fall within one of the categories set out in Part 2 of Schedule 1. Schedule 1 has been amended to include the categories of person who are eligible for student loans as a result of the Directive. A copy of the Transposition Note in relation to the Directive in so far as it relates to student support is available from the Department for Education and Skills, Sanctuary Buildings, Great Smith Street, London, SW1P 3BT or on the website of the Office of Public Sector Information at www.opsi.gov.uk.. Other amendments are also made to the categories of student who may apply for loans.
+
+Regulations 5 and 6 make consequential changes to the provisions of the 1998 Regulations.
+
+Regulation 6 also sets out the criteria that certain categories of students who were not previously eligible for a loan must satisfy in order to be eligible for a loan in connection with an academic year beginning on or after 1st August 2005 but before 1st July 2006. Regulation 7 also sets out the time limits for applying for those loans.
+
+Regulations 9 and 11 amend the terms of loans taken out on or after 30th April 2006.
+
+These Regulations also revoke in part the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 and the Education (Student Loans) (Amendment) (No.2) Regulations (Northern Ireland) 2005.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly known as the Department of Higher and Further Education, Training and Employment; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) and the Department for Employment and Learning Act (Northern Ireland) [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15)
+
+[^f00002]: Footnote: [S.I. 1990/1506(N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); as amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), Article 43 and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), Article 3 and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), Articles 3 to 6. The entire Order was repealed by the Education (Student Support) (Northern Ireland) Order 1998 [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760), Article 9 and the Schedule. This repeal is subject to transitional and saving provisions in the Education (Student Support) (Northern Ireland) Order 1998 (Commencement and Transitional Provisions) Order (Northern Ireland) 1998 [S.R. 1998 No. 306](https://www.legislation.gov.uk/nisr/1998/306). The saving provisions include provision for making subordinate legislation after the date of repeal.
+
+[^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 5(b) and Schedule 3 Part II
+
+[^key-4c5e0bed7cb5c9224a615a96043d19b4]: Commencement: Reg. 1 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^key-becdddb4a37403b42e84b8dbc457e71c]: Commencement: Reg. 2 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^f00004]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303), [S.R. 1999 No. 343](https://www.legislation.gov.uk/nisr/1999/343), [S.R. 2000 No. 244](https://www.legislation.gov.uk/nisr/2000/244), [S.R. 2001 No.276](https://www.legislation.gov.uk/nisr/2001/276), [S.R. 2002 No. 241](https://www.legislation.gov.uk/nisr/2002/241), [S.R. 2003 No. 340](https://www.legislation.gov.uk/nisr/2003/340), [S.R. 2004 No. 305](https://www.legislation.gov.uk/nisr/2004/305), [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351) and [S.R. 2005 No. 435](https://www.legislation.gov.uk/nisr/2005/435)
+
+[^key-429d9cf7bf5033e8a315d76976e250be]: Commencement: Reg. 3 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^f00005]: Footnote: [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351)
+
+[^key-0ee21f45a78bfb4d112383a016069a73]: Commencement: Reg. 4 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^f00006]: Footnote: [S.R. 2005 No. 435](https://www.legislation.gov.uk/nisr/2005/435)
+
+[^key-f73b52a6527dae59ad1ebe912ba14f90]: Commencement: Reg. 5 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^key-0e05bbaa696dc1f06f1bbe91f3ac9d03]: Commencement: Reg. 6 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^key-ac330cc6ed35f6e81b59216d529a2162]: Commencement: Reg. 7 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^f00007]: Footnote: As amended by regulation 5 of [S.R. 2005 No. 435](https://www.legislation.gov.uk/nisr/2005/435)
+
+[^key-df12cee11122eba04038e4d14737982c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/307/regulation/8) revoked (1.8.2007) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/329)](https://www.legislation.gov.uk/nisr/2007/329), [regs. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/329/regulation/3)
+
+[^key-34253841f5d44c0cfe8d3c7b0296df02]: Commencement: Reg. 9 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^key-9a4d830ef640bc69e6bde4cf57102e15]: Commencement: Reg. 10 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^f00008]: Footnote: OJ L158, 30.04.2004, p77-123.
+
+[^f00009]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^f00010]: Footnote: Cm. 4904.
+
+[^key-b6d2dc4c96e67047ae22efc1b19fefb4]: Commencement: Reg. 11 in operation at 1.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1)
+
+[^f00011]: Footnote: As amended by regulation 8 of [S.R. 2005 No. 435](https://www.legislation.gov.uk/nisr/2005/435)

@@ -1,0 +1,325 @@
+---
+title: The Civil Partnership Act 2004 (Relationships Arising Through Civil Partnership) Order (Northern Ireland) 2005
+id: nisr/2005/542
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-12-02'
+text_date: '2014-04-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/542
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/542/pdfs/nisr_20050542_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/542/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Partnership Act 2004 (Relationships Arising Through Civil Partnership) Order (Northern Ireland) 2005
+
+> Text as at 2014-04-11.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 542
+
+CIVIL PARTNERSHIP
+
+The Civil Partnership Act 2004 (Relationships Arising Through Civil Partnership) Order (Northern Ireland) 2005
+
+Made
+
+2nd December 2005
+
+Coming into operation
+
+5th December 2005
+
+The Department of Finance and Personnel, in exercise of the powers conferred on it by sections 247(2) and (3)(b) and 248 of the Civil Partnership Act 2004[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation[^key-4b25bf30ad76879388f67223dd50fd9e]
+
+(1) This Order may be cited as the Civil Partnership Act 2004 (Relationships Arising Through Civil Partnership) Order (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
+
+(2) In this Order “the Act” means “the Civil Partnership Act 2004”.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00002] applies to this Order as it applies to an Act of the Assembly.
+
+## 2. Amendment of Schedule 22 to the Act[^key-2caa77caa68047dcde902f42eae85bb7]
+
+In Schedule 22 to the Act (references to stepchildren etc. in existing Northern Ireland legislation), after paragraph 24 insert—
+
+> - 25 Section 4(3) of the Workmen’s Compensation Act (Northern Ireland) 1927 (Meaning of “workman”.)[^f00003].
+> - 26 Article 5(3) of the Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979 (Meaning of “dependant”)[^f00004].
+
+## 3. References to stepchildren etc. in existing subordinate legislation[^key-1317994c6f1f0d5a5e22def21f95f594]
+
+(1) Section 246 of the Act (Interpretation of statutory references to stepchildren etc.) applies to the provisions of existing subordinate legislation listed in the Schedule.
+
+(2) The application of section 246 of the Act to the provision in the Regulations set out in paragraph 8(a) of the Schedule applies to those Regulations as modified in their application to persons to whom regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations (Northern Ireland) 2003[^f00005] apply and as not so modified.
+
+(3) The application of section 246 of the Act to the provision in the Regulations set out in paragraph 8(d) of the Schedule applies to those Regulations as modified in their application to persons to whom regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations (Northern Ireland) 2003 apply.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 2nd December 2005.
+
+Ethne E. Harkness
+
+A senior officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE — REFERENCES TO STEPCHILDREN ETC. IN EXISTING SUBORDINATE LEGISLATION
+
+Article 3
+
+**1.**[^key-143d7a092efc84189ac19669b4e282d4] Regulation 2 of THE INDUSTRIAL ASSURANCE (PREMIUM RECEIPT BOOKS) REGULATIONS (NORTHERN IRELAND) 1949[^f00006] (Entries).
+
+**2.**[^key-187931aaf66a31ddca1f4e1b1e60e358] Paragraph 2 of Part II of Schedule 1 to the Social Security (Employed Earners' Employment for Industrial Injuries Purposes) Regulations (Northern Ireland) 1975[^f00007] (Employments not to be treated as employed earners' employments for industrial injuries purposes).
+
+**3.**[^key-2c7551ab932d8faf07244992da327217] Regulation 9(3)(c) of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00008] (Conditions relating to residence and presence in Northern Ireland).
+
+**4.**[^key-f2b0fd467be3794aa6e26541c1b441eb] The definition of “member of the family of a serving member of the forces” in regulation 2(4)(b) of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00009] (Modification of the Act in relation to incapacity benefit, severe disablement allowance, unemployability supplement and maternity allowance).
+
+**5.**[^key-647264d16d9831d3d861e4521af3b2f9] Regulation 32(c) of and paragraph (b) of Schedule 5 to the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00010] (Circumstances in which a deceased person is to be treated as not having been entitled to child benefit for the purposes of section 68 or 70).
+
+**6.**[^key-21826ab125e5f76bbbee5486fd90d306] Regulation 2(2) of the Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984[^f00011] (Interpretation).
+
+**7.**[^key-9167126331b31e6f415c6975615616df] In the Income Support (General) Regulations (Northern Ireland) 1987[^f00012]—
+
+- (a) the definition of “close relative” in regulation 2(1) (Interpretation);
+- (b) paragraph 39(4)(b)(i) and (ii) and 39(5)(b)(i) and (ii) of Schedule 9 (Sums to be disregarded in the Calculation of Income other than Earnings); and
+- (c) paragraph 22(4)(b)(i) and (ii) and 22(5)(b)(i) and (ii) of Schedule 10 (Capital to be Disregarded).
+
+**8.**[^key-4b8dd46f72d47f200ad247aca32c4599] In The Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00013]—
+
+- (a) the definition of “close relative” in regulation 2(1) (Interpretation);
+- (b) paragraph 37(4)(b)(i) and (ii) and 37(5)(b)(i) and (ii) of Schedule 4 (SUMS TO BE DISREGARED IN THE CALCULATION OF INCOME OTHER THAN EARNINGS);
+- (c) paragraph 23(4)(b)(i) and (ii) and 23(5)(b)(i) and (ii) of Schedule 5 (CAPITAL TO BE DISREGARDED); and
+- (d) paragraph 16(4)(b)(i) and (ii) and 16(5)(b)(i) and (ii) of Schedule 5ZA (Part 1. capital to be disregarded).
+
+**9.**[^key-42e959cde7cb6a2580eb75d18f762566] Paragraph 15 of Part VI of the Schedule to The Adoption Agencies Regulations (Northern Ireland) 1989[^f00014] (PARTICULARS RELATING TO THE PROSPECTIVE ADOPTER).
+
+**10.**[^key-71c534e45e0e9c1fd6a344b3ced52455] Regulation 2(2)(c) of The Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00015] (Conditions as to residence and presence in Northern Ireland).
+
+**11.**[^key-793db73a43ebe5c197a0abd9b1a27d55] Regulation 2(2)(c) of The Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00016] (Conditions as to residence and presence in Northern Ireland).
+
+**12.**[^key-e07931fb0696a0271107f266ebc86aa5] The definition of “relative” in paragraph 20(1) of Schedule 2 to the Burial Grounds Regulations (Northern Ireland) 1992[^f00017] (Interpretation).
+
+**13.**[^key-aaf5871621afa8ddd9903506a3566487] The definition of “close relative” in paragraph 7 of Schedule 3 to The Child Support (Maintenance Assessment and Special Cases) Regulations (Northern Ireland) 1992[^f00018] (Eligible Housing Costs).
+
+**14.**[^key-04acfba230f3d8eb9017f481443ea72a] Regulation 15(4)(a) of The Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00019] (Conditions relating to residence or presence).
+
+**15.**[^key-15286eed2426312f3e5699cf4e0d19b9] The definition of “close relative” in regulation 2(1) of The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00020] (Interpretation).
+
+**16.**[^key-f7d7c165f105258da0006534a4674cf7] In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00021]—
+
+- (a) the definition of “close relative” in regulation 1(2) (Citation, commencement and interpretation);
+- (b) the definition of “close relative” in regulation 4 (INTERPRETATION OF PARTS II, IV AND V);
+- (c) paragraph 41(4)(b)(i) and (ii) and 41(5)(b)(i) and (ii) of Schedule 6 (Sums to be Disregarded in the Calculation of Income other than Earnings); and
+- (d) paragraph 27(4)(b)(i) and (ii) and 27(5)(b)(i) and (ii) of Schedule 7 (Capital to be Disregarded).
+
+**17.**[^key-5c6bc19dca237ed324c53957b7ab994f] In The Family Proceedings Rules (Northern Ireland) 1996[^f00022]—
+
+- (a) rule 3.1(2)(d)(i) (Application by spouse for failure to maintain).
+- (b) Appendix 1, Forms M13 (NOTICE OF APPLICATION FOR ANCILLARY RELIEF), M15 (NOTICE OF INTENTION TO PROCEED WITH APPLICATION FOR ANCILLARY RELIEF MADE IN PETITION OR ANSWER), C1 (APPLICATION FOR AN ORDER, Children (Northern Ireland) Order 1995), C7 (SUPPLEMENT FOR AN APPLICATION FOR FINANCIAL PROVISION FOR A CHILD OR VARIATION IN FINANCIAL PROVISION FOR A CHILD, Schedule 1 Children (Northern Ireland) Order 1995) and F2 (APPLICATION FOR A NON-MOLESTATION ORDER/AN OCCUPATION ORDER, Family Homes and Domestic Violence (Northern Ireland) Order 1998).
+- (c) Appendix 2, paragraph 1(i)(i) (CONTENTS OF PETITION).
+- (d) Appendix 4, Part 1, paragraph 4(f) and 4(s) (MATTERS TO BE COVERED IN REPORTS SUPPLIED UNDER RULES 4a.3(4), 4a.4(7), 4a.22(1) or 4a.22(2)).
+
+**18.**[^key-4636e4da5671197b6506cb17c50432a9] The definition of “close relative” in regulation 7(2) of The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^f00023] (Death of a person with care of a child).
+
+**19.**[^key-623a69ce103f850f0f8110600e3cc805] Regulation 3(c)(i), (iii) and (iv) of The Personal Social Services (Direct Payments) Regulations (Northern Ireland) 1997[^f00024] (Persons from whom services may not be secured by means of a direct payment).
+
+**20.**[^key-ae7fd301e08e114c664ca9052b0fb28f] Paragraphs 2 and 3 of Schedule 1 to The Education (Student Loans) Regulations (Northern Ireland) 1998[^f00025] (Eligible Students).
+
+**21.**[^key-e6dabaafe084cd4f73f29a127bf373f7] Regulation 9(2)(b) and (c) of The Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001[^f00026] (Child’s allowance).
+
+**22.**[^key-ae2d0abdf35a75267693ae794867ae3a] In The State Pension Credit Regulations (Northern Ireland) 2003[^f00027]—
+
+- (a) the definition of “close relative” in regulation 1(2) (Citation, commencement and interpretation); and
+- (b) paragraph 15(4)(b)(i) and (ii) and 15(5)(b)(i) and (ii) of Schedule 5 (INCOME FROM CAPITAL).
+
+**23.**[^key-8e30998946d682592e5318199d6998ec] In the Students Awards Regulations (Northern Ireland) 2003[^f00028]—
+
+- (a) the definition of “refugee” in regulation 2(1) (Interpretation);
+- (b) the definition of “child” in paragraph 12(1) of Part III of Schedule 6 (MAINTENANCE OF DEPENDANTS);
+- (c) paragraph 6 of Part I of Schedule 7 (STUDENT'S INCOME); and
+- (d) paragraphs 2(1), 4(3)(c) and 4(4)(c) and 5(9) of Part II of Schedule 7 (PARENTAL CONTRIBUTION).
+
+**24.**[^key-072e04f6409a4478703dc7f0f271a852] In the Housing Renewal Grants (Reduction of Grant) Regulations (Northern Ireland) 2004[^f00029]—
+
+- (a) the definition of “close relative” in regulation 2(1) (Interpretation);
+- (b) paragraph 35(4)(b)(i) and (ii) and 35(5)(b)(i) and (ii) of Schedule 3 (SUMS TO BE DISREGARDED IN THE DETERMINATION OF INCOME OTHER THAN EARNINGS); and
+- (c) paragraph 24(4)(b)(i) and (ii) and 24(5)(b)(i) and (ii) of Schedule 4 (CAPITAL TO BE DISREGARDED).
+
+**25.**[^key-eefdb79034e38f9902542a5cdd413793] Regulation 7(2)(c)(i), (iii) and (iv) of The Personal Social Services and Children’s Services (Direct Payments) Regulations (Northern Ireland) 2004[^f00030] (Conditions in respect of direct payments).
+
+**26.**[^key-4f02c4fca496b4a1cead0288067aa2fc] The definition of “immediate family member” in regulation 2 of The Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004[^f00031] (Interpretation).
+
+**27.**[^key-04ac0d885e5054b75e34aba53636dae5] The definition of “relative” in regulation 2(1) of The RQIA[^key-934e781d8465042e2a6b3cd08151aab2] (Registration) Regulations (Northern Ireland) 2005[^f00032] (Interpretation).
+
+**28.**[^key-c29523cdd676cd9193fdbfb6bae5a40c] The definition of “relative” in regulation 2(1) of The Nursing Homes Regulations (Northern Ireland) 2005[^f00033] (Interpretation).
+
+**29.**[^key-0793f7bce8b3a7988965fecbe2462515] The definition of “relative” in regulation 2(1) of The Residential Care Homes Regulations (Northern Ireland) 2005[^f00034] (Interpretation).
+
+**30.**[^key-485f09f130f5d9fbf2c99f3e6168a87d] In The Education (Student Support) Regulations (Northern Ireland) 2005[^f00035]—
+
+- (a) the definition of “refugee” in regulation 2(1) (Interpretation); and
+- (b) paragraph 3 of Schedule 2 (ELIGIBLE STUDENTS).
+
+**31.**[^key-527742d9708681c1324295f29ca12a0d] Regulation 3(1)(a) of the Conduct of Employment Agencies and Employment Businesses Regulations (Northern Ireland) 2005[^f00036] (The meaning of “connected”).
+
+(This note is not part of the Order)
+
+This Order amends Schedule 22 to the Civil Partnership Act 2004 (“the Act”) and applies section 246 to the provisions of certain existing subordinate legislation.
+
+Section 246 of the Act provides that references to “step” relationships and “in laws” in any provision to which the section applies are to be read as including relationships arising through civil partnership. Section 246 of the Act applies to the provisions of Northern Ireland legislation specified in Schedule 22 of the Act. Article 2 amends Schedule 22 by adding further provisions of legislation to that Schedule. Article 3 applies section 246 of the Act to the provisions of subordinate legislation applying in Northern Ireland listed in the Schedule to the Order.
+
+A regulatory impact assessment has not been prepared for this instrument, as it has no impact on the costs of business, charities, voluntary bodies or any public bodies distinct from that of the Act itself. A full regulatory impact assessment for civil partnership was published alongside the Act and can be viewed at http://www.dti.gov.uk/access/ria/index.htm#equality.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-4b25bf30ad76879388f67223dd50fd9e]: Commencement: Art. 1 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^key-2caa77caa68047dcde902f42eae85bb7]: Commencement: Art. 2 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00003]: Footnote: [1927 c. 16. (N.I.)](https://www.legislation.gov.uk/apni/1927/16). The Workmen’s Compensation Act was repealed with savings by the National Insurance (Industrial Injuries) Act [1946 (c. 21 (N.I.))](https://www.legislation.gov.uk/apni/1946/21) section 88 and Schedule 7, the Industrial Injuries and Diseases (Northern Ireland Old Cases) Act [1975 (c. 17)](https://www.legislation.gov.uk/ukpga/1975/17) and the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9) section 3 and Schedules 1 and 3.
+
+[^f00004]: Footnote: [S.I. 1979/925 (N.I. 9)](https://www.legislation.gov.uk/nisi/1979/925); to which there are amendments not relevant to this Order.
+
+[^key-1317994c6f1f0d5a5e22def21f95f594]: Commencement: Art. 3 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00005]: Footnote: [S.R. 2003 No. 197](https://www.legislation.gov.uk/nisr/2003/197); to which there are amendments not relevant to this Order.
+
+[^key-143d7a092efc84189ac19669b4e282d4]: Commencement: Sch. para. 1 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00006]: Footnote: [S.R. & O. (N.I.) 1949 No. 3](https://www.legislation.gov.uk/nisro/1949/3) (p. 234); to which there are amendments not relevant to this Order.
+
+[^key-187931aaf66a31ddca1f4e1b1e60e358]: Commencement: Sch. para. 2 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00007]: Footnote: [S.R. 1975 No. 90](https://www.legislation.gov.uk/nisr/1975/90); to which there are amendments not relevant to this Order.
+
+[^key-2c7551ab932d8faf07244992da327217]: Commencement: Sch. para. 3 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00008]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); amended by [S.R. 1977 No. 73](https://www.legislation.gov.uk/nisr/1977/73); there are other amending instruments not relevant to this Order.
+
+[^key-f2b0fd467be3794aa6e26541c1b441eb]: Commencement: Sch. para. 4 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00009]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending instruments are [S.R. 1994 No. 45](https://www.legislation.gov.uk/nisr/1994/45), [S.R. 1994 No. 269](https://www.legislation.gov.uk/nisr/1994/269) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150).
+
+[^key-647264d16d9831d3d861e4521af3b2f9]: Commencement: Sch. para. 5 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00010]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); to which there are amendments not relevant to this Order.
+
+[^key-21826ab125e5f76bbbee5486fd90d306]: Commencement: Sch. para. 6 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00011]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317); to which there are amendments not relevant to this Order.
+
+[^key-9167126331b31e6f415c6975615616df]: Commencement: Sch. para. 7 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00012]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); amended by [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204); [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201); [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241); there are other amending instruments not relevant to this Order.
+
+[^key-4b8dd46f72d47f200ad247aca32c4599]: Commencement: Sch. para. 8 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00013]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending instruments are [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201); [S.R. 2003 Nos. 28](https://www.legislation.gov.uk/nisr/2003/28) and [197](https://www.legislation.gov.uk/nisr/2003/197) and [S.R. 2004 No. 143](https://www.legislation.gov.uk/nisr/2004/143); there are other amending instruments not relevant to this Order.
+
+[^key-42e959cde7cb6a2580eb75d18f762566]: Commencement: Sch. para. 9 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00014]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253).
+
+[^key-71c534e45e0e9c1fd6a344b3ced52455]: Commencement: Sch. para. 10 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00015]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); to which there are amendments not relevant to this Order.
+
+[^key-793db73a43ebe5c197a0abd9b1a27d55]: Commencement: Sch. para. 11 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00016]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); to which there are amendments not relevant to this Order.
+
+[^key-e07931fb0696a0271107f266ebc86aa5]: Commencement: Sch. para. 12 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00017]: Footnote: [S.R. 1992 No. 238](https://www.legislation.gov.uk/nisr/1992/238).
+
+[^key-aaf5871621afa8ddd9903506a3566487]: Commencement: Sch. para. 13 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00018]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341); to which there are amendments not relevant to this Order.
+
+[^key-04acfba230f3d8eb9017f481443ea72a]: Commencement: Sch. para. 14 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00019]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); amended by [S.R. 2004 No. 404](https://www.legislation.gov.uk/nisr/2004/404).
+
+[^key-15286eed2426312f3e5699cf4e0d19b9]: Commencement: Sch. para. 15 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00020]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); to which there are amendments not relevant to this Order.
+
+[^key-f7d7c165f105258da0006534a4674cf7]: Commencement: Sch. para. 16 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00021]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); amended by [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503).
+
+[^key-5c6bc19dca237ed324c53957b7ab994f]: Commencement: Sch. para. 17 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00022]: Footnote: [S.R. 1996 No. 322](https://www.legislation.gov.uk/nisr/1996/322); amended by [S. R. 1999 No. 88](https://www.legislation.gov.uk/nisr/1999/88) and [S.R. 2003 No. 75](https://www.legislation.gov.uk/nisr/2003/75); there are other amending instruments not relevant to this Order.
+
+[^key-4636e4da5671197b6506cb17c50432a9]: Commencement: Sch. para. 18 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00023]: Footnote: [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622); amended by [S.R. 1997 No. 130](https://www.legislation.gov.uk/nisr/1997/130); there are other amending instruments not relevant to this Order.
+
+[^key-623a69ce103f850f0f8110600e3cc805]: Commencement: Sch. para. 19 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00024]: Footnote: [S.R. 1997 No. 131](https://www.legislation.gov.uk/nisr/1997/131); to which there are amendments not relevant to this Order.
+
+[^key-ae7fd301e08e114c664ca9052b0fb28f]: Commencement: Sch. para. 20 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00025]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58); amended by [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351); there are other amending instruments not relevant to this Order.
+
+[^key-e6dabaafe084cd4f73f29a127bf373f7]: Commencement: Sch. para. 21 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00026]: Footnote: [S.R. 2001 No. 367](https://www.legislation.gov.uk/nisr/2001/367).
+
+[^key-ae2d0abdf35a75267693ae794867ae3a]: Commencement: Sch. para. 22 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00027]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); to which there are amendments not relevant to this Order.
+
+[^key-8e30998946d682592e5318199d6998ec]: Commencement: Sch. para. 23 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00028]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459); to which there are amendments not relevant to this Order.
+
+[^key-072e04f6409a4478703dc7f0f271a852]: Commencement: Sch. para. 24 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00029]: Footnote: [S.R. 2004 No. 8](https://www.legislation.gov.uk/nisr/2004/8); to which there are amendments not relevant to this Order.
+
+[^key-eefdb79034e38f9902542a5cdd413793]: Commencement: Sch. para. 25 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00030]: Footnote: [S.R. 2004 No. 120](https://www.legislation.gov.uk/nisr/2004/120).
+
+[^key-4f02c4fca496b4a1cead0288067aa2fc]: Commencement: Sch. para. 26 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00031]: Footnote: [S.R. 2004 No. 140](https://www.legislation.gov.uk/nisr/2004/140); to which there are amendments not relevant to this Order.
+
+[^key-04ac0d885e5054b75e34aba53636dae5]: Commencement: Sch. para. 27 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^key-934e781d8465042e2a6b3cd08151aab2]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2005/542) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+
+[^f00032]: Footnote: [S.R. 2005 No. 99](https://www.legislation.gov.uk/nisr/2005/99).
+
+[^key-c29523cdd676cd9193fdbfb6bae5a40c]: Commencement: Sch. para. 28 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00033]: Footnote: [S.R. 2005 No. 160](https://www.legislation.gov.uk/nisr/2005/160).
+
+[^key-0793f7bce8b3a7988965fecbe2462515]: Commencement: Sch. para. 29 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00034]: Footnote: [S.R. 2005 No. 161](https://www.legislation.gov.uk/nisr/2005/161).
+
+[^key-485f09f130f5d9fbf2c99f3e6168a87d]: Commencement: Sch. para. 30 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00035]: Footnote: [S.R. 2005 No. 340](https://www.legislation.gov.uk/nisr/2005/340); to which there are amendments not relevant to this Order.
+
+[^key-527742d9708681c1324295f29ca12a0d]: Commencement: Sch. para. 31 in operation at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/542/article/1/1)
+
+[^f00036]: Footnote: [S.R. 2005 No. 395](https://www.legislation.gov.uk/nisr/2005/395).

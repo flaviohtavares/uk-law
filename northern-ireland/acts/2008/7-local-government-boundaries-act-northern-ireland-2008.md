@@ -1,0 +1,179 @@
+---
+title: Local Government (Boundaries) Act (Northern Ireland) 2008
+id: nia/2008/7
+type: NorthernIrelandAct
+category: primary
+status: revised
+made_date: '2008-05-23'
+text_date: '2016-05-08'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/7
+pdf_urls:
+- http://www.legislation.gov.uk/nia/2008/7/pdfs/niaen_20080007_en.pdf
+- http://www.legislation.gov.uk/nia/2008/7/pdfs/nia_20080007_en.pdf
+- http://www.legislation.gov.uk/nia/2008/7/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Boundaries) Act (Northern Ireland) 2008
+
+> Text as at 2016-05-08.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Local Government (Boundaries) Act (Northern Ireland) 2008
+
+2008 CHAPTER 7
+
+An Act to provide for 11 local government districts in Northern Ireland, for the division of those districts into wards, for the appointment of a Local Government Boundaries Commissioner to recommend the boundaries and names of those districts and wards and the number of wards in each district; and for connected purposes.
+
+\[23rd May 2008\]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-2c861eeab1725a9470d314403945db6a][^key-6098c71cc0958de33ab8344955329702]
+
+## 1. Local government districts and wards[^c19279961][^key-aa06f24cee5b6e8e59660b073536d086][^key-9f98ce60c178aab53f55858e8d1d4e31][^key-b98716bf8d97262ccbe3d2c8b7d52d34][^key-17498c390c133ed276fdc4d6c5ecff00]
+
+(1) For the purposes of local government, Northern Ireland shall be divided into 11 districts (to be known as “**local government districts**”).
+
+(2) The 11 local government districts shall incorporate, respectively, the whole or the major part of the following former local government districts—
+
+- 1. Antrim; Newtownabbey.
+- 2. Ards; North Down.
+- 3. Armagh City and District; Banbridge; Craigavon.
+- 4. Ballymena; Carrickfergus; Larne.
+- 5. Ballymoney; Coleraine; Limavady; Moyle.
+- 6. Belfast.
+- 7. Castlereagh; Lisburn City.
+- 8. Cookstown; Dungannon and South Tyrone Borough; Magherafelt.
+- 9. Derry; Strabane.
+- 10. Down; Newry and Mourne.
+- 11. Fermanagh; Omagh.
+
+(3) Each local government district shall be divided into wards.
+
+(4) The boundaries and names of the local government districts and the number, boundaries and names of the wards into which each of those districts is divided shall be such as are prescribed by an order made under section 50(10) of the principal Act.
+
+(5) Reference in subsection (2) to a former local government district is to that district as constituted on the date on which this Act receives Royal Assent.
+
+## 2. Local Government Boundaries Commissioner
+
+(1) The principal Act is amended as follows.
+
+(2) In section 50 (local government boundaries) for subsections (1) and (2) substitute—
+
+> (1) The Department shall appoint a Local Government Boundaries Commissioner—
+>
+> - (a) in the year 2008; and
+> - (b) thereafter, during the period not less than 8 or more than 12 years from the date of the submission under subsection (6) of the final report of the last previous Commissioner appointed under this subsection.
+>
+> (2) The function of a Commissioner appointed under subsection (1)(a) shall be to make recommendations regarding—
+>
+> - (a) the boundaries and names of the 11 districts mentioned in section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008; and
+> - (b) the number, boundaries and names of the wards into which each district is to be divided.
+
+.
+
+(3) In Schedule 4 (provisions relating to the Commissioner)—
+
+- (a) for paragraph 3(2)(c) substitute—
+
+  > - (c) the Chief Survey Officer of Land and Property Services; and
+
+  ;
+- (b) for paragraph 6(2)(b) substitute—
+
+  > - (b) that he will in due course publish provisional recommendations and cause a public hearing to be held in each of the 11 districts mentioned in section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008.
+
+  ;
+- (c) for paragraph 18 substitute—
+
+  > **18.**
+  >
+  > (1) Subject to sub-paragraphs (2) and (3)—
+  >
+  > - (a) in the district of Belfast the number of wards shall be 60;
+  > - (b) in each other district the number of wards shall be 40.
+  >
+  > (2) Where, having regard to the matters mentioned in paragraph 17, the Commissioner considers it desirable that the number of wards in any district should be more than that specified in sub-paragraph (1), the number of wards in that district may be increased by not more than 5.
+  >
+  > (3) Where, having regard to the matters mentioned in paragraph 17, the Commissioner considers it desirable that the number of wards in any district should be fewer than that specified in sub-paragraph (1), the number of wards in that district may be decreased by not more than 5.
+
+  .
+
+## 3. Consequential amendment and repeals[^c19279981][^key-8ec3131ef147aaeead839c7aa4ef4b49]
+
+(1)[^key-60a2857a85c13e5a4fd5221f9cba0162][^key-e9ed67aa3f1650473c6dcfbcd8785299][^key-b5820327491b4b1c73d8f4e83863643a] In section 1(1) of the principal Act for “the Local Government (Boundaries) Act (Northern Ireland) 1971” substitute “ section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008 ”.
+
+(2) The statutory provisions set out in the Schedule are repealed to the extent mentioned in column 2 of the Schedule.
+
+## 4. Interpretation
+
+(1) In this Act—
+
+- “**the Department**” means the Department of the Environment;
+- “**the principal Act**” means the Local Government Act (Northern Ireland) 1972 (c. 9).
+
+(2) Expressions used in this Act and in the principal Act have the same meaning in this Act as in that Act.
+
+## 5. Commencement
+
+(1) Subject to subsections (2) and (3), this Act comes into operation on Royal Assent.
+
+(2) Section 1 comes into operation—
+
+- (a) for the purposes of—
+  - (i) the exercise by the Department and the Local Government Boundaries Commissioner of their functions under section 50 of, and Schedule 4 to, the principal Act, and
+  - (ii) the exercise by the Secretary of State and the District Electoral Areas Commissioner of their functions under Article 2 of the District Electoral Areas Commissioner (Northern Ireland) Order 1984 (No. 360),
+
+  one week after the date of Royal Assent;
+- (b) for other purposes on such date or dates as the Department may by order appoint.
+
+(3) Section 3(1) and the repeal, by section 3(2) and the Schedule, of the Local Government (Boundaries) Act (Northern Ireland) 1971 (c. 9) come into operation on such date or dates as the Department may by order appoint.
+
+(4) An order under this section may contain such transitional or transitory provisions and such savings as appear to the Department to be necessary or expedient.
+
+## 6. Short title
+
+This Act may be cited as the Local Government (Boundaries) Act (Northern Ireland) 2008.
+
+## SCHEDULE — REPEALS[^c19280041]
+
+Section 3
+
+| Short Title | Extent of repeal |
+| --- | --- |
+| The Local Government (Boundaries) Act (Northern Ireland) 1971 (c. 9) | The whole Act. |
+| The Local Government (Boundaries) (Northern Ireland) Order 2006 (NI 8) | Article 1(3) to (5).<br>Article 3.<br>Article 5(1), (3)(a) and (b) and (5).<br>Schedule 2. |
+
+## Annotations
+
+[^key-2c861eeab1725a9470d314403945db6a]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/7) power to make supplementary and transitional provisions conferred (20.5.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 124(1)(b)](https://www.legislation.gov.uk/nia/2014/8/section/124/1/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)
+
+[^key-6098c71cc0958de33ab8344955329702]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c19279961]: Commencement: S. 1 partly in force; s. 1 in force at 31.5.2008 for specified purposes, see s. 5(2)
+
+[^key-aa06f24cee5b6e8e59660b073536d086]: Commencement: S. 1 in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2)
+
+[^key-9f98ce60c178aab53f55858e8d1d4e31]: Commencement: S. 1 in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2))
+
+[^key-b98716bf8d97262ccbe3d2c8b7d52d34]: Commencement: S. 1 in operation at 26.5.2014 for specified purposes and with effect in accordance with art. 4(1) of the amending S.R. by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2))
+
+[^key-17498c390c133ed276fdc4d6c5ecff00]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2008/7/section/1) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
+
+[^c19279981]: Commencement: S. 3 partly in force; s. 3(2) in force at 23.5.2008 for specified purposes, see s. 5(3)
+
+[^key-8ec3131ef147aaeead839c7aa4ef4b49]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2008/7/section/3) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
+
+[^key-60a2857a85c13e5a4fd5221f9cba0162]: Commencement: S. 3(1) in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2))
+
+[^key-e9ed67aa3f1650473c6dcfbcd8785299]: Commencement: S. 3(1) in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2)
+
+[^key-b5820327491b4b1c73d8f4e83863643a]: Commencement: S. 3(1) in operation at 26.5.2014 for specified purposes and with effect in accordance with art. 4(1) of the amending S.R. by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2))
+
+[^c19280041]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2008/7/schedule) partly in force; [Sch.](https://www.legislation.gov.uk/nia/2008/7/schedule) in force at 23.5.2008 for specified purposes, see [s. 5(3)](https://www.legislation.gov.uk/nia/2008/7/section/5/3)

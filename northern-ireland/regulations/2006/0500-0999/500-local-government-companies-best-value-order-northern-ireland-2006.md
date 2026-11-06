@@ -1,0 +1,129 @@
+---
+title: Local Government Companies (Best Value) Order (Northern Ireland) 2006
+id: nisr/2006/500
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-12-05'
+text_date: '2012-04-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/500
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/500/pdfs/nisrem_20060500_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/500/pdfs/nisr_20060500_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/500/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Companies (Best Value) Order (Northern Ireland) 2006
+
+> Text as at 2012-04-02.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 500
+
+LOCAL GOVERNMENT
+
+Local Government Companies (Best Value) Order (Northern Ireland) 2006
+
+Made
+
+5th December 2006
+
+Coming into operation
+
+22nd January 2007
+
+To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
+
+The Department of the Environment makes the following Order in exercise of the powers conferred upon it by section 3(2) of the Local Government (Best Value) Act (Northern Ireland) 2002[^f00001].[^key-fe1f77be533f9f3cfdaf6bb93657c019][^key-57ba34fe53cb1adb995482183edafa13]
+
+In accordance with section 3(6) of that Act, the Department has consulted persons appearing to it to represent councils and such other persons as appeared to the Department to be representative of interests affected by the proposals.[^key-fe1f77be533f9f3cfdaf6bb93657c019][^key-57ba34fe53cb1adb995482183edafa13]
+
+## 1. Citation, commencement and interpretation[^key-23c58e09d8370f574020e83d9367cab3]
+
+(1) This Order may be cited as the Local Government Companies (Best Value) Order (Northern Ireland) 2006 and shall come into operation on 22nd January 2007.
+
+(2) In this Order—
+
+- “company” has the meaning assigned to it by Article 3 of the Companies (Northern Ireland) Order 1986[^f00002]; and
+- “specified functions” means functions of district councils under legislation specified in the Schedule.
+
+## 2. Power of district councils to establish or participate in companies[^key-27caf5a75f040f801782d58dab821c62]
+
+In exercising specified functions, a council may establish or participate in companies in order to carry out its duty under section 1(1) of the Local Government (Best Value) Act (Northern Ireland) 2002.
+
+Sealed with the Official Seal of the Department of the Environment on 5th December 2006
+
+John Ritchie
+
+A senior officer of the Department of the Environment
+
+## SCHEDULE — Specified functions[^key-0d765a280d8c8f8aafb0b508e3b59d79]
+
+Article 1(2)
+
+[^key-0d765a280d8c8f8aafb0b508e3b59d79]
+
+- Section 18 of the Local Government Act (Northern Ireland) 1966[^f00003] (district council powers respecting arts and entertainment).
+- Article 67 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00004] (co-operation between Health and Social Services Boards, district councils, etc).
+- Article 4 of the Consumer Protection and Advice (Northern Ireland) Order 1977[^f00005] (consumer advice).
+- Part III of the Access to the Countryside (Northern Ireland) Order 1983[^f00006] (access to open country).
+- Article 10 of the Recreation and Youth Service (Northern Ireland) Order 1986[^f00007] (provision by district councils of facilities for recreational, social, physical and cultural activities).
+- Article 30-32 of the Tourism (Northern Ireland) Order 1992[^f00008] (functions of district councils in relation to tourism).
+- Article 17 of the Airports (Northern Ireland) Order 1994[^f00009] (power of district councils to provide and maintain airports).
+- Litter (Northern Ireland) Order 1994[^f00010].
+- Waste and Contaminated Land (Northern Ireland) Order 1997[^f00011].
+- Article 12 of the Museums and Galleries (Northern Ireland) Order 1998[^f00012] (provision and maintenance of museums and galleries by district councils).
+- Article 8 of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^f00013] (powers of district councils in relation to economic development).
+- Article 9 of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002 (powers of district councils in relation to community safety).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 1(1) of the Local Government (Best Value) Act (Northern Ireland) 2002 requires a district council to make arrangements for continuous improvement in the way in which its functions are exercised, having regard to a combination of economy, efficiency and effectiveness. This Order provides that, in exercising a function specified in the Schedule, a council may establish or participate in companies in order to carry out its duty under section 1(1) of that Act.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2002/4)
+
+[^key-fe1f77be533f9f3cfdaf6bb93657c019]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/500) apply (20.8.2008) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [arts. 1](https://www.legislation.gov.uk/nisr/2008/310/article/1), [8](https://www.legislation.gov.uk/nisr/2008/310/article/8)
+
+[^key-57ba34fe53cb1adb995482183edafa13]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/500) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [art. 7](https://www.legislation.gov.uk/nisr/2012/10/article/7)
+
+[^key-23c58e09d8370f574020e83d9367cab3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/500/article/1) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
+
+[^f00002]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
+
+[^key-27caf5a75f040f801782d58dab821c62]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/500/article/2) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
+
+[^key-0d765a280d8c8f8aafb0b508e3b59d79]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/500/schedule) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
+
+[^f00003]: Footnote: [1966 c.38 (N.I.)](https://www.legislation.gov.uk/apni/1966/38) as amended by [S.R. & O. (N.I.) 1973/285](https://www.legislation.gov.uk/nisro/1973/285)
+
+[^f00004]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 67 was amended by [S.I. 1975/417 (N.I. 2)](https://www.legislation.gov.uk/nisi/1975/417), [S.I. 1990/247 (N.I. 3)](https://www.legislation.gov.uk/nisi/1990/247) and [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
+
+[^f00005]: Footnote: [S.I. 1977/595 (N.I. 6)](https://www.legislation.gov.uk/nisi/1977/595)
+
+[^f00006]: Footnote: [S.I. 1983/1895 (N.I. 18)](https://www.legislation.gov.uk/nisi/1983/1895); Part III was amended by [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170)
+
+[^f00007]: Footnote: [S.I. 1986/2232 (N.I. 25)](https://www.legislation.gov.uk/nisi/1986/2232)
+
+[^f00008]: Footnote: [S.I. 1992/235 (N.I. 3)](https://www.legislation.gov.uk/nisi/1992/235)
+
+[^f00009]: Footnote: [S.I. 1994/426 (N.I. 1)](https://www.legislation.gov.uk/nisi/1994/426)
+
+[^f00010]: Footnote: [S.I. 1994/1896 (N.I. 10)](https://www.legislation.gov.uk/nisi/1994/1896) as amended by [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276), [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772), [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778), [S.R. 2004 No. 73](https://www.legislation.gov.uk/nisr/2004/73) and [S.I. 2005/1968 (N.I. 18)](https://www.legislation.gov.uk/nisi/2005/1968)
+
+[^f00011]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778) as amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662), [S.I. 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153), [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21), [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46) and [S.R. 2004 No. 277](https://www.legislation.gov.uk/nisr/2004/277)
+
+[^f00012]: Footnote: [S.I. 1998/261 (N.I. 2)](https://www.legislation.gov.uk/nisi/1998/261)
+
+[^f00013]: Footnote: [S.I. 2002/3149 (N.I. 3)](https://www.legislation.gov.uk/nisi/2002/3149)

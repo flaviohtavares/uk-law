@@ -1,0 +1,334 @@
+---
+title: The Court Files Privileged Access Rules (Northern Ireland) 2016
+id: nisr/2016/123
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-03-04'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/123
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/123/pdfs/nisrem_20160123_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/123/pdfs/nisr_20160123_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/123/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Court Files Privileged Access Rules (Northern Ireland) 2016
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 123
+
+Public Record Office
+
+The Court Files Privileged Access Rules (Northern Ireland) 2016
+
+Made
+
+4th March 2016
+
+Coming into operation
+
+30th March 2016
+
+The Department of Culture, Arts and Leisure [^c22845531], makes the following Rules in exercise of the powers conferred by section 9(1) of the Public Records Act 1923 [^c22845541] and now vested in it [^c22845551].
+
+## 1. Citation and commencement
+
+These Rules may be cited as The Court Files Privileged Access Rules (Northern Ireland) 2016 and shall come into operation on 30th March 2016.
+
+## 2. Interpretation
+
+In these Rules—
+
+- “**Charity**” has the same meaning as in the Charities Act (Northern Ireland) 2008 [^c22845561].
+- “**Court files**” means records created by, or originating from, any court in Northern Ireland, including records relating to inquests.
+- “**Incident**” means an event or series of events which caused serious physical or psychological harm to a person.
+- “**Minister**” means the Minister responsible for the Public Record Office of Northern Ireland and “**Department**” shall be construed accordingly.
+- “**Office**” means the Public Record Office of Northern Ireland.
+- “**Partner**” includes “Director”.
+- “**Relevant authority**” means:
+  - (a) In the case of a court file which has been transferred to the Office from a government department in the charge of a Minister of the Crown, the Minister of the Crown who appears to the Minister to be primarily concerned;
+  - (b) In the case of a court file which has been transferred to the Office from a Northern Ireland Department, the Northern Ireland Minister who appears to the Minister to be primarily concerned; or
+  - (c) In the case of a record transferred to the Office by any other person, the person who appears to the Minister to be primarily concerned.
+- “**Solicitor**” has the same meaning as in article 3 of the Solicitors (Northern Ireland) Order 1976.
+- “[^key-96ec57841a9632e30ab110a14cd7d365]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+
+## 3. Persons who may apply for court files
+
+(1) An application for a court file held by the Office will be accepted from a person (an “applicant”) who, at the time of the application, is aged eighteen years or older and who meets any of the following eligibility criteria—
+
+- (a) a person who appears to the Department to be—
+  - (i) a person who has sustained physical or psychological injury as a result of an incident which has been recorded in a court file;
+  - (ii) a person who has been bereaved as a result of an incident which has been recorded in a court file; or
+  - (iii) a person who has been seriously adversely affected, in a manner other than as described at (i) and (ii), as a result of an incident which has been recorded in a court file.
+- (b) a solicitor acting on behalf of a person who meets any of the eligibility criteria set out at rule 3(1)(a).
+- (c) an employee of a charity acting on behalf of a person who meets any of the eligibility criteria set out at rule 3(1)(a).
+
+## 4. Applications for a court file
+
+(1) An application for a court file under these Rules shall—
+
+- (a) be made in writing on the relevant form which shall be published from time to time via the official web-site for the Office;
+- (b) be signed by the applicant; and
+- (c) contain such particulars as the Department may reasonably require.
+
+(2) An application for a court file under these Rules shall be made to the Office at the address specified on the form.
+
+(3) The Department may request such further particulars as it requires.
+
+(4) Where an application for a court file is made by, or on behalf of, a person who meets any of the eligibility criteria set out at rule 3(1)(a), that person must supply a completed form and provide a signed copy of the undertaking set out at Schedule 1.
+
+(5) Where an application for a court file is made by, or on behalf of, two or more persons acting together, each of whom meets any of the eligibility criteria set out at rule 3(1)(a), each person must supply a completed form and provide a signed copy of the undertaking set out at Schedule 1.
+
+(6) Where an application for a court file is made by a solicitor who meets the eligibility criteria set out at rule 3(1)(b), a partner in the legal firm must supply a completed form and provide a signed copy of the undertaking set out at Schedule 2.
+
+(7) Where an application for a court file is made by an employee of a charity who meets the eligibility criteria set out at rule 3(1)(c), each person requiring access to the file must supply a completed form and provide a signed copy of the undertaking set out at Schedule 3.
+
+## 5. Information that may be released
+
+A court file shall be deemed eligible for release under these Rules only to the extent that the release of the information complies with the Data Protection Principles set out in —[^key-749efaf5abb90fb4bf37712579327509]
+
+- (a) Article 5(1) of the UK GDPR[^key-060a983b27021fee6000340e2685791f] , and
+- (b) section 34(1) of the Data Protection Act 2018.
+
+## 6. Ministerial decision and duty on the Department to consult
+
+Prior to the Minister making a decision about the release of a court file under these Rules the Department shall consult the relevant authorities, and, were the Relevant Authority in any particular case is not a Minister of the Crown, the Department, in addition, to consulting the Relevant Authority shall also consult the Secretary of State for Northern Ireland.
+
+## 7. Provision of information
+
+(1) An applicant who meets the eligibility criteria set out at rule 3(1) may be provided by the Department with all information deemed eligible for release.
+
+(2) Without prejudice to the generality of rule 7(3), the Department shall review any requested court file to ensure that its release complies with the Data Protection Principles set out in —[^key-c9c8d67f9b8ab2e12b83ee684f9eba49]
+
+- (a) Article 5(1) of the UK GDPR[^key-b9b352b4e3bd6abcac5fbc112b5b95c6] , and
+- (b) section 34(1) of the Data Protection Act 2018.
+
+(3) The Minister may withhold the whole or part of any court file and may impose such conditions, as the Minister sees fit, on the release of the whole or part of any court file.
+
+(4) In order for the Department to release a court file to an applicant under these Rules, the applicant shall—
+
+- (a) attend the Office at a time agreed by the Office; and
+- (b) produce photographic evidence of identity which is reasonably capable of establishing their identity.
+
+(5) Without prejudice to the generality of rule 7(4), the Department may release a court file to an applicant by such other arrangements as the Department may determine where it appears to the Department that it is appropriate to do so.
+
+## 8. Conditions applicable to a released court file
+
+(1) An applicant to whom the Department has released a court file under these Rules must—
+
+- (a) keep the court file confidential and stored securely;
+- (b) not copy, or permit the copying of, the court file other than as permitted by rule 8(3);
+- (c) not reformat, or permit the reformatting of, the court file;
+- (d) not publish, or permit the publication of, the court file, except where such permission has been sought and granted under rule 9; and
+- (e) notify the Office in writing of any change of name or address.
+
+(2) A person who is subject to the undertaking at Schedule 1 may share with a solicitor a court file released under these Rules for the purposes of obtaining legal advice.
+
+(3) A solicitor who is subject to the undertaking at Schedule 2 may copy, or permit the copying of, a court file released under these Rules for the purposes of—
+
+- (a) sharing the court file with counsel;
+- (b) sharing the court file with medical or other expert witnesses; or
+- (c) making a submission to the Attorney General to request a new inquest under section 14(1) of the Coroners Act (Northern Ireland) 1959 [^c22845581].
+
+(4) An applicant who receives a court file under these Rules shall within ten years of the date on which the Department released the court file—
+
+- (a) return to the Office the court file and any copy of the court file; or
+- (b) apply in writing to the Department for permission to retain the court file for a further period of time.
+
+(5) Upon receipt of an application under rule 8(4) the Minister may permit the applicant to retain the court file for such further period of time as the Minister may decide.
+
+## 9. Application to publish released court file
+
+(1) An applicant may seek the Minister's permission to publish a court file released under these Rules by applying in writing to the Office.
+
+(2) An application must—
+
+- (a) identify the information intended for publication;
+- (b) identify the purposes for which publication is required; and
+- (c) provide any other information relevant to the application.
+
+(3) Prior to the Minister making a decision about the publication of the court file the Department shall consult the relevant authorities.
+
+(4) Without prejudice to the generality of the Minister's power under rule 9(1) to grant permission, permission will be granted to use information for court purposes in any case in which the applicant's rights under Article 6 of the European Convention for the Protection of Human Rights and Fundamental Freedoms so require.
+
+## 10. Application for review of a decision
+
+(1) An applicant who meets any of the eligibility criteria set out at rule 3(1) who has been refused access to a court file under these Rules, may apply in writing to the Minister for a review of the decision to refuse access to that court file.
+
+(2) An application for review under rule 10(1) must be made within one calendar month of the date of the Department issuing notification that all or part of a court file will not be released.
+
+(3) An application for review under rule 10(1) must be on the grounds that—
+
+- (a) the process was not properly followed; or
+- (b) all of the relevant information was not available to the Minister at the time the decision was taken.
+
+(4) An application for review under rule 10(1) must detail—
+
+- (a) confirmation of the applicant's eligibility;
+- (b) the grounds for the review; and
+- (c) relevant information that was not available to the Minister at the time that the decision was taken.
+
+(5) Prior to the Minister making a decision the Department shall consult the relevant authorities.
+
+(6) The Minister may in respect of an application for review under rule 10(1)—
+
+- (a) dismiss the application; or
+- (b) allow the application and overturn the decision in whole or in part.
+
+(7) The Department shall inform the applicant in writing of the Minister's decision.
+
+## 11. Recall of released court files
+
+(1) Where the Minister has reasonable cause to believe that an applicant has failed to comply with an undertaking provided under rule 4, or conditions applied under rule 7(3) and rule 8, the Minister may require that the applicant return court files received under these Rules, and any copies, within such period as the Minister shall specify.
+
+(2) Where a requirement is made under rule 11(1), it shall be the duty of the applicant to comply with it.
+
+Sealed with the Official Seal of the Department of Culture, Arts and Leisure on 4 March 2016
+
+Michael Willis
+
+A senior officer of the
+
+Department of Culture, Arts and Leisure
+
+## SCHEDULE 1 — Undertaking to be signed by any applicant who meets the criteria at rule 3(1)(a).
+
+Rule 4(4)(5)
+
+UNDERTAKING in relation to privileged access to court files for
+
+(1) I undertake to keep the files and all their contents in strict confidence and to take all reasonable security precautions in the safekeeping of the information they contain.
+
+(2) I understand that I may share the files or their contents with a solicitor for the purposes of obtaining legal advice. I undertake not to share the files or any of their contents with anyone other than a solicitor and not to permit any other person to share the files or any of their contents, other than as permitted by the Court Files Privileged Access Rules (Northern Ireland) 2016.
+
+(3) I undertake not to copy the files or any of their contents and not to permit any other person to copy the files or any of their contents, other than as permitted by the Court Files Privileged Access Rules (Northern Ireland) 2016.
+
+(4) I undertake not to reformat the files or any of their contents and not to permit any other person to reformat the files or any of their contents.
+
+(5) I undertake not to publish the files or any of their contents and not to permit any other person to publish the files or any of their contents, other than as permitted by the Court Files Privileged Access Rules (Northern Ireland) 2016.
+
+(6) I confirm that within 10 years of \[DATE\], which is the date on which the Department released the files to me, I will EITHER:
+
+- (a) return the files to PRONI, OR
+- (b) write to PRONI to request permission to keep the files for a further period of time.
+
+(7) I understand that a breach of this undertaking may result in legal action against me.
+
+Name
+
+Address
+
+Signature
+
+Date
+
+## SCHEDULE 2 — Undertaking to be signed by a Partner in a Legal Firm who meets the criteria at rule 3(1)(b).
+
+Rule 4(6)
+
+UNDERTAKING in relation to court files for
+
+(1) I undertake to keep the files and all of the contents in strict confidence and to take all reasonable security precautions in the safekeeping of the information they contain.
+
+(2) I undertake not to copy the files, or any of the contents, save for the purposes of obtaining or providing legal advice.
+
+(3) I undertake not to share the files, or any of the contents, with any third party and not to disseminate them further without the express consent of the Department except for the purposes of obtaining legal advice or for obtaining relevant expert opinion required in connection with the formulation of such advice or for making any application to the Attorney General for the exercise of his power under section 14(1) of the Coroners Act (Northern Ireland) 1959.
+
+(4) I undertake not to reformat the files or any of their contents and not to permit any other person to reformat the files or any of their contents.
+
+(5) I undertake not to publish the files or any of their contents and not to permit any other person to publish the files or any of their contents, other than as permitted by the Court Files privileged Access Rules (Northern Ireland) 2016.
+
+(6) I confirm that within 10 years of \[DATE\], which is the date on which the Department released the files to me, I will EITHER:
+
+- (a) return the files to PRONI, OR
+- (b) write to PRONI to request permission to keep the files for a further period of time.
+
+(7) I understand that a breach of this undertaking may result in a complaint against me to the Law Society or in legal action against me or my firm.
+
+Name
+
+Position in legal firm
+
+Name of legal firm
+
+Address of legal firm
+
+Signature
+
+Date
+
+## SCHEDULE 3 — Undertaking to be signed by an employee of a charity who meets the criteria at rule 3(1)(c).
+
+Rule 4(7)
+
+UNDERTAKING in relation to privileged access to court files for
+
+(1) I undertake to keep the files and all their contents in strict confidence and to take all reasonable security precautions in the safekeeping of the information they contain.
+
+(2) I undertake not to share the files or any of their contents and not to permit any other person to share the files or any of their contents.
+
+(3) I undertake not to copy the files or any of their contents and not to permit any other person to copy the files or any of their contents.
+
+(4) I undertake not to reformat the files or any of their contents and not to permit any other person to reformat the files or any of their contents.
+
+(5) I undertake not to publish the files or any of their contents and not to permit any other person to publish the files or any of their contents.
+
+(6) I confirm that within 10 years of \[DATE\], which is the date on which the Department released the files to me, I will EITHER:
+
+- (a) return the files to PRONI, OR
+- (b) write to PRONI to request permission to keep the files for a further period of time.
+
+(7) I understand that a breach of this undertaking may result in legal action against me.
+
+Name
+
+Position in charity
+
+Name of charity and charity registration number
+
+Address of charity
+
+Signature
+
+Date
+
+*(This note is not part of the Regulations)*
+
+These Rules enable the Department to establish procedures to allow privileged access to information contained in court files.
+
+The Rules enable the Department to impose specific conditions to determine information eligible for release under the Rules. The Rules place a duty on the Department to consult relevant authorities i.e. the Northern Ireland Office, the Department of Justice and the public authorities that transferred the files to the Public Record Office within which the requested information is contained.
+
+The Rules set out the criteria a person must fulfil to be eligible to receive information under the Rules, the process for application and the conditions applicable to information released under these Rules. The Rules make provision for applicants to apply for a review of a decision to withhold information contained in a court file. The Department may recall any information issued under these Rules.
+
+## Annotations
+
+[^c22845531]: Marginal citation: Established by the [Departments (Northern Ireland) Order 1999 (S.I. 1999/283 (N.I. 1))](https://www.legislation.gov.uk/nisi/1999/283), [Article 3(1)](https://www.legislation.gov.uk/nisi/1999/283/article/3/1)
+
+[^c22845541]: Marginal citation: [1923 c.20 (N.I.)](https://www.legislation.gov.uk/apni/1923/20)
+
+[^c22845551]: Marginal citation: S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481) (N.I.) Article 6(a) and Schedule 4 Part 1
+
+[^c22845561]: Marginal citation: [2008 c.12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12)
+
+[^key-96ec57841a9632e30ab110a14cd7d365]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2016/123/rule/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 103](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/103) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-749efaf5abb90fb4bf37712579327509]: Textual amendment: Words in rule 5 substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 408](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/408) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-060a983b27021fee6000340e2685791f]: Textual amendment: Words in [rule 5(a)](https://www.legislation.gov.uk/nisr/2016/123/rule/5/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 104](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/104) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9c8d67f9b8ab2e12b83ee684f9eba49]: Textual amendment: Words in rule 7(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 409](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/409) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-b9b352b4e3bd6abcac5fbc112b5b95c6]: Textual amendment: Words in [rule 7(2)(a)](https://www.legislation.gov.uk/nisr/2016/123/rule/7/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/105) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22845581]: Marginal citation: [1959 c.15 (N.I.)](https://www.legislation.gov.uk/apni/1959/15)

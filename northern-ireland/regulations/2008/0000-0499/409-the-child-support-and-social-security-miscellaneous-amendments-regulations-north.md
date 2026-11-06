@@ -1,0 +1,221 @@
+---
+title: The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008
+id: nisr/2008/409
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-10-03'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/409
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/409/pdfs/nisr_20080409_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/409/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 409
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008
+
+Made
+
+3rd October 2008
+
+Coming into operation
+
+27th October 2008
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 29(2), (4), (6) and (7), 32(2)(bb), 47(1) and (2)(b) and 48(4) of, and paragraphs 10(1) and (2) and 11 of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002], and section 28 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003].
+
+## 1. Citation and commencement[^key-c7ea772d517d81ae6702f97faf8bf5e1]
+
+These Regulations may be cited as the Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 and shall come into operation on 27th October 2008.
+
+## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-9d233937194b93c6dfff9b7e7ca595fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-ea2762ba5faa57b988057e650f0ca0bb]
+
+(1) The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00005] are amended as follows.
+
+(2) In regulation 3 (method of payment)—
+
+- (a) in paragraph (1)—
+  - (i) omit sub-paragraph (h)[^f00006], and
+  - (ii) after sub-paragraph (h), add—
+
+    > - (i) by deduction from earnings order.
+
+    ;
+- (b) in paragraph (1A)[^f00007], omit sub-paragraph (c); and
+- (c) after paragraph (2), add—
+
+  > (3) Where the Department is considering specifying a deduction from earnings order by virtue of paragraph (1)(i), that method of payment is not to be used in any case where there is good reason not to use it.
+  >
+  > (4) For the purposes of paragraph (3) the matters which are to be taken into account in determining whether there is good reason not to use that method of payment are whether the making of a deduction from earnings order is likely to result in the disclosure of the parentage of a child and the impact of that disclosure on—
+  >
+  > - (a) the liable person’s employment;
+  > - (b) any relationship between the liable person and a third party.
+  >
+  > (5) For the purposes of paragraph (3) the circumstances in which good reason not to use that method of payment is to be regarded as existing are—
+  >
+  > - (a) a member of the liable person’s or parent with care’s family is employed by the same relevant employer as the liable person;
+  > - (b) that family member’s employment requires knowledge of the relevant employer’s functions in giving effect to the deduction from earnings order; and
+  > - (c) as a consequence of these circumstances the liable person’s employment status or family relationships may be adversely affected by the use of a deduction from earnings order as a method of payment.
+  >
+  > (6) For the purposes of paragraph (3) the matters which are not to be taken into account in determining whether there is good reason not to use that method of payment are—
+  >
+  > - (a) the liable person’s preference for a different method of payment;
+  > - (b) the liable person’s preference for a relevant employer not to be informed about that parent’s maintenance liability;
+  > - (c) that a third party would become aware of the liable person’s maintenance liability,
+  >
+  > unless they are relevant to any matter falling within paragraph (4) or circumstance falling within paragraph (5).
+  >
+  > (7) Where the Department is considering specifying the method of payment set out in paragraph (1)(i) and decides that there is no good reason not to use it, that method is not to be specified until—
+  >
+  > - (a) the time within which an appeal against that decision may ordinarily be brought (including any period during which a further appeal may ordinarily be brought) has ended; or
+  > - (b) if an appeal is brought on the grounds set out in regulation 22(3A), the time at which proceedings on the appeal (including any proceedings on a further appeal) have been concluded.
+  >
+  > (8) Nothing in this regulation is to prevent the Department exercising its powers under Article 31 of the Order to make a deduction from earnings order where the Department considers it is appropriate in the circumstances of the case, unless it has specified a deduction from earnings order as a method of payment by virtue of paragraph (1)(i).
+  >
+  > (9) In this regulation—
+  >
+  > - “couple” means—
+  >   - (a) a man and woman who are married to each other and are members of the same household;
+  >   - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  >   - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  >   - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  >   and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;
+  > - “family” means partner, parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, grand-parent, grand-child, uncle, aunt, nephew, niece, or if any of the preceding persons is one member of a couple, the other member of that couple;
+  > - “partner” means where a person is a member of a couple, the other member of that couple; and
+  > - “relevant employer” means the employer of a liable person in respect of whom the order under Article 31 of the Order would be made but for paragraph (3).
+
+  .
+
+(3)[^key-b22dbff82934ba1718140aac94b66671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 22[^f00009] (appeals against deduction from earnings orders)—
+
+- (a) at the beginning of paragraph (2), insert “Subject to paragraph (2A),”;
+- (b) after paragraph (2), insert—
+
+  > (2A) Any appeal against a decision of the Department that the exclusion required by regulation 3(3) does not apply is—
+  >
+  > - (a) where the liable person is resident in the United Kingdom, to be made within 28 days of the date on which that decision is given or sent to the liable person;
+  > - (b) where the liable person is not resident in the United Kingdom, to be made within 56 days of the date on which that decision is given or sent to the liable person.
+
+  ;
+- (c) at the beginning of paragraph (3), insert “Subject to paragraph (3A),”;
+- (d) after paragraph (3), insert—
+
+  > (3A) Where the Department is considering specifying a deduction from earnings order as a method of payment under regulation 3(1)(i), an appeal may also be made against a decision of the Department that the exclusion required by regulation 3(3) does not apply.
+
+  ;
+- (e) at the beginning of paragraph (4), insert “Subject to paragraph (5),”; and
+- (f) after paragraph (4), add—
+
+  > (5) Where an appeal is brought on the grounds set out in paragraph (3A), and the court is satisfied that the appeal should be allowed, the court is to refer the case to the Department for it to specify whichever of the methods of payment set out in regulation 3(1) it considers to be appropriate in the circumstances.
+
+  .
+
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-717b24ab8803557adc002268820f097a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^key-717b24ab8803557adc002268820f097a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^key-717b24ab8803557adc002268820f097a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Child Support (Transitional Provisions) Regulations[^key-73908688004b2655b2c5655fb109d5a6]
+
+In regulation 15(3A) of the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001[^f00019] (case conversion date), for paragraph (b) substitute—
+
+> - (b) A is the non-resident parent in relation to the maintenance calculation and B is the absent parent in relation to the maintenance assessment.
+
+.
+
+Sealed with the Official Seal of the Department for Social Development on 3rd October 2008
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Order)
+
+The powers exercised to make these Regulations are those contained in the Child Support (Northern Ireland) Order 1991 (“the Order”). Some of those powers are conferred by provisions of the Order prior to the amendments made to it by the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the 2000 Act”), some of which amendments are not fully in operation, and relate to the child support scheme which was in operation prior to 3rd March 2003, and which remains in operation for the purposes of certain cases (“the old scheme”). Other powers are conferred by provisions of the Order as amended by the 2000 Act, which relate to the child support scheme provided for by those amendments, which came into operation for the purposes of specified categories of cases on 3rd March 2003 (*see* the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003) (“the new scheme”). These Regulations also exercise powers inserted into the Order by the Child Maintenance Act (Northern Ireland) 2008.
+
+Regulation 2 amends regulation 29A of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 to insert new paragraphs (8) and (9). The effect of this is to enable the effective date of a maintenance assessment to be aligned with the first day of the maintenance period of a maintenance calculation or assessment that has previously been, but has ceased to be, in force in relation to the non-resident parent. This amendment applies to the old scheme.
+
+Regulation 3 amends the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992 (“the Collection and Enforcement Regulations”).
+
+Regulation 3(2)(a) amends regulation 3 of the Collection and Enforcement Regulations to make provision omitting a voluntary deduction from earnings arrangement from the methods of payment which may be specified by the Department. The Department will be able to specify a deduction from earnings order (“an order”) as a standard method of payment. Paragraph (2)(b) makes a consequential amendment.
+
+Regulation 3(2)(c) inserts new paragraphs (3) to (9) in regulation 3 of the Collection and Enforcement Regulations. Provision is made for certain matters to be considered before the Department decides that an order is an appropriate method for the collection of maintenance. For example, matters which are and which are not to be taken into account, and the circumstances which are to be regarded as existing, when determining whether there is good reason not to use that method of payment. The period of time during which an order may not be specified as a method of collection is also provided for. The regulation makes provision which allows the Department to make an order where it considers it is appropriate in the circumstances of the case, unless it has specified an order as a method of payment. These amendments apply to the old scheme and the new scheme.
+
+Regulation 3(3) amends regulation 11 of the Collection and Enforcement Regulations to insert new paragraphs (5) to (8). These paragraphs set out how the protected earnings rate is to be calculated where a liable person has more than one employer, and the Department makes a deduction from earnings order against that person in respect of more than one employer. This paragraph also makes provision for a case where a liable person has more than one employer and has shown good reason not to make a deduction from earnings order in respect of one of those employers. These amendments apply to the old scheme.
+
+Regulation 3(4) amends regulation 22 of the Collection and Enforcement Regulations inserting new paragraphs (2A), (3A) and (5). Inserted paragraph (2A) provides that an appeal against a decision to make a deduction from earnings order is to be made within 28 days of the date on which that decision is given or sent to the liable person, where the liable person is a resident of the United Kingdom, and within 56 days where the liable person is not a resident of the United Kingdom. Inserted paragraph (3A) provides that a liable person may appeal against the decision of the Department that the exclusion required by regulation 3(3) (that a deduction from earnings order is not to be used as a method of payment where there is good reason not to use it) does not apply. Inserted paragraph (5) provides that where the magistrates’ court is satisfied that an appeal should be allowed, it is to refer the case to the Department to specify the method of payment. These amendments apply to both the old and new schemes.
+
+Regulation 4 amends regulation 3A of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 to add new paragraphs (7) and (8). Inserted paragraph (7) extends the categories of case to which Article 18 of the Order applies to a decision of the Department not to make a maintenance calculation. This amendment applies to the new scheme.
+
+Regulation 5 amends the Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001 to insert regulation 28B. This has the same effect as regulation 2 but in relation to the new scheme.
+
+Regulation 6 amends paragraph 6(3) of the Schedule to the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001 to omit the words “made in anticipation of the calculation of profits” from that paragraph so that, where a person receives a commission or bonus as part of his earnings, that commission or bonus does not have to be made in anticipation of the calculation of profits to be taken into account under that paragraph for the purposes of calculating net income. This amendment applies to the new scheme.
+
+Regulation 7 amends the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001 (“the Transitional Provisions Regulations”) by removing sub-paragraph (b)(ii) of regulation 15(3A). This means that child support cases will no longer be converted in accordance with regulation 15(2) of the Transitional Provisions Regulations if a maintenance calculation is made with respect to a person with care who is living with someone who is a person with care in relation to a maintenance assessment. This amendment is consequential upon the repeal of Article 4 of the Child Support (Northern Ireland) Order 1995, which will abolish the Child Maintenance Bonus.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 29(2) is amended by section 1(2) of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4), and paragraphs (4), (6) and (7) were added by section 12 of the [Child Maintenance Act (Northern Ireland) 2008 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2008/10); Article 32(2)(bb) was inserted by paragraph 24 of Schedule 3 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000; Article 47(2)(b) was amended by paragraph 3 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)), and paragraph 27 of Schedule 3 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000; paragraph 10(1) and (2) of Schedule 1 to the Child Support (Northern Ireland) Order 1991 relates to cases for which the amendments in the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 have been commenced; paragraph 11 of Schedule 1 is amended by section 1(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^key-c7ea772d517d81ae6702f97faf8bf5e1]: Commencement: Reg. 1 in operation at 27.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/409/regulation/1)
+
+[^key-9d233937194b93c6dfff9b7e7ca595fa]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/409/regulation/2) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-ea2762ba5faa57b988057e650f0ca0bb]: Commencement: Reg. 3 in operation at 27.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/409/regulation/1)
+
+[^f00005]: Footnote: [S.R. 1992 No.390](https://www.legislation.gov.uk/nisr/1992/390); relevant amending rules are [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162), [S.R. 1996 No. 317](https://www.legislation.gov.uk/nisr/1996/317), [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246), [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15), [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273) and [S.R. 2007 No. 347](https://www.legislation.gov.uk/nisr/2007/347)
+
+[^f00006]: Footnote: Paragraph (h) was inserted by regulation 3(2)(a) of [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273)
+
+[^f00007]: Footnote: Paragraph 1A was inserted by regulation 3(4)(b) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15) and is substituted by regulation 3(2)(b) of [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273)
+
+[^key-b22dbff82934ba1718140aac94b66671]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2008/409/regulation/3/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^f00009]: Footnote: Regulation 22 was amended by regulation 4(2) of [S.R. 2007 No. 347](https://www.legislation.gov.uk/nisr/2007/347)
+
+[^key-717b24ab8803557adc002268820f097a]: Textual amendment: [Regs. 4-6](https://www.legislation.gov.uk/nisr/2008/409/regulation/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-73908688004b2655b2c5655fb109d5a6]: Commencement: Reg. 7 in operation at 27.10.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/409/regulation/1)
+
+[^f00019]: Footnote: [S.R. 2001 No. 19](https://www.legislation.gov.uk/nisr/2001/19). Regulation 15 was amended by regulation 10(6) of [S.R. 2003 No. 84](https://www.legislation.gov.uk/nisr/2003/84)

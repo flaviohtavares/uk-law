@@ -1,0 +1,492 @@
+---
+title: The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012
+id: nisr/2012/438
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2012-12-06'
+text_date: '2016-11-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2012/438
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/438/pdfs/nisrem_20120438_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/438/pdfs/nisr_20120438_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/438/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012
+
+> Text as at 2016-11-18.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2012 No. 438
+
+Family Law
+
+Child Support
+
+The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012
+
+Made
+
+6th December 2012
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 3(1)(b), 16(1), 29(3) and (3A), 47(1) and (2) and 48(4) of the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002], and sections 36(2) and 38(2) of the Child Maintenance Act (Northern Ireland) 2008[^f00003].
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation[^key-6dd6c3ee704f1347a87c9eae334918c2]
+
+(1) These Regulations may be cited as the Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 and shall come into operation as follows—
+
+- (a) this regulation and regulation 10, on 10th December 2012;
+- (b) regulations 2, 3 and 9(1), on the day on which section 26 of the Act comes into operation;
+- (c) subject to sub-paragraph (d), regulations 4 to 8, 9(2) and 11, in relation to a particular case, on the day on which paragraph 2 of Schedule 1 to the Act comes into operation in relation to that type of case;
+- (d) regulations 4(3) to (6) and 11, in relation to an arrears-only case, on 10th December 2012, subject to the savings in regulation 10(1).
+
+(2) In these Regulations—
+
+- “the Act” means the Child Maintenance Act (Northern Ireland) 2008;
+- “arrears of child support maintenance” means any payment of child support maintenance—[^key-0ba6c1cdbeb706d41fa28aef1f4b02ec]
+  - (a) which has become due in relation to a maintenance assessment, or a maintenance calculation made under 2003 scheme rules, and not paid; and
+  - (b) in respect of which the Department is arranging collection under Article 29 of the Child Support (Northern Ireland) Order 1991;
+- “arrears-only case” means a case in which—
+  - (a) there are arrears of child support maintenance; and
+  - (b) there is—
+    - (i) no maintenance assessment, or maintenance calculation made under the 2003 scheme rules, still in force; and
+    - (ii) no application for a maintenance assessment, or a maintenance calculation falling to be made under the 2003 scheme rules, still to be determined;
+- “the Collection and Enforcement Regulations” mean the Child Support (Collection and Enforcement) Regulations (Northern Ireland)1992[^f00004].
+
+(3) For the purposes of paragraph (2), a maintenance calculation is made (or will fall to be made) under the 2003 scheme rules if the amount of the periodical payments required to be paid in accordance with it is (or will be) determined otherwise than in accordance with Part 1 of Schedule 1 to the Child Support (Northern Ireland) Order 1991, as amended by Schedule 1 to the Act.
+
+## PART 2 — Meaning of Child
+
+### 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-0a6545a418fb1889c90ace94fec999d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^key-0a6545a418fb1889c90ace94fec999d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — New Calculation Rules – Consequential and Miscellaneous Amendments
+
+### 4. Amendment of the Collection and Enforcement Regulations[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d][^key-16189407c03187f02247ba6db5e654e2]
+
+(1) The Collection and Enforcement Regulations are amended in accordance with paragraphs (2) to (6).
+
+(2) For regulation 4[^f00007] (interval of payment) substitute—
+
+> **4. Payments to be scheduled over reference period**
+>
+> (1) The Department may, for the purposes of determining the frequency and amount of the payments of child support maintenance required to be made by a liable person—
+>
+> - (a) determine the total amount payable for the reference period on the assumption that the weekly rate of child support maintenance will not change over that period; and
+> - (b) require that amount to be paid by equal instalments over that period at intervals determined by the Department.
+>
+> (2) The reference period in relation to the maintenance calculation is, subject to paragraph (3), the period of 52 weeks mentioned in Article 29(3A) of the Order beginning with—
+>
+> - (a) the initial effective date (where it is the first such period in relation to the maintenance calculation); or
+> - (b) the review date.
+>
+> (3) In this regulation “initial effective date” and “review date” have the meanings given by regulations 12 and 19 respectively of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012[^f00008].
+
+.
+
+(3)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] In regulation 8(1) (interpretation of this Part) in the definition of “normal deduction rate” for “week, month or other period” substitute “month and the equivalent of that sum for a 1, 2 and 4 week period”.
+
+(4)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] For regulations 10 and 11[^f00009] (normal deduction rate and protected earnings proportion) substitute—
+
+> **10. Normal deduction rate**
+>
+> (1) The period by reference to which the normal deduction rate is set must be the period by reference to which the liable person is normally paid where that period is a 1, 2 or 4 weekly or monthly period.
+>
+> (2) The employer must select the normal deduction rate which applies depending on the period by reference to which the liable person’s earnings are normally paid.
+>
+> (3) Where the liable person is paid by reference to a period other than at a 1, 2 or 4 weekly or monthly period, the Department must discharge the deduction from earnings order in accordance with regulation 20.
+>
+> **11. Protected earnings proportion**
+>
+> (1) The period by reference to which the protected earnings proportion is set must be the same as the period by reference to which the normal deduction rate is set in accordance with regulation 10(1).
+>
+> (2) The protected earnings proportion in respect of any period shall be 60 per cent. of the liable person’s net earnings in respect of that period as calculated at the pay-day of the liable person by the employer.
+
+.
+
+(5)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] In regulation 20(1)[^f00010] (discharge of deduction from earnings orders)—
+
+- (a) omit “or” after sub-paragraph (e); and
+- (b) after sub-paragraph (f) add—
+
+  > or
+  >
+  > - (g) the circumstances in regulation 10(3) apply.
+
+  .
+
+(6)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] In regulations 25C(1)(a) and 25G(2)(d)[^f00011] (maximum deduction rate and review of a regular deduction order) for “net” substitute “gross”.
+
+### 5. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^key-584ed46190a7d27a836885416a0eedc0][^key-584ed46190a7d27a836885416a0eedc0]
+
+(1) The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00012] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation) omit the definitions of “Maintenance Assessment Procedure Regulations” and “Maintenance Calculation Procedure Regulations”[^f00013].
+
+(3) In regulation 5(3)(c)[^f00014] (notifications by the Department) for “regulation 8 of the Maintenance Calculations and Special Cases Regulations (Northern Ireland) 1992” substitute “regulation 49 of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012”.
+
+(4) In regulation 8A(d)[^f00015] (maintenance calculations and maintenance orders – payments) omit “in accordance with regulation 25 of the Maintenance Calculation Procedure Regulations”.
+
+### 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-983c9284e5786773ac764745ad24e272][^key-983c9284e5786773ac764745ad24e272]
+
+(1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00016] are amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 1(2) (interpretation) omit the definitions of “the Arrears, Interest and Adjustment of Maintenance Assessments Regulations”, “the Maintenance Calculation Procedure Regulations”, “the Maintenance Calculations and Special Cases Regulations”, “relevant other child”, “relevant person” and “the Variations Regulations”[^f00017].
+
+(3) Omit regulations 3A, 5A, 6A, 6B, 7B, 7C, 15A, 15B, 15C, 23 and 24[^f00018].
+
+(4) In regulation 4[^f00019] (late application for a revision)—
+
+- (a) in paragraph (1) omit “or 3A(1)(a)”;
+- (b) in paragraph (2) omit “the relevant person”;
+- (c) in paragraph (4)(c) omit “or, as the case may be, 3A”;
+- (d) in paragraph (5) omit “or, as the case may be, regulation 3A(1)(a)”; and
+- (e) omit paragraph (8) (as substituted by regulation 2(5)(e) of the Social Security and Child Support (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2001[^f00020]).
+
+(5) In regulation 30[^f00021] (appeals against decisions which has been replaced or revised) omit “replaced or” in each place where it occurs.
+
+(6) In regulation 31(2)[^f00022] (time within which appeals are to be brought) for “, 3A(1) or regulation 16(1)(a) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992”, in both places where it occurs, substitute “or regulation 14 of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012”.
+
+(7) Omit Schedule 2D[^f00023] (effective dates for supersession of child support decisions).
+
+### 7. Amendment of the Child Support (Voluntary Payments) Regulations[^key-91ed76353908d043612201599329cd27][^key-91ed76353908d043612201599329cd27]
+
+(1) The Child Support (Voluntary Payments) Regulations (Northern Ireland) 2001[^f00024] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) omit the definition of “the Maintenance Calculations and Special Cases Regulations”;
+- (b) in the definition of “the qualifying child’s home” omit the words from “and “home” has” to the end; and
+- (c) in the definition of “relevant person”[^f00025], in paragraph (c) for the words from “regulation 8” to the end substitute “regulation 49 of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012”; and
+
+(3) In regulation 2(1) (voluntary payment) in sub-paragraph (c) omit the words from “, and for this purpose” to the end.
+
+### 8. Amendment of the Child Support Information Regulations[^key-f53ecd39fb24d567581cefb4f75600a3][^key-f53ecd39fb24d567581cefb4f75600a3]
+
+(1) The Child Support Information Regulations (Northern Ireland) 2008[^f00026] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1) for the definition of “Maintenance Calculation Procedure Regulations” substitute—
+
+  > - “the Maintenance Calculation Regulations” means the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012;
+
+  ; and
+- (b) omit paragraphs (2) and (3).
+
+(3) In regulation 7 (duty of persons from whom information requested) omit paragraph (3).
+
+(4) After regulation 9 (duty to notify change of address) insert—
+
+> **9A. Duty to notify increase in current income**
+>
+> (1) In a case falling within paragraph (2) or (3), the Department may notify the non-resident parent of the requirement to notify the Department of any relevant change of circumstances in relation to that income.
+>
+> (2) A case falls within this paragraph if, in relation to a maintenance calculation in force—
+>
+> - (a) gross weekly income is determined by reference to the non-resident parent’s current income as an employee or officeholder (in accordance with regulation 37 of the Maintenance Calculation Regulations); and
+> - (b) paragraph 5(b) of the Schedule 1 to the Order[^f00027] (nil rate) does not apply.
+>
+> (3) A case falls within this paragraph if, in relation to a maintenance calculation in force—
+>
+> - (a) gross weekly income is determined by reference to the non-resident parent’s current income (in accordance with regulation 36 of the Maintenance Calculation Regulations); and
+> - (b) paragraph 5(b) of Schedule 1 to the Order applies.
+>
+> (4) A notification by the Department under paragraph (1) must be in writing.
+>
+> (5) Where a relevant change of circumstances occurs after the non-resident parent has been notified of a requirement under paragraph (1) the non-resident parent must notify the Department of that change—
+>
+> - (a) within fourteen days beginning with and including the day on which the change occurs; or
+> - (b) within such other period as the Department has specified in its notification.
+>
+> (6) For the purposes of a case falling within paragraph (2), a relevant change of circumstances occurs where—
+>
+> - (a) the non-resident parent—
+>   - (i) commences a new employment or office, or
+>   - (ii) in relation to an existing employment or office, commences a new rate of remuneration or a new working pattern,
+>
+>   and could reasonably be expected to know that would result in an increased liability under the maintenance calculation in force if reported to the Department; or
+> - (b) the non-resident parent receives from their employment or office the following number of consecutive payments, each of which (if it were taken as a weekly average) exceeds the gross weekly income taken into account in the maintenance calculation in force by 25 per cent. or more—
+>   - (i) five payments, in the case of a non-resident parent paid weekly,
+>   - (ii) three payments, in the case of a non-resident parent paid fortnightly,
+>   - (iii) two payments, in the case of a non-resident parent paid four weekly or monthly.
+>
+> (7) The payments referred to in paragraph (6)(b) are the gross remuneration from the employment or office in question less any pension contributions deducted under net pay arrangements.
+>
+> (8) In paragraph (7) “net pay arrangements” means arrangements for relief in respect of pension contributions under section 193 of the Finance Act 2004[^f00028].
+>
+> (9) For the purposes of a case falling within paragraph (3), a relevant change of circumstances occurs where the non-resident parent’s income increases to a gross weekly income of £5 or more.
+>
+> (10) For the purposes of paragraph (9), gross weekly income is to be calculated in accordance with regulation 44(2) of the Maintenance Calculation Regulations.
+
+.
+
+(5) In regulation 13(1)(d) (disclosure of information to other persons) for “regulation 23 of “the Maintenance Calculation Procedure Regulations” substitute “regulation 25 of the Maintenance Calculation Regulations (notification of a maintenance calculation)”.
+
+## PART 4 — Revocations, Savings and Transitional Provision
+
+### 9. Revocations[^key-fd6216f7e44a728dac441b11ccc44e4c][^key-9d25895c8318c68c5288c64c376a9d93][^key-9d25895c8318c68c5288c64c376a9d93]
+
+(1)[^key-fd6216f7e44a728dac441b11ccc44e4c] Regulations 2(4)(a) and (e) and 4(2) and (6) of the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009[^f00029] are revoked.
+
+(2)[^key-9d25895c8318c68c5288c64c376a9d93] The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+
+### 10. Savings – arrears-only case[^key-4c01afff4caf11bb0b470a841b7c4e34]
+
+(1) Regulations 8, 10, 11 and 20 of the Collection and Enforcement Regulations continue to apply in relation to an arrears-only case, as they were in operation immediately before the amendments made by regulation 4(3) to (6) come into operation, until notice is given to the non-resident parent by the Department that the provisions of the Regulations (as amended by regulation 4(3) to (6)) apply to that case.
+
+(2) Any notice given under paragraph (1) must be in writing and sent by ordinary post to the non-resident parent’s last known or notified address and will be treated as having been given on the second day following the day on which it is posted.
+
+(3) For the purposes of this regulation any reference to a non-resident parent includes reference to an absent parent.
+
+### 11. Transitional provisions[^key-fa94853f74fc8eac69f91262cc4ebc9d][^key-bb98972157ed52b5320a35db0056f00d][^key-fa94853f74fc8eac69f91262cc4ebc9d]
+
+(1) Where, in any case, a deduction from earnings order was made before the date on which the Collection and Enforcement Regulations, as amended by regulation 4(3) to (6) apply in relation to that case, this regulation shall apply in respect of that order.
+
+(2) Where the deduction from earnings order still has effect immediately before regulation 4(3) to (6) comes into operation in relation to that case—
+
+- (a) the order continues to take effect for the purposes of any deductions which are required to be made under the order until it is discharged or lapses;
+- (b) the Collection and Enforcement Regulations, as they were in operation before the amendments made by regulation 4(3) to (6) came into operation, continue to apply in relation to the order until it is discharged or lapses; and
+- (c)[^key-d5c4e8b4fda6afb9b3ad8c66aefdf787] the order is to be treated as discharged, if it has not otherwise lapsed or been discharged, either—
+  - (i) in a case where there are old scheme arrears, on the date on which the old scheme arrears have been transferred to the computer system on which cases where child support maintenance calculated under the new scheme rules are administered by the Department, or
+  - (ii) in a case where there are no old scheme arrears, on the date on which the first deduction from earnings order made under the Collection and Enforcement Regulations as amended by regulation 4(3) to (6) takes effect.
+
+(3)[^key-c34d3bc81fd254d10020316544c6d08c] In this regulation—
+
+- “calculated under the new scheme rules” means calculated in accordance with Part 1 of Schedule 1 to the Child Support Order (Northern Ireland) 1991 as amended by paragraph 2 of Schedule 1 to the Act;
+- “old scheme arrears” means the amount of child support maintenance calculated other that in accordance with the new scheme rules which is overdue and which remains outstanding.
+
+Sealed with the Official Seal of the Department for Social Development on 6th December 2012
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE — Revocations[^key-764259e72f2f001b5ea6071ea2fec18f][^key-764259e72f2f001b5ea6071ea2fec18f]
+
+Regulation 9(2)
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/340">S.R. 1992 No. 340</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/341">S.R. 1992 No. 341</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/390">S.R. 1992 No. 390</a></td><td>In regulation 20(1) the word “or” after sub-paragraph (e)</td></tr>
+<tr><td>The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/466">S.R. 1992 No. 466</a></td><td>In regulation 1(2) the definitions of “Maintenance Assessment Procedure Regulations” and “Maintenance Calculation Procedure Regulations”</td></tr>
+<tr><td></td><td></td><td>In regulation 8A(d) the words “in accordance with regulation 25 of the Maintenance Calculation Procedure Regulations”</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/164">S.R 1993 No. 164</a></td><td>In regulation 1(2) the definitions of “Maintenance Assessment Procedure Regulations” and “Maintenance Assessments and Special Cases Regulations”</td></tr>
+<tr><td></td><td></td><td>Regulations 4(2) and 5</td></tr>
+<tr><td>The Child Support (Maintenance Assessments and Special Cases) (Amendment) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/191">S.R. 1993 No. 191</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments and Transitional Provisions) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/37">S.R. 1994 No. 37</a></td><td>Regulation 5</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/19">S.R. 1995 No. 19</a></td><td>In regulation 1(2) the definition of “Maintenance Assessment Procedure Regulations”</td></tr>
+<tr><td></td><td></td><td>Regulation 4</td></tr>
+<tr><td>The Child Support and Income Support (Amendment) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/162">S.R. 1995 No. 162</a></td><td>In regulation 1(2) the definitions of “Maintenance Assessment Procedure Regulations” and “Maintenance Assessments and Special Cases Regulations”</td></tr>
+<tr><td></td><td></td><td>Regulations 4(2), (6) and (7), 7(2), 8, 9 and 13(1) to (3)</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/475">S.R. 1995 No. 475</a></td><td>Regulations 1(2), 3, 4 and 12</td></tr>
+<tr><td>The Child Support (Maintenance Assessments and Special Cases and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/65">S.R. 1996 No. 65</a></td><td>Regulations 2 and 3</td></tr>
+<tr><td>The Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/288">S.R. 1996 No. 288</a></td><td>Regulation 7</td></tr>
+<tr><td>The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/289">S.R. 1996 No. 289</a></td><td>Regulations 20 and 21</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/317">S.R. 1996 No. 317</a></td><td>Regulations 3, 4 and 5(3)</td></tr>
+<tr><td>The Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/541">S.R. 1996 No. 541</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/590">S.R. 1996 No. 590</a></td><td>Regulations 1(2), 2, 3 and 6(3)</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1998</td><td><a href="https://www.legislation.gov.uk/nisr/1998/8">S.R. 1998 No. 8</a></td><td>Regulations 1(4), 3 to 5, 9 and 11</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/152">S.R. 1999 No. 152</a></td><td>Regulations 3 and 4</td></tr>
+<tr><td>The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/162">S.R. 1999 No. 162</a></td><td>In regulation 1(2) the definitions of “the Arrears, Interest and Adjustment of Maintenance Assessments Regulations”, “the Maintenance Calculation Procedure Regulations”, “the Maintenance Calculations and Special Cases Regulations”, “relevant other child”, “relevant person” and “the Variations Regulations”</td></tr>
+<tr><td></td><td></td><td>Regulation 3A</td></tr>
+<tr><td></td><td></td><td>In regulation 4, in paragraph (1) the words “or 3A(1)(a)”, in paragraph (2) the words “the relevant person”, in paragraph (4)(c), the words “or, as the case may be, 3A,” and in paragraph (5) the words “or, as the case may be, regulation 3A(1)(a)”, and paragraph (8) (as substituted by <a href="https://www.legislation.gov.uk/nisr/2001/23">S.R. 2001 No. 23</a>)</td></tr>
+<tr><td></td><td></td><td>Regulations 5A, 6A, 6B, 7B, 7C, 15A, 15B, 15C, 23 and 24</td></tr>
+<tr><td></td><td></td><td>In regulation 30 the words “replaced or” in each place where they occur</td></tr>
+<tr><td></td><td></td><td>Schedule 2D</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/167">S.R. 1999 No. 167</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1999/246">S.R. 1999 No. 246 (C. 20)</a></td><td>Articles 8, 9 and 11</td></tr>
+<tr><td>The Social Security and Child Support (Tax Credits Consequential Amendments) Regulations (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/385">S.R. 1999 No. 385</a></td><td>Regulation 6</td></tr>
+<tr><td>The Social Secutity and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000</td><td><a href="https://www.legislation.gov.uk/nisr/2000/215">S.R. 2000 No. 215</a></td><td>Regulations 4 and 5</td></tr>
+<tr><td>The Child Support (Colection and Enforcement and Miscellaneous Amendments) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/15">S.R. 2001 No. 15</a></td><td>Regulation 3(10) and (11)</td></tr>
+<tr><td>The Child Support (Information, Evidence and Disclosure and Maintenance Arrangement and Jurisdiction (Amendment) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/16">S.R. 2001 No. 16</a></td><td>Regulation 3(4) and (6)</td></tr>
+<tr><td>The Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/17">S.R. 2001 No. 17</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/18">S.R. 2001 No. 18</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Variations) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/20">S.R. 2001 No. 20</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Voluntary Payments) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/21">S.R. 2001 No. 21</a></td><td>In regulation 1(2) the definition of “the Maintenance Calculations and Special Cases Regulations” and in the definition of “the qualifying child’s home” the words from “and “home” has” to the end</td></tr>
+<tr><td></td><td></td><td>In regulation 2(1)(c) the words from “, and for this purpose” to the end</td></tr>
+<tr><td>The Social Security and Child Support (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/23">S.R. 2001 No. 23</a></td><td>Regulations 2(2)(a), (b) and (e), in sub-paragraph (f) the definition of “the Variations Regulations”, (4) to (9) and (10)(a), (b)(ii) and (iii), (c)(ii) and (iii), (d) and (e)</td></tr>
+<tr><td>The Child Support (Consequential Amendments and Transitional Provisions) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/29">S.R. 2001 No. 29</a></td><td>Regulation 7(2)</td></tr>
+<tr><td>The Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001</td><td><a href="https://www.legislation.gov.uk/nisr/2001/176">S.R. 2001 No. 176</a></td><td>Paragraphs 8 and 9 of Schedule 4</td></tr>
+<tr><td>The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/164">S.R. 2002 No. 164</a></td><td>Regulations 3 to 8 and 10</td></tr>
+<tr><td>The Social Security (Carer’s Allowance) (Amendment) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/323">S.R. 2002 No. 323</a></td><td>Paragraph 1(l) of the Schedule</td></tr>
+<tr><td>The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/84">S. R. 2003 No. 84</a></td><td>Regulations 2, 3, 6, 8, 9 and 11</td></tr>
+<tr><td>The Child Support and Social Security (Transitional Provisions) (Miscellaneous Amendments) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/91">S.R. 2003 No. 91</a></td><td>Regulation 2(1) to (3)</td></tr>
+<tr><td>The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/191">S.R. 2003 No. 191</a></td><td>Regulation 33</td></tr>
+<tr><td>The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/224">S.R. 2003 No. 224</a></td><td>Regulation 5</td></tr>
+<tr><td>The Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/274">S.R. 2003 No. 274</a></td><td>Paragraphs 3 and 4 of Schedule 2</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003</td><td><a href="https://www.legislation.gov.uk/nisr/2003/469">S.R. 2003 No. 469</a></td><td>Regulations 2 to 6, 8 and 9</td></tr>
+<tr><td>The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2004</td><td><a href="https://www.legislation.gov.uk/nisr/2004/428">S.R. 2004 No. 428</a></td><td>Regulations 3 to 7 and 9</td></tr>
+<tr><td>The Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/46">S.R. 2005 No. 46</a></td><td>Regulation 7(8)</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/125">S.R. 2005 No. 125</a></td><td>Regulations 2, 3, 6 and 8</td></tr>
+<tr><td>The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc Provisions) Order (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/536">S.R. 2005 No. 536</a></td><td>Paragraphs 2 and 6 to 8 of Schedule 4</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2006</td><td><a href="https://www.legislation.gov.uk/nisr/2006/273">S.R. 2006 No. 273</a></td><td>Regulations 3(3), 4 and 6</td></tr>
+<tr><td>The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006</td><td><a href="https://www.legislation.gov.uk/nisr/2006/407">S.R. 2006 No. 407</a></td><td>Paragraph 3 of Schedule 2</td></tr>
+<tr><td>The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/196">S.R. 2007 No. 196</a></td><td>Regulation 3</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/347">S.R. 2007 No. 347</a></td><td>Regulations 3 and 5</td></tr>
+<tr><td>The Independent Living Fund (2006) Order (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/382">S.R. 2007 No. 382</a></td><td>Article 3</td></tr>
+<tr><td>The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/286">S.R. 2008 No. 286</a></td><td>Regulations 17, 18, 21, 26 and 27</td></tr>
+<tr><td>The Child Support Information Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/403">S.R. 2008 No. 403</a></td><td>Regulations 2(2) and (3) and 7(3)</td></tr>
+<tr><td>The Child Support (Consequential Provisions) Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/404">S.R. 2008 No. 404</a></td><td>Regulations 2 to 6 and 8</td></tr>
+<tr><td>The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008</td><td><a href="https://www.legislation.gov.uk/nisr/2008/409">S.R. 2008 No. 409</a></td><td>Regulations 2, 3(3) and 4 to 6</td></tr>
+<tr><td>The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009</td><td><a href="https://www.legislation.gov.uk/nisr/2009/133">S.R. 2009 No. 133</a></td><td>Regulations 2, 3, 5, 6(2) to (6) and (9), 7 and 8</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2009</td><td><a href="https://www.legislation.gov.uk/nisr/2009/286">S.R. 2009 No. 286</a></td><td>Regulation 3</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009</td><td><a href="https://www.legislation.gov.uk/nisr/2009/363">S.R. 2009 No. 363</a></td><td>Regulations 2 and 4</td></tr>
+<tr><td>The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011</td><td><a href="https://www.legislation.gov.uk/nisr/2011/226">S.R. 2011 No. 226</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2012</td><td><a href="https://www.legislation.gov.uk/nisr/2012/163">S.R. 2012 No. 163</a></td><td>Regulations 2, 3 and 5</td></tr>
+<tr><td>The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012</td><td><a href="https://www.legislation.gov.uk/nisr/2012/438">S.R. 2012 No. 438</a></td><td>Regulations 2 and 3</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision consequential on, or connected with—
+
+- the coming into operation of the changes to the meaning of “child” for the purposes of the Child Support (Northern Ireland) Order 1991 (“the Order”) provided for by section 26 of the Child Maintenance Act (Northern Ireland) 2008 (“the Act”); and
+- the changes to the rules for the calculation of child support maintenance provided for by Schedule 1 to the Act and the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012 (“the Maintenance Calculation Regulations”).
+
+Regulations 2 and 3 amend respectively the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 and the Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001to prescribe conditions for the purposes of Article 3(1)(b) of the Order.
+
+Regulation 4 amends the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992 (“the Collection and Enforcement Regulations”) to—
+
+- substitute regulation 4 to allow payments of child support maintenance to be scheduled as equal instalments payable over an annual period (paragraph (2));
+- amend regulation 8 to change the definition of “normal deduction rate” to set out the amount to be deducted per month and the amount for a 1, 2 and 4 week equivalent of that amount (paragraph (3));
+- substitute regulations 10 and 11 to provide that—
+  - the normal deduction rate is set by reference to the period by reference to which the liable person is paid where that payment period is monthly or 1, 2 or 4 weekly, and
+  - the protected earnings proportion must be 60 per cent of net earnings at the liable person’s pay day for each deduction made under the order (paragraph (4));
+- amends regulation 20 to allow for deduction from earnings orders to be discharged where the circumstances in regulation 10(3) apply (paragraph (5); and
+- amend regulations 25C and 25G in relation to the maximum deduction rate for a regular deduction order, so it is calculated by reference to gross, rather than net, income.
+
+Regulation 6 amends the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 by removing provisions relating to child support maintenance which are now provided for in the Maintenance Calculation Regulations.
+
+Regulation 8 inserts new provision in the Child Support Information Regulations (Northern Ireland) 2008 allowing the Department for Social Development to require a non-resident parent whose income has been calculated by reference to current employment as an employee or officeholder, or whose income has been calculated by reference to current income to whom the nil rate applies, to report an increase in that income. Failure to comply with the new provisions will be an offence under Article 16A of the Order. It also makes consequential amendments.
+
+Regulations 5 and 7 respectively make consequential amendments to the Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992 and the Child Support (Voluntary Payments) Regulations (Northern Ireland) 2001.
+
+Regulation 9 revokes a number of sets of Regulations which are replaced by the Maintenance Calculation Regulations and makes consequential revocations.
+
+Regulation 10 saves regulations 8, 10, 11 and 20 of the Collection and Enforcement Regulations for the purposes of arrears-only cases as they have effect immediately before regulation 4(3) to (6) of these Regulations comes into operation until notice is given to the non-resident parent in such cases that the regulations, as amended, apply in their case.
+
+Regulation 11 makes transitional provision. Where a deduction from earnings order made under the Collection and Enforcement Regulations, prior to the amendments by regulation 4(3) to (6) of these Regulations coming into operation, has effect immediately before those provisions come into operation in the case, the existing deduction from earnings order will continue to take effect until it lapses or is discharged. The existing order will be discharged, if it is still in effect, on the date on which the first order made under the Collection and Enforcement Regulations, as amended by regulation 4(3) to (6), takes effect.
+
+Article 3 of the Order, one of the enabling provisions under which these Regulations are made, is substituted by section 26 of the Act which is brought into operation, for the purposes only of making regulations, on 3rd December 2012 by virtue of the Child Maintenance (2008 Act) (Commencement No. 9) Order (Northern Ireland) 2012 ([S.R. 2012 No. 423 (C. 43)](https://www.legislation.gov.uk/nisr/2012/423)).
+
+Another of the enabling provisions, Article 29 of the Order, is amended by section 31 of the Welfare Reform Act (Northern Ireland) 2010 which is brought into operation on 3rd December 2012 by virtue of the Welfare Reform (2010 Act) (Commencement No. 5) Order (Northern Ireland) 2012 ([S.R. 2012 No. 424 (C. 44)](https://www.legislation.gov.uk/nisr/2012/424)).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 3 is substituted by section 26 of the [Child Maintenance Act (Northern Ireland) 2008 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2008/10); Article 16(1) is amended by section 12 of, and paragraph 16 of Schedule 3 to. the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008; Article 29 is amended by section 1(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and section 31 of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13); Article 47(2) is amended by paragraph 31 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I.10)](https://www.legislation.gov.uk/nisi/1998/1506)) and section 1(2) of, and paragraph 27 of Schedule 3 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [2008 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2008/10)
+
+[^key-6dd6c3ee704f1347a87c9eae334918c2]: Commencement: Reg. 1 in operation at 10.12.2012, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/a)
+
+[^key-0ba6c1cdbeb706d41fa28aef1f4b02ec]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/2) substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2013/182/regulation/9)
+
+[^f00004]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)
+
+[^key-0a6545a418fb1889c90ace94fec999d3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/438/regulation/3) revoked (10.12.2012) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-16189407c03187f02247ba6db5e654e2]: Commencement: Reg. 4(3)-(6) comes into force in accordance with reg. 1(1)(c)(d)
+
+[^key-ca44de5227725cf148e1276bd3bcc04d]: Commencement: [Reg. 4(3)-(6)](https://www.legislation.gov.uk/nisr/2012/438/regulation/4/3) in operation at 25.11.2013 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/d)
+
+[^f00007]: Footnote: Regulation 4 was amended by regulation 4(2) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00008]: Footnote: [S.R 2012 No. 427](https://www.legislation.gov.uk/nisr/2012/427)
+
+[^f00009]: Footnote: Regulation 10 was amended by regulation 4(6) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and regulation 3(10) of [S.R. 2001 No.15](https://www.legislation.gov.uk/nisr/2001/15) and regulation 11 was amended by regulation 4(7)(b) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162), regulation 5(3) of [S.R. 1996 No. 317](https://www.legislation.gov.uk/nisr/1996/317), Article 11 of [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246), regulation 3(11) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15), regulation 3(3) of [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273) and regulation 3(3) of [S.R. 2008 No. 409](https://www.legislation.gov.uk/nisr/2008/409)
+
+[^f00010]: Footnote: Regulation 20 was amended by regulation 4(9) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and regulation 3(14) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
+
+[^f00011]: Footnote: Regulations 25C and 25G were inserted by regulation 2 of [S.R. 2009 No. 286](https://www.legislation.gov.uk/nisr/2009/286)
+
+[^key-584ed46190a7d27a836885416a0eedc0]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)(c)(d)
+
+[^f00012]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); relevant amending Regulations are [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162), [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16) and [S.R. 2005 No. 125](https://www.legislation.gov.uk/nisr/2005/125)
+
+[^f00013]: Footnote: The definition of “Maintenance Assessment Procedure Regulations” was inserted by regulation 7(2) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and is substituted by regulation 3(4) of [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16) and the definition of “Maintenance Calculation Procedure Regulations” is substituted by regulation 3(4) of [S.R 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16)
+
+[^f00014]: Footnote: Regulation 5(3) is amended by regulation 3(2), (3) and (6) of [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16)
+
+[^f00015]: Footnote: Regulation 8A is inserted by regulation 4 of [S.R. 2005 No. 125](https://www.legislation.gov.uk/nisr/2005/125)
+
+[^key-983c9284e5786773ac764745ad24e272]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)(c)(d)
+
+[^f00016]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2002 No. 164](https://www.legislation.gov.uk/nisr/2002/164), [S.R. 2004 No. 428](https://www.legislation.gov.uk/nisr/2004/428), [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46), [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273), [S.R. 2008 Nos. 404](https://www.legislation.gov.uk/nisr/2008/404) and [409](https://www.legislation.gov.uk/nisr/2008/409), [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133) and [S.R. 2011 No. 266](https://www.legislation.gov.uk/nisr/2011/266)
+
+[^f00017]: Footnote: The definitions of “the Arrears, Interest and Adjustment of Maintenance Assessments Regulations”, “the Maintenance Calculation Procedure Regulations”, “the Maintenance Calculations and Special Cases Regulations”, “relevant person” and “the Variations Regulations” are inserted by regulation 2(2) of [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23) and the definition of “relevant other child” is inserted by regulation 3(2) of [S.R. 2011 No. 226](https://www.legislation.gov.uk/nisr/2011/226)
+
+[^f00018]: Footnote: Regulations 3A, 5A, 6A, 6B, 7B, 7C and 15A to 15C are inserted by regulation 2 of [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23); relevant amending Regulations are [S.R. 2002 No. 164](https://www.legislation.gov.uk/nisr/2002/164), [S.R. 2004 No. 428](https://www.legislation.gov.uk/nisr/2004/428), [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273), [S.R. 2008 Nos. 404](https://www.legislation.gov.uk/nisr/2008/404) and [409](https://www.legislation.gov.uk/nisr/2008/409), [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133) and [S.R. 2011 No. 266](https://www.legislation.gov.uk/nisr/2011/266) and regulation 23 is amended by regulation 7(2) of [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29)
+
+[^f00019]: Footnote: Regulation 4 is amended by regulation 2(5) of [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23) and regulation 7(3) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^f00020]: Footnote: [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23)
+
+[^f00021]: Footnote: Regulation 30 is amended by regulation 2(10) of [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23) and regulation 7(7) of [S.R. 2002 No. 46](https://www.legislation.gov.uk/nisr/2002/46)
+
+[^f00022]: Footnote: Regulation 31(2) was amended by regulation 7(8) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^f00023]: Footnote: Schedule 2D is inserted by regulation 6(9) of [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133)
+
+[^key-91ed76353908d043612201599329cd27]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)(c)(d)
+
+[^f00024]: Footnote: [S.R. 2001 No. 21](https://www.legislation.gov.uk/nisr/2001/21); relevant amending Regulations are [S.R. 2008 No. 404](https://www.legislation.gov.uk/nisr/2008/404)
+
+[^f00025]: Footnote: The definition of “relevant person” was amended by regulation 9 of [S.R. 2008 No. 404](https://www.legislation.gov.uk/nisr/2008/404)
+
+[^key-f53ecd39fb24d567581cefb4f75600a3]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)(c)(d)
+
+[^f00026]: Footnote: [S.R. 2008 No. 403](https://www.legislation.gov.uk/nisr/2008/403), to which there are amendments not relevant to these Regulations
+
+[^f00027]: Footnote: Part 1 of Schedule 1 is substituted by Schedule 1 to the Child Support, Pensions and Social Act (Northern Ireland) 2000
+
+[^f00028]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^key-fd6216f7e44a728dac441b11ccc44e4c]: Commencement: Reg. 9(1) in operation at 10.12.2012 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/b)
+
+[^key-9d25895c8318c68c5288c64c376a9d93]: Commencement: Reg. 9(2) comes into force in accordance with reg. 1(1)(b)(c)
+
+[^f00029]: Footnote: [S.R. 2009 No. 363](https://www.legislation.gov.uk/nisr/2009/363)
+
+[^key-4c01afff4caf11bb0b470a841b7c4e34]: Commencement: Reg. 10 in operation at 10.12.2012, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/a)
+
+[^key-fa94853f74fc8eac69f91262cc4ebc9d]: Commencement: Reg. 11 comes into force in accordance with reg. 1(1)(c)(d)
+
+[^key-bb98972157ed52b5320a35db0056f00d]: Commencement: Reg. 11 in operation at 10.12.2012 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c)(d)
+
+[^key-d5c4e8b4fda6afb9b3ad8c66aefdf787]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/11/2/c) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/390/regulation/4/2)
+
+[^key-c34d3bc81fd254d10020316544c6d08c]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2012/438/regulation/11/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/390/regulation/4/3)
+
+[^key-764259e72f2f001b5ea6071ea2fec18f]: Commencement: Sch. in operation at 3.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1)

@@ -1,0 +1,1008 @@
+---
+title: The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025
+id: nisr/2025/100
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2025-05-28'
+text_date: '2025-06-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2025/100
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2025/100/pdfs/nisrem_20250100_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2025/100/pdfs/nisr_20250100_en.pdf
+- http://www.legislation.gov.uk/nisr/2025/100/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025
+
+> Text as at 2025-06-18.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2025 No. 100
+
+Health And Personal Social Services
+
+Public Service Pensions
+
+The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025
+
+Made
+
+28th May 2025
+
+Coming into operation
+
+18th June 2025
+
+The Department of Health makes the following Regulations in exercise of the powers conferred by Articles 12(1), (2) and (3) of, and 14(1) and (2) of, and Schedule 3 to the Superannuation (Northern Ireland) Order 1972[^f00001] (“**the 1972 Order**”) and sections 1 (1) and (2)(e), 2(1) and 3(1) to (3) of, and paragraph 5 of Schedule 2 and Schedule 3 to, the Public Service Pensions Act (Northern Ireland) 2014[^f00002](“**the 2014 Act**”).
+
+In accordance with Article 12(4) of the 1972 Order and section 21(1) of the 2014 Act, the Department of Health has consulted such persons as appear to the Department of Health likely to be affected by these Regulations.
+
+In accordance with section 22(2)(b) of the 2014 Act, the Department has laid a report before the Assembly.
+
+In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 Act, these Regulations are made with the consent of the Department of Finance.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-955dcedf4c738cedae3491e0def77a8a]
+
+(1) These Regulations may be cited as the Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025.
+
+(2) These Regulations come into operation on 18th June 2025 and have effect from that date subject to paragraphs (3) to (9).
+
+(3) Regulations 13 and 19 have effect retrospectively from 1st April 2008.
+
+(4) Regulations 9, 12, 16, 18, 23(5), (6), (7), (8), (9), (10) and 30 have effect retrospectively from 1st April 2015.
+
+(5) Regulations 8, 11, 15 and 17 have effect retrospectively from 6th April 2022.
+
+(6) Regulations 24, 25 and 28 have effect retrospectively from 1st November 2022.
+
+(7) Regulations 34 and 35 have effect retrospectively from 1st April 2023.
+
+(8) Regulations 4, 6, 14, 20 and 27 have effect retrospectively from 6th April 2024.
+
+(9) Regulations 26 and 29 (2) and (3) have retrospective effect from 1st April 2025.
+
+## PART 2 — Amendments to the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
+
+### 2. General[^key-3ed28491c4c645efdeb511c5bce31470]
+
+The Heath and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00003] are amended in accordance with this Part.
+
+### 3. Amendment of regulation 3[^key-d526e91069eb9a66974d1efe52edef10]
+
+In regulation 3 (meaning of “**superannuable pay**”), after paragraph (12), insert—
+
+> (13) Paragraphs (14) to (20) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is superannuable service under this Section of the scheme by virtue of section 2(1) of that Act (remediable service treated as pensionable under Chapter 1 legacy schemes) and whose superannuable pay and superannuable service under this Section of the scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
+>
+> - (a) at any time during that period of service, the terms of the member’s employment contract required the member to work less than whole-time, according to those terms, for any period of time; and
+> - (b) the member received a relevant payment.
+>
+> (14) The member, or, if the member is deceased, the member’s personal representatives, may elect for all relevant payments to be included as superannuable pay for the purposes of this regulation, and for service in respect of that superannuable pay to be included in the member’s superannuable service for the purposes of regulation 4.
+>
+> (15) The member’s employing authority must, before 1st January 2026, or in exceptional circumstances such later time as the scheme manager decides, send a notice in writing to the member, or as the case may be, the member’s personal representatives, that they may make an election under paragraph (14).
+>
+> (16) The notice referred to in paragraph (15) must specify the amount of contributions the member and the member’s employing authority will be required to pay, and the amount of superannuable pay and superannuable service the member will be entitled to in respect of those contributions, if the member or as the case may be, the member’s personal representatives, makes an election under paragraph (14).
+>
+> (17) An election under paragraph (14) must be—
+>
+> - (a) made—
+>   - (i) by the member, or as the case may be, the member’s personal representatives, in writing, in such form and including such information as the member’s employing authority requires; and
+>   - (ii) in respect of all relevant payments received by the member; and
+> - (b) received by the member’s employing authority before—
+>   - (i) the end of a period of three months beginning with the day on which the member is provided with the notice under paragraph (15); or
+>   - (ii) such a later date before 1st July 2026 as the member’s employing authority considers reasonable in all the circumstances.
+>
+> (18) For the purposes of this regulation a relevant payment means so much of a payment of salary, wages, fees or other regular payment made to a member by the employing authority—
+>
+> - (a) in respect of any period of time worked by the member in excess of the work required by the terms of their employment contract described in paragraph (13)(a) up to the whole-time equivalent according to the terms of the member’s employment contract during a scheme year falling within the period of the member’s remediable service; and
+> - (b) that was treated by the member’s employing authority as a payment for overtime for the purposes of regulation 27 of the 2015 Scheme.
+>
+> (19) Where a member, or as the case may be, the member’s personal representatives, has made an election under paragraph (14), that member will be treated as if they had also made an election under regulation 27A(2) of the 2015 Scheme (election for relevant payments to be included as pensionable earnings).
+>
+> (20) If a member, or as the case may be, the member’s personal representatives, does not make an election under paragraph (14), all relevant payments made to that member will be treated as payments for overtime for the purposes of this regulation.
+
+.
+
+### 4. Amendment of regulation 89A[^key-33689171c55a27a3f6c0c5efc4545a69]
+
+(1) Regulation 89A (deduction of tax: further provisions)[^f00004] is amended as follows.
+
+(2) In paragraph (1), after “these Regulations” insert, before 6th April 2024,”.
+
+(3) After paragraph (1A) insert—
+
+> (1B) Subject to paragraph (1C), if a person’s entitlement to a lump sum under these Regulations, on or after 6th April 2024, constitutes a relevant benefit crystallisation event for the purposes of section 637Q or section 637S of the Income Tax (Earnings and Pensions) Act 2003[^f00005], the scheme administrator shall determine—
+>
+> - (a) where any tax is payable in respect of the benefit in accordance with section 204 of the 2004 Act and, if so;
+> - (b) the amount of tax; and
+> - (c) the person liable for that tax.
+>
+> (1C) The member’s lump sum in respect of which any tax is payable, as determined under paragraph (1B), shall be reduced by an amount that fully reflects the amount of tax paid by the scheme administrator.
+
+.
+
+(4) In paragraph (6), after “these Regulations” insert “, before 6th April 2024,”.
+
+(5) After paragraph (6) insert—
+
+> (6A) Where a person is entitled to a lump sum under these Regulations, on or after 6th April 2024, whether or not he intends to rely on entitlement to transitional protection, or to enhanced protection, that person shall give to the scheme administrator such information as will enable the scheme administrator to determine—
+>
+> - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act and, if so;
+> - (b) the amount of tax; and
+> - (c) the person liable for that tax.
+
+.
+
+(6) In paragraph (7)—
+
+- (a) for “If” substitute “Where”;
+- (b) for “applying for” substitute “entitled to”;
+- (c) after “these Regulations” insert “, before 6th April 2024,”.
+
+(7) After paragraph (7) insert—
+
+> (7ZA) Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), that person shall give to the scheme administrator—
+>
+> - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f00006] in respect of that entitlement; and
+> - (b) the information referred to in paragraph (6A).
+
+.
+
+(8) In paragraph (7A)[^f00007]—
+
+- (a) for “If” substitute “Where”;
+- (b) for “claiming” substitute “entitled to”;
+- (c) after “these Regulations” insert “, before 6th April 2024,”.
+
+(9) After paragraph (7A) insert—
+
+> (7AA) Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to transitional protection in accordance with paragraph 14 of Schedule 18 to the 2011 Act or paragraph 1 of Schedule 22 to the Finance Act 2013, that person shall give to the scheme administrator—
+>
+> - (a) the reference number issued by the Commissioners under The Registered Pension Schemes (Lifetime Allowance Transitional Protection) Regulations 2011[^f00008] or The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Notification) Regulations 2013[^f00009] in respect of that entitlement; and
+> - (b) the information referred to in paragraph (6A).
+
+.
+
+(10) In paragraph (7B)[^f00010]—
+
+- (a) for “If” substitute “Where”;
+- (b) for “claiming” substitute “entitled to”;
+- (c) after “these Regulations” insert “, before 6th April 2024,”.
+
+(11) After paragraph (7B) insert—
+
+> (7C) Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlements to individual protection in accordance with paragraph 1 of the Schedule 6 of the Finance Act 2014[^f00011], that person shall give to the scheme administrator—
+>
+> - (a) the reference number issued by the Commissioners under The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Individual Protection 2014 Notification) Regulations 2014[^f00012]in respect of that entitlement; and
+> - (b) the information referred to in paragraph (6A).
+
+.
+
+(12) In paragraph (8)—
+
+- (a) after “paragraph” in the second place it occurs insert “(7A),”
+- (b) after “(7)” insert “(7ZA),”;
+- (c) after “(7A)” insert “,(7AA),”;
+- (d) after “(7AA),” omit “or”;
+- (e) after “(7B)” insert “or (7C)”.
+
+(13) In paragraph (9)—
+
+- (a) for “the” substitute “a”;
+- (b) after “person” insert “who is entitled to a benefit under these Regulations, before 6th April 2024,”.
+
+(14) After paragraph (9) insert—
+
+> (9A) Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, fails to provide all, or part of, the information referred to in paragraph (6A) or, as the case may be, paragraph (7ZA), (7AA) or (7C) within the time limits specified, the scheme administrator may deem that the person is liable for the tax payable in respect of the whole of the lump sum.
+
+.
+
+## PART 3 — The Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999
+
+### 5. General[^key-6cfbb53439bf3623c0de9ea88c12dabd]
+
+The Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999[^f00013] are amended in accordance with this Part.
+
+### 6. Amendment of regulation 16[^key-65d429cf516d13aa080c721334859f69]
+
+(1) Regulation 16 (information)[^f00014] is amended as follows.
+
+(2) In paragraph (3), after “these Regulations” insert “, before 6th April 2024,”.
+
+(3) After paragraph (3) insert—
+
+> (3A) Where a person is entitled to a lump sum under these Regulations, before 6th April 2024, he shall, whether or not he intends to rely on entitlement to an enhanced allowance or to enhanced protection, give to the provider such information as will enable the provider to determine—
+>
+> - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act and, if so;
+> - (b) the amount of tax; and
+> - (c) the person liable for that tax.
+
+.
+
+(4) In paragraph (4), after “these Regulations” insert “, before 6th April 2024,”.
+
+(5) After paragraph (4) insert—
+
+> (4A) Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), he shall give to the provider—
+>
+> - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f00015] in respect of that entitlement; and
+> - (b) the information referred to in paragraph (3A).
+
+.
+
+(6) In paragraph (5)—
+
+- (a) after the first place it occurs insert “or (3A)” after “paragraph 3”;
+- (b) after both instances of “(4)” insert “or (4A)”;
+- (c) after the seventh place “or” occurs insert “(3A)”.
+
+## PART 4 — Amendments to the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
+
+### 7. General[^key-42c02f76125154ffa8fb45ab71483d8e]
+
+The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00016] are amended in accordance with this Part.
+
+### 8. Amendment of regulation 9[^key-460deb8deeeaa551e435d35b18c322d9]
+
+(1) Regulation 9 (pensionable service: breaks in service)[^f00017] is amended as follows.
+
+(2) In paragraph (3), for “(e)” substitute “(f)”.
+
+(3) In paragraph (3A), for “(e)” substitute “(f)”.
+
+### 9. Amendment of regulation 10[^key-6c84547a56e0d8e8f038195eddd167f2]
+
+(1) Regulation 10 (1) (meaning of “**qualifying service**”)[^f00018] is amended as follows.
+
+(2) At the end of sub-paragraph (h) omit “and”.
+
+(3) For sub-paragraph (i) substitute—
+
+> - (i) in the case of a person who—
+>   - (i) ceased to be an active member of the 1995 Section on leaving HSC employment,
+>   - (ii) became a deferred member of that Section on leaving that employment and has not since become a pensioner member of that Section between the date of leaving that employment and joining this Section of the Scheme, and
+>   - (iii) became an active member of this Section of the Scheme between 1st October 2008 and 31 March 2015 and 5 or more years since last leaving HSC employment,
+>
+> a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section.
+
+.
+
+(4) After sub-paragraph (i) insert—
+
+> - (j) in the case of a person who—
+>   - (i) was a deferred member of the 1995 Section who gave notice for the purposes of paragraph (1) or (1A)[^f00019] of regulation 9 of the 1995 Regulations (opting out of this Section of the Scheme),
+>   - (ii) as a result of that notice was treated as ceasing to be an active member of that Section,
+>   - (iii) pursuant to that notice remains opted-out of that Section for 5 years or more, and
+>   - (iv) became an active member of this Section of the Scheme between 1st October 2008 and 31st March 2015,
+>
+> a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section.
+>
+> - (k) in the case of a person who—
+>   - (i) was a deferred member of the 1995 Section who gave notice for the purposes of paragraph (1) or (1A) of regulation 9 of the 1995 Regulations (opting out of the Scheme) and following that notice, ceased to be an active member of that Section for any one period of five or more years comprising the aggregate of—
+>     - (aa) any period during which the person left HSC employment, and
+>     - (bb) any period during which the person was treated as never having been an active member of that Section in accordance with paragraph (3)[^f00020] of regulation 9 of those Regulations in respect of one or more later periods of HSC employment entered into after having given the notice for the purposes of paragraph (1) or (1A) of that regulation, and
+>   - (ii) became an active member of this Section of the Scheme during the period beginning with 1st October 2008 and ending with 31st March 2015,
+>
+> a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section.
+
+.
+
+### 10. Amendment of regulation 13[^key-3ee7ee2514f03c1b2db6aa797ad5fbba]
+
+In regulation 13 (meaning of “**pensionable pay**”), after paragraph (11), insert—
+
+> (12) Paragraphs (13) to (19) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remedial service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the Scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
+>
+> - (a) at any time during that period of service, the terms of the member’s employment contract required the member to work less than whole-time, according to those terms, for any period of time; and
+> - (b) the member received a relevant payment.
+>
+> (13) The member, or if the member is deceased, the member’s personal representatives, may elect for all relevant payments to be included as pensionable pay for the purposes of this regulation, and for service in respect of that pensionable pay to be included in the member’s pensionable service for the purposes of regulations 7 and 8.
+>
+> (14) The member’s employing authority must before 1st January 2026, or in exceptional circumstances such later time as the scheme manager decides, send a notice in writing to the member or as the case may be, the member’s personal representatives, that they may make an election under paragraph (13).
+>
+> (15) The notice referred to in paragraph (14) must specify the amount of contributions the member and the member’s employing authority will be required to pay, and the amount of pensionable pay and pensionable service the member will be entitled to in respect of those contributions, if the member or as the case may be, the member’s personal representatives, makes an election under paragraph (13).
+>
+> (16) An election under paragraph (13) must be—
+>
+> - (a) made—
+>   - (i) by the member or as the case may be, the member’s personal representatives, in writing in such form and including such information as the member’s employing authority requires;
+>   - (ii) in respect of all relevant payments received by the member; and
+> - (b) received by the member’s employing authority before—
+>   - (i) the end of the period of three months beginning with the day on with the member is provided with the notice under paragraph (14); or
+>   - (ii) such later date before 1st July 2026 as the member’s employing authority considers reasonable in all the circumstances.
+>
+> (17) For the purposes of this regulation, a relevant payment means so much of a payment of salary, wages, fees or other regular payment made to a member by the employing authority—
+>
+> - (a) in respect of any period of time worked by the member in excess of the work required by the terms of their employment contract described in paragraph (12)(a) up to the whole-time equivalent according to the terms of the member’s employment contract during a scheme year falling within the period of the member’s remediable service; and
+> - (b) that was treated by the member’s employing authority as a payment for overtime for the purposes of regulation 27 of the 2015 Scheme.
+>
+> (18) Where a member, or as the case may be, the member’s personal representatives, has made an election under paragraph (13), that member will be treated as if they had made an election under regulation 27A(2) of the 2015 Scheme (election for relevant payments to be included as pensionable earnings).
+>
+> (19) If a member, or as the case may be, the member’s personal representatives, does not make an election under paragraph (13), all relevant payments made to that member will be treated as payments for overtime for the purposes of this regulation.
+
+.
+
+### 11. Amendment of regulation 14[^key-789110626ae0be29589b48b0d6903f3d]
+
+(1) Regulation 14 (pensionable pay: breaks in service)[^f00021] is amended as follows.
+
+(2) In paragraph (4)(b), for “(e)” substitute “(f)”.
+
+(3) In paragraph (8)(b), for “(e)” substitute “(f)”.
+
+### 12. Amendment of regulation 21[^key-91446cc891edc2260001ae0af763c878]
+
+(1) Regulation 21 (eligibility: general)[^f00022] is amended as follows.
+
+(2) In paragraph (3)(a)(i), omit “on or”.
+
+(3) In paragraph (3)(a)(ii) before “after” insert “on or”.
+
+### 13. Amendment of regulation 87[^key-8992586eed7016ef4ff636826107a6b2]
+
+In regulation 87 (payment of lump sums or pensions on death)[^f00023], in paragraph (7), for “regulation 130(2)” substitute “regulation 130 (4)”.
+
+### 14. Amendment of regulation 131[^key-214af0fa7c90604b94be9f6a304be84a]
+
+(1) Regulation 131 (deduction of tax)[^f00024] is amended as follows.
+
+(2) In paragraph (2)(a), after “benefit crystallisation event” insert “occurring on or before 6th April 2024,”.
+
+(3) After paragraph (2) insert—
+
+> (2A) If a person becomes entitled to a lump sum under this Part which is a relevant benefit crystallisation event, occurring on or after 6th April 2024, for the purposes of section 637Q or section 637S of the Income Tax (Earnings and Pensions) Act 2003[^f00025], the Scheme administrator shall determine—
+>
+> - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act, and if so;
+> - (b) the amount of tax payable; and
+> - (c) the person liable for that tax.
+
+.
+
+### 15. Amendment of regulation 140[^key-7681a9ab3d60be87f3db0a2cd6178501]
+
+(1) In regulation 140 (pensionable service: breaks in service)[^f00026] is amended as follows.
+
+(2) In paragraph (3), for “(e)” substitute “(f)”.
+
+(3) In paragraph (3A), for “(e)” substitute “(f)”.
+
+### 16. Amendment of regulation 141[^key-e2c70b7312444bfbf301f86c99f4ed02]
+
+(1) Regulation 141 (meaning of “**qualifying service**”)[^f00027] is amended as follows.
+
+(2) At the end of paragraph (1) (g) omit “and”.
+
+(3) For paragraph (1) (h) substitute—
+
+> - (h) in the case of the person who—
+>   - (i) ceased to be an active member of the 1995 section on leaving HSC employment,
+>   - (ii) became a deferred member of that Section on leaving that employment and has not since become a pensioner member of that Section between the date of leaving that employment and joining this Section of the Scheme, and
+>   - (iii) became an active member of this Section of the Scheme between 1st October 2008 and 31st March 2015 and 5 or more years since last leaving HSC employment,
+>
+> a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section.
+
+.
+
+(4) After paragraph (1) (h) insert—
+
+> - (i) in the case of a person who—
+>   - (i) was a deferred member of the 1995 Section who gave notice for the purposes of paragraph (1) or (1A)[^f00028] of regulation 9 of the 1995 Regulations (opting out of the Scheme),
+>   - (ii) as a result of that notice was treated as ceasing to be an active member of that Section,
+>   - (iii) pursuant to that notice remains opted-out of that Section for 5 years or more, and
+>   - (iv) became an active member of this Section of the Scheme between 1st October 2008 and 31st March 2015,
+>
+> a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section; and
+>
+> - (j) in the case of a person who—
+>   - (i) was a deferred member of the 1995 Section who gave notice for the purposes of paragraph (1) or (1A) of regulation 9 of the 1995 Regulations and following that notice, ceased to be an active member of that Section for any one period of five years or more comprising the aggregate of—
+>     - (aa) any period during which the person left HSC employment, and
+>     - (bb) any period during which the person was treated as never having been an active member of that Section in accordance with paragraph (3)[^f00029] of regulation 9 of those Regulations in respect of one or more later periods of HSC employment entered into after having given the notice for the purposes of paragraph (1) or (1A) of that regulation, and
+>   - (ii) became an active member of this Section of the Scheme during the period beginning with 1st October 2008 and ending with 31st March 2015,
+>
+> a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section.
+
+.
+
+### 17. Amendment of regulation 144[^key-fd5f895984a4c8878927be5b1592edeb]
+
+In regulation 144 (pensionable earnings – breaks in service), in paragraph (4)(b) for “(e)” substitute “(f)”.
+
+### 18. Amendment of regulation 153[^key-ef270daebb00cd5e51fb8ae5b5c59987]
+
+(1) Regulation 153 (eligibility: general)[^f00030], is amended as follows.
+
+(2) In paragraph (3)(a)(i), omit “on or”.
+
+(3) In paragraph (3)(a)(ii) before “after” insert “on or”.
+
+### 19. Amendment of regulation 214[^key-2c1cdaf71f976a01dc812a04ddd084f9]
+
+In regulation 214 (payment of lump sums or pensions on death)[^f00031], in paragraph (7), for “regulation 254(2)” substitute “regulation 254(4)”.
+
+### 20. Amendment of regulation 255[^key-956a156027352a7482e18bee6ce17e2e]
+
+(1) Regulation 255 (deduction of tax)(c) is amended as follows.
+
+(2) In paragraph (2)(a), after “benefit crystallisation event” insert “, occurring on or before 6th April 2024,”.
+
+(3) After paragraph (2) insert—
+
+> (2A) If a person becomes entitled to a lump sum under this Part which is a relevant benefit crystallisation event, occurring on or after 6th April 2024, then for the purposes of section 637Q or section 637S of the Income Tax (Earnings and Pensions) Act 2003[^f00032], the Scheme administrator shall determine—
+>
+> - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act, and if so;
+> - (b) the amount of tax payable; and
+> - (c) the person liable for that tax.
+
+.
+
+## PART 5 — Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
+
+### 21. General[^key-c84b0693e547c955986746ce246bbeb6]
+
+The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00033] are amended in accordance with this Part.
+
+### 22. New regulation 27A[^key-03c4141395e19c016cb70cc31aad656f]
+
+After regulation 27 (pensionable earnings), insert—
+
+> **27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24**
+>
+> (1) This regulation applies to a member (M) if, during the scheme years 2015/16 to 2023/24—
+>
+> - (a) the terms of M’s employment contract required M to work less than whole-time, according to those terms, for any period of time; and
+> - (b) M received a relevant payment.
+>
+> (2) M, or if M is deceased, M’s personal representatives, may elect for all relevant payments to be included as pensionable earnings for the purposes of regulation 27.
+>
+> (3) M’s employing authority must, before 1st January 2026, or in exceptional circumstances such later time as the scheme manager decides, send a notice in writing to M, or as the case may be, M’s personal representatives, that they may make an election under paragraph (2).
+>
+> (4) The notice referred to in paragraph (3) must specify the amount of contributions M and M’s employing authority will be required to pay, and the amount of pensionable earnings M will be entitled to in respect of those contributions, if M or as the case may be, M’s personal representatives, makes an election under paragraph (2).
+>
+> (5) An election under paragraph (2) must be—
+>
+> - (a) made—
+>   - (i) by M or as the case may be, M’s personal representatives, in writing in such form and including such information as M’s employing authority requires; and
+>   - (ii) in respect of all relevant payments received by M; and
+> - (b) received by M’s employing authority before—
+>   - (i) the end of the period of three months beginning with the day on which M is provided with the notice under paragraph (3); or
+>   - (ii) such later date before 1st July 2026 as M’s employing authority considers reasonable in all the circumstances.
+>
+> (6) For the purposes of this regulation, a relevant payment means so much of a payment of salary, wages, fees or other regular payment made to M by the employing authority—
+>
+> - (a) in respect of work undertaken by M during the scheme years 2015/16 to 2023/24 that was in excess of the work required by the terms of their employment contract described in paragraph (1)(a) up to the whole-time equivalent according to the terms of the member’s employment contract; and
+> - (b) that was treated by M’s employing authority as a payment for overtime for the purposes of regulation 27.
+>
+> (7) Where M, or as the case may be, M’s personal representatives, has made an election under paragraph (2), M will be treated as if they had also made an election under whichever of regulations 3(14) of the 1995 Regulations (meaning of “**superannuable pay**”) or regulation (13) of the 2008 Regulations (meaning of “**pensionable pay**”) applies to M.
+
+.
+
+### 23. Amendment of regulation 28[^key-9490de5f64c6f2dafac6fd0e5a828abb]
+
+(1)[^key-9490de5f64c6f2dafac6fd0e5a828abb] In regulation 28 (pensionable earnings: break in service)[^f00034] is amended as follows.
+
+(2)[^key-9490de5f64c6f2dafac6fd0e5a828abb] In paragraph (2)(e) for “parental leave shared parental leave, or, or” substitute “parental leave, shared parental leave or parental bereavement leave.
+
+(3)[^key-9490de5f64c6f2dafac6fd0e5a828abb] Omit paragraph (2)(f) “parental bereavement leave”.
+
+(4)[^key-9490de5f64c6f2dafac6fd0e5a828abb] In paragraph (6)(b)for “.” substitute “;”.
+
+(5)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] After paragraph (6)(b), insert—
+
+> - (c) for any period while M is within paragraph (2)(b) to (e) and M’s earnings are immediately reduced to zero.
+
+.
+
+(6)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (7)(a)—
+
+- (a) for “a woman on maternity leave” substitute “M”;
+- (b) for “she” substitute “M”.
+
+(7)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] After paragraph (7), insert—
+
+> (7A) For the purposes of paragraph (6)(c)—
+>
+> - (a) pay received by M in respect of days during which M returns to work for the purpose of keeping in touch with the workplace must be ignored;
+> - (b) earnings reduced to zero are treated as if they were the amount equal to the rate of M’s pensionable earnings immediately before the period of absence.
+
+.
+
+(8)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (10)(b), after “(6)(b)” insert “or (c)”.
+
+(9)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (10)(c), after “(7)” insert and “(7A)”.
+
+(10)[^key-c23c3b0aea8d4bd4ff1781120c8bbd60] In paragraph (12) omit “maternity”.
+
+### 24. Amendment of regulation 37[^key-76be4fdaa5853cbccc2202385c150db3]
+
+(1) Regulation 37 (members’ contributions: supplementary: medical practitioners and non-GP providers)[^f00035] is amended as follows.
+
+(2) In paragraph (3)(b), for “additional” substitute “reduced”.
+
+(3) In paragraph (4), after “in the circumstances” insert “(including amounts equal to reduced pensionable earnings that M is treated as having received during an absence from work (see regulation 28))”.
+
+### 25. Amendment of regulation 38[^key-17b5b0dfcb4f7987fef84325435bcaf3]
+
+(1) Regulation 38 (members’ contributions: supplementary: dental practitioners)[^f00036] is amended as follows.
+
+(2) In paragraph (3)(b), for “additional” substitute “reduced”.
+
+(3) In paragraph (4), after “in the circumstances” insert “(including amounts equal to reduced pensionable earnings that M is treated as having received during an absence from work (see regulation 28))”.
+
+### 26. Amendment of regulation 59[^key-bd30de44c078bc1dd8344861c36cd898]
+
+In regulation 59 (determination of contribution payable), for paragraph (5) substitute—
+
+> (5) An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
+
+.
+
+### 27. Amendment of Schedule 3[^key-cfba1230c51d1c9f521c371a7e2bcd60]
+
+(1) Schedule 3 (administrative matters) paragraph 16 (deduction of tax) is amended as follows.
+
+(2) In sub-paragraph (2), after “these Regulations” insert “, before 6th April 2024,”.
+
+(3) After sub-paragraph (2) insert—
+
+> (2A) If a person’s entitlement to a lump sum under these Regulations, on or after 6th April 2024, constitutes a relevant benefit crystallisation event for the purposes of section 637Q or section 637S of the Income Tax (Earnings and Pensions) Act 2003[^f00037], the scheme administrator must determine—
+>
+> - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act and if so;
+> - (b) the amount of tax; and
+> - (c) the person liable for that tax.
+
+.
+
+(4) In sub-paragraph (7), after “these Regulations” insert “, before 6th April 2024,”.
+
+(5) After sub-paragraph (7) insert—
+
+> (7A) A person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, must, whether or not he intends to rely on entitlement to transitional protection, or to enhanced protection), give to the scheme administrator such information as will enable the scheme administrator to determine—
+>
+> - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act and if so;
+> - (b) the amount of tax; and
+> - (c) the person liable for that tax.
+
+.
+
+(6) In sub-paragraph (8)—
+
+- (a) for “claiming” substitute “entitled to”;
+- (b) after “these regulations” insert “, before 6th April 2024,”.
+
+(7) After sub-paragraph (8) insert—
+
+> (8A) If a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), that person must give to the scheme administrator—
+>
+> - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f00038] in respect of that entitlement; and
+> - (b) the information referred to in paragraph (7A).
+
+.
+
+(8) In sub-paragraph (9)—
+
+- (a) for “claiming” substitute “entitled to”;
+- (b) after “these regulations” insert “, before 6th April 2024,”.
+
+(9) After sub-paragraph (9) insert—
+
+> (9A) If a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024 intends to rely on entitlement to transitional protection in accordance with paragraph 14 of Schedule 18 to the Finance Act 2011, paragraph 1 of Schedule 22 to the Finance Act 2013 or parts 1 and 3 of Schedule 4 to the Finance Act 2016 that person must give to the scheme administrator—
+>
+> - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Lifetime Allowance Transitional Protection) Regulations 2011 or Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Notification) Regulations 2013 in respect of that entitlement; and
+> - (b) the information referred to in sub-paragraph (7A).
+
+.
+
+(10) In sub-paragraph (10)—
+
+- (a) for “claiming” substitute “entitled to”;
+- (b) after “these regulations” insert “, before 6th April 2024”.
+
+(11) After sub-paragraph (10) insert—
+
+> (10A) If a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to individual protection in accordance with paragraph 1 of Schedule 6 to the Finance Act 2014, that person must give to the scheme administrator—
+>
+> - (a) the reference number issued by the Commissioners under the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Individual Protection 2014 Notification) Regulations 2014 in respect of that entitlement; and
+> - (b) the information referred to in paragraph (7A).
+
+.
+
+(12) In sub-paragraph (11)—
+
+- (a) after “sub-paragraph (7)” insert “or (7A)”;
+- (b) after “sub-paragraph (8)(a),” insert “8A(a),”;
+- (c) after “(9)(a)” insert “, (9A)(a),”;
+- (d) after “(9A)(a),” omit “or”;
+- (e) after “(10)(a)” insert “or (10A)(a)”.
+
+(13) In sub-paragraph (12), after “Where the person” insert “entitled to a benefit under these Regulations, before 6th April 2024,”.
+
+(14) After sub-paragraph (12) insert—
+
+> (12A) Where the person entitled to a lump sum under these Regulations, on or after 6th April 2024, fails to provide all, or part of, the information referred to in paragraph (7A) or, as the case may be, reference numbers referred to in sub-paragraph 8A(a), 9A(a) and 10A(a) within the time limits specified, the scheme administrator may deem that the person is liable for the tax payable in respect of the whole of the lump sum.
+
+.
+
+### 28. Amendment of Schedule 9[^key-c2a7e53817e12782933b22e15b3deb63]
+
+(1) Schedule 9 (determination of pensionable earnings: setting contribution rates)[^f00039] is amended as follows.
+
+(2) In sub-paragraph (6)(b) of paragraph 2 (continuous employment spanning two scheme years), for “additional” substitute “amounts equal to reduced”.
+
+(3) In sub-paragraph (5) of paragraph 2A (members who do not fall within any of the cases in paragraph 2), for “additional” substitute “amounts equal to reduced”.
+
+(4) In sub-paragraph (5) of paragraph 3 (change to employment or rate of pensionable earnings or allowances), in the definition of “EPE” after “current scheme year” insert “(including amounts equal to reduced pensionable earnings that the member is treated as having received during an absence from work (see regulation 28))”.
+
+### 29. Amendment of Schedule 10[^key-6112ef7c6879b503aa6d1b73bcb673fa][^key-a451cc577b7804a4cbbff1b596a31903]
+
+(1)[^key-6112ef7c6879b503aa6d1b73bcb673fa] Schedule 10 (practitioner contribution payments)[^f00040] is amended as follows.
+
+(2) In paragraph 1 (medical practitioners and non-GP providers), after sub-paragraph (3) insert—
+
+> (4) Where the certificate provided in accordance with sub-paragraphs (2) and (3) is based on provisional figures included in the return M made to HMRC, M must provide a revised certificate including final figures before the end of the period of one month starting on the date when the revised return containing final figures was required to be submitted to HMRC.
+
+.
+
+(3) In paragraph 2 (medical practitioners not members of a practice), after sub-paragraph (3), insert—
+
+> (4) Where the certificate provided in accordance with sub-paragraphs (2) and (3) is based on provisional figures included in the return M made to HMRC, M must provide a revised certificate including final figures before the end of the period of one month starting on the date when the revised return containing final figures was required to be submitted to HMRC.
+
+.
+
+### 30. Amendment of Schedule 12[^key-6e2f99ea3a7dfe877ccf5c6cf7166397]
+
+In Schedule 12 (lump sum on death), in sub-paragraph (7) of paragraph 9 (payment of lump sums on death), for “paragraph 12 of Schedule 3” substitute “paragraph 12(4) of Schedule 3”.
+
+### 31. Amendment of Schedule 13[^key-cfa226471d3c5498ec5ca48b3ef5536f]
+
+(1) Schedule 13 (definitions)[^f00041] is amended as follows.
+
+(2) For the entry in Column 2 corresponding to the expression “overtime”, substitute—
+
+> any period of time worked during the period beginning 1 April 2015 and ending on 31 March 2024 that is in excess of—
+>
+> - (a) whole-time, according to the terms of the member’s employment contract; or
+> - (b) if regulation 27A applies to the member, but the member does not make an election under paragraph (2) of that regulation, the lesser of—
+>   - (i) the period of time for which the member was contracted to work in the ordinary course of events; or
+>   - (ii) such a period of time as the scheme manager determines a person engaged in similar employment would reasonably be contracted to work in the ordinary course of events;
+>
+> any period of time worked on or after 1 April 2024 that is in excess of—
+>
+> - (a) whole-time, according to the terms of the member’s employment contract; or
+> - (b) the terms of the member’s employment contract, during the period of 12 months following an election for partial retirement made under regulation 83.
+
+.
+
+## PART 6 — Amendment to the Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023
+
+### 32. General[^key-e6d3e1c86953ffd641e48ffc53aee9ed]
+
+The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023[^f00042] are amended in accordance with this Part.
+
+### 33. Amendment to regulation 28[^key-fc53af322283e51493b39a0ec530f4a9]
+
+In regulation 28 (application and expiry of modifications in this Part)[^f00043], in paragraph (b) for “2025” substitute “2026”.
+
+### 34. Amendment of regulation 30[^key-60600eca3fe6ea85b900eb953f877584]
+
+(1) Regulation 30 (modification of regulation 37) is amended as follows.
+
+(2) In sub-paragraph (c)(iii)—
+
+- (a) in paragraph (aa), for “each relevant period of the scheme year 2022/23” substitute “the period 1st April 2022 to 31st October 2022”;
+- (b) in paragraph (bb) substitute—
+
+  > - (bb) for “28.” there were substituted “28; and”
+
+  .
+
+(3) After paragraph (c)(iii) insert—
+
+> - (iv) after sub-paragraph (b), there were inserted—
+>
+>   > - (c) any reduced pensionable earnings M is treated as having received for the period beginning with 1st October 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
+>
+> and the pensionable earnings to which the contribution rate is applied for each relevant period of the scheme year 2022/23 are M’s reconciled, certified or final pensionable earnings from all group D sources for each relevant period.
+
+.
+
+(4) In paragraph (d), in new paragraph (3A)—
+
+- (a) in sub-paragraph (b)—
+  - (i) for “each relevant period of the scheme year 2022/23” substitute “the period beginning with 1st April 2022 and ending with 31st October 2022”;
+  - (ii) for “28,” substitute “28; and”;
+- (b) after sub-paragraph (b) insert—
+
+  > - (c) any reduced pensionable earnings M is treated as having received for the period beginning with 1st November 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
+
+  .
+
+### 35. Amendment of regulation 31[^key-bd575487d483f6975ace6dd3e6311281]
+
+(1) Regulation 31 (modification of regulation 38) is amended as follows.
+
+(2) In sub-paragraph (c)(iii)—
+
+- (a) in paragraph (aa), for “each relevant period of the scheme year 2022/23” substitute “the period 1st April 2022 to 1 November 2022”;
+- (b) for paragraph (bb) substitute—
+
+  > - (bb) for “28.” there were substituted “28; and”
+
+  .
+
+(3) After paragraph (c)(iii) insert—
+
+> - (iv) after sub-paragraph (b), there were inserted—
+>
+>   > - (c) any reduced pensionable earnings M is treated as having received for the period beginning with 1st November 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
+>
+> and the pensionable earnings to which the contribution rate is applied for each relevant period of the scheme year 2022/23 are M’s reconciled, certified or final pensionable earnings from all group D sources for each relevant period.
+
+.
+
+(4) In paragraph (d), in new paragraph (3A)—
+
+- (a) in sub-paragraph (b)—
+  - (i) for “each relevant period of the scheme year 2022/23” substitute “the period beginning with 1st April 2022 and ending with 31st October 2022”;
+  - (ii) for “28,” substitute “28; and”;
+- (b) after sub-paragraph (b) insert—
+
+  > - (c) any reduced pensionable earnings M is treated as having received for the period beginning with 1st November 2022 and ending with 31st March 2023 during an absence from work in accordance with regulation 28,
+
+  .
+
+## PART 7 — Amendment to the Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023
+
+### 36. General[^key-ba91a6be020a9c6cc90c332bf6cdee5d]
+
+The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023[^f00044] are amended in accordance with this Part.
+
+### 37. Amendment to regulation 12[^key-11cd9a0b6865af45403477427ce7e5ab]
+
+(1) Regulation 12 (election for 2015 scheme benefits: deferred choice members and deceased members) is amended as follows.
+
+(2) In paragraph (4), at the beginning, for “Where” substitute “Subject to paragraphs (4A) and (4B), where”.
+
+(3) After paragraph (4), insert—
+
+> (4A) A deferred choice election made by a deferred choice member or a designated person in the circumstances described in paragraph (2)(b)(iii) may be revoked by that person—
+>
+> - (a) at any time before the cancellation deadline;
+> - (b) by notice in writing and in such form and including such further information as the scheme manager requires.
+>
+> (4B) Where the scheme manager receives, before the cancellation deadline, notice that a deferred choice member has died—
+>
+> - (a) any deferred choice election made by a deferred choice member or a designated person in the circumstances described in paragraph (2)(b)(iii) lapses; and
+> - (b) any deferred choice election period that has begun (whether or not it has also ended) is to be treated as if it had never begun (or ended) and accordingly, a new deferred choice election period may begin (see paragraph (8) and regulation 2(1)).
+>
+> (4C) In paragraphs (4A) and (4B), the “**cancellation deadline**” means—
+>
+> - (a) the beginning of the day two weeks before the day on which any benefits have become payable to or in respect of the member after the end of the deferred choice election period; or
+> - (b) such later time before the day on which any benefits have become payable to or in respect of the member after the end of the deferred choice election period as the scheme manager considers reasonable in all the circumstances of the case.
+
+.
+
+Sealed with the Official Seal of the Department of Health on 28th May 2025.
+
+(L.S.)
+
+Philip Rodgers
+
+A senior officer of the Department of Health
+
+The Department of Finance consents to the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance on 28th May 2025.
+
+(L.S.)
+
+Patrick Neeson
+
+A senior officer of the Department of Finance
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995([S.R.1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95)) (“**the 1995 Regulations**”), the Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999 ([S.R. 1999 No. 294](https://www.legislation.gov.uk/nisr/1999/294)) (“**the 1999 Regulations**”), the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 ([S.R. 2008 No.256](https://www.legislation.gov.uk/nisr/2008/256)) (“**the 2008 Regulations**”), the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 ([S.R. 2015 No. 120](https://www.legislation.gov.uk/nisr/2015/120)) (“**the 2015 Regulations**”), the Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 ([S.R. 2023 No. 33](https://www.legislation.gov.uk/nisr/2023/33)) and the Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (“**the 2023 Remediable Regulations**”) [S.R. 2023 No.132](https://www.legislation.gov.uk/nisr/2023/132).
+
+These Regulations come into operation on 18th June 2025, although regulations 1(3) to (9) provide for certain provisions to take effect from an earlier date and regulation 1(2) provides for a provision to come into force on 6th April 2025. Section 12(1) of the Superannuation (Northern Ireland) Order [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11) and section 3(3)(b) of the Public Service Pensions Act (Northern Ireland) [2014 (c. 25)](https://www.legislation.gov.uk/ukpga/2014/25) provide that Scheme Regulations may make retrospective provision.
+
+Regulations 3, 10, 22 and 31(2) amend the 1995, 2008 and 2015 Regulations to make provision regarding overtime worked by part time workers during the period 1 April 2015 to 31 March 2024.
+
+Regulations 4, 6, 14, 20 and 27 amend the 1995, 2000, 2008 and 2015 Regulations to make amendments in consequence of the abolition of the pension tax life time allowance. The amendments are made with retrospective effect from 6th April 2024.
+
+Regulations 8, 11, 15 and 17 correct cross-references to types of authorised leave in the 2008 Regulations so that they include parental bereavement leave. The amendments are made with retrospective effect from 6th April 2022.
+
+Regulations 9 and 16 correct an error in the 2008 Regulations regarding when 1995 Section service counts as qualifying service in the 2008 Section of the HSC Pension Scheme. The amendments are made with retrospective effect from 1st April 2015.
+
+Regulations 12 and 18 amend the 2008 Regulations to correct an error in provisions governing eligibility to continue accrual in the 2008 Section of the HSC Pension Scheme with retrospective effect from 1st April 2015.
+
+Regulations 13 and 19 correct cross-references in the 2008 Regulations relating to the forfeiture of lump sum payments, with retrospective effect to 1st April 2008. Regulation 30 corrects a similar cross-reference in the 2015 Regulations, with retrospective effect from 1st April 2015.
+
+Regulations 23(2) to (4) amend the 2015 Regulations to insert references to types of authorised leave under the scheme.
+
+Regulations 23(5), (6), (7), (8), (9) and (10), 24, 25 and 28 make amendments to the 2015 Regulations and regulations 3, 34 and 35 amend the 2023 Regulations in respect of how member contributions are calculated when a member has a period of reduced pay as a result of a specified absence. The amendments in regulations 23 have retrospective effect from 1st April 2015, the amendments in regulations 24, 25 and 28 have effect retrospectively from 1st November 2022 and the amendments in regulations 34 and 35 have retrospective effect from 1st April 2023.
+
+Regulation 26 amends the 2015 Regulations to align them with the 1995 and 2008 Regulations in respect of how the cost of additional pension is calculated when new factors apply.
+
+Regulation 29(2) and (3) amends the 2015 Regulations to require the provision of a revised certificate of pensionable earnings by medical practitioners and non-GP providers in circumstances where provisional figures have been used.
+
+Regulation 37 amends the Remediable Service Regulations to provide for the revocation or lapse of a deferred choice election before the cancellation deadline.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 N.I 10](https://www.legislation.gov.uk/nisi/1972/1073) Section 12(1) was amended by sections 32 and 34(3) and Schedule 6 of the Health and Social Care (Reform) Act (Northern Ireland )2009 and section 37(2) of the Public Service Pensions Act (NI) 2014.
+
+[^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
+
+[^key-955dcedf4c738cedae3491e0def77a8a]: Commencement: Reg. 1 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^key-3ed28491c4c645efdeb511c5bce31470]: Commencement: Reg. 2 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00003]: Footnote: [S.R.1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95).
+
+[^key-d526e91069eb9a66974d1efe52edef10]: Commencement: Reg. 3 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^key-33689171c55a27a3f6c0c5efc4545a69]: Commencement: Reg. 4 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+
+[^f00004]: Footnote: Regulation 89A was amended by S.R [2006 No.410](https://www.legislation.gov.uk/nisr/2006/410), S.R [2008 No.130](https://www.legislation.gov.uk/nisr/2008/130), S.R [2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), S.R [2011 No.256](https://www.legislation.gov.uk/nisr/2011/256), S.R [2012 No.42](https://www.legislation.gov.uk/nisr/2012/42), S.R [2012 No.78](https://www.legislation.gov.uk/nisr/2012/78), S.R [2014 No.225](https://www.legislation.gov.uk/nisr/2014/225) and S.R [2015 No.121](https://www.legislation.gov.uk/nisr/2015/121).
+
+[^f00005]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
+
+[^f00006]: Footnote: S.I. [2006 No.131](https://www.legislation.gov.uk/uksi/2006/131).
+
+[^f00007]: Footnote: Paragraph (7A) of regulation 89A was inserted by [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78).
+
+[^f00008]: Footnote: S.I. [2011 No.1752](https://www.legislation.gov.uk/uksi/2011/1752).
+
+[^f00009]: Footnote: S.1. [2013 No.1741](https://www.legislation.gov.uk/uksi/2013/1741).
+
+[^f00010]: Footnote: Paragraph (7B) of regulation 89A was inserted by [S.R 2015 no.121](https://www.legislation.gov.uk/nisr/2015/121).
+
+[^f00011]: Footnote: [2014 c. 26](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^f00012]: Footnote: S.I. [2014 No.1842](https://www.legislation.gov.uk/uksi/2014/1842).
+
+[^key-6cfbb53439bf3623c0de9ea88c12dabd]: Commencement: Reg. 5 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00013]: Footnote: S.R [1999 No.294](https://www.legislation.gov.uk/nisr/1999/294).
+
+[^key-65d429cf516d13aa080c721334859f69]: Commencement: Reg. 6 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+
+[^f00014]: Footnote: Regulation 16 was amended by [S.R. 2006 No.410](https://www.legislation.gov.uk/nisr/2006/410).
+
+[^f00015]: Footnote: [S.I. 2006 No. 131](https://www.legislation.gov.uk/uksi/2006/131).
+
+[^key-42c02f76125154ffa8fb45ab71483d8e]: Commencement: Reg. 7 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00016]: Footnote: [S.R. 2008 No. 256](https://www.legislation.gov.uk/nisr/2008/256).
+
+[^key-460deb8deeeaa551e435d35b18c322d9]: Commencement: Reg. 8 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+
+[^f00017]: Footnote: Regulation 9 was amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) & [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22).
+
+[^key-6c84547a56e0d8e8f038195eddd167f2]: Commencement: Reg. 9 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+
+[^f00018]: Footnote: Regulation 10 was amended by [S.R. 2010 N0. 22](https://www.legislation.gov.uk/nisr/2010/22).
+
+[^f00019]: Footnote: Paragraph (1A) of regulation 9 was omitted by [S.R. 2013 No. 73](https://www.legislation.gov.uk/nisr/2013/73).
+
+[^f00020]: Footnote: Paragraph (3) of regulation 9 was substituted by [S.R. 2013 No. 73](https://www.legislation.gov.uk/nisr/2013/73).
+
+[^key-3ee7ee2514f03c1b2db6aa797ad5fbba]: Commencement: Reg. 10 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^key-789110626ae0be29589b48b0d6903f3d]: Commencement: Reg. 11 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+
+[^f00021]: Footnote: Paragraph (8) of regulation 14 was substituted by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65).
+
+[^key-91446cc891edc2260001ae0af763c878]: Commencement: Reg. 12 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+
+[^f00022]: Footnote: Paragraph (3) of regulation 21 was substituted by [S.R. 2015 No. 122](https://www.legislation.gov.uk/nisr/2015/122).
+
+[^key-8992586eed7016ef4ff636826107a6b2]: Commencement: Reg. 13 in operation at 18.6.2025 with effect in accordance with reg. 1(3)
+
+[^f00023]: Footnote: Regulation 87 was amended by [S.R. 2009 No. 65](https://www.legislation.gov.uk/nisr/2009/65).
+
+[^key-214af0fa7c90604b94be9f6a304be84a]: Commencement: Reg. 14 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+
+[^f00024]: Footnote: Regulation 131 was amended by [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42) and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78).
+
+[^f00025]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
+
+[^key-7681a9ab3d60be87f3db0a2cd6178501]: Commencement: Reg. 15 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+
+[^f00026]: Footnote: Regulation 140 was amended by [S.R. 2009 No. 65](https://www.legislation.gov.uk/nisr/2009/65) and [2010 No.22](https://www.legislation.gov.uk/nisr/2010/22).
+
+[^key-e2c70b7312444bfbf301f86c99f4ed02]: Commencement: Reg. 16 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+
+[^f00027]: Footnote: Regulation 141 was amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), [S.R. 2010 no.22](https://www.legislation.gov.uk/nisr/2010/22) and [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42).
+
+[^f00028]: Footnote: Paragraph 1(A) of regulation 9 was revoked by [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73).
+
+[^f00029]: Footnote: Paragraph 1(A) of regulation 9 was substituted by [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73).
+
+[^key-fd5f895984a4c8878927be5b1592edeb]: Commencement: Reg. 17 in operation at 18.6.2025 with effect in accordance with reg. 1(5)
+
+[^key-ef270daebb00cd5e51fb8ae5b5c59987]: Commencement: Reg. 18 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+
+[^f00030]: Footnote: Paragraph (3) of regulation 153 was substituted by [S.R. 2015 No.122](https://www.legislation.gov.uk/nisr/2015/122).
+
+[^key-2c1cdaf71f976a01dc812a04ddd084f9]: Commencement: Reg. 19 in operation at 18.6.2025 with effect in accordance with reg. 1(3)
+
+[^f00031]: Footnote: Regulation 214 was amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65).
+
+[^key-956a156027352a7482e18bee6ce17e2e]: Commencement: Reg. 20 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+
+[^f00032]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
+
+[^key-c84b0693e547c955986746ce246bbeb6]: Commencement: Reg. 21 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00033]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120).
+
+[^key-03c4141395e19c016cb70cc31aad656f]: Commencement: Reg. 22 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^key-9490de5f64c6f2dafac6fd0e5a828abb]: Commencement: Reg. 23(1)-(4) in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00034]: Footnote: Regulation 28 was amended by [S.R. 2022 No.168](https://www.legislation.gov.uk/nisr/2022/168), [S.R. 2022 No.236](https://www.legislation.gov.uk/nisr/2022/236) and [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33)
+
+[^key-c23c3b0aea8d4bd4ff1781120c8bbd60]: Commencement: [Reg. 23(5)-(10)](https://www.legislation.gov.uk/nisr/2025/100/regulation/23/5) in operation at 18.6.2025 with effect in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/4)
+
+[^key-76be4fdaa5853cbccc2202385c150db3]: Commencement: Reg. 24 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
+
+[^f00035]: Footnote: Regulation 37 was amended by [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244) and [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
+
+[^key-17b5b0dfcb4f7987fef84325435bcaf3]: Commencement: Reg. 25 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
+
+[^f00036]: Footnote: Regulation 38 was amended by [S.R. 2022 No. 196](https://www.legislation.gov.uk/nisr/2022/196), [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244) and [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
+
+[^key-bd30de44c078bc1dd8344861c36cd898]: Commencement: Reg. 26 in operation at 18.6.2025 with effect in accordance with reg. 1(9)
+
+[^key-cfba1230c51d1c9f521c371a7e2bcd60]: Commencement: Reg. 27 in operation at 18.6.2025 with effect in accordance with reg. 1(8)
+
+[^f00037]: Footnote: Sections 637Q and 637S were inserted by the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3).
+
+[^f00038]: Footnote: S.I. [2006 No.131](https://www.legislation.gov.uk/uksi/2006/131).
+
+[^key-c2a7e53817e12782933b22e15b3deb63]: Commencement: Reg. 28 in operation at 18.6.2025 with effect in accordance with reg. 1(6)
+
+[^f00039]: Footnote: Schedule 9 was amended by [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244).
+
+[^key-6112ef7c6879b503aa6d1b73bcb673fa]: Commencement: Reg. 29(1) in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^key-a451cc577b7804a4cbbff1b596a31903]: Commencement: Reg. 29(2)(3) in operation at 18.6.2025 with effect in accordance with reg. 1(9)
+
+[^f00040]: Footnote: Schedule 10 was amended by [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
+
+[^key-6e2f99ea3a7dfe877ccf5c6cf7166397]: Commencement: Reg. 30 in operation at 18.6.2025 with effect in accordance with reg. 1(4)
+
+[^key-cfa226471d3c5498ec5ca48b3ef5536f]: Commencement: Reg. 31 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00041]: Footnote: Schedule 13 is amended by [S.R. 2016 No. 384](https://www.legislation.gov.uk/nisr/2016/384), [S.R. 2022 No.196](https://www.legislation.gov.uk/nisr/2022/196), [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33), [S.R. 2024 No.117](https://www.legislation.gov.uk/nisr/2024/117) and [S.R. 2025 No.17](https://www.legislation.gov.uk/nisr/2025/17).
+
+[^key-e6d3e1c86953ffd641e48ffc53aee9ed]: Commencement: Reg. 32 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00042]: Footnote: [S.R. 2023 No.33](https://www.legislation.gov.uk/nisr/2023/33).
+
+[^key-fc53af322283e51493b39a0ec530f4a9]: Commencement: Reg. 33 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00043]: Footnote: Regulation 28 was substituted by [S.R. 2024 No.117](https://www.legislation.gov.uk/nisr/2024/117).
+
+[^key-60600eca3fe6ea85b900eb953f877584]: Commencement: Reg. 34 in operation at 18.6.2025 with effect in accordance with reg. 1(7)
+
+[^key-bd575487d483f6975ace6dd3e6311281]: Commencement: Reg. 35 in operation at 18.6.2025 with effect in accordance with reg. 1(7)
+
+[^key-ba91a6be020a9c6cc90c332bf6cdee5d]: Commencement: Reg. 36 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)
+
+[^f00044]: Footnote: [S.R. 2023 No.132](https://www.legislation.gov.uk/nisr/2023/132).
+
+[^key-11cd9a0b6865af45403477427ce7e5ab]: Commencement: Reg. 37 in operation at 18.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)

@@ -1,0 +1,44 @@
+---
+title: The Children (Northern Ireland) Order 1995, section 76
+act: The Children (Northern Ireland) Order 1995
+section: '76'
+status: revised-with-pending-changes
+text_date: '2024-11-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisi/1995/755/section/76
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children (Northern Ireland) Order 1995, section 76
+
+> **Warning: changes not yet applied to this text (152).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/nisi/1995/755
+>
+> Extent: Northern Ireland.
+
+## 76. Duties of voluntary organisations
+
+*Extent: N.I.*
+
+(1) Where a child is accommodated by or on behalf of a voluntary organisation, the organisation shall—
+
+- (a) safeguard and promote his welfare;
+- (b) make such use of the services and facilities available for children cared for by their own parents as appears to the organisation reasonable in his case; and
+- (c) advise, assist and befriend him with a view to promoting his welfare when he ceases to be so accommodated.
+
+(2) Before making any decision with respect to any such child the organisation shall, so far as is reasonably practicable, ascertain the wishes and feelings of—
+
+- (a) the child;
+- (b) his parents;
+- (c) any person who is not a parent of his but who has parental responsibility for him; and
+- (d) any other person whose wishes and feelings the organisation considers to be relevant,
+
+regarding the matter to be decided.
+
+(3) In making any such decision the organisation shall give due consideration—
+
+- (a) having regard to the child's age and understanding, to such wishes and feelings of his as the organisation has been able to ascertain;
+- (b) to such other wishes and feelings mentioned in paragraph (2) as the organisation has been able to ascertain; and
+- (c) to the child's religious persuasion, racial origin and cultural and linguistic background.
+
+(4) Every voluntary organisation shall, at such times and in such form as the Department may direct, transmit to the Department such particulars as the Department may require with respect to children accommodated by or on behalf of the voluntary organisation.

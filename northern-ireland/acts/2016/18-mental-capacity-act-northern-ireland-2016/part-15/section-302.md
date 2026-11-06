@@ -1,0 +1,35 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 302
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '302'
+status: revised-with-pending-changes
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/302
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 302
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2022-04-01. See https://www.legislation.gov.uk/changes/affected/nia/2016/18
+>
+> Extent: Northern Ireland.
+
+## 302. Regulations
+
+*Extent: N.I.*
+
+(1) Regulations to which subsection (3) applies may be made only if a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+
+(2) Any other regulations under this Act are subject to negative resolution.
+
+(3) This subsection applies to—
+
+- (a) regulations under section 10(5), 17(6), 21(2), 20(1), 36(4)(b), 48(5), 61(2), 63(3), 96, 98(9), 117(11), 138, 146(2), 160(2), 229(6), 268(5), 276(4), 297(4) or 306(3), paragraph 14(1) of Schedule 7 or paragraph 31 of Schedule 9;
+- (b) regulations under section 262 or 263 that amend this Act;
+- (c) regulations under section 276(2) containing any provision that creates an offence;
+- (d) regulations under section 303(3) that amend the text of Northern Ireland legislation or an Act of Parliament;
+- (e) any other regulations under this Act that are contained in a statutory rule that contains regulations within any of paragraphs (a) to (d).
+
+(4) Regulations under this Act may contain incidental, supplementary, transitional, transitory or saving provision.

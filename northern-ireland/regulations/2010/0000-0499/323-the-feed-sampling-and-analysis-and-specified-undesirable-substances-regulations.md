@@ -1,0 +1,378 @@
+---
+title: The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010
+id: nisr/2010/323
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-09-17'
+text_date: '2016-02-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/323
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/323/pdfs/nisrem_20100323_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/323/pdfs/nisr_20100323_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/323/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010
+
+> Text as at 2016-02-14.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 323
+
+Agriculture
+
+The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010
+
+Made
+
+17th September 2010
+
+Coming into operation
+
+11th October 2010
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred on it by sections 66(1), 74A, 79(9) and 84 of the Agriculture Act 1970[^f00002], as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000[^f00003].
+
+In so far as these Regulations cannot be made under the powers contained in the Agriculture Act 1970, the Department of Health, Social Services and Public Safety makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00004].
+
+The Department of Health, Social Services and Public Safety has been designated for the purposes of section 2(2) in relation to measures in the veterinary and phytosanitary fields for the protection of public health[^f00005], the common agricultural policy of the European Community[^f00006] and measures relating to feed produced for or fed to food-producing animals[^f00007].
+
+There has been consultation during the preparation of these Regulations in accordance with the requirements of section 84(1) of the Agriculture Act 1970 or, as appropriate, of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00008].
+
+## PART 1 — General and introductory
+
+### 1. Citation and commencement[^key-24f66e76ca70614abdacc75f4015c6f1]
+
+These Regulations may be cited as the Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 and come into operation on 11th October 2010.
+
+### 2. Interpretation[^key-2a14f011f9a3b059af0da9c0b7930802]
+
+(1) In these Regulations —
+
+- “the Act” means the Agriculture Act 1970;
+- “Regulation 152/2009” means Commission Regulation (EC) No.152/2009 laying down the methods of sampling and analysis for the official control of feed[^f00009];
+- “the Feed Hygiene Regulations” means the Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005[^f00010];
+- “the GM Feed Regulations” means the Genetically Modified Animal Feed Regulations (Northern Ireland) 2004[^f00011];
+- “analyst” means an agricultural analyst or deputy agricultural analyst.
+
+(2) Any expression used in these Regulations and Regulation 152/2009 has the meaning in these Regulations that it bears in Regulation 152/2009.
+
+(3) Any reference to a numbered section is a reference to the section so numbered in the Act as modified by these Regulations.
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+### 3. Prescribed metric substitution[^key-22f312a39378fa52adf6f8193eabed61]
+
+For the purposes of its application to feeding stuffs, the Act shall be read as if —
+
+- (a) in section 68(2)(b) the words “to sales in quantities of not more than 25 kilograms” were substituted for the words “to sales of small quantities (that is to say, sales in quantities of not more than fifty six pounds or the prescribed metric substitution)”; and
+- (b) in section 76(5) the words “six kilograms” were substituted for the words “fourteen pounds or the prescribed metric substitution”.
+
+## PART 2 — Miscellaneous requirements relating to sampling and analysis
+
+### 4. Methods of sending a final sample
+
+[^key-3663918e62bfc047d368161a652ee44d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+may be sent by any appropriate method or delivered by hand.
+
+### 5. Analysis other than in the course of official controls[^key-1f8fe847671a343f33a9f9b30cd8bf22]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Form of certificate of analysis[^key-744f97a1fe8db90603079f33ecfe7e94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Amendment and modification of other legislation with regard to sampling and analysis
+
+### 7. Amendment or modification of the Act[^key-a6844e5f67b39ebc6490472565a6fd08]
+
+The Act is amended or as the case may be modified in accordance with regulations 8 to 19.
+
+**8.**[^key-1b93aa7f8caa96ec63d2b58205b5a509] In section 66(1) (interpretation of Part IV), insert at the appropriate place the following definitions —
+
+> - “final sample” has the meaning that it bears in Annex I to Regulation 152/2009;
+
+;
+
+> - “Regulation 152/2009” means [Commission Regulation (EC) No. 152/2009](https://www.legislation.gov.uk/european/regulation/2009/0152) laying down the methods of sampling and analysis for the official control of feed;
+
+.
+
+**9.**[^key-5385fac05d3e92d025c0fc168aa2791b] Section 68 (duty of seller to give statutory statement) in so far as it applies in relation to feeding stuffs shall apply as if —
+
+- (a) in subsection (4)(b) “final sample” were substituted for “sampled portion”; and
+- (b) in subsection (5) —
+  - (i) “final sample” were substituted for “sample taken from the portion in question”, and
+  - (ii) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”.
+
+**10.**[^M_F_c71d57b0-680c-4c08-9445-53f9a1fe5993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-cb373cf9f591c478fa29e99d534845ac] Section 70 (use of names or expressions with prescribed meanings) in so far as it applies in relation to feeding stuffs shall apply as if —
+
+- (a) in subsection (2) “final sample” were substituted for “sampled portion”; and
+- (b) in subsection (4) —
+  - (i) “final sample” were substituted for “sampled portion”, and
+  - (ii) “that sample” were substituted for “the sample taken from that portion”.
+
+**12.**[^key-4c38a6e266d51f9ec52ec0ac6dd48bd8] Section 71 (particulars to be given of certain attributes if claimed to be present) in so far as it applies in relation to feeding stuffs shall apply as if —
+
+- (a) in subsection (2)(b) “final sample” were substituted for “sampled portion”; and
+- (b) in subsection (3) —
+  - (i) “final sample” were substituted for “sampled portion”, and
+  - (ii) “that sample” were substituted for “the sample taken from that portion”.
+
+**13.**[^M_F_109024c5-486c-4b01-bf59-1cddb98738d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^M_F_9b2dee7b-4af8-4e00-fe76-c2033e1e3e08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-b856a5dbfd0b82fcea404412b39c26d5] Section 75 (purchaser’s right to have sample taken and analysed) in so far as it applies in relation to feeding stuffs shall apply as if in subsection (1) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”.
+
+**16.**[^key-5756453cbbf13f0d6872afcd9a530689] Section 76 (inspector’s power to enter premises and take samples) in so far as it applies in relation to feeding stuffs shall apply as if —
+
+- (a) in subsection (1) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”; and
+- (b) for subsection (4) the following were substituted —
+
+  > (4) Without prejudice to any other power or duty as to the taking of samples, an inspector may for the purposes of this Part of this Act take a sample of any material which has been sold for use as a feeding stuff or which he has reasonable cause to believe to be intended for sale as such.
+
+  .
+
+**17.**[^key-91c8b24c363728066541a0bb4a21560b] Section 77 (division of samples and analysis by agricultural analyst) in so far as it applies in relation to feeding stuffs shall apply as if —
+
+- (a) for subsection (1) the following were substituted —
+
+  > (1) Where an inspector has taken a sample and prepared and packaged final samples in accordance with Regulation 152/2009 the inspector, in addition to sending a final sample to an agricultural analyst in Northern Ireland in accordance with the requirements of paragraph 8 of Annex I to that Regulation —
+  >
+  > - (a) shall send one final sample —
+  >   - (i) where the sample was taken pursuant to the request of a purchaser under section 75 of this Act, to the seller or his agent;
+  >   - (ii) in any other case, to the person on whose premises the sample was taken, or, if the person on whose premises the sample was taken purchased the material in question for use and not for resale, to the seller or his agent; and
+  > - (b) subject to section 78 of this Act, shall retain at least one final sample for nine months.
+
+  ;
+- (b) for subsection (2) the following were substituted —
+
+  > (2) If the person who manufactured any material of which an inspector has taken a sample as mentioned in subsection (1) is not a person to whom a final sample is required to be sent under that subsection, the inspector shall send a final sample to the manufacturer unless the inspector does not know and is unable after making reasonable inquiries to ascertain before the expiration of fourteen days from the date when the sample was taken —
+  >
+  > - (a) the manufacturer’s name, or
+  > - (b) any address of the manufacturer in the United Kingdom.
+
+  ;
+- (c) in subsection (3) —
+  - (i) “final sample” were substituted for “part of a sample”, and
+  - (ii) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”; and
+- (d) in subsection (4) —
+  - (i) “final sample” were substituted in each case for “part of a sample” or “part of the sample” as the case may be,
+  - (ii) “in such manner, if any, as may be prescribed” were omitted,
+  - (iii) “subsection (1)” were substituted for “subsection (1)(a)”, and
+  - (iv) in paragraph (b) “subsection (1)(a)(ii)” were substituted for “subsection (1)(b)(ii)”.
+
+**18.**[^key-2ec5f408fdf71232ccc847ead033c061] Section 78 (further analysis by Chief Agricultural Analyst) in so far as it applies in relation to feeding stuffs shall apply as if —
+
+- (a) in subsection (1) —
+  - (i) for paragraph (a) the following were substituted —
+
+    > - (a) to send the final sample retained by the inspector under section 77(1)(b) of this Act (as that section is modified by regulation 17(a) of the Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010) (“the retained sample”) to the Chief Agricultural Analyst for analysis;
+
+    , and
+  - (ii) in paragraph (b) “retained sample” were substituted for “remaining part” and “that sample” were substituted for “that part”;
+- (b) in subsection (2) —
+  - (i) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”,
+  - (ii) in paragraph (a)(i) “retained sample” were substituted for “remaining part of the sample”,
+  - (iii) in paragraph (a)(ii) “retained sample, whether that sample” were substituted for “remaining part, whether that part”, and
+  - (iv) in paragraph (b) “the retained sample” were substituted for “that remaining part”;
+- (c) in subsection (4) —
+  - (i) “in accordance with Regulation 152/2009” were substituted for “in the prescribed manner”, and
+  - (ii) “retained sample” were substituted for “remaining part of the sample”;
+- (d) in subsection (5) —
+  - (i) “part of a” were omitted,
+  - (ii) in paragraph (a) “part of the” were omitted, and
+  - (iii) in paragraph (b) “the retained sample” were substituted for “the part”; and
+- (e) in subsection (6) —
+  - (i) “in such manner, if any, as may be prescribed any part of” were omitted, and
+  - (ii) “the sample” were substituted for “the part”.
+
+**19.**[^key-7f9d94f99885c5caaee14a1639ff9693] Section 79 (supplementary provisions relating to samples and analysis) in so far as it applies in relation to feeding stuffs shall apply as if in subsection (3) —
+
+- (a) “is specified by Regulation 152/2009 or” were inserted after “quality of any material”; and
+- (b) “the method so specified or prescribed” were substituted for “the method prescribed”.
+
+### 20. Amendment of the Feed Hygiene Regulations[^key-9ce2d4909324af0e1369034e3bf47d03]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Amendment of the GM Feed Regulations[^key-00a91a04d499017d23b4f9718efa08fd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Amendment of the Official Feed and Food Controls Regulations (Northern Ireland) 2009[^key-4b96f3dd103d419fffd6aaf897c6a078]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Revocations[^key-fe17677882fd4f9e549672ceb06b36e4]
+
+The Regulations or parts thereof listed in Schedule 3 are revoked.
+
+## PART 4 — Undesirable substances
+
+### 24. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 2005[^key-78545c61c26076bc2bf7642e065ac9fb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 17th September 2010.
+
+L. Devlin
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — Form of Certificate of Analysis[^key-19162f5b5e37059cafd681824bf023f5]
+
+**No longer in force.**
+
+Regulation 6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Entries to be substituted in Chapter A of Schedule 5 to the Feeding Stuffs Regulations (Northern Ireland) 2005[^key-98505e454e617841fd6a89871e5b6ef7]
+
+**No longer in force.**
+
+Regulation 24(3)(a)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Revocations[^key-9eb591e265c49ee05f0e53044d9b5b21]
+
+Regulation 23
+
+[^key-9eb591e265c49ee05f0e53044d9b5b21]
+
+- The Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^f00017]
+- The Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 2001 [^f00018]
+- The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2002[^f00019]
+- Regulations 2 to 7 of the Feeding Stuffs (Sampling and Analysis) and Feeding Stuffs (Enforcement) (Amendment) Regulations (Northern Ireland) 2003[^f00020]
+- The Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 2004[^f00021]
+- Regulation 23 of the Feeding Stuffs Regulations (Northern Ireland) 2005[^f00022]
+- Regulation 3 of the Feeding Stuffs and the Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 2006 [^f00023]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations provide for the execution of [Commission Regulation (EC) No. 152/2009](https://www.legislation.gov.uk/european/regulation/2009/0152) laying down the methods of sampling and analysis for the official control of feed, (“the Commission Regulation”). The Commission Regulation repeals and re-enacts with certain amendments a large number of European directives concerning methods of sampling and analysis of feeding stuffs. The Regulations revoke the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999, which implemented those directives, and re-enact those administrative provisions of the 1999 Regulations which need to be kept in operation.
+
+**2.** These Regulations also, in Part 4, amend the Feeding Stuffs Regulations (Northern Ireland) 2005 in order to implement Commission Directive [2009/141/EC](https://www.legislation.gov.uk/european/directive/2009/0141) amending Annex 1 to Directive [2002/32/EC](https://www.legislation.gov.uk/european/directive/2002/0032) of the European Parliament and of the Council as regards maximum levels for arsenic, theobromine, *Datura* sp., *Ricinus communis* L., *Croton tiglium* L. and *Abrus precatorius* L., (“the Commission Directive”).
+
+**3.** The Regulations put in place administrative and other measures for the execution of the Commission Regulation, in particular —
+
+- (a) providing for metric equivalents of imperial quantities mentioned in the Agriculture Act 1970 (*regulation 3*);
+- (b) prescribing the methods of sending samples for analysis (*regulation 4*);
+- (c) providing for the methods to be used where an analysis is carried out other than in the context of official controls (*regulation 5*); and
+- (d) prescribing the form to be used for a certificate of analysis (*regulation 6 and Schedule 1*).
+
+**4.** The Regulations in Part 3 make textual changes to primary and secondary legislation in order to avoid any instances of overlap or inconsistency between the Commission Regulation and domestic legislation (*regulations 7 to 22*).
+
+**5.** The Regulations implement the Commission Directive by amending provisions of the Feeding Stuffs Regulations (Northern Ireland) 2005 concerning undesirable substances in animal feeds, notably in relation to maximum permitted levels for the substances mentioned in the title to the Commission Directive as set out in paragraph 2 above (*regulation 24 and Schedule 2*).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; See [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3
+
+[^f00002]: Footnote: [1970 c.40](https://www.legislation.gov.uk/ukpga/1970/40); sections 66(1) and 84 are modified in their application to Northern Ireland by section 86 of the Act and were amended by [S.R. 2004 No. 506](https://www.legislation.gov.uk/nisr/2004/506); section 74A was inserted by paragraph 6 of Schedule 4 to the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: [S.R. 2000 No. 78](https://www.legislation.gov.uk/nisr/2000/78)
+
+[^f00004]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00005]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027)
+
+[^f00006]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00007]: Footnote: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901)
+
+[^f00008]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
+
+[^key-24f66e76ca70614abdacc75f4015c6f1]: Commencement: Reg. 1 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-2a14f011f9a3b059af0da9c0b7930802]: Commencement: Reg. 2 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^f00009]: Footnote: OJ No. L54, 26.2.2009, p.1
+
+[^f00010]: Footnote: [S.R. 2005 No. 546](https://www.legislation.gov.uk/nisr/2005/546), to which there are amendments not relevant to these Regulations
+
+[^f00011]: Footnote: [S.R. 2004 No. 386](https://www.legislation.gov.uk/nisr/2004/386), to which there are amendments not relevant to these Regulations
+
+[^f00012]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-22f312a39378fa52adf6f8193eabed61]: Commencement: Reg. 3 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-3663918e62bfc047d368161a652ee44d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/323/regulation/4) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-1f8fe847671a343f33a9f9b30cd8bf22]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/323/regulation/5) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-744f97a1fe8db90603079f33ecfe7e94]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/323/regulation/6) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-a6844e5f67b39ebc6490472565a6fd08]: Commencement: Reg. 7 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-1b93aa7f8caa96ec63d2b58205b5a509]: Commencement: Reg. 8 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-5385fac05d3e92d025c0fc168aa2791b]: Commencement: Reg. 9 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^M_F_c71d57b0-680c-4c08-9445-53f9a1fe5993]: Textual amendment: Reg. 10 revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+
+[^key-cb373cf9f591c478fa29e99d534845ac]: Commencement: Reg. 11 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-4c38a6e266d51f9ec52ec0ac6dd48bd8]: Commencement: Reg. 12 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^M_F_109024c5-486c-4b01-bf59-1cddb98738d0]: Textual amendment: Reg. 13 revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+
+[^M_F_9b2dee7b-4af8-4e00-fe76-c2033e1e3e08]: Textual amendment: Reg. 14 revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+
+[^key-b856a5dbfd0b82fcea404412b39c26d5]: Commencement: Reg. 15 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-5756453cbbf13f0d6872afcd9a530689]: Commencement: Reg. 16 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-91c8b24c363728066541a0bb4a21560b]: Commencement: Reg. 17 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-2ec5f408fdf71232ccc847ead033c061]: Commencement: Reg. 18 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-7f9d94f99885c5caaee14a1639ff9693]: Commencement: Reg. 19 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-9ce2d4909324af0e1369034e3bf47d03]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/323/regulation/20) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-00a91a04d499017d23b4f9718efa08fd]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/323/regulation/21) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-4b96f3dd103d419fffd6aaf897c6a078]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/323/regulation/22) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-fe17677882fd4f9e549672ceb06b36e4]: Commencement: Reg. 23 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^key-78545c61c26076bc2bf7642e065ac9fb]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/323/regulation/24) revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+
+[^key-19162f5b5e37059cafd681824bf023f5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2010/323/schedule/1) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-98505e454e617841fd6a89871e5b6ef7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2010/323/schedule/2) revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+
+[^key-9eb591e265c49ee05f0e53044d9b5b21]: Commencement: Sch. 3 in operation at 11.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1)
+
+[^f00017]: Footnote: [S.R 1999 No. 296](https://www.legislation.gov.uk/nisr/1999/296)
+
+[^f00018]: Footnote: [S.R. 2001 No. 209](https://www.legislation.gov.uk/nisr/2001/209)
+
+[^f00019]: Footnote: [S.R. 2002 No. 263](https://www.legislation.gov.uk/nisr/2002/263)
+
+[^f00020]: Footnote: [S.R. 2003 No. 287](https://www.legislation.gov.uk/nisr/2003/287)
+
+[^f00021]: Footnote: [S.R. 2004 No. 345](https://www.legislation.gov.uk/nisr/2004/345)
+
+[^f00022]: Footnote: [S.R 2005 No. 545](https://www.legislation.gov.uk/nisr/2005/545)
+
+[^f00023]: Footnote: [S.R 2006 No. 18](https://www.legislation.gov.uk/nisr/2006/18)

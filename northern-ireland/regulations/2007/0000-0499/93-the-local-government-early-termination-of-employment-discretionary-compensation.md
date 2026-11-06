@@ -1,0 +1,278 @@
+---
+title: The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2007
+id: nisr/2007/93
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-02-16'
+text_date: '2015-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/93
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/93/pdfs/nisr_20070093_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/93/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2007
+
+> Text as at 2015-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 93
+
+local government
+
+The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2007
+
+Made
+
+16th February 2007
+
+Coming into operation
+
+12th March 2007
+
+The Department of the Environment, in exercise of the powers conferred by Article 19 of the Superannuation (Northern Ireland) Order 1972[^f00001] and now vested in it[^f00002].
+
+## 1. Citation, commencement and retrospection[^key-57f944b4594b3a9d480c05038b32abef]
+
+(1) These Regulations may be cited as The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2007.
+
+(2) These Regulations shall come into operation on 12th March 2007 but shall have effect from 1st October 2006.
+
+## 2. General interpretation[^key-84e3b9056a38f37f5b310593266bd74d]
+
+(1) In these Regulations—
+
+- “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00003];
+- “the 2003 Regulations” means The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003[^f00004];
+
+  “[^key-9712898e9b30c31c82ee01b294999c89]**the 2014 Regulations**” means the Local Government Pension Scheme Regulations (Northern Ireland) 2014
+- “the Administration Regulations” means the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009;[^key-26012f4d0ec06ecff20f134f12dad24c]
+- “the Benefits Regulations” means the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009;
+- “employment” includes office but does not include a period as a councillor[^f00005];
+- “[^key-a3bea43313e27497adbc5a211430a639]**the Pension Regulations**” means the 2014 Regulations, the Local Government Pension Scheme Regulations (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014, the Benefits Regulations, the Administration Regulations and the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (so far as they continue to operate);
+- “Scheme employer” means an employing authority and, in relation to any person who is a community or transferee admission agreement employee, his community or transferee admission body[^f00007];
+- “Scheme member” means a person who is a member of the Local Government Pension Scheme constituted by the Pension Regulations;
+- “termination date” means the date on the final day of a person’s employment terminated in one of the circumstances set out in regulation 3(1)(a).
+
+(2) Expressions not defined in paragraph (1) but used in these Regulations and in the Pension Regulations have the same meaning as in those Regulations.
+
+## 3. Application of the Regulations[^key-5d5bb96a2ccdd5e34a232ba4febe8961]
+
+(1) Subject to regulation 9(2), these Regulations apply in relation to a person—
+
+- (a) whose employment is terminated—
+  - (i) by reason of redundancy;
+  - (ii) in the interests of the efficient exercise of the Scheme employer’s functions; or
+  - (iii) in the case of a joint appointment, because the other holder of the appointment has left it;
+- (b) who, on the termination date, is—
+  - (i) employed by a Scheme employer; and
+  - (ii) eligible to be a Scheme member (whether or not he is such a member) or would be so eligible but for the giving of a notification under regulation 7 (ending active membership) of the 2014 Regulations[^key-9321d7aa4e059a09030927ce56f25647] ; and
+- (c) whose termination date is on or after the 1st October 2006;
+
+and in the following provisions, “person” shall be construed accordingly, unless the context indicates that it has a different meaning.
+
+(2) Where an additional requirement is specified in any provision of regulations 4 and 5 in relation to a person, that provision does not apply in relation to him unless he satisfies that additional requirement.
+
+## 4. Power to increase statutory redundancy payments[^key-36273b4cbf879734db5c0531f8bb2e73]
+
+(1) Compensation may be paid in accordance with this regulation to a person who is entitled to a redundancy payment under the 1996 Order on the termination of his employment.
+
+(2) The amount which may be paid must not be more than the difference between—
+
+- (a) the redundancy payment to which he is entitled under Part XII of the 1996 Order[^f00008]; and
+- (b) the payment to which he would have been entitled if there had been no limit on the amount of a week’s pay used in the calculation of his redundancy payment[^f00009].
+
+(3) The power to pay compensation is exercisable by the Scheme employer by which he is employed immediately before the termination date.
+
+## 5. Discretionary compensation[^key-50cb3755bc9b737c2a826318406c14b5]
+
+(1) This regulation applies where a person—
+
+- (a) ceases to hold his employment with a Scheme employer; and
+- (b) in respect of that cessation may not count an award of additional pension under regulation 32 (award of additional pension) of the 2014 Regulations[^key-09f7625b0325d4ba50ddb7854687b481] of the Benefits Regulations of the Pension Regulations[^f00010].
+
+(2) Where this regulation applies, the Scheme employer may, not later than six months after the termination date, decide to pay compensation under this regulation, and in that event shall, as soon as reasonably practicable after the decision, notify the person in whose favour it has been made, giving details of the amount of compensation.
+
+(3) The amount of compensation must not exceed 104 weeks’ pay.
+
+(4) Chapter IV (a week’s pay) of Part I (introductory and interpretation) of the 1996 Order shall apply for the purpose of calculating a person’s week’s pay as it applies for the purpose of calculating redundancy payments but—
+
+- (a) with the same substitution for references to the calculation date of references to the termination date; and
+- (b) without the limit on a week’s pay imposed by Article 23(1) of that Order.
+
+(5) In calculating compensation under this regulation the Scheme employer shall exclude any years of qualifying employment which that Scheme employer or any Scheme employer has taken into account when calculating compensation already paid under these Regulations or any other regulations made under Article 19 of the Superannuation (Northern Ireland) Order 1972, other than years of concurrent qualifying employment.
+
+(6) If the person in whose favour a determination under paragraph (2) has been made receives a redundancy payment under Part XII of the 1996 Order or compensation under regulation 4, the equivalent amount shall be deducted from the compensation otherwise payable to him under this regulation.
+
+(7) Compensation payable under this regulation shall be paid by the Scheme employer, as soon as practicable after the decision under paragraph (2), in the form of a lump sum.
+
+## 6. Policy statements[^key-52e488083c66c77cf9b93dbc6ab10e41]
+
+(1) Each Scheme employer must formulate, publish and keep under review the policy that it applies in the exercise of its discretionary powers under regulations 4 and 5.
+
+(2) If the Scheme employer decides to change its policy, it must publish a statement of the amended policy and may not give effect to any policy change until one month after the date of publication.
+
+(3) In formulating and reviewing its policy the Scheme employer must—
+
+- (a) have regard to the extent to which the exercise of its discretionary powers (in accordance with the policy), unless properly limited, could lead to a serious loss of confidence in the public service; and
+- (b) be satisfied that the policy is workable, affordable and reasonable having regard to the foreseeable costs.
+
+## 7. Payments and repayments[^key-5ebd4dba5b52acade8604e904a7beccc]
+
+(1) Any compensation payable is payable to or in trust for the person entitled to receive it.
+
+(2) Where any compensation is paid in error to any person—
+
+- (a) the Scheme employer must, as soon as possible after the discovery of the error—
+  - (i) inform the person concerned, by notice in writing, giving details of the relevant calculation;
+  - (ii) where there has been an underpayment, make further payment;
+  - (iii) where there has been an overpayment, specify a reasonable period for repayment;
+- (b) a person who has received a notice under sub-paragraph (a) must repay any overpayment within the specified period; and
+- (c) the Scheme employer may take such steps as they consider appropriate to recover from the person to whom it was paid any overpayment which has not been repaid within the specified period.
+
+(3) The Scheme employer shall take into account the person’s circumstances (so far as known or reasonably ascertainable) before taking steps under paragraph (2)(c).
+
+## 8. Finance[^key-3e8c0d82d3d5784fbdafeba9cb000d8c]
+
+The cost of any payment to be made under these Regulations must not be met out of the pension fund maintained under the Pension Regulations.
+
+## 9. Revocation of Regulations, transitional provision and savings[^key-f359434ce0e85438efa7353e4606d95d]
+
+(1) The following are revoked but subject to the transitional provision in paragraph (2) and the savings in the Schedule—
+
+- (a) the 2003 Regulations; and
+- (b) regulation 5 of the Local Government Pension Scheme (Civil Partnership) (Amendment) Regulations (Northern Ireland) 2006[^f00011].
+
+(2) A Scheme employer may decide to pay compensation under the 2003 Regulations to a person whose employment commenced before 1st October 2006 and whose termination date is after 30th September 2006 and before 1st April 2007.
+
+(3) A Scheme employer may decide to pay compensation under regulation 5 to a person—
+
+- (a) whose employment with them terminated after 30th September 2006 and before the date on which these Regulations come into operation; and
+- (b) in respect of whom a decision to pay lump sum compensation has been made and notified under Part III of the 2003 Regulations before the date on which these Regulations come into operation (“the 2003 lump sum”).
+
+(4) The amount that a Scheme employer may decide to pay under paragraph (3) may not exceed the difference between—
+
+- (a) 104 weeks’ pay; and
+- (b) the 2003 lump sum;
+
+but if the person in whose favour a decision under paragraph (3) has been made receives a redundancy payment under Part XII of the 1996 Order or compensation under regulation 4 of the 2003 Regulations or regulation 4 of these Regulations, the equivalent amount shall be deducted from the compensation otherwise payable to him under paragraph (3) if no such adjustment has already been made.
+
+(5) Nothing in these Regulations shall place any individual who is eligible to participate in the benefits for which the 2003 Regulations provide in a worse position than he would have been in if all the provisions of these Regulations had been framed so as to have effect only from the date of their making.
+
+Sealed with the Official Seal of the Department of the Environment on 16th February 2007.
+
+J Ritchie
+
+A senior officer of the Department of the Environment
+
+## SCHEDULE — SAVINGS
+
+Regulation 9
+
+**1.**[^key-86e7e043a9bfe5dcbc65bcea4ad5080b] The revocation of the 2003 Regulations does not affect—
+
+- (a) any person whose termination date is before 1st October 2006 and who is eligible for compensation under the provisions of those Regulations;
+- (b) any person to whom a Scheme employer has decided that compensation shall be paid under those Regulations in accordance with regulation 9(2) of these Regulations; or
+- (c) the rights of any person who is entitled to benefits under those Regulations in consequence of the death of such a person
+
+and in relation to such persons those Regulations shall continue to apply.
+
+**2.**[^key-dff81b2c4ed39f3c22322972629475dd] Where—
+
+- (a) any provision continues to have effect in relation to any person by virtue of paragraph 1; and
+- (b) immediately before 1st October 2006 it has effect in relation to him subject to any saving, transitional provision or modification
+
+nothing in these Regulations affects the operation of that saving, transitional provision or modification.
+
+**3.**[^key-7739d28e702bf161af67774f6a6c9113] The revocation by these Regulations of any provision which previously revoked any provision subject to savings does not affect the continued operation of those savings, in so far as they remain capable of having effect.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide a new, simplified framework for the payment of discretionary compensation to persons whose local government employment is terminated on or after 1st October 2006 by reason of redundancy or in the interests of the service or where a joint appointment comes to an end because one of the holders leaves. They revoke the Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003 (“the 2003 Regulations”) but the revocation does not affect any person whose termination date is before 1st October 2006 or the rights of any person who is entitled to benefits under those Regulations in consequence of the death of such a person. In relation to such persons the 2003 Regulations continue to apply.
+
+Regulation 3 states to whom the Regulations apply.
+
+Regulation 4 gives a power to increase a redundancy payment made under the Employment Rights (Northern Ireland) Order 1996 (“the 1996 Order”).
+
+Regulation 5 allows an employer to award compensation in the form of a lump sum of an amount that must not exceed 104 weeks’ pay. The regulation sets out the basis for calculating a week’s pay for an individual. Any redundancy payment under the 1996 Order or compensation paid under regulation 4 of these Regulations must be offset against compensation paid under regulation 5.
+
+Regulation 6 requires each Local Government Pension Scheme employer to have and publish a policy that they apply in the exercise of their discretionary powers under regulations 4 and 5.
+
+Regulation 7 deals with how payments are made and any errors dealt with.
+
+Regulation 8 provides that payments made under these Regulations must not be met out of the Local Government Pension Scheme fund.
+
+Regulation 9 contains revocations and a transitional provision, subject to savings. A transitional provision is that a Scheme employer may decide to pay compensation under the 2003 Regulations in respect of a person whose employment commenced before 1st October 2006 and whose termination date is between 1st October 2006 and 31st March 2007 (inclusive). A Scheme employer may also pay additional compensation under these Regulations to a person whose termination date is between 1st October 2006 and the date on which these Regulations came into operation (inclusive) and who has been awarded a lump sum under Part 3 of the 2003 Regulations, as long as the total amount paid does not exceed the maximum payable under these Regulations.
+
+The Regulations take effect from 1st October 2006. Article 19 of the Superannuation (Northern Ireland) Order 1972 provides that regulations made under that Article may have retrospective effect. Regulation 9(5) of these Regulations provides that nothing in these Regulations shall place any individual in a worse position than he would have been if these Regulations had not had retrospective effect.
+
+The Schedule makes savings.
+
+A regulatory impact assessment of the corresponding Statutory Instrument for England and Wales was carried out by the Department for Communities and Local Government and is available on the internet at www.xoq83.dial.pipex.com. The assessment anticipated no increase in Scheme employers’ compensation costs.
+
+## Annotations
+
+[^f00001]: Footnote: [1972/1073 (N.I. 10).](https://www.legislation.gov.uk/nisi/1972/1073).
+
+[^f00002]: Footnote: S.R. & O (N.I.) [1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Article 7 (1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
+
+[^key-57f944b4594b3a9d480c05038b32abef]: Commencement: Reg. 1 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-84e3b9056a38f37f5b310593266bd74d]: Commencement: Reg. 2 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^f00003]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
+
+[^f00004]: Footnote: [S.R. 2003 No. 61](https://www.legislation.gov.uk/nisr/2003/61) as amended by [S.R. 2004 No. 455](https://www.legislation.gov.uk/nisr/2004/455) and [S.R. 2006 No. 6](https://www.legislation.gov.uk/nisr/2006/6).
+
+[^key-9712898e9b30c31c82ee01b294999c89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/93/regulation/2) inserted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/nisr/2014/189/schedule/4/paragraph/12/a)
+
+[^key-26012f4d0ec06ecff20f134f12dad24c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/93/regulation/2) inserted (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2009/34/schedule/4)
+
+[^f00005]: Footnote: *See* section 1(3) of the Local Government Act (Northern Ireland) 1972 ([1972 c. 9](https://www.legislation.gov.uk/ukpga/1972/9)).
+
+[^key-a3bea43313e27497adbc5a211430a639]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/93/regulation/2) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [Sch. 4 para. 12(b)](https://www.legislation.gov.uk/nisr/2014/189/schedule/4/paragraph/12/b)
+
+[^f00007]: Footnote: *See* regulations 4 and 4A, respectively, of the Local Government Pension Scheme Regulations (Northern Ireland) 2002 ([S.R. 2002 No. 352](https://www.legislation.gov.uk/nisr/2002/352)) as amended by [S.R. 2005 No. 206](https://www.legislation.gov.uk/nisr/2005/206).
+
+[^key-5d5bb96a2ccdd5e34a232ba4febe8961]: Commencement: Reg. 3 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-9321d7aa4e059a09030927ce56f25647]: Textual amendment: Words in [reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/93/regulation/3/1/b/ii) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2014/189/schedule/4/paragraph/13)
+
+[^key-36273b4cbf879734db5c0531f8bb2e73]: Commencement: Reg. 4 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^f00008]: Footnote: Part XII of the Employment Rights (Northern Ireland) Order 1996 ([S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)) as amended by [S.I. 1998 No. 1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265), [S.R. 1999 No. 409](https://www.legislation.gov.uk/nisr/1999/409), [S.I. 1999 No. 2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790), [S.R. 2002 No. 298](https://www.legislation.gov.uk/nisr/2002/298) and [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307).
+
+[^f00009]: Footnote: *See* Article 23(1)(c) of the Employment Rights (Northern Ireland) Order 1996 ([S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)).
+
+[^key-50cb3755bc9b737c2a826318406c14b5]: Commencement: Reg. 5 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-09f7625b0325d4ba50ddb7854687b481]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2007/93/regulation/5/1/b) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [Sch. 4 para. 14](https://www.legislation.gov.uk/nisr/2014/189/schedule/4/paragraph/14)
+
+[^f00010]: Footnote: Regulation 54 was amended by [S.R. 2003 No. 61](https://www.legislation.gov.uk/nisr/2003/61) and [S.R. 2005 No. 274](https://www.legislation.gov.uk/nisr/2005/274).
+
+[^key-52e488083c66c77cf9b93dbc6ab10e41]: Commencement: Reg. 6 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-5ebd4dba5b52acade8604e904a7beccc]: Commencement: Reg. 7 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-3e8c0d82d3d5784fbdafeba9cb000d8c]: Commencement: Reg. 8 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-f359434ce0e85438efa7353e4606d95d]: Commencement: Reg. 9 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^f00011]: Footnote: [S.R. 2006 No. 6](https://www.legislation.gov.uk/nisr/2006/6).
+
+[^key-86e7e043a9bfe5dcbc65bcea4ad5080b]: Commencement: Sch. para. 1 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-dff81b2c4ed39f3c22322972629475dd]: Commencement: Sch. para. 2 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)
+
+[^key-7739d28e702bf161af67774f6a6c9113]: Commencement: Sch. para. 3 in operation at 12.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/93/regulation/1/2)

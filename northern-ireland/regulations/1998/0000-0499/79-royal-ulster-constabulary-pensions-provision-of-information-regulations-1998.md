@@ -1,0 +1,121 @@
+---
+title: Royal Ulster Constabulary Pensions (Provision of Information) Regulations 1998
+id: nisr/1998/79
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '1998-03-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1998/79
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/79/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Royal Ulster Constabulary Pensions (Provision of Information) Regulations 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 79
+
+POLICE
+
+Royal Ulster Constabulary Pensions (Provision of Information) Regulations 1998
+
+Made
+
+6th March 1998
+
+To be laid before Parliament
+
+Coming into operation
+
+13th April 1998
+
+The Secretary of State, in pursuance of section 25 of the Police Act (Northern Ireland) 1970[^f00001], and after consulting, in accordance with section 34(2) of that Act, the Police Authority and the Police Association and, in accordance with section 62(3) of the Police Act 1996[^f00002], the Police Negotiating Board for the United Kingdom, hereby, with the concurrence of the Treasury, makes the following regulations:—
+
+## 1. Citation and commencement
+
+These regulations may be cited as the Royal Ulster Constabulary Pensions (Provision of Information) Regulations 1998 and shall come into operation on 13th April 1998.
+
+## 2. Interpretation
+
+(1) The following expressions have the meanings hereby assigned to them—
+
+- “the Act” means the Financial Services Act 1986[^f00003];
+- “member” means a member of the Royal Ulster Constabulary and includes a member who is suspended under the discipline regulations;
+- “personal pension scheme” has the meaning given by section 1 of the Pension Schemes (Northern Ireland) Act 1993[^f00004];
+- “police pension rights” means pension rights under the regulations relating to Royal Ulster Constabulary pensions for the time being in force.
+
+(2) For the purposes of these regulations, an individual shall be taken to have opted or transferred out if—
+
+- (a) for any period during which he is a member, he does not make contributions in respect of police pension rights but instead makes contributions to a personal pension scheme; or
+- (b) a transfer value is paid in respect of the individual by the Police Authority to a personal pension scheme.
+
+## 3. Provision of information to prescribed persons
+
+(1) The Police Authority may, in the circumstances prescribed in paragraph (2), provide information in connection with the questions specified in paragraph (3)(*a*) to such a person as is prescribed in paragraph (3)(*b*).
+
+(2) For the purposes of paragraph (1), prescribed circumstances are where a written request for, or a written consent to, the provision of the information has been given—
+
+- (a) by, or on behalf of, the individual to whom the information relates, or
+- (b) where the individual to whom the information relates has died, by his personal representatives.
+
+(3) For the purposes of paragraph (1)—
+
+- (a) the specified questions are—
+  - (i) whether an individual who has opted or transferred out has suffered loss as a result of a contravention which is actionable under section 62 of the Act (actions for damages in respect of contravention of rules, etc. made under the Act), and
+  - (ii) if so, what payment would need to be made in respect of that individual to the Police Authority to restore the position to what it would have been if that individual had not opted or transferred out; and
+- (b) a prescribed person is—
+  - (i) a person who is or has been an authorised person within the meaning of the Act (“an authorised person”);
+  - (ii) an appointed representative within the meaning of section 44 of the Act (“an appointed representative”);
+  - (iii) a recognised professional body within the meaning of the Act;
+  - (iv) a recognised self-regulating organisation within the meaning of the Act;
+  - (v) the Securities and Investments Board[^f00005];
+  - (vi) the Investors Compensation Scheme Limited[^f00006];
+  - (vii) a professional indemnity insurer of an authorised person or an appointed representative;
+  - (viii) the Chartered Accountants Compensation Scheme Limited;
+  - (ix) the Solicitors Indemnity Fund Limited;
+  - (x) the providers. claim handlers and brokers of the Law Society for Northern Ireland master policy for professional indemnity insurance;
+  - (xi) a person or body arbitrating or adjudicating in, or investigating or considering, a complaint or dispute made or referred to them by such an individual as is mentioned in sub-paragraph (*a*) and which involves that individual and an authorised person or an appointed representative; and
+  - (xii) a person or body appointed to act on behalf of any of the above.
+
+Marjorie Mowlam
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+25th February 1998
+
+We concur
+
+Graham Allen
+
+Bob Ainsworth
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+6th March 1998
+
+(This note is not part of the Regulations.)
+
+These regulations permit the Police Authority to provide, in prescribed circumstances and to prescribed persons, information about whether an individual who has opted or transferred out of the RUC pension scheme has suffered loss as a result of a contravention which is actionable under section 62 of the Financial Services Act 1986.
+
+## Annotations
+
+[^f00001]: Footnote: [1970 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1970/9) as amended by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29) and modified by S.I. [1973/2163](https://www.legislation.gov.uk/uksi/1973/2163)
+
+[^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
+
+[^f00003]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
+
+[^f00004]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^f00005]: Footnote: The Securities and Investments Board is a designated agency within the meaning of section 114 of the Financial Services Act 1986
+
+[^f00006]: Footnote: The Investors Compensation Scheme Limited was established under section 54 of the Financial Services Act 1986

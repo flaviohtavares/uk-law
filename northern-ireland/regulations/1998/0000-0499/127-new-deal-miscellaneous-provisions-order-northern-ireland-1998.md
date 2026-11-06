@@ -1,0 +1,176 @@
+---
+title: New Deal (Miscellaneous Provisions) Order (Northern Ireland) 1998
+id: nisr/1998/127
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1998-03-31'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/127
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/127/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# New Deal (Miscellaneous Provisions) Order (Northern Ireland) 1998
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 127
+
+EMPLOYMENT AND TRAINING
+
+SOCIAL SECURITY
+
+New Deal (Miscellaneous Provisions) Order (Northern Ireland) 1998
+
+Made
+
+31st March 1998
+
+Coming into operation
+
+11th May 1998
+
+Whereas arrangements known as “the New Deal” have been made by the Department of Economic Development under section 1 of the Employment and Training Act (Northern Ireland) 1950 (“the 1950 Act”)[^f00001]:
+
+And whereas it appears to the Department of Economic Development that these arrangements make provisions for persons using facilities provided in pursuance of them to receive payments in connection with their use of those facilities:
+
+Now, therefore, the Department of Economic Development, in exercise of the powers conferred on it by Article 4 of the Employment and Training (Amendment) (Northern Ireland) Order 1988[^f00002] and of every other power enabling it in that behalf, hereby makes the following Order:—
+
+## 1. Citation and commencement[^key-3fff34b39b86e4e244aedc0c4cb8ae8a]
+
+(1) This Order may be cited as the New Deal (Miscellaneous Provisions) Order (Northern Ireland) 1998 and shall come into operation on 11th May 1998.
+
+(2) In this Order—
+
+- “facilities” means facilities provided for the participant in pursuance of one or more of the New Deal Components;[^key-3b7e7464256bf9ba3614cdcae76f810e]
+- “the New Deal” means the arrangements known by that name and made under section 1 of the 1950 Act for which only persons who are aged 18 years or over and less than 26 years immediately prior to entry are eligible and which are designed to help New Deal participants to obtain work or to improve their prospects of obtaining work;
+- “the New Deal Components” means any of the following, that is to say, the programmes of employment or employment-related training under the New Deal known individually as “the Full-time Education and Training Option”, “the Voluntary Sector Option” , the Employment Option[^key-131c64f67668b496b5e47adc2b030025] and “the Environmental Task Force Option”;
+- “trading receipt” means, in relation to a New Deal Participant under the Employment Option, any payment made to him in consideration of goods or services supplied by him in the course of his participation under that option;[^key-eeabc55700733a2b718ab0cfcc10fa91]
+- “training allowance” means a payment made by the Department to a New Deal participant in connection with his participation in one or more of the New Deal components;
+- and a person is, or, as the case may be, was, at any material time, a “New Deal participant” if he is, or as the case may be, was, at that time, using facilities [^key-3b1ac88e522fde62f09e8bb940f9d988]....
+
+## 2. Treatment of persons and payments for purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and other specified statutory provisions.[^key-3d459cb6d988ca3c5062866b4796530d]
+
+(1) The provisions of this Article apply for the purposes of—
+
+- (a) Part I of the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
+- (b) the Jobseekers (Northern Ireland) Order 1995, and
+- (c) the statutory provisions specified in the Schedule.
+
+(2) If, for any period or periods commencing with and including and falling after the date on which this Order comes into operation, during which a person is a New Deal participant, and is participating in either the Full-time Education and Training Option, the Voluntary Sector Option or the Environmental Task Force Option, that person receives, or is eligible to receive, a training allowance, he is to be treated for that period or those periods and in respect of his participation as not being employed but as participating in arrangements for training under section 1 of the 1950 Act; and accordingly, any payment made to such a person during that period or those periods in connection with his use of facilities shall be treated in the same manner as a payment of training allowance made in respect of such training.
+
+(3) If, for any period or periods commencing with or falling after the date on which this paragraph comes into operation, during which a person is a New Deal participant and is participating in the Employment Option in a capacity other than that of employee, that person receives, or is eligible to receive, a training allowance, he is to be treated for that period or periods and in respect of his participation as not being employed but as participating in arrangements for training under section 1 of the 1950 Act; and accordingly any payment, other than a trading receipt, made to such a person during that period or those periods in connection with his use of facilities shall be treated in the same manner as a payment of training allowance made in respect of such training.
+
+Sealed with the Official Seal of the Department of Economic Development on
+
+W. A. N. Arbuthnot
+
+Assistant Secretary
+
+31st March 1998.
+
+## SCHEDULE — Statutory provisions[^key-c6c7b25e3e33b981b80e9d5e0b52df28]
+
+Article 2
+
+[^key-c6c7b25e3e33b981b80e9d5e0b52df28]
+
+- The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00005]
+- The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00006]
+- The Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations (Northern Ireland) 1984[^f00007]
+- The Income Support (General) Regulations (Northern Ireland) 1987[^f00008]
+- The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00009]
+- The Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00010]
+- The Housing Benefit Regulations (Northern Ireland) 2006[^key-1c395a11ca51d6158054baa68f741490]
+- The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+- The Family Credit (General) Regulations (Northern Ireland) 1987[^f00012]
+- The Income Support (General) (Amendment No. 3) Regulations (Northern Ireland) 1991[^f00013]
+- The Income Support (General) (Amendment No. 5) Regulations (Northern Ireland) 1991[^f00014]
+- The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00015]
+- The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00016]
+- The Child Support (Maintenance Assessment Special Cases) Regulations (Northern Ireland) 1992[^f00017]
+- The Fire Services (Factory, Office and Shop Premises) Order (Northern Ireland) 1993[^f00018]
+- The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00019]
+- The Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996[^f00020]
+- The Social Security (Back To Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00021]
+- Maintenance Allowance (Pupils over Compulsory School Age) Regulations (Northern Ireland) 1996[^f00022]
+- Students Awards Regulations (Northern Ireland) 1997[^f00023]
+- The Housing Renovation (Grants) (Reduction of Grant) Regulations (Northern Ireland) 1997[^f00024]
+- The Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001[^key-754aeb6cc3dcb09f8e3cf7ff42c6e33c]
+- The Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001
+
+(This note is not part of the Order.)
+
+This Order provides that, for the purposes of Part I of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and the statutory provisions specified in the Schedule to the Order, a person using facilities provided in pursuance of any of the employment or employment-related training programmes known as “the Full-time Education and Training Option”, “the Voluntary Sector Option” and “the Environmental Task Force Option” under the arrangements known as the New Deal and receiving or entitled to receive from the Department of Economic Development a training allowance in connection with the use of those facilities shall be treated as not being employed but as participating in arrangements for training under section 1 of the Employment and Training (Northern Ireland) Act 1950. Any payment made to such a person in connection with his use of those facilities shall be treated in the same manner as a payment of training allowance made in respect of such training.
+
+## Annotations
+
+[^f00001]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988, [S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)
+
+[^f00002]: Footnote: [S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)
+
+[^key-3fff34b39b86e4e244aedc0c4cb8ae8a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/127/article/1) in operation at 11.5.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/127/article/1/1)
+
+[^key-3b7e7464256bf9ba3614cdcae76f810e]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/1998/127/article/1/2) inserted (29.9.1998) by [New Deal (Miscellaneous Provisions) (Amendment) Order (Northern Ireland) 1998 (S.R. 1998/309)](https://www.legislation.gov.uk/nisr/1998/309), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/309/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/1998/309/article/2/2/a)
+
+[^key-131c64f67668b496b5e47adc2b030025]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/1998/127/article/1/2) inserted (29.9.1998) by [New Deal (Miscellaneous Provisions) (Amendment) Order (Northern Ireland) 1998 (S.R. 1998/309)](https://www.legislation.gov.uk/nisr/1998/309), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/309/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/1998/309/article/2/2/b)
+
+[^key-eeabc55700733a2b718ab0cfcc10fa91]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/1998/127/article/1/2) inserted (29.9.1998) by [New Deal (Miscellaneous Provisions) (Amendment) Order (Northern Ireland) 1998 (S.R. 1998/309)](https://www.legislation.gov.uk/nisr/1998/309), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/309/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/1998/309/article/2/2/c)
+
+[^key-3b1ac88e522fde62f09e8bb940f9d988]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/1998/127/article/1/2) deleted (29.9.1998) by [New Deal (Miscellaneous Provisions) (Amendment) Order (Northern Ireland) 1998 (S.R. 1998/309)](https://www.legislation.gov.uk/nisr/1998/309), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/309/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/1998/309/article/2/2/d)
+
+[^key-3d459cb6d988ca3c5062866b4796530d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/1998/127/article/2) substituted (29.9.1998) by [New Deal (Miscellaneous Provisions) (Amendment) Order (Northern Ireland) 1998 (S.R. 1998/309)](https://www.legislation.gov.uk/nisr/1998/309), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/309/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/1998/309/article/2/3)
+
+[^key-c6c7b25e3e33b981b80e9d5e0b52df28]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1998/127/schedule) in operation at 11.5.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/127/article/1/1)
+
+[^f00005]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); as amended by [S.R. 1978 No. 77](https://www.legislation.gov.uk/nisr/1978/77), [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1988 No. 276](https://www.legislation.gov.uk/nisr/1988/276), [298](https://www.legislation.gov.uk/nisr/1988/298) and [326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00006]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); as amended by [S.R. 1982 No. 272](https://www.legislation.gov.uk/nisr/1982/272) and [S.R. 1988 No. 312](https://www.legislation.gov.uk/nisr/1988/312)
+
+[^f00007]: Footnote: [S.R. 1984 No. 245](https://www.legislation.gov.uk/nisr/1984/245); as amended by [S.R. 1989 Nos. 194](https://www.legislation.gov.uk/nisr/1989/194) and [364](https://www.legislation.gov.uk/nisr/1989/364)
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); as amended by [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1992 Nos. 147](https://www.legislation.gov.uk/nisr/1992/147) and [403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and [S.R. 1995 Nos. 67](https://www.legislation.gov.uk/nisr/1995/67) and [301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^f00009]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); as amended by [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
+
+[^f00010]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460); as amended by [S.R. 1989 No. 371](https://www.legislation.gov.uk/nisr/1989/371)
+
+[^key-1c395a11ca51d6158054baa68f741490]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1998/127/schedule) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/6/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00012]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463)
+
+[^f00013]: Footnote: [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
+
+[^f00014]: Footnote: [S.R. 1991 No. 474](https://www.legislation.gov.uk/nisr/1991/474)
+
+[^f00015]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); as amended by [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
+
+[^f00016]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); as amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164) and [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00017]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341); as amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164) and [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00018]: Footnote: [S.R. 1993 No. 319](https://www.legislation.gov.uk/nisr/1993/319)
+
+[^f00019]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^f00020]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518)
+
+[^f00021]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519)
+
+[^f00022]: Footnote: [S.R. 1996 No. 578](https://www.legislation.gov.uk/nisr/1996/578)
+
+[^f00023]: Footnote: [S.R. 1997 No. 361](https://www.legislation.gov.uk/nisr/1997/361)
+
+[^f00024]: Footnote: [S.R. 1997 No. 456](https://www.legislation.gov.uk/nisr/1997/456)
+
+[^key-754aeb6cc3dcb09f8e3cf7ff42c6e33c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1998/127/schedule) added (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Child Support (Consequential Amendments and Transitional Provisions) Regulations (Northern Ireland) 2001 (S.R. 2001/29)](https://www.legislation.gov.uk/nisr/2001/29), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2001/29/regulation/6); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3](https://www.legislation.gov.uk/nisr/2003/53/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)

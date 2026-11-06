@@ -1,0 +1,970 @@
+---
+title: The Specified Risk Material Regulations (Northern Ireland) 1997
+id: nisr/1997/552
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-12-29'
+text_date: '1998-01-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/552
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/552/data.pdf
+pending_changes: 61
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Specified Risk Material Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (61).** Text as at 1998-01-01. See https://www.legislation.gov.uk/changes/affected/nisr/1997/552
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 552
+
+FOOD SAFETY
+
+The Specified Risk Material Regulations (Northern Ireland) 1997
+
+Made
+
+29th December 1997
+
+Coming into operation
+
+1st January 1998
+
+Whereas it appears to the Department of Agriculture, acting as the Department concerned that it is necessary or expedient—
+
+- (a) for the purposes of ensuring that food complies with food safety requirements or in the interests of public health; or
+- (b) for the purposes of protecting or promoting the interests of consumers,
+
+to make the following Regulations;
+
+Now therefore the said Department concerned, in exercise of the powers conferred by Articles 15(1), (2) and (3), 16(1), 18(1), 25, 26(3) and 47(2) of and paragraphs 2(1), 3, 5 and 6(1) of Schedule 1 to the Food Safety (Northern Ireland) Order 1991[^f00001] and of every other power enabling it in that behalf, and after consultation, in accordance with Article 47(3) of that Order, with such organisations that appear to it to be representative of interests substantially affected by the Regulations, hereby makes the following Regulations:
+
+## Part I — Preliminary
+
+### 1. Citation and commencement[^key-86c3cef0b79800b5a891afb8c970f650]
+
+These Regulations may be cited as the Specified Risk Material Regulations (Northern Ireland) 1997 and shall come into operation on 1st January 1998.
+
+### 2. Interpretation[^key-2f9e97f623c17867993c86994b014e2b]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “approved” in relation to any incinerator means approved by the Department for the purposes of regulation 23;
+- “approved”, in relation to cutting premises or a slaughterhouse, means approved by the Department for the purposes of regulation 15;
+- “class I specified risk material” means—
+  - (a) class I specified bovine material;
+  - (b) class I specified sheep and goat material;
+
+  but does not include material derived from animals which—
+
+  - (i) were slaughtered or died outside the United Kingdom before 1st January 1998; or
+  - (ii) were born, reared and slaughtered in Australia or New Zealand;
+- “class II specified risk material” means—
+  - (a) class II specified bovine material;
+  - (b) class II specified sheep and goat material;
+  - (c) any part of the ruminant animal remaining attached to class I or II specified bovine material or class I or II specified sheep and goat material after dissection of the carcase; and
+  - (d) any animal material which comes into contact with class I or II specified bovine material or class I or II specified sheep and goat material after it has been removed from the carcase;
+- “collection centre” means any premises approved by the Department under and for the purposes of regulation 22;
+- “consignment record” means in relation to any consignment of specified risk material, protein or tallow, a record of, as the case may be—
+  - (a) the date on which the consignment was dispatched or received (as the case may be);
+  - (b) the weight of the consignment; and
+  - (c) the person and the place to whom the consignment was dispatched or from whom it was received;
+- “cutting premises” has the meaning given in the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^f00002];
+- “Department” means Department of Agriculture;
+- “inspector” means a person designated as such in accordance with regulation 7(2) of the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997;
+- “intestines” means that part of the digestive tract of a bovine animal from the junction of the abomasum and the duodenum to (and including) the rectum and anal sphincter;
+- “licensed”, in relation to cutting premises or a slaughterhouse, means licensed under the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997;
+- “official veterinary surgeon” means a person designated as such in accordance with regulation 7(1) of the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997;
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “rendering plant” means any premises approved by the Department under and for the purposes of regulation 24;
+- “rendering” means, in relation to any animal material, subjecting that material to any of the systems of treatment or procedures mentioned in Schedule 4 to the Animal By-Products Regulations (Northern Ireland) 1993[^f00003];
+- “ruminant animal” means a bovine animal, a sheep or a goat;
+- “scheme animal” means a bovine animal—
+  - (a) which has been slaughtered pursuant to the purchase scheme introduced under Commission Regulation [(EC) No. 716/96](https://www.legislation.gov.uk/european/regulation/1996/0716)[^f00004] adopting exceptional support measures for the beef market in the United Kingdom; or
+  - (b) which, being an animal which has been exposed to bovine spongiform encephalopathy, the Department has caused to be slaughtered under paragraph 10A of Part I of Schedule 2 to the Diseases of Animal Order (Northern Ireland) Order 1981[^f00005];
+- “sealed vehicle” means a vehicle sealed in accordance with regulation 18(3);
+- “specified bovine material” has the meaning given in regulation 4;
+- “specified risk material” means—
+  - (a) class I and class II specified bovine material;
+  - (b) class I and class II specified sheep and goat material; and
+  - (c) specified solid waste;
+- “specified sheep and goat material” has the meaning given in regulation 3;
+- “specified solid waste” means any solid matter resulting from the slaughter of any ruminant animal or from the subsequent processing of the carcases of such an animal and which is collected in any part of the drainage system draining any place where specified bovine material or specified sheep and goat material is handled;
+- “tallow” means fat derived from animal tissues by a process of rendering;
+- “vertebral column” means the whole or any part thereof and includes the sacrum but does not include the coccygeal vertebrae; and
+- “young lamb stamp” means the stamp described in regulation 16(2).
+
+(2) In these Regulations the expression “mechanical means” does not include the use of hand held powered knives which do not use powered pressure or suction.
+
+(3) The provisions of these Regulations shall apply to specified bovine material from scheme animals, except that the provisions appearing in Column 1 of the Table in Schedule 2 shall apply only to the extent, and subject to the modifications, specified opposite hereto in Column 2.
+
+(4) In these Regulations “stained blue” in relation to any material means being treated (whether by immersion, spraying or other application) with a 0.5% weight/volume solution of the colouring agent Patent Blue V (E131, 1971 Colour Index No. 42051)[^f00006] in such a way that the colouring is clearly visible—
+
+- (a) (in the case of specified risk material other than the head of a sheep or goat) over the whole surface of the material; and
+- (b) (in the case of the head of a sheep or goat) over the whole of the cut surface and majority of the head.
+
+(5) In these Regulations “stained yellow” in relation to any material means being treated (whether by immersion, spraying or other application) with 0.5% weight/volume solution of the colouring agent Tartrazine (E102, Colour Index No. 19140) in such a way that the colouring is clearly visible over the whole surface of the material.
+
+### 3. Specified sheep and goat material[^key-553aae0b0d6b821ca7eb0aa2cbf50057]
+
+(1) In these Regulations “class I specified sheep or goat material” means—
+
+- (a) in relation to material derived from a sheep or goat which at the time it was slaughtered or died either had one or more permanent incisor teeth erupted through the gum or was aged more than 12 months—
+  - (i) the skull, including the brain and eyes;
+  - (ii) the tonsils;
+  - (iii) the spinal cord; and
+- (b) the spleen of a sheep or goat.
+
+(2) In these Regulations “class II specified sheep or goat material” means the head of any sheep or goat which was slaughtered or died in the United Kingdom except—
+
+- (a) any part of it which is class I specified sheep or goat material;
+- (b) the horns, where they are removed from the head—
+  - (i) immediately after slaughter;
+  - (ii) before the head is removed from the carcase; and
+  - (iii) without breaking into the cranial cavity; and
+- (c) the tongue, where it is removed from the head immediately after slaughter and before the head is stained.
+
+(3) Whole carcases of sheep and goats are class II specified sheep or goat material if they are removed to be rendered whole from the place where they were slaughtered or have died.
+
+### 4. Specified bovine material[^key-a7b446ead792de50fdec16fcd2aa474f]
+
+(1) In these Regulations, “class I specified bovine material” in relation to a bovine animal means—
+
+- (a) the skull, including the brain and eyes, tonsils and spinal cord, of an animal which was slaughtered or has died outside the United Kingdom at an age greater than 12 months;
+- (b) the brains, spinal cord, thymus, tonsils, spleen and intestines of an animal which was slaughtered or has died in the UK at an age greater than six months; and
+- (c) the skull (including the eyes) of an animal which was slaughtered or has died in the United Kingdom at an age greater than 12 months.
+
+(2) In these Regulations “class II specified bovine material” in relation to a bovine animal means—
+
+- (a) the head of an animal which was slaughtered or has died in the United Kingdom at an age of six months or greater, except—
+  - (i) any part of the head which is class I specified bovine material; and
+  - (ii) the tongue, where it is removed from the head immediately after slaughter and before the head is stained; and
+- (b) the thymus and intestines of an animal which—
+  - (i) died or was slaughtered in the United Kingdom at an age of two months or greater but less than six months; or
+  - (ii) was slaughtered in the United Kingdom at an age of less than two months for human consumption.
+
+(3) A whole carcase of a bovine animal which was slaughtered or has died in the United Kingdom shall not be treated for the purposes of these Regulations as class I or class II specified bovine material.
+
+### 5. Approvals[^key-e52604a5fa5a167d0788517de6dbe05f]
+
+Any approval or registration granted under these Regulations (and any consent given under regulation 24(8))—
+
+- (a) shall be in writing;
+- (b) may be made subject to conditions; and
+- (c) may be amended, suspended or revoked by the Department at any time by notice in writing served on the occupier of the premises to which the approval, registration or consent relates if the Department is satisfied that, in relation to the premises, any provisions of these Regulations or any conditions in the approval, registration or consent, are not being complied with.
+
+## Part II — Restrictions of the use of specified risk material and vertebral columns of ruminant animals
+
+### 6. Specified risk material for human consumption[^key-6fafa1538f4a654550969306ac27d829]
+
+(1) A person shall not sell for human consumption any specified risk material or any food containing specified risk material.
+
+(2) A person shall not use any specified risk material in the preparation of food for sale for human consumption.
+
+(3) A person shall not sell any specified risk material for use in the preparation of any food for sale for human consumption.
+
+(4) For the purposes of this regulation “specified risk material” includes anything derived from it.
+
+(5) This regulation shall not apply to food containing specified risk material derivied only from animals which were slaughtered or died outside the United Kingdom which is either—
+
+- (a) a food not listed in Schedule 1 to the Specified Risk Material Order (Northern Ireland) 1997[^f00007]; or
+- (b) a food which is so listed, but it was, or any ingredients in it containing specified risk material were, imported in accordance with Article 6 of that Order.
+
+### 7. Prohibitions applying to the vertebral column[^key-f4e41e93704ac864368bcf80ca459e24]
+
+(1) A person shall not use the vertebral column of a ruminant animal in the recovery of meat by mechanical means.
+
+(2) A person shall not use, in the preparation of food for sale for human consumption, any meat which has been recovered by mechanical means from the vertebral column of a ruminant animal.
+
+(3) Without prejudice to regulation 4 of the Bovine Products (Despatch Prohibition and Production Restriction) Regulations (Northern Ireland) 1997[^f00008], a person shall not use the vertebral column of a ruminant animal, which has died or has been slaughtered in the United Kingdom and from which meat has been cut, to produce food for sale for human consumption.
+
+### 8. Registration of premises on which meat is recovered by mechanical means from ruminant animals[^key-25087549162c773e18e70d516139bdd5]
+
+(1) A person shall not on any premises recover meat by mechanical means from the carcase of a ruminant animal unless his name and the address of those premises are registered with the Department.
+
+(2) The Department shall keep a register for the purposes of paragraph (1).
+
+(3) An application for registration shall be in writing and in such form and be made in such manner as the Department may require.
+
+(4) The Department shall refuse to register the name of any person in respect of any premises unless the following particulars are notified to him in writing:
+
+- (a) the name of the business, if any, to which the application relates;
+- (b) the name and address of the person who carries on the business;
+- (c) the address and telephone number of the business; and
+- (d) the address of each premises at which meat is recovered by mechanical means from ruminant animals in the course of the business.
+
+(5) Any person whose name is registered under paragraph (1) shall notify the Department in writing of any change in the particulars previously notified to him within 14 days of any such change.
+
+## Part III — Requirements in relation to the removal and initial treatment of specified risk material
+
+### 9. Initial treatment of bovine, sheep and goat carcases in a slaughterhouse[^key-ffb8132f82bfabcfe176e8eb7bc7ab6d]
+
+(1) When a bovine animal is slaughtered in a slaughterhouse, or slaughtered elsewhere than in a slaughterhouse but brought immediately to a slaughterhouse to be dressed for human consumption, the occupier of the slaughterhouse shall ensure that all specified bovine material is removed from the rest of the carcase as soon as is reasonably practicable after the animal was slaughtered and before the carcase is presented for inspection in accordance with paragraph (9).
+
+(2) When a sheep or goat is slaughtered in a slaughterhouse, or slaughtered elsewhere than in a slaughterhouse but brought immediately to a slaughterhouse to be dressed for human consumption, the occupier of the slaughterhouse shall ensure that—
+
+- (a) subject to regulation 15, all specified sheep or goat material is removed from the rest of the carcase at the slaughterhouse as soon as is reasonably practicable after the animal is slaughtered and before the carcase is presented for inspection in accordance with paragraph (9); or
+- (b) in the case of a sheep or a goat with one or more permanent incisor teeth erupted, the head, spleen and tonsils are removed at the slaughterhouse as soon as is reasonably practicable after the animal is slaughtered and before the carcase is presented for inspection in accordance with paragraph (9), and the rest of the carcase is consigned to an approved slaughterhouse or cutting premises.
+
+(3) Subject to the following provisions of this regulation and to regulation 15, the occupier of a slaughterhouse shall ensure that any specified risk material is stained blue immediately after removal from a carcase of a ruminant animal, and in any event before the carcase is frozen except that, if the tongue is to be removed from the head of the ruminant animal, this shall be done immediately after slaughter of the animal and the head stained blue immediately after the removal of the tongue.
+
+(4) Without prejudice to the storage requirements of regulation 28, the occupier of a slaughterhouse shall ensure that specified risk material does not come into contact with any other animal material while in the slaughterhouse and that it is disposed of in accordance with these Regulations.
+
+(5) Material which is not specified bovine material may be separated from intestines which have been removed from the carcase of a ruminant animal before the intestines are stained.
+
+(6) In the case of specified risk material which is intended to be examined by or on behalf of an inspector or a veterinary surgeon, the specified risk material shall not be stained until after the completion of the examination.
+
+(7) In the case of scheme animals, the occupier of a slaughterhouse shall ensure that, once the specified bovine material has been removed, the remainder of the carcase (excluding the hide), is immediately stained yellow.
+
+(8) The occupier of any slaughterhouse where specified risk material is removed from the carcases of ruminant animals in accordance with this regulation shall arrange or establish, in consultation with an official veterinary surgeon, a staff training programme to train staff to comply with those requirements of these Regulations which relate to the activities they perform on those premises.
+
+(9) The occupier of any slaughterhouse shall permit an inspector or official veterinary surgeon, or a person acting under the responsibility of either of them, to—
+
+- (a) inspect the carcase of any ruminant animal slaughtered there, so that he can check whether the requirements of these Regulations have been compiled with; and
+- (b) mark each carcase which has been so checked and found to comply with the requirements of these Regulations,
+
+and shall give to any such person such reasonable assistance as he may require.
+
+### 10. Initial treatment of bovine, sheep and goat carcases elsewhere than in a slaughterhouse[^key-1f131f63f7d24cd1259c0c0ee5bcb509]
+
+(1) Subject to the following provisions of this regulation, when specified risk material is removed from the carcase of a ruminant animal at premises elsewhere than in a slaughterhouse, the occupier of the premises at which the specified risk material is removed shall ensure that it is removed as soon as is reasonably practicable after the death of the animal and that it is stained blue immediately, and in any event before the carcase is frozen except that, if the tongue is to be removed from the head, this shall be done immediately after slaughter of the animal and the head stained blue immediately after removal of the tongue.
+
+(2) Without prejudice to the storage requirements of regulation 28, the occupier of premises mentioned in paragraph (1) shall ensure that specified risk material does not come into contact with any other animal material while on the premises and that it is disposed of in accordance with these Regulations.
+
+(3) In the case of specified risk material which is intended to be examined by or on behalf of an officer of the Department or a veterinary surgeon, the specified risk material shall not be stained until after the completion of the examination.
+
+(4) The provisions of this regulation shall not apply in the case of a post-mortem examination carried out by a veterinary surgeon or a veterinary practitioner at a farm, provided that he makes arrangements for the disposal of the whole of the carcase by burial there.
+
+### 11. Rendering whole carcases[^key-6b6615f1a15b496af748c582ca4c8338]
+
+Any person rendering a whole ruminant carcase shall do so in accordance with regulation 24 in the same way as if the carcase were specified risk material.
+
+### 12. Exceptions from the requirement to stain specified risk material[^key-85c16fdf985a83d514c2b7dd40c64dc1]
+
+The requirements in regulations 9 and 10 to stain specified risk material shall not apply—
+
+- (a) if the specified risk material is to be sent to a veterinary or medical school, laboratory, hospital or similar institution for instructional, diagnostic or research purposes;
+- (b) to specified risk material which is intended to be used at premises approved under Article 10 of the Specified Risk Material Order (Northern Ireland) 1997;
+- (c) to specified solid waste.
+
+### 13. Measures in relation to stained specified risk material[^key-5a68e8f25ed50e9c38a7ca50d31142c5]
+
+Where specified risk material has been stained in accordance with regulations 9 or 10 or 25(5)(*b*), the occupier of any premises at which such material is stored or handled and, in the case of premises approved under regulations 22 to 24, the operator of those premises, shall take appropriate measures to ensure that colouring remains visible—
+
+- (a) in the case of stained specified risk material, other than the head of a sheep or goat, over the whole surface of the material; and
+- (b) in the case of the head of a sheep or goat, over the whole of the cut surface and the majority of the head,
+
+until the stained specified risk material is incinerated or rendered.
+
+## Part IV — Prohibitions on the removal of certain specified risk materials from ruminant animals
+
+### 14. Prohibition on the removal of brain and eyes[^key-faf95e3eb39fb5e90243e157e299fd5f]
+
+(1) A person shall not on any premises remove the brain or eyes from the carcase of bovine animal aged greater than six months, or from a carcase of a sheep or goat (of any age at death), except—
+
+- (a) for the purposes of veterinary or scientific examination or research; and
+- (b) in a part of the premises kept free at all times from food intended for human consumption.
+
+(2) The prohibition in paragraph (1) shall not apply to the removal under Article 29 of the Order of the eyeballs of bovines, sheep or goats at the place of slaughter by a veterinary inspector or other authorised officer of the Department for the purposes of analysis under Article 31(1) of the Order.
+
+### 15. Prohibition on the removal of the spinal cord of a ruminant animal[^key-dcff4613bea29f6064c4de200b02c221]
+
+(1) A person shall not remove the spinal cord or any part of it from the vertebral column of a sheep or goat in the mouth of which there was at least one permanent incisor tooth erupted or which was aged greater than 12 months at the date of slaughter, except—
+
+- (a) in a slaughterhouse or at cutting premises approved by the Department for the purpose by—
+  - (i) longitudinally splitting the whole vertebral column; or
+  - (ii) removing a longitudinal section of the whole vertebral column containing the spinal cord; or
+- (b) in premises referred to in regulation 12(*a*) for the purposes of veterinary or scientific examination.
+
+(2) A person shall not remove the spinal cord or any part of it from the vertebral column of a bovine animal aged six months or more, or longitudinally split the vertebral column of such an animal, except—
+
+- (a) in a slaughterhouse; or
+- (b) in premises referred to in regulation 12(*a*) for the purposes of veterinary or scientific examination.
+
+(3) Where a carcase or bone-in carcase meat is consigned to a slaughterhouse or cutting premises in accordance with regulation 9(2) the occupier of that slaughterhouse or cutting premises shall ensure that the spinal cord is removed from the rest of the carcase.
+
+(4) The occupier of a slaughterhouse or cutting premises shall permit an inspector or official veterinary surgeon, or a person acting under the responsibility of either of them, to inspect the carcase of any sheep or goat consigned there so that he can check whether the specified risk material has been removed from the carcase in accordance with these Regulations and the occupier shall give to any such person such reasonable assistance as he shall require.
+
+(5) If the spinal cord is removed in a slaughterhouse or at cutting premises, the occupier shall ensure that it is stained in accordance with regulation 9 or 10, and disposed of as specified risk material in accordance with these Regulations.
+
+(6) If the spinal cord is removed at any premises other than a slaughterhouse or cutting premises for the purposes of veterinary or scientific examination, after that examination both the spinal cord and the vertebral column shall be stained blue and disposed of as specified risk material in accordance with these Regulations.
+
+(7) The occupier of any licensed slaughterhouse or cutting premises may apply to the Department for the approval of that slaughterhouse or those premises under this regulation and in considering such an application the Department may (in addition to any other relevant matters) have regard to the need for the efficient enforcement of this regulation.
+
+## Part V — Particular requirements in relation to sheep and goats
+
+### 16. The young lamb stamp[^key-8b8cf50adfe85a6fbf9882213db14d82]
+
+(1) Where a sheep or goat is slaughtered in a slaughterhouse, and at the time of slaughter there were no permanent incisor teeth erupted through in the sheep or goat or it was aged not more than 12 months, the carcase of the animal shall be marked immediately after slaughter with the young lamb stamp in accordance with paragraph (2).
+
+(2) The young lamb stamp shall consist of a circular mark 5 centimetres in diameter containing in legible form in letters 1cm high the words “VS” and “YL”, and shall be applied by an official veterinary surgeon, an authorised officer or a meat inspector acting under the responsibility of an official veterinary surgeon.
+
+(3) A person other than any person mentioned in paragraph (2) shall not apply the young lamb stamp to any sheep or goat or possess the equipment for applying the stamp.
+
+(4) A person shall not mark a carcase with a stamp so resembling the young lamb stamp, or in such a way, as to be likely to suggest that the carcase was of a sheep or goat in which there were no permanent incisors erupted.
+
+(5) For the purposes of this regulation a “meat inspector” means an inspector appointed pursuant to regulation 7(2) of the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997.
+
+### 17. Transportation of unmarked carcases of sheep and goats[^key-40765a38f4de6de6c4c5deb5017bec75]
+
+(1) A person shall not move from a slaughterhouse a carcase of a sheep or goat suitable for human consumption that is not marked with a young lamb stamp, except—
+
+- (a) to approved cutting premises that lie within the same curtilage as the slaughterhouse;
+- (b) a carcase which has been inspected and health marked in accordance with the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997 and which is moved in a sealed vehicle; or
+- (c) when all specified risk material has been removed from the carcase.
+
+(2) During the transportation referred to in paragraph (1) the carcase shall be accompanied by a document indicating—
+
+- (a) the name, address and licence number of the slaughterhouse from which the carcase is being transported; and
+- (b) the name, address and licence number of the authorised cutting premises to which the carcase is being transported.
+
+### 18. Presence of an official veterinary surgeon[^key-7cc8b36e7c5289909ce6c918bfe3a2fd]
+
+(1) An official veterinary surgeon or an inspector acting under the responsibility of an official veterinary surgeon—
+
+- (a) shall be present at any slaughterhouse where any carcase of a sheep or goat that is not marked with a young lamb stamp is being loaded for delivery to an approved cutting premises; and
+- (b) shall supervise the loading.
+
+(2) An official veterinary surgeon, an authorised officer or an inspector acting under the responsibility of an official veterinary surgeon—
+
+- (a) shall be present at any approved cutting premises where any carcase of a sheep or goat that is not marked with a young lamb stamp is being unloaded; and
+- (b) shall supervise the unloading.
+
+(3) Where any vehicle is loaded as described in paragraph (1), it shall be sealed by an official veterinary surgeon, an authorised officer or an inspector acting under the responsibility of an official veterinary surgeon.
+
+(4) A sealed vehicle, on arrival at any approved cutting premises, shall be unsealed by an official veterinary surgeon, an authorised officer or an inspector acting under the responsibility of an official veterinary surgeon.
+
+(5) A person other than the person mentioned in paragraph (3) or (4) shall not seal any vehicle which has been loaded as described in paragraph (1) or unseal any sealed vehicle.
+
+### 19. Possession of unmarked carcases of sheep and goats[^key-f781276b1f2d8d2f2ca06136201c52d7]
+
+(1) A person shall not have in his possession elsewhere than in a slaughterhouse, in a sealed vehicle or at any approved cutting premises a carcase of a sheep or goat intended for sale for human consumption containing spinal cord, unless it is stamped with the young lamb stamp.
+
+(2) This regulation shall not apply to a carcase of a sheep or goat slaughtered before 1st January 1998.
+
+## Part VI — Transport and disposal of specified risk material
+
+### 20. Procedure for bringing in specified risk material from Great Britain, the Isle of Man or any of the Channel Islands[^key-5afc83b5f1fee3ba234aa95096d2403d]
+
+(1) No person shall bring specified risk material into Northern Ireland from Great Britain, the Isle of Man or any of the Channel Islands—
+
+- (a) unless it is stained in accordance with legislation having effect in Great Britain, the Isle of Man or any of the Channel Islands and corresponding to the provisions of these Regulations relating to staining;
+- (b) it is exempt from the requirement to stain under that legislation by virtue of provisions which correspond to regulation 12; or
+- (c) it is transported in a sealed vehicle in accordance with the provisions of legislation having effect in Great Britain, the Isle of Man or any of the Channel Islands corresponding to the provisions of regulation 17(1).
+
+(2) Any person bringing specified risk material into Northern Ireland from Great Britain, the Isle of Man or any of the Channel Islands shall immediately transport it to one of the destinations specified in regulations 15(1)(*a*) or 21(1).
+
+### 21. Consignment of specified risk material[^key-7d745d22cb1947c0ce944d2e1a38f6d3]
+
+(1) Once specified risk material has been removed from the carcase of a ruminant animal and treated in accordance with these regulations, or, in the case of specified solid waste, recovered from the drainage system, the person responsible for its removal or recovery shall, without unreasonable delay, send it directly to—
+
+- (a) a collection centre;
+- (b) a rendering plant;
+- (c) premises referred to in regulation 12(*a*);
+- (d) an approved incinerator; or
+- (e) premises licenced for the purpose of Article 10 of the Specified Risk Material Order (Northern Ireland) 1997.
+
+(2) Any person consigning specified risk material from the place where it was removed from the carcase of a ruminant animal or recovered from a drainage system shall keep a consignment record for two years from the date of consignment.
+
+### 22. Approved collection centres[^key-f74f6b86ad585d8ec99d055621d873e2]
+
+(1) Upon the Department being satisfied that any premises are properly equipped and have suitable facilities for storing and handling specified risk material in a manner which keeps it separate from other animal material, it may approve those premises as a collection centre for the purposes of storing or handling specified risk material.
+
+(2) A person shall not take delivery of specified risk material at any premises or operate any premises for the storage or handling of specified risk material unless they have been approved for the purposes of paragraph (1).
+
+(3) Any person delivering specified risk material to a collection centre shall state in writing to the occupier of the collection centre concerned the place from which the specified risk material was collected for delivery to that collection centre.
+
+(4) The operator of a collection centre shall make a consignment record on arrival of specified risk material at the collection centre and shall keep that record for two years from the date of arrival.
+
+(5) The operator of a collection centre shall ensure that—
+
+- (a) without prejudice to the storage requirements of regulation 28, all specified risk material in the collection centre is kept separate from all other animal material; and
+- (b) all equipment used in relation to the collection or storage of specified risk material that comes into contact with such material is thoroughly washed and disinfected before he uses the equipment or allows it to be used in relation to the collection or storage of any other material.
+
+(6) A person shall not consign specified risk material from a collection centre except to an approved incinerator or a rendering plant.
+
+(7) Any person who consigns specified risk material in accordance with paragraph (6) shall keep a consignment record for two years from the date of consignment.
+
+### 23. Approved incinerators[^key-643e1cb0af439902bf717bb1d0a0c5b5]
+
+(1) A person shall not operate an incinerator to incinerate specified risk material unless—
+
+- (a) the incinerator has been approved as having suitable facilities to incinerate specified risk material in accordance with paragraph (4);
+- (b) he disposes of the ash in a way that does not pose a risk to human or animal health; and
+- (c) the incinerator is equipped with a refractory lining.
+
+(2) Any person delivering specified risk material to an improved incinerator shall state in writing to the operator of the incinerator concerned the place from which the specified risk material was collected for delivery to that incinerator.
+
+(3) The operator of an approved incinerator shall make a consignment record on the arrival of specified risk material at the premises and shall keep that record for two years from the date of arrival.
+
+(4) The operator of an approved incinerator shall—
+
+- (a) incinerate all specified risk material delivered to him to a standard specified in the approval and in such a way that all moisture is removed and the material is reduced to ash; and
+- (b) ensure that the ash is disposed of in accordance with the terms of the approval.
+
+(5) A person shall not remove specified risk material from an approved incinerator unless it is completely incinerated.
+
+### 24. Approved rendering plants[^key-c04f43fc7d5906bdfd284b03ec2f5767]
+
+(1) Upon the Department being satisfied that any premises have the facilities specified in Part I of Schedule 1 sufficient to ensure that specified risk material is separated into protein and tallow by one of the processes specified in Part II of that Schedule, it may approve those premises and facilities as a rendering plant for the purposes of receiving and processing specified risk material in such a manner.
+
+(2) A person shall not take delivery of specified risk material at any premises, or operate any premises for the purposes of rendering unless it has been approved as a rendering plant for the purposes of paragraph (1).
+
+(3) Any person delivering specified risk material to a rendering plant shall state in writing to the operator of the rendering plant concerned the place from which that specified risk material was collected for delivery to that rendering plant.
+
+(4) The operator of a rendering plant shall make a consignment record on the arrival of specified risk material at the premises and shall keep that record for two years from the date of arrival.
+
+(5) Without prejudice to the storage requirements of regulation 28, the operator of a rendering plant shall ensure that all specified risk material in the rendering plant is kept and stored separately from all other material, handled separately from other material and rendered separately from other material.
+
+(6) The operator of a rendering plant shall ensure that specified risk material is processed at the plant without undue delay and in any event within seven days of delivery using one of the methods described in Part II of Schedule 1.
+
+(7) Except as permitted by paragraph (8), the operator of an approved rendering plant shall ensure that any equipment used for processing specified risk material is used only for that purpose.
+
+(8) The Department may, on application by the operator of an approved rendering plant, consent to the use by that person or his employees of equipment previously used for processing specified risk material for such other purposes as may be specified in the consent, provided that, before use of such other purposes, the equipment concerned has been cleaned to the satisfaction of the Department in accordance with any conditions specified in that consent.
+
+(9) After specified risk material has been processed and separated into protein and tallow in any rendering plant the operator of the plant shall ensure that—
+
+- (a) all protein is placed in a container labelled “specified risk material” and disposed of—
+  - (i) by burial at a landfill site for which there exists a current disposal licence granted under Article 7 of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00009];
+  - (ii) as specified in the approval granted in relation to the plant for the purposes of this regulation; or
+  - (iii) by sending to an approved incinerator; and
+- (b) all tallow is placed in a container labelled “specified risk material” and—
+  - (i) by burial at a landfill site for which there exists a current disposal licence granted under Article 7 of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00010];
+  - (ii) (in the case of tallow derived from class II specified risk material) sent to premises licenced under Article 10 of the Specified Risk Material Order (Northern Ireland) 1997 either for treatment by thermal hydrolysis at hyperbaric pressure or for use in such other process as is specified in the approval of those premises;
+  - (iii) disposed of as specified in the approval relating to the rendering plant; or
+  - (iv) sent to an approved incinerator.
+
+(10) Protein and tallow produced from animal material, other than specified risk material, from scheme animals shall be disposed of by burning in an approved incinerator and for this purpose regulation 23 shall apply to such material as if it were specified risk material.
+
+(11) The operator of a rendering plant shall keep a consignment record for two years in relation to all protein and tallow consigned by him for disposal under paragraph (9) or (10).
+
+(12) The operator of a rendering plant shall ensure that all containers, receptacles and vehicles which have been used for the transport of specified risk material are cleaned, washed and disinfected before they leave the premises.
+
+(13) A person shall not—
+
+- (a) move from the unclean section of a rendering plant (as specified by the occupier in accordance with paragraph 3 of Part I of Schedule 1) into the clean section without first changing his working clothes and footwear or disinfecting the latter; or
+- (b) take equipment or utensils from the unclean section into the clean section unless the equipment or utensils are first washed and disinfected.
+
+(14) The operator of a rendering plant shall ensure that appropriate systematic measures are taken to control birds, rodents, insects and other vermin on the premises.
+
+(15) The operator of an approved rendering plant shall ensure that the premises comprising the plant and equipment used therein in connection with the rendering of any animal material are kept in a good state of repair and that, in particular, measuring equipment so used is calibrated at regular intervals.
+
+### 25. Veterinary or laboratory premises, etc.[^key-8bab30043a0fa6b62c29b2fa879dc0b8]
+
+(1) A person shall not transport specified risk material to premises referred to in regulation 12(*a*) unless the specified risk material is in a container marked with—
+
+- (a) the words “specified risk material”;
+- (b) its place of destination; and
+- (c) the name of the person to whom it is being sent.
+
+(2) Any person delivering specified risk material to premises referred to in regulation 12(*a*) shall state in writing to the consignee the place from which the specified risk material was collected for delivery.
+
+(3) The consignee shall make a consignment record on the arrival of specified risk material at the premises and shall keep that record for two years from the date of arrival.
+
+(4) The consignee shall not dispose of or otherwise consign specified risk material delivered to the premises except to other premises referred to in regulation 12(*a*) or to premises referred to in regulation 21, in which case he shall keep a consignment record for two years.
+
+(5) When any specified risk material is no longer needed for the purposes for which it was delivered in accordance with this regulation, the consignee shall—
+
+- (a) ensure that it is destroyed on the premises to which it was delivered by incineration or is consigned to premises specified in regulation 21 for destruction;
+- (b) ensure (where specified risk material is consigned for destruction in accordance with sub-paragraph (*a*)) that the specified risk material is stained blue before consignment; and
+- (c) keep a record for two years of the place and method of destruction.
+
+(6) For the purposes of this regulation, the “consignee” is the occupier of premises specified in regulation 12(*a*) to which specified risk material is delivered.
+
+### 26. Power to give directions[^key-0581a06136ed8c340e38f44a986a2c6e]
+
+(1) If the Department is satisfied that specified risk material cannot be disposed of under the provisions of these Regulations, whether for reasons of mechanical breakdown of equipment or otherwise, it may give written directions to the owner or person in control of the specified risk material for its disposal in a safe manner.
+
+(2) In the event of any person not complying with directions given in paragraph (1), the Department may make arrangements for the disposal of the specified risk material at the expense of the owner.
+
+### 27. Transport[^key-54de998d7c29deed519d0ac5292d2407]
+
+(1) The person in control of a vehicle transporting specified risk material shall ensure that it is conveyed either in an impervious container which contains nothing but specified risk material or in a part of the vehicle which is impervious and contains nothing but specified risk material and which in either case is kept covered at all times except when necessary for loading or unloading or examination by an authorised officer of an enforcement authority.
+
+(2) Any person transporting specified risk material shall ensure that the part of the vehicle in which specified risk material has been conveyed is thoroughly washed and disinfected before any food is subsequently placed in that part of the vehicle.
+
+(3) In this regulation the expression “vehicle” means, in any case in which specified risk material is conveyed in a bulk container, that container.
+
+(4) This regulation shall not apply to the carcase of a sheep or goat transported in accordance with regulation 17.
+
+### 28. Storage[^key-b40ab899bcb7b9d407e7d84a7838bd1c]
+
+(1) Subject to paragraph (2), a person shall not store specified risk material in the same room as any food.
+
+(2) The requirement in paragraph (1) shall not apply where an official veterinary surgeon, inspector or an authorised officer of the Department has approved the storage of specified risk material in the same room as any food, on being satisfied that the arrangements for storage will ensure the adequate separation of the specified risk material from the food.
+
+(3) A person shall not store specified risk material otherwise than in an impervious container which—
+
+- (a) contains nothing but specified risk material;
+- (b) is labelled as containing specified risk material;
+- (c) is not left uncovered when containing specified risk material; and
+- (d) after use for such storage is thoroughly cleansed and disinfected before being used for any purpose in relation to the storage of food.
+
+## Part VII — Enforcement
+
+### 29. Offences and penalties[^key-d20e9b7cd7f6af97882510e996020983]
+
+(1) An occupier of food premises shall take all practicable steps to secure compliance by any of his employees with the provisions of these Regulations which apply to those premises.
+
+(2) If any person contravenes—
+
+- (a) paragraph (1);
+- (b) any other provision of these Regulations; or
+- (c) a direction given by the Department under regulation 26,
+
+he shall be guilty of an offence and liable—
+
+- (i) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (ii) on conviction on indictment, to a fine or imprisonment not exceeding the two years or to both.
+
+(3) A prosecution for an offence under any of the provisions mentioned in paragraph (2) shall not be begun after the expiry of—
+
+- (a) three years from the commission of the offence; or
+- (b) one year from its discovery by the prosecutor,
+
+whichever is the earlier.
+
+### 30. Application of provisions of the Food Safety (Northern Ireland) Order 1991[^key-8fc804053dcc7e623dd45e5d714ec657]
+
+The following provisions of the Food Safety (Northern Ireland) Order 1991 shall apply for the purposes of these Regulations as they apply for the purposes of Articles 7, 13 or 14 of that Order and, unless the context otherwise requires, any reference in them to the Order shall be construed as a reference to the Regulations—
+
+- Article 2(4) and 3 (extended meaning of “sale”, etc.);
+- Article 4 (presumptions that food intended for human consumption);
+- Article 8 (inspection and seizure of suspected food);
+- Article 19 (offences due to fault of another person);
+- Article 20 (defence of due diligence);
+- Article 30(8) (evidence of certificate of analysis or examination);
+- Article 34 (offence of obstruction, etc. of officers);
+- Article 35 (time limit for prosecution).
+
+### 31. Enforcement[^key-516237fda3614aeb836b6f15cf79e1e3]
+
+(1) These Regulations shall be enforced by the Department.
+
+(2) On an inspection of any food intended for human consumption an official veterinary surgeon may certify that the food fails to comply with these Regulations.
+
+(3) Where any food is certified as mentioned in paragraph (2) it may be treated for the purposes of Article 8 of the Food Safety (Northern Ireland) Order 1991 as failing to comply with food safety requirements.
+
+### 32. Revocations[^key-0c9cbd3154d8f7b933e775049093aacf]
+
+The Heads of Sheep and Goats (Treatment and Disposal) Regulations (Northern Ireland) 1996[^f00011] and the Specified Bovine Material (Treatment and Disposal) Regulations (Northern Ireland) 1997[^f00012] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Agriculture on
+
+R. S. Johnson
+
+Assistant Secretary
+
+29th December 1997.
+
+## SCHEDULE 1 — Rendering requirements
+
+Regulation 24
+
+### Part I — Requirements to be met where specified risk material is rendered
+
+**1.**[^key-b21a3236c2938d62ee6ad841dcdb419e] The premises shall be adequately separated from the public highway and other premises. Notwithstanding this, they may occupy the same site as premises where animal products which are not specified risk material are rendered provided that specified risk material is stored, handled and processed separately from other animal material and by means of equipment used only for specified risk material.
+
+**2.**[^key-978c841dbe6d228844ae2d8a9c2aed10] Unauthorised persons and animals shall not be permitted to have access to the premises.
+
+**3.**[^key-f1e1162c43d8ced59ebf8f240c30d10b] The premises or part of the premises used to process specified risk material must have a clean and unclean section specified by the occupier, adequately separated. The unclean section must have a covered place to receive and store the specified risk material for processing and must be constructed in such a way that it is easy to clean and disinfect. Floors must be laid in such a way as to facilitate the draining of liquids. The premises must have adequate lavatories, changing rooms and washbasins for staff.
+
+**4.**[^key-f5e58f549b1f5a97eb59105f7c856404] The premises shall have sufficient capacity of hot water and steam production to render specified risk material in accordance with the method in Part II of this Schedule chosen by the operator.
+
+**5.**[^key-138559388af103b102005cefe0fc0044] The equipment used to render specified risk material shall include—
+
+- (a) measuring equipment to check temperature and, if necessary, pressure at critical points;
+- (b) recording devices to record continuously the results of measurements; and
+- (c) an adequate safety system to prevent insufficient heating.
+
+**6.**[^key-ce9126ab2e969ea0408f0a7e2f274442] To prevent recontamination of processed specified risk material by incoming specified risk material, there must be clear separation between the area of the premises where the incoming specified risk material is unloaded and rendered and the areas set aside for further processing of the heated specified risk material and the storage of finished specified risk material products.
+
+**7.**[^key-5047cc0e07c26199d225b2dd2fd264e0] The premises must have adequate facilities for cleaning and disinfecting the containers or receptacles in which unprocessed specified risk material is received and the vehicles in which it is transported.
+
+**8.**[^key-5ac761421cc0f3d9633b567c7b2655ef] Adequate facilities must be provided for disinfecting the wheels, immediately before their departure, of vehicles transporting specified risk material or leaving the unclean section of the premises.
+
+### Part II — Methods of rendering
+
+#### Method 1 — Natural fat batch atmospheric (150 mm particle size)
+
+##### 1. Equipment[^key-b96a05c2e2f15f54e324c62f4dd95681]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-e390fe35a52d392307f47a0267c8cb21]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 150 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Cooking[^key-b06bf6c27aa5cf4586d0afc2d9ac0559]
+
+Crushed material shall then be heated in a steam jacketed vessel to remove the inherent moisture at atmospheric pressure. The times and temperatures achieved during the cooking process shall be recorded in a permanent form. During the course of cooking, the material shall be maintained at a temperature in excess of 100°C for at least 125 minutes, a temperature in excess of 110°C for at least 120 minutes and a temperature in excess of 120°C for at least 50 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time.
+
+##### 4. Separation and storage of final products[^key-07335a6a9641d5300c8621c7be764733]
+
+After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
+
+##### 5. Records[^key-39e31bfa9ae4589732a49fd2466a22de]
+
+All records shall be kept for one year.
+
+#### Method 2 — Natural fat batch atmospheric (30 mm particle size)
+
+##### 1. Equipment[^key-e6a3330fd73fbdf8ecf38a9b50d68cc5]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-63989c2603aa275c4d12ebcc3d872a51]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Cooking[^key-83fd35f9427cb03d3c15ef6140064642]
+
+Crushed material shall then be heated in a steam jacketed vessel to remove the inherent moisture at atmospheric pressure. The times and temperatures achieved during the cooking process must be recorded in permanent form. During the course of cooking, the material shall be maintained at a temperature in excess of 100°C for at least 95 minutes, a temperature in excess of 110°C for at least 55 minutes and a temperature in excess of 120°C for at least 13 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time.
+
+##### 4. Separation and storage of final products[^key-436579c8c759905a2bac7685b3b6751f]
+
+After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
+
+##### 5. Records[^key-d837f8e7ed7b1ae3356418e84f99e767]
+
+All records shall be kept for one year.
+
+#### Method 3 — Added fat batch atmospheric (30 mm particle size)
+
+##### 1. Equipment[^key-c70ed14f5618006767eae3fb0f2b6be1]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-89ece65b07e12dfef0456c15a3ec2b27]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Cooking[^key-f17b83eba5028bc9bb024e45860e432b]
+
+Crushed material shall then be heated with added tallow in a steam jacketed vessel to remove the inherent moisture at atmospheric pressure. The times and temperatures achieved during the cooking process must be recorded on a permanent recording system. During the course of cooking, the material shall be maintained at a temperature in excess of 100°C for at least 16 minutes, a temperature in excess of 110°C for at least 13 minutes and a temperature in excess of 120°C for at least 8 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time.
+
+##### 4. Separation and storage of final products[^key-91110e32b85dab42ba974741cda14d80]
+
+After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
+
+##### 5. Records[^key-c1dc5a60084ae393b4a2c469c47b43d8]
+
+All records shall be kept for one year.
+
+#### Method 4 — Natural fat batch (Batch Pressure)
+
+##### 1. Equipment[^key-2cf030e67a231d1d1e9c4adce7a7b883]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-6b60c156de06a252513528c0e952818d]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 50 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Cooking[^key-0c690eaa1b8b789a42f66935bd911181]
+
+Crushed material should then be heated in a steam jacketed vessel. After all air in the vessel has been displaced by steam, the vessel shall be sealed and heating continued until the pressure reaches 3 bar and the temperature reaches at least 133°C. This state should be held for at least 20 minutes, after which the pressure should be lowered back to atmospheric pressure. The product should then be dried to remove all its inherent moisture. The times, temperatures and pressures achieved during the cooking process must be recorded on a permanent recording system.
+
+##### 4. Separation and storage of final products[^key-7f121fc80ca3a4089029161a5d41643e]
+
+After cooking, the material shall be discharged from the cookers and separated into its tallow and protein fractions. Protein and tallow shall be stored separately.
+
+##### 5. Records[^key-db503cb6cd89b2d5147b6f4e1bab9e54]
+
+All records shall be kept for one year.
+
+#### Method 5 — Natural fat continuous atmospheric
+
+##### 1. Equipment[^key-bd0405d2972d2137bdde931e646aeb05]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-9c24317ae997a6ac94ade7e4b7b4c2ac]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Cooking[^key-def6516feacc85c22b3393e7577f4b55]
+
+The material should be passed into a steam heated vessel. Passage of the raw material through the vessel shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked dried material is discharged with all of its residual moisture removed as water vapour. The maximum feed rate for raw material and the minimum discharge temperature will be set for the vessel in the approval for the premises granted under this Order. The material shall be maintained at a temperature in excess of 100°C for at least 95 minutes, a temperature in excess of 110°C for at least 55 minutes and a temperature in excess of 120°C for at least 13 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time. The times and temperatures achieved during the cooking process must be recorded on a permanent recording system.
+
+##### 4. Separation and storage of final products[^key-2c32585594b7b9046f30a0a93d282e1d]
+
+After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
+
+##### 5. Records[^key-46b7951574c7c7ad024cb6689a112c61]
+
+All records shall be kept for one year.
+
+#### Method 6 — Added fat continuous atmospheric
+
+##### 1. Equipment[^key-30caa507b83ef32c589203850a5bef6f]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-fe3869d478c5dd21e60b814ebf861a95]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Cooking[^key-6045725b6b64420916f3192c14d2431e]
+
+The material shall be passed into a steam heated vessel where a consistent level of hot liquid tallow is maintained by recycling tallow as appropriate. Passage of the raw material through the vessel shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked dried material is discharged with all of its residual moisture removed as water vapour. The maximum feed rate for raw material, the maximum tallow recycle rate, and the minimum discharge temperature will be set for the vessel in the approval for the premises granted under this Order. The material shall be maintained at a temperature in excess of 100°C for at least 16 minutes, a temperature in excess of 110°C for at least 13 minutes, a temperature in excess of 120°C for at least 8 minutes and a temperature in excess of 130°C for at least 3 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time. The times and temperatures achieved during the cooking process must be recorded on a permanent recording system.
+
+##### 4. Separation and storage of final products[^key-44079e96956f6d458b8fce50b0518971]
+
+On discharge from the vessel, any surplus tallow not required to maintain the vessel’s operating level shall be removed, and the material separated into its tallow and protein components. Protein and tallow shall be stored separately.
+
+##### 5. Records[^key-8e628a283a28e0a56fb0dc0e9bf3a749]
+
+All records shall be kept for one year.
+
+#### Method 7 — Defatted continuous atmospheric
+
+##### 1. Equipment[^key-a1f5af49afe4b4421bddebbeb164ad56]
+
+The premises shall be equipped with apparatus to crush specified risk material to the appropriate particle size, at least one cooker to cook the specified risk material, sufficient capacity of hot water and steam production to render specified risk material in accordance with this method, and equipment to separate protein from tallow and store those products.
+
+##### 2. Crushing[^key-f1ef7eca5657e42d10b801b0e80c0114]
+
+The raw material shall be reduced in size by crushing so that the particle size does not exceed 20 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
+
+##### 3. Pre-heating[^key-b3bff921e52bbccb9a6bcb157a0f37d1]
+
+The crushed material shall then be passed to a pre-heater. Passage of the raw material through the pre-heater shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked material is discharged at a temperature of at least 80°C and in a form in which water and tallow can be removed from the protein residue.
+
+##### 4. Pressing[^key-c52fa1ef5e3eb0570f546a172b8f5152]
+
+The material discharged from the pre-heater must be passed through a screw press so adjusted that all water and tallow are removed from the protein residue.
+
+##### 5. Drying[^key-5a7556bf6230656ce921026a6545c5c1]
+
+The protein residue shall be passed into a steam heated vessel. Passage of the protein residue through the vessel shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked dried protein is discharged with all of its residual moisture removed as water vapour. A maximum feed rate for protein residue and a minimum discharge temperature will be set for the vessel by an officer of the Department. The material shall be maintained at a temperature in excess of 80°C for at least 120 minutes and a temperature in excess of 100°C for at least 60 minutes. Material may be cooked so that both time/temperature requirements are carried out at the same time. The times and temperatures achieved during the cooking process must be recorded on a permanent recording system.
+
+##### 6. Storage of final products[^key-b498c1641e2dc10030e9ea62b4ff43f2]
+
+Protein and tallow shall be stored separately.
+
+##### 7. Records[^key-52ce7632ad05651259d896b601779ab2]
+
+All records shall be kept for one year.
+
+## SCHEDULE 2 — Application of the Order to Scheme animals[^key-fca9e2559ae1f6463968f68a79fba591]
+
+Regulation 2(3)
+
+| *Provision of the Regulations* | *Extent to which provision applies to scheme animals* |
+| --- | --- |
+| Regulation 7 | Not applicable |
+| Regulation 8 | Not applicable |
+| Regulation 9(3) | Subject to the modification that the tongue may not be removed |
+| Regulation 9(4) | Subject to the modification that from the point at which specified bovine material derived from a scheme animal is removed from the slaughterhouse, it may come into contact with any other animal material from such an animal |
+| Regulation 10 | Not applicable |
+| Regulation 12(*b*) | Not applicable |
+| Regulation 21(1)(*e*) | Not applicable |
+| Regulation 24(5) | Subject to the modification that specified risk material may come into contact with any animal material from a scheme animal |
+| Regulation 24(7) | Subject to the modification that equipment used for processing specified risk material may be used for processing any part of a scheme animal |
+| Regulation 24(9) | Subject to the modification that protein and tallow produced from specified risk material of scheme animals shall be disposed of by burning by means which have been licensed under the Environmental Protection Act 1990 |
+| Regulation 27(1) | Subject to the modification that the impervious container or part of the vehicle (as the case may be) may also contain animal material from scheme animals |
+| Paragraph 1 of Schedule 1 | Subject to the modification that specified risk material need not be stored, handled and processed separately from animal material from scheme animals. |
+
+(This note is not part of the Regulations)
+
+These Regulations control specified risk material, being material which may contain the agent containing bovine spongiform encephalopathy, in respect of food. The Regulations continue in force provisions in respect of food up to now contained in the Heads of Sheep and Goats (Treatment and Disposal) Regulations (Northern Ireland) 1996 and the Specified Bovine Material (Treatment and Disposal) Regulations (Northern Ireland) 1997. The Regulations implement in part—
+
+- (a) Commission Decision [94/474/EC](https://www.legislation.gov.uk/european/decision/1994/0474) (O.J. No. L194, 29.7.94, p. 96) concerning certain protection measures relating to bovine spongiform encephalopathy and repealing Decisions [89/469/EEC](https://www.legislation.gov.uk/european/decision/1989/0469) and [90/200/EEC](https://www.legislation.gov.uk/european/decision/1990/0200); and
+- (b) the provisions relating to animal waste of Council Directive [90/667/EEC](https://www.legislation.gov.uk/european/directive/1990/0667) (O.J. No. L363, 27.12.90, p. 51) laying down the veterinary rules for the disposal of animal waste, for its placing on the market and for the prevention of pathogens in feeding stuffs of animal or fish origin and amending Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425) as read with Commission Decision [92/562/EEC](https://www.legislation.gov.uk/european/decision/1992/0562) (O.J. No. L359, 9.12.92, p. 23) and Commission Decision [94/382/EC](https://www.legislation.gov.uk/european/decision/1994/0382) (O.J. No. L172, 7.7.94, p. 25), which was amended by Commission Decision [95/29/EC](https://www.legislation.gov.uk/european/decision/1995/0029) (O.J. No. L38, 18.2.95, p. 17).
+
+The Regulations control the sale and use of specified risk material for human consumption (regulation 6) and the production of mechanically recovered meat (regulations 7 and 8). Provision is made for the initial treatment of specified risk material (regulations 9, 10 and 13) and the rendering of whole carcases (regulation 11). The Regulations prohibit the removal of the brain and eyes from a bovine animal (regulation 14) and prohibit the removal of the spinal cord from a ruminant animal (regulation 15).
+
+Regulations 16 to 19 provide particular requirements in relation to sheep and goats. These are the marking of young animals with a young lamb stamp, requirements as to the transport of unmarked carcases of sheep and goats, the presence of official veterinary surgeons at slaughterhouses and the possession of unmarked carcases of sheep and goats. Regulation 20 prescribes the procedure for bringing in specified risk material from Great Britain, the Isle of Man or any of the Channel Islands.
+
+Regulation 21 regulates the consignment of specified risk material once it has been removed from the carcase and regulations 22 to 24 require the approval of collection centres, incinerators, rendering plants and other premises that process specified bovine material. Regulations 25 to 31 contain provisions on veterinary and laboratory premises, directions, transport, storage, samples, enforcement, application of provisions of the Food Safety (Northern Ireland) Order 1991 for the purposes of the Regulations. Regulations 32 revokes the Heads of Sheep and Goats (Treatment and Disposal) Regulations (Northern Ireland) 1996 and the Specified Bovine Material (Treatment and Disposal) Regulations (Northern Ireland) 1997.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991 No. 762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996 No. 1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
+
+[^key-86c3cef0b79800b5a891afb8c970f650]: Commencement: Reg. 1 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-2f9e97f623c17867993c86994b014e2b]: Commencement: Reg. 2 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^f00002]: Footnote: [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493)
+
+[^f00003]: Footnote: [S.R. 1993 No. 192](https://www.legislation.gov.uk/nisr/1993/192)
+
+[^f00004]: Footnote: O.J. No. L99, 19.4.96, p. 14, to which there are amendments not relevant to this Order
+
+[^f00005]: Footnote: [S.I. 1981 No. 1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
+
+[^f00006]: Footnote: Colour Index is published by the Society of Dyers and Colourists at Perkin House, 82 Grattan Road, Bradford, West Yorkshire BD1 2JB
+
+[^key-553aae0b0d6b821ca7eb0aa2cbf50057]: Commencement: Reg. 3 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-a7b446ead792de50fdec16fcd2aa474f]: Commencement: Reg. 4 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-e52604a5fa5a167d0788517de6dbe05f]: Commencement: Reg. 5 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-6fafa1538f4a654550969306ac27d829]: Commencement: Reg. 6 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^f00007]: Footnote: [S.R. 1997 No. 551](https://www.legislation.gov.uk/nisr/1997/551)
+
+[^key-f4e41e93704ac864368bcf80ca459e24]: Commencement: Reg. 7 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^f00008]: Footnote: [S.R. 1997 No. 379](https://www.legislation.gov.uk/nisr/1997/379)
+
+[^key-25087549162c773e18e70d516139bdd5]: Commencement: Reg. 8 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-ffb8132f82bfabcfe176e8eb7bc7ab6d]: Commencement: Reg. 9 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-1f131f63f7d24cd1259c0c0ee5bcb509]: Commencement: Reg. 10 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-6b6615f1a15b496af748c582ca4c8338]: Commencement: Reg. 11 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-85c16fdf985a83d514c2b7dd40c64dc1]: Commencement: Reg. 12 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-5a68e8f25ed50e9c38a7ca50d31142c5]: Commencement: Reg. 13 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-faf95e3eb39fb5e90243e157e299fd5f]: Commencement: Reg. 14 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-dcff4613bea29f6064c4de200b02c221]: Commencement: Reg. 15 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-8b8cf50adfe85a6fbf9882213db14d82]: Commencement: Reg. 16 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-40765a38f4de6de6c4c5deb5017bec75]: Commencement: Reg. 17 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-7cc8b36e7c5289909ce6c918bfe3a2fd]: Commencement: Reg. 18 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-f781276b1f2d8d2f2ca06136201c52d7]: Commencement: Reg. 19 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-5afc83b5f1fee3ba234aa95096d2403d]: Commencement: Reg. 20 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-7d745d22cb1947c0ce944d2e1a38f6d3]: Commencement: Reg. 21 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-f74f6b86ad585d8ec99d055621d873e2]: Commencement: Reg. 22 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-643e1cb0af439902bf717bb1d0a0c5b5]: Commencement: Reg. 23 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-c04f43fc7d5906bdfd284b03ec2f5767]: Commencement: Reg. 24 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^f00009]: Footnote: [S.I. 1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049)
+
+[^f00010]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43)
+
+[^key-8bab30043a0fa6b62c29b2fa879dc0b8]: Commencement: Reg. 25 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-0581a06136ed8c340e38f44a986a2c6e]: Commencement: Reg. 26 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-54de998d7c29deed519d0ac5292d2407]: Commencement: Reg. 27 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-b40ab899bcb7b9d407e7d84a7838bd1c]: Commencement: Reg. 28 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-d20e9b7cd7f6af97882510e996020983]: Commencement: Reg. 29 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-8fc804053dcc7e623dd45e5d714ec657]: Commencement: Reg. 30 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-516237fda3614aeb836b6f15cf79e1e3]: Commencement: Reg. 31 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-0c9cbd3154d8f7b933e775049093aacf]: Commencement: Reg. 32 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^f00011]: Footnote: [S.R. 1997 No. 497](https://www.legislation.gov.uk/nisr/1997/497)
+
+[^f00012]: Footnote: [S.R. 1997 No. 230](https://www.legislation.gov.uk/nisr/1997/230)
+
+[^key-b21a3236c2938d62ee6ad841dcdb419e]: Commencement: Sch. 1 Pt. I para. 1 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-978c841dbe6d228844ae2d8a9c2aed10]: Commencement: Sch. 1 Pt. I para. 2 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-f1e1162c43d8ced59ebf8f240c30d10b]: Commencement: Sch. 1 Pt. I para. 3 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-f5e58f549b1f5a97eb59105f7c856404]: Commencement: Sch. 1 Pt. I para. 4 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-138559388af103b102005cefe0fc0044]: Commencement: Sch. 1 Pt. I para. 5 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-ce9126ab2e969ea0408f0a7e2f274442]: Commencement: Sch. 1 Pt. I para. 6 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-5047cc0e07c26199d225b2dd2fd264e0]: Commencement: Sch. 1 Pt. I para. 7 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-5ac761421cc0f3d9633b567c7b2655ef]: Commencement: Sch. 1 para. 8 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-b96a05c2e2f15f54e324c62f4dd95681]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-e390fe35a52d392307f47a0267c8cb21]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-b06bf6c27aa5cf4586d0afc2d9ac0559]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-07335a6a9641d5300c8621c7be764733]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-39e31bfa9ae4589732a49fd2466a22de]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-e6a3330fd73fbdf8ecf38a9b50d68cc5]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-63989c2603aa275c4d12ebcc3d872a51]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-83fd35f9427cb03d3c15ef6140064642]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-436579c8c759905a2bac7685b3b6751f]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-d837f8e7ed7b1ae3356418e84f99e767]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-c70ed14f5618006767eae3fb0f2b6be1]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-89ece65b07e12dfef0456c15a3ec2b27]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-f17b83eba5028bc9bb024e45860e432b]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-91110e32b85dab42ba974741cda14d80]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-c1dc5a60084ae393b4a2c469c47b43d8]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-2cf030e67a231d1d1e9c4adce7a7b883]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-6b60c156de06a252513528c0e952818d]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-0c690eaa1b8b789a42f66935bd911181]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-7f121fc80ca3a4089029161a5d41643e]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-db503cb6cd89b2d5147b6f4e1bab9e54]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-bd0405d2972d2137bdde931e646aeb05]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-9c24317ae997a6ac94ade7e4b7b4c2ac]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-def6516feacc85c22b3393e7577f4b55]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-2c32585594b7b9046f30a0a93d282e1d]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-46b7951574c7c7ad024cb6689a112c61]: Commencement: Sch. 1 Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-30caa507b83ef32c589203850a5bef6f]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(continuous)(atmospheric\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-fe3869d478c5dd21e60b814ebf861a95]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(continuous)(atmospheric\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-6045725b6b64420916f3192c14d2431e]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(continuous)(atmospheric\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-44079e96956f6d458b8fce50b0518971]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(continuous)(atmospheric\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-8e628a283a28e0a56fb0dc0e9bf3a749]: Commencement: Sch. 1 Pt. II(crossheading)(added)(fat)(continuous)(atmospheric\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-a1f5af49afe4b4421bddebbeb164ad56]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(1) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-f1ef7eca5657e42d10b801b0e80c0114]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(2) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-b3bff921e52bbccb9a6bcb157a0f37d1]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(3) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-c52fa1ef5e3eb0570f546a172b8f5152]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(4) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-5a7556bf6230656ce921026a6545c5c1]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(5) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-b498c1641e2dc10030e9ea62b4ff43f2]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(6) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-52ce7632ad05651259d896b601779ab2]: Commencement: Sch. 1 Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(7) in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)
+
+[^key-fca9e2559ae1f6463968f68a79fba591]: Commencement: Sch. 2 in operation at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/552/regulation/1)

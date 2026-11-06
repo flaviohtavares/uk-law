@@ -1,0 +1,153 @@
+---
+title: Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2002
+id: nisr/2002/385
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-12-12'
+text_date: '2009-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/385
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/385/pdfs/nisr_20020385_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/385/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2002
+
+> Text as at 2009-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 385
+
+POLICE
+
+Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2002
+
+Made
+
+12th December 2002
+
+To be laid before Parliament
+
+Coming into operation
+
+17th January 2003
+
+The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northern Ireland) Act 1998[^f00001] and sections 41, 43 and 44 of the Police (Northern Ireland) Act 2000[^f00002], and after consulting the Northern Ireland Policing Board, the Chief Constable, the Equality Commission for Northern Ireland and the Police Association for Northern Ireland, hereby makes the following regulations:
+
+## 1. Citation, commencement and interpretation[^key-c76694a9b2eb6305c8885381249d7147]
+
+(1) These regulations may be cited as the Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2002.
+
+(2) These regulations shall come into operation on 17th January 2003.
+
+(3) In these regulations “the recruitment regulations” means the Police (Recruitment) (Northern Ireland) Regulations 2001[^f00003].
+
+## 2. Qualified candidate[^key-7d9fdbe674dade9df87578b36217e016]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Appointment of qualified candidate[^key-fa9b4c446285d6f097c04e461a21fa87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Police recruitment agent[^key-d7b67e14d1aa81d68e0f3d5aa7bdfa6a]
+
+In regulation 5 of the recruitment regulations (police recruitment agent) in paragraph (4) (Chief Constable to determine terms and conditions, with the approval of the Board) the words “with the approval of the Policing Board” shall be omitted.
+
+## 5. Advertising of vacancies[^key-3b3680cd1e78c0b0a135d011f14daef4]
+
+(1) Regulation 6 of the recruitment regulations (advertising of vacancies) shall be amended as follows.
+
+(2) In paragraph (1) (notice of vacancies to be published) for “trainee members of the Police Service of Northern Ireland and trainee part time members of the Police Service of Northern Ireland Reserve” substitute “police trainees and police reserve trainees”.
+
+(3) In paragraph (2) (agent to have regard to recommendations of the Report of the Independent Commission on Policing for Northern Ireland) for “to the recommendations contained in paragraph 15.8 of the Report of the Independent Commission” substitute–
+
+> - (a) in the case of vacancies for police trainees, to the recommendations contained in paragraph 15.8 of the Report of the Independent Commission;
+> - (b) in the case of vacancies for police reserve trainees, to the first of the two recommendations contained in that paragraph
+
+.
+
+## 6. Independent community observers[^key-367fa20a72411403d99d7e5ed99fd6b3]
+
+In regulation 10(3) of the recruitment regulations (reports by independent community observers)–
+
+- (a) in sub-paragraph (b) (reports to deal with whether same procedures are being applied to all candidates) at the end there shall be added “for appointment as police trainees; and”; and
+- (b) after sub-paragraph (b) there shall be added–
+
+  > - (c) whether, so far as practical, the same procedures are being applied to all candidates for appointment as police reserve trainees.
+
+  .
+
+## 7. Vetting panel[^key-119ae441f836b7402150f2d962f1d039]
+
+(1) Regulation 12 of the recruitment regulations (vetting panel) shall be amended as follows.
+
+(2) In paragraph (1) (function of vetting panel) after “decide” insert “, in any case which is referred to it,”.
+
+(3) After paragraph (1) insert–
+
+> (1A) No decision may be made that a candidate is unsuitable for appointment as a police trainee or police reserve trainee, except–
+>
+> - (a) by the vetting panel, or
+> - (b) in accordance with regulation 13(7).
+
+.
+
+(4)[^key-bcd7639218c31c5712dbb0aecbf16af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Paul Murphy
+
+One of Her Majesty’s Principal Secretaries of State
+
+Northern Ireland Office
+
+12th December 2002
+
+(This note is not part of the Regulations.)
+
+These regulations amend the Police (Recruitment) (Northern Ireland) Regulations 2001 ([S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140)) (“the recruitment regulations”). In particular, they provide for recruitment to the Police Service of Northern Ireland Reserve to be carried out on a local basis, as recommended by the Independent Commission on Policing for Northern Ireland in its report “A New Beginning: Policing in Northern Ireland” (the “Patten Report”) published on 9th September 1999.
+
+Regulation 2 provides that the appointment criteria set out in regulation 2(2) of the recruitment regulations only apply to police trainees and police reserve trainees. It distinguishes the duties of the Police Service of Northern Ireland Reserve from those of the Police Service of Northern Ireland, sets the upper age limit for police reserve trainees and adds a residence requirement. It also clarifies the vetting arrangements.
+
+Regulation 3 inserts a new regulation 3A in the recruitment regulations. This applies the appointment criteria in regulation 2 of the recruitment regulations to appointments of police reserve trainees, but permits the Chief Constable to appoint a person who does not fulfil the residence requirement in regulation 2(2)(h) if that person has a connection to the area in which he or she is to serve.
+
+Regulation 4 amends regulation 5 of the recruitment regulations, by removing the requirement for the Northern Ireland Policing Board to approve the terms and conditions on which the police recruitment agent is appointed.
+
+Regulation 5 amends regulation 6 of the recruitment regulations. By virtue of that regulation the recruitment agent is required, in advertising vacancies for police trainees and police reserve trainees, to have regard to certain recommendations made by the Independent Commission on Policing in Northern Ireland in the Patten Report, including a recommendation to advertise beyond Northern Ireland. Regulation 4 requires the agent to have regard to that recommendation in recruiting police trainees only, not police reserve trainees.
+
+Regulation 6 amends regulation 10(3) of the recruitment regulations. Regulation 10(3) requires that the independent community observers appointed under regulation 10 report on whether, in the recruitment process for police trainees and police reserve trainees, the same procedures are being applied to all candidates. The amendment provides for the reports to deal separately with procedures for police trainees and procedures for police reserve trainees.
+
+Regulation 7 amends regulation 12 of the recruitment regulations as it applies to candidates for appointment as police trainees and police reserve trainees. If a decision is taken that a candidate is suitable for appointment, the case need not be referred to the vetting panel.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
+
+[^key-c76694a9b2eb6305c8885381249d7147]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/385/regulation/1) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+
+[^f00003]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140)
+
+[^key-7d9fdbe674dade9df87578b36217e016]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/385/regulation/2) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/a)
+
+[^key-fa9b4c446285d6f097c04e461a21fa87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/385/regulation/3) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/b)
+
+[^key-d7b67e14d1aa81d68e0f3d5aa7bdfa6a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/385/regulation/4) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+
+[^key-3b3680cd1e78c0b0a135d011f14daef4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/385/regulation/5) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+
+[^key-367fa20a72411403d99d7e5ed99fd6b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/385/regulation/6) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+
+[^key-119ae441f836b7402150f2d962f1d039]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/385/regulation/7) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+
+[^key-bcd7639218c31c5712dbb0aecbf16af9]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/nisr/2002/385/regulation/7/4) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(c)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/c)

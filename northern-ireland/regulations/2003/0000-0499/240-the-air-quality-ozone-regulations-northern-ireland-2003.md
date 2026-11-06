@@ -1,0 +1,510 @@
+---
+title: The Air Quality (Ozone) Regulations (Northern Ireland) 2003
+id: nisr/2003/240
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-04-17'
+text_date: '2007-05-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/240
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/240/pdfs/nisr_20030240_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/240/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality (Ozone) Regulations (Northern Ireland) 2003
+
+> Text as at 2007-05-28.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 240
+
+ENVIRONMENTAL PROTECTION
+
+The Air Quality (Ozone) Regulations (Northern Ireland) 2003
+
+Made
+
+17th April 2003
+
+Coming into operation
+
+9th September 2003
+
+The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the control of pollution in ambient air, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Definitions[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Target values[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Long-term objectives[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Assessment of concentrations of ozone and ozone precursor substances in ambient air[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Classification of zones[^key-47bf09a7c3b77dd9a279b1ebc9a567c8]
+
+(1) The Department shall classify each zone in relation to ozone according to whether ambient air quality for ozone is required to be assessed by –
+
+- (a) fixed continuous measurement; or
+- (b) a combination of measurement campaigns of short duration and results from emissions inventories and modelling.
+
+(2)[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Method of assessment of ambient air quality[^key-dfb89f70e69e648d85e466840bed0cfb]
+
+(1) The Department shall ensure that ambient air quality is assessed in each zone by following the appropriate method for ozone in accordance with its current classification.
+
+(2) For each zone classified under Regulation 6(2) in relation to ozone, the Department shall ensure that the minimum number of fixed sampling points determined in accordance with Part I of Schedule 3 is used for sampling the concentrations of ozone in that zone.
+
+(3) For zones to which Regulation 7(2) applies, the Department shall ensure that measurements of nitrogen dioxide are made at a minimum of 50 per cent of the ozone sampling points required by Part I of Schedule 3.
+
+(4) The measurements of nitrogen dioxide required by paragraph (3) shall be continuous, except at rural background stations, where other measurement methods may be used.
+
+(5) For zones to which Regulation 7(3) applies, the number of fixed sampling points required by Part I of Schedule 3 may be reduced provided that –
+
+- (a) the supplementary methods prescribed by Regulation 6(3) provide an adequate level of information for the assessment of air quality with regard to target values, information and alert thresholds;
+- (b) the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of ozone to be established in accordance with the data quality objectives specified in Part I of Schedule 5 and lead to assessment results as specified in Part II of Schedule 5;
+- (c) the number of sampling points in each zone amounts to at least one sampling point per two million inhabitants, or one sampling point per 50,000 km<sup>2</sup>, whichever produces the greater number of sampling points;
+- (d) each zone contains at least one sampling point; and
+- (e) nitrogen dioxide is measured at all remaining sampling points except rural background stations.
+
+(6) The results of modelling and/or indicative measurements carried out in zones to which paragraph (5) applies shall be taken into account for the assessment of air quality with respect to target values.
+
+(7) For zones where five years of measurement have been carried out, and during each of the previous five years of measurement concentrations are below the long-term objectives, the number of continuous measurement stations shall be determined in accordance with Part II of Schedule 3.
+
+(8) Schedule 2 shall have effect for determining the location of sampling points for the fixed measurement of ozone.
+
+(9) For ozone precursor substances, the Department shall ensure that –
+
+- (a) at least one measuring station to supply data on concentrations of the ozone precursor substances listed in Schedule 4 is installed and operated within Northern Ireland; and
+- (b) in choosing the number and siting of measuring stations for ozone precursor substances, account shall be taken of the objectives, methods and recommendations set out in Schedule 4.
+
+(10) Reference methods for analysis of ozone are set out in Schedule 6, and these methods must be used unless other methods are used which the Department considers can be demonstrated to give equivalent results.
+
+(11) For ozone, measurements of volume must be standardised at a temperature of 293K and a pressure of 101.3kPa.
+
+## 8. Programmes and measures to address ozone levels[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Public Information[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Action plans[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Transboundary pollution[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Information requirements[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Revocation of the Ozone Monitoring and Information Regulations 1994[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of the Environment on 17th April 2003.
+
+Judena Goldring
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — TARGET VALUES AND LONG-TERM OBJECTIVES FOR OZONE CONCENTRATIONS IN AMBIENT AIR[^key-aca05de99661229cfc6fae334b14624e]
+
+**No longer in force.**
+
+### PART I — definitions and interpretation[^key-aca05de99661229cfc6fae334b14624e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — target values for ozone[^key-aca05de99661229cfc6fae334b14624e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART III — long-term objectives for ozone[^key-aca05de99661229cfc6fae334b14624e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — CLASSIFICATION AND LOCATION OF SAMPLING POINTS
+
+The following considerations will apply to fixed measurements:
+
+### PART I — macroscale siting[^key-ae66305c9286882136274d842cb1814b]
+
+<table>
+<thead>
+<tr><th>Type of station</th><th>Objective of measurement</th><th>Representativeness</th><th>Macroscale siting criteria</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="4">(a)<br>sampling points should also, where possible, be representative of similar locations not in their immediate vicinity.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Urban</td><td><strong>Protection of human health:</strong> to assess the exposure of the urban population to ozone, i.e. where the population density and ozone concentration are relatively high and representative of the exposure of the general population.</td><td>A few km<sup>2</sup></td><td>Away from the influence of local emissions such as traffic, petrol stations etc.;<br>vented locations where well- mixed levels can be measured;<br>locations such as residential and commercial areas of cities, parks (away from the trees), big streets or squares with very little or no traffic, open areas characteristic of education, sports or recreation facilities.</td></tr>
+<tr><td>Suburban</td><td><strong>Protection of human health and vegetation:</strong> to assess the exposure of the population and vegetation located in the outskirts of the agglomeration, where the highest ozone levels, to which the population and vegetation is likely to be directly or indirectly exposed, occur.</td><td>Some tens of km<sup>2</sup></td><td>At a certain distance from the area of maximum emissions downwind following the main wind directions during conditions favourable to ozone formation;<br>where population, sensitive crops or natural ecosystems located in the outer fringe of an agglomeration are exposed to high ozone levels;<br>where appropriate, some suburban stations also upwind of the area of maximum emissions, in order to determine the regional background levels of ozone.</td></tr>
+<tr><td>Rural</td><td><strong>Protection of human health and vegetation:</strong> to assess the exposure of population, crops and natural ecosystems to sub-regional scale ozone concentrations.</td><td>Sub-regional levels (a few km<sup>2</sup>)</td><td>Stations can be located in small settlements and/or areas with natural ecosystems, forests or crops;<br>representative for ozone away from the influence of immediate local emissions such as industrial installations and roads;<br>at open area sites, but not on higher mountain-tops.</td></tr>
+<tr><td>Rural background</td><td><strong>Protection of vegetation and human health:</strong> to assess the exposure of crops and natural ecosystems to regional-scale ozone concentrations as well as exposure of the populations.</td><td>Regional/national/continental levels (1,000 to 10,000km<sup>2</sup>)</td><td>Station located in areas with lower population density, e.g. with natural ecosystems, forests, far removed from urban and industrial areas and away from local emissions;<br>avoid locations which are subject to locally enhanced formation of near-ground inversion conditions, also summits of higher mountains;<br>coastal sites with pronounced diurnal wind cycles of local character are not recommended.</td></tr>
+</tbody>
+</table>
+
+[^f01003]
+
+For rural and rural background stations, consideration should be given, where appropriate, to co-ordination with the monitoring requirements of Commission Regulations [(EC) No. 1091/94](https://www.legislation.gov.uk/european/regulation/1994/1091)[^f00005] concerning protection of the Community’s forests against atmospheric pollution.
+
+### PART II — microscale siting
+
+The following guidelines should be followed, as far as practicable:
+
+**1.**[^key-5c335dba81f4a1acf89c58342a3d1fc7] the flow around the inlet sampling probe should be unrestricted (free in an arc of at least 2700) without any obstructions affecting the air flow in the vicinity of the sampler, i.e. away from buildings, balconies, trees and other obstacles by more than twice the height the obstacle protrudes above the sampler.
+
+**2.**[^key-42dc3a8cac3abec62e7b3d92667b1465] in general, the inlet sampling point should be between 1.5m (the breathing zone) and 4m above the ground. Higher positions are possible for urban stations in some circumstances and in wooded areas.
+
+**3.**[^key-897c676a212623c1c5bbd4d65986b85f] the inlet probe should be positioned well away from such sources as furnaces and incineration flues and more than 10m from the nearest road, with distance increasing as a function of traffic intensity.
+
+**4.**[^key-a0389f0733c08310f9ade0507843c46c] the sampler’s exhaust outlet should be positioned so as to avoid recirculation of exhaust to the sampler inlet.
+
+The following factors may also be taken into account:
+
+- (a) interfering sources;
+- (b) security;
+- (c) access;
+- (d) availability of electrical power and telephone communications;
+- (e) visibility of the site in relation to its surroundings
+- (f) safety of public and operators;
+- (g) the desirability of co-locating sampling points for different pollutants; and
+- (h) planning requirements.
+
+### PART III — documentation and review of site selection[^key-fc51731fe147352ad097e75a054b110e]
+
+Site selection procedures should be fully documented at the classification stage by such means as compass point photographs of the surroundings and a detailed map. Sites should be reviewed at regular intervals with repeated documentation to ensure that selection criteria are still being met.
+
+This requires proper screening and interpretation of the monitoring data in the context of the meteorological and photochemical processes affecting the ozone concentrations measured at the respective site.
+
+## SCHEDULE 3 — CRITERIA FOR DETERMINING MINIMUM NUMBERS OF SAMPLING POINTS FOR FIXED MEASUREMENTS OF CONCENTRATIONS OF OZONE
+
+### PART I — minimum number of sampling points for fixed continuous measurement to assess air quality in view of compliance with the target values, long-term objectives and information and alert thresholds where continuous measurement is the sole source of information[^key-23bf65a2687e5241591cf7493aa0dc02]
+
+<table>
+<thead>
+<tr><th>Population (× 1,000)</th><th>Agglomerations (urban and suburban)</th><th>Other zones (suburban and rural)</th><th>Rural background</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="4">(a)<br>at least 1 station in suburban areas, where the highest exposure of the population is likely to occur. In agglomerations, at least 50% of the stations should be located in suburban areas.</td></tr>
+<tr><td colspan="4">(b)<br>1 station per 25,000 km<sup>2</sup> for complex terrain is recommended.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>0 – 250</td><td></td><td>1</td><td rowspan="8">1 station/50,000 km<sup>2</sup> as an average density over all zones per country</td></tr>
+<tr><td>251 – 500</td><td>1</td><td>2</td></tr>
+<tr><td>501 – 1,000</td><td>2</td><td>2</td></tr>
+<tr><td>1,001 – 1,500</td><td>3</td><td>3</td></tr>
+<tr><td>1,501 – 2,000</td><td>3</td><td>4</td></tr>
+<tr><td>2,001 – 2,750</td><td>4</td><td>5</td></tr>
+<tr><td>2,751 – 3,750</td><td>5</td><td>6</td></tr>
+<tr><td>&gt;3,750</td><td>1 additional station per 2 million inhabitants</td><td>1 additional station per 2 million inhabitants</td></tr>
+</tbody>
+</table>
+
+[^f01004][^f01004][^f01005]
+
+### PART II — minimum number of sampling points for fixed measurements for zones attaining the long-term objectives[^key-77ef1307514dacea9b673bb470a437a7]
+
+The number of sampling points for ozone must, in combination with other means of supplementary assessment such as air quality modelling and co-located nitrogen dioxide measurements, be sufficient to examine the trend of ozone pollution and check compliance with the long-term objectives. The number of stations located in agglomerations and other zones may be reduced to one-third of the number specified in Part I. Where information from fixed measurement stations is the sole source of information, at least one monitoring station should be kept. If, in zones where there is supplementary assessment, the result of this is that a zone has no remaining station, co-ordination with the number of stations in neighbouring zones must ensure adequate assessment of ozone concentrations against long-term objectives. The number of rural background stations should be 1 per 100,000 km<sup>2</sup>.
+
+## SCHEDULE 4 — MEASUREMENTS OF OZONE PRECURSOR SUBSTANCES[^key-db8ac3b9dca223064a8efce8e37ff23a]
+
+### Objectives
+
+[^key-db8ac3b9dca223064a8efce8e37ff23a]
+
+The main objectives of measurements of ozone precursor substances are to analyse any trend in ozone precursors, to check the efficiency of emission reduction strategies, to check the consistency of emissions inventories and to help attribute emission sources to pollution concentration.
+
+An additional aim is to support the understanding of ozone formation and precursor dispersion processes, as well as the application of photochemical models.
+
+### Substances
+
+[^key-db8ac3b9dca223064a8efce8e37ff23a]
+
+Measurements of ozone precursor substances must include at least nitrogen oxides, and appropriate volatile organic compounds (VOCs). A list of VOCs recommended for measurement is given below.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ethane | 1-butene | isoprene | ethyl benzene |
+| ethylene | trans-2-butene | n-hexane | m+p-xylene |
+| acetylene | cis-2-butene | i-hexane | o-xylene |
+| propane | 1.3-butadiene | n-heptane | 1,2,4-trimeth.benzene |
+| propene | n-pentane | n-octane | 1,2,3-trimeth.benzene |
+| n-butane | i-pentane | i-octane | 1,3,5-trimeth.benzene |
+| i-butane | 1-pentene | benzene | formaldehyde |
+|  | 2-pentene | toluene | total non-methane hydrocarbons |
+
+### Reference methods
+
+[^key-db8ac3b9dca223064a8efce8e37ff23a]
+
+The reference method for the analysis of oxides of nitrogen shall be that specified in Part II of Schedule 6 to the Air Quality Limit Values Regulations (Northern Ireland) 2002, ([S.R.2002/94](https://www.legislation.gov.uk/nisr/2002/94)).
+
+### Siting
+
+[^key-db8ac3b9dca223064a8efce8e37ff23a]
+
+Measurements should be taken in particular in urban and suburban areas at any monitoring site set up in accordance with the requirements of the Air Quality Limit Values Regulations (Northern Ireland) 2002 and considered appropriate with regard to the monitoring objectives in this Schedule.
+
+## SCHEDULE 5 — DATA QUALITY OBJECTIVES AND COMPILATION OF RESULTS OF AIR QUALITY ASSESSMENT
+
+### PART I — data quality objectives[^key-cd16dd72012dd4b886045b5ea05c6be9]
+
+The following data quality objectives, for allowed uncertainty of assessment methods, and of minimum time coverage and of data capture of measurement, are provided to guide quality-assurance programmes:
+
+<table>
+<thead>
+<tr><th></th><th>For ozone, NO<sub>x</sub> and NO<sub>2</sub></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">The uncertainty (on a 95% confidence interval) of the measurement methods shall be evaluated in accordance with the principles laid down in the “Guide to the Expression of Uncertainty of Measurements” (ISO 1993) of the methodology in ISO 5725-1 “Accuracy (trueness and precision) of measurement methods and results” (ISO 1994) or equivalent. The percentages for uncertainty in the table are given for individual measurements, averaged over the period for calculating target values and long-term objectives, for a 95% confidence interval. The uncertainty for continuous fixed measurements should be interpreted as being applicable in the region of the concentration used for the appropriate threshold.<br>The uncertainty for modelling and objective estimation means the maximum deviation of the measured and calculated concentration levels, over the period for calculating the appropriate threshold, without taking into account the timing of events.<br>“Time coverage” means the percentage of time considered for settling the threshold value during which the pollutant is measured.<br>“Data capture” means the ratio of the time for which the instrument produces valid data, to the time for which the statistical parameter or aggregated value is to be calculated.<br>The requirements for minimum data capture and time coverage do not include losses of data due to the regular calibration or normal maintenance of the instrumentation.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="2">Continuous fixed measurement</th></tr>
+<tr><td>Uncertainty of individual measurements</td><td>15%</td></tr>
+<tr><td>Minimum data capture</td><td>90% during summer</td></tr>
+<tr><td></td><td>75% during winter</td></tr>
+<tr><th colspan="2">Indicative measurement</th></tr>
+<tr><td>Uncertainty of individual measurements</td><td>30%</td></tr>
+<tr><td>Minimum data capture</td><td>90%</td></tr>
+<tr><td>Minimum time coverage</td><td>&gt;10% during summer</td></tr>
+<tr><th colspan="2">Modelling</th></tr>
+<tr><td>Uncertainty</td><td></td></tr>
+<tr><td>1 hour averages (daytime)</td><td>50%</td></tr>
+<tr><td>8 hours daily maximum</td><td>50%</td></tr>
+<tr><th colspan="2">Objective estimation</th></tr>
+<tr><td>Uncertainty</td><td>75%</td></tr>
+</tbody>
+</table>
+
+[^f00006]
+
+### PART II — results of air quality assessment[^key-f6a48e4fc0eac9bf6f77a511d58376c4]
+
+The following information should be compiled for zones within which sources other than measurements are employed to supplement information from measurement:
+
+- a description of the assessment activities carried out;
+- specific methods used, with references to descriptions of the method;
+- sources of data and information;
+- a description of results, including uncertainties and, in particular, the extent of any area within the zone over which concentrations exceed long-term objectives or target values;
+- for long-term objectives or target values whose object is the protection of human health, the population potentially exposed to concentrations in excess of the threshold.
+
+The Department shall ensure that maps are compiled showing concentration distributions within each zone.
+
+## SCHEDULE 6 — REFERENCE METHODS FOR ANALYSIS OF OZONE AND CALIBRATION OF OZONE INSTRUMENTS[^key-035d6478b0802dae94b2fe856ccf79c3]
+
+[^key-035d6478b0802dae94b2fe856ccf79c3]
+
+The reference method for analysis of ozone shall be the UV photometric method (ISO FDIS 13964).
+
+[^key-035d6478b0802dae94b2fe856ccf79c3]
+
+The reference method for calibration of ozone instruments shall be the Reference UV photometer method (ISO FDIS 13964, VDI 2468, B1.6).
+
+## SCHEDULE 7 — INFORMATION AND ALERT THRESHOLDS
+
+### ...[^key-aca05de99661229cfc6fae334b14624e]
+
+<table>
+<thead>
+<tr><th></th><th></th><th></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">. . .</td></tr>
+</tfoot>
+<tbody>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e]
+
+[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 8 — INFORMATION TO BE OBTAINED AND COLLATED ON OZONE CONCENTRATIONS, AND CRITERIA FOR AGGREGATING DATA AND CALCULATING STATISTICAL PARAMETERS
+
+### ...[^key-aca05de99661229cfc6fae334b14624e]
+
+<table>
+<thead>
+<tr><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="6">. . .</td></tr>
+<tr><td colspan="6">. . .</td></tr>
+</tfoot>
+<tbody>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td></td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td></td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td></td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e]
+
+- (a) <sup></sup>
+- (b)
+
+[^f00007]
+
+<table>
+<thead>
+<tr><th></th><th></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">. . .</td></tr>
+</tfoot>
+<tbody>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e]
+
+(This note is not part of the Regulations.)
+
+These Regulations are made in the implementation in Northern Ireland of European Council Directive [2002/3/EC](https://www.legislation.gov.uk/european/directive/2002/0003) relating to ozone in ambient air.
+
+Regulation 3 sets the target values for the protection of human health and vegetation in respect of the concentrations of ozone in ambient air.
+
+Regulation 4 sets the long-term objectives for the protection of human health and vegetation in respect of the concentrations of ozone in ambient air.
+
+Regulation 5 requires the Department of the Environment (“the Department”) to assess the concentrations of ozone and ozone precursor substances in accordance with Regulations 6 to 7.
+
+Regulation 6 requires the Department to classify each zone in relation to ozone in accordance with the method of assessment that is required, and which is dependent on either the history of ozone concentrations or the available data in each zone.
+
+Regulation 7 requires the Department to ensure that specified methods are used for assessing ambient air quality in respect of ozone. Part I of Schedule 3 specifies the minimum number of fixed sampling points required where continuous measurement is the only source of information. The Regulation also specifies the minimum number of sampling points that are required for the measurement of nitrogen dioxide. It provides details of when the number of sampling points required by Part I of Schedule 3 may be reduced. Schedule 2 determines the location of sampling points for the fixed measurement of ozone. Schedule 4 lists the recommended ozone precursor substances of which concentrations must be measured. Schedule 6 prescribes reference methods for the analysis of ozone.
+
+Regulation 8 requires the Department to compile a list of zones, and draw up and implement a plan or programme where the levels of ozone in ambient air are: (i) higher than the target value, save where achieving the target value would not be done so through proportionate measures; and (ii) higher than the long-term objectives but equal to or below the target values. The information shall be made available to the public. The Department is also required to ensure that in those zones where ozone levels meet the long-term objectives, levels are kept below long-term objectives, and are preserved through proportionate measures.
+
+Regulation 9 requires the Department to ensure that up-to-date information on concentrations of ozone in ambient air is made available routinely to the public, which shall include an indication of each time and the extent to which ozone concentrations were exceeded; a short assessment of those exceedances and their effect on public health; comprehensive annual reports; and timely information about actual or predicted exceedances of the alert threshold. The information made available to the public shall be clear, comprehensive and accessible.
+
+Regulation 10 requires the Department to draw up action plans indicating the measures to be taken in the short term where there is any risk of the alert threshold being exceeded, if there is significant potential to reduce such a risk and in order to reduce the duration or severity of such an occurrence. The Department shall make the results of investigations undertaken in the preparation of these action plans, the action plans and information on implementation of the action plans available to the public.
+
+Regulation 11 requires the Department to notify the Secretary of State for the Environment, Food and Rural Affairs should transboundary pollution incidents arise in Northern Ireland, and where the cause is due largely to precursor emissions in other Member States.
+
+Regulation 12 requires the Department to ensure that the information specified in Part I of Schedule 8 is obtained and collated. The criteria for aggregating data and calculating statistical parameters specified in Part II of Schedule 8 shall apply to this Regulation.
+
+Regulation 13 revokes the Ozone Monitoring and Information Regulations 1994.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1988/785](https://www.legislation.gov.uk/uksi/1988/785)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-aca05de99661229cfc6fae334b14624e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/240) revoked (except regs. 6(1) 7) (28.5.2007) by [The Air Quality Standards Regulations (Northern Ireland) 2007 (S.R. 2007/265)](https://www.legislation.gov.uk/nisr/2007/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/265/regulation/1), [30(1)(b)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30)
+
+[^key-47bf09a7c3b77dd9a279b1ebc9a567c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/240/regulation/6) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-dfb89f70e69e648d85e466840bed0cfb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/240/regulation/7) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-ae66305c9286882136274d842cb1814b]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^f01003]: Footnote: (a)
+
+    sampling points should also, where possible, be representative of similar locations not in their immediate vicinity.
+
+[^f00005]: Footnote: O.J.No. L125, 18.5.1994, p. 1
+
+[^key-5c335dba81f4a1acf89c58342a3d1fc7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/1) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-42dc3a8cac3abec62e7b3d92667b1465]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/2) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-897c676a212623c1c5bbd4d65986b85f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/3) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-a0389f0733c08310f9ade0507843c46c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/4) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-fc51731fe147352ad097e75a054b110e]: Commencement: [Sch. 2 Pt. III](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/part/III) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-23bf65a2687e5241591cf7493aa0dc02]: Commencement: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/3/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^f01004]: Footnote: (a)
+
+    at least 1 station in suburban areas, where the highest exposure of the population is likely to occur. In agglomerations, at least 50% of the stations should be located in suburban areas.
+
+[^f01005]: Footnote: (b)
+
+    1 station per 25,000 km<sup>2</sup> for complex terrain is recommended.
+
+[^key-77ef1307514dacea9b673bb470a437a7]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2003/240/schedule/3/part/II) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-db8ac3b9dca223064a8efce8e37ff23a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/240/schedule/4) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-cd16dd72012dd4b886045b5ea05c6be9]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/5/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^f00006]: Footnote: Copies of these International Standards Organisation publications can be purchased from the British Standards Institution “BSI” sales department either by telephone on 020-8996-9001 or by post from the BSI, Standards House, 389 Chiswick High Road, London, W4 4AL
+
+[^key-f6a48e4fc0eac9bf6f77a511d58376c4]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2003/240/schedule/5/part/II) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^key-035d6478b0802dae94b2fe856ccf79c3]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/240/schedule/6) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+
+[^f00007]: Footnote: O.J. No. L35, 5.2.1997, p. 14

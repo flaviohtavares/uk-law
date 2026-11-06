@@ -1,0 +1,320 @@
+---
+title: The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024
+id: nisr/2024/155
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2024-07-19'
+text_date: '2026-11-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2024/155
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2024/155/pdfs/nisrem_20240155_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2024/155/pdfs/nisr_20240155_en.pdf
+- http://www.legislation.gov.uk/nisr/2024/155/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-01. See https://www.legislation.gov.uk/changes/affected/nisr/2024/155
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2024 No. 155
+
+Dogs
+
+The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024
+
+Made
+
+19th July 2024
+
+Coming into operation
+
+9th August 2024
+
+The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Order in exercise of the powers conferred by Article 25A(3), (5) and (6) of the Dogs (Northern Ireland) Order 1983[^f00002].
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and Commencement[^key-c67b1c386b5274259d706ab469f67c02]
+
+This Order may be cited as the Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024 and comes into operation on 9th August 2024.
+
+### 2. Interpretation[^key-75c8b3329957d1d38cb35ac213a1b4e7]
+
+In this Order—
+
+- “**appointed day**” means 31st December 2024;
+- “**certificate of exemption**” means a certificate issued under Article 6, Article 11(5) or Article 12 by a district council;
+- “**dog**” means a dog of the type known as the XL Bully;
+- “**the Department**” means the Department of Agriculture, Environment and Rural Affairs;
+- “**the Order**” means The Dogs (Northern Ireland) Order 1983;
+- “**rehoming organisation**” means an organisation whose purposes on 5th July 2024 include—
+  - (i) the provision of care to dogs that have been abandoned or relinquished by their previous owners; and
+  - (ii) the rehoming of dogs taken into the organisation’s care.
+- “relevant time” for applications for exemption is either by 31st December 2024 or where the keeper named on the certificate of exemption has died, three months from the date of death;
+- “**veterinary surgeon**” means a person registered in the register of veterinary surgeons or the supplementary veterinary register kept under the Veterinary Surgeons Act 1966[^f00003].
+
+## PART 2 — COMPENSATION SCHEME
+
+### 3. Application for compensation by the keeper[^key-f4de0a89791da445a0953152c6bae9f8]
+
+(1) The keeper of a dog who has arranged for the dog to be euthanised by a veterinary surgeon before the appointed day may apply to the Department for the payment of the sums specified in paragraph (3).
+
+(2) An application under paragraph (1) must—
+
+- (a) contain such particulars, be in such form and be accompanied by such evidence as the Department may reasonably require for the purposes of satisfying itself that—
+  - (i) the dog is one to which Article 25A of the Order applies;
+  - (ii) the applicant is the keeper of the dog; and
+  - (iii) the dog has been destroyed.
+- (b) be made on or before 28th February 2025.
+
+(3) If, on receipt of an application under paragraph (1), the Department is satisfied that the application and any accompanying evidence meets the requirements in paragraph (2), the Department must pay the keeper—
+
+- (a) £100 in respect of the dog; and
+- (b) £100 in respect of the cost of euthanising the dog.
+
+### 4. Application for compensation by a rehoming organisation[^key-e79cf02cc923cf5b7d5eb320433b8e69]
+
+(1) A rehoming organisation who has arranged for the dog to be euthanised by a veterinary surgeon before the appointed day may apply to the Department for the payment of £100 in respect of the cost of euthanising the dog.
+
+(2) An application under paragraph (1) must—
+
+- (a) contain such particulars, be in such form and be accompanied by such evidence as the Department may reasonably require for the purposes of satisfying itself that—
+  - (i) the dog is one to which Article 25A of the Order applies;
+  - (ii) the applicant is a rehoming organisation; and
+  - (iii) the dog has been destroyed.
+- (b) be made on or before 28th February 2025.
+
+## PART 3 — EXEMPTION SCHEME
+
+### 5. Exemption from the prohibitions in Article 25A(3) of the Order[^key-4db3fb9ea96508f6bc6409b0df1cf7f6]
+
+(1) The prohibition in Article 25A(3) of the Order does not apply to a dog if paragraph 2, 3 or 4 apply.
+
+(2) This paragraph applies if—
+
+- (a) the district council issued a certificate of exemption in respect of the dog; and
+- (b) the certificate of exemption remains valid.
+
+(3) This paragraph applies if—
+
+- (a) an application for a certificate of exemption has been made, and the fee relating to that application has been paid, at or before the relevant time in respect of the dog; and
+- (b) the applicant has not received notification of the determination of the application.
+
+(4) This paragraph applies if—
+
+- (a) an application for a certificate of exemption was made and the fee relating to that application was paid, at or before the appointed day in respect of the dog;
+- (b) the district council refused the application on or after 17th December 2024; and
+- (c) the applicant has arranged for the dog to be euthanised by a veterinary surgeon within 14 days of the notification of the decision of the district council.
+
+(5) A certificate of exemption ceases to be valid under paragraph (2)(b)—
+
+- (a) on the failure to comply with any condition attached to the certificate of exemption; or
+- (b) where the keeper named in the certificate of exemption has died on—
+  - (i) the date on which a certificate of exemption is issued following an application under Article 6(7) in respect of the same dog;
+  - (ii) the date on which an application made under Article 6(7) is refused by the district council; or
+  - (iii) the date which is three months after the original keeper’s date of death, where no such application is made at or before the appointed day.
+
+### 6. Application for a certificate of exemption[^key-7fbe25344d7dedddca8fd07ff924cae9]
+
+(1) The keeper of a dog may apply to the district council for a certificate of exemption in the respect of that dog.
+
+(2) A rehoming organisation may apply to the district council for a certificate of exemption in respect of a dog if—
+
+- (a) the dog was taken into its care before 5th July 2024; or
+- (b) the dog is a puppy born before the appointed day to a female dog which was in the care of the rehoming organisation at the time of its birth, having been taken into the care of the rehoming organisation before 5th July 2024.
+
+(3) An application for a certificate of exemption must contain such particulars, be in such form and be accompanied by such evidence as the district council may reasonably require for the purpose of satisfying itself that—
+
+- (a) the dog is one to which Article 25A of the Order applies;
+- (b) the applicant is either—
+  - (i) the keeper; or
+  - (ii) a rehoming organisation applying for a certificate of exemption for a dog to which paragraph 2(a) or (b) applies.
+
+(4) The applicant must pay a fee of £92.40 to the district council for a certificate of exemption.
+
+(5) On receipt of an application for a certificate of exemption, the district council must grant the application and issue a certificate of exemption in respect of the dog to which the application relates if—
+
+- (a) the application for the certificate is made at or before the relevant time unless the court has made an order in respect of the dog under Article 33(1), 33(1A) or 33(1B) of the Order);
+- (b) the district council are satisfied that the application meets the requirements referred to in paragraph (3);
+- (c) the application fee referred to in paragraph (4) has been paid to the district council; and
+- (d) the application fee has been received by the district council at or before the relevant time unless the court has made an order referred to in sub-paragraph (a) in respect of the dog.
+
+(6) For the purposes of paragraph (5) and unless paragraph (7) applies, and application is made, and the application fee in relation to that application is paid, at or before the appointed day, if—
+
+- (a) the application and the application fee are received by the district council by post on or before 15th December 2024;
+- (b) the application and the application fee are submitted electronically on or before the appointed day.
+
+(7) Where the keeper named on a certificate of exemption has died, a person who has inherited the dog identified in that certificate of exemption may apply for a certificate of exemption in respect of that dog if an application—
+
+- (a) is made and the application fee is paid within three months from the date of death of the keeper; and
+- (b) meets the requirements in paragraphs (3) and (4).
+
+### 7. Certificate of exemption[^key-e6d08a2468a067e60294fee4d8f8c50f]
+
+A certificate of exemption must—
+
+- (a) contain a unique number or a unique combination of letters and figures;
+- (b) contain information to identify—
+  - (i) the keeper or the rehoming organisation;
+  - (ii) the dog; and
+  - (iii) the premises at which the dog is living.
+- (c) require the keeper—
+  - (i) to keep the dog at the same premises as the keeper except for any 30 days in any 12 month period; and
+  - (ii) to notify the district council of any proposed change of premises at which the dog is kept (other than in respect of any change of premises in the 30 days referred to in sub-paragraph (i)).
+- (d) require a rehoming organisation—
+  - (i) to ensure that the dog lives in the premises specified in the certificate at all times, except where it is relocated from those premises to other premises in the event of a fire or other emergency;
+  - (ii) where, in the event of a fire or other emergency, the dog is relocated from the premises specified in the certificate to other premises, to notify the district council in writing of the change of premises and the address of the premises to which the dog has been relocated;
+- (e) include the conditions listed at sub-paragraphs (i)-(ix)—
+  - (i) to notify the district council of the death or export of the dog;
+  - (ii)[^key-c6c1250e4d4d58288c0940dcf2e88603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) to keep the dog muzzled and on a lead when in a public place;
+  - (iv) to keep the dog in sufficiently secure conditions to prevent its escape;
+  - (iva)[^key-b65a299ae07cdb300eab44f147da46fb] to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) who is over the age of 18;
+  - (v) to provide access to the dog for the purposes of reading a microchip on request by an officer;
+  - (vi)[^key-7260a875217b226529bda01f8618917c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii) to produce to an officer the certificate of exemption within five days of being requested to do so by that officer;
+  - (viii) to satisfy the district council that the requirement in Article 9 has been met in respect of the dog; and
+  - (ix) where applicable, to satisfy the district council that the requirements in Article 10 have been met in respect of the dog.
+
+### 8. Third-party insurance[^key-52163f482867339a9f138f45f7e7923a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Neutering[^key-fd4bb93458354e230db046d0bc90f85f]
+
+(1) The holder of a certificate of exemption must, on or before the date specified in paragraph (2)(b), provide the district council with such evidence as the district council may reasonably require that the dog in respect of which the certificate has been issued has been neutered.
+
+(2) In paragraph (1)—
+
+- (a) “**neutered**” means—
+  - (i) in the case of a male dog, castrated; and
+  - (ii) in the case of a female dog, spayed.
+- (b) unless paragraph (c) applies, the date—
+  - (i) in relation to a dog that was at least 18 months old on the appointed day, is 30th June 2025;
+  - (ii) in relation to a dog that was less than 18 months old on the appointed day, is either—
+    - (aa) 30th June 2025; or
+    - (bb) the date which is one month after it reaches the age of 18 months, whichever is the later.
+- (c) where the court has made an order referred to in Article 6(5)(a) in respect of the dog, the date which is one month after—
+  - (i) the date on which the certificate of exemption is issued; or
+  - (ii) the date on which the dog reaches the age of 18 months; whichever is the later.
+
+### 10. Microchipping[^key-608d18e49552aa1f533817ff0f9f0308]
+
+(1) This Article applies where—
+
+- (a) a certificate of exemption has been issued in respect of a dog; and
+- (b) at the time that the application for a certificate of exemption was made under Article 6 (“the time of application”), the dog was not implanted with a microchip because at that time the dog was less than eight weeks old or unfit to be microchipped.
+
+(2) Where the dog was not implanted with a microchip because it was less than eight weeks old at the time of application, the holder of the certificate of exemption must, on or before 31st March 2025, provide the district council with such evidence as the district council may reasonably require to confirm that the dog has been implanted with a microchip.
+
+(3) Where the dog was not implanted with a microchip at the time of application because it was unfit to be microchipped at the time, the holder of a certificate of exemption must provide the district council with the following evidence on or before 31st March 2025—
+
+- (a) such evidence as the district council may reasonably require to ascertain the date on which it will become fit to be microchipped; or
+- (b) such evidence as the district council may reasonably require to confirm that the dog has been implanted with a microchip.
+
+(4) Where evidence is provided in accordance with paragraph (3)(a), the holder of the certificate of exemption must provide the district council with such evidence as the district council may reasonably require to confirm that the dog has been implanted with a microchip before the end of the period of 28 days beginning with the day on which the dog first became fit to be microchipped.
+
+(5) For the purposes of this Article, a dog is only unfit to be microchipped if a certificate has been issued in respect of the dog under Article 6(9) of the Order.
+
+### 11. Rehoming organisations – change of premises[^key-60b88925ed57e3e81172b7f6621e570e]
+
+(1) This Article applies where a rehoming organisation has obtained a certificate of exemption and relocates the dog to which the certificate relates from the premises referred to in the certificate to other premises occupied by the holder for any reason other than an emergency.
+
+(2) The rehoming organisation may apply to the district council to vary the certificate of exemption within 28 days of the date of relocation.
+
+(3) An application under paragraph (2) must contain such particulars, be in such form and be accompanied by such evidence as the district council may reasonably require.
+
+(4) On receipt of an application under paragraph (2), the district council may vary the certificate of exemption if satisfied that the dog to which the certificate relates, continues to be owned and cared for by the rehoming organisation.
+
+(5) When the district council approves the variation of a certificate of exemption, the district council must issue a replacement certificate.
+
+### 12. Further provision about certificates of exemption[^key-24971efe616ba5247adf4189fc1acc98]
+
+The district council may issue a new certificate of exemption to replace an existing certificate of exemption that was issued in respect of a dog where—
+
+- (a) The keeper—
+  - (i) notifies the district council in writing within 28 days of a change in the keeper’s name, address of premises or contact details on the existing certificate; and
+  - (ii) provides the district council with such evidence as the district council may reasonably require in relation to the change; or
+- (b) evidence has been provided to confirm that the dog has been implanted with a microchip in accordance with Article 10.
+
+Sealed with the Official Seal of the Department of Agriculture, Environment and Rural Affairs on 19th July 2024
+
+Neal Gartland
+
+A senior officer of the
+
+Department of Agriculture, Environment and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision in respect of dogs of the type known as the XL Bully. The type of dog known as the XL Bully is designated for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983 (“**the 1983 Order**”) by Article 2 of the Dangerous Dogs (Designated Types) Order (Northern Ireland) 2024.
+
+Article 3 of that Order further provides that the day appointed under Article 25A(1)(c) in respect of dogs of the XL Bully type is 31st December 2024. This means that the possession or custody of a dog of the XL Bully type will be prohibited after this date.
+
+Part 2 of this Order establishes a compensation scheme in respect of dogs of the XL Bully type where arrangements are made before 31st December 2024 for such dogs to be euthanised. Article 3(1) provides that a person who owns a dog of the XL Bully type and makes arrangements before that date for the dog to be euthanised may apply to the Department for compensation. Article 3(3) provides that, if the Department is satisfied that such an application has been duly made, the Department must arrange for the payment of the specified amount to the applicant.
+
+Article 4(1) provides that if a rehoming organisation arranges for an XL Bully type dog to be euthanised before 31st December 2024, it may apply to the Department for compensation towards veterinary costs. Article 4(2) specifies what evidence must be included in an application and that applications must be made on or before 28th February 2025.
+
+Part 3 establishes an exemption scheme under which owners of dogs of the XL Bully type may apply for an exemption from the prohibition under Article 25A that will apply in respect of the possession of dogs of the XL Bully type on or after 1st January 2025 (“the Article 25A prohibition”).
+
+Article 5 makes provision for an exemption from Article 25A(3) of the 1983 Order where the relevant district council has issued a certificate of exemption in respect of the dog and the certificate remains valid. It also makes provision for an exemption to apply where an application for a certificate has been made timeously and is still pending, and for a “grace period” of 14 days following notification of refusal of an application, to allow time for the owner to have the dog euthanised. This will apply only where notification is received on or after 17th December 2024, as it may then be impossible to arrange for the dog to be euthanised before 1st January 2025. Where the holder of a certificate of exemption dies, the certificate of exemption remains valid for a limited period as provided for by Article 5(5)(b), so long as the conditions of exemption are adhered to. A keeper who inherits the dog may make a new application for a certificate of exemption in their own name in accordance with Article 6(7).
+
+Article 6 makes provision in relation to applications for a certificate of exemption and specifies who may apply for a certificate and the fee for an application (£92.40). An application for exemption must be made by no later than 31st December 2024, other than for postal applications (where the deadline is 15th December 2024) and for applications under Article 6(7), where the application must be made within three months of the death.
+
+Article 7 specifies what must be included in a certificate of exemption and the conditions that the holder must comply with for the certificate to remain valid. Certain requirements will apply throughout the lifetime of the dog.
+
+Article 8 specifies the requirement for third-party insurance. The requirements relating to neutering and microchipping (where applicable) in Articles 9 and 10 must be met by the dates specified in those Articles.
+
+Article 11 makes provision for the situation where the holder of a certificate of exemption is a rehoming organisation which wishes to relocate the dog from the premises at which it was previously kept to other premises occupied by the organisation. District councils are empowered to vary the certificate of exemption in these circumstances.
+
+Article 12 makes provision for replacement certificates to be issued in certain circumstances.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Agriculture and Rural Development (DARD see Article 3(4) of the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1))](https://www.legislation.gov.uk/nisi/1999/283). DARD was renamed the Department of Agriculture, Environment and Rural Affairs (DAERA) by section 1(2) of the Departments Act (Northern Ireland) [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
+
+[^f00002]: Footnote: [S.I. 1983/764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764). Article 25A was inserted by [S.I. 1991/2292 (N.I. 21)](https://www.legislation.gov.uk/nisi/1991/2292).
+
+[^key-c67b1c386b5274259d706ab469f67c02]: Commencement: Art. 1 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-75c8b3329957d1d38cb35ac213a1b4e7]: Commencement: Art. 2 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^f00003]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36) section 2(2) was amended by paragraph 1 of the Schedule to [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), paragraph 2(a) and (b) of the Schedule to [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and regulation 2(3) of [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454).
+
+[^key-f4de0a89791da445a0953152c6bae9f8]: Commencement: Art. 3 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-e79cf02cc923cf5b7d5eb320433b8e69]: Commencement: Art. 4 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-4db3fb9ea96508f6bc6409b0df1cf7f6]: Commencement: Art. 5 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-7fbe25344d7dedddca8fd07ff924cae9]: Commencement: Art. 6 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-e6d08a2468a067e60294fee4d8f8c50f]: Commencement: Art. 7 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-c6c1250e4d4d58288c0940dcf2e88603]: Textual amendment: [Art. 7(e)(ii)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e/ii) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/a)
+
+[^key-b65a299ae07cdb300eab44f147da46fb]: Textual amendment: [Art. 7(e)(iva)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e) inserted (1.11.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/b)
+
+[^key-7260a875217b226529bda01f8618917c]: Textual amendment: [Art. 7(e)(vi)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e/vi) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/c)
+
+[^key-52163f482867339a9f138f45f7e7923a]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2024/155/article/8) repealed (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2026/124/article/3/3)
+
+[^key-fd4bb93458354e230db046d0bc90f85f]: Commencement: Art. 9 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-608d18e49552aa1f533817ff0f9f0308]: Commencement: Art. 10 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-60b88925ed57e3e81172b7f6621e570e]: Commencement: Art. 11 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+
+[^key-24971efe616ba5247adf4189fc1acc98]: Commencement: Art. 12 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)

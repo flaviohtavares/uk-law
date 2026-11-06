@@ -1,0 +1,47 @@
+---
+title: Reservoirs Act (Northern Ireland) 2015, section 18
+act: Reservoirs Act (Northern Ireland) 2015
+section: '18'
+status: not-yet-in-force
+text_date: '2021-06-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/8/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Reservoirs Act (Northern Ireland) 2015, section 18
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 18. Periodic re-assessment of reservoir designations
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The Department must carry out periodic re-assessments of reservoir designations in accordance with this section.
+
+(2) In carrying out a periodic re-assessment of a reservoir designation in accordance with this section the Department must, having taken into account the matters mentioned in section 22 in so far as it is reasonably practicable to do so, either—
+
+- (a) confirm the designation, or
+- (b) give the controlled reservoir a reservoir designation as one of the other categories referred to in paragraphs (a) to (c) of section 17(2) (for the purposes of this Act “a different designation”).
+
+(3) A periodic re-assessment of the reservoir designation of a controlled reservoir must be carried out at the following times—
+
+- (a) at any time the Department considers the designation may have ceased to be appropriate,
+- (b) in any event, not later than 10 years from whichever is the latest of the following—
+  - (i) the date on which notice of the designation was served under section 17(4),
+  - (ii) the date on which notice of the decision in a periodic re-assessment of the designation was served under subsection (4),
+  - (iii) the date on which notice of the decision in a review in respect of the designation was served under section 20(6),
+  - (iv) the date on which notice of the decision in an appeal in respect of the designation was given under section 21.
+
+(4) The Department confirms the designation, or gives the controlled reservoir a different designation, by notice served on the reservoir manager of the reservoir—
+
+- (a) specifying whether it confirms the designation or gives the reservoir a different designation,
+- (b) where it gives the reservoir a different designation, specifying the different designation and the date on which it takes effect,
+- (c) specifying the reasons for its decision,
+- (d) giving information about the right under section 20 to apply for a review by the Department of its decision, the procedure for making such an application and the period within which an application may be made,
+- (e) specifying that the reservoir designation which is the subject of an application continues to have effect pending a decision being made in the review.

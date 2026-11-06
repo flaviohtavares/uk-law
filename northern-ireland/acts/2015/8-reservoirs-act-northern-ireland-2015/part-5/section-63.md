@@ -1,0 +1,41 @@
+---
+title: Reservoirs Act (Northern Ireland) 2015, section 63
+act: Reservoirs Act (Northern Ireland) 2015
+section: '63'
+status: not-yet-in-force
+text_date: '2021-06-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/8/section/63
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Reservoirs Act (Northern Ireland) 2015, section 63
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 63. Commissioning of referee
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The referee must be an engineer commissioned under this section either—
+
+- (a) by agreement between the reservoir manager and the relevant engineer, or
+- (b) where no agreement is reached, by the Institution of Civil Engineers.
+
+(2) An engineer may be commissioned as a referee if the engineer—
+
+- (a) is a member of a panel of reservoir engineers established under section 102 who may (by virtue of an order under that section) be commissioned under this section in relation to the reservoir,
+- (b) is not disqualified by virtue of subsection (3) from being commissioned under this section in relation to the reservoir concerned.
+
+(3) An engineer is disqualified from being commissioned under this section in relation to the reservoir if the engineer—
+
+- (a) is, or has previously been, an employee of any person who is, or has previously been, a reservoir manager of the reservoir,
+- (b) has previously been an inspecting engineer or a construction engineer in relation to the reservoir,
+- (c) is connected (as a partner, employer, employee or fellow employee in a civil engineering business) with a person who has previously been an inspecting engineer or a construction engineer in relation to the reservoir.
+
+(4) In this section and sections 64 and 65, “**the relevant engineer**” means the inspecting engineer or construction engineer who gave the direction or recommended, specified or imposed the matter which is the subject of the referral.

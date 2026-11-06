@@ -1,0 +1,572 @@
+---
+title: The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1998
+id: nisr/1998/2
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1998-01-09'
+text_date: '2008-04-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/2
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/2/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1998
+
+> Text as at 2008-04-14.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 2
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1998
+
+Made
+
+9th January 1998
+
+Coming into operation in accordance with regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 3(2) and (3), 72(8), 102(10), 122(1), 123(1)(*d*)(ii) and (*e*), 131(1), 132(3) and (4)(*b*) and (*d*), 133(2)(*i*) and (*l*) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 5(1)(*f*)(iii), 6(5) and 14(4)(*b*) and (*d*) of, and paragraph 12 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-34526c2b052fe1511ffd28f1d41f257a]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1998 and, subject to paragraph (2), shall come into operation on 23rd February 1998.
+
+(2) In relation to any particular claimant for either family credit or disability working allowance, regulations 4 and 7 shall have effect, where a claimant has an award of either of those benefits—
+
+- (a) which expires on 23rd February 1998, on 24th February 1998; or
+- (b) which expires after 23rd February 1998, on the day following the expiration of that award.
+
+(3) For the purposes of paragraph (2) “claimant” means a person claiming the benefit concerned.
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-6e2aff8140ef0e3bbbce2bd744e93506]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) to (9).
+
+(2) In regulation 13[^f00007] (circumstances in which persons in relevant education are to be entitled to income support)—
+
+- (a) in paragraph (2) for sub-paragraph (*dd*) there shall be substituted the following sub-paragraph—
+
+  > - (dd) has ceased to live in accommodation provided for him by an authority under Part IV of the Children Order (support for children and their families) and is of necessity living away from his parents and any person acting in the place of his parents;
+
+  ;
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (*a*) for head (i) there shall be substituted the following head—
+
+    > - (i) for the purposes of paragraph (2)(*c*) and (*d*), a reference to an authority or voluntary organisation where the eligible person is being looked after by them under a relevant enactment, or to a person with whom the eligible person is placed by that authority or that voluntary organisation whether or not any payment is made by them, and
+
+    ;
+  - (ii) in sub-paragraph (*a*)(ii) for “boarded out” there shall be substituted “placed”;
+  - (iii) after sub-paragraph (*b*) there shall be added the following sub-paragraph—
+
+    > - (c) “an authority” has the same meaning as in Article 2 of the Children Order.
+
+    .
+
+(3) In regulation 16 (circumstances in which a person is to be treated as being or not being a member of the household)—
+
+- (a) in paragraph (4) for sub-paragraphs (*a*) to (*c*) there shall be substituted the following sub-paragraphs—
+
+  > - (a) placed with the claimant or his partner by an authority under Article 27(2)(*a*) of the Children Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations);
+  > - (b) placed with the claimant or his partner prior to adoption; or
+  > - (c) placed for adoption with the claimant or his partner pursuant to a decision under the Adoption Agencies Regulations (Northern Ireland) 1989[^f00008].
+
+  ;
+- (b) in paragraph (5) for sub-paragraphs (*c*) to (*e*)[^f00009] there shall be substituted the following sub-paragraphs—
+
+  > - (c) is being looked after by an authority under a relevant enactment;
+  > - (d) has been placed with a person other than the claimant prior to adoption;
+  > - (e) has been placed for adoption pursuant to a decision under the Adoption Agencies Regulations (Northern Ireland) 1989;
+
+  ;
+- (c) in paragraph (8)[^f00010]—
+  - (i) after “this regulation” there shall be inserted—
+
+    > - —
+    > - “an authority” has the same meaning as in Article 2 of the Children Order;
+
+    ;
+  - (ii) in the definition of “relevant enactment” after “the Domestic Proceedings (Northern Ireland) Order 1980” there shall be inserted “, the Adoption (Northern Ireland) Order 1987[^f00011]”.
+
+(4) In regulation 41(3)[^f00012] (capital treated as income) for the words from “a Health and Social Services Board” to the end there shall be substituted “an authority, as defined in Article 2 of the Children Order, under Article 18, 35 or 36 of that Order (general duty of an authority to promote the welfare of children and powers to grant financial assistance to persons looked after or in, or formerly in, its care) shall be treated as income.”.
+
+(5) In Schedule 1B[^f00013] (prescribed categories of person) in paragraph 2 for “boarded out by a Health and Social Services Board or an HSS trust” there shall be substituted “placed by an authority, as defined in Article 2 of the Children Order,” and for “the Children and Young Persons Act (Northern Ireland) 1968” there shall be substituted “the Children Order”.
+
+(6) In Schedule 2 (applicable amounts) in paragraph 1A[^f00014]—
+
+- (a) in sub-paragraph (1)(*b*)(ii) for “in the care of the Department under a relevant enactment and whilst in that care was not living with his parents or any close relative” there shall be substituted “being looked after by an authority pursuant to a relevant enactment which placed him with such person other than a close relative of his”;
+- (b) in sub-paragraph (2)—
+  - (i) for head (*b*) there shall be substituted the following head—
+
+    > - (b) any reference to a person acting in place of a person’s parents includes a reference to—
+    >   - (i) where the person is being looked after by an authority or voluntary organisation which places him with a family, a relative of his, or some other suitable person, the person with whom the person is placed, whether or not any payment is made to him in connection with the placement, or
+    >   - (ii) in any other case, any person with parental responsibility for the child, and for this purpose “parental responsibility” has the meaning it has in the Children Order by virtue of Article 6 of that Order;
+
+    ;
+  - (ii) after head (*b*) there shall be added the following head—
+
+    > - (c) “an authority” has the same meaning as in Article 2 of the Children Order.
+
+    .
+
+(7) In Schedule 4 (applicable amounts of persons in homes for persons in need and nursing homes) in paragraph 11(2)(*d*)[^f00015] for the words from “a Health and Social Services Board” to the end there shall be substituted “an authority, as defined in Article 2 of the Children Order, under Article 21 of that Order (provision of accommodation for children: general); and”.
+
+(8) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 25(1)[^f00016] for heads (*a*) and (*b*) there shall be substituted the following heads—
+
+  > - (a) in accordance with regulations made under Article 59A of the Adoption (Northern Ireland) Order 1987[^f00017] (permitted allowances);
+  > - (b) in accordance with regulations made under section 57A of the Adoption Act 1976[^f00018] (permitted allowances) or with a scheme approved by the Secretary of State under section 51 of the Adoption (Scotland) Act 1978[^f00019] (schemes for payment of allowances to adopters);
+
+  ;
+- (b) for paragraph 26[^f00020] there shall be substituted the following paragraph—
+
+  > **26.** Any payment made by—
+  >
+  > - (a) an authority to a person who is caring for a child by virtue of arrangements made under Article 27(2)(*a*) of the Children Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations); or
+  > - (b) a training school, within the meaning of section 137 of the Children and Young Persons Act (Northern Ireland) 1968[^f00021] (approval of schools), under paragraph 14(2) of Schedule 5 to that Act to a person who is caring for a child and with whom that child lives or is boarded out under paragraph 6, 7 or 8 of Schedule 5 to that Act[^f00022].
+
+  ;
+- (c) in paragraph 27[^f00023] for “a Health and Social Services Board or an HSS trust” there shall be substituted “an authority”;
+- (d)[^key-920431e9ec4859361d135e81f13f78ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) after paragraph 28 there shall be inserted the following paragraph—
+
+  > **28A.** In paragraphs 26 to 28 “an authority” has the same meaning as in Article 2 of the Children Order.
+
+  .
+
+(9)[^key-d2564ced528ad5c7a6cbe7742c2296cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Housing Benefit (General) Regulations[^key-fe9e3707be0d40e6a61b1c956f81a01b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Family Credit (General) Regulations[^key-69e822788b8115e5ef4e7a38448907d1]
+
+(1) The Family Credit (General) Regulations (Northern Ireland) 1987[^f00036] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 2(1) (interpretation) after the definition of “council tax benefit” there shall be inserted the following definition—
+
+> - “Crown property” means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under management of the Crown Estate Commissioners;
+> - “Crown Estate Commissioners” have the same meaning as in the Interpretation Act 1978;
+
+.
+
+(3) In regulation 8 (membership of the same household)—
+
+- (a) in paragraph (2) for sub-paragraphs (*b*) to (*d*) there shall be substituted the following sub-paragraphs—
+
+  > - (b) has been placed with the claimant or his partner prior to adoption;
+  > - (c) has been placed with the claimant or his partner by an authority, as defined in Article 2 of the Children Order, under Article 27(2)(*a*) of that Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations);
+  > - (d) has been placed for adoption with the claimant or his partner pursuant to a decision under the Adoption Agencies Regulations (Northern Ireland) 1989;
+
+  ;
+- (b) in paragraph (3) sub-paragraph (*b*) shall be omitted.
+
+(4) In regulation 13A(2)[^f00037] (treatment of child care charges) in the definition of “relevant child care charges” for paragraphs (*a*) and (*b*) there shall be substituted the following paragraphs—
+
+> - (a) by persons registered under Article 118 of the Children Order (registration of child-minders and persons providing day care);
+> - (b) by a child care scheme operating on Crown property where registration under Article 118 of the Children Order is not required, or
+> - (c) in schools or establishments which are exempted from registration under Article 118 of the Children Order by virtue of Article 121(1) to (3) of that Order,
+
+.
+
+(5) In Schedule 2 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 22(1)[^f00038] for heads (*a*) and (*b*) there shall be substituted the following heads—
+
+  > - (a) in accordance with regulations made under Article 59A of the Adoption (Northern Ireland) Order 1987 (permitted allowances);
+  > - (b) in accordance with regulations made under section 57A of the Adoption Act 1976 (permitted allowances) or with a scheme approved by the Secretary of State under section 51 of the Adoption (Scotland) Act 1978 (schemes for payment of allowances to adopters);
+
+  ;
+- (b) for paragraph 23[^f00039] there shall be substituted the following paragraph—
+
+  > **23.** Any payment made by—
+  >
+  > - (a) an authority to a person who is caring for a child by virtue of arrangements made under Article 27(2)(*a*) of the Children Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations); or
+  > - (b) a training school, within the meaning of section 137 of the Children and Young Persons Act (Northern Ireland) 1968 (approval of schools), under paragraph 14(2) of Schedule 5 to that Act to a person who is caring for a child and with whom that child lives or is boarded-out under paragraph 6, 7 or 8 of Schedule 5 to that Act.
+
+  ;
+- (c) in paragraph 24[^f00040] for “a Health and Social Services Board, HSS trust” there shall be substituted “an authority”;
+- (d) for paragraph 25[^f00041] there shall be substituted the following paragraph—
+
+  > **25.** Any payment made by an authority under Article 18, 35 or 36 of the Children Order (general duty of an authority to promote the welfare of children and powers to grant financial assistance to persons looked after or in, or formerly in, its care).
+
+  ;
+- (e) after paragraph 25 there shall be inserted the following paragraph—
+
+  > **25A.** In paragraphs 23 to 25 “an authority” has the same meaning as in Article 2 of the Children Order.
+
+  .
+
+(6) In Schedule 3 (capital to be disregarded) for paragraph 18[^f00042] there shall be substituted the following paragraph—
+
+> **18.** Any payment made by an authority, as defined in Article 2 of the Children Order, under Article 18, 35 or 36 of that Order (general duty of an authority to promote the welfare of children and powers to grant financial assistance to persons looked after or in, or formerly in, its care).
+
+.
+
+## 5. Amendment of the Income Support (Liable Relatives) Regulations[^key-3326c3722f9b81ee4ff57d5ce3cd3cc7]
+
+In regulation 3 of the Income Support (Liable Relatives) Regulations (Northern Ireland) 1990[^f00043] (prescribed statutory provisions for the purposes of Article 25A(11) of the Order)—
+
+- (a) after paragraph (*g*) there shall be inserted the following paragraph—
+
+  > - (gg) the Supplementary Benefits (Northern Ireland) Order 1977[^f00044];
+
+  ;
+- (b) after paragraph (*j*) there shall be inserted the following paragraphs—
+
+  > - (ja) Part I of the Civil Jurisdiction and Judgments Act 1982[^f00045] registered in a magistrates' court in Northern Ireland under that Act;
+  > - (jb) the Social Security (Northern Ireland) Order 1986[^f00046];
+
+  ;
+- (c) after paragraph (*k*) there shall be added the following paragraph—
+
+  > - (kk) Article 41 of, and Schedule 1 to, the Children (Northern Ireland) Order 1995[^f00047].
+
+  .
+
+## 6. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-b7a30e5f4a3e0192b05e64c921abfc8e]
+
+(1) The Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00048] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation) the definition of “the 1968 Act” shall be omitted.
+
+(3)[^key-9a8c51f5ec27dd111ed0712dd798fa8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Disability Working Allowance (General) Regulations[^key-6da1c159286604025acc80e9319ef4c4]
+
+(1) The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00049] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 2 (interpretation) after the definition of “council tax benefit” there shall be inserted the following definitions—
+
+> - “Crown property” means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under the management of the Crown Estate Commissioners;
+> - “Crown Estate Commissioners” have the same meaning as in the Interpretation Act 1978;
+
+.
+
+(3) In regulation 10 (membership of the same household)—
+
+- (a) in paragraph (2) for sub-paragraphs (*b*) and (*c*) there shall be substituted the following sub-paragraphs—
+
+  > - (b) is placed with the claimant or his partner prior to adoption;
+  > - (c) is placed with the claimant or his partner by an authority, as defined in Article 2 of the Children Order, under Article 27(2)(*a*) of that Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations);
+
+  ;
+- (b) in paragraph (3) sub-paragraph (*b*) shall be omitted.
+
+(4) In regulation 15A(2)[^f00050] (treatment of child care charges) in the definition of “relevant child care charges” for paragraphs (*a*) and (*b*) there shall be substituted the following paragraphs—
+
+> - (a) by persons registered under Article 118 of the Children Order (registration of child-minders and persons providing day care);
+> - (b) by a child care scheme operating on Crown property where registration under Article 118 of the Children Order is not required, or
+> - (c) in schools or establishments which are exempted from registration under Article 118 of the Children Order by virtue of Article 121(1) to (3) of that Order,
+
+.
+
+(5) In Schedule 3 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 22(1) for heads (*a*) and (*b*) there shall be substituted the following heads—
+
+  > - (a) in accordance with regulations made under Article 59A of the Adoption (Northern Ireland) Order 1987 (permitted allowances);
+  > - (b) in accordance with regulations made under section 57A of the Adoption Act 1976 (permitted allowances) or with a scheme approved by the Secretary of State under section 51 of the Adoption (Scotland) Act 1978 (schemes for payment of allowances to adoptors);
+
+  ;
+- (b) for paragraph 23[^f00051] there shall be substituted the following paragraph—
+
+  > **23.** Any payment made by—
+  >
+  > - (a) an authority to a person who is caring for a child by virtue of arrangements made under Article 27(2)(*a*) of the Children Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations); or
+  > - (b) a training school, within the meaning of section 137 of the Children and Young Persons Act (Northern Ireland) 1968 (approval of schools), under paragraph 14(2) of Schedule 5 to that Act to a person who is caring for a child and with whom that child lives or is boarded-out under paragraph 6, 7 or 8 of Schedule 5 to that Act.
+
+  ;
+- (c) in paragraph 24[^f00052] for “a Health and Social Services Board, HSS trust” there shall be substituted “an authority”;
+- (d) for paragraph 25[^f00053] there shall be substituted the following paragraph—
+
+  > **25.** Any payment made by an authority under Article 18, 35 or 36 of the Children Order (general duty of an authority to promote the welfare of children and powers to grant financial assistance to persons looked after or in, or formerly in, its care).
+
+  ;
+- (e) after paragraph 25 there shall be inserted the following paragraph—
+
+  > **25A.** In paragraphs 23 to 25 “an authority” has the same meaning as in Article 2 of the Children Order.
+
+  .
+
+(6) In Schedule 4 (capital to be disregarded) for paragraph 18[^f00054] there shall be substituted the following paragraph—
+
+> **18.** Any payment made by an authority, as defined in Article 2 of the Children Order, under Article 18, 35 or 36 of that Order (general duty of an authority to promote the welfare of children and powers to grant financial assistance to persons looked after or in, or formerly in, its care).
+
+.
+
+## 8. Amendment of the Jobseeker’s Allowance Regulations[^key-28800c212321c1f284c327a2bf86c0ec]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00055] shall be amended in accordance with paragraphs (2) to (8).
+
+(2) In regulation 57 (interpretation) for paragraph (3) there shall be substituted the following paragraph—
+
+> (3) In this regulation any reference to a person acting in place of a person’s parents includes a reference to—
+>
+> - (a) where the person is being looked after by an authority, as defined in Article 2 of the Children Order, or voluntary organisation which places him with a family, a relative of his, or some other suitable person, the person with whom the person is placed, whether or not any payment is made to him in connection with the placement, or
+> - (b) in any other case, any person with parental responsibility for the child, and for this purpose “parental responsibility” has the meaning it has in the Children Order by virtue of Article 6 of that Order.
+
+.
+
+(3) In regulation 60(1)(*a*)[^f00056] (young persons at the end of the child benefit extension period) for the words from “a Health and Social Services Board” to “the Department)” there shall be substituted “an authority, as defined in Article 2 of the Children Order, under Part IV of that Order (support for children and their families)”.
+
+(4) In regulation 78 (circumstances in which a person is to be treated as being or not being a member of the household)—
+
+- (a) in paragraph (4) for sub-paragraphs (*a*) and (*b*) there shall be substituted the following sub-paragraphs—
+
+  > - (a) placed with the claimant or his partner by an authority under Article 27(2)(*a*) of the Children Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations);
+  > - (b) placed with the claimant or his partner prior to adoption, or
+
+  ;
+- (b) in paragraph (5) for sub-paragraphs (*d*) and (*e*) there shall be substituted the following sub-paragraphs—
+
+  > - (d) is being looked after by an authority under a relevant enactment;
+  > - (e) has been placed with a person other than the claimant prior to adoption;
+
+  ;
+- (c) in paragraph (9) after “this regulation” there shall be inserted—
+
+  > - —
+  > - “an authority” has the same meaning as in Article 2 of the Children Order;
+
+  .
+
+(5) In regulation 104(3)[^f00057] (capital treated as income) for the words from “a Health and Social Services Board” to the end there shall be substituted “an authority, as defined in Article 2 of the Children Order, under Article 18, 35 or 36 of that Order (general duty of an authority to promote the welfare of children and powers to grant financial assistance to persons looked after or in, or formerly in, its care) shall be treated as income.”.
+
+(6) In Schedule 3 (applicable amounts of persons in residential care and nursing homes) in paragraph 9(2)(*d*)[^f00058] (circumstances in which the maximum is not to apply) for paragraph (ii) there shall be substituted the following paragraph—
+
+> - (ii) by an authority, as defined in Article 2 of the Children Order, under Article 21 of that Order (provision of accommodation for children: general), and
+
+.
+
+(7) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 26(1) for heads (*a*) and (*b*) there shall be substituted the following heads—
+
+  > - (a) in accordance with regulations made under Article 59A of the Adoption (Northern Ireland) Order 1987 (permitted allowances);
+  > - (b) in accordance with regulations made under section 57A of the Adoption Act 1976 (permitted allowances) or with a scheme approved by the Secretary of State under section 51 of the Adoption (Scotland) Act 1978 (schemes for payment of allowances to adoptors);
+
+  ;
+- (b) for paragraph 27[^f00059] there shall be substituted the following paragraph—
+
+  > **27.** Any payment made by—
+  >
+  > - (a) an authority to a person who is caring for a child by virtue of arrangements made under Article 27(2)(*a*) of the Children Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(*a*) of that Order (provision of accommodation by voluntary organisations), or
+  > - (b) a training school, within the meaning of section 137 of the Children and Young Persons Act (Northern Ireland) 1968[^f00060] (approval of schools), under paragraph 14(2) of Schedule 5 to that Act to a person who is caring for a child and with whom that child lives or is boarded out under paragraph 6, 7 or 8 of Schedule 5 to that Act[^f00061].
+
+  ;
+- (c) in paragraph 28 for “a Health and Social Services Board or an HSS trust” there shall be substituted “an authority”;
+- (d)[^key-38c08cb2a77c8d9ceb41d509da6a84c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) after paragraph 29 there shall be inserted the following paragraph—
+
+  > **29A.** In paragraphs 27 to 29 “an authority” has the same meaning as in Article 2 of the Children Order.
+
+  .
+
+(8)[^key-3685fe33e05935be7cf5db0cf1f56908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Social Security Benefit (Computation of Earnings) Regulations[^key-32b8d7cc1b48fa76bcaf666678a6e107]
+
+(1) The Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1996[^f00064] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation) after the definition of “couple” there shall be inserted the following definitions—
+
+> - “Crown property” means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under the management of the Crown Estate Commissioners;
+> - “Crown Estate Commissioners” have the same meaning as in the Interpretation Act 1978;
+
+.
+
+(3) In Schedule 1 (sums to be disregarded in the calculation of earnings) for paragraph 6 there shall be substituted the following paragraph—
+
+> **6.** Any payment made by—
+>
+> - (a) an authority, as defined in Article 2 of the Children (Northern Ireland) Order 1995, to a person who is caring for a child by virtue of arrangements made under Article 27(2)(*a*) of that Order or by a voluntary organisation under Article 75(1)(*a*) of that Order; or
+> - (b) a training school, within the meaning of section 137 of the Children and Young Persons Act (Northern Ireland) 1968, under paragraph 14(2) of Schedule 5 to that Act to a person who is caring for a child and with whom that child lives or is boarded out under paragraph 6, 7 or 8 of Schedule 5 to that Act.
+
+.
+
+(4) In Schedule 2 (child care charges to be deducted in the calculation of earnings) in paragraph 2 in the definition of “relevant child care charges”—
+
+- (a) in paragraph (*a*) at the end “or” shall be omitted;
+- (b) after paragraph (*a*) there shall be inserted the following paragraph—
+
+  > - (aa) by a child care scheme operating on Crown property where registration under Article 118 of the Children (Northern Ireland) Order 1995 is not required; or
+
+  .
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+9th January 1998.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 3 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. Ritchie
+
+Assistant Secretary
+
+9th January 1998.
+
+(This note is not part of the Regulations.)
+
+These Regulations contain amendments to a number of Social Security Regulations.
+
+Regulations 2, 5, 6 and 8 make consequential amendments to the Income Support (General) Regulations (Northern Ireland) 1987, the Income Support (Liable Relatives) Regulations (Northern Ireland) 1990, the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 following the coming into operation on 4th November 1996 of certain provisions of the Children (Northern Ireland) Order 1995.
+
+Regulations 3, 4, 7 and 9 amend the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Family Credit (General) Regulations (Northern Ireland) 1987, the Disability Working Allowance (General) Regulations (Northern Ireland) 1992 and the Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1996—
+
+- (a) consequential upon the coming into operation on 4th November 1996 of certain provisions of the Children (Northern Ireland) Order 1995; and
+- (b) to extend the definition of “relevant child care charges” to include charges made by child care schemes operating on Crown property.
+
+Other amendments made are of a minor or technical nature.
+
+In so far as these Regulations are required, for the purposes of regulation 3 to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), and after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-34526c2b052fe1511ffd28f1d41f257a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/2/regulation/1) in operation at 23.2.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/1)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-6e2aff8140ef0e3bbbce2bd744e93506]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/2/regulation/2) in operation at 23.2.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 Nos. 249](https://www.legislation.gov.uk/nisr/1989/249) and [366](https://www.legislation.gov.uk/nisr/1989/366), [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65) and [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00007]: Footnote: Sub-paragraph (*dd*) was inserted by regulation 3 of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
+
+[^f00008]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253)
+
+[^f00009]: Footnote: Sub-paragraph (*e*) was amended by regulation 3(3)(*a*)(i) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387)
+
+[^f00010]: Footnote: Paragraph (8) was amended by regulation 8(*c*) of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00011]: Footnote: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
+
+[^f00012]: Footnote: Paragraph (3) was amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249) and [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00013]: Footnote: Schedule 1B was inserted by [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph 2 was amended by regulation 3 of [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00014]: Footnote: Paragraph 1A was inserted by paragraph 4 of Schedule 2 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00015]: Footnote: Paragraph 11(2)(*d*) was amended by paragraph 1(*k*) of Schedule 12 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00016]: Footnote: Paragraph 25(1) was substituted by regulation 4 of [S.R. 1989 No. 366](https://www.legislation.gov.uk/nisr/1989/366)
+
+[^f00017]: Footnote: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); Article 59A was inserted by paragraph 164 of Schedule 9 to the Children (Northern Ireland) Order 1995 ([S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755))
+
+[^f00018]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36); section 57A was inserted by paragraph 25 of Schedule 10 to the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)
+
+[^f00019]: Footnote: [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28)
+
+[^f00020]: Footnote: Paragraph 26 was amended by paragraph 1(*l*) of Schedule 12 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00021]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34); section 137 was amended by Schedule 18 to the Health and Personal Social Services (Northern Ireland) Order 1972 ([S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)) and Schedule 9 to the Children (Northern Ireland) Order 1995
+
+[^f00022]: Footnote: Paragraph 8 of Schedule 5 was amended by Article 6(2) of the Treatment of Offenders (Northern Ireland) Order 1989 ([S.I. 1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344))
+
+[^f00023]: Footnote: Paragraph 27 was amended by paragraph 1(*l*) of Schedule 12 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^key-920431e9ec4859361d135e81f13f78ad]: Textual amendment: [Reg. 2(8)(d)](https://www.legislation.gov.uk/nisr/1998/2/regulation/2/8/d) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
+
+[^key-d2564ced528ad5c7a6cbe7742c2296cb]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/1998/2/regulation/2/9) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
+
+[^key-fe9e3707be0d40e6a61b1c956f81a01b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/2/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-69e822788b8115e5ef4e7a38448907d1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/2/regulation/4) in operation at 23.2.1998 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/2)
+
+[^f00036]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending regulations are [S.R. 1989 Nos. 249](https://www.legislation.gov.uk/nisr/1989/249) and [366](https://www.legislation.gov.uk/nisr/1989/366), [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65) and [274](https://www.legislation.gov.uk/nisr/1994/274), [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476)
+
+[^f00037]: Footnote: Regulation 13A was inserted by regulation 3(4) of [S.R. 1994 No. 274](https://www.legislation.gov.uk/nisr/1994/274) and paragraph (2) was amended by regulation 4(4)(*a)*of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and regulation 4 of [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476)
+
+[^f00038]: Footnote: Paragraph 22(1) was substituted by regulation 2 of [S.R. 1989 No. 366](https://www.legislation.gov.uk/nisr/1989/366)
+
+[^f00039]: Footnote: Paragraph 23 was amended by paragraph 1(*b*) of Schedule 14 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00040]: Footnote: Paragraph 24 was amended by paragraph 1(*b*) of Schedule 14 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00041]: Footnote: Paragraph 25 was amended by regulation 3 of [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249) and paragraph 1(*c*) of Schedule 14 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00042]: Footnote: Paragraph 18 was amended by regulation 3 of [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249) and paragraph 1(*c*) of Schedule 14 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^key-3326c3722f9b81ee4ff57d5ce3cd3cc7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/2/regulation/5) in operation at 23.2.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/1)
+
+[^f00043]: Footnote: [S.R. 1990 No. 375](https://www.legislation.gov.uk/nisr/1990/375)
+
+[^f00044]: Footnote: [S.I. 1977/2156 (N.I. 27)](https://www.legislation.gov.uk/nisi/1977/2156)
+
+[^f00045]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27)
+
+[^f00046]: Footnote: [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888)
+
+[^f00047]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^key-b7a30e5f4a3e0192b05e64c921abfc8e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/2/regulation/6) in operation at 23.2.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/1)
+
+[^f00048]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending regulations are [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263)
+
+[^key-9a8c51f5ec27dd111ed0712dd798fa8e]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/nisr/1998/2/regulation/6/3) revoked (6.10.2003) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/397)](https://www.legislation.gov.uk/nisr/2003/397), [reg. 1](https://www.legislation.gov.uk/nisr/2003/397/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/397/schedule)
+
+[^key-6da1c159286604025acc80e9319ef4c4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/2/regulation/7) in operation at 23.2.1998 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/2)
+
+[^f00049]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending regulations are [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65) and [274](https://www.legislation.gov.uk/nisr/1994/274), [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476)
+
+[^f00050]: Footnote: Regulation 15A was inserted by regulation 4(3) of [S.R. 1994 No. 274](https://www.legislation.gov.uk/nisr/1994/274) and paragraph (2) was amended by regulation 5(5) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and regulation 4 of [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476)
+
+[^f00051]: Footnote: Paragraph 23 was amended by paragraph 1(*b*) of Schedule 18 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00052]: Footnote: Paragraph 24 was amended by paragraph 1(*b*) of Schedule 18 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00053]: Footnote: Paragraph 25 was amended by paragraph 1(*c*) of Schedule 18 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^f00054]: Footnote: Paragraph 18 was amended by paragraph 1(*d*) of Schedule 18 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
+
+[^key-28800c212321c1f284c327a2bf86c0ec]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/2/regulation/8) in operation at 23.2.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/1)
+
+[^f00055]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending regulations are [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00056]: Footnote: Sub-paragraph (*a*) was amended by regulation 2(2) of [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00057]: Footnote: Paragraph (3) was amended by regulation 2(3) of [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00058]: Footnote: Paragraph 9(2)(*d*)(ii) was amended by regulation 2(4) of [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00059]: Footnote: Paragraph 27 was amended by regulation 2(5) of [S.R. 1996 No. 440](https://www.legislation.gov.uk/nisr/1996/440)
+
+[^f00060]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34); section 137 was amended by Schedule 18 to the Health and Personal Social Services (Northern Ireland) Order 1972 ([S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)) and Schedule 9 to the Children (Northern Ireland) Order 1995 ([S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755))
+
+[^f00061]: Footnote: Paragraph 8 of Schedule 5 was amended by Article 6(2) of the Treatment of Offenders (Northern Ireland) Order 1989 ([S.I. 1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344))
+
+[^key-38c08cb2a77c8d9ceb41d509da6a84c5]: Textual amendment: [Reg. 8(7)(d)](https://www.legislation.gov.uk/nisr/1998/2/regulation/8/7/d) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
+
+[^key-3685fe33e05935be7cf5db0cf1f56908]: Textual amendment: [Reg. 8(8)](https://www.legislation.gov.uk/nisr/1998/2/regulation/8/8) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
+
+[^key-32b8d7cc1b48fa76bcaf666678a6e107]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/2/regulation/9) in operation at 23.2.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/2/regulation/1/1)
+
+[^f00064]: Footnote: [S.R. 1996 No. 520](https://www.legislation.gov.uk/nisr/1996/520)

@@ -1,0 +1,565 @@
+---
+title: African Swine Fever Order (Northern Ireland) 2003
+id: nisr/2003/494
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-11-28'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/494
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/494/pdfs/nisr_20030494_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/494/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# African Swine Fever Order (Northern Ireland) 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 494
+
+ANIMALS
+
+African Swine Fever Order (Northern Ireland) 2003
+
+Made
+
+28th November 2003
+
+Coming into operation
+
+5th December 2003
+
+The Department of Agriculture and Rural Development, in exercise of the powers conferred on it by Articles 5(1), 10(6), 12, 14, 18(7), 19, 20, 29, 44, 46(7A) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement[^key-c468eb0e2768642943fda2cfd70e5a7c]
+
+This Order may be cited as the African Swine Fever Order (Northern Ireland) 2003 and shall come into operation on 5th December 2003.
+
+## 2. Interpretation[^key-f19fb86316c4f02ecfc867bd7d5c7126]
+
+(1) In this Order –
+
+- “carcase” means a pig carcase and includes part of a carcase;
+- “the disease” means African swine fever;
+- “Divisional Veterinary Officer” means a Divisional Veterinary Officer of the Department appointed for the time being by the Department to receive information about infected or suspected animals or carcases for the area in which such animals or carcases are located;
+- “farmed game handling facility” means any building, premises, or place, other than a slaughterhouse, used for the purpose of slaughtering farmed game, the flesh of which is intended for sale for human consumption;
+- “feral pig” means a pig which is not kept or bred on a holding and is not in a slaughterhouse, knacker’s yard or means of transport;
+- “holding” means any place where any pig is bred or kept on a permanent or temporary basis or has been kept at anytime during the previous 56 days but does not include a slaughterhouse, knacker’s yard or means of transport or fenced area where feral pigs are kept and may be hunted;
+- “infected” means infected with disease;
+- “knacker’s yard” means any premises used in connection with the business of slaughtering, flaying or cutting up animals whose flesh is not intended for human consumption;
+- “meat” means the meat of a pig which is suitable for human consumption;
+- “pig” means an animal of the *suidae* family;
+- “pig product” means any product derived from the meat of a pig for human consumption;
+- “protection zone” means a protection zone established by the Department in accordance with Article 11;
+- “slaughterhouse” means any building, premises or place (other than a farmed game handling facility) for slaughtering animals the flesh of which is intended for sale for human consumption, and includes any place available in connection therewith for the confinement of animals while awaiting slaughter there;
+- “surveillance zone” means a surveillance zone established by the Department in accordance with Article 11;
+- “suspected” means suspected of being infected;
+- “temporary control zone” means a temporary control zone established by the Department in accordance with Article 10;
+- “vector” means a tick of the species *Ornithodorus erraticus*, or any other tick of the genus *Ornithodorus* which, in the opinion of the Chief Veterinary Officer, is capable of transmitting disease; and
+- “the virus” means the African swine fever virus.
+
+(2) For the purposes of this Order –
+
+- (a) a pig or carcase is suspected of being infected with the disease if it has clinical signs or post-mortem lesions consistent with the effects of the virus or if the results of a diagnostic test indicate the possible presence of the virus in that animal or carcase;
+- (b) a pig or carcase is infected with the disease if the Department determines that it is infected on the basis of clinical signs, post-mortem lesions or the result of a diagnostic test and any epidemiological circumstances.
+
+## 3. Exemptions[^key-25bcd8cd44355ce3f258416bfd51b3a7]
+
+This Order shall not apply in respect of the presence of the virus in circumstances which are authorised by a licence issued under the Specified Animal Pathogens Order (Northern Ireland) 1999[^f00002].
+
+## 4. Notification of the disease[^key-0427e8c41a507fbfdfa46d606e9c1172]
+
+(1) A person who suspects the disease in any pig or carcase which is –
+
+- (a) in his possession;
+- (b) under his charge; or
+- (c) being examined or inspected by him,
+
+shall immediately notify the appropriate Divisional Veterinary Officer.
+
+(2) A person tending an affected or suspected pig shall not tend any other pig in his possession or under his charge except in accordance with the instructions of an inspector.
+
+(3) A person who analyses samples taken from any animal or carcase and who finds evidence of antibodies or antigens to the disease or to any vaccine for the disease shall immediately notify the appropriate Divisional Veterinary Officer.
+
+(4) A person shall not move from any holding or other place –
+
+- (a) any suspected pig or carcase;
+- (b) any meat, pig product, semen, ovum or embryo of pigs, any animal feedingstuff, manure or slurry or any other utensils, material, waste or other thing found on the same holding or place,
+
+until that holding or other place has been visited by a veterinary inspector and the veterinary inspector has either imposed restrictions under this Order or notified the occupier of the holding or place that he does not consider it necessary to do so.
+
+## 5. Measures while the suspicion of the disease is being investigated[^key-cff1b4e6eae43bf2b25224e880ffb4a7]
+
+(1) Where a veterinary inspector suspects that the disease may exist or may within the previous 56 days have existed on any holding or other place or in any means of transport (whether or not notification has been given under Article 4), he shall –
+
+- (a) serve a notice on the occupier of a holding or other place or the person in charge of that means of transport imposing such restrictions and requirements set out in paragraphs (2) and (3) as are relevant; and
+- (b) carry out an investigation to confirm or rule out the presence of the disease.
+
+(2) The restrictions and requirements referred to paragraph (1) are as follows –
+
+- (a) the person on whom the notice is served (“the responsible person”) shall co-operate with any veterinary inspector in the preparation of a record by category of –
+  - (i) the number of pigs;
+  - (ii) the number of live pigs which appear to be free of disease;
+  - (iii) the number of live pigs which appear to have the disease;
+  - (iv) the number of pigs which have died in the 56 days prior to the date of the notice;
+
+  on the holding or other place or in the means of transport, as the case may be.
+- (b) where the notice relates to a holding or other place, the occupier shall ensure that the record is kept up to date to take account of pigs that are born or die on the holding or other place during the period that restrictions under this Article are in force. The record shall also record the number of pigs which fall sick having been previously apparently free of disease.
+- (c) the responsible person shall produce the record to a veterinary inspector on request.
+- (d) where the notice relates to a holding or other place –
+  - (i) the occupier shall ensure that all pigs on the holding or place are kept in their living quarters or some other place specified in the notice;
+  - (ii) a person shall not move any pigs onto or off the holding or place except in accordance with a licence issued by an inspector and the occupier shall ensure that pigs are unable to stray from or on to the holding or place;
+  - (iii) a person shall not move any meat, carcase or pig product or the semen, ovum or embryo of pigs, or any animal feed, utensil, material or waste or other thing likely to transmit disease from the holding or place, except in accordance with a licence issued by an inspector;
+  - (iv) a person shall not come on to or leave the holding or place except in accordance with a licence issued by an inspector;
+  - (v) a person shall not move any vehicle onto or off the holding or place except in accordance with a licence issued by an inspector;
+  - (vi) the occupier shall ensure that, in accordance with any instructions given by a veterinary inspector, appropriate means of disinfection are placed at the entrances and exits of those parts of the holding or place in which pigs are being kept and of the holding or place itself.
+
+(3) Where a veterinary inspector or an inspector acting under the direction of a veterinary inspector has grounds for suspecting the presence of vectors on a particular holding or other place in consequence of their location, geographical situation or contacts with another holding or other place where the disease is known or suspected to exist (in Northern Ireland or elsewhere), he may serve a notice of the grounds on the occupier of the particular holding or other place, and thereupon a veterinary inspector or an inspector acting in accordance with a veterinary inspector’s direction may enter the particular holding or other place.
+
+## 6. Further measures where a notice has been served under Article 5[^key-ef2f451c6b615dcbb501d909e5cd09b5]
+
+Where a notice has been served on a responsible person under Article 5, a veterinary inspector may, by further notice served on that person –
+
+- (a) require the cleansing and disinfection of the holding, place or means of transport to which the notice relates at his own expense or at the expense of the Department in such a manner as may be specified in the notice, and within such time as may be so specified; or
+- (b) in the case of a means of transport, require it to be –
+  - (i) taken to a destination specified in the notice;
+  - (ii) unloaded, cleansed and disinfected and, if necessary, subjected to an acaricide as specified in the notice; and
+  - (iii) if so specified, unloaded, cleansed and disinfected and subjected to the acaricide applied under the supervision of a veterinary inspector.
+- (c) where the notice relates to a holding or other place –
+  - (i) prohibit the movement of any other species of animal on to or off the holding or place;
+  - (ii) require the occupier to take all reasonable measures to destroy rodents and insects on the holding or place.
+
+## 7. Measures where the disease is confirmed on a holding[^key-6066f0f63f8f5e1d81b9d23899e63db6]
+
+(1) Where the Department has confirmed that the disease is present on a holding, a veterinary inspector shall serve a notice on the occupier of that holding requiring him to ensure that the relevant prohibitions and requirements contained in Article 5 are complied with unless a notice under Article 5 has already been served, in which case the restrictions and requirements contained in it will remain in force until they are either varied or removed by a veterinary inspector.
+
+(2) On and after such confirmation a veterinary inspector may serve a further notice on the occupier of the holding in question requiring him to ensure that the relevant prohibitions and requirements contained in Article 6 are complied with.
+
+## 8. Measures where the disease is confirmed in a slaughterhouse, knacker’s yard or on a means of transport[^key-8e52e41ea6d4d057abe94a9201de211f]
+
+Where the Department has confirmed that the disease is present in a slaughterhouse, knacker’s yard or on a means of transport, a veterinary inspector may serve a notice on the occupier of the slaughterhouse, knacker’s yard or person in charge of the means of transport requiring him to ensure that –
+
+- (a) in the case of a slaughterhouse or knacker’s yard, all buildings, equipment and vehicles specified in the notice, are cleansed and disinfected and, if necessary, an acaricide is applied in accordance with the instructions, and under the supervision of, a veterinary inspector;
+- (b) in the case of a means of transport, it is taken to a destination, unloaded, cleansed and disinfected and, if necessary, an acaricide is applied in accordance with the instructions, and under the supervision of, a veterinary inspector;
+- (c) pigs are not reintroduced to the slaughterhouse, knacker’s yard or means of transport until at least 24 hours after completion of the cleansing and disinfection operations, and, where undertaken, the application of an acaricide carried out in accordance with sub-paragraph (a) and (b).
+
+## 9. Measures that apply in respect of holdings from or to which the disease may have been transmitted[^key-fb8e3d3b6423df30f046681e937cf88a]
+
+(1) Where, following an investigation into the epidemiology of the disease on a holding, a veterinary inspector considers that the disease on an infected or suspected holding may, for any reason, have been transmitted from or to other premises, he may serve a notice under Article 5 on the occupier of that other holding.
+
+(2) Where disease has been confirmed in animals or carcases in a slaughterhouse, knacker’s yard or on a means of transport, a veterinary inspector may serve a notice under Article 5 on the occupier of any premises from which the infected animals or carcases in that slaughterhouse, knacker’s yard or that means of transport, have come directly or indirectly within the previous 56 days or, in the case of a means of transport, any premises to which the means of transport has travelled since carrying the infected animals.
+
+## 10. Temporary control zone[^key-76049924ce40d8ebd5cc708050bc0ba0]
+
+(1) Following the service of a notice under Article 5, the Department may, by notice, declare the establishment of a zone to be known as a “temporary control zone”.
+
+(2) The location and size of the temporary control zone in any case shall be such as the Department considers necessary to prevent the spread of disease.
+
+(3) Where a temporary control zone has been established, a person shall not –
+
+- (a) move any pig off a holding, slaughterhouse or knacker’s yard in the zone except in accordance with a licence issued by an inspector acting in accordance with the directions of a veterinary inspector;
+- (b) move any cattle, sheep, goat, or other ruminating animal off any holding, slaughterhouse or knacker’s yard in the zone which has pigs in it except in accordance with a licence issued by an inspector acting in accordance with the directions of a veterinary inspector; or
+- (c) move any pig out of the zone.
+
+(4) The prohibition in paragraph (3)(c) shall not apply to pigs which are loaded onto a vehicle outside the zone and transported through it without the vehicle being loaded or unloaded inside the zone.
+
+(5) Where a controlled area has been established which touches the border of Northern Ireland the Department may, as it considers necessary, establish such an associated temporary control zone in Northern Ireland for the purposes referred to in paragraph (2).
+
+(6) Any holding, slaughterhouse or knacker’s yard which is partly inside and partly outside a temporary control zone shall be deemed to be wholly inside that zone.
+
+(7) In this Article “controlled area” means any area declared as such in the Republic of Ireland for preventing or controlling the spread of the disease.
+
+(8) Nothing in paragraph (6) shall deem any area outside Northern Ireland to be inside a temporary control zone.
+
+## 11. Protection and surveillance zones[^key-2129f417b6bfe144dddfb9c15a434750]
+
+(1) Upon confirmation of the disease on any holding, slaughterhouse, knacker’s yard or other place the Department shall by notice declare the establishment of an infected area comprising –
+
+- (a) a zone to be known as a “protection zone”, and
+- (b) a zone to be known as a “surveillance zone”.
+
+(2) The protection zone in any infected area declared under paragraph (1) shall cover an area within a radius of at least three kilometres measured from the place in which the disease is confirmed and shall be contained in a surveillance zone covering an area with a radius of at least ten kilometres, measured from the same place.
+
+(3) Upon confirmation of the disease on a holding, slaughterhouse or knacker’s yard in the Republic of Ireland, that is within ten kilometres of the border of Northern Ireland, the Department shall, by notice declare the establishment of an infected area comprising any part of Northern Ireland that lies within a radius of ten kilometres, measured from the place in the Republic of Ireland where the disease was confirmed.
+
+(4) The infected area declared under paragraph (3) shall comprise –
+
+- (a) a protection zone covering any area within a radius of three kilometres measured from the place in the Republic of Ireland where the disease is confirmed; and
+- (b) a surveillance zone containing the protection zone and covering any area within a radius of ten kilometres measured from the place in the Republic of Ireland where the presence of the disease is confirmed.
+
+(5) Part I of Schedule 1 shall apply in a protection zone and Part II of Schedule 1 shall apply in a surveillance zone.
+
+(6) The Department may take such steps as it considers necessary to ensure that all persons in an infected area declared under this article are made fully aware of the restrictions in force in relation to that area, including exhibiting notices or signs on property situated within the infected area.
+
+(7) Any holding, slaughterhouse or knacker’s yard which is partly inside and partly outside a surveillance or protection zone shall be deemed to be wholly inside that zone.
+
+(8) Nothing in paragraph (7) shall deem any area outside Northern Ireland to be inside an infected area.
+
+## 12. Cleansing and disinfection[^key-5fb6dad648afe4a444fbc36e3354144e]
+
+(1) Disinfection under this Order shall be carried out with a disinfectant approved for the purpose under the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 1972[^f00003].
+
+(2) Acaricides used under this Order shall be those registered under the Control of Pesticides Regulations (Northern Ireland) 1987[^f00004] or authorised under Regulation ([^key-10e11862b20c94a631fd374cbd6044e6]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products , as last amended by Regulation (EU) No 334/2014[^key-1b72c1d5227d46ab7352d78458b031c5].
+
+## 13. Feral pig investigation zone[^key-57a30b03ebe1f8b4eb0368e812edddc6]
+
+(1) Where the Department has reason to suspect that the disease exists in feral pigs in –
+
+- (a) Northern Ireland; or
+- (b) in any place in the Republic of Ireland within ten kilometres of the border with Northern Ireland,
+
+the Department shall by notice declare the establishment of a feral pig investigation zone within Northern Ireland and the provisions of paragraph (3) shall apply in relation to that zone.
+
+(2) The feral pig investigation zone shall cover such area in Northern Ireland as the Department considers necessary to enable it to carry out an investigation to confirm or rule out the presence of the disease.
+
+(3) Any person who shoots, or finds the carcase of, a feral pig in the feral pig investigation zone, shall immediately inform the Divisional Veterinary Officer and if that person has shot the pig he shall keep the carcase for at least 24 hours and make it available to the appropriate Divisional Veterinary Officer for any sampling or testing which the Divisional Veterinary Officer may consider appropriate.
+
+## 14. Measures where the disease is confirmed in a feral pig[^key-1ba6907d6ed09ed32eea4cbcce1c45d6]
+
+(1) Where the presence of the disease is confirmed in a feral pig in Northern Ireland or in any place in the Republic of Ireland within ten kilometres of the border with Northern Ireland the Department shall by notice declare the establishment of an infected area in Northern Ireland of sufficient size to cover the area where it is suspected that the disease is present.
+
+(2) The Department may apply any or all of the restrictions and requirements of Schedule 2 in the infected area and may also suspend the hunting and ban the feeding of feral pigs in that area.
+
+(3) The Department may take such steps as it considers necessary to ensure that all persons in an infected area declared under paragraph (1) are made fully aware of the restrictions and requirements in force in the infected area, including exhibiting notices or signs on property situated within that area.
+
+(4) The Department may by notice impose a ban on pig breeding in an infected area or on the establishment of new holdings or both except in accordance with a licence issued by an inspector.
+
+(5) Any holding which is partly inside and partly outside an infected area declared under paragraph (1) shall be deemed to be wholly inside that area.
+
+(6) Nothing in paragraph (5) shall deem any area outside Northern Ireland to be inside an infected area.
+
+## 15. Vaccines[^key-30a2c3fde202b3a0fa820f57551aecd7]
+
+A person shall not administer an African swine fever vaccine to any pig unless authorised to do so by the Department.
+
+## 16. Compliance with notices etc.[^key-f49090deccd95b6284942ad195bf5bd7]
+
+(1) Any notice or licence under this Order shall be in writing, may be general or specific, may be subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
+
+(2) If any person fails to comply with any requirement of this Order or any instruction given, or notice or licence served under it, an inspector may, without prejudice to any proceedings for an offence arising as a consequence of that failure, take such action as may be necessary to ensure that the requirements, instruction, notice or licence is complied with or carried out.
+
+## 17. Production of licences[^key-836f4a2f3c3c0b632c5beb417d29f45a]
+
+Any person acting under the authority of a licence issued under this Order shall, on demand made by an inspector or a member of the Police Service of Northern Ireland produce the licence and allow a copy thereof or an extract therefrom to be taken and shall also on such demand, furnish his name and address.
+
+## 18. Powers of inspectors[^key-4095b83e01c69b92abebb2c0109acaf0]
+
+(1) A veterinary inspector who enters premises under this Order may –
+
+- (a) examine any animal, carcase or thing;
+- (b) make such tests and take such samples (including blood samples) from any animal, carcase or thing as he may consider necessary for the purpose of diagnosis;
+- (c) mark for identification purposes any animal, carcase or thing;
+- (d) undertake surveillance for the presence of vectors;
+- (e) implement such vector control measures as he deems necessary;
+- (f) require the destruction, burial, disposal or treatment of any thing;
+- (g) require the occupier, any veterinary surgeon who has attended any animal on the premises and any other person who has been in charge of or in contact with any such animal to inform him of any other animal or other premises with which such animal may have come into contact;
+- (h) require the occupier of any premises to exhibit the notices or signs referred to in Article 11(6).
+
+(2) An inspector who enters premises under this Order may –
+
+- (a) take with him –
+  - (i) a vehicle (provided entry with such a vehicle is reasonably practicable);
+  - (ii) such equipment as he considers necessary; and
+  - (iii) such other person as he considers necessary for any purpose in relation to the execution and enforcement of this Order;
+- (b) undertake surveillance for the presence of vectors under the direction of a veterinary inspector; and
+- (c) implement such vector control measures as a veterinary inspector may deem necessary.
+
+## 19. Revocation[^key-efa9a24aa63a6f28b21c78a68592a8ad]
+
+The African Swine Fever Order (Northern Ireland) 1981[^f00006] is hereby revoked.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 28th November 2003.
+
+Liam McKibben
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — MEASURES THAT APPLY IN PROTECTION AND SURVEILLANCE ZONES
+
+Article 11(5)
+
+### PART I — measures that apply in a protection zone
+
+#### 1. Movement restrictions[^key-be249f13f2f0b7caa63fff8926f14a7f]
+
+Subject to paragraph 2, a person shall not move or transport any pig on any public or private road (other than, when necessary, the service roads within the holding) within the protection zone.
+
+**2.**[^key-e2c011f8e4c5693c15457ce0fe3ac173] The prohibition in paragraph 1 shall not apply –
+
+- (a) if the movement is in accordance with paragraphs 6 and 7;
+- (b) to the transport of pigs that were loaded on to a vehicle or train outside the protection zone and are transported through that zone without the vehicle being loaded or unloaded in the zone;
+- (c) to the movement or transport of pigs from outside the protection zone, with a view to immediate slaughter in a slaughterhouse situated within the protection zone, provided that movement or transport has been licensed by an inspector.
+
+**3.**[^key-381ceaaed5ec3023ec1e53f8712819a3] A person shall not move out of the protection zone any vehicle which has been used to transport pigs within the zone, unless –
+
+- (a) it has been cleansed and disinfected and, if necessary, an acaricide is applied under the direction and supervision of an inspector; and
+- (b) the movement has been licensed by an inspector; or
+- (c) it has been driven through the zone without being loaded or unloaded.
+
+**4.**[^key-9bda714e7ef095a00f4f57bde80aebe6] The occupier of a holding within the protection zone shall ensure that no other species of domestic animal enters or leaves that holding unless the movement is authorised by a licence issued by an inspector.
+
+**5.**[^key-cc91703aeb21b0040b01e461401cab28] A person shall not remove any pig semen, ova or embryos from a holding within the protection zone.
+
+**6.**[^key-c15ade32c9ed87aae7d84ed61e2c7dd4] A person shall not move any pig in the protection zone off the holding on which it is kept for at least 40 days after the completion of the preliminary cleansing and disinfection of and any application of an acaricide to the infected holding and, thereafter a person shall not move any pig unless licensed to do so by an inspector.
+
+**7.**[^key-af189fa3c84acb7275905f07e7335576] Where a holding has –
+
+- (a) been within a protection zone for longer than 40 days as a result of one outbreak of disease succeeding another; and
+- (b) this has given rise to welfare or other problems in keeping the pigs on the holding,
+
+pigs may be moved off the holding provided that any such movement is authorised by a licence issued by an inspector.
+
+#### 8. Reduction of periods of waiting[^key-957c0cec44eff114c678c7e8b802438f]
+
+If the Chief Veterinary Officer is satisfied following a sampling and testing programme that the disease no longer exists on the holding in question, the period of 40 days referred to in paragraphs 6 and 7 may by notice be reduced to 30 days.
+
+#### 9. Notification of pig deaths on a holding[^key-e2525539c15ee7f4bf330862b417e0bc]
+
+The occupier of any holding within the protection zone shall notify the appropriate Divisional Veterinary Officer about any dead or infected pig on his holding.
+
+#### 10. Bio-security[^key-edf476b4ecc51efcb9d2674d3bcf5a39]
+
+The person in charge of any vehicle or equipment used for the transport of pigs, other livestock or material which may have been contaminated with the virus (for example, carcases, feed, manure, and slurry) shall ensure that it is cleansed and disinfected or otherwise treated as soon as possible after use and before it is used again, in accordance with the directions of an inspector.
+
+**11.**[^key-6f2abdad7afb3474b2dd11862e636c6c] A person shall not enter or leave any holding within the protection zone wearing clothing or footwear which are visibly contaminated with mud, slurry, animal faeces, droppings or excretions or any other similar matter except that such person may cleanse and disinfect the outer surfaces of their footwear on entering or leaving the holding.
+
+### PART II — measures that apply in a surveillance zone
+
+#### 12. Movement restrictions[^key-03a7d6717634b2a997d14229d3cfca53]
+
+Subject to paragraph 13, a person shall not move or transport any pig on any public or private road (other than, where necessary, the service roads of the holding) within the surveillance zone unless licensed to do so by an inspector.
+
+**13.**[^key-f2625efc9fd7320bf3c3ea7d57e14a4e] The prohibition in paragraph 12 shall not apply –
+
+- (a) to the transport of pigs that were loaded on to a vehicle outside the surveillance zone and are transported through that zone without the vehicle being loaded or unloaded in the zone; or
+- (b) to the movement or transport of pigs from outside the surveillance zone with a view to immediate slaughter in a slaughterhouse situated within the surveillance zone provided that movement or transport has been licensed by an inspector.
+
+**14.**[^key-431ffa4b46d3a93e99e3d485a76f1871] A person shall not move any livestock vehicle from the surveillance zone if it has been used to transport pigs, unless it has first been cleansed and disinfected and, if necessary, an acaricide has been applied or unless it has been driven through the zone without being loaded or unloaded.
+
+**15.**[^key-1b02954242bd6d0e0181f8121ad678ff] The occupier of any holding within the surveillance zone shall ensure that no other species of domestic animal enters or leaves that holding within 7 days of the establishment of that zone unless licensed to do so by an inspector.
+
+**16.**[^key-7ebcd3e4ae0724af5dea6edb91648fa1] A person shall not remove any pig semen, ovum or embryo from a holding within the surveillance zone.
+
+#### 17. Movement of pigs[^key-0ae8f9f5be1e91012021b18fbb41a4a5]
+
+A person shall not move any pig off a holding in the surveillance zone for at least 30 days after the completion of the preliminary cleansing and disinfection of and any application of an acaricide to the infected holding and thereafter a person shall not move any pig unless licensed to do so by an inspector.
+
+**18.**[^key-71b90b9899a8d734f352b25627421375] Where a holding has –
+
+- (a) been within a surveillance zone for more than 40 days as a result of one outbreak of disease succeeding another; and
+- (b) this has given rise to welfare or other problems in keeping the pigs on the holding,
+
+pigs may be moved off that holding provided that the movement is licensed by an inspector.
+
+#### 19. Reduction of periods of waiting[^key-75c87edbdbd4557bb471953ee176b5dc]
+
+If the Chief Veterinary Officer is satisfied following a sampling and testing programme that the disease no longer exists on the holding in question, the period of 30 days referred to in paragraph 17 may by notice be reduced to 21 days and the period of 40 days referred to in paragraph 18 may be so reduced to 30 days.
+
+#### 20. Bio-security[^key-02ed529571588814595ffc78a4ebeed4]
+
+The person in charge of any vehicle or equipment used for the transport of pigs, other livestock or material which may have been contaminated with the virus (for example, carcases, feed, manure and slurry) shall ensure that it is cleansed and disinfected or otherwise treated as soon as possible after use and before it is used again, in accordance with the directions of an inspector.
+
+**21.**[^key-457a514ad3f43f28f83b461ca0fa640e] A person shall not enter or leave any holding within the surveillance zone wearing clothing or footwear which are visibly contaminated with mud, slurry, animal faeces, droppings or excretions or any other similar matter except that such person may cleanse and disinfect the outer surfaces of their footwear on entering or leaving the holding.
+
+#### 22. Notification of deaths of pigs on a holding[^key-e8cad1e295ffb55fb12d59a429275dbf]
+
+The occupier of any holding within the surveillance zone shall notify the appropriate Divisional Veterinary Officer about any dead or infected pigs on his holding.
+
+## SCHEDULE 2 — MEASURES THAT APPLY IN AN INFECTED AREA ESTABLISHED UNDER ARTICLE 14
+
+Article 14
+
+### PART I — measures that apply to holdings in the infected area
+
+#### 1. Records of pigs[^key-5f3bcb7e7bddf8f6f052150fb2c6a1e1]
+
+The occupier of a holding within the infected area shall co-operate with any veterinary inspector in the preparation of a record by category of pigs on the holding and shall ensure that the record is kept up to date and provided, on request, to an inspector. In the case of holdings where pigs are not kept inside, the first record may be based on an estimate.
+
+#### 2. Isolation of pigs[^key-7d937d2c560749a13c2ee54c96918841]
+
+The occupier shall ensure that –
+
+- (a) all the pigs on the holding are restricted to their living quarters or to some other part of the holding where they can be isolated from feral pigs; and
+- (b) feral pigs are prevented from gaining access to any material that might come into contact with the pigs on the holding.
+
+#### 3. Movement of pigs[^key-48df780a60ba6f51d39b6c75895630f4]
+
+A person shall not move a pig on to or off a holding unless licensed to do so by an inspector.
+
+#### 4. Bio-security[^key-a5c1820f75a05bfd88f7b92098c43013]
+
+The occupier shall ensure that appropriate means of disinfection and, if necessary, application of an acaricide are provided and used at the entrances and exits of those parts of the holding in which pigs are being kept and of the holding itself.
+
+#### 5. Dead or diseased pigs[^key-06c87b9e2428562f148bbeb17237a4a3]
+
+The occupier shall ensure that he notifies the appropriate Divisional Veterinary Officer of any feral pigs that die on the holding and shall retain the carcases of such animals on the holding until a veterinary inspector has notified him that he no longer needs to do so.
+
+#### 6. Feral pigs[^key-a9a8a0859d57ab88d4c08b5854f0f587]
+
+A person shall not bring on to a holding in the infected area –
+
+- (a) the carcase or any part of a feral pig; or
+- (b) any material or equipment which could have had contact with a feral pig in the infected area.
+
+### PART II — measures that apply in the infected area
+
+#### 7. Export of pigs, semen, ova or embryos from the infected area[^key-c0053e43ba129edd198c26433f439e2f]
+
+A person shall not move any pig, semen, ovum or embryo from the infected area for the purpose of export to a[^key-b3cc48780827154c6d04610dd246e5da] member state.
+
+#### 8. Contact with feral pigs[^key-74884aaf724d2ad4e5008fb3041cf429]
+
+Any person who comes into contact with a feral pig in the infected area shall takes steps to ensure that he does not spread the disease.
+
+**9.**[^key-e54020f4fa7907800325dbb4bc6cdbac] Any person who shoots or finds the carcase of a feral pig, shall immediately inform the appropriate Divisional Veterinary Officer. If that person has shot the pig he shall keep the carcase for at least 24 hours and make it available to the Divisional Veterinary Officer for any sampling or testing which the Divisional Veterinary Officer may consider appropriate.
+
+(This note is not part of the Order.)
+
+This Order implements for Northern Ireland Council Directive [2002/60/EC](https://www.legislation.gov.uk/european/directive/2002/0060) (O.J. No. L192, 20.7.2002, p. 27) revising Community measures for the control of African swine fever. It revokes and replaces the African Swine Fever Order (Northern Ireland) 1981.
+
+The Order –
+
+- (a) requires any person who suspects that a pig or carcase is infected with African swine fever (the disease) to notify the appropriate Divisional Veterinary Officer and imposes restrictions on the movement of pigs or carcases or other things from the holding (Article 4);
+- (b) requires a veterinary inspector to serve a notice imposing the requirements set out in the notice to be complied with in circumstances where he suspects the disease may exist (Article 5);
+- (c) permits a veterinary inspector to serve a further notice imposing additional restrictions to those required by Article 5 (Article 6);
+- (d) where the presence of the disease is confirmed on a holding, requires a veterinary inspector to serve a notice on the occupier of the holding requiring him to ensure that the restrictions and requirements in Article 5 and any applicable requirements of Article 6 are carried out (Article 7);
+- (e) sets out the measures which must be taken where the disease is confirmed in a slaughterhouse, knacker’s yard or on a means of transport (Article 8);
+- (f) sets out the action that should be taken where it is suspected that the disease may have been transferred to or from the infected or suspected holding to or from another holding (Article 9);
+- (g) provides for the establishment of temporary control zones (Article 10);
+- (h) requires the Department, on confirmation of disease, to establish an infected area around an outbreak site of the disease and provides for this area to be split into a protection and a surveillance zone (Article 11 and Schedule 1);
+- (i) sets out requirements for cleansing and disinfection (Article 12);
+- (j) sets out the measures to be taken where the disease is suspected or confirmed in feral pigs (Articles 13 and 14 and Schedule 2);
+- (k) generally prohibits the use of the African swine fever vaccine (Article 15);
+- (l) gives power to an inspector to take action to ensure that the requirements of this Order are carried out where any person fails to comply with those restrictions and requirements (Article 16);
+- (m) requires the production of licences on demand made by an inspector or a member of the Police Service of Northern Ireland (Article 17);
+- (n) provides the specifics as to the exercise of certain of the powers of inspectors and veterinary inspectors (Article 18).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17 and S.I. [1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 20, 22 and 23
+
+[^key-c468eb0e2768642943fda2cfd70e5a7c]: Commencement: Art. 1 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-f19fb86316c4f02ecfc867bd7d5c7126]: Commencement: Art. 2 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-25bcd8cd44355ce3f258416bfd51b3a7]: Commencement: Art. 3 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^f00002]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)
+
+[^key-0427e8c41a507fbfdfa46d606e9c1172]: Commencement: Art. 4 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-cff1b4e6eae43bf2b25224e880ffb4a7]: Commencement: Art. 5 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-ef2f451c6b615dcbb501d909e5cd09b5]: Commencement: Art. 6 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-6066f0f63f8f5e1d81b9d23899e63db6]: Commencement: Art. 7 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-8e52e41ea6d4d057abe94a9201de211f]: Commencement: Art. 8 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-fb8e3d3b6423df30f046681e937cf88a]: Commencement: Art. 9 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-76049924ce40d8ebd5cc708050bc0ba0]: Commencement: Art. 10 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-2129f417b6bfe144dddfb9c15a434750]: Commencement: Art. 11 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-5fb6dad648afe4a444fbc36e3354144e]: Commencement: Art. 12 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^f00003]: Footnote: [S.R. 1972 No. 16](https://www.legislation.gov.uk/nisr/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69) and [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467)
+
+[^f00004]: Footnote: [S.R. 1987 No. 414](https://www.legislation.gov.uk/nisr/1987/414), as amended by [S.R. 1991 No. 203](https://www.legislation.gov.uk/nisr/1991/203) and [S.R. 1997 No. 469](https://www.legislation.gov.uk/nisr/1997/469)
+
+[^key-10e11862b20c94a631fd374cbd6044e6]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/nisr/2003/494/article/12/2) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/3) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+
+[^key-1b72c1d5227d46ab7352d78458b031c5]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/nisr/2003/494/article/12/2) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/3)
+
+[^key-57a30b03ebe1f8b4eb0368e812edddc6]: Commencement: Art. 13 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-1ba6907d6ed09ed32eea4cbcce1c45d6]: Commencement: Art. 14 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-30a2c3fde202b3a0fa820f57551aecd7]: Commencement: Art. 15 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-f49090deccd95b6284942ad195bf5bd7]: Commencement: Art. 16 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-836f4a2f3c3c0b632c5beb417d29f45a]: Commencement: Art. 17 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-4095b83e01c69b92abebb2c0109acaf0]: Commencement: Art. 18 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-efa9a24aa63a6f28b21c78a68592a8ad]: Commencement: Art. 19 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^f00006]: Footnote: [S.R. 1981 No. 326](https://www.legislation.gov.uk/nisr/1981/326)
+
+[^key-be249f13f2f0b7caa63fff8926f14a7f]: Commencement: Sch. 1 para. 1 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-e2c011f8e4c5693c15457ce0fe3ac173]: Commencement: Sch. 1 para. 2 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-381ceaaed5ec3023ec1e53f8712819a3]: Commencement: Sch. 1 para. 3 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-9bda714e7ef095a00f4f57bde80aebe6]: Commencement: Sch. 1 para. 4 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-cc91703aeb21b0040b01e461401cab28]: Commencement: Sch. 1 para. 5 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-c15ade32c9ed87aae7d84ed61e2c7dd4]: Commencement: Sch. 1 para. 6 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-af189fa3c84acb7275905f07e7335576]: Commencement: Sch. 1 para. 7 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-957c0cec44eff114c678c7e8b802438f]: Commencement: Sch. 1 para. 8 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-e2525539c15ee7f4bf330862b417e0bc]: Commencement: Sch. 1 para. 9 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-edf476b4ecc51efcb9d2674d3bcf5a39]: Commencement: Sch. 1 para. 10 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-6f2abdad7afb3474b2dd11862e636c6c]: Commencement: Sch. 1 para. 11 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-03a7d6717634b2a997d14229d3cfca53]: Commencement: Sch. 1 para. 12 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-f2625efc9fd7320bf3c3ea7d57e14a4e]: Commencement: Sch. 1 para. 13 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-431ffa4b46d3a93e99e3d485a76f1871]: Commencement: Sch. 1 para. 14 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-1b02954242bd6d0e0181f8121ad678ff]: Commencement: Sch. 1 para. 15 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-7ebcd3e4ae0724af5dea6edb91648fa1]: Commencement: Sch. 1 para. 16 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-0ae8f9f5be1e91012021b18fbb41a4a5]: Commencement: Sch. 1 para. 17 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-71b90b9899a8d734f352b25627421375]: Commencement: Sch. 1 para. 18 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-75c87edbdbd4557bb471953ee176b5dc]: Commencement: Sch. 1 para. 19 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-02ed529571588814595ffc78a4ebeed4]: Commencement: Sch. 1 para. 20 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-457a514ad3f43f28f83b461ca0fa640e]: Commencement: Sch. 1 para. 21 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-e8cad1e295ffb55fb12d59a429275dbf]: Commencement: Sch. 1 para. 22 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-5f3bcb7e7bddf8f6f052150fb2c6a1e1]: Commencement: Sch. 2 para. 1 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-7d937d2c560749a13c2ee54c96918841]: Commencement: Sch. 2 para. 2 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-48df780a60ba6f51d39b6c75895630f4]: Commencement: Sch. 2 para. 3 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-a5c1820f75a05bfd88f7b92098c43013]: Commencement: Sch. 2 para. 4 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-06c87b9e2428562f148bbeb17237a4a3]: Commencement: Sch. 2 para. 5 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-a9a8a0859d57ab88d4c08b5854f0f587]: Commencement: Sch. 2 para. 6 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-c0053e43ba129edd198c26433f439e2f]: Commencement: Sch. 2 para. 7 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-b3cc48780827154c6d04610dd246e5da]: Textual amendment: Word in [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2003/494/schedule/2/paragraph/7) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/111/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74884aaf724d2ad4e5008fb3041cf429]: Commencement: Sch. 2 para. 8 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)
+
+[^key-e54020f4fa7907800325dbb4bc6cdbac]: Commencement: Sch. 2 para. 9 in operation at 5.12.2003, see [art. 1](https://www.legislation.gov.uk/nisr/2003/494/article/1)

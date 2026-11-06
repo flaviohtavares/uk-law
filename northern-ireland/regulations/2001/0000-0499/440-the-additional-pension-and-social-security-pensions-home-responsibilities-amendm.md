@@ -1,0 +1,311 @@
+---
+title: The Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations (Northern Ireland) 2001
+id: nisr/2001/440
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-12-31'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/440
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/440/pdfs/nisr_20010440_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/440/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations (Northern Ireland) 2001
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 440
+
+SOCIAL SECURITY
+
+PENSIONS
+
+The Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations (Northern Ireland) 2001
+
+Made
+
+31st December 2001
+
+Coming into operation
+
+6th April 2002
+
+The Department for Social Development, in exercise of the powers conferred by sections 44A(2)(*c*)(ii), 121(5) and 171(1), (4) and (5) of, and paragraph 5(7)(*b*) and (7A) of Schedule 3 and paragraph 9 of Schedule 4A to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-374ee5393b77793de0e1b95c7b3132d6]
+
+(1) These Regulations may be cited as the Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 6th April 2002.
+
+(2) In these Regulations—
+
+- “the Administration Act” means the Social Security Administration (Northern Ireland) Act 1992[^f00003];
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “the Pensions Act” means the Pension Schemes (Northern Ireland) Act 1993[^f00004];
+- “the Welfare Reform Act” means the Welfare Reform Act (Northern Ireland) 2007;[^key-af7360a7e9f8b22352736be31cae3e00]
+- “the 1994 Regulations” means the Social Security Pensions (Home Responsibilities) Regulations (Northern Ireland) 1994[^f00005];
+- “appropriate personal pension scheme” means an appropriate scheme within the meaning of section 3B(6) of the Pensions Act;[^key-d36efc67ec2ff3e788b100eb420d2300]
+- “appropriate table” means—
+  - (a) in the case of a person attaining pensionable age[^f00006] after the end of the year 2002-03 but before 6th April 2009, Table 5 of paragraph 7(3) of Schedule 4A to the Contributions and Benefits Act (additional pension);
+  - (b) in the case of a person attaining pensionable age on or after 6th April 2009, Table 6 of paragraph 7(4) of that Schedule;
+- “contracted-out employment” means , subject to regulation 3(5),[^key-85f90caf29ba2190498257360936837f] employed earner’s employment qualifying a person for a pension provided by a salary related contracted-out scheme or a money purchase contracted-out scheme or an appropriate personal pension scheme, as the case may be;
+- “contributions equivalent premium” has the meaning given in section 176(1) of the Pensions Act;[^key-618212164907fcc6ceb5b9f035d49ccb]
+- “money purchase contracted-out scheme” has the meaning given in section 3B(5) of the Pensions Act;[^key-e73e650effa2e3244f3f047011524b4a]
+- “non-contracted-out employment” means employed earner’s employment which is not contracted-out employment;
+- “salary related contracted-out scheme” has the meaning given in section 3B(4) of the Pensions Act;[^key-86f8b7dbb8350694a9a6df20d5e0f058]
+- “year” means a tax year.
+
+(3)[^key-aaeca47adb47468db7392d0a3a21d132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Calculation of additional pension where contributions equivalent premium paid or treated as paid[^key-d1db399e99bc52b0ba36a93c3bf929c6]
+
+Where a contributions equivalent premium—
+
+- (a) is paid in accordance with the provisions of sections 51 to 57[^f00009] of the Pensions Act (which deal with the payment of a contributions equivalent premium in respect of specified periods of contracted-out employment) and regulations made thereunder (as they then had effect)[^key-79474f248b0d2faec9c7edcb79b2fcc5], or
+- (b) is treated as having been paid in accordance with the provisions of paragraph 5(3) to (3E)[^f00010] of Schedule 1 to the Pensions Act (which provide for a contributions equivalent premium to be treated as paid in respect of contracted-out employment in certain circumstances) and regulations made thereunder,
+
+the amount referred to in section 45(2)(*c*)[^f00011] or (d)[^key-fac2f7dd3388cf37a6f23aaf1d4d7c23] of the Contributions and Benefits Act (which provides for the calculation of the amount of additional pension in a Category A retirement pension in relation to the year 2002-03 and subsequent years) is to be calculated in accordance with Parts I and II of Schedule 4A or, as the case may be, Parts 1 and 2 of Schedule 4B[^key-1075dc2f4f2a10a6086b4d31d4c51e40] to the Contributions and Benefits Act (the amount and surplus earnings factor) as if the employment in respect of which a premium is paid, or treated as paid, had not been contracted-out employment.
+
+## 3. Calculation of additional pension: earnings partly from employment with contracted-out scheme membership[^key-5d1539eee4ea5aff66205c4e2d2a553f]
+
+(1) This regulation applies in relation to any year where earnings are paid to or for the benefit of an earner—
+
+- (a) partly in respect of non-contracted-out employment, and
+- (b) partly in respect of employment qualifying him for a pension provided by a salary related contracted-out scheme or a money purchase contracted-out scheme, or both.
+
+(2) For any year in relation to which this regulation applies, the amount referred to in paragraph 1(1)(*a*) of Schedule 4A or, as the case may be, in paragraph 1(1) of Schedule 4B[^key-b2b787e01a91cabab38aab6370431800] to the Contributions and Benefits Act shall be amount C where—
+
+- (a) amount C is equal to amount A minus amount B, and
+- (b) amounts A and B are calculated in accordance with paragraphs (3) and (4).
+
+(3) Amount A is to be calculated in accordance with paragraph 5 of Schedule 4A or, as the case may be, paragraphs 8 and 9 of Schedule 4B[^key-067ff9b14e79cee5f128bbbdf216c79f] to the Contributions and Benefits Act.
+
+(4) Amount B is to be calculated as follows—
+
+- (a) find the earnings factor derived from the aggregate of the amounts of weekly earnings paid in that year in respect of the employment referred to in paragraph (1)(*b*);
+- (b) deduct from that earnings factor an amount equal to the weekly lower earnings limit for the year multiplied by the number of tax weeks in which earnings were paid in respect of that employment;
+- (c) multiply the amount found under sub-paragraph (*b*) in accordance with the last order under section 130[^f00012] of the Administration Act (revaluation of earnings factors) to come into operation before the end of the final relevant year;
+- (d) multiply the amount found under sub-paragraph (*c*) by the percentage specified in paragraph 6(3) of Schedule 4A or, as the case may be, in paragraph 10(1)(c) of Schedule 4B[^key-43a449bed1b2f7e14c107f8d9fa6f0b8] to the Contributions and Benefits Act which is applicable in the case of the earner.
+
+(5)[^key-f65c484b11e1111176d2c626c116d226] In so far as paragraphs (1) to (4) apply in respect of the calculation of additional pension under Schedule 4B to the Contributions and Benefits Act, the definition of “contracted-out employment” in regulation 1(2) has effect as if from “or a money purchase contracted-out scheme” to the end were omitted.
+
+## 4. Calculation of additional pension: earnings partly from employment with scheme membership[^key-452d02dc9f03be5e7930a187fbc87f42]
+
+(1) This regulation applies in relation to any year where earnings are paid to or for the benefit of an earner—
+
+- (a) partly in respect of non-contracted-out employment, and
+- (b) partly in respect of employment qualifying him for a pension provided by an appropriate personal pension scheme.
+
+(2) For any year in relation to which this regulation applies, the amount referred to in paragraph 1(1)(*a*) of Schedule 4A to the Contributions and Benefits Act shall be amount C where—
+
+- (a) amount C is equal to amount A minus amount B, and
+- (b) amounts A and B are calculated in accordance with paragraphs (3) and (4).
+
+(3) Amount A is to be calculated in accordance with paragraph 5 of Schedule 4A to the Contributions and Benefits Act.
+
+(4) Amount B is to be calculated as follows—
+
+- (a) find the earnings factor derived from the aggregate of the amounts of weekly earnings paid in that year in respect of employment qualifying the earner for a pension provided by an appropriate personal pension scheme;
+- (b) deduct from that earnings factor an amount equal to the qualifying earnings factor for that year;
+- (c) calculate the part of the amount found under sub-paragraph (*b*) falling into each of the bands specified in the appropriate table;
+- (d) multiply the amount of each such part in accordance with the last order under section 130 of the Administration Act to come into operation before the end of the final relevant year;
+- (e) multiply each amount found under sub-paragraph (*d*) by such percentage specified in the appropriate table in relation to the appropriate band as is applicable in the case of the earner;
+- (f) add together the amounts calculated under sub-paragraph (*e*).
+
+## 5. Calculation of additional pension: other cases of mixed forms of contracted-out employment[^key-5feb360014d81286a71a97e1002cb498]
+
+(1) This regulation applies in relation to any year where earnings are paid to or for the benefit of an earner—
+
+- (a) partly in respect of—
+  - (i) employment qualifying him for a pension provided by a salary related contracted-out scheme or a money purchase contracted-out scheme, or both, and
+  - (ii) employment qualifying him for a pension provided by an appropriate personal pension scheme, or
+- (b) partly in respect of—
+  - (i) non-contracted-out employment;
+  - (ii) employment qualifying him for a pension provided by a salary related contracted-out scheme or a money purchase contracted-out scheme, or both, and
+  - (iii) employment qualifying him for a pension provided by an appropriate personal pension scheme.
+
+(2) For any year in relation to which this regulation applies, the amount referred to in paragraph 1(1)(*a*) of Schedule 4A to the Contributions and Benefits Act shall be amount C where—
+
+- (a) amount C is equal to amount A minus amount B, and
+- (b) amounts A and B are calculated in accordance with paragraphs (3) and (4).
+
+(3) Amount A is to be calculated in accordance with paragraph 5 of Schedule 4A to the Contributions and Benefits Act.
+
+(4) Amount B is the sum of amount D and amount E, and—
+
+- (a) amount D is to be calculated as follows—
+  - (i) find the earnings factor derived from the aggregate of the amounts of weekly earnings paid in that year in respect of the employment referred to in paragraph (1)(*a*)(i) or, as the case may be, (*b*)(ii);
+  - (ii) deduct from that earnings factor an amount equal to the weekly lower earnings limit for the year multiplied by the number of tax weeks in which earnings were paid in respect of that employment;
+  - (iii) multiply the amount found under head (ii) in accordance with the last order under section 130 of the Administration Act to come into operation before the end of the final relevant year;
+  - (iv) multiply the amount found under head (iii) by the percentage specified in paragraph 6(3) of Schedule 4A to the Contributions and Benefits Act which is applicable in the case of the earner;
+- (b) amount E is to be calculated as follows—
+  - (i) find the earnings factor derived from the aggregate of the amounts of weekly earnings paid in that year in respect of the employment referred to in paragraph (1)(*a*)(ii) or, as the case may be, (*b*)(iii);
+  - (ii) add to that earnings factor an amount equal to the weekly lower earnings limit for the year multiplied by the number of tax weeks in which earnings were paid in respect of weeks of that employment;
+  - (iii) deduct from the amount found under head (ii) an amount equal to the qualifying earnings factor for that year;
+  - (iv) calculate the part of the amount found under head (iii) falling into each of the bands specified in the appropriate table;
+  - (v) multiply the amount of each such part in accordance with the last order under section 130 of the Administration Act to come into operation before the end of the final relevant year;
+  - (vi) multiply each amount found under head (v) by such percentage specified in the appropriate table in relation to the appropriate band as is applicable in the case of the earner;
+  - (vii) add together the amounts calculated under head (vi).
+
+## 5A. Earnings factor credits eligibility for pensioners to whom employment and support allowance was payable[^key-2ae2c3c5d170d6a1ea3a7d9e2639658e]
+
+(1) For the purposes of section 44C(3) of the Contributions and Benefits Act (earnings factor credits), a pensioner is eligible for earnings factor enhancement in respect of a week if that pensioner satisfies one or more of the conditions in paragraph (2) and was—
+
+- (a) a person to whom employment and support allowance was payable for any part of that week;
+- (b) a person to whom that allowance would have been payable but for the fact that the person did not satisfy the contribution condition in paragraph 1 or 2 of Schedule 1 to the Welfare Reform Act (conditions relating to national insurance); or
+- (c) a person to whom that allowance would have been payable but for the fact that under regulations the amount was reduced to nil because of—
+  - (i) receipt of other benefits, or
+  - (ii) receipt of payments from an occupational pension scheme or personal pension scheme.
+
+(2)[^key-e4c6cad75ed9a02a580d201df14f0fcd] The conditions are—
+
+- (a) immediately prior to that week, employment and support allowance was payable or would have been payable for—
+  - (i) a continuous period of 52 weeks, or
+  - (ii) a period of 52 weeks treated as continuous by virtue of regulations made under paragraph 4 of Schedule 2 to the Welfare Reform Act (linking periods);
+- (b) that allowance included or would have included the support component under section 2(2) of the Welfare Reform Act (amount of contributory allowance); or
+- (c) immediately prior to that week, in the case of—
+  - (i) a man born in the period beginning with and including 6th April 1946 and ending on 5th April 1947, or
+  - (ii) a woman born in the period beginning with and including 6th October 1950 and ending on 5th April 1951,
+
+  that allowance was payable or would have been payable for a continuous period of 13 weeks immediately following a period throughout which statutory sick pay was payable.
+
+(3) In this regulation, “employment and support allowance” means an employment and support allowance under Part 1 of the Welfare Reform Act (employment and support allowance).
+
+## 6. Preclusion from regular employment[^key-6ca842a9c65ffce0450f2b7d9fed4681]
+
+The condition referred to in section 44A(2)(*c*)(ii) of the Contributions and Benefits Act (which relates to the condition to be satisfied for a person to be taken to be precluded from regular employment by responsibilities at home throughout a year for the purposes of paragraph 5(7)(*b*) of Schedule 3 to that Act) is that specified in regulation 2(2)(*b*) or (3) of the 1994 Regulations (which refer respectively to a person to whom income support is payable and a person regularly engaged in caring for at least 35 hours a week for someone in receipt of certain benefits).
+
+## 7. Amendment of the 1994 Regulations[^key-99a1201d7b65a09b7ce9d4a9e47fac34]
+
+In regulation 2 of the 1994 Regulations (preclusion from regular employment for the purpose of paragraph 5(7)(*b*) of Schedule 3 to the Contributions and Benefits Act)—
+
+- (a) after paragraph (4) there shall be inserted—
+
+  > (4A) For the purposes of paragraph (2)(*a*) of this regulation, where—
+  >
+  > - (a) child benefit first becomes payable to a person in respect of a child on the first Monday in a year, and
+  > - (b) child benefit would, but for the provisions of section 143(2) of the Act, have been payable to that person in respect of that child for the part of that year falling before that Monday,
+  >
+  > that person shall be treated as if he were entitled to child benefit and, accordingly, as if child benefit were payable to him for that part of that year.
+
+  ;
+- (b) in paragraph (5) for sub-paragraph (*b*) there shall be substituted the following sub-paragraphs—
+
+  > - (b) in the case of a person who satisfies the conditions in paragraph (3) of this regulation in respect of any year preceding 2002-03, if he does not furnish such information as the Department may from time to time require which is relevant to the question of whether, in that year, he was precluded from regular employment by responsibilities at home within the meaning of these Regulations, or
+  > - (c) in the case of a person who satisfies the conditions in paragraph (3) of this regulation in respect of the year 2002-03 or any subsequent year, if he does not, within the period of 3 years immediately following the end of that year, furnish such information as the Department may from time to time require which is relevant to the question of whether, in that year, he was precluded from regular employment by responsibilities at home within the meaning of these Regulations.
+
+  .
+
+Sealed with the Official Seal of the Department for Social Development on 31st December 2001.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations make additional provision for the calculation of the state second pension (the additional pension element of a state retirement pension from 6th April 2002), and for conditions to be satisfied, in certain circumstances, in order for a person to be treated as precluded from regular employment by responsibilities at home and therefore entitled to additional pension by virtue of section 44A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (“the Contributions and Benefits Act”). They also amend the Social Security Pensions (Home Responsibilities) Regulations (Northern Ireland) 1994 (“the 1994 Regulations”) to include certain persons who previously were not treated as precluded from regular employment by responsibilities at home in the first year of their child’s life, and to specify a time limit for providing the Department for Social Development with information where a person is to be treated as precluded from regular employment after 5th April 2002 by responsibilities at home.
+
+Regulation 1 defines certain terms used in the Regulations.
+
+Regulation 2 provides for the calculation of the additional pension where a contributions equivalent premium is paid or treated as paid.
+
+Regulation 3 provides for the calculation of the additional pension where an earner has earnings in a tax year derived partly from non-contracted-out employment and partly from employment qualifying him for a pension provided by a contracted-out scheme.
+
+Regulation 4 provides for the calculation of the additional pension where an earner has earnings in a tax year derived partly from non-contracted-out employment and partly from employment qualifying him for a pension provided by an appropriate personal pension scheme.
+
+Regulation 5 provides for the calculation of the additional pension where an earner has earnings in a tax year derived partly from employment qualifying him for a pension provided by a contracted-out scheme and partly from employment qualifying him for a pension provided by an appropriate personal pension scheme, or partly from such employments together with earnings derived partly from non-contracted-out employment.
+
+Regulation 6 specifies the conditions one of which must be satisfied in order for a person to be treated as precluded from regular employment by responsibilities at home and therefore entitled to additional pension by virtue of section 44A of the Contributions and Benefits Act.
+
+Regulation 7(*a*) amends regulation 2 of the 1994 Regulations by inserting paragraph (4A) which applies where child benefit first becomes payable to a person in respect of a child on the first Monday of a tax year and would have been so payable for the part of that year falling before that Monday but for the provisions of section 143(2) of the Contributions and Benefits Act. Paragraph (4A) provides that such a person shall be treated as if he were entitled to child benefit and as if child benefit had been payable to him for that part of that year in order to be treated, for the purpose of the 1994 Regulations, as precluded from regular employment in that year by responsibilities at home.
+
+Regulation 7(*b*) amends regulation 2(5) of the 1994 Regulations to provide that, in relation to the tax year 2002-2003 and any subsequent tax year, where, within a period of 3 years following the end of the year in question, the individual fails to provide the Department for Social Development with such information as it may require for the purpose of determining whether in that year the individual was precluded from regular employment by responsibilities at home, that individual is not to be treated as having been so precluded in that year.
+
+Section 44A(2)(*c*)(ii) of, and paragraph 5(7A) of Schedule 3 and paragraph 9 of Schedule 4A to, the Contributions and Benefits Act, some of the enabling provisions under which these Regulations are made, were inserted by sections 29(3) and 36 of, and Schedule 4 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 respectively. Article 2(*e*) of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 1) Order (Northern Ireland) 2000 ([S.R. 2000 No. 358 (C. 16)](https://www.legislation.gov.uk/nisr/2000/358)) provides for the coming into operation of the said section 29(3) and Schedule 4, for the purpose of authorising the making of regulations, on 8th January 2001 and Article 2(*a*)(i) of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 4) Order (Northern Ireland) 2001 ([S.R. 2001 No. 34 (C. 1)](https://www.legislation.gov.uk/nisr/2001/34)) provides for their coming into operation, for all other purposes, on 6th April 2002. Article 2(*d*) of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 2) Order (Northern Ireland) 2000 ([S.R. 2000 No. 374 (C. 18)](https://www.legislation.gov.uk/nisr/2000/374)) provides for the coming into operation of the said section 36 on 8th January 2001.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 44A was inserted by section 29(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4); paragraph 5(7A) of Schedule 3 was inserted by section 36 of that Act; Schedule 4A was inserted by Schedule 4 to that Act
+
+[^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-374ee5393b77793de0e1b95c7b3132d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/440/regulation/1) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00004]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^key-af7360a7e9f8b22352736be31cae3e00]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/2) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/2/a); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^f00005]: Footnote: [S.R. 1994 No. 89](https://www.legislation.gov.uk/nisr/1994/89)
+
+[^key-d36efc67ec2ff3e788b100eb420d2300]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [19(2)(a)](https://www.legislation.gov.uk/nisr/2016/158/article/19/2/a)
+
+[^f00006]: Footnote: Definition of “pensionable age” in section 121(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 was substituted by paragraph 9 of Schedule 2 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^key-85f90caf29ba2190498257360936837f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/2) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/2/b); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^key-618212164907fcc6ceb5b9f035d49ccb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/2) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [19(2)(b)](https://www.legislation.gov.uk/nisr/2016/158/article/19/2/b)
+
+[^key-e73e650effa2e3244f3f047011524b4a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [19(2)(c)](https://www.legislation.gov.uk/nisr/2016/158/article/19/2/c)
+
+[^key-86f8b7dbb8350694a9a6df20d5e0f058]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [19(2)(d)](https://www.legislation.gov.uk/nisr/2016/158/article/19/2/d)
+
+[^key-aaeca47adb47468db7392d0a3a21d132]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/3) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [19(3)](https://www.legislation.gov.uk/nisr/2016/158/article/19/3)
+
+[^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-d1db399e99bc52b0ba36a93c3bf929c6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/440/regulation/2) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)
+
+[^f00009]: Footnote: Section 52 was amended by paragraph 43 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 64 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999. Section 53 was amended by paragraph 14 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 65 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999. Section 54 was amended by paragraph 44 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 6(1) of Schedule 5 to the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). Section 55 was repealed by paragraph 45 of Schedule 3 to the Pensions (Northern Ireland) Order 1995. Section 56 was amended by paragraph 46 of Schedule 3 to that Order. Section 57 was amended by paragraph 47 of Schedule 3 to that Order, paragraph 66 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 6(2) of Schedule 5 to the Child Support, Pensions and Social Security Act 2000
+
+[^key-79474f248b0d2faec9c7edcb79b2fcc5]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/nisr/2001/440/regulation/2/a) inserted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [19(4)](https://www.legislation.gov.uk/nisr/2016/158/article/19/4)
+
+[^f00010]: Footnote: Paragraph 5(3) was amended, and sub-paragraphs (3A) to (3E) were inserted, by Article 138(2)(*a*) and (*b*) of the Pensions (Northern Ireland) Order 1995 and sub-paragraphs (3) to (3C) were amended by paragraph 77(5)(*b*) and (*c*) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^f00011]: Footnote: Section 45(2)(*c*) was inserted by section 30(1)(*c*) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^key-fac2f7dd3388cf37a6f23aaf1d4d7c23]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2001/440/regulation/2) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/3/a); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^key-1075dc2f4f2a10a6086b4d31d4c51e40]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2001/440/regulation/2) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/3/b); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^key-5d1539eee4ea5aff66205c4e2d2a553f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/440/regulation/3) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)
+
+[^key-b2b787e01a91cabab38aab6370431800]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/3/2) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/4/a); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^key-067ff9b14e79cee5f128bbbdf216c79f]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2001/440/regulation/3/3) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/4/b); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^f00012]: Footnote: Section 130 was amended by paragraph 40 of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993 and by Article 125(3) of the Pensions (Northern Ireland) Order 1995 subject to paragraphs (4) to (6) of that Article
+
+[^key-43a449bed1b2f7e14c107f8d9fa6f0b8]: Textual amendment: Words in [reg. 3(4)(d)](https://www.legislation.gov.uk/nisr/2001/440/regulation/3/4/d) inserted (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/4/c); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^key-f65c484b11e1111176d2c626c116d226]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2001/440/regulation/3/5) added (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/2), [4(4)(d)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/4/d); [S.R. 2012/40](https://www.legislation.gov.uk/nisr/2012/40), [art. 2](https://www.legislation.gov.uk/nisr/2012/40/article/2)
+
+[^key-452d02dc9f03be5e7930a187fbc87f42]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/440/regulation/4) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)
+
+[^key-5feb360014d81286a71a97e1002cb498]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/440/regulation/5) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)
+
+[^key-2ae2c3c5d170d6a1ea3a7d9e2639658e]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2001/440/regulation/5A) inserted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations (Northern Ireland) 2010 (S.R. 2010/56)](https://www.legislation.gov.uk/nisr/2010/56), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2010/56/regulation/1/3), [4(5)](https://www.legislation.gov.uk/nisr/2010/56/regulation/4/5)
+
+[^key-e4c6cad75ed9a02a580d201df14f0fcd]: Modification: [Reg. 5A(2)](https://www.legislation.gov.uk/nisr/2001/440/regulation/5A/2) modified (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/6)
+
+[^key-6ca842a9c65ffce0450f2b7d9fed4681]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/440/regulation/6) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)
+
+[^key-99a1201d7b65a09b7ce9d4a9e47fac34]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/440/regulation/7) in operation at 6.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/440/regulation/1/1)

@@ -1,0 +1,21 @@
+---
+title: The Building Society Insolvency Rules (Northern Ireland) 2014, section 39
+act: The Building Society Insolvency Rules (Northern Ireland) 2014
+section: '39'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2014/41/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency Rules (Northern Ireland) 2014, section 39
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 39. Building society insolvency stayed
+
+(1) Apply rule 4.052 of the 1991 Rules.
+
+(2) In paragraph (1), for “official receiver” substitute “building society liquidator”.

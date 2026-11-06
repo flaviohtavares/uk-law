@@ -1,0 +1,868 @@
+---
+title: The Planning (General Development Procedure) Order (Northern Ireland) 2015
+id: nisr/2015/72
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-02-25'
+text_date: '2025-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/72
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/72/pdfs/nisrem_20150072_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/72/pdfs/nisr_20150072_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/72/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (General Development Procedure) Order (Northern Ireland) 2015
+
+> Text as at 2025-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 72
+
+Planning
+
+The Planning (General Development Procedure) Order (Northern Ireland) 2015
+
+Made
+
+25th February 2015
+
+Coming into operation
+
+1st April 2015
+
+The Department of the Environment makes the following Order in exercise of the powers conferred on it by sections 32, 40, 41 (and that section as it is applied by sections 58(7), 143(6) and 159(3)), 42(7), 45(2), 54(2) 56(1), 60, 67(5), 171, 185(3), 187(5), 191(4), 229, 242(1) and (2) and 247(6) of the Planning Act (Northern Ireland) 2011 [^c22403151].
+
+## 1. Application, citation and commencement
+
+(1) This Order may be cited as the Planning (General Development Procedure) Order (Northern Ireland) 2015 and shall come into operation on 1st April 2015.
+
+(2) This Order applies to all land in Northern Ireland but where land is subject to a special development order, whether made before or after the commencement of this Order, this Order shall apply to that land only to such extent and subject to such modifications as may be specified in the special development order.
+
+(3) Nothing in this Order shall apply to any permission which is deemed to be granted under section 130(6) (control of advertisements) of the 2011 Act.
+
+## 2. Interpretation
+
+(1) In this Order unless the context otherwise requires—
+
+- “**the 2011 Act**” means the Planning Act (Northern Ireland) 2011;
+- “**appointed officer**” means a person appointed by the council for the purposes of section 31(1)(a) of the 2011 Act;
+- “**appropriate council**” means the council for the district in which the land to which the application relates is situated;
+- “**area of outstanding natural beauty**” means an area so designated under Article 14(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985 [^c22403161];
+- “**area of special scientific interest**” means an area so designated under Article 28 of the Environment (Northern Ireland) Order 2002 [^c22403171];
+- “conservation area” has the same meaning given in section 104(12) (conservation areas) of the 2011 Act;
+- “**council**” means a district council;
+- “**the Department**” means the Department of the Environment;
+- “[^key-90dca894931a096dd6a6e6d1f696d25f]**EIA application**” has the meaning assigned to it by regulation 2 of the EIA Regulations
+- “**EIA development**” has the meaning assigned to it by regulation 2 of the EIA Regulations;
+- “**EIA Regulations**” means the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015 [^c22403181];
+- “**Enterprise Order**” means the Enterprise Zones (Northern Ireland) Order 1981 [^c22403191];
+- “**Fees Regulations**” means the Planning (Fees) Regulations (Northern Ireland) 2015 [^c22403201];
+- “**floor space**” means the total floor space in a building or buildings;
+- “**hazardous substance**” has the meaning assigned to that term in regulation 3(1) of the Planning (Hazardous Substances) Regulations (Northern Ireland) 2015 [^c22403211];
+- “**identified occupier**” means the occupier of premises within a 90 metre radius of the boundary of the application site;
+- “**industrial process**” means a process for or incidental to any of the following purposes—
+  - (a) the making of any article or part of any article (including a ship or vessel, or a film, video or sound recording);
+  - (b) the altering, repairing, maintaining, ornamenting, finishing, cleaning, washing, packing, canning, adapting for sale, breaking up or demolition of any article; or
+  - (c) the getting, dressing or treatment of minerals in the course of any trade or business other than agriculture, and other than a process carried out on land used as a mine or adjacent to and occupied together with a mine;
+- “**landscaping**” means the treatment of land (other than buildings) being a site or part of a site in respect of which an outline planning permission is granted, for the purpose of enhancing or protecting the amenities of the site and the area in which it is situated and includes screening by fences, walls or other means, the planting of trees, hedges, shrubs or grass, the formation of banks, terraces or other earthworks, the laying out of gardens or courts, and the provision of other amenity features;
+- “**licensed aerodrome**” has the same meaning as in the Air Navigation Order 2016[^key-2bb7cd4b1b7576adb1297389a7fe730b] ;
+- “**major development**” has the meaning assigned to that term in Regulation 2 the Planning (Development Management) Regulations (Northern Ireland) 2015 [^c22403231];
+- “**National Park**” means an area so designated under Article 12(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+- “**Natura 2000**” has the same meaning as in the Conservation (Natural Habitats etc) Regulations (Northern Ireland) 1995 [^c22403241];
+- “**nature reserve**” has the meaning assigned to it by Article 2(2) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+- “**neighbouring land**” means land which directly adjoins the application site or which would adjoin it but for an entry or a road less than 20 metres in width;
+- “[^key-b23a188e8676cc7c7d7b2df9eff96477]**outline planning permission**” means planning permission granted in accordance with the provisions of a development order, conditional on the subsequent approval by the council or, as the case may be, the Department of the particulars of the proposed development (referred to in this Order as reserved matters)
+- “**pre-application community consultation report**” means a written report prepared in accordance with section 28 (pre-application community consultation report) of the 2011 Act;
+- “**reserved matters**” in relation to an outline planning permission or an application for such permission, means any of the following matters in respect of which details have not been given in the application, namely—
+  - (a) siting;
+  - (b) design;
+  - (c) external appearance;
+  - (d) means of access; or
+  - (e) the landscaping of the site;
+- “road” is that which is defined by Article 2 of the Roads (Northern Ireland) Order 1993 [^c22403251];
+- “**waste development**” means any operational development designed to be used wholly or mainly for the purpose of, or material change of use to, treating, storing, processing or disposing of refuse or waste materials;
+- “**World Heritage Site**” means a property appearing on the World Heritage List kept under Article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage [^c22403261];
+
+(2) In this Order and in relation to the use of electronic communications or electronic storage for any purpose of this Order which is capable of being carried out electronically—
+
+- (a) the expression “**address**” includes any number or address used for the purpose of such communications or storage, except that where this Order imposes any obligation on any person to provide a name and address to any other person, the obligation shall not be fulfilled unless the person on whom it is imposed provides a postal address;
+- (b) references to applications, forms, maps, plans, drawings, certificates or other documents or to copies of such things include references to such documents or copies of them in electronic form.
+
+(3) Paragraphs (4) to (7) apply where an electronic communication is used by a person for the following purposes—
+
+- (a) fulfilling any requirement in this Order to give or send any application, notice or other document to any other person (“**the recipient**”); or
+- (b) lodging an application, certificate or other document under Article 3(3) with the council or, as the case may be, the Department.
+
+(4) The requirement shall not be taken to be fulfilled, or (as the case may be) the application or other document shall not be taken to have been lodged, unless the document transmitted by the electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(5) In paragraph (4), “**legible in all material respects**” means that the information contained in the notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(6) Where the electronic communication is received by the recipient outside the recipient's business hours, it shall be taken to have been received on the next working day; and for this purpose “**working day**” means a day which is not a Saturday, Sunday or a public holiday.
+
+(7) A requirement of this Order that any application, notice or other document should be in writing is fulfilled where the document meets the criteria in paragraph (4).
+
+## 3. Applications for planning permission
+
+(1) An application for planning permission is to be made to the appropriate council or, as the case may be, the Department in accordance with this Article.
+
+(2) An application for planning permission shall contain—
+
+- (a) a written description of the development to which it relates;
+- (b) the postal address of the land to which the development relates or, if the land in question has no postal address, a description of the location of the land; and
+- (c) the name and address of the applicant and, where an agent is acting on behalf of the applicant, the name and address of that agent.
+
+(3) The application must be accompanied—
+
+- (a) by a plan—
+  - (i) sufficient to identify the land to which it relates, and
+  - (ii) showing the situation of the land in relation to the locality and in particular in relation to neighbouring land;
+- (b) by such other plans and drawings as are necessary to describe the development to which it relates;
+- (c) where any neighbouring land is owned by the applicant, by a plan identifying that land;
+- (d) by one or other of the certificates required under Article 9;
+- (e) where the application relates to development belonging to the category of major development, by a pre-application community consultation report;
+- (f) where required under Article 6, by an access statement or a design and access statement as appropriate;
+- (g) by 3 additional copies of the application, plans and drawings submitted with it, except where the council or, as the case may be, the Department indicates that a lesser number is required;
+- (h) where the application relates to Crown land by a statement that the application is made in respect of Crown land; [^key-885bd3f0259d3f0ec656e0f7a9f8c11f]...
+- (i) by any fee payable under the Fees Regulations ;[^key-22d388f953de50bae9ae59ef6919d39b]
+- (j)[^key-218daed02a99bae0fd58523c927d2a2c] by such particulars and be verified by such evidence, as may be specified by a direction in writing given by a council made under this Order and published on its website.
+
+(4) In the case of an application for outline planning permission, details need not be given of any proposed reserved matters.
+
+(5) An application—
+
+- (a) for renewal of planning permission where—
+  - (i) a planning permission was previously granted for development which has not yet begun, and
+  - (ii) a time limit was imposed under section 61 (duration of planning permission) or section 62 (duration of outline planning permission) of the 2011 Act which has not yet expired;
+- (b) under section 54 (permission to develop land without compliance with conditions previously attached) of the 2011 Act,
+
+shall be made in writing and give sufficient information to identify the previous grant of planning permission and any condition in question.
+
+(6) The council or, as the case may be, the Department may by direction in writing addressed to the applicant require such further information as may be specified in the direction to enable it to determine any application.
+
+## 4. Outline applications
+
+(1) Where an application is made to the council or, as the case may be, the Department for outline planning permission, the council or, as the case may be, the Department may grant permission subject to a condition specifying reserved matters for the council or, as the case may be, the Department's subsequent approval.
+
+(2) Where the council or, as the case may be, the Department is of the opinion that, in the circumstances of the case, the application ought not to be considered separately from all or any of the reserved matters, the council or, as the case may be, the Department shall notify the applicant that it is unable to determine it unless further details are submitted, specifying the further details it requires.
+
+## 5. Application for approval of reserved matters
+
+An application for approval of reserved matters—
+
+- (a) shall give sufficient information to enable the council or, as the case may be, the Department to identify the outline planning permission in respect of which it is made;
+- (b) shall include such particulars, and be accompanied by such plans and drawings as are necessary to deal with the matters reserved in the outline permission; [^key-16d80d8a11a389b36a6f12212a479c7f]...
+- (c) shall be accompanied by 3 additional copies of the application, plans and drawings submitted with it, except where the council or, as the case may be, the Department indicates that a lesser number is required ; and[^key-78871b86b946cc56a0728ea93594360b]
+- (d)[^key-88b0d1be0bddce78ee2059b20fb11ac6] shall be accompanied by such particulars and be verified by such evidence, as may be specified by a direction in writing given by a council made under this Order and published on its website.
+
+## 5A. Validation particulars specified by direction[^key-3867feb3bff97ea40c112e197374746b]
+
+(1) Subject to paragraph 2 the council may specify by direction published on its website what particulars or verifying evidence shall accompany any application—
+
+- (a) for planning permission; or
+- (b) for approval of reserved matters.
+
+(2) Paragraph (1) only applies if the direction is—
+
+- (a) reasonable having regard, in particular, to the nature, scale and location of the proposed development;
+- (b) about a matter which it is reasonable to think will be a material consideration in the determination of the application; and
+- (c) published or reviewed and re-published by the council during the 3 year period immediately before the date on which the application is made.
+
+## 6. Design and access statements
+
+(1) Subject to paragraph (4), this Article applies to an application for planning permission which is for—
+
+- (a) development which is major development;
+- (b) where any part of the development is in a designated area, development consisting of—
+  - (i) the provision of one or more dwelling houses, or
+  - (ii) the provision of a building or buildings where the floor space created by the development is 100 square metres or more.
+
+(2) An application for planning permission to which this Article applies shall be accompanied by a statement (“a design and access statement”) which provides details of—
+
+- (a) the design principles and concepts that have been applied to the development; and
+- (b) how issues relating to access to the development have been dealt with.
+
+(3) A design and access statement shall—
+
+- (a) explain the design principles and concepts that have been applied to the development;
+- (b) demonstrate the steps taken to appraise the context of the development and how the design of the development takes that context into account;
+- (c) explain the policy or approach adopted as to access, and in particular, how—
+  - (i) policies relating to access to, from and within the development have been taken into account,
+  - (ii) policies relating to access in the local development plan have been taken into account, and
+  - (iii) any specific issues which might affect access to the development for disabled people have been addressed;
+- (d) describe how features which ensure access to the development for disabled people will be maintained;
+- (e) state what, if any, consultation has been undertaken on issues relating to access to the development and what account has been taken of the outcome of any such consultation;
+- (f) explain how any specific issues which might affect access to the development have been addressed; and
+- (g) explain the design principles and concepts that have been applied to take into account environmental sustainability.
+
+(4) This Article does not apply to an application for planning permission which is for—
+
+- (a) permission to develop land without compliance with conditions previously attached, made pursuant to section 54 of the 2011 Act, unless those conditions relate to design and access issues;
+- (b) engineering or mining operations;
+- (c) a material change in use of the land or buildings, provided that if the new use will necessitate access by an employee or involves the provision of services to the public or to a section of the public, with or without payment, then this Article applies to the application for access only; or
+- (d) development which is waste development.
+
+(5) For the purpose of this Article, “designated area” is defined as—
+
+- (i) a conservation area,
+- (ii) an area of outstanding natural beauty,
+- (iii) a World Heritage Site, and
+- (iv) an area of townscape or an area of village character.
+
+(6) In this Article “area of townscape character” and an “area of village character” have the same meaning as in Part 33 of the Schedule to the Planning (General Permitted Development) Order (Northern Ireland) 2015 [^c22403271].
+
+## 7. Application for non-material changes to planning permission
+
+An application under section 67 (power to make non-material changes to planning permission) of the 2011 Act shall be made in writing giving a description of the non-material changes sought and sufficient information to identify the previous grant of planning permission.
+
+## 8. Notice etc. of applications for planning permission and appeals
+
+(1) Subject to Article 3, where an application for planning permission is made to the council or, as the case may be, the Department, the council or, as the case may be, the Department shall—
+
+- (a) publish notice of the application in at least one newspaper circulating in the locality in which the land to which the application relates is situated;
+- (b) serve notice of the application to any identified occupier on neighbouring land in accordance with paragraph (2);
+- (c) where it maintains a website for the purpose of advertisement of applications, publish the notice on that website; and
+- (d) not determine the application before the expiration of 14 days from the date—
+  - (i) on which the notice is first published in a newspaper in pursuance of sub-paragraph (a),
+  - (ii) stipulated on the notice to any identified occupier issued under sub-paragraph (b), or
+  - (iii) on which the application is first published on the website in pursuance of sub-paragraph (c),
+
+  whichever date is the later or latest.
+
+(2) The notice to be given in accordance with paragraph (1)(b) must—
+
+- (a) state the date on which the notice is sent;
+- (b) include the reference number given to the application by the council, or as the case may be, the Department;
+- (c) include a description of the development to which the application relates;
+- (d) include the postal address of the land to which the development relates, or if the land in question has no postal address, a description of the location of the land;
+- (e) state how the application, plans or drawings relating to it and other documents submitted in connection with it may be inspected;
+- (f) state that representations may be made to the council or, as the case may be, the Department and include information as to how any representations may be made and by what date they must be made (being a date not earlier than 14 days after the date on which the notice is sent);
+- (g) include a statement as to how information explaining the manner in which applications for planning permission are handled and the procedures which are followed in relation to such applications can be obtained; and
+- (h) where the development to which the application relates is a class of development prescribed for the purposes of section 27 (pre-application community consultation) of the 2011 Act, include a statement that notwithstanding that comments may have been made to the applicant prior to the application being made, persons wishing to make representations in respect of the application should do so to the council or, as the case may be, the Department in the manner indicated in the notice.
+
+(3) Where an appeal is made to the planning appeals commission under sections 58 or 60 paragraph (1) shall apply as if—
+
+- (a) for the words “Subject to Article 3, where an application for planning permission is made to the council or, as the case may be, the Department, the council or, as the case may be, the Department” there were substituted “ Where an appeal is made to the planning appeals commission under sections 58 or 60 it ”; and,
+- (b) for the word “application” where it occurs in paragraph (1)(a),(c) and (d)(i) and (iii) there were substituted “ appeal ”; and,
+- (c) sub-paragraphs (b) and (d)(ii) were omitted.
+
+(4) When an appeal is made to the planning appeals commission under sections 143 and 159—
+
+- (a) paragraph (1) shall apply as if—
+  - (i) for the words “Subject to Article 3, where an application for planning permission is made to the council or, as the case may be, the Department, the council or, as the case may be, the Department” there were substituted “ Where an appeal is made to the planning appeals commission under section 143 or 159 it ”,
+  - (ii) for the word “application” where it occurs in paragraph (1)(a), (b) (c) and (d)(i), (ii) and (iii) there were substituted “ appeal ”; and
+- (b) paragraph (2)(a) to (f) shall apply as if—
+  - (i) for the words “council or as the case may be, the Department” where they occur in each sub-paragraph there were substituted “ the planning appeals commission ”; and
+  - (ii) sub-paragraphs (g) and (h) were omitted.
+
+(5) For the purposes of enabling the planning appeals commission to comply with paragraph (1)(b) and (d)(ii) the council, or as the case may be, the Department, shall provide the planning appeals commission with a list of identified occupiers on any neighbouring land.
+
+## 9. Certificates and notices under section 42 of the 2011 Act
+
+Certificates and notices issued for the purpose of section 42 (notification of applications to certain persons) of the 2011 Act shall be in the form set out in Schedule 1.
+
+## 10. Notice of reference of applications to the Department
+
+Where the Department has given a direction under section 29 (call in of applications, etc., to the Department) of the 2011 Act that an application for planning permission made to a council is to be referred to it to be dealt with rather than by the council, the council must serve on the applicant notice—
+
+- (a) of the terms of the direction;
+- (b) of any reasons given by the Department for requiring the application to be referred to it;
+- (c) that the application has been referred to the Department; and
+- (d) that the decision of the Department on the application will be final.
+
+## 11. Certificate of lawfulness of existing use or development and certificate of lawfulness of proposed use or development
+
+(1) An application to the council for a certificate under sections 169 (certificate of lawfulness of existing use or development) or 170 (certificate of lawfulness of proposed use or development) of the 2011 Act shall, in addition to specifying the land and describing the use, operations or other matters in question in accordance with those sections, include the following information—
+
+- (a) the paragraph of section 169(1) or, as the case may be, section 170(1), under which the application is made;
+- (b) in the case of an application under section 169(1), the date on which the use, operations or other matter began or, in the case of operations carried out without planning permission, the date on which the operations were substantially completed;
+- (c) in the case of an application under section 169(1)(a), the name of any use class specified in an order under section 23(3)(e) (meaning of “development”) of the 2011 Act which the applicant considers to be applicable to the use existing at the date of the application;
+- (d) in the case of an application under section 169(1)(c), sufficient details of the planning permission to enable it to be identified;
+- (e) in the case of an application under section 170(1)(a), the use of the land at the date of the application (or, when the land is not in use at that date, the purpose for which it was last used) and the name of any use class specified in an order under section 23(3)(e) of the 2011 Act which the applicant considers applicable to the proposed use;
+- (f) the applicant's reasons, if any, for regarding the use, operations or other matter described in the application as lawful; and
+- (g) such other information as the applicant considers to be relevant to the application.
+
+(2) An application to which paragraph (1) applies shall be accompanied by—
+
+- (a) a plan sufficient to identify the land to which the application relates;
+- (b) such evidence verifying the information included in the application as the applicant can provide; and
+- (c) a statement setting out the applicant's estate in the land, the name and address of any other person known to the applicant to have an estate in the land and whether any such other person has been notified of the application.
+
+(3) Where such an application specifies two or more uses, operations or other matters, the plan which accompanies the application shall indicate to which part of the land each such use, operation or other matter relates.
+
+(4) The council may by notice in writing require the applicant to provide such further information as may be specified to enable it to deal with the application.
+
+(5) Where an application is refused, in whole or in part, (including a case in which the council modifies the description of the use, operations or other matter in the application, or substitutes an alternative description for that description), the notice of decision shall state the council's full reason for its decision and shall include a statement to the effect that if the applicant does not accept the council's decision that person may appeal to the planning appeals commission under section 173 (appeals against refusal or failure to give decision on application) of the 2011 Act.
+
+(6) A certificate under section 169 or 170 of the 2011 Act shall be in a form set out in Schedule 2.
+
+(7) Where the council proposes to revoke a certificate issued under section 169 or 170 of the 2011 Act in accordance with section 171(7) (certificates under sections 169 and 170: supplementary provisions) of the 2011 Act, it shall, before it revokes the certificate, give notice of that proposal to—
+
+- (a) the owner of the land affected;
+- (b) the occupier of the land affected;
+- (c) any other person who will in its opinion be affected by the revocation; and
+- (d) in the case of a certificate issued under section 173 of the 2011 Act, the planning appeals commission.
+
+(8) A notice issued under paragraph (7) shall invite the person on whom the notice is served to make representations on the proposal to the council within 14 days of service of the notice and the council shall not revoke the certificate until all such periods allowed for making representations have expired.
+
+(9) The council shall give written notice of any revocation under section 171 of the 2011 Act to every person on whom notice of the proposed revocation was served under paragraph (7).
+
+## 12. Applications made under planning condition
+
+Where an application has been made to the council or, as the case may be, the Department for any consent, agreement or approval required by a condition imposed on a grant of planning permission (other than an application for approval of reserved matters) the council or, as the case may be, the Department shall give notice to the applicant of its decision on the application within a period of 8 weeks from the date when the application was received by the council or, as the case may be, the Department or such longer period as may be agreed by the applicant and the council or, as the case may be, the Department in writing.
+
+## 12A. Notice confirming non-compliance with direction[^key-f7f3c32aa7955cf15b0d90ca4c3ee289]
+
+(1) This Article applies where any application is made to the council—
+
+- (a) for planning permission; or
+- (b) for approval of reserved matters,
+
+and the council has made a direction under this Order specifying the particulars, or such verifying evidence, which shall accompany the application.
+
+(2) In the case of any application—
+
+- (a) for planning permission mentioned in paragraph (1)(a); or
+- (b) an application for approval of reserved matters mentioned in paragraph (1)(b),
+
+the council shall give notice to the applicant if it considers the application has not been accompanied by such particulars, or verified by such evidence, as specified in the direction made under this Order.
+
+(3) A notice given under paragraph (2) shall be in writing and set out the council’s reasons for issuing the notice and shall specify the particulars or evidence as are reasonable for the council to request.
+
+(4) A notice given under paragraph (2) shall be deemed a refusal for an approval required under a development order under section 58(1) of the 2011 Act.
+
+## 12B. Appeal against a notice of non-compliance with direction
+
+(1) If a council gives notice to an applicant under Article 12A(2) the applicant may by notice in writing stating the applicable grounds of appeal, appeal to the planning appeals commission.
+
+(2) Any notice under this Article shall be served on the planning appeals commission and the council within 14 days from the date of the council’s notice under Article 12A(2).
+
+(3) The appeal may be brought on any of the following grounds—
+
+- (a) the application was accompanied by such particulars, or was verified by such evidence, as specified in the direction;
+- (b) the identified particular, or such evidence verifying the particular, which the council asserts did not accompany the application has not been specified in the direction;
+- (c) the council’s request specifying the particulars or evidence under the notice issued under Article 12A(2) is unreasonable; or
+- (d) that the application is not one to which the direction applies.
+
+(4) The planning appeals commission may—
+
+- (a) allow the appeal;
+- (b) dismiss the appeal; or
+- (c) vary the notice issued under Article 12A(2) to give effect to its determination on the appeal.
+
+(5) The planning appeals commission decision on the appeal is final.
+
+## 13. Consultations as to applications for planning permission
+
+(1) Before determining an application for planning permission the council, or as the case may be, the Department shall consult in accordance with this Article and Schedule 3, except where—
+
+- (a) the consultee has advised the council or, as the case may be, the Department in writing that they do not wish to be consulted;
+- (b) the development is subject to any standing advice provided by the consultee to the council or, as the case may be, the Department in relation to the category of development; or
+- (c) the development is not EIA development and is the subject of an application to which Article 14 applies.
+
+(2) The exception in paragraph 1(a) shall not apply where, in the opinion of the council or, as the case may be, the Department, development falls within paragraph 2(b)(ii) of Part 1 or paragraph 2(b)(ii) of Part 2 in Schedule 3.
+
+(3) The exception in paragraph 1(b) shall not apply where—
+
+- (a) the development is EIA development; or
+- (b) the standing advice was issued more than 2 years before the date on which notification of the application was issued to the consultee and the guidance has not been amended or confirmed as being extant by the consultee in that period.
+
+(4) Where, the council or as the case may be, the Department is required by this Article to consult one or more consultee(s) before determining the application—
+
+- (a) it shall give notice of the application together with information specified under Article 15(4) to the consultee; and
+- (b) notwithstanding Article 8(1)(d) subject to paragraph (5), the council or, as the case may be, the Department shall not determine the application—
+  - (i) before 21 days after the date on which notice is given under sub-paragraph (a) and development is not EIA development,
+  - (ii) before 30[^key-d5c0e13c81fb008b7d137b6a838bd5d9] days where the development is EIA development, or
+  - (iii) any other date agreed in writing between the consultee and the council or, as the case may be, the Department in accordance with Article 15(2)(b),
+
+whichever is the latest.
+
+(5) Sub-paragraph (4)(b) does not apply if, before the end of the period referred to in that sub-paragraph the council or, as the case may be, the Department has received a substantive response required by virtue of paragraph (1) concerning the application from each consultee from whom a response was sought.
+
+(6) The council or, as the case may be, the Department shall, in determining the application, take into account any response from a consultee required by virtue of paragraph (1).
+
+## 14. Consultation before the grant of planning permission pursuant to section 54 of the 2011 Act
+
+(1) This Article applies in relation to an application made pursuant to section 54 of the 2011 Act.
+
+(2) Before granting planning permission for an application to which this Article applies, the council or, as the case may be, the Department must consult such consultees mentioned in Schedule 3 as the council or, as the case may be, the Department considers appropriate.
+
+## 15. Duty to respond to consultation
+
+(1) The requirements to consult which are prescribed for the purposes of section 229(2)(b) (duty to respond to consultation) of the 2011 Act are those contained in Articles 13, 14 and Schedule 3.
+
+(2) The period prescribed for the purposes of section 229(3)(a) of the 2011 Act, is—
+
+- (a) the period of 21 days , or 30 days in the case of an EIA application, in either case[^key-2771f030454b03e1fc247be3114fdc61] beginning with the day on which the council or, as the case may be, the Department is satisfied that it has supplied the statutory consultee with the information it believes necessary for the consultee to make a substantive response; or
+- (b) any other such period as may be agreed in writing between the consultee and the council or, as the case maybe, the Department.
+
+(3) The periods specified in paragraph (2) begin from the day on which such information pursuant to section 229(4)(b) of the 2011 Act is provided to the consultee and where such information is provided over more than one day, the last day on which such information is provided.
+
+(4) The information to be provided by the council or, as the case may be, the Department as pursuant to section 229(4)(b) of the 2011 Act is such information that the council or, as the case may be, the Department considers will enable the consultee to provide a substantive response.
+
+(5) For the purposes of this Article, a substantive response pursuant to section 229(4)(c) of the 2011 Act is one which—
+
+- (a) states that the consultee has no comment to make;
+- (b) states that, on the basis of the information available, the consultee is content with the development as proposed;
+- (c) refers the council or, as the case may be, the Department to current standing advice by the consultee on the subject of the consultation, subject to Article 13(3)(b); or
+- (d) provides advice to the council or, as the case may be, the Department to enable the determination of the application.
+
+## 16. Duty to respond to consultation: annual reports
+
+(1) Each consultee who is, by virtue of section 229 of the 2011 Act and Article 15, under a duty to respond to a consultation request shall give to the Department, not later than 1st July in each year, a report as to that consultee's compliance with section 229(3) of the 2011 Act.
+
+(2) The report shall relate to the period of 12 months commencing on 1st April in the preceding year (“the report year”).
+
+(3) The report shall contain, in respect of the report year—
+
+- (a) a statement as to the number of occasions on which the consultee was consulted by the council or, as the case may be, the Department pursuant to section 229 of the 2011 Act and Article 13;
+- (b) a statement as to the number of times a substantive response was given to the council or, as the case may be, the Department within the period referred to in Article 15(2)(a) and (b);
+- (c) in relation to occasions on which the consultee has given a substantive response outside any period referred to in Article 15(2)(a) and (b), a summary of the reasons why the consultee failed to comply with the duty to respond within those periods; and
+- (d) any other information as the Department may direct.
+
+## 17. Directions restricting the grant of planning permission
+
+The Department may give directions to a council restricting the grant of planning permission by a council, either indefinitely or during such period as may be specified in the direction, in respect of any development or any class of development, as may be so specified.
+
+## 18. Directions requiring information
+
+The Department may give directions requiring a council to give to the Department, and to such other persons as may be specified in the direction, such information as may be so specified with respect to applications for planning permission made to the council, including information as to the manner in which any such application has been dealt with.
+
+## 19. Directions requiring consideration of condition
+
+Pursuant to section 56(1)(b) (directions etc. as to method of dealing with applications) of the 2011 Act, the Department may give directions requiring a council, in respect of any such development, or in respect of development of any such class, as may be specified in the direction—
+
+- (a) to consider, where the council is minded to grant planning permission, imposing a condition specified in, or of a nature indicated in, the direction; and
+- (b) (unless the direction is withdrawn) not to grant planning permission without first satisfying the Department that such consideration has been given and that such a condition either will be imposed or need not be imposed.
+
+## 20. Time periods for decisions
+
+(1) Where an application is made to the council under Articles 3, 5 or 11 the council shall within the period specified in paragraph (2) give the applicant notice of its decision or determination or referral of the application to the Department under section 29 of the 2011 Act.
+
+(2) The period specified in this paragraph is—
+
+- (a) in the case of an application for planning permission for development within the category of major development, a period of 16 weeks beginning with the date when the application was received by the council;
+- (b) in any other case, 8 weeks beginning with the date when the application was received by the council; or
+- (c) except where the applicant has already given notice of appeal to the planning appeals commission under sections 58 (appeals) and 60 (appeal against failure to take planning decision) of the 2011 Act, such extended period as may be agreed in writing between the applicant and the council.
+
+(3) For the purposes of this Article, the date when the application was received shall be taken to be the date when each of the following events has occurred—
+
+- (a) the application in writing has been lodged with the council;
+- (b) any certificates or documents required by the 2011 Act have been lodged with the council; [^key-4dba21461e03869f53159a9c8648b397]...
+- (c) any fee required to be paid in respect of the application has been paid to the council ; and[^key-5d11251590f94deaf7a623d0a0ce87f3]
+- (d)[^key-39a40234bb61a31eb0c09ac33507225d] any direction made by the council under this Order specifying the validation particulars or verifying evidence which shall accompany the application has been complied with.
+
+(4) Where a request has been made to the Secretary of State for a certificate in respect of section 235(1) (national security) of the 2011 Act or the Department of Justice in respect of section 235(4) of the 2011 Act, the period specified in paragraph (2) of this Article shall begin on the date that the council is notified of that decision.
+
+## 21. Permission to develop land without compliance with conditions previously attached
+
+(1) Where an application under section 54 of the 2011 Act is made to the Department then for the purpose of considering representations made in respect of that application made under section 54 of the 2011 Act, the Department may cause a public local inquiry to be held by—
+
+- (a) the planning appeals commission; or
+- (b) a person appointed by the Department for the purpose.
+
+(2) Where a public local inquiry is not held under paragraph (1), the Department must, before determining the application, serve a notice in writing on the applicant and the appropriate council indicating the decision which it proposes to make on the application and, if within such period as may be specified in that behalf in the notice (not being less than 28 days from the date of service of the notice), the applicant or the council so requests in writing, the Department must afford to each of them an opportunity of appearing before and being heard by—
+
+- (a) the planning appeals commission; or
+- (b) a person appointed by the Department for the purpose.
+
+(3) In determining an application made in respect of which section 54 applies, the Department must, where any inquiry or hearing is held, take into account any report of the planning appeals commission or a person appointed by the Department for the purposes of the inquiry or hearing, as the case may be.
+
+(4) The decision of the Department on an application made in respect of which section 54 applies shall be final.
+
+## 22. Written notice of decision or determination relating to a planning application
+
+The council or, as the case may be, the Department shall give notice of a decision or determination in writing, and on an application for planning permission or for approval of reserved matters, where a permission or approval is granted subject to conditions or the application is refused, the notice shall state the reasons for the refusal or for any condition imposed.
+
+## 23. Schemes of delegation
+
+(1) Where an application is determined by an appointed officer, references to the council in the provisions specified in paragraph (2) are to be treated as references to that appointed officer.
+
+(2) The provisions are—
+
+- (a) Article 10;
+- (b) Article 13;
+- (c) Articles 17 to 19;
+- (d) Articles 20 and 22; and
+- (e) Schedule 3.
+
+## 24. Register of applications
+
+(1) Subject to paragraph (2), any register relating to matters referred to in section 242(1)(a) to (e) (planning register) of the 2011 Act shall contain the following information—
+
+- (a) a copy (which may be photographic) of each application together with copies of plans and drawings submitted in relation thereto and of any accompanying design and access statement provided in accordance with Article 6;
+- (b) the decision notice, if any, in respect of the application, including details of any conditions subject to which permission or consent was granted;
+- (c) the reference number, the date and effect of any decision of the planning appeals commission in respect of the application;
+- (d) brief details of any revocation or modification relating to any permission or consent, including date of issue.
+
+(2) Information as to—
+
+- (a) national security or the measures taken or to be taken to ensure the security of any premises or property; and
+- (b) which relates to the consideration by the council or, as the case may be, the Department of an application to which section 235 of the 2011 Act applies,
+
+shall not be included in the registers specified in paragraph (1).
+
+(3) Where an application is made to the Department, pursuant to section 26 (department's jurisdiction in relation to developments of regional significance) of the 2011 Act, the Department shall, as soon as reasonably practicable, send a copy of the application and of any accompanying plans, drawings and information to the council in whose district the land to which the application relates is situated.
+
+## 25. Register of simplified planning zones and enterprise zones
+
+The register of simplified planning zones and enterprise zones shall contain the following information—
+
+- (a) brief details of any action taken by the council or, as the case may be, the Department in accordance with sections 33 (simplified planning zones), 34 (making and alteration of simplified planning zone schemes), 35 (simplified planning zone schemes: conditions and limitations on planning permission), 36 (duration of simplified planning zone scheme), 37 (alteration of simplified planning zone scheme) and 38 (exclusion of certain descriptions of land or development) of the 2011 Act to make or alter any simplified planning zone scheme, including the date of adoption, the date on which the scheme or alteration becomes operative and the date on which it ceases to be operative;
+- (b) a copy of any simplified planning zone scheme, or alteration to an existing scheme including any documents which have been made available for inspection under Schedule 1 to the 2011 Act as applied by section 34(4) of that Act;
+- (c) map showing the boundary of any operative or proposed simplified planning zone scheme including any alterations to an existing scheme where appropriate;
+- (d) brief details of any action taken by the Department in accordance with Articles 3 to 5, 7, 8 and 10 to 13 of the Enterprise Order to designate or modify any areas as an enterprise zone including the date of adoption of any scheme or modification to a scheme prepared in relation to the development of that area;
+- (e) a copy of any scheme or modification to a scheme including documents which have been made available for inspection under Articles 3, 5, 8 and 10 of the Enterprise Order; and
+- (f) a map showing the boundary of any adopted or proposed scheme relating to an enterprise zone including modifications to an existing scheme where appropriate.
+
+## 26. Register of enforcement notices, etc.
+
+The register relating to matters referred to in section 242(1)(f), (g) and (k) of the 2011 Act shall contain the following information—
+
+- (a) the name and address of every person on whom notice is served in accordance with the relevant provisions of the 2011 Act, the address of the land to which the notice relates or a plan by reference to which its location can be ascertained;
+- (b) the date of issue of the notice;
+- (c) the date of service of copies of the notice and the date on which the notice is to take effect;
+- (d) a statement or summary of the breach of planning control or hazardous substances control alleged and the requirements of the notice, including the period within which any required steps are to be taken;
+- (e) the date of receipt of any appeal to the planning appeals commission and the date of final determination or withdrawal of any appeal, the appeal decision and any conditions imposed;
+- (f) the date of service and, if applicable, of withdrawal of any stop notice referring to an enforcement notice, together with a statement or summary of the activity prohibited by any such stop notice; and
+- (g) the date, if any, on which the council or, as the case may be, the Department is satisfied that steps required by the notice have been taken.
+
+## 27. Register of orders, directions and notices
+
+The register relating to matters contained in section 242(1)(h), (j) and (l) to (r) of the 2011 Act shall contain brief details of those orders and directions including the date of issue, any variation and any revocation or expiry as the case may be.
+
+## 28. Registers held using electronic storage
+
+Where a council uses electronic storage to keep the registers referred to in Articles 24 to 27 it may make the registers available for inspection by the public on a website maintained by the council for that purpose.
+
+## 29. Use of electronic communications
+
+(1) Paragraphs (2) to (4) apply where a person uses electronic communications for any of the following purposes—
+
+- (a) making an application for planning permission under Article 3;
+- (b) making an application for approval of reserved matters under Article 5;
+- (c) making an application for a certificate of lawfulness of existing use or development or a certificate of lawfulness of proposed use or development under Article 11;
+- (d) making a claim for compensation or serving a purchase notice under Article 30.
+
+(2) In a case to which this paragraph applies, and except where a contrary intention appears, the person making the application or claim or serving notice shall be taken to have agreed—
+
+- (a) to the use of electronic communications for all purposes relating to the application, claim or notice (as the case may be) which are capable of being effected using such communications;
+- (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the application, claim or notice; and
+- (c) that the person's deemed agreement under this paragraph shall subsist until that person gives notice in writing that he or she wishes to revoke the agreement and such withdrawal or revocation shall be final and shall take effect on a date specified by him or her in the notice but not less than seven days after the date on which the notice is given.
+
+(3) In Article 3—
+
+- (a) the requirement of paragraph (3)(a) that an application for planning permission shall be accompanied by a plan which identifies the land to which it relates shall be satisfied where the applicant identifies the land on an electronic map provided to the council or, as the case may be, the Department and for this purpose a map is taken to be provided where the council or, as the case may be, the Department has published it on its website; and
+- (b) the requirement of paragraph (3)(g) to submit 3 additional copies of the application, plans and drawings shall not apply.
+
+(4) In Article 5(c) the requirement to submit 3 additional copies of the form, plans and drawings shall not apply.
+
+## 30. Claims for compensation and purchase notices
+
+(1) A claim for compensation made to the council under section 185 (compensation for loss due to stop notice) or 187 (compensation for loss due to temporary stop notice) of the 2011 Act, or a purchase notice served on the council under section 191 (service of purchase notice) of the 2011 Act shall be in writing.
+
+(2) Any such claim or notice shall be served within 6 months or such longer period as the council may allow, from the date of the decision in respect of which the claim or notice is made or given.
+
+## 31. Directions
+
+Any power conferred by this Order to give a direction includes the power to cancel or vary the direction by a subsequent direction.
+
+## 32. Revocations
+
+The provisions specified in Schedule 4 are hereby revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 25th February 2015.
+
+Angus Kerr
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — Certificates and Notices under section 42
+
+Article 9
+
+### PART 1 — Certificates under section 42
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_001)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_002)
+
+### PART 2 — Planning Applications - Notices under section 42
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_003)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_004)
+
+### PART 3 — Planning Appeals – Notices under section 42
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_005)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_006)
+
+## SCHEDULE 2 — PLANNING ACT (NOTHERN IRELAND) 2011: SECTIONS 169 AND 170
+
+Article 11
+
+[image: see source](https://www.legislation.gov.uk/nisr/2015/72/images/nisr_20150072_en_sld_007)
+
+## SCHEDULE 3[^key-8c3832289d732fca7b1cf4f0029cb320]
+
+Article 13
+
+### PART 1 — Consultation where an application for planning permission is to be determined by a council
+
+Subject to Article 13, the council must before determining an application for planning permission for development consult a person, authority or body mentioned in a paragraph below in the circumstances specified in that paragraph.
+
+**1.** The Department for Communities where a development proposal—
+
+- (a) involves the demolition, in whole or part, or the material alteration of a listed building;
+- (b) is likely to affect the site or setting of any historic monument as defined under Article 2 of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995 or an area which contains archaeological remains or the setting of a listed building or historic park, garden or demesne.
+
+**2.** The Department of Agriculture, Environment and Rural Affairs where a development proposal—
+
+- (a) is likely to have an adverse effect on a Northern Ireland priority habitat or priority species;
+- (b) is in or likely to have an effect on an area of special scientific interest, a Natura 2000 site or a World Heritage Site;
+- (c) involves fish farming;
+- (d) involves the refining or storing of mineral oils and their derivatives;
+- (e) involves the use of land for the collection, storage, treatment and/or deposit of controlled waste materials and/or gaseous/solid outputs from the process;
+- (f) relates to the use of land as a cemetery;
+- (g) relates to mineral or hydrocarbon extraction or commercial peat extraction;
+- (h) involves the development of land that may be affected by contamination and is causing or has potential to cause pollution of the water environment;
+- (i) involves energy generation which is likely to have an effect on the environment;
+- (j) relates to the use of land which may have an effect on the water environment including–
+  - (i) development adjacent to watercourses, lakes or estuaries,
+  - (ii) development involving the deep drilling of boreholes or an abstraction of groundwater or surface-water, or
+  - (iii) development that creates an impoundment, culvert, diversion or alteration of a waterway;
+- (k) involves the use of land where mains sewerage may not be available or have capacity to service the development proposal;
+- (l) is likely to have an effect upon the availability or water quality of a private water supply;
+- (m) involves the use of land for industrial processes including the processing, storing or distribution of hazardous substances or intensive livestock activities; or
+- (n) involves the use of land likely to have an effect on the marine environment.
+
+**3.** The Health and Safety Executive for Northern Ireland—
+
+- (a) where the development is within an area which has been notified to the Department by the Health and Safety Executive for Northern Ireland for consultation because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances and which are present and which involves the provision of—
+  - (i) residential accommodation,
+  - (ii) more than 250 square metres of retail floor space,
+  - (iii) more than 500 square metres of office space, or
+  - (iv) more than 500 square metres to be used for an industrial process,
+
+  or which is otherwise likely to result in a major increase in the number of persons working in or visiting the notified area; or
+- (b) where the development—
+  - (i) involves the siting of new establishments,
+  - (ii) consists of the modification of existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-8b6214bdc0bbdf92f697ec26def8a462]
+  - (iii) involves new developments including transport routes, locations of public use and residential areas in the vicinity of establishments, where the siting or development may be the source of or increase the risk or consequences of a major accident.
+
+**4.** The Department for Infrastructure where a development proposal—
+
+- (a) involves the formation, laying out or alteration of any means of access, or is likely to create or attract traffic which may result in a material increase in the volume of traffic—
+  - (i) entering or leaving a road,
+  - (ii) using a level crossing over a railway, or
+  - (iii) which would result in an additional demand for car parking, or loss of or alteration to existing car parking;
+- (b) consists of or includes the laying out or construction of a new street;
+- (c) is likely to prejudice the improvement or construction of a road or proposed road;
+- (d) involves power lines which cross a road;
+- (e) involves the installation of a structure over or under a road;
+- (f) is a reserved matters application where an outline planning permission includes roads conditions;
+- (g) is likely to impact upon drainage and/or flood defence provisions;
+- (h) is—
+  - (i) on a riverine or coastal flood plain, or
+  - (ii) beyond flood plains on land with a known history of flooding;
+- (i) may affect a flood bank or other flood control structure;
+- (j) is likely to involve the alteration or diversion of a watercourse;
+- (k) is of a size or nature that could significantly increase surface runoff; or
+- (l) is where a reserved matters application which was made subject to an outline planning condition or informative applied following the consideration of a previous consultation response from the Department for Infrastructure.
+
+**5.** The Department for Infrastructure or water undertaker as defined under Article 13 of the Water and Sewerage Services (Northern Ireland) Order 2006, shall be consulted where a development proposal is likely to significantly impact upon the availability of suitable water and sewerage infrastructure to service development proposals.
+
+**6.** Licensed aerodromes where a development proposal—
+
+- (a) is within an area identified as a potential hazard on an airport safeguarding map submitted by a licensed aerodrome; or
+- (b) is for wind turbine development within 30 kilometres of a licensed aerodrome.
+
+**7.** The Department for the Economy on the following—
+
+- (a) all energy infrastructure applications classed as major development;
+- (b) all mineral applications; or
+- (c) all applications for hydrocarbon exploration or extraction.
+
+**8.** The Northern Ireland Housing Executive where a development proposal is likely to require a statement of affordable housing need.
+
+### PART 2 — Consultation where an application for planning permission is to be determined by the Department
+
+Subject to Article 13, the Department must before determining an application for planning permission consult a person, authority or body mentioned in a paragraph below in the circumstances specified in that paragraph.
+
+**1.** The appropriate council.
+
+**2.** The Department for Communities where a development proposal—
+
+- (a) involves the demolition, in whole or in part, or the material alteration of a listed building;
+- (b) is likely to affect the site or setting of any historic monument as defined under Article 2 of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995 or an area which contains archaeological remains or the setting of a listed building or historic park or demesne.
+
+**3.** The Department of Agriculture, Environment and Rural Affairs where a development proposal—
+
+- (a) is likely to have an adverse effect on a Northern Ireland priority habitat or priority species;
+- (b) is in or likely to have an effect on an area of special scientific interest, a Natura 2000 site or a World Heritage Site;
+- (c) involves fish farming;
+- (d) involves the refining or storing of mineral oils and their derivatives;
+- (e) involves the use of land for the collection, storage, treatment and/or deposit of controlled waste materials and/or gaseous/solid outputs from the process;
+- (f) relates to the use of land as a cemetery;
+- (g) relates to mineral or hydrocarbon extraction or commercial peat extraction;
+- (h) involves the development of land that may be affected by contamination and is causing or has potential to cause pollution of the water environment;
+- (i) involves energy generation which is likely to have an effect on the environment;
+- (j) relates to the use of land which may have an effect on the water environment including–
+  - (i) development adjacent to watercourses, lakes or estuaries,
+  - (ii) development involving the deep drilling of boreholes or an abstraction of groundwater or surface-water, or
+  - (iii) development that creates an impoundment, culvert, diversion or alteration of a waterway;
+- (k) involves the use of land where mains sewerage may not be available or have capacity to service the development proposal;
+- (l) is likely to have an effect upon the availability or water quality of a private water supply;
+- (m) involves the use of land for industrial processes including the processing, storing or distribution of hazardous substances or intensive livestock activities; or
+- (n) involves the use of land likely to have an effect on the marine environment.
+
+**4.** The Health and Safety Executive for Northern Ireland—
+
+- (a) where a development proposal is within an area which has been notified to the Department by the Health and Safety Executive for Northern Ireland for consultation because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances and which are present and which involves the provision of—
+  - (i) residential accommodation,
+  - (ii) more than 250 square metres of retail floor space,
+  - (iii) more than 500 square metres of office space, or
+  - (iv) more than 500 square metres to be used for an industrial process,
+
+  or which is otherwise likely to result in a major increase in the number of persons working in or visiting the notified area; or
+- (b) where the development—
+  - (i) involves the siting of new establishments,
+  - (ii) consists of the modification of existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-4580cb89647e9373b8e6543912b8acde]
+  - (iii) involves new developments including transport routes, locations of public use and residential areas in the vicinity of establishments, where the siting or development may be the source of or increase the risk or consequences of a major accident.
+
+**5.** A water undertaker as defined under Article 13 of the Water and Sewerage Services (Northern Ireland) Order 2006, shall be consulted where a development proposal is likely to significantly impact upon the availability of suitable water and sewerage infrastructure to service development proposals.
+
+**6.** Licensed aerodromes where a development proposal—
+
+- (a) is within an area identified as a potential hazard on an airport safeguarding map submitted by a licensed aerodrome; or
+- (b) is for wind turbine development within 30 kilometres of the licensed aerodrome.
+
+**7.** The Department for the Economy on the following—
+
+- (a) all energy infrastructure applications classed as major development;
+- (b) all mineral applications; or
+- (c) all applications for hydrocarbon exploration or extraction.
+
+**8.** The Northern Ireland Housing Executive where a development proposal is likely to require a statement of affordable housing need.
+
+## SCHEDULE 4 — Orders Revoked
+
+Article 32
+
+| *Title* | *Reference* |
+| --- | --- |
+| The Planning (General Development) Order (Northern Ireland) 1993 | S.R. 1993 No. 278 |
+| The Planning (General Development) (Amendment No. 2) Order (Northern Ireland) 1995 | S.R. 1995 No. 424 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 1996 | S.R. 1996 No. 232 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 1998 | S.R. 1998 No. 222 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2000 | S.R. 2000 No. 113 |
+| The Planning (General Development) )Amendment) Order (Northern Ireland) 2002 | S.R. 2002 No. 195 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2003 | S.R. 2003 No. 98 |
+| The Planning (General Development) (Amendment No. 2) Order (Northern Ireland) 2003 | S.R. 2003 No. 445 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2004 | S.R. 2004 No. 459 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2005 | S.R. 2005 No. 427 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2006 | S.R. 2006 No. 219 |
+| The Planning (General Development) (Amendment No. 2) Order (Northern Ireland) 2006 | S.R. 2006 No. 348 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2007 | S.R. 2007 No. 106 |
+| The Planning (General Development) (Amendment No. 2) Order (Northern Ireland) 2007 | S.R. 2007 No. 432 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2011 | S.R. 2011 No. 75 |
+| The Planning (General Development) (Amendment No. 2) Order (Northern Ireland) 2011 | S.R. 2011 No. 404 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2012 | S.R. 2012 No. 329 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2013 | S.R. 2013 No. 96 |
+| The Planning (General Development) (Amendment No. 2) Order (Northern Ireland) 2013 | S.R. 2013 No. 210 |
+| The Planning (General Development) (Amendment) Order (Northern Ireland) 2014 | S.R. 2014 No. 31 |
+
+*(This note is not part of the Order)*
+
+This Order revokes the Planning (General Development) Order (Northern Ireland) 1993 (“**the 1993 Order**”) and subsequent amendment orders.
+
+The main purpose of this Order is to permit the management of development within a new two tier planning system with both councils and the Department operating as planning authorities where appropriate.
+
+Many of the development management functions from the 1993 Order are replicated in this Order, but there are also new provisions that relate to either the operation of the two tier system or that implement the reforms introduced by the Planning Act (Northern Ireland) 2011, (“**the 2011 Act**”).
+
+This Order relates purely to development management, those provisions in the 1993 Order that dealt with permitted development have been moved and can now be found in a separate permitted development order.
+
+A regulatory impact assessment has been prepared in relation to this Order. A copy may be obtained from the Department of the Environment, Causeway Exchange, 1-7 Bedford Street, Town Parks, Belfast, BT2 7EG or accessed at www.doeni.gov.uk.
+
+The Explanatory Memorandum is available alongside the Order on the government's website www.legislation.gov.uk.
+
+## Annotations
+
+[^c22403151]: Marginal citation: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^c22403161]: Marginal citation: [S.I. 1985/170 (N.I.1)](https://www.legislation.gov.uk/nisi/1985/170)
+
+[^c22403171]: Marginal citation: [S.I. 2002/3153 (N.I.7)](https://www.legislation.gov.uk/nisi/2002/3153)
+
+[^key-90dca894931a096dd6a6e6d1f696d25f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/2/a)
+
+[^c22403181]: Marginal citation: S.R. [2015 No.74](https://www.legislation.gov.uk/ukcm/2015/74)
+
+[^c22403191]: Marginal citation: [S.I. 1981/607 (N.I.15)](https://www.legislation.gov.uk/nisi/1981/607)
+
+[^c22403201]: Marginal citation: S.R. [2015 No.73](https://www.legislation.gov.uk/ukcm/2015/73)
+
+[^c22403211]: Marginal citation: S.R. [2015 No.61](https://www.legislation.gov.uk/ukcm/2015/61)
+
+[^key-2bb7cd4b1b7576adb1297389a7fe730b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 14](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/14) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+
+[^c22403231]: Marginal citation: S.R. [2015 No.71](https://www.legislation.gov.uk/ukcm/2015/71)
+
+[^c22403241]: Marginal citation: S.R. [1995 No.380](https://www.legislation.gov.uk/ukcm/1995/380)
+
+[^key-b23a188e8676cc7c7d7b2df9eff96477]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/72/article/2/1) substituted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/2/b)
+
+[^c22403251]: Marginal citation: [1993 No. 3160](https://www.legislation.gov.uk/ukcm/1993/3160) (N.I. 15)
+
+[^c22403261]: Marginal citation: See Command Paper 9424
+
+[^key-885bd3f0259d3f0ec656e0f7a9f8c11f]: Textual amendment: Word in [art. 3(3)(h)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/h) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/a)
+
+[^key-22d388f953de50bae9ae59ef6919d39b]: Textual amendment: Words in [art. 3(3)(i)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/i) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/b)
+
+[^key-218daed02a99bae0fd58523c927d2a2c]: Textual amendment: [Art. 3(3)(j)](https://www.legislation.gov.uk/nisr/2015/72/article/3/3/j) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/3/c)
+
+[^key-16d80d8a11a389b36a6f12212a479c7f]: Textual amendment: Word in [art. 5(b)](https://www.legislation.gov.uk/nisr/2015/72/article/5/b) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/a)
+
+[^key-78871b86b946cc56a0728ea93594360b]: Textual amendment: Words in [art. 5(c)](https://www.legislation.gov.uk/nisr/2015/72/article/5/c) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/b)
+
+[^key-88b0d1be0bddce78ee2059b20fb11ac6]: Textual amendment: [Art. 5(d)](https://www.legislation.gov.uk/nisr/2015/72/article/5/d) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/4/c)
+
+[^key-3867feb3bff97ea40c112e197374746b]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisr/2015/72/article/5A) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2024/176/article/2/5)
+
+[^c22403271]: Marginal citation: S.R. [2015 No.70](https://www.legislation.gov.uk/ukcm/2015/70)
+
+[^key-f7f3c32aa7955cf15b0d90ca4c3ee289]: Textual amendment: [Arts. 12A](https://www.legislation.gov.uk/nisr/2015/72/article/12A), [12B](https://www.legislation.gov.uk/nisr/2015/72/article/12B) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(6)](https://www.legislation.gov.uk/nisr/2024/176/article/2/6)
+
+[^key-d5c0e13c81fb008b7d137b6a838bd5d9]: Textual amendment: Word in [art. 13(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/72/article/13/4/b/ii) substituted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(7)](https://www.legislation.gov.uk/nisr/2024/176/article/2/7)
+
+[^key-2771f030454b03e1fc247be3114fdc61]: Textual amendment: Words in [art. 15(2)(a)](https://www.legislation.gov.uk/nisr/2015/72/article/15/2/a) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(8)](https://www.legislation.gov.uk/nisr/2024/176/article/2/8)
+
+[^key-4dba21461e03869f53159a9c8648b397]: Textual amendment: Word in [art. 20(3)(b)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/b) omitted (1.4.2025) by virtue of [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/a)
+
+[^key-5d11251590f94deaf7a623d0a0ce87f3]: Textual amendment: Words in [art. 20(3)(c)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/c) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/b)
+
+[^key-39a40234bb61a31eb0c09ac33507225d]: Textual amendment: [Art. 20(3)(d)](https://www.legislation.gov.uk/nisr/2015/72/article/20/3/d) inserted (1.4.2025) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/176)](https://www.legislation.gov.uk/nisr/2024/176), [arts. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2024/176/article/2/9/c)
+
+[^key-8c3832289d732fca7b1cf4f0029cb320]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2015/72/schedule/3) substituted (9.5.2016) by [The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/115)](https://www.legislation.gov.uk/nisr/2016/115), [arts. 1](https://www.legislation.gov.uk/nisr/2016/115/article/1), [2](https://www.legislation.gov.uk/nisr/2016/115/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/115/schedule)
+
+[^key-8b6214bdc0bbdf92f697ec26def8a462]: Textual amendment: Words in Sch. 3 Pt. 1 para. 3(b)(ii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4580cb89647e9373b8e6543912b8acde]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2015/72/schedule/3/paragraph/4/b/ii) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

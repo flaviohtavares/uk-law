@@ -1,0 +1,303 @@
+---
+title: The Police Service of Northern Ireland (Promotion) Regulations 2008
+id: nisr/2008/477
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-12-01'
+text_date: '2016-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/477
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/477/pdfs/nisrem_20080477_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/477/pdfs/nisr_20080477_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/477/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Service of Northern Ireland (Promotion) Regulations 2008
+
+> Text as at 2016-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 477
+
+POLICE
+
+The Police Service of Northern Ireland (Promotion) Regulations 2008
+
+Made
+
+1st December 2008
+
+To be laid before Parliament
+
+Coming into operation
+
+31st December 2008
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 25 and 72(2) of the Police (Northern Ireland) Act 1998[^f00001]. In accordance with section 25(8) of that Act he has consulted the Northern Ireland Policing Board and the Police Association for Northern Ireland before making these Regulations.
+
+## 1. Citation and Commencement[^key-18e5b2f46ac713f66ba54524878e6043]
+
+These Regulations may be cited as the Police Service of Northern Ireland (Promotion) Regulations 2008 and shall come into operation on 31st December 2008.
+
+## 2. Interpretation[^key-48ea71918045d81c696a53399905b99e]
+
+In these Regulations—
+
+- “the 1995 Regulations” means the Royal Ulster Constabulary (Promotion) Regulations 1995[^f00002];
+- “examinations agency” means such body or persons as may be appointed by the Chief Constable for the purposes of these Regulations;
+- “examinations board” means the board appointed by the Chief Constable for the purposes of these Regulations;
+- “FT Programme” has the same meaning as in the Police (Promotion) Regulations 1996;[^key-46868bc502b0c498300184deee1f095b]
+- “HPD Scheme” has the same meaning as in the Police (Promotion) Regulations 1996[^f00003];
+- “member” means a member of the Police Service of Northern Ireland;
+- “qualifying assessment” means an assessment recognised by the Chief Constable for use in the FT Programme;
+- “selection examination for promotion to the rank of sergeant” and “selection examination for promotion to the rank of inspector” have the meanings assigned to them by paragraph 1(1) of the Schedule.
+
+## 3. Revocation and Transitional Provisions[^key-5f0e042eb2a221b053ca30a3b10d72c3]
+
+(1) The 1995 Regulations are revoked.
+
+(2) This paragraph applies to any member who—
+
+- (a) immediately before the coming into operation of these Regulations—
+  - (i) is qualified for promotion to the rank of sergeant; and
+  - (ii) has not been promoted to that rank; or
+- (b) passes the qualifying examination for promotion to the rank of sergeant held in 2008 under the 1995 Regulations and is otherwise qualified for promotion to the rank of sergeant.
+
+(3) A member to whom paragraph (2) applies may be promoted to sergeant during the period ending on 31st December 2010 without undertaking a selection examination for promotion to that rank.
+
+(4) This paragraph applies to any member who—
+
+- (a) immediately before the coming into operation of these Regulations—
+  - (i) is qualified for promotion to the rank of inspector;
+  - (ii) has not been promoted to that rank; or
+- (b) passes the qualifying examination for promotion to the rank of inspector held in 2008 under the 1995 Regulations and is otherwise qualified for promotion to the rank of inspector.
+
+(5) A member to whom paragraph (4) applies may be selected for promotion to the rank of inspector during the period ending on 31st December 2010 without undertaking a selection examination for promotion to that rank.
+
+## 4. Qualifications for Promotion[^key-7e00b9002cff4b8107421716e5e36142]
+
+(1) Subject to paragraph (2A), a constable (“C”)[^key-5ec8ad73f3aaf20fcdf9323894d5b144] to be qualified for promotion to the rank of sergeant shall have completed C’s probationary period in the rank of constable.
+
+(2) Subject to paragraph (2B), a sergeant (“S”)[^key-90df8ff5672625858059d7b6b526a500] to be qualified for promotion to the rank of inspector shall have completed S’s probationary period in the rank of sergeant.
+
+(2A)[^key-a36fb2b149b42f568b3c775feb1d353e] A constable participating in the FT Programme is qualified for promotion to the rank of sergeant if he has obtained a pass in the qualifying assessment for promotion to the rank of sergeant.
+
+(2B) A sergeant participating in the FT Programme is qualified for promotion to the rank of inspector if he has obtained a pass in the qualifying assessment for promotion to the rank of inspector (including where part of that pass was obtained whilst the sergeant held the rank of constable, in accordance with paragraph 5(2B) of the Schedule).
+
+(3) Subject to paragraph (4), in this Regulation—
+
+- (a) “probationary period in the rank of constable” means the period determined under Regulation 12 of the Police Service of Northern Ireland Regulations 2005[^f00004];
+- (b) “probationary period in the rank of sergeant” means the period provided for in Regulation 6(1).
+
+(4) Previous service in a police force in Great Britain or the Isle of Man Constabulary,
+
+which constituted probationary service in the force or constabulary in question shall count for the purposes of this Regulation.
+
+## 5. Selection for promotion[^key-2638c4f734d910e0a1a8f125428c7edd]
+
+(1) Subject to Regulation 8, promotion from one rank to another rank shall be by selection.
+
+(2) Each selection process for promotion to the rank of sergeant shall include a selection examination for promotion to that rank.
+
+(3) Each selection process for promotion to the rank of inspector shall include a selection examination for promotion to that rank.
+
+(4) The Schedule has effect in relation to selection examinations for promotion to the rank of sergeant, and selection examinations for promotion to the rank of inspector.
+
+## 6. Probationary period[^key-733e125a2bfa18eb510d724bd7e38b69]
+
+(1) Subject to paragraph (2) a member who is promoted—
+
+- (a) to the rank of sergeant; or
+- (b) to the rank of inspector,
+
+shall be on probation in the rank to which the member is promoted for a period of one year or for such longer period as the Chief Constable may determine in the circumstances of a particular case.
+
+(2) The Chief Constable may reduce—
+
+- (a) a sergeant to the rank of constable; or
+- (b) an inspector to the rank of sergeant,
+
+at any time during the member’s period of probation if the Chief Constable considers that the member is not likely to perform satisfactorily the duties of sergeant, or inspector, as the case may be.
+
+## 7. Temporary promotion[^key-f15df2c8ed41dbc679a2d86b28bd64c5]
+
+(1) A member who is required to perform the duties of a higher rank may be promoted temporarily to that rank by the Chief Constable.
+
+(2) This regulation shall not apply to a deputy Chief Constable required to perform the duties of the Chief Constable.
+
+## 8. High Potential Development Scheme[^key-534d4395724749343d76e984117994d7]
+
+(1) A constable (“C”) who—
+
+- (a) is qualified under regulation 4 for promotion to the rank of sergeant; and
+- (b) is participating in the HPD scheme,
+
+shall be promoted to the rank of sergeant as soon as the Chief Constable determines that C is competent to perform the duties of a sergeant.
+
+(2) A sergeant (“S”) who—
+
+- (a) is qualified under regulation 4 for promotion to the rank of inspector; and
+- (b) is participating in the HPD scheme,
+
+shall be promoted to the rank of inspector as soon as the Chief Constable determines that S is competent to perform the duties of an inspector.
+
+(3) An inspector (“I”) who is participating in the HPD scheme,
+
+shall be promoted to the rank of chief inspector as soon as the Chief Constable determines that I is competent to perform the duties of a chief inspector.
+
+(4) Promotion under paragraphs (1), (2) or (3)—
+
+- (a) shall take place whether or not there is a vacancy for the rank in question; and
+- (b) does not affect any existing or subsequent vacancy unless the person promoted is designated to fill it.
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+1st December 2008
+
+## SCHEDULE
+
+Regulations 2 and 5(4)
+
+### 1. Selection Examinations[^key-51f5cf409316e0778a6f71940e26b26c]
+
+(1) The selection examinations referred to in this Schedule are examinations held under arrangements approved by the examinations board, on syllabuses prepared by the examinations agency in consultation with the examinations board.
+
+(2) Each of the selections examinations shall comprise—
+
+- (a) Part I — a written paper; and
+- (b) Part II — practical tests,
+
+and subject to subparagraphs (3) and (4) Part II of a selection examination may be taken only if a pass has been obtained in Part I.
+
+(3) A constable who has obtained a pass in Part I of the qualifying examination for promotion to the rank of sergeant held under the 1995 Regulations may take Part II of the first selection examination to be held under these Regulations without obtaining a pass in Part I of that selection examination.
+
+(4) A sergeant who has obtained a pass in Part I of the qualifying examination for promotion to the rank of sergeant held under the 1995 Regulations may take Part II of the first selection examination to be held under these Regulations without obtaining a pass in Part I of that examination.
+
+(5) The examinations agency shall arrange each part of the selection examination for promotion to the rank of sergeant when requested to do so by the Chief Constable.
+
+(6) The examinations agency shall arrange each part of the selection examination for promotion to the rank of inspector when requested to do so by the Chief Constable.
+
+### 2.[^key-0addec60da156ff331a419d4be9e6ec4]
+
+The examinations board shall determine in consultation with the examinations agency—
+
+- (a) the standard to be achieved by a candidate in order to obtain a pass in any part of a selection examination; and
+- (b) the circumstances in which a member who has failed in Part II of a selection examination may attempt it a second time without again obtaining a pass in Part I.
+
+### 3.[^key-0374a62513b8e1b5b907eccd643bd845]
+
+The examination papers and practical tests shall be set and marked, in accordance with arrangements made by the examinations agency, by examiners appointed by them with the approval of the examinations board.
+
+### 4.[^key-6d5f94fb987eba1a0c341d43e2cbd747]
+
+The examinations board shall ensure that the Chief Constable is duly notified—
+
+- (a) of the dates on which examinations are proposed to be held and the general arrangements for such examinations;
+- (b) of the closing dates for the submission to them of the names of candidates for those examinations; and
+- (c) of the results of the examinations in so far as they affect any member.
+
+### 5.[^key-032fd8db5b32df4ece360c1a746dc9de]
+
+(1) Subject to sub-paragraphs (2) ,(2A)[^key-8fcaa43018d83751edf98772bd3e70ae] and (3) a constable who will on the date the examination is held have completed his probationary service will be eligible to take Part I of the selection examination for promotion to the rank of sergeant and a sergeant who will on the date the examination is held have completed his probationary period in the rank of sergeant will be eligible to take Part I of the selection examination for the rank of inspector.
+
+(2) A constable on probation who is participating in the HPD Scheme is eligible to take Part 1 of the selection examination for promotion to the rank of sergeant.
+
+(2A)[^key-a1a74c83465a4b2edf0b1d213d352be5] A constable participating in the FT Programme is eligible to take Part 1 of the qualifying assessment for promotion to the rank of sergeant.
+
+(2B)[^key-e32ff260b97bc8ddabbe5439371012c8] A constable participating in the FT Programme is eligible to take Part 1 of the qualifying assessment for promotion to the rank of inspector.
+
+(3) A sergeant on probation who is participating in the HPD Scheme is eligible to take Part 1 of the selection examination for promotion to the rank of inspector.
+
+(4)[^key-f408d8592ca479aa680016b6d8d78857] A sergeant participating in the FT Programme is eligible to take Part 1 of the qualifying assessment for promotion to the rank of inspector.
+
+### 6.[^key-17ac1d77898b5378f16de9e59b9b50f2]
+
+Notwithstanding that a candidate is eligible to take a selection examination, the examinations board may exclude that candidate from that examination or, in an appropriate case, may deem that candidate to have withdrawn from that examination, if—
+
+- (a) the candidature of that candidate for that examination has not been submitted to the examinations board before the closing date mentioned in paragraph 4(b); or
+- (b) that candidate fails to comply with the general or other arrangements made or approved by the examinations board or with the requirements of the examination agency.
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Royal Ulster Constabulary (Promotion) Regulations 1995 ([S.R. 1995/120](https://www.legislation.gov.uk/nisr/1995/120)) (“the 1995 Regulations”).
+
+Under the 1995 Regulations a constable or sergeant to be qualified for promotion to sergeant or inspector respectively had to obtain a pass in the qualifying examination for promotion to that rank. Under these Regulations there will no longer be qualifying examinations. Instead examinations for promotion to sergeant or inspector will form part of each selection process. Regulation 3 enables those who are qualified for promotion under the 1995 Regulations and those who pass the qualifying examination held in 2008 to be selected for promotion until 31 December 2010 without undertaking a new selection examination.
+
+Regulation 4 provides that to be qualified for promotion to sergeant a constable must have completed his probationary period and a sergeant, to be qualified for promotion to inspector must have completed his probationary period in the rank of sergeant.
+
+Regulation 5 provides that promotion from one rank to another shall be by selection. Each selection process for promotion to sergeant or inspector shall include a selection examination.
+
+Regulation 6 provides that members promoted to sergeant or inspector must serve a probationary period in the promoted rank. If the Chief Constable considers that a probationary sergeant or inspector is unlikely to perform the duties of the rank satisfactorily he may reduce the rank of the member concerned.
+
+Regulation 7 permits the Chief Constable to promote a member temporarily. This power does not extend to a deputy chief constable temporarily promoted to Chief Constable.
+
+Regulation 8 allows members participating in the High Potential Development Scheme to be promoted to the ranks of sergeant, inspector, and chief inspector as soon as the Chief Constable determines that they are competent to carry out the duties of that rank irrespective of vancancies.
+
+The Schedule makes further provision about selection examinations for promotion to sergeant and inspector.
+
+## Annotations
+
+[^f00001]: Footnote: [c. 32](https://www.legislation.gov.uk/ukpga/1998/32); relevant amendments to section 25 were made by the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32) Schedule 6, Paragraph 23(1) and (2)(a) and (b)
+
+[^key-18e5b2f46ac713f66ba54524878e6043]: Commencement: Reg. 1 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-48ea71918045d81c696a53399905b99e]: Commencement: Reg. 2 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^f00002]: Footnote: [S.R. 1995/120](https://www.legislation.gov.uk/nisr/1995/120)
+
+[^key-46868bc502b0c498300184deee1f095b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/477/regulation/2) inserted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/413/regulation/3)
+
+[^f00003]: Footnote: S.I. [1996/685](https://www.legislation.gov.uk/uksi/1996/685), amended by S.I. [2002/767](https://www.legislation.gov.uk/uksi/2002/767); there are other amending instruments but none is relevant
+
+[^key-5f0e042eb2a221b053ca30a3b10d72c3]: Commencement: Reg. 3 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-7e00b9002cff4b8107421716e5e36142]: Commencement: Reg. 4 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-5ec8ad73f3aaf20fcdf9323894d5b144]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/477/regulation/4/1) substituted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/413/regulation/4/a)
+
+[^key-90df8ff5672625858059d7b6b526a500]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2008/477/regulation/4/2) substituted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2016/413/regulation/4/b)
+
+[^key-a36fb2b149b42f568b3c775feb1d353e]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/nisr/2008/477/regulation/4/2A)[(2B)](https://www.legislation.gov.uk/nisr/2008/477/regulation/4/2B) inserted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2016/413/regulation/4/c)
+
+[^f00004]: Footnote: [S.R. 2005/547](https://www.legislation.gov.uk/nisr/2005/547)
+
+[^key-2638c4f734d910e0a1a8f125428c7edd]: Commencement: Reg. 5 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-733e125a2bfa18eb510d724bd7e38b69]: Commencement: Reg. 6 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-f15df2c8ed41dbc679a2d86b28bd64c5]: Commencement: Reg. 7 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-534d4395724749343d76e984117994d7]: Commencement: Reg. 8 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-51f5cf409316e0778a6f71940e26b26c]: Commencement: Sch. para. 1 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-0addec60da156ff331a419d4be9e6ec4]: Commencement: Sch. para. 2 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-0374a62513b8e1b5b907eccd643bd845]: Commencement: Sch. para. 3 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-6d5f94fb987eba1a0c341d43e2cbd747]: Commencement: Sch. para. 4 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-032fd8db5b32df4ece360c1a746dc9de]: Commencement: Sch. para. 5 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)
+
+[^key-8fcaa43018d83751edf98772bd3e70ae]: Textual amendment: Word in [Sch. para. 5(1)](https://www.legislation.gov.uk/nisr/2008/477/schedule/paragraph/5/1) inserted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2016/413/regulation/5/a)
+
+[^key-a1a74c83465a4b2edf0b1d213d352be5]: Textual amendment: [Sch. para. 5(2A)](https://www.legislation.gov.uk/nisr/2008/477/schedule/paragraph/5/2A) inserted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2016/413/regulation/5/b)
+
+[^key-e32ff260b97bc8ddabbe5439371012c8]: Textual amendment: [Sch. para. 5(2B)](https://www.legislation.gov.uk/nisr/2008/477/schedule/paragraph/5/2B) inserted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2016/413/regulation/5/c)
+
+[^key-f408d8592ca479aa680016b6d8d78857]: Textual amendment: [Sch. para. 5(4)](https://www.legislation.gov.uk/nisr/2008/477/schedule/paragraph/5/4) inserted (31.12.2016) by [The Police Service of Northern Ireland (Promotion) (Amendment) Regulations 2016 (S.R. 2016/413)](https://www.legislation.gov.uk/nisr/2016/413), [regs. 1](https://www.legislation.gov.uk/nisr/2016/413/regulation/1), [5(d)](https://www.legislation.gov.uk/nisr/2016/413/regulation/5/d)
+
+[^key-17ac1d77898b5378f16de9e59b9b50f2]: Commencement: Sch. para. 6 in operation at 31.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/477/regulation/1)

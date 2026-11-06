@@ -1,0 +1,298 @@
+---
+title: Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996
+id: nisr/1996/145
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1996-04-02'
+text_date: '1996-04-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/145
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/145/data.pdf
+pending_changes: 148
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996
+
+> **Warning: changes not yet applied to this text (148).** Text as at 1996-04-02. See https://www.legislation.gov.uk/changes/affected/nisr/1996/145
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1996 No. 145
+
+EUROPEAN COMMUNITIES
+
+ROAD TRAFFIC AND VEHICLES
+
+Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996
+
+Made
+
+2nd April 1996
+
+Coming into operation
+
+3rd June 1996
+
+The Department of the Environment, being a department designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to the regulation and supervision of working conditions of persons engaged in road transport and the regulation of the type, description, construction or equipment of vehicles, in exercise of the powers conferred by that section, and in exercise of the powers conferred on it by section 56(1) and (5) of the Finance Act 1973[^f00003] and by Articles 56(5), 58(1), 63, 83(1) and 218(1) of the Road Traffic Order (Northern Ireland) 1981[^f00004], and of every other power enabling it in that behalf, and with the consent of the Department of Finance and Personnel[^f00005] as regards regulation 9, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-829ddd06bbd1d7154a7abe37f90b65c1]
+
+These Regulations may be cited as the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
+
+## 2. Interpretation[^key-0cce43ea5cc500ddd1e28a9f55a3d005]
+
+(1) In these Regulations—
+
+- “the Order” means the Road Traffic (Northern Ireland) Order 1981;
+- “the Community Recording Equipment Regulation” means Council Regulation [(EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) of 20th December 1985 on recording equipment in road transport[^f00006] as it has effect in accordance with Commission Regulation [(EEC) No. 3314/90](https://www.legislation.gov.uk/european/regulation/1990/3314) of 16th November 1990[^f00007] and Commission Regulation [(EEC) No. 3688/92](https://www.legislation.gov.uk/european/regulation/1992/3688)[^f00008] of 21st December 1992, and as read with the Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 1987[^f00009];
+- “Department” means the Department of the Environment for Northern Ireland;
+- “recording equipment” means equipment for recording information as to the use of a vehicle;
+- “record sheet” includes a temporary sheet attached to a record sheet in accordance with Article 16(2) of the Community Recording Equipment Regulation.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to the interpretation of these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 3. Installation and use of recording equipment[^key-0dbe4cd11f73ec4567dc97db63291eca]
+
+(1) A person shall not use, or cause or permit to be used, a vehicle to which this regulation applies—
+
+- (a) unless there is in the vehicle recording equipment which—
+  - (i) has been installed in accordance with the Community Recording Equipment Regulation,
+  - (ii) complies with Annexes I and II to that Regulation, and
+  - (iii) is being used as provided by Articles 13 to 15 of that Regulation; or
+- (b) if there is in the vehicle recording equipment which has been repaired (whether before or after installation) otherwise than in accordance with the Community Recording Equipment Regulation,
+
+and any person who contravenes this provision shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) A person shall not be liable to be convicted under paragraph (1)(*a*) if he proves to the court that he neither knew nor ought to have known that the recording equipment had not been installed or repaired, as the case may be, in accordance with the Community Recording Equipment Regulation.
+
+(3) A person shall not be liable to be convicted under paragraph (1)(*a*) if he proves to the court that the vehicle in question was proceeding to a place where recording equipment which would comply with the requirements of Annexes I and II to the Community Recording Equipment Regulation was to be installed in the vehicle in accordance with that Regulation.
+
+(4) A person shall not be liable to be convicted under paragraph (1)(*a*) by reason of the recording equipment installed in the vehicle in question not being in working order if he proves to the court that—
+
+- (a) it had not become reasonably practicable for the equipment to be repaired by an approved fitter or workshop; and
+- (b) the requirements of Article 16(2) of the Community Recording Equipment Regulation were being complied with.
+
+(5) A person shall not be liable to be convicted under paragraph (1)(*a*) by reason of any seal on the recording equipment installed in the vehicle in question not being intact if he proves to the court that—
+
+- (a) the breaking or removal of the seal could not have been avoided;
+- (b) it had not become reasonably practicable for the seal to be replaced by an approved fitter or workshop; and
+- (c) in all other respects the equipment was being used as provided by Articles 13 to 15 of the Community Recording Equipment Regulation.
+
+(6) For the purposes of this regulation recording equipment is used as provided by Articles 13 to 15 of the Community Recording Equipment Regulation if, and only if, the circumstances of its use are such that each requirement of those Articles is complied with.
+
+(7) This regulation applies at any time to any vehicle to which Part V of the Order applies if, at that time, Article 3 of the Community Recording Equipment Regulation requires recording equipment to be installed and used in that vehicle; and in this regulation and regulations 5 and 6 any expression which is also used in that Regulation has the same meaning as in that Regulation.
+
+## 4. Provisions supplementary to regulation 3[^key-09099c2fdb158833f71c621c755a08ed]
+
+(1) If an employed driver of a vehicle to which regulation 3 applies fails—
+
+- (a) without reasonable excuse to return any record sheet which relates to him to his employer within twenty-one days of completing it; or
+- (b) where he has two or more employers by whom he is employed as a driver of such a vehicle, to notify each of them of the name and address of the other or others of them,
+
+he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) If the employer of drivers of a vehicle to which regulation 3 applies fails without reasonable excuse to secure that they comply with paragraph (1)(*a*), he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(3) Where a driver of a vehicle to which regulation 3 applies has two or more employers by whom he is employed as a driver of such a vehicle, paragraph (1)(*a*) and paragraph (2) shall apply as if any reference to his employer, or any reference which is to be construed as such a reference, were a reference to such of those employers as was the first to employ him in that capacity.
+
+## 5. Forgery, etc. of seals on recording equipment[^key-1a3fd3f379cbea35fc1580324ad0299f]
+
+(1) A person who, with intent to deceive, forges, alters or uses any seal on recording equipment installed in, or designed for installation in, a vehicle to which regulation 3 applies, shall be guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) shall be liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+
+(3) In this regulation a person forges a seal if he makes a false seal in order that it may be used as genuine.
+
+## 6. Records, etc. produced by equipment may be used in evidence[^key-f038b7ccf5d6898b621438cca5013724]
+
+(1) Where recording equipment is installed in a vehicle to which Part V of the Order applies, any record produced by means of the equipment shall, in any proceedings under Part V of the Order or these Regulations, be evidence of the matters appearing from the record.
+
+(2) Any entry made on a record sheet by a driver for the purposes of Article 15(2) or (5) or 16(2) of the Community Recording Equipment Regulation shall, in any proceedings under Part V of the Order or these Regulations, be evidence of the matters appearing from that entry.
+
+## 7. Inspection of recording equipment and record sheets[^key-2bdc615ed9f8626de5feec225e4ebb4a]
+
+(1) In relation to any vehicle to which regulation 3 applies a vehicle examiner[^f00011] may, on production if so required of his authority—
+
+- (a) require any person to produce, and permit him to inspect and copy, any record sheet which is produced by the recording equipment, or on which entries are made, and which that person is required by Article 16(2) of the Community Recording Equipment Regulation to retain or by Article 15(7) of that Regulation to be able to produce;
+- (b) at any time, enter the vehicle and inspect the vehicle and the recording equipment, and inspect and copy any record sheet on the vehicle on which a record has been produced by means of that equipment or on which entries have been made; and
+- (c) at any time which is reasonable having regard to the circumstances of the case, enter any premises on which he has reason to believe that such a vehicle is kept or that any such record sheets are to be found, and inspect any such vehicle, and inspect and copy any such record sheets which he finds there.
+
+(2) Where a vehicle examiner, in exercise of his powers under paragraph (1)(*a*), has required a person to produce to him any record sheet, the vehicle examiner may, by notice in writing served on that person, require the record sheet to be produced by him at the office of the Department specified in the notice within such time (not being less than 10 days from the service of the notice) as may be specified therein.
+
+(3) For the purpose of exercising his powers under paragraph (1)(*b*), a vehicle examiner may detain the vehicle in question during such time as is required for the exercise of that power.
+
+(4) Any person who—
+
+- (a) fails to comply with any requirement under paragraph (1)(*a*) or (2), or
+- (b) obstructs a vehicle examiner in the exercise of his powers under paragraph (1) or (3),
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) Any person who makes, or causes to be made, any record or entry on a record sheet kept or carried for the purposes of the Community Recording Equipment Regulation or regulation 3 which he knows to be false or, with intent to deceive, alters or causes to be altered any such record or entry, shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine or both.
+
+(6) If a vehicle examiner has reason to believe that an offence under paragraph (5) has been committed in respect of any record sheet inspected by him under this regulation, he may seize that record sheet; and where a record sheet is seized as aforesaid and within 6 months of the date on which it was seized no person has been charged since that date with an offence in relation to that record sheet under that paragraph and the record sheet has not been returned to the person from whom it was taken, a magistrates' court shall, on application made for the purpose by that person, or by a vehicle examiner, make such order respecting the disposal of the record sheet and award such costs as the justice of the case may require.
+
+(7) The powers conferred by this regulation on a vehicle examiner shall be exercisable also by a constable.
+
+(8) In this regulation references to the inspection and copying of any record produced by recording equipment include references to the application to the record of any process for eliciting the information recorded thereby and to take down the information elicited from it.
+
+## 8. Installation and repair of recording equipment, checks and inspections[^key-081794029f487065a087ec54b0b57b3b]
+
+(1) The Department shall be the competent authority in Northern Ireland for—
+
+- (a) the approval of fitters and workshops for the installation and repair of recording equipment in accordance with Article 12 of the Community Recording Equipment Regulation; and
+- (b) the nomination of bodies for the carrying out of checks and inspections of recording equipment in accordance with Chapter VI of Annex I to that Regulation.
+
+(2) An approval or nomination under paragraph (1) shall be in writing, shall specify its scope, shall provide for its withdrawal by the Department on written notice by it and, subject to paragraph (4), where the Department thinks fit, may contain conditions.
+
+(3) An approval or nomination shall expire on 31st January next following the date of issue, and, if not withdrawn may, on application before the date of its expiry, be renewed for a further period ending on 31st January next following and thereafter for successive periods so ending.
+
+(4) Conditions referred to in paragraph (2) may relate to—
+
+- (a) the fees to be charged for installing, repairing, checking or inspecting recording equipment;
+- (b) the places where and equipment by means of which such activities are, or are to be, carried out;
+- (c) the procedure to be adopted in carrying out such activities;
+- (d) the records to be kept and the evidence to be furnished of the carrying out of such activities;
+- (e) the training of persons for carrying out such activities;
+- (f) the inspection by or on behalf of the Department of places where and equipment by means of which such activities are, or are to be, carried out; and
+- (g) the display, at the places where such activities are carried out, of signs indicating that such activities are carried out there by fitters or workshops approved or, as the case may be, bodies nominated, by the Department.
+
+(5) The Department shall publish from time to time lists of—
+
+- (a) the fitters and workshops approved by it; and
+- (b) the bodies nominated by it,
+
+and any list published under sub-paragraph (*a*) shall specify the mark to be placed by each approved fitter or workshop on any seals which shall be affixed to any recording equipment.
+
+## 9. Fee for approval or renewal of approval of fitters and workshops[^key-0def9e9f2466d8b1702389065e32013f]
+
+The fee to be paid to the Department for—
+
+- (a) granting approval of a fitter or workshop for recording equipment in accordance with Article 12 of the Community Recording Equipment Regulation shall be £325;
+- (b) renewing an approval shall be £99.
+
+## 10. Disapplication of requirement to keep drivers' record books[^key-1bdf09a8cd46024213256694e9330517]
+
+(1) The requirements of regulations made under Part V of the Order with respect to the keeping of, and making of entries in, drivers' record books, so far as regards the driving of, and other work in connection with, a vehicle, shall not apply as respects the driving of a vehicle to which regulation 3 applies.
+
+(2) A person shall not be liable to be convicted under Article 81 of the Order or by reason of contravening any regulation as is mentioned in paragraph (1) if he proves to the court that, if the vehicle in question had been such a vehicle as is mentioned in paragraph (1), there would have been no contravention of the provisions of these Regulations so far as they relate to the use of such vehicles.
+
+(3) A person shall neither be liable to be convicted under Article 82(3) of the Order by reason of failing to comply with any requirement under paragraph (1) of that Article nor be liable to be convicted for failing to comply with any like requirement of the domestic drivers' hours code if he proves to the court that, if the vehicle in question had been such a vehicle as is mentioned in paragraph (1), there would have been no contravention of the provisions of these Regulations so far as they relate to the use of such vehicles.
+
+## 11. Revocation[^key-53d61f14b74af0b548c7653d2200840c]
+
+The Regulations specified in the Schedule are hereby revoked.
+
+Sealed with the Official Seal of the Department of the Environment on
+
+Trevor Pearson
+
+Assistant Secretary
+
+2nd April 1996
+
+The Department of Finance and Personnel hereby consents to regulation 9.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on
+
+J. G. Sullivan
+
+Assistant Secretary
+
+2nd April 1996
+
+## SCHEDULE — Regulations Revoked[^key-29ff3b68e995eadcb58958ac12d43a38]
+
+| *Title* | *Year and Number* |
+| --- | --- |
+| Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1979 | [1979 No. 443](https://www.legislation.gov.uk/nisr/1979/443) |
+| Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations (Northern Ireland) 1983 | [1983 No. 368](https://www.legislation.gov.uk/nisr/1983/368) |
+| Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations (Northern Ireland) 1984 | [1984 No. 199](https://www.legislation.gov.uk/nisr/1984/199) |
+| Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations (Northern Ireland) 1987 | [1987 No. 217](https://www.legislation.gov.uk/nisr/1987/217) |
+| Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations (Northern Ireland) 1990 | [1990 No. 98](https://www.legislation.gov.uk/nisr/1990/98) |
+| Passenger and Goods Vehicles (Recording Equipment) (Fees) (Amendment) Regulations (Northern Ireland) 1991 | [1991 No. 102](https://www.legislation.gov.uk/nisr/1991/102) |
+| Passenger and Goods Vehicles (Recording Equipment) (Fees) (Amendment) Regulations (Northern Ireland) 1992 | [1992 No. 382](https://www.legislation.gov.uk/nisr/1992/382) |
+| Passenger and Goods Vehicles (Recording Equipment) (Fees) (Amendment) Regulations (Northern Ireland) 1993 | [1993 No. 392](https://www.legislation.gov.uk/nisr/1993/392) |
+
+(This note is not part of the Regulations.)
+
+These Regulations consolidate with amendments the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1979 and the Regulations which amended them as specified in the Schedule to these Regulations. The Regulations impose requirements regarding the installation and use of recording equipment (tachographs) in vehicles, and make provision for the inspection and repair of such equipmentl.
+
+In Regulation 2(1) the definition of the Community Recording Equipment Regulation has been amended to take account of the amendments to Council Regulation [(EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) (O.J. No. L370, 31.12.85, p. 8) made by Commission Regulation [(EEC) No. 3314/90](https://www.legislation.gov.uk/european/regulation/1990/3314) (O.J. No. L318, 17.11.90, p. 20) and Commission Regulation [(EEC) No. 3688/92](https://www.legislation.gov.uk/european/regulation/1992/3688) (O.J. No. L374, 22.12.92, p. 12). The amendments to the Council Regulation have been made to take account of technical changes in recording equipment in road transport.
+
+The maximum fines for breaches of the following regulations are now dealt with in terms of the standard scale, as follows:
+
+(1) In regulation 3 (penalty for failure to install or use recording equipment) the maximum fine remains unchanged and is now referred to as level 5 on the standard scale (currently £5,000).
+
+(2) In regulation 4(1) and (2) (penalty for failure to return record sheet and related offences) the maximum fines have been increased from £500 in each case to level 4 on the standard scale (currently £2,500).
+
+(3) In regulation 7(4) (penalty for obstructing a vehicle examiner) the maximum fine has been increased from £200 to level 3 on the standard scale (currently £1,000).
+
+(4) In regulations 5(2) (penalty for forgery of seals on recording equipment) and 7(5) (penalty for making false entry on a record sheet) the fine is now referred to as the statutory maximum (currently £5,000). In regulation 5(2) the fine remains unchanged at £5,000, and in regulation 7(5) it has been increased from £1,000 to £5,000.
+
+The fee payable for the grant of an approval of a fitter or workshop for the installation or repair of recording equipment has been reduced to £325 (previously the fee payable was £359) (regulation 9).
+
+Copies of the EEC Regulations referred to in these Regulations can be obtained from Her Majesty’s Stationery Office.
+
+## Annotations
+
+[^f00001]: Footnote: S.Is. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) and [1975/1707](https://www.legislation.gov.uk/uksi/1975/1707)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51)
+
+[^f00004]: Footnote: [S.I. 1981 No. 154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Article 58 was amended by [S.I. 1995 No. 2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994) Art. 112 and Sch. 3
+
+[^f00005]: Footnote: Formerly the Department of Finance. *See* S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 3
+
+[^key-829ddd06bbd1d7154a7abe37f90b65c1]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-0cce43ea5cc500ddd1e28a9f55a3d005]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^f00006]: Footnote: O.J. No. L370, 31.12.85, p. 8
+
+[^f00007]: Footnote: O.J. No. L318, 17.11.90, p. 20
+
+[^f00008]: Footnote: O.J. No. L374, 22.12.92, p. 12
+
+[^f00009]: Footnote: [S.R. 1987 No. 218](https://www.legislation.gov.uk/nisr/1987/218)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-0dbe4cd11f73ec4567dc97db63291eca]: Commencement: Reg. 3 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-09099c2fdb158833f71c621c755a08ed]: Commencement: Reg. 4 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-1a3fd3f379cbea35fc1580324ad0299f]: Commencement: Reg. 5 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-f038b7ccf5d6898b621438cca5013724]: Commencement: Reg. 6 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-2bdc615ed9f8626de5feec225e4ebb4a]: Commencement: Reg. 7 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^f00011]: Footnote: *See* Article 74(3) and (4) of [S.I. 1995 No. 2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
+
+[^key-081794029f487065a087ec54b0b57b3b]: Commencement: Reg. 8 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-0def9e9f2466d8b1702389065e32013f]: Commencement: Reg. 9 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-1bdf09a8cd46024213256694e9330517]: Commencement: Reg. 10 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-53d61f14b74af0b548c7653d2200840c]: Commencement: Reg. 11 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+
+[^key-29ff3b68e995eadcb58958ac12d43a38]: Commencement: Sch. in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)

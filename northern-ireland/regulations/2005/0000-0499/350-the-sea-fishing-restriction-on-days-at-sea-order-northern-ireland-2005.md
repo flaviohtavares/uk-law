@@ -1,0 +1,502 @@
+---
+title: The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005
+id: nisr/2005/350
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-07-26'
+text_date: '2016-10-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/350
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/350/pdfs/nisr_20050350_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/350/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005
+
+> Text as at 2016-10-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 350
+
+ARGICULTURE
+
+The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005
+
+Made
+
+26th July 2005
+
+Coming into operation
+
+28th July 2005
+
+The Department of Agriculture and Rural Development, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001], and now vested in it[^f00002], and every other power enabling it in that behalf hereby makes the following Order:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation, commencement, extent and application[^key-d3835d880b2d117bd30c9ff5672bd631]
+
+(1) This Order may be cited as the Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005 and shall come into operation on 28th July 2005.
+
+(2) This Order does not apply to any fishing boat which is less than 10 metres in length as set out in point 1 of Annex IVa and point 1 of Annex IVc.
+
+### 2. Interpretation[^key-50b87ae0a5acf14d41a0d6e8cc7a5524]
+
+(1) In this Order –
+
+- “Annex IVa” means Annex IVa to Council Regulation [(EC) No. 27/2005](https://www.legislation.gov.uk/european/regulation/2005/0027) fixing for 2005 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required[^f00003];
+- “Annex IVc” means Annex IVc to Council Regulation [(EC) No. 27/2005](https://www.legislation.gov.uk/european/regulation/2005/0027) fixing for 2005 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required;
+- “the Annex IV year” means the period commencing with the coming into operation of this Order and ending with 31st December 2005, and references to things done during the Annex IV year cover things done at any time within it;
+- “base unit” has the same meaning as in Article 3 in relation to cod and Article 13 in relation to sole;
+- “British fishing boat” means a fishing boat which is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995[^f00004] or is owned wholly by persons qualified to own British ships for the purposes of that Part of that Act;
+- “cod recovery zone” means the geographical area defined in point 2 of Annex IVa;
+- “day” has the meaning set out in point 3(b) of Annex IVa and point 3(b) of Annex IVc;
+- “equivalent provision” means any provision, in any other Order made for the purposes of implementing Annex IVa or IVc or Regulation 423/04 in relation to any part of the United Kingdom, which has equivalent effect to a provision in this Order, proceedings in respect of which may be taken in Northern Ireland by virtue of section 30(2A) of the Fisheries Act 1981;
+- “fishing boat” includes any vessel covered by Annex IVa or Annex IVc;
+- “foreign fishing boat” means a fishing boat covered by Annex IVa or Annex IVc which is not a British fishing boat;
+- “management period” means a period established as provided in Article 3 or 13, as the case may be;
+- “Northern Ireland fishing boat” means a fishing boat which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;
+- “Northern Ireland zone” has the same meaning as in the Northern Ireland Act 1998[^f00005];
+- “person in charge”, in relation to a fishing boat, means the owner, master or charterer, if any, of the fishing boat or the agent of any of them;
+- “regulated gear” means any gear within a grouping of fishing gears set out in point 4 of Annex IVa in relation to cod and point 4 of Annex IVc in relation to sole;
+- “Regulation 2807/83” means Commission Regulation [(EEC) No. 2807/83](https://www.legislation.gov.uk/european/regulation/1983/2807) laying down detailed rules for recording information on Member States' catches of fish, as amended at the date this Order is made[^f00006];
+- “Regulation 2847/93” means Council Regulation [(EEC) No. 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) establishing a control system applicable to the Common Fisheries Policy, as amended at the date this Order is made[^f00007];
+- “Regulation 423/04” means Council Regulation [(EC) No. 423/2004](https://www.legislation.gov.uk/european/regulation/2004/0423) establishing measures for the recovery of cod stocks[^f00008];
+- “sole recovery zone” means the geographical area defined in point 2 to Annex IVc.
+- “unused days” in relation to any fishing boat, grouping of regulated gear and management period, means in relation to cod, the number of days available to the boat carrying the gear in the cod recovery zone during the period before its allocation of days under Article 4 is exhausted and, in relation to sole, the number of days available to the boat carrying the gear in the sole recovery zone during the period before its allocation of days under Article 14 is exhausted;
+- “The Department” means Department of Agriculture and Rural Development.
+
+(2) In this Order –
+
+- “logbook” means the same as in Article 6 of Regulation 2847/93 as amplified by Regulation 2807/83, and, for the purposes of any provision other than Article 12 and 22, any reference to a document or logbook includes any –
+  - (i) map, plan, graph or drawing;
+  - (ii) photograph;
+  - (iii) data, howsoever reproduced, communicated via a satellite-based vessel monitoring system established under Article 3.1 of Regulation 2847/93;
+  - (iv) disk, tape, sound track or other device in which sounds or other data (not being visual images) are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced; and
+  - (v) film (including microfilm), negative, tape, disk or other device in which one or more visual images are recorded so as to be capable of being reproduced.
+
+(3) Any information provided to any authority for the purposes of any provision of this Order shall be treated as also provided for the purposes of any equivalent provision.
+
+(4) Expressions in this Order which are not defined in paragraph (1) and which appear in Annex IVa or Annex IVc of Council Regulation [(EC) No. 27/2005](https://www.legislation.gov.uk/european/regulation/2005/0027) or Regulation 423/04 have the same meaning in this Order as they respectively do in those Regulations.
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00009], except section 20(2) and (3), shall apply to this Order as it applies to an Act of the Northern Ireland Assembly.
+
+## PART 2 — COD
+
+### 3. Establishment of management periods[^key-9128e9761057fba0289620868eaef01c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Absences from port[^key-9128e9761057fba0289620868eaef01c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Carriage and operation of fishing gears[^key-9128e9761057fba0289620868eaef01c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Transfer of days from one boat to another[^key-9128e9761057fba0289620868eaef01c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Transport of cod[^key-034a8bebf2271ffd3de268da947560de]
+
+Where any quantities of cod are transported in contravention of Article 15(2) of Regulation 423/04, the owner or hirer of, and the person responsible for, the vehicle used to transport the cod is guilty of an offence.
+
+### 8. Mixing of species[^key-af6a7ed7c3125676b01f4ae293678d4b]
+
+A person in charge of –
+
+- (a) a Northern Ireland fishing boat, or
+- (b) a British (other than Northern Ireland) or foreign fishing boat within the Northern Ireland zone,
+
+on which cod is stowed or retained in contravention of Article 14 of Regulation 423/04, is guilty of an offence.
+
+### 9. Prior notification of landing, discharge or transhipment[^key-12c49d47a81a836e038b21e53195b691]
+
+(1) The person in charge of a British or foreign fishing boat to which Article 11 of Regulation 423/04 applies, which enters a port in Northern Ireland without providing the information called for by that Article, is guilty of an offence.
+
+(2) A British sea-fishery officer may, by written or oral direction to the person in charge of a British or foreign fishing boat landing at a port in Northern Ireland, require that the discharge referred to in Article 11(2) of Regulation 423/04 does not commence until authorised by a British sea-fishery officer.
+
+(3) The person in charge of a fishing boat from which a discharge is made in contravention of any requirement under paragraph (2) is guilty of an offence.
+
+(4) The person in charge of a British or foreign fishing boat to which Article 11(3) of Regulation 423/04 applies, who fails to provide information as required by that Article, is guilty of an offence.
+
+(5) For the purposes of paragraph (1) and (4), the Department of Agriculture and Rural Development is the person to whom that information is to be provided.
+
+### 10. Landing of cod at a designated port[^key-aa33ee0546333d831a9465cfc23ef807]
+
+(1) The person in charge of a British or foreign fishing boat which lands cod in Northern Ireland in contravention of Article 12 of Regulation 423/04 is guilty of an offence.
+
+(2) If, in the circumstances to which Article 15 of Regulation 423/04 applies, cod is first landed from a fishing boat in a port within Northern Ireland designated as specified in paragraph (3), the person in charge of that boat shall ensure that a representative sample, obtained in accordance with that Article, shall be weighed in the presence of a British sea-fishery officer prior to the cod being offered for first sale, unless the conditions in paragraph 3 are met.
+
+(3) The conditions referred to in paragraph 2 are –
+
+- (a) the fishing boat is party to an arrangement made among fishing boats using the port with a person or organisation to act as their controller for the purposes of that point; and
+- (b) details of the arrangement, and the fishing boats which are party to it, have been notified to the Department of Agriculture and Rural Development.
+
+(4) For landings in Northern Ireland, the ports, specified in column 1 of the Table in the Schedule and in relation to each such port the landing location specified opposite thereto are designated for the purposes of Article 12 of Regulation 423/04.
+
+(5) The person in charge of a fishing boat from which cod is offered for first sale in contravention of paragraph 2 is guilty of an offence.
+
+### 11. Recording information on catches of fish[^key-ceb752fd5218270b12582312bb477555]
+
+The person in charge of a Northern Ireland fishing boat, or foreign fishing boat in respect of which the 8% margin of tolerance referred to in Article 13 of Regulation 423/04 is exceeded, is guilty of an offence.
+
+### 12. Maintenance of logbooks[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — SOLE
+
+### 13. Establishment of management periods[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Absences from port[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Carriage and operation of fishing gears[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Transfer of days from one boat to another[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Transport of sole[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Mixing of species[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Transhipment or landing relating to third countries[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Weighing of sole[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Recording information on catches of fish[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Maintenance of logbooks[^key-467feed304a97c9019bf646e8ccdfec1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — ENFORCEMENT
+
+### 23. Penalties and defence[^key-a89aef36052b16a806f901f8cb661d12]
+
+(1) A person guilty of an offence under Part 2 or Part 3 of this Order or under any equivalent provision shall be liable –
+
+- (a) on summary conviction to a fine not exceeding £50,000; and
+- (b) on conviction on indictment to a fine.
+
+(2) The court by or before which a person is convicted of an offence under any of Articles 7 to 11 of this Order[^key-9f813cbf51c60e8ed9f4b4f4ee96c09d] of this Order or under any equivalent provision may, subject to paragraph (4), also order forfeiture of:
+
+- (a) any fish in respect of which the offence was committed; and
+- (b) except in the case of an offence under Article 7 or 17 or any equivalent provision, any fishing gear used in the course of, or in activities leading to, the commission of the offence.
+
+(3) Any person found guilty of an offence under any of Articles 7 to 11 of this Order[^key-b45bfc9364a25e5e55b9813689c4d427] of this Order or under any equivalent provision shall, subject to paragraph (4), also be liable on summary conviction to a fine not exceeding the value of the fish in respect of which the offence was committed.
+
+(4) A person shall not be liable to a fine under paragraph (3) in respect of such an offence if, under paragraph (2), the court orders the forfeiture of the fish in respect of which that offence was committed; and where a fine is imposed under paragraph (3) in respect of any offence, the court shall not have the power under paragraph (2) to order forfeiture of the fish in respect of the offence was committed.
+
+(5)[^key-90c808f19f0eb6c93764ec6e57b63cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) References in this Article to fish in respect of which an offence was committed include fish caught at any time in the period during which the offence was committed.
+
+### 24. Recovery of fines[^key-349081e7b02008b9434b149fd6bd3c54]
+
+(1) Where a fine is imposed by a magistrates' court on a person in charge of a fishing boat who is convicted by the court of an offence under this Order or any equivalent provision, the court may –
+
+- (a) issue a warrant of distress against the boat involved in the commission of the offence and its fishing gear and catch and any property of the person convicted for the purpose of levying the amount of the fine; and
+- (b) order the boat and its gear and catch to be detained for a period not exceeding three months from the date of conviction or until the fine is paid or the amount of the fine is levied in pursuance of any such warrant, whichever occurs first.
+
+(2) Articles 114(2) and 154 of the Magistrates Courts (Northern Ireland) Order 1981[^f00011] (postponement of certain warrants and objections as to want of form or variance between complaint etc and evidence adduced) shall apply to a warrant of distress issued under this Article as they apply to a warrant referred to in those Articles of that Order.
+
+(3) Where, in relation to an offence under this Order or under any equivalent provision a court orders under section 90 of the Magistrates Court Act 1980[^f00012] or section 222 of the Criminal Procedures (Scotland) Act 1995[^f00013] that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^key-944b12965f86c3f7ca9162963c5c0183]
+
+### 25. Powers of British sea-fishery officers in relation to fishing boats[^key-4e29c7cf7612aa64536dbe5483be90b8]
+
+(1) For the purpose of enforcing Part 2[^key-ba1dde07498b4c1f7ad8404cf665e87c]... or any equivalent provisions, or to operate or facilitate the operation of any monitoring deriving from Article 16 of Regulation 423/04 or point 21 of Annex IVc, any British sea-fishery officer may exercise the powers conferred by this Article in relation to –
+
+- (a) any Northern Ireland fishing boat wherever it may be; or
+- (b) any other fishing boat which is within the Northern Ireland zone.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose mentioned in paragraph (1) and, in particular –
+
+- (a) may search for fish or fishing gear on the boat and may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to any fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession;
+- (c) for the purpose of ascertaining whether an offence under any of those Part 2 or Part 3 or any equivalent provision has been committed, may search the boat for any such document and may require any person on board the boat to do anything which appears to him to be necessary for facilitating the search;
+- (d) may inspect and take copies of any such document produced to him or found on board and, where any such document is kept by means of a computer, require it to be produced in a form in which it may be taken away; and
+- (e) where the boat is one in relation to which he has reason to suspect that an offence under any of those Articles or any equivalent provision has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (e) above shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that an offence under A Article 8 or 11 of this Order[^key-a3870b876db1e06d5c9a366c78166bb0] , or under any equivalent provision, has at any time been committed in respect of a fishing boat, he may –
+
+- (a) require the master of the boat to take, or himself take, the boat and crew to the port which appears to him to be the nearest convenient port; and
+- (b) detain, or require the master to detain, the boat in port;
+
+and where such an officer detains or requires the detention of the boat he shall serve on the master a notice in writing stating that the boat is (or is required to be) detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+### 26. Powers of British sea-fishery officers on land[^key-cf7eadbe9b3e4885598718eb5bfc27a8]
+
+(1) For the purpose of enforcing Part 2[^key-f4713631049999883f37f62da48d1129]... or any equivalent provisions, or to operate or facilitate the operation of any monitoring deriving from Article 16 of Regulation 423/04 or point 21 of Annex IVc, any British sea-fishery officer may in Northern Ireland –
+
+- (a) enter and inspect at any reasonable time any premises used for carrying on any business in connection with the operation of fishing boats or activities connected therewith or ancillary thereto or with the treatment, storage or sale of fish;
+- (b) take with him such other persons as appear to him to be necessary and any equipment or materials;
+- (c) examine any fish on the premises and require persons on the premises to do anything which appears to him to be necessary for facilitating the examination;
+- (d) carry out at the premises such other inspections or tests as may reasonably be necessary;
+- (e) require any person not to remove or cause to be removed any fish from the premises for such a period as may be reasonably necessary for the purposes of establishing whether an offence under any of those Articles or any equivalent provision has at any time been committed;
+- (f) require any person on the premises to produce any documents which are in his custody or possession relating to the catching, landing, transportation, trans-shipment, sale or disposal of any fish or to the entry to, or exit from, any port or harbour by any fishing boat;
+- (g) for the purpose of ascertaining whether any person on the premises has committed an offence under Part 2 or Part 3 or any equivalent provision, search the premises for any such document and require any person on the premises to do anything which appears to him to be necessary for facilitating the search;
+- (h) inspect and take copies of any such document produced to him or found on the premises;
+- (i) require any appropriate or responsible person to render any such document on a computer system into a visible and legible form, including requiring it to be produced in a form in which it may be taken away; and
+- (j) if he has a reason to suspect that an offence under any of those Articles or any equivalent provision has been committed, seize and detain any such document produced to him or found on the premises for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(2) The provisions of paragraph (1) shall also apply in relation to any land used in connection with any of the activities described in paragraph (1)(a), or in respect of any vehicle which a British sea-fishery officer has reasonable cause to believe is being used to transport fish or fisheries products, as they apply in relation to premises and, in the case of a vehicle, shall include power to require the vehicle to stop at any time and, if necessary, direct the vehicle to some other place to facilitate the inspection.
+
+(3) If a justice of the peace on sworn complaint in writing is satisfied –
+
+- (a) that there is reasonable ground to believe that any documents or other items which a British sea-fishery officer has power under this Article to inspect are on any premises and that their inspection is likely to disclose evidence of the commission of an offence under any of those Articles or any equivalent provision; and
+- (b) either –
+  - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant has been given to the occupier; or
+  - (ii) that an application for admission or the giving of such notice would defeat the object of the entry, or that the premises are unoccupied, or that the occupier is temporarily absent and it might defeat the object of the entry to await his return;
+
+  the justice may by warrant signed by him, and valid for one month, authorise a British sea-fishery officer to enter the premises, if need be by reasonable force, and take with him such persons as appear to him to be necessary.
+
+### 27. Powers of British sea-fishery officers to seize fish and fishing gear[^key-37d0fa28fe69ddbc90c3b4de1b47c0fa]
+
+(1) This Article applies –
+
+- (a) in Northern Ireland,
+- (b) to any Northern Ireland fishing boat wherever it may be, and
+- (c) to any other British or any foreign fishing boat which is within the Northern Ireland zone
+
+(2) Where this Article applies, any British sea-fishery officer may seize –
+
+- (a) any fish (including any receptacle which contains the fish) in respect of which he has reasonable grounds to suspect that an offence has been committed; and
+- (b) any fishing gear which he has reasonable grounds to suspect has been used in the course of, or in activities leading to, the commission of an offence,
+
+under any of Articles 7 to 11 of this Order[^key-f7fdafaede88034dc5841a7bdb7dbe93] or under any equivalent provision.
+
+### 28. Protection of British sea-fishery officers[^key-232c520bd029eea4092dcf70094b2ddd]
+
+A British sea-fishery officer or a person assisting him by virtue of Article 25(2) or 26(1)(b) or authorisation under Article 26(3), shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him by Articles 25 to 27 if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
+
+### 29. Obstruction of British sea-fishery officers[^key-9cb94b2fda2dda56b0a32845e0931c59]
+
+(1) Any person who –
+
+- (a) fails without reasonable excuse to comply with any requirement imposed by a British sea-fishery officer under the powers conferred on British sea-fishery officers by Articles 25 and 26;
+- (b) without reasonable excuse prevents, or attempts to prevent, any other person from complying with any such requirement; or
+- (c) assaults a person who is exercising any of the powers conferred on him by Articles 25 to 27 or intentionally obstructs him in the exercise of any of those powers,
+
+is guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable –
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to a fine.
+
+### 30. Provisions as to offences[^key-e5f3cd7ed632361d0b6a9562def8f215]
+
+(1) Where any offence under Part 2 or Part 3 or any equivalent provision committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where any offence under Part 2 or Part 3 or any equivalent provision committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) Where any offence under Part 2 or Part 3 or any equivalent provision committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, he as well as the association shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+### 31. Admissibility in evidence of logbooks and other documents[^key-1910b5551e5d9f48aa858753d79a04a0]
+
+(1) Any –
+
+- (a) logbook kept under Article 6, 17(2) or 28c;
+- (b) declaration submitted under Article 8(1), 17(2) or 28f;
+- (c) effort report completed under Article 19b and 19c;
+- (d) document drawn up under Article 9, 11, 12 or 13; or
+- (e) document containing required information received by a fisheries monitoring centre established under Article 3(7),
+
+of Regulation 2847/93 shall, in any proceedings for an offence under this Order or any equivalent provision, be evidence of the matters stated therein and so shall any additional entry in a logbook made pursuant to this Order or any equivalent provision.
+
+(2) For the purpose of paragraph (1), “required information” means –
+
+- (a) a fishing boat’s identification;
+- (b) the most recent geographical position of the fishing boat expressed in degrees and minutes of longitude and latitude; and
+- (c) the date and time of the fixing of that position,
+
+as communicated via a satellite-based vessel monitoring system established under Article 3(1) of Regulation 2847/93.
+
+## PART 5 — SUPPLEMENTARY
+
+### 32. Consequential and connected amendments[^key-c4cdc5a3ad0d389135a5bd0b9e920db2]
+
+(1) The Sea Fishing (Enforcement of Community Control Measures) Order 2000[^f00014] is amended, so far as it applies in Northern Ireland, as provided in paragraphs (2) to (4):
+
+(2) In Article 2(1) –
+
+- (a) for the definition of “Annex V” substitute the following definitions –
+
+  > - “Annex IVa” means Annex IVa to Council Regulation 27/2005 of 22nd December 2004 fixing for 2005 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required;
+  > - “Annex IVc” means Annex IVc to Council Regulation 27/2005 of 22nd December 2004 fixing for 2005 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required;
+
+  ; and
+- (b) insert the following definition:
+
+  > - “Regulation 423/04” means Council Regulation [(EC) No. 423/04](https://www.legislation.gov.uk/european/regulation/2004/0423) establishing measures for the recovery of cod stocks
+
+  ; and
+- (c) at the end of the definition of “Regulation 2847/93” replace “and as applied by point 13 of Annex V” with “and as applied by Article 9 of Regulation 423/04 and point 13 of Annex IVc.”.
+
+(3) In Article 3, for paragraph (1A) substitute the following paragraph:
+
+> (1A) In relation to any such fishing boat landing at a port designated by Article 10(4) of the Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005, being a boat to which Annex IVa applies, the obligation to submit the logbook referred to in item 2(b) of the Schedule shall be treated for the purposes of paragraph (1) as contravened unless submission is effected, before the landing of any fish, by the handing of the white top copy of each logbook entry to a British sea-fishery officer or the placing of that white top copy in a box in the port marked as provided for that purpose.
+
+.
+
+(4) In the Schedule, in column 3 of each entry opposite items 2(l), (m), (n) and (o), for the words “paragraph 13 of Annex V”, substitute the words “Article 9 of Regulation 423/04 and point 13 of Annex IVc.”.
+
+### 33. Revocation[^key-958dd6f387b0c8929f13fe46c6b7161b]
+
+The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2004[^f00015] is revoked.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 26th July 2005.
+
+Liam McKibben
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+## SCHEDULE — LIST OF PORTS (AND WHERE APPLICABLE LOCATIONS WITHIN THE PORT) IN NORTHERN IRELAND AT WHICH ALL LANDINGS OF COD COVERED BY ARTICLE 12 OF REGULATION 423/04 MUST TAKE PLACE[^key-10d0da0065e65c151a8bee276668da31]
+
+Article 10(4)
+
+| Port | Location within port |
+| --- | --- |
+| Ardglass | On wall of the fish market and port office |
+| Portavogie | On wall of the fish market and port office |
+| Kilkeel | On wall of the fish market and port office |
+| Bangor | On the side of the commercial fuel pump housing on the central pier |
+
+(This note is not part of the Order)
+
+This Order provides for the administration and enforcement in Northern Ireland of the provisions of Annex IVa and IVc (“the Annexes”) to Council Regulation [(EC) No. 27/2005](https://www.legislation.gov.uk/european/regulation/2005/0027) (O.J. No. L12, 14.1.2005, p. 1) fixing for 2005 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required. Further, the Order provides for the enforcement in Northern Ireland of monitoring, inspection and surveillance provisions as set out in Council Regulation [(EC) No. 423/2004](https://www.legislation.gov.uk/european/regulation/2004/0423) (O.J. No. L70, 9.3.2004 p. 70) establishing measures for the recovery of cod stocks. Part 2 of the Order relates to Cod and Part 3 to Sole.
+
+The Order contains provisions relating to the establishment and aggregation of management periods (Articles 3 and 13 for cod and sole respectively), the number of days which a vessel may be absent from port (Articles 4 and 14), the use of regulated fishing gear (Articles 5 and 15) and the manner in which days may be transferred between fishing vessels within the same management period (Articles 6 and 16).
+
+Further, the Order sets out provisions for the transportation of cod and sole (Articles 7 and 17), a provision relating to the mixing of species within containers on board fishing vessels (Articles 8 and 18), procedures for the landing of cod in designated and non-designated ports (Articles 9 and 10), procedures for transhipment or landing sole in third countries (Article 19), a margin of tolerance relating to the recording of catches of fish in logbooks (Articles 11 and 21) and provisions relating to the maintenance of logbooks (Articles 12 and 22).
+
+The Order creates offences in respect of the contravention, by the person in charge of the relevant fishing boat (or the individuals otherwise specifically referred to) of provisions of the Annexes. The offences relate to absences from port without notified fishing gear (Articles 3 and 13) or in excess of the days permitted (Articles 4 and 14), failure to use regulated fishing gear in the manner set out in the Annexes (Articles 5 and 15), giving false information when attempting to transfer days from one vessel to another (Articles 6 and 16), transporting species (Articles 7 and 17) or mixing of species (Articles 8 and 18) in a manner inconsistent with the Annexes, the landing of cod in designated and non-designated ports in contravention of notification and documentary requirements (Articles 9 and 10), the transhipment or landing of sole relating to third countries (Article 19) and failing to comply with the 8% tolerance for logbook records relating to catches of fish and failure to handover and dispatch logbooks in the manner prescribed (Articles 11, 12, 21 and 22).
+
+Part 4 of the Order makes provisions for enforcement. The Order provides that a person guilty of an offence under it other than an offence under Article 29 is liable, on summary conviction, to a fine not exceeding £50,000 and on conviction on indictment to a fine. Further fines up to and including the value of any fish caught in committing the offence are permitted and the court may also order the seizure of fish caught or equipment used in, or in activities leading to, the commission of the offence (Article 23).
+
+The Order also provides for the recovery of fines imposed, or treated as imposed, by a magistrates' court (Article 24).
+
+For the purposes of enforcing provisions of the Annexes for which provision is made in Parts 2 and 3 of the Order, the Order confers on British sea-fishery officers the powers to enter premises, to go on board fishing boats, to stop and search vehicles transporting fish, to examine fish, to require the production of documents, to search for and seize documents, to take a boat to the nearest convenient port and to seize fish and fishing gear (Articles 25 to 27). Protection of such officers from liability is set out in Article 28, and obstructing them is an offence under Article 29, with a fine of up to the statutory maximum on summary conviction and a fine on conviction on indictment. Articles 30 and 31 deal with corporate and equivalent offences and admissibility of documents in evidence. Provision for consequential amendment and revocation is made by Articles 32 and 33. In addition Article 32 includes a provision bringing forward the time for submission of logbook entries for landings in designated ports.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29)
+
+[^f00002]: Footnote: Sea Fisheries (Northern Ireland) Order 2002 (S.I. [2002/790](https://www.legislation.gov.uk/uksi/2002/790)) Article 3(2) and Schedule 2
+
+[^key-d3835d880b2d117bd30c9ff5672bd631]: Commencement: Art. 1 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-50b87ae0a5acf14d41a0d6e8cc7a5524]: Commencement: Art. 2 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^f00003]: Footnote: O.J. No. L12, 14.1.2005, p. 1
+
+[^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
+
+[^f00005]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00006]: Footnote: O.J. No. L276, 10.10.1983, p. 1; the last amending instrument is Commission Regulation [(EC) No. 1965/2001](https://www.legislation.gov.uk/european/regulation/2001/1965) (O.J. No. L268, 9.10.2001, p. 28)
+
+[^f00007]: Footnote: O.J. No. L261, 20.10.1993, p. 1; the last amending instrument is Council Regulation [(EC) No. 806/2003](https://www.legislation.gov.uk/european/regulation/2003/0806) (O.J. No. L122, 16.5.2003, p. 1)
+
+[^f00008]: Footnote: O.J. No L70, 9.3.2004, p. 8
+
+[^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9128e9761057fba0289620868eaef01c]: Textual amendment: [Arts. 3-6](https://www.legislation.gov.uk/nisr/2005/350/article/3) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(2)](https://www.legislation.gov.uk/nisr/2006/300/article/31/2)
+
+[^key-034a8bebf2271ffd3de268da947560de]: Commencement: Art. 7 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-af6a7ed7c3125676b01f4ae293678d4b]: Commencement: Art. 8 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-12c49d47a81a836e038b21e53195b691]: Commencement: Art. 9 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-aa33ee0546333d831a9465cfc23ef807]: Commencement: Art. 10 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-ceb752fd5218270b12582312bb477555]: Commencement: Art. 11 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-467feed304a97c9019bf646e8ccdfec1]: Textual amendment: [Arts. 12-22](https://www.legislation.gov.uk/nisr/2005/350/article/12) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(2)](https://www.legislation.gov.uk/nisr/2006/300/article/31/2)
+
+[^key-a89aef36052b16a806f901f8cb661d12]: Commencement: Art. 23 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-9f813cbf51c60e8ed9f4b4f4ee96c09d]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/nisr/2005/350/article/23/2) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(3)](https://www.legislation.gov.uk/nisr/2006/300/article/31/3)
+
+[^key-b45bfc9364a25e5e55b9813689c4d427]: Textual amendment: Words in [art. 23(3)](https://www.legislation.gov.uk/nisr/2005/350/article/23/3) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(4)](https://www.legislation.gov.uk/nisr/2006/300/article/31/4)
+
+[^key-90c808f19f0eb6c93764ec6e57b63cf4]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/nisr/2005/350/article/23/5) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(5)](https://www.legislation.gov.uk/nisr/2006/300/article/31/5)
+
+[^key-349081e7b02008b9434b149fd6bd3c54]: Commencement: Art. 24 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^f00011]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^f00012]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43)
+
+[^f00013]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
+
+[^key-944b12965f86c3f7ca9162963c5c0183]: Textual amendment: Words in [art. 24(3)](https://www.legislation.gov.uk/nisr/2005/350/article/24/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [25](https://www.legislation.gov.uk/nisr/2016/317/article/25); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+
+[^key-4e29c7cf7612aa64536dbe5483be90b8]: Commencement: Art. 25 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-ba1dde07498b4c1f7ad8404cf665e87c]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/nisr/2005/350/article/25/1) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(6)](https://www.legislation.gov.uk/nisr/2006/300/article/31/6)
+
+[^key-a3870b876db1e06d5c9a366c78166bb0]: Textual amendment: Words in [art. 25(4)](https://www.legislation.gov.uk/nisr/2005/350/article/25/4) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(7)](https://www.legislation.gov.uk/nisr/2006/300/article/31/7)
+
+[^key-cf7eadbe9b3e4885598718eb5bfc27a8]: Commencement: Art. 26 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-f4713631049999883f37f62da48d1129]: Textual amendment: Words in [art. 26(1)](https://www.legislation.gov.uk/nisr/2005/350/article/26/1) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(8)](https://www.legislation.gov.uk/nisr/2006/300/article/31/8)
+
+[^key-37d0fa28fe69ddbc90c3b4de1b47c0fa]: Commencement: Art. 27 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-f7fdafaede88034dc5841a7bdb7dbe93]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisr/2005/350/article/27/2) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(9)](https://www.legislation.gov.uk/nisr/2006/300/article/31/9)
+
+[^key-232c520bd029eea4092dcf70094b2ddd]: Commencement: Art. 28 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-9cb94b2fda2dda56b0a32845e0931c59]: Commencement: Art. 29 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-e5f3cd7ed632361d0b6a9562def8f215]: Commencement: Art. 30 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-1910b5551e5d9f48aa858753d79a04a0]: Commencement: Art. 31 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^key-c4cdc5a3ad0d389135a5bd0b9e920db2]: Commencement: Art. 32 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^f00014]: Footnote: S.I. [2000/51](https://www.legislation.gov.uk/uksi/2000/51) as amended by [S.R. 2003 No. 59](https://www.legislation.gov.uk/nisr/2003/59) and [S.R. 2004 No. 173](https://www.legislation.gov.uk/nisr/2004/173)
+
+[^key-958dd6f387b0c8929f13fe46c6b7161b]: Commencement: Art. 33 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+
+[^f00015]: Footnote: [S.R. 2004/173](https://www.legislation.gov.uk/nisr/2004/173)
+
+[^key-10d0da0065e65c151a8bee276668da31]: Commencement: Sch. in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)

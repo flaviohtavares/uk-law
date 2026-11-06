@@ -1,0 +1,468 @@
+---
+title: The Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005
+id: nisr/2005/570
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-12-16'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/570
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/570/pdfs/nisr_20050570_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/570/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 570
+
+PENSIONS
+
+The Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005
+
+Made
+
+16th December 2005
+
+Coming into operation
+
+30th December 2005
+
+The Department for Social Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to personal and occupational pensions, in exercise of the powers conferred on it by that section and Articles 55(2)(h), 202(1)(b), 211 and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-b22406a4abfb6d3515a9b6f4926e1238]
+
+These Regulations may be cited as the Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005 and shall come into operation on 30th December 2005.
+
+## 2. Interpretation[^key-311e3fb83f39a068975a0b552cf2de0e]
+
+(1) In these Regulations—
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “the 1995 Order” means the Pensions (Northern Ireland) Order 1995[^f00004];
+- “actuarial valuation” has the meaning given by Article 203(2)(a) (actuarial valuations and reports);
+- “the actuary”, in relation to a scheme, means the actuary appointed under Article 47(1)(b) of the 1995 Order (professional advisers) in relation to that scheme;
+- “biometric risk”[^f00005] means liability risks linked to death, disability and longevity;
+- “the commencement date” means 30th December 2005;
+- “[^key-917dce5670614c5b314e1d4f3fce867c]EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993, as modified or supplemented from time to time;
+- [^key-044880818a94523fe602da91076fb987]...
+  - (a)
+  - (b)
+- “the effective date” of an actuarial valuation is the date by reference to which the assets are valued and the technical provisions and regulatory own funds requirement calculated;
+- “employer” has the meaning given by Article 2(2) (general interpretation);
+- “the Regulator” means the Pensions Regulator[^f00006];
+- “the regulatory own funds requirement” has the meaning given by regulation 3;
+- “the relevant accounts” of a scheme are audited accounts for the scheme—
+  - (a) which comply with the requirements imposed under Article 41 of the 1995 Order[^f00007] (provision of documents for members), and
+  - (b) which are prepared for the purpose of an actuarial valuation in respect of a period ending with the effective date of the valuation;
+- “schedule of contributions” has the meaning given by Article 206(2) (schedule of contributions);
+- “the Scheme Funding Regulations” means the Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005[^f00008];
+- “the Taxes Act” means the Income and Corporation Taxes Act 1988[^f00009];
+- “technical provisions” has the meaning given by Article 201(2) (schedule of contributions).
+
+(2) In these Regulations, any reference to a numbered Article is a reference to the Article of the Order bearing that number.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Regulatory own funds requirement[^key-83f6469bbf3c72f1f7d75421704d847e]
+
+(1) An occupational pension scheme to which paragraph (3) applies must hold, on a permanent basis, additional assets above the aggregate of the scheme’s technical provisions in order to absorb discrepancies between the anticipated and actual expenses and profits of the scheme (“the regulatory own funds requirement”).
+
+(2) The additional assets required under paragraph (1) must be—
+
+- (a) no less than the amount calculated in accordance with regulation 4, and
+- (b) free of all foreseeable liabilities.
+
+(3) This paragraph applies to a scheme, where the scheme and not any employer in relation to that scheme—
+
+- (a) underwrites any liability to cover against biometric risk;
+- (b) guarantees an investment performance, or
+- (c) guarantees a level of benefits.
+
+(4) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order[^f00011] (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
+
+## 4. Calculation of the amount of the regulatory own funds requirement[^key-83830cfc3a52e0558a52bcf0778dd56f]
+
+(1) The amount of the regulatory own funds requirement is the aggregate of—
+
+- (a) a sum equal to 4% of the technical provisions of the occupational pension scheme, plus
+- (b) a sum equal to 0.3% of the capital at risk for members of the scheme in respect of which the capital at risk is not a negative figure, and where the capital at risk is as calculated in paragraph (2).
+
+(2) For the purposes of paragraph (1)(b), “capital at risk” means—
+
+- (a) to the extent that the benefit payable on death in respect of a member of the scheme comprises a lump sum benefit, the amount of that lump sum payable on death, and
+- (b) to the extent that the benefit payable on death comprises the purchase of an annuity, payment of a sum by instalments or any other kind of periodical payments, the present value of that benefit calculated in a way consistent with the determination of the scheme’s technical provisions,
+
+less the scheme’s technical provisions in relation to those members.
+
+(3) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
+
+## 5. Modification of Part IV of the Order and the Scheme Funding Regulations[^key-99b292c03229893e9195bf2e9a941361]
+
+(1) Part IV of the Order (scheme funding) shall be modified in its application to an occupational pension scheme that is subject to the regulatory own funds requirement so that it applies as if—
+
+- (a) in Article 200 (pension schemes to which Part IV applies)—
+  - (i) in paragraph (1) for “occupational pension scheme other than—” there were substituted “occupational pension scheme except a scheme of a kind specified in regulation 15 of the Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005 (exemptions).”;
+  - (ii) sub-paragraphs (a) and (b) of paragraph (1) were omitted, and
+  - (iii) paragraph (2) were omitted;
+- (b) in Article 203 (actuarial valuations and reports)—
+  - (i) in paragraph (1)(a) the words after “one year” were omitted;
+  - (ii) in paragraph (2)(a) for “scheme’s assets and calculating its technical provisions” there were substituted “scheme’s assets, and calculating its technical provisions and the amount of the regulatory own funds requirement”;
+  - (iii) sub-paragraphs (c) and (d) of paragraph (2) were omitted;
+  - (iv) in paragraph (3) the word “and” at the end of sub-paragraph (a), and sub-paragraph (b) were omitted;
+  - (v) in paragraphs (4), (6) and (7) the words “or report” were omitted, and
+  - (vi) in paragraph (5) the words “or reports” were omitted;
+- (c) in Article 205 (recovery plan)—
+  - (i) in paragraph (1) for “they must within the prescribed time—” there were substituted “they must take such steps as are necessary to ensure that the statutory funding objective (within the meaning of Article 201(1)) is met within two years after that date.”;
+  - (ii) sub-paragraphs (a) and (b) of paragraph (1) were omitted, and
+  - (iii) paragraphs (2) to (6) were omitted;
+- (d) in Article 206(6)(b)(i) (schedule of contributions) for “by the end of the period specified in the recovery plan” there were substituted “within two years after that date”;
+- (e) in Article 210(1)(d) (powers of the Regulator) the words after “Article 205” were omitted.
+
+(2) The Scheme Funding Regulations shall be modified in their application to an occupational pension scheme that is subject to the regulatory own funds requirement so that they apply as if—
+
+- (a) in regulations 6(2) and (3)(a) (statement of funding principles), 7(2)(a) (actuarial valuations and reports), 9(1) and (2)(a) (schedule of contributions) and 13 (period for obtaining employer’s agreement) for “15 months” there were substituted “12 months”;
+- (b) paragraph (5) of regulation 7, and regulation 8 (recovery plan) were omitted;
+- (c) in regulation 10 (content and certification of schedules of contributions)—
+  - (i) in paragraph (2) for “five years after the date on which the schedule is certified or, in a case where—” there were substituted “two years after the date on which the schedule is certified.” and the words “that longer period.” were omitted;
+  - (ii) sub-paragraphs (a) and (b) of paragraph (2) were omitted;
+  - (iii) in paragraph (4) for “give effect to a recovery plan” there were substituted “comply with Article 205 (recovery plan) or any regulatory own funds requirement”, and
+- (d) regulations 17 (exemptions – general) and 18 (exemption connected with winding up) were omitted.
+
+## 6. Certification of additional assets requirement[^key-b3e71f773bd46a85491fb58387b884b0]
+
+(1) If an occupational pension scheme is subject to the regulatory own funds requirement, the calculation of the amount of the regulatory own funds requirement must be certified by the actuary.
+
+(2) An actuarial valuation of the scheme must include the actuary’s certification of the calculation of the amount of the regulatory own funds requirement in the form set out in the Schedule.
+
+(3) If the actuary cannot certify the calculation of the amount of the regulatory own funds requirement, he must report the matter in writing to the Regulator within a reasonable period after the end of the period within which the actuarial valuation must be received by the trustees or managers.
+
+(4) Where the actuary fails to take all reasonable steps to ensure compliance with this regulation, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply as if this regulation were made under Part II of that Order (occupational pensions).
+
+## 7. Restoration of regulatory own funds[^key-226ae711ae77f11a5db311b4518ddda7]
+
+(1) If, having obtained an actuarial valuation and certification of the calculation of the regulatory own funds requirement for an occupational pension scheme, it appears to the trustees or managers of that scheme that the regulatory own funds requirement was not met as at the effective date of the actuarial valuation, the trustees or managers must take such steps as are necessary to ensure that the regulatory own funds requirement is met within two years after the effective date of that valuation.
+
+(2) The trustees or managers must send the Regulator a report of the steps to be taken under paragraph (1) within a reasonable period after having obtained the actuarial valuation and certification of the calculation of the amount of the regulatory own funds requirement.
+
+(3) Where paragraph (1) or (2) is not complied with, the Regulator may by order exercise either or both of the following powers—
+
+- (a) it may modify the scheme as regards the future accrual of benefits;
+- (b) it may impose a schedule of contributions specifying—
+  - (i) the rates of contributions payable towards the scheme by, or on behalf of, the employer and the active members of the scheme, and
+  - (ii) the dates on, or before, which such contributions are to be paid.
+
+(4) Where paragraph (1) or (2) is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
+
+## 8. Certification of schedule of contributions[^key-f4db4611a04808fc2cbdc3190861efd2]
+
+(1) If an occupational pension scheme is subject to the regulatory own funds requirement, the certification of the schedule of contributions for the scheme must also include certification of the schedule of contributions in respect of the additional assets requirement in the form set out in the Schedule.
+
+(2) Where paragraph (1) is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
+
+## 9. Statement of funding principles[^key-51ff9e6dbc1f63468c93e72a30bbf370]
+
+The policy of the trustees or managers of a scheme for securing that the regulatory own funds requirement in relation to the scheme is met is a prescribed matter for the purposes of Article 202(1)(b) (statement of funding principles).
+
+## 10. Postponement[^key-0f9b26f4b5d0213442fd5cb6a966fd60]
+
+(1) If an occupational pension scheme had insufficient assets on 23rd September 2005 to comply with the regulatory own funds requirement, compliance with regulation 3(1) is postponed until 22nd September 2010 (“the postponement period”) after which date compliance with the regulatory own funds requirement cannot be further postponed.
+
+(2) If compliance with regulation 3(1) is postponed in accordance with paragraph (1), the trustees or managers must notify the Regulator of the postponement and the postponement period within a reasonable period after the effective date of the first valuation under Part IV of the Order (scheme funding).
+
+(3)[^key-51823f78b8747a2611bf56b4960b67bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If, at any time during the postponement period, the trustees or managers are satisfied, having taken actuarial advice, that the scheme has sufficient assets to meet the regulatory own funds requirement, they may resolve or determine that the regulatory own funds requirement applies to the scheme.
+
+(5) If the trustees or managers resolve or determine in accordance with paragraph (4) that the regulatory own funds requirement applies to the scheme from a date before the expiry of the postponement period, they must, within one month of the resolution or determination, notify the Regulator of the resolution or determination and the date from which the regulatory own funds requirement applies to the scheme.
+
+(6) If the trustees or managers resolve or determine in accordance with paragraph (4) that the regulatory own funds requirement applies to the scheme from a date before the expiry of the postponement period, they must not subsequently resolve or determine to reapply the postponement period to the scheme.
+
+(7) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
+
+(8)[^key-194968550363c7a4a2e85b7f8db6aa58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Meaning of “European employer”[^key-154a40abfb85906104e1d04b259dc392]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Scheme annual report, accounts and actuarial valuation[^key-a32779f565308b0ac532568970ce3cf6]
+
+(1) If an occupational pension scheme (other than a scheme to which paragraph (3) applies) is subject to the regulatory own funds requirement, the scheme’s annual report, relevant accounts and annual actuarial valuation must—
+
+- (a) include a statement that the regulatory own funds requirement applies to the scheme;
+- (b) include the effective date from which the requirement applies;
+- (c) show the amount of the regulatory own funds requirement calculated as at the date of the scheme’s last actuarial valuation, and
+- (d) show the amount of additional assets held by the scheme to cover the requirement.
+
+(2) In this regulation, the effective date is the date by reference to which the regulatory own funds requirement applies to a scheme.
+
+(3) If compliance with regulation 3(1) is postponed in accordance with regulation 10(1), the scheme’s annual reports, relevant accounts and annual actuarial valuation must include a statement that compliance with the regulatory own funds requirement is postponed until 22nd September 2010.
+
+(4) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager if he fails to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
+
+## 13. Improvement notices and third party notices[^key-2b5ce1e916a5bd02c2a50d4a30add309]
+
+For the purposes of compliance with these Regulations, Articles 9(7) (improvement notices), 10(8) (third party notices) and 85(6) (codes of practice) shall be read as if the definition of “pensions legislation” included these Regulations.
+
+## 14. Registrable information[^key-00d556b055b8bac08d8bc4db855301a8]
+
+Whether the regulatory own funds requirement applies to the scheme and, if it applies, the date from which it applies, is prescribed registrable information for the purposes of Article 55(2)(h) (registrable information).
+
+## 15. Exemptions[^key-c11bc819843f8094833155cb8e0e3b92]
+
+(1) These Regulations do not apply to—
+
+- (a) a scheme which—
+  - (i) is established by, or under, a statutory provision, and
+  - (ii) is guaranteed by a public authority;
+- (b) a pay-as-you-go scheme;
+- (c) a scheme which is established under section 48 of the Northern Ireland Act 1998[^f00012] (pensions of members), or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00013] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00014];
+- (d) a section or part of a scheme which is treated as a scheme by virtue of paragraph 4 or 5, as the case may be, of Schedule 2 to the Scheme Funding Regulations (modifications of the Order and the Scheme Funding Regulations) and—
+  - (i)[^key-adc1cf876d71e69607f30398c44056fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) in the cases described in paragraphs 4(2) and (3) and 5(2)(a) and (b)[^key-ba4c10d7e789a10eff040984628e0b0c] of that Schedule, applies to members in employment outside the United Kingdom;
+- (e) a scheme which—
+  - (i) provides relevant benefits;
+  - (ii) is neither a relevant statutory scheme nor a tax approved scheme, or, from 6th April 2006, is not a tax registered scheme, and
+  - (iii) has fewer than 100 members;
+- (f) a section 615(6) scheme which has fewer than 100 members;
+- (g) a scheme which has fewer than two members;
+- (h) a scheme with[^key-0d376eb800dd7784ed9715a58a0a8e59] fewer than 12 members, where all the members are trustees of the scheme and either—
+  - (i) the provisions of the scheme provide that any decision made by the trustees is[^key-49ca15720491c0a949af6bb5bc83dd67] made by the unanimous agreement of the trustees who are members of the scheme, or
+  - (ii) the scheme has a trustee who is independent[^key-155134ae70c35551d5a2180e8abafc1a] in relation to the scheme for the purposes of Article 23 of the 1995 Order[^f00015] (power to appoint independent trustees) and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
+- (i) a scheme with[^key-48c9f07326c7e76a6b2414aa9f7655d5] fewer than 12 members, where a company is the sole trustee[^key-b3da897b9923bdc8b74e4e231779bddf] of the scheme and all the members of the scheme are directors of the company and either—
+  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement[^key-f7024c7679824f20ae78c42cf9b61191] of the directors who are members of the scheme, or
+  - (ii) one of the directors of the company[^key-c201420733ceb2ae4e0079f28adc77e4] is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
+- (j) a scheme which is subject to the regulatory own funds requirement merely because it provides for the payment of death benefits under the scheme, but only if the death benefits are secured by insurance policies or annuity contracts;
+- (k) a scheme which is the subject of a scheme failure notice under Article 106 (insolvency practitioner’s duty to issue notices confirming status of scheme) or 114 (Board’s duty where application or notification received under Article 113), or
+- (l) subject to regulation 16, a scheme which is being wound up.
+
+(2)[^key-d0e772dfdfa749d14906f4200aab03cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this regulation—
+
+- “pay-as-you-go scheme” means an occupational pension scheme under which there is no requirement for assets to be set aside in advance for the purpose of providing benefits under the scheme (disregarding any requirements relating to additional voluntary contributions);
+- “public authority” means—
+  - (a) a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975[^f00016]);
+  - (b) a government department (including any body or authority exercising statutory functions on behalf of the Crown), or
+  - (c) a local authority;
+- “relevant benefits” has the meaning given in section 612(1) of the Taxes Act[^f00017] (other interpretative provisions, and regulations for purposes of Chapter I of Part XIV of the Taxes Act) or, from 6th April 2006, section 393B of the Income Tax (Earnings and Pensions) Act 2003[^f00018] (relevant benefits);
+- “relevant statutory scheme” has the meaning given in section 611A(1) of the Taxes Act[^f00019] (definition of relevant statutory scheme);
+- “section 615(6) scheme” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Taxes Act[^f00020] (funds for the provision of benefits in respect of employment outside the United Kingdom);
+- [^key-d325660cec85a1a1628266a989a2dcb7]...
+  - (a)
+  - (b)
+- “tax approved scheme” means a scheme which is approved, or was formerly approved, under section 590[^f00021] or 591[^f00022] of the Taxes Act (approval of retirement benefit schemes), or in respect of which an application for such approval has been duly made but has not been determined;
+- “tax registered scheme” means a scheme which is, or is treated as, registered under Chapter 2 of Part 4 of the Finance Act 2004 (registration of pension schemes).
+
+(4) In paragraph (3), “local authority” has the meaning given by Article 2(2) of the Superannuation (Northern Ireland) Order 1972[^f00023] (interpretation).
+
+(5) Where these Regulations cease to apply to a scheme to which they previously applied, because the scheme is of a kind referred to in paragraph (1), that does not affect any rights or obligations arising before these Regulations ceased to apply.
+
+## 16. Exemption connected with winding up[^key-bef07a01472c936026bc19cb4412ee22]
+
+(1) Where the winding up of a scheme begins on or after the commencement date, the exemption provided for in regulation 15(1)(l) is subject to the condition set out in paragraph (2).
+
+(2) The condition referred to in paragraph (1) is that the trustees or managers of the scheme ensure that they receive, before the end of each scheme year following the scheme year in which the winding up of the scheme begins, the actuary’s estimate of the solvency of the scheme as at the end of the preceding scheme year.
+
+(3) In paragraph (2)—
+
+- “the actuary’s estimate of the solvency of the scheme” means—
+  - (a) except in the case referred to in paragraph (b), an estimate by the actuary of whether, at the end of the relevant scheme year, the value of assets of the scheme to be taken into account under paragraph (1) of regulation 3 of the Scheme Funding Regulations (determination of assets and liabilities) exceeded or fell short of the sum of—
+    - (i) the cost of purchasing annuities, of the type described in Article 74(3)(c) of the 1995 Order[^f00024] (discharge of liability by insurance, etc.) and on terms consistent with those in the available market, which would be sufficient to satisfy the liabilities to be taken into account under paragraph (2) of that regulation, and
+    - (ii) the other expenses which, in the opinion of the actuary, would be likely to be incurred in connection with the winding up of the scheme,
+
+    and the amount of the excess or, as the case may be, the shortfall;
+  - (b) where the actuary considers that it is not practicable to make an estimate in accordance with paragraph (a), an estimate of the solvency of the scheme at the end of the relevant scheme year made in such manner as the actuary considers appropriate in the circumstances of the case;
+- “scheme year” means—
+  - (a) either—
+    - (i) a year specified for the purposes of the scheme rules in any document which contains those rules, or
+    - (ii) if no such year is specified, the period of 12 months commencing on 1st April or on such date as the trustees or managers select, or
+  - (b) such other period (if any) exceeding six months but not exceeding 18 months as is selected by the trustees or managers in connection with—
+    - (i) the commencement or termination of the scheme, or
+    - (ii) a variation of the date on which the year or period referred to in paragraph (a) is to commence.
+
+Sealed with the Official Seal of the Department for Social Development on 16th December 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — ACTUARY'S CERTIFICATES[^key-e517dc155ace0ad11cc74fa2e9da6e0d]
+
+Regulations 6(2) and 8(1)
+
+**Form of actuary’s certification of the calculation of the regulatory own funds requirement**
+
+[image: see source](https://www.legislation.gov.uk/nisr/2005/570/images/nisr_20050570_en_001)
+
+**Form of actuary’s certification of schedule of contributions in respect of the regulatory own funds requirement**
+
+[image: see source](https://www.legislation.gov.uk/nisr/2005/570/images/nisr_20050570_en_002)
+
+(This note is not part of the Regulations)
+
+These Regulations implement Article 17 of the European Union Directive [2003/41/EC](https://www.legislation.gov.uk/european/directive/2003/0041) on the activities and supervision of institutions for occupational retirement provision (OJ No. L 235, 23.9.03, p.10) (“the Directive”).
+
+Regulation 3 requires that where an occupational pension scheme itself, rather than an employer, covers any liability for risks linked to death, disability or longevity, guarantees any investment performance, or guarantees to provide defined benefits, the scheme must have additional assets above its technical provisions, which are no less than the minimum required under regulation 4. The additional assets must be free of foreseeable liabilities and must absorb discrepancies between anticipated and actual expenses and profits under the scheme. Regulation 3 also provides that penalties under Article 10 of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 4 provides that the minimum additional assets required (“the regulatory own funds requirement”) are 4% of the scheme’s technical provisions, plus 0.3% of the amount by which the total amount which the scheme would be obliged to pay on the immediate death of all members of the scheme exceeds the technical provisions. The amount of additional assets held to cover the regulatory own funds requirement shall be taken to be the amount shown in the scheme’s annual report and accounts. Regulation 4 also provides that penalties under Article 10 of the 1995 Order apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 5 modifies Part IV of the Pensions (Northern Ireland) Order 2005 (“the Order”) and the Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 so that, where these Regulations apply, an actuarial valuation of the occupational pension scheme must be carried out annually.
+
+Regulation 6 provides that when an actuarial valuation is carried out the actuary must certify the calculation of the regulatory own funds requirement in the form set out in the Schedule to these Regulations. Any failure to do so must be reported by the actuary to the Pensions Regulator (“the Regulator”). It also provides that penalties under Article 10 of the 1995 Order apply to an actuary who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 7 provides that, if the regulatory own funds requirement was not met as at the effective date of the actuarial valuation, the trustees or managers must take such steps as are necessary to ensure that the regulatory own funds requirement is met within two years after that date. The trustees or managers must send the Regulator a report of the steps to be taken. The Regulator may modify the scheme as regards future accrual of benefits and may give directions as to the calculation of the regulatory own funds requirement. The Regulator may also impose a schedule of contributions. Penalties under Article 10 of the 1995 Order apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 8 provides that certification of the schedule of contributions must be in the form set out in the Schedule to these Regulations. It also provides that penalties under Article 10 of the 1995 Order apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 9 provides that the statement of funding principles for the scheme must include the policy for securing that the regulatory own funds requirement is met.
+
+Regulation 10 provides that for those schemes with insufficient assets as at 23rd September 2005 to meet the regulatory own funds requirement, that requirement is postponed until 22nd September 2010. It also provides that a trustee or manager must not undertake cross-border activities during the postponement period. The trustees or managers must inform the Regulator of the postponement and the postponement period. If, during the postponement period, the scheme has sufficient assets to meet the regulatory own funds requirement the trustees or managers may resolve or determine that the requirement applies to the scheme, and if so, they must inform the Regulator. Regulation 10 also provides that penalties under Article 10 of the 1995 Order apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 11 makes provision as to the meaning of “European employer” when that term is used in regulation 10.
+
+Regulation 12 provides that the annual report, accounts and actuarial valuation of an occupational pension scheme which is subject to the regulatory own funds requirement must state whether the regulatory own funds requirement applies to the scheme, and the date from which it applies. If compliance is postponed until 22nd September 2010, the scheme’s annual report, relevant accounts and annual actuarial valuation must include a statement to that effect. It also provides that penalties under Article 10 of the 1995 Order apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance with the requirements in that regulation.
+
+Regulation 13 provides that Articles 9(7), 10(8) and 85(6) of the Order are to be read as if the definition of “pensions legislation” included these Regulations.
+
+Regulation 14 provides that information as to whether the regulatory own funds requirement applies to a scheme and whether compliance has been postponed, is prescribed registrable information for the purposes of Article 55(2)(h) of the Order.
+
+Regulation 15 exempts certain kinds of schemes which are not undertaking cross-border activities within the European Union from the requirements of these Regulations.
+
+Regulation 16 provides for the conditions that a scheme which is winding up, where the winding up begins on, or after, 30th December 2005, must satisfy for it to be exempt from the requirements in these Regulations.
+
+The Schedule to these Regulations sets out the form of the regulatory own funds certificates for the calculation of the regulatory own funds requirement and schedule of contributions in respect of the regulatory own funds requirement.
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of Article 55(2)(h), one of the enabling provisions under which these Regulations are made, to be brought fully into operation on 6th April 2005. The Pensions (2005 Order) (Commencement No. 7) Order (Northern Ireland) 2005 ([S.R. 2005 No. 543 (C. 37)](https://www.legislation.gov.uk/nisr/2005/543)) provides for the coming into operation of Articles 202(1)(b) and 211, some of the other enabling provisions, for the purpose only of authorising the making of regulations on 6th December 2005 and for all other purposes on 30th December 2005.
+
+As these Regulations, in so far as they are made under the Order, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement for consultation under Article 289(1) of the Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+The transposition of Article 17 of the Directive is detailed in a Transposition Note, a copy of which has been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of the Note are available from the Department for Social Development, Social Security Policy and Legislation Division, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast BT7 2JA.
+
+## Annotations
+
+[^f00001]: Footnote: *See* Schedule 2 to the European Communities (Designation) (No. 7) Order 2004 (S.I. [2004/3328](https://www.legislation.gov.uk/uksi/2004/3328))
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-b22406a4abfb6d3515a9b6f4926e1238]: Commencement: Reg. 1 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-311e3fb83f39a068975a0b552cf2de0e]: Commencement: Reg. 2 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^f00004]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^f00005]: Footnote: Under Article 6 of Directive [2003/41/EC](https://www.legislation.gov.uk/european/directive/2003/0041) of 3rd June 2003 on the activities and supervision of institutions for occupational retirement provision “biometrical risks” are defined as meaning risks linked to death, disability and longevity; there is no definition in the Directive of the term “biometric risk” which appears in Article 17 of the Directive
+
+[^key-917dce5670614c5b314e1d4f3fce867c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/570/regulation/2/1) inserted (26.11.2007) by [The Occupational Pension Schemes (EEA States) Regulations (Northern Ireland) 2007 (S.R. 2007/457)](https://www.legislation.gov.uk/nisr/2007/457), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/457/regulation/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2007/457/regulation/11/2)
+
+[^key-044880818a94523fe602da91076fb987]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/570/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: *See* section 1 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35)
+
+[^f00007]: Footnote: Article 41 was amended by paragraph 10(1) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)) and paragraph 22 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434) and is amended by paragraph 46 of Schedule 10, and Schedule 11, to the Pensions (Northern Ireland) Order 2005
+
+[^f00008]: Footnote: [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568)
+
+[^f00009]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-83f6469bbf3c72f1f7d75421704d847e]: Commencement: Reg. 3 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^f00011]: Footnote: Article 10 was amended by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and Schedule 11 to the Pensions (Northern Ireland) Order 2005
+
+[^key-83830cfc3a52e0558a52bcf0778dd56f]: Commencement: Reg. 4 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-99b292c03229893e9195bf2e9a941361]: Commencement: Reg. 5 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-b3e71f773bd46a85491fb58387b884b0]: Commencement: Reg. 6 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-226ae711ae77f11a5db311b4518ddda7]: Commencement: Reg. 7 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-f4db4611a04808fc2cbdc3190861efd2]: Commencement: Reg. 8 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-51ff9e6dbc1f63468c93e72a30bbf370]: Commencement: Reg. 9 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-0f9b26f4b5d0213442fd5cb6a966fd60]: Commencement: Reg. 10 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-51823f78b8747a2611bf56b4960b67bf]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2005/570/regulation/10/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-194968550363c7a4a2e85b7f8db6aa58]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2005/570/regulation/10/8) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-154a40abfb85906104e1d04b259dc392]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/570/regulation/11) omitted (6.4.2007) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/3)
+
+[^key-a32779f565308b0ac532568970ce3cf6]: Commencement: Reg. 12 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-2b5ce1e916a5bd02c2a50d4a30add309]: Commencement: Reg. 13 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-00d556b055b8bac08d8bc4db855301a8]: Commencement: Reg. 14 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^key-c11bc819843f8094833155cb8e0e3b92]: Commencement: Reg. 15 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^f00012]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00013]: Footnote: [1965 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1965/18)
+
+[^f00014]: Footnote: S.I. [1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
+
+[^key-adc1cf876d71e69607f30398c44056fe]: Textual amendment: [Reg. 15(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/d/i) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ba4c10d7e789a10eff040984628e0b0c]: Textual amendment: Words in [reg. 15(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/d/ii) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0d376eb800dd7784ed9715a58a0a8e59]: Textual amendment: Words in [reg. 15(1)(h)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/i)
+
+[^key-49ca15720491c0a949af6bb5bc83dd67]: Textual amendment: Words in [reg. 15(1)(h)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/ii)
+
+[^key-155134ae70c35551d5a2180e8abafc1a]: Textual amendment: Words in [reg. 15(1)(h)(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h/ii) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/iii)
+
+[^f00015]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005 (S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
+
+[^key-48c9f07326c7e76a6b2414aa9f7655d5]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/i)
+
+[^key-b3da897b9923bdc8b74e4e231779bddf]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/l/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/ii)
+
+[^key-f7024c7679824f20ae78c42cf9b61191]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/iii)
+
+[^key-c201420733ceb2ae4e0079f28adc77e4]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/ii) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(iv)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/iv)
+
+[^key-d0e772dfdfa749d14906f4200aab03cf]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(b)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00016]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26)
+
+[^f00017]: Footnote: Section 612 was amended by paragraph 10 of Schedule 10 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16) and is repealed by Part 3 of Schedule 42 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) with effect from 6th April 2006
+
+[^f00018]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 393B is inserted by section 249(3) of the Finance Act 2004 with effect from 6th April 2006
+
+[^f00019]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by paragraph 5 of Schedule 5 to the Finance Act 1999, and is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
+
+[^f00020]: Footnote: Section 615(6) was amended by paragraph 11 of Schedule 10 to the Finance Act 1999
+
+[^key-d325660cec85a1a1628266a989a2dcb7]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(c)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00021]: Footnote: Section 590 was amended by paragraph 18 of Schedule 3 to the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), paragraphs 3 and 18 of Schedule 6 to the Finance Act 1989, sections 34 and 36(2) of the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), paragraph 2 of Schedule 10 to the Finance Act 1999 and Article 2 of S.I. [2005/723](https://www.legislation.gov.uk/uksi/2005/723), and is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
+
+[^f00022]: Footnote: Section 591 was amended by paragraph 6 of Schedule 13 to the Finance Act 1988, section 107 of the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), sections 59(2) and 60(1) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and paragraph 3 of Schedule 10 to the Finance Act 1999, and is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
+
+[^f00023]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^key-bef07a01472c936026bc19cb4412ee22]: Commencement: Reg. 16 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+
+[^f00024]: Footnote: Article 74(3)(c) was amended by Article 60 of S.I. [2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^key-e517dc155ace0ad11cc74fa2e9da6e0d]: Commencement: Sch. in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)

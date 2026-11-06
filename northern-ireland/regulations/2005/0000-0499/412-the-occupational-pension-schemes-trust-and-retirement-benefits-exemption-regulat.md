@@ -1,0 +1,142 @@
+---
+title: The Occupational Pension Schemes (Trust and Retirement Benefits Exemption) Regulations (Northern Ireland) 2005
+id: nisr/2005/412
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-09-01'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/412
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/412/pdfs/nisr_20050412_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/412/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Trust and Retirement Benefits Exemption) Regulations (Northern Ireland) 2005
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 412
+
+PENSIONS
+
+The Occupational Pension Schemes (Trust and Retirement Benefits Exemption) Regulations (Northern Ireland) 2005
+
+Made
+
+1st September 2005
+
+Coming into operation
+
+22nd September 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Articles 229(4), 232(2) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-dd6868d59ee1a317b228bb8e82386098]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Trust and Retirement Benefits Exemption) Regulations (Northern Ireland) 2005 and shall come into operation on 22nd September 2005.
+
+(2) In these Regulations—
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “the Taxes Act” means the Income and Corporation Taxes Act 1988[^f00002];
+- “approved scheme” means an occupational pension scheme—
+  - (a) which is approved under section 590 (conditions for approval of retirement benefit schemes) or 591 (discretionary approval) of the Taxes Act[^f00003]; or
+  - (b) in respect of which an application for such approval has been made but has not been determined before 6th April 2006;
+- “public service pension scheme” has the meaning given by section 1(1) of the Pension Schemes Act[^f00004] (categories of pensions schemes);
+- “registered scheme” means a scheme which is registered in accordance with section 153 of the Finance Act 2004[^f00005] (registration of pension schemes);
+- “relevant benefits”, before 6th April 2006, has the meaning given by section 612(1) of the Taxes Act[^f00006] (other interpretive provisions, and regulations for the purposes of Chapter 1 of Part 14) and, from that date onwards, has the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003[^f00007] (relevant benefits);
+- “relevant statutory scheme” has the meaning given by section 611A of the Taxes Act[^f00008] (definition of relevant statutory scheme).
+- [^key-396d3074ee0d84175c7c2a3f9b56a685]...
+
+## 1A. Application[^key-d64c9ff01544172a4194079b493b2d07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Exemption from trust requirement[^key-4e733333ce9a79bb70c343ae6954411d]
+
+An occupational pension scheme which is—
+
+- (a) a public service pension scheme;
+- (b) an occupational pension scheme with fewer than two members; or
+- (c) an occupational pension scheme which—
+  - (i) has fewer than 100 members,
+  - (ii) provides relevant benefits, and
+  - (iii) is not—
+    - (aa) an approved scheme,
+    - (bb) a relevant statutory scheme, or
+    - (cc) a registered scheme,
+
+  is a scheme of a prescribed description for the purposes of Article 229(4) of the Order (UK-based scheme to be trust with effective rules).
+
+## 3. Exemption from retirement-benefit activities limitation[^key-eaaa3a4032b558077a18be8c8460d4fe]
+
+An occupational pension scheme which—
+
+- (a) has fewer than 100 members;
+- (b) provides relevant benefits; and
+- (c) is not—
+  - (i) an approved scheme,
+  - (ii) a relevant statutory scheme, or
+  - (iii) a registered scheme,
+
+is a scheme of a prescribed description for the purposes of Article 232(2) of the Order (activities of occupational pension schemes).
+
+Sealed with the Official Seal of the Department for Social Development on 1st September 2005.
+
+D. A. Baker
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the description of schemes which are exempt from the requirement in Article 229(2) of the Pensions (Northern Ireland) Order 2005 (“the Order”) that trustees or managers of an occupational pension scheme with its main administration in the United Kingdom must not accept a funding payment unless the scheme is established under irrevocable trust. They also prescribe the description of a scheme which is exempt from the requirement in Article 232(1) of the Order, that an occupational pension scheme with its main administration in the United Kingdom must be limited to retirement benefit-related activities.
+
+Regulation 2 provides for the description of those schemes which are exempt from the requirements of Article 229(2) of the Order.
+
+Regulation 3 provides for the description of a scheme which is exempt from the requirements of Article 232(1) of the Order.
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+The Pensions (2005 Order) (Commencement No. 5 and Appointed Day) Order (Northern Ireland) 2005 ([S.R. 2005 No. 321 (C. 24)](https://www.legislation.gov.uk/nisr/2005/321)) provides for the coming into operation of Articles 229(4) and 232(2) of the Order, some of the enabling provisions under which these Regulations are made, on 1st July 2005 for the purpose of making regulations and on 22nd September 2005 for all other purposes.
+
+Article 229(2) of the Order transposes Article 8 of Directive [2003/41/EC](https://www.legislation.gov.uk/european/directive/2003/0041) (“the Directive”) on the activities and supervision of institutions for occupational retirement provision. Article 8 of the Directive requires legal separation of the assets of an occupational pension scheme and those of a sponsoring employer. Article 232(1) of the Order transposes Article 7 of the Directive. Article 7 of the Directive requires that occupational pension schemes are limited to retirement-benefit activities. The transposition of Articles 7 and 8 of the Directive is detailed in the Transposition Table that relates to the Order. Copies of the Table may be obtained from the Department for Social Development, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast, BT7 2JA.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-dd6868d59ee1a317b228bb8e82386098]: Commencement: Reg. 1 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
+
+[^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00003]: Footnote: Section 590 was amended by paragraph 18 of Part 1 of Schedule 3 to the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 187 of, and paragraphs 3 and 18(2) and (3) of Schedule 6 and Part 4 of Schedule 17 to, the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), sections 34(2) to (4), 36(2) and (3) and 123 of, and Part 5 of Schedule 19 to, the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), paragraph 2 of Schedule 10 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16) and article 2 of S.I. [2005/723](https://www.legislation.gov.uk/uksi/2005/723). Section 591 was amended by paragraph 6 of Part 1 of Schedule 13 to the Finance Act 1988, sections 107(2) to (4) and 258 of, and Part 5 of Schedule 26 to, the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), section 59(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and paragraph 3 of Schedule 10 to the Finance Act 1999. Sections 590 and 591 are repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
+
+[^f00004]: Footnote: Section 1 is amended by Article 216 of the Pensions (Northern Ireland) Order 2005
+
+[^f00005]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 153 is amended by section 101 of, and paragraphs 2 and 3 of Schedule 10 to, the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7)
+
+[^f00006]: Footnote: The definition of “relevant benefits” was amended by paragraph 10(1) of Schedule 10 to the Finance Act 1999. Section 612 is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
+
+[^f00007]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 393B is substituted by section 249(3) of the Finance Act 2004
+
+[^f00008]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act 1989 and amended by paragraph 5 of Schedule 5 to the Finance Act 1999 and is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
+
+[^key-396d3074ee0d84175c7c2a3f9b56a685]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d64c9ff01544172a4194079b493b2d07]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2005/412/regulation/1A) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4e733333ce9a79bb70c343ae6954411d]: Commencement: Reg. 2 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
+
+[^key-eaaa3a4032b558077a18be8c8460d4fe]: Commencement: Reg. 3 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)

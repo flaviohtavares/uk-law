@@ -1,0 +1,81 @@
+---
+title: Bovine Spongiform Encephalopathy (Feedingstuffs and Surveillance) Regulations (Northern Ireland) 1999
+id: nisr/1999/323
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: repealed
+made_date: '1999-07-09'
+text_date: '2002-07-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/323
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/323/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bovine Spongiform Encephalopathy (Feedingstuffs and Surveillance) Regulations (Northern Ireland) 1999
+
+> This law has been repealed or revoked.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**No longer in force.**
+
+1999 No. 323
+
+ANIMALS
+
+ANIMAL HEALTH
+
+Bovine Spongiform Encephalopathy (Feedingstuffs and Surveillance) Regulations (Northern Ireland) 1999 (revoked)[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+Made
+
+9th July 1999
+
+Coming into operation
+
+3rd September 1999
+
+[^key-7c2f4676989b189a6d22a9aaeaae9071]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation and commencement[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Powers of authorised officers in relation to samples[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Investigation of the disease in bovine animals[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Obstruction[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Offences and penalties[^key-7c2f4676989b189a6d22a9aaeaae9071]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-7c2f4676989b189a6d22a9aaeaae9071]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-7c2f4676989b189a6d22a9aaeaae9071]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-7c2f4676989b189a6d22a9aaeaae9071]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/323) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I) (with [Sch. 8 Pt. VI](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/VI))

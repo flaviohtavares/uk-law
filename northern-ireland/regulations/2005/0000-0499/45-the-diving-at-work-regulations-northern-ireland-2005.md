@@ -1,0 +1,606 @@
+---
+title: The Diving at Work Regulations (Northern Ireland) 2005
+id: nisr/2005/45
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-02-22'
+text_date: '2007-05-21'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/45
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/45/pdfs/nisr_20050045_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/45/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Diving at Work Regulations (Northern Ireland) 2005
+
+> Text as at 2007-05-21.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 45
+
+HEALTH AND SAFETY
+
+The Diving at Work Regulations (Northern Ireland) 2005
+
+Made
+
+22nd February 2005
+
+Coming into operation
+
+4th April 2005
+
+The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred on it by Articles 17(1), (2), (4) and (5)[^f00003] and 55(2) of, and paragraphs 1(1), 3, 4, 5, 13, 14(1), 15 and 20(a) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00004] and of every other power enabling it in that behalf and for the purpose of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A)[^f00005] of that Order after the carrying out by the said Executive of consultations in accordance with Article 46(3)[^f00006] of that Order, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-b3a90c994a6f553682be7d92fe5f31d7]
+
+These Regulations may be cited as the Diving at Work Regulations (Northern Ireland) 2005 and shall come into operation on 4th April 2005.
+
+## 2. Interpretation[^key-3b28bbb611a63a79202bce1e9a051b85]
+
+(1) In these Regulations –
+
+- “approved qualification” means such qualification as is approved by the Executive under regulation 14;
+- “certificate of medical fitness to dive” means a certificate issued in accordance with regulation 15;
+- “diver” means a person at work who dives;
+- “diving contractor” shall be construed in accordance with regulation 5;
+- “diving operation” means a diving operation identified in the diving project plan pursuant to regulation 8(3);
+- “diving operation record” means the record required to be kept in accordance with regulation 6(3)(e);
+- “diving project” means any activity, made up of one or more diving operations, in which at least one person takes part or will take part as a diver and extends from the time when that person, or the first such person, commences to prepare to dive until that person, or the last such person, has left the water, chamber or other environment in which the dive, or any part of the dive, took place and has completed any requisite decompression procedures, including, where it may be reasonably anticipated that this will be needed, any therapeutic recompression;
+- “diving project plan” means a document prepared under regulation 6(2)(a) in accordance with regulation 8;
+- “registered medical practitioner” means a fully registered person within the meaning of the Medical Act 1983[^f00007];
+- “supervise” means the exercise of direct personal control;
+- “supervisor” means a person appointed to supervise under regulation 6(2)(b);
+- “territorial sea” means the territorial sea of the United Kingdom adjacent to Northern Ireland and “within the territorial sea” includes on, over and under it;
+- “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952[^f00008].
+
+(2) For the purposes of these Regulations a person “dives” if –
+
+- (a) he enters –
+  - (i) water or any other liquid; or
+  - (ii) a chamber in which he is subject to pressure greater than 100 millibars above atmospheric pressure; and
+- (b) in order to survive in such an environment he breathes in air or other gas at a pressure greater than atmospheric pressure.
+
+## 3. Application and extent[^key-6bd56cfbeaf7dec51f1e0df8eea490e8]
+
+(1) These Regulations shall apply to and in relation to any diving project apart from the following –
+
+- (a) the care or treatment of patients in a hospital or other place, not under the control of the diving contractor, where emergency medical treatment is provided or in transit to such hospital or place where the means of transit is provided by or in respect of the hospital or other place;
+- (b) operations in which members of the armed forces of the Crown or of a visiting force are engaged in warfare or training for warfare;
+- (c) work carried out in any air which is compressed in order to prevent the ingress of ground water to the works or to stabilise the area around the works.
+
+(2) These Regulations shall apply within the territorial sea only to and in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 1 applies.
+
+## 4. Duty to ensure compliance with these Regulations[^key-85beab87b4cfd5023365192681324c78]
+
+Every person who to any extent is responsible for, has control over or is engaged in a diving project or whose acts or omissions could adversely affect the health and safety of persons engaged in such a project, shall take such measures as it is reasonable for a person in his position to take to ensure that these Regulations are complied with.
+
+## 5. The diving contractor[^key-81f7400562846b4eff4d9a73a9d9e823]
+
+(1) A person at work shall not dive in a diving project and an employer shall not employ any person in such a project unless there is one person and one person only who is the diving contractor for that project.
+
+(2) The diving contractor shall, subject to paragraph (3), be the person who –
+
+- (a) is the employer of the diver or divers engaged in the diving project; or
+- (b) dives in the diving project as a self-employed diver.
+
+(3) Where there is more than one person falling within paragraph (2) those persons shall jointly appoint in writing before the commencement of the diving project one of themselves to act as diving contractor.
+
+## 6. Duties of diving contractor[^key-32883069873fdc7c66f938b22ff24e08]
+
+(1) The diving contractor shall ensure, so far as is reasonably practicable, that the diving project is planned, managed and conducted in a manner which protects the health and safety of all persons taking part in that project.
+
+(2) The diving contractor shall –
+
+- (a) ensure that, before the commencement of the diving project, a diving project plan is prepared in respect of that project in accordance with regulation 8 and that the plan is thereafter updated as necessary during the continuance of the project;
+- (b) before the commencement of any diving operation –
+  - (i) appoint a person to supervise that operation in accordance with regulation 9;
+  - (ii) make a written record of that appointment; and
+  - (iii) ensure that the person appointed is supplied with a copy of any part of the diving project plan which relates to that operation;
+- (c) as soon as possible after the appointment of a supervisor, provide that supervisor with a written record of his appointment.
+
+(3) The diving contractor shall –
+
+- (a) ensure that there are sufficient people with suitable competence to carry out safely and without risk to health both the diving project and any action (including the giving of first-aid) which may be necessary in the event of a reasonably foreseeable emergency connected with the diving project;
+- (b) ensure that suitable and sufficient plant is available whenever needed to carry out safely and without risk to health both the diving project and any action (including the giving of first-aid) which may be necessary in the event of a reasonably foreseeable emergency connected with the diving project;
+- (c) ensure that the plant made available under sub-paragraph (b) is maintained in a safe working condition;
+- (d) ensure, so far as reasonably practicable, that any person taking part in the diving project complies with the requirements and prohibitions imposed on him by or under the relevant statutory provisions and observes the provisions of the diving project plan;
+- (e) ensure that a record containing the required particulars is kept for each diving operation; and
+- (f) retain the diving operation record in his possession for at least two years after the date of the last entry in it.
+
+(4) In this regulation, the “required particulars” means such particulars as are approved for the time being in writing by the Executive for the purposes of sub-paragraph 3(e); and any such approval may be given generally or in respect of any diving project or class of diving projects.
+
+## 7. Information to be supplied to Executive by diving contractor[^key-68a303f339d97d9287a98a6fc2712638]
+
+(1) A person shall not act as a diving contractor unless the particulars listed in Schedule 2 have been supplied in writing to the Executive by or in respect of that person.
+
+(2) Where there is a change in any of the particulars supplied under paragraph (1) the diving contractor shall ensure that details of the change are forthwith supplied in writing to the Executive.
+
+(3) Paragraphs (1) and (2) shall not apply where each person (apart from any person at work) diving in the diving project does so for recreational purposes.
+
+## 8. Diving project plan[^key-befe6dad0a84eda082b28314474f604d]
+
+(1) The diving project plan shall be based on an assessment of the risks to the health and safety of any person taking part in the diving project and shall consist of a record of the outcome of the planning carried out in accordance with regulation 6(1) including all such information and instructions as are necessary to give advice to and to regulate the behaviour of those so taking part to ensure, so far as is reasonably practicable, their health and safety.
+
+(2) Without prejudice to the generality of paragraph (1), the diving project plan shall identify any approved code of practice giving guidance on these Regulations which will apply to the diving project.
+
+(3) The diving project plan shall identify each diving operation which makes up the diving project and the nature and size of any diving operation so identified shall be such that it can be safely supervised by one person.
+
+## 9. Appointment of supervisor[^key-6c833b62cdb48874417b3ce463f0e009]
+
+(1) Only one supervisor shall be appointed to supervise a diving operation at any one time.
+
+(2) A person shall not be appointed, or act, as a supervisor unless he is competent and, where appropriate, suitably qualified to perform the functions of supervisor in respect of the diving operation which he is appointed to supervise.
+
+## 10. Duties of supervisor[^key-91e412c5a6ae57598e485c4a4c58b86e]
+
+(1) The supervisor shall, in respect of the diving operation for which he has been appointed as supervisor –
+
+- (a) ensure that it is carried out, so far as is reasonably practicable –
+  - (i) without risk to the health and safety of all those taking part in that operation and of other persons who may be affected thereby;
+  - (ii) in accordance with the requirements and prohibitions imposed on him by or under any relevant statutory provisions; and
+  - (iii) in accordance, where this would not conflict with either head (i) or (ii), with the diving project plan; and
+- (b) before the commencement of the operation, ensure that each person taking part is aware of the contents of the diving project plan which relate to that operation; and
+- (c) enter in the diving operation record the particulars required by regulation 6(4) during the course of the operation.
+
+(2) The supervisor shall not dive during the diving operation which he is supervising unless –
+
+- (a) either –
+  - (i) he is guiding persons engaged in, or training persons to carry out or teach, recreational diving (and for this purpose recreational diving means diving which is carried out by a person for recreational purposes whilst he is not at work) and the persons taking part in the dive use only self-contained underwater breathing apparatus; or
+  - (ii) the dive is for archaeological, educational or scientific purposes, takes place in a tank or pool artificially constructed for the purpose of swimming or diving and the persons taking part in the dive use only self-contained underwater breathing apparatus; and
+- (b) the supervisor can so dive without risk to the health and safety of those taking part in that operation and of other persons who may be affected thereby; and
+- (c) the diving project plan which relates to that operation specifically provides for the supervisor to so dive.
+
+## 11. Power of supervisor to give directions[^key-aaaae7bb30c6db89574b9acd9f3587ba]
+
+A supervisor may, whilst supervising the diving operation in respect of which he is appointed, give such reasonable directions to any person taking part in that operation or who may affect the safety of that operation as are necessary to enable him to comply with regulation 10.
+
+## 12. Duties of and restrictions on divers[^key-0a80f7431302ec37cf3378220ca74f78]
+
+(1) A diver shall not dive in a diving project unless he –
+
+- (a) has, subject to paragraph (2), an approved qualification which is valid for any activity he may reasonably expect to carry out while taking part in the diving project; and
+- (b) has a valid certificate of medical fitness to dive.
+
+(2) Paragraph (1)(a) shall not apply to a diver who dives –
+
+- (a) as a part of training which, if successfully completed, would lead to the issue of an approved qualification;
+- (b) only by virtue of entering a chamber in order to provide emergency medical treatment; or
+- (c) as an actor or performer taking part in a live performance or the recording of a performance other than a person whose work normally involves work as a diver.
+
+(3) Every diver engaged in a diving project shall –
+
+- (a) maintain a daily record of his diving; and
+- (b) keep that record in his possession for at least two years after the date of the last entry in it.
+
+(4) Paragraphs (1)(a) and (3) shall not apply to a diver, other than a person whose work normally involves work as a diver, who dives for educational purposes in a tank or pool artificially constructed for the purpose of swimming or diving and who uses self-contained underwater breathing apparatus.
+
+## 13. Duties of and restrictions on persons engaged in a diving project[^key-c75e8318f9f7c8b712e638d701e1e5c6]
+
+(1) A person shall not dive in a diving project –
+
+- (a) unless he is competent to carry out safely and without risk to health any activity he may reasonably expect to carry out while taking part in the diving project; or
+- (b) if he knows of anything (including any illness or medical condition) which makes him unfit to dive.
+
+(2) Every person engaged in a diving project shall comply with –
+
+- (a) any directions given to him by a supervisor under regulation 11; and
+- (b) where they would not conflict with those directions, any instructions applicable to him in the diving project plan.
+
+## 14. Approved qualifications[^key-ae5d814422aa3c4d5eb6124c39e683b8]
+
+(1) The Executive may approve in writing such qualification as it considers suitable for the purpose of ensuring the adequate competence of divers for the purposes of regulation 12(1)(a).
+
+(2) Any approval given under paragraph (1) may be limited to any diver or class of divers or any dive or class of dive, may be subject to conditions or limited to time, and may be revoked in writing by the Executive at any time.
+
+(3) An approved qualification shall not be valid for the purposes of regulation 12(1)(a) unless any limitation or any condition as to the approval of the qualification under this regulation is satisfied or complied with and the approval has not been revoked.
+
+## 15. Certificate of medical fitness to dive[^key-3d471af6d17ed90eb402645d8e17e747]
+
+(1) A certificate of medical fitness to dive is a certificate from a medical examiner of divers (or from the Executive following an appeal under paragraph (4)) that the person issuing the certificate considers the person named in the certificate to be fit to dive.
+
+(2) A certificate of medical fitness to dive shall state –
+
+- (a) the period (which shall not exceed 12 months) during which the person issuing the certificate considers the person named in the certificate will remain fit to dive; and
+- (b) any other limitations as to the nature or category of diving to which it relates.
+
+(3) A certificate of medical fitness to dive may be subject to conditions stated in the certificate and may be revoked at any time on medical grounds by a medical examiner of divers or the Executive.
+
+(4) Where a certificate of medical fitness to dive is –
+
+- (a) refused;
+- (b) granted subject to limitations under paragraph (2); or
+- (c) subjected to conditions or revoked under paragraph (3),
+
+by a medical examiner of divers, the person who applied for or holds the certificate may, within 28 days of the decision in question, appeal to the Executive against that decision; and the Executive shall thereupon review the decision and if satisfied that the decision should be reversed or altered shall issue a certificate to that effect.
+
+(5) A certificate of medical fitness to dive shall not be valid unless any limitation or any condition stated in it is satisfied or complied with and it has neither expired nor been revoked.
+
+(6) In this regulation, “medical examiner of divers” means a registered medical practitioner who is, or who falls within a class of medical practitioners which is, for the time being, approved in writing by the Executive for the purposes of this regulation; and any such approval may be given generally or restricted to any class of diver or dive.
+
+## 16. Exemption certificates[^key-bf2ec1699320a21e7403541645f5aebe]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons, any diving operation or class of diving operations and any plant or class of plant from any requirement or prohibition imposed by any provision of these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time.
+
+(2) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case, and in particular to –
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any statutory provision which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+## 17. Transitional and supplementary provisions[^key-27aae0273af3f795b76b15ac6789778b]
+
+(1) Any certificate of training and any certificate of medical fitness to dive issued, or having effect as if issued, under the Diving Operations at Work Regulations (Northern Ireland) 1994[^f00009] (“the 1994 Regulations”) shall have effect, subject to any conditions or limitations contained in any such certificate, as if it were, as the case may be, an approved qualification or a certificate of medical fitness to dive for the purposes of these Regulations.
+
+(2) Any diving operation log book required to be maintained under the 1994 Regulations shall be regarded, in respect of entries made therein before the coming into operation of these Regulations, as if it were a diving operation record for the purpose of these Regulations.
+
+(3) Any diver’s log book retained in accordance with regulation 10(6) of the 1994 Regulations shall be retained for such period of time as would have been required by that regulation had the 1994 Regulations not been revoked.
+
+## 18. Revocations[^key-a6180fd8b19ef559294ff2d3d6d84c92]
+
+The Diving Operations at Work Regulations (Northern Ireland) 1994 are hereby revoked.
+
+## 19. Amendments[^key-62e92e1de3bcd994132c4cdb26c7e75a]
+
+The statutory provisions mentioned in Schedule 3 shall be amended to the extent specified in that Schedule.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 22nd February 2005.
+
+Michael J. Bohill
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — PREMISES AND ACTIVITIES WITHIN THE TERRITORIAL SEA
+
+Regulation 3(2)
+
+### 1. Interpretation[^key-74266cdaab0b988b423f440c8a1b28e7]
+
+(1) In this Schedule –
+
+- “activity” includes a diving project;
+- “designated area” means any area designated by Order under section 1(7) of the Continental Shelf Act 1964[^f00010] and “within a designated area” includes over and under it;
+- “diving project”, in this Schedule, has the same meaning assigned to it in regulation 2(1) save that it includes an activity in which a person takes part as a diver wearing an atmospheric pressure suit and without breathing in air or other gas at a pressure greater than atmospheric pressure;
+- “energy structure” means a fixed or floating structure, other than a vessel, for producing energy from wind or water;
+- “offshore installation” shall be construed in accordance with paragraph 2(2) and (3);
+- “supplementary unit” means a fixed or floating structure, other than a vessel, for providing energy, information or substances to an offshore installation;
+- “stand-by vessel” means a vessel which is ready to give assistance in the event of an emergency on or near an offshore installation;
+- “vessel” includes a hovercraft and any floating structure which is capable of being staffed.
+
+(2) For the purposes of this Schedule, any structures and devices on top of a well shall be treated as forming part of the well.
+
+(3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
+
+### 2. Offshore installations[^key-fd93804e92a4274283255f9c2576b12a]
+
+(1) This paragraph shall apply to and in relation to –
+
+- (a) any offshore installation and any activity on it;
+- (b) any activity in connection with an offshore installation, or any activity which is immediately preparatory thereto, whether carried on from the installation itself, in or from a vessel or in any other manner, other than –
+  - (i) transporting, towing or navigating the installation; and
+  - (ii) any activity in or from a vessel being used as a stand-by vessel;
+- (c) a diving project involving –
+  - (i) the survey and preparation of the sea bed for an offshore installation;
+  - (ii) the survey and restoration of the sea bed consequent on the removal of an offshore installation.
+
+(2) Subject to sub-paragraph (3), in this paragraph, “offshore installation” means a structure which is, or is to be, or has been, used while standing or stationed in water, or on the foreshore or other land intermittently covered with water –
+
+- (a) for the exploitation, or exploration with a view to exploitation, of mineral resources by means of a well;
+- (b) for the storage of gas in or under the shore or bed of any water or the recovery of gas so stored;
+- (c) for the conveyance of things by means of a pipe; or
+- (d) mainly for the provision of accommodation for persons who work on or from a structure falling within any of the provisions of this sub-paragraph,
+
+together with any supplementary unit which is ordinarily connected to it, and all the connections.
+
+(3) Any reference in sub-paragraph (2) to a structure or unit does not include –
+
+- (a) a structure which is connected with dry land by a permanent structure providing access at all times and for all purposes;
+- (b) a well;
+- (c) a structure which has ceased to be used for any of the purposes specified in sub-paragraph (2) and has since been used for a purpose not so specified;
+- (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
+- (e) any part of a pipeline.
+
+### 3. Wells[^key-1336bd82d793de931a2e7b69469a77df]
+
+(1) Subject to sub-paragraph (2), this paragraph applies to and in relation to –
+
+- (a) a well and any activity in connection with it; and
+- (b) an activity which is immediately preparatory to any activity in head (a).
+
+(2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
+
+### 4. Pipelines[^key-bb44ac1ee899133d3090f19a5aa80efb]
+
+(1) This paragraph applies to and in relation to –
+
+- (a) any pipeline;
+- (b) any pipeline works;
+- (c) the following activities in connection with pipeline works –
+  - (i) the loading, unloading, fuelling or provisioning of a vessel;
+  - (ii) the loading, unloading, fuelling, repair and maintenance of an aircraft in a vessel, being in either case a vessel which is engaged in pipeline works.
+
+(2) In this paragraph –
+
+- “pipeline” means a pipe or system of pipes for the conveyance of any thing, together with –
+  - (a) any apparatus for inducing or facilitating the flow of any thing through, or through part of, the pipe or system;
+  - (b) any apparatus for treating or cooling any thing which is to flow through, or through part of, the pipe or system;
+  - (c) valves, valve chambers and similar works which are annexed to, or incorporated in the course of, the pipe or system;
+  - (d) apparatus for supplying energy for the operation of any such apparatus or works as are mentioned in heads (a) to (c);
+  - (e) apparatus for the transmission of information for the operation of the pipe or system;
+  - (f) apparatus for the cathodic protection of the pipe or system; and
+  - (g) a structure used or to be used solely for the support of a part of the pipe or system;
+
+  but not including a pipeline of which no initial or terminal point is situated in the United Kingdom, within the territorial sea adjacent to the United Kingdom, or within a designated area;
+- “pipeline works” means –
+  - (a) assembling or placing a pipeline or length of pipeline including the provision of internal or external protection for it;
+  - (b) inspecting, testing, maintaining, adjusting, repairing, altering or renewing a pipeline or length of pipeline;
+  - (c) changing the position of or dismantling or removing a pipeline or length of pipeline;
+  - (d) opening the bed of the sea for the purposes of the works mentioned in heads (a) to (c), and tunnelling or boring for those purposes;
+  - (e) any activities incidental to the activities described in heads (a) to (d);
+  - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
+
+### 5. Mines[^key-e3e0167a3880ce9903355a0753eeaf6f]
+
+(1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
+
+(2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00011].
+
+### 6. Other activities[^key-e34faca697867039ba33d67f10f2f189]
+
+(1) Subject to paragraph (2), this paragraph applies to and in relation to –
+
+- (a) the construction, reconstruction, alteration, repair, maintenance, cleaning, use, operation, demolition and dismantling of any building, energy structure or other structure, not being in any case a vessel, or any preparation for any such activity;
+- (b) the transfer of people or goods between a vessel or aircraft and a structure (including a building) mentioned in head (a);
+- (c) the loading, unloading, fuelling or provisioning of a vessel;
+- (d) a diving project;
+- (e) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of a vessel except when carried out by the master or any officer or member of the crew of that vessel;
+- (f) the maintaining on a station of a vessel which would be an offshore installation were it not a structure to which paragraph 2(3)(d) applies;
+- (g) the operation of a cable for transmitting electricity from an energy structure to shore;
+- (h) the transfer of people or goods between a vessel or aircraft and a structure mentioned in head (f).
+
+(2) This paragraph shall not apply –
+
+- (a) to a case where paragraph 2, 3, 4 or 5 applies; or
+- (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
+
+## SCHEDULE 2 — PARTICULARS TO BE INCLUDED IN THE WRITTEN NOTICE SENT TO THE EXECUTIVE BY THE DIVING CONTRACTOR
+
+Regulation 7(1)
+
+The particulars referred to in regulation 7(1) are –
+
+**1.**[^key-7b475cb4de67718ba3e662e96bc75dd4] Name, address and telephone number of the diving contractor.
+
+**2.**[^key-7266ca042d253066bbf29e0132722c1b] Legal status of the diving contractor (for example: limited company, partnership, sole proprietor).
+
+**3.**[^key-6483b6c07a8fb81d0bf9974782bdce87] Name, address and telephone number (where different from 1) of the person to be contacted, in case of need, by the Executive.
+
+**4.**[^key-1386df7fce972df64981aa2145423e6f] The signature and full name of the person supplying the particulars.
+
+**5.**[^key-50485a668ab2a2370944135a85eac874] The date upon which the particulars are supplied.
+
+## SCHEDULE 3 — AMENDMENTS
+
+Regulation 19
+
+### Health and Safety (First-Aid) Regulations (Northern Ireland) 1982
+
+**1.**[^key-fd451ca830dbd02463b036219a5cb9f5] In regulation 7(f) of the Health and Safety (First-Aid) Regulations (Northern Ireland) 1982[^f00012], for the words “the Diving Operations at Work Regulations (Northern Ireland) 1994” there shall be substituted the words “the Diving at Work Regulations (Northern Ireland) 2005”.
+
+### Construction (Head Protection) Regulations (Northern Ireland) 1990
+
+**2.**[^key-684f8759dfa73475d71befabac8327bf] In regulation 3(2) of the Construction (Head Protection) Regulations (Northern Ireland) 1990[^f00013], for the words “a diving operation as construed in accordance with regulation 2(2)(a) of the Diving Operations at Work Regulations (Northern Ireland) 1983” there shall be substituted the words “a diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005”.
+
+### Offshore Installations (Safety Case) Regulations (Northern Ireland) 1993
+
+**3.**[^key-70a635a607e2447580bed083e763f277] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reporting of Injuries Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997
+
+**4.**[^key-dcbdf71edaf3cd3cbdf64ef79f00db04] In the Reporting of Injuries Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00015] –
+
+- (a) in regulation 2(1) –
+  - (i) for the definitions of “diving contractor” and “diving operation” there shall be substituted the following definition –
+
+    > - “diving contractor” has the meaning assigned to it by regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005;
+
+    ; and
+  - (ii) after the definition of “diving contractor” there shall be inserted the following definition –
+
+    > - “diving project” has the meaning assigned to it by regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005
+
+    ; and
+  - (iii) in sub-paragraph (a)(vii) of the definition of “responsible person”, for the words “diving operation” there shall be substituted the words “diving project”;
+- (b) in paragraph 10 of Schedule 2, for the words “diving operation”, wherever they occur, there shall be substituted the words “diving project”.
+
+### Confined Spaces Regulations (Northern Ireland) 1999
+
+**5.**[^key-d2167082182074a738ea6c9f87ec2c6f] In the Confined Spaces Regulations (Northern Ireland) 1999[^f00016] –
+
+- (a) in regulation 1(2), for the definition of “diving operation” there shall be substituted the following definition –
+
+  > - “diving project” has the meaning assigned to it by regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005;
+
+  ;
+- (b) in regulation 2, for paragraph (c) there shall be substituted the following paragraph –
+
+  > - (c) any diving project to and in relation to which the Diving at Work Regulations (Northern Ireland) 2005 apply by virtue of regulation 3 of those Regulations.
+
+  ;
+- (c) in Schedule 1 –
+  - (i) in paragraph 1(1) the following definition shall be inserted –
+
+    > - “diving project” has the same meaning assigned to it by regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005 save that it includes an activity in which a person takes part as a diver wearing an atmospheric pressure suit and without breathing in air or other gas at a pressure greater than atmospheric pressure;
+  - (ii) paragraph 1(3) shall be omitted; and
+  - (iii) in paragraph 4(1)(b) and (c) and in head (f) of the definition of “pipeline works” in paragraph 6(2) for the words “diving operations” there shall be substituted the words “a diving project”.
+
+### Pressure Systems Safety Regulations (Northern Ireland) 2004
+
+**6.**[^key-783b3a287b0b19a037aa3107f034f9aa] In the Pressure Systems Safety Regulations (Northern Ireland) 2004[^f00017] –
+
+- (a) in paragraph 7 of part I of Schedule 1 for the words “regulation 5(1)(d) of the Diving Operations at Work Regulations (Northern Ireland) 1994 and used or intended to be used in the course of a diving project” there shall be substituted the words “regulation 6(3)(b) of the Diving at Work Regulations (Northern Ireland) 2005”;
+- (b) in Schedule 4 –
+  - (i) in paragraph 1(1) of the definition of “activity” for the words “diving operation” there shall be substituted the words “diving project”;
+  - (ii) for the definition “diving operation” there shall be substituted the following definition –
+
+    > - “diving project” has the same meaning assigned to it by regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005 save that it includes an activity in which a person takes part as a diver wearing an atmospheric pressure suit and without breathing in air or other gas at a pressure greater than atmospheric pressure;
+
+    ; and
+  - (iii) in paragraph 2(1)(c) and in head (f) of the definition of “pipeline works” in paragraph 4(2) and in paragraph 6(d) for the words “diving operation” there shall be substituted the words “diving project”.
+
+### Work in Compressed Air Regulations (Northern Ireland) 2004
+
+**7.**[^key-f0122d79bf4cabd3189d0e699f205272] In regulation 3(2) of the Work in Compressed Air Regulations (Northern Ireland) 2004[^f00018], for the words “to any diving operation as construed in accordance with regulation 2(2)(a) of the Diving Operations at Work Regulations (Northern Ireland) 1994” there shall be substituted the words “to any diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005”.
+
+(This note is not part of the Regulations.)
+
+**1.** These Regulations impose requirements and prohibitions with respect to persons at work who “dive” as defined in regulation 2(2).
+
+**2.** The Regulations apply to a “diving project” as defined in regulation 2(1) subject to specified exceptions (regulation 3).
+
+**3.** The Regulations –
+
+- (a) impose a duty on every person who is responsible for, has control over or is engaged in a diving project or whose acts or omissions could adversely affect the health and safety of persons engaged in a diving project to take reasonable measures to ensure compliance with the Regulations (regulation 4);
+- (b) require that there should be a single diving contractor for every diving project (regulation 5);
+- (c) require the diving contractor to ensure, so far as is reasonably practicable, that the diving project is planned, managed and conducted so as to protect health and safety (regulation 6(1));
+- (d) require that before the commencement of any diving project the diving contractor ensures that a diving project plan is prepared and that before the commencement of any diving operation as defined in regulation 2(1) the diving contractor appoints a person to supervise that operation, makes a record of that appointment and provides the person appointed with a copy of the relevant part of the diving project plan and a written record of his appointment (regulation 6(2));
+- (e) require the diving contractor to ensure that there are sufficient suitably competent people to carry out the diving project safely, that suitable and sufficient plant is available to carry out the diving project safely, that such plant is maintained, that any person taking part in the diving project complies with the relevant statutory provisions and observes the provisions of the diving project plan, and that a record of each diving operation is kept (regulation 6(3));
+- (f) require each diving contractor to supply specified particulars to the Health and Safety Executive for Northern Ireland (“the Executive”) (regulation 7 and Schedule 2);
+- (g) require the diving project plan to be based on an assessment of risks and impose requirements with respect to the contents of the plan (regulation 8);
+- (h) require that one supervisor only is appointed to supervise a diving operation and require supervisors to be competent and, where appropriate, suitably qualified (regulation 9);
+- (i) specify the duties of the supervisor who is required to ensure that the diving operation is carried out without risk to health and safety and in accordance with any relevant statutory provisions and the diving project plan. The supervisor is required to ensure that persons taking part in the diving operation are aware of the relevant contents of the diving project plan and to make entries in the diving operation record. The supervisor is prohibited from diving during the diving operation which he is supervising except in specified circumstances (regulation 10);
+- (j) confer power upon the supervisor to give reasonable directions (regulation 11);
+- (k) impose requirements concerning approved qualifications, certificates of medical fitness to dive and daily diving records on divers who dive in diving projects. Specified classes of diver are excepted from specified requirements (regulation 12);
+- (l) prohibit any person from diving in a diving project unless he is competent or if he knows of anything which makes him unfit to dive and require every person engaged in a diving project to comply with directions given to him by a supervisor and with relevant instructions in the diving project plan (regulation 13);
+- (m) provide that the Executive may approve such diving qualifications as it considers suitable for ensuring the adequate competence of divers. Any such approval may be subject to limitations or conditions (regulation 14);
+- (n) contain requirements with respect to certificates of medical fitness to dive including provisions for appeal to the Executive against decisions to refuse, grant subject to limitation or condition, or revoke such a certificate (regulation 15);
+- (o) provide that the Executive may grant exemptions from any requirement or prohibition of the Regulations in specified circumstances (regulation 16);
+- (p) contain transitional provisions regarding certificates of training, certificates of medical fitness to dive, diving operation log books and divers' log books (regulation 17);
+- (q) revoke the Diving Operations at Work Regulations (Northern Ireland) 1994 (regulation 18); and
+- (r) provide for consequential amendments to specified statutory provisions (regulation 19 and Schedule 3).
+
+**4.** In Great Britain, the corresponding Regulations are the Diving at Work Regulations 1997 ([S.I. 1997/2776](https://www.legislation.gov.uk/uksi/1997/2776)). Copies of the regulatory impact assessment relating to those Regulations together with a Northern Ireland Supplement are held at the offices of the Health and Safety Executive for Northern Ireland at 83 Ladas Drive, Belfast BT6 9FR from where copies may be obtained on request.
+
+**5.** A person who contravenes these Regulations or any requirement or prohibition imposed thereunder, is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3 and [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5)
+
+[^f00002]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00003]: Footnote: Article 17 must be read with [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3(2) and 4(2)
+
+[^f00004]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); the general purposes of Part II referred to in Article 17(1) were extended by [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3(1) and 4(1). Article 47A was inserted by Article 3, and Article 2 was amended by Articles 4 and 8, of [S.I. 1997/1774 (N.I. 16)](https://www.legislation.gov.uk/nisi/1997/1774)
+
+[^f00005]: Footnote: Article 13(1) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
+
+[^f00006]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18(c)
+
+[^key-b3a90c994a6f553682be7d92fe5f31d7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-3b28bbb611a63a79202bce1e9a051b85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/45/regulation/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00007]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); as amended by [1995 c. 51](https://www.legislation.gov.uk/ukpga/1995/51), [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17) and [S.I. 1986/23](https://www.legislation.gov.uk/uksi/1986/23), [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [S.I. 2000/1803](https://www.legislation.gov.uk/uksi/2000/1803), [S.I. 2000/3041](https://www.legislation.gov.uk/uksi/2000/3041) and [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135)
+
+[^f00008]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
+
+[^key-6bd56cfbeaf7dec51f1e0df8eea490e8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/45/regulation/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-85beab87b4cfd5023365192681324c78]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/45/regulation/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-81f7400562846b4eff4d9a73a9d9e823]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/45/regulation/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-32883069873fdc7c66f938b22ff24e08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/45/regulation/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-68a303f339d97d9287a98a6fc2712638]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/45/regulation/7) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-befe6dad0a84eda082b28314474f604d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/45/regulation/8) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-6c833b62cdb48874417b3ce463f0e009]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/45/regulation/9) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-91e412c5a6ae57598e485c4a4c58b86e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/45/regulation/10) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-aaaae7bb30c6db89574b9acd9f3587ba]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/45/regulation/11) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-0a80f7431302ec37cf3378220ca74f78]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/45/regulation/12) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-c75e8318f9f7c8b712e638d701e1e5c6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/45/regulation/13) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-ae5d814422aa3c4d5eb6124c39e683b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/45/regulation/14) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-3d471af6d17ed90eb402645d8e17e747]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/45/regulation/15) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-bf2ec1699320a21e7403541645f5aebe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/45/regulation/16) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-27aae0273af3f795b76b15ac6789778b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/45/regulation/17) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00009]: Footnote: [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146) as amended by [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) and [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
+
+[^key-a6180fd8b19ef559294ff2d3d6d84c92]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/45/regulation/18) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-62e92e1de3bcd994132c4cdb26c7e75a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/45/regulation/19) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-74266cdaab0b988b423f440c8a1b28e7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00010]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
+
+[^key-fd93804e92a4274283255f9c2576b12a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-1336bd82d793de931a2e7b69469a77df]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-bb44ac1ee899133d3090f19a5aa80efb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-e3e0167a3880ce9903355a0753eeaf6f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00011]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
+
+[^key-e34faca697867039ba33d67f10f2f189]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-7b475cb4de67718ba3e662e96bc75dd4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-7266ca042d253066bbf29e0132722c1b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-6483b6c07a8fb81d0bf9974782bdce87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-1386df7fce972df64981aa2145423e6f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-50485a668ab2a2370944135a85eac874]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^key-fd451ca830dbd02463b036219a5cb9f5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00012]: Footnote: [S.R. 1982 No. 429](https://www.legislation.gov.uk/nisr/1982/429) as amended by [S.R. 1993 No. 323](https://www.legislation.gov.uk/nisr/1993/323); [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146); [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
+
+[^key-684f8759dfa73475d71befabac8327bf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00013]: Footnote: [S.R. 1990 No. 424](https://www.legislation.gov.uk/nisr/1990/424) as amended by [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20) and [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
+
+[^key-70a635a607e2447580bed083e763f277]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/3) omitted (21.5.2007) by virtue of [The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007 (S.R. 2007/247)](https://www.legislation.gov.uk/nisr/2007/247), [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2007/247/schedule/10/paragraph/6) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2007/247/regulation/4/2), [27](https://www.legislation.gov.uk/nisr/2007/247/regulation/27))
+
+[^key-dcbdf71edaf3cd3cbdf64ef79f00db04]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00015]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455) as amended by [S.R. 1998 No. 375](https://www.legislation.gov.uk/nisr/1998/375); [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375) and [S.R. 2001 No. 436](https://www.legislation.gov.uk/nisr/2001/436)
+
+[^key-d2167082182074a738ea6c9f87ec2c6f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00016]: Footnote: [S.R. 1999 No. 13](https://www.legislation.gov.uk/nisr/1999/13) as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
+
+[^key-783b3a287b0b19a037aa3107f034f9aa]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00017]: Footnote: [S.R. 2004 No. 222](https://www.legislation.gov.uk/nisr/2004/222)
+
+[^key-f0122d79bf4cabd3189d0e699f205272]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/7) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+
+[^f00018]: Footnote: [S.R. 2004 No. 241](https://www.legislation.gov.uk/nisr/2004/241)

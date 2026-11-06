@@ -1,0 +1,213 @@
+---
+title: The Individual Learning Accounts Regulations (Northern Ireland) 2000
+id: nisr/2000/379
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-11-30'
+text_date: '2020-01-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/379
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/379/pdfs/nisr_20000379_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/379/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Individual Learning Accounts Regulations (Northern Ireland) 2000
+
+> Text as at 2020-01-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 379
+
+EDUCATION AND TRAINING
+
+The Individual Learning Accounts Regulations (Northern Ireland) 2000
+
+Made
+
+30th November 2000
+
+Coming into operation
+
+31st December 2000
+
+The Department of Higher and Further Education, Training and Employment, in exercise of the powers conferred on it by sections 106, 109 and 152 of the Learning and Skills Act 2000[^f00001], and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-18a831920ba5cf6c2f29f9e9ed467e38]
+
+These Regulations may be cited as the Individual Learning Accounts Regulations (Northern Ireland) 2000 and shall come into operation on 31st December 2000.
+
+## 2. Interpretation[^key-2e602e458c7f5d037e8825152f85094f]
+
+(1) In these Regulations—
+
+- “the Act” means the Learning and Skills Act 2000;
+- “the Department” means the Department of Higher and Further Education, Training and Employment;
+- “eligible person” has the meaning given in regulation 4;
+- “individual learning account holder” means a person who is a party to qualifying arrangements (as specified in regulation 3);
+- “learning account administrator” means a body which has the benefit of an approval given by the Department for the purposes of these Regulations and not withdrawn;
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Qualifying arrangements[^key-9790c68321a80d736c520d5ac505cbb5]
+
+(1) For the purposes of section 106 of the Act arrangements are qualifying arrangements under that section if—
+
+- (a) they take the form of registration by an eligible person with a learning account administrator; and
+- (b) the registration has not been cancelled or withdrawn in accordance with regulation 5.
+
+(2) For the purposes of section 106 of the Act arrangements are also qualifying arrangements if they are—
+
+- (a) arrangements which qualify under section 105 of the Act by virtue of regulations made by the Secretary of State for Education and Employment; or
+- (b) arrangements which qualify under section 105 of the Act by virtue of regulations made by the National Assembly for Wales; or
+- (c) arrangements which qualify under any provision of an Act of the Scottish Parliament which corresponds to section 105 of the Act,
+
+and if the person who is a party to them is resident in Northern Ireland and satisfies the condition in sub-paragraph (3)(*a*) or that in sub-paragraph (3)(*b*).
+
+(3) The condition is:
+
+- (a) that the person has attained the age of 18 at the date of registration and satisfies the condition set out in regulation 4(3); or
+- (b) that a grant has been paid in respect of the person’s education and training pursuant to—
+  - (i) regulations under section 108 of the Act made by the Secretary of State for Education and Employment;
+  - (ii) regulations under section 108 of the Act made by the National Assembly for Wales;
+  - (iii) regulations under any Act of the Scottish Parliament which corresponds to section 108 of the Act.
+
+## 4. Meaning of eligible person[^key-26a3172cb729ccc131778f05025a4f92]
+
+(1) For the purposes of these Regulations a person is an eligible person if he satisfies the conditions contained in paragraphs (2) to (4) at the date of registration.
+
+(2) The first condition is that the person has attained the age of 18.
+
+(3) The second condition is that the person—
+
+- (a) is settled in the United Kingdom within the meaning of the Immigration Act 1971[^f00003];
+- (b) is a refugee, ordinarily resident in the United Kingdom who has not ceased to be so resident since he was recognised as a refugee, or who is the spouse, civil partner,[^key-8ad2931a5fe306847daf62def05e2b1c] child, or stepchild of such a refugee;
+- (c) is a person who—
+  - (i) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to remain in the United Kingdom;
+  - (ii) has been granted leave to enter or remain accordingly, and
+  - (iii) has been ordinarily resident in the United Kingdom throughout the period since he was granted leave to enter or remain,
+
+  or who is the spouse, civil partner,[^key-0442b03adf37be683128fa249eb05524] child or stepchild of such a person; or
+- (d) is a person not falling within paragraphs (*a*) to (*c*) but is a national of a member state of the European Economic Area who is working in the United Kingdom, or the spouse, civil partner,[^key-921918148156facafacd69e461bfcb6d] child or stepchild of such a person.
+
+(4) The third condition is that at the time of registration the person was either—
+
+- (a) resident in Northern Ireland (temporarily or permanently); or
+- (b) resident outside the United Kingdom but ordinarily resident in Northern Ireland.
+
+## 5. Registration[^key-4d827ad30624fcc1aade1219faf44215]
+
+(1) A learning account administrator may require an application for registration to provide such information or documents as the learning account administrator may determine in order for the learning account administrator to determine whether the person is an eligible person and may decline to accept an application for registration unless such information or documents are provided.
+
+(2) A learning account administrator may at any time cancel a registration if—
+
+- (a) the person ceases to be an eligible person; or
+- (b) it appears to the learning account administrator that any information provided under paragraph (1) was false in a material particular.
+
+(3) A person who has registered with a learning account administrator may at any time withdraw his registration.
+
+(4) Where a person is a party to qualifying arrangements any subsequent registration with a learning account administrator shall be of no effect.
+
+## 6. Grants in respect of individual learning account holders[^key-d8554723c8b4914806e6288b4d1524d3]
+
+Grants may be paid in accordance with regulations 7 to 8 in respect of individual learning account holders in connection with any education or training proposed to be undertaken by them where—
+
+- (a) the individual learning account holder at the time of payment of the grant is not in receipt of any scholarship, grant or other allowance paid out of public funds in respect of the whole cost of the education or training in question; and
+- (b) the education or training falls within regulation 7.
+
+## 7. Education or training for which grants can be paid[^key-97a35d65737f3835c58eccc9593d8091]
+
+(1) The education or training referred to in regulation 6 is any education or training other than excepted education which is—
+
+- (a) of a kind specified by the Department in any way it thinks fit; and
+- (b) provided by a person who has registered with a learning account administrator and whose registration has not been withdrawn.
+
+(2) In this regulation, excepted education is—
+
+- (a) secondary education as defined in Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986[^f00004];
+- (b) full-time higher education (that is to say education provided by means of a course of any description mentioned in Schedule 1 to the Further Education (Northern Ireland) Order 1997[^f00005]);
+- (c) education or training which is a statutory requirement for the person’s particular employment;
+- (d) other such education or training as may be specified by the Department.
+
+## 8. Grants: supplementary provisions[^key-e7659d30180ddf615b53aafb0d991dc6]
+
+(1) The Department, or a learning account administrator under arrangements made with the Department, may pay grants to any person in respect of education or training provided by that person to an individual learning account holder.
+
+(2) Grants under paragraph (1) shall be of such amount as the Department may decide;
+
+(3) Grants under paragraph (1)—
+
+- (a) shall be paid at such times and in such manner; and
+- (b) shall be on such terms,
+
+as the Department may decide.
+
+(4) Terms imposed under paragraph (3)(*b*) may include terms requiring repayment of the whole or part of the grant to the Department or (as the case may be) to the learning account administrator if—
+
+- (a) the education or training in question is not provided; or
+- (b) the individual learning account holder does not undertake the education or training; or
+- (c) any other terms on which the grant was paid are not complied with.
+
+(5) Where a learning account administrator pays grants under arrangements made with the Department, the Department may pay the learning account administrator remuneration or amounts to meet the learning account administrator’s expenses.
+
+Sealed with the Official Seal of the Department of Higher and Further Education, Training and Employment on November 2000.
+
+Seán Farren
+
+Minister of Higher and Further Education, Training and Employment
+
+(This note is not part of the Regulations.)
+
+These Regulations provide for grants to be paid in respect of the education or training of individual learning account holders.
+
+Regulations 3 and 4 define the arrangements that qualify a person to become an individual learning account holder. A person must be 18 or over, registered with a learning account administrator and resident of Northern Ireland. In certain circumstances qualifying arrangements under corresponding provisions applying in England, Scotland and Wales will qualify under these Regulations.
+
+Regulation 5 provides for the learning account administrator to require information from a person applying for registration as an individual learning account holder and to cancel a registration in certain circumstances.
+
+Regulation 6 provides for the payment of grants in respect of individual learning account holders.
+
+Regulation 7 provides that grants may be paid in respect of any education or training specified by the Department other than secondary or full-time higher education, and training required by statute.
+
+Regulation 8 provides for the amount and manner of payment of grants to persons providing education or training.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21)
+
+[^key-18a831920ba5cf6c2f29f9e9ed467e38]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^key-2e602e458c7f5d037e8825152f85094f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/379/regulation/2) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9790c68321a80d736c520d5ac505cbb5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/379/regulation/3) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^key-26a3172cb729ccc131778f05025a4f92]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/379/regulation/4) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), section 39 and Schedule 4, by the Immigration Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), sections 1, 3, 4, 6 and 10 and the Schedule, and by the Asylum and Immigration Appeals Act [1993 (c. 23)](https://www.legislation.gov.uk/ukpga/1993/23), sections 10 to 12
+
+[^key-8ad2931a5fe306847daf62def05e2b1c]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2000/379/regulation/4/3/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [152](https://www.legislation.gov.uk/uksi/2019/1514/regulation/152) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-0442b03adf37be683128fa249eb05524]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2000/379/regulation/4/3/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [152](https://www.legislation.gov.uk/uksi/2019/1514/regulation/152) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-921918148156facafacd69e461bfcb6d]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/nisr/2000/379/regulation/4/3/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [152](https://www.legislation.gov.uk/uksi/2019/1514/regulation/152) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-4d827ad30624fcc1aade1219faf44215]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/379/regulation/5) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^key-d8554723c8b4914806e6288b4d1524d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/379/regulation/6) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^key-97a35d65737f3835c58eccc9593d8091]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/379/regulation/7) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)
+
+[^f00004]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594); the definition of “secondary education” in Article 2(2) was amended by the Education Reform (Northern Ireland) Order 1989 (S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)), Article 196 and Schedule 10 (words repealed) and by the Further Education (Northern Ireland) Order 1997 (S.I. [1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772), Schedule 4
+
+[^f00005]: Footnote: S.I. [1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
+
+[^key-e7659d30180ddf615b53aafb0d991dc6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/379/regulation/8) in operation at 31.12.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/379/regulation/1)

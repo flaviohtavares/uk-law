@@ -1,0 +1,399 @@
+---
+title: The Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002
+id: nisr/2002/74
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-03-05'
+text_date: '2014-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/74
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/74/pdfs/nisr_20020074_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/74/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002
+
+> Text as at 2014-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 74
+
+PENSIONS
+
+The Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002
+
+Made
+
+5th March 2002
+
+Coming into operation
+
+1st April 2002
+
+The Department for Social Development, in exercise of the powers conferred by section 109(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 10(2)(*b*) and (3), 23(2), 26B(3)(*b*), 26C(2) and (3), 49A(1), (2)(*b*) and (3), 71A(4), 72A(1)(*b*), (2), (7) and (8)(*a*), 72B(2)(*c*)(iii), (3), (5)(*c*), (6)(*c*) and (8)(*b*), 115(2), 121(8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-f9748ae2260373f74a324a8dcdf70dca]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002 and shall come into operation on 1st April 2002.
+
+(2) In these Regulations—
+
+- “member”, “deferred member” and “pensioner member” have the meanings given in Article 121(1)[^f00004], subject to the provision made by regulations 5(3) and 10(3);
+- “small self-administered scheme” has the meaning given in regulation 2(1) of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991[^f00005].
+
+(3) Subject to paragraph (4), the Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+(5) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
+
+## 2. Schemes within Article 22: appointment of independent trustee[^key-6195ac3218af5dd0e1953ee9daae1baf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Other schemes: notice to the Authority that Article 26B applies[^key-6195ac3218af5dd0e1953ee9daae1baf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Persons exempted from duty to give notices to the Authority under Article 26A or 26B[^key-7b1f013229fdc31350f5e71af025ba9b]
+
+In Article 26C (construction of Articles 26A and 26B) references, in relation to a scheme, to a person involved in the administration of the scheme do not include any person whose only involvement with the scheme is in connection with—
+
+- (a) underwriting policies of insurance that are specifically allocated to the provision of benefits for individual members or other persons with rights to benefits under the scheme or annuity contracts, or
+- (b) providing advice about the management of investments.
+
+## 5. Schemes disapplied from Articles 26A and 26B[^key-cb2e339efa04ab054c1456aae5fe9da1]
+
+(1) Article 26A (information to be given to the Authority in relation to a scheme to which Article 22 applies) does not apply to any scheme within paragraph (2)(*a*) or (*b*), and Article 26B does not apply to any scheme within paragraph (2).
+
+(2) A scheme is within this paragraph if it is—
+
+- (a) a scheme of which there is only one member;
+- (b) a small self-administered scheme;
+- (c) a scheme of which each member is a trustee, or
+- (d) a scheme—
+  - (i) the only benefits provided by which are death benefits, and
+  - (ii) under the provisions of which no member has accrued rights.
+
+(3) In this regulation “member” means a deferred member or a pensioner member.
+
+## 6. Penalties for failing to give notice to the Authority under Article 26A or 26B[^key-7370ee404c0cbae71cf514565f20de95]
+
+(1) This regulation applies for the purpose of prescribing the meaning of “the maximum amount” in Article 10 (civil penalties) in cases where that Article applies to any person by virtue of Article 26A(7) or (8) or 26B(4) (failure to give certain notices to the Authority).
+
+(2) Where that person is an individual, the maximum amount is £1,000.
+
+(3) Where that person is not an individual, the maximum amount is £10,000.
+
+## 7. Applications to the Authority to modify schemes to secure winding up[^key-b6a5b0ab98cab1a5cf18ebceee49fde3]
+
+(1) This regulation applies where an application is made to the Authority under Article 71A (modification by Authority to secure winding up) to make an order modifying a scheme with a view to ensuring that it is properly wound up.
+
+(2) The application shall—
+
+- (a) set out the modification requested;
+- (b) specify the effects, if any, which the modification would or might have—
+  - (i) on benefits under the scheme that are in payment at the time of the application, and
+  - (ii) on benefits under it which are or may be payable at a later time;
+- (c) specify the reason for requesting the modification;
+- (d) specify whether any previous application has been made to a court or to the Authority for an order to make the modification requested by the application or any similar modification;
+- (e) confirm that at the time the application is made the employer in relation to the scheme is subject to an insolvency procedure (within the meaning given by Article 71A(8));
+- (f) specify whether the modification would reduce the value of the assets, if any, which might otherwise be distributed to that employer on the winding up, and
+- (g) contain a statement that the notices required by paragraph (3) have been given.
+
+(3) Before making the application the trustees or managers of the scheme shall give notice in writing that the application is being made—
+
+- (a)[^key-de488f53bb2d7a671038908aef4d790e] to all members of the scheme (except a member mentioned in paragraph (3A)) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents), and
+- (b) if the modification would reduce the value of the assets which might otherwise be distributed to the employer on the winding up, to the person acting as an insolvency practitioner in relation to the employer or, as the case may be, the official receiver,
+
+and the references in sub-paragraph (*b*) to “acting as an insolvency practitioner” and “official receiver” shall be construed in accordance with Articles 3 and 2 of the Insolvency (Northern Ireland) Order 1989[^f00010].
+
+(3A)[^key-426e3e909707d438842c2151fba5cbdc] A member referred to in paragraph (3)(a) is a member—
+
+- (a) whose present postal address and electronic address are not known to the trustees or managers of the scheme, and
+- (b) in respect of whom the trustees or managers of the scheme have sent correspondence to that member’s last known—
+  - (i) postal address and that correspondence has been returned, or
+  - (ii) electronic address and the trustees or managers of the scheme are satisfied that that correspondence has not been delivered.
+
+(4) A notice under paragraph (3) shall—
+
+- (a) in the case of a notice under paragraph (3)(*a*), specify the information referred to in paragraph (2)(*a*), (*b*), (*c*) and (*f*);
+- (b) in the case of a notice under paragraph (3)(*b*), specify the information referred to in paragraph (2)(*a*) to (*d*) and (*f*);
+- (c) specify the date on which it is given, and
+- (d) contain a statement about the recipient’s rights under paragraph (5).
+
+(5) A member of the scheme in respect of which the application is made or a person to whom a notice is to be given under paragraph (3)(*b*) may make representations to the Authority about the modification requested by the application during the period of one month beginning with the date specified under paragraph (4)(*c*).
+
+(6) Before determining the application the Authority shall consider any representations duly made to them under paragraph (5).
+
+(7) The application shall be accompanied by the following documents—
+
+- (a) a copy of—
+  - (i) the documents constituting the scheme or, if any of those documents have been consolidated, the consolidated version of them;
+  - (ii) if the documents mentioned in head (i) do not set out the rules of the scheme, those rules, and
+  - (iii) any document which amends or supplements or wholly or partly supersedes any document within head (i) or (ii);
+- (b) if an actuary is required to be appointed under Article 47(1)(*b*), a copy of any advice given by the actuary so appointed to the trustees or managers concerning the effects, if any, that the modification requested by the application would or might have on the assets of, or the benefits provided by, the scheme;
+- (c) subject to paragraph (9), a copy of any legal advice given to the trustees or managers in relation to the modification requested by the application;
+- (d) a copy of any determination by a court concerning the modification requested or any similar modification, and
+- (e) if a record is required to be kept under Article 49A(1) of the trustees' or managers' determination that the scheme be wound up, a copy of that record.
+
+(8) Subject to paragraph (9), if in dealing with the application it appears to the Authority necessary or desirable that any information or document which is not required to be given to them under paragraph (2) or (7) be given to them before they determine the application, they may require the trustees or managers to provide it.
+
+(9) Nothing in paragraph (7)(*c*) or (8) requires a person to produce a document if he would be entitled to refuse to produce it in any proceedings in any court on the grounds that it was the subject of legal professional privilege.
+
+## 8. Reports to the Authority about winding up: time limits[^key-850bb6f011f3999ac1112eac46154d84]
+
+(1) Article 72A (reports to Authority about winding up) applies to a winding up beginning on or after 1st April 1973.
+
+(2) In the case of a winding up which began before 1st April 2002, the first report to be made under Article 72A shall be made before the relevant date.
+
+(3) In paragraph (2) the “relevant date” means—
+
+- (a) if the winding up began before 1st January 1990, 1st June 2002;
+- (b) if the winding up began on or after 1st January 1990 but before 1st January 1993, 1st April 2003;
+- (c) if the winding up began on or after 1st January 1993 but before 1st January 1996, 1st April 2004;
+- (d) if the winding up began on or after 1st January 1996 but before 1st January 1999, 1st April 2005;
+- (e) if the winding up began on or after 1st January 1999 but before 1st April 2002, 1st April 2006.
+
+(4) In the case of a winding up which begins on or after 1st April 2002 but before 1st April 2003, the first report to be made under Article 72A shall be made—
+
+- (a) after the end of the period of 3 years beginning with the day on which the winding up begins, and
+- (b) before the end of the period of one year beginning with the end of the period that applies under sub-paragraph (*a*).
+
+(5) In the case of a winding up which begins on or after 1st April 2003 but before 1st October 2007[^key-216ac161ac61c65809b7acbfdf75a5dd], the first report to be made under Article 72A shall be made—
+
+- (a) after the end of the period of 3 years beginning with the day on which the winding up begins, and
+- (b) before the end of the period of 3 months beginning with the end of the period that applies under sub-paragraph (*a*).
+
+(6)[^key-1f76ba96c9367ad036b27c34ea5a9dc5] In the case of a winding-up which begins on or after 1st October 2007, the first report to be made under Article 72A shall be made—
+
+- (a) after the end of the period of two years beginning with the day on which the winding up begins, and
+- (b) before the end of the period of three months beginning with the end of the period that applies under sub-paragraph (a).
+
+## 9. Contents of reports to the Authority about winding up[^key-6504ec0cc01e719256932815b536241a]
+
+(1) In the case of each winding up, the first report to the Authority under Article 72A(1) shall contain—
+
+- (a) the name by which the scheme is known;
+- (b) the date on which the winding up began;
+- (c) the number allotted to the scheme by the Registrar of Occupational and Personal Pension Schemes for the purposes of the register compiled and maintained under section 6 of the Pension Schemes Act 1993[^f00011];
+- (d) a statement as to the nature of the benefits provided by the scheme;
+- (e) a statement as to whether an appointment has been made under Article 23(1)(*b*) (appointment of independent trustee by insolvency practitioner or official receiver) and, if such an appointment has been made and the report is not being made by the person appointed, that person’s name and address;
+- (f) if an actuary is required to be appointed under Article 47(1)(*b*), his name and address;
+- (g) a statement as to whether any of the administration of the scheme is being carried out by a person other than the trustees or managers and, if so, that person’s name and address;
+- (h) a statement as to when the person making the report estimates that the winding up will be completed;
+- (i) a statement as to—
+  - (i) what steps in the winding up have been completed;
+  - (ii) what steps remain to be completed, and
+  - (iii) when the person making the report estimates that each of those steps will be completed, and
+- (j) a statement as to whether any particular difficulties are hindering or delaying completion of the winding up.
+
+(2) In the case of each winding up, a second or subsequent report to the Authority under Article 72A(1) (“the later report”) shall contain—
+
+- (a) the name by which the scheme is known;
+- (b) the date on which the winding up began;
+- (c) a statement as to whether any of the administration of the scheme is being carried out by a person other than the trustees or managers and, if so, that person’s name and address;
+- (d) if the person making the later report estimates that the winding up will be completed at a different time from that stated in the previous report under Article 72A(1), a statement as to that time;
+- (e) a statement as to—
+  - (i) the steps in the winding up that have been completed since the previous report was made;
+  - (ii) if steps stated in that report to be due for completion before the date when the later report is made have not been so completed, the reasons why they have not;
+  - (iii) what steps remain to be completed, and
+  - (iv) when the person making the later report estimates that each of those steps will be completed, and
+- (f) a statement as to whether any particular difficulties are hindering or delaying completion of the winding up.
+
+## 10. Exemption from requirement to make reports to the Authority about winding up[^key-c217ac95ba546f85dd292b737eba0fb8]
+
+(1) There is no obligation to make a report to the Authority under Article 72A(1) if on the latest date for the making of the report the scheme is within paragraph (2).
+
+(2) A scheme is within this paragraph if it is—
+
+- (a) a scheme of which there is only one member;
+- (b) a small self-administered scheme;
+- (c) a scheme of which each member is a trustee, or
+- (d) a scheme—
+  - (i) the only benefits provided by which are death benefits, and
+  - (ii) under the provisions of which no member has accrued rights.
+
+(3) In this regulation “member” means a deferred member or a pensioner member.
+
+## 11. Time when winding up taken to begin[^key-eb587796ed590d23522feb1c557949be][^key-44d6c1a3d53792b589afaf99828c3013]
+
+Article 121(4) to (7)[^f00012] (time when winding up of a scheme in pursuance of an order of the Authority is to be taken to begin) does not apply for the purposes of—
+
+- (a) Articles 73 and 74[^f00013] (preferential liabilities on winding up and discharge of liabilities by insurance, etc.), or
+- (b) the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00014].
+
+## 12. Records of decisions about winding up[^key-2b03a05a7fef6bc3f9b1ecfb6dd9212d]
+
+(1) The obligations imposed on trustees, managers and other persons by Article 49A (record of winding up decisions) and this regulation do not apply in relation to determinations and decisions made before 1st April 2002.
+
+(2) A record of a determination for the winding up of the scheme that is required to be kept under Article 49A(1)(*a*) shall specify—
+
+- (a) the names of the persons making the determination, and
+- (b) the date on which it is made.
+
+(3) A record of a decision as to the time from which steps for the purposes of the winding up of the scheme are to be taken that is required to be kept under Article 49A(1)(*b*) shall specify the date on which the first steps for winding it up are to be taken.
+
+(4) A record of a determination that is required to be kept under Article 49A(1)(*c*) or (*d*) shall—
+
+- (a) if a date on which it is proposed to wind up the scheme is determined, specify that date, and
+- (b) if no such date is determined but a date on which the determination of that date will be considered is determined, specify that date.
+
+(5) Where such a determination or decision as is mentioned in sub-paragraph (*a*), (*b*), (*c*) or (*d*) of Article 49A(1) is made by persons who—
+
+- (a) are not trustees or managers of the scheme, but
+- (b) are entitled in accordance with the scheme’s rules to make a determination for its winding up,
+
+the obligation to keep written records under Article 49A(1) applies to those persons.
+
+(6) Paragraph (5) applies whether or not the determination or decision in question is also made by persons who are trustees or managers of the scheme and—
+
+- (a) in a case where it is also made by the trustees or managers, the obligation to keep written records under Article 49A(1) applies to the persons on whom it is imposed by paragraph (5) as well as the trustees or managers, but
+- (b) in a case where it is not also made by the trustees or managers, the obligation to keep written records under Article 49A(1) applies to the persons on whom it is imposed by paragraph (5) instead of the trustees or managers.
+
+(7) A person who fails to take all such steps as are reasonable to comply with an obligation imposed by paragraph (5) is liable to pay a penalty under Article 10 of such amount not exceeding—
+
+- (a) £5,000 in the case of an individual, and
+- (b) £50,000 in any other case,
+
+as is specified in a notice in writing from the Authority requiring him to pay the penalty under Article 10.
+
+(8) Such a penalty shall be paid within 28 days beginning with the date on which the notice is given.
+
+## 13. Directions by the Authority for facilitating winding up[^key-03cc3d813be1d175739c054831d48747]
+
+(1) For the purposes of Article 72B(2)(*c*)(iii) (by virtue of which the Authority may give directions during the winding up of a scheme if they consider that it is being obstructed or unreasonably delayed by the failure of any person to provide information to a person of a prescribed description), the persons in paragraph (2) are prescribed.
+
+(2) The prescribed persons are—
+
+- (a) any person who has exercised or is exercising functions in relation to the scheme by or under an enactment;
+- (b) any person acting as the custodian of any investments on behalf of the trustees or managers of the scheme;
+- (c) any person holding—
+  - (i) documents relating to the payroll for pensions payable under the scheme or their payment;
+  - (ii) payroll records relating to employment to which the scheme relates;
+  - (iii) personnel pension records in respect of those who are or have been in such employment, or
+  - (iv) other information relating to the past or present membership of the scheme;
+- (d) any person holding, or involved in the production or issue of, scheme documentation, announcements or written materials;
+- (e) any person who is obliged under a contract with a person falling within any of sub-paragraphs (*a*) to (*d*) to carry out on his behalf any function by virtue of the performance of which the other person falls or would fall within the sub-paragraph in question, and
+- (f) any person appearing to the Authority to hold information or documents relating to the functioning of the scheme.
+
+(3) For the purposes of Article 72B(3) (under which, except in prescribed circumstances, the Authority’s power to give directions under Article 72B is limited to cases where periodic reports are required to be made under Article 72A and the first report has been made or is due), the circumstances in paragraph (4) are prescribed.
+
+(4) The prescribed circumstances are that—
+
+- (a) the trustees or managers of the scheme have applied for the Authority to give directions under Article 72B;
+- (b) the circumstances of the scheme are such that its winding up is unlikely to be completed within a reasonable period unless the Authority give such directions, or
+- (c) the winding up began before 1st April 2006.
+
+(5) For the purposes of Article 72B(5)(*c*) (by virtue of which a direction under Article 72B may impose a requirement on a person of a prescribed description), any person formerly involved in the administration of the scheme is prescribed.
+
+(6) For the purposes of Article 72B(6)(*c*) (by virtue of which a direction under Article 72B may impose a requirement to provide information to a person of a prescribed description), any person exercising functions in relation to the scheme by or under an enactment is prescribed.
+
+(7) An application under Article 72B(7) for the extension (or further extension) of a period within which steps required by a direction under Article 72B are to be taken shall be made in writing no later than 2 months before the date on which, apart from any extension (or further extension) as a result of the application, the period would end.
+
+## 14. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-92e179465a97d0822168df8037b27646]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 5th March 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations will give effect to the winding up provisions of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) as amended by sections 43 to 46 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the 2000 Act”). The Regulations introduce measures designed to speed up the winding up of occupational pension schemes.
+
+Regulation 1 provides for citation, commencement and interpretation.
+
+Regulation 2(1) prescribes the period within which an insolvency practitioner or the official receiver shall appoint an independent trustee of a trust scheme where the employer is insolvent.
+
+Regulations 2(2) and (3) and 3 to 6 relate to the duty to give notices connected with insolvency of employers to the Occupational Pensions Regulatory Authority (“the Authority”) under Articles 26A to 26C of the 1995 Order. Regulations 2(2) and (3) and 3 make provision about the period for giving the notices. Regulation 4 prescribes investment management advisers and the underwriters of certain scheme policies and contracts as persons who are exempted from the duty to give notices. Regulation 5 prescribes the kinds of schemes which are excluded from the duty. Regulation 6 prescribes the maximum civil penalties for failure to give notices.
+
+Regulation 7 prescribes matters connected with applications to the Authority under Article 71A of the 1995 Order to modify schemes to secure their winding up, including the content of the applications and the notices to be given in connection with them.
+
+Regulations 8 to 10 relate to reports to the Authority under Article 72A of the 1995 Order where winding up has not been completed. Regulation 8 prescribes time limits for making the first reports. It provides that the obligation to make the reports applies to schemes which started winding up on or after 1st April 1973 and sets out a series of time limits within which schemes beginning to wind up shall make their first reports. Regulation 9 prescribes what the reports shall contain and regulation 10 exempts certain schemes from the requirement to make the reports.
+
+Regulation 11 prescribes the purposes for which the general interpretation provisions in Article 121(4) to (7) of the 1995 Order about when schemes begin winding up do not apply.
+
+Regulation 12 sets out what records about decisions concerning winding up shall contain and extends the obligations to keep records to persons other than trustees or managers where they make determinations about winding up. It also makes provision for the imposition of civil penalties on such persons if they contravene those obligations.
+
+Regulation 13 relates to the directions the Authority may give to facilitate the winding up of schemes. It sets out the persons failure to give information to whom enables the Authority to give the directions, the circumstances in which directions may be given before the first report is due to be made to the Authority about the winding up, and the persons on whom requirements may be imposed and to whom information may be required to be given. It also prescribes the time limit for applying for an extension of the period within which steps required by directions shall be taken.
+
+Regulation 14 amends regulation 5 of the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997 so as to require the trustees of a scheme which is being wound up to give members copies of reports given to the Authority about winding up if they request them.
+
+As these Regulations, in so far as they are made under Part II of the 1995 Order, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement for consultation under Article 117(1) of the 1995 Order does not apply by virtue of paragraph (2)(*e*) of that Article.
+
+Articles 26B, 26C, 49A, 71A, 72A, 72B, 115(2) and 121(8) of the 1995 Order, some of the enabling provisions under which these Regulations are made, were inserted, amended or added by sections 43 to 46 of the 2000 Act. Article 2(1) of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 7) Order (Northern Ireland) 2002 ([S.R. 2002 No. 68 (C. 5)](https://www.legislation.gov.uk/nisr/2002/68)) provides for the coming into operation of sections 43, 44, 45(1) in part, (2) and (3) and 46 of the 2000 Act, for the purpose only of authorising the making of regulations, on 1st March 2002 and, for all other purposes, on 1st April 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 109(1) was amended by section 48(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Articles 26B and 26C were inserted by section 43(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000; Article 49A was inserted by section 45(3) of that Act; Article 71A was inserted by section 44 of that Act; Article 72A was inserted by section 45(1) of that Act; Article 72B was inserted by section 46 of that Act; Article 115(2) was amended by section 43(3) of that Act; Article 121(8) was added by section 45(2) of that Act
+
+[^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-f9748ae2260373f74a324a8dcdf70dca]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^f00004]: Footnote: Definition of “member” was amended by paragraph 50(2) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); definition of “pensioner member” was amended by paragraph 5(3) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00005]: Footnote: [S.I. 1991/1614](https://www.legislation.gov.uk/uksi/1991/1614); definition of “small self-administered scheme” was amended by regulation 3(*b*) of [S.I. 1998/728](https://www.legislation.gov.uk/uksi/1998/728) and regulation 2(5) of [S.I. 2000/1086](https://www.legislation.gov.uk/uksi/2000/1086)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-6195ac3218af5dd0e1953ee9daae1baf]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/nisr/2002/74/regulation/2), [3](https://www.legislation.gov.uk/nisr/2002/74/regulation/3) revoked (11.4.2005) by [The Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 2005 (S.R. 2005/169)](https://www.legislation.gov.uk/nisr/2005/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2005/169/regulation/14/c)
+
+[^key-7b1f013229fdc31350f5e71af025ba9b]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-cb2e339efa04ab054c1456aae5fe9da1]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-7370ee404c0cbae71cf514565f20de95]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-b6a5b0ab98cab1a5cf18ebceee49fde3]: Commencement: Reg. 7 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-de488f53bb2d7a671038908aef4d790e]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/nisr/2002/74/regulation/7/3/a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/11/a)
+
+[^f00010]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
+
+[^key-426e3e909707d438842c2151fba5cbdc]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/nisr/2002/74/regulation/7/3A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/11/b)
+
+[^key-850bb6f011f3999ac1112eac46154d84]: Commencement: Reg. 8 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-216ac161ac61c65809b7acbfdf75a5dd]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2002/74/regulation/8/5) inserted (1.10.2007) by [The Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/338)](https://www.legislation.gov.uk/nisr/2007/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/338/regulation/4/a)
+
+[^key-1f76ba96c9367ad036b27c34ea5a9dc5]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2002/74/regulation/8/6) added (1.10.2007) by [The Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/338)](https://www.legislation.gov.uk/nisr/2007/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/338/regulation/4/b)
+
+[^key-6504ec0cc01e719256932815b536241a]: Commencement: Reg. 9 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^f00011]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 6 was amended by paragraph 23 of Schedule 3 to, and paragraph 20 of Schedule 5 to, the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)
+
+[^key-c217ac95ba546f85dd292b737eba0fb8]: Commencement: Reg. 10 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-eb587796ed590d23522feb1c557949be]: Commencement: Reg. 11 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-44d6c1a3d53792b589afaf99828c3013]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2002/74/regulation/11) excluded (6.4.2005) by [The Occupational Pension Schemes (Winding up, etc. ) Regulations (Northern Ireland) 2005 (S.R. 2005/171)](https://www.legislation.gov.uk/nisr/2005/171), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2), [12(1)](https://www.legislation.gov.uk/nisr/2005/171/regulation/12/1) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/3))
+
+[^f00012]: Footnote: Article 121(4) to (7) was added by section 45(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00013]: Footnote: Article 73 was amended by Article 35(1) of, and paragraph 44 of Schedule 9 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999. Article 74 was amended by paragraph 45 of Schedule 9 to that Order
+
+[^f00014]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621), amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486), [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335) and [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64)
+
+[^key-2b03a05a7fef6bc3f9b1ecfb6dd9212d]: Commencement: Reg. 12 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-03cc3d813be1d175739c054831d48747]: Commencement: Reg. 13 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/74/regulation/1/1)
+
+[^key-92e179465a97d0822168df8037b27646]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2002/74/regulation/14) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)

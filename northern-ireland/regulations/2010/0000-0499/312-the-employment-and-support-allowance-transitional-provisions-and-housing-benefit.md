@@ -1,0 +1,1646 @@
+---
+title: The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010
+id: nisr/2010/312
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-09-10'
+text_date: '2020-04-04'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/312
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/312/pdfs/nisrem_20100312_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/312/pdfs/nisr_20100312_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/312/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010
+
+> Text as at 2020-04-04.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 312
+
+Housing; Rates; Social Security
+
+The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010
+
+Made
+
+10th September 2010
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(d), 131(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Article 74(3) of the Social Security (Northern Ireland) Order 1998[^f00002], and now vested in it[^f00003], paragraphs 4(3) and (5) and 20(1)(b) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00004] and sections 24(2) and (3), 25(2) and 28(2) of, and paragraph 2 of Schedule 2 and paragraphs 1(1), 3(b), 7 and 8 of Schedule 4 to, the Welfare Reform Act (Northern Ireland) 2007[^f00005].
+
+Regulation 26 and Schedule 4 are made with the consent of the Department of Finance and Personnel[^f00006].
+
+The Social Security Advisory Committee has agreed that proposals in respect of regulation 26 and Schedule 4 should not be referred to it[^f00007].
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-e4eb676b9267925e3f5265e320e6305f]
+
+These Regulations may be cited as the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 and come into operation on 1st October 2010 except for regulations 24 and 25(3) which come into operation on 31st January 2011.
+
+### 2. Interpretation[^key-6a526d81f17b9b17c39e34d4ef8e7a4d]
+
+(1) In these Regulations—
+
+- “the Act” means the Welfare Reform Act (Northern Ireland) 2007;
+- “benefit week” has the same meaning as in the Employment and Support Regulations;
+- “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00008];
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “contributory allowance” means an employment and support allowance to which a person is entitled by virtue of these Regulations which was based on an award of incapacity benefit or severe disablement allowance to which the person was entitled;
+- “conversion decision”, in relation to a notified person, has the meaning given in regulation 5(2);
+- “effective date”, in relation to a conversion decision, is to be construed in accordance with regulation 13;
+- “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00009];
+- “income-related allowance” means an employment and support allowance to which a person is entitled by virtue of these Regulations which was based on an award of income support to which the person was entitled;
+- “notified person” has the meaning given in regulation 4(2);
+- “pensionable age” has the meaning given by the rules in paragraph 1 of Schedule 2 to the Pensions (Northern Ireland) Order 1995[^f00010];
+- “relevant deduction”, in relation to a person, includes such of the following deductions as fall to be made in relation to the person—
+  - (a) any deduction made under any of the following provisions of the Claims and Payments Regulations—
+    - (i) regulation 34ZA[^f00011] (deductions of mortgage interest which shall be made from benefit and paid to qualifying lenders),
+    - (ii) regulation 34ZB[^f00012] (deductions of mortgage interest which may be made from benefit and paid to qualifying lenders in other cases), or
+    - (iii) regulation 34A[^f00013] (deductions which may be made from benefits and paid to third parties);
+  - (b) any deduction in respect of overpayment recovery or recovery of social fund loans made under any of the following provisions of the Administration Act—
+    - (i) section 69[^f00014] (overpayments – general),
+    - (ii) section 72[^f00015] (income support and other payments), or
+    - (iii) section 74[^f00016] (recovery of social fund awards).
+
+(2) A requirement under these Regulations to give a notice (or to notify) is a requirement to give notice in writing; and for that purpose a message sent by electronic communication (within the meaning of section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00017]) shall be treated as a notice given in writing.
+
+(3) For the purposes of these Regulations, the conversion phase, in relation to any person entitled to an existing award or awards[^f00018], is the period which—
+
+- (a) begins in accordance with regulation 4(4); and
+- (b) ends in accordance with regulation 5(6).
+
+(4) In these Regulations any reference to Step 1, 2 or 3, in relation to any person, is to be construed in accordance with regulation 8.
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00019] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+### 3. Persons to whom these Regulations apply[^key-780ed5602582273167b4146516bbc7b2]
+
+Regulations 4 to 22 of these[^key-87e65d2e374345f91f018b19879402c7] Regulations apply to any person who, on or after 1st October 2010, is entitled to an existing award or awards.
+
+## PART 2 — CONVERSION DECISIONS
+
+### 4. The notice commencing the conversion phase[^key-70e4206cf9a69eb839d96c7a6dadb0e1]
+
+(1) Subject to paragraph (5), the Department may at any time issue a notice to any person who is entitled to an existing award.
+
+(2) Any person to whom such a notice is issued is referred to in these Regulations as a notified person.
+
+(3) The notice must inform the notified person—
+
+- (a) that an existing award is to be converted into an award of an employment and support allowance if certain conditions are satisfied;
+- (b) that, if those conditions are not satisfied, the existing award will not be converted and will terminate by virtue of these Regulations;
+- (c) of the requirements that must be met in order to satisfy those conditions; and
+- (d) of such other matters as the Department considers appropriate.
+
+(4) The issue of the notice to a notified person begins the conversion phase in relation to that person, with effect from the date of issue.
+
+(5) No notice may be issued to any person—
+
+- (a) who reaches pensionable age at any time before 6th April 2014; or
+- (b) at any time when payment of the existing award to the person is subject to adjustment under regulation 4 of the Social Security (Transitional Payments) Regulations (Northern Ireland) 2009[^f00020] (adjustment of subsequent payments following an adjusting payment of benefit).
+
+(6) Where a person is entitled to—
+
+- (a) an existing award of incapacity benefit or severe disablement allowance; and
+- (b) an existing award of income support,
+
+the notice issued to the person under this regulation shall have effect in relation to both such awards.
+
+### 5. Deciding whether an existing award qualifies for conversion[^key-5b68c9276dd7d6d6cc884a958dfe1ae9]
+
+(1) In relation to the existing award or awards to which a notified person (“P”) is entitled, the Department must, except where paragraph (8)(a) applies, make a conversion decision in accordance with these Regulations.
+
+(2) A conversion decision is—
+
+- (a) a decision that P’s existing award or awards qualify for conversion into an award of an employment and support allowance in accordance with regulation 7; or
+- (b) a decision that P’s existing award or awards do not qualify for conversion into an award of an employment and support allowance.
+
+(3) A notice of a conversion decision under paragraph (2)(a) must specify the amount of an employment and support allowance to which P is entitled on the effective date, subject to any relevant deductions.
+
+(4) The amount referred to in paragraph (3) is to be determined in accordance with regulation 8.
+
+(5) The Department must notify P of the Department’s conversion decision.
+
+(6) The conversion phase ends in relation to P—
+
+- (a) immediately before the effective date of the conversion decision notified to P; or
+- (b) if earlier, when P’s entitlement to the award or awards to which the notice under regulation 4 relates otherwise ceases to be subject to conversion (because entitlement to the award has terminated or for some other reason).
+
+(7) The effective date of any conversion decision is to be determined in accordance with regulation 13.
+
+(8) In the event that P’s entitlement to an existing award ceases to be subject to conversion (for example, because P’s entitlement to an award of income support has ceased to fall within paragraph (c) of the definition of existing award in paragraph 11 of Schedule 4 to the Act)—
+
+- (a) before a conversion decision is made, the Department must notify P that the conversion phase has ended without a conversion decision being made; or
+- (b) after the making of a conversion decision but before its effective date, the Department must notify P that the conversion decision shall not come into effect.
+
+(9) On the giving of a notice under paragraph (8)(b), the conversion decision to which it relates shall lapse with immediate effect.
+
+### 6. Application of certain statutory provisions for purpose of making conversion decisions[^key-3e118822ec8da37eda72b2777018f8b6]
+
+(1) The statutory provisions in paragraph (2) apply, subject to the modifications specified in Schedule 1, for the purposes of—
+
+- (a) enabling the Department to make in relation to any person a conversion decision under this Part; and
+- (b) providing for the revision or supersession[^key-00da8f81ad38ac2670698e1420694c57] of such decisions at any time before the effective date.
+
+(2) The statutory provisions to which paragraph (1) refers are—
+
+- (a) Part 1 of the Act (employment and support allowance);
+- (b) Chapter II of Part II of the Social Security (Northern Ireland) Order 1998[^f00021] (social security decisions and appeals);
+- (c) regulation 32(1) and (1A) of the Claims and Payments Regulations[^f00022] (information to be given);
+- (d) the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00023]; and
+- (e) the Employment and Support Allowance Regulations.
+
+(3) In the application of the statutory provisions listed in paragraph (2)(b) and (d), the conversion decision is to be treated as if it were a decision as to a person’s entitlement to an employment and support allowance which had been made on a claim.
+
+### 7. Qualifying for conversion[^key-205802e4b449802316ae105e7b09e794]
+
+(1)[^key-2dafbece84ad3eb3a30f3aa62be44cd2] Subject to[^key-f53ea5d947c306e438c844b84a865e0c] paragraphs (2) and (3)[^key-4704d9b8260f7fd58845ec3a9fa02848] , for the purposes of regulation 5(2)(a) , an existing award or awards to which a notified person (“P”)[^key-abe97f0af972669f26aa9ba270fda9d4] is entitled qualify for conversion into an award of an employment and support allowance under these Regulations[^key-6233ac48ad11b432951990a9875cb151] only if the P[^key-d6100f7cb7a2573db096efc2b73f94e8] satisfies the basic conditions set out in section 1(3)(a) to (d) and (f) of the Act.
+
+(2)[^key-e549b64ba795a1b118f8a74d4e22bc3d] Where P is entitled to an award of an employment and support allowance under the Act and it has been determined in respect of that entitlement that P—
+
+- (a) has limited capability for work; or
+- (b) is to be treated as having limited capability for work, other than by virtue of regulation 30 of the Employment and Support Allowance Regulations,
+
+in relation to the conversion of P’s existing award, P is to be taken as having satisfied the condition set out in section 1(3)(a) of the Act (limited capability for work).
+
+(3)[^key-124d9ff33e9243f421bc58731720d689] Where P would be entitled to an award of an employment and support allowance under the Act but for the application of section 1A of that Act (duration of contributory allowance) and it had been determined in respect of the entitlement that had ceased that P—
+
+- (a) had limited capability for work; or
+- (b) was to be treated as having limited capability for work, other than by virtue of regulation 30 of the Employment and Support Allowance Regulations,
+
+in relation to the conversion of P’s existing award, P is to be taken as having satisfied the condition set out in section 1(3)(a) of the Act (limited capability for work).
+
+### 8. Amount of an employment and support allowance on conversion[^key-e23c9634f83eb400adb8583187d9d036]
+
+(1)[^key-6258b67c6daae3c79f5f6d64fee3a0e3] For the purposes of regulation 5(3), the amount of an employment and support allowance to which a notified person is entitled shall be determined as follows.
+
+- *Step 1*
+
+  Determine in accordance with Part 1 of the Act and the Employment and Support Allowance Regulations the amount, if any, of an employment and support allowance to which the notified person would be entitled if, on a claim made by that person—
+
+  - (a) it had been determined that the person was entitled to an award of an employment and support allowance; and
+  - (b) the assessment phase had ended.
+- *Step 2*
+
+  Determine in accordance with regulations 9 to 12—
+
+  - (a) whether the notified person is entitled to a transitional addition; and
+  - (b) if so, the amount of the transitional addition.
+- *Step 3*
+
+  Aggregate the amounts, if any, which result from Steps 1 and 2.
+
+(2)[^key-11923addcc7461ef6b4153e32621cae8] In a case to which regulation 7(2) (cases where a person is already entitled to an award of an employment and support allowance) applies, a determination that the person has, or does not have, limited capability for work-related activity made in respect of the person’s current entitlement to an award of an employment and support allowance is to be treated as having been made for the purposes of Step 1.
+
+### 9. Determining entitlement to a transitional addition[^key-19c2fee5a2d779342b357638d1d41db6]
+
+(1) In relation to any notified person whose existing award or awards qualify for conversion into an employment and support allowance—
+
+- (a) the person’s entitlement, if any, to a transitional addition; and
+- (b) the amount of any such transitional addition,
+
+are to be determined in accordance with regulation 10(2) or 11(2).
+
+(2) The amount of transitional addition to which a notified person is entitled is subject to reduction in accordance with regulations 18 to 20.
+
+(3) The entitlement of a notified person to any transitional addition terminates in accordance with regulation 21.
+
+### 10. Transitional addition: incapacity benefit or severe disablement allowance[^key-3089f925bde34d530c85f409b0628555]
+
+(1) This regulation applies to any notified person who is entitled to an existing award of incapacity benefit or severe disablement allowance and for the purpose of this regulation it is irrelevant whether the person is also entitled to any existing award of income support.
+
+(2) In any case falling within paragraph (1)—
+
+- (a) the notified person shall be entitled to a transitional addition if Amount A exceeds Amount B; and
+- (b) the amount of transitional addition to which the notified person is entitled under this paragraph shall be equal to the amount of any such excess.
+
+(3) Amount A is the amount of the weekly rate of the existing award applicable to the notified person.
+
+(4) To calculate Amount B—
+
+- (a) take the amount prescribed under regulation 67(2) of the Employment and Support Allowance Regulations (prescribed amounts for the purpose of calculating a contributory allowance) which is applicable to the notified person; and
+- (b) add the amount of the applicable component determined in accordance with regulation 12(5).
+
+(5) In paragraph (3), the reference to the weekly rate of an existing award applicable to the notified person is to—
+
+- (a)[^key-eed23326ff90859f64bc7be4223e6649] in the case of incapacity benefit, the weekly rate payable—
+  - (i) under section 30B(2), (6) or (7) of the Contributions and Benefits Act (incapacity benefit: rate), subject to any deduction made in accordance with section 42(3) of the Pension Schemes (Northern Ireland) Act 1993,
+  - (ii) under section 40(5) or 41(4) of the Contributions and Benefits Act (long-term incapacity benefit for widows and for widowers),
+  - (iii) under section 80, 81 or 86A of that Act (incapacity benefit: beneficiary’s dependent children; restrictions on increase – child not living with beneficiary, etc; and increase for adult dependants),
+  - (iv) by virtue of regulation 11(4) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995 (transitional awards of short-term incapacity benefit), or
+  - (v) by virtue of regulation 17(1) or 17A of those Regulations (transitional awards of long-term incapacity benefit or awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link); or
+- (b) in the case of severe disablement allowance, the weekly rate payable under sections 68(7), 69(1) and 90[^key-0ebc1dca06773e1afdd234d354f00246] of the Contributions and Benefits Act[^f00027].
+
+(6)[^key-00882f7b815b68bef266da880b293d0e] Subject to paragraph (7), in determining the weekly rate of incapacity benefit or severe disablement allowance for the purposes of paragraph (5) the following amounts shall be disregarded—
+
+- (a) any relevant deduction; and
+- (b) any other deduction relating to the existing award which is made by virtue of the Contributions and Benefits Act, the Administration Act, the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 or any other statutory provision which is amended by Schedule 3 to the Act or by virtue of regulations made under those statutory provisions.
+
+### 11. Transitional addition: income support[^key-65de2eacd8bd8f18273f96403a41492c]
+
+(1) This regulation applies to any notified person who is entitled to an existing award of income support and for the purpose of this regulation it is irrelevant whether the person is also entitled to any existing award of incapacity benefit or severe disablement allowance.
+
+(2) In any case falling within paragraph (1)—
+
+- (a) the notified person shall be entitled to a transitional addition if Amount C exceeds Amount D; and
+- (b) the amount of transitional addition to which the notified person is entitled under this paragraph shall be equal to the amount of any such excess.
+
+(3) To calculate Amount C—
+
+- (a) take the notified person’s weekly applicable amount under regulation 17 or 18 of, and Schedule 2 to, the Income Support (General) Regulations (Northern Ireland) 1987[^f00028] (applicable amounts);
+- (b) disregard any amount determined in accordance with regulation 17(1)(e) or 18(1)(f) of, and Schedule 3 to, those Regulations[^f00029] (housing costs); and
+- (c) disregard any amount included in the person’s applicable amount—
+  - (i) under regulation 17(1)(b), (c) or (d) of those Regulations[^f00030] in respect of a child or young person who is a member of the notified person’s family, or
+  - (ii) under regulation 18(1)(b), (c), (d) or (e) of those Regulations in respect of a child or young person who is a member of the same household as the notified person,
+
+  as those provisions have effect by virtue of regulations 1 and 6 of the Social Security (Working Tax Credit and Child Tax Credit Consequential Amendments) Regulations (Northern Ireland) 2003[^f00031].
+
+(4) To calculate Amount D—
+
+- (a) take the amount prescribed under regulation 67(1) or 68(1) of the Employment and Support Allowance Regulations[^f00032] (prescribed amounts for the purpose of calculating an income-related allowance) which is applicable to the notified person;
+- (b) disregard any amount determined in accordance with regulation 67(1)(c) or 68(1)(d) of those Regulations (housing costs); and
+- (c) add the amount of the applicable component determined in accordance with regulation 12(5).
+
+### 12. Regulations 10 and 11: supplementary[^key-e0466b7e3dea6b6aa321d8b315759f7a]
+
+(1) This regulation has effect for the purposes of applying regulations 10 and 11 in relation to any notified person.
+
+(2) Subject to paragraphs (3) and (4)—
+
+- (a) Amounts A and C are to be calculated in respect of the benefit week which ends immediately before the effective date of the notified person’s conversion decision; and
+- (b) Amounts B and D are to be calculated in respect of the benefit week the first day of which is the effective date of the notified person’s conversion decision.
+
+(3) Where—
+
+- (a) by virtue of an order made under section 132 of the Administration Act (annual up-rating of benefits), there is an increase in—
+  - (i) the weekly rate which, in accordance with regulation 10(3), is to be used to calculate Amount A, or
+  - (ii) the applicable amount which, in accordance with regulation 11(3), is to be used to calculate Amount C; and
+- (b) that increase takes effect from any day in the benefit week referred to in paragraph (2)(b),
+
+the calculation of Amount A or C is to be made using the increased weekly rate or applicable amount, as the case may be.
+
+(4) Where—
+
+- (a) there is a change of circumstances in relation to a notified person which, but for this paragraph, would have resulted in an increase or decrease of the weekly rate or applicable amount referred to in paragraph (3)(a)(i) or (ii); and
+- (b) that increase or decrease would have taken effect from any day in the benefit week referred to in paragraph (2)(b),
+
+the calculation of Amount A or C is to be made using the weekly rate or applicable amount, as the case may be, which would have been payable in respect of the existing award if it had not been subject to conversion under these Regulations.
+
+(5) The “applicable component”, in relation to the notified person, means—
+
+- (a) the work-related activity component, if it has been determined in accordance with the statutory provisions applied by regulation 6 that the notified person does not have and is not to be treated as having limited capability for work-related activity; or
+- (b) the support component, if it has been determined in accordance with those statutory provisions that the notified person has or is to be treated as having limited capability for work-related activity.
+
+### 13. The effective date of a conversion decision[^key-0c2527c5c5bf2408747c6ebcf0d76d3c]
+
+(1) For the purposes of determining the date on which a conversion decision takes effect in relation to any notified person—
+
+- (a) take the date on which the person is notified of the conversion decision; and
+- (b) unless paragraph (2) applies, determine the first complete fortnightly period in respect of which the person’s existing benefit is payable after that date,
+
+and the effective date of the person’s conversion decision is the first day of the benefit week immediately following the end of the fortnightly period referred to in sub-paragraph (b).
+
+(2) Where existing benefit is payable to the notified person in respect of a period other than a fortnight—
+
+- (a) determine the second complete benefit week in respect of which the person’s existing benefit is payable after the date on which the person is notified of the conversion decision; and
+- (b) the effective date of the person’s conversion decision is the first day of the benefit week immediately following the end of that second complete benefit week.
+
+(3) “Existing benefit”, in relation to a notified person, means the benefit in respect of the person’s existing award or awards.
+
+### 14. Conversion decision that existing award qualifies for conversion[^key-b0d680d68532a54154f62fd0b9bca273]
+
+(1) Subject to paragraph (2A), paragraphs (2) to (6)[^key-8c95fef5ead2774971afb04efba1a37f] apply in any case where the conversion decision is a decision that a notified person’s (“P”) existing award or awards qualify for conversion into an employment and support allowance.
+
+(2) On the effective date of the conversion decision—
+
+- (a) P’s existing award; or
+- (b) both of P’s existing awards, as the case may be,
+
+are by virtue of this paragraph converted into, and shall have effect on and after that date as, a single award of an employment and support allowance of such amount as is specified in the conversion decision.
+
+(2A)[^key-585f5aefc402d25a7b4e2883b1fe5dc9] Where P—
+
+- (a) has an existing award of income support;
+- (b) would, on the effective date of P’s conversion decision, remain entitled to income support by virtue of another provision of the Income Support (General) Regulations (Northern Ireland) 1987, were P not a person to whom regulation 6(4)(a) or 13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, those Regulations (prescribed category of persons for the purposes of entitlement on grounds of incapacity or disability) applied; and
+- (c) notifies the Department before the effective date of P’s conversion decision that P wishes to remain entitled to income support on that date,
+
+paragraph (2B) applies instead of paragraphs (2) and (4).
+
+(2B) Where paragraph (2A) applies, any entitlement of P to one or both of—
+
+- (a) an existing award of incapacity benefit or severe disablement allowance; or
+- (b) a disability premium by virtue of paragraph 12(1)(b) of Schedule 2 to the Income Support (General) Regulations (Northern Ireland) 1987 (additional condition for the higher pensioner and disability premiums),
+
+shall terminate immediately before the effective date of P’s conversion decision.
+
+(3)[^key-200a0f7b373a16234a8a62291689c670] In a case to which regulation 7(2) applies (cases where a person is already entitled to an award of an employment and support allowance), any entitlement of P to an award of an employment and support allowance by virtue of the Act shall terminate immediately before the effective date of P’s conversion decision.
+
+(4) Where, immediately before the effective date of the conversion decision, any relevant deduction was made from the existing award or awards, or from an award of an employment and support allowance which terminates in accordance with paragraph (3), an equivalent deduction shall be made from the award of an employment and support allowance to which P is entitled by virtue of these Regulations.
+
+(5) Where, immediately before the effective date of the conversion decision, P is entitled to be credited with any earnings under regulation 8B(2)(a) of the Social Security (Credits) Regulations (Northern Ireland) 1975 (credits for incapacity for work and limited capability for work), P shall not be entitled to be so credited under that regulation on or after that date.
+
+(6) Where—
+
+- (a) paragraph (2) applies;
+- (b) P is a member of a joint-claim couple; and
+- (c) immediately before the effective date of that conversion decision that couple was entitled to a disability premium by virtue of paragraph 20H(1)(b) or (d) of Schedule 1 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (additional conditions for higher pensioner and disability premium: severe disablement allowance or incapacity benefit),
+
+paragraph 20H(1)(ee) of that Schedule (limited capability for work) shall be treated as satisfied in relation to that couple on the effective date of that conversion decision.
+
+(7) In this regulation—
+
+- (a) paragraphs (2) to (6) are subject to regulation 17 (changes of circumstances before the effective date); and
+- (b) “joint-claim couple” has the same meaning as in Article 3(4) of the Jobseekers Order.
+
+### 15. Conversion decision that existing award does not qualify for conversion[^key-46b86bdd057f193c0318b8a7bd40b434]
+
+(1) Subject to paragraphs (2A) and (4), paragraphs (2), (3) and (6) apply[^key-fdf90244435b5fae79a8d2bf7b80da42] in any case where the conversion decision is a decision that a notified person’s (“P”) existing award or awards do not qualify for conversion into an employment and support allowance.
+
+(2) P’s entitlement to one or both of—
+
+- (a) an existing award of incapacity benefit or severe disablement allowance; or
+- (b) an existing award of income support, being an award made to a person incapable of work or disabled,
+
+shall terminate by virtue of this paragraph immediately before the effective date of P’s conversion decision.
+
+(2A)[^key-cbf8573148fe4838cbdbe84fce9ae55d] Where P—
+
+- (a) has an existing award of income support; and
+- (b) would, on the effective date of P’s conversion decision, remain entitled to income support by virtue of another provision of the Income Support (General) Regulations (Northern Ireland) 1987, were P not a person to whom regulation 6(4)(a) or 13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, those Regulations (prescribed category of persons for the purposes of entitlement on grounds of incapacity or disability) applied,
+
+P’s existing award of income support shall only terminate under paragraph (2)(b) if P notifies the Department before the effective date of P’s conversion decision that P does not wish to remain entitled to income support on that date.
+
+(2B) Where paragraph (2A) applies, and P’s existing award of income support does not terminate under paragraph (2)(b), any entitlement of P to a disability premium by virtue of paragraph 12(1)(b) of Schedule 2 to the Income Support (General) Regulations (Northern Ireland) 1987 (additional condition for the higher pensioner and disability premiums), shall terminate immediately before the effective date of P’s conversion decision.
+
+(3) Where, immediately before that date, P is entitled to be credited with any earnings under regulation 8B(2)(a) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00033] (credits for incapacity for work or limited capability for work), P shall not be entitled to be so credited under that regulation on or after the effective date of P’s conversion decision[^key-6184259e89cc41669986c324b4f177c4] .
+
+(4) Paragraph (5) applies where—
+
+- (a) a conversion decision within the meaning of regulation 5(2)(b) (“the earlier conversion decision”) is made by virtue of either of the following provisions of the Employment and Support Allowance Regulations, as they apply by virtue of regulation 6—
+  - (i) regulation 22(1) (failure to provide information in relation to limited capability for work), or
+  - (ii) regulation 23(2) (failure to attend for a medical examination to determine whether the claimant has limited capability for work); and
+- (b) after P is notified of the earlier conversion decision, the Department is satisfied, or where the conversion decision is appealed to the appeal tribunal, that tribunal determines, that P had good cause for failing to—
+  - (i) provide the information requested, or
+  - (ii) attend for or submit to the medical examination for which P was called.
+
+(5) Where this paragraph applies—
+
+- (a) the earlier conversion decision is treated as never having been made;
+- (b) any entitlement of P—
+  - (i) to an existing award which was terminated by virtue of paragraph (2), or
+  - (ii) to be credited with earnings which was terminated by virtue of paragraph (3),
+
+shall be reinstated with effect from the effective date of the earlier conversion decision;
+
+- (c) the Department must make a conversion decision (“the new conversion decision”) in accordance with regulation 5 in relation to the existing award or awards to which P is entitled;
+- (d) the notice issued under regulation 4 has effect in relation to that existing award or those existing awards; and
+- (e) with the exception of regulation 4, the remaining provisions of this Part, including this regulation, apply to the new conversion decision.
+
+(6)[^key-b0245b4be88fac8daab9e8fe45e88118] Where—
+
+- (a) paragraph (2) applies; and
+- (b) P is a member of a joint-claim couple,
+
+any entitlement of that couple to a disability premium by virtue of paragraph 20H(1)(b) or (d) of Schedule 1 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (additional conditions for higher pensioner and disability premium: severe disablement allowance or incapacity benefit) shall terminate immediately before the effective date of P’s conversion decision.
+
+(7) In this regulation—
+
+- (a) paragraphs (2), (2A), (3) and (6) are subject to regulation 17 (changes of circumstances before the effective date); and
+- (b) “joint-claim couple” has the same meaning as in Article 3(4) of the Jobseekers Order.
+
+## PART 3 — AFTER THE CONVERSION PHASE
+
+### 16. Application of other statutory provisions applying to employment and support allowance[^key-88cff19aa37c15dc56047d5d3ea346f9]
+
+(1) The statutory provisions in paragraph (2) apply, subject to the modifications specified in Schedule 2, for the purposes of—
+
+- (a) providing for the revision or supersession of any person’s conversion decision at any time on or after that decision’s effective date; and
+- (b) enabling any other matter to be determined in connection with any person’s entitlement or continuing entitlement to an award of an employment and support allowance by virtue of these Regulations.
+
+(1A)[^key-14533e919cd2b8eee7a1ef09f62e31d9] Where—
+
+- (a) a person makes a claim for an employment and support allowance subsequent to the termination of that person’s entitlement to an employment and support allowance by virtue of these Regulations; and
+- (b) the period of limited capability for work in relation to that claim would link, by virtue of regulation 145(1) of the 2008 Regulations, to a period of limited capability for work in respect of which an award was made by virtue of these Regulations,
+
+that person’s entitlement to an award of an employment and support allowance shall be determined in accordance with these Regulations.
+
+(2) The statutory provisions to which paragraph (1) refers are—
+
+- (a) Part 1 of the Act (employment and support allowance);
+- (b) the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00034];
+- (c) Chapter II of Part II of the Social Security (Northern Ireland) Order 1998[^f00035] (social security decisions and appeals);
+- (d) any other statutory provision which is amended by Schedule 3 to the Act (consequential amendments relating to Part 1);
+- (e) the Employment and Support Allowance Regulations;
+- (f) this Part of these Regulations; and
+- (g) the Regulations listed in Schedule 3.
+
+(3) In the application of those statutory provisions, the conversion decision is to be treated as if it were a decision as to a person’s entitlement to an employment and support allowance which had been made on a claim.
+
+### 17. Changes of circumstances before the effective date[^key-e812d96ed841645f0b6f1fb8a8571f09]
+
+Where, on or after the effective date of any person’s conversion decision, the Department is notified of any change of circumstances or other relevant event which occurred before that date and which would have been relevant to the existing award or awards[^key-ec6ed592e6030426029824e5291ad9f8] , the Department—
+
+- (a)[^key-9c5271c0df5bf94843b1b3f2d668823b] must treat any award—
+  - (i) converted by virtue of regulation 14(2) (conversion decision that existing award qualifies for conversion), or
+  - (ii) terminated by virtue of regulation 14(2B)(a) (termination of an existing award of incapacity benefit or severe disablement allowance where entitlement to award of income support continues), regulation 14(3) (termination of award of an employment and support allowance where that entitlement already exists) or regulation 15(2) (termination of existing awards which do not qualify for conversion),
+
+  as if that award had not been converted or terminated;
+- (aa) must treat any entitlement to be credited with earnings terminated by virtue of regulation 14(5) or 15(3) as if it had not been terminated;
+- (ab) must treat any entitlement to a disability premium terminated by virtue of regulations 14(2B)(b), 15(2B) or 15(6) as if it had not been terminated;
+- (b) must take account of the change of circumstances or other relevant event for the purposes of determining whether to revise or supersede a decision (“the earlier decision”) relating to the award or awards in respect of which the conversion decision was made;
+- (c) in an appropriate case, must revise or supersede the earlier decision;
+- (d) if any earlier decision is revised or superseded, must determine whether to revise or supersede[^key-47120883e3b70b44101ce47a8a54643d] the conversion decision made in relation to P; and
+- (e) in an appropriate case, must revise or supersede[^key-169353de9ffa48a4fb4d694dc0907a2e] that conversion decision.
+
+### 18. Reducing the transitional addition: general rule[^key-e2e860a92ea3038de6fdae2e4cac056a]
+
+(1) The amount of any transitional addition to which a person is entitled by virtue of these Regulations shall be reduced, but not below nil, by a sum equal to the aggregate amount of all relevant increases which occur on or after the effective date in the amount payable to the person by way of an employment and support allowance.
+
+(2) For the purposes of paragraph (1), a relevant increase is—
+
+- (a) in relation to a person entitled to a contributory allowance, an increase in any amount applicable to the person under regulation 67(2)(a) or (3) of the Employment and Support Allowance Regulations[^f00036]; and
+- (b) in relation to a person entitled to an income-related allowance, an increase in any amount applicable to the person under regulation 67(1)(a) or (b) or (3) or 68(1)(a), (b) or (c) of the Employment and Support Allowance Regulations,
+
+which is not excluded by paragraph (3).
+
+(3) In relation to any person, the excluded increases are—
+
+- (a) any increase applicable to the benefit week the first day of which is the effective date of the person’s conversion decision; and
+- (b) any increase resulting from the reversal, on appeal or otherwise, of any decision made by the Department that a person who was previously entitled to the support component has become entitled to the work-related activity component.
+
+### 19. Reducing the transitional addition: increases for dependent children[^key-fd33e6830aa5a3119962ed6a80e7180d]
+
+(1) Paragraphs (2) and (3) apply to any person (“T”) who—
+
+- (a) on the day before the effective date of T’s conversion decision, was entitled in connection with an existing award of incapacity benefit or severe disablement allowance to an increase under—
+  - (i) section 80 of the Contributions and Benefits Act[^f00037] (beneficiary’s dependent children), or
+  - (ii) section 90 of the Contributions and Benefits Act[^f00038] (beneficiaries in receipt of severe disablement allowance) for a child dependant; and
+- (b) on and after the effective date, is entitled by virtue of these Regulations to an employment and support allowance which includes an amount by way of transitional addition.
+
+(2) The amount of the transitional addition shall be reduced in accordance with paragraph (3) on the termination, on or after the effective date, of T’s entitlement to child benefit in respect of the child or qualifying young person—
+
+- (a) for whom; or
+- (b) for whose care by an adult dependant,
+
+T was entitled to the increase referred to in paragraph (1)(a).
+
+(3)[^key-b5552da5b5c63cfe0a94156b0bd43ce4] The amount of the transitional addition shall be reduced, but not below nil, by a sum equal to the amount of the increase referred to in paragraph (1)(a) payable to T on the day before the effective date, in respect of the child or qualifying young person in relation to whom child benefit terminated.
+
+### 20. Reducing the transitional addition: increases for adult dependants[^key-94237ee56e8d0c7a5dec5c80d0fa102f]
+
+(1) Paragraphs (2) and (3) apply to any person (“T”) who—
+
+- (a) on the day before the effective date of T’s conversion decision, was entitled in connection with an existing award of incapacity benefit or severe disablement allowance to an increase under—
+  - (i) section 86A of the Contributions and Benefits Act[^f00039] (incapacity benefit: increase for adult dependants), or
+  - (ii) section 90 of the Contributions and Benefits Act (beneficiaries in receipt of severe disablement allowance) for an adult dependant; and
+- (b) on and after the effective date, is entitled by virtue of these Regulations to an employment and support allowance which includes an amount by way of a transitional addition.
+
+(2) The amount of the transitional addition shall be reduced in accordance with paragraph (3) on the occurrence, on or after the effective date, of any of the following events—
+
+- (a) the death of the adult dependant in respect of whom T was entitled to the increase referred to in paragraph (1)(a);
+- (b) the permanent separation of T and that adult dependant;
+- (c) the termination of the entitlement of either T or that adult dependant to child benefit; or
+- (d) the award to that adult dependant of a personal benefit within the meaning of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00040] which is equal to or more than the amount which, on the day before the effective date, was the amount of the increase referred to in paragraph (1)(a) to which T was entitled.
+
+(3) The amount of the transitional addition shall be reduced, but not below nil, by a sum equal to the amount which, on the day before the effective date, was the amount of the increase referred to in paragraph (1)(a) payable to T[^key-5aa5ba4429714b839c3e76763a0fa93b] .
+
+### 21. Termination of transitional addition[^key-b1a40af2fa910f9c3bff881413b8be8e]
+
+(1) Any entitlement to a transitional addition which a person (“T”) may have by virtue of these Regulations terminates on whichever is the earliest of—
+
+- (a) the reduction in accordance with regulations 18 to 20 of the amount of the transitional addition to nil and[^key-0a3111ab8eebb3856ee049acc56cef80]
+- (b) subject to paragraphs (2), (3)[^key-0e74aefbe81b123edc83aa01ddfad38c] , (3A)[^key-c925284229f9eb8d6ae8909bca7b9671] and (4) , the termination in accordance with the statutory provisions applied by regulation 16 of T’s entitlement to an employment and support allowance which arises from section 1(2)(a) or (b) of the Act, or to a contributory allowance or to an income-related allowance[^key-d2c20f10cded7761af0c8ea5f5d42b0c] ; [^key-ceb6d153478da23aabd44aed88e22661]...
+- (c)[^key-d030eed4a5e94a36a3248d40e14c2f7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Nothing in paragraph (1)(b) prevents reinstatement of a person’s entitlement to a transitional addition following the reversal on appeal of any determination which results in a termination of the person’s entitlement to which that provision refers[^key-4485d73323a685c64597181044a7738b] .
+
+(3)[^key-26952f0183372ba88e157e2557c27098] Any termination by virtue of paragraph (1)(b) of T’s entitlement to a transitional addition under regulation 10(2)(a) (transitional addition: incapacity benefit or severe disablement allowance) shall instead have effect as a suspension of that entitlement in Case 1.
+
+(3A)[^key-24eeced439f0d07f1d82999ddde6a1cf] Any termination of T’s entitlement to a transitional addition under regulation 10(2)(a) (transitional addition: incapacity benefit or severe disablement allowance) shall instead have effect as a suspension of that entitlement in Case 1A.
+
+(4) Any termination by virtue of paragraph (1)(b) of T’s entitlement to a transitional addition under regulation 11(2)(a) (transitional addition: income support) shall instead have effect as a suspension of that entitlement in Case 1 or Case 2.
+
+(5) Case 1 is where—
+
+- (a) on a subsequent claim made by T for an employment and support allowance, a period of limited capability for work is treated under regulation 145(1) [^key-06015681b6a623914eb111428828b9e1]... of the Employment and Support Allowance Regulations (linking rules) as a continuation of an earlier period of limited capability for work;
+- (b) T’s entitlement to an allowance which is referred to in paragraph (1)(b) (“T’s old entitlement”) was in respect of that earlier period; and
+- (c) [^key-55d8f1e9c0ce19b5972a05c8e3e383b2]... in respect of that earlier period, it was terminated—[^key-ec83c540b9eea680e0434ac50e58402a]
+  - (i) other than by virtue of a determination that T did not have, or was treated as not having, limited capability for work, or
+  - (ii) by virtue of a determination that the claimant did not have, or was treated as not having, limited capability for work, and, in respect of that subsequent claim, it is determined that T has, or is treated as having, limited capability for work, other than under regulation 30 of those Regulations.
+
+(5A)[^key-6ec2295f2d7c6cb88eb900c7a90c5c2f] Case 1A is where—
+
+- (a) T was previously entitled to a contributory allowance;
+- (b) entitlement to that previous allowance terminated by virtue of section 1A of the Act (duration of contributory allowance);
+- (c) on a subsequent claim made by T for an employment and support allowance, a period of limited capability for work is treated under regulation 145(1) of the Employment and Support Allowance Regulations (linking rules) as a continuation of an earlier period of limited capability for work; and
+- (d) it is determined in relation to the subsequent claim that T has, or is treated as having, limited capability for work-related activity.
+
+(6) Case 2 is where—
+
+- (a) the reason for terminating T’s entitlement to an employment and support allowance arising from section 1(2)(b) of the Act (conditions relating to financial position), or to an income-related allowance, as the case may be, was that the condition set out in paragraph 6(1)(f) of Schedule 1 to the Act (no entitlement to income-related allowance where other member of a couple engages in remunerative work) had ceased to be satisfied in T’s case;
+- (b) the condition referred to in sub-paragraph (a) is subsequently satisfied;
+- (c) T again becomes entitled to an allowance which is referred to in sub-paragraph (a); and
+- (d) that entitlement commences before the end of the 12 week period which begins with the date of termination of T’s old entitlement.
+
+(7) In Cases 1 , 1A[^key-adc440804cb4416f7ade556cb3786db5] and 2, the amount of the transitional addition or additions, as the case may be, to which T becomes entitled from the commencement of T’s subsequent entitlement to an allowance which is referred to in paragraph (1)(b) is to be determined by reference to the amount of the transitional addition or additions, as the case may be, to which T was entitled on the termination of T’s old entitlement, subject to any subsequent adjustment of that amount that would have been made under this Part.
+
+## PART 4 — MISCELLANEOUS
+
+### 22. Disapplication of certain statutory provisions following conversion decision[^key-34536d46e66ea7f183929fc503382d04]
+
+Where a conversion decision has been made in relation to any person, the following statutory provisions shall not apply to that person with effect from the conversion decision’s effective date—
+
+- (a) sections 30A, 30C,[^key-6023cef2b8fd214049d7b86ff7d4b3cf] 40 or 41 of the Contributions and Benefits Act[^f00041] (incapacity benefit);
+- (b) section 68 of the Contributions and Benefits Act (severe disablement allowance)[^f00042];
+- (c) regulation 13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, the Income Support (General) Regulations (Northern Ireland) 1987[^f00043] (prescribed category of persons for the purposes of entitlement on grounds of incapacity or disability);
+- (d) the Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00044]; and
+- (e) the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00045].
+
+### 23. Treatment of claims until coming into operation of regulation 24(a)[^key-50d02c9548cb4f68f0d3e5ef413cd214]
+
+In regulation 2(2)(a) to (c) of the Employment and Support Allowance (Transitional Provisions) Regulations (Northern Ireland) 2008[^f00046] (claim for an existing benefit), for “a claim” in each place where it occurs, substitute “a claim made in respect of a period commencing before 31st January 2011”.
+
+### 24. Amendment of the Employment and Support Allowance (Transitional Provisions) Regulations[^key-9ab29df1294afdfca8e73c63bd85963f]
+
+In regulation 2 of the Employment and Support Allowance (Transitional Provisions) Regulations (Northern Ireland) 2008 (claim for an existing benefit)—
+
+- (a) in paragraph (2) omit sub-paragraphs (a), (b) and (c); and
+- (b) in paragraph (3) omit “severe disablement allowance,”.
+
+### 25. Amendment of the Employment and Support Allowance Regulations[^key-908d08648e7263ce79f601c3f170701d][^key-22ea36eb82bb0b257406dc1fdfbeb947]
+
+(1)[^key-908d08648e7263ce79f601c3f170701d] The Employment and Support Allowance Regulations are amended in accordance with paragraphs (2) and (3).
+
+(2)[^key-908d08648e7263ce79f601c3f170701d] Omit regulation 31 (claimant who claims jobseeker’s allowance to be treated as not having limited capability for work).
+
+(3)[^key-22ea36eb82bb0b257406dc1fdfbeb947] In regulation 144(2)(a)[^f00047] (waiting days) after “income support,” insert “incapacity benefit, severe disablement allowance,”.
+
+### 26. Amendment of legislation relating to housing benefit[^key-66f99892bca8441f98f72f92e042b5dd]
+
+Schedule 4, which makes amendments to legislation relating to housing benefit, has effect.
+
+Sealed with the Official Seal of the Department for Social Development on 10th September 2010
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+The Department of Finance and Personnel consents to regulation 26 and Schedule 4.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 10th September 2010
+
+(L.S.)
+
+Jack Layberry
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE 1 — Modification of statutory provisions: making conversion decisions
+
+Regulation 6(1)
+
+### PART 1 — MODIFICATION OF PART 1 OF THE ACT
+
+**1.**[^key-3da2398b41a7ac55321d0cb28e38a902] Part 1 of the Act is to be read as if—
+
+- (a) any reference to a claimant were a reference to a notified person;
+- (b) in section 1—
+  - (i)[^key-02d15e207475e9871f02ec3acc6b99ff] for subsection (2), there were substituted—
+
+    > (2) Subject to the provisions of this Part, a notified person is entitled to an employment and support allowance if the person satisfies the basic conditions and—
+    >
+    > - (a) is entitled to an existing award of incapacity benefit or severe disablement allowance;
+    > - (b) is entitled to an existing award of income support and satisfies the conditions set out in Part 2 of Schedule 1 unless paragraph (c) applies; or
+    > - (c) is entitled to an existing award of income support by virtue of—
+    >   - (i) regulation 13(2)(b) or (bb) of the Income Support (General) Regulations (Northern Ireland) 1987 (circumstances in which persons in relevant education may be entitled to income support), or
+    >   - (ii) paragraph 10 (disabled students) or 12 (deaf students) of Schedule 1B to those Regulations,
+    >
+    >   and satisfies the conditions set out in Part 2 of Schedule 1, with the exception of the condition in paragraph 6(1)(g).
+
+    ,
+  - (ii) subsection (3)(e) were omitted;
+- (c) in sections 2(2)(a) and (3)(a) and 4(4)(a) and (5)(a) references to the assessment phase were references to the conversion phase;
+- (d) section 5 does not apply;
+- (e) in Schedule 1—
+  - (i) paragraphs 1 to 5 were omitted, and
+  - (ii) in paragraph 6, after sub-paragraph (1), there were inserted—
+
+    > (1A) Sub-paragraphs (1B) and (1C) apply in relation to any person (“P”) whose existing award of income support is subject to conversion under the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (“the Existing Awards Regulations”).
+    >
+    > (1B) In determining for the purposes of sub-paragraph (1)(a) whether P’s income exceeds the applicable amount, any amount to which P may become entitled by way of a transitional addition under Part 2 of the Existing Awards Regulations shall be disregarded.
+    >
+    > (1C) Where—
+    >
+    > - (a) P’s existing award would qualify for conversion under Part 2 of the Existing Awards Regulations but for the fact that the condition set out in sub-paragraph (1)(a) is not satisfied in P’s case; and
+    > - (b) P would otherwise be entitled to an amount of transitional addition under Part 2 of the Existing Awards Regulations as a result of carrying out Step 2 as set out in regulation 8 of those Regulations,
+    >
+    > the condition set out in sub-paragraph (1)(a) shall be treated as having been satisfied and the amount of employment and support allowance which applies to P as a result of Step 1 as set out in that regulation shall be nil.
+
+    .
+
+### PART 2 — MODIFICATION OF THE EMPLOYMENT AND SUPPORT ALLOWANCE REGULATIONS
+
+**2.**[^key-a9a00364020733c7fffcde883d038405] The Employment and Support Allowance Regulations are to be read as if—
+
+- (a) any reference to a claimant were a reference to the notified person;
+- (b) Parts 2 (the assessment phase) and 3 (conditions of entitlement – contributory allowance) do not apply;
+- (c) regulation 30 (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made) does not apply.
+- (ca)[^key-71d7634891e963b2459360edc59449df] in regulation 70 (special cases: supplemental – persons from abroad), in the case of a person who is entitled to an existing award of income support and who is a person to whom regulation 6(1) of the Social Security (Habitual Residence Amendment) Regulations (Northern Ireland) 2004 applies, in paragraph (4)—
+  - (i) the word “or” at the end of sub-paragraph (k) were omitted, and
+  - (ii) at the end of sub-paragraph (l) there were added—
+
+    > or
+    >
+    > - (m) a person who is entitled to an existing award of income support where that person is a person to whom regulation 6(1) of the Social Security (Habitual Residence Amendment) Regulations (Northern Ireland) 2004 applies.
+
+    ;
+- (d) in regulation 75 (payments treated as not being payments to which section 3 of the Act applies)—
+  - (i) the existing provisions were renumbered as paragraph (1),
+  - (ii) at the end of that paragraph there were added—
+
+    > - (g) any pension payment or PPF periodic payment which is made to a notified person and which falls within paragraph (2).
+
+    , and
+  - (iii) after that paragraph there were added—
+
+    > (2) This paragraph applies to any pension payment or PPF periodic payment made to the notified person where, immediately before the effective date of the person’s conversion decision, section 30DD(1) of the Contributions and Benefits Act[^f00048] (incapacity benefit: reduction for pension payments and PPF periodic payments)—
+    >
+    > - (a) did not apply to the notified person by virtue of regulation 25 of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00049] (person whose benefit is not to be reduced under section 30DD(1)); or
+    > - (b) was not treated as applying to the notified person by virtue of—
+    >   - (i) regulation 18(1)(c) or (2)(c) of those Regulations[^f00050] (persons formerly entitled to severe disablement allowance); or
+    >   - (ii) Article 3 of the Welfare Reform and Pensions (1999 Order) (Commencement No. 6 and Transitional and Savings Provisions) Order (Northern Ireland) 2000[^f00051] (transitional provision in relation to incapacity benefit).
+
+    .
+- (e) regulation 144 (waiting days) does not apply.
+
+### PART 3 — MODIFICATION OF THE CLAIMS AND PAYMENTS REGULATIONS
+
+**3.**[^key-36f6788eca7e168e4c10d38ac8a53391] Regulation 32 of the Claims and Payments Regulations[^f00052] (information to be given and changes to be notified) is to be read as if it were modified so as to enable the Department to require from any person entitled to an existing award—
+
+- (a) under paragraph (1), information or evidence for determining whether [^key-c94af5d5a6e0a15772c3d7e01b2d3a33]... an existing award should be converted into an award of an employment and support allowance; and
+- (b) under paragraph (1A), information or evidence in connection with payment of benefit in the event that an existing award is converted into an award of an employment and support allowance.
+
+## SCHEDULE 2 — Modification of statutory provisions: after the conversion phase
+
+Regulation 16(1)
+
+### PART 1 — MODIFICATION OF PART 1 OF THE ACT
+
+**1.**[^key-3c0999cb1d98d9d73188a1e68617bede] Part 1 of the Act is to be read as if—
+
+- (a) any reference to a claimant were a reference to a person in relation to whom a conversion decision has been made under these Regulations;
+- (b) in section 1—
+  - (i)[^key-eae99dbdbf999116649ba9e19878afa0] for subsection (2), there were substituted—
+
+    > (2) Subject to the provisions of this Part, a person is entitled to an employment and support allowance if the person satisfies the basic conditions and—
+    >
+    > - (a) in accordance with Part 2 of the Existing Awards Regulations, the effect of the conversion decision that was made in relation to the person was to convert the person’s existing award or awards into a single award of an employment and support allowance;
+    > - (b) that conversion decision has come into effect; and
+    > - (c) where—
+    >   - (i) the effect of that conversion decision is that the person is entitled to an income-related allowance, or
+    >   - (ii) the effect of that conversion decision is that the person is entitled to a contributory allowance and the person subsequently becomes entitled to an income-related allowance,
+    >
+    >   the person also satisfies the conditions set out in Part 2 of Schedule 1 (conditions relating to financial position), except for the condition in paragraph 6(1)(g) in the case of a person who, before that conversion decision was made, had been entitled to an existing award of income support by virtue of regulation 13(2)(b) or (bb) of the Income Support (General) Regulations (Northern Ireland) 1987 (circumstances in which persons in relevant education may be entitled to income support), or paragraph 10 (disabled students) or 12 (deaf students) of Schedule 1B to those Regulations.
+
+    , and
+  - (ii) for subsection (7), there were substituted—
+
+    > (7) In this Part—
+    >
+    > - “contributory allowance” means an employment and support allowance to which a person is entitled by virtue of the Existing Awards Regulations which was based on an award of incapacity benefit or severe disablement allowance to which the person was entitled; and
+    > - “income-related allowance” means an employment and support allowance to which a person is entitled by virtue of the Existing Awards Regulations which was based on an award of income support to which the person was entitled.
+
+    ;
+- (ba)[^key-1a2eef2adbec14f9a33a2a0cfd22dc2f]
+  - (i) in relation to awards of an employment and support allowance to persons previously entitled to existing awards, the application of section 1A (duration of contributory allowance) is modified in accordance with paragraph (ii),
+  - (ii) section 1A is to be read as if there were substituted—
+
+    > **1A.** (1) The period for which a person is entitled to a contributory allowance shall not exceed, in the aggregate, the relevant maximum number of days in any period for which his entitlement is established by virtue of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010.
+    >
+    > (2) In subsection (1) the “relevant maximum number of days” is—
+    >
+    > - (a) 365 days, or
+    > - (b) if the Department by order specifies a greater number of days, that number of days.
+    >
+    > (3) The fact that a person’s entitlement to a contributory allowance has ceased as a result of subsection (1) does not prevent his being entitled to a further allowance if he satisfies the first and second conditions set out in Part 1 of Schedule 1.
+    >
+    > (4) In calculating for the purposes of subsection (1) the length of the period for which a person is entitled to a contributory allowance, the following are not to be counted—
+    >
+    > - (a) days in which the person is a member of the support group, and
+    > - (b) days not falling within paragraph (a) in respect of which the person is entitled to the support component referred to in section 2(1)(b) (amount of contributory allowance).
+    >
+    > (5) In calculating for the purposes of subsection (1) the length of the period for which a person is entitled to a contributory allowance, days occurring before the coming into operation of this section are to be counted (as well as those occurring afterwards).
+
+    .
+- (c) in section 2—
+  - (i) in subsection (1)(a), after the words “such amount” there were inserted “, or the aggregate of such amounts,”, and
+  - (ii) except for the purposes of applying regulation 147A of the Employment and Support Allowance Regulations[^f00053] (claimants appealing a decision) in subsections (2)(a) and (3)(a), references to the assessment phase were references to the conversion phase;
+- (d) in section 4(4)(a) and (5)(a), except for the purposes of applying regulation 147A of the Employment and Support Allowance Regulations as modified by paragraph 4(i) of this Schedule, references to the assessment phase were to the conversion phase.
+- (e)[^key-89492a4908a46faa20c4aed6f70c6cfc] in section 24(1) after the definition of “entitled” there were inserted—
+
+  > - “the Existing Awards Regulations” means the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010;
+
+  ;
+- (f) in Schedule 1, in paragraph 6 after sub-paragraph (1) there were inserted—
+
+  > (1A) Paragraphs (1B) and (1C) apply where any person (“P”) is entitled by virtue of the Existing Awards Regulations to an employment and support allowance which is attributable to an income-related allowance.
+  >
+  > (1B) In determining for the purposes of sub-paragraph (1)(a) whether P’s income exceeds the applicable amount, the amount of any transitional addition to which P is entitled under the Existing Awards Regulations shall be disregarded.
+  >
+  > (1C) Where—
+  >
+  > - (a) P ceases to satisfy the condition set out in sub-paragraph (1)(a); but
+  > - (b) otherwise remains entitled to an amount by way of a transitional addition under the Existing Awards Regulations,
+  >
+  > the condition set out in sub-paragraph (1)(a) shall be treated as satisfied in P’s case and the amount of income-related allowance to which P is entitled shall be the amount of the transitional addition.
+
+  .
+
+### PART 2 — MODIFICATION OF OTHER ACT AND ORDER
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act
+
+**2.**[^key-583a6d585d2abeecd0d726b3a5a9a4da] Section 44B of the Contributions and Benefits Act[^f00054] (deemed earnings factors: 2010-11 onwards) is to be read as if, after subsection (5), there were inserted—
+
+> (5A) In determining whether Condition C is satisfied in relation to any pensioner, the following entitlements of the pensioner to an earnings factor credit may be aggregated if the weeks to which they relate comprise a continuous period—
+>
+> - (a) any entitlement arising by virtue of—
+>   - (i) section 44C(3)(c) below (eligibility for earnings factor enhancement in respect of a week in which severe disablement allowance was payable), or
+>   - (ii) section 44C(3)(d) below (eligibility for earnings factor enhancement in respect of a week in which long-term incapacity benefit was, or would have been, payable); and
+> - (b) where an award of severe disablement allowance or long-term incapacity benefit was converted into an award of an employment and support allowance by virtue of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010, any entitlement arising by virtue of regulation 5A(2)(ba) of the Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations (Northern Ireland) 2001[^f00055] (earnings factor credits eligibility for pensioners to whom employment and support allowance was payable).
+
+.
+
+#### The Social Security (Northern Ireland) Order
+
+**3.**[^key-47223afa1981967ed2c8a6e9e44357d1] Schedule 3 to the Social Security (Northern Ireland) Order 1998[^f00056] (decisions against which an appeal lies) is to be read as if, after paragraph 8D, there were inserted—
+
+> **Conversion of certain existing awards into awards of an employment and support allowance**
+>
+> **8E.** A conversion decision within the meaning of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010.
+
+.
+
+### PART 3 — MODIFICATION OF THE EMPLOYMENT AND SUPPORT ALLOWANCE REGULATIONS
+
+**4.**[^key-bcc6b20a1fdf3e2856ff1d3f914f1082] The Employment and Support Allowance Regulations are to be read as if—
+
+- (a) any reference to a claimant were a reference to a person in relation to whom a conversion decision has been made under these Regulations;
+- (b) Part 2 (the assessment phase) does not apply, except for the purposes of applying regulation 147A of those Regulations;
+- (c) Part 3 (conditions of entitlement – contributory allowance) does not apply;
+- (d)[^key-56fec20fcafddeaf38dc5e0ac557d992] regulation 30 (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made) is to be read as if, for paragraph (3), there was substituted—
+
+  > (3) Paragraph 2(b) does not apply where a claimant has made and is pursuing an appeal against a conversion decision that embodies a determination that the claimant does not have limited capability for work and that appeal has not yet been determined by an appeal tribunal.
+
+  .
+- (e) in regulation 45 (exempt work) for the definition of “specified work” in paragraph (10), there were substituted—
+
+  > - “specified work” means—
+  >   - (a) work done in accordance with paragraph (4); or
+  >   - (b) work done in accordance with regulation 17(4)(a) of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00057].
+
+  ;
+- (f) in regulation 67 (prescribed amounts)—
+  - (i) in paragraph (1) after sub-paragraph (c) there were added—
+
+    > - (d) the amount of any transitional addition to which the person is entitled under regulation 11 of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010.
+
+    ,
+  - (ii) in paragraph (2), for the words from “is the amount” to the end, there were substituted—
+
+    > are such of the following amounts as may apply in the person’s case—
+    >
+    > - (a) the amount determined in accordance with paragraph 1(1) of Schedule 4; and
+    > - (b) the amount of any transitional addition to which the person is entitled under regulation 10 of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010.
+
+    ;
+- (g) in regulation 68(1) (polygamous marriages), after sub-paragraph (d) there were added—
+
+  > - (e) the amount of any transitional addition to which the person is entitled under regulation 11 of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010.
+
+  ;
+- (h) regulation 75 (payments treated as not being payments to which section 3 of the Act applies) were subject to the same modifications as are specified in paragraph 2(d) of Schedule 1;
+- (i) for regulation 147A (claimants appealing a decision), in its application to a person who has made and is pursuing an appeal against a conversion decision which embodies a determination that the person does not have limited capability for work, there were substituted—
+
+  > **147A. Claimants appealing a decision**
+  >
+  > (1) This regulation applies where a person has made and is pursuing an appeal against a conversion decision which embodies a determination that the person does not have limited capability for work.
+  >
+  > (1A)[^key-8e360a16d9ba19000ae0a69299f32a29] A person to whom this regulation applies who has made and is pursuing an appeal against a conversion decision in respect of an existing award of incapacity benefit or severe disablement allowance shall be treated as having satisfied the conditions in Part 1 of Schedule 1 to the Act (contributory allowance: conditions relating to national insurance).
+  >
+  > (2) Subject to paragraph (3), where this regulation applies, a determination of limited capability for work by the Department under regulation 19 shall not be made until the appeal is determined by the appeal tribunal.
+  >
+  > (3) Paragraph (2) does not apply where either—
+  >
+  > - (a) the claimant suffers from some specific disease or bodily or mental disablement from which the claimant was not suffering when entitlement began; or
+  > - (b) a disease or bodily or mental disablement from which the claimant was suffering at that date has significantly worsened.
+  >
+  > (4) Where this regulation applies and the Department makes a determination—
+  >
+  > - (a) in a case to which paragraph (3) applies (including where the determination is not the first such determination) that the claimant does not have, or by virtue of regulation 22 or 23 is to be treated as not having, limited capability for work; or
+  > - (b) subsequent to a determination that the claimant is to be treated as having limited capability for work by virtue of a provision of these Regulations other than regulation 30, that the claimant is no longer to be so treated,
+  >
+  > this regulation and regulation 30 apply as if that determination had not been made.
+  >
+  > (5) Where this regulation applies and—
+  >
+  > - (a) the claimant is entitled to an employment and support allowance by virtue of being treated as having limited capability for work in accordance with regulation 30;
+  > - (b) neither of the circumstances in paragraph (3) applies or, subsequent to the application of either of those circumstances, the claimant has been determined not to have limited capability for work; and
+  > - (c) the claimant’s appeal is dismissed, withdrawn or struck out,
+  >
+  > the claimant is to be treated as not having limited capability for work with effect from the day specified in paragraph (5A).[^key-e64333b004c8bf513f1ee3d3cc16d076]
+  >
+  > (5A)[^key-1927e03693412fd4c9bcbdec91ee7ed4] The day specified for the purposes of paragraph (5) is the first day of the benefit week following the date on which the Department either—
+  >
+  > - (a) receives the notification from the clerk to the appeal tribunal that the appeal is dismissed, withdrawn or struck out, or
+  > - (b) discontinues action on an appeal in the circumstances to which regulation 33(9) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (making of appeals and application) applies.
+  >
+  > (6) Where a claimant’s appeal is successful, any entitlement to which this regulation applies shall terminate from the first day of the benefit week following the date on which the Department receives the appeal tribunal’s notification of that decision[^key-8541f5c6350f70163affe014dc33b569] .
+
+  ;
+- (j) in Schedule 5 (special cases) any reference to the amount—
+  - (i) applicable to a person under regulation 67(1)(a), or
+  - (ii) to which a person is entitled under regulation 67(1)(a),
+
+  included the amount of any transitional addition to which the person is entitled under regulation 67(1)(d) as added by the modification in sub-paragraph (f)(i).
+
+### PART 4 — MODIFICATION OF OTHER SUBORDINATE LEGISLATION
+
+#### The Social Security (Claims and Payments) Regulations
+
+**5.**[^key-c4d1b26defd54ccdbc2417ea4f88d254] The Claims and Payments Regulations are to be read as if—
+
+- (a) in regulation 2(1) after the definition of “employment officer”[^f00058] there were inserted—
+
+  > - the Existing Awards Regulations” means the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010;
+
+  ;
+- (b) in regulation 3 (claims not required for entitlement to benefit in certain cases) after paragraph (j)[^f00059] there were added—
+
+  > - (k) the beneficiary—
+  >   - (i) has made and is pursuing an appeal against a conversion decision made by virtue of the Existing Awards Regulations which embodies a determination that the beneficiary does not have limited capability for work; or
+  >   - (ii) was entitled to an employment and support allowance by virtue of the Existing Awards Regulations and has made and is pursuing an appeal against a later decision which embodies a determination that the beneficiary does not have limited capability for work;
+  > - (l) in the case of an employment and support allowance where the beneficiary is entitled to an existing award which is subject to conversion under the Existing Awards Regulations.
+
+  ;
+- (c) in regulation 26C[^f00060] (employment and support allowance) any reference to an employment and support allowance includes any transitional addition to which the beneficiary is entitled under the Existing Awards Regulations;
+- (d) in regulation 32(1B)[^f00061] (information to be given and changes to be notified)—
+  - (i) the word “or” at the end of sub-paragraph (a) were omitted, and
+  - (ii) after that sub-paragraph, there were inserted—
+
+    > - (ab) the amount of any transitional addition to which the beneficiary is entitled under the Existing Awards Regulations; or
+
+    ;
+- (e) in Schedule 8A[^f00062] (deductions from benefits and direct payment to third parties) in paragraph 1 (interpretation)—
+  - (i) in sub-paragraph (1) in the definition of “applicable amount”[^f00063], after “Employment and Support Allowance Regulations;” there were inserted “in the case of an income-related employment and support allowance by virtue of the Existing Awards Regulations it means the aggregate of the amounts for the family as determined under regulation 67(1)(a), (b) and (d) or 68(1)(a) to (c) and (e) of the Employment and Support Allowance Regulations as modified by paragraph 4(f) and (g) of Schedule 2 to the Existing Awards Regulations and”,
+  - (ii) in sub-paragraph (2)[^f00064] after ““employment and support allowance” means”, there were inserted “(subject to sub-paragraph (3))”, and
+  - (iii) after sub-paragraph (2) there were added—
+
+    > (3) In the application of sub-paragraph (2) to a beneficiary whose award of an employment and support allowance is by virtue of the Existing Awards Regulations, any reference to an employment and support allowance includes any transitional addition to which the beneficiary is entitled under those Regulations.
+    >
+    > (4) Where a specified benefit awarded to a beneficiary is subject to conversion under the Existing Awards Regulations and—
+    >
+    > - (a) immediately before the effective date of the conversion decision made in relation to the beneficiary, any deduction is being made in accordance with this Schedule from sums payable to the beneficiary by way of the specified benefit; and
+    > - (b) with effect from that date, the award of specified benefit is converted into an award of an employment and support allowance under the Existing Awards Regulations,
+    >
+    > any deduction falling within head (a) shall have effect as a deduction from the employment and support allowance to which the beneficiary is entitled.
+
+    ;
+- (f) in Schedule 8C[^f00065] (deductions from benefit in respect of child support maintenance and payment to persons with care)—
+  - (i) in paragraph 1 (interpretation), the existing provision becomes sub-paragraph (1), and
+  - (ii) after that sub-paragraph there were added—
+
+    > (2) In the application of this Schedule to a beneficiary whose award of an employment and support allowance is by virtue of the Existing Awards Regulations, any reference to an employment and support allowance includes any transitional addition to which the beneficiary is entitled under those Regulations.
+    >
+    > (3) Where a specified benefit awarded to a beneficiary is subject to conversion under the Existing Awards Regulations and—
+    >
+    > - (a) immediately before the effective date of the conversion decision made in relation to the beneficiary, any deduction is being made in accordance with this Schedule from sums payable to the beneficiary by way of the specified benefit; and
+    > - (b) with effect from that date, the award of specified benefit is converted into an award of an employment and support allowance under the Existing Awards Regulations,
+    >
+    > any deduction falling within head (a) shall have effect as a deduction from the employment and support allowance to which the beneficiary is entitled.
+
+    .
+
+#### The Social Security and Child Support (Decisions and Appeals) Regulations[^key-0b166be46d88a0ed81e3d6be9af69c55]
+
+**5A.** The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 are to be read as if—
+
+- (a) in regulation 1(2) (interpretation), after the definition of “the Employment and Support Allowance Regulations” there were inserted—
+
+  > - “the Existing Awards Regulations” means the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010;
+
+  ;
+- (b) in regulation 3 (revision of decisions)—
+  - (i) in paragraph (1)(a), in the case of a revision of a decision to award jobseeker’s allowance made following the reinstatement of an existing award in accordance with regulation 15(5) of the Existing Awards Regulations (conversion decision that existing award does not qualify for conversion), the words “within one month of the date of notification of the original decision” were omitted,
+  - (ii) in paragraph (9), in the case of a conversion decision where there has been a change of circumstances to which regulation 12(4) of the Existing Awards Regulations (regulations 10 and 11: supplementary) applies, sub-paragraph (a) were omitted, and
+  - (iii) in paragraph (9)(a) for “in the case of an advance award under regulation 13, 13A or 13C of the Claims and Payments Regulations” there were substituted “in the cases of an advance award under regulation 13, 13A or 13C of the Claims and Payments Regulations or a conversion decision within the meaning of regulation 5(2)(a) of the Existing Awards Regulations”;
+- (c) in regulation 6(2)(a)(i) (supersession of decisions) for “in the case of an advance award under regulation 13, 13A or 13C of the Claims and Payments Regulations or regulation 146 of the Employment and Support Allowance Regulations” there were substituted “in the cases of an advance award under regulation 13, 13A or 13C of the Claims and Payments Regulations or regulation 146 of the Employment and Support Allowance Regulations or a conversion decision within the meaning of regulation 5(2)(a) of the Existing Awards Regulations”.
+
+#### The Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations
+
+**6.**[^key-b6b901c2dcebbbda8087a31762eda43c] Regulation 5A(2) of the Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations (Northern Ireland) 2001[^f00066] (earnings factor credits eligibility for pensioners to whom employment and support allowance was payable) is to be read as if—
+
+- (a) the word “or” after sub-paragraph (b) were omitted; and
+- (b) after that sub-paragraph there were inserted—
+
+  > - (ba) that allowance was an employment and support allowance to which the pensioner was entitled by virtue of the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 and either—
+  >   - (i) long-term incapacity benefit or severe disablement allowance was payable to the pensioner immediately before its conversion into an employment and support allowance in accordance with those Regulations; or
+  >   - (ii) the condition in sub-paragraph (b) was satisfied; or
+
+  .
+
+#### Social Security (Habitual Residence) Amendment Regulation[^key-1459690e177e36bf5ce409f4fc94a602]
+
+**7.** Regulation 6 of the Social Security (Habitual Residence) Amendment Regulations (Northern Ireland) 2004 (transitional arrangements and savings) is to be read as if—
+
+- (a) in paragraph (1)—
+  - (i) sub-paragraphs (a), (b) and (d) were omitted; and
+  - (ii) for sub-paragraph (c) there were substituted—
+
+    > - (c) is entitled to an employment and support allowance by virtue of—
+    >   - (i) the Existing Awards Regulations, or
+    >   - (ii) regulation 30 of the Employment and Support Allowance Regulations (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made) in the circumstances where the person has made and is pursuing an appeal against a conversion decision made under the Existing Awards Regulations which embodies a determination that the person does not have limited capability for work,
+    >
+    >   and immediately before the effective date of the conversion decision made in respect of that person, was entitled to a specified benefit in respect of a period which was continuous with a period of entitlement to the same or another specified benefit which included 30th April 2004;
+
+    and
+- (b) in paragraph (4), before sub-paragraph (a) there were inserted—
+
+  > - (za) “conversion decision” and “effective date” have the same meanings as in regulation 2(1) of the Employment and Support Allowance (Transitional Provisions, and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010;
+
+  .
+
+## SCHEDULE 3 — Regulations that apply after the conversion phase[^key-860c96f35e4836ea71582b7131effe3e]
+
+Regulation 16(2)(g)
+
+[^key-860c96f35e4836ea71582b7131effe3e]The Regulations referred to in regulation 16(2)(g) are—
+
+- The Social Security (Benefit) (Married Women and Widows Special Provisions) (Northern Ireland) Regulations 1975[^f00067]
+- The Social Security (Benefit) (Members of the Forces) Regulations 1975[^f00068]
+- The Social Security (Airmen’s Benefits) Regulations (Northern Ireland) 1975[^f00069]
+- The Social Security (Mariners’ Benefits) Regulations (Northern Ireland) 1975[^f00070]
+- The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00071]
+- The Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^f00072]
+- The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00073]
+- The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00074]
+- The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00075]
+- The Income Support (General) Regulations (Northern Ireland) 1987[^f00076]
+- The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00077]
+- The Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00078]
+- The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00079]
+- The Social Fund (Cold Weather Payments) (General) Regulations (Northern Ireland) 1988[^f00080]
+- The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00081]
+- The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^f00082]
+- The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00083]
+- The Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations (Northern Ireland) 1996[^f00084]
+- The Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations (Northern Ireland) 1996[^key-be50c3284182263087084e48ee327b55]
+- The Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00085]
+- The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00086]
+- The Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^f00087]
+- The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^f00088]
+- The Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001[^f00089]
+- The Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^f00090]
+- The Child Support (Variations) Regulations (Northern Ireland) 2001[^f00091]
+- The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00092]
+- The Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002[^f00093]
+- The State Pension Credit Regulations (Northern Ireland) 2003[^f00094]
+- The Social Security (Work-focused Interviews for Partners) Regulations (Northern Ireland) 2003[^f00095]
+- The Social Security (Habitual Residence) Amendment Regulations (Northern Ireland) 2004[^key-5972e308878dccca11b86d455e420383]
+- The Children (Leaving Care) Social Security Benefits Regulations (Northern Ireland) 2005[^f00096]
+- The Age-Related Payments Regulations (Northern Ireland) 2005[^f00097]
+- The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00098].
+
+## SCHEDULE 4 — Amendment of legislation relating to housing benefit
+
+Regulation 26
+
+### PART 1 — AMENDMENT OF THE HOUSING BENEFIT REGULATIONS
+
+**1.**[^key-a375ab8ebbd58744b3b94c3ce518e961] (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00099] are amended in accordance with sub-paragraphs (2) to (5).
+
+(2) In regulation 2(1)[^f00100] (interpretation)—
+
+- (a) after the definition of “contributory employment and support allowance” insert—
+
+  > - “converted employment and support allowance” means an employment and support allowance which is not income-related and to which a person is entitled as a result of a conversion decision within the meaning of the Employment and Support Allowance (Existing Awards) Regulations;
+
+  ; and
+- (b) after the definition of “the Employment and Support Allowance Regulations” insert—
+
+  > - “the Employment and Support Allowance (Existing Awards) Regulations” means the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010;
+
+  .
+
+(3) In regulation 20[^f00101] (applicable amounts) after paragraph (e) add—
+
+> - (f) the amount of any transitional addition which may be applicable to him in accordance with Parts VII and VIII of Schedule 4.
+
+.
+
+(4) In regulation 21[^f00102] (polygamous marriages) after paragraph (f) add—
+
+> - (g) the amount of any transitional addition which may be applicable to him in accordance with Parts VII and VIII of Schedule 4.
+
+.
+
+(5) In Schedule 4 (applicable amounts)—
+
+- (a) for paragraph 1A[^f00103] substitute—
+
+  > **1A.** For the purposes of paragraph 1 a claimant is entitled to main phase employment and support allowance if—
+  >
+  > - (a) each of the conditions in paragraph 21 is satisfied in relation to the claimant personally; or
+  > - (b) the claimant personally is entitled to a converted employment and support allowance.
+
+  ;
+- (b) after paragraph 21[^f00104] insert—
+
+  > **21A.** Subject to paragraph 22, the claimant is entitled to one, but not both, of the components in paragraphs 23 and 24 if the claimant or the claimant’s partner is entitled to a converted employment and support allowance.
+
+  ; and
+- (c) after Part VI[^f00105] (amount of components) add—
+
+  > **PART VII — Transitional addition**
+  >
+  > **27.** (1) The claimant is entitled to the transitional addition calculated in accordance with paragraph 30 where the claimant or the claimant’s partner (“the relevant person”)—
+  >
+  > - (a) is entitled to a converted employment and support allowance; or
+  > - (b) is appealing a conversion decision as described in regulation 5(2)(b) of the Employment and Support Allowance (Existing Awards) Regulations and—
+  >   - (i) is treated as having limited capability for work by virtue of regulation 30 of the Employment and Support Allowance Regulations as modified by the Employment and Support Allowance (Existing Awards) Regulations, and
+  >   - (ii) is not in receipt of an income-related employment and support allowance,
+  >
+  > unless the amount of the transitional addition calculated in accordance with paragraph 30 would be nil.
+  >
+  > (2) The claimant’s entitlement to a transitional addition by virtue of this paragraph ends on any of the following—
+  >
+  > - (a) the reduction of the transitional addition to nil in accordance with paragraph 31;
+  > - (b) the termination of the claimant’s award of housing benefit;
+  > - (c) the relevant person ceasing to meet the requirements of sub-paragraph (1)(a) or (b), as the case may be;
+  > - (d) the claimant or the claimant’s partner becoming entitled to an income-related employment and support allowance, an income-based jobseeker’s allowance or income support;
+  > - (e) 5th April 2020.
+  >
+  > **28.** (1) This paragraph applies where—
+  >
+  > - (a) the claimant’s entitlement to a transitional addition ends, by virtue of the termination of the claimant’s award of housing benefit, under—
+  >   - (i) paragraph 27(2)(b);
+  >   - (ii) sub-paragraph (3)(b), or
+  >   - (iii) paragraph 29(3)(b);
+  > - (b) within 104 weeks of that termination but before 5th April 2020 the claimant again becomes entitled to housing benefit;
+  > - (c) in the benefit week in which the claimant again becomes entitled to housing benefit the relevant person is entitled to an employment and support allowance which is not income-related;
+  > - (d) if the period between the events mentioned in paragraphs (a) and (b) is more than 12 weeks, the intervening period is one to which regulation 145(2) of the Employment and Support Allowance Regulations (linking period where the claimant is a work or training beneficiary) applies in respect of the relevant person; and
+  > - (e) at the date on which the claimant again becomes entitled to housing benefit, neither the claimant nor the claimant’s partner is entitled to an income-related employment and support allowance, an income-based jobseeker’s allowance or income support.
+  >
+  > (2) Where this paragraph applies, the claimant is entitled, with effect from the day on which the claimant again becomes entitled to housing benefit, to a transitional addition of the amount of the transitional addition that would have applied had the claimant’s entitlement to a transitional addition not ended (but taking account of the effect which any intervening change of circumstances would have had by virtue of paragraph 31), unless the amount of the transitional addition would be nil.
+  >
+  > (3) The claimant’s entitlement to a transitional addition by virtue of this paragraph ends on any of the following—
+  >
+  > - (a) the reduction of the transitional addition to nil in accordance with paragraph 31;
+  > - (b) the termination of the claimant’s award of housing benefit;
+  > - (c) the relevant person no longer being entitled to the employment and support allowance referred to in sub-paragraph (1)(c);
+  > - (d) the claimant or the claimant’s partner becoming entitled to an income-related employment and support allowance, an income-based jobseeker’s allowance or income support;
+  > - (e) 5th April 2020.
+  >
+  > **29.** (1) This paragraph applies where—
+  >
+  > - (a) the claimant’s entitlement to a transitional addition ends, by virtue of the relevant person ceasing to be entitled to an employment and support allowance, under—
+  >   - (i) paragraph 27(2)(c);
+  >   - (ii) paragraph 28(3)(c), or
+  >   - (iii) sub-paragraph (3)(c);
+  > - (b) before 5th April 2020 the relevant person again becomes entitled to an employment and support allowance which is not income-related;
+  > - (c) either—
+  >   - (i) at the date on which the relevant person again becomes entitled to an employment and support allowance which is not income-related, regulation 145(1) of the Employment and Support Allowance Regulations applies to the relevant person, or
+  >   - (ii) the period between the events mentioned in paragraphs (a) and (b) is one to which regulation 145(2) of the Employment and Support Allowance Regulations applies in respect of the relevant person; and
+  > - (d) at the date on which the relevant person again becomes entitled to an employment and support allowance which is not income-related, neither the claimant nor the claimant’s partner is entitled to an income-related employment and support allowance, an income-based jobseeker’s allowance or income support.
+  >
+  > (2) Where this paragraph applies, the claimant is entitled, with effect from the day that the relevant person’s entitlement to employment and support allowance takes effect for housing benefit purposes, to a transitional addition of the amount of the transitional addition that would have applied had the claimant’s entitlement to a transitional addition not ended (but taking account of the effect which any intervening change of circumstances would have had by virtue of paragraph 31), unless the amount of the transitional addition would be nil.
+  >
+  > (3) The claimant’s entitlement to a transitional addition by virtue of this paragraph ends on any of the following—
+  >
+  > - (a) the reduction of the transitional addition to nil in accordance with paragraph 31;
+  > - (b) the termination of the claimant’s award of housing benefit;
+  > - (c) the relevant person no longer being entitled to the employment and support allowance referred to in sub-paragraph (1)(b);
+  > - (d) the claimant or the claimant’s partner becoming entitled to an income-related employment and support allowance, an income-based jobseeker’s allowance or income support;
+  > - (e) 5th April 2020.
+  >
+  > **PART VIII — Amount of transitional addition**
+  >
+  > **30.** (1) Subject to paragraph 31, the amount of the transitional addition is the amount by which Amount A exceeds Amount B.
+  >
+  > (2) Where a conversion decision as described in regulation 5(2)(a) of the Employment and Support Allowance (Existing Awards) Regulations is made in respect of the relevant person—
+  >
+  > - (a) Amount A is the basic amount that would have applied on the day that decision took effect had that decision not been made; and
+  > - (b) Amount B is the basic amount that applied on that day as a result of that decision.
+  >
+  > (3) Where the relevant person is appealing a conversion decision as described in regulation 5(2)(b) of the Employment and Support Allowance (Existing Awards) Regulations and is treated as having limited capability for work by virtue of regulation 30 of the Employment and Support Allowance Regulations as modified by the Employment and Support Allowance (Existing Awards) Regulations—
+  >
+  > - (a) Amount A is the basic amount that would have applied on the day the relevant person was first treated as having limited capability for work if the relevant person had not been so treated; and
+  > - (b) Amount B is the basic amount that applied on that day as a result of the relevant person being so treated.
+  >
+  > (4) In this paragraph and paragraph 31 “basic amount” means the aggregate of such amounts as may apply in the claimant’s case in accordance with regulation 20(a) to (e) or 21(a) to (f).
+  >
+  > **31.** (1) Subject to sub-paragraph (2), where there is a change of circumstances which leads to an increase in the claimant’s basic amount, the transitional addition that applies immediately before the change of circumstances shall be reduced by the amount by which Amount C exceeds Amount D.
+  >
+  > (2) If Amount C exceeds Amount D by more than the amount of the transitional addition that applies immediately before the change of circumstances, that transitional addition shall be reduced to nil.
+  >
+  > (3) Amount C is the basic amount that applies as a result of the increase.
+  >
+  > (4) Amount D is the basic amount that applied immediately before the increase.
+
+  .
+
+### PART 2 — AMENDMENT OF THE HOUSING BENEFIT (DECISIONS AND APPEALS) REGULATIONS
+
+#### 2. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-224c389b9d753039914136cf922dd856]
+
+(1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00106] are amended in accordance with paragraphs (2) and (4).
+
+(2) In regulation 1(2) (interpretation) after the definition of “Decisions and Appeals Regulations 1999” insert—
+
+> - “the Employment and Support Allowance (Existing Awards) Regulations” means the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010;
+
+.
+
+(3) In regulation 7(2) (decisions superseding earlier decisions)—
+
+- (a) in sub-paragraph (h)[^f00107] after “sub-paragraph (j)” insert “, (k) or (l)”;
+- (b) after sub-paragraph (j)[^f00108] add—
+
+  > - (k) where—
+  >   - (i) the claimant has been awarded entitlement to housing benefit,
+  >   - (ii) the claimant or the claimant’s partner has had an award of benefit converted to an employment and support allowance in accordance with regulation 5(2)(a) of the Employment and Support Allowance (Existing Awards) Regulations, and
+  >   - (iii) subsequent to the first day of the period to which that entitlement to housing benefit relates, the Department makes a decision to supersede the award of employment and support allowance to award a different component;
+  > - (l) where the claimant has been awarded entitlement to housing benefit and subsequent to the first day of the period to which that entitlement relates—
+  >   - (i) a conversion decision of the kind set out in regulation 5(2)(a) of the Employment and Support Allowance (Existing Awards) Regulations takes effect in respect of the claimant or the claimant’s partner, or
+  >   - (ii) the claimant is appealing a conversion decision as described in regulation 5(2)(b) of the Employment and Support Allowance (Existing Awards) Regulations and is treated as having limited capability for work by virtue of regulation 30 of the Employment and Support Allowance Regulations (Northern Ireland) 2008 as modified by the Employment and Support Allowance (Existing Awards) Regulations.
+
+  .
+
+(4) In regulation 8 (date from which a decision superseding an earlier decision takes effect)—
+
+- (a) in paragraph (13)[^f00109]—
+  - (i) after “regulation 7(2)(j)” insert “or (k)”, and
+  - (ii) in sub-paragraph (a) after “regulation 7(2)(j)(iii)” insert “or (k)(iii)”; and
+- (b) after paragraph (13) add—
+
+  > (14) Where a decision is superseded in accordance with regulation 7(2)(l) the decision shall take effect—
+  >
+  > - (a) where the decision made in accordance with the Employment and Support Allowance (Existing Awards) Regulations takes effect on or after 1st April in any year but before 16th April of that year—
+  >   - (i) from 1st April for a housing benefit award in which the claimant’s weekly amount of eligible rent falls to be calculated in accordance with regulation 78(2)(b) or (c) of the Housing Benefit Regulations or, as the case may be, regulation 59(2)(b) or (c) of the Housing Benefit (State Pension Credit) Regulations;
+  >   - (ii) from the first Monday in April for a housing benefit award to which head (i) does not apply;
+  > - (b) in any other case, from the day the decision made in accordance with the Employment and Support Allowance (Existing Awards) Regulations takes effect.
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make transitional provision in relation to the introduction of employment and support allowance and apply to persons entitled to any existing award (which is defined in Schedule 4 to the Welfare Reform Act (Northern Ireland) 2007 in terms of incapacity benefit, severe disablement allowance and income support on the grounds of incapacity or disability). The Regulations set out the process for determining whether existing awards are to be converted into awards of an employment and support allowance. An award may be converted only if certain conditions are satisfied in relation to the person entitled to the award.
+
+The Regulations also make related amendments to the Housing Benefit Regulations (Northern Ireland) 2006 and the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001.
+
+Part 2 and Schedule 1 set out the process for determining whether or not a person’s existing award is to be converted into an award of an employment and support allowance. The conversion process operates on an individual basis and, in each case, begins when the Department sends a notice under regulation 4 to the person. Where the person is entitled to more than one existing award the notice and conversion process apply to both awards. Regulation 5 requires the Department to determine whether or not the existing award or awards qualify for conversion and to notify the person accordingly. There is also provision for notification to be given in the event that an existing award ceases to be subject to conversion. To facilitate this determination regulation 6 and Schedule 1 apply certain statutory provisions that already have effect in relation to persons who make a claim for an employment and support allowance. Schedule 1 makes modifications to these statutory provisions to take account of the different circumstances that arise because a person is already entitled to an existing award and is not required to make a claim. There is also provision to enable the Department to obtain information in order to make conversion decisions and to provide for conversion decisions to be revised before they come into effect.
+
+Under regulation 7, a person’s existing award or awards qualify for conversion if the person satisfies the basic conditions for entitlement to an employment and support allowance, except for the condition that they are not entitled to income support. One of these basic conditions is that the person has limited capability for work. This will be determined on an individual basis in accordance with the arrangements for the limited capability for work assessment set out in the Employment and Support Allowance Regulations (Northern Ireland) 2008, as modified by Schedule 1 to these Regulations.
+
+If an existing award or awards do qualify for conversion, the Department must determine in accordance with regulations 8 to 12 the amount to which the person is entitled. In broad terms, this is the aggregate of the amount to which the person would have been entitled on a successful claim for an employment and support allowance and the additional amount referred to in the Regulations as a “transitional addition”. The transitional addition is based on the difference between specified elements of the person’s existing award and specified elements of the employment and support allowance into which it is to be converted.
+
+The date on which the Department’s decision about conversion comes into effect is provided for in regulation 13, and regulations 14 and 15 set out the consequences which follow from the decision. Where the decision is that a person’s award or awards do qualify for conversion, regulation 14 converts them into a single award of employment and support allowance. Where the decision is that a person’s existing award or awards do not qualify, regulation 15 provides that the award or awards terminate immediately before the effective date of the conversion decision.
+
+Part 3 of, and Schedules 2 and 3 to, the Regulations set out the framework which has effect in relation to any person with effect from the effective date of their conversion decision made under Part 2 of the Regulations. In relation to any matter to be determined in connection with a person’s entitlement to an employment and support allowance (including a decision not to convert an award), regulation 16 and Schedules 2 and 3 apply certain statutory provisions that already have effect in relation to an award of employment and support allowance made following a claim. This includes provision for revision, supersession and appeals in connection with conversion decisions which have come into effect. There are modifications of these statutory provisions in Schedule 2. Regulation 17 makes provision about a change of circumstances occurring before the effective date of a conversion decision. Regulations 18 to 20 set out the circumstances in which the amount is to be reduced and regulation 21 provides for termination when the amount is reduced to nil, when the person ceases to be entitled to an employment and support allowance or 5th April 2020 (whichever occurs first).
+
+Part 4 of the Regulations contains miscellaneous provisions, including provision in regulation 24 which omits the saving in regulation 2(2)(a), (b) and (c) of the Employment and Support Allowance (Transitional Provisions) Regulations (Northern Ireland) 2008 that enables a person previously entitled to incapacity benefit, severe disablement allowance and income support on grounds of incapacity or disability to make a repeat (linked) claim for that benefit in certain circumstances, rather than a new claim for employment and support allowance. This provision comes into operation on 31st January 2011.
+
+Regulation 25 omits regulation 31 of the Employment and Support Allowance Regulations (Northern Ireland) 2008 which provides that a claimant who claims a jobseeker’s allowance and is able to show a reasonable prospect of obtaining employment is throughout that claim to be treated as not having limited capability for work. Regulation 25 also amends regulation 144 of the Employment and Support Allowance Regulations (Northern Ireland) 2008 so that a person does not have to serve a period of waiting days in relation to a new claim for employment and support allowance if that person would have benefited from the saving omitted by regulation 24 if they had made a claim before 31st January 2011.
+
+Regulation 26 and Schedule 4 provide for amendments to legislation relating to housing benefit which complement the conversion process. Part 1 of Schedule 4 makes amendments to the Housing Benefit Regulations (Northern Ireland) 2006, providing for a transitional addition to a claimant’s applicable amount where the claimant or the claimant’s partner has had an award of benefit converted to an employment and support allowance in accordance with these Regulations or is appealing a decision not to convert an award to an employment and support allowance. Part 2 of Schedule 4 amends the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 to make provision for the supersession of awards of housing benefit to take account of conversion decisions.
+
+Paragraphs 7 and 8 of Schedule 4 to the Welfare Reform Act (Northern Ireland) 2007, some of the enabling provisions under which these Regulations are made, were brought into operation on 9th September 2010, by virtue of the Welfare Reform (2007 Act) (Commencement No. 8) Order (Northern Ireland) 2010 ([S.R.2010 No. 308 (C. 17)](https://www.legislation.gov.uk/nisr/2010/308)).
+
+In so far as these Regulations are required, for the purposes of regulation 26 and Schedule 4, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, that Act, are not subject to the requirement of section 149(2) for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 171(1) was amended by paragraph 5 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00002]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 74(3) is applied to Schedule 7 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)) by paragraph 20(3) of that Schedule
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00004]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00005]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^f00006]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-e4eb676b9267925e3f5265e320e6305f]: Commencement: Reg. 1 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-6a526d81f17b9b17c39e34d4ef8e7a4d]: Commencement: Reg. 2 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00008]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
+
+[^f00009]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
+
+[^f00010]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); paragraph 1 was amended by paragraph 28 of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)), paragraph 8 of Schedule 3 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)) and paragraph 4 of Schedule 3 to the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2008/1))
+
+[^f00011]: Footnote: Regulation 34ZA was inserted by regulation 2 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271) and amended by regulation 12(1) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 2(2) of [S.R. 2010 No. 129](https://www.legislation.gov.uk/nisr/2010/129)
+
+[^f00012]: Footnote: Regulation 34ZB was inserted by regulation 12(2) of [S.R. 2009 No. 191](https://www.legislation.gov.uk/nisr/2009/191) and amended by regulation 2(2) of [S.R. 2010 No. 129](https://www.legislation.gov.uk/nisr/2010/129)
+
+[^f00013]: Footnote: Regulation 34A was inserted by regulation 2(2) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67) and amended by regulation 7(b) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), regulation 3(7) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 3 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271), regulation 2(2) of [S.R. 2001 No. 22](https://www.legislation.gov.uk/nisr/2001/22) and regulation 2(9) of [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297)
+
+[^f00014]: Footnote: Section 69 was amended by Article 33(1) of, and paragraph 31 of Schedule 2 to, the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)), section 2(2) and (4) of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51), paragraph 62(1) and (3) of Schedule 6 to the Social Security (Northern Ireland) Order 1998, paragraph 10 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002, paragraph 8 of Schedule 4 to the Tax Credits Act 2002, paragraph 110 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), section 41(3) of, and paragraph 4(6) of Schedule 3 to, the Welfare Reform Act (Northern Ireland) 2007 and section 135(4) of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14)
+
+[^f00015]: Footnote: Section 72 was amended by paragraph 11 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002, paragraph 4(8) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007 and regulation 2 of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413)
+
+[^f00016]: Footnote: Section 74 was amended by paragraph 186 of Schedule 9 to the Children (Northern Ireland) Order 1995 ([S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)), Article 33(2) of, and paragraph 34 of Schedule 2 to, the Jobseekers (Northern Ireland) Order 1995 and paragraph 113 of Schedule 24 to the Civil Partnership Act 2004
+
+[^f00017]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^f00018]: Footnote: “Existing award” is defined in paragraph 11 of Schedule 4 to the Welfare Reform Act (Northern Ireland) 2007
+
+[^f00019]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-780ed5602582273167b4146516bbc7b2]: Commencement: Reg. 3 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-87e65d2e374345f91f018b19879402c7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/2)
+
+[^key-70e4206cf9a69eb839d96c7a6dadb0e1]: Commencement: Reg. 4 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00020]: Footnote: [S.R. 2009 No. 108](https://www.legislation.gov.uk/nisr/2009/108)
+
+[^key-5b68c9276dd7d6d6cc884a958dfe1ae9]: Commencement: Reg. 5 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-3e118822ec8da37eda72b2777018f8b6]: Commencement: Reg. 6 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-00da8f81ad38ac2670698e1420694c57]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/nisr/2010/312/regulation/6/1/b) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(2)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/2)
+
+[^f00021]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00022]: Footnote: Regulation 32(1) and (1A) was substituted by regulation 2 of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224)
+
+[^f00023]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
+
+[^key-205802e4b449802316ae105e7b09e794]: Commencement: Reg. 7 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-2dafbece84ad3eb3a30f3aa62be44cd2]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2010/312/regulation/7/1): reg. 7 renumbered as reg. 7(1) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/3/a)
+
+[^key-f53ea5d947c306e438c844b84a865e0c]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2010/312/regulation/7) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/3/b/i)
+
+[^key-4704d9b8260f7fd58845ec3a9fa02848]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2010/312/regulation/7/1) substituted (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/2/a)
+
+[^key-abe97f0af972669f26aa9ba270fda9d4]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2010/312/regulation/7) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/3/b/ii)
+
+[^key-6233ac48ad11b432951990a9875cb151]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2010/312/regulation/7) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs.](https://www.legislation.gov.uk/nisr/2010/347/regulation), [1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2) 2(3(b)(iii)
+
+[^key-d6100f7cb7a2573db096efc2b73f94e8]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2010/312/regulation/7) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(3)(b)(iv)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/3/b/iv)
+
+[^key-e549b64ba795a1b118f8a74d4e22bc3d]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2010/312/regulation/7/2) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/3/c)
+
+[^key-124d9ff33e9243f421bc58731720d689]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2010/312/regulation/7/3) added (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/2/b)
+
+[^key-e23c9634f83eb400adb8583187d9d036]: Commencement: Reg. 8 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-6258b67c6daae3c79f5f6d64fee3a0e3]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2010/312/regulation/8/1): reg. 8 renumbered as reg. 8(1) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/4/a)
+
+[^key-11923addcc7461ef6b4153e32621cae8]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2010/312/regulation/8/2) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/4/b)
+
+[^key-19c2fee5a2d779342b357638d1d41db6]: Commencement: Reg. 9 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-3089f925bde34d530c85f409b0628555]: Commencement: Reg. 10 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-eed23326ff90859f64bc7be4223e6649]: Textual amendment: [Reg. 10(5)(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/10/5/a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/5/a/i)
+
+[^key-0ebc1dca06773e1afdd234d354f00246]: Textual amendment: Words in [reg. 10(5)(b)](https://www.legislation.gov.uk/nisr/2010/312/regulation/10/5/b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/5/a/ii)
+
+[^f00027]: Footnote: Sections 68 and 69 were repealed by Part IV of Schedule 10 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)). *See* Article 4 of [S.R. 2000 No. 332 (C. 14)](https://www.legislation.gov.uk/nisr/2000/332) for savings provisions
+
+[^key-00882f7b815b68bef266da880b293d0e]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/nisr/2010/312/regulation/10/6)[(7)](https://www.legislation.gov.uk/nisr/2010/312/regulation/10/7) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/5/b)
+
+[^key-65de2eacd8bd8f18273f96403a41492c]: Commencement: Reg. 11 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00028]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 17 was amended by regulation 2 of [S.R. 1988 No. 193](https://www.legislation.gov.uk/nisr/1988/193), regulation 4 of [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), regulation 9 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph 4 of Schedule 1 to [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458); regulation 18 was amended by regulation 5 of [S.R. 1988 No. 274](https://www.legislation.gov.uk/nisr/1988/274), regulation 5 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 5 of [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249), regulation 10 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph 4 of Part I of the Schedule to [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132); Schedule 2 was amended by regulation 30 of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), regulation 18 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 15 of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431), regulation 5 of [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), regulation 6 of S. R. [1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), regulation 15 of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), regulation 2 of [S.R. 1990 No. 213](https://www.legislation.gov.uk/nisr/1990/213), regulation 6 of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346), regulation 3(5) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), regulation 13 of [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338), regulation 10(4) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 3 of [S.R. 1993 No. 218](https://www.legislation.gov.uk/nisr/1993/218), regulation 2(9) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), regulation 2(3) of [S.R. 1994 No. 474](https://www.legislation.gov.uk/nisr/1994/474), regulation 2(12) of [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67), regulation 2(8) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), Schedule 2 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), regulation 2(6) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2), regulation 8(3) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), regulation 4(2) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74), regulation 2(c) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367), regulation 3(4) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80), regulation 2 of [S.R. 2002 No. 322](https://www.legislation.gov.uk/nisr/2002/322), paragraph 1 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), regulation 24(5) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), paragraph 20 of Schedule 1 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), regulation 2 of [S.R. 2003 No. 413](https://www.legislation.gov.uk/nisr/2003/413), regulation 2(3) of [S.R. 2003 No. 417](https://www.legislation.gov.uk/nisr/2003/417), regulation 4 of [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213), regulation 3(3) of [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580), regulation 5(6)(a) of [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359), regulation 2(7) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154), regulation 2(14) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), regulation 2(2) of [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103) and Article 16(3) to (5) of, and Schedules 2 and 3 to, [S.R. 2010 No. 118](https://www.legislation.gov.uk/nisr/2010/118)
+
+[^f00029]: Footnote: Schedule 3 was substituted by regulation 2 of [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and amended by regulation 2(a) of [S.R. 1995 No. 350](https://www.legislation.gov.uk/nisr/1995/350), regulation 2(3) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434), regulation 24 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), regulation 5(10) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405), regulation 3 of [S.R. 1997 No. 3](https://www.legislation.gov.uk/nisr/1997/3), regulation 3 of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165), regulation 2 of [S.R. 1997 No. 435](https://www.legislation.gov.uk/nisr/1997/435), regulation 16 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), regulation 3(5) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), regulation 8(4) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), regulation 3 of [S.R. 1999 No. 107](https://www.legislation.gov.uk/nisr/1999/107), regulation 2(1) of [S.R. 1999 No. 315](https://www.legislation.gov.uk/nisr/1999/315), Article 7(2) and (11) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 3(5) of [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241), regulation 3(3) of [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29), regulation 6 of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78), regulation 12 of [S.R. 2001 No. 151](https://www.legislation.gov.uk/nisr/2001/151), regulation 2(1) of [S.R. 2001 No. 406](https://www.legislation.gov.uk/nisr/2001/406), regulation 5 of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128), regulation 24(6) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), regulation 3(4) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261), regulation 4 of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394), regulation 2 of [S.R. 2004 No. 461](https://www.legislation.gov.uk/nisr/2004/461), regulation 2(7) of [S.R. 2005 No. 424](https://www.legislation.gov.uk/nisr/2005/424), paragraph 8 of Schedule 1 to [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458), regulation 3(4) of [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580), regulation 5(6)(b) and (7) of [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359), paragraph 1(4) of Schedule 2 to [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407), regulation 2 of [S.R. 2006 No. 510](https://www.legislation.gov.uk/nisr/2006/510), regulation 2(3) of [S.R. 2007 No. 475](https://www.legislation.gov.uk/nisr/2007/475), regulation 12(11) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286), regulation 5(2) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413), regulation 2(5)(e) and (8) of [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428), regulation 2(2)(a) of [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503), regulation 2(14) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338), regulation 2(3)(e) and (7)(d) of [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69) and Article 16(6) of, and Schedule 4 to, [S.R. 2010 No. 118](https://www.legislation.gov.uk/nisr/2010/118) and was modified by regulations 4 and 9 of [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503)
+
+[^f00030]: Footnote: Regulation 17(1)(b) and (c) and regulation 18(1)(c) and (d) were omitted by paragraphs 2(a) and 3(a) of Schedule 1 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) respectively subject to regulation 6(4) and (5) of those Regulations
+
+[^f00031]: Footnote: [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195); regulation 1 was amended by regulation 2 of [S.R. 2005 No. 393](https://www.legislation.gov.uk/nisr/2005/393) and regulation 6 was amended by regulation 6 of SR. [2003 No. 338](https://www.legislation.gov.uk/nisr/2003/338) and regulation 9 of [S.R. 2004 No. 143](https://www.legislation.gov.uk/nisr/2004/143)
+
+[^f00032]: Footnote: Regulations 67(1) and 68(1) were amended by regulation 3(4) of [S.R. 2010 No. 6](https://www.legislation.gov.uk/nisr/2010/6)
+
+[^key-e0466b7e3dea6b6aa321d8b315759f7a]: Commencement: Reg. 12 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-0c2527c5c5bf2408747c6ebcf0d76d3c]: Commencement: Reg. 13 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-b0d680d68532a54154f62fd0b9bca273]: Commencement: Reg. 14 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-8c95fef5ead2774971afb04efba1a37f]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2010/312/regulation/14/1) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/6/a)
+
+[^key-585f5aefc402d25a7b4e2883b1fe5dc9]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/nisr/2010/312/regulation/14/2A)[(2B)](https://www.legislation.gov.uk/nisr/2010/312/regulation/14/2B) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/6/b)
+
+[^key-200a0f7b373a16234a8a62291689c670]: Textual amendment: [Reg. 14(3)-(7)](https://www.legislation.gov.uk/nisr/2010/312/regulation/14/3) substituted for [reg. 14(3)-(4)](https://www.legislation.gov.uk/nisr/2010/312/regulation/14/3) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/6/c)
+
+[^key-46b86bdd057f193c0318b8a7bd40b434]: Commencement: Reg. 15 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-fdf90244435b5fae79a8d2bf7b80da42]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/1) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/7/a)
+
+[^key-cbf8573148fe4838cbdbe84fce9ae55d]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/2A)[(2B)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/2B) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/7/b)
+
+[^f00033]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 8B was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and amended by regulation 2(2) of [S.R. 2003 No. 151](https://www.legislation.gov.uk/nisr/2003/151), regulation 7(6) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 2(2) of [S.R. 2010 No. 109](https://www.legislation.gov.uk/nisr/2010/109)
+
+[^key-6184259e89cc41669986c324b4f177c4]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/7/c)
+
+[^key-b0245b4be88fac8daab9e8fe45e88118]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/6)[(7)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/7) substituted for [reg. 15(6)](https://www.legislation.gov.uk/nisr/2010/312/regulation/15/6) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(7)(d)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/7/d)
+
+[^key-88cff19aa37c15dc56047d5d3ea346f9]: Commencement: Reg. 16 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-14533e919cd2b8eee7a1ef09f62e31d9]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/nisr/2010/312/regulation/16/1A) inserted (1.5.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/3), [19](https://www.legislation.gov.uk/nisr/2012/121/regulation/19)
+
+[^f00034]: Footnote: [S.I. 1997/1183 (N.I. 12)](https://www.legislation.gov.uk/nisi/1997/1183)
+
+[^f00035]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^key-e812d96ed841645f0b6f1fb8a8571f09]: Commencement: Reg. 17 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-ec6ed592e6030426029824e5291ad9f8]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/nisr/2010/312/regulation/17) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/8/a)
+
+[^key-9c5271c0df5bf94843b1b3f2d668823b]: Textual amendment: [Reg. 17(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/17/a)[(aa)](https://www.legislation.gov.uk/nisr/2010/312/regulation/17/aa)[(ab)](https://www.legislation.gov.uk/nisr/2010/312/regulation/17/ab) substituted for [reg. 17(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/17/a) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/8/b)
+
+[^key-47120883e3b70b44101ce47a8a54643d]: Textual amendment: Words in [reg. 17(d)](https://www.legislation.gov.uk/nisr/2010/312/regulation/17/d) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(3)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/3)
+
+[^key-169353de9ffa48a4fb4d694dc0907a2e]: Textual amendment: Words in [reg. 17(e)](https://www.legislation.gov.uk/nisr/2010/312/regulation/17/e) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(3)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/3)
+
+[^key-e2e860a92ea3038de6fdae2e4cac056a]: Commencement: Reg. 18 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00036]: Footnote: The reference to regulation 67(2)(a) of the Employment and Support Allowance Regulations (Northern Ireland) 2008 is to that regulation as modified by paragraph 4(f)(ii) of Schedule 2 to these Regulations
+
+[^key-fd33e6830aa5a3119962ed6a80e7180d]: Commencement: Reg. 19 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00037]: Footnote: Increases in benefits in respect of children under section 80 were abolished by section 1(3)(e) of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and section 80 was repealed by Schedule 6 to that Act. *See* Article 2 of [S.R. 2003 No. 212](https://www.legislation.gov.uk/nisr/2003/212) for savings provisions
+
+[^f00038]: Footnote: Severe disablement allowance was abolished by section 62 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and section 90 was amended by paragraph 25 of Schedule 8 to that Order. *See* Article 4 of [S.R. 2000 No. 332 (C. 14)](https://www.legislation.gov.uk/nisr/2000/332) for savings provisions. Increases in benefits in respect of children under section 90 were abolished by section 1(3)(e) of the Tax Credits Act 2002 and section 90 was amended by Schedule 6 to that Act. *See* Article 2 of [S.R. 2003 No. 212](https://www.legislation.gov.uk/nisr/2003/212) for savings provisions
+
+[^key-b5552da5b5c63cfe0a94156b0bd43ce4]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/nisr/2010/312/regulation/19/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(9)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/9)
+
+[^key-94237ee56e8d0c7a5dec5c80d0fa102f]: Commencement: Reg. 20 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00039]: Footnote: Section 86A was inserted by Article 4(4) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
+
+[^f00040]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242)
+
+[^key-5aa5ba4429714b839c3e76763a0fa93b]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2010/312/regulation/20/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(10)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/10)
+
+[^key-b1a40af2fa910f9c3bff881413b8be8e]: Commencement: Reg. 21 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-0a3111ab8eebb3856ee049acc56cef80]: Textual amendment: Word in [reg. 21(1)(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/1/a) inserted (4.4.2020) by [The Employment and Support Allowance and the Housing Benefit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/45)](https://www.legislation.gov.uk/nisr/2020/45), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/45/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/45/regulation/2/a)
+
+[^key-0e74aefbe81b123edc83aa01ddfad38c]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/1/b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(11)(a)(i)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/11/a/i)
+
+[^key-c925284229f9eb8d6ae8909bca7b9671]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/1/b) inserted (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/3/a)
+
+[^key-d2c20f10cded7761af0c8ea5f5d42b0c]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/1/b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(11)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/11/a/ii)
+
+[^key-ceb6d153478da23aabd44aed88e22661]: Textual amendment: Word in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/1/b) omitted (4.4.2020) by virtue of [The Employment and Support Allowance and the Housing Benefit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/45)](https://www.legislation.gov.uk/nisr/2020/45), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/45/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/45/regulation/2/b)
+
+[^key-d030eed4a5e94a36a3248d40e14c2f7c]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/1/c) omitted (4.4.2020) by virtue of [The Employment and Support Allowance and the Housing Benefit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/45)](https://www.legislation.gov.uk/nisr/2020/45), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/45/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/45/regulation/2/c)
+
+[^key-4485d73323a685c64597181044a7738b]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/2) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/11/b)
+
+[^key-26952f0183372ba88e157e2557c27098]: Textual amendment: [Reg. 21(3)-(7)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/3) substituted for [reg. 21(3)-(6)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(11)(c)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/11/c)
+
+[^key-24eeced439f0d07f1d82999ddde6a1cf]: Textual amendment: [Reg. 21(3A)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/3A) inserted (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/3/b)
+
+[^key-06015681b6a623914eb111428828b9e1]: Textual amendment: Words in [reg. 21(5)(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/5/a) omitted (28.11.2016) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2016 (S.R. 2016/176)](https://www.legislation.gov.uk/nisr/2016/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/176/regulation/1/2), [5(a)](https://www.legislation.gov.uk/nisr/2016/176/regulation/5/a)
+
+[^key-55d8f1e9c0ce19b5972a05c8e3e383b2]: Textual amendment: Words in [reg. 21(5)(c)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/5/c) omitted (28.11.2016) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2016 (S.R. 2016/176)](https://www.legislation.gov.uk/nisr/2016/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/176/regulation/1/2), [5(b)](https://www.legislation.gov.uk/nisr/2016/176/regulation/5/b)
+
+[^key-ec83c540b9eea680e0434ac50e58402a]: Textual amendment: [Reg. 21(5)(c)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/5/c) substituted (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2012 (S.R. 2012/160)](https://www.legislation.gov.uk/nisr/2012/160), [regs. 1](https://www.legislation.gov.uk/nisr/2012/160/regulation/1), [3](https://www.legislation.gov.uk/nisr/2012/160/regulation/3)
+
+[^key-6ec2295f2d7c6cb88eb900c7a90c5c2f]: Textual amendment: [Reg. 21(5A)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/5A) inserted (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/3/c)
+
+[^key-adc440804cb4416f7ade556cb3786db5]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/nisr/2010/312/regulation/21/7) inserted (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(3)(d)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/3/d)
+
+[^key-34536d46e66ea7f183929fc503382d04]: Commencement: Reg. 22 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-6023cef2b8fd214049d7b86ff7d4b3cf]: Textual amendment: Words in [reg. 22(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/22/a) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(12)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/12)
+
+[^f00041]: Footnote: Section 30A was inserted by Article 3(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994, amended by Article 61 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and modified by regulation 2 of [S.I. 2003/735](https://www.legislation.gov.uk/uksi/2003/735) and paragraph 68 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and sections 40 and 41 were substituted by paragraphs 8 and 9 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
+
+[^f00042]: Footnote: Section 68 was repealed by Part IV of Schedule 10 to the Welfare Reform and Pensions (Northern Ireland) Order 1999. *See* Article 4 of [S.R. 2000 No. 332 (C. 14)](https://www.legislation.gov.uk/nisr/2000/332) for savings provisions
+
+[^f00043]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 13(2) was amended by regulation 6(2) of [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338), regulation 2(3) of [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128) and regulation 2(4)(a) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), Schedule 1B was inserted by regulation 22 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), paragraph 10 was amended by the Schedule to [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241), paragraph 12 was substituted by regulation 2(7) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242) and regulation 13(2)(b) and (bb) and paragraphs 7(a) and (b), 10, 12 and 13 of Schedule 1B were revoked subject to savings by regulation 2 of [S.R. 2009 No. 418](https://www.legislation.gov.uk/nisr/2009/418)
+
+[^f00044]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460)
+
+[^f00045]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35)
+
+[^key-50d02c9548cb4f68f0d3e5ef413cd214]: Commencement: Reg. 23 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00046]: Footnote: [S.R. 2008 No. 283](https://www.legislation.gov.uk/nisr/2008/283); regulation 2 was amended by regulation 2 of [S.R. 2008 No. 429](https://www.legislation.gov.uk/nisr/2008/429)
+
+[^key-9ab29df1294afdfca8e73c63bd85963f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/312/regulation/24) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-908d08648e7263ce79f601c3f170701d]: Commencement: Reg. 25(1)(2) in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-22ea36eb82bb0b257406dc1fdfbeb947]: Commencement: [Reg. 25(3)](https://www.legislation.gov.uk/nisr/2010/312/regulation/25/3) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00047]: Footnote: Regulation 144 was amended by regulation 3(25) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413)
+
+[^key-66f99892bca8441f98f72f92e042b5dd]: Commencement: Reg. 26 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-3da2398b41a7ac55321d0cb28e38a902]: Commencement: Sch. 1 para. 1 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-02d15e207475e9871f02ec3acc6b99ff]: Textual amendment: [Sch. 1 para. 1(b)(i)](https://www.legislation.gov.uk/nisr/2010/312/schedule/1/paragraph/1/b/i) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/13/a)
+
+[^key-a9a00364020733c7fffcde883d038405]: Commencement: Sch. 1 para. 2 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-71d7634891e963b2459360edc59449df]: Textual amendment: [Sch. 1 para. 2(ca)](https://www.legislation.gov.uk/nisr/2010/312/schedule/1/paragraph/2/ca) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/13/b)
+
+[^f00048]: Footnote: Section 30DD was inserted by Article 60 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and paragraph (1) was substituted by paragraph 1(2) of the Schedule to [S.R. 2006 No. 37](https://www.legislation.gov.uk/nisr/2006/37)
+
+[^f00049]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 25 was inserted by regulation 2(5) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404)
+
+[^f00050]: Footnote: Regulation 18(1) and (2) was amended by regulation 3 of [S.R. 2002 No. 86](https://www.legislation.gov.uk/nisr/2002/86)
+
+[^f00051]: Footnote: [S.R. 2000 No. 332 (C. 14)](https://www.legislation.gov.uk/nisr/2000/332); Article 3 was amended by Article 3 of [S.R. 2001 No. 114 (C. 4)](https://www.legislation.gov.uk/nisr/2001/114)
+
+[^key-36f6788eca7e168e4c10d38ac8a53391]: Commencement: Sch. 1 para. 3 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00052]: Footnote: Regulation 32 was amended by regulation 5(4) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), paragraph 2(8) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175), regulation 11 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), regulation 2 of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224), regulation 2(7) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317), regulation 4 of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421), regulation 2 of [S.R. 2003 No. 527](https://www.legislation.gov.uk/nisr/2003/527), regulation 3 of [S.R. 2008 No. 262](https://www.legislation.gov.uk/nisr/2008/262) and regulation 13(14) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^key-c94af5d5a6e0a15772c3d7e01b2d3a33]: Textual amendment: Words in [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/nisr/2010/312/schedule/1/paragraph/3/a) omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(13)(c)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/13/c)
+
+[^key-3c0999cb1d98d9d73188a1e68617bede]: Commencement: Sch. 2 para. 1 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-eae99dbdbf999116649ba9e19878afa0]: Textual amendment: [Sch. 2 para. 1(b)(i)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/1/b/i) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/14/a)
+
+[^key-1a2eef2adbec14f9a33a2a0cfd22dc2f]: Textual amendment: [Sch. 2 para. 1(ba)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/1/ba) inserted (28.11.2016) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/175)](https://www.legislation.gov.uk/nisr/2016/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/175/regulation/1/1), [9(4)](https://www.legislation.gov.uk/nisr/2016/175/regulation/9/4)
+
+[^f00053]: Footnote: Regulation 147A was inserted by regulation 9(15) of [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)
+
+[^key-89492a4908a46faa20c4aed6f70c6cfc]: Textual amendment: [Sch. 2 para. 1(e)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/1/e)[(f)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/1/f) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/14/b)
+
+[^key-583a6d585d2abeecd0d726b3a5a9a4da]: Commencement: Sch. 2 para. 2 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00054]: Footnote: Section 44B was inserted by section 7(1) of the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2008/1))
+
+[^f00055]: Footnote: [S.R. 2001 No. 440](https://www.legislation.gov.uk/nisr/2001/440); regulation 5A was inserted by regulation 4(5) of [S.R. 2010 No. 56](https://www.legislation.gov.uk/nisr/2010/56) and the reference to regulation 5A(2)(ba) is to the modification made by paragraph 6 of this Schedule
+
+[^key-47223afa1981967ed2c8a6e9e44357d1]: Commencement: Sch. 2 para. 3 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00056]: Footnote: [S.I. 1998/1506(N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); paragraph 8D was inserted by paragraph 12 of Schedule 1 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14))
+
+[^key-bcc6b20a1fdf3e2856ff1d3f914f1082]: Commencement: Sch. 2 para. 4 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^key-56fec20fcafddeaf38dc5e0ac557d992]: Textual amendment: [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/4/d) substituted (30.3.2015) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/185)](https://www.legislation.gov.uk/nisr/2015/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/185/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2015/185/regulation/5)
+
+[^f00057]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); regulation 17 was substituted by regulation 2(4) of [S.R. 2006 No. 150](https://www.legislation.gov.uk/nisr/2006/150) and paragraph (4) was amended by regulation 4 of [S.R. 2009 No. 318](https://www.legislation.gov.uk/nisr/2009/318) and regulation 6(4)(b) of [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)
+
+[^key-8e360a16d9ba19000ae0a69299f32a29]: Textual amendment: Words in [Sch. 2 para. 4(i)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/4/i) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/14/c)
+
+[^key-e64333b004c8bf513f1ee3d3cc16d076]: Textual amendment: Words in [Sch. 2 para. 4(i)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/4/i) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(4)(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/4/a/i/bb)
+
+[^key-1927e03693412fd4c9bcbdec91ee7ed4]: Textual amendment: Words in [Sch. 2 para. 4(i)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/4/i) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/4/a/ii)
+
+[^key-8541f5c6350f70163affe014dc33b569]: Textual amendment: Words in [Sch. 2 para. 4(i)](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/4/i) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/4/a/iii)
+
+[^key-c4d1b26defd54ccdbc2417ea4f88d254]: Commencement: Sch. 2 para. 5 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00058]: Footnote: The definition of “employment officer” was inserted by regulation 2(2)(a) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365)
+
+[^f00059]: Footnote: Paragraph (j) was substituted by regulation 3 of [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)
+
+[^f00060]: Footnote: Regulation 26C was inserted by regulation 13(13) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00061]: Footnote: Paragraph (1B) was inserted by regulation 2 of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224) and substituted by regulation 2 of [S.R. 2003 No. 527](https://www.legislation.gov.uk/nisr/2003/527)
+
+[^f00062]: Footnote: Schedule 8A was inserted by regulation 2(3) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67)
+
+[^f00063]: Footnote: The definition of “applicable amount” was amended by regulation 2(26)(a)(i) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and regulation 13(18)(a)(i) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00064]: Footnote: Sub-paragraph (2) was added by regulation 7(a)(ii) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413)
+
+[^f00065]: Footnote: Schedule 8C was inserted by regulation 2(3) of [S.R. 2001 No. 22](https://www.legislation.gov.uk/nisr/2001/22)
+
+[^key-0b166be46d88a0ed81e3d6be9af69c55]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/5A) inserted with cross heading (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(14)(d)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/14/d)
+
+[^key-b6b901c2dcebbbda8087a31762eda43c]: Commencement: Sch. 2 para. 6 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00066]: Footnote: [S.R. 2001 No. 440](https://www.legislation.gov.uk/nisr/2001/440); regulation 5A was inserted by regulation 4(5) of [S.R. 2010 No. 56](https://www.legislation.gov.uk/nisr/2010/56)
+
+[^key-1459690e177e36bf5ce409f4fc94a602]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2010/312/schedule/2/paragraph/7) and cross-heading added (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(4)(b)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/4/b)
+
+[^key-860c96f35e4836ea71582b7131effe3e]: Commencement: Sch. 3 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00067]: Footnote: [S.R. 1975 No. 19](https://www.legislation.gov.uk/nisr/1975/19)
+
+[^f00068]: Footnote: [S.I. 1975/493](https://www.legislation.gov.uk/uksi/1975/493)
+
+[^f00069]: Footnote: [S.R. 1975 No. 101](https://www.legislation.gov.uk/nisr/1975/101)
+
+[^f00070]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)
+
+[^f00071]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113)
+
+[^f00072]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175)
+
+[^f00073]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242)
+
+[^f00074]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263)
+
+[^f00075]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30)
+
+[^f00076]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
+
+[^f00077]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
+
+[^f00078]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21)
+
+[^f00079]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142)
+
+[^f00080]: Footnote: [S.R. 1988 No. 368](https://www.legislation.gov.uk/nisr/1988/368)
+
+[^f00081]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340)
+
+[^f00082]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341)
+
+[^f00083]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^f00084]: Footnote: [S.R. 1996 No. 202](https://www.legislation.gov.uk/nisr/1996/202)
+
+[^key-be50c3284182263087084e48ee327b55]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/347)](https://www.legislation.gov.uk/nisr/2010/347), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/347/regulation/1/2), [2(15)](https://www.legislation.gov.uk/nisr/2010/347/regulation/2/15)
+
+[^f00085]: Footnote: [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541)
+
+[^f00086]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
+
+[^f00087]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
+
+[^f00088]: Footnote: [S.R. 2000 No. 91](https://www.legislation.gov.uk/nisr/2000/91)
+
+[^f00089]: Footnote: [S.R. 2001 No. 17](https://www.legislation.gov.uk/nisr/2001/17)
+
+[^f00090]: Footnote: [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18)
+
+[^f00091]: Footnote: [S.R. 2001 No. 20](https://www.legislation.gov.uk/nisr/2001/20)
+
+[^f00092]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102)
+
+[^f00093]: Footnote: [S.R. 2002 No. 79](https://www.legislation.gov.uk/nisr/2002/79)
+
+[^f00094]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28)
+
+[^f00095]: Footnote: [S.R. 2003 No. 405](https://www.legislation.gov.uk/nisr/2003/405)
+
+[^key-5972e308878dccca11b86d455e420383]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [25(5)](https://www.legislation.gov.uk/nisr/2011/357/regulation/25/5)
+
+[^f00096]: Footnote: [S.R. 2005 No. 324](https://www.legislation.gov.uk/nisr/2005/324)
+
+[^f00097]: Footnote: [S.R. 2005 No. 383](https://www.legislation.gov.uk/nisr/2005/383)
+
+[^f00098]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506)
+
+[^key-a375ab8ebbd58744b3b94c3ce518e961]: Commencement: Sch. 4 para. 1 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00099]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Rules are [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378), [S.R. 2009 No. 92](https://www.legislation.gov.uk/nisr/2009/92) and [S.R. 2010 No. 118](https://www.legislation.gov.uk/nisr/2010/118)
+
+[^f00100]: Footnote: The definitions of “contributory employment and support allowance” and “the Employment and Support Allowance Regulations” were inserted by regulation 3(2)(a)(iv) and (v) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00101]: Footnote: Regulation 20(e) was added by regulation 3(7) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00102]: Footnote: Regulation 21(f) was added by regulation 3(8) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00103]: Footnote: Paragraph 1A was inserted by regulation 6(9)(a) of [S.R. 2009 No. 92](https://www.legislation.gov.uk/nisr/2009/92)
+
+[^f00104]: Footnote: Paragraph 21 was added by regulation 3(17)(d) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00105]: Footnote: Part VI was added by regulation 3(17)(d) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and amended by Article 19(8) of [S.R. 2010 No. 118](https://www.legislation.gov.uk/nisr/2010/118)
+
+[^key-224c389b9d753039914136cf922dd856]: Commencement: Sch. 4 para. 2 in operation at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1)
+
+[^f00106]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending Regulations are [S.R. 2003 No. 418](https://www.legislation.gov.uk/nisr/2003/418) and [S.R. 2008 No.378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00107]: Footnote: Sub-paragraph (h) was added by regulation 4(4) of [S.R. 2003 No. 418](https://www.legislation.gov.uk/nisr/2003/418) and amended by regulation 2(3)(a) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00108]: Footnote: Sub-paragraph (j) was added by regulation 2(3)(b) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
+
+[^f00109]: Footnote: Paragraph (13) was added by regulation 2(4) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)

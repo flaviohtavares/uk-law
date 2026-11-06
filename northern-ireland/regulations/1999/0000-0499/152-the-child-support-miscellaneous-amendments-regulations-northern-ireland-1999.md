@@ -1,0 +1,128 @@
+---
+title: The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999
+id: nisr/1999/152
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1999-03-26'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/152
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/152/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2012-12-10. See https://www.legislation.gov.uk/changes/affected/nisr/1999/152
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 152
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999
+
+Made
+
+26th March 1999
+
+Coming into operation in accordance with regulation 1(2) and (3)
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 3, 16(3), 32(8) and (9), 39(1), 44, 47 and 48(4) of, and paragraph 5(1) and (2) of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-409795877996a771daa8aa94d05f0603]
+
+(1) These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999.
+
+(2) Subject to paragraph (3), these Regulations shall come into operation on 6th April 1999.
+
+(3) Regulations 2(2) and 4(2)(a) and (5)(a) to (d) shall come into operation on 4th October 1999.
+
+(4) In these Regulations—
+
+- “the first commencement day” means 6th April 1999;
+- “the second commencement day” means 4th October 1999.
+
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-5eb86dc6f1bfdd25dfa4399c59f715bd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-a8592d1e52747edb2e57551643194a67]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-a8592d1e52747edb2e57551643194a67]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-e98b94cd245ee6ee32ee9b4b7b6ea541]
+
+In regulation 25 of the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00018] (offences) before paragraph (a) there shall be inserted the following paragraph—
+
+> - (za) regulation 14(1);
+
+.
+
+## 6. Amendment of the Fees Regulations[^key-9c201d19e8da56c81da0f0e9c69c49c6]
+
+In regulation 3(3A) of the Child Support Fees Regulations (Northern Ireland) 1993[^f00019] (liability to pay fees) for “1999” there shall be substituted “2001”.
+
+## 7. Transitional provisions[^key-18e4f07b94bdb3a36c6c4bdb05373330]
+
+A maintenance assessment in force on the first or second commencement day shall not be reviewed solely to give effect to these Regulations but on a revision of that assessment under Article 18 of the Child Support (Northern Ireland) Order 1991[^f00020], or a review under Article 19, 20 or 21 of that Order these Regulations shall apply to any fresh maintenance assessment made following that revision or review from the effective date of that assessment, or from the first day of the first maintenance period which begins on or after the first or second commencement day, as the case may be, whichever is the later.
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+John O'Neill
+
+Assistant Secretary
+
+26th March 1999.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend various regulations made under the Child Support (Northern Ireland) Order 1991, as amended by the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)).
+
+Regulation 9 of the Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992, which makes provision for the disclosure of certain information to an appropriate authority, is repealed to avoid overlap with the provision made by paragraph 69 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) (regulation 2(3)). In addition the information available to be disclosed between the parties to an assessment is broadened by means of amendment to regulation 9A (regulation 2(4)).
+
+The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 are amended in order to amend certain obsolete references to youth training schemes (regulation 3).
+
+The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992 are amended by regulation 4 in the following respects. Firstly, regulation 19 is amended to remove an anomaly relating to the effective dates of assessments made where both parents are absent (regulation 4(4)). Secondly, provision is made for the earnings of a self-employed earner to be calculated on the basis of taxable profit figures submitted to the Inland Revenue by that earner, rather than by reference to the provisions at present contained in Chapter 2 of Schedule 1 to the Regulations (regulation 4(5)(a)). Thirdly, in relation to transfers of property made in accordance with the terms of a court order or written maintenance agreement made or executed prior to 5th April 1993, provision is made to amend the definition of a “qualifying transfer” and for the calculation of the value of such transfers for the purposes of the allowance in exempt income(regulation 4(6)). Finally, several minor amendments are made, firstly, to bring up to date, references to youth training schemes (regulation 4(2)(c) and (d) and (3)) and to replace provisions in the Jobseeker’s Allowance legislation (regulation 4(5)(e) and (g)) and secondly to make provision as to the treatment in income terms of certain child and dependency allowances which may be paid in conjunction with a war pension (regulation 4(5)(f) and (h)).
+
+The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992 are amended to make it an offence, on the part of an employer, to fail to forward amounts deducted under a deduction from earnings order to the Department of Health and Social Services by the date set in regulation 14 of those Regulations (regulation 5).
+
+The Child Support Fees Regulations (Northern Ireland) 1992 are amended to provide that no assessment fee or collection fee shall be payable where it would otherwise have become payable on or after 18th April 1995 and before 6th April 2001 (regulation 6).
+
+Regulation 7 makes certain transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 44 was amended by paragraph 11 of Schedule 3 to the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
+
+[^key-409795877996a771daa8aa94d05f0603]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+
+[^key-5eb86dc6f1bfdd25dfa4399c59f715bd]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/152/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+
+[^key-a8592d1e52747edb2e57551643194a67]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/152/regulation/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-e98b94cd245ee6ee32ee9b4b7b6ea541]: Commencement: Reg. 5 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+
+[^f00018]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390); to which there are amendments not relevant to these Regulations
+
+[^key-9c201d19e8da56c81da0f0e9c69c49c6]: Commencement: Reg. 6 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+
+[^f00019]: Footnote: [S.R. 1993 No. 73](https://www.legislation.gov.uk/nisr/1993/73); paragraph (3A) was inserted by regulation 5(2)(b) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and amended by regulation 5 of [S.R. 1996 No. 590](https://www.legislation.gov.uk/nisr/1996/590)
+
+[^key-18e4f07b94bdb3a36c6c4bdb05373330]: Commencement: Reg. 7 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+
+[^f00020]: Footnote: Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and Articles 19 and 20 were amended by, and Article 21 was substituted by, Articles 6 to 9 respectively of the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))

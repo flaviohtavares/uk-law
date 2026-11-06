@@ -1,0 +1,1543 @@
+---
+title: The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010
+id: nisr/2010/160
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-04-22'
+text_date: '2020-11-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/160
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/160/pdfs/nisrem_20100160_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/160/pdfs/nisr_20100160_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/160/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010
+
+> Text as at 2020-11-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 160
+
+HEALTH AND SAFETY
+
+The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010
+
+Made
+
+22nd April 2010
+
+Coming into operation
+
+19th May 2010
+
+The Department of Enterprise, Trade and Investment[^f00001] being the Department concerned[^f00002], makes the following Regulations in exercise of the powers conferred by Articles 17(1) to (6), 40(2) to (4), 55(2) of, and paragraphs 1, 2, 3(1), 5 to 8, 10 to 15 and 19 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] (“the 1978 Order”) as read with paragraph 1A of Schedule 2 to the European Communities Act 1972 (“the 1972 Act”)[^f00004].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Department of Enterprise, Trade and Investment that it is expedient for the reference to the Dangerous Goods Directive[^f00005] to be construed as a reference to that instrument as amended from time to time.
+
+The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A)[^f00006] of the 1978 Order after the Executive had carried out consultations in accordance with Article 46(3)[^f00007].
+
+## PART 1 — INTRODUCTORY PROVISIONS
+
+### 1. Citation and commencement[^key-7b090a1f418c36d6645048c825da0c82]
+
+These Regulations may be cited as the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 and shall come into operation on 19th May 2010.
+
+### 2. Interpretation — General[^key-349e81279bc668b2d0a0d0373317a417]
+
+(1) The provisions of this regulation apply for the purposes of interpreting these Regulations.
+
+(2) In these Regulations, any reference to a “Part”, “Chapter”, “Section” or “Sub-section” shall be construed—
+
+- (a) in relation to the carriage of goods by road, as a reference to that Part, Chapter, Section or Sub-section of ADR;
+- (b) in relation to the carriage of goods by rail, as a reference to that Part, Chapter, Section or Sub-section of RID; and
+- (c) in relation to the carriage of goods by inland waterway, as a reference to that Part, Chapter, Section or Sub-section of ADN.
+
+(3) Where an expression is defined in ADR, RID or ADN and is not defined in these Regulations, it has the meaning as defined in—
+
+- (a) ADR in relation to carriage by road;
+- (b) RID in relation to carriage by rail; and
+- (c) ADN in relation to carriage by inland waterway.
+
+(4) Where an expression is defined in the Transportable Pressure Equipment Directive and is not defined in these Regulations, it has the meaning as in that Directive.
+
+(5) The expressions mentioned in column 1 of the following Table shall have the meanings given opposite thereto in column 2.
+
+Table
+
+| Column 1 | Column 2 |
+| --- | --- |
+| “the 2006 Regulations” | The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006[^f00008]. |
+| “ADN” | The Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterway[^f00009], as revised or re-issued from time to time. |
+| “ADR” | Annexes A and B to the European Agreement concerning the International Carriage of Dangerous Goods by Road[^f00010], as revised or reissued from time to time.<br>But—<br>- (a) to the extent that a reference in these Regulations to ADR is a reference to ADR as it applied for the purposes of the 2006 Regulations, it has the same meaning as in regulation 2 of those Regulations; and<br>- (b) in regulation 11(6)(b) it means Annexes A and B as in force on the date in question. |
+| “armed forces” | Means—<br>- (a) one of Her Majesty’s forces within the meaning of the Armed Forces Act 2006[^f00011];<br>- (b) the Ministry of Defence Police[^f00012];<br>- (c) a visiting force within the meaning of Part 1 of the Visiting Forces Act 1952[^f00013]; or<br>- (d) a headquarters or organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964[^f00014]. |
+| “conformity assessment”[^M_F_7eebd986-0390-487d-b686-8acb9b60b67a] | The assessment and the procedure for assessment of conformity set out in the Directives. |
+| “conformity mark”[^M_F_f2f96b61-a130-4e4e-dd97-9ded26434293] | The mark referred to in article 14 of the Transportable Pressure Equipment Directive, the form of the mark being set out in article 15 of that Directive. |
+| “COTIF” | The Convention concerning International Carriage by Rail[^f00015], as revised or re-issued from time to time. |
+| “the Dangerous Good Directive” | Directive [2008/68/EC](https://www.legislation.gov.uk/european/directive/2008/0068) of the European Parliament and of the Council of 24th September 2008 on the inland transport of dangerous goods[^f00016] as amended from time to time. |
+| “the Directives”[^M_F_6f9f314b-a52a-42d3-df7e-b3d70ac154bf] | The Dangerous Goods Directive and the Transportable Pressure Equipment Directive. |
+| “the Northern Ireland competent authority” | The competent authority in Northern Ireland for the purposes of these Regulations as determined under regulation 21.<br>But a reference to the “2006 Northern Ireland Competent Authority” is a reference to the competent authority in Northern Ireland for the purposes of the 2006 Regulations. |
+| “national carriage” | Carriage that includes carriage in Northern Ireland and does not include carriage outside of the United Kingdom. |
+| “relevant member State”[^M_F_826f8979-25f0-4ca4-b09a-c448570ff9ed] | A member State of the EU on whose market the equipment in question has been made available. |
+| “RID” | The Annex to the Regulation concerning the international carriage of dangerous goods by rail which forms Appendix C to COTIF[^f00017] as revised or re-issued from time to time.<br>But—<br>- (a) to the extent that the reference in these Regulations to RID is a reference to RID as it applied for the purposes of the 2006 Regulations, it has the same meaning as in regulation 2 of those Regulations; and<br>- (b) in regulation 11(6)(b) it means the Annex as in force on the date in question. |
+| “the security provisions” | The prohibitions and requirements of Chapter 1.10 (including those requirements deemed to be part of ADR in consequence of regulation 7). |
+| “TPED competent authority”[^M_F_76e815a2-e459-4fd5-80a8-6ae29320248f] | The GB competent authority or the competent national authority in respect of the Transportable Pressure Equipment Directive in Northern Ireland or another member State of the EU. |
+| “the Transportable Pressure Equipment Directive”[^M_F_51a0c45b-e7e7-4055-d9d4-9902b9a8c601] | Directive 2010/35/EU of the European Parliament and the Council of 16 June 2010 on transportable pressure equipment and repealing Council Directives [76/767/EEC](https://www.legislation.gov.uk/european/directive/1976/0767), [84/525/EEC](https://www.legislation.gov.uk/european/directive/1984/0525), [84/526/EEC](https://www.legislation.gov.uk/european/directive/1984/0526), [84/527/EEC](https://www.legislation.gov.uk/european/directive/1984/0527) and [1999/36/EC](https://www.legislation.gov.uk/european/directive/1999/0036). |
+| “vehicle” | Has the meaning given in article 2 of the Dangerous Goods Directive except that the words “at least four wheels and” are to be omitted. |
+| “wagon” | Has the meaning given in article 2 of the Dangerous Goods Directive. |
+
+### 3. Interpretation of ADR, RID and ADN for the purposes of these Regulations[^key-5d301bf7cb5f5c6e8498570a6b88c738]
+
+For the purposes of these Regulations—
+
+- (a) the scope of the ADR, RID and ADN shall be deemed to include national as well as international carriage;
+- (b) a member State of the EU[^M_F_de3b0580-502b-4c96-9b69-30ffad70a7de] which is not a Contracting Party to ADR or ADN shall be deemed to be a Contracting Party to ADR or ADN (as the case may be);
+- (c) a member State of the EU[^M_F_3173ccf0-15cd-4e6b-b077-4bedb3920b3d] which is not a Member State of COTIF shall be deemed to be a Member State of COTIF;
+- (d) a reference in—
+  - (i) ADR or RID to “competent military authority”;
+  - (ii) ADR or ADN to “Contracting Party”; and
+  - (iii) RID to “Member State”,
+
+  shall be treated as a reference to “the Northern Ireland competent authority” unless the context requires otherwise;
+- (e) Sub-section 1.1.4.4 of RID shall apply as if the words “or the provisions of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 in so far as they relate to carriage by road” were included after the words “provisions of ADR”;
+- (f)[^M_F_ab76ee98-5eca-4db1-d661-811ae0d68ee6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^M_F_7539dd9c-5088-4d05-f06d-cf6445c46080] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^M_F_20500fd0-e771-4fc4-a325-e4d961a2a3ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) the words “The competent authorities of the Contracting Parties may provide that” are omitted from Sub-section 1.8.3.2 of ADR;
+- (j) the words “The competent authorities of the Member States may provide that” are omitted from Sub-section 1.8.3.2 of RID;
+- (k) the reference in Sub-section 1.8.3.3 to “national authorities” shall be treated as a reference to “the Northern Ireland competent authority or an enforcement authority”; [^M_F_5b678bf3-bbba-45ff-9bd3-e1aa44b3b38f]...
+- (l) Sub-section 5.3.4 of RID is omitted ;[^M_F_60fed00f-e2a4-4fac-9621-73f3a53fac22]
+- (m) Sub-sections 2.2.1.1.2, 2.2.1.1.3 and 2.2.1.1.4 of ADR apply as if the words “by the competent authority of a Contracting Party” were included after the word “assigned”; and
+- (n) Sub-sections 2.2.1.1.2, 2.2.1.1.3 and 2.2.1.1.4 of RID apply as if the words “by the competent authority of a Member State of COTIF” were included after the word “assigned”.
+
+### 4. Application[^key-7c07651f1771d4e611eb57eb7b569bfa]
+
+(1) These Regulations apply in relation to the carriage of dangerous goods by road and by rail.
+
+(1A)[^key-565d1f1ba162f3ba0e50bb9eece2290c] Part 5 of these Regulations also applies in relation to the carriage of class 7 goods by inland waterway.
+
+(2) Parts 1 to 4, 6 and 7 of these Regulations[^key-e41e11e97841b27ec48b0cfadfe36de6] apply in relation to the carriage of dangerous goods by inland waterway but only to the extent that they apply Sub-sections 1.8.3.7 to 1.8.3.16 (which relate to the training and examination system for safety advisers and the connected issuing and renewal of vocational training certificates).
+
+(3) These Regulations do not apply to the carriage of explosives within the meaning of the Explosives Acts (Northern Ireland) 1875 to 1970.
+
+## PART 2 — PROHIBITIONS AND REQUIREMENTS
+
+### 5. Carriage to be in accordance with ADR or RID[^key-889b9ca49ac94e852f3d9735a3f24549]
+
+No person shall carry dangerous goods, or cause or permit dangerous goods to be carried, where that carriage is prohibited by ADR or RID, including where that carriage does not comply with any applicable requirement of ADR or RID.
+
+### 6. Alternative placarding requirements to apply to certain national carriage[^key-8129a3147e72ea81bafd655332f550ab]
+
+(1) This regulation applies in relation to national carriage—
+
+- (a) in a tank;
+- (b) in bulk; or
+- (c) in relation to carriage by rail, by piggyback transport,
+
+where that carriage is by a United Kingdom vehicle or a United Kingdom wagon.
+
+(2) But this regulation does not apply in relation to carriage—
+
+- (a) of class 7 goods; or
+- (b) of any dangerous goods by a vehicle or wagon belonging to or under the responsibility of one of the armed forces.
+
+(3) For the purposes of regulation 5, the requirements of—
+
+- (a) Part 1 of Schedule 1 in respect of carriage by road; and
+- (b) Part 2 of Schedule 1 in respect of carriage by rail,
+
+are deemed to be requirements of Section 5.3.2 and any conflicting requirements in ADR and RID are to be disregarded.
+
+(4) In this regulation—
+
+- (a) a “United Kingdom vehicle” means a vehicle registered by the Secretary of State in accordance with section 21(1) of the Vehicle Excise and Registration Act 1994[^f00019] or a trailer being towed by such a vehicle; and
+- (b) a “United Kingdom wagon” means a wagon used only for carriage within the United Kingdom.
+
+(5) In Schedule 1 “emergency action code” is a reference to the emergency action code for the dangerous goods in question as listed in the Dangerous Goods Emergency Action Code List[^f00020], as revised or re-issued from time to time.
+
+### 7. Additional security requirement relating to access[^key-1e8c63b1787be5a9b02e5c132cc1d026]
+
+(1) For the purposes of regulation 5, the requirement set out in paragraph (2) is deemed to be a requirement of Chapter 1.10.
+
+(2) A person involved in the carriage of dangerous goods shall take all reasonable steps to ensure that unauthorised access to those goods is prevented.
+
+## PART 3 — EXEMPTIONS
+
+### 8. Derogations and transitional provisions[^key-76d578e6b6ea3b98ed9122714f6e68e7]
+
+(1) The Health and Safety Executive for Northern Ireland may exempt the carriage of dangerous goods from requirements and prohibitions arising under Part 2 of these Regulations.
+
+(2) But paragraph (1) only applies for the purposes of—
+
+- (a) implementing a derogation authorised under article 6(2) to (4) of the Dangerous Goods Directive;
+- (b) maintaining a transitional provision permitted by article 7 of the Dangerous Goods Directive; or
+- (c) ensuring that carriage to which these Regulations apply, but the Dangerous Goods Directive, ADR or RID does not apply, is carried out in a manner consistent with a derogation or transitional provision referred to at sub-paragraph (a) or (b).
+
+(3) Where any exemption is granted pursuant to paragraph (1), that exemption is to be set out in a document to be called “Carriage of Dangerous Goods: Approved Derogations and Transitional Provisions” (in this regulation referred to as “the document”).
+
+(4) The document may be revised in whole or in part from time to time.
+
+(5) In the document the Health and Safety Executive for Northern Ireland shall set out—
+
+- (a) the types of carriage to which the exemption applies;
+- (b) the circumstances in which the exemption applies;
+- (c) the requirements and prohibitions that do not apply pursuant to paragraph (1); and
+- (d) any requirements and prohibitions that apply instead.
+
+(6) The Health and Safety Executive for Northern Ireland may not bring to an end, or substantially alter, an exemption unless those who might be affected have been consulted.
+
+(7) This regulation does not limit the power to issue an authorisation under regulation 9(1).
+
+### 9. Authorisations[^key-db0774cb40b4b5b7e587cd47f329d05d]
+
+(1) A body referred to in column 1 of the following Table may issue an authorisation to a person or class of persons to carry dangerous goods in circumstances which are contrary to prohibitions and requirements arising under Part 2 of these Regulations providing the conditions specified in column 2 opposite that body are satisfied in respect of that carriage.
+
+| Column 1 | Column 2 |
+| --- | --- |
+| The Health and Safety Executive for Northern Ireland | The carriage is national carriage and the authorisation relates to prohibitions and requirements arising out of functions for which the Health and Safety Executive for Northern Ireland is the competent authority in Northern Ireland. |
+| The Department of Agriculture, Environment and Rural Affairs[^key-27d3dd898c77bdf8dcd1ec9f852f8d7d] | The carriage is national carriage and the authorisation relates to prohibitions and requirements arising out of functions for which the Department of Agriculture, Environment and Rural Affairs is the competent authority in Northern Ireland. |
+
+(2) An authorisation issued pursuant to paragraph (1) shall be in writing and shall set out—
+
+- (a) the carriage that is covered by the authorisation;
+- (b) the reason that the authorisation is being issued; and
+- (c) any time limit applicable to the validity of the authorisation.
+
+(3) An authorisation issued pursuant to paragraph (1) may be—
+
+- (a) made subject to conditions; and
+- (b) withdrawn at any time by the body which granted it by the provision of a notice in writing to that effect to the person authorised and that notice shall set out whether the withdrawal of the authorisation has effect immediately or whether the withdrawal has effect from a specified date.
+
+(4) Any authorisation granted, or deemed to be granted, pursuant to regulation 36 of the 2006 Regulations that was in force immediately before the coming into operation of these Regulations shall be deemed to be an authorisation issued pursuant to paragraph (1) of this regulation and subject to the same conditions as were in force immediately before the coming into operation of these Regulations.
+
+### 10. Reference temperatures and standards[^key-be38adc58277d4f8ecbc99e3937c4c97]
+
+(1) This regulation applies where the Northern Ireland competent authority has recognised reference temperatures or standards in accordance with regulation 24(1) or (2).
+
+(2) Part 2 does not apply in relation to national carriage to the extent that it imposes requirements on that carriage that conflict with the reference temperatures or standards recognised in accordance with regulation 24(1) or (2).
+
+(3) The exemption set out in paragraph (2) only applies if the tank or pressure receptacle being used for carriage—
+
+- (a) is clearly marked or labelled to show that it is suitable for national carriage only; and
+- (b) does not carry the conformity mark.
+
+### 11. Old pressure receptacles[^key-6284fb3c4b7546ca9ace3712892b8786]
+
+(1) This regulation applies in relation to national carriage.
+
+(2) This regulation applies in relation to the carriage of dangerous goods which is not permitted under Part 2 of these Regulations because the old pressure receptacle used for that carriage cannot, by virtue of its design or construction, satisfy the requirements for the use of pressure receptacles set out in ADR or RID.
+
+(3) Subject to paragraph (5), the requirements in ADR or RID which cannot be complied with are to be disregarded for the purposes of Part 2 if the requirements of paragraph (4) are satisfied.
+
+(4) The requirements are—
+
+- (a) the old pressure receptacle has not been subject to modification, major repair or re-rating which has put it outside the scope of the design standard or design specification to which it was originally constructed;
+- (b) the old pressure receptacle—
+  - (i) has been approved by a person appointed pursuant to regulation 25(2) as being safe for use; or
+  - (ii) was found to be safe by an inspection body or competent person in accordance with paragraph 4(2) of Schedule 2 to the 2006 Regulations and marked accordingly,
+
+  and the time elapsed since the approval or the finding that the receptacle was safe does not exceed the intervals for periodic inspection specified in Tables 1 to 3 of Packaging Instruction P200 and Packing Instruction P203 in Section 4.1.4; and
+- (c) in respect of old pressure receptacles used for the carriage of acetylene, the operator has a written record of—
+  - (i) the tare weight of the old pressure receptacle, including the porous substance and, where relevant, the acetone or other solvent;
+  - (ii) the nature of the solvent used; and
+  - (iii) the maximum safe operating pressure of the old pressure receptacle.
+
+(5) An old pressure receptacle which is of seamless construction or has contained acetylene and in relation to which a modification, major repair or re-rating has been undertaken may not be used for the carriage of dangerous goods.
+
+(6) In this regulation “old pressure receptacle” means a cylinder, tube, pressure drum, closed cryogenic receptacle or bundle of cylinders—
+
+- (a) constructed—
+  - (i) in the case of cylinders, tubes and cryogenic receptacles, on or before 30th June 2003; and
+  - (ii) in the case of other pressure receptacles, on or before 9th May 2004;
+- (b) which did not meet the design and construction requirements applicable to that receptacle that were set out in ADR or RID as in force on the date construction was completed;
+- (c) which did comply with the design and construction requirements imposed under the law of the United Kingdom in force on the date construction was completed; and
+- (d) which has not been subject to a reassessment of conformity pursuant to a provision of the law of the United Kingdom or other EEA State giving effect to article 5 of the Transportable Pressure Equipment Directive (including regulation 17 of these Regulations).
+
+### 12. Carriage within the perimeter of an enclosed area[^key-ef18d3dc0adc959d3a1a3417d83b979d]
+
+Part 2 does not apply to the carriage of dangerous goods where such carriage is wholly performed within the perimeter of an enclosed area.
+
+### 13. Carriage by road other than by vehicles[^key-5575fd8dc22f9022533dc40ae7a4cc71]
+
+(1) This regulation applies in relation to carriage by road.
+
+(2) Part 2 does not apply in relation to carriage where that carriage is not undertaken by a vehicle.
+
+### 14. Instruments of war and related material and nuclear material[^key-6c1564e14e02fde3a464fa0af3d720e5]
+
+Part 2 does not apply in relation to the carriage of—
+
+- (a) class 7 goods by a vehicle or wagon belonging to, or under the responsibility of, one of the armed forces; or
+- (b) nuclear material within the meaning of the Nuclear Industries Security Regulations 2003[^f00021].
+
+## PART 4 — TRANSPORTABLE PRESSURE EQUIPMENT
+
+### 15. Scope of Obligations[^M_F_bdaba5cf-1217-476b-9165-3bc9a8abbae5]
+
+(1) Regulations 15A to 15F apply to transportable pressure equipment within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2)(a) of that Directive.
+
+(2) For the avoidance of doubt, any reference in those regulations to a manufacturer, importer, distributor, owner or operator as “it” is not to be construed as excluding a natural person.
+
+### 15A. General Obligations[^M_F_ba9a1d1c-3fdb-4636-d298-a55c38c39c4e]
+
+(1) A manufacturer, importer, distributor, owner or operator may only place or make available on the market, put into service or use equipment if it ensures that the equipment meets the requirements of the Dangerous Goods Directive.
+
+(2)  On receipt of a request from the Health and Safety Executive for Northern Ireland, a manufacturer, importer, distributor, owner or operator must identify to the Executive any manufacturer, importer, distributor or owner who has supplied it with, or to whom it has supplied, equipment over at least the previous 10 years.
+
+(3) A request made pursuant to paragraph (2) must—
+
+- (a) be in writing; and
+- (b) contain a date by which a response is to be provided with that date being reasonable in all the circumstances.
+
+(4) Paragraph (5) applies where a manufacturer, importer, distributor or owner provides to an operator information about equipment it has placed or made available on the market, or put into service.
+
+(5) The information must comply with the Directives.
+
+(6) This regulation does not apply to an owner who is a private individual using or intending to use equipment in the circumstances set out in article 8(4) of the Transportable Pressure Equipment Directive.
+
+### 15B. Obligations of Manufacturers[^M_F_b3982e4d-cdf7-4ff0-d3bc-cd0e127c8d06]
+
+(1) A manufacturer must—
+
+- (a) ensure a conformity assessment is carried out by a notified body;
+- (b) mark equipment in accordance with articles 14 and 15 of the Transportable Pressure Equipment Directive; and
+- (c) keep the technical documentation specified in the Dangerous Goods Directive for the period specified in that Directive.
+
+(2) Where a manufacturer knows or has reason to believe that equipment it has placed on the market does not comply with the Directives, that manufacturer must—
+
+- (a) take immediate corrective measures to ensure that the equipment complies with the Directives,
+- (b) withdraw the equipment from the market, or
+- (c) issue a recall of the equipment.
+
+(3) Where a manufacturer considers that equipment it has placed on the market presents a risk, that manufacturer must immediately inform the TPED competent authority in any relevant member State of the risk, including providing details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
+
+(4) A manufacturer must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
+
+(5) On receipt of a reasoned request from a TPED competent authority, a manufacturer must—
+
+- (a) provide to that authority, in a language that it easily understands, all information and documents necessary to show that the equipment meets the requirements of the Directives; and
+- (b) cooperate with that authority in any action it takes to eliminate risks posed by that equipment.
+
+(6) This regulation applies to an importer or a distributor as if that person were a manufacturer where the importer or distributor—
+
+- (a) places equipment on the market under the importer or distributor’s own name or trademark; or
+- (b) modifies equipment already placed on the market in such a way that compliance with the Directives may be affected.
+
+### 15C. Obligations of Importers[^M_F_7a5a2926-9a98-4e18-b9d1-289c87538390]
+
+(1) An importer must ensure that—
+
+- (a) the manufacturer has complied with conformity assessment and drawn up the technical documentation in accordance with the Dangerous Goods Directive;
+- (b) equipment has been marked in accordance with articles 14 and 15 of the Transportable Pressure Equipment Directive;
+- (c) the certificate of conformity for the equipment either contains the name and address of the importer or has this information attached to it;
+- (d) the conditions in which equipment under the responsibility of the importer is stored and transported do not jeopardise the equipment’s compliance with the Dangerous Goods Directive; and
+- (e) the technical documentation specified in the Dangerous Goods Directive is kept for the period set out in that Directive.
+
+(2) Where an importer knows or has reason to believe that equipment it has placed on the market does not comply with the Directives, that importer must—
+
+- (a) take immediate corrective measures to ensure that the equipment complies with the Directives;
+- (b) withdraw the equipment from the market; or
+- (c) issue a recall of the equipment.
+
+(3) Where an importer considers that equipment presents a risk before it has been placed on the market, that importer must inform the manufacturer and the Health and Safety Executive for Northern Ireland of the risk.
+
+(4) Where an importer considers that equipment it has placed on the market presents a risk, that importer must immediately inform the manufacturer and the TPED competent authority in any relevant member State of the risk, including details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
+
+(5) An importer must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
+
+(6) On receipt of a reasoned request from a TPED competent authority, an importer must—
+
+- (a) provide to that authority, in a language that it easily understands, all information and documents necessary to show that the equipment meets the requirements of the Directives; and
+- (b) cooperate with that authority in any action taken to eliminate risks posed by that equipment.
+
+### 15D. Obligations of Distributors[^M_F_8fa21969-391d-4913-d734-f096f0af2a7e]
+
+(1) A distributor must ensure that—
+
+- (a) the equipment has been marked in accordance with articles 14 and 15 of the Transportable Pressure Equipment Directive;
+- (b) the certificate of conformity for the equipment contains or has attached to it the name and address of the importer where relevant; and
+- (c) the conditions in which equipment under the responsibility of the distributor is stored and transported do not jeopardise the equipment’s compliance with the Directives.
+
+(2) Where a distributor knows or has reason to believe that equipment it made available on the market does not comply with the Directives, that distributor must—
+
+- (a) take immediate corrective measures to ensure that the equipment complies with the Directives;
+- (b) withdraw the equipment from the market; or
+- (c) issue a recall of the equipment.
+
+(3) Where a distributor considers that equipment presents a risk before it has been made available on the market, that distributor must inform—
+
+- (a) the manufacturer or the importer; and
+- (b) the Health and Safety Executive for Northern Ireland,
+
+of the risk.
+
+(4) Where a distributor considers that equipment it has made available on the market presents a risk, that distributor must immediately inform—
+
+- (a) the manufacturer or the importer; and
+- (b) the TPED competent authority in any relevant member State,
+
+of the risk, including details of any non-compliance with the Directives and any action taken in accordance with paragraph (2).
+
+(5) A distributor must record each instance of non-compliance with the Directives and any corrective measures taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
+
+(6) On receipt of a reasoned request from a TPED competent authority, a distributor must—
+
+- (a) provide to that authority, in a language that it easily understands, all information and documents necessary to show that the equipment meets the requirements of the Directives; and
+- (b) cooperate with that authority in any action taken to eliminate risks posed by that equipment.
+
+### 15E. Obligations of Owners[^M_F_8c129458-56f0-4bd5-9e52-84914efdf822]
+
+(1) An owner must ensure that equipment for which it is responsible is stored and transported in conditions that do not jeopardise the compliance of that equipment with the Dangerous Goods Directive.
+
+(2) Where an owner considers that the owner’s equipment presents a risk it must inform—
+
+- (a) the manufacturer, importer or distributor; and
+- (b) the Health and Safety Executive for Northern Ireland,
+
+of the risk.
+
+(3) An owner must record each instance of non-compliance with the Directives and any corrective measure taken and must retain that record for at least 20 years from the date that the non-compliance is discovered.
+
+(4) This regulation does not apply to private individuals using or intending to use equipment in the circumstances set out in article 8(4) of the Transportable Pressure Equipment Directive.
+
+### 15F. Obligations of Operators[^M_F_511c422e-1ab9-49c3-d53d-b01b6482c0af]
+
+Where an operator considers that equipment presents a risk, that operator must inform the owner and the Health and Safety Executive for Northern Ireland of the risk.
+
+### 16. Authorised Representatives[^M_F_a242bac3-261f-4584-f36f-c85ef8d84005]
+
+(1) Subject to paragraph (3), a manufacturer may appoint in writing a person (“an authorised representative”) to carry out some or all of the duites imposed on the manufacturer by regulations 15A and 15B.
+
+(2) An appointment made in accordance with paragraph (1) must include at least the following duties—
+
+- (a) keeping technical documentation;
+- (b) providing to a TPED competent authority, in response to a reasoned request and in a language that it easily understands, the information and documents necessary to show the equipment meets the requirements of the Directives; and
+- (c) cooperating with a TPED competent authority in any action it takes to eliminate risks posed by the equipment.
+
+(3) An authorised representative must not be appointed to carry out duties imposed by regulation 15A(2), 15B(1)(a) or 15B(1)(b).
+
+(4) The name and address of an authorised representative must be included on the certificate of conformity.
+
+(5) An authorised representative must only provide information to an operator that complies with the requirements of the Directives.
+
+### 17. Reassessment of conformity[^key-fa03e4185df92773d1b538043c3a925a]
+
+(1) This regulation applies to transportable pressure equipment within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2)(c)[^M_F_b131eb1d-4801-4bc8-d88c-960fb5c91c8f] of that Directive.
+
+(2) Equipment may be reassessed for conformity in accordance with this regulation.
+
+(3) The equipment shall be—
+
+- (a) reassessed by a type A[^M_F_778b8d1c-15c3-400b-9177-b0d9c60055cb] notified body in accordance with the procedure set out in Annex[^M_F_9efb5ac2-e538-4819-b847-86ee9a4fb4ed] III to the Transportable Pressure Equipment Directive; and
+- (b)[^M_F_eb113a88-39d0-4691-f377-0c6856d6c957] inspected by a notified body notified for periodic inspection of that equipment and marked in accordance with the requirements of articles 14 and 15 of that Directive.
+
+(4)[^M_F_e31303e6-7713-4761-8ba7-045ae3076ef2] But if a pressure receptacle has been manufactured in series to a design type for which a type A notified body notified for reassessment of conformity has issued a certificate of type reassessment, the reassessment of conformity may be undertaken by a notified body notified for periodic inspection of that pressure receptacle.
+
+(5)[^M_F_3f1007b9-3be2-4bc5-cfce-7363f5d2cf18] In this regulation—
+
+- (a) “certificate of type reassessment” means a certificate issued in accordance with paragraph 7 of Annex III to the Transportable Pressure Equipment Directive; and
+- (b) “type A notified body” means a notified body conforming to standard EN ISO/IEC 17020 type A as revised or reissued from time to time.
+
+### 18. Periodic inspection and repeated use[^key-ecff83e667a67e74db01877272071a2f]
+
+(1) This regulation applies to transportable pressure equipment within the scope of the Transportable Pressure Equipment Directive by virtue of article 1(2)(b)[^M_F_0cc846e7-3c1d-4945-893c-5797ccf2172e] of that Directive.
+
+(2) If the equipment bears a marking referred to in articles 14 and 15[^M_F_ca98dc40-cd60-4c43-ff86-525b064ec600] of the Transportable Pressure Equipment Directive [^M_F_3dc6e172-70d6-4a55-b6c2-7991d6972fac]..., it is to be subject to periodic inspection in accordance with the requirements of the Dangerous Goods Directive[^M_F_3d6d1ea7-47c1-41de-a587-f226230af232].
+
+(3)[^M_F_b627f207-01a7-4c9c-d7a0-15823690b66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The marking requirements applicable to periodic inspections set out in articles 14 and 15[^M_F_c9b97dcb-1761-4b05-a9aa-c5ce6af8fcc9] of the Transportable Pressure Equipment Directive shall be complied with in relation to the equipment.
+
+### 19. Misleading and other markings[^key-eee7f4f7d608594fd3960c2578002e4b]
+
+(1) No person shall affix a marking on transportable pressure equipment which is likely to mislead third parties with regard to the meaning or the graphics of the conformity mark.
+
+(2) Any other marking may be affixed to transportable pressure equipment provided that the visibility and legibility of the conformity mark is not reduced.
+
+## PART 5 — Radiation Emergencies and Notifiable Events[^key-e8dcbec12f7456c223ee81a69555f2a9]
+
+### 20. Radiological emergencies[^key-34242f51f6fffb7b988deda4cbb2c72c]
+
+(1) This Part applies in relation to the carriage of class 7 goods only.
+
+(2) Schedule 2 makes provision in connection with radiation emergencies and notifiable events.
+
+(3) But this Part shall not apply to carriage by vehicles or wagons belonging to or under the responsibility of one of the armed forces.
+
+## PART 6 — NORTHERN IRELAND COMPETENT AUTHORITY FUNCTIONS
+
+### 21. Competent authority[^key-c9be6e79e90482b7e69efaa776e02d5d]
+
+(1) Subject to paragraphs (2) and (2A)[^key-cdd4b04493545b8a21a528dc22f0799f] , the competent authority for Northern Ireland for the purposes of these Regulations is the Health and Safety Executive for Northern Ireland.
+
+(2)[^key-a0065fddda9a9ab69b542df5924a0f02] The competent authority for Northern Ireland is the Department for Infrastructure for the functions of the competent authority in relation to—
+
+- (a) the inspection of vehicles; and
+- (b) the issue of certificates following inspections or copies thereof, in pursuance of chapter 9.1 of Annex B to ADR.
+
+(2A) The competent authority for Northern Ireland is the Department of Agriculture, Environment and Rural Affairs for the functions of the competent authority in relation to ADR carriage of class 7 goods by road.
+
+(3) The Northern Ireland competent authority may appoint a person to carry out a function of the Northern Ireland competent authority under these Regulations and a reference in these Regulations to the performance of the function by the Northern Ireland competent authority is to be treated as including a reference to the performance of the function by the person appointed.
+
+(4) The person may be appointed to carry out the function in particular circumstances or generally.
+
+(5) Paragraphs (6) and (7) apply if the 2006 Northern Ireland competent authority appointed, or was deemed by regulation 29 of the 2006 Regulations to have appointed, a person to perform a competent authority function pursuant to regulation 26 of those Regulations and that appointment had effect immediately before the coming into operation of these Regulations.
+
+(6) The person appointed, or deemed appointed, under the 2006 Regulations shall be deemed to be a person appointed pursuant to paragraph (3) to perform the equivalent function in ADR or RID.
+
+(7) But in the case of a function performed in relation to carriage by inland waterway, the Northern Ireland competent authority shall be deemed to have performed the function under the equivalent provision of ADN as it was performed, or deemed performed, under ADR pursuant to regulation 26 of the 2006 Regulations.
+
+### 22. Functions of the Northern Ireland competent authority arising under ADR, RID and ADN[^key-b7253f6784aa7199f8970e53cd398606]
+
+The Northern Ireland competent authority shall perform those functions that are identified in ADR, RID and ADN as being the functions of a competent authority.
+
+### 23. Fees in relation to functions of the Northern Ireland competent authority[^key-0debfe8ea5055d1eabdda5814da2e439]
+
+(1) This regulation applies where a person has asked the Northern Ireland competent authority to perform a function which is, by virtue of regulation 22, a function of the Northern Ireland authority.
+
+(2) A fee may be charged for, or in conjunction with, the performance of the function by, or on behalf of, the Northern Ireland competent authority.
+
+(3) Any fee charged shall be reasonable for the work performed or to be performed.
+
+(4) But in relation to—
+
+- (a) a function mentioned in regulation 25(3), paragraph 1(2) and (3) of Schedule 4 applies; and
+- (b) a function mentioned in paragraphs (5) to (15) the fee specified in those paragraphs in relation to that function shall apply, instead of paragraphs (2) and (3).
+
+(5) The fee for the provision of inspection facilities, including the carrying out of an inspection, and the administrative work carried out upon receipt of an application for an ADR certificate in respect of a vehicle shall be £88.50.
+
+(6) Subject to paragraph (7), where a vehicle fails to pass an inspection carried out in respect of an application for an ADR certificate, an application for a further inspection shall be treated for the purpose of these Regulations as a separate application for an ADR certificate.
+
+(7) Where a vehicle fails to pass an inspection and within 21 days thereafter arrangements are made for a further inspection to be carried out within that period, paragraph (6) shall not apply but a further fee of £45.50 shall be payable in respect of such arrangements.
+
+(8) The fees paid in pursuance of paragraphs (5), (7) or (11) shall be repaid—
+
+- (a) if no appointment for an examination of the vehicle is made or the appointment made is subsequently cancelled by the Northern Ireland competent authority;
+- (b) if the person for whom the appointment is made gives to the Northern Ireland competent authority notice cancelling the appointment of not less than one clear day before the date of the appointment;
+- (c) if the person for whom the appointment is made keeps the appointment but the examination does not take place, or is not completed, for a reason not specified in Schedule 3; or
+- (d) if the person for whom the appointment is made satisfies the Northern Ireland competent authority that the vehicle cannot, or, as the case may be, could not, reasonably be presented for examination on the date of the appointment due to exceptional circumstances occurring not more than seven days before the said date and of which notice is given within three days of the occurrence thereof to the Northern Ireland competent authority at the vehicle testing centre where the examination is or, as the case may be, was to be held.
+
+(9) Where an application is made for a first ADR certificate in respect of a tractor for a semi trailer, and an inspection of the tractor is waived, the fee payable upon receipt of such an application shall be £28.00.
+
+(10) The fee for the issue of a copy of an ADR certificate which has been lost or destroyed shall be £14.
+
+(11) An application made to the Northern Ireland competent authority for an ADR certificate shall be accompanied by the appropriate fee determined in accordance with this regulation.
+
+(12) The fee payable under paragraph (7) in respect of arrangements for a further inspection of a vehicle shall be paid on or before the date arranged for such further inspection.
+
+(13) Where applications are made for inspections to be carried out in respect of ADR certificates for a vehicle and trailer at the same time or consecutively, separate applications, each accompanied by the appropriate fee, shall be submitted.
+
+(14) Subject to paragraph (15), an application for an ADR certificate shall be accompanied by an application for a test made under regulation 10 of the Goods Vehicle (Testing) Regulations (Northern Ireland) 2003[^f00022] (a “goods vehicle test”).
+
+(15) An application for an ADR certificate need not be accompanied by an application for a goods vehicle test where—
+
+- (a) a motor vehicle having a maximum gross weight exceeding 3,500 kilograms which has not yet reached the end of the month in which falls the first anniversary of the date on which it was registered;
+- (b) a trailer which has not yet reached the end of the month in which falls the first anniversary of the date on which it was first sold or supplied by retail; or
+- (c) it has a current goods vehicle test certificate.
+
+(16) In this regulation—
+
+- (a) “ADR certificate” means a certificate of approval issued for a vehicle following inspection of the vehicle in pursuance of Sub-sections 9.1.2.1 and 9.1.3.1 of Annex B to ADR, and references to an inspection of a vehicle or the issue of a certificate or a copy thereof are references to such an inspection, or issue of a certificate or copy, by the Northern Ireland competent authority;
+- (b) “exceptional circumstances” means an accident, a fire, industrial action, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts therefor); and
+- (c) save in paragraphs (7) and (8)(d) (insofar as it relates to seven days), no period of time shall include any day which is a Saturday, Sunday or public holiday and “public holiday” shall not include Good Friday and shall include Easter Tuesday.
+
+### 24. Northern Ireland competent authority functions relating to reference temperatures and standards[^key-0f42a36102ad0c64285c5ade91811f76]
+
+(1) The Northern Ireland competent authority may recognise different reference temperatures from those set out in—
+
+- (a) paragraphs (5)(b) and (c) of packing instruction P200 of Section 4.1.4; or
+- (b) Sub-sections 4.2.2.7.2, 4.3.3.2.2 or 4.3.3.2.3,
+
+in relation to the filling of pressure receptacles and tanks intended to be used only for the national carriage of liquefied gas.
+
+(2) The Northern Ireland competent authority may recognise standards for the construction of the shell of a tank intended to be used only for the national carriage of liquefied gas which specify—
+
+- (a) a different design reference temperature for the shell of the tank from that set out in Sub-section 6.7.3.2.1; or
+- (b) a different test pressure specified for the shell of the tank from that set out in Sub-sections 4.3.3.2.2 and 4.3.3.2.3,
+
+provided that the temperature or pressure specified in the standard is such that it will ensure that the shell is safe and suitable for its intended use.
+
+### 25. Appointments by the Northern Ireland competent authority[^key-f516cbf46184d516c71a3c644532eaab]
+
+(1) Paragraph (2) applies in respect of equipment which under these Regulations may not be used in connection with the carriage of dangerous goods unless it has been approved for that use.
+
+(2) The Northern Ireland competent authority may appoint such persons as it thinks fit to determine whether the equipment should be approved and, if so, to approve that equipment for use.
+
+(3) Where it is a function of the Northern Ireland competent authority, by virtue of regulation 22, to approve or authorise a body or expert to carry out, witness, supervise or decide to waive an inspection, examination, test or approval in respect of equipment used in connection with the carriage of dangerous goods, that function shall be performed by the appointment of a person pursuant to paragraph (2).
+
+(4) In respect of the appointment of a person to carry out the functions of a notified body for the purposes of Part 4 of these Regulations, the Northern Ireland competent authority may not appoint a person pursuant to paragraph (2) unless that person satisfies the criteria set out in the Dangerous Goods Directive and the requirements set out in Articles 20 and 26 of the Transportable Pressure Equipment Directive.[^M_F_3f88079b-ee66-4057-9b0a-e1aac338a516]
+
+(5)[^M_F_f2732515-a56f-4c6e-c337-b16f18209882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Schedule 4 has effect in relation to the making of appointments pursuant to paragraph (2).
+
+### 26. Certain functions to be deemed to have been performed by the Northern Ireland competent authority[^key-79170115c0fe7e332f7bf8efbce3d374]
+
+(1) Paragraphs (3) and (4) apply if—
+
+- (a) the 2006 Northern Ireland competent authority or a person to whom a function has been delegated by regulation 26(4) of the 2006 Regulations performed a function pursuant to regulation 26(1) of those Regulations; and
+- (b) the action taken by the 2006 Northern Ireland competent authority or that other person, as a consequence of the performance of the function, had effect immediately before the coming into operation of these Regulations.
+
+(2) But paragraphs (3) and (4) do not apply where the function was performed by appointment in accordance with regulation 29 of the 2006 Regulations.
+
+(3) The Northern Ireland competent authority or other person shall be deemed to have performed the function pursuant to regulation 22 under the same provision of ADR or RID as it was performed pursuant to regulation 26 (1) of the 2006 Regulations.
+
+(4) In the case of a function performed in relation to carriage by inland waterway, the Northern Ireland competent authority shall be deemed to have performed the function under the equivalent provision of ADN as it was performed under ADR pursuant to regulation 26(1) of the 2006 Regulations.
+
+## PART 7 — MISCELLANEOUS
+
+### 27. Keeping and provision of information[^key-335c08b714b649cc88c35f6ee9e3d0e9]
+
+(1) An accident report of the kind referred to in Sub-section 1.8.3.6 shall be provided to the Northern Ireland competent authority or enforcement authority if requested.
+
+(2) A written record of the information contained in the transport document described in Chapters 5.4 and 5.5 shall be kept for a period of three months after the completion of the carriage in question.
+
+### 28. Enforcement[^key-c7fbb5a85ce415e9a881f0f7c5775848]
+
+(1) Subject to paragraph (2) the enforcing authorities for these Regulations are—
+
+- (a) the Health and Safety Executive for Northern Ireland in relation to road, rail and inland waterways;
+- (b) the Department of Agriculture, Environment and Rural Affairs[^key-c28ab07afa1e35cffa4d6e51836d1f83] in relation to ADR carriage of class 7 goods by road; and
+- (c) the Chief Constable in relation to road.
+
+(2) The Health and Safety Executive for Northern Ireland and the Department of Agriculture, Environment and Rural Affairs are the enforcing authorities to the extent that these Regulations require compliance with the security provisions.
+
+### 29. Defence[^key-01380da72024e38998c3cb2d67eb334e]
+
+(1) In any proceedings for an offence consisting of a contravention of any of the provisions of these Regulations, it is a defence for the person charged to prove that—
+
+- (a) the commission of the offence was due to the act or default of another person, not being one of that person’s employees (“the other person”); and
+- (b) the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(2) The person charged shall not be entitled, without leave of the court, to rely on the defence referred to in paragraph (1) unless, at least seven clear days before the hearing to determine the mode of trial, the person has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, the other person, as was then in the person’s possession.
+
+(3) If a contravention of any of the provisions of these Regulations by any person is due to the act or default of the other person, then that other person is guilty of the offence, which would, but for the defence in paragraph (1), be constituted by the act or default.
+
+### 30. Amendments[^key-8b5e28b323f1f5b77dc6fe50e83a08eb]
+
+The statutory provisions specified in column 1 of the Table in Schedule 5 are amended in accordance with the provisions of that Table opposite thereto in columns 2 and 3.
+
+### 31. Revocations[^key-6d5b64c5613e2e56ff3a459afd8384d9]
+
+(1) Subject to paragraph (2) the Regulations specified in the Table in Schedule 6 are revoked.
+
+(2) The amendments made by those Regulations to other statutory provisions and having effect immediately before the coming into operation of paragraph (1) shall, subject to regulation 30, continue to have effect as if paragraph (1) had not been made.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 22nd April 2010.
+
+M. Bohill
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — PLACARDS, MARKS AND PLATE MARKINGS FOR NATIONAL CARRIAGE
+
+Regulation 6(3)
+
+### PART 1 — CARRIAGE OF GOODS BY ROAD
+
+#### 1. Hazard Identification Numbers to be replaced by Emergency Action Codes (road)[^key-2e7a63cca2b40a82e02f693665389db5]
+
+When displaying the orange-coloured plates provided for by Sub-sections 5.3.2.1.2 and 5.3.2.1.4 the emergency action code for the substance in question shall be displayed instead of the hazard identification number.
+
+#### 2. Display of the orange coloured-plate if one type of dangerous good is being carried (road)[^key-6dfd12a30eb09eb3b832f88e0bd4f4c3]
+
+If one type of dangerous good is being carried—
+
+- (a) the orange-coloured plate referred to in paragraph 1 shall be displayed in accordance with the provisions of Sub-sections 5.3.2.1.2 and 5.3.2.1.4 which are applicable to the goods, battery-vehicle, tank-vehicle, transport unit or container in question; and
+- (b) an identical orange-coloured plate shall be affixed to the rear of the transport unit, in place of the orange-coloured plate to be affixed to the rear of the transport unit pursuant to Sub-section 5.3.2.1.1.
+
+#### 3. Display of the orange-coloured plate if more than one type of dangerous good is being carried (road)[^key-e6be89525836c723db6abe9dff894a40]
+
+(1) If more than one type of dangerous good is being carried in a tank or in bulk in a transport-unit or a battery-vehicle or a tank-vehicle with more than one tank, element or container—
+
+- (a) the orange-coloured plates referred to in paragraph 1 shall be displayed in accordance with the provisions of Sub-sections 5.3.2.1.2 and 5.3.2.1.4 which are applicable to the goods, transport unit, battery-vehicle, tank-vehicle or container in question except that—
+  - (i) only one on each side of the transport unit, tank, tank compartment, element of a battery-vehicle, or container in question, parallel to the longitudinal axis, shall bear the emergency action code; and
+  - (ii) the remaining plates shall bear only the UN number and shall be 150mm in height; and
+- (b) an orange-coloured plate shall be affixed to the rear of the battery-vehicle, tank-vehicle or transport unit in question which shall be identical to the plates referred to in paragraph (a), except that it is to display the emergency action code only in the top half of the plate.
+
+(2) But if more than one type of dangerous good is being carried in a transport unit or a tank-vehicle with more than one tank and those goods are—
+
+- (a) UN 1202 DIESEL FUEL or GAS OIL or HEATING OIL, LIGHT;
+- (b) UN 1203 PETROL or MOTOR SPIRIT or GASOLINE; or
+- (c) UN 1223 KEROSENE,
+
+then the requirements of paragraph 2 must be met, except that the orange-coloured plates need only bear the emergency action code and UN number for the most hazardous of the dangerous goods being carried.
+
+#### 4. Telephone number to be used to obtain specialist advice to be displayed (road)[^key-c87a8af1daf474e319f681d81a972821]
+
+(1) If dangerous goods are being carried in tanks a telephone number where specialist advice concerning the dangerous goods in question can be obtained in English at any time during carriage shall be displayed—
+
+- (a) at the rear of the transport unit;
+- (b) on both sides of—
+  - (i) any tank;
+  - (ii) the frame of any tank; or
+  - (iii) the transport unit; and
+- (c) in the immediate vicinity of the orange-coloured plates displaying the emergency action codes,
+
+and shall be in black digits of not less than 30mm in height against an orange-coloured background.
+
+(2) The phrase “consult local depot” or “contact local depot” may be substituted for the telephone number if—
+
+- (a) the name of the carrier is clearly identifiable from the marking on any tank or the transport unit;
+- (b) the Chief Fire and Rescue Officer (within the meaning of the Fire and Rescue Services (Northern Ireland) Order 2006[^f00023]) has been notified in writing of the address and telephone number of the relevant local depot; and
+- (c) the said Chief Fire and Rescue Officer, as referred to in head (b), has indicated, in writing, satisfaction with the arrangements.
+
+#### 5. Use of hazard warning panels (road)[^key-758cebc16a4aaa7b1bf3202d6dec31c7]
+
+(1) The information required to be displayed on placards and orange-coloured plates pursuant to Section 5.3.1 and paragraphs 1 to 3 and the information required to be displayed pursuant to paragraph 4 may all be shown on hazard warning panels provided that any such panel meets the conditions set out in sub-paragraph (2) and, if relevant, sub-paragraph (3).
+
+(2) The conditions referred to in sub-paragraph (1) for a hazard warning panel are that—
+
+- (a) it shall be displayed in accordance with paragraphs 1 to 4 as if it were an orange-coloured plate;
+- (b) it shall be orange-coloured, except the part incorporating the placard which shall be white;
+- (c) the placard shall be not less than 200mm by 200mm, with a line of the same colour as the relevant symbol not more than 12.5mm inside the edge and running parallel to it;
+- (d) if more than one placard is to be incorporated in the panel, those placards shall be adjacent in the same horizontal plane;
+- (e) it shall conform to the figure in sub-paragraph (4); and
+- (f) it shall be clearly visible.
+
+(3) If dangerous goods are carried in a tank which was constructed on or after 1st January 2005, the orange-coloured plate shall be indelible and remain legible after it has been engulfed in fire for 15 minutes.
+
+(4) The figure is—
+
+[image: see source](https://www.legislation.gov.uk/nisr/2010/160/images/nisr_20100160_en_001)
+
+### PART 2 — CARRIAGE OF GOODS BY RAIL
+
+#### 6. Hazard Identification Numbers to be replaced by Emergency Action Codes (rail)[^key-29fa6c06997fddc7f36c43f23b47830d]
+
+When displaying the orange-coloured plates provided for by Section 5.3.2, the emergency action code for the substance in question shall be displayed instead of the hazard identification number.
+
+#### 7. Telephone number to be used to obtain specialist advice to be displayed (rail)[^key-50817b16ae7dc73d2f188611448f9fd7]
+
+If dangerous goods are being carried in tanks, a telephone number where specialist advice concerning the dangerous goods in question may be obtained in English at any time during carriage shall be displayed—
+
+- (a) in the immediate vicinity of each orange-coloured plate; and
+- (b) against an orange-coloured background in black digits of not less than 30mm in height.
+
+#### 8. Use of hazard warning panels (rail)[^key-d3f6e2f329dc6ef882025cc286ab8af7]
+
+(1) The information required to be displayed on placards and orange-coloured plates in accordance with Section 5.3.1 and paragraph 6 and the telephone number required to be displayed pursuant to paragraph 7 may all be shown on hazard warning panels provided that the panel meets the conditions set out in sub-paragraph (2).
+
+(2) The conditions referred to in sub-paragraph (1) for a hazard warning panel are that it shall—
+
+- (a) be displayed in accordance with paragraph 7 as if it were an orange-coloured plate; and
+- (b) comply with the requirements of paragraphs 5(2)(b) to (f).
+
+## SCHEDULE 2 — Radiation Emergencies and Notifiable Events[^key-78db8e6171fbe62b640a82464bd82089]
+
+Regulation 20
+
+### PART 1 — Radiation Emergencies
+
+#### 1. Interpretation of Part 1
+
+(1) In this Part of this Schedule—
+
+- “the 2017 Regulations” means the Ionising Radiations Regulations (Northern Ireland) 2017[^f00013];
+- “dose consequences” means the consequences to an individual of being exposed to a specific quantity of ionising radiation as the result of a radiation emergency;
+- “duty holder” means—
+  - (a) a consignor; or
+  - (b) a carrier;
+- “emergency exposure” means an exposure to ionising radiation of an employee engaged in any activity of, or associated with, the response to a radiation emergency or potential radiation emergency in order—
+  - (a) to bring help to endangered persons;
+  - (b) to prevent exposure of a large number of persons; or
+  - (c) to save a valuable installation or goods;
+
+  whereby one of the individual dose limits referred to in regulation 12 of the 2017 Regulations could be exceeded;
+- “emergency services” means—
+  - (a) those police, fire and ambulance services that are likely to be required to respond to a radiation emergency; and
+  - (b) where appropriate, the Maritime and Coastguard Agency;
+- “emergency worker” means—
+  - (a) a member of the emergency services who has a defined role in an emergency plan;
+  - (b) a person employed, whether or not by a duty holder, to assist in the transition from emergency state; or
+  - (c) any other person or organisation that is identified in an emergency plan as having a role in providing assistance in the handling of a radiation emergency;
+- “escort commander” means a person who is responsible for the escort of a package;
+- “health authority” means the Regional Health and Social Care Board established under section 7 of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00014];
+- “ionising radiation” means the energy transferred in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less, or a frequency of 3 x 10<sup>15</sup> hertz or more, capable of producing ions directly or indirectly;
+- “radiation emergency” means a non-routine situation or event arising during the carriage of class 7 goods that necessitates prompt action to mitigate the serious consequences—
+  - (a) of a hazard resulting from that situation or event;
+  - (b) of a perceived risk arising from such a hazard; or
+  - (c) to one or more of the following—
+    - (i) human life;
+    - (ii) health and safety;
+    - (iii) quality of life;
+    - (iv) property;
+    - (v) the environment;
+
+(2) In this Part of this Schedule any reference to an effective dose means the sum of the effective dose to the whole body from external radiation and the committed effective dose from internal radiation.
+
+(3) For the purposes of this Part of this Schedule, a person assists in the handling of a radiation emergency if the person takes any steps that it is reasonable to take in the prevailing circumstances to reduce or prevent exposure.
+
+(4) For the purposes of sub-paragraph (3), “prevailing circumstances” include—
+
+- (a) the weather;
+- (b) the time at which the emergency occurred;
+- (c) the distribution of the local population;
+- (d) the nature and contents of the package involved in the emergency;
+- (e) the stability of the contents of that package;
+- (f) the local geography and ecology;
+- (g) any other hazards;
+- (h) the relative importance of the emergency in relation to other calls that are being made upon the emergency services.
+
+#### 2. Evaluation and risk assessment
+
+Where a duty holder carries out work involving the carriage of any package containing ionising radiation for the first time, that duty holder shall comply with the provisions of regulation 8 of the 2017 Regulations as if that duty holder were an employer.
+
+#### 3. Emergency plans
+
+(1) Before the carriage of a package begins, the duty holder shall make an adequate emergency plan designed to secure, so far as is reasonably practicable, the restriction of exposure to ionising radiation and the health and safety of persons who may be affected by a radiation emergency identified by the duty holder’s assessment under regulation 8(1) of the 2017 Regulations.
+
+(2) But sub-paragraph (1) shall not apply if the duty holder’s assessment reveals no radiation emergency may arise during the carriage of a package.
+
+(3) When preparing an emergency plan, the duty holder shall take into account—
+
+- (a) the steps the duty holder has taken in accordance with regulation 8(3) of the 2017 Regulations; and
+- (b) any variable factors which might affect the severity of the emergency.
+
+(4) The emergency plan shall—
+
+- (a) contain the information specified in sub-paragraph (5); and
+- (b) be drawn up having regard to the principles and purposes set out in paragraph 4.
+
+(5) The information is—
+
+- (a) the name or position of the person authorised to set emergency procedures in motion;
+- (b) the name or position of the person in charge of and coordinating the mitigatory action;
+- (c) for conditions or events which could be significant in bringing about a radiation emergency, a description of the action which should be taken to control the conditions or events and to limit their consequences, including a description of the safety equipment and resources available;
+- (d) the arrangements for limiting the risks to persons likely to be affected by a radiation emergency including how warnings are to be given and the actions persons are expected to take on receipt of a warning;
+- (e) the arrangements for providing early warning of the incident to the Northern Ireland competent authority, the type of information which should be contained in an initial warning and the arrangements for the provision of more detailed information as it becomes available;
+- (f) the arrangements for providing assistance to the person in charge of co-ordinating the response with mitigatory action;
+- (g) the arrangements for emergency exposures including the dose levels which have been determined as appropriate for the purposes of putting into effect the emergency plan;
+- (h) the arrangements in relation to doses or reference levels as required by paragraph 9(1); and
+- (i) the arrangements which the duty holder, or their agent, considers may assist in the transition from a radiation emergency to a situation where no further intervention is required.
+
+(6) In a case in which the emergency services form part of an emergency plan, each duty holder shall give such information to those responders as will enable them to perform the functions which are allocated to them by the plan.
+
+(7) Each duty holder shall ensure that any employee who may be involved with or may be affected by the arrangements in the emergency plan is or has been provided with—
+
+- (a) suitable and sufficient information, instruction and training, and
+- (b) any equipment necessary to restrict that employee’s exposure to ionising radiation including, where appropriate, the issue of suitable dosimeters or other devices.
+
+(8) Each duty holder with an obligation to prepare an emergency plan in accordance with this paragraph in relation to the carriage of a package shall cooperate with any other person who is a duty holder in respect of that package so as to enable each of those duty holders to fulfil their obligations under these Regulations.
+
+#### 4. Principles and purposes of emergency plans
+
+(1) The principles of intervention to which each duty holder is to have regard when drawing up an emergency plan are—
+
+- (a) the necessity for the plan to respond to the particular characteristics of a given radiation emergency as those characteristics emerge;
+- (b) the necessity to optimise protection strategies to ensure that the proposed response, as a whole, is predicted to do more to mitigate the radiation emergency and facilitate transition from that emergency than to increase its duration or consequence, taking into account—
+  - (i) the health risks arising from exposure to ionising radiation as a result of the radiation emergency, in both the long and the short term;
+  - (ii) the economic consequences of the radiation emergency;
+  - (iii) the effects of the disruption, both on the premises and the area immediately surrounding it, and on the public perception of the effects of the radiation emergency;
+- (c) the necessity of avoiding, so far as possible, the occurrence of serious physical injury to any person;
+- (d) the necessity of ensuring that an appropriate balance is struck between the expected harms and benefits of any particular protective measure so as to maximise the benefit of that measure.
+
+(2) The purposes of intervention to which the duty holder is to have regard when drawing up an emergency plan are—
+
+- (a) to reduce or stop the release of radiation;
+- (b) to reduce the exposure to individuals and to the environment resulting from the release of ionising radiation;
+- (c) if necessary, to ensure that provision is made for the medical treatment of those affected by the release of ionising radiation;
+- (d) to prioritise the implementation of the plan in relation to a person exposed to dose consequences in excess of the reference level set out in paragraph 9(1).
+
+#### 5. Review and testing of emergency plan
+
+(1) If an emergency plan is to be used in relation to carriage on more than one occasion, each duty holder shall, at suitable intervals not exceeding three years—
+
+- (a) review and, where necessary, revise the plan; and
+- (b) test the plan, taking reasonable steps to arrange for all those with a role in the emergency plan to participate in the test to such extent necessary to ensure that the test is effective.
+
+(2) A review required under sub-paragraph (1)(a) shall take into account—
+
+- (a) changes occurring in the carriage of packages to which the plan relates;
+- (b) changes within the emergency services concerned;
+- (c) new knowledge or guidance, whether technical or otherwise, concerning the response to radiation emergencies;
+- (d) any material change to the assessment on which the plan was based since it was last reviewed or revised; and
+- (e) any relevant information derived from a report or review of the consequences of any radiation emergency.
+
+(3) The test of a plan shall take into account any lessons learned from—
+
+- (a) past emergency exposure situations, whether arising during the carriage of packages on behalf of the consignor or by the carrier; and
+- (b) the United Kingdom’s participating in emergency exercises at national and international level.
+
+(4) The test of the plan shall be sufficient to test the ability to implement the plan in question but the duty holder shall consider the extent of the testing required taking into account—
+
+- (a) the length of time since the last test;
+- (b) the extent of testing undertaken on the last occasion; and
+- (c) any revisions made by the review required under sub-paragraph (1)(a).
+
+(5) After completion of the test required by sub-paragraph (1)(b), the duty holder shall prepare a report on the outcome of the test within 28 days of the conclusion of the test.
+
+(6) A report made under sub-paragraph (5) must be sent to the Northern Ireland competent authority within 28 days of its preparation.
+
+#### 6. Duties of drivers, escort commanders, masters, carriers and consignors in the event of a radiation emergency
+
+(1) The driver or escort commander of a vehicle or train, or the master of a vessel, carrying class 7 goods, in the event of a radiation emergency, or the occurrence of an event which could lead to such an emergency, involving those goods—
+
+- (a) shall, as soon as reasonably practicable, notify the following—
+  - (i) the emergency services;
+  - (ii) the Northern Ireland competent authority;
+  - (iii) the consignor; and
+  - (iv) the carrier;
+- (b) shall initiate the emergency plan; and
+- (c) if a radiation emergency occurs, shall assist in the handling of that radiation emergency.
+
+(2) If the carrier of any class 7 goods becomes aware of the occurrence of a radiation emergency, or the occurrence of an event which could lead to a radiation emergency, involving those goods, the carrier—
+
+- (a) shall, as soon as reasonably practicable, immediately notify the following of the event—
+  - (i) the emergency services, unless the driver, escort commander or master has already done so; and
+  - (ii) the Northern Ireland competent authority; and
+- (b) if a radiation emergency occurs, shall assist in the handling of that radiation emergency.
+
+(3) If the consignor of any class 7 goods becomes aware of the occurrence of a radiation emergency, or the occurrence of an event which could lead to a radiation emergency, involving those goods, the consignor—
+
+- (a) shall, as soon as reasonably practicable, notify the following of the event—
+  - (i) the emergency services, unless the driver, escort commander, master or carrier has already done so;
+  - (ii) the Northern Ireland competent authority, unless the carrier has already done so;
+- (b) shall give the Northern Ireland competent authority details of the relevant event; and
+- (c) if a radiation emergency occurs, shall assist in the handling of that radiation emergency.
+
+(4) The consignor shall also notify the Northern Ireland competent authority that the emergency plan is initiated, even if no action is taken pursuant to that plan.
+
+(5) The carrier of any class 7 goods which are involved in a radiation emergency shall, as soon as reasonably practicable—
+
+- (a) arrange for the examination of the load to determine whether any contamination has occurred; and
+- (b) if contamination has occurred—
+  - (i) arrange for the safe disposal of any part of the load which has been contaminated; and
+  - (ii) arrange for the decontamination of the vehicle, train or vessel.
+
+(6) In addition, in the event of a radiation emergency occurring, or on the occurrence of an event which could give rise to a radiation emergency, the carrier and the consignor—
+
+- (a) as soon as reasonably practicable, shall make a provisional assessment of the circumstances and consequences of such an emergency, and for this purpose shall consult—
+  - (i) the emergency services;
+  - (ii) the health authority;
+  - (iii) the Northern Ireland competent authority;
+  - (iv) Public Health Agency[^f00015]; and
+  - (v) any other person, body or authority which has functions under the carrier or the consignor’s emergency plan;
+- (b) as soon as reasonably practicable and in any event within 12 months beginning with the date on which the plan was initiated, or such longer period as the Northern Ireland competent authority may agree, shall make a full assessment of the consequences of the emergency and the effectiveness of the emergency plan put into effect as a result of the emergency; and
+- (c) within 28 days of the completion of the assessment made under paragraph (b), shall make a report of the findings of the assessment and retain a copy of that report for at least 50 years from the date on which it is completed.
+
+(7) The carrier and the consignor shall provide the Northern Ireland competent authority with a copy of the report made under sub-paragraph (6)(c) within the period of 28 days beginning with the date on which it was completed.
+
+(8) For the purposes of this paragraph “initiate the emergency plan” means take such steps as it is reasonable and practicable to take in order to put into effect the actions that have been planned for in the emergency plan.
+
+#### 7. Emergency exposures: employees
+
+(1) Where an emergency plan provides for the possibility of any employee receiving an emergency exposure, each employer shall, in relation to the employer’s employees—
+
+- (a) identify those employees who may be subject to emergency exposure;
+- (b) provide those employees with appropriate training in the field of radiation protection and such information and instruction as is suitable and sufficient for them to know the risks to health created by exposure to ionising radiation and the precautions which should be taken;
+- (c) provide such equipment as is necessary to restrict the exposure of such employees to ionising radiation;
+- (d) make arrangements for medical surveillance by an appointed doctor or employment medical advisor to be carried out without delay in the event of a radiation emergency in respect of those employees who receive emergency exposures;
+- (e) make arrangements with an approved dosimetry service for—
+  - (i) dose assessments to be carried out without delay in the event of a radiation emergency in respect of those employees who receive emergency exposures, and a dose assessment made for the purposes of this sub-paragraph shall, where practicable, be made separately from any other dose assessment relating to those employees; and
+  - (ii) the results of the dose assessments carried out under sub-paragraph (i) to be notified without delay to the employer and the Northern Ireland competent authority;
+- (f) make arrangements, in respect of dose assessments to be carried out and notified pursuant to sub-paragraph (e), to notify the results of such assessments without delay to the appointed doctor or employment medical adviser who is carrying out medical surveillance on the employee to whom the assessment relates; and
+- (g) identify those employees who are authorised, in the event of a radiation emergency, to permit any employee referred to in sub-paragraph (a) to be subject to an emergency exposure and provide employees who are so authorised with appropriate training.
+
+(2) The duty holder shall notify the Northern Ireland competent authority of the dose levels which they have determined are appropriate to be applied in respect of an employee identified for the purposes of sub-paragraph (1)(a) in the event of an emergency.
+
+(3) A notification under sub-paragraph (2) shall be given—
+
+- (a) in relation to transport of class 7 goods by road, rail or inland waterway which is to be carried out once only, at least 28 days before the transport is carried out, or within such shorter time as the Northern Ireland competent authority may agree;
+- (b) in relation to any other transport of class 7 goods by road, rail or inland waterway, at least 28 days before the transport is first carried out, or within such shorter time as the Northern Ireland competent authority may agree.
+
+(4) Where the carrier and the consignor together determine that a dose level notified under sub-paragraph (2) is no longer appropriate to be applied in respect of an employee for the purposes of sub-paragraph (1)(a) in the event of such an emergency, and that a revised dose level is to be determined, the duty holder shall, at least 28 days before formally determining the revised dose level, or within such shorter time as the Northern Ireland competent authority agrees, notify the Northern Ireland competent authority of the revised dose level which the operator considers is appropriate to be applied.
+
+(5) In any case where, in the opinion of the Northern Ireland competent authority, the dose levels for emergency exposure notified pursuant to sub-paragraph (2) or (4) are too high, the carrier and the consignor shall, if directed to do so by the Northern Ireland competent authority, substitute such other dose level or levels as the Northern Ireland competent authority considers appropriate.
+
+(6) Where an emergency plan is initiated, each employer shall ensure—
+
+- (a) that no employee of that employer who is under 18 years of age, no trainee or apprentice under 18 years of age, and no female employee who is pregnant or breastfeeding is subject to an emergency exposure;
+- (b) that no other employee of that employer is subject to an emergency exposure unless—
+  - (i) that employee has agreed to undergo such exposure;
+  - (ii) the requirements of sub-paragraph (1)(a) to (f) have been complied with in respect of the employee; and
+  - (iii) that employee has been permitted to be so by an employee authorised for that purpose under sub-paragraph (1)(g); and
+- (c) that no employee of that employer involved in implementing an emergency plan is exposed to a dose of ionising radiation in excess of the dose level determined in accordance with sub-paragraph (2), (4) and (5).
+
+(7) The requirement imposed on the employer under sub-paragraph (6)(a) in respect of a female employee who is pregnant or breastfeeding does not apply until that employee has notified the employer in writing of that fact or until the date from which the employer ought reasonably to have been aware of that fact.
+
+(8) The requirement imposed by sub-paragraph (6)(c) does not apply in respect of an exposure of any employee who—
+
+- (a) being informed about the risks involved in the intervention, agrees to undergo an exposure greater than any dose level referred to in that paragraph for the purpose of saving human life; and
+- (b) is permitted to undergo such exposure by an employee authorised by the employer under sub-paragraph (1)(g) to give such permission.
+
+(9) Where an employee has undergone an emergency exposure, the employer shall ensure that the dose of ionising radiation received by that employee is assessed by an approved dosimetry service and that the dose assessed is recorded separately in the dose record of that employee or, where no dose record exists, in a record created for the purpose of this sub-paragraph complying with the requirements to which it would be subject if it were a dose record.
+
+(10) An employer shall, at the request of that employer’s employee in circumstances where a dose record has been created for the purposes of sub-paragraph (9) and on reasonable notice being given, obtain from the approved dosimetry service and make available to the employee a copy of the record of the dose relating to that employee.
+
+(11) In the event of a report being made under paragraph 6(6)(c) relating to the circumstances of an emergency exposure and the action taken as a result of that exposure, an employer shall keep such a report (or copy of that report) until the person to whom the report relates has or would have attained the age of 75 years but in any event for at least 30 years from the termination of the work which involved the emergency exposure.
+
+(12) In this paragraph—
+
+- (a) “appointed doctor”, “approved dosimetry service”, “dose assessment”, “dose record” have the meanings given by the 2017 Regulations;
+- (b) “medical surveillance” means medical surveillance carried out in accordance with the 2017 Regulations.
+
+#### 8. Disapplication of dose limits
+
+(1) Regulation 12 of the 2017 Regulations does not apply to an emergency worker, where that emergency worker—
+
+- (a) is engaged in preventing the occurrence of a radiation emergency; or
+- (b) is acting to mitigate the consequences of a radiation emergency.
+
+(2) An emergency worker may be exposed to an effective dose not exceeding 500mSv whilst they are undertaking the activities set out in sub-paragraph (1).
+
+#### 9. Reference levels
+
+(1) The carrier and consignor shall ensure the emergency plan prioritises keeping doses below a 100 mSv reference level or the emergency specific reference level if applicable.
+
+(2) Where the response to a radiation emergency is underway, arrangements for the determination of specific reference levels, to optimise the response, may be made by the Northern Ireland competent authority.
+
+(3) In arranging the determination of a specific reference level under sub-paragraph (2), the Northern Ireland competent authority shall take advice from the person coordinating the response to the radiation emergency.
+
+#### 10. Packages involved in a radiation emergency
+
+A package which has been involved in a radiation emergency shall not be carried or caused to be carried, unless—
+
+- (a) the consignor or the consignor’s agent has examined the package; and
+- (b) the consignor has issued a certificate indicating that the consignor is satisfied the package complies with the requirements of these Regulations.
+
+#### 11. Prior information to the public
+
+(1) The Northern Ireland competent authority shall make available to the public information about the nature and effect of a radiation emergency.
+
+(2) The information to be provided under sub-paragraph (1) shall include—
+
+- (a) basic facts about radioactivity and its effects on persons and on the environment;
+- (b) the consequences of a radiation emergency;
+- (c) emergency measures envisaged to alert, protect and assist the general public in the event of an emergency;
+- (d) appropriate information on action to be taken by the general public in the event of a radiation emergency; and
+- (e) the authority or authorities responsible for implementing the emergency measures and actions referred to in paragraphs (c) and (d).
+
+#### 12. Duty to provide handover report to the authority responsible for recovery following a radiation emergency
+
+(1) The consignor of class 7 goods involved in a radiation emergency shall—
+
+- (a) prepare a handover report; and
+- (b) provide a copy of the handover report to the recovery authority.
+
+(2) For the purposes of this paragraph “handover report” means a report about a radiation emergency which—
+
+- (a) includes the details of the incident giving rise to the emergency;
+- (b) states whether the emergency plan was initiated and if so, state the actions (if any) taken by the driver, the escort commander, the carrier, the master and the consignor to assist in the handling of the radiation emergency;
+- (c) states whether any part of the load involved in the emergency was contaminated and if so, state the steps taken by the consignor to arrange for—
+  - (i) the safe disposal of the relevant part of the load; and
+  - (ii) the decontamination of the relevant vehicle, train or vessel;
+- (d) states any anticipated effects of the radiation emergency on the environment;
+- (e) includes any other information which the consignor considers may assist in the transition from an emergency state.
+
+(3) The consignor shall consult the carrier of the relevant class 7 goods when preparing the handover report.
+
+(4) The consignor shall prepare the handover report and deliver it to the recovery authority as soon as reasonably practicable after the completion of the examination required by paragraph 6(5).
+
+(5) In this regulation, “recovery authority” means a Northern Ireland department.
+
+### PART 2 — Notifiable Events
+
+#### 13. Duties of drivers, carriers and consignors in the event of a notifiable event
+
+(1) The driver of a vehicle or train, or the master of a vessel, carrying class 7 goods who discovers, or has reason to believe, that a notifiable event has occurred in relation to the vehicle, train or vessel shall, as soon as reasonably practicable, notify—
+
+- (a) the police; and
+- (b) the consignor.
+
+(2) If the carrier of any class 7 goods becomes aware of the occurrence of a notifiable event in relation to those goods the carrier shall, as soon as reasonably practicable, notify—
+
+- (a) the police, if the driver, escort commander or master has not already done so; and
+- (b) the Northern Ireland competent authority.
+
+(3) If the consignor of any class 7 goods becomes aware of the occurrence of a notifiable event in relation to those goods the consignor shall, as soon as reasonably practicable, notify—
+
+- (a) the police, unless the driver, the escort commander, the carrier or the master has already done so; and
+- (b) the Northern Ireland competent authority, unless the carrier has already done so.
+
+(4) If a notifiable event occurs the carrier shall ensure that, as soon as reasonably practicable, a report is made to the Northern Ireland competent authority.
+
+(5) The report required under sub-paragraph (4)—
+
+- (a) shall be in a form approved by the Northern Ireland competent authority; and
+- (b) shall contain all relevant information which the Northern Ireland competent authority has communicated to the carrier that it considers necessary.
+
+(6) In this paragraph, “notifiable event” means the theft or loss of the class 7 goods being carried.
+
+## SCHEDULE 3 — REASONS FOR EXAMINATION NOT TAKING PLACE OR NOT BEING COMPLETED
+
+Regulation 23(8)
+
+**1.**[^key-c8c41506c08afe3f3431d6b368a2c8e2] The applicant for the ADR certificate does not, after being requested to do so, produce the notice of appointment (if any) relating to the inspection and—
+
+- (a) in the case of a motor vehicle either the registration document relating to the vehicle or other evidence of the date of its first registration or, in the case of a motor vehicle not registered before the date of the inspection, evidence of the date of its manufacture; and
+- (b) in the case of a trailer, evidence of the date of its manufacture.
+
+**2.**[^key-add8b56c75d27b7037b695b431cf83ef] The particulars relating to the vehicle and shown in any application relevant to the inspection are found to be substantially incorrect.
+
+**3.**[^key-22b2fe8d1742a525883c2e154143c182] The vehicle is one as respects which it has been stated in the application that it is to be used on roads to draw a trailer and in the last notice of appointment preceding the inspection it was required that the vehicle should be accompanied by a trailer which is to be so drawn, and the vehicle is not accompanied by such a trailer.
+
+**4.**[^key-95e1369684c6e2622e563c3696470406] The vehicle is a trailer, and is not accompanied by a motor vehicle suitable for drawing that trailer and capable of operating any braking system with which the trailer is equipped.
+
+**5.**[^key-704482a26348cd2ab463614f9d4eab4b] There is not permanently affixed to the chassis or main structure of the vehicle in a conspicuous or easily accessible position so as to be readily legible either—
+
+- (a) the chassis or serial number shown in the registration document relating to the vehicle; or
+- (b) if no such number is shown or exists, the identification mark allotted to the vehicle by the Northern Ireland competent authority.
+
+**6.**[^key-6eb9ec07ac987d8f978f6fdbc8351fba] The vehicle or any motor vehicle by which it is accompanied, or any part of any equipment of the vehicle or any such accompanying vehicle is so dirty or dangerous as to make it unreasonable for the inspection to be carried out or the applicant for the ADR certificate does not produce any certificate required in the last notice of appointment preceding the inspection, that a vehicle used for carrying toxic, corrosive or inflammable loads had been properly cleaned or otherwise made safe.
+
+**7.**[^key-ae4c59528a9dd71d8611daaa3bcae84f] An inspector is not able to complete the inspection without the vehicle or, in the case of a trailer, the motor vehicle by which it is accompanied being driven and such vehicle or trailer or, as the case may be, the accompanying vehicle is not provided with fuel and oil to enable it to be driven to such extent as may be necessary for the purpose of the examination.
+
+**8.**[^key-933b59e9e578a75ad0586959154e57ae] In the case of a trailer, an inspector is not able to complete the inspection unless the motor vehicle by which it is accompanied is driven on a road, and that motor vehicle cannot be driven without committing an offence under section 29 of the Vehicle Excise and Registration Act 1994[^f00026] because no licence under that Act is in force for such vehicle.
+
+**9.**[^key-1dd109cfde93045475a2245903e355b8] The vehicle or any trailer by which it is accompanied is not loaded or unloaded in the manner (of any) specified for the purpose of the inspection either in the last notice of appointment preceding the inspection or by the Northern Ireland competent authority.
+
+**10.**[^key-649c0760349822755f07ffc9042caf80] An inspector is not able to complete the inspection due to the failure of a part of the vehicle or, in the case of a trailer, any vehicle by which it is drawn or intended to be drawn, which renders the vehicle, or any such accompanying vehicle incapable of being moved in safety under the power of the vehicle, or as the case may be, the accompanying vehicle.
+
+## SCHEDULE 4 — APPOINTMENTS
+
+Regulation 25(6)
+
+### 1. Applications for appointment[^key-a62025420d1b6af60523e28be2938ada]
+
+(1) An application for appointment shall be made in a manner approved by the Northern Ireland competent authority.
+
+(2) A fee may be charged for, or in connection with, the consideration by, or on behalf of, the Northern Ireland competent authority of an application for appointment.
+
+(3) Any fee charged shall be reasonable for the work performed or to be performed.
+
+### 2. Appointment by the Northern Ireland competent authority[^key-08a78b8f01a37a491f141c5b0c3d8621]
+
+(1) The Northern Ireland competent authority shall make any appointment in writing.
+
+(2) An appointment may be made subject to such conditions as the Northern Ireland competent authority considers appropriate and, in particular, those conditions may—
+
+- (a) restrict the scope of the appointment to equipment of a particular description;
+- (b) require markings of a particular description to be affixed to equipment by or on behalf of the appointee in connection with the giving, or the refusal to give, approval; and
+- (c) apply upon or following termination of the appointment.
+
+(3) An appointment may be for the time being or for such period as may be specified in the appointment.
+
+(4) If for any reason an appointment is terminated, the Northern Ireland competent authority may—
+
+- (a) give such directions—
+  - (i) to the person whose appointment has been terminated; or
+  - (ii) to another person who has been appointed, or deemed appointed, pursuant to these Regulations,
+
+  for the purpose of making such arrangements for the determination of outstanding applications for approval of equipment as it considers appropriate and the person to whom the directions are given shall comply with them; and
+- (b) authorise another person to take over the functions of the appointee whose appointment has been terminated in respect of such cases as it may specify.
+
+### 3. Fees that may be charged by appointees[^key-ced79b0ceed50e41b1cdbae6e1c49914]
+
+(1) An appointee may charge a fee for, or in connection with, the carrying out of a function for which appointment has been made.
+
+(2) The fee shall not exceed—
+
+- (a) the costs incurred or to be incurred by the appointee in performing the function; and
+- (b) an amount on account of profit which is reasonable in the circumstances having regard to—
+  - (i) the character and extent of the work done or to be done by the appointee; and
+  - (ii) the commercial rate normally charged on account of profit for that work or similar work.
+
+### 4. The inspection of appointees[^key-408d211264a3cbce7e3d67bd72461d5b]
+
+(1) An appointee may be subject to such inspection by, or on behalf of, the Northern Ireland competent authority as is necessary to ensure compliance with any condition specified in the appointment.
+
+(2) The inspection referred to in sub-paragraph (1) may include the examination of premises, equipment and documents and the appointee shall provide such copies, facilities, assistance and information as are reasonably required for the purpose of the inspection.
+
+(3) A fee which is reasonable for the work performed, or to be performed, shall be payable by the appointee in respect of any inspection undertaken by, or on behalf of, the Northern Ireland competent authority in accordance with sub-paragraph (1).
+
+## SCHEDULE 5 — AMENDMENTS[^key-567368b03495a5f8c69d02c4031772ea]
+
+Regulation 30
+
+<table>
+<thead>
+<tr><th>Statutory provisions to be amended</th><th>Section, Regulations and Schedules to be amended</th><th>Amendments to be made</th></tr>
+</thead>
+<tbody>
+<tr><td>Petroleum (Consolidation) Act(Northern Ireland) 1929</td><td>Section 18(4)(b)</td><td>For “2006” substitute “2010”</td></tr>
+<tr><td rowspan="8">Dangerous Substances in Harbour Areas Regulations (Northern Ireland)1991</td><td>Regulation 2(1), definition of “the Carriage Regulations”</td><td>For ““the Carriage Regulations” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006” substitute ““CDG 2010” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td>Regulation 2(1), paragraph (a)(ii) of the definition of “classification”</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 2(1), paragraph (b) of the definition of “portable tank”</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 3(2)(b)</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 6(4)(a)</td><td>For “Part II of the Radioactive Substances (Carriage by Road) Regulations (Northern Ireland) 1983 by virtue of regulation 19 of those Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 24(a)</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 25(1)(b)(ii)</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 25(2)</td><td>In sub-paragraph (a), for “the Carriage Regulations” substitute “CDG 2010” and omit “(b) the Radioactive Substances (Carriage by Road) Regulations (Northern Ireland) 1983;”</td></tr>
+<tr><td rowspan="6">Dangerous Substances (Notification and Marking of Sites) Regulations (Northern Ireland) 1992</td><td>Regulation 2(1), definition of “the Carriage Regulations”</td><td>For ““the Carriage Regulations” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006” substitute ““CDG 2010” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td>Regulation 2(1), definition of “classification”</td><td>For “regulation 15 of the Carriage Regulations” substitute “Part 6 of CDG 2010”</td></tr>
+<tr><td>Regulation 2(1), definition of “dangerous substance”</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Regulation 2(1A)</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Paragraph 1(c)(i) of Schedule 1</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Paragraph 1(d) of Schedule 1</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996</td><td>Regulation 2(1), definition of “dangerous goods”</td><td>For “in regulation 2(1) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006” substitute “assigned by regulation 2(3) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td rowspan="3">Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997</td><td>Regulation 2(1), definition of “the Carriage Regulations”</td><td>For ““the Carriage Regulations” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006” substitute ““CDG 2010” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td>Regulation 2(1), definition of “dangerous goods”</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Paragraph 48(K)(2) in Part IV of Schedule 2</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td rowspan="16">Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001</td><td>Regulation 2(1), definitions of “the Carriage Regulations”, “consignor” and “vehicle”</td><td>Omit</td></tr>
+<tr><td>Regulation 2(1), definition of “transport”</td><td>Omit definition (a)</td></tr>
+<tr><td>Regulation 2(1), definition of “work with ionising radiation”</td><td>Omit “, transport by rail”</td></tr>
+<tr><td>Regulation 2(2)(a) and the “and” which follows regulation 2(2)(a)</td><td>Omit</td></tr>
+<tr><td>Regulation 3(1)(b)</td><td>Omit</td></tr>
+<tr><td>Regulation 3(1)(c)</td><td>For “of a quantity or mass referred to in sub-paragraph (b)” substitute “containing more than the quantity of radionuclides specified in Schedule 4 or, in the case of fissile material, more than the mass of that material specified in Schedule 3”</td></tr>
+<tr><td>Regulation 3(3)</td><td>For “paragraph (1)(b)” substitute “paragraph (1)(c)”</td></tr>
+<tr><td>Regulation 3(4)(c)</td><td>For the sub-paragraph substitute—<br>(c) any radioactive substance conforming to the specifications for special form radioactive material set out in sub-section 2.7.2.3.3 of the UN Model Regulations—<br>(i) which has received unilateral or multilateral approval pursuant to the law of any State implementing section 6.4.23 of the UN Model Regulations; or<br>(ii) where the transport in question forms part of an international transport operation;</td></tr>
+<tr><td>Regulation 3(4)(d)</td><td>For the sub-paragraph substitute—<br>(d) any radioactive substance contained in a package which complies in every respect as to its design with the requirements for –<br>(i) a Type B(U) package, a Type B(M) package or a Type C package as set out in sub-sections 6.4.8, 6.4.9 or 6.4.10 of the UN Model Regulations respectively; or<br>(ii) a consignment carried under special arrangement within the meaning of sections 1.5.4 and 6.4.23 of the UN Model Regulations which provides an equivalent level of safety to a type B(U) package, Type B(M) package or a Type C package complying with the requirements referred to in sub-paragraph (i),<br>and, in each case, the package has received unilateral or multilateral approval pursuant to the law of any State implementing section 6.4.23 of the UN Model Regulations or the transport in question forms part of an international transport operation;</td></tr>
+<tr><td>Regulation 3(4)(e)</td><td>For the sub-paragraph substitute—<br>(e) the transport of any radioactive substance in the form of a low specific activity material conforming to the specifications for LSA-I, LSA-II or LSA-III set out in 2.7.2.3.1 of the UN Model Regulations including cases where the transport forms part of an international transport operation;</td></tr>
+<tr><td>Regulation 3(4)(f)</td><td>For the sub-paragraph there shall be substituted—<br>(f) the transport of any radioactive substance in the form of a surface contaminated object conforming to the specifications for SCO-I or SCO-II set out in Sub-section 2.7.2.3.2 of the UN Model Regulations including cases where the transport forms part of an international transport operation;</td></tr>
+<tr><td>Regulation 3(5)</td><td>For the paragraph substitute—<br>(5) In paragraph (4)(c) to (f)—<br>(a) “UN Model Regulations” means the United Nations Recommendations on the Transport of Dangerous Goods: Model Regulations, as revised or re-issued from time to time; and<br>(b) “international transport operation” means the carriage of radioactive substances, including carriage by more than one mode of transport, where that carriage takes place in more than one country.</td></tr>
+<tr><td>Regulation 8(4)</td><td>Omit</td></tr>
+<tr><td>Regulation 8(7)(a)</td><td>Omit “, (where not also the carrier) the consignor”</td></tr>
+<tr><td>Regulation 13(3)(a)(ii)</td><td>Omit “the consignor,”</td></tr>
+<tr><td>Paragraph (h) of Schedule 5</td><td>Omit “, the type of vehicle and the means of securing the load within or on the vehicle”</td></tr>
+<tr><td>Control of Substances Hazardous to Health Regulations (Northern Ireland 2003</td><td>The list in Schedule 7</td><td>Omit “Radioactive Substances (Carriage by Road) Regulations (Northern Ireland) 1983 (<a href="https://www.legislation.gov.uk/nisr/1983/344">S.R. 1983 No. 344</a>);” and for “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (<a href="https://www.legislation.gov.uk/nisr/2006/173">S.R. 2006 No. 173</a>)” substitute “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td>Control of Lead at Work Regulations (Northern Ireland) 2003</td><td>The list in Schedule 2</td><td>Omit “Radioactive Substances (Carriage by Road) Regulations (Northern Ireland) 1983 (<a href="https://www.legislation.gov.uk/nisr/1983/344">S.R. 1983 No. 344</a>);” and for “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (<a href="https://www.legislation.gov.uk/nisr/2006/173">S.R. 2006 No. 173</a>)” substitute “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td>Dangerous Substances and Explosive Atmospheres Regulations (Northern Ireland) 2003</td><td>The list in Schedule 5</td><td>Omit “Radioactive Substances (Carriage by Road) Regulations (Northern Ireland) 1983 (<a href="https://www.legislation.gov.uk/nisr/1983/344">S.R. 1983 No. 344</a>);” and for “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (<a href="https://www.legislation.gov.uk/nisr/2006/173">S.R. 2006 No. 173</a>)” substitute “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td rowspan="6">Pressure Systems Safety Regulations (Northern Ireland) 2004</td><td>Regulation 2(1), definition of “the Carriage Regulations”</td><td>For ““the Carriage Regulations” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006” substitute ““CDG 2010” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010”</td></tr>
+<tr><td>Regulation 2(1), definition of “old pressure receptacle”</td><td>For “in regulation 2(1) of the Carriage Regulations” substitute “assigned by regulation 11(6) of CDG 2010”</td></tr>
+<tr><td>Regulation 2(1), definition of “pressure receptacle”</td><td>For “in regulation 2(1) of the Carriage Regulations” substitute “assigned by regulation 2(3) of CDG 2010”</td></tr>
+<tr><td>Regulation 2(1), definition of “transportable pressure equipment”</td><td>For “in regulation 2(1) of the Carriage Regulations” substitute “assigned by regulation 2(3) of CDG 2010”</td></tr>
+<tr><td>Paragraph 9 in Part I of Schedule 1</td><td>For “the Carriage Regulations” substitute “CDG 2010”</td></tr>
+<tr><td>Paragraph 3(a) in Part II of Schedule 1</td><td>For “the Carriage Regulations” substitute “CDG 2010” and for “4(1)” substitute “3”</td></tr>
+<tr><td>Quarries Regulations (Northern Ireland) 2006</td><td>Schedule 2 Part II</td><td>Omit the entries in Column 1 and Column 2 in relation to “The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006”</td></tr>
+<tr><td rowspan="2">The Control of Asbestos Regulations (Northern Ireland) 2007</td><td>Regulation 24(3)(a)</td><td>For “2006” substitute “2010”</td></tr>
+<tr><td>Paragraph 1(1)(a) of Schedule 2</td><td>For “2006” substitute “2010”</td></tr>
+<tr><td rowspan="2">Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009</td><td>Regulation 6(3)(a)</td><td>For “2006” substitute “2010”</td></tr>
+<tr><td>Regulation 8(4)(a)(iii)</td><td>For “2006” substitute “2010”</td></tr>
+</tbody>
+</table>
+
+[^f00027][^f00028][^f00029][^f00030][^f00031][^f00032][^f00033][^f00034][^f00035][^f00036][^f00037][^f00038][^f00039][^f00040]
+
+## SCHEDULE 6 — REVOCATIONS[^key-11604e79272f6e3b88574c89221b64f0]
+
+Regulation 31
+
+| Regulations revoked | References | Extent of Revocation |
+| --- | --- | --- |
+| Radioactive Substances (Carriage by Road) Regulations (Northern Ireland) 1983 | [S.R. 1983 No. 344](https://www.legislation.gov.uk/nisr/1983/344) | The whole Regulations |
+| Radioactive Substances (Carriage by Road) (Amendment) Regulations (Northern Ireland) 1986 | [S.R. 1986 No. 61](https://www.legislation.gov.uk/nisr/1986/61) | The whole Regulations |
+| The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 | [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) | The whole Regulations |
+| The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations (Northern Ireland) 2006 | [S.R. 2006 No. 525](https://www.legislation.gov.uk/nisr/2006/525) | The whole Regulations |
+| Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles (Amendment) Regulations (Northern Ireland) 1997 | [S.R. 1997 No. 360](https://www.legislation.gov.uk/nisr/1997/360) | The whole Regulations |
+| Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles (Amendment) Regulations (Northern Ireland) 1998 | [S.R. 1998 No. 438](https://www.legislation.gov.uk/nisr/1998/438) | The whole Regulations |
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations impose requirements and prohibitions in relation to the carriage of dangerous goods by road and by rail and, in so far as they relate to safety advisers, by inland waterway. In doing so they implement certain Directives as respects Northern Ireland.
+
+**2.** First, the Regulations implement Directive [2008/68/EC](https://www.legislation.gov.uk/european/directive/2008/0068) of the European Parliament and of the Council of 24th September 2008 on the inland transport of dangerous goods (O.J. No. L260, 30.9.2008, p.13). This Directive applies to Annexes to the European Agreement concerning the International Carriage of Dangerous Goods by Road signed at Geneva on 30th September 1957, as amended (“ADR”) (Current Edition: 2009), the Annex to the Regulation concerning the International Carriage of Dangerous Goods by Rail (“RID”) which forms Appendix C to the Convention concerning International Carriage by Rail (“COTIF”) (Current edition; 2009) and the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterway (“ADN”) (Current edition: 2009). These Regulations only apply the provisions of ADN in respect of safety adviser qualifications.
+
+**3.** Secondly, the Regulations implement Council Directive [1999/36/EC](https://www.legislation.gov.uk/european/directive/1999/0036) of 29th April 1999 on transportable pressure equipment (O.J. No. L138, 1.6.1999, p. 20) as last amended by Commission Directive [2002/50/EC](https://www.legislation.gov.uk/european/directive/2002/0050) of 6th June 2002 (O.J. No. L149, 7.6.2002, p. 28).
+
+**4.** Thirdly, the Regulations implement Article 5 of Title II (Prior Information) of Council Directive 89/618/Euratom of 27th November 1989 on informing the general public about health protection measures to be applied and steps to be taken in the event of a radiological emergency (O.J. No. L357, 7.12.1989, p. 31) and Title IX, Section 1 (Intervention in cases of radiological emergency) of Council Directive 96/29/Euratom of 13th May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation (O.J. No. L159, 29.6.1996, p. 1), in so far as Section 1 of Title IX is relevant to carriage by road and by rail.
+
+**5.** The implementation of 1999/36/EC, 89/618/Euratom and 96/29/Euratom replaces the implementation of the same Directives (or parts of Directives) made by the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2006 (“the 2006 Regulations”) ([S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173)).
+
+**6.** Part 1 of the Regulations contains introductory provisions. Regulations 2 and 3 contain interpretation provisions. Regulation 4 sets out the manner in which the Regulations apply.
+
+**7.** Part 2 of the Regulations provides for prohibitions and requirements to apply in relation to the carriage of dangerous goods. Regulation 5 prohibits carriage other than in accordance with ADR and RID. Regulation 6 imposes, by reference to Schedule 1, different placarding requirements to those in ADR and RID in respect of national carriage by certain vehicles. Regulation 7 deems a requirement relating to access to goods to be a requirement of ADR and RID for the purposes of regulation 5.
+
+**8.** Part 3 of the Regulations provides for exemptions from Part 2. Regulation 8 allows the Health and Safety Executive for Northern Ireland to exempt carriage where such an exemption is permitted as a derogation or a transitional provision under the Dangerous Goods Directive or where the exemption provides for carriage consistent with a derogation or transitional provision. Regulation 9 provides that, in certain circumstances, the Health and Safety Executive for Northern Ireland and the Department of the Environment for Northern Ireland may issue authorisations permitting carriage which would otherwise contravene Part 2 of the Regulations. Other regulations provide for exemptions relating to reference temperatures and standards (regulation 10), old pressure receptacles (regulation 11), enclosed areas (regulation 12), carriage other than by vehicles (regulation 13), instruments of war and nuclear material (regulation 14).
+
+**9.** Part 4 of the Regulations applies the provisions of the Transportable Pressure Equipment Directive for placing transportable pressure equipment on the market (regulations 15 and 16), reassessing the conformity of existing transportable pressure equipment (regulation 17), inspections (regulation 18) and the restriction on the use of misleading markings (regulation 19).
+
+**10.** Part 5 of the Regulations (regulation 20), by the introduction of Schedule 2, implements the requirements of Article 5 of Title II of 89/618/Euratom and Section 1 of Title IX of 96/29/Euratom in relation to carriage by road and by rail.
+
+**11.** Part 6 of the Regulations sets out provisions and obligations in relation to competent authority functions. Regulation 21 determines who the competent authority in Northern Ireland is. Regulation 22 provides that the competent authority in Northern Ireland is to perform the functions of a competent authority set out in ADR, RID and ADN (as applied by the Regulations). Regulation 23 provides that fees may be charged in connection with the performance of competent authority functions arising under regulation 22. Regulation 24 provides for a competent authority function in respect of reference temperatures and standards. Regulation 25 allows for the appointment of people to approve equipment used in connection with the carriage of dangerous goods. Regulation 26 deems certain functions done under the 2006 Regulations to be done under these Regulations.
+
+**12.** Part 7 of the Regulations contains miscellaneous provisions concerning the keeping and provision of information (regulation 27), and enforcement (regulation 28). Regulation 29 provides for a defence in specific circumstances in the case of contravention of the Regulations, and amendments and revocations are set out in regulations 30 and 31.
+
+**13.** ADR and ADN (both the agreements and the Annexes) may be downloaded without charge from the relevant parts of the United Nations Economic Commission for Europe website which is:
+
+- for ADR: http://www.unece.org/trans/danger/publi/adr/adr\_e.html
+- for ADN: http://www.unece.org/trans/danger/adn-agree.html
+- COTIF (including the protocol of Vilnius and Appendix C to COTIF (but not the text of the Annex to the Appendix)) may be downloaded without charge from the relevant part of the Intergovernmental Organisation for International Carriage by Rail (known as OTIF) website which is:
+- http://www.otif.org/
+- Print copies of the 2009 editions of ADR, RID (including the text of the Annex to Appendix C) and ADN are available for purchase, including from the Stationery Office:
+- http://www.tsoshop.co.uk/bookstore.asp
+- The European Directives referred to in these Regulations may be downloaded without charge from the European Union Law Website (EURLEX):
+- http://eur-lex.europa.eu/en/index.htm
+- A document issued by the Health and Safety Executive for Northern Ireland pursuant to regulation 8(3) of these Regulations will be available to be downloaded from the Health and Safety Executive for Northern Ireland website which is:
+- http://www.hseni.gov.uk/
+
+**14.** In Great Britain the corresponding Regulations are the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)). The Department for Transport has prepared a regulatory impact assessment in respect of those Regulations and a copy of that assessment, together with a Northern Ireland supplement prepared by the Health and Safety Executive for Northern Ireland, is held at the office of that Executive at 83 Ladas Drive, Belfast BT6 9FR from where copies may be obtained. A copy of the transposition note in relation to the implementation of the Directives set out in paragraphs 2 to 4 is also available at that office.
+
+**15.** A person who contravenes the Regulations is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable—
+
+- (a) on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding £20,000, or both; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years, or a fine, or both.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5); that Department was formerly the Department of Manpower Services; *see* [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3
+
+[^f00002]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00003]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 3(1)(c) was modified by the Health and Safety at Work Order (Application to Environmentally Hazardous Substances) Regulations (Northern Ireland) 2003 ([S.R. 2003 No. 52](https://www.legislation.gov.uk/nisr/2003/52)) as amended by [S.R. 2007 No. 403](https://www.legislation.gov.uk/nisr/2007/403) and [S.R. 2009 No. 296](https://www.legislation.gov.uk/nisr/2009/296)
+
+[^f00004]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51)
+
+[^f00005]: Footnote: O.J. No. L260, 30.9.2008, p. 13
+
+[^f00006]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
+
+[^f00007]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
+
+[^key-7b090a1f418c36d6645048c825da0c82]: Commencement: Reg. 1 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-349e81279bc668b2d0a0d0373317a417]: Commencement: Reg. 2 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00008]: Footnote: [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173)
+
+[^f00009]: Footnote: ISBN 9789211391343 (2009 edition)
+
+[^f00010]: Footnote: ISBN 9789211391336 (2009 edition)
+
+[^f00011]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52)
+
+[^f00012]: Footnote: *See* Section 1(1) of the Ministry of Defence Police Act [1987 (c. 4)](https://www.legislation.gov.uk/ukpga/1987/4)
+
+[^f00013]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
+
+[^f00014]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
+
+[^M_F_7eebd986-0390-487d-b686-8acb9b60b67a]: Textual amendment: Words in reg. 2(5) Table inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2011/365/regulation/3/3)
+
+[^M_F_f2f96b61-a130-4e4e-dd97-9ded26434293]: Textual amendment: Words in reg. 2(5) Table substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/3/2)
+
+[^f00015]: Footnote: Cm 3812; COTIF was modified by the Protocol signed at Vilnius on 3rd June 1999 (Cm 4873)
+
+[^f00016]: Footnote: O.J. No. L260, 30.9.2008, p. 13
+
+[^M_F_6f9f314b-a52a-42d3-df7e-b3d70ac154bf]: Textual amendment: Words in reg. 2(5) Table inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2011/365/regulation/3/4)
+
+[^M_F_826f8979-25f0-4ca4-b09a-c448570ff9ed]: Textual amendment: Words in reg. 2(5) Table inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2011/365/regulation/3/5)
+
+[^f00017]: Footnote: ISBN 9788086206394 (2009 edition)
+
+[^M_F_76e815a2-e459-4fd5-80a8-6ae29320248f]: Textual amendment: Words in reg. 2(5) Table inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2011/365/regulation/3/6)
+
+[^M_F_51a0c45b-e7e7-4055-d9d4-9902b9a8c601]: Textual amendment: Words in reg. 2(5) Table substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2011/365/regulation/3/7)
+
+[^key-5d301bf7cb5f5c6e8498570a6b88c738]: Commencement: Reg. 3 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^M_F_de3b0580-502b-4c96-9b69-30ffad70a7de]: Textual amendment: Word in reg. 3(b) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/2)
+
+[^M_F_3173ccf0-15cd-4e6b-b077-4bedb3920b3d]: Textual amendment: Word in reg. 3(c) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/2)
+
+[^M_F_ab76ee98-5eca-4db1-d661-811ae0d68ee6]: Textual amendment: Reg. 3(f) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/3)
+
+[^M_F_7539dd9c-5088-4d05-f06d-cf6445c46080]: Textual amendment: Reg. 3(g) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/3)
+
+[^M_F_20500fd0-e771-4fc4-a325-e4d961a2a3ab]: Textual amendment: Reg. 3(h) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/3)
+
+[^M_F_5b678bf3-bbba-45ff-9bd3-e1aa44b3b38f]: Textual amendment: Word in reg. 3(k) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/4)
+
+[^M_F_60fed00f-e2a4-4fac-9621-73f3a53fac22]: Textual amendment: Reg. 3(m)(n) and semicolon substituted for full stop in reg. 3(l) (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [4(5)](https://www.legislation.gov.uk/nisr/2011/365/regulation/4/5)
+
+[^key-7c07651f1771d4e611eb57eb7b569bfa]: Commencement: Reg. 4 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-565d1f1ba162f3ba0e50bb9eece2290c]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2010/160/regulation/4/1A) inserted (18.6.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/111)](https://www.legislation.gov.uk/nisr/2019/111), [regs. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2019/111/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/nisr/2019/111/regulation/7))
+
+[^key-e41e11e97841b27ec48b0cfadfe36de6]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2010/160/regulation/4/2) substituted (18.6.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/111)](https://www.legislation.gov.uk/nisr/2019/111), [regs. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2019/111/regulation/3/b) (with [reg. 7](https://www.legislation.gov.uk/nisr/2019/111/regulation/7))
+
+[^key-889b9ca49ac94e852f3d9735a3f24549]: Commencement: Reg. 5 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-8129a3147e72ea81bafd655332f550ab]: Commencement: Reg. 6 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00019]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22); paragraph 2 of Schedule 3 to the Finance Act 1997 replaced the existing section 21(1) with a new version
+
+[^f00020]: Footnote: ISBN 9780113413263 (2009 edition)
+
+[^key-1e8c63b1787be5a9b02e5c132cc1d026]: Commencement: Reg. 7 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-76d578e6b6ea3b98ed9122714f6e68e7]: Commencement: Reg. 8 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-db0774cb40b4b5b7e587cd47f329d05d]: Commencement: Reg. 9 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-27d3dd898c77bdf8dcd1ec9f852f8d7d]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2010/160/regulation/9) inserted (16.11.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/222)](https://www.legislation.gov.uk/nisr/2020/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/222/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/222/regulation/2/2)
+
+[^key-be38adc58277d4f8ecbc99e3937c4c97]: Commencement: Reg. 10 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-6284fb3c4b7546ca9ace3712892b8786]: Commencement: Reg. 11 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-ef18d3dc0adc959d3a1a3417d83b979d]: Commencement: Reg. 12 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-5575fd8dc22f9022533dc40ae7a4cc71]: Commencement: Reg. 13 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-6c1564e14e02fde3a464fa0af3d720e5]: Commencement: Reg. 14 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00021]: Footnote: [S.I. 2003/403](https://www.legislation.gov.uk/uksi/2003/403)
+
+[^M_F_bdaba5cf-1217-476b-9165-3bc9a8abbae5]: Textual amendment: Reg. 15 substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/1)
+
+[^M_F_ba9a1d1c-3fdb-4636-d298-a55c38c39c4e]: Textual amendment: Regs. 15A-15F inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/2)
+
+[^M_F_b3982e4d-cdf7-4ff0-d3bc-cd0e127c8d06]: Textual amendment: Regs. 15A-15F inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/2)
+
+[^M_F_7a5a2926-9a98-4e18-b9d1-289c87538390]: Textual amendment: Regs. 15A-15F inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/2)
+
+[^M_F_8fa21969-391d-4913-d734-f096f0af2a7e]: Textual amendment: Regs. 15A-15F inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/2)
+
+[^M_F_8c129458-56f0-4bd5-9e52-84914efdf822]: Textual amendment: Regs. 15A-15F inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/2)
+
+[^M_F_511c422e-1ab9-49c3-d53d-b01b6482c0af]: Textual amendment: Regs. 15A-15F inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/5/2)
+
+[^M_F_a242bac3-261f-4584-f36f-c85ef8d84005]: Textual amendment: Reg. 16 substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/365/regulation/6)
+
+[^key-fa03e4185df92773d1b538043c3a925a]: Commencement: Reg. 17 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^M_F_b131eb1d-4801-4bc8-d88c-960fb5c91c8f]: Textual amendment: Word in reg. 17(1) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/7/2)
+
+[^M_F_778b8d1c-15c3-400b-9177-b0d9c60055cb]: Textual amendment: Words in reg. 17(3)(a) inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/nisr/2011/365/regulation/7/3/a)
+
+[^M_F_9efb5ac2-e538-4819-b847-86ee9a4fb4ed]: Textual amendment: Words in reg. 17(3)(a) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/nisr/2011/365/regulation/7/3/b)
+
+[^M_F_eb113a88-39d0-4691-f377-0c6856d6c957]: Textual amendment: Reg. 17(3)(b) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [7(4)](https://www.legislation.gov.uk/nisr/2011/365/regulation/7/4)
+
+[^M_F_e31303e6-7713-4761-8ba7-045ae3076ef2]: Textual amendment: Reg. 17(4) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [7(5)](https://www.legislation.gov.uk/nisr/2011/365/regulation/7/5)
+
+[^M_F_3f1007b9-3be2-4bc5-cfce-7363f5d2cf18]: Textual amendment: Reg. 17(5) inserted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [7(6)](https://www.legislation.gov.uk/nisr/2011/365/regulation/7/6)
+
+[^key-ecff83e667a67e74db01877272071a2f]: Commencement: Reg. 18 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^M_F_0cc846e7-3c1d-4945-893c-5797ccf2172e]: Textual amendment: Word in reg. 18(1) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/8/2)
+
+[^M_F_ca98dc40-cd60-4c43-ff86-525b064ec600]: Textual amendment: Words in reg. 18(2) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/nisr/2011/365/regulation/8/3/a)
+
+[^M_F_3dc6e172-70d6-4a55-b6c2-7991d6972fac]: Textual amendment: Words in reg. 18(2) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/nisr/2011/365/regulation/8/3/b)
+
+[^M_F_3d6d1ea7-47c1-41de-a587-f226230af232]: Textual amendment: Words in reg. 18(2) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/nisr/2011/365/regulation/8/3/c)
+
+[^M_F_b627f207-01a7-4c9c-d7a0-15823690b66b]: Textual amendment: Reg. 18(3) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [8(4)](https://www.legislation.gov.uk/nisr/2011/365/regulation/8/4)
+
+[^M_F_c9b97dcb-1761-4b05-a9aa-c5ce6af8fcc9]: Textual amendment: Words in reg. 18(4) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2011/365/regulation/8/5)
+
+[^key-eee7f4f7d608594fd3960c2578002e4b]: Commencement: Reg. 19 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-e8dcbec12f7456c223ee81a69555f2a9]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/nisr/2010/160/part/5) heading substituted (18.6.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/111)](https://www.legislation.gov.uk/nisr/2019/111), [regs. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/111/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/nisr/2019/111/regulation/7))
+
+[^key-34242f51f6fffb7b988deda4cbb2c72c]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/160/regulation/20) substituted (18.6.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/111)](https://www.legislation.gov.uk/nisr/2019/111), [regs. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1), [5](https://www.legislation.gov.uk/nisr/2019/111/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/nisr/2019/111/regulation/7))
+
+[^key-c9be6e79e90482b7e69efaa776e02d5d]: Commencement: Reg. 21 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-cdd4b04493545b8a21a528dc22f0799f]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2010/160/regulation/21/1) substituted (16.11.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/222)](https://www.legislation.gov.uk/nisr/2020/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/222/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/222/regulation/2/3/a)
+
+[^key-a0065fddda9a9ab69b542df5924a0f02]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/nisr/2010/160/regulation/21/2)[(2A)](https://www.legislation.gov.uk/nisr/2010/160/regulation/21/2A) substituted for [reg. 21(2)](https://www.legislation.gov.uk/nisr/2010/160/regulation/21/2) (16.11.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/222)](https://www.legislation.gov.uk/nisr/2020/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/222/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/222/regulation/2/3/b)
+
+[^key-b7253f6784aa7199f8970e53cd398606]: Commencement: Reg. 22 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-0debfe8ea5055d1eabdda5814da2e439]: Commencement: Reg. 23 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00022]: Footnote: [S.R. 2003 No. 304](https://www.legislation.gov.uk/nisr/2003/304) to which there are amendments not relevant to these Regulations
+
+[^key-0f42a36102ad0c64285c5ade91811f76]: Commencement: Reg. 24 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-f516cbf46184d516c71a3c644532eaab]: Commencement: Reg. 25 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^M_F_3f88079b-ee66-4057-9b0a-e1aac338a516]: Textual amendment: Words in reg. 25(4) substituted (10.11.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [9(2)](https://www.legislation.gov.uk/nisr/2011/365/regulation/9/2)
+
+[^M_F_f2732515-a56f-4c6e-c337-b16f18209882]: Textual amendment: Reg. 25(5) omitted (10.11.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) (Regulations) (Northern Ireland) 2011 (S.R. 2011/365)](https://www.legislation.gov.uk/nisr/2011/365), [regs. 1](https://www.legislation.gov.uk/nisr/2011/365/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2011/365/regulation/9/3)
+
+[^key-79170115c0fe7e332f7bf8efbce3d374]: Commencement: Reg. 26 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-335c08b714b649cc88c35f6ee9e3d0e9]: Commencement: Reg. 27 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-c7fbb5a85ce415e9a881f0f7c5775848]: Commencement: Reg. 28 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-c28ab07afa1e35cffa4d6e51836d1f83]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/nisr/2010/160/regulation/28) substituted (16.11.2020) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/222)](https://www.legislation.gov.uk/nisr/2020/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/222/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/222/regulation/2/4)
+
+[^key-01380da72024e38998c3cb2d67eb334e]: Commencement: Reg. 29 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-8b5e28b323f1f5b77dc6fe50e83a08eb]: Commencement: Reg. 30 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-6d5b64c5613e2e56ff3a459afd8384d9]: Commencement: Reg. 31 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-2e7a63cca2b40a82e02f693665389db5]: Commencement: Sch. 1 para. 1 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-6dfd12a30eb09eb3b832f88e0bd4f4c3]: Commencement: Sch. 1 para. 2 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-e6be89525836c723db6abe9dff894a40]: Commencement: Sch. 1 para. 3 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-c87a8af1daf474e319f681d81a972821]: Commencement: Sch. 1 para. 4 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00023]: Footnote: [S.I. 2006 No. 1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254)
+
+[^key-758cebc16a4aaa7b1bf3202d6dec31c7]: Commencement: Sch. 1 para. 5 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-29fa6c06997fddc7f36c43f23b47830d]: Commencement: Sch. 1 para. 6 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-50817b16ae7dc73d2f188611448f9fd7]: Commencement: Sch. 1 para. 7 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-d3f6e2f329dc6ef882025cc286ab8af7]: Commencement: Sch. 1 para. 8 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-78db8e6171fbe62b640a82464bd82089]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2010/160/schedule/2) substituted (18.6.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/111)](https://www.legislation.gov.uk/nisr/2019/111), [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2019/111/schedule) (with [reg. 7](https://www.legislation.gov.uk/nisr/2019/111/regulation/7))
+
+[^key-c8c41506c08afe3f3431d6b368a2c8e2]: Commencement: Sch. 3 para. 1 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-add8b56c75d27b7037b695b431cf83ef]: Commencement: Sch. 3 para. 2 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-22b2fe8d1742a525883c2e154143c182]: Commencement: Sch. 3 para. 3 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-95e1369684c6e2622e563c3696470406]: Commencement: Sch. 3 para. 4 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-704482a26348cd2ab463614f9d4eab4b]: Commencement: Sch. 3 para. 5 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-6eb9ec07ac987d8f978f6fdbc8351fba]: Commencement: Sch. 3 para. 6 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-ae4c59528a9dd71d8611daaa3bcae84f]: Commencement: Sch. 3 para. 7 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-933b59e9e578a75ad0586959154e57ae]: Commencement: Sch. 3 para. 8 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00026]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
+
+[^key-1dd109cfde93045475a2245903e355b8]: Commencement: Sch. 3 para. 9 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-649c0760349822755f07ffc9042caf80]: Commencement: Sch. 3 para. 10 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-a62025420d1b6af60523e28be2938ada]: Commencement: Sch. 4 para. 1 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-08a78b8f01a37a491f141c5b0c3d8621]: Commencement: Sch. 4 para. 2 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-ced79b0ceed50e41b1cdbae6e1c49914]: Commencement: Sch. 4 para. 3 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-408d211264a3cbce7e3d67bd72461d5b]: Commencement: Sch. 4 para. 4 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^key-567368b03495a5f8c69d02c4031772ea]: Commencement: Sch. 5 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)
+
+[^f00027]: Footnote: [1929 c. 13](https://www.legislation.gov.uk/ukpga/1929/13); section 18 was amended by [S.R. 1988 No. 415](https://www.legislation.gov.uk/nisr/1988/415), Schedule 4, Part II, paragraph 1, by [S.R. 2003 No. 152](https://www.legislation.gov.uk/nisr/2003/152), Schedule 7, Part I, paragraphs 2(2) to (7) and by [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173), Schedule 13, paragraph 1; section 18 was repealed in relation to the carriage of petroleum mixtures and liquid methane in a road tanker or tank-container by [S.R. 1992 No. 260](https://www.legislation.gov.uk/nisr/1992/260), regulation 30(1); there are other amendments to the Act not relevant to these Regulations
+
+[^f00028]: Footnote: [S.R. 1991 No. 509](https://www.legislation.gov.uk/nisr/1991/509) as amended by [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247), [S.R. 2003 No. 386](https://www.legislation.gov.uk/nisr/2003/386) and [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00029]: Footnote: [S.R. 1992 No. 71](https://www.legislation.gov.uk/nisr/1992/71) as amended by [S.R. 1993 No. 412](https://www.legislation.gov.uk/nisr/1993/412), [S.R. 1995 No. 47](https://www.legislation.gov.uk/nisr/1995/47), [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247) and [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00030]: Footnote: [S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119) as amended by [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247) and [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00031]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455) as amended by [S.R. 2004 No. 196](https://www.legislation.gov.uk/nisr/2004/196) and [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00032]: Footnote: [S.R. 2001 No. 436](https://www.legislation.gov.uk/nisr/2001/436) as amended by [S.R. 2003 No. 533](https://www.legislation.gov.uk/nisr/2003/533) and [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00033]: Footnote: Current edition (2005): ISBN 9211391067
+
+[^f00034]: Footnote: [S.R. 2003 No. 34](https://www.legislation.gov.uk/nisr/2003/34) as amended by [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00035]: Footnote: [S.R. 2003 No. 35](https://www.legislation.gov.uk/nisr/2003/35) as amended by [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00036]: Footnote: [S.R. 2003 No. 152](https://www.legislation.gov.uk/nisr/2003/152) as amended by [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173)
+
+[^f00037]: Footnote: [S.R. 2004 No. 222](https://www.legislation.gov.uk/nisr/2004/222) as amended by [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173) and to which there are other amendments not relevant to these Regulations
+
+[^f00038]: Footnote: [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205)
+
+[^f00039]: Footnote: [S.R. 2007 No. 31](https://www.legislation.gov.uk/nisr/2007/31)
+
+[^f00040]: Footnote: [S.R. 2009 No. 238](https://www.legislation.gov.uk/nisr/2009/238)
+
+[^key-11604e79272f6e3b88574c89221b64f0]: Commencement: Sch. 6 in operation at 19.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1)

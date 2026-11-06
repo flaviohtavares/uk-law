@@ -1,0 +1,32 @@
+---
+title: The Judicial Pensions Regulations (Northern Ireland) 2015, section 145
+act: The Judicial Pensions Regulations (Northern Ireland) 2015
+section: '145'
+status: revised
+text_date: '2024-05-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/76/section/145
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Judicial Pensions Regulations (Northern Ireland) 2015, section 145
+
+> Text as at 2024-05-24.
+>
+> Extent: Northern Ireland.
+
+## 145. Employer cost cap
+
+*Extent: N.I.*
+
+(1) The employer cost cap for this scheme is 25.7 % of pensionable earnings of members of this scheme.
+
+(2) If the cost of this scheme goes beyond the margin either side of the employer cost cap for this scheme specified in regulations under section 12(5)(a) (employer cost cap) of the Act, the Department of Justice must consult the scheme advisory board and such persons as appear likely to be affected by any steps that may be taken, with a view to reaching agreement with the relevant Lord Chief Justice on the steps required to achieve the target cost for this scheme.
+
+(3) If, following such consultation, agreement is not reached, the percentage of the member's pensionable earnings specified in regulation 39(3) as the amount of earned pension for a scheme year must be adjusted for pensionable earnings after the date of adjustment, so that the target cost for this scheme is achieved.
+
+(4) In this regulation—
+
+- (a) “**cost of this scheme**” means the cost of this scheme calculated following a valuation in accordance with regulation 144; and
+- (b) “**target cost for this scheme**” means the target cost for this scheme specified in regulations under section 12(5)(b) (employer cost cap) of the Act.

@@ -1,0 +1,317 @@
+---
+title: The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000
+id: nisr/2000/335
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-11-07'
+text_date: '2014-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/335
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/335/pdfs/nisr_20000335_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/335/data.pdf
+pending_changes: 17
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2014-04-06. See https://www.legislation.gov.uk/changes/affected/nisr/2000/335
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 335
+
+PENSIONS
+
+The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000
+
+Made
+
+7th November 2000
+
+Coming into operation
+
+1st December 2000
+
+The Department for Social Development, in exercise of the powers conferred by sections 64B, 64D, 97D(4)(*b*), 97F(6)(*b*), 97I, 97L(1), 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Article 73(7) of the Pensions (Northern Ireland) Order 1995[^f00002] and Articles 21(1)(*a*) and (*d*), 27, 32(2)(*b*), 42(1), 73(3) and (4), and 74(2) of, and paragraphs 1(3)(*c*), 5(*b*) and 7(1)(*b*) and (2)(*b*) of Schedule 5 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-b551eb4cdc230c37719de7333ad49569]
+
+(1) These Regulations may be cited as the Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000 and shall come into operation on 1st December 2000.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-1dfe53a37af8ecf43ca08187070eda89]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-802dec5044565a8b08d419ed9478ebdd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-2877f41a3176f3782a94e7c15d4d026b]
+
+(1) The Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00015] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(3) (interpretation), after the definition of “the Order” there shall be inserted—
+
+> - “pension credit” means a credit under Article 26(1)(*b*) of the Welfare Reform and Pensions (Northern Ireland) Order 1999;
+> - “transfer credits” has the meaning given by regulation 1(2) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00016] (interpretation).
+
+.
+
+(3)[^key-1d6b428aa080ed84f8b35641123112e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 8 (requirements to be satisfied by transferee schemes, annuities, etc.), for paragraphs (1) to (3) there shall be substituted—
+
+> (1) For the purpose of Article 74(3)(*a*) (discharge of liability to or in respect of a member by the acquisition of transfer credits under another occupational pension scheme), the requirements to be satisfied by the other occupational pension scheme are the same as those which would apply by virtue of—
+>
+> - (a) section 91(2)(*a*) of the Act (ways of taking right to cash equivalent) if—
+>   - (i) the member were entitled to a cash equivalent under Chapter IV of Part IV of the Act in respect of the rights liability in respect of which is being discharged, and
+>   - (ii) he required his cash equivalent to be used to acquire transfer credits allowed under the rules of the scheme, or
+> - (b) section 97F(2)(*a*) of the Act (power to give transfer notice).
+>
+> (2) For the purpose of Article 74(3)(*b*)[^f00021] (discharge of liability to or in respect of a member by the acquisition of rights under a personal pension scheme), the requirements to be satisfied by the personal pension scheme are the same as those which would apply by virtue of —
+>
+> - (a) section 91(2)(*b*) of the Act if the member were so entitled and he required his cash equivalent to be used to acquire rights allowed under the rules of the scheme; or
+> - (b) section 97F(2)(*a*) of the Act.
+>
+> (3) For the purpose of Article 74(3)(*c*) (discharge of liability to or in respect of a member by the purchase of one or more annuities) the requirements to be satisfied by the annuities are the same as those which would apply by virtue of—
+>
+> - (a) section 91(2)(*c*) of the Act if the member were so entitled and he required his cash equivalent to be used to purchase annuities from such insurance companies as are mentioned in that section, or
+> - (b) section 97F(2)(*b*) of the Act, other than the requirement that an insurance company must be chosen by the member.
+
+.
+
+## 5. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-16cb20600aa55e68bce423dee6cb2285]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^key-77f5fbe7a003e3e570349089cecc3289]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Occupational and Personal Pension Schemes (Levy) Regulations[^key-6e7482fcd964379de8b30e783881678e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Pensions on Divorce etc. (Provision of Information) Regulations[^key-b3ed3b6a2bc21047b484f2941cf4844e]
+
+(1) The Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00031] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 4 (provision of information in response to a notification that a pension sharing order or provision may be made), in paragraph (2) there shall be omitted sub-paragraph (*j*).
+
+(3) In regulation 6 (provision of information after the death of the person entitled to the pension credit before liability in respect of the pension credit has been discharged), for paragraph (1) there shall be substituted—
+
+> (1) Where the person entitled to the pension credit dies before the person responsible for the pension arrangement has discharged his liability in respect of the pension credit, the person responsible for the pension arrangement shall, within 21 days of the date of receipt of the notification of the death of the person entitled to the pension credit, notify in writing any person whom the person responsible for the pension arrangement considers should be notified of the matters specified in paragraph (2).
+
+.
+
+## 9. Amendment of the Pensions on Divorce etc. (Charging) Regulations[^key-c77f9c74215b56c17c698ceb2db688a6]
+
+(1) The Pensions on Divorce etc. (Charging) Regulations (Northern Ireland) 2000[^f00032] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1(2) (interpretation), after the definition of “implementation period” there shall be inserted—
+
+> - “normal pension age” has the meaning given by section 175;
+
+.
+
+(3) In regulation 2 (general requirements as to charges), for paragraph (8) there shall be substituted—
+
+> (8) The information specified in regulation 2(2) and (3) of the Provision of Information Regulations shall be provided to the member or his spouse without charge unless—
+>
+> - (a) the person responsible for the pension arrangement has furnished the information to the member, his spouse or the court within a period of 12 months immediately prior to the date of the request or the court order for the provision of that information;
+> - (b) the member has reached normal pension age on or before the date of the request or the court order for the provision of the information;
+> - (c) the request or the court order for the provision of the information is made within 12 months prior to the member’s reaching normal pension age, or
+> - (d) the circumstances referred to in regulation 3(2)(*b*)(i) apply.
+
+.
+
+## 10. Amendment of the Pension Sharing (Valuation) Regulations[^key-e4bcf930422d6ef50b201e31479e93ee]
+
+(1) The Pension Sharing (Valuation) Regulations (Northern Ireland) 2000[^f00033] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation), after the definition of “transfer credits”, there shall be inserted—
+
+> - “transfer day” has the meaning given by Article 26(8) of the 1999 Order;
+
+.
+
+(3)[^key-3b8cf28a7d50c8700acd660307e16e77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-3b8cf28a7d50c8700acd660307e16e77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-3b8cf28a7d50c8700acd660307e16e77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-8035cd815a21e4cf1771b25f26f5c788]
+
+(1) The Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000[^f00039] shall be amended in accordance paragraphs (2) to (5).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) after the definition of “implementation period” there shall be inserted—
+
+  > - “the Inland Revenue” means the Commissioners of Inland Revenue;
+
+  ;
+- (b)[^key-fe6c76d395f54c2a84888e6fb93fc0c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For regulation 6 (discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit), there shall be substituted—
+
+> **6. Discharge of liability in respect of a pension credit following the death of the person entitled to a pension credit**
+>
+> (1) The person responsible for the pension arrangement shall, following the death of the person entitled to the pension credit, discharge his liability in respect of a pension credit in accordance with this regulation.
+>
+> (2) Where the rules or provisions of a pension arrangement so provide and provided that any requirements of the Inland Revenue under Part XIV of the Income and Corporation Taxes Act 1988[^f00041] are satisfied, the person responsible for the pension arrangement shall discharge his liability in respect of a pension credit by undertaking to—
+>
+> - (a) make—
+>   - (i) a payment of a lump sum;
+>   - (ii) payments of a pension, or
+>   - (iii) payments of both a lump sum and a pension,
+>
+>   to one or more persons, or
+> - (b) enter into an annuity contract or take out a policy of insurance with an insurance company for the benefit of one or more persons, or
+> - (c) make a payment or, as the case may be, payments under sub-paragraph (*a*) and enter into an annuity contract or take out an insurance policy under sub-paragraph (*b*).
+>
+> (3) Where paragraph (2)(*b*) or (*c*) applies, the annuity contract entered into or insurance policy taken out must satisfy the requirements of paragraph 6(2) of Schedule 5 (qualifying arrangements) and regulation 11.
+>
+> (4) Where the provisions of paragraph (2) do not apply, liability in respect of a pension credit shall be discharged by retaining the value of the pension credit in the pension arrangement from which that pension credit was derived.
+>
+> (5) Where—
+>
+> - (a) liability in respect of a pension credit has been discharged in accordance with paragraph (2), and
+> - (b) the value of the payment or payments made, the annuity contract entered into or the insurance policy taken out, as the case may be, is less than the value of the pension credit,
+>
+> the value of an amount equal to the difference between the value of the pension credit and the value of that payment or those payments, that contract or policy, as the case may be, shall be retained in the pension arrangement from which that pension credit was derived.
+
+.
+
+(4) In regulation 7(2) (discharge of liability in respect of a pension credit—funded pension schemes)—
+
+- (a) in sub-paragraph (*a*) for “paragraph 1(2)(*a*)” there shall be substituted “paragraph 1(3)(*c*)”;
+- (b) for sub-paragraph (*b*) there shall be substituted—
+
+  > - (b) either—
+  >   - (i) the person entitled to the pension credit has failed to provide his consent in accordance with paragraph 1(2)(*a*) and (4) of that Schedule, or
+  >   - (ii) the trustees or managers of the scheme have not discharged their liability in accordance with paragraph (1).
+
+  .
+
+(5)[^key-375ebe951c3c36249dbb8f677b8b9871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-e7a42d3a801fe063eeb86f2e2fe1189c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Amendment of the Pension Sharing (Safeguarded Rights) Regulations[^key-e7a42d3a801fe063eeb86f2e2fe1189c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 7th November 2000.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations make amendments consequential upon the pension sharing provisions in the Welfare Reform and Pensions (Northern Ireland) Order 1999 (“the 1999 Order”) and make miscellaneous amendments to regulations relating to the treatment of pensions on divorce or nullity of marriage.
+
+Regulation 2 amends the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987 to provide for the disclosure of information to members with pension credit rights.
+
+Regulation 3 amends the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996 to ensure that the provisions in respect of the determination and valuation of assets and liabilities of an occupational pension scheme for the purposes of the Minimum Funding Requirement also relate to members who have pension credit rights or who are in receipt of pension credit benefit.
+
+Regulation 4 amends the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996 to include safeguarded rights and other pension credit rights in the list of statutory priorities to be discharged where an occupational pension scheme winds up. It also amends regulation 8 of those regulations to stipulate requirements for recipient pension arrangements where a transfer notice to discharge a pension credit has been served on the transferring scheme.
+
+Regulation 5 amends the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997 to provide for disclosure of information to members with pension credit rights and provides for the inclusion of a statement in the scheme’s annual report if cash equivalents of pension credits are calculated other than by a prescribed method.
+
+Regulation 6 amends the definition of “member” in the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 1997 to include a person with pension credit rights.
+
+Regulation 7 amends the definition of “member” in the Occupational and Personal Pension Schemes (Levy) Regulations (Northern Ireland) 1997 to include a person with pension credit rights.
+
+Regulation 8 amends the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000. In particular, regulation 6 of those regulations is amended to clarify the obligations of the person responsible for a pension arrangement where the person entitled to the pension credit dies before liability in respect of that credit is discharged.
+
+Regulation 9 amends the Pensions on Divorce etc. (Charging) Regulations (Northern Ireland) 2000. In particular, regulation 2(8) of those Regulations is amended in order to clarify when a person responsible for a pension arrangement may charge for provision of information.
+
+Regulation 10 amends the Pension Sharing (Valuation) Regulations (Northern Ireland) 2000 in order to clarify that a cash equivalent calculated for the purposes of those Regulations is calculated on the same basis as a cash equivalent transfer value of pension rights for a transfer under normal circumstances.
+
+Regulation 11 amends the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000. In particular, a new regulation 6 is substituted, which clarifies how a person responsible for a pension arrangement is to deal with a pension credit where the person entitled to the pension credit dies before the liability in respect of that credit is discharged. It further provides for cash equivalents of pension rights calculated for the purposes of sharing a pension on divorce to be calculated on the same basis as those for a transfer under normal circumstances.
+
+Regulation 12 amends the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000. In particular, regulation 24 of those Regulations is amended in order to clarify that a cash equivalent calculated for the purposes of sharing a pension on divorce shall be calculated on the same basis as a cash equivalent of pension rights calculated for a transfer under normal circumstances. It also amends regulation 10 of those Regulations to ensure that the destination for a transfer of pension credit rights which include safeguarded rights shall be either a salary-related contracted-out scheme or a money-purchase contracted out scheme.
+
+Regulation 13 amends the Pension Sharing (Safeguarded Rights) Regulations (Northern Ireland) 2000 to make further provisions about how a person responsible for a pension arrangement is to deal with a pension credit where the person entitled to the pension credit dies before liability for the credit is discharged.
+
+These Regulations also make minor amendments for the purposes of interpretation.
+
+As these Regulations, in so far as they are made under Part II of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) and Part V of the 1999 Order, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain, the requirement for consultation does not apply by virtue of Article 117(2)(*e*) of the 1995 Order and Article 73(9) of the 1999 Order.
+
+The Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Northern Ireland) 2000 ([S.R. 2000 No. 133 (C. 5)](https://www.legislation.gov.uk/nisr/2000/133)) provides for the coming into operation of Articles 21(1)(*a*) and (*d*), 27(1) and (2), 32(2)(*b*), 42(1) of, and Schedule 5 to, the 1999 Order, some of the enabling provisions under which these Regulations are made, in so far as they are not already in operation, on 1st December 2000.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); sections 64B and 64D are inserted by Article 33 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)). Sections 97D, 97F, 97I and 97L are inserted by Article 34 of that Order
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^f00003]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00004]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-b551eb4cdc230c37719de7333ad49569]: Commencement: Reg. 1 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-1dfe53a37af8ecf43ca08187070eda89]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/335/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-802dec5044565a8b08d419ed9478ebdd]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/335/regulation/3) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))
+
+[^key-2877f41a3176f3782a94e7c15d4d026b]: Commencement: Reg. 4 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1)
+
+[^f00015]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621), to which there are amendments not relevant to these regulations
+
+[^f00016]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146)
+
+[^key-1d6b428aa080ed84f8b35641123112e0]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2000/335/regulation/4/3) revoked (10.5.2004) by [The Occupational Pension Schemes (Winding Up) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/187)](https://www.legislation.gov.uk/nisr/2004/187), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/187/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/187/regulation/2/b) (with [reg. 1(4)](https://www.legislation.gov.uk/nisr/2004/187/regulation/1/4))
+
+[^f00021]: Footnote: Article 74(3)(*b*) is amended by paragraph 45 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^key-16cb20600aa55e68bce423dee6cb2285]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/335/regulation/5) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-77f5fbe7a003e3e570349089cecc3289]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/335/regulation/6) revoked (6.4.2005) by [The Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/93)](https://www.legislation.gov.uk/nisr/2005/93), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b), [6(f)](https://www.legislation.gov.uk/nisr/2005/93/regulation/6/f)
+
+[^key-6e7482fcd964379de8b30e783881678e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/335/regulation/7) revoked (1.4.2005) by [The Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005 (S.R. 2005/92)](https://www.legislation.gov.uk/nisr/2005/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1), [12(1)(e)](https://www.legislation.gov.uk/nisr/2005/92/regulation/12/1/e)
+
+[^key-b3ed3b6a2bc21047b484f2941cf4844e]: Commencement: Reg. 8 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1)
+
+[^f00031]: Footnote: [S.R. 2000 No. 142](https://www.legislation.gov.uk/nisr/2000/142)
+
+[^key-c77f9c74215b56c17c698ceb2db688a6]: Commencement: Reg. 9 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1)
+
+[^f00032]: Footnote: [S.R. 2000 No. 143](https://www.legislation.gov.uk/nisr/2000/143)
+
+[^key-e4bcf930422d6ef50b201e31479e93ee]: Commencement: Reg. 10 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1)
+
+[^f00033]: Footnote: [S.R. 2000 No. 144](https://www.legislation.gov.uk/nisr/2000/144)
+
+[^key-3b8cf28a7d50c8700acd660307e16e77]: Textual amendment: [Reg. 10(3)-(5)](https://www.legislation.gov.uk/nisr/2000/335/regulation/10/3) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
+
+[^key-8035cd815a21e4cf1771b25f26f5c788]: Commencement: Reg. 11 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/335/regulation/1/1)
+
+[^f00039]: Footnote: [S.R. 2000 No. 145](https://www.legislation.gov.uk/nisr/2000/145)
+
+[^key-fe6c76d395f54c2a84888e6fb93fc0c1]: Textual amendment: [Reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2000/335/regulation/11/2/b) revoked (2.6.2003) by [The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/256)](https://www.legislation.gov.uk/nisr/2003/256), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1), [19(e)](https://www.legislation.gov.uk/nisr/2003/256/regulation/19/e)
+
+[^f00041]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^key-375ebe951c3c36249dbb8f677b8b9871]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/nisr/2000/335/regulation/11/5) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
+
+[^key-e7a42d3a801fe063eeb86f2e2fe1189c]: Textual amendment: [Regs. 12](https://www.legislation.gov.uk/nisr/2000/335/regulation/12), [13](https://www.legislation.gov.uk/nisr/2000/335/regulation/13) revoked (6.4.2009) by [The Pensions (2008 Acts) (Consequential Provisions) Order (Northern Ireland) 2009 (S.R. 2009/113)](https://www.legislation.gov.uk/nisr/2009/113), [arts. 1](https://www.legislation.gov.uk/nisr/2009/113/article/1), [12](https://www.legislation.gov.uk/nisr/2009/113/article/12), [Sch.](https://www.legislation.gov.uk/nisr/2009/113/schedule)

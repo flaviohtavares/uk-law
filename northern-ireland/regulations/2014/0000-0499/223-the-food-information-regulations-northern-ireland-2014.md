@@ -1,0 +1,1267 @@
+---
+title: The Food Information Regulations (Northern Ireland) 2014
+id: nisr/2014/223
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2014-08-21'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2014/223
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2014/223/pdfs/nisrem_20140223_en.pdf
+- http://www.legislation.gov.uk/nisr/2014/223/pdfs/nisr_20140223_en.pdf
+- http://www.legislation.gov.uk/nisr/2014/223/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Information Regulations (Northern Ireland) 2014
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2014 No. 223
+
+Food
+
+The Food Information Regulations (Northern Ireland) 2014
+
+Made
+
+21st August 2014
+
+Coming into operation in accordance with regulation 1(2) to (5)
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 15(1), 16, 17, 25, 26(3), 44 and 47(2) of, and paragraphs 1 and 4(b) of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002] and section 2(2) of and paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00003].
+
+The Department of Health, Social Services and Public safety has been designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972 in relation to food and drink intended for sale for human consumption, including the presentation, packaging, labelling, marketing and advertising of such food and drink.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department of Health, Social Services and Public Safety that it is expedient for references to provisions of Regulation (EU) No 1169/2011[^f00005] of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) specified in Regulation 2(3) and Schedule 1 to be construed as a reference to that Regulation as amended from time to time.
+
+Insofar as these Regulations are made in exercise of powers under the Food Safety (Northern Ireland) Order 1991, the Department of Health, Social Services and Public Safety has had regard to relevant advice given by the Food Standards Agency in accordance with Article 47(3A) of that Order.[^key-c1fca6620870ddd5b1a19f2c27088fab]
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^f00006] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-c1fca6620870ddd5b1a19f2c27088fab]
+
+## 1. Citation and commencement[^key-57992d2e55f3438a32b41129cf39fec2]
+
+(1) These Regulations may be cited as the Food Information Regulations (Northern Ireland) 2014.
+
+(2) Except as provided for in paragraphs (3) to (5), these Regulations come into operation on 13th December 2014.
+
+(3) For the purposes of the following provisions these Regulations come into operation on 19th September 2014—
+
+- (a) regulation 4;
+- (b) regulation 12 and Schedule 4 so far as (by applying, with some modifications, specified provisions of the Order) they enable an improvement notice to be served on a person requiring that person to comply with the provision of FIC specified in Schedule 5, Part 1 and an appeal against such a notice to be made and dealt with, and make the failure to comply with such improvement notice an offence;
+- (c) regulation 14 so far as it relates to Schedule 7, Part 1;
+- (d) Schedule 2;
+- (e) Schedule 5, Part 1; and
+- (f) Schedule 7, Part 1.
+
+(4) For the purposes of the following provisions, these Regulations come into operation on 13th December 2016—
+
+- (a) Schedule 5, Part 3; and
+- (b) regulation 12 and Schedule 4 so far as (by applying, with some modifications, specified provisions of the Order) they enable an improvement notice to be served on a person requiring them to comply with the provision of FIC specified in Schedule 5, Part 3 and an appeal against such a notice to be made and dealt with, and make the failure to comply with such improvement notice an offence.
+
+(5) For the purposes of Schedule 6, Part 2 and regulation 13 so far as it relates to that Part of Schedule 6, these Regulations come into operation on 13th December 2018.
+
+(5A)[^key-9f9f9b3b7aed26a797e7dfb71cdda158] For the purposes of the following provisions, these Regulations come into operation on 1st April 2020—
+
+- (a) Part 5 of Schedule 5; and
+- (b) regulation 12 and Schedule 4 so far as (by applying, with some modifications, specified provisions of the Order) they enable an improvement notice to be served on a person requiring that person to comply with the provision of FIC specified in Part 5 of Schedule 5 and an appeal against such a notice to be made and dealt with, and make the failure to comply with such an improvement notice an offence.
+
+## 2. Interpretation[^key-19e3e032acfd4d1a6efe67911a665a9c]
+
+(1) In these Regulations—
+
+- “Directive 1999/2/EC” means Directive [1999/2/EC](https://www.legislation.gov.uk/european/directive/1999/0002) of the European Parliament and of the Council on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation as last amended by Regulation[^key-51a274cd1260bcdaeb822e390890c62a] [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council [^f00007];
+- “FIC” means, subject to regulation 2(3) and Schedule 1, Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^key-c6395a49bd04440878422913651e0dd4] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council ;
+- “final consumer” has the meaning given in point 18 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as last amended by Regulation (EU) 2017/745 of the European Parliament and of the Council[^key-b678887a4a5f4e74743149205de53a8d] ;
+- “food business operator” has the meaning given in point 3 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as last amended by Regulation (EU) 2017/745 of the European Parliament and of the Council ;
+- “mass caterer” has the meaning given in Article 2(2)(d);
+- “means of distance communication” has the meaning given in Article 2(2)(u);
+- “offered for sale” has the same meaning as in Article 44;
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “prepacked food” has the meaning given in Article 2(2)(e);
+- “prepacked for direct sale” has the same meaning as in Article 2(2)(e); [^key-d61ac85b7d67d6d8a195292bab5dabcc]...
+- “ready for consumption” has the same meaning as in Article 2(2)(d); and[^key-af1ca62d839449af0d790c7a55535603]
+- ”Regulation 828/2014” means, subject to regulation 2(3) and Schedule 1, Commission Implementing Regulation (EU) No. 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food.[^key-edb16823a20e7ce03cea084d5b39e321]
+
+(2) In these Regulations, any reference to an Article is a reference to an Article of FIC and any reference to an Annex is a reference to an Annex to FIC.
+
+(3)[^key-3a0f496d3f738f11dbb98b130a021546] Any reference to FIC, or to Regulation 828/2014, or a provision of FIC (including a reference to an Article of, or Annex to, FIC to which paragraph (2) applies) or Regulation 828/2014, in a provision of these Regulations listed in Schedule 1 is a reference to that provision as amended from time to time.
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00008] applies to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Derogation relating to milk and milk products[^key-330e06061b212e2b90783ffd7482ab8b]
+
+The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or milk products presented in a glass bottle where the glass bottle is intended for reuse.
+
+## 4. Derogation relating to minced meat[^key-87dcd69921a7df6ac9f362e9a9d75bf4]
+
+(1) The requirements laid down in Annex VI, Part B, point 1, do not prevent minced meat that does not comply with those requirements being placed on the market using a minced meat designation if the national mark in Schedule 2, Part 1 appears on the labelling.
+
+(2) Schedule 2, Part 2 applies to the form of the national mark.
+
+(3) In paragraph (1)—
+
+- “on the labelling” has the same meaning as in Annex VI, Part B, point 2, as read with the definition of “labelling” in Article 2(2)(j);
+- “placed on the market” is to be construed taking into account the meaning of “placing on their national market” as used in Annex VI, Part B, point 3.
+
+## 5. Foods that are not prepacked etc. containing an allergenic substance or product etc.[^key-33857907b32c0bbb58df90b768459211]
+
+(1) A food business operator who offers for sale a relevant food to which this regulation applies may make available the particulars specified in Article 9(1)(c) (labelling of certain substances or products causing allergies or intolerances) in relation to that food by any means the operator chooses, including, subject to paragraph (3), orally.
+
+(2) This regulation applies to a relevant food that is offered for sale to a final consumer or to a mass caterer otherwise than by means of distance communication and is—
+
+- (a) not prepacked, or[^key-c1538a4cce4ded3c1815fb0a5c116e63]
+- (b) packed on the sales premises at the consumer’s request .[^key-5e776863435feb64a65bccab6fdc8135]
+- (c) [^key-69ec35d64a5c940941ed6e6e57549d3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a food business operator intends to make available the particulars specified in Article 9(1)(c) relating to a relevant food orally, and a substance or product listed in Annex II or derived from a substance or product listed in Annex II is used as an ingredient or processing aid in the manufacture or preparation of the food, the operator must indicate that details of that substance or product can be obtained by asking a member of staff.
+
+(4) The indication mentioned in paragraph (3) must be given—
+
+- (a) on a label attached to the food, or
+- (b) on a notice, menu, ticket or label that is readily discernible by an intending purchaser at the place where the intending purchaser chooses that food.
+
+(5) In relation to a relevant food to which this regulation applies, the Article 9(1)(c) particulars made available by a food business operator must be made available with a clear reference to the name of the substance or product listed in Annex II where—
+
+- (a) the relevant ingredient or processing aid is derived from a substance or product listed in Annex II, and
+- (b) the particulars are made available otherwise than by means provided for in FIC.
+
+(6) In this regulation “relevant food” means a food in which an ingredient or processing aid listed in Annex II, or derived from a substance or product listed in Annex II, has been used in its manufacture or preparation and that is still present in the finished product (even if in an altered form).
+
+## 5A. Foods that are prepacked for direct sale — duty to list ingredients[^key-5cf345101826b88a1fee14ddf7a0eb85]
+
+(1) A food business operator who offers for sale a food to which this regulation applies must provide directly on the package or on a label attached to the package the particulars required by the following—
+
+- (a) Article 9(1)(b) (List of ingredients) as read with—
+  - (i) Article 13(1) to (3), as read with any delegated acts made under Article 13(4),
+  - (ii) Article 15,
+  - (iii) Article 16(2), so far as it relates to the particulars required by Article 9(1)(b),
+  - (iv) Article 17, as read with Parts A and C of Annex VI and, in the case of an ingredient using a minced meat designation as a name, the following points of Part B of Annex VI—
+    - (aa) point 1, and
+    - (bb) point 3, as read with regulation 4 and Schedule 2,
+  - (v) Article 18 as read with Annex VII and paragraph (1)(a)(iv) of this regulation,
+  - (vi) Article 19(1), as read with any delegated acts made under Article 19(2), and
+  - (vii) Article 20;
+- (b) Article 9(1)(c) (Labelling of certain substances or products causing allergies or intolerances) as read with Article 21(1) and Annex II.
+
+(2) This regulation applies to a food that—
+
+- (a) is offered for sale to a final consumer or to a mass caterer otherwise than by means of distance communication; and
+- (b) is prepacked for direct sale.
+
+## 6. Foods that are not prepacked etc. – general requirement to name them[^key-87e843092a202c59e47e75c65c5d7620]
+
+(1) A food business operator who offers for sale a food to which this regulation applies must provide the particulars required by Article 9(1)(a) (the name of the food) as read with—
+
+- (a) Article 17(1) to (4), and
+- (b) in the case of food offered for sale using a minced meat designation as a name—
+  - (i) Article 17(5) and Annex VI, Part B, point 1 and
+  - (ii) Annex VI, Part B, point 3, as read with regulation 4 and Schedule 2.
+
+(2) This regulation applies to a food that is offered for sale to a final consumer or a mass caterer and is—
+
+- (a) not prepacked, or[^key-6e41b12955e709ac3f0ac56510f4f554]
+- (b) packed on the sales premises at the consumer’s request .[^key-dcce0ef53baeb8693f7ca1b8c1d91d78]
+- (c)[^key-7c52cf123dec26653d0530165eb910d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This regulation does not apply to a food prepared to be ready for consumption by a final consumer that is offered for sale to a final consumer by a mass caterer (whether at a mass catering establishment where sales are made in person to a final consumer or by means of distance communication) as part of their business as a mass caterer.
+
+(4) The particulars must appear —
+
+- (a) on a label attached to the food; or
+- (b) on a notice, ticket or label that is readily discernible by an intending purchaser at the place where the intending purchaser chooses that food.
+
+(5) Paragraph (4) does not apply in the case of an offer for sale made by means of distance communication.
+
+## 6A. Foods that are prepacked for direct sale – general requirement to name them[^key-b1fc0b2c0d323951aa8d97abb147bac1]
+
+(1) A food business operator who offers for sale a food to which this regulation applies must provide the particulars required by Article 9(1)(a) (the name of the food) as read with—
+
+- (a) Article 17(1) to (4),
+- (b) Part A of Annex VI; and
+- (c) in the case of food offered for sale using a minced meat designation as a name –
+  - (i) Article 17(5),
+  - (ii) and point 1 of Part B of Annex VI, and
+  - (iii) point 3 of Part B of Annex VI as read with regulation 4 and Schedule 2.
+
+(2) This regulation applies to a food that—
+
+- (a) is offered for sale to a final consumer or to a mass caterer; and
+- (b) is prepacked for direct sale.
+
+(3) The particulars in paragraph (1) must be provided directly on the package or a label attached to the package, except in the case of an offer for sale made by means of distance communication.
+
+## 7. Foods that are not prepacked etc. containing meat and other ingredients[^key-6afdec4a218ff95e43550bedcb9383f3]
+
+(1) A food business operator who offers for sale a food to which this regulation applies must provide the particulars required by Article 9(1)(d) (quantity of certain ingredients), as read with Article 22 and Annex VIII, in respect of the ingredients in the food that are meat.
+
+(2) This regulation applies to a food (other than a food specified in Schedule 3) that is offered for sale to a final consumer or a mass caterer, contains meat and any other ingredient and is—
+
+- (a) not prepacked,
+- (b) packed on the sales premises at the consumer’s request, or
+- (c) prepacked for direct sale.
+
+(3) This regulation does not apply to a food prepared to be ready for consumption by a final consumer that is offered for sale to a final consumer by a mass caterer (whether at a mass catering establishment where sales are made in person to a final consumer or by means of distance communication) as part of their business as a mass caterer.
+
+(4) The quantity of meat specified in the particulars mentioned in paragraph (1) is to be determined taking into account the provisions relating to total fat and connective tissue content in Annex VII, Part B, point 17, including any downward adjustment needed in a case where the total fat and connective tissue content in the food exceeds the values indicated in the table in that point.
+
+(5) The particulars must appear—
+
+- (a) on a label attached to the food, or
+- (b) on a notice, ticket or label that is readily discernible by an intending purchaser at the place where the intending purchaser chooses that food.
+
+(6) Paragraph (5) does not apply in the case of an offer for sale made by means of distance communication.
+
+(7) In this regulation—
+
+- “meat” means the skeletal muscles of mammalian and bird species recognised as fit for human consumption with naturally included or adherent tissue but does not include mechanically separated meat;
+- “mechanically separated meat” has the meaning given in Annex I, point 1.14, to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)[^f00009] of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin as last amended by Commission Regulation (EU) 2017/1981[^key-4a58258ad45ba6ba0587be396601b405] .
+
+## 8. Irradiated foods[^key-39c9b96d75fb474938d9f687c4b390c5]
+
+(1) Any person who places on the market, in bulk, a product to which this paragraph applies must ensure that the relevant indication appears, together with the name of the product, on a display or notice above or beside the container in which the products are placed on the market.
+
+(2) Paragraph (1) applies to—
+
+- (a) a product intended for the ultimate consumer or mass caterers that has been treated with ionising radiation, and
+- (b) a product intended for the ultimate consumer or mass caterers that contains an ingredient that has been treated with ionising radiation.
+
+(3) Any person who places on the market a product to which this paragraph applies must ensure that the relevant indication appears in the list of ingredients of that product to indicate the ingredient that has been irradiated.
+
+(4) Paragraph (3) applies to a product intended for the ultimate consumer or mass caterers—
+
+- (a) containing a compound ingredient in a case where an ingredient of that compound ingredient has been treated with ionising radiation, and
+- (b) to which, in relation to that compound ingredient, the provisions of Annex VII, Part E, point 2 (setting out cases where a list of ingredients for compound ingredients is not compulsory) would, but for the requirement in paragraph (3), apply.
+
+(5) The relevant indication is the word “irradiated” or the words “treated with ionising radiation”.
+
+(6) This regulation does not apply to—
+
+- (a) a product exposed to ionising radiation generated by measuring or inspection devices, provided the dose absorbed is not greater than 0.01 Gy for inspection devices which utilise neutrons and 0.5 Gy in other cases, at a maximum radiation energy level of 10 MeV in the case of X-rays, 14 MeV in the case of neutrons and 5 MeV in other cases, or
+- (b) a product which is prepared for patients requiring sterile diets under medical supervision.
+
+(7) In this regulation—
+
+- “in bulk” has the same meaning as in the second subparagraph of Article 6(1)(a) of Directive 1999/2/EC;
+- “ionising radiation” has the same meaning as in Directive 1999/2/EC;
+- “places on the market” is to be construed taking into account the meaning of “placed on the market” as used in Article 2 of Directive 1999/2/EC; and
+- “product” has the same meaning as in Directive 1999/2/EC.
+
+## 9. Enforcement[^key-eeb7c0aa0ec0ac0c806cde816feb3b67]
+
+It is the duty of each district council within its district to enforce these Regulations.
+
+## 10. Offences[^key-291e6912c426a39f250328ee89ba22aa]
+
+(1) A person is guilty of an offence if the person fails to comply with—
+
+- (a) any provision of FIC specified in paragraph (2), as read with Articles 1(3) and 6 and the first subparagraph of Article 54(1);
+- (b) any provision of Regulation 828/2014 specified in paragraph (3); [^key-07dcd42495fddc678312f949cd756bf8]...
+- (c) regulation 5(5) or[^key-11db65ae49beb3e5d6e055a96a16c3e6]
+- (d)[^key-8da46c9339af7278cf88202cef9d1662] regulation 5A(1)(b).
+
+(2) The provisions of FIC are—
+
+- (a) Article 9(1)(c), as also read with Annex II;
+- (b) Article 21(1)(a), as also read with Articles 9(1)(c) and 18(1) and Annex II;
+- (c) the second subparagraph of Article 21(1), as also read with Articles 9(1)(c) and 19(1) and Annex II; and
+- (d) Article 44(1)(a), as also read with Article 9(1)(c) and regulation 5.
+
+(3) The provisions of Regulation 828/2014 are—
+
+- (a) Article 3(1) as read with Article 1(3), 6, 7, 36 (1) and (2) of FIC and Article 2, 3(2) and (3) and the Annex; and
+- (b) Article 4 as read with Article 2.
+
+## 11. Penalty[^key-26ecfcc6620daf91139d44b7b6eced0f]
+
+A person guilty of an offence under regulation 10 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 12. Application of provisions of the Order[^key-d35c0682c54c05ccc339680e5d9db2b9][^key-7489065f14696abef339ad86d51b0a8c]
+
+(1) Article 9(1) and (2) of the Order (improvement notices) apply, with the modification (in the case of Article 9(1)) specified in Schedule 4, Part 1 for the purposes of—
+
+- (a) enabling an improvement notice to be served on a person requiring the person to comply with any of the following provisions—
+  - (i)[^key-65d42a9b76e2889f0a127e0e6ece294c] a provision of FIC or Regulation 828/2014 specified in Schedule 5, to the extent provided for in Article 9 of the Order as applied by paragraph (1) and modified by Schedule 4 Part 1;
+  - (ii) regulation 5(3), (4) or (5);
+  - (iia)[^key-62cc1704beb2bc86c335d00e367d1513] regulation 5A(1);
+  - (iii) regulation 6(1) or (4);
+  - (iiia)[^key-b9d77fdb64010341582acc0b3501e4a6] regulation 6A(1) or (3);
+  - (iv) regulation 7(1), (4) or (5); or
+  - (v) regulation 8(1) or (3); and
+- (b) making the failure to comply with a notice referred to in subparagraph (a) an offence.
+
+(2) Article 33 of the Order (powers of entry) applies, with the modifications (in the case of Article 33(1)) specified in Schedule 4, Part 2 for the purpose of enabling an authorised officer—
+
+- (a) to exercise a power of entry to ascertain whether there is, or has been, any contravention of a provision of FIC or Regulation 828/2014.[^key-9837b694c751753ba2003beaf6ef718b] specified in Schedule 5, to the extent provided for in Article 33(1)(a) as applied by this paragraph and modified by Schedule 4, Part 2;
+- (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of such a provision; and
+- (c) when exercising a power of entry under Article 33, as applied by this paragraph, to exercise the powers in paragraphs (6) and (7) relating to records.
+
+(3) Article 37 (appeals) and Article 38 (appeals against improvement notices) of the Order apply, with the modifications specified in Schedule 4, Part 3 for the purpose of enabling a decision to serve a notice referred to in paragraph (1)(a) to be appealed.
+
+(4) The provisions of the Order specified in column 1 of the table in Schedule 4, Part 4 apply, with the modifications specified in column 2 of that Part, for the purposes of these Regulations.
+
+(5) Paragraphs (1) to (3) are without prejudice to the application of Articles 9, 33, 37 and 38 of the Order to these Regulations for purposes other than those specified in those paragraphs.
+
+(6) In this regulation “authorised officer” has the same meaning as in Article 2(2)(a) of the Order.
+
+## 13. Revocations[^key-44890fc8b0fc16e955709c97cbc9968c]
+
+The Regulations listed in Schedule 6 are revoked to the extent specified.
+
+## 14. Consequential and other amendments[^key-8903a52c8325fbb13dd0017515fb4b0c]
+
+Schedule 7 has effect.
+
+Sealed with the official seal of the Department of Health, Social Services and Public Safety on 21st August 2014.
+
+Julie Thompson
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — Provisions of these Regulations that contain ambulatory references to FIC or Regulation 828/2014 by virtue of regulation 2(3)[^key-a4b92b7ddb131b6901c0f21d1acfe00c][^key-4c16b50b18a75515fa0a5cd095b5df77]
+
+Regulation 2(3)
+
+[^key-a4b92b7ddb131b6901c0f21d1acfe00c]
+
+- Regulation 2(1) except for the definition of “FIC” and “Regulation 828/2014”[^key-2b7a327bf86871f2ca18d5532596cdb5]
+- Regulation 3
+- Regulation 4(1) and (3)
+- Regulation 5(1), (3), (5) and (6)
+- Regulation 5A(1)[^key-d8de25d49bb96112497e54ef26615fe6]
+- Regulation 6(1)
+- Regulation 6A(1)
+- Regulation 7(1) and (4)
+- Regulation 8(4)(b)
+- Regulation 10
+- Schedule 2, Part 2, paragraph 3
+- Schedule 5
+
+## SCHEDULE 2 — National Mark for derogation relating to minced meat
+
+Regulation 4
+
+### PART 1 — The national mark[^key-61de033faece48c98a054eb235591868]
+
+### PART 2 — Specifications for the national mark
+
+**1.**[^key-821a780c96a9c4ea38ad00881f2098ae] Any type of font may be used for the national mark so long as it is clearly legible.
+
+**2.**[^key-8feb007c305fb264a1d12ab9dd986355] Any colour font may be used for the national mark so long as it is easily visible.
+
+**3.**[^key-459c0669f10fd078b4fad1b41be62a54] In the case of prepacked food, the font size used for the national mark must not be smaller than—
+
+- (a) in the case of a package or container of a size to which Article 13(3) applies, the font size required for mandatory particulars under Article 13(3), and
+- (b) in the case of any other package or container, the font size required for mandatory particulars under Article 13(2).
+
+## SCHEDULE 3 — Foods to which regulation 7 does not apply
+
+Regulation 7
+
+**1.**[^key-70f1c5a06d0b5263cfabccede1536a45] Raw meat to which no ingredient other than proteolytic enzymes has been added.
+
+**2.**[^key-665d873b0901c285883b7c2fc96f2e95] Frozen and quick-frozen chicken to which Article 15 of [Commission Regulation (EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543)[^f00010] laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat applies and the water content of which does not exceed the technically unavoidable values determined as provided for in that Article.
+
+**3.**[^key-a1b014d7cf25c4e5149746c4b4c66d6e] Fresh, frozen and quick-frozen poultry cuts to which Article 20 of [Commission Regulation (EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat as last amended by[^key-c9d02de9a3021be92c8ab3aad57c2aa5] [Commission Regulation (EU) No 519/2013](https://www.legislation.gov.uk/european/regulation/2013/0519) applies and the water content of which does not exceed the technically unavoidable values determined as provided for in that Article.
+
+**4.**[^key-e169fce7d05d53ed2c8f4088f6d5c8c7] Sandwiches, filled rolls and filled products of a similar nature to sandwiches and filled rolls, which are ready for consumption without further processing, except for products containing meat which are sold under the name (whether or not qualified by other words) “burger”, “economy burger” or “hamburger”.
+
+**5.**[^key-ea2d8accba7e116e76fe5b8c2172173a] Pizzas and similar topped products.
+
+**6.**[^key-24ad89089bfd2888e43c64142ff6bbfa] Any food for which the name is “broth”, “gravy” or “soup”, whether or not qualified by other words.
+
+**7.**[^key-ce89aac983798214b350207717df5a4a] A food consisting of an assemblage of two or more ingredients that has not been subjected to any processing or treatment once it has been assembled, and which is sold to the final consumer as an individual portion intended to be consumed without further processing or treatment.
+
+## SCHEDULE 4 — Application and modification of provisions of the Order
+
+Regulation 12
+
+### PART 1 — Modification of Article 9(1)
+
+**1.**[^key-b75e4e60be3a88a906726ebcbe7b973e][^key-102de657d36513b3da750fbde74fa8b7] For Article 9(1) (improvement notices), substitute—
+
+> (1) If an authorised officer has reasonable grounds for believing that a person is failing to comply with a provision specified in subparagraph (1A), the authorised officer may, by a notice served on that person (in this Order referred to as an improvement notice)—
+>
+> - (a) state the officer’s grounds for believing that the person is failing to comply with the relevant provision;
+> - (b) specify the matters which constitute the person’s failure so to comply;
+> - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+> - (d) require the person to take those measures, or measures that are at least equivalent to them, within such period as may be specified in the notice.
+>
+> (1A) The provisions are—
+>
+> - (a) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers specified in entry 1, 3, 5 to 11, 23 to 27, 29, 31 or 66 of the table in Schedule 5, Part 2 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provisions apply to the mandatory particular relating to net quantity required by Article 9(1)(e) of Regulation (EU) No 1169/2011, as read with Article 23 of, and Annex IX to, that Regulation;
+> - (b) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in entry 2, 67 or 68 of the table in Schedule 5, Part 2 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to food information relating to quantity;
+> - (c) any other provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in Schedule 5 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations);
+> - (d) any of the following provisions of the Food Information Regulations (Northern Ireland) 2014—
+>   - (i) regulation 5(3), (4) or (5);
+>   - (ia)[^key-692ed9097004ddbd62dd864b879fc005] regulation 5A(1);
+>   - (ii) regulation 6(1) or (4);
+>   - (iia)[^key-81b2910294654f28c05278e89f7b6302] regulation 6A(1) and (3);
+>   - (iii) regulation 7(1) , (4) or (5); or
+>   - (iv) regulation 8(1) or (3); or
+> - (e) a provision of Commission Implementing Regulation (EU) No 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food specified in the table in Schedule 5, Part 4 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations).
+
+.
+
+### PART 2 — Modification of Article 33(1)
+
+**1.**[^key-ce2d251485545a0ecdd966029cd8cc6a][^key-c11967f11985059d08dcb8750de32aab] In Article 33(1) for subparagraphs (a) to (c) (powers of entry) substitute—
+
+> - (a) to enter any premises within the council’s district for the purpose of ascertaining whether there is or has been on the premises any contravention of—
+>   - (i) a provision of Regulation (EU) No 1169/2011 of the European Parliament of the Council on the provision of food information to consumers specified in entry 1, 3, 5 to 11, 23 to 27, 29, 31 or 66 of the table in Schedule 5, Part 2 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to the mandatory particular relating to net quantity required by Article 9(1)(e) of Regulation (EU) No 1169/2011, as read with Article 23 of, and Annex IX to, that Regulation;
+>   - (ii) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in entry 2, 67 or 68 of the table in Schedule 5, Part 2 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to food information relating to quantity; and
+>   - (iii) any other provision of Regulation (EU) 1169/2011 of the European Parliament and of the Council or Regulation (EU) No 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food specified in Schedule 5 to the Food Information Regulations (Northern Ireland) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations); and
+> - (b) to enter any business premises, whether within or outside of the council’s district, for the purpose of ascertaining whether there is on the premises any evidence of any contravention within that area of any such provisions;
+
+.
+
+### PART 3 — Modification of Article 37 and 38
+
+**1.**[^key-4f6274ab7f5b690fb97f5873f9f84a5e] For Article 37(1) (appeals), substitute—
+
+> (1) Any person who is aggrieved by a decision of an authorised officer to serve an improvement notice under Article 9(1), as applied and modified by regulation 12(1) of, and Schedule 4, Part 1 to, the Food Information Regulations (Northern Ireland) 2014, may appeal to a court of summary jurisdiction.
+
+.
+
+**2.**[^key-aa1ee0814bba2b5014ea5b92fb5a040e] In Article 37(2A)(b) for “(1)(a)” substitute “(1) as applied and modified by regulation 12(1) of and Schedule 4, Part 1 to, the Food Information Regulations (Northern Ireland) 2014,”.
+
+**3.**[^key-ade4b2edf92cd2a4d0df64e27753ede0] In both Article 38(1) and (2) (appeals against improvement notices), after “improvement notice” insert “under Article 9(1) as applied and modified by regulation 12(1) of, and Schedule 4, Part 1 to, the Food Information Regulations (Northern Ireland) 2014”.
+
+### PART 4 — Application and modification of other provisions of the Order[^key-6525731b9dc9bd0abc84bee64fd4b9c0]
+
+| *Column 1*<br>*Provision of the Order* | *Column 2*<br>*Modifications* |
+| --- | --- |
+| Article 4 (presumptions that food intended for human consumption) | For “this Order” substitute The Food Information Regulations (Northern Ireland) 2014” |
+| Article 19 (offences due to fault of another person) | For “any of the preceding provisions of this Part” substitute “Article 9(2), as applied by regulation 12(1) of the Food Information Regulations (Northern Ireland) 2014, or regulation 10 of those Regulations”. |
+| Article 20 (defence of due diligence) | In paragraph (1), for “any of the preceding provisions of this Part” substitute “Article 9(2), as applied by regulation 12(1) of the Food Information Regulations (Northern Ireland) 2014, or regulation 10 of those Regulations.”.<br>In paragraph (2) for “Article 13 or 14” substitute “regulation 10 of the Food Information Regulations (Northern Ireland) 2014” |
+| Article 21 (defence of publication in the course of business) | For “any of the preceding provisions of this Part” substitute “regulation 10 of the Food Information Regulations (Northern Ireland) 2014”. |
+| Article 29 (procurement of samples) | In paragraph (b)(ii) after “under Article 33” insert “ including under Article 33, as applied and modified by regulation 12(2) of, Schedule 4, Part 2 to, the Food Information Regulations (Northern Ireland) 2014”. |
+| Article 30(8) (which relates to documentary evidence) | For “this Order” substitute “the Food Information Regulations (Northern Ireland) 2014”. |
+| Article 34 (obstruction etc. of officers) | In paragraph (1), for “this Order” (in each place occurring) substitute “the Food Information Regulations (Northern Ireland) 2014”. |
+| Article 36(1) and (2) (punishment of offences) | In paragraph (1), after “Article 34(1)”, insert “, as applied and modified by regulation 12(4) of, and Schedule 4, Part 4 to, the Food Information Regulations (Northern Ireland) 2014,”.<br>After paragraph (1), insert—<br>> (1A) A person guilty of an offence under Article 9(2), as applied by regulation 12(1) of the Food Information Regulations (Northern Ireland) 2014, shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.<br>.<br>In paragraph (2)—<br>- (a) for “any other offence under this Order”, substitute “an offence under Article 34(2), as applied by regulation 12(4), of and Schedule 4, Part 4 to, the Food Information Regulations (Northern Ireland) 2014,”; and<br>- (b) in subparagraph(b), for “the relevant amount”, substitute “the statutory maximum”. |
+|  |  |
+
+## SCHEDULE 5 — Improvement notices – specified provisions[^key-bdb303a5516b55351a5b440f778230c0]
+
+Regulation 12
+
+### PART 1 — FIC provision in relation to which an improvement notice may be served on and from 19th September 2014[^key-134180b8cf5bc5d16c8011d17c2fb7a6]
+
+| Provision of FIC | Provisions to be read with the provision of FIC |
+| --- | --- |
+| Article 17(5), so far as it applies to the requirements in Part B of Annex VI concerning the designation “minced meat” (requirements concerning the designation “minced meat” and the particulars that must accompany it) | Articles 1(3) and 6 and the third subparagraph of Article 54(1), the second subparagraph of Article 55, Part B of Annex VI, regulation 4 and Schedule 2 |
+
+### PART 2 — FIC provisions in relation to which improvement notices may be served on and from 13th December 2014[^key-730dacc41bce66e70156963cf4c2f925]
+
+| No. | Provision of FIC | Provisions to be read with the provisions of FIC |
+| --- | --- | --- |
+| 1\. | Article 6 (basic requirement for food information to accompany food) | Articles 1(3) and 30(2) and (3), the first subparagraph of Article 54(1) and the other Articles of FIC listed in column 1, as appropriate |
+| 2\. | Article 7(1) (prohibition on misleading information) | Articles 1(3), 6 and 7(4) and the first subparagraph of Article 54(1) |
+| 3\. | Article 7(2) (requirement for accurate, clear and easy to understand information) | Articles 1(3), 6 and 7(4) and the first subparagraph of Article 54(1) |
+| 4\. | Article 7(3) (prohibition on food information attributing health benefits to any food subject to certain derogations) | Articles 1(3), 6 and 7(4) and the first subparagraph of Article 54(1) |
+| 5\. | Article 8(2) (requirement for a food business operator to ensure the presence and accuracy of food information) | Articles 1(3,) 6 and 8(1) and the first subparagraph of Article 54(1) |
+| 6\. | Article 8(3) (requirement for a food business operator not to supply non-compliant food) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 7\. | Article 8(4) (restrictions on the modification of information accompanying a food) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 8\. | Article 8(5) (obligation to ensure and verify compliance with food information law etc.) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 9\. | Article 8(6) (requirement to transmit information relating to non-prepacked foods) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 10\. | Article 8(7) (requirement relating to the mandatory particulars required by Articles 9 and 10) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 11\. | Article 8(8) (requirement for a food business operator to provide sufficient information to other food business operators) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 12\. | Article 9(1)(a) (mandatory indication relating to the name of the food) | Articles 1(3), 6, 9(2), 16(1) and (2), 17, 22(1)(a) and 40, the first subparagraph of Article 54(1), Annex VI and regulation 3 |
+| 13\. | Article 9(1)(b) (mandatory indication relating to the list of ingredients) | Articles 1(3), 6, 9(2), 11 and 16(1) and (2), the first subparagraph of Article 16(4), Articles 18, 19(1), 20 and 40, the first subparagraph of Article 54(1), Annexes VI and VII and regulation 3 |
+| 14\. | Article 9(1)(c) (mandatory indication relating to ingredients and processing aids causing allergies or intolerances) | Articles 1(3), 6, 9(2), 11, 16(1) and (2), 18(1), 21(1) and 40, the first subparagraph of Article 54(1), Annex II and regulation 3 |
+| 15\. | Article 9(1)(d) (mandatory indication relating to the quantity of certain ingredients or categories of ingredients) | Articles 1(3), 6, 9(2), 11, 16(1) and (2), 22 and 40, the first subparagraph of Article 54(1), Annex VIII and regulation 3 |
+| 16\. | Article 9(1)(f) (mandatory indication relating to date of minimum durability or the “use by” date) | Articles 1(3), 6, 9(2), 16(1) and (2), 24 and 40, the first subparagraph of Article 54(1), points 1 and 2 of Annex X and regulation 3 |
+| 17\. | Article 9(1)(g) (mandatory indication relating to any special storage conditions, the conditions of use, or both) | Articles 1(3), 6, 9(2), 16(1) and (2), 25 and 40, the first subparagraph of Article 54(1) and regulation 3 |
+| 18\. | Article 9(1)(h) (mandatory indication relating to the name or business name and address of the food business operator) | Articles 1(3), 6, 8(1), 9(2), 16(1) and (2) and 40, the first subparagraph of Article 54(1) and regulation 3 |
+| 19\. | Article 9(1)(i) (mandatory indication relating to country of origin or place of provenance) | Articles 1(3), 6, 9(2), 16(1) and (2), 26(1) and (2) and 40, the first subparagraph of Article 54(1) and regulation 3 |
+| 20\. | Article 9(1)(j) (mandatory indication relating to instructions for use) | Articles 1(3), 6, 9(2), 16(1) and (2), 27 and 40, the first subparagraph of Article 54(1) and regulation 3 |
+| 21\. | Article 9(1)(k) (mandatory indication relating to the actual alcoholic strength of beverages containing more than 1.2% by volume of alcohol) | Articles 1(3), 6, 9(2), 11, 16(1) and (2) and 28, the first subparagraph of Article 54(1) and Annex XII |
+| 22\. | Article 10(1) (additional mandatory particulars for specific types of food) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex III |
+| 23\. | Article 12(1) (availability and placement of mandatory food information) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Article 12(2) for pre-packed foods, Articles 12(5) and 44 for non-prepacked foods and Articles 14 and 44 for foods offered for sale by means of distance communication |
+| 24\. | Article 12(2) (general requirement for mandatory food information to appear directly on the package or on a label attached to prepacked food) | Articles 1(3), 6 and 12(1) and the first subparagraph of Article 54(1) |
+| 25\. | Article 13(1) (general requirement for the presentation of mandatory particulars) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and, in the case of foods that are not prepacked etc. containing an allergenic substance or product etc., regulation 5 |
+| 26\. | Article 13(2) (requirement relating to the presentation of mandatory particulars referred to in Article 9(1)(a) to (l)) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex IV, and, in relation to Article 13(2) as it applies to the presentation of a mandatory nutrition declaration, the second subparagraph of Article 55 and point 4(b) of Article 2 of Council Directive[^key-29cb2917b80906ed9073a14ce1fbb02d] [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey as last amended by[^key-fe3b5d9d180c5a0166d7a8147e56bb8d] [Directive 2014/63/EU](https://www.legislation.gov.uk/european/directive/2014/0063) of the European Parliament and of the Council |
+| 27\. | Article 13(3) (font size of mandatory particulars on smaller packages) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) and point 4(b) of Article 2 of Council Directive[^key-6cf2c8ba11ba96be83f860191cb45f6a] [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) |
+| 28\. | Article 13(5) (field of vision requirements) | Articles 1(3), 6, 13(6) and 16(1) and (2) and the first subparagraph of Article 54(1) |
+| 29\. | Article 14(1) (distance selling of prepacked foods) | Articles 1(3), 6, 9 and 14(3) and the first subparagraph of Article 54(1) |
+| 30\. | Article 14(2) (distance selling of non-prepacked foods) | Articles 1(3), 6, 14(1) and 42 and the first subparagraph of Article 54(1) |
+| 31\. | Article 15(1) (language requirements) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 32\. | Article 17(1) (name of food) | Articles 1(3), 6 and 9(1), the first subparagraph of Article 54(1), regulation 4 and Schedule 2 |
+| 33\. | Article 17(2) (use of the name used for food in member State of production in another member State: need for other descriptive information in addition to the name of the food in certain cases) | Articles 1(3), 6, 9(1) and 17(1) and the first subparagraph of Article 54(1) |
+| 34\. | Article 17(3) (prohibition in certain exceptional cases of the use of a name used for a food in a member State of production when marketing that food in another member State) | Articles 1(3), 6, 9(1) and 17(1) and (2) and the first subparagraph of Article 54(1) |
+| 35\. | Article 17(4) (prohibition against replacing the name of a food with another name) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 36\. | Article 17(5) (requirements on the name of a food and particulars that must accompany it) except so far as it applies to the specific requirements in Part B of Annex VI concerning the designation “minced meat” | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex VI |
+| 37\. | Article 18(1) (list of ingredient requirements) | Articles 1(3), 6, 18(4), 19(1) and 20, the first subparagraph of Article 54(1), Annex VII, regulation 8 and the first subparagraph of paragraph 5 of Article 3 of Council Directive [2001/112/EC](https://www.legislation.gov.uk/european/directive/2001/0112) relating to fruit juices and certain similar products intended for human consumption as last amended by Commission Delegated Regulation (EU) No 1040/2014[^key-ae5e1a4df65b01240b2fb8ce8350203c] [^f00011] |
+| 38\. | Article 18(2) (requirement to designate ingredients by their specific name) | Articles 1(3), 6, 17, 18(4) and 19(1), the first subparagraph of Article 54(1) and Annexes VI and VII |
+| 39\. | Article 18(3) (requirement relating to nanomaterial ingredients) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 40\. | Article 21(1) (requirements relating to certain substances or products that cause an allergy or intolerance) | Articles 1(3), 6, 9(1)(c) and 18(1), the first subparagraph of Article 54(1), Annex II and, in the case of foods that are not prepacked etc. containing an allergenic substance or product etc., regulation 5 |
+| 41\. | Article 22(1) (requirement relating to the need to provide a quantitative indication of an ingredient) | Articles 1(3), 6 and 22(2), the first subparagraph of Article 54(1) and Annex VIII |
+| 42\. | Article 22(2) (technical rules for quantitative indication of ingredients) | Articles 1(3), 6 and 22(1), the first subparagraph of Article 54(1) and Annex VIII |
+| 43\. | Article 24(1), first sentence (requirement relating to “use by” dates) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 44\. | Article 24(2) (requirement to express minimum durability date, “use by” date and date of freezing in a particular way) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex X |
+| 45\. | Article 25(1) (requirement for special storage conditions or conditions for use, or both, to be indicated on food) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 46\. | Article 25(2) (requirement to indicate appropriate storage conditions or time within which food should be consumed after the packaging containing the food is opened or both) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 47\. | Article 26(2)(a) (requirement for a mandatory indication relating to country of origin or place of provenance in certain cases) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex XI |
+| 48\. | Article 27(1) (instructions for use indication) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 49\. | Article 28(2) (alcoholic strength by volume indication for beverages containing more than 1.2% volume of alcohol) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex XII |
+| 50\. | Article 30(1) (content of mandatory nutrition declaration) | Articles 1(3), 6, 29, 31(1) (as read with Annex XIV) and 31(3), the first subparagraph of Article 31(4), Articles 32(1) (as read with Annex XV), 32(2), 33(1) and 35(1) and the first subparagraph of Article 54(1) |
+| 51\. | Article 31(1) (conversion factors to be used for calculation of energy value) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex XIV |
+| 52\. | Article 31(3), first subparagraph (requirement for energy value and amounts of nutrients to be those of the foods as sold except as provided for in the second subparagraph of Article 31(3)) | Articles 1(3), 6 and 30(1) to (5) and the first subparagraph of Article 54(1) |
+| 53\. | Article 31(4), first subparagraph (requirement for declared values to be average values based on a methodology set out in the first subparagraph of Article 31(4)) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 54\. | Article 32(1) (requirement to use the measurement units listed in Annex XV for energy value and amount of nutrients) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex XV |
+| 55\. | Article 32(2) (energy value and amount of nutrients to be expressed per 100 grams or per 100 millilitres) | Articles 1(3), 6, 33(1), (2) and (3), the first subparagraph of Article 54(1) and Part B of Annex XIII |
+| 56\. | Article 32(3) (declaration relating to vitamins and minerals also to be expressed as a percentage of reference intakes) | Articles 1(3), 6 and 30(2)(f), the first subparagraph of Article 54(1) and Part A of Annex XIII |
+| 57\. | Article 32(5) (requirement for additional statement relating to the reference intake of an average adult) | Articles 1(3), 6 and 32(4) (as read with Part B of Annex XIII) and the first subparagraph of Article 54(1) |
+| 58\. | Article 33(1) (requirements in cases where energy value and amount of nutrients may be expressed per portion, per consumption unit, or both per portion and per consumption unit, in addition to, or instead of, per 100 grams or per 100 millilitres) | Articles 1(3), 6 and 32(2), (3) and (4) and the first subparagraph of Article 54(1) |
+| 59\. | Article 33(2), second subparagraph (requirement for energy value to be expressed both per 100 grams or per 100 millilitres and per portion or consumption unit where information on energy, fat, saturates, sugars and salt is repeated voluntarily in the principal field of vision, and the amounts of the nutrients are expressed on a per portion or per consumption unit basis only) | Articles 1(3), 6, 30(3)(b) and 32(2), the first subparagraph of Article 33(2) and the first subparagraph of Article 54(1) |
+| 60\. | Article 33(4) (requirement for the portion or unit used to be in close proximity to the nutrition declaration) | Articles 1(3), 6 and 33(1) and the first subparagraph of Article 54(1) |
+| 61\. | Article 34(1) (presentation of mandatory nutrition declaration and any supplementary information provided in accordance with Article 30(2) – field of vision, format and order of presentation) | Articles 1(3), 6 and 30(1) and (2), the first subparagraph of Article 54(1) and Annex XV |
+| 62\. | Article 34(2) (presentation of mandatory nutrition declaration and any supplementary information provided in accordance with Article 30(2) – format and alignment of numbers) | Articles 1(3), 6, and 30(1) and (2), the second subparagraph of Article 34(3), Article 34(4) and the first subparagraph of Article 54(1) |
+| 63\. | Article 34(3), first subparagraph (presentation of nutrition information in a case where certain mandatory nutrition information is repeated (on a voluntary basis) in accordance with Article 30(3)) | Articles 1(3), 6 and 30(3), the second subparagraph of Article 34(3) and the first subparagraph of Article 54(1) |
+| 64\. | Article 34(5), first subparagraph (requirement for indication of negligible energy value or amount of nutrients, where used, to be in close proximity to the nutrition declaration, when present) | Articles 1(3), 6 and 30(1) to (5) and the first subparagraph of Article 54(1) |
+| 65\. | Article 35(1) (requirements where additional forms of expression and presentation relating to energy value and the amount of nutrients are used) | Articles 1(3), 6, 7, 30(1) to (5), 32(2) and (4), 33 and 34(2), the first subparagraph of Article 54(1) and Annex VIII |
+| 66\. | Article 36(1) (requirements that voluntary information must comply with) | Articles 1(3) and 6, sections 2 and 3 of Chapter IV and the first subparagraph of Article 54(1) |
+| 67\. | Article 36(2) (additional requirements that voluntary information must comply with) | Articles 1(3), 6 and 7 and the first subparagraph of Article 54(1) |
+| 68\. | Article 37 (presentation of voluntary food information – space availability) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
+| 69\. | Article 44(1)(a) (provision of allergen information for non-packaged food) | Articles 1(3), 6 and 9(1)(c), the first subparagraph of Article 54(1) and regulation 5 |
+| 70\. | Article 54(2) (requirement to comply with provisions relating to content, calculation, expression and presentation when nutrition information is provided on a voluntary basis during the period on and from 13th December 2014 to and including 12th December 2016) | Articles 1(3), 6 and 29 to 35 |
+
+### PART 3 — FIC provision in relation to which improvement notices may be served on and from 13th December 2016[^key-7c7fea97075ee2e9fb9aaad130e7dc1f]
+
+| Provision of FIC | Provisions to be read with the provision of FIC |
+| --- | --- |
+| Article 9(1)(l) (mandatory nutrition declaration) | Articles 1(3), 6, 9(2), 11 and 16, section 3 of Chapter IV, Article 40, the second subparagraph of Article 54(1), the second subparagraph of Article 55, Annex V and regulation 3 |
+
+### PART 4 — Regulation 828/2014 provisions in relation to which improvement notices may be served on and from 20th July 2016[^key-c841618deba1f4e18e072995f9baae74]
+
+| Provision of Regulation 828/2014 | Provisions to be read with the provision of Regulation 828/2014 |
+| --- | --- |
+| Article 3(1)<br>Article 4 | Article 1(3), 6, 7, 36 (1) and (2) of FIC and Article 2, 3(2) and (3) and the Annex to Regulation 828/2014<br>Article 2 of Regulation 828/2014 |
+
+### Part 5 — FIC Provision in relation to which improvement notices may be served on and from 1 April 2020[^key-459ac8cfcfc7485c1196a616a4924263]
+
+| Provision of FIC | Provisions to be read with the provision of FIC |
+| --- | --- |
+| Article 26(3) (requirement for a mandatory indication relating to the country of origin or place of provenance of the primary ingredient in certain cases) | Articles 1(3) and 6 of FIC and Articles (2) (3) and (4) of Commission Implementing Regulation (EU) No 2018/775 as regards the rules for indicating the country of origin or place of provenance of the primary ingredient of a food. |
+
+## SCHEDULE 6 — Revocations
+
+Regulation 13
+
+### PART 1 — Revocations coming into operation on 13th December 2014[^key-50d6e8c305447b90611e78bfd8dfdea9]
+
+| No. | Regulations revoked | Extent of revocation |
+| --- | --- | --- |
+| 1\. | The Food Labelling Regulations (Northern Ireland) 1996[^f00012] | The whole Regulations except for—<br>- (a) Regulation 43;<br>- (b) In Schedule 8—<br>  - (i) the entries in Part I relating to the descriptions “alcohol-free”, “dealcoholised”, “low alcohol” (or any other word or description which implies that the drink being described is low in alcohol) and “non-alcoholic”;<br>  - (ii) Part II; and<br>  - (iii) Part III; and<br>- (c) The remainder of the Regulations for the purposes of the provisions specified in subparagraphs (a) and (b), including—<br>  - (i) in regulation 2(1), the definitions of “advertisement”, “cheese”, “clotted cream”, “cream”, “ingredient”, “labelling”, “milk”, “the Order”, “sell,” “semi-skimmed milk”, “skimmed milk” and “wine”;<br>  - (ii) regulation 3(1) and (3);<br>  - (iii) regulation 42;<br>  - (iv) regulation 44(1)(b);<br>  - (v) regulation 45;<br>  - (vi) regulation 48; and<br>  - (vii) regulation 50(1) |
+| 2\. | The Bread and Flour Regulations (Northern Ireland) 1998[^f00013] | Regulations 5(3) and 11 |
+| 3\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 1998[^f00014] | The whole Regulations except for regulations 2 and 11 |
+| 4\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 1999[^f00015] | The whole Regulations except for regulations 2 and 11 |
+| 5\. | The Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1999[^f00016] | In Regulation 14(1) omit “the Food Labelling Regulations (Northern Ireland) 1996” and regulation 14(3) |
+| 6\. | The Food Labelling (Amendment) (No. 2) Regulations (Northern Ireland) 1999[^f00017] | The whole Regulations |
+| 7\. | The Food Irradiation Provisions Regulations (Northern Ireland) 2000[^f00018] | The whole Regulations |
+| 8\. | The Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001[^f00019] | Regulation 6 and 11(1) and (2)(f) |
+| 9\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 2003[^f00020] | The whole Regulations |
+| 10\. | The Specified Sugar Products Regulations (Northern Ireland) 2003[^f00021] | Regulations 6 and 10(2) |
+| 11\. | The Cocoa and Chocolate Products Regulations (Northern Ireland) 2003[^f00022] | Regulations 7(1), 11(1) and (2)(f) |
+| [^key-b6c00fd1e7adba2492028207af90275e]. . . | [^key-b6c00fd1e7adba2492028207af90275e]. . . | [^key-b6c00fd1e7adba2492028207af90275e]. . . |
+| 13\. | The Food (Provisions Relating to Labelling) Regulations (Northern Ireland) 2003[^f00024] | The whole Regulations |
+| 14\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 2004[^f00025] | The whole Regulations |
+| 15\. | The Food Labelling (Amendment) (No. 2) Regulations (Northern Ireland) 2004[^f00026] | The whole Regulations |
+| 16\. | The Food with Added Phytosterols or Phytostanols (Labelling) Regulations (Northern Ireland) 2004[^f00027] | The whole Regulations |
+| 17\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 2005[^f00028] | The whole Regulations |
+| 18\. | The Food Hygiene Regulations (Northern Ireland) 2006[^f00029] | Schedule 7, paragraphs 12 to 14 |
+| 19\. | The Nutrition and Health Claims Regulations (Northern Ireland) 2007[^f00030] | Regulation 8 |
+| 20\. | The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2007[^f00031] | Regulation 22(2) and (3) |
+| 21\. | The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2008[^f00032] | The whole Regulations |
+| 22\. | The Drinking Milk Regulations (Northern Ireland) 2008[^f00033] | Regulation 9 |
+| 23\. | The Food Labelling (Nutrition Information) Regulations (Northern Ireland) 2009[^f00034] | The whole Regulations |
+| 24\. | The Food Enzymes Regulations (Northern Ireland) 2009[^f00035] | Regulation 7 |
+| 25\. | The Flavourings in Food Regulations (Northern Ireland) 2010[^f00036] | Regulation 7 |
+| 26\. | The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2011[^f00037] | The whole Regulations |
+| 27\. | The Food (Miscellaneous Amendment and Revocation) Regulations (Northern Ireland) 2013[^f00038] | The whole Regulations |
+| 28\. | The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013[^f00039] | Regulation 20 |
+| 29\. | The Fruit Juices and Fruit Nectars (Northern Ireland) Regulations 2013[^f00040] | Regulation 21 |
+| 30\. | The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014[^f00041] | Regulation 6(2)(b) to (d), (f), (h) and (i), 6(3) and (4) |
+
+### PART 2 — Revocations coming into operation on 13th December 2018[^key-a8e6040408ea01a575ae7cff6d0314a1]
+
+| No. | Regulations revoked | Extent of revocation |
+| --- | --- | --- |
+| The Food Labelling Regulations (Northern Ireland) 1996 | The whole Regulations |  |
+| 2\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 1998 | The whole Regulations |
+| 3\. | The Food Labelling (Amendment) Regulations (Northern Ireland) 1999 | The whole Regulations |
+| 4\. | The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 | Regulation 6 |
+
+## SCHEDULE 7 — Consequential and other amendments
+
+Regulation 14
+
+### PART 1 — Consequential and other amendments coming into operation on 19th September 2014
+
+#### 1. The Food Labelling Regulations (Northern Ireland) 1996[^key-001e0d525ae2abf6b1e380074331e906]
+
+(1) The Food Labelling Regulations (Northern Ireland) 1996 are amended in accordance with subparagraphs (2) to (4).
+
+(2) In regulation 2(1)(interpretation) of the Food Labelling Regulations (Northern Ireland) 1996 in the definition of “the additives regulations” omit the expression “the Food Additives Regulations (Northern Ireland) 2009”
+
+(3) In regulation 4(2) (scope of Part II), in each of subparagraphs (h), (i) and (j), for “[Commission Regulation (EC) No 607/2009](https://www.legislation.gov.uk/european/regulation/2009/0607)” to the end substitute “[Commission Regulation (EC) No 607/2009](https://www.legislation.gov.uk/european/regulation/2009/0607) laying down certain detailed rules for the implementation of Council Regulation [(EC) No 479/2008](https://www.legislation.gov.uk/european/regulation/2008/0479) as regards protected designations of origin and geographical indications, traditional terms, labelling and presentation of certain wine sector products;”[^f00042].
+
+(4) For regulation 41(4) (supplementary provisions relating to claims) substitute—
+
+> (4) Where nutrition labelling not being prescribed nutrition labelling is given, it must be given in the manner specified in paragraph (4A) or (4B).
+>
+> (4A) The nutrition labelling must be given in all respects as if it were prescribed nutrition labelling except that in applying the requirements for prescribed nutrition labelling described in Schedule 7, Part II of that Schedule shall be read as if—
+>
+> - (a) in paragraph 1, the words “or that is labelled as provided for in regulation 41(4B)” were inserted after the words “paragraph 2 applies”,
+> - (b) in paragraph (1)(a), the words from “provided that” to the end of that paragraph were omitted, and
+> - (c) paragraph 1(d) were omitted.
+>
+> (4B) The nutrition labelling must be given in accordance with Articles 29 to 35 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608).
+
+.
+
+#### 2. The Food (Lot Marking) Regulations (Northern Ireland) 1996[^key-f47dae945b0e94a79f304b93fe3375ef]
+
+(1) The Food (Lot Marking) Regulations (Northern Ireland) 1996[^f00043] are amended in accordance with subparagraphs (2) and (3).
+
+(2) In regulation 2 (interpretation) for the definition of “first seller established within the Community” substitute ““first seller established within the European Union” has the same meaning as in Directive 2011/91/EU of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs”.
+
+(3) In regulation 3(2)(a) for “Community” substitute “European Union”.
+
+#### 3. The Food with Added Phytosterols or Phytostanols (Labelling) Regulations (Northern Ireland) 2004[^key-b6736470c4e42aef5c224954e3b031df]
+
+In Regulation 2(1) (interpretation) of the Food with added Phytosterols or Phytostanols (Labelling) Regulations (Northern Ireland) 2004[^f00044] for the definition of “Regulation 608/2004” substitute—
+
+> - “Regulation 608/2004” means [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) concerning the labelling of foods and food ingredients with added phytosterols, phytosterol esters, phytostanols and/or phytostanol esters as amended by and as read with Commission Regulation (EU) No 718/2013 amending Regulation [(EC) No. 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+
+[^f00045].
+
+#### 4. The Addition of Vitamins, Minerals and other Substances Regulations (Northern Ireland) 2007[^key-750571c96003fb3479f9b5624d7227df]
+
+In regulation 4(2)(e) (offences and penalties) of the Addition of Vitamins, Minerals and other Substances Regulations (Northern Ireland) 2007[^f00046], after “have been added”, insert—
+
+> , as read with the first subparagraph of Article 54(3) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608)
+
+.
+
+#### 5. The Nutrition and Health Claims Regulations (Northern Ireland) 2007[^key-067b94e79b9ecd2d020277eef341b444]
+
+In regulation 5(2)(d) (offences and penalties) of the Nutrition and Health Claims Regulations (Northern Ireland) 2007, after “(requirements for nutrition information)”, insert—
+
+> , as read with the first subparagraph of Article 54(3) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608)
+
+.
+
+#### 6. The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013[^key-f0edc89fd0fddc0d44736190c9443bc9]
+
+Omit Regulation 20 of the Food Additives, Flavouring, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013[^f00047].
+
+### PART 2 — Consequential and other amendments coming into operation on 13th December 2014
+
+#### 1. The Food Labelling Regulations (Northern Ireland) 1996[^key-b87d4c0dd117995efa3d535d62725813]
+
+(1) The Food Labelling Regulations (Northern Ireland) 1996 are amended in accordance with subparagraphs (2) to (4).
+
+(2) In regulation 2(1)(interpretation), for the definition of “ingredient” substitute—
+
+> - “ingredient” has the meaning given in Article 2(2)(e) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as amended from time to time;
+
+.
+
+(3) In regulation 3 (exemptions), for paragraph (1) substitute—
+
+> (1) This regulation does not apply to a food that is brought into Northern Ireland from another part of the United Kingdom, an EEA State (other than the United Kingdom), a member State (other than the United Kingdom) or from the Republic of Turkey in which it was lawfully produced or marketed.
+
+.
+
+(4) In Schedule 8 (misleading descriptions), Part I—
+
+- (a) In the second column of the table for the entry relating to the description “alcohol-free”, for subparagraph (b) substitute—
+
+  > - (b) the drink is marked or labelled with—
+  >   - (i) an indication of its maximum alcoholic strength in a form comprising of the words “not more than” followed by a figure to not more than one decimal place indicating its maximum alcoholic strength and the symbol “% vol.” (required form 1), “alcohol % vol.” (required form 2), or “alc. % vol.” (required form 3), or
+  >   - (ii) in an appropriate case, an indication that it contains no alcohol.
+
+  ;
+- (b) In the second column of entry relating to the description “dealcoholised”, for subparagraph (b) substitute—
+
+  > - (b) the drink is marked or labelled with—
+  >   - (i) an indication of its maximum alcoholic strength in required form 1, 2 or 3, or
+  >   - (ii) in an appropriate case, an indication that it contains no alcohol.
+
+  ; and
+- (c) In the second column of entry relating to the description “low alcohol” (or any other word or description which implies that the drink being described is low in alcohol), for subparagraph (b) substitute—
+
+  > - (b) an indication of its maximum alcoholic strength in required form 1, 2 or 3.
+
+  .
+
+#### 2. The Food (Lot Marking) Regulations (Northern Ireland) 1996[^key-5dc7bf0c35836dfb43d7a7a697592c95]
+
+(1) The Food (Lot Marking) Regulations (Northern Ireland) 1996 are amended in accordance with subparagraphs (2) and (3).
+
+(2) For regulation 2(1) (interpretation) substitute—
+
+> **2.** In these Regulations—
+>
+> - “date of minimum durability” is to be construed taking into account the definition of “date of minimum durability of a food” in Article 2(2)(r) of Regulation (EU) No 1169/2011;
+> - “first seller established within the Community” has the same meaning as in Directive 2011/91/EU of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs;
+> - “food” means food, within the meaning of the Order, intended for sale for human consumption;
+> - “ice cream” has the same meaning as in Directive 2011/91/EU of the European Parliament and of the Council;
+> - “lot” means a batch of sales units of food produced, manufactured or packaged under similar conditions;
+> - “lot marking indication” means an indication which allows identification of the lot to which a sales unit of food belongs;
+> - “the Order” means the Food Safety (Northern Ireland) Order 1991;
+> - “prepacked food” has the meaning given in Article 2(2)(e) of Regulation (EU) No 1169/2011;
+> - “prepacked for immediate sale” has the same meaning as “prepacked for direct sale” in Regulation (EU) No 1169/2011;
+> - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+> - “sell” includes offer or expose for sale and have in possession for sale;
+> - “ultimate consumer” has the same meaning as “final consumer” in Article 3, point 18 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
+> - “use by date” has the same meaning as in Regulation (EU) No 1169/2011.
+
+.
+
+(3) In regulation 4 (exceptions for particular types of sale and sale units) —
+
+- (a) in subparagraph (e), for “edible ice” substitute “ice cream”; and
+- (b) in subparagraph (g) —
+  - (i) for “an indication of minimum durability”, substitute “the date of minimum durability”; and
+  - (ii) for “the Food Labelling Regulations require”, substitute “Regulation (EU) No 1169/2011 requires”.
+
+#### 3. The Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations (Northern Ireland) 1997[^key-473821dbd1a721c214a6e28270fa8f4d]
+
+In regulation 3(b) (labelling requirements) of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations (Northern Ireland) 1997[^f00048], for “Tables A and B of Part II of Schedule 6 to the Food Labelling Regulations (Northern Ireland) 1996”, substitute “Annex XIII, Part A, point 1 to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers”.
+
+#### 4. The Bread and Flour Regulations (Northern Ireland) 1998[^key-e0f3c49006bbcae4c58b64e2aefb2954]
+
+Regulation 2 (interpretation) of the Bread and Flour Regulations (Northern Ireland) 1998[^f00049] is amended as follows—
+
+- (a) in the definition of “ingredient”, for “the Food Labelling Regulations (Northern Ireland) 1996”, substitute “Article 2(2)(f) of Regulation (EU) No 1169/2011”;
+- (b) in the definition of “labelling”, for “The Food Labelling Regulations (Northern Ireland) 1996”, substitute “Article 2(2)(j) of Regulation (EU) No 1169/2011”;
+- (c) omit the definition of “member State”; and
+- (d) after the definition of “the Order”, insert—
+
+  > - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608); and
+
+  .
+
+#### 5. The Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001[^key-3c24e960d783f79885ef6126d0a075bb]
+
+(1) The Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001[^f00050] are amended in accordance with subparagraphs (2) and (3).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “the 1996 Regulations”; and
+- (b) after the definition of “the Order” insert—
+
+  > - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+
+  .
+
+(3) In regulation 5(1) (labelling and description of designated products)—
+
+- (a) for “the 1996 Regulations”, substitute “Regulation (EU) No 1169/2011”;
+- (b) in subparagraph (a), for “regulation 6(1) of the 1996 Regulations”, substitute “Article 17 of Regulation (EU) No 1169/2011”; and
+- (c) in subparagraph (c), for “the 1996 Regulations”, substitute “Article 17 of Regulation (EU) No 1169/2011”.
+
+#### 6. The Food Supplements Regulations (Northern Ireland) 2003[^key-f183194b44547c0c40f66ec924e09352]
+
+(1) The Food Supplements Regulations (Northern Ireland) 2003[^f00051] are amended in accordance with subparagraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Directive 90/496”; and
+- (b) insert the following definition in its correct alphabetical place—
+
+  > - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+
+  .
+
+(3) In regulation 6 (restrictions on sale relating to labelling etc. of food supplements)—
+
+- (a) in paragraph (2), for “the Food Labelling Regulations (Northern Ireland) 1996”, substitute “Regulation (EU) No 1169/2011”; and
+- (b) in paragraph (3)(e), for “the Annex to Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496)”, substitute “Annex XIII to Regulation (EU) No 1169/2011”.
+
+(4) In regulation 7(1) (manner of marking or labelling), for “regulation 5(a), (c) and (e) of the Food Labelling Regulations (Northern Ireland) 1996”, substitute “Article 9(1)(a), (f), (g) and (h) of Regulation (EU) No 1169/2011”.
+
+#### 7. The Specified Sugar Products Regulations (Northern Ireland) 2003[^key-0cbf9dafbe40f9e8a35c82bfebf8b21c]
+
+(1) The Specified Sugar Products Regulations (Northern Ireland) 2003[^f00052] are amended in accordance with subparagraphs (2) and (3).
+
+(2) In regulation 2 (interpretation), omit the definition of “the 1996 Regulations”;
+
+(3) In regulation 5(1) (labelling and description of specified sugar products), for “Part II of the 1996 Regulations”, substitute “Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers”.
+
+#### 8. The Cocoa and Chocolate Products Regulations (Northern Ireland) 2003[^key-2ed76a43b29d29415e9d91fad65d0016]
+
+(1) The Cocoa and Chocolate Products Regulations (Northern Ireland) 2003[^f00053] are amended in accordance with subparagraphs (2) to (4).
+
+(2) In regulation 2 (interpretation)—
+
+- (a) omit the definition of “the 1996 Regulations”; and
+- (b) after the definition of “preparation” insert—
+
+  > - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+
+  .
+
+(3) In regulation 5 (reserved descriptions), for subparagraphs (b) and (c) substitute—
+
+> - (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food;
+> - (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product; or
+> - (d) the use of such description, derivative or word to designate the food is in accordance with the customs applicable in the United Kingdom and the food cannot be confused with a product listed in column 1 of Schedule 1.
+
+.
+
+(4) In regulation 6 (labelling and description of designated products)—
+
+- (a) in paragraph (1), for “Part II of the 1996 Regulations”, substitute “Regulation (EU) No 1169/2011”; and
+- (b) in paragraph 2(b), for “the 1996 Regulations”, substitute “Article 9(1)(b) of Regulation (EU) No 1169/2011”.
+
+#### 9. The Honey Regulations (Northern Ireland) 2003[^key-07709969cfca75b4df81e976aa7f6bcd][^key-3a68fd5611199e53d2703cb6ecb40043]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. The Processed Cereal-based Foods and Baby Foods for Infants and Young Children Regulations (Northern Ireland) 2003[^key-d4c9d26cec88ea365d6ab104b0bb05a9]
+
+In regulation 8(1) (labelling) of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children Regulations (Northern Ireland) 2003[^f00055], for “Part II of the Food Labelling Regulations (Northern Ireland) 1996”, substitute “Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers”;.
+
+#### 11. The Price Marking Order (Northern Ireland) 2004[^key-7bcebe2055a18eec40324dea204cc1e6]
+
+In Article 2(1) (interpretation) of the Price Marking Order (Northern Ireland) 2004[^f00056], in the definition of “liquid medium” for “paragraph 4” to the end, substitute “the second subparagraph of point 5 of Annex IX to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;”.
+
+#### 12. The Food Hygiene Regulations (Northern Ireland) 2006[^key-077bf044d744f64415bcf5e999663c8a]
+
+In Schedule 4 (temperature control requirements), paragraph 8 (interpretation), to the Food Hygiene Regulations (Northern Ireland) 2006[^f00057] for subparagraphs (a) and (b) in the definition of “shelf life” substitute—
+
+> - (a) in relation to food for which a date of minimum durability is required in accordance with Article 9(1)(f) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required date of minimum durability;
+> - (b) in relation to food for which a “use by” date is required in accordance with Article 9(1)(f) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required “use by” date; and
+
+.
+
+#### 13. The Quick-frozen Foodstuffs (No.2) Regulations (Northern Ireland) 2007[^key-3132b24bf0ad9c9da3038c806bb3235c]
+
+(1) The Quick-frozen Foodstuffs (No. 2) Regulations (Northern Ireland) 2007[^f00058] are amended in accordance with subparagraphs (2) and (3).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “catering establishment”;
+- (b) in the definition of “local distribution” for “catering establishment” substitute “mass caterer”;
+- (c) after the definition of “local distribution”, insert—
+
+  > - “mass caterer” has the meaning given by Article 2(2)(d) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
+
+  ;
+- (d) in the definition of “prepackaging”, for “the Food Labelling Regulations (Northern Ireland) 1996”, substitute “Article 2(2)(e) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers”; and
+- (e) for the definition of “ultimate consumer” substitute—
+
+  > - “ultimate consumer” has the same meaning as “final consumer” in Article 3, point 18 of Regulation 178/2002.
+
+  .
+
+(3) In regulation 5(2) and (4) (marking or labelling of quick frozen foodstuffs), for “catering establishment”, substitute “mass caterer”.
+
+#### 14. The Addition of Vitamins, Minerals and other Substances Regulations (Northern Ireland) 2007[^key-a5bc183f840ca6fbe51c5f5a7b01e4ad]
+
+In the Addition of Vitamins, Minerals and other Substances Regulations (Northern Ireland) 2007[^f00059], for regulation 4(2)(e) (offences and penalties) substitute—
+
+> - (e) Article 7(1), (2) and (3) (restrictions and conditions applying to labelling, presentation and advertising of foods to which vitamins or minerals have been added) as amended by Article 50 Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers.
+
+.
+
+#### 15. The Nutrition and Health Claims Regulations (Northern Ireland) 2007[^key-bae86c3d5163ddb38d36f9bedeeee2ef]
+
+In the Nutrition and Health Claims Regulations (Northern Ireland) 2007[^f00060], for regulation 5(2)(d) (offences and penalties) substitute—
+
+> - (d) Article 7 (requirements for nutrition information) as amended by Article 49 Regulation (EU) No 1169/2011;
+
+.
+
+#### 16. The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2007[^key-849350d25d694db479212440ff985662][^key-0facd165fadaa8b6e8adf5f61d15e85b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. The Eggs and Chicks Regulations (Northern Ireland) 2010[^key-502ddcaeeb69e3b9ceb22d966677d58e]
+
+(1) The Eggs and Chicks Regulations (Northern Ireland) 2010[^f00062] are amended in accordance with subparagraphs (2) and (3).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013)”; and
+- (b) after the definition of “Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)”, insert—
+
+  > “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+
+  .
+
+(3) In Schedule 2 , Part 2 (provisions of [Commission Regulation (EC) No 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs[^f00063] contravention of which is an offence)—
+
+- (a) in the second column of the entry in the table relating to Article 4(2), for “Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013)”, substitute “Regulation (EU) No 1169/2011”;
+- (b) in the second column of the entry in the table relating to Article 6(3), for “Article 9(2) of Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013)”, substitute “point 1(a) of Annex X to Regulation (EU) No 1169/2011”; and
+- (c) in the second column of the entry in the table relating to Article 13, for “Article 3(1)(5) of Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013)”, substitute “Article 9(1)(f) of Regulation (EU) No 1169/2011”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision to enforce certain provisions of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) (OJ No L 304, 22.11.2011, p 18) (“FIC”).
+
+They also implement certain provisions of Article 6 of Directive 1999/2/EC of the European Parliament and of the Council on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation (OJ No L 66, 13.3.1999, p 16) and the second paragraph of subparagraph 1 of Article 3 of Directive [2000/36/EC](https://www.legislation.gov.uk/european/directive/2000/0036) of the European Parliament and of the Council relating to cocoa and chocolate products intended for human consumption (OJ No L 197, 3.8.2000, p 19).
+
+Regulation 3 contains a derogation relating to milk or milk products presented in a glass bottle intended for reuse. Regulation 4 and Schedule 2 provide a derogation relating to the use of a minced meat designation for minced meat that does not comply with the requirements laid down in Annex VI, Part B, point 1 to FIC.
+
+Regulation 5 enables particulars relating to an allergenic substance or product in a non-prepacked food to be made available (subject to the provisions of the regulation) using any means that a food business operator chooses. The required particulars must be made available under FIC but can be made available using the means provided for in FIC or in accordance with the provisions of regulation 5.
+
+Regulation 6 requires the name of the food to be provided in the case of certain non-prepacked foods and foods prepacked for direct sale. Regulation 7 requires a quantitative indication of the meat content to be given in the case of certain products. Those particulars must be given in one of the ways specified in regulations 6(4) (in the case of the name of the food) and 7(5) (in the case of the meat content indication). The provisions of regulations 6(4) and 7(5) do not apply to an offer for sale made by means of distance communication. Article 14(2) of FIC (as read with other relevant provisions of FIC) applies in the case of such an offer.
+
+Regulation 8 requires certain information to be provided when irradiated food products or food products containing an irradiated ingredient are sold in bulk and when irradiated ingredients are used in certain prepacked food products.
+
+Regulation 9 imposes an obligation on district councils to enforce the Regulations. Regulation 10 makes it an offence to fail to comply with specified provisions of FIC and the allergens related requirement in regulation 5(5). Regulation 11 provides for the punishment of that offence.
+
+Regulation 12 and Schedule 4 apply certain provisions of the [Food Safety (Northern Ireland) Order 1991 (1991 N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) to the Regulations with modifications. This includes the application (with modifications) of Article 9(1), enabling an improvement notice to be served to require compliance with specified provisions of FIC and specified provisions of regulations 5 and 8. The provisions, as applied, make the failure to comply with an improvement notice an offence.
+
+Regulation 13 and entry 1 of the table in Part 1 of Schedule 6 revoke most of the Food Labelling Regulations 1996 ([S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383)) on 13th December 2014. Regulation 13 and entry 1 of the table in Part 2 of Schedule 6 revoke the remainder of the provisions in the Food Labelling Regulations (Northern Ireland) 1996 (relating to alcohol-related terms, cream and cheese) on 13th December 2018. Regulation 13 and Schedule 6 also revoke other relevant statutory rules.
+
+Regulation 14 and Schedule 7 amend the Food Labelling Regulations (Northern Ireland) 1996, during the period before those Regulations are revoked (as described above). They make amendments to other statutory rules to take account of the repeal and replacement of the relevant EU legislation and the revocation of the Food Labelling Regulations (Northern Ireland) 1996 and correct the definition of “the additives regulations”.
+
+Regulation 14 and Part 1 of Schedule 7 also amend the Food (Lot Marking) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 384](https://www.legislation.gov.uk/nisr/1996/384)), to take account of the repeal and replacement of Council Directive [89/396/EEC](https://www.legislation.gov.uk/european/directive/1989/0396) (OJ No L 186, 30.6.1989, p 21) by Directive 2011/91/EU of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs (OJ No L 334, 16.12.2011, p 1). Part 2 of Schedule 7 contains the provision implementing the second paragraph of subparagraph 1 of Article 3 of Directive [2000/36/EC](https://www.legislation.gov.uk/european/directive/2000/0036) of the European Parliament and of the Council (mentioned above).
+
+Regulation 14 and Part 1 of Schedule 7 also amend the Food with added Phytosterols or Phytostanols (Labelling) Regulations (Northern Ireland) 2004 to update the definition of Regulation 608/2004 as amended by Commission Regulation (EU) No 718/2013 until the entire Regulations are revoked by Regulation 13 and Schedule 6 on 13th December 2014.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; see [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and [S.R. 2004 Nos. 482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 ([2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51)) and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 ([2008 c.7](https://www.legislation.gov.uk/ukpga/2008/7))
+
+[^f00004]: Footnote: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766), to which there are amendments not relevant to these Regulations
+
+[^f00005]: Footnote: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 100 No L27, 30.1.2014, p 7)
+
+[^key-c1fca6620870ddd5b1a19f2c27088fab]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^f00006]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by [Commission Regulation (EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (OJ No L 188, 18.7.2009, p 14)
+
+[^key-57992d2e55f3438a32b41129cf39fec2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2014/223/regulation/1) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-9f9f9b3b7aed26a797e7dfb71cdda158]: Textual amendment: [Reg. 1(5A)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/5A) inserted (1.4.2020) by [The Food Information (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/24)](https://www.legislation.gov.uk/nisr/2020/24), [regs. 1](https://www.legislation.gov.uk/nisr/2020/24/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/24/regulation/2/2)
+
+[^key-19e3e032acfd4d1a6efe67911a665a9c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/223/regulation/2) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-51a274cd1260bcdaeb822e390890c62a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/1) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(2)(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/2/a)
+
+[^f00007]: Footnote: OJ No L 66, 13.3.1999, p 16, last amended by Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council (OJ No L 311, 21.11.2008, p 1)
+
+[^key-c6395a49bd04440878422913651e0dd4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(2)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/2/b)
+
+[^key-b678887a4a5f4e74743149205de53a8d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/1) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(2)(c)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/2/c)
+
+[^key-d61ac85b7d67d6d8a195292bab5dabcc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/1) omitted (20.7.2016) by virtue of [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/2/a/i)
+
+[^key-af1ca62d839449af0d790c7a55535603]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/1) substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/2/a/ii)
+
+[^key-edb16823a20e7ce03cea084d5b39e321]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(2)(d)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/2/d)
+
+[^key-3a0f496d3f738f11dbb98b130a021546]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2014/223/regulation/2/3) substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/2/b)
+
+[^f00008]: Footnote: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-330e06061b212e2b90783ffd7482ab8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/223/regulation/3) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-87dcd69921a7df6ac9f362e9a9d75bf4]: Commencement: Reg. 4 in operation at 19.9.2014, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/a)
+
+[^key-33857907b32c0bbb58df90b768459211]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/223/regulation/5) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-c1538a4cce4ded3c1815fb0a5c116e63]: Textual amendment: Word in [reg. 5(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/5/2/a) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/2/a)
+
+[^key-5e776863435feb64a65bccab6fdc8135]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/5/2/b) substituted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/2/b)
+
+[^key-69ec35d64a5c940941ed6e6e57549d3a]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/nisr/2014/223/regulation/5/2/c) omitted (1.10.2021) by virtue of [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/2/c)
+
+[^key-5cf345101826b88a1fee14ddf7a0eb85]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2014/223/regulation/5A) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/3)
+
+[^key-87e843092a202c59e47e75c65c5d7620]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/223/regulation/6) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-6e41b12955e709ac3f0ac56510f4f554]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/6/2/a) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/4/a)
+
+[^key-dcce0ef53baeb8693f7ca1b8c1d91d78]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/6/2/b) substituted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/4/b)
+
+[^key-7c52cf123dec26653d0530165eb910d0]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/nisr/2014/223/regulation/6/2/c) omitted (1.10.2021) by virtue of [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/4/c)
+
+[^key-b1fc0b2c0d323951aa8d97abb147bac1]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2014/223/regulation/6A) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/5)
+
+[^key-6afdec4a218ff95e43550bedcb9383f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/223/regulation/7) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00009]: Footnote: OJ No L139, 30.4.2004, p55, last amended by Commission Regulation (EU) No 633/2014 (OJ No L175, 16.6.2014, p 6)
+
+[^key-4a58258ad45ba6ba0587be396601b405]: Textual amendment: Words in [reg. 7(7)](https://www.legislation.gov.uk/nisr/2014/223/regulation/7/7) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/3)
+
+[^key-39c9b96d75fb474938d9f687c4b390c5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/223/regulation/8) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-eeb7c0aa0ec0ac0c806cde816feb3b67]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/223/regulation/9) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-291e6912c426a39f250328ee89ba22aa]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/223/regulation/10) substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/3)
+
+[^key-07dcd42495fddc678312f949cd756bf8]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/10/1/b) omitted (1.10.2021) by virtue of [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/6/a)
+
+[^key-11db65ae49beb3e5d6e055a96a16c3e6]: Textual amendment: Word in [reg. 10(1)(c)](https://www.legislation.gov.uk/nisr/2014/223/regulation/10/1/c) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/6/b)
+
+[^key-8da46c9339af7278cf88202cef9d1662]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/nisr/2014/223/regulation/10/1/d) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/6/c)
+
+[^key-26ecfcc6620daf91139d44b7b6eced0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/223/regulation/11) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-d35c0682c54c05ccc339680e5d9db2b9]: Commencement: Reg. 12 in operation at 19.9.2014 for specified purposes, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-7489065f14696abef339ad86d51b0a8c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2014/223/regulation/12) in operation at 13.12.2016 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/4/a)
+
+[^key-65d42a9b76e2889f0a127e0e6ece294c]: Textual amendment: [Reg. 12(1)(a)(i)](https://www.legislation.gov.uk/nisr/2014/223/regulation/12/1/a/i) substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/4/a)
+
+[^key-62cc1704beb2bc86c335d00e367d1513]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/12/1/a)[(iia)](https://www.legislation.gov.uk/nisr/2014/223/regulation/12/1/iia) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/7/a)
+
+[^key-b9d77fdb64010341582acc0b3501e4a6]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/12/1/a)[(iiia)](https://www.legislation.gov.uk/nisr/2014/223/regulation/12/1/iiia) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/7/b)
+
+[^key-9837b694c751753ba2003beaf6ef718b]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/12/2/a) inserted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/4/b)
+
+[^key-44890fc8b0fc16e955709c97cbc9968c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/223/regulation/13) in operation at 13.12.2018 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/5)
+
+[^key-8903a52c8325fbb13dd0017515fb4b0c]: Commencement: Reg. 14 in operation at 19.9.2014 for specified purposes, see [reg. 1(3)(c)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/c)
+
+[^key-a4b92b7ddb131b6901c0f21d1acfe00c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/1) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-4c16b50b18a75515fa0a5cd095b5df77]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/1) heading inserted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/5/a)
+
+[^key-2b7a327bf86871f2ca18d5532596cdb5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/1) inserted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/5/b)
+
+[^key-d8de25d49bb96112497e54ef26615fe6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/1) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/8)
+
+[^key-61de033faece48c98a054eb235591868]: Commencement: Sch. 2 Pt. 1 in operation at 19.9.2014, see [reg. 1(3)(d)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/d)
+
+[^key-821a780c96a9c4ea38ad00881f2098ae]: Commencement: Sch. 2 para. 1 in operation at 19.9.2014, see [reg. 1(3)(d)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/d)
+
+[^key-8feb007c305fb264a1d12ab9dd986355]: Commencement: Sch. 2 para. 2 in operation at 19.9.2014, see [reg. 1(3)(d)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/d)
+
+[^key-459c0669f10fd078b4fad1b41be62a54]: Commencement: Sch. 2 para. 3 in operation at 19.9.2014, see [reg. 1(3)(d)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/d)
+
+[^key-70f1c5a06d0b5263cfabccede1536a45]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/1) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-665d873b0901c285883b7c2fc96f2e95]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/2) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00010]: Footnote: OJ No L157, 17.6.2008, p 46, last amended by Regulation (EU) No 1308/2013 of the European Parliament and of the Council (OJ No L347, 20.12.2013, p 671)
+
+[^key-a1b014d7cf25c4e5149746c4b4c66d6e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/3) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-c9d02de9a3021be92c8ab3aad57c2aa5]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/3) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(4)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/4)
+
+[^key-e169fce7d05d53ed2c8f4088f6d5c8c7]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/4) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-ea2d8accba7e116e76fe5b8c2172173a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/5) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-24ad89089bfd2888e43c64142ff6bbfa]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/6) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-ce89aac983798214b350207717df5a4a]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2014/223/schedule/3/paragraph/7) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-b75e4e60be3a88a906726ebcbe7b973e]: Commencement: Sch. 4 Pt. 1 para. 1 in operation at 19.9.2014, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-102de657d36513b3da750fbde74fa8b7]: Textual amendment: [Sch. 4 Pt.1 para. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/4/paragraph/1) substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/6/a)
+
+[^key-692ed9097004ddbd62dd864b879fc005]: Textual amendment: Words in [Sch. 4 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/4/part/1/paragraph/1) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/9/a)
+
+[^key-81b2910294654f28c05278e89f7b6302]: Textual amendment: Words in [Sch. 4 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/4/part/1/paragraph/1) inserted (1.10.2021) by [The Food Information (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/80)](https://www.legislation.gov.uk/nisr/2020/80), [regs. 1](https://www.legislation.gov.uk/nisr/2020/80/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2020/80/regulation/2/9/b)
+
+[^key-ce2d251485545a0ecdd966029cd8cc6a]: Commencement: Sch. 4 Pt. 2 para. 1 in operation at 19.9.2014, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-c11967f11985059d08dcb8750de32aab]: Textual amendment: [Sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/4/paragraph/1) substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/6/b)
+
+[^key-4f6274ab7f5b690fb97f5873f9f84a5e]: Commencement: Sch. 4 Pt. 3 para. 1 in operation at 19.9.2014, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-aa1ee0814bba2b5014ea5b92fb5a040e]: Commencement: Sch. 4 para. 2 in operation at 19.9.2014, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-ade4b2edf92cd2a4d0df64e27753ede0]: Commencement: Sch. 4 para. 3 in operation at 19.9.2014, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-6525731b9dc9bd0abc84bee64fd4b9c0]: Commencement: Sch. 4 Pt. 4 in operation at 19.9.2014, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/b)
+
+[^key-bdb303a5516b55351a5b440f778230c0]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/5) heading substituted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/7/a)
+
+[^key-134180b8cf5bc5d16c8011d17c2fb7a6]: Commencement: Sch. 5 Pt. 1 in operation at 19.9.2014, see [reg. 1(3)(e)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/e)
+
+[^key-730dacc41bce66e70156963cf4c2f925]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/part/2) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-29cb2917b80906ed9073a14ce1fbb02d]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/part/2) Table inserted (24.6.2015) by [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [reg. 1](https://www.legislation.gov.uk/nisr/2015/261/regulation/1), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/nisr/2015/261/schedule/3/paragraph/2/a)
+
+[^key-fe3b5d9d180c5a0166d7a8147e56bb8d]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 26](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/paragraph/26) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(5)(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/5/a)
+
+[^key-6cf2c8ba11ba96be83f860191cb45f6a]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/part/2) Table inserted (24.6.2015) by [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [reg. 1](https://www.legislation.gov.uk/nisr/2015/261/regulation/1), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/nisr/2015/261/schedule/3/paragraph/2/b)
+
+[^key-ae5e1a4df65b01240b2fb8ce8350203c]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 37](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/paragraph/37) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [29(5)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/29/5/b)
+
+[^f00011]: Footnote: OJ No L 10, 12.1.2002, p 58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ No L 115, 27.4.2012, p 1)
+
+[^key-7c7fea97075ee2e9fb9aaad130e7dc1f]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/part/3) in operation at 13.12.2016, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/4/a)
+
+[^key-c841618deba1f4e18e072995f9baae74]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2014/223/part/4) inserted (20.7.2016) by [The Food Information (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/249)](https://www.legislation.gov.uk/nisr/2016/249), [regs. 1](https://www.legislation.gov.uk/nisr/2016/249/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2016/249/regulation/2/7/b)
+
+[^key-459ac8cfcfc7485c1196a616a4924263]: Textual amendment: [Sch. 5 Pt. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/5/part/5) inserted (1.4.2020) by [The Food Information (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/24)](https://www.legislation.gov.uk/nisr/2020/24), [regs. 1](https://www.legislation.gov.uk/nisr/2020/24/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/24/regulation/2/3)
+
+[^key-50d6e8c305447b90611e78bfd8dfdea9]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1) in operation at 13.12.2014, see [reg.](https://www.legislation.gov.uk/nisr/2014/223/regulation)
+
+[^f00012]: Footnote: [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383), as amended by [S.R. 1998 Nos. 24](https://www.legislation.gov.uk/nisr/1998/24), and [253](https://www.legislation.gov.uk/nisr/1998/253), [S.R. 1999 Nos. 143](https://www.legislation.gov.uk/nisr/1999/143), . [244](https://www.legislation.gov.uk/nisr/1999/244), and [286](https://www.legislation.gov.uk/nisr/1999/286), [S.R. 2000 Nos. 189](https://www.legislation.gov.uk/nisr/2000/189) and. [303](https://www.legislation.gov.uk/nisr/2000/303), [S.R. 2001 No. 45](https://www.legislation.gov.uk/nisr/2001/45), [S.R 2003 Nos. 159](https://www.legislation.gov.uk/nisr/2003/159),. [300](https://www.legislation.gov.uk/nisr/2003/300),[301](https://www.legislation.gov.uk/nisr/2003/301),. [313](https://www.legislation.gov.uk/nisr/2003/313),. [383](https://www.legislation.gov.uk/nisr/2003/383),. [448](https://www.legislation.gov.uk/nisr/2003/448), and. [519](https://www.legislation.gov.uk/nisr/2003/519), [S.R. 2004 No. 13](https://www.legislation.gov.uk/nisr/2004/13), [266](https://www.legislation.gov.uk/nisr/2004/266),and. [469](https://www.legislation.gov.uk/nisr/2004/469), [S.R. 2005 No. 198](https://www.legislation.gov.uk/nisr/2005/198), [S.R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3), [S.R. 2007 No. 349](https://www.legislation.gov.uk/nisr/2007/349), [S.R. 2008 Nos. 198](https://www.legislation.gov.uk/nisr/2008/198), and.[237](https://www.legislation.gov.uk/nisr/2008/237), [S.R. 2009 Nos. 331](https://www.legislation.gov.uk/nisr/2009/331)and. [415](https://www.legislation.gov.uk/nisr/2009/415), [S.R. 2010 Nos. 33](https://www.legislation.gov.uk/nisr/2010/33),. [321](https://www.legislation.gov.uk/nisr/2010/321), and. [414](https://www.legislation.gov.uk/nisr/2010/414), [S.R. 2011 No. 45](https://www.legislation.gov.uk/nisr/2011/45), [S.R. 2013 Nos. 39](https://www.legislation.gov.uk/nisr/2013/39), [220](https://www.legislation.gov.uk/nisr/2013/220) and [253](https://www.legislation.gov.uk/nisr/2013/253), [S.R. 2014 No. 92](https://www.legislation.gov.uk/nisr/2014/92) and these regulations
+
+[^f00013]: Footnote: [S.R. 1998 No. 24](https://www.legislation.gov.uk/nisr/1998/24), to which there are amendments not relevant to these Regulations
+
+[^f00014]: Footnote: [S.R. 1998 No. 253](https://www.legislation.gov.uk/nisr/1998/253)
+
+[^f00015]: Footnote: [S.R. 1999 No. 143](https://www.legislation.gov.uk/nisr/1999/143)
+
+[^f00016]: Footnote: [S.R. 1999 No. 244](https://www.legislation.gov.uk/nisr/1999/244), to which there are amendments not relevant to these Regulations
+
+[^f00017]: Footnote: [S.R. 1999 No. 286](https://www.legislation.gov.uk/nisr/1999/286)
+
+[^f00018]: Footnote: [S.R. 2000 No. 303](https://www.legislation.gov.uk/nisr/2000/303), as amended by [S.R. 2009 No. 220](https://www.legislation.gov.uk/nisr/2009/220)
+
+[^f00019]: Footnote: [S.R. 2001 No. 45](https://www.legislation.gov.uk/nisr/2001/45), to which there are amendments not relevant to these Regulations
+
+[^f00020]: Footnote: [S.R. 2003 No. 159](https://www.legislation.gov.uk/nisr/2003/159)
+
+[^f00021]: Footnote: [S.R. 2003 No. 301](https://www.legislation.gov.uk/nisr/2003/301) to which there are amendments not relevant to these Regulations
+
+[^f00022]: Footnote: [S.R. 2003 No. 313](https://www.legislation.gov.uk/nisr/2003/313)
+
+[^key-b6c00fd1e7adba2492028207af90275e]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1) Table omitted (24.6.2015) by virtue of [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [regs. 1](https://www.legislation.gov.uk/nisr/2015/261/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2015/261/regulation/20/2/a)
+
+[^f00024]: Footnote: [S.R. 2003 No. 448](https://www.legislation.gov.uk/nisr/2003/448)
+
+[^f00025]: Footnote: [S.R. 2004 No. 266](https://www.legislation.gov.uk/nisr/2004/266)
+
+[^f00026]: Footnote: [S.R. 2004 No. 469](https://www.legislation.gov.uk/nisr/2004/469)
+
+[^f00027]: Footnote: [S.R. 2004 No. 515](https://www.legislation.gov.uk/nisr/2004/515) \[amended by S.R. 2014/*to be completed*\]
+
+[^f00028]: Footnote: [S.R. 2005 No. 198](https://www.legislation.gov.uk/nisr/2005/198)
+
+[^f00029]: Footnote: [S.R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3), to which there are amendments not relevant to these Regulations
+
+[^f00030]: Footnote: [S.R. 2007 No. 349](https://www.legislation.gov.uk/nisr/2007/349), to which there are amendments not relevant to this revocation
+
+[^f00031]: Footnote: [S.R. 2007 No. 420](https://www.legislation.gov.uk/nisr/2007/420)
+
+[^f00032]: Footnote: [S.R. 2008 No. 198](https://www.legislation.gov.uk/nisr/2008/198)
+
+[^f00033]: Footnote: [S.R. 2008 No. 237](https://www.legislation.gov.uk/nisr/2008/237) to which there are amendments not relevant to this revocation
+
+[^f00034]: Footnote: [S.R. 2009 No. 331](https://www.legislation.gov.uk/nisr/2009/331)
+
+[^f00035]: Footnote: [S.R. 2009 No. 415](https://www.legislation.gov.uk/nisr/2009/415) amended by [S.R. 2013 No. 220](https://www.legislation.gov.uk/nisr/2013/220); there are other amending rules but none is relevant
+
+[^f00036]: Footnote: [S.R. 2010 No. 414](https://www.legislation.gov.uk/nisr/2010/414)
+
+[^f00037]: Footnote: [S.R. 2011 No. 45](https://www.legislation.gov.uk/nisr/2011/45)
+
+[^f00038]: Footnote: [S.R. 2013 No. 39](https://www.legislation.gov.uk/nisr/2013/39)
+
+[^f00039]: Footnote: [S.R. 2013 No. 220](https://www.legislation.gov.uk/nisr/2013/220)
+
+[^f00040]: Footnote: [S.R. 2013 No. 253](https://www.legislation.gov.uk/nisr/2013/253)
+
+[^f00041]: Footnote: [S.R. 2014 No. 92](https://www.legislation.gov.uk/nisr/2014/92)
+
+[^key-a8e6040408ea01a575ae7cff6d0314a1]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/2) in operation at 13.12.2018, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/5)
+
+[^key-001e0d525ae2abf6b1e380074331e906]: Commencement: Sch. 7 Pt. 1 para. 1 in operation at 19.9.2014, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f)
+
+[^f00042]: Footnote: OJ No L 193, 24.7.2009, p 60, last amended by Commission Implementing Regulation (EU) No 753/2013 (OJ No L 210, 6.8.2013, p 21)
+
+[^key-f47dae945b0e94a79f304b93fe3375ef]: Commencement: Sch. 7 Pt. 1 para. 2 in operation at 19.9.2014, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f)
+
+[^f00043]: Footnote: [S.R 1996 No. 384](https://www.legislation.gov.uk/nisr/1996/384)
+
+[^key-b6736470c4e42aef5c224954e3b031df]: Commencement: Sch. 7 Pt. 1 para. 3 in operation at 19.9.2014, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f)
+
+[^f00044]: Footnote: [S.R. 2004 No. 515](https://www.legislation.gov.uk/nisr/2004/515)
+
+[^f00045]: Footnote: OJ No. L201, 26.7.2013, p.49
+
+[^key-750571c96003fb3479f9b5624d7227df]: Commencement: Sch. 7 Pt. 1 para. 4 in operation at 19.9.2014, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f)
+
+[^f00046]: Footnote: [S.R. 2007 No. 301](https://www.legislation.gov.uk/nisr/2007/301)
+
+[^key-067b94e79b9ecd2d020277eef341b444]: Commencement: Sch. 7 Pt. 1 para. 5 in operation at 19.9.2014, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f)
+
+[^key-f0edc89fd0fddc0d44736190c9443bc9]: Commencement: Sch. 7 Pt. 1 para. 6 in operation at 19.9.2014, see [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f)
+
+[^f00047]: Footnote: [S.R. 2013 No. 220](https://www.legislation.gov.uk/nisr/2013/220)
+
+[^key-b87d4c0dd117995efa3d535d62725813]: Commencement: [Sch. 7 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/1) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-5dc7bf0c35836dfb43d7a7a697592c95]: Commencement: [Sch. 7 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/2) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-473821dbd1a721c214a6e28270fa8f4d]: Commencement: [Sch. 7 Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/3) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00048]: Footnote: [S.R. 1997 No. 450](https://www.legislation.gov.uk/nisr/1997/450), to which there are amendments not relevant to these Regulations
+
+[^key-e0f3c49006bbcae4c58b64e2aefb2954]: Commencement: [Sch. 7 Pt. 2 para. 4](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00049]: Footnote: [S.R. 1998 No. 24](https://www.legislation.gov.uk/nisr/1998/24), to which there are amendments not relevant to these Regulations
+
+[^key-3c24e960d783f79885ef6126d0a075bb]: Commencement: [Sch. 7 Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/5) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00050]: Footnote: [S.R. 2001 No. 45](https://www.legislation.gov.uk/nisr/2001/45)
+
+[^key-f183194b44547c0c40f66ec924e09352]: Commencement: [Sch. 7 Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/6) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00051]: Footnote: [S.R. 2003 No. 273](https://www.legislation.gov.uk/nisr/2003/273), amended by [S.R. 2009 No. 407](https://www.legislation.gov.uk/nisr/2009/407) and to which there are other amendments not relevant to these Regulations
+
+[^key-0cbf9dafbe40f9e8a35c82bfebf8b21c]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/7) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00052]: Footnote: [S.R. 2003 No. 301](https://www.legislation.gov.uk/nisr/2003/301), to which there are amendments not relevant to these Regulations
+
+[^key-2ed76a43b29d29415e9d91fad65d0016]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/8) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00053]: Footnote: [S.R. 2003 No. 313](https://www.legislation.gov.uk/nisr/2003/313)
+
+[^key-07709969cfca75b4df81e976aa7f6bcd]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/9) omitted (24.6.2015) by virtue of [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [regs. 1](https://www.legislation.gov.uk/nisr/2015/261/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2015/261/regulation/20/2/b)
+
+[^key-3a68fd5611199e53d2703cb6ecb40043]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/9) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-d4c9d26cec88ea365d6ab104b0bb05a9]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/10) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00055]: Footnote: [S.R. 2003 No. 530](https://www.legislation.gov.uk/nisr/2003/530), to which there are amendments not relevant to these Regulations
+
+[^key-7bcebe2055a18eec40324dea204cc1e6]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/11) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00056]: Footnote: [S.R. 2004 No. 368](https://www.legislation.gov.uk/nisr/2004/368), to which there are amendments not relevant to these Regulations
+
+[^key-077bf044d744f64415bcf5e999663c8a]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/12) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00057]: Footnote: [S.R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3), to which there are amendments not relevant to these Regulations
+
+[^key-3132b24bf0ad9c9da3038c806bb3235c]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/13) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00058]: Footnote: [S.R. 2007 No. 110](https://www.legislation.gov.uk/nisr/2007/110)
+
+[^key-a5bc183f840ca6fbe51c5f5a7b01e4ad]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/14) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00059]: Footnote: [S.R. 2007 No. 301](https://www.legislation.gov.uk/nisr/2007/301)
+
+[^key-bae86c3d5163ddb38d36f9bedeeee2ef]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/15) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00060]: Footnote: [S.R. 2007 No. 349](https://www.legislation.gov.uk/nisr/2007/349), to which there are amendments not relevant to these Regulations
+
+[^key-849350d25d694db479212440ff985662]: Textual amendment: [Sch. 7 para. 16](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/16) omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015 (S.R. 2015/365)](https://www.legislation.gov.uk/nisr/2015/365), [reg. 1](https://www.legislation.gov.uk/nisr/2015/365/regulation/1), [Sch. 13 para. 3](https://www.legislation.gov.uk/nisr/2015/365/schedule/13/paragraph/3)
+
+[^key-0facd165fadaa8b6e8adf5f61d15e85b]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/16) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^key-502ddcaeeb69e3b9ceb22d966677d58e]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17) in operation at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2)
+
+[^f00062]: Footnote: [S.R. 2010 No. 125](https://www.legislation.gov.uk/nisr/2010/125), to which there are amendments not relevant to these Regulations
+
+[^f00063]: Footnote: OJ No L 163, 24.6.2008, p 6, last amended by Commission Regulation (EU) No 519/2013 (OJ No L 158, 10.6.2013, p 74)

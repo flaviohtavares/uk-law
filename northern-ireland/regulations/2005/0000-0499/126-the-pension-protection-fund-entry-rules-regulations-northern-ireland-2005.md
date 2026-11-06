@@ -1,0 +1,1399 @@
+---
+title: The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005
+id: nisr/2005/126
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-16'
+text_date: '2024-01-04'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/126
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/126/pdfs/nisr_20050126_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/126/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005
+
+> Text as at 2024-01-04.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 126
+
+PENSIONS
+
+The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005
+
+Made
+
+16th March 2005
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred on it by Articles 2(5)(a), 104(3) and (4), 105(5), 106(3), (5) and (8), 107(5), 110(1)(b), (3) and (5), 113(1)(b), (3) and (8), 114(5) and (8), 117(3), 118(3)(a), 119(4), 122(10)(b) and (12), 123(6), 130(1) and (5), 131(1)(a) and (5), 132(8), 134(5) and (6)(a) to (c), 135(4), (6), (8) and (9)(b) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-f59b26347d963328ca4f25c65b4c682a][^key-75a652604f0d709f1c96da959d55b2f1]
+
+## 1. Citation, commencement and interpretation[^key-750d2d46221b0acaa7d22ead2bad38b1][^key-750d2d46221b0acaa7d22ead2bad38b1]
+
+(1)[^key-750d2d46221b0acaa7d22ead2bad38b1] These Regulations may be cited as the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005 and shall come into operation –
+
+- (a) for the purposes of this regulation (other than paragraphs (3) and (4)) and regulation 2, on 1st April 2005;
+- (b) for all other purposes, on 6th April 2005.
+
+(2)[^key-750d2d46221b0acaa7d22ead2bad38b1] In these Regulations –
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “the 1988 Act” means the Income and Corporation Taxes Act 1988[^f00002];
+- “the FSMA 2000” means the Financial Services and Markets Act 2000[^f00003];
+- “the appointed day” is the day appointed for the coming into operation of section 27 of the Pensions Act (Northern Ireland) 2012 (definition of money purchase benefits);[^key-4a8496412ee6a51b9397766a7cc8a68c]
+- “the assessment date” means the date on which the assessment period in relation to the scheme or section, or (where there has been more than one such assessment period) the last one, began;[^key-7f01b40089b70c7d95b71d5426795227]
+- “[^key-4dac14b3ac9a19e345dff6bdf0aa2759]**cash balance benefits**” has the meaning given by regulation 2 of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014;
+- “[^key-9bf78d70ff33ac31069e08b5cf4e25c4]EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993, as modified or supplemented from time to time;
+- “EEA credit institution” means a credit institution, authorised under Directive [2006/48/EC](https://www.legislation.gov.uk/european/directive/2006/0048) of the European Parliament and of the Council dated 14th June 2006 relating to the taking up and pursuit of the business of credit institutions, which has its relevant office in an EEA state other than the United Kingdom;
+- “EEA insurer” means an undertaking, other than a UK insurer, pursuing the activity of direct insurance means a supervisory authority (within the meaning of Article 13(10) of the Solvency 2 directive) of an EEA State;[^key-22d2e0451a88aad5cc7bbe8925de7752]
+- “EEA regulator” means a competent authority (as referred to in Article 2 of the Solvency 2 Directive) which has received authorisation under Article 14 of the Solvency 2 Directive from its home state regulator; ;
+- “EEA state”, in relation to any time, means—
+  - (a) a state which at that time is a member State, or
+  - (b) any other state which at that time is a party to the EEA agreement;
+- [^key-70f6d2db63e55af24785deeba660c616]...
+- [^key-73e8dcc5ea38efd5428e8cbe213d39ab]...
+- “home state regulator” means the relevant EEA regulator in the EEA state where the EEA insurer’s head office is located;
+- “the Insolvency Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings;[^key-94a669f61a12d27222d849d7128a28f6]
+- [^key-7556faf649aa73b7ce3a672a883dba0d]...
+- “the[^key-865337e8c02faeb5c4510f0d8b505eeb] Multi-employer Regulations” means the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005;
+- “multi-employer scheme” has the meaning given by Article 280(4) (modification of the Order in relation to certain categories of schemes);
+- “multi-employer section” means a section of a segregated scheme which has at least 2 employers in relation to that section;
+- “non-segregated scheme” means a multi-employer scheme which is not a segregated scheme;
+- “normal pension age” has the meaning given by Article 122(11) (payment of scheme benefits);
+- “pensionable service” has the meaning given by section 66(2) of the Pension Schemes Act;
+- “public body” means a government department or any non-departmental public body established by a statutory provision to perform functions conferred on it under that statutory provision or any other statutory provision;
+- “relevant office” means—[^key-681a96891ce87711442e647363c5acf0]
+  - (a) in relation to a body corporate, its registered office or, if it has no registered office, its head office, and
+  - (b) in relation to a person other than a body corporate, the person’s head office;
+- “relevant public authority” has the meaning given by Article 280(4);
+- “restricted information” has the meaning given by Article 179(4);
+- “segregated scheme” means a multi-employer scheme which is divided into 2 or more sections where –
+  - (a) any contributions payable to the scheme by an employer in relation to the scheme or by a member are allocated to that employer’s or that member’s section, and
+  - (b) a specified proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section;
+- “segregated part” –
+  - (a) in relation to a non-segregated scheme, means a part of the scheme which is created when the scheme rules require the trustees or managers, in circumstances where an employer in relation to the scheme ceases to participate in the scheme, to segregate such part of the assets of the scheme as is attributable to the liabilities of the scheme to provide pensions or other benefits to, or in respect of, the pensionable service of members of the scheme by reference to that employer, and
+  - (b) in relation to a multi-employer section of a segregated scheme, means a part of the section which is created when the rules of the scheme relating to that section require the trustees or managers of the section, in circumstances where an employer in relation to the section ceases to participate in the scheme, to segregate such part of the assets of the section as is attributable to the liabilities of the section to provide pensions or other benefits to, or in respect of, the pensionable service of members of the section by reference to that employer;
+- “[^key-87752010e99069ae2e24b4a707e047c6]**the Solvency 2 Directive**” means [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);
+- “tax registered scheme” means a pension scheme that is registered under Chapter 2 of Part 4 of the Finance Act 2004 (registration of pension schemes).[^key-4fb8bc822b30602f4e3dbe52b21ae46e]
+- [^key-694db981ff6ce0ef8cc8318647754f7e]...
+- “[^key-ea8577ab4e74a47a911807413c8b68ff]UK insurer” means a person who has permission under Part IV of the FSMA 2000 (permission to carry on regulated activities) to effect or carry out contracts of insurance, but does not include a person who, in accordance with that permission, carries on that activity exclusively in relation to reinsurance contracts.
+
+(3)[^key-93b991dd3a8df1126b3cef3d0c54b42b] In Part III of the Order and these Regulations, “employer”, in relation to—
+
+- (a) an occupational pension scheme which is not a multi-employer scheme, or
+- (b) a single-employer section of a segregated scheme,
+
+which has no active members, includes the person who was the employer of persons in the description of employment to which the scheme or section relates immediately before the time at which the scheme or section ceased to have any active members in relation to it.
+
+(4) In these Regulations, “employer”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme—
+
+- (a) in an assessment period, includes any person who before the assessment date has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, B, C, D, E or F[^key-508095bace31c7b419ea3af09081804f] is satisfied where—
+  - (i) condition A is that a debt under Article 75 of the 1995 Order became due from that employer and the full amount of the debt has been paid before the assessment date;
+  - (ii) condition B is that—
+    - (aa) such a debt became due;
+    - (bb) a legally enforceable agreement has been entered into the effect of which is to reduce the amount which may be recovered in respect of the debt, and
+    - (cc) the reduced amount has been paid in full before the assessment date;
+  - (iii) condition C is that such a debt became due but before the assessment date it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+  - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due;
+  - (v)[^key-28f22247566fe6303615da0fca47e639] condition E is that—
+    - (aa) there is a restructuring within regulation 6ZB or 6ZC of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 (employment-cessation events: exemptions);
+    - (bb) in that restructuring, the employer was the exiting employer for the purposes of those Regulations (see the definition of “exiting employer” in regulation 2(3A) of those Regulations), and
+    - (cc) regulation 6ZA(3) or (4) of those Regulations (employment-cessation events: general) does not apply in relation to that restructuring;
+  - (vi)[^key-246250b5214eb6b87024fecf458eb1bc] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation;
+- (b) in any other case, includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, B, C, D, E or F is satisfied where—
+  - (i) condition A is that a debt under Article 75 of the 1995 Order became due from that employer and the full amount of the debt has been paid;
+  - (ii) condition B is that—
+    - (aa) such a debt became due;
+    - (bb) a legally enforceable agreement has been entered into the effect of which is to reduce the amount which may be recovered in respect of the debt, and
+    - (cc) the reduced amount has been paid in full;
+  - (iii) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+  - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due.
+  - (v)[^key-8b14d8cd30c7bfe9900c5a735af78299] condition E is that—
+    - (aa) there is a restructuring within regulation 6ZB or 6ZC of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005;
+    - (bb) in that restructuring, the employer was the exiting employer for the purposes of those Regulations (see the definition of “exiting employer” in regulation 2(3A) of those Regulations), and
+    - (cc) regulation 6ZA(3) or (4) of those Regulations does not apply in relation to that restructuring.
+  - (vi)[^key-2da05eac1403d7585546bcae3c60da51] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation.
+
+(4A)[^key-e4581af5cc67dabc783df861f9cb9e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-750d2d46221b0acaa7d22ead2bad38b1] In these Regulations, any reference to a numbered Article is a reference to the Article of the Order bearing that number.
+
+## 2. Schemes which are not eligible schemes[^key-ea4c2c239a0603f95ace26cd617fa241][^key-ea4c2c239a0603f95ace26cd617fa241]
+
+(1) For the purposes of Article 110(1)(b) (eligible schemes), an occupational pension scheme is not an eligible scheme if it is –
+
+- (a) a public service pension scheme under the provisions of which there is no requirement for assets related to the intended rate or amount of benefit under the scheme to be set aside in advance (disregarding requirements relating to voluntary contributions);
+- (b) a scheme which is made under Article 9 of the Superannuation (Northern Ireland) Order 1972[^f00006] (superannuation of persons employed in local government service, etc.) which provides pensions to persons mentioned in paragraph (1)(a) of that Article;
+- (c) a scheme which is established under section 48 of the Northern Ireland Act 1998[^f00007] (pensions of members), or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00008] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00009];
+- (d) a scheme in respect of which a relevant public authority has given a guarantee or made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet its liabilities;
+- (e)[^key-d5259fc4b6acbe670e9cf467514e3eba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) a scheme which provides relevant benefits within the meaning of section 612(1) of the 1988 Act but which is neither a[^key-5916fe8a061d7c0d82ecad246bdcfcf0] tax registered scheme[^key-3d4e517dc21494895a60f2cdc6f34254] nor a relevant statutory scheme within the meaning of section 611A[^f00010] of that Act;
+- (fa)[^key-f113c1e7c02037426a28b5645f71ea7b] a tax registered scheme which, immediately before 6th April 2006, was a former approved superannuation fund within the meaning of paragraph 1(1)(b) of Schedule 36 to the Finance Act 2004 (deemed registration of existing schemes);
+- (g) a scheme –
+  - (i) which has been categorised by the Commissioners of Inland Revenue for the purposes of its approval as a centralised scheme for non-associated employers;
+  - (ii) which was not contracted-out at any time before the second abolition date[^key-f84c63597f502dc9c182fd8546ab63e3] , and
+  - (iii) under the provisions of which the only benefits that may be provided on or after retirement (other than money purchase benefits derived from the payment of voluntary contributions by any person) are lump sum benefits which are not calculated by reference to a member’s salary;
+- (h) a scheme –
+  - (i) the only benefits provided by which (other than money purchase benefits) are death benefits, and
+  - (ii) under the provisions of which no member has accrued rights (other than rights to money purchase benefits);
+- (i) a scheme with such a superannuation fund as is mentioned in section 615(6)[^f00011] of the 1988 Act (exemption from tax in respect of certain pensions);
+- (j) a scheme which does not have its main place of administration registered in the United Kingdom;
+- (k) a scheme with fewer than 2 members;
+- (l) a scheme with fewer than 12 members where all the members are trustees of the scheme and either –
+  - (i)[^key-f84d3885e7e6d0fa987fdde6442dabe3] the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme, or
+  - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of Article 23[^f00012] of the 1995 Order (power to appoint independent trustees) and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
+- (m) a scheme with fewer than 12 members where all the members are directors of a company which is the sole trustee of the scheme and either –
+  - (i)[^key-b8fbb7c2cb79e40ea06f1f446010b190] the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors of that company who are members of the scheme, or
+  - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article; and[^key-bee10344802ea982d6bffdb22ceb221c]
+- (n)[^key-1161b7af0494138c388536fd8a1ade5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o) a scheme which, on or after the day appointed[^f00014] by the Department for the purposes of Article 110(2), does not have an employer in relation to the scheme and which has not been authorised under Article 137 (closed schemes) to continue as a closed scheme.
+
+(1A)[^key-0392503bf63a2a1e55612ce7399f5875] Paragraph (1)(d) shall not apply in relation to a scheme where—
+
+- (a) the scheme was in existence immediately prior to IP completion day, and
+- (b) the application of paragraph (1)(d) immediately prior to IP completion day would have given rise to State aid that was incompatible with the internal market within the meaning of Article 107 of the Treaty on the Functioning of the European Union as it had effect in the United Kingdom immediately prior to IP completion day.
+
+(2) Except as otherwise provided by paragraphs (3) and (4), an occupational pension scheme which would be an eligible scheme but for this paragraph is not an eligible scheme where, at any time, the trustees or managers of the scheme enter into a legally enforceable agreement [^key-821bc7d6a88154263bb657d16d00154c]...the effect of which is to reduce the amount of any debt due to the scheme[^key-821bc7d6a88154263bb657d16d00154c]... under Article 75 of the 1995 Order (deficiencies in the assets) which may be recovered by, or on behalf of, those trustees or managers.
+
+(2A)[^key-1ea2399512bc0073a70a71eddad71cbf] Except as otherwise provided in paragraphs (3) and (4), an occupational pension scheme which becomes an eligible scheme in accordance with regulation 42(1)(b) of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (eligibility: schemes treated as money purchase schemes) is not an eligible scheme if—
+
+- (a) the trustees or managers of the scheme during the period beginning with the appointed day and ending immediately before 1st April 2015 have entered into a legally enforceable agreement, and
+- (b) the effect of that agreement (at any time) is to reduce the amount of any debt due to the scheme under Article 75 of the 1995 Order (deficiencies in the assets) which may be recovered by, or on behalf of, the trustees or managers of the scheme.
+
+(3) paragraphs (2) and (2A)[^key-0c0f5ff7000bb164e5b416b92b42ce48] shall not apply where –
+
+- (a) before the beginning of an assessment period –
+  - (i) the trustees or managers of the scheme enter into a legally enforceable agreement [^key-2175bca85be5aa28548cfb26e940f629]...the effect of which is to reduce the amount of the debt due to the scheme under Article 75[^key-e5ad422c079cc2a8ac60869afda8c96a] of the 1995 Order which may be recovered by, or on behalf of, those trustees or managers;
+  - (ii) the value of the scheme’s assets would be sufficient to secure benefits for, or in respect of, members of the scheme which correspond to the amount of compensation which would be payable in relation to the scheme in accordance with the pension compensation provisions if the Board were to assume responsibility for the scheme in accordance with Chapter 3 (pension protection) of Part III of the Order;
+  - (iii) an individual appointed to act as the actuary in relation to the scheme (“the actuary”) has provided the Board with a written estimate of the current value of the assets and the protected liabilities of the scheme together with a statement about the effect which the agreement would have on the value of the scheme’s assets as recorded in that estimate, and
+  - (iv) the Board has determined to validate the estimate and statement provided;
+- (b) before the beginning of an assessment period, the trustees or managers of the scheme enter into a legally enforceable agreement[^key-e6a0a40813cec8bef2aa227d88867672]..., as part of an arrangement under Article 418 of the Companies Order (power of company to compromise with creditors and members), the effect of which is to reduce the amount of the debt due to the scheme under Article 75[^key-893dee212538e72442b518425f5673f7] of the 1995 Order which may be recovered by, or on behalf of, those trustees or managers, or
+- (c) after the beginning of an assessment period, or a further assessment period[^f00015], the Board[^key-2c082360505a81eaad7742dc0300af37]... has entered into a legally enforceable agreement [^key-2c082360505a81eaad7742dc0300af37]...on behalf of the trustees or managers of the scheme the effect of which is to reduce the amount of the debt due to the scheme under Article 75[^key-3eb7e34e2612fbd6e60eb2945aa11a45] of the 1995 Order which may be recovered by, or on behalf of, those trustees or managers.
+
+(4)[^key-8e1629299f20198d19e8e7ee1f147d32] paragraphs (2) and (2A) shall not apply in relation to an eligible scheme where before the beginning of an assessment period in relation to the scheme any of the following is in place—
+
+- (a) a scheme apportionment arrangement under the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005;
+- (b) a regulated apportionment arrangement under those Regulations;
+- (c) a withdrawal arrangement under those Regulations;
+- (d) an approved withdrawal arrangement under those Regulations.
+- (e)[^key-656a2b5856257958ab03c6bc7fd6d56f] a restructuring within regulation 6ZB or 6ZC of those Regulations (employment-cessation events: exemptions).
+- (f)[^key-89dd26eb0f8356ee908937bf5e037987] a flexible apportionment arrangement within regulation 6E of those Regulations.
+
+(5) Where the Board has determined to validate, or not to validate, an estimate and statement provided to it by the actuary under paragraph (3)(a)(iii), it must issue a notice to this effect and must give a copy of that notice to –
+
+- (a) the trustees or managers of the scheme;
+- (b) the actuary;
+- (c) [^key-4388eddb5e95b9c10b2d56716183f1ab]...and
+- (d) the Regulator.
+
+(6) A notice issued by the Board under paragraph (5) shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the date on which the Board received the estimate and statement from the actuary;
+- (d) the Board’s determination to validate, or not to validate, the estimate and statement received from the actuary;
+- (e) a statement of reasons for the Board’s determination;
+- (f) the address for communications at which the Board may be contacted in connection with the issue of the notice;
+- (g) whether the issue of the notice by the Board is a reviewable matter and, if so, the time limit for applying for a review of, or appeal against, the issue of the notice;
+- (h) the date on which the notice issued will become binding, and
+- (i) whether or not the notice issued contains any restricted information and, if so, the nature of the restrictions.
+
+(7) The Board’s determination to validate, or not to validate, the estimate and statement provided to it by the actuary under paragraph (3)(a)(iii) does not take effect –
+
+- (a) until –
+  - (i) the Board has issued a notice under paragraph (5) relating to the determination, and
+  - (ii) the period within which the issue of that notice may be reviewed by virtue of Chapter 6 (reviews, appeals and maladministration) of Part III of the Order has expired, and
+- (b) if the issue of the notice was so reviewed, until –
+  - (i) the review and any reconsideration;
+  - (ii) any reference to the PPF Ombudsman in respect of the issue of the notice, and
+  - (iii) any appeal against his determination or directions,
+
+  has been finally disposed of.
+
+(8)[^key-d69b652e19d6a0e886d777b56bc9852b] In their application to a segregated scheme, paragraphs (2) to (7) shall have effect as if each section of the scheme were a separate scheme.
+
+(9)[^key-e243bdb920d923132382fa28393dd809] In this regulation—
+
+- “contracted-out” is to be construed in accordance with section 3B(2) of the Pension Schemes Act;
+- “the second abolition date” has the meaning given in section 176(1) of the Pension Schemes Act.
+
+## 3. Schemes which cease to be eligible schemes[^key-d972c6789b460ffe7d33f83e1c396519]
+
+(1) Where, after the beginning of an assessment period in relation to an eligible scheme, the scheme ceases to be an eligible scheme in circumstances where –
+
+- (a)[^key-d000c48eaf3fe388463f3a6c0e4ef378] the scheme has ceased to be a tax registered scheme, [^key-824e12bbd616602853e19482b20e7f13]...
+- (b) by reason of the death of a member of the scheme, the scheme becomes a scheme described in regulation 2(1)(k), (l) or (m), or[^key-ba4f104de576bea6cc721a1ab62b9881]
+- (c) the employer in relation to the scheme, or the last remaining employer in relation to a multi-employer scheme, is dissolved,
+
+the scheme shall, for the purposes of Part III of the Order, be treated as remaining an eligible scheme.
+
+(2) Paragraph (1) does not affect the requirement on the Board under Article 130(1) (schemes which become eligible schemes) to refuse to assume responsibility for an eligible scheme if it is satisfied that the scheme was not an eligible scheme throughout the period prescribed in regulation 21.
+
+(3)[^key-1798685666a0ebf149166cac2db47cc6] In its application to a segregated scheme, paragraph (1) shall have effect as if each section of the scheme were a separate scheme.
+
+## 4. Notification of insolvency events in respect of employers[^key-9a63f48dad72472bb07ba9b32706f515]
+
+(1) The “notification period” in Article 104(3) (duty to notify insolvency events in respect of employers) shall be the period of 14 days beginning on whichever date is the later of –
+
+- (a) the insolvency date, and
+- (b) the date on which the insolvency practitioner becomes aware of the existence of the scheme.
+
+(2) A notice issued by an insolvency practitioner under Article 104(2) shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) the nature of the insolvency event which has occurred and the date of the occurrence of that event;
+- (f) the name of the insolvency practitioner in relation to the employer in relation to the scheme;
+- (g) the date on which the insolvency practitioner in relation to the employer in relation to the scheme was appointed to act, or consented to act, in relation to that employer or, in any case where the insolvency practitioner is the official receiver, the date on which the official receiver began to act in relation to that employer;
+- (h) the address for communications at which the insolvency practitioner may be contacted by the Board in connection with the issue of the notice, and
+- (i) whether the notice issued contains any commercially sensitive information.
+
+## 5. Prescribed insolvency events[^key-8c128a78b87fb9406882f0836aa02ba4]
+
+(1) An insolvency event occurs –
+
+- (a)[^key-9c2a75115814de32f3d546d4c93d9a8d] in relation to a company where—[^key-7ad29b81201410ddee620451f56a956e]
+  - (i) an administration order is made by the High Court in respect of the company by virtue of any statutory provision which applies Part III of the Insolvency Order (administration orders) (with or without modification);
+  - (ii) a notice from an administrator under paragraph 84(2) of Schedule B1 to the Insolvency Order (moving from administration to creditors' voluntary liquidation) in relation to the company is registered by the registrar of companies;
+  - (iii) the company moves from administration to winding up pursuant to an order of the High Court under Rule 2.133 of the Insolvency Rules (conversion of administration to winding up – power of court), or
+  - (iv) an administrator or liquidator of the company, being the nominee in relation to a proposal for a voluntary arrangement under Part II of the Insolvency Order (company voluntary arrangements), summons meetings of the company and of its creditors, to consider the proposal, in accordance with Article 16(2) of that Order (summoning of meetings);
+- (aa) in relation to a partnership, where—
+  - (i) the partnership moves from administration to winding up pursuant to an order of the High Court under Rule 2.65 of the Insolvency Rules (as applied by an order under Article 364 of the Insolvency Order (insolvent partnerships)) as that Rule stood before the coming into operation of the Insolvency (Amendment) Rules (Northern Ireland) 2006,or[^key-306faa65d9d409c15358732cdb94919c]
+  - (ii) an administrator, liquidator or trustee of the partnership, being the nominee in relation to a proposal for a voluntary arrangement under Part II of the Insolvency Order (as applied by an order under Article 364 of that Order), summons meetings of the members of the partnership and of the partnership’s creditors, to consider the proposal, in accordance with Article 16(2) of that Order (as applied by an order under Article 364 of that Order);
+- (b) in relation to a relevant body, where –
+  - (i) any of the events referred to in Article 105(3) (insolvency events) occurs in relation to that body by virtue of the application (with or without modification) of any provision of the Insolvency Order by any other statutory provision, or
+  - (ii) an administration order is made by the High Court in respect of the relevant body by virtue of any statutory provision which applies Part III of the Insolvency Order (with or without modification);
+- (c) in relation to a building society, where there is dissolution by consent of the members under section 87 of the Building Societies Act 1986[^f00017] (dissolution by consent);
+- (d) in relation to a friendly society, where there is dissolution by consent of the members under section 20 of the Friendly Societies Act 1992[^f00018] (dissolution by consent), and
+- (e) in relation to an industrial and provident society, where there is dissolution by consent of the members under section 67 of the Industrial and Provident Societies Act (Northern Ireland)1969[^f00019] (instrument of dissolution).
+
+(2) In this regulation –
+
+- “administration order” means an order whereby the management of the company or relevant body, as the case may be, is placed in the hands of a person appointed by the High Court;
+- “relevant body” means –
+  - (a) a credit union within the meaning of Article 2(2) of the Credit Unions (Northern Ireland) Order 1985[^f00020];
+  - (b) a limited liability partnership within the meaning of Article 53(6) of the Order (Articles 34 to 52: partnerships and limited liability partnerships);
+  - (c) a building society within the meaning of section 119 of the Building Societies Act 1986;
+  - (d) a person who has permission to act under Part IV of the FSMA 2000 (permission to carry on regulated activities);
+  - (e) the society of Lloyd’s and Lloyd’s members who have permission under Part XIX of the FSMA 2000 (Lloyd's);
+  - (f) a friendly society within the meaning of the Friendly Societies Act 1992, or
+  - (g) a society which is registered as an industrial and provident society under the Industrial and Provident Societies Act (Northern Ireland) 1969.
+
+(3)[^key-cf278e935dc54c9fc52292af102c9f64] In this regulation, a reference to Part III of the Insolvency Order (administration orders) shall, in so far as it relates to a company or society listed in Article 4(1) of the Insolvency (Northern Ireland) Order 2005 (special administration regimes), have effect as if it referred to Part III of the Insolvency Order as it had effect immediately before the coming into operation of Article 3 of the Insolvency (Northern Ireland) Order 2005 (replacement of Part III of the Insolvency Order).
+
+## 5A. European insolvency event[^key-50cc44689f4288e5db224c614f299742]
+
+(1) An insolvency event occurs in relation to an employer on the fifth anniversary of the date that the insolvency proceedings mentioned in paragraph (2)(were commenced.
+
+(2) The insolvency proceedings are proceedings which—
+
+- (a) on 20th July 2014—
+  - (i) relate to an employer which has the centre of its main interests in the territory of an EEA state other than the United Kingdom;
+  - (ii) have been commenced in that EEA state, and
+  - (iii) have not come to an end;
+- (b) relate to an employer in relation to which a winding up order as mentioned in Article 105(3)(g) of the Order (insolvency events) was granted and which was later set aside by the court on the basis that the court did not have jurisdiction to grant the order because the employer did not have an establishment in the United Kingdom, and
+- (c) relate to an employer in relation to an occupational pension scheme in respect of which an assessment period would have begun as a result of the grant of the winding up order mentioned in sub-paragraph (b) had that order not been set aside.
+
+(3) The insolvency practitioner is the liquidator in relation to the insolvency proceedings mentioned in paragraph (2)(a)(i).
+
+(4)[^key-fe6bf51c840ba3d90a4a254185184cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-e2e315716a3a4a87ed1a9ccb680f46d7] In this regulation “insolvency proceedings”, “establishment” and “liquidator” each has the meaning given by Article 2 of Council Regulation [(EC) No 1346/2000](https://www.legislation.gov.uk/european/regulation/2000/1346) of 29 May 2000 on insolvency proceedings.
+
+## 6. Circumstances in which insolvency proceedings in relation to the employer are stayed or come to an end[^key-f18e63cf31a7d7cc27d85410cae6227b]
+
+(1) Subject to paragraph (1A), the prescribed[^key-abdde6c0bac07f8ed198b2f92adaeb29] circumstances referred to in Article 106(3)(a) (insolvency practitioner’s duty to issue notices confirming status of scheme) in which insolvency proceedings in relation to an employer in relation to an occupational pension scheme are stayed or come to an end are –
+
+- (a) in a case where the employer is a company, where –
+  - (i) the nominee in relation to a proposal for a voluntary arrangement under Part II of the Insolvency Order (company voluntary arrangements) has submitted a report to the court under Article 15[^f00021] of that Order (procedure where nominee is not the liquidator or administrator) which states that, in his opinion, meetings of the company and its creditors should be summoned to consider the proposal, but no voluntary arrangement has effect or, where a voluntary arrangement has effect, it later ceases to have effect as a result of a court order under Article 19 of that Order (challenge of decisions);
+  - (ii) the directors of the company have filed documents and statements in accordance with paragraph 18(1) (documents to be submitted to High Court) of Schedule A1[^f00022] to that Order (moratorium where directors propose voluntary arrangement) but –
+    - (aa) the resulting moratorium comes to an end without a voluntary arrangement taking effect, or
+    - (bb) where a voluntary arrangement has effect, it later ceases to have effect as a result of a court order under paragraph 48 (challenge of decisions) of Schedule A1 to that Order;
+  - (iii)[^key-6d2ce0f9649ee815034292ab8e06fac7] the appointment of an administrator in respect of the company ceases to have effect except where—
+    - (aa) the company moves from administration into winding up pursuant to paragraph 84 (moving from administration to creditor’s voluntary liquidation) of Schedule B1 (administration) to that Order or pursuant to an order of the High Court under Rule 2.133 of the Insolvency Rules (conversion of administration to winding up – power of court), or
+    - (bb) a winding up order is made by the High Court immediately upon the appointment of the administrator ceasing to have effect;
+  - (iv) an administrative receiver within the meaning of Article 5(1) of that Order appointed in relation to the company vacates office under Article 55 of that Order (vacation of office), or
+  - (v)[^key-6c380b02652b4cbb8a995e409c77308c] all proceedings in the winding up of the company are stayed altogether or an order for the winding up of the company is rescinded or discharged except in circumstances where the High Court has made an administration order in accordance with paragraph 38 or 39 (application where company in liquidation) of Schedule B1 to that Order;
+- (b) in a case where the employer is an individual, where –
+  - (i) the nominee in relation to a proposal for a voluntary arrangement under Chapter II (voluntary arrangements) of Part VIII of the Insolvency Order (individual voluntary arrangements) has submitted a report to the court under Article 230(1)[^f00023] (nominee’s report on debtor’s proposal) or 230A(3) (debtor’s proposal and nominee’s report) of that Order which states that, in his opinion, a meeting of the individual’s creditors should be summoned to consider the proposal, but no voluntary arrangement takes effect or, where a voluntary arrangement takes effect, it later ceases to have effect as a result of a court order under Article 236[^f00024] of that Order (challenge of meeting’s decision);
+  - (ii) a bankruptcy order against the individual is annulled or rescinded, or
+  - (iii) an insolvency administration order in respect of the estate of the individual made in accordance with an order under Article 365[^f00025] of that Order (insolvent estates of deceased persons) is annulled or rescinded;
+- (c) in a case where the employer is a partnership, where –
+  - (i) the nominee in relation to a proposal for a voluntary arrangement under Part II of the Insolvency Order (as applied by an order under Article 364[^f00026] of that Order (insolvent partnerships)) has submitted a report to the court under Article 15 of that Order which states that, in his opinion, meetings of the partnership and its creditors should be summoned to consider the proposal, but no voluntary arrangement has effect or, where a voluntary arrangement has effect, it later ceases to have effect as a result of a court order under Article 19 of that Order (as applied by an order under Article 364 of that Order);
+  - (ii) the members of the partnership have filed documents and statements in accordance with paragraph 18(1) of Schedule A1 to that Order (as applied by an order under Article 364 of that Order) but –
+    - (aa) the resulting moratorium comes to an end without a voluntary arrangement taking effect, or
+    - (bb) where a voluntary arrangement has effect, it later ceases to have effect as a result of a court order under paragraph 48 of Schedule A1 to that Order (as applied by an order under Article 364 of that Order);
+  - (iii)[^key-1edbda5b32269bb79e8023f10689c5b0] an administration order in relation to a partnership under Part III of that Order (administration orders) is discharged except where—
+    - (aa) a winding up order is made by the High Court immediately upon the discharge of the administration order, or
+    - (bb) the discharge is pursuant to an order of the High Court for the administration to be converted into winding up under Rule 2.65(1) of the Insolvency Rules (conversion of administration into winding up – power of court) as those Rules stood before the coming into operation of the Insolvency (Amendment) Rules (Northern Ireland) 2006, or
+  - (iv) all proceedings in a winding up of the partnership are stayed altogether or an order for the winding up of the partnership is rescinded or discharged.
+
+(1A)[^key-a50c9c63d690143f111fcbb21ef4a666] This regulation does not apply in relation to an insolvency event under regulation 5A.
+
+(2)[^key-9f7aab53279fd6314bd30273daf2c86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Applications and notifications to the Board[^key-5d17150b8bbb38017a93ada25852af60]
+
+(1) Except in a case to which regulation 7A applies, the prescribed requirement for the purposes of Article 113(1)(b) and (4)(b) (applications and notifications for the purposes of Article 112) is that at least one of paragraphs (2) and (4)[^key-ddbedc0455da02b23b1d0c1404fab097] applies to the employer.
+
+(2) This paragraph applies to an employer if it is not—
+
+- (a) an individual;
+- (b) a company as defined in section 1(1) of the Companies Act 2006;
+- (c) a company which may be wound up under Part 6 of the Insolvency Order (winding up of unregistered companies);
+- (d) a partnership, or
+- (e) a relevant body as defined in regulation 5(2).
+
+(3) For the purposes of paragraph (2)(c), an employer which is a company incorporated outside the United Kingdom is to be regarded as a company which may be wound up under Part 6 of the Insolvency Order.
+
+(4) This paragraph applies to an employer if it is an EEA insurer or an EEA credit institution.
+
+(5)[^key-a51f41fb82a6cb626bc220b8ae537774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-a51f41fb82a6cb626bc220b8ae537774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7A. Applications and notifications to the Board – multi-employer schemes[^key-e08bce567ada3410e6310ab00581b6b2]
+
+(1) This regulation applies to—
+
+- (a) a multi-employer section to which Part III of the Multi-employer Regulations (segregated schemes: multi-employer sections without requirement for partial wind up on withdrawal of a participating employer) applies which is, for the purposes of Part III of the Order, an eligible scheme, and
+- (b) a non-segregated scheme to which Part VI of the Multi-employer Regulations (non-segregated schemes: schemes without provision for partial wind up on withdrawal of a participating employer) applies which is, for the purposes of Part III of the Order, an eligible scheme.
+
+(2)[^key-cc7ab0a9c29c407572dd777dc6641b58] In the case of a scheme, or a section of a scheme, to which this regulation applies, the prescribed requirement for the purposes of Article 113(1A)(b) and (4)(a)(ii) (applications and notifications for the purposes of Article 112) is that at least one of paragraphs (3) and (5)[^key-0906b99ccc76a954aa73fc86380c7611] applies to the employer.
+
+(3) This paragraph applies to an employer if it is not—
+
+- (a) an individual;
+- (b) a company as defined in section 1(1) of the Companies Act 2006;
+- (c) a company which may be wound up under Part 6 of the Insolvency Order;
+- (d) a partnership, or
+- (e) a relevant body as defined in regulation 5(2).
+
+(4) For the purposes of paragraph (3)(c), an employer which is a company incorporated outside the United Kingdom is to be regarded as a company which may be wound up under Part 6 of the Insolvency Order.
+
+(5) This paragraph applies to an employer if it is an EEA insurer or EEA credit institution.
+
+(6)[^key-43c1aa818c1df7c432b2bbaf91887c18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-43c1aa818c1df7c432b2bbaf91887c18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Applications and notifications to the Board – further provision[^key-a6efc7fc949800196c30fe8365b24312]
+
+(1)[^key-8f73e19b4744eb12b68c7b5bf0ed5e28] Except in a case to which regulation 8A applies, the prescribed period for making an application to the Board under Article 113(1) shall be the period of—
+
+- (a) 28 days, or
+- (b) such longer period of not more than three months as the Board may determine is reasonable in the circumstances of a particular case,
+
+beginning with the date on which the trustees or managers of an eligible scheme become aware that the employer in relation to the scheme is unlikely to continue as a going concern.
+
+(2) Applications to the Board for the purposes of Article 112 shall be in writing and shall contain the following information –
+
+- (a) a description of the type or purpose of the application;
+- (b) the name, address and pension scheme registration number of the scheme in respect of which the application is made;
+- (c) the name of the employer in relation to the scheme in respect of which the application is made;
+- (d) a statement by the trustees or managers of the scheme that the employer in relation to the scheme is unlikely to continue as a going concern and that the requirements prescribed under Article 113(1)(b) have been met in relation to that employer;
+- (e) the date on which the trustees or managers of the scheme became aware that the employer in relation to the scheme is unlikely to continue as a going concern, [^key-bcaebe27721c67d5dc858415202662ef]...
+- (f) the date on which the application was sent to the Board by the trustees or managers of the scheme , and[^key-cd2a9ff2b583cda693716aee47c26ca5]
+- (g)[^key-38ad2c21e952f20a367257c7df85e78b] if the application was not sent to the Board within the period specified in paragraph (1)(a), the reasons for this.
+
+(3) Where the Regulator becomes aware that the employer in relation to an eligible scheme is unlikely to continue as a going concern and that the requirements prescribed under Article 113(1)(b) are met in relation to that employer, the prescribed information to be contained in the notice referred to in Article 113(4) which the Regulator must give to the Board is as follows –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) a statement by the Regulator that the employer in relation to the scheme is unlikely to continue as a going concern and that the requirements prescribed under Article 113(1)(b) are met in relation to that employer, and
+- (f) the date on which the Regulator became aware that the employer in relation to the scheme is unlikely to continue as a going concern.
+
+(4) Where the Board receives a notice from the Regulator to which paragraph (3) applies, the prescribed information that must be contained in the notice referred to in Article 113(5) which the Board must give to the trustees or managers of the scheme concerned and copy to the employer in relation to that scheme is as follows –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) a statement that the Board received a notice from the Regulator under Article 113(4) and the date on which that notice was received by the Board;
+- (f) the date on which the Regulator became aware that the employer in relation to the scheme is unlikely to continue as a going concern;
+- (g) the address for communications at which the Board may be contacted in respect of the issue of the notice, and
+- (h) whether the notice issued by the Board contains any restricted information and, if so, the nature of the restrictions.
+
+## 8A. Applications and notifications to the Board – further provision for multi-employer schemes[^key-71e2d5420c1db7208c0e8c035819d14c]
+
+(1) This regulation applies to—
+
+- (a) a multi-employer section to which Part III of the Multi-employer Regulations (segregated schemes: multi-employer sections without requirement for partial wind up on withdrawal of a participating employer) applies which is, for the purposes of Part III of the Order, an eligible scheme, and
+- (b) a non-segregated scheme to which Part VI of the Multi-employer Regulations (non-segregated schemes: schemes without provision for partial wind up on withdrawal of a participating employer) applies which is, for the purposes of Part III of the Order, an eligible scheme.
+
+(2) The prescribed period for making an application to the Board under Article 113(1)(a) or (b) (applications and notifications for the purposes of Article 112) shall be—
+
+- (a) where the application is under Article 113(1)(a), the period of 28 days beginning with the date on which the trustees or managers of a scheme, or a section of a scheme, become aware that the conditions for making an application to the Board under that Article are met in relation to that scheme or section, or
+- (b) where the application is under Article 113(1)(b), the period of 28 days beginning with—
+  - (i) 24th August 2005 if the trustees or managers of a scheme, or a section of a scheme, are aware on that date that the conditions for making an application to the Board under that Article were met in relation to that scheme, or section, between 6th April 2005 and that date, or
+  - (ii) the date on which the trustees or managers of a scheme, or a section of a scheme, become aware after 24th August 2005 that the conditions for making an application to the Board under that Article are met in relation to that scheme or section.
+
+(3) Applications to the Board for the purposes of Article 112 (duty to assume responsibility for schemes following application or notification) shall, where the application is made under Article 113(1)(a), be in writing and shall contain the following information—
+
+- (a) a description of the type or purpose of the application;
+- (b) the name, address and pension scheme registration number of the scheme, or section of the scheme, in respect of which the application is made;
+- (c) the name of the employer in relation to the scheme, or section of the scheme, in respect of which the application is made;
+- (d) a statement by the trustees or managers of the scheme, or section of the scheme, that the conditions for making an application to the Board under Article 113(1)(a) have been met;
+- (e) the date on which the trustees or managers of the scheme, or section of the scheme, became aware that the conditions for making an application to the Board under Article 113(1)(a) were met, and
+- (f) the date on which the application was sent to the Board by the trustees or managers of the scheme or section of the scheme.
+
+(4) Applications to the Board for the purposes of Article 112 shall, where the application is made under Article 113(1)(b), be in writing and shall contain the following information—
+
+- (a) a description of the type or purpose of the application;
+- (b) the name, address and pension scheme registration number of the scheme, or section of the scheme, in respect of which the application is made;
+- (c) the name of each employer in relation to the scheme, or section of the scheme, in respect of which the application is made;
+- (d) the name of the person who is no longer an employer or the persons who are no longer employers in relation to the scheme, or section of the scheme, at the time referred to in Article 113(4)(b);
+- (e) a statement by the trustees or managers of the scheme, or section of the scheme, that the conditions for making an application to the Board under Article 113(1)(b) have been met;
+- (f) the date on which the trustees or managers of the scheme, or section of the scheme, became aware that the conditions for making an application to the Board under Article 113(1)(b) were met, and
+- (g) the date on which the application was sent to the Board by the trustees or managers of the scheme or section of the scheme.
+
+(5) Where the Regulator becomes aware that the conditions for making a notification to the Board under Article 113(4)(a) are met in relation to a scheme, or a section of a scheme, which is, for the purposes of Part III of the Order, an eligible scheme, the notice which the Regulator must give to the Board under that Article shall be in writing and shall contain the following information—
+
+- (a) the name or type of the notice given;
+- (b) the date on which the notice is given;
+- (c) the name, address and pension scheme registration number of the scheme, or section of the scheme, in respect of which the notice is given;
+- (d) the name of the employer in relation to the scheme, or section of the scheme, in respect of which the notice is given;
+- (e) a statement by the Regulator that the employer referred to in sub-paragraph (d) is unlikely to continue as a going concern and meets the requirements specified in regulation 7A(2), and
+- (f) the date on which the Regulator became aware of the matter in respect of which the statement is provided by it under sub-paragraph (e).
+
+(6) Where the Regulator is aware that the conditions for making an application to the Board under Article 113(4)(b) are met in relation to a scheme, or a section of a scheme, which is, for the purposes of Part III of the Order, an eligible scheme, the notice which the Regulator must give to the Board under that Article shall be in writing and shall contain the following information—
+
+- (a) the name or type of the notice given;
+- (b) the date on which the notice is given;
+- (c) the name, address and pension scheme registration number of the scheme, or section of the scheme, in respect of which the notice is given;
+- (d) the name of each employer in relation to the scheme, or section of the scheme, in respect of which the notice is given;
+- (e) the name of the person who is no longer an employer or the persons who are no longer employers in relation to the scheme, or section of the scheme, at the time referred to in Article 113(4)(b);
+- (f) a statement by the Regulator that the person or persons referred to in sub-paragraph (e) is no longer an employer or are no longer employers in relation to the scheme, or section of the scheme, at the time referred to in Article 113(4)(b), and
+- (g) the date on which the Regulator became aware of the matter in respect of which the statement is provided by it under sub-paragraph (f).
+
+(7) Where the Board receives a notice from the Regulator to which paragraph (5) or (6) applies, the notice referred to in Article 113(5) which the Board must give to the trustees or managers of the scheme, or section of the scheme, concerned and copy to any employer in relation to that scheme, or section, shall be in writing and shall contain the following information—
+
+- (a) the name or type of the notice given;
+- (b) the date on which the notice is given;
+- (c) the name, address and pension scheme registration number of the scheme, or section of the scheme, in respect of which the notice is given;
+- (d) a statement that the Board received the notice from the Regulator under Article 113(4)(a) or (b) and the date on which the notice was received by the Board;
+- (e) where the notice referred to in sub-paragraph (d) is a notice under Article 113(4)(a), the date on which the Regulator became aware that the employer in relation to the scheme, or section of the scheme, is unlikely to continue as a going concern;
+- (f) where the notice referred to in sub-paragraph (d) is a notice under Article 113(4)(b), the date on which the Regulator became aware that the person or persons referred to in paragraph (6)(e) is no longer an employer or are no longer employers in relation to the scheme, or section of the scheme, at the time referred to in Article 113(4)(b);
+- (g) the address for communications at which the Board may be contacted in respect of the giving of the notice, and
+- (h) whether the notice given by the Board contains any restricted information and, if so, the nature of the restrictions.
+
+## 9. Confirmation of scheme status by insolvency practitioner[^key-02ad2230ff90b0e78e52c43bab18e0fa]
+
+(1) The prescribed matters referred to in Article 106(5)(a) (insolvency practitioner’s duty to issue notices confirming status of scheme) which the insolvency practitioner in relation to the employer in relation to an occupational pension scheme[^key-04ea719e1033c6d2bda27355c47f9b12] must be able to confirm are –
+
+- (a) in circumstances where the employer is not an individual or a partnership[^key-ab0bc94598a78cd48de099a49f64ff3d] , that –
+  - (i) the employer[^key-44f01447c63f16136dcfa57f49e60b6a] has been rescued as a going concern and the employer –
+    - (aa) retains responsibility for meeting the pension liabilities under the scheme, and
+    - (bb) has not entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme;
+- (b) in circumstances where the employer is an individual, that –
+  - (i) there has been a rescue of all or part of the employer’s business as a going concern and the employer –
+    - (aa) retains responsibility for meeting the pension liabilities under the scheme, and
+    - (bb) has not entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme;
+- (c) in circumstances where the employer is a partnership, that –
+  - (i) there has been a rescue of all or part of the employer’s business and the employer –
+    - (aa) retains responsibility for meeting the pension liabilities under the scheme, and
+    - (bb) has not entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme.
+
+(2) The prescribed matters referred to in Article 106(5)(b) which the insolvency practitioner must be able to confirm are –
+
+- (a) in circumstances where the employer is not an individual or a partnership[^key-a7f5b9a1504ef7a89573bd9919e59203] , that –
+  - (i) that employer has entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) that employer is not continuing as a going concern and –
+    - (aa) no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme, and
+    - (bb) the insolvency practitioner is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person;
+- (b) in circumstances where the employer is an individual, that –
+  - (i) that employer has entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) no part of the employer’s business is being continued by that employer as a going concern and –
+    - (aa) no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme, and
+    - (bb) the insolvency practitioner is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person;
+- (c) in circumstances where the employer is a partnership, that –
+  - (i) that employer has entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) no part of the employer’s business is being continued by one or more of the partners as a going concern and –
+    - (aa) no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme, and
+    - (bb) the insolvency practitioner is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person.
+
+(3) A notice issued by an insolvency practitioner under Article 106(2)(a) or (b) or by a former insolvency practitioner under Article 106(4) shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) the name of the insolvency practitioner or former insolvency practitioner and the address at which that insolvency practitioner may be contacted by the Board in connection with the issue of the notice;
+- (f) a statement by the insolvency practitioner or former insolvency practitioner that, as the case may be, a scheme rescue has occurred or a scheme rescue is not possible or that he has been unable to confirm that a scheme rescue has occurred or that a scheme rescue is not possible;
+- (g) if a scheme rescue has occurred, the date or the approximate date of the scheme rescue and, if there is a new employer in relation to the scheme, the name and address of that employer in relation to the scheme;
+- (h) if a scheme rescue is not possible, a statement from the insolvency practitioner or former insolvency practitioner as to why, in his opinion, that is not possible;
+- (i) if Article 106(4) applies and the former insolvency practitioner has not been able to confirm in relation to the scheme that a scheme rescue is not possible, a statement from that insolvency practitioner as to why, in his opinion, that is the case;
+- (j) a statement that the notice issued will not become binding until it has been approved by the Board, and
+- (k) whether, in the opinion of the insolvency practitioner or former insolvency practitioner, the notice issued contains any commercially sensitive information.
+
+## 10. Confirmation of scheme status by Board[^key-4019eb11efcb0bfb61e1fe8959713cee]
+
+(1) This regulation applies in a case where Article 113 (applications and notifications for the purposes of Article 112) applies and where the requirements prescribed in regulation 7 or 7A[^key-d6933719498ff4cf448cd587f045b1bc] have been met in relation to the employer in relation to an eligible scheme.
+
+(2) The prescribed matters referred to in Article 114(5)(a) (Board’s duty where application or notification received under Article 113) which the Board must be able to confirm are that –
+
+- (a) all or part of the employer’s business has been rescued as a going concern and the employer –
+  - (i) retains responsibility for meeting the pension liabilities under the scheme, and
+  - (ii) has not entered into an agreement to which regulation 2(3)(c) applies, or
+- (b) the Board is satisfied that another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme.
+
+(3) The prescribed matters referred to in Article 114(5)(b) which the Board must be able to confirm are –
+
+- (a) in circumstances where the employer is not an individual or a partnership[^key-172c8d4c05239df3cd9ac0e3a1ef933c] , that –
+  - (i) that employer has entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) that employer is not continuing as a going concern and –
+    - (aa) no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme, and
+    - (bb) the Board is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person;
+- (b) in circumstances where the employer is an individual, that –
+  - (i) that employer has entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) no part of the employer’s business is being continued by that employer as a going concern and –
+    - (aa) no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme, and
+    - (bb) the Board is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person;
+- (c) in circumstances where the employer is a partnership [^key-79d6fdceeef6f8b532cda725b4edf8be]..., that –
+  - (i) that employer has entered into an agreement to which regulation 2(3)(c) applies, or
+  - (ii) no part of the employer’s business is being continued by one or more of the partners as a going concern and –
+    - (aa) no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme, and
+    - (bb) the Board is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person.
+
+(4) A notice issued by the Board under Article 114(2) or (3) shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) a statement by the Board that a scheme rescue has occurred or that a scheme rescue is not possible;
+- (f) if a scheme rescue has occurred, the date or the approximate date of the scheme rescue and, if there is a new employer in relation to the scheme, the name and address of that employer;
+- (g) if a scheme rescue is not possible, a statement by the Board to that effect;
+- (h) the address for communications at which the Board may be contacted in connection with the issue of the notice;
+- (i) whether the issue of the notice by the Board is a reviewable matter and, if so, the time limit for applying for a review of, or appeal against, the issue of the notice;
+- (j) the date on which the notice issued will become binding, and
+- (k) whether the notice issued contains any restricted information and, if so, the nature of the restrictions.
+
+## 11. Confirmation of scheme status by insolvency practitioner – multi-employer schemes[^key-30e03caba6b6d8a6e1535938291b3ece]
+
+(1) This regulation applies to –
+
+- (a) a section of a segregated scheme with only one employer in relation to that section;
+- (b) a multi-employer section of a segregated scheme, or
+- (c) a non-segregated scheme,
+
+where the scheme rules contain a provision for the partial winding up of the scheme, or the section, in circumstances where an employer in relation to the scheme, or the section, ceases to participate in the scheme.
+
+(2) Where, by virtue of Article 106[^f00028] (insolvency practitioner’s duty to issue notices confirming status of scheme), an insolvency practitioner is required to issue a notice under paragraph (2)(a) (a “scheme failure notice”) or (2)(b) (a “withdrawal notice”) of that Article in relation to –
+
+- (a) a section of a segregated scheme;
+- (b) a segregated part of a multi-employer section of a segregated scheme, or
+- (c) a segregated part of a non-segregated scheme,
+
+to which this regulation applies, regulation 9 shall have effect and shall be read as if for “the scheme”, in each place where it appears, there were substituted “the section” or, as the case may be, “the segregated part”.
+
+(3) Where, by virtue of Article 104(3A) or, as the case may be, 113(1B)[^f00029], the trustees or managers of a scheme, or a section of a scheme, to which this regulation applies are required to give a non-segregation notice to the Board, the notice shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued, and
+- (e) a statement that the trustees or managers have decided not to exercise the option to segregate under the scheme.
+
+(4) Where, under Article 114 (Board’s duty where application or notification received under Article 113), the Board is required to issue a notice under paragraph (2) (a “scheme failure notice”) or (3) (a “withdrawal notice”) of that Article in relation to –
+
+- (a) a section of a segregated scheme;
+- (b) a segregated part of a multi-employer section of a segregated scheme, or
+- (c) a segregated part of a non-segregated scheme,
+
+to which this regulation applies, regulation 10 shall have effect and shall be read as if for “the scheme”, in each place where it appears, there were substituted “the section” or, as the case may be, “the segregated part”.
+
+## 12. Confirmation of scheme status by Board – multi-employer schemes[^key-21203890d6e668bb46089fc022c343b2]
+
+(1) This regulation applies to –
+
+- (a) a non-segregated scheme, or
+- (b) a multi-employer section of a segregated scheme,
+
+the rules of which do not contain a provision for the partial winding up of the scheme, or the section, in circumstances where an employer in relation to the scheme, or the section, ceases to participate in the scheme.
+
+(2) Where, under Article 106(2)(a) (insolvency practitioner’s duty to issue notices confirming status of scheme), an insolvency practitioner is required to issue a scheme failure notice in relation to a multi-employer section of a segregated scheme or a non-segregated scheme to which this regulation applies, regulation 9(2) shall have effect and shall be read as if –
+
+- (a) in the case of a multi-employer section of a segregated scheme –
+  - (i) in sub-paragraph (a)(ii)(aa), for “no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme” there were substituted “no other person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the section”;
+  - (ii) in sub-paragraph (a)(ii)(bb), for “the insolvency practitioner is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person” there were substituted “the insolvency practitioner is of the opinion that all of the pension liabilities under the section will not be assumed by another person”;
+- (b) in the case of a non-segregated scheme –
+  - (i) in sub-paragraph (a)(ii)(aa), for “no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme” there were substituted “no other person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the scheme”;
+  - (ii) in sub-paragraph (a)(ii)(bb), for “the insolvency practitioner is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person” there were substituted “the insolvency practitioner is of the opinion that all of the pension liabilities under the scheme will not be assumed by another person”.
+
+(3) Where, under Article 106(2)(b), an insolvency practitioner is required to issue a scheme rescue notice in relation to a multi-employer section of a segregated scheme or a non-segregated scheme to which this regulation applies, regulation 9(1) shall have effect and shall be read as if –
+
+- (a) in the case of a multi-employer section of a segregated scheme –
+  - (i) for “retains responsibility for meeting the pension liabilities under the scheme”, in each place where it appears, there were substituted “assumes responsibility for meeting all of the pension liabilities under the section”;
+  - (ii) for “another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme”, in each place where it appears, there were substituted “another person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the section”;
+- (b) in the case of a non-segregated scheme –
+  - (i) or “retains responsibility for meeting the pension liabilities under the scheme”, in each place where it appears, there were substituted “assumes responsibility for meeting all of the pension liabilities under the scheme”;
+  - (ii) for “another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme”, in each place where it appears, there were substituted “another person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the scheme”.
+
+(4) Where, under Article 114(2) (Board’s duty where application or notification received under Article 113), the Board is required to issue a scheme failure notice in relation to a multi-employer section of a segregated scheme or a non-segregated scheme to which this regulation applies, regulation 10(3) shall have effect and shall be read as if –
+
+- (a) in the case of a multi-employer section of a segregated scheme –
+  - (i) in sub-paragraph (a)(ii)(aa), for “no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme” there were substituted “no other person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the section”;
+  - (ii) in sub-paragraph (a)(ii)(bb), for “the Board is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person” there were substituted “the Board is of the opinion that all of the pension liabilities under the section will not be assumed by another person”;
+- (b) in the case of a non-segregated scheme –
+  - (i) in sub-paragraph (a)(ii)(aa), for “no other person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme” there were substituted “no other person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the scheme”;
+  - (ii) in sub-paragraph (a)(ii)(bb), for “the Board is of the opinion that the employer’s pension liabilities under the scheme will not be assumed by another person” there were substituted “the Board is of the opinion that all of the pension liabilities under the scheme will not be assumed by another person”.
+
+(5) Where, under Article 114(3), the Board is required to issue a withdrawal notice in relation to a multi-employer section of a segregated scheme or a non-segregated scheme to which this regulation applies, regulation 10(2) shall have effect and shall be read as if –
+
+- (a) in the case of a multi-employer section of a segregated scheme –
+  - (i) in sub-paragraph (a)(i), for “retains responsibility for meeting the pension liabilities under the scheme” there were substituted “assumes responsibility for meeting all of the pension liabilities under the section”;
+  - (ii) in sub-paragraph (b), for “the Board is satisfied that another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme” there were substituted “the Board is satisfied that another person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the section”;
+- (b) in the case of a non-segregated scheme –
+  - (i) in sub-paragraph (a)(i), for “retains responsibility for meeting the pension liabilities under the scheme” there were substituted “assumes responsibility for meeting all of the pension liabilities under the scheme”;
+  - (ii) in sub-paragraph (b), for “the Board is satisfied that another person or other persons has or have assumed responsibility for meeting the employer’s pension liabilities under the scheme” there were substituted “the Board is satisfied that another person or other persons has or have assumed responsibility for meeting all of the pension liabilities under the scheme”.
+
+## 13. Confirmation of scheme status – binding notices[^key-66dc110dbb198d1cd7ca2c7c4ff896fd]
+
+(1) Where the Board determines to approve or not to approve a notice issued by an insolvency practitioner or former insolvency practitioner in relation to an employer in relation to an occupational pension scheme[^key-f6c970bb13f73c2b5098a6cc74c34b1b] under Article 106 (insolvency practitioner's[^key-b3893322df3e4626a9488bf1823be6a3] duty to issue notices confirming status of scheme), the determination notice which the Board must issue under paragraph (4) of that Article to that effect shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) a statement that the Board received a notice from the insolvency practitioner or former insolvency practitioner under Article 106, the effect of that notice and the date on which it was issued by the insolvency practitioner;
+- (f) the name of the insolvency practitioner or former insolvency practitioner;
+- (g) a statement of whether or not the Board has determined to approve the notice issued by the insolvency practitioner or former insolvency practitioner under Article 106;
+- (h) the address for communications at which the Board may be contacted in connection with the issue of the notice, and
+- (i) whether the notice issued by the Board contains any restricted information and, if so, the nature of the restriction.
+
+(1A)[^key-36d1652d9aa500de4477edbefdca741e] Where a notice issued under Article 106 becomes binding, the notice which the Board must give under Article 109(3) (binding notices confirming status of scheme) shall be in writing.
+
+(2) Where a notice issued under Article 114(2) or (3) (Board’s duty where application or notification received under Article 113) becomes binding, the notice which the Board must issue under Article 114(7) to that effect shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) a statement that the notice issued under Article 114(2) or (3) has become binding;
+- (f) the date on which the notice under Article 114(2) or (3) was issued, and
+- (g) whether the notice issued by the Board contains any restricted information and, if so, the nature of the restriction.
+
+## 14. Contributions to schemes[^key-f538738f15dcf4befde82707a5dc1d3c]
+
+During an assessment period in relation to an eligible scheme, the prescribed circumstances in which further contributions may be paid to the scheme by an employer in relation to the scheme are where those contributions relate to –
+
+- (a) all or any part of that employer’s liability for any debt due from him to the scheme under Article 75[^f00030] of the 1995 Order (deficiencies in the assets) which has not yet been discharged, and
+- (b) the value of an asset of the scheme arising from a debt or obligation referred to in Article 127(5)(a) to (d) (Board’s obligation to obtain valuation of assets and protected liabilities).
+
+## 15. Directions[^key-5d26ba4e0ecb9e84e7827de01b28f79d]
+
+(1)[^key-ec3d9efc59736ed94ed4848ebaf377e9] The prescribed person who may be a “relevant person” in relation to an eligible scheme for the purposes of Article 118 (directions) is any individual who is appointed by the trustees or managers of the scheme as the scheme administrator responsible for the discharge of the functions conferred or imposed on the scheme administrator of the scheme by or under Part 4 of the Finance Act 2004[^f00031] (pension schemes etc).
+
+(2)[^key-e9889a295d109ddb782b9be36f083d02] The amendment of the scheme rules is prescribed as a matter for the purposes of Article 118(2) of the Order.
+
+## 16. Restrictions on winding up, discharge of liabilities etc.[^key-0cc00a29450e13429e046886123f8633]
+
+(1) Subject to paragraph (2), the prescribed circumstances in which –
+
+- (za)[^key-b91aa671b55d9d8fa5f53d24111aa637] a right or entitlement to benefits that are not money purchase benefits may be converted into, or replaced with, a right or entitlement to money purchase benefits under an eligible scheme are where, before the beginning of the assessment period in relation to the scheme, a person has—
+  - (i) a right or entitlement under the scheme rules in respect of flexible benefits (as defined by section 74 of the Pension Schemes Act 2015) that are not money purchase benefits;
+  - (ii) notified the trustees or managers of the scheme that the person wishes to exercise an option under the scheme rules to convert those benefits (or a portion of them) into, or replace them (or a portion of them) with, money purchase benefits for the purpose of designating sums or assets as available for the payment of drawdown pension, dependants’ drawdown pension, nominees’ drawdown pension or successors’ drawdown pension (as defined by paragraphs 4, 18, 27B and 27G of Schedule 28 to the Finance Act 2004, respectively), and
+  - (iii) complied with any requirements, and satisfied any conditions, to which the exercise of that option is subject;
+- (a) a transfer or transfer payment in respect of a member’s rights under the scheme rules may be made by the trustees or managers of an eligible scheme[^key-7b474aaf7eacd655e290c696e5dfb721] are where a member has, before the beginning of an assessment period in relation to the scheme –
+  - (i) been provided with a written statement of entitlement of the amount of the cash equivalent at the guarantee date of any benefits which have accrued to, or in respect of, him under the applicable rules pursuant to an application made by that member under section 89A(1)[^f00032] of the Pension Schemes Act (right to statement of entitlement: benefits other than money purchase), and[^key-3faf656f90c40580097761fa760f0b72] ;
+  - (ii)[^key-a98782812d8f6ff3df51bfa75dcb557b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) made an application under section 91[^f00034] of that Act (ways of taking right to cash equivalent) requiring the trustees or managers of an eligible scheme to use the cash equivalent to which he has acquired a right in whichever of the ways specified in subsection (2) of that section and has not withdrawn that application, and
+- (b) other steps may be taken by the trustees or managers of an eligible scheme[^key-feb294f2f2e5cc08e479a022a076d85c] to discharge any liability of the scheme to, or in respect of, a member of the scheme in respect of –
+  - (i) a pension or other benefit (except an ill health pension), and
+  - (ii) a refund of contributions,
+
+  are where the member became entitled to the pension or benefit or to the refund of contributions before the beginning of an assessment period in relation to the scheme.
+
+(2) A conversion or replacement of benefits under an eligible scheme under paragraph (1)(za), a transfer[^key-8a79cc8cd9155257047c1cee984b9d65] or transfer payment in respect of a member’s rights under an eligible scheme[^key-020852272a1e81e3865918a4fc246c88] , or a refund of a member’s contributions to an eligible scheme, shall not be made unless the trustees or managers of the scheme –
+
+- (a) are satisfied that to do so is consistent with the objective of ensuring that the scheme’s protected liabilities do not exceed its assets or, if they do exceed its assets, that the excess is kept to a minimum, and
+- (b) reduce the value or[^key-0686dfa687f8eff3a2e252180a03078b] amount of the benefits (or the portion of them) to be converted or replaced, the transfer or transfer payment or the refund of contributions by the extent necessary to ensure that it does not exceed the cost of securing benefits for, and in respect of, members of the scheme which correspond to the compensation that would be payable, in relation to the scheme, in accordance with the pension compensation provisions if the Board were to assume responsibility for the scheme in accordance with Chapter 3 (pension protection) of Part III of the Order.
+
+(3) For the purposes of this regulation, a member is entitled to –
+
+- (a) a pension or other benefit where he has reached normal pension age, and
+- (b) a refund of contributions when he has –
+  - (i) requested and received a quotation from the trustees or managers of the scheme showing the amount of the contributions which may be refunded in respect of his accrued rights to benefits under the scheme, and
+  - (ii) notified the trustees or managers of the scheme in writing of his agreement to accept a refund of contributions on the basis of the quotation.
+
+(4) In this regulation –
+
+- “the guarantee date” has the meaning given by section 89A(2) of the Pension Schemes Act;
+- “the applicable rules” has the meaning given by section 90(2) of that Act.
+
+## 17. Payment of scheme benefits[^key-59d5fce797e37c95b92692417ed8dd10]
+
+(1) The commencement of a member’s pension or payment of a member’s lump sum or other benefits under an eligible scheme may be postponed for the whole or any part of an assessment period in relation to the scheme for which he continues in employment after attaining normal pension age in circumstances where –
+
+- (a) the trustees or managers of the scheme have not received a notice from the Board to the effect that a notice issued by an insolvency practitioner or former insolvency practitioner in relation to the employer in relation to the scheme which confirms that a scheme rescue is not possible has become binding, or
+- (b) the trustees or managers of the scheme have not received a binding scheme failure notice issued by the Board in respect of the scheme under Article 114(2) (Board’s duty where application or notification received under Article 113).
+
+(2) Where –
+
+- (a) a member[^key-e1490b3659afa7bbe4aa9aff77382a50] of an eligible scheme has died before the commencement of an assessment period in relation to the scheme, and
+- (b) during the assessment period, a person becomes entitled under the scheme rules to a death benefit or a contribution refund (within the meaning of section 97AB(4) of the Pension Schemes Act)[^key-801b12d2ce8c8b557bf283c92cece64d] payable in respect of that member,
+
+that benefit is, for the purposes of Article 122(2) (payment of scheme benefits), to be treated as having become payable before the commencement of the assessment period.
+
+## 17A. Exception to Article 122(2A)[^key-4a7e171b9c363e71d4041f094c8510eb]
+
+(1) Subject to paragraph (3), during an assessment period in relation to an eligible scheme benefits in the form of a lump sum may be paid to a member under the scheme rules in the circumstances specified in paragraph (2).
+
+(2) The circumstances specified for the purpose of paragraph (1) are that, before the beginning of the assessment period in relation to the scheme, the member has—
+
+- (a) a right or entitlement under the scheme rules in respect of flexible benefits (as defined by section 74 of the Pension Schemes Act 2015) that are not money purchase benefits;
+- (b) notified the trustees or managers of the scheme that the member wishes to exercise an option under the scheme rules to be paid an uncrystallised funds pension lump sum (as defined by paragraph 4A of Schedule 29 to the Finance Act 2004) in respect of those benefits (or a portion of them), and
+- (c) complied with any requirements, and satisfied any conditions, to which the exercise of that option is subject.
+
+(3) A lump sum shall not be paid by virtue of this regulation unless the trustees or managers of the scheme—
+
+- (a) are satisfied that to do so is consistent with the objective of ensuring that the scheme’s protected liabilities do not exceed its assets or, if they do exceed its assets, that the excess is kept to a minimum, and
+- (b) reduce the amount of the lump sum to the extent necessary to ensure that it does not exceed the actuarial equivalent of the compensation that would be payable to the member in respect of the benefits (or the portion of them) in respect of which the lump sum is paid in accordance with the pension compensation provisions, if the Board were to assume responsibility for the scheme in accordance with Chapter 3 of Part 3 of the Order.
+
+(4) For the purpose of paragraph (3)(b) the actuarial equivalent of the compensation that would be payable is to be calculated from tables designated by the Board for the purpose of paragraph 24(4) (commutation of periodic compensation) of Schedule 6 to the Order.
+
+## 18. Loans to pay scheme benefits[^key-06a4f82ed1dbed388064bdef61a13607]
+
+(1) The prescribed rate of interest referred to in Article 123(6) (loans to pay scheme benefits) shall be the base rate.
+
+(2) The rate of interest referred to in paragraph (1) shall be calculated on a day-to-day basis from the date on which a loan is made by the Board to the trustees or managers of an eligible scheme to the date of payment and compounded with 3-monthly rests.
+
+(3) In this regulation –
+
+- “base rate” means the rate for the time being quoted by the reference banks as applicable to sterling deposits or, where there is for the time being more than one such base rate, the rate which, when the base rate quoted at each bank is ranked in a descending sequence of 4, is the first in the sequence;
+- “date of payment” means the date on which the full amount of the loan, together with interest, is repaid to the Board by the trustees or managers of the scheme to which the loan has been made;
+- “reference banks” means the 4 largest persons for the time being who –
+  - (a) have permission under Part IV of the FSMA 2000 (permission to carry on regulated activities) to accept deposits, and[^key-15268cd102e0d54e6821be3cd3194dcf] ;
+  - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and quote a base rate applicable to sterling deposits.
+
+(4) In paragraph (3), paragraph (b) of the definition of “reference banks”[^key-38232c81ee1af0c5c5b01ab18c14df68] must be read with –
+
+- (a) section 22 of the FSMA 2000 (the classes of activity and categories of investment),
+- (b) any relevant order under that section, and
+- (c) Schedule 2 to that Act (regulated activities).
+
+## 19. Withdrawal following issue of Article 106(4) notice[^key-b5c345fed34de2a327d996ae7b1cb38f]
+
+(1) A notice issued by the Board under Article 132(3) or (4) (withdrawal following issue of Article 106(4) notice) shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) if the notice is issued pursuant to a determination by the Board under Article 132(2), a statement of the Board’s determination and the date on which that determination was made;
+- (f) if the notice is issued by the Board under Article 132(4), a statement by the Board of the basis on which the notice is issued;
+- (g) the address for communications at which the Board may be contacted in connection with the issue of the notice;
+- (h) whether the issue of the notice by the Board is a reviewable matter and, if so, the time limit for applying for a review of, or appeal against, the issue of the notice;
+- (i) the date on which the notice issued will become binding, and
+- (j) whether the notice issued contains any restricted information and, if so, the nature of the restrictions.
+
+(2) Where a notice issued by the Board under Article 132(3) or (4) becomes binding, the notice which the Board must issue to this effect under Article 132(7) shall be in writing and shall contain the following information –
+
+- (a) the information described in paragraph (1)(a) to (g);
+- (b) the date on which the withdrawal notice referred to in paragraph (1) was issued;
+- (c) a statement that the withdrawal notice referred to in paragraph (1) has become binding, and
+- (d) the date on which the Board ceases to be involved with the scheme in respect of which the binding notice is issued.
+
+## 20. Consequences of the Board ceasing to be involved with a scheme[^key-4b9a98daccbb4bab8c2357022956c327]
+
+(1) Where an assessment period in relation to an eligible scheme comes to an end by virtue of the Board ceasing to be involved with the scheme following the issue of a withdrawal notice under Article 106(2)(b) (insolvency practitioner’s duty to issue notices confirming status of scheme) in relation to the scheme which has become binding then, subject to paragraphs (2) and (3), benefits are to accrue under the scheme rules to, or in respect of, any member of the scheme in respect of any period of service in employment during that assessment period which, but for Article 117(5) (admission of new members, payment of contributions etc.), would have qualified that member for those benefits under the scheme rules.
+
+(2) No benefits shall accrue under the scheme rules to, or in respect of, any member of the scheme in the circumstances described in paragraph (1) unless contributions are paid to the scheme by, or on behalf of, that member before whichever is the earlier of –
+
+- (a) the end of the period of one year beginning with the date on which the assessment period in relation to the scheme came to an end, and
+- (b) the end of the period beginning with the date on which the assessment period in relation to the scheme came to an end and ending at least 28 days before the date on which the member requests the trustees or managers of the scheme to put his entitlement to a pension or other benefits under the scheme into payment.
+
+(3) Where, during the period prescribed in paragraph (2)(a) or (b), contributions are paid to a scheme by, or on behalf of, a member in respect of any period of that member’s employment during an assessment period, contributions shall also become payable to the scheme by the employer in relation to the scheme in respect of that period of the member’s employment during that assessment period.
+
+(4) Where, during the period prescribed in paragraph (2)(a) or (b), contributions are paid to a scheme by, or on behalf of, a member of the scheme or by the employer in relation to the scheme in respect of any period of that member’s employment during an assessment period, those contributions must be accepted by the trustees or managers of the scheme for the assessment period or for any part of that period.
+
+## 21. Refusal to assume responsibility – schemes which become eligible schemes[^key-34074700fa31a5416ce11d69a3b35041]
+
+(1) The prescribed period referred to in Article 130(1) (schemes which become eligible schemes) throughout which the Board must be satisfied that an occupational pension scheme is not an eligible scheme shall –
+
+- (a) in the case of a scheme which was established at least 3 years before the date on which an assessment period began in relation to the scheme, be the period of 3 years preceding the date on which that assessment period began, [^key-e70481f53cf9ef8353065ffac520c36f]...
+- (b) in the case of a scheme which was established less than 3 years before the date on which an assessment period began in relation to a scheme, be the period beginning with the date on which the scheme was established and ending with the date on which that assessment period began and[^key-41003c5e78a11a10580ee1cd66d222d0]
+- (c) in the case of a scheme which becomes an eligible scheme on 1st April 2015 in accordance with regulation 42(1)(b) of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014—
+  - (i) where the date on which an assessment period began is less than 3 years after 1st April 2015, be the period beginning on 1st April 2015 and ending with the assessment date, or
+  - (ii) where the date on which an assessment period began is at least 3 years after 1st April 2015, be the period of 3 years preceding the date on which that assessment period began.
+
+(2) Paragraph (1) shall have effect in relation to –
+
+- (a) a section of a segregated scheme;
+- (b) a multi-employer section of a segregated scheme, or
+- (c) a segregated part of –
+  - (i) a multi-employer section of a segregated scheme, or
+  - (ii) a non-segregated scheme,
+
+  as if that section, or segregated part, were a separate occupational pension scheme[^f00035].
+
+(3)[^key-b22a0f7700f29d6091620b827437d2f9] This regulation shall not apply where either—
+
+- (a) regulation 2(1A) of these Regulations, or
+- (b) regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations (Northern Ireland) 2005 (schemes to which regulation 2(1) does not apply),
+
+applies to a scheme.
+
+## 22. Refusal to assume responsibility – new schemes created to replace existing schemes[^key-51b27630a76256ccb305fcabb12fbf01]
+
+(1) The prescribed period referred to in Article 131(1)(a) (new schemes created to replace existing schemes) during which the Board must be satisfied that a new occupational pension scheme was established shall be the period of 3 years preceding the date on which an assessment period began in relation to the scheme.
+
+(2) Paragraph (1) shall have effect in relation to –
+
+- (a) a section of a segregated scheme;
+- (b) a multi-employer section of a segregated scheme, or
+- (c) a segregated part of –
+  - (i) a multi-employer section of a segregated scheme, or
+  - (ii) a non-segregated scheme,
+
+  as if that section, or segregated part, were a separate occupational pension scheme[^f00036].
+
+## 23. Form and content of withdrawal notices issued under Article 130 or 131[^key-a40957c38cb4406151b98412c053fcdf]
+
+(1) A notice issued under Article 130(2) or 131(2) (a “withdrawal notice”) shall be in writing and shall contain the following information –
+
+- (a) the name or type of the notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (e) a statement that the Board has refused to assume responsibility for the scheme in respect of which the notice is issued;
+- (f) the period in relation to which the Board is satisfied that the scheme in respect of which the notice is issued is not an eligible scheme;
+- (g) a statement of reasons for the Board’s decision to refuse to assume responsibility for the scheme in respect of which the notice is issued;
+- (h) whether the issue of the notice by the Board is a reviewable matter and, if so, the time limits for applying for a review of, or appeal against, the issue of that notice;
+- (i) the date on which the notice issued will become binding;
+- (j) the address for communications at which the Board may be contacted in respect of the issue of the notice, and
+- (k) whether the notice issued contains restricted information and, if so, the nature of any restrictions.
+
+(2) Where a notice to which this regulation applies becomes binding, the Board shall issue a notice to that effect (a “binding notice”) which shall be in writing and shall contain the following information –
+
+- (a) the information described in paragraph (1)(a) to (f), (j) and (k);
+- (b) the date on which the withdrawal notice referred to in paragraph (1) was issued, and
+- (c) a statement that the withdrawal notice referred to in paragraph (1) has become binding.
+
+## 24. Applications for reconsideration[^key-62a3bb227650b0bc43b56a5469cbae51]
+
+(1) An application for reconsideration under Article 135 (application for reconsideration) shall be made in writing and shall be accompanied by –
+
+- (a)[^key-597c670aefee557bef0cc18a3a3d1a78] either—
+  - (i) a protected benefits quotation in relation to the scheme, or
+  - (ii) written evidence which shows that the trustees or managers of the scheme have taken all reasonable steps to obtain a protected benefits quotation but were unable to do so, and
+- (b) audited scheme accounts in relation to the scheme for the period which –
+  - (i) begins with the date of the last audited scheme accounts in relation to the scheme, and
+  - (ii) ends with any day[^key-fcc2d1f8cb61fb03650bbeec5401b7ee] within the period of 6 months preceding the date on which the application is made.
+
+(2) An application for reconsideration shall contain the following information –
+
+- (a) a description of the type or purpose of the application;
+- (b) the name, address and pension scheme registration number of the scheme in respect of which the application is made;
+- (c) the name and address of the employer in relation to the scheme;
+- (d) the name and address of the trustees or managers of the scheme in respect of which the application is made;
+- (e) the date on which the trustees or managers of the scheme received a binding scheme failure notice issued by the Board in respect of the scheme;
+- (f) the date on which the trustees or managers of the scheme received a binding valuation notice under Article 129(3) (binding valuations) or a binding determination notice under Article 127A(4) (determinations under Article 127)[^key-ed0bf61902afb276acd66e6521226a1e] issued by the Board in respect of the scheme;
+- (g) the date on which the application was sent to the Board by the trustees or managers of the scheme;
+- (h) where the application is accompanied by a protected benefits quotation,[^key-90a8d9a38bcfe44a4098b86b5009c4e0] the cost quoted in the protected benefits quotation which accompanies the application;
+- (i) where the application is accompanied by a protected benefits quotation, the value of the assets of the scheme adjusted to take into account any outstanding liabilities of the scheme which are not covered by the protected benefits quotation which accompanies the application, and
+- (j) the estimated cost of winding the scheme up.
+
+(3) The prescribed period referred to in Article 135(6) as “the authorised period” for making an application for reconsideration is the period of 6 months.
+
+## 25. Form and content of audited scheme accounts[^key-ec6a3a23f77f004bb1e0f30b4d885556]
+
+The prescribed requirements referred to in Article 135(9)(b) (application for reconsideration) which are to apply in respect of the preparation of audited scheme accounts are that those accounts shall –
+
+- (a) contain the information specified in the Schedule;
+- (b) show a true and fair view[^key-aea044f28820f020d57c0496a8c2c437] of –
+  - (i) the financial transactions of the scheme during the period to which the accounts relate (“the accounting period”);
+  - (ii) the amount and disposition of the assets at the end of the accounting period, and
+  - (iii) the liabilities of the scheme, other than the liabilities to pay pensions and benefits, after the end of the accounting period, and
+- (c) include a report by the auditor in writing as to whether or not, in his opinion, the requirements of paragraphs (a) and (b) are satisfied.
+
+Sealed with the Official Seal of the Department for Social Development on 16th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — CONTENTS OF ACCOUNTS AUDITED BY THE AUDITOR OF THE SCHEME
+
+Regulation 25
+
+**1.**[^key-a256c7f8dc601f474efc9c0c3eef64b8] An account of the financial additions to, withdrawals from, and changes to, the value of the fund during the accounting period.
+
+**2.**[^key-7f59f4789b9d3e44cad9c0dde05a85aa] (1) A statement, as at the end of the accounting period, of the assets at market value, or the trustees' or managers' estimate thereof where the market value is not readily ascertainable, and liabilities of the scheme, other than liabilities to pay pensions and benefits after the end of the accounting period –
+
+- (a) giving, in the case of any assets which are stated at an estimate of their market value, the reason why the valuation is an estimate;
+- (b) showing the distribution of the investments and other assets of the scheme between each of the following categories (where none of the investments falls within a particular category, that fact is not required to be stated), namely –
+  - (i) insurance policies;
+  - (ii) public sector fixed interest investments and separately quoted securities and unquoted securities;
+  - (iii) other fixed interest investments and separately showing quoted securities and unquoted securities;
+  - (iv) index-linked securities and separately showing quoted securities and unquoted securities;
+  - (v) equities (including convertible shares) and separately showing quoted equities and unquoted equities;
+  - (vi) property (which in this paragraph means any right or interest in freehold or leasehold land or buildings);
+  - (vii) unit trusts invested in property;
+  - (viii) other unit trusts;
+  - (ix) managed funds (other than unit trusts) invested in property;
+  - (x) other managed funds (not being unit trusts);
+  - (xi) loans (whether or not secured by mortgages);
+  - (xii) cash deposits and cash in hand;
+  - (xiii) investments and other assets not included in paragraphs (i) to (xii), and
+- (c) showing separately, in the case of investments in each category, investments in the United Kingdom and investments outside the United Kingdom, and in the case of cash investments mentioned in head (b)(vii) to (x) investments where the company operating the unit trust or managed fund is, and where it is not, a company registered in the United Kingdom.
+
+(2) Where the assets include insurance policies which are specifically allocated to the provision of benefits for, and which provide all the benefits payable under the scheme to, particular members or other persons in respect of particular members or both, those policies must be included in the statement and there must be a note of the existence of such policies but that entry need not include their market value or an estimate.
+
+(3) Where the assets –
+
+- (a) are invested only for the purposes of securing additional money purchase benefits derived from voluntary contributions[^key-24749e602454cecea2039f1218be475b]..., and
+- (b) are specifically allocated to the provision of additional benefits for particular members or other persons in respect of particular members (or both),
+
+a note that heads (a) and (b) apply must be included in the statement, but that entry need not include the market value or an estimate of value of those assets.
+
+**3.**[^key-b7749a7a668d0576d2a65221878809ff] Where any assets or liabilities are denominated in currencies other than sterling, a translation of those assets into sterling and an explanation of the basis on which they have been translated.
+
+**4.**[^key-4b2ef23b11b2f8a2d19f762610d62894] Particulars of any investment (other than in United Kingdom Government securities) in which more than 5 per cent. of the total value of the net assets of the scheme is invested, and if any such investment is an insurance policy, a statement of its main characteristics.
+
+**5.**[^key-89e5fdaabe2307d6cce29fb5ffa9f163] Where the scheme has employer-related investments, within the meaning of Article 40(2)[^f00037] of the 1995 Order (restriction on employer-related investments), a statement –
+
+- (a) as to the percentage of the scheme’s resources invested in such investments at the end of the accounting period, and
+- (b) if that percentage exceeds 5 per cent., as to the percentage of the scheme’s resources which are investments to which regulation 13 of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 (investments to which restrictions do not apply) applies.[^key-a6bd8e3d769dc88169b24f08f361d869]
+
+**6.**[^key-74df06c6981c5bcb35bea5d23de7bb61] In respect of every other amount shown in the accounts other than the amounts referred to in paragraph 7, a statement of the corresponding amount for the scheme year previous to the accounting period, except in a case where regulation 2 of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00039] (requirement of trustees or managers to obtain documents) is complied with by the trustees or managers of a scheme for the first time.
+
+**7.**[^key-b4cb40b0a50d5a31046c907dc3d4beb9] The total amount of the purchases and the total amount of the sales of investments during the accounting period.
+
+**8.**[^key-2ad9d803a2d4f455654d48f251f18843] A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines “Financial Reports of Pension Schemes” published by the Pensions Research Accountants Group[^f00040] or another organisation approved for this purpose by the Financial Reporting Council Limited[^key-f36bde580c12b600e58aee6fa72dcf97] , current at the end of the accounting period and, if not, an indication of where there are any material departures from those guidelines.
+
+(This note is not part of the Regulations.)
+
+These Regulations make provision relating to various requirements under Part III of the Pensions (Northern Ireland) Order 2005 (“the Order”).
+
+Regulation 1 provides for citation, commencement and interpretation, and includes an extension of the meaning of “employer” for the purposes of these Regulations.
+
+Regulation 2 sets out those schemes which are not “eligible schemes” for the purposes of Part III of the Order and therefore are not able to receive compensation from the Board of the Pension Protection Fund (“the Board”) pursuant to the pension compensation provisions in that Part of the Order. The Board is established under section 107 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
+
+Regulation 3 provides that where, after the beginning of an assessment period in relation to an eligible scheme, the scheme ceases to be an eligible scheme in prescribed circumstances, the scheme shall, for the purposes of Part III of the Order, be treated as remaining an eligible scheme.
+
+Regulation 4 makes provision in respect of the period in which an insolvency practitioner is required to notify the Board of the occurrence of an insolvency event in relation to the employer in relation to an eligible scheme. If an insolvency event is a “qualifying insolvency event” within the meaning of Part III of the Order, the start of an assessment period will be triggered in relation to an eligible scheme and the scheme will become subject to the various requirements under Part III of the Order.
+
+Regulation 5 provides for certain events in relation to certain types of bodies (such as building societies, friendly societies and limited liability partnerships) to be classified as insolvency events for the purposes of Part III of the Order.
+
+Regulation 6 sets out the circumstances in which insolvency proceedings in relation to the employer in relation to an eligible scheme are stayed or come to an end. Where those circumstances exist, the insolvency practitioner will be required to issue a notice to the effect that he is not able to confirm whether a scheme rescue has occurred or is not possible. This may lead to the Board ceasing to be involved with a scheme.
+
+Regulation 7 makes provision in respect of applications and notifications to the Board under Article 113 of the Order for it to assume responsibility for an eligible scheme in circumstances where the employer in relation to the scheme is unlikely to continue as a going concern and meets prescribed requirements.
+
+Regulation 8 sets out the time limit for making applications to the Board under Article 113 of the Order. It also makes provision in respect of the form and content of such applications, and about the form and content of notifications to the Board which the Pensions Regulator is required to make in circumstances where it becomes aware that an employer in relation to an eligible scheme is unlikely to continue as a going concern and meets prescribed requirements.
+
+Regulations 9 and 10 set out the circumstances which must exist before an insolvency practitioner in relation to an employer in relation to an eligible scheme or the Board is able to determine whether or not a scheme rescue has occurred or is not possible in relation to the scheme. They also make provision regarding the form and content of the notices which must be issued by the insolvency practitioner or the Board in order to confirm the status of a scheme.
+
+Regulations 11 and 12 modify the application of regulations 9 and 10 so as to make similar provision in respect of multi-employer schemes.
+
+Regulation 13 makes provision regarding the form and content of binding notices confirming the status of a scheme. A notice is not binding until the period in respect of which it is possible for the issue of the notice to be reviewed under Chapter 6 of Part III of the Order has expired or, if an application for a review has been made, until the review or any subsequent appeal has been conclusively resolved.
+
+Regulation 14 makes provision in respect of the types of payments that may be made to a scheme during an assessment period.
+
+Regulation 15 makes provision in respect of the “relevant person” in relation to an eligible scheme to whom the Board may issue directions under Article 118 of the Order.
+
+Regulation 16 provides for the circumstances in which a transfer payment may be made during an assessment period in respect of a member’s rights under an eligible scheme. It also provides for the other circumstances in which the trustees or managers of a scheme may take steps to discharge a member’s rights under an eligible scheme during an assessment period.
+
+Regulation 17 makes provision in respect of the circumstances where a member of an eligible scheme may postpone the receipt of his entitlement to a pension or lump sum payment under the scheme during an assessment period.
+
+Regulation 18 makes provision in respect of the rate of interest which is payable by the trustees or managers of an eligible scheme to which the Board has made a loan to pay scheme benefits under Article 123 of the Order. It also makes provision in respect of how the rate of interest payable is to be calculated.
+
+Regulation 19 makes provision in respect of the form and content of withdrawal notices issued by the Board under Article 132 of the Order.
+
+Regulation 20 makes provision in respect of the accrual of benefits under a scheme in respect of an assessment period in relation to an eligible scheme when that assessment period comes to an end.
+
+Regulations 21 and 22 make provision in respect of the period in relation to which the Board is to determine whether or not to refuse to assume responsibility for a scheme under Articles 130 and 131 of the Order.
+
+Regulation 23 makes provision in respect of the form and content of withdrawal notices issued by the Board under Articles 130 and 131 of the Order.
+
+Regulation 24 makes provision in respect of the form and content of applications for reconsideration made under Article 135 of the Order. It also makes provision in respect of the time limits for making such applications and the documents which are to accompany the application.
+
+Regulation 25 and the Schedule make provision in respect of the prescribed form and content of the audited scheme accounts and report from the auditor which is to accompany an application for reconsideration.
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 8)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of some of the enabling provisions under which these Regulations are made as follows –
+
+- Article 110(1)(b) and (5), for the purpose of authorising the making of regulations on 25th February 2005 and for all other purposes on 1st April 2005;
+- Articles 2(5)(a), 104(3) and (4), 105(5), 106(3), (5) and (8), 107(5), 110(3), 113(1)(b), (3) and (8), 114(5) and (8), 117(3), 118(3)(a) (in part), 119(4), 122(10)(b) and (12), 123(6), 130(1) and (5), 131(1)(a) and (5), 132(8), 134(5) and (6)(a) to (c) and 135(4), (6), (8) (in part) and (9)(b), for the purpose of authorising the making of regulations on 25th February 2005 and for all other purposes on 6th April 2005.
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Articles 106(3) and (5), 110(1), 113(1), 114(5), 118(3), 130(1) and 131(1) are modified in their application to multi-employer schemes by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) which also modifies other provisions of Part III; Articles 113(1), 122(12), 130(1), 131(1) and 135(8) are modified in their application to partially guaranteed schemes by [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55) which also modifies other provisions of Part III; *see also* paragraph (iii) of the definition of “relevant person” in Article 118(3)(a) and paragraph (b) of the definition of “audited scheme accounts” in Article 135(8)
+
+[^key-f59b26347d963328ca4f25c65b4c682a]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/126) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^key-75a652604f0d709f1c96da959d55b2f1]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/126) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(h)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/h)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+
+[^key-750d2d46221b0acaa7d22ead2bad38b1]: Commencement: Reg. 1(1)(2)(5) in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/a)
+
+[^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
+
+[^key-4a8496412ee6a51b9397766a7cc8a68c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [57(2)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/57/2/a)
+
+[^key-7f01b40089b70c7d95b71d5426795227]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2005/357/regulation/4/a)
+
+[^key-4dac14b3ac9a19e345dff6bdf0aa2759]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [57(2)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/57/2/b)
+
+[^key-9bf78d70ff33ac31069e08b5cf4e25c4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/2/a)
+
+[^key-22d2e0451a88aad5cc7bbe8925de7752]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 20(2)(d)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/20/2/d)
+
+[^key-70f6d2db63e55af24785deeba660c616]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 235(2)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/235/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73e8dcc5ea38efd5428e8cbe213d39ab]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 20(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/20/2/a/i)
+
+[^key-94a669f61a12d27222d849d7128a28f6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 143(2)(b)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/143/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+
+[^key-7556faf649aa73b7ce3a672a883dba0d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 20(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/20/2/a/ii)
+
+[^key-865337e8c02faeb5c4510f0d8b505eeb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/2)
+
+[^key-681a96891ce87711442e647363c5acf0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/2/c)
+
+[^key-87752010e99069ae2e24b4a707e047c6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/20/2/b)
+
+[^key-4fb8bc822b30602f4e3dbe52b21ae46e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) substituted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b), [21(2)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/2)
+
+[^key-694db981ff6ce0ef8cc8318647754f7e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 20(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/20/2/a/iii)
+
+[^key-ea8577ab4e74a47a911807413c8b68ff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/2) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/2/d)
+
+[^key-93b991dd3a8df1126b3cef3d0c54b42b]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/3)[(4)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4) substituted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/4/b)
+
+[^key-508095bace31c7b419ea3af09081804f]: Textual amendment: Words in [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4/a)[(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4/b) substituted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2012/1/regulation/3/2/a)
+
+[^key-28f22247566fe6303615da0fca47e639]: Textual amendment: [Reg. 1(4)(a)(v)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4/a/v) added (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2010/111/regulation/3/2/b)
+
+[^key-246250b5214eb6b87024fecf458eb1bc]: Textual amendment: [Reg. 1(4)(a)(vi)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4/a/vi) added (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2012/1/regulation/3/2/b)
+
+[^key-8b14d8cd30c7bfe9900c5a735af78299]: Textual amendment: [Reg. 1(4)(b)(v)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4/b/v) added (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2010/111/regulation/3/2/c)
+
+[^key-2da05eac1403d7585546bcae3c60da51]: Textual amendment: [Reg. 1(4)(b)(vi)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4/b/vi) added (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2012/1/regulation/3/2/c)
+
+[^key-e4581af5cc67dabc783df861f9cb9e10]: Textual amendment: [Reg. 1(4A)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/4A) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 235(2)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/235/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ea4c2c239a0603f95ace26cd617fa241]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/a)
+
+[^f00006]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^f00007]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00008]: Footnote: [1965 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1965/18)
+
+[^f00009]: Footnote: S.I. [1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
+
+[^key-d5259fc4b6acbe670e9cf467514e3eba]: Textual amendment: [Reg. 2(1)(e)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/e) omitted (6.4.2005) by virtue of [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/2/a)
+
+[^key-5916fe8a061d7c0d82ecad246bdcfcf0]: Textual amendment: Words in [reg. 2(1)(f)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/f) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/2/b)
+
+[^key-3d4e517dc21494895a60f2cdc6f34254]: Textual amendment: Words in [reg. 2(1)(f)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/f) substituted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b), [21(3)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/3/a)
+
+[^f00010]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
+
+[^key-f113c1e7c02037426a28b5645f71ea7b]: Textual amendment: [Reg. 2(1)(fa)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/fa) inserted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/2/2/a)
+
+[^key-f84c63597f502dc9c182fd8546ab63e3]: Textual amendment: Words in [reg. 2(1)(g)(ii)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/g/ii) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [21(a)](https://www.legislation.gov.uk/nisr/2016/158/article/21/a)
+
+[^f00011]: Footnote: Section 615(6) has effect in relation to trust-based occupational pension schemes established in respect of persons wholly employed in a trade or undertaking outside of the United Kingdom
+
+[^key-f84d3885e7e6d0fa987fdde6442dabe3]: Textual amendment: [Reg. 2(1)(l)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/l/i) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/2/2/b)
+
+[^f00012]: Footnote: Article 23 is substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005
+
+[^key-b8fbb7c2cb79e40ea06f1f446010b190]: Textual amendment: [Reg. 2(1)(m)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/m/i) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2007/193/regulation/2/2/c)
+
+[^key-bee10344802ea982d6bffdb22ceb221c]: Textual amendment: Word in [reg. 2(1)(m)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/m) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b), [21(3)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/3/b)
+
+[^key-1161b7af0494138c388536fd8a1ade5f]: Textual amendment: [Reg. 2(1)(n)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1/n) omitted (6.4.2006) by virtue of [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b), [21(3)(c)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/3/c)
+
+[^f00014]: Footnote: *See* Article 2 of [S.R. 2005 No. 83](https://www.legislation.gov.uk/nisr/2005/83) which provides that the day appointed is 6th April 2005
+
+[^key-0392503bf63a2a1e55612ce7399f5875]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/1A) substituted (31.12.2020) by [The Pension Protection Fund (State Aid) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/318)](https://www.legislation.gov.uk/nisr/2020/318), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/318/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/318/regulation/3)
+
+[^key-821bc7d6a88154263bb657d16d00154c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/2) omitted (24.8.2005) by virtue of [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/a)
+
+[^key-1ea2399512bc0073a70a71eddad71cbf]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/2A) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [57(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/57/3)
+
+[^key-0c0f5ff7000bb164e5b416b92b42ce48]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3)[(4)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/4) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [57(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/57/4)
+
+[^key-2175bca85be5aa28548cfb26e940f629]: Textual amendment: Words in [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3/a/i) omitted (24.8.2005) by virtue of [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/b/i)
+
+[^key-e5ad422c079cc2a8ac60869afda8c96a]: Textual amendment: Words in [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3/a/i) substituted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/b/i)
+
+[^key-e6a0a40813cec8bef2aa227d88867672]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3/b) omitted (24.8.2005) by virtue of [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/b/i)
+
+[^key-893dee212538e72442b518425f5673f7]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3/b) substituted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/b/i)
+
+[^f00015]: Footnote: *See* Article 143 of the Pensions (Northern Ireland) Order 2005 which makes provision in respect of further assessment periods in respect of schemes which are authorised under Article 137 of that Order to continue as closed schemes
+
+[^key-2c082360505a81eaad7742dc0300af37]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3/c) omitted (24.8.2005) by virtue of [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/b/ii)
+
+[^key-3eb7e34e2612fbd6e60eb2945aa11a45]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/3/c) substituted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/b/ii)
+
+[^key-8e1629299f20198d19e8e7ee1f147d32]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/4) substituted (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [18](https://www.legislation.gov.uk/nisr/2008/132/regulation/18) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+
+[^key-656a2b5856257958ab03c6bc7fd6d56f]: Textual amendment: [Reg. 2(4)(e)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/4/e) added (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/111/regulation/3/3)
+
+[^key-89dd26eb0f8356ee908937bf5e037987]: Textual amendment: [Reg. 2(4)(f)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/4/f) added (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2012/1/regulation/3/3)
+
+[^key-4388eddb5e95b9c10b2d56716183f1ab]: Textual amendment: [Reg. 2(5)(c)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/5/c) excluding word omitted (24.8.2005) by virtue of [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/c)
+
+[^key-d69b652e19d6a0e886d777b56bc9852b]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/8) added (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/3/d)
+
+[^key-e243bdb920d923132382fa28393dd809]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2005/126/regulation/2/9) added (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [21(b)](https://www.legislation.gov.uk/nisr/2016/158/article/21/b)
+
+[^key-d972c6789b460ffe7d33f83e1c396519]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-d000c48eaf3fe388463f3a6c0e4ef378]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/3/1/a) substituted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b), [21(4)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/4)
+
+[^key-824e12bbd616602853e19482b20e7f13]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/3/1/a) omitted (2.8.2008) by virtue of [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/303)](https://www.legislation.gov.uk/nisr/2008/303), [regs. 1](https://www.legislation.gov.uk/nisr/2008/303/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2008/303/regulation/2/a)
+
+[^key-ba4f104de576bea6cc721a1ab62b9881]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2005/126/regulation/3/1/c) and word inserted (2.8.2008) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/303)](https://www.legislation.gov.uk/nisr/2008/303), [regs. 1](https://www.legislation.gov.uk/nisr/2008/303/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/nisr/2008/303/regulation/2/a/ii)
+
+[^key-1798685666a0ebf149166cac2db47cc6]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/126/regulation/3/3) added (2.8.2008) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/303)](https://www.legislation.gov.uk/nisr/2008/303), [regs. 1](https://www.legislation.gov.uk/nisr/2008/303/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2008/303/regulation/2/b)
+
+[^key-9a63f48dad72472bb07ba9b32706f515]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-8c128a78b87fb9406882f0836aa02ba4]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-9c2a75115814de32f3d546d4c93d9a8d]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5/1/a)[(aa)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5/1/aa) substituted for [reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5/1/a) (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/4)
+
+[^key-7ad29b81201410ddee620451f56a956e]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5/1/a) substituted (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (Minor and Consequential Amendments) Order (Northern Ireland) 2006 (S.R. 2006/61)](https://www.legislation.gov.uk/nisr/2006/61), [art. 1](https://www.legislation.gov.uk/nisr/2006/61/article/1), [Sch. para. 25(a)](https://www.legislation.gov.uk/nisr/2006/61/schedule/paragraph/25/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/61/article/4))
+
+[^key-306faa65d9d409c15358732cdb94919c]: Textual amendment: [Reg. 5(1)(aa)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5/1/aa/i) substituted (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (Minor and Consequential Amendments) Order (Northern Ireland) 2006 (S.R. 2006/61)](https://www.legislation.gov.uk/nisr/2006/61), [art. 1](https://www.legislation.gov.uk/nisr/2006/61/article/1), [Sch. para. 25(b)](https://www.legislation.gov.uk/nisr/2006/61/schedule/paragraph/25/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/61/article/4))
+
+[^f00017]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53)
+
+[^f00018]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40)
+
+[^f00019]: Footnote: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24)
+
+[^f00020]: Footnote: S.I. [1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205)
+
+[^key-cf278e935dc54c9fc52292af102c9f64]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5/3) inserted (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (Minor and Consequential Amendments) Order (Northern Ireland) 2006 (S.R. 2006/61)](https://www.legislation.gov.uk/nisr/2006/61), [art. 1](https://www.legislation.gov.uk/nisr/2006/61/article/1), [Sch. para. 25(c)](https://www.legislation.gov.uk/nisr/2006/61/schedule/paragraph/25/c) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/61/article/4))
+
+[^key-50cc44689f4288e5db224c614f299742]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2005/126/regulation/5A) inserted (21.7.2014) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/195)](https://www.legislation.gov.uk/nisr/2014/195), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/195/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/195/regulation/2/2)
+
+[^key-fe6bf51c840ba3d90a4a254185184cc9]: Textual amendment: [Reg. 5A(4)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5A/4) omitted (6.4.2016) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/3/a)
+
+[^key-e2e315716a3a4a87ed1a9ccb680f46d7]: Textual amendment: [Reg. 5A(5)](https://www.legislation.gov.uk/nisr/2005/126/regulation/5A/5) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 143(3)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/143/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+
+[^key-f18e63cf31a7d7cc27d85410cae6227b]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-abdde6c0bac07f8ed198b2f92adaeb29]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/6/1) substituted (21.7.2014) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/195)](https://www.legislation.gov.uk/nisr/2014/195), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/195/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2014/195/regulation/2/3/a)
+
+[^f00021]: Footnote: Articles 15 and 19 were amended by paragraphs 3 and 7 respectively of Schedule 2 to the Insolvency (Northern Ireland) Order 2002 (S.I. [2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152))
+
+[^f00022]: Footnote: Schedule A1 was inserted by paragraph 5 of Schedule 1 to the Insolvency (Northern Ireland) Order 2002
+
+[^key-6d2ce0f9649ee815034292ab8e06fac7]: Textual amendment: [Reg. 6(1)(a)(iii)](https://www.legislation.gov.uk/nisr/2005/126/regulation/6/1/a/iii) substituted (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (Minor and Consequential Amendments) Order (Northern Ireland) 2006 (S.R. 2006/61)](https://www.legislation.gov.uk/nisr/2006/61), [art. 1](https://www.legislation.gov.uk/nisr/2006/61/article/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/nisr/2006/61/schedule/paragraph/26/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/61/article/4))
+
+[^key-6c380b02652b4cbb8a995e409c77308c]: Textual amendment: [Reg. 6(1)(a)(v)](https://www.legislation.gov.uk/nisr/2005/126/regulation/6/1/a/v) substituted (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (Minor and Consequential Amendments) Order (Northern Ireland) 2006 (S.R. 2006/61)](https://www.legislation.gov.uk/nisr/2006/61), [art. 1](https://www.legislation.gov.uk/nisr/2006/61/article/1), [Sch. para. 26(b)](https://www.legislation.gov.uk/nisr/2006/61/schedule/paragraph/26/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/61/article/4))
+
+[^f00023]: Footnote: Article 230(1) was amended, and Article 230A was inserted, by paragraphs 6 and 7 of Schedule 3 to the Insolvency (Northern Ireland) Order 2002
+
+[^f00024]: Footnote: Article 236 was amended by paragraph 11 of Schedule 3 to the Insolvency (Northern Ireland) Order 2002
+
+[^f00025]: Footnote: Article 365 was amended by Article 10(2) of the Insolvency (Northern Ireland) Order 2002 and regulation 4(4) of [S.R. 2002 No. 223](https://www.legislation.gov.uk/nisr/2002/223)
+
+[^f00026]: Footnote: Article 364 was amended by regulation 4(3) of [S.R. 2002 No. 223](https://www.legislation.gov.uk/nisr/2002/223)
+
+[^key-1edbda5b32269bb79e8023f10689c5b0]: Textual amendment: [Reg. 6(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2005/126/regulation/6/1/c/iii) substituted (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (Minor and Consequential Amendments) Order (Northern Ireland) 2006 (S.R. 2006/61)](https://www.legislation.gov.uk/nisr/2006/61), [art. 1](https://www.legislation.gov.uk/nisr/2006/61/article/1), [Sch. para. 26(c)](https://www.legislation.gov.uk/nisr/2006/61/schedule/paragraph/26/c) (with [art. 4](https://www.legislation.gov.uk/nisr/2006/61/article/4))
+
+[^key-a50c9c63d690143f111fcbb21ef4a666]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/nisr/2005/126/regulation/6/1A) inserted (21.7.2014) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/195)](https://www.legislation.gov.uk/nisr/2014/195), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/195/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2014/195/regulation/2/3/b)
+
+[^key-9f7aab53279fd6314bd30273daf2c86f]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/6/2) omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [art. 4](https://www.legislation.gov.uk/nisr/2021/140/article/4), [reg. 1](https://www.legislation.gov.uk/nisr/2021/140/regulation/1)
+
+[^key-5d17150b8bbb38017a93ada25852af60]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/126/regulation/7) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/4)
+
+[^key-ddbedc0455da02b23b1d0c1404fab097]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 235(3)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/235/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a51f41fb82a6cb626bc220b8ae537774]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7/5)[(6)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7/6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 235(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/235/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e08bce567ada3410e6310ab00581b6b2]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2005/126/regulation/7A) inserted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/6)
+
+[^key-cc7ab0a9c29c407572dd777dc6641b58]: Textual amendment: [Reg. 7A(2)-(7)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7A/2) substituted for [reg. 7A(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7A/2) (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/5)
+
+[^key-0906b99ccc76a954aa73fc86380c7611]: Textual amendment: Words in [reg. 7A(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7A/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 235(4)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/235/4/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-43c1aa818c1df7c432b2bbaf91887c18]: Textual amendment: [Reg. 7A(6)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7A/6)[(7)](https://www.legislation.gov.uk/nisr/2005/126/regulation/7A/7) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 235(4)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/235/4/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a6efc7fc949800196c30fe8365b24312]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-8f73e19b4744eb12b68c7b5bf0ed5e28]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/8/1) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/6/a)
+
+[^key-bcaebe27721c67d5dc858415202662ef]: Textual amendment: Word in [reg. 8(2)(e)](https://www.legislation.gov.uk/nisr/2005/126/regulation/8/2/e) omitted (6.4.2016) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(6)(b)(i)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/6/b/i)
+
+[^key-cd2a9ff2b583cda693716aee47c26ca5]: Textual amendment: Words in [reg. 8(2)(f)](https://www.legislation.gov.uk/nisr/2005/126/regulation/8/2/f) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/6/b/ii)
+
+[^key-38ad2c21e952f20a367257c7df85e78b]: Textual amendment: [Reg. 8(2)(g)](https://www.legislation.gov.uk/nisr/2005/126/regulation/8/2/g) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(6)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/6/b/iii)
+
+[^key-71e2d5420c1db7208c0e8c035819d14c]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/nisr/2005/126/regulation/8A) inserted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/8)
+
+[^key-02ad2230ff90b0e78e52c43bab18e0fa]: Commencement: Reg. 9 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-04ea719e1033c6d2bda27355c47f9b12]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/9/1) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/3)
+
+[^key-ab0bc94598a78cd48de099a49f64ff3d]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/9/1/a) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(7)(a)(i)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/7/a/i)
+
+[^key-44f01447c63f16136dcfa57f49e60b6a]: Textual amendment: Words in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/9/1/a/i) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(7)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/7/a/ii)
+
+[^key-a7f5b9a1504ef7a89573bd9919e59203]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/9/2/a) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/7/b)
+
+[^key-4019eb11efcb0bfb61e1fe8959713cee]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-d6933719498ff4cf448cd587f045b1bc]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/10/1) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/5/a)
+
+[^key-172c8d4c05239df3cd9ac0e3a1ef933c]: Textual amendment: Words in [reg. 10(3)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/10/3/a) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(8)(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/8/a)
+
+[^key-79d6fdceeef6f8b532cda725b4edf8be]: Textual amendment: Word in [reg. 10(3)(c)](https://www.legislation.gov.uk/nisr/2005/126/regulation/10/3/c) omitted (6.4.2016) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(8)(b)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/8/b)
+
+[^key-30e03caba6b6d8a6e1535938291b3ece]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^f00028]: Footnote: Article 106 is modified by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) in its application to sections and multi-employer sections of segregated schemes and segregated parts of multi-employer sections of segregated schemes and non-segregated schemes
+
+[^f00029]: Footnote: *See* Parts VII and VIII of [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91)which modifies Part III of the Pensions (Northern Ireland) Order 2005 so that it shall be read as if, in Articles 104 and 113, there were inserted new paragraphs (3A) and (1B) respectively. Parts VII and VIII of [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) apply to non-segregated schemes or multi-employer sections of segregated schemes, the rules of which give the trustees or managers the option to segregate such part of the assets of the section as is attributable to the liabilities of the section to provide pensions or other benefits to, or in respect of, the pensionable service of members of that section by reference to an employer in circumstances where that employer has ceased to participate in the scheme
+
+[^key-21203890d6e668bb46089fc022c343b2]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-66dc110dbb198d1cd7ca2c7c4ff896fd]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-f6c970bb13f73c2b5098a6cc74c34b1b]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/13/1) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/4/a)
+
+[^key-b3893322df3e4626a9488bf1823be6a3]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/13/1) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/4/b)
+
+[^key-36d1652d9aa500de4477edbefdca741e]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/nisr/2005/126/regulation/13/1A) inserted (24.8.2005) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/364)](https://www.legislation.gov.uk/nisr/2005/364), [regs. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/9)
+
+[^key-f538738f15dcf4befde82707a5dc1d3c]: Commencement: Reg. 14 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^f00030]: Footnote: Article 75 is amended by Article 248 of the Pensions (Northern Ireland) Order 2005 (S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
+
+[^key-5d26ba4e0ecb9e84e7827de01b28f79d]: Commencement: Reg. 15 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-ec3d9efc59736ed94ed4848ebaf377e9]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/nisr/2005/126/regulation/15/1): reg. 15 renumbered as reg. 15(1) (21.7.2009) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/245)](https://www.legislation.gov.uk/nisr/2009/245), [regs. 1](https://www.legislation.gov.uk/nisr/2009/245/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2009/245/regulation/2/a)
+
+[^f00031]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^key-e9889a295d109ddb782b9be36f083d02]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/15/2) added (21.7.2009) by [The Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/245)](https://www.legislation.gov.uk/nisr/2009/245), [regs. 1](https://www.legislation.gov.uk/nisr/2009/245/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/245/regulation/2/b)
+
+[^key-0cc00a29450e13429e046886123f8633]: Commencement: Reg. 16 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-b91aa671b55d9d8fa5f53d24111aa637]: Textual amendment: [Reg. 16(1)(za)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/1/za) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(9)(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/9/a)
+
+[^key-7b474aaf7eacd655e290c696e5dfb721]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/1/a) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/5/a)
+
+[^f00032]: Footnote: Section 89A was inserted by Article 149 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and amended by paragraph 23 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
+
+[^key-3faf656f90c40580097761fa760f0b72]: Textual amendment: Words in [reg. 16(1)(a)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/1/a/i) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(9)(b)(i)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/9/b/i)
+
+[^key-a98782812d8f6ff3df51bfa75dcb557b]: Textual amendment: [Reg. 16(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/1/a/ii) omitted (6.4.2016) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(9)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/9/b/ii)
+
+[^f00034]: Footnote: Section 91 was amended by paragraph 5 of Schedule 4 to the Pensions (Northern Ireland) Order 1995, Part III(6) of Schedule 9 to the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)) and Article 133 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)
+
+[^key-feb294f2f2e5cc08e479a022a076d85c]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/1/b) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/5/a)
+
+[^key-8a79cc8cd9155257047c1cee984b9d65]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/2) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(9)(c)(i)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/9/c/i)
+
+[^key-020852272a1e81e3865918a4fc246c88]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/2) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/5/b)
+
+[^key-0686dfa687f8eff3a2e252180a03078b]: Textual amendment: Words in [reg. 16(2)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/16/2/b) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/9/c/ii)
+
+[^key-59d5fce797e37c95b92692417ed8dd10]: Commencement: Reg. 17 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-e1490b3659afa7bbe4aa9aff77382a50]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/17/2/a) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/6/a)
+
+[^key-801b12d2ce8c8b557bf283c92cece64d]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/17/2/b) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/6/b)
+
+[^key-4a7e171b9c363e71d4041f094c8510eb]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2005/126/regulation/17A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [5(10)](https://www.legislation.gov.uk/nisr/2016/165/regulation/5/10)
+
+[^key-06a4f82ed1dbed388064bdef61a13607]: Commencement: Reg. 18 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-15268cd102e0d54e6821be3cd3194dcf]: Textual amendment: Words in [reg. 18(3)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/18/3/a) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/6/a)
+
+[^key-38232c81ee1af0c5c5b01ab18c14df68]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/nisr/2005/126/regulation/18/4) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/6/b)
+
+[^key-b5c345fed34de2a327d996ae7b1cb38f]: Commencement: Reg. 19 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-4b9a98daccbb4bab8c2357022956c327]: Commencement: Reg. 20 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-34074700fa31a5416ce11d69a3b35041]: Commencement: Reg. 21 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-e70481f53cf9ef8353065ffac520c36f]: Textual amendment: Word in [reg. 21(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/21/1/a) omitted (24.7.2014) by virtue of [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [57(5)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/57/5/a)
+
+[^key-41003c5e78a11a10580ee1cd66d222d0]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/nisr/2005/126/regulation/21/1/c) inserted and preceding word (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [57(5)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/57/5/b)
+
+[^f00035]: Footnote: Article 130(1) of the Pensions (Northern Ireland) Order 2005 is modified by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) in its application to sections and multi-employer sections of segregated schemes and segregated parts of multi-employer sections of segregated schemes and non-segregated schemes
+
+[^key-b22a0f7700f29d6091620b827437d2f9]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/nisr/2005/126/regulation/21/3) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/32/regulation/3/3)
+
+[^key-51b27630a76256ccb305fcabb12fbf01]: Commencement: Reg. 22 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^f00036]: Footnote: Article 131(1) of the Pensions (Northern Ireland) Order 2005 is modified by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) in its application to sections and multi-employer sections of segregated schemes and segregated parts of multi-employer sections of segregated schemes and non-segregated schemes
+
+[^key-a40957c38cb4406151b98412c053fcdf]: Commencement: Reg. 23 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-62a3bb227650b0bc43b56a5469cbae51]: Commencement: Reg. 24 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-597c670aefee557bef0cc18a3a3d1a78]: Textual amendment: [Reg. 24(1)(a)](https://www.legislation.gov.uk/nisr/2005/126/regulation/24/1/a) substituted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/270/regulation/3/a)
+
+[^key-fcc2d1f8cb61fb03650bbeec5401b7ee]: Textual amendment: Words in [reg. 24(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/126/regulation/24/1/b/ii) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2005/194/regulation/3/7)
+
+[^key-ed0bf61902afb276acd66e6521226a1e]: Textual amendment: Words in [reg. 24(2)(f)](https://www.legislation.gov.uk/nisr/2005/126/regulation/24/2/f) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/nisr/2012/270/regulation/3/b/i)
+
+[^key-90a8d9a38bcfe44a4098b86b5009c4e0]: Textual amendment: Words in [reg. 24(2)(h)(i)](https://www.legislation.gov.uk/nisr/2005/126/regulation/24/2/h/i) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/nisr/2012/270/regulation/3/b/ii)
+
+[^key-ec6a3a23f77f004bb1e0f30b4d885556]: Commencement: Reg. 25 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-aea044f28820f020d57c0496a8c2c437]: Textual amendment: Words in [reg. 25(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/25/b) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/7)
+
+[^key-a256c7f8dc601f474efc9c0c3eef64b8]: Commencement: Sch. para. 1 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-7f59f4789b9d3e44cad9c0dde05a85aa]: Commencement: Sch. para. 2 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-24749e602454cecea2039f1218be475b]: Textual amendment: Words in [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/nisr/2005/126/schedule/paragraph/2/3/a) omitted (6.4.2006) by virtue of [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1/1/b), [21(5)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/21/5/a)
+
+[^key-b7749a7a668d0576d2a65221878809ff]: Commencement: Sch. para. 3 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-4b2ef23b11b2f8a2d19f762610d62894]: Commencement: Sch. para. 4 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-89e5fdaabe2307d6cce29fb5ffa9f163]: Commencement: Sch. para. 5 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^f00037]: Footnote: Article 40(2) was amended by Article 152 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)
+
+[^key-a6bd8e3d769dc88169b24f08f361d869]: Textual amendment: Words in [Sch. para. 5(b)](https://www.legislation.gov.uk/nisr/2005/126/schedule/paragraph/5/b) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/193/regulation/2/3)
+
+[^key-74df06c6981c5bcb35bea5d23de7bb61]: Commencement: Sch. para. 6 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^f00039]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); regulation 2 was amended by regulation 2 of [S.R. 2000 No. 107](https://www.legislation.gov.uk/nisr/2000/107) and regulation 8 of [S.R. 2002 No. 382](https://www.legislation.gov.uk/nisr/2002/382)
+
+[^key-b4cb40b0a50d5a31046c907dc3d4beb9]: Commencement: Sch. para. 7 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^key-2ad9d803a2d4f455654d48f251f18843]: Commencement: Sch. para. 8 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/126/regulation/1/1/b)
+
+[^f00040]: Footnote: Copies of this guidance can be obtained from Croner CCH Group Limited, 145 London Road, Kingston-upon-Thames, Surrey KT2 6SR
+
+[^key-f36bde580c12b600e58aee6fa72dcf97]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/126/schedule/paragraph/8) substituted (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2012/294/regulation/2), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/8)

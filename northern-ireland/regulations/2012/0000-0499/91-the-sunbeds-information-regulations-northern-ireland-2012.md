@@ -1,0 +1,98 @@
+---
+title: The Sunbeds (Information) Regulations (Northern Ireland) 2012
+id: nisr/2012/91
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2012-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2012/91
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/91/pdfs/nisrem_20120091_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/91/pdfs/nisr_20120091_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/91/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sunbeds (Information) Regulations (Northern Ireland) 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 91
+
+Public Health
+
+The Sunbeds (Information) Regulations (Northern Ireland) 2012
+
+Made
+
+5th March 2012
+
+Coming into operation
+
+1st May 2012
+
+The Department of Health, Social Services and Public Safety makes the following Regulations, in exercise of the powers conferred by sections 4(11), 5(4) and 16(1) of the Sunbeds Act (Northern Ireland) 2011[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Sunbeds (Information) Regulations (Northern Ireland) 2012 and shall come into operation on 1st May 2012.
+
+(2) In these Regulations “the Act” means the Sunbeds Act (Northern Ireland) 2011.
+
+## 2. Provision of information
+
+The health and other information required to be provided to a person in accordance with sections 4(2), (3), (5) or (7) of the Act shall—
+
+- (a) contain the information set out in Schedule 1;
+- (b) be provided on a flat and rectangular document;
+- (c) be at least A4 in size; and
+- (d) be printed in black characters, which can be easily read, on a yellow background.
+
+## 3. Display Notice
+
+A notice required to be displayed in sunbed premises in accordance with section 5(2) of the Act shall—
+
+- (a) contain the health and other information set out in Schedule 2;
+- (b) be at least A3 in size, and
+- (c) be printed in black characters, at least 20 millimetres in size, on a yellow background.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 5th March 2012
+
+Dr Elizabeth Mitchell
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1
+
+Regulation 2
+
+[image: see source](https://www.legislation.gov.uk/nisr/2012/91/images/nisr_20120091_en_002)
+
+## SCHEDULE 2
+
+Regulation 3
+
+[image: see source](https://www.legislation.gov.uk/nisr/2012/91/images/nisr_20120091_en_003)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision under the Sunbeds Act (Northern Ireland) 2011 (“the Act”) in relation to the health and other information which must be provided to persons buying, hiring or proposing to use a sunbed.
+
+Regulation 2 prescribes the content of the health and other information which must be provided in terms of Article 4 of the Act by a sunbed operator, seller or hirer of sunbeds, to a person who proposes to use, hire or buy a sunbed and the form in which that information must be provided.
+
+Regulation 3 prescribes the content and form of the notice to be displayed in sunbed premises in accordance with section 5 of the Act.
+
+These regulations were notified in draft to the European Commission in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034), as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048).
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c.19 (N.I.)](https://www.legislation.gov.uk/nia/2011/19)

@@ -1,0 +1,202 @@
+---
+title: The Specified Products from China (Restriction on First Placing on the Market) Regulations (Northern Ireland) 2008
+id: nisr/2008/171
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-04-11'
+text_date: '2019-02-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/171
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/171/pdfs/nisr_20080171_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/171/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Specified Products from China (Restriction on First Placing on the Market) Regulations (Northern Ireland) 2008
+
+> Text as at 2019-02-11.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 171
+
+Agriculture
+
+Food
+
+The Specified Products from China (Restriction on First Placing on the Market) Regulations (Northern Ireland) 2008
+
+Made
+
+11th April 2008
+
+Coming into operation
+
+15th April 2008
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred on it by section 2(2) of the European Communities Act 1972 [^f00002].
+
+The Department of Health, Social Services and Public Safety has been designated for the purpose of that section in relation to measures relating to food (including drink) including the primary production of food and measures relating to feed produced for or fed to food-producing animals[^f00003].
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
+
+## 1. Citation and commencement[^key-499c2e749752676d2fc24866eca0b796]
+
+These Regulations may be cited as the Specified Products from China (Restriction on First Placing on the Market) Regulations (Northern Ireland) 2008 and shall come into operation on 15th April 2008.
+
+## 2. Interpretation[^key-971b08636ac6107baaad5b137611acd4]
+
+(1) In these Regulations—
+
+- “the Agency” means the Food Standards Agency;
+- “authorised officer”, in relation to the Department or a district council, means any person (whether or not an officer of the Department or a district council) who is authorised by either of them in writing, generally or specially, to act in matters arising under these Regulations;
+- “the Commission Decision” means Commission Implementing Decision 2011/884/[^key-0979a799b4389b4a23618afbd231d155]EU on emergency measures regarding unauthorised genetically modified rice in rice products originating from China and repealing Decision [2008/289/EC](https://www.legislation.gov.uk/european/decision/2008/0289)[^f00006], as amended by Commission Implementing Decision 2013/287/EU.[^key-25604b8445d16b1d016e8177c02101de];
+- “the Department” means the Department of Agriculture and Rural Development;
+- “feed” has the meaning given to it in Article 3.4 of Regulation 178/2002;
+- “food” has the meaning given to it in Article 2 of Regulation 178/2002;
+- [^key-ec7ee3b75861b29a96633820d6639b6c]...
+- “operator” has the same meaning it bears in the Commission Decision;
+- “placing on the market” has the meaning given to it in Article 3.8 of Regulation 178/2002;[^key-da26fd8b5571fc242db4b3a2baccb422]
+- “specified product” means any product listed in Annex I[^key-7e8d4d094f4b1336fc4d4b7d7fa0ab78] to the Commission Decision that originates from or has been consigned from China; and
+- “Regulation 178/2002” means Regulation[^key-0d876b4a6d269f8e8bddabd8adbe56ab] [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, as last amended by Regulation (EU) 2017/745 of the European Parliament and of the Council.
+
+(1A)[^key-d23cb0496fcefb9484f13f5e1086e73f] Any expression used in the Commission Decision and in these Regulations has the same meaning in these Regulations as it bears in the Commission Decision.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Restriction on placing on the market of specified products[^key-9511798b85a99d416cc78f0a03a002a6]
+
+(1) The placing on the market of any specified product is prohibited unless —
+
+- (a) the conditions specified in Article 3 and[^key-38866414a0a124bc61a7b7aa9aeb1209] Article 4 of the Commission Decision have been complied with in relation to the product; and
+- (b) where the consignment of the specified product has been split following official control, an authenticated copy of the health certificate and the analytical report accompanies each part of the split consignment.
+
+(2) A person who knowingly contravenes the prohibition in paragraph (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
+
+## 4. Notification of positive results[^key-1c689eb9f9ea599e6c71686dac3171c7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Enforcement[^key-bdcf0ae6db20cd52dae7bf1617fca00e]
+
+(1) It shall be the duty of the Department to enforce and execute these Regulations in relation to feed.
+
+(2) It shall be the duty of each district council to enforce and execute these Regulations within its district in relation to food.
+
+(3) For the purposes of enabling the Department to exercise its duty under paragraph (1) and each district council to exercise its duty under paragraph (2), an authorised officer of the Department or district council concerned shall ensure that the requirements referred to in paragraph (4) are adhered to.
+
+(4)[^key-be2524b014c6a28dcdc83449c12895e2] The requirements are those specified in —
+
+- (a) Article 5 of the Commission Decision (which is concerned with the conditions under which specified products may be placed on the market, the official controls to be carried out and the measures to be taken with regard to non-compliant consignments); and
+- (b) the first sentence of Article 7 of that Decision (which is concerned with the control of splitting of consignments).
+
+(5) The Department and each district council shall give such assistance and information to the Department of Health, Social Services and Public Safety and the Agency as they may reasonably request in connection with the enforcement and execution of these Regulations.
+
+## 6. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-20095d0f57bec3f2529974fc87d13e9b]
+
+The following provisions of the Food Safety (Northern Ireland) Order 1991[^f00009] shall apply for the purposes of these Regulations with the modification that any reference in those provisions to that Order or Part thereof shall be construed as a reference to these Regulations —
+
+- (a) Article 19 (offences due to fault of another person);
+- (b) Article 20 (defence of due diligence)[^f00010], with the modification that paragraphs (2) to (4) shall apply in relation to an offence under regulation 3(2) as they apply in relation to an offence under Article 13 or 14, that in paragraphs 2(a) and 3(b) the references to “food” shall be deemed to be references to feed or food and that in paragraph (4)(b) the references to “sale or intended sale” shall be deemed to be references to “placing on the market[^key-885fca4ed5ab112e5cf4d500e5ebf477]”;
+- (c) Article 33 (powers of entry);
+- (d) Article 34(1) (obstruction etc. of officers);
+- (e) Article 34(2), with the modification that the reference to “any such requirement as is mentioned in paragraph (1)(b)” shall be deemed to be a reference to any such requirement as is mentioned in Article 34(1)(b) as applied by sub–paragraph (d);
+- (f) Article 36(1) (punishment of offences), in so far as it relates to offences under Article 34(1) as applied by sub–paragraph (d);
+- (g) Article 36(2) and (3)[^f00011], in so far as it relates to offences under Article 34(2) as applied by sub–paragraph (e).
+
+## 7. Expenses arising from official controls[^key-0b137eb662a48d6697f93c94007e01b6]
+
+Expenses charged by the Department or a district council to an operator pursuant to Article 8 of the Commission Decision shall be payable by the operator on the written demand of the Department or district council.
+
+## 8. Transitional provision[^key-6655dd7015c765d52dc72b21cd4cf219]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2008\.
+
+Don Hill
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Commission Decision [2008/289/EC](https://www.legislation.gov.uk/european/decision/2008/0289) on emergency measures regarding the unauthorised genetically modified organism “Bt 63” in rice products (OJ No.L96, 9.4.2008, p.29).
+
+These Regulations—
+
+- (a) prohibit the first placing on the market of any “specified product” (defined in regulation 2(1)), except where—
+  - (i) it is accompanied by—
+    - (aa) an original analytical report based on a particular construct–specific method for detection of the genetically modified rice “Bt 63” issued by an official or accredited laboratory demonstrating that the product does not contain or consist of or is not produced from the genetically modified rice “Bt 63”, or
+    - (bb) if it does not contain or consist of rice or is not produced from rice, a statement from the operator responsible for the consignment indicating that the food does not contain or consist of rice or is not produced from rice; or
+  - (ii) the operator established in the Community who is responsible for the first placing on the market of the product has had the product tested and the analytical report in respect of that test demonstrates that it does not contain the genetically modified rice “Bt 63” (*regulation 3(1)(a))*; and
+  - (iii) specified requirements for split consignments are complied with (*regulation 3(1)(b)*);
+- (b) provide that a person who knowingly contravenes that prohibition is guilty of an offence and prescribe penalties for that offence *(regulation 3(2));*
+- (c) require an operator who becomes aware of a positive result of a test for the presence of the genetically modified rice “Bt 63” in a specified product that is under his control to inform the Food Standards Agency of that result immediately (*regulation 4(1)*);
+- (d) provide that a person who without reasonable excuse fails to comply with that requirement is guilty of an offence and prescribe penalties for that offence (*regulation 4(2)*);
+- (e) provide for their enforcement *(regulation 5)*; and
+- (f) apply with modifications certain provisions of the Food Safety (Northern Ireland) Order 1991 for the purposes of the Regulations *(regulation 6)*.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; see [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: [SI 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901)
+
+[^f00004]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by [Commission Regulation (EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3)
+
+[^key-499c2e749752676d2fc24866eca0b796]: Commencement: Reg. 1 in operation at 15.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/171/regulation/1)
+
+[^key-971b08636ac6107baaad5b137611acd4]: Commencement: Reg. 2 in operation at 15.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/171/regulation/1)
+
+[^key-0979a799b4389b4a23618afbd231d155]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1) substituted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/2/a/i)
+
+[^f00006]: Footnote: OJ No. L245, 29.9.2003, p.4
+
+[^key-25604b8445d16b1d016e8177c02101de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1) inserted (4.7.2013) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/180)](https://www.legislation.gov.uk/nisr/2013/180), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/180/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2013/180/regulation/2/2)
+
+[^key-ec7ee3b75861b29a96633820d6639b6c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1) omitted (12.1.2012) by virtue of [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/2/a/ii)
+
+[^key-da26fd8b5571fc242db4b3a2baccb422]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1) inserted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/2/a/iii)
+
+[^key-7e8d4d094f4b1336fc4d4b7d7fa0ab78]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1) substituted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/2/a/iv)
+
+[^key-0d876b4a6d269f8e8bddabd8adbe56ab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [19(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/19/2)
+
+[^key-d23cb0496fcefb9484f13f5e1086e73f]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2008/171/regulation/2/1A) inserted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/2/b)
+
+[^f00008]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-9511798b85a99d416cc78f0a03a002a6]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2008/171/regulation/3/1) and heading substituted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/3)
+
+[^key-38866414a0a124bc61a7b7aa9aeb1209]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2008/171/regulation/3/1/a) inserted (4.7.2013) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/180)](https://www.legislation.gov.uk/nisr/2013/180), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/180/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/180/regulation/2/3)
+
+[^key-1c689eb9f9ea599e6c71686dac3171c7]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/171/regulation/4) omitted (12.1.2012) by virtue of [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/4)
+
+[^key-bdcf0ae6db20cd52dae7bf1617fca00e]: Commencement: Reg. 5 in operation at 15.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/171/regulation/1)
+
+[^key-be2524b014c6a28dcdc83449c12895e2]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/nisr/2008/171/regulation/5/4) substituted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/5)
+
+[^key-20095d0f57bec3f2529974fc87d13e9b]: Commencement: Reg. 6 in operation at 15.4.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/171/regulation/1)
+
+[^f00009]: Footnote: [1991 No. 762 (NI7)](https://www.legislation.gov.uk/nisi/1991/762)
+
+[^f00010]: Footnote: Article 20 was amended by S.R. [2004 No. 505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^key-885fca4ed5ab112e5cf4d500e5ebf477]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/nisr/2008/171/regulation/6/b) substituted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/6)
+
+[^f00011]: Footnote: Article 36(3) was amended by S.R. [2004 No. 505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^key-0b137eb662a48d6697f93c94007e01b6]: Textual amendment: [Regs. 7](https://www.legislation.gov.uk/nisr/2008/171/regulation/7), [8](https://www.legislation.gov.uk/nisr/2008/171/regulation/8) inserted (12.1.2012) by [The Specified Products from China (Restriction on First Placing on the Market) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/3)](https://www.legislation.gov.uk/nisr/2012/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/3/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2012/3/regulation/2/7)
+
+[^key-6655dd7015c765d52dc72b21cd4cf219]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/171/regulation/8) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [19(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/19/3)

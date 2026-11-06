@@ -1,0 +1,290 @@
+---
+title: The Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2012
+id: nisr/2012/368
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2012-09-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2012/368
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2012/368/pdfs/nisrem_20120368_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/368/pdfs/nisr_20120368_en.pdf
+- http://www.legislation.gov.uk/nisr/2012/368/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 368
+
+European Communities
+
+Nature Conservation
+
+The Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2012
+
+Made
+
+26th September 2012
+
+Coming into operation-
+
+29th October 2012
+
+The Department of the Environment is a department designated[^f00001] for the purpose of making regulations under section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment. The Department makes these Regulations in exercise of the powers conferred by that section.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2012 and shall come into operation on 29th October 2012.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+## 2. Amendments to the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995
+
+The Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995[^f00004] are amended in accordance with regulations 3 to 16.
+
+**3.** Regulation 2 (interpretation and application), paragraph 2, is amended as follows—
+
+- (a) after the definition of “destroy” insert—
+
+  > - “the Directives” means the Habitats Directive and the Wild Birds Directive, as defined in paragraph 2A;
+
+  ;
+- (b) after the definition of “the Wild Birds Directive” insert—
+
+  > - “wild birds” means all species of naturally occurring birds in the wild and includes their eggs, nests and habitats
+
+  .
+
+**4.** For regulation 3 (implementation of Directive) substitute—
+
+> **3. Duties relating to compliance with the Directives**
+>
+> (1) A Northern Ireland Department and, in relation to the marine area, a competent authority, in the exercise of their functions relative to nature conservation, including marine conservation, shall secure compliance with the requirements of the Directives.
+>
+> (2) Paragraph (1) applies, in particular but not exclusively, to functions under the following enactments—
+>
+> - Section 2(2) of the Military lands Act 1900 (provisions as to the use of sea, tidal water and shore)[^f00005];
+> - the Foyle Fisheries Act (Northern Ireland) 1952[^f00006];
+> - the Fisheries Act (Northern Ireland) 1966[^f00007];
+> - the Harbours Act (Northern Ireland) 1970[^f00008];
+> - the Drainage (Northern Ireland) Order 1973[^f00009];
+> - Parts, 2, 3, & 5 of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985[^f00010];
+> - the Wildlife (Northern Ireland) Order 1985[^f00011];
+> - the Sea Fisheries Acts within the meaning of section 1 of the Sea Fisheries (Wildlife Conservation) Act 1992[^f00012] (conservation in the exercise of sea fisheries functions);
+> - the Water (Northern Ireland) Order 1999[^f00013];
+> - Part 4 of the Environment (Northern Ireland) Order 2002[^f00014];
+> - the Water and Sewerage Services (Northern Ireland) Order 2006[^f00015];
+> - the Water Environment (Floods Directive) Regulations (Northern Ireland) 2009[^f00016];
+> - the Forestry Act (Northern Ireland) 2010[^f00017];
+> - the Planning Act (Northern Ireland) 2011[^f00018]; and
+> - these Regulations.
+>
+> (3) Without prejudice to paragraphs (1) and (2), a competent authority in the exercise of functions generally, shall have regard to the requirements of the Directives.
+>
+> **3A. Duties in relation to wild bird habitat**
+>
+> (1) Without prejudice to regulation 3(1), a Northern Ireland Department and, in relation to the marine area, a competent authority, shall take such steps in the exercise of their functions as they consider appropriate to secure the objective in paragraph (3).
+>
+> (2) Except in relation to the marine area, a district council shall take such steps in the exercise of their functions as they consider appropriate to contribute to the achievement of the objective in paragraph (3).
+>
+> (3) The objective is the preservation, maintenance and re-establishment of a sufficient diversity and area of habitat for wild birds as is appropriate, so as to secure compliance with the requirements of Articles 2 and 3 of the Wild Birds Directive.
+>
+> (4) Paragraphs (1) and (2) shall apply, in particular but not exclusively, to—
+>
+> - (a) functions under the following provisions—
+>   - Section 9 (management agreements) and Part 4 (national nature reserves, nature reserves and marine nature reserves) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+>   - Part 1 (management of forestry land) and Part 3 (restriction of felling) of the Forestry Act (Northern Ireland) 2010;
+>   - Part 4 (areas of special scientific interest) of the Environment (Northern Ireland) Order 2002; and
+>   - these Regulations; and
+> - (b) any function in relation to town and country planning.
+>
+> (5) In considering what measures may be appropriate for the purpose of securing or contributing to the objective at paragraph (3), appropriate account may be taken of economic and recreational requirements.
+>
+> (6) A competent authority shall take appropriate steps to avoid any pollution or deterioration of habitats of wild birds.
+>
+> (7) The Department shall take such steps as are necessary to facilitate or co-ordinate arrangements with a competent authority so as to ensure compliance with paragraphs (1) and (2).
+>
+> **3B. Review and guidance**
+>
+> (1) The Department shall periodically review the extent to which the objective in regulation 3A(3) has been met.
+>
+> (2) In carrying out a review under paragraph (1), the Department shall, in so far as is reasonable, take account of any measures taken which contribute to the achievement of that objective, whether or not taken pursuant to a requirement imposed by any enactment.
+>
+> (3) The Department shall give such guidance to a competent authority as it considers appropriate so as to facilitate their determination of—
+>
+> - (a) the extent to which the diversity and area of wild bird habitat is sufficient; and
+> - (b) the steps that it may be appropriate to take under regulation 3A(1) and (2).
+>
+> (4) A competent authority shall have regard to guidance given under paragraph (3).
+
+.
+
+**5.** In regulation 4 (relevant authorities in relation to marine areas and European marine sites)—
+
+- (a) at the end of sub-paragraph (c) insert the word “and”;
+- (b) omit sub-paragraph (d).
+
+**6.** In regulation 29 (management scheme for European marine site), in paragraph (1), for “Habitats Directive” substitute “Directives”.
+
+**7.** For regulation 42 (application of the provisions of this part) substitute—
+
+> **42. Interpretation of Part IV**
+>
+> In this Part—
+>
+> - (a) “the assessment provisions” means regulations 43 (assessment of implications for European sites in Northern Ireland and European offshore marine sites) and 44 (considerations of overriding public interest);
+> - (b) “the review provisions” means regulations 45 (review of existing decisions and consents, etc) and 46 (consideration of review);
+> - (c) any reference to—
+>   - (i) the giving or granting of any consent, permission or other authorisation, or
+>   - (ii) directing that planning permission is deemed to be granted,
+>
+> is to be taken, in relation to a consent, permission or authorisation which is capable of being varied or modified, to include a reference to any variation or modification; and
+>
+> - (a) the reference in regulation 43(1) to deciding to undertake a plan or project is to be taken to include a reference to deciding to vary a plan or project undertaken or to be undertaken.
+
+.
+
+**8.** After regulation 42 insert—
+
+> **42A. Application of the provisions of Regulations 43 to 48**
+>
+> (1) The requirements of the assessment provisions and the review provisions apply—
+>
+> - (a) subject to and in accordance with regulations 49 to 64, in relation to the matters specified in those regulations; and
+> - (b) in relation to all other plans and projects not relating to matters specified in regulations 49 to 64D.
+>
+> (2) Supplementary provision is made by regulations 47 and 48.
+
+.
+
+**9.** (1) Regulation 49 (planning decisions) is amended as follows.
+
+(2) In paragraph (1), for the words “Regulations 43 and 44 (requirement to consider effect on European sites in Northern Ireland and European offshore marine sites)” substitute “The assessment provisions”.
+
+(3) In paragraphs (2) and (3), for the words “regulations 43 and 44,” substitute “the assessment provisions”.
+
+**10.** (1) Regulation 50 (planning permission: duty to review) is amended as follows.
+
+(2) In paragraph (1), for the words “regulations 45 and 46 (requirement to review certain decisions and consents, etc)” substitute “the review provisions”.
+
+(3) In paragraph (2), for the words “Regulations 45 and 46” substitute “The review provisions”.
+
+(4) In paragraph (3), for the words “regulations 45 and 46—” substitute “the review provisions—”.
+
+**11.** (1) Regulation 51 (planning permission: consideration on review) is amended as follows.
+
+(2) In paragraph (1), for the words “regulations 45 and 46,” substitute “the review provisions,”.
+
+(3) In paragraph (2), for the words “sections 45 and 46” substitute “the review provisions”.
+
+**12.** (1) Regulation 62 (construction of roads) is amended as follows.
+
+(2) In paragraph (1), for the words “Regulations 43 and 44 (requirement to consider effect on European sites in Northern Ireland and European offshore marine sites)” substitute “The assessment provisions”.
+
+(3) In paragraph (2), for the words “Regulations 45 and 46 (requirement to review certain decisions, etc)” substitute “The review provisions”.
+
+**13.** (1) Regulation 63 (licences under Part II of the Waste and Contaminated Land (Northern Ireland) Order 1997) is amended as follows.
+
+(2) In paragraph (1), for the words “Regulations 43 and 44 (requirement to consider effect on European sites in Northern Ireland and European offshore marine sites)” substitute “The assessment provisions”.
+
+(3) In paragraph (3), for the words “Regulations 45 and 46 (requirement to review existing decisions and consents, etc)” substitute “The review provisions”.
+
+**14.** (1) Regulation 63A (permits under the Pollution Prevention and Control Regulations (Northern Ireland) 2003) is amended as follows.
+
+(2) In paragraph (1), for the words “Regulations 43 and 44 (requirement to consider effect on European sites in Northern Ireland and European offshore marine sites)” substitute “The assessment provisions”.
+
+(3) In paragraph (3), for the words “Regulations 45 and 46 (requirement to review existing decisions and consents, etc)” substitute “The review provisions”.
+
+**15.** (1) Regulation 64 (discharge consents under water pollution legislation) is amended as follows.
+
+(2) In paragraph (1), for the words “Regulations 43 and 44 (requirement to consider effect on European sites in Northern Ireland and European offshore marine sites)” substitute “The assessment provisions”.
+
+(3) In paragraph (3), for the words “Regulations 45 and 46 (requirement to review existing decisions and consents, etc)” substitute “The review provisions”.
+
+**16.** After regulation 74 insert—
+
+> **74A. Research**
+>
+> (1) The Department shall take such steps to encourage research and scientific work as it considers necessary —
+>
+> - (a) having regard to the objectives in Article 2, and the obligation in Article 11, of the Habitats Directive; and
+> - (b) for the purpose of the protection or management, and in relation to the use, of any population of wild bird.
+>
+> (2) The Department shall, in liaison with the Department for Environment, Food and Rural Affairs, supply such information as it considers appropriate to the European Commission and, in the case of information supplied for the purposes of the Habitats Directive, to member States, to further the proper co-ordination of research carried out by member States or by the European Commission for the purposes of the Directives.
+>
+> (3) In deciding what steps to take under paragraph (1), the Department shall have particular regard to the need for research and scientific work—
+>
+> - (a) on the subjects listed in Annex V to the Wilds Birds Directive; or
+> - (b) which may be required to implement Articles 4 and 10 of the Habitats Directive.
+
+.
+
+Sealed with the Official Seal of the Department of the Environment on 26th September 2012.
+
+Wesley Shannon
+
+A senior officer of the Department of the Environment
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995 (“the principal Regulations”) which make provision for implementing Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild flora and fauna (“the Habitats Directive”)[^f00019] and certain aspects of Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds (“the Wild Birds Directive”)[^f00020].
+
+Regulation 4 substitutes regulation 3 of the principal regulations, to provide that public bodies must exercise their functions so as to comply with the Habitats and Wild Birds Directives.
+
+Regulation 4 also inserts regulation 3A of the principal regulations, which imposes duties on public bodies in relation to wild bird habitat and regulation 3B which requires the Department of the Environment to periodically review whether the obligations under regulation 3A have been met. Regulation 4 also requires the Department of the Environment to provide guidance to relevant public bodies to assist them to met their obligations under regulation 3A.
+
+Regulations 7 and 8 clarify the interpretation of Part IV of the principal regulations and provides that the assessment and review procedures of that Part apply in relation to plans and projects not specifically mentioned in that Part. Regulations 9 to 15 are consequential amendments.
+
+Regulation 16 inserts regulation 74A of the principal regulations, concerning research and scientific work for the purposes of the Habitats and the Wild Birds Directives.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^f00004]: Footnote: [S.R. 1995 No.380](https://www.legislation.gov.uk/nisr/1995/380) as amended by [S.R. 2003 No.46](https://www.legislation.gov.uk/nisr/2003/46), [S.R. 2004 No.435](https://www.legislation.gov.uk/nisr/2004/435), [S.R. 2007 No.345](https://www.legislation.gov.uk/nisr/2007/345), [S.R.2009 No.8](https://www.legislation.gov.uk/nisr/2009/8) and [S.R.2011 No.216](https://www.legislation.gov.uk/nisr/2011/216).
+
+[^f00005]: Footnote: [1900 c.56](https://www.legislation.gov.uk/ukpga/1900/56); the power conferred by Section 2(2) was extended by Section 7 of the Land Powers (Defence) Act [1958 (c.30)](https://www.legislation.gov.uk/ukpga/1958/30)
+
+[^f00006]: Footnote: [1952 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1952/5)
+
+[^f00007]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
+
+[^f00008]: Footnote: [1970 c.1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1)
+
+[^f00009]: Footnote: [S.I.1973/69 (N.I.)](https://www.legislation.gov.uk/nisi/1973/69)
+
+[^f00010]: Footnote: [S.I.1985/170 (N.I.1)](https://www.legislation.gov.uk/nisi/1985/170)
+
+[^f00011]: Footnote: [S.I. 1985/171 (N.I.2)](https://www.legislation.gov.uk/nisi/1985/171)
+
+[^f00012]: Footnote: [1992 c.36](https://www.legislation.gov.uk/ukpga/1992/36)
+
+[^f00013]: Footnote: [S.I. 1999/662 (N.I.6)](https://www.legislation.gov.uk/nisi/1999/662)
+
+[^f00014]: Footnote: [2002 c.7 (N.I.)](https://www.legislation.gov.uk/nia/2002/7)
+
+[^f00015]: Footnote: [S.I. 2006/3336 (N.I.21)](https://www.legislation.gov.uk/nisi/2006/3336)
+
+[^f00016]: Footnote: [S.R. 2009/376](https://www.legislation.gov.uk/nisr/2009/376)
+
+[^f00017]: Footnote: [2010 c.10 (N.I.)](https://www.legislation.gov.uk/nia/2010/10)
+
+[^f00018]: Footnote: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
+
+[^f00019]: Footnote: O.J. No L206,22.7.1992, p.7, last amended by Council Directive [2006/105/EC](https://www.legislation.gov.uk/european/directive/2006/0105) (OJ No L363, 20.12.2006, p.368).
+
+[^f00020]: Footnote: O.J. No L20, 26.1.2010, p.7. This instrument codifies, with minor amendments, Council Directive [1979/409/EEC](https://www.legislation.gov.uk/european/directive/1979/0409) as amended.

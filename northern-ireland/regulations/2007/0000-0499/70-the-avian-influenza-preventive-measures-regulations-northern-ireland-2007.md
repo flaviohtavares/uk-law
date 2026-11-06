@@ -1,0 +1,443 @@
+---
+title: The Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2007
+id: nisr/2007/70
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-02-09'
+text_date: '2025-02-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/70
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/70/pdfs/nisr_20070070_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/70/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2007
+
+> Text as at 2025-02-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 70
+
+animals
+
+animal health
+
+The Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2007
+
+Made
+
+9th February 2007
+
+Coming into operation
+
+10th February 2007
+
+The Department of Agriculture and Rural Development, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, makes the following Regulations in exercise of the powers conferred on it by that section.
+
+## 1. Citation and commencement[^key-0d5295b9ba80c611e5a2212e59e3398a]
+
+These Regulations may be cited as The Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2007 and come into operation on 10<sup>th</sup> February 2007.
+
+## 2. Interpretation[^key-e1ad23bb542c070ee74de2e92d3abce0]
+
+(1) In these Regulations—
+
+- “avian influenza” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+- “the Department” means the Department of Agriculture and Rural Development;
+- “disease” means avian influenza;
+- “disinfect” means disinfect with a disinfectant approved by the Department under the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 1972[^f00003] for the purposes of disease;
+- “general licence” means a licence granted under these Regulations which applies to all persons, or any class of persons specified therein;
+- “inspector” means a person appointed by the Department to be an inspector for the purpose of these Regulations;
+- “keeper” means the person with day to day responsibility for poultry or other captive birds at a premises;
+- “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981[^f00004];
+- “other captive bird” means any bird kept in captivity which is not poultry and includes a pet bird and any bird kept for shows, races, exhibitions, competitions, breeding or for sale;
+- “poultry” means all birds that are reared or kept in captivity for—
+  - (a) the production of meat or eggs for consumption;
+  - (b) the production of other commercial products;
+  - (c) restocking supplies of game; or
+  - (d) the purposes of any breeding programme for the production of these categories of birds;
+- “premises” includes any land, building or place;
+- “specific licence” means a licence granted under these Regulations which only applies to the applicant therefor;
+- “vaccinate” means treat poultry or other captive birds with vaccine against disease;
+- “vehicle” includes—
+  - (a) a trailer, semi-trailer or other thing designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of any vehicle; and
+  - (c) a container or other structure designed or adapted to be carried on a vehicle;
+- “zoo” means either—
+  - (a) a permanent establishment where animals of wild species are kept for exhibition to the public for seven or more days a year, with the exception of circuses and pet shops; or
+  - (b) an approved body, institute or centre, as defined in point (c) of Article 2(1) of Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065)[^f00005] laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I) to Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425).
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Notices and licences[^key-b7ea03f756555169383dbed117be096f]
+
+(1) A notice served by the Department under these Regulations—
+
+- (a) must be in writing; and
+- (b) may be subject to conditions and may be amended, suspended or revoked, by a further notice, at any time.
+
+(2) Where a notice is served on any person under these Regulations, he shall comply with the requirements or restrictions thereof.
+
+(3) A licence granted under these Regulations—
+
+- (a) must be in writing;
+- (b) may be subject to conditions; and
+- (c) may be either a general licence or a specific licence.
+
+(4) A general licence shall be issued by the publication of it in such manner and to such extent as appears to the Department to be sufficient to bring it to the notice of those persons likely to be affected by it.
+
+(5) The Department may amend, suspend or revoke any licence under these Regulations—
+
+- (a) in the case of a general licence, by a notice published so far as is practicable, in the same manner and to the same extent as the licence; and
+- (b) in the case of a specific licence, by a notice served on the person to whom the licence was granted.
+
+(6) The Department may amend, suspend or revoke a general licence insofar as it applies to any particular person by notice served on that person.
+
+## 4. Production of a licence[^key-9b1d097a3d8541512ba25b9cefcbe552]
+
+(1) A person moving any thing under the authority of a specific licence must—
+
+- (a) keep the licence or a copy of it with him at all times during the licenced movement;
+- (b) on demand made by an inspector produce the licence or copy and allow a copy or extract of it to be taken; and
+- (c) on such demand, provide his name and address.
+
+(2) A person moving any thing under the authority of a general licence must—
+
+- (a) keep with him, at all times during the licenced movement, a consignment note that contains details of—
+  - (i) what is moved (including its quantity),
+  - (ii) the date of the movement,
+  - (iii) the name of the consignor,
+  - (iv) the address of the premises from which the thing was moved,
+  - (v) the name of the consignee, and
+  - (vi) the address of the premises of destination;
+- (b) on demand by an inspector produce the consignment note and allow a copy or extract to be taken; and
+- (c) on such demand, provide his name and address.
+
+## 5. Identification of poultry premises[^key-f4826373c719773fa2ca115992d3a845]
+
+(1) Subject to paragraph (4), a person who, on the date these Regulations come into force, is the keeper of poultry on any premises shall, within 30 days of that date give notice to the Department containing particulars of—
+
+- (a) the name and address of the owner and (if different) the keeper of the poultry;
+- (b) the address of the premises and—
+  - (i) where cattle are kept on the premises, any unique identification code allocated under regulation 3(1)(b) of the Cattle Identification (No.2) Regulations (Northern Ireland) 1998[^f00007],
+  - (ii) where pigs are kept on the premises, any holding number allocated under paragraph 3(3) of the Schedule of the The Aujeszkey's Disease Scheme Order (Northern Ireland)2012.[^key-311ce2bfe23fa723d8a5e45e47db6e63] [^f00008],
+  - (iii) where sheep are kept on the premises, any holding number allocated under Article 3(4) of the Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2005[^f00009];
+- (c) the contact telephone number for the owner or keeper and (if different) the premises;
+- (d) the species kept at the premises;
+- (e) the husbandry system or systems in use at the premises, including whether poultry are kept for the production of—
+  - (i) meat,
+  - (ii) hatching eggs, or
+  - (iii) eggs for consumption;
+- (f) the number of each species of poultry usually kept at the premises;
+- (g) the incubator capacity of any hatchery;
+- (h) details of any seasonal stocking variations which might result in significant differences in the numbers or species of poultry on the premises;
+- (i) the number of each species of poultry with access to the open air; and
+- (j) the presence on or in the vicinity of the premises of any body of water which attracts wild birds.
+
+(1A)[^M_F_200f4ed1-8d66-46ed-d1ca-a91c04d6a8ad] The keeper of poultry on any premises shall notify the Department, in writing, details of the particulars referred to in paragraph (1) within 30 days of the Department requesting such information by notice.
+
+(2) Notwithstanding paragraphs (1), (1A), (3) and (4)[^M_F_a827a42f-7f6e-44c9-fc89-be27e2ebb5aa] the Department may, by notice, require any person, to give such other information or particulars as it requires to carry out functions under these Regulations or The Avian Influenza and Influenza of Avian Origin in Mammals Regulations (Northern Ireland) 2007[^f00010].
+
+(3) Subject to paragraph (4), a person who becomes the keeper of poultry at any premises after the date these Regulations come into force must notify the information referred to in paragraph (1) to the Department in writing within 30 days of becoming so.
+
+(4) Paragraph (1) does not apply to any person who notified the Department under regulation 6(1) of the Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2005[^f00011].
+
+(5) Where in relation to any premises on which poultry is kept there is a change in the number referred to in paragraph (1)(f) or (i), by an increase or decrease of 20% or more, unless this is due to usual management fluctuations, the keeper shall notify the Department within 30 days of such change occuring.
+
+(6) Any person who is required to give particulars or information under this regulation shall keep a copy thereof for such period as the Department may require.
+
+(7) In this regulation—
+
+- (a) “poultry” includes any other captive bird but does not include any caged pet bird kept in the owner’s home; and
+- (b) “usual management fluctuations” means—
+  - (i) the emptying of poultry houses or hatcheries for immediate restocking, or
+  - (ii) seasonal stocking.
+
+## 6. Restriction on vaccination of zoo birds[^key-4fbfa839d74f7d32b173baeff4f0f16a]
+
+(1) A person shall not vaccinate any zoo bird except where required by an inspector or under the authority of and in accordance with the conditions of a licence granted by the Department.
+
+(2) The prohibition in paragraph (1) does not apply to—
+
+- (a) anything done under the authority of a licence granted under Article 4 of the Specified Animal Pathogens Order (Northern Ireland) 1999[^f00012]; or
+- (b) the administration of a vaccine for research purposes in accordance with an animal test certificate granted under regulation 8(2) of The Veterinary Medicines Regulations 2006[^f00013].
+
+## 7. Vaccination of zoo birds[^key-dcfe792dae5f4980335ec85e70a67514]
+
+(1) If the condition in paragraph (2) is fulfilled, the Department may—
+
+- (a) vaccinate such birds in such zoos as it considers necessary (after giving notice to the occupier of such zoos);
+- (b) require (by notice served on the occupier of any zoo) the vaccination of any bird in the zoo; or
+- (c) licence the occupier of a zoo to vaccinate any bird in the zoo.
+
+(2) The condition is that the Department has carried out a risk assessment and considers there is a risk that disease will be transmitted to zoo birds or to categories of such birds.
+
+(3) As part of its risk assessment, the Department must consider whether a zoo is—
+
+- (a) on a migratory flyway;
+- (b) close to any body of water where migratory birds may gather;
+- (c) located in an area with a high density of migratory birds.
+
+(4) The Department shall specify in a notice or licence under this regulation—
+
+- (a) the number and species of birds to be vaccinated;
+- (b) biosecurity conditions to be met at the zoo or any part of the zoo;
+- (c) conditions relating to the storage and administration of vaccine.
+
+(5) The Department shall ensure that vaccination is carried out in accordance with the preventive vaccination plan approved by the European Commission under Article 5 of Commission[^key-f74c83f0c10f11d5a4b5f5a7a53d4bd8] [Decision 2007/598/EC](https://www.legislation.gov.uk/european/decision/2007/0598) [^f00014] concerning measures to prevent the spread of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 to birds kept in zoos and approved bodies, institutes and centres in the member States and repealing Decision [2005/744/EC](https://www.legislation.gov.uk/european/decision/2005/0744).
+
+## 8. Slaughter of vaccinated birds[^key-60660849a984519a8bd70ed286978b77]
+
+(1) The Department may slaughter or cause to be slaughtered any zoo bird which has been treated with vaccine for the purpose of preventing the spread of disease.
+
+(2) The power conferred by this regulation extends to taking any action—
+
+- (a) which is required to enable any such bird to be slaughtered; or
+- (b) (including making provision for the disposal of carcases) which is otherwise required for the purposes of these Regulations in connection with the slaughter.
+
+(3) Compensation shall be paid in respect of any bird slaughtered under this regulation and that compensation shall be the value of the bird immediately before it was slaughtered.
+
+(4) For the purposes of this regulation, the Diseases of Animals (Valuation) Order (Northern Ireland) 1989[^f00015] applies to birds slaughtered under this regulation as it applies to birds slaughtered under the 1981 Order.
+
+## 9. Powers of entry[^key-171b26a1a693da831df2f1d206307a5c]
+
+(1) An inspector may at any time enter any premises for the purpose of—
+
+- (a) ascertaining whether a power conferred by or under these Regulations to cause a bird to be vaccinated or slaughtered should be exercised; or
+- (b) doing anything in pursuance of the exercise of that power.
+
+(2) The occupier of a zoo or keeper of a zoo bird or carcase of a zoo bird must provide such reasonable facilities and comply with such reasonable requirements of the inspector as may be necessary to facilitate the exercise of his powers under paragraph (1).
+
+## 10. Restrictions relating to vaccinated zoo birds[^key-2467e85729bb2798e78e792331a4a278]
+
+(1) A person shall not move any vaccinated zoo bird except under the authority of and in accordance with the conditions of a licence granted by the Department.
+
+(2) The Department may only licence the movement of vaccinated zoo birds—
+
+- (a) to a zoo in the United Kingdom or in a[^key-2df9a68fb3f970b8a451fddcdadf3785] member State; or
+- (b) directly to a third country.
+
+(3) The Department shall not licence a movement to a[^key-0487021f6c23fa23eb627b7a43b258b1] member State or to a third country unless its competent authority has authorised the movement.
+
+(4) An inspector must supervise any movement licenced under paragraph (2) while the bird is in Northern Ireland.
+
+(5) A person shall not release any vaccinated zoo bird into the wild except under the authority of and in accordance with the conditions of a licence granted by the Department.
+
+(6) A person shall not supply or sell, for human consumption, any product from a vaccinated zoo bird.
+
+(7) In this regulation, “competent authority” means—
+
+- (a) in relation to a member State, the authority of a member State competent to carry out physical checks or administrative formalities in accordance with Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on the European Union[^key-abd8a7e15befc299b4521a749055b5e1] measures for the control of avian influenza and repealing Directive [92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040) as last amended by Commission Implementing Decision (EU) 2018/662,[^key-a64ac3e0dbf8adc40eaa181d1ed9cba6] [^f00016] or any authority to which such competencies are delegated; and
+- (b) in relation to third countries, the authority in that third country authorised to regulate the importation of zoo birds.
+
+## 11. Surveillance at zoos[^key-cf754cc9012c71819f69a78f20524429]
+
+The Department must ensure that such surveillance for disease as it considers necessary to limit the spread of disease is carried out at any zoo where birds have been vaccinated.
+
+## 12. Failure to vaccinate birds[^key-d8e5a5d97daee696bfbbf3ab9eaa3350]
+
+A person who knows or suspects that any bird has not been vaccinated as required by the Department must immediately notify the Divisional Veterinary Officer of the Department for the area in which that bird is located.
+
+## 13. General duties relating to execution of these Regulations[^key-de87ea42db06044abc06a01fc9f6649a]
+
+(1) A person required to give assistance or information to an inspector must, unless he has reasonable cause, do so without delay.
+
+(2) A person shall not alter, deface, obscure or remove any mark applied by an inspector under regulation 16.
+
+(3) A person shall not provide information which he knows to be false or misleading to an inspector.
+
+(4) The costs incurred by any person in taking any action required, or in refraining from taking action that is prohibited, must be met by that person unless the Department directs otherwise in writing.
+
+## 14. Production of records[^key-422687e82f1dbec891f203db2c0c64a7]
+
+(1) A person required to produce a record on demand made by an inspector must do so without delay.
+
+(2) On production of the record, an inspector may—
+
+- (a) copy the record, in whatever form it is held;
+- (b) require any computer record to be produced in a form which can be taken away; and
+- (c) take any record away and retain it until he has carried out his functions under these Regulations.
+
+## 15. Change of occupation of premises under restriction[^key-7b79cf5d10570f3a8a24b0a16c699303]
+
+(1) This regulation applies if the keeper of any zoo bird, poultry or any other captive bird is unable to move it from premises on the termination of his right of occupation because of a movement restriction imposed under these Regulations and continues to apply for seven days after any such restriction has been removed.
+
+(2) The person entitled to occupation of the premises following that termination must—
+
+- (a) provide such facilities for feeding, tending or otherwise using any zoo bird, poultry or any other captive bird (including selling it) as the keeper may reasonably require; and
+- (b) allow entry to the premises to that keeper and any person authorised by him at reasonable times for feeding, tending or otherwise using any zoo bird, poultry or any other captive bird.
+
+(3) If the keeper is unable or unwilling to feed or tend any zoo bird, poultry or any other captive bird, the person entitled to occupation of the premises must take such steps as are necessary to ensure it is properly fed and tended.
+
+(4) The keeper of any zoo bird, poultry or any other captive bird is liable to pay the reasonable costs incurred by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it.
+
+## 16. Powers of inspectors[^key-7636a058ae8d18a6f4e9c471f0d19534]
+
+An inspector may—
+
+- (a) mark any zoo bird or other thing for identification purposes;
+- (b) require, by notice, the person in charge of any vehicle or equipment to cleanse and disinfect it;
+- (c) cleanse and disinfect any part of premises or any thing on those premises;
+- (d) require, by notice, the occupier of any premises to cleanse and disinfect any part of those premises or any thing on those premises;
+- (e) require, by notice, the occupier of any premises or the keeper of any zoo bird—
+  - (i) to keep or isolate any zoo bird or animal in a specified place,
+  - (ii) to separate any poultry, other captive bird or animal from any other animal or bird.
+
+## 17. Powers of inspectors in case of default[^key-9210b2a43912f6018ea98cb35b398a12]
+
+(1) Where a person fails to comply with a requirement of these Regulations, an inspector may take any steps he considers necessary to ensure the requirement is met.
+
+(2) The person in default shall reimburse any reasonable expenses incurred by the Department in taking such steps and any such amount is recoverable summarily.
+
+(3) An inspector’s powers under paragraph (1) include powers to—
+
+- (a) require, by notice, any person to take or refrain from specified action in respect of any place, animal, bird, vehicle or other thing; and
+- (b) seize and detain any thing.
+
+## 18. Enforcement, offences and proceedings[^key-bb7eb62ba4348104581b99812641c350]
+
+The following provisions of the 1981 Order shall apply as if these Regulations were an order made under the 1981 Order—
+
+- (a) Article 18 (6) (general provisions relative to slaughter and compensation);
+- (b) Article 42 (functions of constables);
+- (c) Article 46 (general powers of inspectors);
+- (d) Article 46A (powers of inspectors relating to assimilated[^key-4537510f42e5818a2e2000f212159d9c][^key-d080bb699efa53e4d196ec3095059ee7] law or Protocol obligations);
+- (e) Article 52 (offences);
+- (f) Article 54 (defences and evidence);
+- (g) Article 55 (extension of time for bringing summary proceedings);
+- (h) Article 56 (venue).
+
+## 19. Revocations[^key-de37177836cf0ebc41058a4c075e92c9]
+
+The Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2005[^f00017] and the Avian Influenza (Preventive Measures in Zoos) Regulations (Northern Ireland) 2005[^f00018] are revoked.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 9<sup>th</sup> February
+
+E. Redmond
+
+A senior officer of the Department of Agriculture and Rural Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations—
+
+- revoke and replace The Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2005 ([S.R 2005 No. 485](https://www.legislation.gov.uk/nisr/2005/485)) and The Avian Influenza (Preventive Measures in Zoos) Regulations (Northern Ireland) 2005 ([S.R. 2005 No. 486](https://www.legislation.gov.uk/nisr/2005/486));
+- give effect to the vaccination requirements set out in Commission Decision [2006/474/EC](https://www.legislation.gov.uk/european/decision/2006/0474) concerning measures to prevent the spread of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 to birds kept in zoos and approved bodies, institutes and centres in the member States and repealing Decision [2005/744/EC](https://www.legislation.gov.uk/european/decision/2005/0744) (O.J. No L 187, 8.7.2006, p. 37); and
+- implement provisions requiring or dependant on the identification of poultry premises under Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing Directive [92/40/EC](https://www.legislation.gov.uk/european/directive/1992/0040) (O.J. No. L10, 14.1.2006, p16).
+
+Regulations 1 to 4 contain introductory provisions on notices and licences.
+
+Regulation 5 requires a keeper of poultry or captive birds to submit certain information to the Department within specified time limits and keep records of that information.
+
+Regulations 6 to 12 relate to the vaccination of zoo birds. Regulation 6 contains a general prohibition on unauthorised vaccination of zoo birds. Regulation 7 specifies the conditions for vaccination of zoo birds, and regulation 8 enables the slaughter of vaccinated birds. Regulation 9 gives an inspector the power to enter premises. Regulation 10 sets out restrictions on the movement of vaccinated zoo birds. Regulation 11 requires the Department to carry out surveillance at any zoo where birds have been vaccinated and regulation 12 requires the Department to be notified of any bird that has not been vaccinated as required under the regulation.
+
+Regulations 13 to 15 place general obligations on those bound by these Regulations.
+
+Regulations 16 to 18 deal with powers of inspectors and offences.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-0d5295b9ba80c611e5a2212e59e3398a]: Commencement: Reg. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-e1ad23bb542c070ee74de2e92d3abce0]: Commencement: Reg. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^f00003]: Footnote: S.R. & O. [(N.I.) 1972 No 16](https://www.legislation.gov.uk/nisro/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69), [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467) and [S.R. 2006 No. 42](https://www.legislation.gov.uk/nisr/2006/42)
+
+[^f00004]: Footnote: [1981 No. 1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17 and [S.I.1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 19 to 23
+
+[^f00005]: Footnote: O.J. No. L 268, 14.9.1992, p. 54, as last amended by Corrigendum to Council Directive [2004/68/EC](https://www.legislation.gov.uk/european/directive/2004/0068) (O.J. No. L 226 25.6.2004, p. 128)
+
+[^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b7ea03f756555169383dbed117be096f]: Commencement: Reg. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-9b1d097a3d8541512ba25b9cefcbe552]: Commencement: Reg. 4 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-f4826373c719773fa2ca115992d3a845]: Commencement: Reg. 5 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^f00007]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279) as amended by [S.R. 1999 No. 324](https://www.legislation.gov.uk/nisr/1999/324) and [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420)
+
+[^key-311ce2bfe23fa723d8a5e45e47db6e63]: Textual amendment: Words in [reg. 5(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/70/regulation/5/1/b/ii) substituted (19.3.2012) by [The Aujeszky's Disease Order (Northern Ireland) 2012 (S.R. 2012/65)](https://www.legislation.gov.uk/nisr/2012/65), [arts. 1](https://www.legislation.gov.uk/nisr/2012/65/article/1), [27(3)](https://www.legislation.gov.uk/nisr/2012/65/article/27/3)
+
+[^f00008]: Footnote: [S.R. 1994 No. 199](https://www.legislation.gov.uk/nisr/1994/199)
+
+[^f00009]: Footnote: [S.R. 2005 No. 535](https://www.legislation.gov.uk/nisr/2005/535) as amended by [S.R. 2006 No. 508](https://www.legislation.gov.uk/nisr/2006/508)
+
+[^M_F_200f4ed1-8d66-46ed-d1ca-a91c04d6a8ad]: Textual amendment: Reg. 5(1A) inserted (29.5.2008) by[The Avian Influenza (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/197)](https://www.legislation.gov.uk/nisr/2008/197/2008-05-29) [reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2008/197/2008-05-29)
+
+[^M_F_a827a42f-7f6e-44c9-fc89-be27e2ebb5aa]: Textual amendment: Words in reg. 5(2) substituted (29.5.2008) by[The Avian Influenza (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/197)](https://www.legislation.gov.uk/nisr/2008/197/2008-05-29) [reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2008/197/2008-05-29)
+
+[^f00010]: Footnote: [S.R. 2007 No. 68](https://www.legislation.gov.uk/nisr/2007/68)
+
+[^f00011]: Footnote: [S.R. 2005 No. 485](https://www.legislation.gov.uk/nisr/2005/485)
+
+[^key-4fbfa839d74f7d32b173baeff4f0f16a]: Commencement: Reg. 6 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^f00012]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)
+
+[^f00013]: Footnote: [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407)
+
+[^key-dcfe792dae5f4980335ec85e70a67514]: Commencement: Reg. 7 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-f74c83f0c10f11d5a4b5f5a7a53d4bd8]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2007/70/regulation/7/5) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/15)
+
+[^f00014]: Footnote: O.J. No. L187, 8.7.2006, p. 37
+
+[^key-60660849a984519a8bd70ed286978b77]: Commencement: Reg. 8 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^f00015]: Footnote: [S.R. 1989 No. 5](https://www.legislation.gov.uk/nisr/1989/5)
+
+[^key-171b26a1a693da831df2f1d206307a5c]: Commencement: Reg. 9 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-2467e85729bb2798e78e792331a4a278]: Commencement: Reg. 10 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-2df9a68fb3f970b8a451fddcdadf3785]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/nisr/2007/70/regulation/10/2/a) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/111/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0487021f6c23fa23eb627b7a43b258b1]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2007/70/regulation/10/3) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/111/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-abd8a7e15befc299b4521a749055b5e1]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^key-a64ac3e0dbf8adc40eaa181d1ed9cba6]: Textual amendment: Words in [reg. 10(7)(a)](https://www.legislation.gov.uk/nisr/2007/70/regulation/10/7/a) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/16)
+
+[^f00016]: Footnote: O.J. No. L10, 14.1.2006, p. 16
+
+[^key-cf754cc9012c71819f69a78f20524429]: Commencement: Reg. 11 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-d8e5a5d97daee696bfbbf3ab9eaa3350]: Commencement: Reg. 12 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-de87ea42db06044abc06a01fc9f6649a]: Commencement: Reg. 13 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-422687e82f1dbec891f203db2c0c64a7]: Commencement: Reg. 14 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-7b79cf5d10570f3a8a24b0a16c699303]: Commencement: Reg. 15 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-7636a058ae8d18a6f4e9c471f0d19534]: Commencement: Reg. 16 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-9210b2a43912f6018ea98cb35b398a12]: Commencement: Reg. 17 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-bb7eb62ba4348104581b99812641c350]: Commencement: Reg. 18 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^key-4537510f42e5818a2e2000f212159d9c]: Textual amendment: Word in [reg. 18(d)](https://www.legislation.gov.uk/nisr/2007/70/regulation/18/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/10)
+
+[^key-d080bb699efa53e4d196ec3095059ee7]: Textual amendment: Words in [reg. 18(d)](https://www.legislation.gov.uk/nisr/2007/70/regulation/18/d) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [10](https://www.legislation.gov.uk/nisr/2020/324/regulation/10)
+
+[^key-de37177836cf0ebc41058a4c075e92c9]: Commencement: Reg. 19 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/70/regulation/1)
+
+[^f00017]: Footnote: [S.R. 2005 No. 485](https://www.legislation.gov.uk/nisr/2005/485)
+
+[^f00018]: Footnote: [S.R. 2005 No. 486](https://www.legislation.gov.uk/nisr/2005/486)

@@ -1,0 +1,1407 @@
+---
+title: The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007
+id: nisr/2007/328
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-07-05'
+text_date: '2026-07-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/328
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/328/pdfs/nisr_20070328_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/328/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007
+
+> Text as at 2026-07-24.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 328
+
+EDUCATION
+
+The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007
+
+Made
+
+5th July 2007
+
+Coming into operation
+
+1st September 2007
+
+The Department for Employment and Learning, in exercise of the powers conferred by Articles 4(8) and 14(4) of the Higher Education (Northern Ireland) Order 2005[^f00001] makes the following Regulations.
+
+## 1. Citation, commencement and interpretation[^key-933a7e6ca80709a8338608ae508147fb]
+
+These Regulations may be cited as the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 and shall come into operation on 1st September 2007.
+
+## 2.[^key-414a982ed0f515db5899cb2839b7f000]
+
+In these Regulations—
+
+- “the Order” means the Higher Education (Northern Ireland) Order 2005;
+- “the Student Support Regulations” means The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009[^key-7b2639671d13247373e70890b7bae624];
+- “course for the initial training of teachers” includes such a course leading to a first degree;
+- “[^key-782493363c58d2be251ecdaebd09ec8d]**the course start date**” means the day on which the first term of the first academic year of a course actually begins;
+- “[^key-843ac557f76a16924e99255490803bd6]**graduate entry course**” means a “graduate entry dentistry course”, “graduate entry medicine course”, “graduate entry social work course” or a “graduate entry veterinary course”.
+- “**graduate entry dentistry course**” means a course—
+  - (a) the standard of which is not higher than a first degree which leads to qualification as a dentist, and
+  - (b) where a first degree or equivalent qualification would normally be required for entry to the course.
+- “**graduate entry medicine course**” means a course—
+  - (a) the standard of which is not higher than a first degree which leads to qualification as a medical doctor, and
+  - (b) where a first degree or equivalent qualification would normally be required for entry to the course.
+- “**graduate entry social work course**” means a course—
+  - (a) the standard of which is not higher than a first degree which leads to qualification as a social worker, and
+  - (b) where a first degree or equivalent qualification would normally be required for entry to the course.
+- “**graduate entry veterinary course**” means a course—
+  - (a) the standard of which is not higher than a first degree which leads to qualification as a veterinary surgeon, and
+  - (b) where a first degree or equivalent qualification would normally be required for entry to the course;
+- “previous Regulations” has the meaning given in regulation 2 (1) of the Student Support Regulations;
+- “publicly-funded” has the meaning given in regulation 2 (1) of the Student Support Regulations;
+- “single course” means a course to which regulation 6(4) of the Student Support Regulations applies and which falls within the description of a course in that regulation.
+- “the Islands” means the Channel Islands and the Isle of Man[^M_F_44d8c278-6bd2-4380-efff-2da658a92de4]
+
+## 3. Revocation[^key-0cd9e6343c613e6fff38bcefa229966c]
+
+The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2006[^f00003] are revoked.
+
+## 4. Prescribed description of a qualifying course[^key-e6f3d744e6e89d735c87c868132f54c7]
+
+(1) A qualifying course which is prescribed for the purposes of Article 4 of the Order is a course of higher education which, subject to paragraph (3), is a course which is designated for the purposes of Article 3 of the Education (Student Support) (Northern Ireland) Order 1998[^f00004] on the first day of an academic year which begins during the grant period and is provided by an institution in Northern Ireland.
+
+(2) For the purposes of paragraph (1) the reference to an institution in Northern Ireland means an institution whose activities are carried out in Northern Ireland.
+
+(3) A course is not a qualifying course if at the time the qualifying person received an offer of a place on that course the institution providing it was not publicly-funded.
+
+## 5. Prescribed description of a qualifying person[^key-cc17302de06fd069db1f3c503f42540d]
+
+(1) A qualifying person who is prescribed for the purposes of Article 4 of the Order is a person who falls within the Schedule on the first day of an academic year which begins during the grant period, other than—
+
+- (a) a person who is not eligible for support under the Student Support Regulations by reason of regulation 5(3)(c), (d), (e), (f) or (g) of those Regulations, or
+- (b) a person mentioned in paragraph (2) or (6); or[^key-7c57280a3e1d8a844352ec3842e1628d]
+- (c) a person who is ordinarily resident in England, Wales, Scotland or the Islands and does not fall within paragraph 4, 4A[^key-dc7ac5250056a6af3e9c40ac3963f6d7] 4B, 4C, 4D, 4E, 4F[^key-bbc81ef4fb8ff141d24b85098e46585c], 4G,[^key-f4d599be01d04abbd68929f9dbcbf65a] 4H,[^key-97c56304a9ab5559dff08e5e49a740dd] 4I,[^key-24f6925d188ee53ed588b49f4b623279] 5, 6, 6A, 6B, 7, 7A, 10, 10A, 11 or 12[^key-d4ad122ff71016247f677e1972b91d74] of the Schedule.
+
+(1ZA)[^key-e56111409b1b1a7b03aba7737ca7d15e] Subject to paragraphs (1) and (1C), a qualifying person is a person who—
+
+- (a) falls within a settled category or a protected category—
+  - (i) on the course start date, where the relevant academic year is the first academic
+
+    year of the person’s course, or
+  - (ii) otherwise, on the first day of a relevant academic year;
+- (b) falls within a prescribed category on the first day of a relevant academic year.
+
+(1ZB) Paragraph (1ZA) includes a person who undertakes a qualifying course in an academic year which began before 1st September 2024 but who nevertheless falls within a settled category, a protected category or a prescribed category on the first day of an academic year commencing on or after that date.
+
+(1A)[^key-24007954333d3ecda71cc03e10b7f8d4] In this regulation, subject to paragraph (1C), “prescribed category” means any category of person described—
+
+- (a) in paragraphs 2, [^key-b613ecf3a61d9d44114bb3a8f9f0fc30]... 3, [^key-e24d48e5cc6184d2e0fb6560ffbbb120]... 6A, 6B, 7A, [^key-2a8a3e6bed76cd6d63c93de4c95ec84e]... 9ZA, 9ZB, 9ZC, 9ZD, 9B, 10A, 12 or 13 in [^key-4bf2554666a6f04e40806e5b8cc1d483]... the Schedule; or
+- (b) in paragraphs 6, 7, 8, 9, 9A, 10 or 11 in [^key-4bf2554666a6f04e40806e5b8cc1d483]... the Schedule where paragraph (1B) applies.
+
+(1B) This paragraph applies—
+
+- (a) where in connection with a qualifying course beginning before 1st August 2021, a person (“A”) was a qualifying person by virtue of falling within any category of persons described in paragraphs 6, 7, 8, 9, 9A, 10 or 11 in [^key-6079e5de3736409386c1a510cece89a1]... the Schedule in relation to an academic year beginning before 1st August 2021; and
+- (b) A is undertaking an academic year of that qualifying course, or of a qualifying course to which A transfers from that qualifying course.
+
+(1C) In relation to a qualifying course which begins on or after 1st January 2028, paragraph (1A)(a) has effect as if paragraphs 8A and 9ZB[^key-0d89e104ff783b126ae923efdda09e7a] were omitted.
+
+(1D)[^key-7aac8a08cae28e12faf7782a62cec8ad] For the purposes of this regulation, where—
+
+- (a) a person becomes, after the course start date or on the first day of an academic year of the course, a person who no longer falls within a paragraph of the Schedule as a result of that person’s leave to remain, or the leave to remain of that person’s spouse, civil partner or parent, as the case may be, having expired; and
+- (b)[^key-b9f0c2ed27b60ec6b99e8f56f3f2a1cb] either—
+  - (i) further leave to remain has been granted, or paragraph SUI 13.1 of the immigration rules applies in respect of an application for such leave, or
+  - (ii) the person whose leave to remain has expired has become a British or Irish citizen,
+
+the person who would otherwise no longer fall within a paragraph of the Schedule is to be treated as falling within the paragraph of the Schedule in which they previously fell for the remainder of the duration of the course.
+
+(2) Subject to the exception in paragraphs (3) to (5), a person is not a qualifying person if—
+
+- (a) he has an honours degree from an institution in the United Kingdom; or
+- (b) he has an honours degree from an institution in the Republic of Ireland,
+
+- for which he received financial support under previous Regulations for some or all of the academic years during which he took the course leading to the award of the honours degree.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the qualifying course is a course for the initial training of teachers;
+- (b) the duration of the course does not exceed two years (the duration of a part-time course being expressed as its full-time equivalent); and
+- (c) the qualifying person is not a qualified teacher.
+
+(3A)[^key-da23ff14988f5206bd2d69f615a1b635] Paragraph (2) does not apply where the qualifying course is a graduate entry course.
+
+(4) Paragraph (2) does not apply in respect of any part of a single course where—
+
+- (a) the single course leads to an honours degree being conferred on the qualifying person from an institution in the United Kingdom or a relevant institution of higher education in the Republic of Ireland before the final degree or equivalent qualification; and
+- (b) the qualifying person only has an honours degree which was received as part of that single course.
+
+(5) Paragraph (2) does not apply where the qualifying course is a course leading to a degree in social work at an educational institution in Northern Ireland
+
+(6) Subject to paragraphs 8 to 10 where[^key-d7ce1f937a5a792724a680f549ac4ba7] an event occurs in the course of an academic year and as a result a person falls within the Schedule in the course of an academic year, he is not a qualifying person in respect of the academic year in which the relevant event occurred or any previous academic year.
+
+(7) In this regulation “a relevant institution of higher education in the Republic of Ireland” has the same meaning as in the Student Support Regulations[^key-3d65790cfa7323665a31d65fa3d1c0ec].
+
+(8)[^key-718f29fba8cadae10ec03db03aeec0e2] Where a protected category event occurs in relation to a person after the course start date, paragraph (9) applies for the purposes of determining whether the person falls within a protected category on the first day of the relevant academic year.
+
+(9) The person is, for the purposes of determining whether they satisfy any requirement in the Schedule that they are ordinarily resident in the United Kingdom on the course start date, to be treated as if the person was, on the course start date, lawfully residing in the place where the person was residing on that date.
+
+(10) For the purposes of this regulation—
+
+“**protected category**” means any category of persons described in paragraph 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H,4I or 5 of the Schedule;
+
+“**protected category event**” means —
+
+- (a) the student or the student’s spouse, civil partner or parent is recognised as a refugee
+
+  or becomes a person granted humanitarian protection or becomes a person granted
+
+  stateless leave or becomes a person with leave to enter or remain on the grounds of
+
+  discretionary leave;
+- (b) the student becomes a person granted section 67 leave;
+- (c) the student becomes a person granted Calais leave;
+- (d) the student or the student’s parent[^key-c9a93944598916c62aaf62a8eda5103c] becomes a person granted indefinite leave to remain as a bereaved partner;
+- (e) the student or the student’s parent becomes a person granted indefinite leave to enter or remain[^key-05bc4a07e55de7e8b85e79d4c607ebdb] as a victim of domestic violence or domestic abuse;
+- (f) the student or the student’s spouse, civil partner or parent becomes a person granted leave under one of the Afghan Schemes; or
+- (g) the student or the student’s spouse, civil partner or parent becomes a person granted leave under one of the Ukraine Schemes.
+
+“**relevant academic year**” means an academic year beginning on or after 1st September 2024;
+
+“**settled category**” means any category of persons described in paragraph 2A or 8A of the Schedule.
+
+## 6. Transitional Cases[^key-3c78ed9c7c5c516cb2e1b64b15054ce7]
+
+(1) Where a qualifying person, disregarding any intervening vacation, begins an end-on course within the meaning of regulation 2(1) of the Education (Student Support) Regulations (Northern Ireland) 2006[^f00005] immediately after a qualifying course (“the relevant course”) in a case where paragraph (3) or (4) applies, the end-on course shall be treated as if the offer for it had been received on the same date as the offer for the relevant course.
+
+(2) In a case where paragraph (3) or (4) applies, where a qualifying person undertakes a qualifying course (“the relevant course”) which is a single course, an offer received for any part of the relevant course shall be treated as if it had been received on the same date as the offer for the first part of the relevant course.
+
+(3) This paragraph applies where—
+
+- (a) the qualifying person had on or before 1<sup>st</sup> August 2005 received an offer, whether conditional on obtaining specified qualifications or not, of a place on the relevant course, or a similar course, and
+- (b) the first academic year of the relevant course begins before 1<sup>st</sup> September 2007.
+
+(4) This paragraph applies where—
+
+- (a) the qualifying person had received an offer of a place on a qualifying course (whether or not at the same institution as the relevant course) the first academic year of which began before 1<sup>st</sup> September 2006,
+- (b) he was unable to take up the offer because a specified qualification or grade was not awarded to him,
+- (c) he appealed against the decision not to award him the qualification or grade,
+- (d) the appeal was allowed after the last date on which he could have taken up the offer,
+- (e) as a result he was offered a place on the relevant course, and
+- (f) the first academic year of the relevant course begins after 31<sup>st</sup> August 2006 but before 1<sup>st</sup> September 2007.
+
+(5) For the purpose of paragraph (3)(a) a course (“the original course”) is similar to the relevant course if—
+
+- (a) it appears to the governing body of the institution providing the relevant course that the subject matter of the course is in whole or in part the same as the subject matter of the original course, and
+- (b) except where the original course is no longer being provided, the relevant course is provided by the institution which was to have provided the original course.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 5th July     2007
+
+Sir Reg Empey MLA
+
+Minister for Employment and Learning
+
+## SCHEDULE — QUALIFYING PERSONS
+
+Regulation 5 (1) and (6)
+
+**1.**[^key-155cac1154340b5572f48082f25e9368] (1) For the purposes of this Schedule—
+
+- “the 2020 Citizens’ Rights Regulations” means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;[^key-cd6522a4f830e4cb5e3f06b5d34144a8]
+- “academic year” means the period of twelve months beginning on 1<sup>st</sup> January, 1<sup>st</sup> April, 1<sup>st</sup> July or 1<sup>st</sup> September of the calendar year in which the academic year of the course in question begins according to whether that academic year begins on or after 1<sup>st</sup> January and before 1<sup>st</sup> April, on or after 1<sup>st</sup> April and before 1<sup>st</sup> July, on or after 1<sup>st</sup> July and before 1<sup>st</sup> August or on or after 1<sup>st</sup> August and on or before 31<sup>st</sup> December, respectively;
+- “Directive 2004/38” means Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29<sup>th</sup> April 2004[^f00006] on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
+- “ EU[^key-94110bae363fc18a5af23793406152f5] national” means a national of a Member State of the European Community;
+- “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992[^f00007] as adjusted by the Protocol signed at Brussels on 17<sup>th</sup> March 1993[^f00008];
+- “EEA EFTA separation agreement” has the meaning given by section 39(1) of the European Union (Withdrawal Agreement) Act 2020;[^key-6c043cf1b9e64117a11a979679321cb1]
+- “EEA frontier self-employed person” means an EEA national who—
+  - (a) is a self-employed person in the United Kingdom; and
+  - (b) resides in Switzerland or the territory of an EEA State[^key-3bb4e765f7ce7d2a1583a0d1bf2aa720]... and returns to his residence in Switzerland or that EEA State daily or at least once a week;
+- “EEA frontier worker” means an EEA national who—
+  - (a) is a worker in the United Kingdom; and
+  - (b) resides in Switzerland or the territory of an EEA State [^key-3bb4e765f7ce7d2a1583a0d1bf2aa720]...and returns to his residence in Switzerland or that EEA State daily or at least once a week;
+- “EEA migrant worker” means an EEA national who is a worker, other than an EEA frontier worker, in the United Kingdom;
+- “EEA national” means a national of an EEA State [^key-3bb4e765f7ce7d2a1583a0d1bf2aa720]...;
+- “EEA self-employed person” means an EEA national who is a self-employed person, other than an EEA frontier self-employed person, in the United Kingdom;
+- “employed person” means an employed person with the meaning of Annex 1 to the Swiss Agreement;
+- “employment” means full-time or part-time employment;
+- “European Community” means the territory comprised by the Member States of the European Community as constituted from time to time;
+- “European Economic Area” means the area comprised by the EEA States;
+- “evacuated or assisted British national from Afghanistan” means a person—[^key-8dbdcdf74065d7e9685cd480428e5af9]
+  - (a) who is a British citizen, a British overseas territories citizen, a British National (Overseas), a British Overseas citizen, a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act;
+  - (b) who was either—
+    - (i) evacuated from Afghanistan by or on behalf of the United Kingdom, a North Atlantic Treaty Organisation member state, Pakistan, Uzbekistan, Tajikistan, Iran or Qatar during the period of the operation known as Operation Pitting, which began on 14th August 2021 and ended on 28th August 2021; or
+    - (ii) assisted by or on behalf of the United Kingdom, after 28th August 2021 and before 6th January 2022, to leave Afghanistan; and
+  - (c) who has been ordinarily resident in the United Kingdom and Islands since they were evacuated from or otherwise left Afghanistan;
+- “family member” means—
+  - (a) in relation to an EEA frontier worker, an EEA migrant worker, an EEA frontier self-employed person , an EEA self-employed person, or a relevant person of Northern Ireland who is treated as an EEA migrant worker or an EEA self-employed person by virtue of paragraph 6A(3)[^key-e968854c9a61ba329569be8e12cc07ff] —
+    - (i) his spouse or civil partner;
+    - (ii) direct descendants of the person or of the person’s spouse or civil partner who are—[^key-0225debc971242d0d002bc197142512d]
+      - (aa) under the age of 21; or
+      - (bb) dependants of the person or the person’s spouse or civil partner; or
+    - (iii) dependent direct relatives in his ascending line or that of his spouse or civil partner;
+  - (b) in relation to a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person—
+    - (i) his spouse or civil partner; or
+    - (ii) his child or the child of his spouse or civil partner;
+  - (c) in relation to an EU[^key-d9945903a77697754230159614c2220c] national who falls within Article 7(1)(c) of Directive 2004/38 or, for the purposes of paragraph 9ZA, in relation to a relevant person of Northern Ireland who would fall within article 7(1)(c) of Directive 2004/38 if that person were an EU national or solely an EU national[^key-ca710be18098d0b56e799590570052d7] —
+    - (i) his spouse or civil partner; or
+    - (ii) direct descendants of his or of his spouse or civil partner who are—
+      - (aa) under the age of 21; or
+      - (bb) dependants of his or his spouse or civil partner;
+  - (d) in relation to an EU[^key-d55d13998f1f9e3287996a9dd6fb4208] national who falls within Article 7(1)(b) of Directive 2004/38 or, for the purposes of paragraph 9ZA, in relation to a relevant person of Northern Ireland who would fall within article 7(1)(b) of Directive 2004/38 if that person were an EU national or solely an EU national[^key-564e6c46dade268014d24dc94ced47b0] —
+    - (i) his spouse or civil partner;
+    - (ii) direct descendants of his or of his spouse or civil partner who are—
+      - (aa) under the age of 21; or
+      - (bb) dependants of his or his spouse or civil partner; or
+    - (iii) dependent direct relatives in his ascending line or that of his spouse or civil partner;
+  - (e) in relation to a United Kingdom national, for the purposes of paragraphs 9, 9ZB, 9ZD or for the purposes of paragraph 9ZC in relation to a person settled in the United Kingdom[^key-1f606907ef6767323a1f7830f4e64979]—
+    - (i) his spouse or civil partner; or
+    - (ii) direct descendants of his or of his spouse or civil partner who are—
+      - (aa) under the age of 21; or
+      - (bb) dependants of his or his spouse or civil partner;
+- “immigration rules” has the meaning given in section 33(1) of the Immigration Act 1971;[^key-e1a575a2204da354d6477d866c395752]
+- “the Islands” means the Channel Islands and the Isle of Man; *(affected by repeal, see note)*[^key-e87e5dca7b871f5b93feff7452e70183]
+- “overseas territories” means Anguilla; Aruba; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Gibraltar;[^key-79e709f20d952a5a21059ebb34aed116] Mayotte; Greenland; Montserrat; Netherlands Antilles (Bonaire, Curaçao, Saba, Sint Eustatius and Sint Maarten); Pitcairn, Henderson, Ducie & Oeno Islands; South Georgia and the South Sandwich Islands; St-Barthélemy ;[^key-5175abda13777fa81cf1331314090158] St Helena and Dependencies (Ascension Island and Tristan de Cunha); St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands and Wallis and Futuna;
+- “[^key-31370dbbb912b7adc4d99b409f75ae4b]**persons granted humanitarian protection**” means a person—
+  - (a) who, on the grounds of humanitarian protection, has been granted leave to remain under the immigration rules [^key-fb1fbbefb6f15efdfc8e0e948c4ae580]...;
+  - (b) whose leave to remain is extant, or in respect of whose leave to remain an appeal is pending (within section 104 of the Nationality, Immigration and Asylum Act 2002);
+  - (c) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave to remain.
+- “[^key-5cdf826b8fd97081a67b47d953f4f045]**person granted indefinite leave to remain as a bereaved partner**” means a person—
+  - (a) granted indefinite leave to remain in the United Kingdom under any of the following provisions of the immigration rules[^key-54fc0162c41879152cf09a49fa675a91]...—
+    - (i) paragraph BP 11.1 of Appendix Bereaved Partner; or[^key-f592abfd0d062e970732bd9187a4ecbc]
+    - (ii) where such leave was granted before the coming into force of Appendix Bereaved Partner—
+      - (aa) paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules were met (bereaved partners);
+      - (bb) paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules were met (bereaved partners);
+      - (cc) paragraph D-BPILR.1.1 of Appendix FM (bereaved partners); or
+      - (dd) paragraph 36 of Appendix Armed Forces (bereaved partner of a member of HM Forces); and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave;
+- “[^key-d208e575bdf7c6a235c6a2bf1898a6e2]**person granted indefinite leave to enter or remain[^key-e6593d77c5075651d069b1da77081886] as a victim of domestic violence or domestic abuse**” means a person—
+  - (i) granted indefinite leave to enter or remain in the United Kingdom under any of the following provisions of the immigration rules[^key-f9b30dfc8d0e9962638dd1bdf2ca5a4a]...—
+    - (aa) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse; or[^key-349b7abebb700aaf40b8adab317c7a3a]
+    - (bb) where such leave was granted before the coming into force of the Appendix Victim of Domestic Abuse, paragraph 289B (victims of domestic violence), paragraph D-DVILR.1.1. of Appendix FM (victims of domestic abuse) or paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces); and
+  - (ii) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave;
+- “[^key-c0290775c6c78d4208ddb604496ba9ca]**person granted leave under one of the Afghan Schemes**” means a person granted leave under the Afghan Citizens Resettlement Scheme or a person granted leave under the Afghan Relocations and Assistance Policy Scheme;
+- “person granted leave under one of the Ukraine Schemes” means a person granted leave under the Homes for Ukraine Sponsorship Scheme, a person granted leave under the Ukraine Extension Scheme[^key-f9553312f47e874ece1aa1833882c932] , a person granted leave under the Ukraine Permission Extension Scheme[^key-5cdc61ac593ae59c209329b98e906ba6] or a person granted leave under the Ukraine Family Scheme;
+- “**person granted leave under the Afghan Citizens Resettlement Scheme**” means a person—
+  - (a) who has indefinite leave to enter or remain in the United Kingdom, outside the immigration rules, on the basis of the Afghan Citizens Resettlement Scheme; and[^key-2cbd8bcb8d23d62dcdd8cb41b7c745c4]
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- person granted leave under the Afghan Relocations and Assistance Policy Scheme” means a person—
+  - (a) who has—
+    - (i) indefinite leave to enter the United Kingdom under paragraph 276BA2, or has indefinite leave to remain under paragraph 276BS2 of the immigration rules[^key-404b3add30da800a7da29c83bd7d53d9], having been relocated to the United Kingdom pursuant to paragraph 276BB1(iii)(a) of the immigration rules[^key-741ae7767c4c46e8c310847ce32f0d0a];
+    - (ia) indefinite leave to enter or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules;[^key-038bc8be853b6b7a5f5862900ab0065f]
+    - (ii) leave to enter the United Kingdom on the basis of the Afghan Relocations and Assistance Policy Scheme; or[^key-72b9cedc229a14d843756a93fe396696]
+    - (iii) indefinite leave to enter or remain, outside those rules, on the basis of the Afghan Relocations and Assistance Policy Scheme; and[^key-de003567d997f892ed613a1f08b959e6]
+    - (iv) [^key-2683f016320aaec67b17f2b4f4fa4100]... and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person granted leave under the Homes for Ukraine Sponsorship Scheme” means a person—[^key-5bbcdb12e7303ed7c3a376ad6dcb25c8]
+  - (a) who has leave to enter or remain in the United Kingdom—
+    - (i) under paragraph UKR 19.1 of Appendix Ukraine Scheme of the immigration rules[^key-e2b78dfb8d074454a8aeb262f78501a7]; or
+    - (ii) outside the immigration rules[^key-3b83690a5783599ee26e43547d0eb488] where the person—
+      - (aa) was residing in Ukraine immediately before 1st January 2022; and
+      - (bb) left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person granted leave under the Ukraine Extension Scheme” means a person—
+  - (a) who has leave to remain in the United Kingdom under paragraph UKR 27.1 of Appendix Ukraine Scheme of the immigration rules[^key-8ad98430d52afd42a6c4ea2afcca357b] , as it had effect on the day such leave was granted[^key-93713267ffe977d6ec1aab0db3806aa2]; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person granted leave under the Ukraine Family Scheme” means a person—
+  - (a) who has leave to enter or remain in the United Kingdom—
+    - (i) under paragraph UKR 9.1 of Appendix Ukraine Scheme of the immigration rules[^key-c6bfad3bc9c4d85e50c8b065ce568e35] , as it had effect on the day such leave was granted[^key-fc8791be5c3b2cc9067f1f31b27e612a]; or
+    - (ii) outside the immigration rules[^key-f29971e68b73a9805a083f06325d74a2] where the person—
+      - (aa) was residing in Ukraine immediately before 1st January 2022; and
+      - (bb) left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “[^key-f04bd0b5ea5ef5c96567ea3cb71e9c0a]**person granted leave under the Ukraine Permission Extension Scheme**” means a person—
+  - (a) who has leave to remain in the United Kingdom under paragraph UKR 36.1 of Appendix Ukraine Scheme of the immigration rules[^key-943313f7c781541300fb308beeedbacf]; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “[^key-47122ee655dd0f61e4c1fcefb89edbaf]**person granted stateless leave**” means a person who—
+  - (a) has extant leave to remain as a stateless person under the immigration rules [^key-3e2e82ab3f38d7b4058f5010891eb020]...; and
+  - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave.
+- “person with protected rights” means—[^key-c1954307de0970f7d7e797d20edfbbe4]
+  - (1)
+    - (a) [^key-2830124a214da347651884cc646fb06d]a person within the personal scope of the citizens’ rights provisions who—
+      - (i) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+      - (ii) is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom; [^key-43246ad03b03e985121b5c094814adc2]...
+      - (iii) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations where the relevant period has not expired; or
+      - (iv) otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions; or[^key-33d1d6a4341bcc54effb593dd11eeb4b]
+    - (b) a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+  - (2) In paragraph (1)(iv) “citizens’ rights deeming provisions” means—[^key-bc0a1c38a7178a01509633bb05cc3c54]
+    - (a) Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement;
+    - (b) Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+    - (c) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+- “[^key-bb14925628c944110ec8cc48c6cbda88]**person with leave to enter or remain on the grounds of discretionary leave**” means a person (“**P**”)—
+  - (a) who has—
+    - (i) applied for refugee status but has, as a result of that application, been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although P is considered not to qualify for recognition as a refugee it is thought right to allow P to enter or remain in the United Kingdom on the grounds of discretionary leave, or
+    - (ii) not applied for refugee status but has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that it is thought right to allow P to enter or remain in the United Kingdom on the grounds of discretionary leave,
+  - (b) who has been granted leave to enter or to remain accordingly,
+  - (c) whose period of leave to enter or remain has not expired or has been renewed and the period for which it was renewed has not expired or in respect of whose leave to enter or remain an appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002), and
+  - (d) who has been ordinarily resident in the United Kingdom and Islands throughout the period since P was granted leave to enter or remain.
+- “refugee” means a person who is recognised by Her Majesty’s government as a refugee within the meaning of the United Nations Convention relating to the Status of Refugees done at Geneva on 28<sup>th</sup> July 1951[^f00010] as extended by the Protocol thereto which entered into force on 4<sup>th</sup> October 1967[^f00011];
+- relevant period” has the meaning given by regulation 4 of the 2020 Citizens’ Rights Regulations;”[^key-915fb6524212ce5e679b80cf8044b6c6]
+- “relevant person of Northern Ireland” has the meaning given by residence scheme immigration rules;
+- “residence scheme immigration rules” has the meaning given by section 17(1) of the European Union (Withdrawal Agreement) Act 2020;
+- [^key-3fca047221d581bc9597e36ce6967dcb]...
+- “self-employed person” means—
+  - (a) in relation to an EEA national, a person who is self-employed within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement, as the case may be; or
+  - (b) in relation to a Swiss national, a person who is a self-employed person within the meaning of Annex 1 to the Swiss Agreement;
+- “settled” has the meaning given by section 33(2A) of the Immigration Act 1971[^f00012];
+- “Swiss Agreement” means the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed at Luxembourg on 21<sup>st</sup> June 1999[^f00013] and which came into force on 1<sup>st</sup> June 2002;
+- “Swiss citizens’ rights agreement” has the meaning given by section 39(1) of the European Union (Withdrawal Agreement) Act 2020;
+- “Swiss employed person” means a Swiss national who is an employed person, other than a Swiss frontier employed person, in the United Kingdom;
+- “Swiss frontier employed person” means a Swiss national who—
+  - (a) is an employed person in the United Kingdom; and
+  - (b) resides in Switzerland or in the territory of an EEA State [^key-3bb4e765f7ce7d2a1583a0d1bf2aa720]...and returns to his residence in Switzerland or that EEA State daily or at least once a week;
+- “Swiss frontier self-employed person” means a Swiss national who—
+  - (a) is a self-employed person in the United Kingdom; and
+  - (b) resides in Switzerland or in the territory of an EEA State [^key-3bb4e765f7ce7d2a1583a0d1bf2aa720]...and returns to his residence in Switzerland or that EEA State daily or at least once a week;
+- “Swiss self-employed person” means a Swiss national who is a self-employed person, other than a Swiss frontier self-employed person, in the United Kingdom;
+- “Turkish worker” means a Turkish national who—
+  - (a) is ordinarily resident in the United Kingdom; and
+  - (b) is, or has been lawfully employed in the United Kingdom;
+- “United Kingdom national” has the meaning given by Article 2(d) of the EU withdrawal agreement;[^key-f40483535a7d362d2152d6cbe99a6ff4]
+- “worker” means a worker within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement as the case may be.
+
+(1A)[^key-bcc50769561fc0cbbd92367dd82770e1] For the purposes of this Schedule, a reference to a “Member State” or “State” in Article 7 of Directive 2004/38 is to be read as including the United Kingdom.
+
+(1B) For the purposes of this Schedule, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
+
+- (a) Article 10 (personal scope) of the EU withdrawal agreement;
+- (b) Article 9 (personal scope) of the EEA EFTA separation agreement; or
+- (c) Article 10 (personal scope) of the Swiss citizens’ rights agreement.
+
+(2)[^key-31a99312769c0cd6d8dbd1e1730d630e] For the purposes of this Schedule, “parent” means a parent, guardian or[^key-686beaf3a548722d134b9a2f7587d964] any other person having parental responsibility for a child and “child” is to be construed accordingly.
+
+(2A)[^key-b6f0a2fc7faa8d9899d9cf025ca44416] For the purposes of this Schedule, a person is not to be treated as ordinarily resident in a place unless that person lawfully resides in that place.
+
+(3) For the purposes of this Schedule, a person is to be treated as ordinarily resident in the United Kingdom, the United Kingdom and Islands, in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland[^key-d725dd066ad5926147bc7b6aeca394f3] , in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories[^key-705435c59b12edf4df4d49f508169cd5] , or in the territory comprising the United Kingdom, the European Economic Area, Switzerland, Turkey and the overseas territories[^key-18ed67341533477654d3f5111e9fb891] if he would have been so resident but for the fact that—
+
+- (a) he;
+- (b) his spouse or civil partner;
+- (c) his parent; or
+- (d) in the case of a dependent direct relative in the ascending line, his child or child’s spouse or civil partner,
+
+is or was temporarily employed outside the area in question.
+
+(4) For the purposes of paragraph (3), temporary employment includes—
+
+- (a) in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom as members of such forces;
+- (b) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside the territory comprising the United Kingdom, Gibraltar,[^key-318dd44f5c3ac54e20ee432a5fe03093] the European Economic Area and Switzerland as members of such forces; and
+- (c) in the case of members of the regular armed forces of Turkey, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey as members of such forces.
+
+(5) For the purposes of this Schedule an area other than the United Kingdom or Gibraltar[^key-5bcaed5248bb54d2f8d28bf24ffb35dd] which—
+
+- (a) was previously not part of the European Community or the European Economic Area; but
+- (b) at any time before or after these Regulations come into operation has become part of one or the other or both of these areas,
+
+is to be considered to have always been a part of the European Economic Area.
+
+(6)[^key-7d3b0e237299e46fcfe56fb241022cf3] For the purposes of this Schedule a person who is ordinarily resident in the United Kingdom as a result of having moved from the Islands for the purpose of undertaking a course is to be considered to be ordinarily resident in the Islands;
+
+(7)[^key-35c9117815ed6c213db73c53eba07bba] For the purposes of this Schedule a person who is ordinarily resident in Northern Ireland as a result of having moved from England, Wales, Scotland or the Islands for the purpose of undertaking a course is to be considered as ordinarily resident in England, Wales, Scotland or the Islands as the case may be.
+
+### 2. Persons who are settled in the United Kingdom[^key-4bc2c49d812c934955b75ce8b032fff0]
+
+(1) A person who [^key-ad98af0c96e31dfafd5b05762953d5b0]...—
+
+- (a)[^key-35163f9da8d7eaec0ef7db563ff6ed12] is settled in the United Kingdom, and does not fall within paragraph 3;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course[^key-b5ef26d2e586344b317ea38ba8e07fc8];
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3).
+
+### 2A.[^key-0ff64f2e2d8619236e0cf421fb051a81]
+
+(1) A person—
+
+- (a) who is a United Kingdom national or an Irish citizen [^key-aae2e58c628d2804ed67f9f950850b68]..., and does not fall within paragraph 3 of the Schedule;
+- (b) who is undertaking the course in Northern Ireland;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, EEA and Switzerland (the relevant territory) throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 1(3)[^key-a15187444c758aa91f25a188243856fb].
+
+### 3.[^key-d478202544a85b1acdd5de169fa149e4]
+
+(1)[^key-f4c31b268648c5374b080e42bab7507e] A person who—
+
+- (a)[^key-1cc35b0e081733ff4041be72cc72a412] meets one of the following conditions on the first day of an academic year of the course—
+  - (i) the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+  - (ii) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an Irish citizen settled in the United Kingdom who pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom; and
+    - (cc) would meet the eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules if that person were to make an application for such leave;
+  - (iii) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations or otherwise has rights deemed to apply by virtue of any of the citizens’ rights provisions specified in paragraph (3)[^key-9c5daf5bccb7ab65ab6e79383ea256c5]; and
+    - (cc) has, or is treated as having, a right of permanent residence for the purposes of the Immigration (European Economic Area) Regulations 2016, as those Regulations continue to have effect by virtue of the 2020 Citizens’ Rights Regulations in relation to that person during the relevant period or otherwise has a deemed right of permanent residence by virtue of any of the citizens’ rights provisions specified in sub-paragraph (3)[^key-ab52236b067992ed1f594e974c229615]; or
+  - (iv) the person is a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where his residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom,[^key-5ff4b57554acce516402fb73d4a82362] the European Economic Area, Switzerland and the overseas territories[^key-d8c9d78d249f8226b6a29b547ec86c3e] immediately before the period of residence referred to in paragraph (c).
+
+(2)[^key-6e56288e77974976650e254799015810] For the purposes of sub-paragraph (1)(a)(ii)(cc), “eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules” means the eligibility requirements for such leave in accordance with paragraph EU11 of Appendix EU to the immigration rules [^key-13a64947487601cb3478a6b197f83efd]....
+
+(3)[^key-b3bb26ef32dc3e2a6dddb4c798d07ca7] For the purposes of sub-paragraph (1)(a)(iii), the citizens’ rights provisions referred to are—
+
+- (a) Article 18(3) (issuance of residence documents) of the EU withdrawal agreement;
+- (b) Article 17(3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+- (c) Article 16(3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+
+(3)[^key-fa7ba7ab9813f77c152585686fab4988] For the purposes of sub-paragraph (1)(a)(ii), an Irish citizen is not required to be living in the United Kingdom on IP completion day.
+
+### 4. Refugees and their family members[^key-d91d4403477e0818480ca72a62c0d11e]
+
+(1) A person—
+
+- (a) who is a refugee;
+- (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he was recognised as a refugee; and
+- (c) who is ordinarily resident in the United Kingdom on the course start date[^key-8513e1f11266874529e0dc66bac355cf].
+
+(2) A person—
+
+- (a) who is the spouse or civil partner of a refugee;
+- (b) who was the spouse or civil partner of the refugee on the date on which the refugee made his application for asylum;
+- (c) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he was given leave to remain in the United Kingdom; and
+- (d) who is ordinarily resident in the United Kingdom on the course start date[^key-7cabcbcefd7d7130956bccac4ae7040d].
+
+(3) A person—
+
+- (a) who is the child of a refugee or the child of the spouse or civil partner of a refugee;
+- (b) who, on the date on which the refugee made his application for asylum, was the child of the refugee or the child of a person who was the spouse or civil partner of the refugee on that date;
+- (c) who was under 18 on the date on which the refugee made his application for asylum;
+- (d) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he was given leave to remain in the United Kingdom; and
+- (e) who is ordinarily resident in the United Kingdom on the course start date[^key-59101d70a06c4ee062b6aa662b1b3323].
+
+### 4A. Persons granted section 67 leave[^key-46ab72144fc623235a182d055880a352]
+
+A person who—
+
+- (a) has extant leave to remain as a person granted leave under paragraph 352ZG of the immigration rules, having been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016, or a dependent child of such a person who has been granted “leave in line” under paragraph 352ZO of those rules and[^key-9595cdf3f819283e7a0d5ddbb65f889a]
+- (b)[^key-1563f2864df1e2059766eaf4efbbed95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) is ordinarily resident in the United Kingdom on the course start date[^key-5cff06488ee2526b3dc7cb841b79642b] .[^key-a45885396eb427b54353b0b85c128218]
+- (d)[^key-3181929758344d587527cf7e373c6317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4B. Persons granted Calais leave[^key-e7ddb66dcf3a274b021c9d786f223eea]
+
+— A person who—
+
+- (a) has extant leave to remain in the United Kingdom under paragraph 352J, 352K, 352L or 352T (Calais leave and “leave in line” granted by virtue of being a dependent child of a person granted Calais leave) of the immigration rules[^key-1b64b51f57736227b5c74ece814e476f]...;
+- (b) has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+- (c) is ordinarily resident in the United Kingdom on the course start date[^key-f691e39b883cd3cedf4b402000094d8f].
+
+### 4C. Persons granted humanitarian protection and their family members[^key-8e59f9865234818634208eff841f59fa]
+
+—
+
+(1) A person granted humanitarian protection who is ordinarily resident in the United Kingdom on the course start date[^key-933f507c8e8b9a7e1e79987bfaad8130].
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted humanitarian protection;
+- (b) was the spouse or civil partner of the person granted humanitarian protection on the date on which that person applied for asylum (the “asylum application date”);
+- (c) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in the United Kingdom on the course start date[^key-0611fdd5113f4708865c151c954a5566].
+
+(3) A person who—
+
+- (a) is the child of a person granted humanitarian protection or the child of the spouse or civil partner of a person granted humanitarian protection;
+- (b) on the asylum application date, was the child of that person or the child of a person who was the spouse or civil partner of the person granted humanitarian protection on that date;
+- (c) was under 18 years of age on the asylum application date;
+- (d) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) who is ordinarily resident in the United Kingdom on the course start date[^key-2e4c75c965bc3da82c51619e4a1c5436].
+
+### 4D. Persons granted indefinite leave to remain as a bereaved partner and their children[^key-53b818c99156f748b6cdc6b21a66ea1f][^key-8d48e766474e27f555788e558f8e7d10]
+
+—
+
+(1)[^key-a7577172b593d186d13c2ae4a3e21fac] A person granted indefinite leave to remain as a bereaved partner, who is ordinarily resident in the United Kingdom on the course start date[^key-d9cef7852bcb6ee92ee161f879ccc824].
+
+(2)[^key-387bb9f8c9f30c1b271dd2a4a8571971] A person—
+
+- (a) granted indefinite leave to remain;
+- (b) who—
+  - (i) is the child of a person granted indefinite leave to remain as a bereaved partner; and
+  - (ii) on the leave application date, was the child of the person granted indefinite leave to remain as a bereaved partner;
+- (c) who was under 18 on the leave application date;
+- (d) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+- (e) who is ordinarily resident in the United Kingdom on the course start date.
+
+(3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to remain as a bereaved partner made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+### 4E. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^key-7731452319146c6af6f7d17059b935bd][^key-9db93eb628d753dfee0c0b36e29f38eb][^key-4b679e8e11f59101a468d5e5287beab0]
+
+—
+
+(1)[^key-54b95b37ee03146ee516a9117fde8725] A person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse, who is ordinarily resident in the United Kingdom on the course start date[^key-43e29596370a6144f5e16fa964c26f4e].
+
+(2)[^key-d7cd53f165467a7e40d643b94a672100] A person—
+
+- (a) granted indefinite leave to enter or remain;
+- (b) who—
+  - (i) is the child of a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse; and
+  - (ii) on the leave application date, was the child of the person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse;
+- (c) who was under 18 on the leave application date;
+- (d) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+- (e) who is ordinarily resident in the United Kingdom on the course start date.
+
+(3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
+
+### 4F. Persons granted stateless leave and their family members[^key-b55a703f7741762d09bfd67e3df52b3b]
+
+—
+
+(1) A person granted stateless leave who is ordinarily resident in the United Kingdom on the course start date[^key-2ae8c34088a646f3940e0e1195e343d7].
+
+(2) A person—
+
+- (a) who—
+  - (i) is the spouse or civil partner of a person granted stateless leave; and
+  - (ii) on the leave application date, was the spouse or civil partner of the person granted stateless leave; and
+- (b) who is ordinarily resident in the United Kingdom on the course start date[^key-ecdd99b2d7eef0af5e790e6246da6990].
+
+(3) A person—
+
+- (a) who—
+  - (i) is the child of a person granted stateless leave or the child of the spouse or civil partner of a person granted stateless leave; and
+  - (ii) on the leave application date, was the child of the person granted stateless leave or the child of a person who, on the leave application date, was the spouse or civil partner of the person granted stateless leave;
+- (b) who was under 18 years of age on the leave application date; and
+- (c) who is ordinarily resident in the United Kingdom on the course start date[^key-8c465beab756a7f420749bf01415c616].
+
+(4) In this paragraph, “**leave application date**” means the date on which the person granted stateless leave made an application to remain in the United Kingdom as a stateless person under the immigration rules [^key-81aedba3074ed039f05409d3be7db2d4]....
+
+### 4G. Persons granted leave under one of the Afghan Schemes and their family members[^key-38e0207588250200b149757e78253892]
+
+(1) A person granted leave under one of the Afghan Schemes, who is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave under one of the Afghan Schemes;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under one of the Afghan Schemes; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under one of the Afghan Schemes;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under one of the Afghan Schemes; or
+  - (ii) the child of a person who was the spouse or civil partner of a person granted leave under one of the Afghan Schemes on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In this paragraph “**leave application date**” means the date on which the person granted leave under one of the Afghan Schemes made an application for leave to enter or remain in the United Kingdom.
+
+### 4H. Evacuated or assisted British nationals from Afghanistan[^key-4215d44cb37b5121782c13004b87781d]
+
+An evacuated or assisted British national from Afghanistan who is ordinarily resident in the United Kingdom on the course start date[^key-8df0bab9383fe609ba34ad2c5a85cc73].
+
+### 4I. Persons granted leave under one of the Ukraine Schemes and their family members[^key-9599579c50653e9228437bb77ef9480b]
+
+(1) A person granted leave under one of the Ukraine Schemes, who is ordinarily resident in the United Kingdom on the course start date.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a person granted leave under one of the Ukraine Schemes;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in the United Kingdom on the course start date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under one of the Ukraine Schemes; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under one of the Ukraine Schemes;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under one of the Ukraine Schemes; or
+  - (ii) the child of a person who was the spouse or civil partner of a person granted leave under one of the Ukraine Schemes on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in the United Kingdom on the course start date.
+
+(4) In this paragraph “**leave application date**” means the date on which the person granted leave under one of the Ukraine Schemes made an application for leave to enter or remain in the United Kingdom.
+
+### 5. Persons with leave to enter or remain on the grounds of discretionary leave and their family members[^key-713393c67ebecffc90ccd5e75ca7d6d9][^key-308e27c3b392eb91d481c17693ee4a6b][^key-acd1de53e3acbd4bd1bb5147ca50e56b]
+
+(1) A person granted leave to enter or remain on the grounds of discretionary leave who is ordinarily resident in the United Kingdom on the course start date[^key-28397aa12dfa4a92ec4ff4a52e5850ad].
+
+- (a) with leave to enter or remain; and
+- (b) who is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+
+(2) A person—
+
+- (a) who is the spouse or civil partner of a person with leave to enter or remain on the grounds of discretionary leave;
+- (b) who was the spouse or civil partner of the person with leave to enter or remain on the grounds of discretionary leave on the leave application date;
+- (c) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in the United Kingdom on the course start date[^key-47d09421b8e0ee269d3031fe26b32618].
+
+(3) A person—
+
+- (a) who is the child of a person with leave to enter or remain on the grounds of discretionary leave or the child of the spouse or civil partner of a person with leave to enter or remain on the grounds of discretionary leave,
+- (b) who, on the leave application date, was under 18 and was the child of the person with leave to enter or remain on the grounds of discretionary leave or the child of a person who was the spouse or civil partner of the person with leave to enter or remain on the grounds of discretionary leave on that date;
+- (c) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in the United Kingdom on the course start date[^key-68f729f0d254419193ac88a39f1ec18f].
+
+(4) In this paragraph, “**leave application date**” means the date on which the person with leave to enter or remain on the grounds of discretionary leave made the application that led to that person being granted leave to enter or remain on the grounds of discretionary leave in the United Kingdom.
+
+### 6. Workers, employed persons, self-employed persons and their family members[^key-d11c6ac5145703fb240edb845e68dfbd][^key-fccff361aa5ae62a8aa47b77272127c0]
+
+(1) A person who—
+
+- (a) is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in paragraph (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in the United Kingdom on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom,[^key-001eeb79e32f001f5a56a4f9f9b0c0f2] the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person falls within paragraph (a)(iv), (v) or (vi) of that sub-paragraph.
+
+### 6A.[^key-2987dd8fc468a2e9c4cbe71f26b6e5d9]
+
+(1) A person with protected rights or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020, who—
+
+- (a) is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in sub-paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in sub-paragraph (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in the United Kingdom on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
+
+(3) In this paragraph, a description of a person in sub-paragraph(1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
+
+(4) For the purposes of paragraph 1(a)(iii) and (vi), an Irish citizen family member is not required to be living in the United Kingdom on IP completion day.
+
+### 6B.
+
+(1) A person who—
+
+- (a) is—
+  - (i) an Irish citizen migrant worker or an Irish citizen self-employed person;
+  - (ii) a family member of a person mentioned in sub-paragraph (i);
+  - (iii) an Irish citizen frontier worker or an Irish citizen frontier self-employed person; or
+  - (iv) a family member of a person mentioned in sub-paragraph (iii);
+- (b) subject to sub-paragraph (2), is ordinarily resident in Northern Ireland on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iii) or (iv) of sub-paragraph (1).
+
+**7.**[^key-56b4ee5a78ad3580c88acc5a61aed966] (1)[^key-7af64794e4c2d017184ab346ecfe2dfa] A person who—
+
+- (a) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom,[^key-ac2a96f3f325508eac91944ce9277fb9] the European Economic Area, Switzerland and the overseas territories[^key-65a7757ead459f13cab84e87c157b5b6] throughout the three-year period preceding the first day of the first academic year of the course; and
+- (c) is entitled to support by virtue of Article 12 of [Council Regulation (EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00014], as extended by the EEA Agreement.
+
+(2)[^key-4c93312918f9f61536c2acef5b6c2c3d] Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
+
+**7A.**[^key-4fe44f0d68be69b70800cd6375e9ee60] (1) A person with protected rights who—
+
+- (a) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
+- (c) is entitled to support by virtue of Article 10 of [Regulation (EU) No. 492/2011](https://www.legislation.gov.uk/european/regulation/2011/0492) of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (“the Workers Regulation”), as it had effect immediately before IP completion day, as extended by the EEA Agreement, as it had effect immediately before IP completion day.
+
+(2) For the purposes of sub-paragraph (1)(c), in Article 10 of the Workers Regulation—
+
+- (a) the reference to a “national of a Member State” is to be read as including a relevant person of Northern Ireland; and
+- (b) the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” construed accordingly.
+
+### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-188efcaf0b8285f37021f99d48b65308]
+
+(1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) left the United Kingdom and exercised a right of residence before IP completion day[^key-a76319a30a101f698a10e8f80baf259d] after having been settled in the United Kingdom;
+- (c) is ordinarily resident in the United Kingdom on the course start date[^key-9012e4742407a6d8274eb7181794dbc4];
+- (d) has been ordinarily resident in the territory comprising the United Kingdom,[^key-574bc4d141e34daf01d4ae75966c6b06] the European Economic Area, Switzerland and the overseas territories[^key-412bf58c6774e31c69536375fac7b31a] throughout the three-year period preceding the first day of the first academic year of the course; and
+- (e) in a case where his ordinary residence referred to in paragraph (d) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-2b86c6c2830fe424005aa80fb4c10906] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (d).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if he is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who had a right[^key-72e0292d4b01471f2a0e2a6cd4620f2a] of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had a right of permanent residence, if he has gone[^key-f4f06455f56dcebd81405d8c0cc4633c] to the state within the territory comprising the European Economic Area and Switzerland of which he is a national or of which the person in relation to whom he is a family member is a national.
+
+(3)[^key-9a9c879d2f82dd95e23accc6cc9e9da3] For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+### 8A.[^key-123ab510bd69a078efb396a5177e3d11]
+
+(1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) was ordinarily resident in the United Kingdom and settled in the United Kingdom immediately before leaving the United Kingdom and who has exercised a right of residence before IP completion day;
+- (c) was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area, Switzerland and the overseas territories; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area, Switzerland and the overseas territories,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories (the relevant territory) throughout the period beginning on IP completion day and ending immediately before the first day of the first academic year of the course;
+- (d) is ordinarily resident in the United Kingdom on the course start date[^key-7df60b362fdf63ca690cfafdaeb6a98c];
+- (e) has been ordinarily resident in the relevant territory throughout the three-year period preceding the first day of the first academic year of the course; and
+- (f) in a case where the person’s ordinary residence referred to in paragraph (e) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (e).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if that person is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who had the right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had the right of permanent residence, if the person has gone to the state within the territory comprising the European Economic Area and Switzerland of which the person is a national or of which the person in relation to whom the person is a family member is a national.
+
+(3) For the purposes of sub-paragraph (2) a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+### 9. EU nationals etc.[^key-37f16430f308642ac6ba1cf6689d69f1][^key-52efdebebd5e1fd0bb8c8182874f299e]
+
+(1) A person who—
+
+- (a) is either—
+  - (i) an EU[^key-2528b253aa53b29b9786875c26605bb7] national [^key-6aaca29be4fb7793706a6f00d69477e5]...on the first day of an academic year of the course; or
+  - (ii) a family member of a such a person;
+- (b) is undertaking the course in the Northern Ireland;
+- (c)[^key-0ffef676caa7a7f58867bed6b40579fa] has been ordinarily resident in the territory comprising the United Kingdom,[^key-0cc159215d0e4ed9ec4ebbcccd1d10db] the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d)[^key-076dc33506975b8adbc2dbe48490c2e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) subject to sub-paragraph (2), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c)[^key-bb802127b1d2914286f488fcdbda7c73] been wholly or mainly for the purpose of receiving full-time education.
+
+(1A)[^key-680dac58990db6c29fb4da236e69c7f6] Paragraph (c) of sub-paragraph (1) does not apply to a family member of a person who—
+
+- (a) is—
+  - (i) a United Kingdom national who has exercised a right to reside in the territory of a Member State under Article 7(1) of Directive 2004/38; or
+  - (ii) an EU national; and
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 1(3).
+
+(3)[^key-ab9e705ab7656f973cb47d786addaae2] Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
+
+### 9ZA.[^key-717bd13d1a1bb8ae3a219db33015318c]
+
+(1) A person with protected rights—
+
+- (a) who is —
+  - (i) an EU national on the first day of the first academic year of the course;
+  - (ii) a family member of a person mentioned in sub-paragraph (i); or
+  - (iii) a family member of a relevant person of Northern Ireland;
+- (b) who is undertaking the course in Northern Ireland;
+- (c) who, subject to sub-paragraph (2), has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories (relevant territory) throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (c) of sub-paragraph (1) does not apply to a family member of a person who—
+
+- (a) is an EU national or a relevant person of Northern Ireland; and
+- (b) has been ordinarily resident in the relevant territory throughout the three-year period preceding the first day of the first academic year of the course.
+
+(3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 1(3).
+
+(4)[^key-f4d5aedd74b15279fe4c285ae6b2eefc] For the purposes of this paragraph, an Irish citizen is not required to be living in the United Kingdom on IP completion day.
+
+### 9ZB. United Kingdom nationals
+
+(1) A person—
+
+- (a) who is—
+  - (i) a United Kingdom national on the first day of an academic year of the course; or
+  - (ii) a family member of a person mentioned in sub-paragraph (i);
+- (b) who was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area, Switzerland and the EU overseas territories; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area, Switzerland and the EU overseas territories,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the EU overseas territories (the relevant territory) throughout the period beginning on IP completion day and ending immediately before the first day of the first academic year of the course;
+- (c) who is undertaking the course in Northern Ireland;
+- (d) who, subject to sub-paragraph (2), has been ordinarily resident in the relevant territory throughout the three-year period preceding the first day of the first academic year of the course; and
+- (e) subject to sub-paragraph (3), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to the family member of a United Kingdom national, where that United Kingdom national—
+
+- (a) had, before IP completion day, exercised a right to reside in the territory of a Member State under Article 7(1) of Directive 2004/38; and
+- (b) has been ordinarily resident in the relevant territory throughout the three-year period preceding the first day of the first academic year of the course.
+
+(3) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 1(3).
+
+(4) Where a person (“P”) falls within sub-paragraph (1)(a)(ii), the person in relation to whom P is a family member must also meet the requirements of sub-paragraphs (1)(b) and (d).
+
+(5) In this paragraph, “EU overseas territories” means Aruba; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Mayotte; Greenland; Netherlands Antilles (Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten); St Barthélemy; St Pierre et Miquelon; the Territory of New Caledonia and Dependencies and Wallis and Futuna.
+
+### 9ZC.
+
+(1) A person—
+
+- (a) who is a family member of a person who is settled in the United Kingdom[^key-4140f094b51d42d479ed30515e0257c9] on the first day of the first academic year of the course;
+- (b) who is undertaking the course in Northern Ireland;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom and Islands in accordance with paragraph 1(3).
+
+### 9ZD. Persons resident in Gibraltar
+
+(1) A person—
+
+- (a) who is—
+  - (i) a United Kingdom national who has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (ii) a family member of a United Kingdom national, where that family member has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (iii) an EU national who has a right of residence in Gibraltar arising under the EU withdrawal agreement; or
+  - (iv) a family member of an EU national, where that family member has a right of residence in Gibraltar arising under the EU withdrawal agreement;
+- (b) who is undertaking the course in Northern Ireland;
+- (c) who, subject to sub-paragraph (2), has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories (the relevant territory) throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (c) of sub-paragraph (1) does not apply to a family member of a person who—
+
+- (a) is an EU national or a relevant person of Northern Ireland; and
+- (b) has been ordinarily resident in the relevant territory throughout the three-year period preceding the first day of the first academic year of the course.
+
+(3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 1(3).
+
+### 9A. EU nationals ordinarily resident in the United Kingdom and Islands[^key-42df50d9417a6be73c6e37310ef88a89][^key-2358264c387148c0d7bd18d4413d5433]
+
+(1) A person who—
+
+- (a) is an EU[^key-5210bb246cd39fda90f3b1fa9d8d68e7] national other[^key-c09c2b53390b7033d3a5c438d74a2945]... on the first day of the first academic year of the course;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the first day of the first academic year of the course; and
+- (d) in a case where his ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom,[^key-10cc6e43b7d70c4f7566598f7345b9aa] the European Economic Area, Switzerland and the overseas territories immediately prior to the period of ordinary residence referred to in paragraph (c).
+
+(2)[^key-3b6ddf9a3d187e050f50e874772dd70c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9B.[^key-6f1652eb04139fb83a8a8be99659fe3e]
+
+(1) A person with protected rights who—
+
+- (a) is an EU national on the first day of the first academic year of the course;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the first day of the first academic year of the course; and
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the EU overseas territories immediately prior to the period of ordinary residence referred to in paragraph (c);
+
+(2) For the purposes of this paragraph, an Irish citizen is not required to be living in the United Kingdom on IP completion day.
+
+### 10. Children of Swiss nationals[^key-def366b914c6e2ab3d6ab24dfab2a8f5]
+
+(1)[^key-ab1e07749387261213b1403ef31cbde0] A person who—
+
+- (a) is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of Article 3(6) of Annex 1 to the Swiss Agreement;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom,[^key-63617d53d1ca8977a41c120a56129e22] the European Economic Area, Switzerland and the overseas territories[^key-27b4a1f676e76e9af0aa2fe1680598b6] throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where his ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-b0f1a247c0d591d92d4af25f5801a661] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+
+(2)[^key-f49d7b8268e319a6fb2822dc53fffb44] Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
+
+### 10A.[^key-eb4e83dacad6d900c6f8733c1ac7febd]
+
+A person with protected rights who—
+
+- (a) is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of Article 18(2) of the Swiss citizens’ rights agreement;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (c).
+
+### 11. Children of Turkish workers[^key-90ddf5bfd25f3aff594276b62fa616d4]
+
+A person who—
+
+- (a) is the child of a Turkish worker;
+- (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom,[^key-0b6c0e12b4b1501f0810e59e89c87fff] the European Economic Area, Switzerland, Turkey and the overseas territories[^key-3f979f81394b8b00179af54a3ca68f3c] throughout the three-year period preceding the first day of the first academic year of the course.
+
+### 12.[^key-caffc44d03f4a56c87b7e80560955b7b]
+
+A person who—
+
+- (a) is the child of a Turkish worker (“T”), where T was ordinarily resident in the United Kingdom immediately before IP completion day;
+- (b) immediately before IP completion day—
+  - (i) was the child of T; and
+  - (ii) was ordinarily resident in the United Kingdom;
+- (c) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course; and
+- (d) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland, Turkey and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course.
+
+### 13. Long Residence[^key-995c1e30e6d6f6c59c8cba09c70af649][^key-624f14245c7b253f65731e639e427dcb]
+
+—
+
+(1) A person
+
+- (a) who on the first day of the first academic year of the course is either—
+  - (i) under the age of 18 and has lived in the United Kingdom throughout the seven-year period preceding the first day of the first academic year of the course; or
+  - (ii) aged 18 years old or above and, preceding the first day of the first academic year of the course, has lived in the United Kingdom throughout either—
+    - (aa) half their life; or
+    - (bb) a period of twenty years;
+- (b) is ordinarily resident in Northern Ireland on the first day of the first academic year of the course[^key-0de65e8829dba4624c6ec3ada09ab4ce];
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Article 4 of the Higher Education (Northern Ireland) Order 2005 requires the Department to impose a condition on grants given to the governing body of higher and further education institutions. This condition requires the governing bodies to secure that the qualifying fees payable in respect of any qualifying course by a qualifying person do not exceed the basic or higher fee amounts applicable to that course. The fee amounts are prescribed by The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2006 ([S.R. 2006 No. 455](https://www.legislation.gov.uk/nisr/2006/455)).
+
+These Regulations revoke previous Regulations. They prescribe the qualifying courses and class of qualifying persons for the purposes of the Higher Education (Northern Ireland) Order 2005. The qualifying courses prescribed by regulation 4 are those courses which are designated under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998 and which are provided by institutions in Northern Ireland.
+
+The class of qualifying persons prescribed in regulation 5 are those persons who, on the first day of the relevant academic year, fall within the Schedule, save for those persons who are not eligible for student support under the Education (Student Support) Regulations (Northern Ireland) 2007 ([S.R. 2007 No. 195](https://www.legislation.gov.uk/nisr/2007/195)) by reason of certain paragraphs of regulation 5 of those Regulations, or who already have an honours degree from a publicly-funded institution. There is an exception in respect of a previous honours degree for a person undertaking a course of initial teacher training or a degree in social work in Northern Ireland or who has obtained the honours degree only as part of a single course they are currently undertaking.
+
+Regulation 6 re-enacts provision for transitional cases made in the revoked Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2006.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2005/1116 (N.I. 5)](https://www.legislation.gov.uk/nisi/2005/1116) *see* Article (2) for definitions of “the Department”, “prescribed” and “regulations”
+
+[^key-933a7e6ca80709a8338608ae508147fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-414a982ed0f515db5899cb2839b7f000]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/328/regulation/2) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-7b2639671d13247373e70890b7bae624]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/328/regulation/2) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [71](https://www.legislation.gov.uk/nisr/2024/19/regulation/71)
+
+[^key-782493363c58d2be251ecdaebd09ec8d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/328/regulation/2) inserted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [33](https://www.legislation.gov.uk/nisr/2024/19/regulation/33)
+
+[^key-843ac557f76a16924e99255490803bd6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/328/regulation/2) inserted (16.11.2022) by [The Education (Student Support, etc.) (Amendment) (No.3) Regulations (Northern Ireland) 2022 (S.R. 2022/263)](https://www.legislation.gov.uk/nisr/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2022/263/regulation/5)
+
+[^M_F_44d8c278-6bd2-4380-efff-2da658a92de4]: Textual amendment: Reg. 2 words inserted (1.9.2011) by [The Student Fees (Qualifying Courses and Persons) (Amendment) (No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/376)](https://editorial.legislation.gov.uk/nisr/2007/328/contents/2011-09-01/revision), [regs. 1](https://editorial.legislation.gov.uk/nisr/2011/376/regulation/1/made), [2](https://editorial.legislation.gov.uk/nisr/2011/376/regulation/2/made)(with [reg. 10](https://www.legislation.gov.uk/nisr/2011/376/regulation/10))
+
+[^key-0cd9e6343c613e6fff38bcefa229966c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/328/regulation/3) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^f00003]: Footnote: [S.R. 2006 No. 384](https://www.legislation.gov.uk/nisr/2006/384)
+
+[^key-e6f3d744e6e89d735c87c868132f54c7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/328/regulation/4) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760) as amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 147(3)(a) and (b) and the Higher Education (Northern Ireland) Order 2005 ([S.I. 2005/1116 (N.I. 5)](https://www.legislation.gov.uk/nisi/2005/1116))
+
+[^key-cc17302de06fd069db1f3c503f42540d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/328/regulation/5) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-7c57280a3e1d8a844352ec3842e1628d]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/b) and words inserted (1.9.2011) by [The Student Fees (Qualifying Courses and Persons) (Amendment) (No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/376)](https://www.legislation.gov.uk/nisr/2011/376), [regs. 1](https://www.legislation.gov.uk/nisr/2011/376/regulation/1), [5](https://www.legislation.gov.uk/nisr/2011/376/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/nisr/2011/376/regulation/10))
+
+[^key-dc7ac5250056a6af3e9c40ac3963f6d7]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/c) inserted (1.4.2019) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [31](https://www.legislation.gov.uk/nisr/2019/35/regulation/31)
+
+[^key-bbc81ef4fb8ff141d24b85098e46585c]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/c) inserted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [15(a)(i)](https://www.legislation.gov.uk/nisr/2021/50/regulation/15/a/i)
+
+[^key-f4d599be01d04abbd68929f9dbcbf65a]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/c) inserted (with application in accordance with reg. 1(4)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [53](https://www.legislation.gov.uk/nisr/2022/75/regulation/53)
+
+[^key-97c56304a9ab5559dff08e5e49a740dd]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/c) inserted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) (No.2) Regulations (Northern Ireland) 2022 (S.R. 2022/201)](https://www.legislation.gov.uk/nisr/2022/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/201/regulation/1/2), [9(a)](https://www.legislation.gov.uk/nisr/2022/201/regulation/9/a)
+
+[^key-24f6925d188ee53ed588b49f4b623279]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/c) inserted (with application in accordance with reg. 1(4)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) (No.2) Regulations (Northern Ireland) 2022 (S.R. 2022/201)](https://www.legislation.gov.uk/nisr/2022/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/201/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2022/201/regulation/31)
+
+[^key-d4ad122ff71016247f677e1972b91d74]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1/c) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [15(a)](https://www.legislation.gov.uk/nisr/2021/85/regulation/15/a)
+
+[^key-e56111409b1b1a7b03aba7737ca7d15e]: Textual amendment: [Reg. 5(1ZA)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1ZA)[(1ZB)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1ZB) inserted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [59(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/a)
+
+[^key-24007954333d3ecda71cc03e10b7f8d4]: Textual amendment: [Reg. 5(1A)-(1C)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1A) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [15(b)](https://www.legislation.gov.uk/nisr/2021/85/regulation/15/b)
+
+[^key-b613ecf3a61d9d44114bb3a8f9f0fc30]: Textual amendment: Word in [reg. 5(1A)(a)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1A/a) omitted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [59(b)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/b/i)
+
+[^key-e24d48e5cc6184d2e0fb6560ffbbb120]: Textual amendment: Words in [reg. 5(1A)(a)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1A/a) omitted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [59(b)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/b/ii)
+
+[^key-2a8a3e6bed76cd6d63c93de4c95ec84e]: Textual amendment: Word in [reg. 5(1A)(a)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1A/a) omitted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [59(b)(iii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/b/iii)
+
+[^key-4bf2554666a6f04e40806e5b8cc1d483]: Textual amendment: Words in [reg. 5(1A)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1A) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [33(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/33/a)
+
+[^key-6079e5de3736409386c1a510cece89a1]: Textual amendment: Words in [reg. 5(1B)(a)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1B/a) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [33(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/33/b)
+
+[^key-0d89e104ff783b126ae923efdda09e7a]: Textual amendment: Word in [reg. 5(1C)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1C) substituted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [60](https://www.legislation.gov.uk/nisr/2022/75/regulation/60)
+
+[^key-7aac8a08cae28e12faf7782a62cec8ad]: Textual amendment: [Reg. 5(1D)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1D) inserted (with application in accordance with reg. 1(3)(e) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [21](https://www.legislation.gov.uk/nisr/2024/157/regulation/21)
+
+[^key-b9f0c2ed27b60ec6b99e8f56f3f2a1cb]: Textual amendment: [Reg. 5(1D)(b)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/1D/b) substituted (24.7.2026) by [The Education (Student Support) (Amendment No.2) Regulations (Northern Ireland) 2026 (S.R. 2026/136)](https://www.legislation.gov.uk/nisr/2026/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2026/136/regulation/4)
+
+[^key-da23ff14988f5206bd2d69f615a1b635]: Textual amendment: [Reg. 5(3A)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/3A) inserted (16.11.2022) by [The Education (Student Support, etc.) (Amendment) (No.3) Regulations (Northern Ireland) 2022 (S.R. 2022/263)](https://www.legislation.gov.uk/nisr/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2022/263/regulation/6)
+
+[^key-d7ce1f937a5a792724a680f549ac4ba7]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/6) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [59(c)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/c)
+
+[^key-3d65790cfa7323665a31d65fa3d1c0ec]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/7) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [64](https://www.legislation.gov.uk/nisr/2024/19/regulation/64)
+
+[^key-718f29fba8cadae10ec03db03aeec0e2]: Textual amendment: [Reg. 5(8)-(10)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/8) inserted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30](https://www.legislation.gov.uk/nisr/2024/157/regulation/30))
+
+[^key-c9a93944598916c62aaf62a8eda5103c]: Textual amendment: Words in [reg. 5(10)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/10) inserted (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [11](https://www.legislation.gov.uk/nisr/2024/157/regulation/11)
+
+[^key-05bc4a07e55de7e8b85e79d4c607ebdb]: Textual amendment: Words in [reg. 5(10)](https://www.legislation.gov.uk/nisr/2007/328/regulation/5/10) substituted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2024/157/regulation/5)
+
+[^key-3c78ed9c7c5c516cb2e1b64b15054ce7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/328/regulation/6) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^f00005]: Footnote: [S.R. 2006 No.312](https://www.legislation.gov.uk/nisr/2006/312), to which there are amendments not relevant to these Regulations
+
+[^key-155cac1154340b5572f48082f25e9368]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-cd6522a4f830e4cb5e3f06b5d34144a8]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(i)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/i)
+
+[^f00006]: Footnote: OJ L158, 30.4.2004, p77-123
+
+[^key-94110bae363fc18a5af23793406152f5]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/ii)
+
+[^f00007]: Footnote: Cmnd 2073
+
+[^f00008]: Footnote: Cmnd 2183
+
+[^key-6c043cf1b9e64117a11a979679321cb1]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/i)
+
+[^key-3bb4e765f7ce7d2a1583a0d1bf2aa720]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) omitted (31.12.2020) by virtue of [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/i/aa)
+
+[^key-8dbdcdf74065d7e9685cd480428e5af9]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) (No.2) Regulations (Northern Ireland) 2022 (S.R. 2022/201)](https://www.legislation.gov.uk/nisr/2022/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/201/regulation/1/2), [10(a)](https://www.legislation.gov.uk/nisr/2022/201/regulation/10/a)
+
+[^key-e968854c9a61ba329569be8e12cc07ff]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/iii/aa)
+
+[^key-0225debc971242d0d002bc197142512d]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1/a/ii) substituted (29.3.2011) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/70)](https://www.legislation.gov.uk/nisr/2011/70), [regs. 1](https://www.legislation.gov.uk/nisr/2011/70/regulation/1), [4](https://www.legislation.gov.uk/nisr/2011/70/regulation/4)
+
+[^key-d9945903a77697754230159614c2220c]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/iii/bb)
+
+[^key-ca710be18098d0b56e799590570052d7]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/iii/bb)
+
+[^key-d55d13998f1f9e3287996a9dd6fb4208]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(iii)(cc)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/iii/cc)
+
+[^key-564e6c46dade268014d24dc94ced47b0]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(iii)(cc)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/iii/cc)
+
+[^key-1f606907ef6767323a1f7830f4e64979]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) substituted (with application in accordance with reg. 1(7)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [61(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/61/a)
+
+[^key-e1a575a2204da354d6477d866c395752]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/a)
+
+[^key-e87e5dca7b871f5b93feff7452e70183]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) omitted (1.9.2011) by virtue of [The Student Fees (Qualifying Courses and Persons) (Amendment) (No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/376)](https://www.legislation.gov.uk/nisr/2011/376), [regs. 1](https://www.legislation.gov.uk/nisr/2011/376/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/376/regulation/6) (with [reg. 10](https://www.legislation.gov.uk/nisr/2011/376/regulation/10))
+
+[^key-79e709f20d952a5a21059ebb34aed116]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/i/bb)
+
+[^key-5175abda13777fa81cf1331314090158]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (22.3.2013 with application in accordance with reg. 1(2)) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/37)](https://www.legislation.gov.uk/nisr/2013/37), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/37/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2013/37/regulation/3/a)
+
+[^key-31370dbbb912b7adc4d99b409f75ae4b]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [9(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/9/a)
+
+[^key-fb1fbbefb6f15efdfc8e0e948c4ae580]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/b)
+
+[^key-5cdf826b8fd97081a67b47d953f4f045]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [11(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/11/a)
+
+[^key-54fc0162c41879152cf09a49fa675a91]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/c)
+
+[^key-f592abfd0d062e970732bd9187a4ecbc]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2024/157/regulation/25)
+
+[^key-d208e575bdf7c6a235c6a2bf1898a6e2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [13(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/13/a)
+
+[^key-e6593d77c5075651d069b1da77081886]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) substituted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [6(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/6/a)
+
+[^key-f9b30dfc8d0e9962638dd1bdf2ca5a4a]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/d)
+
+[^key-349b7abebb700aaf40b8adab317c7a3a]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) substituted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [6(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/6/b)
+
+[^key-c0290775c6c78d4208ddb604496ba9ca]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (with application in accordance with reg. 1(4)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [55(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/55/a)
+
+[^key-f9553312f47e874ece1aa1833882c932]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (with application in accordance with reg. 1(4)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) (No.2) Regulations (Northern Ireland) 2022 (S.R. 2022/201)](https://www.legislation.gov.uk/nisr/2022/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/201/regulation/1/2), [33(a)](https://www.legislation.gov.uk/nisr/2022/201/regulation/33/a)
+
+[^key-5cdc61ac593ae59c209329b98e906ba6]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(f) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [23(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/23/a)
+
+[^key-2cbd8bcb8d23d62dcdd8cb41b7c745c4]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (with application in accordance with reg. 1(5)(6) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/2/a)
+
+[^key-404b3add30da800a7da29c83bd7d53d9]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(f)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/f/i)
+
+[^key-741ae7767c4c46e8c310847ce32f0d0a]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(f)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/f/ii)
+
+[^key-038bc8be853b6b7a5f5862900ab0065f]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2024/157/regulation/8)
+
+[^key-72b9cedc229a14d843756a93fe396696]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (with application in accordance with reg. 1(5)(6) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [30(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/2/b/ii)
+
+[^key-de003567d997f892ed613a1f08b959e6]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (with application in accordance with reg. 1(5)(6) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [30(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/2/b/iii)
+
+[^key-2683f016320aaec67b17f2b4f4fa4100]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) omitted (with application in accordance with reg. 1(5)(6) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [30(2)(b)(v)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/2/b/v)
+
+[^key-5bbcdb12e7303ed7c3a376ad6dcb25c8]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) inserted (with application in accordance with reg. 1(4)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) (No.2) Regulations (Northern Ireland) 2022 (S.R. 2022/201)](https://www.legislation.gov.uk/nisr/2022/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/201/regulation/1/2), [33(b)](https://www.legislation.gov.uk/nisr/2022/201/regulation/33/b)
+
+[^key-e2b78dfb8d074454a8aeb262f78501a7]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(g)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/g/i)
+
+[^key-3b83690a5783599ee26e43547d0eb488]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/g/ii)
+
+[^key-8ad98430d52afd42a6c4ea2afcca357b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(h)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/h)
+
+[^key-93713267ffe977d6ec1aab0db3806aa2]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (24.7.2026) by [The Education (Student Support) (Amendment No.2) Regulations (Northern Ireland) 2026 (S.R. 2026/136)](https://www.legislation.gov.uk/nisr/2026/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2026/136/regulation/5/a)
+
+[^key-c6bfad3bc9c4d85e50c8b065ce568e35]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(i)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2)
+
+[^key-fc8791be5c3b2cc9067f1f31b27e612a]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (24.7.2026) by [The Education (Student Support) (Amendment No.2) Regulations (Northern Ireland) 2026 (S.R. 2026/136)](https://www.legislation.gov.uk/nisr/2026/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2026/136/regulation/5/b)
+
+[^key-f29971e68b73a9805a083f06325d74a2]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(i)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2)
+
+[^key-f04bd0b5ea5ef5c96567ea3cb71e9c0a]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(f) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [23(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/23/b)
+
+[^key-943313f7c781541300fb308beeedbacf]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) substituted (24.7.2026) by [The Education (Student Support) (Amendment No.2) Regulations (Northern Ireland) 2026 (S.R. 2026/136)](https://www.legislation.gov.uk/nisr/2026/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2026/136/regulation/5/c)
+
+[^key-47122ee655dd0f61e4c1fcefb89edbaf]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [15(b)](https://www.legislation.gov.uk/nisr/2021/50/regulation/15/b)
+
+[^key-3e2e82ab3f38d7b4058f5010891eb020]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(2)(j)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/2/j)
+
+[^key-c1954307de0970f7d7e797d20edfbbe4]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/iv)
+
+[^key-2830124a214da347651884cc646fb06d]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) renumbered (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(a)(i)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/a/i)
+
+[^key-43246ad03b03e985121b5c094814adc2]: Textual amendment: Word in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(a)(ii)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/a/ii)
+
+[^key-33d1d6a4341bcc54effb593dd11eeb4b]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(a)(ii)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/a/ii)
+
+[^key-bc0a1c38a7178a01509633bb05cc3c54]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/1) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(a)(iii)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/a/iii)
+
+[^key-bb14925628c944110ec8cc48c6cbda88]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) substituted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [17(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/17/a)
+
+[^f00010]: Footnote: Cmnd. 9171.
+
+[^f00011]: Footnote: Cmnd. 3906 (out of print; photocopies are available, free of charge, from the Student Support Division, Department for Education and Skills, Mowden Hall, Staindrop Road, Darlington DL3 9BG).
+
+[^key-915fb6524212ce5e679b80cf8044b6c6]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(v)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/v)
+
+[^key-3fca047221d581bc9597e36ce6967dcb]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) omitted (with application in accordance with reg. 1(2)(3) of the amending Rule) by virtue of [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/vi)
+
+[^f00012]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c.61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^f00013]: Footnote: Cm. 4904.
+
+[^key-f40483535a7d362d2152d6cbe99a6ff4]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(a)(vii)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/a/vii)
+
+[^key-bcc50769561fc0cbbd92367dd82770e1]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1A)[(1B)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/1/1B) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/2/b)
+
+[^key-31a99312769c0cd6d8dbd1e1730d630e]: Textual amendment: [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/2) substituted (1.9.2011) by [The Student Fees (Qualifying Courses and Persons) (Amendment) (No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/376)](https://www.legislation.gov.uk/nisr/2011/376), [regs. 1](https://www.legislation.gov.uk/nisr/2011/376/regulation/1), [7](https://www.legislation.gov.uk/nisr/2011/376/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/nisr/2011/376/regulation/10))
+
+[^key-686beaf3a548722d134b9a2f7587d964]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/2) substituted (22.3.2013 with application in accordance with reg. 1(2)) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/37)](https://www.legislation.gov.uk/nisr/2013/37), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/37/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2013/37/regulation/3/b)
+
+[^key-b6f0a2fc7faa8d9899d9cf025ca44416]: Textual amendment: [Sch. para. 1(2A)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/2A) inserted (22.3.2013 with application in accordance with reg. 1(2)) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/37)](https://www.legislation.gov.uk/nisr/2013/37), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/37/regulation/1/1), [3(c)](https://www.legislation.gov.uk/nisr/2013/37/regulation/3/c)
+
+[^key-d725dd066ad5926147bc7b6aeca394f3]: Textual amendment: Words in [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/3) substituted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/iii/aa)
+
+[^key-705435c59b12edf4df4d49f508169cd5]: Textual amendment: Words in [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/3) substituted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/iii/bb)
+
+[^key-18ed67341533477654d3f5111e9fb891]: Textual amendment: Words in [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/3) substituted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(iii)(cc)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/iii/cc)
+
+[^key-318dd44f5c3ac54e20ee432a5fe03093]: Textual amendment: Words in [Sch. para. 1(4)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/4) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(iv)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/iv)
+
+[^key-5bcaed5248bb54d2f8d28bf24ffb35dd]: Textual amendment: Words in [Sch. para. 1(5)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/5) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(a)(ii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/a/ii)
+
+[^key-7d3b0e237299e46fcfe56fb241022cf3]: Textual amendment: [Sch. para. 1(6)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/6) inserted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/2/b)
+
+[^key-35c9117815ed6c213db73c53eba07bba]: Textual amendment: [Sch. para. 1(7)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/1/7) added (1.9.2011) by [The Student Fees (Qualifying Courses and Persons) (Amendment) (No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/376)](https://www.legislation.gov.uk/nisr/2011/376), [regs. 1](https://www.legislation.gov.uk/nisr/2011/376/regulation/1), [8](https://www.legislation.gov.uk/nisr/2011/376/regulation/8) (with [reg. 10](https://www.legislation.gov.uk/nisr/2011/376/regulation/10))
+
+[^key-4bc2c49d812c934955b75ce8b032fff0]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/2) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-ad98af0c96e31dfafd5b05762953d5b0]: Textual amendment: Words in [Sch. para. 2(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/2/1) omitted (with application in accordance with reg. 1(3)(c) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [15(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/15/a)
+
+[^key-35163f9da8d7eaec0ef7db563ff6ed12]: Textual amendment: [Sch. 1 para. 2(1)(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/2/1/a) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(3)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/3)
+
+[^key-b5ef26d2e586344b317ea38ba8e07fc8]: Textual amendment: Words in [Sch. para. 2(1)(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/2/1/b) inserted (with application in accordance with reg. 1(3)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [15(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/15/b)
+
+[^key-0ff64f2e2d8619236e0cf421fb051a81]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/2A) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(4)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/4)
+
+[^key-aae2e58c628d2804ed67f9f950850b68]: Textual amendment: Words in [Sch. para. 2A(1)(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/2A/1/a) omitted (with application in accordance with reg. 1(3)(c) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [15(c)](https://www.legislation.gov.uk/nisr/2024/157/regulation/15/c)
+
+[^key-a15187444c758aa91f25a188243856fb]: Textual amendment: Word in [Sch. para. 2A(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/2A/2) substituted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [61(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/61/a)
+
+[^key-d478202544a85b1acdd5de169fa149e4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-f4c31b268648c5374b080e42bab7507e]: Textual amendment: Sch. 1 para. 3 renumbered as Sch. 1 para. 3(1)(a)-(d) (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(5)(a)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/5/a)
+
+[^key-1cc35b0e081733ff4041be72cc72a412]: Textual amendment: [Sch. 1 para. 3(1)(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/3/1/a) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(5)(b)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/5/b)
+
+[^key-9c5daf5bccb7ab65ab6e79383ea256c5]: Textual amendment: Words in [Sch. para. 3(1)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/1/a/iii/bb) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(b)(i)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/b/i)
+
+[^key-ab52236b067992ed1f594e974c229615]: Textual amendment: Words in [Sch. para. 3(1)(a)(iii)(cc)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/1/a/iii/cc) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(b)(ii)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/b/ii)
+
+[^key-5ff4b57554acce516402fb73d4a82362]: Textual amendment: Words in [Sch. para. 3(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/d) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(b)(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/b/i)
+
+[^key-d8c9d78d249f8226b6a29b547ec86c3e]: Textual amendment: Words in [Sch. para. 3(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/d) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/3)
+
+[^key-6e56288e77974976650e254799015810]: Textual amendment: [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/3/2) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(5)(c)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/5/c)
+
+[^key-13a64947487601cb3478a6b197f83efd]: Textual amendment: Words in [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/2) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(3)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/3)
+
+[^key-b3bb26ef32dc3e2a6dddb4c798d07ca7]: Textual amendment: [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/3) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [32(b)(iii)](https://www.legislation.gov.uk/nisr/2022/75/regulation/32/b/iii)
+
+[^key-fa7ba7ab9813f77c152585686fab4988]: Textual amendment: [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/3/3) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [61(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/61/b)
+
+[^key-d91d4403477e0818480ca72a62c0d11e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-8513e1f11266874529e0dc66bac355cf]: Textual amendment: Words in [Sch. para. 4(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4/1/c) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(b)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/b/i) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-7cabcbcefd7d7130956bccac4ae7040d]: Textual amendment: Words in [Sch. para. 4(2)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4/2/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(b)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/b/ii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-59101d70a06c4ee062b6aa662b1b3323]: Textual amendment: Words in [Sch. para. 4(3)(e)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4/3/e) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(b)(iii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/b/iii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-46ab72144fc623235a182d055880a352]: Textual amendment: [Sch. para. 4A](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4A) inserted (1.4.2019) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [32(a)](https://www.legislation.gov.uk/nisr/2019/35/regulation/32/a)
+
+[^key-9595cdf3f819283e7a0d5ddbb65f889a]: Textual amendment: Word in [Sch. 1 para. 4A(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4A/a) inserted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [4(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/4/a)
+
+[^key-1563f2864df1e2059766eaf4efbbed95]: Textual amendment: [Sch. 1 para. 4A(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4A/b) omitted (with effect in accordance with reg.1(3)(a) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [4(b)](https://www.legislation.gov.uk/nisr/2021/50/regulation/4/b)
+
+[^key-5cff06488ee2526b3dc7cb841b79642b]: Textual amendment: Words in [Sch. para. 4A(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4A/c) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(c)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/c) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-a45885396eb427b54353b0b85c128218]: Textual amendment: Word in [Sch. 1 para. 4A(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4A/c) substituted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [4(c)](https://www.legislation.gov.uk/nisr/2021/50/regulation/4/c)
+
+[^key-3181929758344d587527cf7e373c6317]: Textual amendment: [Sch. 1 para. 4A(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4A/d) omitted (with effect in accordance with reg.1(3)(a) of the amending Rule) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [4(d)](https://www.legislation.gov.uk/nisr/2021/50/regulation/4/d)
+
+[^key-e7ddb66dcf3a274b021c9d786f223eea]: Textual amendment: [Sch. 1 para. 4B](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4B) inserted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(4)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/4/a), [7](https://www.legislation.gov.uk/nisr/2021/50/regulation/7)
+
+[^key-1b64b51f57736227b5c74ece814e476f]: Textual amendment: Words in [Sch. para. 4B(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4B/a) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(4)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/4)
+
+[^key-f691e39b883cd3cedf4b402000094d8f]: Textual amendment: Words in [Sch. para. 4B(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4B/c) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/d) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-8e59f9865234818634208eff841f59fa]: Textual amendment: [Sch. 1 para. 4C](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4C) inserted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [9(b)](https://www.legislation.gov.uk/nisr/2021/50/regulation/9/b)
+
+[^key-933f507c8e8b9a7e1e79987bfaad8130]: Textual amendment: Words in [Sch. para. 4C(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4C/1) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(e)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/e/i) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-0611fdd5113f4708865c151c954a5566]: Textual amendment: Words in [Sch. para. 4C(2)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4C/2/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(e)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/e/ii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-2e4c75c965bc3da82c51619e4a1c5436]: Textual amendment: Words in [Sch. para. 4C(3)(e)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4C/3/e) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(e)(iii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/e/iii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-53b818c99156f748b6cdc6b21a66ea1f]: Textual amendment: [Sch. 1 para. 4D](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4D) inserted (with effect in accordance with reg.1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [11(b)](https://www.legislation.gov.uk/nisr/2021/50/regulation/11/b)
+
+[^key-8d48e766474e27f555788e558f8e7d10]: Textual amendment: Words in [Sch. para. 4D](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4D) heading inserted (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [12(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/12/a)
+
+[^key-a7577172b593d186d13c2ae4a3e21fac]: Textual amendment: Sch. para. 4D renumbered as Sch. para. 4D(1) (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [12(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/12/b)
+
+[^key-d9cef7852bcb6ee92ee161f879ccc824]: Textual amendment: Words in [Sch. para. 4D](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4D) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(f)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/f) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-387bb9f8c9f30c1b271dd2a4a8571971]: Textual amendment: [Sch. paras. 4D(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4D/2)[(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4D/3) inserted (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [12(c)](https://www.legislation.gov.uk/nisr/2024/157/regulation/12/c)
+
+[^key-7731452319146c6af6f7d17059b935bd]: Textual amendment: [Sch. 1 para. 4E](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4E) inserted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [13(b)](https://www.legislation.gov.uk/nisr/2021/50/regulation/13/b)
+
+[^key-9db93eb628d753dfee0c0b36e29f38eb]: Textual amendment: Words in [Sch. para. 4E](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4E) and heading substituted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2024/157/regulation/5)
+
+[^key-4b679e8e11f59101a468d5e5287beab0]: Textual amendment: Words in [Sch. para. 4E](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4E) heading inserted (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [12(d)](https://www.legislation.gov.uk/nisr/2024/157/regulation/12/d)
+
+[^key-54b95b37ee03146ee516a9117fde8725]: Textual amendment: Sch. para. 4E renumbered as Sch. para. 4E(1) (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [12(e)](https://www.legislation.gov.uk/nisr/2024/157/regulation/12/e)
+
+[^key-43e29596370a6144f5e16fa964c26f4e]: Textual amendment: Words in [Sch. para. 4E](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4E) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(g)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/g) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-d7cd53f165467a7e40d643b94a672100]: Textual amendment: [Sch. paras. 4E(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4E/2)[(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4E/3) inserted (with application in accordance with reg. 1(3)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [12(f)](https://www.legislation.gov.uk/nisr/2024/157/regulation/12/f)
+
+[^key-b55a703f7741762d09bfd67e3df52b3b]: Textual amendment: [Sch. 1 para. 4F](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/4F) inserted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [15(c)](https://www.legislation.gov.uk/nisr/2021/50/regulation/15/c)
+
+[^key-2ae8c34088a646f3940e0e1195e343d7]: Textual amendment: Words in [Sch. para. 4F(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4F/1) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(h)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/h/i) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-ecdd99b2d7eef0af5e790e6246da6990]: Textual amendment: Words in [Sch. para. 4F(2)(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4F/2/b) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(h)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/h/ii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-8c465beab756a7f420749bf01415c616]: Textual amendment: Words in [Sch. para. 4F(3)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4F/3/c) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(h)(iii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/h/iii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-81aedba3074ed039f05409d3be7db2d4]: Textual amendment: Words in [Sch. para. 4F(4)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4F/4) omitted (26.2.2024) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [21(5)](https://www.legislation.gov.uk/nisr/2024/19/regulation/21/5)
+
+[^key-38e0207588250200b149757e78253892]: Textual amendment: [Sch. para. 4G](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4G) and heading substituted (with application in accordance with reg. 1(5)(6) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/3/a) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2024/157/regulation/26))
+
+[^key-4215d44cb37b5121782c13004b87781d]: Textual amendment: [Sch. para. 4H](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4H) and heading inserted (with application in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) (No.2) Regulations (Northern Ireland) 2022 (S.R. 2022/201)](https://www.legislation.gov.uk/nisr/2022/201), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/201/regulation/1/2), [10(b)](https://www.legislation.gov.uk/nisr/2022/201/regulation/10/b)
+
+[^key-8df0bab9383fe609ba34ad2c5a85cc73]: Textual amendment: Words in [Sch. para. 4H](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4H) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/i) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-9599579c50653e9228437bb77ef9480b]: Textual amendment: [Sch. para. 4I](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/4I) and heading substituted (with application in accordance with reg. 1(3)(4)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/3/b) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2024/157/regulation/26))
+
+[^key-713393c67ebecffc90ccd5e75ca7d6d9]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/5) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-308e27c3b392eb91d481c17693ee4a6b]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/5) substituted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [17(b)(ii)](https://www.legislation.gov.uk/nisr/2021/50/regulation/17/b/ii)
+
+[^key-acd1de53e3acbd4bd1bb5147ca50e56b]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/5) heading substituted (with effect in accordance with reg. 1(3)(a) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/3/a), [17(b)(i)](https://www.legislation.gov.uk/nisr/2021/50/regulation/17/b/i)
+
+[^key-28397aa12dfa4a92ec4ff4a52e5850ad]: Textual amendment: Words in [Sch. para. 5(1)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/5/1) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(j)(i)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/j/i) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-47d09421b8e0ee269d3031fe26b32618]: Textual amendment: Words in [Sch. para. 5(2)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/5/2/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(j)(ii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/j/ii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-68f729f0d254419193ac88a39f1ec18f]: Textual amendment: Words in [Sch. para. 5(3)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/5/3/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(j)(iii)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/j/iii) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-d11c6ac5145703fb240edb845e68dfbd]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/6) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-fccff361aa5ae62a8aa47b77272127c0]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/6) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/4)
+
+[^key-001eeb79e32f001f5a56a4f9f9b0c0f2]: Textual amendment: Words in [Sch. para. 6(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/6/1/c) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(c)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/c)
+
+[^key-2987dd8fc468a2e9c4cbe71f26b6e5d9]: Textual amendment: [Sch. 1 paras. 6A](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/6A), [6B](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/6B) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(6)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/6)
+
+[^key-56b4ee5a78ad3580c88acc5a61aed966]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/7) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-7af64794e4c2d017184ab346ecfe2dfa]: Textual amendment: Sch. para. 7(a)(b)(c) renumbered as Sch. para. 7(1)(a)(b)(c) (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(d)(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/d/i)
+
+[^key-ac2a96f3f325508eac91944ce9277fb9]: Textual amendment: Words in [Sch. para. 7(1)(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/7/1/b) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(d)(ii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/d/ii)
+
+[^key-65a7757ead459f13cab84e87c157b5b6]: Textual amendment: Words in [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/7/b) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/5)
+
+[^f00014]: Footnote: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (II) p475).
+
+[^key-4c93312918f9f61536c2acef5b6c2c3d]: Textual amendment: [Sch. para. 7(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/7/2) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(d)(iii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/d/iii)
+
+[^key-4fe44f0d68be69b70800cd6375e9ee60]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/7A) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(7)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/7)
+
+[^key-188efcaf0b8285f37021f99d48b65308]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-a76319a30a101f698a10e8f80baf259d]: Textual amendment: Words in [Sch. para. 8(1)(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/1/b) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(e)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/e/i/aa)
+
+[^key-9012e4742407a6d8274eb7181794dbc4]: Textual amendment: Words in [Sch. para. 8(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/1/c) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(k)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/k) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-574bc4d141e34daf01d4ae75966c6b06]: Textual amendment: Words in [Sch. para. 8(1)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/1/d) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(e)(i)(bb)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/e/i/bb)
+
+[^key-412bf58c6774e31c69536375fac7b31a]: Textual amendment: Words in [Sch. para. 8(1)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/1/d) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/6)
+
+[^key-2b86c6c2830fe424005aa80fb4c10906]: Textual amendment: Words in [Sch. para. 8(1)(e)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/1/e) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(e)(i)(cc)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/e/i/cc)
+
+[^key-72e0292d4b01471f2a0e2a6cd4620f2a]: Textual amendment: Words in [Sch. para. 8(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/2) substituted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(e)(ii)(aa)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/e/ii/aa)
+
+[^key-f4f06455f56dcebd81405d8c0cc4633c]: Textual amendment: Words in [Sch. para. 8(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/2) substituted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(e)(ii)(bb)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/e/ii/bb)
+
+[^key-9a9c879d2f82dd95e23accc6cc9e9da3]: Textual amendment: [Sch. para. 8(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8/3) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(e)(iii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/e/iii)
+
+[^key-123ab510bd69a078efb396a5177e3d11]: Textual amendment: [Sch. 1 para. 8A](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/8A) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(8)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/8)
+
+[^key-7df60b362fdf63ca690cfafdaeb6a98c]: Textual amendment: Words in [Sch. para. 8A(1)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/8A/1/d) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [34(l)](https://www.legislation.gov.uk/nisr/2024/19/regulation/34/l) (as amended (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28))
+
+[^key-37f16430f308642ac6ba1cf6689d69f1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-52efdebebd5e1fd0bb8c8182874f299e]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9) heading substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(9)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/9)
+
+[^key-2528b253aa53b29b9786875c26605bb7]: Textual amendment: Word in [Sch. 1 para. 9(1)(a)(i)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9/1/a/i) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(10)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/10)
+
+[^key-6aaca29be4fb7793706a6f00d69477e5]: Textual amendment: Words in [Sch. para. 9(1)(a)(i)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/1/a/i) omitted (31.12.2020) by virtue of [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(f)(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/f/i)
+
+[^key-0ffef676caa7a7f58867bed6b40579fa]: Textual amendment: [Sch. para. 9(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/1/c) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/7/a)
+
+[^key-0cc159215d0e4ed9ec4ebbcccd1d10db]: Textual amendment: Words in [Sch. para. 9(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/1/c) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(f)(ii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/f/ii)
+
+[^key-076dc33506975b8adbc2dbe48490c2e7]: Textual amendment: [Sch. para. 9(1)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/1/d) omitted (28.9.2007) by virtue of [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/7/b)
+
+[^key-bb802127b1d2914286f488fcdbda7c73]: Textual amendment: Words in [Sch. para. 9(1)(e)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/1/e) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/7/c)
+
+[^key-680dac58990db6c29fb4da236e69c7f6]: Textual amendment: [Sch. para. 9(1A)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/1A) substituted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(f)(iii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/f/iii)
+
+[^key-ab9e705ab7656f973cb47d786addaae2]: Textual amendment: [Sch. para. 9(3)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9/3) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(f)(iv)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/f/iv)
+
+[^key-717bd13d1a1bb8ae3a219db33015318c]: Textual amendment: [Sch. 1 paras. 9ZA-9ZD](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9ZA) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(11)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/11)
+
+[^key-f4d5aedd74b15279fe4c285ae6b2eefc]: Textual amendment: [Sch. para. 9ZA(4)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9ZA/4) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [61(c)](https://www.legislation.gov.uk/nisr/2022/75/regulation/61/c)
+
+[^key-4140f094b51d42d479ed30515e0257c9]: Textual amendment: Words in [Sch. para. 9ZC(1)(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9ZC/1/a) substituted (with application in accordance with reg. 1(7)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [61(b)](https://www.legislation.gov.uk/nisr/2024/19/regulation/61/b)
+
+[^key-42df50d9417a6be73c6e37310ef88a89]: Textual amendment: [Sch. para. 9A](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9A) inserted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/8)
+
+[^key-2358264c387148c0d7bd18d4413d5433]: Textual amendment: [Sch. 1 para. 9A](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9A) heading inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(12)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/12)
+
+[^key-5210bb246cd39fda90f3b1fa9d8d68e7]: Textual amendment: Word in [Sch. 1 para. 9A(1)(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9A/1/a) substituted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(13)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/13)
+
+[^key-c09c2b53390b7033d3a5c438d74a2945]: Textual amendment: Words in [Sch. para. 9A(1)(a)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9A/1/a) omitted (31.12.2020) by virtue of [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(g)(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/g/i)
+
+[^key-10cc6e43b7d70c4f7566598f7345b9aa]: Textual amendment: Words in [Sch. para. 9A(1)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/9A/1/d) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(g)(ii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/g/ii)
+
+[^key-3b6ddf9a3d187e050f50e874772dd70c]: Textual amendment: [Sch. 1 para. 9A(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9A/2) omitted (with application in accordance with reg. 1(2)(3) of the amending Rule) by virtue of [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(13)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/13)
+
+[^key-6f1652eb04139fb83a8a8be99659fe3e]: Textual amendment: [Sch. 1 para. 9B](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/9B) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(14)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/14)
+
+[^key-def366b914c6e2ab3d6ab24dfab2a8f5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/10) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-ab1e07749387261213b1403ef31cbde0]: Textual amendment: Sch. para. 10(a)-(d) renumbered as Sch. para. 10(1)(a)-(d) (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(h)(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/h/i)
+
+[^key-63617d53d1ca8977a41c120a56129e22]: Textual amendment: Words in [Sch. para. 10(1)(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/10/1/c) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(h)(ii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/h/ii)
+
+[^key-27b4a1f676e76e9af0aa2fe1680598b6]: Textual amendment: Words in [Sch. para. 10(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/10/c) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/9)
+
+[^key-b0f1a247c0d591d92d4af25f5801a661]: Textual amendment: Words in [Sch. para. 10(1)(d)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/10/1/d) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(h)(iii)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/h/iii)
+
+[^key-f49d7b8268e319a6fb2822dc53fffb44]: Textual amendment: [Sch. para. 10(2)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/10/2) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(h)(iv)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/h/iv)
+
+[^key-eb4e83dacad6d900c6f8733c1ac7febd]: Textual amendment: [Sch. 1 para. 10A](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/10A) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(15)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/15)
+
+[^key-90ddf5bfd25f3aff594276b62fa616d4]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/11) in operation at 1.9.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1)
+
+[^key-0b6c0e12b4b1501f0810e59e89c87fff]: Textual amendment: Words in [Sch. para. 11(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/11/c) inserted (31.12.2020) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/3), [14(i)](https://www.legislation.gov.uk/nisr/2020/295/regulation/14/i)
+
+[^key-3f979f81394b8b00179af54a3ca68f3c]: Textual amendment: Words in [Sch. para. 11(c)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/11/c) substituted (28.9.2007) by [The Student Fees (Qualifying Courses and Persons) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/375)](https://www.legislation.gov.uk/nisr/2007/375), [regs. 1](https://www.legislation.gov.uk/nisr/2007/375/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2007/375/regulation/3/10)
+
+[^key-caffc44d03f4a56c87b7e80560955b7b]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/328/schedule/1/paragraph/12) inserted (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(16)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/16)
+
+[^key-995c1e30e6d6f6c59c8cba09c70af649]: Textual amendment: Sch. 1 para. 12 renumbered to Sch. 1 para. 13 (with application in accordance with reg. 1(2)(3) of the amending Rule) by [The Education (Student Fees and Support) (Amendment) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/85)](https://www.legislation.gov.uk/nisr/2021/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/85/regulation/1/1), [16(17)](https://www.legislation.gov.uk/nisr/2021/85/regulation/16/17)
+
+[^key-624f14245c7b253f65731e639e427dcb]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/12) inserted (25.3.2021) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/50)](https://www.legislation.gov.uk/nisr/2021/50), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/50/regulation/1/2), [19(a)](https://www.legislation.gov.uk/nisr/2021/50/regulation/19/a)
+
+[^key-0de65e8829dba4624c6ec3ada09ab4ce]: Textual amendment: Words in [Sch. para. 13(1)(b)](https://www.legislation.gov.uk/nisr/2007/328/schedule/paragraph/13/1/b) inserted (24.3.2022) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [62](https://www.legislation.gov.uk/nisr/2022/75/regulation/62)

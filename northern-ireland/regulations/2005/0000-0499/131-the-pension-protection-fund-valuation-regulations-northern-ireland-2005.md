@@ -1,0 +1,482 @@
+---
+title: The Pension Protection Fund (Valuation) Regulations (Northern Ireland) 2005
+id: nisr/2005/131
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-03-16'
+text_date: '2013-04-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/131
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/131/pdfs/nisr_20050131_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/131/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Protection Fund (Valuation) Regulations (Northern Ireland) 2005
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2013-04-30. See https://www.legislation.gov.uk/changes/affected/nisr/2005/131
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 131
+
+PENSIONS
+
+The Pension Protection Fund (Valuation) Regulations (Northern Ireland) 2005
+
+Made
+
+16th March 2005
+
+Coming into operation
+
+6th April 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Articles 2(5)(a), 127(3) to (5) and (11)(a), 129(4), 162(1)(a), (2) and (3), 172(1) and 287 (2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-9a8c45ab092338dc7fbc4e14bd2edaa6]
+
+(1) These Regulations may be cited as the Pension Protection Fund (Valuation) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+(2) In these Regulations –
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “appropriate person” in the case of an Article 127 valuation, means the person specified in Article 127(11)(a)(ii) of the Order , in the case of an Article 127 determination means the Board[^key-6cee0fba80ecff4ba6b18ff68a570cc9] and, in the case of an Article 162 valuation means the actuary as defined in Article 162(2) of the Order;
+- “the assessment date” means the date on which the assessment period in relation to the scheme or section, or (where there has been more than one such assessment period) the last one, began;[^key-58816a2869fb404014004aef6865b49c]
+- “Article 127 determination” means a determination by the Board under Article 127(2)(a) of the Order;[^key-0682ff76c9dad359681381ea0adb4739]
+- “Article 127 valuation” means an actuarial valuation under Article 127(2)(b) of the Order;[^key-3b53ec9241fb7d41c1c26203f5003bd6]
+- “Article 136 determination” means a determination by the Board for the purposes of Article 136(2B) of the Order;[^key-f52ecf7b9142e36bb9fb6a22182ce175]
+- “Article 136(9) valuation” means a valuation obtained under Article 136(9) of the Order;[^key-0e52ddfaffde963295e6bbc0738e722c]
+- “Article 136(10A) valuation” means a valuation under Article 136(10A) of the Order;
+- “Article 142 determination” means a determination by the Board under Article 142(3)(a) of the Order;
+- “Article 142 valuation” means a valuation obtained under Article 142(3)(b) of the Order;[^key-0642caccd0cfdf5d940016bb242b5a54]
+- “Article 162 valuation” means an actuarial valuation under that Article of the Order;
+- “Article 75 debt” means so much of the amount treated by Article 75 of the 1995 Order[^f00002] (deficiencies in the assets) as a debt due from the employer to the trustees or managers at the applicable time;
+- “commencement date” means 6th April 2005;
+- “contribution notice” means a notice issued under Article 34 (contribution notices where avoidance of employer debt), 43 (contribution notices where non-compliance with financial support direction) or 51 (contribution notice where failure to comply with restoration order) of the Order;
+- “eligible scheme” has the meaning given by Article 110 of the Order (eligible schemes);
+- “employer”, in relation to—[^key-bc21ab1964dd2a6ee8d4a7b51486beab]
+  - (a) an occupational pension scheme which is not a multi-employer scheme; or
+  - (b) a single-employer section of a segregated scheme,
+
+  which has no active members, includes the person who was the employer of persons in the description of employment to which the scheme or section relates immediately before the time at which the scheme or section ceased to have any active members in relation to it;
+- “employer”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme—
+  - (a) in an assessment period, includes any person who before the assessment date has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, B, C or D is satisfied where—
+    - (i) condition A is that an Article 75 debt became due from that employer and the full amount of the debt has been paid before the assessment date;
+    - (ii) condition B is that—
+      - (aa) such a debt became due;
+      - (bb) a legally enforceable agreement has been entered into the effect of which is to reduce the amount which may be recovered in respect of the debt; and
+      - (cc) the reduced amount has been paid in full before the assessment date;
+    - (iii) condition C is that such a debt became due but before the assessment date it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+    - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due;
+  - (b) in any other case, includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, B, C or D is satisfied where—
+    - (i) condition A is that an Article 75 debt became due from that employer and the full amount of the debt has been paid;
+    - (ii) condition B is that—
+      - (aa) such a debt became due;
+      - (bb) a legally enforceable agreement has been entered into the effect of which is to reduce the amount which may be recovered in respect of the debt; and
+      - (cc) the reduced amount has been paid in full;
+    - (iii) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+    - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due;
+- “employment” means trade, business, profession, office or vocation;
+- “external liabilities” means any liabilities which do not fall due to the members of the scheme;
+- “financial support direction” means a direction issued under Article 39 of the Order (financial support directions);
+- “non-segregated scheme” means a multi-employer scheme which is not a segregated scheme;[^key-a3bcfef5c8becc887396d1883f2b30d7]
+- “pension credit rights” has the meaning given by Article 121(1) of the 1995 Order[^f00003] (interpretation of Part II);
+- “pre-6th April 1997 contract of insurance” means a contract of insurance that—[^key-3566e10ec2ddf5bf898b46c79a84deb2]
+  - (i) falls within the definition of a relevant contract of insurance in Article 145(8) of the Order (effect of Board assuming responsibility for a scheme);
+  - (ii) was taken out before 6th April 1997; and
+  - (iii) the trustees or managers are, or should reasonably be, aware of;
+- “registrable scheme” has the meaning given by Article 55(5) of the Order (registrable information);
+- “relevant accounts” for the purposes of identifying and valuing the assets of a scheme, means audited accounts for the scheme which—[^key-67369e77ce9d57d3d6ac984e6cb88c83]
+  - (a) contain the information specified in the Schedule;
+  - (b) show a true and fair view[^key-80c392c3e4c0d6851afc5703d51ee329] of—
+    - (i) the financial transactions of the scheme during the period to which the accounts relate (“the accounting period”);
+    - (ii) the amount and disposition of the assets at the end of the accounting period; and
+    - (iii) the liabilities of the scheme, other than the liabilities to pay pensions and benefits, after the end of the accounting period;
+  - (c) include a report by the auditor in writing as to whether or not, in his opinion, the requirements of paragraphs (a) and (b) are satisfied; and
+  - (d) are prepared in respect of a period ending with the relevant time of the valuation;
+- “relevant time” for the purposes of Article 162 of the Order, means the date in relation to which the assets and liabilities of the eligible scheme are calculated;
+- “restoration order” has the meaning given by Article 48 of the Order (restoration orders where transactions at an undervalue); [^key-b7cfed2868e1c3488cc4846487a93d2e]...
+- “restricted information” has the meaning given in Article 179 of the Order (restricted information).
+- “segregated scheme” means a multi-employer scheme which is divided into two or more sections where—[^key-81c5d6fa17361244bd347133072ce8be]
+  - (a) any contributions payable to the scheme by an employer in relation to the scheme or by a member are allocated to that employer’s or that member’s section; and
+  - (b) a specified proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
+
+## 2. Provision of actuarial valuation to determine scheme underfunding[^key-d3ff7d1921797df541e38c9d80f23af6]
+
+(1)[^key-651206f9e944f3187511888aae085953] The trustees or managers of an eligible scheme shall provide the Board or the Regulator on the Board’s behalf with its first Article 162 valuation—
+
+- (a) in the case of an eligible scheme which is a registrable scheme prior to 6th April 2007—
+  - (i) within 15 months of the relevant time of that valuation; or
+  - (ii) by 31st March 2008,
+
+  whichever is the earlier;
+- (b) in the case of an eligible scheme which becomes a registrable scheme on or after 6th April 2007, within 15 months of the effective date of the first actuarial valuation obtained by them under Article 203 of the Order (actuarial valuations and reports).
+
+(2)[^key-faa8210d8a537be7f8be90d3a0c538f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-faa8210d8a537be7f8be90d3a0c538f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The relevant time of any subsequent Article 162 valuation must not exceed a period of three years beginning immediately after the relevant time of the previous valuation provided to the Board or the Regulator on the Board’s behalf.
+
+(5) Any subsequent Article 162 valuation shall be provided to the Board or the Regulator on the Board’s behalf within 15 months[^key-adb7a4da3db1ff0410fdf68bcba6eca6] of the relevant time of that valuation.
+
+## 2A. Article 127 determination[^key-0211e935edb8fd71d569b2907919c99d]
+
+(1) This regulation applies where the Board is making an Article 127 determination in respect of an eligible scheme.
+
+(2) The Board must determine the value of the assets and protected liabilities of that scheme—
+
+- (a) by using the information contained in the most recent Article 162 valuation or an appropriate alternative actuarial valuation;
+- (b) by updating that information in accordance with the statement issued by the Board under Article 127(5C) of the Order; and
+- (c) in accordance with regulations 3(a) and (c), 4, 6(1)(a) and (2), and 7(1) to (4)(c).
+
+(3) In this regulation—
+
+- “an appropriate alternative actuarial valuation” means a written valuation of the scheme’s assets and liabilities prepared and signed by the actuary;
+- “the actuary” means—
+  - (a) the actuary appointed under Article 47(1)(b) of the 1995 Order (professional advisers) in relation to the scheme; or
+  - (b) a person who is a Fellow of the Institute and Faculty of Actuaries.
+
+## 3. Excluded assets[^key-7ede614712b78c3aeca09eb2174ef0f9]
+
+There shall be excluded from the value of the eligible scheme’s assets –
+
+- (a) in the case of an Article 127 determination or Article 127[^key-c37c23a9f9b27b522cbbbee2f08c10ba] valuation, any amounts treated as a debt due to the trustees or managers which are unlikely to be recouped without disproportionate cost or unlikely to be recovered within a reasonable time; and
+- (b) in the case of an Article 162 valuation –
+  - (i) any amounts treated as a debt due to the trustees or managers under Article 75 of the 1995 Order (deficiencies in the assets);
+  - (ii) any amounts treated as debt under Article 207(3) of the Order (failure to make payments);
+  - (iii) any resources invested (or treated as invested) in contravention of Article 40 of the 1995 Order (restriction on employer-related investments); and
+  - (iv) any amounts treated as a debt due to the trustees or managers which are unlikely to be recouped without disproportionate cost or unlikely to be recovered within a reasonable time.
+- (c)[^key-583e3b652890fcbd5e3cb3844805f304] in the case of either an Article 127 determination, Article 127 valuation[^key-c08b7e4eee3ca55654230a413c0ccfff] or Article 162 valuation, an amount in respect of the value of any pre-6th April 1997 contract of insurance if—
+  - (i) the trustees or managers have taken all reasonable steps to obtain information concerning that contract of insurance (whether by searching the records of the scheme or otherwise); and
+  - (ii) the information that they provide concerning that contract of insurance is insufficient, in the opinion of the appropriate person, to conduct a valuation.
+
+## 4. Contribution notices, financial support directions and restoration orders[^key-3fa3ffb16f2228c0d6d9ae27a9dc4a58]
+
+Subject to regulation 7(3) and (4), the prescribed requirement for any amount due under a contribution notice, financial support direction or restoration order to be regarded as an asset of the scheme is that the notice, direction or order was issued by the Regulator prior to the date that the determination is made or[^key-3f73aedd7cd111b6ec8ef0697f646d4f] the valuation is approved.
+
+## 5. Valuation of assets[^key-f94b049000d4cce9543e1b4eb4d558bd]
+
+Subject to regulations 3 and 7, in determining the value of the assets of a scheme for the purposes of obtaining an Article 127 valuation or an Article 162 valuation, the appropriate person shall adopt the value given of the assets of the scheme stated in the relevant accounts, less the amount of the external liabilities, and that value shall be taken to be the value of those assets at the relevant time.
+
+## 6. Valuation of protected liabilities[^key-67ca48b0ad663e8438aefc03f60de286]
+
+(1)[^key-f364f5622451018514f199947a3caa51] Subject to regulation 7, in the case of protected liabilities[^f00004] the value of a protected liability shall be –
+
+- (a) for an Article 127 determination or Article 127[^key-fd2261cff92baa458cff1b816ebd0a45] valuation, the estimated cost of securing scheme benefits calculated in accordance with Schedule 6 to the Order (pension compensation provisions) to the member by means of an annuity purchased at the best value rate available in the market as estimated by the Board[^key-645930246e593a28aad1328e0711d316] at the relevant time;
+- (b) for an Article 162 valuation, the estimated cost of securing scheme benefits in accordance with any guidance issued by the Board in accordance with Article 162(4) of the Order, for the member by means of an annuity purchased at the best value rate available in the market as estimated by the Board at the relevant time.
+
+(2)[^key-bff2600a0e74f98fce37fcf2897cbf23] Where regulation 3(c) applies, the amount representing the value of a protected liability in respect of the benefits secured by a pre-6th April 1997 contract of insurance shall be excluded from the valuation of the eligible scheme’s protected liabilities.
+
+## 7. Alternative valuation of assets and protected liabilities in specific cases[^key-97ef7db1d459573924f8dd1f6ef45695]
+
+(1) For the purposes of an Article 127 determination, Article 127 valuation[^key-0727d8ee63832d1c462b5ea41495263d] or Article 162 valuation, where arrangements are being made by the eligible scheme for the transfer to or from it, of accrued rights and any pension credit rights, until such time as the trustees or managers of the scheme to which the transfer is being made (“the receiving scheme”) have received assets of the full amount agreed by them as consideration for the transfer, it shall be assumed –
+
+- (a) that the rights have not been transferred; and
+- (b) that any assets transferred in respect of the transfer of those rights are assets of the scheme making the transfer and not of the receiving scheme.
+
+(2) For the purposes of an Article 127 Article 127 or Article 162 valuation, in the case of a contract of insurance, the value shall be –
+
+- (a) the value of the liability secured where the contract of insurance falls within the definition of a relevant contract of insurance in Article 145(8) of the Order (effect of Board assuming responsibility for a scheme); or where this is not the case either –
+- (b) the surrender value of the contract of insurance; or
+- (c) where it appears to the appropriate person that the surrender value of the contract of insurance does not accurately reflect the actual value at the relevant time; then he shall adopt such a value as appears to him to be appropriate.
+
+(3) In the case of an asset to which regulation 4 applies, the appropriate person shall adopt as the value of the asset, the amount due to the scheme given in the notice, direction or order.
+
+(4) For the purposes of [^key-2beae570b757e3f182818451cc03c8b8]... –
+
+- (a) an Article 127 determination or an Article 127 valuation,[^key-af150b4236b342849b223802acdcaed2] where the appropriate person, in accordance with guidance issued by the Board in accordance with the statement issued by the Board under Article 127(5C) or[^key-c656f84855b1aea19ed1619860eea58e] Article 127(6) of the Order, holds the opinion that any Article 75 debt falling due to the eligible scheme will be recouped in the future then he shall treat the proportion of the Article 75 debt that he believes will be recovered as an asset of the scheme;
+- (b) an Article 127 determination or an Article 127 valuation,[^key-7a013d44452ef93b69207b863c18268b] where any Article 75 debt is recouped between the relevant time and the date the determination is made under Article 127(2)(a) of the Order or the date[^key-d9ca6093cdbd89b83f7930b128d3b031] the valuation is approved under Article 128(2) of the Order (approval of valuation), then the amount so recouped –
+  - (i) shall be treated as an asset of the scheme; and
+  - (ii) the Article 127 determination or Article 127[^key-376c7a0a6c52a49f8120e5de56c45881] valuation shall be adjusted accordingly;
+- (c) an Article 127 determination or an Article 127 valuation,[^key-af4d0fc65a11d12f3928ec49f9cce49a] where an amount is due under a contribution notice, a financial support direction or a restoration order, and
+  - (i) either none of the amount due or only[^key-ce700959abd0de1697aa103a7eb2e0b9] a proportion of the amount due has been recouped; and
+  - (ii) the appropriate person, in accordance with a statement issued by the Board under Article 127(5C) or[^key-87b7ef62ba9d263b5a653b6074dc6d72] any guidance issued by the Board in accordance with Article 127(6) or 162(4) of the Order as appropriate, holds the opinion that no further some or all of the[^key-a64cee3653d38729b59c9456bffc0b67] payments due in relation to the notice or direction will not[^key-9ab4ba27650660994986d5cd6f499af2] be recouped by the scheme; then
+
+  the appropriate person shall adjust the value of the asset contained in the notice or direction to the value recouped by the trustees or managers of the eligible scheme during the pre-approval period.
+- (d) an Article 127 valuation,[^key-43165a3dfbf60c9bfa177129f8a395ed] if the appropriate person –
+  - (i) has been given notice; or
+  - (ii) holds the opinion;
+
+  that the value of any asset set out in the relevant accounts, that is not excluded from the actuarial valuation, is substantially different at the relevant time from that set out in the relevant accounts, then he shall adjust the value of the asset to the market value of the asset at the relevant time; or
+- (e) an Article 127 valuation, where the appropriate person –
+  - (i) has been given notice; or
+  - (ii) holds the opinion
+
+  in accordance with any Board guidance issued in accordance with Article 127(6) of the Order, that there exists an asset of the scheme which is not listed in the relevant accounts, and which is not excluded from the actuarial valuation, then he shall adopt such a value for the asset as he considers is appropriate.
+
+(5) The appropriate person shall not make an adjustment to the value of an interest in real property unless the adjustment reflects a more recent valuation given by a chartered surveyor in accordance with any relevant practice statements and guidance notes issued by the Royal Institution of Chartered Surveyors[^f00005] current on the date that the valuation is signed.
+
+## 7A. Application of these regulations to applications for reconsideration and by closed schemes[^key-aaf42c184f47b060d16e07b4fe0cadef]
+
+(1) Regulations 2A, 3(a) and (c), 4, 6(1)(a) and (2), and 7(1) to (4)(c) apply in relation to an Article 136 determination and an Article 142 determination as they apply in relation to an Article 127 determination.
+
+(2) In the application of regulation 2A to Article 136 determinations and Article 142 determinations, the reference in paragraph (2)(a) to the most recent Article 162 valuation is to be read as a reference to the most recent Article 127 or Article 162 valuation.
+
+(3)[^key-ef924ba6d3540ad4f2d8cf319aa5443a] Regulations 3 to 7 apply in relation to an Article 136(9) valuation, an Article 136(10A) valuation and an Article 142 valuation as they apply in relation to an Article 127 valuation.
+
+(4) In the application of regulations 5 and 7 to an Article 136(9) valuation, an Article 136(10A) valuation or an Article 142 valuation[^key-705bb3a1db7904962b205363919f7afb] —
+
+- (a) the references to “relevant accounts” are to be read as references to “audited scheme accounts” as defined in Article 135(8) of the Order; and
+- (b) the references to “appropriate person” are to be read as references to “person who is a Fellow of the Institute and Faculty of Actuaries”.
+
+## 8. Application of these regulations to multi-employer schemes[^key-7fed637104f5937674ad3327ecc962f6]
+
+In these Regulations, in the case of a scheme which is a multi-employer scheme for the purposes of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005[^f00006], where these Regulations apply to a section or a segregated part of a scheme, which is for the purposes of Part III of the Order, an eligible scheme, for “eligible scheme” and “scheme” substitute “section or segregated part of a scheme”.
+
+## 9. Form and content of Article 127 valuation and notice[^key-4f07002bd327c54415cea0946996ed62]
+
+(1) An Article 127 valuation shall be in writing, and shall contain the following information –
+
+- (a) a statement of the assets and protected liabilities of the eligible scheme calculated in accordance with these Regulations and guidance issued by the Board in accordance with Article 127(6) of the Order;
+- (b) a statement that the valuation was prepared in accordance with these Regulations and any guidance issued by the Board in accordance with Article 127(6);
+- (c) a statement that the valuation does not take effect until the valuation has become binding;
+- (d) a statement that the person who prepared the valuation is an appropriate person;
+- (e) the effective date and the date of issue of the valuation;
+- (f) the name, address and pension scheme registration number of the scheme;
+- (g) the name and address of the appropriate person who prepared and signed the Article 127 valuation;
+- (h) the names and contact details of the trustees or managers of the eligible scheme.
+
+(2) Where an Article 127 valuation becomes binding, the notice which the Board must issue under Article 129(4) shall be in writing and shall contain the following information –
+
+- (a) the name or type of notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) a statement that the valuation under Article 127(2) has become binding;
+- (e) the date on which the approval of valuation notice was issued;
+- (f) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (g) whether the notice issued by the Board contains any restricted information and, if so, the nature of the restriction.
+
+## 9A. Form and content of Article 127A notice of determination[^key-8e024c7951ce85172e5304a5a76f7ec4]
+
+Where an Article 127 determination becomes binding, the notice which the Board must issue under Article 127A(4) shall be in writing and shall contain the following information—
+
+- (a) the name or type of notice issued;
+- (b) the date on which the notice is issued;
+- (c) the name, address and pension scheme registration number of the scheme in respect of which the notice is issued;
+- (d) a statement that the Article 127 determination has become binding;
+- (e) the name of the employer in relation to the scheme in respect of which the notice is issued;
+- (f) whether the notice issued by the Board contains any restricted information and, if so, the nature of the restriction.
+
+## 10. Prescribed qualifications for the purposes of Article 127 and Article 162 of the Order[^key-c48290e115a519929073402ff1b63c85]
+
+For the purpose of the definition of actuarial valuation contained in Article 127(11) and the purpose of the definition of actuary contained in Article 162(2) of the Order, a person with the prescribed qualifications is a Fellow of the Institute and Faculty of Actuaries.[^key-79dbd06ef019e11d26b63434eb6a383b]
+
+Sealed with the Official Seal of the Department for Social Development on 16th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — Contents of Accounts Audited by the Auditor of the Scheme[^key-6486ccb08420d9609b8a0bd8b4f72fd4]
+
+Regulation 1(2)
+
+**1.** An account of the financial additions to, withdrawals from, and changes to, the value of the fund during the accounting period.
+
+**2.** (1) A statement, as at the end of the accounting period, of the assets at market value, or the trustees’ or managers’ estimate thereof where the market value is not readily ascertainable, and liabilities of the scheme, other than liabilities to pay pensions and benefits after the end of the accounting period—
+
+- (a) giving, in the case of any assets which are stated as an estimate of their market value, the reason why the valuation is an estimate;
+- (b) showing the distribution of the investments and other assets of the scheme between each of the following categories (where none of the investments falls within a particular category, that fact is not required to be stated), namely—
+  - (i) insurance policies;
+  - (ii) public sector fixed interest investments, separately showing quoted securities and unquoted securities;
+  - (iii) other fixed interest investments, separately showing quoted securities and unquoted securities;
+  - (iv) index-linked securities, separately showing quoted securities and unquoted securities;
+  - (v) equities (including convertible shares), separately showing quoted equities and unquoted equities;
+  - (vi) property (which in this paragraph means any right or interest in freehold or leasehold land or buildings);
+  - (vii) unit trusts invested in property;
+  - (viii) other unit trusts;
+  - (ix) managed funds (other than unit trusts) invested in property;
+  - (x) other managed funds (not being unit trusts);
+  - (xi) loans (whether or not secured by mortgage);
+  - (xii) cash deposits and cash in hand;
+  - (xiii) investments and other assets not included in sub-heads (i) to (xii); and
+- (c) showing separately, in the case of investments in each category, investments in the United Kingdom and investments outside the United Kingdom, and, in the case of cash investments mentioned in head (b)(vii) to (x), investments where the company operating the unit trust or managed fund is, and where it is not, a company registered in the United Kingdom.
+
+(2) Where the assets include insurance policies which are specifically allocated to the provision of benefits for, and which provide all the benefits payable under the scheme to, particular members or other persons in respect of particular members or both, those policies must be included in the statement and there must be a note of the existence of such policies but that entry need not include their market value or an estimate.
+
+(3) Where the assets—
+
+- (a) are invested only for the purposes of securing additional money purchase benefits derived from voluntary contributions; and
+- (b) are specifically allocated to the provision of additional benefits for particular members or other persons in respect of particular members (or both),
+
+a note that heads (a) and (b) apply must be included in the statement, but that entry need not include the market value or an estimate of value of those assets.
+
+**3.** Where any assets or liabilities are denominated in currencies other than sterling, a conversion of those assets into sterling and an explanation of the basis on which they have been converted.
+
+**4.** Particulars of any investment (other than in UK Government securities) in which more than 5 per cent. of the total value of the net assets of the scheme is invested, and if any such investment is an insurance policy, a statement of its main characteristics.
+
+**5.** Where the scheme has employer-related investments, within the meaning of Article 40(2) of the 1995 Order (restriction on employer-related investments), a statement—
+
+- (a) as to the percentage of the scheme’s resources invested in such investments at the end of the accounting period; and
+- (b) if that percentage exceeds 5 per cent., as to the percentage of the scheme’s resources which are investments to which regulation 13 of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 (investments to which restrictions do not apply) applies.
+
+**6.** In respect of every other amount shown in the accounts other than the amounts referred to in paragraph 7, a statement of the corresponding amount for the scheme year previous to the accounting period, except in a case where regulation 2 of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997 (requirement of trustees or managers to obtain documents) is complied with by the trustees or managers of a scheme for the first time.
+
+**7.** The total amount of the purchases and the total amount of the sales of investments during the accounting period.
+
+**8.** A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines “Financial Reports of Pension Schemes” published by the Pensions Research Accountants Group or another organisation approved for this purpose by the the Financial Reporting Council Limited[^key-52e1193711fba76c2abd1c5eada6ce60] , current at the end of the accounting period and, if not, an indication of where there are any material departures from those guidelines.
+
+(This note is not part of the Regulations.)
+
+These Regulations provide for the assessment of the assets and liabilities of eligible schemes in accordance with Articles 127 and 162 of the Pensions (Northern Ireland) Order 2005 (“the Order”).
+
+The Board of the Pension Protection Fund (“the Board”) is established by section 107 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) (“the Act”) to provide compensation for members of certain occupational pension schemes in the event of the insolvency of the scheme’s sponsoring employer and where the pension scheme is underfunded at a certain level.
+
+Regulation 2 provides that eligible schemes must provide an initial Article 162 actuarial valuation of the scheme’s assets and liabilities by a prescribed date. The Regulation further provides that in the case of Article 162 valuations, the trustees or managers of eligible schemes must provide actuarial valuations to the Board, or to the Pensions Regulator (established under section 1 of the Act) at least every three years after the initial actuarial valuation.
+
+Regulation 3 provides for assets that shall be excluded from the actuarial valuations.
+
+Regulation 4 provides for the circumstances where a payment due to the eligible scheme under a contribution notice, a financial support direction or a restoration order shall be considered to be an asset of the eligible scheme. The regulation also further provides that where such a payment is considered to be an asset the actuarial valuation shall be adjusted accordingly.
+
+Regulation 5 provides for how the value of assets of eligible schemes are to be determined for the purposes of an actuarial valuation under Articles 127 and 162 of the Order.
+
+Regulation 6 provides for the valuation of protected liabilities of the eligible scheme.
+
+Regulation 7 provides for valuation of assets and protected liabilities of the scheme in specific cases where the valuation contained regulations 4, 5 and 6 would not give an accurate picture of the assets and protected liabilities of the eligible scheme.
+
+Regulation 8 provides for the application of these Regulations to multi-employer schemes.
+
+Regulation 9 prescribes the form and content of the notice sent by the Board to the relevant employer when a valuation becomes binding under Article 129 of the Order and also the form and content of the valuation sent by the eligible scheme to the Board.
+
+Regulation 10 prescribes the qualifications required of a person conducting an actuarial valuation under Article 127 or 162 of the Order.
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of Articles 2(5)(a), 127(3) to (5) and (11)(a), 129(4), 162(1)(a), (2) and (3) and 172(1) on 25th February 2005 for the purpose of authorising the making of regulations and on 6th April 2005 for all other purposes.
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); the Pensions (Northern Ireland) Order 2005 is modified in its application to partially guaranteed schemes, hybrid schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55), [84](https://www.legislation.gov.uk/nisr/2005/84) and [91](https://www.legislation.gov.uk/nisr/2005/91)
+
+[^key-9a8c45ab092338dc7fbc4e14bd2edaa6]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-6cee0fba80ecff4ba6b18ff68a570cc9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/2/a)
+
+[^key-58816a2869fb404014004aef6865b49c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2005/357/regulation/6/a)
+
+[^key-0682ff76c9dad359681381ea0adb4739]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/2/b)
+
+[^key-3b53ec9241fb7d41c1c26203f5003bd6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) substituted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/2/c)
+
+[^key-f52ecf7b9142e36bb9fb6a22182ce175]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/2/d)
+
+[^key-0e52ddfaffde963295e6bbc0738e722c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/2/a)
+
+[^key-0642caccd0cfdf5d940016bb242b5a54]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/2/b)
+
+[^f00002]: Footnote: Article 75 is amended by Article 248 of the Pensions (Northern Ireland) Order 2005
+
+[^key-bc21ab1964dd2a6ee8d4a7b51486beab]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) substituted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/6/b)
+
+[^key-a3bcfef5c8becc887396d1883f2b30d7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [6(c)](https://www.legislation.gov.uk/nisr/2005/357/regulation/6/c)
+
+[^f00003]: Footnote: The definitions of “pension credit”, “pension credit member” and “pension credit rights” were inserted by paragraph 50(3) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
+
+[^key-3566e10ec2ddf5bf898b46c79a84deb2]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) inserted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/2/a) (with [reg. 5(1)](https://www.legislation.gov.uk/nisr/2007/193/regulation/5/1))
+
+[^key-67369e77ce9d57d3d6ac984e6cb88c83]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/nisr/2007/193/regulation/5/1))
+
+[^key-80c392c3e4c0d6851afc5703d51ee329]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2/b) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/78/regulation/3)
+
+[^key-b7cfed2868e1c3488cc4846487a93d2e]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) omitted (19.8.2005) by virtue of [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [6(d)](https://www.legislation.gov.uk/nisr/2005/357/regulation/6/d)
+
+[^key-81c5d6fa17361244bd347133072ce8be]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/2) added (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [6(e)](https://www.legislation.gov.uk/nisr/2005/357/regulation/6/e)
+
+[^key-d3ff7d1921797df541e38c9d80f23af6]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-651206f9e944f3187511888aae085953]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/2/1) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/3/a)
+
+[^key-faa8210d8a537be7f8be90d3a0c538f5]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/2/2)[(3)](https://www.legislation.gov.uk/nisr/2005/131/regulation/2/3) omitted (6.4.2007) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/3/b)
+
+[^key-adb7a4da3db1ff0410fdf68bcba6eca6]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/131/regulation/2/5) substituted (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/3/c)
+
+[^key-0211e935edb8fd71d569b2907919c99d]: Textual amendment: [reg. 2A](https://www.legislation.gov.uk/nisr/2005/131/regulation/2A) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/3)
+
+[^key-7ede614712b78c3aeca09eb2174ef0f9]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-c37c23a9f9b27b522cbbbee2f08c10ba]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/nisr/2005/131/regulation/3/a) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/4/a)
+
+[^key-583e3b652890fcbd5e3cb3844805f304]: Textual amendment: [Reg. 3(c)](https://www.legislation.gov.uk/nisr/2005/131/regulation/3/c) added (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/4)
+
+[^key-c08b7e4eee3ca55654230a413c0ccfff]: Textual amendment: Words in [reg. 3(c)](https://www.legislation.gov.uk/nisr/2005/131/regulation/3/c) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/4/b)
+
+[^key-3fa3ffb16f2228c0d6d9ae27a9dc4a58]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-3f73aedd7cd111b6ec8ef0697f646d4f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2005/131/regulation/4) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/5)
+
+[^key-f94b049000d4cce9543e1b4eb4d558bd]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-67ca48b0ad663e8438aefc03f60de286]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-f364f5622451018514f199947a3caa51]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/6/1): reg. 6 renumbered as reg. 6(1) (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/5/a)
+
+[^f00004]: Footnote: The term “protected liabilities” is defined in Article 115(1) of the Pensions (Northern Ireland) Order 2005
+
+[^key-fd2261cff92baa458cff1b816ebd0a45]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2005/131/regulation/6/1/a) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(6)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/6)
+
+[^key-645930246e593a28aad1328e0711d316]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2005/131/regulation/6/1/a)[(b)](https://www.legislation.gov.uk/nisr/2005/131/regulation/6/1/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/3)
+
+[^key-bff2600a0e74f98fce37fcf2897cbf23]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/6/2) added (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/5/b)
+
+[^key-97ef7db1d459573924f8dd1f6ef45695]: Commencement: Reg. 7 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-0727d8ee63832d1c462b5ea41495263d]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/1)[(2)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/2) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/a)
+
+[^key-2beae570b757e3f182818451cc03c8b8]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4) omitted (23.7.2012) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(b)(i)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/b/i)
+
+[^key-af150b4236b342849b223802acdcaed2]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/a) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/aa)
+
+[^key-c656f84855b1aea19ed1619860eea58e]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/a) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(ii)(bb)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/b/ii)
+
+[^key-7a013d44452ef93b69207b863c18268b]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/b) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(iii)(aa)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/aa)
+
+[^key-d9ca6093cdbd89b83f7930b128d3b031]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/b) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(iii)(bb)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/b/ii)
+
+[^key-376c7a0a6c52a49f8120e5de56c45881]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/b) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(iii)(cc)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/b/ii)
+
+[^key-af4d0fc65a11d12f3928ec49f9cce49a]: Textual amendment: Words in [reg. 7(4)(c)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/c) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(iv)(aa)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/aa)
+
+[^key-ce700959abd0de1697aa103a7eb2e0b9]: Textual amendment: Words in [reg. 7(4)(c)(i)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/c/i) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/4/a)
+
+[^key-87b7ef62ba9d263b5a653b6074dc6d72]: Textual amendment: Words in [reg. 7(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/c/ii) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(iv)(bb)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/b/iv)
+
+[^key-a64cee3653d38729b59c9456bffc0b67]: Textual amendment: Words in [reg. 7(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/c/ii) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(4)(b)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/4/b/i)
+
+[^key-9ab4ba27650660994986d5cd6f499af2]: Textual amendment: Words in [reg. 7(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/c/ii) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/4/b/ii)
+
+[^key-43165a3dfbf60c9bfa177129f8a395ed]: Textual amendment: Words in [reg. 7(4)(d)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/d)[(e)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7/4/e) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(7)(b)(v)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/7/b/v)
+
+[^f00005]: Footnote: The Royal Institution of Chartered Surveyors can be contacted at RICS Contact Centre, Surveyor Court, Westwood Way, Coventry, CV4 8JE
+
+[^key-aaf42c184f47b060d16e07b4fe0cadef]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2005/131/regulation/7A) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(8)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/8)
+
+[^key-ef924ba6d3540ad4f2d8cf319aa5443a]: Textual amendment: [Reg. 7A(3)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7A/3) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/5/a)
+
+[^key-705bb3a1db7904962b205363919f7afb]: Textual amendment: Words in [reg. 7A(4)](https://www.legislation.gov.uk/nisr/2005/131/regulation/7A/4) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/5/5/b)
+
+[^key-7fed637104f5937674ad3327ecc962f6]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91)
+
+[^key-4f07002bd327c54415cea0946996ed62]: Commencement: Reg. 9 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-8e024c7951ce85172e5304a5a76f7ec4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2005/131/regulation/9A) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [5(9)](https://www.legislation.gov.uk/nisr/2012/270/regulation/5/9)
+
+[^key-c48290e115a519929073402ff1b63c85]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/131/regulation/1/1)
+
+[^key-79dbd06ef019e11d26b63434eb6a383b]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2005/131/regulation/10) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [10](https://www.legislation.gov.uk/nisr/2012/113/regulation/10)
+
+[^key-6486ccb08420d9609b8a0bd8b4f72fd4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2005/131/schedule) added (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2007/193/regulation/3/6), [Sch.](https://www.legislation.gov.uk/nisr/2007/193/schedule)
+
+[^key-52e1193711fba76c2abd1c5eada6ce60]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/131/schedule/paragraph/8) substituted (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2012/294/regulation/2), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/9)

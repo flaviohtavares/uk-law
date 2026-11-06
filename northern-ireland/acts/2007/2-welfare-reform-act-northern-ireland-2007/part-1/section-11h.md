@@ -1,0 +1,52 @@
+---
+title: Welfare Reform Act (Northern Ireland) 2007, section 11H
+act: Welfare Reform Act (Northern Ireland) 2007
+section: 11H
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2007/2/section/11H
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Welfare Reform Act (Northern Ireland) 2007, section 11H
+
+> **Warning: changes not yet applied to this text (51).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/nia/2007/2
+>
+> Extent: Northern Ireland.
+
+## 11H. Imposition of requirements[^key-aa62d3abae110adc528b9050040b2716]
+
+*Extent: N.I.*
+
+(1) Regulations may make provision—
+
+- (a) where the Department may impose a requirement under this Part, as to when the requirement must or must not be imposed;
+- (b) where the Department may specify any action to be taken in relation to a requirement under this Part, as to what action must or must not be specified;
+- (c) where the Department may specify any other matter in relation to a requirement under this Part, as to what must or must not be specified in respect of that matter.
+
+(2) Where the Department may impose a work-focused interview requirement, the Department must have regard to such matters as may be prescribed.
+
+(3) Where the Department may specify a particular action under section 11C(1), the Department must have regard to such matters as may be prescribed.
+
+(4) Where the Department may impose a requirement under this Part, the Department may revoke or change what has been imposed or specified.
+
+(5) Where the Department may specify any action to be taken in relation to a requirement imposed under this Part, the Department may revoke or change what has been specified.
+
+(6) Notification of a requirement imposed under this Part (or any change to or revocation of such a requirement) is, if not included in the claimant commitment, to be in such manner as the Department may determine.
+
+(7) Regulations must make provision to secure that, in prescribed circumstances, where a person has recently been a victim of domestic violence—
+
+- (a) a requirement imposed on that person under this Part ceases to have effect for a period of 13 weeks, and
+- (b) the Department may not impose any other requirement on that person during that period.
+
+(8) For the purposes of subsection (7)—
+
+- (a) “domestic violence” has such meaning as may be prescribed;
+- (b) “**victim of domestic violence**” means a person on or against whom domestic violence is inflicted or threatened (and regulations under subsection (7) may prescribe circumstances in which a person is to be treated as being or not being a victim of domestic violence);
+- (c) a person has recently been a victim of domestic violence if a prescribed period has not expired since the violence was inflicted or threatened.
+
+## Annotations
+
+[^key-aa62d3abae110adc528b9050040b2716]: Textual amendment: S. 11 11L and crossheading substituted for (2.5.2016 for specified purposes, 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [63(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/2); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))

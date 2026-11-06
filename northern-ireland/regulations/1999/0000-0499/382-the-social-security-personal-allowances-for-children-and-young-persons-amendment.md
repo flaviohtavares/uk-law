@@ -1,0 +1,146 @@
+---
+title: The Social Security (Personal Allowances for Children and Young Persons Amendment) Regulations (Northern Ireland) 1999
+id: nisr/1999/382
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-09-14'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/382
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/382/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Personal Allowances for Children and Young Persons Amendment) Regulations (Northern Ireland) 1999
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 382
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Personal Allowances for Children and Young Persons Amendment) Regulations (Northern Ireland) 1999
+
+Made
+
+14th September 1999
+
+Coming into operation in accordance with regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 131(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 2(1) and (2)(b) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-34ba587ada654f4274cd7428ae708575]
+
+(1) These Regulations may be cited as the Social Security (Personal Allowances for Children and Young Persons Amendment) Regulations (Northern Ireland) 1999 and both this regulation and regulation 2(2) shall come into operation on 4th October 1999.
+
+(2) Regulation 2(1)(a) shall, subject to paragraphs (3) and (5), come into operation on 4th October 1999.
+
+(3) In so far as regulation 2(1)(a) amends the Income Support Regulations then, in the case of a claimant whose benefit week does not commence on 4th October 1999, that regulation shall have effect from the first day of the first benefit week to commence for that claimant after that date.
+
+(4) In paragraph (3) “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00005] and “benefit week”[^f00006] and “claimant” shall have the same meanings as in regulation 2(1) of those Regulations.
+
+(5) In so far as regulation 2(1)(a) amends the Jobseeker’s Allowance Regulations then, in the case of a claimant whose benefit week does not commence on 4th October 1999, that regulation shall have effect from the first day of the first benefit week to commence for that claimant after that date.
+
+(6) In paragraph (5) “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00007] and “benefit week”[^f00008] shall have the same meaning as in regulation 1(2) of those Regulations.
+
+(7) Regulation 2(1)(b) in so far as it amends provisions relating to—
+
+- (a) income support and jobseeker’s allowance, shall come into operation on 10th April 2000;
+- (b) housing benefit—
+  - (i) in any case where rent is payable at intervals of one month or any other interval which is not a week or a multiple thereof, shall come into operation on 1st April 2000;
+  - (ii) in any other case, shall come into operation on 3rd April 2000.
+
+(8) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Income support, jobseeker’s allowance and housing benefit: personal allowances in respect of children and young persons[^key-f4f88d88b44cabcd03d935fbefea9af9][^key-e12c5ab3f4e256d4a7e0a3dcd7ed01a8][^key-79621a54d508bcd7733472d74e2f77f4][^key-16e546d2b7234c1d1b626c7ea38083f4]
+
+(1) In each of the provisions specified in paragraph (2) (which specify the personal allowances to be applied in respect of children and young persons when calculating applicable amounts)—
+
+- (a)[^key-8fe9e43c544c18191a36169b058a8a23] in column (2) of the table, in entry (a), for “£20.20” there shall be substituted “£24.90”;
+- (b)[^key-f4f88d88b44cabcd03d935fbefea9af9][^key-e12c5ab3f4e256d4a7e0a3dcd7ed01a8][^key-79621a54d508bcd7733472d74e2f77f4] for columns (1) and (2) of the table there shall be substituted the following—
+
+  > |  |  |
+  > | --- | --- |
+  > | Person in respect of the period—<br>- (a) beginning on, and including, that person’s date of birth and ending on the day preceding the first Monday in September following that person’s sixteenth birthday; | - (a) £25.90; |
+  > | - (b) beginning on, and including, the first Monday in September following that person’s sixteenth birthday and ending on the day preceding that person’s nineteenth birthday. | - (b) £30.95. |
+
+  .
+
+(2)[^key-16e546d2b7234c1d1b626c7ea38083f4] The provisions specified for the purposes of paragraph (1) are—
+
+- (a) paragraph 2(1) of Schedule 2 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00010];
+- (b)[^key-f6016bace61f7ad936c6802b9b0f4aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraph 2(1) of Schedule 1 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00012].
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+W. B. J. Davis
+
+Assistant Secretary
+
+14th September 1999.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 2(1) and (2)(b) of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. McCormick
+
+Assistant Secretary
+
+14th September 1999.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+In particular, regulation 2 of these Regulations increases by £4£70 from October 1999, the amount of the weekly personal allowance which is applicable in respect of children before the first Monday in the September following their eleventh birthday in income support, jobseeker’s allowance and housing benefit and, from April 2000 applies the rate for 11 to 16 year olds to all children below 16.
+
+In so far as these Regulations are required, for the purposes of regulation 2(1) and (2)(b) to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-34ba587ada654f4274cd7428ae708575]: Commencement: Reg. 1 in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476) and [S.R. 1999 No. 50](https://www.legislation.gov.uk/nisr/1999/50)
+
+[^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00007]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1996 Nos. 358](https://www.legislation.gov.uk/nisr/1996/358), [476](https://www.legislation.gov.uk/nisr/1996/476) and [503](https://www.legislation.gov.uk/nisr/1996/503) and S.R [1999 No. 50](https://www.legislation.gov.uk/nisr/1999/50)
+
+[^f00008]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(a) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-f4f88d88b44cabcd03d935fbefea9af9]: Commencement: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/1999/382/regulation/2/1/b) in operation at 1.4.2000 for specified purposes, see [reg. 1(7)(b)(i)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/7/b/i)
+
+[^key-e12c5ab3f4e256d4a7e0a3dcd7ed01a8]: Commencement: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/1999/382/regulation/2/1/b) in operation at 3.4.2000 for specified purposes, see [reg. 1(7)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/7/b/ii)
+
+[^key-79621a54d508bcd7733472d74e2f77f4]: Commencement: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/1999/382/regulation/2/1/b) in operation at 10.4.2000 for specified purposes, see [reg. 1(7)(a)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/7/a)
+
+[^key-16e546d2b7234c1d1b626c7ea38083f4]: Commencement: Reg. 2(2) in operation at 4.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/1)
+
+[^key-8fe9e43c544c18191a36169b058a8a23]: Commencement: [Reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1999/382/regulation/2/1/a) in operation at 4.10.1999 with effect in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/3)[(5)](https://www.legislation.gov.uk/nisr/1999/382/regulation/1/5)
+
+[^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476) and [S.R. 1999 No. 50](https://www.legislation.gov.uk/nisr/1999/50)
+
+[^key-f6016bace61f7ad936c6802b9b0f4aca]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/1999/382/regulation/2/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00012]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476) and [S.R. 1999 No. 50](https://www.legislation.gov.uk/nisr/1999/50)

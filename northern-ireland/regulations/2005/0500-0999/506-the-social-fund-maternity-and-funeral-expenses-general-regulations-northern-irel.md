@@ -1,0 +1,843 @@
+---
+title: The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005
+id: nisr/2005/506
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-11-14'
+text_date: '2026-07-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/506
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/506/pdfs/nisr_20050506_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/506/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005
+
+> Text as at 2026-07-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 506
+
+SOCIAL SECURITY
+
+The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005
+
+Made
+
+14th November 2005
+
+Coming into operation
+
+5th December 2005
+
+The Department for Social Development, in exercise of the powers conferred by sections 134(1)(a) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-14fd890f6ec81bcad3b9d870601750aa]
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-5ee3368e4b12413053ee05826816f2c8]
+
+These regulations may be cited as the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
+
+### 2. Interpretation[^key-5e3f171c035c7b9a88ec88bd53fc0014]
+
+(1) In these Regulations —
+
+- “the Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “the 2015 Order” means the Welfare Reform (Northern Ireland) Order 2015;[^key-8a02d77eb78dacd10becc3101a3d208a]
+- “[^key-f7f8176b782899dfc118f12905452145]the Order” means the Jobseekers (Northern Ireland) Order 1995;
+- “the 2007 Act” means the Welfare Reform Act (Northern Ireland) 2007
+- “the Adoption Order” means the Adoption (Northern Ireland) Order 1987;[^key-53af61b5d5620232625c4748627b3f11]
+- “the Children Order” means the Children (Northern Ireland) Order 1995;
+- “the[^key-3126b24b41afa6259d4e35aacc3631df] Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations (Northern Ireland) 2008;
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00003];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00004];
+- “absent parent” means a parent of a child who has died where—
+  - (a) that parent was not living in the same household with the child at the date of that child’s death; and
+  - (b) that child had his home, at the date of death, with a person who was responsible for that child for the purposes of Part IX of the Act;
+- “adoption agency” has the meaning given in Article 2(2) of the Adoption Order;[^key-ba84c53d3326cec390cbd9be3e06871b]
+- “adoption order” means an order made under Article 12 of the Adoption Order;
+- “child” means a person under the age of 16 or a young person within the meaning of regulation 14 of the Income Support Regulations[^f00005] or, as the case may be, of regulation 76 of the Jobseeker’s Allowance Regulations[^f00006];
+- “child tax credit” means a child tax credit under section 8 of the Tax Credits Act 2002[^f00007];
+- “claimant” means a person claiming a social fund payment in respect of maternity or funeral expenses;
+- “close relative” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-son-in-law, step-daughter, step-daughter-in-law, brother, brother-in-law, sister or sister-in-law;
+- “confinement” means labour resulting in the birth[^key-38f58d5b1178563d7b0ef07dbc044b37] of a living child, or labour after 24 weeks of pregnancy resulting in the birth of a child whether alive or dead;
+- “couple” means—[^key-791b82ddbf10a4c2e590a2f176d87ecd]
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;
+- “family” means—
+  - (a) a couple and any children who are members of the same household and for whom at least one of the couple is responsible;
+  - (b) a person who is not a member of a couple and any children who are members of the same household and for whom that person is responsible;
+  - (c) except where the claimant is in receipt of universal credit,[^key-33e20e3cdedaec1bdf7e1859fac02439] persons who are members of a polygamous marriage who are members of the same household and any children who are also members of the same household and for whom a member of the polygamous marriage is responsible;
+- [^key-200a96d497b325a12106bba30ab1fe9f]...
+  - (a)
+  - (b)
+- [^key-e674c675033b636a3d1ced5ca62a6c16]...
+- “funeral payment” has the meaning given in regulation 7(1)(a);
+- “guardian” means a person appointed as a guardian under Article 159 or 160 of the Children Order ;[^key-32cbc769efcbb53874785fd858419b36]
+- “health professional” means—
+  - (a) a registered medical practitioner; or
+  - (b) a registered nurse or registered midwife;
+- “immediate family member” means a parent, son or daughter;
+- “income-based jobseeker’s allowance” has the same meaning as it has in the Jobseekers (Northern Ireland) Order 1995 by virtue of Article 2(2) of that Order[^f00010];
+- “income-related employment and support allowance” means an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007;[^key-6f71729723d648af2386e30978994041]
+- “occupational pension scheme” has the same meaning as in section 1 of the Pension Schemes (Northern Ireland) Act 1993[^f00011];
+- “order freeing a child for adoption” has the meaning given in Article 2(2) of the Adoption Order;[^key-97c27ace559321c97c36c0f7276467f4]
+- “owner-occupier loan payments” means loan payments under the Loans for Mortgage Interest Regulations (Northern Ireland) 2017;[^key-499d857e61d802190c5b8943a97c5888]
+- “parental order” means an order made under section 30 of the Human Fertilisation and Embryology Act 1990 (parental orders) or section 54 or section 54A[^key-6a30a20f204417cdea120189aef0c8a9] of the Human Fertilisation and Embryology Act 2008 (parental orders);
+- “partner” means where a person—
+  - (a) is a member of a couple[^key-f01e3bc640cd50f976646f9daeab53d3] , the other member of that couple;
+  - (b) is married polygamously to two or more members of his household, any such member except that paragraph (b) does not apply where the claimant is in receipt of universal credit[^key-5c023e7d59911b5233d4fe43c4eb3503] ;
+- “person affected by a trade dispute” means a person—
+  - (a) to whom section 125 of the Act[^f00012] applies; or
+  - (b) to whom that section would apply if a claim for income support were made by or in respect of him;
+- “prescribed time for claiming” means the appropriate period during which a Sure Start Maternity Grant or, as the case may be, a funeral payment, may be claimed pursuant to regulation 19(1) of, and Schedule 4 to, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00013];
+- “qualifying order” has the meaning given in regulation 3A(6);[^key-6f8d3f5c971502760af38a9da6bfde64]
+- “residence order” means a residence order as defined in Article 8(1) and made under Article 10 of the Children Order (power of court to make Article 8 orders);
+- “responsible person” has the same meaning given in regulation 7(1)(b);
+- “still-born child” has the same meaning as the definition of “still-birth” in the Births and Deaths Registration (Northern Ireland) Order 1976[^f00014];
+- “Sure Start Maternity Grant” is to be construed in accordance with regulation 5;
+- “universal credit” means universal credit under Part 2 of the 2015 Order;[^key-c415fb4e90b7c8b980cd88432dce5272]
+- “working tax credit” means a working tax credit under section 10 of the Tax Credits Act 2002.
+
+(1A)[^key-e8d5cef391501f09b87e4a796d8ac729] References in these Regulations to—
+
+- (a) Article 2, 12 or 39 of the Adoption Order; and
+- (b) Article 8, 10, 159 or 160 of the Children Order,
+
+are to be construed as including a reference to a provision (if any) in legislation which has equivalent effect in England and Wales, Scotland, the Channel Islands or the Isle of Man.
+
+(2) For the purposes of Part III of these Regulations, persons shall be treated as members of the same household where—
+
+- (a) they are married to each other, or in a civil partnership with each other, and are living in the same care establishment; or
+- (b) they were partners immediately before at least one of them moved permanently into such an establishment,
+
+and at least one of them is resident in a care establishment as at the date of death of the person in respect of whom a funeral payment is claimed.
+
+(3) In paragraph (2), “care establishment” means—
+
+- (a) a residential care home;
+- (b) a nursing home;
+- (c) an Abbeyfield Home; or
+- (d) an independent hospital,
+
+as defined in regulation 2(1)[^f00015] of the Income Support Regulations .[^key-0b1a3eac3acbe5a0f5527c7e60139377]
+
+(4) For the purposes of these Regulations—
+
+- (a) persons are to be treated as not being members of the same household in the circumstances set out in regulation 16(2) and (3)(a), (b) and (d) of the Income Support Regulations[^f00016] , in regulation 156 of the[^key-a4df46a04da81daccd3c23df7cfb2a4b] Employment and Support Allowance Regulations or, as the case may be, in regulation 78(2) and (3)(a) to (c) of the Jobseeker’s Allowance Regulations[^f00017];
+- (b) except where the claimant is in receipt of universal credit,[^key-7b2eac5911cf24c667484ef7d4f1e401] a person shall be treated as a member of a polygamous marriage where, during the subsistence of that marriage, a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy.
+- (c)[^key-f3960183dceba12f8eeb5f832d346a75] a person being treated as entitled to a benefit has the meaning given to it in regulation 2(2)(aa) of the Loans for Mortgage Interest Regulations (Northern Ireland) 2017.
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00018] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+### 3. Revocation[^key-4f6799553c43f23143b257daec90e03b]
+
+The Regulations specified in the Schedule are revoked to the extent specified there.
+
+### 3A. Provision against double payment: Sure Start Maternity Grants[^key-6ff20d6989707953b5534af7f888e3d2]
+
+(1) In this regulation—
+
+- (a) “C” is the child in respect of whom a Sure Start Maternity Grant has been claimed;
+- (b) “first grant” is a first Sure Start Maternity Grant or a Best Start Grant[^key-a3a3460ec4d1016efdf73b70b55679ee] in respect of C; and
+- (c) “subsequent grant” is, in respect of C—[^key-23bac0fcd4aba722073decc66551ae7a]
+  - (i) a second or subsequent Sure Start Maternity Grant; or
+  - (ii) if a Best Start Grant has been given, a first Sure Start Maternity Grant;
+- (d) “Best Start Grant” is a grant given to a qualifying individual under Regulations made under section 32 of the Social Security (Scotland) Act 2018 in connection with having, or expecting to have, a new baby in the family.
+
+(2) Subject to paragraph (3), a subsequent[^key-6f82d8d4160663f3cbb1b91a86c31660] grant may not be awarded if a first grant has been awarded.
+
+(3) A subsequent[^key-0890abebee6e1932a1ddd62f9720e664] grant may be awarded to a person (“P”) if the following conditions are satisfied.
+
+(4) The first condition is that P—
+
+- (a) alone, or together with another person, has been granted a qualifying order; or
+- (b) falls within regulation 5(3)(b), (d), (e) or (f).
+
+(5) The second condition is that P—
+
+- (a) has not already received a first grant; or
+- (b) was not, at the time a first grant was claimed, a member of the family of a person to whom a first grant has been paid.
+
+(6) A qualifying order is one of the following types of order—
+
+- (a) an adoption order;
+- (b) a parental order;
+- (c) a residence order.
+
+### 4. Provision against double payment: funeral payments
+
+(1) Subject to paragraph (2), no funeral payment shall be made under these Regulations if such a payment , or an award of funeral expense assistance given in accordance with regulations made under section 34 of the Social Security (Scotland) Act 2018,[^key-ba3df3716ec17c1e278958b1f1c1e824] has already been made in respect of any funeral expenses arising from the death of the same person.
+
+(2) A further funeral payment may be made in respect of any funeral expenses arising from the death of a person in respect of which such a payment has already been made where—
+
+- (a) the decision pursuant to which the funeral payment was awarded has been revised; and
+- (b) the further amount of the award as revised, together with the amount of the funeral payment already paid in respect of the death of that person, does not exceed the amount of any funeral payment which may be awarded pursuant to regulation 9.
+
+(3)[^key-a1a85547948087a66a5a9df58d572ef4] No funeral payment may be made under these Regulations for an item or service for which payment has been received under the Social Fund (Child Funeral Fund) (No. 2) Regulations (Northern Ireland) 2022
+
+## PART II — PAYMENTS FOR MATERNITY EXPENSES in Northern Ireland[^key-ee5004b4970da766cedd37f3d002fe15]
+
+### 4A. Persons to be treated as responsible for children[^M_F_5e8cc30b-ed34-45c7-fe6d-be8ee1d61a80]
+
+(1) For the purposes of this Part, subject to paragraph (4), a person (“P”) is to be treated as responsible for a child if paragraph (2) or (3) applies.
+
+(2) This paragraph applies if—
+
+- (a) P is receiving child benefit in respect of the child, unless P is a child in respect of whom another person is receiving child benefit; or
+- (b) no one is receiving child benefit in respect of the child but the child usually lives with P.
+
+(3) This paragraph applies where P is receiving child benefit in respect of a child who is in receipt of child benefit in respect of another child, in which case P is to be treated as responsible for both children.
+
+(4) P is not to be treated as responsible for a child if the child is—
+
+- (a) being looked after by a authority within the meaning given by Article 2 of the Children Order unless the child usually lives with P; or
+- (b) detained in custody pending trial or sentence upon conviction or under a sentence imposed by a court.
+
+### 5. Entitlement[^key-d1dbe8d26f9d95aa3842c974fbb3eec7]
+
+(1) Subject to regulations 5A and 6[^M_F_c36bda4a-34f4-4d4e-ae74-8e0b176cff36], a payment of £500 to meet maternity expenses (referred to in these Regulations as a “Sure Start Maternity Grant”) shall be made in respect of a child or still-born child where the following conditions are satisfied.
+
+(2) The first condition is that the claimant or the claimant’s partner has, in respect of the date of the claim for a Sure Start Maternity Grant, been awarded—
+
+- (a) income support;
+- (b) state pension credit;
+- (c) an income-based jobseeker’s allowance;
+- (d) working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (maximum rate) is included in the award;
+- (e) child tax credit which includes an individual element or a disability element referred to in section 9(3) of the Tax Credits Act 2002[^key-6e46806b92b0e8fe2eb8d5bee4144b33] ; [^key-67ae05e97fa9c9428064a5b6e43bc773]...
+- (f) an income-related employment and support allowance [^key-51c249f279fc712b2bcacfdb16dfb8f1]...
+- (g)[^key-19b94d04eb53827d91825f52fc4ebc91] universal credit or[^key-d7f57edbce20a715b0bcdbb8ed938522]
+- (h)[^key-52214fc37960f56b3532b1e0d2639520] owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (a) to (c) and (f).
+
+(3) The second condition is that—
+
+- (a) the claimant or, if the claimant is a member of a family, one of the family is pregnant or has given birth to a child or a still-born child;
+- (b) the child’s parents are not partners at the date of the claim and the claimant—[^M_F_9247905e-8480-491c-9f7a-87b8e463d2f8]
+  - (i) is the parent (but not the mother) of the child (who must not exceed the age of twelve months at the date of the claim), or is responsible for that parent, and
+  - (ii) is responsible for the child;
+- (c) the claimant or the claimant’s partner—
+  - (i) has been granted a qualifying order in respect of a child who does not exceed the age of twelve months at the date of the claim, and
+  - (ii) ii)is responsible for the child;
+- (d) the claimant or the claimant’s partner—
+  - (i) has been appointed the guardian of a child who does not exceed the age of twelve months at the date of the claim, and
+  - (ii) ii)is responsible for the child;
+- (e) a child who does not exceed the age of twelve months at the date of the claim has been placed by an adoption agency with the claimant or the claimant’s partner, by virtue of an order freeing a child for adoption and the claimant or claimant’s partner is responsible for the child; or
+- (f) the claimant or the claimant’s partner has adopted a child who does not exceed the age of twelve months at the date of the claim and that adoption falls within Article 39(1)(cc) and (d) of the Adoption Order (meaning of “adoption” in Part V).
+
+(4)[^key-cb9391bab83cc3cb26747989958fe055] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The third[^key-f63db98a67b9fb474346fb5fa11600e0] condition is that the claim is made within the prescribed time for claiming a Sure Start Maternity Grant.
+
+(6)[^key-f4f20756b214ce48150f265132b9ddf2] The fourth[^key-26de2f933e47965dc77bf1b622281ab2] condition is that the claimant lives in Northern Ireland.
+
+### 5A. Entitlement where another member of the claimant’s family is under the age of 16[^key-cd7bf899be884ad6d847713eba4caa60]
+
+(1) In this regulation—
+
+- (a) “C” means the child or still-born child in respect of whom a Sure Start Maternity Grant is claimed; and
+- (b) “existing member of the family” has the meaning given in paragraph (2) or, as the case may be, (3).
+
+(2) Where a parent of C (“P”) is under the age of 20 and a member of the claimant’s family, “existing member of the family” means any member of the claimant’s family who is also a child of P, apart from C or any other child born as a result of the same pregnancy as C.
+
+(3) In any other case, “existing member of the family” means any member of the claimant’s family apart from—
+
+- (a) C;
+- (b) any other child born as a result of the same pregnancy as C;
+- (c) any child whose parent is under the age of 20 and a member of the claimant’s family.
+- (d)[^key-6a575c41850606492cadc1d68dd13889] any child—
+  - (i) who was not, at the time of the child’s birth, a child of the claimant (or, where the claimant has a partner at the date of claim, the claimant’s partner), and
+  - (ii) whose age, at the time that the claimant (or, where the claimant has a partner at the date of claim, the claimant’s partner) first became responsible for that child, exceeded 12 months.
+
+(4) Subject to the following provisions of this regulation, a Sure Start Maternity Grant shall not be awarded if, at the date of claim, any existing member of the family is under the age of 16
+
+(5) Where C is one of two or more children—
+
+- (a) born or still-born as a result of the same pregnancy, or
+- (b) (if the claim is made before the confinement in a case where regulation 5(3)(a) applies) who are expected to be born as a result of the same pregnancy,
+
+the number of Sure Start Maternity Grants to be awarded is to be determined in accordance with paragraphs (6) and (7).
+
+(6) Where at the date of claim no existing member of the family is under the age of 16 a Sure Start Maternity Grant is to be awarded in respect of each of the children mentioned in paragraph (5).
+
+(7) Where at the date of claim any existing member of the family is under the age of 16 then—
+
+- (a) where each of those existing members of the family under the age of 16 was born as a result of separate pregnancies, a Sure Start Maternity Grant is to be awarded for all but one of the children mentioned in paragraph (5); and
+- (b) where two or more of those existing members of the family under the age of 16 were born as a result of a single pregnancy, the number of Sure Start Maternity Grants to be awarded in respect of the children mentioned in paragraph (5) is the number of children mentioned in paragraph (5) minus the maximum number of existing members of the family born as a result of a single pregnancy.
+
+(8)[^key-98b1402e83149e91edb6004e875594c6] A Sure Start Maternity Grant shall be awarded if—
+
+- (a) at the date of claim, any existing member of the family is under the age of 16;
+- (b) the claimant is a person to whom paragraph (9) or (10) applies;
+- (c) no Sure Start Maternity Grant has been awarded to the claimant—
+  - (i) where the claimant is a person to whom paragraph (9) applies, on or after 15th August 2021;
+  - (ii) where the claimant is a person to whom paragraph (10) applies, on or after 24th February 2022; and
+- (d) the other conditions for entitlement to the grant are satisfied.
+
+(9) This paragraph applies where the claimant is—
+
+- (a) a person granted leave in accordance with the immigration rules made under section 3(2) of the Immigration Act 1971 (“**the 1971 Act**”) by virtue of—
+  - (i) Appendix Afghan Relocations and Assistance Policy of those rules; or
+  - (ii) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme); or
+- (b) a person in Northern Ireland not coming within sub-paragraph (a) who left Afghanistan in connection with the collapse of the Afghan government that took place on 15th August 2021.
+
+(10) This paragraph applies where the claimant is a person who was residing in Ukraine immediately before 1st January 2022, who left Ukraine in connection with the Russian invasion which took place on 24th February 2022 and who —
+
+- (a) has a right of abode in the United Kingdom within the meaning given in section 2 of the 1971 Act;
+- (b) has been granted leave in accordance with immigration rules made under section 3(2) of the 1971 Act;
+- (c) has been granted, or is deemed to have been granted, leave outside those rules; or
+- (d) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of the 1971 Act.
+
+### 6. Persons affected by a trade dispute[^key-7ab39f4dd888ff18a5d1e26d7b650a2e]
+
+(1) Where the claimant or the claimant’s partner is a person affected by a trade dispute, a Sure Start Maternity Grant shall be made only if—
+
+- (a) in the case where the claimant or the claimant’s partner is in receipt of income support or income-based jobseeker’s allowance, the trade dispute has, at the date of the claim for that payment, continued for not less than six weeks; or
+- (b) in the case where the claimant or the claimant’s partner is in receipt of—
+  - (i) working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 is included in the award, or
+  - (ii) child tax credit which includes an individual element or a disability element referred to in section 9(3) of the Tax Credits Act 2002[^key-3193e2ccbbb893e8369a01835774f980] ,
+
+  the relevant claim was made before the beginning of the trade dispute.
+
+(2) In paragraph (1)(b), “relevant claim” means the claim in respect of which a tax credit of the type referred to in head (i) or (ii) of that sub-paragraph was awarded.
+
+## PART III — PAYMENTS FOR FUNERAL EXPENSES
+
+### 7. Funeral payments: entitlement[^key-7267a23295e9b9f30f489d5e4bb1e7db]
+
+(1) In these Regulations—
+
+- (a) “funeral payment” means a social fund payment to meet funeral expenses of a deceased person;
+- (b) “responsible person” means the person who accepts responsibility for the funeral expenses.
+
+(2) Subject to regulation 8, a funeral payment shall be made where each of the conditions referred to in paragraphs (3) to (9A)[^key-16a52d347923b73e19f48cbd81f40365] is satisfied.
+
+(3) The first condition is that, in respect of the date of the claim for a funeral payment, the responsible person or his partner is a person to whom paragraph (4) applies.
+
+(4) This paragraph applies to a person—
+
+- (a) who has an award of—
+  - (i) income support,
+  - (ii) state pension credit,
+  - (iii) income-based jobseeker’s allowance,
+  - (iv) working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 is included in the award,
+  - (v) child tax credit which includes an individual element or a disability element referred to in section 9(3) of the Tax Credits Act 2002[^key-a3e2a755739a8b32a5252beda700fa12] , [^key-49751367751c95aa42f1b7de7b0e74ca]...
+  - (vi) housing benefit; [^key-84a1bce104df560e8a48190c75f53818]...[^key-50705662ea81bbcf5481ee3322d33bed]
+  - (vii) income-related employment and support allowance[^key-be0567b0724059d9de218c948c468be8]...
+  - (viii)[^key-23fbdd24e28dec2505ac5d61cba39860] universal credit or[^key-8ed74d461a8b2b3bfdc574d1d6a1043f]
+  - (ix)[^key-d0fc866596e158ba6a23517393364397] owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (i) to (iii) and (vii).
+
+(5) The second condition is that the deceased was ordinarily resident in the United Kingdom at the date of his death.
+
+(6) The third condition is that the claim is made within the prescribed time for claiming a funeral payment.
+
+(7) The fourth condition is that the claimant is the responsible person or the partner of the responsible person.
+
+(8) The fifth condition is that—
+
+- (a) the responsible person was the partner of the deceased at the date of death; or
+- (b) in a case where the deceased was a child and—
+  - (i) there is no absent parent, or
+  - (ii) there is an absent parent who, or whose partner, is a person to whom paragraph (4) applied as at the date of death,
+
+  the responsible person was the person, or the partner of the person, responsible for that child for the purposes of Part IX of the Act as at the date of death; or
+- (c) in a case where the deceased was a still-born child, the responsible person was a parent, or the partner of a parent, of that still-born child as at the date when the child was still-born; or
+- (d) in a case where the deceased had no partner and neither sub-paragraph (b) nor (c) applies, the responsible person was an immediate family member of the deceased and it is reasonable for the responsible person to accept responsibility for those expenses; or
+- (e) in a case where the deceased had no partner and none of sub-paragraphs (b), (c) and (d) apply, the responsible person was either—
+  - (i) a close relative of the deceased, or
+  - (ii) a close friend of the deceased,
+
+  and it is reasonable for the responsible person to accept responsibility for the funeral expenses.
+
+(9) The sixth condition is that the funeral takes place—
+
+- (a) in a case where paragraph (10) applies, in a Member State of the European Union, Iceland, Liechtenstein , Norway, Switzerland or the United Kingdom[^key-6f3f15ceed34d57a1c62db0ab164a511] ;
+- (b) in any other case, in the United Kingdom or, providing the deceased was normally resident in Northern Ireland, in the Republic of Ireland.
+
+(9A)[^key-30a30e50f4d2c845eba3bd9a7ea9ceaf] The seventh condition is that the claimant lives in Northern Ireland
+
+(10)[^key-7ec993a757c39091e2a43acef421eb9a] This paragraph applies where the responsible person or the responsible person's partner is—
+
+- (a) a qualified person within the meaning of regulation 6(1)(b) (worker) or (c) (self-employed person) of the Immigration (European Economic Area) Regulations 2016 (the EEA Regulations);
+- (b) a person who retains the status referred to in sub-paragraph (a) pursuant to regulation 6(2) or (4) of the EEA Regulations;
+- (c) a person who is a family member of a person referred to in sub-paragraph (a) or (b) within the meaning of regulation 7(1) of the EEA Regulations;
+- (d) a person who has a right to reside permanently in the United Kingdom by virtue of regulation 15(1)(c), (d) or (e) of the EEA Regulations; or
+- (e) a person granted indefinite leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act.
+
+(11)[^key-9816b0fa72ca5506d5a0ea56f3604974] References in this regulation to the Immigration (European Economic Area) Regulations 2016 are to be read with Schedule 4 to the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020(Consequential, Saving, Transitional and Transitory Provisions) Regulations 2020.
+
+### 8. Funeral payments: supplementary[^key-a6f50404898e89ef7dc399c7ae844597]
+
+(1) Subject to paragraph (2), the claimant shall not be entitled to a funeral payment where the responsible person is an immediate family member, a close relative or a close friend of the deceased and—
+
+- (a) there are one or more immediate family members of the deceased;
+- (b) one or more of those immediate family members or their partners are not persons to whom regulation 7(4) applied as at the date of death; and
+- (c) any of the immediate family members referred to in sub-paragraph (b) was not estranged from the deceased at the date of his death.
+
+(2) Paragraph (1) shall not apply to disentitle the claimant from a funeral payment where the immediate family member who meets the description specified in sub-paragraph (c) of that paragraph is at the date of death—
+
+- (a) a person who has not attained the age of 18;
+- (b)[^M_F_815182b9-ed04-45cd-c86f-fd5dd9d8c0e8] a qualifying young person within the meaning of section 138 of the Act (child and qualifying young person);
+- (ba)[^key-f33f2e3e5a3ed3ddefaf195b8acb08fb] a qualifying young person under Article 15(5) of the 2015 Order (prescription of qualifying young person);
+- (c) a person who has attained the age of 18 but not the age of 19 and who is attending a full-time course of advanced education, as defined in regulation 61 of the Income Support Regulations[^f00025], or, as the case may be, a person aged 19 or over but under pensionable age who is attending a full-time course of study, as defined in that regulation, at an educational establishment;
+- (d) a person in receipt of asylum support under section 95 of the Immigration and Asylum Act 1999[^f00026];
+- (e) a member of, and fully maintained by, a religious order;
+- (f) being detained in a prison or young offender’s centre and either that immediate family member or his partner is a person to whom regulation 7(4) applied immediately before that immediate family member was so detained;
+- (ff)[^key-216f23f245c7624cb707c917decc1e68] a person resident in a care establishment within the meaning of regulation 2(3), whose accommodation and care costs are met in whole or in part by a Health and Social Care trust;
+- (g) a person who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 1975[^f00027] or the Social Security (Hospital In-Patients) Regulations 1975[^f00028] and either that immediate family member or his partner is a person to whom regulation 7(4) applied immediately before that immediate family member was first regarded as receiving such treatment; or
+- (h) a person ordinarily resident outside the United Kingdom.
+
+(3) Paragraphs (4) to (8) apply for the purposes of regulation 7(8)(d) and (e).
+
+(4) The deceased shall be treated as having had no partner where the deceased had a partner at the date of death and —
+
+- (a) no claim for funeral expenses is made by the partner in respect of the death of the deceased; and
+- (b) that partner dies before the date upon which the deceased’s funeral takes place.
+
+(5) Whether it is reasonable for the responsible person to accept responsibility for meeting the expenses of a funeral shall be determined by the nature and extent of his contact with the deceased.
+
+(6) Paragraph (7) applies (subject to paragraph (8)) in a case where the deceased had one or more close relatives.
+
+(7) If, on comparing the nature and extent of any close relative’s contact with the deceased and the nature and extent of the responsible person’s contact with the deceased, any such close relative was in—
+
+- (a) closer contact with the deceased than the responsible person;
+- (b) equally close contact with the deceased and neither that close relative nor his partner, if he has one, is a person to whom regulation 7(4) applies,
+
+the claimant shall not be entitled to a funeral payment.
+
+(8) However, paragraph (7) shall not apply where the close relative who was in—
+
+- (a) closer contact with the deceased than the responsible person, or (as the case may be)
+- (b) equally close contact with the deceased,
+
+is at the date of death of a description specified in any of sub-paragraphs (a) to (h) of paragraph (2).
+
+(9) In a case where the responsible person is the partner of the person who was a close relative, immediate family member or (as the case may be) close friend of the deceased, references in the preceding provisions of this regulation, and in regulation 7(8)(d) and (e), to the responsible person are to be construed as references to the responsible person’s partner.
+
+### 9. Amount of funeral payment[^key-aedf1e5b7f59beee5dd4e926b1823a66]
+
+(1) A funeral payment shall be an amount sufficient to meet any relevant expenditure less any amount which falls to be deducted under regulation 10.
+
+(2) In paragraph (1), “relevant expenditure” means any costs to which paragraph (3) applies which fall to be met or have been met by the responsible person (or a person acting on behalf of the responsible person), inclusive of any available discount on those costs allowed by the funeral director or by any other person who arranges the funeral.
+
+(3) This paragraph applies to the following costs—
+
+- (a) where the deceased is buried—
+  - (i)[^key-6d82159006d44ac99a14e5ccb43e6136] the necessary costs of obtaining a new burial plot for the deceased and a right of burial in that plot, whether or not that right is exclusive
+  - (ii) the fees levied in respect of a burial by the authority or person responsible for the provision and maintenance of cemeteries for the area where the burial takes place, and[^key-af055de190312b81c906d4ec6695a2e1] the fees levied by a private grave-digger, in so far as it is necessary to incur those fees;
+- (b) where the deceased is cremated—
+  - (i) the fees levied in respect of a cremation by the authority or person responsible for the provision and maintenance of crematoria for the area where the cremation takes place in so far as it is necessary to incur those fees,
+  - (ii)[^key-38d445cbe630ffe067531996dd830d41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^key-38d445cbe630ffe067531996dd830d41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) the fee payable for the removal of any device as defined for the purposes of the Active Implantable Medical Devices Regulations 1992[^f00029] save that, where that removal is carried out by a person who is not a registered medical practitioner, no more than £20 shall be met in respect of that fee;
+- (ba)[^key-e6b18c547c23632333650208f82e6e64] the cost of obtaining any medical reference, report or other documentation required in connection with the disposal of the body of the deceased, whether by burial, cremation or otherwise;
+- (c) the cost of obtaining any documentation, production of which is necessary in order to release any assets of the deceased which may be deducted from a funeral payment pursuant to regulation 10;
+- (d) where the deceased died at home or away from home and it is necessary to transport the deceased within the United Kingdom in excess of 80 kilometres (approximately 50 miles) to the funeral director’s premises or to the place of rest, the reasonable cost of transport in excess of 80 kilometres;
+- (e) where transport is provided by a vehicle for the coffin and bearers and by one additional vehicle, from the funeral director’s premises or the place of rest to the funeral and—
+  - (i) the distance travelled, in the case of a funeral which consists of a burial where no costs have been incurred under sub-paragraph (a)(i) above, exceeds 80 kilometres, or
+  - (ii) the distance travelled, in the case of any other funeral, necessarily exceeds 80 kilometres,
+
+  the reasonable cost of the transport provided, other than the cost in respect of the first 80 kilometres of the distance travelled;
+- (f) the necessary cost of one return journey for the responsible person, either for the purpose of making arrangements for, or for attendance at, the funeral; and
+- (g) any other funeral expenses which shall not exceed £1000[^key-bf3f2b11fa7c794884fee378731db128] in any case.
+
+(4) Paragraphs (2) and (3) have effect subject to the following provisions.
+
+(5) Paragraph (3)(a) does not apply to costs in connection with burial of the deceased’s ashes (where he was cremated).
+
+(6) All references to 80 kilometres shall be construed as applying to—
+
+- (a) in a case to which paragraph (3)(d) applies, the combined distance from the funeral director’s premises or the deceased’s place of rest to the place of death and of the return journey;
+- (b) in a case to which paragraph (3)(e) applies, the combined distance from the funeral director’s premises or the deceased’s place of rest to the funeral and of the return journey.
+
+(7) The cost of items and services referred to in (3)(a), (b), (d) and (e) shall not include any element in the cost of those items and services which relates to a requirement of the deceased’s religious faith.
+
+(8) Paragraph (3)(e)(i) includes costs only to the extent that, together with the costs referred to under paragraph (3)(a)(ii), they do not exceed the costs which would have been incurred under—
+
+- (a) paragraph (3)(a)(i) and (ii); and
+- (b) where appropriate, paragraph (3)(e)(ii),
+
+if it had been necessary to purchase for the deceased a new burial plot with a right of burial in that plot, whether or not that right is exclusive[^key-e404b74a1d334d52479f112ca687eb7f] .
+
+(9) Paragraph (3)(f) includes costs only to the extent that they do not exceed the costs which would have been incurred in respect of a return journey from the home of the responsible person to the location where the necessary costs of a burial or, as the case may be, cremation referred to in paragraph (3)(a) or (b) would have been incurred.
+
+(10) Where items and services have been provided on the death of the deceased under a pre-paid funeral plan or under any analogous arrangement—
+
+- (a) no funeral payment shall be made in respect of items or services referred to in paragraph (3) which have been provided under such a plan or arrangement; and
+- (b) paragraph (3)(g) shall have effect in relation to that particular claim as if for the sum “£1000[^key-8251673d9e93f29054d7d3f855463654]" , there were substituted the sum “£120”.
+
+### 10. Deductions from an award of a funeral payment[^key-1ade11b525e1519b6c684f982dee86f1]
+
+(1) subject to paragraph (1A)[^key-eda05c96972855ef2f9e03a4476c3d02] there shall be deducted from the amount of any award of funeral payment which would otherwise be payable—
+
+- (a) the amount of any assets of the deceased which are available to the responsible person (on application or otherwise) or any other member of his family without probate or letters of administration, or (in Scotland) confirmation, having been granted;
+- (b) the amount of any lump sum due to the responsible person or any other member of his family on the death of the deceased by virtue of any insurance policy, occupational pension scheme or burial club, or any analogous arrangement;
+- (c)[^key-f5da6f485e1bad3b2362cda136c0b1e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the amount of any funeral grant, made out of public funds, in respect of the death of a person who was entitled to a war disablement pension[^f00030];
+- (e) in relation to a pre-paid funeral plan or any analogous arrangement—
+  - (i) where the plan or arrangement had not been paid for in full prior to the death of the deceased, the amount of any sum payable under that plan or arrangement in order to meet the deceased’s funeral expenses,
+  - (ii) where the plan or arrangement had been paid for in full prior to the death of the deceased, the amount of any allowance paid under that plan or arrangement in respect of funeral expenses.
+
+(1A)[^key-51d78a0f0a33cb3384c850572f02ebe7] For the purposes of regulation 10(1)(a), arrears of the following benefits payable to the deceased as at the date of death are excluded from the assets of the deceased—
+
+- (za)[^key-bb0f02d4d72504de35ad9767bd8d4618] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
+- (a) attendance allowance under Part 3 of the Act;
+- (b)[^key-f3e8cc365131cfc4af33313b57ceff19] bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015;
+- (c) carer’s allowance under Part 3 of the Act;
+- (cza)[^key-810a99b83fa2ded361670bed26fb1562] carer’s allowance supplement under section 81 of the Social Security (Scotland) Act 2018;
+- (ca)[^key-776063b42bca68f2b98361e8f2b5e4e4] carer support [^key-aae3abd0d09b0e5d420f02306038bdb8]... under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- (d) child benefit under Part 9 of the Act;
+- (e) child tax credit under section 8 of the Tax Credits Act 2002;
+- (ea)[^key-ec89194691eef4c1788fe79194a2e72c] any disability assistance given in accordance with regulations under section 31 of the Social Security (Scotland) Act 2018;
+- (f) disability living allowance under Part 3 of the Act;
+- (g)[^key-0813fc43f93f74e265b82f88907b78fa] employment and support allowance under—
+  - (i) Part 1 of the 2007 Act as amended by Schedule 3 and Part 1 of Schedule 2 to the 2015 Order (to remove references to an income related allowance), or
+  - (ii) Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3 and Part of Schedule 12 to the 2015 Order;
+- (h) exceptionally severe disablement allowance under Part 5 of the Act;
+- (i) guardian’s allowance under Part 3 of the Act;
+- (j) housing benefit under Part 7 of the Act;
+- (k) incapacity benefit under Part 2 of the Act;
+- (l) income support under Part 7 of the Act;
+- (m) industrial death benefit under Part 5 of the Act;
+- (n) industrial injuries disablement benefit under Part 5 of the Act;
+- (o)[^key-2f7e2ed3e9d86b3e951757171fa6dcc1] jobseeker’s allowance under—
+  - (i) the 1995 Order as amended by Part 1 of Schedule 12 to the 2015 Order (to remove references to an income based allowance), or
+  - (ii) the 1995 Order as it has effect apart from the amendments made by Part 1 of Schedule 12 to the 2015 Order;
+- (p) maternity allowance under Part 2 of the Act;
+- (pa)[^key-3fc69db9097db29eb99dd62664380383] personal independence payment under Part 5 of the 2015 Order;
+- (q) reduced earnings allowance under Part 5 of the Act;
+- (r) severe disablement allowance under Part 3 of the Act;
+- (s) state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002;
+- (t) state retirement pension under Parts 2 or 3 of the Act;
+- (ta)[^key-7d317497ece98d3f50532fe93bc265a5] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015;
+- (tb)[^key-98e516da6c23295dcd9ad23bec895c39] universal credit under Part 2 of the 2015 Order;
+- (u) war disablement pension under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
+- (v) war widow’s pension under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
+- (w) war widower’s pension under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
+- (x) widowed mother’s allowance under Part 2 of the Act;
+- (y) widowed parent’s allowance under Part 2 of the Act;
+- (z) widow’s pension under Part 2 of the Act;
+- (aa) winter fuel payment under Part 8 of the Act;
+- (bb) working tax credit under section 10 of the Tax Credits Act 2002.
+- (cc)[^key-dd05abac93187c7588dfb34ab7b696fd] young carer grant under the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019;
+
+(2)[^key-e319ffd7915143c15af1476991f2f228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-05ab292c3cdf5d28e2d4a185f231de0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 14th November 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE[^key-f4828d966539b217bb8325b0cbe892e8]
+
+Regulation 3
+
+Revocations
+
+| *Name of Regulations* | *S.R. Number* | *Extent of revocation* |
+| --- | --- | --- |
+| The Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987 | [1987 No. 150](https://www.legislation.gov.uk/nisr/1987/150) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1988 | [1988 No. 6](https://www.legislation.gov.uk/nisr/1988/6) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 2) Regulations (Northern Ireland) 1988 | [1988 No. 22](https://www.legislation.gov.uk/nisr/1988/22) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1989 | [1989 No. 71](https://www.legislation.gov.uk/nisr/1989/71) | Regulations 1 to 3 |
+| The Social Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 1990 | [1990 No. 132](https://www.legislation.gov.uk/nisr/1990/132) | Regulations 4 and 5 |
+| The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations (Northern Ireland) 1992 | [1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) | Regulation 9 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1992 | [1992 No. 394](https://www.legislation.gov.uk/nisr/1992/394) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1993 | [1993 No. 99](https://www.legislation.gov.uk/nisr/1993/99) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1994 | [1994 No. 68](https://www.legislation.gov.uk/nisr/1994/68) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1995 | [1995 No. 190](https://www.legislation.gov.uk/nisr/1995/190) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1996 | [1996 No. 423](https://www.legislation.gov.uk/nisr/1996/423) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 2) Regulations (Northern Ireland) 1996 | [1996 No. 571](https://www.legislation.gov.uk/nisr/1996/571) | The whole Regulations |
+| The Social Security (Social Fund and Claims and Payments) (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 | [1997 No. 155](https://www.legislation.gov.uk/nisr/1997/155) | Regulation 1(2), insofar as it relates to “the Social Fund Regulations”, and regulation 2 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1997 | [1997 No. 472](https://www.legislation.gov.uk/nisr/1997/472) | The whole Regulations |
+| The Social Security and Child Support (Tax Credits Consequential Amendments) Regulations (Northern Ireland) 1999 | [1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385) | The references to the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987 in Parts I and II of Schedule 2 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 1999 | [1999 No. 499](https://www.legislation.gov.uk/nisr/1999/499) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 2000 | [2000 No. 49](https://www.legislation.gov.uk/nisr/2000/49) | The whole Regulations |
+| The Social Fund (Winter Fuel Payment and Maternity and Funeral Expenses (General)) Regulations (Northern Ireland) 2000 | [2000 No. 259](https://www.legislation.gov.uk/nisr/2000/259) | Regulations 1(2) and 3 |
+| The Social Security (Capital Disregards and Recovery of Benefits Amendment) Regulations (Northern Ireland) 2001 | [2001 No. 150](https://www.legislation.gov.uk/nisr/2001/150) | Regulation 3 |
+| The Social Security (Capital Disregards Amendment No. 2) Regulations (Northern Ireland) 2001 | [2001 No. 157](https://www.legislation.gov.uk/nisr/2001/157) | Regulation 3 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 2001 | [2001 No. 318](https://www.legislation.gov.uk/nisr/2001/318) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland 2002 | [2002 No. 14](https://www.legislation.gov.uk/nisr/2002/14) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 2) Regulations (Northern Ireland) 2002 | [2002 No. 90](https://www.legislation.gov.uk/nisr/2002/90) | The whole Regulations |
+| The Social Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 | [2002 No. 284](https://www.legislation.gov.uk/nisr/2002/284) | Regulation 3 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 2003 | [2003 No. 117](https://www.legislation.gov.uk/nisr/2003/117) | The whole Regulations |
+| The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 | [2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) | Regulation 25(1) and (2) |
+| The Social Security (Working Tax Credit and Child Tax Credit Consequential Amendments) Regulations (Northern Ireland) 2003 | [2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) | Paragraph 2 of Schedule 4 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 2) Regulations (Northern Ireland) 2003 | [2003 No. 264](https://www.legislation.gov.uk/nisr/2003/264) | The whole Regulations |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 3) Regulations (Northern Ireland) 2003 | [2003 No. 308](https://www.legislation.gov.uk/nisr/2003/308) | The whole Regulations |
+| The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2004 | [2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213) | Regulation 6 |
+| The Social Fund (Maternity and Funeral Expenses) (General) (Amendment) Regulations (Northern Ireland) 2004 | [2004 No. 408](https://www.legislation.gov.uk/nisr/2004/408) | The whole Regulations |
+| The Social Security (Residential Care Homes, Nursing Homes and Independent Hospitals) Regulations (Northern Ireland) 2005 | [2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458) | Regulation 2 |
+
+(This note is not part of the Regulations.)
+
+These Regulations revoke and replace, with a few minor changes, the Social Fund Maternity and Funeral Payment Expenses (General) Regulations (Northern Ireland) 1987 (“the 1987 Regulations”) and provisions amending those Regulations. They make provision under section 134(1)(a) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 for payments to be made out of the social fund to meet maternity expenses and funeral expenses (referred to in these Regulations as “Sure Start Maternity Grants” and “funeral payments” respectively).
+
+In Part I, regulations 1 and 2 are formal and contain interpretation provisions. Regulation 3 revokes the 1987 Regulations and amending provisions. Regulation 4 provides that two payments shall not be made in respect of the same expenses.
+
+Part II deals with maternity payments. Regulation 5 prescribes the circumstances in which such payments are to be made and the appropriate amount. Regulation 6 sets out the special rules on entitlement which apply to persons affected by a trade dispute.
+
+Part III makes provision for funeral payments. Regulations 7 and 8 set out the circumstances in which funeral payments are to be made. Regulation 9 prescribes how the amount of a funeral payment is to be arrived at. Regulation 10 prescribes certain deductions from such a payment.
+
+These regulations make, in relation to Northern Ireland only, provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+A regulatory impact assessment had not been produced for this rule as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 134(1) was substituted by Article 66(1) of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-14fd890f6ec81bcad3b9d870601750aa]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/506) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16(2)(g)](https://www.legislation.gov.uk/nisr/2010/312/regulation/16/2/g), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3)
+
+[^key-5ee3368e4b12413053ee05826816f2c8]: Commencement: Reg. 1 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-5e3f171c035c7b9a88ec88bd53fc0014]: Commencement: Reg. 2 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-8a02d77eb78dacd10becc3101a3d208a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [29(2)](https://www.legislation.gov.uk/nisr/2016/228/regulation/29/2)
+
+[^key-f7f8176b782899dfc118f12905452145]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (1.4.2013) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/58)](https://www.legislation.gov.uk/nisr/2013/58), [regs. 1](https://www.legislation.gov.uk/nisr/2013/58/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2013/58/regulation/2/2)
+
+[^key-53af61b5d5620232625c4748627b3f11]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/2/a)
+
+[^key-3126b24b41afa6259d4e35aacc3631df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [34(2)(a)(i)](https://www.legislation.gov.uk/nisr/2008/286/regulation/34/2/a/i)
+
+[^f00003]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
+
+[^f00004]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^key-ba84c53d3326cec390cbd9be3e06871b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/2/b)
+
+[^f00005]: Footnote: Regulation 14 was amended by regulation 6 of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131) and paragraph 2 of Schedule 1 to [S.R. 2003 No. 1](https://www.legislation.gov.uk/nisr/2003/1)
+
+[^f00006]: Footnote: Regulation 76 was amended by paragraph 2 of Schedule 3 to [S.R. 2003 No. 1](https://www.legislation.gov.uk/nisr/2003/1)
+
+[^f00007]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^key-38f58d5b1178563d7b0ef07dbc044b37]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) substituted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/2/c)
+
+[^key-791b82ddbf10a4c2e590a2f176d87ecd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [104](https://www.legislation.gov.uk/uksi/2019/1514/regulation/104) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-33e20e3cdedaec1bdf7e1859fac02439]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/2/a/i)
+
+[^key-200a96d497b325a12106bba30ab1fe9f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) omitted (6.4.2017) by virtue of [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/4/2)
+
+[^key-e674c675033b636a3d1ced5ca62a6c16]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/506/regulation/2) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [4](https://www.legislation.gov.uk/nisr/2018/45/regulation/4)
+
+[^key-32cbc769efcbb53874785fd858419b36]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/2/d)
+
+[^f00010]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705). Article 2(2) was amended by Article 56 of, and paragraph 2 of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^key-6f71729723d648af2386e30978994041]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [34(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2008/286/regulation/34/2/a/ii)
+
+[^f00011]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^key-97c27ace559321c97c36c0f7276467f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/2/e)
+
+[^key-499d857e61d802190c5b8943a97c5888]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (6.4.2018) by S.R. 2017/176, Sch 5 para. 9(a)(i) (as inserted by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^key-6a30a20f204417cdea120189aef0c8a9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (11.12.2023) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/190)](https://www.legislation.gov.uk/nisr/2023/190), [regs. 1](https://www.legislation.gov.uk/nisr/2023/190/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/190/regulation/2)
+
+[^key-f01e3bc640cd50f976646f9daeab53d3]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1/a) substituted (2.4.2007) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2007/154/regulation/6)
+
+[^key-5c023e7d59911b5233d4fe43c4eb3503]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/2/a/ii)
+
+[^f00012]: Footnote: Section 125 was amended by paragraph 14 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995, paragraph 31 of Schedule 1 and Schedule 2 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898) and Article 18 of [S.R. 2005 No. 82](https://www.legislation.gov.uk/nisr/2005/82)
+
+[^f00013]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
+
+[^key-6f8d3f5c971502760af38a9da6bfde64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/2/f)
+
+[^f00014]: Footnote: [S.I. 1976/1041 (N.I. 14)](https://www.legislation.gov.uk/nisi/1976/1041) as amended by Article 3 of the Still-Birth (Definition) (Northern Ireland) Order 1992 ([S.I. 1992/1310 (N.I. 10)](https://www.legislation.gov.uk/nisi/1992/1310))
+
+[^key-c415fb4e90b7c8b980cd88432dce5272]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/2/a/iii)
+
+[^key-e8d5cef391501f09b87e4a796d8ac729]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1A) inserted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/3)
+
+[^f00015]: Footnote: The definitions of “Abbeyfield Home” and “independent hospital” were inserted by, and the definitions of “nursing home” and “residential care home” were substituted by, paragraph 1 of Schedule 1 to [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458)
+
+[^key-0b1a3eac3acbe5a0f5527c7e60139377]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/3) added (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [34(2)(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/34/2/b)
+
+[^f00016]: Footnote: Regulation 16(2) was substituted by regulation 4(6)(b) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373) and regulation 16(3) was amended by paragraph (2) of Schedule 1 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and by regulation 5(5) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^key-a4df46a04da81daccd3c23df7cfb2a4b]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/4/a) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [34(2)(c)](https://www.legislation.gov.uk/nisr/2008/286/regulation/34/2/c)
+
+[^f00017]: Footnote: Regulation 78(2) was amended by paragraph 33(b) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350); regulation 78(3) was amended by paragraph 33(c) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350); regulation 78(3)(b) was substituted by regulation 18 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358); and regulation 78(3)(c) was amended by paragraph 33(c) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-7b2eac5911cf24c667484ef7d4f1e401]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/4/b) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(2)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/2/b)
+
+[^key-f3960183dceba12f8eeb5f832d346a75]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2005/506/regulation/2/1/c) inserted by S.R. 2017/176, Sch 5 para. 9(a)(ii) (as inserted) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^f00018]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-4f6799553c43f23143b257daec90e03b]: Commencement: Reg. 3 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-6ff20d6989707953b5534af7f888e3d2]: Textual amendment: [Reg. 3A, 4](https://www.legislation.gov.uk/nisr/2005/506/regulation/4/3A) substituted for reg. 4 (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/4)
+
+[^key-a3a3460ec4d1016efdf73b70b55679ee]: Textual amendment: Words in [reg. 3A(1)(b)](https://www.legislation.gov.uk/nisr/2005/506/regulation/3A/1/b) inserted (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Fund and Income-Related Benefits (Miscellaneous Amendments and Savings) Regulations (Northern Ireland) 2018 (S.R. 2018/192)](https://www.legislation.gov.uk/nisr/2018/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/192/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2018/192/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2018/192/regulation/3))
+
+[^key-23bac0fcd4aba722073decc66551ae7a]: Textual amendment: [Reg. 3A(1)(c)-(d)](https://www.legislation.gov.uk/nisr/2005/506/regulation/3A/1/c) substituted for (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Fund and Income-Related Benefits (Miscellaneous Amendments and Savings) Regulations (Northern Ireland) 2018 (S.R. 2018/192)](https://www.legislation.gov.uk/nisr/2018/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/192/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/192/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2018/192/regulation/3))
+
+[^key-6f82d8d4160663f3cbb1b91a86c31660]: Textual amendment: Word in [reg. 3A(2)](https://www.legislation.gov.uk/nisr/2005/506/regulation/3A/2) substituted (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Fund and Income-Related Benefits (Miscellaneous Amendments and Savings) Regulations (Northern Ireland) 2018 (S.R. 2018/192)](https://www.legislation.gov.uk/nisr/2018/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/192/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/192/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2018/192/regulation/3))
+
+[^key-0890abebee6e1932a1ddd62f9720e664]: Textual amendment: Word in [reg. 3A(3)](https://www.legislation.gov.uk/nisr/2005/506/regulation/3A/3) substituted (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Fund and Income-Related Benefits (Miscellaneous Amendments and Savings) Regulations (Northern Ireland) 2018 (S.R. 2018/192)](https://www.legislation.gov.uk/nisr/2018/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/192/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/nisr/2018/192/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2018/192/regulation/3))
+
+[^key-ba3df3716ec17c1e278958b1f1c1e824]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2005/506/regulation/4/1) inserted (16.9.2019 immediately after S.S.I. 2019/292 comes into force) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1060/article/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2019/1060/article/5/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2019/1060/article/6))
+
+[^key-a1a85547948087a66a5a9df58d572ef4]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2005/506/regulation/4/3) inserted (1.6.2022) by [The Social Fund (Child Funeral Fund) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/179)](https://www.legislation.gov.uk/nisr/2022/179), [regs. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2022/179/regulation/5/2)
+
+[^key-ee5004b4970da766cedd37f3d002fe15]: Textual amendment: Words in [Pt. II](https://www.legislation.gov.uk/nisr/2005/506/part/II) heading inserted (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Fund and Income-Related Benefits (Miscellaneous Amendments and Savings) Regulations (Northern Ireland) 2018 (S.R. 2018/192)](https://www.legislation.gov.uk/nisr/2018/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/192/regulation/1/2), [2(3)](https://www.legislation.gov.uk/nisr/2018/192/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2018/192/regulation/3))
+
+[^M_F_5e8cc30b-ed34-45c7-fe6d-be8ee1d61a80]: Textual amendment: Reg 4A. inserted (23.3.11) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2011](https://www.legislation.gov.uk/nisr/2011/130/2011-03-23) , [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/2011-03-23), [2(2)](https://www.legislation.gov.uk/nisr/2011/130/regulation/2/2011-03-23)
+
+[^key-d1dbe8d26f9d95aa3842c974fbb3eec7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/506/regulation/5) substituted (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2010/378/regulation/2/5)
+
+[^M_F_c36bda4a-34f4-4d4e-ae74-8e0b176cff36]: Textual amendment: Words in reg. 5(1) substituted (23.3.11) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2011/130/contents/2011-03-23) , [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/2011-03-23), [2(3)(a)](https://www.legislation.gov.uk/nisr/2011/130/regulation/2/2011-03-23)
+
+[^key-6e46806b92b0e8fe2eb8d5bee4144b33]: Textual amendment: Word in [reg. 5(2)(e)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/2/e) substituted (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2017/55/regulation/4/3)
+
+[^key-67ae05e97fa9c9428064a5b6e43bc773]: Textual amendment: Word in [reg. 5(2)(e)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/2/e) omitted (coming into force in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(3)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/3/a)
+
+[^key-51c249f279fc712b2bcacfdb16dfb8f1]: Textual amendment: Word in [reg. 5(2)(f)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/2/f) omitted (6.4.2018) by S.R. 2017/176, Sch 5 para. 9(c)(i) (as inserted by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^key-19b94d04eb53827d91825f52fc4ebc91]: Textual amendment: [Reg. 5(2)(g)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/2/g) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(3)(c)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/3/c)
+
+[^key-d7f57edbce20a715b0bcdbb8ed938522]: Textual amendment: Word in [reg. 5(2)(g)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/2/g) inserted (6.4.2018) by S.R. 2017/176, Sch 5 para. 9(c)(ii) (as inserted by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^key-52214fc37960f56b3532b1e0d2639520]: Textual amendment: [Reg. 5(2)(h)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/2/h) added by S.R. 2017/176, Sch 5 para. 9(c)(iii) (as inserted) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^M_F_9247905e-8480-491c-9f7a-87b8e463d2f8]: Textual amendment: Words in reg. 5(1) substituted (23.3.11) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2011/130/contents/2011-03-23) , [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/2011-03-23), [2(3)(b)](https://www.legislation.gov.uk/nisr/2011/130/regulation/2/2011-03-23), with [reg. 3](https://www.legislation.gov.uk/nisr/2011/130/regulation/3/2011-03-23)
+
+[^key-cb9391bab83cc3cb26747989958fe055]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/4) omitted (8.6.2023) by virtue of [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/86)](https://www.legislation.gov.uk/nisr/2023/86), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2023/86/regulation/3/2/a)
+
+[^key-f63db98a67b9fb474346fb5fa11600e0]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/5) substituted (8.6.2023) by [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/86)](https://www.legislation.gov.uk/nisr/2023/86), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2023/86/regulation/3/2/b)
+
+[^key-f4f20756b214ce48150f265132b9ddf2]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/6) added (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Fund and Income-Related Benefits (Miscellaneous Amendments and Savings) Regulations (Northern Ireland) 2018 (S.R. 2018/192)](https://www.legislation.gov.uk/nisr/2018/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/192/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2018/192/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2018/192/regulation/3))
+
+[^key-26de2f933e47965dc77bf1b622281ab2]: Textual amendment: Word in [reg. 5(6)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5/6) substituted (8.6.2023) by [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/86)](https://www.legislation.gov.uk/nisr/2023/86), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2023/86/regulation/3/2/c)
+
+[^key-cd7bf899be884ad6d847713eba4caa60]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2005/506/regulation/5A) substituted (13.8.2012) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/292)](https://www.legislation.gov.uk/nisr/2012/292), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/292/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2012/292/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2012/292/regulation/3))
+
+[^key-6a575c41850606492cadc1d68dd13889]: Textual amendment: [Reg. 5A(3)(d)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5A/3/d) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2018/37/regulation/3)
+
+[^key-98b1402e83149e91edb6004e875594c6]: Textual amendment: [Reg. 5A(8)-(10)](https://www.legislation.gov.uk/nisr/2005/506/regulation/5A/8) inserted (8.6.2023) by [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/86)](https://www.legislation.gov.uk/nisr/2023/86), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2023/86/regulation/3/3)
+
+[^key-7ab39f4dd888ff18a5d1e26d7b650a2e]: Commencement: Reg. 6 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-3193e2ccbbb893e8369a01835774f980]: Textual amendment: Word in [reg. 6(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/6/1/b/ii) substituted (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2017/55/regulation/4/3)
+
+[^key-7267a23295e9b9f30f489d5e4bb1e7db]: Commencement: Reg. 7 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-16a52d347923b73e19f48cbd81f40365]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/2) substituted (16.9.2019 immediately after S.S.I. 2019/292 comes into force) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1060/article/1/2/b), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/1060/article/5/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2019/1060/article/6))
+
+[^key-a3e2a755739a8b32a5252beda700fa12]: Textual amendment: Word in [reg. 7(4)(a)(v)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/v) substituted (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2017/55/regulation/4/3)
+
+[^key-49751367751c95aa42f1b7de7b0e74ca]: Textual amendment: Word in [reg. 7(4)(a)(v)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/v) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [34(4)(a)](https://www.legislation.gov.uk/nisr/2008/286/regulation/34/4/a)
+
+[^key-84a1bce104df560e8a48190c75f53818]: Textual amendment: Word in [reg. 7(4)(a)(vi)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/vi) omitted (coming into force in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(4)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/4/a)
+
+[^key-50705662ea81bbcf5481ee3322d33bed]: Textual amendment: [Reg. 7(4)(a)(vii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/vii) and word inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [34(4)(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/34/4/b)
+
+[^key-be0567b0724059d9de218c948c468be8]: Textual amendment: Word in [reg. 7(4)(a)(vii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/vii) omitted (6.4.2018) by S.R. 2017/76, Sch 5 para. 9(d)(i) (as inserted by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^key-23fbdd24e28dec2505ac5d61cba39860]: Textual amendment: [Reg. 7(4)(a)(viii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/viii) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(4)(c)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/4/c)
+
+[^key-8ed74d461a8b2b3bfdc574d1d6a1043f]: Textual amendment: Word in [reg. 7(4)(a)(viii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/viii) inserted (6.4.2018) by S.R. 2017/176, Sch 5 para. 9(d)(ii) (as inserted by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^key-d0fc866596e158ba6a23517393364397]: Textual amendment: [Reg. 7(4)(a)(ix)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/4/a/ix) added by S.R. 2017/176, Sch 5 para. 9(d)(iii) (as inserted) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+
+[^key-6f3f15ceed34d57a1c62db0ab164a511]: Textual amendment: Words in [reg. 7(9)(a)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/9/a) substituted (19.2.2021) by [The Social Fund Funeral Expenses Payment (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/15)](https://www.legislation.gov.uk/nisr/2021/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/15/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2021/15/regulation/2)
+
+[^key-30a30e50f4d2c845eba3bd9a7ea9ceaf]: Textual amendment: [Reg. 7(9A)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/9A) inserted (16.9.2019 immediately after S.S.I. 2019/292 comes into force) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1060/article/1/2/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/1060/article/5/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2019/1060/article/6))
+
+[^key-7ec993a757c39091e2a43acef421eb9a]: Textual amendment: [Reg. 7(10)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/10) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [63(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/63/2/a)
+
+[^key-9816b0fa72ca5506d5a0ea56f3604974]: Textual amendment: [Reg. 7(11)](https://www.legislation.gov.uk/nisr/2005/506/regulation/7/11) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [63(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/63/2/b)
+
+[^key-a6f50404898e89ef7dc399c7ae844597]: Commencement: Reg. 8 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^M_F_815182b9-ed04-45cd-c86f-fd5dd9d8c0e8]: Textual amendment: Reg. 8(2)(b) substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/97)](https://www.legislation.gov.uk/nisr/2006/97), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/5), [6](https://www.legislation.gov.uk/nisr/2006/97/regulation/6)
+
+[^key-f33f2e3e5a3ed3ddefaf195b8acb08fb]: Textual amendment: [Reg. 8(2)(ba)](https://www.legislation.gov.uk/nisr/2005/506/regulation/8/2/ba) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(5)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/5)
+
+[^f00025]: Footnote: The definition of “a course of advanced education” was substituted by regulation 5(8)(a) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405) and amended by regulation 5(2)(a) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300)
+
+[^f00026]: Footnote: [1999. c. 33](https://www.legislation.gov.uk/ukpga/1999/33)
+
+[^key-216f23f245c7624cb707c917decc1e68]: Textual amendment: [Reg. 8(2)(ff)](https://www.legislation.gov.uk/nisr/2005/506/regulation/8/2/ff) inserted (2.4.2018) by [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2018/45/regulation/5/1)
+
+[^f00027]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109); the relevant amending rule is [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^f00028]: Footnote: [S.I. 1975/555](https://www.legislation.gov.uk/uksi/1975/555); the relevant amending instrument is [S.I. 1992/2595](https://www.legislation.gov.uk/uksi/1992/2595)
+
+[^key-aedf1e5b7f59beee5dd4e926b1823a66]: Commencement: Reg. 9 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-6d82159006d44ac99a14e5ccb43e6136]: Textual amendment: [Reg. 9(3)(a)(i)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/3/a/i) substituted (2.4.2018) by [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2018/45/regulation/6/a)
+
+[^key-af055de190312b81c906d4ec6695a2e1]: Textual amendment: Word in [reg. 9(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/3/a/ii) substituted (22.7.2020) by [The Social Fund and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/148)](https://www.legislation.gov.uk/nisr/2020/148), [regs. 1](https://www.legislation.gov.uk/nisr/2020/148/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/148/regulation/2)
+
+[^key-38d445cbe630ffe067531996dd830d41]: Textual amendment: [Reg. 9(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/3/b/ii)[(iii)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/3/b/iii) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2018/45/regulation/6/b)
+
+[^f00029]: Footnote: [S.I. 1992/3146](https://www.legislation.gov.uk/uksi/1992/3146)
+
+[^key-e6b18c547c23632333650208f82e6e64]: Textual amendment: [Reg. 9(3)(ba)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/3/ba) inserted (2.4.2018) by [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2018/45/regulation/6/c)
+
+[^key-bf3f2b11fa7c794884fee378731db128]: Textual amendment: Sum in [Reg. 9(3)(g)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/3/g) substituted (8.4.2020) by [The Social Fund Funeral Expenses Payment (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/62)](https://www.legislation.gov.uk/nisr/2020/62), [regs. 1](https://www.legislation.gov.uk/nisr/2020/62/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/62/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2020/62/regulation/3))
+
+[^key-e404b74a1d334d52479f112ca687eb7f]: Textual amendment: Words in [reg. 9(8)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/8) substituted (2.4.2018) by [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [6(d)](https://www.legislation.gov.uk/nisr/2018/45/regulation/6/d)
+
+[^key-8251673d9e93f29054d7d3f855463654]: Textual amendment: Sum in [Reg. 9(10)(b)](https://www.legislation.gov.uk/nisr/2005/506/regulation/9/10/b) substituted (8.4.2020) by [The Social Fund Funeral Expenses Payment (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/62)](https://www.legislation.gov.uk/nisr/2020/62), [regs. 1](https://www.legislation.gov.uk/nisr/2020/62/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/62/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2020/62/regulation/3))
+
+[^key-1ade11b525e1519b6c684f982dee86f1]: Commencement: Reg. 10 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)
+
+[^key-eda05c96972855ef2f9e03a4476c3d02]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1/a) inserted (1.4.2013) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/58)](https://www.legislation.gov.uk/nisr/2013/58), [regs. 1](https://www.legislation.gov.uk/nisr/2013/58/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2013/58/regulation/2/3/a)
+
+[^key-f5da6f485e1bad3b2362cda136c0b1e6]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1/c) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/45/regulation/7)
+
+[^f00030]: Footnote: *See* section 146(2) of the Contributions and Benefits (Northern Ireland) Act 1992 for a definition of “war disablement pension”
+
+[^key-51d78a0f0a33cb3384c850572f02ebe7]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A) inserted (1.4.2013) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/58)](https://www.legislation.gov.uk/nisr/2013/58), [regs. 1](https://www.legislation.gov.uk/nisr/2013/58/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2013/58/regulation/2/3/b)
+
+[^key-bb0f02d4d72504de35ad9767bd8d4618]: Textual amendment: [Reg. 10(1A)(za)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/za) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [25(2)](https://www.legislation.gov.uk/uksi/2013/3021/article/25/2)
+
+[^key-f3e8cc365131cfc4af33313b57ceff19]: Textual amendment: [Reg. 10(1A)(b)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/b) substituted (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 20](https://www.legislation.gov.uk/nisr/2017/66/article/20), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+
+[^key-810a99b83fa2ded361670bed26fb1562]: Textual amendment: [Reg. 10(1A)(cza)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/cza) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2026/679/article/12/a)
+
+[^key-776063b42bca68f2b98361e8f2b5e4e4]: Textual amendment: [Reg. 10(1A)(ca)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/ca) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [40](https://www.legislation.gov.uk/uksi/2023/1218/article/40)
+
+[^key-aae3abd0d09b0e5d420f02306038bdb8]: Textual amendment: Word in [reg. 10(1A)(ca)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/ca) omitted (15.3.2026) by virtue of [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [45](https://www.legislation.gov.uk/uksi/2026/246/article/45)
+
+[^key-ec89194691eef4c1788fe79194a2e72c]: Textual amendment: [Reg. 10(1A)(ea)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/ea) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2024/919/article/26/2)
+
+[^key-0813fc43f93f74e265b82f88907b78fa]: Textual amendment: [Reg. 10(1A)(g)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/g) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(6)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/6/a)
+
+[^key-2f7e2ed3e9d86b3e951757171fa6dcc1]: Textual amendment: [Reg. 10(1A)(o)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/o) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(6)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/6/b)
+
+[^key-3fc69db9097db29eb99dd62664380383]: Textual amendment: [Reg. 10(1A)(pa)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/pa) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [29(3)](https://www.legislation.gov.uk/nisr/2016/228/regulation/29/3)
+
+[^key-7d317497ece98d3f50532fe93bc265a5]: Textual amendment: [Reg. 10(1A)(ta)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/ta) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [22](https://www.legislation.gov.uk/nisr/2015/411/article/22)
+
+[^key-98e516da6c23295dcd9ad23bec895c39]: Textual amendment: [Reg. 10(1A)(tb)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/tb) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [33(6)(c)](https://www.legislation.gov.uk/nisr/2016/236/regulation/33/6/c)
+
+[^key-dd05abac93187c7588dfb34ab7b696fd]: Textual amendment: [Reg. 10(1A)(cc)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/1A/cc) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/679/article/12/b)
+
+[^key-e319ffd7915143c15af1476991f2f228]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/2) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/45/regulation/7)
+
+[^key-05ab292c3cdf5d28e2d4a185f231de0f]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2005/506/regulation/10/3) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/45)](https://www.legislation.gov.uk/nisr/2018/45), [regs. 1](https://www.legislation.gov.uk/nisr/2018/45/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/45/regulation/7)
+
+[^key-f4828d966539b217bb8325b0cbe892e8]: Commencement: Sch. in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1)

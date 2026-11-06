@@ -1,0 +1,2046 @@
+---
+title: The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015
+id: nisr/2015/122
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-06'
+text_date: '2024-06-12'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/122
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/122/pdfs/nisrem_20150122_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/122/pdfs/nisr_20150122_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/122/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015
+
+> Text as at 2024-06-12.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 122
+
+Health And Personal Social Services
+
+Public Service Pensions
+
+The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015
+
+Made
+
+6th March 2015
+
+Coming into operation
+
+1st April 2015
+
+The Department of Health, Social Services and Public Safety, with the consent of the Department of Finance and Personnel, makes the following Regulations in exercise of the powers conferred by Articles 12(1) and (2) of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972[^f00001] and sections 1, 3 and 18(5) of, and Schedule 3 to, the Public Service Pensions Act (Northern Ireland) 2014[^f00002].
+
+In accordance with Article 12(4) of the Superannuation (Northern Ireland) Order 1972 and section 21 of the Public Service Pensions Act (Northern Ireland) 2014, the Department has consulted with representatives of persons likely to be affected by these Regulations, as appeared to the Department to be appropriate.
+
+In accordance with section 3(5) of the Public Service Pensions Act (Northern Ireland) 2014, the Department of Finance and Personnel has consented to the making of these Regulations.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-d4c4e9c45dc524b5bf296165e84bccbe]
+
+(1) These Regulations may be cited as the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 and shall come into operation on the 1st April 2015.
+
+### 2. Interpretation[^key-a4c39d1935b03b40408f11aa31452f5b]
+
+(1) In these Regulations—
+
+- “1995 officer transition member” means a person who is an officer transition member by virtue of having superannuable service in the 1995 Section;
+- “1995 Regulations” means the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00003];
+- “1995 Section” means the section of the Health and Social Care Pension Scheme as set out in the 1995 Regulations;
+- “2008 officer transition member” means a person who is an officer transition member by virtue of having pensionable service in the 2008 Section;
+- “2008 Regulations” means the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00004];
+- “2008 Section” means the section of the Health and Social Care Pension Scheme as set out in the 2008 Regulations;
+- “2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014[^f00005];
+- “2015 Regulations” means the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00006];
+- “[^key-0f44ee3d82cfc8616ebb69ce2d291a7e]**lump sum and death benefit allowance**” in relation to a person, has the meaning given in section 637R of the Income Tax (Earnings and Pensions) Act 2003.
+- “new scheme” means the scheme set out in the 2015 Regulations;
+- “[^key-4b8070e9c08617d1362083720ed70987]**non-superannuable 1995 Section member**” means a member of—
+  - (a) the 1995 Section who, on 31st March 2022, is no longer required to pay contributions under regulation 10 (3) or (4) (contributions by members) of the 1995 Regulations; and
+  - (b) the new scheme in respect of service on or after 1st April 2024;
+- “**non-pensionable 2008 Section member**” means a member of—
+  - (a) the 2008 Section who, on 31st March 2022, is a non-contributing member within the meaning of regulation 6 (interpretation of Part 2: officers) or 137 (interpretation of Part 3: general) of the 2008 Regulations; and
+  - (b) the new scheme in respect of service on or after 1st April 2024;
+- “**non-pensionable old scheme member**” means—
+  - (a) a non-pensionable 1995 Section member; or
+  - (b) a non-pensionable 2008 Section member;
+- “HSC employment”, in relation to the old scheme and the new scheme has the meaning given in the respective Regulations;
+- “officer transition member” means a person other than a non-pensionable old scheme member[^key-5ab402ccd68bfa1fa531ae249afe9f90] who is both a member of—
+  - (a) the old scheme by virtue of having pensionable service in that scheme to which paragraphs 1(2)(b)(i) and (ii) or paragraphs 2(2)(b)(i) and (ii) of Schedule 7 (final salary link) to the 2014 Act applies; and
+  - (b) the new scheme by virtue of having pensionable service in that scheme that would have been treated as officer service for the purposes of the old scheme had it been service in the old scheme;
+- “old scheme” means the Health and Social Care Pension Scheme, as set out in the 1995 Regulations and the 2008 Regulations;
+- “practitioner transition member” means a person other than a non-pensionable old scheme member[^key-d65461aa8ba6afd5fb771b5c20751319] —
+  - (a) who is both a member of—
+    - (i) the old scheme by virtue of having pensionable service to which Schedule 2 to the 1995 Regulations or Part 3 of the 2008 Regulations applies;
+    - (ii) the new scheme by virtue of having pensionable service in that scheme that would have been treated as practitioner service for the purposes of the old scheme had it been service in the old scheme; and
+  - (b) whose pensionable service for the old scheme and pensionable service for the new scheme are continuous, where—
+    - (i) paragraphs 3 and 4 of Schedule 7 to the 2014 Act (continuity of employment etc.) apply as they apply for the purposes of paragraphs 1(2) and 2(2) of that Schedule; and
+    - (ii) the person’s pensionable service for the old scheme and pensionable service for the new scheme are not continuous if scheme regulations made pursuant to section 8A(4)(b) of the Pensions (Increase) Act (Northern Ireland) 1971[^f00007] (references to “service”: relevant old scheme pension in payment) apply to the person;
+- “scheme manager” has the meaning given in regulation 3 of the 2015 Regulations;
+- “transition member” means a person who is either an officer transition member or a practitioner transition member.
+
+(2) In these Regulations any reference to pensionable employment, pensionable pay or pensionable service in relation to the old scheme, the 1995 Regulations or the 1995 Section includes a reference to superannuable employment, superannuable pay or superannuable service as respectively defined in the 1995 regulations.
+
+## PART 2 — Transitional provisions
+
+### CHAPTER 1 — Eligibility
+
+#### 3. Eligibility of pensioners[^key-2fe632a6ab692705182a25a3ca9b84b8]
+
+Schedule 1 (Eligibility of pensioners) has effect.
+
+### CHAPTER 2 — Notices and elections
+
+#### 4. Carry-forward of old scheme opt-out[^key-a8e78ca98e4e785d8f90953aa90cc75a]
+
+Where, on the date a person becomes eligible to join the new scheme, that person has—
+
+- (a) opted out of membership of the old scheme pursuant to regulation—
+  - (i) 9 of the 1995 Regulations; or
+  - (ii) 25 or 157 of the 2008 Regulations; or
+- (b) provided their employer with a valid opt-out notice for the purposes of regulations 9 or 15 of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^f00008] (“the 2010 Regulations”),
+
+that person is to be treated as having also opted out under paragraph 1 of Schedule 4 to the 2015 Regulations or given notice for the purposes of the 2010 Regulations in relation to the new scheme.
+
+#### 5. Nominations, notices and declarations[^key-0a25492c4c63b910b54c31d9a3758b67]
+
+(1) Paragraph (2) applies where—
+
+- (a) a nomination, notice or declaration of the type specified in column 1 of the table has been accepted in respect of benefits to be paid on the death of a person who is a member of the 1995 Section or the 2008 Section of the old scheme; and
+- (b) on the day that the member becomes an active member of the 2015 Scheme, the member has not revoked that nomination, notice or declaration.
+
+  Table
+
+  <table>
+  <thead>
+  <tr><th><em>Column 1</em><br><em>Nomination, notice or declaration in the 1995 Section or 2008 Section</em></th><th><em>Column 2</em><br><em>Corresponding notice or declaration in the 2015 Scheme</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>A nomination made in accordance with regulation 22 of the 1995 Regulations (payment of lump sum) in favour of one or more persons in respect of any lump sum that becomes payable under regulations 18 to 21 of the 1995 Regulations (which deal with lump sum payments on the death of a 1995 Section member in different circumstances).</td><td rowspan="2">A notice given in accordance with paragraph 9 (payment of lump sums on death) of Schedule 12 (lump sum on death) to the 2015 Regulations in favour of one or more persons in respect of any lump sums that become payable under regulation 111 of the 2015 Regulations.</td></tr>
+  <tr><td>A notice given in accordance with regulation 67 or 214 of the 2008 Regulations (payment of lump sums or pensions on death) in favour of one or more persons in respect of any lump sums or pensions that become payable under regulation 82 or 209 of the 2008 Regulations (which deal with lump sum or pension payments on the death of a 2008 Section member in different circumstances).</td></tr>
+  <tr><td>A notice given for the purpose of paragraph (3)(a) of regulation 22 of the 1995 Regulations that the member’s surviving partner (within the meaning of that regulation) is not to receive payment of any lump sum that becomes payable under regulations 18 to 21 of the 1995 Regulations.</td><td>A notice given in accordance with paragraph 9 (payment of lump sums on death) of Schedule 12 (lump sum on death) to the 2015 Regulations specifying that the member’s personal representatives are to receive any lump sum on the death of the member payable under regulation 111 of the 2015 Regulations.</td></tr>
+  <tr><td>. . .</td><td rowspan="2">. . .</td></tr>
+  <tr><td>. . .</td></tr>
+  </tbody>
+  </table>
+
+  [^key-c79f0c046c428ec62df36af6804e7dcd][^key-355d2a8918d18d585a5640dcacfc8934][^key-fa95787dd180c0f9efb2f53dfce806ce]
+
+(2) Where this paragraph applies, for the purposes of the 2015 Scheme, the nomination, notice or declaration mentioned is to be treated as if it had been accepted by the scheme manager as the corresponding notice or declaration in column 2 of the table in paragraph (1).
+
+(3) The revocation of—
+
+- (a) a nomination, notice or declaration of the type specified in column 1 of the table in paragraph (1) will also revoke the corresponding notice or declaration in column 2 of that table without more;
+- (b) a notice or declaration of the type specified in column 2 of the table in paragraph (1) will also revoke the corresponding nomination, notice or declaration in column 1 of that table without more.
+
+(4) The—
+
+- (a) making of a new a nomination or declaration, or giving of a new notice, of the type specified in column 1 of the table in paragraph (1) is also to be treated by the scheme manager as the giving of the corresponding notice or making of the corresponding declaration in column 2 of that table without more;
+- (b) giving of a new a notice or making of a new declaration of the type specified in column 2 of the table in paragraph (1) is also to be treated by the Department as the making of the corresponding nomination or declaration, or giving of the corresponding notice, of the type specified in column 1 of that table without more.
+
+### CHAPTER 3 — Membership status and breaks in service
+
+#### 6. Active member status preservation[^key-16dd8239e102082ce47ebe2bc53424f1]
+
+Unless otherwise provided in these Regulations, a transition member who is an active member of the new scheme is to be treated, for the purposes of the old scheme, as though they continue to be an active member of the old scheme notwithstanding the operation of section 18(1) of the 2014 Act.
+
+#### 7. Qualifying service[^key-a53ab270fc5f14c1e8911c7f514adc76]
+
+(1) In determining whether a transition member who is in pensionable service under the new scheme qualifies for retirement benefits (other than ill-health pension) under the old scheme, the member’s pensionable service under the old scheme terminates when the member’s pensionable service under the new scheme terminates.
+
+(2) Unless a transition member becomes a deferred member of the new scheme, the member does not become—
+
+- (a) a member with a preserved pension in the 1995 Section; or
+- (b) a deferred member of the 2008 Section.
+
+(3) Where a transition member with more than two years of qualifying service opts out of membership of the new scheme pursuant to regulation 15 of the 2015 Regulations, the member becomes—
+
+- (a) a member with a preserved pension under the 1995 Section; or
+- (b) a deferred member of the 2008 Section,
+
+in relation to service in that Section.
+
+(4) Where a transition member has re-entered pensionable service under the new scheme, that member ceases to be—
+
+- (a) a member with a preserved pension in the 1995 Section; or
+- (b) a deferred member of the 2008 Section.
+
+(5) In determining whether a member qualifies for benefits under the old scheme, the period of the member’s qualifying service under regulation 22 of the new scheme applies in place of the period calculated pursuant to regulation—
+
+- (a) 5 of the 1995 Regulations; or
+- (b) 10 or 141 of the 2008 Regulations.
+
+#### 8. Members on authorised unpaid leave[^key-75cdf1bcde0f9e715cdc6ff0045999b5]
+
+Where, on the date a person becomes eligible to join the new scheme, that person is on a leave of absence during which they are paying contributions pursuant to regulation 66 of the 1995 Regulations or 9(3) or 140(3) of the 2008 Regulations—
+
+- (a) regulation 21 of the 2015 Regulations applies to that person; and
+- (b) for the purposes of determining whether and for how long that person may continue to pay contributions under the 2015 Regulations, the contributions paid and the period of absence under the old scheme must be taken into account.
+
+#### 9. Casual staff and locums not working on eligibility date[^key-d4c99e1d35d1b37c6e6c3e7c257fda69]
+
+(1) Paragraph (2) applies where, on the date a person becomes eligible to join the new scheme, that person—
+
+- (a) is—
+  - (i) employed on a casual basis and has ceased to pay contributions under regulation 5(4A)[^f00009] of the 1995 Regulations or 10(2) of the 2008 Regulations; or
+  - (ii) a locum practitioner and has ceased to pay contributions under paragraph 9A[^f00010] of Schedule 2 to the 1995 Regulations or regulation 141(2) of the 2008 Regulations; and
+- (b) has ceased to pay those contributions because of a break which, on the date they become eligible to join the new scheme, is a break not exceeding a period of three months (“a relevant break”),
+
+(2) Regulation 22(5) and (6) of the 2015 Regulations applies as though the member’s relevant break had commenced whilst the member was an active member of the new scheme.
+
+#### 10. Disqualifying breaks in service[^key-c43f9a2347c69574895df77a82ce3b0e]
+
+(1) Paragraph (3) applies to a member with pensionable service in the old scheme who—
+
+- (a) on 1st April 2015—
+  - (i) is on a break in HSC employment in the old scheme; or
+  - (ii) has opted out of the old scheme pursuant to regulation—
+    - (aa) 9 of the 1995 Regulations; or
+    - (bb) 25 or 157 of the 2008 Regulations;
+- (b) was not—
+  - (i) entitled to a preserved pension under regulation 49 of the 1995 Regulations; or
+  - (ii) a deferred member of the 2008 Section in respect of that service,
+
+  when that service ceased; and
+- (c) subsequently becomes an active member of the new scheme.
+
+(2) Paragraph (4) applies to a member with pensionable service in the old scheme who—
+
+- (a) subsequently becomes an active member of the new scheme;
+- (b) has a break in pensionable service in the new scheme commencing on or after 2nd April 2015; and
+- (c) is not qualified for retirement benefits pursuant to regulation 71 of the 2015 Regulations on ceasing pensionable service in the new scheme.
+
+(3) Where a member’s break between pensionable service in the old scheme and pensionable service in the new scheme is less than one year—
+
+- (a) the contributions in respect of old scheme service are not refundable to the member under regulation—
+  - (i) 50 of the 1995 Regulations; or
+  - (ii) 44 or 175 of the 2008 Regulations; and
+- (b) if a refund under those regulations was paid in respect of the member’s old scheme service during the break, the member may repay that refund (including any interest on those contributions which was paid to the member) under regulation—
+  - (i) 52(5) of the 1995 Regulations; or
+  - (ii) 9(8) or 140(8) of the 2008 Regulations,
+
+  within six months of joining the new scheme.
+
+(4) Where a member’s break in pensionable service in the new scheme is five years or less—
+
+- (a) the contributions in respect of old scheme service are not refundable to the member under regulation—
+  - (i) 50 of the 1995 Regulations; or
+  - (ii) 44 or 175 of the 2008 Regulations; and
+- (b) if a refund under those regulations was paid in respect of the member’s old scheme service during the break, the member may repay that refund (including any interest on those contributions which was paid to the member) under regulation—
+  - (i) 52(5) of the 1995 Regulations; or
+  - (ii) 9(8) or 140(8) of the 2008 Regulations,
+
+  within six months of joining the new scheme.
+
+### CHAPTER 4 — Contributions and final pay
+
+#### 11. Contribution rate setting: Groups A to C[^key-8721a55773d03198828d38b4cd2dd75e]
+
+(1) This regulation applies to a transition member who belongs to Groups A, B or C in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^key-612f0d5f7a94ec01f97d3476cacf7a6b] was—
+
+- (a) a member in pensionable employment in the 1995 Section; or
+- (b) an active member of the 2008 Section.
+
+(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^key-521f48149f7d50620481018c62188a9f] —
+
+- (a) paragraph 2 of Schedule 9 to the 2015 Regulations applies as though the member was in pensionable service with the same employing authority on both—
+  - (i) the last day of the previous scheme year, and
+  - (ii) the first day of the current scheme year;
+- (b) in determining which of the cases the member falls into pursuant to sub-paragraph (2) of that paragraph, the member is to be assessed as if during the scheme year 1st April 2021[^key-ac263c152eef7f5a3637f288433bacff] to 31st March 2022[^key-579888a638ee358b134254af6b12602f] —
+  - (i) that member’s pensionable employment (within the meaning of the 1995 Section) or active service (within the meaning of the 2008 Section) was actually pensionable employment under the 2015 Regulations; and
+  - (ii) the percentage rate of contributions paid by the member during that year in the relevant Section was actually the percentage rate of contributions paid during the previous scheme year under the 2015 Regulations.
+
+#### 12. Contribution rate setting: Group D[^key-f2c4950d37c1723c6628925e15adf21c]
+
+(1) This regulation applies to a transition member who belongs to Group D in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^key-5ff2024a1dcf177c157ddf652af3e0c7] was—
+
+- (a) a member in pensionable employment in the 1995 Section; or
+- (b) an active member of the 2008 Section.
+
+(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^key-599ccc486617f6865fc90b9b90e98d6e], in regulations 37(4)(b) and 38(4)(b) of the 2015 Regulations, the member’s most recent certified or final pensionable earnings are to be the member’s certified earnings or final pensionable earnings derived from the member’s—
+
+- (a) pensionable employment in the 1995 Section, in accordance with paragraph 23 to Schedule 2 of the 1995 Regulations; or
+- (b) active service in the 2008 Section, in accordance with regulation 260 of the 2008 Regulations.
+
+#### 13. Taper protection for contribution tiering[^key-facbce125fbf4a3bd9a47ab9debe9106]
+
+(1) This regulation applies to—
+
+- (a) a member who—
+  - (i) is in pensionable employment in the 1995 Section on the day before they reach their eligibility cessation date (determined in accordance with regulation 8(15) or (16) of the 1995 Regulations[^f00011]); and
+  - (ii) who becomes an active member of the 2015 Scheme on that eligibility cessation date;
+- (b) a member who—
+  - (i) is an active member of the 2008 Section on the day before they reach their eligibility cessation date (determined in accordance with regulations 22(1F) or 154(1F) of the 2008 Regulations[^f00012]); and
+  - (ii) who becomes an active member of the 2015 Scheme on that eligibility cessation date.
+
+(2) Where this regulation applies—
+
+- (a) the member must pay contributions during the scheme year within which their eligibility cessation date falls at the percentage rate that applied to them on the day before their eligibility cessation date is reached under—
+  - (i) regulation 10 of, or paragraph 10 of Schedule 2 to, the 1995 Regulations; or
+  - (ii) regulation 28 or 161 of the 2008 Regulations;
+- (b) in the case of a member who belongs to Group A, B, or C in regulation 27(1) of the 2015 Regulations, the member must pay that rate for the remainder of the scheme year unless there is a change to the member’s employment or rate of pensionable earnings during that scheme year pursuant to paragraph 3 of Schedule 9 to the 2015 Regulations (in which case the rate of the member’s percentage contribution rate for the remainder of the scheme year must be re-assessed in accordance with that paragraph);
+- (c) in the case of a member who belongs to Group D in regulation 27(1) of the 2015 Regulations, the member must pay that rate for the remainder of the scheme year unless—
+  - (i) the Regional Health and Social Care Board (RHSCB) adjusts the member’s contribution rate pursuant to paragraph (6) of whichever of regulations 37 or 38 of the 2015 Regulations applies to the member; or
+  - (ii) paragraph (2)(a) or (b) of whichever of regulations 37 or 38 of the 2015 Regulations applies to the member is subsequently satisfied in respect of the member (in which case the member must pay the rate determined in accordance with paragraph (3) of whichever of those regulations applies to the member).
+
+#### 14. Determination of pensionable pay, final pensionable pay and reckonable pay[^key-fae5bd35adadd10710afcd3dc8ab6d66]
+
+(1) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^key-e1089152c15bf90fa6eb389e2a612b6b] , the member’s pensionable pay and final year’s pensionable pay are to be determined by reference to the 1995 Regulations (see in particular Part 1 of those Regulations).
+
+(2) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 2008 officer transition member or a non-pensionable 2008 Section member[^key-5570d86d068befd6138ddf83aec2d131] , the member’s pensionable pay and reckonable pay are to be determined by reference to the 2008 Regulations (see in particular Chapter 1 of Part 2 of those Regulations).
+
+#### 15. No refund of contributions in cases of inordinate pay[^key-0cfff085b39a9888d33b959c8e78f14c]
+
+Where the Department determines the amount of a member’s final years’ pensionable pay in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^key-fd01a35514f4537dec973156855b295f] pursuant to paragraph (10) of regulation 3 of the 1995 Regulations, no refund of contributions is payable under paragraphs (12)(b) and (c) of that regulation[^f00013].
+
+#### 16. Cessation of final salary link on payment of benefits[^key-4f530279c2fdd5b41b3e90b4daf6eace]
+
+Where an officer transition member’s benefits or a non-pensionable old scheme member’s benefits[^key-bd2ac1caf89f2d9c87316b082001d4cf] under the old scheme calculated by reference to Schedule 7 to the 2014 Act have been put into payment, those benefits cannot be recalculated by reference to that Schedule where there is a subsequent period of pensionable public service within the meaning of paragraph 3 of that Schedule.
+
+#### 17. Final salary link: Mental Health Officers[^key-2e138f260e6ecf615aaabfd0569d60cf]
+
+(1) This regulation applies to a 1995 officer transition member—
+
+- (a) to whom regulation 76(1) of the 1995 Regulations applied on the member’s last day of pensionable service in the 1995 Section;
+- (b) to whom regulation 76(10) or (11) of the 1995 Regulations applied on the member’s last day of pensionable service in the 1995 Section; and
+- (c) who has at least one day of pensionable service in the new scheme (“notional mental health officer service”) which, had it been served in the 1995 Section, would have—
+  - (i) satisfied the definition of “mental health officer” in regulation 76(14) of the 1995 Regulations, and
+  - (ii) been service to which regulation 76(1) would have applied.
+
+(2) Where this regulation applies, the final year’s pensionable pay to be used in the calculation of the member’s benefits under regulation 76(10) or (11) of the 1995 Regulations will be that derived from the member’s notional mental health officer service.
+
+#### 17A. Final salary link: non-pensionable old scheme members[^key-8aeb2727289ba439af2bb74c5e79d0e9]
+
+(1) This regulation applies if benefits under the old scheme payable to or in respect of a non-pensionable old scheme member are to be calculated by reference to that member’s final salary as determined in accordance with Schedule 7 to the 2014 Act (“the member’s final salary link”).
+
+(2) Where this regulation applies, the benefits under the old scheme payable to or in respect of the member may be calculated without reference to the member’s final salary link if it would be more beneficial to the member or other beneficiary to do so.
+
+#### 18. Uprating of old scheme practitioner earnings[^key-4b6956be75178faaea28a80279bd41af]
+
+(1)[^key-62ce7336807f1f6f05d4771d963601e6] Subject to paragraphs (2) and (3), in relation to a practitioner transition member as regards the period after 31<sup>st</sup> March 2015 in which the member is a member of the new scheme.
+
+- (a) paragraph 11(2)(b) of Schedule 2 to the 1995 Regulations; and
+- (b) regulation 176(4) of the 2008 Regulations,
+
+apply as though the words “the annual increase due under the provisions of the Pensions (Increase) Act (Northern Ireland) 1971 and Article 69 of the Social Security Pensions (Northern Ireland) Order 1975, plus” were omitted.
+
+(2)[^key-dbdfae178788064a9008accf0c7bf40d] Paragraph (3) applies if a practitioner transition member is purchasing additional service pursuant to regulation 22 (Existing additional service and unreduced lump sum contracts).
+
+(3) Paragraph (1) does not apply for the purposes of calculating that member’s uprated pensionable earnings in relation to that purchase for the purposes of sub-paragraph (5) of paragraph 20 of Schedule 2 to the 1995 Regulations.
+
+#### 19. Flexibility earnings credit: calculation[^key-6a984d557f99e160efe0a5ff22bf7dc6]
+
+(1) This regulation and regulations 20 and 21 apply to a transition member who—
+
+- (a) has pensionable service as a practitioner in either the old scheme or the new scheme; and
+- (b) has pensionable service in the old scheme as an officer.
+
+(2) Where this regulation applies, the member is entitled to a flexibility earnings credit equal to—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+
+where—
+
+- F is the total amount of the member’s pension in the old scheme as at the last day of pensionable service in that scheme;
+- P is the amount of the member’s pension in the old scheme arising solely from service as a practitioner as at the last day of pensionable service in that scheme;
+- A is—
+  - (i) 1.4% if the 1995 Section applies to the member;
+  - (ii) 1.87% if the 2008 Section applies to the member,
+
+and the amounts of pension for the purposes of this calculation are amounts before any actuarial reduction is applied by reason of payment before normal pension age for the relevant Section.
+
+#### 20. Flexibility earnings credit: uprating[^key-d438be3cb20f9933a0e8cc9b7f70f638]
+
+(1) The amount of a flexibility earnings credit calculated under regulation 19(2) is to be increased at the rate specified in paragraph (2) for each year or part year from the day after the last day of pensionable service in the old scheme until the earlier of—
+
+- (a) the claiming of pension benefits under the old scheme;
+- (b) the member’s last day of pensionable employment under the 2015 Regulations; or
+- (c) where the member has one or more breaks of service under the 2015 Regulations that exceeds five years, the last day of pensionable service following which the earliest such break commenced,
+
+in order to generate an uprated flexibility earnings credit.
+
+(2) The annual rate of increase of a flexibility earnings credit is the rate set for that year by the Department after having taken the advice of the scheme actuary for the purpose.
+
+#### 21. Flexibility earnings credit: adjustment of pension payable[^key-3d24d38dd954cb3fa2222f416fdc0f5e]
+
+(1) Where pension benefits are payable under the old scheme, the amount payable is adjusted as follows.
+
+(2) As regards the element of pension payable under the old scheme in respect of service as an officer, the member is entitled only to the higher of—
+
+- (a) the amount of pension actually payable under the old scheme in respect of service as an officer;
+- (b) the amount of pension payable under the old scheme—
+  - (i) as if the member’s period of pensionable service as an officer were treated as pensionable service as a practitioner, and
+  - (ii) as though the uprated flexibility earnings credit were treated as pensionable earnings as a practitioner for that period,
+
+and the provisions of paragraphs 9 and 11A of Schedule 2 the 1995 Regulations[^f00014] and Part 4 of the 2008 Section do not apply.
+
+### CHAPTER 5 — Additional contributions
+
+#### 22. Existing additional service and unreduced lump sum contracts[^key-9db88f1d55aebe358faf13ee87d2a336]
+
+(1) This regulation applies to a member of the new scheme who—
+
+- (a) on the member’s last day of pensionable service in the 1995 Section was paying for additional service or an unreduced retirement lump sum by regular additional contributions pursuant to regulation 72 of the 1995 Regulations;
+- (b) does not have a break between the last day of pensionable service in the 1995 Section and the first day of pensionable service in the new scheme lasting for 12 months or more.
+
+(2) Where this regulation applies, the provisions of—
+
+- (a) regulations 67 to 72 of the 1995 Regulations continue to apply to the member as though the member continues in pensionable service under the 1995 Section until the earliest of—
+  - (i) the chosen date (as defined in regulation 72 of the 1995 Regulations);
+  - (ii) if the member has a break in pensionable service under the new scheme lasting for 12 months or more, the last day of pensionable service that preceded that break;
+  - (iii) the day preceding the day on which the member stops paying additional contributions; or
+  - (iv) retirement from pensionable employment under the new scheme; and
+- (b) regulation 73B[^f00015] of the 1995 Regulations continues to apply if the member who is paying for additional service or unreduced retirement lump sum by regular additional contributions stops paying before the chosen date under regulation 72(3) of the 1995 Regulations,
+
+the member’s pensionable earnings in the new scheme are to be treated as the member’s pensionable pay in the 1995 Section for the purpose of determining the amount of any additional contributions due.
+
+#### 23. Existing additional pension contracts[^key-efb9fe8c75244dc4e0dec76be87f60c4]
+
+(1) This regulation applies to a member of the new scheme who—
+
+- (a) on the member’s last day of pensionable service in the old scheme was paying for additional pension by additional periodical contributions pursuant to regulation—
+  - (i) 73A of the 1995 Regulations; or
+  - (ii) 34 or 165 of the 2008 Regulations;
+- (b) does not have a break between the last day of pensionable service in the old scheme and the first day of pensionable service in the new scheme lasting for 12 months or more.
+
+(2) Where this regulation applies, the provisions of—
+
+- (a) the relevant regulations continue to apply to the member as though the member continues in pensionable service under the old scheme until the earliest of—
+  - (i) the end of the contribution option period (as defined in the old scheme);
+  - (ii) if the member has a break in pensionable service under the new scheme lasting for 12 months or more, the last day of pensionable service that preceded that break;
+  - (iii) the day preceding the day on which the member stops paying additional periodical contributions; or
+  - (iv) retirement from pensionable employment under the new scheme; and
+- (b) regulation—
+  - (i) 73I of the 1995 Regulations, or
+  - (ii) 42 or 173 of the 2008 Regulations,
+
+  continues to apply if the member who is paying for additional pension by additional periodical contributions stops paying before the end of the contribution option period.
+
+(3)[^key-27170fbc1b04899aaf3a5034494bf05c] In paragraph (2), “relevant regulations” means—
+
+- (a) in the case of a member whose old scheme service was in the 1995 Section, regulations 73A to 73H and 73J of the 1995 Regulations; and
+- (b) in the case of a member whose old scheme service was in the 2008 Section—
+  - (i) regulations 34 to 41 and 43 to 44; or
+  - (ii) regulations 165 to 172 and 174 to 175,
+
+  of the 2008 Regulations.
+
+#### 24. Additional contributions: ill-health[^key-bd7c5199637a1e6d00b6de1cd117721b]
+
+Where regulation 22 or 23 applies, references to—
+
+- (a) regulation 13 and 13A in regulations 73 and 73H of the 1995 Section;
+- (b) regulation 52 in regulation 41 of the 2008 Section; and
+- (c) regulation 182 in regulation 172 of the 2008 Section,
+
+are to be read as references to an ill-health pension under regulation 89 of the 2015 Regulations in accordance with regulations 28 and 29 of these Regulations.
+
+#### 25. Decoupling of benefits derived from additional contributions[^key-dc2639d7b68444a6739f8ca159b34f1f]
+
+(1) This regulation applies to a transition member who has accrued entitlements in the 1995 Section from the payment of additional contributions under Part VIII of the 1995 Regulations.
+
+(2) Where this regulation applies, the member may elect that the part of a pension payable under regulation 12 of the 1995 Regulations derived solely from the payment of additional contributions under Part VIII of those Regulations should be payable from—
+
+- (a) the member’s chosen date (subject to paragraph (10), as defined in regulation 72(3)), or, if later, the date on which the member joins the new scheme,[^key-694e1bae73bb7e96f10508c5c083960c] in the case of purchase of additional service;
+- (b) the member’s chosen birthday (subject to paragraph (10), as defined in regulation 73A), or, if later, the date on which the member joins the new scheme,[^key-9b77b9456b40b673b2ca07a2ee59898d] in the case of purchase of additional pension,
+
+notwithstanding the fact that the member continues in pensionable service under the new scheme (and for the purposes of any calculation, the member is to be taken to have retired from pensionable service on the member’s chosen date or [^key-f4189befc5d1834dedf7d5e86cd41f6c]... chosen birthday (as applicable)) or, if later, the date on which the member joins the new scheme[^key-dd3bcefb0615a7fe448771c405581b0a].
+
+(3) Paragraph (4) applies where the member has—
+
+- (a) made more than one election under regulation 70 or 72 of the 1995 Regulations;
+- (b) exercised the option under regulation 73A or 73C of the 1995 Regulations more than once; or
+- (c) made one or more elections under regulation 72 of the 1995 Regulations and exercised the option under regulation 73A of the 1995 Regulations once or more.
+
+(4) Any election under paragraph (2)—
+
+- (a) must—
+  - (i) where it relates to an election under regulation 70 or 72 of the 1995 Regulations be made in relation to every election under those regulations; and
+  - (ii) where it relates to an election under regulation 73A or 73C of the 1995 Regulations be made in relation to every election under those regulations;
+
+  which has the same date as the member’s chosen date or chosen birthday (as applicable); and
+- (b) may be made on a second or subsequent occasion in respect of elections under regulation 70 or 72 of the 1995 Regulations and options under regulation 73A or 73C of the 1995 Regulations which have as the member’s chosen date or chosen birthday (as applicable) a date different from any date in respect of which an election has previously been made under paragraph (2).
+
+(5) Regulations 17 and 17A of the 1995 Regulations (where relevant) apply in relation to a payment made pursuant to this regulation.
+
+(6) An election for the purposes of paragraph (2) must be given in writing to the scheme manager, containing such information as the scheme manager requires—[^key-466a53df939a41374c1eba3966140895]
+
+- (a) no later than one month before the member’s chosen date or chosen birthday (as applicable); or
+- (b) if—
+  - (i) the member joins the new scheme less than six months before the member’s chosen date or chosen birthday (as applicable); or
+  - (ii) the member joins the new scheme on or after the member’s chosen date or chosen birthday (as applicable),
+
+  no later than five months after the date on which the scheme manager provides the notification referred to in paragraph (9).
+
+(7) Where payment of part of a pension is made pursuant to paragraph (2) in respect of additional service resulting from an election under regulation 70 or 72 of the 1995 Regulations—
+
+- (a) regulations 19, 25 and 35 of the 1995 Regulations apply to that part of a pension as though it was the member’s pension for the purposes of those regulations;
+- (b) the 1995 Regulations apply to the member’s remaining entitlements under those Regulations as though no additional contributions had been made under Part VIII; and
+- (c) no further pension in respect of the additional contributions actually paid under Part VIII of the 1995 Regulations is payable under those Regulations.
+
+(8) Where payment of part of a pension is made pursuant to paragraph (2) in respect of additional pension resulting from an option under regulation 73A or 73C of the 1995 Regulations—
+
+- (a) regulation 73G(4) to (8) of the 1995 Regulations applies;
+- (b) the 1995 Regulations apply to the member’s remaining entitlements under those Regulations as though no additional contributions had been made under Part VIII; and
+- (c) no further pension in respect of the additional contributions actually paid under Part VIII of the 1995 Regulations is payable under those Regulations.
+
+(9) The scheme manager must notify the member in writing of the right to make an election under this regulation—[^key-0434f07febf6e917fc65eecfc52659c5]
+
+- (a) at least six months before the member’s chosen date or chosen birthday (as applicable); or
+- (b) if the member joins the new scheme at a time specified in paragraph (6)(b)(i) or (ii), no later than three months after the date on which the member joins the new scheme.
+
+(9A)[^key-b45e02bb980a373e22c1fb40cdf09548] A notice for the purpose of paragraph (9) must specify—
+
+- (a) the date on which any pension payable pursuant to this regulation would come into payment were an election to be made;
+- (b) the amount of any pension payable under this regulation (before any option to commute part of the pension into a lump sum); and
+- (c) the date by which the election under this regulation must be received by the scheme manager pursuant to paragraph (6).
+
+(10) In paragraph (2)—
+
+- (a) the “chosen date” for an election under regulation 70 is the date of the member’s 60th birthday; and
+- (b) the “chosen birthday” for an election under regulation 73C is the member’s 60th birthday.
+
+### CHAPTER 6 — Bulk Transfers
+
+#### 26. Acceptance of bulk transfers[^key-83ad0df03eb5dfabaf847452af52a0fe]
+
+(1) If, in circumstances where regulation 147 of the 2015 Regulations applies, the special terms agreed for the acceptance of transfer payments require such part of a transfer value payment as relates to a member’s final salary benefits to be paid into the 1995 Section or the 2008 Section, that part of the transfer value must be paid into that Section.
+
+(2) In this regulation, “final salary benefit” means—
+
+- (a) benefit accrued under a final salary scheme; and
+- (b) where only part of the pension entitlement payable under a final salary scheme to or in respect of a person which is based on the pensionable service of that person is or may be determined by reference to the person’s final salary, the benefit in respect of which the pension entitlement is so determined.
+
+### CHAPTER 7 — Retirement benefits
+
+#### 27. Ill health benefits: continuity of existing applications[^key-0c2071af71202e0cdd2b4ab148fca7d1]
+
+(1) This regulation , except paragraph (1A) and paragraph (2) to the extent that it relates to paragraph (1A),[^key-1ec84d46b3c5e6bf23b0605ab7fb62ba] applies during the application period[^key-726638487f0587f432f9024bb00136ff] to a member—
+
+- (a) who, on the transition date—[^key-7545574a9431feb6e004cd9c5f9a7c03]
+  - (i) is prevented from contributing to or accruing further pensionable[^key-c9a42acc3252e3bb2a83bdfcff8ea33b] service in the 1995 Section or being an active member of the 2008 Section; and[^key-909cf6699bb5fe012d3f2433379a361a]
+    - (aa)[^key-ce2da3350acabeacd8a6d75fce352d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb)[^M_F_e9569838-5406-444e-9f0f-51b3cbc6356e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) becomes eligible to join the new scheme [^key-4cb462914a6a8d172e286fba162f2354]...;
+- (b) who submitted Form AW33 (or such other form as the Department accepted) together with supporting medical evidence (if[^key-264823faddf62d1ed10ac859503539e0] not included in the form) for the purposes of 1995 regulation 13A (Ill health pension on early retirement), 2008 regulation 52 or 2008 regulation 182 (Early retirement on ill-health: active members and non-contributing members)[^key-0ae30d0eb464a915817b8be9bfbeb9ef] before the transition date;
+- (c) whose Form AW33 (or such other form as the Department accepted)[^key-9cab4a51f952006dc2f5132112301524] and supporting medical evidence (“the member’s application for ill-health pension”)[^key-42b1e4111cf3526d96a95582b43e958f] was received by the Department before the transition date; and
+- (d) whose ill-health pension has not become payable under the 1995 Section or the 2008 Section before the transition date.
+
+(1A)[^key-c37c71786e76e003e6b93fa64d6cdb2f] This regulation, except paragraph (1) and paragraph (2) to the extent that it relates to paragraph (1), applies during the application period to a member—
+
+- (a) who has remediable service in the legacy scheme up to and including 31st March 2022—
+  - (i) that is pensionable service under that scheme by virtue of section 2(1) of PSPJOA 2022;
+  - (ii) in respect of which an immediate choice election by virtue of regulation 9 of the Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (election for 2015 scheme benefits: immediate choice members and deceased members) has not been made;
+- (b) who on the transition date—
+  - (i) was prevented from contributing to or accruing further pensionable service in the 1995 Section or being an active member of the 2008 Section; and
+  - (ii) was eligible to be an active member of the new scheme;
+- (c) who submitted Form AW33E (or such other form as the Department accepted) together with supporting medical evidence (if not included in the form) for the purposes of 2015 regulation 89 before the transition date;
+- (d) whose Form AW33E (or such other form as the Department accepted) and supporting medical evidence (“the member’s application for ill-health pension”) was received by the Department before the transition date; and
+- (e) whose ill-health pension had not become payable under the new scheme before the transition date.
+
+(2) For the purposes of[^key-fabe74be656536efac285e8d7e0a9e73] paragraphs (1) and (1A)[^key-f34a64221bce3041ed0b062584c5cd87] , “**the application period**” in relation to a member is the period which ends with the day on which—
+
+- (a) the member withdraws the application for ill-health pension; or
+- (b) the Department determines that there is no entitlement to an[^key-336ff35383ef9071faaca05a9a301826] ill-health pension in respect of that application[^key-ab23f2173ccf83e5bfdd8d6000785dc2] and that determination has become final and binding.
+
+(3) For the purposes of paragraph (2)(b), a determination becomes final and binding when—[^key-b6a342f517a1ca793567d692108a890b]
+
+- (a) the determination may not be the subject of further challenge by the member—
+  - (i) pursuant to dispute resolution arrangements made and implemented under Article 50 of the Pensions (Northern Ireland) Order 1995[^f00018];
+  - (ii) by way of a complaint to the Pensions Ombudsman pursuant to Part X of the Pension Schemes (Northern Ireland) Act 1993[^f00019]; or
+  - (iii)[^key-1288d0424b4a5bc76771cb597dd7e249] by proceedings before a court or tribunal; or
+- (b) [^key-3cc9e93473d14d3db5bcc823b427985c]... the member has indicated in writing that—
+  - (i) the application for ill-health pension is withdrawn; or
+  - (ii) the determination is accepted by the member as being final and binding and any right to further challenge is waived.
+
+(4)[^key-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-0f7f4055fe02284990a1cf055ba394c2] Where this regulation applies—
+
+- (a) the member’s application for ill-health pension is considered in accordance with paragraph (8) or (9) (whichever is relevant); and
+- (b) the member’s benefits, if any, are paid in accordance with paragraph (10) and the further provisions referred to in that paragraph (whichever are relevant).
+
+(8) If the member was in pensionable employment in the 1995 Section on 31st March 2022, the member’s application for ill-health pension is considered—
+
+- (a) as an application for ill-health pension for the purposes of 2015 regulation 89 (Entitlement to ill-health pension); and
+- (b) as if it were also an application for ill-health pension for the purposes of 1995 regulation 13A.
+
+(9) If the member was an active member of the 2008 Section on 31st March 2022, the member’s application for ill-health pension is considered—
+
+- (a) as an application for ill-health pension for the purposes of 2015 regulation 89; and
+- (b) as if it were also an application for ill-health pension for the purposes of 2008 regulation 52 or 2008 regulation 182.
+
+(10) The member’s benefits will be paid in accordance with—
+
+- (a) paragraph (13) if, as a result of consideration under paragraph (8), the member satisfies the tier 1 condition or the tier 2 condition for the purposes of paragraph (2)(b)(i) or (ii) of 1995 regulation 13A (together “the 1995 regulation 13A ill-health conditions”) but does not satisfy the Tier 1 condition or the Tier 2 condition for the purposes of paragraph (2)(c) or (3)(b) of 2015 regulation 89 (together “the 2015 regulation 89 ill-health conditions”);
+- (b) paragraph (14) if, as a result of consideration under paragraph (9), the member satisfies the condition at paragraph (2)(a) or (3)(a) of 2008 regulation 52 or 2008 regulation 182 (together “the 2008 ill-health conditions”) but does not satisfy either of the 2015 regulation 89 ill-health conditions;
+- (c) paragraph (16) if—
+  - (i) as a result of—
+    - (aa) consideration under paragraph (8), the member satisfies one or both of the 1995 regulation 13A ill-health conditions and one or both of the 2015 regulation 89 ill-health conditions; or
+    - (bb) consideration under paragraph (9), the member satisfies one or both of the 2008 ill-health conditions and one or both of the 2015 regulation 89 ill–health conditions; and
+  - (ii) the annual rate of ill-health pension to which the member would have been entitled under 1995 regulation 13A, 2008 regulation 52 or 2008 regulation 182 if the member had retired from pensionable employment or ceased HSC employment on 31st March 2022 is, subject to paragraphs (11) and (12), greater than the annual rate of ill-health pension to which the member is entitled under paragraph (3)(a) or (4) of regulation 28 (Ill health benefits: members below old scheme normal pension age) as at the date the member ceased HSC employment for the purposes of the 2015 Regulations (“the pension comparison calculation”);
+- (d) regulation 28(3) or (4) if—
+  - (i) sub-paragraph (c)(i)(aa) or (bb) applies to the member; and
+  - (ii) the annual rate of ill-health pension payable to the member under regulation 28(3)(a) or (4) is greater than the annual rate of ill-health pension to which the member would have been entitled under 1995 regulation 13A, 2008 regulation 52 or 2008 regulation 182, as determined in accordance with the pension comparison calculation, if the member had retired from pensionable employment or ceased HSC employment on 31st March 2022.
+
+(11) If the member was in pensionable employment in the 1995 Section on 31st March 2022, for the purposes of the pension comparison calculation, the pensions (“**P**”) under—
+
+- (a) 1995 regulation 13A; and
+- (b) regulation 28(3)(a)(ii),
+
+are each increased by the amount found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+
+(12) If the member was an active member of the 2008 Section on 31st March 2022 who is entitled to a lump sum (“**LS**”) under regulation 28(3)(b)(ii) or (iii), for the purposes of the pension comparison calculation, the pensions under—
+
+- (a) 2008 regulation 52 or 2008 regulation 182; and
+- (b) regulation 28(3)(a)(ii),
+
+are each increased by the amount found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+
+(13) Where this paragraph applies to the member (see paragraph (10)(a)), the annual rate of ill-health pension and the lump sum payable from the new scheme is equal to—
+
+- (a) either—
+  - (i) if the member satisfies the tier 1 condition in paragraph (2)(b)(i) of 1995 regulation 13A, the tier 1 ill-health pension the member would have been entitled to under that regulation if the member had retired from pensionable employment on 31st March 2022; or
+  - (ii) if the member satisfies the tier 2 condition in paragraph (2)(b)(ii) of 1995 regulation 13A, the tier 2 ill-health pension the member would have been entitled to under that regulation if the member had retired from pensionable employment on 31st March 2022; and
+- (b) the lump sum to which the member would have been entitled under regulation 17 (Lump sum on retirement) of the 1995 Regulations as a consequence of becoming entitled to the payment of one of those pensions.
+
+(14) Where this paragraph applies to the member (see paragraph (10)(b)), the annual rate of ill-health pension and the lump sum payable from the new scheme is equal to—
+
+- (a) if the member satisfies the tier 1 condition in paragraph (2)(a) of 2008 regulation 52 or 2008 regulation 182, the tier 1 ill-health pension the member would have been entitled to under whichever of those regulations applies to the member if the member had ceased to be employed in HSC employment on 31st March 2022; or
+- (b) if the member satisfies the tier 2 condition in paragraph (3)(a) of 2008 regulation 52 or 2008 regulation 182, the tier 2 ill-health pension the member would have been entitled to under whichever of those regulations applies to the member if the member had ceased to be employed in HSC employment on 31st March 2022.
+
+(15) On the payment of a pension to a member in accordance with paragraph (13) or (14), all rights in respect of that member under the old scheme are extinguished.
+
+(16) Where this paragraph applies to the member (see paragraph (10)(c))—
+
+- (a) the annual rate of ill-health pension payable from the new scheme under regulation 28 is increased by an amount equal to the difference between the annual rate of the member’s ill-health pension under 1995 regulation 13A, 2008 regulation 52 or 2008 regulation 182 and the annual rate of the member’s ill-health pension under regulation 28(3)(a) or (4), determined in accordance with the pension comparison calculation; and
+- (b) that increase is applied to the member’s ill-health pension under regulation 28 after the calculation of the Tier 2 addition (if any) in accordance with paragraph (4)(b) of that regulation.
+
+(17) Paragraphs (18) and (19) apply if a member receiving an ill-health pension under paragraph (10)(a) or (b) dies (“the deceased member”).
+
+(18) If a surviving adult dependant of the deceased member is entitled to a pension in accordance with regulation 115 (Amount of pension: survivor of pensioner member) of the 2015 Regulations, the annual rate of the adult survivor pension payable under paragraph (4)(a) of that regulation is—
+
+- (a) 50% of the pension to which the member was entitled at the date of death (disregarding any additional pension) if the member was receiving a pension under paragraph (13) of this regulation on that date; and
+- (b) 37.5% of the pension to which the member was entitled at the date of death (disregarding any additional pension) if the member was receiving a pension under paragraph (14) of this regulation on that date.
+
+(19) If a child’s pension becomes payable in respect of an eligible child of the deceased member in accordance with regulation 123 (Amount of child pension: deceased pensioner member) of the 2015 Regulations, the basic death pension for the purposes of paragraph (3)(a) of that regulation is—
+
+- (a) 100% of the pension to which the member was entitled at the date of death (disregarding any additional pension) if the member was receiving a pension under paragraph (13) of this regulation on that date; and
+- (b) 75% of the pension to which the member was entitled at the date of death (disregarding any additional pension) if the member was receiving a pension under paragraph (14) of this regulation on that date.
+
+(20) For the purposes of the 2015 Regulations—
+
+- (a) a member’s pension entitlement under the new scheme that is equivalent to entitlement to one of the following pensions is treated as if it were entitlement to an ill-health pension at Tier 1 under 2015 regulation 89—
+  - (i) a tier 1 pension under 1995 regulation 13A referred to in paragraph (13)(a)(i);
+  - (ii) a tier 1 pension under 2008 regulation 52 or 2008 regulation 182 referred to in paragraph (14)(a);
+- (b) a member’s pension entitlement under the new scheme that is equivalent to entitlement to one of the following pensions is treated as if it were entitlement to an ill-health pension at Tier 2 under 2015 regulation 89—
+  - (i) a tier 2 pension under 1995 regulation 13A referred to in paragraph (13)(a)(ii);
+  - (ii) a tier 2 pension under 2008 regulation 52 or 2008 regulation 182 referred to in paragraph (14)(b);
+  - (iii) a pension under regulation 28 that is increased in accordance with paragraph (16) by an amount equal to the difference between the annual rate of the ill-health pension payable under regulation 28(3)(a) and the annual rate of the member’s tier 2 ill-health pension under 1995 regulation 13A, 2008 regulation 52 or 2008 regulation 182 as determined in accordance with the pension comparison calculation.
+
+(21) In this regulation—
+
+- “**1995 regulation 13A**” means regulation 13A of the 1995 Regulations;
+- “**1995 regulation 13A ill-health conditions**” has the meaning given in paragraph (10)(a);
+- “**2008 regulation 52**” means regulation 52 of the 2008 Regulations;
+- “**2008 regulation 182**” means regulation 182 of the 2008 Regulations;
+- “**2015 regulation 89**” means regulation 89 of the 2015 Regulations;
+- “**the 2008 ill-health conditions**” has the meaning given in paragraph (10)(b);
+- “**the 2015 regulation 89 ill-health conditions**” has the meaning given in paragraph (10)(a);
+- “**the deceased member**” has the meaning given in paragraph (17);
+- “**the member’s application for ill-health pension**” has the meaning given in paragraph (1)(c) or (1A)(d) (whichever is relevant)[^key-dbb7cde1fae0d99881b2f9f978dcfef1] ;
+- “**the pension comparison calculation**” has the meaning given in paragraph (10)(c)(ii) ;[^key-dcc60b296c6f31d43b5e4616e39d4488]
+- “[^key-19def15286313f0f518ede8938925e72] **the transition date** ” means 1st April 2022.
+
+#### 28. Ill health benefits: members below old scheme normal pension age[^key-b3dde050bf764b28923cb0749f6d7e47]
+
+(1) This regulation applies in relation to a transition member who—
+
+- (a) becomes entitled to an ill-health pension under the new scheme; and
+- (b) has not reached the old scheme normal pension age.
+
+(2) If this regulation applies—
+
+- (a) an ill-health pension and lump sum are not payable under the old scheme;
+- (b) an ill health pension is payable under the new scheme in accordance with this regulation; and
+- (c) the member becomes a deferred member of the old scheme (but no entitlement to a pension arises under—
+  - (i) regulation 49(3) of the 1995 Regulations; or
+  - (ii) regulations 48, 54, 179 and 184 of the 2008 regulations,
+
+  by virtue of becoming a deferred member pursuant to this regulations).
+
+(3) If the member meets the Tier 1 conditions set out in regulation 89 (entitlement to ill-health pension) of the 2015 Regulations—
+
+- (a) the annual rate of ill-health pension payable under the new scheme is the sum of—
+  - (i) the annual rate of a Tier 1 ill-health pension payable under the new scheme; and
+  - (ii) the annual rate of earned pension that would, if the member was entitled to payment of an ill-health pension under the old scheme, be payable to the member at the old scheme normal pension age; and
+- (b) the member is entitled to payment of a lump sum of the amount of the lump sum (if any) which would, had the member been entitled to payment of an ill-health pension under the old scheme, be payable to the member under—
+  - (i) regulation 17 (Lump sum on retirement) of the 1995 Regulations;
+  - (ii) regulation 136L (Amount of pension and lump sum to be paid to a 2008 Section Optant) of the 2008 Regulations; or
+  - (iii) regulation 260K (Amount of pension and lump sum to be paid to a 2008 Section Optant) of the 2008 Regulations.
+
+(4) If the member meets the Tier 2 conditions set out in regulation 89 (Entitlement to ill-health pension) of the 2015 Regulations, the annual rate of ill-health pension and lump sum payable under the new scheme is the sum of—
+
+- (a) the amounts specified at paragraph (3); and
+- (b) the annual rate of a Tier 2 addition payable under the new scheme.
+
+(5) If, after the ill-health pension becomes payable under this regulation, a transfer payment is made from the old scheme in respect of the member’s rights under that scheme, the scheme manager must deduct from the amount of ill-health pension payable under this regulation in respect of service in the old scheme an amount which is equal to the value of the pension represented by that transfer payment.
+
+(6) The amount of pension payable under this regulation which represents the amount that would have been payable under the old scheme is subject to the same conditions, and ceases to be payable in the same circumstances, as the pension to which the member would have been entitled under the old scheme in accordance with whichever of the 1995 Regulations or the 2008 Regulations are applicable.
+
+(6A)[^key-876a1edb18f2ceec3da64d4ebfee59c3] Paragraphs (6B) and (6C) apply if a member receiving an ill health pension under this regulation dies before reaching old scheme normal pension age.
+
+(6B) If a surviving adult dependant of the member is entitled to a pension in accordance with regulation 115 (Amount of pension: survivor of pensioner member) of the 2015 Regulations the annual rate of the adult survivor pension payable under paragraph (4)(a) of that regulation is—
+
+- (a) if the member was in pensionable employment in the 1995 Section before becoming an active member of the new scheme, the sum of—
+  - (i) 33.75% of the pension to which the member was entitled at the date of death (disregarding any additional pension) under the new scheme;
+  - (ii) 16.25% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
+  - (iii) 16.25% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation; or
+- (b) if the member was an active member of the 2008 Section before becoming an active member of the new scheme, the sum of—
+  - (i) 33.75% of the pension to which the member was entitled at the date of death (disregarding any additional pension) under the new scheme;
+  - (ii) 3.75% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
+  - (iii) 3.75% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation.
+
+(6C) If a child’s pension becomes payable in respect of an eligible child of the member in accordance with regulation 123 (Amount of child pension: deceased pensioner member) of the 2015 Regulations the basic death pension for the purposes of paragraph (3)(a) of that regulation is—
+
+- (a) if the member was in pensionable employment in the 1995 Section before becoming an active member of the new scheme, the sum of—
+  - (i) 67.5% of the deceased member’s annual pension (disregarding any additional pension) under the new scheme;
+  - (ii) 32.5% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
+  - (iii) 32.5% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation; or
+- (b) if the member was an active member of the 2008 Section before becoming an active member of the new scheme, the sum of—
+  - (i) 67.5% of the deceased member’s annual pension (disregarding any additional pension) under the new scheme;
+  - (ii) 7.5% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
+  - (iii) 7.5% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation.
+
+(7) In this regulation and regulation 29—
+
+- (a) a reference to the annual rate of earned pension payable under the old scheme means the annual pension payable under the following provisions—
+  - (i) if the member was an active member of the 1995 Section before becoming an active member of the new scheme, regulation 12 of that Section;
+  - (ii) if the member was an active member of the 2008 Section before becoming an active member of the new scheme, regulation 45 or 176 of that Section;
+- (b) a reference to an ill-health pension payable under the old scheme means a pension payable under the following provisions—
+  - (i) if the member was an active member of the 1995 Section before becoming an active member of the new scheme, regulation 13A of that Section;
+  - (ii) if the member was an active member of the 2008 Section before becoming an active member of the new scheme, regulation 52 or 182 of that Section;
+- (c) a reference to an ill-health pension payable under the new scheme means an ill-health pension payable under regulation 89 of the 2015 Regulations;
+- (d) a reference to the old scheme normal pension age means—
+  - (i) as regards the 1995 Section, normal benefit age under the 1995 Regulations; or
+  - (ii) as regards the 2008 Section, the age specified in regulation 45 or 176 (normal retirement pensions) of the 2008 Regulations.
+
+#### 29. Ill health benefits: members above old scheme normal pension age[^key-afdc06c158178d1f39858f3a4490b77d]
+
+(1) This regulation applies in relation to a transition member who is receiving payment of an ill-health pension in accordance with regulation 28.
+
+(2) When the member reaches the old scheme normal pension age—
+
+- (a) the benefits payable under regulation 28 in respect of service in the old scheme cease to be payable under the new scheme; and
+- (b) the member becomes entitled to the immediate payment of the annual rate of earned pension payable under the old scheme in accordance with the Regulations of the applicable Section; and
+- (c) no lump sum is payable to the member under those Regulations.
+
+(3) In calculating the annual rate of earned pension payable under the old scheme for the purposes of paragraph (2)(b), the following are subtracted—
+
+- (a) the amount of pension amount (if any) converted to lump sum under regulation 76 of the 2015 Regulations to the extent that it relates to the pension payable under regulation 28(3)(a)(ii); and;
+- (b) an amount equal to any transfer payment made to another scheme before the member reached the old scheme normal pension age.
+
+(4) Before the amounts in paragraph (3)(a) and (b) are subtracted they must be increased by the amount by which the annual rate of pension of that amount would have been increased under the Pensions (Increase) Act (Northern Ireland) 1971[^f00020] if—
+
+- (a) that pension was eligible to be so increased; and
+- (b) the beginning date for that pension was the date that ill-health pension became payable under the new scheme.
+
+#### 30. Age retirement of mental health officers, nurses, physiotherapists, midwives and health visitors[^key-2bb34c1ec295ab23b038dbb25f0961d4]
+
+(1) In regulation 75 of the 1995 Regulations, references to “superannuable employment” in paragraphs (1)(b), (2) and (3)(b) includes employment that qualified the 1995 officer transition member for benefits under the 2015 Regulations.
+
+(2) In regulation 76 of the 1995 Regulations, references to—
+
+- (a) “superannuable employment” in paragraphs (2), (5)(a) and (9) includes employment that qualified the member for benefits under the 2015 Regulations; and
+- (b) “superannuable service” in paragraph (5)(a) includes service that qualified the member for benefits under the 2015 Regulations.
+
+#### 31. Partial Retirement[^key-904e45dba5bcdbf264ffec867b7d2bd6][^key-def6eca8dfb13ba723e8a82b1104f3f6]
+
+(1) Where a transition member or non-pensionable old scheme member elects to claim a specified percentage of that member’s pension pursuant to regulation 83 of the 2015 Regulations, that election is to be treated as also being an option for the purposes of partial retirement pension pursuant to whichever of the following regulations applies to the member⸺
+
+- (a) regulation 16A of the 1995 Regulations (with or without the modifications made in paragraph 12A of Schedule 2); or
+- (b) regulations 49 or 180 of the 2008 Regulations.
+
+(2)[^key-69808745110ee2be05eb880eb37f7a2f] A transition member or non-pensionable old scheme member does not become entitled to a specified percentage of a pension under regulation 83 of the 2015 Regulations until the member has become entitled to and claimed all the benefits in⸺
+
+- (a) the 1995 Section; or
+- (b) the 2008 Section.
+
+(3)[^key-ca82c799f1ce2211380edc91834a0888] For the purposes of regulation 16A(7) and paragraph 12A of Schedule 2 to the 1995 Regulations, or regulation 49(6) and 180(5) of the 2008 Regulations, and regulation 83(5) of the 2015 Regulations (as the case may be)—
+
+- (a) the pension, other than the pension claimed in respect of additional benefits (in the case of regulation 16A of the 1995 Regulations) or additional pension (in the case of regulation 49 and 180 of the 2008 Regulations), to which the member becomes entitled as a result of the option or election (before converting pension to lump sum) is not to be less than the amount of pension payable by reference to 20% of the aggregate of the member’s pensionable service under the 1995 Regulations, or the 2008 Regulations (as the case may be), and the 2015 Regulations at the end of the option day; and
+- (b) taken together with any increase to which the member has become entitled as a result of the option or election, the aggregate of the member’s pension under the 1995 Regulations, or the 2008 Regulations (as the case may be), and the 2015 Regulations is not less than 0.05% of the member’s lump sum and death benefit allowance[^key-99e28db5afb097b461b166694a2cbdb6] on the option day.
+
+#### 32. Redundancy retirement[^key-c41b12203f7826f9b7014bf5b5298727]
+
+(1) This regulation applies where an officer transition member other than one to whom regulation 33 applies—
+
+- (a) becomes entitled to payment of a premature retirement pension pursuant to regulation 81 of the 2015 Regulations;
+- (b) claims that pension; and
+- (c) is under—
+  - (i) age 60, in the case of a member of the 1995 Section; or
+  - (ii) age 65, in the case of a member of the 2008 Section.
+
+(2) Where this regulation applies, the member also becomes entitled to payment of a pension in respect of relevant pensionable service in the old scheme in consideration of the termination of that member’s employment by reason of redundancy pursuant to regulation —
+
+- (a) 14A of the 1995 Regulations[^f00021]; or
+- (b) 55 of the 2008 Regulations.
+
+(3) In this regulation, “relevant pensionable service” does not include—
+
+- (a) service from an employment that commenced when the member was eligible to be an active member of the old scheme and is a continuing employment in respect of which the member has elected to continue to accrue rights pursuant to regulation 99(5) of the 2015 Regulations;
+- (b) if regulation 99(9) of the 2015 Regulations applies to the member—
+  - (i) service to which Schedule 2 to the 1995 Regulations applies; or
+  - (ii) service to which Part 3 of the 2008 Regulations applies.
+
+#### 33. Premature retirement: special classes[^key-c16de5beb56181cd34f4404e0793c061]
+
+(1) This regulation applies where an 1995 officer transition member to whom regulation 75 or 76 of the 1995 Regulations applies in respect of service in that Section—
+
+- (a) becomes entitled to payment of a premature retirement pension—
+  - (i) pursuant to regulation 80 of the 2015 Regulations; or
+  - (ii) on grounds of redundancy pursuant to regulation 81 of the 2015 Regulations; and
+- (b) claims that pension.
+
+(2) Where this regulation applies, for the purposes of regulation 14C(2) and (3) of the 1995 Regulations[^f00022]—
+
+- (a) the member is to be treated as having claimed payment of a pension under regulation 12 of those Regulations; and
+- (b) in the case of a member to who regulation 75(4)(b) of the 1995 Regulations applies, is also entitled to a pension under regulation 16 of the 1995 Regulations if that member makes a claim for it.
+
+#### 34. Interests of efficiency of the service[^key-0656f6deb0d0740f69fec1bbe34f75ef]
+
+Where an officer transition member other than one entitled to a pension pursuant to regulation 75 or 76 of the 1995 Regulations in respect of service in that Section becomes entitled to payment of a premature retirement pension pursuant to regulation 80 of the 2015 Regulations and claims that pension—
+
+- (a) the member at the same time becomes eligible to a pension under whichever of regulations 14A of the 1995 Regulations or 55 of the 2008 Regulations applies to the member in relation to the termination of that member’s employment in the interests of efficiency of the service in which the member is employed; and
+- (b) the member’s employing authority must make a contribution to the Department in respect of the cost of that pension in accordance with regulation 11 of the 1995 Regulations or 32 of the 2008 Regulations.
+
+#### 35. Variations to lump sums for 1995 and 2008 pensioners joining the new scheme (other than pensioners who have taken a partial retirement pension)[^key-5ab0782a9f9e1aa9161c2d2f0c7daa26][^key-874fbdd855c612cafc06ce43cde40b36]
+
+(1) This regulation applies to persons falling in Groups 1 to 4 , 6[^key-04105b8700d748cfc76d6e2abf931f42] ,7, 9 and 10[^key-0ef07e9d06d20fbb6b5420c176ea89b2] in the table at paragraph 1 of Schedule 1 and Groups 1 to 4 , 6 and 7[^key-1fe4edc998c2b2798b4dae1d0b7a8b2c] in the table at paragraph 2 of Schedule 1 other than persons who have taken a partial retirement pension.[^key-4f0039f218644abff1de94dfa9dd8699] .
+
+(2) Where this regulation applies, a lump sum equal to five times the rate of the relevant pension is to be paid in place of the lump sum payable to active members under regulation 111(a) and paragraph 2 of Schedule 12 to the 2015 Regulations.
+
+(3)[^key-652f267ed55cb7fcc10fb85a3be95940] In this regulation—
+
+- “**partial retirement pension**” means a pension under—
+  - (a) regulation 16A of the 1995 Regulations;
+  - (b) regulation 49 or 180 of the 2008 Regulations; or
+  - (c) regulation 83 of the 2015 Regulations; and
+- “**the relevant pension**” means where the member has not taken partial retirement from the new scheme pursuant to regulation 83 of the 2015 Regulations, an amount equal to—
+  - (a) if the member dies before reaching normal pension age in the new scheme, a tier 2 IHP within the meaning of regulation 89(1)(b) of the 2015 Regulations; or
+  - (b) if the member dies on or after reaching normal pension age in the new scheme, a pension under regulation 72 of the 2015 Regulations.
+
+#### 35A. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (pensioners who have taken a partial retirement pension)[^key-4a9fb0aa2db2bf26d443e086da71c57e]
+
+(1) This regulation applies to persons falling in Groups 1 to 4, 6, 7, 9 and 10 in the table at paragraph 1 of Schedule 1 and Groups 1 to 4, 6 and 7 in the table at paragraph 2 of Schedule 1 who have taken a partial retirement pension.
+
+(2) Where this regulation applies the lump sum payable on the death of an active member in place of any lump sum otherwise payable in respect of that member under regulation 111(a) of the 2015 Regulations and regulation 85(2)(a) or regulation 193A(2)(a) of the 2008 Regulations are the lump sums found under—
+
+- (a) paragraph (3), is not a non-pensionable old scheme member and[^key-32493c198c8ced54eb39f2437ab60847] has taken an old scheme partial retirement pension but has not taken a new scheme partial retirement pension; [^key-32493c198c8ced54eb39f2437ab60847]...
+- (b) paragraph (4), if the member has taken a new scheme partial retirement pension.
+- (aa)[^key-1df77e784e4ab287b4550c8b8dd7c5f9] paragraph (3A) if the member is a non-pensionable old scheme member and has taken an old scheme partial retirement pension but has not taken a new scheme partial retirement pension;
+
+(3) Where paragraph (2)(a) applies, the lump sum is an amount equal to the appropriate fraction of an amount that is the better of—
+
+- (a) twice the member’s relevant earnings calculated in accordance with paragraph 7(2)(a)(i) of Schedule 12 to the 2015 Regulations (death of a partial retirement pensioner); and
+- (b) twice the member’s re-valued pensionable earnings for the scheme year falling in the earnings reference period which has the largest re-valued pensionable earnings calculated in accordance with paragraph 7(2)(a)(ii) of Schedule 12 (lump sum on death) to the 2015 Regulations, that Schedule.
+
+(3A)[^key-1fd36f0da0bda626d46969474b53ae60] Where paragraph (2)(aa) applies, the lump sum is an amount equal to the appropriate fraction of either—
+
+- (a) the lump sum on death found in column 2 of Part 1 of Table 2 (non-pensionable old scheme member entitlements) in regulation 38(1A)(death in service) if the member is a non-pensionable 1995 Section member; or
+- (b) the lump sum on death found in column 2 of Part 2 of that Table if the member is a non-pensionable 2008 Section member.
+
+(4) Where paragraph (2)(b) applies, the lump sum is an amount determined by the scheme manager after taking advice from the scheme actuary.
+
+(5) In this regulation—
+
+- “**appropriate fraction**” means—
+- DPS / TDPS
+
+  where—
+
+  - DPS is, where the member continues in pensionable service as an active member of the 2015 Scheme on the option day (or the last such option day if the option has been exercised more than once), the total number of days of pensionable service in that Scheme and this Section of the scheme which do not relate to the specified percentage of pension at the option day; and
+  - TDPS is the aggregate of DPS and the total number of days of pensionable service (at the option day or the last such option day if the option has been exercised more than once) which relate to the specified percentage of pension payable;
+- “**old scheme partial retirement pension**” means a pension under—
+  - (a) regulation 16A of the 1995 Regulations; or
+  - (b) regulation 49 or 180 of the 2008 Regulations (whichever applies);
+- “**option day**” has the meaning given in—
+  - (a) paragraph (11) of regulation 16A of the 1995 Regulations in the case of a member who has taken a partial retirement pension under that regulation;
+  - (b) paragraph (8) of regulation 49 of the 2008 Regulations in the case of a member who has taken a partial retirement pension under that regulation; and
+  - (c) paragraph (7)(b)(ii) of regulation 180 of the 2008 Regulations in the case of a member who has taken a partial retirement pension under that regulation; and
+- “**specified percentage of pension**” has the meaning given in—
+  - (a) paragraph (4) of regulation 16A of the 1995 Regulations in the case of a member who has taken a partial retirement pension under that regulation;
+  - (b) paragraph (4) of regulation 49 of the 2008 Regulations in the case of a member who has taken a partial retirement pension under that regulation; and
+  - (c) paragraph (3) of regulation 180 of the 2008 Regulations in the case of a member who has taken a partial retirement pension under that regulation.
+
+#### 36. Abatement[^key-fb303da1c3bacc76d34dcffc0d0c5e6a]
+
+(1) This regulation applies to an officer transition member who is—
+
+- (a) a pensioner member of the new scheme to whom regulation 100(1) of the 2015 Regulations applies in respect of a pension under regulation 80 of those Regulations; and
+- (b) a pensioner member of—
+  - (i) the 1995 Section to whom regulation 85 of the 1995 Regulations applies in respect of a relevant pension referred to at paragraph (1A)(b)(ii) of that regulation[^f00023]; or
+  - (ii) the 2008 Section to whom regulation 115 applies in respect of a pension referred to at paragraph (1)(c)(iii) of that regulation.
+
+(2) In respect of a member to whom paragraph (1)(b)(i) applies, for the purposes of—
+
+- (a) establishing whether the pensioner’s relevant income for a scheme year exceeds their previous earnings for the purposes of that regulation 102 of the 2015 Regulations; and
+- (b) finding amount B in paragraph (3D) of regulation 85 of the 1995 Regulations[^f00024],
+
+the enhancement amount for the purposes of regulation 103(2) of the 2015 Regulations is the aggregate of the amounts found under that regulation and amount B found under regulation 85(3D) of the 1995 Regulations.
+
+(3) For the purposes of paragraph (2), the amount B found under regulation 85(3D) of the 1995 Regulations is the aggregate of the amount found under that paragraph and the amount found under regulation 103(2) of the 2015 Regulations.
+
+(4) Where the pensioner’s relevant income exceeds their previous pay or earnings, the amount of any reduction that is to apply to the pensions payable under each of the 1995 Regulations and 2015 Regulations is equal to the same proportion of the excess as the amount of pension for the scheme year before the reduction bears to the sum of those pensions for that year before the reduction.
+
+(5) For the purposes of paragraph (4), the excess in the 1995 Section is equal to amount B found under regulation 85(3D) of the 1995 Regulations.
+
+(6) In respect of a member to whom paragraph (1)(b)(ii) applies, for the purposes of—
+
+- (a) establishing whether the pensioner’s relevant income for a scheme year exceeds their previous earnings for the purposes of regulation 102 of the 2015 Regulations; and
+- (b) establishing whether the pensioner’s relevant income for a financial year exceeds their previous pay for the purposes of regulation 117 of the 2008 Regulations,
+
+the enhancement amount for the purposes of regulation 118(2) of the 2008 Regulations and regulation 103(2) of the 2015 Regulations is the aggregate of the amounts found under each of those regulations.
+
+(7) Where the pensioner’s relevant income exceeds their previous pay or earnings, the amount of any reduction that is to apply to the pensions payable under each of the 2008 Regulations and 2015 Regulations is equal to the same proportion of the excess as the amount of pension for the scheme year before the reduction bears to the sum of those pensions for that year before the reduction.
+
+#### 37. Abatement: special classes[^key-fd0f23e3b160565cbb02e30440db43bc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 8 — Death benefits
+
+#### 38. Death in service[^key-0630fc4f085ec3b4ae306b1ca2cf417c]
+
+(1) As regards a transition[^key-9113cf6c2a2c04ccc11c1994ca7eceb0] member, or a person who derives a benefit from the old scheme or new scheme in respect of a transition member, the entitlement listed in column 1 of Table 1[^key-5f16a109ded4ec5202dc81e0f69bdd3e] is disapplied and the corresponding entitlement in column 2 applies instead.
+
+Table 1 Transition member entitlements[^key-1cdbd099121a6e007b42efbacd066ac4]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Original entitlement</em></th><th><em>Column 2</em><br><em>Revised entitlement</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2">PART 1<br>Entitlements derived from the 1995 Section</td></tr>
+<tr><td>a lump sum on death under regulation 18.</td><td>a lump sum on death under regulation 111(a) of the 2015 Regulations.</td></tr>
+<tr><td>an initial adult survivor pension under regulation 24(3B) at the rate of the member’s superannuable pay for the first six months after the member’s death.</td><td>an pension payable during the initial period at the rate of the member’s pensionable earnings under regulation 114(4) of the 2015 Regulations (and references in regulation 24(3C), (4) and (5) and 34(4B) and (4C) of the 1995 Section to paragraph (3B) are to be taken to be a reference to a pension payable under regulation 114(4) of the 2015 Regulations).</td></tr>
+<tr><td>an ongoing pension under regulation 24(3C) based on one half of the member’s notional ill-health pension had the member become entitled to a tier 2 pension under regulation 13A on the date of death.</td><td>(a) payable from the 1995 Section in respect of service in that Section, an ongoing adult survivor pension equal to the pension that would have been payable to the adult survivor under Part III of the 1995 Section if the member had retired with a pension under regulation 12 of the 1995 Section on the date of death; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing survivor pension based on a Tier 2 IHP under regulation 114(5) of the 2015 Regulations.</td></tr>
+<tr><td>a pension under regulation 26(2A) equal to one half of the pension that would have been payable to the member had the member become entitled to a tier 2 pension under regulation 13A on the day the member left superannuable employment.</td><td>(a) payable from the 1995 Section in respect of service in that Section, an ongoing adult survivor pension equal to the adult survivor under Part III of the 1995 Section if the member had retired with a pension under regulation 12 of the 1995 Section on the date of death; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing survivor pension based on a Tier 2 IHP under regulation 116(2) of the 2015 Regulations.</td></tr>
+<tr><td>a dependant child’s pension under regulation 34 equal to the rate of the member’s superannuable pay when the member died, payable for the first—<br>(a) three months under paragraph (4C);<br>(b) six months under paragraph (4D);<br>(c) six months under paragraph (4E).</td><td>an initial pension of the same amount and for the same duration under paragraph (6) or (7) of regulation 122 of the 2015 Regulations.</td></tr>
+<tr><td>an ongoing pension under regulation 34(2A) based on a proportion of the member’s notional ill-health pension had the member become entitled to a tier 2 pension under regulation 13A on the date of death or, if greater, the amount that pension would have been had it been based on 10 years superannuable service.</td><td>(a) payable from the 1995 Section in respect of service in that Section, an ongoing pension equal to the relevant proportion of the pension that would have been payable to the member if the member had retired with a pension under regulation 12 of the 1995 Section on the date of death; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing pension based on the appropriate fraction of the basic death pension specified under regulation 122(3) and (4) of the 2015 Regulations.</td></tr>
+<tr><td>a pension under regulation 36(2) equal to the relevant proportion of the pension described in regulation 34(2A).</td><td>(a) payable from the 1995 Section in respect of service in that Section, a child’s pension equal the relevant proportion of the pension that would have been payable to the member if the member had retired with a pension under regulation 12 of the 1995 Section on the date of death; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing pension based on the appropriate fraction of the basic death pension specified under regulation 124(3)(a) and (4) of the 2015 Regulations.</td></tr>
+<tr><td colspan="2">PART 2<br>Entitlements derived from the 2008 Section</td></tr>
+<tr><td>a lump sum on death under regulation 83 or 210.</td><td>a lump sum on death under regulation 111(a) of the 2015 Regulations.</td></tr>
+<tr><td>a surviving adult dependent’s pension during the initial period of six months—<br>(a) under regulation 69(1)(a) equal to the rate of the member’s pensionable pay at the time of death; or<br>(b) under regulation 69(2)(a) equal to the rate of the member’s pensionable earnings during the last complete quarter before the member’s death.</td><td>a pension payable during the initial period at the rate of the member’s pensionable earnings under regulation 114(4) of the 2015 Regulations (and references in regulations 69(2), (3) and (4) and 196(2), (3) and (4) of the 2008 Section to “after the initial period” are to be taken to be a reference to the period for which the initial pension payable under regulation 114(4) of the 2015 Regulations is payable).</td></tr>
+<tr><td>an ongoing pension after the initial period—<br>(a) under regulation 69(2)(a) equal to 37.5% of the tier 2 ill health pension under regulation 52 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of pensionable service; or<br>(b) under regulation 196(2)(a) equal to the appropriate proportion of the tier 2 ill health pension under regulation 182 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension.</td><td>(a) payable from the 2008 Section in respect of service in that Section, an ongoing adult survivor pension after the initial period equal to—<br>(i) 37.5% of the pension under regulation 45 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of pensionable service that the member is entitled to count; or<br>(ii) equal to the appropriate proportion of the pension under regulation 176 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of pensionable service that the member is entitled to count; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing survivor pension based on a Tier 2 IHP under regulation 114(5) of the 2015 Regulations.</td></tr>
+<tr><td>a pension under—<br>(a) regulation 71(1)(a) equal to 37.5% of the tier 2 ill health pension under regulation 52 to which the member would have been entitled if on the date the member’s pensionable service ceased the member had become entitled to such a pension; or<br>(b) regulation 198(1)(a) equal to the appropriate proportion of the tier 2 ill health pension under regulation 182 to which the member would have been entitled if on the date the member’s pensionable service ceased the member had become entitled to such a pension.</td><td>(a) payable from the 2008 Section in respect of service in that Section, an ongoing adult survivor pension equal to—<br>(i) 37.5% of the pension under regulation 45 to which the member would have been entitled if, on the date the member’s pensionable service ceased, the member had become entitled to such a pension; or<br>(ii) the appropriate proportion of the pension under regulation 176 to which the member would have been entitled if, on the date the member’s pensionable service ceased, the member had become entitled to such a pension; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing survivor pension based on a Tier 2 IHP under regulation 116(2) of the 2015 Regulations.</td></tr>
+<tr><td>a dependant child’s pension under—<br>(a) regulation 76 equal to the rate of the deceased’s pensionable pay at the date of death, payable for the first—<br>(i) three months under paragraph (6)(i);<br>(ii) six months under paragraph (7)(i); or<br>(b) regulation 203 equal to the average rate of the deceased’s pensionable earnings during the last complete quarter before the member died, payable for the first—<br>(i) three months under paragraph (5)(i);<br>(ii) six months under paragraph (6)(a).</td><td>an initial pension of the same amount and for the same duration under paragraph (6) or (7) of regulation 122 of the 2015 Regulations.</td></tr>
+<tr><td>an ongoing pension under regulation 76(3) or 203(3) equal to the appropriate fraction of the basic death pension.</td><td>(a) payable from the 2008 Section in respect of service in that Section, an ongoing pension equal to the appropriate fraction of the basic death pension payable under—<br>(i) regulation 76(3) of the 2008 Section; or<br>(ii) regulation 203(3) of the 2008 Section,<br>where that pension is based on the pensionable service that the deceased was entitled to count at the date of death; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing pension based on the appropriate fraction of the basic death pension specified under regulation 122(3) and (4) of the 2015 Regulations.</td></tr>
+<tr><td>a pension under regulation 78(3)(a) or 205(3)(a) equal to the appropriate fraction of the basic death pension for the purposes of regulation 76 or 210 if the deceased had died on the date the deceased ceased to be an active member.</td><td>(a) payable from the 2008 Section in respect of service in that Section, a pension equal to—<br>(i) 37.5% of the pension under regulation 45 to which the member would have been entitled if, on the date the member’s pensionable service ceased, the member had become entitled to such a pension; or<br>(ii) the appropriate proportion of the pension under regulation 176 to which the member would have been entitled if, on the date the member’s pensionable service ceased, the member had become entitled to such a pension; and<br>(b) payable from the 2015 Scheme in respect of service in that scheme, an ongoing pension based on the appropriate fraction of the basic death pension specified under regulation 124(3) and (4) of the 2015 Regulations.</td></tr>
+</tbody>
+</table>
+
+(1A)[^key-99e0a79542017b15e7f2fb49e865cbd3] As regards a non-pensionable old scheme member, or a person who derives a benefit from the old scheme or new scheme in respect of a non-pensionable old scheme member, the entitlement listed in column 1 of Table 2 is disapplied and the corresponding entitlement in column 2 applies instead.
+
+Table 2 - Non-pensionable old scheme member entitlements
+
+<table>
+<thead>
+<tr><th><strong>Column 1</strong></th><th><strong>Column 2</strong></th></tr>
+<tr><th><strong>Original entitlement</strong></th><th><strong>Revised entitlement</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>PART 1</td><td></td></tr>
+<tr><td>Entitlements derived from the 1995 Section</td><td></td></tr>
+<tr><td>a lump sum on death under regulation 18.</td><td>a lump sum on death under regulation 111(a) of the 2015 Regulations which is equal to the greater of–<br>(a) the lump sum calculated in accordance with paragraph 2 (death of active member) of schedule 12 (lump sum on death) to the 2015 Regulations; and<br>(b) the lump sum otherwise due under the original entitlement to a lump sum on death under regulation 18 of the 1995 Regulations.</td></tr>
+<tr><td>an initial adult survivor pension under regulation 24(3B) at the rate of the member’s superannuable pay for the first six months after the member’s death.</td><td>a pension payable from the new scheme during the initial period at the rate which is equal to the greater of–<br>a) the rate of the member’s pensionable earnings under regulation 114(4) of the 2015 Regulations; and<br>(b) the rate of the member’s pensionable pay that would have applied under the original entitlement in respect of the member under regulation 24(3B) of the 1995 Regulations<br>where references in regulation 24(3C) and 34(4B) and (4C) of the 1995 Section to regulation 24(3B) are to be taken to be a reference to a pension payable under regulation 114(4) of the 2015 Regulations.</td></tr>
+<tr><td>an ongoing pension under regulation 24(3C) based on one half of the member’s notional ill-health pension had the member become entitled to a tier 2 pension under regulation 13A on the member’s last day of superannuable employment.</td><td>(a) payable from the 1995 Section in respect of service in that Section, an ongoing adult survivor pension equal to the pension that would have been payable to the adult survivor under Regulations 23-31H of the 1995 Section if the member had retired with a pension under regulation 12 of the 1995 Section on the member’s last day of pensionable employment; and<br>(b) payable from the new scheme in respect of service in that scheme, an ongoing survivor pension based on a Tier 2 IHP under regulation 114(5) of the 2015 Regulations.</td></tr>
+<tr><td>a dependant child’s pension under regulation 34 equal to the rate of the member’s final year’s superannuable pay, payable for the first—<br>(a) three months under paragraph (4C);<br>(b) six months under paragraph (4D);<br>(c) six months under paragraph (4E).</td><td>an initial pension payable from the new scheme equal to the greater of–<br>(a) an initial pension of the same amount and for the same duration under paragraph (6) or (7) of regulation 122 of the 2015 Regulations; and<br>(b) an initial pension of the same amount and for the same duration as the original entitlement in respect of the member under regulation 34 of the 1995 Regulations.</td></tr>
+<tr><td>an ongoing pension under regulation 34(2A) based on a proportion of the member’s notional ill-health pension had the member become entitled to a tier 2 pension under regulation 13A on the member’s last day of superannuable employment or, if greater, the amount that pension would have been had it been based on 10 years pensionable service.</td><td>(a) payable from the 1995 Section in respect of service in that Section, an ongoing pension equal to the relevant proportion of the pension that would have been payable to the member if the member had retired with a pension under regulation 12 of the 1995 Section on the member’s last day of pensionable employment; and<br>(b) payable from the new scheme in respect of service in that scheme, an ongoing pension based on the appropriate fraction of the basic death pension specified under regulation 122(3) and (4) of the 2015 Regulations.</td></tr>
+<tr><td>PART 2</td><td></td></tr>
+<tr><td>Entitlement derived from the 2008 Section</td><td></td></tr>
+<tr><td>a lump sum on death under regulation 83(1) or 210(1).</td><td>a lump sum on death under regulation 111(a) of the 2015 Regulations which is equal to the greater of–<br>(a) the lump sum calculated in accordance with paragraph 2 (death of active member) of schedule 12 (lump sum on death) to the 2015 Regulations; and<br>(b) the lump sum otherwise due under the original entitlement to a lump sum on death under regulation 83(1) or 210(1) of the 2008 Regulations.</td></tr>
+<tr><td>a surviving adult dependent’s pension during the initial period of six months—<br>(a) under regulation 69(1)(b) equal to the deceased’s reckonable pay; or<br>(b) under regulation 196(1)(b) equal to the monthly average of the deceased’s uprated earnings on the member’s last day of superannuable service.</td><td>a pension payable from the new scheme during the initial period at the rate which is equal to the greater of–<br>(a) the rate of the member’s pensionable earnings under regulation 114(4) of the 2015 Regulations; and<br>(b) the rate of the deceased’s reckonable pay under regulation 69(1)(b) of the 2008 Regulations or the monthly average of the deceased’s uprated earnings on the member’s last day of pensionable service under regulation 196(1)(b) of the 2008 Regulations,<br>where references in regulation 69(2) and 196(2) of the 2008 Regulations to “after the initial period” are to be taken to be a reference to the period for which the initial pension payable under regulation 114(4) of the 2015 Regulations is payable.</td></tr>
+<tr><td>If the member has not reached the age of 65: an ongoing pension after the initial period—<br>(a) under regulation 69(2)(a) equal to 37.5% of the tier 2 ill health pension under regulation 58 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension; or<br>(b) under regulation 196(2)(a) equal to the appropriate proportion of the tier 2 ill health pension under regulation 182 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension.<br>If the member has reached the age of 65: an ongoing pension after the initial period—<br>(a) under regulation 69(2)(b) equal to 37.5% of the pension under regulation 45 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of superannuable service; or<br>(b) under regulation 196(2)(b) equal to the appropriate proportion of the tier 2 ill health pension under regulation 176 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of superannuable service.</td><td>(a) payable from the 2008 Section in respect of service in that Section, an ongoing adult survivor pension after the initial period equal to—<br>(i) 37.5% of the pension under regulation 45 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of pensionable service that the member is entitled to count; or<br>(ii) the appropriate proportion of the pension under regulation 176 to which the member would have been entitled if, on the date of death, the member had become entitled to such a pension in respect of any period of pensionable service that the member is entitled to count; and<br>(b) payable from the new scheme in respect of service in that scheme, an ongoing survivor pension based on a Tier 2 IHP under regulation 114(5) of the 2015 Regulations.</td></tr>
+<tr><td>a dependant child’s pension under—<br>(a) regulation 76 equal to the rate of the deceased member’s reckonable pay, payable for the first—<br>(i) three months under paragraph (6)(ii);<br>(ii) six months under paragraph (7)(ii); or<br>(b) regulation 203 equal to the rate of the monthly average of the deceased’s uprated earnings on the member’s last day of superannuable service, payable for the first—<br>(i) three months under paragraph (5)(ii);<br>(ii) six months under paragraph (6)(b).</td><td>an initial pension payable from the new scheme equal to the greater of–<br>(a) an initial pension of the same amount and for the same duration under paragraph (6) or (7) of regulation 122 of the 2015 Regulations; and<br>(b) an initial pension of the same amount and for the same duration as the original entitlement in respect of the member under regulation 76 or 203 of the 2008 Regulations.</td></tr>
+<tr><td>an ongoing pension under regulation 76(3) or 203(3) equal to the appropriate fraction of the basic death pension.</td><td>(a) payable from the 2008 Section in respect of service in that Section, an ongoing pension equal to the appropriate fraction of the basic death pension payable under –<br>(i) regulation 76(3) of the 2008 Regulations; or<br>(ii) regulation 203(3) of the 2008 Regulations where that pension is based on the pensionable service that the deceased was entitled to count at the date of death; and<br>(b) payable from the new scheme in respect of service in that scheme, an ongoing pension based on the appropriate fraction of the basic death pension specified under regulation 122(3) and (4) of the 2015 Regulations.</td></tr>
+</tbody>
+</table>
+
+(2) Save where expressly provided in Table 1 or Table 2[^key-8eb5b320e31f2b657425deb5361a5a29] , no entitlement in respect of the matters listed in column 1 of either table[^key-0bc660cfc06d4a4ecf4ca4b2f693e2e8] is payable from both the 2015 Regulations and—
+
+- (a) the 1995 Section; or
+- (b) the 2008 Section,
+
+and no entitlement in respect of the matters listed in column 1 of Table 1 or Table 2 is payable twice (under the 2015 Regulations or these Regulations and either the 1995 Section or 2008 Section) in respect of the same period of service.
+
+### CHAPTER 9 — Option to convert service
+
+#### 39. Option for 1995 Section members to convert to 2008 Section membership[^key-00df1909f02301aa8721c00f7b499fbd]
+
+(1) This regulation applies to a person who, on 31st March 2015, was in pensionable service for the purposes of the 1995 Regulations but who on 1st April 2015 is not a person to whom the following provisions apply—
+
+- (a) paragraphs (5), (6) and, where paragraph (11) or (12) applies, paragraph (9) of regulation 8 of those Regulations[^f00025]; or
+- (b) regulation 27.
+
+(2) A person to whom this regulation applies may give the Department a notice in writing electing that their pensionable service for the purposes of the 1995 Regulations be treated as if it were such service for the purposes of the 2008 Regulations.
+
+(3) Paragraph (2) applies only to the extent that the person has not already received benefits under the 1995 Regulations in respect of their pensionable service for the purposes of those Regulations.
+
+(4) For the purposes of this regulation, a notice—
+
+- (a) includes any notice that a person may have given the Department prior to 31st March 2015;
+- (b) has the same effect that a notice given pursuant to Chapter 10 of Parts 2 and 3 of the 2008 Regulations would have had prior to 31st March 2015; and
+- (c) must be received by the Department before 1st July 2015.
+
+## PART 3 — Amendments to the old scheme
+
+### 40. Amendments to the old scheme[^key-4998278d9764dc4994022e4eb73ad043]
+
+Schedule 2 (amendments to the old scheme) has effect.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 6th March 2015
+
+(L.S.)
+
+Deborah McNeilly
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+The Department of Finance and Personnel consents to the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 6th March 2015
+
+(L.S.)
+
+Emer Morelli
+
+A senior officer of the Department of Finance and Personnel
+
+SCHEDULES
+
+## SCHEDULE 1 — Eligibility of pensioners
+
+Regulation 3
+
+### 1. Eligibility of 1995 section pensioners to join the new scheme[^key-d33862032a114ad5cf1a6c1e7b74f44a]
+
+A person of the description in column 2 of the table is eligible to be a member of the new scheme in the circumstances or on the date specified in column 3 of the table.
+
+Table
+
+| *Column 1*<br>*Group* | *Column 2*<br>*Description of person* | *Column 3*<br>*Circumstances or date of eligibility* |
+| --- | --- | --- |
+| 1 | a 1995 Section member who is in receipt of an ill-health pension under regulation 13 or 13A of the 1995 Regulations who—<br>(a) is in superannuable employment in the 1995 Section on or after 1st April 2015; or<br>(b) who returned to superannuable employment in the 1995 Section on or before 31st March 2015 and who, if they had been in employment with an employing authority on 1st April 2015 would have been eligible to re-join the 1995 Section. | eligible to be an active member of the new scheme on the earliest of—<br>(a) returning from a break in service where regulation 7 of the 1995 Regulations applies;<br>(b) reaching the member’s eligibility cessation date determined in accordance with regulation 8 of the 1995 Regulations;<br>(c) returning from a break in service after reaching the member’s eligibility cessation date determined in accordance with regulation 8 of the 1995 Regulations. |
+| 2 | a 1995 Section member in receipt of a pension under regulation 13 or a tier 1 pension under regulation 13A of the 1995 Regulations who—<br>(a) is in further superannuable employment in the 1995 Section on or before 31st March 2015; or<br>(b) returns to HSC employment—<br>(i) for the first time after the pension under regulation 13 or a tier 1 pension under regulation 13A of the 1995 Regulations became payable;<br>(ii) on or after 1st April 2015; and<br>(iii) is under the age of 50 on the date of return to HSC employment,<br>and who ceases to be eligible for superannuable employment in the 1995 Section in HSC employment on or after 1st April 2015 pursuant to regulation 8 of the 1995 Regulations. | eligible to be an active member of the new scheme on or after 1st April 2015 if that member would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 3 | a 1995 Section member in receipt of a tier 2 pension under regulation 13A of the 1995 Regulations—<br>(a) who re-enters HSC employment;<br>(b) whose protection period for the purposes of regulation 13C of the 1995 Regulations spans 1st April 2015 or begins on or after 1st April 2015; and<br>(c) who is—<br>(i) under age 50 on the day after the protection period in regulation 13C(6)(b) of the 1995 Regulations ends; and<br>(ii) not eligible to re-join the 1995 Section on that day pursuant to regulation 7 or 8 of the 1995 Regulations. | eligible to be an active member of the new scheme on the day after the protection period in regulation 13C(6)(b) of the 1995 Regulations ends. |
+| 4 | a 1995 Section member who is in superannuable employment on or after 1st April 2015 who—<br>(a) becomes a pensioner member of the 1995 Section with a tier 1 pension under regulation 13A of the 1995 Regulations from that employment;<br>(a) subsequently re-enters HSC employment and on their return is under age 50; and<br>(b) is not eligible to re-join the 1995 Section on that day pursuant to regulation 7 or 8 of the 1995 Regulations. | eligible to be an active member of the new scheme on the day of return to HSC employment. |
+| 5 | a 1995 Section member—<br>(a) who became eligible to join the new scheme on or after 1st April 2015;<br>(b) became an active member of the new scheme before reaching normal benefit age under the 1995 Section; and<br>(c) for whom the service in the 1995 Section did not qualify or has ceased to be superannuable service to which paragraphs 1(2)(i) and (ii) or paragraphs 2(i) and (ii) of Schedule 7 to the 2014 Act applies. | eligible to be an active member of the new scheme, or re-join the new scheme, notwithstanding the putting into payment of the pension under the 1995 Section. |
+| 6 | a 1995 Section pensioner—<br>(a) who would have been eligible to be an active member of the 2008 Section after the completion of a waiting period as set out in regulation 21A and 153A of the 2008 Regulations but who will not be eligible to join the 2008 Section on that date pursuant to regulations 21 or 153 of the 2008 Regulations; and<br>(b) who—<br>(i) has not yet returned to HSC employment on 1st April 2015; or<br>(ii) returned to HSC employment before that date but, on that date, has not completed the relevant waiting period. | eligible to be an active member of the new scheme on completion of the relevant waiting period in regulation 21A or 153A of the 2008 Regulations. |
+| 7[^key-b09cad3b10bed6fa112fcd48066255ca] | a 1995 Section member in receipt of a pension under regulation 13 or a tier 1 pension under regulation 13A of the 1995 Regulations who—<br>(a) is in further superannuable employment in the 1995 Section on 31st March 2022; or<br>(b) would have been eligible to join the 1995 Section on 31st March 2022 if the member had been in employment with an employing authority on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 8 | a 1995 Section member in receipt of a redundancy etc. pension under regulation 14 or a termination of employment pension under regulation 14A of the 1995 Regulations who—<br>(a) made an election under paragraph (6) of regulation 77 of the 1995 Regulations in respect of that pension;<br>(b) is in further pensionable employment in the 1995 Section on 31st March 2022; or<br>(c) would have been eligible to join the 1995 Section on 31st March 2022 if the member had been in employment with an employing authority on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 9[^key-8de40b6335cb45872d6c07e039b2fd1b] | a 1995 Section pensioner in receipt of a tier 2 pension under regulation 13A of the 1995 Regulations—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2024; and<br>(b) whose protection period for the purposes of regulation 13C of the 1995 Regulations spans 1st April 2023 or begins on or after 1st April 2024. | eligible to be an active member of the new scheme on the day after the protection period in regulation 13C(6)(b) of the 1995 Regulations ends. |
+| 10 | a 1995 Section pensioner, other than a tier 2 ill-health pensioner, who does not fall within one of the Groups above. | eligible to be an active member of the new scheme, or re-join the new scheme, on the first day on or after 1st April 2024 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+
+### 2. Eligibility of 2008 Section pensioners to join new scheme[^key-20aa406ce47acec600e701db0d9879f6]
+
+(1) Subject to paragraph (2), a 2008 Section pensioner member is eligible to be a member of the new scheme if that member would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations.
+
+(2) A person of the description in column 2 of the table is eligible to be a member of the new scheme in the circumstances or on the date specified in column 3 of the table.
+
+Table
+
+| *Column 1*<br>*Group* | *Column 2*<br>*Description of person* | *Column 3*<br>*Circumstances or date of eligibility* |
+| --- | --- | --- |
+| 1 | a 2008 Section pensioner member—<br>(a) who is also an active member of the 2008 Section on or after 1st April 2015; or<br>(b) other than a tier 2 ill-health pensioner who returns to HSC employment on or after that date. | eligible to be an active member of the new scheme on return from a break in service where regulation 22(1B) or 154(1B) of the 2008 Regulations applies. |
+| 2 | a 2008 Section pensioner member—<br>(a) who is also an active member of the 2008 Section on or after 1st April 2015; or<br>(b) other than a tier 2 ill-health pensioner who returns to HSC employment on or after that date,<br>and to whom regulation 22(1D) or 154(1D) of the 2008 Regulations applies. | eligible to be an active member of the new scheme on the earliest of—<br>(a) returning from a break in service where regulation 22(1B) or 154(1B) of the 2008 Regulations applies;<br>(b) reaching the member’s eligibility cessation date determined in accordance with regulations 22(1F) or 154(1F) of the 2008 Regulations;<br>(c) returning from a break in service after reaching the member’s eligibility cessation date determined in accordance with regulations 22(1F) or 154(1F) of the 2008 Regulations. |
+| 3 | a 2008 Section pensioner member—<br>(a) who is also an active member of the 2008 Section on 31st March 2015; or<br>(b) other than a tier 2 ill-health pensioner who returns to HSC employment on or after that date,<br>and ceased to be eligible to be an active member of the 2008 Section in any employment on or after 1st April 2015. | eligible to be an active member of the new scheme on the first day on or after 1st April 2015 that the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 4 | a tier 2 ill-health pensioner—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2015;<br>(b) to whom regulation 112(5)(b)[^key-c80c49cef844553219ffccb280b4e463] or 239(5)(b) of the 2008 Regulations applies; and<br>(c) on the first anniversary of the return to HSC employment that person is not eligible to re-join the 2008 Section pursuant to regulations 21 and 22 or 153 and 154 of the 2008 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to HSC employment that the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 5 | a 2008 Section member—<br>(a) who is not eligible to be an active member of that Section in HSC employment on or after 1st April 2015; and<br>(b) who becomes a pensioner member of that Section on or after that date. | eligible to be an active member of the new scheme on or after 1st April 2015 if that member would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 6[^key-89b43e7019afabcbec435233ccf3565d] | a 2008 Section pensioner other than a tier 2 ill-health pensioner who—<br>(a) is also an active member of the 2008 Section on 31st March 2022; or<br>(b) would have been eligible to be an active member of the 2008 Section if the member had been in HSC employment on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 7 | a tier 2 ill-health pensioner—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2022;<br>(b) to whom regulation 112(5)(b) or 239(5)(b) of the 2008 Regulations applies; and<br>(c) on the first anniversary of the return to HSC employment that person is not eligible to re-join the 2008 Section pursuant to regulation 22(A1) or 154(A1) of the 2008 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to NHS employment on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+
+(3) Paragraphs (1) and (2) apply notwithstanding a person also—
+
+- (a) being a 1995 Section pensioner; or
+- (b) becoming a 1995 Section pensioner after becoming eligible to be an active member of the new scheme.
+
+## SCHEDULE 2 — Amendments to the old scheme
+
+Regulation 40
+
+### PART 1 — Amendment to the 1995 regulations
+
+#### 1. General[^key-140a7a1d4674c562b5ef912eb1e87f76]
+
+The 1995 Regulations are amended in accordance with paragraphs 2 to 8.
+
+#### 2. Amendment of regulation 6[^key-1e61dc921d808078f77645113d748e17]
+
+After paragraph (3) of regulation 6 (Membership of this Section of the scheme), add—
+
+> (3A) A person—
+>
+> - (a) who—
+>   - (i) was in superannuable employment on 31st March 2012 but ceased to be so after that date, or
+>   - (ii) ceased HSC employment before 1st April 2012,
+>   - (iii) and is not the subject of a Direction made under Article 12 of the Superannuation (Northern Ireland) Order 1972[^f00026],
+> - (b) who would, if paragraph (a) did not apply, fall within regulation 8(4) to (18), and
+> - (c) to whom the Treasury’s guidance “Fair Deal for staff pensions: staff transfer from central government”[^f00027] applies,
+>
+> may, if the Department considers it appropriate and makes a direction under Article 12 of the Superannuation (Northern Ireland) Order 1972, be a member of this Section of the scheme.
+
+.
+
+#### 3. Amendment of regulation 7[^key-496cdbe49fbebd8eef41fd5b14f8b008]
+
+(1) Regulation 7 (Restrictions on membership), is amended as provided by paragraphs (2) and (3).
+
+(2) Omit sub-paragraphs (j)(v) and (k)(iv) of paragraph (1).
+
+(3) After sub-paragraph (c)[^f00028] of paragraph (2), add—
+
+> - (d) for the purposes of sub-paragraphs (k) and (n)(iii)(aa), any break in superannuable employment where the member was in superannuable service in an existing scheme (within the meaning of Schedule 5 to the 2014 Act) is to be disregarded.
+
+.
+
+#### 4. Amendment of regulation 8[^key-e5c8bdeaaa14a31aa74c0342ba582eb9]
+
+After paragraph (3) of regulation 8 (Restriction on further participation in this Section of the scheme), add—
+
+> (4) A person who on 1st April 2012 has not attained the age of 41 years and 7 months may not contribute or accrue further superannuable service under this Section of the Scheme in respect of service in HSC employment on, or after, 1st April 2015.
+>
+> (5) A person who on 1st April 2012 has attained the age of 50 may not contribute or accrue further superannuable service under this Section of the scheme unless that person either—
+>
+> - (a) is in superannuable employment on 31st March 2015, or
+> - (b) returns to superannuable employment on or after 1st April 2015 in circumstances where the provisions of regulation 7 do not apply.
+>
+> (6) A person who on 1st April 2012 has attained the age of 45 years but not the age of 46 years and 7 months may not contribute or accrue further superannuable service under this Section of the Scheme unless either paragraph (7) or (8) applies to that person and that person—
+>
+> - (a) is in superannuable employment on 31st March 2015, or
+> - (b) returns to superannuable employment on or after 1st April 2015 in circumstances where the provisions of regulation 7 do not apply.
+>
+> (7) This paragraph applies to a person who was, on 1st April 2012, in superannuable employment as a special class officer either—
+>
+> - (a) under regulation 75, or
+> - (b) under regulation 76 and would, if that employment were to continue until that person attained the age of 60 years, be able to count in excess of 20 years’ superannuable service as a mental health officer for the purposes of paragraphs (5) and (6) of that regulation.
+>
+> (8) This paragraph applies to a person who was, on 31st March 2015, in superannuable employment as a special class officer either—
+>
+> - (a) under regulation 75, or
+> - (b) under regulation 76 and would, if that employment were to continue until that person attained the age of 60 years, be able to count in excess of 20 years’ superannuable service as a mental health officer for the purposes of paragraphs (5) and (6) of that regulation.
+>
+> (9) A person who, on 1st April 2012, has attained the age of 46 years and 7 months but has not attained the age of 50, may not contribute to or accrue further superannuable service under this Section of the scheme unless one of paragraphs (7), (10), (11) or (12) applies to that person and that person—
+>
+> - (a) is in superannuable employment on 31st March 2015, or
+> - (b) returns to superannuable employment on or after 1st April 2015 in circumstances where the provisions of regulation 7 do not apply.
+>
+> (10) This paragraph applies to a person whose eligibility cessation date calculated in accordance with paragraph (15) has not been reached.
+>
+> (11) This paragraph applies to a person if on the day before that person’s eligibility cessation date calculated in accordance with paragraph (10), that person is in superannuable employment as a special class officer either—
+>
+> - (a) under regulation 75, or
+> - (b) under regulation 76 and would, if that employment were to continue until that person attained the age of 60 years, be able to count 20 years or more superannuable service as a mental health officer for the purposes of paragraphs (5) and (6) of that regulation.
+>
+> (12) A person who, on 1st April 2012 has attained the age of 41 years and 7 months but has not attained the age of 45, may not contribute or accrue further superannuable service under this Section of the Scheme unless either paragraph (13) or (14) applies to that person and that person—
+>
+> - (a) is in superannuable employment on 31st March 2015, or
+> - (b) returns to superannuable employment on or after 1st April 2015 in circumstances where the provisions of regulation 7 do not apply.
+>
+> (13) This paragraph applies to a person if that person was, on 1st April 2012, in superannuable employment as a special class officer—
+>
+> - (a) either under—
+>   - (i) regulation 75, or
+>   - (ii) regulation 76 and would, if that employment were to continue until that person attained the age of 60 years, be able to count 20 years or more superannuable service as a mental health officer for the purposes of paragraphs (5) and (6) of that regulation, and
+> - (b) that person’s eligibility cessation date calculated in accordance with paragraph (16) has not been reached.
+>
+> (14) This paragraph applies to a person if that person was, on 31st March 2015, in superannuable employment as a special class officer—
+>
+> - (a) either under—
+>   - (i) regulation 75, or
+>   - (ii) under regulation 76 and would, if that employment were to continue until that person attained the age of 60 years, be able to count 20 years or more superannuable service as a mental health officer for the purposes of paragraphs (5) and (6) of that regulation, and
+> - (b) that person’s eligibility cessation date calculated in accordance with paragraph (16) has not been reached.
+>
+> (15) For the purposes of paragraphs (10) and (11), the “eligibility cessation date” in relation to a person is to be determined according to the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+>
+> where—
+>
+> - A is 1st April 2022
+> - M is the number of months (rounded up to the nearest whole month) by which the person’s age on 1st April 2012 is less than 50.
+>
+> (16) For the purposes of paragraphs (13) and (14), the “eligibility cessation date” in relation to a person is to be determined according to the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+>
+> where—
+>
+> - A is 1st April 2022
+> - N is the number of months (rounded up to the nearest whole month) by which the person’s age on 1st April 2012 is less than 45.
+>
+> (17) Paragraph (18) applies to a person who in the opinion of the Department—
+>
+> - (a) was previously an active member of a health service scheme corresponding to this Section of the scheme;
+> - (b) the regulations governing that corresponding scheme include provisions pursuant to subsection (5) of section 18 of the 2014 Act that provide for exceptions to subsection (1) of that section, and
+> - (c) pursuant to those provisions, the member would have been eligible to re-join that corresponding scheme if the member had returned to HSC employment for the purposes of that scheme on the day the member commenced HSC employment within the meaning of these Regulations.
+>
+> (18) The Department may permit a person referred to in paragraph (17) to join this Section of the scheme and, for the purposes of paragraphs (5) to (16), the member’s previous superannuable employment under the corresponding health service scheme referred to in paragraph (17) will be treated as if it were previous superannuable employment under this Section of the scheme.
+
+.
+
+#### 5. Amendment of regulation 49[^key-77355d244b75c921fd52f8b1c3b06a4f]
+
+In paragraph (14) of regulation 49 (Preserved pension), for the definition of “HSC employment”, substitute—
+
+> - “HSC employment” does not include employment with an employing authority in respect of which a member is eligible to join—
+>   - (a) the 2008 Section; or
+>   - (b) the 2015 Scheme and that member’s service in this Section does not qualify as, or has ceased to be, pensionable service to which paragraphs 1(2)(i) and (ii) or paragraphs 2(i) and (ii) of Schedule 7 (final salary link) to the 2014 Act applies.
+
+.
+
+#### 6. Amendment of regulation 81[^key-fe06381cee28e2db8b37e0a4af0e6143]
+
+After paragraph (5) of regulation 81 (Former members of health service schemes)[^f00029], add—
+
+> (6) A member who leaves employment in respect of which the member qualified for benefit under a health service scheme and who joins the 2015 Scheme may, by notice in writing, require the Department to credit the member with a relevant period of superannuable service (together with the rights attaching to that service) under this Section of the scheme.
+>
+> This is subject to paragraphs (8) and (9).
+>
+> (7) That relevant period of superannuable service is calculated as if—
+>
+> - (a) the employment to which the health service scheme applied were HSC employment; and
+> - (b) the member’s contributions to that health service scheme were contributions to this Section of the scheme.
+>
+> (8) The member may only exercise the right referred to in paragraph (6) if —
+>
+> - (a) a transfer payment is made from the health service scheme to this Section of the scheme, and
+> - (b) on the day the member becomes an active member of the 2015 Scheme, paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which that transfer value payment is made.
+>
+> (9) A notice referred to in paragraph (6) must be addressed to the Department and given within 1 year after joining the 2015 Scheme.
+
+.
+
+#### 7. New regulation 97D[^key-62ae3f3d71ddb60a4d83697ce3ccda63]
+
+After regulation 97C (Interest and administration charges: late paid contributions)[^f00030], add—
+
+> **97D. Benefit information statements**
+>
+> (1) The Department must provide a benefit information statement to each member in accordance with—
+>
+> - (a) section 14 (Information about benefits) of the 2014 Act; and
+> - (b) any Department of Finance and Personnel directions given from time to time pursuant to that section.
+>
+> (2) Paragraph (1) does not provide a right for a member to request a benefit information statement.
+>
+> (3) The Department is only required to provide a member with one benefit statement per scheme year.
+>
+> (4) A benefit information statement provided pursuant to paragraph (1) is to be treated as though it is the information mentioned in regulation 16(2)(a) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00031] for the purposes of determining whether or not information must be given under regulation 16(1) of those Regulations.
+
+.
+
+#### 8. Amendment of Schedule 2[^key-7b7dc9ffa4ad77065fdd9aa9ea6c2d61]
+
+For paragraph 17A of Schedule 2[^f00032], substitute—
+
+> **17A.** Regulation 49(14)[^f00033] is modified so that—
+>
+> - (a) paragraph (b) in the definition of “HSC employment” reads—
+>
+>   > - (b) the 2015 Scheme and that member has a break of service under the 2015 Regulations that exceeds five years.
+>
+>   ; and
+> - (b) the definition of “regular employment of like duration” reads—
+>
+>   > - “regular employment of like duration” means such employment as the Department considers would involve a similar level of engagement to the member’s superannuable service as a practitioner immediately before that service ceased.
+
+.
+
+### PART 2 — Amendment of the 2008 regulations
+
+#### 9. General[^key-666208d583d8c26764d4e23188d565ab]
+
+The 2008 Regulations are amended in accordance with paragraphs 10 to 21.
+
+#### 10. Amendment of regulation 21[^key-95449837dcdd4d019bd355042343e888]
+
+(1) Regulation 21 (Eligibility: general)[^f00034], is amended as provided by paragraphs (2) and (3).
+
+(2) In paragraph (1), after “Scheme” insert “on or after 1st April 2015”.
+
+(3) For paragraphs (3) to (6), substitute—
+
+> (3) Condition B is that the person—
+>
+> - (a) enters HSC employment on or after 1st April 2008 and has service (“relevant service”) as an active member of this Section of the scheme—
+>   - (i) on or before 1st April 2012, or
+>   - (ii) after 1st April 2012, but only where that service is pursuant to the provisions of Chapter 10;
+> - (b) has not had a break in service for any one period of five years or more ending in the period starting on 2nd April 2012 and finishing on 1st April 2015; and
+> - (c) meets all of the “other Section conditions” (see paragraph (5)).
+>
+> (4) Condition C is that the person has not reached the age of 75 and was born on, or before, 31st August 1960.
+>
+> (5) The “other section conditions” are that—
+>
+> - (a) the person has not received a repayment of contributions under regulation 44 (Repayment of contributions) in respect of their relevant service;
+> - (b) the person’s rights under this Section of the Scheme in respect of their relevant service have not been extinguished under regulation 99;
+> - (c) the person is not entitled to a repayment of contributions under regulation 44 by virtue of paragraph (2)(a) to (c) of that regulation.
+>
+> (6) A person—
+>
+> - (a) who—
+>   - (i) was in pensionable employment on 31st March 2012 but ceased to be so after that date, or
+>   - (ii) ceased HSC employment before 1st April 2012,
+>
+>   and is not the subject of a direction made under Article 12 of the Superannuation (Northern Ireland) Order 1972[^f00035],
+> - (b) who would, if paragraph (a) did not apply, fall within regulation 22(1B) to (1G), and
+> - (c) to whom the Treasury’s guidance “Fair Deal for staff pensions: staff transfer from central government”[^f00036] applies,
+>
+> may, if the Department considers it appropriate and makes a direction under Article 12 of the Superannuation (Northern Ireland) Order 1972, be a member of this Section of the scheme.
+
+.
+
+#### 11. Amendment of regulation 22[^key-c8b633005d9b49f67aac115a89853e63]
+
+In regulation 22 (Restrictions on eligibility: general)[^f00037], after paragraph (1), insert—
+
+> (1A) A person who was born on, or after, 1st September 1960 is not eligible to be an active member of this Section of the Scheme in respect of service in HSC employment on, or after, 1st April 2015.
+>
+> (1B) A person is not eligible to be an active member of this Section of the Scheme if that person has had a break in service ending on or after 2nd April 2012, and any of the following apply—
+>
+> - (a) that break in service is for any one period of five years or more;
+> - (b) that person receives a repayment of contributions under regulation 44 in respect of their service before that break (see regulation 21(3)(a));
+> - (c) that person becomes entitled to a repayment of contributions under regulation 44 by virtue of paragraph (2)(a) to (c) of that regulation in respect of their service before that break; or
+> - (c) that person’s rights under this Section of the Scheme in respect of their service before that break have been extinguished under regulation 99 because a transfer value payment is made in respect of them.
+>
+> (1C) A person who on 1st April 2012 has attained the age of 55 may not contribute or accrue further pensionable service under this Section of the Scheme unless that person either—
+>
+> - (a) is, on 1st April 2015, an active member of this Section of the Scheme in accordance with regulation 21, or
+> - (b) returns to HSC employment on or after 2nd April 2015 in circumstances where paragraph (1B)(a) does not apply.
+>
+> (1D) Paragraph (1E) applies to a person—
+>
+> - (a) who, on 1st April 2012, has attained the age of 51 years and 7 months but has not attained the age of 55, and
+> - (b) whose eligibility cessation date has not been reached (see paragraph (1F)).
+>
+> (1E) A person referred to in paragraph (1D) may not contribute or accrue further pensionable service under this Section of the Scheme unless that person either—
+>
+> - (a) is, on 1st April 2015, an active member of this Section of the Scheme in accordance with regulation 21, or
+> - (b) returns to HSC employment on or after 2nd April 2015 in circumstances where paragraph (1B)(a) does not apply.
+>
+> (1F) For the purposes of paragraph (1D), a person’s eligibility cessation date is to be determined according to the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+>
+> where—
+>
+> - A is 1st April 2022
+> - T is the number of months (rounded up to the nearest whole month) by which the person’s age on 1st April 2012 is less than 55.
+>
+> (1G) For the purposes of paragraphs (1C)(b) and (1E)(b), any break in service where the member was in pensionable service in an existing scheme (within the meaning of Schedule 5 to the 2014 Act) is to be disregarded.
+>
+> (1H) Paragraph (1I) applies to a person who in the opinion of the Department—
+>
+> - (a) was previously an active member of a corresponding 2008 scheme;
+> - (b) the regulations governing that corresponding scheme include provisions pursuant to subsection (5) of section 18 of the 2014 Act that provide for exceptions to subsection (1) of that section, and
+> - (c) pursuant to those provisions, the member would have been eligible to re-join that corresponding scheme if the member had returned to HSC employment for the purposes of that scheme on the day the member commenced HSC employment within the meaning of these Regulations.
+>
+> (1I) The Department may permit a person referred to in paragraph (1H) to join this Section of the Scheme and, for the purposes of paragraphs (1C) to (1G), the member’s previous pensionable employment under the corresponding scheme referred to in paragraph (1H) will be treated as is it were previous pensionable employment under this Section of the Scheme.
+>
+> (1J) Paragraph (1K) applies to a person who, in the opinion of the Department—
+>
+> - (a) was previously an active member in respect of service in an existing scheme (within the meaning of Schedule 5 to the 2014 Act),
+> - (b) is not receiving a pension in respect of that service on the relevant day,
+> - (c) the regulations of that existing scheme include provisions pursuant to subsection (5) of section 18 of the 2014 Act that provide for exceptions to subsection (1) of that section,
+> - (d) pursuant to those provisions, the person would have been eligible to be an active member of the existing scheme if the member had returned to employment for the purposes of that scheme on the relevant day, and
+> - (e) the member would, if the member’s previous service in the existing scheme had been previous service under this Section of the Scheme, have been eligible for active membership of this Section of the Scheme on the relevant day pursuant to paragraphs (1A) to (1G).
+>
+> (1K) The Department may permit a person referred to in paragraph (1J) to join this Section of the Scheme and, for the purposes of paragraphs (1C) to (1G), the member’s previous service as an active member under the existing scheme referred to in paragraph (1J) will be treated as if it were previous service as an active member of this Section of the Scheme.
+>
+> (1L) For the purposes of paragraphs (1J) and (1K) “the relevant day” is the day the member commences HSC employment for the purposes of these Regulations.
+>
+> (1M) A person referred to in paragraph (1C), (1E), (1I) or (1K) may elect, using a form provided by the Department, not to make contributions or accrue further service under this Section of Scheme in accordance with whichever of those paragraphs apply, but instead (where eligible) to become an active member of the 2015 Scheme.
+>
+> (1N) Such an election—
+>
+> - (a) is irrevocable,
+> - (b) must be given to the Department before the date specified by the Department in the election form,
+> - (c) is to be treated as having been given on the date the election form is received by the Department.
+>
+> (1O) The date referred to in sub-paragraph (1N)(b) must be a date that is at least three months later than the date on which the Department provided the member with an election form.
+>
+> (1P) An election shall be effective from the first day of the member’s pensionable employment in the 2008 Section falling on, or after, 1st April 2015, and from that date—
+>
+> - (a) that member is to be treated as if that member had been an active member of the 2015 Scheme; and
+> - (b) contributions made in respect of the member in the 2008 Section shall be treated as if they had been contributions made in respect of that member in the 2015 Scheme.
+>
+> (1Q) The Department may allow a member to exercise an election after the date specified under sub-paragraph (1N)(b) where the Department considers that the member has not had a reasonable opportunity to consider whether to exercise an election before that date.
+
+.
+
+#### 12. Amendment of regulation 57[^key-f56bff7e03259c61abce68b2f17097cd]
+
+(1) Regulation 57 (Exceptions to requirements that HSC employment must have ceased) is amended as provided by paragraphs (2) to (4).
+
+(2) In paragraphs (1) and (6), after “(2)” insert “or (2A)”.
+
+(3) After paragraph (2), insert—
+
+> (2A) This paragraph applies if the member is in employment with an employing authority in respect of which the member is eligible to join the 2015 Scheme and that member’s service in this Section does not qualify as, or has ceased to be, pensionable service to which paragraphs 1(2)(i) and (ii) or paragraphs 2(i) and (ii) of Schedule 7 (final salary link) to the 2014 Act applies.
+
+.
+
+(4) For paragraph (3), substitute—
+
+> (3) In paragraph (1), “relevant service” means—
+>
+> - (a) the pensionable service referred to in paragraph (2)(b) in respect of which the member is a deferred member; or
+> - (b) the service in this Section referred to in paragraph (2A).
+
+.
+
+#### 13. Amendment of regulation 101[^key-b5e72e8d070ab0a50870ddb512324ae5]
+
+For sub-paragraph (c) of paragraph (1) of regulation 101 (Procedure for applications under regulation 100)[^f00038], substitute—
+
+> - (c) may only be made—
+>   - (i) during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of this Section of the Scheme and before the applicant reaches the age of 65, or
+>   - (ii) where the applicant is not eligible to be an active member of this Section of the Scheme and the application is made in respect of a transfer from a corresponding 2008 Scheme, during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if on that day paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which the transfer value payment will be made,
+
+.
+
+#### 14. Substitution of regulation 105[^key-827ba064100cb604fb936d9e04ff96a4]
+
+For regulation 105 (Public sector transfer arrangements), substitute—
+
+> **105. Public sector transfer arrangements**
+>
+> (1) This Chapter applies to a transfer where—
+>
+> - (a) the member is an active member of the 2015 Scheme,
+> - (b) the member makes an application under regulation 100 for a transfer value payment in respect of some or all of the rights that have accrued to or in respect of the member under—
+>   - (i) an existing scheme listed in Schedule 5 to the 2014 Act,
+>   - (iii) another occupational pension scheme that participates in the Public Sector Transfer Club,
+> - (c) the application under regulation 100 is made within one year beginning with the day the member became eligible to be an active member of the 2015 Scheme and before the member reaches the member’s normal pension age in the 2015 Scheme,
+> - (d) the transfer value payment is made and accepted under the public sector transfer arrangements, and
+> - (e) on the day the transfer is completed, paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which the transfer value payment is made.
+>
+> (2) This Chapter also applies in the case of any other transfer to which the public sector transfer arrangements apply (not being a transfer referred to in paragraph (1)) as it applies in other cases, except to the extent that—
+>
+> - (a) any provision in this Chapter provides otherwise, or
+> - (b) the arrangements themselves make different provision.
+
+.
+
+#### 15. New regulation 136ZA[^key-934049f051a6a161089cfbfacbae8eaf]
+
+After regulation 136 (Employing authority and certain member record keeping and contribution estimates), insert—
+
+> **136ZA. Benefit information statements**
+>
+> (1) The Department must provide a benefit information statement to each member in accordance with—
+>
+> - (a) section 14 (Information about benefits) of the 2014 Act; and
+> - (b) any Department of Finance and Personnel directions given from time to time pursuant to that section.
+>
+> (2) Paragraph (1) does not provide a right for a member to request a benefit information statement.
+>
+> (3) The Department is only required to provide a member with one benefit statement per scheme year.
+>
+> (4) A benefit information statement provided pursuant to paragraph (1) is to be treated as though it is the information mentioned in regulation 16(2)(a) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00039] for the purposes of determining whether or not information must be given under regulation 16(1) of those Regulations.
+
+.
+
+#### 16. Amendment of regulation 153[^key-33c7fd6326c91d338e6bba3142cf6c7d]
+
+(1) Regulation 153 (Eligibility: general)[^f00040] is amended as provided by paragraphs (2) and (3).
+
+(2) In paragraph (1), after “Scheme” insert “on or after 1st April 2015”.
+
+(3) For paragraphs (3) to (6), substitute—
+
+> (3) Condition B is that the person—
+>
+> - (a) enters practitioner service on or after 1st April 2008 and has service (“relevant service”) as an active member of this Section of the Scheme—
+>   - (i) on or before 1st April 2012, or
+>   - (ii) after 1st April 2012, but only where that service is pursuant to the provisions of Chapter 10;
+> - (b) has not had a break in service for any one period of five years or more ending in the period starting on 2nd April 2012 and finishing on 1st April 2015; and
+> - (c) meets all of the “other Section conditions” (see paragraph (5)).
+>
+> (4) Condition C is that the person has not reached the age of 75 and was born on, or before, 31st August 1960.
+>
+> (5) The “other section conditions” are that—
+>
+> - (a) the person has not received a repayment of contributions under regulation 175 (Repayment of contributions) in respect of their relevant service;
+> - (b) the person’s rights under this Section of the Scheme in respect of their relevant service have not been extinguished under regulation 226;
+> - (c) the person is not entitled to a repayment of contributions under regulation 175 by virtue of paragraph (2)(a) to (c) of that regulation.
+
+.
+
+#### 17. Amendment of regulation 154[^key-8c15ebe3155a6c1a5db6949748c97b47]
+
+In regulation 154 (Restrictions on eligibility: general)[^f00041], after paragraph (1) insert—
+
+> (1A) A person who was born on, or after, 1st September 1960 is not eligible to be an active member of this Section of the Scheme in respect of practitioner service on, or after, 1st April 2015.
+>
+> (1B) A person is not eligible to be an active member of this Section of the Scheme if that person has had a break in service ending on or after 2nd April 2012, and any of the following apply—
+>
+> - (a) that break in service is for any one period of five years or more;
+> - (b) that person receives a repayment of contributions under regulation 175 in respect of their service before that break (see regulation 153(3)(a));
+> - (c) that person becomes entitled to a repayment of contributions under regulation 175 by virtue of paragraph (2)(a) to (c) of that regulation in respect of their service before that break; or
+> - (d) that person’s rights under this Section of the Scheme in respect of their service before that break have been extinguished under regulation 226 because a transfer value payment is made in respect of them.
+>
+> (1C) A person who on 1st April 2012 has attained the age of 55 may not contribute or accrue further pensionable service under this Section of the Scheme unless that person either—
+>
+> - (a) is, on 1st April 2015, an active member of this Section of the Scheme in accordance with regulation 153, or
+> - (b) returns to HSC employment on or after 2nd April 2015 in circumstances where paragraph (1B)(a) does not apply.
+>
+> (1D) Paragraph (1E) applies to a person—
+>
+> - (a) who, on 1st April 2012, has attained the age of 51 years and 7 months but has not attained the age of 55, and
+> - (b) whose eligibility cessation date has not been reached (see paragraph (1F)).
+>
+> (1E) A person referred to in paragraph (1D) may not contribute or accrue further pensionable service under this Section of the Scheme unless that person either—
+>
+> - (a) is, on 1st April 2015, an active member of this Section of the Scheme in accordance with regulation 153, or
+> - (b) returns to HSC employment on or after 2nd April 2015 in circumstances where paragraph (1B)(a) does not apply.
+>
+> (1F) For the purposes of paragraph (1D), a person’s eligibility cessation date is to be determined according to the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2015/122)
+>
+> where—
+>
+> - A is 1st April 2022
+> - T is the number of months (rounded up to the nearest whole month) by which the person’s age on 1st April 2012 is less than 55.
+>
+> (1G) For the purposes of paragraphs (1C)(b) and (1E)(b), any break in service where the member was in pensionable service in an existing scheme (within the meaning of Schedule 5 to the 2014 Act) is to be disregarded.
+>
+> (1H) Paragraph (1I) applies to a person who in the opinion of the Department—
+>
+> - (a) was previously an active member of a corresponding 2008 scheme;
+> - (b) the regulations governing that corresponding scheme include provisions pursuant to subsection (5) of section 18 of the 2014 Act that provide for exceptions to subsection (1) of that section, and
+> - (c) pursuant to those provisions, the member would have been eligible to re-join that corresponding scheme if the member had returned to HSC employment for the purposes of that scheme on the day the member commenced HSC employment within the meaning of these Regulations.
+>
+> (1I) The Department may permit a person referred to in paragraph (1H) to join this Section of the Scheme and, for the purposes of paragraphs (1C) to (1G), the member’s previous pensionable employment under the corresponding scheme referred to in paragraph (1H) will be treated as is it were previous pensionable employment under this Section of the Scheme.
+>
+> (1J) Paragraph (1K) applies to a person who, in the opinion of the Department—
+>
+> - (a) was previously an active member in respect of service in an existing scheme (within the meaning of Schedule 5 to the 2014 Act),
+> - (b) is not receiving a pension in respect of that service on the relevant day,
+> - (c) the regulations of that existing scheme include provisions pursuant to subsection (5) of section 18 of the 2014 Act that provide for exceptions to subsection (1) of that section,
+> - (d) pursuant to those provisions, the person would have been eligible to be an active member of the existing scheme if the member had returned to employment for the purposes of that scheme on the relevant day, and
+> - (e) the member would, if the member’s previous service in the existing scheme had been previous service under this Section of the Scheme, have been eligible for active membership of this Section of the Scheme on the relevant day pursuant to paragraphs (1A) to (1G).
+>
+> (1K) The Department may permit a person referred to in paragraph (1J) to join this Section of the Scheme and, for the purposes of paragraphs (1C) to (1G), the member’s previous service as an active member under the existing scheme referred to in paragraph (1J) will be treated as if it were previous service as an active member of this Section of the Scheme.
+>
+> (1L) For the purposes of paragraphs (1J) and (1K) “the relevant day” is the day the member commences HSC employment for the purposes of these Regulations.
+>
+> (1M) A person referred to in paragraph (1C), (1E), (1I) or (1K) may elect, using a form provided by the Department, not to make contributions or accrue further service under this Section of Scheme in accordance with whichever of those paragraphs apply, but instead (where eligible) to become an active member of the 2015 Scheme.
+>
+> (1N) An election—
+>
+> - (a) is irrevocable,
+> - (b) must be given to the Department before the date specified by the Department in the election form,
+> - (c) is to be treated as having been given on the date the election form is received by the Department.
+>
+> (1O) The date referred to in sub-paragraph (1N)(b) must be a date that is at least three months later than the date on which the Department provided the member with an election form.
+>
+> (1P) An election shall be effective from the first day of the member’s pensionable employment in the 2008 Section falling on, or after, 1st April 2015, and from that date—
+>
+> - (a) that member is to be treated as if that member had been an active member of the 2015 Scheme; and
+> - (b) contributions made in respect of the member in the 2008 Section shall be treated as if they had been contributions made in respect of that member in the 2015 Scheme.
+>
+> (1Q) The Department may allow a member to exercise an election after the date specified under sub-paragraph (1N)(b) where the Department considers that the member has not had a reasonable opportunity to consider whether to exercise an election before that date.
+
+.
+
+#### 18. New regulation 193A[^key-da651faa139e74663bc3c0952fb2e6c5]
+
+After regulation 193 (Guaranteed minimum pensions etc), insert—
+
+> **193A. Exceptions to requirement that HSC employment must have ceased**
+>
+> (1) A member is not prevented from becoming entitled to a pension under regulation 176 in respect of pensionable service in respect of which the member is a deferred member because of continuing in HSC employment if paragraph (2) applies.
+>
+> (2) This paragraph applies if the member—
+>
+> - (a) is in employment with an employing authority in respect of which the member is eligible to join the 2015 Scheme; and
+> - (b) has a break of service under the 2015 Regulations that exceeds five years.
+
+.
+
+#### 19. Amendment of regulation 228[^key-29ce2522116794ec24a6181b967cb90d]
+
+For sub-paragraph (c) of paragraph (1) of regulation 228 (Procedure for applications under regulation 227)[^f00042], substitute—
+
+> - (c) may only be made—
+>   - (i) during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of this Section of the Scheme and before the applicant reaches the age of 65, or
+>   - (ii) where the applicant is not eligible to be an active member of this Section of the Scheme and the application is made in respect of a transfer from a corresponding 2008 Scheme during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if on that day paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which the transfer value payment will be made,
+
+.
+
+#### 20. Substitution of regulation 232[^key-d8a767213b2a320335f738535b0d93fd]
+
+For regulation 232 (Public sector transfer arrangements), substitute—
+
+> **232. Public sector transfer arrangements**
+>
+> (1) This Chapter applies to a transfer where—
+>
+> - (a) the member is an active member of the 2015 Scheme,
+> - (b) the member makes an application under regulation 227 for a transfer value payment in respect of some or all of the rights that have accrued to or in respect of the member under—
+>   - (i) an existing scheme listed in Schedule 5 to the 2014 Act,
+>   - (iii) another occupational pension scheme that participates in the Public sector Transfer Club,
+> - (c) the application under regulation 227 is made within one year beginning with the day the member became eligible to be an active member of the 2015 Scheme and before the member reaches the member’s normal pension age in the 2015 Scheme,
+> - (d) the transfer value payment is made and accepted under the public sector transfer arrangements, and
+> - (e) on the day the transfer is completed, paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which the transfer value payment is made.
+>
+> (2) This Chapter also applies in the case of any other transfer to which the public sector transfer arrangements apply (not being a transfer referred to in paragraph (1)) as it applies in other cases, except to the extent that—
+>
+> - (a) any provision in this Chapter provides otherwise, or
+> - (b) the arrangements themselves make different provision.
+
+.
+
+#### 21. New regulation 260ZA[^key-4fed17e39ef18925dff8e5d7540b6eca]
+
+After regulation 260 (Employing authority and certain member record keeping and contribution estimates), insert—
+
+> **260ZA. Benefit information statements**
+>
+> (1) The Department must provide a benefit information statement to each member in accordance with—
+>
+> - (a) section 14 (Information about benefits) of the 2014 Act; and
+> - (b) any Department of Finance and Personnel directions given from time to time pursuant to that section.
+>
+> (2) Paragraph (1) does not provide a right for a member to request a benefit information statement.
+>
+> (3) The Department is only required to provide a member with one benefit statement per scheme year.
+>
+> (4) A benefit information statement provided pursuant to paragraph (1) is to be treated as though it is the information mentioned in regulation 16(2)(a) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00043] for the purposes of determining whether or not information must be given under regulation 16(1) of those Regulations.
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make transitional and consequential provision in relation to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 ([S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120)) (“the new scheme”) for persons who have previous service under the Health and Social Care Pension Scheme contained in Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995 ([S.R. 1995 No.95](https://www.legislation.gov.uk/nisr/1995/95)) (“the 1995 Regulations) and the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 ([S.R. 2008 No.256](https://www.legislation.gov.uk/nisr/2008/256)) (“the 2008 Regulations”) (the latter two Regulations together referred to here as “the old scheme”).
+
+Part 1 deals with introductory matters and sets out definitions used in the Regulations.
+
+Part 2 sets out transitional provisions by way of modification of the operation of the old scheme and the new scheme.
+
+- Chapter 1 introduces Schedule 1, which sets out when existing pensioners of the old scheme are eligible to become members of the new scheme.
+- Chapter 2 provides for nominations, notices and declarations given in the old scheme to have effect in the new scheme and vice versa.
+- Chapter 3 provides for members of the old scheme who are transferred to the new scheme to remain active members of the old scheme, and sets out when a break in service affects that continuing active membership.
+- Chapter 4 makes transitional provision in respect of contributions and final pay.
+- Chapter 5 deals with arrangements for existing contracts for additional service, unreduced lump sums and additional pension.
+- Chapter 6 provides for part of bulk transfer payments received into the new scheme to be paid into the old scheme in certain circumstances.
+- Chapter 7 makes transitional provision in respect of retirement benefits.
+- Chapter 8 deals with death in service benefits.
+- Chapter 9 provides for certain members to be able to elect to convert their service under the 1995 Regulations into service under the 2008 Regulations.
+
+Part 3 introduces Schedule 2, which makes a number of amendments to the old scheme.
+
+- Parts 1 and 2 of Schedule 2 make similar amendments in respect of both the 1995 Regulations and the 2008 Regulations. They also introduce amendments specific to either the 1995 Regulations or the 2008 Regulations.
+- The changes dealing with similar issues in Parts 1 and 2—
+  - (i) amend the provision governing participation in the old scheme so that participation is only open to those who benefit from full protection (members within 10 years of retirement age under the Scheme) or who benefit from tapered protection (members more than 10 years but less than 13 years and 5 months away from retirement age under the Scheme);
+  - (ii) amend provisions of the old scheme to allow deferred benefits in the old scheme to be paid at the normal retirement age for that scheme despite the member remaining in HSC employment;
+  - (iii) insert new provisions dealing with a member’s right to an annual benefit statement.
+- Amendments specific to the 1995 Regulations—
+  - (i) insert new provisions for crediting service in the 1995 Section in the 2008 Section.
+- Amendments specific to the 2008 Regulations—
+  - (i) amend the provisions relating to applications for transfers;
+  - (ii) insert new provisions (regulation 105 and 232) making provision for transfers between schemes that participate in the Public Sector Transfer Club.
+
+An impact assessment has not been prepared for this rule as no impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073) as amended by [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509); [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49) and [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^f00002]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
+
+[^key-d4c4e9c45dc524b5bf296165e84bccbe]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-a4c39d1935b03b40408f11aa31452f5b]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 1995 No.95](https://www.legislation.gov.uk/nisr/1995/95) as amended by [S.R. 1997 Nos.217](https://www.legislation.gov.uk/nisr/1997/217) and [390](https://www.legislation.gov.uk/nisr/1997/390); [S.R. 1998 No.299](https://www.legislation.gov.uk/nisr/1998/299); [S.R. 1999 No.293](https://www.legislation.gov.uk/nisr/1999/293); [S.R. 2002 No.69](https://www.legislation.gov.uk/nisr/2002/69); [S.R. 2004 Nos.103](https://www.legislation.gov.uk/nisr/2004/103) and [104](https://www.legislation.gov.uk/nisr/2004/104); [S.R. 2005 Nos.155](https://www.legislation.gov.uk/nisr/2005/155), [533](https://www.legislation.gov.uk/nisr/2005/533), [534](https://www.legislation.gov.uk/nisr/2005/534) and [565](https://www.legislation.gov.uk/nisr/2005/565); [S.R. 2006 Nos.159](https://www.legislation.gov.uk/nisr/2006/159) and [410](https://www.legislation.gov.uk/nisr/2006/410); [S.R. 2008 Nos.96](https://www.legislation.gov.uk/nisr/2008/96), [130](https://www.legislation.gov.uk/nisr/2008/130) and [163](https://www.legislation.gov.uk/nisr/2008/163); [S.R. 2009 Nos.65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); [S.R. 2010 Nos.22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); [S.R. 2012 Nos.42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78); [S.R. 2013 Nos.40](https://www.legislation.gov.uk/nisr/2013/40), [73](https://www.legislation.gov.uk/nisr/2013/73), [247](https://www.legislation.gov.uk/nisr/2013/247) and [259](https://www.legislation.gov.uk/nisr/2013/259); [S.R. 2014 Nos.59](https://www.legislation.gov.uk/nisr/2014/59) and [225](https://www.legislation.gov.uk/nisr/2014/225) and [S.R. 2015 Nos.56](https://www.legislation.gov.uk/nisr/2015/56) and [121](https://www.legislation.gov.uk/nisr/2015/121)
+
+[^f00004]: Footnote: [S.R. 2008 No.256](https://www.legislation.gov.uk/nisr/2008/256) as amended by [S.R. 2009 Nos.65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); [S.R. 2010 Nos.22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); [S.R. 2012 Nos.42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78); [S.R. 2013 Nos.40](https://www.legislation.gov.uk/nisr/2013/40), [73](https://www.legislation.gov.uk/nisr/2013/73), [247](https://www.legislation.gov.uk/nisr/2013/247) and [259](https://www.legislation.gov.uk/nisr/2013/259); [S.R. 2014 Nos.59](https://www.legislation.gov.uk/nisr/2014/59) and [225](https://www.legislation.gov.uk/nisr/2014/225) and [S.R. 2015 Nos.56](https://www.legislation.gov.uk/nisr/2015/56) and [121](https://www.legislation.gov.uk/nisr/2015/121)
+
+[^f00005]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
+
+[^f00006]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120)
+
+[^key-0f44ee3d82cfc8616ebb69ce2d291a7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [27](https://www.legislation.gov.uk/nisr/2024/117/regulation/27)
+
+[^key-4b8070e9c08617d1362083720ed70987]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/2)
+
+[^key-5ab402ccd68bfa1fa531ae249afe9f90]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/3)
+
+[^key-d65461aa8ba6afd5fb771b5c20751319]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/4)
+
+[^f00007]: Footnote: [1971 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35) Section 8A was inserted by paragraph 2 of Schedule 8 to the [Public Service Pensions Act (Northern Ireland) 2014 (c.2 N.I.))](https://www.legislation.gov.uk/nia/2014/2)
+
+[^key-2fe632a6ab692705182a25a3ca9b84b8]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-a8e78ca98e4e785d8f90953aa90cc75a]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00008]: Footnote: [S.R. 2010 No.122](https://www.legislation.gov.uk/nisr/2010/122); Regulation 9 was amended by [S.R. 2013 No.243](https://www.legislation.gov.uk/nisr/2013/243)
+
+[^key-0a25492c4c63b910b54c31d9a3758b67]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-c79f0c046c428ec62df36af6804e7dcd]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(a)(i)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/a/i)
+
+[^key-355d2a8918d18d585a5640dcacfc8934]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/b)
+
+[^key-fa95787dd180c0f9efb2f53dfce806ce]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(a)(ii)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/a/ii)
+
+[^key-16dd8239e102082ce47ebe2bc53424f1]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-a53ab270fc5f14c1e8911c7f514adc76]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-75cdf1bcde0f9e715cdc6ff0045999b5]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-d4c99e1d35d1b37c6e6c3e7c257fda69]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00009]: Footnote: Paragraph (4A) was inserted by [S.R. 2004 No.103](https://www.legislation.gov.uk/nisr/2004/103) regulation 3(c)
+
+[^f00010]: Footnote: Paragraph 9A was inserted by [S.R. 2005 No.534](https://www.legislation.gov.uk/nisr/2005/534) regulation 4(70
+
+[^key-c43f9a2347c69574895df77a82ce3b0e]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-8721a55773d03198828d38b4cd2dd75e]: Commencement: Reg. 11 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-612f0d5f7a94ec01f97d3476cacf7a6b]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/a)
+
+[^key-521f48149f7d50620481018c62188a9f]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/i)
+
+[^key-ac263c152eef7f5a3637f288433bacff]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/ii/aa)
+
+[^key-579888a638ee358b134254af6b12602f]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/ii/bb)
+
+[^key-f2c4950d37c1723c6628925e15adf21c]: Commencement: Reg. 12 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-5ff2024a1dcf177c157ddf652af3e0c7]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/12/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/3/a)
+
+[^key-599ccc486617f6865fc90b9b90e98d6e]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/12/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/3/b)
+
+[^key-facbce125fbf4a3bd9a47ab9debe9106]: Commencement: Reg. 13 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00011]: Footnote: Paragraphs (15) and (16) are inserted by paragraph 4 of Schedule 2
+
+[^f00012]: Footnote: Paragraph (1F) was inserted in each regulation by paragraphs 11 and 17 of Schedule 2 respectively
+
+[^key-fae5bd35adadd10710afcd3dc8ab6d66]: Commencement: Reg. 14 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-e1089152c15bf90fa6eb389e2a612b6b]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/14/1) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [33(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/33/2)
+
+[^key-5570d86d068befd6138ddf83aec2d131]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/14/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [33(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/33/3)
+
+[^key-0cfff085b39a9888d33b959c8e78f14c]: Commencement: Reg. 15 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-fd01a35514f4537dec973156855b295f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2015/122/regulation/15) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [34](https://www.legislation.gov.uk/nisr/2024/50/regulation/34)
+
+[^f00013]: Footnote: Paragraphs (10) and (12) were inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 4(3)
+
+[^key-4f530279c2fdd5b41b3e90b4daf6eace]: Commencement: Reg. 16 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-bd2ac1caf89f2d9c87316b082001d4cf]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2015/122/regulation/16) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [35](https://www.legislation.gov.uk/nisr/2024/50/regulation/35)
+
+[^key-2e138f260e6ecf615aaabfd0569d60cf]: Commencement: Reg. 17 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-8aeb2727289ba439af2bb74c5e79d0e9]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/122/regulation/17A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/50/regulation/36)
+
+[^key-4b6956be75178faaea28a80279bd41af]: Commencement: Reg. 18 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-62ce7336807f1f6f05d4771d963601e6]: Textual amendment: Reg. 18 renumbered as reg. 18(1) and words substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/4/a)
+
+[^key-dbdfae178788064a9008accf0c7bf40d]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/1)[(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/2)[(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/3) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/4/b)
+
+[^key-6a984d557f99e160efe0a5ff22bf7dc6]: Commencement: Reg. 19 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-d438be3cb20f9933a0e8cc9b7f70f638]: Commencement: Reg. 20 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-3d24d38dd954cb3fa2222f416fdc0f5e]: Commencement: Reg. 21 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00014]: Footnote: Paragraph (11A) was inserted by [S.R. 2005 No.155](https://www.legislation.gov.uk/nisr/2005/155) regulation 10(2) and amended by [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) regulation 11(3)
+
+[^key-9db88f1d55aebe358faf13ee87d2a336]: Commencement: Reg. 22 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00015]: Footnote: Regulations 73A to 73J were inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) regulation 51
+
+[^key-efb9fe8c75244dc4e0dec76be87f60c4]: Commencement: Reg. 23 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-27170fbc1b04899aaf3a5034494bf05c]: Modification: [Reg. 23(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3) applied (1.10.2023 for specified purposes) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [regs. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2023/132/regulation/16/2)
+
+[^key-bd7c5199637a1e6d00b6de1cd117721b]: Commencement: Reg. 24 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-dc2639d7b68444a6739f8ca159b34f1f]: Commencement: Reg. 25 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-694e1bae73bb7e96f10508c5c083960c]: Textual amendment: Words in [reg. 25(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2/a) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/i)
+
+[^key-9b77b9456b40b673b2ca07a2ee59898d]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2/b) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/ii)
+
+[^key-f4189befc5d1834dedf7d5e86cd41f6c]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/iii/aa)
+
+[^key-dd3bcefb0615a7fe448771c405581b0a]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/iii/bb)
+
+[^key-466a53df939a41374c1eba3966140895]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/6) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/b)
+
+[^key-0434f07febf6e917fc65eecfc52659c5]: Textual amendment: Words in [reg. 25(9)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/9) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/c)
+
+[^key-b45e02bb980a373e22c1fb40cdf09548]: Textual amendment: [Reg. 25(9A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/9A) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/d)
+
+[^key-83ad0df03eb5dfabaf847452af52a0fe]: Commencement: Reg. 26 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-0c2071af71202e0cdd2b4ab148fca7d1]: Commencement: Reg. 27 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-1ec84d46b3c5e6bf23b0605ab7fb62ba]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/2/a)
+
+[^key-726638487f0587f432f9024bb00136ff]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/i)
+
+[^key-7545574a9431feb6e004cd9c5f9a7c03]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/2/b)
+
+[^key-c9a42acc3252e3bb2a83bdfcff8ea33b]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/i) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+
+[^key-909cf6699bb5fe012d3f2433379a361a]: Textual amendment: Words in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/i) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+
+[^key-ce2da3350acabeacd8a6d75fce352d98]: Textual amendment: Reg. 27(1)(a)(i)(aa) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+
+[^M_F_e9569838-5406-444e-9f0f-51b3cbc6356e]: Textual amendment: Reg. 27(1)(a)(i)(bb) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+
+[^key-4cb462914a6a8d172e286fba162f2354]: Textual amendment: Words in [reg. 27(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/ii) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(cc)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/cc)
+
+[^key-264823faddf62d1ed10ac859503539e0]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iii/aa)
+
+[^key-0ae30d0eb464a915817b8be9bfbeb9ef]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iii/bb)
+
+[^key-9cab4a51f952006dc2f5132112301524]: Textual amendment: Words in [reg. 27(1)(c)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/c) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iv)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iv/aa)
+
+[^key-42b1e4111cf3526d96a95582b43e958f]: Textual amendment: Words in [reg. 27(1)(c)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/c) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iv)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iv/bb)
+
+[^key-c37c71786e76e003e6b93fa64d6cdb2f]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1A) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/3)
+
+[^key-fabe74be656536efac285e8d7e0a9e73]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/i)
+
+[^key-f34a64221bce3041ed0b062584c5cd87]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/4)
+
+[^key-336ff35383ef9071faaca05a9a301826]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2/b) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/ii/aa)
+
+[^key-ab23f2173ccf83e5bfdd8d6000785dc2]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/ii/bb)
+
+[^key-b6a342f517a1ca793567d692108a890b]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/i)
+
+[^f00018]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 50 was substituted by Article 250(1) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
+
+[^f00019]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^key-1288d0424b4a5bc76771cb597dd7e249]: Textual amendment: [Reg. 27(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3/a/iii) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/ii)
+
+[^key-3cc9e93473d14d3db5bcc823b427985c]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(iii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/iii)
+
+[^key-eb334064e68c48b8df5e67845d7a1015]: Textual amendment: [Reg. 27(4)-(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/4) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(d)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/d)
+
+[^key-0f7f4055fe02284990a1cf055ba394c2]: Textual amendment: [Reg. 27(7)-(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/7) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(e)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/e)
+
+[^key-dbb7cde1fae0d99881b2f9f978dcfef1]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(a)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/a)
+
+[^key-dcc60b296c6f31d43b5e4616e39d4488]: Textual amendment: Word in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(b)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/b)
+
+[^key-19def15286313f0f518ede8938925e72]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(c)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/c)
+
+[^key-b3dde050bf764b28923cb0749f6d7e47]: Commencement: Reg. 28 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-876a1edb18f2ceec3da64d4ebfee59c3]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/6A) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(7)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/7)
+
+[^key-afdc06c158178d1f39858f3a4490b77d]: Commencement: Reg. 29 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00020]: Footnote: [1972 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1972/35)
+
+[^key-2bb34c1ec295ab23b038dbb25f0961d4]: Commencement: Reg. 30 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-904e45dba5bcdbf264ffec867b7d2bd6]: Commencement: Reg. 31 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-def6eca8dfb13ba723e8a82b1104f3f6]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/2)
+
+[^key-69808745110ee2be05eb880eb37f7a2f]: Textual amendment: [Reg. 31(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/2) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/3)
+
+[^key-ca82c799f1ce2211380edc91834a0888]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/3) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/4)
+
+[^key-99e28db5afb097b461b166694a2cbdb6]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/3/b) substituted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [28](https://www.legislation.gov.uk/nisr/2024/117/regulation/28)
+
+[^key-c41b12203f7826f9b7014bf5b5298727]: Commencement: Reg. 32 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00021]: Footnote: Regulation 14A was inserted by [S.R. 2008 No.96](https://www.legislation.gov.uk/nisr/2008/96) and amended by [S.R. 2013 Nos. 40](https://www.legislation.gov.uk/nisr/2013/40) and [259](https://www.legislation.gov.uk/nisr/2013/259)
+
+[^key-c16de5beb56181cd34f4404e0793c061]: Commencement: Reg. 33 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00022]: Footnote: Regulation 14C was inserted by [S.R. 2008 No.96](https://www.legislation.gov.uk/nisr/2008/96)
+
+[^key-0656f6deb0d0740f69fec1bbe34f75ef]: Commencement: Reg. 34 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-5ab0782a9f9e1aa9161c2d2f0c7daa26]: Commencement: Reg. 35 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-874fbdd855c612cafc06ce43cde40b36]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/nisr/2015/122/regulation/35) heading added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/2)
+
+[^key-04105b8700d748cfc76d6e2abf931f42]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/8/a)
+
+[^key-0ef07e9d06d20fbb6b5420c176ea89b2]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(3)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/3/a)
+
+[^key-1fe4edc998c2b2798b4dae1d0b7a8b2c]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/8/b)
+
+[^key-4f0039f218644abff1de94dfa9dd8699]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(3)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/3/b)
+
+[^key-652f267ed55cb7fcc10fb85a3be95940]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/3) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/4)
+
+[^key-4a9fb0aa2db2bf26d443e086da71c57e]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [39(1)](https://www.legislation.gov.uk/nisr/2024/50/regulation/39/1)
+
+[^key-32493c198c8ced54eb39f2437ab60847]: Textual amendment: Words in [reg. 35A(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/2/a) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(2)(a)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/2/a)
+
+[^key-1df77e784e4ab287b4550c8b8dd7c5f9]: Textual amendment: [Reg. 35A(2)(aa)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/2/aa) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(2)(b)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/2/b)
+
+[^key-1fd36f0da0bda626d46969474b53ae60]: Textual amendment: [Reg. 35A(3A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/3A) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(3)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/3)
+
+[^key-fb303da1c3bacc76d34dcffc0d0c5e6a]: Commencement: Reg. 36 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00023]: Footnote: Paragraph (1A) was inserted by [S.R. 2005 No.155](https://www.legislation.gov.uk/nisr/2005/155) regulation 8; amended by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) regulation 57 and [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42) regulation 7
+
+[^f00024]: Footnote: Paragraph (3D) was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) regulation 57(3)
+
+[^key-fd0f23e3b160565cbb02e30440db43bc]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2015/122/regulation/37) omitted (12.6.2024) by virtue of [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [30](https://www.legislation.gov.uk/nisr/2024/117/regulation/30)
+
+[^key-0630fc4f085ec3b4ae306b1ca2cf417c]: Commencement: Reg. 38 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-9113cf6c2a2c04ccc11c1994ca7eceb0]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(9)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/9)
+
+[^key-5f16a109ded4ec5202dc81e0f69bdd3e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(2)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/2/a)
+
+[^key-1cdbd099121a6e007b42efbacd066ac4]: Textual amendment: [Reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) heading substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(2)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/2/b)
+
+[^key-99e0a79542017b15e7f2fb49e865cbd3]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/3)
+
+[^key-8eb5b320e31f2b657425deb5361a5a29]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/2) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(4)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/4/a)
+
+[^key-0bc660cfc06d4a4ecf4ca4b2f693e2e8]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/2) added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(4)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/4/b)
+
+[^key-00df1909f02301aa8721c00f7b499fbd]: Commencement: Reg. 39 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00025]: Footnote: These paragraphs are inserted by paragraph 4 of Schedule 2
+
+[^key-4998278d9764dc4994022e4eb73ad043]: Commencement: Reg. 40 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-d33862032a114ad5cf1a6c1e7b74f44a]: Commencement: Sch. 1 para. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-b09cad3b10bed6fa112fcd48066255ca]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/1) Table inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/a)
+
+[^key-8de40b6335cb45872d6c07e039b2fd1b]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/1) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [41](https://www.legislation.gov.uk/nisr/2024/50/regulation/41)
+
+[^key-20aa406ce47acec600e701db0d9879f6]: Commencement: Sch. 1 para. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-c80c49cef844553219ffccb280b4e463]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/2) Table substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/b/i)
+
+[^key-89b43e7019afabcbec435233ccf3565d]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/2) Table inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/b/ii)
+
+[^key-140a7a1d4674c562b5ef912eb1e87f76]: Commencement: Sch. 2 para. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-1e61dc921d808078f77645113d748e17]: Commencement: Sch. 2 para. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00026]: Footnote: [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^f00027]: Footnote: ISBN 978-1-909790-36-0, PU1571. Copies are available at https://www.gov.uk/government/publications/fair-deal-guidance and from The Correspondence and Enquiry Unit, HMT, 1 Horse Guards Road, London, SW1A 2HQ.
+
+[^key-496cdbe49fbebd8eef41fd5b14f8b008]: Commencement: Sch. 2 para. 3 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00028]: Footnote: Sub-paragraph (c) was inserted by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 5(3) and amended by [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 4(3)
+
+[^key-e5c8bdeaaa14a31aa74c0342ba582eb9]: Commencement: Sch. 2 para. 4 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-77355d244b75c921fd52f8b1c3b06a4f]: Commencement: Sch. 2 para. 5 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-fe06381cee28e2db8b37e0a4af0e6143]: Commencement: Sch. 2 para. 6 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00029]: Footnote: Regulation 81 as amended by [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78), regulation 5
+
+[^key-62ae3f3d71ddb60a4d83697ce3ccda63]: Commencement: Sch. 2 para. 7 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00030]: Footnote: Regulation 97C was inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 14
+
+[^f00031]: Footnote: [S.R. 2014 No.79](https://www.legislation.gov.uk/nisr/2014/79)
+
+[^key-7b7dc9ffa4ad77065fdd9aa9ea6c2d61]: Commencement: Sch. 2 para. 8 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00032]: Footnote: Paragraph 17A was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 63
+
+[^f00033]: Footnote: See paragraph 5
+
+[^key-666208d583d8c26764d4e23188d565ab]: Commencement: Sch. 2 para. 9 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-95449837dcdd4d019bd355042343e888]: Commencement: Sch. 2 para. 10 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00034]: Footnote: Regulation 21 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 29; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 20 and [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 19
+
+[^f00035]: Footnote: [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^f00036]: Footnote: ISBN 978-1-909790-36-0, PU1571 Copies are available at https://www.gov.uk/government/publications/fair-deal-guidance and from The Correspondence and Enquiry Unit, HMT, 1 Horse Guards Road, London, SW1A 2HQ.
+
+[^key-c8b633005d9b49f67aac115a89853e63]: Commencement: Sch. 2 para. 11 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00037]: Footnote: Regulation 22 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 30; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) regulation 22 and [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 21
+
+[^key-f56bff7e03259c61abce68b2f17097cd]: Commencement: Sch. 2 para. 12 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-b5e72e8d070ab0a50870ddb512324ae5]: Commencement: Sch. 2 para. 13 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00038]: Footnote: Regulation 101 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 41
+
+[^key-827ba064100cb604fb936d9e04ff96a4]: Commencement: Sch. 2 para. 14 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-934049f051a6a161089cfbfacbae8eaf]: Commencement: Sch. 2 para. 15 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00039]: Footnote: [S.R. 2014 No.79](https://www.legislation.gov.uk/nisr/2014/79)
+
+[^key-33c7fd6326c91d338e6bba3142cf6c7d]: Commencement: Sch. 2 para. 16 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00040]: Footnote: Regulation 153 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 58; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) regulation 62 and [S.R. 2010 no.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 37
+
+[^key-8c15ebe3155a6c1a5db6949748c97b47]: Commencement: Sch. 2 para. 17 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00041]: Footnote: Regulation 154 as amended by [S.R. 2008 No.65](https://www.legislation.gov.uk/nisr/2008/65) regulation 59; [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 51; [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 39 and [S.R. 2013 No.40](https://www.legislation.gov.uk/nisr/2013/40) regulation 18
+
+[^key-da651faa139e74663bc3c0952fb2e6c5]: Commencement: Sch. 2 para. 18 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-29ce2522116794ec24a6181b967cb90d]: Commencement: Sch. 2 para. 19 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00042]: Footnote: Regulation 228 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 72 and [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 91
+
+[^key-d8a767213b2a320335f738535b0d93fd]: Commencement: Sch. 2 para. 20 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^key-4fed17e39ef18925dff8e5d7540b6eca]: Commencement: Sch. 2 para. 21 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+
+[^f00043]: Footnote: [S.R. 2014 No.79](https://www.legislation.gov.uk/nisr/2014/79)

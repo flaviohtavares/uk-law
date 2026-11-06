@@ -1,0 +1,167 @@
+---
+title: The Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2007
+id: nisr/2007/470
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2007-11-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2007/470
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/470/pdfs/nisr_20070470_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/470/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 470
+
+DISABLED PERSONS
+
+The Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2007
+
+Made
+
+13th November 2007
+
+Coming into operation
+
+31st December 2007
+
+The Office of the First Minister and deputy First Minister, in exercise of the powers conferred by section 56(2) and (4) and section 67(3) of the Disability Discrimination Act 1995[^f00001] and now vested in it[^f00002] makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2007 and shall come into operation on 31st December 2007.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
+
+(3) In this Order—
+
+- “the 1995 Act” means the Disability Discrimination Act 1995; and
+- “court” means a county court.
+
+## 2. Forms for questions and replies
+
+The forms set out in Schedules 1 and 2 to this Order are prescribed for the purposes of section 56 of the Act for cases falling within Part III of the Act (discrimination in other areas), other than section 21A (employment services)[^f00004] and sections 19 to 21 (discrimination in relation to services and duty to make adjustments) in so far as sections 19 to 21 relate to a group insurance arrangement[^f00005], as forms—
+
+- (a) by which the person aggrieved may question the respondent on his reasons for doing any relevant act, or on any other matter which is or may be relevant; and
+- (b) by which the respondent may if he so wishes reply to any questions,
+
+and articles 3 and 4 of this Order shall apply to such cases.
+
+## 3. Period for service of questions
+
+In proceedings before a court, a question shall, for the purposes of section 56(3) of the Act, only be admissible as evidence in any proceedings under Part III of the Act, other than section 21A (employment services) and sections 19 to 21 in so far as sections 19 to 21 relate to a group insurance arrangement—
+
+- (a) where proceedings have not commenced—
+  - (i) if it was served within the period of six months beginning on the date of the act complained of; or
+  - (ii) where the dispute has been referred by the Equality Commission for Northern Ireland for conciliation in pursuance of arrangements under section 28[^f00006] of the Act, if it was served within the period of eight months beginning on the date of the act complained of;
+- (b) where proceedings have commenced, only if it is served with leave of the court and within the period specified by it.
+
+## 4. Manner of service of questions and replies
+
+A question or, as the case may be, a reply may be duly served—
+
+- (a) where the person to be served is the respondent, by delivering the question to him, or by sending it by post to him at his usual or last known residence or place of business; or
+- (b) where the person to be served is the person aggrieved, by delivering the reply to him, or sending it by post to him at his address for reply as stated by him in the document containing the questions or, if no address is so stated, at his usual or last known residence; or
+- (c) where the person to be served is a body corporate or is a trade union or employers’ association within the meaning of the Industrial Relations (N.I.) Order 1992[^f00007], by delivering it to the secretary or clerk of the body, union or association at its registered or principal office or by sending it by post to the secretary or clerk at that office; or
+- (d) where the person to be served is acting by a solicitor, by delivering it at, or by sending it by post to, the solicitor’s address for service.
+
+## 5. Amendment of the Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2004
+
+(1) The Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2004[^f00008] is amended as follows.
+
+(2) In article 3—
+
+- (a) after “the purposes of section 56 of the Act” insert “(for cases falling within Part II of the Act (the employment field and members of district councils) and, in relation to Part III of the Act (discrimination in other areas), for cases falling within section 21A (employment services) and sections 19 to 21 of the Act (discrimination in relation to services and duty to make adjustments) in so far as sections 19 to 21 relate to a group insurance arrangement)”;
+- (b) in paragraph (a), for “complainant” substitute “person aggrieved”.
+
+(3) In article 4, for paragraph (a) substitute the following paragraph—
+
+> - (a) where it was served before a complaint had been presented to a tribunal, if it was so served—
+>   - (i) within the period of three months beginning when the act complained of was done; or
+>   - (ii) where the period under paragraph 3 of Schedule 3 to the Act within which proceedings must be brought is extended by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004[^f00009], within that extended period; or
+
+.
+
+(4) In article 5(b), for “complainant” substitute “person aggrieved”.
+
+(5) In Schedule 1—
+
+- (a) for “complainant” (in each place) substitute “person aggrieved”;
+- (b) in paragraph 1—
+  - (i) for “the Disability Discrimination Act 1995 (“the Act”) by” substitute “Part II of the Disability Discrimination Act 1995 (“the Act”) or Part III of that Act so far as it relates to employment services or a group insurance arrangement by”;
+  - (ii) in sub-paragraph (a)(i), after “against me”, insert “(not applicable in a group insurance case)”;
+  - (iii) after “harassment contrary to the Act” insert “(not applicable in a group insurance case)”;
+- (c) in the Notes—
+  - (i) for paragraph (1) substitute the following paragraph—
+
+    > (1) Under section 56(3) of the Act (as substituted by the Disability Discrimination (Northern Ireland) Order 2006), this questionnaire and any reply are admissible in evidence in industrial tribunal proceedings brought under Part II of the Act or under section 21A (employment services) and sections 19 to 21 (discrimination in relation to services and duty to make adjustments) in so far as sections 19 to 21 relate to a group insurance arrangement, of Part III of the Act.
+
+    .
+  - (ii) in paragraph (2), for “a failure,” substitute “a deliberate failure,” and for “Part III if the case concerns employment services” substitute “the provisions of Part III mentioned in paragraph (1).”.
+
+(6) In Schedule 2—
+
+- (a) for “*(name of complainant)*” substitute “*(name of person aggrieved)*”;
+- (b) in paragraph 3 for “(*Include any reasons which in your view explain or justify your treatment of the complainant or explain any failure on your part to comply with a duty to make a reasonable adjustment).*” substitute “(*Include any reasons which in your view explain or justify your treatment of the person aggrieved or which explain, or in a group insurance case justify, any failure on your part to comply with a duty to make a reasonable adjustment).*”.
+
+Sealed with the Official Seal of the Office of the First Minister and deputy First Minister on 13th November 2007.
+
+Gerard Mulligan
+
+A senior officer of the
+
+Office of the First Minister and deputy First Minister
+
+## SCHEDULE 1 — THE DISABILITY DISCRIMINATION ACT 1995, section 56(2)(a)
+
+Article 2
+
+## SCHEDULE 2 — THE DISABILITY DISCRIMINATION ACT 1995, section 56(2)(b)
+
+Article 2
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Following the substitution of section 56 of the Disability Discrimination Act 1995 (“the Act”) by Article 17 of the Disability Discrimination (Northern Ireland) Order 2006, this Order prescribes forms for questions and replies for cases falling within Part III of the Act (discrimination in areas other than employment and education), other than those falling within section 21A (employment services) and sections 19 to 21 in so far as sections 19 to 21 relate to group insurance arrangements. The section 21A and sections 19 to 21 cases come under the jurisdiction of industrial tribunals by virtue of section 25(6A), (7) and (8) of the Act, whereas the other Part III cases (the cases to which this Order applies) come within the jurisdiction of a county court.
+
+Article 2 of the Order prescribes forms which may be used for the purposes mentioned in the new section 56 of the Act. The form set out in Schedule 1 is for use where the person aggrieved considers that he may have been discriminated against in contravention of Part III of the Act, other than section 21A or sections 19 to 21 of the Act in so far as sections 19 to 21 relate to a group insurance arrangement. This form set out in Schedule 2 is for use by the respondent when replying.
+
+Article 3 provides for periods within which a question must be served on the respondent if, for the purposes of section 56(3) of the Act, it is to be admissible as evidence in proceedings before a court.
+
+Article 4 provides for the manner of service of questions and replies.
+
+Article 5 amends the Disability Discrimination (Questions and Replies) Order (Northern Ireland) 2004 (“the 2004 Order”) to provide explicitly for that Order to apply only for cases falling within Part II of the Act and, in relation to Part III of the Act, to cases falling within section 21A which relates to employment services and sections 19 to 21 in so far as sections 19 to 21 relate to group insurance arrangements. Article 5 also makes minor drafting changes to the 2004 Order and its Schedules to take account of the changes in terminology introduced by the new section 56 of the Act. In addition, Article 5 updates the 2004 Order to take account of the extension to the 3-month time limit for bringing proceedings before an industrial tribunal by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004.
+
+The regulatory impact assessment of this Order was assessed as part of the regulatory impact assessment in relation to the Disability Discrimination (Northern Ireland) Order 2006. A copy may be obtained from: Equality, Rights and Social Need Division, Office of the First Minister and deputy First Minister, Room E3.19, Castle Buildings, Stormont, Belfast, BT4 3SR. A copy of the assessment for the Disability Discrimination (Northern Ireland) Order 2006 has been placed in the library of the Northern Ireland Assembly.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50). Sections 56(2), 56(4) and 67(3) are modified in their application to Northern Ireland by paragraphs 38 and 46 of Schedule 8. Section 56 is substituted by Article 17 of the Disability Discrimination (Northern Ireland) Order 2006 ([S.I. 2006 No. 312 (N.I.1)](https://www.legislation.gov.uk/nisi/2006/312))
+
+[^f00002]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 4(a) and Schedule 2, Part I transfer of functions
+
+[^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00004]: Footnote: Section 21A was inserted by [S.R. 2004 No. 55](https://www.legislation.gov.uk/nisr/2004/55) and amended by paragraphs 1 and 13 of Schedule 1 to the 2006 Order
+
+[^f00005]: Footnote: The definition of “group insurance arrangement” was inserted in section 68(1) of the Disability Discrimination Act 1995 by Article 12(3) of the 2006 Order
+
+[^f00006]: Footnote: Section 28 was substituted by Article 12 of the Equality (Disability, etc.) (Northern Ireland) Order 2000
+
+[^f00007]: Footnote: [S.I. 1992/807 (N.I.5)](https://www.legislation.gov.uk/nisi/1992/807)
+
+[^f00008]: Footnote: [S.R. 2004 No. 479](https://www.legislation.gov.uk/nisr/2004/479)
+
+[^f00009]: Footnote: [S.R. 2004 No. 521](https://www.legislation.gov.uk/nisr/2004/521)

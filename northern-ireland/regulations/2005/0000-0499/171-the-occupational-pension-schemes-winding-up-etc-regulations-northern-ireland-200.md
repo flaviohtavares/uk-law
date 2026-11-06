@@ -1,0 +1,839 @@
+---
+title: The Occupational Pension Schemes (Winding up, etc. ) Regulations (Northern Ireland) 2005
+id: nisr/2005/171
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-03-25'
+text_date: '2022-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/171
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/171/pdfs/nisr_20050171_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/171/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Winding up, etc. ) Regulations (Northern Ireland) 2005
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2022-08-01. See https://www.legislation.gov.uk/changes/affected/nisr/2005/171
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 171
+
+PENSIONS
+
+The Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005
+
+Made
+
+25th March 2005
+
+Coming into operation in accordance with regulation 1(2)
+
+The Department for Social Development, in exercise of the powers conferred upon it by sections 5, 21(2), 93(1), (2)(b) and (3), 97I, 97L, 109 and 178(3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 49(2)(b), 56(3), 57(1) and (5), 68(2)(e), 73(2)(b), (6), (7) and (9), 73A(7), (8)(a) and (b) and (10), 73B(4), (5) and (8), 74(2) and (3)(e), 76(2), 89(5)(c), 115(1)(a) and (b), 116, 121(8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and Articles 27 and 73(4) of, and paragraph 8(1) of Schedule 5 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and application[^key-14e20a87c0d79b33459755190862271f]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005.
+
+(2) These Regulations shall come into operation on 6th April 2005 except for paragraph 4 of the Schedule which shall come into operation on 6th April 2006.
+
+(3) Regulations 3 to 13 do not apply in the case of any scheme which –
+
+- (a) was regarded by virtue of regulation 2 of the Winding Up Regulations as having begun to be wound up before 6th April 2005 for the purposes of those Regulations; or
+- (b) in accordance with Article 121(4) to (8) of the 1995 Order began to wind up before that date.
+
+## 2. Interpretation[^key-a704a006a2fac8f4ab1d62267d63a7e3][^key-42d7d9260cdcaba6691ed673ed18fa7b]
+
+(1) In these Regulations –
+
+- “the 1995 Order” means the Pensions (Northern Ireland) Order 1995;
+- “the 1999 Order” means the Welfare Reform and Pensions (Northern Ireland) Order1999;
+- “the 2005 Order” means the Pensions (Northern Ireland) Order 2005[^f00005];
+- “assessment period” has the meaning given by Article 116 of the 2005 Order (assessment periods);
+- “the tax condition”, in relation to a scheme, means –
+  - (a) that the scheme has been approved by the Commissioners of Inland Revenue for the purposes of section 590[^f00006] or 591[^f00007] of the Taxes Act 1988 (conditions for approval of retirement benefit schemes or discretionary approval) at any time before 6th April 2006; or
+  - (b) that the scheme is registered under section 153 of the Finance Act 2004[^f00008] (registration of pension schemes);
+- “the Winding Up Regulations” means the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00009].
+
+In these Regulations “scheme” must be read in appropriate cases in accordance with the modifications of Articles 73 to 74 of the 1995 Order made by regulation 13 (multi-employer sectionalised schemes, schemes with partial government guarantee and partly foreign schemes) and “employer” and “member” must be read accordingly.
+
+Subject to paragraphs (1) and (2) and regulation 12 (commencement of winding up), expressions used in these Regulations have the same meaning as in Article 121 of the 1995 Order.
+
+The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## Winding up
+
+### 3. Schemes to which Article 73 of the 1995 Order does not apply[^key-0a9be619486b6fb03bde8c3b8cb95b4e]
+
+(1) Article 73 of the 1995 Order (preferential liabilities on winding up) does not apply to any scheme which is –
+
+- (a) a public service pension scheme under the provisions of which there is no requirement for assets related to the intended rate or amount of benefit under the scheme to be set aside in advance (disregarding requirements relating to voluntary contributions);
+- (b) a scheme which is made under Article 9 of the Superannuation (Northern Ireland) Order 1972[^f00011] (superannuation of persons employed in local government service, etc.) which provides pensions to persons mentioned in paragraph (1)(a) of that Article;
+- (c) a scheme which is established under section 48 of the Northern Ireland Act 1998[^f00012] (pensions of members), or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00013] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00014];
+- (d) a scheme in respect of which a relevant public authority, as defined in Article 280(4) of the 2005 Order, has given a guarantee or made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet its liabilities;
+- (e) a scheme which does not meet the tax condition;
+- (f) a scheme which –
+  - (i) has been categorised by the Commissioners of Inland Revenue for the purposes of its approval as a centralised scheme for non-associated employers,
+  - (ii) which was not contracted-out at any time before the second abolition date[^key-1a9001ef946844fd7eae906e8af18333] , and
+  - (iii) under the provisions of which the only benefits that may be provided on or after retirement (other than money purchase benefits derived from the payment of voluntary contributions by any person) are lump sum benefits which are not calculated by reference to a member’s salary;
+- (g) a scheme –
+  - (i) the only benefits provided by which (other than money purchase benefits) are death benefits, and
+  - (ii) under the provisions of which no member has accrued rights (other than rights to money purchase benefits);
+- (h)[^key-2b4981422448fee82ef0ca1fccff6b9a] a scheme—
+  - (i) which has such a superannuation fund as is mentioned in section 615(6) of the Taxes Act 1988 (exemption from tax in respect of certain pensions), and
+  - (ii)[^key-45d507d5d079eb579361603670ff6241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) a scheme with fewer than two members;
+- (j) a scheme with fewer than twelve members where all the members are trustees of the scheme and either –
+  - (i)[^key-40fc085da023fdcf26408b037db73747] the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme, or
+  - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order[^f00016] (power to appoint independent trustees) (see paragraph (3) of that Article) and is registered in the register maintained by the Authority in accordance with regulations under paragraph (4) of that Article;
+- (k) a scheme with fewer than twelve members where all the members are directors of a company which is the sole trustee of the scheme and either –
+  - (i)[^key-8f3bc8817fa96032e2b1816f1a84bfe4] the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors who are members of the scheme; or
+  - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Authority in accordance with regulations made under paragraph (4) of that Article;
+- (l)[^key-7d10e110fc9aa8080da8d8b4223d7ea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-4a4698e11f9484e3a88cce752e92a6da] Article 73 of the 1995 Order does not apply to a section of a scheme that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (collective money purchase benefits: Northern Ireland).
+
+(2) Before 6th April 2006 sub-paragraph (e) of paragraph (1) applies as if at the end there were added “and is not a relevant statutory scheme providing relevant benefits”; and for the purposes of that sub-paragraph “relevant statutory scheme” and “relevant benefits”[^f00018] have the same meaning as in Chapter 1 of Part 14 of the Taxes Act 1988 (see sections 611A and 612(1) of that Act[^f00019]).
+
+(3)[^key-24e07149130ac51a1dda9ebef0746fed] In this regulation—
+
+- “contracted-out” is to be construed in accordance with section 3B(2) of the Pension Schemes Act;
+- “the second abolition date” has the meaning given in section 176(1) of the Pension Schemes Act.
+
+### 4. Corresponding PPF liability: modifications of the pension compensation provisions, etc.[^key-7d86ba9a92934a8719364e8291faa789]
+
+(1) For the purposes of Article 73 of the 1995 Order, when determining the corresponding PPF liability in relation to any liability of a scheme to or in respect of a member for pensions or other benefits, the pension compensation provisions apply as if –
+
+- (a) those provisions applied to all schemes to which Article 73 of the 1995 Order applies and any reference in the pension compensation provisions to members, employers or any other expression the construction of which is dependent on the meaning of “scheme” were to be read accordingly (but subject to the following provisions of this regulation);
+- (b) Articles 124 to 126, 148 and 152(2)(a) and (c) to (f) of the 2005 Order were omitted;
+- (c) Schedule 6 to that Order (pension compensation provisions) applied –
+  - (i) with the substitution for the references in paragraphs 5(4A), 15(5A) and 19(5A)[^f00020] to the Board of references to the trustees or managers of the scheme,
+  - (ii) with the substitution for the references in paragraphs 20(1)(a) and 32(1)(a) to the commencement of the assessment period of references to the commencement of the winding up period,
+  - (iii) with the substitution for the reference in paragraph 35(4) to the time immediately before the assessment period which begins on the assessment date of a reference to the time immediately before the winding up period begins,
+  - (iv) with the addition at the end of paragraph 35(5) of and in this sub-paragraph as it applies for the purposes of Article 73(4)(b) of the 1995 Order, “the employer” includes both any person included by virtue of regulation 4(1)(a) of the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005 and any person who is the employer apart from by virtue of that regulation”,
+  - (v) with the substitution for other references to the assessment date of references to the winding up date, and
+  - (vi) with the omissions specified in paragraph (2);
+- (d) no determination might be made under paragraph 29 of Schedule 6 (Board’s powers to alter rates of revaluation and indexation) after the time as at which the corresponding PPF liability is determined for the purposes of Article 73 of the 1995 Order;
+- (e) no order might be made under paragraph 30 of that Schedule (Department’s powers to vary percentage paid as compensation) after that time;
+- (f) the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^f00021] applied with the modifications specified in paragraph (3); and
+- (g) (so far as they are included in the pension compensation provisions) the Pension Protection Fund (Hybrid Schemes) (Modification) Regulations (Northern Ireland) 2005[^f00022] applied with the substitution for the reference in regulation 3(2) of those Regulations to the assessment date of a reference to the winding up date.
+
+(2) The omissions are –
+
+- (a) paragraphs 2, 20(4), 23A[^f00023], 24, 25, 27 and 31A[^f00024] and all references to those paragraphs;
+- (b) in paragraph 26 –
+  - (i) in sub-paragraphs (2)(b)(i), (6B)(a)[^f00025] and (9)(a) and (b) the words “or a connected occupational pension scheme”,
+  - (ii) in sub-paragraph (6B)(b) the words “or a relevant connected occupational pension scheme”, and
+  - (iii) the words following sub-paragraph (6B)(b).
+
+(3) The modifications are –
+
+- (a) in regulation 4 (compensation for surviving dependants) –
+  - (i) in paragraph (2) the words following “otherwise)” shall be omitted, and
+  - (ii) for paragraph (3) there shall be substituted the following paragraph –
+
+    > (3) In the case of a surviving dependant the circumstances are where the admissible rules of the scheme provide for the payment of pension or other benefits to that person.
+
+    ;
+- (b) for references in regulations 5, 6, 9, 10(1), 11(1), 12(1) and 13 to the assessment date, wherever they occur, there shall be substituted references to the winding up date; and
+- (c) regulation 14 (modification of admissible rules) shall be omitted.
+
+(4) In this regulation –
+
+- “corresponding PPF liability” has the meaning given in Article 73(5) of the 1995 Order;
+- “the pension compensation provisions” has the same meaning as in Part III of the 2005 Order (see Article 146 of that Order);
+- “the winding up date” means the date on which the winding up period began or, if the crystallisation date for the scheme for the purposes of regulation 4 of the Winding Up Regulations (calculation of amounts of liabilities) is an earlier date, that date.
+
+(5) In the case of any scheme in relation to which there is no assessment period during the winding up period, Article 73(4)(b) of the 1995 Order applies as if the words from “to the extent” to “the corresponding PPF liability” were omitted.
+
+### 5. Early leaver’s rights: deemed election for contribution refund[^key-30a14abc0a846755d2e830560d63cc32]
+
+Where, on the commencement of the winding up period, a member becomes a person to whom Chapter 5 of Part IV of the Pension Schemes Act[^f00026] (early leavers: cash transfer sums and contribution refunds) applies, that Chapter applies as if –
+
+- (a) he had elected on the day on which that period begins for a contribution refund;
+- (b) had accordingly acquired a right to such a refund (and not a right to a cash transfer sum) under section 97AB of that Act; and
+- (c) all steps required to be taken under that Chapter preliminary to that election had been taken.
+
+### 6. Adjustments to discretionary awards[^key-aeda66957c48d6528dd4305e1e4731dc]
+
+(1) For the purposes of Article 73A of the 1995 Order[^f00027] (operation of scheme during winding up period) and this regulation, “discretionary award”, in relation to an occupational pension scheme, means an award of a pension or other benefit under the scheme where either –
+
+- (a) entitlement to the award arises as a result of the exercise of a discretion conferred by the scheme rules that may be exercised in circumstances specified in those rules; or
+- (b) the amount awarded depends on the exercise of such a discretion.
+
+(2) Where Article 73A of the 1995 Order applies, the circumstances in which trustees or managers of the scheme are required to adjust any such entitlement as is referred to in Article 73A(7)(a) are where –
+
+- (a) the entitlement to a pension or other benefit is –
+  - (i) the entitlement of a member, or
+  - (ii) the entitlement to a pension or other benefit in respect of a member other than a member who dies during the winding up period; and
+- (b) it appears to the trustees or managers that as a result of –
+  - (i) the discretionary award in question,
+  - (ii) that award and any other awards under the scheme rules to which Article 73A(7)(a) applies, or
+  - (iii) all the awards under the scheme rules to which that Article applies and any entitlements in respect of the member to which Article 73A(7)(b) applies (“survivor entitlements”),
+
+  the total amount of the liability for pensions and other benefits in respect of the member is greater than it was immediately before the commencement of the winding up period.
+
+(3) In those circumstances, the trustees or managers are required to adjust the entitlement –
+
+- (a) to the discretionary award,
+- (b) to that award and the other awards mentioned in paragraph (2)(b)(ii); or
+- (c) to the awards and entitlements mentioned in paragraph (2)(b)(iii),
+
+in such manner as they think fit so that the total amount of that liability does not exceed its amount immediately before the commencement of the winding up period.
+
+(4) If –
+
+- (a) the commencement of the winding up of the scheme is backdated (whether in accordance with Article 138 of 2005 Order or otherwise); and
+- (b) the requirement under paragraph (3) to adjust any entitlement arises as a result of that backdating,
+
+the adjustment must be made with effect from the time the award takes effect.
+
+(5) Where a discretionary award takes effect during a period that is a winding up period or an assessment period in relation to a scheme, the trustees or managers of the scheme must give the person to whom the award is made notice in writing not later than one month after the date on which the award is made –
+
+- (a) that the award may be adjusted by virtue of this regulation; or
+- (b) where the award takes effect before the scheme has begun to be wound up, that it may be so adjusted if the scheme begins to be wound up and the commencement of the winding up is backdated.
+
+(6) Such a notice may be given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents)[^key-1412d380236af75587c7e4765bf5186e] and, if the person to whom it is given is not in employment to which the scheme relates, is to be treated as having been given if it is sent to him by post to his last address known to the trustees or managers.
+
+### 7. Adjustments to survivors' benefits[^key-fd9f06bbc1b2a33ce2b2e5ab67415bb7]
+
+(1) Where Article 73A of the 1995 Order applies, the circumstances in which trustees or managers of the scheme are required to adjust any such entitlement as is referred to in Article 73A(7)(b) are where –
+
+- (a) it appears to the trustees or managers that as a result of –
+  - (i) the entitlement in question having arisen, or
+  - (ii) that entitlement and any other entitlements under the scheme rules to which Article 73A(7)(b) applies having arisen,
+
+  the amount of the total liability for pensions and other benefits in respect of the member is greater than it was immediately before the commencement of the winding up period; or
+- (b) regulation 6(3) requires the trustees or managers to adjust the entitlement.
+
+(2) In the circumstances mentioned in paragraph (1)(a), the trustees or managers are required to adjust the entitlement or entitlements in such manner as they think fit so that the total amount of the liability for pensions and other benefits in respect of the member does not exceed its amount immediately before the commencement of the winding up period.
+
+(3) See regulation 6(3) for the manner in which the trustees or managers are required to adjust the entitlement or entitlements where that regulation applies.
+
+(4) If –
+
+- (a) the commencement of the winding up of the scheme is backdated (whether in accordance with Article 138 of the 2005 Order or otherwise); and
+- (b) the requirement under paragraph (2) to adjust any entitlement arises as a result of that backdating,
+
+the adjustment must be made with effect from the time the award takes effect.
+
+(5) Where any such entitlement of a person as is referred to in Article 73A(7)(b) of the 1995 Order arises during a period that is a winding up period or an assessment period in relation to a scheme, the trustees or managers of the scheme must give the person notice in writing not later than one month after the date on which it arises –
+
+- (a) that it may be adjusted by virtue of this regulation; or
+- (b) where the entitlement arises before the scheme has begun to be wound up, that it may be so adjusted if the scheme begins to be wound up and the commencement of the winding up is backdated.
+
+(6) Such a notice may be given in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).[^key-09623d94cc1108922e1f1e5d0580f50b] and is to be treated as having been given to the person if it is sent to him by post to his last address known to the trustees or managers.
+
+### 8. Entitlement to death benefits treated as arising before commencement of winding up period[^key-6cc8ceb261e0ca6e4b3f6f61d6c9078d]
+
+(1) This regulation applies where –
+
+- (a) an occupational pension scheme to which Article 73 of the 1995 Order applies is being wound up;
+- (b) a member of the scheme died before the winding up began;
+- (c) during the winding up period a person (“the beneficiary”) becomes entitled under the scheme rules to one or more benefits within paragraph (2) in respect of the member; and
+- (d) the beneficiary could have become so entitled before the winding up period began had the trustees or managers of the scheme taken any action earlier.
+
+(2) The benefits are –
+
+- (a) a pension of a kind permitted by the pension death benefit rules set out in section 167 of the Finance Act 2004; and
+- (b) a lump sum of a kind permitted by the lump sum death benefit rule set out in section 168 of that Act.
+
+(3) For the purposes of Article 73B(6)(a) of the 1995 Order[^f00028] (liabilities to which the winding up provisions do not apply) –
+
+- (a) the beneficiary’s entitlement to payment of so much of the pension (if any) as is attributable to the period between the member’s death and the commencement of the winding up period; and
+- (b) the beneficiary’s entitlement to payment of the lump sum,
+
+are to be treated as having arisen immediately before the commencement of the winding up period.
+
+(4) In the case of a scheme which begins to be wound up before 6th April 2006, this regulation has effect as if the benefits referred to in paragraph (2) were –
+
+- (a) a pension payable to the deceased member’s ormer spouse, former civil partner[^key-556a2d6c4962581d8e68211cacf23134] or dependant; and
+- (b) a lump sum calculated by reference to the member’s remuneration.
+
+### 9. Calculation of the value or amount of scheme assets and liabilities[^key-5e6e3d93b678891a5281ff7f871e29ae]
+
+For regulation 4 of the Winding Up Regulations[^f00029] (calculation of amounts of liabilities) there shall be substituted the following regulation –
+
+> **4. Calculation of the value or amount of scheme assets and liabilities**
+>
+> (1) The liabilities of a scheme to which Article 73 applies and their amount or value must be determined, calculated and verified by the actuary of the scheme –
+>
+> - (a) on the assumption that any questions relating to any person’s entitlement to a pension or other benefit are to be determined as at the crystallisation date;
+> - (b) on the assumption that liabilities in respect of pensions or other benefits will be discharged by the purchase of annuities of the kind described in Article 74(3)(c)[^f00030] (discharge of liabilities: annuity purchase) and include the expenses involved in discharging them;
+> - (c) subject to sub-paragraph (b) and paragraph (4), on the general assumptions specified in regulations 7(2), (3) and (7) to (10) and 8(2) of the MFR Regulations[^f00031] (determination and valuation of liabilities and further provisions as to valuation: methodology, assumptions, etc.) so far as they relate to the calculation and verification of liabilities; and
+> - (d) otherwise in accordance with the guidance given in GN 19[^f00032], so far as that guidance applies for the purposes of these Regulations.
+>
+> (2) For the purpose of paragraph (1)(b) the actuary must estimate the cost of purchasing the annuities.
+>
+> (3) A calculation of the value or amount of the liabilities of a scheme for the purposes of Article 73 must be accompanied by a statement that it is in accordance with the guidance mentioned in paragraph (1)(d).
+>
+> (4) For the purposes of this regulation, regulations 7 and 8 of the MFR Regulations shall be modified as follows –
+>
+> - (a) references in regulations 7(3), (7) and (8) and 8(2) of the MFR Regulations to the relevant date shall be to be taken as references to the date as at which the calculation is made (being a date not earlier than the crystallisation date or the commencement of winding up, if later);
+> - (b) in regulation 7(3) the words “subject to paragraphs (4) and (5)” shall be omitted; and
+> - (c) in regulation 8(2)(a) head (i) shall be omitted.
+>
+> (5) Paragraph (6) applies if, when the assets of the scheme are applied in accordance with Article 73(3) towards satisfying any liability of the scheme mentioned in Article 73(4), that liability, as calculated in accordance with the rules of the scheme (without any reduction by reason of its falling within a class of liability which is to be satisfied after another class), is in the opinion of the actuary fully satisfied by applying assets of a value less than the amount of that liability calculated in accordance with paragraph (1).
+>
+> (6) If this paragraph applies the amount to be taken as the amount of that liability for the purposes of Article 73(3) is to be reduced accordingly.
+>
+> (7) Paragraph (8) applies if, when the assets of the scheme are so applied, the liabilities mentioned in Article 73(3), as calculated in accordance with the rules of the scheme (without any reduction by reason of their falling within a class of liability which is to be satisfied after another class), cannot in the opinion of the actuary be fully satisfied by applying assets of a value equal to the amount of those liabilities calculated in accordance with paragraph (1).
+>
+> (8) If this paragraph applies the amount to be taken as the amount of those liabilities for the purposes of Article 73(3) is to be increased accordingly.
+>
+> (9) If Article 73 does not apply to any liability by virtue of –
+>
+> - (a) Article 73B(6)(d) (which provides that the winding up provisions do not apply to liabilities the discharge of which is validated under Article 120 of the Pensions (Northern Ireland) Order 2005); or
+> - (b) regulation 10(2) of the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005 (which makes similar provision as respects liabilities discharged by virtue of regulations under Article 119(4) of that Order),
+>
+> the value of any corresponding assets is to be deducted from the value of the assets of the scheme for the purposes of Article 73.
+>
+> (10) For the purposes of paragraph (9), “the value of any corresponding assets” means –
+>
+> - (a) in a case where assets of the scheme at the crystallisation date are transferred from the scheme in consideration for the discharge, the value of those assets at that date, and
+> - (b) in a case where assets that are not assets of the scheme at that date are so transferred, the value of those assets at the date of the discharge.
+>
+> (11) Subject to paragraph (12), in this regulation “the crystallisation date” means –
+>
+> - (a) in the case of a scheme where –
+>   - (i) the trustees or managers determined (whether in pursuance of Article 38[^f00033] (power to defer winding up) or otherwise) that the scheme was not for the time being to be wound up, despite rules otherwise requiring it to be so,
+>   - (ii) the time when the sub-paragraph of Article 73(4) into which the liability in respect of any person falls is determined is fixed under the provisions of the scheme, and
+>   - (iii) that time falls on or after the date of the determination mentioned in head (i) and before the date on which the scheme begins to be wound up,
+>
+>   the date when that time occurs; and
+> - (b) otherwise, the date on which the scheme begins to be wound up.
+>
+> (12) Where the trustees or managers of a scheme –
+>
+> - (a) determined before 6th April 1997 that the scheme was not for the time being to be wound up, despite rules otherwise requiring it to be so; and
+> - (b) before that date determined a time (being a time before 6th April 1997) when the amounts or descriptions of liabilities of the scheme were to be determined for the purposes of any rule of the scheme requiring the assets of the scheme to be applied on winding up in satisfying the amounts of certain liabilities to or in respect of members before other such liabilities,
+>
+> the date when that time occurs is the crystallisation date.
+
+.
+
+### 10. Discharge of liabilities during assessment period[^key-5cd2c042dafc622393b1cdc9839eea81]
+
+(1) This regulation applies in any case where any liability of a scheme in respect of a member has been discharged by virtue of regulations under Article 119(4) of the 2005 Order (power to make regulations permitting discharge of scheme’s liabilities during an assessment period).
+
+(2) Articles 73 to 73B of the 1995 Order (except Article 73B(4)(b)(iii)) apply as if references to liabilities did not include the discharged liability.
+
+(3) Article 74(2) and (4) of the 1995 Order[^f00034] applies as if the trustees or managers of the scheme had –
+
+- (a) in accordance with arrangements prescribed under Article 74(2) of that Order, provided for the discharge of the discharged liability in one or more of the ways mentioned in Article 74(3) of that Order; and
+- (b) applied any amount available to them in accordance with Article 73 of that Order in one or more of those ways.
+
+### 11. Requirements to be met where liabilities discharged on winding up[^key-d7efbb7ab71df73d30f4afce6061f217]
+
+In regulation 8 of the Winding Up Regulations (requirements to be satisfied by transferee schemes, annuities, etc.) after paragraph (5) there shall be added –
+
+> (6) For the purposes of Article 74(3)(e)[^f00035] (liabilities treated as discharged where the trustees have provided for them to be discharged by the payment of a cash sum in circumstances where prescribed requirements are met), the prescribed circumstances are –
+>
+> - (a) where the payment is a contribution refund under Chapter 5 of Part IV of the Act (early leavers: cash transfer sums and contribution refunds); or
+> - (b) where the payment –
+>   - (i) is made to a member who has a right under the scheme rules to the payment of a lump sum that is a trivial commutation lump sum or a winding up lump sum for the purposes of Part 1 of Schedule 29 to the Finance Act 2004 (see paragraphs 7 to 10 of that Schedule (registered pension schemes: authorised lump sums: trivial commutation lump sum and winding up lump sum)), and
+>   - (ii) does not contravene any trivial commutation restriction that applies in the circumstances in question.
+>
+> (7) In this regulation “trivial commutation restriction” means a restriction imposed by –
+>
+> - (a) regulation 19, 20 or 60 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00036] (lump sum benefits and salary related contracted-out schemes, trivial commutation of benefits derived from section 5(2B) rights and trivial commutation of guaranteed minimum pensions);
+> - (b) regulation 2 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00037] (commutation of a pension under an occupational pension scheme); or
+> - (c) regulation 3(2)(b) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00038] (commutation of the whole of pension credit benefit).
+>
+> (8) Before 6th April 2006 this regulation applies with the modification in paragraph (9).
+>
+> (9) For paragraph (6)(b)(i) substitute –
+>
+> > - (i) extinguishes the whole or part of the person’s entitlement to benefits under the scheme;
+> > - (ia) does not contravene Revenue restrictions; and
+>
+> .
+>
+> (10) For the purposes of this regulation a payment does not contravene Revenue restrictions if –
+>
+> - (a) in the case of a scheme that is an approved scheme for the purposes of Chapter 1 of Part 14 of the Taxes Act 1988 (see section 612(1) of that Act), it is permitted under the scheme rules in accordance with its approval for those purposes; and
+> - (b) in the case of a scheme that is a relevant statutory scheme for those purposes (see section 611A of that Act), it is permitted under the regulations or rules governing the scheme as such a scheme.
+
+.
+
+### 12. Commencement of winding up[^key-41755cb21a61b180a9f9ef8e206c6aa1]
+
+(1) Regulation 11 of the Occupational Pension Schemes (Winding Up Notices and Reports etc.) Regulations (Northern Ireland) 2002[^f00039] (time when winding up taken to begin) does not apply in any case where in accordance with Article 121(4) to (8) of the 1995 Order a scheme begins to wind up on or after 6th April 2005.
+
+(2) Accordingly, in such a case –
+
+- (a) that Article applies for the purpose of determining the time when that scheme winds up for the purposes of –
+  - (i) Articles 73 to 74 of the 1995 Order,
+  - (ii) these Regulations, and
+  - (iii) the Winding Up Regulations; and
+- (b) regulation 2 of those Regulations does not apply.
+
+(3) If immediately before 6th April 2005 a scheme was regarded as having begun to be wound up for any purpose by virtue of regulation 2 of the Winding Up Regulations (commencement of winding up), paragraphs (1) and (2) do not affect the time when it is to be taken as having begun to be wound up for that purpose.
+
+### 13. Multi-employer sectionalised schemes, schemes with partial government guarantee and partly foreign schemes[^key-f4d89bf8b033719d6a4b2cd8c38b8611]
+
+In any case where, by virtue of regulation 12, 12A or 12B of the Winding Up Regulations[^f00040] (winding up of sectionalised schemes, schemes with partial government guarantee and partly foreign schemes), Articles 73 to 74 of the 1995 Order apply to a scheme as if different parts of the scheme were separate schemes, these Regulations (apart from this regulation) also so apply.
+
+### 14. Consequential amendments[^key-1f045ca0498926ef63d9830a7535f2b7]
+
+The Winding Up Regulations have effect with the amendments specified in Part 1 of the Schedule, and the Regulations specified in Part 2 of the Schedule have effect with the amendments specified in that Part.
+
+## Transfer values
+
+### 15. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-afef59b6f038385c79cb68192b0a4891]
+
+(1) The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland)1996[^f00041] shall be amended in accordance with paragraphs (2) to (8).
+
+(2)[^key-c1753d1b80348e91c062f644ee187af7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-c1753d1b80348e91c062f644ee187af7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-c1753d1b80348e91c062f644ee187af7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-c1753d1b80348e91c062f644ee187af7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-c1753d1b80348e91c062f644ee187af7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In regulation 9(3) (increases and reductions of guaranteed cash equivalents) for “Article 73 and regulations made under that Article” there shall be substituted “the winding up provisions (as defined in Article 73B(10)(a)) and regulations made under those provisions”.
+
+(8) In regulation 9(4) for “under Article 73, that Article applies” there shall be substituted “under Article 73B(4)(b)(i) by virtue of Article 73B(5), the winding up provisions (as so defined) apply”.
+
+(9)[^key-447fd4997a622cce0a5eb1e0b11fe70f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-447fd4997a622cce0a5eb1e0b11fe70f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) Paragraphs (5) to (8) only apply where the scheme begins to be wound up on or after 6th April 2005.
+
+## Pension sharing
+
+### 16. Amendment of the Pension Sharing (Valuation) Regulations[^key-29ae36acd1738307d4c9d86591cc4967]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-3c8c16ffb37a996e419eb48f54d00820]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-ee587f0996c3c32132aa7e60b4e4fc75]
+
+(1) The Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00052] shall be amended in accordance with paragraphs (2) to (11).
+
+(2)[^key-d246eb3a7470dd36bf99069521f6f1cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 15(4) (further conditions on which liability may be discharged) for sub-paragraph (b) there shall be substituted the following sub-paragraph –
+
+> - (b) the winding up provisions (as defined in Article 73B(10)(a)) and regulations made under those provisions do not apply;
+
+.
+
+(4)[^key-0eb021e852df02c7ebb4bfc824b8eed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-0eb021e852df02c7ebb4bfc824b8eed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-0eb021e852df02c7ebb4bfc824b8eed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-0eb021e852df02c7ebb4bfc824b8eed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-0eb021e852df02c7ebb4bfc824b8eed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-0eb021e852df02c7ebb4bfc824b8eed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In regulation 28(3) (increases and reductions of cash equivalents once the statement of entitlement has been sent to the eligible member) for “Articles 73 and 74 and the Winding Up Regulations” there shall be substituted “the winding up provisions (as defined in regulation 27(13)) and regulations made under those provisions”.
+
+(11) In regulation 28(4) for “the Winding Up Regulations, Article 73 applies” there shall be substituted “regulations made under Article 73B(4)(b)(i) by virtue of Article 73B(5), the winding up provisions (as so defined) apply”.
+
+(12) This regulation only applies if the relevant proceedings commenced on or after 6th April 2005 and the scheme has not begun to be wound up before that date.
+
+(13) In paragraph (12) “the relevant proceedings” means the proceedings for the dissolution or annulment of marriage in connection with which the order or provision mentioned in Article 25(1) of the 1999 Order that resulted in entitlement to the pension credit in question was made.
+
+Sealed with the Official Seal of the Department for Social Development on 25th March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Regulation 14
+
+### PART 1
+
+#### 1. Amendment of the Winding Up Regulations[^key-841afaa00401fedc963a484101e78b0e]
+
+In regulation 2 (commencement of winding up) for paragraph (1) there shall be substituted the following paragraph –
+
+> (1) The time when a scheme begins to be wound up shall be determined for the purposes of these Regulations in accordance with this regulation –
+>
+> - (a) if, in accordance with Article 121(4) to (8), the scheme began to wind up before 6th April 2005; or
+> - (b) if immediately before that date the scheme was treated by virtue of this regulation as having begun to be wound up for those purposes.
+>
+> (1A) See Article 121(4) to (8) for the time when a scheme begins to wind up in any other case.
+
+.
+
+**2.**[^key-3cd32a73fe975dab864a81fa3937baab] In regulation 3 (modification of Article 73) –
+
+- (a) in the heading at the end there shall be added “for schemes beginning to be wound up before 6th April 2005”;
+- (b) in paragraph (1) after “Article 73(3) applies” there shall be inserted “if the scheme begins to be wound up before 6th April 2005”;
+- (c) in paragraph (1)(b)[^f00054] the words “and before the expiry of the transitional period” shall be omitted;
+- (d) paragraphs (1)(c), (2) and (7)[^f00055] shall be omitted;
+- (e) in paragraph (8), as it applies where regulation 3(d) of the Occupational Pension Schemes (Winding Up) (Amendment) Regulations (Northern Ireland) 2004[^f00056] does not apply, the words “and 8(4)” shall be omitted; and
+- (f) after paragraph (8) there shall be added the following paragraph –
+
+  > (9) Paragraph (8) does not apply where regulation 7(3)(b)(iv) of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996 applies as amended by regulation 15 of the Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005.
+
+  .
+
+**3.**[^key-03296a54011a64695c16b7df8071a836] In regulation 5(1) (modification of schemes to fix time for settling priority of liabilities on winding up), as it applies to schemes beginning to be wound up on or after 6th April 2005 –
+
+- (a) for “Article 73(3)” there shall be substituted “Article 73(4)”; and
+- (b) for “Article 73(2) and (3)” there shall be substituted “Article 73(3) and (4)”.
+
+**4.**[^key-9fa9ffeffb92d81f892640d625593b56] In regulation 7(8) (requirements applicable to notices of discharge under regulation 6) in the definition of “scheme administrator” for “section 630(1) of the Taxes Act 1988” there shall be substituted “section 270 of the Finance Act 2004”.
+
+**5.**[^key-a6861a6c352006953ff7acbb99ead479] In regulation 11(1)(b) (records and information), as it applies to schemes beginning to be wound up on or after 6th April 2005, for “Article 73(3)” there shall be substituted “Article 73(4)”.
+
+**6.**[^key-3a836854b437a761063039b41bfdce91] In regulation 12 (winding up of sectionalised schemes, etc.), as it applies to schemes beginning to be wound up on or after 6th April 2005, for paragraph (1)[^f00057] there shall be substituted the following paragraph –
+
+> (1) Where –
+>
+> - (a) a scheme in relation to which there is more than one employer is divided into two or more sections; and
+> - (b) the provisions of the scheme are such that they meet conditions A and B,
+>
+> Articles 73 to 74 apply as if each section of the scheme were a separate scheme.
+>
+> (1A) Condition A is that contributions payable to the scheme by an employer, or by a member in employment under that employer, are allocated to that employer’s section (or, if more than one section applies to the employer, to the section which is appropriate in respect of the employment in question).
+>
+> (1B) Condition B is that a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section.
+>
+> (1C) In their application to a scheme –
+>
+> - (a) which has been such a scheme as is mentioned in paragraph (1),
+> - (b) which is divided into two or more sections, some or all of which apply only to members who are not in pensionable service under the section;
+> - (c) the provisions of which have not been amended so as to prevent conditions A and B being met in relation to two or more sections; and
+> - (d) in relation to one or more sections of which those conditions have ceased to be met at any time by reason only of there being no members in pensionable service under the section and no contributions which are to be allocated to it,
+>
+> Articles 73 to 74 apply as if the section in relation to which those conditions have ceased to be met were a separate scheme.
+>
+> (1D) For the purposes of paragraphs (1) to (1C), any provisions of the scheme by virtue of which contributions or transfers of assets may be made to make provision for death benefits are disregarded.
+>
+> (1E) Where paragraph (1) or (1C) applies and, by virtue of any provisions of the scheme, contributions or transfers of assets to make provision for death benefits are made to a section (“the death benefits section”) the assets of which may only be applied for the provision of death benefits, the death benefits section is also to be treated as a separate scheme.
+>
+> (1F) For the purpose of this regulation, any provisions of a scheme by virtue of which assets attributable to one section may on the winding up of the scheme or a section be used for the purposes of another section are disregarded.
+
+.
+
+**7.**[^key-c3abef2982948610a855851060c29cbd] After regulation 12 there shall be inserted the following regulation –
+
+> **12A. Schemes with partial government guarantee**
+>
+> (1) This regulation applies if a relevant public authority has –
+>
+> - (a) given a guarantee in relation to any part of a scheme, any benefits payable under the scheme or any member of the scheme; or
+> - (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities.
+>
+> (2) Where this regulation applies, Articles 73 to 74 and the provisions of these Regulations (apart from this regulation) apply as if the guaranteed part of the scheme and the other part of the scheme were separate schemes.
+>
+> (3) In this regulation –
+>
+> - “the guaranteed part of the scheme” means the part of the scheme –
+>   - (a) in relation to which the guarantee has been given;
+>   - (b) which relates to benefits payable under the scheme in relation to which the guarantee has been given; or
+>   - (c) which relates to benefits payable under the scheme in relation to the liabilities for which those other arrangements have been made;
+> - “relevant public authority” has the meaning given in Article 280(4) of the Pensions (Northern Ireland) Order 2005 (modification of this Order in relation to certain categories of schemes).
+>
+> **12B. Schemes covering United Kingdom and foreign employment**
+>
+> (1) Paragraph (2) applies where a scheme which applies to members in employment in the United Kingdom and members in employment outside the United Kingdom is divided into two or more sections and the provisions of the scheme are such that –
+>
+> - (a) different sections of the scheme apply to members in employment in the United Kingdom (“the United Kingdom section”) and to members in employment outside the United Kingdom (“the foreign section”);
+> - (b) contributions payable to the scheme in respect of a member are allocated to the section applying to that member’s employment;
+> - (c) a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section; and
+> - (d) the United Kingdom section meets the tax condition (as defined in regulation 2(1) of the Occupational Pension Schemes (Winding Up, etc.) Regulations (Northern Ireland) 2005) and the foreign section does not do so.
+>
+> (2) If this paragraph applies Articles 73 to 74 and the provisions of these Regulations (apart from this regulation) apply as if each section of the scheme were a separate scheme.
+>
+> (3) Paragraph (4) applies where –
+>
+> - (a) a scheme applies to members in employment in the United Kingdom and members in employment outside the United Kingdom;
+> - (b) paragraph (2) does not apply to the scheme; and
+> - (c) part of the scheme is registered under section 153 of the Finance Act 2004 (registration of pension schemes) by virtue of that part having been treated as a separate scheme under section 611(3) of the Taxes Act 1988 that is treated as becoming a registered pension scheme under paragraph 1(1) of Schedule 36 to the Finance Act 2004 by virtue of paragraph 1(2) of that Schedule.
+>
+> (4) If this paragraph applies Articles 73 to 74 and the provisions of these Regulations (apart from this regulation) apply as if the approved and unapproved parts of the scheme were separate schemes.
+>
+> (5) In their application to a scheme –
+>
+> - (a) which has been such a scheme as is mentioned in paragraph (1) or (3);
+> - (b) which is divided into two or more sections, some or all of which apply only to members who are not in pensionable service under the section;
+> - (c) the provisions of which have not been amended so as to prevent the conditions in paragraph (1) or, as the case may be, paragraph (3) being met in relation to two or more sections; and
+> - (d) in relation to one or more sections of which those conditions have ceased to be met at any time by reason only of there being no members in pensionable service under the section and, in the case of paragraph (1), no contributions which are to be allocated to it,
+>
+> Articles 73 to 74 apply and the provisions of these Regulations (apart from this regulation) apply as if any section in relation to which those conditions have ceased to be met were a separate scheme.
+>
+> (6) Before 6th April 2006 paragraph (3) applies as if for sub-paragraph (c) there were substituted the following paragraph –
+>
+> > - (c) part of the scheme has been approved by the Commissioners of Inland Revenue for the purposes of section 590 or 591 of the Taxes Act 1988 by virtue of section 611(3) of that Act.
+>
+> .
+
+.
+
+### PART 2
+
+#### 8. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-3371f162b6e8526a1252936ce2fb7a3c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-830d3d378e666f850735e979591ce3ce]
+
+(1) The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00062] shall be amended in accordance with sub-paragraphs (2) and (3).
+
+(2) In regulation 7(1)(a) (determination and valuation of liabilities) for “Article 73(3)” there shall be substituted “Article 73(4)”.
+
+(3) In Schedule 1[^f00063] (minimum funding valuation statements) for “Article 73(3)”, in each place where it occurs, there shall be substituted “Article 73(4)”.
+
+#### 10. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-8f83d5254dcbf229c591c3e5b8d3cf62]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Amendment of the Occupational Pension Schemes (Payments to Employers) Regulations[^key-a0c5f958a4194bbd68943019fb8801c3]
+
+In regulation 15(3) of the Occupational Pension Schemes (Payments to Employers) Regulations (Northern Ireland) 1997[^f00065] (revocations and savings) for “any regulations made under Article 73” there shall be substituted “the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996 (see regulation 2 of those Regulations, as amended by paragraph 1 of Schedule 1 to, the Occupational Pension Schemes (Winding Up, etc.) Regulations (Northern Ireland) 2005, and also regulation 12 of those Regulations of 2005).”.
+
+#### 12. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-6ff7d60743f7bafb55327015b611b959]
+
+In regulation 2(3) of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00066] (commutation of a pension under an occupational pension scheme) for “regulation 2 of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996 (commencement of winding up) apply” there shall be substituted “Article 121(4) and (5) applies (but subject to Article 121(6) and (8))”.
+
+(This note is not part of the Regulations.)
+
+These Regulations are made as a consequence of provisions in the Pensions (Northern Ireland) Order 2005 (“the 2005 Order”) and relate to the winding up of occupational pension schemes. Regulations 3 to 13 and most of the amendments made by the other provisions do not apply in the case of schemes that have begun to wind up before 6th April 2005.
+
+Regulation 3 provides that Article 73 of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) does not apply to schemes that are excluded from being eligible schemes for the purposes of Part III of the 2005 Order. Before the amendments to Article 73 of the 1995 Order by the 2005 Order that Article applied only to schemes to which Article 56 of the 1995 Order (which relates to minimum funding) applied. This disapplication will have a similar effect.
+
+Regulation 4 modifies provisions relating to pension compensation so that when they apply for determining the corresponding PPF liability by reference to which the liabilities within Article 73(4)(b) of the 1995 Order are capped, they apply differently from the way in which they apply for determining compensation from the Pension Protection Fund.
+
+Regulation 5 provides that where a person’s pensionable service ceases when the scheme begins to be wound up, he is treated as having opted for a contribution refund under Chapter 5 of Part IV of the Pension Schemes (Northern Ireland) Act 1993 (“the 1993 Act”).
+
+Regulations 6 and 7 prescribe when trustees or managers of schemes are required to adjust entitlements to discretionary awards and to survivors' benefits when schemes are winding up. If winding up is backdated, affected adjustments must also take effect from the earlier date.
+
+Regulation 8 makes provision where a scheme to which Article 73 of the 1995 Order applies is being wound up, and after the winding up begins someone becomes entitled to payment of benefits in respect of the member. It excludes from the effects of the winding up provisions the liability for the benefits which would have been paid before the winding up began if they had been paid without delay on the member’s death.
+
+Regulation 9 substitutes regulation 4 of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996 (“the Winding Up Regulations”) which contains provisions about the calculation of the value or amount of scheme assets and liabilities.
+
+Regulation 10 modifies Articles 73 to 74 of the 1995 Order where liabilities of a scheme are discharged during an assessment period by virtue of regulations under Article 119(4) of the 2005 Order. (An assessment period is defined in Article 116 of that Order as the period beginning with an insolvency event occurring in relation to a scheme’s employer and ending with either the Board of the Pension Protection Fund assuming responsibility for the scheme or ceasing to be involved with it.) Regulation 10 ensures that Articles 73 to 73B of the 1995 Order do not apply to such discharged liabilities, but that they are treated as fully discharged under Article 74 of the 1995 Order.
+
+Regulation 11 prescribes the circumstances in which liabilities are treated as discharged under Article 74 of the 1995 Order where a scheme is winding up and the trustees have provided for the discharge by payment of a cash sum. The circumstances prescribed are where the payment is a contribution refund paid to an early leaver under Chapter 5 of Part IV of the 1993 Act or the payment of a trivial commutation lump sum or a winding up lump sum.
+
+Regulation 12 ensures that the rules in Article 121 of the 1995 Order will apply in future to determine when a scheme begins to be wound up, instead of the slightly different rules in regulation 2 of the Winding Up Regulations.
+
+Regulation 13 provides that the same rules apply for the purposes of these Regulations as apply for the Winding Up Regulations for treating as separate schemes sections of multi-employer schemes, the guaranteed and unguaranteed parts of partially government guaranteed schemes and sections of schemes that only apply to members in employment inside or, as the case may be, outside the United Kingdom.
+
+Regulation 14 introduces the Schedule, Part 1 of which amends the Winding Up Regulations, and Part 2 of which amends other Regulations. These amendments are consequential on the changes made by Article 247 of the 2005 Order, the provisions of these Regulations or the Finance Act 2004.
+
+Regulation 15 amends provisions in the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996 which relate to the valuation of the cash equivalent of a member’s benefits and the circumstances in which a scheme may reduce that cash equivalent. The amendments are made as a consequence of the need to amend references to provisions relating to winding up because of their amendment by the 2005 Order.
+
+Regulations 16 to 18 make amendments to the Pension Sharing (Valuation) Regulations (Northern Ireland) 2000, the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000 and the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000 corresponding to those made by regulation 15. These amendments affect the valuation of the pension rights of a party to a marriage that is dissolved or annulled for the purpose of transferring a part of their value to the other party as a pension credit, the valuation of a pension credit for the purposes of the scheme obliged to give effect to it as benefits under the scheme or wishing to discharge its liability for it, and the valuation of the pension credit where the person entitled to it wishes to have it transferred to another scheme.
+
+Article 247 of the 2005 Order, which amends some of the enabling provisions under which these Regulations are made, was brought into operation, for the purpose only of authorising the making of regulations, on 25th February 2005 and for all other purposes on 6th April 2005, by virtue of the Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)).
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 117(1) of the 1995 Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 5 is amended by Article 133(3) and (4) of, and paragraphs 14 and 17 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and paragraph 38 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)); section 21(2) was substituted by paragraph 26(b) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and amended by paragraph 43 of Schedule 1 to Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999; section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 and paragraph 5(1) of Schedule 5 to the Child Support, Pensions and Social Security (Northern Ireland) Act [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)); sections 97I and 97L were inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); section 109 was amended by section 48 of the Child Support, Pensions and Social Security (Northern Ireland) Act 2000 and section 178(3) was amended by paragraph 14 of Schedule 4 and Schedule 5 to the Pensions (Northern Ireland) Order 1995 and paragraph 31 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 73 is substituted and Articles 73A and 73B are inserted by Article 247 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); Article 74 was amended by paragraph 45 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and Article 60 of [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and is amended by Article 247(2) of the Pensions (Northern Ireland) Order 2005 and Article 121 was amended by paragraph 14 of Schedule 2 and paragraph 50 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and section 45(2) of, and paragraph 5(3) of Schedule 5 to, the Child Support, Pensions and Social Security (Northern Ireland) Act 2000
+
+[^f00003]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-14e20a87c0d79b33459755190862271f]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-a704a006a2fac8f4ab1d62267d63a7e3]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-42d7d9260cdcaba6691ed673ed18fa7b]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/171/regulation/2/1): reg. 2 renumbered as reg. 2(1) (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [24(a)](https://www.legislation.gov.uk/nisr/2016/158/article/24/a)
+
+[^f00005]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^f00006]: Footnote: Section 590 was amended by paragraph 18 of Schedule 3 to the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), paragraph 3 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26); (*see also* paragraph 18(2) and (3) of that Schedule), sections 34 and 36(2) and (3) of the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31) and paragraph 2 of Schedule 10 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16)
+
+[^f00007]: Footnote: Section 591 was amended by paragraph 6 of Schedule 13 to the Finance Act 1988; (*see also* paragraph 1 of that Schedule), section 107 of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), section 59(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4); (*see also* section 60(1) of that Act) and paragraph 3 of Schedule 10 to the Finance Act 1999; (*see also* paragraph 18(1) and (3) of that Schedule)
+
+[^f00008]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); at the time of coming into operation of these regulations section 153 has not yet been brought into force
+
+[^f00009]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486), [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64), [S.R. 2004 No. 187](https://www.legislation.gov.uk/nisr/2004/187) and [S.R. 2005 No. 20](https://www.legislation.gov.uk/nisr/2005/20)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-0a9be619486b6fb03bde8c3b8cb95b4e]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00011]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^f00012]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00013]: Footnote: [1965 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1965/18)
+
+[^f00014]: Footnote: [S.I. 1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
+
+[^key-1a9001ef946844fd7eae906e8af18333]: Textual amendment: Words in [reg. 3(1)(f)(ii)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1/f/ii) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [23(a)](https://www.legislation.gov.uk/nisr/2016/158/article/23/a)
+
+[^key-2b4981422448fee82ef0ca1fccff6b9a]: Textual amendment: [Reg. 3(1)(h)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1/h) substituted (30.3.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2006/65/regulation/7)
+
+[^key-45d507d5d079eb579361603670ff6241]: Textual amendment: [Reg. 3(1)(h)(ii)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1/h/ii) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-40fc085da023fdcf26408b037db73747]: Textual amendment: [Reg. 3(1)(j)(i)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1/j/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/nisr/2007/185/regulation/10/2/a)
+
+[^f00016]: Footnote: Article 23 is substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005
+
+[^key-8f3bc8817fa96032e2b1816f1a84bfe4]: Textual amendment: [Reg. 3(1)(k)(i)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1/k/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/nisr/2007/185/regulation/10/2/b)
+
+[^key-7d10e110fc9aa8080da8d8b4223d7ea5]: Textual amendment: [Reg. 3(1)(l)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1/l) omitted (6.4.2007) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/nisr/2007/185/regulation/10/2/c)
+
+[^key-4a4698e11f9484e3a88cce752e92a6da]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/1A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2022/192/regulation/8)
+
+[^f00018]: Footnote: The definition of “relevant benefits” was amended by paragraph 10(1) of Schedule 10 to the Finance Act 1999
+
+[^f00019]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act 1989 and amended by paragraph 5 of Schedule 5 to the Finance Act 1999
+
+[^key-24e07149130ac51a1dda9ebef0746fed]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/171/regulation/3/3) added (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [23(b)](https://www.legislation.gov.uk/nisr/2016/158/article/23/b)
+
+[^key-7d86ba9a92934a8719364e8291faa789]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00020]: Footnote: Paragraphs 5(4A), 15(5A) and 19(5A) are inserted by regulation 23(2) of [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149)
+
+[^f00021]: Footnote: [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149)
+
+[^f00022]: Footnote: [S.R. 2005 No. 84](https://www.legislation.gov.uk/nisr/2005/84)
+
+[^f00023]: Footnote: Paragraph 23A is inserted by regulation 3 of [S.R. 2005 No. 137](https://www.legislation.gov.uk/nisr/2005/137)
+
+[^f00024]: Footnote: Paragraph 31A is inserted by regulation 3(4) of [S.R. 2005 No. 84](https://www.legislation.gov.uk/nisr/2005/84)
+
+[^f00025]: Footnote: Sub-paragraph (6B) is inserted by regulation 20(3) of [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149)
+
+[^key-30a14abc0a846755d2e830560d63cc32]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00026]: Footnote: Chapter 5 is inserted by Article 241 of the Pensions (Northern Ireland) Order 2005
+
+[^key-aeda66957c48d6528dd4305e1e4731dc]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00027]: Footnote: Article 73A is inserted by Article 247(1) of the Pensions (Northern Ireland) Order 2005
+
+[^key-1412d380236af75587c7e4765bf5186e]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2005/171/regulation/6/6) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 13(a)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/13/a)
+
+[^key-fd9f06bbc1b2a33ce2b2e5ab67415bb7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/171/regulation/7) in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-09623d94cc1108922e1f1e5d0580f50b]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/nisr/2005/171/regulation/7/6) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 13(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/13/b)
+
+[^key-6cc8ceb261e0ca6e4b3f6f61d6c9078d]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00028]: Footnote: Article 73B is inserted by Article 247(1) of the Pensions (Northern Ireland) Order 2005
+
+[^key-556a2d6c4962581d8e68211cacf23134]: Textual amendment: Words in [reg. 8(4)(a)](https://www.legislation.gov.uk/nisr/2005/171/regulation/8/4/a) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/10/3)
+
+[^key-5e6e3d93b678891a5281ff7f871e29ae]: Commencement: Reg. 9 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00029]: Footnote: Regulation 4 was amended by regulation 4(2) of [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64) and regulation 2(2) of [S.R. 2005 No. 20](https://www.legislation.gov.uk/nisr/2005/20)
+
+[^f00030]: Footnote: Article 74(3)(c) was amended by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^f00031]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570); regulation 7 was amended by paragraph 7(3) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), regulation 3(4) of [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335) and regulation 2(3) of [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64) and regulation 8(2) was amended by regulation 3(5) of [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^f00032]: Footnote: The publication GN 19 may be obtained from the Institute of Actuaries, Staple Inn Hall, High Holborn, London WC1V 7QJ and from the Faculty of Actuaries, Maclaurin House, 18 Dublin Street, Edinburgh EH1 3PP
+
+[^f00033]: Footnote: Article 38 was amended by paragraph 39 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^key-5cd2c042dafc622393b1cdc9839eea81]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00034]: Footnote: Article 74(2) and (4) is amended by Article 247(2)(b) of, and Schedule 11 to, the Pensions (Northern Ireland) Order 2005
+
+[^key-d7efbb7ab71df73d30f4afce6061f217]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00035]: Footnote: Sub-paragraph (e) is inserted by Article 247(2)(c) of the Pensions (Northern Ireland) Order 2005
+
+[^f00036]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493); regulation 19 was substituted by regulation 2(7) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109), regulation 20 was amended by regulation 2(3) of [S.R. 2000 No. 336](https://www.legislation.gov.uk/nisr/2000/336) and regulation 2(8) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109) and regulation 60 was amended by paragraph 5(12) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and regulation 2(12) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
+
+[^f00037]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); regulation 2 was amended by regulation 8 of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
+
+[^f00038]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146)
+
+[^key-41755cb21a61b180a9f9ef8e206c6aa1]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00039]: Footnote: [S.R. 2002 No. 74](https://www.legislation.gov.uk/nisr/2002/74)
+
+[^key-f4d89bf8b033719d6a4b2cd8c38b8611]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00040]: Footnote: Regulation 12 is amended and regulations 12A and 12B are inserted respectively by paragraphs 6 and 7 of the Schedule to these regulations
+
+[^key-1f045ca0498926ef63d9830a7535f2b7]: Commencement: Reg. 14 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-afef59b6f038385c79cb68192b0a4891]: Commencement: Reg. 15 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00041]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619); relevant amending regulations are [S.R. 2003 No. 337](https://www.legislation.gov.uk/nisr/2003/337)
+
+[^key-c1753d1b80348e91c062f644ee187af7]: Textual amendment: [Reg. 15(2)-(6)](https://www.legislation.gov.uk/nisr/2005/171/regulation/15/2) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+
+[^key-447fd4997a622cce0a5eb1e0b11fe70f]: Textual amendment: [Reg. 15(9)](https://www.legislation.gov.uk/nisr/2005/171/regulation/15/9)[(10)](https://www.legislation.gov.uk/nisr/2005/171/regulation/15/10) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+
+[^key-29ae36acd1738307d4c9d86591cc4967]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/171/regulation/16) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+
+[^key-3c8c16ffb37a996e419eb48f54d00820]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/171/regulation/17) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+
+[^key-ee587f0996c3c32132aa7e60b4e4fc75]: Commencement: Reg. 18 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00052]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146); relevant amending regulations are [S.R. 2003 No. 337](https://www.legislation.gov.uk/nisr/2003/337)
+
+[^key-d246eb3a7470dd36bf99069521f6f1cc]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/18/2) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+
+[^key-0eb021e852df02c7ebb4bfc824b8eed8]: Textual amendment: [Reg. 18(4)-(9)](https://www.legislation.gov.uk/nisr/2005/171/regulation/18/4) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+
+[^key-841afaa00401fedc963a484101e78b0e]: Commencement: Sch. para. 1 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-3cd32a73fe975dab864a81fa3937baab]: Commencement: Sch. para. 2 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00054]: Footnote: Sub-paragraph (b) was substituted by regulation 3(b) of [S.R. 2004 No. 187](https://www.legislation.gov.uk/nisr/2004/187) in relation to certain schemes
+
+[^f00055]: Footnote: Paragraph (1)(c) was amended and paragraph (7) substituted by regulation 9 of [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
+
+[^f00056]: Footnote: [S.R. 2004 No. 187](https://www.legislation.gov.uk/nisr/2004/187)
+
+[^key-03296a54011a64695c16b7df8071a836]: Commencement: Sch. para. 3 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-9fa9ffeffb92d81f892640d625593b56]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/171/schedule/paragraph/4) in operation at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-a6861a6c352006953ff7acbb99ead479]: Commencement: Sch. para. 5 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-3a836854b437a761063039b41bfdce91]: Commencement: Sch. para. 6 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00057]: Footnote: Paragraph (1) was substituted by paragraph 12 of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
+
+[^key-c3abef2982948610a855851060c29cbd]: Commencement: Sch. para. 7 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^key-3371f162b6e8526a1252936ce2fb7a3c]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/171/schedule/paragraph/8) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+
+[^key-830d3d378e666f850735e979591ce3ce]: Commencement: Sch. para. 9 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00062]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570); relevant amending regulations are [S.R. 2004 No. 481](https://www.legislation.gov.uk/nisr/2004/481)
+
+[^f00063]: Footnote: Schedule 1 was amended by regulation 2(3) of [S.R. 2004 No. 481](https://www.legislation.gov.uk/nisr/2004/481)
+
+[^key-8f83d5254dcbf229c591c3e5b8d3cf62]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2005/171/schedule/paragraph/10) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-a0c5f958a4194bbd68943019fb8801c3]: Commencement: Sch. para. 11 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00065]: Footnote: [S.R. 1997 No. 96](https://www.legislation.gov.uk/nisr/1997/96), to which there are amendments not relevant to these regulations
+
+[^key-6ff7d60743f7bafb55327015b611b959]: Commencement: Sch. para. 12 in operation at 6.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/171/regulation/1/2)
+
+[^f00066]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153), to which there are amendments not relevant to these regulations

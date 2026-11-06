@@ -1,0 +1,244 @@
+---
+title: The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card) Regulations (Northern Ireland) 2007
+id: nisr/2007/36
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-01-24'
+text_date: '2019-02-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/36
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/36/pdfs/nisr_20070036_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/36/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card) Regulations (Northern Ireland) 2007
+
+> Text as at 2019-02-18.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 36
+
+ROad traffic
+
+The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card) Regulations (Northern Ireland) 2007
+
+Made
+
+24th January 2007
+
+Coming into operation-
+
+8th March 2007
+
+The Department of the Environment is designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to the regulation of the type, description, construction or equipment of vehicles and the regulation and supervision of working conditions of persons engaged in road transport.
+
+The Department of the Environment, in exercise of the powers conferred by section 2(2) of that Act, makes the following Regulations:
+
+## 1. Citation and commencement[^key-84d989836781ba889a9594687654c3e9]
+
+These Regulations may be cited as the Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card) Regulations (Northern Ireland) 2007 and shall come into operation on 8th March 2007.
+
+## 2. Interpretation[^key-c55a2870be8ab8523a1166244dc2a964]
+
+(1) In these Regulations—
+
+- “the[^key-eea9013aa4c6c4bc96ce7557c58e2ed9] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009;
+- “company card”, “control card”, “driver card” and “workshop card” have the meanings given by Article 2 of the[^key-0dfde16eda23fc7f8ae4e56e17f52e52] EU Tachographs Regulation to the Community Recording Equipment Regulation;
+- “the Department” means the Department for Infrastructure[^key-b6e8bd5a6f9f6c03707d3ba6a4a10114] ;
+- “PIN” means personal identification number for use in connection with a workshop card;
+- “relevant vehicle” means a vehicle in which there is recording equipment
+  - (i) which has been installed in accordance with the EU[^key-5831cdfc31ee8f03c468b533b362a666] Tachographs Regulation ; and
+  - (ii) complies with Annexes IB and II to that Regulation;
+- “tachograph card” means a company card, control card, driver card or workshop card.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00014] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(3)[^key-da7b63ecbb9b1335dc6b9fc40af47d14] A reference in this regulation to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) on recording equipment in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009.
+
+## 3. Driver cards[^key-b1595378c05cc2b87a82b496bc087ce9]
+
+(1) A person commits an offence—
+
+- (a) if, subject to paragraph (3), he uses, attempts to use or is in possession of, more than one driver card on which he is identified as the holder;
+- (b) if he uses or attempts to use a driver card on which he is not identified as the holder;
+- (c) if, with intent to deceive, he makes a false statement, or forges or alters a document for the purpose of obtaining a driver card;
+- (d) if he uses, or is in possession of, a driver card issued in consequence of an application which included, with the intent to deceive, a false statement or forged or altered document; or
+- (e) if he uses, or is in possession of, a driver card which has been forged or altered.
+
+(2) A person commits an offence if he causes or permits—
+
+- (a) any use or possession of a driver card, or
+- (b) the making of any false statement or forgery or alteration of a document,
+
+as specified in paragraph (1).
+
+(3) It shall not be an offence—
+
+- (a) to hold a card which will become time-expired within one month and the card which has been issued by the Department in renewal of the former card; or
+- (b) to hold a card, which has become time-expired, in combination with another card.
+
+(4) A person guilty of an offence under paragraph (1)(a) or (b) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(5) A person guilty of an offence under paragraph (1)(c) is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding the statutory maximum, or to both; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or to both.
+
+(6) A person guilty of an offence under paragraph (1)(d) or (e) or paragraph (2) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both.
+
+## 4. Workshop cards[^key-18c35be9c121573f23071260dd85ed25]
+
+(1) A person commits an offence—
+
+- (a) if, subject to paragraph (3) he uses, attempts to use or is in possession of more than one workshop card, on which he is identified as the holder, or more than one PIN, in respect of the same place of work;
+- (b) if he uses or attempts to use a workshop card, or PIN, of which he is not the identified holder;
+- (c) if he uses or attempts to use a workshop card, or PIN, in circumstances unconnected with the place of work for which that card, or PIN, was issued;
+- (d) if, with intent to deceive, he makes a false statement, or forges or alters a document, for the purpose of obtaining a workshop card or PIN;
+- (e) if he uses, or is in possession of, a workshop card, or PIN, issued in consequence of an application which included, with intent to deceive, a false statement or forged or altered document;
+- (f) if he uses, or is in possession of, a workshop card, which has been forged or altered; or
+- (g) if he divulges to another person, or permits another person to use, the PIN used in connection with a workshop card of which he is identified as the holder.
+
+(2) A person commits an offence if he causes or permits—
+
+- (a) any use, alteration or possession of a workshop card or PIN, or
+- (b) the making of any false statement or forgery or alteration of a document,
+
+as specified in paragraph (1).
+
+(3) It shall not be an offence —
+
+- (a) to hold a workshop card which will become time-expired within one month and the workshop card which has been issued by the Department in renewal of the former workshop card; or
+- (b) to hold a workshop card, which has become time-expired, in combination with another workshop card.
+
+(4) A person guilty of an offence under paragraph (1)(a), (b), (c) or (g) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(5) A person guilty of an offence under paragraph (1)(d) is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding the statutory maximum, or to both; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or to both.
+
+(6) A person guilty of an offence under paragraph (1)(e) or (f) or paragraph (2) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both.
+
+## 5. Lost, stolen, damaged or malfunctioning cards[^key-21faeb9112db540cd99b3e4ed3a2b4de]
+
+(1) If a tachograph card is lost or stolen, the person to whom that card was issued shall notify the Department in writing and shall provide such information or documents concerning the loss or theft as the Department may require.
+
+(2) If a tachograph card is found at any time after the Department has been notified in accordance with paragraph (1) of the loss or theft of it, the person to whom that card was issued, if it is in his possession, shall return it to the Department, or if it is not in his possession, but he becomes aware that it is found, shall take all reasonable steps to take possession of it and if successful shall return it as soon as may be practicable to the Department.
+
+(3) If a tachograph card is damaged or malfunctions, the person to whom that card was issued shall return it to the Department and shall provide such information or documents concerning the damage or malfunction as the Department may require.
+
+(4) A person who fails to comply with the requirements of paragraph (1), (2) or (3) commits an offence.
+
+(5) A person guilty of an offence under paragraph (4) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 6. Card particulars[^key-0565054fcd5b4f4fa6be44a51035df6a]
+
+(1) Where the details of the holder of a tachograph card specified on the card cease to be correct, the holder—
+
+- (a) must forthwith notify the Department of the details which require correction, and
+- (b) must surrender the card when required to do so, to such address as may be specified, by the Department.
+
+(2) Where it appears to the Department that a tachograph card issued by him to any person was issued in error or with an error or omission in the particulars specified in the card, the Department may serve notice in writing on that person requiring him to surrender that card and it shall be the duty of that person to comply with the requirement.
+
+(3) Subject to paragraph (4), on surrender of a card by a person in accordance with paragraph (1) or (2) the Department shall, if so requested by that person, issue a replacement card to him.
+
+(4) The Department may require the person surrendering the card to provide such information and documents as the Department may require to enable it to correct the details, error or omission before issuing a new card under paragraph (3).
+
+(5) A person who fails to comply with the requirements of paragraph (1) or (2) commits an offence.
+
+(6) A person guilty of an offence under paragraph (5) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 7. Unauthorised cards[^key-7cf18fb2d0d2dddf6bdb02661328629e]
+
+(1) A person in possession of a tachograph card described in paragraph (3) shall surrender that card to the Department, by such means and to such address as may be specified by the Department.
+
+(2) A constable or vehicle examiner appointed under Article 74 of the Road Traffic (Northern Ireland) Order 1995[^f00015] may remove and retain a tachograph card described in paragraph (3) which has not been surrendered to the Department.
+
+(3) A tachograph card to which paragraphs (1) and (2) refer is a card—
+
+- (a) on which the person using the card is not identified as the holder;
+- (b) which has been falsified; or
+- (c) which has been issued in consequence of an application which included a false statement or forged or altered document.
+
+(4) A person who does not surrender a card in accordance with paragraph (1) commits an offence.
+
+(5) A person guilty of an offence under paragraph (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+Sealed with the Official Seal of the Department of the Environment on 24th January 2007.
+
+Maggie Smith
+
+A senior officer of the
+
+Department of the Environment
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the cards (company cards, control cards, driver cards and workshop cards) used with digital tachographs, which are tachographs complying with Annex IB to Regulation [(EEC) 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821). New vehicles, that are required to be fitted with tachographs, have been required to be fitted with digital tachographs since 1 May 2006 (Regulation 561/2006).
+
+They prohibit the use by a person of more than one driver card, of a driver card of which he is not the holder, of a forged or altered card and of a card issued as a result of an incorrect application. Making a false statement in an application for a card is also prohibited. Contravention is an offence, the penalty depending on the nature of the breach (regulation 3).
+
+They prohibit the use by a person of more than one workshop card, or PIN, for each workshop in which he works, of a workshop card or PIN of which he is not the holder or in a place which is not his workplace, of a forged or altered card and of a card issued as a result of an incorrect application. They also prohibit the divulging of a PIN. Contravention is an offence, the penalty depending on the nature of the breach (regulation 4).
+
+Causing or permitting a person to breach such prohibitions is also prohibited, the maximum penalty being, if the offender is convicted summarily, a fine not exceeding the statutory maximum; or if the offender is convicted on indictment, imprisonment up to two years, a fine, or both (regulations 3 and 4).
+
+They require written notification of lost or stolen cards to be given to the Department and the return to it of damaged or malfunctioning cards. Failure to comply is an offence for which the maximum penalty is level 5 on the standard scale (regulation 5).
+
+They require a card holder to notify the Department of details on the card requiring correction and to return it for correction. The Department may also require the return of cards issued erroneously for correction. Failure to comply is an offence for which the maximum penalty is level 5 on the standard scale (regulation 6).
+
+A card which identifies another person as the holder, which has been falsified or which has been issued as a result of a false application must be surrendered or may be confiscated by a constable or vehicle examiner. Failure to surrender such a card is an offence for which the maximum penalty is level 5 on the standard scale (regulation 7).
+
+Copies of the Commission Regulations referred to in these Regulations may be obtained from TSO, 16 Arthur Street, Belfast BT1 4GD.
+
+A Regulatory Impact Assessment has not been prepared for these Regulations as they have no significant impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: S.I.s [1972/1881](https://www.legislation.gov.uk/uksi/1972/1881) and [1975/1707](https://www.legislation.gov.uk/uksi/1975/1707).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-84d989836781ba889a9594687654c3e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^key-c55a2870be8ab8523a1166244dc2a964]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/36/regulation/2) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^key-eea9013aa4c6c4bc96ce7557c58e2ed9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/a)
+
+[^key-0dfde16eda23fc7f8ae4e56e17f52e52]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/b)
+
+[^key-b6e8bd5a6f9f6c03707d3ba6a4a10114]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2019/6/regulation/11)
+
+[^key-5831cdfc31ee8f03c468b533b362a666]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/c)
+
+[^f00014]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-da7b63ecbb9b1335dc6b9fc40af47d14]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/3) added (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/3)
+
+[^key-b1595378c05cc2b87a82b496bc087ce9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/36/regulation/3) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^key-18c35be9c121573f23071260dd85ed25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/36/regulation/4) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^key-21faeb9112db540cd99b3e4ed3a2b4de]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/36/regulation/5) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^key-0565054fcd5b4f4fa6be44a51035df6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/36/regulation/6) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^key-7cf18fb2d0d2dddf6bdb02661328629e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/36/regulation/7) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+
+[^f00015]: Footnote: [S.I. 1995 No. 2994 (N.I.18)](https://www.legislation.gov.uk/nisi/1995/2994)

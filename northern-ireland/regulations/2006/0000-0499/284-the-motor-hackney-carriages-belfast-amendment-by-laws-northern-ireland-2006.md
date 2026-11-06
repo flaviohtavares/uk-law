@@ -1,0 +1,118 @@
+---
+title: The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2006
+id: nisr/2006/284
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-06-28'
+text_date: '2008-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/284
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/284/pdfs/nisr_20060284_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/284/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2006
+
+> Text as at 2008-08-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 284
+
+ROAD TRAFFIC AND VEHICLES
+
+The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2006
+
+Made
+
+28th June 2006
+
+Coming into operation
+
+27th July 2006
+
+The Department of the Environment makes the following By-Laws in exercise of the powers conferred by Article 65(1) and (2) of the Road Traffic (Northern Ireland) Order 1981[^f00001]:
+
+## 1. Citation and commencement[^key-19fbfd4229392fe4db38922405011bca]
+
+These By-Laws may be cited as the Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2006 and shall come into operation on 27th July 2006.
+
+## 2. By-Laws amended[^key-3402c0bebbd4b7f82f1fb803bbd4cc61]
+
+(1) The By-Laws relating to Motor Hackney Carriages standing or plying for hire made by the Council of the County Borough of Belfast on 4th June 1951[^f00002] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In by-law 1—
+
+- (a) in paragraph (a), for the word “six” there shall be substituted “eight”; and
+- (b) for paragraph (h) there shall be substituted—
+
+  > - (h) The expression “Public Vehicles Inspector” means an examiner appointed by the Department under Article 74 of the Road Traffic (Northern Ireland) Order 1995[^f00003].
+  > - (hh) The expression “Licensing Officer” means a person authorised by the Department to issue public service vehicle licences.
+
+  .
+
+(3) In by-law 15, the words from “and shall wear” to the end shall be omitted.
+
+(4)[^key-8ebc2eec6d861e041c1e7112c66a1d7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In by-law 27, for the words “Constable, a Public Vehicles Inspector or the Executive Officer for the time being of the Council’s Police Committee” there shall be substituted “Constable, a Public Vehicles Inspector or the Licensing Officer”.
+
+(6) By-law 30 shall be revoked.
+
+## 3. Revocation[^key-7cfe6ac0b2a7f5f61af52b36e7ae0b1f]
+
+The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2004[^f00004] are hereby revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 28th June 2006.
+
+Maggie Smith
+
+A senior officer of the
+
+Department of the Environment
+
+(This note is not part of the By-Laws)
+
+These By-Laws further amend the Motor Hackney Carriages (Belfast) By-Laws made by the Council of the County Borough of Belfast on 4th June 1951.
+
+**1.** In by-law 1 (interpretation)—
+
+- (i) in paragraph (a) the definition of Motor Hackney Carriage is amended to mean a vehicle seating not more than eight passengers in addition to the driver (formerly six passengers in addition to the driver),
+- (ii) in paragraph (h) the expression “Public Vehicles Inspector” is updated to mean an examiner appointed under Article 74 of the Road Traffic (Northern Ireland) Order 1995,
+- (iii) a new paragraph (hh) is inserted to define “Licensing Officer”.
+
+**2.** By-law 15 (mode of dress) is amended to omit the requirement that a driver shall wear a uniform cap.
+
+**3.** In by-law 26 the rates of fares to be charged are amended by substituting a new table of fares. The percentage rate of increase varies from 13% to 31% depending on the rate band employed.
+
+**4.** By-law 27 (defective taximeter) is amended to substitute the reference to the Executive Officer of the former Belfast County Borough Council’s Police Committee with a reference to the Licensing Officer.
+
+**5.** By-law 30 (penalties) is revoked. Under section 92(1) of the Local Government Act (Northern Ireland) 1972, as amended by Article 6(5) of the Fines and Penalties (Northern Ireland) Order 1984, Article 2(4) of, and Schedule 4 to, the Criminal Penalties etc. (Increase) Order (Northern Ireland) 1984 and Article 3(2) of the Criminal Justice (Northern Ireland) Order 1994, any person who contravenes a bye-law shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale (£500.00) and, in the case of a continuing offence, a further fine not exceeding £2 for each day on which the offence continues after conviction.
+
+The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2004 are revoked as a consequence of these By-Laws.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
+
+[^key-19fbfd4229392fe4db38922405011bca]: Commencement: By-law 1 in operation at 27.7.2006, see by-law 1
+
+[^key-3402c0bebbd4b7f82f1fb803bbd4cc61]: Commencement: By-law 2 in operation at 27.7.2006, see by-law 1
+
+[^f00002]: Footnote: The relevant amending By-Laws are [S.R. 1984 No. 298](https://www.legislation.gov.uk/nisr/1984/298) and [S.R. 2004 No. 441](https://www.legislation.gov.uk/nisr/2004/441)
+
+[^f00003]: Footnote: [S.I 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
+
+[^key-8ebc2eec6d861e041c1e7112c66a1d7f]: Textual amendment: By-law 2(4) revoked (1.8.2008) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2008 (S.R. 2008/245)](https://www.legislation.gov.uk/nisr/2008/245), [by-laws 1](https://www.legislation.gov.uk/nisr/2008/245/section/1), [3](https://www.legislation.gov.uk/nisr/2008/245/section/3)
+
+[^key-7cfe6ac0b2a7f5f61af52b36e7ae0b1f]: Commencement: By-law 3 in operation at 27.7.2006, see by-law 1
+
+[^f00004]: Footnote: [S.R. 2004 No. 441](https://www.legislation.gov.uk/nisr/2004/441)

@@ -1,0 +1,1053 @@
+---
+title: The Work at Height Regulations (Northern Ireland) 2005
+id: nisr/2005/279
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-05-27'
+text_date: '2016-08-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/279
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/279/pdfs/nisr_20050279_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/279/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Work at Height Regulations (Northern Ireland) 2005
+
+> Text as at 2016-08-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 279
+
+HEALTH AND SAFETY
+
+The Work at Height Regulations (Northern Ireland) 2005
+
+Made
+
+27th May 2005
+
+Coming into operation
+
+11th July 2005
+
+The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred on it by Articles 17(1), (2), (3), (5), (6)[^f00003] and 55(2) of, and paragraphs 1(1), (2) and (3), 8, 10, 13, 14, and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00004] and of every other power enabling it in that behalf and for the purpose of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) of that Order[^f00005] after the carrying out by the said Executive of consultations in accordance with Article 46(3) of that Order[^f00006], hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-90c597fe3c677d9c3bbfbad5360ae882]
+
+These Regulations may be cited as the Work at Height Regulations (Northern Ireland) 2005 and shall come into operation on 11th July 2005.
+
+## 2. Interpretation[^key-48a0884f479d9d2d517e2d272da117cf]
+
+(1) In these Regulations –
+
+- “the 1978 Order” means the Health and Safety at Work (Northern Ireland) Order 1978;
+- “access” and “egress” include ascent and descent;
+- “construction work” has the meaning assigned to it by regulation 2(1) of the[^key-e2ff8e0ab9326e81dbef92c33cc3f859] Construction (Design and Management) Regulations (Northern Ireland) 2016[^key-ea5238caa025e55f2c1cdac6919cc62c] ; ;
+- “the Executive” means the Health and Safety Executive for Northern Ireland;
+- “fragile surface” means a surface which would be liable to fail if any reasonably foreseeable loading were to be applied to it;
+- “ladder” includes a fixed ladder and a stepladder;
+- “line” includes rope, chain or webbing;
+- “the Management Regulations” means the Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00008];
+- “personal fall protection system” means –
+  - (a) a fall prevention, work restraint, work positioning, fall arrest or rescue system, other than a system in which the only safeguards are collective protection measures; or
+  - (b) rope access and positioning techniques;
+- “suitable” means suitable in any respect which it is reasonably foreseeable will affect the safety of any person;
+- “territorial sea” means the territorial sea of the United Kingdom adjacent to Northern Ireland and “within the territorial sea” includes on, over and under it;
+- “work at height” means –
+  - (a) work in any place, including a place at or below ground level;
+  - (b) obtaining access to or egress from such place while at work, except by a staircase in a permanent workplace,
+
+  where, if measures required by these Regulations were not taken, a person could fall a distance liable to cause personal injury;
+- “work equipment” means any machinery, appliance, apparatus, tool or installation for use at work (whether exclusively or not) and includes anything to which regulation 8 and Schedules 3 to 7 apply;
+- “working platform” –
+  - (a) means any platform used as a place of work or as a means of access to or egress from a place of work;
+  - (b) includes any scaffold, suspended scaffold, cradle, mobile platform, trestle, gangway, gantry and stairway which is so used.
+
+(2) Any reference in these Regulations to the keeping of a report or copy of a report or plan shall include reference to its being kept in a form –
+
+- (a) in which it is capable of being reproduced as a printed copy when required;
+- (b) which is secure from loss or unauthorised interference.
+
+## 3. Application[^key-56fc0651c24e29c51ce761b0b29974fd]
+
+(1) Within the territorial sea these Regulations shall apply only to and in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 1 applies.
+
+(2) The requirements imposed by these Regulations on an employer shall apply in relation to work –
+
+- (a) by an employee of his; or
+- (b) by any other person under his control, to the extent of his control.
+
+(3) The requirements imposed by these Regulations on an employer shall also apply to –
+
+- (a) a self-employed person, in relation to work –
+  - (i) by him; or
+  - (ii) by a person under his control, to the extent of his control; and
+- (b) to any person other than a self-employed person, in relation to work by a person under his control, to the extent of his control.
+
+(4) Regulations 4 to 16 shall not apply to or in relation to –
+
+- (a) the master and crew of a ship, or to the employer of such persons, in respect of the normal ship-board activities of a ship’s crew which –
+  - (i) are carried out solely by the crew under the direction of the master; and
+  - (ii) are not liable to expose persons at work other than the master and crew to a risk to their safety;
+- (b)[^key-ac883927bf87bb59bd5c51784d0b8cd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a place specified in regulation 5(3) of the Loading and Unloading of Fishing Vessels Regulations (Northern Ireland) 1989[^f00010] where persons are engaged in fish loading processes; [^key-45055fe88b5c842c4219298294f40d70]...
+- (d)[^key-45055fe88b5c842c4219298294f40d70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Regulation 11 shall not apply to an installation while regulation 12 of the Offshore Installations and Wells (Design and Construction, etc) Regulations (Northern Ireland) 1996[^f00011] apply to it.
+
+(6) In this regulation –
+
+- (a)[^key-b05b858efc28ecb77b804a0f4087f604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-b05b858efc28ecb77b804a0f4087f604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) “ship” includes every description of vessel used in navigation, other than a ship which forms part of Her Majesty’s Navy.
+
+## 4. Organisation and planning[^key-8279183a2add7baa5697456d18dbc6f5]
+
+(1) Every employer shall ensure that work at height is –
+
+- (a) properly planned;
+- (b) appropriately supervised; and
+- (c) carried out in a manner which is so far as is reasonably practicable safe,
+
+and that its planning includes the selection of work equipment in accordance with regulation 7.
+
+(2) Reference in paragraph (1) to planning of work includes planning for emergencies and rescue.
+
+(3) Every employer shall ensure that work at height is carried out only when the weather conditions do not jeopardise the health or safety of persons involved in the work.
+
+(4) Paragraph (3) shall not apply where members of the police, fire, ambulance or other emergency services are acting in an emergency.
+
+## 5. Competence[^key-98bfd301545af979f6f091fe06c26f31]
+
+Every employer shall ensure that a person shall not engage in any activity, including organisation, planning and supervision, in relation to work at height or work equipment for use in such work unless he is competent to do so or, if being trained, is being supervised by a competent person.
+
+## 6. Avoidance of risks from work at height[^key-ba2e4688902cbdb4801c76ebee6f29b2]
+
+(1) In identifying the measures required by this regulation, every employer shall take account of a risk assessment under regulation 3 of the Management Regulations.
+
+(2) Every employer shall ensure that work is not carried out at height where it is reasonably practicable to carry out the work safely otherwise than at height.
+
+(3) Where work is carried out at height, every employer shall take suitable and sufficient measures to prevent, so far as is reasonably practicable, any person falling a distance liable to cause personal injury.
+
+(4) The measures required by paragraph (3) shall include –
+
+- (a) his ensuring that the work is carried out –
+  - (i) from an existing place of work; or
+  - (ii) (in the case of obtaining access or egress) using an existing means,
+
+  which complies with Schedule 2, where it is reasonably practicable to carry it out safely and under appropriate ergonomic conditions; and
+- (b) where it is not reasonably practicable for the work to be carried out in accordance with sub-paragraph (a), his providing sufficient work equipment for preventing, so far as is reasonably practicable, a fall occurring.
+
+(5) Where measures taken under paragraph (4) do not eliminate the risk of a fall occurring, every employer shall –
+
+- (a) so far as is reasonably practicable, provide sufficient work equipment to minimise –
+  - (i) the distance and consequences; or
+  - (ii) where it is not reasonably practicable to minimise the distance, the consequences, of a fall; and
+- (b) without prejudice to the generality of paragraph (3), provide such additional training and instruction or take other additional suitable and sufficient measures to prevent, so far as is reasonably practicable, any person falling a distance liable to cause personal injury.
+
+## 7. Selection of work equipment for work at height[^key-dd42efec1c53958d1341983d35b36814]
+
+(1) Every employer, in selecting work equipment for use in work at height, shall –
+
+- (a) give collective protection measures priority over personal protection measures; and
+- (b) take account of –
+  - (i) the working conditions and the risks to the safety of persons at the place where the work equipment is to be used;
+  - (ii) in the case of work equipment for access and egress, the distance to be negotiated;
+  - (iii) the distance and consequences of a potential fall;
+  - (iv) the duration and frequency of use;
+  - (v) the need for easy and timely evacuation and rescue in an emergency;
+  - (vi) any additional risk posed by the use, installation or removal of that work equipment or by evacuation and rescue from it; and
+  - (vii) the other provisions of these Regulations.
+
+(2) An employer shall select work equipment for work at height which –
+
+- (a) has characteristics including dimensions which –
+  - (i) are appropriate to the nature of the work to be performed and the foreseeable loadings; and
+  - (ii) allow passage without risk; and
+- (b) is in other respects the most suitable work equipment, having regard in particular to the purposes specified in regulation 6.
+
+## 8. Requirements for particular work equipment[^key-e2c3c2e4ba04545bf7b1987371ce377c]
+
+Every employer shall ensure that, in the case of –
+
+- (a) a guard-rail, toe-board, barrier or similar collective means of protection, Schedule 3 is complied with;
+- (b) a working platform –
+  - (i) Part 1 of Schedule 4 is complied with; and
+  - (ii) where scaffolding is provided, Part 2 of Schedule 4 is also complied with;
+- (c) a net, airbag or other collective safeguard for arresting falls which is not part of a personal fall protection system, Schedule 5 is complied with;
+- (d) a personal fall protection system, Part 1 of Schedule 6; and –
+  - (i) in the case of a work positioning system, Part 2 of Schedule 6;
+  - (ii) in the case of rope access and positioning techniques, Part 3 of Schedule 6;
+  - (iii) in the case of a fall arrest system, Part 4 of Schedule 6;
+  - (iv) in the case of a work restraint system, Part 5 of Schedule 6,
+
+  are complied with; and
+- (e) a ladder, Schedule 7 is complied with.
+
+## 8A. Dock Operations[^key-a2ed501b29f9c20b8e34a06fe8474c88]
+
+In relation to work at height where people are engaged in dock operations, every employer shall ensure that Schedule 10 is complied with.
+
+## 9. Fragile surfaces[^key-ee600125a9dea0053da4c52e38cb0a7d]
+
+(1) Every employer shall ensure that a person at work does not pass across or near, or work on, from or near, a fragile surface where it is reasonably practicable to carry out work safely and under appropriate ergonomic conditions without his doing so.
+
+(2) Where it is not reasonably practicable to carry out work safely and under appropriate ergonomic conditions without passing across or near, or working on, from or near, a fragile surface, every employer shall –
+
+- (a) ensure, so far as is reasonably practicable, that suitable and sufficient platforms, coverings, guard rails or other similar means of support or protection are provided and used so that any foreseeable loading is supported by such supports or borne by such protection;
+- (b) where a risk of a person at work falling remains despite the measures taken under the preceding provisions of this regulation, take suitable and sufficient measures to minimise the distances and consequences of his fall.
+
+(3) Where any person at work may pass across or near, or work on, from or near, a fragile surface, every employer shall ensure that –
+
+- (a) prominent warning notices are, so far as is reasonably practicable, affixed at the approach to the place where the fragile surface is situated; or
+- (b) where that is not reasonably practicable, such persons are made aware of it by other means.
+
+(4) Paragraph (3) shall not apply where members of the police, fire, ambulance or other emergency services are acting in an emergency.
+
+## 10. Falling objects[^key-12a6234b44713d91296e7b0c29988cdf]
+
+(1) Every employer shall, where necessary to prevent injury to any person, take suitable and sufficient steps to prevent, so far as is reasonably practicable, the fall of any material or object.
+
+(2) Where it is not reasonably practicable to comply with the requirements of paragraph (1), every employer shall take suitable and sufficient steps to prevent any person being struck by any falling material or object which is liable to cause personal injury.
+
+(3) Every employer shall ensure that no material or object is thrown or tipped from height in circumstances where it is liable to cause injury to any person.
+
+(4) Every employer shall ensure that materials and objects are stored in such a way as to prevent risk to any person arising from the collapse, overturning or unintended movement of such materials or objects.
+
+## 11. Danger areas[^key-cc7e0d7bb0d83ef5f2847f88fba19b44]
+
+Without prejudice to the preceding requirements of these Regulations, every employer shall ensure that –
+
+- (a) where a workplace contains an area in which, owing to the nature of the work, there is a risk of any person at work –
+  - (i) falling a distance; or
+  - (ii) being struck by a falling object,
+
+  which is liable to cause personal injury, the workplace is so far as is reasonably practicable equipped with devices preventing unauthorised persons from entering such area; and
+- (b) such area is clearly indicated.
+
+## 12. Inspection of work equipment[^key-0b869207c7db01b3886b7fa1c6670b6a]
+
+(1) This regulation applies only to work equipment to which regulation 8 and Schedules 3 to 7 apply.
+
+(2) Every employer shall ensure that, where the safety of work equipment depends on how it is installed or assembled, it is not used after installation or assembly in any position unless it has been inspected in that position.
+
+(3) Every employer shall ensure that work equipment exposed to conditions causing deterioration which is liable to result in dangerous situations is inspected –
+
+- (a) at suitable intervals; and
+- (b) each time that exceptional circumstances which are liable to jeopardise the safety of the work equipment have occurred,
+
+to ensure that health and safety conditions are maintained and that any deterioration can be detected and remedied in good time.
+
+(4) Without prejudice to paragraph (2), every employer shall ensure that a working platform –
+
+- (a) used for construction work; and
+- (b) from which a person could fall 2 metres or more,
+
+is not used in any position unless it has been inspected in that position or, in the case of a mobile working platform, inspected on the site, within the previous 7 days.
+
+(5) Every employer shall ensure that no work equipment, other than lifting equipment to which the requirement in regulation 9(4) of the Lifting Operations and Lifting Equipment Regulations (Northern Ireland) 1999[^f00012] (“LOLER”) applies –
+
+- (a) leaves his undertaking; or
+- (b) if obtained from the undertaking of another person, is used in his undertaking,
+
+unless it is accompanied by physical evidence that the last inspection required to be carried out under this regulation has been carried out.
+
+(6) Every employer shall ensure that the result of an inspection under this regulation is recorded and, subject to paragraph (8), kept until the next inspection under this regulation is recorded.
+
+(7) A person carrying out an inspection of work equipment to which paragraph (4) applies shall –
+
+- (a) before the end of the working period within which the inspection is completed, prepare a report containing the particulars set out in Schedule 8; and
+- (b) within 24 hours of completing the inspection, provide the report or a copy thereof to the person on whose behalf the inspection was carried out.
+
+(8) An employer receiving a report or copy under paragraph (7) shall keep the report or a copy thereof –
+
+- (a) at the site where the inspection was carried out until the construction work is completed; and
+- (b) thereafter at an office of his for 3 months.
+
+(9) Where a thorough examination has been made of lifting equipment under regulation 9 of LOLER –
+
+- (a) it shall for the purposes of this regulation, other than paragraphs (7) and (8) , be treated as an inspection of the lifting equipment; and
+- (b) the making under regulation 10 of LOLER of a report of such examination shall for the purposes of paragraph (6) be treated as the recording of the inspection.
+
+(10) In this regulation “inspection”, subject to paragraph (9) –
+
+- (a) means such visual or more rigorous inspection by a competent person as is appropriate for safety purposes;
+- (b) includes any testing appropriate for those purposes.
+
+## 13. Inspection of places of work at height[^key-4b65f71ad1af7220b49b1096c259047a]
+
+Every employer shall so far as is reasonably practicable ensure that the surface and every parapet, permanent rail or other such fall protection measure of every place of work at height are checked on each occasion before the place is used.
+
+## 14. Duties of persons at work[^key-1b6d97f04c19c61ed90ff453d47a1d40]
+
+(1) Every person shall, where working under the control of another person, report to that person any activity or defect relating to work at height which he knows is likely to endanger the safety of himself or another person.
+
+(2) Every person shall use any work equipment or safety device provided to him for work at height by his employer, or by a person under whose control he works, in accordance with –
+
+- (a) any training in the use of the work equipment or device concerned which have been received by him; and
+- (b) the instructions respecting that use which have been provided to him by that employer or person in compliance with the requirements and prohibitions imposed upon that employer or person by or under the relevant statutory provisions.
+
+## 14A. Special provision in relation to caving and climbing[^key-5c18f614e553a82631ff6fe266e1ce00]
+
+(1) Paragraph (2) applies in relation to the application of these Regulations to work concerning the provision of instruction or leadership to one or more persons in connection with their engagement in caving or climbing by way of sport, recreation, team building or similar activities.
+
+(2) Where this paragraph applies, an employer, self-employed person or other person shall be taken to have complied with the caving and climbing requirements, if, by alternative means to any requirement of those requirements, he maintains in relation to a person at such work as is referred to in paragraph (1) a level of safety equivalent to that required by those requirements.
+
+(3) For the purposes of paragraph (2), in determining whether an equivalent level of safety is maintained, regard shall be had to—
+
+- (a) the nature of the activity;
+- (b) any publicly available and generally accepted procedures for the activity; and
+- (c) any other relevant circumstances.
+
+(4) In this regulation—
+
+- “caving” includes the exploration of parts of mines which are no longer worked;
+- “climbing” means climbing, traversing, abseiling or scrambling over natural terrain or man-made structures; and
+- “the caving and climbing requirements” means regulation 8(d)(ii), so far as it relates to paragraph 1 in Part 3 of Schedule 6, and that paragraph.
+
+## 15. Exemption by the Health and Safety Executive for Northern Ireland[^key-7536aac7ae26ddcdc8397ad7d0558436]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt –
+
+- (a) any person or class of persons;
+- (b) any premises or class of premises;
+- (c) any work equipment; or
+- (d) any work activity,
+
+from the requirements imposed by paragraph 3(a) and (c) of Schedule 3, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing.
+
+(2) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case and in particular to –
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any enactments which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+## 16. Exemption by the Secretary of State for Defence[^key-7f123ef8176f645468fdb70499cb0433]
+
+(1) Subject to paragraph (2) the Secretary of State for Defence may, in the interests of national security, by a certificate in writing, exempt any person or class of persons from any requirement or prohibition imposed by these Regulations in respect of activities carried out in the interests of national security, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by the Secretary of State by a certificate in writing at any time.
+
+(2) The Secretary of State shall not grant any such exemption unless he is satisfied that the health and safety of the employees concerned are ensured as far as possible in the light of the objectives of these Regulations.
+
+## 17. Amendment of the Provision and Use of Work Equipment Regulations (Northern Ireland) 1999[^key-b0f2552e26d2f8dbc1f2b8f18096c5df]
+
+There shall be added to regulation 6(5) of the Provision and Use of Work Equipment Regulations (Northern Ireland) 1999[^f00013] the following sub-paragraph –
+
+> - (f) work equipment to which regulation 12 of the Work at Height Regulations (Northern Ireland) 2005 applies.
+
+.
+
+## 18. Repeal of section 25 of the Factories Act (Northern Ireland) 1965[^key-08732a6367be703da741d3fc6167388a]
+
+Section 25 of the Factories Act (Northern Ireland) 1965[^f00014] is repealed.
+
+## 19. Revocations[^key-0dbac83536b26cd00f7b6e5999d63138]
+
+The statutory provisions referred to in column 1 of Schedule 9 shall be revoked to the extent specified in the corresponding entry in column 3 of that Schedule.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 27th May 2005.
+
+M. Bohill
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE 1 — PREMISES AND ACTIVITIES WITHIN THE TERRITORIAL SEA
+
+Regulation 3
+
+### 1. Interpretation[^key-49112dbdf9bdd18aeb419a178fc4ab55]
+
+(1) In this Schedule –
+
+- “activity” includes a diving project;
+- “designated area” means any area designated by Order under section 1(7) of the Continental Shelf Act 1964[^f00015] and “within a designated area” includes over and under it;
+- “diving project” has the same meaning assigned to it by regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005[^f00016] save that it includes an activity in which a person takes part as a diver wearing an atmospheric pressure suit and without breathing in air or other gas at a pressure greater than atmospheric pressure;
+- “energy structure” means a fixed or floating structure, other than a vessel, for producing energy from wind or water;
+- “offshore installation” shall be construed in accordance with paragraph 2(2) and (3);
+- “supplementary unit” means a fixed or floating structure, other than a vessel, for providing energy, information or substances to an offshore installation;
+- “stand-by vessel” means a vessel which is ready to give assistance in the event of an emergency on or near an offshore installation;
+- “vessel” includes a hovercraft and any floating structure which is capable of being staffed.
+
+(2) For the purposes of this Schedule, any structures and devices on top of a well shall be treated as forming part of the well.
+
+(3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
+
+### 2. Offshore installations[^key-6771a37549a0c5aa32a3c569f755ec23]
+
+(1) This paragraph shall apply to and in relation to –
+
+- (a) any offshore installation and any activity on it;
+- (b) any activity in connection with an offshore installation, or any activity which is immediately preparatory thereto, whether carried on from the installation itself, in or from a vessel or in any other manner, other than –
+  - (i) transporting, towing or navigating the installation; and
+  - (ii) any activity in or from a vessel being used as a stand-by vessel;
+- (c) a diving project involving –
+  - (i) the survey and preparation of the sea bed for an offshore installation;
+  - (ii) the survey and restoration of the sea bed consequent on the removal of an offshore installation.
+
+(2) Subject to sub-paragraph (3), in this paragraph, “offshore installation” means a structure which is, or is to be, or has been, used while standing or stationed in water, or on the foreshore or other land intermittently covered with water –
+
+- (a) for the exploitation, or exploration with a view to exploitation, of mineral resources by means of a well;
+- (b) for the storage of gas in or under the shore or bed of any water or the recovery of gas so stored;
+- (c) for the conveyance of things by means of a pipe; or
+- (d) mainly for the provision of accommodation for persons who work on or from a structure falling within any of the provisions of this sub-paragraph,
+
+together with any supplementary unit which is ordinarily connected to it, and all the connections.
+
+(3) Any reference in sub-paragraph (2) to a structure or unit does not include –
+
+- (a) a structure which is connected with dry land by a permanent structure providing access at all times and for all purposes;
+- (b) a well;
+- (c) a structure which has ceased to be used for any of the purposes specified in sub-paragraph (2) and has since been used for a purpose not so specified;
+- (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
+- (e) any part of a pipeline.
+
+### 3. Wells[^key-5c0eaadf626ae58d2f39a0189b385f0c]
+
+(1) Subject to sub-paragraph (2), this paragraph applies to and in relation to –
+
+- (a) a well and any activity in connection with it; and
+- (b) an activity which is immediately preparatory to any activity in head (a).
+
+(2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
+
+### 4. Pipelines[^key-9e2d11c1ceed19cbbdf1568371b1ff50]
+
+(1) This paragraph applies to and in relation to –
+
+- (a) any pipeline;
+- (b) any pipeline works;
+- (c) the following activities in connection with pipeline works –
+  - (i) the loading, unloading, fuelling or provisioning of a vessel;
+  - (ii) the loading, unloading, fuelling, repair and maintenance of an aircraft in a vessel,
+
+  being in either case a vessel which is engaged in pipeline works.
+
+(2) In this paragraph –
+
+- “pipeline” means a pipe or system of pipes for the conveyance of any thing, together with –
+  - (a) any apparatus for inducing or facilitating the flow of any thing through, or through part of, the pipe or system;
+  - (b) any apparatus for treating or cooling any thing which is to flow through, or through part of, the pipe or system;
+  - (c) valves, valve chambers and similar works which are annexed to, or incorporated in the course of, the pipe or system;
+  - (d) apparatus for supplying energy for the operation of any such apparatus or works as are mentioned in heads (a) to (c);
+  - (e) apparatus for the transmission of information for the operation of the pipe or system;
+  - (f) apparatus for the cathodic protection of the pipe or system; and
+  - (g) a structure used or to be used solely for the support of a part of the pipe or system;
+
+  but not including a pipeline of which no initial or terminal point is situated in the United Kingdom, within the territorial sea adjacent to the United Kingdom, or within a designated area;
+- “pipeline works” means –
+  - (a) assembling or placing a pipeline or length of pipeline including the provision of internal or external protection for it;
+  - (b) inspecting, testing, maintaining, adjusting, repairing, altering or renewing a pipeline or length of pipeline;
+  - (c) changing the position of or dismantling or removing a pipeline or length of pipeline;
+  - (d) opening the bed of the sea for the purposes of the works mentioned in heads (a) to (c), and tunnelling or boring for those purposes;
+  - (e) any activities incidental to the activities described in heads (a) to (d);
+  - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
+
+### 5. Mines[^key-bc333c1333bc726d6b3fe009bd68bb5e]
+
+(1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
+
+(2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00017].
+
+### 6. Other activities[^key-220e0d7ba1cf243fc58318de605ce02d]
+
+(1) Subject to paragraph (2), this paragraph applies to and in relation to –
+
+- (a) the construction, reconstruction, alteration, repair, maintenance, cleaning, use, operation, demolition and dismantling of any building, energy structure or other structure, not being in any case a vessel, or any preparation for any such activity;
+- (b) the transfer of people or goods between a vessel or aircraft and a structure (including a building) mentioned in head (a);
+- (c) the loading, unloading, fuelling or provisioning of a vessel;
+- (d) a diving project;
+- (e) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of a vessel except when carried out by the master or any officer or member of the crew of that vessel;
+- (f) the maintaining on a station of a vessel which would be an offshore installation were it not a structure to which paragraph 2(3)(d) applies;
+- (g) the operation of a cable for transmitting electricity from an energy structure to shore;
+- (h) the transfer of people or goods between a vessel or aircraft and a structure mentioned in head (f).
+
+(2) This paragraph shall not apply –
+
+- (a) to a case where paragraph 2, 3, 4 or 5 applies; or
+- (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
+
+## SCHEDULE 2 — REQUIREMENTS FOR EXISTING PLACES OF WORK AND MEANS OF ACCESS OR EGRESS AT HEIGHT[^key-b3f452c0e00d8fb719a98928d560ed2f]
+
+Regulation 6(4)(a)
+
+[^key-b3f452c0e00d8fb719a98928d560ed2f]
+
+Every existing place of work or means of access or egress at height shall –
+
+- (a) be stable and of sufficient strength and rigidity for the purpose for which it is intended to be or is being used;
+- (b) where applicable, rest on a stable, sufficiently strong surface;
+- (c) be of sufficient dimensions to permit the safe passage of persons and the safe use of any plant or materials required to be used and to provide a safe working area having regard to the work to be carried out there;
+- (d) possess suitable and sufficient means for preventing a fall;
+- (e) possess a surface which has no gap –
+  - (i) through which a person could fall;
+  - (ii) through which any material or object could fall and injure a person; or
+  - (iii) giving rise to other risk of injury to any person, unless measures have been taken to protect persons against such risk;
+- (f) be so constructed and used, and maintained in such condition, as to prevent, so far as is reasonably practicable –
+  - (i) the risk of slipping or tripping; or
+  - (ii) any person being caught between it and any adjacent structure;
+- (g) where it has moving parts, be prevented by appropriate devices from moving inadvertently during work at height.
+
+## SCHEDULE 3 — REQUIREMENTS FOR GUARD-RAILS, TOE-BOARDS, BARRIERS AND SIMILAR COLLECTIVE MEANS OF PROTECTION
+
+Regulation 8(a)
+
+**1.**[^key-0544ac8a132b31e65ec6e48e3552f0ee] Any reference in this Schedule to means of protection is to a guard-rail, toe-board, barrier or similar collective means of protection.
+
+**2.**[^key-5c10ae7d91b98530be152dfc811d9e74] Means of protection shall –
+
+- (a) be of sufficient dimensions, of sufficient strength and rigidity for the purposes for which they are being used, and otherwise suitable;
+- (b) be so placed, secured and used as to ensure, so far as is reasonably practicable, that they do not become accidentally displaced; and
+- (c) be so placed as to prevent, so far as is practicable, the fall of any person, or of any material or object, from any place of work.
+
+**3.**[^key-116b0c63038d02f2fefe5de3b4cc66e9] In relation to work at height involved in construction work –
+
+- (a) the top guard-rail or other similar means of protection shall be at least 950 millimetres or, in the case of such means of protection already fixed at the coming into operation of these Regulations, at least 910 millimetres above the edge from which any person is liable to fall;
+- (b) toe-boards shall be suitable and sufficient to prevent the fall of any person, or any material or object, from any place of work; and
+- (c) any intermediate guard-rail or similar means of protection shall be positioned so that any gap between it and other means of protection does not exceed 470 millimetres.
+
+**4.**[^key-9be52eac5c87866dd11352c58dbe232c] Any structure or part of a structure which supports means of protection or to which means of protection are attached shall be of sufficient strength and suitable for the purpose of such support or attachment.
+
+**5.**[^key-8828119a76b8d80854597a7c37b6a329] (1) Subject to sub-paragraph (2), there shall not be a lateral opening in means of protection save at a point of access to a ladder or stairway where an opening is necessary.
+
+(2) Means of protection shall be removed only for the time and to the extent necessary to gain access or egress or for the performance of a particular task and shall be replaced as soon as practicable.
+
+(3) The task shall not be performed while means of protection are removed unless effective compensatory safety measures are in place.
+
+## SCHEDULE 4 — REQUIREMENTS FOR WORKING PLATFORMS
+
+Regulation 8(b)
+
+### PART 1 — requirements for all working platforms
+
+#### 1. Interpretation[^key-1416a192e6695f878a77fbb3e8431dd3]
+
+In this Schedule, “supporting structure” means any structure used for the purpose of supporting a working platform and includes any plant used for that purpose.
+
+#### 2. Condition of surfaces[^key-7d29b94cc5a8282bb16dbaa86075bb7d]
+
+Any surface upon which any supporting structure rests shall be stable, of sufficient strength and of suitable composition safely to support the supporting structure, the working platform and any loading intended to be placed on the working platform.
+
+#### 3. Stability of supporting structure[^key-ea14df12365b61e91752e463778c8b25]
+
+Any supporting structure shall –
+
+- (a) be suitable and of sufficient strength and rigidity for the purpose for which it is being used;
+- (b) in the case of a wheeled structure, be prevented by appropriate devices from moving inadvertently during work at height;
+- (c) in other cases, be prevented from slipping by secure attachment to the bearing surface or to another structure, provision of an effective anti-slip device or by other means of equivalent effectiveness;
+- (d) be stable while being erected, used and dismantled; and
+- (e) when altered or modified, be so altered or modified as to ensure that it remains stable.
+
+#### 4. Stability of working platforms[^key-a71433ed0a71b9594339a19e2e3a9495]
+
+A working platform shall –
+
+- (a) be suitable and of sufficient strength and rigidity for the purpose or purposes for which it is intended to be used or is being used;
+- (b) be so erected and used as to ensure that its components do not become accidentally displaced so as to endanger any person;
+- (c) when altered or modified, be so altered or modified as to ensure that it remains stable; and
+- (d) be dismantled in such a way as to prevent accidental displacement.
+
+#### 5. Safety on working platforms[^key-a8e69389b0e69006eb11d0dda4cf97db]
+
+A working platform shall –
+
+- (a) be of sufficient dimensions to permit the safe passage of persons and the safe use of any plant or materials required to be used and to provide a safe working area having regard to the work being carried out there;
+- (b) possess a suitable surface and, in particular, be so constructed that the surface of the working platform has no gap –
+  - (i) through which a person could fall;
+  - (ii) through which any material or object could fall and injure a person; or
+  - (iii) giving rise to other risk of injury to any person unless measures have been taken to protect persons against such risk; and
+- (c) be so erected and used, and maintained in such condition, as to prevent, so far as is reasonably practicable –
+  - (i) the risk of slipping or tripping; or
+  - (ii) any person being caught between the working platform and any adjacent structure.
+
+#### 6. Loading[^key-8494aa1df222a87fc2f66fb82292ee16]
+
+A working platform and any supporting structure shall not be loaded so as to give rise to a risk of collapse or to any deformation which could affect its safe use.
+
+### PART 2 — additional requirements for scaffolding
+
+#### 1. Additional requirements for scaffolding[^key-17781f57475ff6f068dae67f07a99a32]
+
+Strength and stability calculations for scaffolding shall be carried out unless –
+
+- (a) a note of the calculations, covering the structural arrangements contemplated, is available; or
+- (b) it is assembled in conformity with a generally recognised standard configuration.
+
+**2.**[^key-fb4b7f8b10d8ab1c3694630208fa53ec] Depending on the complexity of the scaffolding selected, an assembly, use and dismantling plan shall be drawn up by a competent person. This may be in the form of a standard plan, supplemented by items relating to specific details of the scaffolding in question.
+
+**3.**[^key-687337dfeec65e8d8b29c89cb97c64e0] A copy of the plan, including any instructions it may contain, shall be kept available for the use of persons concerned in the assembly, use, dismantling or alteration of scaffolding until it has been dismantled.
+
+**4.**[^key-dc4777c35702efb7de3de4fdae485a98] The dimensions, form and layout of scaffolding decks shall be appropriate to the nature of the work to be performed and suitable for the loads to be carried and permit work and passage in safety.
+
+**5.**[^key-6815db0346d66244d9c0fc2f8ee40970] While a scaffold is not available for use, including during its assembly, dismantling or alteration, it shall be marked with general warning signs in accordance with the Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996[^f00018] and be suitably delineated by physical means preventing access to the danger zone.
+
+**6.**[^key-881ff58f0d9ff9e1bf080b0ef01dea03] Scaffolding may be assembled, dismantled or significantly altered only under the supervision of a competent person and by persons who have received appropriate and specific training in the operations envisaged which addresses specific risks which the operations may entail and precautions to be taken, and more particularly in –
+
+- (a) understanding of the plan for the assembly, dismantling or alteration of the scaffolding concerned;
+- (b) safety during the assembly, dismantling or alteration of the scaffolding concerned;
+- (c) measures to prevent the risk of persons, materials or objects falling;
+- (d) safety measures in the event of changing weather conditions which could adversely affect the safety of the scaffolding concerned;
+- (e) permissible loadings;
+- (f) any other risks which the assembly, dismantling or alteration of the scaffolding may entail.
+
+## SCHEDULE 5 — REQUIREMENTS FOR COLLECTIVE SAFEGUARDS FOR ARRESTING FALLS
+
+Regulation 8(c)
+
+**1.**[^key-c18d957a0680a2cbd72415c9e1b7fe4e] Any reference in this Schedule to a safeguard is to a collective safeguard for arresting falls.
+
+**2.**[^key-20e357c7861f0fd2964e0e03ef2a0e7a] A safeguard shall be used only if –
+
+- (a) a risk assessment has demonstrated that the work activity can so far as is reasonably practicable be performed safely while using it and without affecting its effectiveness;
+- (b) the use of other, safer work equipment is not reasonably practicable; and
+- (c) a sufficient number of available persons have received adequate training specific to the safeguard, including rescue procedures.
+
+**3.**[^key-4db61a3c1ca3d1d103b1369db0a5b64c] A safeguard shall be suitable and of sufficient strength to arrest safely the fall of any person who is liable to fall.
+
+**4.**[^key-279c282283e02a122372e46c7a16701f] A safeguard shall –
+
+- (a) in the case of a safeguard which is designed to be attached, be securely attached to all the required anchors, and the anchors and the means of attachment thereto shall be suitable and of sufficient strength and stability for the purpose of safely supporting the foreseeable loading in arresting any fall and during any subsequent rescue;
+- (b) in the case of an airbag, landing mat or similar safeguard, be stable; and
+- (c) in the case of a safeguard which distorts in arresting a fall, afford sufficient clearance.
+
+**5.**[^key-298946b2c33597781e1c650c62cc3541] Suitable and sufficient steps shall be taken to ensure, so far as practicable, that in the event of a fall by any person the safeguard does not itself cause injury to that person.
+
+## SCHEDULE 6 — REQUIREMENTS FOR PERSONAL FALL PROTECTION SYSTEMS
+
+Regulation 8(d)
+
+### PART 1 — requirements for all personal fall protection systems
+
+**1.**[^key-c051ebd2cd63f43807e700326d390050] A personal fall protection system shall be used only if –
+
+- (a) a risk assessment has demonstrated that –
+  - (i) the work can so far as is reasonably practicable be performed safely while using that system; and
+  - (ii) the use of other, safer work equipment is not reasonably practicable; and
+- (b) the user and a sufficient number of available persons have received adequate training specific to the operations envisaged, including rescue procedures.
+
+**2.**[^key-c48a80f7716ad12d14fc7ff25fccca5d] A personal fall protection system shall –
+
+- (a) be suitable and of sufficient strength for the purposes for which it is being used having regard to the work being carried out and any foreseeable loading;
+- (b) where necessary, fit the user;
+- (c) be correctly fitted;
+- (d) be designed to minimise injury to the user and, where necessary, be adjusted to prevent the user falling or slipping from it, should a fall occur; and
+- (e) be so designed, installed and used as to prevent unplanned or uncontrolled movement of the user.
+
+**3.**[^key-a4b788266520142ad76a1e39e3b6754d] A personal fall protection system designed for use with an anchor shall be securely attached to at least one anchor, and each anchor and the means of attachment thereto shall be suitable and of sufficient strength and stability for the purpose of supporting any foreseeable loading.
+
+**4.**[^key-0d589f570bd24f7ab55cfd295f3d423e] Suitable and sufficient steps shall be taken to prevent any person falling or slipping from a personal fall protection system.
+
+### PART 2 — additional requirements for work positioning systems[^key-5824d468d9d40723d85cc281670e8ecd]
+
+A work positioning system shall be used only if either –
+
+- (a) the system includes a suitable backup system for preventing or arresting a fall; and
+- (b) where the system includes a line as a backup system, the user is connected to it; or
+- (c) where it is not reasonably practicable to comply with sub-paragraph (a), all practicable measures are taken to ensure that the work positioning system does not fail.
+
+### PART 3 — additional requirements for rope access and positioning techniques
+
+**1.**[^key-2e5cb5731a83ac5f9a3f6fd952366d82] Except as provided in paragraph 3,[^key-3b6fa7b603289e61554d95d0ee8952a1] a rope access or positioning technique shall be used only if –
+
+- (a) [^key-5743a1765e9ee43af35bbbbe5664b873]...it involves a system comprising at least two separately anchored lines, of which one (“the working line”) is used as a means of access, egress and support and the other is the safety line;
+- (b) the user is provided with a suitable harness and is connected by it to the working line and the safety line;
+- (c) the working line is equipped with safe means of ascent and descent and has a self-locking system to prevent the user falling should he lose control of his movements; and
+- (d) the safety line is equipped with a mobile fall protection system which is connected to and travels with the user of the system.
+
+**2.**[^key-c3f5624975473290f4dfdbaf1cfa5a28] Taking the risk assessment into account and depending in particular on the duration of the job and the ergonomic constraints, provision must be made for a seat with appropriate accessories.
+
+**3.**[^key-9611b7c83a3c9ec03cde2f95fad15b80] The system may comprise a single rope where –
+
+- (a) a risk assessment has demonstrated that the use of a second line would entail higher risk to persons; and
+- (b) appropriate measures have been taken to ensure safety.
+
+### PART 4 — additional requirements for fall arrest systems
+
+**1.**[^key-683b59652ac7fdef7ff2ec0ae8410b61] A fall arrest system shall incorporate a suitable means of absorbing energy and limiting the forces applied to the user’s body.
+
+**2.**[^key-e30dc0608d596a8bd00c69cb21aa10ce] A fall arrest system shall not be used in a manner –
+
+- (a) which involves the risk of a line being cut;
+- (b) where its safe use requires a clear zone (allowing for any pendulum effect), which does not afford such zone; or
+- (c) which otherwise inhibits its performance or renders its use unsafe.
+
+### PART 5 — additional requirements for work restraint systems[^key-e529c525e0173fd227941944b204f9c9]
+
+A work restraint system shall –
+
+- (a) be so designed that, if used correctly, it prevents the user from getting into a position in which a fall can occur; and
+- (b) be used correctly.
+
+## SCHEDULE 7 — REQUIREMENTS FOR LADDERS
+
+Regulation 8(e)
+
+**1.**[^key-531d875cf1b9952ef4262302b1ed7518] Every employer shall ensure that a ladder is used for work at height only if a risk assessment under regulation 3 of the Management Regulations has demonstrated that the use of more suitable work equipment is not justified because of the low risk and –
+
+- (a) the short duration of use; or
+- (b) existing features on site which he cannot alter.
+
+**2.**[^key-dbf8c6961855ee6c174962b6df74bb02] Any surface upon which a ladder rests shall be stable, firm, of sufficient strength and of suitable composition safely to support the ladder so that its rungs or steps remain horizontal, and any loading intended to be placed on it.
+
+**3.**[^key-9288c689b044de843a1dd315158a869b] A ladder shall be so positioned as to ensure its stability during use.
+
+**4.**[^key-744c84933550c8af6f802f4908a7c829] A suspended ladder shall be attached in a secure manner and so that, with the exception of a flexible ladder, it cannot be displaced and swinging is prevented.
+
+**5.**[^key-7baf07be034162f55882c2c76e852bff] A portable ladder shall be prevented from slipping during use by –
+
+- (a) securing the stiles at or near their upper or lower ends;
+- (b) an effective anti-slip or other effective stability device; or
+- (c) any other arrangement of equivalent effectiveness.
+
+**6.**[^key-e5da6dfe27b0526662926b9d74e387c5] A ladder used for access shall be long enough to protrude sufficiently above the place of landing to which it provides access, unless other measures have been taken to ensure a firm handhold.
+
+**7.**[^key-08ae4fb6b802261094b2d7fb35db4fdb] No interlocking or extension ladder shall be used unless its sections are prevented from moving relative to each other while in use.
+
+**8.**[^key-1974bc1e88450b2d43f1f882040a9584] A mobile ladder shall be prevented from moving before it is stepped on.
+
+**9.**[^key-2a61f4d7fecec7d6bf54a4d786e0fe56] Where a ladder or run of ladders rises a vertical distance of 9 metres or more above its base, there shall, where reasonably practicable, be provided at suitable intervals sufficient safe landing areas or rest platforms.
+
+**10.**[^key-0956a6401829b7362783fee2ee7e179d] Every ladder shall be used in such a way that –
+
+- (a) a secure handhold and secure support are always available to the user; and
+- (b) the user can maintain a safe handhold when carrying a load unless, in the case of a step ladder, the maintenance of a handhold is not practicable when a load is carried, and a risk assessment under regulation 3 of the Management Regulations has demonstrated that the use of a step ladder is justified because of –
+  - (i) the low risk; and
+  - (ii) the short duration of use.
+
+## SCHEDULE 8 — PARTICULARS TO BE INCLUDED IN A REPORT OF INSPECTION
+
+Regulation 12(7)
+
+**1.**[^key-1f84b03aceb6af6e77eaa6ea8d1e8962] The name and address of the person for whom the inspection was carried out.
+
+**2.**[^key-29ed38c4f4d0cfc0ca81e41d44a06ced] The location of the work equipment inspected.
+
+**3.**[^key-21e0d4a201645237b18b4baf9d959627] A description of the work equipment inspected.
+
+**4.**[^key-afab724994bd2d0cab2032d048505baa] The date and time of the inspection.
+
+**5.**[^key-a17d8e64274cd33bb5551576b8666522] Details of any matter identified that could give rise to a risk to the health or safety of any person.
+
+**6.**[^key-41870190b2712cd2b1ba39e6fe088fc7] Details of any action taken as a result of any matter identified in paragraph 5.
+
+**7.**[^key-8fa81a8775f0e19ade53b014cf1ac6b9] Details of any further action considered necessary.
+
+**8.**[^key-243644365c258a60c71ab6a6c668952b] The name and position of the person making the report.
+
+## SCHEDULE 9 — REVOCATIONS[^key-6aa6453f58c24a519e7dbca0bc988333]
+
+Regulation 19
+
+<table>
+<thead>
+<tr><th><em>Column1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th>Statutory Provision</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>Shipbuilding and Ship-repairing Regulations (Northern Ireland) 1971</td><td><a href="https://www.legislation.gov.uk/nisro/1971/372">S.R. &amp; O. 1971 No. 372</a></td><td>Regulations 6 to 9, 11 to 19 and 21 to 29</td></tr>
+<tr><td>Docks Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/320">S.R. 1989 No. 320</a></td><td>Regulation 7(4) and (5); in regulation 7(6) the words “and (c) any other place not being a quay or jetty where any person working or passing might fall a distance of more than 2 metres,”</td></tr>
+<tr><td>Loading and Unloading of Fishing Vessels Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/321">S.R. 1989 No. 321</a></td><td>In regulation 5(3) the words “and (c) any other place not being a quay where any person working or passing might fall a distance of more than two metres;”</td></tr>
+<tr><td>Workplace (Health, Safety and Welfare) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/37">S.R. 1993 No. 37</a></td><td>Regulation 13(1) to (4)</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-7953424bae56ddbe176c4d5e93b076af][^key-7953424bae56ddbe176c4d5e93b076af][^key-7953424bae56ddbe176c4d5e93b076af]
+
+## SCHEDULE 10 — REQUIREMENTS FOR WORK IN DOCKS[^key-83d9bf1365bbc064bcf3a4c14aaa7722]
+
+Regulation 8A
+
+**1.** In relation to work at height where people are engaged in dock operations, there shall be secure and adequate guardrails at the following places—
+
+- (a) every break, dangerous corner and other dangerous part or edge of a dock, wharf, quay or jetty; and
+- (b) every open side of a gangway, footway over a bridge, caisson or dock gate,
+
+except in so far as the provision of such guardrails is impracticable because of the nature of the work carried out there and the work is in progress.
+
+**2.** In this Schedule—
+
+- “dock gate” means any lock gate or other gate which can close off the entrance to the dock or part of the dock from the sea or other waterway but does not include any gate on land which controls access by vehicles or pedestrians;
+- “dock operations” means—
+  - (a) the loading or unloading of goods on or from a ship at dock premises;
+  - (b) the embarking or disembarking of passengers on or from a ship at dock premises;
+  - (c) any activity incidental to the activities in sub-paragraph (a) or (b) which takes place on dock premises, including any of the following—
+    - (i) the fuelling and provisioning of a ship;
+    - (ii) the mooring of a ship;
+    - (iii) the storing, sorting, inspecting, checking, weighing or handling of goods;
+    - (iv) the movement of goods, passengers or vehicles;
+    - (v) the use of welfare amenities in relation to the activities in sub-paragraph (a), (b) or (c)(i) to (iv);
+    - (vi) attending dock premises for the purposes of the activities in sub-paragraph (a), (b) or (c)(i) to (v); or
+    - (vii) the embarking or disembarking on or from a ship of its crew at dock premises,
+
+but does not include—
+
+- (d) the loading or unloading of goods or embarking or disembarking of persons on or from a pleasure craft or any activity incidental to those activities; or
+- (e) beach landing operations wholly carried out by serving members of Her Majesty’s Forces or visiting forces within the meaning of the provisions of Part 1 of the Visiting Forces Act 1952 or a combination of both;
+
+- “dock premises” means any dock, wharf, quay, jetty or other place at which ships load or unload goods or embark or disembark passengers, together with neighbouring land or water which is used or occupied, or intended to be used or occupied, for those or incidental activities, and any part of a ship when used for those or incidental activities;
+- “freight container” means a container as defined in regulation 2 of the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992;
+- “goods” includes—
+  - (a) animals;
+  - (b) pallets and freight containers;
+  - (c) waste;
+  - (d) solid ballast;
+  - (e) vehicles which are being transported as cargo;
+- “pleasure craft” means any description of vessel when used solely for sport or recreation, other than for carrying fare paying passengers;
+- “ship” includes all vessels and hovercraft which operate on water or land and water;
+- “vehicle” includes all lift trucks, locomotives and rolling stock, and trailers and semi-trailers and other mechanical plant which moves on wheels, tracks, skids or any combination thereof;
+- “vessel” means any description of craft used for the transport of goods or passengers or the storage of goods or the accommodation of passengers on water, whether used in navigation or not;
+- “welfare amenities” means—
+  - (a) sanitary conveniences;
+  - (b) baths and shower baths;
+  - (c) washing facilities;
+  - (d) a supply of wholesome drinking water;
+  - (e) a supply of protective clothing, that is to say, clothing suitable for the protection of the wearer in refrigerated spaces or against dirt from handling dirty goods or against inclement weather;
+  - (f) accommodation and facilities for changing into clothing worn during working hours and for storing and drying clothing;
+  - (g) canteens, or accommodation and facilities (including facilities for heating food and boiling water) for workers employed at dock premises to eat meals provided by themselves;
+  - (h) shelters for use during inclement weather.
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations impose health and safety requirements with respect to work at height, with certain exceptions including by instructors or leaders in recreational climbing and caving.
+
+**2.** These Regulations give effect as respects Northern Ireland to Directive [2001/45/EC](https://www.legislation.gov.uk/european/directive/2001/0045) of the European Parliament and of the Council (O.J. No. L195, 19.7.2001, p. 46), amending Council Directive [89/655/EEC](https://www.legislation.gov.uk/european/directive/1989/0655) (O.J. No. L393, 30.12.89, p. 13) concerning the minimum safety and health requirements for the use of work equipment by workers at work. They contain additional provisions, including provisions which replace regulations giving effect to certain provisions of Council Directives [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391) (O.J. No. L183, 2.6.89, p. 1) on the introduction of measures to encourage improvements in the safety and health of workers at work and [92/57/EEC](https://www.legislation.gov.uk/european/directive/1992/0057) (O.J. No. L245, 26.8.92, p. 6) on the implementation of minimum health and safety requirements at temporary or mobile construction sites.
+
+**3.** The Regulations –
+
+- (a) impose duties relating to the organising and planning of work at height (*regulation 4*);
+- (b) require that persons at work be competent, or supervised by competent persons (*regulation 5*);
+- (c) prescribe steps to be taken to avoid risk from work at height (*regulation 6 and Schedule 2*);
+- (d) impose duties relating to the selection of work equipment (*regulation 7*);
+- (e) impose duties in relation to particular work equipment (*regulation 8 and Schedules 3 to 7*);
+- (f) impose duties for the avoidance of risks from fragile surfaces, falling objects and danger areas (*regulations 9 to 11*);
+- (g) require the inspection of certain work equipment and of places of work at height (*regulations 12 and 13 and Schedule 8*);
+- (h) impose duties on persons at work (*regulation 14*);
+- (i) provide for exemptions from certain provisions (*regulations 15 and 16*); and
+- (j) amend, repeal or revoke certain enactments (*regulations 17 to 19 and Schedule 9*).
+
+**4.** In Great Britain the corresponding Regulations are the Work at Height Regulations 2005 ([S.I. 2005/735](https://www.legislation.gov.uk/uksi/2005/735)). The Great Britain Health and Safety Executive has prepared a full regulatory impact assessment in relation to these Regulations and a copy of that assessment together with a Northern Ireland Supplement prepared by the Health and Safety Executive for Northern Ireland is held at the offices of that Executive at 83 Ladas Drive, Belfast BT6 9FR from where a copy may be obtained on request.
+
+**5.** A person who contravenes the Regulations is guilty of an offence under Article 31 of the Health and Safety at Work (Northern Ireland) Order 1978 and is liable, on summary conviction, to a fine not exceeding the statutory maximum (currently £5,000) or, on conviction on indictment, to a fine.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development: *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5)
+
+[^f00002]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
+
+[^f00003]: Footnote: Article 17 must be read with [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Articles 3(2) and 4(2)
+
+[^f00004]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); the general purposes of Part II referred to in Article 17(1) were extended by [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), Article 3(1). Article 47A was inserted by Article 3, and Article 2 was amended by Articles 4 and 8 of [S.I. 1997/1774 (N.I. 16)](https://www.legislation.gov.uk/nisi/1997/1774)
+
+[^f00005]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
+
+[^f00006]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1 paragraphs 8 and 18(c)
+
+[^key-90c597fe3c677d9c3bbfbad5360ae882]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-48a0884f479d9d2d517e2d272da117cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/279/regulation/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-e2ff8e0ab9326e81dbef92c33cc3f859]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/279/regulation/2/1) substituted (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 6 para. 9](https://www.legislation.gov.uk/nisr/2007/291/schedule/6/paragraph/9) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
+
+[^key-ea5238caa025e55f2c1cdac6919cc62c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/279/regulation/2/1) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+
+[^f00008]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388), as amended by [S.R. 2001 No. 348](https://www.legislation.gov.uk/nisr/2001/348) and [S.R. 2003 No. 454](https://www.legislation.gov.uk/nisr/2003/454)
+
+[^key-56fc0651c24e29c51ce761b0b29974fd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/279/regulation/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-ac883927bf87bb59bd5c51784d0b8cd9]: Textual amendment: [Reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2005/279/regulation/3/4/b) revoked (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 4
+
+[^f00010]: Footnote: [S.R. 1989 No. 321](https://www.legislation.gov.uk/nisr/1989/321), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
+
+[^key-45055fe88b5c842c4219298294f40d70]: Textual amendment: [Reg. 3(4)(d)](https://www.legislation.gov.uk/nisr/2005/279/regulation/3/4/d) and word omitted (16.4.2007) by virtue of [The Work at Height (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/135)](https://www.legislation.gov.uk/nisr/2007/135), [regs. 1](https://www.legislation.gov.uk/nisr/2007/135/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/135/regulation/2/2/a/ii)
+
+[^f00011]: Footnote: [S.R. 1996 No. 228](https://www.legislation.gov.uk/nisr/1996/228)
+
+[^key-b05b858efc28ecb77b804a0f4087f604]: Textual amendment: [Reg. 3(6)(a)](https://www.legislation.gov.uk/nisr/2005/279/regulation/3/6/a)[(b)](https://www.legislation.gov.uk/nisr/2005/279/regulation/3/6/b) omitted (16.4.2007) by virtue of [The Work at Height (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/135)](https://www.legislation.gov.uk/nisr/2007/135), [regs. 1](https://www.legislation.gov.uk/nisr/2007/135/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2007/135/regulation/2/2/b)
+
+[^key-8279183a2add7baa5697456d18dbc6f5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/279/regulation/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-98bfd301545af979f6f091fe06c26f31]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/279/regulation/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-ba2e4688902cbdb4801c76ebee6f29b2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/279/regulation/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-dd42efec1c53958d1341983d35b36814]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/279/regulation/7) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-e2c3c2e4ba04545bf7b1987371ce377c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/279/regulation/8) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-a2ed501b29f9c20b8e34a06fe8474c88]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/nisr/2005/279/regulation/8A) inserted (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2015/223/regulation/5/2)
+
+[^key-ee600125a9dea0053da4c52e38cb0a7d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/279/regulation/9) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-12a6234b44713d91296e7b0c29988cdf]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/279/regulation/10) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-cc7e0d7bb0d83ef5f2847f88fba19b44]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/279/regulation/11) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-0b869207c7db01b3886b7fa1c6670b6a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/279/regulation/12) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^f00012]: Footnote: [S.R. 1999 No. 304](https://www.legislation.gov.uk/nisr/1999/304), as amended by [S.R. 2003 No. 423](https://www.legislation.gov.uk/nisr/2003/423)
+
+[^key-4b65f71ad1af7220b49b1096c259047a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/279/regulation/13) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-1b6d97f04c19c61ed90ff453d47a1d40]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/279/regulation/14) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-5c18f614e553a82631ff6fe266e1ce00]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2005/279/regulation/14A) inserted (16.4.2007) by [The Work at Height (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/135)](https://www.legislation.gov.uk/nisr/2007/135), [regs. 1](https://www.legislation.gov.uk/nisr/2007/135/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/135/regulation/2/3)
+
+[^key-7536aac7ae26ddcdc8397ad7d0558436]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/279/regulation/15) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-7f123ef8176f645468fdb70499cb0433]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/279/regulation/16) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-b0f2552e26d2f8dbc1f2b8f18096c5df]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/279/regulation/17) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^f00013]: Footnote: [S.R. 1999 No. 305](https://www.legislation.gov.uk/nisr/1999/305), as amended by [S.I. 1999/2001](https://www.legislation.gov.uk/uksi/1999/2001), [S.R. 2000 No. 87](https://www.legislation.gov.uk/nisr/2000/87), [S.I. 2001/1701](https://www.legislation.gov.uk/uksi/2001/1701), [S.R. 2003 No. 423](https://www.legislation.gov.uk/nisr/2003/423) and [S.I. 2004/129](https://www.legislation.gov.uk/uksi/2004/129)
+
+[^key-08732a6367be703da741d3fc6167388a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/279/regulation/18) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^f00014]: Footnote: [1965 c. 20](https://www.legislation.gov.uk/apni/1965/20)
+
+[^key-0dbac83536b26cd00f7b6e5999d63138]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/279/regulation/19) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-49112dbdf9bdd18aeb419a178fc4ab55]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/1/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^f00015]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
+
+[^f00016]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45)
+
+[^key-6771a37549a0c5aa32a3c569f755ec23]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/1/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-5c0eaadf626ae58d2f39a0189b385f0c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/1/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-9e2d11c1ceed19cbbdf1568371b1ff50]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/1/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-bc333c1333bc726d6b3fe009bd68bb5e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/1/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^f00017]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
+
+[^key-220e0d7ba1cf243fc58318de605ce02d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/279/schedule/1/paragraph/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-b3f452c0e00d8fb719a98928d560ed2f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-0544ac8a132b31e65ec6e48e3552f0ee]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/3/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-5c10ae7d91b98530be152dfc811d9e74]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/3/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-116b0c63038d02f2fefe5de3b4cc66e9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/3/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-9be52eac5c87866dd11352c58dbe232c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/3/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-8828119a76b8d80854597a7c37b6a329]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/3/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-1416a192e6695f878a77fbb3e8431dd3]: Commencement: [Sch. 4 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/1/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-7d29b94cc5a8282bb16dbaa86075bb7d]: Commencement: [Sch. 4 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/1/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-ea14df12365b61e91752e463778c8b25]: Commencement: [Sch. 4 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/1/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-a71433ed0a71b9594339a19e2e3a9495]: Commencement: [Sch. 4 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/1/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-a8e69389b0e69006eb11d0dda4cf97db]: Commencement: [Sch. 4 Pt. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/1/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-8494aa1df222a87fc2f66fb82292ee16]: Commencement: [Sch. 4 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/1/paragraph/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-17781f57475ff6f068dae67f07a99a32]: Commencement: [Sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/2/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-fb4b7f8b10d8ab1c3694630208fa53ec]: Commencement: [Sch. 4 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/2/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-687337dfeec65e8d8b29c89cb97c64e0]: Commencement: [Sch. 4 Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/2/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-dc4777c35702efb7de3de4fdae485a98]: Commencement: [Sch. 4 Pt. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/2/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-6815db0346d66244d9c0fc2f8ee40970]: Commencement: [Sch. 4 Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/2/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^f00018]: Footnote: [S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119), as amended by [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
+
+[^key-881ff58f0d9ff9e1bf080b0ef01dea03]: Commencement: [Sch. 4 Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/279/schedule/4/part/2/paragraph/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-c18d957a0680a2cbd72415c9e1b7fe4e]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/5/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-20e357c7861f0fd2964e0e03ef2a0e7a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/5/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-4db61a3c1ca3d1d103b1369db0a5b64c]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/5/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-279c282283e02a122372e46c7a16701f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/5/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-298946b2c33597781e1c650c62cc3541]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/5/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-c051ebd2cd63f43807e700326d390050]: Commencement: [Sch. 6 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/1/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-c48a80f7716ad12d14fc7ff25fccca5d]: Commencement: [Sch. 6 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/1/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-a4b788266520142ad76a1e39e3b6754d]: Commencement: [Sch. 6 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/1/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-0d589f570bd24f7ab55cfd295f3d423e]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-5824d468d9d40723d85cc281670e8ecd]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-2e5cb5731a83ac5f9a3f6fd952366d82]: Commencement: [Sch. 6 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/3/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-3b6fa7b603289e61554d95d0ee8952a1]: Textual amendment: Words in [Sch. 6 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/3/paragraph/1) inserted (16.4.2007) by [The Work at Height (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/135)](https://www.legislation.gov.uk/nisr/2007/135), [regs. 1](https://www.legislation.gov.uk/nisr/2007/135/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2007/135/regulation/2/4/a)
+
+[^key-5743a1765e9ee43af35bbbbe5664b873]: Textual amendment: Words in [Sch. 6 Pt. 3 para. 1(a)](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/3/paragraph/1/a) omitted (16.4.2007) by virtue of [The Work at Height (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/135)](https://www.legislation.gov.uk/nisr/2007/135), [regs. 1](https://www.legislation.gov.uk/nisr/2007/135/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2007/135/regulation/2/4/b)
+
+[^key-c3f5624975473290f4dfdbaf1cfa5a28]: Commencement: [Sch. 6 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/3/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-9611b7c83a3c9ec03cde2f95fad15b80]: Commencement: [Sch. 6 Pt. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/3/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-683b59652ac7fdef7ff2ec0ae8410b61]: Commencement: [Sch. 6 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/4/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-e30dc0608d596a8bd00c69cb21aa10ce]: Commencement: [Sch. 6 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/4/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-e529c525e0173fd227941944b204f9c9]: Commencement: [Sch. 6 Pt. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/6/part/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-531d875cf1b9952ef4262302b1ed7518]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-dbf8c6961855ee6c174962b6df74bb02]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-9288c689b044de843a1dd315158a869b]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-744c84933550c8af6f802f4908a7c829]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-7baf07be034162f55882c2c76e852bff]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-e5da6dfe27b0526662926b9d74e387c5]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-08ae4fb6b802261094b2d7fb35db4fdb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/7) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-1974bc1e88450b2d43f1f882040a9584]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/8) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-2a61f4d7fecec7d6bf54a4d786e0fe56]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/9) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-0956a6401829b7362783fee2ee7e179d]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/nisr/2005/279/schedule/7/paragraph/10) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-1f84b03aceb6af6e77eaa6ea8d1e8962]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/1) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-29ed38c4f4d0cfc0ca81e41d44a06ced]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/2) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-21e0d4a201645237b18b4baf9d959627]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/3) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-afab724994bd2d0cab2032d048505baa]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/4) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-a17d8e64274cd33bb5551576b8666522]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/5) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-41870190b2712cd2b1ba39e6fe088fc7]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/6) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-8fa81a8775f0e19ade53b014cf1ac6b9]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/7) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-243644365c258a60c71ab6a6c668952b]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/nisr/2005/279/schedule/8/paragraph/8) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-6aa6453f58c24a519e7dbca0bc988333]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/2005/279/schedule/9) in operation at 11.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/279/regulation/1)
+
+[^key-7953424bae56ddbe176c4d5e93b076af]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/nisr/2005/279/schedule/9) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
+
+[^key-83d9bf1365bbc064bcf3a4c14aaa7722]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/nisr/2005/279/schedule/10) added (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2015/223/regulation/5/3)

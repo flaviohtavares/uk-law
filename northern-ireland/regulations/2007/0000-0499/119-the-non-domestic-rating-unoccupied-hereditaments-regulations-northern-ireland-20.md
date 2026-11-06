@@ -1,0 +1,186 @@
+---
+title: The Non-Domestic Rating (Unoccupied Hereditaments) Regulations (Northern Ireland) 2007
+id: nisr/2007/119
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-03-01'
+text_date: '2010-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/119
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/119/pdfs/nisr_20070119_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/119/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Unoccupied Hereditaments) Regulations (Northern Ireland) 2007
+
+> Text as at 2010-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 119
+
+RATES
+
+The Non-Domestic Rating (Unoccupied Hereditaments) Regulations (Northern Ireland) 2007
+
+Made
+
+1st March 2007
+
+Coming into operation
+
+1st April 2007
+
+The Department of Finance and Personnel[^f00001], in exercise of the powers conferred by Article 25A(6) of, and paragraph 1(1) to (3) of Schedule 8A to, the Rates (Northern Ireland) Order 1977[^f00002], makes the following Regulations:
+
+## 1. Citation and commencement[^key-5be7c44602cc696a6b63bc1495eb1f6d]
+
+These Regulations may be cited as the Non-Domestic Rating (Unoccupied Hereditaments) Regulations (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
+
+## 2. Interpretation[^key-bb1e03603e2618dd76dd273ab4700bb2]
+
+(1) In these Regulations—
+
+- “the 1989 Order” means the Insolvency (Northern Ireland) Order 1989[^f00003];
+- “adapted” means suitable for use, whether altered for the purpose or otherwise;
+- “public body” means—
+  - (a) a body established by or under a statutory provision; or
+  - (b) a department of the Government of the United Kingdom;
+- “qualifying industrial hereditament” means any hereditament other than a retail hereditament in relation to which all buildings comprised in the hereditament are constructed or adapted—
+  - (a) in the course of a trade or business; and
+  - (b) for one or more of the following purposes, or one or more such purposes and one or more such purposes ancillary thereto—
+    - (i) the manufacture, repair or adaptation of goods or materials;
+    - (ii) the working or processing of minerals;
+    - (iii) the generation of electricity; and
+- “retail hereditament” means any hereditament where any building or part of a building comprised in the hereditament is constructed or adapted for the purpose of the retail provision of goods or services on or from the hereditament.
+
+(2) Where a hereditament which has been unoccupied becomes occupied on any day and becomes unoccupied again on the expiration of a period of less than six weeks beginning with and including that day, then for the purposes of ascertaining whether the hereditament has been continuously unoccupied for a period mentioned in paragraph 1 or 2 of the Schedule, it shall be treated as having been unoccupied on that day and throughout the period.
+
+(3) For the purposes of paragraphs 1 and 2 of the Schedule, a hereditament which has not previously been occupied shall be treated as becoming unoccupied on the day for which the hereditament is first shown in a valuation list.
+
+## 3. Hereditaments in respect of which a person is liable for the unoccupied property rate[^key-c8beadcad77fa68b16055cb6f9a3201c]
+
+The class of hereditament prescribed for the purposes of Article 25A(2)(a) of, and paragraph 1(1)(a) of Schedule 8A to, the Rates (Northern Ireland) Order 1977 consists of any hereditament included in a NAV list—
+
+- (a) which consists of a building, or any part of a building, together with any land ordinarily used, or intended for use, for the purposes of that building or part; and
+- (b) to which none of the conditions set out in the Schedule applies.
+
+## 4. Revocation[^key-c19827886ef207404d75d0cda08f8520]
+
+The Non-Domestic Rating (Unoccupied Property) Regulations (Northern Ireland) 2004[^f00004] are revoked.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 1st March 2007
+
+Brian McClure
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE — Conditions referred to in regulation 3(b)
+
+Regulations 2(2) and (3) and 3(b)
+
+**1.**[^key-ecbb8673a266c046a08e2b07bb955502] The whole hereditament has, subject to regulation 2(2), been unoccupied for a continuous period not exceeding three months.
+
+**2.**[^key-e21517f5f8abb7c6b74f3391e30502f9] The whole hereditament has, subject to regulation 2(2), been unoccupied for a continuous period not exceeding twelve months and the person entitled to possession of the hereditament throughout that period is a person which—
+
+- (a)[^key-27ca9e91b248f453ed1820eaa49d606c] is a company limited by guarantee within the meaning of Part I of the Companies Act 2006;
+- (b) is funded in respect of its capital costs, in whole or in part, by a public body; and
+- (c) provides accommodation and support services for a trade or business.
+
+**3.**[^key-9b19dbecd22ca352102776ed0c91c4fa] The hereditament is a qualifying industrial hereditament.
+
+**4.**[^key-892d581c4ef8ad386be293f98f8636af] The person entitled to possession of the hereditament is prohibited by law from occupying it or allowing it to be occupied.
+
+**5.**[^key-e02065b4d419d47d690f1dd04ee091af] The hereditament is kept vacant by reason of action taken by or on behalf of any public body with a view to prohibiting its occupation or to acquiring it.
+
+**6.**[^key-6f3c150a55a17120a151d3d53b659ad7] Any building or part of a building comprising the hereditament or part of the hereditament is included in a list compiled under Article 42 of the Planning (Northern Ireland) Order 1991[^f00006] or is the subject of a building preservation notice within the meaning of Article 42A of that Order.
+
+**7.**[^key-3fb865e0b317d3972157b8d836d4b871] Any building or part of a building comprising the hereditament or part of the hereditament is included in the Schedule of monuments compiled under Article 3(1) of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^f00007].
+
+**8.**[^key-810b28bfc42ad97a47340689eda21f03] The rateable net annual value of the hereditament is less than £2,000.
+
+**9.**[^key-147d9d70398a351a22ffc8c8e35adef4] The person entitled to possession of the hereditament is so entitled only in his capacity as the personal representative of a deceased person.
+
+**10.**[^key-7f0fa9d24e579e4919c4192f26a8cb6f] There subsists in respect of the estate of the person entitled to possession of the hereditament a bankruptcy order within the meaning of Parts I and VIII to X of the 1989 Order.
+
+**11.**[^key-1a4e8f94f7acb7c5ea1a1fa485e9ddbf] The person entitled to possession of the hereditament is so entitled in his capacity as a trustee under a deed of arrangement to which Chapter 1 of Part VIII of the 1989 Order applies.
+
+**12.**[^key-94eecc0d9a8608f56f240216e5b9db19] The person entitled to possession of the hereditament is—
+
+- (a) a company in administration within the meaning of paragraph 2 of Schedule B1 to the 1989 Order or is subject to an administration order made under the former administration provisions within the meaning of Article 2 of the Insolvency (2005 Order) (Transitional Provisions and Savings) Order (Northern Ireland) 2006; or
+- (b) a company which is subject to a winding-up order made under the 1989 Order or which is being wound up voluntarily under that Order.
+
+**13.**[^key-b922671dca70793366627dd907a9c550] The person entitled to possession of the hereditament is so entitled in his capacity as liquidator by virtue of an order made under Article 98 or Article 123 of the 1989 Order.
+
+**14.**[^key-99b14db677e2fc46bae72eba537a1a02] The person entitled to possession of the hereditament is the Foyle, Carlingford and Irish Lights Commission.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Under Article 25A of the Rates (Northern Ireland) Order 1977, as amended, rates are payable on unoccupied properties that fall within a class prescribed by regulations. The Non-Domestic Rating (Unoccupied Property) Regulations (Northern Ireland) 2004 (“the 2004 Regulations”) prescribed a class consisting of all non-domestic buildings or parts of buildings except those which complied with any of the conditions set out in regulation 3(2) of those Regulations.
+
+These Regulations revoke and re-enact the 2004 Regulations. In addition to drafting amendments, they make the following changes—
+
+- (a) they take account of the introduction of the NAV valuation list for non-domestic properties (regulation 3);
+- (b) they provide that a property unoccupied for not more than twelve months does not give rise to a charge to the unoccupied property rate if the person entitled to possession of the property throughout the period is a company limited by guarantee which provides accommodation and support services for a trade or business and is funded in respect of its capital costs, in whole or in part, by a public body (paragraph 2 of the Schedule).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Finance; *see* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
+
+[^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 25A and Schedule 8A were inserted by Article 4 of, and Schedule 1 to, the Rates (Amendment) (Northern Ireland) Order 2004 ([S.I. 2004/703 (N.I. 4)](https://www.legislation.gov.uk/nisi/2004/703)); paragraph 1 of Schedule 8A was amended by Article 22 of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954))
+
+[^key-5be7c44602cc696a6b63bc1495eb1f6d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-bb1e03603e2618dd76dd273ab4700bb2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/119/regulation/2) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^f00003]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
+
+[^key-c8beadcad77fa68b16055cb6f9a3201c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/119/regulation/3) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-c19827886ef207404d75d0cda08f8520]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/119/regulation/4) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^f00004]: Footnote: [S.R. 2004 No. 153](https://www.legislation.gov.uk/nisr/2004/153)
+
+[^key-ecbb8673a266c046a08e2b07bb955502]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/1) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-e21517f5f8abb7c6b74f3391e30502f9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/2) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-27ca9e91b248f453ed1820eaa49d606c]: Textual amendment: [Sch. para. 2(a)](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/2/a) substituted (1.4.2010) by [Non-Domestic Rating (Unoccupied Hereditaments) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/37)](https://www.legislation.gov.uk/nisr/2010/37), [regs. 1](https://www.legislation.gov.uk/nisr/2010/37/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2010/37/regulation/2/2)
+
+[^key-9b19dbecd22ca352102776ed0c91c4fa]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/3) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-892d581c4ef8ad386be293f98f8636af]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/4) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-e02065b4d419d47d690f1dd04ee091af]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/5) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-6f3c150a55a17120a151d3d53b659ad7]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/6) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^f00006]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220); Article 42A was inserted by Article 25 of the Planning (Amendment) (Northern Ireland) Order 2003 ([S.I. 2003/430 (N.I. 8)](https://www.legislation.gov.uk/nisi/2003/430))
+
+[^key-3fb865e0b317d3972157b8d836d4b871]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/7) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^f00007]: Footnote: [S.I. 1995/1625 (N.I. 9)](https://www.legislation.gov.uk/nisi/1995/1625)
+
+[^key-810b28bfc42ad97a47340689eda21f03]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/8) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-147d9d70398a351a22ffc8c8e35adef4]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/9) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-7f0fa9d24e579e4919c4192f26a8cb6f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/10) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-1a4e8f94f7acb7c5ea1a1fa485e9ddbf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/11) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-94eecc0d9a8608f56f240216e5b9db19]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/12) substituted (1.4.2010) by [Non-Domestic Rating (Unoccupied Hereditaments) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/37)](https://www.legislation.gov.uk/nisr/2010/37), [regs. 1](https://www.legislation.gov.uk/nisr/2010/37/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2010/37/regulation/2/3)
+
+[^key-b922671dca70793366627dd907a9c550]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/13) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)
+
+[^key-99b14db677e2fc46bae72eba537a1a02]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2007/119/schedule/paragraph/14) in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1)

@@ -1,0 +1,252 @@
+---
+title: The Plastic Kitchenware (Conditions on Imports from China) Regulations (Northern Ireland) 2011
+id: nisr/2011/236
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-06-22'
+text_date: '2019-12-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/236
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/236/pdfs/nisrem_20110236_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/236/pdfs/nisr_20110236_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/236/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plastic Kitchenware (Conditions on Imports from China) Regulations (Northern Ireland) 2011
+
+> Text as at 2019-12-14.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 236
+
+Food
+
+The Plastic Kitchenware (Conditions on Imports from China) Regulations (Northern Ireland) 2011
+
+Made
+
+22nd June 2011
+
+Coming into operation
+
+1st July 2011
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred on it by Articles 15(2), 16(2), 25(1)(a) and (3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002].
+
+In so far as these Regulations cannot be made under the powers in the Food Safety (Northern Ireland) Order 1991, the Department of Health, Social Services and Public Safety makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00003].
+
+The Department of Health Social Services and Public Safety has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to food (including drink)[^f00004].
+
+In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, it has had regard to relevant advice given by the Food Standards Agency.
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
+
+## 1. Citation and commencement[^key-523133851370283ab846afee50d2763b]
+
+These Regulations may be cited as the Plastic Kitchenware (Conditions on Imports from China) Regulations (Northern Ireland) 2011 and come into operation on 1st July 2011.
+
+## 2. Interpretation[^key-0deaa8dfe785ae0bad7204d519838e42]
+
+(1) In these Regulations —
+
+- “the Agency” means the Food Standards Agency;
+- “the Commission Regulation” means Commission Regulation (EU) 284/2011 laying down specific conditions and detailed procedures for the import of polyamide and melamine plastic kitchenware originating in or consigned from the People’s Republic of China and Hong Kong Special Administrative Region, China[^f00006];
+- “the Order” means the Food Safety (Northern Ireland) Order 1991; and
+- “relevant product” means plastic kitchenware originating in or consigned from the People’s Republic of China and Hong Kong Special Administrative Region, China.
+
+(2) Any expression used in these Regulations and the Commission Regulation bears the same meaning in these Regulations as it bears in the Commission Regulation and any reference to a numbered Article is a reference to that Article in the Commission Regulation.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Breach of conditions on import of plastic kitchenware from China[^key-24b9111fda88390be292d484121c514a]
+
+(1) A person must not place on the market any relevant product that has been imported into the European Union other than in compliance with the requirements of Article 3(1), (2) and (3) (import conditions).
+
+(2) A person must not place on the market any relevant product until —
+
+- (a) the checks specified in paragraph 1(a) and, as the case may be, paragraph 1(b) of Article 6 (controls at the first point of introduction) have been completed; and
+- (b) the district council has issued a declaration in accordance with Article 3(4) indicating that the relevant product conforms and is acceptable for release into free circulation.
+
+## 4. Offences and penalties[^key-4f7296b72c2673979045d6af803a8c4e]
+
+Any person who fails to comply with regulation 3(1) or (2) is guilty of an offence and liable —
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+## 5. Competent authorities[^key-1c54256a71f5277ae47d540eeb2771bd]
+
+(1) The competent authority for the purposes of Articles 3(1) and (4), 4, 6(1), 7 and 9 is each district council in its district.
+
+(2) The competent authority for the purpose of Article 6(2) is the Agency.
+
+## 6. Execution and enforcement[^key-1fba0d14384372b4092a80822cdeebdc]
+
+(1) It is the duty of each district council in its district to execute and enforce the Commission Regulation and these Regulations.
+
+(2) Each district council must —
+
+- (a) immediately inform the Agency of the results of any laboratory analysis which it has caused to be carried out under Article 6(1) if the results of that analysis indicate non-compliance; and
+- (b) give the Agency such information and assistance as it may reasonably request in connection with the execution and enforcement of these Regulations.
+
+(3) The Commissioners for Her Majesty’s Revenue and Customs will carry out the functions given to customs authorities under Article 8.
+
+## 7. Expenses arising from official controls[^key-cfcb31d65d26e8cf09d5c4b927bc0f63]
+
+(1) Expenses charged pursuant to Article 80 of Regulation 2017/625[^key-b1cb871261e2a6c673e8a92c97fc5314] by a district council to an importer in connection with the checks mentioned in Article 6(1) are payable by the importer on the written demand of the district council.
+
+(2) Where a district council identifies non-compliance —
+
+- (a) with the requirements of Article 3(1),(2) or (3) or Article 4; or
+- (b) following the checks mentioned in Article 6(1)(b),
+
+expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-5285b3cab80cde7b0d4f3a40a3d879ab] by a district council to an importer are payable by the importer on the written demand of the district council.
+
+(3)[^key-30278b2d86b762397898bae9dd265e67] In paragraph (1) and (2) and in regulation 8(3), “**Regulation 2017/625**” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No. 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No. 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No. 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438) (Official Controls Regulation).
+
+## 8. Notices and actions in the case of non-compliance[^key-b76afbc4d164a52ce531b99756381721]
+
+(1) If an importer presents a consignment of relevant product for import into Northern Ireland without submitting a declaration and accompanying laboratory report in accordance with the requirements of Article 3(1),(2) and (3), the district council may by written notice require the importer to submit such a declaration and laboratory report within 14 days of the date of service of the notice.
+
+(2) If the checks provided for in Article 6(1) indicate that —
+
+- (a) where notice has been served under paragraph (1), the declaration specified in Article 3(1) together with the laboratory report specified in Article 3(3) has not been submitted by the date specified in the notice; or
+- (b) where notice has not been served under paragraph (1), the declaration specified in Article 3(1) together with the laboratory report specified in Article 3(3) has not been submitted; or
+- (c) a declaration or a laboratory report has been submitted that does not comply with the requirements of Article 3(1),(2) and (3); or
+- (d) the relevant product that is the subject of the checks —
+  - (i) fails an identity check, or
+  - (ii) does not meet the requirements of[^key-cd2cb32bfd8baf13c34ed410b6cd2478] [Commission Regulation (EU) No. 10/2011](https://www.legislation.gov.uk/european/regulation/2011/0010) on plastic materials and articles intended to come into contact with food, as last amended by Commission Regulation (EU) 2018/831, except for Annex 1 to [Commission Regulation (EU) No. 10/2011](https://www.legislation.gov.uk/european/regulation/2011/0010) which shall be construed as amended from time to time. ,
+
+the district council must take the steps set out in paragraph (3).
+
+(3) The district council must, by written notice —
+
+- (a) require the importer within 60 days of the date of service of the notice —
+  - (i) to re-dispatch the consignment outside the European Union,
+  - (ii) in the case of polyamide kitchenware, to carry out shredding and melting and form the resulting product into articles for purposes other than food contact, or
+  - (iii) at the importer’s expense to destroy the consignment under official control; and
+- (b) inform the importer that if the requirements of sub-paragraph (a) are not complied with the district council may in accordance with Article 138(2) and (4) of Regulation 2017/625[^key-551757a2e535b0716218733a320583ac] arrange for the destruction of the consignment and recover the costs of storage and destruction from the importer.
+
+(4) Any notice under paragraph (1) or (3) may be served on the importer or the importer’s representative.
+
+## 9. Rights of appeal[^key-89d7c3f3e52c0d03de204610f90a7fb6]
+
+(1) Any person who is aggrieved by a decision of an authorised officer to serve a notice under regulation 8(3) may appeal to a court of summary jurisdiction.
+
+(2) The procedure on an appeal to a court of summary jurisdiction under paragraph (1) is by way of notice under Part VII of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00010].
+
+(3) The period within which an appeal under paragraph (1) may be brought is one month from and including the date on which the notice was served on the person desiring to appeal.
+
+(4) Where on an appeal under paragraph (1) a court of summary jurisdiction determines that the decision of the authorised officer is incorrect, the council must give effect to the determination of the court.
+
+(5) Where an appeal has been brought under paragraph (1) within the period specified in paragraph (3), the effect of a notice served under regulation 8(3) is suspended pending the final determination of the appeal.
+
+## 10. Suspension of designation of first point of introduction[^key-f4c0d43573b0fe79b89d60ba992c73b1][^key-59b6ae696d49ee7e692b5e9b82c2b547]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-d5d3f687f90381f154f9912b0f9312dd]
+
+(1) The following provisions of the Order apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order or Part of it is to be construed as a reference to these Regulations —
+
+- (a) Article 19 (offences due to fault of another person);
+- (b) Article 20 (defence of due diligence) with the modification that —
+  - (i) paragraphs (2) to (4) shall apply in relation to an offence of contravening regulation 3 as they apply in relation to an offence under Article 13 or 14, and
+  - (ii) in paragraph (4) the references to “sale” are deemed to include references to “placing on the market”;
+- (c) Article 30(8) (which relates to documentary evidence);
+- (d) Article 36(1) (punishment of offences), in so far as it relates to offences under Article 34(1) as applied by paragraph (3)(a);
+- (e) Article 36(2) and (3), in so far as it relates to offences under Article 34(2) as applied by paragraph (3)(b).
+
+(2) In the application of Article 33 of the Order (powers of entry) for the purposes of these Regulations, the references in paragraph (1) to the Order are to be construed as including references to the Commission Regulation.
+
+(3) The following provisions of the Order apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order is to be construed as including a reference to the Commission Regulation and these Regulations —
+
+- (a) Article 34(1) (obstruction etc. of officers);
+- (b) Article 34(2), with the modification that the reference to “any such requirement as is mentioned in paragraph (1)(b)” is deemed to be a reference to any such requirement as is mentioned in that subsection as applied by sub-paragraph (a).
+
+(4) Article 35 of the Order (time limit for prosecutions) applies to offences under regulation 4 as it applies to offences punishable under Article 36(2) of the Order.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 22nd June 2011.
+
+Catherine Daly
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the execution and enforcement of Commission Regulation (EU) No. 284/2011 laying down specific conditions and detailed procedures for the import of polyamide and melamine plastic kitchenware originating in or consigned from the People’s Republic of China and Hong Kong Special Administrative Region, China (OJ No. L77, 23.3.2011, p.25) (“the Commission Regulation”).
+
+These Regulations —
+
+- (a) prohibit the placing on the market of polyamide and melamine plastic kitchenware from China and Hong Kong that does not comply with the conditions or has not undergone the import checks and certification specified in the Commission Regulation (*regulation 3*);
+- (b) make it an offence to breach any prohibition set out in regulation 3 (*regulation 4*);
+- (c) designate the competent authorities for the purposes of certain provisions of the Commission Regulation (*regulation 5*);
+- (d) provide that it is the duty of the district council to execute and enforce the Commission Regulation and to inform the Food Standards Agency where laboratory analysis of imports of plastic kitchenware indicates non-compliance with that Regulation (*regulation 6*);
+- (e) provide for the expenses incurred by district councils in carrying out the official controls required by the Commission Regulation should be recovered from importers (*regulation 7*);
+- (f) specify the measures to be taken where a district council where a consignment is not accompanied by the required documentation or is otherwise found to be non-compliant (*regulation 8*);
+- (g) provide for a right of appeal by an importer against the decision of an authorised officer of a district council to take measures under regulation 8 (*regulation 9*);
+- (h) provide for the suspension of designated first points of introduction (*regulation 10*); and
+- (i) apply with modifications specified provisions of the Food Safety (Northern Ireland) Order 1991 for the purposes of these Regulations and the Commission Regulation (*regulation 11*).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; see [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and [S.R. 2004 Nos. 482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00004]: Footnote: [S.I 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901)
+
+[^f00005]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
+
+[^key-523133851370283ab846afee50d2763b]: Commencement: Reg. 1 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-0deaa8dfe785ae0bad7204d519838e42]: Commencement: Reg. 2 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^f00006]: Footnote: OJ No. L77, 23.3.2011, p.25
+
+[^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-24b9111fda88390be292d484121c514a]: Commencement: Reg. 3 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-4f7296b72c2673979045d6af803a8c4e]: Commencement: Reg. 4 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-1c54256a71f5277ae47d540eeb2771bd]: Commencement: Reg. 5 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-1fba0d14384372b4092a80822cdeebdc]: Commencement: Reg. 6 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-cfcb31d65d26e8cf09d5c4b927bc0f63]: Commencement: Reg. 7 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-b1cb871261e2a6c673e8a92c97fc5314]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2011/236/regulation/7/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [35(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/35/a)
+
+[^key-5285b3cab80cde7b0d4f3a40a3d879ab]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2011/236/regulation/7/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [35(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/35/b)
+
+[^key-30278b2d86b762397898bae9dd265e67]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2011/236/regulation/7/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [35(c)](https://www.legislation.gov.uk/nisr/2019/218/regulation/35/c)
+
+[^key-b76afbc4d164a52ce531b99756381721]: Commencement: Reg. 8 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-cd2cb32bfd8baf13c34ed410b6cd2478]: Textual amendment: Words in [reg. 8(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2011/236/regulation/8/2/d/ii) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2019/5/regulation/24)
+
+[^key-551757a2e535b0716218733a320583ac]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/nisr/2011/236/regulation/8/3/b) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [36](https://www.legislation.gov.uk/nisr/2019/218/regulation/36)
+
+[^key-89d7c3f3e52c0d03de204610f90a7fb6]: Commencement: Reg. 9 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^f00010]: Footnote: [1981 N.I. 26](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^key-f4c0d43573b0fe79b89d60ba992c73b1]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/236/regulation/10) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [37](https://www.legislation.gov.uk/nisr/2019/218/regulation/37)
+
+[^key-59b6ae696d49ee7e692b5e9b82c2b547]: Commencement: Reg. 10 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)
+
+[^key-d5d3f687f90381f154f9912b0f9312dd]: Commencement: Reg. 11 in operation at 1.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/236/regulation/1)

@@ -1,0 +1,139 @@
+---
+title: The Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005
+id: nisr/2005/193
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-04-05'
+text_date: '2012-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/193
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/193/pdfs/nisr_20050193_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/193/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005
+
+> Text as at 2012-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 193
+
+PENSIONS
+
+The Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005
+
+Made
+
+5th April 2005
+
+Coming into operation
+
+27th April 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Articles 15(7), 17(4) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-b86a8b8a35583048ce24c821c89a4de4]
+
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005 and shall come into operation on 27th April 2005.
+
+(2) In these Regulations –
+
+- (a) “the Order” means the Pensions (Northern Ireland) Order 2005;
+- (b) any reference to a numbered Article is a reference to the Article of the Order bearing that number; and
+- (c) any reference to a numbered section is a reference to the section of the Pension Schemes Act bearing that number.
+
+## 2. Modification of references to “transfer” in the Pension Schemes Act[^key-7020cfe89be97a62d806c79054de8e63]
+
+(1) In their application to cases where an order is made under Article 15(6) (pension liberation: Court’s power to order restitution) or 17(2)(b) (pension liberation: repatriation orders), the provisions referred to in this regulation and regulation 3 shall have effect with the modifications there specified.
+
+(2) The references to “a transfer payment” in section 67 (basic principle as to short service benefit) and any regulations made under that section,[^key-137a50bf6517214e0e18e2cedf1b826c] shall be modified so as to have effect as if those references included a reference to –
+
+- (a) property or money transferred by virtue of an order made by the High Court under Article 15(4) and applied in accordance with directions contained in an order made by virtue of Article 15(6); or
+- (b) money paid by virtue of an order made by the Regulator under Article 17(2)(a) and applied in accordance with directions contained in an order made by virtue of Article 17(2)(b).
+
+(3) Paragraph (5) shall cease to have effect from the coming into operation of paragraph 26 of Schedule 10 to the Order (minor and consequential amendments).
+
+(4) Paragraph (6) shall have effect from the coming into operation of paragraph 26 of Schedule 10 to the Order.
+
+(5) In relation to the references to “transfer credits” in sections 52[^f00005], 69[^f00006] and 71 (provisions supplementary to section 51; form of short service benefit and its alternatives; credits), and any regulations made under any of those sections, the definition of “transfer credits” in section 176(1) (general interpretation) shall be modified so as to apply as if at the end there were added –
+
+> or by reference to a transfer or payment made by virtue of an order under Article 15(4) or 17(2)(a) of the Pensions (Northern Ireland) Order 2005 which the trustees or managers have been directed to apply, pro rata, as if it were a transfer of his accrued rights from another scheme
+
+.
+
+(6) In relation to the references to “transfer credits” in sections 52, 69 and 71, and any regulations made under any of those sections, the definition of “transfer credits” in section 176(1) shall be modified so as to apply as if at the end there were added –
+
+> or
+>
+> - (c) a transfer or payment made by virtue of an order under Article 15(4) or 17(2)(a) of the Pensions (Northern Ireland) Order 2005 which the trustees or managers have been directed to apply, pro rata, as if it were a transfer of his accrued rights from another scheme;
+
+.
+
+(7) The references in section 174(1)(a)(i) and (b) and (3) (linked qualifying service), and any regulations made under that section, to a transfer of rights accrued under one scheme to a second scheme shall be modified so as to have effect as if they included a transfer or payment made by virtue of an order under Article 15(4) or 17(2)(a) which the trustees or managers of the second scheme have been directed to apply, pro rata, as if it were a transfer of accrued rights from the first scheme.
+
+(8) From the coming into operation of paragraph 25 of Schedule 10 to the Order, the modification of section 174, and any regulations made under that section, made in paragraph (7) shall also apply to references in subsection (1)(a)(i) and (iii) and (b) of that section, and in any such regulations, to a transfer payment made in respect of accrued rights to the second scheme or to the trustees or managers of that scheme, and to a cash equivalent or cash transfer sum paid in respect of the member to the trustees or managers of the second scheme.
+
+## 3. Modification of statutory discharges in the Pension Schemes Act[^key-379567bce22351f1e6301fcbb2352cbf]
+
+(1) Section 95(1) (trustees' duties after exercise of option) shall be modified so as to have effect as if after paragraph (b) there were inserted –
+
+> and
+>
+> - (c) the trustees or managers of the scheme have taken all reasonable steps to ensure that, where the member requires them to use the cash equivalent in one of the ways specified in section 91(2)(a) or (b) or, as the case may be, 91(3)(a) or (b) (ways of taking right to cash equivalent), the occupational pension scheme or, as the case may be, the personal pension scheme to which the payment is to be made is a scheme whose trustees or managers are acting in good faith in relation to the scheme,
+
+.
+
+(2) Section 97M[^f00007] (effect of transfer on trustees' duties) shall be modified so as to have effect as if the reference to compliance with a transfer notice included a duty to take all reasonable steps to ensure that where such compliance involved making a payment to an eligible scheme as defined in section 97F(6)[^f00008] (power to give transfer notice – meaning of “eligible scheme”), that scheme is a scheme whose trustees or managers are acting in good faith in relation to the scheme.
+
+(3) From the coming into operation of Article 241[^f00009] (early leavers: cash transfer sums and contribution refunds), section 97AG(3) (duties of trustees or managers following exercise of right) shall be modified so as to have effect as if after “carry out that requirement” there were inserted “and have taken all reasonable steps to ensure that where the member has opted for one of the permitted ways of using the cash transfer sum set out in section 97AE(2)(a) or (b) (permitted ways of using cash transfer sum), that scheme to whose trustees or managers the payment is made is a scheme whose trustees or managers are acting in good faith in relation to the scheme”.
+
+Sealed with the Official Seal of the Department for Social Development on 5th April 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations make provision in relation to payments made into an occupational or personal pension scheme by reason of a restitution order made by the High Court under Article 15 of the Pensions (Northern Ireland) Order 2005 (“the Order”) or of a repatriation order made by the Pensions Regulator under Article 17 of the Order.
+
+Regulation 2 modifies certain references in the Pension Schemes (Northern Ireland) Act 1993 (“the Pension Schemes Act”) (and in regulations made under powers in that Act) to “a transfer payment” and to “transfer credits” so that those terms apply appropriately to payments made to schemes under orders made under Article 15 or 17 of the Order.
+
+Regulation 3 modifies the statutory discharges given to trustees or managers of schemes in the Pension Schemes Act so that when an order under Article 15 or 17 of the Order is made, the trustees or managers shall have the benefit of those discharges if they have met the duty specified.
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of Articles 15(7) and 17(4) of the Order, some of the enabling provisions under which these Regulations are made, on 25th February 2005 for the purpose only of authorising the making of regulations and on 6th April 2005 for all other purposes.
+
+As these Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^key-b86a8b8a35583048ce24c821c89a4de4]: Commencement: Reg. 1 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
+
+[^key-7020cfe89be97a62d806c79054de8e63]: Commencement: Reg. 2 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
+
+[^key-137a50bf6517214e0e18e2cedf1b826c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/2) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [22](https://www.legislation.gov.uk/nisr/2012/124/article/22)
+
+[^f00005]: Footnote: Section 52 is amended by paragraph 43 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 64 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and Part III (11) of Schedule 9 to the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19)
+
+[^f00006]: Footnote: Section 69 is amended by Part I of Schedule 10 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^key-379567bce22351f1e6301fcbb2352cbf]: Commencement: Reg. 3 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
+
+[^f00007]: Footnote: Section 97M was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00008]: Footnote: Section 97F was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00009]: Footnote: Article 241 of the Pensions (Northern Ireland) Order 2005 inserts sections 97AA to 97AI in the Pension Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49)

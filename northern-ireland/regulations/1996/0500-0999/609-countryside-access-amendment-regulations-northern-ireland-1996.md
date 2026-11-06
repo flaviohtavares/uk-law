@@ -1,0 +1,138 @@
+---
+title: Countryside Access (Amendment) Regulations (Northern Ireland) 1996
+id: nisr/1996/609
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1996-12-23'
+text_date: '1998-11-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/609
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/609/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Countryside Access (Amendment) Regulations (Northern Ireland) 1996
+
+> Text as at 1998-11-30.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 609
+
+AGRICULTURE
+
+Countryside Access (Amendment) Regulations (Northern Ireland) 1996
+
+Made
+
+23rd December 1996
+
+Coming into operation
+
+1st January 1997
+
+The Department of Agriculture being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by that section, and by Article 3(1) and (2) of the Agriculture (Conservation Grants) (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-a521c66c8eee2ae02632d2b0a10c79e3]
+
+(1) These Regulations may be cited as the Countryside Access (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 1st January 1997.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendments to the Countryside Access Regulations (Northern Ireland) 1996[^key-bf8b4841e63799fde63e523de7e46861]
+
+(1) The Countryside Access Regulations (Northern Ireland) 1996[^f00005] shall be amended as provided by paragraphs (2) to (6).
+
+(2) In regulation 2(2) (Interpretation)—
+
+- (a) after the definition of “access strategy document” there shall be inserted the following definition—
+
+  > - “agri-environment scheme” means an arrangement which is—
+  >   - (a) regulated by a statutory provision providing for the payment of aid to persons who give an undertaking or enter an agreement by reference to that statutory provision; and
+  >   - (b) approved by the Commission of the European Communities under Article 7(3) of the Council Regulation as part of a zonal programme drawn up pursuant to Article 3 of the Council Regulation
+
+  ,
+- (b) after the definition of “beneficiary” there shall be inserted the following definitions—
+
+  > - “the Commission Regulation” means Commission Regulation [(EC) No. 746/96](https://www.legislation.gov.uk/european/regulation/1996/0746)[^f00006] laying down detailed rules for the application of the Council Regulation;
+  > - “the Council Regulation” means Council Regulation [(EEC) No. 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078)[^f00007] on agricultural production methods compatible with the requirements of the protection of the environment and the maintenance of the countryside as last amended by Commission Regulation [(EC) No. 2772/95](https://www.legislation.gov.uk/european/regulation/1995/2772)[^f00008] as rectified by Commission Regulation [(EC) No. 1962/96](https://www.legislation.gov.uk/european/regulation/1996/1962)[^f00009];
+- (c) in the definition of “eligible person” after the word “document” there shall be added—
+
+  > and is not prohibited from providing an undertaking pursuant to an agri-environment scheme either by application of a penalty consequent upon Article 20(2) of the Commission Regulation (which requires member States to determine a system of penalties which are effective, commensurate with their purpose and of adequate deterrent effect to be imposed for breaches of undertakings) or by application of Article 20(3) of the Commission Regulation (which requires a person who, intentionally or by reason of gross negligence, makes a false declaration, to be excluded from all aid under the Council Regulation);
+
+(3) In regulation 6 (Change of occupation)—
+
+- (a) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) The Department shall not accept an undertaking referred to in paragraph (1)(*b*) unless it is satisfied that the new occupier is not prohibited from providing an undertaking pursuant to an agri-environment scheme by application of Article 10 of the Commission Regulation (which restricts duplication of aid payments), by application of a penalty consequent upon Article 20(2) of the Commission Regulation (which requires member States to determine a system of penalties which are effective, commensurate with their purpose and of adequate deterrent effect to be imposed for breaches of undertakings) or by application of Article 20(3) of the Commission Regulation (which requires a person who, intentionally or by reason of gross negligence, makes a false declaration, to be excluded from all aid under the Council Regulation).
+
+  ; and
+- (b) for paragraph (6) there shall be substituted—
+
+  > (6) The foregoing provisions of this Regulation shall be subject to Article 11 of the Commission Regulation (which governs transfers of holdings) and Article 12 of the Commission Regulation (force majeure);
+
+  .
+
+(4) In regulation 7 (Amounts of aid and claims) for paragraph (1) there shall be substituted—
+
+> (1) Subject to the provisions of these Regulations, of Article 20(3) of the Commission Regulation (which requires a person who, intentionally or by reason of gross negligence, makes a false declaration, to be excluded from all aid under the Council Regulation) and, in respect of an application made on or after 1st January 1997, of Article 10 of the Commission Regulation (which restricts duplication of aid payments), the Department shall make payments of aid in respect of each year of the duration of the undertakings referred to in regulation 3.
+
+(5)[^key-3cd97915e8a295dbbe927a844d8f1357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-3cd97915e8a295dbbe927a844d8f1357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Agriculture for Northern Ireland on 23rd December 1996.
+
+Liam McKibben
+
+Assistant Secretary
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Countryside Access Regulations (Northern Ireland) 1996 (“the principal Regulations”) which implement in part a zonal programme approved by the European Commission (“the Commission”) under Article 7 of Council Regulation [(EEC) No. 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078) (O.J. No. L215, 30.7.92, p. 85) (the “Agri-environment Regulation”) on agricultural production methods compatible with the requirements of the protection of the environment and the maintenance of the countryside.
+
+These Regulations make provision to implement as respects Northern Ireland Commission Regulation [(EC) No. 746/96](https://www.legislation.gov.uk/european/regulation/1996/0746) (O.J. No. L102, 25.4.96, p. 19) (the “Commission Regulation” laying down detailed rules for the application of the Agri-environment Regulation, in particular Article 10 (which restricts duplication of aid payments), Article 11 (which governs transfers of holdings entered into agreements or undertakings under the Agri-environment Regulation), Article 12 (force majeure) and Article 20 (which provides for recovery of wrongful payments with interest, a penalty system and exclusion for false declarations).
+
+The Regulations—
+
+- (a) restrict eligibility where the applicant is excluded from giving an undertaking under an agri-environment scheme as a result of a penalty applied under Article 20(2) of the Commission Regulation or pursuant to Article 20(3) of the Commission Regulation,
+- (b) specify that entitlement to payment under the principal Regulations is subject to the provisions of Article 10 and Article 20(3) of the Commission Regulation,
+- (c) make provision to enable the Department to recover grant and impose penalties in accordance with Articles 11, 12 and 20 of Commission Regulation, and
+- (d) set a rate of interest where recovery of money is to include interest in accordance with Article 20(1) of Commission Regulation.
+
+The Regulations form part of a package submitted to the Commission under Article 23 of Commission Regulation.
+
+No Compliance Cost Assessment in relation to these Regulations has been prepared.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); Section 2 is subject to Schedule 2 to that Act and is to be read with S.I. [1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703) and S.I. [1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795)
+
+[^f00003]: Footnote: S.I. [1995/3212 (N.I. 21)](https://www.legislation.gov.uk/nisi/1995/3212)
+
+[^key-a521c66c8eee2ae02632d2b0a10c79e3]: Commencement: Reg. 1 in operation at 1.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/609/regulation/1/1)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-bf8b4841e63799fde63e523de7e46861]: Commencement: Reg. 2 in operation at 1.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/609/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1996 No. 213](https://www.legislation.gov.uk/nisr/1996/213)
+
+[^f00006]: Footnote: O.J. No. L102, 25.4.96, p. 19
+
+[^f00007]: Footnote: O.J. No. L215, 30.7.92, p. 85 as last amended by Commission Regulation [(EC) No. 2772/95](https://www.legislation.gov.uk/european/regulation/1995/2772) O.J. No. L288, 1.12.95, p. 35
+
+[^f00008]: Footnote: O.J. No. L288, 1.12.95, p. 35
+
+[^f00009]: Footnote: O.J. No. L259, 12.10.96, p. 7
+
+[^key-3cd97915e8a295dbbe927a844d8f1357]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/1996/609/regulation/2/5)[(6)](https://www.legislation.gov.uk/nisr/1996/609/regulation/2/6) revoked (30.11.1998) by [Countryside Access (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/368)](https://www.legislation.gov.uk/nisr/1998/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/368/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/1998/368/regulation/2/2)

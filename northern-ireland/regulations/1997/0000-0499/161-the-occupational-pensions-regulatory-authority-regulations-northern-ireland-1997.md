@@ -1,0 +1,93 @@
+---
+title: The Occupational Pensions Regulatory Authority Regulations (Northern Ireland) 1997
+id: nisr/1997/161
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-03-14'
+text_date: '1997-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/161
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/161/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pensions Regulatory Authority Regulations (Northern Ireland) 1997
+
+> Text as at 1997-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 161
+
+PENSIONS
+
+The Occupational Pensions Regulatory Authority Regulations (Northern Ireland) 1997
+
+Made
+
+14th March 1997
+
+Coming into operation
+
+6th April 1997
+
+The Department of Health and Social Services, in exercise of powers conferred on it by Articles 10(1) and 94(2) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-329006f612f71959985a5e3b5ead0bcb]
+
+(1) These Regulations may be cited as the Occupational Pensions Regulatory Authority Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
+
+(2) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
+
+(3) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00002], where a period of time is expressed to begin on, or be reckoned from, a particular day, that day shall be included in the period.
+
+## 2. Application to the Authority for a review[^key-ec7a153869bfe4dbe43aa3263f40b472]
+
+For the purposes of Article 94(2) (decisions the Authority must review on application being made within prescribed period), the prescribed period is 28 days beginning with the date of the notice referred to in regulation 2 of the Occupational Pensions Regulatory Authority (Determinations and Review Procedure) Regulations 1997[^f00003].
+
+## 3. Time limits for payment of civil penalties under Article 10(1)[^key-2b026c9a93f20834a7a05652d0c4ed68]
+
+For the purposes of Article 10(1) (civil penalties) the period prescribed for the payment of a penalty to the Authority shall be 28 days beginning with the date of the notice in writing sent by the Authority requiring payment of that penalty.
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+John O'Neill
+
+Assistant Secretary
+
+14th March 1997.
+
+(This note is not part of the Regulations.)
+
+The Occupational Pensions Regulatory Authority (Determination and Review Procedure) Regulations 1997 ([S.I. 1997/794](https://www.legislation.gov.uk/uksi/1997/794)) (“the Procedure Regulations”) which (apart from regulations 3(2) and 21) extend to Northern Ireland make provision relating to the review of determinations by the Authority and set time limits for the payment of civil penalties imposed by the Authority. These Regulations make provision corresponding to regulations 3(2) and 21 of the Procedure Regulations.
+
+Regulation 1 provides for the citation, commencement and interpretation of the Regulations.
+
+Regulation 2 prescribes the time within which an application for a review under Article 94(2) of the Pensions (Northern Ireland) Order 1995 (“the Order”) is to be made.
+
+Regulation 3 prescribes the time limit for payment of a civil penalty imposed by the Authority for the purposes of Article 10(1) of the Order.
+
+These Regulations are made under Articles 10(1) and 94(2) of the Order. The Pensions (1995 Order) (Commencement No. 4) Order (Northern Ireland) 1996 ([S.R. 1996 No. 307 (C. 18)](https://www.legislation.gov.uk/nisr/1996/307)) provides for the coming into operation of those Articles, for the purpose only of authorising the making of regulations, on 23rd July 1996.
+
+As these Regulations make in relation to Northern Ireland only provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain, the requirement to consult under Article 117(1) of the Order does not apply by virtue of paragraph (2)(*e*) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^key-329006f612f71959985a5e3b5ead0bcb]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
+
+[^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-ec7a153869bfe4dbe43aa3263f40b472]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 1997/794](https://www.legislation.gov.uk/uksi/1997/794)
+
+[^key-2b026c9a93f20834a7a05652d0c4ed68]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)

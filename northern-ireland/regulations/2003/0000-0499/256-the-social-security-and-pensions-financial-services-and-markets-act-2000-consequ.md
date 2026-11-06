@@ -1,0 +1,758 @@
+---
+title: The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003
+id: nisr/2003/256
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-04-25'
+text_date: '2014-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/256
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/256/pdfs/nisr_20030256_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/256/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003
+
+> Text as at 2014-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 256
+
+SOCIAL SECURITY
+
+PENSIONS
+
+The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003
+
+Made
+
+25th April 2003
+
+Coming into operation
+
+2nd June 2003
+
+The Department for Social Development, in exercise of the powers conferred by the provisions set out in the Schedule, and now vested in it[^f00001], and of all other powers enabling it in that behalf, and after agreement by the Social Security Advisory Committee that proposals to make regulation 3 should not be referred to it[^f00002] and after consultation with such persons as it considers appropriate[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-90df40833e5891be5c36089d95f5573b]
+
+(1) These Regulations may be cited as the Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 and shall come into operation on 2nd June 2003.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-bc9a5192423bb79f04dd4cc25282487f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-143fed477eb8f13cd9d441e60848d70d]
+
+In regulation 10 of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00013] (conversion of payments made in a foreign currency) –
+
+- (a) the words from “Where a payment” to “has been deducted.” shall be numbered as paragraph (1) of that regulation;
+- (b) in that paragraph for “any institution which is authorised under the Banking Act 1987” there shall be substituted “any authorised deposit-taker”;
+- (c) after that paragraph there shall be added the following paragraphs –
+
+  > (2) In this regulation “authorised deposit-taker” means –
+  >
+  > - (a) a person who has permission under Part IV of the Financial Services and Markets Act 2000 to accept deposits; or
+  > - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits.
+  >
+  > (3) Paragraph (2) shall be read with –
+  >
+  > - (a) section 22 of the Financial Services and Markets Act 2000 (regulated activities);
+  > - (b) any relevant order under that section; and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 4. Amendment of the Personal Pension Schemes (Compensation) Regulations[^key-f62f45d4b155e80a8381038149b1c958]
+
+(1) The Personal Pension Schemes (Compensation) Regulations (Northern Ireland) 1988[^f00014] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1 (interpretation) for paragraph (2)[^f00015] there shall be substituted the following paragraphs –
+
+> (2) In these Regulations –
+>
+> - “the Act” means the Pension Schemes (Northern Ireland) Act 1993[^f00016];
+> - “the 2000 Act” means the Financial Services and Markets Act 2000;
+> - “the Appropriate Schemes Regulations” means the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997;
+> - “authorised deposit-taker” means –
+>   - (a) a person who has permission under Part IV of the 2000 Act to accept deposits, or
+>   - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits;
+> - “authorised insurer” means –
+>   - (a) a person who has permission under Part IV of the 2000 Act to effect or carry out contracts of insurance, or
+>   - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of insurance in the United Kingdom;
+> - “the Financial Services Compensation Scheme” has the same meaning as in section 213(2) of the 2000 Act;
+> - “liable scheme” has the meaning assigned by regulation 2;
+> - “scheme” means a personal pension scheme.
+>
+> (3) In paragraph (2) the definitions of “authorised deposit-taker” and “authorised insurer” shall be read with –
+>
+> - (a) section 22 of the 2000 Act (regulated activities);
+> - (b) any relevant order under that section, and
+> - (c) Schedule 2 to that Act.
+
+.
+
+(3) In regulation 2 (application of regulations) –
+
+- (a) for paragraph (a) there shall be substituted the following paragraph –
+
+  > - (a) mentioned in regulation 2(2)(a) of the Appropriate Schemes Regulations (insurance policies and annuity contracts), being a scheme established by an authorised insurer who is subject to the provisions of, or participates in, the Financial Services Compensation Scheme;
+
+  ;
+- (b) paragraph (b) shall be omitted;
+- (c) for paragraphs (c) and (d) there shall be substituted the following paragraphs –
+
+  > - (c) mentioned in regulation 2(2)(b) of the Appropriate Schemes Regulations (unit trust schemes), being a scheme of which the trustee and operator are both subject to the provisions of the Financial Services Compensation Scheme, and
+  > - (d) mentioned in regulation 2(2)(c) of the Appropriate Schemes Regulations (interest-bearing accounts etc. with banks and building societies), being a scheme which is established by an authorised deposit-taker who is subject to the provisions of, or participates in, the Financial Services Compensation Scheme,
+
+  .
+
+(4) In regulation 3 (requirements to be complied with by liable schemes in the event of insolvency) –
+
+- (a) for paragraph (1)[^f00017] there shall be substituted the following paragraph –
+
+  > (1) For the purposes of section 26(1)(b) of the Act[^f00018] (securing of liability for protected rights) the prescribed circumstances are that if the scheme is a liable scheme which takes the form mentioned in any of sub-paragraphs (a), (b) and (c) of regulation 2(2) of the Appropriate Schemes Regulations, and if the provisions of the Financial Services Compensation Scheme applied, those provisions would become operative.
+
+  ;
+- (b) for paragraph (3) there shall be substituted the following paragraph –
+
+  > (3) The extent to which the liability specified in paragraph (2) must be met from some other source is, if the scheme takes the form mentioned in any of sub-paragraphs (a), (b) and (c) of regulation 2(2) of the Appropriate Schemes Regulations, the extent to which it would be met under the Financial Services Compensation Scheme if the rules of that Scheme applied.
+
+  .
+
+## 5. Amendment of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations[^key-8bb699bbde664a27b7621d3db467ffc1]
+
+For regulation 3 of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations (Northern Ireland) 1996[^f00019] (requirements applying to insurance companies) there shall be substituted the following regulation –
+
+> **3. Requirements applying to insurers**
+>
+> (1) The requirements referred to in section 28A(2)(a)(ii) of the Act[^f00020] (policy of insurance appropriate if the insurer satisfies prescribed requirements) are that the insurer is –
+>
+> - (a) a person who has permission under Part IV of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, or
+> - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of long-term insurance in the United Kingdom.
+>
+> (2) In paragraph (1) the expression “contracts of long-term insurance” shall be read with –
+>
+> - (a) section 22 of the Financial Services and Markets Act 2000 (regulated activities);
+> - (b) any relevant order under that section, and
+> - (c) Schedule 2 to that Act.
+
+.
+
+## 6. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^key-ab06388117e7311b23f6a7bd0d0d8181]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-62263f785b011e8acd76d7f02e1558a9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-be1c73d6468259a7ac10a61b02dd080f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations[^key-0e12554bb74fe2e835260701a6ca1b94]
+
+(1) The Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations (Northern Ireland) 1997[^f00026] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation) after the definition of “the Act” there shall be inserted the following definition –
+
+> - “the 2000 Act” means the Financial Services and Markets Act 2000;
+
+.
+
+(3) In regulation 4 (exclusions from jurisdiction) for paragraph (1)[^f00027] there shall be substituted the following paragraph –
+
+> (1) The Pensions Ombudsman shall not investigate or determine any complaint or dispute which can be (and is in fact) dealt with under the compulsory jurisdiction of the ombudsman scheme provided for by Part XVI of the 2000 Act, other than a complaint or dispute relating to the management of a personal pension scheme.
+
+.
+
+(4) In regulation 6 (payment of interest on late paid benefit) –
+
+- (a) in paragraph (2) for sub-paragraph (b) there shall be substituted the following sub-paragraph –
+
+  > - (b) “reference banks” means the 4 largest persons for the time being who –
+  >   - (i) have permission under Part IV of the 2000 Act to accept deposits;
+  >   - (ii) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits; and
+  >   - (iii) quote a base rate applicable to sterling deposits.
+
+  ;
+- (b) after paragraph (2) there shall be added the following paragraph –
+
+  > (3) Paragraph (2)(b) shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section;
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 10. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-bae5bc7d63d60bd1d180e24d80b6ad30]
+
+The Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00028] (insurance companies that may provide protected rights by way of annuities) shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In the heading to regulation 11 for “Insurance companies” there shall be substituted “Insurers”.
+
+(3) In regulation 11 –
+
+- (a) the words from “For the purposes of” to “revoked or rescinded.” shall be numbered as paragraph (1) of that regulation;
+- (b) in that paragraph –
+  - (i) for “insurance company” in both places where it occurs there shall be substituted “insurer”;
+  - (ii) for sub-paragraph (a) there shall be substituted the following sub-paragraph –
+
+    > - (a)
+    >   - (i) is a person who has permission under Part IV of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance; or
+    >   - (ii) is an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of long-term insurance;
+
+    ;
+- (c) after that paragraph there shall be added the following paragraph –
+
+  > (2) Paragraph (1)(a) shall be read with –
+  >
+  > - (a) section 22 of the Financial Services and Markets Act 2000 (regulated activities);
+  > - (b) any relevant order under that section; and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 11. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-df7da83c1e5d9ecf49242d7fe37e6ed1]
+
+(1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00029] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 1(2) (interpretation) before the definition of “approved scheme” there shall be inserted the following definition –
+
+> - “the 2000 Act” means the Financial Services and Markets Act 2000;
+
+.
+
+(3) In regulation 3(3) (professional advisers' requirements: exceptions) –
+
+- (a) the words “(within the meaning of the Financial Services Act 1986)” shall be omitted;
+- (b) for sub-paragraph (a) there shall be substituted the following sub-paragraph –
+
+  > - (a) relevant schemes of a kind mentioned in article 4(4) of the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^f00030] (managing investments: occupational pension schemes);
+
+  .
+
+(4) In regulation 5(2)(b)[^f00031] (manner and terms of appointment and removal of professional advisers) for head (i) there shall be substituted the following head –
+
+> - (i) in the case of a fund manager, or a person carrying out functions referred to in regulation 2(c), who is subject to rules made under section 138 of the 2000 Act which impose requirements in relation to conflicts of interest, confirm in writing that he will notify the trustees or managers of any conflict of interest to which he is or may be subject in relation to the scheme in accordance with those requirements; and
+
+.
+
+(5) In regulation 11 (requirement for money to be kept by trustees: exception) –
+
+- (a) in paragraph (1)[^f00032] –
+  - (i) for “at an institution authorised under the Banking Act 1987” there shall be substituted “with a deposit-taker”;
+  - (ii) in sub-paragraph (b) for head (i) there shall be substituted the following head –
+
+    > - (i) kept by them with any of the persons specified in paragraph (3);
+
+    ;
+- (b) after paragraph (2) there shall be added the following paragraphs –
+
+  > (3) The persons referred to in paragraph (1)(b)(i) are –
+  >
+  > - (a) the Bank of England or the central bank of another EEA State;
+  > - (b) the National Savings Bank; or
+  > - (c) a municipal bank.
+  >
+  > (4) In paragraph (3) –
+  >
+  > - (a) “EEA State” means a State which is a contracting party to the agreement on the European Economic Area signed at Oporto on 2nd May 1992 as it has effect for the time being;
+  > - (b) “municipal bank” means a company –
+  >   - (i) in respect of which a resolution has been passed by a local authority under section 48(3) of the Banking Act 1979[^f00033] or section 103(3) of the Banking Act 1987[^f00034]; and
+  >   - (ii) is exempt from the prohibition imposed by section 19 of the 2000 Act in relation to the acceptance of deposits.
+  >
+  > (5) Paragraph (4)(b) shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section; and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+(6) In regulation 15 (employer to make payments of benefits into a separate account) –
+
+- (a) the words from “An employer is” to “by the employer.” shall be numbered as paragraph (1) of that regulation;
+- (b) in that paragraph for “an institution authorised under the Banking Act 1987” there shall be substituted “a deposit-taker”;
+- (c) after that paragraph there shall be added the following paragraphs –
+
+  > (2) In this regulation “deposit-taker” means –
+  >
+  > - (a) a person who has permission under Part IV of the 2000 Act to accept deposits; or
+  > - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits.
+  >
+  > (3) Paragraph (2) shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section; and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 12. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^key-9a011ea44f5219dad8612fb61267781e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Amendment of the Occupational Pension Schemes (Pensions Compensation Provisions) Regulations[^key-e56a5e3a0565e17851dbab92dccaf5e8]
+
+In regulation 1 of the Occupational Pension Schemes (Pensions Compensation Provisions) Regulations 1997[^f00038] (interpretation) –
+
+- (a) in paragraph (2) for the definition of “reference banks”[^f00039] there shall be substituted the following definition –
+
+  > - “reference banks” means the 4 largest persons for the time being who –
+  >   - (a) have permission under Part IV of the Financial Services and Markets Act 2000[^f00040] to accept deposits;
+  >   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits; and
+  >   - (c) quote a base rate applicable to sterling deposits;
+
+  ;
+- (b) after paragraph (2) there shall be inserted the following paragraph –
+
+  > (2A) In paragraph (2) the definition of “reference banks” shall be read with –
+  >
+  > - (a) section 22 of the Financial Services and Markets Act 2000 (regulated activities);
+  > - (b) any relevant order under that section; and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 14. Amendment of the Occupational Pension Schemes (Discharge of Liability) Regulations[^key-77312f6c40b7389f4620587a648dcce5]
+
+In regulation 2 of the Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^f00041] (requirements applying to policies of insurance and annuity contracts) –
+
+- (a) in paragraph (1) for the words from “with an insurance company” to the end there shall be substituted –
+
+  > with –
+  >
+  > - (a) a person who has permission under Part IV of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance; or
+  > - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of long-term insurance.
+
+  ;
+- (b) for paragraph (2) there shall be substituted the following paragraph –
+
+  > (2) Paragraph (1)(a) and (b) shall be read with –
+  >
+  > - (a) section 22 of the Financial Services and Markets Act 2000 (regulated activities);
+  > - (b) any relevant order under that section; and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 15. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-e6f49f481d3ea6ff38515d0d591bbd7c]
+
+(1) The Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000[^f00042] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1 (interpretation) –
+
+- (a) in paragraph (2) –
+  - (i) after the definition of “the 1995 Order” there shall be inserted the following definition –
+
+    > - “the 2000 Act” means the Financial Services and Markets Act 2000;
+
+    ;
+  - (ii) for the definition of “reference banks”[^f00043] there shall be substituted the following definition –
+
+    > - “reference banks” means the seven largest persons for the time being who –
+    >   - (a) have permission under Part IV of the 2000 Act to accept deposits;
+    >   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and
+    >   - (c) quote a base rate in sterling,
+    >
+    >   and for the purpose of this definition the size of a person at any time is to be determined by reference to the gross assets denominated in sterling of that person, together with any subsidiary (as defined in Article 4 of the Companies (Northern Ireland) Order 1986[^f00044]), as shown in the audited end of year accounts last published before that time;
+
+    ;
+- (b) after paragraph (2) there shall be inserted the following paragraph –
+
+  > (2A) The definition of “reference banks” in paragraph (2) must be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+(3) In regulation 11 (qualifying arrangements) –
+
+- (a) in paragraph (1) for sub-paragraphs (a) to (c) there shall be substituted the following sub-paragraphs –
+
+  > - (a) a person who has permission under Part IV of the 2000 Act to effect or carry out contracts of long-term insurance, or
+  > - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of long-term insurance.
+
+  ;
+- (b) for paragraph (2) there shall be substituted the following paragraph –
+
+  > (2) Paragraph (1)(a) and (b) must be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 16. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-55608cdc9d1bba3bd4605437f28619c0]
+
+(1) The Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00045] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 1 (interpretation) –
+
+- (a) in paragraph (2) –
+  - (i) after the definition of “the 1999 Order” there shall be inserted the following definition –
+
+    > - “the 2000 Act” means the Financial Services and Markets Act 2000;
+
+    ;
+  - (ii) for the definition of “reference banks”[^f00046] there shall be substituted the following definition –
+
+    > - “reference banks” means the seven largest persons for the time being who –
+    >   - (a) have permission under Part IV of the 2000 Act to accept deposits;
+    >   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and
+    >   - (c) quote a base rate in sterling,
+    >
+    >   and for the purpose of this definition the size of a person at any time is to be determined by reference to the gross assets denominated in sterling of that person, together with any subsidiary (as defined in Article 4 of the Companies (Northern Ireland) Order 1986), as shown in the audited end of year accounts last published before that time.
+
+    ;
+- (b) after paragraph (2) there shall be inserted the following paragraph –
+
+  > (2A) In paragraph (2) the definition of “reference banks” shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+(3) In regulation 5 (means of assuring pension credit benefit) –
+
+- (a) in paragraph (3) for sub-paragraphs (a) to (c) there shall be substituted the following sub-paragraphs –
+
+  > - (a) a person who has permission under Part IV of the 2000 Act to effect or carry out contracts of long-term insurance, or
+  > - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of long-term insurance.
+
+  ;
+- (b) for paragraph (4) there shall be substituted the following paragraph –
+
+  > (4) Paragraph (3)(a) and (b) must be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+## 17. Amendment of the Pension Sharing (Safeguarded Rights) Regulations[^key-2da30806292d9a3214b5b3b546c3616a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Amendment of the Stakeholder Pension Schemes Regulations[^key-2f525d24610d08e1e96e2f0407cba36d]
+
+(1) The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00049] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 1 (interpretation) –
+
+- (a) in paragraph (3) –
+  - (i) after the definition of “the Taxes Act” there shall be inserted the following definition –
+
+    > - “the 2000 Act” means the Financial Services and Markets Act 2000;
+
+    ;
+  - (ii) for the definition of “insurance company” there shall be substituted the following definition –
+
+    > - “insurer” means –
+    >   - (a) a person who has permission under Part IV of the 2000 Act to effect or carry out contracts of insurance, or
+    >   - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of insurance;
+
+    ;
+  - (iii) for the definition of “securities” there shall be substituted the following definition –
+
+    > - “securities” means investments of the following kinds –
+    >   - (a) shares;
+    >   - (b) instruments creating or acknowledging indebtedness;
+    >   - (c) government and public securities;
+    >   - (d) instruments giving entitlements to investments;
+    >   - (e) certificates representing securities,
+    >
+    >   but does not include shares in an investment trust;
+
+    ;
+  - (iv) in the definition of “with-profits fund” for “insurance company” in both places where it occurs there shall be substituted “insurer”.
+- (b) after paragraph (3) there shall be inserted the following paragraph –
+
+  > (3A) In paragraph (3) the definitions of “insurer” and “securities” shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+(3) In regulation 8 (requirement applying to all stakeholder pension schemes as regards investments) –
+
+- (a) in paragraph (4) for “section 75 of the Financial Services Act 1986” there shall be substituted “section 235 of the 2000 Act”;
+- (b) in paragraph (5) for “insurance company” there shall be substituted “insurer”;
+- (c) in paragraph (6) for the definitions of “contract of insurance”[^f00050], “deposit” and “reference banks” there shall be substituted the following definitions –
+
+  > - “contract of insurance” means a contract –
+  >   - (a) which, or any part of which, is of one or more of the following kinds –
+  >     - (i) life and annuity;
+  >     - (ii) linked long term;
+  >     - (iii) pension fund management, and
+  >   - (b) which is carried out by an insurer who has permission, as the case may be, under –
+  >     - (i) Part IV of the 2000 Act, or
+  >     - (ii) paragraph 15 of Schedule 3 to that Act (EEA passport rights),
+  >
+  >     to effect or carry out contracts of insurance of that kind;
+  > - “reference banks” means the seven largest persons for the time being who –
+  >   - (a) have permission under Part IV of the 2000 Act to accept deposits;
+  >   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and
+  >   - (c) quote a base rate applicable to sterling deposits,
+  >
+  >   and for the purpose of this definition the size of a person at any time is to be determined by reference to the gross assets denominated in sterling of that person, together with any subsidiary (as defined in Article 4 of the Companies (Northern Ireland) Order 1986), as shown in the audited end of year accounts last published before that time.
+
+  ;
+- (d) after paragraph (6) there shall be added the following paragraph –
+
+  > (7) In this regulation the expression “deposit”, and the definitions of “contract of insurance” and “reference banks” in paragraph (6), shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+(4) In regulation 10 (requirement for manager of schemes not established under a trust to have regard to certain matters, and to take advice, relating to investment) –
+
+- (a) in paragraph (5)[^f00051] for sub-paragraph (a) there shall be substituted the following sub-paragraph –
+
+  > - (a) where the giving of advice constitutes a regulated activity of advising on investments (or would constitute such a regulated activity but for the identity of the person carrying on that activity), advice given by a person who may give that advice without contravening the prohibition imposed by section 19 of the 2000 Act;
+
+  ;
+- (b) after paragraph (5) there shall be inserted the following paragraph –
+
+  > (5A) Paragraph (5)(a) shall be read with –
+  >
+  > - (a) section 22 of the 2000 Act (regulated activities);
+  > - (b) any relevant order under that section, and
+  > - (c) Schedule 2 to that Act.
+
+  .
+
+(5) In regulation 15(3)[^f00052], (4)[^f00053] and (5) (requirement for trustees or manager to satisfy certain conditions in relation to with-profits funds) for “insurance company” in each place where it occurs there shall be substituted “insurer”.
+
+## 19. Revocations[^key-0a10729b71c942bee4c27fed0fc512b2]
+
+The following regulations are hereby revoked –
+
+- (a) regulation 22(a) of the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1992[^f00054];
+- (b) paragraph 20(2) and (3) of Schedule 2 to the Occupational and Personal Pension Schemes (Consequential Amendments) Regulations (Northern Ireland) 1994[^f00055];
+- (c) regulations 5(3) and 7 of the Personal and Occupational Pension Schemes (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1997[^f00056];
+- (d) regulation 3 of the Occupational Pension Schemes (Bank of England Act) (Consequential Amendments) Regulations (Northern Ireland) 1998[^f00057];
+- (e) regulations 11(2)(b) and 12(2) of the Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000[^f00058];
+- (f) regulation 5 of the Stakeholder Pension Schemes (Amendment No. 2) Regulations (Northern Ireland) 2001[^f00059].
+
+Sealed with the Official Seal of the Department for Social Development on 25th April 2003.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+## SCHEDULE — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-db6722592e8ce7e2b86e24a54d1169c3]
+
+<table>
+<thead>
+<tr><th colspan="2"><em>Column (1)</em></th><th><em>Column (2)</em></th></tr>
+<tr><th colspan="2">Provision</th><th>Relevant Amendments</th></tr>
+</thead>
+<tbody>
+<tr><td>Social Security Administration (Northern Ireland) Act 1992</td><td>section 72(5)</td><td></td></tr>
+<tr><td>Pension Schemes (Northern Ireland) Act 1993</td><td>section 5(5) and (6)</td><td>Pensions (Northern Ireland) Order 1995, Schedule 3, paragraph 14(a)</td></tr>
+<tr><td></td><td>section 15(4)(a)(ii)</td><td>Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, article 129</td></tr>
+<tr><td></td><td>section 22</td><td></td></tr>
+<tr><td></td><td>section 25(3)(b)</td><td>Pensions (Northern Ireland) Order 1995, Article 141(3); Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, article 130(2)</td></tr>
+<tr><td></td><td>section 26(1)</td><td>Pensions (Northern Ireland) Order 1995, Schedule 3, paragraph 14(a); Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999, Schedule 1, paragraph 45</td></tr>
+<tr><td></td><td>section 28A(2)(a)</td><td>Pensions (Northern Ireland) Order 1995, Article 143(1); Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002, article 19</td></tr>
+<tr><td></td><td>section 64D</td><td>Welfare Reform and Pensions (Northern Ireland) Order 1999, Article 33</td></tr>
+<tr><td></td><td>section 97D(1)(b)</td><td>Welfare Reform and Pensions (Northern Ireland) Order 1999, Article 34</td></tr>
+<tr><td></td><td>section 97L(1) and (2)(a)</td><td>Welfare Reform and Pensions (Northern Ireland) Order 1999, Article 34</td></tr>
+<tr><td></td><td>section 109</td><td>Child Support, Pensions and Social Security Act (Northern Ireland) 2000, section 48</td></tr>
+<tr><td></td><td>section 142(6)(b)</td><td></td></tr>
+<tr><td></td><td>section 147A</td><td>Pensions (Northern Ireland) Order 1995, Article 156</td></tr>
+<tr><td>Pensions (Northern Ireland) Order 1995</td><td>Article 19(4)</td><td></td></tr>
+<tr><td></td><td>Article 21(5)</td><td></td></tr>
+<tr><td></td><td>Article 35(7)</td><td></td></tr>
+<tr><td></td><td>Article 40(1) and (2)</td><td>Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, article 152</td></tr>
+<tr><td></td><td>Article 47(5)(a) and (6)</td><td></td></tr>
+<tr><td></td><td>Article 49(1) and (5)</td><td>Welfare Reform and Pensions (Northern Ireland) Order 1999, Schedule 2, paragraph 10(2); Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, article 154</td></tr>
+<tr><td></td><td>Article 56(3)</td><td></td></tr>
+<tr><td></td><td>Article 60(2)(b), (5)(b) and (6)</td><td></td></tr>
+<tr><td></td><td>Article 81(3)(a)</td><td>Welfare Reform and Pensions (Northern Ireland) Order 1999, Schedule 10, Part I</td></tr>
+<tr><td></td><td>Article 115(1)(a) and (b)</td><td></td></tr>
+<tr><td></td><td>Article 116</td><td></td></tr>
+<tr><td></td><td>Article 122(3)</td><td></td></tr>
+<tr><td>Welfare Reform and Pensions (Northern Ireland) Order 1999</td><td>Article 3(1)(b) and (5)</td><td></td></tr>
+<tr><td></td><td>Article 5(1)</td><td></td></tr>
+<tr><td></td><td>Schedule 5, paragraphs 6(2)(b) and 10</td><td>Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, article 160</td></tr>
+</tbody>
+</table>
+
+[^f00060][^f00061][^f00062][^f00063][^f00064][^f00065][^f00066][^f00067]
+
+(This note is not part of the Regulations.)
+
+These Regulations make amendments to social security and pensions regulations in consequence of the coming into force of the Financial Services and Markets Act 2000 (“the Act”). The Act, which extends throughout the United Kingdom, provides for the regulation of financial services, insurance and banking and for the transfer of certain statutory functions relating to building societies and certain other mutual societies.
+
+In particular, these Regulations amend references in regulations to repealed enactments and to the expressions used in those enactments so that they refer to the appropriate provision or expression under the Act.
+
+These Regulations also contain consequential revocations.
+
+## Annotations
+
+[^f00001]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00002]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00003]: Footnote: *See* Article 117(1) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^key-90df40833e5891be5c36089d95f5573b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/256/regulation/1) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-bc9a5192423bb79f04dd4cc25282487f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/256/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-143fed477eb8f13cd9d441e60848d70d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/256/regulation/3) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00013]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142), to which there are amendments not relevant to these regulations
+
+[^key-f62f45d4b155e80a8381038149b1c958]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/256/regulation/4) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00014]: Footnote: [S.R. 1988 No. 449](https://www.legislation.gov.uk/nisr/1988/449), amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^f00015]: Footnote: Paragraph (2) was amended by paragraph 20(2) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^f00016]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^f00017]: Footnote: Paragraph (1) was amended by paragraph 20(3) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^f00018]: Footnote: Section 26(1) was amended by paragraph 14(a) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 45 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^key-8bb699bbde664a27b7621d3db467ffc1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/256/regulation/5) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1996 No. 94](https://www.legislation.gov.uk/nisr/1996/94)
+
+[^f00020]: Footnote: Section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995 and subsection (2) was amended by article 19(2) of S.I. [2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^key-ab06388117e7311b23f6a7bd0d0d8181]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/256/regulation/6) revoked (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006 (S.R. 2006/148)](https://www.legislation.gov.uk/nisr/2006/148), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/148/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/148/schedule)
+
+[^key-62263f785b011e8acd76d7f02e1558a9]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/256/regulation/7) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))
+
+[^key-be1c73d6468259a7ac10a61b02dd080f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/256/regulation/8) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 (S.R. 2005/569)](https://www.legislation.gov.uk/nisr/2005/569), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2005/569/regulation/18), [Sch.](https://www.legislation.gov.uk/nisr/2005/569/schedule)
+
+[^key-0e12554bb74fe2e835260701a6ca1b94]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/256/regulation/9) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00026]: Footnote: [S.R. 1997 No. 39](https://www.legislation.gov.uk/nisr/1997/39); relevant amending regulations are [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
+
+[^f00027]: Footnote: Paragraph (1) was amended by regulation 5(3) of [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
+
+[^key-bae5bc7d63d60bd1d180e24d80b6ad30]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/256/regulation/10) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00028]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56), to which there are amendments not relevant to these regulations
+
+[^key-df7da83c1e5d9ecf49242d7fe37e6ed1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/256/regulation/11) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00029]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); relevant amending regulations are [S.R. 1997 Nos. 162](https://www.legislation.gov.uk/nisr/1997/162) and [544](https://www.legislation.gov.uk/nisr/1997/544) and [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
+
+[^f00030]: Footnote: S.I. [2001/1177](https://www.legislation.gov.uk/uksi/2001/1177)
+
+[^f00031]: Footnote: Sub-paragraph (b) was substituted by regulation 5(2) of [S.R. 1997 No. 162](https://www.legislation.gov.uk/nisr/1997/162) and amended by regulation 7 of [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
+
+[^f00032]: Footnote: Paragraph (1) was amended by regulation 11(3) of [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
+
+[^f00033]: Footnote: [1979 c. 37](https://www.legislation.gov.uk/ukpga/1979/37)
+
+[^f00034]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
+
+[^key-9a011ea44f5219dad8612fb61267781e]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/256/regulation/12) revoked (1.10.2008) by [The Personal and Occupational Pension Schemes (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/364)](https://www.legislation.gov.uk/nisr/2008/364), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/364/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/364/schedule)
+
+[^key-e56a5e3a0565e17851dbab92dccaf5e8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/256/regulation/13) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00038]: Footnote: [S.R. 1997 No. 141](https://www.legislation.gov.uk/nisr/1997/141); relevant amending regulations are [S.R. 1998 No. 233](https://www.legislation.gov.uk/nisr/1998/233)
+
+[^f00039]: Footnote: Definition of “reference banks” was amended by regulation 3 of [S.R. 1998 No. 233](https://www.legislation.gov.uk/nisr/1998/233)
+
+[^f00040]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
+
+[^key-77312f6c40b7389f4620587a648dcce5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/256/regulation/14) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00041]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159), to which there are amendments not relevant to these regulations
+
+[^key-e6f49f481d3ea6ff38515d0d591bbd7c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/256/regulation/15) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00042]: Footnote: [S.R. 2000 No. 145](https://www.legislation.gov.uk/nisr/2000/145), amended by [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^f00043]: Footnote: Definition of “reference banks” was amended by regulation 11(2)(b) of [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^f00044]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Articles 4 and 4A were substituted for Article 4 by Article 62(1) of the Companies (No. 2) (Northern Ireland) Order 1990 (S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504))
+
+[^key-55608cdc9d1bba3bd4605437f28619c0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/256/regulation/16) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00045]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146), amended by [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^f00046]: Footnote: Definition of “reference banks” was amended by regulation 12(2) of [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^key-2da30806292d9a3214b5b3b546c3616a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/256/regulation/17) revoked (6.4.2009) by [The Pensions (2008 Acts) (Consequential Provisions) Order (Northern Ireland) 2009 (S.R. 2009/113)](https://www.legislation.gov.uk/nisr/2009/113), [arts. 1](https://www.legislation.gov.uk/nisr/2009/113/article/1), [12](https://www.legislation.gov.uk/nisr/2009/113/article/12), [Sch.](https://www.legislation.gov.uk/nisr/2009/113/schedule)
+
+[^key-2f525d24610d08e1e96e2f0407cba36d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/256/regulation/18) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00049]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); relevant amending regulations are [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and [S.R. 2002 No. 268](https://www.legislation.gov.uk/nisr/2002/268)
+
+[^f00050]: Footnote: Definition of “contract of insurance” was substituted by regulation 5 of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
+
+[^f00051]: Footnote: Paragraph (5) was amended by regulation 6(4) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
+
+[^f00052]: Footnote: Paragraph (3) was amended by regulation 11(2) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and regulation 5(2) of [S.R. 2002 No. 268](https://www.legislation.gov.uk/nisr/2002/268)
+
+[^f00053]: Footnote: Paragraph (4) was amended by regulation 11(3) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and regulation 5(3) of [S.R. 2002 No. 268](https://www.legislation.gov.uk/nisr/2002/268)
+
+[^key-0a10729b71c942bee4c27fed0fc512b2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/256/regulation/19) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00054]: Footnote: [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304)
+
+[^f00055]: Footnote: [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^f00056]: Footnote: [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
+
+[^f00057]: Footnote: [S.R. 1998 No. 233](https://www.legislation.gov.uk/nisr/1998/233)
+
+[^f00058]: Footnote: [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^f00059]: Footnote: [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
+
+[^key-db6722592e8ce7e2b86e24a54d1169c3]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2003/256/schedule) in operation at 2.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1)
+
+[^f00060]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00061]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^f00062]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^f00063]: Footnote: S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)
+
+[^f00064]: Footnote: S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671)
+
+[^f00065]: Footnote: S.I. [2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^f00066]: Footnote: S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00067]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)

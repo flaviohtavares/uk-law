@@ -1,0 +1,35 @@
+---
+title: The Mines Regulations (Northern Ireland) 2016, section 53
+act: The Mines Regulations (Northern Ireland) 2016
+section: '53'
+status: revised
+text_date: '2022-03-21'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/427/section/53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mines Regulations (Northern Ireland) 2016, section 53
+
+> Text as at 2022-03-21.
+>
+> Extent: Northern Ireland.
+
+## 53. Duties of the mine operator with regard to escape and rescue[^key-3f53e36292b2996342f740be510e9579]
+
+*Extent: N.I.*
+
+(1) The mine operator shall—
+
+- (a) ensure that suitable arrangements are in place so that persons below ground at the mine can reach a safe place promptly in the event of an emergency; and
+- (b) provide and operate the necessary warning and other communication systems to enable assistance, escape and rescue operations to be launched immediately if the need arises.
+
+(2) A mine may not be worked unless the mine operator has made suitable arrangements—
+
+- (a) for the rescue of persons from the mine; and
+- (b) for the carrying out of work necessary to secure the health and safety of persons below ground at the mine in the event of an emergency.
+
+## Annotations
+
+[^key-3f53e36292b2996342f740be510e9579]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2016/427/regulation/53) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

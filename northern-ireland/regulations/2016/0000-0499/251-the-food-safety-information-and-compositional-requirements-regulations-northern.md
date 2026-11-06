@@ -1,0 +1,398 @@
+---
+title: The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016
+id: nisr/2016/251
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-06-27'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/251
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/251/pdfs/nisr_20160251_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/251/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 251
+
+Food
+
+The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016
+
+Made
+
+27th June 2016
+
+Coming into operation
+
+20th July 2016
+
+[^c22826471][^c22826481][^c22826491]The Department of Health makes the following Regulations in exercise of the powers conferred by Articles 15(1), 16(1) and (2), 25(3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991 and paragraph 1A of Schedule 2 to the European Communities Act 1972 .
+
+[^c22826501]These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, that it is expedient for a reference to the provisions of Regulation (EU) No 609/2013 of the European Parliament and of the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive [92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), Directive [2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) specified in Regulation 2(2), to be construed as a reference to those provisions as amended from time to time.
+
+In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health has had regard to relevant advice given by the Food Standards Agency.
+
+As required by Article 9 of Regulation (EU) No 178/2002 [^c22826511] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-8561ebf5b2157ee744c3dcbb03a62127]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 and come into operation on 20th July 2016.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “Delegated Regulation 127” means Commission Delegated Regulation (EU) 2016/127 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for infant formula and follow-on formula and as regards requirements on information relating to infant and young child feeding;[^key-cb2a1a458416d0ea2427bb6a24343ab5]
+- Delegated Regulation 128” means Commission Delegated Regulation (EU) 2016/128 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for food for special medical purposes;
+- “the EU Regulation” means, subject to regulation to 2(2), Regulation (EU) No 609/2013 of the European Parliament and of the Council, on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council[^M_F_067408de-d932-4061-f026-31e0d8199ff1] [Directive 92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), [Directive 2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) as last amended by Commission Delegated Regulation 2017/1091;
+- “food for special medical purposes” has the same meaning in these Regulations as in the[^key-da6ef664893f3d09b2a56f0c26f82082] EU Regulation;
+- “infant” means a child under the age of 12 months;
+- “**the Order**” means the Food Safety (Northern Ireland) Order 1991; and
+- “specified EU requirement” means any provision of the EU Regulation or Delegated Regulation 127 or Delegated Regulation 128 specified in column 1 of Schedule 1, as read with the provisions specified in the corresponding entry in column 2.[^key-3d27c812d9d13389a1b4c0f91c640a75]
+
+(2) Any reference to Article 2(2) or to a specified EU requirement is a reference to that provision as amended from time to time.
+
+(3) The Interpretation Act (Northern Ireland) 1954 [^c22826521] applies to these Regulations as it applies to an Act of the Assembly
+
+(4)[^key-5d03617d3dfdeb046a2c05056fd74023] Any reference to a provision of Delegated Regulation 127 or Delegated Regulation 128 contained in the table in Schedule 1 is a reference to that provision as amended from time to time.
+
+(5)[^key-accb12f53ff2e1ff60771a808e546785] Any expression used in both these Regulations and in Delegated Regulation 127 or Delegated Regulation 128 has the same meaning it bears in Delegated Regulation 127 or Delegated Regulation 128, as the case may be.
+
+## 3. Enforcement
+
+It is the duty of each district council within its district to enforce these Regulations.
+
+## 4. Offence and penalty
+
+A person who fails to comply with Article 9(2) of the EU Regulation (substances in dangerous quantities) as read with Articles 1(1) and 4(1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 5. Application of provisions of the Order
+
+(1) Articles 9(1) and (2) of the Order (improvement notices) apply, with the modification (in the case of Article 9(1)) specified in Part 1 of Schedule 2, for the purposes of enabling an improvement notice to be served on a person requiring that person to comply with a specified EU requirement and making the failure to comply with an improvement notice an offence.
+
+(2) Article 33 of the Order (powers of entry) applies, with the modifications (in the case of Article 33(1)) specified in Part 1 of Schedule 2, for the purposes of enabling an authorised officer—
+
+- (a) to exercise a power of entry to ascertain whether there is, or has been, any contravention of a specified EU requirement;
+- (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of a specified EU requirement; and
+- (c) when exercising a power of entry under the provisions of Article 33 as applied by this paragraph, to exercise the powers in paragraphs (6) and (7) relating to records.
+
+(3) Article 37 (appeals) and Article 38 (appeals against improvement notices) of the Order apply, with the modifications specified in Part 1 of Schedule 2, for the purpose of enabling a decision to serve a notice referred to in paragraph (1) to be appealed.
+
+(4) The provisions of the Order specified in column 1 of the table in Part 2 of Schedule 2 apply, with the modifications specified in column 2 of that Part.
+
+(5) Paragraphs (1) to (4) are without prejudice to the application of the Order to these Regulations for purposes other than those specified in those paragraphs.
+
+(6) In this regulation “**authorised officer**” has the same meaning as in Article 2(2)(a) of the Order.
+
+## 6. Amendments to Statutory Rules
+
+Schedule 3 has effect.
+
+## 7. Revocation
+
+The following Regulations are revoked—
+
+- (a) the Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2007 [^c22826531];
+- (b) Regulations 26 and 27 of the Infant Formula and Follow on Formula Regulations (Northern Ireland) 2007 [^c22826541]; and
+- (c) The Food for Particular Nutritional Uses (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 [^c22826551].
+
+## 8. Transitional Arrangements[^key-5af543e31e0068cff7949a3cbdef34ce]
+
+(1) Infant Formula and Follow on Formula that does not comply with any specified provision of Delegated Regulation 127 specified in Schedule 1 may continue to be marketed until stocks of such food are exhausted provided that—
+
+- (a) it complies with the provisions of the EU Regulation specified in Schedule 1;
+- (b) it was placed on the market or labelled—
+  - (i) before 22nd February 2020; or
+  - (ii) before 22nd February 2021 in the case of infant formula and follow-on formula manufactured from protein hydrolysates, and
+- (c) the requirements specified in the following provisions of the Infant Formula and Follow on Formula Regulations (Northern Ireland) 2007 are met —
+  - (i) regulation 3(1) (prohibition on the marketing of infant formula unless certain conditions are met) in the case of infant formula; or
+  - (ii) regulation 3(2) (prohibition on the marketing of follow-on formula unless certain conditions are met) in the case of follow on formula.
+
+(2) Food for special medical purposes that does not comply with any specified provision of Delegated Regulation 128 specified in Schedule 1 may continue to be marketed until stocks of such food are exhausted provided that—
+
+- (a) it complies with the provisions of the EU Regulation specified in Schedule 1;
+- (b) it was placed on the market or labelled—
+  - (i) before 22nd February 2019; or
+  - (ii) before 22nd February 2020 in the case of food for special medical purposes developed to satisfy the nutritional requirements of infants, and
+- (c) the requirements specified in the following provisions of the Medical Food Regulations (Northern Ireland) 2000 are met-
+  - (i) regulation 3(1) (restrictions on sale of a medical food);
+  - (ii) regulation 3(2) (restrictions on sale of a medical food of a particular type).
+
+Sealed with the official seal of the Department of Health on 27th June 2016.
+
+Julie Thompson
+
+A senior officer of the
+
+Department of Health
+
+## SCHEDULE 1 — Specified EU Requirements[^key-c1b8b55ba5e0c54f648b913a554f42d2]
+
+Regulation 2(1)
+
+| Column 1 Specified provision of the EU Regulation | Column 2 Provisions to be read with the specified provision of the EU Regulation |
+| --- | --- |
+| Article 4(2) (requirement for relevant food to be pre-packed) | Articles 1(1) and 4(1) |
+| Article 9(1) (requirement for the composition of food to be nutritionally appropriate and suitable) | Articles 1(1), 4(1) and 9(3) |
+| Article 9(2) (prohibition on substances in dangerous quantities) | Articles 1(1) and 4(1) |
+| Article 9(5) (requirements as to labelling, presentation and advertising of relevant food) | Articles 1(1), 4(1) and 9(6) |
+| Article 10 (additional requirements for infant formula and follow-on formula) | Article 4(1) |
+| Article 15(1) (Union list) | Articles 1(1) (a) and (c) and 4(1) and the Annex insofar as it applies to infant formula and follow-on formula and food for special medical purposes |
+
+| Specified provision of Delegated Regulation (EU) 2016/127 | Provision of Delegated Regulation 127 to be read with the specified provision of Delegated Regulation 127 |
+| --- | --- |
+| Article 1(2) (placing on the market) | Article 1(1) |
+| Article 2(1) (compositional requirements for infant formula) | Articles 1(1) and 2(3), Annex 1 and Annex 3 |
+| Article 2(2) (compositional requirements for follow-on formula) | Articles 1(1) and 2(3), Annex 2 and Annex 3 |
+| Article 2(3) (preparation of infant and follow-on formula) | Articles 1(1), 2(1) and (2) |
+| Article 3(1) (suitability of ingredients for infant formula) | Articles 1(1) and 3(3) and point 2 of Annex 1 |
+| Article 3(2) (suitability of ingredients for follow-on formula) | Articles 1(1) and 3(3) and point 2 of Annex 2 |
+| Article 4(2) (active substance residue threshold) | Articles 1(1) and 4(1), (3) and (5) |
+| Article 4(3) (derogation from active substance residue threshold) | Articles 1(1) and 4(1), (2) and (5) |
+| Article 4(4) (requirements on pesticides) | Articles 1(1) and 4(1) and (5) |
+| Article 5(1) (name of food not manufactured entirely from cows’ or goats’ milk protein) | Article 1(1) and Part A of Annex 6 |
+| Article 5(2) (name of food manufactured entirely from cows’ or goats’ milk protein) | Article 1(1) and Part B of Annex 6 |
+| Article 6 (specific requirements on food information) | Articles 1(1) and 7(1), (2), (3), (5), (6), (7) and (8) |
+| Article 7(1) (specific requirements on the nutrition declaration) | Articles 1(1) and 7(4), Annex 1 and Annex 2 |
+| Article 7(3) (repetition of information included in mandatory nutrition declaration) | Article 1(1) |
+| Article 7(4) (nutrition declaration mandatory regardless of size of packaging or container) | Articles 1(1) and 7(1), Annex 1 and Annex 2 |
+| Article 7(5) (application of Articles 31 to 35 of Regulation (EU) No. 1169/2011) | Articles 1(1) and 7(6), (7) and (8) |
+| Article 7(6) (expression of energy value and amounts of nutrients) | Articles 1(1) and 7(5) |
+| The first sub-paragraph of Article 7(7) (prohibition on expressing energy value and amount of nutrients as a percentage of reference intake) | Articles 1(1) and 7(5) |
+| Article 7(8) (presentation of particulars included in the nutrition declaration) | Article 1(1) |
+| Article 8 (prohibition on making nutrition and health claims on infant formula) | Article 1(1) |
+| Article 9(1) (“lactose only” statement) | Article 1(1) |
+| The first sub-paragraph of Article 9(2) (“lactose free” statement) | Article 1(1) |
+| The second sub-paragraph of Article 9(2), (statement that “lactose free” infant formula and follow-on formula is not suitable for infants with galactosaemia) | Article 1(1) |
+| Article 9(3) (prohibition on references to docosahexaenoic acid where infant formula placed on the market on or after 22 February 2025) | Article 1(1) |
+| Article 10(1) (restriction on advertising for infant formula) | Article 1(1) |
+| Article 10(2) (prohibition of promotional devices to induce sales of infant formula) | Article 1(1) |
+| Article 10(3) (prohibition of provision of free or low-priced products, samples or other promotional gifts to the general public, pregnant women, mothers or members of their families) | Article 1(1) |
+| Article 10(4) (requirements for donations or low-priced sales of supplies of infant formula to institutions or organisations) | Article 1(1) |
+| Article 11(2) (requirements on information relating to infant and young child feeding) | Article 1(1) |
+| Article 11(3) (requirements on donations of informational or educational equipment or materials) |  |
+| Article 12 (notification requirements) | Article 1(1) |
+| Article 10(2) (prohibition of promotional devices to induce sales of infant formula) | Article 1(1) |
+| Article 10(3) (prohibition of provision of free or low-priced products, samples or other promotional gifts to the general public, pregnant women, mothers or members of their families) | Article 1(1) |
+| Article 10(4) (requirements for donations or low-priced sales of supplies of infant formula to institutions or organisations) | Article 1(1) |
+| Article 11(2) (requirements on information relating to infant and young child feeding) |  |
+| Article 11(3) (requirements on donations of informational or educational equipment or materials) |  |
+| Article 12 (notification requirements) | Article 1(1) |
+|  |  |
+
+| Specified provision of Delegated Regulation 128 | Provision of Delegated Regulation 128 to be read with the specified provision of the Delegated Regulation 128 |
+| --- | --- |
+| Article 2(2) (requirement for the formulation of food to be based on sound medical and nutritional principles) | Article 1 |
+| The first sub-paragraph of article 2(3) (requirement for food for special medical purposes developed to satisfy the nutritional requirements of infants to comply with the compositional requirements in Part A of Annex I) | Articles 1 and 2(4) and Part A of Annex 1 |
+| The second-sub paragraph of article 2(3) (requirement for food other than that developed to satisfy the nutritional requirements of infants to comply with the compositional requirements in Part B of Annex I) | Articles 1 and 2(4) and Part B of Annex 1 |
+| Article 3(2) (requirement relating residue threshold for certain active substances where food for special medical purposes is developed to satisfy the nutritional requirements of infants and young children) | Articles 1 and 3(1), (3) and (5) and Annex 2 |
+| Article 3(3) (maximum residue levels for substances listed in Annex II) | Articles 1 and 3(1) and (5) and Annex 2 |
+| Article 3(4) (prohibition on the use of plant protection products) | Articles 1 and 3(1) and (5) and Annex 3 |
+| Article 4 (name of the food) | Article 1 and Annex 4 |
+| Article 5(1) (requirement for food for special medical purposes to comply with Regulation (EU) No. 1169/2011 unless otherwise specified) | Articles 1 and 5(2) |
+| Article 5(2) (additional mandatory particulars relating to food information) | Articles 1 and 5(1) and (3) |
+| Article 5(3) (application of articles 13(2) and (3) of Regulation (EU) No. 1169/2011 to additional mandatory particulars) | Articles 1 and 5(1) and (2) |
+| Article 6 (specific requirements on the nutrition declaration) | Article 1 and Annex 1 |
+| Article 7 (nutrition and health claims) | Article 1 |
+| Article 8(1) (requirement for mandatory particulars to appear in a language easily understood by consumers) | Article 1 |
+| The first sub-paragraph of article 8(2) (prohibition of pictures of infants or certain other pictures or text) | Article 1 |
+| Article 8(3) (requirements relating to labelling, presentation and advertising) | Article 1 |
+| The first sub-paragraph of article 8(4) (restriction on publication) | Article 1 and the third sub-paragraph of article 8(4) |
+| Article 8(5) (prohibition on use of promotional devices to induce sales) | Article 1 |
+| Article 8(6) (prohibition on providing free or low-priced products, samples or other promotional gifts) | Article 1 |
+| Article 9 (notification) | Article 1 |
+| Article 7(5) (application of articles 31 to 35 of Regulation (EU) No. 1169/2011) | Article 1(1), 7(6), (7) and (8) |
+| Article 7(6) (expression of energy value and amounts of nutrients) | Article 1(1) and 7(5) |
+| The first sub-paragraph of Article 7(7) (prohibition on expressing energy value and amount of nutrients as a percentage of reference intake) | Article 1(1) and 7(5) |
+| Article 7(8) (presentation of particulars included in the nutrition declaration) | Article 1(1) |
+| Article 8 (prohibition on making health claims on infant formula) | Article 1(1) |
+| Article 9(1) (“lactose only” statement) | Article 1(1) |
+| The first sub-paragraph of Article 9(2) (“lactose free” statement) | Article 1(1) |
+| The second sub-paragraph of Article 9(2), (statement that lactose free infant formula and follow-on formula is not suitable for infants with galactosaemia) | Article 1(1) |
+| Article 9(3) (prohibition on references to decosahexaenoic acid where infant formula placed on the market on or after 22 February 2025) | Article 1(1) |
+| The first paragraph of article 10(1) (restriction on advertising for infant formula) | Article 1(1) |
+| Article 10(2) (prohibition of promotional devices to induce sales of infant formula) | Article 1(1) |
+| Article 10(3) (prohibition of provision of free or low-priced products, samples or other promotional gifts to the general public, pregnant women, mothers or members of their families) | Article 1(1) |
+| Article 10(4) (requirements for donations or low-priced sales of supplies of infant formula to institutions or organisations) | Article 1(1) |
+| Article 11(2) (requirements on information relating to infant and young child feeding) |  |
+| Article 11(3) (requirements on donations of informational or educational equipment or materials) |  |
+| Article 12 (notification requirements) | Article 1(1) |
+
+## SCHEDULE 2 — Application and modification of provisions of the Order
+
+Regulation 5
+
+### PART 1 — Modification of Articles 9(1), 33(1), 37 and 38
+
+**1.** For Article 9(1) of the Order (improvement notices) substitute—
+
+> (1) If an authorised officer has reasonable grounds for believing that a person is failing to comply with a provision specified in paragraph 1A, the authorised officer may, by a notice served on that person (in this Order referred to as an “**improvement notice**”)—
+>
+> - (a) state the officer's grounds for believing that the person is failing to comply with the relevant provision;
+> - (b) specify the matters which constitute the person's failure to so comply;
+> - (c) specify the measures which, in the officer's opinion, the person must take in order to secure compliance; and
+> - (d) require the person to take those measures, or measures that are at least equivalent to them, within such period as may be specified in the notice.
+>
+> (1A) Article 4(1) as read with Article 1(1) of Regulation (EU) No 609/2013 of the European Parliament and of the Council, on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive [92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), Directive [2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) or a provision of that Regulation specified in Schedule 1 to the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 
+
+.
+
+**2.** In Article 33(1) (powers of entry) for subparagraphs (a) to (c) substitute—
+
+> - (a) to enter any premises within the council's district for the purpose of ascertaining whether there is or has been on the premises any contravention of a provision of Regulation (EU) No 609/2013 of the European Parliament and the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive [92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), Directive [2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) specified in Schedule 1 to the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016; and
+> - (b) to enter any business premises, whether within or outside of the council's district, for the purpose of ascertaining whether there is on the premises any evidence of any contravention within that district of any of those provisions.
+
+**3.** For Article 37(1) (appeals) substitute—
+
+> (1) Any person who is aggrieved by a decision of an authorised officer to serve an improvement notice under Article 9(1) as applied and modified by regulation 5(1) of, and Part 1 of Schedule 2 to, the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016, may appeal to a court of summary jurisdiction
+
+.
+
+**4.** In Article 37(2A)(b) for “(1)(a)” substitute “ (1) as applied and modified by regulation 5(1) of and Part 1 of Schedule 2 to, the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016, ”.
+
+**5.** In both Article 38(1) and (2) (appeals against improvement notices), after “improvement notice” insert “ under Article 9(1) as applied and modified by regulation 5(1) of, and Part 1 of Schedule 2, to the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”.
+
+### PART 2 — Application and modification of other provisions of the Order
+
+| *Provision of the Order* | *Modifications* |
+| --- | --- |
+| Article 2(4) (extended meaning of “sale” etc.) | For “this Order” substitute “ the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 3 (application to food offered as prizes etc. | For “This Order” substitute “ The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 4 (presumptions that food intended for human consumption) | For “this Order” substitute “ the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 19 (offences due to fault of another person) | For “any of the preceding provisions of this Part” substitute “ Article 9(2) as applied by regulation 5(1) of the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 or regulation 4 of those regulations ”. |
+| Article 20 (defence of due diligence) | In paragraph (1), for “any of the preceding provisions of this Part” substitute “ Article 9(2) as applied by regulation 5(1) of the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 or regulation 4 of those regulations, ”.<br>In paragraph (2) for “Article 13 and 14” substitute “ regulation 4 of the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 21(defence of publication in the course of business) | For “any of the preceding provisions of this part” substitute “ Article 9(2) as applied by regulation 5(1) of the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 or regulation 4 of those regulations ”. |
+| Article 29 (procurement of samples) | In paragraph (b)(ii), after “under Article 33”, insert “ as applied by regulation 5(2) and Part 1 of Schedule 2 to the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 30(8) (evidence of certificates given by a food analyst or examiner) | For “this Order” substitute “ the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 34 (obstruction etc. of officers) | In paragraph (1), for “this Order” (in each place occurring) substitute “ the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 ”. |
+| Article 36(1) and (2) (punishment of offences) | In paragraph (1), after “Article 34(1)”, insert “ , as applied and modified by regulation 5(4) and Part 2 of Schedule 2 to the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016, ”.<br>After paragraph (1), insert—<br>“(1A) A person guilty of an offence under Article 9(2), as applied by regulation 5(1) of the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.”.<br>In paragraph (2)—<br>- (a) for “any other offence under this Order”, substitute “ an offence under Article 34(2), as applied by regulation 5(4) and Part 2 of Schedule 2 to the Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016, ”; and<br>- (b) in subparagraph (b), for “the relevant amount”, substitute “ the statutory maximum ”. |
+
+## SCHEDULE 3 — Amendments to statutory rules
+
+Regulation 6
+
+### 1. The Food Intended for Use in Energy Restricted Diets for Weight Reduction Regulations (Northern Ireland) 1997
+
+(1) The Food Intended for Use in Energy Restricted Diets for Weight Reduction Regulations (Northern Ireland) 1997 [^c22826561] are amended in accordance with subparagraphs (2) to (7).
+
+(2) For the definition of “relevant food” in regulation 1(2), substitute—
+
+> “**relevant food**” means specially formulated food intended for use in energy-restricted diets for weight reduction, being food which complies with the compositional requirements in Schedule 1 and which, when used as instructed by the manufacturer, replaces the whole of the total daily diet;
+
+.
+
+(3) For regulation 2(1) substitute—
+
+> (1) A person shall not sell any relevant food under any name other than “total diet replacement for weight control” in the case of products intended as a replacement for the whole of the daily diet.
+
+.
+
+(4) In regulation 2(2) omit “or “meal replacement for weight control””.
+
+(5) In regulation 3 for paragraphs (f) and (g) substitute—
+
+> - (f) for products mentioned in regulation 2(1), a statement that the product provides adequate amounts of all essential nutrients for the day and a statement that the product should not be used for more than three weeks without medical advice.
+
+.
+
+(6) For regulation 5 substitute—
+
+> **5.** A person shall not sell any relevant food being a product mentioned in regulation 2(1) unless all individual components making up the product are contained in the same package.
+
+.
+
+(7) Schedule 1 is amended in accordance with paragraphs (a) to (f)—
+
+- (a) for paragraph 1 (Energy) substitute—
+
+  > **1. Energy**
+  >
+  > The energy provided by a product mentioned in regulation 2(1) shall not be less than 3360kJ (800 kcal) and shall not exceed 5040kJ (1200 kcal) for the total daily ratio
+- (b) for paragraph 2.1 substitute—
+
+  > (2.1) The protein contained in products mentioned in regulation 2(1) shall provide not less than 25% and not more than 50% of the total energy of the product. In any case the amount of protein of products mentioned in regulation 2(1) shall not exceed 125g.
+
+  ;
+- (c) in paragraph 3.2 omit “(a)” after “2(1)”;
+- (d) omit paragraph 3.3;
+- (e) in paragraph 4 omit “(a)” after “2(1)”;
+- (f) for paragraph 5 “(vitamins and minerals)” substitute—
+
+  > **5. Vitamins and Minerals**
+  >
+  > The products mentioned in regulation 2(1) shall provide for the whole of the daily diet at least 100% of the amounts of vitamins and minerals specified in the Table.
+
+### 2. The Infant Formula and Follow-on Formula (Northern Ireland) Regulations 2007[^key-0c87f6feae22ddda56d496f1ba56d684]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision to enforce Regulation (EU) No 609/2013 of the European Parliament and of the Council, on the provisions of food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive [92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), Directive [2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953).
+
+These Regulations implement the framework of Regulation (EU) No 609/2013 of the European Parliament and of the Council, and introduce an improvement notice enforcement regime.
+
+Regulation 3 provides for the enforcement of these Regulations by each district council within its district.
+
+Regulation 4 creates an offence and penalty for breach of Article 9(2) of Regulation (EU) No 609/2013
+
+Regulation 5 and Schedule 2 apply certain provisions of the Food Safety (Northern Ireland) Order 1991 (S.I. 1991 N.I.7) with modifications. This includes the application (with modifications) of Article 9(1), enabling an improvement notice to be served requiring compliance with a specified EU requirement. The provisions, as applied and modified, make the failure to comply with an improvement notice a criminal offence.
+
+Regulation 6 and Schedule 3 amends statutory rules to take account of the repeal and replacement of relevant EU legislation
+
+Regulation 7 revokes the Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2007 (S.R. 2007 No. 60), the Food for Particular Nutritional Uses (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010 No. 33), and regulations 26 and 27 of the Infant Formula and Follow on Formula Regulations (Northern Ireland) 2007 (S.R. 2007 No. 506).
+
+## Annotations
+
+[^c22826471]: Marginal citation: Formerly the Department of Health, Social Services and Public Safety; see [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), [section 1](https://www.legislation.gov.uk/nia/2016/5/section/1)
+
+[^c22826481]: Marginal citation: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), [paragraphs 26 to 42](https://www.legislation.gov.uk/nisi/1996/1663/paragraph/26) of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and S.R.2004 Nos.482 and 505
+
+[^c22826491]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). as amended by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and the European Union (Amendment) Act 2008(c.7). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (2006 c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and amended by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (2008 c.7)](https://www.legislation.gov.uk/ukpga/2008/7)
+
+[^c22826501]: Marginal citation: OJ No. L 181, 29.6.2013 p.35
+
+[^c22826511]: Marginal citation: OJ No. L31, 1.2.2002, p1 last amended by Commission Regulation (EC) No 596/2009 (OJ No L 188, 18.7.2009, p 14)
+
+[^key-8561ebf5b2157ee744c3dcbb03a62127]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^key-cb2a1a458416d0ea2427bb6a24343ab5]: Textual amendment: Words in reg. 2 substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/1)
+
+[^M_F_067408de-d932-4061-f026-31e0d8199ff1]: Textual amendment: Words in reg. 2(1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [33](https://www.legislation.gov.uk/nisr/2019/5/regulation/33)
+
+[^key-da6ef664893f3d09b2a56f0c26f82082]: Textual amendment: Words in reg. 2(1) inserted (22.2.2019) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/9)](https://www.legislation.gov.uk/nisr/2019/9), [regs. 1](https://www.legislation.gov.uk/nisr/2019/9/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/9/regulation/3/2/a/ii)
+
+[^key-3d27c812d9d13389a1b4c0f91c640a75]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/251/regulation/2) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/2)
+
+[^c22826521]: Marginal citation: [1954 c.33(NI)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-5d03617d3dfdeb046a2c05056fd74023]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/251/regulation/2/4) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/3/a)
+
+[^key-accb12f53ff2e1ff60771a808e546785]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2016/251/regulation/2/5) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2020/16/regulation/4/3/b)
+
+[^c22826531]: Marginal citation: S.R. [2007 No.60](https://www.legislation.gov.uk/ukcm/2007/60)
+
+[^c22826541]: Marginal citation: S.R. [2007 No.506](https://www.legislation.gov.uk/ukcm/2007/506)
+
+[^c22826551]: Marginal citation: S.R. [2010 No.33](https://www.legislation.gov.uk/ukcm/2010/33)
+
+[^key-5af543e31e0068cff7949a3cbdef34ce]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/251/regulation/8) substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/16/regulation/5)
+
+[^key-c1b8b55ba5e0c54f648b913a554f42d2]: Textual amendment: Sch. 1 substituted (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [6](https://www.legislation.gov.uk/nisr/2020/16/regulation/6), [Sch. 1](https://www.legislation.gov.uk/nisr/2020/16/schedule/1)
+
+[^c22826561]: Marginal citation: S.R. [1997 No.450](https://www.legislation.gov.uk/ukcm/1997/450), to which there are amendments not relevant to these Regulations
+
+[^key-0c87f6feae22ddda56d496f1ba56d684]: Textual amendment: Sch. 3 para. 2 revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [regs. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2020/16/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7(2)](https://www.legislation.gov.uk/nisr/2020/16/regulation/7/2))

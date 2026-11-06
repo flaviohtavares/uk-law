@@ -1,0 +1,301 @@
+---
+title: The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2002
+id: nisr/2002/164
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-04-29'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/164
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/164/pdfs/nisr_20020164_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/164/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2002
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Regulations made by the Department for Social Development and laid before the Assembly under Article 48(2) of the Child Support (Northern Ireland) Order 1991, for approval by resolution of the Assembly before the expiration of 6 months from the date of their coming into operation:
+
+2002 No. 164
+
+FAMILY LAW
+
+SOCIAL SECURITY
+
+CHILD SUPPORT
+
+The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2002
+
+Made
+
+29th April 2002
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development, in exercise of the powers conferred by Articles 16(1), 18(1) and (4), 19(5), 22(4), 28B(2)(*c*), 28E(1), 28G, 43(10), 47, 48(4) and 50 of, and paragraphs 5, 10 and 11 of Schedule 1 and paragraphs 3, 4 and 5 of Schedule 4B to, the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002], and section 28 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-ec6f078c6833c423f5abfc54b85f0495]
+
+(1) These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and, subject to paragraph (2), shall come into operation on 30th April 2002.
+
+(2) Regulations 2(3)(*a*) and 6 shall come into operation in relation to a particular case on the day on which sections 1(2), 8, 9 and 10 of, and paragraphs 12 and 27 of Schedule 3 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 come into operation for the purposes of that type of case.
+
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-51fae3cff8f4ff78d9eb5cd7f28039a0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-4703495adcc28ee8c85d8c0eb24a0bad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-4703495adcc28ee8c85d8c0eb24a0bad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^key-4703495adcc28ee8c85d8c0eb24a0bad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-4703495adcc28ee8c85d8c0eb24a0bad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^key-4703495adcc28ee8c85d8c0eb24a0bad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^key-4703495adcc28ee8c85d8c0eb24a0bad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Child Support (Transitional Provisions) Regulations[^key-6b559c738c4102450cc69dea4f60176b]
+
+(1) The Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001[^f00030] shall be amended in accordance with paragraphs (2) to (15).
+
+(2) In regulation 4 (revision, supersession and appeal of conversion decisions) for paragraph (4) there shall be substituted the following paragraph—
+
+> (4) In their application to a decision referred to in these Regulations, the Decisions and Appeals Regulations shall be modified so as to provide—
+>
+> - (a) on any revision or supersession of a conversion decision under Article 18 or 19 respectively of the Order, that—
+>   - (i) the conversion decision may include a relevant departure direction or relevant property transfer, and
+>   - (ii) the effective date of the revision or supersession shall be as determined under the Decisions and Appeals Regulations or the case conversion date, whichever is the later;
+> - (b) on any appeal in respect of a conversion decision under Article 18 or 19 respectively of the Order, that the time within which the appeal must be brought shall be—
+>   - (i) within the time from the date of notification of the conversion decision against which the appeal is brought, to one month after the case conversion date of that decision, or
+>   - (ii) as determined under the Decisions and Appeals Regulations,
+>
+>   whichever is the later.
+
+.
+
+(3) In regulation 9 (amount of child support maintenance payable)—
+
+- (a) in paragraph (1) for the words from “unless” to the end there shall be substituted—
+
+  > - unless—
+  >   - (a) regulation 10 applies, in which case it shall be a transitional amount as provided for in regulations 11 and 17 to 28; or
+  >   - (b) regulation 12 or 13 applies, in which case it shall be a transitional amount as provided for in those regulations.
+
+  ; and
+- (b) in paragraph (2) for “regulations 10 to 28” there shall be substituted “regulations 10 to 14 and 16 to 28”.
+
+(4) In regulation 10 (circumstances in which a transitional amount is payable) after “reduced rate” there shall be inserted “, an amount calculated under regulation 22”.
+
+(5) In regulation 12 (transitional amount in flat rate cases)—
+
+- (a) in paragraphs (1) and (2) at the end “, nil” shall be omitted;
+- (b) in paragraph (3) for the words from “apportioned” to the end there shall be substituted “apportioned among the persons with care, other than any in respect of whom paragraph 8 of Part I of Schedule 1 to the Order[^f00031] applies, in accordance with paragraph 6(2) of that Schedule, unless paragraph (4) or (5) applies.”;
+- (c) in paragraphs (4) and (5) after “paragraph 4(1)(*b*)” there shall be inserted “or (*c*)”;
+- (d) for paragraph (6) there shall be substituted the following paragraph—
+
+  > (6) Where paragraph (4) or (5) applies, the transitional amount shall be apportioned among the persons with care, other than any in respect of whom the former assessment amount is nil and paragraph 8 of Part I of Schedule 1 to the Order applies, in accordance with paragraph 6(2) of that Schedule.
+
+  ; and
+- (e) in paragraph (7) “in paragraph (5)” shall be omitted.
+
+(6) In regulation 13 (transitional amount — certain flat rate cases) the existing provision shall be numbered as paragraph (1) and after paragraph (1) there shall be added the following paragraph—
+
+> (2) Where paragraph 4(1)(*b*) or (*c*) of Part I of Schedule 1 to the Order applies and the former assessment amount is nil, the amount of child support maintenance payable for the year beginning on the case conversion date shall be a transitional amount equivalent to half the first prescribed amount and thereafter shall not be a transitional amount but shall be the new amount.
+
+.
+
+(7) In regulation 15(4) (case conversion date)—
+
+- (a) for “paragraph (3)” there shall be substituted “this regulation”; and
+- (b) before the definition of “relevant person” there shall be inserted the following definition—
+
+  > - “maintenance assessment” has the meaning given in Article 2(2) of the former Order;
+
+  .
+
+(8) In regulation 17 (relevant departure direction and relevant property transfer) for paragraph (6) there shall be substituted the following paragraph—
+
+> (6) Where, but for the application of a relevant departure direction referred to in paragraph (5), the new amount would be—
+>
+> - (a) the first prescribed amount owing to the application of paragraph 4(1)(*b*) of Part I of Schedule 1 to the Order;
+> - (b) the amount referred to in sub-paragraph (*a*), but is less than that amount or is nil, owing to the application of paragraph 8 of Part I of that Schedule; or
+> - (c) the nil rate under paragraph 5(*a*) of Part I of that Schedule,
+>
+> paragraph (5) applies where the amount of the additional income exceeds £100.
+
+.
+
+(9) In regulation 21(1) (effect on conversion calculation — relevant property transfer) for “regulation 23” there shall be substituted “regulations 23 and 23A”.
+
+(10) In regulation 22(1) (effect on conversion calculation — maximum amount payable where relevant departure direction is on additional cases ground) for “the amount of child support maintenance which the non-resident parent shall be liable to pay” there shall be substituted “the new amount”.
+
+(11) In regulation 23(2) (effect of relevant departure direction on conversion calculation — general) the words from “, other than” to “costs)” shall be omitted.
+
+(12) After regulation 23 there shall be inserted the following regulation—
+
+> **23A. Effect of a relevant property transfer and a relevant departure direction — general**
+>
+> Where—
+>
+> - (a) more than one relevant property transfer applies; or
+> - (b) one or more relevant property transfers and one or more relevant departure directions apply,
+>
+> regulation 23 shall apply as if references to a relevant departure direction were to a relevant property transfer or to the relevant property transfers and relevant departure directions, as the case may be.
+
+.
+
+(13) In regulation 24 (phasing amount)—
+
+- (a) in paragraph (3) for “For” there shall be substituted “Subject to paragraph (4), for”; and
+- (b) after paragraph (3) there shall be added the following paragraph—
+
+  > (4) Where the new amount is calculated under regulation 22(1), “relevant income” for the purposes of paragraph (2) is the aggregate of the income calculated under regulation 22(1)(*b*).
+
+  .
+
+(14) In regulation 27 (subsequent decision with effect in transitional period — amount payable)—
+
+- (a) in paragraph (3)(*b*) after “new amount” there shall be inserted “and greater than the previous transitional amount”;
+- (b) in paragraph (5)(*b*) after “new amount” there shall be inserted “and less than the previous transitional amount”; and
+- (c) in paragraph (6) for “or the nil rate” there shall be substituted “, would be the first prescribed amount or the second prescribed amount but is less than that amount, or is nil, owing to the application of paragraph 8 of Part I of Schedule 1 to the Order, or is the nil rate.”.
+
+(15) In regulation 28 (linking provisions)—
+
+- (a) in paragraphs (1) and (2) for “Where” there shall be substituted “Subject to paragraph (2A), where”;
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) Paragraph (1) or (2) shall not apply where, before any application for a maintenance calculation of a type referred to in paragraph (1) or (2) is made or treated as made, an application for a maintenance calculation is made or treated as made in relation to either the person with care or the non-resident parent (but not both of them) to whom the maintenance assessment referred to in paragraph (1) or (2) related.
+
+  ;
+- (c) in paragraph (4)—
+  - (i) in sub-paragraph (*a*) for the words from “at the first” to the end there shall be substituted—
+
+    > at—
+    >
+    > - (i) the first or second prescribed amount;
+    > - (ii) what would be an amount referred to in head (i) but is less than that amount, or is nil, owing to the application of paragraph 8 of Part I of Schedule 1 to the Order, or
+    > - (iii) the nil rate; and
+
+    ;
+  - (ii) in sub-paragraph (*b*) for the words from “the first or second” to the end there shall be substituted “a rate referred to in sub-paragraph (*a*)”;
+- (d) in paragraph (5) for “Where” there shall be substituted “Subject to paragraph (5A), where”;
+- (e) after paragraph (5) there shall be inserted the following paragraph—
+
+  > (5A) Paragraph (5) shall not apply where, before any second subsequent decision is made, an application for a maintenance calculation is made or treated as made in relation to either the person with care or the non-resident parent (but not both of them) to whom the first subsequent decision referred to in paragraph (4) related.
+
+  ;
+- (f) in paragraph (7) for “Where” there shall be substituted “Subject to paragraph (7A), where” and for “an application for child support maintenance” there shall be substituted “an application for a maintenance calculation”;
+- (g) after paragraph 7 there shall be inserted the following paragraph—
+
+  > (7A) Paragraph (7) shall not apply where, before an application for a maintenance calculation of a type referred to in that paragraph is made or treated as made, an application for a maintenance calculation is made or treated as made in relation to either the person with care or the non-resident parent (but not both of them) to whom the conversion calculation referred to in that paragraph related.
+
+  ;
+- (h) in paragraph (8)—
+  - (i) for “Where” there shall be substituted “Subject to paragraph (9), where”, and
+  - (ii) for sub-paragraph (*a*) there shall be substituted the following sub-paragraph—
+
+    > - (a) a conversion calculation is in force, or pursuant to regulation 16(3) a maintenance calculation is in force, (“the calculation”) and the new amount—
+    >   - (i) is the first or second prescribed amount;
+    >   - (ii) would be an amount referred to in head (i), but is less than that amount, or is nil, owing to the application of paragraph 8 of Part I of Schedule 1 to the Order, or
+    >   - (iii) is the nil rate;
+
+    ; and
+- (i) after paragraph (8) there shall be added the following paragraph—
+
+  > (9) Paragraph (8) shall not apply where, before a subsequent decision of a type referred to in paragraph (8)(*b*) is made, an application for a maintenance calculation is made or treated as made in relation to the person with care or the non-resident parent (but not both of them) to whom the calculation relates.
+
+  .
+
+## 10. Amendment of the Child Support (Variations) Regulations[^key-01beca5e8aa13b81466a2368822791c1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 29th April 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations provide for the amendment of various sets of Regulations relating to child support.
+
+Regulation 1 makes provision for citation and commencement.
+
+Regulations 7, 8, 9 and 10 amend the following Regulations and their provisions will take effect when those Regulations come into operation, which is at different times for different cases as determined by commencement order made under section 68(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the Act”):
+
+- the Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001 (“the Maintenance Calculation Procedure Regulations”);
+- the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001 (“the Maintenance Calculations and Special Cases Regulations”);
+- the Child Support (Transitional Provisions) Regulations (Northern Ireland) 2001 (“the Transitional Regulations”);
+- the Child Support (Variations) Regulations (Northern Ireland) 2001 (“the Variations Regulations”).
+
+Regulations 2(3)(*a*) and 6 amend the Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992 (“the Information Regulations”) and the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (“the Decisions and Appeals Regulations”), respectively, and will come into operation at different times for different cases as determined by commencement order made under section 68(2) of the Act.
+
+Regulations 2(2) and (3)(*b*), 3, 4 and 5 amend Regulations which are in operation and come into effect on 30th April 2002.
+
+Regulation 2 amends the Information Regulations to add to the categories of persons under a duty to furnish information, regulation 3 makes a minor amendment to the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 and regulation 4 amends the Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992 so that an Income Support enhanced disability premium can be included in the calculation of exempt income.
+
+Regulation 5 amends the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996 to provide that certain payments in respect of variant Creutzfeldt-Jakob disease may not be taken into account for the purposes of a departure direction.
+
+Regulation 6 amends the Decisions and Appeals Regulations. Paragraph (2)(*a*)(i) inserts a new ground for revision under regulation 3A of the Decisions and Appeals Regulations. Paragraph (2)(*a*)(ii) provides for revision of certain (maintenance calculation) decisions where a person was not the parent of a relevant child. Paragraph (2)(*c*) inserts a new paragraph (5A) into regulation 3A of the Decisions and Appeals Regulations to provide for certain decisions to be revised at any time. Paragraph (4) provides dates when a supersession takes effect in a case where a flat rate liability is being paid, will become payable or will cease to be payable, at a different rate in accordance with paragraph 4(2) of Schedule 1 to the Child Support (Northern Ireland) Order 1991 (“the Order”), when non-resident parents become or cease to become partners and certain other consequential and incidental provisions as to supersession and time limits for appeals.
+
+Regulation 7 makes minor amendments to the Maintenance Calculation Procedure Regulations. It also specifies the period of notice for the purposes of Article 43(6) of the Order and makes provisions for the effective date of a maintenance calculation in specific cases and clarifies that the transitional provisions in regulation 30(4) to (7) are to apply where Article 9 of the Order prior to its amendment by the Act applied immediately before the commencement date.
+
+Regulation 8 amends the Maintenance Calculations and Special Cases Regulations as to how disabled person’s tax credit is to be taken into account in calculating the income of a non-resident parent and clarifies the type of income from self-employment which will be relevant for a maintenance calculation.
+
+Regulation 9 amends the Transitional Regulations to provide for the time within which an appeal must be brought against a conversion decision to be either within the time from the date of notification of the conversion decision to one month after the date on which that decision takes effect, or as determined under the Decisions and Appeals Regulations, whichever is the later. It also amends those Regulations to clarify which cases are within the conversion provisions in regulation 15(2) of those Regulations, to provide for the transitional amount to be payable in certain flat rate cases and its apportionment between persons with care, to make provision for the effect on a conversion calculation where there is more than one revelant property transfer, or a combination of relevant property transfers and relevant departure directions, to provide for case conversion date provisions to apply to all maintenance assessments, to provide additional cases where the subsequent decision amount is payable and to provide that the linking provisions in regulation 28 of those Regulations do not apply in certain circumstances.
+
+Regulation 10 makes a similar amendment to the Variations Regulations to that made by regulation 5 and makes other minor changes to those Regulations. It also amends regulation 7 of those Regulations so the preliminary consideration provisions apply to an application made under Article 28A of the Order and amends regulation 18 of those Regulations to provide that in certain circumstances land or property held as a business or trade asset is not excluded from the definition of “asset”.
+
+Articles 22(4), 28B(2)(c), 28E(1), 28G and 43(10) of, and paragraph 10 of Schedule 1 and paragraphs 3, 4 and 5 of Schedule 4B to, the Order and section 28 of the Act are some of the enabling provisions under which these Regulations are made. Articles 22, 28B, 28G and 43 of, and paragraph 10 of Schedule 1 and Schedule 4B to, the Order were substituted by sections 5(2), 7, 10 and 18 of, and paragraph 10 of Schedule 1 and Part II of Schedule 2 to, the Act and Article 28E(1) of the Order was amended by section 5(4)(a) of the Act. Sections 5, 7, 10, 18 and 28 of, and Schedule 1 and Part II of Schedule 2 to, the Act were brought into operation, for the purposes only of authorising the making of regulations on 22nd November 2000, and section 7 of the Act, in so far as it relates to Article 28G(2) of the Order, was brought fully into operation on 1st January 2001, by virtue of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 1) Order (Northern Ireland) 2000 ([S.R. 2000 No. 358 (C. 16)](https://www.legislation.gov.uk/nisr/2000/358)).
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 16(1) was amended by paragraph 3 of Schedule 3 to the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)) and paragraph 14 of Schedule 6 and Schedule 7 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)); Articles 18 and 19 were substituted respectively, by Articles 40 and 41 of the Social Security (Northern Ireland) Order 1998; Articles 22 and 28B are substituted respectively, by sections 10 and 5(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4); Article 28E was inserted by Article 3(1) of the Child Support (Northern Ireland) Order 1995 and amended by section 5(4) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Articles 28G and 43 are substituted respectively, by sections 7 and 18 of that Act; Article 47 was amended by paragraph 31 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 and paragraph 10 of Schedule 1 and Schedule 4B are substituted respectively, by section 1(3) of, and Schedule 1 to, and section 6(2) of, and Part II of Schedule 2 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^key-ec6f078c6833c423f5abfc54b85f0495]: Commencement: Reg. 1 in operation at 30.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/164/regulation/1/1)
+
+[^key-51fae3cff8f4ff78d9eb5cd7f28039a0]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/164/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+
+[^key-4703495adcc28ee8c85d8c0eb24a0bad]: Textual amendment: [Regs. 3-8](https://www.legislation.gov.uk/nisr/2002/164/regulation/3) revoked (coming into operation in accordance with reg. 1(1)(c) of the amending Rule) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/b)
+
+[^key-6b559c738c4102450cc69dea4f60176b]: Commencement: Reg. 9 in operation at 30.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/164/regulation/1/1)
+
+[^f00030]: Footnote: [S.R. 2001 No. 19](https://www.legislation.gov.uk/nisr/2001/19)
+
+[^f00031]: Footnote: Part I is substituted by section 1(3) of, and Schedule 1 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^key-01beca5e8aa13b81466a2368822791c1]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/164/regulation/10) revoked (coming into operation in accordance with reg. 1(1)(c) of the amending Rule) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/b)

@@ -1,0 +1,209 @@
+---
+title: The Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014
+id: nisr/2014/163
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2014-06-04'
+text_date: '2021-08-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2014/163
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2014/163/pdfs/nisr_20140163_en.pdf
+- http://www.legislation.gov.uk/nisr/2014/163/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014
+
+> Text as at 2021-08-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2014 No. 163
+
+Police
+
+The Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014
+
+Made
+
+4th June 2014
+
+Coming into operation
+
+10th July 2014
+
+The Department of Justice, in exercise of the powers conferred by section 11(2) of the Financial Provisions Act (Northern Ireland) 2014[^f00001], makes the following Regulations—
+
+## 1. Citation and commencement[^key-a3cbaa801402bc9e0d35bb562828cde1]
+
+These Regulations may be cited as the Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014 and shall come into operation on 10th July 2014.
+
+## 2. Interpretation[^key-37ffc97203156a79eb8977c0c5878c49]
+
+In these Regulations–
+
+- “the Board” means the Board of Trustees of the Police Rehabilitation and Retraining Trust;
+- “the Department” means the Department of Justice;
+- “former police officer” means a former member of—
+  - (a) the Police Service of Northern Ireland.
+  - (b) the Police Service of Northern Ireland Reserve;
+  - (c) the Royal Ulster Constabulary; or
+  - (d) the Royal Ulster Constabulary Reserve;
+- “the Police Association” has the same meaning as in section 32 of the Police (Northern Ireland) Act 1998[^f00002];
+- “the Trust” means the Police Rehabilitation and Retraining Trust.
+
+## 3. Status and constitution of the Trust[^key-bd85ca3044eabfb34a33f6f18d530c5e]
+
+(1) The Trust shall be established as a body corporate for the purposes of providing assistance to police officers and former police officers and their families with clinical and support services in connection with the objectives in section 11 of the Financial Provisions Act (Northern Ireland) 2014 prior to and after cessation of their service.
+
+(2) Subject to the provisions of these Regulations, section 19 of the Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to the Trust; and, for the purposes of that section, the Trust shall be treated as if it were established by an Act of the Assembly.
+
+(3) The Trust shall not be regarded as the servant or agent of the Crown or as enjoying any status, privilege or immunity of the Crown, and the Trust’s property shall not be regarded as property of, or property held on behalf of, the Crown.
+
+(4) The Trust shall consist of a chairperson and a Board of six other members.
+
+(5) One of the Board members shall be nominated by the Chief Constable and two shall be nominated by the Police Association, which nominations shall be approved by the Department.
+
+(6) The chairperson and the Board members shall be appointed by the Department.
+
+## 4. Term of office[^key-f70ef4785875f6cb2e348ed19610e1f4]
+
+(1) Subject to the following provisions of this regulation, a person shall hold and vacate office as chairperson or as a Board member of the Trust in accordance with the terms of his or her appointment.
+
+(2) The chairperson and Board members shall be appointed for a term of up to four years, and a person appointed to fill a casual vacancy shall hold office for the remainder of the term of the person in whose place he or she is appointed.
+
+(3) A person may at any time resign as chairperson or as a Board member by giving one month’s notice in writing to the Department and the Department may remove a person from office as chairperson or as a Board member for any reason under paragraph (4) by giving one month’s notice in writing.
+
+(4) The Department may remove a person from office as chairperson or as a Board member if satisfied that the person—
+
+- (a) has been convicted of a criminal offence;
+- (b) has become bankrupt or made a composition or arrangement with his or her creditors;
+- (c) has failed to comply with the terms of his or her appointment;
+- (d) is otherwise unable or unfit to discharge the functions of a chairperson or Board member.
+
+(5) Where the term of office of the chairperson or of a Board member expires he or she shall be eligible for reappointment for one further term of up to four years.
+
+## 5. Remuneration and allowances[^key-4a11bc2abbac6dd58ef0146602f391f0]
+
+The Trust may pay to the chairperson and Board members such remuneration and allowances as the Trust, with the approval of the Department, may determine.
+
+## 6. Procedures[^key-946dc22f52b535143e74638fe76cee4a]
+
+(1)[^key-691820271ec1702c6932937dbd514865] Subject to these Regulations and to any direction issued by the Department, the Trust may regulate its own procedures.
+
+(2)[^key-f543d3b6d432e46b927d777fce5c8057] Those procedures may provide for the discharge, under the general direction of the Board, of any of the Board’s functions by a committee of the Board or by one or more of the members of the Board or of its staff.
+
+## 7. Payments to the Trust[^key-804f946a78ea5e9fa4ab470e1da72339]
+
+(1) The Department shall make payments to, or for the purposes of, the Trust in accordance with section 11 of the Financial Provisions Act (Northern Ireland) 2014.
+
+(2) A grant under paragraph (1)—
+
+- (a) shall be of such amount;
+- (b) shall be paid at such time, or in instalments of such amounts and at such times; and
+- (c) shall be made on such conditions,
+
+as the Department, with the approval of the Department of Finance and Personnel, may determine.
+
+(3) A time determined under paragraph (2)(b) may fall within or after the financial year concerned.
+
+(4) The Trust shall set the fees and charges for the support it provides and shall provide information about such fees and charges in accordance with such directions as the Department shall issue to it. It shall record all such fees and charges received in the appropriate accounts.
+
+(5) The Trust shall abide by its Management Statement and Financial Memorandum and by any relevant policies of the Department and of the Department of Finance and Personnel.
+
+(6) The Trust may not borrow or raise money for any purposes other than in connection with the functions of the Trust.
+
+(7) All gifts received by the Trust shall be recorded in its accounts.
+
+## 8. Payments made by the Trust[^key-54a211b7e9a039bc357ca6a5fede893a]
+
+(1) The Trust may make payments from the accounts for the following purposes—
+
+- (a) to relieve the distress and hardship of police officers and former police officers who have been injured physically and psychologically;
+- (b) to research and develop vocational and employment opportunities for police officers and former police officers;
+- (c) to develop programmes of education, careers counselling, training and support for police officers and former police officers;
+- (d) to assist in the development of innovations in support of police officers and former police officers;
+- (e) with the approval of the Department to provide similar services to other organisations within or funded by the Department;
+- (f) to pay such remuneration and allowances to employees of the Trust as the Board, with the approval of the Department and of the Department of Finance and Personnel, may from time to time determine;
+- (g) to make such contributions to a pension scheme for the benefit of employees of the Trust as the Board may from time to time determine;
+- (h) to carry out clinical training, research, administrative and other functions ancillary to the provision of assistance to police officers and former police officers;
+- (i) to make payments to families of police officers and former police officers in order to relieve distress and hardship;
+- (j) for any other purpose which the Board considers to be in keeping with the aims and functions of the Trust.
+
+(2) Not less than one month before the start of each financial year, the Trust shall draw up a projected expenditure plan and shall send two copies thereof for approval to the Department.
+
+## 9. Accounts and governance of the Trust[^key-42f46d8fd565b761292e6a5947553947]
+
+The Trust shall—
+
+- (a) keep proper accounts and proper records in relation to the accounts;
+- (b) adhere to such governance and audit standards as the Department may direct;
+- (c) prepare a statement of accounts in respect of each financial year which shall contain such information and shall be in such form as the Department may direct;
+- (d) send such number of copies of the statement of accounts as may be required by the Department of Finance and Personnel to the Department within such period after the end of the financial year to which the statement relates as the Department may direct. The Department shall transmit one copy of the accounts to the Department of Finance and Personnel and shall lay one copy before the Assembly.
+
+## 10. Support[^key-373a12892dc5310d2cc7cd1afdba8dcc]
+
+(1) Appropriate accommodation may be provided to the Trust from within the resources of the Department. The Department may require the Trust to reimburse it for the reasonable cost of such accommodation.
+
+(2) The Trust may, with the approval of the Department as to numbers and terms as to remuneration and other conditions of service, employ such staff as it deems necessary to carry out the functions of the Trust.
+
+(3) The Trust may tender for and retain the services of such qualified professional persons as it deems necessary to discharge its functions, and its accounts shall reflect the numbers and identities of such persons, the amounts paid to each of them annually and the numbers of hours of services provided for those payments.
+
+(4) The Trust may engage such other support as is necessary or expedient for the proper functioning of the Trust.
+
+## 11. Winding up[^key-0f95a4044db4f34b79cab6d6fec31bec]
+
+After consultation with the Department, the Board may, and on a direction so to do from the Department, shall, make all necessary arrangements for the Trust to cease functioning.
+
+Sealed with the Official Seal of the Department of Justice on 4th June 2014
+
+David Ford
+
+Minister of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the constitution, functions, procedures and financing of the Police Rehabilitation and Retraining Trust for the purpose of supporting police officers and former police officers and their families in rehabilitation and retraining which is necessary as a result of their experiences in the course of discharging their duties.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c. 6 (N.I)](https://www.legislation.gov.uk/nia/2014/6).
+
+[^key-a3cbaa801402bc9e0d35bb562828cde1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-37ffc97203156a79eb8977c0c5878c49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/163/regulation/2) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^f00002]: Footnote: [1998 c.32](https://www.legislation.gov.uk/ukpga/1998/32).
+
+[^key-bd85ca3044eabfb34a33f6f18d530c5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/163/regulation/3) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^key-f70ef4785875f6cb2e348ed19610e1f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/163/regulation/4) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-4a11bc2abbac6dd58ef0146602f391f0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/163/regulation/5) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-946dc22f52b535143e74638fe76cee4a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/163/regulation/6) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-691820271ec1702c6932937dbd514865]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/163/regulation/6): renumbered as reg. 6(1) (10.8.2021) by [The Police Rehabilitation and Retraining Trust (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/212)](https://www.legislation.gov.uk/nisr/2021/212), [regs. 1](https://www.legislation.gov.uk/nisr/2021/212/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2021/212/regulation/3/1)
+
+[^key-f543d3b6d432e46b927d777fce5c8057]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2014/163/regulation/6/2) inserted (10.8.2021) by [The Police Rehabilitation and Retraining Trust (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/212)](https://www.legislation.gov.uk/nisr/2021/212), [regs. 1](https://www.legislation.gov.uk/nisr/2021/212/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/212/regulation/3/2)
+
+[^key-804f946a78ea5e9fa4ab470e1da72339]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/163/regulation/7) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-54a211b7e9a039bc357ca6a5fede893a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/163/regulation/8) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-42f46d8fd565b761292e6a5947553947]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/163/regulation/9) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-373a12892dc5310d2cc7cd1afdba8dcc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/163/regulation/10) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+
+[^key-0f95a4044db4f34b79cab6d6fec31bec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/163/regulation/11) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)

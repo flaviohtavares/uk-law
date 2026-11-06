@@ -1,0 +1,400 @@
+---
+title: The Social Security (Welfare to Work) Regulations (Northern Ireland) 1998
+id: nisr/1998/324
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1998-09-15'
+text_date: '2016-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1998/324
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1998/324/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Welfare to Work) Regulations (Northern Ireland) 1998
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2016-04-01. See https://www.legislation.gov.uk/changes/affected/nisr/1998/324
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1998 No. 324
+
+HOUSING; RATES;
+
+SOCIAL SECURITY; STATUTORY SICK PAY
+
+The Social Security (Welfare to Work) Regulations (Northern Ireland) 1998
+
+Made
+
+15th September 1998
+
+Coming into operation
+
+5th October 1998
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 30C(4)(*b*), 47(6), 68(11)(*b*)(i), (*ca*) and (*cc*), 122(1)(*a*) and (*d*), 131(1), 167A, 167C, 167D, 167E and 171(3) and (4) of, and paragraph 1 of Schedule 11 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Articles 6 and 14 of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994[^f00002] and Article 6(5) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00004] in so far as regulation 9 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00005], hereby makes the following Regulations:
+
+## Part I — General
+
+### 1. Citation, commencement and interpretation[^key-1e2859c5fe955415f459b4f557eaa385]
+
+(1) These Regulations may be cited as the Social Security (Welfare to Work) Regulations (Northern Ireland) 1998 and shall come into operation on 5th October 1998.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## Part II — Incapacity Benefit Amendments
+
+### 2. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-86b2ab3952d9bd5a908c061a43be7040]
+
+After regulation 4 of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00007] (night workers) there shall be inserted the following regulation—
+
+> **4A. Calculating periods of incapacity for work for welfare to work beneficiaries**
+>
+> For the purposes of incapacity benefit, in the case of a person who has been determined in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00008] to be a welfare to work beneficiary, section 30C(1)(*c*) (any two periods of incapacity for work not separated by a period of more than 8 weeks to be treated as one period of incapacity for work) shall have effect as if for the reference to 8 weeks there were substituted a reference to 52 weeks.
+
+.
+
+### 3. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^key-df24ca38e8b096126185a6de46f9c3e2]
+
+(1) The Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00009] shall be amended in accordance with paragraphs (2) to (7).
+
+(2) After regulation 17A[^f00010] (awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link) there shall be inserted the following regulation—
+
+> **17B. Calculating periods of incapacity for work for welfare to work beneficiaries in long-term incapacity benefit transitional cases**
+>
+> For the purposes of transitional cases, where a person, to whom regulation 17(1) or 17A applies, has been determined in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 to have become a welfare to work beneficiary, section 30C(1)(*c*) (any two periods of incapacity for work not separated by a period of more than 8 weeks to be treated as one period of incapacity for work) shall have effect as if for the reference to 8 weeks there were substituted a reference to 52 weeks.
+
+.
+
+(3) In regulation 23 (increase of Category A retirement pension for incapacity)—
+
+- (a) the existing provision shall be numbered as paragraph (1); and
+- (b) after paragraph (1) there shall be added the following paragraph—
+
+  > (2) In the case of a person who is a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995, the reference in paragraph (1) to a period of 57 days shall be treated as a reference to a period of 52 weeks.
+
+  .
+
+(4) In regulation 24 (increase of rate of long-term incapacity benefit for dependants in transitional cases)—
+
+- (a) in paragraph (7) for the words “A person” there shall be substituted the words “Except in a case where paragraph (7A) applies, a person”; and
+- (b) after paragraph (7) there shall be inserted the following paragraph—
+
+  > (7A) The exception referred to in paragraph (7) applies only where the person—
+  >
+  > - (a) has been determined to be a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995; and
+  > - (b) is not entitled to incapacity benefit on any day in a period falling within a linking term within the meaning of that regulation.
+
+  .
+
+(5) In regulation 25 (further provisions for dependants in respect of the application of old saving provisions)—
+
+- (a) in paragraph (3) at the beginning there shall be inserted “Except in a case where paragraph (3A) applies,”; and
+- (b) after paragraph (3) there shall be inserted the following paragraph—
+
+  > (3A) The exception referred to in paragraph (3) applies only where the person—
+  >
+  > - (a) has been determined to be a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995; and
+  > - (b) is not entitled to incapacity benefit on any day in a period falling within a linking term within the meaning of that regulation.
+
+  .
+
+(6) In regulation 28(1) (transitional provisions for an increase of severe disablement allowance for adult dependants) for “regulation 24(2) to (7)” there shall be substituted “regulation 24(2) to (7A)”.
+
+(7) In regulation 31(5)(*c*)[^f00011] (application of the new tests of incapacity for work) after “spell” there shall be inserted “or period”.
+
+### 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-d301d2d92569fba42f68838a4e566661]
+
+(1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00012] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) After regulation 13 (person receiving certain regular treatment) there shall be inserted the following regulation—
+
+> **13A. Welfare to work beneficiary**
+>
+> (1) Subject to paragraph (3), a person is a “welfare to work beneficiary” on any day in a linking term, where he—
+>
+> - (a) was incapable of work for a period of incapacity for work of more than 196 days in his immediate past period of incapacity for work;
+> - (b) ceased to be entitled to benefit at the end of that immediate past period of incapacity for work on a day which falls on or after 5th October 1998;
+> - (c) became engaged in remunerative work within one week of so ceasing to be entitled to that benefit at the end of that immediate past period of incapacity for work; and
+> - (d) either—
+>   - (i) gave notice to the Department, within a period of one month after so ceasing to be entitled to that benefit, that he had been engaged in renumerative work within one week from the end of that past period of incapacity for work, or
+>   - (ii) had successfully appealed against an assessment made in respect of the all work test or a determination in respect of the own occupation test in relation to his immediate past period of incapacity for work, which period, had that assessment or determination not been made, would have consisted of a period of incapacity for work of more than 196 days.
+>
+> (2) A welfare to work beneficiary shall be treated as incapable of work on any day in a period, consisting of a cumulative number of days of incapacity for work not exceeding 91 days in total, beginning within the linking term and ending on a day not later than 13 weeks from the end of that linking term, where he—
+>
+> - (a) claims benefit for any day falling within that linking term;
+> - (b) submits evidence in accordance with regulation 2 of the Medical Evidence Regulations[^f00013]; and
+> - (c) in his immediate past period of incapacity for work—
+>   - (i) had been assessed and satisfied the all work test in accordance with Part III, or
+>   - (ii) had been treated under regulation 10[^f00014] as incapable of work.
+>
+> (3) A person is not a welfare to work beneficiary under paragraph (1) if—
+>
+> - (a) his immediate past period of incapacity for work was ended by a determination (other than a determination in the circumstances applicable to a person under paragraph (1)) that he was, or was treated as, capable of work; or
+> - (b) his immediate past period of incapacity for work ended within a period of less than 28 weeks from the end of his last linking term.
+>
+> (4) For the purposes of this regulation—
+>
+> - “benefit” means any benefit, allowance or advantage under the Contributions and Benefits Act (other than statutory sick pay), or under the Jobseekers (Northern Ireland) Order 1995, for which entitlement is dependent on incapacity for work;
+> - “linking term” means a period of 52 weeks (whether or not broken by days of incapacity for work) fixed on the first day immediately following the last day of incapacity in a period of incapacity for work;
+> - “immediate past period of incapacity for work” means a period of incapacity for work under section 30C(1);
+> - “remunerative work” means—
+>   - (a) work (other than exempt work under regulation 17) for which payment is made or which is done in expectation of payment; or
+>   - (b) attendance on a training course in respect of which the person receives a training allowance in pursuance of arrangements made under section 1(1) of the Employment and Training Act (Northern Ireland) 1950[^f00015].
+
+.
+
+(3) In regulation 17(2)(*b*)[^f00016] (exempt work) the words “or (*b*)” shall be omitted.
+
+## Part III — Other Amendments
+
+### 5. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-bdf24196b81063fa04f761d647e55b6e]
+
+After regulation 3 of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00017] (provisions applying after election) there shall be inserted the following regulation—
+
+> **3A. Calculating periods of incapacity for work for welfare to work beneficiaries entitled to an addition to long-term incapacity benefit**
+>
+> Section 47(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00018] (increase of Category A retirement pension for long-term incapacity) shall have effect, in any case where a person is treated in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 as a welfare to work beneficiary, as if for the reference to 8 weeks there were substituted a reference to 52 weeks.
+
+.
+
+### 6. Amendment of the Statutory Sick Pay (General) Regulations[^key-e1d0f6cc8683cf83f5bf4ed490a59d0f]
+
+In regulation 3 of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00019] (period of entitlement ending or not arising) after paragraph (2) there shall be inserted the following paragraph—
+
+> (2A) A period of entitlement in respect of an employee who was entitled to incapacity benefit, maternity allowance or severe disablement allowance shall not arise in relation to any day within a period of incapacity for work beginning with the first day on which paragraph 2(*d*) of Schedule 11 to the Contributions and Benefits Act[^f00020] ceases to have effect where the employee in question is a person to whom regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 (welfare to work beneficiary) applies.
+
+.
+
+### 7. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^key-cee5e2b9535b5ff241734b99ea025f6f]
+
+(1) The Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984[^f00021] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 7[^f00022] (days for which persons are to be regarded as incapable of work for the purposes of severe disablement allowance) after paragraph (1A) there shall be inserted the following paragraph—
+
+> (1B) For the purposes of severe disablement allowance, a person shall be treated as incapable of work on any day in a period, consisting of a cumulative number of days of incapacity for work not exceeding 91 days in total for which he makes a claim for severe disablement allowance, beginning within a linking term and ending on a day not later than 13 weeks from the end of that linking term in respect of which he has been determined to be a person who is a welfare to work beneficiary; and in this paragraph “linking term” and “welfare to work beneficiary” have the meanings given in regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 (welfare to work beneficiary).
+
+.
+
+(3) In regulation 10[^f00023] (adjudication)—
+
+- (a) in paragraph (1) after sub-paragraph (*h*) there shall be inserted the following sub-paragraph—
+
+  > - (hh) subject to paragraph (2B) and during the period referred to in regulation 7(1B), evidence that he has been determined on that day to be a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995; or
+
+  ; and
+- (b) after paragraph (2A) there shall be inserted the following paragraph—
+
+  > (2B) Paragraph (1)(*hh*) shall not apply to a welfare to work beneficiary who, in his immediate past period of incapacity for work within the meaning of regulation 13A of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995, was not assessed to be disabled in accordance with section 68(6) of the Contributions and Benefits Act.
+
+  .
+
+### 8. Amendment of the Income Support (General) Regulations[^key-c8d1bc316ea3a4e6cbacfaa562c02003]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00024] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation) after the definition of “voluntary organisation”[^f00025] there shall be inserted the following definition—
+
+> - “welfare to work beneficiary” means a person—
+>   - (a) to whom regulation 13A(1) of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 applies; and
+>   - (b) who again becomes incapable for work for the purposes of Part XIIA of the Contributions and Benefits Act[^f00026];
+
+.
+
+(3) In Schedule 2 (applicable amounts)—
+
+- (a) in paragraph 10[^f00027] (higher pensioner premium) after sub-paragraph (3) there shall be added the following sub-paragraph—
+
+  > (4) In the case of a claimant who is a welfare to work beneficiary, references in sub-paragraphs (1)(*b*)(ii), (2)(*b*)(ii) and (3)(*b*) to a period of 8 weeks shall be treated as references to a period of 52 weeks.
+
+  ;
+- (b) in paragraph 12[^f00028] (additional condition for the higher pensioner and disability premiums) after sub-paragraph (1) there shall be inserted the following sub-paragraph—
+
+  > (1A) In the case of a claimant who is a welfare to work beneficiary, the reference in sub-paragraph (1)(*b*) to a period of 56 days shall be treated as a reference to a period of 52 weeks.
+
+  .
+
+(4) In Schedule 3[^f00029] (housing costs)—
+
+- (a)[^key-14513b93948d71fa6f253a40c01d3b7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph 14[^f00031] (linking rule) after sub-paragraph (9) there shall be added the following sub-paragraph—
+
+  > (10) In the case of a person who is a welfare to work beneficiary, the references in sub-paragraphs (1)(*a*)(ii), (1)(*d*) and (1)(*f*)(iii) to a period of 12 weeks shall be treated as references to a period of 52 weeks.
+
+  .
+
+### 9. Amendment of the Housing Benefit (General) Regulations[^key-77fbb2e02b046760478eb889f38ecd97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amendment of the Housing Benefit (General) (Amendment No. 2) Regulations[^key-b0e6e23a90a1490e831260e9a0f54216]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendment of the Jobseeker’s Allowance Regulations[^key-bf4bee8cb32b8e89ced32b4b5a2eed4f]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00037] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation) after the definition of “week” there shall be inserted the following definition—
+
+> - “welfare to work beneficiary” means a person—
+>   - (a) to whom regulation 13A(1) of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 applies, and
+>   - (b) who again becomes incapable of work for the purposes of Part XIIA of the Benefits Act;
+
+.
+
+(3) In Schedule 1 (applicable amounts) in paragraph 12[^f00038] after sub-paragraph (2) there shall be added the following sub-paragraph—
+
+> (3) In this paragraph, where a claimant’s partner is a welfare to work beneficiary, sub-paragraphs (1)(*a*)(ii) and (2)(*b*) shall apply to him as if for “8 weeks” there were substituted “52 weeks”.
+
+.
+
+(4) In Schedule 2 (housing costs) in paragraph 13[^f00039] after sub-paragraph (11) there shall be added the following sub-paragraph—
+
+> (12) Where the claimant’s partner to whom this paragraph applies is a welfare to work beneficiary, sub-paragraphs (1)(*a*)(ii), (1)(*d*) and (1)(*f*)(iii) shall apply to him as if for “12 weeks” there were substituted “52 weeks”.
+
+.
+
+### 12. Amendment of the Housing Benefit (General) (Amendment No. 4) Regulations[^key-39ab5b1ca8ab276967057cd9e3ab45b0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+15th September 1998.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 9 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. Ritchie
+
+Assistant Secretary
+
+15th September 1998.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend—
+
+the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994 so that two periods of incapacity for work separated by less than 52 weeks are treated as one period of incapacity for work for welfare to work beneficiaries (regulation 2);
+
+the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995 so that an incapacity transitional long-term award recipient who becomes a welfare to work beneficiary may return, within a period of 52 weeks, to receiving that benefit (regulation 3);
+
+the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 to define welfare to work beneficiaries; they are treated as incapable of work for a period of up to 91 days in total when they become incapable again within a period of 52 weeks; restrictions on claimants who do voluntary work are also removed (regulation 4);
+
+the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979 so that welfare to work beneficiaries who claim Category A retirement pension are entitled to an increase of retirement pension for incapacity if they were entitled to a long-term incapacity benefit age addition in the period of 52 weeks before they reach pension age (regulation 5);
+
+the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 so that employers are not liable to pay statutory sick pay to certain employees who are treated as welfare to work beneficiaries and who become incapable of work again within 52 weeks (regulation 6);
+
+the Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984 so that welfare to work beneficiaries are treated as incapable of work, and as disabled, for a period of up to 91 days when they reclaim severe disablement allowance within 52 weeks (regulation 7); and
+
+the Income Support (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1996, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 and the Housing Benefit (General) (Amendment No. 4) Regulations (Northern Ireland) 1997 to extend to 52 weeks certain maximum periods which link separate periods of benefit entitlement where a claimant has ceased to be entitled to the benefit concerned upon becoming a welfare to work beneficiary.
+
+In so far as these Regulations are required, for the purposes of regulation 9, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992 (“the Administration Act”), after agreement by the Social Security Advisory Committee they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Administration Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 30C was inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)); section 68(11)(*ca*) and (*cb*) was substituted for section 68(11)(*c*) by paragraph 18(3) of Schedule 1 to that Order; section 68(11)(*cc*) was inserted by Article 11(3) of that Order; sections 167A and 167C were inserted by Article 7 of that Order and sections 167D and 167E were inserted by Article 8(1) of that Order
+
+[^f00002]: Footnote: [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00004]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; subsection (6A) was inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-1e2859c5fe955415f459b4f557eaa385]: Commencement: Reg. 1 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-86b2ab3952d9bd5a908c061a43be7040]: Commencement: Reg. 2 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00007]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461), to which there are amendments not relevant to these regulations
+
+[^f00008]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); regulation 13A is inserted by regulation 4(2) of these regulations
+
+[^key-df24ca38e8b096126185a6de46f9c3e2]: Commencement: Reg. 3 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00009]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
+
+[^f00010]: Footnote: Regulation 17A was inserted by regulation 3(3) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^f00011]: Footnote: Regulation 31 was amended by regulation 3(8) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and regulation 3(5) of [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
+
+[^key-d301d2d92569fba42f68838a4e566661]: Commencement: Reg. 4 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00012]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149), [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601), [S.R. 1997 No. 174](https://www.legislation.gov.uk/nisr/1997/174) and [S.R. 1998 No. 54](https://www.legislation.gov.uk/nisr/1998/54)
+
+[^f00013]: Footnote: Regulation 2 was amended by regulation 2(1) of [S.R. 1982 No. 153](https://www.legislation.gov.uk/nisr/1982/153), regulation 2(3) of [S.R. 1987 No. 117](https://www.legislation.gov.uk/nisr/1987/117), regulation 2(2) of [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), regulation 2(3) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and regulation 2(2) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^f00014]: Footnote: Regulation 10 was amended by regulation 4(3) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149), regulation 4(3) of [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601) and regulation 3 of [S.R. 1997 No. 174](https://www.legislation.gov.uk/nisr/1997/174)
+
+[^f00015]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1(1) was substituted by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087))
+
+[^f00016]: Footnote: Regulation 17 was amended by regulation 2 of [S.R. 1998 No. 54](https://www.legislation.gov.uk/nisr/1998/54)
+
+[^key-bdf24196b81063fa04f761d647e55b6e]: Commencement: Reg. 5 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00017]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243), to which there are amendments not relevant to these regulations
+
+[^f00018]: Footnote: Section 47 was amended by paragraph 33 of Schedule 7 to the Pension Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49) and paragraph 13 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
+
+[^key-e1d0f6cc8683cf83f5bf4ed490a59d0f]: Commencement: Reg. 6 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00019]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending regulations are [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83), [S.R. 1987 No. 248](https://www.legislation.gov.uk/nisr/1987/248) and [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191)
+
+[^f00020]: Footnote: Paragraph 2(*d*) was substituted by paragraph 42(2) of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
+
+[^key-cee5e2b9535b5ff241734b99ea025f6f]: Commencement: Reg. 7 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00021]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317); relevant amending regulations are [S.R. 1986 No. 337](https://www.legislation.gov.uk/nisr/1986/337), [S.R. 1994 Nos. 370](https://www.legislation.gov.uk/nisr/1994/370) and [462](https://www.legislation.gov.uk/nisr/1994/462) and [S.R. 1997 No. 174](https://www.legislation.gov.uk/nisr/1997/174)
+
+[^f00022]: Footnote: Regulation 7 was amended by regulation 2(5) of [S.R. 1994 No. 462](https://www.legislation.gov.uk/nisr/1994/462)
+
+[^f00023]: Footnote: Regulation 10 was amended by regulation 2(3) of [S.R. 1986 No. 337](https://www.legislation.gov.uk/nisr/1986/337) and regulation 2 of [S.R. 1997 No. 174](https://www.legislation.gov.uk/nisr/1997/174)
+
+[^key-c8d1bc316ea3a4e6cbacfaa562c02003]: Commencement: Reg. 8 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00024]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6) and [147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1993 No. 73](https://www.legislation.gov.uk/nisr/1993/73), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 Nos. 67](https://www.legislation.gov.uk/nisr/1995/67), [86](https://www.legislation.gov.uk/nisr/1995/86), [301](https://www.legislation.gov.uk/nisr/1995/301), [367](https://www.legislation.gov.uk/nisr/1995/367) and [434](https://www.legislation.gov.uk/nisr/1995/434), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
+
+[^f00025]: Footnote: The definition of “voluntary organisation” was inserted by regulation 2(2) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
+
+[^f00026]: Footnote: Part XIIA was inserted by Articles 7 and 8 of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
+
+[^f00027]: Footnote: Paragraph 10 was amended by regulation 30(*a*) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and regulation 10 of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
+
+[^f00028]: Footnote: Paragraph 12 was amended by regulation 30(*c*) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), regulation 15(*b*) of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431), regulation 6(*e*) of [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), regulation 3(5)(*b*) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387), regulation 10(4)(*b*) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 2(9)(*a*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), regulation 2(12) of [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67), regulation 2(9) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and regulation 2(8) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
+
+[^f00029]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^key-14513b93948d71fa6f253a40c01d3b7d]: Textual amendment: [Reg. 8(4)(a)](https://www.legislation.gov.uk/nisr/1998/324/regulation/8/4/a) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
+
+[^f00031]: Footnote: Paragraph 14 was amended by regulation 2(3)(*i*) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434), regulation 24(*b*) of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), regulation 5(10)(*b*) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405), regulation 16(3) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and regulation 3(5) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
+
+[^key-77fbb2e02b046760478eb889f38ecd97]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/324/regulation/9) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-b0e6e23a90a1490e831260e9a0f54216]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/324/regulation/10) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-bf4bee8cb32b8e89ced32b4b5a2eed4f]: Commencement: Reg. 11 in operation at 5.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/324/regulation/1/1)
+
+[^f00037]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending regulations are [S.R. 1996 Nos. 358](https://www.legislation.gov.uk/nisr/1996/358) and [503](https://www.legislation.gov.uk/nisr/1996/503) and [S.R. 1997 Nos. 165](https://www.legislation.gov.uk/nisr/1997/165) and [541](https://www.legislation.gov.uk/nisr/1997/541)
+
+[^f00038]: Footnote: Paragraph 12 was amended by regulation 2(17)(*b*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^f00039]: Footnote: Paragraph 13 was amended by regulation 29(5) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), regulation 2(18)(*a*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503), regulation 7(2) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165) and regulation 13(3) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
+
+[^key-39ab5b1ca8ab276967057cd9e3ab45b0]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/324/regulation/12) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

@@ -1,0 +1,238 @@
+---
+title: The Genetically Modified Food Regulations (Northern Ireland) 2004
+id: nisr/2004/385
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-09-10'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/385
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/385/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Genetically Modified Food Regulations (Northern Ireland) 2004
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 385
+
+FOOD
+
+The Genetically Modified Food Regulations (Northern Ireland) 2004
+
+Made
+
+10th September 2004
+
+Coming into operation
+
+8th October 2004
+
+The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(a), (e) and (f), 16(2), 17(1), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:[^key-c0b9cd03f1a664aad4479f86cda494d3]
+
+## 1. Citation and commencement[^key-c367f653abb85cc2a501ae620ab78c11]
+
+These Regulations may be cited as the Genetically Modified Food Regulations (Northern Ireland) 2004 and shall come into operation on 8th October 2004.
+
+## 2. Interpretation[^key-375db53ee894215dbdfa1d94ee0cadf1]
+
+(1) In these Regulations –
+
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “Regulation 1829/2003” means Regulation 1829/2003 of the European Parliament and of the Council on genetically modified food and feed; as last amended by Regulation[^key-2806cb55c269f1b18e74a4381c63729d] [(EC) 298/2008](https://www.legislation.gov.uk/european/regulation/2008/0298) of the European Parliament and of the Council.
+- “specified Community provision” means a provision of Regulation 1829/2003 specified in Column 1 and described in Column 2 of the Schedule to these Regulations.
+
+(2) In these Regulations –
+
+- (a) any reference to a numbered Article is a reference to the Article so numbered in Regulation 1829/2003;
+- (b) any reference to a numbered regulation is a reference to the regulation so numbered in these Regulations;
+- (c) any reference to a Schedule is a reference to the Schedule to these Regulations.
+
+(3) Other expressions used in these Regulations and in Regulation 1829/2003 have the same meanings in these Regulations as in Regulation 1829/2003.
+
+## 3. Submission of applications for authorisation to market products[^key-506810cc882585b49e7407d6c876860c]
+
+The national competent authority for the purposes of Chapter II of Regulation 1829/2003 shall be the Food Standards Agency[^f00005].
+
+## 4. Enforcement[^key-35f00c2cc7f2cdc9f54f8b6c80c8efb2]
+
+Each district council shall enforce and execute the provisions of these Regulations and Chapter II of Regulation 1829/2003 within its district.
+
+## 5. Offences and penalties[^key-fdba4ba81e7bdfa7615f301210dadb20]
+
+(1) Any person who, after the date on which these Regulations come into operation, contravenes the specified Community provision contained in Part I of the Schedule shall be guilty of an offence and liable –
+
+- (a) on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine or to both.
+
+(2) Any person who, after the date on which these Regulations come into operation, contravenes any of the specified Community provisions contained in Part II of the Schedule shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+## 6. Application of various provisions of the Order[^key-4c44e484d20c8bd79645ab2314e570ae]
+
+(1) The following provisions of the Order shall apply for the purposes of these Regulations and Regulation 1829/2003 as they apply for the purposes of the Order –
+
+- (a) Article 4 (presumptions that food intended for human consumption);
+- (b) Article 19 (offences due to fault of another person);
+- (c) Article 20 (defence of due diligence) as it applies for the purposes of Article 7, 13 or 14 of the Order;
+- (d) Article 21 (defence of publication in the course of business);
+- (e) Article 30(8) (which relates to documentary evidence);
+- (f) Article 34(1) (obstruction, etc., of officers);
+- (g) Article 34(2), with the modification that the reference to “any such requirement as is mentioned in paragraph (1)(b)” shall be deemed to be a reference to any such requirement as is mentioned in Article 34(1)(b) as applied by paragraph (f);
+- (h) Article 36(1) (punishment of offences) in so far as it relates to offences under Article 34(1) as applied by paragraph (f).
+- (i) Article 36(2) and (3) in so far as it results to offences under Article 34(2) as applied by paragraph (g).
+
+(2) Article 35 (time limit for prosecutions) shall apply to offences under regulation 5 as it applies to offences punishable under Article 36(2) of the Order.
+
+## 7. Inspection, detention and seizure of suspected food[^key-6df0663ade08df2d45e56a93d648dcce]
+
+(1) Article 7(2) of the Order shall apply for the purposes of these Regulations as if it read as follows –
+
+> (2) Where any food which fails to comply with a specified Community provision within the meaning of the Genetically Modified Food Regulations (Northern Ireland) 2004 is part of a batch, lot or consignment of food of the same class or description, it shall be presumed for the purposes of Article 8 as applied by those Regulations until the contrary is proved, that all of the food in that batch, lot or consignment fails to comply with that specified Community provision.
+
+.
+
+(2) Article 8 of the Order shall apply for the purposes of these Regulations as if it read as follows –
+
+> **8.** (1) An authorised officer may at all reasonable times inspect any food intended for human consumption which –
+>
+> - (a) has been placed on the market; or
+> - (b) is in the possession of, or has been deposited with or consigned to, any person for the purpose of placing it on the market;
+>
+> and paragraphs (2) to (9) shall apply where, on such an inspection, it appears to the authorised officer that the placing on the market of any food fails to comply with a specified Community provision.
+>
+> (2) The authorised officer may either –
+>
+> - (a) give notice to the person in charge of the food that, until the notice is withdrawn, the food or any specified portion of it –
+>   - (i) is not to be used for human consumption; and
+>   - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+> - (b) seize the food and remove it in order to have it dealt with by a justice of the peace;
+>
+> and any person who knowingly contravenes the requirements of a notice under sub-paragraph (a) shall be guilty of an offence.
+>
+> (3) Where the authorised officer gives notice under paragraph (2)(a), he shall, as soon as is reasonably practicable and in any event before the expiration of 21 days, determine whether or not he is satisfied that the food complies with the specified Community provisions and –
+>
+> - (a) if he is so satisfied, shall forthwith withdraw the notice;
+> - (b) if he is not so satisfied, shall seize the food and remove it in order to have it dealt with by a justice of the peace.
+>
+> (4) Where an authorised officer seizes and removes food under paragraph (2)(b) or (3)(b), he shall inform the person in charge of the food of his intention to have it dealt with by a justice of the peace and –
+>
+> - (a) any person who under regulation 5 of the Genetically Modified Food Regulations (Northern Ireland) 2004 might be liable to a prosecution in respect of the food shall, if he attends before the justice of the peace by whom the food falls to be dealt with, be entitled to be heard and to call witnesses; and
+> - (b) that justice of the peace may, but need not, be a member of the court before which any person is charged with an offence in relation to that food.
+>
+> (5) If it appears to a justice of the peace, on the basis of such evidence as he considers appropriate in the circumstances, that any food falling to be dealt with by him under this Article fails to comply with a specified Community provision then, subject to paragraph (6), he shall condemn the food and order –
+>
+> - (a) that food to be destroyed or to be so disposed of as to prevent it from being used for human consumption or animal feed; and
+> - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the operator.
+>
+> (6) In the case of a food referred to in Article 3.1 which is the subject of an authorisation granted under Regulation 1829/2003 and has been produced in accordance with any conditions relating to that authorisation but does not bear the appropriate labelling as required by Article 13 the justice of the peace may, at his discretion, order –
+>
+> - (a) that the food be labelled properly as soon as is reasonably practicable and at the expense of the operator; and
+> - (b) the release of the food into the custody of the operator.
+>
+> (7) If a notice under paragraph (2)(a) is withdrawn, or the justice of the peace by whom any food falls to be dealt with under this Article refuses to condemn it or to make an order for the proper labelling of the food, the district council shall compensate the owner of the food for any depreciation in its value resulting from the action taken by the authorised officer.
+>
+> (8) Any disputed question as to the right to or the amount of any compensation payable under paragraph (7) shall be determined by a single arbitrator appointed, failing agreement between the parties, by the Department; and the provisions of the Arbitration Act 1996[^f00006] shall apply accordingly.
+>
+> (9) In this Article “specified Community provision” has the same meaning as in the Genetically Modified Food Regulations (Northern Ireland) 2004.
+
+.
+
+## 8. Revocation[^key-14ce0b474bae752319b733cf928994b1]
+
+The Genetically Modified and Novel Foods (Labelling) Regulations (Northern Ireland) 2000[^f00007] are hereby revoked.
+
+## 9. Consequential amendments[^key-653d59b94865ec765f4ae275b4363ee0][^key-c929a58cf13f3a83a019d5d9e9da7d78]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 10th September 2004.
+
+Leslie Frew
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS
+
+Regulations 2 and 5
+
+### PART I[^key-21a563e8497e9df4c711e93f43ba92fa]
+
+| Provision of Regulation 1829/2003 | Subject Matter |
+| --- | --- |
+| Article 4.2 | Prohibition on placing on the market a food referred to in Article 3.1 unless it is covered by an authorisation and satisfies relevant conditions of the authorisation. |
+
+### PART II[^key-da605c1f4a17a03c34cbd3640ae016e1]
+
+| Provision of Regulation 1829/2003 | Subject Matter |
+| --- | --- |
+| Article 8.6 | Requirement that products in respect of which the Commission have adopted a measure under Article 8.6 shall be withdrawn from the market. |
+| Article 9 | Requirement that an authorisation holder and parties concerned must comply with conditions or restrictions imposed on an authorisation for a product and with post-market monitoring requirements. |
+| Article 9.3 | Requirement that an authorisation holder inform the Commission of any new scientific or technical information relating to a product, which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
+| Article 13 | Requirement for certain labelling indications |
+
+(This note is not part of the Regulations.)
+
+These Regulations provide for the enforcement and execution of certain specified provisions (relating to food) of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed (O.J. No. L268, 18.10.2003, p. 1). Separate Regulations make provision for the enforcement of those provisions of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) relating to animal feed.
+
+In particular these Regulations –
+
+- (a) formally designate the Food Standards Agency as the national competent authority to receive applications for the authorisation of new genetically modified organisms for food use, food containing or consisting of genetically modified organisms, or food produced from or containing ingredients produced from genetically modified organisms (*regulation 3*);
+- (b) provide for district councils to enforce the provisions of these Regulations and Chapter II of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829), once the Regulations are in operation (*regulation 4*);
+- (c) establish penalties for failing to comply with certain specified provisions of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) (*regulation 5 and the Schedule*);
+- (d) apply various provisions of the Food Safety (Northern Ireland) Order 1991 with some modifications in their application for the purposes of these Regulations (*regulations 6 and 7*);
+- (e) revoke the Genetically Modified and Novel Foods (Labelling) Regulations (Northern Ireland) 2000 (*regulation 8*);
+- (f) make consequential amendments to the Novel Foods and Novel Food Ingredients Regulations (Northern Ireland) 2004 and to the Food (Provisions Relating to Labelling) Regulations (Northern Ireland) 2003 (*regulation 9*).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; *see* S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3
+
+[^f00002]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
+
+[^key-c0b9cd03f1a664aad4479f86cda494d3]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2004/385) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^key-c367f653abb85cc2a501ae620ab78c11]: Commencement: Reg. 1 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-375db53ee894215dbdfa1d94ee0cadf1]: Commencement: Reg. 2 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-2806cb55c269f1b18e74a4381c63729d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/385/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/12/2)
+
+[^key-506810cc882585b49e7407d6c876860c]: Commencement: Reg. 3 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^f00005]: Footnote: The address of the Food Standards Agency in Northern Ireland is 10B Clarendon Road, Belfast BT1 3BG
+
+[^key-35f00c2cc7f2cdc9f54f8b6c80c8efb2]: Commencement: Reg. 4 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-fdba4ba81e7bdfa7615f301210dadb20]: Commencement: Reg. 5 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-4c44e484d20c8bd79645ab2314e570ae]: Commencement: Reg. 6 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-6df0663ade08df2d45e56a93d648dcce]: Commencement: Reg. 7 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^f00006]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
+
+[^key-14ce0b474bae752319b733cf928994b1]: Commencement: Reg. 8 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^f00007]: Footnote: [S.R. 2000 No. 189](https://www.legislation.gov.uk/nisr/2000/189), as amended by [S.R. 2003 No. 448](https://www.legislation.gov.uk/nisr/2003/448)
+
+[^key-653d59b94865ec765f4ae275b4363ee0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/385/regulation/9) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/12/3)
+
+[^key-c929a58cf13f3a83a019d5d9e9da7d78]: Commencement: Reg. 9 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-21a563e8497e9df4c711e93f43ba92fa]: Commencement: Sch. Pt. I in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+
+[^key-da605c1f4a17a03c34cbd3640ae016e1]: Commencement: Sch. Pt. II in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)

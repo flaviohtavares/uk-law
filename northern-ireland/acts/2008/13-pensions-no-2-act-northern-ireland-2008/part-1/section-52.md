@@ -1,0 +1,48 @@
+---
+title: Pensions (No. 2) Act (Northern Ireland) 2008, section 52
+act: Pensions (No. 2) Act (Northern Ireland) 2008
+section: '52'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/13/section/52
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions (No. 2) Act (Northern Ireland) 2008, section 52
+
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/nia/2008/13
+>
+> Extent: Northern Ireland.
+
+## 52. Penalty notices[^c19558251][^key-fbaa1e4bb8ca811c0f27aac2a9ecfcbb]
+
+*Extent: N.I.*
+
+(1) The Regulator may issue a penalty notice to an employer if it is of the opinion that the employer—
+
+- (a) has contravened section 50, or
+- (b) has failed to comply with a compliance notice under section 51.
+
+(2) A penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+
+(3) The penalty—
+
+- (a) is to be determined in accordance with regulations, and
+- (b) must not exceed £50,000.
+
+(4) A penalty notice must—
+
+- (a) state the amount of the penalty;
+- (b) state the date, which must be at least four weeks after the date on which the notice is issued, by which the penalty must be paid;
+- (c) specify the contravention or failure to which the notice relates;
+- (d) notify the employer of the review process under section 43 and the right to make a reference under section 44 (as applied by section 53).
+
+(5) Section 42 (penalty notices: recovery) applies to a penalty payable under this section, and to a notice under this section, as it applies to a penalty payable under section 40, and to a notice under that section.
+
+## Annotations
+
+[^c19558251]: Commencement: S. 52 partly in force; s. 52 in force for certain purposes at Royal Assent see s. 118(2)
+
+[^key-fbaa1e4bb8ca811c0f27aac2a9ecfcbb]: Commencement: S. 52 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

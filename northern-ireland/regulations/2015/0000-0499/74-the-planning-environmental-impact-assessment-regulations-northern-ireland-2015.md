@@ -1,0 +1,829 @@
+---
+title: The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015
+id: nisr/2015/74
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-02-25'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/74
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/74/pdfs/nisrem_20150074_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/74/pdfs/nisr_20150074_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/74/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 74
+
+Planning
+
+The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015
+
+Made
+
+25th February 2015
+
+Coming into operation
+
+1st April 2015
+
+[^c22386151][^c22386161]The Department of the Environment is a designated Department for the purposes of section 2(2) of the European Communities Act 1972 , in relation to the environment.
+
+The Department of the Environment makes the following regulations in exercise of the powers conferred on it by that section and having taken into account the selection criteria in Annex III to Council Directive 2011/92/EU [^c22386171].[^key-3d1410f5a2a1610e6225b8cd7a7c576e]
+
+## PART 1 — General[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 1. Citation and commencement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Interpretation[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Directions[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Prohibition on the grant of planning permission or subsequent consent without consideration of environmental information[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Confirmation that development is EIA development[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Appeals under Section 58 or Section 60 of the 2011 Act[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Pre-Application Procedures[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 7. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Preparation of Environmental Statements[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 8. Procedure to facilitate preparation of environmental statements[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Provision of information[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Procedures on Receipt of Application[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 10. Applications made to the council which appear to require determination as to need for environmental impact assessment[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Applications made to the Department which appear to require determination as to need for environmental impact assessment[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Subsequent applications made to the council where environmental information previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Subsequent applications made to the Department where environmental information previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Subsequent applications made to the council where environmental information not previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Subsequent applications made to the Department where environmental information not previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Application made to the council without an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Application made to the Department without an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Application referred to the Department without an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Extension of the period for council's or Department's decision on an application for planning permission or subsequent application[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Publicity[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 20. Publicity where an environmental statement is submitted[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Availability of copies of environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Consultation where environmental statement submitted[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Further information and evidence relating to environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Charges[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Duty to inform the public of decisions[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Development by a council[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 26. Modifications where application is by a council[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — Development likely to Affect Other EEA states[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 27. Development in Northern Ireland likely to have significant effects on the environment in another EEA state[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Projects in another EEA state likely to have significant transboundary effects[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Unauthorised Development[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 29. Interpretation of Part 8[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Prohibition on the grant of planning permission for unauthorised development[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Determination as to need for environmental statement, etc.[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Time period for submission of environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Provision of information[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Procedure where the Commission receives an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Further information and evidence respecting environmental statements[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Publicity for environmental statements and decisions[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Involvement of other EEA states[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 9 — Permission in Enterprise and Simplified Planning Zones and Permission Granted by Development Orders[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 38. Restrictions on grant of permission by old enterprise zone schemes[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Development Orders[^key-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 10 — Miscellaneous
+
+### 41. Availability of information in relation to determinations, opinions, decisions, etc.[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Hearing by the Commission in relation to the council's or Department's determination[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 43. Use of electronic communications[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 44. Application to the Crown[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45. Revocation, saving and transitional provisions
+
+(1)[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Regulations specified in paragraph (4) which continued to apply by virtue of Regulation 40 of the 2012 Regulations (as that regulation had effect immediately before the coming into operation of these Regulations) in respect of the matters specified in paragraph 2(a) to (c) of that regulation shall continue to have effect in relation to those matters subject to the amendments specified in Schedule 5; and anything done by, to or in relation to the Department in connection with its functions under those Regulations shall be treated as if it had been done by, to or in relation to the council or, as the case may be, the Department in connection with its functions under those Regulations as amended by Schedule 5.
+
+(4) The Regulations referred to in paragraph (3) are
+
+- (a) the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999 [^c22386331];
+- (b) the Planning (Electronic Communications) Order (Northern Ireland) 2006 [^c22386341];
+- (c) the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2008 [^c22386351]; and
+- (d) the Planning (Environmental Impact Assessment) (Amendment No. 2) Regulations (Northern Ireland) 2008 [^c22386361].
+
+(5)[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of the Environment on 25th February 2015
+
+Angus Kerr
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — Descriptions of development for the purposes of the definition of “Schedule 1 development”[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+Regulation 2(2)
+
+### Interpretation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Descriptions of development
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+Regulation 2(2)
+
+**1.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Selection criteria referred to in Article 4.3 of the Directive[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+Regulation 2(2) definition of “selection criteria”
+
+### 1. Characteristics of development
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Location of development
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Characteristics of the potential impact
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Matters for Inclusion in Environmental Statement[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+Regulation 2 (2) – definitionof “environmental statement”
+
+### PART 1[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**1.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2[^key-4edfb142053d7d782e4807e5e23f891b]
+
+**1.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Saving and transitional provisions
+
+Regulation 45(3)
+
+### PART 1 — Modifications of Statutory Rules
+
+The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999
+
+| *Provision of Regulation to be modified* | *Modification* |
+| --- | --- |
+| Regulation 1 (Citation and commencement) | None |
+| Regulation 2(2) (Interpretation) | After “the 1991 Order” insert “ “**the 2011 Act**” means the Planning Act (Northern Ireland) 2011; ”<br>After “the Commission” insert “ “**council**” means a district council; ”<br>In the definition of “local advertisement (b)” for “where the Department, or the Commission” substitute “ where the Department, council, or the Commission ” |
+| Regulation 3 (Directions) | None |
+| Regulation 3A | None |
+| Regulation 4(1) (Prohibition on the grant of planning permission or subsequent consent without consideration of environmental information)<br>Regulation 4(2) | In each instance for the words “by the Department” substitute “ by a council or the Department ”.<br>For the words “The Department or the Commission” substitute “ A council, the Department or the Commission ”.<br>After paragraph (2) insert “ (3) Paragraph (2) applies to a council where an application to which these Regulations apply is to be treated as having been made to it under the 2011 Act by virtue of paragraph 2 of Schedule 2 to the Planning (2011 Act) (Commencement No. 3) and (Transitional Provisions) Order (Northern Ireland) 2015. ” |
+| Regulation 5(1) (Confirmation that development is EIA development)<br>Regulation 5(2)(a)<br>Regulation 5(2)(b) | None<br>None<br>In each instance for the words “by the Department” substitute “ by the council or by the Department ”. |
+| Regulation 5A (1) (Appeals under Article 32 or Article 33)<br>Regulation 5A(2) to (4) | For the words “on the Department” substitute “ on the council or on the Department ”.<br>None |
+| Regulation 6 (Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement) | None |
+| Regulation 7(1) (Procedure to facilitate preparation of environmental statements)<br>Regulation 7(2)<br>Regulation 7(3) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>None<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>In sub-paragraph (3)(b)(i) for the words “the district council” substitute “ such district councils as are ”. |
+| Regulation 8(1) (Provision of information)<br>Regulation 8(2) | For the words “by the Department” substitute “ by the council or, as the case may be, the Department ”.<br>None |
+| Regulation 9 (Application made to the Department without prior determination as to need for environmental impact assessment or without an environmental statement)<br>Regulation 9(1) to (5)<br>Regulation 9(6)<br>Regulation 9(6)(a) and (b)<br>Regulation 9(7) | In the heading for the words “the Department” substitute “ the council or the Department ”.<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>For the words “the Department's” substitute “the council's or, as the case may be, the Department's”.<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 9(7A) | None |
+| Regulation 9(8)<br>Regulation 9(9)<br>Regulation 9(10) | In each instance for the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>In the first instance for the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>In the second instance for the words “the Department's” substitute “the council's or, as the case may be, the Department's”.<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 10 (Extension of the period for Department's decision on an application for planning permission or subsequent application) | In the heading for the words “for Department's” substitute “for council's or Department's”. |
+| Regulation 10(a) | None |
+| Regulation 10(b) | In (bb) for the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 10(c) | None |
+| Regulation 11 (Application of Article 31 of the 1991 Order) | None |
+| Regulation 12 (Publicity where an environmental statement is submitted) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 12(a) | None |
+| Regulation 12(b) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 12(c) | None |
+| Regulation 12(d) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 13(a) (Availability of copies of environmental statement) | None |
+| Regulation 13(b) | In each instance for the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 14(1) (Consultation where environmental statement submitted)<br>Regulation 14(2) | For the words “the Department” substitute “ the council or, as the case may be, the Department ” and for the words “the district council” substitute “ the councils ”.<br>For the words “The Department” substitute “ The council or, as the case may be, the Department ”. |
+| Regulation 15(1) (Further information and evidence relating to environmental statement)<br>Regulation 15(2)<br>Regulation 15(2A) and (3) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>For the words “The Department” substitute “ The council or, as the case may be, the Department ”.<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 16 (Charges) | None |
+| Regulation 17(1) and (2) (Duty to inform the public of decisions)<br>Regulation 17(3) | In each instance for the words “the Department” substitute “ the council ”.<br>In the first instance for the words “The Department” substitute “ The council ” and in the second instance for the words “the Department” substitute “ the council ”. |
+| Regulation 18(1) (Development likely to have significant effects on the environment in another EEA state) | In each instance for the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 18(2) | None |
+| Regulation 18(3) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 18(4) | For the words “The Department” substitute “ The council or, as the case may be, the Department ” and for the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 18(5) | For the words “The Department” substitute “ The council or, as the case may be, the Department ”. |
+| Regulation 18(6) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 19(1) (Projects in another EEA state likely to have significant transboundary effects) | In each instance for the words “the Department substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 19(2) | For the words “The Department” substitute “ The council or, as the case may be, the Department ”. |
+| Regulation 20 (Interpretation of Part 7) | None |
+| Regulation 21 (Prohibition on the grant of planning permission for unauthorised development) | None |
+| Regulation 22(1) and (2) (Determination as to need for environmental statement etc.)<br>Regulation 22(3)<br>Regulation 22(4) and (5) | In each instance for the words “the Department substitute “ the council or, as the case may be, the Department ”.<br>For the words “The Department” substitute “ The council or, as the case may be, the Department ” and for the words “the district council for” in sub-paragraph (b) substitute “ such district councils as are in ”.<br>In each instance for the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 22(6) | None |
+| Regulation 23 (Time period for submission of environmental statement) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 24 (Provision of information) | None |
+| Regulation 25 (Procedure where the Commission receives an environmental statement) | In each instance for the words “the Department substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 26(1) (Further information and evidence respecting environmental statements) | For paragraph (1) substitute “Regulation 15(1) and (2) shall apply in relation to further information as if “ the Commission ” was substituted for the words “the council, or as the case may be, the Department” and the word “appellant” was substituted for the word “ applicant ”.” |
+| Regulation 26(2) and (3) | None |
+| Regulation 26(4) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 27(1) (Publicity for environmental statements and decisions) | None |
+| Regulation 27(2) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 28(a) (Involvement of other EEA states) | For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 28(b) to (d) | None |
+| Regulation 29 (Restrictions on grant of permission by old enterprise zone schemes) | Omit |
+| Regulation 30 (Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes) | Omit |
+| Regulation 31 (Development Orders) | Omit |
+| Regulation 32 (Amendment to the Planning (Use Classes) Order (Northern Ireland) 1989) | Omit |
+| Regulation 33 (Amendment to the General Development Order) | Omit |
+| Regulation 34 (Availability of information in relation to determinations, opinions, decisions, etc.)<br>Regulation 34(1)<br>Regulation 34(2)<br>Regulation 34(3)<br>Regulation 34(4) | For the words “The Department” substitute “ The council ”.<br>None<br>In each instance for the words “the Department” substitute “ the council or, as the case may be, the Department ”.<br>None<br>In each instance for the words “the Department” substitute “ the council ”. |
+| Regulation 35(1) (Hearing by the Commission in relation to the Department's determination)<br>Regulation 35(2) | None<br>For the words “the Department” substitute “ the council or, as the case may be, the Department ”. |
+| Regulation 36A (Use of electronic communications) | None |
+| Regulation 37 (Revocations) | None |
+
+### PART 2 — The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999 as modified
+
+#### 2. Interpretation
+
+(1) The Interpretation Act (Northern Ireland) 1954 shall apply to these regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+(2) In these regulations—
+
+- “**the 2011 Act**” means the Planning Act (Northern Ireland) 2011;”
+- “**council**” means a district council;”
+- “**local advertisement**”, in relation to a notice, means—
+  - (a) by publication of the notice in at least one newspaper circulating in the locality in which the land to which the application or appeal relates is situated; and
+  - (b) where the Department, council or the Commission maintain a website for the purpose of advertisement of applications, by publication of the notice on the website;
+
+#### 4. Prohibition on the grant of planning permission or subsequent consent without consideration of environmental information
+
+(1) This regulation applies—
+
+- (a) to every application for planning permission for EIA development received by a council or the Department on or after the commencement of these Regulations; and
+- (b) to every subsequent application in respect of EIA development received by a council or the Department on or after the commencement of these Regulations but which was not determined by 1st October 2008;
+
+and for the purposes of this paragraph, the date of receipt of an application by a council or the Department shall be determined in accordance with Article 11 (time periods for decisions) of the General Development Order as applied by regulation 10.
+
+(2) A council, the Department or the Commission, as the case may require, shall not grant planning permission or subsequent consent pursuant to an application to which this regulation applies unless they have first taken the environmental information into consideration, and they shall state in their decision that they have done so.
+
+(3) Paragraph (2) applies to a council where an application to which these Regulations apply is to be treated as having been made to that council under the 2011 Act by virtue of paragraph 2 of Schedule 2 to the Planning (2011 Act) (Commencement No. 3) and (Transitional Provisions) Order (Northern Ireland) 2015.
+
+#### 5. Confirmation that development is EIA development
+
+(1) Subject to any direction of the Department under regulation 3, the occurrence of an event mentioned in paragraph (2) shall determine, for the purposes of these regulations, that development is EIA development.
+
+(2) The events referred to in paragraph (1) are—
+
+- (a) the submission by the applicant or appellant, in relation to that development, of a statement referred to by the applicant or appellant as an environmental statement for the purposes of these regulations; or
+- (b) the determination by the council or by the Department, or following a hearing by the Commission, confirmation by the council or by the Department, that the development is EIA development.
+
+  > **5A. Appeals under Article 32 or Article 33**
+  >
+  > (1) Where an appeal is made to the Commission under Article 32 or 33 of the 1991 Order, the functions conferred on the council or on the Department by Part III to Part VI of these Regulations shall be exercisable by the Commission in respect of that appeal.
+  >
+  > (2) For the purposes of paragraph (1), regulation 9 (6) shall be amended as follows—
+  >
+  > > (6) An appellant receiving a notification pursuant to paragraph (3) shall, within 4 weeks from the date of the determination, inform the Commission, in writing, that he—
+  > >
+  > > - (a) accepts the Commission's determination and proposes to provide an environmental statement; or
+  > > - (b) does not accept the Commission's determination.
+  >
+  > .
+  >
+  > (3) For the purposes of paragraph (1), regulation 9 (7A) does not apply.
+  >
+  > (4) For the purposes of paragraph (1), the phrase “and the deemed refusal shall not give rise to an appeal to the Commission by virtue of Article 32 (appeals) or Article 33 (appeal in default of planning decision)” contained in regulation 9(7), 9(8) and 15(2A) shall not have effect.
+
+#### 7. Procedure to facilitate preparation of environmental statements
+
+(1) A developer may give the council or, as the case may be, the Department notice in writing under this paragraph that he intends to submit an environmental statement.
+
+(2) A notice under paragraph (1) shall include or be accompanied by the information necessary to identify the land and the nature and purpose of the development, and shall indicate the main environmental consequences to which the person giving notice proposes to refer in his environmental statement.
+
+(3) Where the council or, as the case may be, the Department receives—
+
+- (a) such a notice as is mentioned in paragraph (1); or
+- (b) such a statement as is mentioned in regulation 6(10)(a);
+
+it shall notify—
+
+- (i) such district councils as are in the area in which the land to which the proposal relates is situated of the details of the proposed development; and
+- (ii) such other authorities likely to be concerned by the proposed development by reason of their specific environmental responsibilities,
+
+of the name and address of the developer and of the duty imposed on them by regulation 8(1) to make information available to the developer; and
+
+- (iii) inform the developer in writing of the names and addresses of the bodies so notified.
+
+#### 8. Provision of information
+
+(1) Subject to paragraph (2), any body notified by the council or, as the case may be, the Department pursuant to regulation 7(3) shall, if requested by the developer, or may without such request, enter into consultation with him with a view to ascertaining whether the body has information in its possession which he or they consider relevant to the preparation of the environmental statement, and shall make that information available to him.
+
+(2) Paragraph (1) shall not require the disclosure by a body of information which is capable of being treated as confidential or must be so treated under regulation 5 of the Environmental Information Regulations (Northern Ireland) 1993 [^c22386461].
+
+#### 9. Application made to the council or the Department without prior determination as to need for environmental impact assessment or without an environmental statement
+
+(1) Where it appears to the council or, as the case may be, the Department that an application for planning permission or a subsequent application—
+
+- (a) is a Schedule 1 application or a Schedule 2 application;
+- (b) has not been the subject of a determination as to whether the application is or is not an EIA application; or in the case of a subsequent application has been the subject of a determination before planning permission was granted to the effect that it is not EIA development; and
+- (c) is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these regulations,
+
+it shall make a determination as to whether the application is for EIA development, taking into account the selection criteria.
+
+(2) If the council or, as the case may be, the Department considers that it has not been provided with sufficient information to make a determination, it shall notify the applicant of the particular points on which it requires further information.
+
+(3) Where an EIA application, including an application determined as such under paragraph (1), is not accompanied by an environmental statement or a statement referred to by the applicant as an environmental statement, the council or, as the case may be, the Department shall notify the applicant in writing that the submission of such a statement is required, giving clearly and precisely the full reasons for its view.
+
+(4) Subject to paragraph (5), the council or, as the case may be, the Department shall make a determination under paragraph (1) and, where necessary, notify the applicant in accordance with paragraph (3) within 4 weeks from the date of receipt of the application or such longer period as may be agreed in writing with the applicant.
+
+(5) Where additional information is requested under paragraph (2), the council or, as the case may be, the Department shall notify the applicant of its determination within a period of 4 weeks from the date of receipt of the additional information.
+
+(6) An applicant receiving a notification pursuant to paragraph (3) shall, within 4 weeks from the date of the determination, inform the council or, as the case may be, the Department, in writing, that he—
+
+- (a) accepts the council's or, as the case may be, the Department's determination and proposes to provide an environmental statement; or
+- (b) does not accept the council's or, as the case may be, the Department's determination and proposes to seek a hearing before the Commission.
+
+(7) If the applicant does not inform the council or, as the case may be, the Department in writing in accordance with paragraph (6), the permission or subsequent consent sought shall be deemed to be refused at the end of the relevant 4 week period; and the deemed refusal shall not give rise to an appeal to the Commission by virtue of Article 32 (appeals) or Article 33 (appeal in default of planning decision).
+
+> (7A) Where, following receipt of a notification pursuant to paragraph (3), an applicant proposes to seek a hearing before the Commission, he shall by notice in writing inform the Commission to such effect within 4 weeks from the date of the notification.
+
+(8) Where the council or, as the case may be, the Department determines, or following a hearing by the Commission confirms, that an environmental statement is required, the statement shall be submitted within 6 months from the date of determination or such extended period as may be agreed in writing between the applicant and the council or, as the case may be, the Department, and if not so submitted, the application for planning permission or subsequent application shall be deemed to be refused and the deemed refusal shall not give rise to an appeal to the Commission by virtue of Article 32 (appeals) or Article 33 (appeal in default of planning decision).
+
+(9) Where, following a hearing by the Commission, the council or, as the case may be, the Department withdraws its determination that an environmental statement is required, the period within which the application for planning permission or subsequent application is to be determined shall be calculated from the date of notice to the applicant of the council's or, as the case may be, the Department's withdrawal.
+
+(10) Where the council or, as the case may be, the Department makes a determination under paragraph (1) that an environmental statement is required or confirms a determination under paragraph (8), regulations 7(3) and 8 shall apply.
+
+#### 10. Extension of the period for council's or Department's decision on an application for planning permission or subsequent application
+
+Where an application for planning permission or subsequent application is an EIA application, Articles 11 and 12 of the General Development Order shall have effect as if—
+
+- (a) for the reference in paragraph (2)(a) of Article 11 and in Article 12 to a period of 2 months from the date the application was received there were substituted a reference to a period of 16 weeks; and
+- (b) after paragraph (3)(b) of Article 11 there were inserted—
+
+  > - (ba) the environmental statement required to be submitted in respect of the application has been submitted, together with the documents required to accompany that statement; and
+  > - (bb) in the case of an application falling within regulation 9 (1) where the council or, as the case may be, the Department has requested further information in order to make a determination under regulation 9 (2), when that information was received; and
+  > - (bc) where evidence verifying information in the environmental statement has been requested, when that evidence was received; and
+
+  ; and
+- (c) the date when an application is received for the purposes of Article 12 were the date when each of the events referred to in Article 11 (3) (ba) to (bc) has occurred in relation to that application.
+
+#### 11. Publicity where an environmental statement is submitted
+
+Where an environmental statement is submitted, the developer shall make it available to the public, and the council or, as the case may be, the Department shall, when it receives the environmental statement—
+
+- (a) publish notice of the application for planning permission or subsequent application by local advertisement, allowing the public a period of 4 weeks from the date on which the notice is first published, in which to make representations;
+- (b) state in the notice that-
+  - (i) the application for planning permission or subsequent application is accompanied by an environmental statement; and,
+  - (ii) in the case of a subsequent application, that a copy of the planning permission and supporting documents for the development in respect of which the application has been made may be inspected by members of the public at all reasonable hours at the relevant office of the council or, as the case may be, the Department;
+- (c) give in the notice, a postal address (within the locality in which the land proposed to be developed is situated) at which copies of the environmental statement may be obtained from the developer, so long as stocks last, and if a charge is to be made for a copy, state the amount of the charge; and
+- (d) where it is aware of any particular person who is or is likely to be affected by, or has an interest in, the application for planning permission or subsequent application, and who is unlikely to become aware of it by means of a local advertisement, send a notice to such person containing the details set out in paragraphs (a) – (c) and the address of the relevant office of the council or, as the case may be, the Department.
+
+#### 12. Availability of copies of environmental statement
+
+A developer who submits an environmental statement shall—
+
+- (a) ensure that a reasonable number of copies are made available at the address given in the notice pursuant to regulation 12(c); and
+- (b) provide the council or, as the case may be, the Department with sufficient copies of it, or parts thereof, to enable the council or, as the case may be, the Department to comply with regulation 14 and 3 additional copies.
+
+#### 13. Consultation where environmental statement submitted
+
+(1) Where the council or, as the case may be, the Department receives an environmental statement in relation to a proposed development, it shall consult the councils and bodies mentioned in regulation 7(3) and inform them that they may make representations.
+
+(2) The council or, as the case may be, the Department shall give not less than 4 weeks notice to bodies consulted under paragraph (1) that environmental information is to be taken into account in determining the application for planning permission or subsequent application.
+
+#### 14. Further information and evidence relating to environmental statement
+
+(1) Where the council or, as the case may be, the Department is of the opinion that—
+
+- (a) the applicant could have provided further information about any of the matters mentioned in Schedule 4; and
+- (b) that further information is reasonably required to give proper consideration to the likely environmental effects of the proposed development,
+
+it may request the applicant, by notice in writing, to submit such further information.
+
+(2) The council or, as the case may be, the Department may, by notice in writing, require an applicant to produce such evidence as it may reasonably call for to verify any information in his environmental statement.
+
+> (2A) On receipt of a request under paragraphs (1) and (2) the applicant shall submit the further information or evidence within three months from the date of the request or such extended period as may be agreed in writing between the applicant and the council or, as the case may be, the Department, and if not so submitted the application shall be deemed to be refused and the deemed refusal shall not give rise to an appeal to the Commission by virtue of Article 32 (appeals) or Article 33 (appeal in default of planning decision).
+
+(3) Regulations 12 to 14 shall apply where such further information and any other information is received by the council or, as the case may be, the Department in relation to an environmental statement, as if references to “environmental statement” were references to “further information and any other information”.
+
+#### 17. Duty to inform the public of decisions
+
+(1) Where an EIA application is determined, the council or, as the case may be, the Department shall inform the public of the decision by local advertisement or by such other means as are reasonable in the circumstances.
+
+(2) Where, after environmental information has been taken into consideration, an EIA application is determined by the Commission, the Commission shall—
+
+- (a) notify the council of its decision; and
+- (b) provide the council with a copy of a statement containing—
+  - (i) the contents of the decision and the conditions attached thereto;
+  - (ii) the main reasons for the decision and the considerations on which the decision was based including, if relevant, information about the participation of the public;
+  - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the development; and
+  - (iv) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(3) The council shall, as soon as reasonably practicable after receipt of the notification under paragraph (2), comply with paragraph (1) as if the decision so notified was a decision of the council.
+
+#### 18. Development likely to have significant effects on the environment in another EEA state
+
+(1) Where—
+
+- (a) it comes to the attention of the council or, as the case may be, the Department that proposed development is the subject of an EIA application and is likely to have significant effects on the environment in another EEA state; or
+- (b) another EEA state likely to be significantly affected by such development so requests,
+
+the council or, as the case may be, the Department shall—
+
+- (i) publish a notice in the Belfast Gazette giving the address of the proposed development, stating that it is accompanied by an environmental statement and that it is likely to have significant effects on the environment of another EEA state and giving an address at which further information may be obtained;
+- (ii) send to the EEA state as soon as possible and no later than the date of publication of the notice referred to in paragraph (i), the particulars mentioned in paragraph (2) and, if the council or, as the case may be, the Department thinks fit, the information referred to in paragraph (3); and
+- (iii) give the EEA state a reasonable time in which to indicate whether it wishes to participate in the procedure for which these regulations provide.
+
+(2) The particulars referred to in paragraph (1)(ii) are —
+
+- (a) a description of the development, together with any available information on its possible significant effect on the environment in another EEA state; and
+- (b) information on the nature of the decision which may be taken.
+
+(3) Where a EEA state indicates in accordance with paragraph (1)(iii), that it wishes to participate in the procedure for which these regulations provide, the council or, as the case may be, the Department shall send to that EEA state—
+
+- (a) a copy of the application concerned;
+- (aa) a copy of any planning permission relating to the development;
+- (b) a copy of any environmental statement in respect of the development to which that application relates; and
+- (c) relevant information regarding the procedure under these regulations,
+
+unless that information has already been provided to the EEA state earlier in accordance with paragraph (1)(ii).
+
+(4) The council or, as the case may be, the Department shall also—
+
+- (a) arrange for the particulars and information referred to in paragraphs (2) and (3) and any further information and any other information to be made available, within a reasonable time, to the authorities referred to in Article 6.1 of the Directive and to the public concerned in the territory of the EEA state likely to be significantly affected; and
+- (b) ensure that those authorities and the public concerned are given an opportunity, before planning permission or subsequent consent for the development is granted, to forward to the council or, as the case may be, the Department, within a reasonable time, their opinion on the information supplied.
+
+(5) The council or, as the case may be, the Department shall in accordance with Article 7.4 of the Directive—
+
+- (a) enter into consultations with the EEA state concerned regarding, inter alia, the potential significant effects of the development on the environment of that EEA state and the measures envisaged to reduce or eliminate such effects; and
+- (b) determine, in agreement with the other EEA state, a reasonable period of time for the duration of the consultation period.
+
+(6) Where a EEA state has been consulted in accordance with paragraph (3), on the determination of the application concerned, the council or, as the case may be, the Department shall inform the EEA state and shall forward to it a statement of—
+
+- (a) the content of the decision and any conditions attached thereto;
+- (b) the main reasons and considerations on which the decision is based including, if relevant, information about the participation of the public; and
+- (c) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the development.
+
+#### 19. Projects in another EEA state likely to have significant transboundary effects
+
+(1) Where the council or, as the case may be, the Department receives from another EEA state pursuant to Article 7.1 or 7.2 of the Directive information which the EEA state has gathered from the developer of a proposed project in that EEA state which is likely to have significant effects on the environment in Northern Ireland, the council or, as the case may be, the Department shall, in accordance with Article 7.4 of the Directive—
+
+- (a) enter into consultations with that EEA state regarding, inter alia, the potential significant effects of the proposed project on the environment in Northern Ireland and the measures envisaged to reduce or eliminate such effects; and
+- (b) determine in agreement with that EEA state a reasonable period, before development consent for the project is granted, during which members of the public in Northern Ireland may submit to the competent authority in that EEA state representations pursuant to Article 7.3(b) of the Directive.
+
+(2) The council or, as the case may be, the Department, in so far as it is concerned, shall also—
+
+- (a) arrange for the information referred to in paragraph (1) to be made available, within a reasonable time, both to the authorities in Northern Ireland which it considers are likely to be concerned by the project by reason of their specific environmental responsibilities, and to the public concerned in Northern Ireland;
+- (b) ensure that those authorities and the public concerned in Northern Ireland are given an opportunity before development consent for the project is granted, to forward to the competent authority in the relevant EEA state, within a reasonable time, their opinion on the information supplied; and
+- (c) so far as it has received such information, notify those authorities and the public concerned of the content of any decision of the competent authority of the relevant EEA state; and in particular—
+  - (i) any conditions attached to it;
+  - (ii) the main reasons and considerations on which the decision was based including, if relevant, information about the participation of the public; and
+  - (iii) a description of the main measures to avoid, reduce and, if possible, offset any major adverse effects that have been identified.
+
+#### 22. Determination as to need for environmental statement, etc.
+
+(1) Where it appears to the council or, as the case may be, the Department that the matters constituting the breach of planning control comprise Schedule 1 or Schedule 2 development, the council or, as the case may be, the Department shall, before the enforcement notice is issued, make a determination, taking into account the selection criteria, as to whether the development is or is not EIA development.
+
+(2) Where it appears to the council or, as the case may be, the Department that the matters constituting the breach of planning control comprise or include EIA development it shall serve with a copy of the enforcement notice a notice (“regulation 22 notice”) which shall—
+
+- (a) include a copy of the determination required by paragraph (1) and a written statement giving clearly and precisely full reasons for its conclusions; and
+- (b) require a person who gives notice of an appeal under Article 69 (appeal against enforcement notice) to submit to the Commission with the notice sufficient copies of the environmental statement relating to the unauthorised development to enable the Commission to comply with regulation 25.
+
+(3) The council or, as the case may be, the Department shall send a copy of the regulation 22 notice to—
+
+- (a) the Commission;
+- (b) such district councils as are in the area in which the land to which the unauthorised development relates is situated;
+- (c) any other authorities likely to be concerned by the unauthorised development by reason of their specific environmental responsibilities; and
+- (d) any particular person of whom it is aware, who is likely to be affected by, or has an interest in, the regulation 22 notice.
+
+(4) Where the council or, as the case may be, the Department serves the Commission with a copy of a regulation 22 notice it shall also provide it with a list of the other persons to whom, in accordance with paragraph (3), a copy of the notice has been or is to be sent.
+
+(5) Where a person gives notice of appeal under Article 69 and the council or, as the case may be, the Department has served on that person a regulation 22 notice with which he does not agree, that person may by notice in writing, within 4 weeks of the service of the enforcement notice, inform the council or, as the case may be, the Department that he proposes to seek a hearing before the Commission.
+
+(6) Where, in relation to paragraph (5), a person proposes to seek a hearing before the Commission, that person shall by notice in writing, inform the Commission to such effect within 4 weeks of the service of the enforcement notice.
+
+#### 23. Time period for submission of environmental statement
+
+Where the council or, as the case may be, the Department determines, or following a hearing by the Commission confirms that an environmental statement is required, it shall be submitted to the Commission within 6 months from the date of the determination or such extended period as may be agreed in writing between the applicant and the Commission and if not so submitted the deemed application for planning permission and the ground (a) appeal (if any) shall lapse at the end of that period.
+
+#### 25. Procedure where the Commission receives an environmental statement
+
+(1) Where the Commission receives an environmental statement, or a statement referred to by the appellant as an environmental statement, in connection with an enforcement appeal it shall serve a copy on the council or, as the case may be, the Department and those bodies on whom a copy of the regulation 22 notice was served.
+
+(2) The Commission shall give not less than 4 weeks notice to the council or, as the case may be, the Department and the bodies referred to in paragraph (1) that environmental information will be taken into consideration in determining the ground (a) appeal (if any) and inform them that they may make representations.
+
+#### 26. Further information and evidence respecting environmental statements
+
+(1) Regulation 15(1) and (2) shall apply in relation to further information as if “the Commission” was substituted for “the council, or as the case may be, the Department” and the word “appellant” was substituted for the word “ applicant ”.
+
+(2) If an appellant on whom notice has been given under paragraph (1) fails to provide the further information within the period specified in the notice, the deemed application and the ground (a) appeal (if any) shall lapse at the end of that period.
+
+(3) Regulations 25 (procedure where the Commission receives an environmental statement) and 27 (publicity for environmental statements and decisions) shall apply in relation to further information received by the Commission in accordance with paragraph (1) as if references in those regulations to an environmental statement were references to the further information.
+
+(4) The Commission shall send the council or, as the case may be, the Department a copy of any notice sent to the applicant under paragraph (1).
+
+#### 27. Publicity for environmental statements and decisions
+
+(1) Where the Commission receives a copy of an environmental statement, or a statement submitted by the appellant referred to as an environmental statement either of which is accompanied by further information and any other information, in connection with an enforcement appeal it shall publish by local advertisement a notice stating—
+
+- (a) the name of the appellant and that he has appealed to the Commission against the enforcement notice;
+- (b) the address or location of the land to which the notice related and the nature of the development;
+- (c) that a copy of the environmental statement and further information and any other information may be inspected by members of the public at all reasonable hours;
+- (d) an address in the locality at which the statement and further information and any other information may be inspected and the latest date it will be made available for inspection, being a period of 4 weeks from the date of the first publication of the notice;
+- (e) that any person wishing to make representations about any matter dealt with in the statement and further information and any other information should make them in writing, no later than 4 weeks after the date of the first publication of the notice; and
+- (f) the address to which such representations are to be sent.
+
+(2) Where the Commission determines the ground (a) appeal it shall inform the council or, as the case may be, the Department of its decision and the provisions of regulation 17 (duty to inform the public of decisions) shall apply to any grant of planning permission under Article 71 as they apply to a grant of planning permission under Part IV of the 1991 Order.
+
+#### 28. Involvement of other EEA states
+
+Regulation 18 (development likely to have significant effects on the environment in another EEA state) shall apply subject to the following modifications
+
+- (a) for regulation 18(1)(a) substitute—
+
+  > - (a) on the consideration of an appeal under Article 69 (appeal against enforcement notice), the Commission is of the opinion that matters which are alleged to constitute the breach of planning control comprise or include EIA development and the development has or is likely to have significant effects on another EEA state, it shall notify the council or, as the case may be, the Department; and
+
+  ;
+- (b) in regulation 18(1)(i) delete the word “proposed”;
+- (c) in regulation 18(3)(a) for the words “a copy of the application concerned” substitute the words “ a description of the development concerned ”; and
+- (d) in regulation 18(3)(b) for “that application” substitute “ the deemed application under Article 71(3) ”.
+
+#### 34. Availability of information in relation to determinations, opinions, decisions, etc.
+
+The council shall make available for public inspection at all reasonable hours at the place where—
+
+(1) a register pursuant to article 18 of the General Development Order is kept, a copy of —
+
+- (a) any determination or opinion given pursuant to regulation 6(1) or 9(1), notification under regulation 9(3), or determination confirmed or amended under regulation 35(2) together with the accompanying statement of reasons, the relevant request and the documents which accompanied it;
+- (b) any environmental statement and further information and any other information received under these regulations; and
+- (c) where environmental information has been taken into consideration in determining an application for planning permission or subsequent application or appeal, a statement containing—
+  - (i) the content of the decision and any conditions attached thereto;
+  - (ii) the main reasons and considerations on which the decision is based including, if relevant, information about the participation of the public;
+  - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the development; and
+  - (iv) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(2) a register pursuant to article 20 of the General Development Order is kept, a copy of—
+
+- (a) every regulation 22 notice served by the council or, as the case may be, the Department;
+- (b) every determination made by the council or, as the case may be, the Department in accordance with regulation 22(2) or notice confirmed or amended under regulation 35(2) in respect of a deemed application under Part VII;
+- (c) every environmental statement or additional information received by the council or, as the case may be, the Department by virtue of regulation 25(1); and
+- (d) every notice received by the council or, as the case may be, the Department under regulation 26(4).
+
+(3) a register kept pursuant to article 22 of the General Development Order is kept, a copy of any direction given by the Department pursuant to regulation 3 (a) and (b), and any information obtained under regulation 3A.
+
+(4) Where the registers kept under this regulation are kept using electronic storage, the council may make the registers available for inspection by the public on a website maintained by the council for that purpose.
+
+#### 35. Hearing by the Commission in relation to the Department's determination
+
+(1) Where a person seeks a hearing before the Commission under regulations 6(10), 9(6) or 22(5) it shall afford that person the opportunity of appearing before and being heard by the Commission
+
+(2) Where a hearing is held, the council or, as the case may be, the Department shall consider the report of the Commission and may confirm, amend or withdraw its determination.
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2012 (“**the 2012 Regulations**”). The 2012 Regulations consolidated and amended the Planning (Environmental Impact Assessment) Regulations 1999 which implemented Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) (O.J. No. L. 175, 5.7.1985, p 40 (“**the EIA Directive**”)) on the assessment of the effects of certain public and private projects on the environment. The EIA Directive was amended by Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011), (O.J. No. L 73, 14.3.1997, p.5); Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035), (O.J. No. L 156, 25.6.2003, p.17); and Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031), (O.J. No. 140, 5.6.2009, p.114). It was then repealed and replaced by Directive 2011/92/EU (O.J. No. L26, 28.1.2012, p.1) which entered into force on 17th February 2012.
+
+These Regulations are being made to implement the EIA Directive in respect of the new two tier planning system under the Planning (Northern Ireland) Act 2011.
+
+Part 1 defines terms used in the Regulations, sets out the Department's power of direction, ensures that EIA development cannot be permitted without the consideration of environmental information, sets out the matters that confirm that development is EIA development and provides that the Planning Appeals Commission (the Commission) can carry out council or Departmental functions in respect of appeals under section 58 or 60 of the 2011 Act.
+
+Part 2 sets out pre-application procedures under which a developer can ask the council or Department to give a determination as to whether proposed development is EIA development or an opinion as to the information to be provided in an environmental statement.
+
+Part 3 contains procedures to facilitate the preparation of environmental statements, and for the provision of information relevant to their preparation.
+
+Part 4 sets out procedures for dealing with applications on receipt by a council or the Department. These include those for determining whether or not the application is an EIA application, consideration of any environmental information previously provided, requiring an environmental statement to be provided and new provisions for the Department to process EIA applications made to it under section 26 or referred to it under section 29 of the 2011 Act without an environmental statement. The period for making a decision on planning applications or subsequent applications is extended for EIA applications.
+
+Part 5 contains the publicity arrangements for environmental statements including the availability of copies, consultation requirements, the need for further information and evidence, charges and informing the public of decisions.
+
+Part 6 is new and deals with development by a council, modifying the Regulations as appropriate.
+
+Part 7 sets out transboundary procedures where development in Northern Ireland is likely either to affect other EEA states, or the reverse.
+
+Part 8 contains the procedures for unauthorised development which is or appears to be EIA development.
+
+Part 9 restricts the grant of planning permission under simplified planning zone and enterprise zone schemes and any development order made after the commencement of these Regulations.
+
+Part 10 sets out the requirements to make information available for inspection, specifies the circumstances in which the Commission will allow people to appear before it and be heard, and the effect of the Commission's report on determinations. It also details how electronic communications will apply to applications, applies the Regulations to the Crown and revokes the 2012 Regulations with saving and transitional provisions.
+
+Schedule1 lists the developments for which environmental assessment is mandatory. Schedule 2 lists, with thresholds/criteria development for which environmental assessment is required if it has significant environmental effects. Schedule 3 lists selection criteria referred to in Article 4.3 of the Directive. Schedule 4 lists matters for inclusion in an environmental statement. Schedule 5 Part 1 lists modification of statutory rules and Part 2 sets out those provisions as modified.
+
+A Regulatory Impact Assessment has been prepared in relation to these Regulations. A copy may be obtained from the Department of the Environment, Planning Policy Division, Causeway Exchange, 1-7 Bedford Street, Town Parks, Belfast BT2 7EG (Tel: 028 9082 3497) or accessed at http://www.planningni.gov.uk/
+
+## Annotations
+
+[^c22386151]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301)
+
+[^c22386161]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) The enabling powers of section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51)
+
+[^c22386171]: Marginal citation: O.J. No.L 26. 28.1.2012, p.1
+
+[^key-3d1410f5a2a1610e6225b8cd7a7c576e]: Modification: Rule amendment to earlier revoking in part SR 2017/83, reg. 48 (27.3.2019) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/24)](https://www.legislation.gov.uk/nisr/2019/24), [reg. 3](https://www.legislation.gov.uk/nisr/2019/24/regulation/3)
+
+[^key-4edfb142053d7d782e4807e5e23f891b]: Textual amendment: Regulations revoked in part (16.5.2017) by [The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/83)](https://www.legislation.gov.uk/nisr/2017/83), [regs. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1), [48(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/48/1) (with [regs. 47](https://www.legislation.gov.uk/nisr/2017/83/regulation/47), [48(2)-(4)](https://www.legislation.gov.uk/nisr/2017/83/regulation/48/2)) (as amended by [S.I. 2018/1235](https://www.legislation.gov.uk/uksi/2018/1235), [reg. 5](https://www.legislation.gov.uk/uksi/2018/1235/regulation/5))
+
+[^c22386331]: Marginal citation: S.R. 1999. No. 73
+
+[^c22386341]: Marginal citation: S.R. [2006 No. 276](https://www.legislation.gov.uk/ukcm/2006/276)
+
+[^c22386351]: Marginal citation: S.R. [2008 No. 17](https://www.legislation.gov.uk/ukcm/2008/17)
+
+[^c22386361]: Marginal citation: S.R. [2008 No. 372](https://www.legislation.gov.uk/ukcm/2008/372)
+
+[^c22386461]: Marginal citation: S.R. [1993 No. 49](https://www.legislation.gov.uk/ukcm/1993/49) as amended by S.R. [1998 No. 238](https://www.legislation.gov.uk/ukcm/1998/238)

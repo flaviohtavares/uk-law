@@ -1,0 +1,84 @@
+---
+title: The Jobseeker’s Allowance (New Deal Amendment) Regulations (Northern Ireland) 1999
+id: nisr/1999/467
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '1999-11-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1999/467
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/467/pdfs/nisr_19990467_en.pdf
+- http://www.legislation.gov.uk/nisr/1999/467/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Jobseeker’s Allowance (New Deal Amendment) Regulations (Northern Ireland) 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 467
+
+SECURITY
+
+The Jobseeker’s Allowance (New Deal Amendment) Regulations (Northern Ireland) 1999
+
+Made
+
+24th November 1999
+
+Coming into operation
+
+30th November 1999
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Article 8(4) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Jobseeker’s Allowance (New Deal Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 30th November 1999.
+
+## 2. Further circumstances in which a person is to be treated as available for employment
+
+(1) Regulation 17A(7) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00002] (further circumstances in which a person is to be treated as available: full-time students participating in a qualifying course) shall be amended in accordance with paragraphs (2) and (3).
+
+(2) For the definition of “benefit” there shall be substituted the following definition—
+
+> - “benefit” means—
+>   - (a) income support, unemployment benefit, a jobseeker’s allowance or any earnings credited to a person in accordance with regulation 8A[^f00003] (credits for unemployment) or 9A[^f00004] (credits for persons approaching pensionable age) of the Social Security (Credits) Regulations (Northern Ireland)[^f00005] 1975 or which would be credited to a person in accordance with paragraph (1) of regulation 9A but are not so credited by reason only of the fact that no further earnings are in his case required for the purpose mentioned in that paragraph, or
+>   - (b) any earnings credited to a person for unemployment in accordance with regulation 9[^f00006] of the Social Security (Credits) Regulations (Northern Ireland) 1975 (credits for unemployment or incapacity for work) as it applied before 7th October 1996 and
+
+.
+
+(3) In paragraph (*a*) of the definition of “receiving benefit”, after “Part II of the Order” there shall be inserted “or in accordance with regulation 9A of the Social Security (Credits) Regulations (Northern Ireland) 1975”.
+
+Sealed with the Official Seal of the Department of Health and Social Services on 24th November 1999.
+
+Bryan Davis
+
+Assistant Secretary
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”).
+
+In particular, they extend the definition of “benefit” in regulation 17A(7) of the Jobseeker’s Allowance Regulations to include National Insurance credits for unemployment, and credits for unemployment, and credits for persons aged 60 or over. The effect of this amendment is that periods in receipt of such credits may count towards the two year qualification period mentioned in regulation 17A(2) for the purposes of being treated as available for employment, and accordingly entitled to a jobseeker’s allowance, while participating in a qualifying course as defined in regulation 17A(7).
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00002]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 17A was inserted by regulation 4 of [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198) and amended by [S.R. 1998 No. 418](https://www.legislation.gov.uk/nisr/1998/418)
+
+[^f00003]: Footnote: Regulation 8A was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00004]: Footnote: Regulation 9A was substituted by regulation 3 of [S.R. 1994 No. 265](https://www.legislation.gov.uk/nisr/1994/265) and amended by [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00005]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending Regulations are [S.R. 1994 No. 265](https://www.legislation.gov.uk/nisr/1994/265) and [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00006]: Footnote: Regulation 9 was substituted by regulation 2(7) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430). By virtue of regulation 4(1) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) for the purposes of determining whether a person is entitled to be credited with earnings in respect of any period before 7th October 1996, regulation 9(1) to (8) of [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113) continues to have effect as if the amendments made by [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) had not come into operation.

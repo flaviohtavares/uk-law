@@ -1,0 +1,1217 @@
+---
+title: The Official Feed and Food Controls Regulations (Northern Ireland) 2009
+id: nisr/2009/427
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-12-21'
+text_date: '2020-12-25'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/427
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/427/pdfs/nisrem_20090427_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/427/pdfs/nisr_20090427_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/427/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Official Feed and Food Controls Regulations (Northern Ireland) 2009
+
+> Text as at 2020-12-25.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 427
+
+Agriculture
+
+Food
+
+The Official Feed and Food Controls Regulations (Northern Ireland) 2009
+
+Made
+
+21st December 2009
+
+Coming into operation*-*
+
+25th January 2010
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred on it by section 2(2) of and paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00002].
+
+The Department of Health, Social Services and Public Safety, has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to food (including drink) including the primary production of food and measures relating to feed produced for or fed to food–producing animals[^f00003], the common agricultural policy of the European Community[^f00004] and measures in the veterinary and phytosanitary fields for the protection of public health[^f00005].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, Social Services and Public Safety that it is expedient for any reference to an EU instrument defined in Schedule 1 to be construed as a reference to that instrument as amended from time to time.
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00006] there has been open and transparent public consultation during the preparation and evaluation of the following Regulations.
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement[^key-7fb6449f0104ef41674059b3d004ba1b]
+
+These Regulations may be cited as the Official Feed and Food Controls Regulations (Northern Ireland) 2009 and come into operation on 25th January 2010.
+
+### 2. Interpretation[^key-431f762ef66f944420e67b5080feaa17]
+
+(1) In these Regulations —
+
+- “the Agency” means the Food Standards Agency;
+- “authorised officer” —
+  - (a) in relation to a competent authority, means any person (whether or not an officer of the authority) who is authorised by the authority in writing for the purposes of regulation 13; and
+  - (b) in relation to a relevant enforcement authority, means any person (whether or not an officer of the authority) who is authorised by the authority in writing, either generally or specially, to act in matters arising under Part 2 of these Regulations in relation to its enforcement responsibilities under regulation 16;
+- “competent authority” means, other than in regulations 22 and 23, an authority which, by virtue of regulation 3, is designated for the purposes of any of the provisions of Regulation 2017/625[^key-cd4fc208c86c78eb3366981b22f7a807];
+- “Decision 2007/275”, “Directive 2004/41”, “Regulation 999/2001”, “Regulation 178/2002”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2018/329”, “Regulation 2019/66”, “Regulation 2019/530”, “Regulation 2019/626”, “Regulation 2019/627”, “Regulation 2019/628”, “Regulation 2019/723”, “Regulation 2019/1013”, “Regulation 2019/1014”, “Regulation 2019/1715”, “Regulation 2019/1793”, “Regulation 2019/1873”, “Regulation 2018/631”, “Regulation 2019/478”, “Regulation 2019/624”, “Regulation 2019/625”, “Regulation 2019/1012”, “Regulation 2019/1081”, “Regulation 2019/1602” and “Regulation 2019/1666” have the meanings respectively given to them in Schedule 1”;[^key-3434accb3b60ddf86c6416b8b6145c32]
+- “the Department” means the Department of Health, Social Services and Public Safety;
+- “feed authority” means the authority identified in section 86(3) of the Agriculture Act 1970[^f00007] as having a duty to enforce that Act;
+- “the Import Provisions” means Part 3 of these Regulations, Title 2 Chapter 5 of Regulation 2017/625 and the Regulation 2017/625 package insofar as it and they apply to product as defined in regulation 21;[^key-0e93af24dfd42f9800d61fadd2166f3e]
+- “the Official Control Regulations” means these Regulations and Regulation 2017/625 and the Regulation 2017/625 package[^key-45ef03deeab2ba294e5520eb4eab0a6a];
+- “the Order” means the Food Safety (Northern Ireland) Order 1991[^f00008]
+- “premises” includes any establishment, any place, vehicle, stall or moveable structure and any ship or aircraft;
+- “primary production” has the meaning it bears in Regulation 852/2004;
+- “the Regulation 2017/625 package” means “Regulation 2018/329”, “Regulation 2019/66”, “Regulation 2019/530”, “Regulation 2019/626”, “Regulation 2019/627”, “Regulation 2019/628”, “Regulation 2019/723”, “Regulation 2019/1013”, “Regulation 2019/1014”, “Regulation 2019/1715”, “Regulation 2019/1793”, “Regulation 2019/1873”, “Regulation 2018/631”, “Regulation 2019/478”, “Regulation 2019/624”, “Regulation 2019/625”, “Regulation 2019/1012”, “Regulation 2019/1081”, “Regulation 2019/1602” and “Regulation 2019/1666”;[^key-7e02b5777762599296d402446674940c]
+- “relevant enforcement authority” means a body which, by virtue of regulation 16, is made responsible for executing and enforcing any provision of Part 2;
+- “relevant feed law” has the meaning given to it in Schedule 2;
+- “relevant food law” has the meaning given to it in Schedule 3.
+
+(2) Subject to paragraph (3), any expression other than one defined in paragraph (1) that is used both in these Regulations and in the Order has the meaning it bears in the Order.
+
+(3) Any expression used both in these Regulations and in Regulation 178/2002, Regulation 2017/625 or any of the EU Regulations in the Regulation 2017/625 package[^key-6b5c480cf037167f9e4f335d39bf29c0] has the meaning it bears in Regulation 178/2002, Regulation 2017/625 or any of the EU Regulations in the Regulation 2017/625 package as the case may be.
+
+(4) The Interpretation Act 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(5)[^key-74ebcbfdc75edd16bbcc4b13da324a5f] In these Regulations, any reference to an EU instrument defined in Schedule 1 is a reference to that instrument as amended from time to time.
+
+## PART 2 — MAIN PROVISIONS
+
+### 3. Competent authorities[^key-97335c3d10fffe5cc8bcf801e5168e44]
+
+(1) Subject to paragraph (4), any body specified in Column 1 of Schedule 4 is designated as a competent authority for the purposes of the provisions of Regulation 2017/625[^key-831cb321258038401795a0cb172122a6] indicated in the corresponding entry in Column 2 of that Schedule in so far as those provisions apply in relation to relevant feed law.
+
+(2) Subject to paragraphs (3) to (5), any body specified in Column 1 of Schedule 5 is designated as a competent authority for the purposes of the provisions of Regulation 2017/625[^key-51373bd256b095b1c5be4061f70a0977] indicated in the corresponding entry in Column 2 of that Schedule in so far as those provisions apply in relation to relevant food law.
+
+(3) Where a district council is designated as a competent authority pursuant to paragraph (2) the designation shall extend to its district only.
+
+(4)[^key-408931ca9534d59faf9fe5b774080d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where the Agency is designated as a competent authority pursuant to paragraph (2) for the purposes of Article 148 of Regulation 2017/625, the designation extends[^key-c86dc9a48313be0948cd0824db610b21], only to those operations in respect of which the Agency executes and enforces the Food Hygiene Regulations (Northern Ireland) 2006 by virtue of regulation 5(2) of those Regulations.
+
+### 4. Exchanging and providing information[^key-10a993c0b9414e7cbe2ed57a6ccadaa9]
+
+(1) For the purposes of enabling competent authorities, other OFFC authorities and member States to fulfil the obligations placed upon them by Regulation 2017/625[^key-20fe18823e8b97e3c787b2813a715699] competent authorities may exchange among themselves or provide to other OFFC authorities any information received by them in the execution and enforcement of relevant feed law or relevant food law.
+
+(2) For the purpose of executing and enforcing relevant feed law or relevant food law, competent authorities may exchange among themselves any information received by them in the execution and enforcement of such law.
+
+(3) For the purposes of facilitating the execution and enforcement of relevant feed law or relevant food law in England, Wales and Scotland, competent authorities may share information received by them in the execution and enforcement of relevant feed law or relevant food law with the bodies that execute and enforce such law in those countries.
+
+(4) Paragraphs (1), (2) and (3) are without prejudice to any other power of competent authorities to disclose information by or under EU[^key-d3ec6665ed5d5aa47c87cb98cdbad31b] legislation.
+
+(5) For the purposes of this regulation, “other OFFC authorities” means authorities designated in the United Kingdom as competent authorities for the purposes of Regulation 2017/625[^key-d09287bc6f77e02455a1d240c92f4909] other than the competent authorities designated under these Regulations.
+
+### 5. Obtaining information[^key-c53fa5e1337d366a701d89705cd1bee2]
+
+(1) For the purpose of enabling competent authorities and member States to fulfil the obligations placed on them by Regulation 2017/625[^key-343a0bc69e1d28c4478c56457a43a7bc] and for the purpose of executing and enforcing relevant feed law or relevant food law, a competent authority may require a delegated body[^key-8ee133600ae1f8ee47770311884e311c] —
+
+- (a) to provide the competent authority with any information which it has reasonable cause to believe the delegated body is able to give; and
+- (b) to make available to the competent authority for inspection by it any records which it has reasonable cause to believe are held by the delegated body or are otherwise within its control (and, if they are kept in computerised form, to make them available in a legible form).
+
+(2) The competent authority may copy any records made available to it under paragraph (1)(b).
+
+(3) A person who —
+
+- (a) fails without reasonable excuse to comply with any requirement imposed under paragraph (1); or
+- (b) in purported compliance with such a requirement furnishes information which that person knows to be false or misleading in any material particular or recklessly furnishes information which is false or misleading in any material particular,
+
+is guilty of an offence.
+
+(4) For the purposes of paragraph (1), the term “delegated body[^M_F_4e8a3e89-15ff-4c12-baeb-1d02ecff7d8e]” includes any member, officer or employee of a delegated body.
+
+### 6. Power to issue codes of recommended practice[^key-f78bb4f6cbe4cd4ff82566fb69f61967]
+
+(1) For the guidance of district councils the Department may issue codes of recommended practice as regards —
+
+- (a) functions conferred upon district councils in their capacity as competent authorities by or under Regulation 2017/625[^key-1f2f0823c659e34050658c5ed5785c39]; or
+- (b) the execution and enforcement of the Import Provisions;
+
+and any such code shall be laid before the Assembly after being issued.
+
+(2) The Agency may, after consulting the Department, give a district council a direction requiring it to take any specified steps in order to comply with a code issued under this regulation.
+
+(3) In exercise of the functions conferred on it as a competent authority by or under Regulation 2017/625[^key-885f69d80732a1d43c4fcca87d8bb10d] and in the execution and enforcement of the Import Provisions, each district council —
+
+- (a) shall have regard to any relevant provision of any such code; and
+- (b) shall comply with any direction which is given under this regulation that requires it to take any specified steps in order to comply with such a code.
+
+(4) Any direction under paragraph (2) shall, on the application of the Agency, be enforceable by an order of mandamus.
+
+(5) The Agency shall consult the Department before making an application under paragraph (4).
+
+(6) Before issuing any code under this regulation, the Department shall have regard to any relevant advice given by the Agency.
+
+### 7. Monitoring of enforcement action[^key-417b26211c6d4c329d35ce0a482f6708]
+
+(1) The Agency has the function of monitoring the performance of enforcement authorities in enforcing relevant audit legislation.
+
+(2) That function includes, in particular, setting standards of performance (whether for enforcement authorities generally or for particular authorities) in relation to the enforcement of any relevant audit legislation.
+
+(3) Each annual report of the Agency shall contain a report on its activities during the year in enforcing any relevant audit legislation for which it is the enforcement authority and its performance in respect of —
+
+- (a) any standards under paragraph (2) that apply to those activities; and
+- (b) any objectives relating to those activities that are specified in the statement of objectives and practices under section 22 of the Food Standards Act 1999[^f00011].
+
+(4) The Agency may make a report to any other enforcement authority on their performance in enforcing any relevant audit legislation and such a report may include guidance as to action which the Agency considers would improve that performance.
+
+(5) The Agency may direct an authority to which such a report has been made —
+
+- (a) to arrange for the publication in such manner as may be specified in the direction of, or of specified information relating to, the report; and
+- (b) within such period as may be so specified to notify the Agency of what action they have taken or propose to take in response to the report.
+
+(6) Section 19 of the Food Standards Act 1999 shall apply in relation to information obtained through monitoring under this regulation as if it were information obtained through monitoring under section 12 of that Act.
+
+### 8. Power to request information relating to enforcement action[^key-6365eebca86c186a5a038137e86575d1]
+
+(1) For the purpose of carrying out its function under regulation 7 in relation to any enforcement authority the Agency may require a person mentioned in paragraph (2) —
+
+- (a) to provide the Agency with any information which it has reasonable cause to believe that person is able to give; or
+- (b) to make available to the Agency for inspection any records which it has reasonable cause to believe are held by that person or otherwise within that person’s control (and, if they are kept in computerised form, to make them available in a legible form).
+
+(2) A requirement under paragraph (1) may be imposed on —
+
+- (a) the enforcement authority or any member, officer or employee of the authority; or
+- (b) a person subject to any duty under relevant audit legislation (being a duty enforceable by an enforcement authority) or any officer or employee of such a person.
+
+(3) The Agency may copy any records made available to it in pursuance of a requirement under paragraph (1)(b).
+
+### 9. Power of entry for persons monitoring enforcement action[^key-8f2fa6af3abe174f04f5973cc864f99f]
+
+(1) The Agency may authorise any individual (whether a member of its staff or otherwise) to exercise the powers specified in paragraph (4) for the purpose of carrying out its function under regulation 7 in relation to any enforcement authority.
+
+(2) An authorisation under this regulation shall not be issued except in pursuance of a decision taken by the Agency itself or by a committee, sub–committee or member of the Agency acting on behalf of the Agency.
+
+(3) An authorisation under this regulation shall be in writing and may be given subject to any limitations or conditions specified in the authorisation (including conditions relating to hygienic precautions to be taken while exercising powers in pursuance of the authorisation).
+
+(4) An authorised person may —
+
+- (a) enter any premises mentioned in paragraph (5) at any reasonable hour in order to inspect the premises or anything which may be found on them;
+- (b) take samples of any articles or substances found on such premises;
+- (c) inspect and copy any records found on such premises (and, if they are kept in computerised form, require them to be made available in a legible form);
+- (d) require any person present on such premises to provide such facilities, such records or information and such other assistance as the authorised person may reasonably request.
+
+(5) The premises which may be entered by an authorised person are —
+
+- (a) any premises occupied by the enforcement authority;
+- (b) any laboratory or similar premises at which work related to the enforcement of any relevant legislation has been carried out for the enforcement authority; and
+- (c) any other premises (not being a private dwelling–house) which the authorised person has reasonable cause to believe are premises in respect of which the enforcement powers of the enforcement authority are (or have been) exercisable.
+
+(6) The power to enter premises conferred on authorised persons includes power to take with them any other person they may consider appropriate.
+
+(7) Authorised persons shall on request —
+
+- (a) produce their authorisation before exercising any powers under paragraph (4); and
+- (b) provide a document identifying any sample taken, or documents copied, under those powers.
+
+(8) If a person (A) who enters any premises by virtue of this regulation discloses to any other person any information obtained on the premises with regard to any trade secret A is, unless the disclosure is made in the performance of a duty, guilty of an offence.
+
+(9) Where the Agency is the enforcement authority in relation to relevant audit legislation this regulation applies in relation to the Agency in respect of its performance in enforcing those provisions, with the omission of paragraph (5)(a).
+
+(10) In this regulation “authorised person” means a person authorised under this regulation.
+
+### 10. Meaning of “enforcement authority” and related expressions[^key-52820be2b79b2556995253911537c25c]
+
+(1) In regulations 7 to 9 “relevant audit legislation” means relevant feed law and relevant food law in respect of which the Agency is designated as a competent authority pursuant to paragraphs (1) and (2) respectively of regulation 3 but does not include “relevant legislation” as defined in section 15 of the Food Standards Act 1999.
+
+(2) In regulations 7 to 9 “enforcement authority” means the authority by whom relevant audit legislation is to be enforced and includes the Agency itself if by virtue of that legislation it is the enforcement authority in relation to it but does not include the European Commission; and “enforcement” in relation to relevant audit legislation includes the execution of any provisions of that legislation.
+
+(3) Any reference in regulations 7 to 9 (however expressed) to the performance of an enforcement authority in enforcing any relevant audit legislation includes a reference to the capacity of that authority to enforce it.
+
+### 11. Offences relating to regulations 8 and 9[^key-568ea6104eb15b6cff174ba2be5f3941]
+
+A person who —
+
+- (a) intentionally obstructs a person exercising powers under paragraph (4)(a), (b) or (c) of regulation 9;
+- (b) fails without reasonable excuse to comply with any requirement imposed under paragraph (1) of regulation 8 or paragraph (4)(d) of regulation 9; or
+- (c) in purported compliance with such a requirement furnishes information which that person knows to be false or misleading in any material particular or recklessly furnishes information which is false or misleading in any material particular,
+
+is guilty of an offence.
+
+### 12. Right of appeal[^key-d5631abe58873f38c4ae24f74a200991]
+
+(1) Any person who is aggrieved by a decision of the competent authority taken in respect of an establishment subject to approval under Article 4(2) of Regulation 853/2004 pursuant to —
+
+- (a) Article 148(3) of Regulation 2017/625 (approval)[^key-b0a14421fec18395c87f93273ebd29ba];
+- (b) Article 148(4) of Regulation 2017/625[^key-81ac4641d2a7969a7c65eaf477c85a46]; or
+- (c) Article 138(2)(j) of Regulation 2017/625 (suspension or withdrawal of approval)[^key-e46dc72ab84b30d49dba058c0493ce6e],
+
+may appeal to a court of summary jurisdiction.
+
+(2) The procedure on an appeal to a court of summary jurisdiction under paragraph (1) shall be by way of notice under Part VII of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00012].
+
+(3) The period within which an appeal under paragraph (1) may be brought shall be one month from and including the date on which notice of the decision was served on the person desiring to appeal.
+
+(4) Where on an appeal under paragraph (1) a court of summary jurisdiction determines that the decision of the competent authority is incorrect, the authority shall give effect to the determination of the court.
+
+(5)[^M_F_7e256040-9aca-4ff2-e4c9-c37a508c1b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^M_F_7e256040-9aca-4ff2-e4c9-c37a508c1b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^M_F_7e256040-9aca-4ff2-e4c9-c37a508c1b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Staff of competent authority of another member State[^key-2520ee4b3d44de511454348dd36d2c68]
+
+Authorised officers of a competent authority may take with them members of staff of the competent authority of another member State for the purpose of conducting an administrative enquiry under Article 104(3) of Regulation 2017/625[^key-1b26986d4b5f352e4be09e6a8e3a8e47].
+
+### 14. Commission experts[^key-b34d4b0a2caee1b8d4e699d1bcd15fd6]
+
+(1) When enforcing officers enter premises for the purposes of executing and enforcing official controls they may take with them Commission experts and a national expert, appointed for the purposes of Article 116(4) of Regulation 2017/625, to accompany and enable the Commission experts[^key-8cdcda74c2890a7f5f9e308ed72cc4c3] to carry out functions under Article 116 of Regulation 2017/625[^key-8c8fd84841a6cf6ebbc04480c2289397].
+
+(2) In paragraph (1) and in regulation 16 (5)(b) “enforcing officer” means an authorised officer of any authority which is responsible for executing and enforcing official controls for the verification of compliance with relevant feed law or relevant food law.
+
+### 15. Prohibition on disclosure of trade secrets[^key-a1eecf069bd91fb56b98fee73c48e39c]
+
+If a person (A) enters any premises by virtue of regulation 13 or 14 and discloses to any other person any information obtained on the premises with regard to any trade secret A is, unless the disclosure is made in the performance of a duty, guilty of an offence.
+
+### 16. Execution and enforcement[^key-37a6c42155382cd2ee37c44b56787e29]
+
+(1) The authority responsible for executing and enforcing paragraph (3) of regulation 5 shall be the competent authority who imposed the requirement on the delegated body[^key-604d85d31134c3b480dfc4cbc251c4e4] concerned under paragraph (1) of that regulation.
+
+(2) The authority responsible for executing and enforcing paragraph (8) of regulation 9 and regulation 11 shall be the Agency.
+
+(3) The authority responsible for executing and enforcing regulation 15 shall be the authority whose officer took the person who made the disclosure on to the premises concerned.
+
+(4) The authority responsible for executing and enforcing paragraph (9) of regulation 17 shall be the authority who authorised the person who entered the premises and disclosed the information.
+
+(5) The authority responsible for executing and enforcing regulation 18 shall—
+
+- (a) where the offence relates to the execution of regulation 13, be the competent authority whose authorised officer took with them a member of staff of the competent authority of another member State;
+- (b) where the offence relates to the execution of regulation 14, be the authority whose enforcing officer took with them a Commission expert and, where relevant, a national expert[^key-fef8c76bb43041f761f5b4eb414339c7]; and
+- (c) where the offence relates to the execution of regulation 17, be the relevant enforcement authority whose authorised officer exercised powers under that regulation.
+
+### 17. Powers of entry[^key-d9d3c4b865f5e957c4f088eb54202381]
+
+(1) Authorised officers of a district council shall, on producing, if so required, some duly authenticated document showing their authority, have a right at all reasonable hours —
+
+- (a) to enter any premises within the district for the purpose of ascertaining whether there is or has been on the premises a contravention of any provision of this Part for which that district council has enforcement responsibility pursuant to regulation 16; and
+- (b) to enter any premises, whether within or outside the district, for the purpose of ascertaining whether there is on the premises any evidence of such a contravention within that district,
+
+but admission to any premises used only as a private dwelling–house shall not be demanded as of right unless 24 hours’ notice of the intended entry has been given to the occupier.
+
+(2) Authorised officers of the feed authority shall, on producing if so required some duly authenticated document showing their authority, have a right at all reasonable hours to enter any premises for the purpose of ascertaining whether there is or has been on the premises a contravention of any provision of this Part for which that authority has enforcement responsibility pursuant to regulation 16; but admission to any premises used only as a private dwelling-house shall not be demanded as of right unless 24 hours’ notice of the intended entry has been given to the occupier.
+
+(3) Authorised officers of the Agency shall, on producing if so required some duly authenticated document showing their authority, have a right at all reasonable hours to enter any premises for the purpose of —
+
+- (a) ascertaining whether there is or has been on the premises a contravention of any provision of this Part for which the Agency has enforcement responsibility pursuant to regulation 16; and
+- (b) ascertaining whether there is on the premises any evidence of such a contravention,
+
+but admission to any premises used only as a private dwelling–house shall not be demanded as of right unless 24 hours’ notice of the intended entry has been given to the occupier.
+
+(4) If a lay magistrate, on sworn complaint in writing, is satisfied that there is reasonable ground for entry onto any premises for any such purpose as is mentioned in paragraph (1), (2) or (3) and either —
+
+- (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
+- (b) that an application for admission, or the giving of such a notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent,
+
+the lay magistrate may by signed warrant authorise the authorised officer to enter the premises, if need be by reasonable force.
+
+(5) Every warrant granted under this regulation shall continue in force for a period of one month.
+
+(6) Authorised officers entering any premises by virtue of this regulation, or of a warrant issued under it, may take with them such other persons as they consider necessary, and on leaving any unoccupied premises which they have entered by virtue of such a warrant shall leave them as effectively secured against unauthorised entry as they found them.
+
+(7) Authorised officers entering premises by virtue of this regulation, or of a warrant issued under it, may inspect any records (in whatever form they are held) and, where any such records are stored in any electronic form —
+
+- (a) may have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the records; and
+- (b) may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford them such assistance as they may reasonably require.
+
+(8) Any officers exercising any power conferred by paragraph (7) may —
+
+- (a) seize and detain any records which they have reason to believe may be required as evidence in proceedings under any of the provisions of this Part; and
+- (b) where the records are stored in any electronic form, require the records to be produced in a form in which they may be taken away.
+
+(9) If a person (A) who enters any premises by virtue of this regulation, or of a warrant issued under it, discloses to any other person any information obtained by A on the premises with regard to any trade secret, A shall, unless the disclosure was made in the performance of a duty, be guilty of an offence.
+
+(10) Nothing in this regulation authorises any person, except with the permission of the Department of Agriculture and Rural Development under the Diseases of Animals (Northern Ireland) Order 1981[^f00014], to enter any premises —
+
+- (a) on which an animal or bird affected with any disease to which that Order applies is kept; and
+- (b) which is situated in a place declared under that Order to be infected with such a disease.
+
+### 18. Obstruction etc. of officers[^key-cd257fd2d54b86e66334a9f4581cd0fe]
+
+(1) A person who —
+
+- (a) intentionally obstructs any person acting in the execution of regulation 13, 14 or 17 ; or
+- (b) without reasonable cause, fails to give to any person acting in the execution of regulation 13, 14 or 17 any assistance or information which that person may reasonably require of them for the performance of their functions under those regulations,
+
+shall be guilty of an offence.
+
+(2) Any person who, in purported compliance with any such requirement as is mentioned in paragraph (1)(b)—
+
+- (a) furnishes information which that person knows to be false or misleading in a material particular; or
+- (b) recklessly furnishes information which is false or misleading in a material particular,
+
+shall be guilty of an offence.
+
+(3) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
+
+### 19. Penalties[^key-ee9e0c3661dc9cc88c03919051d386ac]
+
+(1) A person guilty of an offence under paragraph (9) of regulation 17 shall be liable —
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(2) A person guilty of an offence under paragraph (3) of regulation 5, paragraph (8) of regulation 9, regulation 11 or regulation 15 shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) A person guilty of an offence under regulation 18 shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
+
+### 20. Time limit for prosecutions[^key-d10a1e5640a85300205c3de9e5dd2214]
+
+A prosecution for an offence under paragraph (9) of regulation 17 shall not be begun after the expiry of —
+
+- (a) three years from the commission of the offence; or
+- (b) one year from its discovery by the prosecution,
+
+whichever is the earlier.
+
+## PART 3 — OFFICIAL CONTROLS ON FEED AND FOOD OF NON-ANIMAL ORIGIN FROM THIRD COUNTRIES
+
+### 21. Interpretation of this Part[^key-49e3ca7b7c7b9cf578e812abf4be0982]
+
+In this Part —
+
+- “authorised officer”, in relation to an enforcement authority, means any person (whether or not an officer of the authority) who is authorised by it in writing, either generally or specially, to act in matters arising under the Import Provisions;
+- “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
+- “enforcement authority” means the feed authority or a district council;
+- “feed” does not include additives of a type mentioned in Article 6(1)(e) of or paragraph 4(d) of Annex I to Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition[^f00015] as amended or any premixture consisting solely of a combination of such additives;
+- “outside Northern Ireland enforcement authority” means the body responsible for enforcing the legislation in force with respect to imported products in any part of the United Kingdom except Northern Ireland;
+- “product” means feed and food of non-animal origin whose import is regulated by Article 44 or Article 47(1)(d), (e) or (f) of Regulation 2017/625 and includes composite products and foodstuffs which are not required to be subject to veterinary checks as provided in Commission Decision 2007/275/EC concerning lists of composite products to be subject to controls at border control posts;[^key-02d60752a8eb83956ef2b86edf730a4f]
+- “the relevant territories” means the territories referred to in Annex I to Regulation 2017/625[^key-4daca441846b62776e68f4a8947fd63a]; and
+- “specified import provision” means any provision of Regulation 2017/625 or the Regulation 2017/625 package that is specified in column 1 of Schedule 6 and whose subject-matter is described in column 2 of that Schedule.[^key-1d7303ffcf32dee00fd8eb7962cb324e]
+
+### 22. Feed enforcement responsibilities and competent authority status[^key-bd755586b41c1603df59e91e5e8a5544]
+
+(1) It shall be the responsibility of the feed authority to execute and enforce the Import Provisions in relation to feed.
+
+(2) The feed authority is designated as the competent authority for the purposes of the provisions of Regulation 2019/1793[^key-5ad9eba8aeb8f4b3657ee61ff0d00b68] in so far as those provisions apply in relation to relevant feed law.
+
+(3)[^key-a0e9a8ad652c301d78b7887340ebd95b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Food enforcement responsibilities and competent authority status[^key-67f35ffe8a584375ccac89ed27cb7c55]
+
+(1) It shall be the responsibility of each district council to execute and enforce the Import Provisions in its district in relation to food.
+
+(2) District Councils are designated as the competent authorities for the purposes of the provisions of Regulation 2019/1793[^key-c0a1e97613dfdc67322f9f44f02aba5c] in so far as those provisions apply in relation to relevant food law.
+
+(3) Where a district council is designated as a competent authority pursuant to paragraph (2) the designation shall extend to its district only.
+
+(4)[^key-dfa988ce8fa59cffb1d6266db578ecc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Functions of the Commissioners[^key-c81fa45431c2633151334236dccbf317]
+
+The Commissioners shall carry out the functions given to customs authorities under Articles 46, 57, 75 and 76 of Regulation 2017/625 and Article 4 of Regulation 2019/1793[^key-023673f6466de10a3435bb4cd640c483], in each case in relation to feed and food.
+
+### 25. Exchange of information[^key-f056a572c5eb687f565b1873754e3a28]
+
+(1) The Commissioners, the Agency and any enforcement authority may exchange information for the purposes of the Import Provisions, and may divulge information to the bodies defined as enforcement authorities in the provisions corresponding to Part 3 of these Regulations in England, Wales and Scotland for the purposes of the Import Provisions or the provisions corresponding to the Import Provisions in those jurisdictions.
+
+(2) Paragraph (1) is without prejudice to any other power of the Commissioners, the Agency or any enforcement authority to disclose information.
+
+(3) A person, including a servant of the Crown, may not disclose any information received from the Commissioners under paragraph (1) if —
+
+- (a) the information relates to a person whose identity—
+  - (i) is specified in the disclosure; or
+  - (ii) can be deduced from the disclosure;
+- (b) the disclosure is for a purpose other than the purposes specified in paragraph (1); and
+- (c) the Commissioners have not given their prior consent to the disclosure.
+
+### 26. Deferred execution and enforcement[^key-ab9a8a577fceef0d2ba68ea3403db843]
+
+(1) Subject to paragraph (6), where —
+
+- (a) a product from a third country has entered Northern Ireland;
+- (b) customs examination of that product has been completed or has been deferred until it reaches its place of destination elsewhere in the United Kingdom;
+- (c) an authorised officer of the enforcement authority for the place of entry has on reasonable grounds issued an authorisation confirming that —
+  - (i) examination of the product for the purposes of the Import Provisions should be deferred until the product arrives at its destination elsewhere in Northern Ireland, or
+  - (ii) such examination should take place when the product arrives at its destination elsewhere in the United Kingdom under legislation with respect to imported products in force there; and
+- (d) a person importing the product gives that authorised officer an undertaking in writing as to the matters specified in paragraph (2),
+
+the enforcement authority for the place in which the destination is located, if in Northern Ireland, shall become responsible for enforcing and executing the Import Provisions with respect to that product once it arrives there.
+
+(2) The undertaking shall —
+
+- (a) state the destination of the product; and
+- (b) confirm that —
+  - (i) the container containing the product has been sealed and will not be opened until it has reached that destination,
+  - (ii) the opening of the container has been authorised by the enforcement authority for the place in which the destination is located, if it is in Northern Ireland or the outside Northern Ireland enforcement authority if the destination is not in Northern Ireland, and
+  - (iii) the container will be available at that destination for examination under the Import Provisions or, as the case may be, legislation with respect to imported products in force elsewhere in the United Kingdom.
+
+(3) Where an authorised officer of an enforcement authority issues an authorisation pursuant to paragraph (1)(c), the authorised officer shall —
+
+- (a) (if the product’s place of destination is within Northern Ireland) notify the enforcement authority for that place or (if the product’s place of destination is in any other part of the United Kingdom) notify the outside Northern Ireland enforcement authority —
+  - (i) that the product (so described as to enable it to be identified) has not been examined under the Import Provisions, and
+  - (ii) if customs examination of the product has been deferred, of that fact; and
+- (b) send the relevant authority a copy of any undertaking given pursuant to paragraph (1)(d).
+
+(4) Where a product has been sent to a destination in Northern Ireland from another part of the United Kingdom, the Channel Islands or the Isle of Man and examination of that product has been deferred under legislation with respect to imported products in force there, the enforcement authority for the place of destination shall become responsible for enforcing and executing the Import Provisions with respect to that product once it arrives in Northern Ireland.
+
+(5) A person shall not breach an undertaking given under paragraph (1)(d).
+
+(6) The deferred execution and enforcement provisions set out in this regulation are subject to any official controls that take place pursuant to Article 47(1)(d) and (2)(b) and Article 54(4) of Regulation 2017/625[^key-df65b9e80eb739a3162335f33a172827].
+
+### 27. Prohibition on introduction of certain feed and food[^key-a71059086898084c37e6dcf27c22b4bc]
+
+(1) The following are prohibited —
+
+- (a) the introduction into Northern Ireland from a third country of specified feed that fails to comply with feed safety requirements;
+- (b) the introduction into Northern Ireland from elsewhere in the relevant territories of specified feed that originates in a third country and fails to comply with feed safety requirements;
+- (c) the introduction into Northern Ireland from a third country of specified food that fails to comply with —
+  - (i) food safety requirements, or
+  - (ii) the requirements of Articles 3 to 6 of Regulation 852/2004; and
+- (d) the introduction into Northern Ireland from elsewhere in the relevant territories of specified food that originates in a third country and fails to comply with —
+  - (i) food safety requirements, or
+  - (ii) the requirements of Articles 3 to 6 of Regulation 852/2004.
+
+(2) In this regulation —
+
+- (a) “specified feed” means feed that is a product; and
+- (b) “specified food” means food that is a product.
+
+### 28. Checks on products[^key-84d82189b11156c77da8ec5d7ca1dfa0]
+
+(1) The person responsible for introducing any product into Northern Ireland shall permit an authorised officer of an enforcement authority to carry out checks in relation to the product pursuant to Articles 34(5) and (6), 44(2)[^key-b886aa8a62176a313f9175e71f0a14fd] , 45(1), (2) and (4) of Regulation 2017/625 and regulation 45(1)[^key-7ef5928506abcf83864a962db9600f03].
+
+(2) When an authorised officer is carrying out checks in relation to a product pursuant to Articles 34(5) and (6), 44(2) , 45(1), (2) and (4) of Regulation 2017/625 and regulation 45(1), the person introducing the product shall provide the facilities and assistance which the authorised officer reasonably requires to carry them out.
+
+(3) When an authorised officer of an enforcement authority is carrying out an identity check or a physical check on a product in accordance with Articles 34(5) and (6), 44(2) , 45(1), (2) and (4) of Regulation 2017/625 and regulation 45(1) the authorised officer shall be entitled to require that the check takes place at a specified place.
+
+### 29. Withdrawal and suspension of border control posts[^key-671b566cb1a5702524db46b3d03ff501]
+
+(1) Where the Agency is satisfied that a border control post has ceased to comply with the requirements referred to in Article 64 of Regulation 2017/625 and Regulation 2019/1014 it may withdraw the designation of the border control post for all or for certain categories of animals and goods for which the designation was made by service on the operator of the border control post of a written notice to that effect.
+
+(2) Where the Agency is satisfied that the conditions referred to in Article 63(1) of Regulation 2017/625 apply it may suspend the designation of the border control post for all or for certain categories of animals and goods for which the designation was made by service on the operator of the border control post of a written notice to that effect and if there is a serious risk to human or animal health the suspension may be with immediate effect.
+
+(3) Upon service of a notice under paragraph (2), the border control post will cease to be a designated border control post to the extent specified in that notice until the suspension is removed by service by the Agency on the operator of the border control post of a written notice to that effect.
+
+(4) Where the Agency is satisfied that it is reasonable to withdraw or suspend the designation for reasons other than those referred to in paragraphs (1) and (2) it may do so for all or for certain categories of animals and goods for which the designation was made by service on the operator of the border control post of a written notice to that effect.
+
+### 30. Detention, destruction, special treatment, re–dispatch and other appropriate measures and costs[^key-a2ce18e37581fa31a848ef53b1600bef]
+
+(1) An enforcement authority shall have the power to do anything that a competent authority may do under Articles 46, 65 to 69 and 71 and 72 of Regulation 2017/625[^key-2b17eab7d6a7970321514d3cc063ac04] if the conditions set out in those Articles are fulfilled.
+
+(2)[^key-2a2df2c045e164e5a7c5034aff4f82f4] The measures taken by the enforcement authority under Articles 66, 67 and 69 of Regulation 2017/625 pursuant to paragraph (1) are applied at the expense of the operator responsible for the consignment.
+
+### 31. Notices in relation to imports of feed and food from third countries pursuant to the previous regulation[^key-15d303e8a1b18696b082bec8f702d023]
+
+(1) If an authorised officer of an enforcement authority proposes to place a consignment of feed or food under official detention under Article 65, 66 or 67 of Regulation 2017/625 the officer must serve a notice to that effect on the operator responsible for it.
+
+(2) Before ordering the operator to take action in accordance with Article 66(3)(a), (b) or (c), the enforcement officer must hear that operator as provided in the fourth subparagraph of Article 66(3) of Regulation 2017/625 unless immediate action is necessary.
+
+(3) If an authorised officer of an enforcement authority proposes to take any of the measures referred to in Article 66 and 67 of Regulation 2017/625 in respect of a consignment of feed or food the officer must serve a notice to that effect on the operator responsible for it.
+
+### 32. Right of appeal in respect of notices served under regulation 31[^key-7278160e0ada35841e760cd7e6bbb37c]
+
+(1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve a notice under regulation 31 may appeal to a court of summary jurisdiction.
+
+(2) The procedure on an appeal to a court of summary jurisdiction under paragraph (1) shall be by way of notice under Part VII of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00018].
+
+(3) The period within which an appeal under paragraph (1) may be brought shall be one month from and including the date on which the notice was served on the person desiring to appeal.
+
+(4) Where on an appeal under paragraph (1) a court of summary jurisdiction determines that the decision of the authorised officer of the enforcement authority is incorrect, the authority shall give effect to the determination of the court.
+
+### 33. Serious risk to animal or public health[^key-2f7cc5d193b69319138987d1b5f2478e]
+
+(1) Where the Department of Agriculture and Rural Development or the Agency learns or has reasonable grounds to suspect that any food or feed that has been or may be introduced into Northern Ireland from a third country is likely to constitute a serious risk to animal or public health, they each have the power to issue a written declaration suspending or imposing conditions on the introduction into Northern Ireland of any product from the whole or any part of that third country.
+
+(2) Such a declaration shall be published in such manner as the person who issued it thinks fit and shall specify the product and the third country or part thereof concerned.
+
+(3) A declaration which imposes conditions on the introduction of any product from a third country or part thereof shall specify those conditions.
+
+(4) Where a declaration is in force suspending the introduction of any product, a person shall not introduce that product into Northern Ireland if it originates in the third country or part thereof specified in the declaration.
+
+(5) Where a declaration is in force imposing conditions on the introduction of any product, a person shall not introduce that product into Northern Ireland if it originates in the third country or part thereof specified in the declaration unless the product complies with conditions specified in the declaration.
+
+(6) A declaration may be modified, suspended or revoked by a further written declaration published, so far as is practicable, in the same manner and to the same extent as the original declaration.
+
+### 34. Costs and fees[^key-0df88e7207196c5f162e9e259c3ec35c]
+
+(1) The costs incurred by the enforcement authority in taking the measures for which the operator is liable under Articles 66, 67 and 69 of Regulation 2017/625 are payable by the operator on the written demand of the enforcement authority.
+
+(2) The costs of official controls and other activities as referred to in Article 79(2)(a) and (c) and[^key-810d9e90bf734a9cf9046082edafd6de] Article 80 of Regulation 2017/625 are payable by the operator on the written demand of the enforcement authority.
+
+### 35. Procurement by authorised officers of samples with regard to food[^key-02dc1d30c5c02593fbef3b5f9bba2b08]
+
+Authorised officers of a district council may, for the purposes of the execution and enforcement by that district council of the Import Provisions —
+
+- (a) purchase a sample of any food, or any substance capable of being used in the preparation of food;
+- (b) take a sample of any food, or any such substance, which —
+  - (i) appears to them to be intended for placing on the market or to have been placed on the market, for human consumption, or
+  - (ii) is found by them on or in any premises which they are authorised to enter by or under regulation 37;
+- (c) take a sample from any food source, or a sample of any contact material, which is found by them on or in any such premises; and
+- (d) take a sample of any article or substance which is found by them on or in any such premises and which they have reason to believe may be required as evidence in proceedings under any of the provisions of the Import Provisions.
+
+### 36. Analysis etc. of samples[^key-fee8fb1782a6261770059c34e4e5a496]
+
+(1) Authorised officers of a district council who have procured a sample under regulation 35 shall —
+
+- (a) if they consider that the sample should be analysed, submit it to be analysed by a public analyst;
+- (b) if they consider that the sample should be examined, submit it to be examined by a food examiner.
+
+(2) A person, other than such an officer, who has purchased any food, or any substance capable of being used in the preparation of food, may submit a sample of it —
+
+- (a) to be analysed by the public analyst for the area in which the purchase was made; or
+- (b) to be examined by a food examiner.
+
+(3) If, in any case where a sample is proposed to be submitted for analysis under this regulation, the office of public analyst for the district in question is vacant, the sample shall be submitted to the public analyst for some other district.
+
+(4) If, in any case where a sample is proposed to be or is submitted for analysis or examination under this regulation, the food analyst or examiner determines that they are for any reason unable to perform the analysis or examination, the sample shall be submitted or, as the case may be, sent by them to such other food analyst or examiner as they may determine.
+
+(5) A food analyst or examiner shall analyse or examine as soon as practicable any sample submitted or sent to them under this regulation, but may, except where —
+
+- (a) they are the public analyst for the district in question; and
+- (b) the sample is submitted to them for analysis by an authorised officer of a district council,
+
+demand in advance the payment of such reasonable fee as they may require.
+
+(6) Any food analyst or examiner who has analysed or examined a sample shall give to the person by whom it was submitted a certificate specifying the result of the analysis or examination.
+
+(7) Any certificate given by a food analyst or examiner under paragraph (6) shall be signed by them, but the analysis or examination may be made by any person acting under their direction.
+
+(8) In any proceedings under the Import Provisions, the production by one of the parties —
+
+- (a) of a document purporting to be a certificate given by a food analyst or examiner under paragraph (6); or
+- (b) of a document supplied to that party by the other party as being a copy of such a certificate,
+
+shall be sufficient evidence of the facts stated in it unless, in a case falling within sub–paragraph (a), the other party requires that the food analyst or examiner shall be called as a witness.
+
+(9) Any reference in this regulation to a public analyst for a given district shall, where two or more public analysts have been appointed for that district, be construed as a reference to either or any of them.
+
+(10) The Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013[^key-056c2945f1d4c3b7ad49df545a151135] [^f00019] shall apply in relation to a sample procured by an authorised officer of a district council under regulation 35 as if it were a sample procured by an authorised officer under Article 29 of the Order.
+
+(11) The certificate given by a food analyst or examiner under paragraph (6) shall be in the form set out in Schedule 3 to the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013[^key-c6aceb8a14117613bbb01dcbb0275072] .
+
+### 37. Powers of entry of authorised officers of a district council[^key-ac6291bef1cc1e3ab0fa6a8e25115b8a]
+
+(1) Authorised officers of a district council shall, on producing, if so required, some duly authenticated document showing their authority, have a right at all reasonable hours —
+
+- (a) to enter any premises within the district for the purpose of ascertaining whether there is or has been on the premises any contravention of the provisions of the Import Provisions in relation to food;
+- (b) to enter any premises, whether within or outside the district, for the purpose of ascertaining whether there is on the premises any evidence of any such contravention within that district; and
+- (c) to enter any premises for the purpose of the performance by the authority of its functions under the Import Provisions,
+
+but admission to any premises used only as a private dwelling–house shall not be demanded as of right unless 24 hours’ notice of the intended entry has been given to the occupier.
+
+(2) If a lay magistrate, on sworn complaint in writing, is satisfied that there is reasonable ground for entry onto any premises for any such purpose as is mentioned in paragraph (1) and either —
+
+- (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
+- (b) that an application for admission, or the giving of such a notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent,
+
+the lay magistrate may by signed warrant authorise the authorised officer to enter the premises, if need be by reasonable force.
+
+(3) Every warrant granted under this regulation shall continue in force for a period of one month.
+
+(4) Authorised officers entering any premises by virtue of this regulation, or of a warrant issued under it, may take with them such other persons as they consider necessary, and on leaving any unoccupied premises which they have entered by virtue of such a warrant shall leave them as effectively secured against unauthorised entry as they found them.
+
+(5) Authorised officers entering premises by virtue of this regulation, or of a warrant issued under it, may inspect any records (in whatever form they are held) relating to a food business and, where any such records are stored in any electronic form —
+
+- (a) may have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the records; and
+- (b) may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford them such assistance as they may reasonably require.
+
+(6) Any officer exercising any power conferred by paragraph (5) may —
+
+- (a) seize and detain any records which that officer has reason to believe may be required as evidence in proceedings under any of the provisions of the Import Provisions; and
+- (b) where the records are stored in any electronic form, require the records to be produced in a form in which they may be taken away.
+
+(7) If a person (A) who enters any premises by virtue of this regulation, or of a warrant issued under it, discloses to any other person any information obtained by A on the premises with regard to any trade secret, A shall, unless the disclosure was made in the performance of a duty, be guilty of an offence.
+
+(8) Nothing in this regulation authorises any person, except with the permission of the Department of Agriculture and Rural Development under the Diseases of Animals (Northern Ireland) Order 1981, to enter any premises —
+
+- (a) on which an animal or bird affected with any disease to which that Order applies is kept; and
+- (b) which is situated in a place declared under that Order to be infected with such a disease.
+
+### 38. Obstruction etc. of officers (imports)[^key-9c7e21a169dc530c79c45fed8fa938a3]
+
+(1) Any person who —
+
+- (a) intentionally obstructs any person acting in the execution of the Import Provisions; or
+- (b) without reasonable cause, fails to give to any person acting in the execution of the Import Provisions any assistance or information which that person may reasonably require of them for the performance of their functions under the Import Provisions,
+
+shall be guilty of an offence.
+
+(2) Any person who, in purported compliance with any such requirement as is mentioned in paragraph (1)(b)—
+
+- (a) furnishes information which that person knows to be false or misleading in a material particular; or
+- (b) recklessly furnishes information which is false or misleading in a material particular,
+
+shall be guilty of an offence.
+
+(3) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
+
+### 39. Offences and penalties[^key-f54bd390fe751bd4470377b9572bd81f]
+
+(1) Any person who —
+
+- (a) contravenes or fails to comply with any of the specified import provisions;
+- (b) contravenes paragraph (3) of regulation 25, paragraph (5) of regulation 26 or paragraph (4) or (5) of regulation 33;
+- (c) contravenes any of the prohibitions in paragraph (1) of regulation 27;
+- (d) to the extent that contravention of regulation 28 does not constitute an offence under regulation 38, contravenes regulation 28; or
+- (e) fails to comply with a notice served upon that person under the Import Provisions,
+
+shall be guilty of an offence.
+
+(1A)[^key-1f5dc7533a6984fc984793ab9483ed5f] Any person who imports into Northern Ireland or places on the market any sprouts or seeds intended for sprouting which do not comply with the certification requirements of Article 3 of Commission Regulation (EU) No 211/2013 on certification requirements for imports into the Union of sprouts and seeds intended for the production of sprouts shall be guilty of an offence.
+
+(2) Subject to paragraph (3), a person guilty of an offence under this Part shall be liable —
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(3) A person guilty of an offence under regulation 38 shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
+
+### 40. Time limit for prosecutions (imports)[^key-f18255578609074926cb02625837c954]
+
+A prosecution for an offence under this Part which is punishable under regulation 39(2) shall not be begun after the expiry of —
+
+- (a) three years from the commission of the offence; or
+- (b) one year from its discovery by the prosecution,
+
+whichever is the earlier.
+
+## PART 4 — RECOVERY OF EXPENSES
+
+### 41. Expenses arising from additional official controls[^key-1a8f52dbae72571f0ebd6c11f454db79]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Expenses arising in respect of co-ordinated assistance and follow-up by the Commission[^key-f2ad6cf120aaaf93fbc1423d18a13223]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — ENFORCEMENT AND SUPPLEMENTARY PROVISIONS
+
+### 43. Offences due to fault of another person[^key-defb63b3058b788f4db58145c55991e5]
+
+Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first–mentioned person.
+
+### 44. Defence of due diligence[^key-3790ac250a0ee4b95ead8e9f255ad454]
+
+(1) In any proceedings for an offence under these Regulations, it shall, subject to paragraph (2), be a defence to prove that the accused took all reasonable precautions and exercised all due diligence to avoid committing the offence or to avoid the commission by a person under the accused’s control.
+
+(2) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to an act or default of another person, or to reliance on information supplied by another person, the accused shall not, without leave of the court, be entitled to rely on that defence unless —
+
+- (a) at least seven clear days before the hearing; and
+- (b) where there has been a previous appearance by the accused before a court in connection with the alleged offence, before the expiration of one month from that first such appearance,
+
+the accused has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in the accused’s possession.
+
+### 45. Protection of officers acting in good faith[^key-e5d5dbd3c590489e983eb8a93daf0613]
+
+(1) An officer of a relevant body is not personally liable in respect of any act done by that officer —
+
+- (a) in the execution or purported execution of the Official Control Regulations; and
+- (b) within the scope of the employment,
+
+if that act was done in the honest belief that a duty under the Official Control Regulations required or entitled the officer to do it.
+
+(2) Paragraph (1) shall not be construed as relieving any relevant body of any liability in respect of the acts of its officers.
+
+(3) Where an action has been brought against an officer of a relevant body in respect of an act done by that officer —
+
+- (a) in the execution or purported execution of the Official Control Regulations; but
+- (b) outside the scope of the employment,
+
+the body may indemnify the officer against the whole or a part of any damages which the officer has been ordered to pay or any costs which may have been incurred by the officer if it is satisfied that the officer honestly believed that the act complained of was within the scope of the employment.
+
+(4) In so far as a district council is a relevant body for the purposes of this regulation, a public analyst appointed by a district council shall be treated for the purposes of this regulation as being an officer of the district council, whether or not the appointment is a whole-time one.
+
+(5) In this regulation “relevant body” means a body acting as —
+
+- (a) a competent authority;
+- (b) an enforcement authority as defined in regulation 21; or
+- (c) a relevant enforcement authority.
+
+### 46. Amendment to the Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005[^key-c44ad982c1e58b0f26fe05afd699b12f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Revocation[^key-6a2a5f990de2698b49c06f1879f5a5d6]
+
+The following Regulations are revoked—
+
+- (a) the Food (Chilli, Chilli Products, Curcuma and Palm Oil (Emergency Control) Regulations (Northern Ireland) 2005[^f00021];
+- (b) the Official Feed and Food Controls Regulations (Northern Ireland) 2007[^f00022]
+
+Sealed with the Official Seal of the Office of the Department of Health, Social Services and Public Safety on 18th December 2009.
+
+Andrew McCormick
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — DEFINITIONS OF EU LEGISLATION[^key-34e540cb9f1cf83a5ba71ba5383fa868]
+
+- “**Decision 2007/275**” means Commission [Decision 2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275) concerning lists of animals and products to be subject to controls at border inspection posts under Council Directives [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496) and 97/78;
+- “**Directive 2004/41**” means [Directive 2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662) and [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/european/decision/1995/0408);
+- “**Regulation 999/2001**” means Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies;
+- “**Regulation 178/2002**” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
+- “**Regulation 852/2004**” means Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) of the European Parliament and of the Council on the hygiene of foodstuffs as read with Regulation 2073/2005;
+- “**Regulation 853/2004**” means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin as read with Directive 2004/41, Regulation 1688/2005, Regulation 2074/2005 and Regulation 2017/185;
+- “**Regulation 1688/2005**” means [Commission Regulation (EC) No. 1688/2005](https://www.legislation.gov.uk/european/regulation/2005/1688) implementing Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council as regards special guarantees concerning salmonella for consignments to Finland and Sweden of certain meat and eggs;
+- “**Regulation 2073/2005**” means [Commission Regulation (EC) No. 2073/2005](https://www.legislation.gov.uk/european/regulation/2005/2073) on microbiological criteria for foodstuffs;
+- “**Regulation 2074/2005**” means [Commission Regulation (EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) laying down implementing measures for certain products under Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council and for the organisation of official controls under Regulation [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) of the European Parliament and of the Council and Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, derogating from Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) of the European Parliament and of the Council and amending Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854);
+- “**Regulation 2017/185**” means Commission Regulation (EU) 2017/185 laying down transitional measures for the application of certain provisions of Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) of the European Parliament and of the Council;
+- “**Regulation 2017/625**” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No. 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No. 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No. 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438) as read with Regulation 2074/2005, Regulation 2017/185 and the Regulation 2017/625 package;
+
+### The Regulation 2017/625 package
+
+Implementing Regulations
+
+- “**Regulation 2018/329**” means Commission Implementing Regulation (EU) 2018/329 designating a European Union Reference Centre for Animal Welfare;
+- “**Regulation 2019/66**” means Commission Implementing Regulation (EU) 2019/66 on rules on uniform practical arrangements for the performance of official controls on plants, plant products and other objects in order to verify compliance with Union rules on protective measures against pests of plants applicable to those goods;
+- “**Regulation 2019/530**” means Commission Implementing Regulation (EU) 2019/530 designating European Union reference laboratories for pests of plants on insects and mites, nematodes, bacteria, fungi and oomycetes, viruses, viroids, and phytoplasmas;
+- “**Regulation 2019/626**” means Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists;
+- “**Regulation 2019/627**” means Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending [Commission Regulation (EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) as regards official controls;
+- “**Regulation 2019/628**” means Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) and Implementing Regulation (EU) 2016/759 as regards these model certificates;
+- “**Regulation 2019/723**” means Commission Implementing Regulation (EU) 2019/723 laying down rules for the application of Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the standard model form to be used in the annual reports submitted by Member States;
+- “**Regulation 2019/1013**” means Commission Implementing Regulation (EU) 2019/1013 on prior notification of consignments of certain categories of animals and goods entering the Union;
+- “**Regulation 2019/1014**” means Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points;
+- “**Regulation 2019/1715**” means Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components (the IMSOC Regulation);
+- “**Regulation 2019/1793**” means Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), (EU) No. 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660;
+- “**Regulation 2019/1873**” means Commission Implementing Regulation (EU) 2019/1873 on the procedures at border control posts for a coordinated performance by competent authorities of intensified official controls on products of animal origin, germinal products, animal by-products and composite products;
+
+Delegated Regulations
+
+- “**Regulation 2018/631**” means Commission Delegated Regulation (EU) 2018/631 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by establishing European Union reference laboratories for pests of plants;
+- “**Regulation 2019/478**” means Commission Delegated Regulation (EU) 2019/478 amending Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the categories of consignments to be subjected to official controls at border control posts;
+- “**Regulation 2019/624**” means Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council;
+- “**Regulation 2019/625**” means Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption;
+- “**Regulation 2019/1012**” means Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts;
+- “**Regulation 2019/1081**” means Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border control posts;
+- “**Regulation 2019/1602**” means Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination;
+- “**Regulation 2019/1666**” means Commission Delegated Regulation (EU) 2019/1666 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union.
+
+## SCHEDULE 2 — DEFINITION OF RELEVANT FEED LAW[^key-6991f72e43375196d5f5f84de5767495]
+
+Regulation 2(1)
+
+[^key-6991f72e43375196d5f5f84de5767495]
+
+- “relevant feed law” means —
+  - (a) Part IV of the Agriculture Act 1970[^f00035] in so far as it applies in relation to feeding stuffs;
+  - (b) [^key-ac4b6709f5b28570481aa6af42c50951]...
+  - (c) [^key-9b709d4d51a670c9822baac52539ca82]...[^f00037]
+  - (d) the Food Hygiene Regulations (Northern Ireland) 2006[^f00038] in so far as they apply in relation to feed;
+  - (e) the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016[^key-27302d00dad894209930c7a02b5fcd7d] [^f00039]; and
+  - (f) the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016[^key-734df031e907eac4e86192ca82c09389] .
+  - (g) the Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018.[^key-807700b102261027f2fa7b506b4606ea]
+
+## SCHEDULE 3 — DEFINITION OF RELEVANT FOOD LAW[^key-c2586633c8f13c1b43fa90fa4c0284f7]
+
+Regulation 2(1)
+
+[^key-c2586633c8f13c1b43fa90fa4c0284f7]
+
+- “relevant food law” means —
+  - (a) food law in so far as it applies in relation to food, except in so far as it involves —
+    - (i) the regulation of residues of veterinary medicines and other substances under the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 1998[^f00041],
+    - (ii) the regulation of residues of pesticides under the Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008[^f00042],
+    - (iii) [^key-ed4bf23b6bfdaabf938bd283cd94a70b]...
+    - (iv) the application of the rules on quality schemes which provide the basis for the identification and protection of names and terms that indicate or describe agricultural products with value-adding characteristics laid down in Regulation (EU) No 1151/2012 of the European Parliament and of the Council of quality schemes for agricultural products and foodstuffs.[^key-05fff395527b5ade6472639d73c998ed]
+    - (v) the regulation of organic products under the Organic Products Regulations 2009 [^f00045],
+    - (vi) the regulation of beef and veal labelling under the Beef and Veal Labelling Regulations (Northern Ireland) 2010,[^key-75d5d262bdfd3cb155bd1c46cc989837]
+    - (vii) [^key-f9ec08124933dfdf4bf1bbddf50c0e32]...
+    - (viii) the matters regulated under Schedule 2 to the Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018[^key-6df3e047e2bdaef327b7052f4a703ab4] in so far as that Schedule applies in relation to animals slaughtered for human consumption, together with the matters covered under point 2 of Part I and point 2 of Part II of Chapter A of Annex III to Regulation 999/2001 as read with Commission Decision [2009/719/EC](https://www.legislation.gov.uk/european/decision/2009/0719) authorising certain Member States to revise their annual BSE monitoring programmes[^f00050] in so far as those points apply in relation to animals slaughtered for human consumption; and
+    - (ix) the regulation of spirit drinks under the Spirit Drinks Regulations 2008[^f00051];
+  - (b) food law in so far as it applies in relation to materials and articles in contact with food; and
+  - (c) food law in so far as it involves the regulation of primary production and those associated operations listed in paragraph 1 of Part AI of Annex I to Regulation 852/2004 under the Food Hygiene Regulations (Northern Ireland) 2006.
+
+## SCHEDULE 4 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 2017/625 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FEED LAW[^key-d6b18ddc26bd14979cd457391875833d]
+
+| *Column 1*<br>*Competent authority* | *Column 2*<br>*Provisions of Regulation 2017/625* |
+| --- | --- |
+| The Agency | Articles 4(2), 5(1) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 42, 63, 65(5), 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 88, 89, 91, 93, 96 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 124, 130, 135, 137, 138, 140. |
+| The feed authority | Articles 4(2), 4(3), 5(1), (4) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 44, 45, 46, 47, 49, 50, 55, 56, 57, 63, 65, 66, 67, 68, 69, 71, 72, 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 96, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 130, 135, 137, 138, 140. |
+
+## SCHEDULE 5 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 2017/625 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FOOD LAW[^key-cea3ba5603d9efffdf9e57a4ac7f8ff8]
+
+| *Column 1*<br>*Competent authority* | *Column 2*<br>*Provisions of Regulation 2017/625* |
+| --- | --- |
+| The Agency | Articles 4(2) and (3), 5(4) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 18, 21, 24, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 42, 44, 45, 46, 47, 49, 50, 51, 53, 55, 56, 57, 63, 65, 66, 67, 68, 69, 71, 72, 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 93, 96, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 124, 130, 135, 137, 138, 140, 148, 150. |
+| The food authority | Articles 4(3), 5(1) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 18, 21, 24, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 42, 44, 45, 46, 47, 49, 50, 51, 53, 55, 56, 57, 63, 65, 66, 67, 68, 69, 71, 72, 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 93, 96, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 124, 130, 135, 137, 138, 140, 148, 150. |
+
+## SCHEDULE 6 — SPECIFIED IMPORT PROVISIONS[^key-1929938f15b62a1a7fa7d7fffd234a1a]
+
+| *Column 1*<br>*Provision of EU legislation* | *Column 2*<br>*Subject matter* |
+| --- | --- |
+| Regulation 2017/625 |  |
+| Article 69(1) | Requirement that the operator responsible for the consignment is to carry out all the measures ordered by the competent authorities. |
+| Regulation 2019/1602 |  |
+| Article 3 | Requirement that a CHED is to accompany each consignment irrespective of whether or not it is split at the border control post or subsequent to leaving the border control post. |
+| Article 4(a) | Requirement that where a consignment is not split before being released for free circulation, the operator responsible for the consignment is to ensure that a copy of the CHED accompanies the consignment to the place of destination and until it is released into free circulation. |
+| Article 4(b) | Requirement that where a consignment is not split before being released for free circulation, the operator responsible for the consignment is to indicate the reference number of the CHED in the customs declaration lodged with the customs authorities and is to keep a copy of the CHED at the disposal of the customs authorities. |
+| Article 5(1)(a) | Requirement that where a consignment is to be split at the border control post, when giving prior notification, the operator responsible for the consignment is to declare the border control post as the place of destination in the CHED for the entire consignment. |
+| Article 5(1)(b) | Requirement that where a consignment is to be split at the border control post, upon finalisation of the CHED for the entire consignment, the operator responsible for the consignment is to request that the consignment be split and is to submit, through the IMSOC a CHED for each part of the split consignment and make a declaration. |
+| Article 5(1)(d) | Requirement that where a consignment is to be split at the border control post, the operator responsible for the consignment is to ensure that a copy of the CHED for each part of the split consignment accompanies the relevant part to the place of destination and until it is released into free circulation. |
+| Article 5(1)(e) | Requirement that where a consignment is to be split at the border control post, the operator responsible for the consignment is to indicate the reference number of the CHED for each part of the split consignment in the customs declaration lodged with the customs authorities and is to keep a copy of that CHED at the disposal of the customs authorities. |
+| Article 5(2)(a) | Requirement that where a non-compliant consignment is to be split at the border control post, upon finalisation of the CHED for the entire consignment, the operator responsible for the consignment is to submit a CHED for each part of the split consignment and make a declaration. |
+| Article 6(a) | Requirement that where a consignment is to be split after leaving the border control post and before being released for free circulation, the operator responsible for the consignment is to ensure that a copy of the CHED accompanies each part of the split consignment until it is released for free circulation. |
+| Article 6(b) | Requirement that where a consignment is to be split after leaving the border control post and before being released for free circulation, the operator responsible for the consignment is to indicate the reference number of the CHED for each part of the split consignment in the customs declaration lodged with the customs authorities and is to keep a copy of that CHED at the disposal of the customs authorities. |
+| Regulation 2019/1666 |  |
+| Article 3(1) | Requirement that the operator responsible for the consignment is to, within one day upon arrival of the consignment, inform the competent authority responsible for performing the official controls at the establishment at the place of destination of the arrival of the consignment. |
+
+## SCHEDULE 7 — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FEED (HYGIENE AND ENFORCEMENT) REGULATIONS (NORTHERN IRELAND) 2005[^key-39ebee99e6546e25b4ad6a94de7a7214]
+
+**No longer in force.**
+
+Regulation 46
+
+> **...[^key-39ebee99e6546e25b4ad6a94de7a7214]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations revoke and re-enact with changes the Official Feed and Food Controls Regulations (Northern Ireland) 2007 ([S.R. 2007 No. 482](https://www.legislation.gov.uk/nisr/2007/482)). The principal changes are that —
+
+- (a) it is provided that a person who contravenes or fails to comply with specified provisions of EU legislation concerning the import of certain types of feed and food of non-animal origin is guilty of an offence *(regulation 39(1)(a))*;
+- (b) it is provided that specified bodies are designated as competent authorities as regards the imports referred to in sub-paragraph (a) of this paragraph *(regulation 22(2)and (3) and regulation 23(2),(3) and (4))*;
+- (c) it is provided that the Commissioners for Her Majesty’s Revenue and Customs, the Food Standards Agency and feed and food authorities may exchange and divulge information *(regulation 25)*;
+- (d) it is provided that designated points of entry for the imports referred to in sub-paragraph (a) of this paragraph may be suspended *(regulation 29)*;
+- (e) it is provided that fees are to be collected by competent authorities in respect of the increased level of official controls on the imports referred to in sub-paragraph (a) of this paragraph *(regulation 34(2))*; and
+- (f) the definition of “relevant food law” in Schedule 3 is revised.
+
+**2.** These Regulations provide for the execution and enforcement of—
+
+- (a) Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (OJ No. L165, 30.4.2004, p.1), as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptations to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14) in relation to “relevant feed law” and “relevant food law”, which terms are defined in Schedules 2 and 3 respectively. The revised text of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) is now set out in a Corrigendum (OJ No. L191, 28.5.2004, p.1), which should be read with a further Corrigendum (OJ No. L204, 4.8.2007, p.29); and
+- (b) [Commission Regulation (EC) No. 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669) implementing Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council as regards the increased level of official controls on imports of certain feed and food of non-animal origin and amending Decision [2006/504/EC](https://www.legislation.gov.uk/european/decision/2006/0504) (OJ No. L194, 25.7.2009, p.11).
+
+**3.** These Regulations also impose prohibitions on the introduction of certain feed and food into Northern Ireland in the light of Article 11 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ No. L31, 1.2.2002, p.1), as last amended by Regulation (EC) No. 596/2009 and as read with Article 10 of Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) of the European Parliament and of the Council on the hygiene of foodstuffs (OJ No. L139, 30.4.2004, p.1; the revised text of that Regulation is now set out in a Corrigendum, OJ No. L226, 25.6.2004, p.3, which should be read with a further Corrigendum, OJ No. L204, 4.8.2007, p.26).
+
+**4.** These Regulations —
+
+- (a) provide for the designation of specified bodies as competent authorities for the purposes of the provisions of Regulation (EC) No. 882/2004 (*regulation 3*);
+- (b) provide for the exchange and provision of information by competent authorities (*regulation 4*);
+- (c) enable a competent authority to require a control body to provide information and make records available and provide that a person who —
+  - (i) fails to comply with a requirement to provide information or make records available, or
+  - (ii) in purported compliance with such a requirement furnishes false or misleading information,
+
+  is guilty of an offence *(regulation 5)*;
+- (d) enable the Department of Health, Social Services and Public Safety to issue codes of recommended practice to district councils (*regulation 6*);
+- (e) give the Food Standards Agency the function of monitoring the performance of enforcement authorities in enforcing certain legislation (*regulation 7*);
+- (f) give the Food Standards Agency the power, for the purpose of carrying out the function referred to in sub–paragraph (e) of this paragraph —
+  - (i) to require information to be provided and records to be made available (*regulation 8*), and
+  - (ii) to authorise individuals (who may thereby exercise certain powers, including a power of entry) (*regulation 9*);
+- (g) define certain terms used in regulations 7 to 9 (*regulation 10*);
+- (h) provide that a person who —
+  - (i) obstructs a person exercising a power to enter premises, take samples or inspect and copy records,
+  - (ii) fails to comply with a requirement to provide information, make records available or provide facilities, records, information or other assistance, or
+  - (iii) in purported compliance with such a requirement furnishes false or misleading information,
+
+  is guilty of an offence (*regulation 11*);
+- (i) provide a right of appeal in respect of a decision of the competent authority concerning the approval of certain establishments taken under Article 31 of Regulation (EC) No. 882/2004 (*regulation 12*);
+- (j) provide that an authorised officer of a competent authority may take with him a member of staff of the competent authority of another member State for the purpose of conducting an administrative enquiry under Article 36 of Regulation (EC) No. 882/2004 (*regulation 13*);
+- (k) provide that when an “enforcing officer”, defined in regulation 14(2), enters premises for the purpose of executing and enforcing official controls he may take with him a Commission expert to enable that expert to carry out functions under Article 45 of Regulation (EC) No. 882/2004 (*regulation 14*);
+- (l) provide that a person who enters premises under the powers referred to in sub–paragraph (j) or (k) of this paragraph and discloses any information obtained on the premises with regard to any trade secret is guilty of an offence unless he does so in the performance of his duty (*regulation 15*);
+- (m) specify the authorities that are responsible for executing and enforcing regulations 5(3), 9(8), 11, 15, 17(9) and 18 (*regulation 16*);
+- (n) give powers of entry to authorised officers of the authorities referred to in sub–paragraph (m) of this paragraph (*regulation 17*);
+- (o) create the offence of obstructing an officer acting in the execution of regulation 13, 14 or 17 (*regulation 18*);
+- (p) provide penalties for offences under Part 2 of these Regulations (*regulation 19*);
+- (q) provide a time limit for bringing prosecutions for offences under regulation 17(9) (*regulation 20*);
+- (r) make provision for the execution and enforcement of Part 3 of these Regulations, Articles 15 to 24 of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) and Regulation [(EC) No. 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), together defined in regulation 2(1) as “the Import Provisions” (*regulations 22(1) and 23(1)*);
+- (s) provide for the designation of specified bodies as competent authorities for the purposes of the provisions of Regulation [(EC) No. 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669) in relation to feed and food *(regulations 22(2) and (3) and 23(2), (3) and (4))*;
+- (t) provide that the Commissioners for Her Majesty’s Revenue and Customs are to carry out the functions given to customs services under Article 24 of Regulation (EC) No. 882/2004 and Article 10 of Regulation (EC) (No.) 669/2009, in each case in relation to feed and food (*regulation 24*);
+- (u) provide for the Commissioners for Her Majesty’s Revenue and Customs, the Food Standards Agency and feed and food authorities to exchange and divulge information and prohibit, subject to conditions, the disclosure of information received from the Commissioners *(regulation 25)*;
+- (v) make provision for the execution and enforcement of the Import Provisions to be deferred until a product reaches its destination (*regulation 26*);
+- (w) in the light of Article 11 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) as read with Article 10 of Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) (as described in paragraph 3 above) prohibit the introduction into Northern Ireland of certain feed and food unless specified conditions are met (*regulation 27*);
+- (x) provide for the checking of products that are introduced into Northern Ireland (*regulation 28*);
+- (y) provide for the suspension of designated points of entry *(regulation 29)*;
+- (z) provide that an enforcement authority, first, has the power to do anything that a competent authority may do under Articles 18 to 21 and 24(3) of Regulation (EC) No. 882/2004 and, second, is the competent authority for the purposes of Article 22 of that Regulation (*regulation 30*);
+- (aa) provide for the service of notices by an authorised officer of an enforcement authority when that officer proposes to take certain measures or exercise certain powers under Articles 18 and 19 of Regulation (EC) No. 882/2004 (imports of feed and food from third countries) (*regulation 31*);
+- (bb) provide a right of appeal in respect of the service of notices under regulation 31 (*regulation 32*);
+- (cc) enable the Department of Agriculture and Rural Development or the Agency by written declaration to suspend, or impose conditions on, the introduction into Northern Ireland of any product from a third country where they learn or reasonably suspect that any food or feed that has been or may be introduced into Northern Ireland from that third country is likely to constitute a serious risk to animal or public health (*regulation 33*);
+- (dd) provide that the costs incurred by the enforcement authority for which the feed or food business operator or its representative is liable under Article 22 of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) (costs incurred by competent authority for the activities referred to in Articles 18 to 21 of that Regulation) are payable by the feed or food business operator or its representative *(regulation 34(1))*;
+- (ee) provide that the fees required to be collected by a competent authority under Article 14 of Regulation [(EC) No. 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669) are payable by the feed or food business operator subject to the increased level of official controls provided for in that Regulation or its representative *(regulation 34(2))*;
+- (ff) provide for the procurement and analysis of samples of food for the purposes of the execution and enforcement of the Import Provisions *(regulations 35 and 36*);
+- (gg) provide powers of entry for authorised officers of food authorities in relation to the execution and enforcement of the Import Provisions (*regulation 37*);
+- (hh) create the offence of obstructing an officer acting in the execution of the Import Provisions (*regulation 38*);
+- (ii) create offences consisting of contravening or failing to comply with specified provisions of Regulation [(EC) No. 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), specified provisions of these Regulations and failing to comply with a notice served under the Import Provisions and provide penalties for offences under Part 3 of these Regulations (*regulation 39*);
+- (jj) provide a time limit for bringing prosecutions for certain offences under Part 3 of these Regulations (*regulation 40*);
+- (kk) provide that expenses charged by a competent authority pursuant to Article 28 of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) (expenses arising from additional official controls) are payable by the operator (*regulation 41*);
+- (ll) provide that expenses charged by a competent authority pursuant to Article 40(4) of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) (expenses arising from co-ordinated assistance and follow-up by the Commission) are payable by the feed or food business (*regulation 42*);
+- (mm) provide that where the commission of an offence under these Regulations is due to the act or default of some other person that other person is guilty of the offence (*regulation 43*);
+- (nn) provide that in proceedings for an offence under these Regulations it is a defence for the accused to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence (*regulation 44*);
+- (oo) provide for the protection of officers acting in good faith (*regulation 45*);
+- (pp) further amend the Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 ([S.R. 2005 No. 546](https://www.legislation.gov.uk/nisr/2005/546), as already amended) *(regulation 46)*; and
+- (qq) revoke the Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) Regulations (Northern Ireland) 2005 ([S.R. 2005 No. 284](https://www.legislation.gov.uk/nisr/2005/284)) and the Official Feed and Food Controls Regulations (Northern Ireland) 2007 ([S.R. 2007 No. 482](https://www.legislation.gov.uk/nisr/2007/482)) (*regulation 47*).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; see [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6) p.14
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 ([2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51))
+
+[^f00003]: Footnote: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901)
+
+[^f00004]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00005]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027)
+
+[^f00006]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (OJ No. L188,18.7.2009 p.14)
+
+[^key-7fb6449f0104ef41674059b3d004ba1b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-431f762ef66f944420e67b5080feaa17]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/427/regulation/2) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-cd4fc208c86c78eb3366981b22f7a807]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [9(a)(i)](https://www.legislation.gov.uk/nisr/2019/218/regulation/9/a/i)
+
+[^key-3434accb3b60ddf86c6416b8b6145c32]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [9(a)(ii)](https://www.legislation.gov.uk/nisr/2019/218/regulation/9/a/ii)
+
+[^f00007]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40)
+
+[^key-0e93af24dfd42f9800d61fadd2166f3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [9(a)(iii)](https://www.legislation.gov.uk/nisr/2019/218/regulation/9/a/iii)
+
+[^key-45ef03deeab2ba294e5520eb4eab0a6a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [9(a)(iv)](https://www.legislation.gov.uk/nisr/2019/218/regulation/9/a/iv)
+
+[^f00008]: Footnote: [S.I. 1991/762](https://www.legislation.gov.uk/uksi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) ,[S.R. 2004 No. 482](https://www.legislation.gov.uk/nisr/2004/482) and [S.R. 2004 No.505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^key-7e02b5777762599296d402446674940c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/1) inserted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [9(a)(v)](https://www.legislation.gov.uk/nisr/2019/218/regulation/9/a/v)
+
+[^key-6b5c480cf037167f9e4f335d39bf29c0]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/9/b)
+
+[^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-74ebcbfdc75edd16bbcc4b13da324a5f]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/427/regulation/2/5) substituted (13.12.2014) by [The Food Hygiene and Official Feed and Food Controls (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/286)](https://www.legislation.gov.uk/nisr/2014/286), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/286/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2014/286/regulation/3/3)
+
+[^key-97335c3d10fffe5cc8bcf801e5168e44]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/427/regulation/3) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-831cb321258038401795a0cb172122a6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/3/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/10/a)
+
+[^key-51373bd256b095b1c5be4061f70a0977]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2009/427/regulation/3/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/10/b)
+
+[^key-408931ca9534d59faf9fe5b774080d7d]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2009/427/regulation/3/4) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2019/218/regulation/10/c)
+
+[^key-c86dc9a48313be0948cd0824db610b21]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2009/427/regulation/3/5) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [10(d)](https://www.legislation.gov.uk/nisr/2019/218/regulation/10/d)
+
+[^key-10a993c0b9414e7cbe2ed57a6ccadaa9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/427/regulation/4) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-20fe18823e8b97e3c787b2813a715699]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/4/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/11/a)
+
+[^key-d3ec6665ed5d5aa47c87cb98cdbad31b]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^key-d09287bc6f77e02455a1d240c92f4909]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/nisr/2009/427/regulation/4/5) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/11/b)
+
+[^key-c53fa5e1337d366a701d89705cd1bee2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/427/regulation/5) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-343a0bc69e1d28c4478c56457a43a7bc]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/5/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/nisr/2019/218/regulation/12/a/ii)
+
+[^key-8ee133600ae1f8ee47770311884e311c]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/5/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/nisr/2019/218/regulation/12/a/i)
+
+[^M_F_4e8a3e89-15ff-4c12-baeb-1d02ecff7d8e]: Textual amendment: Words in reg. 5(4) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/12/b)
+
+[^key-f78bb4f6cbe4cd4ff82566fb69f61967]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/427/regulation/6) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-1f2f0823c659e34050658c5ed5785c39]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2009/427/regulation/6/1/a) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/13/a)
+
+[^key-885f69d80732a1d43c4fcca87d8bb10d]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/nisr/2009/427/regulation/6/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/13/b)
+
+[^key-417b26211c6d4c329d35ce0a482f6708]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/427/regulation/7) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00011]: Footnote: [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^key-6365eebca86c186a5a038137e86575d1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/427/regulation/8) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-8f2fa6af3abe174f04f5973cc864f99f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/427/regulation/9) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-52820be2b79b2556995253911537c25c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/427/regulation/10) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-568ea6104eb15b6cff174ba2be5f3941]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/427/regulation/11) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-d5631abe58873f38c4ae24f74a200991]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/427/regulation/12) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-b0a14421fec18395c87f93273ebd29ba]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/nisr/2009/427/regulation/12/1/a) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/14/a)
+
+[^key-81ac4641d2a7969a7c65eaf477c85a46]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/nisr/2009/427/regulation/12/1/b) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/14/b)
+
+[^key-e46dc72ab84b30d49dba058c0493ce6e]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/nisr/2009/427/regulation/12/1/c) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [14(c)](https://www.legislation.gov.uk/nisr/2019/218/regulation/14/c)
+
+[^f00012]: Footnote: [1981 N.I. 26](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^M_F_7e256040-9aca-4ff2-e4c9-c37a508c1b09]: Textual amendment: Reg. 12(5)-(7) omitted (1.4.2011) by virtue of [The Official Feed and Food Controls (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/48)](https://www.legislation.gov.uk/nisr/2011/48), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/48/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/48/regulation/2/2)
+
+[^key-2520ee4b3d44de511454348dd36d2c68]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/427/regulation/13) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-1b26986d4b5f352e4be09e6a8e3a8e47]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2009/427/regulation/13) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/218/regulation/15)
+
+[^key-b34d4b0a2caee1b8d4e699d1bcd15fd6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/427/regulation/14) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-8cdcda74c2890a7f5f9e308ed72cc4c3]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/14/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [16(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/16/a)
+
+[^key-8c8fd84841a6cf6ebbc04480c2289397]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/14/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [16(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/16/b)
+
+[^key-a1eecf069bd91fb56b98fee73c48e39c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/427/regulation/15) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-37a6c42155382cd2ee37c44b56787e29]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/427/regulation/16) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-604d85d31134c3b480dfc4cbc251c4e4]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/16/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [17(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/17/a)
+
+[^key-fef8c76bb43041f761f5b4eb414339c7]: Textual amendment: Words in [reg. 16(5)(b)](https://www.legislation.gov.uk/nisr/2009/427/regulation/16/5/b) inserted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [17(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/17/b)
+
+[^key-d9d3c4b865f5e957c4f088eb54202381]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/427/regulation/17) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00014]: Footnote: [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
+
+[^key-cd257fd2d54b86e66334a9f4581cd0fe]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/427/regulation/18) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-ee9e0c3661dc9cc88c03919051d386ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2009/427/regulation/19) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-d10a1e5640a85300205c3de9e5dd2214]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2009/427/regulation/20) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-49e3ca7b7c7b9cf578e812abf4be0982]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2009/427/regulation/21) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00015]: Footnote: OJ No. L268, 18.10.2003, p.29, as last amended by Commission Regulation (EC) No.596/2009 (OJ No. L188,18.7.2009
+
+[^key-02d60752a8eb83956ef2b86edf730a4f]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2009/427/regulation/21) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/291/regulation/3/2)
+
+[^key-4daca441846b62776e68f4a8947fd63a]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2009/427/regulation/21) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [18(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/18/b)
+
+[^key-1d7303ffcf32dee00fd8eb7962cb324e]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2009/427/regulation/21) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [18(c)](https://www.legislation.gov.uk/nisr/2019/218/regulation/18/c)
+
+[^key-bd755586b41c1603df59e91e5e8a5544]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2009/427/regulation/22) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-5ad9eba8aeb8f4b3657ee61ff0d00b68]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/nisr/2009/427/regulation/22/2) substituted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [19(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/19/a)
+
+[^key-a0e9a8ad652c301d78b7887340ebd95b]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/nisr/2009/427/regulation/22/3) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [19(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/19/b)
+
+[^key-67f35ffe8a584375ccac89ed27cb7c55]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2009/427/regulation/23) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-c0a1e97613dfdc67322f9f44f02aba5c]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2009/427/regulation/23/2) substituted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [20(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/20/a)
+
+[^key-dfa988ce8fa59cffb1d6266db578ecc1]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/nisr/2009/427/regulation/23/4) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [20(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/20/b)
+
+[^key-c81fa45431c2633151334236dccbf317]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2009/427/regulation/24) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-023673f6466de10a3435bb4cd640c483]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/nisr/2009/427/regulation/24) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [21](https://www.legislation.gov.uk/nisr/2019/218/regulation/21)
+
+[^key-f056a572c5eb687f565b1873754e3a28]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2009/427/regulation/25) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-ab9a8a577fceef0d2ba68ea3403db843]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2009/427/regulation/26) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-df65b9e80eb739a3162335f33a172827]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/nisr/2009/427/regulation/26/6) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [22](https://www.legislation.gov.uk/nisr/2019/218/regulation/22)
+
+[^key-a71059086898084c37e6dcf27c22b4bc]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2009/427/regulation/27) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-84d82189b11156c77da8ec5d7ca1dfa0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2009/427/regulation/28) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-b886aa8a62176a313f9175e71f0a14fd]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/nisr/2009/427/regulation/28) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [23](https://www.legislation.gov.uk/nisr/2019/218/regulation/23)
+
+[^key-7ef5928506abcf83864a962db9600f03]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/nisr/2009/427/regulation/28) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/291/regulation/3/3)
+
+[^key-671b566cb1a5702524db46b3d03ff501]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/nisr/2009/427/regulation/29) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [24](https://www.legislation.gov.uk/nisr/2019/218/regulation/24)
+
+[^key-a2ce18e37581fa31a848ef53b1600bef]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2009/427/regulation/30) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-2b17eab7d6a7970321514d3cc063ac04]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2009/427/regulation/30/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [25(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/25/a)
+
+[^key-2a2df2c045e164e5a7c5034aff4f82f4]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/nisr/2009/427/regulation/30/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [25(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/25/b)
+
+[^key-15d303e8a1b18696b082bec8f702d023]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/nisr/2009/427/regulation/31) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [26](https://www.legislation.gov.uk/nisr/2019/218/regulation/26)
+
+[^key-7278160e0ada35841e760cd7e6bbb37c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2009/427/regulation/32) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00018]: Footnote: [1981 N.I. 26](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^key-2f7cc5d193b69319138987d1b5f2478e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2009/427/regulation/33) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-0df88e7207196c5f162e9e259c3ec35c]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/nisr/2009/427/regulation/34) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [27](https://www.legislation.gov.uk/nisr/2019/218/regulation/27)
+
+[^key-810d9e90bf734a9cf9046082edafd6de]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/nisr/2009/427/regulation/34/2) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2020/291/regulation/3/4)
+
+[^key-02dc1d30c5c02593fbef3b5f9bba2b08]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2009/427/regulation/35) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-fee8fb1782a6261770059c34e4e5a496]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2009/427/regulation/36) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-056c2945f1d4c3b7ad49df545a151135]: Textual amendment: Words in [reg. 36(10)](https://www.legislation.gov.uk/nisr/2009/427/regulation/36/10) substituted (6.4.2013) by [The Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013 (S.R. 2013/66)](https://www.legislation.gov.uk/nisr/2013/66), [regs. 1](https://www.legislation.gov.uk/nisr/2013/66/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2013/66/regulation/11/b)
+
+[^f00019]: Footnote: S.R. [1991 No. 198](https://www.legislation.gov.uk/nisr/1991/198), to which there are amendments not relevant to these Regulations
+
+[^key-c6aceb8a14117613bbb01dcbb0275072]: Textual amendment: Words in [reg. 36(11)](https://www.legislation.gov.uk/nisr/2009/427/regulation/36/11) substituted (6.4.2013) by [The Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013 (S.R. 2013/66)](https://www.legislation.gov.uk/nisr/2013/66), [regs. 1](https://www.legislation.gov.uk/nisr/2013/66/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2013/66/regulation/11/b)
+
+[^key-ac6291bef1cc1e3ab0fa6a8e25115b8a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2009/427/regulation/37) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-9c7e21a169dc530c79c45fed8fa938a3]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2009/427/regulation/38) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-f54bd390fe751bd4470377b9572bd81f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2009/427/regulation/39) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-1f5dc7533a6984fc984793ab9483ed5f]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/nisr/2009/427/regulation/39/1A) inserted (31.12.2013) by [The Food Safety, Food Hygiene and Official Controls (Sprouting Seeds and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/291)](https://www.legislation.gov.uk/nisr/2013/291), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/291/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/291/regulation/4/3)
+
+[^key-f18255578609074926cb02625837c954]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2009/427/regulation/40) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-1a8f52dbae72571f0ebd6c11f454db79]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/nisr/2009/427/regulation/41) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [28](https://www.legislation.gov.uk/nisr/2019/218/regulation/28)
+
+[^key-f2ad6cf120aaaf93fbc1423d18a13223]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/nisr/2009/427/regulation/42) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [29](https://www.legislation.gov.uk/nisr/2019/218/regulation/29)
+
+[^key-defb63b3058b788f4db58145c55991e5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2009/427/regulation/43) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-3790ac250a0ee4b95ead8e9f255ad454]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2009/427/regulation/44) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-e5d5dbd3c590489e983eb8a93daf0613]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2009/427/regulation/45) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^key-c44ad982c1e58b0f26fe05afd699b12f]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/nisr/2009/427/regulation/46) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [reg. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)
+
+[^key-6a2a5f990de2698b49c06f1879f5a5d6]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2009/427/regulation/47) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00021]: Footnote: [S.R. 2005 No. 284](https://www.legislation.gov.uk/nisr/2005/284)
+
+[^f00022]: Footnote: [S.R. 2007 No. 482](https://www.legislation.gov.uk/nisr/2007/482)
+
+[^key-34e540cb9f1cf83a5ba71ba5383fa868]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/427/schedule/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [30](https://www.legislation.gov.uk/nisr/2019/218/regulation/30), [Sch. 2](https://www.legislation.gov.uk/nisr/2019/218/schedule/2)
+
+[^key-6991f72e43375196d5f5f84de5767495]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/427/schedule/2) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00035]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40)
+
+[^key-ac4b6709f5b28570481aa6af42c50951]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/427/schedule/2) omitted (14.2.2016) by virtue of [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [regs. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [35(2)(a)](https://www.legislation.gov.uk/nisr/2016/5/regulation/35/2/a)
+
+[^key-9b709d4d51a670c9822baac52539ca82]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/427/schedule/2) omitted (14.2.2016) by virtue of [The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 (S.R. 2016/4)](https://www.legislation.gov.uk/nisr/2016/4), [regs. 1](https://www.legislation.gov.uk/nisr/2016/4/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2016/4/regulation/20/2/a) (with [reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/4/regulation/2/4))
+
+[^f00037]: Footnote: S.R. [2004 No. 386](https://www.legislation.gov.uk/nisr/2004/386), amended by [S.R. 2005 No. 233](https://www.legislation.gov.uk/nisr/2005/233) and [S.R. 2007 No. 451](https://www.legislation.gov.uk/nisr/2007/451)
+
+[^f00038]: Footnote: [S.R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3), as amended by [S.R. 2007 No. 16](https://www.legislation.gov.uk/nisr/2007/16)
+
+[^key-27302d00dad894209930c7a02b5fcd7d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/427/schedule/2) substituted (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [regs. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/nisr/2016/5/regulation/35/2/b)
+
+[^f00039]: Footnote: [S.R. 2005 No. 546](https://www.legislation.gov.uk/nisr/2005/546), amended by [S.R. 2006 No. 471](https://www.legislation.gov.uk/nisr/2006/471)
+
+[^key-734df031e907eac4e86192ca82c09389]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/427/schedule/2) substituted (14.2.2016) by [The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 (S.R. 2016/4)](https://www.legislation.gov.uk/nisr/2016/4), [regs. 1](https://www.legislation.gov.uk/nisr/2016/4/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2016/4/regulation/20/2/b) (with [reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/4/regulation/2/4))
+
+[^key-807700b102261027f2fa7b506b4606ea]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/427/schedule/2) inserted (6.2.2018) by [The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018 (S.R. 2018/16)](https://www.legislation.gov.uk/nisr/2018/16), [regs. 1](https://www.legislation.gov.uk/nisr/2018/16/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2018/16/regulation/8/2)
+
+[^key-c2586633c8f13c1b43fa90fa4c0284f7]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2009/427/schedule/3) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/427/regulation/1)
+
+[^f00041]: Footnote: [S.R. 1998 No.237](https://www.legislation.gov.uk/nisr/1998/237), amended by [S.R. 2005 No. 451](https://www.legislation.gov.uk/nisr/2005/451) and [S.R. 2006 No. 263](https://www.legislation.gov.uk/nisr/2006/263)
+
+[^f00042]: Footnote: [S.R. 2008 No. 433](https://www.legislation.gov.uk/nisr/2008/433)
+
+[^key-ed4bf23b6bfdaabf938bd283cd94a70b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2009/427/schedule/3/paragraph/a/iii) omitted (1.1.2019) by virtue of [The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 (S.I. 2018/1275)](https://www.legislation.gov.uk/uksi/2018/1275), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/28/2/a)
+
+[^key-05fff395527b5ade6472639d73c998ed]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2009/427/schedule/3/paragraph/a/iv) substituted (1.1.2019) by [The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 (S.I. 2018/1275)](https://www.legislation.gov.uk/uksi/2018/1275), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1), [28(2)(b)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/28/2/b)
+
+[^f00045]: Footnote: [S.I. 2009/842](https://www.legislation.gov.uk/uksi/2009/842)
+
+[^key-75d5d262bdfd3cb155bd1c46cc989837]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2009/427/schedule/3) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [21(4)](https://www.legislation.gov.uk/nisr/2019/5/regulation/21/4)
+
+[^key-f9ec08124933dfdf4bf1bbddf50c0e32]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2009/427/schedule/3) deleted by S.R. 2011/438, Sch. 5 para. 3 (as inserted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(13)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/13))
+
+[^key-6df3e047e2bdaef327b7052f4a703ab4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2009/427/schedule/3/paragraph/a/viii) substituted (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [regs. 1](https://www.legislation.gov.uk/nisr/2018/213/regulation/1), [21](https://www.legislation.gov.uk/nisr/2018/213/regulation/21)
+
+[^f00050]: Footnote: OJ No. L256, 29.9.2009, p.35
+
+[^f00051]: Footnote: [S.I. 2008/3206](https://www.legislation.gov.uk/uksi/2008/3206)
+
+[^key-d6b18ddc26bd14979cd457391875833d]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2009/427/schedule/4) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [31](https://www.legislation.gov.uk/nisr/2019/218/regulation/31), [Sch. 3](https://www.legislation.gov.uk/nisr/2019/218/schedule/3)
+
+[^key-cea3ba5603d9efffdf9e57a4ac7f8ff8]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2009/427/schedule/5) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [32](https://www.legislation.gov.uk/nisr/2019/218/regulation/32), [Sch. 4](https://www.legislation.gov.uk/nisr/2019/218/schedule/4)
+
+[^key-1929938f15b62a1a7fa7d7fffd234a1a]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2009/427/schedule/6) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [33](https://www.legislation.gov.uk/nisr/2019/218/regulation/33), [Sch. 5](https://www.legislation.gov.uk/nisr/2019/218/schedule/5)
+
+[^key-39ebee99e6546e25b4ad6a94de7a7214]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2009/427/schedule/7) revoked (14.2.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016/5)](https://www.legislation.gov.uk/nisr/2016/5), [regs. 1](https://www.legislation.gov.uk/nisr/2016/5/regulation/1), [35(2)(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/35/2/c), [Sch. 5](https://www.legislation.gov.uk/nisr/2016/5/schedule/5)

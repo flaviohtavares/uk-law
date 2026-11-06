@@ -1,0 +1,168 @@
+---
+title: The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022
+id: nisr/2022/162
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2022-03-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2022/162
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2022/162/pdfs/nisrem_20220162_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/162/pdfs/nisr_20220162_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/162/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 162
+
+Health And Personal Social Services
+
+The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022
+
+Made
+
+24th March 2022
+
+Coming into operation
+
+14th April 2022
+
+The Department of Health[^f00001], in conjunction with the Department of Finance[^f00002] makes the following Regulations in exercise of the powers conferred by Articles 57A, 57E, 106(b) and 107(6) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00003].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 and shall come into operation on 14th April 2022.
+
+(2) In these Regulations “**the principal Regulations**” means the Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004[^f00004].
+
+## 2. Amendment of regulation 2 of the principal Regulations
+
+In regulation 2(1) (interpretation)—
+
+- (a) at the appropriate places in alphabetical order insert the following definitions—
+
+  > - “**chiropodist or podiatrist independent prescriber**” means a person—
+  >   - (a) who is either engaged or employed by the contractor or is a party to the contract,
+  >   - (b) who is registered in Part 2 of the register maintained under Article 5 of the Health and Social Work Professions Order 2001[^f00005], and
+  >   - (c) against whose name in that register is recorded an annotation signifying that he is qualified to order drugs, medicines and appliances as a chiropodist or podiatrist independent prescriber;
+
+  ;
+
+  > - “**independent prescriber**” means—
+  >   - (a) a chiropodist or podiatrist independent prescriber,
+  >   - (b) an independent nurse prescriber,
+  >   - (c) an optometrist independent prescriber,
+  >   - (d) a paramedic independent prescriber,
+  >   - (e) a pharmacist independent prescriber,
+  >   - (f) a physiotherapist independent prescriber, and
+  >   - (g) a therapeutic radiographer independent prescriber;
+
+  ;
+
+  > - “**optometrist independent prescriber**” means a person—
+  >   - (a) who is either engaged or employed by the contractor or is a party to the contract,
+  >   - (b) who is registered in the register of optometrists maintained under Section 7(a) of the Opticians Act 1989[^f00006], and
+  >   - (c) against whose name in that register is recorded an annotation signifying that he is qualified to order drugs, medicines and appliances as an optometrist independent prescriber;
+
+  ;
+
+  > - “**paramedic independent prescriber**” means a person—
+  >   - (a) who is either engaged or employed by the contractor or is a party to the contract,
+  >   - (b) who is registered in Part 8 of the register maintained under Article 5 of the Health and Social Work Professions Order 2001, and
+  >   - (c) against whose name in that register is recorded an annotation signifying that he is qualified to order drugs, medicines and appliances as a paramedic independent prescriber;
+
+  ;
+
+  > - “**physiotherapist independent prescriber**” means a person—
+  >   - (a) who is either engaged or employed by the contractor or is a party to the contract,
+  >   - (b) registered in Part 9 of the register maintained under Article 5 of the Health and Social Work Professions Order 2001, and
+  >   - (c) against whose name in that register is recorded an annotation signifying that he is qualified to order drugs, medicines and appliances as a physiotherapist independent prescriber;
+
+  ;
+
+  > - “**therapeutic radiographer independent prescriber**” means a radiographer—
+  >   - (a) who is either engaged or employed by the contractor or is a party to the contract,
+  >   - (b) who is registered in Part 11 of the register maintained under Article 5 of the Health and Social Work Professions Order 2001, and
+  >   - (c) against whose name in that register is recorded—
+  >     - (i) an entitlement to use the title “therapeutic radiographer”, and
+  >     - (ii) an annotation signifying that he is qualified to order drugs, medicines and appliances as a therapeutic radiographer independent prescriber;
+
+  ;
+- (b) in the definition of “prescriber”—
+  - (i) omit sub paragraph (aa); and
+  - (ii) in sub paragraph (b) for “an independent nurse prescriber” substitute “an independent prescriber”;
+- (c) in the definition of “relevant register”, after paragraph (b) insert the following—
+
+  > - (c) in relation to an optometrist, the register maintained by the General Optical Council in pursuance of Section 7(a) of the Opticians Act 1989; and
+  > - (d) the part of the register maintained under Article 5 of the Health and Social Work Professions Order 2001 relating to—
+  >   - (i) chiropodists and podiatrists;
+  >   - (ii) dietitians;
+  >   - (iii) paramedics;
+  >   - (iv) physiotherapists; and
+  >   - (v) radiographers;
+
+  ;
+- (d) in the definition of “supplementary prescriber”—
+  - (i) in sub paragraph (b)(iii) after “1976,” omit “or”;
+  - (ii) in sub paragraph (b)(iv)(dd) for “optometrists, and” substitute “dietitians;”;
+  - (iii) after sub paragraph (b)(iv)(dd) insert the following sub paragraph—
+
+    > - (ee) paramedics; or
+
+    ; and
+  - (iv) after sub paragraph (b)(iv), insert the following sub paragraph—
+
+    > - (v) the register maintained by the General Optical Council in pursuance of Section 7(a) of the Opticians Act 1989;
+
+    .
+
+## 3. Amendment of Schedule 5 to the principal Regulations
+
+(1) Schedule 5 (other contractual terms) is amended as follows—
+
+(2) In paragraph 45(3) and (4) for “an independent nurse prescriber or a pharmacist independent prescriber” substitute “an independent prescriber or a supplementary prescriber” at each place where it occurs;
+
+(3) For the heading of paragraph 60, substitute “Independent prescribers and supplementary prescribers”; and
+
+(4) In paragraph 60(1) and (2) for “an independent nurse prescriber, a pharmacist independent prescriber or a supplementary prescriber” substitute “an independent prescriber or a supplementary prescriber” at each place where it occurs.
+
+Sealed with the Official Seal of the Department of Health on 24th March 2022
+
+Dr Naresh Chada
+
+A senior officer of the Department of Health
+
+Sealed with the Official Seal of the Department of Finance on 24th March 2022
+
+Barry Armstrong
+
+A senior officer of the Department of Finance
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004 (“**the principal Regulations**”) to reflect changes to the arrangements for independent prescribing by chiropodists and podiatrists, optometrists, paramedics, physiotherapists and therapeutic radiographers. There will be new categories of prescribers known as Chiropodist or Podiatrist Independent Prescriber, Optometrist Independent Prescriber, Paramedic Independent Prescriber, Physiotherapist Independent Prescriber and Therapeutic Radiographer Independent Prescriber. These Regulations insert definitions of the new categories of independent prescriber and a definition of independent prescriber into the principal Regulations. They also amend the definition of supplementary prescriber to include dietitians and paramedics.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health, Social Services and Public Safety; see [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), s1(5)
+
+[^f00002]: Footnote: Formerly the Department of Finance and Personnel, see [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), s1(4)
+
+[^f00003]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
+
+[^f00004]: Footnote: [S.R. 2004 No. 140](https://www.legislation.gov.uk/nisr/2004/140), as amended by [S.R. 2004 No.477](https://www.legislation.gov.uk/nisr/2004/477), S.R. 2005 Nos. [230](https://www.legislation.gov.uk/nisr/2005/230) and [368](https://www.legislation.gov.uk/nisr/2005/368), [S.R. 2006 No.319](https://www.legislation.gov.uk/nisr/2006/319), S.R. 2013 Nos. [59](https://www.legislation.gov.uk/nisr/2013/59) and [301](https://www.legislation.gov.uk/nisr/2013/301), and [S.R. 2015 No.26](https://www.legislation.gov.uk/nisr/2015/26)
+
+[^f00005]: Footnote: Words were substituted by the Health and Social Care Act 2012 (Consequential Provision-Social Workers) Order 2012 ([S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479) Sch.1(1) para.43)
+
+[^f00006]: Footnote: See [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44). Section 7 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848)

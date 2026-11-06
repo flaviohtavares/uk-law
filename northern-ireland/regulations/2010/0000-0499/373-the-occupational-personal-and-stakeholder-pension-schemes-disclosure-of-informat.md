@@ -1,0 +1,526 @@
+---
+title: The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010
+id: nisr/2010/373
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2010-11-10'
+text_date: '2014-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2010/373
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2010/373/pdfs/nisrem_20100373_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/373/pdfs/nisr_20100373_en.pdf
+- http://www.legislation.gov.uk/nisr/2010/373/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010
+
+> Text as at 2014-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2010 No. 373
+
+Pensions
+
+The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010
+
+Made
+
+10th November 2010
+
+Coming into operation
+
+1st December 2010
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 109, 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 41(1)(b) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and Articles 3(1)(b) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004].
+
+## 1. Citation, commencement and interpretation[^key-e4168dd45db6432d3124a184bb92ff5e]
+
+(1) These Regulations may be cited as the Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 1st December 2010.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-59da7570284fabd61171ef11e9d9a748]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-b85110bc4846ca50b1bc22111f609028][^key-ebf0818dd5ace89d7cd0ab4b1b6378c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Stakeholder Pension Schemes Regulations[^key-5e9ff5583e8b21ab9dd3ca31040b5875]
+
+(1) The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00035] are amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 1 (interpretation)—
+
+- (a) in paragraph (3)—
+  - (i) after the definition of “the 2000 Act”[^f00036] insert—
+
+    > - “address” means postal address (except in the expressions “electronic address” and website address”);
+
+    ;
+  - (ii) after the definition of “dilution levy”[^f00037] insert—
+
+    > - “electronic communication” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00038];
+
+    ;
+  - (iii) after the definition of “the FSA Handbook” insert—
+
+    > - “HMRC” means the Commissioners for Her Majesty’s Revenue and Customs[^f00039];
+
+    ;
+  - (iv) in the definitions of “illustration date”[^f00040] and “retirement date” for “regulation 18(5B)”, in each place where it occurs, substitute “regulation 18A(2)”;
+  - (v) after the definition of “securities”[^f00041] insert—
+
+    > - “statement year” has the meaning given by regulation 18;
+
+    ;
+- (b) omit paragraphs (8) and (8A)[^f00042].
+
+(3) In regulation 6 (procedure for discharging rights on winding up) omit paragraph (8).
+
+(4) In regulation 7 (procedure for discharging on winding up rights of members with whom the trustees or manager have lost contact) for paragraph (1) substitute—
+
+> (1) This regulation applies in respect of any member—
+>
+> - (a) whose present address and electronic address are not known to the trustees or manager;
+> - (b) in respect of whom the trustees or manager have sent correspondence to that member’s last known—
+>   - (i) address and that correspondence has been returned, or
+>   - (ii) electronic address and the trustees or manager are satisfied that that correspondence has not been delivered, and
+> - (c) in respect of whom no contribution has been made to the scheme by or on behalf of the member during the 2 calendar years preceding the commencement of winding-up of the scheme.
+
+.
+
+(5) In regulation 12(5)(a)(iv) and (d)(ii)[^f00043] (requirement for declaration by trustees or manager) for “regulation 18(2)” substitute “regulation 18A(1)”.
+
+(6) For regulation 18[^f00044] (disclosure of information to members) substitute—
+
+> **18. Disclosure of information to members**
+>
+> (1) For the purposes of Article 3(1)(b), it is a condition of a scheme being a stakeholder pension scheme that the trustees or manager of the scheme comply with the requirements set out in regulations 18A and 18B in addition to such requirements of regulations under section 109[^f00045] (disclosure of information about schemes to members, etc.) as are applicable to the scheme.
+>
+> (2) For the purposes of these Regulations, “statement year” means, in relation to a person, the period of 12 months beginning—
+>
+> - (a) in the case of a person who becomes a member after 6th April 2001, on a date chosen, in respect of that person, by the trustees or manager which falls—
+>   - (i) on or before the day on which that person becomes a member, but
+>   - (ii) no earlier than 6th April 2001, and
+> - (b) in any other case, on 6th April 2001,
+>
+> and, subject to paragraph (4), each subsequent period ending on the anniversary of the last day of the first statement year.
+>
+> (3) The date to be chosen, in respect of a person, under paragraph (2)(a) must be chosen on or before the day on which that person becomes a member.
+>
+> (4) For the purposes of paragraph (2), the trustees or manager may, in respect of any person, choose a new date for the ending of the statement year relating to that person if—
+>
+> - (a) the date chosen—
+>   - (i) is specified in writing, and
+>   - (ii) falls before the end of the statement year relating to that person during which the trustees or manager specify the new date, and
+> - (b) no other date has been chosen in respect of that person by the trustees or manager under this paragraph during the previous period of 12 months.
+>
+> (5) If a new date is chosen under paragraph (4), “statement year” means, in relation to the person in respect of whom the new date is chosen, the period of 12 months ending on that new date (except that, in relation to the first statement year relating to that person, “statement year” means, in relation to that person, the period beginning with the day which is, by virtue of paragraph (2)(b) or of a choice under paragraph (2)(a), the first day of that first statement year and ending on that new date) and each subsequent period ending on the anniversary of that new date.
+>
+> (6) For the purposes of paragraphs (2)(a) and (4), different dates may be chosen in respect of different persons.
+>
+> (7) For the purposes of this regulation, regulations 18A and 18B and Schedule 3, “member” does not include any member—
+>
+> - (a) whose present address and electronic address are not known to the trustees or manager;
+> - (b) in respect of whom the trustees or manager have sent correspondence to that member’s last known—
+>   - (i) address and that correspondence has been returned, or
+>   - (ii) electronic address and the trustees or manager are satisfied that that correspondence has not been delivered, and
+> - (c) in respect of whom no contribution has been made to the scheme by or on behalf of the member during the 2 calendar years preceding the most recent date on which the trustees or manager would, apart from this paragraph, be required to provide the member with a statement under regulation 18A.
+>
+> (8) For the purposes of this regulation, regulations 18A and 18B and Schedule 3, “member” includes a dependant making income withdrawals from the scheme in accordance with paragraph 21 of Schedule 28 to the Finance Act 2004[^f00046] (registered pension schemes: authorised persons – supplementary - money purchase arrangements).
+>
+> **18A.** (1) Where a person is a member for all or part of a statement year relating to that person, there must be provided to that person—
+>
+> - (a) within 3 months of the end of that statement year, or
+> - (b) where that person ceases during that statement year to be a member, during the period beginning with the time at which that person so ceases and ending on the last day of the 3-month period mentioned in sub-paragraph (a),
+>
+> a statement which contains the information mentioned in paragraph 1 of Schedule 3 and either paragraph 2 or 3 of Schedule 3, so far as that information relates to that statement year or, in cases falling within sub-paragraph (b) of this paragraph, to the part of that statement year beginning with the first day of that statement year (whether or not that day is earlier than the day on which that person becomes a member) and ending with the time at which that person so ceases.
+>
+> (2) Subject to paragraph (4), where a statement is provided under paragraph (1) it must also contain an illustration of the amount, calculated in accordance with regulation 18B, of the pension an entitlement to which would be likely to accrue to the member, or be capable of being secured by the member, at the member’s retirement date in respect of rights that may arise under the scheme.
+>
+> (3) Where information is provided under paragraph (2)—
+>
+> - (a) that information must be accompanied by the additional information specified in paragraph 5 of Schedule 3, and
+> - (b) the further information specified in paragraph 6 of Schedule 3 must be provided by one of the methods in paragraph (6) of this regulation.
+>
+> (4) The requirement to furnish information under paragraph (2) does not apply—
+>
+> - (a) in respect of a person who is in receipt of pension benefits under the scheme;
+> - (b) where the last day of the statement year referred to in paragraph 1(b)(i) of Schedule 3 is not more than 2 years before the date which is the member’s retirement date for the purpose of paragraph (2) of this regulation;
+> - (c) where, in relation to the member—
+>   - (i) the value, determined by reference to the relevant guidance[^f00047], of the member’s accrued rights to money purchase benefits under the scheme was less than £5,000 on the illustration date in respect of which such information was last furnished to the member;
+>   - (ii) no contributions, including transfers of pension rights or pension credits, have been made to the scheme by the member or on the member’s behalf in respect of money purchase benefits since that date, and
+>   - (iii) the trustees or manager previously gave notice to the member that no further such information would be furnished to the member unless further contributions to the scheme in respect of money purchase benefits had first been made by the member or on the member’s behalf;
+> - (d) where, in relation to the member—
+>   - (i) the value, determined by reference to the relevant guidance, of the member’s accrued rights to money purchase benefits under the scheme is less than £5,000 on the first illustration date falling after 5th April 2003;
+>   - (ii) no contributions, including transfers of pension rights or pension credits, have been made to the scheme by the member or on the member’s behalf after 5th April 2003, and
+>   - (iii) no further contributions are, in the opinion of the trustees or manager, likely to be made to the scheme by the member or on the member’s behalf after that illustration date, or
+> - (e) where the last day of the statement year referred to in paragraph 1(b)(i) of Schedule 3 is before 6th April 2003.
+>
+> (5) Where paragraph (4) applies but the trustees or manager nevertheless choose to furnish the information described in paragraph (2) and the amount comprising that information is calculated in accordance with regulation 18B—
+>
+> - (a) that information must be accompanied by the additional information specified in paragraph 5 of Schedule 3, and
+> - (b) the further information specified in paragraph 6 of Schedule 3 must be provided by one of the methods in paragraph (6) of this regulation,
+>
+> as if that additional and further information had been provided under paragraph (2) of this regulation.
+>
+> (6) The methods referred to in paragraphs (3)(b) and (5)(b) are for the further information to—
+>
+> - (a) accompany the information described in paragraph 5 of Schedule 3, or
+> - (b) be otherwise furnished by the trustees or manager.
+>
+> (7) Where—
+>
+> - (a) a statement has been issued to a member under paragraph (1);
+> - (b) in that statement, the trustees or manager provided the information listed in paragraph 3, rather than paragraph 2, of Schedule 3 to that member, and
+> - (c) that member requests any information listed in paragraph 2 of Schedule 3 from the scheme,
+>
+> the trustees or manager must provide to the member a statement in accordance with the conditions referred to in paragraph (8) of this regulation containing the information listed in paragraph 2 of Schedule 3 which the member has requested.
+>
+> (8) The conditions referred to in this paragraph as mentioned in paragraph (7) are—
+>
+> - (a) the statement must be provided—
+>   - (i) as soon as practicable, and
+>   - (ii) within 2 months of the date on which the request referred to in paragraph (7)(c) is received, and
+> - (b) the information must relate to the same statement year, or part of a statement year, to which the statement issued under paragraph (1) relates.
+>
+> (9) Each member must be provided with a statement setting out the information in paragraph 7 of Schedule 3.
+>
+> (10) The statement mentioned in paragraph (9) must be provided within one month of the change mentioned in paragraph 7 of Schedule 3.
+>
+> **18B.** (1) The amount referred to in regulation 18A(2) must be determined by reference to—
+>
+> - (a) the relevant guidance, and
+> - (b) the assumptions about contributions specified in paragraph (2) and about annuities specified in paragraphs (3) and (4), and such other assumptions as may be specified for the purpose in the relevant guidance,
+>
+> having regard to the value of the member’s accrued rights to money purchase benefits under the scheme on the illustration date.
+>
+> (2) The assumptions about contributions referred to in paragraph (1)(b) are—
+>
+> - (a) where the calculation relates to the rights of a non-contributing member, that no contributions will be made to the scheme by the member or on the member’s behalf after the illustration date, and
+> - (b) in any other case, that, until the member’s retirement date—
+>   - (i) contributions to the scheme will be made by the member or on the member’s behalf;
+>   - (ii) the scheme maintains its tax registration under section 153 of the Finance Act 2004 (registration of pension schemes), and
+>   - (iii) where a member is in contracted-out employment, sums will continue to be paid by HMRC in respect of the member under section 38A(3)[^f00048] (reduced rates of Class 1 contributions, and rebates) or, as the case may be, section 39[^f00049] (payment of minimum contributions to personal pension schemes) in the amounts to be determined by reference to the relevant guidance.
+>
+> (3) The assumptions about annuities referred to in paragraph (1)(b) are—
+>
+> - (a) that the rate of pension is to be increased annually by the relevant percentage specified in the relevant guidance, and
+> - (b) that, subject to paragraph (4), irrespective of whether or not the member is married or in a civil partnership at the time when the information referred to in regulation 18A(2) is furnished, the annuity will include provision for the payment, to a surviving spouse or surviving civil partner of the member, of a pension of an amount equal to one half of the pension which was payable to the member immediately before the member’s death.
+>
+> (4) Paragraph (3)(b) does not apply where—
+>
+> - (a) the trustees or manager decide to use a different assumption in substitution for that specified in paragraph (3)(b) on the basis that the scheme records indicate that the member is not married or not in a civil partnership, or
+> - (b) the member and either the trustees or manager agree to use a different assumption.
+>
+> **18C. Service of information by a scheme**
+>
+> (1) Except where these Regulations otherwise provide, the trustees or manager of the scheme may furnish or give any relevant information by—
+>
+> - (a) sending it to a member’s or beneficiary’s last known address, or
+> - (b) subject to paragraphs (2) to (4), using either or both of the following methods—
+>   - (i) sending it to a member’s or beneficiary’s last known electronic address;
+>   - (ii) making it available on a website (see regulation 18E).
+>
+> (2) Where the member or beneficiary has requested in writing that—
+>
+> - (a) any relevant information, or
+> - (b) all relevant information,
+>
+> is not furnished or given in accordance with paragraph (1)(b), that relevant information may not be furnished or given in accordance with paragraph (1)(b).
+>
+> (3) Relevant information may only be furnished or given in accordance with paragraph (1)(b) where the trustees or manager of the scheme are satisfied that the electronic communications have been designed—
+>
+> - (a) so that members or beneficiaries will be able to—
+>   - (i) get access to, and
+>   - (ii) store or print,
+>
+>   the relevant information, and
+> - (b) taking into account the requirements of disabled persons.
+>
+> (4) Where—
+>
+> - (a) a member or beneficiary is a member or beneficiary of the scheme on 1st December 2010, and
+> - (b) that member or beneficiary has not received relevant information by means of an electronic communication before 1st December 2010,
+>
+> relevant information may not be furnished or given to that member or beneficiary in accordance with paragraph (1)(b) unless the trustees or manager of the scheme have given that member or beneficiary by post (including ordinary post) the written notice referred to in paragraph (5).
+>
+> (5) The written notice mentioned in paragraph (4) must state that—
+>
+> - (a) the trustees or manager of the scheme propose to furnish or give relevant information to the member or beneficiary by means of an electronic communication, and
+> - (b) the member or beneficiary may request in writing that relevant information is not furnished or given by means of an electronic communication.
+>
+> (6) In this regulation “relevant information” means any information, declaration, notice, notification or statement which these Regulations require the trustees or manager of a scheme to give or furnish to a member or beneficiary of the scheme.
+>
+> **18D. Service of information to a scheme**
+>
+> Any—
+>
+> - (a) request for information to be given or furnished in pursuance of these Regulations, or
+> - (b) information to be given to the trustees or manager of a scheme in relation to requirements imposed by these Regulations,
+>
+> may be furnished, made or given by sending it to the trustees or manager of the scheme.
+>
+> **18E. Provision of information on a website**
+>
+> (1) This regulation sets out the conditions which must be met when making relevant information available on a website under regulation 18C(1)(b)(ii).
+>
+> (2) When the trustees or manager of the scheme make the first relevant information available on a website, they must send a notification to the recipient’s last known—
+>
+> - (a) address, or
+> - (b) electronic address.
+>
+> (3) The notification referred to in paragraph (2) must include—
+>
+> - (a) a statement that the relevant information is available on the website;
+> - (b) the website address;
+> - (c) details of the place on the website where the relevant information may be read, and
+> - (d) an explanation of how the recipient may read the relevant information on the website.
+>
+> (4) Except where paragraph (6) applies, when the trustees or manager of the scheme make any subsequent relevant information available on a website, they must send a notification to the recipient’s last known—
+>
+> - (a) address, or
+> - (b) electronic address.
+>
+> (5) The notification referred to in paragraph (4) must include a statement that the relevant information is available on the website.
+>
+> (6) This paragraph applies where—
+>
+> - (a) at least 3 letters have been—
+>   - (i) given to the recipient by hand, or
+>   - (ii) sent to the recipient’s last known address;
+> - (b) each of those letters—
+>   - (i) asks the recipient to send that recipient’s electronic address to the trustees or manager of the scheme, and
+>   - (ii) states that the recipient may request in writing that relevant information is not furnished or given by means of an electronic communication, and
+> - (c) the trustees or manager of the scheme—
+>   - (i) do not know the recipient’s electronic address, or
+>   - (ii) have not received a written request that relevant information is not furnished or given to the recipient by means of an electronic communication.
+>
+> (7) In this regulation—
+>
+> - “recipient” means the person or body to whom these Regulations require statements or information to be made available, and
+> - “relevant information” has the same meaning as in regulation 18C(6).
+
+.
+
+(7) After Schedule 2 (regulations applying to schemes which are or have been registered under Article 4) add Schedule 3 as set out in Schedule 1 to these Regulations.
+
+## 5. Consequential revocations[^key-438c8d41c027ee0520cd6d2da17c303b]
+
+The provisions specified in column (1) of Schedule 2 are revoked to the extent specified in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 10th November 2010
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE 1 — Schedule to be added to the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^key-c96d3a0a27f31ad6573dc3d4a5472b07]
+
+Regulation 4(7)
+
+> **SCHEDULE 3 — Information for members**
+>
+> Regulations 18 and 18A
+>
+> **1.** The information which is to be provided under regulation 18A(1) is, subject to paragraph 4—
+>
+> - (a) the value of the member’s rights under the scheme on the day before the first day of the statement year, being an amount which is not less than the cash equivalent of those rights on that date, as calculated and verified in a manner consistent with regulations made under section 93[^f00050] (calculation of cash equivalents);
+> - (b) the value of the member’s rights—
+>   - (i) on the last day of the statement year, being an amount which is not less than the cash equivalent of those rights on that day, or
+>   - (ii) where the member ceases during the statement year to be a member, at the time immediately prior to the time at which the member so ceases, being an amount which is not less than the cash equivalent of those rights at the time immediately prior to the time at which the member so ceases,
+>
+>   as calculated and verified in a manner consistent with regulations made under section 93;
+> - (c) in relation to any reduction under any of paragraphs (2) to (4) of regulation 14[^f00051]—
+>   - (i) the rate, expressed as an annual percentage rate, at which, and the period in relation to which, deductions giving rise to that reduction were made, or
+>   - (ii) where such deductions were made in relation to different periods at different rates—
+>     - (aa) each rate, expressed as an annual percentage rate, at which those deductions were made, and
+>     - (bb) the period in relation to which they were made at that rate, and
+> - (d) the member’s date of birth used in determining the appropriate age-related percentage for the purposes of section 38A and the name and address of whom to contact should that date be incorrect.
+>
+> **2.** The information listed in this paragraph, as mentioned in regulation 18A(1) and (7) and subject to paragraph 4, is—
+>
+> - (a) the amount of the value mentioned in paragraph 1(b) that is attributable to investment gains or losses made or sustained by the scheme during that statement year;
+> - (b) the amount of each contribution made by or on behalf of, or made in respect of, the member (except contributions falling within sub-paragraph (c) of this paragraph) and the date on which it was received;
+> - (c) the amount of each contribution made by any employer on behalf of or in respect of the member and the date on which it was received;
+> - (d) except where contributions referred to in sub-paragraphs (b) and (c) of this paragraph are increased by the trustees or manager in anticipation of a payment to the scheme by HMRC by way of tax relief in respect of the member, the amount of each such payment by HMRC and the date on which it was received;
+> - (e) the amount of each payment to the scheme by way of minimum contributions in respect of the member and the date on which it was received;
+> - (f) the amount of each payment made to the scheme by way of minimum payments in respect of the member and the date on which it was received;
+> - (g) the amount of each payment made to the scheme under section 38A(3) (reduced rates of Class 1 contributions, and rebates) in respect of the member and the date on which it was received;
+> - (h) the amount of any transfer payment made to the scheme in respect of the member, the name of the scheme or arrangement from which the payment was made and the date on which it was made;
+> - (i) any amount credited to the member’s account in respect of a credit within the meaning of Article 26 (pension sharing mechanism: creation of pension debits and credits);
+> - (j) any reduction under Article 28 (pension debits: reduction of benefit), or any enactment in force in Great Britain corresponding to that Article, in the benefits or future benefits to which the member is entitled under the scheme;
+> - (k) any contributions refunded under the provisions of Chapter IV of Part XIV of the Taxes Act (pension schemes, social security benefits, life annuities etc. – personal pension schemes);
+> - (l) any amount paid to the member by way of income withdrawal or dependants’ income withdrawal as defined in paragraph 7 or, as the case may be, 21 of Schedule 28 to the Finance Act 2004[^f00052] (registered pension schemes: authorised persons – supplementary - money purchase arrangements);
+> - (m) any other amount deducted from the member’s account, the nature of the deduction and the date on which it was made;
+> - (n) the total amount of any part of any of the contributions and payments mentioned in sub-paragraphs (b) to (i) of this paragraph which has not been credited to the member’s account and the manner in which that amount has been used, and
+> - (o) where the whole or any part of the member’s rights under the scheme is represented by rights in a with-profits fund—
+>   - (i) the principles adopted in allocating rights under that fund, including the extent of any smoothing of investment returns and the levels of any guarantees, and
+>   - (ii) the principles which will be adopted in allocating such rights if the member’s rights under the scheme cease to be represented by rights in that fund.
+>
+> **3.** The information listed in this paragraph, as mentioned in regulation 18A(1) and (7), is—
+>
+> - (a) the total amount of contributions (not including contributions falling within sub-paragraph (b) of this paragraph) made by or on behalf of, or made in respect of, the member;
+> - (b) the total amount of contributions made by any employer on behalf of or in respect of the member;
+> - (c) except where contributions referred to in sub-paragraphs (a) and (b) of this paragraph are increased by the trustees or manager in anticipation of a payment to the scheme by HMRC by way of tax relief in respect of the member, the total amount of such payments by HMRC;
+> - (d) the total amount of any deductions or payments from the member’s account, and
+> - (e) a statement that the member may request from the scheme any of the information listed in paragraph 2.
+>
+> **4.** The information mentioned in paragraphs 1, 2 and 3 does not include—
+>
+> - (a) the amount of any reduction or deduction under any of paragraphs (2) to (4) of regulation 14;
+> - (b) the amount of any reduction under regulation 14(5)(c).
+>
+> **5.** The additional information which is to accompany the information provided under regulation 18A(2) is—
+>
+> - (a) a statement to the effect that the information provided under regulation 18A(2) is provided only for the purposes of illustration and that it does not represent any promise or guarantee as to the amount of benefit which may be receivable by the member or a beneficiary under the scheme;
+> - (b) a statement specifying the means by which the person to whom the information relates may obtain from the trustees or manager further information about the information provided under regulation 18A(2);
+> - (c) a statement to the effect that certain general assumptions have been made in relation to the information provided under regulation 18A(2);
+> - (d) a statement to the effect that the amount referred to in regulation 18A(2) is expressed in today’s prices;
+> - (e) a statement of the member’s retirement date for the purpose of regulation 18A(2), and
+> - (f) a statement of the illustration date used for the purpose of calculating the amount referred to in regulation 18A(2).
+>
+> **6.** The further information which is to be provided, as mentioned in regulation 18A(3)(b) and (5)(b), is—
+>
+> - (a) a statement to the effect that assumptions have been made about the nature of the investments made for the purposes of the member’s money purchase benefits and their likely performance, which may not correspond with the investments actually made for those purposes, or their actual performance;
+> - (b) a statement to the effect that the actual amount of any pension payable to or in respect of the member under the scheme will depend on considerations, including the actual performance of investments and the cost of buying an annuity at the time the pension becomes payable, which may be different from the assumptions made for the purposes of providing the information under regulation 18A(2);
+> - (c) a statement specifying any assumptions made in relation to future contributions to the scheme, and
+> - (d) a statement of the assumptions made in accordance with regulation 18B(2)(b)(iii) and (3), or as mentioned in regulation 18B(4).
+>
+> **7.** The information listed in this paragraph, as mentioned in regulation 18A(9), is any change in the scheme’s rules or practice as regards the extent to which or the circumstances in which—
+>
+> - (a) any payment made to the scheme by or on behalf of a member;
+> - (b) any amount credited to the member’s account in respect of a credit within the meaning of Article 26 (pension sharing mechanism: creation of pension debits and credits);
+> - (c) any income or capital gain arising from the investment of such a payment, or
+> - (d) the value of any rights under the scheme,
+>
+> may, in accordance with regulations 13[^f00053], 14 and 14B, be used otherwise than to provide benefits for or in respect of that member.
+>
+> **8.** In this Schedule “annual percentage rate” means the daily percentage rate at which deductions were made under regulation 14(2), (3) or (4) (being no greater than 1/365 per cent. of the value of the fund, share or rights in the with-profits fund respectively from which they were made) multiplied by 365.
+
+## SCHEDULE 2 — Consequential revocations[^key-b787e653c0151a64b581e60fd25791d6]
+
+Regulation 5
+
+|  |  |  |
+| --- | --- | --- |
+| *Column (1)* | *Column (2)* | *Column (3)* |
+| *Citation* | *Reference* | *Extent of revocation* |
+| The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1992 | [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304) | Regulations 18(a) and 20(a) |
+| The Personal Pension Schemes (Appropriate Schemes and Disclosure of Information) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 | [S.R. 1996 No. 508](https://www.legislation.gov.uk/nisr/1996/508) | Regulation 2(2) |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 | [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) | Regulation 13(2) |
+| The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 | [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262) | Regulation 31(4)(a) |
+| The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000 | [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335) | Regulation 5(2)(a) |
+| The Stakeholder Pension Schemes (Amendment No. 2) Regulations (Northern Ireland) 2001 | [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) | Regulation 13 |
+| The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2002 | [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410) | Regulations 2(3)(a), 3(3)(a) and 4(3) |
+| The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 | [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110) | Regulation 2(2)(c) and (12) |
+| The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 | [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) | Paragraph 8 of Schedule 2 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987 (“the 1987 Regulations”), the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997 (“the 1997 Regulations”) and the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 (“the 2000 Regulations”). Those Regulations set out the circumstances in which information is disclosed by occupational, personal and stakeholder pension schemes to persons such as members of the schemes and vice versa.
+
+The 1987 Regulations, the 1997 Regulations and the 2000 Regulations are amended to allow certain information to be disclosed by electronic means, in particular by email and websites. These amendments do not prevent information from being disclosed by post. Similar changes are made for each of the 3 sets of Regulations.
+
+Regulation 2(2)(a)(iii) makes an amendment to provisions in the 1987 Regulations which provide that pension schemes are not required to provide certain information to a certain group of members. Essentially they are members whose current address is not known to the scheme. The amendment adds to that group of members. It makes the addition where the scheme has sent certain information to a member’s last known email address (or other electronic address) which has not been delivered. Regulation 3(2)(a)(iii) makes a similar amendment to the 1997 Regulations, regulation 4(4) makes a similar amendment to the 2000 Regulations and there is a similar change in regulation 18(7) of the 2000 Regulations.
+
+Regulation 2(3) and (5) amends provisions in the 1987 Regulations which allow persons to inspect certain documents relating to a pension scheme. The amendment allows the scheme to make those documents available on a website for inspection. Regulation 3(3) makes a similar amendment to the 1997 Regulations.
+
+Regulation 2(4) makes amendments to the 1987 Regulations to allow schemes to provide certain information electronically. Regulation 3(5) makes similar amendments to the 1997 Regulations and there are similar changes in regulations 18(6) and 18A(1) to (3) and (5) to (8) of the 2000 Regulations.
+
+Regulation 2(6) replaces regulation 7 of the 1987 Regulations with regulations 7 to 9. Regulation 7 sets out how schemes can provide information. Electronic communications can only be used if specified conditions are met. In particular, a person can choose not to be furnished with information by electronic communications. Regulation 8 sets out how information can be provided to schemes. Regulation 9 sets out how a scheme must act if it provides information on a website. In particular, a scheme cannot start providing information on a website unless it tells the person that information is on the website and explains how that information can be accessed. Regulation 3(7) makes similar amendments to the 1997 Regulations and there are similar changes in regulations 18C to 18E of the 2000 Regulations.
+
+Regulation 2(7) amends the information which schemes have to make available to persons under the 1987 Regulations. Some information no longer has to be made available. Regulation 3(8) makes similar amendments to the 1997 Regulations and there are similar changes in paragraphs 1 and 5 of Schedule 3 to the 2000 Regulations.
+
+Regulation 3(6) removes a provision from the 1997 Regulations which no longer has any effect.
+
+In addition to the amendments referred to above, regulation 4(6) also amends the ways in which certain information has to be provided under the 2000 Regulations. Some information is now provided on request rather than automatically.
+
+Regulation 4(6) also consolidates the main regulation relating to disclosure of information in the 2000 Regulations. The provisions which were in regulation 18 of the 2000 Regulations are consolidated into regulations 18 to 18B of, and Schedule 3 to, those Regulations.
+
+Regulation 5 and Schedule 2 make consequential revocations.
+
+As these Regulations, in so far as they are made under Part II of the Pensions (Northern Ireland) Order 1995, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 117(1) of that Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+An assessment of the cost to business of these Regulations is detailed in a Regulatory Impact Assessment, a copy of which has been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of the Assessment are available from the Department for Social Development, Social Security Policy and Legislation Division, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast BT7 2JA or from the website: http://www.dsdni.gov.uk/index/ssa/ssani-publications/ssani-pensions-publications.htm. A copy of the Assessment is also annexed to the Explanatory Memorandum which is available alongside this Statutory Rule on the website: http://www.opsi.gov.uk/legislation/northernireland/ni-srni.htm .
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 109 was amended by section 48 of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4), paragraph 13 of Schedule 10 to the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), paragraph 4 of Schedule 5 to the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1) and paragraph 15 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434); section 178(1) was amended by Parts III and IV of Schedule 5 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^f00003]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-e4168dd45db6432d3124a184bb92ff5e]: Commencement: Reg. 1 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-59da7570284fabd61171ef11e9d9a748]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/373/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-b85110bc4846ca50b1bc22111f609028]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/373/regulation/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+
+[^key-ebf0818dd5ace89d7cd0ab4b1b6378c3]: Commencement: Reg. 3 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+
+[^key-5e9ff5583e8b21ab9dd3ca31040b5875]: Commencement: Reg. 4 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+
+[^f00035]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); relevant amending provisions are [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119), [S.R. 2002 Nos. 268](https://www.legislation.gov.uk/nisr/2002/268) and [410](https://www.legislation.gov.uk/nisr/2002/410), [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256), [S.R. 2005 Nos. 110](https://www.legislation.gov.uk/nisr/2005/110) and [536](https://www.legislation.gov.uk/nisr/2005/536), [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744), [S.R. 2007 Nos. 110](https://www.legislation.gov.uk/nisr/2007/110) and [185](https://www.legislation.gov.uk/nisr/2007/185) and [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365)
+
+[^f00036]: Footnote: The definition of “the 2000 Act” was inserted by regulation 18(2)(a)(i) of [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256)
+
+[^f00037]: Footnote: The definitions of “dilution levy” and “the FSA Handbook” were substituted by regulation 2(2)(a)(ii) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110)
+
+[^f00038]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); the definition of “electronic communication” in section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^f00039]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11); *see also* section 50(1) of that Act in relation to the construction of references to the Commissioners of Inland Revenue in other enactments
+
+[^f00040]: Footnote: The definitions of “illustration date” and “retirement date” were inserted by regulation 4(2)(b) and (e) of [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410)
+
+[^f00041]: Footnote: The definition of “securities” was substituted by regulation 18(2)(a)(iii) of [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256)
+
+[^f00042]: Footnote: Paragraphs (8) and (8A) were substituted for paragraph (8) by regulation 2(2)(c) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110)
+
+[^f00043]: Footnote: Regulation 12 was substituted by regulation 4 of [S.R. 2002 No. 268](https://www.legislation.gov.uk/nisr/2002/268) and amended by regulation 2(7) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110)
+
+[^f00044]: Footnote: Regulation 18 was amended by regulation 13 of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119), regulation 4(3) of [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410), regulation 2(12) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110), paragraph 8 of Schedule 2 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and Article 40(6) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
+
+[^f00045]: Footnote: Section 109 was amended by section 48 of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4), paragraph 13 of Schedule 10 to the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), paragraph 4 of Schedule 5 to the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1) and paragraph 15 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434)
+
+[^f00046]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^f00047]: Footnote: The definition of “relevant guidance” was substituted by paragraph 1(c) of the Schedule to [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365)
+
+[^f00048]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and amended by paragraph 96 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)), paragraph 52 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)), paragraph 7 of Schedule 10 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 42 of Schedule 1 to the National Insurance Contributions Act [2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19) and paragraph 11 of Schedule 7 to the Pensions (No. 2) Act (Northern Ireland) [2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13)
+
+[^f00049]: Footnote: Section 39 was amended by paragraph 34 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 54 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 43 of Schedule 1 to the National Insurance Contributions Act 2002
+
+[^key-438c8d41c027ee0520cd6d2da17c303b]: Commencement: Reg. 5 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+
+[^key-c96d3a0a27f31ad6573dc3d4a5472b07]: Commencement: Sch. 1 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)
+
+[^f00050]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 and paragraph 5(1) of Schedule 5 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00051]: Footnote: Regulations 14 to 14C were substituted for regulation 14 by regulation 2(9) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110) and regulation 14 was amended by regulation 9 of [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185)
+
+[^f00052]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^f00053]: Footnote: Regulation 13 was amended by regulation 9 of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119) and regulation 2(8) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110)
+
+[^key-b787e653c0151a64b581e60fd25791d6]: Commencement: Sch. 2 in operation at 1.12.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1)

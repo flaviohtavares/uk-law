@@ -1,0 +1,1527 @@
+---
+title: The Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005
+id: nisr/2005/149
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-22'
+text_date: '2024-11-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/149
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/149/pdfs/nisr_20050149_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/149/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005
+
+> Text as at 2024-11-18.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 149
+
+PENSIONS
+
+The Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005
+
+Made
+
+22nd March 2005
+
+Coming into operation
+
+6th April 2005
+
+The Department for Social Development, in exercise of the powers conferred on it by Articles 2(5)(a) and 287(2) and (3) of, and paragraphs 4(4), 6(4), 9(4), 13(4), 16(3)(b), 18(4), 20(4) and (7), 23, 24(1), (2) and (6), 25(1), 26(9) and (10), 28(6) and (7), 31(2)(a) and (3) and 33 of Schedule 6 to, the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation, commencement and interpretation[^key-775121aa70dde5ce90cdd24b120c5ef6]
+
+(1) These Regulations may be cited as the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
+
+(2) In these Regulations –
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “the[^M_F_a9d6ef36-a487-4282-a6d2-f89d3319c3d8] 2004 Act” means the Finance Act 2004
+- “the assessment date” means the date on which the assessment period in relation to the scheme or section, or (where there has been more than one such assessment period) the last one, began;[^key-77b0bae40900212c264e60e19ebd7dd5]
+- “the basic element” and “the bridging element”, in relation to a pension which falls within regulation 26(1)(b), have the meanings given in regulation 26(2)(a);[^key-81d8a24ca676c5855502e393820c75df]
+- “commutation limit” means the amount specified in paragraph 7(4) of Schedule 29 to the 2004 Act (trivial commutation lump sum);[^key-27409ca66fb931622edd2985a155ebc5]
+- “commutation period” means the period beginning with the day on which a trivial commutation lump sum or[^M_F_de8e854b-d960-4c07-8d13-3fca380b7e84] PPF trivial commutation lump sum is first paid to the member and ending 12 months after that day;
+- “early retirement age” means the age specified in the scheme rules as being the date on which a member may, subject to actuarial adjustment, become entitled to payment of a pension prior to attaining normal pension age;
+- “employment” means any trade, business, profession, office or vocation;
+- “lump sum compensation” means—[^M_F_6f73a7e6-f6bf-4530-f191-4e162c1578e3]
+  - (a) any lump sum compensation payments made in relation to a person, payable under the pension compensation provisions as specified in Article 146(2) (the pension compensation provisions), or
+  - (b) any lump sum payments made in relation to a person, payable under Article 150 (duty to pay scheme benefits unpaid at assessment date etc.);
+- “non-segregated scheme” means a multi-employer scheme which is not a segregated scheme;
+- “periodic compensation” means—[^M_F_5a4604da-9319-46d7-e0c2-06facd244da3]
+  - (a) any periodic compensation payments made in relation to a person, payable under the pension compensation provisions specified in Article 146(2); or
+  - (b) any periodic payments made in relation to a person, payable under Article 150;
+- “PPF trivial commutation lump sum” has the meaning given in regulation 18(2) (circumstances in which the portion of compensation to be commuted may exceed 25 per cent);[^key-7b7277ea8cb29b381ebd839404149ec1]
+- “PPF trivial commutation lump sum” means a payment made under paragraph 24 of Schedule 6 (commutation of periodic compensation);
+- [^key-1d0bddccd3f3afebd525056a6508f6a8]...
+- “qualifying course” means a full-time educational or vocational course at a recognised educational establishment where in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds 12 hours per week in normal term time, and shall include any gaps between the ending of one course and the commencement of another, where the person is enrolled on and commences the latter course;
+- “the register” means the system for keeping records provided under section 30(2) of the Civil Partnerships Act 2004 (the Registrar General and the register);[^key-fc689e14cd476dc002494666fb348412]
+- “registered pension scheme” has the meaning given in section 150(2) of the[^M_F_cf3dabc8-1b87-4ab4-aa44-e4d9c4246ac9] 2004 Act (meaning of pension schemes);
+- “relevant partner” means a person of either sex who was not married to, or in a civil partnership with, the member[^M_F_f180318b-b9fd-497f-8190-a6e0f561020c] but[^key-0c814ee6eea02a890f5e2df4c9a70fba] who was living with the member as if that person and the member were spouses of each other;[^key-2907d2774df52fedb1289f92e812fe36]
+- “scheme” in the case of a section or a segregated part of a scheme which for the purposes of Part III of the Order, is an eligible scheme, includes that section or segregated part of a scheme;
+- “segregated scheme” means a multi-employer scheme which is divided into two or more sections where—[^key-69bf8771f3141594d8d14fb6f56cddef]
+  - (a) any contributions payable to the scheme by an employer in relation to the scheme or by a member are allocated to that employer’s or that member’s section, and
+  - (b) a specified proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section;
+- [^key-e678e9903e4376811cc15716d6cca7ad]...
+- “surviving dependant” means –
+  - (a) a child of the family who is financially dependent on the member, and who is aged less than 18, or
+  - (b) a child of the family who is financially dependent on the member, who is aged less than 25 and who is –
+    - (i) either attending a qualifying course, or
+    - (ii) incapable of engaging in full-time paid employment due to a condition that falls within the definition of a disability under the Disability Discrimination Act 1995[^f00002];
+- “tax year” has the meaning given in section 279(1) of the[^M_F_25d11e9e-176b-46b3-c243-b900aeec4325] 2004 Act (other definitions);
+- “transferor” has the meaning given by Article 26(8) of the 1999 Order (creation of pension credits and debits);
+- “trivial commutation lump sum” has the meaning given in paragraph 7 of Schedule 29 to the[^M_F_441c97a8-b341-44ff-89f8-6656d094c91c] 2004 Act (trivial commutation lump sum);
+- [^key-4441402a7f30513ccca1f4d56f74acde]...
+
+(3)[^key-56ca23f41c823cf0ee31424fc9db0bd4] In these Regulations “employer”, in relation to—
+
+- (a) an occupational pension scheme which is not a multi-employer scheme; or
+- (b) a single-employer section of a segregated scheme,
+
+which has no active members, includes the person who was the employer of persons in the description of employment to which the scheme or section relates immediately before the time at which the scheme or section ceased to have any active members in relation to it.
+
+(4) In these Regulations “employer”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme—
+
+- (a) in an assessment period, includes any person who before the assessment date has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, B, C or D is satisfied where—
+  - (i) condition A is that a debt under Article 75 of the 1995 Order became due from that employer and the full amount of the debt has been paid before the assessment date;
+  - (ii) condition B is that—
+    - (aa) such a debt became due;
+    - (bb) a legally enforceable agreement has been entered into the effect of which is to reduce the amount which may be recovered in respect of the debt; and
+    - (cc) the reduced amount has been paid in full before the assessment date;
+  - (iii) condition C is that such a debt became due but before the assessment date it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+  - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due;
+- (b) in any other case, includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, B, C or D is satisfied where—
+  - (i) condition A is that a debt under Article 75 of the 1995 Order became due from that employer and the full amount of the debt has been paid;
+  - (ii) condition B is that—
+    - (aa) such a debt became due;
+    - (bb) a legally enforceable agreement has been entered into the effect of which is to reduce the amount which may be recovered in respect of the debt; and
+    - (cc) the reduced amount has been paid in full;
+  - (iii) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+  - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due.
+
+(5) In these Regulations, any reference to a numbered Article, or Schedule, is a reference to the Article of, or Schedule to, the Order bearing that number.
+
+## PART 2 — EARLY PAYMENT OF COMPENSATION
+
+### 2. Circumstances where a person shall be entitled to early payment of compensation[^key-dc7c7812048fa962df01a5d3008dabd7]
+
+(1) The conditions subject to which a person may become entitled to –
+
+- (a) periodic compensation under paragraph 11 or 15, or
+- (b) lump sum compensation under paragraph 14 or 19,
+
+of Schedule 6 before he attains normal pension age are those prescribed in the following paragraphs of this regulation.
+
+(2) Those conditions are –
+
+- (a) that the person has given notice to the Board, in accordance with paragraph (3), that he wishes to receive that compensation before he attains normal pension age;[^key-66b2e3b155a375c24e2b8d31418ad582]
+- (b)[^key-41060466def375f40c3699ae0ab4fc3c] that on the date on which the compensation is to become payable early the person has attained—
+  - (i) except in a case to which head (ii) applies, normal minimum pension age as defined in section 279(1) of the 2004 Act;
+  - (ii) in a case where the person has a protected pension age of less than 50 by virtue of paragraph 22 of Schedule 36 to the 2004 Act (rights to take benefit before normal minimum pension age), the age of 50, and[^key-e337bdc09fb4a715aaf931bb58512f3b]
+- (c)[^key-134c4dd573a6f53d418d09a90e3d90a9] where regulation 27 applies to the scheme and the notice referred to in sub-paragraph (a) relates, in whole or in part, to compensation in respect of a pension which falls within regulation 26(1)(b), that the notice—
+  - (i) relates to both the compensation in respect of the basic element and that in respect of the bridging element, and
+  - (ii) specifies the same date in relation to both for the purposes of paragraph (3)(a)(iii).
+
+(3) The notice referred to in paragraph (2)(a) –
+
+- (a) must include –
+  - (i) the person’s name, address, date of birth and national insurance number;
+  - (ii)[^key-6ad428e0cd4516106681eb18df753d2f] the name of the scheme for which the Board has assumed responsibility (“the relevant scheme”), and
+  - (iii) the date on which the person would like the compensation to become payable early , and[^key-2a00a9a7c4885efe13b88c85059fa1a1] ;
+- (b) must not be given before the date on which the Board assumes responsibility for the relevant scheme.[^key-5258a0060e61da274ab63b62862a6ae5]
+- (c)[^key-f63ba06ab28f87e7dcd53c2d1cb526f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-208c9949b81ad6006d7decf9e7e03f57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-05f3a50c3a8e8e3e2ac7d6e2750b42aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2A — Postponement of compensation[^key-b4f3a1853b4e3ff0e44e35f51feea26c]
+
+### 2A. Postponing compensation
+
+(1) A person who becomes entitled to periodic compensation under paragraph 5, 8, 11 or 15 of Schedule 6, or by virtue of paragraph 21 or 21A of Schedule 6, may elect to postpone the commencement of periodic compensation under that paragraph—
+
+- (a) in any of the circumstances prescribed in regulation 2B, and
+- (b) subject to all of the conditions prescribed in regulation 2C.
+
+(2) A person who becomes entitled to lump sum compensation under paragraph 7, 10, 14 or 19 of Schedule 6, or by virtue of paragraph 21 or 21A of Schedule 6, may elect to postpone the payment of lump sum compensation under that paragraph—
+
+- (a) in any of the circumstances prescribed in regulation 2B, and
+- (b) subject to all of the conditions prescribed in regulation 2C.
+
+### 2B. Circumstances in which periodic and lump sum compensation can be postponed
+
+(1) The circumstances referred to in regulation 2A(1)(a) and (2)(a) are as follows.
+
+(2) The first circumstance is where the person has—
+
+- (a) not attained normal pension age, or
+- (b) not attained normal benefit age,
+
+on the date when an assessment period begins in relation to the scheme.
+
+(3) The second circumstance is where the person—
+
+- (a) has not received any pension (including any lump sum entitlement) under the scheme;
+- (b) is an active member, and
+- (c) has attained normal pension age,
+
+on the date when an assessment period begins in relation to the scheme.
+
+(4) The third circumstance is where—
+
+- (a) the person has had his pension payment postponed, and
+- (b) the payment of that pension remains postponed,
+
+on the date of the transfer notice issued under Article 144 to trustees or managers of the scheme.
+
+### 2C. Conditions subject to which periodic and lump sum compensation can be postponed
+
+(1) The conditions referred to in regulation 2A(1)(b) and (2)(b) are as follows.
+
+(2) The first condition is that—
+
+- (a) where the person elects to postpone periodic compensation in respect of a benefit under the scheme, the person must also elect to postpone the payment of any lump sum compensation to which the person is entitled in respect of that scheme, or
+- (b) where the person elects to postpone lump sum compensation in respect of a benefit under the scheme, the person must also elect to postpone the payment of any periodic compensation to which the person is entitled in respect of that scheme.
+
+(3)[^key-1cf1ed5c50166d9303149bc216063f8f] The second condition is that the person must not have received or be receiving—
+
+- (a) his pension (including any lump sum entitlement) under the scheme;
+- (b) any periodic compensation in respect of his rights under the scheme, or
+- (c) any lump sum compensation in respect of his rights under the scheme.
+
+(4) The third condition is that for each election to postpone periodic compensation or lump sum compensation, the person has sent written notice to the Board—
+
+- (a) in accordance with paragraph (5);
+- (b) that the person wishes to postpone the commencement of periodic compensation or payment of lump sum compensation, and
+- (c) before the commencement of that periodic compensation or payment of lump sum compensation.
+
+(4A)[^key-0c4d6972e8abb1d97d684d22d7b3b68a] The fourth condition is that where regulation 27 applies to the scheme and the person elects to postpone any periodic compensation in respect of a pension which falls within regulation 26(1)(b), the person must—
+
+- (a) elect to postpone both the compensation in respect of the basic element and that in respect of the bridging element, and
+- (b) specify the same date in relation to both for the purposes of paragraph (5)(c).
+
+(5) The notice referred to in paragraph (4) must include—
+
+- (a) the person’s name, address, date of birth and national insurance number;
+- (b) the name of the scheme for which the Board has assumed responsibility, and
+- (c) the date on which the person would like the commencement of periodic compensation or payment of lump sum compensation to cease to be postponed, which must be a date before the person attains the age of 75.
+
+### 2D. Date on which postponement ceases
+
+(1) Periodic compensation and lump sum compensation ceases to be postponed on the date elected under regulation 2C(5)(c) unless the person has further elected an earlier date or a later date (which must be a date before the person attains the age of 75).
+
+(2) A person who wishes to make a further election under this regulation must send a written notice to the Board before the date notified (or most recently notified) under regulation 2C(5)(c).
+
+(3) The notice referred to in paragraph (2) must include the information set out in regulation 2C(5).
+
+## PART 3 — BENEFITS FOR SURVIVORS
+
+### 3. Circumstances where a widow or widower is not entitled to periodic compensation[^key-f0aa8e74588d2b8fe7c202cdbf8ea4a4][^key-f766e504ca4a0499fa2c45813dc9bdae]
+
+A widow or widower shall not be entitled to periodic compensation under paragraph 4 (pensions in payment at assessment date), 6 (pension benefits postponed at assessment date), 9 (active members over normal pension age at assessment date), 13 (active members who have not attained normal pension age at assessment date) or 18 (deferred members who have not attained normal pension age at assessment date) of Schedule 6 where there is—[^key-7484268f1adee479b5a8da38b9149791]
+
+- (a) a valid nomination made by the member in accordance with either—
+  - (i) the admissible rules of the scheme, or
+  - (ii) regulation 4(2)(a),
+
+  to pay a survivor’s pension to a relevant partner, or
+- (b) no provision to pay a survivor’s pension under the admissible rules of the scheme.
+
+### 4. Compensation for surviving dependants[^key-8812ccea0b287eff8c1bcc9bd6c0a1cc]
+
+(1) Subject to paragraph (2A),[^key-ad055c47c13bc295a3a1c9215e0fd4f6] a person shall be entitled to periodic compensation under paragraph 23 of Schedule 6 (compensation in form of dependants' benefits) in the circumstances prescribed in this regulation.
+
+(2) In the case of a relevant partner, the circumstances are where there is provision to pay a survivor’s pension to an unmarried partner of the member under the admissible rules of the scheme (whether discretionary or otherwise), and –
+
+- (a) the member –
+  - (i) has provided the Board with a signed written notice informing the Board that the person is a relevant partner, and
+  - (ii) the relevant partner has demonstrated to the satisfaction of the Board that he was co-habiting with the member at the date of the member’s death, or
+- (b) where the member has not provided the Board with a signed notice in accordance with paragraph (2)(a)(i), the relevant partner provides evidence to the satisfaction of the Board that –
+  - (i) he was financially dependent on, or interdependent on the member, and
+  - (ii) he was co-habiting with the member,
+
+  at the date of the member’s death.
+
+(2A)[^key-769a2e68fceac26f7c3bba7e5dcad848] No compensation may be paid under paragraph (2) where the member had a civil partner, or a spouse, at the date of his death, and there is no valid nomination in favour of the relevant partner.
+
+(2B) Subject to paragraph (2C), in the case of a civil partner, the circumstances are—
+
+- (a) where there is provision to pay a survivor’s pension to a civil partner or spouse of the member under the admissible rules of the scheme (whether discretionary or otherwise);
+- (b) the surviving civil partner has provided the Board, or during the assessment period the trustees or managers of the eligible scheme, with a certified copy of the entry in the register relating to the civil partnership, and
+- (c) the civil partnership was still in existence at the date of the member’s death.
+
+(2C) No compensation may be paid under paragraph (2B) where there is a valid nomination made by the member in accordance with either—
+
+- (a) the admissible rules of the scheme, or
+- (b) regulation 4(2)(a),
+
+to pay a survivor’s pension to a relevant partner.
+
+(3) Subject to paragraph (4), in the case[^key-8f39cde6c133cfc0e421135886712170] of a surviving dependant the circumstances are where the surviving dependant provides –
+
+- (a) in the case of a natural child[^key-7d4c0add9d070e075aa1a8cc5ac632cb]... of the member, a birth certificate or other evidence demonstrating to the satisfaction of the Board[^key-66f70e281ef6b738cf3154bc66b6760a] that he was the natural child of the member,
+- (b) in the case of an adopted child of the member, the adoption certificate demonstrating that he was the adopted child of the member,[^key-ddda9edefb5fd57358ec2d8455a14f6e]...
+- (ba)[^key-0277a8a6220b29a913a35241499e616a] in the case of a child of the member who, at the date of the member’s death, was being carried by the mother and had not been born, evidence demonstrating to the satisfaction of the Board that the child—
+  - (i) is the child of the member, and
+  - (ii) would have been a dependant of the member had the child been born before the date of the member’s death, or
+- (c) in the case of any other child who is a dependant of the member at the date of the member’s death, evidence demonstrating to the satisfaction of the Board that he was a dependent child of the member at the date of the member’s death,
+
+to the Board or, where evidence is provided during the assessment period, to the trustees or managers of the eligible scheme.
+
+(4)[^key-2e88c15888401459c2badbba7b1da024] Where regulation 27 applies to the scheme, no compensation may be paid under paragraph (3) in respect of the bridging element of a pension which falls within regulation 26(1)(b).
+
+### 5. Amount and duration of periodic compensation in the case of relevant partners[^key-89c3da8caa4937fcbbd0dcc35c50f28a]
+
+Subject to regulation 8, where periodic compensation is payable to a relevant partner or civil partner,[^key-82165cb7ec8c10c397559059f588b29e] the amount and duration of periodic compensation shall be –
+
+- (a) where a pension was in payment to the member on the assessment date, an amount calculated in accordance with paragraph 4(2) and (3) of Schedule 6 (pensions in payment at assessment date);
+- (b) where a pension was not in payment to the member at the assessment date because the member had postponed payment of the pension, an amount calculated in accordance with paragraph 6(2) and (3) of Schedule 6 (pension benefits postponed at assessment date);
+- (c) where a pension was not in payment to the member at the assessment date because the member was an active member and over the normal pension age, an amount calculated in accordance with paragraph 9(2) and (3) of Schedule 6 (active members over normal pension age at assessment date);
+- (d) where a pension was not in payment to the member at the assessment date because the member was an active member and under the normal pension age, an amount calculated in accordance with paragraph 13(2) and (3) of Schedule 6 (active members who have not attained normal pension age at assessment date);
+- (e) where a pension was not in payment to the member at the assessment date because the member was a deferred member and under the normal pension age, an amount calculated in accordance with paragraph 18(2) and (3) of Schedule 6 (deferred members who have not attained normal pension age at assessment date).
+
+### 6. Amount of periodic compensation that can be paid in the case of surviving dependants[^key-e7d9efd5dcc4d176119ce0aefeb150a6]
+
+(1) Subject to regulation 8, and to paragraphs (2) and (3), where periodic compensation is payable to a surviving dependant the amount of periodic compensation shall be –
+
+- (a) where a pension was in payment to the member on the assessment date, an amount calculated in accordance with paragraph 3 of Schedule 6 (pensions in payment at assessment date);
+- (b) where a pension was not in payment to the member at the assessment date because the member had postponed payment of the pension, an amount calculated in accordance with paragraph 5 of Schedule 6 (pension benefits postponed at assessment date);
+- (c) where a pension was not in payment to the member at the assessment date because the member was an active member, and over the normal pension age, an amount calculated in accordance with paragraph 8 of Schedule 6 (active members over normal pension age at assessment date);
+- (d) where a pension was not in payment to the member at the assessment date because the member was an active member and under the normal pension age, but died after attaining the normal pension age, an amount calculated in accordance with paragraphs 11 and 13(3)(a) of Schedule 6 (active members who have not attained normal pension age at assessment date);
+- (e) where a pension was not in payment to the member at the assessment date because the member was an active member and under the normal pension age, but died before attaining the normal pension age, an amount calculated in accordance with paragraphs 11 and 13(3)(b) of Schedule 6 (active members who have not attained normal pension age at assessment date);
+- (f) where a pension was not in payment to the member at the assessment date because the member was a deferred member, and under the normal pension age, an amount calculated in accordance with paragraph 15 of Schedule 6 (deferred members who have not attained normal pension age at assessment date),
+
+and references in those paragraphs to the member (whether deferred or otherwise), relating to entitlement to periodic compensation shall be treated as if they were references to a surviving dependant for the purposes of this calculation.
+
+(2) Where periodic compensation is also payable to a surviving spouse, relevant partner or civil partner[^key-a9c2008d7fd3ee2c7d3ca1e9a226b916] and –
+
+- (a) there is only one surviving dependant, the amount of periodic compensation shall be 25 per cent. of the amount calculated under paragraph (1), or
+- (b) there are two or more surviving dependants, the amount of periodic compensation shall be half of the amount calculated under paragraph (1), divided equally between the surviving dependants.
+
+(3) Where periodic compensation is not payable to a surviving spouse, relevant partner or civil partner , or where such a claim has not been made, and –
+
+- (a) there is only one surviving dependant, the amount of periodic compensation shall be half of the amount calculated under paragraph (1), or
+- (b) there are two or more surviving dependants, the amount of periodic compensation shall be the amount calculated under paragraph (1), divided equally between the surviving dependants.
+
+### 7. Period of payment[^key-06dc6e325b01676c1f32d3e17dfaf4a5]
+
+(1) Subject to paragraph (2), where periodic compensation is payable under regulation 6 it shall be payable from the day after the member’s death.
+
+(2) Where a surviving dependant –
+
+- (a) is an unborn child, periodic compensation shall be payable from the date of the child’s birth,
+- (b) has left a qualifying course, and payment of periodic compensation has ceased under paragraph (4)(a), but he begins another qualifying course before attaining the age of 23[^key-c685dfc50c7bf562fb023e97497edeba] [^key-7b6aa7ca3a42201d723a4809b54fae9a]..., it shall be payable from the date the later qualifying course begins, or
+- (c) becomes disabled after he has attained the age of 18, periodic compensation shall be payable from the date that the surviving dependant became disabled.
+
+(3) Except where paragraph (4) applies, periodic compensation shall be paid until the surviving dependant attains the age of 18.
+
+(4) This paragraph applies where[^key-b7a3e1379fa32a5a7d09a5fc914dfff6] the surviving dependant –
+
+- (a) is attending a qualifying course, periodic compensation shall be paid until the surviving dependant –
+  - (i) leaves the qualifying course, or
+  - (ii) attains the age of 23,
+
+  whichever is the earlier[^key-27a7bc480a645f3c1727696dc696b22a] , or
+- (b) is incapable of engaging in full-time paid employment due to a condition that falls within the definition of a disability under the Disability Discrimination Act 1995, periodic compensation shall be paid until the surviving dependant attains the age of 23.
+
+### 8. Change of circumstances and backdating[^key-236fdabe71212c903ba2d0c927520d72]
+
+(1) The amount of periodic compensation payable under these Regulations may be varied where –
+
+- (a) there is a change in the circumstances of the person or persons to whom periodic compensation is payable, and
+- (b) that change would have resulted in –
+  - (i) a different rate of periodic compensation being payable (including where a rate of nil may apply), or
+  - (ii) periodic compensation being payable from a different start date;
+
+  and such a variation shall take effect from the date that the change in circumstances occurred.
+
+(2) The amount of periodic compensation calculated under paragraph (1) shall be subject to paragraph 28 of Schedule 6 (annual increase in periodic compensation) and any regulations made under that paragraph, and paragraph 29 (Board’s powers to alter rates of revaluation and indexation) of that Schedule.
+
+(3) Where a person makes a claim for periodic compensation, his claim for periodic compensation shall be backdated to the date he became eligible to claim periodic compensation, or where that date is more than five years prior to the date of the claim, for five years from the date of the claim.
+
+## PART 4 — ADMISSIBLE RULES
+
+### 9. Special provision in relation to pensions in payment to survivors[^key-4fb65e047b84b0049ff90f39ab8fa423]
+
+Where immediately before the assessment date –
+
+- (a) a person is entitled to present payment of a pension under the scheme rules;
+- (b) that pension is attributable to the pensionable service of a member of the scheme who has died, and
+- (c) the effect of disregarding rules within paragraphs (a) and (b) of paragraph 35(2) of Schedule 6, is that the person is not entitled to compensation under paragraph 3(2) of that Schedule (pensions in payment at assessment date) by reason of the pension or a part of the pension,
+
+that person shall be treated, for the purposes of the pension compensation provisions, as entitled, immediately before the assessment date, to present payment of a pension under the admissible rules.
+
+### 10. Special provision in relation to pensions in payment following early retirement[^key-7b3cf00a7367e13d5ce1670c9d0fb1ea]
+
+(1) Where immediately before the assessment date –
+
+- (a) a person is entitled to present payment of a pension under the scheme rules;
+- (b) the scheme rules provide that the award of that pension is dependent on –
+  - (i) that person having attained early retirement age, and
+  - (ii) the consent of –
+    - (aa) the trustees or managers; or
+    - (bb) the employer, and
+- (c) the effect of disregarding rules within paragraph 35(2)(a) and (b) of Schedule 6 (scheme rules, admissible rules etc.) is that the person is not entitled to compensation under paragraph 3(2) of that Schedule by reason of the pension or a part of the pension,
+
+paragraphs (2) and (3) shall apply.
+
+(2) Where in the opinion of the trustees or managers –
+
+- (a) the trustees or managers, or
+- (b) the employer,
+
+would have consented to the award of a pension to that person under the admissible rules of the scheme prior to the assessment date, they must notify the Board in that respect.
+
+(3) Where the Board receives a notice under paragraph (2) that person shall be treated, for the purposes of the pension compensation provisions, as entitled, immediately before the assessment date, to present payment of a pension under the admissible rules.
+
+### 11. Special provision in relation to pensions in payment on grounds of ill health[^key-a93a5be23ac2a6ea5fa04db0ce81fde3]
+
+(1) Where immediately before the assessment date –
+
+- (a) a person is entitled to present payment of a pension under the scheme rules,
+- (b) that pension was awarded by the trustees or managers on grounds of ill health, and
+- (c) the effect of disregarding rules within paragraph 35(2)(a) and (b) of Schedule 6 is that the person is not entitled to compensation under paragraph 3(2) of that Schedule by reason of the pension or a part of the pension,
+
+paragraphs (2) and (3) shall apply.
+
+(2) Where in the opinion of the trustees or managers of the scheme a person to whom paragraph (1) applies would have been awarded an ill health pension under the admissible rules of the scheme prior to the assessment date, they must notify the Board in that respect.
+
+(3) Where the Board receives a notice under paragraph (2) that person shall be treated, for the purposes of the pension compensation provisions, as entitled, immediately before the assessment date, to present payment of a pension under the admissible rules.
+
+### 12. Modification of Schedule 6 in relation to certain pensions in payment before the assessment date[^key-7c2d0eff47ae3d1af0ef3422acc2015f]
+
+(1) Where immediately before the assessment date –
+
+- (a) a person is entitled to present payment of a pension under the scheme rules,
+- (b) the effect of disregarding rules within paragraph 35(2)(a) and (b) of Schedule 6 is that the person is not entitled to compensation under paragraph 3(2) of that Schedule by reason of the pension or a part of the pension, and
+- (c) regulation 9, 10 or 11 does not apply to that person,
+
+Schedule 6 shall be modified in its application to that person as specified in paragraphs (2) and (3).
+
+(2) Where a person to whom paragraph (1) applies has received a lump sum under the scheme rules, Schedule 6 shall apply to that person as if paragraph 19 (compensation payable as a lump sum) were omitted.
+
+(3) Where a person to whom paragraph (1) applies has exercised an option to commute a portion of his pension for a lump sum under the scheme rules, Schedule 6 shall apply to that person as if –
+
+- (a) after paragraph 15(4) there were inserted –
+
+  > (4A) Where the deferred member has exercised an option to commute a portion of a pension for a lump sum under the scheme rules, the protected pension rate shall be reduced by the percentage of the pension commuted for a lump sum under the scheme rules.
+  >
+  > (4B) Sub-paragraph (4A) shall not apply where the admissible rules provide, in whatever form, that the initial annual rate of the pension shall be reduced by reference to the amount of the pension commuted for a lump sum under the scheme rules.
+
+  , and
+- (b) paragraph 24 (commutation of periodic compensation) were omitted.
+
+## PART 5 — REVALUATION
+
+### 12A. Active members below normal pension age: cases where it is unclear whether pensionable service is attributable to periods on or after 6th April 2009[^key-4ba05b8ba34a83de7a4ccd96ef1cc89a]
+
+(1) This regulation applies for the purposes of paragraph 12(3A)(b) of Schedule 6 to the Order in the case of active members who have not attained normal pension age at the assessment date.
+
+(2) Where this regulation applies, in any case where it is unclear whether any particular pensionable service (either actual or notional) falls, or is to be treated for the purposes of the scheme as falling, on or after 6th<sup></sup>April 2009, the Board may determine as best as it is able, having regard to the admissible rules and all the circumstances of the case, how much of the service or notional service concerned should be treated for the purposes of paragraph 12(3)(b) of Schedule 6 to the Order as having occurred on or after 6th<sup></sup>April 2009.
+
+### 13. Manner of determining the revaluation amount[^key-f102332442bd08d060057509c80c4682]
+
+(1) Subject to paragraph (2), for the purposes of paragraph 16(3)(b) of Schedule 6 (determination of revaluation amount for the first revaluation period in the case of deferred members who have not attained normal pension age at assessment date), the manner prescribed for the determination of the revaluation amount for the first revaluation period is the manner in which that revaluation amount would have been determined under the admissible rules of the scheme.
+
+(2) For the purposes of paragraph (1) references under the admissible rules of the scheme to normal pension age shall be applied as if they were references to the assessment date.
+
+### 13ZA. Deferred members below normal pension age: cases where it is unclear whether pensionable service is attributable to periods on or after 6th April 2009[^key-83ce118795780708b0a3b00e8d51e994]
+
+(1) This regulation applies where it is unclear whether—
+
+- (a) pensionable service is attributable to periods before, or on or after 6th April 2009, in the case of deferred members and pension credit members who have not attained normal pension age or normal benefit age at the assessment date;
+- (b) any particular pensionable service (whether actual or notional) falls, or is to be treated as falling, for the purposes of the scheme, on or after 6th<sup></sup>April 2009, or
+- (c) pension credit rights are to be treated for the purposes of the scheme as derived from rights attributable to pensionable service of the transferor (whether actual or notional) falling or to be treated as falling on or after 6th<sup></sup>April 2009.
+
+(2) Where this regulation applies, the Board may determine as best as it is able, having regard to the admissible rules and all the circumstances of the case, how much of the service or notional service concerned should be treated for the purposes of paragraph 17(3)(b) [^c22156571] of Schedule 6 to the Order as having occurred on or after 6th<sup></sup>April 2009.
+
+### 13A. Modification of Schedule 6 in relation to schemes with no revaluation[^key-4d4a531af4daef3a1efbcb232e863643]
+
+(1) Where immediately before the assessment date the admissible rules of the scheme do not provide for any revaluation of the benefits payable to or in respect of any member, Schedule 6 shall be modified in its application to that scheme in accordance with this regulation.
+
+(2) Paragraph 11 (active members who have not attained normal pension age at assessment date: periodic compensation) shall apply to that scheme as if for sub-paragraph (4) there were substituted—
+
+> (4) In sub-paragraph (3) “the protected notional pension” means the accrued amount.
+
+.
+
+(3) Paragraph 14 (active members who have not attained normal pension age at assessment date: lump sum compensation) shall apply to that scheme as if—
+
+- (a) for sub-paragraph (4) there were substituted—
+
+  > (4) In sub-paragraph (3) “the protected amount” means the accrued amount.
+
+  , and
+- (b) sub-paragraph (8) were omitted.
+
+(4) Paragraph 15 (deferred members who have not attained normal pension age at assessment date: periodic compensation) shall apply to that scheme as if for sub-paragraph (4) there were substituted—
+
+> (4) In sub-paragraph (3) “the protected pension rate” means the accrued amount.
+
+.
+
+(5) Paragraph 19 (deferred members who have not attained normal pension age at assessment date: lump sum compensation) shall apply to that scheme as if—
+
+- (a) for sub-paragraph (4) there were substituted—
+
+  > (4) In sub-paragraph (3) “the protected amount” means the accrued amount.
+
+  , and
+- (b) sub-paragraph (6) were omitted.
+
+(6) Schedule 6 shall apply to that scheme as if paragraphs 12, 16, 17 and 21(2)(b) and (f) were omitted.
+
+## PART 6 — COMPENSATION IN RESPECT OF PROTECTED TRANSFER PAYMENT OR PROTECTED CONTRIBUTION REPAYMENT
+
+### 14. Modification of admissible rules[^key-4356914470351047a3d21aeca94c84cb]
+
+(1) For the purposes of paragraph 20(4) of Schedule 6 (calculation of amount of compensation in accordance with admissible rules in respect of scheme right to transfer payment or contribution refund) where the Board is satisfied that it is not possible to apply the admissible rules in order to calculate the amount of the protected transfer payment or protected contribution repayment the Board shall apply the admissible rules as if they included –
+
+- (a) the formula in paragraph (2) in order to calculate the amount of the protected transfer payment, or
+- (b) the provision specified in paragraph (4) in order to calculate the amount of the protected contribution repayment.
+
+(2) Subject to paragraph (3), the formula referred to in paragraph (1)(a) is –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2005/149)
+
+where –
+
+a
+
+AR is the person’s annual accrual rate in respect of the value of benefits accrued to him under the scheme rules,
+
+b
+
+PE is the person’s annual pensionable earnings in respect of the value of benefits accrued to him under the scheme rules, and
+
+c
+
+PS is the person’s pensionable service in respect of the value of benefits accrued to him under the scheme rules in years (including any fraction of a year).
+
+(3) In any case where the Board is satisfied that it is not possible to identify one or more of the elements of the formula in paragraph (2), the Board may, having regard to the admissible rules, determine how the protected transfer payment is to be calculated.
+
+(4) The provision specified in this paragraph is that the protected contribution repayment shall be calculated by reference to the amount of contributions actually made by the person, or on his behalf, to the scheme.
+
+### 15. Disapplication of paragraphs 8, 10, 11 and 14 of Schedule 6[^key-e74ff9989d38e5fe2853e9793ec9513c]
+
+(1) In the case of a person who, in respect of the same pensionable service under the scheme would be entitled to compensation under paragraph 20 of Schedule 6 (compensation for persons who were active members immediately before assessment date), paragraphs 8, 10 and 11 of that Schedule are modified in their effect, as if after sub-paragraph (8) of those paragraphs there were added the following sub-paragraph –
+
+> (9) Compensation shall not be payable in accordance with the provisions of this paragraph, where a person is entitled to compensation in accordance with the provisions of paragraph 20.
+
+.
+
+(2) In the case of a person who, in respect of the same pensionable service under the scheme would be entitled to compensation under paragraph 20 of Schedule 6 (compensation for persons who were active members immediately before assessment date), paragraph 14 of that Schedule is modified in its effect, as if after sub-paragraph (9) of that paragraph, there were added the following sub-paragraph –
+
+> (10) Compensation shall not be payable in accordance with the provisions of this paragraph, where a person is entitled to compensation in accordance with the provisions of paragraph 20.
+
+.
+
+### 16. Transitional provisions[^key-bceae0c9f3d1502a2d889cd987c2207a]
+
+Where compensation would be payable under paragraph 20 of Schedule 6 if Chapter 5 of Part IV of the Pension Schemes Act[^f00004] were in operation, paragraph 20(1)(c) and (d) shall have effect as if Chapter 5 were in operation.
+
+## PART 7 — COMMUTATION
+
+### 17. Commutation of periodic compensation[^key-0e7cc8e82eb963a0bae8108da4fd4b45]
+
+(1) The prescribed circumstances for the purposes of paragraph 24(1) of Schedule 6 (commutation of periodic compensation) are the circumstances specified in specified in[^M_F_c769d765-b485-4a3b-d590-d5a43ea2121f] paragraph (2)[^key-ce2696ac0a67447c4d0cbf334b1b498c] .
+
+(2) The circumstances are that a person entitled to periodic compensation under paragraph 5, 8, 11 or 15 of Schedule 6 (pension compensation provisions) –
+
+- (a) must not have exercised an option to commute for a lump sum a portion of the pension in respect of which that person is entitled to periodic compensation, and
+- (b) must exercise the option to commute under paragraph 24(1) of Schedule 6 within six months beginning with the date on which –
+  - (i) the Board gives the trustees or managers of the scheme a transfer notice under Article 144(2) (transfer notice); or
+  - (ii)[^key-699a0ee4a2d029f7ce0032c31598f196] payment of periodic compensation commences,
+
+  whichever is the later.
+
+(3)[^key-aa129a9749c7f3cf743b544b36fe3e32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Circumstances in which the portion of compensation to be commuted may exceed 25 per cent.[^M_F_c789c699-84e5-4b1e-be7b-cdcf04bc1ef0]
+
+(1) The prescribed circumstances for the purposes of paragraph 24(2) of Schedule 6 (commutation of periodic compensation) are that the portion to be commuted is a PPF trivial commutation lump sum in accordance with paragraph (2).
+
+(2) A payment is a PPF trivial commutation lump sum if—
+
+- (a) either—
+  - (i) no trivial commutation lump sum or PPF trivial commutation lump sum has previously been paid to the person—
+    - (aa) by a registered pension scheme, or
+    - (bb) the Board, or
+  - (ii) if such a lump sum has previously been paid; it was paid before the end of the commutation period;
+- (b) on the nominated date, the value of the member’s entitlement to PPF compensation and pension rights do not exceed the commutation limit;
+- (c) it is paid when all or part of the member’s lump sum and death benefit allowance (see section 637R of the Income Tax (Earnings and Pensions) Act 2003)[^key-17e5a4df4127cd2bb07b12dba0088529] is available, and
+- (d) it extinguishes the member’s entitlement to PPF compensation.
+
+(3) The nominated date is—
+
+- (a) the day within the period of three months ending with the first day of the commutation period nominated by the person, or
+- (b) if no day is nominated, the first day of the commutation period.
+
+(4)[^key-4cb11fd6509ab8ac504dfa55176a3b88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The value of the member’s pension rights on the nominated date is the aggregate of—
+
+- (a) the value of the member’s relevant crystallised pension rights on that date, and
+- (b) the value of the member’s uncrystallised rights on that date.
+
+(6) For the purposes of paragraph (5)—
+
+- (a) relevant crystallised pension rights shall be calculated in accordance with paragraph 8 of Schedule 29 to the 2004 Act (trivial commutation lump sum); and
+- (b) a member’s uncrystallised rights shall be calculated in accordance with paragraph 9 of Schedule 29 to the 2004 Act.
+
+(7) The value of the member’s entitlement to PPF compensation shall be calculated by adding any entitlement he may have to lump sum compensation and any entitlement he may have to periodic compensation.
+
+(8) For the purposes of paragraph (7), the value of any entitlement to—
+
+- (a) lump sum compensation, shall be the full amount of the lump sum compensation to which that member would be entitled on the nominated date, and
+- (b) periodic compensation, shall be calculated by multiplying the annual periodic compensation to which that member would be entitled on the nominated date by 20.
+
+### 19. Manner in which an option to commute may be exercised[^M_F_db044d86-9a45-4de5-bb41-bf38e272eedd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — COMPENSATION CAP MODIFICATIONS
+
+### 20. Application of compensation cap where compensation becomes payable on different dates[^key-be4acb67c44ffb1cf5191dfe0ba03b32]
+
+(1) Paragraph 26 of Schedule 6 (compensation cap) applies with the modification specified in paragraph (3) where a person becomes entitled to relevant compensation in respect of a benefit (“benefit A”) and he has previously –
+
+- (a) become entitled to relevant compensation in respect of a benefit or benefits under the scheme or a connected occupational pension scheme, or
+- (b) become entitled to one or more lump sums under the scheme or a relevant connected occupational pension scheme.
+
+(2) For the purposes of paragraph (1)(b), a scheme is a relevant connected occupational pension scheme if it is an eligible scheme for the purposes of Part III of the Order when the person becomes entitled to the relevant compensation in respect of benefit A.
+
+(3) For the purposes of paragraph (1), paragraph 26 of Schedule 6 shall have effect as if after sub-paragraph (6) there were inserted –
+
+> (6A)[^key-74b558f3c759059d37e22ed1ecbd486f] Where sub-paragraph (6B) or sub-paragraph (6BA) applies to a person, sub-paragraphs (6C) and (6D) apply (instead of sub-paragraph (1)) in relation to the entitlements referred to in the sub-paragraph which applies to him.
+>
+> (6B)[^key-b027732dd253955b3e7ea7fb680e00f5] This sub-paragraph applies if—
+>
+> - (a) a person becomes entitled to relevant compensation in respect of a benefit (“benefit A”) that is attributable to a pension credit from a transferor, and
+> - (b) before the person becomes entitled to relevant compensation in respect of benefit A, he has become entitled to—
+>   - (i) relevant compensation in respect of one or more other benefits under the scheme or a connected occupational pension scheme that are also attributable to a pension credit from the same transferor (“benefit or benefits C”), or
+>   - (ii) one or more lump sums under the scheme or a relevant connected occupational pension scheme (“sum or sums L”) that are also attributable to a pension credit from the same transferor.
+>
+> (6BA)[^key-24bc1947569ae0e7a586a2fb220c65bb] This paragraph applies if—
+>
+> - (a) a person becomes entitled to relevant compensation in respect of a benefit (“benefit A”) that is attributable to the person’s pensionable service, and
+> - (b) before the person becomes entitled to relevant compensation in respect of benefit A, he has become entitled to—
+>   - (i) relevant compensation in respect of one or more other benefits under the scheme or a connected occupational pension scheme that are also attributable to his pensionable service (“benefit or benefits C”), or
+>   - (ii) one or more lump sums under the scheme or a relevant connected occupational pension scheme (“sum or sums L”) that are also attributable to his pensionable service.
+>
+> (6BB) For the purposes of sub-paragraphs (6B)(b)(ii) and (6BA)(b)(ii), a scheme is a relevant connected compensation pension scheme if it is an eligible scheme when the person becomes entitled to the relevant compensation in respect of benefit A.
+>
+> (6C) If the previous aggregate cap percentage is or exceeds 100, no relevant compensation is payable in respect of benefit A.
+>
+> (6D) If the previous aggregate cap percentage is less than 100 –
+>
+> - (a) the amount of the compensation in respect of benefit A, and
+> - (b) the amount of any payments by way of periodic compensation for benefit or benefits C that are payable on or after the assessment date for the relevant compensation in respect of benefit A,
+>
+> must be restricted in accordance with sub-paragraph (6H).
+>
+> (6E) For the purposes of this paragraph, “the previous aggregate cap percentage” means the aggregate of –
+>
+> - (a) the cap percentage for the relevant compensation in the case of each of benefit or benefits C, and
+> - (b) the cap percentage in the case of each of sum or sums L.
+>
+> (6F) For the purposes of this paragraph, “the cap percentage”, in the case of any relevant compensation or lump sum, means –
+>
+> [formula: see source](https://www.legislation.gov.uk/nisr/2005/149)
+>
+> where –
+>
+> - AAV is the appropriate annual value, and
+> - ACC is the appropriate compensation cap.
+>
+> (6G)
+>
+> - “the appropriate annual value” means –
+>   - (a) in the case of each of benefit A, benefit or benefits B and benefit or benefits C, the annual value of that benefit at the time when the relevant compensation becomes or, in the case of periodic compensation, first becomes payable, and
+>   - (b) in the case of each of sum or sums L –
+>     - (i) if the person became entitled to that sum on or after 6th April 2005, the annualised value of that sum at the time that sum became payable, and
+>     - (ii) otherwise, the annualised value of that sum on 6th April 2005 (calculated on the assumption that on that date the person was the same age as when he became entitled to that sum);
+> - “the appropriate compensation cap” means –
+>   - (a) in the case of each of benefit A, benefit or benefits B and benefit or benefits C, the compensation cap at the time when the person becomes entitled to relevant compensation in respect of the benefit, and
+>   - (b) in the case of each of sum or sums L –
+>     - (i) if the person became entitled to that sum on or after 6th April 2005, the compensation cap at the time when he became so entitled, and
+>     - (ii) otherwise, the compensation cap on 6th April 2005.
+>
+> In sub-paragraph (6F) –
+>
+> (6GA)[^key-d6b82f97926eb83aca9ba23186f10899] Where sub-paragraph (6B) or (6BA) applies, “the compensation cap” has the meaning given by paragraph 26A, except that the reference in sub-paragraph (2) of that paragraph to the length of the person’s pensionable service is to be treated as if it were a reference to the total length of the person’s pensionable service at the time when he becomes entitled to the relevant compensation in respect of benefit A.
+>
+> (6H) Where sub-paragraph (6D) applies –
+>
+> - (a) the relevant compensation in respect of benefit A is required to be restricted in accordance with sub-paragraph (3), but taking references in that sub-paragraph to the cap fraction as references to the revised cap fraction, and
+> - (b) the amount of any payments by way of periodic compensation for benefit or benefits C payable on or after the assessment date for the relevant compensation in respect of benefit A is required to be restricted to the revised cap fraction of the amount that would be payable apart from this sub-paragraph.
+>
+> (6I) For the purposes of this paragraph, “the revised cap fraction” means –
+>
+> - 100/the aggregate cap percentage.
+>
+> (6J) For the purposes of this paragraph, “the aggregate cap percentage” means the aggregate of –
+>
+> - (a) the previous aggregate cap percentage,
+> - (b) the cap percentage for the relevant compensation in the case of benefit A, and
+> - (c) in a case within sub-paragraph (2)(b)(i), the cap percentage for the relevant compensation in the case of each of benefit or benefits B.
+
+.
+
+### 21. Disregard of certain small payments in determining PPF compensation cap[^key-56d60d4690889c318c1cc9de8622a350]
+
+(1) For the purposes of paragraph 26 of Schedule 6 (compensation cap), in determining the restriction under that paragraph on the compensation to which a person is entitled in respect of a benefit under a scheme, a lump sum within sub-paragraph (6B)(b) of that paragraph (lump sums to which the person has previously become entitled) is to be disregarded if –
+
+- (a) it is a trivial commutation lump sum or a winding up lump sum for the purposes of Part 1 of Schedule 29 to the 2004 Act[^M_F_9b3097f8-2481-43f2-d105-0492b8c29913][^f00005] (see paragraphs 7 and 10 of that Schedule), and
+- (b) its payment does not contravene any trivial commutation restriction that applies in the circumstances in question.
+
+(2) In this regulation “trivial commutation restriction” means a restriction imposed by –
+
+- (a) regulation 19, 20 or 60 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00006],
+- (b) regulation 2 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00007], or
+- (c) regulation 3(2)(b) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00008].
+
+(3) Before 6th April 2006 this regulation applies with the modifications in paragraphs (4) and (5).
+
+(4) For paragraph (1)(a) there shall be substituted –
+
+> - (a) it extinguishes the person’s entitlement to benefits under the scheme,
+>   - (aa) its payment does not contravene Inland Revenue restrictions, and
+
+.
+
+(5) After paragraph (2) there shall be inserted –
+
+> (3) For the purposes of this regulation a payment does not contravene Inland Revenue restrictions if –
+>
+> - (a) in the case of a scheme that is an approved scheme for the purposes of Chapter I of Part XIV of the Income and Corporation Taxes Act 1988[^f00009] (see section 612(1) of that Act), it is permitted under the scheme rules in accordance with its approval for those purposes, and
+> - (b) in the case of a scheme that is a relevant statutory scheme for those purposes (see section 611A of that Act[^f00010]), it is permitted under the regulations or rules governing the scheme as such a scheme.
+
+.
+
+## PART 9 — ANNUAL INCREASE IN PERIODIC COMPENSATION
+
+### 22. Annual increase in periodic compensation: post-1997 and pre-1997 service[^key-2003ca717c7edf05fa56ed039ec2ea37]
+
+(1) This regulation applies for the purpose of the definitions of “post-1997 service” and “pre-1997 service” in paragraph 28(6) and (7) of Schedule 6 (annual increase in periodic compensation).
+
+(2) Pensionable service within paragraph 36(4)(b) of that Schedule is “post-1997 service” where it is treated for the purposes of the scheme as occurring on or after 6th April 1997.
+
+(3) Pensionable service within paragraph 36(4)(b) of that Schedule is “pre-1997 service” where it is treated for the purposes of the scheme as having occurred before 6th April 1997.
+
+(4) In relation to any relevant pension credit amount, “post-1997 service” means pension credit rights deriving from rights attributable to –
+
+- (a) actual service of the transferor in any description of employment to which the scheme applies which –
+  - (i) qualifies the transferor for benefits under the scheme, and
+  - (ii) occurs on or after 6th April 1997, or
+- (b) any notional service allowed in respect of the transferor under the admissible rules which –
+  - (i) qualifies the transferor for benefits under the scheme, and
+  - (ii) relates to service treated for the purposes of the scheme as occurring on or after 6th April 1997.
+
+(5) In relation to any relevant pension credit amount, “pre-1997 service” means pension credit rights deriving from rights attributable to –
+
+- (a) actual service of the transferor in any description of employment to which the scheme applies which –
+  - (i) qualifies the transferor for benefits under the scheme, and
+  - (ii) occurred before 6th April 1997, or
+- (b) any notional service allowed in respect of the transferor under the admissible rules which –
+  - (i) qualifies the transferor for benefits under the scheme, and
+  - (ii) relates to service treated for the purposes of the scheme as having occurred before 6th April 1997.
+
+(6) In any case where it is unclear whether –
+
+- (a) pensionable service is treated for the purposes of the scheme as service (whether actual or notional) occurring before 6th April 1997 or on or after that date, or
+- (b) pension credit rights are derived from rights attributable to service (whether actual or notional) of the transferor occurring before 6th April 1997 or on or after that date,
+
+the Board may determine as best as it is able, having regard to the admissible rules and all the circumstances of the case, how much of the service or notional service concerned should be treated for the purposes of this regulation as having occurred before 6th April 1997 and on or after that date.
+
+## PART 10 — CASH BALANCE SCHEMES
+
+### 23. Cash balance schemes: modification of paragraphs 3, 5, 8, 10, 11, 14, 15, 19, 22 and 37 of Schedule 6[^key-f99729e50d51a968e7ef2aa098b0e61c][^key-65c6996e9cd3505cd8e203cfa2fb996f]
+
+(1) Subject to paragraph (1A), this regulation applies[^key-9caa5a66135b530bd5bc20a5d210c9cf] to a cash balance scheme[^key-e4e57ca53040dbaae0fff7a6a85e4c37]....
+
+(1A)[^key-b84dcf2e70dc864ac06efd21a1124110] This regulation does not apply to a cash balance scheme which is also a career average revalued earnings scheme within the meaning of regulation 24(1).
+
+(2)[^key-2c9aed272421ff896599d2ca477d8c88] In their application to cash balance benefits or to a pension derived from cash balance benefits, the provisions of Schedule 6 to the Order have effect with the following modifications—
+
+- (a) paragraph 3 (pensions in payment at assessment date) has effect as if—
+  - (i) in sub-paragraph (3) after “The annual rate of the periodic compensation is” there were inserted “ subject to sub-paragraph (3A) ”, and
+  - (ii) after sub-paragraph (3) there were inserted—
+
+    > (3A) In a case where—
+    >
+    > - (a) the pension is derived from money purchase benefits or cash balance benefits;
+    > - (b) there is no requirement or discretion under the admissible rules to increase the pension, and
+    > - (c) the pension is not required to be increased in accordance with Article 51 of the 1995 Order,
+    >
+    > the annual rate of the periodic compensation is the protected pension rate.
+
+    ;
+  - (iii) in sub-paragraph (5) for “sub-paragraph (3)” there were substituted “ sub-paragraphs (3) and (3A) ”.
+- (b) paragraph 5 (pension benefits postponed at assessment date) has effect as if—
+  - (i) in sub-paragraph (3) after “The annual rate of the periodic compensation is” there were inserted “ subject to sub-paragraphs (3A) and (3B) ”;
+  - (ii) after sub-paragraph (3) there were inserted—
+
+    > (3A) In a case where—
+    >
+    > - (a) the postponed pension is derived from money purchase benefits or cash balance benefits;
+    > - (b) there is no requirement or discretion under the admissible rules to increase the pension, and
+    > - (c) the pension is not required to be increased in accordance with Article 51 of the 1995 Order,
+    >
+    > the annual rate of the periodic compensation is to be determined in accordance with sub-paragraph (3B).
+    >
+    > (3B) In a case falling within sub-paragraph (3A) the annual rate of the periodic compensation is—
+    >
+    > - (a) where the commencement of periodic compensation under this paragraph has not been postponed for any period by virtue of paragraph 25A, 100% of the protected pension rate, or
+    > - (b) where the commencement of periodic compensation has been so postponed, 100% of the aggregate of the protected pension rate and the amount of the actuarial increase under paragraph 25A.
+
+    ;
+  - (iii) in sub-paragraph (4) for “In sub-paragraph (3)” there were substituted “ In sub-paragraphs (3) and (3B) ”;
+  - (iv) after sub-paragraph (4) there were inserted—
+
+    > (4A) In any case where the Board is satisfied that it is not possible to determine on the basis referred to in sub-paragraph (4) what would have been the annual rate of the pension, the “**protected pension rate**” shall mean what the Board may, having regard to the admissible rules, determine would have been the annual rate of pension if the postponement of pension had ceased immediately before the assessment date.
+
+    ;
+  - (v) in sub-paragraph (5) after “(4)” there were inserted “ or (4A) ”;
+- (c) paragraph 8 (active members over normal pension age at assessment date) has effect as if—
+  - (i) for sub-paragraph (5) there were substituted—
+
+    > (5) Subject to sub-paragraph (5A), the accrued amount means an amount equal to such initial annual rate of pension to which the member would have been entitled under the admissible rules when the pensionable service relating to the pension ended.
+    >
+    > (5A) In any case where the Board is satisfied that it is not possible to identify the initial annual rate of pension on the basis referred to in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount in accordance with actuarial factors published by the Board.
+
+    ;
+  - (ii) sub-paragraphs (6) and (7) were omitted;
+- (d) paragraph 10 has effect as if—
+  - (i) for sub-paragraph (4) there were substituted—
+
+    > (4) Subject to sub-paragraph (4A), the accrued amount means an amount equal to such amount of scheme lump sum to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the scheme lump sum ended.
+    >
+    > (4A) In any case where the Board is satisfied that it is not possible to identify the amount of the scheme lump sum on the basis referred to in sub-paragraph (4), the Board may, having regard to the admissible rules, determine the accrued amount in accordance with actuarial factors published by the Board.
+
+    ;
+  - (ii) sub-paragraphs (5), (6) and (7) were omitted;
+- (e) paragraph 11 (active members who have not attained normal pension age at assessment date) has effect as if—
+  - (i) for sub-paragraph (5) there were substituted—
+
+    > (5) Subject to sub-paragraph (5A), the accrued amount means an amount equal to such initial annual rate of pension to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the pension ended.
+    >
+    > (5A) In any case where the Board is satisfied that it is not possible to identify the initial annual rate of pension on the basis referred to in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount in accordance with actuarial factors published by the Board.
+
+    ;
+  - (ii) sub-paragraphs (6) and (7) were omitted;
+- (f) paragraph 14 has effect as if—
+  - (i) for sub-paragraph (5) there were substituted—
+
+    > (5) Subject to sub-paragraph (5A), the accrued amount means an amount equal to such scheme lump sum to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the scheme lump sum ended.
+    >
+    > (5A) In any case where the Board is satisfied that it is not possible to identify the amount of the scheme lump sum on the basis referred to in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount in accordance with actuarial factors published by the Board.
+
+    ;
+  - (ii) sub-paragraphs (6) and (7) were omitted;
+- (g) paragraph 15 (deferred members who have not attained normal pension age at assessment date) has effect as if—
+  - (i) at the beginning of sub-paragraph (5) there were inserted “Subject to sub-paragraph (5A)”;
+  - (ii) after sub-paragraph (5) there were inserted—
+
+    > (5A) In any case where the Board is satisfied that it is not possible to determine on the basis referred to in sub-paragraph (5) what would have been the initial annual rate of the pension, the accrued amount shall mean an amount equal to such initial annual rate as the Board may, having regard to the admissible rules and in accordance with actuarial factors published by the Board, determine the deferred member would have been entitled to had normal pension age been the actual age attained by the deferred member when the pensionable service relating to the lump sum ended.
+
+    ;
+- (h) paragraph 19 has effect as if—
+  - (i) at the beginning of sub-paragraph (5) there were inserted “Subject to sub-paragraph (5A)”;
+  - (ii) after sub-paragraph (5) there were inserted—
+
+    > (5A) In any case where the Board is satisfied that it is not possible to determine on the basis referred to in sub-paragraph (5) what would have been the amount of the scheme lump sum, the accrued amount shall mean an amount equal to such scheme lump sum amount as the Board may, having regard to the admissible rules and in accordance with actuarial factors published by the Board, determine the deferred member would have been entitled to had normal pension age been the actual age attained by the deferred member when the pensionable service relating to the lump sum ended.
+
+    ;
+- (i) paragraph 22 (survivors who do not meet conditions for scheme benefits at assessment date) has effect as if—
+  - (i) at the beginning of sub-paragraph (3)(a) there were inserted “subject to sub-paragraph (3A)”;
+  - (ii) after sub-paragraph (3) there were inserted—
+
+    > (3A) In any case where the Board is satisfied that it is not possible to identify the initial rate of pension mentioned in sub-paragraph (3)(a), the Board may, having regard to the admissible rules, determine the initial rate of the compensation in accordance with actuarial factors published by the Board.
+
+    ;
+- (j) paragraph 37(1) has effect as if after “In this Schedule—” there were inserted—
+
+  > “**cash balance benefit**” has the meaning given by regulation 2 of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014;
+
+  .
+
+(3)[^key-c23f6377f258fa06e9af34de985e2eb8] In this Part[^key-05d8ffa6f61be1e809578eb3f64db1db] —
+
+- “**cash balance benefit**” has the meaning given by regulation 2 of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014;
+- “**cash balance scheme**” means a scheme which provides cash balance benefits, whether or not the scheme also provides other benefits.
+
+### 23A. Cash balance schemes: modification of Schedule 6[^key-85fce9f335d9d6cb945f9fd6cc9c4639]
+
+(1) In its application to a cash balance scheme, paragraph 37 of Schedule 6 applies as if, after sub-paragraph (4) there were inserted—
+
+> (5) In this Schedule references to a lump sum to which a person is entitled, or which a person has been paid, by reason of commuting part of a pension under the scheme include any lump sum to which the person is entitled, or which the person has been paid, by reason of opting to receive a lump sum instead of a pension, or part of a pension, in respect of cash balance benefits under the scheme.
+
+.
+
+(2) In its application to a cash balance scheme other than a scheme to which regulation 23 applies, paragraph 37(1) of Schedule 6 applies as if, before the definition of “deferred member” there were inserted—
+
+> - “cash balance benefit” has the meaning given by regulation 2 of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014;
+
+.
+
+## PART 11 — CAREER AVERAGE REVALUED EARNINGS SCHEMES[^key-ffed8078b7e4725bb858ee4891db4520]
+
+### 24. Career average revalued earnings schemes: modification of paragraphs 8, 10, 11 and 14 of Schedule 6
+
+(1) This regulation applies to a career average revalued earnings scheme, that is to say an occupational pension scheme where the whole of the pension entitlement is determined by reference to the member’s earnings in each year of pensionable service, and where those earnings, or a proportion of those earnings accrued as a pension, may be revalued each year until the member attains normal pension age or the pension is put into payment.
+
+(2) In their application to a career average revalued earnings scheme, paragraphs 8 and 11 of Schedule 6 shall have effect with the following modifications—
+
+- (a) as if for sub-paragraph (5) of those paragraphs there were substituted—
+
+  > (5) Subject to sub-paragraph (5A), the accrued amount means an amount equal to such initial annual rate of pension to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the pension ended.
+  >
+  > (5A) In any case where the Board is satisfied that it is not possible to identify the initial annual rate of pension in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount.
+
+  , and
+- (b) as if sub-paragraphs (6) and (7) of those paragraphs were omitted.
+
+(3) In their application to a career average revalued earnings scheme, paragraph 10 of Schedule 6 shall have effect with the following modifications—
+
+- (a) as if for sub-paragraph (4) there were substituted—
+
+  > (4) Subject to sub-paragraph (4A), the accrued amount means an amount equal to such amount of scheme lump sum to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the scheme lump sum ended.
+  >
+  > (4A) In any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum in sub-paragraph (4), the Board may, having regard to the admissible rules, determine the accrued amount.
+
+  , and
+- (b) as if sub-paragraphs (5) and (6) were omitted.
+
+(4) In their application to a career average revalued earnings scheme, paragraph 14 of Schedule 6 shall have effect with the following modifications—
+
+- (a) as if for sub-paragraph (5) there were substituted—
+
+  > (5) Subject to paragraph (5A), the accrued amount means an amount equal to such amount of scheme lump sum to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to the scheme lump sum ended.
+  >
+  > (5A) In any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum in sub-paragraph (5), the Board may, having regard to the admissible rules, determine the accrued amount.
+
+  , and
+- (b) as if sub-paragraphs (6) and (7) were omitted.
+
+### 25. Schemes where part of pension entitlement is determined on a career average revalued earnings basis: modification of paragraphs 8, 10, 11 and 14 of Schedule 6
+
+(1) This regulation applies to an occupational pension scheme where part of the pension entitlement is determined on a career average revalued earnings basis, that is to say by reference to the member’s earnings in each year of pensionable service applicable to that part, and where those earnings, or a proportion of those earnings accrued as a pension, may be revalued each year until the member attains normal pension age or the pension is put into payment.
+
+(2) In their application to a scheme where part of the pension entitlement is determined on a career average revalued earnings basis, paragraphs 8 and 11 of Schedule 6 shall have effect with the following modifications—
+
+- (a) as if for sub-paragraph (5) of those paragraphs there were substituted—
+
+  > (5) Subject to sub-paragraphs (6) and (7), the accrued amount is—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/nisr/2005/149)
+  >
+  > where—
+  >
+  > - X is an amount equal to such initial annual rate of that part of the pension which is determined on a career average revalued earnings basis to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to that part of the pension ended, or in any case where the Board is satisfied that it is not possible to identify the initial annual rate of pension, such amount as the Board may determine, having regard to the admissible rules, and
+  > - Y is AR x PE x PS.
+  >
+  > (5A) In sub-paragraph (5)—
+  >
+  > - “AR” is the active member’s annual accrual rate, under the admissible rules, in respect of that part of the pension which is not determined on a career average revalued earnings basis,
+  > - “PE” is the active member’s annual pensionable earnings, under the admissible rules, in respect of that part of the pension which is not determined on a career average revalued earnings basis, and
+  > - “PS” is the active member’s pensionable service, under the admissible rules, in years (including any fraction of a year) in respect of that part of the pension which is not determined on a career average revalued earnings basis.
+
+  ;
+- (b) as if in sub-paragraph (6) of those paragraphs—
+  - (i) for “the pension” there were substituted “that part of the pension which is not determined on a career average revalued earnings basis”;
+  - (ii) after “formula” there were inserted “Y is AR x PE x PS”, and
+  - (iii) for “the accrued amount” there were substituted “Y”, and
+- (c) as if in sub-paragraph (7) of those paragraphs—
+  - (i) after “formula” there were inserted “Y is AR x PE x PS”, and
+  - (ii) for “the accrued amount” there were substituted “Y”.
+
+(3) In their application to a scheme where part of the pension entitlement is determined on a career average revalued earnings basis, paragraph 10 of Schedule 6 shall have effect with the following modifications—
+
+- (a) as if for sub-paragraph (4) there were substituted—
+
+  > (4) Subject to sub-paragraphs (5) and (6), the accrued amount is—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/nisr/2005/149)
+  >
+  > where—
+  >
+  > - X is an amount equal to such amount of the scheme lump sum that relates to that part of the pension which is determined on a career average revalued earnings basis, to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to that scheme lump sum ended, or in any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum, such amount as the Board may determine, having regard to the admissible rules, and
+  > - Y is AR x PE x PS.
+  >
+  > (4A) In sub-paragraph (4)—
+  >
+  > - “AR” is the active member’s annual accrual rate, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis,
+  > - “PE” is the active member’s annual pensionable earnings, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis, and
+  > - “PS” is the active member’s pensionable service, under the admissible rules, in years (including any fraction of a year) in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis.
+
+  ;
+- (b) as if in sub-paragraph (5)—
+  - (i) after “the scheme lump sum” there were inserted “that relates to that part of the pension which is not determined on a career average revalued earnings basis”;
+  - (ii) after “formula” there were inserted “Y is AR x PE x PS”, and
+  - (iii) for “the accrued amount” there were substituted “Y”, and
+- (c) as if in sub-paragraph (6)—
+  - (i) after “formula” there were inserted “Y is AR x PE x PS”, and
+  - (ii) for “the accrued amount” there were substituted “Y”.
+
+(4) In their application to a scheme where part of the pension entitlement is determined on a career average revalued earnings basis, paragraph 14 of Schedule 6 shall have effect with the following modifications—
+
+- (a) as if for sub-paragraph (5) there were substituted—
+
+  > (5) Subject to sub-paragraphs (6) and (7), the accrued amount is—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/nisr/2005/149)
+  >
+  > where—
+  >
+  > - X is an amount equal to such amount of the scheme lump sum that relates to that part of the pension which is determined on a career average revalued earnings basis, to which the member would have been entitled under the admissible rules had the member attained normal pension age when the pensionable service relating to that scheme lump sum ended, or in any case where the Board is satisfied that it is not possible to identify the amount of scheme lump sum, such amount as the Board may determine, having regard to the admissible rules, and
+  > - Y is AR x PE x PS.
+  >
+  > (5A) In sub-paragraph (5)—
+  >
+  > - “AR” is the active member’s annual accrual rate, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis,
+  > - “PE” is the active member’s annual pensionable earnings, under the admissible rules, in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis, and
+  > - “PS” is the active member’s pensionable service, under the admissible rules, in years (including any fraction of a year) in respect of the scheme lump sum that relates to that part of the pension which is not determined on a career average revalued earnings basis.
+
+  ;
+- (b) as if in sub-paragraph (6)—
+  - (i) after “the scheme lump sum” there were inserted “that relates to that part of the pension which is not determined on a career average revalued earnings basis”;
+  - (ii) after “formula” there were inserted “Y is AR x PE x PS”, and
+  - (iii) for “the accrued amount” there were substituted “Y”, and
+- (c) as if in sub-paragraph (7)—
+  - (i) after “formula” there were inserted “Y is AR x PE x PS”, and
+  - (ii) for “the accrued amount” there were substituted “Y”.
+
+## PART 12 — Variable-rate schemes[^key-f7ed22a3e6b4bf258dd2cec0520ee4f2]
+
+### 26. Variable-rate schemes which provide for a decrease in annual rate of pension: modification of Schedule 6
+
+(1) Regulation 27 applies to a scheme if—
+
+- (a) an assessment period in relation to the scheme begins on or after 24th February 2018, and
+- (b) under the admissible rules of the scheme, immediately before the assessment date a person (“the member”) is entitled, or has accrued rights or pension credit rights, to a pension (“the step-down pension”), the annual rate of which would (had no assessment period begun in relation to the scheme and the rules remained unchanged) have decreased on a date (“the scheme decrease date”) that falls on or after that assessment date.
+
+(2) In this regulation and in regulation 27, in relation to the step-down pension —
+
+- (a) subject to paragraph (3)—
+  - “the basic element” means the portion of the annual rate of the step-down pension to which the member was, or would have been, entitled for life under the admissible rules of the scheme, and
+  - “the bridging element” means the portion of the annual rate of the step-down pension to which the member was, or would have been, entitled only until the scheme decrease date under the admissible rules of the scheme, and
+    - (a) “the PPF bridging end date” means—
+      - (i) in a case to which paragraph (4) applies, the date determined in accordance with that paragraph;
+      - (ii) in a case to which paragraph (5) applies, the date determined by the Board in accordance with that paragraph, and
+      - (iii) in any other case, the day before the scheme decrease date.
+
+(3) In any case where the Board is satisfied that it is not possible to identify the portions of the annual rate of the step-down pension which constitute the basic element and the bridging element, the Board may, having regard to the admissible rules of the scheme, treat the basic element and the bridging element as meaning such respective portions of the annual rate of the step-down pension as it considers appropriate.
+
+(4) In any case where—
+
+- (a) the scheme decrease date would, under the admissible rules of the scheme, have been determined by reference to an enactment as in operation at a particular time, and
+- (b) that time falls after the assessment date,
+
+the PPF bridging end date is the day before what would have been the scheme decrease date, if it were determined by reference to the enactment as in operation on the assessment date.
+
+(5) In any case where the Board is satisfied that it is not possible to identify the scheme decrease date, the Board may, having regard to the admissible rules of the scheme, determine the PPF bridging end date in such manner as it considers appropriate.
+
+**27.** (1) In this regulation “the member” and “the step-down pension” have the same meanings as in regulation 26.
+
+(2) Schedule 6 has effect with the following modifications in relation to a scheme to which this regulation applies.
+
+(3) Schedule 6 (apart from paragraph 33) and any regulations made under it (apart from regulation 26 and this regulation) have effect as if the basic element and the bridging element of the step-down pension were separate pensions.
+
+(4) Where compensation is payable under paragraph 3 of Schedule 6 (pensions in payment at assessment date) in respect of the step-down pension, sub-paragraph (2) of that paragraph has effect in its application to the bridging element as if for the words from “for life” to the end there were substituted—
+
+> until the earliest of—
+>
+> - (a) the date of the pensioner’s death,
+> - (b) the PPF bridging end date, and
+> - (c) in a case to which sub-paragraph (8) applies, the date on which entitlement to the pension would have ceased under the admissible rules.
+
+.
+
+(5) Where compensation is payable under paragraph 5 of Schedule 6 (pension benefits postponed at assessment date) in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+
+- (a) in sub-paragraph (2)—
+  - (i) at the beginning there were inserted “Subject to sub-paragraph (2A),”, and
+  - (ii) for the words from “for life” to the end there were substituted—
+
+    > until the earliest of—
+    >
+    > - (a) the date of the postponed pensioner’s death,
+    > - (b) the PPF bridging end date, and
+    > - (c) in a case to which sub-paragraph (7) applies, the date on which entitlement to the pension would have ceased under the admissible rules.
+
+    ;
+- (b) after sub-paragraph (2) there were inserted—
+
+  > (2A) No compensation is payable under this paragraph in respect of the pension if, on the PPF bridging end date—
+  >
+  > - (a) the commencement of periodic compensation in respect of the pension has been postponed by virtue of paragraph 25A, and
+  > - (b) that postponement has not ceased.
+
+  , and
+- (c) in sub-paragraph (3)—
+  - (i) at the end of paragraph (a) there were inserted “and”, and
+  - (ii) paragraph (aa) were omitted.
+
+(6) Where compensation is payable under paragraph 8 (active members over normal pension age at assessment date), 11 (active members who have not attained normal pension age at assessment date) or 15 (deferred members who have not attained normal pension age at assessment date) of Schedule 6 in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+
+- (a) in sub-paragraph (2)—
+  - (i) at the beginning there were inserted “Subject to sub-paragraph (2A),”, and
+  - (ii) for “for life” there were substituted “until the earlier of the date of his death and the PPF bridging end date”;
+- (b) after sub-paragraph (2) there were inserted—
+
+  > (2A) No compensation is payable under this paragraph in respect of the pension if, on the PPF bridging end date—
+  >
+  > - (a) the commencement of periodic compensation in respect of the pension has been postponed by virtue of paragraph 25A, and
+  > - (b) that postponement has not ceased.
+
+  , and
+- (c) in sub-paragraph (3)—
+  - (i) at the end of paragraph (a) there were inserted “and”, and
+  - (ii) paragraph (aa) were omitted.
+
+(7) Where the commencement of compensation under paragraph 5, 8, 11 or 15 of Schedule 6 in respect of the bridging element of the step-down pension is postponed by virtue of paragraph 25A of that Schedule (postponement of compensation), paragraph 25A has effect in relation to that compensation as if sub-paragraphs (2) and (3) were omitted.
+
+(8) Where the annual value of the bridging element of the step-down pension falls to be determined under paragraph 26(6) of Schedule 6 (compensation cap) for the purpose of determining the periodic compensation payable to the member, or to another person in respect of the member, paragraph 26 has effect as if—
+
+- (a) in sub-paragraph (6)—
+  - (i) at the end of each of paragraphs (a), (b), (d) and (f), and
+  - (ii) in paragraph (c)(i), after “paragraph 3(3)(a)”,
+
+  there were inserted “, actuarially reduced in accordance with sub-paragraph (8A)”, and
+- (b) after sub-paragraph (8) there were inserted—
+
+  > (8A) The Board must determine the amount of the actuarial reduction to be applied under sub-paragraph (6) having regard to the length of the period beginning with the date on which entitlement to compensation in respect of the benefit commences and ending with the PPF bridging end date.
+
+  .
+
+(9) Where compensation is payable under paragraph 4 of Schedule 6 (pensions in payment at assessment date – compensation for survivors) in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if in sub-paragraph (2) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the PPF bridging end date”.
+
+(10) Where compensation is payable under paragraph 6 of Schedule 6 (pension benefits postponed at assessment date – compensation for survivors) in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+
+- (a) in sub-paragraph (2)—
+  - (i) for “sub-paragraph (4)” there were substituted “sub-paragraphs (2A) and (4)”, and
+  - (ii) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the PPF bridging end date”;
+- (b) after sub-paragraph (2) there were inserted—
+
+  > (2A) No compensation is payable under this paragraph in respect of the pension if the postponed pensioner dies on or after the PPF bridging end date.
+
+  , and
+- (c) in sub-paragraph (3) “any actuarial increase under paragraph 25A and” were omitted.
+
+(11) Where compensation is payable under paragraph 9 of Schedule 6 (active members over normal pension age at assessment date – compensation for survivors) in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+
+- (a) in sub-paragraph (2)—
+  - (i) for “sub-paragraph (4)” there were substituted “sub-paragraphs (2A) and (4)”, and
+  - (ii) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the PPF bridging end date”;
+- (b) after sub-paragraph (2) there were inserted—
+
+  > (2A) No compensation is payable under this paragraph in respect of the pension if the active member dies on or after the PPF bridging end date.
+
+  , and
+- (c) in sub-paragraph (3) “any actuarial increase under paragraph 25A and” were omitted.
+
+(12) Where the member dies after attaining normal pension age and compensation is payable under paragraph 13 of Schedule 6 (active members who have not attained normal pension age at assessment date – compensation for survivors) in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+
+- (a) in sub-paragraph (2)—
+  - (i) for “sub-paragraph (4)” there were substituted “sub-paragraphs (2A) and (4)”, and
+  - (ii) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the PPF bridging end date”;
+- (b) after sub-paragraph (2) there were inserted—
+
+  > (2A) No compensation is payable under this paragraph in respect of the pension if the active member dies on or after the PPF bridging end date.
+
+  , and
+- (c) in sub-paragraph (3)(a) “any actuarial increase under paragraph 25A and” were omitted.
+
+(13) Where the member dies after attaining normal pension age and compensation is payable under paragraph 18 of Schedule 6 (deferred members who have not attained normal pension age at assessment date – compensation for survivors) in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+
+- (a) in sub-paragraph (2)—
+  - (i) for “sub-paragraph (4)” there were substituted “sub-paragraphs (2A) and (4)”, and
+  - (ii) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the PPF bridging end date”;
+- (b) after sub-paragraph (2) there were inserted—
+
+  > (2A) No compensation is payable under this paragraph in respect of the pension if the deferred member dies on or after the PPF bridging end date.
+
+  , and
+- (c) in sub-paragraph (3)(a) “any actuarial increase under paragraph 25A and” were omitted.
+
+(14) Where the member dies before attaining normal pension age—
+
+- (a) if compensation is payable under paragraph 13 of Schedule 6 in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+  - (i) in sub-paragraph (2) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the date specified in sub-paragraph (2A)”, and
+  - (ii) after sub-paragraph (2) there were inserted—
+
+    > (2A) The date specified for the purposes of sub-paragraph (2) is—
+    >
+    > - (a) where, by virtue of paragraph 25 (early payment of compensation), the active member became entitled to compensation under paragraph 11 in respect of the pension before the date of the active member’s death, the PPF bridging end date, and
+    > - (b) in any other case, the last day of the period which begins with the day following the active member’s death and is equal in length to the period—
+    >   - (i) beginning with the day on which the active member would have attained normal pension age, and
+    >   - (ii) ending with the PPF bridging end date.
+
+    , and
+- (b) if compensation is payable under paragraph 18 of Schedule 6 in respect of the step-down pension, that paragraph has effect in its application to the bridging element as if—
+  - (i) in sub-paragraph (2) for “for life” there were substituted “until the earlier of the date of the widow’s or widower’s death and the date specified in sub- paragraph (2A)”, and
+  - (ii) after sub-paragraph (2) there were inserted—
+
+    > (2A) The date specified for the purposes of sub-paragraph (2) is—
+    >
+    > - (a) where, by virtue of paragraph 25 (early payment of compensation), the deferred member became entitled to compensation under paragraph 15 in respect of the pension before the date of the deferred member’s death, the PPF bridging end date, and
+    > - (b) in any other case, the last day of the period which begins with the day following the deferred member’s death and is equal in length to the period—
+    >   - (i) beginning with the day on which the deferred member would have attained normal pension age, and
+    >   - (ii) ending with the PPF bridging end date.
+
+    .
+
+(15) Paragraph 37(1) of Schedule 6 (other definitions) has effect as if after the definition of “pension credit rights” there were inserted—
+
+> - “the PPF bridging end date” has the meaning given by regulation 26(2)(b) of the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005 (variable-rate schemes which provide for a decrease in annual rate of pension: modification of Schedule 6);
+
+.
+
+## PART 13 — Schemes which provide fixed pensions in respect of transfer payments[^key-ee997944c6cf1e029cec3a688a729d82]
+
+### 28. Schemes which provide fixed pensions in respect of transfer payments: modification of Schedule 6
+
+(1) Schedule 6 has effect with the modifications set out in paragraphs (3) to (5) in relation to a scheme if, immediately before the assessment date, under the admissible rules of the scheme a person is entitled or has rights to a relevant fixed pension.
+
+(2) A pension to which a person is entitled or has rights under a scheme is a “relevant fixed pension” for the purposes of this regulation if—
+
+- (a) that entitlement or those rights (as the case may be) arose by virtue of a transfer payment to the scheme in respect of the person’s rights under another occupational or personal pension scheme;
+- (b) the initial annual amount of the pension was specified at the time the transfer payment was received (whether or not that amount was subject to revaluation in respect of the period until the pension was to come into payment), and
+- (c) the pension is neither—
+  - (i) attributable (directly or indirectly) to a pension credit, nor
+  - (ii) payable as a result of a person’s death.
+
+(3) Where compensation is payable under paragraph 15 of Schedule 6 (deferred members who have not attained normal pension age at assessment date) in respect of a relevant fixed pension—
+
+- (a) paragraph 15 has effect in its application to that pension as if—
+  - (i) in sub-paragraph (5) for “when the pensionable service relating to the pension ended” there were substituted “immediately after the relevant transfer payment was received”, and
+  - (ii) after sub-paragraph (5) there were inserted—
+
+    > (5A) In sub-paragraph (5) “relevant transfer payment” means the transfer payment by virtue of which the deferred member’s rights to the pension were conferred under the scheme.
+
+    , and
+- (b) except in a case to which regulation 13A(4)[^f00009] (modification of Schedule 6 for schemes with no revaluation) applies, paragraph 16 has effect in its application to that pension as if—
+  - (i) in sub-paragraph (2)(a) for “deferred member’s pensionable service in respect of the pension ended” there were substituted “relevant transfer payment was received”, and
+  - (ii) after sub-paragraph (2) there were inserted—
+
+    > (2A) In sub-paragraph (2)(a) “relevant transfer payment” means the transfer payment by virtue of which the deferred member’s rights to the pension were conferred under the scheme.
+
+    .
+
+(4) Sub-paragraph (14) of paragraph 26A[^f00010] of Schedule 6 (meaning of the compensation cap) does not apply in so far as it relates to the meaning of “pensionable service”.
+
+(5) Except for the purposes of sub-paragraphs (1) and (2) of paragraph 26 of Schedule 6 (compensation cap), paragraph 36 of Schedule 6 (accrual rate, pensionable service and pensionable earnings) has effect as if—
+
+- (a) in sub-paragraph (4) for “sub-paragraph (5)” there were substituted “sub-paragraphs (5) and (6)”, and
+- (b) after sub-paragraph (5) there were added—
+
+  > (6) For the purposes of this Schedule, where a person is entitled or has rights under a scheme to a pension and—
+  >
+  > - (a) that entitlement or those rights (as the case may be) arose by virtue of a transfer payment to the scheme in respect of the person’s rights under another occupational or personal pension scheme,
+  > - (b) the initial annual amount of the pension was specified at the time the transfer payment was received (whether or not that amount was subject to revaluation in respect of the period until the pension was to come into payment), and
+  > - (c) the pension is neither—
+  >   - (i) attributable (directly or indirectly) to a pension credit, nor
+  >   - (ii) payable as a result of a person’s death,
+  >
+  > the person is to be treated as having pensionable service within sub-paragraph (4)(b) to which that pension is attributable.
+
+  .
+
+Sealed with the Official Seal of the Department for Social Development on 22nd March 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+The Board of the Pension Protection Fund (“the Board”) is established by section 107 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) to provide compensation for members of certain occupational pension schemes in the event of the insolvency of the scheme’s sponsoring employer and where the pension scheme is under-funded at a certain level.
+
+Regulation 2 sets out the conditions under which a person can receive early payment of compensation from the Board, pursuant to paragraph 11 or 15 (periodic compensation) or 14 or 19 (lump sum compensation) of Schedule 6 to the Pensions (Northern Ireland) Order 2005 (“the Order”), before he attains normal pension age.
+
+Regulation 3 prescribes the circumstances in which a widow or widower will not be entitled to receive periodic compensation following the death of their spouse.
+
+Regulation 4 prescribes the circumstances in which a relevant partner or a surviving dependant will be entitled to receive periodic compensation following the death of his partner (in the case of a relevant partner) or his parent (in the case of a surviving dependant) as appropriate under paragraph 23 of Schedule 6 to the Order.
+
+Regulation 5 prescribes the amount and duration of periodic compensation that can be paid to relevant partners who qualify for periodic compensation under regulation 4 by reference to the compensation payable to a surviving spouse in Schedule 6 to the Order.
+
+Regulation 6 prescribes the amount of periodic compensation that can be paid to surviving dependants who qualify for periodic compensation under regulation 4.
+
+Regulation 7 prescribes the period during which periodic compensation can be paid to surviving dependants who qualify for periodic compensation under regulation 4.
+
+Regulation 8 prescribes the effect of a change of circumstances in a case where periodic compensation is paid, and also provides for backdating of payments of periodic compensation in specific circumstances.
+
+Regulation 9 provides that where immediately prior to the assessment date a survivor is entitled to present payment of a pension he shall be treated as entitled to compensation under paragraph 3 of Schedule 6 to the Order if he would not otherwise be entitled to compensation under that paragraph.
+
+Regulation 10 provides that where immediately prior to the assessment date a person is entitled to a pension on grounds of early retirement but is not entitled to compensation under paragraph 3 of Schedule 6 to the Order he shall be treated as entitled to compensation under that paragraph in certain circumstances.
+
+Regulation 11 provides that where immediately prior to the assessment date a person is entitled to present payment of an ill health pension but is not entitled to compensation under paragraph 3 of Schedule 6 to the Order he shall be treated as entitled to compensation under that paragraph in certain circumstances.
+
+Regulation 12 modifies Schedule 6 to the Order in relation to certain pensions in payment before the assessment date.
+
+Regulation 13 prescribes the method of calculating the revaluation amount in relation to deferred members who have not attained normal pension age at the assessment date, for the purposes of paragraph 16(3)(b) of Schedule 6 to the Order.
+
+Regulation 14 prescribes the method of calculating the protected transfer payment or protected contribution repayment, where the Board is satisfied that it is not possible to use the admissible rules to make this calculation for the purposes of paragraph 20(4) of Schedule 6 to the Order.
+
+Regulation 15 provides that a person shall not be entitled to two sets of compensation for the same service. The regulation disapplies paragraph 8, 10, 11 or 14 in relation to a person to whom paragraph 20 of Schedule 6 to the Order applies.
+
+Regulation 16 provides that for the purposes of paragraph 20(1)(c) and (d) of Schedule 6 to the Order, Chapter 5 of Part IV of the Pension Schemes (Northern Ireland) Act 1993 shall be treated as if it were in operation (Article 241 of the Order inserts Chapter 5 into that Act).
+
+Regulation 17 provides that a person may opt to commute for a lump sum a portion of his periodic compensation in certain circumstances.
+
+Regulation 18 provides that a person may opt to commute more than 25 per cent. of his periodic compensation where the aggregate value of compensation or benefits payable to him in respect of the scheme or a connected scheme is less than £260 per annum.
+
+Regulation 19 sets out the procedure for exercising an option to commute and in particular requires notice to be given to the Board in writing. Paragraphs (3) and (4) set out the information to be provided to the Board, and paragraph (5) provides that the Board may require a person to produce specified documents or provide other information.
+
+Regulations 20 and 21 modify paragraph 26 of Schedule 6 to the Order (which makes provision about the compensation cap) and provide that certain sums are to be disregarded for the purposes of that paragraph.
+
+The compensation cap is the maximum amount of pension compensation payable by the Board in certain cases. They are where a person who is under normal pension age at the time immediately before the assessment date (“the relevant time”) is then entitled to present payment of a pension, other than an ill health or a survivor’s pension; where a person who is an active member of the scheme and under normal pension age at the relevant time survives to attain normal pension age and so would have become entitled to a pension or a lump sum under the scheme; and where a deferred member of the scheme who is under pension age at the relevant time and not then entitled to a pension, survives to normal pension age and so would have become entitled to a pension or a lump sum under the scheme.
+
+Paragraph 26 of Schedule 6 to the Order provides that the compensation in these cases is restricted if the annual value of the benefit in respect of which the compensation is payable exceeds the amount of compensation cap, or if it does so when aggregated with the annual value of other benefits from the scheme or schemes in respect of which compensation is payable at the same time.
+
+Regulation 20 modifies paragraph 26 so that where compensation is paid by the Board in successive tranches, or the person entitled to the compensation has on a previous occasion become entitled to one or more lump sums from the scheme in question or from connected schemes, the restriction applies by aggregating the annual values of the former benefits or lump sums with the benefits payable in the latest tranche.
+
+Regulation 21 makes provision about trivial commutation lump sums and winding up lump sums. These are lump sums that schemes pay to people who are entitled to benefits of a relatively small value in order to discharge liability to them in one payment. Under paragraph (1) these sums are to be disregarded for the purposes of paragraph 26, as it applies as amended by regulation 20, if they were paid on a previous occasion and their payment is not in contravention of certain provisions. So these lump sums will not be aggregated with other benefits in determining if the cap applies to a second or subsequent tranche of compensation and, if so, what the amount of the cap is.
+
+Trivial commutation lump sums and winding up lump sums are defined by reference to provisions in the Finance Act 2004 about the requirements for registered pension schemes that come into operation on 6th April 2006. Until that date regulation 21 is modified to refer instead to sums extinguishing the member’s rights and permitted to be paid under the rules applied by the Inland Revenue in determining whether tax advantages apply to schemes and their benefits.
+
+Regulation 22 defines “pre-1997 service” and “post-1997 service” for the purposes of paragraph 28 of Schedule 6 to the Order.
+
+Regulation 23 provides for modifications to Schedule 6 to the Order in relation to cash balance schemes.
+
+The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional Provisions) Order (Northern Ireland) 2005 ([S.R. 2005 No. 48 (C. 5)](https://www.legislation.gov.uk/nisr/2005/48)) provides for the coming into operation of Article 2(5)(a) of, and paragraphs 4(4), 6(4), 9(4), 13(4), 16(3)(b), 18(4), 20(4) and (7), 23, 24(1), (2) and (6), 25(1), 26(9) and (10), 28(6) and (7), 31(2) and (3) and 33 of Schedule 6 to, the Order, some of the enabling provisions under which these Regulations are made, on 25th February 2005 for the purpose of authorising the making of regulations and for all other purposes on 6th April 2005.
+
+As the Regulations are made before the end of the period of six months beginning with the coming into operation of the provisions of the Order by virtue of which they are made, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); the Pensions (Northern Ireland) Order 2005 is modified in its application to partially guaranteed schemes, hybrid schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55), [84](https://www.legislation.gov.uk/nisr/2005/84) and [91](https://www.legislation.gov.uk/nisr/2005/91)
+
+[^key-775121aa70dde5ce90cdd24b120c5ef6]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^M_F_a9d6ef36-a487-4282-a6d2-f89d3319c3d8]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-77b0bae40900212c264e60e19ebd7dd5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [8(2)(a)(i)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/2/a/i)
+
+[^key-81d8a24ca676c5855502e393820c75df]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) inserted (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/2)
+
+[^key-27409ca66fb931622edd2985a155ebc5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/2)
+
+[^M_F_de8e854b-d960-4c07-8d13-3fca380b7e84]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^M_F_6f73a7e6-f6bf-4530-f191-4e162c1578e3]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^M_F_5a4604da-9319-46d7-e0c2-06facd244da3]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-7b7277ea8cb29b381ebd839404149ec1]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/165/regulation/4/2)
+
+[^key-1d0bddccd3f3afebd525056a6508f6a8]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) amendment to earlier affecting provision S.R. 2018/165, reg. 2(2) (retrospective to 6.4.2005) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 14(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/14/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/f)
+
+[^key-fc689e14cd476dc002494666fb348412]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) inserted (5.12.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/2/a/iii)
+
+[^M_F_cf3dabc8-1b87-4ab4-aa44-e4d9c4246ac9]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^M_F_f180318b-b9fd-497f-8190-a6e0f561020c]: Textual amendment: Words in reg. 1(2) substituted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(c)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-0c814ee6eea02a890f5e2df4c9a70fba]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [103(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/103/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-2907d2774df52fedb1289f92e812fe36]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [103(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/103/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-69bf8771f3141594d8d14fb6f56cddef]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [8(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/2/a/iv)
+
+[^key-e678e9903e4376811cc15716d6cca7ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [20(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/20/2)
+
+[^f00002]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50)
+
+[^M_F_25d11e9e-176b-46b3-c243-b900aeec4325]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^M_F_441c97a8-b341-44ff-89f8-6656d094c91c]: Textual amendment: Words in reg. 1(2) inserted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-4441402a7f30513ccca1f4d56f74acde]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/2) omitted (5.12.2005) by virtue of [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(2)(a)(v)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/2/a/v)
+
+[^key-56ca23f41c823cf0ee31424fc9db0bd4]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/3)[(4)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/4) substituted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/2/b)
+
+[^key-dc7c7812048fa962df01a5d3008dabd7]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-66b2e3b155a375c24e2b8d31418ad582]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/2/a) substituted (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/3/a)
+
+[^key-41060466def375f40c3699ae0ab4fc3c]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/2/b) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/165/regulation/4/3)
+
+[^key-e337bdc09fb4a715aaf931bb58512f3b]: Textual amendment: Words in [reg. 2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/2/b/ii) substituted (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/3/b)
+
+[^key-134c4dd573a6f53d418d09a90e3d90a9]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/2/c) added (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/3/c)
+
+[^key-6ad428e0cd4516106681eb18df753d2f]: Textual amendment: [Reg. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/3/a/ii) substituted (6.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(2)(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/b/i/aa)
+
+[^key-2a00a9a7c4885efe13b88c85059fa1a1]: Textual amendment: Words in [reg. 2(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/3/a/iii) substituted (6.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(2)(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/b/i/bb)
+
+[^key-5258a0060e61da274ab63b62862a6ae5]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/3/b) substituted (6.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/b/ii)
+
+[^key-f63ba06ab28f87e7dcd53c2d1cb526f1]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/3/c) omitted (6.4.2010) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/b/iii)
+
+[^key-208c9949b81ad6006d7decf9e7e03f57]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/4) omitted (6.4.2010) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(2)(c)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/c)
+
+[^key-05f3a50c3a8e8e3e2ac7d6e2750b42aa]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2/5) omitted (30.4.2013) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/3)
+
+[^key-b4f3a1853b4e3ff0e44e35f51feea26c]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/nisr/2005/149/part/2A) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(4)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/4)
+
+[^key-1cf1ed5c50166d9303149bc216063f8f]: Textual amendment: [Reg. 2C(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2C/3) substituted (1.10.2013) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/213)](https://www.legislation.gov.uk/nisr/2013/213), [regs. 1](https://www.legislation.gov.uk/nisr/2013/213/regulation/1), [2](https://www.legislation.gov.uk/nisr/2013/213/regulation/2)
+
+[^key-0c4d6972e8abb1d97d684d22d7b3b68a]: Textual amendment: [Reg. 2C(4A)](https://www.legislation.gov.uk/nisr/2005/149/regulation/2C/4A) inserted (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/4)
+
+[^key-f0aa8e74588d2b8fe7c202cdbf8ea4a4]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-f766e504ca4a0499fa2c45813dc9bdae]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/149/regulation/3) modified (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [58(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/58/c)
+
+[^key-7484268f1adee479b5a8da38b9149791]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2005/149/regulation/3) substituted (5.12.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/3)
+
+[^key-8812ccea0b287eff8c1bcc9bd6c0a1cc]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-ad055c47c13bc295a3a1c9215e0fd4f6]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/2) inserted (5.12.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(4)(a)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/4/a)
+
+[^key-769a2e68fceac26f7c3bba7e5dcad848]: Textual amendment: [Reg. 4(2A)-(2C)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/2A) inserted (5.12.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(4)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/4/b)
+
+[^key-8f39cde6c133cfc0e421135886712170]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/3) substituted (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/5/a)
+
+[^key-7d4c0add9d070e075aa1a8cc5ac632cb]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/3/a) omitted (30.4.2013) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(5)(a)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/5/a/i)
+
+[^key-66f70e281ef6b738cf3154bc66b6760a]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/3/a) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/5/a/ii)
+
+[^key-ddda9edefb5fd57358ec2d8455a14f6e]: Textual amendment: Word in [reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/3/b) omitted (30.4.2013) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/5/b)
+
+[^key-0277a8a6220b29a913a35241499e616a]: Textual amendment: [Reg. 4(3)(ba)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/3/ba) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(5)(c)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/5/c)
+
+[^key-2e88c15888401459c2badbba7b1da024]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2005/149/regulation/4/4) added (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/5/b)
+
+[^key-89c3da8caa4937fcbbd0dcc35c50f28a]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-82165cb7ec8c10c397559059f588b29e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2005/149/regulation/5) inserted (5.12.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(5)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/5)
+
+[^key-e7d9efd5dcc4d176119ce0aefeb150a6]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-a9c2008d7fd3ee2c7d3ca1e9a226b916]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/6/2)[(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/6/3) substituted (5.12.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/6)
+
+[^key-06dc6e325b01676c1f32d3e17dfaf4a5]: Commencement: Reg. 7 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-c685dfc50c7bf562fb023e97497edeba]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/nisr/2005/149/regulation/7) substituted (coming into force in accordance with reg. 1(1)(c) of the amending Rule) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [reg. 8(7)](https://www.legislation.gov.uk/nisr/2005/357/regulation/8/7)
+
+[^key-7b6aa7ca3a42201d723a4809b54fae9a]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2005/149/regulation/7/2/b) omitted (6.4.2023) by [The Pension Protection Fund (Compensation) and Occupational Pension Schemes (Fraud Compensation Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/41)](https://www.legislation.gov.uk/nisr/2023/41), [regs. 1](https://www.legislation.gov.uk/nisr/2023/41/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/41/regulation/2)
+
+[^key-b7a3e1379fa32a5a7d09a5fc914dfff6]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2005/149/regulation/7/4) substituted (29.4.2013 for specified purposes, 30.4.2013 in so far as not already in operation) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/3), [7(6)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/6/a)
+
+[^key-27a7bc480a645f3c1727696dc696b22a]: Textual amendment: Word in [reg. 7(4)(a)](https://www.legislation.gov.uk/nisr/2005/149/regulation/7/4/a) substituted (29.4.2013 for specified purposes, 30.4.2013 in so far as not already in operation) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/3), [7(6)(b)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/6/b)
+
+[^key-236fdabe71212c903ba2d0c927520d72]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-4fb65e047b84b0049ff90f39ab8fa423]: Commencement: Reg. 9 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-7b3cf00a7367e13d5ce1670c9d0fb1ea]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-a93a5be23ac2a6ea5fa04db0ce81fde3]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-7c2d0eff47ae3d1af0ef3422acc2015f]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-4ba05b8ba34a83de7a4ccd96ef1cc89a]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/nisr/2005/149/regulation/12A) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [59(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/59/2)
+
+[^key-f102332442bd08d060057509c80c4682]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-83ce118795780708b0a3b00e8d51e994]: Textual amendment: [Reg. 13ZA](https://www.legislation.gov.uk/nisr/2005/149/regulation/13ZA) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [59(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/59/3)
+
+[^c22156571]: Annotation text not found in the source document.
+
+[^key-4d4a531af4daef3a1efbcb232e863643]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/nisr/2005/149/regulation/13A) inserted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/78/regulation/4)
+
+[^key-4356914470351047a3d21aeca94c84cb]: Commencement: Reg. 14 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-e74ff9989d38e5fe2853e9793ec9513c]: Commencement: Reg. 15 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-bceae0c9f3d1502a2d889cd987c2207a]: Commencement: Reg. 16 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^f00004]: Footnote: Chapter 5 is inserted by Article 241 of the Pensions (Northern Ireland) Order 2005
+
+[^key-0e7cc8e82eb963a0bae8108da4fd4b45]: Commencement: Reg. 17 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^M_F_c769d765-b485-4a3b-d590-d5a43ea2121f]: Textual amendment: words in reg. 17 substituted (6.4.2006) by[The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(3)(a)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-ce2696ac0a67447c4d0cbf334b1b498c]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/17/1) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/4/4/a)
+
+[^key-699a0ee4a2d029f7ce0032c31598f196]: Textual amendment: Words in [reg. 17(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2005/149/regulation/17/2/b/ii) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(7)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/7)
+
+[^key-aa129a9749c7f3cf743b544b36fe3e32]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/17/3) omitted (6.4.2016) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2016/165/regulation/4/4/b)
+
+[^M_F_c789c699-84e5-4b1e-be7b-cdcf04bc1ef0]: Textual amendment: Reg. 18 substituted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(4)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-17e5a4df4127cd2bb07b12dba0088529]: Textual amendment: Words in [reg. 18(2)(c)](https://www.legislation.gov.uk/nisr/2005/149/regulation/18/2/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [20(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/20/3)
+
+[^key-4cb11fd6509ab8ac504dfa55176a3b88]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/2005/149/regulation/18/4) omitted (30.4.2013) by virtue of [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [7(8)](https://www.legislation.gov.uk/nisr/2013/95/regulation/7/8)
+
+[^M_F_db044d86-9a45-4de5-bb41-bf38e272eedd]: Textual amendment: Reg. 19 omitted (6.4.2006) by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents) , [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(5)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^key-be4acb67c44ffb1cf5191dfe0ba03b32]: Commencement: Reg. 20 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-74b558f3c759059d37e22ed1ecbd486f]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/20/3) substituted (retrospective and with effect in accordance with of the amending Rule) by [The Pension Protection Fund (Modification) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/59)](https://www.legislation.gov.uk/nisr/2017/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/59/regulation/1/2), [2(a)](https://www.legislation.gov.uk/nisr/2017/59/regulation/2/a)
+
+[^key-b027732dd253955b3e7ea7fb680e00f5]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/20/3) substituted (retrospective and with effect in accordance with of the amending Rule) by [The Pension Protection Fund (Modification) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/59)](https://www.legislation.gov.uk/nisr/2017/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/59/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2017/59/regulation/2/b)
+
+[^key-24bc1947569ae0e7a586a2fb220c65bb]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/20/3) inserted (retrospective and with effect in accordance with of the amending Rule) by [The Pension Protection Fund (Modification) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/59)](https://www.legislation.gov.uk/nisr/2017/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2017/59/regulation/2/c)
+
+[^key-d6b82f97926eb83aca9ba23186f10899]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/20/3) inserted (6.4.2017) by [The Pension Protection Fund (Modification) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/59)](https://www.legislation.gov.uk/nisr/2017/59), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/59/regulation/1/3), [2(d)](https://www.legislation.gov.uk/nisr/2017/59/regulation/2/d)
+
+[^key-56d60d4690889c318c1cc9de8622a350]: Commencement: Reg. 21 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^M_F_9b3097f8-2481-43f2-d105-0492b8c29913]: Textual amendment: Words in reg. 21(1)(a) substituted by [The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/155)](https://www.legislation.gov.uk/nisr/2006/155/contents), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/155/regulation/1), [22(6)](https://www.legislation.gov.uk/nisr/2006/155/regulation/22)
+
+[^f00005]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^f00006]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493); regulation 19 was substituted by regulation 2(7) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109). Regulation 20 was amended by regulation 2(3) of [S.R. 2000 No. 336](https://www.legislation.gov.uk/nisr/2000/336) and regulation 2(8) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109). Regulation 60 was amended by paragraph 5(12) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and regulation 2(12) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
+
+[^f00007]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); regulation 2 was amended by regulation 8 of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
+
+[^f00008]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146), to which there are amendments not relevant to these regulations
+
+[^f00009]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00010]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
+
+[^key-2003ca717c7edf05fa56ed039ec2ea37]: Commencement: Reg. 22 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-f99729e50d51a968e7ef2aa098b0e61c]: Commencement: Reg. 23 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/1/1)
+
+[^key-65c6996e9cd3505cd8e203cfa2fb996f]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2005/149/regulation/23) heading substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [59(4)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/59/4/a)
+
+[^key-9caa5a66135b530bd5bc20a5d210c9cf]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/23/1) substituted (6.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(3)(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/3/a)
+
+[^key-e4e57ca53040dbaae0fff7a6a85e4c37]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/nisr/2005/149/regulation/23/1) omitted (24.7.2014) by virtue of [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [59(4)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/59/4/b)
+
+[^key-b84dcf2e70dc864ac06efd21a1124110]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/nisr/2005/149/regulation/23/1A) inserted (6.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(3)(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/3/b)
+
+[^key-2c9aed272421ff896599d2ca477d8c88]: Textual amendment: [Reg. 23(2)](https://www.legislation.gov.uk/nisr/2005/149/regulation/23/2) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [59(4)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/59/4/c)
+
+[^key-c23f6377f258fa06e9af34de985e2eb8]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/23/3) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [59(4)(d)](https://www.legislation.gov.uk/nisr/2014/204/regulation/59/4/d)
+
+[^key-05d8ffa6f61be1e809578eb3f64db1db]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/nisr/2005/149/regulation/23/3) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [4(5)](https://www.legislation.gov.uk/nisr/2016/165/regulation/4/5)
+
+[^key-85fce9f335d9d6cb945f9fd6cc9c4639]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/nisr/2005/149/regulation/23A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [4(6)](https://www.legislation.gov.uk/nisr/2016/165/regulation/4/6)
+
+[^key-ffed8078b7e4725bb858ee4891db4520]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/nisr/2005/149/part/11) added (6.4.2010) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b), [4(4)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/4)
+
+[^key-f7ed22a3e6b4bf258dd2cec0520ee4f2]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/nisr/2005/149/part/12) added (24.2.2018) by [The Pension Protection Fund (Compensation) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/26)](https://www.legislation.gov.uk/nisr/2018/26), [regs. 1](https://www.legislation.gov.uk/nisr/2018/26/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/26/regulation/2/6)
+
+[^key-ee997944c6cf1e029cec3a688a729d82]: Textual amendment: [Pt. 13](https://www.legislation.gov.uk/nisr/2005/149/part/13) amendment to earlier affecting provision S.R. 2018/165, reg. 2(3) (retrospective to 6.4.2005) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 14(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/14/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/f)

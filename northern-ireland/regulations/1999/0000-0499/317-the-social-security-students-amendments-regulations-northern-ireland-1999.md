@@ -1,0 +1,494 @@
+---
+title: The Social Security (Students Amendments) Regulations (Northern Ireland) 1999
+id: nisr/1999/317
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-07-08'
+text_date: '2009-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/317
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/317/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Students Amendments) Regulations (Northern Ireland) 1999
+
+> Text as at 2009-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 317
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Students Amendments) Regulations (Northern Ireland) 1999
+
+Made
+
+8th July 1999
+
+Coming into operation in accordance with regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 129(2) and (4), 132(3) and (4) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 14(1), (2) and (4) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 4 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-38216e0738dbf406b00dfdd3dee1c555]
+
+(1) These Regulations may be cited as the Social Security (Students Amendments) Regulations (Northern Ireland) 1999 and shall come into operation—
+
+- (a) for the purpose of this regulation on 1st August 1999;
+- (b) for the purposes of regulations 2 and 3—
+  - (i) in the case of a student whose period of study begins on or after 1st August 1999 but before 30th August 1999, on the day the period of study begins;
+  - (ii) in any other case, on 30th August 1999;
+- (c) for the purpose of regulation 4—
+  - (i) in the case of a student whose period of study begins on or after 1st August 1999 but before 30th August 1999, on the first Monday of that period;
+  - (ii) in any other case, on 30th August 1999;
+- (d) for the purposes of regulations 5 and 6—
+  - (i) in the case of a student whose period of study begins on or after 1st August 1999 but before 31st August 1999, on the first Tuesday of that period;
+  - (ii) in any other case, on 31st August 1999.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of the Jobseeker’s Allowance Regulations[^key-dadeebacacf08655a1b48d7ae6606002][^key-703d3b78a4f9573487b2a7271ab91ca9]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006] shall be amended in accordance with paragraphs (2) to (8).
+
+(2) In regulation 130 (interpretation of Chapter IX of Part VIII)—
+
+- (a)[^key-a15aff04f82047051c416332cd3f5a95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for the definition of “year” there shall be substituted the following definitions—
+
+  > - “student loan” means a loan towards a student’s maintenance pursuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998[^f00008], section 22 of the Teaching and Higher Education Act 1998[^f00009] or section 73 of the Education (Scotland) Act 1980[^f00010];
+  > - “year”, in relation to a course, means the period of 12 months beginning on and including 1st January, 1st April, 1st July or 1st September according to whether the academic year of the course begins in the winter, the spring, the summer or the autumn respectively, but if students are required to begin attending the course during August or September and to continue attending through the autumn the academic year of the course shall be considered to begin in the autumn rather than the summer.
+
+  .
+
+(3) In regulation 131 (calculation of grant income)—
+
+- (a) in paragraph (2)(f)[^f00011] the words from “or” to the end shall be omitted;
+- (b) for paragraph (3) there shall be substituted the following paragraph—
+
+  > (3) Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student’s grant income—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under paragraph (2)(f), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(4) In regulation 135(1) (other amounts to be disregarded) for “and 133(1)(a) or (b) (calculation of grant income and covenant income)” there shall be substituted “, 133(1)(a) or (b) and 136(5) (calculation of grant income, covenant income and treatment of student loans)”.
+
+(5) In regulation 136 (treatment of student loans)—
+
+- (a) for paragraph (1) there shall be substituted the following paragraph—
+
+  > (1) A student loan shall be treated as income.
+
+  ;
+- (b) for paragraph (3) there shall be substituted the following paragraphs—
+
+  > (3) A student shall be treated as possessing a student loan in respect of an academic year where—
+  >
+  > - (a) a student loan has been made to him in respect of that year, or
+  > - (b) he could acquire such a loan in respect of that year by taking reasonable steps to do so.
+  >
+  > (4) Where a student is treated as possessing a student loan under paragraph (3), the amount of the student loan to be taken into account as income shall be, subject to paragraph (5)—
+  >
+  > - (a) in the case of a student to whom a student loan is made in respect of an academic year, a sum equal to the maximum student loan he is able to acquire in respect of that year by taking reasonable steps to do so and either—
+  >   - (i) in the case of a student other than one to whom head (ii) refers, any contribution whether or not it has been paid to him, or
+  >   - (ii) in the case of a student who satisfies the additional conditions for a disability premium specified in paragraph 14 of Schedule 1 (applicable amounts), any contribution which has actually been paid to him;
+  > - (b) in the case of a student to whom a student loan is not made in respect of an academic year, the maximum student loan that would be made to the student if—
+  >   - (i) he took all reasonable steps to obtain the maximum student loan he is able to acquire in respect of that year, and
+  >   - (ii) no deduction in that loan was made by virtue of the application of a means test.
+  >
+  > (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under regulation 131(2)(f), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(6) In regulation 137 (disregard of contribution) after “grant” there shall be inserted “or student loan”.
+
+(7) In regulation 137A[^f00012] (further disregard of student’s income) after “grant” there shall be inserted “or student loan”.
+
+(8) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings) in paragraph 57(2)[^f00013] for head (b) there shall be substituted the following heads—
+
+> - (b) any student loan as defined in Chapter IX of Part VIII;
+> - (c) any contribution as defined in Chapter IX of Part VIII which—
+>   - (i) is taken into account in ascertaining the amount of a student loan referred to in head (b), and
+>   - (ii) has been paid.
+
+.
+
+## 3. Amendment of the Income Support Regulations[^key-b1a55facac1ee5c3c31a010590e54df3][^key-4d8aac57b4dc312558760c3cd89d640a]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00014] shall be amended in accordance with paragraphs (2) to (8).
+
+(2) In regulation 61 (interpretation of Chapter VIII of Part V)—
+
+- (a)[^key-d8dc97f8dbdc4e7c2b5ae47a8f2bebe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for the definition of “year”[^f00016] there shall be substituted the following definitions—
+
+  > - “student loan” means a loan towards a student’s maintenance persuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998, section 22 of the Teaching and Higher Education Act 1998 or section 73 of the Education (Scotland) Act 1980;
+  > - “year”, in relation to a course, means the period of 12 months beginning on and including 1st January, 1st April, 1st July or 1st September according to whether the academic year of the course begins in the winter, the spring, the summer or the autumn respectively, but if students are required to begin attending the course during August or September and to continue attending through the autumn the academic year of the course shall be considered to begin in the autumn rather than the summer.
+
+  .
+
+(3) in regulation 62 (calculation of grant income)—
+
+- (a) in paragraph (2)(g)[^f00017] the words from “or” to the end shall be omitted;
+- (b) for paragraph (2A)[^f00018] there shall be substituted the following paragraph—
+
+  > (2A) Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student’s grant income—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under paragraph (2)(g), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(4) In regulation 66(1)[^f00019] (other amounts to be disregarded) for “and 64(1)(a) or (b) (calculation of grant income and covenant income)” there shall be substituted “, 64(1)(a) or (b) and 66A(5) (calculation of grant income, covenant income and treatment of student loans)”.
+
+(5) In regulation 66A[^f00020] (treatment of student loans)—
+
+- (a) for paragraph (1)[^f00021] there shall be substituted the following paragraph—
+
+  > (1) A student loan shall be treated as income.
+
+  ;
+- (b) for paragraph (3)[^f00022] there shall be substituted the following paragraphs—
+
+  > (3) A student shall be treated as possessing a student loan in respect of an academic year where—
+  >
+  > - (a) a student loan has been made to him in respect of that year, or
+  > - (b) he could acquire such a loan in respect of that year by taking reasonable steps to do so.
+  >
+  > (4) Where a student is treated as possessing a student loan under paragraph (3), the amount of the student loan to be taken into account as income shall be, subject to paragraph (5)—
+  >
+  > - (a) in the case of a student to whom a student loan is made in respect of an academic year, a sum equal to the maximum student loan he is able to acquire in respect of that year by taking reasonable steps to do so and either—
+  >   - (i) in the case of a student other than one to whom head (ii) refers, any contribution whether or not it has been paid to him, or
+  >   - (ii) in the case of a student to whom paragraph 1, 2, 10, 11 or 12 of Schedule 1B[^f00023] applies (lone parents or disabled students), any contribution which has actually been paid to him;
+  > - (b) in the case of a student to whom a student loan is not made in respect of an academic year, the maximum student loan that would be made to the student if—
+  >   - (i) he took all reasonable steps to obtain the maximum student loan he is able to acquire in respect of that year, and
+  >   - (ii) no deduction in that loan was made by virtue of the application of a means test.
+  >
+  > (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under regulation 62(2)(g), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(6) In regulation 67[^f00024] (disregard of contribution) after “grant” there shall be inserted “or student loan”.
+
+(7) In regulation 67A[^f00025] (further disregard of student’s income) after “grant” there shall be inserted “or student loan”.
+
+(8) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) in paragraph 59(2)[^f00026] for head (b) there shall be substituted the following heads—
+
+> - (b) any student loan as defined in Chapter VIII of Part V;
+> - (c) any contribution as defined in Chapter VIII of Part V which—
+>   - (i) is taken into account in ascertaining the amount of a student loan referred to in head (b), and
+>   - (ii) has been paid.
+
+.
+
+## 4. Amendment of the Housing Benefit Regulations[^key-fd874c69530f02243fad5e721111fab5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Family Credit Regulations[^key-2bcef253a04b401992f7250d29e3e217][^key-1eaf34d83f0d7c71fb285b48d3b61ce5]
+
+(1) The Family Credit (General) Regulations (Northern Ireland) 1987[^f00039] shall be amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 37 (interpretation of Chapter VII of Part IV)—
+
+- (a) in the definition of “contribution”[^f00040] for the words from “and” to the end there shall be substituted “or student loan; or any sums, which in determining the amount of the student’s allowance or bursary in Scotland in terms of the Students' Allowances (Scotland) Regulations 1996[^f00041] or the Education Authority (Bursaries) (Scotland) Regulations 1995[^f00042], the Secretary of State or education authority takes into account being sums which the Secretary of State or the education authority consider that the holder of the allowance or bursary, the holder’s parents and the holder’s spouse can reasonably be expected to contribute towards the holder’s expenses;”;
+- (b) for the definition of “year” there shall be substituted the following definitions—
+
+  > - “student loan” means a loan towards a student’s maintenance pursuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998, section 22 of the Teaching and Higher Education Act 1998 or section 73 of the Education (Scotland) Act 1980;
+  > - “year”, in relation to a course, means the period of 12 months beginning on and including 1st January, 1st April, 1st July or 1st September according to whether the academic year of the course begins in the winter, the spring, the summer or the autumn respectively, but if students are required to begin attending the course during August or September and to continue attending through the autumn the academic year of the course shall be considered to begin in the autumn rather than the summer.
+
+  .
+
+(3) In regulation 38 (calculation of grant income)—
+
+- (a) in paragraph (2)(f)[^f00043] the words from “or” to the end shall be omitted;
+- (b) for paragraph (2A)[^f00044] there shall be substituted the following paragraph—
+
+  > (2A) Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student’s grant income—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under paragraph (2)(f), the sum of £303 towards the costs of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(4) In regulation 42[^f00045] (other amounts to be disregarded) for “and 40(1)(a) or (b) (calculation of grant income and covenant income)” there shall be substituted “40(1)(a) or (b) and 42A(5) (calculation of grant income, covenant income and treatment of student loans)”.
+
+(5) In regulation 42A[^f00046] (treatment of student loans)—
+
+- (a) for paragraph (1)[^f00047] there shall be substituted the following paragraph—
+
+  > (1) A student loan shall be treated as income.
+
+  ;
+- (b) for paragraph (3)[^f00048] there shall be substituted the following paragraphs—
+
+  > (3) A student shall be treated as possessing a student loan in respect of an academic year where—
+  >
+  > - (a) a student loan has been made to him in respect of that year, or
+  > - (b) he could acquire such a loan in respect of that year by taking reasonable steps to do so.
+  >
+  > (4) Where a student is treated as possessing a student loan under paragraph (3), the amount of the student loan to be taken into account as income shall be, subject to paragraph (5)—
+  >
+  > - (a) in the case of a student to whom a student loan is made in respect of an academic year, a sum equal to—
+  >   - (i) the maximum student loan he is able to acquire in respect of that year by taking reasonable steps to do so, and
+  >   - (ii) any contribution whether or not it has been paid to him;
+  > - (b) in the case of a student to whom a student loan is not made in respect of an academic year, the maximum student loan that would be made to the student if—
+  >   - (i) he took all reasonable steps to obtain the maximum student loan he is able to acquire in respect of that year, and
+  >   - (ii) no deduction in that loan was made by virtue of the application of a means test.
+  >
+  > (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under regulation 38(2)(f), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(6) In regulation 43[^f00049] (disregard of contribution) after “grant” there shall be inserted “or student loan”.
+
+(7) In regulation 43A[^f00050] (further disregard of student’s income) after “grant” there shall be inserted “or student loan”.
+
+## 6. Amendment of the Disability Working Allowance Regulations[^key-1c3acd5d66473de9488ed7de9b060bc6][^key-77c6eb66528387bcc2560be3ea4b2206]
+
+(1) The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00051] shall be amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 41 (interpretation of Chapter VII of Part V)—
+
+- (a) in the definition of “contribution”[^f00052] for the words from “and” to the end there shall be substituted “or student loan; or any sums, which in determining the amount of the student’s allowance or bursary in Scotland in terms of the Students' Allowances (Scotland) Regulations 1996 or the Education Authority (Bursaries) (Scotland) Regulations 1995, the Secretary of State or education authority takes into account being sums which the Secretary of State or the education authority consider that the holder of the allowance or bursary, the holder’s parents and the holder’s spouse can reasonably be expected to contribute towards the holder’s expenses;”;
+- (b) for the definition of “year” there shall be substituted the following definitions—
+
+  > - “student loan” means a loan towards a student’s maintenance pursuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998, section 22 of the Teaching and Higher Education Act 1998 or section 73 of the Education (Scotland) Act 1980;
+  > - “year”, in relation to a course, means the period of 12 months beginning on and including 1st January, 1st April, 1st July or 1st September according to whether the academic year of the course begins in the winter, the spring, the summer or the autumn respectively, but if students are required to begin attending the course during August or September and to continue attending through the autumn the academic year of the course shall be considered to begin in the autumn rather than the summer.
+
+  .
+
+(3) In regulation 42 (calculation of grant income)—
+
+- (a) in paragraph (2)(e)[^f00053] for “equipment or, if not so intended, an amount equal to £295; or” there shall be substituted “equipment;”;
+- (b) for paragraph (2A)[^f00054] there shall be substituted the following paragraph—
+
+  > (2A) Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student’s grant income—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under paragraph (2)(e), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(4) In regulation 46[^f00055] (other amounts to be disregarded) for “and 44(1)(a) or (b) (calculation of grant income and covenant income)” there shall be substituted “, 44(1)(a) or (b) and 47(5) (calculation of grant income, covenant income and treatment of student loans)”.
+
+(5) In regulation 47 (treatment of student loans)—
+
+- (a) for paragraph (1) there shall be substituted the following paragraph—
+
+  > (1) A student loan shall be treated as income.
+
+  ;
+- (b) for paragraph (3)[^f00056] there shall be substituted the following paragraphs—
+
+  > (3) A student shall be treated as possessing a student loan in respect of an academic year where—
+  >
+  > - (a) a student loan has been made to him in respect of that year, or
+  > - (b) he could acquire such a loan in respect of that year by taking reasonable steps to do so.
+  >
+  > (4) Where a student is treated as possessing a student loan under paragraph (3), the amount of the student loan to be taken into account as income shall be, subject to paragraph (5)—
+  >
+  > - (a) in the case of a student to whom a student loan is made in respect of an academic year, a sum equal to—
+  >   - (i) the maximum student loan he is able to acquire in respect of that year by taking reasonable steps to do so, and
+  >   - (ii) any contribution whether or not it has been paid to him;
+  > - (b) in the case of a student to whom a student loan is not made in respect of an academic year, the maximum student loan that would be made to the student if—
+  >   - (i) he took all reasonable steps to obtain the maximum student loan he is able to acquire in respect of that year, and
+  >   - (ii) no deduction in that loan was made by virtue of the application of a means test.
+  >
+  > (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
+  >
+  > - (a) the sum of £250 in respect of travel costs, and
+  > - (b) where no amount has been disregarded under regulation 42(2)(e), the sum of £303 towards the cost of books and equipment,
+  >
+  > whether or not any such costs are incurred.
+
+  .
+
+(6) In regulation 48[^f00057] (disregard of contribution) after “grant” there shall be inserted “or student loan”.
+
+(7) In regulation 48A[^f00058] (further disregard of student’s income) after “grant” there shall be inserted “or student loan”.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+8th July 1999.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 4 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. Ritchie
+
+Assistant Secretary
+
+8th July 1999.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Income Support (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Family Credit (General) Regulations (Northern Ireland) 1987, the Disability Working Allowance (General) Regulations (Northern Ireland) 1992 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+Regulations 2 to 6, except so far as they relate to up-rating (see below), are consequential on recent changes made to student grants and loans. From the 1999/2000 academic year most students will be entitled to receive support for living costs from loans instead of from grants. Accordingly, regulations 2 to 6 amend the Regulations cited in the first paragraph above. The amendments provide that students can have certain book and travel expenses disregarded from the income assessed in respect of those loans. To avoid double counting, book and travel expenses will only be disregarded from a student’s grant income if the student does not have an amount treated as income because of an entitlement to receive a student loan.
+
+Where no amount of a student’s grant income is paid with the intention of meeting the costs of books and equipment, the amount to be allowed in respect of those costs is increased from £295 to £303.
+
+The amount to be allowed in respect of a student’s travel costs has been changed to a flat amount of £250 to reflect changes introduced by the Education (Student Support) Regulations (Northern Ireland) 1999.
+
+An amount will be allowed for the above costs whether or not the costs are actually incurred by a student.
+
+The Regulations provide that a student’s loan income shall include loans actually made, those that would be made if applied for and any contributions that have been taken into account in making a student loan.
+
+Regulations 5(2) and 6(2), in respect of family credit and disability working allowance, amend the definition of “contribution” to mirror the definition that applies in the other benefits covered by these Regulations. These amendments allow contributions to be claimed in respect of Scottish students' allowances and bursaries.
+
+Regulation 4(3), in respect of Housing Benefit only, increases the amount of the deduction to be made in calculating a student’s eligible rent.
+
+In so far as these Regulations are required, for the purposes of regulation 4, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) 1992, (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-38216e0738dbf406b00dfdd3dee1c555]: Commencement: Reg. 1 in operation at 1.8.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/a)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-dadeebacacf08655a1b48d7ae6606002]: Commencement: Reg. 2 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b)
+
+[^key-703d3b78a4f9573487b2a7271ab91ca9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/317/regulation/2) in operation at 30.8.1999 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b/ii)
+
+[^f00006]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1997 No. 222](https://www.legislation.gov.uk/nisr/1997/222) and [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^key-a15aff04f82047051c416332cd3f5a95]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/2/2/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+
+[^f00008]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760); see the Education (Student Support) Regulations (Northern Ireland) 1999 ([S.R. 1999 No. 192](https://www.legislation.gov.uk/nisr/1999/192)) for loans to students commencing courses after 1st September 1998 and the Education (Student Loans) Regulations (Northern Ireland) 1998 ([S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58))
+
+[^f00009]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); see the Education (Student Support) Regulations 1999 ([S.I. 1999/496](https://www.legislation.gov.uk/uksi/1999/496)) and the Education (Student Loans) Regulations 1998 ([S.I. 1998/211](https://www.legislation.gov.uk/uksi/1998/211))
+
+[^f00010]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44); section 73(f) was amended by section 29(1) of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30); see the Education (Student Loans) (Scotland) Regulations 1999 ([S.I. 1999/1001](https://www.legislation.gov.uk/uksi/1999/1001) (s. 71)) and the Education (Student Loans) Regulations 1998
+
+[^f00011]: Footnote: Regulation 131(2)(f) was amended by regulation 2(e) of [S.R. 1998 No. 204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^f00012]: Footnote: Regulation 137A was inserted by regulation 3(3) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^f00013]: Footnote: Paragraph 57 was added by regulation 2(3)(b) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^key-b1a55facac1ee5c3c31a010590e54df3]: Commencement: Reg. 3 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b)
+
+[^key-4d8aac57b4dc312558760c3cd89d640a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/317/regulation/3) in operation at 30.8.1999 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b/ii)
+
+[^f00014]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 Nos. 93](https://www.legislation.gov.uk/nisr/1996/93), [199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22) and [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^key-d8dc97f8dbdc4e7c2b5ae47a8f2bebe7]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/3/2/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+
+[^f00016]: Footnote: The definition of “year” was amended by regulation 5 of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
+
+[^f00017]: Footnote: Regulation 62(2)(g) was amended by regulation 5(9)(b) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405) and regulation 2(a) of [S.R. 1998 No. 204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^f00018]: Footnote: Regulation 62(2A) was inserted by regulation 7(a) of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
+
+[^f00019]: Footnote: Regulation 66(1) was amended by regulation 4(5)(a) and (b) of [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77)
+
+[^f00020]: Footnote: Regulation 66A was inserted by regulation 4(7) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
+
+[^f00021]: Footnote: Regulation 66A(1) was amended by regulation 8 of [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46)
+
+[^f00022]: Footnote: Regulation 66A(3) was substituted by regulation 8(1) and (2)(a) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00023]: Footnote: Schedule 1B was inserted by regulation 22 of, and Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
+
+[^f00024]: Footnote: Regulation 67 was amended by regulation 9(1) and (2)(a) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00025]: Footnote: Regulation 67A was inserted by regulation 3 of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^f00026]: Footnote: Paragraph 59 was added by regulation 2(2)(b) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
+
+[^key-fd874c69530f02243fad5e721111fab5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/317/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-2bcef253a04b401992f7250d29e3e217]: Commencement: Reg. 5 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d)
+
+[^key-1eaf34d83f0d7c71fb285b48d3b61ce5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/317/regulation/5) in operation at 31.8.1999 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d/ii)
+
+[^f00039]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 326](https://www.legislation.gov.uk/nisr/1991/326), [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93) and [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^f00040]: Footnote: The definition of “contribution” was amended by regulation 3(1) and (2)(b) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^f00041]: Footnote: [S.I. 1996/1754](https://www.legislation.gov.uk/uksi/1996/1754)
+
+[^f00042]: Footnote: [S.I. 1995/1739](https://www.legislation.gov.uk/uksi/1995/1739)
+
+[^f00043]: Footnote: Regulation 38(2)(f) was amended by regulation 2(c) of [S.R. 1998 No. 204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^f00044]: Footnote: Regulation 38(2A) was inserted by regulation 10(b) of [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148)
+
+[^f00045]: Footnote: Regulation 42 was amended by regulation 3(13)(a) and (b) of [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77)
+
+[^f00046]: Footnote: Regulation 42A was inserted by regulation 2(5) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
+
+[^f00047]: Footnote: Regulation 42A(1) was amended by regulation 8(a) of [S.R. 1991 No. 326](https://www.legislation.gov.uk/nisr/1991/326)
+
+[^f00048]: Footnote: Regulation 42A(3) was substituted by regulation 8 of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00049]: Footnote: Regulation 43 was amended by regulation 9(1) and (2)(c) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00050]: Footnote: Regulation 43A was inserted by regulation 3(3) and (4)(b) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^key-1c3acd5d66473de9488ed7de9b060bc6]: Commencement: Reg. 6 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d)
+
+[^key-77c6eb66528387bcc2560be3ea4b2206]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/317/regulation/6) in operation at 31.8.1999 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d/ii)
+
+[^f00051]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending Regulations are [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93), [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^f00052]: Footnote: The definition of “contribution” was amended by regulation 3(1) and (2)(a) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
+
+[^f00053]: Footnote: Regulation 42(2)(e) was amended by regulation 2(d) of [S.R. 1998 No. 204](https://www.legislation.gov.uk/nisr/1998/204)
+
+[^f00054]: Footnote: Regulation 42(2A) was inserted by regulation 2(10)(b) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403)
+
+[^f00055]: Footnote: Regulation 46 was amended by regulation 2(6)(a) and (b) of [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77)
+
+[^f00056]: Footnote: Regulation 47(3) was substituted by regulation 8(1) and (2)(d) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00057]: Footnote: Regulation 48 was amended by regulation 9(1) and (2)(d) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^f00058]: Footnote: Regulation 48A was inserted by regulation 3(3) and (4)(a) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)

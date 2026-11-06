@@ -1,0 +1,854 @@
+---
+title: The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005
+id: nisr/2005/569
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-12-16'
+text_date: '2024-03-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/569
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/569/pdfs/nisr_20050569_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/569/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005
+
+> Text as at 2024-03-30.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 569
+
+PENSIONS
+
+The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005
+
+Made
+
+16th December 2005
+
+Coming into operation
+
+30th December 2005
+
+The Department for Social Development, in exercise of the powers conferred by Articles 35(1), (3), (4) and (7), 36(1), (1A) and (9), 36A, 40(1) and (2), 115(1), 120(2), 122(3) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-d60ae94eb81dd55110a0248f9a1ef9ca]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 and shall come into operation on 30th December 2005.
+
+(2) In these Regulations—
+
+- “the 1995 Order” means the Pensions (Northern Ireland) Order 1995;
+- “the 2005 Order” means the Pensions (Northern Ireland) Order 2005[^f00003];
+- “the FSM Act” means the Financial Services and Markets Act 2000[^f00004];
+- “the Taxes Act 1988” means the Income and Corporation Taxes Act 1988[^f00005];
+- “collective investment scheme” has the same meaning as in Part XVII of the FSM Act, but includes arrangements of the type described in paragraphs 4 and 9 of the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^f00006] (arrangements not amounting to a collective investment scheme);
+- “default arrangement”, means an arrangement, within the meaning of regulation 3 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015, which would be a default arrangement within the meaning of that regulation if that regulation were modified as follows—[^key-18b4c6e45335e075ff6113aed25a0b0a]
+  - (a) in paragraph (1)(a)—
+    - (i) omit “qualifying”;
+    - (ii) for “relevant jobholders” substitute “workers”;
+  - (b) in paragraph (2)(b) omit “subject to paragraph (3),”;
+  - (c) omit paragraphs (3), (4), (6)(a), (7) and (8)[^key-f781cd7408fb13de1fabf47642fdcf2f];
+  - (d) in paragraph (9)—
+    - (i) in the definition of “relevant date” omit the words after “regulation 1(2)”;
+    - (ii) omit the definitions of “relevant jobholder” and “staging date”;
+- “employer-related loan” has for the purposes of regulations 12, 14, 15 and 15A[^key-04801922decc954b8004070307af3c72] the meaning given in regulation 12(4);
+- “insurance policy” means a contract of a kind referred to in Article 2(3) of the Solvency 2 Directive, but excluding a contract of a kind referred to in Article 2(3)(b)(iii) or (iv) of that Directive[^key-6f8d01813d7f610bd7c302d17133e77b];
+- [^key-4d21602dd4c882870960f536c7a4e05d]...
+- “qualifying insurance policy” means an insurance policy issued by an insurer which is—
+  - (a) a person who has permission under Part IV of the FSM Act to effect or carry out contracts of long-term insurance, [^key-cffa172c42991f2f21c104cb3232a738]...
+  - (b) [^key-cffa172c42991f2f21c104cb3232a738]...
+- “recognised stock exchange” has the same meaning as in section 841 of the Taxes Act 1988;
+- “relevant scheme” has the same meaning as in the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997;[^key-fac10ac79a033c67ffc90f3a39baf363]
+- “scheme” (except in the expression “collective investment scheme”) means an occupational pension scheme;
+- [^key-fec4e8bd41dd0de3210a7fcb3ba6c1ed]...
+- “small scheme” means a scheme with fewer than 12 members, where—
+  - (a) all the members are trustees of the scheme and either—
+    - (i) the provisions of the scheme provide that all decisions which fall to be made by the trustees are made by the unanimous agreement of[^key-d281ac33ae30dd196ac1927312dd911a] the trustees who are members of the scheme, or
+    - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of Article 23[^f00008] (power to appoint independent trustees), and is registered in the register maintained by the Authority in accordance with regulations made under paragraph (4) of that Article, or
+  - (b) all the members are directors of a company which is the sole trustee of the scheme, and either—
+    - (i) the provisions of the scheme provide that any decisions made by the company in its capacity as trustee are made by the unanimous agreement of all the directors who are members of the scheme, or
+    - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of Article 23, and is registered in the register maintained by the Authority in accordance with regulations made under paragraph (4) of that Article;
+- “[^key-9e50c838d9ac6ee15913cb530e86ed6e]**the Solvency 2 Directive**” means Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);
+- “specified qualifying insurance policy” means a qualifying insurance policy which is a contract falling within paragraphs I or III[^key-2d0eab8d6f1ec0587b0fb9916431c6e4] of Part II of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00009].
+
+(3) Regulations 12(4)(b), 13(3) and 15(1) must be read with—
+
+- (a) section 22 of the FSM Act (the classes of activity and categories of investment);
+- (b) any relevant order under that section, and
+- (c) Schedule 2 to that Act (regulated activities).
+
+(4) Subject to paragraph (5) and for the purposes of Articles 35 (investment principles) and 40 (restriction on employer-related investments), “employer”, in relation to a scheme which has no active members, includes every person who was the employer of persons in the description of employment to which the scheme relates immediately before the time at which the scheme ceased to have any active members in relation to it.
+
+(5) In these Regulations, save in relation to regulation 16A,[^key-9bc3412a0c40f1e86fc6a6abc2d28519] “employer”, in relation to a multi-employer scheme, or a section of a multi-employer scheme, includes—
+
+- (a) in the case of a scheme which has no active members, every person who was the employer of persons in the description of employment to which the scheme, or section, relates immediately before the time at which the scheme, or section, ceased to have any active members in relation to it unless after that time—
+  - (i) a debt under Article 75[^f00010] (deficiencies in the assets) becomes due from that person to the scheme, or section, and
+  - (ii) either—
+    - (aa) the full amount of the debt has been paid by that person to the trustees or managers of the scheme, or section, or
+    - (bb) in circumstances where a legally enforceable agreement has been entered into between that person and the trustees or managers of the scheme, or section, the effect of which is to reduce the amount which is payable in respect of the debt, the reduced amount of the debt has been paid in full by that person to those trustees or managers, and
+- (b) in any other case, any person who has ceased to be the employer of persons in the description of employment to which the scheme, or section, relates unless—
+  - (i) at the time when he so ceased, the scheme, or section, was not being wound up and continued to have active members in relation to it, and
+  - (ii) a debt under Article 75 became due at that time from that person to the scheme, or section, and either—
+    - (aa) the full amount of the debt has been paid by that person to the trustees or managers of the scheme, or section, or
+    - (bb) in circumstances where a legally enforceable agreement has been entered into between that person and the trustees or managers of the scheme, or section, the effect of which is to reduce the amount which is payable in respect of the debt, the reduced amount of the debt has been paid in full by that person to those trustees or managers.
+
+(6) For the purposes of these Regulations, and not withstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00011], where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+(7) In these Regulations any reference to a numbered Article is a reference to the Article of the 1995 Order bearing that number.
+
+## 2. Statement of investment principles[^key-f0c41792ddcc6dbc847d398341a519f1]
+
+(1) The trustees of a trust scheme must secure that the statement of investment principles prepared for the scheme under Article 35 is reviewed—
+
+- (a) at least every three years, and
+- (b) without delay after any significant change in investment policy.
+
+(2) Before preparing or revising a statement of investment principles, the trustees of a trust scheme must—
+
+- (a) obtain and consider the written advice of a person who is reasonably believed by the trustees to be qualified by his ability in and practical experience of financial matters and to have the appropriate knowledge and experience of the management of the investments of such schemes, and
+- (b) consult the employer.
+
+(3) A statement of investment principles must be in writing and must cover at least the following matters—
+
+- (a) the trustees' policy for securing compliance with the requirements of Article 36 (choosing investments);
+- (b) their policies in relation to—
+  - (i) the kinds of investments to be held;
+  - (ii) the balance between different kinds of investments;
+  - (iii) risks, including the ways in which risks are to be measured and managed;
+  - (iv) the expected return on investments;
+  - (v) the realisation of investments;[^key-0430714262e9b4f717a03f02ab06f7dc]
+  - (vi)[^key-099e843980674b6743ab54472cf70bfa] financially material considerations over the appropriate time horizon of the investments, including how those considerations are taken into account in the selection, retention and realisation of investments, and
+  - (vii)[^key-c96ddbce13ea94db38f89b8c2c2807ee] the extent (if at all) to which non-financial matters are taken into account in the selection, retention and realisation of investments;
+- (c)[^key-cccc0599a28cc4f20889443d75eac907] their policy in relation to—
+  - (i) the exercise of the rights (including voting rights) attaching to the investments, and
+  - (ii) undertaking engagement activities in respect of the investments (including the methods by which, and the circumstances under which, trustees would monitor and engage with relevant persons about relevant matters), and
+- (d)[^key-c2fefe9fed2441ce7ef8d33e31a2303c] their policy in relation to the trustees’ arrangement with any asset manager, setting out the following matters or explaining the reasons why any of the following matters are not set out—
+  - (i) how the arrangement with the asset manager incentivises the asset manager to align its investment strategy and decisions with the trustees’ policies mentioned in sub-paragraph (b);
+  - (ii) how that arrangement incentivises the asset manager to make decisions based on assessments about medium to long-term financial and non-financial performance of an issuer of debt or equity and to engage with issuers of debt or equity in order to improve their performance in the medium to long-term;
+  - (iii) how the method (and time horizon) of the evaluation of the asset manager’s performance and the remuneration for asset management services are in line with the trustees’ policies mentioned in sub-paragraph (b);
+  - (iv) how the trustees monitor portfolio turnover costs incurred by the asset manager, and how they define and monitor targeted portfolio turnover or turnover range, and
+  - (v) the duration of the arrangement with the asset manager.
+
+(4)[^key-6f5b1c3b3afe94dd9c94d2dfc8d637c2] For the purposes of this regulation—
+
+- “**appropriate time horizon**” means the length of time that the trustees of a trust scheme consider is needed for the funding of future benefits by the investments of the scheme;
+- “**beneficiaries**” means a person, other than a member of the trust scheme, who is entitled to the payment of benefits under the scheme;
+- “**financially material considerations**” includes (but is not limited to) environmental, social and governance considerations (including but not limited to climate change), which the trustees of the trust scheme consider financially material;
+- “**non-financial matters**” means the views of the members and beneficiaries including (but not limited to) their ethical views and their views in relation to social and environmental impact and present and future quality of life of the members and beneficiaries of the trust scheme;
+- “portfolio turnover costs” means the costs incurred as a result of the buying, selling, lending or borrowing of investments;[^key-7542af70cc4e6110092e4e0ea005141c]
+- “**relevant matters**” includes (but is not limited to) matters concerning an issuer of debt or equity, including their performance, strategy, capital structure, management of actual or potential conflicts of interest, risks, social and environmental impact and corporate governance;[^key-318f1eccfe37659532c5b33b99159fce]
+- “**relevant persons**” includes (but is not limited to) an issuer of debt or equity, an investment manager, another stakeholder or another holder of debt or equity;[^key-537d7fe55d273be60a5b2e289292957f]
+- “stakeholder” means a person or a group of persons who has an interest in the issuer of debt or equity;[^key-9e8c9e5b86f41eeea38f29a7a8329a56]
+- “targeted portfolio turnover” means the frequency within which the assets of the scheme are expected to be bought or sold;
+- “time horizon” means the time period over which the trustees evaluate the performance of the asset manager;
+- “turnover range” means the minimum and maximum frequency within which the assets of the scheme are expected to be bought or sold.
+
+## 2A. Additional requirements in relation to default arrangement[^key-fa07bf51ac499b8a4b54a019dd5267c3]
+
+(1) The trustees or managers of a relevant scheme must prepare a statement of the investment principles governing decisions about investments for the purposes of the default arrangement, and that statement must be in writing and must cover at least the following matters—
+
+- (a) the aims and objectives of the trustees or managers in respect of such investments;
+- (aa)[^key-7bc39b0353cc0a0d0b823a429bbc3bca] their policy in relation to investment in illiquid assets;
+- (b) their policies in relation to the matters mentioned in regulation 2(3)(b) and, if that scheme has 100 or more members, regulation 2(3)(c) and (d)[^key-d31c4fddb7ed27b12b00d38fa81f784a] in respect of the default arrangement, and
+- (c) an explanation of how the aims and objectives mentioned in sub-paragraph (a) , the policy mentioned in sub-paragraph (aa)[^key-16127e66867d5a7eb137f524d7badcf7] and the policies mentioned in sub-paragraph (b) (together “the default strategy”) are intended to ensure that assets are invested in the best interests of the group of persons consisting of relevant members and relevant beneficiaries.
+
+(1A)[^key-e345ec6fb41c5b08c30fd6a96a8e207c] For the purposes of paragraph (1)(aa), their policy in relation to investment in illiquid assets must include—
+
+- (a) a statement as to whether or not investments held for the purposes of the default arrangement will include illiquid assets;
+- (b) where those investments will include illiquid assets—
+  - (i) a description of the age profile of those members in respect of whom investments will be held in illiquid assets;
+  - (ii) an explanation of whether investments will be held directly in illiquid assets, or via a collective investment scheme;
+  - (iii) an explanation of the types of illiquid assets in which investments will be held, and
+  - (iv) an explanation of why the trustees or managers have a policy of investing in illiquid assets including their assessment of the advantages to members of investing in illiquid assets, when compared to investments in other classes of assets;
+- (c) where those investments will not include illiquid assets, an explanation of why the trustees or managers have a policy of not investing in illiquid assets, and
+- (d) an explanation of whether the trustees have any plans to invest in illiquid assets or increase their investment in illiquid assets, in the future.
+
+(2) The trustees or managers must review both the default strategy and the performance of the default arrangement—
+
+- (a) at least every three years, and
+- (b) without delay after any significant change in—
+  - (i) investment policy, or
+  - (ii) the demographic profile of relevant members.
+
+(3) The trustees or managers must, in particular, review the extent to which the return on investments relating to the default arrangement (after deduction of any charges and transaction costs[^key-f704dd58feddf835dabde397a58c3e13] relating to those investments) is consistent with the aims and objectives of the trustees or managers in respect of the default arrangement.
+
+(4) The trustees or managers must revise the statement prepared in accordance with paragraph (1) after every review unless they decide that no action is needed as a result of the review in paragraph (3).
+
+(5) For the purposes of this regulation and regulation 4A, a person is a relevant member or a relevant beneficiary if assets relating to that member or, as the case may be, that beneficiary (as defined in regulation 4(11)), are invested in the default arrangement.
+
+(6)[^key-4d8ecc6cd347736cbc2457b039edcbe5] For the purposes of this regulation, “**transaction costs**” has the meaning given in regulation 2(1) of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015.
+
+(6A)[^key-b51b17a875a7a65a13937d0cb1acbc0e] For the purposes of this regulation, “**illiquid assets**” means assets of a type which cannot easily or quickly be sold or exchanged for cash and, where assets are invested in a collective investment scheme, includes any such assets held by the collective investment scheme.
+
+(7)[^key-98ef81df52d5bc87db82db614a3562e6] This regulation does not apply to a scheme or a section of a scheme which is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (collective money purchase benefits: Northern Ireland).
+
+## 2B. Additional requirements in relation to qualifying collective money purchase schemes[^key-cba7169966303a61b5abbd37c910170a]
+
+(1) The trustees of a qualifying collective money purchase scheme must ensure that the statement of investment principles prepared under Article 35 covers their policy in relation to investment in illiquid assets with respect to assets held for the purposes of the qualifying collective money purchase scheme.
+
+(2) For the purposes of this regulation, their policy in relation to investment in illiquid assets must include—
+
+- (a) a statement as to whether or not investments held for the purposes of the qualifying collective money purchase scheme will include illiquid assets;
+- (b) where those investments will include illiquid assets—
+  - (i) a description of the age profile of those members in respect of whom investments will be held in illiquid assets;
+  - (ii) an explanation of whether investments will be held in respect of the qualifying collective money purchase scheme directly in illiquid assets, or via a collective investment scheme;
+  - (iii) an explanation of the types of illiquid assets in which investments will be held, and
+  - (iv) an explanation of why the trustees have a policy of investing in illiquid assets, including their assessment of the advantages to members of the qualifying collective money purchase scheme of investing in illiquid assets, when compared to investments in other classes of assets;
+- (c) where those investments will not include illiquid assets, an explanation of why the trustees have a policy of not investing in illiquid assets, and
+- (d) an explanation of whether the trustees have any plans to invest in illiquid assets or increase their investment in illiquid assets for the purposes of the qualifying collective money purchase scheme, in the future.
+
+(3) For the purposes of this regulation—
+
+- “**illiquid assets**” has the same meaning as in regulation 2A(6A);
+- “**qualifying collective money purchase scheme**” has the meaning given in regulation 2(1) of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015.
+
+## 3. Application of regulation 2 in relation to multi-employer schemes[^key-64dedfbe00b6abdf430664a89b52bf54]
+
+(1) In the application of regulation 2 to a scheme in relation to which there is more than one employer, the requirement imposed by paragraph (2)(b) of that regulation—
+
+- (a) where a person has been nominated by all the employers to act as their representative for the purposes of that paragraph, is to consult that person;
+- (b) where no person has been so nominated but the employers have not all notified the trustees that they need to be consulted, is (subject to paragraph (2)) to consult all the employers, and
+- (c) where no person has been so nominated and the employers have all notified the trustees that they need not be consulted, does not apply.
+
+(2) Where the trustees specify a reasonable period (not being less than 28 days) within which they must receive representations from the employers, sub-paragraph (1)(b) does not require them to consider any representations received after the end of that period.
+
+## 4. Investment by trustees[^key-5ead038e8d1fc834e11623d7a5217563]
+
+(1) The trustees of a trust scheme must exercise their powers of investment, and any fund manager to whom any discretion has been delegated under Article 34[^f00012] (power of investment and delegation) must exercise the discretion, in accordance with this regulation.
+
+(2) The assets must be invested—
+
+- (a) in the best interest of members and beneficiaries, and
+- (b) in the case of a potential conflict of interest, in the sole interest of members and beneficiaries.
+
+(3) The powers of investment, or the discretion, must be exercised in a manner calculated to ensure the security, quality, liquidity and profitability of the portfolio as a whole.
+
+(4) Assets held to cover the scheme’s technical provisions must also be invested in a manner appropriate to the nature and duration of the expected future retirement benefits payable under the scheme.
+
+(5) The assets of the scheme must consist predominantly of investments admitted to trading on regulated markets.
+
+(6) Investment in assets which are not admitted to trading on such markets must in any event be kept to a prudent level.
+
+(7) The assets of the scheme must be properly diversified in such a way as to avoid excessive reliance on any particular asset, issuer or group of undertakings and so as to avoid accumulations of risk in the portfolio as a whole. Investments in assets issued by the same issuer or by issuers belonging to the same group must not expose the scheme to excessive risk concentration.
+
+(8) Investment in derivative instruments may be made only in so far as they—
+
+- (a) contribute to a reduction of risks, or
+- (b) facilitate efficient portfolio management (including the reduction of cost or the generation of additional capital or income with an acceptable level of risk),
+
+and any such investment must be made and managed so as to avoid excessive risk exposure to a single counterparty and to other derivative operations.
+
+(9) For the purposes of paragraph (5)—
+
+- (a) an investment in a collective investment scheme shall be treated as an investment on a regulated market to the extent that the investments held by that scheme are themselves so invested, and
+- (b) a qualifying insurance policy shall be treated as an investment on a regulated market.
+
+(10) To the extent that the assets of a scheme consist of qualifying insurance policies, those policies shall be treated as satisfying the requirement for proper diversification when considering the diversification of assets as a whole in accordance with paragraph (7).
+
+(11) In this regulation—
+
+- “beneficiary”, in relation to a scheme, means a person, other than a member of the scheme, who is entitled to the payment of benefits under the scheme;
+- “derivative instrument” includes any of the instruments listed in paragraphs (4) to (10) of Part 1 of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-d3ad98dd23750aae502f2a337eb4b428];
+- “regulated market” means—
+  - (a) [^key-56320c9cdee6c1acb5551b877b6d3bc5]...
+  - (b) a UK regulated market or an[^key-528288a8a6fe0ecf07b90a66c5a077e2] EU regulated market within the meaning of Article 2.1.13A and 2.1.13B respectively of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments, or
+  - (c) any other market for financial instruments—
+    - (i) which operates regularly;
+    - (ii) which is recognised by the relevant regulatory authorities;
+    - (iii) in respect of which there are adequate arrangements for unimpeded transmission of income and capital to or to the order of investors, and
+    - (iv) in respect of which adequate custody arrangements can be provided for investments when they are dealt in on that market;
+- “technical provisions” has the meaning given by Article 201(2) of the 2005 Order (the statutory funding objective).
+
+## 4A. Investments relating to a default arrangement[^key-7cd07345f322931e44ffed8897b26f23]
+
+Where regulation 4(2) does not apply to a relevant scheme, the assets allocated to the scheme’s default arrangement must be invested—
+
+- (a) in the best interests of relevant members and relevant beneficiaries, and
+- (b) in the case of a potential conflict of interest, in the sole interest of those members and beneficiaries.
+
+## 5. Borrowing and guarantees by trustees[^key-6b35f0d9630c4926220503573649598a]
+
+(1) Except as provided in paragraph (2), the trustees of a trust scheme, and a fund manager to whom any discretion has been delegated under Article 34, must not borrow money or act as a guarantor in respect of the obligations of another person where the borrowing is liable to be repaid, or liability under a guarantee is liable to be satisfied, out of the assets of the scheme.
+
+(2) Paragraph (1) does not preclude borrowing made only for the purpose of providing liquidity for the scheme and on a temporary basis.
+
+## 6. Disapplication of Article 35 and of regulations 2 , 2B and 3 in respect of certain schemes[^key-a4973f8d91be05f8b2b4b2945f080c05][^key-07ff2eaa2c8b4f8525c673b95becef48]
+
+(1) Article 35 and regulations 2 , 2B[^key-2c12390463e8e8a0297afd4715fa3545] and 3 shall not apply to any of the following schemes—
+
+- (a) a scheme which has fewer than 100 members, or
+- (b) a scheme which is—
+  - (i) established by, or under, a statutory provision, and
+  - (ii) guaranteed by a public authority.
+
+(2) In this regulation—
+
+- “local authority” has the meaning given by Article 2(2) of the Superannuation (Northern Ireland) Order 1972[^f00015];
+- “public authority” means—
+  - (a) a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975[^f00016]);
+  - (b) a government department (including any body or authority exercising statutory functions on behalf of the Crown), or
+  - (c) a local authority.
+
+## 7. Disapplication of regulations 4 and 5 in respect of schemes with fewer than 100 members[^key-cbf5eb06e269e9cc16dfb72b782e956d]
+
+(1) Regulations 4 and 5 do not apply to a scheme which has fewer than 100 members.
+
+(2) Where regulation 4 does not apply to a scheme by virtue only of paragraph (1), the trustees of the scheme in exercising their powers of investment, and any fund manager to whom any discretion has been delegated under Article 34 in exercising the discretion, must have regard to the need for diversification of investments, in so far as appropriate to the circumstances of the scheme.
+
+## 8. Modification of regulation 2 in respect of wholly-insured schemes[^key-fccd7b3dd6bbcff6b33336abba485e3d]
+
+(1) Where, on the preparation or revision of a statement of investment principles under regulation 2, a scheme is a wholly-insured scheme and the trustees do not consider that it should cease to be such a scheme—
+
+- (a) sub-paragraphs (b), (c) and (d)[^key-99fbbf909abe43283f6e187838bf044c] of regulation 2(3) shall not apply, and
+- (b) the statement of investment principles must cover the reasons for the scheme being a wholly-insured scheme.
+
+(2) In this regulation, “wholly-insured scheme” means a trust scheme, other than a stakeholder pension scheme within the meaning of Article 3 of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00017] (meaning of “stakeholder pension scheme”), which has no investments other than specified qualifying insurance policies.
+
+(3) For the purposes of paragraph (2), “investments” shall not include—
+
+- (a) cash held on deposit by the trustees or managers pending payment to the insurer or to members of the scheme;
+- (b) cash held on deposit by the trustees or managers to meet accrued liabilities or administrative expenses, or
+- (c) any investments arising from voluntary contributions.
+
+## 9. Partial disapplication of regulation 4 in respect of schemes being wound up[^key-c643e288afc7582ce8bf912f83488e32]
+
+(1) The requirements of regulation 4(3) to (7) shall apply in respect of a scheme which is being wound up except to the extent that—
+
+- (a) they conflict with any obligations placed on the trustees arising in consequence of the winding up under or by virtue of the 1995 Order or the 2005 Order, or
+- (b) it is not reasonably practicable to give effect to them having regard to circumstances in connection with the winding up.
+
+(2) For the purposes of paragraph (1), a scheme shall be taken to be being wound up during the period which—
+
+- (a) begins with the day on which the time immediately after the beginning of the winding up of the scheme falls, and
+- (b) ends when the winding up of the scheme is completed.
+
+## 10. Connected and associated persons[^key-ce271ba61a1b3c4cc66469c0fb8eb817]
+
+Articles 4 and 7 of the Insolvency (Northern Ireland) Order 1989[^f00018] (associated and connected persons) shall be modified in their application for the purposes of Article 40 (restriction on employer-related investments) and these Regulations so that a company shall not be connected with another company solely by reason of one or more of its directors being a director of that other company.
+
+## 11. Prescription of investments as employer-related investments[^key-d480b329e3cbbcd467b96d5397c2bfd0]
+
+For the purposes of Article 40(2)(e), the following are prescribed as employer-related investments—
+
+- (a) the proportion attributable to the scheme’s resources (whether directly or through any intervening collective investment scheme) of any investments which—
+  - (i) have been made by the operator of any collective investment scheme, and
+  - (ii) would have been employer-related investments if they had been made by the scheme;
+- (b) any guarantee of, or security given to secure, obligations of the employer or of any person who is connected with, or an associate of, the employer, and for the purposes of Article 40 and these Regulations a guarantee or security given by the trustees or managers shall be regarded as an investment of resources of the scheme equal to the amount of the obligations guaranteed or secured;
+- (c) any loan arrangement entered into with any person whereby the trustees' or managers' right to or expectation of repayment depends on the employer’s actions or situation, unless it was not the trustees' or managers' purpose in entering into the arrangement to provide financial assistance to the employer;
+- (d) where any of a scheme’s resources are invested in an insurance policy the terms of which permit—
+  - (i) the premiums or other consideration for the rights acquired under the policy, or
+  - (ii) any monies otherwise credited to or for the benefit of the trustees or managers or the members,
+
+  to be invested in a fund created only for the purposes of that policy, the proportion of the scheme’s resources invested in that policy which is the same proportion as B is of A where—
+
+  - A represents all the assets of the insurer held in the fund, and
+  - B represents that part of A which would, if invested by the scheme, be employer-related investments, and
+- (e) where any of a scheme’s resources are invested in an insurance policy (not being resources invested in a fund created only for the purposes of that policy) the terms of which permit the trustees or managers or the employer to direct that—
+  - (i) some or all of the premiums or other consideration for the rights acquired under the policy, or
+  - (ii) any monies otherwise credited to or for the benefit of the trustees or managers or the members,
+
+  are invested in employer-related investments, any investments made by the insurer from those premiums or other consideration or monies, which would have been employer-related investments if they had been made by the scheme.
+
+## 12. Restrictions on employer-related investments[^key-c4f1e4dce5cf8ca44b83081fadc7000d]
+
+(1) This regulation applies to schemes[^key-3f2401bde391baa762989f433a08e012] except small schemes.
+
+(2)[^key-88431a4c4ed37b922225c54e012d379b] Subject to regulations 13, 16, 16A and 16B[^key-4e914fbf80ae2037c86a7f913c4511bd], not more than 5 per cent. of the current market value of the resources of a scheme may at any time be invested in employer-related investments.
+
+(2A) Subject to regulations 14, 15, 15A, 16, 16A and 16B[^key-8fc35c163a4d61daed8b84110a863086], none of the resources of a scheme may at any time be invested in any employer-related loan.
+
+(2B) Subject to regulations 16 and 16A[^key-6eadecea6279b6bb0a7e66cc0e5d2fc6], employer-related loans under regulations 14, 15, 15A, 16A(9) and 16B[^key-c8f3d5270b1ee1ace7b91eb86076a4d4] are to be regarded as employer-related investments for the purposes of determining the percentage of a scheme’s resources invested in employer-related investments under paragraph (2).
+
+(3) Subject to regulations 16A and 16B, none of the resources[^key-099670a0f2557bc937b3262090d46332] of a scheme may at any time be invested in any employer-related investment the making of which involves the entering by the trustees or managers into a transaction at an undervalue where the agreement to enter into that transaction was made on or after 6th April 1997.
+
+(4) In this regulation and in regulations 14, 15 and 15A[^key-17b3bc34b4e462e6debf0e3581d8c976] “employer-related loan” means—
+
+- (a) a loan mentioned in Article 40(2)(d) (including, for the purposes of this regulation only, one which falls within Article 40(2)(d) by virtue of Article 40(3));
+- (b) a security mentioned in Article 40(2)(a) which is an instrument creating or acknowledging indebtedness, except any such security which is listed on a recognised stock exchange, and
+- (c) an employer-related investment prescribed as such by regulation 11(b) or (c).
+
+(5) In paragraph (3), “transaction at an undervalue” has the same meaning in relation to trustees and managers as it has in Article 202(4) of the Insolvency (Northern Ireland) Order 1989 in relation to a company to which that Article applies.
+
+## 13. Investments to which restrictions do not apply[^key-149ffe8bda27f7268f37b6cb9b325edd]
+
+(1) Regulation 12(1) shall not restrict or prohibit investments to which this regulation applies.
+
+(2)[^key-12b4dc32636a8dcb847214fec6f71fa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-91c5ed2026e05f7243dd33e3b454f923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-91c5ed2026e05f7243dd33e3b454f923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) This regulation applies to sums due from the employer to the trustees by virtue of a provision in an order under Article 7[^f00019] (appointment of trustees) such as is permitted by Article 8(1)[^f00020] (orders appointing trustees may provide that certain sums are to be treated as a debt due from the employer to the trustees).
+
+(6) This regulation applies to sums which fall or fell to be treated as debts due from the employer to the trustees or managers by virtue of—
+
+- (a) Article 75(2) and (4)[^f00021] (deficiencies in the assets);
+- (b) Article 86(2) (schedules of payments to money purchase schemes: supplementary – amounts not paid in accordance with the payment schedule), [^key-556326f90d25c53cb51f6fae4ab33378]...
+- (c) Article 207(3) of the 2005 Order (failure to make payments),
+- (d)[^key-30eb43bb98f72abe82505303bf41b18c] Article 59(2) (determination of contributions: supplementary), or
+- (e) Article 60(5) (serious underprovision),
+
+and to sums which would fall to be so treated by virtue of any of those Articles were they not already debts due from the employer to the trustees or managers.
+
+(7)[^key-7a06ac8e389ff452d24bc08da4cc7dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-d335a3ea8968a906be1516f8f736a108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-4f55f96cceb18d584008d9e28f266264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Subject to paragraph (11), where the disposal of assets on the winding up of a scheme would otherwise result in a contravention of these Regulations and where it would not be reasonably practicable to otherwise dispose of them[^key-11e10d82f9e2299292ff937e6a80b0c6], any employer-related investments held before the commencement of the winding up may be retained while the scheme is being wound up, but there shall be no new investment in employer-related investments while the resources retained under this paragraph exceed 5 per cent. of the current market value of the resources of the scheme.
+
+(11) Paragraph (10) does not apply to permit the retention of—
+
+- (a) employer-related investments which were, prior to the commencement of the winding up, held in contravention of these Regulations or of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996[^f00023], or
+- (b) employer-related loans to which regulation 14(2)(c) applies.
+
+(12) This regulation applies to a loan to the employer or a company associated with the employer, if the scheme has fewer than 100 members, and—
+
+- (a) the scheme provides benefits for directors of a company which is the employer, or such directors and others;
+- (b) there is a qualifying insurance policy taken out under the scheme which is specifically allocated to the provision of benefits under the scheme and the directors' interests under which are used as security for the loan;
+- (c) Her Majesty’s Revenue and Customs' requirements concerning the loan have been satisfied;
+- (d) the directors agreeing to the interests under the policy concerned being used as security for the loan have so agreed in writing, and
+- (e) the loan was made and the security given before 9th August 1999.
+
+(13)[^key-60053d7b84c51aef93e0ca9e4bcd930a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Transitional provisions[^key-b1b6048c5e6a078b112d68339d0dcc68]
+
+(1) Where on 6th April 1997 the resources of a scheme were invested in—
+
+- (a) employer-related loans (including such loans as are mentioned in regulation 5(2)(a) of the Occupational Pension Schemes (Investment of Scheme’s Resources) Regulations (Northern Ireland) 1992[^f00024] (“the 1992 Regulations”)) which were in being on 18th December 1996 and to which regulation 13 does not apply, [^key-7a8710f68d3ab500038a40ec124815c4]...
+- (b)[^key-7a8710f68d3ab500038a40ec124815c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+those investments may be retained in accordance with paragraph (2).
+
+(2) To the extent that the employer-related investments mentioned in paragraph (1) consist of—
+
+- (a) employer-related loans to which regulation 5(2)(a) of the 1992 Regulations applied before 6th April 1997, they may, where by virtue of contractual or other legal obligations repayment cannot be required immediately, be retained until the earliest date on which repayment can be enforced;
+- (b) securities of the type referred to in regulation 12(4)(b) which, immediately before 6th April 1997, were employer-related investments and—
+  - (i) regulation 5(2)(d) of the 1992 Regulations applied to them, or
+  - (ii) they were investments which did not contravene the 1992 Regulations,
+
+  they may be held until the earliest date on which having regard to contractual and other legal obligations, disinvestment may be effected;
+- (c) an employer-related loan the terms of which have, before 1st January 1996, been specifically approved by a court having jurisdiction in relation to the scheme as being in the interests of the members of the scheme, then, provided that the terms of the loan as so approved are not changed, such part of the loan, repayment of which cannot be required other than on the commencement of the winding up of the scheme, may be retained until the winding up of the scheme commences;
+- (d) any employer-related loans which do not contravene the 1992 Regulations and to which sub-paragraphs (a) to (c) do not apply, they may be retained until the earliest date on which having regard to the contractual and other legal obligations repayment can be enforced;
+- (e)[^key-58e81e8d8f6c055406d4be7dd52d61eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) If any investment referred to in paragraph (2) is listed on a recognised stock exchange, it may be retained for a period of no more than six months beginning with the date on which it was listed.
+
+(4) There shall be no new investment in employer-related investments while the resources of a scheme retained in employer-related investments (other than investments authorised by regulation 13) exceed 5 per cent. of the current market value of the resources of the scheme.
+
+(5) In this regulation—
+
+- “loans” does not include any sums regarded as loans under Article 40(3) (restrictions on employer-related investments), and
+- “retained”, in relation to a loan, means left undischarged.
+
+## 15. Loans that become employer-related[^key-fb071f0c73310f41a3c074f4c91f41ca]
+
+(1) If either a loan or a security which is an investment creating or acknowledging a debt becomes an employer-related loan on or after 6th April 1997 as a result of a change in the ownership of the employer or the person to whom the loan was made, the loan or security may be retained until whichever is the later of—
+
+- (a) the date falling two years after the date on which it became an employer-related loan, or
+- (b) where repayment cannot by virtue of contractual or other legal obligations be required or, in the case of securities, disinvestment effected before the date mentioned in sub-paragraph (a), the earliest date on which repayment can be enforced, or disinvestment effected.
+
+(2) In paragraph (1)—
+
+- “loan” does not include any sum regarded as a loan under Article 40(3), and
+- “retained” means left undischarged.
+
+## 15A. Deposits[^key-98dad1c9a4d4c8905dc81656bc573528]
+
+(1) Regulation 12(2A) shall not prohibit an investment mentioned in paragraph (2) of this regulation to the extent that it can be construed as an employer-related loan mentioned in regulation 12(4) or 16A(5)[^key-389c081e4114d8de6151a05fe386a155].
+
+(2) This regulation applies to any employer-related investment of resources in an account (including a current, deposit or shared account) with—
+
+- (a) a person who has permission under Part IV of the FSM Act (permission to carry on regulated activities) to accept deposits;
+- (b)[^key-9edec6816dfd36300c85ac4a05333814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .or
+- (c) the Bank of England.
+
+## 16. Multi-employer schemes[^key-5e4bf9b75e99b0859d84133102b9616e]
+
+(1) Where a scheme in relation to which there is more than one employer is divided into two or more sections and the provisions of the scheme are such that—
+
+- (a) different sections of the scheme apply to different employers or groups of employers (whether or not more than one section applies to any particular employer or groups including any particular employer);
+- (b) contributions payable to the scheme by an employer, or by a member in employment under that employer, are allocated to that employer’s section (or, if more than one section applies to the employer, to the section which is appropriate in respect of the employment in question), and
+- (c) a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section,
+
+then regulations 10 to 15A[^key-f7e4b142da35a96a74bde91276eed7c1] shall apply as if each section of the scheme were a separate scheme.
+
+(2) Where—
+
+- (a) a scheme which has been such a scheme as is mentioned in paragraph (1) is divided into two or more sections some or all of which apply only to members who are not in pensionable service under the section, and
+- (b) the provisions of the scheme have not been amended so as to prevent the conditions mentioned in paragraph (1)(a) to (c) being satisfied in relation to two or more sections, but
+- (c) those conditions have ceased to be satisfied in relation to one or more sections (whether before or after 6th April 1997) by reason only of there being no members in pensionable service under the section and no contributions which are to be allocated to it,
+
+then regulations 10 to 15A[^key-44b237064b8d4cced0e052fa58873bb5] shall apply as if the section in relation to which those conditions have ceased to be satisfied were a separate scheme.
+
+(3) For the purposes of paragraphs (1) and (2), there shall be disregarded any provisions of the scheme by virtue of which contributions or transfers of assets may be made to make provision for death benefits; and where paragraph (1) or (2) applies and contributions or transfers are so made to a section (“the death benefits section”) the assets of which may only be applied for the provision of death benefits, the death benefits section shall also be treated as if it were a separate scheme for the purposes of regulations 10 to 15A[^key-222217b5227361ae1ca15440e9c896f5].
+
+(4) For the purposes of paragraphs (1) to (3), there shall be disregarded any provisions of the scheme by virtue of which on the winding up of the scheme assets attributable to one section may be used for the purposes of another section.
+
+(5) Subject to regulations 16A and 16B, where there is[^key-0fa88683cfee733abf87cc13deda0f73] more than one employer in relation to a scheme (other than a scheme to which paragraph (1) or (2) applies), and at least two of those employers are persons who are neither a company nor a person connected with that company nor associates of each other—
+
+- (a) in regulation 12(2)[^key-26d6af18b0039fd3ffab406f10225d87] for “employer-related investments” there shall be substituted “investments which are employer-related investments in relation to a particular employer, and employer-related investments overall must not exceed a prudent level and in any event must not exceed 20 per cent. of the current market value of the scheme”, and
+- (b) for regulation 14(4) there shall be substituted—
+
+  > (4) There shall be no new investment in employer-related investments while—
+  >
+  > - (a) the resources of a scheme retained in investments which are employer-related investments in relation to a particular employer (other than investments authorised by regulation 13) exceed 5 per cent. of the current market value of the resources of the scheme, or
+  > - (b) more than 20 per cent overall of the current market value of the resources of the scheme is retained under this regulation in employer-related investments.
+
+  .
+
+## 16A. Authorised Master Trust schemes[^key-f3711e8853f5c6be547a0c227af0697a]
+
+(1) Subject to paragraphs (2) and (3), this regulation applies to a scheme which is—
+
+- (a) a Master Trust scheme to which Part 1 of the 2021 Act applies (and where that scheme provides money purchase benefits in conjunction with other benefits, references to that scheme are to the scheme only to the extent that it provides money purchase benefits);
+- (b) authorised in accordance with section 5(4)(a) of the 2021 Act (decision on application), and
+- (c) used by 500 or more employers.
+
+(2) This regulation continues to apply to a scheme during any period of less than two years in which the number of employers using the scheme falls below 500.
+
+(3) If a scheme to which this regulation applies ceases to be authorised in accordance with section 5(4)(a) of the 2021 Act, this regulation continues to apply to the scheme until the date which is two years after the date on which a decision to withdraw authorisation from the scheme becomes final in accordance with section 35 of the 2021 Act.
+
+(4) For the purposes of determining whether the scheme complies with regulation 12(2), “**employer-related investments**” means—
+
+- (a) shares or other securities issued by a relevant person;
+- (b) land which is occupied or used by, or subject to a lease in favour of, a relevant person;
+- (c) property (other than land) which is used for the purposes of any business carried on by a relevant person;
+- (d) loans to a relevant person;
+- (e) any guarantee of, or security given to secure, obligations of a relevant person, and for the purposes of Article 40 and these Regulations a guarantee or security given by the trustees or managers shall be regarded as an investment of resources of the scheme equal to the amount of the obligations guaranteed or secured;
+- (f) any loan arrangement entered into with any person whereby the trustees’ or managers’ right to or expectation of repayment depends on the actions or situation of a relevant person, unless it was not the trustees’ or managers’ purpose in entering into the arrangement to provide financial assistance to the relevant person;
+- (g) the proportion attributable to the scheme’s resources (whether directly or through any intervening collective investment scheme) of any investments which—
+  - (i) have been made by the operator of any collective investment scheme, and
+  - (ii) would, if they had been made by the scheme, have met any of the descriptions set out in sub-paragraphs (a) to (f);
+- (h) where any of a scheme’s resources are invested in an insurance policy that meets the description set out in regulation 11(d), the proportion of the scheme’s resources invested in that policy which is the same proportion as B is of A where—
+  - A represents all the assets of the insurer held in the fund, and
+  - B represents that part of A which would, if invested by the scheme, have met any of the descriptions set out in sub-paragraphs (a) to (f), and
+- (i) where any of a scheme’s resources are invested in an insurance policy that meets the description set out in regulation 11(e), any investments made by the insurer from the premiums or other consideration or monies described in regulation 11(e), which would have met any of the descriptions set out in sub-paragraphs (a) to (f) if they had been made by the scheme.
+
+(5) For the purposes of determining whether the scheme complies with regulation 12(2A) and for the purposes of regulation 12(2B), “**employer-related loan**” means—
+
+- (a) a loan to a relevant person (including one which falls within this description by virtue of Article 40(3));
+- (b) a security described in paragraph (4)(a) which is an instrument creating or acknowledging indebtedness, except any such security which is listed on a recognised stock exchange;
+- (c) an employer-related investment prescribed as such by regulation 11(b), which meets the description set out in paragraph (4)(e), and
+- (d) an employer-related investment prescribed as such by regulation 11(c), which meets the description set out in paragraph (4)(f).
+
+(6) For the purposes of regulation 12(3), “**employer-related investment**” has the meaning set out in paragraph (4).
+
+(7) In regulation 13(10), “**employer-related investments**” has the meaning set out in paragraph (4).
+
+(8) Regulation 16(5)(a) applies with the omission of “and in any event must not exceed 20 per cent. of the current market value of the scheme”.
+
+(9) If an investment falls within the definition of “employer-related investments” set out in paragraph (4) or the definition of “employer-related loan” set out in paragraph (5) on or after 1st October 2022, other than as a result of new investment by the scheme, the investment may be retained, or left undischarged, until whichever is the later of—
+
+- (a) the date falling two years after the date on which it first fell within the definition set out in paragraph (4) or (5), and
+- (b) where repayment cannot by virtue of contractual or other legal obligations be required, or where disinvestment cannot be effected before the date mentioned in sub-paragraph (a), the earliest date on which repayment can be enforced or disinvestment effected.
+
+(10) Paragraph (9) does not apply in respect of any sum regarded as a loan under Article 40(3).
+
+(11) For the purposes of this regulation—
+
+- “**the 2021 Act**” means the Pension Schemes Act (Northern Ireland) 2021;
+- “**active member**” has the meaning set out in Article 121(1);
+- “**employer**” means a person who employs or engages persons who are, or are entitled to become, members of the scheme, including at least one active member of the scheme;
+- “**money purchase benefits**” has the meaning set out in section 176(1) of the Pension Schemes Act;
+- “**relevant person**” means a scheme funder, a scheme strategist or any person who is connected with, or an associate of, a scheme funder or a scheme strategist;
+- “scheme funder” and “scheme strategist” have the meanings set out in section 39 of the 2021 Act;
+- “**securities**” has the meaning set out in Article 40(2A) (restriction on employer-related investments) and must be read in accordance with Article 40(2B).
+
+## 16B. Schemes to which regulation 16A ceases to apply
+
+To the extent that—
+
+- (a) an investment becomes an employer-related loan or an employer-related investment as a result of regulation 16A ceasing to apply to a scheme, and
+- (b) repayment or disinvestment cannot be effected immediately by virtue of contractual or other legal obligations,
+
+the investment may be retained until the earliest date on which, having regard to contractual and other legal obligations, repayment or disinvestment can be effected.
+
+## 17. Scheme undertaking cross-border activities[^key-dfc1950a97a476d5995a6d0fa5001fe4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Revocations[^key-a4dcc625b3868820ad8508285d0f5e10]
+
+The Regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 16th December 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — REVOCATIONS[^key-2c44ebcaf9eeef20f8e55ffeb2adbef0]
+
+Regulation 18
+
+| *Column (1)*<br>*Citation* | *Column (2)*<br>*Reference* | *Column (3)*<br>*Extent of revocation* |
+| --- | --- | --- |
+| The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996 | [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584) | The whole Regulations |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 | [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) | In the Schedule, paragraph 8 |
+| The Occupational Pension Schemes (Reference Scheme and Miscellaneous Amendments) Regulations (Northern Ireland) 1997 | [S.R. 1997 No. 162](https://www.legislation.gov.uk/nisr/1997/162) | Regulation 4 |
+| The Occupational Pension Schemes (Investment, and Assignment, Forfeiture, Bankruptcy etc.) (Amendment) Regulations (Northern Ireland) 1999 | [S.R. 1999 No. 309](https://www.legislation.gov.uk/nisr/1999/309) | Regulation 2 |
+| The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 | [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262) | Regulation 30 |
+| The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations (Northern Ireland) 2000 | [S.R. 2000 No. 382](https://www.legislation.gov.uk/nisr/2000/382) | Regulation 7 |
+| The Occupational and Personal Pension Schemes (Contracting-out) (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 | [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109) | Regulation 4 |
+| The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 | [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256) | Regulation 8 |
+| The Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 | [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168) | In Schedule 2, paragraph 2 |
+
+(This note is not part of the Regulations.)
+
+These Regulations replace, with amendments, and revoke the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996. The Regulations supplement changes made to the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) by the Pensions (Northern Ireland) Order 2005. They include provisions to implement certain requirements of the Directive [2003/41/EC](https://www.legislation.gov.uk/european/directive/2003/0041) of the European Parliament and of the Council on the activities and supervision of institutions for occupational retirement provision (O.J. No. L235, 23.9.2003, p.10) (“the Directive”), in particular of Articles 12 and 18.
+
+The Regulations impose requirements on trustees of occupational pension schemes in relation to the statement of investment principles required under Article 35 of the 1995 Order and in relation to the choosing of investments. They impose restrictions on borrowing and the giving of guarantees by trustees and in respect of employer-related investments.
+
+Regulation 1 makes provision for citation, commencement and interpretation.
+
+Regulation 2 sets out requirements in respect of the statement of investment principles required under Article 35 of the 1995 Order.
+
+Regulation 3 sets out modified requirements in respect of such statements for schemes in relation to which there is more than one employer.
+
+Regulation 4 sets out requirements in respect of choosing investments.
+
+Regulation 5 sets out restrictions in respect of borrowing and guarantees.
+
+Regulations 6 to 9 disapply Article 35 of the 1995 Order and disapply or modify certain requirements of regulations 2 to 5, in respect of certain schemes.
+
+Regulation 10 defines the expressions “connected persons” and “associated persons” as they apply in these Regulations.
+
+Regulations 11 to 16 prescribe certain investments as employer-related investments in addition to those specified in Article 40(2) of the 1995 Order and set out the restrictions on employer-related investments. They also prescribe investments to which the restrictions do not apply. Special provision is made as regards the application of the restrictions to schemes in relation to which there is more than one employer.
+
+Regulation 17 makes special provision in the case of a scheme undertaking cross-border activities.
+
+Regulation 18 makes consequential revocations.
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement for consultation under Article 117(1) of the 1995 Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+The transposition of Articles 12 and 18 of the Directive is detailed in the Transposition Note, a copy of which has been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of the Note are available from the Department for Social Development, Social Security Policy and Legislation Division, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast BT7 2JA.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 35 is substituted by Article 221 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); Article 36 was amended by article 151 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and is amended by Article 222 of the Pensions (Northern Ireland) Order 2005; Article 36A is inserted by Article 223 of that Order and Article 40 was amended by article 152 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and article 26 of [S.I. 2004/355](https://www.legislation.gov.uk/uksi/2004/355)
+
+[^f00002]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-d60ae94eb81dd55110a0248f9a1ef9ca]: Commencement: Reg. 1 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
+
+[^f00004]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
+
+[^f00005]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00006]: Footnote: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062); paragraph 9(1)(a) was substituted by article 2(2) of [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650)
+
+[^key-18b4c6e45335e075ff6113aed25a0b0a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/nisr/2015/309/regulation/20/2/a)
+
+[^key-f781cd7408fb13de1fabf47642fdcf2f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) substituted (with application in accordance with reg. 1(4) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2021/272/regulation/4/2)
+
+[^key-04801922decc954b8004070307af3c72]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) substituted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/2)
+
+[^key-6f8d01813d7f610bd7c302d17133e77b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1), [Sch. 2 para. 21(2)(c)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/21)
+
+[^key-4d21602dd4c882870960f536c7a4e05d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1), [Sch. 2 para. 21(2)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/21)
+
+[^key-cffa172c42991f2f21c104cb3232a738]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fac10ac79a033c67ffc90f3a39baf363]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/nisr/2015/309/regulation/20/2/b)
+
+[^key-fec4e8bd41dd0de3210a7fcb3ba6c1ed]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d281ac33ae30dd196ac1927312dd911a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [14(2)](https://www.legislation.gov.uk/nisr/2007/185/regulation/14/2)
+
+[^f00008]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005
+
+[^key-9e50c838d9ac6ee15913cb530e86ed6e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1), [Sch. 2 para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/21)
+
+[^key-2d0eab8d6f1ec0587b0fb9916431c6e4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/2) substituted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [7(2)](https://www.legislation.gov.uk/nisr/2006/141/regulation/7/2)
+
+[^f00009]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)
+
+[^key-9bc3412a0c40f1e86fc6a6abc2d28519]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/5) inserted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/2)
+
+[^f00010]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005
+
+[^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-f0c41792ddcc6dbc847d398341a519f1]: Commencement: Reg. 2 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-0430714262e9b4f717a03f02ab06f7dc]: Textual amendment: Words in [reg. 2(3)(b)(v)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/3/b/v) substituted (1.10.2019) by [The Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. 2018/165)](https://www.legislation.gov.uk/nisr/2018/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/165/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/i)
+
+[^key-099e843980674b6743ab54472cf70bfa]: Textual amendment: [Reg. 2(3)(b)(vi)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/3/b/vi) substituted (1.10.2019) by [The Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. 2018/165)](https://www.legislation.gov.uk/nisr/2018/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/165/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/ii)
+
+[^key-c96ddbce13ea94db38f89b8c2c2807ee]: Textual amendment: [Reg. 2(3)(b)(vii)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/3/b/vii) added (1.10.2019) by [The Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. 2018/165)](https://www.legislation.gov.uk/nisr/2018/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/165/regulation/1/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/iii) (as amended (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/i/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5)))
+
+[^key-cccc0599a28cc4f20889443d75eac907]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/3/c) substituted (1.10.2019) by [The Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. 2018/165)](https://www.legislation.gov.uk/nisr/2018/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/165/regulation/1/1), [4(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/iv) (as amended (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/i/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5)))
+
+[^key-c2fefe9fed2441ce7ef8d33e31a2303c]: Textual amendment: [Reg. 2(3)(d)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/3/d) added (1.10.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/a), [2(2)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/2/2/a) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+
+[^key-6f5b1c3b3afe94dd9c94d2dfc8d637c2]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/4) added (1.10.2019) by [The Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. 2018/165)](https://www.legislation.gov.uk/nisr/2018/165), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/165/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/b) (as amended (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(ii)(aa)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/ii/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5)))
+
+[^key-7542af70cc4e6110092e4e0ea005141c]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/4) inserted (1.10.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/a), [2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2019/115/regulation/2/2/b/i) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+
+[^key-318f1eccfe37659532c5b33b99159fce]: Textual amendment: Word in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/4) substituted (1.10.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/a), [2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/115/regulation/2/2/b/ii) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+
+[^key-537d7fe55d273be60a5b2e289292957f]: Textual amendment: Word in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/4) substituted (1.10.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/a), [2(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2019/115/regulation/2/2/b/iii) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+
+[^key-9e8c9e5b86f41eeea38f29a7a8329a56]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2/4) added (1.10.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/a), [2(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2019/115/regulation/2/2/b/iv) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+
+[^key-fa07bf51ac499b8a4b54a019dd5267c3]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [20(3)](https://www.legislation.gov.uk/nisr/2015/309/regulation/20/3)
+
+[^key-7bc39b0353cc0a0d0b823a429bbc3bca]: Textual amendment: [Reg. 2A(1)(aa)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/1/aa) inserted (with application in accordance with reg. 1(6) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/2/a/i), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^key-d31c4fddb7ed27b12b00d38fa81f784a]: Textual amendment: Words in [reg. 2A(1)(b)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/1/b) inserted by S.R. 2018/165, reg. 4(3) (as substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5)))
+
+[^key-16127e66867d5a7eb137f524d7badcf7]: Textual amendment: Words in [reg. 2A(1)(c)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/1/c) inserted (with application in accordance with reg. 1(6) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/2/a/ii), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^key-e345ec6fb41c5b08c30fd6a96a8e207c]: Textual amendment: [Reg. 2A(1A)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/1A) inserted (with application in accordance with reg. 1(6) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/2/b), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^key-f704dd58feddf835dabde397a58c3e13]: Textual amendment: Words in [reg. 2A(3)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/3) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2021/272/regulation/4/3/a)
+
+[^key-4d8ecc6cd347736cbc2457b039edcbe5]: Textual amendment: [Reg. 2A(6)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/6) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2021/272/regulation/4/3/b)
+
+[^key-b51b17a875a7a65a13937d0cb1acbc0e]: Textual amendment: [Reg. 2A(6A)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/6A) inserted (with application in accordance with reg. 1(6) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/2/c), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^key-98ef81df52d5bc87db82db614a3562e6]: Textual amendment: [Reg. 2A(7)](https://www.legislation.gov.uk/nisr/2005/569/regulation/2A/7) added (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2022/192/regulation/10)
+
+[^key-cba7169966303a61b5abbd37c910170a]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/nisr/2005/569/regulation/2B) inserted (with application in accordance with reg. 1(7) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/3), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^key-64dedfbe00b6abdf430664a89b52bf54]: Commencement: Reg. 3 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-5ead038e8d1fc834e11623d7a5217563]: Commencement: Reg. 4 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^f00012]: Footnote: Article 34 was amended by article 150 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and is amended by paragraph 43 of Schedule 10 to the Pensions (Northern Ireland) Order 2005
+
+[^key-d3ad98dd23750aae502f2a337eb4b428]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/nisr/2005/569/regulation/4/11) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(3)(a)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-56320c9cdee6c1acb5551b877b6d3bc5]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/nisr/2005/569/regulation/4/11) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-528288a8a6fe0ecf07b90a66c5a077e2]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/nisr/2005/569/regulation/4/11) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7cd07345f322931e44ffed8897b26f23]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2005/569/regulation/4A) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [20(4)](https://www.legislation.gov.uk/nisr/2015/309/regulation/20/4)
+
+[^key-6b35f0d9630c4926220503573649598a]: Commencement: Reg. 5 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-a4973f8d91be05f8b2b4b2945f080c05]: Commencement: Reg. 6 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-07ff2eaa2c8b4f8525c673b95becef48]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/nisr/2005/569/regulation/6) heading inserted (with application in accordance with reg. 1(7) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/4/a), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^key-2c12390463e8e8a0297afd4715fa3545]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/6/1) inserted (with application in accordance with reg. 1(7) of the amending Rule) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/79)](https://www.legislation.gov.uk/nisr/2024/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/79/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/79/regulation/3/4/b), [6](https://www.legislation.gov.uk/nisr/2024/79/regulation/6)
+
+[^f00015]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^f00016]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26)
+
+[^key-cbf5eb06e269e9cc16dfb72b782e956d]: Commencement: Reg. 7 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-fccd7b3dd6bbcff6b33336abba485e3d]: Commencement: Reg. 8 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-99fbbf909abe43283f6e187838bf044c]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/nisr/2005/569/regulation/8/1/a) substituted (1.10.2021) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2021/272/regulation/4/4)
+
+[^f00017]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^key-c643e288afc7582ce8bf912f83488e32]: Commencement: Reg. 9 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-ce271ba61a1b3c4cc66469c0fb8eb817]: Commencement: Reg. 10 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^f00018]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Article 4 was modified by Schedule 3 to [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307) and amended by paragraph 80 of Schedule 29 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and Article 7 was modified by Schedule 3 to [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307)
+
+[^key-d480b329e3cbbcd467b96d5397c2bfd0]: Commencement: Reg. 11 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-c4f1e4dce5cf8ca44b83081fadc7000d]: Commencement: Reg. 12 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-3f2401bde391baa762989f433a08e012]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/1) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [14(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/14/3)
+
+[^key-88431a4c4ed37b922225c54e012d379b]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2)[(2A)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2A)[(2B)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2B) substituted for [reg. 12(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2) (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(3)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/3/a)
+
+[^key-4e914fbf80ae2037c86a7f913c4511bd]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2) substituted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/3/a)
+
+[^key-8fc35c163a4d61daed8b84110a863086]: Textual amendment: Words in [reg. 12(2A)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2A) substituted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/3/b)
+
+[^key-6eadecea6279b6bb0a7e66cc0e5d2fc6]: Textual amendment: Words in [reg. 12(2B)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2B) substituted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/3/c/i)
+
+[^key-c8f3d5270b1ee1ace7b91eb86076a4d4]: Textual amendment: Words in [reg. 12(2B)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/2B) substituted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/3/c/ii)
+
+[^key-099670a0f2557bc937b3262090d46332]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/3) substituted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/3/d)
+
+[^key-17b3bc34b4e462e6debf0e3581d8c976]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/12/4) substituted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/3/b)
+
+[^key-149ffe8bda27f7268f37b6cb9b325edd]: Commencement: Reg. 13 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-12b4dc32636a8dcb847214fec6f71fa5]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/2) omitted (23.9.2010) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(4)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/4/a)
+
+[^key-91c5ed2026e05f7243dd33e3b454f923]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/3)[(4)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/4) omitted (23.9.2010) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(4)(c)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/4/c)
+
+[^f00019]: Footnote: Article 7 was amended by Article 31(1) of the Pensions (Northern Ireland) Order 2005
+
+[^f00020]: Footnote: Article 8 was amended by Article 31(2) of the Pensions (Northern Ireland) Order 2005
+
+[^f00021]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005
+
+[^key-556326f90d25c53cb51f6fae4ab33378]: Textual amendment: Word in [reg. 13(6)(b)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/6/b) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [7(3)(a)(i)](https://www.legislation.gov.uk/nisr/2006/141/regulation/7/3/a/i)
+
+[^key-30eb43bb98f72abe82505303bf41b18c]: Textual amendment: [Reg. 13(6)(d)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/6/d)[(e)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/6/e) added (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [7(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2006/141/regulation/7/3/a/ii)
+
+[^key-7a06ac8e389ff452d24bc08da4cc7dbb]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/7) omitted (23.9.2010) by virtue of [The Occupational Pension Schemes (Investment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/287)](https://www.legislation.gov.uk/nisr/2010/287), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2010/287/regulation/2/2)
+
+[^key-d335a3ea8968a906be1516f8f736a108]: Textual amendment: [Reg. 13(8)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/8) omitted (23.9.2010) by virtue of [The Occupational Pension Schemes (Investment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/287)](https://www.legislation.gov.uk/nisr/2010/287), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2010/287/regulation/2/2)
+
+[^key-4f55f96cceb18d584008d9e28f266264]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/9) omitted (23.9.2010) by virtue of [The Occupational Pension Schemes (Investment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/287)](https://www.legislation.gov.uk/nisr/2010/287), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2010/287/regulation/2/2)
+
+[^key-11e10d82f9e2299292ff937e6a80b0c6]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/10) inserted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(4)(d)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/4/d)
+
+[^f00023]: Footnote: [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584), amended by [S.R. 1997 Nos. 160](https://www.legislation.gov.uk/nisr/1997/160) and [162](https://www.legislation.gov.uk/nisr/1997/162), [S.R. 1999 No. 309](https://www.legislation.gov.uk/nisr/1999/309), [S.R. 2000 Nos. 262](https://www.legislation.gov.uk/nisr/2000/262) and [382](https://www.legislation.gov.uk/nisr/2000/382), [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109), [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256) and [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
+
+[^key-60053d7b84c51aef93e0ca9e4bcd930a]: Textual amendment: [Reg. 13(13)](https://www.legislation.gov.uk/nisr/2005/569/regulation/13/13) omitted (23.9.2010) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(4)(e)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/4/e)
+
+[^key-b1b6048c5e6a078b112d68339d0dcc68]: Commencement: Reg. 14 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^f00024]: Footnote: [S.R. 1992 No. 47](https://www.legislation.gov.uk/nisr/1992/47); revoked by regulation 13(1) of [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584)
+
+[^key-7a8710f68d3ab500038a40ec124815c4]: Textual amendment: [Reg. 14(1)(b)](https://www.legislation.gov.uk/nisr/2005/569/regulation/14/1/b) and word omitted (23.9.2010) by virtue of [The Occupational Pension Schemes (Investment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/287)](https://www.legislation.gov.uk/nisr/2010/287), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/nisr/2010/287/regulation/2/3/a)
+
+[^key-58e81e8d8f6c055406d4be7dd52d61eb]: Textual amendment: [Reg. 14(2)(e)](https://www.legislation.gov.uk/nisr/2005/569/regulation/14/2/e) omitted (23.9.2010) by virtue of [The Occupational Pension Schemes (Investment) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/287)](https://www.legislation.gov.uk/nisr/2010/287), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/nisr/2010/287/regulation/2/3/b)
+
+[^key-fb071f0c73310f41a3c074f4c91f41ca]: Commencement: Reg. 15 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-98dad1c9a4d4c8905dc81656bc573528]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2005/569/regulation/15A) inserted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(5)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/5)
+
+[^key-389c081e4114d8de6151a05fe386a155]: Textual amendment: Words in [reg. 15A(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/15A/1) inserted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/4)
+
+[^key-9edec6816dfd36300c85ac4a05333814]: Textual amendment: [Reg. 15A(2)(b)](https://www.legislation.gov.uk/nisr/2005/569/regulation/15A/2/b) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(4)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5e4bf9b75e99b0859d84133102b9616e]: Commencement: Reg. 16 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-f7e4b142da35a96a74bde91276eed7c1]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/16/1) substituted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(6)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/6/a)
+
+[^key-44b237064b8d4cced0e052fa58873bb5]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/nisr/2005/569/regulation/16/2) substituted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(6)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/6/a)
+
+[^key-222217b5227361ae1ca15440e9c896f5]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/569/regulation/16/3) substituted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(6)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/6/a)
+
+[^key-0fa88683cfee733abf87cc13deda0f73]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/nisr/2005/569/regulation/16/5) substituted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/5)
+
+[^key-26d6af18b0039fd3ffab406f10225d87]: Textual amendment: Words in [reg. 16(5)(a)](https://www.legislation.gov.uk/nisr/2005/569/regulation/16/5/a) substituted (23.9.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(3)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/3/b), [17(6)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/17/6/b)
+
+[^key-f3711e8853f5c6be547a0c227af0697a]: Textual amendment: [Regs. 16A](https://www.legislation.gov.uk/nisr/2005/569/regulation/16A), [16B](https://www.legislation.gov.uk/nisr/2005/569/regulation/16B) inserted (1.10.2022) by [The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/210)](https://www.legislation.gov.uk/nisr/2022/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2022/210/regulation/3/6)
+
+[^key-dfc1950a97a476d5995a6d0fa5001fe4]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/569/regulation/17) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [25(5)](https://www.legislation.gov.uk/uksi/2019/193/regulation/25/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a4dcc625b3868820ad8508285d0f5e10]: Commencement: Reg. 18 in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)
+
+[^key-2c44ebcaf9eeef20f8e55ffeb2adbef0]: Commencement: Sch. in operation at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1)

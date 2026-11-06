@@ -1,0 +1,28 @@
+---
+title: Public Services Ombudsman Act (Northern Ireland) 2016, section 57
+act: Public Services Ombudsman Act (Northern Ireland) 2016
+section: '57'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/4/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services Ombudsman Act (Northern Ireland) 2016, section 57
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/nia/2016/4
+>
+> Extent: Northern Ireland.
+
+## 57. Supplementary provision in relation to court proceedings
+
+*Extent: N.I.*
+
+(1) For the purposes of any proceedings under sections 52 to 55—
+
+- (a) a report of the Ombudsman relating to an investigation is to be accepted as evidence of the facts stated within it, unless the contrary is proven, and
+- (b) the authenticity of the report may be proved by production of a certificate of its authenticity signed by the Ombudsman.
+
+(2) Nothing in sections 52 to 55 affects the right to bring any proceedings, whether civil or criminal, which may be brought otherwise than under those sections.

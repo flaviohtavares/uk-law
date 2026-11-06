@@ -1,0 +1,138 @@
+---
+title: Animal By-Products (Identification) (Amendment) Regulations (Northern Ireland) 2003
+id: nisr/2003/9
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2003-01-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2003/9
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/9/pdfs/nisr_20030009_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/9/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animal By-Products (Identification) (Amendment) Regulations (Northern Ireland) 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 9
+
+FOOD
+
+Animal By-Products (Identification) (Amendment) Regulations (Northern Ireland) 2003
+
+Made
+
+8th January 2003
+
+Coming into operation
+
+1st April 2003
+
+The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(c), (d) and (f), 25(3) and 47(2) of, and paragraph 3 of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling in in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:–
+
+## 1. Citaion and commencement
+
+These Regulations may be cited as the Animal By-Products (Identification) (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation on 1st April 2003.
+
+## 2. Amendments to the Animal By-Products (Identification) Regulations (Northern Ireland) 1999
+
+(1) The Animal By-Products (Identification) Regulations (Northern Ireland) 1999[^f00004] are amended in accordance with the following paragraphs.
+
+(2) In regulation 2 (interpretation)–
+
+- (a) for the definition of “the 1993 Regulations” there shall be substituted the following definition–
+
+  > - “the 2002 Order” means the Animal By-Products Order (Northern Ireland) 2002[^f00005];
+
+  ;
+- (b) the following definition is inserted between the definition of “animal by-products premises” and the definition of “carcase”—
+
+  > - “approved premises” means premises which are approved under Article 7 of the 2002 Order;
+
+  ; and
+- (c) the definition of “sterilised” is revoked.
+
+(3) In paragraph (1) of regulation 3 (meaning of “animal by-product”), “direct” is revoked.
+
+(4) In paragraph (a) of regulation 4 (scope), “sterilisation or” is revoked.
+
+(5) In each of sub–paragraphs (d) and (e) of paragraph (2) of regulation 5 (exemptions), for “the 1993 Regulations” there is substituted “the 2002 Order”.
+
+(6) In regulation 6 (sterilisation and staining of animal by-products in cold stores, cutting premises, game processing facilities or slaughter-houses)–
+
+- (a) in the heading, “Sterilisation and” is revoked;
+- (b) in paragraph (1), “sterilised or” is revoked;
+- (c) paragraph (2)(a) is revoked;
+- (d) in paragraph (2)(b)—
+  - (i) the word “or”, where it appears at the end of head (i), is revoked, and
+  - (ii) after head (ii) there is inserted the following head–
+
+    > - (iii) is immediately moved, in the manner specified in paragraph (4), to approved premises for rendering there, or to premises which are adequately separated from the cold store, cutting premises, game processing facility or slaughter-house concerned for incineration there in accordance with Article 12 of the 2002 Order.
+
+    ;
+- (e) paragraph (2)(c) is revoked;
+- (f) in paragraph (3)–
+  - (i) for “paragraph (2)(a) or (b)” there is substituted “paragraph (2)(b)”, and
+  - (ii) “sterilised or, as the case may be,” is revoked; and
+- (g) for paragraph (4) there is substituted the following paragraph–
+
+  > (4) The manner is that the animal by-product is moved through a sealed and leak-proof pipe which connects the cold-store, cutting premises, game processing facility or slaughter-house concerned directly with the relevant approved premises or, as the case may be, premises at which the animal by-product is to be incinerated.
+
+  .
+
+(7) In regulation 7 (sterilisation and staining of animal by-products in animal by-products premises)–
+
+- (a) in the heading, “Sterilisation and” is revoked;
+- (b) in paragraph (1)–
+  - (i) for “paragraph (2)” there is substituted “paragraphs (2) and (3)”, and
+  - (ii) “sterilised or” is revoked; and
+- (c) for paragraphs (2) and (3) there are substituted the following paragraphs–
+
+  > “(2) The duty imposed by paragraph (1) shall not apply in relation to any animal by-product which is immediately moved, in the manner specified in paragraph (3), to approved premises for rendering there, or to premises which are adequately separated from the animal by-products premises concerned for incineration there in accordance with Article 12 of the 2002 Order.
+  >
+  > (3) The manner is that the animal by-product is moved through a sealed and leak-proof pipe which connects the animal by-products premises concerned directly with the relevant approved premises or, as the case may be, premises at which the animal by-product is to be incinerated.
+
+  .
+
+(8) In paragraph (1) of regulation 8 (freezing of animal by-products in any animal by-products premises, cold store, cutting premises, game processing facility or slaughter-house), “sterilised or” is revoked.
+
+(9) In each of paragraphs (1) and (3) of regulation 9 (storage and packaging of animal by-products), “unsterilised” is revoked.
+
+(10) In each of paragraphs (1) and (2) of regulation 10 (restriction on movement of animal by-products), “sterilised or” is revoked.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 8th January 2003.
+
+D. Kenny
+
+A Senior Officer of the
+
+Department of Health, Social Services and Public Safety
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Animal By-Products (Identification) Regulations (Northern Ireland) 1999 ([S.R.1999 No. 418](https://www.legislation.gov.uk/nisr/1999/418), as already amended – “the 1999 Regulations”), which currently make provision for the sterilisation or staining of animal by-products and for the control of the movement of such by-products.
+
+The effect of the amendments made to the 1999 Regulations by paragraphs (2)(c), (4), (6)(a), (b), (c), (e) and (f), (7)(a) and (b)(ii), (8), (9), and (10) of regulation 2 of these Regulations is that animal by-products may no longer be sterilised. Staining is now required in all cases except where specified in regulation 5(2), 6(2) or 7(2) of the 1999 Regulations. The effect of the amendments made to regulations 6(2) and 7(2) of the 1999 Regulations by paragraphs (6)(d) and (g) and (7)(b)(i) and (c) respectively of regulation 2 of these Regulations is that staining is not required where an animal by-product is immediately conveyed in the manner specified in regulation 6(4) or, as the case may be, 7(3) of the 1999 Regulations to premises approved under Article 7 of the Animal By-Products Order (Northern Ireland) 2002 for rendering there or to other premises for incineration there in accordance with Article 12 of that Order.
+
+Regulation 2(2)(a) of these Regulations amends the interpretation provision of the 1999 Regulations by substituting for the definition denoting the Animal By-Products Regulations (Northern Ireland) 1993 a new definition denoting the Animal By-Products Order (Northern Ireland) 2002, regulation 2(2)(b) of these Regulations inserts a definition of “approved premises” into that interpretation provision, and regulation 2(5) of these Regulations substitutes references to the definition denoting the Animal By-Products Order (Northern Ireland) 2002 for the references to the definition denoting the Animal By-Products Regulations (Northern Ireland) 1993 in regulation 5(2)(d) and (e) of the 1999 Regulations.
+
+A minor amendment is also made by regulation 2(3) of these Regulations to the definition of “animal by-product” in regulation 3(1) of the 1999 Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3
+
+[^f00002]: Footnote: [S.I. 1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28). Functions formerly exercisable by the Department of Agriculture (now the Department of Agriculture and Rural Development; *see* Article 3 of [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)) are now exercisable by the Department of Health, Social Services and Public Safety pursuant to paragraph 27 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28). Regulation 13(4) of [S.R. 2000 No. 78](https://www.legislation.gov.uk/nisr/2000/78) expressly authorises the Department of Health, Social Services and Public Safety to amend or revoke existing Regulations made or having effect as if made by the Department of Agriculture and Rural Development (whether with others or not) under the Food Safety (Northern Ireland) Order 1991
+
+[^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
+
+[^f00004]: Footnote: [S.R. 1999 No. 418](https://www.legislation.gov.uk/nisr/1999/418), as amended by [S.R. 2000 No. 78](https://www.legislation.gov.uk/nisr/2000/78) and [S.R. 2002 No. 238](https://www.legislation.gov.uk/nisr/2002/238)
+
+[^f00005]: Footnote: [S.R. 2002 No. 209](https://www.legislation.gov.uk/nisr/2002/209)

@@ -1,0 +1,382 @@
+---
+title: The Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009
+id: nisr/2009/97
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-03-11'
+text_date: '2024-12-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/97
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/97/pdfs/nisr_20090097_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/97/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009
+
+> Text as at 2024-12-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 97
+
+Health And Social Care
+
+The Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009
+
+Made
+
+11th March 2009
+
+Coming into operation
+
+1st April 2009
+
+The Department of Health, Social Services and Public Safety makes the following regulations in exercise of the powers conferred by section 14(2) of, and paragraphs 3, 5 and 11(1) of Schedule 3 to, the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00001]:
+
+## 1. Citation, commencement and interpretation[^key-1e6fcdc9c485a2669fe66ed05e4a3974]
+
+(1) These regulations may be cited as the Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009 and shall come into operation on 1st April 2009.
+
+(2) In these regulations—
+
+- “the Act” means the Health and Social Care (Reform) Act (Northern Ireland) 2009;
+- “bankruptcy restrictions order” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989[^f00002] or Schedule 4A of the Insolvency Act 1986[^key-a9813c44ce3c3059bc819929e5fc932d];
+- “charity trustee” means one of the persons having the general control and management of the administration of a charity;
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^key-9d0410de529b07e251d18a24fc8464a6]
+- “[^key-d6910de8ffb24953bbab71eec2bbd71c]**former health service body**” means a clinical commissioning group,[^key-811a0021e4fad74b45f0c2dcac05c9bb] a Strategic Health Authority, a Primary Care Trust, the Health and Social Care Information Centre[^key-50595dcc43d334c5844f2833c05e56fa] or the Health Protection Agency;
+- “health service body” means—
+  - (a) any of the following within the meaning of the National Health Service Act 2006[^f00003]—
+    - (i) [^key-cb92eb073f2596ff71eeff8afe4802e8]...
+    - (ii) a Special Health Authority;
+    - (iii) [^key-cb92eb073f2596ff71eeff8afe4802e8]...
+    - (iv) an NHS trust;
+    - (v) a Local Health Board;
+    - (iva) [^key-204badef96012cb5e242e324daad12d4]...[^key-99cdc523e99930c9a78ebad75a042f60]
+    - (ivb) NHS England[^key-dd68c4931c1ed483ea299b851ff4133a] ;
+    - (ivc) the National Institute for Health and Care Excellence;
+    - (ivd) [^key-6d9eb753c93bddcbf228f6c233c90d5c]...
+  - (b) any of the following within the meaning of the National Health Service (Scotland) Act 1978[^f00004]—
+    - (i) a Health Board;
+    - (ii) a Special Health Board;
+    - (iii) the Common Services Agency for the Scottish Health Service;
+    - (iv) the Scottish Dental Practice Board;
+  - (c) the Wales Centre for Health established under section 2 of the Health (Wales) Act 2003[^f00005];
+  - (d) [^key-b1650f0d0a28363dab6a4d48b647abca]...
+  - (e) the Care Quality Commission established under section 1 of the Health and Social Care Act 2008[^f00007];
+- “trustee for a charity” is a person not being a charity trustee, in whom legal title to the property of the charity is vested.
+
+## 2. Membership[^key-25652c357ef6fa474c8f3c59c634b464]
+
+(1) The prescribed number of members appointed by the Department for the purposes of paragraph 3(1)(b) of Schedule 3 to the Act shall be 8.
+
+(2) The prescribed officers for the purposes of paragraph 3(1)(d) of Schedule 3 to the Act shall be—
+
+- (a) the Director of Operations;
+- (b) the Director of Human Resources and Corporate Services; and
+- (c) the Director of Finance.
+
+## 3. Joint membership[^key-d4dbd2fed1431810001f6fd3a75fcfe6]
+
+Where more than one person is appointed jointly to a post in the RBSO which qualifies the holder for membership in accordance with paragraph 3(1)(d) of Schedule 3 to the Act those persons shall become or be appointed as a member jointly, and shall count for the purposes of regulation 2 as one person.
+
+## 4. Disqualification for appointment[^key-ecaa8cee14185a9a2d55a397812f74a0]
+
+(1) Subject to regulation 5, a person shall be disqualified for appointment under regulation 2(1) if that person—
+
+- (a) has within five years of the day the appointment would otherwise have taken effect been convicted, whether in the United Kingdom or elsewhere, of any offence and has been given a sentence of imprisonment (whether suspended or not) for a period not less than three months without the option of a fine;
+- (b) has been dismissed, other than by reason of redundancy, from any paid employment with the Department, a health and social care body, a health service body or a former health service body[^key-3a3312aad0ec4f7298e3b7828181062a];
+- (c) is the subject of a bankruptcy restrictions order or he is the subject of a debt relief restrictions order[^key-101f0388178a8eba4d6b29651a3c2205];
+- (d) is subject to a disqualification under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00008], the Company Directors Disqualification Act 1986[^f00009], or to an order made under section 429(2)(b) of the Insolvency Act 1986[^f00010] (failure to pay under county court administration order);
+- (e) has been—
+  - (i) removed from the office of charity trustee or trustee for a charity in Northern Ireland or by an order made by the Charity Commissioners or the High Court in England and Wales on the grounds of any misconduct or mismanagement in the administration of the charity for which that person was responsible or to which that person was privy; or which that person by his conduct contributed to or facilitated; or
+  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00011] (powers of the Court of Session to deal with management of charities) from being concerned in the management or control of any body;
+- (f) is a Chair, chairman, member or non-executive director of a health and social care body or a health service body [^key-8715058a50c05c65fcaedec595e043f2]...;
+- (fa)[^key-74ce945dfabb47320677419fbe207f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) holds any paid employment or office with the Department, a health and social care body or a health service body;
+- (h) is a person who has been removed from office as the Chair, chairman, member or non-executive director of a health and social care body, a health service body[^key-39b305b432bef7bc6657767175ed8808] [^key-8f72cce67200bff94d658c209e7adf2b]...or a former health service body (other than a clinical commissioning group)[^key-346a622ba5addef07659c6fbdf33ec1d] ;
+- (i)[^key-01dd0cb1f0fba6c088bc241a34eafbc7] is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group.
+
+(2) For the purposes of paragraph (1)(a)—
+
+- (a) the date of conviction shall be deemed to be the date on which the ordinary period allowed for making an appeal or application with respect to the conviction expires or, if such an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its not being prosecuted; and
+- (b) there shall be disregarded—
+  - (i) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom; and
+  - (ii) any sentence of imprisonment passed by such a court on a person who at the time the sentence was passed was under 21 years of age.
+
+(3) For the purposes of paragraph (1)(b)—
+
+- (i) a person shall not be treated as having been in paid employment by reason only of his being
+  - (a)[^key-5254c70c8361e0d17675192c184b0040] a Chair, chairman, member or non-executive director of a health and social care body , a health service body[^key-d477116d13c6a2b373d982aae1a823bc] [^key-0f8648c4dcf750e3828693a5e8384048]... or a former health service body (other than a clinical commissioning group)[^key-67341e58d3716d5fb6b9eb3d0611a647] , or
+  - (b) the chair or a member of the governing body of a clinical commissioning group;and
+- (ii) “dismissed” excludes dismissal which was established to have been unfair in industrial tribunal proceedings.
+
+## 5. Cessation of disqualification[^key-44cf9974eb85ecd450be0b96bd5eb0ab]
+
+(1) Subject to paragraph (2), where a person is disqualified under regulation 4(1)(b) (dismissed employees) that person may, after the expiry of a period of not less than two years, apply in writing to the Department to remove the disqualification and the Department may direct that the disqualification shall cease.
+
+(2) Where the Department refuses an application to remove a disqualification no further application may be made by that person until the expiration of two years from the date of the application.
+
+(3) Where a person is disqualified under regulation 4(1)(h) (certain Chairs, chairmen, members and non-executive directors whose appointments have been terminated), the disqualification shall cease on the expiry of a period of two years or such longer period as the Department specifies when terminating the period of office, but the Department may, on application being made to it by that person, reduce the period of disqualification.
+
+## 6. Tenure of office[^key-9132f8ad57cb1638e396ce33c08d4596]
+
+(1) The tenure of office of the Chair and the members of the RBSO appointed under regulation 2(1)—
+
+- (a) shall be for a period not exceeding 4 years; or
+- (b) such other period as may be determined by the Department at the time the appointments are made.
+
+(2) Subject to regulation 4, the Chair or a member of the RBSO appointed under regulation 2(1) may, on termination of the period of tenure of office, be eligible for re-appointment for such further period, not exceeding 4 years, as the Department may in any particular case determine.
+
+(3) The Department may instead of re-appointing the Chair or a member of the RBSO appointed under regulation 2(1) on the expiration of his tenure of office, extend his appointment for such further period as may appear reasonable in the particular circumstances; but the period by which an appointment is extended must not exceed 4 years.
+
+(4) A member of the RBSO specified in regulation 2(2)—
+
+- (a) who ceases to hold the qualifying office, shall cease to be a member of the RBSO; or
+- (b) who is suspended from the qualifying office shall be suspended from membership of the RBSO while suspended from that office.
+
+(5) In paragraph (4), “the qualifying office” in relation to a member of the RBSO means the office under the RBSO which the member held at the time of becoming a member of the RBSO.
+
+## 7. Resignations[^key-18bd52820bff838cc8414ccf9097e384]
+
+(1) The Chair or a member of the RBSO appointed under regulation 2(1) may resign his office at any time during his term of office by giving not less than 30 days notice in writing to the Department of his intention to do so.
+
+(2) A person who resigns as Chair of the RBSO may, with the consent of the Department, continue to serve as a member of the RBSO for any part of the period of his appointment which remains when his resignation as Chair takes effect.
+
+(3) Any person to whom paragraph (2) applies, shall inform the Department in writing of his wish to do so when submitting his resignation as Chair.
+
+(4) Any person who fails to comply with paragraph (3) shall cease to be a member of the RBSO on the termination of his term of office as Chair.
+
+(5) In the case of a member of the RBSO appointed under regulation 2(1) who during his term of office is appointed Chair of the RBSO, the terms on which he was appointed a member shall cease to apply on the day on which his appointment as Chair takes effect.
+
+## 8. Removal[^key-df7973058969e57dd2c4e02849c82d19]
+
+(1) Where any member of the RBSO appointed under regulation 2(1)—
+
+- (a) becomes disqualified for appointment under regulation 4;
+- (b) is absent from meetings of the RBSO for more than 6 months consecutively, except for an approved reason;
+- (c) is convicted of an indictable offence;
+- (d) is incapable of carrying out his functions for reasons of ill health; or
+- (e) has failed to comply with regulation 9 (exclusion on account of pecuniary interest);
+
+the RBSO shall forthwith, by resolution, declare the office to be vacant and shall notify that fact in such manner as it thinks fit, and thereupon the office shall become vacant.
+
+(2) In paragraph (1)(b) “approved reason” means a reason approved by the Department.
+
+(3) Where the place of a Chair or a member appointed under regulation 2(1) becomes vacant before the expiration of the Chair or the member’s term of office, whether by death, resignation or otherwise, the vacancy shall be filled by appointment by the Department and any person so appointed shall hold office for the remainder of the term of office of the former member.
+
+(4) Where the Department is of the opinion that it is not in the interests of, or conducive to the good management of, the RBSO or any of its committees that the Chair or any member of the RBSO should continue to hold office, it may forthwith remove that person by giving him notice in writing to that effect.
+
+(5) Where a person has been appointed Chair or a member of the RBSO under regulation 2(1) and it comes to the attention of the Department that at the time of the appointment that person was disqualified for appointment under regulation 4, it shall forthwith declare that the person in question was not duly appointed and notify him in writing to that effect; and upon receipt of such notification, he shall be removed and he shall cease to act as such Chair or member of the RBSO.
+
+## 9. Disclosure of pecuniary interest and exclusion of Chair and members of the RBSO in proceedings on account of pecuniary interest[^key-9fa11b7c4b46d24680d50b0836018a34]
+
+(1) Subject to the following provisions of this regulation, if the Chair or any other member of the RBSO has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter and is present at any meeting of the RBSO at which the contract, proposed contract or other matter is the subject of consideration, he shall, at the meeting or as soon as practicable after its meeting, disclose his interest and shall not take part in the consideration or discussion of the contract or other matter or vote on any question with respect to it.
+
+(2) The RBSO may, by standing orders made under regulation 12, provide for the exclusion of the Chair or any other member of the RBSO from a meeting of the RBSO while any contract or other matter in which he has a pecuniary interest, direct or indirect, is under consideration.
+
+(3) Any remuneration, compensation or allowances payable to the Chair or other member of the RBSO by virtue of paragraph 4 of Schedule 4 to the Act (remuneration and allowances) shall not be treated as pecuniary interest for the purpose of this regulation.
+
+(4) Subject to paragraphs (2) and (5), the Chair or other member of the RBSO shall be treated for the purpose of this regulation as having an indirect pecuniary interest in a contract, proposed contract or other matter if—
+
+- (a) he, or a nominee of his, is a director of a company or other body, not being a public body, with which the contract was made or is proposed to be made or which has a direct pecuniary interest in the other matter under consideration; or
+- (b) he is a partner of, or in the employment of, a person with whom the contract was made or who has a direct pecuniary interest in the other matter under consideration;
+
+and in the case of married persons or civil partners[^key-149af76d7ff0a5742cdfd7b3c845b9ee] living together the interest of one spouse or civil partners[^key-3ff4e0f10f0439a8567468afde78d3f7] shall, if known to the other, be deemed for the purpose of this regulation to be also an interest of the other.
+
+(5) Neither the Chair nor a member of the RBSO shall be treated as having a pecuniary interest in any contract, proposed contract or other matter by reason only—
+
+- (a) of his membership of a company or other body if he has no beneficial interest in any securities of that company or other body; or
+- (b) of an interest in any company, body or person with which he is connected as mentioned in paragraph (4) which is so remote or insignificant that it cannot reasonably be regarded as likely to influence him in consideration or discussion of, or in voting on, any question with respect to that contract, proposed contract or other matter.
+
+(6) Where the Chair or other member of the RBSO—
+
+- (a) has an indirect pecuniary interest in a contract, proposed contract or other matter by reason only of a beneficial interest in securities of a company or other body; and
+- (b) the total nominal value of those securities does not exceed £5000 or one-hundredth of the total nominal value of the issued share capital of the company or body, whichever is the lesser; and
+- (c) if the share capital is of more than one class, the total nominal value of shares of any one class in which he has a beneficial interest does not exceed one-hundredth of the total issued capital of that class,
+
+this regulation shall not prohibit him from taking part in the consideration or discussion of the contract, proposed contract or other matter, or from voting on any question with respect to it, without prejudice however to his duty to disclose his interest.
+
+(7) This regulation applies to any committee or sub-committee of the RBSO as it applies to the RBSO and applies to any member of any such committee or sub-committee (whether or not he is also a member of the RBSO) as it applies to a member of the RBSO.
+
+(8) In this regulation—
+
+- “public body” includes—
+  - (a) any body established for the purpose of carrying on under national ownership, any industry or undertaking or part of any industry or undertaking;
+  - (b) the governing body of any university, university college or college school or hall of a university; and
+  - (c) the National Trust for Places of Historic Interest or Natural Beauty incorporated by the National Trust Act[^f00012];
+- “securities” means—
+  - (a) shares or debentures, whether or not constituting a charge on the assets of a company or other body, or rights or interests in any share or such debentures; or
+  - (b) rights (whether actual or contingent) in respect of money lent to, or deposited with, any industrial or provident society or building society;
+- “shares” means shares in the share capital of a company or other body or the stock of a company or other body.
+
+## 10. Committees[^key-81fffadf3b55867bd5af30a2b8a75d41]
+
+(1) The RBSO may appoint one or more committees to which it may delegate such of its functions as it thinks fit.
+
+(2) References in these regulations to a committee are to a committee appointed under paragraph (1).
+
+(3) A committee appointed under this regulation may include persons who are not members of the RBSO.
+
+(4) Every member of a committee who, at the time of appointment, was a member of the RBSO shall, on ceasing to be a member of the RBSO, also cease to be a member of the committee.
+
+## 11. Sub-committees[^key-e5f07d7ca4ced026470b5e90a083dcaf]
+
+(1) The RBSO or a committee may appoint a sub-committee to consider and report to the RBSO or, as the case may be, the committee on any matter within the competence of the RBSO or the committee.
+
+(2) References in these regulations to a sub-committee are to a sub-committee appointed under paragraph (1).
+
+(3) A sub-committee may include persons who are not members of the RBSO or the committee which appoints the sub-committee.
+
+## 12. Proceedings[^key-6b43f2b8ef4a3bac4fb0bb913ea7404f]
+
+Without prejudice to section 19(1)(a)(v) of the Interpretation Act (Northern Ireland) 1954[^f00013] (right of a body corporate to regulate its own procedure) the RBSO shall make standing orders regulating the procedure of the RBSO, its committees and sub-committees, including provision regulating—
+
+- (a) the convening of meetings;
+- (b) the fixing of the quorum; and
+- (c) the conduct of business at meetings.
+
+## 13. Validity of proceedings[^key-587da5b205bc65eac1ea76e2fa24eb47]
+
+The proceedings of the RBSO or of any committee or sub-committee are not invalidated—
+
+- (a) by any vacancy in the membership of the RBSO or the committee or sub-committee;
+- (b) by any defect in the appointment of any of its members; or
+- (c) by any failure to comply with regulation 12.
+
+## 14. Annual report[^key-abd93cc696b9e29c288b5ced7e771eb4]
+
+The RBSO shall, in respect of each financial year, prepare and send to the Department a report on the exercise of its functions which shall—
+
+- (a) specify the financial year to which it relates;
+- (b) describe the organisational structure of the RBSO and the matters for which the RBSO is responsible;
+- (c) review the RBSO’s activities during that year, including details of—
+  - (i) the priorities and objectives which have been set; and
+  - (ii) the achievements of the RBSO, measured by reference to the priorities and objectives which have been set;
+- (d) specify any material events affecting the performance;
+- (e) include the names of any persons who at any time during the relevant financial year have been a member of the RBSO.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 11th March 2009
+
+Dr J F Livingstone
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+EXPLANATORY NOTE
+
+(This note is not part of the regulations)
+
+These regulations make provision concerning the membership of the Regional Business Services Organisation established under the Health and Social Care (Reform) Act (Northern Ireland) 2009. They prescribe that 8 persons shall be appointed to the Regional Business Services Organisation Board by the Department (regulation 2(1)) and that the Director of Operations, Director of Human Resources and Corporate Services and Director of Finance shall be Board members (regulations 2(2)). They also make provision relating to joint officer appointments, provide for the disqualification and cessation of disqualification for appointment of persons appointed by the Department under these regulations and prescribe in relation to tenure of office, resignation, suspension and removal and disclosure of interests of Board members. In addition, the regulations make provision in relation to standing orders and the appointment of committees and sub-committees. They also prescribe the content of the Regional Business Services Organisation’s annual report.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
+
+[^key-1e6fcdc9c485a2669fe66ed05e4a3974]: Commencement: Reg. 1 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); the relevant amending instrument is [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455)
+
+[^key-a9813c44ce3c3059bc819929e5fc932d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 47](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/47)
+
+[^key-9d0410de529b07e251d18a24fc8464a6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 54(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/54/2)
+
+[^key-d6910de8ffb24953bbab71eec2bbd71c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(2)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/2/a)
+
+[^key-811a0021e4fad74b45f0c2dcac05c9bb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/2/a)
+
+[^key-50595dcc43d334c5844f2833c05e56fa]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/34/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^f00003]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)
+
+[^key-cb92eb073f2596ff71eeff8afe4802e8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/2/b/i)
+
+[^key-204badef96012cb5e242e324daad12d4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/2/b/i)
+
+[^key-99cdc523e99930c9a78ebad75a042f60]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/2/b/ii)
+
+[^key-dd68c4931c1ed483ea299b851ff4133a]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-6d9eb753c93bddcbf228f6c233c90d5c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/34/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^f00004]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 2 was amended by paragraph 1 of Schedule 7 to the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41) and by section 28 of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19); section 10 was amended by paragraph 2 of Schedule 6 to the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53)
+
+[^f00005]: Footnote: [2003 c.4](https://www.legislation.gov.uk/ukpga/2003/4)
+
+[^key-b1650f0d0a28363dab6a4d48b647abca]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/2/d) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/2/b/iii)
+
+[^f00007]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14)
+
+[^key-25652c357ef6fa474c8f3c59c634b464]: Commencement: Reg. 2 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-d4dbd2fed1431810001f6fd3a75fcfe6]: Commencement: Reg. 3 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-ecaa8cee14185a9a2d55a397812f74a0]: Commencement: Reg. 4 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-3a3312aad0ec4f7298e3b7828181062a]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/3/a)
+
+[^key-101f0388178a8eba4d6b29651a3c2205]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/c) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 54(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/54/3)
+
+[^f00008]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
+
+[^f00009]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46)
+
+[^f00010]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45)
+
+[^f00011]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40)
+
+[^key-8715058a50c05c65fcaedec595e043f2]: Textual amendment: Words in [reg. 4(1)(f)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/f) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/3/a/i)
+
+[^key-74ce945dfabb47320677419fbe207f60]: Textual amendment: [Reg. 4(1)(fa)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/fa) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/3/a/ii)
+
+[^key-39b305b432bef7bc6657767175ed8808]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/h) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(3)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/3/d)
+
+[^key-8f72cce67200bff94d658c209e7adf2b]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/h) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(3)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/3/a/iii/aa)
+
+[^key-346a622ba5addef07659c6fbdf33ec1d]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/h) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(3)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/3/a/iii/bb)
+
+[^key-01dd0cb1f0fba6c088bc241a34eafbc7]: Textual amendment: [Reg. 4(1)(i)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/1/i) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(3)(e)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/3/e)
+
+[^key-5254c70c8361e0d17675192c184b0040]: Textual amendment: Words in [reg. 4(3)(i)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/3/i) renumbered as reg. 4(3)(i)(a) (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/3/f/ii)
+
+[^key-d477116d13c6a2b373d982aae1a823bc]: Textual amendment: Words in [reg. 4(3)(i)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/3/i) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 138(3)(f)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/138/3/f/i)
+
+[^key-0f8648c4dcf750e3828693a5e8384048]: Textual amendment: Words in [reg. 4(3)(i)(a)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/3/i/a) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/3/b/i)
+
+[^key-67341e58d3716d5fb6b9eb3d0611a647]: Textual amendment: Words in [reg. 4(3)(i)(a)](https://www.legislation.gov.uk/nisr/2009/97/regulation/4/3/i/a) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/9/3/b/ii)
+
+[^key-44cf9974eb85ecd450be0b96bd5eb0ab]: Commencement: Reg. 5 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-9132f8ad57cb1638e396ce33c08d4596]: Commencement: Reg. 6 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-18bd52820bff838cc8414ccf9097e384]: Commencement: Reg. 7 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-df7973058969e57dd2c4e02849c82d19]: Commencement: Reg. 8 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-9fa11b7c4b46d24680d50b0836018a34]: Commencement: Reg. 9 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-149af76d7ff0a5742cdfd7b3c845b9ee]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/nisr/2009/97/regulation/9/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [164(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/164/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-3ff4e0f10f0439a8567468afde78d3f7]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/nisr/2009/97/regulation/9/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [164(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/164/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^f00012]: Footnote: [1907 c.36](https://www.legislation.gov.uk/ukpga/1907/36)
+
+[^key-81fffadf3b55867bd5af30a2b8a75d41]: Commencement: Reg. 10 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-e5f07d7ca4ced026470b5e90a083dcaf]: Commencement: Reg. 11 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-6b43f2b8ef4a3bac4fb0bb913ea7404f]: Commencement: Reg. 12 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^f00013]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-587da5b205bc65eac1ea76e2fa24eb47]: Commencement: Reg. 13 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)
+
+[^key-abd93cc696b9e29c288b5ced7e771eb4]: Commencement: Reg. 14 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/97/regulation/1/1)

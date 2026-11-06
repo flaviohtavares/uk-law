@@ -1,0 +1,1041 @@
+---
+title: Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000
+id: nisr/2000/78
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2000-03-11'
+text_date: '2014-05-21'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2000/78
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/78/pdfs/nisr_20000078_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/78/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000
+
+> Text as at 2014-05-21.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2000 No. 78
+
+FOOD
+
+Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000
+
+Made
+
+11th March 2000
+
+Coming into operation
+
+1st April 2000
+
+The Secretary of State, in exercise of the power conferred by section 42(1), (2) and (3)(*b*) of the Food Standards Act 1999[^f00001] and now exercisable by him[^f00002], hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-e23730af71b798f147d9e4580ed7ac3a]
+
+These Regulations may be cited as the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000 and shall come into operation on 1st April 2000.
+
+## 2. Interpretation[^key-fbedca80ae99e346c1954d88307444f3]
+
+(1) In these Regulations—
+
+- “the 1999 Act” means the Food Standards Act 1999;
+- “instrument” means any instrument (other than any statutory instrument or statutory rule) relating to a transferred function, issued or made by or on behalf of a Northern Ireland Department, including—
+  - (a) appointments (other than any appointment to an advisory committee);
+  - (b) approvals, authorisations, licences, provisional licences and registrations;
+  - (c) certificates;
+  - (d) codes of practice;
+  - (e) designations;
+  - (f) notices;
+  - (g) operation manuals, and other documents containing guidance, relating to the protection of public health from risks which may arise in connection with the consumption of food (including risks caused by the way in which it is produced or supplied) or otherwise relating to the protection of the interests of consumers in relation to food;
+  - (h) schemes and byelaws; and
+  - (i) warrants;
+- “transferred function” means any function—
+  - (a) of the Department of Agriculture and Rural Development[^f00003] referred to in—
+    - (i) subsection (2) of section 26 of the 1999 Act (statutory functions of the Department of Agriculture and Rural Development ceasing to be exercisable by it);
+    - (ii) paragraph 6 of Schedule 5 to the 1999 Act and paragraphs 26 to 42 of that Schedule (amendments respectively to the Food and Environment Protection Act 1985[^f00004] and the Food Safety (Northern Ireland) Order 1991[^f00005]; and
+    - (iii) the entries in Schedule 6 of the 1999 Act relating to the repeals of provisions of the Food Safety (Northern Ireland) Order 1991 (other than Articles 24 and 25(3)),
+
+    which relates to functions falling to the Agency under or by virtue of the 1999 Act; or
+  - (b) exercisable by the Agency instead of a Northern Ireland Department after the coming into operation of these Regulations by virtue of regulations 3 to 12(1) (consequential provisions),
+
+  but does not include any exercise of the powers referred to in regulation 13(1)(*c*) or (*d*).
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Regulations relating to egg products, dairy products and egg hygiene: consequential provisions[^key-a8c4b7b8136547db44039354a1b2324d]
+
+(1) The Egg Products Regulations (Northern Ireland) 1993[^f00007] shall be modified in accordance with the provisions of Part I of Schedule 1.
+
+(2) Save in so far as they relate to zootechnical products (as referred to in section 29(2)(*d*) of the 1999 Act), the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00008] shall be modified in accordance with the provisions of Part II of Schedule 1.
+
+(3) The Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^f00009] shall be modified in accordance with the provisions of Part III of Schedule 1.
+
+## 4. Regulations relating to feedingstuffs: consequential provisions[^key-b64b888cedcd7739aab0a6da22fd7817]
+
+(1) The Feeding Stuffs Regulations (Northern Ireland) 1995[^f00010] shall be modified in accordance with the provisions of Part I of Schedule 2.
+
+(2) The Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^f00011] shall be modified, in relation to Northern Ireland, in accordance with the provisions of Part II of Schedule 2.
+
+(3) Save in so far as they relate to zootechnical products (as referred to in section 29(2)(*d*) of the 1999 Act), the Feeding Stuffs (Enforcement) Regulations 1999[^f00012] shall be modified, in relation to Northern Ireland, in accordance with the provisions of Part III of Schedule 2.
+
+(4) The Animal Feedingstuffs from Belgium (Control) Regulations (Northern Ireland) 2000[^f00013] shall be modified in accordance with the provisions of Part IV of Schedule 2.
+
+## 5. Regulations relating to general food hygiene, temperature control and fish and shellfish hygiene: consequential provisions[^key-0e3f27a458a1a1a5d4306f8cdadbc09e]
+
+(1) The Food Safety (General Food Hygiene) Regulations (Northern Ireland) 1995[^f00014] shall be modified in accordance with the provisions of Part I of Schedule 3.
+
+(2) The Food Safety (Temperature Control) Regulations (Northern Ireland) 1995[^f00015] shall be modified in accordance with the provisions of Part II of Schedule 3.
+
+(3) The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations (Northern Ireland) 1998[^f00016] shall be modified in accordance with the provisions of Part III of Schedule 3.
+
+## 6. Regulations relating to meat hygiene, etc.: consequential provisions[^key-1ed892ec126e31a94cee921bb34d5aa4]
+
+(1) The Meat (Hygiene, Inspection and Examination for Residues) (Charges) Regulations (Northern Ireland) 1995[^f00017] shall be modified in accordance with the provisions of Part I of Schedule 4.
+
+(2) The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995[^f00018] shall be modified in accordance with the provisions of Part II of Schedule 4.
+
+(3) The Fresh Meat (Beef Controls) Regulations (Northern Ireland) 1996[^f00019] shall be modified in accordance with the provisions of Part III of Schedule 4.
+
+(4) The Beef Bones Regulations (Northern Ireland) 1997[^f00020] shall be modified in accordance with the provisions of Part IV of Schedule 4.
+
+(5) The Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^f00021] shall be modified in accordance with the provisions of Part V of Schedule 4.
+
+(6) The Meat Products (Hygiene) Regulations (Northern Ireland) 1997[^f00022] shall be modified in accordance with the provisions of Part VI of Schedule 4.
+
+(7) The Minced Meat and Meat Preparations (Hygiene) Regulations (Northern Ireland) 1997[^f00023] shall be modified in accordance with the provisions of Part VII of Schedule 4.
+
+(8)[^key-d3f92d8caef44ae248490956d0ed6f9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) The Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^f00025] shall be modified in accordance with the provisions of Part IX of Schedule 4.
+
+(10) The Animal By-Products (Identification) Regulations (Northern Ireland) 1999[^f00026] shall be modified in accordance with the provisions of Part X of Schedule 4.
+
+(11)[^key-53ba12212fb89b4a0976e4ed0cc97922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Regulations relating to imports and exports: consequential provisions[^key-e15cca1dc981588adbfe9595ee68bde6]
+
+(1) The Imported Food Regulations (Northern Ireland) 1991[^f00028] shall be modified in accordance with the provisions of Part I of Schedule 5.
+
+(2) The Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^f00029] shall be modified in accordance with the provisions of Part II of Schedule 5.
+
+## 8. Regulations relating to food irradiation: consequential provisions[^key-191401bca2e5c244edd3256aa7ee36a6]
+
+The Food (Control of Irradiation) Regulations (Northern Ireland) 1992[^f00030] shall be modified in accordance with the provisions of Schedule 6.
+
+## 9. Emergency Control Orders: consequential provisions[^key-dff2e907fb8eb7a4117dc00cfab48466]
+
+(1) The Food (Peanuts from Egypt) (Emergency Control) Order (Northern Ireland) 1999[^f00031] shall be modified in accordance with the provisions of Part I of Schedule 7.
+
+(2) The Food (Animal Products from Belgium) (Emergency Control) Order (Northern Ireland) 2000[^f00032] shall be modified in accordance with the provisions of Part II of Schedule 7.
+
+## 10. Other Regulations: consequential provisions[^key-bc3c36ed2a45a2a316a9e3c049e0da9d]
+
+(1)[^key-d50d9a206e536e2690d33d68bd1c8060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Industrial Pollution Control (Applications, Appeals and Registers) Regulations (Northern Ireland) 1998[^f00034] shall be modified in accordance with the provisions of Part II of Schedule 8.
+
+(3) The Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1999[^f00035] shall be modified in accordance with the provisions of Part III of Schedule 8.
+
+(4) The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 1999[^f00036] shall be modified in accordance with the provisions of Part IV of Schedule 8.
+
+## 11. Monitoring of enforcement action, etc.: consequential provisions[^key-643440053532c0d9611504354bd5f4bc]
+
+The definition of “relevant legislation” in section 15(1) of the 1999 Act shall have effect as if the references in paragraph (*b*) to the provisions of Regulations or Orders made under the 1991 Order included references to the provisions of the Regulations made under section 2(2) of the European Communities Act 1972[^f00037] specified in Schedule 9 to these Regulations.
+
+## 12. Instruments, orders and judgments: consequential provisions[^key-497405caf3e437a0d49c64c03f558362]
+
+(1) Subject to the following paragraphs, any provision relating to a transferred function—
+
+- (a) in an instrument made before the coming into operation of these Regulations; or
+- (b) in a court order or judgment made or given before the coming into operation of these Regulations,
+
+shall have effect, so far as may be necessary or expedient in preparation for, in connection with, or in consequence of the transfer of that function to the Agency, as if any references in that provision (including any references which are to be construed as such references) to, or to officers of, a Northern Ireland Department, were references to the Agency, or to its officers, as the context may require.
+
+(2) Paragraph (1) shall not apply—
+
+- (a) to any authorisation, licence or provisional licence issued for the purposes of the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996 in operation at the coming into operation of these Regulations; or
+- (b) to any relevant designation after the expiry of the period of six months beginning at the coming into operation of these Regulations.
+
+(3) Paragraph (1) shall apply to provisions of codes of practice issued under Article 39 of the Food Safety (Northern Ireland) Order 1991 before the coming into operation of these Regulations but shall not apply so as to treat the authority by which the code was issued as altered.
+
+(4) For the purposes of paragraph (2)(*b*), a “relevant designation” is a designation of an official veterinary surgeon, in force at the coming into operation of these Regulations, under or for any purpose relating to—
+
+- (a) the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997;
+- (b) the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995; or
+- (c) the Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997.
+
+## 13. Transitional provisions and savings[^key-6c50d6cef3b3e468ffb86df80ea124ac]
+
+(1) The transfer to the Agency of any transferred function shall not affect—
+
+- (a) the validity of anything done, or having effect as if done, by or on behalf of the Department of Agriculture and Rural Development before the coming into operation of the provision by or under which the function is transferred;
+- (b) the power of the Department of Agriculture and Rural Develpment to act on behalf of the Agency in carrying out its functions;
+- (c) the power of the Department of Agriculture and Rural Development to act as competent authority for the purposes of—
+  - (i) article 14 of Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products[^f00038]; and
+  - (ii) article 3 of Commission Regulation [(EC) No. 1141/97](https://www.legislation.gov.uk/european/regulation/1997/1141) laying down detailed rules for the application of Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards the labelling of beef and beef products[^f00039]; or
+- (d) the power of the Department of Agriculture and Rural Development to join with the Department of Health, Social Services and Public Safety[^f00040] in making Regulations under the Food Safety (Northern Ireland) Order 1991 in relation to—
+  - (i) residues of veterinary products (as defined in section 29(2) of the 1999 Act) in food or food sources; and
+  - (ii) charges for inspection in relation to such residues.
+
+(2) Anything (including legal proceedings or anything in connection with legal proceedings) which at the coming into operation of these Regulations is in the process of being done by or in relation to the Department of Agriculture and Rural Development, so far as it relates to a transferred function, may be continued by or in relation to the Agency.
+
+(3) Anything (including legal proceedings or anything in connection with legal proceedings) done or having effect as if done before the coming into operation of these Regulations by or in relation to the Department of Agriculture and Rural Development, so far as it relates to a transferred function, shall have effect as if done by or in relation to the Agency.
+
+(4) In so far as any existing Regulations or Orders made or having effect as if made by the Department of Agriculture and Rural Development under the Food Safety (Northern Ireland) Order 1991, including any Regulations or Orders made or having effect as if made under that Order by that Department acting jointly with the Department of Health, Social Services and Public Safety, are in force at the coming into operation of these Regulations, the powers of the Department of Agriculture and Rural Development to revoke, amend or re-make the Regulations or Orders shall be exercisable, in the same manner and subject to the same conditions, by the Department of Health, Social Services and Public Safety.
+
+(5) Where any property, right or liability of a Northern Ireland Department is transferred to the Agency by virtue of a scheme made under section 41 of the 1999 Act—
+
+- (a) if the authority making the scheme certifies that the property, right or liability has been transferred to the Agency by virtue of subsection (4) of that section, on a day appointed by the scheme for the transfer of the property, right or liability, the certificate shall be conclusive evidence for all purposes of any fact stated in it with respect to the effect of that subsection in relation to the transfer; and
+- (b) paragraphs (3) and (4) shall not apply on and after that day to the property, right or liability transferred.
+
+## 14. Transitional provisions and savings relating to powers to make Regulations under Part IV of the Agriculture Act 1970[^key-bfd8a25fa1d26bb6ac8ca9a86679a0a4]
+
+(1) Until the coming into force of the first Order under section 31 of the 1999 Act (animal feedingstuffs), the Department of Health, Social Services and Public Safety shall have the same power to make, or join in making, Regulations under Part IV of the Agriculture Act 1970[^f00041] in relation to feedingstuffs as had the Department of Agriculture and Rural Development, in relation to Northern Ireland, immediately before the coming into operation of these Regulations.
+
+(2) The Department of Health, Social Services and Public Safety may, jointly with or instead of, the Department of Agriculture and Rural Development, exercise the power conferred on it by paragraph (1).
+
+(3) Any consultation undertaken wholly or partly before the coming into operation of these Regulations relating to Regulations made under or partly under the power conferred on the Department of Health, Social Services and Public Safety by paragraph (1) shall be as effective for the purposes of the exercise of that power as if undertaken after these Regulations come into operation.
+
+(4) For the purposes of the exercise of the power conferred on the Department of Health, Social Services and Public Safety by paragraph (1) the Agency shall consult with such persons or organisations as appear to it to represent the interests concerned; and the consultation shall be as effective for the purposes of section 84 of the Agriculture Act 1970 as if undertaken under that section.
+
+Signed by authority of the Secretary of State for Northern Ireland
+
+George Howarth
+
+Parliamentary Under Secretary of State
+
+Northern Ireland Office
+
+11th March 2000
+
+## SCHEDULE 1 — Regulations relating to egg products, dairy products and egg hygiene: consequential provisions
+
+Regulation 3
+
+### Part I — Consequential modifications to the Egg Products Regulations (Northern Ireland) 1993[^key-0f550b5602257f592c8934cc7a78ceb8]
+
+In regulation 6(1) and (2) for “The Department” there shall be substituted “The district council”.
+
+### Part II — Consequential modifications to the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995
+
+**1.**[^key-1b4efdbde7038c8066e4c83a8e14738d] In regulation 2(1)—
+
+- (a) before the definition of “animal” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency[^f00042];
+
+  ;
+- (b) in the definition of “approving authority” for “the Department” there shall be substituted “the Agency”;
+- (c) in the definition of “authorised officer”, for “the Department”, in both places where it occurs, there shall be substituted “the Agency”;
+- (d) the definition of “the Department” shall be omitted.
+
+**2.**[^key-9cd88313caa826f682d60d9961734b0e] (1) In the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in each of those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 4(3), 4(4), 4(5), 4(6), 4(8), 4(9), 5(1), 5(2), 8(1), 8(3), 8(8), 16(2), 16(3) and 17.
+
+**3.**[^key-f3b672500963ff27cf8a1cb739fc1c6f] In regulation 18(*a*), for “the Department or a district council” there shall be substituted “an authorised officer”.
+
+### Part III — Consequential modifications to the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995
+
+**1.**[^key-2e422aa80487aec569386047b9f22fd1] In regulation 2(1), before the definition of “authorised officer” there shall be inserted the following definition—
+
+> - “the Agency” means the Food Standards Agency;
+
+.
+
+**2.**[^key-a459942b47835c2037bbeb27eb30471c] In regulation 4, for paragraph (2) there shall be substituted the following paragraph—
+
+> (2) In so far as any Community provisions do not relate to the matters to which paragraph (1) relates—
+>
+> - (a) the Department shall enforce and execute those covered by paragraph (*a*) of the definition of “Community provision” in regulation 2(1); and
+> - (b) the Agency shall enforce and execute those covered by paragraph (*b*) of that definition.
+
+.
+
+**3.**[^key-ba14ad3c09facb7366b276e72756dddb] In regulation 5—
+
+- (a) after “Community provision”, in both places where it occurs, there shall be inserted “covered by regulation 4(2)”; and
+- (b) after “an authorised officer” wherever it occurs, there shall be inserted “of the authority given, by regulation 4(2), the function of enforcing that provision”.
+
+**4.**[^key-bd648b515ff850fa9f07abe5cdc64707] For regulation 6, there shall be substituted the following regulation—
+
+> **6.** If so required by notice in writing served on him by or on behalf of the Department or the Agency, any person carrying on any activity regulated by any Community provision covered by regulation 4(2)(*a*) or (*b*) shall keep or cause to be kept such records as the Department or, as the case may be, the Agency, may reasonably require for the purpose of enforcing or executing any such provision and shall provide the Department or, as the case may be, the Agency, with such records as they may from time to time require.
+
+.
+
+**5.**[^key-e6e4b5363fd84b265fb91994b7365845] In regulation 8(*b*), for “to him by such an officer under these Regulations” there shall be substituted “of him”.
+
+## SCHEDULE 2 — Regulations relating to feedingstuffs: consequential provisions
+
+Regulation 4
+
+### Part I — Consequential modifications to the Feeding Stuffs Regulations (Northern Ireland) 1995
+
+**1.**[^key-9271df54ec0a66c78b1c98d82b626ad9] In regulation 2(1)—
+
+- (a) after the definition of “additive” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) in the definition of “national list” for “the Minister of Agriculture, Fisheries and Food” there shall be substituted “the Agency”.
+
+**2.**[^key-ade8ad4d3260630b961603d62b1093d3] In regulation 15(9), for “the Department of Agriculture” there shall be substituted “the Agency”.
+
+### Part II — Consequential modifications to the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999
+
+**1.**[^key-ca2cb76dcaf49bfa83953535d4afa317] In regulation 2(2)—
+
+- (a) after the definition of “additive” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) the definition of “the Minister” shall be omitted.
+
+**2.**[^key-044a817d738b63b65d62fd3d6bf189bd] (1) In the provisions specified in sub-paragraph (2), for the words “the Minister”, “him” and “it”, wherever they occur in each of those provisions, there shall be substituted “the Agency”, “it” and “the competent body” respectively.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 10, 17, 24 and 31.
+
+**3.**[^key-3a328f670d11b09faac56542c14eb797] (1) In the provisions specified in sub-paragraph (2), for “the Minister”, wherever it occurs in each of those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 33(1), 34(1), 34(2) and 35(1), (3) and (5).
+
+**4.**[^key-e64670815f973df23d7baef3d391f499] In regulations 35(4) and 36(2), for the words “the Minister”, “he” and “him”, wherever they occur in each of those provisions, there shall be substituted “the Agency”.
+
+**5.**[^key-0f836583b61f964859b23bc6b33aeb62] In regulations 36(1) and 37(1) and (2), for the words “the Minister” and “he”, wherever they occur in each of those provisions, there shall be substituted “the Agency”.
+
+**6.**[^key-560766cf23d926b7a5ac1d589c619ad7] For regulation 38 there shall be substituted the following regulation—
+
+> **38. Obligation of competent bodies to supply certain information to the Food Standards Agency**
+>
+> Where any competent body comes into possession of information which it considers will assist the Agency to exercise its functions under regulations 36 and 37, the competent body shall as soon as possible provide that information to the Agency in writing.
+
+.
+
+**7.**[^key-386e6aa21bc33a430d6d7ff6805f88bb] In regulation 39, in the definitions of “approved third country establishment”, “eligible person” and “registered third country establishment”, for “the Minister”, wherever it occurs in each of those definitions, there shall be substituted “the Agency”.
+
+### Part III — Consequential modifications to the Feeding Stuffs (Enforcement) Regulations 1999, save in so far as they relate to zootechnical products (as referred to in section 29(2)(d) of the 1999 Act)
+
+**1.**[^key-48ec1862e85ca3aa6aa84be8065ef771] In regulation 2(1)—
+
+- (a) after the definition of “the Act” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) the definition of “the Minister” shall be omitted.
+
+**2.**[^key-3b6ffb6da1589b26bcae233891fd1e0e] In regulations 4(13) and 6(6), for “the Minister”, wherever it occurs in each of those provisions, there shall be substituted “the Agency”.
+
+**3.**[^key-5e1d2f45fc2624324d42d7b3456b5e2f] In regulation 14—
+
+- (a) for “the Minister” there shall be substituted “the Agency”; and
+- (b) for “him” there shall be substituted “the Agency”.
+
+### Part IV — Consequential modifications to the Animal Feedingstuffs from Belgium (Control) Regulations (Northern Ireland) 2000
+
+**1.**[^key-1357b276da30a69b3ca3556389c37aa0] In regulation 2(1)—
+
+- (a) before the definition of “the Control Order” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ;
+- (b) the definition of “the Department” shall be omitted; and
+- (c) in the definition of “enforcement officer”, for “the Department” there shall be substituted “the Agency”.
+
+**2.**[^key-54ae8af12454393d260194f838cab252] (1) In the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in each of those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 5(1) and (2) and 6(2)(*d*)(i).
+
+## SCHEDULE 3 — Regulations relating to general food hygiene, temperature control and fish and shellfish hygiene: consequential provisions
+
+Regulation 5
+
+### Part I — Consequential modifications to the Food Safety (General Food Hygiene) Regulations (Northern Ireland) 1995[^key-047c9f08c6a28147e570989e17819f33]
+
+In regulation 8(2)(*c*)(i) for “the Department”, in both places where it occurs, there shall be substituted “the Food Standards Agency”.
+
+### Part II — Consequential modifications to the Food Safety (Temperature Control) Regulations (Northern Ireland) 1995[^key-b578715bbd8294b61acb7ee9c28f657b]
+
+In regulations 12(*a*) and 15(2)(*b*)(i) for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Food Standards Agency”.
+
+### Part III — Consequential modifications to the Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations (Northern Ireland) 1998
+
+**1.**[^key-6d168e815eab739e63cb46c050213a34] In regulation 2(1)—
+
+- (a) before the definition of “another EEA State” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) in the definition of “designated bivalve production area”, for “the Department” there shall be substituted “the Agency”.
+
+**2.**[^key-79173d9a4c3aa4f802a9bbb69f5960d1] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are—
+
+- (a) regulations 3(1) to (3), 4, 5(1) and (2), 6(1) and (2), 7(3) and (4), 11(4)(*b*) and (5), 12(2)(*b*) and (3), 14(2) and (4), 22(4), 28(4)(*c*) and 52(1), (2)(*b*) and (3);
+- (b) in Schedule 2 —
+  - (i) paragraph 5 of Chapter III;
+  - (ii) paragraphs 4 and 12 of Section III of Chapter IV;
+  - (iii) paragraph 1(*a*) of Section IV of Chapter IV;
+  - (iv) paragraph 8 of Chapter V; and
+  - (v) paragraph 1 of Chapter VI;
+- (c) in Schedule 3, paragraph 3B(2) of Section II of Chapter V.
+
+**3.**[^key-884bd0cd3f7bad3b7c7a2279dbda9251] In regulation 52(3) for “assigned to them” there shall be substituted “assigned to it or, as the case may be, them”.
+
+**4.**[^key-dd69652a1f11053addbe86817634012e] In regulation 55(2), for “the Department concerned” there shall be substituted “the Department or the Agency”.
+
+## SCHEDULE 4 — Regulations relating to meat hygiene, etc.: consequential provisions
+
+Regulation 6
+
+### Part I — Consequential modifications to the Meat (Hygiene, Inspection and Examination for Residues) (Charges) Regulations (Northern Ireland) 1995
+
+**1.**[^key-cde425b8d08cdf6b89dc043311399b7e] In regulation 1(2), for “the Department” there shall be substituted “the Agency”.
+
+**2.**[^key-982cafc492b560a1111877de9ab6453f] In regulation 2(1)—
+
+- (a) before the definition of “business” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ;
+- (b) for the definition of “health inspection and control exercise” there shall be substituted the following definition—
+
+  > - “health inspection and control exercise” means the supervision and controls specified in the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997, the Poultry Meat Regulations and the Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997 and the monitoring of the requirements of the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996 in so far as such monitoring relates to the welfare of animals slaughtered for human consumption in a slaughterhouse;
+
+  ;
+- (c) for the definition of “the Residues Regulations” there shall be substituted the following definition—
+
+  > - “the Residue Regulations” means the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 1998[^f00043];
+
+  ; and
+- (d) for the definition of “slaughterhouse” there shall be substituted the following definition—
+
+  > - “slaughterhouse” means a slaughterhouse licensed by the Agency under the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997 or the Poultry Meat Regulations; and
+
+  .
+
+**3.**[^key-a3e891404b5fb37e4b2ae0ffb51c6b4c] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 4(1) and (2), 9(1) and (3), 10(2), (3), (5), (6) and (7), 11(1), (2), (5), (6), (7) and (10), 12 and 13(1), (1)(*a*) and (*b*) and (2).
+
+### Part II — Consequential modifications to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995
+
+**1.**[^key-16d92c94c4986d381bb4f4f10bd2fc9f] In regulation 2(1)—
+
+- (a) before the definition of “authorised person” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ;
+- (b) in the definition of “licensed”, for “the Department” there shall be substituted “the Agency”.
+
+**2.**[^key-86f48cae78bb62170e6c10244998f827] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 4(2), (2)(*a*)(i)(*aa*) and (*bb*), (ii)(*aa*) and (*bb*), (iii)(*aa*) and (*bb*), (iv)(*aa*) and (*bb*), (v) and (vi), (2)(*b*), (3) and (4), (6) to (9), 5(1), (1)(*a*) and (*c*), (2) and (4), 6(1), (4) and (5), 8(1), (2) and (4), 10(1), (3), (4) and (5), 11(1), 12(1) to (3), 15(3) and (4), 16(2), 17(1)(*d*) and (*e*)(iii), (3), 21(2)(*b*) and (3), 22, 23 and paragraphs 7(*a*) and 14 of Schedule 7, paragraph 8(*b*)(iv) of Schedule 11 and paragraphs 3 and 4(*e*) of Schedule 15.
+
+### Part III — Consequential modifications to the Fresh Meat (Beef Controls) Regulations (Northern Ireland) 1996
+
+**1.**[^key-bf2cb9a434024d78ee489090c3c04efa] In regulation 2(1) before the definition of “the Department” there shall be inserted the following definition—
+
+> - “the Agency” means the Food Standards Agency;
+
+.
+
+**2.**[^key-db94b04a966a49340db1cd20ab216568] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 4(1), (2) and (3), 5(1) and (2), and 6 and paragraph 7(2) of Part I of Schedule 1 and paragraphs 2 and 6 of Part II of Schedule 1.
+
+**3.**[^key-773e568d8d47a132ccf970c0d08713f4] For regulation 9 there shall be substituted the following regulation—
+
+> **9.** In premises licensed under the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997, these Regulations shall be enforced and executed by the Agency, and in any other case these Regulations shall be enforced and executed by each district council within its district.
+
+.
+
+### Part IV — Consequential modifications to the Beef Bones Regulations (Northern Ireland) 1997
+
+**1.**[^key-80d3019b7681a5c5899f07a3fa9943d3] In regulation 2(1), after the definition of “additive” there shall be inserted the following definition—
+
+> - “the Agency” means the Food Standards Agency;
+
+.
+
+**2.**[^key-bf2c042f5f6b12cf5393a38a6b3c95c3] In regulation 12, for paragraph (1) there shall be substituted the following paragraph—
+
+> (1) In premises licensed under the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997, these Regulations shall be enforced by the Agency, and in any other case the Regulations shall be enforced by each district council within its district and each such authority shall for the purposes of these Regulations be an enforcement authority.
+
+.
+
+### Part V — Consequential modifications to the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997
+
+**1.**[^key-06b53445220b22a1ea65c7ff677343fd] In regulation 2(1)—
+
+- (a) before the definition of “animals” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) the definition of “the Department” shall be omitted.
+
+**2.**[^key-ef28d536b69de76686790c74e92482b2] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are the definitions of “OVS” and “veterinary officer” in regulation 2(1), and regulations 4(1), (2), (3), (4), (7), (8), (9), (10), (11), (12)(*b*)(i) and (ii), (13) and (14), 5(1), (1)(*a*) and (*e*), (2), (3) and (4), 7(1) to (3), 8(1), (2) and (4), 10(1), 11(1) to (3) and (5), 12(3)(*b*), 13(3), 18(1) and (2), 19(1)(*d*), 20(2)(*b*) and (3), 22, 24(4)(*a*)(i) and (iii), (*b*) and (*c*) and paragraph 1(*b*) of Part I of Schedule 6, paragraphs 13 and 14 of Part IX of Schedule 10, paragraph 2(*d*) of Schedule 14 and paragraph 2 of Schedule 16.
+
+### Part VI — Consequential modifications to the Meat Products (Hygiene) Regulations (Northern Ireland) 1997
+
+**1.**[^key-a4ebd13d5bd2de8acfd1cbb2598a8ff6] In regulation 2(1)—
+
+- (a) before the definition of “ambient store” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) the definition of “the Department” shall be omitted.
+
+**2.**[^key-a5bd5b3caa7efb8f3960cf90dbf0bc1e] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are the definition of “approval authority” in regulation 2(1) and regulations 4(1)(*c*), 5(1)(*c*), 19(1) and 22 and paragraph 2(*a*)(iii) of Part IX of Schedule 2.
+
+### Part VII — Consequential modifications to the Minced Meat and Meat Preparations (Hygiene) Regulations (Northern Ireland) 1997
+
+**1.**[^key-b90233753d0c64d6f267138a14659666] In regulation 2(1)—
+
+- (a) before the definition of “approval authority” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ;
+- (b) in the definition of “approval authority” for “the Department” there shall be substituted “the Agency”; and
+- (c) the definition of “the Department” shall be omitted.
+
+**2.**[^key-4fbca20c8e35f6c45393319b17de9381] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 10 and 12(1).
+
+### Part VIII — Consequential modifications to the Specified Risk Material Regulations (Northern Ireland) 1997
+
+**1.**[^key-413c1bfa7276a5fc1b14c6163841a542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-413c1bfa7276a5fc1b14c6163841a542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-413c1bfa7276a5fc1b14c6163841a542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-413c1bfa7276a5fc1b14c6163841a542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part IX — Consequential modifications to the Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997
+
+**1.**[^key-76e71e5d39e84d3e052b7bf08e84d76a] In regulation 2(1)—
+
+- (a) before the definition of “carcase” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ;
+- (b) the definition of “the Department” shall be omitted;
+- (c) in the definition of “licensed”, for “the Department” there shall be substituted “the Agency”;
+- (d) in the definition of “OVS”, for “the Department” there shall be substituted “the Agency”; and
+- (e) in the definition of “veterinary officer”, for “the Department” there shall be substituted “the Agency”.
+
+**2.**[^key-e3eeb4d9dff0a76c8a9598301f65f6a0] (1) In each of the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 3(2), (2)(*a*), (3), (4) and (6), 4(1), (1)(*a*) and (*c*), (2) and (3), 5(3), 6(1), (2) and (4), 7(1), (2) and (3), 9(1), (3), (4) and (5), 10(1), 11(1) to (3), 14(1) and (2), 15(1)(*d*) and (3), 16(2)(*b*) and 18 and paragraph 3(*b*)(iv) of Schedule 7.
+
+### Part X — Consequential modifications to the Animal By-Products (Identification) Regulations (Northern Ireland) 1999
+
+**1.**[^key-f02e2431c24f92c6c921fccc3ba9a8f4] In regulation 2(1)—
+
+- (a) after the definition of “the 1993 Regulations” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) the definition of “the Department” shall be omitted.
+
+**2.**[^key-67c0821a1fb7e90e732aab30aecad8c2] In regulations 3(3)(*a*), 12 and 13 for “the Department” there shall be substituted “the Agency”.
+
+### Part XI — Consequential modifications to the Specified Risk Material (Inspection Charges) Regulations (Northern Ireland) 1999
+
+**1.**[^key-f42a31d365385f70fcfa8552a8dd835f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-f42a31d365385f70fcfa8552a8dd835f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-f42a31d365385f70fcfa8552a8dd835f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Regulations relating to imports and exports: consequential provisions
+
+Regulation 7
+
+### Part I — Consequential modifications to the Imported Food Regulations (Northern Ireland) 1991
+
+**1.**[^key-23da609b46885371dfdc8f67e9fefa4a] In regulation 9(1), before the definition of “bulk lard” there shall be inserted the following definition—
+
+> - “the Agency” means the Food Standards Agency;
+
+.
+
+**2.**[^key-1fca278497098e0ec3660d893028438f] In regulation 10(1)(*c*) and (3) for “the Department”, wherever it occurs in those provisions, there shall be substituted “the Agency”.
+
+### Part II — Consequential modifications to the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998
+
+**1.**[^key-23c000230877ca00ff84f687b27fc1f4] In regulation 2(1)—
+
+- (a) before the definition of “aquaculture product” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ;
+- (b) in the definition of “authorised officer”, after “Department,” there shall be inserted “ the Agency”.
+
+**2.**[^key-ee532172173583f1f9fc4823ab4e1ee9] In regulation 3—
+
+- (a) in paragraphs (1) and (2), after “Department”, wherever it occurs in those provisions, there shall be inserted “or the Agency”;
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (3) The Agency may direct, in relation to cases of a particular description or a particular case, that these Regulations shall be executed and enforced by the Agency instead of the district council, or jointly by the Agency and the district council.
+
+  .
+
+**3.**[^key-50a4db6a9a5a20c18c3e53a0685406f2] In regulation 4—
+
+- (a) after paragraph (1) there shall be inserted the following paragraph—
+
+  > (1A) The Agency, after consulting the Department of Health, Social Services and Public Safety, may also exercise the powers to give directions in paragraph (1), either jointly with the Department or alone.
+
+  .
+- (b) in paragraph (3) for “the Department” there shall be substituted “the Agency or the Department”.
+
+**4.**[^key-9ea1b8acd1327efacb82a9cee8344ca8] In regulation 12(7), for “the Department” there shall be substituted “the Agency”.
+
+**5.**[^key-a550a5a0a5edd3d4b6ec849e96078767] In regulation 14(*c*), after “the Department”, in both places it occurs, there shall be inserted “or the Agency”.
+
+**6.**[^key-d071f76bf00e7bebdbbea363247a34c1] In regulation 20, after paragraph (4) there shall be inserted the following paragraph—
+
+> (5) Before authorising the release of any product, the official veterinary surgeon shall, where he has any doubt relating to the protection of public health whether a product should be released, consult the Agency and shall take no further action in connection with the release of the product without first informing the Agency
+
+.
+
+**7.**[^key-bbe9053dde6534608c6e81d8b297b617] In regulation 24—
+
+- (a) in paragraph (2), for “Subject to paragraph (3)” there shall be substituted “Subject to paragraphs (2A) and (3)”; and
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) Where the official veterinary surgeon consults the Agency in relation to non-compliance of any product of animal origin with public health conditions, he shall not authorise the importer of the products to transport them for storage in a free zone or free warehouse in accordance with the provisos in paragraph (2) without first informing the Agency
+
+  .
+
+**8.**[^key-946082d164902f9cb09efd79a8ee05c0] (1) In regulations 27, 28 and 33(1), after “the Department” there shall be inserted the words “, the Agency”.
+
+(2) In regulation 33, for paragraph (2) there shall be substituted the following paragraph—
+
+> (2) If requested in writing to do so by the Department or the Agency, a district council shall provide the Department or, as the case may be, the Agency with—
+>
+> - (a) such information relating to the calculation of charges as the Department or, as the case may be, the Agency, may require; and
+> - (b) copies of any written representations made by the persons referred to in paragraph (1).
+
+.
+
+**9.**[^key-857a48b84a3712666a1adfbced16562d] (1) In regulation 34(1), for “ask the Department to review the amount of the charge” there shall be substituted—
+
+> - (a) in the case of a charge for a health inspection and control exercise carried out otherwise than in relation to any function of the Agency, ask the Department to review the amount of the charge; and
+> - (b) in the case of a charge for a health inspection and control exercise carried out in relation to any function of the Agency, ask the Agency to review the amount of the charge.
+
+.
+
+(2) In regulation 34(2), after “the Department” there shall be inserted “or, as the case may be, the Agency”.
+
+(3) In regulation 34(4)—
+
+- (a) after “the Department”, in the first place where it occurs, there shall be inserted “or, as the case may be, the Agency”; and
+- (b) after “the Department”, in the second place where it occurs, there shall be inserted “or, as the case may be in relation to a review of a charge levied by the Agency, the Department of Health, Social Services and Public Safety”.
+
+(4) In regulation 34(5), (6) and (7), after “the Department”, wherever it occurs in those provisions, there shall be inserted “or, as the case may be, the Agency”.
+
+**10.**[^key-8823754c949d1ab49eb02c6dcd73d9a4] In regulation 35(1) and (2), after “the Department” there shall be inserted “or the Agency”.
+
+**11.**[^key-06421d317567077217ce340862561b55] In regulation 38(1) and (2), after “the Department” there shall be inserted “, the Agency”.
+
+## SCHEDULE 6 — Regulations relating to food irradiation: consequential provisions
+
+Regulation 8
+
+### Consequential modifications to the Food (Control of Irradiation) Regulations (Northern Ireland) 1992
+
+**1.**[^key-d5f1c72e0b765536977f4e4090b8df28] In regulation 2(1)—
+
+- (a) before the definition of “the Order” there shall be inserted the following definition—
+
+  > - “the Agency” means the Food Standards Agency;
+
+  ; and
+- (b) in the definition of “licensing authority”, for “the Department of Agriculture” there shall be substituted “the Agency”.
+
+**2.**[^key-aa2e9560434d7c67b39dc2a85f9ed524] In paragraphs 1 and 2 of Schedule 2, for “the Department of Agriculture”, wherever it occurs, there shall be substituted “the Agency”.
+
+## SCHEDULE 7 — Emergency Control Orders: consequential provisions
+
+Regulation 9
+
+### Part I — Consequential modifications to the Food (Peanuts from Egypt) (Emergency Control) Order (Northern Ireland) 1999[^key-07e3e2c6dc22994e5675857c02f8c182]
+
+In Article 4(2), for “the Department as it may request for the purpose of its duties under Article 12 of the 1991 Order in connection with this Order” there shall be substituted “the Department or the Food Standards Agency, for the purpose of their duties under Article 12 of the 1991 Order in connection with this Order, as the Department or the Food Standards Agency may respectively request”.
+
+### Part II — Consequential modifications to the Food (Animal Products from Belgium) (Emergency Control) Order (Northern Ireland) 2000[^key-f72babb92864ff05f6bfa186edea662a]
+
+In Article 4(3), for “the Department as it may request for the purpose of its duties under Article 12 of the 1991 Order in connection with the implementation of the Commission Decision in relation to food” there shall be substituted “the Department or the Food Standards Agency, for the purpose of their duties under Article 12 of the 1991 Order in connection with the implementation of the Commission Decision in relation to food, as the Department or the Food Standards Agency may respectively request”.
+
+## SCHEDULE 8 — Other Regulations: consequential provisions
+
+Regulation 10
+
+### Part I — Consequential modifications to the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996
+
+**1.**[^key-52b8007b11dfd39a94b61e318d8c81bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-52b8007b11dfd39a94b61e318d8c81bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-52b8007b11dfd39a94b61e318d8c81bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Consequential modifications to the Industrial Pollution Control (Applications, Appeals and Registers) Regulations (Northern Ireland) 1998[^key-ee658c4e16bee955194d58d24458eebe]
+
+In regulation 5(1), after sub-paragraph (*e*) there shall be added the following sub-paragraph—
+
+> - (f) the Food Standards Agency, in the case of all prescribed processes designated for integrated central control.
+
+.
+
+### Part III — Consequential modifications to the Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1999
+
+**1.**[^key-94aa339bea73465a823a749892cd5fa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-94aa339bea73465a823a749892cd5fa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part IV — Consequential modifications to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 1999
+
+**1.**[^key-b90b04690d9dd9dbd0b8875013133490] In regulation 2(1), before the definition of “bottle” there shall be inserted the following definition—
+
+> - “the Agency” means the Food Standards Agency;
+
+.
+
+**2.**[^key-10185b9c1f94315707f513ceb35a966b] (1) In the provisions specified in sub-paragraph (2), for “the Department”, wherever it occurs in each of those provisions, there shall be substituted “the Agency”.
+
+(2) The provisions referred to in sub-paragraph (1) are regulations 4(1)(*d*)(i), (2), (3), (4) and (6) and paragraphs 1, 4 and 6 of Part II to Schedule 1.
+
+**3.**[^key-fc5a2fda9f6b8a29a65086f41a22208b] In regulation 4(4), for “shall make such inquiry into the matter as may seem to it appropriate ” there shall be substituted “shall make such inquiry into the matter as may seem to the Agency to be appropriate”.
+
+**4.**[^key-44a09a52d9e1650c81e6927380213f73] For regulation 4(5) there shall be substituted—
+
+> (5) Upon the grant or withdrawal of recognition for the purposes of Article 1 pursuant to this regulation the Agency shall inform the Commission of the European Community of such grant or withdrawal.
+
+.
+
+## SCHEDULE 9 — Monitoring of enforcement action, etc.: consequential provisions[^key-ea8438af81eb54c8435c537a5447893a]
+
+Regulation 11
+
+[^key-ea8438af81eb54c8435c537a5447893a]
+
+The Regulations and their provisions made under section 2(2) of the European Communities Act 1972 referred to in regulation 11 are—
+
+|  |  |
+| --- | --- |
+| The Olive Oil (Marketing Standards) Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 431](https://www.legislation.gov.uk/nisr/1987/431)); amended by [S.R. 1993 No. 9](https://www.legislation.gov.uk/nisr/1993/9) and [S.R. 1998 No. 383](https://www.legislation.gov.uk/nisr/1998/383) | All the provisions |
+| The Materials and Articles in Contact with Food Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 432](https://www.legislation.gov.uk/nisr/1987/432)); amended by [S.R. 1991 Nos. 203](https://www.legislation.gov.uk/nisr/1991/203) and [344](https://www.legislation.gov.uk/nisr/1991/344) and [S.R. 1994 No.174](https://www.legislation.gov.uk/nisr/1994/174) | All the provisions |
+| The Organic Products Regulations 1992, [S.I. 1992/2111](https://www.legislation.gov.uk/uksi/1992/2111); amended by [S.I. 1993/405](https://www.legislation.gov.uk/uksi/1993/405), [1994/2286](https://www.legislation.gov.uk/uksi/1994/2286) and [1997/166](https://www.legislation.gov.uk/uksi/1997/166) | All the provisions |
+| The General Product Safety Regulations 1994, [S.I. 1994/2328](https://www.legislation.gov.uk/uksi/1994/2328); amended by [S.I. 1994/3142](https://www.legislation.gov.uk/uksi/1994/3142) and [3144](https://www.legislation.gov.uk/uksi/1994/3144), [S.I. 1996/2756](https://www.legislation.gov.uk/uksi/1996/2756) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) | Regulation 11 |
+| The Infant Formula and Follow-on Formula Regulations (Northern Ireland) 1995 ([S.R. 1995 No. 85](https://www.legislation.gov.uk/nisr/1995/85)); amended by [S.R. 1996 Nos. 53](https://www.legislation.gov.uk/nisr/1996/53) and [383](https://www.legislation.gov.uk/nisr/1996/383) and [S.R. 1997 No. 213](https://www.legislation.gov.uk/nisr/1997/213) | Regulation 9 |
+| The Fresh Meat (Import Conditions) Regulations (Northern Ireland) 1997 ([S.R. 1997 No. 218](https://www.legislation.gov.uk/nisr/1997/218)) | All the provisions |
+| The Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998 ([S.R. 1998 No. 45](https://www.legislation.gov.uk/nisr/1998/45)); amended by [S.R. 1998 Nos. 163](https://www.legislation.gov.uk/nisr/1998/163) and [207](https://www.legislation.gov.uk/nisr/1998/207) and [S.R. 1999 No. 193](https://www.legislation.gov.uk/nisr/1999/193) | All the provisions |
+| The Feeding Stuffs (Establishment and Intermediaries) Regulations 1999, [S.I. 1999/1872](https://www.legislation.gov.uk/uksi/1999/1872) | All the provisions |
+| The Feeding Stuffs (Enforcement) Regulations 1999, [S.I. 1999/2325](https://www.legislation.gov.uk/uksi/1999/2325) | All the provisions |
+| The Animal Feeding Stuffs from Belgium (Control) Regulations (Northern Ireland) 2000 ([S.R. 2000 No. 73](https://www.legislation.gov.uk/nisr/2000/73)) | All the provisions |
+
+(This note is not part of the Regulations.)
+
+These Regulations make transitional and consequential provisions and savings in preparation for, in connection with or in consequence of the coming into force of provisions of the Food Standards Act 1999 and the operation of enactments repealed or amended by provisions of that Act. The Regulations come into operation on 1st April 2000. They transfer functions to the Food Standards Agency under legislation having effect in relation to food safety, consumer protection and animal feed, as specified in the Regulations, and also provide for continuity in relation to transferred functions.
+
+Regulation 2 provides definitions. Regulations 3 to 8 and Schedules 1 to 6 make consequential modifications to Regulations having effect under the Food Safety (Northern Ireland) Order 1991. Regulation 9 and Schedule 7 make consequential modifications to Emergency Control Orders having effect under that Order. Regulation 10 and Schedule 8 make consequential provisions to certain other enactments. Regulation 11 and Schedule 9 make consequential provisions to Regulations in relation to the monitoring by the Agency of enforcement action. Regulation 12 makes consequential provisions to instruments, as defined in regulation 2(1), and court orders and judgments. Regulation 13 makes transitional provisions and savings and regulation 14 makes transitional provisions and savings relating to powers to make Regulations under Part IV of the Agriculture Act 1970.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^f00002]: Footnote: *See* section 1(8) of, and paragraph 4(1)(*a*) of the Schedule to, the Northern Ireland Act [2000 c. 1](https://www.legislation.gov.uk/ukpga/2000/1)
+
+[^key-e23730af71b798f147d9e4580ed7ac3a]: Commencement: Reg. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-fbedca80ae99e346c1954d88307444f3]: Commencement: Reg. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00003]: Footnote: Formerly the Department of Agriculture; *see* Article 3(4) of S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
+
+[^f00004]: Footnote: [1985 c. 43](https://www.legislation.gov.uk/ukpga/1985/43). Part I of the Act was amended by section 51 of the Food Safety Act [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); other relevant amendments to the Act were made by paragraph 29 of Schedule 3 to that Act and S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) and [1820](https://www.legislation.gov.uk/uksi/1999/1820)
+
+[^f00005]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633). The functions exercisable by the Department of Agriculture and Rural Development in pursuance of Article 26(1A) of the Order are specified in the Food Safety (Enforcement) Order (Northern Ireland) 1997 ([S.R. 1997 No. 492](https://www.legislation.gov.uk/nisr/1997/492))
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-a8c4b7b8136547db44039354a1b2324d]: Commencement: Reg. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00007]: Footnote: [S.R. 1993 No. 329](https://www.legislation.gov.uk/nisr/1993/329), to which there are amendments not relevant to these Regulations
+
+[^f00008]: Footnote: [S.R. 1995 No. 201](https://www.legislation.gov.uk/nisr/1995/201); the relevant amending Regulations are [S.R. 1996 No. 287](https://www.legislation.gov.uk/nisr/1996/287)
+
+[^f00009]: Footnote: [S.R. 1995 No. 382](https://www.legislation.gov.uk/nisr/1995/382); the relevant amending Regulations are [S.R.1997 No. 451](https://www.legislation.gov.uk/nisr/1997/451)
+
+[^key-b64b888cedcd7739aab0a6da22fd7817]: Commencement: Reg. 4 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00010]: Footnote: [S.R. 1995 No. 451](https://www.legislation.gov.uk/nisr/1995/451); the relevant amending Regulations are [S.R. 1999 No. 287](https://www.legislation.gov.uk/nisr/1999/287)
+
+[^f00011]: Footnote: S.I. [1999/1872](https://www.legislation.gov.uk/uksi/1999/1872)
+
+[^f00012]: Footnote: S.I. [1999/2325](https://www.legislation.gov.uk/uksi/1999/2325)
+
+[^f00013]: Footnote: [S.R. 2000 No. 73](https://www.legislation.gov.uk/nisr/2000/73)
+
+[^key-0e3f27a458a1a1a5d4306f8cdadbc09e]: Commencement: Reg. 5 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00014]: Footnote: [S.R. 1995 No. 360](https://www.legislation.gov.uk/nisr/1995/360), to which there are amendments not relevant to these Regulations
+
+[^f00015]: Footnote: [S.R. 1995 No. 377](https://www.legislation.gov.uk/nisr/1995/377), to which there are amendments not relevant to these Regulations
+
+[^f00016]: Footnote: [S.R. 1998 No. 207](https://www.legislation.gov.uk/nisr/1998/207), to which there are amendments not relevant to these Regulations
+
+[^key-1ed892ec126e31a94cee921bb34d5aa4]: Commencement: Reg. 6 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00017]: Footnote: [S.R. 1995 No. 431](https://www.legislation.gov.uk/nisr/1995/431)
+
+[^f00018]: Footnote: [S.R. 1995 No. 396](https://www.legislation.gov.uk/nisr/1995/396), to which there are amendments not relevant to these Regulations
+
+[^f00019]: Footnote: [S.R. 1996 No. 404](https://www.legislation.gov.uk/nisr/1996/404), as amended by [S.R. 1996 No. 506](https://www.legislation.gov.uk/nisr/1996/506)
+
+[^f00020]: Footnote: [S.R. 1997 No. 540](https://www.legislation.gov.uk/nisr/1997/540)
+
+[^f00021]: Footnote: [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493)
+
+[^f00022]: Footnote: [S.R. 1997 No. 494](https://www.legislation.gov.uk/nisr/1997/494), as amended by [S.R. 1999 No. 193](https://www.legislation.gov.uk/nisr/1999/193)
+
+[^f00023]: Footnote: [S.R. 1997 No. 495](https://www.legislation.gov.uk/nisr/1997/495)
+
+[^key-d3f92d8caef44ae248490956d0ed6f9c]: Textual amendment: [Reg. 6(8)](https://www.legislation.gov.uk/nisr/2000/78/regulation/6/8) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+
+[^f00025]: Footnote: [S.R. 1997 No. 496](https://www.legislation.gov.uk/nisr/1997/496)
+
+[^f00026]: Footnote: [S.R. 1999 No. 418](https://www.legislation.gov.uk/nisr/1999/418)
+
+[^key-53ba12212fb89b4a0976e4ed0cc97922]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/nisr/2000/78/regulation/6/11) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+
+[^key-e15cca1dc981588adbfe9595ee68bde6]: Commencement: Reg. 7 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00028]: Footnote: [S.R. 1991 No. 475](https://www.legislation.gov.uk/nisr/1991/475), to which there are amendments not relevant to these Regulations
+
+[^f00029]: Footnote: [S.R. 1998 No. 45](https://www.legislation.gov.uk/nisr/1998/45), to which there are amendments not relevant to these Regulations
+
+[^key-191401bca2e5c244edd3256aa7ee36a6]: Commencement: Reg. 8 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00030]: Footnote: [S.R. 1992 No. 172](https://www.legislation.gov.uk/nisr/1992/172)
+
+[^key-dff2e907fb8eb7a4117dc00cfab48466]: Commencement: Reg. 9 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00031]: Footnote: [S.R. 1999 No. 300](https://www.legislation.gov.uk/nisr/1999/300)
+
+[^f00032]: Footnote: [S.R. 2000 No. 72](https://www.legislation.gov.uk/nisr/2000/72)
+
+[^key-bc3c36ed2a45a2a316a9e3c049e0da9d]: Commencement: Reg. 10 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-d50d9a206e536e2690d33d68bd1c8060]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/nisr/2000/78/regulation/10/1) revoked (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [39](https://www.legislation.gov.uk/nisr/2014/107/regulation/39), [Sch. 9](https://www.legislation.gov.uk/nisr/2014/107/schedule/9)
+
+[^f00034]: Footnote: [S.R. 1998 No. 29](https://www.legislation.gov.uk/nisr/1998/29)
+
+[^f00035]: Footnote: [S.R. 1999 No. 308](https://www.legislation.gov.uk/nisr/1999/308)
+
+[^f00036]: Footnote: [S.R. 1999 No. 301](https://www.legislation.gov.uk/nisr/1999/301)
+
+[^key-643440053532c0d9611504354bd5f4bc]: Commencement: Reg. 11 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00037]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-497405caf3e437a0d49c64c03f558362]: Commencement: Reg. 12 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-6c50d6cef3b3e468ffb86df80ea124ac]: Commencement: Reg. 13 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00038]: Footnote: O.J. No. L117, 7.5.97, p. 1
+
+[^f00039]: Footnote: O.J. No. L165, 24.6.97, p. 7
+
+[^f00040]: Footnote: Formerly the Department of Health and Social Services; *see* Article 3(6) of S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
+
+[^key-bfd8a25fa1d26bb6ac8ca9a86679a0a4]: Commencement: Reg. 14 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00041]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40); section 74A was inserted by the European Communities Act [1972, c. 68](https://www.legislation.gov.uk/ukpga/1972/68), Schedule 4, paragraph 6, and the Act was amended by the Agriculture Act 1970 Amendment Regulations 1982 (S.I. [1982/980](https://www.legislation.gov.uk/uksi/1982/980))
+
+[^key-0f550b5602257f592c8934cc7a78ceb8]: Commencement: Sch. 1 Pt. I in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-1b4efdbde7038c8066e4c83a8e14738d]: Commencement: Sch. 1 Pt. II para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00042]: Footnote: *See* section 1 of the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
+
+[^key-9cd88313caa826f682d60d9961734b0e]: Commencement: Sch. 1 Pt. II para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-f3b672500963ff27cf8a1cb739fc1c6f]: Commencement: Sch. 1 Pt. II para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-2e422aa80487aec569386047b9f22fd1]: Commencement: Sch. 1 Pt. III para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-a459942b47835c2037bbeb27eb30471c]: Commencement: Sch. 1 Pt. III para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-ba14ad3c09facb7366b276e72756dddb]: Commencement: Sch. 1 Pt. III para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-bd648b515ff850fa9f07abe5cdc64707]: Commencement: Sch. 1 para. 4 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-e6e4b5363fd84b265fb91994b7365845]: Commencement: Sch. 1 para. 5 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-9271df54ec0a66c78b1c98d82b626ad9]: Commencement: Sch. 2 Pt. I para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-ade8ad4d3260630b961603d62b1093d3]: Commencement: Sch. 2 Pt. I para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-ca2cb76dcaf49bfa83953535d4afa317]: Commencement: Sch. 2 Pt. II para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-044a817d738b63b65d62fd3d6bf189bd]: Commencement: Sch. 2 Pt. II para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-3a328f670d11b09faac56542c14eb797]: Commencement: Sch. 2 Pt. II para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-e64670815f973df23d7baef3d391f499]: Commencement: Sch. 2 para. 4 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-0f836583b61f964859b23bc6b33aeb62]: Commencement: Sch. 2 para. 5 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-560766cf23d926b7a5ac1d589c619ad7]: Commencement: Sch. 2 para. 6 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-386e6aa21bc33a430d6d7ff6805f88bb]: Commencement: Sch. 2 para. 7 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-48ec1862e85ca3aa6aa84be8065ef771]: Commencement: Sch. 2 Pt. III para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-3b6ffb6da1589b26bcae233891fd1e0e]: Commencement: Sch. 2 Pt. III para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-5e1d2f45fc2624324d42d7b3456b5e2f]: Commencement: Sch. 2 Pt. III para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-1357b276da30a69b3ca3556389c37aa0]: Commencement: Sch. 2 Pt. IV para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-54ae8af12454393d260194f838cab252]: Commencement: Sch. 2 Pt. IV para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-047c9f08c6a28147e570989e17819f33]: Commencement: Sch. 3 Pt. I in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-b578715bbd8294b61acb7ee9c28f657b]: Commencement: Sch. 3 Pt. II in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-6d168e815eab739e63cb46c050213a34]: Commencement: Sch. 3 para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-79173d9a4c3aa4f802a9bbb69f5960d1]: Commencement: Sch. 3 para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-884bd0cd3f7bad3b7c7a2279dbda9251]: Commencement: Sch. 3 para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-dd69652a1f11053addbe86817634012e]: Commencement: Sch. 3 para. 4 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-cde425b8d08cdf6b89dc043311399b7e]: Commencement: Sch. 4 Pt. I para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-982cafc492b560a1111877de9ab6453f]: Commencement: Sch. 4 Pt. I para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^f00043]: Footnote: [S.R. 1998 No. 237](https://www.legislation.gov.uk/nisr/1998/237)
+
+[^key-a3e891404b5fb37e4b2ae0ffb51c6b4c]: Commencement: Sch. 4 Pt. I para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-16d92c94c4986d381bb4f4f10bd2fc9f]: Commencement: Sch. 4 Pt. II para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-86f48cae78bb62170e6c10244998f827]: Commencement: Sch. 4 Pt. II para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-bf2cb9a434024d78ee489090c3c04efa]: Commencement: Sch. 4 Pt. III para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-db94b04a966a49340db1cd20ab216568]: Commencement: Sch. 4 Pt. III para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-773e568d8d47a132ccf970c0d08713f4]: Commencement: Sch. 4 Pt. III para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-80d3019b7681a5c5899f07a3fa9943d3]: Commencement: Sch. 4 Pt. IV para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-bf2c042f5f6b12cf5393a38a6b3c95c3]: Commencement: Sch. 4 Pt. IV para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-06b53445220b22a1ea65c7ff677343fd]: Commencement: Sch. 4 Pt. V para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-ef28d536b69de76686790c74e92482b2]: Commencement: Sch. 4 Pt. V para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-a4ebd13d5bd2de8acfd1cbb2598a8ff6]: Commencement: Sch. 4 Pt. VI para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-a5bd5b3caa7efb8f3960cf90dbf0bc1e]: Commencement: Sch. 4 Pt. VI para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-b90233753d0c64d6f267138a14659666]: Commencement: Sch. 4 Pt. VII para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-4fbca20c8e35f6c45393319b17de9381]: Commencement: Sch. 4 Pt. VII para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-413c1bfa7276a5fc1b14c6163841a542]: Textual amendment: [Sch. 4 Pt. VIII](https://www.legislation.gov.uk/nisr/2000/78/schedule/4/part/VIII) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+
+[^key-76e71e5d39e84d3e052b7bf08e84d76a]: Commencement: Sch. 4 Pt. IX para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-e3eeb4d9dff0a76c8a9598301f65f6a0]: Commencement: Sch. 4 Pt. IX para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-f02e2431c24f92c6c921fccc3ba9a8f4]: Commencement: Sch. 4 Pt. X para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-67c0821a1fb7e90e732aab30aecad8c2]: Commencement: Sch. 4 Pt. X para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-f42a31d365385f70fcfa8552a8dd835f]: Textual amendment: [Sch. 4 Pt. XI](https://www.legislation.gov.uk/nisr/2000/78/schedule/4/part/XI) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+
+[^key-23da609b46885371dfdc8f67e9fefa4a]: Commencement: Sch. 5 Pt. I para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-1fca278497098e0ec3660d893028438f]: Commencement: Sch. 5 Pt. I para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-23c000230877ca00ff84f687b27fc1f4]: Commencement: Sch. 5 Pt. II para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-ee532172173583f1f9fc4823ab4e1ee9]: Commencement: Sch. 5 Pt. II para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-50a4db6a9a5a20c18c3e53a0685406f2]: Commencement: Sch. 5 para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-9ea1b8acd1327efacb82a9cee8344ca8]: Commencement: Sch. 5 para. 4 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-a550a5a0a5edd3d4b6ec849e96078767]: Commencement: Sch. 5 para. 5 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-d071f76bf00e7bebdbbea363247a34c1]: Commencement: Sch. 5 para. 6 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-bbe9053dde6534608c6e81d8b297b617]: Commencement: Sch. 5 para. 7 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-946082d164902f9cb09efd79a8ee05c0]: Commencement: Sch. 5 para. 8 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-857a48b84a3712666a1adfbced16562d]: Commencement: Sch. 5 para. 9 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-8823754c949d1ab49eb02c6dcd73d9a4]: Commencement: Sch. 5 para. 10 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-06421d317567077217ce340862561b55]: Commencement: Sch. 5 para. 11 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-d5f1c72e0b765536977f4e4090b8df28]: Commencement: Sch. 6 para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-aa2e9560434d7c67b39dc2a85f9ed524]: Commencement: Sch. 6 para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-07e3e2c6dc22994e5675857c02f8c182]: Commencement: Sch. 7 Pt. I in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-f72babb92864ff05f6bfa186edea662a]: Commencement: Sch. 7 Pt. II in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-52b8007b11dfd39a94b61e318d8c81bd]: Textual amendment: [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2000/78/schedule/8/part/I) revoked (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [39](https://www.legislation.gov.uk/nisr/2014/107/regulation/39), [Sch. 9](https://www.legislation.gov.uk/nisr/2014/107/schedule/9)
+
+[^key-ee658c4e16bee955194d58d24458eebe]: Commencement: Sch. 8 Pt. II in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-94aa339bea73465a823a749892cd5fa2]: Textual amendment: [Sch. 8 Pt. III](https://www.legislation.gov.uk/nisr/2000/78/schedule/8/part/III) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+
+[^key-b90b04690d9dd9dbd0b8875013133490]: Commencement: Sch. 8 Pt. IV para. 1 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-10185b9c1f94315707f513ceb35a966b]: Commencement: Sch. 8 Pt. IV para. 2 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-fc5a2fda9f6b8a29a65086f41a22208b]: Commencement: Sch. 8 Pt. IV para. 3 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-44a09a52d9e1650c81e6927380213f73]: Commencement: Sch. 8 para. 4 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)
+
+[^key-ea8438af81eb54c8435c537a5447893a]: Commencement: Sch. 9 in operation at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1)

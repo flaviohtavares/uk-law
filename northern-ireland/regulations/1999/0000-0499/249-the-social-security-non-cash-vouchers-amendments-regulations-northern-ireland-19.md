@@ -1,0 +1,173 @@
+---
+title: The Social Security (Non-Cash Vouchers Amendments) Regulations (Northern Ireland) 1999
+id: nisr/1999/249
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-05-28'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/249
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/249/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Non-Cash Vouchers Amendments) Regulations (Northern Ireland) 1999
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 249
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Non-Cash Vouchers Amendments) Regulations (Northern Ireland) 1999
+
+Made
+
+28th May 1999
+
+Coming into operation in accordance with regulation 1
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 132(3) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and Articles 14(1) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 2(3) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-88cc048e602aa2959db8a40ffb38c720]
+
+(1) These Regulations may be cited as the Social Security (Non-Cash Vouchers Amendments) Regulations (Northern Ireland) 1999 and subject to paragraphs (2) to (4) shall come into operation on 1st July 1999.
+
+(2) Where a claimant for either income support or a jobseeker’s allowance—
+
+- (a) has an award of either of those benefits which is current on 30th June 1999;
+- (b) that award is reviewed on or after 1st July 1999, and
+- (c) the decision on that review takes effect on or after 1st July 1999,
+
+regulation 2(4) or, as the case may be, 2(5) shall have effect in relation to that claimant from the date from which the decision on the first review of that award after 30th June 1999 takes effect.
+
+(3) In relation to any claimant for housing benefit, regulation 2(3) shall have effect, where that claimant has an award of that benefit which is current on 30th June 1999, from the first day of the first benefit period to commence for that claimant on or after 1st July 1999 and for the purposes of this paragraph, “benefit period” shall have the same meaning as it has in regulation 66 of the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00005].
+
+(4) In relation to any claimant for either disability working allowance or family credit, regulation 2(1) or, as the case may be, 2(2) shall have effect, where that claimant has an award of either of those benefits which expires after 1st July 1999 on the day following the expiration of that award.
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Earnings of employed earners[^key-75a62a2acf54a0ef81cefac7fb27dc9f]
+
+(1) In regulation 21 of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00007] (earnings of employed earners)—
+
+- (a) at the end of paragraph (1), there shall be added the following sub-paragraph—
+
+  > - (j) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with regulation 18(22) to (25) of the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00008] (calculation of earnings).
+
+  ;
+- (b) in paragraph (2)(a), for “paragraph (3)” there shall be substituted “paragraphs (3) and (4)”;
+- (c) after paragraph (3), there shall be added the following paragraph—
+
+  > (4) Paragraph (2)(a) shall not apply in respect of any non-cash voucher referred to in paragraph (1)(j).
+
+  .
+
+(2) In regulation 19 of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00009] (earnings of employed earners)—
+
+- (a) at the end of paragraph (1), there shall be added the following sub-paragraph—
+
+  > - (j) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with regulation 18(22) to (25) of the Social Security (Contributions) Regulations (Northern Ireland) 1979 (calculation of earnings).
+
+  ;
+- (b) in paragraph (2)(a), for “paragraph (3)” there shall be substituted “paragraphs (3) and (4)”;
+- (c) after paragraph (3), there shall be added the following paragraph—
+
+  > (4) Paragraph (2)(a) shall not apply in respect of any non-cash voucher referred to in paragraph (1)(j).
+
+  .
+
+(3)[^key-c53412af4c7f47a75c727e869402fe59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 35 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00011] (earnings of employed earners)—
+
+- (a) at the end of paragraph (1), there shall be added the following sub-paragraph—
+
+  > - (k) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with regulation 18(22) to (25) of the Social Security (Contributions) Regulations (Northern Ireland) 1979 (calculation of earnings).
+
+  ;
+- (b) at the beginning of paragraph (2)(a), there shall be inserted “subject to paragraph (2A),”;
+- (c) after paragraph (2), there shall be added the following paragraph—
+
+  > (2A) Paragraph (2)(a) shall not apply in respect of any non-cash voucher referred to in paragraph (1)(k).
+
+  .
+
+(5) In regulation 98 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00012] (earnings of employed earners)—
+
+- (a) at the end of paragraph (1), there shall be added the following sub-paragraph—
+
+  > - (i) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with regulation 18(22) to (25) of the Social Security (Contributions) Regulations (Northern Ireland) 1979 (calculation of earnings).
+
+  ;
+- (b) at the beginning of paragraph (2)(a), there shall be inserted “subject to paragraph (2A),”;
+- (c) after paragraph (2), there shall be added the following paragraph—
+
+  > (2A) Paragraph (2)(a) shall not apply in respect of any non-cash voucher referred to in paragraph (1)(i).
+
+  .
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+28th May 1999.
+
+The Department of the Environment for Northern Ireland hereby consents to regulation 2(3) of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of the Environment for Northern Ireland on
+
+J. McCormick
+
+Assistant Secretary
+
+28th May 1999.
+
+(This note is not part of the Regulations.)
+
+These Regulations further amend the Disability Working Allowance (General) Regulations (Northern Ireland) 1992, the Family Credit (General) Regulations (Northern Ireland) 1987, the Housing Benefit (General) Regulations (Northern Ireland) 1987, the Income Support (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+In particular, regulation 2 of these Regulations provides that, for the purposes of the Regulations referred to above, non-cash vouchers which are not disregarded as payments under the Social Security (Contributions) Regulations (Northern Ireland) 1979 shall be treated as earnings and shall not be treated as payments in kind.
+
+In so far as these Regulations are required, for the purposes of regulation 2(3), to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, (“the 1992 Act”), after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00003]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
+
+[^f00004]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^key-88cc048e602aa2959db8a40ffb38c720]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/249/regulation/1) in operation at 1.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/249/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); regulation 66(4) was amended by regulation 11 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-75a62a2acf54a0ef81cefac7fb27dc9f]: Commencement: Reg. 2 in operation at 1.7.1999 with effect in accordance with reg. 1(1)-(4)
+
+[^f00007]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); to which there are amendments not relevant to these Regulations
+
+[^f00008]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); paragraph (21) was added by regulation 9 of [S.R. 1999 No. 118](https://www.legislation.gov.uk/nisr/1999/118) and paragraphs (22) to (25) were added by regulation 3(d) of [S.R. 1999 No. 119](https://www.legislation.gov.uk/nisr/1999/119)
+
+[^f00009]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); regulation 19(1)(i) was substituted by regulation 6(c) of [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148)
+
+[^key-c53412af4c7f47a75c727e869402fe59]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1999/249/regulation/2/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 35(1)(j) was added by regulation 11(a)(iii) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
+
+[^f00012]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); to which there are amendments not relevant to these Regulations

@@ -1,0 +1,351 @@
+---
+title: The Bee Diseases and Pests Control Order (Northern Ireland) 2007
+id: nisr/2007/246
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2007-04-18'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/246
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/246/pdfs/nisr_20070246_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/246/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bee Diseases and Pests Control Order (Northern Ireland) 2007
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/nisr/2007/246
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 246
+
+BEE DISEASES
+
+The Bee Diseases and Pests Control Order (Northern Ireland) 2007
+
+Made
+
+18th April 2007
+
+Coming into operation
+
+21st May 2007
+
+The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred by Article 3 of The Bees (Northern Ireland) Order 1980[^f00002] makes the following Order:
+
+## 1. Citation and commencement[^key-38591807748e89b524f284e90526ec50]
+
+This Order may be cited as The Bee Diseases and Pests Control Order (Northern Ireland) 2007 and comes into operation on 21st May 2007.
+
+## 2. General interpretation[^key-d135df26e4431909e1baa50e4d37dc71]
+
+(1) In this Order—
+
+- “appliances” means containers and any other equipment used in connection with keeping or transporting bees;
+- “bee pest” means any beetle, mite or similar organism that may be injurious to bees and that is in any stage of its life cycle;
+- “field test kit” means a portable test kit that confirms the presence of a disease without the need to send samples to a laboratory;
+- “hive” means any thing that contains or has at any time contained a colony of bees;
+- “hive debris” includes dead bees, parasites, wax and pollen;
+- “notifiable disease” means American foul brood or European foul brood;
+- “notifiable pest” means the small hive beetle (*Aethina tumida*) or any species of the *Tropilaelaps* mite;
+- “premises” includes any place with or without buildings; and
+- “vehicle” includes any vessel, boat, hovercraft or aircraft.
+
+(2) A notice under this Order—
+
+- (a) shall be in writing;
+- (b) may be suspended, amended or revoked by further notice at any time; and
+- (c) may be subject to conditions.
+
+(3) Paragraph (2)(c) does not apply to a notice under Article 10.
+
+(4) A licence under this Order shall be in writing, may be general or specific, may contain conditions and may be suspended, amended or revoked by notice at any time.
+
+(5) A general licence issued under this Order shall be brought to the attention of those persons whom it is likely to affect by its publication in such newspapers or periodicals or in such other manner as the Department considers necessary.
+
+## 3. Notification of suspicion of a disease or pest[^key-23b9458c987894afb18ad4c716817c97]
+
+(1) An owner or person in charge of a hive who knows or suspects that—
+
+- (a) any bees from the hive are infected with a notifiable disease;
+- (b) a notifiable pest is present in the hive; or
+- (c) a notifiable pest is present on or in the same premises or vehicle as the hive,
+
+shall as soon as is reasonably possible notify that fact to the Department.
+
+(2) Any other person who—
+
+- (a) has in his possession or charge; or
+- (b) discovers in the course of his occupation,
+
+a bee pest that he knows or suspects is a notifiable pest shall immediately notify that fact to the Department.
+
+## 4. Prohibition on removal[^key-337bcec16206c89e8eca6ce775743779]
+
+(1) Where notification has been given under Article 3(1), the owner or person in charge of the hive shall not remove, or permit to be removed, from the premises or vehicle on or in which the hive is situated—
+
+- (a) any hive, bees, combs, bee products, bee pests, hive debris or appliances; or
+- (b) any other thing liable to spread the notifiable disease or the notifiable pest.
+
+(2) The owner or person in charge of a hive may, notwithstanding the provisions of paragraph (1), submit to the Department for laboratory tests samples of—
+
+- (a) any parts of the hive, bees, combs, bee products or hive debris, to establish whether they are infected with a notifiable disease or a notifiable pest;
+- (b) any bee pest to establish whether it is a notifiable pest; and
+- (c) soil from the area surrounding the hive to establish whether it is infected with a notifiable pest.
+
+(3) If a notice is served under Article 6(1) or (2), the prohibition on removal in that notice shall apply in place of the prohibition on removal in paragraph (1).
+
+(4) In the absence of a notice served under Article 6(1) or (2), the prohibition on removal in paragraph (1) shall apply until—
+
+- (a) an authorised person has confirmed by notice that he is satisfied that the bees are not infected with the notifiable disease or that the notifiable pest is not present in the hive or on or in the same premises or vehicle as the hive; or
+- (b) the owner or person in charge of the hive has been informed that the test results on samples submitted to the Department under paragraph (2) confirm that the material sampled is free from infection or is not a notifiable pest.
+
+(5) Any person who gives notification under Article 3(2) shall not remove, or permit to be removed, any bee pest or any other thing by which the notifiable pest is liable to be spread from the premises or vehicle on or in which it is situated.
+
+(6) Any person who gives notification under Article 3(2) may, notwithstanding the provisions of paragraph (5), submit to the Department for laboratory tests samples of—
+
+- (a) any bee pest to see if it is a notifiable pest; and
+- (b) any other thing, including soil, to see if it is infected with a notifiable pest.
+
+(7) If a notice is served under Article 6(1) or (2), the prohibition on removal in that notice shall apply in place of the prohibition on removal in paragraph (5).
+
+(8) In the absence of a notice served under Article 6(1) or (2), the prohibition on removal in paragraph (5) shall apply until—
+
+- (a) an authorised person has confirmed by notice that he is satisfied that the notifiable pest is not present; or
+- (b) the person who gave notification under Article 3(2) has been informed that the test results on samples submitted to the Department under paragraph (6) confirm that the material sampled is not a notifiable pest or is not infected with a notifiable pest.
+
+(9) Any sample submitted under paragraph (2) or (6) shall be packed so as to prevent as far as possible the risk of the spread of infection during transit.
+
+## 5. Marking of hives and appliances[^key-6ca5637e67fa7846582d67f0e8a2a0e1]
+
+(1) An authorised person may mark any hive or appliance for identification purposes.
+
+(2) No person shall in any way interfere with any identifying mark made under paragraph (1) or permit such a mark to be interfered with.
+
+## 6. Notices prohibiting removal[^key-1f3a0554a8170ee0c4e15a574ef19aba]
+
+(1) Where an authorised person has reasonable grounds for suspecting that a notifiable disease or a notifiable pest is present on or in any premises or vehicle, he shall serve on the owner or person in charge of—
+
+- (a) any hive, bees, combs, bee products, bee pests, hive debris or appliances situated on or in the premises or vehicle; or
+- (b) any other thing liable to spread the notifiable disease or the notifiable pest situated on or in the premises or vehicle,
+
+a notice prohibiting their removal and the removal of any bee pests contained in or affecting them, except under the authority of a licence issued by the Department.
+
+(2) Where an authorised person is obstructed in the exercise of his power of entry under Article 4 of the Order, he may serve on the person appearing to him to be the owner or occupier of the premises or the owner or person in charge of the vehicle a notice prohibiting the removal from the premises or vehicle of—
+
+- (a) any hive, bees, combs, bee products, bee pests, hive debris or appliances; or
+- (b) any other thing liable to spread a notifiable disease or a notifiable pest.
+
+(3) A notice served pursuant to paragraph (2) shall be revoked if an authorised person is subsequently able to act without obstruction in the exercise of his power of entry under Article 4 of the Order on or in the premises or vehicle.
+
+(4) In this Article “the Order” means The Bees (Northern Ireland) Order 1980.
+
+## 7. Disease control measures[^key-e814eb1b1c649d70d406a9893ac88f3a]
+
+(1) The presence of a notifiable disease shall be confirmed by an authorised person on the basis of either a laboratory test result or a field test kit result.
+
+(2) Where the presence of American foul brood has been confirmed in a hive, an authorised person—
+
+- (a) shall serve on the owner or person in charge of the hive a notice requiring the destruction in accordance with the notice of any bees, combs or bee products from the hive;
+- (b) may serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of the hive, debris from the hive and any appliances or other things liable to spread the disease;
+- (c) may serve on any other person who is the owner or person in charge of any appliances or other things liable to spread the disease a notice requiring their destruction or treatment in accordance with the notice.
+
+(3) Where the presence of European foul brood has been confirmed in a hive, an authorised person—
+
+- (a) shall serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of any bees, combs or bee products from the hive;
+- (b) may serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of the hive, debris from the hive and any appliances or other things liable to spread the disease;
+- (c) may serve on any other person who is the owner or person in charge of any appliances or other things liable to spread the disease a notice requiring their destruction or treatment in accordance with the notice.
+
+(4) If, once any treatment required by a notice served under this Article has been carried out, an authorised person confirms by way of a laboratory test result or a field test kit result that the notifiable disease remains, an authorised person may serve further notices under this Article.
+
+## 8. Pest control measures[^key-f4f0ff7049a58b774951417803d83f1a]
+
+(1) The presence of a notifiable pest shall be confirmed by an authorised person on the basis of a either laboratory test result or an examination.
+
+(2) Where the presence of a notifiable pest has been confirmed in a hive or on or in the same premises or vehicle as a hive, an authorised person—
+
+- (a) shall serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of the hive, any bees, combs, bee products, bee pests or debris from the hive, and any appliances or other things by which the notifiable pest is liable to be spread;
+- (b) may serve on the owner or occupier of the premises on which the hive is situated a notice requiring the treatment in accordance with the notice of the soil surrounding the hive;
+- (c) may serve on any other person who is the owner or person in charge of any appliances or other things by which the notifiable pest is liable to be spread a notice requiring their destruction or treatment in accordance with the notice.
+
+(3) Where the presence of a notifiable pest is confirmed on or in any other premises or vehicle, an authorised person may serve a notice requiring the destruction or treatment in accordance with the notice of any bee pests and of any other things by which the notifiable pest is liable to be spread on—
+
+- (a) any person who has a bee pest in his possession or charge;
+- (b) the owner or occupier of the premises, or the owner or person in charge of the vehicle.
+
+(4) If, once any treatment required by a notice served under this article has been carried out, an authorised person confirms on the basis of a laboratory test result or an examination that the notifiable pest remains, an authorised person may serve further notices under this Article.
+
+## 9. Notices served under Article 7 or 8[^key-71a6d2edb0caf459980d88fb5587f270]
+
+A notice served under Article 7 or 8 shall specify—
+
+- (a) the method of destruction or treatment, which may, in the case of treatment, include the use of a particular substance or any other action intended to control the disease or pest; and
+- (b) the date by which destruction or treatment must take place, or the period during which treatment must take place,
+
+and may specify that the destruction or treatment is to be carried out by an authorised person, in the presence of an authorised person or under the supervision of an authorised person.
+
+## 10. Declaration of infected area[^key-f14e7d78ed976a5d5525aa074c8bee98]
+
+(1) The Department may by notice declare an area in which it is satisfied that a notifiable pest is present to be an infected area.
+
+(2) The notice may provide that all or any of the provisions specified in the Schedule apply in all or part of the infected area, and that different provisions apply in different parts of the infected area, as the Department considers necessary to prevent the spread of the pest.
+
+(3) The Department shall publish any notice issued under paragraph (1) and any notice amending or revoking such a notice in such manner as it considers appropriate to bring it to the attention of persons likely to be affected by it.
+
+## 11. Imported bees[^key-13c4f9a6e3f082894e9b34e7489817aa][^key-e59e5ea679bdcd20539162309805c7a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Provision of facilities and other obligations[^key-1edfc320e521e1bd2b26daf24af1a3b6]
+
+(1) The owner or person in charge of any hive, bees, combs, bee products or appliances and the owner or occupier of any premises and the owner or person in charge of any vehicle on or in which there is suspected to be a notifiable pest shall—
+
+- (a) make available all such facilities; and
+- (b) give such information (including information concerning the number, location and any movements of hives, bees, combs, bee products or appliances that are or have been in his possession or charge and information concerning the location of any bee pests on the premises or vehicle),
+
+to an authorised person as that authorised person shall reasonably require for the purposes of this Order.
+
+(2) No person may treat bees with a substance which may have the effect of disguising the presence of, or rendering difficult the detection of, a notifiable disease unless he is carrying out the treatment of bees in accordance with a notice served under Article 7.
+
+(3) The Department may by licence exempt any person from the prohibition contained in paragraph (2).
+
+(4) Any person upon whom a notice is served under this Order or who is subject to the provisions of a notice declaring an area to be an infected area within the meaning of Article 10 shall comply with the provisions of that notice.
+
+## 13. Action in default[^key-d29c1c0f948ff6aa3f4f5193d926ce62]
+
+(1) Where any person has not complied with a notice served upon him under this Order, an authorised person may arrange for it to be complied with.
+
+(2) The person upon whom the notice is served shall be liable for any costs incurred under paragraph (1).
+
+(3) Any action taken by an authorised person under paragraph (1) and any recovery of costs under paragraph (2) shall be without prejudice to any proceedings for an offence arising out of contravention of a notice served under this Order.
+
+## 14. Service of notices[^key-d8ffbb3530ac8a203920d5dc9434dcf7]
+
+(1) Any notice served under this Order shall be properly served on any person if—
+
+- (a) delivered to him personally;
+- (b) left at or posted to his home or place of business last known to the Department; or
+- (c) where the conditions in paragraph (2) are fulfilled, sent to him by e-mail.
+
+(2) A notice served on any person by e-mail shall be properly served on him only if he—
+
+- (a) has indicated in writing to the Department (and has not withdrawn the indication) that he is willing to accept service of notices under this Order by e-mail; and
+- (b) has provided in writing to the Department an e-mail address for this purpose.
+
+## 15. Exemptions[^key-f1526915a2641e33aedea33d458ff1d5]
+
+The Department may by licence exempt any person who is involved in research into, or in any course of training relating to, pests or diseases affecting bees from any of the provisions of this Order[^key-f9a85c674970658fab86452bb2d4e2fd]....
+
+## 16. Revocations[^key-b0dc21d80331baefcd7527624fc81426]
+
+The Importation of Bees Order (Northern Ireland) 1980[^f00004], the Importation of Bees (Amendment) Order (Northern Ireland) 1987[^f00005], and the Bee Disease Control Order (Northern Ireland) 1998[^f00006] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 18th April 2007.
+
+L.S.
+
+John Speers
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE — Provisions that may apply in an infected area
+
+Article 10
+
+**1.**[^key-afab601c565bcb8a2270d0aa4b3c3557] An authorised person may serve on the owner or person in charge of any hive, bees, combs, bee products, hive debris or appliances found to have been exposed to infection with the notifiable pest a notice complying with Article 9 requiring their destruction or treatment in accordance with the notice.
+
+**2.**[^key-25ad37829d6389b96c65594eb87c9cde] An authorised person may serve on the owner or occupier of any premises on which a hive found to have been exposed to infection is situated a notice complying with Article 9 requiring the treatment in accordance with the notice of the soil surrounding the hive.
+
+**3.**[^key-fd9ea5c014c2321f816126d77f342b51] A person shall not move, or permit to be moved, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread into or out of the infected area, except under the authority of a licence granted by the Department.
+
+**4.**[^key-b3d1b0a105ad50be25bc54e01078846d] A person shall not remove, or permit to be removed, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread from the premises or vehicle on or in which they are situated, except under the authority of a licence granted by the Department.
+
+**5.**[^key-698ba9cf4f0312314e182a74be90206b] The owner or person in charge of any hive, bees, combs, bee products or appliances shall notify the Department as soon as is reasonably practicable of his name and address and the location of any hive, bees, combs, bee products or appliances in his possession or charge.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and replaces the Bee Disease Control Order (Northern Ireland) 1998 ([S.R. 1998 No. 191](https://www.legislation.gov.uk/nisr/1998/191)). It also revokes the Importation of Bees Order (Northern Ireland) 1980 ([S.R. 1980 No. 211](https://www.legislation.gov.uk/nisr/1980/211)) and the Importation of Bees (Amendment) Order (Northern Ireland) 1987 ([S.R. 1987 No. 320](https://www.legislation.gov.uk/nisr/1987/320)).
+
+Article 3 of the Order makes provision for the notification of the presence or suspected presence of a notifiable disease or a notifiable pest to the Department. The giving of such notification triggers a prohibition on the movement of things that might spread the disease or pest (Article 4). Under the Order American foul brood and European foul brood are notifiable diseases, and small hive beetle and any species of the *Tropilaelap*s mite are notifiable pests.
+
+Where an authorised person has reasonable grounds for suspecting the presence of a notifiable disease or a notifiable pest, he must serve a notice prohibiting the movement of certain items (article 6(1)). If an authorised person is obstructed in the exercise of his power of entry he may serve a notice prohibiting movement of certain items (article 6(2)).
+
+Article 7 sets out the measures that apply on confirmation of the presence of a notifiable disease. Article 8 sets out the measures that apply on confirmation of the presence of a notifiable pest.
+
+The Department may declare by notice an area to be an infected area if it is satisfied that a notifiable pest is present in that area (article 10). The Department may specify in the notice that all or any of the provisions in the Schedule apply in some or all of the infected area.
+
+Article 11 implements for Northern Ireland the provisions of Commission Decision [2003/881/EC](https://www.legislation.gov.uk/european/decision/2003/0881) (O.J. No. L328, 17.12.2003, p. 26) as amended by Commission Decision [2005/60/EC](https://www.legislation.gov.uk/european/decision/2005/0060) (O.J. No. L25, 28.1.2005, p. 64) that apply to bees after they have been imported into Northern Ireland from a third country. The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 ([S.R. 2006 No. 401](https://www.legislation.gov.uk/nisr/2006/401)) implement for Northern Ireland the import conditions contained in Commission Decision [2003/881/EC](https://www.legislation.gov.uk/european/decision/2003/0881).
+
+Article 12 requires the provision of facilities and the giving of information to authorised persons in certain circumstances. Article 12 also prohibits the use of substances that may disguise the presence of or render difficult the detection of a notifiable disease other than in accordance with a notice requiring treatment under article 7.
+
+Article 13 provides that where any person has not complied with a notice served under the Order, an authorised person may arrange for it to be complied with at the expense of the person upon whom the notice is served.
+
+In accordance with Article 7 of The Bees (Northern Ireland) Order 1980, breach of any provision of this Order or of any condition imposed by any licence issued under this Order constitutes an offence punishable on summary conviction by a fine not exceeding level 5 on the standard scale (currently £5000).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Agriculture for Northern Ireland; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(4)
+
+[^f00002]: Footnote: [S.I. 1980/869 (N.I. 7)](https://www.legislation.gov.uk/nisi/1980/869)
+
+[^key-38591807748e89b524f284e90526ec50]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-d135df26e4431909e1baa50e4d37dc71]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/246/article/2) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-23b9458c987894afb18ad4c716817c97]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2007/246/article/3) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-337bcec16206c89e8eca6ce775743779]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2007/246/article/4) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-6ca5637e67fa7846582d67f0e8a2a0e1]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2007/246/article/5) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-1f3a0554a8170ee0c4e15a574ef19aba]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2007/246/article/6) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-e814eb1b1c649d70d406a9893ac88f3a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2007/246/article/7) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-f4f0ff7049a58b774951417803d83f1a]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2007/246/article/8) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-71a6d2edb0caf459980d88fb5587f270]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2007/246/article/9) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-f14e7d78ed976a5d5525aa074c8bee98]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2007/246/article/10) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-13c4f9a6e3f082894e9b34e7489817aa]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/2007/246/article/11) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e59e5ea679bdcd20539162309805c7a5]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2007/246/article/11) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-1edfc320e521e1bd2b26daf24af1a3b6]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2007/246/article/12) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-d29c1c0f948ff6aa3f4f5193d926ce62]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2007/246/article/13) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-d8ffbb3530ac8a203920d5dc9434dcf7]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2007/246/article/14) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-f1526915a2641e33aedea33d458ff1d5]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2007/246/article/15) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-f9a85c674970658fab86452bb2d4e2fd]: Textual amendment: Words in [art. 15](https://www.legislation.gov.uk/nisr/2007/246/article/15) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/811/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b0dc21d80331baefcd7527624fc81426]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2007/246/article/16) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^f00004]: Footnote: .R. [1980 No. 211](https://www.legislation.gov.uk/nisr/1980/211)
+
+[^f00005]: Footnote: [S.R. 1987 No. 320](https://www.legislation.gov.uk/nisr/1987/320)
+
+[^f00006]: Footnote: [S.R. 1998 No. 191](https://www.legislation.gov.uk/nisr/1998/191)
+
+[^key-afab601c565bcb8a2270d0aa4b3c3557]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/1) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-25ad37829d6389b96c65594eb87c9cde]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/2) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-fd9ea5c014c2321f816126d77f342b51]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/3) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-b3d1b0a105ad50be25bc54e01078846d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/4) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)
+
+[^key-698ba9cf4f0312314e182a74be90206b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2007/246/schedule/paragraph/5) in operation at 21.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1)

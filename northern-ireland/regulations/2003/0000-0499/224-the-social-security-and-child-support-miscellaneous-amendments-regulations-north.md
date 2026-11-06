@@ -1,0 +1,261 @@
+---
+title: The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+id: nisr/2003/224
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2003-04-09'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2003/224
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/224/pdfs/nisr_20030224_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/224/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2003 No. 224
+
+SOCIAL SECURITY
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003
+
+Made
+
+9th April 2003
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by Article 19(3) and (5) of the Child Support (Northern Ireland) Order 1991[^f00001]**,** sections 5(1)(hh), (j) and (k) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 10(1) and 11(3) and (6) of the Social Security (Northern Ireland) Order 1998[^f00003], and now vested in it[^f00004], and paragraphs 4(3) and (5) and 10(1) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00005], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-bd28b23e9b556cf670a18491f099614f]
+
+These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation as follows –
+
+- (a) this regulation and regulations 2 to 3(4), 3(6) and 4 to 6, on 5th May 2003; and
+- (b) regulation 3(5) and (7) –
+  - (i) except for the purposes of any type of case referred to in head (ii), on 5th May 2003; and
+  - (ii) for the purposes of any type of case which is not one in relation to which 3rd March 2003 is the appointed day for the coming into operation of section 9 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00006], on the day on which that section comes into operation in relation to that type of case.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-5d687595f840349fe7b3381d6fbb4f8d]
+
+In regulation 32 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00007] (information to be given when obtaining payment of benefit) for the heading and paragraph (1) there shall be substituted –
+
+> **32. Information to be given and changes to be notified**
+>
+> (1) Except in the case of a jobseeker’s allowance, every beneficiary and every person by whom, or on whose behalf, sums by way of benefit are receivable shall furnish in such manner and at such times as the Department may determine such information or evidence as it may require for determining whether a decision on the award of benefit should be revised under Article 10 of the 1998 Order or superseded under Article 11 of that Order.
+>
+> (1A) Every beneficiary and every person by whom, or on whose behalf, sums by way of benefit are receivable shall furnish in such manner and at such times as the Department may determine such information or evidence as it may require in connection with payment of the benefit claimed or awarded.
+>
+> (1B) Except in the case of a jobseeker’s allowance, every beneficiary and every person by whom, or on whose behalf, sums by way of benefit are receivable shall notify the Department of any change of circumstances which it might reasonably be expected to know might affect –
+>
+> - (a) the continuance of entitlement to benefit; or
+> - (b) the payment of the benefit,
+>
+> as soon as reasonably practicable after the change occurs by giving notice in writing (unless the Department determines in any particular case to accept notice given otherwise than in writing) of any such change to an appropriate office.
+
+.
+
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-fdbcb72dfc55d9e082ed78c5107f476e][^key-3e59fb84e41c5266250da4ec5908e63d][^key-7119b5a8792853595a267e2a98900d03][^key-3e59fb84e41c5266250da4ec5908e63d]
+
+(1)[^key-fdbcb72dfc55d9e082ed78c5107f476e] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00008] shall be amended in accordance with paragraphs (2) to (7).
+
+(2)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 1(2) (interpretation) for the definition of “out of jurisdiction appeal” there shall be substituted the following definition –
+
+> - “out of jurisdiction appeal” means an appeal brought against a decision which is –
+>   - (a) specified in Schedule 2 to the Order or prescribed in regulation 27; or
+>   - (b) specified in paragraph 6(2) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 or prescribed in regulation 16 of the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001;
+
+.
+
+(3)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 3(9)(a)[^f00009] (revision of decisions) for “was made” there shall be substituted “had effect”.
+
+(4)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 6(2)[^f00010] (supersession of decisions) –
+
+- (a) in sub-paragraph (a)(i) for “was made” there shall be substituted “had effect”;
+- (b) for sub-paragraph (c) there shall be substituted the following sub-paragraph –
+
+  > - (c) is a decision of an appeal tribunal or of a Commissioner –
+  >   - (i) that was made in ignorance of, or was based on a mistake as to, some material fact, or
+  >   - (ii) that was made in accordance with Article 26(4)(b), in a case where Article 26(5) applies;
+
+  ; and
+- (c) the word “or” after sub-paragraphs (f) and (g) shall be omitted.
+
+(5)[^key-9c944028c8b76b3c525fa924cd8e3db0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-fdbcb72dfc55d9e082ed78c5107f476e] In regulation 7 (date from which a decision superseded under Article 11 takes effect) –
+
+- (a) in paragraph (1)(a)[^f00012] for “and (28)” there shall be substituted “, (28) and (29)”;
+- (b) in paragraph (2) for “was made” there shall be substituted “had effect”;
+- (c) in paragraph (5)[^f00013] for “regulation 6(2)(c)” there shall be substituted “regulation 6(2)(c)(i)”;
+- (d) in paragraph (9)[^f00014] for sub-paragraph (a) there shall be substituted the following sub-paragraph –
+
+  > - (a) where the decision is made on the Department’s own initiative –
+  >   - (i) the date on which it commenced action with a view to supersession; or
+  >   - (ii) subject to paragraph (29), in a case where the relevant circumstances are that there has been a change in the legislation in relation to attendance allowance or disability living allowance, the date on which that change in the legislation had effect;
+
+  ; and
+- (e) after paragraph (28)[^f00015] there shall be added the following paragraphs –
+
+  > (29) Where a decision is superseded in accordance with regulation 6(2)(a)(i) and the relevant circumstances are that there has been a change in the legislation in relation to a relevant benefit, the decision under Article 11 shall take effect from the date on which that change in the legislation had effect.
+  >
+  > (30) Where a decision is superseded in accordance with regulation 6(2)(a)(ii) and the relevant circumstances are that –
+  >
+  > - (a) a personal capability assessment has been carried out in the case of a person to whom section 167C(4) of the Contributions and Benefits Act applies; and
+  > - (b) the own occupation test remains applicable to him under section 167B(3) of that Act,
+  >
+  > the decision under Article 11 shall take effect on the day immediately following the day on which the own occupation test is no longer applicable to that person.
+  >
+  > (31) For the purposes of paragraph (30) –
+  >
+  > - “own occupation test” has the same meaning as in section 167B(2) of the Contributions and Benefits Act;
+  > - “personal capability assessment” has the same meaning as in regulation 24 of the Incapacity for Work Regulations.
+  >
+  > (32) A decision to which regulation 6(2)(c)(ii) applies shall take effect from the date on which the appeal tribunal or the Commissioner’s decision would have taken effect had it been decided in accordance with the determination of the Commissioner or the court in the appeal referred to in Article 26(1)(b).
+
+  .
+
+(7)[^key-3e6ac157190638099ca129f63b6be929] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-8ca811d634ea29069169657116ef4e34]
+
+(1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00017] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 7(2) (decisions superseding earlier decisions) –
+
+- (a) in sub-paragraph (a)(i) after “a change of circumstances” there shall be inserted “since the decision had effect”; and
+- (b) for sub-paragraph (c) there shall be substituted the following sub-paragraph –
+
+  > - (c) of an appeal tribunal or of a Commissioner –
+  >   - (i) that was made in ignorance of, or was based upon a mistake as to, some material fact, or
+  >   - (ii) that was made in accordance with paragraph 17(4)(b) of Schedule 7 to the Act, in a case where paragraph 17(5) of that Schedule applies;
+
+  .
+
+(3) In regulation 8 (date from which a decision superseding an earlier decision takes effect) after paragraph (8)[^f00018] there shall be added the following paragraphs –
+
+> (9) Where the decision is superseded in accordance with regulation 7(2)(a)(i) and the relevant circumstances are that there has been a change in the legislation in relation to housing benefit, the superseding decision shall take effect from the date on which that change in the legislation had effect.
+>
+> (10) Where a superseding decision is made in a case to which regulation 7(2)(c)(ii) applies the superseding decision shall take effect from the date on which the appeal tribunal or the Commissioner’s decision would have taken effect had it been decided in accordance with the determination of the Commissioner or the court in the appeal referred to in paragraph 17(1)(b) of Schedule 7 to the Act.
+
+.
+
+## 5. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-90927471a767a62398ea6005939540ca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Revocations[^key-cc5ebe529a0e3e56c8f6774bf694fe15]
+
+Regulation 6(3) of the Social Security (Miscellaneous Provisions) (Amendment No. 3) Regulations (Northern Ireland) 1992[^f00022], regulation 2(16)(a) of the Social Security (Claims and Payments) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996[^f00023] and regulation 6(5)(e) of the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000[^f00024] are hereby revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 9th April 2003.
+
+Henry Johnston
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (“the Claims and Payments Regulations”), the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (“the Decisions and Appeals Regulations”), the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 (“the Housing Benefit Regulations”) and the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 (“the Maintenance Assessment Procedure Regulations”).
+
+Regulation 1 provides for the commencement of these Regulations and in particular, in relation to regulation 3(5) and (7), provides that any type of child support case which is not one in relation to which 3rd March 2003 is the appointed day for the coming into operation of section 9 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the 2000 Act”) shall come into operation on the day that section comes into operation in relation to that type of case.
+
+Regulation 2 amends regulation 32(1) of the Claims and Payments Regulations to clarify the power of the Department for Social Development to require information from a beneficiary which might affect a continuing award of benefit or its payment, and a beneficiary’s duty to notify it of changes of circumstances which might affect a continuing award or its payment.
+
+Regulation 3 amends the Decisions and Appeals Regulations to provide –
+
+- the definition of “out of jurisdiction appeal” to include certain decisions in respect of housing benefit;
+- a new ground for the supersession of a decision of an appeal tribunal or of a Social Security or Child Support Commissioner (“the Commissioner”) in a case where an appeal has been decided under –
+  - (a) Article 26(4)(b) of the Social Security (Northern Ireland) Order 1998 (“the 1998 Order”) and the decision is superseded in accordance with Article 26(5) of that Order, or
+  - (b) Article 28ZB(4)(b) of the Child Support (Northern Ireland) Order 1991 (“the 1991 Order”) and the decision is superseded in accordance with Article 28ZB(5) of that Order;
+- a new effective date specifically for disability living allowance and attendance allowance where there is a change to relevant legislation so that the decision takes effect on the date the new legislation takes effect;
+- a new effective date in a case where a “personal capability assessment” is conducted before the “own occupation test” expires so that the decision giving effect to the early assessment takes effect on the day immediately following the day on which the own occupation test no longer applies; and
+- a new effective date where a decision is superseded in accordance with Article 26(5) of the 1998 Order or, as the case may be, Article 28ZB(5) of the 1991 Order to give effect to that decision on the date it would have taken effect if the appeal tribunal or the Commissioner had decided in accordance with the determination of the Commissioner or the court.
+
+Regulation 4 makes amendments to the Housing Benefit Regulations corresponding to those made to the Decisions and Appeals Regulations by regulation 3(4)(a) and (b) and (7)(e).
+
+Regulation 5 makes corresponding amendments to the Maintenance Assessment Procedure Regulations in relation to child support cases which continue to be dealt with under the 1991 Order prior to its amendment by the 2000 Act and the coming into operation of those provisions in any particular case.
+
+Regulation 6 makes consequential revocations.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 19 was substituted by Article 41 of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5(1)(hh) was inserted by Article 70 of the Social Security (Northern Ireland) Order 1998 and amended by paragraph 21 of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4) and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00003]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00005]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^key-bd28b23e9b556cf670a18491f099614f]: Commencement: Reg. 1 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+
+[^f00006]: Footnote: *See* Article 3 of [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53)
+
+[^key-5d687595f840349fe7b3381d6fbb4f8d]: Commencement: Reg. 2 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+
+[^f00007]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 32(1) was amended by regulation 6(3) of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453) and regulation 2(16)(a) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^key-fdbcb72dfc55d9e082ed78c5107f476e]: Commencement: Reg. 3(1)-(4)(6) in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+
+[^key-3e59fb84e41c5266250da4ec5908e63d]: Commencement: Reg. 3(5)(7) in operation at 3.3.2003 for specified purposes, see [reg. 1(b)(ii)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/b/ii)
+
+[^key-7119b5a8792853595a267e2a98900d03]: Commencement: Reg. 3(5)(7) in operation at 5.5.2003 in so far as not already in force, see [reg. 1(b)(i)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/b/i)
+
+[^f00008]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 1999 Nos. 267](https://www.legislation.gov.uk/nisr/1999/267) and [408](https://www.legislation.gov.uk/nisr/1999/408), [S.R. 2000 Nos. 215](https://www.legislation.gov.uk/nisr/2000/215) and [365](https://www.legislation.gov.uk/nisr/2000/365), [S.R. 2001 Nos. 23](https://www.legislation.gov.uk/nisr/2001/23) and [176](https://www.legislation.gov.uk/nisr/2001/176), [S.R. 2002 Nos. 67](https://www.legislation.gov.uk/nisr/2002/67), [80](https://www.legislation.gov.uk/nisr/2002/80) and [164](https://www.legislation.gov.uk/nisr/2002/164) and [S.R. 2003 Nos. 84](https://www.legislation.gov.uk/nisr/2003/84) and [191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00009]: Footnote: Paragraph (9) was substituted by regulation 3(2)(b) of [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408)
+
+[^f00010]: Footnote: Paragraph (2) was amended by regulation 2(4) of [S.R. 1999 No. 267](https://www.legislation.gov.uk/nisr/1999/267), regulation 3(3)(a) of [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408), regulation 6(4) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), regulation 4(b) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), paragraph 4 of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176), regulation 3(3) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67) and regulation 7(4) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
+
+[^key-9c944028c8b76b3c525fa924cd8e3db0]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2003/224/regulation/3/5) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
+
+[^f00012]: Footnote: Paragraph (1)(a) was substituted by regulation 18(a) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00013]: Footnote: Paragraph (5) was substituted by regulation 6(5)(c) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00014]: Footnote: Paragraph (9) was substituted by regulation 2(2) of [S.R. 2000 No. 3](https://www.legislation.gov.uk/nisr/2000/3) and amended by regulation 6(5)(e) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00015]: Footnote: Paragraph (28) was added by regulation 18(g) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^key-3e6ac157190638099ca129f63b6be929]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2003/224/regulation/3/7) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
+
+[^key-8ca811d634ea29069169657116ef4e34]: Commencement: Reg. 4 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+
+[^f00017]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending regulations are [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
+
+[^f00018]: Footnote: Paragraph (8) was added by regulation 8(5) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
+
+[^key-90927471a767a62398ea6005939540ca]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/224/regulation/5) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-cc5ebe529a0e3e56c8f6774bf694fe15]: Commencement: Reg. 6 in operation at 5.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/224/regulation/1/a)
+
+[^f00022]: Footnote: [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
+
+[^f00023]: Footnote: [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^f00024]: Footnote: [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)

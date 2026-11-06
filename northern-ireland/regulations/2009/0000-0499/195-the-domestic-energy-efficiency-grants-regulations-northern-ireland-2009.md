@@ -1,0 +1,345 @@
+---
+title: The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009
+id: nisr/2009/195
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-05-18'
+text_date: '2021-07-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/195
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/195/pdfs/nisrem_20090195_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/195/pdfs/nisr_20090195_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/195/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009
+
+> Text as at 2021-07-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 195
+
+Energy Conservation
+
+The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009
+
+Made
+
+18th May 2009
+
+Coming into operation-
+
+1st July 2009
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred on it by Article 17 of the Social Security (Northern Ireland) Order 1990[^f00001] and now vested in it[^f00002].
+
+The Department of Finance and Personnel has consented to the making of these Regulations in accordance with Article 17(8) of that Order.
+
+## 1. Citation and commencement[^key-5d772dd4adeb59699ebcf225ff6fd422]
+
+These Regulations may be cited as the Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009 and shall come into operation on 1 July 2009.
+
+## 2. Interpretation[^key-ee1cc3cd4775932c32be315307103bf0]
+
+In these Regulations—
+
+- “the 1992 Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00003];
+- “administering agency” means a body appointed by the Department under regulation 3(2);
+- “Affordable Warmth grant” means a grant payable for any of the purposes set out in regulation 4(2A)[^key-df26545259242f3d2f72d2160845363c]
+- “benefit entitlement check” means a process to establish whether an applicant for an Affordable Warmth grant might be entitled to claim any social security benefit or tax credit;[^M_F_ee718285-a607-4a97-accb-1ab930145eb9]
+- “Boiler Replacement grant” means a grant payable for the purposes of regulation 4(1A);[^M_F_4c3aa322-0e72-4acb-b8e0-124e9bef5b8b]
+- “the Department” means the Department for Social Development;
+- “affordable warmth survey” means a survey of homes identified by the Ulster University as most at risk of fuel poverty by Census Output Area or a local council survey of homes considered to be at risk of fuel poverty;[^M_F_1cb9de27-6a85-4993-8a21-fc7a4f50e918]
+- “energy advice” means advice on reducing or preventing the wastage of energy in a dwelling;
+- “network installers” means bodies engaged to perform functions under these Regulations on behalf of the administering agency;
+- “public sector tenancy” means a tenancy granted by the Northern Ireland Housing Executive or a registered housing association;
+- “registered housing association” has the same meaning as in the Housing (Northern Ireland) Order 1992[^f00004]
+- “technical inspection” means inspection of a dwelling carried out by or on behalf of the Northern Ireland Housing Executive for the purposes of an Affordable Warmth grant.[^M_F_43f12c14-617d-409d-8600-8f9b76b170e4]
+- “Warm Homes grant” means a grant payable for any of the purposes set out in regulation 4(1);
+- “Warm Homes Plus grant” means a grant payable for any of the purposes set out in regulation 4(2);
+- “works” means any of the works, materials or energy advice specified in regulation 4.
+
+## 3. Powers of the Department[^key-ba2f82e6e15fbd647514e03a60586938]
+
+(1) In making or arranging for the making of any grant, the Department may impose such conditions as it sees fit.
+
+(2) The Department may appoint an administering agency for Northern Ireland to perform such functions, either directly or through network installers, as may be conferred on it by the Department in connection with the making of an Affordable Warmth grant,[^key-f5bd8f0eead62abadde47e024c47086d] Warm Homes grants and Warm Homes Plus grants.
+
+## 4. Purposes for which grant may be approved[^key-d67386c0793d0983313ae8858e83f4e0]
+
+(1) An application for a Warm Homes grant may be approved for one or more of the following purposes—
+
+- (a) to provide insulation in any accessible roof space in the dwelling, including the insulation of any cold water tank and any water supply, overflow and expansion pipes in such a space;
+- (aa)[^key-77e03ba8451baec9eb6755c22e8a7249] to provide insulation in any accessible roof space in a dwelling surveyed in the affordable warmth survey including the insulation of any cold water tank and any water supply, overflow and expansion pipes in such a space;
+- (b) to provide insulation between the internal and external leaves of cavity walls of the dwelling;
+- (c) to provide insulation to any water heating system or to provide any part of such a system with insulation incorporated in it.
+
+(1A)[^key-6a8ea707466174a6ed1c0bf5feadccb6] An application for a Boiler Replacement grant to replace a heating boiler with a new more energy efficient heating boiler may be approved, where the existing boiler—
+
+- (a) is at least 15 years old; and
+- (b) the applicant is the homeowner and lives in the dwelling as their sole or main residence.
+
+(2) Where the Department, or its administering agency, considers further works are necessary and the household meets the conditions set out in regulation 5(2), a Warm Homes Plus grant may be approved for one or more of the following purposes—
+
+- (a) for any of the purposes set out at regulation 4(1) (a), (b) or (c) where the total cost of such works would exceed the maximum amount of grant payable under regulation 6(1);
+- (b) to provide a mains gas, oil or biomass central heating system;
+- (c) to convert an existing solid fuel central heating system, liquid petroleum gas heating system or electric storage heater system to a mains gas, oil or biomass central heating system;
+- (d) to provide a central heating system connected to the local community heating grid;
+- (e) to provide water heating systems that use energy from renewable sources, including solar panels;
+- (f) to provide insulation in homes of solid wall construction.
+- (g)[^key-6e171b778a707417e7c7c75a1447cbf9] [^key-3c9ee7309db67e3b7e4a7b6055ba83cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) to service a boiler in a dwelling surveyed in the affordable warmth survey.
+
+(2A)[^key-b6493ef694bca26a2a861eb6de27a13a] An Affordable Warmth grant may be made by the Department or its administering agency for one or more of the following purposes—
+
+- (a) to provide a mains gas, oil or biomass heating system where none exists;
+- (b) to replace a boiler system where the conditions set out in regulation 4(2D) are met;
+- (c) to convert a liquid petroleum gas or solid fuel heating system to a mains gas, oil or biomass heating system;
+- (d) to convert an Economy 7 heating system to mains gas or oil heating system, or to a high energy efficiency storage system;
+- (e) to provide or replace ineffective insulation to any water heating system or to provide any part of such a system with insulation incorporated in it;
+- (f) to provide, where there is no draught proofing to external doors and or windows, or remove and replace where it is ineffective;
+- (g) to replace defective radiators in an ineffective heating system;
+- (h) to install thermostatic radiator valves to an existing heating system;
+- (i) to replace exterior window frames which are ineffective and beyond repair;
+- (j) to facilitate the removal of asbestos from the dwelling;
+- (k) to provide insulation in homes of solid wall construction.
+
+(2B) A grant shall not be payable under regulation 4(2A) unless the works are recommended as a result of a technical inspection.
+
+(2C) Where an affordable warmth survey is completed, the householder shall also be provided with energy advice and offered a benefit entitlement check.
+
+(2D) Subject to regulation 4(2A)(b) a replacement boiler may be provided where the following conditions are met—
+
+- (a) the householder or their spouse/partner is aged 65 or older; or
+- (b) the householder or their spouse/partner have a dependent child or children aged under 16 years and for whom they receive child benefit; or
+- (c) a member of the household is in receipt of disability living allowance under section 71 of the 1992 Act or personal independence payment under Part 5 of the Welfare Reform (Northern Ireland) Order 2015; and
+- (d) the existing boiler is at least 15 years old.
+
+(3) Where an application is made for one or more of the purposes set out at paragraph (1), the householder may also receive a benefit entitlement check..
+
+(4) Where an application is approved for one or more of the purposes set out at paragraph (1), the householder shall also be provided with energy advice.
+
+(5) For the purposes of this regulation, “accessible roof space” means space between the roof of the dwelling and the ceiling of any room used or available for use for the purpose of living accommodation, where that space—
+
+- (a) is not wholly separated from the roof by any other room; and
+- (b) is accessible through a properly constructed opening.
+
+## 5. Persons to whom a grant may be made[^key-c686373c6a1a7c3042e2782218b65e41]
+
+(1) Subject to paragraph (5), an application for a Warm Homes grant for works in respect of a dwelling may be entertained from a person who is the householder of the dwelling and occupies it as their only or main residence and who, at the time the application is made is, or is part of a couple where the other member of the couple is, in receipt of a benefit, payment[^key-d8eebd7c75d6eb6a61638f6759b12bca] or tax credit to which paragraph (3) or paragraph (4) applies.
+
+(2) Subject to paragraph (5), a Warm Homes Plus grant may be approved for such works set out at regulation 4(2) from a person who is the householder of the dwelling and occupies it as their only or main residence and who, at the time an application for a Warm Homes grant is made is, or is part of a couple where the other member of the couple is, in receipt of a benefit or tax credit to which paragraph (3) applies.
+
+(2A)[^key-0c221f41da31be73be6dfb8a835160fe] An Affordable Warmth grant may be made under regulation 4(2A) in respect of a person who is the householder of a dwelling and occupies it as their only or main residence and the dwelling was included in an affordable warmth survey.
+
+(2B) The householder is not eligible for an Affordable Warmth grant where the annual household income is £23,000[^key-39d6a5dae550824651c9019ae7bccf1c] or greater.
+
+(3) This paragraph applies to—
+
+- (a) income support (within the meaning of section 123 of the 1992 Act);
+- (b) income-based job-seeker’s allowance (within the meaning of Article 3(4) of the Jobseekers (Northern Ireland) Order 1995);[^f00005]
+- (c) income-related employment and support allowance (within the meaning of section 1 of the Welfare Reform Act (Northern Ireland)2007;[^f00006]
+- (d) state pension credit (within the meaning of the State Pension Credit Act (Northern Ireland) 2002)[^f00007]
+- (e) housing benefit (within the meaning of section 129 of the 1992 Act);
+- (f) working tax credit (within the meaning of the Tax Credits Act 2002.
+
+(4) This paragraph applies to—
+
+- (a) child tax credit (within the meaning of the Tax Credits Act 2002) where the applicant has a relevant income of less than £15,575 and for that purpose, “relevant income” has the same meaning as in Part 1 of the Tax Credits Act 2002;
+- (b) disability living allowance (under section 71 of the 1992 Act);
+- (c) attendance allowance, that is to say—
+  - (i) an attendance allowance (under section 64 of the 1992 Act);
+  - (ii) an increase of an allowance which is payable in respect of constant attendance under a scheme under, or having effect under, paragraph 4 of Schedule 8 to the 1992 Act;
+  - (iii) a payment made under Article 14, 15, 16, 43 or 44 of the Person Injuries (Civilians) Scheme 1983 or any analogous payment;
+  - (iv) any payment based on need for attendance which is paid with a war disablement pension; or
+  - (v) any payment intended to compensate for the non-payment of a payment, allowance or pension.
+- (d)[^key-b40c227dd88e503b8ec04b5ded9ea473] armed forces independence payment under article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
+- (e)[^key-8f193e75421aa6d4735873e92d9ba24e] personal independence payment under Part 5 of the Welfare Reform (Northern Ireland) Order 2015.
+
+(5) This regulation shall not apply in relation to any person who occupies a dwelling under a public sector tenancy.
+
+(5A)[^key-6801890edbe62b68f413396af850eeca] This regulation applies to a householder of a dwelling surveyed as part of the fuel poverty survey as if paragraphs (3) and (4) were omitted.
+
+(6) For the purposes of this regulation, “householder” means a person who, alone or jointly with others, occupies a dwelling as a freeholder, lessee or tenant other than a public sector tenant.
+
+## 6. Maximum amount of grant[^key-a009ceb1dc2a8daf32362964ef716dfa][^key-e302af712a3fa94ed2cb066142b39cc7]
+
+(1) The Department, or its administering agency, shall not pay a total amount of grant in respect of an application qualifying under regulation 4(1) exceeding the amount properly charged for the works or £850, whichever is the lesser.
+
+(1A)[^key-7bfbcc94553c456869353bd26c302f33] The Department or its administering agency shall not pay a total amount of warm homes grant in respect of an application qualifying under regulation 4(1)(aa) exceeding £1,500.
+
+(2) The Department, or its administering agency, shall not pay a total amount of grant in respect of an application qualifying under regulation 4(2) exceeding the amount properly charged for the works or £6,500,[^key-da5366c0d7d07ef1f97a36c5889b40b4] whichever is the lesser.
+
+(2A)[^key-3c6d89f1cde8f43e9722411f18e0d045] The Department or its administering agency shall not pay a total amount of boiler replacement[^key-8a6a5c98c451821373b1fe6b4f9356a7] grant in respect of an application qualifying under regulation 4(1A). exceeding:—
+
+- (a) £1,000 where the householder’s income is less than £20,000;
+- (b) £500 where the householder’s income is between £20,000 and £39,999.
+
+(2B) The Department or its administering agency shall not pay a total amount of warm homes plus grant in respect of an application qualifying under regulation 4(2)(h) exceeding £50.
+
+(3) In the case of asbestos being discovered within the property, to facilitate the removal of the asbestos, the scheme manager shall not pay a total amount of grant in respect of an application qualifying under regulation 4(2) exceeding the amount properly charged for the works or £8,200,[^key-fa7ec2f19d38e79fb4d872b8d5725aa0] whichever is the lesser.
+
+(4)[^key-309d00cc763260520c5e29a9b0f6e957] Subject to paragraph (5) the Department or its administering agency shall not pay a total amount of grant in respect of an application qualifying under—
+
+- (a) regulation 4(2A) (a) to (i) exceeding the amount properly charged for the works or £7,500, whichever is the lesser; or
+- (b) where regulation 4(2A) (j) or (k) also applies, an amount not exceeding the amount properly charged for the works or £10,000, whichever is the lesser.
+
+(5) In the case of a qualifying application in respect of a private tenancy the amount payable under paragraph (4) shall not exceed 50 per cent of either the amount properly charged for the works or the lesser amount.
+
+## 7. Applications for grant[^key-c2d4451d0f9da469e23e1a66b3ecf0ba]
+
+(1) An application for grant under these Regulations shall be made to the administering agency or appropriate network installer.
+
+(2) An application shall be made in writing, signed either by the applicant or by a person specified, or by a person of a description specified by the administering agency and shall without prejudice to paragraph (3) contain such particulars as the administering agency may reasonably require.
+
+(3) An application qualifying under regulation 4(1) or 4(2) shall contain[^key-302bfa46e9bbe5703137afc42e001eb2] —
+
+- (a) particulars of the dwelling in respect of which the grant is sought;
+- (b) a statement of the criteria of eligibility as set out in regulation 5 which are fulfilled by the applicant; and
+- (c) a statement that reasonable access to the dwelling in respect of which an application is made will be given to the administering agency or its network installers.
+
+(4)[^key-1308739a56afae8405e864998280d1cb] An application qualifying under regulation 4(2)(g) shall contain:—
+
+- (a) a quotation for the works;
+- (b) proof of age of the existing boiler; and
+- (c) a building control certificate.
+
+## 8. Revocation and transitional provisions[^key-e62432335c67db6441113d8d9ea55345]
+
+(1) Subject to paragraph (2), the Regulations specified in column 1 of the Schedule are revoked.
+
+(2) The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2002 shall continue to apply in any case where an application for grant was made under those Regulations before 1 April 2009.
+
+Sealed with the Official Seal of the Department for Social Development on 15th May 2009.
+
+Heather Cousins
+
+A senior officer of the Department for Social Development
+
+The Department of Finance and Personnel consents to the Regulations
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 18th May 2009.
+
+A Arbuthnot
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE — Revocation Schedule[^key-f46ac8e0eab913db8c7695cbc8d194ca]
+
+Regulation 8
+
+| *(1)*<br>*Regulations revoked* | *(2)*<br>*References* |
+| --- | --- |
+| The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2002 | [S.R. 2002 No. 56](https://www.legislation.gov.uk/nisr/2002/56) |
+| The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2003 | [S.R. 2003 No. 385](https://www.legislation.gov.uk/nisr/2003/385) |
+| The Domestic Energy Efficiency Grants (Amendment No. 2) Regulations (Northern Ireland) 2003 | [S.R. 2003 No. 503](https://www.legislation.gov.uk/nisr/2003/503) |
+| The Domestic Energy Efficiency Grants (Amendment No. 3) Regulations (Northern Ireland) 2004 | [S.R. 2004 No. 344](https://www.legislation.gov.uk/nisr/2004/344) |
+| The Domestic Energy Efficiency Grants (Amendment No. 4) Regulations (Northern Ireland) 2005 | [S.R. 2005 No. 202](https://www.legislation.gov.uk/nisr/2005/202) |
+| The Domestic Energy Efficiency Grants (Amendment No. 5) Regulations (Northern Ireland) 2006 | [S.R. 2006 No. 183](https://www.legislation.gov.uk/nisr/2006/183) |
+| The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2008 | [S.R. 2008 No. 67](https://www.legislation.gov.uk/nisr/2008/67) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations enable the Department for Social Development to make or arrange for the making of grant for the improvement of energy efficiency in private sector dwellings occupied by persons on low incomes. The Regulations replace the Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2002.
+
+These Regulations make two significant changes—
+
+- a reduction in the number of works eligible for grant; and
+- a broadening of the categories of persons who may apply for grant;
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1990/1511 (N.I. 15)](https://www.legislation.gov.uk/nisi/1990/1511) Article 17 was amended by [S.I. 1996/2879 (N.I. 21)](https://www.legislation.gov.uk/nisi/1996/2879), Article 3.
+
+[^f00002]: Footnote: See [S.R. 1997 No.391](https://www.legislation.gov.uk/nisr/1997/391) and [S.R. 1999 No.481](https://www.legislation.gov.uk/nisr/1999/481), Article 6(e) and Schedule 4 Part V
+
+[^key-5d772dd4adeb59699ebcf225ff6fd422]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-ee1cc3cd4775932c32be315307103bf0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/195/regulation/2) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^f00003]: Footnote: [1992 C. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^key-df26545259242f3d2f72d2160845363c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/195/regulation/2) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/3/1)
+
+[^M_F_ee718285-a607-4a97-accb-1ab930145eb9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/195/regulation/2) substituted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/333/regulation/3/1)
+
+[^M_F_4c3aa322-0e72-4acb-b8e0-124e9bef5b8b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/195/regulation/2) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/333/regulation/3/1)
+
+[^M_F_1cb9de27-6a85-4993-8a21-fc7a4f50e918]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/195/regulation/2) substituted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/333/regulation/3/1)
+
+[^f00004]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
+
+[^M_F_43f12c14-617d-409d-8600-8f9b76b170e4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/195/regulation/2) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/333/regulation/3/1)
+
+[^key-ba2f82e6e15fbd647514e03a60586938]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/195/regulation/3) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-f5bd8f0eead62abadde47e024c47086d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2009/195/regulation/3/2) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/333/regulation/4)
+
+[^key-d67386c0793d0983313ae8858e83f4e0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/195/regulation/4) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-77e03ba8451baec9eb6755c22e8a7249]: Textual amendment: [Reg. 4(1)(aa)](https://www.legislation.gov.uk/nisr/2009/195/regulation/4/1/aa) inserted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/4/1)
+
+[^key-6a8ea707466174a6ed1c0bf5feadccb6]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2009/195/regulation/4/1A) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [5(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/5/1)
+
+[^key-6e171b778a707417e7c7c75a1447cbf9]: Textual amendment: [Reg. 4(2)(g)](https://www.legislation.gov.uk/nisr/2009/195/regulation/4/2/g)[(h)](https://www.legislation.gov.uk/nisr/2009/195/regulation/4/2/h) inserted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2014/52/regulation/4/2)
+
+[^key-3c9ee7309db67e3b7e4a7b6055ba83cb]: Textual amendment: [Reg. 4(2)(g)](https://www.legislation.gov.uk/nisr/2009/195/regulation/4/2/g) omitted (7.10.2016) by virtue of [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2016/333/regulation/5/2)
+
+[^key-b6493ef694bca26a2a861eb6de27a13a]: Textual amendment: [Reg. 4(2A)-(2D)](https://www.legislation.gov.uk/nisr/2009/195/regulation/4/2A) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2016/333/regulation/5/3)
+
+[^key-c686373c6a1a7c3042e2782218b65e41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/195/regulation/5) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-d8eebd7c75d6eb6a61638f6759b12bca]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/1) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [29(2)(a)](https://www.legislation.gov.uk/uksi/2013/3021/article/29/2/a)
+
+[^key-0c221f41da31be73be6dfb8a835160fe]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/2A)[(2B)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/2B) inserted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2016/333/regulation/6)
+
+[^key-39d6a5dae550824651c9019ae7bccf1c]: Textual amendment: Sum in [Reg. 5(2B)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/2B) substituted (1.7.2021) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/147)](https://www.legislation.gov.uk/nisr/2021/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/147/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/147/regulation/3) (with [reg. 4(1)](https://www.legislation.gov.uk/nisr/2021/147/regulation/4/1))
+
+[^f00005]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 3(4) was amended by paragraph 3(4) of Schedule 7 and Part V of Schedule 10 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([1999 No. 3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147) and paragraph 131 of Schedule 24 to the [Civil Partnership Act 2004 (c..3)](https://www.legislation.gov.uk/ukpga/2004/3)
+
+[^f00006]: Footnote: [2007 c..2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^f00007]: Footnote: [2002 c.14 (n.I.)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^key-b40c227dd88e503b8ec04b5ded9ea473]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/4/d) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [29(2)(b)](https://www.legislation.gov.uk/uksi/2013/3021/article/29/2/b)
+
+[^key-8f193e75421aa6d4735873e92d9ba24e]: Textual amendment: [Reg. 5(4)(e)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/4/e) added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [37](https://www.legislation.gov.uk/nisr/2016/228/regulation/37)
+
+[^key-6801890edbe62b68f413396af850eeca]: Textual amendment: [Reg. 5(5A)](https://www.legislation.gov.uk/nisr/2009/195/regulation/5/5A) inserted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/52/regulation/5)
+
+[^key-a009ceb1dc2a8daf32362964ef716dfa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/195/regulation/6) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-e302af712a3fa94ed2cb066142b39cc7]: Modification: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/195/regulation/6) applied (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/8/1) (with [reg. 8](https://www.legislation.gov.uk/nisr/2014/52/regulation/8))
+
+[^key-7bfbcc94553c456869353bd26c302f33]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/1A) inserted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2014/52/regulation/6/a) (with [reg. 8](https://www.legislation.gov.uk/nisr/2014/52/regulation/8))
+
+[^key-da5366c0d7d07ef1f97a36c5889b40b4]: Textual amendment: Sum in [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/2) substituted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [6(c)](https://www.legislation.gov.uk/nisr/2014/52/regulation/6/c) (with [reg. 8](https://www.legislation.gov.uk/nisr/2014/52/regulation/8))
+
+[^key-3c6d89f1cde8f43e9722411f18e0d045]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/2B) inserted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2014/52/regulation/6/b) (with [reg. 8](https://www.legislation.gov.uk/nisr/2014/52/regulation/8))
+
+[^key-8a6a5c98c451821373b1fe6b4f9356a7]: Textual amendment: Words in [reg. 6(2A)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/2A) substituted (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2016/333/regulation/7/2) (with [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/8/1))
+
+[^key-fa7ec2f19d38e79fb4d872b8d5725aa0]: Textual amendment: Sum in [Reg. 6(3)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/3) substituted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [6(d)](https://www.legislation.gov.uk/nisr/2014/52/regulation/6/d) (with [reg. 8](https://www.legislation.gov.uk/nisr/2014/52/regulation/8))
+
+[^key-309d00cc763260520c5e29a9b0f6e957]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/4)[(5)](https://www.legislation.gov.uk/nisr/2009/195/regulation/6/5) added (7.10.2016) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/333)](https://www.legislation.gov.uk/nisr/2016/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/7/1) (with [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/333/regulation/8/1))
+
+[^key-c2d4451d0f9da469e23e1a66b3ecf0ba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/195/regulation/7) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-302bfa46e9bbe5703137afc42e001eb2]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2009/195/regulation/7/3) substituted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [7(1)(a)](https://www.legislation.gov.uk/nisr/2014/52/regulation/7/1/a)
+
+[^key-1308739a56afae8405e864998280d1cb]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/nisr/2009/195/regulation/7/4) inserted (21.3.2014) by [The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/52)](https://www.legislation.gov.uk/nisr/2014/52), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/52/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/nisr/2014/52/regulation/7/1/b)
+
+[^key-e62432335c67db6441113d8d9ea55345]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/195/regulation/8) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)
+
+[^key-f46ac8e0eab913db8c7695cbc8d194ca]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2009/195/schedule) in operation at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1)

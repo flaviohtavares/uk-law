@@ -1,0 +1,129 @@
+---
+title: The Dogs (Guard Dog Kennels) Regulations (Northern Ireland) 2013
+id: nisr/2013/44
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2013-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2013/44
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2013/44/pdfs/nisrem_20130044_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/44/pdfs/nisr_20130044_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/44/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dogs (Guard Dog Kennels) Regulations (Northern Ireland) 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 44
+
+Dogs
+
+The Dogs (Guard Dog Kennels) Regulations (Northern Ireland) 2013
+
+Made
+
+5th March 2013
+
+Coming into operation
+
+1st April 2013
+
+The Department of Agriculture and Rural Development[^f00001], makes the following Regulations in exercise of the powers conferred on it by Articles 10(6) and 15(1)(a) and (b) of the Dogs (Northern Ireland) Order 1983[^f00002].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Dogs (Guard Dog Kennels) Regulations (Northern Ireland) 2013 and shall come into operation on 1st April 2013.
+
+## 2. Interpretation
+
+In these Regulations “the Order” means the Dogs (Northern Ireland) Order 1983.
+
+## 3. Registers
+
+(1) A register of guard dog kennels shall contain the following particulars—
+
+- (a) the name and address of the keeper of the guard dog kennels;
+- (b) the address of the guard dog kennels;
+- (c) the number of guard dogs kept in the business of the guard dog kennels;
+- (d) the period for which the guard dog kennels are registered as specified in the certificate of registration issued under Article 10(3) of the Order.
+
+(2) A register of guard dog kennels may be kept either by making entries in bound books or by recording the particulars in any other manner including a non-legible form so long as the recording is capable of being reproduced in a legible form for inspection.
+
+## 4. Application for registration
+
+Where under the provisions of the Order a person is required to register guard dog kennels the application for such registration shall give—
+
+- (a) the name and address of the keeper of the guard dog kennels;
+- (b) the address of the guard dog kennels;
+- (c) the number of guard dogs kept in the business of the guard dog kennels.
+
+## 5. Construction and operation
+
+Guard dog kennels shall be constructed and operated in accordance with the provisions of the Schedule.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 5<sup>th</sup> March 2013
+
+K. Davey
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE — Construction and operation of guard dog kennels
+
+Regulation 5
+
+**1.** The premises of the guard dog kennels shall be of durable construction, shall be capable of being cleansed and disinfected, shall be of suitable size for the number of occupants and shall include exercising facilities.
+
+**2.** The premises shall have an adequate water supply and adequate drainage.
+
+**3.** The premises shall be adequately lighted, shall have adequate ventilation and be so constructed as to prevent the dogs therein being adversely affected by extremes of temperature.
+
+**4.** Accommodation shall be constructed, and enclosed to the extent necessary to prevent the escape of any dog kept therein, and to afford maximum protection to the public.
+
+**5.** Each dog shall be housed in a single kennel which shall include a sleeping area and each kennel shall be of the minimum dimensions 3.04m in length by 1.82m in breadth by 1.35m in height.
+
+**6.** Dogs shall be supplied with food suitable to their needs and clean drinking water shall be provided for them at all times.
+
+**7.** Adequate clean bedding shall be provided for each dog and shall be renewed when soiled.
+
+**8.** Dogs shall be adequately exercised, and visited by the keeper of the guard dog kennels or an attendant at suitable intervals.
+
+**9.** No dog shall be exposed continually to direct sunlight.
+
+**10.** Dogs shall receive any necessary veterinary treatment, including vaccinations.
+
+**11.** All reasonable precautions shall be taken to prevent and control the spread of infectious or contagious diseases among the dogs including the provision of adequate isolation facilities in which dogs found to be sick must be immediately placed and retained pending veterinary treatment.
+
+**12.** All appropriate and necessary steps, consistent with the protection of persons, shall be taken to ensure the safe extrication of the dogs from the premises in the case of fire or other emergency.
+
+**13.** The name, address and telephone number of the keeper of the guard dog kennels shall be kept constantly displayed in a prominent position on the outside of the guard dog kennels.
+
+**14.** Without prejudice to the generality of paragraph 12 instructions as to action to be taken in the event of fire or other emergency, with particular reference to the safe extrication of the dogs kept there, shall be kept constantly displayed in a prominent position on the outside of the guard dog kennels.
+
+**15.** A notice containing a warning that a guard dog is present shall be clearly exhibited at each entrance to the guard dog kennels.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations partly replace the Dogs (Breeding Establishments and Guard Dog Kennels) Regulations (Northern Ireland) 1983.
+
+These Regulations—
+
+- (a) prescribe the information to be contained in a register of guard dog kennels and the form in which it is required (regulation 3); and
+- (b) prescribe the information to be included in the application for registration (regulation 4).
+
+The Schedule prescribes the standards of construction of guard dog kennels and stipulates that the premises must be of durable construction, capable of being cleansed and disinfected and of suitable size for the number of occupants. They also require the provision of secure escape proof accommodation, exercising facilities, adequate water supply, drainage, lighting and ventilation.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Agriculture for Northern Ireland; see [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(4)
+
+[^f00002]: Footnote: [S.I. 1983/764 (N.I.8)](https://www.legislation.gov.uk/nisi/1983/764)

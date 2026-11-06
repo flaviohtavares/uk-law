@@ -1,0 +1,155 @@
+---
+title: The Pensions Increase (Review) Order (Northern Ireland) 2022
+id: nisr/2022/159
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2022-03-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2022/159
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2022/159/pdfs/nisrem_20220159_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/159/pdfs/nisr_20220159_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/159/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Increase (Review) Order (Northern Ireland) 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 159
+
+Pensions
+
+The Pensions Increase (Review) Order (Northern Ireland) 2022
+
+Made
+
+24th March 2022
+
+Coming into operation
+
+11th April 2022
+
+In accordance with section 132 of the Social Security Administration (Northern Ireland) Act 1992[^f00001] the Department for Communities[^f00002] has given a direction[^f00003] that the sums which are the additional pensions in long-term benefits are to be increased by a specified percentage.
+
+The Department of Finance now makes the following Order in exercise of the powers conferred by Article 69(1), (2), (5) and (5ZA) of the Social Security Pensions (Northern Ireland) Order 1975[^f00004] and now vested in it[^f00005].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Pensions Increase (Review) Order (Northern Ireland) 2022 and shall come into operation on 11th April 2022.
+
+## 2. Interpretation
+
+(1) In this Order, “**the 1975 Order**” means the Social Security Pensions (Northern Ireland) Order 1975.
+
+(2) In this Order, any reference to a pension is a reference to a pension which began before 11th April 2022[^f00006].
+
+## 3. Pension increases: annual rate and lump sums
+
+(1) This article applies to an official pension if—
+
+- (a) a qualifying condition is satisfied; or
+- (b) the pension is—
+  - (i) a derivative pension,
+  - (ii) a substituted pension or,
+  - (iii) a relevant injury pension.
+
+(2) In relation to any period on or after 11th April 2022, the pension authority may increase the annual rate[^f00007] of the pension—
+
+- (a) for a pension which began before 12th April 2021, by 3.1 per cent;
+- (b) for a pension which began on or after 12th April 2021, by 3.1 per cent multiplied by—
+
+  [formula: see source](https://www.legislation.gov.uk/nisr/2022/159)
+
+  where A is the number of complete months in the period between the beginning date of the pension and 11th April 2022.
+
+(3) In relation to a lump sum which is payable on or after 12th April 2021 but before 11th April 2022, the pension authority may increase the lump sum by 3.1 per cent multiplied by—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2022/159)
+
+where A is the number of complete months in the period between the beginning date for the lump sum (or, if later, 12th April 2021) and the date on which it became payable.
+
+## 4. Reductions in respect of guaranteed minimum pensions
+
+(1) Where—
+
+- (a) a person is entitled to a guaranteed minimum pension increase on 11th April 2021, and
+- (b) entitlement to that guaranteed minimum pension arises from an employment from which (either directly, or indirectly by virtue of the payment of a transfer credit) entitlement to the official pension also arises,
+
+the amount by reference to which any increase is calculated for the purposes of article 3(2) must be reduced by an amount equal to the rate of the guaranteed minimum pension unless the Department of Finance otherwise directs in accordance with the provisions of Article 69A[^f00008] of the 1975 Order[^f00009].
+
+(2) Where on the death of a deceased spouse or civil partner a person becomes entitled to a guaranteed minimum pension in relation to a surviving spouse’s pension or a surviving civil partner’s pension, the amount by reference to which any increase is calculated for the purposes of article 3(2) must be reduced in accordance with Article 69 (5ZA)[^f00010] of the 1975 Order.
+
+Sealed with the Official Seal of the Department of Finance on 24th March 2022.
+
+(L.S.)
+
+Barry Armstrong
+
+A senior officer of the
+
+Department of Finance
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Under section 69 of the Social Security Pensions (Northern Ireland) Order [1975 (c.15)](https://www.legislation.gov.uk/ukpga/1975/15), the Department of Finance has to provide, by Order, for the increase in the rates of public service pensions. The Pensions (Increase) Act (Northern Ireland) [1971 (c.35)](https://www.legislation.gov.uk/ukpga/1971/35) defines certain terms and sets out when the pension “**begins**” (the day after the last day of service in respect of which the pension is payable) and how the increase applies to lump sums.
+
+The increase to be made in the rates of such pensions is the percentage (or in some circumstances a fraction of the percentage) by which the Department for Communities has, by direction under section 132 of the Social Security Administration (Northern Ireland) Act [1992 (c.8)](https://www.legislation.gov.uk/ukpga/1992/8), increased the sums which are the additional pensions in long-term benefits, namely the additional pension entitlements accruing to employees in respect of their earnings after 5th April 1978.
+
+For pensions which began before 12th April 2021 the increase is 3.1 per cent.
+
+For pensions which began on or after 12th April 2021 the increases (following the calculation set out in article 3) are as follows:—
+
+<table>
+<thead>
+<tr><th>Pensions Beginning</th><th colspan="2">Percentage Increase</th></tr>
+</thead>
+<tbody>
+<tr><td>12th April 2021 to 26th April 2021</td><td>3.10%</td></tr>
+<tr><td>27th April 2021 to 26th May 2021</td><td>2.84%</td></tr>
+<tr><td>27th May 2021 to 26th June 2021</td><td>2.58%</td></tr>
+<tr><td>27th June 2021 to 26th July 2021</td><td>2.33%</td></tr>
+<tr><td>27th July 2021 to 26th August 2021</td><td>2.07%</td></tr>
+<tr><td>27th August 2021 to 26th September 2021</td><td>1.81%</td></tr>
+<tr><td>27th September 2021 to 26th October 2021</td><td>1.55%</td></tr>
+<tr><td>27th October 2021 to 26th November 2021</td><td>1.29%</td></tr>
+<tr><td>27th November 2021 to 26th December 2021</td><td>1.03%</td></tr>
+<tr><td>27th December 2021 to 26th January 2022</td><td>0.78%</td></tr>
+<tr><td>27th January 2021=2 to 26th February 2022</td><td>0.52%</td></tr>
+<tr><td>27th February 2022 to 26th March 2022</td><td>0.26%</td></tr>
+</tbody>
+</table>
+
+Article 3 of the Order provides for increases on certain deferred lump sums which became payable on or after 12th April 2021 and before 11th April 2022.
+
+The Order also makes provision for the amount by reference to which any increase in the rate of an official pension is to be calculated to be reduced by an amount equal to the rate of the guaranteed minimum pension entitlement deriving from the employment which gives rise to the official pension.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00002]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Art. 8(b) and Schedule 6 Part II. The Department for Social Development was renamed the Department for Communities by section 1 of the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)).
+
+[^f00003]: Footnote: Contained in [S.R. 2022 No. 143](https://www.legislation.gov.uk/nisr/2022/143). This direction corresponds to the direction given by the Secretary of State for Work and Pensions under section 150 of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5)
+
+[^f00004]: Footnote: [S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503); Art. 69 was amended by [S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396) Arts. 10(2),16 and Sch.3, [S.I. 1985/1209 (N.I. 16)](https://www.legislation.gov.uk/nisi/1985/1209) Art. 25(2) and Sch. 6, [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888) Arts. 11(8), 19(1)(b), 83(1) and Sch. 9, para.58, [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509) Arts. 3(7) and 7, by section 4 and paragraph 14(19) of Schedule 2 to the Social Security (Consequential Provisions) (Northern Ireland) Act 1992 ([1992 c. 9](https://www.legislation.gov.uk/ukpga/1992/9)) and by section 184 of and paragraph 15(1) of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993 ([1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)). Article 69 is modified by Article 69A, which was inserted by Article 10(3) of the Social Security (Northern Ireland) Order 1979 ([S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396)), and amended by [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888) Art. 11(9) and by section 184 of and paragraph 15(2) of Schedule 7 to the Pensions Schemes (Northern Ireland) Act 1993. Art. 69(5ZA) is amended by the Pensions (No.2) Act (NI) [2008 (c.13)](https://www.legislation.gov.uk/ukpga/2008/13), section 110 and sch. 10 part 5, Arts 69(5ZB) and (5ZC) are added by [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13) section 110.
+
+[^f00005]: Footnote: By [S.R. 1976 No. 281](https://www.legislation.gov.uk/nisr/1976/281) Art. 3 and Sch. 1, [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art 3 and 4, and [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
+
+[^f00006]: Footnote: By virtue of article 69(7) of the Social Security Pensions (Northern Ireland) Order 1975, sections 69 and 69A of that Order have effect as if they were contained in Part 1 of the Pensions (Increase) Act (Northern Ireland) 1971 (c.35(NI)). Consequently, for the purposes of section 33 of the Interpretation Act (Northern Ireland) [1954 (c. 33)(NI)](https://www.legislation.gov.uk/aip/1954/33) the following expressions used in this Order have the meaning which they bear in section 69 of the Social Security Pensions (Northern Ireland) Order1975 and the Pensions (Increase) Act (Northern Ireland) 1971: beginning date, complete months, derivative pension, lump sum, official pension, pension authority, qualifying condition, relevant injury pension and substituted pension. Section 8(2) of the Pensions (Increase) Act (Northern Ireland) 1971 also makes provision about when a pension begins for the purposes of that Act.
+
+[^f00007]: Footnote: Section 69(5) of the Social Security Pensions (Northern Ireland) Order 1975 provides that the increases in the rate of a pension are to be calculated by reference to the basic rate of the pension as authorised to be increased by section 1 of the Pensions (Increase) Act (Northern Ireland) 1971 or by any order under section 2 of that Act or section 69 of the Social Security Pensions (Northern Ireland) Order 1975.
+
+[^f00008]: Footnote: Inserted by [S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396) Art. 10 and amended by [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888) Art. 11(9) and [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49) section 184 and paragraph 15(2) of sch. 7
+
+[^f00009]: Footnote: By [S.R. 1976 No. 281](https://www.legislation.gov.uk/nisr/1976/281) Art. 3 and Sch. 1, [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art 3 and 4, and [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
+
+[^f00010]: Footnote: Inserted [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509) Art. 7(1)

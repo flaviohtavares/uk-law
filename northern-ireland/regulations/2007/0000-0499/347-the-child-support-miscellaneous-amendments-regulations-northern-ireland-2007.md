@@ -1,0 +1,162 @@
+---
+title: The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007
+id: nisr/2007/347
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-07-27'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/347
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/347/pdfs/nisr_20070347_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/347/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 347
+
+family law
+
+child support
+
+The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007
+
+Approved by resolution of the Assembly on 22nd October 2007
+
+Made
+
+27th July 2007
+
+Coming into operation
+
+1st August 2007
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 16(1), 32(1), 34(1) and 48(4) of, and paragraphs 5(1), (2) and 10(1) of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002].
+
+## 1. Citation and commencement[^key-c39fcc77ef42e0ee623b9487aa22d9b8]
+
+These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 and shall come into operation on 1st August 2007.
+
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations
+
+(1)[^key-bb57461b486f59c54d5f4213373b83f6] The Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992 *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6][^f00003] are amended as follows. *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6]
+
+(2) In regulation 1(2) (citation, commencement and interpretation) at the end insert— *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6]
+
+> - “taxable profits” means profits calculated in accordance with Part 2 of the Income Tax (Trading and Other Income) Act 2005 *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6][^f00004].
+
+.
+
+(3) In regulation 3(2)(h) *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6][^f00005] (purposes for which information or evidence may be required) omit— *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6]
+
+- (a) “total”; and *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6]
+- (b) “as submitted to, or as issued to him by, the Board of Commissioners of Inland Revenue,”. *(affected by repeal, see note)*[^key-bb57461b486f59c54d5f4213373b83f6]
+
+## 3. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-938a581b341ff847d40829a621a458a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-78d1d1f500c1f7495ae1f51b9c7439b5]
+
+(1) The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00010] are amended as follows.
+
+(2) In regulation 22 (appeals against deduction from earnings orders), for paragraph (2) substitute—
+
+> (2) Any appeal shall be made within, either—
+>
+> - (a) 28 days of the date on which the matter appealed against arose, where the liable person is resident in the United Kingdom; or
+> - (b) 56 days of the date on which the matter appealed against arose, where the liable person is not resident in the United Kingdom.
+
+.
+
+(3) In regulation 26[^f00011] (notice of intention to apply for a liability order)—
+
+- (a) at the beginning of paragraph (1) insert “Subject to paragraph (1A),”;
+- (b) after paragraph (1) insert—
+
+  > (1A) Where the liable person is not resident in the United Kingdom, the Department shall give the liable person at least 28 days’ notice of its intention to apply for a liability order under Article 33(2) of the Order.
+
+  .
+
+(4) In regulation 31(1)[^f00012] (disqualification from driving order), omit “having jurisdiction for the area in which the liable person resides”.
+
+## 5. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^key-7bf6fbf1bfda2827ef6871a3116906c9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Revocation[^key-1f1eab18b98449c8ad2ba1bb3b158388]
+
+Article 9(9)(c) and (f) of the Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999[^f00014] is revoked.
+
+Sealed with the Official Seal of the Department for Social Development on 27th July 2007
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the amendment of various sets of Regulations relating to child support, namely—
+
+- the Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992, (“the Information Regulations”);
+- the Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992, (“the Maintenance Assessments and Special Cases Regulations”);
+- the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992, (“the Collection and Enforcement Regulations”); and
+- the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001, (“the Maintenance Calculations and Special Cases Regulations”);
+
+The powers exercised to make these Regulations are those contained in the Child Support (Northern Ireland) Order 1991 (“the 1991 Order”). Some of those powers are conferred by provisions of the 1991 Order prior to amendments made by the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the 2000 Act”), which amendments are not fully in operation, and relate to the child support scheme which was in operation prior to 3rd March 2003, and which remains in operation for the purposes of certain cases (“old scheme cases”). Other powers are conferred by provisions of the 1991 Order as amended by the 2000 Act, which relate to the child support scheme provided for by those amendments and which came into operation for the purposes of specified categories of cases on 3rd March 2003 (see the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003) (“new scheme cases”). Article 16(1) is exercised in these Regulations in both its unamended form for old scheme cases (in regulations 2 and 3), and as amended by the 2000 Act for new scheme cases (in regulations 2 and 5). The amendments to regulation 2 apply equally to old and new scheme cases.
+
+Regulation 2 amends the definition of taxable profits in the Information Regulations to bring it into line with the amendments in regulations 3 and 5.
+
+Regulation 3 amends the Maintenance Assessment and Special Cases Regulations which apply to old scheme cases. It provides a new definition of taxable profits on which the maintenance assessment of a self-employed earner will be based, and which will in general be derived from information supplied by Her Majesty’s Revenue and Customs. A self-employed earner’s taxable profits will be calculated for child support purposes as they would be for tax purposes – meaning that capital allowances will be deducted from, and balancing charges applied to, gross profits in line with tax legislation. The figure will in general be derived from information supplied to Her Majesty’s Revenue and Customs. Where tax information is not available, taxable profits are calculated on a different basis as set out in the amended Regulations.
+
+Regulation 4 amends the Collection and Enforcement Regulations by extending the time limit for making an appeal against a deduction from earnings order or a liability order where the liable person is resident outside the United Kingdom. It also removes a reference to residence as the basis for jurisdiction in relation to a disqualification from driving order.
+
+Regulation 5 makes similar amendments as those made to Regulation 3, to the Maintenance Calculation and Special Cases Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Section 1(3) of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) (“the 2000 Act”) substituted a new Part 1 of Schedule 1 to the Child Support (Northern Ireland) Order 1991 (“the 1991 Order”). This provision was commenced in relation to certain cases only on 3rd March 2003 (*See* Article 3 of [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53)). Paragraph 5(1) and (2) of Schedule 1 to the 1991 Order relates only to cases for which the amendments in the 2000 Act have not been commenced. Paragraph 10(1) of Schedule 1 to the 1991 Order relates to cases for which the amendments in the 2000 Act have been commenced. Article 16(1) is amended by section 12 of, and paragraph 16 of Schedule 3 to, the 2000 Act in respect of certain cases commenced on 3rd March 2003 only. The power is exercised in these regulations both in its amended and unamended form
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-c39fcc77ef42e0ee623b9487aa22d9b8]: Commencement: Reg. 1 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/347/regulation/1)
+
+[^key-bb57461b486f59c54d5f4213373b83f6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/347/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+
+[^f00003]: Footnote: [S.R. 1992 No. 339](https://www.legislation.gov.uk/nisr/1992/339); relevant amending Regulations are [S.R. 1999 No. 152](https://www.legislation.gov.uk/nisr/1999/152) and [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16)
+
+[^f00004]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5). This brings the definition of “taxable profits” for child support purposes into line with the definition for income tax purposes. Capital allowances will be deducted from, and balancing charges applied to, gross profits from self-employment to determine a self-employed person’s earnings
+
+[^f00005]: Footnote: Regulation 3(2)(h) was amended by regulation 2(2) of [S.R. 1999 No. 152](https://www.legislation.gov.uk/nisr/1999/152) and regulation 2(2) and (6)(b) of [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16)
+
+[^key-938a581b341ff847d40829a621a458a5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/347/regulation/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-78d1d1f500c1f7495ae1f51b9c7439b5]: Commencement: Reg. 4 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/347/regulation/1)
+
+[^f00010]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390). Relevant amending provision is [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
+
+[^f00011]: Footnote: Regulation 26 is amended in certain cases by regulation 3(17) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
+
+[^f00012]: Footnote: Regulation 31 was added by regulation 3(19) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
+
+[^key-7bf6fbf1bfda2827ef6871a3116906c9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/347/regulation/5) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-1f1eab18b98449c8ad2ba1bb3b158388]: Commencement: Reg. 6 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/347/regulation/1)
+
+[^f00014]: Footnote: [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246)

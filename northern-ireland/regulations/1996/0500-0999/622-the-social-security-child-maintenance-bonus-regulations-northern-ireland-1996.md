@@ -1,0 +1,443 @@
+---
+title: The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996
+id: nisr/1996/622
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1996-12-31'
+text_date: '2020-01-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/622
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/622/data.pdf
+pending_changes: 14
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2020-01-13. See https://www.legislation.gov.uk/changes/affected/nisr/1996/622
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 622
+
+SOCIAL SECURITY
+
+The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996
+
+Made
+
+31st December 1996
+
+Coming into operation
+
+7th April 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 132(4)(*b*) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(*q*), 69(8), 74(2) and 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 4 and 19(1) of the Child Support (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, Article 4 of the Child Support (Northern Ireland) Order 1995, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-b3329a96a0dd7f911423f1e8b0c869f6]
+
+(1) These Regulations may be cited as the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996 and shall come into operation on 7th April 1997.
+
+(2) In these Regulations—
+
+- “the Order” means the Child Support (Northern Ireland) Order 1995;
+- “the Jobseekers Order” means the Jobseekers (Northern Ireland) Order 1995[^f00004];
+- “applicant”, except where regulation 8 (retirement) applies, means the person claiming the bonus;
+- “appropriate office” means an office of the Department;
+- “benefit week”—
+  - (a) where the relevant benefit is income support, has the meaning it has in the Income Support (General) Regulations (Northern Ireland) 1987[^f00005] by virtue of regulation 2(1) of those Regulations; or
+  - (b) where the relevant benefit is a jobseeker’s allowance, has the meaning it has in the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006] by virtue of regulation 1(2) of those Regulations;
+- “bonus” means a child maintenance bonus;
+- “bonus period” comprises the days specified in regulation 4;
+- “child maintenance” means any of the following payments made on or after 7th April 1997—
+  - (a) child support maintenance;
+  - (b) maintenance paid by an absent parent to a parent with care of a qualifying child under an agreement (whether enforceable or not) between them or by virtue of an order of a court;
+  - (c) maintenance deducted from any benefit payable to an absent parent who is liable to maintain a qualifying child,
+
+  but does not include any maintenance paid in respect of a former partner;
+- “couple” means—[^key-0f3b71e46ed220baedfe7aa6560059de]
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;
+- “jobseeker’s allowance” means an income-based jobseeker’s allowance as defined in Article 3(4) of the Jobseekers Order;
+- “partner” means a person, whether an applicant or otherwise,—
+  - (a) is a member of a couple[^key-d8ca07ede0f5b77d02866af9a3579d21] , the other member of that couple;
+  - (b) is married polygamously to two or more members of his household, any such member; or
+  - (c) is a member of a marriage entered into under a law which permits polygamy and either party to the marriage has for the time being any spouse additional to the other party, the other party;
+- “work condition” means the condition specified at regulation 3(1)(*c*).
+
+(3) Expressions used in these Regulations and in the Child Support (Northern Ireland) Order 1991[^f00007] have the same meaning in these Regulations as they have in that Order.
+
+(4) For the purposes of these Regulations, the qualifying benefits are a jobseeker’s allowance and income support.
+
+(5) In these Regulations, where—
+
+- (a) a payment is made in any benefit week by an absent parent to a person with care;
+- (b) the absent parent pays both child maintenance and maintenance for the person with care; and
+- (c) there is no evidence as to which form of maintenance that payment is intended to represent,
+
+the first £5 of any such payment or, where the amount of payment is less than £5, that amount shall be treated as if it was a payment of child maintenance.
+
+(6) For the purposes of these Regulations, child maintenance is treated as payable where it is paid under an agreement which is not enforceable.
+
+(7) Where a person is entitled to a qualifying benefit on any day but no qualifying benefit is payable to him in respect of that day, that person shall be treated for the purposes of these Regulations as not entitled to a qualifying benefit for that day.
+
+(8) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Application of the Regulations[^key-e1ce4bba94be42135ee939b710bc2d00]
+
+(1)[^key-7ea7cd7d0910ee841218b035ed593642] Subject to paragraph (2), these Regulations apply only in a case where on or after 7th April 1997 an absent parent has paid child maintenance in respect of a qualifying child and that maintenance has been— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) taken into account in determining the amount of a qualifying benefit payable to the person with care or the partner of that person; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) retained by the Department in accordance with section 72A(3) of the Administration Act *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642][^f00009] (payment of benefit where maintenance payments are collected by the Department). *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) Regulation 6 (Department to issue estimates) applies also where a child maintenance assessment has been made but no maintenance has been paid. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) No day falling before 7th April 1997 shall be taken into account in determining whether any condition specified in these Regulations is satisfied or whether any period specified in these Regulations commenced. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 3. Entitlement to a Bonus[^key-ddc86c88541d4704eb4f5141251b1bd7]
+
+(1) An applicant is entitled to a bonus where— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) he has claimed a bonus in accordance with regulation 10 (claiming a bonus); *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) the claim relates to days falling within a bonus period; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (c) except where paragraph (2) applies, he satisfies the work condition, that is to say, he or his partner takes up or returns to work or increases the number of hours in which in any week he or his partner is engaged in employment or the earnings from an employment in which he or his partner are engaged is increased; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (d) as a result of satisfying the work condition any entitlement to a qualifying benefit in respect of himself and, where he has a partner, his family, ceases; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (e) in a case where the qualifying benefit which ceased— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (i) was income support, the person with care has not reached the day before his 60th birthday; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (ii (affected by repeal, see note))[^key-7ea7cd7d0910ee841218b035ed593642] was a jobseeker’s allowance, the person with care has not reached the day before he attains pensionable age, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+  at the time the work condition is satisfied; and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (f) the work condition is satisfied within a period of 14 days following the last day in respect of which a qualifying benefit is payable. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) A person who is absent from work because of a trade dispute at his place of work and returns to work with the employer he worked for before the dispute began, does not thereby satisfy the requirements of paragraph (1)( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*c*).
+
+(3) In paragraph (2), “place of work”, in relation to any person, means the premises at which he was employed. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) An applicant is also entitled to a bonus where he satisfies the requirements specified in regulation 8 (retirement). *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 4. Bonus period[^key-dd659ebb7598c25229ee41eb73784d94]
+
+(1) A bonus period comprises only days falling on or after 7th April 1997 on which— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) the applicant or, where the applicant has a partner, his partner is entitled to, or is treated as entitled to a qualifying benefit whether it is payable or not; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) the applicant has residing with him a qualifying child; and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (c) child maintenance is either— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (i) taken into account in determining the amount of the applicant’s income for the purposes of the qualifying benefit, or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (ii (affected by repeal, see note))[^key-7ea7cd7d0910ee841218b035ed593642] retained by the Department in accordance with section 72A(3) of the Administration Act. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) Any two or more bonus periods separated by any one connected period shall be treated as one bonus period. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) For the purposes of these Regulations, “a connected period” is— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) any period of not more than 12 weeks falling between two bonus periods to which paragraph (1) refers; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) any period of not more than 12 weeks throughout which— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (i) no qualifying child resides with the applicant, or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (ii (affected by repeal, see note))[^key-7ea7cd7d0910ee841218b035ed593642] the applicant ceases to be entitled to a qualifying benefit on becoming one of a couple and the couple fail to satisfy conditions of entitlement to a qualifying benefit; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (c) any period throughout which maternity allowance is payable to the applicant; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (d) any period of not more than 2 years throughout which incapacity benefit, severe disablement allowance or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642] carer’s allowance[^key-cdca583f353fa79a5470d663a42c3e49] *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642] is payable to the applicant. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) In calculating any period for the purposes of paragraph (3) no regard shall be had to any day which falls before 7th April 1997. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(5) Bonus periods separated by two or more connected periods shall not link to form a single bonus period but shall instead remain separate bonus periods. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(6) Where a qualifying child is temporarily absent for a period not exceeding 12 weeks from the home he shares with the applicant, the applicant shall be treated as satisfying the requirements of paragraph (1)( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*b*) throughout that absence. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(7) A bonus period which would, but for this paragraph, have continued shall end— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) where the applicant or, where the applicant has a partner, his partner, satisfies the work condition and claims a bonus, on the last day of entitlement to a qualifying benefit to which any award made on that claim applies; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) where the person with the care of the child or his partner dies, on the date of death. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 5. Amount payable[^key-8e8988015fef0edc01889591a8da0108]
+
+(1) The amount of the bonus shall be— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) subject to paragraphs (2) to (5), a sum representing the aggregate of— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (i) £5 for each benefit week in the bonus period in which the amount of child maintenance payable was not less than £5, and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (ii (affected by repeal, see note))[^key-7ea7cd7d0910ee841218b035ed593642] where in any benefit week in the bonus period the amount of child maintenance payable was less than £5, the amount that was payable; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) the amount of the child maintenance paid in the bonus period; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (c) £1,000,
+
+whichever amount is the least. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) Where the amount of child maintenance a person was liable to pay in any benefit week in the bonus period was less than £5 but the amount actually paid was higher than the amount he was required to pay, then for the purposes of paragraph (1)( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*a*) the weekly amount to be taken into account shall be the amount the person was liable to pay. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) So much of any child maintenance paid in excess of the amount either— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) declared for the purposes of determining the amount of qualifying benefit payable to the applicant or his partner; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) retained by the Department in accordance with section 72A(3) of the Administration Act, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+shall be disregarded in determining the amount payable under paragraph (1). *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) Where the child maintenance paid is child support maintenance, the amount of child maintenance to be taken into account in accordance with paragraph (1) shall be such amount as may in the particular case be certified by the child support officer. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(5) Where but for this paragraph the amount of bonus payable in accordance with paragraph (1) would be less than £5, the amount of the bonus shall be Nil. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 6. Department to issue estimates[^key-7ea7cd7d0910ee841218b035ed593642][^key-bf4aeb4baf8cd225ca6bd397b2108c41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Death of a person with care of a child[^key-90284c4620be89f1f86740b1702072c3]
+
+(1) In a case where— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) the person (A) with care of a child in respect of whom child maintenance is payable dies; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) on the date of his death, the person (A) was entitled or, where he has a partner, his partner was entitled to a qualifying benefit or had been so entitled within the 12 weeks ending on the date of his death; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (c) after the death, another person (B), who is a close relative of the person (A) and who was not before the death a person with the care of the child, becomes the person with care; and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (d) that other person was entitled or, where the other person has a partner, the other person or his partner was entitled to a qualifying benefit on the day the person (A) died or becomes entitled to a qualifying benefit within 12 weeks of the day on which the person (A) was last entitled to a qualifying benefit, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+then any weeks forming part of the bonus period of the person (A) which was current at the date of his death or within 12 weeks of the date on which he died shall be treated as part of the bonus period of the person (B) to the extent that those weeks are not otherwise a part of his bonus period. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) In this regulation, “close relative” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642] or if any of the preceding persons is one member of a couple, the other member of that couple[^key-79a7ae8b518c1b4930a0c01614c2d9d0] *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642] .
+
+## 8. Retirement[^key-432ee2d4f41ee910bc68a39266853bfb]
+
+(1) In a case where the person with care of the child in respect of whom child maintenance is payable (the applicant) or the applicant’s partner, either— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) is entitled to income support on the day before the applicant attains the age of 60; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) is entitled to a jobseeker’s allowance on the day before the applicant attains pensionable age, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+the bonus period shall end on the day before the applicant attains 60 or, as the case may be, pensionable age and a bonus shall become payable to the applicant whether or not a claim is made for it. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) Where an applicant who ceases to be entitled to a jobseeker’s allowance after attaining the age of 60 without satisfying the condition in paragraph (1)( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*b*), becomes entitled to *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642] state pension credit[^key-fdf2f777a611a8f577d26d13a384f313] *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642] within— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) a period of 12 weeks of him ceasing to be entitled to a jobseeker’s allowance; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) the duration of any connected period to which regulation 4(3) applies which immediately follows such an entitlement and which applies in his case, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+he shall be entitled to the bonus as though paragraph (1) were satisfied in his case and his bonus period shall be treated as though it ended on the day he becomes entitled to income support. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2A)[^key-b2b2286218116fbb68a3356b53a30322] In paragraph (2), “state pension credit” means state pension credit under the State Pension Credit Act (Northern Ireland) 2002. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) No day which falls after the day the bonus period ends in accordance with paragraph (1) or (4) or is treated as ending in accordance with paragraph (2), shall form part of that or any other bonus period. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) Paragraph (5) shall apply where— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) the applicant or the applicant’s partner— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (i) ceased to be entitled to income support in the 12 weeks preceding the date of the applicant attaining the age of 60; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (ii (affected by repeal, see note))[^key-7ea7cd7d0910ee841218b035ed593642] ceased to be entitled to a jobseeker’s allowance in the 12 weeks preceding the date of the applicant attaining pensionable age, and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) the person who ceases to be so entitled failed to satisfy the requirements of regulation 3(1)( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*c*) to ( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*f*).
+
+(5) Where this paragraph applies— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) the bonus period shall end on the day entitlement to the qualifying benefit ceased; and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) a bonus shall become payable to the applicant, but only where a claim is made for it in accordance with regulation 10 (claiming a bonus). *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(6) In this regulation, “applicant” includes, where no claim is made, a person who would have been an applicant had a claim for a bonus been required. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 9. Couples[^key-92a02596738e9dddc2f5e63d6ca8ecdc]
+
+(1) In the case of a couple, the person entitled to the bonus is the person who has the care of the child and to whom child maintenance is payable in respect of that child. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) Where each member of a couple has both the care of a child and child maintenance is payable in respect of the child for whom they have care, each of them may qualify for a bonus in accordance with these Regulations where a qualifying benefit ceases to be payable to either of them because one of them, whether or not the person to whom the benefit was payable, satisfies the work condition. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) A member of a couple to whom paragraph (2) applies shall not qualify for a bonus unless he claims it in accordance with regulation 10 (claiming a bonus). *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) Subject to paragraph (5), these Regulations shall apply to both members of a couple who separate as if they had never been one of a couple. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(5) In the case of a couple who separate any entitlement to a qualifying benefit of one member of the couple during the time they were a couple shall be treated as the entitlement of both members of the couple for the purpose only of determining whether any day falls within a bonus period. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 10. Claiming a bonus[^key-6d73a23c38d7134c5765bc1ef346570d]
+
+(1) A claim for a bonus shall be made in writing on a form approved for the purpose by the Department and shall be made— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) not earlier than the beginning of the benefit week which precedes the benefit week in which an award of a qualifying benefit comes to an end; and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) except in a case to which sub-paragraph ( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*c*) or ( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*d*) applies, not later than 28 days after the day the qualifying benefit or entitlement to the qualifying benefit ceases; *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (c) where— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (i) a parent with care cares for one child only, and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+  - (ii (affected by repeal, see note))[^key-7ea7cd7d0910ee841218b035ed593642] that child dies, *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+  in the period not exceeding 12 months which begins on the date the child died and throughout which he was entitled to a relevant benefit; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (d) in the case of a person to whom regulation 8(4) refers, not later than 28 days after the day the applicant attains the age of 60 or, as the case may be, pensionable age. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) A claim for a bonus shall be delivered or sent to an appropriate office. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) If a claim is defective at the time it is received, the Department may refer the claim to the person making it and if the form is received properly completed within one month, or such longer period as the Department may consider reasonable, from the date on which it is so referred, the Department may treat the claim as if it had been duly made in the first instance. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) A claim which is made on the form approved for the time being is, for the purposes of paragraph (3), properly completed if it is completed in accordance with instructions on the form and defective if it is not. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(5) A person who claims a bonus shall furnish such certificates, documents, information and evidence in connection with the claim, or any questions arising out of it, as may be required by the Department and shall do so within one month of being required to do so or such longer period as the Department may consider reasonable. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(6) Where a person who has attained the age of 60 but has not attained pensionable age for the purposes of a jobseeker’s allowance ceases to be entitled to a jobseeker’s allowance and becomes instead entitled to income support, regulation 8 (retirement) and this regulation shall apply in his case as if he attained the age of 60 on the day he first became entitled to income support. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 11. Claims: further provisions[^key-968ccbb1c25b0f6426edb415b7ac80da]
+
+(1) A person who has made a claim may amend it at any time by notice in writing received at an appropriate office before a determination has been made on the claim, and any claim so amended may be treated as if it had been so amended in the first instance. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) A person who has made a claim may withdraw it at any time before a determination has been made on it, by notice to an appropriate office and any such notice of withdrawal shall have effect when it is received. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) The date on which the claim is made shall be— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) in the case of a claim which meets the requirements of regulation 10(1), the date on which it is received at an appropriate office; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) in the case of a claim treated under regulation 10(3) as having been duly made, the date on which the claim was received in an appropriate office in the first place. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) Where the applicant proves there was good cause throughout the period from the expiry of the 28 days specified in regulation 10(1), for failure to claim the bonus within the specified time, the time for claiming the bonus shall be extended to the date on which the claim is made or to a period of 6 months, whichever is the shorter period. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 12. Payment of bonus[^key-2b4ee4eba6d03bf0dab01872ead50c1e]
+
+A bonus calculated by reference to child maintenance paid during periods of entitlement to a jobseeker’s allowance and to income support shall be treated as payable— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) wholly by way of a jobseeker’s allowance, where the qualifying benefit last in payment in the bonus period was a jobseeker’s allowance; or *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) wholly by way of income support, where the qualifying benefit last in payment in the bonus period was income support. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 13. Payments on death[^key-2c23b1598f8f2f6a1d8d3650860d6296]
+
+(1) Where a person satisfies the requirements for entitlement to a bonus other than the need to make a claim, but dies within 28 days of the last day of entitlement to a qualifying benefit, the Department may appoint such person as it may think fit to claim a bonus in place of the deceased person. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(2) Where the conditions specified in paragraph (3) are satisfied, a claim may be made by the person appointed for the purpose of claiming a bonus to which the deceased person would have been entitled if he had claimed it in accordance with regulation 10 (claiming a bonus). *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(3) Subject to paragraphs (4) to (7), the following conditions are specified for the purposes of paragraph (2)— *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+- (a) the application to the Department to be appointed a fit person to make a claim shall be made within 6 months of the date of death; and *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+- (b) the claim shall be made in writing within 6 months of the date the appointment was made. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(4) Subject to paragraphs (5) and (6), the Department may, in exceptional circumstances, extend the period for making an application or a claim to such longer period as it considers appropriate in the particular case. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(5) Where the period is extended in accordance with paragraph (4), the period specified in paragraph (3)( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*a*) or ( *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]*b*) shall be shortened by a corresponding period. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(6) The Department shall not extend the period for making an application or a claim in accordance with paragraph (4) for more than 12 months from the date of death, but in calculating that period any period between the date when an application for a person to be appointed to make a claim is made and the date when the Department makes the appointment shall be disregarded. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+(7) A claim made in accordance with paragraph (2) shall be treated, for the purposes of these Regulations, as if made on the date of the deceased’s death. *(affected by repeal, see note)*[^key-7ea7cd7d0910ee841218b035ed593642]
+
+## 14. Bonus to be treated as capital for certain purposes[^key-1dedaa9e096b7ba2348187adda4dbcd1]
+
+Any bonus paid to an applicant shall be treated as capital of his for the purposes of—
+
+- (a)[^key-30db30e3de52f2fde39da435f55e52a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-71e9bac608cba8573fbae6794310b765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) housing benefit;
+- (d) income support;
+- (e) a jobseeker’s allowance.
+
+## 15. Capital to be disregarded[^key-1e52fc04e35abf8c8562557600907da6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. No deduction from bonus[^key-74f3b8d366a24e4484afbd8085c90045]
+
+(1) The amendments specified in this regulation shall have effect so as to prevent deductions being made from any sum payable by way of bonus.
+
+(2)[^key-6d8dc62f943db6cc4939cd4acb213603] In the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00014]—
+
+- (a)[^key-487242c05f584307c9092a4f7d856903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in Schedule 8B (deductions of mortgage interest from benefit and payment to qualifying lenders) in paragraph 1, in the definition of “relevant benefits”, at the end there shall be added “but does not include any sum payable by way of child maintenance bonus in accordance with Article 4 of the Child Support (Northern Ireland) Order 1995 and the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996;”.
+
+(3)[^key-6d8dc62f943db6cc4939cd4acb213603] In the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00015] in regulation 16(8), in the definition of “specified benefit”, at the end there shall be added “but does not include any sum payable by way of child maintenance bonus in accordance with Article 4 of the Child Support (Northern Ireland) Order 1995 and the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996;”.
+
+(4) In the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00016], after regulation 2 there shall be added the following regulation—
+
+> **3. Child Maintenance Bonus**
+>
+> In regulation 2, income support and a jobseeker’s allowance do not include any sum payable by way of child maintenance bonus in accordance with Article 4 of the Child Support (Northern Ireland) Order 1995 and the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996.
+
+.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on 31st December 1996.
+
+John O'Neill
+
+Assistant Secretary
+
+(This note is not part of the Regulations.)
+
+Article 4 of the Child Support (Northern Ireland) Order 1995 (“the 1995 Order”) introduces a child maintenance bonus for persons who are or have been entitled to income support or an income-based jobseeker’s allowance and who have also been in receipt of child maintenance payments.
+
+Regulation 1 contains provisions relating to citation, commencement and interpretation.
+
+Regulations 2 to 4 specify the circumstances in which the Regulations apply and the conditions for entitlement to the bonus.
+
+Regulation 5 details the method of calculating the amount of the bonus and regulation 6 enables the Department of Health and Social Services to issue estimates to claimants of their projected level of bonus.
+
+Regulations 7 to 9 contain detailed provisions as to the application of the Regulations in specific situations, namely, where the person with the care of the child dies, is at or approaching retirement or is one of a couple.
+
+Regulations 10 and 11 provide details relating to claims for the bonus and regulations 12 and 13 relate to the payment of the bonus. Regulation 14 treats the bonus as capital for certain social security benefits.
+
+Regulation 15 provides for payments made by way of bonus to be disregarded for up to 12 months in calculating capital for the purposes of disability working allowance, family credit and housing benefit.
+
+Regulation 16 provides that deductions which are made from the payment of certain social security benefits are not to be made from payments by way of child maintenance bonus.
+
+These Regulations are made in consequence of Article 4 of the 1995 Order which came into operation on 16th October 1996 by virtue of the Child Support (1995 Order) (Commencement No. 3) Order (Northern Ireland) 1996 ([S.R. 1996 No. 429 (C. 24)](https://www.legislation.gov.uk/nisr/1996/429)). Section 149(5) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) which relates to the Social Security Advisory Committee, is applied to Article 4 of the 1995 Order by virtue of the amendment made to section 149(5) by paragraph 16 of Schedule 3 to the 1995 Order. The Regulations are made within 6 months of the coming into operation of Article 4 and accordingly are exempt, by virtue of section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act 1992, from reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00003]: Footnote: [S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
+
+[^key-b3329a96a0dd7f911423f1e8b0c869f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/622/regulation/1) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
+
+[^f00006]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^key-0f3b71e46ed220baedfe7aa6560059de]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [91](https://www.legislation.gov.uk/uksi/2019/1514/regulation/91) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-d8ca07ede0f5b77d02866af9a3579d21]: Textual amendment: Words in [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/2/a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 3 para. 25(2)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/25/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^f00007]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
+
+[^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-e1ce4bba94be42135ee939b710bc2d00]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/622/regulation/2) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-7ea7cd7d0910ee841218b035ed593642]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/nisr/1996/622/regulation/2) revoked (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (S.R. 2001/25)](https://www.legislation.gov.uk/nisr/2001/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/25/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/1/a) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/2))
+
+[^f00009]: Footnote: Section 72A was inserted by Article 18 of the Child Support (Northern Ireland) Order 1995 ([S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
+
+[^key-ddc86c88541d4704eb4f5141251b1bd7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/622/regulation/3) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-dd659ebb7598c25229ee41eb73784d94]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/622/regulation/4) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-cdca583f353fa79a5470d663a42c3e49]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/nisr/1996/622/regulation/4/3/d) substituted (1.4.2003) by [The Social Security (Carer’s Allowance) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/323)](https://www.legislation.gov.uk/nisr/2002/323), [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/b), [Sch. para. 1(r)](https://www.legislation.gov.uk/nisr/2002/323/schedule/paragraph/1/r)
+
+[^key-8e8988015fef0edc01889591a8da0108]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/622/regulation/5) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-bf4aeb4baf8cd225ca6bd397b2108c41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/622/regulation/6) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-90284c4620be89f1f86740b1702072c3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1996/622/regulation/7) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-79a7ae8b518c1b4930a0c01614c2d9d0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/1996/622/regulation/7/2) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/536)](https://www.legislation.gov.uk/nisr/2005/536), [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/25/3) (with [art. 3](https://www.legislation.gov.uk/nisr/2005/536/article/3))
+
+[^key-432ee2d4f41ee910bc68a39266853bfb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1996/622/regulation/8) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-fdf2f777a611a8f577d26d13a384f313]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/1996/622/regulation/8/2) substituted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 (S.R. 2003/191)](https://www.legislation.gov.uk/nisr/2003/191), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/1/2/b), [31(a)](https://www.legislation.gov.uk/nisr/2003/191/regulation/31/a) (with [regs. 34-36](https://www.legislation.gov.uk/nisr/2003/191/regulation/34))
+
+[^key-b2b2286218116fbb68a3356b53a30322]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/nisr/1996/622/regulation/8/2A) inserted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 (S.R. 2003/191)](https://www.legislation.gov.uk/nisr/2003/191), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/1/2/b), [31(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/31/b) (with [regs. 34-36](https://www.legislation.gov.uk/nisr/2003/191/regulation/34))
+
+[^key-92a02596738e9dddc2f5e63d6ca8ecdc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1996/622/regulation/9) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-6d73a23c38d7134c5765bc1ef346570d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1996/622/regulation/10) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-968ccbb1c25b0f6426edb415b7ac80da]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1996/622/regulation/11) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-2b4ee4eba6d03bf0dab01872ead50c1e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1996/622/regulation/12) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-2c23b1598f8f2f6a1d8d3650860d6296]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1996/622/regulation/13) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-1dedaa9e096b7ba2348187adda4dbcd1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1996/622/regulation/14) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-30db30e3de52f2fde39da435f55e52a9]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/nisr/1996/622/regulation/14/a) substituted (5.10.1999) by [The Social Security and Child Support (Tax Credits Consequential Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/385)](https://www.legislation.gov.uk/nisr/1999/385), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/1999/385/regulation/2/2), [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/1999/385/schedule/2/part/II)
+
+[^key-71e9bac608cba8573fbae6794310b765]: Textual amendment: Words in [reg. 14(b)](https://www.legislation.gov.uk/nisr/1996/622/regulation/14/b) substituted (5.10.1999) by [The Social Security and Child Support (Tax Credits Consequential Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/385)](https://www.legislation.gov.uk/nisr/1999/385), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/2/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/1999/385/schedule/2/part/I)
+
+[^key-1e52fc04e35abf8c8562557600907da6]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/1996/622/regulation/15) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-74f3b8d366a24e4484afbd8085c90045]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1996/622/regulation/16) in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/622/regulation/1/1)
+
+[^key-6d8dc62f943db6cc4939cd4acb213603]: Modification: [Reg. 16(2)](https://www.legislation.gov.uk/nisr/1996/622/regulation/16/2)[(3)](https://www.legislation.gov.uk/nisr/1996/622/regulation/16/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00014]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); Schedule 8A was inserted by regulation 2(3) of, and the Schedule to, [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67) and Schedule 8B was inserted by regulation 5 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271)
+
+[^key-487242c05f584307c9092a4f7d856903]: Textual amendment: [Reg. 16(2)(a)](https://www.legislation.gov.uk/nisr/1996/622/regulation/16/2/a) revoked (16.4.2007) by [The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/206)](https://www.legislation.gov.uk/nisr/2007/206), [regs. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/206/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2007/206/schedule)
+
+[^f00015]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
+
+[^f00016]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21); relevant amending regulations are [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)

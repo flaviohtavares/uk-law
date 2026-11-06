@@ -1,0 +1,282 @@
+---
+title: Motor Cycles (Protective Headgear) Regulations (Northern Ireland) 1999
+id: nisr/1999/170
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-03-31'
+text_date: '2017-06-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/170
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/170/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Motor Cycles (Protective Headgear) Regulations (Northern Ireland) 1999
+
+> Text as at 2017-06-30.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 170
+
+ROAD TRAFFIC AND VEHICLES
+
+Motor Cycles (Protective Headgear) Regulations (Northern Ireland) 1999
+
+Made
+
+31st March 1999
+
+Coming into operation
+
+12th May 1999
+
+The Department of the Environment, in exercise of the powers conferred on it by Articles 27(1), 28(1) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-6f54e005ce66d03f2184a35115145b72]
+
+(1) These Regulations may be cited as the Motor Cycles (Protective Headgear) Regulations (Northern Ireland) 1999 and shall come into operation on 12th May 1999.
+
+(2)[^key-9ad11a7dbf860819b4a7fd8d03968cfa] In these Regulations—
+
+- “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
+- “ECE Regulation 22.05” means ECE Regulation 22 as amended by the 05 series of amendments and all previous amendments in operation on 14th May 2001;
+- “EEA State” means a State which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;
+- “the UNECE Agreement” means the Agreement of the United Nations Economic Commission for Europe concluded at Geneva on 20th March 1958 as amended concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or used on wheeled vehicles and the conditions for the reciprocal recognition of approvals granted on the basis of these prescriptions, to which the United Kingdom is a party by virtue of an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963.
+
+## 2. Protective headgear[^key-118a64356c3d2cf4aec5ec6bae3e56e6]
+
+(1) Save as provided in paragraph (2), every person driving or riding (otherwise than in a side-car) on a motor bicycle or motor quadricycle[^key-84b520a297199c565cf2a9c4045f5b5d] when on a road shall wear protective headgear.
+
+(2) Nothing in paragraph (1) shall apply to any person driving or riding on a motor bicycle if—
+
+- (a) it is a mowing machine; or
+- (b) it is for the time being propelled by a person on foot.
+
+(3) In this regulation—
+
+- “motor bicycle” means a two-wheeled motor cycle, whether or not having a side-car attached, and for the purposes of this definition where the distance measured between the centre of the area of contact with the road surface of any two wheels of a motor cycle is less than 460 millimetres, those wheels shall be counted as one wheel;
+- “motor quadricycle” means a four-wheeled motor vehicle which—[^key-729b892fd38d6dd50ee1adf26a9de851]
+  - (a) has an unladen weight not exceeding 550 kilograms;
+  - (b) is steered by handlebars; and
+  - (c) is operated with the driver seated astride a seat which is mounted on the vehicle longitudinally;
+- “protective headgear” means a helmet which—
+  - (a) either—
+    - (i) bears a marking applied by its manufacturer indicating compliance with the specifications contained in one of the British Standards (whether or not as modified by any amendment) mentioned in the Schedule; or
+    - (ii) is of a type manufactured for use by persons on motor cycles which by virtue of its shape, material and construction could reasonably be expected to afford to the wearer a degree of protection from accidental injury similar to or greater than that provided by a helmet of a type prescribed by regulation 3;
+  - (b) if worn with a chin cup attached to or held in position by a strap, is provided with an additional strap (to be fastened under the wearer’s jaw) for securing the helmet to the head; and
+  - (c) is securely fastened to the head by means of straps provided for that purpose; and
+- “strap” includes any fastening device.
+
+## 3. Prescribed types of recommended helmet[^key-ecd6fced7d9ef0c65fd8f4009742b534]
+
+(1)[^key-191c891bcf821d151cc08e63ab0bee4d] The types of helmet hereby prescribed as types of helmet recommended as affording protection to persons on or in motor cycles or motor quadricycles[^key-976021613609ada762f1a1a7dd8db70e] from injury in the event of an accident are helmets which as regards their shape, construction and other qualities conform—
+
+- (a) with British Standard 6658:1985 as amended by Amendment Slip number 1 published on 28th February 1986 and are marked with the number of that standard;
+- (b) with any other standard accepted by an EEA State which offers in use equivalent levels of safety, suitability and fitness for purpose and are marked with a mark to indicate that standard;
+
+and in each case are marked with an approved certification mark of an approved body (whether or not they are required to be so marked by the standard in point); or
+
+- (c) with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation.
+
+(2) For the purposes of this regulation—
+
+- (a) an approved certification mark is—
+  - (i) the certification mark of the British Standards Institution; or
+  - (ii) a certification mark which indicates that a conformity assessment equivalent to that of the British Standards Institution has been undertaken, and
+- (b) an approved body is—
+  - (i) the British Standards Institution; or
+  - (ii) any body approved by an EEA State to undertake conformity assessments equivalent to those undertaken by the British Standards Institution.
+
+## 4. Saving for the Trade Descriptions Act 1968, the Consumer Protection Act 1987 and the Consumer Protection (Northern Ireland) Order 1987[^key-d04b89483724979240439023e80bf915]
+
+Nothing in regulation 3(1) shall be taken to authorise any person to apply any number or mark referred to therein in contravention of [^key-f3eb0ff5d32080a84b71913b93eba2c9]..., the Consumer Protection Act 1987[^f00004] or the Consumer Protection (Northern Ireland) Order 1987[^f00005].
+
+## 5. Revocation[^key-c6c02d3ab8bf357559e653d1f73e3a12]
+
+The Motor Cycles (Protective Headgear) Regulations (Northern Ireland) 1981[^f00006] and the Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 1986[^f00007] are hereby revoked.
+
+Sealed with the Official Seal of the Department of the Environment on
+
+J. Ritchie
+
+Assistant Secretary
+
+31st March 1999.
+
+## SCHEDULE — British Standards
+
+(Regulation 2(1))
+
+**1.**[^key-a17bfd3a6108739be4bb1fa94d9adf50] British Standard 2001:1956 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 11th January 1957 |
+| 2 | 23rd November 1959 |
+| 3 | 27th February 1962 |
+| 4 | 11th June 1964 |
+| 5 | 13th March 1968 |
+| 6 | 18th February 1972 |
+
+**2.**[^key-0061a6aca55719cee343631a961f1d0b] British Standard 1869:1960 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 29th May 1963 |
+| 4 | 3rd December 1965 |
+| 5 | 13th March 1968 |
+| 6 | 10th August 1971 |
+| 7 | 3rd January 1972 |
+| 8 | 15th May 1973 |
+| 9 | 1st February 1974 |
+| 10 | 2nd September 1974 |
+| 11 | 1st March 1975 |
+
+**3.**[^key-65761830c5c22b0379f7863e5bfa9cf7] British Standard 2495:1960 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 29th May 1963 |
+| 2 | 22nd February 1965 |
+| 3 | 7th December 1965 |
+| 4 | 22nd July 1966 |
+| 5 | 10th August 1971 |
+| 6 | 3rd January 1972 |
+| 7 | 1st February 1974 |
+| 8 | 1st March 1975 |
+
+**4.**[^key-534eb067efd39adc4fdd2c5adf1c2b1a] British Standard 2001:1972 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 12th December 1972 |
+| 2 | 26th January 1973 |
+| 3 | 1st February 1974 |
+| 4 | 2nd September 1974 |
+| 5 | 1st March 1975 |
+
+**5.**[^key-1f58678f8c7018d11744757ad5e9988e] British Standard 5361:1976
+
+**6.**[^key-49085fab576ba092aa3675cd41e1eb02] British Standard 2495:1977
+
+**7.**[^key-f8e091d7ef78af2db5dd42701b065303] British Standard 5361:1976 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 30th September 1977 |
+| 2 | 31st August 1978 |
+| 3 | 31st August 1979 |
+| 4 | 29th February 1980 |
+
+**8.**[^key-7ace911786d7d7292a7fe4efaa42ccc8] British Standard 2495:1977 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 30th September 1977 |
+| 2 | 31st August 1978 |
+| 3 | 31st August 1979 |
+| 4 | 29th February 1980 |
+
+**9.**[^key-3a06e2779c53e7b134df315f5d95f270] British Standard 5361:1976 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 30th September 1977 |
+| 2 | 31st August 1978 |
+| 3 | 31st August 1979 |
+| 4 | 29th February 1980 |
+| 5 | 27th February 1981 |
+
+**10.**[^key-69141835e17c5b09748308aac57412ea] British Standard 2495:1977 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 30th September 1977 |
+| 2 | 31st August 1978 |
+| 3 | 31st August 1979 |
+| 4 | 29th February 1980 |
+| 5 | 27th February 1981 |
+
+**11.**[^key-59ca7a7fe783b9dbe95435178a2b403c] British Standard 6658:1985 as amended by the following Amendment Slip—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 28th February 1986 |
+
+(This note is not part of the Regulations.)
+
+These Regulations revoke and consolidate with amendments the Motor Cycles (Protective Headgear) Regulations (Northern Ireland) 1981 (“the 1981 Regulations”) and the Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 1986. The 1981 Regulations prescribed certain types of helmet recommended as affording protection to persons on or in motor cycles from injury in the event of accident. The types of helmet were prescribed by reference to conformity with certain British Standards and by appropriate markings.
+
+These Regulations require every person driving or riding (otherwise than in a side-car) on a motor cycle on a road to wear protective headgear as defined in regulation 2. This requirement does not extend to a mowing machine, or vehicle being propelled by persons on foot (regulation 2(2)). Nor does it extend, by virtue of Article 27(2) of the Road Traffic (Northern Ireland) Order 1995, to a follower of the Sikh religion while he is wearing a turban.
+
+Regulation 3 prescribes certain types of helmet recommended as affording protection to persons on or in motor cycles from injury in the event of an accident. The types of helmet are so prescribed by reference to British Standard 6658:1985 as amended or any other standard accepted by a European Economic Area (“EEA”) State which offers in use equivalent levels of safety, suitability and fitness for purpose. In each case the helmet must be marked with the relevant standard with which it conforms and an approved certification mark of an approved body. In this context “equivalent levels” means levels which are the same or greater in respect of the factors specified. The 1981 Regulations did not prescribe types of helmet by reference to standards accepted by EEA States.
+
+British Standard 6658:1985 may be obtained from any outlet operated by the British Standards Institution (BSI) or by post from BSI at 389 Chiswick High Road, London W4 4AL (Telephone number: 0181-996 9000).
+
+These Regulations have been notified to the European Commission pursuant to European Parliament and Council Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of 22nd June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (O.J. L204, 21.7.98, p. 37).
+
+Copies of this Directive can be obtained from The Stationery Office Bookshop, 16 Arthur Street, Belfast BT1 4GD.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); see Article 2(2) for the definition of “the Department”
+
+[^key-6f54e005ce66d03f2184a35115145b72]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/170/regulation/1) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-9ad11a7dbf860819b4a7fd8d03968cfa]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/2) substituted (14.5.2001) by [Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/147)](https://www.legislation.gov.uk/nisr/2001/147), [regs. 1](https://www.legislation.gov.uk/nisr/2001/147/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2001/147/regulation/2/2)
+
+[^key-118a64356c3d2cf4aec5ec6bae3e56e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/170/regulation/2) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-84b520a297199c565cf2a9c4045f5b5d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/2/1) inserted (30.6.2017) by [The Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/89)](https://www.legislation.gov.uk/nisr/2017/89), [regs. 1](https://www.legislation.gov.uk/nisr/2017/89/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2017/89/regulation/2/2/a)
+
+[^key-729b892fd38d6dd50ee1adf26a9de851]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/1999/170/regulation/2/3) inserted (30.6.2017) by [The Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/89)](https://www.legislation.gov.uk/nisr/2017/89), [regs. 1](https://www.legislation.gov.uk/nisr/2017/89/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2017/89/regulation/2/2/b/i)
+
+[^key-ecd6fced7d9ef0c65fd8f4009742b534]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/170/regulation/3) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-191c891bcf821d151cc08e63ab0bee4d]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/3/1) substituted (14.5.2001) by [Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/147)](https://www.legislation.gov.uk/nisr/2001/147), [regs. 1](https://www.legislation.gov.uk/nisr/2001/147/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2001/147/regulation/2/3)
+
+[^key-976021613609ada762f1a1a7dd8db70e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/3/1) inserted (30.6.2017) by [The Motor Cycles (Protective Headgear) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/89)](https://www.legislation.gov.uk/nisr/2017/89), [regs. 1](https://www.legislation.gov.uk/nisr/2017/89/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2017/89/regulation/2/3)
+
+[^key-d04b89483724979240439023e80bf915]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/170/regulation/4) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-f3eb0ff5d32080a84b71913b93eba2c9]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/1999/170/regulation/4) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/90), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+
+[^f00004]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)
+
+[^f00005]: Footnote: [S.I. 1987/2049 (N.I. 20)](https://www.legislation.gov.uk/nisi/1987/2049)
+
+[^key-c6c02d3ab8bf357559e653d1f73e3a12]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/170/regulation/5) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 1981 No. 141](https://www.legislation.gov.uk/nisr/1981/141)
+
+[^f00007]: Footnote: [S.R. 1986 No. 238](https://www.legislation.gov.uk/nisr/1986/238)
+
+[^key-a17bfd3a6108739be4bb1fa94d9adf50]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/1) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-0061a6aca55719cee343631a961f1d0b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/2) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-65761830c5c22b0379f7863e5bfa9cf7]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/3) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-534eb067efd39adc4fdd2c5adf1c2b1a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/4) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-1f58678f8c7018d11744757ad5e9988e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/5) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-49085fab576ba092aa3675cd41e1eb02]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/6) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-f8e091d7ef78af2db5dd42701b065303]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/7) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-7ace911786d7d7292a7fe4efaa42ccc8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/8) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-3a06e2779c53e7b134df315f5d95f270]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/9) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-69141835e17c5b09748308aac57412ea]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/10) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)
+
+[^key-59ca7a7fe783b9dbe95435178a2b403c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/1999/170/schedule/paragraph/11) in operation at 12.5.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/170/regulation/1/1)

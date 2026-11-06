@@ -1,0 +1,535 @@
+---
+title: The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019
+id: nisr/2019/27
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2019-03-04'
+text_date: '2025-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2019/27
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2019/27/pdfs/nisrem_20190027_en.pdf
+- http://www.legislation.gov.uk/nisr/2019/27/pdfs/nisr_20190027_en.pdf
+- http://www.legislation.gov.uk/nisr/2019/27/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019
+
+> Text as at 2025-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2019 No. 27
+
+Road Transport
+
+The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019
+
+Made
+
+4th March 2019
+
+Coming into operation
+
+28th March 2019
+
+The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00002] and section 56(1) and (5) of the Finance Act 1973[^f00003].
+
+The Department for Infrastructure is designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to the carriage of passengers and goods by road.
+
+In accordance with section 56(1) and (5) of the Finance Act 1973, the Department of Finance[^f00005] consents to the making of these Regulations.
+
+## 1. Citation and commencement[^key-ff496d8a67a056db1ac949b6f51d9b2e]
+
+These Regulations may be cited as the Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 and shall come into operation on 28th March 2019.
+
+## 2. Interpretation[^key-e67a9dec120efd39df6c0234ad05575d]
+
+(1) In these Regulations—
+
+- “the 1967 Act” means the Transport Act (Northern Ireland) 1967[^f00006];
+- “the 1995 Order” means the Road Traffic (Northern Ireland) Order 1995[^f00007];
+- “bus operator’s licence” means a bus operator’s licence within the meaning of section 4[^f00008] of the 1967 Act;
+- “Department” means the Department for Infrastructure;
+- “EEA State” means a State, not being a Member State, which is a party to the EEA Agreement;
+- “[^key-43f0bd6b2c92697ed655081bb0c99baf]**Interbus**” means the Agreement on the international occasional carriage of passengers by coach and bus (Interbus Agreement) originally concluded in Brussels on 30th June 2001 and as acceded to by the United Kingdom by instrument of accession deposited on 29th October 2020;
+- “Regulation 1071/2009” means Regulation [(EC) No 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of the European Parliament and of the Council establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator[^f00010];
+- “[^key-8da45c750b5b258ae04d2d6d28b93d9b]**RPT Chapter**” means Title II of Heading Three of Part Two (transport of passengers by road) of the Trade and Cooperation Agreement, together with—
+  - (a) Annexes 32, 33 and 34 to the Trade and Cooperation Agreement, and
+  - (b) Articles 124, 135 and 137 of the Trade and Cooperation Agreement, so far as applying to that Title;
+- “**RSR Protocol**” means the Protocol to Interbus regarding the international regular and special regular carriage of passengers by coach and bus;
+- “**Trade and Cooperation Agreement**” has the meaning given in section 37(1) of the European Union (Future Relationship) Act 2020;
+- [^key-4ab9cfe5a001be829422b19cf0a01f16]...[^f00011]
+
+(2) For the purposes of the RPT Chapter, Interbus and the RSR Protocol[^key-f116f125df299fa66ea708635cdf77b0] , “authorised inspecting officer” means—
+
+- (a) a constable in uniform; or
+- (b) a vehicle examiner appointed under Article 74 of the 1995 Order.
+
+(3) Terms and expressions used in the RPT Chapter, Interbus or the RSR Protocol[^key-2c241bc0b27ddf55354b0da83d8a0d66] have the same meaning in these Regulations.
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2A. Status of International Agreements[^key-8134e95d1f97114e2cabf62509285e7c]
+
+(1) The road passenger transport agreements, in their English language version, form part of the law of Northern Ireland on and after 1st April 2025.
+
+(2) Any statutory provision has effect on and after 1st April 2025 with such modifications as—
+
+- (a) are required in consequence of paragraph (1) or otherwise for the purposes of implementing the road passenger transport agreements, and
+- (b) are capable of being ascertained from the agreements or otherwise from the Trade and Cooperation Agreement, as it has effect on that date.
+
+(3) Paragraphs (1) and (2)—
+
+- (a) are subject to any equivalent or other provision—
+  - (i) which (whether before, on or after 1st April 2025) is made by or under the European Union (Future Relationship) Act 2020 or any other statutory provision or otherwise forms part of the law of Northern Ireland, and
+  - (ii) which is for the purposes of (or has the effect of) implementing to any extent the Trade and Cooperation Agreement or any other future relationship agreement (as defined in section 37(1) of the European Union (Future Relationship) Act 2020), and
+- (b) do not limit the scope of any power which is capable of being exercised to make any such provision.
+
+(4) For the purposes of this regulation—
+
+- (a) the road passenger transport agreements are the following, as they have effect on 1st April 2025—
+  - (i) the RPT Chapter,
+  - (ii) Interbus, and
+  - (iii) the RSR Protocol;
+- (b) references to the purposes of (or having the effect of) implementing an agreement (or any provision of an agreement) include references to the purposes of (or having the effect of) making provision consequential on any such implementation.
+
+## 3. Competent authority[^key-533bf9679b93b17f7e7a9d6a53949b10]
+
+(1)[^key-5cf719a2d12f5e9a50ca79c5d8f9c49b] [^key-c9f4b39ba88ec6cfccf53230aaa443b5]... The competent authority for the purposes of the RPT Chapter, Interbus, the RSR Protocol[^key-ba9069dc5e150c9617a4ee7710976c9c] and of these Regulations is the Department.
+
+(2)[^key-74c0714d2a449d23de08d30b700d7d20] It is the duty of the Department to perform the functions conferred on the competent authority by the provisions specified in paragraph (1).
+
+## 4. Use of a public service vehicle not registered in the United Kingdom[^key-988dfc63f3b8a9cd11daa68d643022aa]
+
+(1) This regulation applies to a vehicle not registered in the United Kingdom but which is registered in a[^key-0228130be052af1788b174e2dfcac9fc] Member State, an EEA State or an Interbus State, and which is being used in Northern Ireland in accordance with—
+
+- (a) Interbus for the provision of liberalised occasional services or non-liberalised occasional services; [^key-fd47300832035bda7e39a2484a86fe5f]...
+- (b)[^key-e10d0e86f21001ef94890bc35376512b] the RSR Protocol for the provision of regular services or special regular services; or
+- (c) the RPT Chapter for the provision of occasional services, regular services or special regular services outside the scope of Interbus and the RSR Protocol.
+
+(2) In relation to a vehicle to which this regulation applies—
+
+- (a) the 1967 Act has effect as if section 4 (grant of road service licences) was omitted; and
+- (b) none of the provisions of the Public Service Vehicles Regulations (Northern Ireland) 1985[^f00013] and the Public Service Vehicles (Conditions of Fitness, Equipment and Use) Regulations (Northern Ireland) 1995[^f00014] shall have effect.
+
+(3) In this regulation, “Interbus State” means a State, not being a Member State, which is a contracting party to Interbus.
+
+## 5. Fees[^key-32c6c1eb83154cd1b6781d2c0d41dc49]
+
+(1) An applicant for a control document shall pay to the Department, when an application is made, a fee of £5.50 for a single waybill or £13.00 for a book of 25 waybills.
+
+(2) An applicant for an authorisation shall pay to the Department, when an application is made, a fee of £140.00 in respect of the application.
+
+(3) An applicant for an authorisation shall pay to the Department, before the authorisation is issued, in addition to the fee required by paragraph (2), a fee of £30.00 in respect of each year of validity of the authorisation.
+
+(4) An applicant for a certified copy of an authorisation shall pay to the Department, when an application is made, a fee of £10.00 in respect of each copy requested.
+
+## 6. Control documents for cabotage operations[^key-1af8c9fdd37cce30c906edbd359a5ba0][^key-cdeb6bc3a4a647471bac844ded77dcc2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Issue of a Community licence and authorisation[^key-6d9888d8ca92463cb211218a292f2607][^key-5133b8cc584581cb7074209106bf76d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Withdrawal of a Community licence[^key-0cfe37114e44e7c218585eca2687509a][^key-e9dfd0b20e8b1ad1dc2a812b36f95755]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Rights of appeal[^key-6991ce0e21048daea45a1b2d5627c5f9][^key-918e5811303f2bbbbe02913f0935f446]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Supply of information ...[^key-e3e386075627da9ef0633a2e4294076b][^key-97a97e029bb6f7cd9894cb7275a163c1]
+
+(1) The Department may refuse to issue an[^key-f26ffc7e9caadb716a291ed1062f24b6] or authorisation to an applicant if the applicant fails to supply any information that the Department may reasonably request pursuant to —[^key-16f051c16c99b65720bf73b3a3dbe52b]
+
+- (a) Article 9(3) of the RSR Protocol; or
+- (b) Article 478(3) of the RPT Chapter.
+
+(2) The holder of an[^key-58d0352cbf1ff50c7917f0732788409e] or authorisation shall supply such information as the Department may reasonably require from time to time to enable it to decide whether the holder is entitled to retain the [^key-bcd39c757ffcf6c4043acc465675bb99]... authorisation.
+
+(3) A person who fails to supply any information required under paragraph (2) may have the [^key-8f50987ab91b880f308407d2b4f890fc]... authorisation, and any certified true copies of it, withdrawn by the Department.
+
+## 11. Power to stop[^key-e0c6ae0336ae53b2efa6bb441535fd58]
+
+(1) Paragraph (2) applies if it appears to an authorised officer that a vehicle is being used in circumstances such that—
+
+- (a)[^key-7bbc684588908420f0e2c0f7e0e0ee2f] an operator’s licence for the international carriage of passengers by road,
+- (b) an authorisation, or
+- (c) a control document,
+
+may be required.
+
+(2) The authorised officer may direct the driver to stop the vehicle so that they can conduct checks as to whether an offence has been committed under these Regulations.
+
+(3) In this regulation “authorised officer” means an officer appointed under Article 74 of the 1995 Order.
+
+## 12. Death, bankruptcy etc. of holder of Community licence[^key-8d4b1909b342a523126a6bbf72c9425a][^key-130d796403952af301fa1a8a4ceca9e1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Amendment of the Transport Act (Northern Ireland) 1967[^key-423f31cbeee813a0465ba5f2ec30fcfb]
+
+(1) The 1967 Act is amended in accordance with paragraphs (2) to (4).
+
+(2) In section 34(a) (forgery of licences)[^f00016], for “Article 6 of Council Regulation [(EC) No. 12/98](https://www.legislation.gov.uk/european/regulation/1998/0012) of 11th December 1997” substitute “Article 12(4) or 17(3) of Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073)”.
+
+(3) In section 35(f) (false statements)[^f00017], for “Article 6 of Council Regulation [(EC) No. 12/98](https://www.legislation.gov.uk/european/regulation/1998/0012) of 11th December 1997” substitute “Article 12(4) or 17(3) of Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073)”.
+
+(4) In section 81(1) (interpretation)[^f00018], after the definition of “the 2009 Regulation” insert—
+
+- “Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073)” means Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international market for coach and bus services, and amending Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561);”.
+
+## 14. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-ae51786e7cd6368c029a51edc41d10c0]
+
+(1) The Road Traffic (Northern Ireland) Order 1981[^f00019] is amended in accordance with paragraphs (2) to (4).
+
+(2) In Article 84(2) (power in certain cases to prohibit driving of foreign vehicles)[^f00020], in sub-paragraph (b), after “statutory provisions” insert “or the provision of the EU instrument”.
+
+(3) In Schedule 1 (statutory provisions conferring functions on authorised officers)[^f00021], after the entry relating to Articles 86 and 87 of the 1995 Order, insert—
+
+> |  |  |
+> | --- | --- |
+> | Article 18 of the Agreement on the international occasional carriage of passengers by coach and bus (Interbus Agreement) (OJ No. L321, 26.11.2002, p. 13). | To require the presentation of certain control documents and authorisations, which are required to be kept on board certain passenger vehicles. |
+> |  |  |
+> | Article 20 of the Agreement on the international occasional carriage of passengers by coach and bus (Interbus Agreement). | To require the presentation of a certified true copy of a licence to perform carriage by means of certain international occasional services, which is required to be kept on board certain passenger vehicles. |
+
+(4) In Schedule 2 (statutory provisions relating to vehicles and their drivers)[^f00022]—
+
+- (a) for the entry relating to regulation 3 of the Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013[^f00023] substitute—
+
+  > |  |  |
+  > | --- | --- |
+  > | Article 4(3) of Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073) of the European Parliament and of the Council on common rules for access to the international market for coach and bus services, and amending Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561). | Requirement to keep a certified true copy of a Community licence in a vehicle and present it at the request of any authorised inspecting officer. |
+
+  ;
+- (b) for the entry relating to regulation 8 of the Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 substitute—
+
+  > |  |  |
+  > | --- | --- |
+  > | Article 17(1) of Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073) of the European Parliament and of the Council on common rules for access to the international market for coach and bus services, and amending Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561). | Requirement to keep a journey form on board a vehicle and present it at the request of any authorised inspecting officer. |
+
+## 15. Amendment of the Road Passenger Transport (Qualification of Operators) Regulations (Northern Ireland) 2014[^key-9831a02c0e647e3138d15d5b0c015869]
+
+In regulation 7(2)(b) (determination in respect of a transport manager: disqualification orders) of the Road Passenger Transport (Qualification of Operators) Regulations (Northern Ireland) 2014[^f00024], for “Article 8.3” substitute “Article 8.8”.
+
+## 16. Offences[^key-eb9925b783d89856061ebafef33c51d9][^key-6bfcecaf0ad71b22a1cc41f89be12f7d]
+
+(1)
+
+is guilty of an offence.
+
+(2) It is an offence—
+
+- (a) intentionally to obstruct any person acting in the execution or enforcement of these Regulations;
+- (b) without reasonable cause, to fail to give to any such person any assistance or information which that person may reasonably require under these Regulations;
+- (c) to furnish to any such person information knowing it to be false or misleading; or
+- (d) to fail to produce a document or record to any such person when required to do so.
+
+## 17. Bodies corporate[^key-07fd19506e6b6d685100b8ba5bc70612]
+
+For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+## 18. Penalties[^key-d9fe05018a59094f1f52c4904e8920a8]
+
+(1)[^key-14746b97e4dda809332b5d7f598a771e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A person guilty of an[^key-8dd692228317221ed11e133213d57926] offence under these Regulations is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## 19. Revocations[^key-89386d15398f49139e8447f4b58f3f5f]
+
+The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 are revoked.
+
+Sealed with the Official Seal of the Department for Infrastructure on 4th March 2019
+
+Tom Reid
+
+A senior officer of the
+
+Department for Infrastructure
+
+Sealed with the Official Seal of the Department of Finance on 4th March 2019
+
+Emer Morelli
+
+A senior officer of the
+
+Department of Finance
+
+## SCHEDULE 1 — Offences for breach of Regulation 1073/2009
+
+Regulation 16
+
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]... |  |
+| --- | --- |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+|  |  |
+| [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . | [^key-a81f3be2fbb6a9bd850c0a96017624c3]. . . |
+
+## SCHEDULE 2 — Offences for breach of Interbus[^key-e5c2487dd96831c13786d3673383b2bd]
+
+Regulation 16
+
+| Provision of Interbus | Subject matter |
+| --- | --- |
+| Article 5 | Requirement for vehicles used for international occasional services to comply with technical standards |
+|  |  |
+| Article 7(1) | Authorisation for non-liberalised occasional services |
+|  |  |
+| Article 10 | Control documents required for operating liberalised occasional services exempted from authorisation |
+|  |  |
+| Article 12(3) | Correct completion of control documents |
+|  |  |
+| Article 13 | Correct completion of control documents |
+|  |  |
+| Article 18 | Authorisation or control document required for inspection on the road |
+|  |  |
+| Article 20 | Requirement to possess a true copy of a licence to be carried for the purposes of international occasional services |
+
+## Schedule 3 — Offences for breach of the RSR Protocol[^key-b1fdd7b12352eb2bd0a94970645156af]
+
+Regulation 16(1)(b)
+
+| Provision of the RSR Protocol | Subject matter |
+| --- | --- |
+| Article 5 | Requirement to comply with the technical standards referred to in Annex 2 of the RSR Protocol |
+| Article 6(2) | Requirement for an operator to have an authorisation for the provision of regular and special regular services operating under the RSR Protocol |
+| Article 6(4) | Requirement for an operator to have an authorisation for parallel or temporary services serving the same public as existing regular services, and the non-serving of certain stops and service of additional stops on existing regular services |
+| Article 8(9) | Requirement for an additional vehicle, used to deal with temporary and exceptional circumstances, to comply with the conditions of authorisation under Article 8(6) of the RSR Protocol |
+| Article 8(9) | Requirement for contract, or equivalent document, to be kept in an additional vehicle, used to deal with temporary and exceptional circumstances |
+| Article 8(9) | Requirement to present contract, or equivalent document, at the request of an authorised inspecting officer |
+| Article 13(1) | Requirement for an operator providing regular or special regular services under the RSR Protocol to comply with the conditions of the authorisation |
+| Article 13(2) | Requirement for an operator operating services under the RSR Protocol to provide information to passengers |
+| Article 15(1) | Requirement for authorisations and operator’s licence, or certified true copies of authorisations and operator’s licence, for services operating under the RSR Protocol to be kept in the vehicle |
+| Article 15(1) | Requirement to present authorisations and operator’s licence, or certified true copies of authorisations and operator’s licence, at the request of an authorised inspecting officer |
+| Article 15(2) | Requirement for control documents for the operation of special regular services under the RSR Protocol to be kept in the vehicle |
+| Article 15(2) | Requirement to present control documents for the operation of special regular services under the RSR Protocol, at the request of an authorised inspecting officer |
+
+## Schedule 4 — Offences for breach of the RPT Chapter
+
+Regulation 16(1)(c)
+
+| Provision of the RPT Chapter | Subject matter |
+| --- | --- |
+| Article 475(8) | Requirement for services operated under the Trade and Cooperation Agreement (“the TCA”) to be performed using buses and coaches registered in the Party where the operator is established or resides |
+| Article 475(8) | Requirement to comply with the technical standards laid down in Annex 2 to Interbus |
+| Article 476(2) | Requirement for authorisation for regular and special regular services operating under the TCA |
+| Article 476(4) | Requirement for authorisation for parallel or temporary services serving the same public as existing regular services, and the non-serving of certain stops and serving of additional stops on existing regular services |
+| Article 483(1) | Requirement to keep authorisation and operator’s licence, or certified true copies thereof, on buses or coaches when operating services under the TCA |
+| Article 483(1) | Requirement to present authorisation and operator’s licence, or certified true copies thereof, at the request of an authorised inspecting officer |
+| Article 483(2) | Requirement for control documents for the operation of special regular services under the TCA to be kept in the vehicle |
+| Article 483(2) | Requirement to present control documents for the operation of special regular services under the TCA at the request of an authorised inspecting officer |
+| Article 483(3) | Requirement to carry on board buses or coaches operated under the TCA completed journey forms in the form specified in Annex 34 to the TCA |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013. They implement Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073) (“the EU Regulation”) of the European Parliament and of the Council on common rules for access to the international market for coach and bus services (OJ No L300, 14.11.2009, p. 88; “the EU Regulation”) and the Agreement on the international occasional carriage of passengers by coach and bus (OJ No L321, 26.11.2002, p. 13; “the Interbus Agreement”).
+
+The EU Regulation and the Interbus Agreement establish rules allowing access to the market for the provision of international bus and coach services.
+
+In particular the EU Regulation provides for a Community licence and makes provision in relation to regular services, special regular services, occasional services and cabotage, requiring an authorisation for the operation of regular services and the carrying of control documents. Relevant terms are defined in Article 2 of the EU Regulation.
+
+The Interbus Agreement makes provision in relation to occasional services from States which are contracting parties to the Agreement, requiring an authorisation in relation to non-liberalised occasional services and the carrying of control documents in relation to liberalised occasional services. Relevant terms are defined in Article 3 of the Agreement.
+
+Regulation 3 designates the Department for Infrastructure (“the Department”) as the competent authority for the purposes of the EU Regulation and the Interbus Agreement.
+
+Regulation 4 disapplies certain domestic road transport requirements for public service vehicles not registered in the United Kingdom but providing services under the EU Regulation or the Interbus Agreement.
+
+Regulation 5 makes provision for the payment of fees to the Department for the issue of control documents or an authorisation. Regulation 6 makes provision in relation to the retention of control documents. Regulation 7 confers entitlement to a Community licence on the basis of possessing the relevant Northern Ireland bus operator’s licence.
+
+Regulations 8 to 10 make provision in relation to information to be supplied with applications for a Community licence, the withdrawal of Community licences and appeals against withdrawal.
+
+Regulation 11 gives power to authorised officers (as defined in that regulation) to stop vehicles to check whether an offence under the Regulations has been committed. Offences are set out in regulation 16 and Schedules 1 and 2 and regulation 18 provides that they are punishable on summary conviction by a fine not exceeding level 3 under these Regulations or level 4 under Article 4(1) of Regulation 1073/2009 on the standard scale.
+
+Provision is made for the automatic transfer of a Community licence and an authorisation following the death, bankruptcy or incapacity of the holder (regulation 12) and for offences which may be committed by a body corporate (regulation 17).
+
+In addition provision is made for the amendment of other relevant legislation (regulations 13, 14 and 15).
+
+An Explanatory Memorandum has been produced and is available from the Transport Strategy Division, Department for Infrastructure, Clarence Court, 10-18 Adelaide Street, Town Parks, Belfast BT2 8GB or online alongside these Regulations at http://www.legislation.gov.uk/nisr.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department for Regional Development; *see* section 1(6) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)). Pursuant to section 1(9) of that Act, the Department of the Environment is dissolved
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008 ([2008 c. 7](https://www.legislation.gov.uk/ukpga/2008/7)). Section 2(2) is prospectively repealed by section 1 of the European Union (Withdrawal) Act 2018 ([2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16)) on exit day (*see* section 20 of that Act for the definition of “exit day”)
+
+[^f00003]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51); section 56 is prospectively amended by section 17 of, and Schedule 8 to, the European Union (Withdrawal) Act 2018 ([2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16)) on exit day (*see* section 20 of that Act for the definition of “exit day”)
+
+[^f00004]: Footnote: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266); to which there are amendments not relevant to these Regulations
+
+[^f00005]: Footnote: Formerly the Department of Finance and Personnel; *see* section 1(4) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
+
+[^key-ff496d8a67a056db1ac949b6f51d9b2e]: Commencement: Reg. 1 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-e67a9dec120efd39df6c0234ad05575d]: Commencement: Reg. 2 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^f00006]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
+
+[^f00007]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); relevant amendments are as follows. Article 74 was amended by paragraph 12 of Schedule 3 to the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ([2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)) and regulation 7(2) of the Road Vehicles (Powers to Stop) Regulations 2011 ([S.I. 2011/996](https://www.legislation.gov.uk/uksi/2011/996))
+
+[^f00008]: Footnote: Section 4 was amended by section 18(1) of, and paragraph 3 of Schedule 1 to, the Transport Act (Northern Ireland) 2011 ([2011 c. 11 (N.I.)](https://www.legislation.gov.uk/nia/2011/11)). There are other amendments to section 4 which are not related to these Regulations
+
+[^key-43f0bd6b2c92697ed655081bb0c99baf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/2/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/2/a/i)
+
+[^f00010]: Footnote: OJ No. L300, 14.11.2009, p. 51
+
+[^key-8da45c750b5b258ae04d2d6d28b93d9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/2/1) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/2/a/ii)
+
+[^key-4ab9cfe5a001be829422b19cf0a01f16]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/2/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/2/a/iii)
+
+[^f00011]: Footnote: OJ No. L300, 14.11.2009, p. 88
+
+[^key-f116f125df299fa66ea708635cdf77b0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/27/regulation/2/2) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/2/b)
+
+[^key-2c241bc0b27ddf55354b0da83d8a0d66]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2019/27/regulation/2/3) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/2/c)
+
+[^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-8134e95d1f97114e2cabf62509285e7c]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2019/27/regulation/2A) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/3)
+
+[^key-533bf9679b93b17f7e7a9d6a53949b10]: Commencement: Reg. 3 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-5cf719a2d12f5e9a50ca79c5d8f9c49b]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/3/1): reg. 3 renumbered as reg. 3(1) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/4/a)
+
+[^key-c9f4b39ba88ec6cfccf53230aaa443b5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2019/27/regulation/3) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ba9069dc5e150c9617a4ee7710976c9c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/3/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/4/b)
+
+[^key-74c0714d2a449d23de08d30b700d7d20]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/27/regulation/3/2) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/4/c)
+
+[^key-988dfc63f3b8a9cd11daa68d643022aa]: Commencement: Reg. 4 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-0228130be052af1788b174e2dfcac9fc]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/4/1) substituted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fd47300832035bda7e39a2484a86fe5f]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2019/27/regulation/4/1/a) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/5/a)
+
+[^key-e10d0e86f21001ef94890bc35376512b]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2019/27/regulation/4/1/b)[(c)](https://www.legislation.gov.uk/nisr/2019/27/regulation/4/1/c) substituted for [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2019/27/regulation/4/1/b) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/5/b)
+
+[^f00013]: Footnote: [S.R. 1985 No. 123](https://www.legislation.gov.uk/nisr/1985/123) as amended by [S.R. 1986 No. 33](https://www.legislation.gov.uk/nisr/1986/33), [S.R. 1990 No. 201](https://www.legislation.gov.uk/nisr/1990/201), [S.R. 1991 No. 445](https://www.legislation.gov.uk/nisr/1991/445), [S.R. 1993 No. 86](https://www.legislation.gov.uk/nisr/1993/86), [S.R. 1994 No. 225](https://www.legislation.gov.uk/nisr/1994/225), [S.R. 1995 No. 446](https://www.legislation.gov.uk/nisr/1995/446), [S.R. 1998 No. 76](https://www.legislation.gov.uk/nisr/1998/76), [S.R. 2000 No. 149](https://www.legislation.gov.uk/nisr/2000/149), [S.R. 2000 No. 328](https://www.legislation.gov.uk/nisr/2000/328), [S.R. 2001 No. 366](https://www.legislation.gov.uk/nisr/2001/366), [S.R. 2003 No. 40](https://www.legislation.gov.uk/nisr/2003/40), [S.R. 2003 No. 449](https://www.legislation.gov.uk/nisr/2003/449), [S.R. 2004 No. 413](https://www.legislation.gov.uk/nisr/2004/413), [S.R. 2006 No. 247](https://www.legislation.gov.uk/nisr/2006/247), [S.R. 2009 No. 72](https://www.legislation.gov.uk/nisr/2009/72), [S.R. 2011 No. 301](https://www.legislation.gov.uk/nisr/2011/301), [S.R. 2015 No. 42](https://www.legislation.gov.uk/nisr/2015/42), [S.R. 2016 No. 343](https://www.legislation.gov.uk/nisr/2016/343), [S.R. 2016 No. 344](https://www.legislation.gov.uk/nisr/2016/344) and [S.R. 2018 No. 89](https://www.legislation.gov.uk/nisr/2018/89)
+
+[^f00014]: Footnote: [S.R. 1995 No. 447](https://www.legislation.gov.uk/nisr/1995/447) as amended by [S.R. 1997 No. 308](https://www.legislation.gov.uk/nisr/1997/308), [S.R. 2002 No. 384](https://www.legislation.gov.uk/nisr/2002/384), [S.R. 2003 No. 38](https://www.legislation.gov.uk/nisr/2003/38), [S.R. 2003 No. 434](https://www.legislation.gov.uk/nisr/2003/434), [S.R. 2004 No. 414](https://www.legislation.gov.uk/nisr/2004/414), [S.R. 2004 No. 446](https://www.legislation.gov.uk/nisr/2004/446), [S.R. 2005 No. 270](https://www.legislation.gov.uk/nisr/2005/270), [S.R. 2006 No. 74](https://www.legislation.gov.uk/nisr/2006/74), [S.R. 2006 No. 248](https://www.legislation.gov.uk/nisr/2006/248), [S.R. 2009 No. 343](https://www.legislation.gov.uk/nisr/2009/343), [S.R. 2009 No. 358](https://www.legislation.gov.uk/nisr/2009/358), [S.R. 2010 No. 193](https://www.legislation.gov.uk/nisr/2010/193), [S.R. 2011 No. 302](https://www.legislation.gov.uk/nisr/2011/302), [S.R. 2017 No. 139](https://www.legislation.gov.uk/nisr/2017/139)
+
+[^key-32c6c1eb83154cd1b6781d2c0d41dc49]: Commencement: Reg. 5 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-1af8c9fdd37cce30c906edbd359a5ba0]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2019/27/regulation/6) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdeb6bc3a4a647471bac844ded77dcc2]: Commencement: Reg. 6 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-6d9888d8ca92463cb211218a292f2607]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2019/27/regulation/7) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5133b8cc584581cb7074209106bf76d3]: Commencement: Reg. 7 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-0cfe37114e44e7c218585eca2687509a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2019/27/regulation/8) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e9dfd0b20e8b1ad1dc2a812b36f95755]: Commencement: Reg. 8 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-6991ce0e21048daea45a1b2d5627c5f9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2019/27/regulation/9) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-918e5811303f2bbbbe02913f0935f446]: Commencement: Reg. 9 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-e3e386075627da9ef0633a2e4294076b]: Commencement: Reg. 10 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-97a97e029bb6f7cd9894cb7275a163c1]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2019/27/regulation/10) heading omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f26ffc7e9caadb716a291ed1062f24b6]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/10/1) substituted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16f051c16c99b65720bf73b3a3dbe52b]: Textual amendment: [Reg. 10(1)(a)](https://www.legislation.gov.uk/nisr/2019/27/regulation/10/1/a)[(b)](https://www.legislation.gov.uk/nisr/2019/27/regulation/10/1/b) substituted for words (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/6)
+
+[^key-58d0352cbf1ff50c7917f0732788409e]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2019/27/regulation/10/2) substituted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(5)(c)(i)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bcd39c757ffcf6c4043acc465675bb99]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2019/27/regulation/10/2) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8f50987ab91b880f308407d2b4f890fc]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2019/27/regulation/10/3) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e0c6ae0336ae53b2efa6bb441535fd58]: Commencement: Reg. 11 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-7bbc684588908420f0e2c0f7e0e0ee2f]: Textual amendment: [Reg. 11(1)(a)](https://www.legislation.gov.uk/nisr/2019/27/regulation/11/1/a) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(7)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/7)
+
+[^key-8d4b1909b342a523126a6bbf72c9425a]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2019/27/regulation/12) omitted (31.12.2020) by virtue of [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2019/973/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-130d796403952af301fa1a8a4ceca9e1]: Commencement: Reg. 12 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-423f31cbeee813a0465ba5f2ec30fcfb]: Commencement: Reg. 13 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^f00016]: Footnote: Section 34(a) was amended by the Schedule to the Forgery and Counterfeiting Act 1981 ([1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45)) and by Schedule 4 to the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ([2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)), regulation 6(3) of [S.R. 1977 No. 327](https://www.legislation.gov.uk/nisr/1977/327), regulation 7(1) of [S.R. 2003 No. 217](https://www.legislation.gov.uk/nisr/2003/217) and regulation 9(3) of [S.R. 2005 No. 212](https://www.legislation.gov.uk/nisr/2005/212)
+
+[^f00017]: Footnote: Section 35(f) was inserted by regulation 9(4) of [S.R. 2005 No. 212](https://www.legislation.gov.uk/nisr/2005/212)
+
+[^f00018]: Footnote: Section 81(1) was amended by Schedule 4 to the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ([2010 c. 2](https://www.legislation.gov.uk/ukpga/2010/2)), section 18(2) of, and Schedule 2 to, the Transport Act (Northern Ireland) 2011 ([2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11)), paragraph 9 of Schedule 7 to [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154), Part I of Schedule 2 to [S.I. 1984/1822 (N.I. 12)](https://www.legislation.gov.uk/nisi/1984/1822), paragraph 2 of Schedule 3 to [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504), paragraph 33(1) of Schedule 3 to [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994), paragraph 17 of Schedule 1 to [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941) and regulation 9(13) of [S.R. 2014 No. 206](https://www.legislation.gov.uk/nisr/2014/206)
+
+[^key-ae51786e7cd6368c029a51edc41d10c0]: Commencement: Reg. 14 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^f00019]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
+
+[^f00020]: Footnote: Article 84 was amended by regulation 3 of [S.R. 2003 No. 515](https://www.legislation.gov.uk/nisr/2003/515)
+
+[^f00021]: Footnote: Schedule 1 was amended by regulation 22(a) of [S.R. 1987 No. 383](https://www.legislation.gov.uk/nisr/1987/383), paragraph 11 of Schedule 3 to, and Schedule 4 to, the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ([2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)), regulation 14(2) of [S.R. 2013 No. 115](https://www.legislation.gov.uk/nisr/2013/115) and regulation 13(2) of [S.R. 2013 No. 287](https://www.legislation.gov.uk/nisr/2013/287). There are other amendments to Schedule 1 that are not relevant to these Regulations
+
+[^f00022]: Footnote: Schedule 2 was amended by regulation 22(b) of [S.R. 1987 No. 383](https://www.legislation.gov.uk/nisr/1987/383), Schedule 4 to the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ([2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)), regulation 14(3) of [S.R. 2013 No. 115](https://www.legislation.gov.uk/nisr/2013/115) and regulation 13(3) of [S.R. 2013 No. 287](https://www.legislation.gov.uk/nisr/2013/287). There are other amendments to Schedule 2 that are not relevant to these Regulations
+
+[^f00023]: Footnote: [S.R. 2013 No. 287](https://www.legislation.gov.uk/nisr/2013/287)
+
+[^key-9831a02c0e647e3138d15d5b0c015869]: Commencement: Reg. 15 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^f00024]: Footnote: [S.R. 2014 No. 206](https://www.legislation.gov.uk/nisr/2014/206)
+
+[^key-eb9925b783d89856061ebafef33c51d9]: Commencement: Reg. 16 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-6bfcecaf0ad71b22a1cc41f89be12f7d]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/16/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/8)
+
+[^key-07fd19506e6b6d685100b8ba5bc70612]: Commencement: Reg. 17 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-d9fe05018a59094f1f52c4904e8920a8]: Commencement: Reg. 18 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-14746b97e4dda809332b5d7f598a771e]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2019/27/regulation/18/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(9)(a)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/9/a)
+
+[^key-8dd692228317221ed11e133213d57926]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/nisr/2019/27/regulation/18/2) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(9)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/9/b)
+
+[^key-89386d15398f49139e8447f4b58f3f5f]: Commencement: Reg. 19 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-a81f3be2fbb6a9bd850c0a96017624c3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2019/27/schedule/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [7(10)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/7/10)
+
+[^key-e5c2487dd96831c13786d3673383b2bd]: Commencement: Sch. 2 in operation at 28.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1)
+
+[^key-b1fdd7b12352eb2bd0a94970645156af]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2019/27/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2019/27/schedule/4) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1370/schedule/2)

@@ -1,0 +1,227 @@
+---
+title: The Social Security (Carer’s Allowance) (Amendment) Regulations (Northern Ireland) 2002
+id: nisr/2002/323
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-10-21'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/323
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/323/pdfs/nisr_20020323_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/323/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Carer’s Allowance) (Amendment) Regulations (Northern Ireland) 2002
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 323
+
+SOCIAL SECURITY
+
+The Social Security (Carer’s Allowance) (Amendment) Regulations (Northern Ireland) 2002
+
+Made
+
+21st October 2002
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by paragraph 4(1)(b) and (c) and (2) of Schedule 1 to the Child Support (Northern Ireland) Order 1991[^f00001], sections 22(5), 70, 79(2), 90, 113, 122(1)(d), 123(1)(e), 131(1), 132(3) and (4)(b), 134(2), 171(1) and (4) of, and paragraph 2(8) of Schedule 3 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], sections 2A, 5(1), 5A, 71, 74(2), 102(1) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00003], section 5 of, and paragraph 12 of Schedule 3 to, the Social Security (Consequential Provisions) (Northern Ireland) Act 1992[^f00004], Articles 4 and 19(1) of the Child Support (Northern Ireland) Order 1995[^f00005], Articles 28(1) and 39(1) and (2) of the Jobseekers (Northern Ireland) Order 1995[^f00006], Articles 69 and 73(3), (4) and (6) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00007] and section 115(3) and (4) of the Immigration and Asylum Act 1999[^f00008], and now vested in it[^f00009], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel insofar as its consent is required in respect of paragraph 1(h) of the Schedule[^f00010] hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-908480eef11a60dabac60c7ccbad6f5f]
+
+(1) These Regulations may be cited as the Social Security (Carer’s Allowance) (Amendment) Regulations (Northern Ireland) 2002 and shall come into operation –
+
+- (a) except for the purposes of regulation 3, on 28th October 2002; and
+- (b) for the purposes of regulation 3, on 1st April 2003.
+
+(2) In these Regulations “the Invalid Care Allowance Regulations” means the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00011].
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Invalid Care Allowance Regulations[^key-682e464e0e964772edbb2a019b5c0d09]
+
+In regulation 10A(c) of the Invalid Care Allowance Regulations[^f00013] (women aged 65 before 28th October 1994) “and (5)” shall be omitted.
+
+## 3. Amendments consequential upon change of name of benefit[^key-b690d76e6120ae1b7bf0fcad9fdba47d]
+
+The Schedule (which substitutes, and makes related provision for, references to invalid care allowance) shall have effect.
+
+## 4. Revocations[^key-93bbd636aaf22329f2419a5532041407]
+
+The following regulations are hereby revoked –
+
+- (a) regulations 10 and 11 of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976;
+- (b) regulation 5(3), (4), (6) and (7) of the Social Security (Severe Disablement Allowance and Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1994[^f00014]; and
+- (c) regulation 2(9) and (10) of the Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1996[^f00015].
+
+Sealed with the Official Seal of the Department for Social Development on 21st October 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+The Department of Finance and Personnel hereby consents to paragraph 1(h) of the Schedule to the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 22nd October 2002.
+
+David Thomson
+
+Senior Officer of the
+
+Department of Finance and Personnel
+
+## SCHEDULE — SUBSTITUTION OF REFERENCES TO INVALID CARE ALLOWANCE AND RELATED PROVISION
+
+Regulation 3
+
+**1.**[^key-34a1be1e3b20072e4fcb5b94ecab1ec5] In each of the following provisions for “invalid care allowance” in each place where those words occur, there shall be substituted “carer’s allowance” preceded, where appropriate, by “a” instead of “an” –
+
+- (a) regulation 7A(1) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00016];
+- (b) regulations 2A, 3(1), 6, 7, 8(1), 9(1), 10A, 11A(b) and 11B of, and Schedule 1 to, the Invalid Care Allowance Regulations[^f00017];
+- (c) regulations 1(3) and 12(2) of, and Schedule 2 to, the Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00018];
+- (d) regulation 12 of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00019];
+- (e) regulations 4(2)(d) and 12 of, and Schedule 1 to, the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00020];
+- (f) regulation 17(1)(f) of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00021];
+- (g) regulation 57(1)(b)(iv) of, and paragraph 4(b) of Schedule 1B and paragraphs 7(2), 13(2), 13(3ZA), 13(3A)(b), 14ZA and 15(5) of Schedule 2 and paragraph 6A(1) of Schedule 8 to, the Income Support (General) Regulations (Northern Ireland) 1987[^f00022];
+- (h)[^key-9616e7d826fb2e161ffab8aea70e2b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) regulations 2 and 4A(2)(d) of, and Part I of Schedule 1 and paragraph 4 of Schedule 6 to, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00024];
+- (j) regulation 2(l) and (u) of the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00025];
+- (k) regulation 2(1)(e) of the Income Support (Liable Relatives) Regulations (Northern Ireland) 1990[^f00026];
+- (l)[^key-3a8fcc1ef27806dc9410d41098e3a600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m) regulation 1B(2)(a) of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00028];
+- (n) regulations 46(1)(a) and (d), 48(2)(a) and (3), 51(3)(c)(iii), 121(1)(b)(iv), 150(2) and 153(c) of, and paragraph 3(b) of Schedule A1, paragraphs 8(2), 15(1)(c) and (d), (5)(b) and (7), 17, 20(6), 20D(2), 20I(1)(d) and (4)(b), 20J and 20M(4) of Schedule 1 and paragraph 7 of Schedule 5 to, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00029];
+- (o) regulation 4(1)(c) of the Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00030];
+- (p) regulations 7(a)(i), 10(3) and 13(3) of, and Schedule 3 to, the Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1996[^f00031];
+- (q) regulation 3 of the Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1996[^f00032];
+- (r) regulation 4(3)(d) of the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^f00033];
+- (s) regulations 2(2) and (4)(b) and 11(8) of, and Part II of the Schedule to, the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^f00034];
+- (t) regulation 4(1)(a)(vi) of the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^f00035];
+- (u) regulation 13(2)(e) of the Social Security (Claims and Information) Regulations (Northern Ireland) 2001[^f00036]; and
+- (v) regulation 5(4)(b) of the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001[^f00037].
+
+**2.**[^key-99e830c5dd91c957a522cab820065e2a] In –
+
+- (a) regulations 6(17), (22) and (29) and 19(3)(d) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00038]; and
+- (b) regulation 3(2)(a) and (5) of the Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996[^f00039],
+
+after “invalid care allowance”, in each place where those words occur, there shall be inserted “or, as the case may be, carer’s allowance”.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976 (“the Invalid Care Allowance Regulations”) and other Regulations as a consequence of changes made to section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 by the Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002.
+
+Regulation 2 amends regulation 10A of the Invalid Care Allowance Regulations to omit the reference to section 70(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+Regulation 3 and the Schedule to these Regulations makes changes as a consequence of the change of the name from invalid care allowance to carer’s allowance.
+
+Regulation 4 makes consequential revocations.
+
+These Regulations correspond to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Part I of Schedule 1 is substituted by section 1(3) of, and Schedule 1 to, the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 22(5) was amended by paragraph 5 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)), section 70 was amended by regulation 2(3) of [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370) and Articles 2(2)(a)(iii) and 3 of the Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002 ([S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321)), section 90 was amended by paragraph 25 of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and Article 2(2)(a)(iv) of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321), section 113 was amended by paragraph 48 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)), section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 and paragraph 2(8) of Schedule 3 was added by Article 59(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 2A was inserted by Article 54 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and amended by Article 2(2)(b)(i) of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321), section 5(1) was amended by Article 3(1) of the Social Security (Amendment) (Northern Ireland) Order 1993 (S.I. [1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)) and Article 70 of, and paragraph 60(1)(a) of Schedule 6 to, the Social Security (Northern Ireland) Order 1998, section 5A was inserted by Article 68 of the Welfare Reform and Pensions (Northern Ireland) Order 1999, section 71 was amended by paragraph 32 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00004]: Footnote: [1992 c. 9](https://www.legislation.gov.uk/ukpga/1992/9)
+
+[^f00005]: Footnote: S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
+
+[^f00006]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00007]: Footnote: S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00008]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33)
+
+[^f00009]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00010]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; subsection (6A) was inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 (S.I. [1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-908480eef11a60dabac60c7ccbad6f5f]: Commencement: Reg. 1 in operation at 28.10.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/a)
+
+[^f00011]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99)
+
+[^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-682e464e0e964772edbb2a019b5c0d09]: Commencement: Reg. 2 in operation at 28.10.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/a)
+
+[^f00013]: Footnote: Regulation 10A was inserted by regulation 5(5) of [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370)
+
+[^key-b690d76e6120ae1b7bf0fcad9fdba47d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/323/regulation/3) in operation at 1.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/b)
+
+[^key-93bbd636aaf22329f2419a5532041407]: Commencement: Reg. 4 in operation at 28.10.2002, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/a)
+
+[^f00014]: Footnote: [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370)
+
+[^f00015]: Footnote: [S.R. 1996 No. 521](https://www.legislation.gov.uk/nisr/1996/521)
+
+[^key-34a1be1e3b20072e4fcb5b94ecab1ec5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2002/323/schedule/paragraph/1) in operation at 1.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/b)
+
+[^f00016]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 7A(1) was inserted by regulation 19 of [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99) and amended by [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108) and [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80)
+
+[^f00017]: Footnote: Regulation 2A was inserted by regulation 3 of [S.R. 1997 No. 483](https://www.legislation.gov.uk/nisr/1997/483), regulation 6 was substituted by regulation 2 of [S.R. 1981 No. 142](https://www.legislation.gov.uk/nisr/1981/142), regulation 9(1)(aa) was substituted by regulation 3 of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71), regulations 10A and 11A were inserted by regulation 5 of [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370) and regulation 11B was inserted, and Schedule 1 was substituted, by regulation 7 of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150); other relevant amending regulations are [S.R. 1996 No. 521](https://www.legislation.gov.uk/nisr/1996/521)
+
+[^f00018]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); regulation 1(3) was substituted by regulation 15(2) of [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485) and paragraphs 2BB and 9 of Schedule 2 were inserted by regulation 4 of [S.R. 1987 No. 129](https://www.legislation.gov.uk/nisr/1987/129)
+
+[^f00019]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114), to which there are amendments not relevant to these regulations
+
+[^f00020]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^f00021]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243), to which there are amendments not relevant to these regulations
+
+[^f00022]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 57(1)(b) was substituted by regulation 5 of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346), Schedule 1B was inserted by regulation 22 of, and Schedule 1 to, [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and amended by regulation 4(1) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74) and regulation 3(3) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80), paragraph 7(2) of Schedule 2 was inserted by regulation 6(c)(ii) of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346), paragraph 13(2) was amended by regulation 4(2)(a)(i) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74), paragraph 13(3ZA) was inserted by regulation 2(9)(b) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), paragraph 13(3A) was inserted by regulation 30(d) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), paragraph 14ZA was inserted by regulation 6(d) of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346) and amended by regulation 4(2)(b) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74) and regulation 2 of [S.R. 2002 No. 322](https://www.legislation.gov.uk/nisr/2002/322), paragraph 15 was amended by Article 16(5) of, and Schedule 3 to, [S.R. 2002 No. 99](https://www.legislation.gov.uk/nisr/2002/99) and paragraph 6A of Schedule 8 was inserted by regulation 4(6)(a) of [S.R. 1993 No. 120](https://www.legislation.gov.uk/nisr/1993/120)
+
+[^key-9616e7d826fb2e161ffab8aea70e2b3f]: Textual amendment: [Sch. para. 1(h)](https://www.legislation.gov.uk/nisr/2002/323/schedule/paragraph/1/h) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00024]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 4A was inserted by regulation 3 of [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175) and Part I of Schedule 1 was amended by regulation 2(11) of, and Schedule 1 to, [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456)
+
+[^f00025]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21), to which there are amendments not relevant to these regulations
+
+[^f00026]: Footnote: [S.R. 1990 No. 375](https://www.legislation.gov.uk/nisr/1990/375), to which there are amendments not relevant to these regulations
+
+[^key-3a8fcc1ef27806dc9410d41098e3a600]: Textual amendment: [Sch. para. 1(l)](https://www.legislation.gov.uk/nisr/2002/323/schedule/paragraph/1/l) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^f00028]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 1B was inserted by regulation 2(2) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and amended by [S.R. 2001 Nos. 156](https://www.legislation.gov.uk/nisr/2001/156) and [316](https://www.legislation.gov.uk/nisr/2001/316)
+
+[^f00029]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 46(1)(d) was added by paragraph 10(b) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), Schedule A1 was inserted by regulation 2(4) of, and Schedule 1 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), paragraph 15 of Schedule 1 was amended by regulation 4(3)(a) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74), paragraph 17 was amended by regulation 4(3)(b) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74) and regulation 3(a) of [S.R. 2002 No. 322](https://www.legislation.gov.uk/nisr/2002/322), paragraphs 20D, 20I, 20J and 20M were inserted by paragraph 53(4) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and paragraph 20J was amended by regulation 3(b) of [S.R. 2002 No. 322](https://www.legislation.gov.uk/nisr/2002/322)
+
+[^f00030]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519), to which there are amendments not relevant to these regulations
+
+[^f00031]: Footnote: [S.R. 1996 No. 520](https://www.legislation.gov.uk/nisr/1996/520), to which there are amendments not relevant to these regulations
+
+[^f00032]: Footnote: [S.R. 1996 No. 521](https://www.legislation.gov.uk/nisr/1996/521)
+
+[^f00033]: Footnote: [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622); regulation 4 is revoked by regulation 4(1)(a) of [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25) subject to paragraph (2) of that regulation
+
+[^f00034]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71), to which there are amendments not relevant to these regulations
+
+[^f00035]: Footnote: [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18), to which there are amendments not relevant to these regulations
+
+[^f00036]: Footnote: [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175), to which there are amendments not relevant to these regulations
+
+[^f00037]: Footnote: [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
+
+[^key-99e830c5dd91c957a522cab820065e2a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2002/323/schedule/paragraph/2) in operation at 1.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/323/regulation/1/1/b)
+
+[^f00038]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 6(17) and (22) was added by regulation 3(4) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and substituted by regulation 3(2)(a) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and paragraph (29) was added by regulation 2(2) of [S.R. 1997 No. 417](https://www.legislation.gov.uk/nisr/1997/417) and regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
+
+[^f00039]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518), to which there are amendments not relevant to these regulations

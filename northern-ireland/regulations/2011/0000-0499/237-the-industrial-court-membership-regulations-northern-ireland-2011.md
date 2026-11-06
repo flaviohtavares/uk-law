@@ -1,0 +1,115 @@
+---
+title: The Industrial Court (Membership) Regulations (Northern Ireland) 2011
+id: nisr/2011/237
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-06-23'
+text_date: '2022-11-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/237
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/237/pdfs/nisrem_20110237_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/237/pdfs/nisr_20110237_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/237/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Industrial Court (Membership) Regulations (Northern Ireland) 2011
+
+> Text as at 2022-11-14.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 237
+
+Industrial Relations
+
+The Industrial Court (Membership) Regulations (Northern Ireland) 2011
+
+Made
+
+23rd June 2011
+
+Coming into operation
+
+31st July 2011
+
+The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Article 91A(1) and (2) of the Industrial Relations (Northern Ireland) Order 1992[^f00002], and now vested in it[^f00003], makes the following Regulations:
+
+## 1. Citation and commencement[^key-d6b07d84200b341e254327655bce928a]
+
+These Regulations may be cited as the Industrial Court (Membership) Regulations (Northern Ireland) 2011 and shall come into operation on 31st July 2011.
+
+## 2. The members of the Industrial Court[^key-59d1f200159d74170bbc1fe8666fdebb]
+
+(1) The Court shall consist of members appointed by the Department.
+
+(2) The Department shall appoint a chairman, and may appoint a deputy chairman, both of whom shall, on appointment, become members of the Court.
+
+(3) The Department shall appoint as other members only persons experienced in industrial relations, and they shall include some persons whose experience is as representatives of employers and some whose experience is as representatives of workers.
+
+(4) The Department shall consult with the Agency and may consult other persons about the arrangements for making an appointment under paragraph (2) or (3).
+
+(5) At any time when the chairman of the Court is absent or otherwise incapable of acting, or there is a vacancy in the office of chairman, the deputy chairman, if any, may perform any of the functions of chairman of the Court.
+
+(6) At any time when the chairman or deputy chairman is absent or otherwise incapable of acting, or there is no such person, such member of the Court as the Department may direct may perform any of the functions of the chairman of the Court.
+
+## 3. Terms of appointment of members of the Industrial Court[^key-affd3b1646bb61d90a6272f6d1481a5a]
+
+(1) The members of the Court shall otherwise[^key-55467ab9620f7c9dc41c429906b07ba7] hold and vacate office in accordance with their terms of appointment[^key-b6a5eff2441d2309efd2da3c66271ff9]....
+
+(2)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Employment and Learning on 23rd June 2011.
+
+Dr. Stephen Farry
+
+Minister for Employment and Learning
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Article 91A(1) and (2) of the Industrial Relations (Northern Ireland) Order 1992, as amended, provides for regulations in relation to the membership of the Industrial Court (the “Court”). This is the first use of this enabling power.
+
+The Court is a non-departmental tribunal body whose main function is to adjudicate on applications relating to the statutory recognition or derecognition of trade unions for collective bargaining purposes, where this cannot be agreed voluntarily.
+
+These Regulations specify the arrangements in relation to the appointment of members of the Court and their terms of appointment. The Regulations include provision for the appointment of a chairman, deputy chairman and other members of the Court, for the removal and suspension of members in certain specified circumstances and for the members to hold and vacate office in accordance with their terms of appointment.
+
+An impact assessment has not been produced for this statutory rule as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Higher and Further Education, Training and Employment; *see* [2001 c. 15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15)
+
+[^f00002]: Footnote: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807); Article 91A was substituted by Article 25 of the Employment Relations (Northern Ireland) Order 1999 ([S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)); Article 91A(1) and (2) was substituted by section 3 of the Employment Act (Northern Ireland) [2010 (c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2010/12))
+
+[^f00003]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-d6b07d84200b341e254327655bce928a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
+
+[^key-59d1f200159d74170bbc1fe8666fdebb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/237/regulation/2) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
+
+[^key-affd3b1646bb61d90a6272f6d1481a5a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/237/regulation/3) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
+
+[^key-55467ab9620f7c9dc41c429906b07ba7]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/1) inserted (14.11.2022) by [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/2/a)
+
+[^key-b6a5eff2441d2309efd2da3c66271ff9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/1) omitted (14.11.2022) by virtue of [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/2/b)
+
+[^key-d7168cbce0c034ba9ff9aa69d842fe1b]: Textual amendment: [Reg. 3(2)-(7)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/2) omitted (14.11.2022) by virtue of [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/3) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2022/261/regulation/3/1))

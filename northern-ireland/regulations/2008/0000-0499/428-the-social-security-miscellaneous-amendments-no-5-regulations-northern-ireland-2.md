@@ -1,0 +1,533 @@
+---
+title: The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008
+id: nisr/2008/428
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-10-23'
+text_date: '2011-04-11'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/428
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/428/pdfs/nisr_20080428_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/428/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008
+
+> Text as at 2011-04-11.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 428
+
+Housing; Rates; Social Security
+
+The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008
+
+Made
+
+23rd October 2008
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(a) and (d), 123(1)(e), 129A(2), 131(1), 132(3) and (4)(a) to (c), 132A(3), 133(2)(h) and 171(1) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(h) and (q) and 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6(5), 14(1) to (3) and (4)(a) to (c) and 36(2) of, and paragraph 3(b) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], and sections 2(3)(b) and (6), 15(3) and (6)(b) and 19(1), (2)(a) and (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00005].
+
+Regulations 6 and 7 are made with the consent of the Department of Finance and Personnel[^f00006].
+
+The Social Security Advisory Committee has agreed that proposals in respect of regulations 6 and 7 should not be referred to it[^f00007].
+
+## 1. Citation commencement and interpretation[^key-b6ee5bc1a03fb986c6da110523dc4096]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008 and shall, subject to paragraph (2) come into operation on 17th November 2008.
+
+(2) Regulation 7(5) shall come into operation on 6th April 2009.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-ba442c90fcdc8f037ac3aeea6b097b90]
+
+(1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00009] are amended in accordance with paragraphs (2) to (10).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definitions of—
+  - (i) “community charge benefit”[^f00010];
+  - (ii) “the Independent Living Fund”[^f00011];
+  - (iii) “the Independent Living Funds”[^f00012];
+  - (iv) “the Independent Living (Extension) Fund”, and
+  - (v) “the Independent Living (1993) Fund”;
+- (b) in the definition of “non-dependant deduction” for “paragraph 11” substitute “paragraph 18”;
+- (c) in the definition of “training allowance”[^f00013]—
+  - (i) for “Department of Economic Development” in each place where it occurs, substitute “Department for Employment and Learning”, and
+  - (ii) omit “sections 2 and 3 of the Disabled Persons (Employment) Act (Northern Ireland) 1945[^f00014] or”; and
+- (d) in the definition of “youth training programme”[^f00015] omit “sections 2 and 3 of the Disabled Persons (Employment) Act (Northern Ireland) 1945 or”.
+
+(3)[^key-86292c553da576184ed1083b2dd3fde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 32(1)[^f00019] (calculation of weekly amount of income)—
+
+- (a) after “other than earnings)” insert “and regulations 31(3) (date on which income is treated as paid)” and after “a payment” insert “of income or tax credit”; and
+- (b) for sub-paragraph (b)(iii) substitute—
+
+  > - (iii) in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7; and
+  > - (iiia) in a case where that period is a year and the payment is income other than an award of working tax credit, by dividing the amount of the payment by 52;
+
+  .
+
+(5) In—
+
+- (a) regulation 42(4ZA)(a)[^f00020] (notional income);
+- (b) regulation 48(10)(c) [^f00021] (income treated as capital);
+- (c) regulation 51(3A)(a)[^f00022] (notional capital);
+- (d)[^key-3ed6183768915f7cad2c67dea7435453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) paragraph 18(8)(b)[^f00024] of Schedule 3 (housing costs);
+- (f) paragraphs 21(2)[^f00025] and 39(1)[^f00026] of Schedule 9 (sums to be disregarded in the calculation of income other than earnings); and
+- (g) paragraph 22(1)[^f00027]of Schedule 10 (capital to be disregarded),
+
+for “Funds” substitute “Fund (2006)”.
+
+(6) In regulation 61(1)[^f00028] (interpretation)—
+
+- (a)[^key-719f4113637da991e88927fdae69643c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for the definition of “sandwich course”[^f00031] substitute—
+
+  > - “sandwich course” has the meaning prescribed in regulation 2(9) of the Education (Student Support) Regulations (Northern Ireland) 2008[^f00032], regulation 2(10) of the Education (Student Support) Regulations (No. 2) 2008[^f00033] or regulation 4(2) of the Education (Student Loans) (Scotland) Regulations 2007[^f00034], as the case may be;
+
+  ;
+- (c) in paragraph (c) of the definition of “standard maintenance grant”[^f00035] omit “and paid under the Further and Higher Education (Scotland) Act 1992”; and
+- (d) in the definition of “student loan”[^f00036] for “the Students’ Allowances (Scotland) Regulations 1999” substitute “the Students’ Allowances (Scotland) Regulations 2007[^f00037]”.
+
+(7) In regulation 66A[^f00038] (treatment of student loans)—
+
+- (a) in paragraph (1) omit “unless it is a hardship loan in which case it shall be disregarded”; and
+- (b) omit paragraph (1A).
+
+(8) In Schedule 3[^f00039] (housing costs)—
+
+- (a) in paragraph 4(10)(b) (housing costs not met) for “children” substitute “persons” and for “who belong to the same family as the claimant” substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”;
+- (b) in paragraph 14(3) (linking rule) omit “under sections 2 and 3 of the Disabled Persons (Employment) Act (Northern Ireland) 1945”;
+- (c) in paragraph 16(2)(l) (loans for repairs and improvements to the dwelling occupied as the home) for “children” substitute “persons” and for “who are part of the same family as the claimant” substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”; and
+- (d) for paragraph 18(7)(b) (non-dependant deductions) substitute—
+
+  > - (b) if he is in receipt of an allowance paid in connection with a youth training programme provided or arranged by the Department for Employment and Learning under section 1(1) or 3 of the Employment and Training Act (Northern Ireland) 1950[^f00040].
+
+  .
+
+(9) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) omit paragraph 45[^f00041].
+
+(10) In Schedule 10 (capital to be disregarded) in paragraph 29[^f00042] omit “, the Independent Living (1993) Fund”.
+
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-f892dfcfd71063a5c0fb3c1976ba1a61]
+
+In Schedule 8A of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00043] (deductions from benefit and direct payment to third parties) at the end of paragraph 9(1)(a) add “, paragraph 4 (miscellaneous accommodation costs) or paragraph 4A (hostel payments).”
+
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-e3a94f50d133257a02d417eb3a48b64e]
+
+(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00044] are amended in accordance with paragraphs (2) to (9).
+
+(2) In regulation 1(2) (citation, commencement and interpretation)—
+
+- (a) omit the definitions of—
+  - (i) “the Independent Living Fund”;
+  - (ii) “the Independent Living Funds”[^f00045];
+  - (iii) “the Independent Living (Extension) Fund”, and
+  - (iv) “the Independent Living (1993) Fund”;
+- (b) for the definition of “sandwich course”[^f00046] substitute—
+
+  > - “sandwich course” has the meaning prescribed in regulation 2(9) of the Education (Student Support) Regulations (Northern Ireland) 2008, regulation 2(10) of the Education (Student Support) (No. 2) Regulations 2008 or regulation 4(2) of the Education (Student Loans) (Scotland) Regulations 2007 as the case may be;
+
+  ; and
+- (c) in the definition of “training allowance”[^f00047] omit “sections 2 and 3 of the Disabled Persons (Employment) Act (Northern Ireland) 1945 or”.
+
+(3)[^key-19e851235df8261468c20fc76704fe75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 97(1)[^f00050] (calculation of weekly amount of income)—
+
+- (a) after “other than earnings)” insert “and regulation 96(3) (date on which income is treated as paid)” and after “a payment” insert “of income or tax credit”; and
+- (b) for sub-paragraph (b)(iii) substitute—
+
+  > - (iii) in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7; and
+  > - (iiia) in a case where that period is a year and the payment is income other than an award of working tax credit, by dividing the amount of the payment by 52;
+
+  .
+
+(5) In—
+
+- (a) regulation 105(10A)(a)[^f00051] (notional income);
+- (b) regulation 110(10)(c) (income treated as capital);
+- (c) regulation 113(3A)(a)[^f00052] (notional capital);
+- (d)[^key-6eab6dbd5c7412a2089b8b2d72854f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) paragraph 17(8)(b) of Schedule 2 (housing costs);
+- (f) paragraphs 22(2) and 41(1) of Schedule 6 (sums to be disregarded in the calculation of income other than earnings); and
+- (g) paragraphs 27(1)[^f00054] and 31 of Schedule 7 (capital to be disregarded),
+
+for “Funds” substitute “Fund (2006)”.
+
+(6) In regulation 130 (interpretation)—
+
+- (a) in paragraph (c)[^f00055] of the definition of “standard maintenance grant” omit “and paid under the Further and Higher Education (Scotland) Act 1992”; and
+- (b) in the definition of “student loan”[^f00056] for “the Students’ Allowances (Scotland) Regulations 1999” substitute “the Students’ Allowances (Scotland) Regulations 2007[^f00057]”.
+
+(7) In regulation 136 (treatment of student loans)—
+
+- (a) in paragraph (1)[^f00058] omit “unless it is a hardship loan in which case it shall be disregarded”; and
+- (b) omit paragraph (1A).
+
+(8) In Schedule 2 (housing costs)—
+
+- (a) in paragraph 4(10)(b)[^f00059] (housing costs not met) for “children” substitute “persons” and for “who belong to the same family as a claimant”, substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”;
+- (b) in paragraph 13(3)[^f00060] (linking rule) omit “provided under sections 2 and 3 of the Disabled Persons (Employment) Act (Northern Ireland) 1945 or”;
+- (c) in paragraph 15(2)(l) (loans for repairs and improvements to the dwelling occupied as the home) for “children” substitute “persons” and for “who are part of the same family as the claimant” substitute “but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible”; and
+- (d) for paragraph 17(7)(b)[^f00061] (non-dependant deductions) substitute—
+
+  > - (b) if he is in receipt of an allowance paid in connection with training provided or arranged by the Department for Employment and Learning under section 1(1) or 3 of the Employment and Training Act (Northern Ireland) 1950 for which persons aged under 18 are eligible and for which persons aged 18 to 24 may be eligible;
+
+  .
+
+(9) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings) omit paragraph 44.
+
+## 5. Amendment of the State Pension Credit Regulations[^key-d558d5b897606edc18aa087ce9fff11b]
+
+(1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00062] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (citation, commencement and interpretation) omit the definitions of—
+
+- (a) “the Independent Living Fund”;
+- (b) “the Independent Living Funds”[^f00063];
+- (c) “the Independent Living (Extension) Fund”; and
+- (d) “the Independent Living (1993) Fund”.
+
+(3) In Schedule 2 (housing costs)—
+
+- (a) for paragraph 10(6) (excessive housing costs) substitute—
+
+  > (6) Where sub-paragraph (4) does not apply and the claimant or the claimant’s partner was able to meet the financial commitments for the dwelling occupied as the home when these were entered into, no restriction shall be made under this paragraph during the first 26 weeks immediately following the date on which—
+  >
+  > - (a) the claimant became entitled to state pension credit where the claimant’s housing costs fell within one of the cases in sub-paragraph (1) on that date; or
+  > - (b) a decision took effect which was made under Article 11 of the Social Security (Northern Ireland) Order 1998[^f00064] (decisions superseding earlier decisions) on the grounds that the claimant’s housing costs fell within one of the cases in sub-paragraph (1),
+  >
+  > - nor during the next 26 weeks if and so long as the claimant uses his best endeavours to obtain cheaper accommodation.
+
+  ;
+- (b) for paragraph 14(7)(b) (persons residing with the claimant) substitute—
+
+  > - (b) if he is in receipt of an allowance paid in connection with training provided or arranged by the Department for Employment and Learning under section 1(1) or 3 of the Employment and Training Act (Northern Ireland) 1950 for which persons aged under 18 are eligible and for which persons aged 18 to 24 may be eligible;
+
+  ; and
+- (c) in paragraph 14(8)(b) for the word “Funds” substitute “Fund (2006)”.
+
+(4) In paragraph 15(1) of Schedule 5[^f00065] (income from capital) for the word “Funds” substitute “Fund (2006)”.
+
+## 6. Amendment of the Housing Benefit Regulations[^key-cb495839f44f966576040a5d9c728eff]
+
+(1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00066] are amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 2(1) (interpretation) omit the definitions of—
+
+- (a) “community charge benefit”;
+- (b) “the Independent Living Fund”;
+- (c) “the Independent Living Funds”[^f00067];
+- (d) “the Independent Living (Extension) Fund”; and
+- (e) “the Independent Living (1993) Fund”.
+
+(3) In—
+
+- (a) regulation 39(7)(a) (notional income);
+- (b) regulation 43(6) (income treated as capital);
+- (c) regulation 46(4)(a) (notional capital);
+- (d) regulation 72(9)(b) (non-dependant deductions);
+- (e) regulation 82(4)(b) and (c) (evidence and information);
+- (f) paragraph 37(1) of Schedule 6 (sums to be disregarded in the calculation of income other than earnings); and
+- (g) paragraph 25(1) of Schedule 7 (capital to be disregarded),
+
+for “Funds” substitute “Fund (2006)”.
+
+(4) In regulation 50(1) (interpretation)—
+
+- (a)[^key-d9c84ccce1441befeade317ab5482318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in the definition of “standard maintenance grant” omit “and paid under the Further and Higher Education (Scotland) Act 1992”.
+
+(5) In regulation 72(7) (non-dependant deductions) for sub-paragraph (b) substitute—
+
+> - (b) he is in receipt of an allowance paid in connection with training provided or arranged by the Department for Employment and Learning under section 1(1) or 3 of the 1950 Act for which persons aged under 18 are eligible and for which persons aged 18 to 24 may be eligible;
+
+.
+
+(6) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings) omit paragraph 42.
+
+(7) In Schedule 7 (capital to be disregarded)—
+
+- (a) in paragraph 35[^f00068] omit “, the Independent Living (1993) Fund”; and
+- (b) omit paragraph 37.
+
+## 7. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-c981c96f4bd0d36fd9b16aa6371367c5][^key-0f425ad6e5c8322d2945e3c8960b8714]
+
+(1)[^key-c981c96f4bd0d36fd9b16aa6371367c5] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00069] are amended in accordance with paragraphs (2) to (5).
+
+(2)[^key-c981c96f4bd0d36fd9b16aa6371367c5] In regulation 2(1) (interpretation) omit the definitions of—
+
+- (a) “the Independent Living Fund”;
+- (b) “the Independent Living Funds”[^f00070];
+- (c) “the Independent Living (Extension) Fund”; and
+- (d) “the Independent Living (1993) Fund”.
+
+(3)[^key-c981c96f4bd0d36fd9b16aa6371367c5] In regulation 53 (non-dependant deductions)—
+
+- (a) for sub-paragraph (7)(b) substitute—
+
+  > - (b) he is in receipt of an allowance paid in connection with training provided or arranged by the Department for Employment and Learning under section 1(1) or 3 of the 1950 Act for which persons aged under 18 are eligible and for which persons aged 18 to 24 may be eligible;
+
+  ; and
+- (b) in sub-paragraph (10)(b) for “Funds” substitute “Fund (2006)”.
+
+(4)[^key-c981c96f4bd0d36fd9b16aa6371367c5] In—
+
+- (a) regulation 63(4)(b) and (c) (evidence and information); and
+- (b) paragraph 16(1)(b) of Schedule 7 (capital to be disregarded),
+
+for “Funds” substitute “Fund (2006)”.
+
+(5)[^key-0f425ad6e5c8322d2945e3c8960b8714] In paragraph 14(a)(ii)[^f00071] of Schedule 9 (matters to be included in decision notice) for “income support or an income-based jobseeker’s allowance” substitute “state pension credit”.
+
+## 8. Revocations[^key-6eb7ebe3ec2e70e7bc98856c45e8119c]
+
+The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 23rd October 2008
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the Department for Social Development
+
+The Department of Finance and Personnel consents to regulation 6 and 7.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 24th October 2008
+
+(L.S.)
+
+Jack Layberry
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE — Revocations[^key-898000404f1b0ed200e48b8911d74403]
+
+Regulation 8
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Family Credit and Income Support (General) (Amendment) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/205">S.R. 1988 No. 205</a></td><td>Regulation 4</td></tr>
+<tr><td>The Income-Related Benefits (Amendment) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/120">S.R.1993 No. 120</a></td><td>Regulation 4(2)(a)</td></tr>
+<tr><td>The Social Security Benefits (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/195">S.R. 1993 No. 195</a></td><td>Regulation 5(2)</td></tr>
+<tr><td>The Social Security and Child Support (Jobseeker’s Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/503">S.R. 1996 No. 503</a></td><td>Regulation 2(18)(b)(ii)</td></tr>
+<tr><td>The Social Security (Students and Income-Related Benefits Amendment) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/222">S.R. 2002 No. 222</a></td><td>Regulation 2(1)(c)</td></tr>
+<tr><td>The Independent Living Fund (2006) Order (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/382">S.R. 2007 No. 382</a></td><td>Articles 2(2)(a), 4(a) 5(a), 7(2)(a) and 8(a)</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend various provisions relating to social security.
+
+Regulations 2 and 4 to 7 amend the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”), the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”), the State Pension Credit Regulations (Northern Ireland) 2003 (“the State Pension Credit Regulations”), the Housing Benefit Regulations (Northern Ireland) 2006 (“the Housing Benefit Regulations”) and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 so as to:
+
+- remove obsolete references to the Independent Living Fund, the Independent Living Funds, the Independent Living (Extension) Fund and the Independent Living (1993) Fund; and
+- replace and update references relating to unwaged trainees in the non-dependant deductions provisions.
+
+Regulations 2, 4 and 6 amend the Income Support Regulations, the Jobseeker’s Allowance Regulations and the Housing Benefit Regulations so as to:
+
+- ensure that provisions relating to students no longer refer to the Further and Higher Education (Scotland) Act 1992 and where appropriate, update references to the Education (Scotland) Act 1980; and
+- remove obsolete references to community charge benefit.
+
+Regulations 2 and 4 amend the Income Support Regulations and the Jobseeker’s Allowance Regulations to:
+
+- ensure that where working tax credit is awarded for an annual period a weekly amount is calculated by multiplying the daily rate by 7;
+- ensure that where working tax credit remains in payment for the first 4 weeks after the claimant ceased work or began working less than 16 hours a week, any such payment may be taken into account from the start of the income support or jobseeker’s allowance claim and for an appropriate number of weeks;
+- ensure that a loan will qualify for the purposes of housing costs if it is taken out for the provision of separate sleeping accommodation for a person regarded as a “qualifying young person” who could be someone up to 20 years of age;
+- remove obsolete references in the linking rules for housing cost provisions;
+- ensure that the definitions of “sandwich course” and “student loan” contains the correct cross-references to current legislation; and
+- remove obsolete references to “hardship loans” from the student provisions.
+
+Regulation 2 also amends the Income Support Regulations so as to correct references to legislation in the definitions of “non-dependant deduction”, “training allowance” and “youth training programme”.
+
+Regulation 3 amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 so as to add “miscellaneous housing costs” and “hostel payments” to the priority order for debts for which a deduction from benefit could be made.
+
+Regulation 5 also amends the State Pension Credit Regulations to clarify the circumstances under which excessive housing costs could be met following a superseding decision.
+
+Regulation 7 also amends the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 to correct provisions relating to decision notices so that instead of referring to “income support or an income-based jobseeker’s allowance” the notice will refer to “state pension credit”.
+
+Regulation 8 makes consequential revocations.
+
+In so far as these Regulations are required, for the purposes of regulations 6 and 7, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, that Act, are not subject to the requirement of section 149(2) for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and amended by Schedule 3 to the [State Pension Credit Act (Northern Ireland) 2002 (c.14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), section 129A was inserted by section 30(2) of the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2), section 132A was inserted by paragraph 3 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002 and section 171(1) was amended by paragraph 5 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 36(2) was amended by paragraph 55 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00005]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^f00006]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-b6ee5bc1a03fb986c6da110523dc4096]: Commencement: Reg. 1 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-ba442c90fcdc8f037ac3aeea6b097b90]: Commencement: Reg. 2 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [205](https://www.legislation.gov.uk/nisr/1988/205), [274](https://www.legislation.gov.uk/nisr/1988/274), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 Nos. 326](https://www.legislation.gov.uk/nisr/1989/326) and [365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1990 Nos. 33](https://www.legislation.gov.uk/nisr/1990/33), [131](https://www.legislation.gov.uk/nisr/1990/131), [297](https://www.legislation.gov.uk/nisr/1990/297) and [387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1993 Nos. 120](https://www.legislation.gov.uk/nisr/1993/120), [195](https://www.legislation.gov.uk/nisr/1993/195) and [233](https://www.legislation.gov.uk/nisr/1993/233), [S.R. 1995 Nos. 301](https://www.legislation.gov.uk/nisr/1995/301) and [434](https://www.legislation.gov.uk/nisr/1995/434), [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2000 Nos. 74](https://www.legislation.gov.uk/nisr/2000/74), [241](https://www.legislation.gov.uk/nisr/2000/241) and [242](https://www.legislation.gov.uk/nisr/2000/242), [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278), [S.R. 2002 No. 222](https://www.legislation.gov.uk/nisr/2002/222), [S.R. 2003 No. 338](https://www.legislation.gov.uk/nisr/2003/338), [S.R. 2004 Nos. 213](https://www.legislation.gov.uk/nisr/2004/213) and [389](https://www.legislation.gov.uk/nisr/2004/389), [S.R. 2005 Nos. 536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382) and [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
+
+[^f00010]: Footnote: The definition of “community charge benefit” was substituted by regulation 4(2)(a) of [S.R. 1993 No. 120](https://www.legislation.gov.uk/nisr/1993/120)
+
+[^f00011]: Footnote: The definition of “the Independent Living Fund” was inserted by regulation 4 of [1988 No. 205](https://www.legislation.gov.uk/nisr/1988/205)
+
+[^f00012]: Footnote: The definitions of “the Independent Living Funds”, “the Independent Living (Extension) Fund” and “the Independent Living (1993) Fund” were inserted by regulation 5(2) of [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195) and the definition of “the Independent Living Funds” was amended by Article 2(2)(a) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00013]: Footnote: The definition of “training allowance” was amended by regulation 2 of [S.R. 1989 No. 326](https://www.legislation.gov.uk/nisr/1989/326) and regulation 3(2)(a) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387)
+
+[^f00014]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6)
+
+[^f00015]: Footnote: The definition of “youth training programme” was inserted by regulation 2(b) of [S.R. 1988 No. 274](https://www.legislation.gov.uk/nisr/1988/274) and amended by regulation 3(2)(b) of [S.R. 1990 No. 387](https://www.legislation.gov.uk/nisr/1990/387)
+
+[^key-86292c553da576184ed1083b2dd3fde0]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2008/428/regulation/2/3) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
+
+[^f00019]: Footnote: Paragraph (1) was amended by regulation 15(a) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and regulation 10(a) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
+
+[^f00020]: Footnote: Paragraph (4ZA) was inserted by regulation 2(2)(b) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
+
+[^f00021]: Footnote: Paragraph (10) was added by regulation 10(b) of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431); sub-paragraph (c) was amended by regulation 4(3)(b) of [S.R. 1990 No. 33](https://www.legislation.gov.uk/nisr/1990/33), regulation 4(4) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), regulation 5(4) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201) and regulation 5(3)(b) of [S.R. 1993 Nos. 195](https://www.legislation.gov.uk/nisr/1993/195) and [233](https://www.legislation.gov.uk/nisr/1993/233)
+
+[^f00022]: Footnote: Paragraph (3A) was inserted by regulation 3(2)(b) and (3)(c) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326); sub-paragraph (a) was amended by regulation 2(1) and (2)(b) of [S.R. 2004 No. 389](https://www.legislation.gov.uk/nisr/2004/389) and regulation 2(3) of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
+
+[^key-3ed6183768915f7cad2c67dea7435453]: Textual amendment: [Reg. 2(5)(d)](https://www.legislation.gov.uk/nisr/2008/428/regulation/2/5/d) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+
+[^f00024]: Footnote: Sub-paragraph (8) was amended by regulation 2(3)(j)(iii) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
+
+[^f00025]: Footnote: Paragraph 21 was substituted by regulation 36(d) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and sub-paragraph (2) was amended by regulation 5(d) of [S.R. 1988 No. 205](https://www.legislation.gov.uk/nisr/1988/205), regulation 4(3)(e) of [S.R. 1990 No. 33](https://www.legislation.gov.uk/nisr/1990/33), regulation 4(7)(a) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), regulation 5(7)(a) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), regulation 5(3)(f) of [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195) and regulation 5(4)(a) of [S.R. 1993 No. 233](https://www.legislation.gov.uk/nisr/1993/233)
+
+[^f00026]: Footnote: Paragraph 39 was substituted by regulation 4(7)(b) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204) and amended by regulation 5(7)(b)(i) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), regulation 5(3)(f) of [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195) and regulation 5(4)(b)(i) of [S.R. 1993 No. 233](https://www.legislation.gov.uk/nisr/1993/233)
+
+[^f00027]: Footnote: Paragraph 22 was substituted by regulation 4(8)(a) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204); sub-paragraph (1) was amended by regulation 5(8)(a)(i) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), regulation 5(5)(a) of [S.R. 1993 No. 233](https://www.legislation.gov.uk/nisr/1993/233), regulation 3(1) and (2)(b) of [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213) and regulation 2(5)(a)(i) of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
+
+[^f00028]: Footnote: Regulation 61 was renumbered as regulation 61(1) by regulation 3(3) of [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241)
+
+[^key-719f4113637da991e88927fdae69643c]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2008/428/regulation/2/6/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+
+[^f00031]: Footnote: The definition of “sandwich course” was substituted by regulation 2(2)(b) of [SR 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242) and amended by regulation 2(1)(c) and (2)(b) of [S.R. 2002 No. 222](https://www.legislation.gov.uk/nisr/2002/222)
+
+[^f00032]: Footnote: [S.R. 2008 No. 250](https://www.legislation.gov.uk/nisr/2008/250)
+
+[^f00033]: Footnote: [S.I. 2008/1582](https://www.legislation.gov.uk/uksi/2008/1582)
+
+[^f00034]: Footnote: [S.S.I. 2007/154](https://www.legislation.gov.uk/ssi/2007/154)
+
+[^f00035]: Footnote: The definition of “standard maintenance grant” was substituted by regulation 5(8)(a) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405), paragraph (c) was substituted by regulation 2(1)(d) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278)
+
+[^f00036]: Footnote: The definition of “student loan” was substituted by regulation 3(2)(b) of [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317) and amended by regulation 2(1)(e) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278)
+
+[^f00037]: Footnote: [S.S.I. 2007/153](https://www.legislation.gov.uk/ssi/2007/153)
+
+[^f00038]: Footnote: Regulation 66A was inserted by regulation 4(7) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and paragraph (1) was substituted and (1A) inserted by regulation 2(4)(a) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242)
+
+[^f00039]: Footnote: Schedule 3 was substituted by regulation 2 of [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^f00040]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200)), section 3 was amended by Article 16 of, and Part I of Schedule 4 to, the Social Security (Northern Ireland) Order 1980 ([S.I. 1980/870 (N.I. 8)](https://www.legislation.gov.uk/nisi/1980/870)) and Article 35 of, and paragraph 1 of Schedule 3 to, the Industrial Training (Northern Ireland) Order 1984 ([S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159))
+
+[^f00041]: Footnote: Paragraph 45 was added by regulation 20(e) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
+
+[^f00042]: Footnote: Paragraph 29 was added by regulation 25 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by regulation 4(4) of [S.R. 1990 No. 33](https://www.legislation.gov.uk/nisr/1990/33), regulation 5(8)(b) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), regulation 5(4) of [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195) and Article 2(3) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^key-f892dfcfd71063a5c0fb3c1976ba1a61]: Commencement: Reg. 3 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^f00043]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); Schedule 8A was inserted by regulation 2(3) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), paragraph 9(1) was amended by regulation 6(5) of [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40), regulation 2(5) of [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146), regulation 2(8)(d)(i) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432), regulation 4(2)(c) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165), regulation 2(g) of [S.R. 2007 No. 206](https://www.legislation.gov.uk/nisr/2007/206) and regulation 2(d) of [S.R. 2007 No. 330](https://www.legislation.gov.uk/nisr/2007/330)
+
+[^key-e3a94f50d133257a02d417eb3a48b64e]: Commencement: Reg. 4 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^f00044]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503), [S.R. 1997 Nos. 130](https://www.legislation.gov.uk/nisr/1997/130) and [165](https://www.legislation.gov.uk/nisr/1997/165), [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2000 Nos. 74](https://www.legislation.gov.uk/nisr/2000/74), [242](https://www.legislation.gov.uk/nisr/2000/242) and [350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278), [S.R. 2002 No. 222](https://www.legislation.gov.uk/nisr/2002/222), [S.R. 2003 No. 338](https://www.legislation.gov.uk/nisr/2003/338), [S.R. 2004 Nos. 213](https://www.legislation.gov.uk/nisr/2004/213) and [389](https://www.legislation.gov.uk/nisr/2004/389), [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382) and [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112)
+
+[^f00045]: Footnote: The definition of “the Independent Living Funds” was amended by Article 4(a) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00046]: Footnote: The definition of “sandwich course” was substituted by regulation 3(2)(b) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242) and amended by regulation 2(3)(a) of [S.R. 2002 No. 222](https://www.legislation.gov.uk/nisr/2002/222)
+
+[^f00047]: Footnote: The definition of “training allowance” was amended by regulation 4(2)(b) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112)
+
+[^key-19e851235df8261468c20fc76704fe75]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2008/428/regulation/4/3) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
+
+[^f00050]: Footnote: Paragraph (1) was amended by regulation 5(9) of [S.R. 1997 No. 130](https://www.legislation.gov.uk/nisr/1997/130)
+
+[^f00051]: Footnote: Paragraph (10A) was inserted by regulation 2(1)(b) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
+
+[^f00052]: Footnote: Paragraph (3A) was inserted by regulation 3(1)(b) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326); sub-paragraph (a) was amended by regulation 2(1) and (2)(c) of [S.R. 2004 No. 389](https://www.legislation.gov.uk/nisr/2004/389) and regulation 4(3) of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
+
+[^key-6eab6dbd5c7412a2089b8b2d72854f84]: Textual amendment: [Reg. 4(5)(d)](https://www.legislation.gov.uk/nisr/2008/428/regulation/4/5/d) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+
+[^f00054]: Footnote: Paragraph 27(1) was amended by regulation 3(5) and (6)(b) of [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213) and regulation 4(5)(a) of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
+
+[^f00055]: Footnote: Paragraph (c) was substituted by regulation 2(1)(d) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278)
+
+[^f00056]: Footnote: The definition of “student loan” was substituted by regulation 2(2)(b) of [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317) and amended by regulation 2(1)(e) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278)
+
+[^f00057]: Footnote: [S.S.I. 2007/153](https://www.legislation.gov.uk/ssi/2007/153)
+
+[^f00058]: Footnote: Paragraph (1) was substituted by regulation 3(6)(a) of [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242)
+
+[^f00059]: Footnote: Sub-paragraph (b) was amended by paragraph 54(4)(a) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00060]: Footnote: Sub-paragraph (3) was substituted by regulation 7(2) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165) and amended by paragraph 54(8)(d) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^f00061]: Footnote: Sub-paragraph (7)(b) was substituted by regulation 2(18)(b)(ii) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
+
+[^key-d558d5b897606edc18aa087ce9fff11b]: Commencement: Reg. 5 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^f00062]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Rules are [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213), [S.R. 2005 No.550](https://www.legislation.gov.uk/nisr/2005/550) and [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00063]: Footnote: The definition of the “Independent Living Funds” was amended by Article 5(a) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00064]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00065]: Footnote: Paragraph (1) was amended by regulation 3(1) and (2)(c) of [S.R. 2004 No. 213](https://www.legislation.gov.uk/nisr/2004/213) and regulation 6(3)(a)(i) of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
+
+[^key-cb495839f44f966576040a5d9c728eff]: Commencement: Reg. 6 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^f00066]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Rule is [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00067]: Footnote: The definition of “the Independent Living Funds” was amended by Article 7(2)(a) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^key-d9c84ccce1441befeade317ab5482318]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/nisr/2008/428/regulation/6/4/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+
+[^f00068]: Footnote: Paragraph 35 was amended by Article 7(3) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^key-c981c96f4bd0d36fd9b16aa6371367c5]: Commencement: Reg. 7(1)-(4) in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^key-0f425ad6e5c8322d2945e3c8960b8714]: Commencement: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2008/428/regulation/7/5) in operation at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/2)
+
+[^f00069]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Rules are [S.R. 2007 Nos. 266](https://www.legislation.gov.uk/nisr/2007/266) and [382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00070]: Footnote: The definition of “the Independent Living Funds” was amended by Article 8(a) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382)
+
+[^f00071]: Footnote: Paragraph 14 was amended by regulation 4(7) of [S.R. 2007 No. 266](https://www.legislation.gov.uk/nisr/2007/266)
+
+[^key-6eb7ebe3ec2e70e7bc98856c45e8119c]: Commencement: Reg. 8 in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)
+
+[^key-898000404f1b0ed200e48b8911d74403]: Commencement: Sch. in operation at 17.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/1)

@@ -1,0 +1,47 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 162
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '162'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/162
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 162
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 162. Remand to hospital
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Where—
+
+- (a) the Crown Court or a court of summary jurisdiction has power to remand an accused person (“A”) in custody,
+- (b) the court considers that it would remand A in custody if it did not remand A under this section, and
+- (c) either or both of the conditions for remand to hospital are met,
+
+the court may, instead of remanding A in custody, remand A to a hospital specified by the court.
+
+(2) In this section “**the conditions for remand to hospital**” means—
+
+- (a) the medical report condition (see section 164(1));
+- (b) the treatment condition (see section 165(1)).
+
+(3) The court may remand an accused person under this section only if it is satisfied, on the written or oral evidence of a person representing the managing authority of the hospital, that arrangements have been made for the accused person's detention in the hospital in pursuance of the remand.
+
+(4) Where a court has remanded an accused person (“A”) under this section, it may further remand A under this section if it considers that—
+
+- (a) it would remand A in custody if it did not make the further remand under this section; and
+- (b) either or both of the conditions for remand to hospital are met.
+
+(5) A person may not be remanded or further remanded under this section for more than 28 days at a time or for more than 12 weeks in total.
+
+(6) For the meaning of “an accused person” see section 163.

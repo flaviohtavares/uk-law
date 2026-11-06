@@ -1,0 +1,301 @@
+---
+title: The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 2011
+id: nisr/2011/305
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2011-09-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2011/305
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/305/pdfs/nisrem_20110305_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/305/pdfs/nisr_20110305_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/305/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 2011
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2011 No. 305
+
+Pensions
+
+The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 2011
+
+Made
+
+9th September 2011
+
+Coming into operation
+
+1st October 2011
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 8A(4) and (5), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 2011 and shall come into operation on 1st October 2011.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations
+
+(1) The Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00004] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 23 (requirements for meeting the statutory standard)—
+
+- (a) for paragraph (a)[^f00005] substitute—
+
+  > - (a) must comply with any standards adopted or prepared, and from time to time revised, by the Board for Actuarial Standards[^f00006] which are relevant to the matters specified in section 8A(4) of the Act;
+
+  ;
+- (b) in paragraph (f)[^f00007] after “payment of a lump sum” insert “but may not have regard to any payment of a lump sum made as a result of the death of an earner”;
+- (c) at the end of paragraph (f) omit “and”;
+- (d) after paragraph (g) add—
+
+  > - (h) must not have regard to any discretionary benefits, and
+  > - (i) must comply with the further requirements set out in Schedule 3.
+
+  .
+
+(3) After Schedule 2 (revocations) add Schedule 3 as set out in the Schedule to these Regulations.
+
+## 3. Revocations
+
+The following provisions are revoked—
+
+- (a) paragraph 3(b) of the Schedule to the Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations (Northern Ireland) 2007[^f00008];
+- (b) paragraph 2 of the Schedule to the Pensions (2008 Act) (Actuarial Guidance) (Consequential Provisions) Order (Northern Ireland) 2008[^f00009].
+
+Sealed with the Official Seal of the Department for Social Development on 9th September 2011
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE — Schedule to be added to the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996
+
+Regulation 2(3)
+
+> **SCHEDULE 3 — Further requirements for meeting the statutory standard**
+>
+> Regulation 23(i)
+>
+> **1.** The actuary must complete a reference scheme test certificate.
+>
+> **2.** The reference scheme test certificate must—
+>
+> - (a) certify whether in the actuary’s opinion, the scheme satisfies the statutory standard in relation to the provision of pensions for—
+>   - (i) earners, and
+>   - (ii) the widows, widowers or surviving civil partners of earners, and
+> - (b) specify the date of the information used by the actuary for the purposes of completing the certificate (referred to in this Schedule as the “effective date”).
+>
+> **3.** The actuary must—
+>
+> - (a) send the completed reference scheme test certificate to HMRC and send a signed copy of that certificate to the employer, or
+> - (b) send the completed reference scheme test certificate to the employer and inform the employer that that certificate should be sent to HMRC.
+>
+> **4.** Where the actuary is sending the first reference scheme test certificate for a scheme, the actuary must also inform—
+>
+> - (a) the trustees or managers of the scheme and the employer (“E”) that HMRC provide guidance on contracting-out, including guidance on what changes need to be notified to HMRC;
+> - (b) E that E should provide a copy of the completed certificate to the trustees or managers of the scheme, and
+> - (c) E that E should keep a record of any subsidiary or associated employers.
+>
+> **5.** (1) Where the employer asks the actuary to advise whether the statutory standard is satisfied, the actuary must inform the trustees or managers of the scheme that the employer has asked for that advice.
+>
+> (2) Sub-paragraph (1) does not apply if the actuary has previously informed the trustees or managers of the scheme that the actuary provides advice to the employer.
+>
+> **6.** Where the scheme calculates pensions by different methods for different members, the actuary—
+>
+> - (a) must decide whether the pensions provided under each method are broadly equivalent to, or better than, the pensions which would be provided under a reference scheme, and
+> - (b) must not complete a reference scheme test certificate for any members whose pensions are calculated by a method which does not provide pensions that are broadly equivalent to, or better than, the pensions which would be provided under a reference scheme.
+>
+> **7.** The actuary must not complete a reference scheme test certificate if the average value of pension provided under the scheme is less than the average value of pension which would be provided under a reference scheme.
+>
+> **8.** Where an employer asks for a separate reference scheme test certificate which only includes that employer’s employees, the actuary must—
+>
+> - (a) provide that employer with a separate reference scheme test certificate, and
+> - (b) consider only the employees of that employer for that certificate.
+>
+> **9.** Where—
+>
+> - (a) an employer has two or more schemes, and
+> - (b) none of those schemes can be contracted-out by itself under section 5(1) of the Act (requirements for certification of schemes: general),
+>
+> the actuary may take into account the pensions provided under all those schemes.
+>
+> **10.** The actuary must use any information about the earner’s remuneration which—
+>
+> - (a) the actuary considers is relevant for the reference scheme test certificate;
+> - (b) is the latest available information, and
+> - (c) subject to paragraph 11, refers to the period of one year.
+>
+> **11.** Where—
+>
+> - (a) the actuary is satisfied that the information about the earner’s remuneration which refers to a period of one year is significantly abnormal, and
+> - (b) the employer writes to the actuary stating that that employer is also so satisfied,
+>
+> the actuary may use such information for the purposes of paragraph 10(c) which refers to the period of 3 years ending on the effective date.
+>
+> **12.** (1) This paragraph applies where, on the effective date, the scheme has not been established but is in the process of being established.
+>
+> (2) For the purposes of carrying out the comparison under regulation 23, the actuary must use estimated membership information.
+>
+> (3) In this paragraph “estimated membership information” means any information about the earners whom the actuary expects to join the scheme when it is established which—
+>
+> - (a) the actuary considers is necessary for the purposes of the comparison under regulation 23, and
+> - (b) may include information on the age, gender and earnings of those earners.
+>
+> **13.** (1) The pensions provided under the scheme for the purposes of carrying out the comparison under regulation 23 are the pensions referred to in sub-paragraph (2).
+>
+> (2) The pensions are those which the actuary expects will accrue in the 3 years after the effective date.
+>
+> (3) For the purposes of sub-paragraph (2), the actuary must—
+>
+> - (a) assume that the earner leaves pensionable service—
+>   - (i) at the end of the 3-year period mentioned in sub-paragraph (2), or
+>   - (ii) if the earner attains normal pension age before the end of that 3-year period, on the date on which the earner attains normal pension age;
+> - (b) assume that pensions are payable from the date on which the earner attains normal pension age;
+> - (c) where the earner has accrued that earner’s maximum pension under the scheme during any part of the 3-year period mentioned in sub-paragraph (2), assume that that maximum pension accrues at the same rate for each year of the pensionable service which the earner is likely to complete up to a maximum of 40 years, and
+> - (d) take into account the person whom the actuary expects will be entitled to receive the pensions referred to in sub-paragraph (2).
+>
+> **14.** (1) For the purposes of carrying out the comparison under regulation 23, the actuary must use—
+>
+> - (a) where a statement of funding principles has been prepared or revised for the scheme under Article 202 of the 2005 Order (statement of funding principles), the actuarial assumptions in the most recent such statement, and
+> - (b) any other actuarial assumptions which the actuary considers necessary.
+>
+> (2) The actuarial assumptions referred to in sub-paragraph (1) must be used for valuing—
+>
+> - (a) the pensions provided under the scheme, and
+> - (b) the pensions which would be provided under a reference scheme.
+>
+> **15.** (1) For the purposes of carrying out the comparison under regulation 23, the pensions provided under the scheme for widows, widowers and surviving civil partners are subject to the following requirements of this paragraph.
+>
+> (2) The actuary must carry out a separate comparison for pensions the actuary expects to accrue during the 3-year period referred to in paragraph 13(2) in respect of—
+>
+> - (a) death in service (see sub-paragraphs (3), (9) and (10));
+> - (b) death in deferment (see sub-paragraph (4)), and
+> - (c) death in retirement (see sub-paragraphs (5) and (11)).
+>
+> (3) A death in service pension must be valued as if the earner died—
+>
+> - (a) 3 years after the effective date, or
+> - (b) if the earner attains normal pension age before that date, on the day before the date on which the earner attains normal pension age.
+>
+> (4) A death in deferment pension must be valued as if the earner died more than 3years after the effective date.
+>
+> (5) A death in retirement pension must be valued as if the earner died after the date on which the earner attains normal pension age.
+>
+> (6) The actuary may not complete the reference scheme test certificate unless each of the pensions referred to in sub-paragraph (2) are broadly equivalent to, or better than, those which would be provided under a reference scheme.
+>
+> (7) Sub-paragraph (8) applies where—
+>
+> - (a) a pension which is in payment for a widow, widower or surviving civil partner has been reduced under the scheme because that widow, widower or surviving civil partner was at least 10 years younger than the earner, or
+> - (b) a pension which may become payable in the future for a widow, widower or surviving civil partner would be reduced under the scheme if that widow, widower or surviving civil partner was at least 10 years younger than the earner.
+>
+> (8) Where this sub-paragraph applies, the actuary—
+>
+> - (a) must estimate, where sub-paragraph (7)(b) applies, the number and amount of future pension reductions which the actuary thinks are likely to occur, and
+> - (b) may ignore any part of the reductions referred to in sub-paragraph (7) which are or are likely to be—
+>   - (i) made in respect of each complete year during which the age difference referred to in sub-paragraph (7) was at least 10 years, and
+>   - (ii) 2.5 per cent. or less for each such year.
+>
+> (9) Sub-paragraph (10) applies where any death in service pensions—
+>
+> - (a) have an accrual rate of less than 1/160th of any qualifying earnings within the meaning of section 8B(5)[^f00010] of the Act (reference scheme) and are calculated by reference to—
+>   - (i) the number of years of pensionable service which the earner has completed in the scheme, and
+>   - (ii) any amount which is additional to the number of years of pensionable service referred to in sub-head (i), or
+> - (b) are not calculated by reference to the number of years of pensionable service.
+>
+> (10) Where this sub-paragraph applies, the actuary must compare under sub-paragraph (2)(a) the death in service pension with a reference scheme—
+>
+> - (a) based on the earner’s pensionable service up to the date which applies under sub-paragraph (3), and
+> - (b) excluding any of the earner’s pensionable service which took place before—
+>   - (i) the date on which a contracting-out certificate was first issued to the scheme, or
+>   - (ii) in the case of female earners or surviving civil partners, 6th April 1988 where that date is later than the date referred to in sub-head (i).
+>
+> (11) Where a death in retirement pension can be reduced under the scheme if part of the earner’s pension is taken as a lump sum on retirement, the actuary must reduce the death in retirement pension by an amount broadly consistent with the average such reductions made by the scheme in relation to other earners.
+>
+> **16.** (1) Subject to sub-paragraph (2), this paragraph applies in each of the following circumstances—
+>
+> - (a) where the actuary has been informed of any changes to—
+>   - (i) the scheme rules, or
+>   - (ii) the membership of the scheme (including changes to the remuneration of scheme members),
+>
+>   which the actuary thinks might affect the scheme’s ability to satisfy the statutory standard;
+> - (b) where, after estimated membership information has been used in accordance with paragraph 12, actual information becomes available about the members who have joined the scheme;
+> - (c) unless head (a) or (b) applies, 3 years after the effective date;
+> - (d) 3 years after the date on which this paragraph last applied.
+>
+> (2) This paragraph does not apply where the scheme is no longer required to satisfy the statutory standard.
+>
+> (3) The actuary must consider whether there have been any changes which would prevent a reference scheme test certificate from being issued.
+>
+> (4) If—
+>
+> - (a) there have been any changes referred to in sub-paragraph (3), and
+> - (b) no further changes have been made which the actuary considers would enable a reference scheme test certificate to be issued,
+>
+> the actuary must inform in writing the trustees or managers of the scheme, HMRC and the employer.
+>
+> **17.** In this Schedule—
+>
+> - “accrual rate” means the rate at which, under the scheme rules, rights to the pension accrue over time by reference to periods of service in any description of employment to which the scheme applies;
+> - “death in deferment pension” means a pension payable in respect of an earner who dies—
+>   - (a) otherwise than in pensionable service under the scheme, and
+>   - (b) before that earner’s own entitlements to pensions under the scheme have commenced;
+> - “death in retirement pension” means a pension payable in respect of an earner who dies after that earner’s own entitlements to pensions under the scheme have commenced;
+> - “death in service pension” means a pension payable in respect of an earner who dies in pensionable service under the scheme;
+> - “earner” means an earner in employed earner’s employment;
+> - “effective date” has the meaning given in paragraph 2(b);
+> - “HMRC” means the Commissioners for Her Majesty’s Revenue and Customs[^f00011];
+> - “normal pension age” means the earliest age at which an earner may be entitled to payment of an unreduced pension;
+> - “unreduced pension” means a pension which—
+>   - (a) has not been actuarially reduced as a result of early payment of the pension, and
+>   - (b) does not include any discretionary benefits.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 (“the 1996 Regulations”) to make provision in relation to salary related occupational pension schemes which meet the reference scheme test (“the test”). Persons can contract out of the state additional pension into such a scheme.
+
+The Board for Actuarial Standards is withdrawing Guidance Note 28: Retirement Benefit Schemes – Adequacy of Benefits for Contracting-out (“GN28”) which contains detailed guidance for actuaries on the test. In order for an occupational pension scheme to meet the test, an actuary must be satisfied that the pension rights under the scheme are broadly equal to (or better than) the minimum rights referred to in the test. Actuaries are required by the 1996 Regulations to follow the guidance in GN28.
+
+As a result of the withdrawal of GN28, these Regulations insert the guidance for actuaries into the 1996 Regulations.
+
+Regulation 2 inserts some of the guidance into the 1996 Regulations. It also inserts a requirement for actuaries to comply with any relevant standards issued by the Board for Actuarial Standards. The Schedule inserts the majority of the guidance into the 1996 Regulations.
+
+Regulation 3 makes consequential revocations.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 8A was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and subsection (5) was amended by Part 8 of Schedule 6 to the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2008/1)); section 178(1) was amended by Parts III and IV of Schedule 5 to the Pensions (Northern Ireland) Order 1995
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00004]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493); relevant amending provisions are [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109), [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64) and [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365)
+
+[^f00005]: Footnote: Paragraph (a) was substituted by paragraph 3(b) of the Schedule to [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64) and amended by paragraph 2 of the Schedule to [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365)
+
+[^f00006]: Footnote: The definition of “the Board for Actuarial Standards” was inserted by paragraph 3(a) of the Schedule to [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
+
+[^f00007]: Footnote: Paragraph (f) was amended, and paragraph (g) was added, by regulation 2(10)(b) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
+
+[^f00008]: Footnote: [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
+
+[^f00009]: Footnote: [S.R. 2008 No. 365](https://www.legislation.gov.uk/nisr/2008/365)
+
+[^f00010]: Footnote: Section 8B was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 and subsection (5) was amended by paragraph 33(a) of Schedule 1 to the Pensions Act (Northern Ireland) 2008
+
+[^f00011]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11); *see also* section 50(1) of that Act in relation to the construction of references to the Commissioners of Inland Revenue in other enactments

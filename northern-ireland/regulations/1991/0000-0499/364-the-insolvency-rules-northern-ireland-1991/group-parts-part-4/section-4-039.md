@@ -1,0 +1,25 @@
+---
+title: The Insolvency Rules (Northern Ireland) 1991, section 4.039
+act: The Insolvency Rules (Northern Ireland) 1991
+section: '4.039'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1991/364/section/4.039
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insolvency Rules (Northern Ireland) 1991, section 4.039
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 4.039. Limited disclosure
+
+(NO CVL APPLICATION)
+
+(1) Where the official receiver thinks that it would prejudice the conduct of the liquidation for the whole or part of the statement of affairs to be disclosed, he may apply to the court for an order of limited disclosure in respect of the statement, or any specified part of it.
+
+(2) The court may on the application order that the statement or, as the case may be, the specified part of it be not filed, or that it is to be filed separately and not be open to inspection otherwise than with leave of the court.
+
+\[E.R.4.35\]

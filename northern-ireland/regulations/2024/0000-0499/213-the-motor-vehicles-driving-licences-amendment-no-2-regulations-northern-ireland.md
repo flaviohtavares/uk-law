@@ -1,0 +1,114 @@
+---
+title: The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2024
+id: nisr/2024/213
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2024-12-11'
+text_date: '2025-01-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2024/213
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2024/213/pdfs/nisrem_20240213_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2024/213/pdfs/nisr_20240213_en.pdf
+- http://www.legislation.gov.uk/nisr/2024/213/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2024
+
+> Text as at 2025-01-13.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2024 No. 213
+
+Road Traffic And Vehicles
+
+The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2024
+
+Made
+
+11th December 2024
+
+Coming into operation
+
+13th January 2025
+
+The Department for Infrastructure[^f00001] makes these Regulations in exercise of the powers conferred by Articles 4(7), 19C(1), (1A)(a) and (f) and (2) and 218 of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
+
+## 1. Citation and commencement[^key-2676084a2b7754948945c2fdab7980ed]
+
+These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2024 and shall come into operation on 13<sup>th</sup> January 2025.
+
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland)[^key-f4342d8ce35d4569f713a2620a8ae6cd]
+
+After regulation 55ZA (modification of regulation 55: Appendix Ukraine Scheme) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00004], insert—
+
+> **55ZB. Modification of regulation 55 and further enactments relating to licences in respect of certain licences issued in EEA States**
+>
+> (1) This regulation applies in respect of a person who is the holder of a relevant permit within the meaning given by regulation 55(3)(i), and where conditions A and B are satisfied.
+>
+> (2) Condition A is that the relevant permit was issued —
+>
+> - (a) in an EEA State, and
+> - (b) in exchange for a licence or a licence issued in Great Britain.
+>
+> (3) Condition B is that the licence or a Great Britain licence, as the case may be, referred to in paragraph (2)—
+>
+> - (a) was issued on or after 1st<sup></sup>January 2021, and
+> - (b) was not issued—
+>   - (i) as a renewal or replacement of, or in exchange for, another licence, or Great Britain licence, issued before 1st January 2021, or
+>   - (ii) in exchange for a relevant permit within the meaning given by regulation 55(3) issued in relation to a country outside the United Kingdom.
+>
+> (4) Where this regulation applies, regulation 55 (persons who become resident in Northern Ireland) has effect subject to the modifications in paragraph (5).
+>
+> (5) Regulation 55 is to read as if—
+>
+> - (a) in paragraph (1)—
+>   - (i) the reference to the period of one year after a person becomes resident in Northern Ireland were a reference to the period for which that person is authorised to drive by that relevant permit after they become resident, and
+>   - (ii) the reference to all classes of small vehicle, motor bicycle or moped were a reference to a motor vehicle, and
+> - (b) paragraphs (2) and (2A) were omitted.
+>
+> (6) Where this regulation applies, references in any enactment relating to licences to a Community licence, or the holder of a Community licence, have effect as if they also included a reference to the relevant permit described in paragraph (1), or the holder of such a relevant permit, as the case may be.
+
+.
+
+Sealed with the Official Seal of the Department for Infrastructure on 11<sup>th</sup> December 2024
+
+Chris Hughes
+
+A senior officer of the
+
+Department for Infrastructure
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542)) (“**the 1996 Regulations**”).
+
+Regulation 2 amends the 1996 Regulations to insert a new regulation 55ZB. The new regulation applies to individuals who become resident in Northern Ireland and who are holders of an EEA licence which had been issued in exchange for a licence or a Great Britain licence that was issued on or after 1st January 2021 authorising the driving of any class of motor vehicle. These individuals are authorised, after becoming resident, to rely on their EEA licence to drive in Northern Ireland any class of Motor vehicle as authorised by their EEA licence, for as long as they are authorised to do so by their EEA licence.
+
+The new regulation 55ZB—(6) also applies references in existing legislation to Community licences, and the holder of a Community licence to those individuals who are in scope of that regulation.
+
+An Explanatory Memorandum has been produced and is available from Driving, Vehicle and Road Safety Policy Division, Department for Infrastructure, James House, 2-4 Cromac Avenue, Belfast, BT7 2JA or online alongside this Statutory Rule at http://www.legislation.gov.uk/nisr
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department for Regional Development; see section 1(6) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5). Pursuant to section 1(9) of that Act, the Department of the Environment is dissolved.
+
+[^f00002]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Article 19C was substituted by Schedule 1 to [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197) and amended by paragraph 8 of Schedule 3 to [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320), paragraph 11 of Schedule 1 to [S.R. 1996 No. 426](https://www.legislation.gov.uk/nisr/1996/426), paragraph 1 of Schedule 2 to [S.R.1997 No. 241](https://www.legislation.gov.uk/nisr/1997/241), paragraph 8 of the Schedule to [S.R. 2002 No. 374](https://www.legislation.gov.uk/nisr/2002/374), paragraph 6 of Schedule 1 to [S.I. 2003/2903 (N.I. 16)](https://www.legislation.gov.uk/nisi/2003/2903) and Article 34 of [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916)
+
+[^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
+
+[^key-2676084a2b7754948945c2fdab7980ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1) in operation at 13.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1)
+
+[^key-f4342d8ce35d4569f713a2620a8ae6cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/213/regulation/2) in operation at 13.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1)
+
+[^f00004]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542); relevant amending Regulations are [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), [S.R. 2015 No. 357](https://www.legislation.gov.uk/nisr/2015/357) and [S.R. 2024 No. 22](https://www.legislation.gov.uk/nisr/2024/22)

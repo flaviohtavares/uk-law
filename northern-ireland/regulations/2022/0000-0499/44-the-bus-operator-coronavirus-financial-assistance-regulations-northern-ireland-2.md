@@ -1,0 +1,239 @@
+---
+title: The Bus Operator (Coronavirus, Financial Assistance) Regulations (Northern Ireland) 2022
+id: nisr/2022/44
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2022-02-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2022/44
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2022/44/pdfs/nisrem_20220044_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/44/pdfs/nisr_20220044_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/44/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bus Operator (Coronavirus, Financial Assistance) Regulations (Northern Ireland) 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 44
+
+Financial Assistance
+
+The Bus Operator (Coronavirus, Financial Assistance) Regulations (Northern Ireland) 2022
+
+Made
+
+10th February 2022
+
+Coming into operation
+
+15th February 2022
+
+The First Minister and deputy First Minister, acting jointly, made on 24th January 2022 a determination under section 1(1) of the Financial Assistance Act (Northern Ireland) 2009[^f00001] (“**the Act**”) and, jointly, they have designated the Department for Infrastructure[^f00002] as the relevant Department under section 1(3)(a) of that Act.
+
+Accordingly, the Department for Infrastructure makes the following Regulations in exercise of the powers conferred by sections 1(2), 3 and 4 of the Act.
+
+In accordance with section 1(4) of the Act, the Executive Office[^f00003] approves the making of these Regulations.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Bus Operator (Coronavirus, Financial Assistance) Regulations (Northern Ireland) 2022 and shall come into operation on 15th February 2022.
+
+## 2. Financial Assistance Scheme
+
+The Department for Infrastructure makes the Scheme set out in the Schedule.
+
+Sealed with the Official Seal of the Department for Infrastructure on 10th February 2022
+
+Chris Hughes
+
+A senior officer of the
+
+Department for Infrastructure
+
+The Executive Office approves these Regulations
+
+Sealed with the Official Seal of the Executive Office on 10th February 2022
+
+Neill Jackson
+
+A senior officer of the
+
+Executive Office
+
+## SCHEDULE — Bus Operator Financial Assistance Scheme 2022
+
+Regulation 2
+
+### 1. Citation
+
+This Scheme may be cited as the Bus Operator Financial Assistance Scheme 2022.
+
+### 2. Interpretation
+
+(1) In this Scheme—
+
+- “**the 1967 Act**” means the Transport Act (Northern Ireland) 1967[^f00004];
+- “**application**” means an application for a financial assistance payment made in accordance with paragraph 4 and “**applicant**” shall be construed accordingly;
+- “**the Department**” means the Department for Infrastructure;
+- “**determination**” means the determination of the First Minister and deputy First Minister, acting jointly, and made on 24th January 2022 that exceptional circumstances exist for licensed bus and coach operators as a consequence of the outbreak of Coronavirus, including financial hardship arising from the loss of business. It is desirable to provide financial assistance to mitigate the effect of that outbreak on licensed bus and coach operators and that such assistance ought to be provided in accordance with a Scheme made under section 1 of the Financial Assistance Act (Northern Ireland) 2009;
+- “**eligible income**” means the total income of an eligible person for the eligible period or, as the case may be, for each of the reference periods, declared in the application or as may be determined by the Department based on the information provided by the applicant in accordance with the requirements of the notice published under paragraph 4(1) and under paragraph 4(4) if appropriate;
+- “**eligible period**” means the period beginning on 1st April 2021 and ending on 31st January 2022;
+- “**eligible person**” means a person who satisfies the requirements of paragraph 5;
+- “**financial assistance payment**” means a payment by the Department for the purpose set out in paragraph 3 and in accordance with paragraph 6; and
+- “**reference periods**” means the period beginning on 1st April 2018 and ending on 31st January 2019 and the period beginning on 1st April 2019 and ending on 31st January 2020.
+
+(2) Terms and expressions used in the 1967 Act have the same meaning in this Scheme.
+
+(3) A reference in this Scheme to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is consequently capable of being reproduced.
+
+### 3. Purpose of financial assistance
+
+The purpose of financial assistance is the mitigation of the effect of the exceptional circumstances referred to in the determination made by the First Minister and deputy First Minister, acting jointly, on 24th January 2022.
+
+### 4. Application for payment of financial assistance
+
+(1) The Department shall publish a notice inviting applications for a financial assistance payment in such manner as will ensure that it is reasonably likely to be seen by eligible persons.
+
+(2) A notice published under sub-paragraph (1) shall specify—
+
+- (a) the closing date for making an application;
+- (b) the information which an applicant is required to provide in support of the application; and
+- (c) the form of any application.
+
+(3) An application may be made in accordance with the requirements of the notice published under sub-paragraph (1).
+
+(4) On receipt of an application, the Department may request such additional information from the applicant as it considers necessary to determine whether they are an eligible person, their eligible income, their eligible expenditure and to otherwise facilitate consideration of that application.
+
+### 5. Eligible persons
+
+(1) Subject to sub-paragraph (2), an eligible person must satisfy the Department that—
+
+- (a) for the duration of the eligible period they—
+  - (i) have suffered a significant adverse impact on income arising from the loss of business;
+  - (ii) had as the main purpose of their business the carriage of passengers and their luggage for reward by road; and
+  - (iii) held a bus operator’s licence; and
+- (b) at the time of any decision pursuant to paragraph 7(2)(a) they—
+  - (i) hold a bus operator’s licence; and
+  - (ii) have as the main purpose of their business the carriage of passengers and their luggage for reward by road.
+
+(2) The following persons are deemed not to be eligible persons—
+
+- (a) the Northern Ireland Transport Holding Company, as established under Part 5 of the 1967 Act;
+- (b) the Education Authority, as established under the Education Act (Northern Ireland) 2014[^f00005]; or
+- (c) any person who has received, or is due to receive, funding from the Department under the Transport Act (Northern Ireland) 2011[^f00006] in the period beginning on 6th April 2021 and ending on 5th April 2022.
+
+(3) In this paragraph, “**significant adverse impact on income**” means a reduction in eligible income for the eligible period of at least 40%, compared with—
+
+- (a) where there is eligible income for both reference periods, the higher amount; or
+- (b) where there is eligible income for only one of the reference periods, that amount.
+
+### 6. Provision of financial assistance
+
+(1) The Department may, in accordance with the following provisions, make a financial assistance payment to any eligible person.
+
+(2) That financial assistance payment shall constitute a single payment, by way of a grant, to each eligible person in accordance with sub-paragraphs (3) to (5).
+
+(3) For each eligible person, the amount payable shall be the lower of—
+
+- (a) the total of an amount of £13,350, for the first eligible vehicle, plus an amount of £7,400 for each additional eligible vehicle; or
+- (b) the amount by which that person’s eligible expenditure exceeds their eligible income for the eligible period.
+
+(4) Financial assistance payments to eligible persons shall be on such other terms and conditions as the Department may specify.
+
+(5) In this paragraph—
+
+- (a) “**eligible expenditure**” means the total expenditure for the eligible period declared in the application or as may be determined by the Department based on the information provided by the applicant in accordance with the requirements of the notice published under paragraph 4(1) and under paragraph 4(4) if appropriate; and
+- (b) “**eligible vehicles**” means vehicles registered on an eligible person’s bus operator’s licence at 23rd March 2020 adjusted to reflect vehicle sales and vehicle purchases relevant to the period beginning on 23rd March 2020 and ending on 31st January 2022 that the Department is satisfied are supported by the application.
+
+### 7. Payment of financial assistance
+
+(1) Where the Department has received an application it must determine whether that application—
+
+- (a) provides the information required in accordance with paragraphs 4 and 5; and
+- (b) satisfies the requirements of paragraphs 4 and 5,
+
+and, if it does, the Department may make a financial assistance payment to the eligible person in accordance with paragraph 6.
+
+(2) The Department shall, as soon as reasonably practicable, notify the applicant in writing of its decision to approve or reject an application and—
+
+- (a) if an application is approved, notify the amount of the financial assistance payment to be made; or
+- (b) if an application is rejected, notify the reasons for the rejection and the right of review under paragraph 9.
+
+### 8. Recovery
+
+A financial assistance payment, or part thereof, made in accordance with paragraphs 6 and 7 which is subsequently found to have been paid contrary to those paragraphs, shall be recoverable by the Department from any person to whom such a payment was made.
+
+### 9. Review
+
+(1) Where the Department makes a decision in relation to an application, an applicant aggrieved by that decision may request the Department to review it in accordance with this paragraph.
+
+(2) A request for a review shall be made to the Department no later than 21 days from the date of the notification under paragraph 7(2) of the decision.
+
+(3) A request for a review shall be in writing and shall—
+
+- (a) specify the decision of the Department in respect of which the request is made; and
+- (b) give full particulars of the grounds upon which the review of the decision is sought.
+
+(4) Upon receipt of a request under sub-paragraph (2), the Department shall review the decision which is specified in it.
+
+(5) Following a review of a decision under sub-paragraph (4) the Department may—
+
+- (a) confirm the decision; or
+- (b) substitute a new decision.
+
+(6) As soon as reasonably practicable after reviewing a decision under sub-paragraph (4), the Department shall notify the result of the review in writing to the person making the request for it and shall give the reasons for the result.
+
+### 10. Information
+
+(1) In addition to any application under paragraph 4, the Department may request information from another public body for use in determining whether a person is eligible under paragraph 5 for financial assistance under this Scheme.
+
+(2) The Department may share information in relation to eligibility for Coronavirus financial assistance with another public body.
+
+(3) The Department may use information provided by an applicant under the Bus Operator Financial Assistance Scheme 2020[^f00007] and the Bus Operator Financial Assistance Scheme 2021[^f00008] in determining whether a person is eligible under paragraph 5 for financial assistance under this Scheme and in determining the amount of the financial assistance payment to be made in accordance with this Scheme.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The First Minister and deputy First Minister, acting jointly, made a determination on 24<sup>th</sup> January 2022 that exceptional circumstances exist for licensed bus and coach operators, including financial hardship arising from the loss of business, as a consequence of the outbreak of Coronavirus.
+
+These Regulations therefore provide for the setting up of a Scheme “the Bus Operator Financial Assistance Scheme 2022” under which the Department for Infrastructure may make financial assistance payments to eligible licensed bus and coach operators who have suffered because of the exceptional circumstances identified over the 1st April 2021 to 31st January 2022 period.
+
+The Schedule to these Regulations sets out the detail of the Bus Operator Financial Assistance Scheme 2022.
+
+The Scheme—
+
+- (a) specifies the manner in which applications are to be made (paragraph 4);
+- (b) specifies the eligibility criteria and the payment amount (paragraphs 5 and 6);
+- (c) provides for the Department to approve or reject applications, make payments of financial assistance and advise applicants of its decision regarding payment (paragraph 7);
+- (d) provides for the recovery by the Department of any amounts paid in excess of entitlement under the Scheme (paragraph 8);
+- (e) provides for a review of the decisions made by the Department (paragraph 9); and
+- (f) provides for the request of information from other public bodies for use in determining eligibility, for the sharing of information in relation to eligibility with other public bodies and for the use of information provided by applicants under previous Schemes (paragraph 10).
+
+An Explanatory Memorandum has been produced and is available from the Safe and Accessible Travel Division, Department for Infrastructure, Clarence Court, 10-18 Adelaide Street, Town Parks, Belfast, BT2 8GB or online alongside these Regulations at http://www.legislation.gov.uk/nisr.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2009/2)
+
+[^f00002]: Footnote: Formerly the Department for Regional Development; see section 1(6) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
+
+[^f00003]: Footnote: Formerly the Office of the First Minister and deputy First Minister; see section 1(1) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
+
+[^f00004]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
+
+[^f00005]: Footnote: [2014 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2014/12)
+
+[^f00006]: Footnote: [2011 c. 11 (N.I.)](https://www.legislation.gov.uk/nia/2011/11)
+
+[^f00007]: Footnote: [S.R. 2020 No. 282](https://www.legislation.gov.uk/nisr/2020/282)
+
+[^f00008]: Footnote: [S.R. 2021 No. 62](https://www.legislation.gov.uk/nisr/2021/62)

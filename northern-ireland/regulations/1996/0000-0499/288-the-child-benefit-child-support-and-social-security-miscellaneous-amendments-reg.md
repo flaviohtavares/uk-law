@@ -1,0 +1,341 @@
+---
+title: The Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
+id: nisr/1996/288
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1996-07-17'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/288
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/288/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 288
+
+CHILD SUPPORT; FAMILY LAW; SOCIAL SECURITY
+
+The Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
+
+Made
+
+17th July 1996
+
+Coming into operation
+
+7th April 1997
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 40(1)(*b*) and 47 of, and paragraphs 1(3) and (5), 2(1), 4(3), 5(1) and (2), 6(2) and 9 of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], sections 122(1)(*a*), 131(1), 132(3) and (4)(*a*) and (*b*), 140(1) and 141(1) of, and paragraph 4 of Schedule 9 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], sections 1(1), 5(1)(*i*) and (*j*), 25(1)(*b*) and 71(1)(*a*) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and Articles 6(5) and 14(2) and (4)(*a*) and (*b*) of the Jobseekers (Northern Ireland) Order 1995[^f00004] and of all other powers enabling it in that behalf, and in conjunction with the Department of Finance and Personnel[^f00005], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-743887729e85e0322731adce5d987dea]
+
+(1) These Regulations may be cited as the Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 7th April 1997.
+
+(2) Regulation 5 shall have effect in relation to any particular claimant at the beginning of the first benefit week to commence for that claimant on or after 7th April 1997 which applies in his case and for the purpose of this paragraph, “benefit week” and “claimant” have the same meaning as in regulation 2(1) of the Income Support Regulations.
+
+(3) Regulation 9 shall have effect in relation to any particular claimant at the beginning of the first benefit week to commence for that claimant on or after 7th April 1997 which applies in his case and for the purpose of this paragraph, “benefit week” has the same meaning as in regulation 1(2) of the Jobseeker’s Allowance Regulations.
+
+(4) In these Regulations—
+
+- “the Child Benefit Regulations” means the Child Benefit (General) Regulations (Northern Ireland) 1979[^f00006];
+- “the Child Benefit Rates Regulations” means the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976[^f00007];
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00008];
+- “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009].
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of the Child Benefit Rates Regulations[^key-3984aca8e677b833266c1f25a8e5051f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Child Benefit Regulations[^key-520c1f77bf84abaaeb7fa5b736b75f08]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-941229f097b8c544df74593403ca13d0]
+
+In regulation 8 of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00013] (child benefit)—
+
+- (a) for paragraphs (2) and (3) there shall be substituted the following paragraphs—
+
+  > (2) Where child benefit is payable to a beneficiary at the rate for the time being specified in regulation 2(1)(*a*)(ii) of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976 (in this regulation referred to as the “Child Benefit Rates Regulations”) (weekly rate for only, elder or eldest child of a lone parent) and for the same period, in respect of the same child, any benefit or increase of benefit under the Contributions and Benefits Act is or would be payable to a beneficiary, the weekly rate of that benefit or increase thereof shall be reduced by—
+  >
+  > - (a) in a case where that benefit is guardian’s allowance payable to any person under section 77 of that Act, an amount equal to the amount, less £0·75, by which the rate specified in regulation 2(1)(*a*)(i) of the Child Benefit Rates Regulations (weekly rate for only, elder or eldest child) exceeds the rate specified in regulation 2(1)(*b*) of those Regulations (weekly rate for other children); and
+  > - (b) in any other case, an amount equal to the amount, less £0·75, by which the rate specified in regulation 2(1)(*a*)(ii) of the Child Benefit Rates Regulations exceeds the rate specified in regulation 2(1)(*b*) of those Regulations.
+  >
+  > (3) Subject to paragraph (6), where child benefit is payable to a beneficiary at the rate for the time being specified in regulation 2(1)(*a*)(i) of the Child Benefit Rates Regulations and for the same period, in respect of the same child, any benefit or increase of benefit under the Contributions and Benefits Act is or would be payable to a beneficiary, the weekly rate of that benefit or increase thereof shall be reduced by an amount equal to the amount, less £0·75, by which the rate specified in regulation 2(1)(*a*)(i) of the Child Benefit Rates Regulations exceeds the rate specified in regulation 2(1)(*b*) of those Regulations.
+
+  ; and
+- (b) paragraphs (4), (5) and (7) shall be omitted.
+
+## 5. Amendment of the Income Support Regulations[^key-f8e772d73e88aa6c25d951d231458a2b]
+
+(1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 42(2) (notional income)—
+
+- (a) for sub-paragraph (*d*) there shall be substituted the following sub-paragraph—
+
+  > - (d) child benefit to which paragraph (2D) refers;
+
+  ; and
+- (b) after paragraph (2C)[^f00014] there shall be inserted the following paragraph—
+
+  > (2D) This paragraph refers to child benefit payable in accordance with regulation 2(1)(*a*)(ii) of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976 (weekly rate for only, elder or eldest child of a lone parent) but only to the extent that it exceeds the amount specified in regulation 2(1)(*a*)(i) of those Regulations.
+
+  .
+
+(3)[^key-12086caf2cbf7373a262f79b93a70c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Schedule 2 (applicable amounts)—
+
+- (a) in Part II (family premium) in paragraph 3 for “shall be £10·55” there shall be substituted—
+
+  > - shall be—
+  >   - (a) where the claimant is a lone parent and no premium is applicable under paragraph 9, 9A, 10 or 11, £15·75;
+  >   - (b) in any other case, £10·55
+
+  ;
+- (b) in Part III (premiums)—
+  - (i) in paragraph 4 for “8 to 14ZA” there shall be substituted “9 to 14ZA”, and
+  - (ii) paragraph 8 (lone parent premium) shall be omitted;
+- (c) in Part IV (amounts of premiums) in paragraph 15 sub-paragraph (1) shall be omitted.
+
+(5) In Schedule 7 (applicable amounts in special cases)—
+
+- (a) in column (2) of paragraph 1(*b*) (patients) “8 or” shall be omitted; and
+- (b) in column (2) of paragraph 10C[^f00015] (lone parents who are in residential accommodation temporarily) in sub-paragraph (*b*), “or (*d*) in so far as that amount relates to the lone parent premium under paragraph 8 of Schedule 2” shall be omitted.
+
+(6) In paragraph 5 of Schedule 8 (sums to be disregarded in the calculation of earnings) for “lone parent premium under” there shall be substituted “family premium under paragraph 3(*a*) of”.
+
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-6231c07b9d6f29f11035153dc9bbc446]
+
+(1)[^key-a6b2960177748cdd071c1e3e395e0845] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845][^f00016] shall be amended in accordance with paragraphs (2) to (5). *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]
+
+(2) In regulation 2(2) (interpretation) the words from “and so shall” to the end of the paragraph shall be omitted. *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]
+
+(3) In regulation 9(3) (interchange with claims for other benefits) “(except an increase in child benefit)” shall be omitted. *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]
+
+(4) In Part II of Schedule 1 (interchange of claims for child benefit with claims for other benefits) “Increase in child benefit under regulation 2(2) of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976” shall be omitted. *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]
+
+(5) In paragraph 2 of Schedule 8 (election to have child benefit paid weekly) for sub-paragraph ( *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]*a*) there shall be substituted the following sub-paragraph— *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]
+
+> - (a) he is a lone parent within the meaning set out in regulation 2(2) of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976; or *(affected by repeal, see note)*[^key-a6b2960177748cdd071c1e3e395e0845]
+
+.
+
+## 7. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-06db49916719cd5c21c1339270a8b662]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Social Security (Adjudication) Regulations[^key-40ff5b09187ecd31bffff087fb5fed65]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Jobseeker’s Allowance Regulations[^key-0e6e0ba962539af0b4d4321941808fdf]
+
+(1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 105(2) (notional income)—
+
+- (a) for sub-paragraph (*c*) there shall be substituted the following sub-paragraph—
+
+  > - (c) child benefit to which paragraph (2A) refers;
+
+  ; and
+- (b) after paragraph (2) there shall be inserted the following paragraph—
+
+  > (2A) This paragraph refers to child benefit payable in accordance with regulation 2(1)(*a*)(ii) of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976 (weekly rate for only, elder or eldest child of a lone parent) but only to the extent that it exceeds the amount specified in regulation 2(1)(*a*)(i) of those Regulations.
+
+  .
+
+(3)[^key-563cb0a5472440afa4ee6098694fe9a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Schedule 1 (applicable amounts)—
+
+- (a) in Part II (family premium) in paragraph 4 for “shall be £10·55” there shall be substituted—
+
+  > - shall be—
+  >   - (a) where the claimant is a lone parent and no premium is applicable under paragraph 10, 11, 12 or 13, £15·75;
+  >   - (b) in any other case, £10·55
+
+  ;
+- (b) in Part III (premiums)—
+  - (i) in paragraph 5 for “9 to 17” there shall be substituted “10 to 17”, and
+  - (ii) paragraph 9 (lone parent premium) shall be omitted;
+- (c) in Part IV (amounts of premiums) in paragraph 20 sub-paragraph (1) shall be omitted.
+
+(5) In column (2) of paragraph 9 of Schedule 4 (applicable amounts for lone parents who are in residential accommodation temporarily) in sub-paragraph (*b*), “or (*e*) in so far as that amount relates to the lone parent premium under paragraph 9 of Schedule 1” shall be omitted.
+
+(6) In paragraph 6 of Schedule 5 (sums to be disregarded in the calculation of earnings) for “lone parent premium under” there shall be substituted “family premium under paragraph 4(*a*) of”.
+
+## 10. Transitional provision relating to applications for review[^key-e60209bd1e0ae1af025577414ae255df]
+
+Where an applicant for a review of a decision relating to child benefit—
+
+- (a) makes his application on or before 7th October 1997;
+- (b) in respect of any week prior to 7th April 1997 but not more than 26 weeks before the date of the application referred to in paragraph (*a*) (“the relevant period”), would have satisfied the conditions, as were then in force, in regulation 2(2) of the Child Benefit Rates Regulations relating to an increase in the weekly rate of child benefit; and
+- (c) was not in receipt of an increase in the weekly rate of child benefit under regulation 2(2) of those Regulations in respect of the relevant period,
+
+that application for review shall be treated, in addition, as if it were a claim for an increase in the weekly rate of child benefit under regulation 2(2) of those Regulations in respect of the relevant period.
+
+## 11. Transitional provision relating to maintenance assessments[^key-bcebc3d2cf75e4d859fead1267ced743]
+
+(1) A decision with respect to a maintenance assessment in force on 7th April 1997 shall not be superseded by a decision under Article 19 of the Order solely to give effect to these Regulations.
+
+(2) These Regulations shall apply to a fresh maintenance assessment made by virtue of—
+
+- (a) a revision under Article 18 of the Order of a decision with respect to a maintenance assessment; or
+- (b) a decision under Article 19 of the Order which supersedes a decision with respect to a maintenance assessment,
+
+as from the effective date of that revision under Article 18 of the Order or, as the case may be, decision under Article 19 of the Order.
+
+(3) In this regulation “the Order” means the Child Support (Northern Ireland) Order 1991.
+
+## 12. Revocations[^key-a5bf6a0977d214a2eca2342b8c88e7ed]
+
+The regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+D. G. Ferguson
+
+Assistant Secretary
+
+17th July 1996.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on
+
+V. N. Hewitt
+
+Assistant Secretary
+
+17th July 1996.
+
+## SCHEDULE — Regulations Revoked[^key-61ba2e78a50cfc3f2a3d81d89b55d54f]
+
+Regulation 12
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Citation</em></th><th><em>Reference</em></th><th><em>Extent of Revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Child Benefit and Social Security (Fixing and Adjustment of Rates) (Amendment) Regulations (Northern Ireland) 1980</td><td><a href="https://www.legislation.gov.uk/nisr/1980/37">S.R. 1980 No. 37</a></td><td>Regulation 2(<em>a</em>), (<em>b</em>) and (<em>c</em>)</td></tr>
+<tr><td>The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/40">S.R. 1989 No. 40</a></td><td>Regulation 3</td></tr>
+<tr><td>The Income Support (General) (Amendment No. 3) Regulations (Northern Ireland) 1990</td><td><a href="https://www.legislation.gov.uk/nisr/1990/346">S.R. 1990 No. 346</a></td><td>Regulation 6(<em>a</em>)</td></tr>
+<tr><td>The Social Security (Overlapping Benefits) (Amendment) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/116">S.R. 1992 No. 116</a></td><td>Regulation 2(<em>b</em>)</td></tr>
+<tr><td>The Income Support (General) (Amendment) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/147">S.R. 1992 No. 147</a></td><td>Regulation 5(<em>b</em>)</td></tr>
+<tr><td>The Child Benefit and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/169">S.R. 1993 No. 169</a></td><td>Regulation 2(<em>a</em>)</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations, in particular regulation 2(2), amend the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations (Northern Ireland) 1976 (“the Child Benefit Rates Regulations”) so as to specify a composite rate of child benefit to be payable in respect of the only, elder or eldest child of a lone parent rather than two distinct rates.
+
+The Regulations also make certain other amendments which are consequential on, or relate to, the above—
+
+- (a) they omit a transitional provision in the Child Benefit Rates Regulations which is no longer necessary (regulation 2(3));
+- (b) they amend the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979 so as to provide for the reduction of awards of certain benefits and increases in those benefits where child benefit is being paid in respect of the only, elder or eldest child of a lone parent (regulation 4);
+- (c) they amend the Income Support (General) Regulations (Northern Ireland) 1987 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 in relation to the calculation of notional income in so far as it relates to the new composite rate of child benefit (regulations 5(2) and 9(2));
+- (d) they make consequential amendments to—
+  - (i) the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (regulation 6), and
+  - (ii) the Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992 (regulation 7(2), (4) and (15)); and
+- (e) they amend the Social Security (Adjudication) Regulations (Northern Ireland) 1995 by reducing from 12 months to 6 months the time limit for submitting applications for review of decisions relating to child benefit (regulation 8).
+
+Regulations 10 and 11 are transitional provisions relating respectively to the treatment of applications for review of decisions relating to child benefit made on or before 7th October 1997 and of maintenance assessments for child support which are in force on 7th April 1997.
+
+These Regulations also replace the premium which is applicable in relation to lone parents in receipt of—
+
+- (a) income support (regulation 5(3) and (4)); and
+- (b) jobseeker’s allowance (regulation 9(3) and (4)),
+
+with an additional element to the family premium. They also provide for consequential amendments both elsewhere in the relevant regulations relating to those benefits and in the Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992 (regulations 5(5) and (6), 7(3) and (5) to (14) and 9(5) and (6)) in connection with this change.
+
+These Regulations also make amendments to the Child Benefit (General) Regulations (Northern Ireland) 1979 to provide that—
+
+- (a) unmarried partners shall not be entitled to child benefit in any week where they are exempt from United Kingdom income tax (regulation 3(2)); and
+- (b) a person shall not be entitled to child benefit in respect of a child who, in any week, is living with another person as his spouse (regulation 3(3)).
+
+Transitional protection is also provided for in both cases (regulation 3(4) and (5)).
+
+Regulation 12 makes consequential revocations.
+
+These Regulations correspond to provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00004]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00005]: Footnote: *See* section 141(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992
+
+[^key-743887729e85e0322731adce5d987dea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1) in operation at 7.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1)
+
+[^f00006]: Footnote: [S.R. 1979 No. 5](https://www.legislation.gov.uk/nisr/1979/5); relevant amending regulations are [S.R. 1984 No. 78](https://www.legislation.gov.uk/nisr/1984/78)
+
+[^f00007]: Footnote: [S.R. 1976 No. 223](https://www.legislation.gov.uk/nisr/1976/223); relevant amending provisions are [S.R. 1977 No. 248](https://www.legislation.gov.uk/nisr/1977/248), [S.R. 1980 No. 37](https://www.legislation.gov.uk/nisr/1980/37), [S.R. 1991 No. 82](https://www.legislation.gov.uk/nisr/1991/82), [S.R. 1993 No. 169](https://www.legislation.gov.uk/nisr/1993/169) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending provisions are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1990 Nos. 131](https://www.legislation.gov.uk/nisr/1990/131) and [346](https://www.legislation.gov.uk/nisr/1990/346), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
+
+[^f00009]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-3984aca8e677b833266c1f25a8e5051f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/288/regulation/2) revoked (10.4.2006) by [The Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
+
+[^key-520c1f77bf84abaaeb7fa5b736b75f08]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/288/regulation/3) revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/part/1/regulation/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/2)
+
+[^key-941229f097b8c544df74593403ca13d0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/288/regulation/4) in operation at 7.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1)
+
+[^f00013]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1991 No. 88](https://www.legislation.gov.uk/nisr/1991/88), [S.R. 1992 No. 116](https://www.legislation.gov.uk/nisr/1992/116) and [S.R. 1993 No. 169](https://www.legislation.gov.uk/nisr/1993/169)
+
+[^key-f8e772d73e88aa6c25d951d231458a2b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/288/regulation/5) in operation at 7.4.1997 with effect in acccordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/288/regulation/1/2)
+
+[^f00014]: Footnote: Paragraphs (2A) to (2C) were inserted by regulation 2(4)(*b*) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
+
+[^key-12086caf2cbf7373a262f79b93a70c87]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/1996/288/regulation/5/3) revoked (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+
+[^f00015]: Footnote: Paragraph 10C was inserted by regulation 19(*c*) of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431) and amended by regulation 19(*e*) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), paragraph 1(6)(*b*)(ii) of Schedule 1 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and Article 18(1) of [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
+
+[^key-6231c07b9d6f29f11035153dc9bbc446]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/288/regulation/6) in operation at 7.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1)
+
+[^key-a6b2960177748cdd071c1e3e395e0845]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/288/regulation/6) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00016]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40) and [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7) and [83](https://www.legislation.gov.uk/nisr/1992/83)
+
+[^key-06db49916719cd5c21c1339270a8b662]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1996/288/regulation/7) revoked (coming into operation in accordance with reg. 1(1)(c) of the amending Rule) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1)
+
+[^key-40ff5b09187ecd31bffff087fb5fed65]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/1996/288/regulation/8) revoked (6.10.1997) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1997 (S.R. 1997/156)](https://www.legislation.gov.uk/nisr/1997/156), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d), [Sch.](https://www.legislation.gov.uk/nisr/1997/156/schedule)
+
+[^key-0e6e0ba962539af0b4d4321941808fdf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1996/288/regulation/9) in operation at 7.4.1997 with effect in accordance with [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/288/regulation/1/3)
+
+[^key-563cb0a5472440afa4ee6098694fe9a1]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/nisr/1996/288/regulation/9/3) revoked (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+
+[^key-e60209bd1e0ae1af025577414ae255df]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1996/288/regulation/10) in operation at 7.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1)
+
+[^key-bcebc3d2cf75e4d859fead1267ced743]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1996/288/regulation/11) substituted (1.6.1999) by [The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/246)](https://www.legislation.gov.uk/nisr/1999/246), [arts. 3(1)](https://www.legislation.gov.uk/nisr/1999/246/article/3/1), [18](https://www.legislation.gov.uk/nisr/1999/246/article/18)
+
+[^key-a5bf6a0977d214a2eca2342b8c88e7ed]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1996/288/regulation/12) in operation at 7.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1)
+
+[^key-61ba2e78a50cfc3f2a3d81d89b55d54f]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/288/schedule) in operation at 7.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/288/regulation/1)

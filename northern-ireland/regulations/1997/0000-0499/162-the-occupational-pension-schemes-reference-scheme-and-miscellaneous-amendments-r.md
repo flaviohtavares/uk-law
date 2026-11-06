@@ -1,0 +1,193 @@
+---
+title: The Occupational Pension Schemes (Reference Scheme and Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+id: nisr/1997/162
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-03-14'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/162
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/162/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Reference Scheme and Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 162
+
+PENSIONS
+
+The Occupational Pension Schemes (Reference Scheme and Miscellaneous Amendments) Regulations (Northern Ireland) 1997
+
+Made
+
+14th March 1997
+
+Coming into operation
+
+6th April 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 3(2A), 8(3), 8B(6), 46(1B), 49(3), 109(1) and (3) and 177(4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 1(5)(*a*), 27(3), 40(2), 47(6), 122(3) and 166 of the Pensions (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-3caa31cb55b90220c085be93e6a12a0a]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Reference Scheme and Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Amendment of the Pension Schemes Act[^key-71e46f685a887bd028c25202d4c3166c]
+
+For paragraph (*b*) of section 8B(4) of the Pension Schemes (Northern Ireland) Act 1993 (reference scheme) there shall substituted the following paragraphs—
+
+> - (b) for entitlements to those pensions to commence on the day following the death of the earners, and
+> - (c) except in prescribed circumstances, for the annual rate of those pensions to be—
+>   - (i) if the earners die on or after their normal pension age, 50 per cent. of the annual rate which a reference scheme was required to provide to the deceased earners immediately before their death, or
+>   - (ii) if the earners die before their normal pension age, 50 per cent. of the annual rate of pension which a reference scheme would have been required to provide to the deceased earners if the date of their death had been their normal pension age, and
+> - (d) if those pensions are payable in respect of earners who die—
+>   - (i) otherwise than in pensionable service under the scheme, and
+>   - (ii) before their own entitlements to pensions under the scheme have commenced,
+>
+>   for those pensions to be revalued in accordance with section 80 as though they were such benefits as are mentioned in section 79(1)(*a*).
+
+.
+
+## 3. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-a6fd70add303702e1587cf317b3e044a]
+
+(1) The Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00004] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 39 (circumstances in which schemes may change mode of contracting out)—
+
+- (a) before “Subject to any regulations” there shall be inserted “—(1)”;
+- (b) at the end there shall be added the following paragraph—
+
+  > (2) Subject to any regulations made under Article 146 of the Order and to regulation 77[^f00005], a scheme which has been contracted out by virtue of section 5(2) of the Act[^f00006] may become contracted out under section 5(3) of the Act only if its trustees have been discharged of all liability to provide guaranteed minimum pensions and section 5(2B) rights.
+
+  .
+
+(3) In regulation 45 (approval of arrangements for schemes ceasing to be contracted out)—
+
+- (a) in paragraph (3)(*a*) for the words from “a rule which provides” to the end there shall be substituted “a protection rule”;
+- (b) after paragraph (3) there shall be inserted the following paragraphs—
+
+  > (3A) For the purposes of paragraph (3)(*a*) a protection rule is a rule which provides that the total amount of the benefits under the scheme for each member at normal pension age and the member’s widow or widower at the day following the date of death of the member will not be less than the aggregate of—
+  >
+  > - (a) any such benefits arising in respect of section 5(2B) rights and guaranteed minimum pensions;
+  > - (b) any other such benefits due in respect of rights which have accrued to the member in relation to service in employment which was contracted out before the principal appointed day under section 5(2); and
+  > - (c) any such benefits due in respect of rights which have accrued to the member in relation to service in employment which was not contracted out.
+  >
+  > (3B) The amount of the benefits mentioned in paragraph (3A)(*a*) and (*b*) and, so far as they relate to service on or before the date on which the scheme ceased to be contracted out, those mentioned in paragraph (3A)(*c*) shall be calculated on an early leaver basis in accordance with Chapter I of Part IV of the Act[^f00007] (preservation of benefit under occupational pension schemes) and any regulations made under that Chapter, as if the member had ceased to be in pensionable service under the scheme on that date.
+
+  .
+
+(4) In regulation 46(2) (supervision of schemes that have ceased to contract out) for “regulation 5(4) of the Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1985” there shall be substituted “regulations 3 and, in the case of a pension or accrued benefit under a relevant scheme, 11 of the Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^f00008]”.
+
+(5)[^key-9f6d2f99d8060018a093e76730a3cfbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-660f29a4f9bb77e6a109fe9b731fa73e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-e20eb8205a0f38443061df80fbf410ab]
+
+(1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00012] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) For sub-paragraph (*b*) of regulation 5(2) (manner and terms of appointment and removal of professional advisers) there shall be substituted the following sub-paragraph—
+
+> - (b)
+>   - (i) in the case of a fund manager, or a person carrying out functions referred to in regulation 2(*c*), who—
+>     - is a member of a self-regulating organisation (as defined in section 8 of the Financial Services Act 1986[^f00013]) which imposes requirements in relation to conflicts of interest; or
+>     - holds a certificate issued for the purposes of Chapter III of Part I of the Financial Services Act 1986 by a recognised professional body which professional body imposes requirements in relation to conflicts of interest,
+>     - confirm in writing that he will notify the trustees or managers of any conflict of interest to which he is or may be subject in relation to the scheme in accordance with those requirements; and
+>   - (ii) in the case of any other professional adviser, confirm in writing he will notify the trustees or managers of any conflict of interest to which he is subject in relation to the scheme immediately he becomes aware of its existence.
+
+.
+
+(3) In regulation 7 (ineligibility to act as actuary or auditor: exceptions)—
+
+- (a) in paragraph (*c*) for “Article 4(3) of the Insolvency (Northern Ireland) Order 1989.” there shall be substituted “Article 4(2) of the Insolvency (Northern Ireland) Order 1989[^f00014]; and”;
+- (b) after paragraph (*c*) there shall be added the following paragraph—
+
+  > - (d) in the case of a person who is an associate of any person with whom he is in partnership, the husband or wife or a relative of any individual with whom he is in partnership.
+
+  .
+
+## 6. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-a23c8e0817d5daef935b32d4aff91254]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+14th March 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend section 8B of the Pension Schemes (Northern Ireland) Act 1993 (“the Act”) and make miscellaneous amendments to regulations relating to occupational pensions.
+
+Regulation 1 deals with citation, commencement and interpretation
+
+Regulation 2 amends the terms of the reference scheme set out in section 8B of the Act, compliance with which is a condition of obtaining a contracting-out certificate under the Act.
+
+Regulation 3 amends the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 to provide further circumstances in which money purchase schemes may change the mode of contracting out, to clarify the approval of certain arrangements for schemes ceasing to be contracted out, to update references concerning discharge of liability, and to extend the transitional arrangements for salary related schemes becoming money purchase schemes.
+
+Regulation 4 amends the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996 to extend the meaning of “employer” in respect of schemes which there are no active members. It also amends the list of investments to which the restrictions on employer-related investments do not apply and amends the transitional provisions relating to employer-related loans.
+
+Regulation 5 amends the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 to change the way in which a scheme’s professional advisers notify the trustees or managers where there is any conflict of interest in relation to the scheme. It also extends the range of persons who are excepted from being ineligible to act as auditor or actuary of the scheme.
+
+Regulation 6 amends the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997 to limit the range of members to whom certain basic information about the scheme has to be given.
+
+Sections 3(2A), 8B(6), 46(1B) and 49(3) of the Act, some of the enabling provisions under which these Regulations are made, were inserted or substituted by Article 133(1) and (5) of, and paragraphs 37(*b*) and 40(*c*) of Schedule 3 to, the Pensions (Northern Ireland) Order 1995 (“the Order”). The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S.R. 1996 No. 91 (C. 4)](https://www.legislation.gov.uk/nisr/1996/91)) provides for the coming into operation of the said Article and paragraphs, for the purpose only of authorising the making of regulations, on 6th April 1996. It also provides for the coming into operation of Article 133, in so far as it is not already in operation on 6th April 1997.
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain, the requirement for consultation under Article 117(1) of the Order does not apply by virtue of paragraph (2)(*e*) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 3(2A) was inserted by Article 133(1) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); section 8B was inserted by Article 133(5) of that Order; section 46(1B) was inserted by paragraph 37(*b*) of Schedule 3 to that Order and section 49(3) was substituted by paragraph 40(*c*) of Schedule 3 to that Order
+
+[^f00002]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^key-3caa31cb55b90220c085be93e6a12a0a]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/162/regulation/1/1)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-71e46f685a887bd028c25202d4c3166c]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/162/regulation/1/1)
+
+[^key-a6fd70add303702e1587cf317b3e044a]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/162/regulation/1/1)
+
+[^f00004]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493), as amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
+
+[^f00005]: Footnote: Regulation 77 was amended by paragraph 5(14) of Schedule 1 to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
+
+[^f00006]: Footnote: Section 5(2) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
+
+[^f00007]: Footnote: Chapter I of Part IV is amended by paragraphs 14 and 15 of Schedule 1 to the Pensions (Northern Ireland) Order 1995
+
+[^f00008]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159)
+
+[^key-9f6d2f99d8060018a093e76730a3cfbe]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/1997/162/regulation/3/5) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+
+[^key-660f29a4f9bb77e6a109fe9b731fa73e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/162/regulation/4) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 (S.R. 2005/569)](https://www.legislation.gov.uk/nisr/2005/569), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/569/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2005/569/regulation/18), [Sch.](https://www.legislation.gov.uk/nisr/2005/569/schedule)
+
+[^key-e20eb8205a0f38443061df80fbf410ab]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/162/regulation/1/1)
+
+[^f00012]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94), to which there are amendments not relevant to these regulations
+
+[^f00013]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
+
+[^f00014]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
+
+[^key-a23c8e0817d5daef935b32d4aff91254]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/162/regulation/6) revoked (12.1.1998) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1997 (S.R. 1997/544)](https://www.legislation.gov.uk/nisr/1997/544), [regs. 1](https://www.legislation.gov.uk/nisr/1997/544/regulation/1), [12](https://www.legislation.gov.uk/nisr/1997/544/regulation/12)

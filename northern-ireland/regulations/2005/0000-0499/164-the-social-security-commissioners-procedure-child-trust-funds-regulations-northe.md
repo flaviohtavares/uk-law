@@ -1,0 +1,507 @@
+---
+title: The Social Security Commissioners (Procedure) (Child Trust Funds) Regulations (Northern Ireland) 2005
+id: nisr/2005/164
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-03-22'
+text_date: '2007-03-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/164
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/164/pdfs/nisrem_20050164_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/164/pdfs/nisr_20050164_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/164/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Commissioners (Procedure) (Child Trust Funds) Regulations (Northern Ireland) 2005
+
+> Text as at 2007-03-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 164
+
+SOCIAL SECURITY
+
+The Social Security Commissioners (Procedure) (Child Trust Funds) Regulations (Northern Ireland) 2005
+
+Made
+
+22nd March 2005
+
+To be laid before Parliament
+
+Coming into operation
+
+18th April 2005
+
+The Lord Chancellor, in exercise of the powers conferred upon him by sections 22 and 165(2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], Article 2 of the Social Security (Northern Ireland) Order 1998[^f00002] and Articles 15, 16, 28, 74(2) of, and Schedule 4 to, the Social Security (Northern Ireland) Order 1998, as applied and modified by the Child Trust Funds (Non-tax Appeals) Regulations 2005[^f00003], hereby makes the following Regulations:
+
+## PART I — GENERAL PROVISIONS
+
+### 1. Citation, commencement and duration[^key-955a12c0ed6c2e5125152f53d677659a]
+
+(1) These Regulations may be cited as the Social Security Commissioners (Procedure) (Child Trust Funds) Regulations (Northern Ireland) 2005 and shall come into operation on 18th April 2005.
+
+(2) These Regulations shall cease to have effect on such day as is appointed by order made under section 24(1) of the Child Trust Funds Act 2004[^f00004] (temporary modifications).
+
+### 2. Interpretation[^key-6fdea68cfbe267844c082094c5774260]
+
+In these Regulations –
+
+- “the Order” means the Social Security (Northern Ireland) Order 1998, as applied and modified by the Child Trust Funds (Non-tax Appeals) Regulations 2005;
+- “the 2004 Act” means the Child Trust Funds Act 2004;
+- “appeal” means an appeal which, by virtue of section 24 of the 2004 Act, is from an appeal tribunal to a Social Security Commissioner;
+- “appeal tribunal” means an appeal tribunal constituted under Chapter 1 of Part II of the Order;
+- “authorised officer” means an officer authorised by the Lord Chancellor, in accordance with Article 15(13) of the Order;
+- “chairman” means –
+  - (i) the person who was the chairman or the sole member of the appeal tribunal which gave the decision against which leave to appeal is being sought; or
+  - (ii) any other person authorised to deal with applications for leave to appeal to a Commissioner against that decision under Article 15 of the Order;
+- “funding notice” means the approval letter or civil aid certificate from the Northern Ireland Legal Services Commission confirming that assistance by way of representation (ABWOR) or legal aid has been granted;[^key-c4793e725b9cae86e4adab54da634600]
+- “legally qualified” means being a solicitor or barrister;
+- “live television link” means a television link or other audio and video facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by all others who are present (whether physically present or otherwise);
+- “month” means a calendar month;
+- “Northern Ireland Legal Services Commission” means the Northern Ireland Legal Services Commission established under Article 3 of the Access to Justice (Northern Ireland) Order 2003[^f00005];
+- “office” means the Office of the Social Security Commissioners;
+- “party” means a party to the proceedings;
+- “penalty appeal” means an appeal against a decision under section 21 of the 2004 Act which by virtue of section 24(2) of that Act lies to a Commissioner;
+- “proceedings” means any proceedings before a Commissioner, whether by way of an application for leave to appeal to, or from, a Commissioner, or by way of an appeal, or otherwise;
+- “respondent” means –
+  - (i) any party to the appeal other than the applicant or appellant;
+  - (ii) any other person taking part in the proceedings at the direction or with the leave of a Commissioner.
+
+### 3. General powers of a Commissioner[^key-dc86edef58b5690463092a28ceef5850]
+
+(1) Subject to the provisions of these Regulations, a Commissioner may adopt any procedure in relation to proceedings before him.
+
+(2) A Commissioner may –
+
+- (a) extend or abridge any time limit under these Regulations (including, subject to regulations 9(3) and 13(3), granting an extension where the time limit has expired);
+- (b) expedite, postpone or adjourn any proceedings.
+
+(3) Subject to paragraph (4), a Commissioner may, on or without the application of a party, strike out any proceedings for want of prosecution or abuse of process.
+
+(4) Before making an order under paragraph (3), the Commissioner shall send notice to the party against whom it is proposed that it should be made giving him an opportunity to make representations why it should not be made.
+
+(5) A Commissioner may, on application by the party concerned, give leave to reinstate any proceedings which have been struck out in accordance with paragraph (3) and, on giving leave, he may give directions as to the conduct of the proceedings.
+
+(6) Nothing in these Regulations shall affect any power which is exercisable apart from these Regulations.
+
+### 4. Transfer of proceedings between Commissioners[^key-738ee84aaaaa196cc0116b9fbf051b55]
+
+If it becomes impractical or inexpedient for a Commissioner to continue to deal with proceedings which are or have been before him, any other Commissioner may rehear or deal with those proceedings and any related matters.
+
+### 5. Delegation of functions to authorised officers[^key-d4d18ff4f534aaf7c4642891989931eb]
+
+(1) The following functions of the Commissioners may be exercised by legally qualified authorised officers, to be known as legal officers to the Commissioners –
+
+- (a) postponing a hearing under regulation 3;
+- (b) extending or abridging time, directing expedition, giving notices, striking out and reinstating proceedings under regulation 3;
+- (c) giving directions under regulations 6 and 18;
+- (d) determining requests for or directing hearings under regulation 20;
+- (e) summoning witnesses, and setting aside a summons made by a legal officer, under regulation 22;
+- (f) giving leave to withdraw or reinstate applications or appeals under regulation 23;
+- (g) waiving irregularities under regulation 24 in connection with any matter being dealt with by a legal officer.
+
+(2) Any party may, within 14 days of being sent notice of the direction or order of a legal officer, make a written request to a Commissioner asking him to reconsider the matter and confirm or replace the direction or order with his own, but, unless ordered by a Commissioner, a request shall not stop proceedings under the direction or order.
+
+### 6. Manner of and time for service of notices, etc.[^key-961bda27c9697892c40aa1ac71d555fc]
+
+(1) A notice to or document for any party shall be deemed duly served if it is –
+
+- (a) delivered to him personally;
+- (b) properly addressed and sent to him by prepaid post at the address last notified by him for this purpose, or to his ordinary address;
+- (c) subject to paragraph (2), sent by e-mail; or
+- (d) served in any other manner a Commissioner may direct.
+
+(2) A document may be served by e-mail on any party if the recipient has informed the party sending the e-mail in writing –
+
+- (a) that he is willing to accept service by e-mail;
+- (b) of the e-mail address to which the documents should be sent; and
+- (c) if the recipient wishes to so specify, the format in which the documents must be sent.
+
+(3) A notice to or other document for a Commissioner shall be –
+
+- (a) delivered to the office in person;
+- (b) sent to the office by prepaid post;
+- (c) sent to the office by fax; or
+- (d) where the office has given written permission in advance, sent to the office by e-mail.
+
+(4) For the purposes of any time limit, a properly addressed notice or other document sent by prepaid post, fax or e-mail is effective from the date it is sent.
+
+### 7. Legal Aid[^key-f52f995c2f0f6bc68025af70154bb856]
+
+If a party is granted assistance by way of representation or legal aid, at any time, he shall—
+
+- (a) where it is granted by the Northern Ireland Legal Services Commission, send a copy of the funding notice to the office; and
+- (b) notify every other party that it has been granted.
+
+## PART II — APPLICATIONS FOR LEAVE TO APPEAL AND APPEALS
+
+### 8. Application of this Part[^key-66f3d71db130a37962f9b0fe48f5638c]
+
+In this Part –
+
+- (a) regulations 9, 10, and 11 apply to appeals other than penalty appeals;
+- (b) regulations 12, 13 and 14 apply to all appeals.
+
+### 9. Application to a Commissioner for leave to appeal[^key-4142e34022fe3cbb9f0c51fd5ff9afd1]
+
+(1) An application to a Commissioner for leave to appeal against the decision of an appeal tribunal may be made only where the applicant has sought to obtain leave from the chairman and leave has been refused or the application has been rejected.
+
+(2) Subject to paragraph (3) an application to a Commissioner shall be made within one month of notice of the refusal or rejection being sent to the applicant by the appeal tribunal.
+
+(3) A Commissioner may for special reasons accept a late application or an application where the applicant failed to seek leave from the chairman within the specified time, but did so on or before the final date.
+
+(4) In paragraph (3) the final date means the end of a period of 13 months from the date on which the decision of the appeal tribunal or, if later, any separate statement of the reasons for it, was sent to the applicant by the appeal tribunal.
+
+### 10. Notice of application to a Commissioner for leave to appeal[^key-5a00da37471d13c057c6abbc6fbe35de]
+
+(1) An application to a Commissioner for leave to appeal shall be made by notice in writing, and shall contain –
+
+- (a) the name and address of the applicant;
+- (b) the grounds on which the applicant intends to rely;
+- (c) if the application is made late, the grounds for seeking late acceptance; and
+- (d) an address for sending notices and other documents to the applicant.
+
+(2) The notice in paragraph (1) shall have with it a copy[^key-65ce6b3c088149f3ef83847757f38088] of –
+
+- (a) the decision against which leave to appeal is sought;
+- (b) if separate, the written statement of the appeal tribunal’s reasons for it; and
+- (c) the notice of refusal or rejection sent to the applicant by the appeal tribunal.
+
+(3) Where an application for leave to appeal is made by the Board, it shall at the same time send each respondent a copy of the notice of application and any documents sent with it when they are sent to the Commissioner.
+
+### 11. Determination of application[^key-ace5839e511fe8bf1adc23337f6305b9]
+
+(1) The office shall send written notice to the applicant and each respondent of the determination of an application for leave to appeal to a Commissioner.
+
+(2) Subject to a direction by a Commissioner, where a Commissioner grants leave to appeal under regulation 9 –
+
+- (a) notice of appeal shall be deemed to have been sent on the date when notice of the determination is sent to the applicant; and
+- (b) the notice of application shall be deemed to be a notice of appeal sent under regulation 12.
+
+(3) If a Commissioner grants an application for leave to appeal he may, with the consent of the applicant and each respondent, treat and determine the application as an appeal.
+
+### 12. Notice of appeal[^key-ed92d97f91a8e7cb1dd7ddca8f87736c]
+
+(1) Subject to regulation 11(2), an appeal shall be made by notice in writing and shall contain –
+
+- (a) the name and address of the appellant;
+- (b) where applicable, the date on which the appellant was notified that leave to appeal had been granted;
+- (c) the grounds on which the appellant intends to rely;
+- (d) if the appeal is made late, the grounds for seeking late acceptance; and
+- (e) an address for sending notices and other documents to the appellant.
+
+(2) The notice in paragraph (1) shall have with it a copy[^key-9909da854227ce5531205f6a764cf871] of –
+
+- (a) the notice informing the appellant that leave to appeal has been granted;
+- (b) the decision against which leave to appeal has been granted;
+- (c) if separate, the written statement of the appeal tribunal’s reasons for it.
+
+### 13. Time limit for appealing[^key-9e605ce1fc3d577c99c3f0782304382d]
+
+(1) In the case of a penalty appeal, the notice of appeal shall not be valid unless it is sent to a Commissioner within one month of the decision of the appeal tribunal being sent to the applicant.
+
+(2) For all other appeals, a notice of appeal shall not be valid unless it is sent to a Commissioner within one month of the date on which the appellant was sent written notice that leave to appeal had been granted.
+
+(3) A Commissioner may for special reasons accept late notice of appeal.
+
+### 14. Acknowledgement of a notice of appeal and notification to each respondent[^key-a6d0a5cd0784d39a4d1bcdca06ec876c]
+
+The office shall send –
+
+- (a) to the appellant, an acknowledgement of the receipt of the notice of appeal;
+- (b) to each respondent, a copy of the notice of appeal.
+
+## PART III — PROCEDURE
+
+### 15. Representation[^key-62169e6b82918e7f6f7e7016cfdb2bcc]
+
+A party may conduct his case himself (with assistance from any person if he wishes) or be represented by any person whom he may appoint for the purpose.
+
+### 16. Respondent’s written observations[^key-359796760e4a6150ef051083843cb603]
+
+(1) A respondent may submit to a Commissioner written observations on an appeal within one month of being sent written notice of it.
+
+(2) Written observations shall include –
+
+- (a) the respondent’s name and address and address for sending documents;
+- (b) a statement as to whether or not he opposes the appeal; and
+- (c) the grounds upon which the respondent proposes to rely.
+
+(3) The office shall send a copy of any written observations from a respondent to every other party.
+
+(4) Where there is more than one respondent, the order of and time for written observations shall be as directed by a Commissioner under regulation 18.
+
+### 17. Written observations in reply[^key-69f357e58c78339aadde718b501010dd]
+
+(1) Any party may submit to a Commissioner written observations in reply within one month of being sent written observations under regulation 16.
+
+(2) The office shall send a copy of any written observations in reply to every other party.
+
+(3) In the case of an appeal other than a penalty appeal, where –
+
+- (a) written observations have been received under regulation 16; and
+- (b) each of the Board and the appellant expresses the view that the decision appealed against was erroneous in point of law,
+
+a Commissioner may make an order under Article 15(7) of the Order setting aside the decision and may dispense with the procedure in paragraphs (1) and (2).
+
+### 18. Directions[^key-04589228ca9614ccec368abd26e241bd]
+
+(1) Subject to paragraph (2), where a Commissioner considers that an application or appeal made to him gives insufficient particulars to enable the question at issue to be determined, he may direct the party making the application or appeal, or any respondent, to furnish any further particulars as may reasonably be required.
+
+(2) No person shall be compelled to give any evidence or produce any document or other material that he could not be compelled to give or produce on a trial of an action in a court of law in Northern Ireland.
+
+(3) A Commissioner may, before determining the application or appeal, direct the appeal tribunal to submit a statement of such facts or other matters as he considers necessary for the proper determination of that application or appeal.
+
+(4) At any stage of the proceedings, a Commissioner may, on or without an application, give any directions as he may consider necessary or desirable for the efficient despatch of the proceedings.
+
+(5) Without prejudice to regulations 16 and 17, or to paragraph (4), and subject to paragraph (2), a Commissioner may direct any party before him, to make any written observations as may seem to him necessary to enable the question at issue to be determined.
+
+(6) An application under paragraph (4) shall be made in writing to a Commissioner and shall set out the direction which the applicant seeks.
+
+(7) Unless a Commissioner shall otherwise determine, the office shall send a copy of an application under paragraph (4) to every other party.
+
+### 19. Non-disclosure of medical evidence[^key-fa5b5addf4e8c3c0949ab7073db528ea]
+
+(1) Where, in any proceedings, there is before a Commissioner medical evidence relating to a person which has not been disclosed to that person and in the opinion of the Commissioner the disclosure to that person of that evidence would be harmful to his health, such evidence shall not be disclosed to that person.
+
+(2) Evidence such as is mentioned in paragraph (1) shall not be disclosed to any person acting for or representing the person to whom it relates, unless the Commissioner considers that it is in the interests of the person to whom the evidence relates to disclose it.
+
+(3) Non-disclosure under paragraphs (1) or (2) does not preclude the Commissioner from taking the evidence concerned into account for the purpose of the proceedings.
+
+### 20. Requests for hearings[^key-184176ca838e7d038f59df510cb9db10]
+
+(1) Subject to paragraphs (2), (3), (4) and (5), a Commissioner may determine any proceedings without a hearing.
+
+(2) In the case of a penalty appeal, where a request for a hearing is made by the party on whom the penalty has been imposed, a Commissioner shall grant the request.
+
+(3) Where a request for a hearing is made by any party other than as provided by paragraph (2), a Commissioner shall grant the request unless he is satisfied that the proceedings can properly be determined without a hearing.
+
+(4) Where a Commissioner refuses a request for a hearing, he shall send written notice to the person making the request, either before or at the same time as making his determination or decision.
+
+(5) A Commissioner may, without an application and at any stage, direct a hearing.
+
+### 21. Hearings[^key-ac3fcc58ec50e76b7410f5fd10bf253b]
+
+(1) This regulation applies to any hearing of an application or appeal to which these Regulations apply.
+
+(2) Subject to paragraph (3), the office shall give reasonable notice of the time and place of any hearing before a Commissioner.
+
+(3) Unless all the parties concerned agree to a hearing at shorter notice, the period of notice specified under paragraph (2) shall be at least 14 days before the date of the hearing.
+
+(4) If any party to whom notice of a hearing has been sent fails to appear at the hearing, the Commissioner may proceed with the case in that party’s absence, or may give directions with a view to the determination of the case.
+
+(5) Any hearing before a Commissioner shall be in public, unless the Commissioner for special reasons directs otherwise.
+
+(6) Where a Commissioner holds a hearing the following persons or organisations shall be entitled to be present and be heard –
+
+- (a) the person or organisation making the application or appeal;
+- (b) any respondent;
+- (c) with the leave of the Commissioner, any other person.
+
+(7) Subject to the direction of a Commissioner –
+
+- (a) any person or organisation entitled to be present and be heard at a hearing; and
+- (b) any representatives of such a person or organisation,
+
+may be present by means of a live television link.
+
+(8) Any provision in these regulations which refers to a party or representative being present is satisfied if the party or representative is present by means of a live television link.
+
+(9) Any person entitled to be heard at a hearing may address the Commissioner and –
+
+- (a) in the case of a penalty appeal, the party on whom the penalty has been imposed may give evidence, call witnesses and put questions directly to any other person called as a witness;
+- (b) in all other cases, a person entitled to be heard may with the leave of the Commissioner, give evidence, call witnesses and put questions directly to any other person called as a witness.
+
+### 22. Summoning of witnesses[^key-8f919d80381c341973a2c56239c1c016]
+
+(1) Subject to paragraph (2), a Commissioner may summon any person to attend a hearing as a witness, at such time and place as may be specified in the summons, to answer any questions or produce any documents in his custody or under his control which relate to any matter in question in the proceedings.
+
+(2) A person shall not be required to attend in obedience to a summons under paragraph (1) unless he has been given at least 14 days' notice before the date of the hearing or, if less than 14 days, has informed the Commissioner that he accepts such notice as he has been given.
+
+(3) Upon the application of a person summoned under this regulation, a Commissioner may set the summons aside.
+
+(4) A Commissioner may require any witness to give evidence on oath and for this purpose an oath may be administered in due form.
+
+### 23. Withdrawal of applications for leave to appeal and appeals[^key-abcbc1636ea22fe487d84589d0b67383]
+
+(1) At any time before it is determined, an applicant may withdraw an application to a Commissioner for leave to appeal against a decision of an appeal tribunal by giving written notice to a Commissioner.
+
+(2) At any time before the decision is made, the appellant may withdraw his appeal with the leave of a Commissioner.
+
+(3) A Commissioner may, on application by the party concerned, give leave to reinstate any application or appeal which has been withdrawn in accordance with paragraphs (1) and (2) and, on giving leave, he may make directions as to the conduct of the proceedings.
+
+### 24. Irregularities[^key-af66d44b030335d4dc8ff79293cc4528]
+
+Any irregularity resulting from failure to comply with the requirements of these Regulations shall not by itself invalidate any proceedings, and the Commissioner, before reaching his decision, may waive the irregularity or take steps to remedy it.
+
+## PART IV — DECISIONS
+
+### 25. Determinations and decisions of a Commissioner[^key-64a071e8f6490953edf3483329152237]
+
+(1) The determination of a Commissioner on an application for leave to appeal shall be in writing and signed by him.
+
+(2) The decision of a Commissioner on an appeal shall be in writing and signed by him and, unless it was a decision made with the consent of the parties or an order setting aside a tribunal’s decision under Article 15(7) of the Order, he shall include the reasons.
+
+(3) The office shall send a copy of the determination or decision and any reasons to each party.
+
+(4) Without prejudice to paragraphs (2) and (3), a Commissioner may announce his determination or decision at the end of a hearing.
+
+### 26. Correction of accidental errors in decisions[^key-83c3e75973b8b0c3cc77d0d573bce5cd]
+
+(1) Subject to regulation 4,[^key-1d90b96770fec8977d4cd4bde5c7d04d] the Commissioner who gave the decision may at any time correct accidental errors in any decision or record of a decision.
+
+(2) A correction made to, or to the record of, a decision shall become part of the decision or record, and the office shall send a written notice of the correction to any party to whom notice of the decision has been sent.
+
+### 27. Setting aside decisions on certain grounds[^key-f193de1dc2444db3b8d13edf97b33c77]
+
+(1) Subject to regulation 4,[^key-7e01eeb6707a55eda1658a608942c63e] on an application made by any party, the Commissioner who gave the decision in proceedings may set it aside where it appears just to do so on the ground that –
+
+- (a) a document relating to the proceedings was not sent to, or was not received at an appropriate time by, a party or his representative or was not received at an appropriate time by the Commissioner; or
+- (b) a party or his representative was not present at a hearing before the Commissioner.
+
+(2) An application under this regulation shall be made in writing to a Commissioner within one month from the date on which the office gave written notice of the decision to the party making the application.
+
+(3) Unless the Commissioner considers that it is unnecessary for the proper determination of an application made under paragraph (1), the office shall send a copy of it to each respondent, who shall be given a reasonable opportunity to make representations on it.
+
+(4) The office shall send each party written notice of a determination of an application to set aside a decision and the reasons for it.
+
+### 28. Provisions common to regulations 26 and 27[^key-d89ac5d630b2ec0a619323650be7cff1]
+
+(1) In regulations 26 and 27, the word “decision” shall include determinations of applications for leave to appeal, orders setting aside tribunal decisions under Article 15(7) of the Order and decisions on appeals.
+
+(2) There shall be no appeal against a correction or a refusal to correct under regulation 26 or a determination given under regulation 27.
+
+## PART V — APPLICATIONS FOR LEAVE TO APPEAL TO THE APPELLATE COURT
+
+### 29. Application to a Commissioner for leave to appeal to the Appellate Court[^key-6155c5080b47f61f5d8e0b68f77611b6]
+
+(1) Subject to paragraph (2), an application to a Commissioner under section 22 of the Social Security Administration (Northern Ireland) Act 1992 for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
+
+(2) Where –
+
+- (a) any decision or record of a decision is corrected under regulation 26; or
+- (b) an application for a decision to be set aside under regulation 27 is refused for reasons other than that the application was made outside the period specified in regulation 27(2),
+
+the period specified in paragraph (1) shall run from the date on which written notice of the correction or refusal of the application to set aside is sent to the applicant
+
+(3) Regulations 23(1) and 23(3) shall apply to an application to a Commissioner for leave to appeal from a Commissioner’s decision as they apply to the proceedings in that regulation.
+
+Signed by authority of the Lord Chancellor
+
+Baroness Ashton of Upholland
+
+Parliamentary Under-Secretary of State,
+
+Department for Constitutional Affairs
+
+Dated 22nd March 2005
+
+(This note is not part of the Regulations.)
+
+These Regulations regulate the procedure of the Social Security Commissioners for Northern Ireland in determining appeals and applications arising from decisions of appeal tribunals in relation to child trust funds.
+
+The Child Trust Funds (Non-tax Appeals) Regulations 2005 ([S.I. 2005/191](https://www.legislation.gov.uk/uksi/2005/191)) are made under section 24(5) of the Child Trust Funds Act [2004 (c. 6)](https://www.legislation.gov.uk/ukpga/2004/6) and apply and modify provisions in the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) to provide for a temporary route of appeal in respect of Child Trust Funds. Appeals are heard initially by an appeal tribunal constituted under Chapter 1 of Part II of the Social Security (Northern Ireland) Order 1998, and a further right of appeal will exist to the Social Security Commissioners.
+
+These Regulations will apply until the Treasury makes an order under section 24(1) of the Child Trust Fund Act 2004.
+
+In particular, these Regulations provide for:
+
+- general powers of the Commissioners to regulate procedure (regulations 3, 4 and 5);
+- notice to be given where a party receives funding of legal services (regulation 7);
+- appeals involving penalties not to be subject to the requirement of leave to appeal (regulation 8);
+- the Commissioners to deal with applications for leave to appeals and for the procedure in connection with commencing appeals (regulations 9 to 14);
+- the procedure in connection with applying for directions, dealing with evidence and summoning witnesses (regulations 16 to 19 and 22);
+- requests for hearings, hearings and withdrawal of appeals (regulations 20, 21 and 23);
+- determination and decisions by Commissioners (regulation 25);
+- correcting accidental errors and setting aside decisions (regulations 26 and 27);
+- applications for leave to appeal the decision of the Commissioners to the Northern Ireland Court of Appeal (regulation 29).
+
+## Annotations
+
+[^f00001]: Footnote: [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00002]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 2 is an interpretation provision and is cited because of the meaning assigned to the word “prescribe”. Article 28 was amended by paragraph 28 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (N.I.) Order 1999 ([S.I. 1996/671](https://www.legislation.gov.uk/uksi/1996/671)) and by paragraph 10 of Schedule 1 and Schedule 3 to the State Pension Credit Act (N.I.) [2002 (c. 14)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^f00003]: Footnote: [S.I. 2005/191](https://www.legislation.gov.uk/uksi/2005/191)
+
+[^key-955a12c0ed6c2e5125152f53d677659a]: Commencement: Reg. 1 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^f00004]: Footnote: [2004 (c. 6)](https://www.legislation.gov.uk/ukpga/2004/6)
+
+[^key-6fdea68cfbe267844c082094c5774260]: Commencement: Reg. 2 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-c4793e725b9cae86e4adab54da634600]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/164/regulation/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/146/regulation/5/3)
+
+[^f00005]: Footnote: [S.I. 2003 No. 435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435)
+
+[^key-dc86edef58b5690463092a28ceef5850]: Commencement: Reg. 3 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-738ee84aaaaa196cc0116b9fbf051b55]: Commencement: Reg. 4 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-d4d18ff4f534aaf7c4642891989931eb]: Commencement: Reg. 5 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-961bda27c9697892c40aa1ac71d555fc]: Commencement: Reg. 6 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-f52f995c2f0f6bc68025af70154bb856]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/164/regulation/7) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2007/146/regulation/5/4)
+
+[^key-66f3d71db130a37962f9b0fe48f5638c]: Commencement: Reg. 8 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-4142e34022fe3cbb9f0c51fd5ff9afd1]: Commencement: Reg. 9 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-5a00da37471d13c057c6abbc6fbe35de]: Commencement: Reg. 10 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-65ce6b3c088149f3ef83847757f38088]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2005/164/regulation/10/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [5(5)](https://www.legislation.gov.uk/nisr/2007/146/regulation/5/5)
+
+[^key-ace5839e511fe8bf1adc23337f6305b9]: Commencement: Reg. 11 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-ed92d97f91a8e7cb1dd7ddca8f87736c]: Commencement: Reg. 12 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-9909da854227ce5531205f6a764cf871]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2005/164/regulation/12/2) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [5(6)](https://www.legislation.gov.uk/nisr/2007/146/regulation/5/6)
+
+[^key-9e605ce1fc3d577c99c3f0782304382d]: Commencement: Reg. 13 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-a6d0a5cd0784d39a4d1bcdca06ec876c]: Commencement: Reg. 14 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-62169e6b82918e7f6f7e7016cfdb2bcc]: Commencement: Reg. 15 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-359796760e4a6150ef051083843cb603]: Commencement: Reg. 16 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-69f357e58c78339aadde718b501010dd]: Commencement: Reg. 17 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-04589228ca9614ccec368abd26e241bd]: Commencement: Reg. 18 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-fa5b5addf4e8c3c0949ab7073db528ea]: Commencement: Reg. 19 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-184176ca838e7d038f59df510cb9db10]: Commencement: Reg. 20 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-ac3fcc58ec50e76b7410f5fd10bf253b]: Commencement: Reg. 21 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-8f919d80381c341973a2c56239c1c016]: Commencement: Reg. 22 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-abcbc1636ea22fe487d84589d0b67383]: Commencement: Reg. 23 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-af66d44b030335d4dc8ff79293cc4528]: Commencement: Reg. 24 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-64a071e8f6490953edf3483329152237]: Commencement: Reg. 25 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-83c3e75973b8b0c3cc77d0d573bce5cd]: Commencement: Reg. 26 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-1d90b96770fec8977d4cd4bde5c7d04d]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/nisr/2005/164/regulation/26/1) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [5(7)](https://www.legislation.gov.uk/nisr/2007/146/regulation/5/7)
+
+[^key-f193de1dc2444db3b8d13edf97b33c77]: Commencement: Reg. 27 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-7e01eeb6707a55eda1658a608942c63e]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2005/164/regulation/27/1) substituted (31.3.2007) by [The Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/146)](https://www.legislation.gov.uk/nisr/2007/146), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/146/regulation/1/1), [5(8)](https://www.legislation.gov.uk/nisr/2007/146/regulation/5/8)
+
+[^key-d89ac5d630b2ec0a619323650be7cff1]: Commencement: Reg. 28 in operation at 18.4.2005 with effect in accordance with reg. 1(2)
+
+[^key-6155c5080b47f61f5d8e0b68f77611b6]: Commencement: Reg. 29 in operation at 18.4.2005 with effect in accordance with reg. 1(2)

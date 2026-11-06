@@ -1,0 +1,420 @@
+---
+title: The Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007
+id: nisr/2007/319
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-06-29'
+text_date: '2023-05-15'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/319
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/319/pdfs/nisr_20070319_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/319/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007
+
+> Text as at 2023-05-15.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 319
+
+ROAD TRAFFIC AND VEHICLES
+
+The Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007
+
+Made
+
+29th June 2007
+
+Coming into operation
+
+30th July 2007
+
+The Department of the Environment makes the following Order in exercise of the powers conferred by Article 59(a) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00001].
+
+In accordance with Article 91(1) of that Order the Department has consulted with such representative organisations as it thinks fit.
+
+## 1. Citation, commencement and application[^key-e4b8d6e203baa9904b6f1e45fb44e3ed][^key-a3442f75bee50b249d8b9f1bdc49f823]
+
+(1) This Order may be cited as the Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007 and shall come into operation on 30th July 2007.
+
+(2) This Order applies in relation to a fixed penalty offence alleged to have been committed on or after 30th July 2007.
+
+## 1A. Interpretation[^key-bf0fc40e0bcf1897dea6537d57306f8c]
+
+In Schedule 2—
+
+- “the AETR” means the European Agreement[^f00003] concerning the Work of Crews of Vehicles engaged in International Road Transport of 1 July 1970, as amended, as applied by Article 2(3) of the EC Regulation;
+- “the Authorised Weights Regulations” means the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^f00004];
+- [^key-fb147cd450370a357dd04827950f4754]...[^f00005]
+- “the Construction and Use Regulations” means the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00006];
+- “the Drivers’ Hours Regulations” means the Vehicles (Drivers’ Hours of Duty) Regulations 1991[^f00007];
+- “the EC Regulation” means Regulation [(EC) No. 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of the European Parliament and of the Council as amended from time to time.
+- “the[^key-e0f1c250f1b9732bf4bacec8214f8c82] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009.
+
+## 2. Amount of fixed penalty[^key-9c8096312902f4731c0fb553e85362cd][^key-05554c07ef866f5a6bf3e1229ded2874]
+
+The fixed penalty for an offence shown in column (1) of Schedule 1[^key-9cbeccffb2966eae0918bf9c0822b028] shall be the amount shown opposite in column (2) of that Schedule[^key-050498a98de7ed42a332d11cdfae28eb].
+
+## 2A. Graduated fixed penalties[^key-b97817b077cd2f71432e464d128ee32a]
+
+The amount of the fixed penalty for an offence specified in Schedule 2 shall be the amount indicated in relation to that offence by that Schedule, by reference to the circumstances of the offence, those being the nature of the contravention, and, where specified, its seriousness.
+
+## 3. Revocation[^key-3579927f05f1c7297b07bf524f9e3e30][^key-02f7d102dd94d432f9cc9ea317066f52]
+
+The Road Traffic (Fixed Penalty) Order (Northern Ireland) 2001[^f00002] is revoked.
+
+Sealed with the Official Seal of the Department of the Environment on 29th June 2007.
+
+Stanley Duncan
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE 1 — Fixed Penalties[^key-5341621752c343174b581e5092a3e56c]
+
+Article 2
+
+|  | Offence | Fixed Penalty |
+| --- | --- | --- |
+| 1\. | A fixed penalty offence under section 11 of the HGV Road User Levy Act 2013 | £300 |
+| 2\. | A fixed penalty offence under section 4(4) of the Transport Act (Northern Ireland) 1967 | £200 |
+| 3\. | A fixed penalty offence under Article 81(2) of the Road Traffic (Northern Ireland) Order 1981 | £200 |
+| 4\. | A fixed penalty offence under Article 86 of the Road Traffic (Northern Ireland) Order 1981 | £200 |
+| 5\. | A fixed penalty offence under Article 90 of the Road Traffic (Northern Ireland) Order 1981 | £200 |
+| 5A[^key-2578e9a755b96a19e3548c499425fc7e] | A fixed penalty offence under Article 56A(b) of the Road Traffic (Northern Ireland) Order 1995 | £200 |
+| 6\. | A fixed penalty offence under Article 80(1) of the Road Traffic (Northern Ireland) Order 1995 | £200 |
+| 7\. | A fixed penalty offence under regulation 7(3) of the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996 | £200 |
+| 8\. | A fixed penalty offence under regulation 7D of the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996 | £200 |
+| 9\. | A fixed penalty offence under Article 91E(6) of the Road Traffic Offenders (Northern Ireland) Order 1996 | £200 |
+| 10\. | A fixed penalty offence under section 1(3) of the Taxis Act (Northern Ireland) 2008 | £200 |
+| 11\. | A fixed penalty offence under section 3(10) of the Taxis Act (Northern Ireland) 2008 | £200 |
+| 12\. | A fixed penalty offence under section 12 of the Taxis Act (Northern Ireland) 2008 (using a taxi in standing or plying for hire or reward or to carry passengers for hire or reward except under a taxi licence in force for that taxi) | £200 |
+| 13\. | A fixed penalty offence under section 22 of the Taxis Act (Northern Ireland) 2008 (driving a taxi when it is standing or plying for hire or reward or carrying passengers for hire or reward without a taxi driver licence in contravention of section 22(1)) | £200 |
+| 14\. | A fixed penalty offence under section 22(3) of the Taxis Act (Northern Ireland) 2008 (subject to Article 57(3) of the Road Traffic Offenders (Northern Ireland) Order 1996, causing or permitting, by the owner or operator, the driving of the taxi for hire or reward without a taxi driver licence in contravention of section 22(3)) | £200 |
+| 15\. | A fixed penalty offence under section 44(2)(a) of the Taxis Act (Northern Ireland) 2008 (altering, with intent to deceive, the plaque affixed by the Department following the taximeter test in contravention of section 44(2)(a)) | £200 |
+| 16\. | A fixed penalty offence under section 44(2)(c) of the Taxis Act (Northern Ireland) 2008 (making or possessing, as to be calculated to deceive, a thing closely resembling a taximeter plaque in contravention of section 44(2)(c)) | £200 |
+| 17\. | A fixed penalty offence under section 1(6) of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 | £200 |
+| 18\. | A fixed penalty offence under Article 177 of the Road Traffic (Northern Ireland) Order 1981 | £120 |
+| 19\. | A fixed penalty offence under section 16 of the Taxis Act (Northern Ireland) 2008 (demanding additional rates, fares or charges or more than the maximum rate, fare or charge fixed in contravention of section 16 and regulations 13 and 14 of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015) | £120 |
+| 20\. | A fixed penalty offence under section 18(1) of the Taxis Act (Northern Ireland) 2008 (using a taxi in standing or plying for hire or reward or to carry passengers for hire or reward without an approved taximeter and/or device constructed or adapted for the production of receipts in contravention of section 18(1)) | £120 |
+| 21\. | A fixed penalty offence under section 18(6) of the Taxis Act (Northern Ireland) 2008 (using a taxi in standing or plying for hire or reward or to carry passengers for hire or reward where taximeter or device becomes defective or a seal on a taximeter is missing or broken in contravention of section 18(6) and regulation 11 of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015) | £120 |
+| 22\. | A fixed penalty offence under section 18(8) of the Taxis Act (Northern Ireland) 2008 (unlawfully tampering with a taximeter or device constructed or adapted for the production of receipts in contravention of section 18(8)) | £120 |
+| 23\. | A fixed penalty offence under section 19 of the Taxis Act (Northern Ireland) 2008 (carrying a greater number of passengers than that prescribed for the taxi) | £120 |
+| 24\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (subject to Article 57(3) of the Road Traffic Offenders (Northern Ireland) Order 1996, causing or permitting the use of a licensed taxi for an unpermitted use, in contravention of section 20 and regulation 8(1) of the Taxi Licensing Regulations (Northern Ireland) 2015) | £120 |
+| 25\. | A fixed penalty offence under section 37(3) of the Taxis Act (Northern Ireland) 2008 (failure to comply with any requirement imposed by an enforcement notice in contravention of section 37(3)) | £120 |
+| 25A[^key-2e226952f4808a0525838ed8efd01690] | A fixed penalty offence under Article 12 of the Road Traffic (Northern Ireland) Order 1995 | £100 |
+| 26\. | A fixed penalty offence under section 5(1)(c) of the Taxis Act (Northern Ireland) 2008 (operating a taxi service for or in respect of the carriage of passengers at separate fares in contravention of section 5(1)(c)) | £90 |
+| 27\. | A fixed penalty offence under section 18(2) of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward with more than one taximeter and/or more than one device constructed or adapted for the production of receipts fitted to the taxi in contravention of section 18(2)) | £90 |
+| 28\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a Class C taxi without a duly completed journey form in contravention of section 20 and regulation 8(3) of the Taxi Licensing Regulations (Northern Ireland) 2015) | £90 |
+| 29\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward without steps and handrails in contravention of section 20 and regulation 18 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £90 |
+| 30\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (causing or permitting the display on a Class C taxi of a roof sign or other external markings which advertises the taxi as carrying passengers for hire or reward in contravention of section 20 and regulation 27(3) of the Taxi Licensing Regulations (Northern Ireland) 2015) | £90 |
+| 31\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (causing or permitting the display of any wheelchair accessible logo, information or advertisement on the roof sign of a Class A, C or D taxi in contravention of section 20 and regulation 27(4) of the Taxi Licensing Regulations (Northern Ireland) 2015) | £90 |
+| 32\. | A fixed penalty offence under section 43(1) of the Taxis Act (Northern Ireland) 2008 (soliciting any person to be carried for hire or reward in a taxi in contravention of section 43(1)) | £90 |
+| 33\. | A fixed penalty offence under regulation 3 of the Goods Vehicles (Community Authorisations) Regulations 1992 | £60 |
+| 34\. | A fixed penalty offence under section 33(1) of the Vehicle Excise and Registration Act 1994 | £60 |
+| 35\. | A fixed penalty offence under Article 63 of the Road Traffic (Northern Ireland) Order 1995 | £60 |
+| 36\. | A fixed penalty offence under regulation 2 of the Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2002 | £60 |
+| 37\. | A fixed penalty offence under section 3(11) of the Taxis Act (Northern Ireland) 2008 | £60 |
+| 38\. | A fixed penalty offence under section 14(2) of the Taxis Act (Northern Ireland) 2008 (failing to present the taxi for inspection and testing in contravention of section 14(2)) | £60 |
+| 39\. | A fixed penalty offence under section 14(5)(a) of the Taxis Act (Northern Ireland) 2008 (failing to notify the Department of required details of a change of taxi ownership within 14 days in contravention of section 14(5)(a)) | £60 |
+| 40\. | A fixed penalty offence under section 14(5)(b) of the Taxis Act (Northern Ireland) 2008 (failing to return the taxi licence and the plate, disc, sign or distinguishing mark where there is a change of taxi ownership in contravention of section 14(5)(b)) | £60 |
+| 41\. | A fixed penalty offence under section 15(2) of the Taxis Act (Northern Ireland) 2008 (failing to exhibit taxi licence plate, disc, sign or distinguishing mark in or on a taxi in contravention of section 15(2) and regulation 12 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £60 |
+| 42\. | A fixed penalty offence under section 17 of the Taxis Act (Northern Ireland) 2008 (failing to display the prescribed rates, fares and charges in a taxi in contravention of section 17 and regulation 12 of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015) | £60 |
+| 43\. | A fixed penalty offence under section 18(1) of the Taxis Act (Northern Ireland) 2008 (causing or permitting a Class C or D licensed taxi to be fitted with a taximeter or device in contravention of section 18(1) and regulation 3(3) of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015) | £60 |
+| 44\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward without the fitment of suitable fire extinguishing apparatus in contravention of section 20 and regulation 23 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £60 |
+| 45\. | A fixed penalty offence under section 18(4) of the Taxis Act (Northern Ireland) 2008 (subject to the exemptions prescribed in regulation 15(2) of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015, failing to issue a receipt produced by the device constructed or adapted for the production of receipts to the person who hired the taxi or paid the fare in contravention of section 18(4)) | £30 |
+| 46\. | A fixed penalty offence under section 18(6) of the Taxis Act (Northern Ireland) 2008 (failure to operate the taximeter in contravention of section 18(6) and regulation 10 of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015) | £30 |
+| 47\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward without the fitment of a fully inflated spare tyre, an efficient lifting jack and a wheel brace or similar tool in contravention of section 20 and regulation 24 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £30 |
+| 48\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward whilst the bodywork, doors, upholstery and fittings of the taxi are in contravention of section 20 and regulation 20 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £30 |
+| 49\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a Class B taxi for hire or reward without a wheelchair sign in contravention of section 20 and regulation 26 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £30 |
+| 50\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward with insufficient baggage space in contravention of section 20 and regulation 22 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £30 |
+| 51\. | A fixed penalty offence under section 20 of the Taxis Act (Northern Ireland) 2008 (using a taxi for hire or reward without a roof sign in contravention of section 20 and regulation 25 of the Taxi Licensing Regulations (Northern Ireland) 2015) | £30 |
+| 52\. | A fixed penalty offence under section 24(3) of the Taxis Act (Northern Ireland) 2008 (failing to wear a taxi driver badge and display all other evidence of identification in such position and manner as to be plainly and distinctly visible in contravention of section 24(3)) | £30 |
+| 53\. | A fixed penalty offence under section 39(2)(b) of the Taxis Act (Northern Ireland) 2008 (failing to make suitable arrangements for the immediate conveyance of passengers upon being required to do so by an authorised officer or constable in uniform in contravention of section 39(2)(b)) | £30 |
+| 54\. | Any other fixed penalty offence involving obligatory endorsement | £60 |
+| 55\. | Any other fixed penalty offence | £30 |
+
+In this Schedule at items 54 and 55 a “fixed penalty offence” is an offence specified in the Road Traffic (Fixed Penalty) (Offences) Order (Northern Ireland) 1997.
+
+## SCHEDULE 2 — Graduated Fixed Penalties[^key-7cff1b2ffe261f5c565ef0446bf8a94b]
+
+Article 2A
+
+**1.** Article 56(1) of the Road Traffic (Northern Ireland) Order 1981
+
+<table>
+<thead>
+<tr><th rowspan="2">(1) Nature of contravention or failure constituting the offence</th><th colspan="3">(2) Seriousness of offence and applicable amount of penalty</th></tr>
+<tr><th>£60</th><th>£120</th><th>£200</th></tr>
+</thead>
+<tbody>
+<tr><td>1. Driving a vehicle or vehicles for more than 10 hours, contrary to regulation 5 of the Drivers’ Hours Regulations</td><td>More than 10 hours but less than 11 hours driving</td><td>11 hours or more but less than 12 hours driving</td><td>12 hours or more driving</td></tr>
+<tr><td>2. Failure to take an interval for rest and refreshment, contrary to regulation 4 of the Drivers’ Hours Regulations</td><td>Being on duty for up to 1 hour beyond the required break</td><td>Being on duty for 1 hour or more, but less than 2 hours, beyond the required break</td><td>Being on duty for 2 hours or more beyond the required break</td></tr>
+<tr><td>3. Failing to take a daily rest period between two successive working days, contrary to regulation 6(1) of the Drivers’ Hours Regulations</td><td>Less than 10 hours but more than 9 hours daily rest</td><td>9 hours or less but more than 8 hours daily rest</td><td>8 hours or less daily rest</td></tr>
+<tr><td>4. Failing to take a daily rest period between two successive working days by a driver of a passenger vehicle to which regulation 6(2) of the Drivers’ Hours Regulations applies</td><td>Less than 10 hours but more than 9 hours daily rest (or, in the case of a reduced daily rest period, less than 8.5 hours but more than 7.5 hours daily rest)</td><td>9 hours or less but more than 8 hours daily rest (or, in the case of a reduced daily rest period, 7.5 hours or less but more than 6.5 hours daily rest)</td><td>8 hours or less daily rest (or, in the case of a reduced daily rest period, 6.5 hours or less daily rest)</td></tr>
+<tr><td>5. Failing to take a daily rest period between two successive working days by a driver of a goods vehicle to which regulation 6(1) of the Drivers’ Hours Regulations applies</td><td>Less than 10 hours but more than 9 hours daily rest</td><td>9 hours or less but more than 8 hours daily rest</td><td>8 hours or less daily rest</td></tr>
+</tbody>
+</table>
+
+**2.** Article 81 of the Road Traffic (Northern Ireland) Order 1981
+
+<table>
+<thead>
+<tr><th rowspan="2">(1) Nature of contravention or failure constituting the offence</th><th colspan="3">(2) Seriousness of offence and applicable amount of penalty</th></tr>
+<tr><th>£60</th><th>£120</th><th>£200</th></tr>
+</thead>
+<tbody>
+<tr><td>1. Exceeding 9 hours daily driving, in contravention of paragraph 1 of Article 6(1) of the EC Regulation</td><td>More than 9 hours but less than 10 hours driving</td><td>10 hours or more but less than 11 hours driving</td><td>11 hours or more driving</td></tr>
+<tr><td>2. Exceeding 10 hours daily driving, in contravention of paragraph 2 of Article 6(1) of the EC Regulation</td><td>More than 10 hours but less than 11 hours driving</td><td>11 hours or more but less than 12 hours driving</td><td>12 hours or more driving</td></tr>
+<tr><td>3. Exceeding the weekly driving time of 56 hours, in contravention of Article 6(2) of the EC Regulation</td><td>More than 56 hours but less than 58 hours driving</td><td>58 hours or more but less than 59 hours driving</td><td>59 hours or more driving</td></tr>
+<tr><td>4. Exceeding 90 hours accumulated driving time in any two consecutive weeks, in contravention of Article 6(3) of the EC Regulation</td><td>More than 90 hours but less than 93 hours driving</td><td>93 hours or more but less than 94 hours driving</td><td>94 hours or more driving</td></tr>
+<tr><td>5. Exceeding 4.5 hours driving without a break, in contravention of Article 7 of the EC Regulation</td><td>More than 4.5 hours but less than 5.5 hours driving</td><td>5.5 hours or more but less than 6.5 hours driving</td><td>6.5 hours or more driving</td></tr>
+<tr><td>6. Insufficient regular daily rest period in 24 hour period, in contravention of Article 8(1) and (2) of the EC Regulation</td><td>Less than 11 hours but more than 10 hours daily rest</td><td>10 hours or less but more than 9 hours daily rest</td><td>9 hours or less daily rest</td></tr>
+<tr><td>7. Insufficient reduced daily rest period in 24 hour period, in contravention of Article 8(1) and (2) of the EC Regulation</td><td>Less than 9 hours but more than 8 hours daily rest</td><td>8 hours or less but more than 7 hours daily rest</td><td>7 hours or less daily rest</td></tr>
+<tr><td>8. Failure to take first rest of at least 3 consecutive hours where daily rest period is split, as required by the first indent of Article 4(g) of the EC Regulation and in contravention of Article 8(1) and (2) of that Regulation</td><td>Less than 3 hours but more than 2 hours rest</td><td>2 hours or less but more than 1 hours rest</td><td>1 hour or less rest</td></tr>
+<tr><td>9. Failure to take second rest of at least 9 consecutive hours where daily rest period is split, as required by the first indent of Article 4(g) of the EC Regulation, and in contravention of Article 8(1) and (2) of that Regulation</td><td>Less than 9 hours but more than 8 hours rest</td><td>8 hours or less but more than 7 hours rest</td><td>7 hours or less rest</td></tr>
+<tr><td>10. Failure to take daily rest period of at least 12 hours in total, where regular daily rest period is split, as required by the first indent of Article 4(g) of the EC Regulation and in contravention of Article 8(1) and (2) of that Regulation</td><td>Less than 12 hours but more than 11 hours rest</td><td>11 hours or less but more than 10 hours rest</td><td>10 hours or less rest</td></tr>
+<tr><td>11. Insufficient rest in 30 hour period by a driver engaged in multi-manning, in contravention of Article 8(1) and (5) of the EC Regulation</td><td>Less than 9 but more than 8 hours rest</td><td>8 hours or less but more than 7 hours rest</td><td>7 hours or less rest</td></tr>
+<tr><td>12. Insufficient regular weekly rest period, in contravention of Article 8(1) and (6) of the EC Regulation</td><td>Less than 45 hours but more than 43 hours weekly rest</td><td>43 hours or less but more than 42 hours weekly rest</td><td>42 hours or less weekly rest</td></tr>
+<tr><td>13. Insufficient reduced weekly rest period, in contravention of Article 8(1) and (6) of the EC Regulation</td><td>Less than 24 hours but more than 22 hours rest</td><td>22 hours or less but more than 21 hours rest</td><td>21 hours or less rest</td></tr>
+<tr><td>14. Failure to take equivalent period of compensatory rest before the end of the third week where reduced weekly rest period has been taken, as required by the second indent of Article 8(6) of the EC Regulation</td><td>Up to 3 hours less rest than required</td><td>3 hours or more but less than 4 hours less rest than required</td><td>4 hours or more less rest than required</td></tr>
+<tr><td>15. Exceeding 9 hours daily driving, in contravention of ...Article 6.1 of the AETR</td><td>More than 9 hours but less than 10 hours driving</td><td>10 hours or more but less than 11 hours driving</td><td>11 hours or more driving</td></tr>
+<tr><td>16. Exceeding 10 hours daily driving (where permitted), in contravention of ...Article 6.1 of the AETR</td><td>More than 10 hours but less than 11 hours driving</td><td>11 hours or more but less than 12 hours driving</td><td>12 hours or more driving</td></tr>
+<tr><td>16A. Exceeding the weekly driving time of 56 hours, in contravention of Article 6.2 of the AETR</td><td>More than 56 hours but less than 58 hours driving</td><td>58 hours or more but less than 59 hours driving</td><td>59 hours or more driving</td></tr>
+<tr><td>17. Exceeding 90 hours accumulated driving time in any two consecutive weeks, in contravention of Article 6.3 of the AETR</td><td>More than 90 hours but less than 93 hours driving</td><td>93 hours or more but less than 94 hours driving</td><td>94 hours or more driving</td></tr>
+<tr><td>18. Exceeding 4.5 hours driving without a break, in contravention of Article 7.1 of the AETR</td><td>More than 4.5 hours but less than 5.5 hours driving</td><td>5.5 hours or more but less than 6.5 hours driving</td><td>6.5 hours or more driving</td></tr>
+<tr><td>19. Insufficient regular daily rest period in 24 hour period in contravention of Articles 8.1 and 8.2 of the AETR</td><td>Less than 11 hours but more than 10 hours rest</td><td>10 hours or less but more than 9 hours rest</td><td>9 hours or less rest</td></tr>
+<tr><td>20. Insufficient reduced daily rest period ... in 24 hour period in contravention of Articles 8.1 and 8.2 of the AETR</td><td>Less than 9 hours but more than 8 hours rest</td><td>8 hours or less but more than 7 hours rest</td><td>7 hours or less rest</td></tr>
+<tr><td>21. ...</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>22. Failure to take first rest of at least 3 consecutive hours where daily rest period is split, as required by Article 1(o)(i) of the AETR and in contravention of Articles 8.1 and 8.2 of the AETR</td><td>Less than 3 hours but more than 2 hours rest</td><td>2 hours or less but more than 1 hours rest</td><td>1 hour or less rest</td></tr>
+<tr><td>22A. Failure to take second rest of at least 9 consecutive hours where daily rest period is split, as required by Article 1(o)(i) of the AETR and in contravention of Articles 8.1 and 8.2 of the AETR</td><td>Less than 9 hours but more than 8 hours rest</td><td>8 hours or less but more than 7 hours rest</td><td>7 hours or less rest</td></tr>
+<tr><td>23. Failure to take daily rest period of at least 12 hours in total where regular daily rest period is split , as required by Article 1(o)(i) of the AETR and in contravention of Articles 8.1 and 8.2 of the AETR</td><td>Less than 12 hours but more than 11 hours rest</td><td>11 hours or less but more than 10 hours rest</td><td>10 hours or less rest</td></tr>
+<tr><td>24. Insufficient rest in 30 hour period by a driver engaged in multi-manning, in contravention of Articles 8.1 and 8.3 of the AETR</td><td>Less than 9 hours but more than 8 hours rest</td><td>8 hours or less but more than 7 hours rest</td><td>7 hours or less rest</td></tr>
+<tr><td>25. Insufficient regular weekly rest period, in contravention of Articles 8.1 and 8.6(a) of the AETR</td><td>Less than 45 hours but more than 43 hours rest</td><td>43 hours or less but more than 42 hours rest</td><td>42 hours or less rest</td></tr>
+<tr><td>26. ...</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>27. Insufficient reduced weekly rest period ..., in contravention of Articles 8.1 and 8.6(a) of the AETR</td><td>Less than 24 hours but more than 22 hours rest</td><td>22 hours rest or less but more than 21 hours rest</td><td>21 hours or less rest</td></tr>
+<tr><td>28. Failure to take equivalent period of compensatory rest before the end of the third week where reduced weekly rest period has been taken, as required by Article 8.6(a)(ii) of the AETR</td><td>Up to 3 hours less rest than required</td><td>3 hours or more but less than 4 hours less rest than required</td><td>4 hours or more less rest than required</td></tr>
+</tbody>
+</table>
+
+[^key-0fb3f64584248c2d20ba16410795415c][^key-0fb3f64584248c2d20ba16410795415c][^key-dccf95cb631000435853369cb8cb5c40][^key-a358c747a5f73036f7cb7ebff6df6132][^key-4db04b0b4a93afd2e1152fe09feba85a][^key-d5ee69b783f4a940e6159b460588b4ac][^key-0cb5b2171ec12ddbb527e0076cca9404][^key-13c9857bc83dfb3a31549631a5709167][^key-f14f94d62294fcd4cc5b0a92f560e69e][^key-f14f94d62294fcd4cc5b0a92f560e69e][^key-f14f94d62294fcd4cc5b0a92f560e69e][^key-f14f94d62294fcd4cc5b0a92f560e69e][^key-fda44a7b283c2a79e826eb00bb14323a][^key-5085393ae56ec9729c5b4ae8e3f80183][^key-1b57c3015e93fdaccdd7477834271095][^key-be4dcc8742ad103f26e2b85bbd0b4ea1][^key-e05cba1fd6a2da67a82d586fc59969d4][^key-8894c1e20866720f4c15c277cae790ea][^key-e626a64bdedd8a3cafae36e7848e4351][^key-217824139bf7629d8cbf2e2610603d13][^key-e9b4330303e0e0d0c5dd1a47f5ce8f85][^key-e9b4330303e0e0d0c5dd1a47f5ce8f85][^key-e9b4330303e0e0d0c5dd1a47f5ce8f85][^key-e9b4330303e0e0d0c5dd1a47f5ce8f85][^key-c42d8ff2409e6f8a115f0c5ab1681c93][^key-af32c733e6d1731de9219a525a637a09][^key-a20c7d21eb36544082a3cd1745c7a403]
+
+**3.** Article 56 of the Road Traffic (Northern Ireland) Order 1995
+
+| (1) Nature of contravention or failure constituting the offence | (2) Amount of penalty |
+| --- | --- |
+| 1\. Contravention of regulation 32(1)(g) (condition and maintenance of tyres) of the Construction and Use Regulations | £120 |
+
+**4.** Article 57 of the Road Traffic (Northern Ireland) Order 1995
+
+<table>
+<thead>
+<tr><th rowspan="2">(1) Nature of contravention or the failure constituting the offence</th><th colspan="3">(2) Seriousness of offence and amount of penalty</th></tr>
+<tr><th>£60</th><th>£120</th><th>£200</th></tr>
+</thead>
+<tbody>
+<tr><td>1. Exceeding maximum authorised weight of vehicle, contrary to regulation 4(1)(a) of the Authorised Weight Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>2. Exceeding maximum authorised weight of vehicle combination, contrary to regulation 4(1)(b) of the Authorised Weight Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>3. Exceeding maximum authorised weight of axle, contrary to regulation 4(1)(c) of the Authorised Weight Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>4. Exceeding maximum permitted laden weight of a vehicle, contrary to regulation 87(1) of, and Parts I, IA and II of Schedule 13 to, the Construction and Use Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>5. Exceeding maximum permitted laden weight of trailer, contrary to regulation 87(3) of the Construction and Use Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>6. Exceeding maximum permitted laden weight of a vehicle and trailer, other than an articulated vehicle, contrary to regulation 88(1) of the Construction and Use Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>7. Exceeding any weights shown on the plate fitted in accordance with regulation 79 of the Construction and Use Regulations, contrary to regulation 93(1)(a) of those Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>8. Exceeding maximum gross weight in respect of an agricultural trailed appliance, contrary to regulation 93(1)(b) of the Construction and Use Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more , but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+<tr><td>9. Exceeding sum of weights in respect of axles fitted with a compensating arrangement, contrary to regulation 93(2) of the Construction and Use Regulations</td><td>Exceeding weight by up to 10%</td><td>Exceeding weight by 10% or more, but less than 15%</td><td>Exceeding weight by 15% or more</td></tr>
+</tbody>
+</table>
+
+**5.** Article 58 of the Road Traffic (Northern Ireland) Order 1995
+
+| (1) Nature of contravention or failure constituting the offence | (2) Amount of penalty |
+| --- | --- |
+| 1\. Failure to meet requirements regarding speed limiters, in accordance with regulation 42(2) of the Construction and Use Regulations | £120 |
+| 2\. Failure to meet requirements regarding speed limiters, in accordance with regulation 43(2) of the Construction and Use Regulations | £120 |
+| 3\. Failure to maintain vehicle, etc., or to carry, etc., passengers in accordance with regulation 115(1) of the Construction and Use Regulations, so as not to be a danger | £60 |
+| 4\. Failure to carry load in a secure manner, etc., in accordance with regulation 115(2) of the Construction and Use Regulations, so as not to be a danger or a nuisance | £60 |
+| 5\. Failure to use vehicle for suitable purposes, in accordance with regulation 115(3) of the Construction and Use Regulations, so as not to be a danger or nuisance | £60 |
+
+**6.** Regulation 3 of the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996
+
+| (1) Nature of contravention or failure constituting the offence | (2) Amount of penalty |
+| --- | --- |
+| 1\. Failure to ensure recording equipment installed in accordance with Article 3(1) of the[^key-60077d5ab78b2af05aa04a46b735f527] EU Tachographs Regulation | £200 |
+| 2\. Failure to ensure correct functioning of recording equipment or driver card, in accordance with Article 32(1) of the[^key-ffb137e9e3db09d17e1f3961a2c982a7] EU Tachographs Regulation | £60 |
+| 3\. Failure to ensure the proper use of the recording equipment, in accordance with Article 32(1) of the[^key-06654e0c3c5e292b209990469b655b65] EU Tachographs Regulation | £120 |
+| 4\. Failing to ensure the proper use of the driver card, in accordance with Article 32(1) of the[^key-71958448af609ba17da7e2fc98931c4e] EU Tachographs Regulation | £200 |
+| 5\. Failing to ensure that printing can be carried out correctly in the event of an inspection (other than a failure to provide sufficient printing material), in accordance with Article 33(1) of the[^key-e9d4ca73504649c7582319219b171692] EU Tachographs Regulation | £120 |
+| 6\. Failing to ensure that printing can be carried out correctly in the event of an inspection by a failure to provide sufficient printing material, in accordance with Article 33(1) of the[^key-62a44f31a4f65add2e485b3aee18497c] EU Tachographs Regulation | £60 |
+| 7\. Using a driver card of which the driver is not the holder , contrary to Article 27(2) of the[^key-007c87075203a24d9658bbb729913817] EU Tachographs Regulation | £200 |
+| 8\. Using a defective driver card, contrary to Article 27(2) of the[^key-69291f82ce3357266a232a41b6079786] EU Tachographs Regulation | £60 |
+| 9\. Failure, at the start of the journey, to print out information required, etc, in accordance with Article 35(2)(a) of the[^key-4969f01dd1a37e0a632f748d0b150f37] EU Tachographs Regulation | £120 |
+| 10\. Failure, at the end of the journey, to print out the information required, etc, in accordance with Article 35(2)(b) of the[^key-6064f0fd910763da7fdf35ee9e55d599] EU Tachographs Regulation | £120 |
+| 11\. Failure to use record sheets or driver card, in accordance with Article 34(1) of the[^key-67f206ee565cf59374c94bdfaf04a2e0] EU Tachographs Regulation | £200 |
+| 12\. Unauthorised withdrawal of record sheet or driver card, contrary to Article 34(1) of the[^key-6fcd58c0c5ce83e326dea797967cdefa] EU Tachographs Regulation | £120 |
+| 13\. Failure to enter legibly on the record sheet, when away from the vehicle, periods of time, in accordance with Article 34(3) of the[^key-38c9e57aec573145013796287587abaa] EU Tachographs Regulation | £120 |
+| 14\. Failure to amend record sheet or driver card as necessary when more than one driver on board the vehicle, in accordance with Article 34(4) of the[^key-6659e8f6b19140a1a8501d2ffea62361] EU Tachographs Regulation | £120 |
+
+**7.**[^key-e74c78a23e52abde696e055d84821ea5] Regulation 3A of the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996
+
+| (1) Nature of contravention or failure constituting the offence | (2) Amount of penalty |
+| --- | --- |
+| 1\. Failure to ensure recording equipment installed in accordance with regulation 3A(1) of the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996 | £200 |
+| 2\. Failure to ensure the correct functioning of recording equipment or driver card, in accordance with Article 10 of the Annex to the AETR | £60 |
+| 3\. Failure to ensure the proper use of the recording equipment, in accordance with Article 10 of the Annex to the AETR | £120 |
+| 4\. Failure to ensure the proper use of the driver card, in accordance with Article 10 of the Annex to the AETR | £200 |
+| 5\. Failure to ensure that printing can be carried out correctly in the event of an inspection (other than a failure to provide sufficient printing material), in accordance with the second sub-paragraph of Article 11.1 of the Annex to the AETR | £120 |
+| 6\. Failure to ensure that printing can be carried out correctly in the event of an inspection by a failure to provide sufficient printing material, in accordance with the first sub-paragraph of Article 11.1 of the Annex to the AETR | £60 |
+| 7\. Using driver card of which the driver is not the holder, contrary to the third sub-paragraph of Article 11.4(a) of the Annex to the AETR | £200 |
+| 8\. Using a defective driver card, contrary to the third sub-paragraph of Article 11.4(a) of the Annex to the AETR | £60 |
+| 9\. Failure to use record sheets or driver card, in accordance with the first sub-paragraph of Article 12.2(a) of the Annex to the AETR | £200 |
+| 10\. Unauthorised withdrawal of record sheet or driver card, contrary to the first sub-paragraph of Article 12.2(a) of the Annex to the AETR | £120 |
+| 11\. Failure to enter legibly on the record sheet, when away from the vehicle, periods of time, in accordance with Article 12.2(b) of the Annex to the AETR | £120 |
+| 12\. Failure to amend record sheet or driver card as necessary when more than one driver on board the vehicle, in accordance with paragraph (2)(c) or the second sub-paragraph of paragraph (2)(a) of Article 12 of the Annex to the AETR | £120 |
+| 13\. Failure at the start of the journey, to print out information required, etc, in accordance with Article 13.2(b)(i) of the Annex to the AETR | £120 |
+| 14\. Failure, at the end of the journey, to print out information required, etc, in accordance with Article 13.2(b)(ii) of the Annex to the AETR | £120 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and replaces with amendments the Road Traffic (Fixed Penalty) Order (Northern Ireland) 2001. The amendments—
+
+- (a) prescribe fixed penalties for the following offences involving obligatory endorsement—
+  - (i) an offence under Article 90 of the Road Traffic (Northern Ireland) Order 1981 for which the fixed penalty is £200.00,
+  - (ii) an offence under Article 177 of that Order for which the fixed penalty is £120.00; and
+- (b) increase the fixed penalties from £30.00 to £60.00 for the following offences which do not involve obligatory endorsement—
+  - (i) an offence under section 33(1) of the Vehicle Excise and Registration Act 1994, and
+  - (ii) an offence under Article 63 of the Road Traffic (Northern Ireland) Order 1995.
+
+The fixed penalty for all other offences involving obligatory endorsement remains at £60.00 and the fixed penalty for all other offences which do not involve obligatory endorsement remains at £30.00.
+
+The Order comes into operation on 30th July 2007 and applies only to offences committed on or after that date.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
+
+[^key-e4b8d6e203baa9904b6f1e45fb44e3ed]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/319/article/1) in operation at 30.7.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/319/article/1/1)
+
+[^key-a3442f75bee50b249d8b9f1bdc49f823]: Commencement: Art. 1 in operation at 30.7.2007 with application in accordance with art. 1(2)
+
+[^key-bf0fc40e0bcf1897dea6537d57306f8c]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/nisr/2007/319/article/1A) inserted (12.9.2011) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/288)](https://www.legislation.gov.uk/nisr/2011/288), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/288/article/2/2), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/288/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Article 90 was amended by [S.I. 1984/1986 (N.I. 15)](https://www.legislation.gov.uk/nisi/1984/1986), [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194), [S.R. 1994 No. 18](https://www.legislation.gov.uk/nisr/1994/18) and [S.R. 2000 No. 331](https://www.legislation.gov.uk/nisr/2000/331)
+
+[^f00004]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Article 177 was amended by [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320) and [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
+
+[^key-fb147cd450370a357dd04827950f4754]: Textual amendment: Words in [art. 1A](https://www.legislation.gov.uk/nisr/2007/319/article/1A) omitted (31.10.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/2)
+
+[^f00005]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
+
+[^f00006]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); Article 63 was amended by [S.I. 2004/1990 (N.I. 14)](https://www.legislation.gov.uk/nisi/2004/1990)
+
+[^f00007]: Footnote: [S.R. 1997 No. 369](https://www.legislation.gov.uk/nisr/1997/369) as amended by [S.R. 1999 No. 354](https://www.legislation.gov.uk/nisr/1999/354) and [S.R. 2007 No. 318](https://www.legislation.gov.uk/nisr/2007/318)
+
+[^key-e0f1c250f1b9732bf4bacec8214f8c82]: Textual amendment: Words in [art. 1A](https://www.legislation.gov.uk/nisr/2007/319/article/1A) added (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/2)
+
+[^key-9c8096312902f4731c0fb553e85362cd]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/319/article/2) in operation at 30.7.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/319/article/1/1)
+
+[^key-05554c07ef866f5a6bf3e1229ded2874]: Commencement: Art. 2 in operation at 30.7.2007 with application in accordance with art. 1(2)
+
+[^key-9cbeccffb2966eae0918bf9c0822b028]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2007/319/article/2) substituted (12.9.2011) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/288)](https://www.legislation.gov.uk/nisr/2011/288), [art. 2(3)(a)](https://www.legislation.gov.uk/nisr/2011/288/article/2/3/a), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/288/regulation/1/1)
+
+[^key-050498a98de7ed42a332d11cdfae28eb]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2007/319/article/2) inserted (12.9.2011) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/288)](https://www.legislation.gov.uk/nisr/2011/288), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2011/288/article/2/3/b), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/288/regulation/1/1)
+
+[^key-b97817b077cd2f71432e464d128ee32a]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/nisr/2007/319/article/2A) inserted (12.9.2011) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/288)](https://www.legislation.gov.uk/nisr/2011/288), [art. 2(4)](https://www.legislation.gov.uk/nisr/2011/288/article/2/4), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/288/regulation/1/1)
+
+[^key-3579927f05f1c7297b07bf524f9e3e30]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2007/319/article/3) in operation at 30.7.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/319/article/1/1)
+
+[^key-02f7d102dd94d432f9cc9ea317066f52]: Commencement: Art. 3 in operation at 30.7.2007 with application in accordance with art. 1(2)
+
+[^f00002]: Footnote: [S.R. 2001 No. 3](https://www.legislation.gov.uk/nisr/2001/3)
+
+[^key-5341621752c343174b581e5092a3e56c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/319/schedule/1) substituted (31.5.2016) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/182)](https://www.legislation.gov.uk/nisr/2016/182), [art. 2](https://www.legislation.gov.uk/nisr/2016/182/article/2)
+
+[^key-2578e9a755b96a19e3548c499425fc7e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/319/schedule/1) Table item 5A inserted (30.6.2021) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/336)](https://www.legislation.gov.uk/nisr/2020/336), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2020/336/article/1/1), [2](https://www.legislation.gov.uk/nisr/2020/336/article/2)
+
+[^key-2e226952f4808a0525838ed8efd01690]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/319/schedule/1) Table item 25A inserted (15.5.2023) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/71)](https://www.legislation.gov.uk/nisr/2023/71), [arts. 1](https://www.legislation.gov.uk/nisr/2023/71/article/1), [2](https://www.legislation.gov.uk/nisr/2023/71/article/2)
+
+[^key-7cff1b2ffe261f5c565ef0446bf8a94b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/319/schedule), Sch. 2 substituted for Sch. (12.9.2011) by [The Road Traffic (Fixed Penalty) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/288)](https://www.legislation.gov.uk/nisr/2011/288), [art. 2(5)](https://www.legislation.gov.uk/nisr/2011/288/article/2/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/288/regulation/1/1)
+
+[^key-0fb3f64584248c2d20ba16410795415c]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 15 16 omitted (11.3.2019) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/a)
+
+[^key-dccf95cb631000435853369cb8cb5c40]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 16A inserted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/b)
+
+[^key-a358c747a5f73036f7cb7ebff6df6132]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 17 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/c)
+
+[^key-4db04b0b4a93afd2e1152fe09feba85a]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 19 inserted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(d)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/d/i)
+
+[^key-d5ee69b783f4a940e6159b460588b4ac]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 19 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/d/ii)
+
+[^key-0cb5b2171ec12ddbb527e0076cca9404]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 20 omitted (11.3.2019) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(e)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/e/i)
+
+[^key-13c9857bc83dfb3a31549631a5709167]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 20 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(e)(ii)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/e/ii)
+
+[^key-f14f94d62294fcd4cc5b0a92f560e69e]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 21 omitted (11.3.2019) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(f)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/f)
+
+[^key-fda44a7b283c2a79e826eb00bb14323a]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 22 22A substituted for Table item 22 (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(g)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/g)
+
+[^key-5085393ae56ec9729c5b4ae8e3f80183]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 23 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(h)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/h/i)
+
+[^key-1b57c3015e93fdaccdd7477834271095]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 23 inserted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(h)(ii)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/h/ii)
+
+[^key-be4dcc8742ad103f26e2b85bbd0b4ea1]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 24 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(i)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/i)
+
+[^key-e05cba1fd6a2da67a82d586fc59969d4]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 24 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs.](https://www.legislation.gov.uk/nisr/2019/12/regulation), [1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2) 27(2(i)(ii)
+
+[^key-8894c1e20866720f4c15c277cae790ea]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 24 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/i)[(iii)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/iii)
+
+[^key-e626a64bdedd8a3cafae36e7848e4351]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 24 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/i)[(iv)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/iv)
+
+[^key-217824139bf7629d8cbf2e2610603d13]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 25 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(j)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/j)
+
+[^key-e9b4330303e0e0d0c5dd1a47f5ce8f85]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 26 omitted (11.3.2019) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(k)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/k)
+
+[^key-c42d8ff2409e6f8a115f0c5ab1681c93]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 27 omitted (11.3.2019) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(l)(i)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/l/i)
+
+[^key-af32c733e6d1731de9219a525a637a09]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 27 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(l)(ii)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/l/ii)
+
+[^key-a20c7d21eb36544082a3cd1745c7a403]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/2) Table item 28 substituted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(2)(m)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/2/m)
+
+[^key-60077d5ab78b2af05aa04a46b735f527]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/a)
+
+[^key-ffb137e9e3db09d17e1f3961a2c982a7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/b)
+
+[^key-06654e0c3c5e292b209990469b655b65]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/b)
+
+[^key-71958448af609ba17da7e2fc98931c4e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/b)
+
+[^key-e9d4ca73504649c7582319219b171692]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/c)
+
+[^key-62a44f31a4f65add2e485b3aee18497c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/c)
+
+[^key-007c87075203a24d9658bbb729913817]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(d)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/d)
+
+[^key-69291f82ce3357266a232a41b6079786]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(d)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/d)
+
+[^key-4969f01dd1a37e0a632f748d0b150f37]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(e)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/e)
+
+[^key-6064f0fd910763da7fdf35ee9e55d599]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(f)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/f)
+
+[^key-67f206ee565cf59374c94bdfaf04a2e0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(g)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/g)
+
+[^key-6fcd58c0c5ce83e326dea797967cdefa]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(g)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/g)
+
+[^key-38c9e57aec573145013796287587abaa]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(h)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/h)
+
+[^key-6659e8f6b19140a1a8501d2ffea62361]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2007/319/schedule/2) Table 6 substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [6(3)(i)](https://www.legislation.gov.uk/nisr/2016/343/regulation/6/3/i)
+
+[^key-e74c78a23e52abde696e055d84821ea5]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/319/schedule/2/paragraph/7) inserted (11.3.2019) by [The Drivers’ Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [27(3)](https://www.legislation.gov.uk/nisr/2019/12/regulation/27/3)

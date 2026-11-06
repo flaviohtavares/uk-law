@@ -1,0 +1,179 @@
+---
+title: The Administration of Insolvent Estates of Deceased Persons (Amendment) Order (Northern Ireland) 2003
+id: nisr/2003/103
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2003-02-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2003/103
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2003/103/pdfs/nisr_20030103_en.pdf
+- http://www.legislation.gov.uk/nisr/2003/103/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Administration of Insolvent Estates of Deceased Persons (Amendment) Order (Northern Ireland) 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 103
+
+INSOLVENCY
+
+INDIVIDUALS
+
+The Administration of Insolvent Estates of Deceased Persons (Amendment) Order (Northern Ireland) 2003
+
+Made
+
+19th February 2003
+
+To be laid before Parliament
+
+Coming into operation
+
+1st April 2003
+
+The Lord Chancellor, in exercise of the powers conferred upon him by Articles 365(1) of the Insolvency (Northern Ireland) Order 1989[^f00001] and of all the powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00002], hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Administration of Insolvent Estates of Deceased Persons (Amendment) Order (Northern Ireland) 2003 and shall come into operation on 1st April 2003.
+
+(2) In this Order, references to “the 1991 Order” are references to the Administration of Insolvent Estates of Deceased Persons Order (Northern Ireland) 1991[^f00003].
+
+## 2. Amendments to the Administration of Insolvent Estates of Deceased Persons Order (Northern Ireland) 1991
+
+(1) The 1991 Order is amended as provided in this Order.
+
+(2) Anything done before 1st April 2003 under or for the purposes of any provision of the 1991 Order is not invalidated by the amendment of that provision by this Order, but it has effect as if done under or for the purposes of the provision as amended.
+
+## 3. Amendments to Schedules to the Administration of Insolvent Estates of Deceased Persons Order (Northern Ireland) 1991
+
+(1) After paragraph 5(c) of Part II of Schedule 1 to the 1991 Order (who may present a bankruptcy petition) insert–
+
+> - (ca) at the end of paragraph 1(ba) there shall be added the words “in Form 1, with such variations as the case requires (if any), set out in Schedule 3 to the Administration of Insolvent Estates of Deceased Persons Order (Northern Ireland) 1991”;
+> - (cb) at the end of paragraph 1(bb) there shall be added the words “in Form 1, with such variations as the case requires (if any), set out in Schedule 3 to the Administration of Insolvent Estates of Deceased Persons Order (Northern Ireland) 1991”;
+
+(2) For paragraph 6(a) of Part II of Schedule 1 to the 1991 Order (modified version of Article 240 of the Insolvency (Northern Ireland) Order 1989) substitute–
+
+> - (a) for paragraph (1) there shall be substituted the following:–
+>
+>   > (1) An insolvency administration petition shall:–
+>   >
+>   > - (a) if a liquidator (within the meaning of Article 2(b) of the EC Regulation [^f00004]) has been appointed in proceedings by virtue of Article 3(1) of the EC Regulation in relation to the deceased debtor, be served on him;
+>   > - (b) unless the High Court directs otherwise, be served on the personal representative; and
+>   > - (c) be served on such other persons as the Court may direct.
+>
+>   ; and
+
+.
+
+(3) For paragraph 30 of Part II of Schedule 1 to the 1991 Order (modified version of Article 303 of the Insolvency (Northern Ireland) Order 1989) substitute–
+
+**30.** Article 303 with the following modifications:–
+
+- (a) in paragraph (5) for the words “the bankrupt is entitled to the surplus” there shall be substituted the words “the surplus shall be paid to the personal representative unless the Court otherwise orders”, and
+- (b) after paragraph (5) there shall be added:–
+
+  > (6) Paragraph (5) is subject to Article 35 of the EC Regulation (surplus in secondary proceedings to be transferred to main proceedings).
+
+  .
+
+(4) The forms contained in the Schedule to this Order are substituted for the forms identically numbered in Schedule 3 to the 1991 Order.
+
+Irvine of Lairg, *C.*
+
+Dated 19th February 2003.
+
+The Department of Enterprise, Trade and Investment hereby concurs with the foregoing Order.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 26th February 2003.
+
+Michael J. Bohill
+
+Senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE — AMENDED FORMS
+
+Article 3
+
+### THE ADMINISTRATION OF INSOLVENT ESTATES OF DECEASED PERSONS ORDER (NORTHERN IRELAND) 1991
+
+FORM 1
+
+creditor’s petition for insolvency administration order
+
+In the High Court of Justice in Northern Ireland Chancery Division (Bankruptcy)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_001) [image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_002) [image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_003) [image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_004)
+
+### THE ADMINISTRATION OF INSOLVENT ESTATES OF DECEASED PERSONS ORDER (NORTHERN IRELAND) 1991
+
+FORM 2
+
+petition for insolvency administration order by supervisor of voluntary arrangement or person bound by it
+
+In the High Court of Justice in Northern Ireland Chancery Division (Bankruptcy)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_005) [image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_006) [image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_007)
+
+### THE ADMINISTRATION OF INSOLVENT ESTATES OF DECEASED PERSONS ORDER (NORTHERN IRELAND) 1991
+
+FORM 3
+
+insolvency administration order
+
+In the High Court of Justice in Northern Ireland Chancery Division (Bankruptcy)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_008)
+
+### THE ADMINISTRATION OF INSOLVENT ESTATES OF DECEASED PERSONS ORDER (NORTHERN IRELAND) 1991
+
+FORM 4
+
+insolvency administration order on transfer of proceedings
+
+In the High Court of Justice in Northern Ireland Chancery Division (Bankruptcy)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_009)
+
+### THE ADMINISTRATION OF INSOLVENT ESTATES OF DECEASED PERSONS ORDER (NORTHERN IRELAND) 1991
+
+FORM 5
+
+petition by personal representative for insolvency administration order
+
+In the High Court of Justice in Northern Ireland Chancery Division (Bankruptcy)
+
+[image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_010) [image: see source](https://www.legislation.gov.uk/nisr/2003/103/images/nisr_20030103_en_011)
+
+(This note is not part of the Order)
+
+This Order amends the Administration of Insolvent Estates of Deceased Persons Order (Northern Ireland) 1991 ([S.R. 1991 No. 365](https://www.legislation.gov.uk/nisr/1991/365)) (“the 1991 Order”) in the light of Council Regulation (EC) No. 1346/2000 of 29th May 2000 on insolvency proceedings Official Journal No. L160, 30.06.00. p. l (“the EC Regulation”) which came into force on 31st May 2002.
+
+The EC Regulation aims to provide for the efficient and effective functioning of cross-border insolvency proceedings in the European Union.
+
+The amendments made by this Order are–
+
+- to specify which form a liquidator (within the meaning of Article 2(b) of the EC Regulation) appointed in proceedings by virtue of Article 3(1) of the EC Regulation or a temporary administrator (within the meaning of Article 38 of the EC Regulation) must use to petition for an insolvency administration order (“temporary administrator” and “main proceedings” are defined in the EC Regulation);
+- to require that, where such a liquidator has been appointed, a petition will need to be served on him;
+- to provide expressly that modified Article 303 of the Insolvency (Northern Ireland) Order 1989 is subject to Article 35 of the EC Regulation;
+- to substitute the forms in the 1991 Order with forms which require consideration of whether the EC Regulation applies to the proceedings in question.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405) to which the most recent relevant amendments were made by [S.R. 2002 No. 223](https://www.legislation.gov.uk/nisr/2002/223)
+
+[^f00002]: Footnote: Formerly the Department of Economic Development; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
+
+[^f00003]: Footnote: [S.R. 1991 No. 365](https://www.legislation.gov.uk/nisr/1991/365)
+
+[^f00004]: Footnote: Council Regulation (EC) 1346/2000, O.J. No. L160, 30.06.00 p.1

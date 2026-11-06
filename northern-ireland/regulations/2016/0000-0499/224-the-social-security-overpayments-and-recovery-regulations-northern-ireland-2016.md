@@ -1,0 +1,1039 @@
+---
+title: The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016
+id: nisr/2016/224
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2016-05-03'
+text_date: '2017-09-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/224
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/224/pdfs/nisrem_20160224_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2016/224/pdfs/nisrem_20160224_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/224/pdfs/nisr_20160224_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/224/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2017-09-27. See https://www.legislation.gov.uk/changes/affected/nisr/2016/224
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 224
+
+Social Security
+
+Housing
+
+Rates
+
+The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016
+
+Made
+
+3rd May 2016
+
+Laid before Parliament
+
+10th May 2016
+
+Coming into operation in accordance with regulation 1(2) and (3)
+
+The Secretary of State for Works and Pensions makes the following Regulations in exercise of the powers conferred by sections 69(4), (6)(a) and (b), (8) and (9A) to (9C), 69ZA, 69ZB(2)(b) to (5), 69ZC(1) to (3), 69ZD, 69ZF, 69ZG, 69ZH, 72(2), 73(4), (5)(a) and (8) to (10), 74(2) and (3B) to (3D), 109B(4A) and 165(1), (4), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Article 38(1) of the Welfare Reform (Northern Ireland) Order 2015[^f00002].
+
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1) of the Welfare Reform (Northern Ireland) Order 2015.
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-106a0e74cd5d567efb9f3942496d59ed]
+
+(1) These Regulations may be cited as the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016.
+
+(2) The following provisions come into operation on 20th June 2016—
+
+- (a) this Part;
+- (b) Part 6;
+- (c) regulation 31 except paragraphs (2)(c), (d) and (f), (4)(b), and paragraph (7) in so far as it relates to universal credit;
+- (d) regulation 32(1), (2) in so far as it relates to personal independence payment, and (3); and
+- (e) regulation 33(1), (2) in so far as it relates to personal independence payment, and (3).
+
+(3) All other provisions come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016[^f00003].
+
+### 2. Interpretation[^key-af00894d8fd9c39a797252386142113f]
+
+(1) In these Regulations—
+
+- “the 2007 Act” means the Welfare Reform Act (Northern Ireland) 2007[^f00004];
+- “the 2015 Order” means the Welfare Reform (Northern Ireland) Order 2015;
+- “the Administration Act” means the Social Security Administration (Northern Ireland) Act 1992;
+- “the Claims and Payments Regulations” means the Universal Credit, Personal Independence payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016[^f00005];
+- “assessment period” has the same meaning as in the Universal Credit Regulations;
+- “claimant” means the person who has claimed the benefit concerned;
+- “couple” has the same meaning as in Part 2 of the 2015 Order;
+- “employment and support allowance” means an allowance under Part 1 of the 2007 Act (as amended by Schedule 3 and Part 1 of Schedule 12 to the 2015 Order that remove references to an income-related allowance);
+- “housing costs” means any amount included in an award of universal credit in respect of rent payments as defined in paragraph 2 of Schedule 1 to the Universal Credit Regulations;
+- “jobseeker’s allowance” means an allowance under the Jobseekers Order (as amended by Part 1 of Schedule 12 to the 2015 Order that remove references to an income-based allowance);
+- “the Jobseekers Order” means the Jobseekers (Northern Ireland) Order 1995[^f00006];
+- “liable person” means the person from whom a recoverable amount is recoverable;
+- “overpayment” means an amount of—
+  - (a) universal credit, jobseeker’s allowance or employment and support allowance which may be recovered by the Department by virtue of section 69ZB(1) of the Administration Act;
+  - (b) [^key-96ef8f153a30d25806896d177fe9b4c5]...
+- “overpayment period” means the period over which an overpayment accrues;
+- “partner” means, where the person being referred to is a member of a couple, the other member of the couple;
+- “recoverable amount” is to be construed in accordance with regulation 3;
+- “universal credit” means universal credit under Part 2 of the 2015 Order;
+- “the Universal Credit Regulations” means the Universal Credit Regulations (Northern Ireland) 2016.
+
+(2) Subject to paragraph (3), the Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(3) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+## PART 2 — Recoverability
+
+### 3. Recoverable amounts[^key-51bbc432c56c633192c14fda60c94029]
+
+(1) In these Regulations “recoverable amount” means—
+
+- (a) subject to regulations 7 to 9, the amount of any overpayment; and
+- (b) any other amount recoverable under any provision of the Administration Act specified in paragraph (2).
+
+(2) Those provisions are—
+
+- (a) section 69ZE[^f00010] (court action etc.);
+- (b) section 69ZG (recovery of payments on account);
+- (c) section 69ZH (recovery of hardship payments etc.); and
+- (d) section 109B(4)[^f00011] (penalty as alternative to prosecution: colluding employers, etc.).
+
+### 4. Persons from whom an overpayment may be recovered[^key-fe071aff44a26198792038f6a4d30ae8]
+
+(1) The following paragraphs apply for determining the person from whom an overpayment is recoverable in the circumstances specified in those paragraphs.
+
+(2) Where the payee is a person appointed under regulation 52 of the Claims and Payments Regulations (persons unable to act) or a person to whom the Department has directed that payment be made in accordance with regulation 53 of those Regulations (payment to another person on the claimant’s behalf), then the overpayment is recoverable from the claimant in addition to the payee.
+
+(3) Where the payee is a person to whom universal credit, jobseeker’s allowance or employment and support allowance has been paid pursuant to Schedule 5 to the Claims and Payments Regulations (deductions from benefit and direct payment to third parties), then, to the extent that the amount paid does not exceed the amount payable to the payee under that Schedule, the overpayment is recoverable from the claimant instead of the payee.
+
+(4) Paragraphs (5) to (7) apply only in relation to overpayments of housing costs.
+
+(5) Where the Department is satisfied that an overpayment occurred in consequence of any change of dwelling occupied by the claimant as the claimant’s home, then if the claimant and the payee are not the same person, the overpayment is recoverable from the claimant in addition to the payee.
+
+(6) Where the Department is satisfied that an overpayment occurred in consequence of a misrepresentation, or a failure to disclose a material fact (in either case, whether fraudulent or otherwise), by any person (“M”), then, if M and the payee are not the same person, the overpayment is recoverable from M instead of the payee.
+
+(7) Where the Department is satisfied that an overpayment occurred for a reason other than that mentioned in paragraph (5) or (6), then, except where paragraph (2) or (8) applies in relation to the overpayment, if the claimant and the payee are not the same person, the overpayment is recoverable from the claimant instead of the payee.
+
+(8) This paragraph applies where an overpayment occurred due to the amount of the payment exceeding the amount of housing costs for which the claimant is liable.
+
+(9) In this regulation “payee” means the person to whom the overpayment has been paid.
+
+### 5. Circumstances in which a determination need not be reversed, varied, revised or superseded prior to recovery[^key-95964c82189249005829d81c38f6d009]
+
+Section 69ZB(3) of the Administration Act (recovery of overpayments of certain benefits) does not apply where the circumstances of the overpayment do not provide a basis for the decision pursuant to which the payment was made to be revised under Article 10 of the Social Security (Northern Ireland) Order 1998[^f00012] (revision of decisions) or superseded under Article 11 of that Order (decisions superseding earlier decisions).
+
+## PART 3 — Prevention of duplication of payments
+
+### 6. Duplication and prescribed income[^key-e8e0cd1865b1dd10d62e704acceec8fd]
+
+(1) The income prescribed for the purpose of section 69ZB(5) of the Administration Act (recovery of overpayments of certain benefits) is any income which falls to be taken into account in accordance with Chapters 2 and 3 of Part 6 of the Universal Credit Regulations (calculation of capital and income).
+
+(2) The date prescribed for the payment of income for the purpose of that subsection is—
+
+- (a) where the payment of income is made in respect of a specific day or period, that day or the first day of that period;
+- (b) where the payment of income is not so made, the day or first day of the period to which it is fairly attributable.
+
+## PART 4 — Calculation of recoverable amount of an overpayment
+
+### 7. Diminution of capital[^key-a3b8d69e1004634a5f0c1be38d5819eb]
+
+(1) Paragraph (2) applies where—
+
+- (a) there is an overpayment of universal credit which occurred as a consequence of an error relating to the amount of a person’s capital; and
+- (b) the overpayment period is 3 months or more.
+
+(2) Where this paragraph applies, the Department must, for the purpose only of calculating the recoverable amount of that overpayment—
+
+- (a) at the end of the first 3 months of the overpayment period, treat the amount of that capital as having been reduced by the amount of universal credit overpaid during those 3 months;
+- (b) at the end of each subsequent period of 3 months, if any, of the overpayment period, treat the amount of that capital as having been further reduced by the amount of universal credit overpaid during the immediately preceding 3 months.
+
+(3) Capital is not to be treated as reduced over any period other than 3 months in any circumstances other than those for which paragraph (2) provides.
+
+### 8. Sums to be deducted[^key-d606df6dc757614db7129240419a841c]
+
+(1) In calculating the recoverable amount of an overpayment of jobseeker’s allowance or employment and support allowance, the Department must deduct the amounts specified in paragraphs (2) and (3).
+
+(2) Any amount which has been offset under regulation 16.
+
+(3) Any additional amount of universal credit which is not payable to the claimant or the claimant’s partner under the original or any other determination but which should have been determined to be payable in respect of all or part of the overpayment period to the claimant, or to the claimant and the claimant’s partner jointly—
+
+- (a) on the basis of the claim for universal credit as presented to the Department;
+- (b) on the basis of that claim as it would have appeared if any change of circumstances, except a change of the dwelling which the claimant occupies as the claimant’s home, had been notified at the time that change occurred;
+- (c) where the overpayment arose by virtue of a misrepresentation or a failure to disclose a material fact, on the basis that that misrepresentation or failure had been remedied prior to the award being made; or
+- (d) where the overpayment arose by virtue of an error made by, or on behalf of, the Department, on the basis that that error had not been made.
+
+### 9. Sums to be deducted: change of dwelling[^key-095ff0fb682a8b7b87bd46e99365c33c]
+
+(1) This regulation applies where an overpayment of housing costs has occurred in the following circumstances—
+
+- (a) the claimant has moved from the dwelling previously occupied as the claimant’s home (“dwelling A”) to another dwelling which the claimant occupies as the claimant’s home (“dwelling B”);
+- (b) the claimant has been awarded housing costs in respect of dwelling A to which the claimant is not entitled because of no longer occupying or being treated as occupying dwelling A as the claimant’s home; and
+- (c) housing costs are payable to the same person in respect of the claimant’s occupation of dwelling B as it was paid to in respect of dwelling A.
+
+(2) In calculating the recoverable amount of the overpayment, the Department may, at its discretion, deduct an amount equal to the claimant’s entitlement to housing costs for the assessment period in respect of dwelling B for the number of assessment periods equal to the number of assessment periods during which the claimant was overpaid housing costs in respect of dwelling A.
+
+(3) Where a sum has been deducted under paragraph (2), an equivalent sum is to be treated as having been paid in respect of the claimant’s entitlement to housing costs in respect of dwelling B for the number of assessment periods equal to the number of assessment periods during which the claimant was overpaid housing costs in respect of dwelling A.
+
+## PART 5 — The process of recovery
+
+### 10. Recovery by deduction from benefits[^key-50651b3372deb75a28133a7aaf594f45]
+
+(1) Subject to regulations 11 to 14, the Department may recover a recoverable amount from a liable person by deduction from the benefits specified in paragraph (2) which are payable to that person.
+
+(2) Those benefits are—
+
+- (a) benefits under Parts 2 to 5 of the Contributions and Benefits Act;
+- (b) universal credit;
+- (c) jobseeker’s allowance;
+- (d) employment and support allowance;
+- (e) state pension credit payable under the State Pension Credit Act (Northern Ireland) 2002[^f00013];
+- (f) personal independence payment payable under Part 5 of the 2015 Order; and
+- (g) a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00014].
+
+### 11. Recovery by deduction from universal credit[^key-187088df7f22acf33f3a4be2e227bbf2]
+
+(1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from universal credit payable to the liable person.
+
+(2) Subject to paragraphs (5) to (9), regulation 10 is to apply to the amount of universal credit to which the liable person is presently entitled to the extent that there may be recovered in any one assessment period—
+
+- (a) in a case to which paragraph (3) applies, an amount equivalent to not more than 40 per cent. of the appropriate universal credit standard allowance;
+- (b) in a case to which paragraph (4) applies but paragraph (3) does not apply, an amount equivalent to not more than 25 per cent. of the appropriate universal credit standard allowance; and
+- (c) in any other case, an amount equivalent to not more than 15 per cent. of the appropriate universal credit standard allowance.
+
+(3) This paragraph applies where deductions from universal credit are made to recover from the liable person—
+
+- (a) the whole or part of an overpayment in respect of which the liable person has—
+  - (i) been found guilty of an offence whether under statute or otherwise,
+  - (ii) made an admission after caution of deception or fraud for the purpose of obtaining benefit under the Administration Act or a tax credit under the Tax Credits Act 2002, or
+  - (iii) agreed to pay a penalty under section 109A of the Administration Act[^f00015] (penalty as alternative to prosecution) and the agreement has not been withdrawn; or
+- (b) a payment which is recoverable by virtue of section 69ZH of the Administration Act (recovery of hardship payments etc.).
+
+(4) This paragraph applies where amounts are deducted from earned income in an award of universal credit by virtue of regulation 23(1)(b) of the Universal Credit Regulations (deduction of income and work allowance).
+
+(5) Paragraph (2) is subject to paragraphs 4 and 5 of Schedule 5 to the Claims and Payments Regulations (deductions from benefit and direct payment to third parties).
+
+(6) For the purpose of paragraph (2), where the relevant percentage of the appropriate universal credit standard allowance results in a fraction of a penny, that fraction is to be disregarded if it is less than half a penny otherwise it is to be treated as a penny.
+
+(7) No deduction under paragraph (2) is to be applied so as to reduce the universal credit in respect of an assessment period to less than one penny.
+
+(8) The limitations in paragraph (2) do not apply where the deduction falls to be made from any payment of arrears of universal credit other than any arrears caused by the operation of regulation 45 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations (Northern Ireland) 2016[^f00016] (making of payments which have been suspended).
+
+(9) The limitations in paragraph (2) do not apply where—
+
+- (a) the recoverable amount is an overpayment of housing costs; and
+- (b) the person from whom that amount falls to be recovered is not the claimant.
+
+(10) In this regulation and regulation 14 “admission after caution” means an admission after a caution has been administered in accordance with a Code issued under the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00017].
+
+(11) In paragraph (2) “the appropriate universal credit standard allowance” means the appropriate universal credit standard allowance included in the award of universal credit made to the liable person, or to the liable person and that person’s partner as joint claimants[^f00018] by virtue of regulation 38 of the Universal Credit Regulations (amounts of elements).
+
+### 12. Recovery by deduction from jobseeker’s allowance[^key-63169700eea5e9602afdb7fb3cb2c784]
+
+(1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from jobseeker’s allowance payable to the liable person.
+
+(2) Subject to paragraphs (3) and (4), regulation 10 is to apply to the amount of a jobseeker’s allowance to which the liable person is presently entitled to the extent that there may be recovered in respect of any benefit week an amount equivalent to 40 per cent. of the age-related amount applicable to the liable person as specified in regulation 49 of the Jobseeker’s Allowance Regulations (Northern Ireland) 2016 (weekly amounts of jobseeker’s allowance)[^f00019].
+
+(3) Paragraph (2) is subject to paragraphs 4 and 5 of Schedule 5 to the Claims and Payments Regulations (deductions from benefit and direct payment to third parties).
+
+(4) Where the amount deductible under paragraph (2) is not a multiple of 5 pence, it is to be rounded up to the next higher such multiple.
+
+(5) In paragraph (2) “benefit week” has the same meaning as in regulation 2(2) of the Jobseeker’s Allowance Regulations (Northern Ireland) 2016 (general interpretation).
+
+### 13. Recovery by deduction from employment and support allowance[^key-1b4a1f0969b07fd496d69e379530f405]
+
+(1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from employment and support allowance payable to the liable person.
+
+(2) Subject to paragraphs (3) and (4), regulation 10 is to apply to the amount of an employment and support allowance to which the liable person is presently entitled to the extent that there may be recovered in respect of any one benefit week an amount equivalent to 40 per cent. of the age-related amount applicable to the liable person as specified in regulation 62(1)(b) of the Employment and Support Allowance Regulations (Northern Ireland) 2016[^f00020] (prescribed amounts).
+
+(3) Paragraph (2) is subject to paragraphs 4 and 5 of Schedule 5 to the Claims and Payments Regulations (deductions from benefit and direct payment to third parties).
+
+(4) Where the amount deductible under paragraph (2) is not a multiple of 5 pence, it is to be rounded up to the next higher such multiple.
+
+(5) In paragraph (2) “benefit week” has the same meaning as in regulation 2 of the Employment and Support Allowance Regulations (Northern Ireland) 2016 (interpretation).
+
+### 14. Recovery by deduction from state pension credit[^key-e166a3da5c11b5476cfba35d0406c9d8]
+
+(1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from state pension credit payable to the liable person.
+
+(2) Subject to paragraphs (4) and (5), regulation 10 is to apply to the amount of state pension credit to which the liable person is presently entitled to the extent that there may be recovered in any one benefit week—
+
+- (a) in a case to which paragraphs (3) applies, an amount equivalent to not more than 25 per cent. of the standard allowance for a single person aged 25 or over under regulation 38 of the Universal Credit Regulations (amounts of elements); and
+- (b) in any other case, an amount equivalent to not more than 15 per cent. of that allowance.
+
+(3) This paragraph applies where deductions from state pension credit are made to recover from the liable person—
+
+- (a) the whole or part of an overpayment in respect of which the liable person has—
+  - (i) been found guilty of an offence whether under statute or otherwise,
+  - (ii) made an admission after caution of deception or fraud for the purpose of obtaining universal credit, jobseeker’s allowance or employment and support allowance, or
+  - (iii) agreed to pay a penalty under section 109A of the Administration Act (penalty as alternative to prosecution) and the agreement has not been withdrawn; or
+- (b) a payment which is recoverable by virtue of section 69ZH of the Administration Act (recovery of hardship payments etc.).
+
+(4) Where the amount deductible under paragraph (2) is not a multiple of 5 pence, it is to be rounded up to the next higher such multiple.
+
+(5) No deduction made under paragraph (2) is to be applied so as to reduce the state pension credit in respect of a benefit week to less than 10 pence.
+
+(6) In this regulation “benefit week” has the same meaning as in regulation 1(2) of the State Pension Credit Regulations (Northern Ireland) 2003[^f00021] (interpretation).
+
+### 15. Restrictions on recovery of rent and consequent notifications[^key-e1ec22b100d5ff942b10ccdc50a0806d]
+
+(1) Paragraph (2) applies where, pursuant to section 69ZC(2)(b) of the Administration Act, an amount of housing costs has been, or falls to be, recovered by deduction from benefit paid to a person (“the landlord”) to discharge (in whole or in part) an obligation owed to the landlord by the person on whose behalf the recoverable amount was paid (“the tenant”).
+
+(2) Where, in respect of the overpayment of that amount, the landlord has—
+
+- (a) been found guilty of an offence whether under statute or otherwise; or
+- (b) agreed to pay a penalty under section 109A of the Administration Act (penalty as alternative to prosecution) and the agreement has not been withdrawn,
+
+that obligation is to be taken to be discharged by the amount of the deduction.
+
+(3) In any case to which paragraph (2) applies or will apply when recovery is made, the Department must notify both the landlord and the tenant that—
+
+- (a) the overpayment that it has recovered or that the Department has determined to recover (“that sum”) is, or will be, one to which paragraph (2) applies; and
+- (b) the landlord has no right in relation to that sum against the tenant, and that the tenant’s obligation to the landlord is to be taken to be discharged by the amount so recovered.
+
+### 16. Offsetting[^key-d1d18d1287d7a6a8ea208ee8519b3c4c]
+
+(1) Paragraph (2) applies where a person has been paid a sum of benefit under a decision (“the original decision”) which is subsequently—
+
+- (a) revised or further revised;
+- (b) superseded or further superseded; or
+- (c) set aside on an appeal.
+
+(2) Any universal credit, jobseeker’s allowance or employment and support allowance paid in respect of a period covered by the subsequent decision is to be offset against arrears of entitlement to benefit under that decision and, except to the extent that the universal credit, jobseeker’s allowance or employment and support allowance exceeds the arrears, is to be treated as properly paid on account of them.
+
+(3) Where an amount has been deducted under regulation 8 or 9 (sums to be deducted in calculating recoverable amounts), an equivalent sum is to be offset against any arrears of entitlement under the subsequent decision except to the extent that the sum exceeds the arrears and is to be treated as properly paid on account of them.
+
+(4) No amount may be offset under paragraph (2) which is an overpayment.
+
+(5) In this regulation “subsequent decision” means the decision referred to in paragraph (1)(a), (b) or (c) which was taken in relation to the original decision.
+
+## PART 6 — Recovery by deduction from earnings
+
+### 17. Interpretation of this Part[^key-baa7e387c9909ebf9cdf1ba9556ebca9]
+
+(1) In this Part—
+
+- “appropriate authority”, in relation to any recoverable amount, means—
+  - (a) the Department; or
+  - (b) the Housing Executive if the recoverable amount is recoverable by it under section 109B(4)(a)[^f00022] of the Administration Act,
+
+  and where a notice has been issued “the appropriate authority” means the appropriate authority which issued the notice;
+- “notice” means a notice issued by an appropriate authority requiring an employer to make deductions from earnings to be paid by the employer to a liable person employed by that employer and to pay corresponding amounts to that appropriate authority in respect of the recovery of a recoverable amount from the liable person;
+- “pay-day” in relation to a liable person means an occasion on which earnings are paid to that person or the day on which such earnings would normally fall to be paid;
+- “protected earnings proportion”, in relation to a deduction by an employer from a liable person’s net earnings, is 60 per cent. of the liable person’s net earnings during the period to which the deduction relates, as calculated by the liable person’s employer on the relevant pay-day.
+
+(2) In this Part, subject to paragraph (3), “earnings” means any sums payable to a person by way of—
+
+- (a) wages or salary (including any fees, bonus, commission, overtime pay or other emoluments payable in addition to wages or salary payable under a contract of service);
+- (b) pension which is paid with wages or salary (including an annuity in respect of past service, whether or not rendered to the person paying the annuity, and including periodical payments by way of compensation for the loss, abolition or relinquishment, or diminution in the emoluments, of any office or employment); or
+- (c) statutory sick pay.
+
+(3) “Earnings” does not include—
+
+- (a) sums payable by any public department of a territory outside the United Kingdom;
+- (b) pay or allowances payable to the liable person as a member of Her Majesty’s forces other than pay or allowances payable by the employer to that person as a special member of a reserve force (within the meaning of the Reserve Forces Act 1996[^f00023]);
+- (c) pensions, allowances or benefits payable under any statutory provision relating to social security;
+- (d) pensions or allowances payable in respect of disablement or disability;
+- (e) guaranteed minimum pension within the meaning of the Pension Schemes (Northern Ireland) Act 1993[^f00024];
+- (f) working tax credit payable under section 10 of the Tax Credits Act 2002;
+- (g) sums paid to reimburse expenses wholly and necessarily incurred in the course of the employment.
+
+(4) “Net earnings” means the residue of earnings after deduction of—
+
+- (a) income tax;
+- (b) primary Class 1 contributions under Part 1 of the Contributions and Benefits Act;
+- (c) amounts deductible by way of contributions to a superannuation scheme which provides for the payment of annuities or lump sums—
+  - (i) to the employee on retirement at a specified age or on becoming incapacitated at some earlier age, or
+  - (ii) on the employee’s death or otherwise, to that person’s personal representative, widow, widower, surviving civil partner, relatives or dependants.
+
+(5) Where these Regulations refer to a notice or notification being given or sent, if sent by ordinary post to the last known address of the recipient, it is to be treated as having been given or sent on the day on which it is posted.
+
+### 18. Notices[^key-233582f9fcf6ac2370db1ccf54a4b8d3]
+
+(1) A notice must be given or sent to—
+
+- (a) the liable person; and
+- (b) any employer of the liable person who is to make deductions from the liable person’s earnings in accordance with the notice.
+
+(2) A notice must specify—
+
+- (a) the full name and address of the liable person;
+- (b) the name of the employer at whom the notice is directed;
+- (c) where known, the liable person’s place of work, the nature of that person’s work and any staff number, payroll number or similar identifying number;
+- (d) the liable person’s national insurance number;
+- (e) the deduction or rate of deduction to be made in accordance with regulation 19;
+- (f) the protected earnings proportion;
+- (g) the address to which amounts deducted from earnings are to be sent if paid by cheque; and
+- (h) details of the account into which such amounts are to be transferred if paid by direct credit transfer.
+
+(3) The notice has effect from the next pay-day which falls a minimum of 22 days after the day on which it is given or sent.
+
+(4) References in paragraphs (1) to (3) to a notice include references to a notice as varied in accordance with regulation 24(1).
+
+### 19. Amount to be deducted by employer[^key-9903cc9b78aaf1c8a4a707e48c791d4b]
+
+(1) This regulation applies where an employer has received from an appropriate authority a notice in respect of a liable person in the employer’s employment.
+
+(2) Subject to the following provisions of this regulation, the employer must, each pay-day, make a deduction in accordance with paragraph (3) or (5) from the net earnings which the employer would otherwise pay to the liable person on that pay-day.
+
+(3) Except where paragraph (5) applies, the amount to be deducted is—
+
+- (a) where the liable person’s earnings are payable weekly, the percentage of that person’s earnings specified in column 2 of Table A in the Schedule opposite the band in column 1 of that Table within which the net earnings payable on that person’s pay-day fall;
+- (b) where the liable person’s earnings are payable monthly, the percentage of that person’s earnings specified in column 2 of Table B in the Schedule opposite the band in column 1 of that Table within which the net earnings payable on that person’s pay-day fall; or
+- (c) a lower amount calculated in the manner specified by the appropriate authority in the notice.
+
+(4) Paragraph (5) applies where deductions from earnings are made to recover from the liable person the whole or part of an overpayment in respect of which the liable person has been found guilty of an offence whether under statute or otherwise.
+
+(5) Where this paragraph applies, the amount to be deducted by the employer is—
+
+- (a) where the liable person’s earnings are payable weekly, the percentage of that person’s earnings specified in column 2 of Table C in the Schedule opposite the band in column 1 of that Table within which the net earnings payable on that person’s pay-day fall;
+- (b) where the liable person’s earnings are payable monthly, the percentage of that person’s earnings specified in column 2 of Table D in the Schedule opposite the band in column 1 of that Table within which the net earnings payable on that person’s pay-day fall; or
+- (c) a lower amount calculated in the manner specified by the appropriate authority in the notice.
+
+(6) Where any amount calculated under paragraph (3) or (5) results in a fraction of a penny, that fraction is to be disregarded if it is half a penny or less otherwise it is to be treated as a penny.
+
+(7) The employer must continue to make deductions in accordance with paragraph (3) or (5) unless and until—
+
+- (a) the employer is notified by the appropriate authority that the notice—
+  - (i) has been varied in accordance with regulation 24,
+  - (ii) has been discharged under regulation 25,
+  - (iii) has lapsed under regulation 26; or
+- (b) the employer considers that, as a result of deductions under this regulation, the balance of the recoverable amount which falls to be recovered from the liable person is nil.
+
+(8) Where, on any pay-day (“the relevant pay-day”), the employer fails to deduct an amount under paragraph (3) or (5) or deducts an amount less than the amount there specified, the employer must, on the next available pay-day or pay-days, first deduct the amount required to be deducted under paragraph (3) or, as the case may be, (5) for that pay-day and then the difference between the amount, if any, which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
+
+(9) Where a deduction made in accordance with paragraph (3), (5) or (8) would reduce the amount paid to the liable person below the protected earnings proportion, the employer must deduct only such amount as will result in the employer paying the liable person an amount equal to the protected earnings proportion.
+
+(10) Where, on any pay-day (“the relevant pay-day”), the employer deducts more than the amount required to be deducted under paragraph (3) or (5), the employer must, on the next available pay-day or pay-days, deduct only the amount required to be deducted under paragraph (3) or, as the case may be, (5) less the difference between the amount which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
+
+(11) Where, on any pay-day, an employer makes a deduction from the earnings of a liable person in accordance with the notice, the employer may also deduct an additional amount not exceeding £1 in respect of administrative costs and such deduction for administrative costs may reduce the amount which the employer pays to the liable person on that pay-day below the protected earnings proportion.
+
+### 20. Employer to notify liable person of deduction[^key-ab73abf8347b9c06b32e1658a306de27]
+
+(1) An employer making a deduction from earnings for the purpose of these Regulations must notify the liable person in writing of the amount of the deduction including any amount deducted for administrative costs under regulation 19(11).
+
+(2) Such notification must be given or sent not later than the pay-day on which the deduction is made or, where that is impracticable, not later than the following pay-day.
+
+(3) An employer must, within 28 days of receiving a written request from the liable person, provide that person with an explanation in writing of how the first amount referred to in paragraph (1) was calculated.
+
+### 21. Payment by employer to the appropriate authority[^key-32c34071ca9d4fde95ee820205a8d222]
+
+(1) Amounts deducted by an employer pursuant to regulation 19 (other than any administrative costs deducted under paragraph (11) of that regulation) must be paid by the employer to the appropriate authority by the 19th day of the month following the month in which the deduction is made.
+
+(2) Such payment may be made by—
+
+- (a) cheque;
+- (b) direct credit transfer; or
+- (c) such other method as the appropriate authority may permit.
+
+(3) The employer must keep a record of every amount paid to an appropriate authority pursuant to paragraph (1) and of the employee in respect of whom each such amount was paid.
+
+### 22. Information to be provided by the liable person[^key-510af5b2e2187074deb253eeeb4fc0d4]
+
+(1) A liable person who has been given or sent a notice in accordance with regulation 19(1)(a) must notify the appropriate authority in writing within 7 days of each occasion on which that person—
+
+- (a) leaves the employment of an employer named in a notice issued by the appropriate authority in respect of the liable person; or
+- (b) becomes employed or re-employed.
+
+(2) A notification under paragraph (1)(b) must include—
+
+- (a) the name and address of the employer or employers if more than one;
+- (b) the amount of the liable person’s earnings or expected earnings; and
+- (c) the liable person’s place of work, nature of work and any staff number, pay roll number or similar identifying number.
+
+### 23. Duty of employers and others to notify appropriate authority[^key-225fa6dbe58fe8f8475a86e1d18063d6]
+
+(1) In this regulation “P” means the liable person.
+
+(2) Where a notice is given or sent to a person who is believed to be an employer of P but P is not in that person’s employment, that person must notify the appropriate authority of that fact in writing, at the address specified in the notice, within 10 days after the day on which the notice is given or sent.
+
+(3) In paragraph (4) “E” means an employer of P.
+
+(4) Where E is required to make deductions under a notice and P ceases to be in E’s employment, E must notify the appropriate authority of that fact in writing, at the address specified in the notice, within 10 days after the day on which P ceased to be in E’s employment.
+
+### 24. Power to vary notices[^key-e613f17383523a91d71bdde548927411]
+
+(1) The appropriate authority may vary a notice so as to—
+
+- (a) decrease any amount to be deducted under regulation 19; or
+- (b) with the agreement of the liable person, increase any such amount but only to the extent that such deductions will result in the employer paying the liable person an amount more than, or equal to, the protected earnings proportion.
+
+(2) Where a notice has been varied and a copy of the notice as varied has been given or sent in accordance with regulation 18(1) and (4), any employer who is liable to make deductions under the notice must comply with the notice as varied from the day it takes effect by virtue of regulation 18(3).
+
+### 25. Discharge of notices[^key-de0050e96eb1f3046d780b054c67bef0]
+
+(1) The appropriate authority must discharge a notice where the recoverable amount is no longer outstanding.
+
+(2) The appropriate authority may discharge a notice where—
+
+- (a) the notice appears to it to be defective;
+- (b) the notice appears to it to be ineffective or that some other method of recovering the recoverable amount would be more effective; or
+- (c) the liable person agrees with the appropriate authority to pay the recoverable amount by another method.
+
+(3) A notice may be considered to be defective for the purpose of paragraph (2)(a) where it does not comply with the requirements of regulation 18(2) and such failure to comply has made it impracticable for an employer to comply with the employer’s obligations under these Regulations.
+
+(4) Notification of the discharge of the notice under paragraph (1) or (2) must be given or sent to the liable person and the employer from whom deductions from the liable person’s earnings were being made.
+
+(5) Where a notice is discharged by virtue of paragraph (2)(b) or (c) regulation 21 nevertheless applies in respect of any deductions made in respect of the employment but not yet paid to the appropriate authority.
+
+### 26. Lapse of notices[^key-ade6e19b579576df7181179b5f06d731]
+
+(1) Where a liable person in respect of whom deductions are being made in accordance with a notice ceases to be in the employment of an employer, subject to paragraph (2), the notice is to lapse immediately after the pay-day coinciding with, or the pay-day following, the termination of the employment.
+
+(2) Where a notice lapses by virtue of paragraph (1) regulation 21 nevertheless applies in respect of any deductions made or to be made in respect of the employment but not yet paid to the appropriate authority.
+
+### 27. Crown employment[^key-220829843fb8ca1e17046fdbd7f377f0]
+
+(1) Where a liable person is in the employment of the Crown and a notice is to be sent in respect of that person, then for the purposes of these Regulations—
+
+- (a) the chief officer for the time being of the government department, office or other body in which the liable person is employed is to be treated as having the liable person in that officer’s employment (any transfer of the liable person from one department, office or body to another being treated as a change of employment); and
+- (b) any earnings paid by the Crown, a minister of the Crown or a government department, or out of the public revenue of the United Kingdom or Northern Ireland, is to be treated as paid by that chief officer.
+
+(2) In this regulation “government department” includes a department of the government of the United Kingdom.
+
+### 28. Priority as between notices and orders requiring deduction from earnings[^key-98fad020c153b29956af359c0be2e1c9]
+
+(1) In this regulation—
+
+- “child support order” means a deduction from earnings order under Part 3 of the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00025];
+- “other deduction order” means an order, other than a child support order, under any other statutory provision which requires deduction from a person’s earnings.
+
+(2) Paragraphs (3) to (8) have effect subject to paragraph (9).
+
+(3) Paragraph (4) applies where an employer would otherwise be obliged, on any pay-day, to make deductions from the earnings which the employer would otherwise pay to the liable person on that pay-day under two or more notices.
+
+(4) Where this paragraph applies, the employer must make deductions under any later notice as if the earnings to which it relates were the residue of the liable person’s earnings after the making of any deduction to comply with any earlier notice.
+
+(5) Paragraph (6) applies where an employer would otherwise be obliged, on any pay-day, to make deductions from the earnings which the employer would otherwise pay to the liable person on that pay-day, under one or more notices and one or more child support orders.
+
+(6) Where this paragraph applies, the employer must first make deductions under the child support orders and then make deductions under the notices.
+
+(7) Paragraph (8) applies where an employer would otherwise be obliged, on any pay-day, to make deductions from the earnings which the employer would otherwise pay to the liable person on that pay-day, under one or more notices and one or more other deduction orders.
+
+(8) Where this paragraph applies, the employer must—
+
+- (a) in a case where there is at least one other deduction order in effect on the first pay-day in respect of which deductions would otherwise be made under the notice, first make deductions under the other deduction orders and then under any notices;
+- (b) in any other case, make deductions under the other deduction order and the notices according to the respective dates on which they were made, disregarding any later notice or order until deductions have been made under the earlier one.
+
+(9) An employer may only make deductions under paragraph (4), (6) or (8) up to the extent that such deductions will result in the employer paying the liable person an amount equal to or greater than the protected earnings proportion.
+
+### 29. Offences[^key-07f78abc21ccaa3b6102e05d6a405947]
+
+A person who fails to comply with any of the provisions of regulation 19(2), 21(1) or (3) or 22 is guilty of an offence punishable on summary conviction by a fine not exceeding level 3 on the standard scale.
+
+## PART 7 — Consequential amendments and revocations
+
+### 30. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^key-6578ba1b8a382472e6edeca34b217b90]
+
+In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00026] (benefits from which an award may be recovered) before paragraph (a) insert—
+
+> - (za) universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015;
+
+.
+
+### 31. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-ad3222e9f5945b06aa4bd76b8cfb737c][^key-3a6282655061ee586476ab46df391093]
+
+(1)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00027], as they have effect otherwise than for the purposes of tax credits, are amended in accordance with paragraphs (2) to (9).
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] after the definition of “the 1998 Order” insert—
+
+  > - “the 2015 Order” means the Welfare Reform (Northern Ireland) Order 2015;
+
+  ;
+- (b)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] in the definition of “benefit”[^f00028] after “state pension credit” insert “, personal independence payment”;
+- (c)[^key-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “disability working allowance”[^f00029] insert—
+
+  > - “employment and support allowance” means, for the purposes of Parts III to VI, employment and support allowance under Part 1 of the Welfare Reform Act as that Part has effect apart from the amendments made by Schedule 3 and Part 1 of Schedule 12 to the 2015 Order that remove references to the an income-related allowance;
+
+  ;
+- (d)[^key-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “Income Support Regulations” insert—
+
+  > - “the Jobseekers Order” means the Jobseekers (Northern Ireland) Order 1995;
+  > - “jobseeker’s allowance” means, for the purposes of Parts III to VI, jobseeker’s allowance under the Jobseekers Order as that Order has effect apart from the amendments made by Part 1 of Schedule 12 to the 2015 Order that remove references to an income-based allowance;
+
+  ;
+- (e)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] after the definition of “the Jobseeker’s Allowance Regulations”[^f00030] insert—
+
+  > - “personal independence payment” means the allowance under Part 5 of the 2015 Order;
+
+  and
+- (f)[^key-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “the State Pension Credit Regulations”[^f00031] insert—
+
+  > - “universal credit” means the benefit under Part 2 of the 2015 Order;
+
+  .
+
+(3)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 5(2) (offsetting prior payment against subsequent award) in Case 2 after “another benefit” insert “or, as the case may be, universal credit”.
+
+(4) In regulation 8 (duplication and prescribed payments)—
+
+- (a)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] in paragraph (1) after sub-paragraph (a) insert—
+
+  > - (aa) any personal independence payment;
+
+  ; and
+- (b)[^key-056615aa3d9cc4e032c63c15fa7d8497] in paragraph (2) after “income support,” insert “universal credit,”.
+
+(5)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 11 (recovery of overpayments by automated or other direct credit transfer) before paragraph (1) insert—
+
+> (A1) This regulation applies only in respect of payments of benefit to which section 69 of the Administration Act applies.
+
+.
+
+(6)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] For regulation 13[^f00032] (sums to be deducted in calculating recoverable amounts) substitute—
+
+> **13. Sums to be deducted in calculating recoverable amounts**
+>
+> (1) Subject to paragraph (1C), in calculating an amount recoverable under section 69(1) of the Administration Act or under regulation 11, the adjudicating authority must deduct—
+>
+> - (a) any amount which has been offset under Part III;
+> - (b) any additional amount of a benefit specified in paragraph (1A) which was not payable under the original, or any other, determination but which should have been determined to be payable in respect of all or part of the overpayment period to the claimant or his partner—
+>   - (i) on the basis of the claim as presented to the adjudicating authority, or
+>   - (ii) on the basis that any misrepresentation or failure to disclose a material fact has been remedied prior to the award being made.
+>
+> (1A) The specified benefits are—
+>
+> - (a) universal credit;
+> - (b) income support;
+> - (c) state pension credit;
+> - (d) income-based jobseeker’s allowance;
+> - (e) income-related employment and support allowance.
+>
+> (1B) In paragraph (1) “the overpayment period” means the period over which the overpayment accrued.
+>
+> (1C) No other deduction is to be made in respect of any other entitlement to benefit which may be, or might have been, determined to exist.
+
+.
+
+(7)[^key-3a6282655061ee586476ab46df391093][^key-056615aa3d9cc4e032c63c15fa7d8497] In regulation 15(2)[^f00033] (recovery by deduction from prescribed benefits) after sub-paragraph (f) add—
+
+> - (g) any personal independence payment;
+> - (h) any universal credit.
+
+.
+
+(8)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 16 (limitations on deductions from prescribed benefits)—
+
+- (a) after paragraph (2) insert—
+
+  > (2A) Paragraphs (3) to (7) do not apply where paragraph (7A) applies.
+
+  ;
+- (b) in paragraph (4)[^f00034]—
+  - (i) omit “, subject to paragraphs 8 and 9 of Schedule 8A to the Claims and Payments Regulations,”, and
+  - (ii) in sub-paragraph (b) after “in any other case,” insert “subject to paragraphs 8 and 9 of Schedule 8A to the Claims and Payments Regulations,”;
+- (c) in paragraph (5)[^f00035] for “shall be 5 times” substitute “shall, subject to paragraph (5ZA), be 8 times”;
+- (d) after paragraph (5) insert—
+
+  > (5ZA) In a case to which paragraph (5) applies, where deductions fall to be made under Schedule 8A to the Claims and Payments Regulations (deductions from benefits and direct payment to third parties), the total of the amount deductible under paragraph (5) and the amount deductible under that Schedule shall not exceed 8 times 5 per cent. of the personal allowance mentioned in paragraph (5).
+
+  ; and
+- (e) after paragraph (7) insert—
+
+  > (7A) This paragraph applies where the benefit from which the deduction is to be made under regulation 15 is universal credit.
+  >
+  > (7B) Where paragraph (7A) applies, regulation 11 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 applies in relation to those deductions as it applies to deductions from universal credit for the recovery of recoverable amounts under those Regulations.
+
+  .
+
+(9)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] After Part VIII (recovery by deductions from earnings following trade dispute) insert—
+
+> **PART VIIIA — Recovery by deduction from earnings: other cases**
+>
+> **29A. Recovery by deduction from earnings: other cases**
+>
+> (1) Any amount which is recoverable by virtue of section 69(1) or (4), 69ZA or 74(1) of the Administration Act may be recovered by the Department by deduction from the earnings of the person from whom it is recoverable.
+>
+> (2) Part 6 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 applies in relation to recovery by deduction from the earnings of a person specified in paragraph (1) by the Department as it applies to recovery by deduction from the earnings of persons of recoverable amounts under that Part by an appropriate authority.
+
+.
+
+### 32. Amendment of the Housing Benefit Regulations[^key-40edeb865c9545db4dd3acb5dd6271d5][^key-d9a5300690fa187dead3d1b88eb9dcf8]
+
+(1)[^key-40edeb865c9545db4dd3acb5dd6271d5] The Housing Benefit Regulations (Northern Ireland) 2006[^f00036] are amended in accordance with paragraphs (2) and (3).
+
+(2)[^key-d9a5300690fa187dead3d1b88eb9dcf8][^key-e9588b538446eb093a01340ba7349ff5] In regulation 102[^f00037] (recovery of overpayments from prescribed benefits)—
+
+- (a) in paragraph (1) after sub-paragraph (f) add—
+
+  > - (g) personal independence payment;
+  > - (h) universal credit.
+
+  ; and
+- (b) in paragraph (2A)—
+  - (i) omit “and” after sub-paragraph (c), and
+  - (ii) after sub-paragraph (d) add—
+
+    > - (e) personal independence payment;
+    > - (f) universal credit.
+
+    .
+
+(3)[^key-40edeb865c9545db4dd3acb5dd6271d5] After regulation 103 (prescribed benefits) insert—
+
+> **103A. Recovery by deduction from earnings**
+>
+> (1) Any overpayment which is recoverable by virtue of regulation 97 may be recovered by a relevant authority by deduction from the earnings of the person from whom it is recoverable.
+>
+> (2) Part 6 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 applies in relation to the recovery of overpayments by deduction from the earnings of a person specified in paragraph (1) by a relevant authority as it applies to the recovery of recoverable amounts by deduction from the earnings of persons under that Part by an appropriate authority.
+
+.
+
+### 33. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-25247fc83c5233ded77a316994a6b558][^key-eab77dbe53f3c5835be1623aa6452fe4]
+
+(1)[^key-25247fc83c5233ded77a316994a6b558] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00038] shall be amended in accordance with paragraphs (2) and (3).
+
+(2)[^key-eab77dbe53f3c5835be1623aa6452fe4][^key-44aa593e92169743db404a300ca6b642] In regulation 83[^f00039] (recovery of overpayments from prescribed benefits)—
+
+- (a) in paragraph (1) after sub-paragraph (f) add—
+
+  > - (g) personal independence payment;
+  > - (h) universal credit.
+
+  ; and
+- (b) in paragraph (2A)—
+  - (i) omit “and” after sub-paragraph (c), and
+  - (ii) after sub-paragraph (d) add—
+
+    > - (e) personal independence payment;
+    > - (f) universal credit.
+
+    .
+
+(3)[^key-25247fc83c5233ded77a316994a6b558] After regulation 83 insert—
+
+> **83A. Recovery by deduction from earnings**
+>
+> (1) Any overpayment which is recoverable by virtue of regulation 78 may be recovered by a relevant authority by deduction from the earnings of the person from whom it is recoverable.
+>
+> (2) Part 6 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 applies in relation to the recovery of overpayments by deduction from the earnings of a person specified in paragraph (1) by a relevant authority as it applies to the recovery of recoverable amounts by deduction from the earnings of persons under that Part by an appropriate authority.
+
+.
+
+### 34. Revocations[^key-7eae703259521d76ab49c9bcd484bb42]
+
+Regulation 26(6)(c) of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003[^f00040], regulation 15(8) of the Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008[^f00041] and regulation 2(2) and (3)(a) of the Social Security (Recovery) (Amendment) Regulations (Northern Ireland) 2012[^f00042] are revoked.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Priti Patel
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE[^key-1ee210874b279408c4b1706dc39a1cea]
+
+Regulation 19(3) and (5)
+
+WHERE EARNINGS ARE PAID WEEKLY
+
+<table>
+<thead>
+<tr><th>Amount of net earnings</th><th colspan="2">Deduction (percentage of net earnings)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £100</td><td></td><td>Nil</td></tr>
+<tr><td>Exceeding £100 but not exceeding £160</td><td></td><td>3</td></tr>
+<tr><td>Exceeding £160 but not exceeding £220</td><td></td><td>5</td></tr>
+<tr><td>Exceeding £220 but not exceeding £270</td><td></td><td>7</td></tr>
+<tr><td>Exceeding £270 but not exceeding £375</td><td></td><td>11</td></tr>
+<tr><td>Exceeding £375 but not exceeding £520</td><td></td><td>15</td></tr>
+<tr><td>Exceeding £520</td><td></td><td>20</td></tr>
+</tbody>
+</table>
+
+TABLE B: CASES WHERE REGULATION 19(3) APPLIES
+
+WHERE EARNINGS ARE PAID MONTHLY
+
+<table>
+<thead>
+<tr><th>Amount of net earnings</th><th colspan="2">Deduction (percentage of net earnings)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £430</td><td></td><td>Nil</td></tr>
+<tr><td>Exceeding £430 but not exceeding £690</td><td></td><td>3</td></tr>
+<tr><td>Exceeding £690 but not exceeding £950</td><td></td><td>5</td></tr>
+<tr><td>Exceeding £950 but not exceeding £1,160</td><td></td><td>7</td></tr>
+<tr><td>Exceeding £1,160 but not exceeding £1,615</td><td></td><td>11</td></tr>
+<tr><td>Exceeding £1,615 but not exceeding £2,240</td><td></td><td>15</td></tr>
+<tr><td>Exceeding £2,240</td><td></td><td>20</td></tr>
+</tbody>
+</table>
+
+TABLE C: CASES WHERE REGULATION 19(5) APPLIES
+
+WHERE EARNINGS ARE PAID WEEKLY
+
+<table>
+<thead>
+<tr><th>Amount of net earnings</th><th colspan="2">Deduction (percentage of net earnings)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £100</td><td></td><td>5</td></tr>
+<tr><td>Exceeding £100 but not exceeding £160</td><td></td><td>6</td></tr>
+<tr><td>Exceeding £160 but not exceeding £220</td><td></td><td>10</td></tr>
+<tr><td>Exceeding £220 but not exceeding £270</td><td></td><td>14</td></tr>
+<tr><td>Exceeding £270 but not exceeding £375</td><td></td><td>22</td></tr>
+<tr><td>Exceeding £375 but not exceeding £520</td><td></td><td>30</td></tr>
+<tr><td>Exceeding £520</td><td></td><td>40</td></tr>
+</tbody>
+</table>
+
+TABLE D: CASES WHERE REGULATION 19(5) APPLIES
+
+WHERE EARNINGS ARE PAID MONTHLY
+
+<table>
+<thead>
+<tr><th>Amount of net earnings</th><th colspan="2">Deduction (percentage of net earnings)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £430</td><td></td><td>5</td></tr>
+<tr><td>Exceeding £430 but not exceeding £690</td><td></td><td>6</td></tr>
+<tr><td>Exceeding £690 but not exceeding £950</td><td></td><td>10</td></tr>
+<tr><td>Exceeding £950 but not exceeding £1,160</td><td></td><td>14</td></tr>
+<tr><td>Exceeding £1,160 but not exceeding £1,615</td><td></td><td>22</td></tr>
+<tr><td>Exceeding £1,615 but not exceeding £2,240</td><td></td><td>30</td></tr>
+<tr><td>Exceeding £2,240</td><td></td><td>40</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision relating to recovery of amounts which are recoverable under social security legislation.
+
+Part 1 makes general commencement and interpretation provision (regulations 1 and 2).
+
+Part 2 makes provision relating to recoverability. Regulation 3(1) prescribes that overpayments of universal credit, jobseeker’s allowance and employment and support allowance under section 69ZB of the Social Security Administration (Northern Ireland) Act 1992 (“the Administration Act”), overpayments of tax credits under the Tax Credits Act 2002, administrative penalties, payments on account of benefit and hardship payments are all recoverable amounts for the purpose of these Regulations. Regulation 4 makes provision as to who certain overpayments are recoverable from where it is necessary to recover from a person instead of, or in addition to, the person to whom it was paid. Regulation 5 makes provision as to when overpayments will still be recoverable if there has been no revision or supersession of the award.
+
+Part 3 prevents duplication of payment of universal credit where income which would be taken into account in a universal credit claim is paid after the prescribed date for payment of that income.
+
+Part 4 makes provision as to the calculation of the recoverable amount. Regulation 7 makes provision, where an overpayment of universal credit relates to the amount of a person’s capital, for the amount of that overpayment to be reduced to take account of diminution in that capital. Regulation 8 allows for the recoverable amount of the benefits to be reduced to take account of any universal credit which should have been paid to the person concerned or that person’s partner. Regulation 9 makes provision relating to calculating the amount of an overpayment of housing costs in universal credit where a claimant moves from one dwelling to another.
+
+Part 5 makes provision as to the process of recovery. Regulation 10 allows recovery of recoverable amounts to take place by deduction from certain benefits. Regulations 11 to 14 respectively prescribe limitations on such recovery where the benefit from which deductions are to be made is universal credit, jobseeker’s allowance, employment and support allowance and state pension credit. Regulation 15 makes provision confirming when an obligation of a tenant is taken to have been discharged when recovery of an overpayment of housing costs has been obtained by deduction from benefits paid to landlords. Regulation 16 allows, where a decision awarding benefit is reversed or varied or revised or superseded, for the offsetting of arrears of entitlement against subsequent payments of universal credit, jobseeker’s allowance or employment and support allowance.
+
+Part 6 makes provision for recovery of recoverable amounts by deduction from earnings. Regulation 17 defines certain terms used in that Part and defines what is and is not to be counted as “earnings”. It also specifies that a deduction must not reduce the amount paid to a liable person to below 60 per cent. of that person’s net earnings for the relevant period.
+
+Regulation 18 prescribes the details a notice requiring the employee to make deductions from earnings must contain and when it (and a varied notice) takes effect.
+
+Regulation 19 prescribes the amounts (set out in the Schedule) to be deducted by the employer from the amount paid to the liable person each pay-day and allows the employer to deduct an amount not exceeding £1 in respect of administrative costs.
+
+Regulation 20 requires the employer to notify the liable person of the amount of the deduction including any deduction in respect of the employer’s administrative costs.
+
+Regulation 21 requires the employer to pay the amount of the deduction (excluding any additional deduction for administrative costs) to the appropriate authority which sent the employer the notice by any of the methods set out in paragraph (2) and requires the employer to keep records of amounts paid to the appropriate authority and persons in respect of whom such payments have been made.
+
+Regulation 22 requires the liable person to inform the appropriate authority within 7 days if the liable person leaves the employment of an employer who has received a notice in respect of that person or when the liable person becomes employed or re-employed.
+
+Regulation 23 requires a person to notify the appropriate authority if a notice is received on the assumption that the employer is the employer of a liable person but it transpires that the employer is not. It also requires the employer to notify the appropriate authority if the liable person ceases to be in that employer’s employment.
+
+Regulation 24 allows the appropriate authority to vary notices to decrease or, if agreed, to increase amounts included in them or to substitute a new employer for a previous employer and requires the employer to comply with the notice as varied.
+
+Regulation 25 provides for a notice to be discharged in certain circumstances if no further payments are due under it, it is ineffective as a means of recovery or it is defective.
+
+Regulation 26 allows for notices to lapse if the employer no longer has the liable person in that employer’s employment.
+
+Regulation 27 makes provision relating to those in the employment of the Crown.
+
+Regulation 28 makes provision as to priority where employers are obliged to make deductions under notices issued under these Regulations and other orders requiring deductions to be made from earnings. Deductions from earnings orders under the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992 must be dealt with first. Where deductions would otherwise fall to be made under notices issued under these Regulations and under other statutory provisions, deductions under other orders are to be made first if in existence on the first pay-day for deductions under the notice, otherwise, the various notices and orders are to be dealt with in date order.
+
+Regulation 29 makes it a criminal offence to fail to comply with certain provisions of Part 6 relating primarily to failures to make or pay deductions or to provide information.
+
+Part 7 makes consequential amendments and revocations.
+
+Regulation 30 amends the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988 to add universal credit to the list of benefits from which social fund awards may be recovered by deduction.
+
+Regulation 31 amends the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988 to:
+
+- ensure that overpayments of benefits coming within section 69 of the Administration Act can be recovered by deduction from universal credit and by deduction from earnings in accordance with Part 6 of these Regulations;
+- clarify the rules on what sums are deducted in calculating the amount of a recoverable overpayment under those Regulations;
+- increase the maximum deduction from benefit in respect of an overpayment which has resulted in a finding or acceptance of guilt for an offence, or in respect of which the individual has accepted an administrative penalty as an alternative to prosecution, from 5 times 5 per cent. of the relevant personal allowance, to 8 times 5 per cent. of that allowance and ensure that where such overpayments are being recovered by deduction from benefit at the same time as third party payments are being made from the benefit under Schedule 8A to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987, the total sum deducted will not exceed that amount; and
+- ensure that the limitations on deductions from universal credit made under these Regulations apply equally to deductions under those Regulations.
+
+Regulations 32 and 33 amend housing benefit legislation to ensure that overpayments of housing benefit can be recovered from universal credit and that such overpayments can be recovered by deduction from earnings in accordance with Part 6 of these Regulations.
+
+A full impact assessment has not been published for this instrument as it has no impact on the costs of private sector and civil society organisations.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 69(8) was amended by paragraph 8 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and is amended by section 107(2) of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and subsections (9A) to (9C) are inserted by Article 110(1) of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)), section 69ZA was inserted by Article 71(1) of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and amended by Schedule 8 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)) and Article 110(2) of the Welfare Reform (Northern Ireland) Order 2015, sections 69ZB to 69ZH are inserted by Article 109(1) of the Welfare Reform (Northern Ireland) Order 2015, section 72(2) was amended by paragraph 11(b) of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)), paragraph 4(8)(a) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007 and paragraph 7 of Schedule 2 to the Welfare Reform (Northern Ireland) Order 2015, section 73(5) was added by Article 15 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 ([S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)) and paragraphs (8) to (10) are inserted by Article 110(3) of the Welfare Reform (Northern Ireland) Order 2015, section 74(3B) to (3D) is inserted by Article 110(4) of the Welfare Reform (Northern Ireland) Order 2015, section 109B was inserted by section 14(1) of the Social Security Fraud Act (Northern Ireland) [2001 (c. 17 (N.I.)](https://www.legislation.gov.uk/nia/2001/17)) and subsection (4A) is inserted by Article 109(4)(a) of the Welfare Reform (Northern Ireland) Order 2015 and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and section 18(5) of the National Insurance Contributions Act [2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7) and subsection (6) was amended by Schedule 7 to the Social Security (Northern Ireland) Order 1998.
+
+[^f00002]: Footnote: [S.I. 2015/2006 (N.I.1)](https://www.legislation.gov.uk/nisi/2015/2006).
+
+[^key-106a0e74cd5d567efb9f3942496d59ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/224/regulation/1) in operation at 20.6.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/a)
+
+[^f00003]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216).
+
+[^key-af00894d8fd9c39a797252386142113f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/224/regulation/2) in operation at 20.6.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/a)
+
+[^f00004]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).
+
+[^f00005]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220).
+
+[^f00006]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^key-96ef8f153a30d25806896d177fe9b4c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/2/1) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [5](https://www.legislation.gov.uk/uksi/2017/781/article/5)
+
+[^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^key-51bbc432c56c633192c14fda60c94029]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/224/regulation/3) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00010]: Footnote: Section 69ZE is inserted by Article 109(1) of the Welfare Reform (Northern Ireland) Order 2015.
+
+[^f00011]: Footnote: Subsection (4) is substituted by Article 109(4)(a) of the Welfare Reform (Northern Ireland) Order 2015.
+
+[^key-fe071aff44a26198792038f6a4d30ae8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/224/regulation/4) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-95964c82189249005829d81c38f6d009]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/224/regulation/5) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00012]: Footnote: [S.I. 1998 No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 11 was amended by paragraph 17 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999.
+
+[^key-e8e0cd1865b1dd10d62e704acceec8fd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/224/regulation/6) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-a3b8d69e1004634a5f0c1be38d5819eb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/224/regulation/7) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-d606df6dc757614db7129240419a841c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/224/regulation/8) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-095ff0fb682a8b7b87bd46e99365c33c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/224/regulation/9) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-50651b3372deb75a28133a7aaf594f45]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/224/regulation/10) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00013]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14).
+
+[^f00014]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5).
+
+[^key-187088df7f22acf33f3a4be2e227bbf2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/224/regulation/11) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00015]: Footnote: Section 109A was inserted by Article 14 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 and amended by section 13 of the Social Security Fraud Act (Northern Ireland) 2001.
+
+[^f00016]: Footnote: [S.R. 2016 No. 221](https://www.legislation.gov.uk/nisr/2016/221).
+
+[^f00017]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
+
+[^f00018]: Footnote: See Article 46 of the Welfare Reform (Northern Ireland) Order 2015 for the definition of “joint claimants”.
+
+[^key-63169700eea5e9602afdb7fb3cb2c784]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/224/regulation/12) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00019]: Footnote: [S.R. 2016 No. 218](https://www.legislation.gov.uk/nisr/2016/218).
+
+[^key-1b4a1f0969b07fd496d69e379530f405]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/224/regulation/13) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00020]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219).
+
+[^key-e166a3da5c11b5476cfba35d0406c9d8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/224/regulation/14) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00021]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); the definition of “benefit week” was substituted by regulation 3(2) of [S.R. 2009 No. 409](https://www.legislation.gov.uk/nisr/2009/409).
+
+[^key-e1ec22b100d5ff942b10ccdc50a0806d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/224/regulation/15) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-d1d18d1287d7a6a8ea208ee8519b3c4c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/224/regulation/16) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^key-baa7e387c9909ebf9cdf1ba9556ebca9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/224/regulation/17) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^f00022]: Footnote: Section 109B(4) is substituted by Article 109(4) of the Welfare Reform (Northern Ireland) Order 2015.
+
+[^f00023]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
+
+[^f00024]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49).
+
+[^key-233582f9fcf6ac2370db1ccf54a4b8d3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/224/regulation/18) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-9903cc9b78aaf1c8a4a707e48c791d4b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/224/regulation/19) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-ab73abf8347b9c06b32e1658a306de27]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/224/regulation/20) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-32c34071ca9d4fde95ee820205a8d222]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/224/regulation/21) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-510af5b2e2187074deb253eeeb4fc0d4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/224/regulation/22) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-225fa6dbe58fe8f8475a86e1d18063d6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/224/regulation/23) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-e613f17383523a91d71bdde548927411]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/224/regulation/24) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-de0050e96eb1f3046d780b054c67bef0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/224/regulation/25) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-ade6e19b579576df7181179b5f06d731]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/224/regulation/26) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-220829843fb8ca1e17046fdbd7f377f0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/224/regulation/27) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-98fad020c153b29956af359c0be2e1c9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/224/regulation/28) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^f00025]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390).
+
+[^key-07f78abc21ccaa3b6102e05d6a405947]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/224/regulation/29) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+
+[^key-6578ba1b8a382472e6edeca34b217b90]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/224/regulation/30) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00026]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21); to which there are amendments not relevant to these Regulations.
+
+[^key-ad3222e9f5945b06aa4bd76b8cfb737c]: Commencement: [Reg. 31(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/a)[(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/b)[(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/e)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/3)[(4)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/4/a)[(5)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/5)[(6)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/6)[(8)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/8)[(9)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/9) in operation at 20.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/c)
+
+[^key-3a6282655061ee586476ab46df391093]: Commencement: [Reg. 31(7)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/7) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/c)
+
+[^f00027]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending Regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
+
+[^f00028]: Footnote: The definition of “benefit” was amended by regulation 4(2) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 21(2)(b) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), regulation 15(2)(a) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289), regulation 26(2)(a) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 15(2)(a) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286).
+
+[^key-056615aa3d9cc4e032c63c15fa7d8497]: Commencement: [Reg. 31(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/c)[(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/d)[(f)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/f)[(4)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/4/b)[(7)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/7) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00029]: Footnote: The definition of “disability working allowance” was inserted by regulation 14(2)(b) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6).
+
+[^f00030]: Footnote: The definition of “the Jobseeker’s Allowance Regulations” was inserted by regulation 15(2)(b) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289).
+
+[^f00031]: Footnote: The definition of “the State Pension Credit Regulations” was added by regulation 26(2)(b) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191).
+
+[^f00032]: Footnote: Regulation 13 was amended by regulation 26(5) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), regulation 15(8) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 2(2) of [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
+
+[^f00033]: Footnote: Paragraph 2 was amended by regulation 14(6) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 21(3) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), regulation 26(5) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 15(10) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286).
+
+[^f00034]: Footnote: Paragraph (4) was amended by regulation 3(4)(a) of [S.R. 1996 No. 464](https://www.legislation.gov.uk/nisr/1996/464).
+
+[^f00035]: Footnote: Paragraph (5) was substituted by regulation 2(a) of [S.R. 2000 No. 266](https://www.legislation.gov.uk/nisr/2000/266) and amended by regulation 2(3) of [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
+
+[^key-40edeb865c9545db4dd3acb5dd6271d5]: Commencement: [Reg. 32(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/1)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/3) in operation at 20.6.2016, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d)
+
+[^key-d9a5300690fa187dead3d1b88eb9dcf8]: Commencement: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/2) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d)
+
+[^f00036]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are S.R. 2008 Nos. [378](https://www.legislation.gov.uk/nisr/2008/378) and [504](https://www.legislation.gov.uk/nisr/2008/504).
+
+[^key-e9588b538446eb093a01340ba7349ff5]: Commencement: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/2) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00037]: Footnote: Regulation 102 was amended by regulation 3(16) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and regulation 2(4) of [S.R. 2008 No. 504](https://www.legislation.gov.uk/nisr/2008/504).
+
+[^key-25247fc83c5233ded77a316994a6b558]: Commencement: [Reg. 33(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/1)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/3) in operation at 20.6.2016, see [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e)
+
+[^key-eab77dbe53f3c5835be1623aa6452fe4]: Commencement: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/2) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e)
+
+[^f00038]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are S.R. 2008 Nos. [378](https://www.legislation.gov.uk/nisr/2008/378) and [504](https://www.legislation.gov.uk/nisr/2008/504).
+
+[^key-44aa593e92169743db404a300ca6b642]: Commencement: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/2) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00039]: Footnote: Regulation 83 was amended by regulation 4(11) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and regulation 3(5) of [S.R. 2008 No. 504](https://www.legislation.gov.uk/nisr/2008/504).
+
+[^key-7eae703259521d76ab49c9bcd484bb42]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^f00040]: Footnote: [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191).
+
+[^f00041]: Footnote: [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286).
+
+[^f00042]: Footnote: [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
+
+[^key-1ee210874b279408c4b1706dc39a1cea]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2016/224/schedule) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)

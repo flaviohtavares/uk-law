@@ -1,0 +1,2091 @@
+---
+title: The Jobseeker's Allowance Regulations (Northern Ireland) 2016
+id: nisr/2016/218
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-05-03'
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/218
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/218/pdfs/nisrem_20160218_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/218/pdfs/nisr_20160218_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/218/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Jobseeker's Allowance Regulations (Northern Ireland) 2016
+
+> Text as at 2026-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 218
+
+Social Security
+
+The Jobseeker's Allowance Regulations (Northern Ireland) 2016
+
+Made
+
+3rd May 2016
+
+Laid before Parliament
+
+10th May 2016
+
+Coming into operation in accordance with regulation 1(1)
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 167D and 171(3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22880221], sections 5(1)(j) and (k) and (1A) and 165(4), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992 [^c22880231], Articles 2(2) and (4), 4(1)(c), (2A) and (3B)(a), 6(1)(b), (2), and (4), 7(3), 8A(5), 8B(2), 8D(4), 8E(3) and (5), 8F(1), 8H(1)(a), (7) and (8), 8I, 8J(5) and (7), 8K(4), (5) and (9), 14(1) to (4)(a) and (b), and 36(1) and (2) of, and Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995 [^c22880241] and paragraphs 2(3) and 3 of Schedule 5 to, the Welfare Reform (Northern Ireland) Order 2015 [^c22880251].
+
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(b) of the Welfare Reform (Northern Ireland) Order 2015 [^c22880261].
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and application
+
+(1) The Regulations may be cited as the Jobseeker's Allowance Regulations (Northern Ireland) 2016 and come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016 [^c22880271].
+
+(2) These Regulations apply in relation to a particular case on any day on which Article 39(1)(a) of the Welfare Reform (Northern Ireland) Order 2015 (abolition of income-based jobseeker's allowance) is in operation and applies in relation to that case.
+
+### 2. General interpretation
+
+(1) For the purposes of the Order and of these Regulations—
+
+- “**employed earner**” means a person who is gainfully employed in Northern Ireland or the Republic of Ireland either under a contract of service or in an office (including elective office) with emoluments chargeable to income tax under Schedule E or, as the case may be, chargeable under the legislation of the Republic of Ireland which is analogous to income tax under Schedule E;
+- “**employment**” includes any trade, business, profession, office or vocation, except in Article 16 of the Order [^c22880281], where it means employed earner's employment;
+- “**jobseeking period**” means the period described in regulation 36;
+- “**pensionable age**” has the meaning it has in Parts I to VI of the Benefits Act by virtue of section 121(1) of that Act [^c22880291].
+
+(2) In these Regulations—
+
+- “**adoption leave**” means a period of absence from work on ordinary or additional adoption leave by virtue of Article 107A or 107B of the Employment Rights (Northern Ireland) Order 1996 [^c22880301];
+- “**attendance allowance**” means—
+  - (a) an attendance allowance under section 64 of the Benefits Act [^c22880311];
+  - (b) an increase of disablement pension under section 104 or 105 of the Benefits Act;
+  - (c) a payment by virtue of Article 14, 15, 16, 43 or 44 of the Personal Injuries (Civilians) Scheme 1983 [^c22880321];
+  - (d) any payment based on the need for attendance which is paid as an addition to a war disablement pension, (which means any retired pay or pension or allowance payable in respect of disablement under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 [^c22880331];
+- “**basic rate**” has the same meaning as in the Income Tax Act 2007 [^c22880341];
+- “**Benefits Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “**benefit week**” means a period of 7 days ending with the end day unless, in any particular case or class of case, the Department arranges otherwise, and for these purposes “**end day**” means the day in column (2) which corresponds to the series of numbers in column (1) which includes the last 2 digits of the person's national insurance number—
+
+  | *(1)* | *(2)* |
+  | --- | --- |
+  | 00 to 19 | Monday |
+  | 20 to 39 | Tuesday |
+  | 40 to 59 | Wednesday |
+  | 60 to 79 | Thursday |
+  | 80 to 99 | Friday; |
+- “[^key-c32f7aa6c5e9c894b709f12df2150486]**carer support payment**” means the carer support payment component of carer support[^key-e57486cbca6c3e65008dfd83acfc4268] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “**Claims and Payments Regulations 2016**” means the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 [^c22880351];
+- “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister or, if any of the preceding persons is one member of a couple, the other member of that couple;
+- “**date of claim**” means the date on which the claimant makes, or is treated as making, a claim for a jobseeker's allowance for the purposes of—
+  - (a) regulation 6 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22880361]; or
+  - (b) regulation 19, 21 or 23 of the Claims and Payments Regulations 2016;
+- “earnings”, for the purposes of Article 2 of the Order, has the meaning specified—
+  - (c) in the case of an employed earner, in regulation 58; or
+  - (d) in the case of a self-employed earner, in regulation 60;
+- “**first year of training**” means a period of one year beginning with a person's first day of training;
+- “**maternity leave**” means a period during which a woman is absent from work because she is pregnant or has given birth to a child, and at the end of which she has a right to return to work either under the terms of her contract of employment or under Part IX of the Employment Rights (Northern Ireland) Order 1996;
+- “**net earnings**” means such earnings as are calculated in accordance with regulation 59;
+- “**net profit**” means such profit as is calculated in accordance with regulation 61;
+- “**occupational pension**” means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases;
+- “**the Order**” means the Jobseekers (Northern Ireland) Order 1995;
+- “[^key-fba1dfb06b9d18c7b9ecb96354cdaf7b]**parental bereavement leave**” means leave under Article 112EA of the Employment Rights (Northern Ireland) Order 1996;
+- “**partner**” means, where a claimant—
+  - (a) is a member of a couple, the other member of that couple;
+  - (b) is married polygamously to 2 or more members of the claimant's household, any such member;
+- “**paternity leave**” means a period of absence from work on leave by virtue of Article 112A or 112B of the Employment Rights (Northern Ireland) Order 1996 [^c22880371];
+- “**payment**” includes a part of a payment;
+- “**remunerative work**” has the meaning prescribed in regulation 41(1);
+- “Scottish basic rate” means the rate of income tax of that name calculated in accordance with section 6A of the Income Tax Act 2007;[^key-45b8a9934d141c727e770ee2759277ac]
+- “Scottish taxpayer” has the same meaning as in Chapter 2 of Part 4A of the Scotland Act 1998;
+- “**self-employed earner**” means a person who is gainfully employed in Northern Ireland or the Republic of Ireland otherwise than in employed earner's employment (whether or not he is also employed in such employment);
+- “**shared parental leave**” means a period of absence from work on leave by virtue of Article 107E or 107G [^c22880381] of the Employment Rights (Northern Ireland) Order 1996;
+- “**sports award**” means an award made by one of the Sports Councils named in section 23(2) of the National Lottery etc. Act 1993 [^c22880391] out of sums allocated to it for distribution under that section;
+- “**training allowance**” means an allowance (whether by way of periodical grants or otherwise) payable—
+  - (a) out of public funds by a Government department or by or on behalf of the Department for Employment and Learning;
+  - (b) to a person for their maintenance or in respect of the maintenance of a member of their family; and
+  - (c) for the period, or part of the period, during which the person is following a course of training or instruction provided by, or in pursuance of arrangements made with, a government department or approved by such department in relation to him or so provided or approved by or on behalf of the Department for Employment and Learning,
+
+  but it does not include an allowance paid by any government department to, or in respect of, a person by reason of the fact that the person is following a course of full-time education, other than under provision or arrangements under section 1(1) of the Employment and Training Act (Northern Ireland) 1950 [^c22880401], or the person is training as a teacher;
+- “**voluntary organisation**” means any association carrying on or proposing to carry on any activities otherwise than for the purpose of gain by the association or by individual members of the association;
+- “**voluntary work**” means work other than for a member of the claimant's family, where no payment is received by the claimant or the only payment due to be made to the claimant by virtue of being so engaged is a payment in respect of any expenses reasonably incurred by the claimant in the course of being so engaged;
+- “**week**” means, in the definition of “Work Experience” and in Parts 5, 6, 7, 9 and 10, a period of 7 days;
+- “**Work Experience**” means a programme which consists of work experience, job search skills and job skills (and which is not employment), provided in pursuance of arrangements made by or on behalf of the Department for Employment and Learning under section 1 of the Employment and Training Act (Northern Ireland) 1950, and which—
+  - (a) subject to paragraph (b), is of between 2 and 8 weeks duration; or
+  - (b) is of between 2 and 12 weeks duration where, during the first 8 weeks of the claimant's participation in Work Experience, and as a result of that participation, the claimant is offered and accepts an apprenticeship made under arrangements made by the Department for Employment and Learning;
+- “**young person**” means a person who falls within the definition of “qualifying young person” in section 138 [^c22880411] of the Benefits Act (child and qualifying young person).
+
+(3) Subject to paragraph (5), the Interpretation Act (Northern Ireland) 1954 [^c22880421] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+(4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+### 3. Further interpretation
+
+(1) Any reference to the claimant's family or, as the case may be, to a member of the claimant's family, is to be construed for the purposes of these Regulations as if it included, in relation to a polygamous marriage, a reference to any partner and to any child or young person who is treated by the Department as the responsibility of the claimant or their partner, where that child or young person is a member of the claimant's household.
+
+(2) In such cases and subject to such conditions or requirements as the Department may specify by means of a direction, any requirement imposed under these Regulations for a signature may be satisfied by means of an electronic signature (within the meaning given in section 7(2) of the Electronic Communications Act 2000 [^c22880431]).
+
+(3) A person of a prescribed description for the purposes of the definition of “family” in Article 2(2) of the Order is a young person.
+
+(4)[^key-16e2c42fc208f036448950add3687700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this regulation, “**polygamous marriage**” means any marriage during the subsistence of which a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy.
+
+(6) References in these Regulations to a person participating as a service user are to
+
+- (a) a person who is being consulted by or on behalf of—
+  - (i) a body which has a statutory duty to provide services in the field of health, social care or social housing; or
+  - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such services,
+
+  in the person's capacity as a user, potential user, carer of a user or person otherwise affected by the provision of those services;
+- (b) a person who is being consulted by or on behalf of—
+  - (i) the Department in relation to any of the Department's functions in the field of social security or child support or under section 1 of the Employment and Training Act (Northern Ireland) 1950; or
+  - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such functions,
+
+  in their capacity as a person affected or potentially affected by the exercise of those functions or the carer of such a person; or
+- (c) the carer of a person consulted under sub-paragraph (a) or (b).
+
+(7) In these Regulations, references to obtaining paid work includes obtaining more paid work or obtaining better-paid work.
+
+## PART 2 — CLAIMANT RESPONSIBILITIES
+
+### 4. Interpretation
+
+(1) In this Part—
+
+- “**relevant carer**” means—
+  - (a) a parent of a child who is not the responsible carer, but has caring responsibilities for the child; or
+  - (b) a person who has caring responsibilities for a person who has a physical or mental impairment which makes those caring responsibilities necessary;
+- “**responsible carer**”, in relation to a child, means—
+  - (a) a person who is who is the only person responsible for the child; or
+  - (b) a person who is a member of a couple where-
+    - (i) both members of the couple are responsible for the child; and
+    - (ii) the person has been nominated by the couple jointly as responsible for the child;
+- “**responsible foster parent**”, in relation to a child, means—
+  - (a) a person who is the only foster parent in relation to the child; or
+  - (b) a person who is a member of a couple where—
+    - (i) both members of the couple are foster parents in relation to the child; and
+    - (ii) the person has been nominated by the couple jointly as the responsible foster parent;
+- “**voluntary work preparation**” means particular action taken by a claimant and agreed by the Department for the purpose of making it more likely that the claimant will obtain paid work, but which is not specified by the Department as a work preparation requirement under Article 8C of the Order.
+
+(2) The nomination of a responsible carer or responsible foster parent for the purposes of paragraph (1) may be changed—
+
+- (a) once in a 12 month period, beginning with the date of the previous nomination; or
+- (b) on any occasion where the Department considers that there has been a change of circumstances which is relevant to the nomination.
+
+(3) Only one person may be nominated as a responsible carer or a responsible foster parent.
+
+(4) The nomination applies to all of the children for whom the claimant is responsible.
+
+### 5. Application of regulations where there is dual entitlement
+
+(1) This regulation applies where a person is entitled to universal credit and a jobseeker's allowance.
+
+(2) The work-related requirements under Articles 8B to 8I [^c22880441] of the Order and regulations 9 to 16 of these Regulations do not apply to such a person.
+
+(3) Reductions relating to the award of a jobseeker's allowance under Article 8J or 8K [^c22880451] of the Order and regulations 18 to 29 of these Regulations do not apply to such a person.
+
+### 6. Sanction ceases to apply to jobseeker's allowance
+
+(1) This regulation applies where—
+
+- (a) a person is entitled to a jobseeker's allowance;
+- (b) there is a reduction relating to the person's award of a jobseeker's allowance under Article 8J or 8K of the Order;
+- (c) the person becomes entitled to universal credit; and
+- (d) the person remains entitled to a jobseeker's allowance.
+
+(2) Any reduction relating to the person's award of the jobseeker's allowance is to cease being applied to the award of the jobseeker's allowance.
+
+### 7. Claimant commitment — date and method of acceptance
+
+(1) For the purposes of Article 3(2)(b) [^c22880461] of the Order, a claimant who has accepted a claimant commitment within such period after making a claim for a jobseeker's allowance as the Department specifies is to be treated as having accepted that claimant commitment on the first day of the period in respect of which the claim is made.
+
+(2) The Department may extend the period within which a claimant is required to accept a claimant commitment or an updated claimant commitment where the claimant requests that the Department review—
+
+- (a) any action proposed as a work search requirement or a work availability requirement; or
+- (b) whether any limitation should apply to those requirements,
+
+and the Department considers that the request is reasonable.
+
+(3) A claimant must accept a claimant commitment by one of the following methods, as specified by the Department—
+
+- (a) electronically;
+- (b) by telephone; or
+- (c) in writing.
+
+### 8. Claimant commitment — exceptions
+
+A claimant may be entitled to a jobseeker's allowance without having accepted a claimant commitment if the Department considers—
+
+- (a) the claimant cannot accept a claimant commitment because they lack capacity to do so; or
+- (b) there are exceptional circumstances in which it would be unreasonable to expect the person to accept a claimant commitment.
+
+### 9. Expected hours
+
+(1) The expected number of hours per week in relation to a claimant for the purposes of determining any limitations on work search or work availability requirements is 35 unless some lesser number of hours applies in the claimant's case under paragraph (2).
+
+(2) The lesser number of hours referred to in paragraph (1) is—
+
+- (a) where—
+  - (i) the claimant is a relevant carer, a responsible carer or a responsible foster parent; and
+  - (ii) the Department is satisfied that the claimant has reasonable prospects of obtaining paid work,
+
+  the number of hours, being less than 35, that the Department considers is compatible with those caring responsibilities;
+- (b) where the claimant is a responsible carer or a responsible foster carer for a child under the age of 13, the number of hours that the Department considers is compatible with their caring responsibilities for the child during the child's normal school hours (including the normal time it takes the child to travel to and from school); or
+- (c) where the claimant has a physical or mental impairment, the number of hours that the Department considers is reasonable in light of the impairment.
+
+### 10. Purposes of a work-focused interview
+
+The purposes of a work-focused interview are any or all of the following—
+
+- (a) assessing the claimant's prospects for remaining in or obtaining work;
+- (b) assisting or encouraging the claimant to remain in or obtain work;
+- (c) identifying activities that the claimant may undertake that will make remaining in or obtaining work more likely;
+- (d) identifying training, educational or rehabilitation opportunities for the claimant which may make it more likely that the claimant will remain in or obtain work or be able to do so;
+- (e) identifying current or future work opportunities for the claimant that are relevant to the claimant's needs and abilities.
+
+### 11. Work search requirement: interviews
+
+A claimant is to be treated as not having complied with a work search requirement to apply for a particular vacancy for paid work where the claimant fails to participate in an interview offered to the claimant in connection with the vacancy.
+
+### 12. Work search requirement: all reasonable action
+
+(1) A claimant is to be treated as not having complied with a work search requirement to take all reasonable action for the purpose of obtaining paid work in any week unless—
+
+- (a) either—
+  - (i) for the purpose of obtaining paid work, the claimant takes action for the claimant's expected hours per week minus any relevant deductions; or
+  - (ii) the Department is satisfied that the claimant has taken all reasonable action for the purpose of obtaining paid work despite the number of hours that the claimant spends taking such action being lower than the expected number of hours per week; and
+- (b) that action gives the claimant the best prospects of obtaining work.
+
+(2) In this regulation “**relevant deductions**” means the total of any time agreed by the Department—
+
+- (a) for the claimant to carry out paid work in that week;
+- (b) for the claimant to carry out voluntary work in that week;
+- (c) for the claimant to carry out a work preparation requirement, or voluntary work preparation, in that week; or
+- (d) for the claimant to deal with temporary child care responsibilities, a domestic emergency, funeral arrangements or other temporary circumstances.
+
+(3) For the purpose of paragraph (2)(b) the time agreed by the Department for the claimant to carry out voluntary work must not exceed 50% of the claimant's expected number of hours per week.
+
+### 13. Work availability requirement: able and willing immediately to take up paid work
+
+(1) Subject to paragraph (2), a claimant is to be treated as not having complied with a work availability requirement if the claimant is—
+
+- (a) not able and willing immediately to attend an interview offered to the claimant in connection with obtaining paid work;
+- (b) a prisoner on temporary release in accordance with the provisions of the Prison Act (Northern Ireland) 1953 [^c22880471].
+
+(2) A claimant is to be treated as having complied with a work availability requirement despite not being able immediately to take up paid work, if paragraph (3), (4) or (5) applies.
+
+(3) This paragraph applies where—
+
+- (a) a claimant is a responsible carer or a relevant carer;
+- (b) the Department is satisfied that as a consequence the claimant needs a period of up to one month to take up paid work, or up to 48 hours to attend an interview in connection with obtaining paid work, taking into account alternative care arrangements; and
+- (c) the claimant is able and willing to take up paid work, or attend such an interview, on being given notice for that period.
+
+(4) This paragraph applies where—
+
+- (a) a claimant is carrying out voluntary work;
+- (b) the Department is satisfied that as a consequence the claimant needs a period of up to one week to take up paid work, or up to 48 hours to attend an interview in connection with obtaining paid work; and
+- (c) the claimant is able and willing to take up paid work, or attend such an interview, on being given notice for that period.
+
+(5) This paragraph applies where a claimant is—
+
+- (a) employed under a contract of service;
+- (b) required by Article 118 of the Employment Rights (Northern Ireland) Order 1996 [^c22880481], or by the contract of service, to give notice to terminate the contract;
+- (c) able and willing to take up paid work once the notice period has expired; and
+- (d) able and willing to attend an interview in connection with obtaining paid work on being given 48 hours notice.
+
+### 14. Work search requirement and work availability requirement: limitations
+
+(1) Paragraphs (2) to (5) set out the limitations on a work search requirement and a work availability requirement.
+
+(2) A work search requirement and a work availability requirement must be limited to work that is in a location which would normally take the claimant—
+
+- (a) a maximum of one hour and 30 minutes to travel from home to the location; and
+- (b) a maximum of one hour and 30 minutes to travel from the location to home.
+
+(3) Where a claimant has previously carried out work of a particular nature, or at a particular level of remuneration, a work search requirement and a work availability requirement must be limited to work of a similar nature, or level of remuneration, for such period as the Department considers appropriate; but
+
+- (a) only if the Department is satisfied that the claimant will have reasonable prospects of obtaining paid work in spite of such limitation; and
+- (b) the limitation is to apply for no more than 4 weeks[^key-8c0a775d9a8a1898c835e9e78717871f] beginning on the date of claim.
+
+(4) Where a claimant has a physical or mental impairment that has a substantial adverse effect on the claimant's ability to carry out work of a particular nature, or in particular locations, a work search requirement or work availability requirement must not relate to work of such a nature or in such locations.
+
+(5) In the case of a claimant who is a relevant carer or a responsible carer or has a physical or mental impairment, a work search and work availability requirement must be limited to the number of hours that is determined to be the claimant's expected number of hours per week in accordance with regulation 9(2).
+
+### 15. Victims of domestic violence
+
+(1) Where a claimant has recently been a victim of domestic violence and the circumstances set out in paragraph (3) apply—
+
+- (a) a requirement imposed on that claimant under Articles 8 to 8G of the Order ceases to have effect for a period of 13 consecutive weeks starting on the date of the notification referred to in paragraph (3)(a); and
+- (b) the Department must not impose any other such requirement on that claimant during that period.
+
+(2) A person has recently been a victim of domestic violence if a period of 6 months has not expired since the violence was inflicted or threatened.
+
+(3) The circumstances are that—
+
+- (a) the claimant notifies the Department, in such manner as the Department specifies, that domestic violence has been inflicted on or threatened against the claimant by a person specified in paragraph (4) during the period of 6 months ending on the date of the notification;
+- (b) this regulation has not applied to the claimant for a period of 12 months before the date of the notification;
+- (c) on the date of the notification the claimant is not living at the same address as the person who inflicted or threatened the domestic violence; and
+- (d) as soon as possible, and no later than one month, after the date of the notification the claimant provides evidence from a person acting in an official capacity which demonstrates that—
+  - (i) the claimant's circumstances are consistent with those of a person who has had domestic violence inflicted on or threatened against them during the period of 6 months ending on the date of the notification; and
+  - (ii) the claimant has made contact with the person acting in an official capacity in relation to such an incident, which occurred during that period.
+
+(4) A person is specified in this paragraph if the person is—
+
+- (a) where the claimant is, or was, a member of a couple, the other member of the couple;
+- (b) the claimant's grandparent, grandchild, parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, step-brother, brother-in-law, sister, step-sister or sister-in-law; or
+- (c) where any of the persons listed in sub-paragraph (b) is a member of a couple, the other member of that couple.
+
+(5) In this regulation—
+
+- “**coercive behaviour**” means an act of assault, humiliation or intimidation or other abuse that is used to harm, punish or frighten the victim;
+- “**controlling behaviour**” means an act designed to make a person subordinate or dependent by isolating them from sources of support, exploiting their resources and capacities for personal gain, depriving them of the means needed for independence, resistance or escape or regulating their everyday behaviour;
+- “**domestic violence**” means any incident, or pattern of incidents, of controlling behaviour, coercive behaviour, violence or abuse, including but not limited to—
+  - (a) psychological abuse;
+  - (b) physical abuse;
+  - (c) sexual abuse;
+  - (d) emotional abuse;
+  - (e) financial abuse,
+
+  regardless of the gender or sexuality of the victim;
+- “**health care professional**” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c22880491];
+- “**person acting in an official capacity**” means a health care professional, a police officer, a registered social worker, the claimant's employer, a representative of the claimant's trade union or any public, voluntary or charitable body which has had direct contact with the claimant in connection with domestic violence;
+- “**registered social worker**” means a person registered as a social worker in a register maintained by—
+  - (a) the Northern Ireland Social Care Council [^c22880501];
+  - (b) the Health and Care Professions Council;
+  - (c) Social Care Wales, or[^key-977c30666cd5f2ca19a30a9b3aca2780]
+  - (d) the Scottish Social Services Council.
+
+### 16. Circumstances in which requirements must not be imposed
+
+(1) Where paragraph (3), (4), (5) or (5B)[^key-41aba8faf6a5c7963341f905860a875e] applies—
+
+- (a) the Department must not impose a work search requirement on a claimant; and
+- (b) “able and willing immediately to take up work” under a work availability requirement means able and willing to take up paid work, or attend an interview, immediately once the circumstances set out in paragraph (3), (4), (5) or (5B) no longer apply.
+
+(2) A work search requirement previously applying to the claimant ceases to have effect from the date on which the circumstances set out in paragraph (3), (4), (5) or (5B)[^key-21fd5fd57d37ae1d22f0c94430f1935d] apply.
+
+(3) This paragraph applies where—
+
+- (a) the claimant is attending a court or tribunal as a party to any proceedings or as a witness;
+- (b) the claimant is temporarily absent from Northern Ireland because they are—
+  - (i) taking their child outside Northern Ireland for medical treatment;
+  - (ii) attending a job interview outside Northern Ireland; or
+  - (iii) receiving medical treatment outside Northern Ireland;
+- (c) it is within 6 months of the death of—
+  - (i) where the claimant is a member of a couple, the other member;
+  - (ii) a child for whom the claimant or, where the claimant is a member of a couple, the other member, is responsible; or
+  - (iii) a child, where the claimant is the child's parent;
+- (d) the claimant is receiving and participating in a structured, recovery-orientated, course of alcohol or drug dependency treatment, for a period of up to 6 months (where the course is for more than 6 months, this sub-paragraph only applies for the first 6 months);
+- (e) the claimant is a person for whom arrangements have been made by a protection provider under section 82 of the Serious Organised Crime and Police Act 2005 [^c22880511], for a period of up to 3 months (where the arrangements are for more than 3 months, this sub-paragraph only applies for the first 3 months).
+
+(4) This paragraph applies where the Department is satisfied that it would be unreasonable to require the claimant to comply with a work search requirement, including if such a requirement were limited in accordance with Article 8D(4) of the Order, because the claimant—
+
+- (a) has temporary child care responsibilities;
+- (b) is subject to temporary circumstances;
+- (c) is carrying out a public duty; or
+- (d) is carrying out a work preparation requirement or voluntary work preparation.
+
+(5) This paragraph applies where the claimant—
+
+- (a) is unfit for work—
+  - (i) for a maximum of 14 consecutive days after the date on which the evidence referred to in sub-paragraph (b) is provided; and
+  - (ii) on no more than 2 such periods in any period of 12 months; and
+- (b) provides to the Department the following evidence—
+  - (i) for the first 7 days when they are unfit for work, a declaration made by the claimant in such manner and form as the Department approves that the claimant is unfit for work; and
+  - (ii) for any further days when they are unfit for work, a statement given [^key-57624b25cfd40c02fbb9eac0864deb4b]... in accordance with the rules set out in Part 1 of Schedule 1 to the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976 [^c22880521] which advises that the person is not fit for work.
+
+(5A)[^key-98069187f07578f864c020e8ac52561a] Paragraph (5) does not apply to a claimant—
+
+- (a) if it has previously been determined on the basis of an assessment under Part 5 of the Universal Credit Regulations (Northern Ireland) 2016 or Part 4 or 5 of the Employment and Support Allowance Regulations (Northern Ireland) 2016 that the claimant does not have limited capability for work; and
+- (b) the condition specified in the evidence provided by the claimant in accordance with paragraph (5)(b) is in the opinion of the Department the same, or substantially the same, as the condition specified in the evidence provided by the claimant before the date of the determination that the claimant does not have limited capability for work.
+
+(5B) This paragraph applies where the Department is satisfied that it would be unreasonable to require the claimant to comply with a work search requirement or a work availability requirement, including if such a requirement were limited in accordance with Article 8D(4) of the Order, because paragraph (5) would apply to the claimant but for paragraph (5A).
+
+(6) In this regulation, “**tribunal**” means any tribunal listed in Schedule 1 to the Tribunal and Inquiries Act 1992 [^c22880531] or any tribunal established under an enactment.
+
+### 17. Further circumstances in which requirements must not be imposed
+
+(1) This regulation applies in the case of a claimant who is treated as capable of work or as not having limited capability for work under regulation 46 (extended period of sickness).
+
+(2) Where the Department is satisfied that it would be unreasonable to require the claimant to comply with a work search requirement—
+
+- (a) the Department must not impose a work search requirement on the claimant; and
+- (b) a work search requirement previously applying to the claimant ceases to have effect from the date on which the claimant is first treated as capable of work or as not having limited capability for work under regulation 46.
+
+(3) Paragraph (4) applies where the Department is satisfied that it would be unreasonable to require the claimant to comply with a work availability requirement to be able and willing to—
+
+- (a) take up work; and
+- (b) attend an interview.
+
+(4) Where this paragraph applies, “able and willing to take up work” under a work availability requirement means able and willing to take up paid work and to attend an interview, immediately once the claimant ceases to be treated as capable of work or as not having limited capability for work under regulation 46.
+
+(5) Paragraph (6) applies where the Department is satisfied that it would be—
+
+- (a) unreasonable to require the claimant to comply with a work availability requirement to be able and willing to take up work; and
+- (b) reasonable to require the claimant to comply with a work availability requirement to be able and willing to attend an interview.
+
+(6) Where this paragraph applies, “able and willing to take up work” under a work availability requirement means—
+
+- (a) able and willing to take up paid work immediately once the claimant ceases to be treated as capable of work or as not having limited capability for work under regulation 46; and
+- (b) able and willing to attend an interview before the claimant ceases to be so treated.
+
+## PART 3 — SANCTIONS
+
+### 18. Interpretation
+
+For the purposes of this Part—
+
+- “current sanctionable failure” means a failure of the following kinds in relation to which the Department has not yet determined whether the amount of an award of benefit is to be reduced—[^key-85034aef1d01d6a607329bf715421d97]
+  - (a) a sanctionable failure,
+  - (b) an ESA sanctionable failure, or
+  - (c) a UC sanctionable failure;
+- “**ESA sanctionable failure**” means a failure by a claimant which is sanctionable under section 11J of the Welfare Reform Act (Northern Ireland) 2007 [^c22880541];
+- “**higher-level sanction**” means reduction of a jobseeker's allowance in accordance with Article 8J of the Order;
+- “**low-level sanction**” means a reduction of a jobseeker's allowance in accordance with Article 8K of the Order for a sanctionable failure by the claimant to comply with—
+  - (a) a work-focused interview requirement under Article 8B(1) of the Order;
+  - (b) a work preparation requirement under Article 8C(1) of the Order;
+  - (c) a work search requirement under Article 8D(1)(b) of the Order (requirement to take action specified by the Department to obtain work); or
+  - (d) a requirement under Article 8G of the Order (connected requirements);
+- “**medium-level sanction**” means a reduction of a jobseeker's allowance in accordance with Article 8K of the Order for a sanctionable failure by the claimant to comply with—
+  - (a) a work search requirement under Article 8D(1)(a) of the Order (requirement to take all reasonable action to obtain paid work); or
+  - (b) a work availability requirement under Article 8E(1) of the Order (requirement to be available for work);
+- “**pre-claim failure**” means a sanctionable failure listed in Article 8J(3) of the Order;
+- “**reduction period**” means the number of days for which a reduction in the amount of an award of a jobseeker's allowance is to have effect;
+- “**sanctionable failure**” means a failure by a claimant which is sanctionable under Article 8J or 8K of the Order;
+- “**total outstanding reduction period**” means the total number of days for which no reduction has yet been applied for all of the claimant's higher-level sanctions, medium-level sanctions, low-level sanctions and reductions to which regulation 30 applies;
+- “**UC sanctionable failure**” means a failure by a claimant which is sanctionable under Article 31 or 32 of the Welfare Reform (Northern Ireland) Order 2015.
+
+### 19. General principles for calculating reduction periods
+
+(1) Subject to paragraph (3)[^key-5f2f7a74bfca69f1542134977d9d49ba] , the reduction period is to be determined in relation to each sanctionable failure in accordance with regulations 20, 21 and 22.
+
+(2) Reduction periods are to run consecutively.
+
+(3) Where the reduction period calculated in relation to a sanctionable failure in accordance with regulation 20, 21 or 22 would result in the total outstanding reduction period exceeding 546 days, the number of days in the reduction period in relation to that failure is to be adjusted so that 546 days is not exceeded.
+
+(4)[^key-8488aa5bc1a81d6f4d19a8d6b5ad31f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Higher-level sanctions
+
+(1)[^key-43c1d5dd0a9c6bcc2419d72403bac129] Where the sanctionable failure is not a pre-claim failure, the reduction for a higher-level sanction in the circumstances described in the first column of the following table is the period set out in the second column.
+
+| Circumstances in which reduction period applies | Reduction period |
+| --- | --- |
+| Where there has been no previous relevant failure by the claimant | 91 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent relevant failure is not within 365 days beginning with the date of the current sanctionable failure | 91 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
+| (a) 91 days | 182 days |
+| (b) 182 days | 182 days[^key-13296acc800928a4e3837613e9284f30] |
+| (c) [^key-d954f2ca6a226097cac1d0e79c1abbe2]... | [^key-d954f2ca6a226097cac1d0e79c1abbe2]. . . |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 14 days beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
+| (a) 91 days | 91 days |
+| (b) 182 days | 182 days |
+| (c) [^key-6d7d729e4a0f5b8d48f96ced2c62e220]... | [^key-6d7d729e4a0f5b8d48f96ced2c62e220]. . . |
+
+(2) But where—
+
+- (a) the other sanctionable failure referred to in paragraph (1) was a pre-claim failure; or
+- (b) the UC sanctionable failure referred to in paragraph (1) was a pre-claim failure under regulation 100(4) of the Universal Credit Regulations (Northern Ireland) 2016,
+
+it is to be disregarded in determining the reduction period in accordance with paragraph (1).
+
+(3) Where the sanctionable failure for which a reduction period is to be determined is a pre-claim failure, the reduction period is the lesser of—
+
+- (a) the period which would be applicable to the claimant under paragraph (1) if it were not a pre-claim failure; or
+- (b) where the sanctionable failure relates to paid work that was due to last for a limited period, the period beginning with the day after the date of the sanctionable failure and ending with the last day of the limited period,
+
+minus the number of days beginning with the day after the date of the sanctionable failure and ending with the day before the date of claim.
+
+(4)[^key-dbd5a7dfdf1530cffaebdf74e37fb1d2] In this regulation “relevant failure” means—
+
+- (a) a sanctionable failure giving rise to a higher-level sanction, or
+- (b) a UC sanctionable failure giving rise to a sanction under Article 31 of the Welfare Reform (Northern Ireland) Order 2015.
+
+### 21. Medium-level sanctions[^key-a88dd1437891d9226aed93a572477bd3]
+
+(1) The reduction for a medium-level sanction in the circumstances described in the first column of the following table is the period set out in the second column.
+
+| Circumstances in which reduction period applies | Reduction period |
+| --- | --- |
+| Where there has been no previous relevant failure by the claimant | 28 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is not within 365 days beginning with the date of the current sanctionable failure | 28 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
+| (a) 28 days | 91 days |
+| (b) 91 days | 91 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 14 days beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
+| (a) 28 days | 28 days |
+| (b) 91 days | 91 days. |
+
+(2) In this regulation “relevant failure” means—
+
+- (a) a sanctionable failure giving rise to a medium-level sanction, or
+- (b) a UC sanctionable failure giving rise to a sanction under Article 32 of the Welfare Reform (Northern Ireland) Order 2015 to which regulation 100 of the Universal Credit Regulations (Northern Ireland) 2016 applies.
+
+### 22. Low-level sanction
+
+(1) The reduction period for a low-level sanction is the total of the number of days referred to in paragraphs (2) and (3).
+
+(2) The number of days beginning with the date of the sanctionable failure and ending with—
+
+- (a) the day before the day on which the claimant meets a compliance condition specified by the Department;
+- (b) the day before the day on which the claimant is no longer required to take a particular action specified as a work preparation requirement by the Department under Article 8C(1) of the Order; or
+- (c) the day on which the award of a jobseeker's allowance is terminated,
+
+whichever is soonest.
+
+(3)[^key-12b4f81e86618d3bc5478916c59410a6] In the circumstances described in the first column of the following table, the number of days set out in the second column.
+
+| Circumstances applicable to claimant’s case | Number of days |
+| --- | --- |
+| Where there has been no previous relevant failure by the claimant | 7 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is not within 365 days beginning with the date of the current sanctionable failure | 7 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
+| (a) 7 days | 14 days |
+| (b) 14 days | 28 days |
+| (c) 28 days | 28 days |
+| Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 14 days beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
+| (a) 7 days | 7 days |
+| (b) 14 days | 14 days |
+| (c) 28 days | 28 days. |
+
+(4) In this regulation “relevant failure” means—
+
+- (a) a sanctionable failure giving rise to low-level sanction,
+- (b) a UC sanctionable failure giving rise to a sanction under Article 32 of the Welfare Reform (Northern Ireland) Order 2015 to which regulation 102 of the Universal Credit Regulations (Northern Ireland) 2016 applies, or
+- (c) an ESA sanctionable failure giving rise to a sanction under section 11J of the Welfare Reform Act (Northern Ireland) 2007 to which regulation 52 of the Employment and Support Allowance Regulations (Northern Ireland) 2016 applies.
+
+### 23. Start of the reduction
+
+A reduction period determined in relation to a sanctionable failure takes effect from—
+
+- (a) where the claimant has not been paid a jobseeker's allowance for the benefit week in which the sanctionable failure occurred, the first day of that benefit week;
+- (b) where the claimant has been paid a jobseeker's allowance for the benefit week referred to in paragraph (a), the first day of the first benefit week for which the claimant has not been paid a jobseeker's allowance; or
+- (c) where the amount of the award of the jobseeker's allowance for the benefit week referred to in paragraph (a) or (b) is already subject to a reduction because of a previous sanctionable failure, the first day of the first benefit week in respect of which the amount of the award is no longer subject to that reduction.
+
+### 24. Reduction period to continue where award of jobseeker's allowance terminates
+
+(1) Where an award of a jobseeker's allowance terminates while there is an outstanding reduction period—
+
+- (a) the period continues to run as if a daily reduction were being applied; and
+- (b) if the claimant becomes entitled to a new award of a jobseeker's allowance before the period expires, that new award is subject to a reduction for the remainder of the total outstanding reduction period.
+
+(2) Paragraph (3) applies where—
+
+- (a) an award of a jobseeker's allowance terminates before the Department determines that the amount of the award is to be reduced in accordance with Article 8J or 8K of the Order in relation to a sanctionable failure; and
+- (b) that determination is made after the claimant becomes entitled to a new award of a jobseeker's allowance.
+
+(3) Where this paragraph applies—
+
+- (a) the reduction period in relation to the sanctionable failure referred to in paragraph (2) is to be treated as having taken effect on the day before the previous award terminated;
+- (b) that reduction period is treated as having continued to run as if a daily reduction were being applied; and
+- (c) if the new award referred to in paragraph (2)(b) begins before that reduction period expires, that new award is subject to a reduction for the remainder of the total outstanding reduction period.
+
+### 25. Suspension of a reduction where a fraud sanction applies
+
+(1) A reduction in the amount of an award of a jobseeker's allowance in accordance with Article 8J or 8K of the Order is to be suspended for any period during which section 5B or 6 of the Social Security Fraud Act (Northern Ireland) 2001 [^c22880571] applies to the award.
+
+(2) The reduction ceases to have effect on the day on which that period begins and has effect again on the day after that period ends.
+
+### 26. Termination of a reduction
+
+(1) A reduction in the amount of an award of a jobseeker's allowance in accordance with Article 8J or 8K of the Order is to be terminated where, since the date of the most recent sanctionable failure which gave rise to such a reduction, the claimant has been in paid work—
+
+- (a) for a period of at least 26 weeks; or
+- (b) for more than one period where the total of those periods amounts to at least 26 weeks.
+
+(2) The termination of the reduction has effect—
+
+- (a) where the date on which paragraph (1) is satisfied falls within a period of entitlement to a jobseeker's allowance, from the beginning of the benefit week in which that date falls; or
+- (b) where that date falls outside a period of entitlement to a jobseeker's allowance, from the beginning of the first benefit week in relation to any subsequent award of a jobseeker's allowance.
+
+(3) The claimant is in paid work for the purposes of paragraph (1) where their weekly earnings are at least equal to their expected number of hours per week calculated under regulation 9 multiplied by the national minimum wage which would apply for a person of the claimant's age under the National Minimum Wage Regulations 2015 [^c22880581].
+
+### 27. Amount of reduction for each benefit week
+
+Where it has been determined that an award of a jobseeker's allowance is to be reduced in accordance with Article 8J or 8K of the Order, the amount of the reduction for each benefit week in respect of which a reduction has effect is to be calculated as follows.
+
+Step 1
+
+Take the number of days—
+
+- (a) in the benefit week; or
+- (b) if lower, in the total outstanding reduction period,
+
+and deduct any days in that benefit week or total outstanding reduction period for which the reduction is suspended in accordance with regulation 25.
+
+Step 2
+
+Multiply the number of days produced by step 1 by the daily reduction rate.
+
+Step 3
+
+Deduct the amount produced by step 2 from the amount of the award of jobseeker's allowance for the benefit week.
+
+### 28. Daily reduction rate
+
+(1) The daily reduction rate for the purposes of regulation 27 is the amount applicable to the claimant under regulation 49 multiplied by 52 and divided by 365.
+
+(2) The amount of the rate in paragraph (1) is to be rounded down to the nearest 10 pence.
+
+### 29. Failures for which no reduction is applied
+
+(1) No reduction is to be made to be made in accordance with Article 8J of the Order for a sanctionable failure where—
+
+- (a) the sanctionable failure is listed in Article 8J(2)(b) or (c) of the Order (failure to apply for a vacancy for paid work or failure to take up an offer of paid work) and the vacancy has arisen because of a strike arising from a trade dispute;
+- (b) the sanctionable failure is listed in Article 8J(2)(d) of the Order (ceases paid work or loses pay) and the following circumstances apply
+  - (i) the claimant's work search and work availability requirements are subject to limitations under Articles 8D(4) and 8E(3) of the Order in respect of work available for a certain number of hours;
+  - (ii) the claimant takes up paid work that is for a greater number of hours; and
+  - (iii) the claimant voluntarily ceases that paid work, or loses pay, within a trial period;
+- (c) the sanctionable failure is listed in Article 8J(3) of the Order (failures that occur before a claim is made) and the period of the reduction that would otherwise apply under regulation 20 is the same as or shorter than the number of days beginning with the day after the date of the sanctionable failure and ending with the day before the date of that claim;
+- (d) the sanctionable failure is that the claimant voluntarily ceases paid work, or loses pay, because of a strike arising from a trade dispute;
+- (e) the sanctionable failure is that the claimant voluntarily ceases paid work as a member of the regular forces or the reserve forces (within the meanings in section 374 of the Armed Forces Act 2006 [^c22880591], or loses pay in that capacity; or
+- (f) the sanctionable failure is that the claimant voluntarily ceases paid work in one of the following circumstances—
+  - (i) the claimant has been dismissed because of redundancy after volunteering or agreeing to be dismissed;
+  - (ii) the claimant has ceased work on an agreed date without being dismissed in pursuance of an agreement relating to voluntary redundancy; or
+  - (iii) the claimant has been laid-off or kept on short-time to the extent specified in Article 183 of the Employment Rights (Northern Ireland) Order 1996 [^c22880601], and has complied with the requirements of that section.
+
+(2) In this regulation—
+
+- “**redundancy**” has the same meaning as in Article 174(1) of the Employment Rights (Northern Ireland) Order 1996;
+- “**strike**” has the same meaning as in Article 129 of the trade Union and Labour Relations (Northern Ireland) Order 1995 [^c22880611];
+- “**trade dispute**” has the same meaning as Article 127 of that Order.
+
+### 30. Sanctions where universal credit ends and the person is entitled to a jobseeker's allowance
+
+(1) This regulation applies where—
+
+- (a) a person ceases to be entitled to universal credit;
+- (b) there is a reduction relating to the person's award of universal credit under Article 31 or 32 of the Welfare Reform (Northern Ireland) Order 2015; and
+- (c) the person is entitled to a jobseeker's allowance.
+
+(2) Any reduction relating to the award of the universal credit is to be applied to the award of the jobseeker's allowance.
+
+(3) The period for which the reduction relating to the award of the jobseeker's allowance is to have effect is the number of days which apply to the person under regulation 100, 101, 102 or 103 of the Universal Credit Regulations (Northern Ireland) 2016 minus any such days which—
+
+- (a) have already resulted in a reduction in the amount of universal credit; or
+- (b) fall after the date the award of universal credit was terminated and before the date on which the award of a jobseeker's allowance starts.
+
+(4) The daily reduction rate for the reduction relating to the award of the jobseeker's allowance is the amount of the claimant's jobseeker's allowance multiplied by 52 and divided by 365.
+
+(5) The claimant's award of a jobseeker's allowance is to be reduced by the daily reduction amount referred to in paragraph (4) for each day of the period referred to in paragraph (3).
+
+## PART 4 — INFORMATION AND EVIDENCE
+
+### 31. Provision of information and evidence
+
+(1) A claimant must supply such information in connection with the claim for a jobseeker's allowance, or any question arising out of it, as may be required by the Department.
+
+(2) A claimant must furnish such certificates, documents and other evidence as may be required by the Department, for the determination of the claim.
+
+(3) A claimant must furnish such certificates, documents and other evidence affecting their continuing entitlement to a jobseeker's allowance, whether that allowance is payable to them and, if so, in what amount, as the Department may require.
+
+(4) A claimant must notify the Department—
+
+- (a) of any change of circumstances which has occurred which the claimant might reasonably be expected to know might affect their entitlement to a jobseeker's allowance or the payability or amount of such an allowance; and
+- (b) of any such change of circumstances which the claimant is aware is likely to occur.
+
+(5) The notification referred to in paragraph (4) must be given as soon as reasonably practicable after the occurrence or, as the case may be, after the claimant becomes so aware, by giving notice of the change to an office of the Department specified by it—
+
+- (a) in writing or by telephone (unless the Department determines in any particular case that notice must be given in writing or may be given otherwise than in writing or by telephone); or
+- (b) in writing if in any particular case the Department requires written notice (unless the Department determines in any particular case to accept notice given otherwise than in writing).
+
+(6) Where, pursuant to paragraph (1), a claimant is required to supply information, they must do so when they participate in a work-focused interview under Article 8B of the Order, if so required by the Department, or within such period as the Department may require.
+
+(7) Where pursuant to paragraph (2) or (3), a claimant is required to provide certificates, documents or other evidence they must do so within 7 days of being so required or such longer period as the Department may consider reasonable.
+
+### 32. Information given electronically
+
+(1) A person may give any certificate, notice, information or evidence required to be given and in particular may give notice of a change of circumstances required to be notified under regulation 31 by means of an electronic communication, in accordance with the provisions set out in Schedule 1 to the Claims and Payments Regulations 2016.
+
+(2) In this regulation, “**electronic communication**” has the meaning given in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001 [^c22880621].
+
+## PART 5 — CONDITIONS OF ENTITLEMENT
+
+### 33. The conditions and relevant earnings
+
+(1) A claimant's relevant earnings for the purposes of Article 4(2)(b) of the Order (the contribution-based conditions) [^c22880631] are the total amount of the claimant's earnings equal to the lower earnings limit for the base year.
+
+(2) For the purposes of paragraph (1), earnings which exceed the lower earnings limit are to be disregarded.
+
+### 34. Relaxation of the first set of conditions
+
+(1) A claimant who satisfies the condition in paragraph (2) is to be taken to satisfy the first set of conditions if the claimant has—
+
+- (a) paid Class 1 contributions before the relevant benefit week in respect of any one tax year; and
+- (b) earnings equal to the lower earnings limit in that tax year on which primary Class 1 contributions have been paid or treated as paid which in total, and disregarding any earnings which exceed the lower earnings limit for that year, are not less than that limit multiplied by 26.
+
+(2) The condition referred to in paragraph (1) is that the claimant, in respect of any week during the last complete tax year preceding the relevant benefit year, is entitled to be credited with earnings in accordance with regulation 9E of the Social Security (Credits) Regulations (Northern Ireland) 1975 (credits for certain spouses and civil partners of members of Her Majesty's forces) [^c22880641].
+
+(3) In this regulation, “**relevant benefit week**” means the week in relation to which the question of entitlement to a jobseeker's allowance is being considered.
+
+### 35. Waiting days
+
+(1) Paragraph (4) of Schedule 1 to the Order does not apply in a case where a person's entitlement to a jobseeker's allowance commences within 12 weeks of an entitlement of theirs to income support, incapacity benefit, employment and support allowance , carer’s allowance or carer support payment[^key-57c5d2300b468bae979cfcefe1a83c4c] coming to an end.
+
+(2) In the case of a person to whom paragraph 4 of Schedule 1 to the Order applies, the number of days is 7.
+
+### 36. Jobseeking period
+
+(1) For the purposes of the Order, but subject to paragraph (2), the “**jobseeking period**” means any period throughout which the claimant satisfies or is treated as satisfying the conditions specified in Article 3(2)(b) and (e) to (i) of the Order (conditions of entitlement to a jobseeker's allowance) [^c22880651].
+
+(2) The following periods are not to be, or to be part of, a jobseeking period—
+
+- (a) any period in respect of which no claim for a jobseeker's allowance has been made or treated as made;
+- (b) such period as falls before the day on which a claim for a jobseeker's allowance is made or treated as made;
+- (c) where a claim for a jobseeker's allowance has been made or treated as made but no entitlement to benefit arises in respect of a period before the date of claim by virtue of section 1(2) of the Social Security Administration (Northern Ireland) Act 1992 (limits for backdating entitlement) [^c22880661], that period;
+- (d) any week in which a claimant is not entitled to a jobseeker's allowance in accordance with Article 16 of the Order (trade disputes); or
+- (e) any period in respect of which a claimant is not entitled to a jobseeker's allowance because section 1(1A) of the Social Security Administration (Northern Ireland) Act 1992 (requirement to state national insurance number) [^c22880671] applies.
+
+(3) For the purposes of Article 7 of the Order (duration of a jobseeker's allowance), a day must be treated as if it was a day in respect of which the claimant was entitled to a jobseeker's allowance where that day—
+
+- (a) falls within a jobseeking period; and
+- (b) is a day
+  - (i) on which the claimant satisfies the conditions specified in Article 4 of the Order (the contribution-based conditions) [^c22880681] other than the conditions specified in Article 4(1)(c) and (d) of the Order, and
+  - (ii) on which a jobseeker's allowance is not payable to the claimant by virtue of Articles 8J or 8K of the Order or by virtue of a restriction imposed pursuant to section 5B, 6, 7 or 8 of the Social Security Fraud Act (Northern Ireland) 2001 (loss of benefit provisions) [^c22880691].
+
+### 37. Jobseeking periods: periods of interruption of employment
+
+(1) For the purposes of Article 4(4)(b)(i) of the Order and for determining any waiting days—
+
+- (a) where a linked period commenced before 7th October 1996, any days of unemployment which form part of a period of interruption of employment where the last day of unemployment in that period of interruption of employment was no more than 8 weeks before the date upon which that linked period commenced;
+- (b) where a jobseeking period or a linked period commences on 7th October 1996, any period of interruption of employment ending within the 8 weeks preceding that date; or
+- (c) where a jobseeking period or a linked period commences after 7th<sup></sup>October 1996, any period of interruption of employment ending within the 12 weeks preceding the day the jobseeking period or linked period commenced,
+
+must be treated as a jobseeking period and, for the purposes of sub-paragraph (a), a day must be treated as being, or not being, a day of unemployment in accordance with section 25A of the Benefits Act (determination of days for which unemployment benefit is payable) [^c22880701] and with any regulations made under that section, as in operation on 6th October 1996.
+
+(2) In this regulation—
+
+- “**period of interruption of employment**” in relation to a period prior to 7th October 1996 has the same meaning as it had in the Benefits Act by virtue of section 25A of that Act (determination of days for which unemployment benefit is payable) as in operation on 6th October 1996;
+- “**waiting day**” means a day—
+  - (a) at the beginning of a jobseeking period; and
+  - (b) in respect of which a person is not entitled to a jobseeker's allowance.
+
+### 38. Linking periods
+
+(1) For the purposes of the Order, 2 or more jobseeking periods must be treated as one jobseeking period where they are separated by a period comprising only—
+
+- (a) any period of not more than 12 weeks;
+- (b) a linked period
+- (c) any period of not more than 12 weeks falling between—
+  - (i) any 2 linked periods; or
+  - (ii) a jobseeking period and a linked period; or
+- (d) a period in respect of which the claimant is summoned for jury service and is required to attend court.
+
+(2) Linked periods for the purposes of the Order are any of the following periods—
+
+- (a) to the extent specified in paragraph (4), any period throughout which the claimant is entitled to a carer's allowance under section 70 of the Benefits Act or carer support payment[^key-7433a6e3c685988aea48fb9daa8e1fea] [^c22880711];
+- (b) any period throughout which the claimant is incapable of work, or is treated as incapable of work, in accordance with Part XIIA of the Benefits Act (incapacity for work) [^c22880721];
+- (c) any period throughout which the claimant has, or is treated as having, limited capability for work for the purposes of Part 1 of the Welfare Reform Act (Northern Ireland) 2007 [^c22880731];
+- (d) any period throughout which the claimant was entitled to a maternity allowance under section 35 or 35Bof the Benefits Act [^c22880741];
+- (e) any period throughout which the claimant was engaged in training for which a training allowance is payable;
+- (f) a period which includes 6th October 1996 during which the claimant attends court in response to a summons for jury service and which was immediately preceded by a period of entitlement to unemployment benefit.
+
+(3) A period is a linked period for the purposes of Article 4(4)(b)(ii) of the Order only where it ends within 12 weeks or less of the commencement of a jobseeking period or of some other linked period.
+
+(4) A period of entitlement to carer's allowance or carer support payment[^key-0e402524ee6f72872d0e03d838c1f7a5] is a linked period only where it enables the claimant to satisfy contribution conditions for entitlement to a jobseeker's allowance which the claimant would otherwise be unable to satisfy.
+
+### 39. Persons approaching retirement and the jobseeking period
+
+(1) The provisions of this regulation apply only to days—
+
+- (a) which fall after 6th October 1996 and within a tax year in which the claimant has attained the qualifying age for state pension credit but is under pensionable age; and
+- (b) in respect of which a jobseeker's allowance is not payable because the decision of the determining authority is that the claimant—
+  - (i) has exhausted their entitlement to a jobseeker's allowance;
+  - (ii) fails to satisfy one or both of the contribution conditions specified in Article 4(1)(a) and (b) of the Order; or
+  - (iii) is entitled to a jobseeker's allowance but the amount payable is reduced to nil by virtue of deductions made in accordance with regulation 51 for pension payments.
+
+(2) For the purposes of regulation 36(1) (jobseeking period) but subject to paragraphs (3), (4) and (5), any days to which paragraph (1) applies and in respect of which the person does not satisfy the condition specified in Article 3(2)(b) of the Order (conditions of entitlement to a jobseeker's allowance), are to be days on which the person is treated as satisfying the condition in Article 3(2)(b) and (e) to (i) of the Order.
+
+(3) Where a person is employed as an employed earner or a self-employed earner for a period of more than 12 weeks, then no day which falls within or follows that period is to be a day on which the person is treated as satisfying those conditions, but this paragraph is not to prevent paragraph (2) from again applying to a person who makes a claim for a jobseeker's allowance after that period.
+
+(4) Any day which is, for the purposes of section 30C of the Benefits Act [^c22880751], a day of incapacity for work falling within a period of incapacity for work is not to be a day on which the person is treated as satisfying the conditions referred to in paragraph (2).
+
+(5) Any day which, for the purposes of Part 1 of the Welfare Reform Act (Northern Ireland) 2007, is a day where the person has limited capability for work falling within a period of limited capability for work is not to be a day on which the person is treated as satisfying the conditions referred to in paragraph (2).
+
+### 40. Persons temporarily absent from Northern Ireland
+
+(1) For the purposes of the Order, a claimant must be treated as being in Northern Ireland during any period of temporary absence from Northern Ireland—
+
+- (a) not exceeding 4 weeks in the circumstances specified in paragraph (2);
+- (b) not exceeding 8 weeks in the circumstances specified in paragraph (3); or[^key-c11152024b2cf9d53921c78a0b5bc368]
+- (c) not exceeding 26 weeks in the circumstances specified in paragraph (6A).
+
+(2) The circumstances specified in this paragraph are that—
+
+- (a) the claimant is in Great Britain and satisfies the conditions of entitlement to a jobseeker's allowance;
+- (b) immediately preceding the period of absence from Northern Ireland, the claimant was entitled to a jobseeker's allowance; and
+- (c) the period of absence is unlikely to exceed 52 weeks.
+
+(3) The circumstances specified in this paragraph are that—
+
+- (a) immediately preceding the period of absence from Northern Ireland the claimant was entitled to a jobseeker's allowance;
+- (b) the period of absence is unlikely to exceed 52 weeks;
+- (c) the claimant continues to satisfy or be treated as satisfying the other conditions of entitlement to a jobseeker's allowance;
+- (d) the claimant is, or the claimant and any other member of their family are, accompanying a member of the claimant's family who is a child or young person solely in connection with arrangements made for the treatment of that child or young person for a disease or bodily or mental disablement; and
+- (e) those arrangements relate to treatment—
+  - (i) outside Northern Ireland;
+  - (ii) during the period whilst the claimant is, or the claimant and any member of their family are, temporarily absent from Northern Ireland; and
+  - (iii) by, or under the supervision of, a person appropriately qualified to carry out that treatment.
+
+(4) A person must also be treated, for the purposes of the Order, as being in Northern Ireland during any period of temporary absence from Northern Ireland where—
+
+- (a) the absence is for the purpose of attending an interview for employment;
+- (b) the absence is for 7 consecutive days or less;
+- (c) notice of the proposed absence is given to the Department before departure, and is given in writing if so required by the Department; and
+- (d) on their return to Northern Ireland the person satisfies the Department that they attended for the interview in accordance with their notice.
+
+(5) For the purpose of the Order a claimant must be treated as being in Northern Ireland during any period of temporary absence from Northern Ireland if—
+
+- (a) the claimant was entitled to a jobseeker's allowance immediately before the beginning of that period of temporary absence; and
+- (b) that period of temporary absence is for the purpose of the claimant receiving treatment at a hospital or other institution outside Northern Ireland where the treatment is being provided—
+  - (i) under Articles 5, 7 and 8 of the Health and Personal Social Services (Northern Ireland) Order 1972 (services generally) [^c22880761];
+  - (ii) pursuant to arrangements made under Article 14A of that Order (voluntary organisations and other bodies) [^c22880771], or
+  - (iii) pursuant to arrangements made under paragraph 13 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991 (Health and Social Services trusts — specific powers) [^c22880781].
+
+(6) For the purposes of the Order, a person must be treated as being in Northern Ireland during any period of temporary absence from Northern Ireland not exceeding 15 days where—
+
+- (a) the absence is for the purpose of taking part in annual continuous training as a member of any reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001 [^c22880791]; and
+- (b) the person was entitled to a jobseeker's allowance immediately before the period of absence.
+
+(6A)[^key-601bfb3328b0908b98f214075e37d31b] The circumstances in this paragraph are that—
+
+- (a) the claimant was present in a country or territory outside Northern Ireland immediately before His Majesty’s Government—
+  - (i) provided public information to advise British nationals to leave that country or territory, or
+  - (ii) arranged the evacuation of British nationals from that country or territory;
+- (b) paragraph (1)(a) or (b), (2), (4), (5) or (6) applied to the claimant when the public information was issued or the evacuation began;
+- (c) the Department is satisfied that it would be unreasonable to expect the claimant to return, or to have returned, to Northern Ireland; and
+- (d) the claimant did not enter that country or territory when His Majesty’s Government public information was to advise British nationals to leave that country or territory.
+
+(6B) Where a person is temporarily absent from Northern Ireland, except where the circumstances in paragraph (5) apply, the total period of absence where the person is treated as present in Northern Ireland will not exceed 6 months.
+
+(7) In this regulation, “**appropriately qualified**” means qualified to provide medical treatment, physiotherapy or a form of treatment which is similar to, or related to, either of those forms of treatment.
+
+### 41. Remunerative work
+
+(1) For the purposes of the Order, “**remunerative work**” means work—
+
+- (a) for which payment is made or which is done in expectation of payment; and
+- (b) in which a claimant is—
+  - (i) engaged for 16 or more hours per week; or
+  - (ii) where their hours of work fluctuate, engaged on average for 16 or more hours per week.
+
+(2) For the purpose of paragraph (1), the number of hours in which a claimant is engaged in work is to be determined—
+
+- (a) where no recognisable cycle has been established in respect of a person's work, by reference to the number of hours or, where those hours are likely to fluctuate, the average of the hours, which they are expected to work in a week;
+- (b) where the number of hours for which they are engaged fluctuate, by reference to the average of hours worked over—
+  - (i) if there is a recognisable cycle of work, the period of one complete cycle (including, where the cycle involves periods in which the person does not work, those periods but disregarding any other absences);
+  - (ii) in any other case, the period of 5 weeks immediately before the date of claim or the date of supersession, or such other length of time as may, in the particular case, enable the person's average hours of work to be determined more accurately.
+
+(3) In determining in accordance with this regulation the number of hours for which a person is engaged in remunerative work—
+
+- (a) that number must include any time allowed to that person by their employer for a meal or for refreshments, but only where the person is, or expects to be, paid earnings in respect of that time;
+- (b) no account must be taken of any hours in which the person is engaged in an employment or scheme to which any one of sub-paragraphs (a) to (e) of regulation 43(1) (persons treated as not engaged in remunerative work) applies;
+- (c) no account must be taken of any hours in which the person is engaged otherwise than in an employment as an earner in caring for—
+  - (i) a person who is in receipt of attendance allowance , pension age disability payment[^key-56be391996f1cee19ebfc6bbb8e614dd], the care component, the daily living component or armed forces independence payment;
+  - (ii) a person who has claimed an attendance allowance , pension age disability payment[^key-be64803a2f676234a4ef7e51bdc0b675], armed forces independence payment, a disability living allowance , Scottish adult disability living allowance[^key-74fee8919e894adda04f270eff0de0af] child disability payment[^key-5a5329fd359cb992b6560362baaad349] ,[^key-8cbbcf7043044c96f9ad1743e8459c27] personal independence payment or adult disability payment[^key-a1e3c4c2c6e66d4363b07b9053fedc9b] , but only for the period beginning with the date of claim and ending on the date on which the claim is determined or, if earlier, on the expiration of the period of 26 weeks from the date of claim;
+  - (iii) another person and is in receipt of a carer's allowance under section 70 of the Benefits Act or carer support payment[^key-3954c44010f7bb6b6d85a5b190a57405]; or
+  - (iv) a person who has claimed either an attendance allowance , pension age disability payment[^key-74a08d1fb6dec913a250a84ca15bc6c7], armed forces independence payment, a disability living allowance child disability payment[^key-01648af7d8396243ca35cf06066dca19] ,[^key-fc9fc531784e8153896f85fa41ddf507] a personal independence payment or adult disability payment[^key-a200aefbe9591a08dfe3cff290495157] and has an award of attendance allowance , pension age disability payment, armed forces independence payment, the care component or the daily living component for a period commencing after the date on which that claim was made.
+
+(4) In this regulation—
+
+- “[^key-6b21cafb5b153e98a877a1a5372cf680]**adult disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
+- “**armed forces independence payment**” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 [^c22880801];
+- “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;[^key-170f7fb5e5c6d8e9c7ddce7a073e9abc]
+- “**disability living allowance**” means a disability living allowance under section 71 of the Benefits Act [^c22880811];
+- “care component” means—[^key-5bb5c51086552178a2f44cd535b32246]
+  - (a) the care component of disability living allowance at the highest or middle rate prescribed under section 72(3) of the Benefits Act; [^key-7078ad6f21b9eb2e123edb0082e9fb0c]...
+  - (b) the care component of child disability payment at the highest or middle rate provided for in regulation 11(5) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;or[^key-f7de24cb27211eaef96ca0454ee52059]
+  - (c) the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- “[^key-e37a719c71b7ca56796a6678f49a1f0a]**daily living component**” means—
+  - (a) in respect of personal independence payment, the daily living component of that payment at the standard or enhanced rate referred to in Article 83 of the Welfare Reform (Northern Ireland) Order 2015;
+  - (b) in respect of adult disability payment, the daily living component of that payment at the standard or enhanced rate referred to in regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022.
+- “[^key-34a66114e8eab12851bf6c67ff4a7f76]**pension age disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Older People (Scotland) Regulations 2024;
+- “**personal independence payment**” means an allowance under Part 5 of the Welfare Reform (Northern Ireland) Order 2015.
+- “[^key-06204a878b4e9c102a6bafd6adf53f4c]**Scottish adult disability living allowance**” has the meaning given in regulation 2 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025.
+
+### 42. Persons treated as engaged in remunerative work
+
+(1) Except in the case of a person on maternity leave, paternity leave, shared parental leave , parental bereavement leave[^key-47cf076fdafb595499b3911b2d5c333c], adoption leave or absent from work through illness, a person is to be treated as engaged in remunerative work during any period for which they are absent from work referred to in regulation 41(1) (remunerative work) where the absence is either without good cause or by reason of a recognised, customary or other holiday.
+
+(2) Subject to paragraph (3), a person who was, or was treated as being, engaged in remunerative work and in respect of that work earnings to which regulations 58(1)(c) (earnings of employed earners) applies are paid, is to be treated as engaged in remunerative work for the period for which those earnings are taken into account in accordance with Part 7 (earnings).
+
+(3) Paragraph (2) does not apply to earnings disregarded under paragraph 1 of the Schedule to these Regulations.
+
+### 43. Persons treated as not engaged in remunerative work
+
+(1) A person is to be treated as not engaged in remunerative work in so far as they are—
+
+- (a) engaged by a charity [^c22880821] or a voluntary organisation or are a volunteer where the only payment received by them or due to be paid to them is a payment in respect of any expenses incurred, or to be incurred, if they otherwise derive no remuneration or profit from the employment;
+- (b) engaged on a scheme for which a training allowance is being paid;
+- (c) engaged in employment as—
+  - (i) a part-time fire and rescue officer employed by the Northern Ireland Fire and Rescue Service Board under the Fire and Rescue Services (Northern Ireland) Order 2006 [^c22880831];
+  - (ii) an auxiliary coastguard in respect of coastal rescue activities;
+  - (iii) a person engaged part-time in the manning or launching of a lifeboat;
+  - (iv) a member of any reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001;
+  - (v) a member of the Police Service for Northern Ireland Reserve provided for under section 1 of the Police (Northern Ireland) Act 2000 [^c22880841];
+- (d) performing their duties as a councillor, and for this purpose “**councillor**” has the same meaning as in section 167F(2) of the Benefits Act [^c22880851];
+- (e) engaged in caring for a person who is accommodated with them by virtue of arrangements made under any of the provisions referred to in regulation 60(2)(b) or (c), and are in receipt of any payment specified in regulation 60(2)(b) or (c);
+- (f) engaged in an activity in respect of which—
+  - (i) a sports award had been made, or is to be made, to them; and
+  - (ii) no other payment is made or is expected to be made to them;
+- (g) engaged in the programme known as Work Experience.
+
+(2) In this regulation, “**volunteer**” means a person who is engaged in voluntary work, otherwise than for a close relative, grand-parent, grand-child, uncle, aunt, nephew or niece, where the only payment received, or due to be paid to the person by virtue of being so engaged, is in respect of any expenses reasonably incurred by the person in connection with that work.
+
+### 44. Relevant education
+
+(1) For the purposes of the Order—
+
+- (a) a person is to be treated as receiving relevant education if they are a qualifying young person; and
+- (b) the following are to be treated as relevant education—
+  - (i) undertaking a full-time course of advanced education; and
+  - (ii) undertaking any other full-time course of study or training at an educational establishment for which a student loan, grant or bursary is provided for the person's maintenance or would be available if the person applied for it.
+
+(2) In paragraph (1)(b)(i), “**course of advanced education**” means—
+
+- (a) a course of study leading to —
+  - (i) a postgraduate degree or comparable qualification;
+  - (ii) a first degree or comparable qualification;
+  - (iii) a diploma of higher education;
+  - (iv) a higher national diploma; or
+- (b) any other course of study which is of a standard above advanced GNVQ or equivalent, including a course which is of a standard above a general certificate of education (advanced level), or above a Scottish national qualification (higher or advanced higher).
+
+(3) A claimant who is not a qualifying young person and is not undertaking a course described in paragraph (1)(b) is nevertheless to be treated as receiving relevant education if the claimant is undertaking a course of study or training that is not comparable with any work-related requirement imposed on the claimant by the Department.
+
+(4) For the purposes of paragraph (1)(b), a person is to be regarded as undertaking a course—
+
+- (a) throughout the period beginning on the date on which the person starts undertaking the course and ending on the last day of the course or on such earlier date (if any) as the person finally abandons the course or is dismissed from it; or
+- (b) where a person is undertaking a part of a modular course, for the period beginning on the day on which that part of the course starts and ending—
+  - (i) on the last day on which the person is registered with the provider of the course, or part of the course, as undertaking that part; or
+  - (ii) on such earlier date (if any) as the person finally abandons the course or is dismissed from it.
+
+(5) The period referred to in paragraph (4)(b) includes—
+
+- (a) where a person has failed examinations or has failed to complete successfully a module relating to a period when the person was undertaking a part of the course, any period in respect of which the person undertakes the course for the purpose of retaking those examinations or that module; and
+- (b) any period of vacation within the period specified in paragraph (4)(b) or immediately following that period except where the person has registered with the provider of the course, or part of the course, to attend or undertake the final module in the course and the vacation immediately follows the last day on which the person is to attend or undertake the course.
+
+(6) A person is not to be regarded as undertaking a course by virtue of this regulation for any part of the period mentioned in paragraph (4) during which the following conditions are met—
+
+- (a) the person has, with the consent of the relevant educational establishment, ceased to attend or undertake the course because they are ill or caring for another person;
+- (b) the person has recovered from that illness or ceased caring for that person within the past year, but not yet resumed the course; and
+- (c) the person is not eligible for a grant or student loan.
+
+(7) In this regulation, except where paragraph (8) applies, “**qualifying young person**” means a person who has reached the age of 16 but not the age of 20—
+
+- (a) up to, but not including, the 1st September following their 16th birthday; and
+- (b) up to, but not including, the 1st September following their 19th birthday, if they are enrolled in, or accepted for, approved training or a course of education—
+  - (i) which is not a course of advance education;
+  - (ii) which is provided at a school or college or provided elsewhere but approved by the Department; and
+  - (iii) where the average time spent during term time (excluding meal breaks) in receiving tuition, engaging in practical work, or supervised study, or taking examinations exceeds 12 hours per week.
+
+(8) A person is not a “qualifying young person” within the meaning in paragraph (7) where they—
+
+- (a) are aged 19 and have not started the education or training or been enrolled or accepted for it before reaching the age of 19;
+- (b) fall within paragraph (7)(b) and their education or training is provided by means of a contract of employment; or
+- (c) are receiving universal credit, an employment or support allowance or a jobseeker's allowance.
+
+(9) In this regulation—
+
+- “**approved training**” means training in pursuance of arrangements made under section 3 of the Employment and Training Act (Northern Ireland) 1950 [^c22880861] which is approved by the Department for the purposes of this regulation;
+- “**modular course**” means a course which consists of two or more modules, the successful completion of a specified number of which is required before a person is considered by the educational establishment to have completed the course;
+- “**student loan**” means a loan towards a student's maintenance pursuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998 [^c22880871], section 22 of the Teaching and Higher Education Act 1998 [^c22880881], section 73 of the Education (Scotland) Act 1980 [^c22880891], including in Scotland a young student's bursary paid under regulation 4(1)(c) of the Students' Allowances (Scotland) Regulations 2007 [^c22880901].
+
+### 45. Short periods of sickness[^key-36e02a6cff27511f53961b0e4315721e]
+
+(1) Subject to the following provisions of this regulation, a person who—
+
+- (a) has been awarded a jobseeker's allowance, or is a person to whom any of the circumstances mentioned in Article 8J(2) or (3) or 8K(2) of the Order apply;
+- (b) proves to the satisfaction of the Department that they are unable to work on account of some specific disease or disablement; and
+- (c) during the period of their disease or disablement, satisfies the requirements for entitlement to a jobseeker's allowance other than those specified in Article 3(2)(f) of the Order (capable of work or not having limited capability for work) [^c22880911],
+
+is to be treated for a period of not more than two weeks, beginning on the day on which sub-paragraphs (a) to (c) are met, as capable of work or as not having limited capability for work, except where the claimant states in writing that for the period of their disease or disablement they propose to claim or have claimed employment and support allowance or universal credit.
+
+(2) The evidence which is required for the purposes of paragraph (1)(b) is a declaration made by the claimant in writing, in a form approved for the purposes by the Department, that they have been unfit for work from a date or for a period specified in the declaration.
+
+(3) Paragraph (1) does not apply to a claimant on more than two occasions in any one jobseeking period or, where a jobseeking period exceeds 12 months, in each successive 12 months within that period; and for the purposes of calculating any period of 12 months, the first 12 months in the jobseeking period commences on the first day of the jobseeking period.
+
+(4) Paragraph (1) does not apply to any person where the first day in respect of which they are unable to work falls within 8 weeks after the day the person ceased to be entitled to statutory sick pay.
+
+(5) Paragraph (1) does not apply to a claimant who is temporarily absent from Northern Ireland in the circumstances prescribed by regulation 40(5).
+
+(6) Paragraph (1) does not apply to any person—
+
+- (a) during any period where the person is treated as capable of work or as not having limited capability for work under regulation 46 (extended period of sickness); or
+- (b) where the first day in respect of which that person would, apart from this subparagraph, have been treated as capable of work or as not having limited capability for work under this regulation falls immediately after the last day on which the person is so treated under regulation 46.
+
+(7)[^key-443a3fd3ff556ecd117b19518f8d84c8] For the purposes of calculating the number of occasions under paragraph (3), any occasion to which regulation 46 applies to the claimant is to be disregarded.
+
+### 46. Extended periods of sickness[^key-a90b50069b2634754da66856f98abb51]
+
+(1) This regulation applies to a person who—
+
+- (a) has been awarded a jobseeker's allowance or is a person to whom any of the circumstances mentioned in Article 8J(2) or (3) or 8K(2) of the Order apply;
+- (b) proves to the satisfaction of the Department that they are unable to work on account of some specific disease or disablement (“the initial condition”)[^key-38cce86a0cc73df2ed52c43b002ddd2c];
+- (c) either—
+  - (i) declares that they have been unable to work, or expect to be unable to work, on account of the initial condition or any other disease or disablement[^key-f4601b605ca6a82782811ef52d4a519a] for more than 2 weeks but not[^key-f1c754a5ea812687411780627b167d9c] for more than 13 weeks; or
+  - (ii) is not a person to whom regulation 45(1) (short periods of sickness) applies by virtue of paragraph (3) of that regulation, and declares that he has been unable to work or expects to be unable to work, on account of the initial condition or any other disease or disablement, for 2 weeks or less[^key-814f8426987b791b7fb4691a69431b02];
+- (d) during the period of their disease or disablement, satisfies the requirements for entitlement to a jobseeker's allowance except those specified in Article 3(2)(f) (capable of work or not having limited capability for work) of the Order; and
+- (e) has not stated in writing that for the period of the disease or disablement they propose to claim or have claimed an employment and support allowance or universal credit.
+
+(2) The evidence which is required for the purposes of paragraph (1)(b) in a case where paragraph (1)(c)(i) applies is—
+
+- (a) evidence of incapacity for work or limited capability for work in accordance with the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976 (which prescribe the form of [^key-7f429ffc1c1eb481661b1963e0d94805]... statement or other evidence required in each case) [^c22880921]; and
+- (b) any such additional information as the Department may request.
+
+(3) Subject to paragraph (3A),[^key-20cc5a97238003bcb0d6cdb787fc76a6] the evidence which is required for the purposes of paragraph (1)(b) in a case where paragraph (1)(c)(ii) applies is a declaration made by the person in writing in a form approved for the purposes by the Department, that the person has been unfit for work from a date or for a period specified in the declaration.
+
+(3A)[^key-69c84be8509d154b67131e0468eed66a] In a case where paragraph (1)(c)(ii) applies, but the period in which the person has been unable to work or expects to be unable to work in fact exceeds 2 weeks, the evidence that is required for the purposes of paragraph (1)(b) is the evidence that is required in a case where paragraph (1)(c)(i) applies.
+
+(4) Subject to the following paragraphs, a person to whom this regulation applies is to be treated as capable of work or as not having limited capability for work for the continuous period beginning on the first day on which the person is unable to work on account of [^key-2c06ad884091e6ce3168252972c8785f]...disease or disablement (“the first day” ) and ending on—
+
+- (a) the last such day; or
+- (b) if that period would otherwise exceed 13 weeks, the day which is 13 weeks after the first day.
+
+(5) This regulation does not apply to a person on more than one occasion in any one period of twelve months starting on the first day applying for the purpose of paragraph (4).
+
+(6) Paragraphs (4) and (5) of regulation 45 apply for the purposes of this regulation as they apply for the purposes of paragraph (1) of regulation 45.
+
+### 47. Periods of sickness and persons receiving treatment outside Northern Ireland
+
+(1) A person—
+
+- (a) who has been awarded a jobseeker's allowance, or is a person to whom any of the circumstances mentioned in Article 8J(2) or (3) or 8K(2) of the Order apply;
+- (b) who is temporarily absent from Northern Ireland in the circumstances prescribed by regulation 40(5);
+- (c) who proves to the satisfaction of the Department that they are unable to work on account of some specific disease or disablement; and
+- (d) but for their disease or disablement, would satisfy the requirements for entitlement to a jobseeker's allowance other than those specified in Article 3(2)(f) of the Order (capable of work or not having limited capability for work),
+
+is to be treated during that period of temporary absence abroad as capable of work or as not having limited capability for work, except where that person has stated in writing before that period of temporary absence abroad begins that immediately before the beginning of the period of that temporary absence abroad they have claimed employment and support allowance.
+
+(2) The evidence which is required for the purposes of paragraph (1)(c) is a declaration made by that person in writing, in a form approved for the purposes by the Department that they are unfit for work from a date or for a period specified in the declaration.
+
+### 48. Prescribed amount of earnings
+
+The prescribed amount of earnings for the purposes of Article 4(1)(c) of the Order (the contribution-based conditions) is to be calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2016/218)
+
+where—
+
+A is the age-related amount applicable to the claimant for the purposes of Article 6(1)(a) of the Order [^c22880931]; and
+
+D is any amount disregarded from the claimant's earnings in accordance with the Schedule to these Regulations and either regulation 59(2) (calculation of net earnings of employed earners) or regulation 61(2) (calculation of net profit of self-employed earners).
+
+## PART 6 — AMOUNTS OF JOBSEEKER'S ALLOWANCE
+
+### 49. Weekly amounts of jobseeker's allowance
+
+(1) In the case of a jobseeker's allowance, the age-related amount applicable to a claimant for the purposes of Article 6(1)(a) of the Order is—
+
+- (a) in the case of a person who has not attained the age of 25, £75.65[^key-b896bad603360e6e870b48f62cfa3c9d] per week;
+- (b) in the case of a person who has attained the age of 25, £95.55[^key-bc530ad395dd980e4e5aedad4d5dfa7b] per week.
+
+(2) Where the amount of any jobseeker's allowance would, but for this paragraph, include a fraction of one penny, that fraction is to be treated as one penny.
+
+### 50. Deductions in respect of earnings
+
+The deduction in respect of earnings which falls to be made in accordance with Article 6(1)(b) of the Order [^c22880941] is an amount equal to the weekly amount of the claimant's earnings calculated in accordance with Part 7 (earnings).
+
+### 51. Payment by way of pensions
+
+(1) The deduction in respect of pension payments, PPF payments or FAS payments which fall to be made in accordance with Article 6(1)(b) of the Order is a sum equal to the amount by which that payment exceeds or, as the case may be, the aggregate of those payments exceed £50 per week.
+
+(2) Where pension payments, PPF payments or FAS payments first begin to be made to a person for a period starting other than on the first day of a benefit week, the deduction referred to in paragraph (1) has effect from the beginning of that benefit week.
+
+(3) Where pension payments, PPF payments or FAS payments are already in payment to a person and a change in rate of payment takes effect in a week other than at the beginning of the benefit week, the deduction referred to in paragraph (1) has effect from the first day of that benefit week.
+
+(4) In determining the amount of any pension payments, PPF payments or FAS payments for the purposes of paragraphs (1) and (5) there are to be disregarded—
+
+- (a) any payments from a personal pension scheme, an occupational pension scheme or a public service pension scheme which are payable to the claimant and which arose in accordance with the terms of such a scheme on the death of a person who was a member of the scheme in question; and
+- (b) any PPF payments or FAS payments which—
+  - (i) are payable to the claimant; and
+  - (ii) arose on the death of a person who had an entitlement to such payments.
+
+(5) Where a pension payment, PPF payment or FAS payment, or an aggregate of such payments, as the case may be, is paid to a person for a period other than a week, such payments are to be treated as being made to that person by way of weekly pension payments, weekly PPF payments or weekly FAS payments and the weekly amount is to be determined—
+
+- (a) where payment is made for a year, by dividing the total by 52;
+- (b) where payment is made for 3 months, by dividing the total by 13;
+- (c) where payment is made for a month, by multiplying the total by 12 and dividing the product by 52;
+- (d) where payment is made for 2 or more months, otherwise than for a year or for 3 months, by dividing the total by the number of months, multiplying the result by 12 and dividing the product by 52; or
+- (e) in any other case, by dividing the amount of the payment by the number of days in the period for which it is made and multiplying the result by 7.
+
+### 52. Minimum amount of a jobseeker's allowance
+
+Where the amount of a jobseeker's allowance is less than 10 pence a week that allowance is not payable.
+
+## PART 7 — EARNINGS
+
+### 53. Rounding of fractions
+
+Where any calculation under this Part results in a fraction of a penny that fraction must, if it would be to the claimant's advantage, be treated as a penny, but otherwise it must be disregarded.
+
+### 54. Calculation of earnings derived from employed earner's employment
+
+(1) Earnings derived from employment as an employed earner are to be taken into account over a period determined in accordance with the following paragraphs and at a weekly amount determined in accordance with regulation 57 (calculation of weekly amount of earnings).
+
+(2) Subject to the following provisions of this regulation, the period over which a payment is to be taken into account is to be—
+
+- (a) where the payment is monthly, a period equal to the number of weeks beginning with the date on which the payment is treated as paid under regulation 56 (date on which earnings are treated as paid) and ending with the date immediately before the date on which the next monthly payment would have been so treated as paid whether or not the next monthly payment is actually paid;
+- (b) where the payment is in respect of a period which is not monthly, a period equal to the length of the period for which payment is made; or
+- (c) in any other case, a period equal to such number of weeks as is equal to the number obtained (see paragraph (13)) by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/nisr/2016/218)
+
+  where—
+
+  E is the net earnings;
+
+  J is the amount of jobseeker's allowance which would be payable had the payment not been made;
+
+  D is an amount equal to the total of the sums which would fall to be disregarded from that payment under the Schedule to these Regulations (sums to be disregarded in the calculation of earnings), as is appropriate in the claimant's case,
+
+and that period is to begin on the date on which the payment is treated as paid under regulation 56.
+
+(3) Earnings derived by a claimant as a member of a reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001 in respect of a period of annual continuous training for a maximum of 15 days in any calendar year or in respect of training in the claimant's first year of training as a member of a reserve force for a maximum of 43 days in that year, whether paid to the claimant alone or together with other earnings derived from the same source, are to be taken into account—
+
+- (a) in the case of a period of training which lasts for the number of days listed in column 1 of the Table, over a period of time which is equal to the number of days set out in the corresponding row in column 2 of that Table; or
+- (b) in any other case, over a period which is equal to the duration of the training period.
+
+  Table
+
+  |  |  |
+  | --- | --- |
+  | *Column 1*<br>*Period of training in days* | *Column 2* *Period of time over which earnings are to be taken into account in days* |
+  | 8 to 10 | 7 |
+  | 15 to 17 | 14 |
+  | 22 to 24 | 21 |
+  | 29 to 31 | 28 |
+  | 36 to 38 | 35 |
+  | 43 | 42 |
+
+(4) The period referred to in paragraph (3) over which earnings are to be taken into account is to begin on the date on which they are treated as paid under regulation 56.
+
+(5) Where earnings are derived from the same source but are not of the same kind and the periods in respect of which those earnings would, but for this paragraph, fall to be taken into account, overlap wholly or partly—
+
+- (a) those earnings are to be taken into account over a period equal to the aggregate length of those periods; and
+- (b) that period is to begin with the earliest date on which any part of those earnings would otherwise be treated as paid under regulation 56.
+
+(6) In a case to which paragraph (5) applies, earnings falling within regulation 58 (earnings of employed earners) are to be taken into account in the following order of priority—
+
+- (a) earnings normally derived from the employment;
+- (b) any compensation payment;
+- (c) any holiday pay.
+
+(7) Where earnings to which regulation 58(1)(b) or (c) applies are paid in respect of part of a day, those earnings are to be taken into account over a period equal to a day.
+
+(8) Subject to paragraph (9), the period over which a compensation payment is to be taken into account is to be the period beginning on the date on which the payment is treated as paid under regulation 56 and ending—
+
+- (a) subject to sub-paragraph (b), where the person who made the payment represents that it, or part of it, was paid in lieu of notice of termination of employment or on account of the early termination of a contract of employment for a term certain, on the expiry date;
+- (b) in a case where the person who made the payment represents that it, or part of it, was paid in lieu of consultation under Article 216 of the Employment Rights (Northern Ireland) Order 1996 [^c22880951], on the latest of—
+  - (i) the date on which the consultation period under that Article would have ended;
+  - (ii) in a case where sub-paragraph (a) also applies, the expiry date; or
+  - (iii) the standard date; or
+- (c) in any other case, on the standard date.
+
+(9) The maximum period over which a compensation payment may be taken into account under paragraph (8) is 52 weeks from the date on which the payment is treated as paid under regulation 56.
+
+(10) In this regulation—
+
+- “**compensation payment**” means any payment to which regulation 58(4) applies;
+- “**the expiry date**” means in relation to the termination of a person's employment—
+  - (a) the date on which any period of notice (which means the period of notice of termination of employment to which a person is entitled by statute or by contract, whichever is the longer, or, if they are not entitled to such notice, the period of notice which is customary in the employment in question) applicable to the person was due to expire, or would have expired had it not been waived;
+  - (b) subject to paragraph (11), where the person who made the payment represents that the period in respect of which that payment is made is longer than the period of notice referred to in paragraph (a), the date on which that longer period is due to expire; or
+  - (c) where the person had a contract of employment for a term certain, the date on which it was due to expire;
+- “**the standard date**” means the earlier of—
+  - (a) the expiry date; and
+  - (b) the last day of the period determined by dividing the amount of the compensation payment by the maximum weekly amount which, on the date on which the payment is treated as paid under regulation 56, is specified in Article 23(1) of the Employment Rights (Northern Ireland) Order 1996 [^c22880961], and treating the result (less any fraction of a whole number) as a number of weeks.
+
+(11) For the purposes of paragraph (10), if it appears to the Department in a case to which paragraph (b) of the definition of “expiry date” applies that, having regard to the amount of the compensation payment and the level of remuneration normally received by the claimant when they were engaged in the employment in respect of which the compensation payment was made, it is unreasonable to take the payment into account until the date specified in that paragraph (b), the expiry date is to be the date specified in paragraph (a) of that definition.
+
+(12) For the purposes of this regulation the claimant's earnings are to be calculated in accordance with regulations 58, 59 and 63 (earnings of employed earners, calculation of net earnings of employed earners, notional earnings).
+
+(13) For the purposes of the number obtained as mentioned in paragraph (2)(c), any fraction is to be treated as a corresponding fraction of a week.
+
+### 55. Calculation of earnings of self-employed earners
+
+(1) Except where paragraph (2) applies, where a claimant's income consists of earnings from employment as a self-employed earner the weekly amount of their earnings is to be determined by reference to their average weekly earnings from that employment—
+
+- (a) over a period of one year; or
+- (b) where the claimant has recently become engaged in that employment or there has been a change which is likely to affect the normal pattern of business, over such other period as may, in any particular case, enable the weekly amount of their earnings to be determined more accurately.
+
+(2) Where the claimant's earnings consist of any items to which paragraph (3) applies, those earnings are to be taken into account over a period equal to such number of weeks as is equal to the number obtained (see paragraph (5)) by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2016/218)
+
+where—
+
+E is the earnings;
+
+J is the amount of jobseeker's allowance which would be payable had the payment not been made;
+
+D is an amount equal to the total of the sums which would fall to be disregarded from the payment under the Schedule to these Regulations (sums to be disregarded in the calculation of earnings) as is appropriate in the claimant's case.
+
+(3) This paragraph applies to—
+
+- (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
+- (b) any payment in respect of any—
+  - (i) book registered under the Public Lending Right Scheme 1982 [^c22880971]; or
+  - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982,
+
+where the claimant is the first owner of the copyright, design, patent or trade mark, or an original contributor to the book or work concerned.
+
+(4) For the purposes of this regulation the claimant's earnings are to be calculated in accordance with regulations 60 to 62.
+
+(5) For the purposes of the number obtained as mentioned in paragraph (2), any fraction is to be treated as a corresponding fraction of a week.
+
+### 56. Date on which earnings are treated as paid
+
+A payment of earnings to which regulation 54 (calculation of earnings derived from employed earner's employment) applies is to be treated as paid—
+
+- (a) in the case of a payment which is due to be paid before the first benefit week pursuant to the claim, on the date on which it is due to be paid; or
+- (b) in any other case, on the first day of the benefit week in which it is due to be paid or the first succeeding benefit week in which it is practicable to take it into account.
+
+### 57. Calculation of weekly amount of earnings
+
+(1) For the purposes of regulation 54 (calculation of earnings derived from employed earner's employment), subject to paragraphs (2) to (5), where the period in respect of which a payment of earnings is made—
+
+- (a) does not exceed a week, the weekly amount is to be the amount of that payment;
+- (b) exceeds a week, the weekly amount is to be determined—
+  - (i) in a case where that period is a month, by multiplying the amount of the payment by 12 and dividing the product by 52;
+  - (ii) in a case where that period is 3 months, by multiplying the amount of the payment by 4 and dividing the product by 52;
+  - (iii) in a case where that period is a year, by dividing the amount of the payment by 52;
+  - (iv) in any other case, by multiplying the amount of the payment by 7 and dividing the product by the number equal to the number of days in the period in respect of which it is made.
+
+(2) Where a payment for a period not exceeding a week is treated under regulation 56(a) (date on which earnings are treated as paid) as paid before the first benefit week and a part is to be taken into account for some days only in that week (“**the relevant days**”), the amount to be taken into account for the relevant days is to be calculated by multiplying the amount of the payment by the number of relevant days and dividing the product by the number of days in the period in respect of which it is made.
+
+(3) Where a payment is in respect of a period equal to or in excess of a week and a part is to be taken into account for some days only in a benefit week (“**the relevant days**”), the amount to be taken into account for the relevant days is, except where paragraph (4) applies, to be calculated by multiplying the amount of the payment by the number of relevant days and dividing the product by the number of days in the period in respect of which it is made.
+
+(4) Except in the case of a payment which it has not been practicable to treat under regulation 56(b) as paid on the first day of the benefit week in which it is due to be paid, where a payment of income from a particular source is or has been paid regularly and that payment falls to be taken into account in the same benefit week as a payment of the same kind and from the same source, the amount of that income to be taken into account in any one benefit week is not to exceed the weekly amount determined under paragraph (1)(a) or (b), as the case may be, of the payment which under regulation 56(b) is treated as paid first.
+
+(5) Where the amount of the claimant's earnings fluctuates and has changed more than once, or a claimant's regular pattern of work is such that they do not work every week, paragraphs (1) to (4) may be modified so that the weekly amount of their earnings is determined by reference to their average weekly earnings—
+
+- (a) if there is a recognisable cycle of work, over the period of one complete cycle (including, where the cycle involves periods in which the claimant does no work, those periods but disregarding any other absences);
+- (b) in any other case, over a period of 5 weeks or such other period as may, in the particular case, enable the claimant's average weekly earnings to be determined more accurately.
+
+### 58. Earnings of employed earners
+
+(1) Subject to paragraphs (2) and (4), “**earnings**” means in the case of employment as an employed earner, any remuneration or profit derived from that employment and includes—
+
+- (a) any bonus or commission;
+- (b) any compensation payment;
+- (c) any holiday pay except any payable more than 4 weeks after the termination or interruption of employment but this exception does not apply to a person who is, or would be, prevented from being entitled to a jobseeker's allowance by Article 16 of the Order (trade disputes);
+- (d) any payment by way of a retainer;
+- (e) any payment made by the claimant's employer in respect of expenses not wholly, exclusively and necessarily incurred in the performance of the duties of the employment, including any payment made by the claimant's employer in respect of—
+  - (i) travelling expenses incurred by the claimant between their home and place of employment;
+  - (ii) expenses incurred by the claimant under arrangements made for the care of a member of their family owing to the claimant's absence from home;
+- (f) any payment or award of compensation made under Articles 146(4), 147, 151(3)(a), 163, 166 or 167 [^c22880981] of the Employment Rights (Northern Ireland) Order 1996 (the remedies: orders and compensation, the orders, enforcement of order and compensation, interim relief);
+- (g) any payment made or remuneration paid under Article 60, 66, 96, 100 or 102 of the Employment Rights (Northern Ireland) Order 1996 (right to guarantee payments, remuneration on suspension on medical or maternity grounds, complaints to employment tribunals) [^c22880991];
+- (h) any award of compensation made under Article 154(1), 156(3), 163 to 167, 217 or 220 of the Employment Rights (Northern Ireland) Order 1996 (compensation for unfair dismissal, interim relief, complaint and protective award, complaint by employee to industrial tribunal) [^c22881001];
+- (i) any payment made under legislation of, or under any scheme operating in, the Republic of Ireland which is analogous to any income to which sub-paragraphs (a) to (h) relate;
+- (j) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person's earnings in accordance with Part 5 of Schedule 3 to the Social Security (Contributions) Regulations 2001.
+
+(2) “**Earnings**” does not include—
+
+- (a) subject to paragraph (3), any payment in kind;
+- (b) any periodic sum paid to a claimant on account of the termination of their employment by reason of redundancy;
+- (c) any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is on maternity leave, paternity leave, shared parental leave , parental bereavement leave[^key-8f0659272e6e89f916efd6444c73fa09] or adoption leave or is absent from work because they are ill;
+- (d) any payment in respect of expenses wholly, exclusively and necessarily incurred in the performance of the duties of the employment;
+- (e) any occupational pension;
+- (f) any redundancy payment within the meaning of Article 170(1) of the Employment Rights (Northern Ireland) Order 1996;
+- (g) any lump sum payment made under the Iron and Steel Re-adaptation Benefits Scheme [^c22881011];
+- (h) any payment in respect of expenses arising out of the claimant's participation as a service user;
+- (i) any bounty paid at intervals of at least one year and derived from employment to which paragraph 6 of the Schedule to these Regulations (sums to be disregarded in the calculation of earnings) applies.
+
+(3) Paragraph (2)(a) does not apply in respect of any non-cash voucher referred to in paragraph (1)(j).
+
+(4) In this regulation, “**compensation payment**” means any payment made in respect of the termination of employment other than—
+
+- (a) any remuneration or emolument (whether in money or in kind) which accrued in the period before the termination;
+- (b) any holiday pay;
+- (c) any payment specified in paragraphs (1)(f), (g) or (h) or (2);
+- (d) any refund of contributions to which the person was entitled under an occupational pension scheme.
+
+### 59. Calculation of net earnings of employed earners
+
+(1) For the purposes of regulation 54 (calculation of earnings derived from employed earners), the earnings of a claimant derived from employment as an employed earner to be taken into account are to be, subject to paragraph (2), their net earnings.
+
+(2) There is to be disregarded from a claimant's net earnings, any sum, where applicable, specified in the Schedule to these Regulations.
+
+(3) For the purposes of paragraph (1) net earnings are to be calculated by taking into account the gross earnings of the claimant from that employment less—
+
+- (a) any amount deducted from those earnings by way of—
+  - (i) income tax;
+  - (ii) primary Class 1 contributions payable under the Benefits Act; and
+- (b) half of any sum paid by the claimant in respect of a pay period (the period in respect of which a claimant is, or expects to be, normally paid by their employer, being a week, a fortnight, 4 weeks, a month or other longer or shorter period as the case may be) by way of a contribution towards an occupational or personal pension scheme.
+
+(4) Where the claimant is an employed earner in the Republic of Ireland the amounts to be deducted for income tax and primary Class 1 contributions under this regulation will be such amounts as, in the opinion of the Department, would have been deducted had the claimant been employed in Northern Ireland.
+
+### 60. Earnings of self-employed earners
+
+(1) Subject to paragraph (2), “earnings”, in the case of employment as a self-employed earner, means the gross receipts of the employment.
+
+(2) “**Earnings**” does not include—
+
+- (a) where a claimant is involved in providing board and lodging accommodation for which a charge is payable, any payment by way of such a charge;
+- (b) any payment made to the claimant with whom a person is accommodated by virtue of arrangements made—
+  - (i) by an authority under Article 27(2)(a) of the Children (Northern Ireland) Order 1995 (provision of accommodation and maintenance by an authority for children whom it is looking after) [^c22881021], or
+  - (ii) by a voluntary organisation under Article 75(1)(a) of the Children (Northern Ireland) Order 1995 (provision of accommodation by voluntary organisations);
+- (c) any payment made to the claimant for a person (“**the person concerned**”), who is not normally a member of the claimant's household but is temporarily in the claimant's care, by—
+  - (i) an authority but excluding payments of housing benefit made in respect of the person concerned;
+  - (ii) a voluntary organisation, or
+  - (iii) the person concerned pursuant to Article 36(7) of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c22881031];
+- (d) any sports award.
+
+(3) In this regulation—
+
+- “**an authority**” has the same meaning as in Article 2 of the Children (Northern Ireland) Order 1995.
+- “**board and lodging accommodation**” means—
+  - (a) accommodation provided to a person or, if they are a member of a family, to them or any other member of their family, for a charge which is inclusive of—
+    - (i) the provision of that accommodation; and
+    - (ii) at least some cooked or prepared meals which are cooked or prepared (by a person other than the person to whom the accommodation is provided or a member of their family) and consumed in that accommodation or associated premises; or
+  - (b) accommodation provided to a person in a hotel, guest house, lodging house or some similar establishment, except accommodation provided by a close relative of theirs or of any other member of their family, or other than on a commercial basis.
+
+### 61. Calculation of net profit of self-employed earners
+
+(1) For the purposes of regulation 55 (calculation of earnings of self-employed earners) the earnings of a claimant to be taken into account are—
+
+- (a) in the case of a self-employed earner who is engaged in employment on their own account, the net profit derived from that employment;
+- (b) in the case of a self-employed earner whose employment is carried on in partnership, or is that of a share fisherman within the meaning of regulation 67, the claimant's share of the net profit derived from that employment less—
+  - (i) an amount in respect of income tax and of national insurance contributions payable under the Benefits Act calculated in accordance with regulation 62 (deductions of tax and contributions for self-employed earners); and
+  - (ii) half of any premium paid in the period that is relevant under regulation 55 in respect of a personal pension scheme.
+
+(2) There is to be disregarded from a claimant's net profit any sum, where applicable, specified in paragraphs 1 to 11 of the Schedule to these Regulations (sums to be disregarded in the calculation of earnings).
+
+(3) For the purposes of paragraph (1)(a) the net profit of the employment is, except where paragraph (9) applies, to be calculated by taking into account the earnings of the employment over the period determined under regulation 55 (calculation of earnings of self-employed earners) less—
+
+- (a) subject to paragraphs (5) to (7), any expenses wholly and exclusively incurred in that period for the purposes of that employment;
+- (b) an amount in respect of—
+  - (i) income tax; and
+  - (ii) national insurance contributions payable under the Benefits Act, calculated in accordance with regulation 62; and
+- (c) half of any premium paid in the period determined under regulation 55 in respect of a personal pension scheme.
+
+(4) For the purposes of paragraph (1)(b), the net profit of the employment is to be calculated by taking into account the earnings of the employment over the period determined under regulation 55 less, subject to paragraphs (5) to (7), any expenses wholly and exclusively incurred in that period for the purposes of that employment.
+
+(5) Subject to paragraph (6), no deduction is to be made under paragraph (3)(a) or (4) in respect of—
+
+- (a) any capital expenditure;
+- (b) the depreciation of any capital asset;
+- (c) any sum employed or intended to be employed in the setting up or expansion of the employment;
+- (d) any loss incurred before the beginning of the period determined under regulation 55;
+- (e) the repayment of capital on any loan taken out for the purposes of the employment;
+- (f) any expenses incurred in providing business entertainment.
+
+(6) A deduction is to be made under paragraph (3)(a) or (4) in respect of the repayment of capital on any loan used for —
+
+- (a) the replacement in the course of business of equipment or machinery; and
+- (b) the repair of an existing business asset except to the extent that any sum is payable under an insurance policy for its repair.
+- (c) the purchase of land under the Northern Ireland Land Act 1925 [^c22881041].
+
+(7) The Department must not make a deduction under paragraph (3)(a) or (4) in respect of any expenses where the Department is not satisfied that the expense has been incurred or, having regard to the nature of the expense and its amount, that it has been reasonably incurred.
+
+(8) A deduction under paragraph (3)(a) or (4)—
+
+- (a) must not be made in respect of any sum unless it has been incurred for the purposes of the business;
+- (b) must be made in respect of—
+  - (i) the excess of any Value Added Tax paid over Value Added Tax received in the period determined under regulation 55;
+  - (ii) any income expended in the repair of an existing asset except to the extent that any sum is payable under an insurance policy for its repair;
+  - (iii) any payment of interest on a loan taken out for the purposes of the employment.
+
+(9) Where a claimant is engaged in employment as a child-minder the net profit of the employment is to be one-third of the earnings of that employment, less—
+
+- (a) an amount in respect of—
+  - (i) income tax; and
+  - (ii) national insurance contributions payable under the Benefits Act, calculated in accordance with regulation 62; and
+- (b) half of any premium paid in the period determined under regulation 55 in respect of a personal pension scheme.
+
+(10) Notwithstanding regulation 55 and paragraphs (1) to (9), the Department may assess any item of a claimant's income or expenditure over a period other than that determined under regulation 55 provided that the other period may, in the particular case, enable the weekly amount of that item of income or expenditure to be determined more accurately.
+
+(11) Where a claimant is engaged in employment as a self-employed earner and they are engaged in one or more other employments as a self-employed or employed earner, any loss incurred in any one of their employments is not to be offset against their earnings in any other of their employments.
+
+(12) Where the claimant is a self-employed earner in the Republic of Ireland the amounts to be deducted for income tax and social security contributions under this regulation will be such amounts as, in the opinion of the Department, would have been deducted had the claimant been employed in Northern Ireland.
+
+### 62. Deduction of tax and contributions for self-employed earners
+
+(1) Subject to paragraph (2), the amount to be deducted in respect of income tax under regulation 61(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit of self-employed earners) is to be calculated—
+
+- (a) on the basis of the amount of chargeable income; and
+- (b)[^key-fd1e322ffff2f534dd2bcdd6864dac5c] as if that income were assessable to income tax at the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to their circumstances.
+
+(2) If the period determined under regulation 55 is less than a year, the earnings to which the basic rate , or the Scottish basic rate,[^key-6ca4a944a8709683246f97a8648d712a] of tax is to be applied and the amount of the personal reliefs deductible under paragraph (1) are[^key-95cafa814e241848a99e94e9d7723266] to be calculated on a pro rata basis.
+
+(3) Subject to paragraph (4), the amount to be deducted in respect of national insurance contributions under regulation 61(1)(b)(i), (3)(b)(ii) or (9)(a)(ii) is to be the total of—
+
+- (a)[^key-843b1c1208060ded4f1ac14e836e32e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the amount of Class 4 contributions (if any) which would be payable under section 15 of that Act (Class 4 contributions recoverable under the Income Tax Acts) [^c22881071] at the percentage rate applicable at the date of claim on so much of the chargeable income as exceeds the lower limit but does not exceed the upper limit of profits and gains applicable for the tax year in which the date of claim falls.
+
+(4) If the period determined under regulation 55 is less than a year—
+
+- (a)[^key-c9817ea3b62e96a679aa3faa263ca779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the limits referred to in paragraph (3)(b) are to be reduced pro rata.
+
+(5) In this regulation “**chargeable income**” means—
+
+- (a) except where sub-paragraph (b) applies, the earnings derived from the employment less any expenses deducted under regulation 61(3)(a) or, as the case may be, (4);
+- (b) in the case of employment as a child minder, one-third of the earnings of that employment.
+
+### 63. Notional earnings
+
+(1) Subject to paragraph (2), any earnings which are due to be paid to the claimant but have not been paid to the claimant, are to be treated as possessed by the claimant.
+
+(2) Paragraph (1) does not apply to any earnings which are due to an employed earner on the termination of their employment by reason of redundancy but which have not been paid to them.
+
+(3) Where a claimant's earnings are not ascertainable at the time of the determination of the claim or of any revision or supersession, the Department must treat the claimant as possessing such earnings as is reasonable in the circumstances of the case having regard to the number of hours worked and the earnings paid for comparable employment in the area.
+
+(4) Subject to paragraph (5), where—
+
+- (a) a claimant performs a service for another person; and
+- (b) that person makes no payment of earnings or pays less than that paid for a comparable employment in the area,
+
+the Department must treat the claimant as possessing such earnings (if any) as is reasonable for that employment unless the claimant satisfies the Department that the means of that person are insufficient for that person to pay or to pay more for the service.
+
+(5) Paragraph (4) does not apply—
+
+- (a) to a claimant who is engaged by a charity or voluntary organisation or who is a volunteer if the Department is satisfied in any of those cases that it is reasonable for the claimant to provide those services free of charge;
+- (b) to a claimant who is participating in a work placement approved by the Department (or a person providing services to the Department) before the placement starts.
+
+(6) Where a claimant is treated as possessing any earnings under paragraphs (1) or (2), regulations 54 to 62 apply for the purposes of calculating the amount of those earnings as if a payment had actually been made and as if it were actual earnings which the claimant does possess.
+
+(7) Where a claimant is treated as possessing any earnings under paragraphs (3) or (4), regulations 54 to 62 apply for the purposes of calculating the amount of those earnings as if a payment had actually been made and as if they were actual earnings which the claimant does possess, except that—
+
+- (a) regulation 59(3) (calculation of net earnings of employed earners) does not apply; and
+- (b) the claimant's net earnings are to be calculated by taking into account the earnings which the claimant is treated as possessing less the amounts referred to in paragraph (8).
+
+(8) The amounts mentioned in paragraph (7)(b) are—
+
+- (a) where the period over which the earnings which the claimant is treated as possessing are to be taken into account is—
+  - (i) a year or more, an amount in respect of income tax equivalent to an amount calculated in accordance with paragraph (11);
+  - (ii) less than a year, the earnings to which the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate,[^key-c060037981f29e76afa3029f74d7350e] of tax is to be applied and the amount of the personal reliefs[^key-42668f56be0237904810393cdf60871d] deductible under this paragraph are to be calculated on a pro rata basis;
+- (b) where the weekly amount of the earnings which the claimant is treated as possessing is not less than the lower earnings limit, an amount representing primary Class 1 contributions under the Benefits Act, calculated by applying to those earnings the initial and main primary percentages in accordance with section 8(1)(a) and (b) of that Act [^c22881081]; and
+- (c) half of any sum payable by the claimant in respect of a pay period by way of a contribution towards an occupational or personal pension scheme.
+
+(9) Paragraphs (1), (3) and (4) do not apply in respect of any amount of earnings derived from employment as an employed earner, arising out of the claimant's participation as a service user.
+
+(10) In this regulation, “**work placement**” means practical work experience which is not undertaken in expectation of payment.
+
+(11)[^key-1b2e3fbf1c73d90865678531393a778a] For the purposes of paragraph (8)(a)(i), the amount is calculated by applying to those earnings the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax in the year of assessment less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to the claimant’s circumstances.
+
+(12) Where the claimant is an employed earner in the Republic of Ireland the amounts to be deducted for income tax and primary Class 1 contributions under this regulation will be such amounts as, in the opinion of the Department, would have been deducted had the claimant been employed in Northern Ireland.
+
+## PART 8 — PART WEEKS
+
+### 64. Amount of a jobseeker's allowance payable
+
+(1) Subject to the following provisions of this Part, the amount payable by way of a jobseeker's allowance in respect of a part-week is to be calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2016/218)
+
+where—
+
+X is the personal rate determined in accordance with Article 6(1) of the Order (amount payable by way of a jobseeker's allowance);
+
+N is the number of days in the part-week.
+
+(2) In this Part—
+
+- “**part-week**” means any period of less than a week in respect of which there is an entitlement to a jobseeker's allowance;
+- “**relevant week**” means the period of 7 days determined in accordance with regulation 65.
+
+### 65. Relevant week
+
+(1) Where the part-week—
+
+- (a) is the whole period for which a jobseeker's allowance is payable or occurs at the beginning of an award, the relevant week is the period of 7 days ending on the last day of that part-week;
+- (b) occurs at the end of an award, the relevant week is the period of 7 days beginning on the first day of the part-week; or
+- (c) occurs because a jobseeker's allowance is not payable for any period in accordance with Articles 8J or 8K of the Order (circumstances in which a jobseeker's allowance is not payable), the relevant week is the 7 days ending immediately before the start of the next benefit week to commence for that claimant.
+
+(2) Where a person has an award of a jobseeker's allowance and their benefit week changes, for the purpose of calculating the amounts of a jobseeker's allowance payable for the part-week beginning on the day after their last complete benefit week before the change and ending immediately before the change, the relevant week is the period of 7 days beginning on the day after the last complete benefit week.
+
+### 66. Modification in the calculation of income
+
+For the purposes of regulation 64 (amount of jobseeker's allowance payable for part-weeks), a claimant's income is to be calculated in accordance with Part 7 subject to the following changes—
+
+- (a) any income which is due to be paid in the relevant week is to be treated as paid on the first day of that week;
+- (b) where the part-week occurs at the end of the claim, any income or any change in the amount of income of the same kind which is first payable within the relevant week but not on any day in the part-week is to be disregarded;
+- (c) where the part-week occurs immediately after a period in which a person was treated as engaged in remunerative work under regulation 42 (persons treated as engaged in remunerative work) any earnings which are taken into account for the purposes of determining that period are to be disregarded;
+- (d) where only part of the weekly amount of income is taken into account in the relevant week, the balance is to be disregarded.
+
+## PART 9 — SHARE FISHERMEN
+
+### 67. Interpretation
+
+In this Part—
+
+- “**fishing boat**” means a fishing vessel as defined by section 313 of the Merchant Shipping Act 1995 [^c22881091];
+- “**owner**” has the same meaning as in the Social Security (Mariners' Benefits) Regulations (Northern Ireland) 1975 [^c22881101];
+- “**share fisherman**” means any person who—
+  - (a) is ordinarily employed in the fishing industry otherwise than under a contract of service, as a master or member of the crew of any fishing boat manned by more than one person, and is remunerated in respect of that employment in whole or in part by a share of the profits or gross earnings of the fishing boat; or
+  - (b) has ordinarily been so employed, but who by reason of age or infirmity permanently ceases to be so employed and becomes ordinarily engaged in employment ashore in Northern Ireland, otherwise than under a contract of service, making or mending any gear relevant to a fishing boat or performing other services ancillary to or in connection with that boat and is remunerated in respect of that employment in whole or in part by a share of the profits or gross earnings of that boat and has not ceased to be ordinarily engaged in such employment.
+
+### 68. Special provisions in respect of share fishermen
+
+The Order and above provisions of these Regulations have effect in relation to share fishermen subject to the provisions of this Part.
+
+### 69. Modifications of Article 4 of the Order
+
+(1) Article 4 of the Order (the contribution-based conditions) applies to share fishermen with the modifications set out in the following provisions of this regulation.
+
+(2) After “Class 1 contributions” in each place where those words occur there is to be inserted “ or special Class 2 contributions ”.
+
+(3) In paragraph (4) after the definition of “the relevant benefit year” there is to be inserted the following definition—
+
+> - (ba) “**special Class 2 contributions**” means any Class 2 contributions paid by a share fisherman at the rate applicable to share fishermen in accordance with regulation 125(c) of the Social Security (Contributions) Regulations 2001 [^c22881111]
+
+.
+
+### 70. Modification of Article 2(2) of the Order
+
+(1) The definition of “trade dispute” in Article 2(2) of the Order (interpretation) applies to share fishermen with the effect that the owner (or managing owner if there is more than one owner) of a fishing boat is to be treated as the employer of any share fisherman (other than themselves) ordinarily employed as master or member of the crew of, or making or mending any gear relevant to, or performing other services ancillary to or in connection with, that fishing boat, and any such share fisherman is to be treated as their employee.
+
+(2) In this regulation “**managing owner**” means that the owner of any ship or vessel who, where there is more than one such owner, is responsible for the control and management of that ship or vessel.
+
+### 71. Additional conditions for payment of a jobseeker's allowance
+
+(1) It is to be an additional condition with respect to the payment of a jobseeker's allowance to a share fisherman in respect of any benefit week, that in respect of any period in that benefit week when they have not worked as a share fisherman, they prove that they have not neglected to avail themselves of a reasonable opportunity of employment as a share fisherman.
+
+(2) The following provisions apply for the purposes of the application of paragraph (1)—
+
+- (a) work as a share fisherman within the meaning of paragraph (1) includes any of the work specified in sub-paragraph (b) which—
+  - (i) at the time of its performance is necessary for the safety or reasonable efficiency of the fishing boat, or is likely to become so necessary in the near future; and
+  - (ii) it is the duty of the share fisherman (whether by agreement, custom, practice or otherwise) to undertake without remuneration other than by way of a share in the profits or gross earnings of the fishing boat,
+
+  but any other work done to the fishing boat or its nets or gear is to be disregarded; and
+- (b) the work so included by sub-paragraph (a) is any work done to the fishing boat or its nets or gear by way of repairs (including running repairs) or maintenance, or in connection with the laying up of the boat and its nets and gear at the end of a fishing season or their preparation for a season's fishing.
+
+(3) It is to be a further additional condition with respect to the payment of a jobseeker's allowance to a share fisherman in respect of any benefit week that, where they are master or a member of the crew of a fishing boat of which either the master or any member of the crew is the owner or part owner, they must also prove that in respect of any period in that benefit week when they were not working as a share fisherman, the fishing boat did not put to sea with a view to fishing for the reason that—
+
+- (a) on account of the state of the weather the fishing boat could not reasonably have put to sea with a view to fishing;
+- (b) the fishing boat was undergoing repairs or maintenance, not being repairs or maintenance to which paragraph (2) relates;
+- (c) there was an absence of fish from any waters in which the fishing boat could reasonably be expected to operate; or
+- (d) any other good cause necessitated abstention from fishing.
+
+(4) In this regulation, “**benefit week**” in relation to a jobseeker's allowance has the meaning it has in regulation 74 (share fisherman: amount payable).
+
+### 72. Remunerative work
+
+In determining the number of hours in which a person is engaged in remunerative work for the purposes of establishing entitlement to a jobseeker's allowance, no account is to be taken of any hours in which a person is engaged in work as a share fisherman.
+
+### 73. Calculation of earnings
+
+(1) In the calculation of earnings derived from work as a share fisherman for the purposes of establishing entitlement to a jobseeker's allowance, the provisions of Part 7 (earnings) apply subject to paragraphs (2) and (3).
+
+(2) Regulation 55 (calculation of earnings of self-employed earners) is to be omitted.
+
+(3) For regulation 61 (calculation of net profit of self-employed earners) there is to be substituted the following regulation—
+
+> **61. Calculation of earnings derived from work as a share fisherman**
+>
+> (1) Earnings derived from work as a share fisherman within the meaning of regulation 67 (interpretation) are to be calculated in accordance with paragraphs (2) to (13).
+>
+> (2) Any such earnings are to be treated as paid in the benefit week in respect of which they are earned.
+>
+> (3) The amount of earnings to be taken into account in respect of any benefit week are to be the claimant's share of the net profit derived from the work as a share fisherman less—
+>
+> - (a) an amount in respect of income tax and national insurance contributions under the Benefits Act calculated in accordance with regulation 62 (deduction of tax and contributions for self-employed earners); and
+> - (b) half of any premium paid in respect of a personal pension scheme.
+>
+> (4) Subject to paragraph (5), there is to be disregarded from a claimant's share of the weekly net profit—
+>
+> - (a) £20; and
+> - (b) the amount of any earnings specified in paragraphs 4 and 10 of the Schedule to these Regulations, if applicable.
+>
+> (5) Where a share fisherman has earnings from work other than work as a share fisherman, and an amount is disregarded from those earnings in accordance with paragraph 5, 6 or 7 of the Schedule—
+>
+> - (a) if the amount so disregarded is £20, paragraph (4)(a) does not apply;
+> - (b) if the amount so disregarded is less than £20, the amount disregarded under paragraph (4)(a) must not exceed the difference between the amount disregarded from those other earnings and £20.
+>
+> (6) For the purposes of paragraph (3), the net profit is to be calculated by taking into account the earnings less, subject to paragraphs (7) to (9), any expenses relevant to that benefit week which were wholly, exclusively and necessarily incurred for the purposes of the employment.
+>
+> (7) Subject to paragraph (8), no deduction is to be made under paragraph (6) in respect of—
+>
+> - (a) any capital expenditure;
+> - (b) the depreciation of any capital asset;
+> - (c) any sum employed or intended to be employed in the setting up or expansion of the employment;
+> - (d) the repayment of capital on any loan taken out for the purposes of the employment;
+> - (e) any expenses incurred in providing business entertainment.
+>
+> (8) A deduction is to be made under paragraph (6) in respect of the repayment of capital on any loan used for—
+>
+> - (a) the replacement in the course of business of equipment or machinery;
+> - (b) the repair of an existing business asset except to the extent that any sum is payable under an insurance policy for its repair; and
+> - (c) the purchase of land under the Northern Ireland Land Act 1925 [^c22881121].
+>
+> (9) No reduction is to be made under paragraph (6) in respect of any expenses where the Department is not satisfied that the expense has been incurred or, having regard to the nature of the expense and its amount, that it has been reasonably incurred.
+>
+> (10) A deduction under paragraph (6)—
+>
+> - (a) must not be made in respect of any sum unless it has been incurred for the purposes of the business;
+> - (b) must be made in respect of—
+>   - (i) the excess of any Value Added Tax paid over Value Added Tax received in the benefit week;
+>   - (ii) any expense incurred in the repair of an existing asset except to the extent that any sum is payable under an insurance policy for its repair;
+>   - (iii) any payment of interest on a loan taken out for the purposes of the employment.
+>
+> (11) Notwithstanding paragraphs (1) to (10) the Department may calculate earnings or expenditure over a period other than the benefit week if the Department considers it is reasonable to do so having regard to all the facts of the case and in particular whether the earnings earned or expenditure incurred in respect of a benefit are unusually high or low.
+>
+> (12) Where the claimant is a share fisherman in the Republic of Ireland the amounts to be deducted for income tax and contributions under this regulation shall be such amounts as, in the opinion of the Department, would have been deducted had the claimant been employed in Northern Ireland.
+>
+> (13) In this regulation “**benefit week**” has the same meaning as in regulation 74 (share fishermen: amount payable).
+
+.
+
+(4) In regulation 62 (deduction of tax and contributions for self-employed earners)—
+
+- (a) in paragraphs (1) and (3), for “regulation 61(1)(b)(i)” there is to be substituted “ regulation 61(3)(a) ”;
+- (b) paragraphs (2) and (4) are to be omitted.
+- (ba)[^key-1499050439580178ddd953388590dc1b] in paragraph (3) for “Subject to paragraph (4), the” substitute “The”;
+- (c) in paragraph (5)(a) for “regulation 61(3)(a) or, as the case may be, (4)” there is to be substituted “ regulation 61(6) ”;
+- (d) at the end of the regulation there is to be added the following paragraph—
+
+  > (6) For the purposes of paragraphs (1) and (3) the earnings to which the basic rate , or the Scottish basic rate,[^key-ffaf37ad8c1b6f62709543a7065b9cf3] of tax is to be applied and the amount of personal reliefs[^key-15b25970f9a3ec07e3d5d7453c7fdb03] deductible, [^key-bcdb17e144bab19229696fcc4eedb9e8]... [^c22881131], and the upper limit of profits and gains referred to in paragraph (3)(b), are to be apportioned pro rata according to the period over which the earnings are assessed in accordance with regulation 61.
+
+  .
+
+### 74. Amount payable
+
+(1) The amount payable to a share fisherman by way of a jobseeker's allowance is to be calculated in accordance with regulations 49 to 51 (weekly amounts of jobseeker's allowance, deductions in respect of earnings and payments by way of pensions) and this regulation, and Part 8 (part weeks) does not apply.
+
+(2) Regulations 49 to 51 apply in respect of share fishermen so that the amount payable is calculated by reference to earnings earned and pension payments received in the benefit week.
+
+(3) In this regulation “**benefit week**” means—
+
+- (a) in respect of the week in which the claim is made, the period of 7 days beginning with the date of claim; and
+- (b) in respect of any subsequent week, the period of 7 days beginning with the day after the last day of the previous benefit week.
+
+## PART 10 — MODIFICATION OF THE ORDER
+
+### 75. Modification of contribution conditions for volunteer development workers
+
+Article 4 of the Order (the contribution-based conditions) applies with the modifications that after “Class 1 contributions” in each place where they occur there is to be inserted “ or Class 2 contributions under Case G of Part 9 of the Social Security (Contributions) Regulations 2001 ”.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Priti Patel
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE — Sums to be disregarded in the calculation of earnings
+
+Regulations 59(2) and 61(2)
+
+**1.** (1) In the case of a claimant who has been engaged in remunerative work as an employed earner or, had the employment been in Northern Ireland, would have been so engaged—
+
+- (a) any earnings, other than items to which sub-paragraph (2) applies, paid or due to be paid from the employment which was terminated before the first day of entitlement to a jobseeker's allowance;
+- (b) any earnings, other than a payment of the nature described in sub-paragraph (2)(a) or (b)(ii), paid or due to be paid from the employment which has not been terminated where the claimant is not—
+  - (i) engaged in remunerative work; or
+  - (ii) suspended from their employment.
+
+(2) This sub-paragraph applies to—
+
+- (a) any payment of the nature described in—
+  - (i) regulation 58(1)(d); or
+  - (ii) Article 60, 96 or 100 of the Employment Rights (Northern Ireland) Order 1996 (guarantee payments, suspension from work on medical or maternity grounds); and
+- (b) any award, sum or payment of the nature described in—
+  - (i) regulation 58(1)(f) or (h); or
+  - (ii) Article 66 or 102 of the Employment Rights (Northern Ireland) Order 1996 (guarantee payments and suspension from work: complaints to industrial tribunals),
+
+  including any payment made following the settlement of a complaint to an industrial tribunal or of court proceedings.
+
+**2.** (1) In the case of a claimant to whom this paragraph applies, any earnings (other than items to which paragraph 1(2) applies) which relate to employment which ceased before the first day of entitlement to a jobseeker's allowance whether or not that employment has been terminated.
+
+(2) This paragraph—
+
+- (a) applies to a claimant who has been engaged in part-time employment as an employed earner or, had the employment been in Northern Ireland, would have been so engaged;
+- (b) does not apply to a claimant who has been suspended from their employment.
+
+**3.** Any payment to which regulation 58(1)(f) applies—
+
+- (a) which is due to be paid more than 52 weeks after the date of termination of the employment in respect of which the payment is made; or
+- (b) which is a compensatory award within the meaning of Article 152(1)(b) of the Employment Rights (Northern Ireland) Order 1996 [^c22881141] for so long as such an award remains unpaid and the employer is insolvent within the meaning of Article 228 of that Order [^c22881151].
+
+**4.** In the case of a claimant who has been engaged in remunerative work or part-time employment as a self-employed earner or, had the employment been in Northern Ireland, would have been so engaged and who has ceased to be so engaged, from the date of the cessation of their employment any earnings derived from that employment except earnings to which regulation 55(2) (royalties etc) applies.
+
+**5.** In a case to which neither of paragraphs 6 and 7 applies to the claimant, £5.
+
+**6.** £20 of the total earnings derived from one or more employments as—
+
+- (a) a part-time fire and rescue officer employed by the Northern Ireland Fire and Rescue Service Board under the Fire and Rescue Services (Northern Ireland) Order 2006 [^c22881161];
+- (b) an auxiliary coastguard in respect of coast rescue activities;
+- (c) a person engaged part-time in the manning or launching of a lifeboat;
+- (d) a member of any reserve force prescribed in Part I of Schedule 6 to the Social Security (Contributions) Regulations 2001;
+- (e) a member of the Police Service of Northern Ireland Reserve provided for under section 1 of the Police (Northern Ireland) Act 2000 [^c22881171].
+
+**7.** Where the claimant is engaged in one or more employments specified in paragraph 6 but their earnings derived from such employments are less than £20 in any week and they are also engaged in any other part-time employment, so much of their earnings from that other employment up to £5 as would not in aggregate with the amount of their earnings disregarded under paragraph 6 exceed £20.
+
+**8.** Notwithstanding paragraphs 1 to 7 of this Schedule, where 2 or more payments of the same kind and from the same source are to be taken into account in the same benefit week, because it has not been practicable to treat the payments under regulation 56(b) (date on which earnings are treated as paid) as paid on the first day of the benefit week in which they were due to be paid, there is to be disregarded from each payment the sum that would have been disregarded if the payment had been taken into account on the date on which it was due to be paid.
+
+**9.** Any earnings derived from employment which are payable in a country outside the United Kingdom for such period during which there is a prohibition against the transfer to the United Kingdom of those earnings.
+
+**10.** Where a payment of earnings is made in a currency other than sterling, any banking charge or commission payable in converting that payment into sterling.
+
+**11.** Any earnings which are due to be paid before the date of claim and which would otherwise fall to be taken into account in the same benefit week as a payment of the same kind and from the same source.
+
+**12.** (1) Where by reason of earnings to which sub-paragraph (2) applies (in aggregate with the claimant's other earnings (if any) calculated in accordance with this Part) the claimant would (apart from this paragraph) have a personal rate of less than 10 pence, the amount of such earnings but only to the extent that that amount exceeds the claimant's personal rate less 10 pence.
+
+(2) This sub-paragraph applies to earnings, in so far as they exceed the amount disregarded under paragraph 6, derived by the claimant from employment as a member of any reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001 in respect of a period of annual continuous training for a maximum of 15 days in any calendar year or in respect of training in the claimant's first year of training as a member of a reserve force for a maximum of 43 days in that year.
+
+(3) In sub-paragraph (1), “**personal rate**” means the rate for the claimant calculated as specified in Article 6(1) of the Order.
+
+**13.** In this Schedule “**part-time employment**” means employment in which the person is not to be treated as engaged in remunerative work under regulation 42 or 43 (persons treated as engaged, or not engaged, in remunerative work).
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for a social security benefit to be known as a jobseeker's allowance. The benefit is for people who are out of work and are seeking employment. People will only be able to claim the benefit where they have made sufficient National Insurance contributions.
+
+A claimant on jobseeker's allowance has certain responsibilities. Part 2 makes provision in relation to these responsibilities. The claimant can be required to prepare for work, be available for work, search for work and attend interviews in relation to work and work preparation. The provisions in Part 2 include details on which requirements apply to which claimants, how those requirements are met and circumstances in which they do not apply. Regulation 5 deals with the claimant's responsibilities where they are entitled to Universal Credit as well as a jobseeker's allowance. Regulations 7 and 8 contain provisions for accepting the claimant commitment which is usually a condition of entitlement.
+
+Where a claimant fails to meet their responsibilities without good reason, their jobseeker's allowance may be reduced. This is known as a sanction. Part 3 contains provisions relating to sanctions. This includes the cases in which a sanction cannot be imposed, how long a sanction is to last and how much of the claimant's jobseeker's allowance will be sanctioned. There are also provisions for transferring sanctions to and from Universal Credit, for example where a claimant with a sanction ceases to be entitled to Universal Credit and becomes entitled to a jobseeker's allowance.
+
+Part 4 contains provisions about information and evidence a claimant must provide in relation to their claim for a jobseeker's allowance. Regulation 32 allows certain evidence to be provided electronically.
+
+Part 5 deals with conditions of entitlement for a jobseeker's allowance. This includes provisions which set out what happens to a claimant's entitlement in certain circumstances. Regulation 40 is for claimants who are temporarily absent from Northern Ireland, regulations 41 to 43 are for claimants who are in work and regulation 44 is for claimants who are in education. Claimants may lose entitlement in these circumstances.
+
+Part 6 specifies the amounts of jobseeker's allowance which are payable.
+
+Part 7 contains provisions for the calculation of earnings. This explains how earnings for different types of employment, such as employed earners and the self-employed, are to be calculated, how a weekly amount of earnings is to be calculated and what earnings are to be included in the calculations. The Schedule lists earnings which are to be disregarded.
+
+Part 8 contains details enabling the amount of a jobseeker's allowance to be calculated where the claimant is entitled for a period of less than a week.
+
+Part 9 contains additional rules for share fishermen, who are a particular category of claimant.
+
+Part 10 contains a special rule for volunteer development workers.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c22880221]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [section 167D](https://www.legislation.gov.uk/nisr/2016/218/section/167D) was inserted by Article 8(1) of the [Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898) and section 171(5) was amended by paragraph 36 of Schedule 1 and Schedule 2 to Social Security (Incapacity for Work) (Northern Ireland) Order 1994. For the definition of “prescribed”, see [section 167G](https://www.legislation.gov.uk/nisi/1994/1898/section/167G)
+
+[^c22880231]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); [section 5(1)(k)](https://www.legislation.gov.uk/nisr/2016/218/section/5/1/k) was amended by Article 103(5) of the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006), [section 5(1A)](https://www.legislation.gov.uk/nisi/2015/2006/section/5/1A) was inserted by Article 104(3) of the Welfare Reform (Northern Ireland) Order 2015 and section 165(6) was amended by paragraph 86 of Schedule 6 and Schedule 7 to the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^c22880241]: Marginal citation: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); [Article 4(1)](https://www.legislation.gov.uk/nisr/2016/218/article/4/1) was amended by paragraph 4 of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [Article 4(2A)](https://www.legislation.gov.uk/nisi/1999/3147/article/4/2A) and (3B) was inserted by section 11(3) and (5) of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13), [Article 6(1)](https://www.legislation.gov.uk/nia/2010/13/article/6/1) was amended by paragraph 2(3) of the Schedule to the Pensions (2004 Act and 2005 Order) (PPF Payments and FAS Payments) (Consequential Provisions) Order (Northern Ireland) 2006 (SR 2006 No 37) and Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015, Article 7(3) was amended by Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015, Articles 8A to 8K were inserted by Article 55(4) of the 2015 Order and Article 36(2) was amended by paragraph 55 of Schedule 3 to the [Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671), for the definitions of “prescribed” and “Regulations” see [Article 2(2)](https://www.legislation.gov.uk/uksi/1999/671/article/2/2)
+
+[^c22880251]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^c22880261]: Marginal citation: Functions under or for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Social Security Administration (Northern Ireland) Act 1992 and the Jobseeker's Allowance (Northern Ireland) Order 1995 vested in the Department for Social Development by virtue of Article 8(b) of S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481)
+
+[^c22880271]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216)
+
+[^c22880281]: Marginal citation: Article 16 was amended by paragraph 39 of Schedule 1 to the [Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16))](https://www.legislation.gov.uk/nisi/1996/1919)
+
+[^c22880291]: Marginal citation: The definition of “pensionable age” was substituted by paragraph 9(a) of Schedule 2 to the [Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^c22880301]: Marginal citation: Articles 107A and 107B were inserted by Article 3 of the [Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836) and amended by paragraphs 32 and 33 of Schedule 1 to the [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I.16))](https://www.legislation.gov.uk/nisi/2006/1947)
+
+[^c22880311]: Marginal citation: Section 64 was amended by Article 63(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 and paragraph 4 of Schedule 9 to the Welfare Reform (Northern Ireland) Order 2015
+
+[^c22880321]: Marginal citation: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686); Articles 14 and 15 were amended by [S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420) and Article 16 was amended by [S.I. 1984/1675](https://www.legislation.gov.uk/uksi/1984/1675) and [S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420)
+
+[^c22880331]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 639(2) was inserted by the [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7)
+
+[^c22880341]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); *see* section 989 of that Act
+
+[^key-c32f7aa6c5e9c894b709f12df2150486]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/218/regulation/2/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/50/2)
+
+[^key-e57486cbca6c3e65008dfd83acfc4268]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/218/regulation/2/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [53](https://www.legislation.gov.uk/uksi/2026/246/article/53)
+
+[^c22880351]: Marginal citation: S.R. [2016 No. 220](https://www.legislation.gov.uk/ukcm/2016/220)
+
+[^c22880361]: Marginal citation: S.R. [1987 No. 465](https://www.legislation.gov.uk/ukcm/1987/465)
+
+[^key-fba1dfb06b9d18c7b9ecb96354cdaf7b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/218/regulation/2/2) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [25(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/25/2), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+
+[^c22880371]: Marginal citation: Articles 112A and 112B were inserted by Article 4 of the Employment (Northern Ireland) Order 2002 and amended by paragraphs 34 and 35 of Schedule 1 to the Work and Families (Northern Ireland) Order 2006
+
+[^key-45b8a9934d141c727e770ee2759277ac]: Textual amendment: Words in reg. 2(2) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/2)
+
+[^c22880381]: Marginal citation: Articles 107E and 107G were inserted by section 2 of the [Work and Families Act (Northern Ireland) 2015 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2015/1)
+
+[^c22880391]: Marginal citation: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39); section 23(2) was amended by [S.I. 1996/3095](https://www.legislation.gov.uk/uksi/1996/3095), [S.I](https://www.legislation.gov.uk/uksi/1996/3095/section/I). 1999/1563 and [S.I. 2006/654](https://www.legislation.gov.uk/uksi/2006/654)
+
+[^c22880401]: Marginal citation: [1950 c.29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the [Employment and Training (Amendment) (Northern Ireland) Order 1988 (S.I. 1988/1087 (N.I. 10))](https://www.legislation.gov.uk/nisi/1988/1087)
+
+[^c22880411]: Marginal citation: Section 138 was substituted by section 2(2) of the [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6)
+
+[^c22880421]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c22880431]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7)
+
+[^key-16e2c42fc208f036448950add3687700]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/3/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [115](https://www.legislation.gov.uk/uksi/2019/1514/regulation/115) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^c22880441]: Marginal citation: [Articles 8B to 8I](https://www.legislation.gov.uk/nisr/2016/218/article/8B) were inserted by Article 55(4) of the Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/ 2006 (N.I. 1))
+
+[^c22880451]: Marginal citation: [Articles 8J](https://www.legislation.gov.uk/nisr/2016/218/article/8J) and 8K were inserted by Article 55(4) of the Welfare Reform (Northern Ireland) Order 2015
+
+[^c22880461]: Marginal citation: [Article 3(2)(b)](https://www.legislation.gov.uk/nisr/2016/218/article/3/2/b) was amended by Article 50(3) of the Welfare Reform (Northern Ireland) Order 2015
+
+[^c22880471]: Marginal citation: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
+
+[^c22880481]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
+
+[^key-8c0a775d9a8a1898c835e9e78717871f]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2016/218/regulation/14/3/b) substituted (23.2.2024) by [The Universal Credit and Jobseeker’s Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/18)](https://www.legislation.gov.uk/nisr/2024/18), [regs. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1), [3](https://www.legislation.gov.uk/nisr/2024/18/regulation/3) (with [reg.](https://www.legislation.gov.uk/nisr/2024/18/regulation))
+
+[^c22880491]: Marginal citation: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); Section 25(3) was amended by paragraph 17 of Schedule 10 to the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and paragraph 10 of Schedule 4 to the [Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231)
+
+[^c22880501]: Marginal citation: The Northern Ireland Social Care Council was established under section 1 of the Health and Personal Social Services Act (Northern Ireland) [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^key-977c30666cd5f2ca19a30a9b3aca2780]: Textual amendment: Words in reg. 15(5) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/3)
+
+[^key-41aba8faf6a5c7963341f905860a875e]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2016/218/regulation/16/1) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [7(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/7/a)
+
+[^key-21fd5fd57d37ae1d22f0c94430f1935d]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/nisr/2016/218/regulation/16/2) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [7(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/7/b)
+
+[^c22880511]: Marginal citation: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15)
+
+[^key-57624b25cfd40c02fbb9eac0864deb4b]: Textual amendment: Words in [reg. 16(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/16/5/b/ii) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/182)](https://www.legislation.gov.uk/nisr/2022/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/182/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/182/regulation/4/4/a)
+
+[^c22880521]: Marginal citation: S.R. [1976 No. 175](https://www.legislation.gov.uk/ukcm/1976/175)
+
+[^key-98069187f07578f864c020e8ac52561a]: Textual amendment: [Reg. 16(5A)](https://www.legislation.gov.uk/nisr/2016/218/regulation/16/5A)[(5B)](https://www.legislation.gov.uk/nisr/2016/218/regulation/16/5B) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [7(c)](https://www.legislation.gov.uk/nisr/2018/92/regulation/7/c)
+
+[^c22880531]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53)
+
+[^key-85034aef1d01d6a607329bf715421d97]: Textual amendment: Words in reg. 18 inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(4)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/4)
+
+[^c22880541]: Marginal citation: 2007 C. 2 (N.I.); section 11J was inserted by Article 63(2) of the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I.1))](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^key-5f2f7a74bfca69f1542134977d9d49ba]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/nisr/2016/218/regulation/19/1) substituted (1.11.2021) by [The Jobseeker’s Allowance and Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/288)](https://www.legislation.gov.uk/nisr/2021/288), [regs. 1](https://www.legislation.gov.uk/nisr/2021/288/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/288/regulation/2/a)
+
+[^key-8488aa5bc1a81d6f4d19a8d6b5ad31f4]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/19/4) omitted (1.11.2021) by virtue of [The Jobseeker’s Allowance and Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/288)](https://www.legislation.gov.uk/nisr/2021/288), [regs. 1](https://www.legislation.gov.uk/nisr/2021/288/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/288/regulation/2/b)
+
+[^key-43c1d5dd0a9c6bcc2419d72403bac129]: Textual amendment: Reg. 20(1) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(6)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/6/a)
+
+[^key-13296acc800928a4e3837613e9284f30]: Textual amendment: Words in reg. 20(1) table substituted (27.11.2019) by [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/201)](https://www.legislation.gov.uk/nisr/2019/201), [regs. 1](https://www.legislation.gov.uk/nisr/2019/201/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/nisr/2019/201/regulation/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/201/regulation/5))
+
+[^key-d954f2ca6a226097cac1d0e79c1abbe2]: Textual amendment: Words in reg. 20(1) table omitted (27.11.2019) by virtue of [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/201)](https://www.legislation.gov.uk/nisr/2019/201), [regs. 1](https://www.legislation.gov.uk/nisr/2019/201/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/nisr/2019/201/regulation/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/201/regulation/5))
+
+[^key-6d7d729e4a0f5b8d48f96ced2c62e220]: Textual amendment: Words in reg. 20(1) table omitted (27.11.2019) by virtue of [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/201)](https://www.legislation.gov.uk/nisr/2019/201), [regs. 1](https://www.legislation.gov.uk/nisr/2019/201/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2019/201/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/201/regulation/5))
+
+[^key-dbd5a7dfdf1530cffaebdf74e37fb1d2]: Textual amendment: Reg. 20(4) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(6)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/6/b)
+
+[^key-a88dd1437891d9226aed93a572477bd3]: Textual amendment: Reg. 21 substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/7)
+
+[^key-12b4f81e86618d3bc5478916c59410a6]: Textual amendment: Reg. 22(3)(4) substituted for reg. 22(3) (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/8)
+
+[^c22880571]: Marginal citation: [2001 c. 17 (N.I.)](https://www.legislation.gov.uk/nia/2001/17); section 5B was inserted by section 19(1) of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13) and section 6 was amended by paragraph 33 of Schedule 2 to the [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [section 45(1)](https://www.legislation.gov.uk/nia/2002/14/section/45/1) and paragraph 14(2) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2) and paragraph 1 of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2010
+
+[^c22880581]: Marginal citation: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621); relevant amending Regulation is [S.I. 2015/1724](https://www.legislation.gov.uk/uksi/2015/1724)
+
+[^c22880591]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52); section 374 was amended by paragraph 37 of Schedule 22 to the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10)
+
+[^c22880601]: Marginal citation: [S.I.1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
+
+[^c22880611]: Marginal citation: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
+
+[^c22880621]: Marginal citation: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); the definition of “electronic communication” was amended by paragraph 170 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^c22880631]: Marginal citation: [Article 4(2)(b)](https://www.legislation.gov.uk/nisr/2016/218/article/4/2/b) was amended by section 11(2) of the [Welfare Reform Act (Northern Ireland) 2010 (c.13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13)
+
+[^c22880641]: Marginal citation: S.R. [1975 No. 113](https://www.legislation.gov.uk/ukcm/1975/113); [regulation 9E](https://www.legislation.gov.uk/nisr/2016/218/regulation/9E) was added by regulation 2(3) of S.R. [2010 No. 109](https://www.legislation.gov.uk/ukcm/2010/109)
+
+[^key-57c5d2300b468bae979cfcefe1a83c4c]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2016/218/regulation/35/1) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [50(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/50/3)
+
+[^c22880651]: Marginal citation: [Article 3(2)](https://www.legislation.gov.uk/nisr/2016/218/article/3/2) was amended by paragraph 6(3) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2) and Article 50(3) of the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^c22880661]: Marginal citation: [1992 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/1992/8); [section 1(2)](https://www.legislation.gov.uk/nisr/2016/218/section/1/2) was amended by paragraph 15 of Schedule 8 to the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^c22880671]: Marginal citation: [Section 1(1A)](https://www.legislation.gov.uk/nisr/2016/218/section/1/1A) was inserted by Article 18 of the [Social Security Administration (Fraud) (Northern Ireland) Order 1997 (S.I. 1997/1182 (N.I. 11))](https://www.legislation.gov.uk/nisi/1997/1182)
+
+[^c22880681]: Marginal citation: [Article 4](https://www.legislation.gov.uk/nisr/2016/218/article/4) was amended by paragraph 102 of Schedule 6 to the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), [paragraph 4](https://www.legislation.gov.uk/nisi/1998/1506/paragraph/4) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, paragraph 46 of Schedule 1 to the [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [section 11(1) to (5)](https://www.legislation.gov.uk/ukpga/2002/19/section/11/1) of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13) and paragraph 29 of Schedule 2 and Schedule 12 to [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^c22880691]: Marginal citation: [2001 c. 17 (N.I.)](https://www.legislation.gov.uk/nia/2001/17); [section 5B](https://www.legislation.gov.uk/nisr/2016/218/section/5B) was inserted by section 19(1) of the Welfare Reform Act (Northern Ireland) 2010. Section 6 was amended by paragraph 33 of Schedule 2 to the [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [section 45(1)](https://www.legislation.gov.uk/nia/2002/14/section/45/1) and paragraph 14(2) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2) and paragraph 1 of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2010. Section 7 was amended by section 1(5) of and paragraph 2 of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2010. Section 8 was amended by paragraph 34 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002, paragraph 14(4) and (5) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007 and paragraph 3 of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2010
+
+[^c22880701]: Marginal citation: [Section 25A](https://www.legislation.gov.uk/nisr/2016/218/section/25A) was inserted by paragraph 5 of Schedule 1 to the [Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898) and repealed by Article 40(2) of Schedule 3 to the [Jobseekers (Northern Ireland) Order 1995 (S.I. 1995/2705 (N.I. 15))](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^key-7433a6e3c685988aea48fb9daa8e1fea]: Textual amendment: Words in [reg. 38(2)(a)](https://www.legislation.gov.uk/nisr/2016/218/regulation/38/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [50(4)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/50/4/a)
+
+[^c22880711]: Marginal citation: [Section 70](https://www.legislation.gov.uk/nisr/2016/218/section/70) was amended by regulation 2(3) of S.R. [1994 No. 370](https://www.legislation.gov.uk/ukcm/1994/370), [Articles 2(2)(a)(iii)](https://www.legislation.gov.uk/ukcm/1994/370/article/2/2/a/iii) and 3 of S.R. [2002 No. 321](https://www.legislation.gov.uk/ukcm/2002/321), [regulation 2(3)](https://www.legislation.gov.uk/ukcm/2002/321/regulation/2/3) of S. R. [2011 No. 356](https://www.legislation.gov.uk/ukcm/2011/356) and Article 2(2) of [S.I. 2013/3233](https://www.legislation.gov.uk/uksi/2013/3233)
+
+[^c22880721]: Marginal citation: Part XIIA was inserted by Article 7 and amended by Article 8(1) of the [Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898), [paragraph 57](https://www.legislation.gov.uk/nisi/1994/1898/paragraph/57) of Schedule 6 to the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), and Article 58 of and paragraphs 22 and 23 of Schedule 8 to the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^c22880731]: Marginal citation: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^c22880741]: Marginal citation: [Section 35](https://www.legislation.gov.uk/nisr/2016/218/section/35) was amended by Article 4(a) of the Still-Birth (Definition) (Northern Ireland) Order 1992 ([S.I. 1992/1310](https://www.legislation.gov.uk/uksi/1992/1310) (NI 10)), regulation 2 of S.R. [1994 No. 176](https://www.legislation.gov.uk/ukcm/1994/176), [Article 63](https://www.legislation.gov.uk/ukcm/1994/176/article/63) of the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), [Articles 50(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/50/1) and (2) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147](https://www.legislation.gov.uk/uksi/1999/3147) (NI 11)), paragraph 2 of Schedule 1 to the [Social Security Act (Northern Ireland) 2002 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2002/10), [paragraph 5](https://www.legislation.gov.uk/nia/2002/10/paragraph/5) of Schedule 1 to the Work and Families (Northern Ireland) Order 2006 (SI 2006/1947 (NI 16)) and regulation 2(3) of S.R. [2014 No. 102](https://www.legislation.gov.uk/ukcm/2014/102) and section 35B was inserted by regulation 2(5) of S.R. [2014 No. 102](https://www.legislation.gov.uk/ukcm/2014/102)
+
+[^key-0e402524ee6f72872d0e03d838c1f7a5]: Textual amendment: Words in [reg. 38(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/38/4) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [50(4)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/50/4/b)
+
+[^c22880751]: Marginal citation: [Section 30C](https://www.legislation.gov.uk/nisr/2016/218/section/30C) was inserted by Article 5(1) of the [Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898) and amended by paragraph 37 of Schedule 3 to the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^key-c11152024b2cf9d53921c78a0b5bc368]: Textual amendment: [Reg. 40(1)(c)](https://www.legislation.gov.uk/nisr/2016/218/regulation/40/1/c) and word added (19.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/136)](https://www.legislation.gov.uk/nisr/2025/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1), [11(a)](https://www.legislation.gov.uk/nisr/2025/136/regulation/11/a)
+
+[^c22880761]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); [Article 5](https://www.legislation.gov.uk/nisr/2016/218/article/5) was amended by Schedule 6 to the [Health and Social Security (Northern Ireland) Order 1984 (S.I. 1984/1158 (N.I. 8))](https://www.legislation.gov.uk/nisi/1984/1158), [Schedule 5](https://www.legislation.gov.uk/nisi/1984/1158/schedule/5) to the Mental Health (Northern Ireland) Order 1986 ([S.I. 1986/595](https://www.legislation.gov.uk/uksi/1986/595) N.I. 4)) and paragraph 3 of Schedule 1 to the [Primary Medical Services (Northern Ireland) Order 2004 (S.I. 2004/311 (N.I. 2))](https://www.legislation.gov.uk/nisi/2004/311)
+
+[^c22880771]: Marginal citation: [Article 14A](https://www.legislation.gov.uk/nisr/2016/218/article/14A) was inserted by paragraph 2 of Schedule 1 to the [Registered Homes (Northern Ireland) Order 1992 (S.I. 1992/3204 (N.I. 20))](https://www.legislation.gov.uk/nisi/1992/3204)
+
+[^c22880781]: Marginal citation: [S.1](https://www.legislation.gov.uk/nisr/2016/218/section/1). 1991/194 (N.I. 1); [paragraph 13](https://www.legislation.gov.uk/nisr/2016/218/paragraph/13) of Schedule 3 was amended by Schedule 1 to the [Health and Personal Social Services (Northern Ireland) Order 1994 (S.I. 1994/429 (N.I. 2))](https://www.legislation.gov.uk/nisi/1994/429) and sections 32 and 34(3) of and paragraph 1(1)(d) and 1(3) of Schedule 6 to the [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2009/1)
+
+[^c22880791]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004)
+
+[^key-601bfb3328b0908b98f214075e37d31b]: Textual amendment: [Reg. 40(6A)](https://www.legislation.gov.uk/nisr/2016/218/regulation/40/6A)[(6B)](https://www.legislation.gov.uk/nisr/2016/218/regulation/40/6B) inserted (19.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/136)](https://www.legislation.gov.uk/nisr/2025/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1), [11(b)](https://www.legislation.gov.uk/nisr/2025/136/regulation/11/b)
+
+[^key-56be391996f1cee19ebfc6bbb8e614dd]: Textual amendment: Words in [reg. 41(3)(c)(i)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/i) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/31/2/a)
+
+[^key-be64803a2f676234a4ef7e51bdc0b675]: Textual amendment: Words in [reg. 41(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/ii) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/31/2/a)
+
+[^key-74fee8919e894adda04f270eff0de0af]: Textual amendment: Words in [reg. 41(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/ii) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/34/2/a)
+
+[^key-5a5329fd359cb992b6560362baaad349]: Textual amendment: Words in [reg. 41(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [26(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/26/2/a)
+
+[^key-8cbbcf7043044c96f9ad1743e8459c27]: Textual amendment: [Reg. 41(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/ii): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [29(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/177/article/29/2/a/i/aa)
+
+[^key-a1e3c4c2c6e66d4363b07b9053fedc9b]: Textual amendment: Words in [reg. 41(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/ii) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [29(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/177/article/29/2/a/i/bb)
+
+[^key-3954c44010f7bb6b6d85a5b190a57405]: Textual amendment: Words in [reg. 41(3)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/iii) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/50/5)
+
+[^key-74a08d1fb6dec913a250a84ca15bc6c7]: Textual amendment: Words in [reg. 41(3)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/iv) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/31/2/a)
+
+[^key-01648af7d8396243ca35cf06066dca19]: Textual amendment: Words in [reg. 41(3)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/iv) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [26(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/26/2/b)
+
+[^key-fc9fc531784e8153896f85fa41ddf507]: Textual amendment: [Reg. 41(3)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/iv): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [29(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/177/article/29/2/a/ii/aa)
+
+[^key-a200aefbe9591a08dfe3cff290495157]: Textual amendment: Words in [reg. 41(3)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/3/c/iv) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [29(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/177/article/29/2/a/ii/bb)
+
+[^key-6b21cafb5b153e98a877a1a5372cf680]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [29(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/29/2/b/i)
+
+[^c22880801]: Marginal citation: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517)
+
+[^key-170f7fb5e5c6d8e9c7ddce7a073e9abc]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [26(3)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/26/3/a)
+
+[^c22880811]: Marginal citation: [Section 71](https://www.legislation.gov.uk/nisr/2016/218/section/71) was amended by Article 64(1) of the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^key-5bb5c51086552178a2f44cd535b32246]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) substituted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [26(3)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/26/3/b)
+
+[^key-7078ad6f21b9eb2e123edb0082e9fb0c]: Textual amendment: Word in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [34(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/34/2/b/i/aa)
+
+[^key-f7de24cb27211eaef96ca0454ee52059]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [34(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/34/2/b/i/bb)
+
+[^key-e37a719c71b7ca56796a6678f49a1f0a]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [29(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/29/2/b/ii)
+
+[^key-34a66114e8eab12851bf6c67ff4a7f76]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [31(2)(b)](https://www.legislation.gov.uk/uksi/2024/919/article/31/2/b)
+
+[^key-06204a878b4e9c102a6bafd6adf53f4c]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2016/218/regulation/41/4) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [34(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/227/article/34/2/b/ii)
+
+[^key-47cf076fdafb595499b3911b2d5c333c]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/nisr/2016/218/regulation/42/1) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [25(3)](https://www.legislation.gov.uk/nisr/2023/157/regulation/25/3), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+
+[^c22880821]: Marginal citation: *See* section 1 of the [Charities Act (Northern Ireland) 2008 (c. 12 (N.I.))](https://www.legislation.gov.uk/nia/2008/12)
+
+[^c22880831]: Marginal citation: [S.I. 2006/1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254)
+
+[^c22880841]: Marginal citation: [2000 c. 32 (N.I.)](https://www.legislation.gov.uk/nia/2000/32)
+
+[^c22880851]: Marginal citation: [Section 167F](https://www.legislation.gov.uk/nisr/2016/218/section/167F) was inserted by Article 8(1) of the [Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898)
+
+[^c22880861]: Marginal citation: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29)
+
+[^c22880871]: Marginal citation: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760); [Article 3](https://www.legislation.gov.uk/nisr/2016/218/article/3) was amended by section 147(3) of the [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), the [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) and Articles 12(2) and (3) and 15 of and the Schedule to the [Higher Education (Northern Ireland) Order 2005 (S.I. 2005/1116 (N.I. 5))](https://www.legislation.gov.uk/nisi/2005/1116)
+
+[^c22880881]: Marginal citation: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); [section 22](https://www.legislation.gov.uk/nisr/2016/218/section/22) was amended by section 146(2) of the Learning and Skills Act 2000
+
+[^c22880891]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73 was amended by section 73 of the Self-[Governing Schools etc (Scotland) Act 1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39), [section 29](https://www.legislation.gov.uk/ukpga/1989/39/section/29) of the [Teaching and Higher Education Act 1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30) and section 3 of the [Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6)
+
+[^c22880901]: Marginal citation: [S.S.I. 2007/153](https://www.legislation.gov.uk/ssi/2007/153)
+
+[^key-36e02a6cff27511f53961b0e4315721e]: Modification: [Reg. 45](https://www.legislation.gov.uk/nisr/2016/218/regulation/45) modified (temp.) (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/nisr/2020/53/regulation/8/2/b) (with [reg. 10(2)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/2))
+
+[^c22880911]: Marginal citation: Article 3(2)(f) was substituted by sections 28(1) and paragraph 6(3) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2)
+
+[^key-443a3fd3ff556ecd117b19518f8d84c8]: Textual amendment: Reg. 45(7) added (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/9)
+
+[^key-a90b50069b2634754da66856f98abb51]: Modification: [Reg. 46](https://www.legislation.gov.uk/nisr/2016/218/regulation/46) modified (temp.) (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/nisr/2020/53/regulation/8/2/b) (with [reg. 10(2)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/2))
+
+[^key-38cce86a0cc73df2ed52c43b002ddd2c]: Textual amendment: Words in reg. 46(1)(b) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(a)(i)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/a/i)
+
+[^key-f4601b605ca6a82782811ef52d4a519a]: Textual amendment: Words in reg. 46(1)(c)(i) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/a/ii)[(aa)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/aa)
+
+[^key-f1c754a5ea812687411780627b167d9c]: Textual amendment: Word in reg. 46(1)(c)(i) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/a/ii)[(bb)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/bb)
+
+[^key-814f8426987b791b7fb4691a69431b02]: Textual amendment: Words in reg. 46(1)(c)(ii) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(a)(iii)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/a/iii)
+
+[^key-7f429ffc1c1eb481661b1963e0d94805]: Textual amendment: Words in [reg. 46(2)(a)](https://www.legislation.gov.uk/nisr/2016/218/regulation/46/2/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/182)](https://www.legislation.gov.uk/nisr/2022/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/182/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2022/182/regulation/4/4/b)
+
+[^c22880921]: Marginal citation: S.R. [1976 No. 175](https://www.legislation.gov.uk/ukcm/1976/175)
+
+[^key-20cc5a97238003bcb0d6cdb787fc76a6]: Textual amendment: Words in reg. 46(3) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/b)
+
+[^key-69c84be8509d154b67131e0468eed66a]: Textual amendment: Reg. 46(3A) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(c)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/c)
+
+[^key-2c06ad884091e6ce3168252972c8785f]: Textual amendment: Word in reg. 46(4) omitted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(10)(d)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/10/d)
+
+[^c22880931]: Marginal citation: [Article 6(1)](https://www.legislation.gov.uk/nisr/2016/218/article/6/1) was amended by Part 1 of Schedule 12 to the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^key-b896bad603360e6e870b48f62cfa3c9d]: Textual amendment: Sum in [reg. 49(1)(a)](https://www.legislation.gov.uk/nisr/2016/218/regulation/49/1/a) substituted (coming into force in accordance with art. 1(1)(j)(2) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(j)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/j), [28(a)](https://www.legislation.gov.uk/nisr/2026/59/article/28/a)
+
+[^key-bc530ad395dd980e4e5aedad4d5dfa7b]: Textual amendment: Sum in [reg. 49(1)(b)](https://www.legislation.gov.uk/nisr/2016/218/regulation/49/1/b) substituted (coming into force in accordance with art. 1(1)(j)(2) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(j)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/j), [28(b)](https://www.legislation.gov.uk/nisr/2026/59/article/28/b)
+
+[^c22880941]: Marginal citation: [Article 6(1)(b)](https://www.legislation.gov.uk/nisr/2016/218/article/6/1/b) was amended by paragraph 2(3) of S.R. [2006 No. 37](https://www.legislation.gov.uk/ukcm/2006/37) and paragraph 5 of Schedule 5 and Schedule 12 to the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^c22880951]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); [Article 216](https://www.legislation.gov.uk/nisr/2016/218/article/216) was amended by regulation 8 of S.R. [1999 No. 432](https://www.legislation.gov.uk/ukcm/1999/432) and paragraph 16 of Schedule 2 to S.R. [2011 No. 350](https://www.legislation.gov.uk/ukcm/2011/350)
+
+[^c22880961]: Marginal citation: [Article 23(1)](https://www.legislation.gov.uk/nisr/2016/218/article/23/1) was amended by paragraph 4(4) of Schedule 2 to the [Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836), [paragraph 2(2)](https://www.legislation.gov.uk/nisi/2002/2836/paragraph/2/2) of Schedule 5 to the [Employment (Northern Ireland) Order 2003 (S.I. 2003/2902 (N.I. 15))](https://www.legislation.gov.uk/nisi/2003/2902) and Article 3 of and the Schedule to S.R. [2011 No. 30](https://www.legislation.gov.uk/ukcm/2011/30)
+
+[^c22880971]: Marginal citation: The Scheme was initially set out in the Appendix to [S.I. 1982/719](https://www.legislation.gov.uk/uksi/1982/719) and is now set out in Appendix 2 to [S.I. 1990/2360](https://www.legislation.gov.uk/uksi/1990/2360)
+
+[^c22880981]: Marginal citation: [Articles 146(4)](https://www.legislation.gov.uk/nisr/2016/218/article/146/4) and 151(3)(a) were amended by paragraph 2 of Schedule 5 to the [Employment (Northern Ireland) Order 2003 (S.I. 2003/2902 (N.I. 15))](https://www.legislation.gov.uk/nisi/2003/2902) and Article 163 was amended by regulation 32(6) of S.R.[1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386), [Article 13](https://www.legislation.gov.uk/ukcm/1998/386/article/13) of the [Public Interest Disclosure (Northern Ireland) Order 1998 (S.I. 1998/1763 (N.I. 17))](https://www.legislation.gov.uk/nisi/1998/1763), [Article 8](https://www.legislation.gov.uk/nisi/1998/1763/article/8) of the [Employment Relations (Northern Ireland) Order 1999 (S.I. 1999/2790 (N.I. 9))](https://www.legislation.gov.uk/nisi/1999/2790) and paragraph 15 of Schedule 2 to the [Employment Relations (Northern Ireland) Order 2004 (S.I. 2004/3078 (N.I. 19))](https://www.legislation.gov.uk/nisi/2004/3078)
+
+[^c22880991]: Marginal citation: [Article 96](https://www.legislation.gov.uk/nisr/2016/218/article/96) was amended by paragraph 2 of Schedule 10 to S.R. [2000 No. 375](https://www.legislation.gov.uk/ukcm/2000/375)
+
+[^c22881001]: Marginal citation: [Article 154(1)](https://www.legislation.gov.uk/nisr/2016/218/article/154/1) was amended by regulation 32(6) of S.R. [1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386) and the Schedule to S.R. [2011 No. 30](https://www.legislation.gov.uk/ukcm/2011/30), [Article 156(3)](https://www.legislation.gov.uk/ukcm/2011/30/article/156/3) was amended by regulation 32(6) of S.R. [1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386), [Article 164](https://www.legislation.gov.uk/ukcm/1998/386/article/164) was amended by regulation 32(6) of S.R. [1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386) and Article 8 of the [Employment Relations (Northern Ireland) Order 1999 (S.I. 1999/2790 (N.I. 9))](https://www.legislation.gov.uk/nisi/1999/2790) and Article 217 was amended by regulation 10 of S.R. [1999 No. 432](https://www.legislation.gov.uk/ukcm/1999/432)
+
+[^key-8f0659272e6e89f916efd6444c73fa09]: Textual amendment: Words in [reg. 58(2)(c)](https://www.legislation.gov.uk/nisr/2016/218/regulation/58/2/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2023/157/regulation/25/4), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+
+[^c22881011]: Marginal citation: The Scheme is set out in regulation 4 of, and the Schedule to, the [European Communities (Iron and Steel Employees Re-adaptation Benefits Scheme) (No.2) Regulations 1996 (S.I. 1996/3182)](https://www.legislation.gov.uk/uksi/1996/3182)
+
+[^c22881021]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
+
+[^c22881031]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); [Article 36](https://www.legislation.gov.uk/nisr/2016/218/article/36) was substituted by Article 25 of the [Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1))](https://www.legislation.gov.uk/nisi/1991/194) and amended by paragraph 2(3) to (5) of Schedule 1 to the [Registered Homes (Northern Ireland) Order 1992 (S.I. 1992/3204 (N.I. 20))](https://www.legislation.gov.uk/nisi/1992/3204)
+
+[^c22881041]: Marginal citation: [1925 c. 34](https://www.legislation.gov.uk/ukpga/1925/34)
+
+[^key-fd1e322ffff2f534dd2bcdd6864dac5c]: Textual amendment: Reg. 62(1)(b) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(11)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/11/a)
+
+[^key-6ca4a944a8709683246f97a8648d712a]: Textual amendment: Words in reg. 62(2) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(11)(b)(i)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/11/b/i)
+
+[^key-95cafa814e241848a99e94e9d7723266]: Textual amendment: Words in reg. 62(2) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(11)(b)(ii)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/11/b/ii)
+
+[^key-843b1c1208060ded4f1ac14e836e32e6]: Textual amendment: [Reg. 62(3)(a)](https://www.legislation.gov.uk/nisr/2016/218/regulation/62/3/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(24)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/24/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+
+[^c22881071]: Marginal citation: Section 15 was amended by section 13 of the [Limited Liability Partnerships Act 2000 (c. 12)](https://www.legislation.gov.uk/ukpga/2000/12), [section 3(2)](https://www.legislation.gov.uk/ukpga/2000/12/section/3/2) of and Schedule 2 to the [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [paragraph 424](https://www.legislation.gov.uk/ukpga/2002/19/paragraph/424) of Schedule 1 to the [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Article 4](https://www.legislation.gov.uk/ukpga/2005/5/article/4) of [S.I. 2011/938](https://www.legislation.gov.uk/uksi/2011/938) and Article 4 of [S.I. 2012/807](https://www.legislation.gov.uk/uksi/2012/807)
+
+[^key-c9817ea3b62e96a679aa3faa263ca779]: Textual amendment: [Reg. 62(4)(a)](https://www.legislation.gov.uk/nisr/2016/218/regulation/62/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(24)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/24/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+
+[^key-c060037981f29e76afa3029f74d7350e]: Textual amendment: Words in reg. 63(8)(a)(ii) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(12)(a)(i)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/12/a/i)
+
+[^key-42668f56be0237904810393cdf60871d]: Textual amendment: Words in reg. 63(8)(a)(ii) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(12)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/12/a/ii)
+
+[^c22881081]: Marginal citation: Section 8 was substituted by section 1(2) of the [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19)
+
+[^key-1b2e3fbf1c73d90865678531393a778a]: Textual amendment: Reg. 63(11) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(12)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/12/b)
+
+[^c22881091]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
+
+[^c22881101]: Marginal citation: S.R. [1975 No. 108](https://www.legislation.gov.uk/ukcm/1975/108)
+
+[^c22881111]: Marginal citation: [Regulation 125(c)](https://www.legislation.gov.uk/nisr/2016/218/regulation/125/c) was amended by regulation 2 of [S.I. 2012/867](https://www.legislation.gov.uk/uksi/2012/867)
+
+[^c22881121]: Marginal citation: [1925 c. 34](https://www.legislation.gov.uk/ukpga/1925/34)
+
+[^key-1499050439580178ddd953388590dc1b]: Textual amendment: Reg. 73(4)(ba) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(13)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/13/a)
+
+[^key-ffaf37ad8c1b6f62709543a7065b9cf3]: Textual amendment: Words in reg. 73(4) inserted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(13)(b)(i)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/13/b/i)
+
+[^key-15b25970f9a3ec07e3d5d7453c7fdb03]: Textual amendment: Word in reg. 73(4) substituted (coming into operation in accordance with reg. 1(7) of the amending Regulations) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/7), [10(13)(b)(ii)](https://www.legislation.gov.uk/nisr/2017/116/regulation/10/13/b/ii)
+
+[^key-bcdb17e144bab19229696fcc4eedb9e8]: Textual amendment: Words in [reg. 73(4)(d)](https://www.legislation.gov.uk/nisr/2016/218/regulation/73/4/d) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(24)(b)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/24/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+
+[^c22881131]: Marginal citation: Section 11(4) was amended by paragraph 13 of schedule 3 to the [Social Security Contributions (Transfer of Functions, etc.) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671) and Article 2 of the [Social Security (Contributions) (Re-rating) Order 2012 (S.I. 2012/807)](https://www.legislation.gov.uk/uksi/2012/807)
+
+[^c22881141]: Marginal citation: [Article 152](https://www.legislation.gov.uk/nisr/2016/218/article/152) was amended by Article 32 of, and paragraph 12 of Part III of Schedule 4 to, the [Employment Relations (Northern Ireland) Order 1999 (S.I. 1999/2790 (N.I. 9))](https://www.legislation.gov.uk/nisi/1999/2790), [Article 5](https://www.legislation.gov.uk/nisi/1999/2790/article/5) of the [Employment (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/3424 (N.I. 20))](https://www.legislation.gov.uk/nisi/2005/3424) and paragraph 2(7) of Schedule 5 to the [Employment (Northern Ireland) Order 2003 (S.I. 2003/2902 (N.I. 15))](https://www.legislation.gov.uk/nisi/2003/2902)
+
+[^c22881151]: Marginal citation: [Article 228](https://www.legislation.gov.uk/nisr/2016/218/article/228) was amended by regulation 9 of, and paragraph 14 of Schedule 4 to S.R. [2004 No. 307](https://www.legislation.gov.uk/ukcm/2004/307), [Articles 3(3)](https://www.legislation.gov.uk/ukcm/2004/307/article/3/3) and 31 of, and paragraph 54(3) of Schedule 2 and Schedule 9 to the [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455) and section 6 of, and paragraph 5 of the Schedule to the [Debt Relief Act (Northern Ireland) 2010 (c. 16 (N.I.))](https://www.legislation.gov.uk/nia/2010/16)
+
+[^c22881161]: Marginal citation: [S.I. 2006/1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254)
+
+[^c22881171]: Marginal citation: [2000 c. 32 (N.I.)](https://www.legislation.gov.uk/nia/2000/32)

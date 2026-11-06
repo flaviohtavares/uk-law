@@ -1,0 +1,130 @@
+---
+title: The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2001
+id: nisr/2001/13
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-01-19'
+text_date: '2013-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/13
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/13/pdfs/nisr_20010013_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/13/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2001
+
+> Text as at 2013-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 13
+
+PENSIONS
+
+The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2001
+
+Made
+
+19th January 2001
+
+Coming into operation
+
+14th February 2001
+
+The Department for Social Development, in exercise of the powers conferred by Articles 3(2), (3) and (7) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-3889d0f18cd5c23b8695a545a2f17ac0]
+
+(1) These Regulations may be cited as the Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 14th February 2001.
+
+(2) In these Regulations any reference to a numbered regulation is a reference to the regulation in the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00003] bearing that number.
+
+## 2. Amendment of regulation 2[^key-4ce16cc75c6764687427506faf48e486]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of regulation 3[^key-bd7f13150c083ef0b4d2f5503dd14b96]
+
+(1) Regulation 3 (requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes) shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In paragraph (1) for “the acceptance of contributions, transfer payments and pension credits” there shall be substituted “the acceptance of credits within the meaning of Article 26 (pension sharing: creation of pension debits and credits), contributions and transfer payments”.
+
+(3) After paragraph (5) there shall be inserted the following paragraph—
+
+> (5A) Subject to paragraphs (10) and (11) and to regulation 17(1), except to the extent necessary to ensure that the scheme has tax-exemption or tax-approval, the scheme instruments must preclude membership of the scheme being restricted by reference to—
+>
+> - (a) financial status;
+> - (b) the amount of contributions to be made to the scheme;
+> - (c) the manner in which contributions may be made to the scheme.
+
+.
+
+(4) After paragraph (9) there shall be inserted the following paragraphs—
+
+> (10) Paragraph (5A) shall not preclude membership being restricted by reference to—
+>
+> - (a) employment with a particular employer or in a particular trade or profession, or
+> - (b) membership of a particular organisation.
+>
+> (11) The scheme instruments may permit restrictions on payment of contributions by means of cash or a credit card.
+
+.
+
+## 4. Amendment of regulation 4[^key-5775e6557fc51a2ad5ccff8ff5ee09bf]
+
+(1) Regulation 4 (additional requirements as regards instruments establishing a stakeholder pension scheme established under a trust) shall be amended in accordance with paragraphs (2) and (3).
+
+(2) Paragraphs (1) and (2) shall be omitted.
+
+(3) In paragraph (3) for “The trust instruments” there shall be substituted “The instruments establishing a stakeholder pension scheme established under a trust (“the trust instruments”)”.
+
+## 5. Revocation of regulation 5[^key-b52bb00b70e5aa26fce73bf65b30deb0]
+
+Regulation 5 (additional requirements as regards instruments establishing a stakeholder pension scheme not established under a trust) shall be omitted.
+
+Sealed with the Official Seal of the Department for Social Development on 19th January 2001.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 (“the principal Regulations”).
+
+The principal Regulations are amended—
+
+- to permit stakeholder schemes established otherwise than under a trust (“non-trust schemes”) to restrict membership of the scheme by reference to employment or to membership of a particular organisation. This brings non-trust schemes into line with schemes established under a trust (“trust schemes”) (regulation 3(4));
+- to clarify, for both non-trust and trust schemes, that restrictions may be imposed on payment of contributions by cash or a credit card (regulation 3(4));
+- to include the authorised corporate director of an open-ended investment company among the categories of person who may be the manager of a non-trust scheme (regulation 2), and
+- to clarify the reference in regulation 3(1) of the principal Regulations to “pension credits” (regulation 3(2)).
+
+The Regulations also make consequential amendments (regulation 3(3), 4 and 5).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
+
+[^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-3889d0f18cd5c23b8695a545a2f17ac0]: Commencement: Reg. 1 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262)
+
+[^key-4ce16cc75c6764687427506faf48e486]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/13/regulation/2) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/b)
+
+[^key-bd7f13150c083ef0b4d2f5503dd14b96]: Commencement: Reg. 3 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+
+[^key-5775e6557fc51a2ad5ccff8ff5ee09bf]: Commencement: Reg. 4 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)
+
+[^key-b52bb00b70e5aa26fce73bf65b30deb0]: Commencement: Reg. 5 in operation at 14.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/13/regulation/1/1)

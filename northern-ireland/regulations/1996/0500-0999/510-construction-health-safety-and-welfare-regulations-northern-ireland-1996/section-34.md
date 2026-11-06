@@ -1,0 +1,19 @@
+---
+title: Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996, section 34
+act: Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996
+section: '34'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/1996/510/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996, section 34
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 34. Revocations
+
+The Regulations mentioned in column 2 of Schedule 10 are revoked to the extent specified in column 3 of that Schedule.

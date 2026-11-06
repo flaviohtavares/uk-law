@@ -1,0 +1,205 @@
+---
+title: The Pensions (2015 Act) (Savings) Order (Northern Ireland) 2016
+id: nisr/2016/106
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-03-04'
+text_date: '2016-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/106
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/106/pdfs/nisr_20160106_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/106/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions (2015 Act) (Savings) Order (Northern Ireland) 2016
+
+> Text as at 2016-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 106
+
+Pensions
+
+The Pensions (2015 Act) (Savings) Order (Northern Ireland) 2016
+
+Made
+
+4th March 2016
+
+Coming into operation
+
+6th April 2016
+
+The Department for Social Development makes the following Order in exercise of the powers conferred by section 53(5) of the Pensions Act (Northern Ireland) 2015 [^c22840731].
+
+## 1. Citation, commencement, expiry and interpretation
+
+(1) This Order may be cited as the Pensions (2015 Act) (Savings) Order (Northern Ireland) 2016 and shall come into operation on 6th April 2016.
+
+(2) Article 2(1), (2) , (5) and (7A)[^key-1b83eb3b37daef3ad0f5c5b9889c8c0b] ceases to have effect on 6th April 2019.
+
+(3) In this Order—
+
+- “**the Act**” means the Pensions Act (Northern Ireland) 2015;
+- “contracted-out employment” and “contributions equivalent premium” have the meanings given in section 176(1) [^c22840741] of the Pension Schemes Act;
+- “**earner**” has the meaning given in section 176(1) [^c22840751] of the Pension Schemes Act;
+- “**HMRC**” means the Commissioners for Her Majesty's Revenue and Customs;
+- “**PPF assessment period**” means an assessment period within the meaning of Article 116 of the 2005 Order in relation to the Board of the Pension Protection Fund;
+- “**reference scheme minimum benefit**” means a salary related benefit which is defined by reference to section 8B [^c22840761] of the Pension Schemes Act (reference scheme) and which, under the provisions of the scheme, shall be provided as a minimum pension payable to the member;
+- “salary related contracted-out scheme” and “the second abolition date” have the meanings given in section 176(1) [^c22840771] of the Pension Schemes Act.
+
+## 2. Savings
+
+(1) The provisions of the Pension Schemes Act specified in paragraph (2) and repealed by paragraphs 5, 8 to 11, 22, 28, 29, 36[^key-a225323e64064edf7e24e2cdf63928ff]... and 45(2) and (4) of Schedule 13 to the Act (abolition of contracting-out for salary related schemes) continue to have effect, despite those repeals, for the purposes of allowing or requiring the trustees or managers of a scheme that was a salary related contracted-out scheme, and HMRC, to carry out any necessary activity relating to any period of contracted-out employment which occurred before the second abolition date.
+
+(2) The provisions are—
+
+- (a) section 3 [^c22840781] (issue of contracting-out certificates);
+- (b) section 5 [^c22840791] (requirements for certification of schemes: general);
+- (c) section 7 [^c22840801] (elections as to employments covered by contracting-out certificates);
+- (d) sections 8A to 8D [^c22840811] (requirements for certification of occupational pension schemes applying from 6th April 1997);
+- (e) sections 30 [^c22840821] to 32 (cancellation, variation, surrender and refusal of certificates);
+- (f) section 37 [^c22840831] (reduced rates of Class 1 contributions);
+- (g) section 49(3) [^c22840841] (supervision: former contracted-out schemes);
+- (h)[^key-e9d9d1f459ccaafc65595bafdf2441e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) paragraphs 1 to 4 and 6 to 8 [^c22840861] of Schedule 1 (certification regulations).
+
+(3) Sections 8A to 8D of the Pension Schemes Act continue to have effect, as if the repeals made by paragraphs 10 and 11 of Schedule 13 to the Act had not been made, in relation to a scheme that was a salary related contracted-out scheme and which provides a reference scheme minimum benefit in order to meet the statutory standard in section 8A, and in relation to the period of a member's contracted-out employment which ended before or on the second abolition date.
+
+(4) Section 12(2) of the Pension Schemes Act (revaluation of earnings factors for purposes of section 10: early leavers, etc.) continues to have effect, as if it had not been substituted by paragraph 16 of Schedule 13 to the Act, in relation to earners whose service in contracted-out employment ended before the second abolition date.
+
+(5) Section 46 [^c22840871] of the Pension Schemes Act (powers of HMRC to approve arrangements for scheme ceasing to be certified) continues to have effect, as if that section had not been repealed by paragraph 33 of Schedule 13 to the Act, in relation to a salary related contracted-out scheme which ceased to be such a scheme before the second abolition date.
+
+(6) Sections 51 to 64 of the Pension Schemes Act continue to have effect, as if they had not been repealed by paragraph 37 of Schedule 13 to the Act, for the purposes of allowing or requiring the trustees or managers of a scheme described in paragraph (7) to elect to pay, and pay, a contributions equivalent premium, in relation to members of the scheme whose contracted-out employment ended[^key-c391776307b338abf0b1d83381be1f86]... before the second abolition date.
+
+(7) A scheme referred to in paragraph (6) is—
+
+- (a) one which started to wind up before the second abolition date, or
+- (b) one—
+  - (i) which had not started to wind up before the second abolition date;
+  - (ii) which entered a PPF assessment period before 6th April 2016, and where the assessment period continues after 6th April 2019, and
+  - (iii) where the trustees or managers of the scheme elected to pay a contributions equivalent premium after the start of the PPF assessment period but cannot make that payment during the assessment period due to the restriction in Article 119(4)(b) of the 2005 Order (restrictions on winding up, discharge of liabilities etc.).
+
+(7A)[^key-1bd2e82816177521485c00a903f334c2] Sections 51 to 64 of the Pension Schemes Act (state scheme premiums) continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the Act (abolition of contracting-out for salary related schemes) for the purposes of allowing action to be taken by HMRC and the trustees or managers of a scheme in relation to the payment of a contributions equivalent premium in respect of an earner to whom section 51(2)(a) to (c) applied before the second abolition date.
+
+(7B) Sections 52 to 64 of the Pension Schemes Act additionally continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the Act in so far as necessary for the purposes of Article 3 of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 with the modifications specified in paragraphs (7C) to (7F).
+
+(7C) In section 52 (provisions supplementary to section 51)—
+
+- (a) omit subsection (2);
+- (b) in subsection (4) for the words following paragraph (b) substitute—
+
+  > the earner’s length of service in employment for the purposes of Article 3(3)(b) of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 shall include any period of linked qualifying service which was contracted-out employment by reference to the other scheme.
+
+  ;
+- (c) in subsection (6) for “section 51(2A)” substitute “Article 3(5) of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016”;
+- (d) in subsection (8)—
+  - (i) for “section 51” substitute “Article 3 of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016”;
+  - (ii) for “sections 51 to 64” substitute “sections 52 to 64”;
+- (e) in subsection (9) for “section 51” substitute “Article 3 of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016”.
+
+(7D) In section 53 (elections to pay contributions equivalent premiums)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) Where the relevant person is required to make a contributions equivalent premium or elects to do so under Article 3 of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016, the relevant person must notify HMRC in writing in such form as HMRC may reasonably require for the purpose of identifying the earner to whom the election relates.
+  >
+  > (1A) Such notification must be given—
+  >
+  > - (a) where the circumstances specified in Article 3(5)(d) of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 apply, within the period of two years starting with the date the scheme began to be wound up; or
+  > - (b) where the circumstances specified in Article 3(5)(a), (b) or (c) of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 apply, within the period beginning one month before, and ending 6 months after, the date on which the earner’s service in employment in relation to the scheme or membership of the scheme ceased.
+  >
+  > (1B) In this section the “relevant person” means—
+  >
+  > - (a) in a case where a transfer has been made in relation to the scheme under Article 145 of the Pensions (Northern Ireland) Order 2005 (effect of Board assuming responsibility for a scheme), the Board of the Pension Protection Fund (as defined in that Order); and
+  > - (b) in all other cases, the trustees or managers of the scheme.
+
+  ;
+- (b) in subsection (2) for “prescribed person” substitute “relevant person”;
+- (c) omit subsection (4).
+
+(7E) In section 54(7) (amount of premiums payable under section 51) for “section 51(2)” substitute “Article 3 of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016”.
+
+(7F) In section 56 (effect of payment of premiums on rights)—
+
+- (a) in subsection (4) for “section 51(2A)(a) and (b), (d) and (e)” substitute “Article 3(5)(a), (b) and (d) of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016”;
+- (b) in subsection (5) for “section 51(2A)(c)” substitute “Article 3(5)(c) of the Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016”.
+
+(8) Section 83(1)(a) [^c22840881] of the Pension Schemes Act (general protection principle) continues to have effect, as if sub-paragraph (i) had not been substituted by paragraph 38 of Schedule 13 to the Act, in relation to earners whose service in contracted-out employment ended before the second abolition date.
+
+Sealed with the Official Seal of the Department for Social Development on 4th March 2016
+
+Anne McCleary
+
+A senior officer of the
+
+Department for Social Development
+
+*(This note is not part of the Order)*
+
+This Order saves certain provisions of Part 3 of the Pension Schemes (Northern Ireland) Act 1993 (c. 49) (“**the 1993 Act**”) repealed by Schedule 13 to the Pensions Act (Northern Ireland) 2015 which abolishes contracting-out for salary related schemes.
+
+Article 2(1), (2) and (5) saves, for 3 years from the second abolition date, those provisions of the 1993 Act which relate to certification of contracted-out schemes, cancellation of certificates, the national insurance rebate, the Commissioners for Her Majesty's Revenue and Customs' (“HMRC”) supervision of contracted-out schemes and state scheme premiums, in order to require or allow schemes and HMRC to carry out necessary tasks relating to a period of contracted-out employment which occurred before the second abolition date.
+
+Article 2(3) saves sections 8A to 8D of the 1993 Act in relation to a former salary related contracted-out scheme which operates a reference scheme minimum benefit which is defined by reference to section 8B of the 1993 Act.
+
+Article 2(4) saves section 12(2) of the 1993 Act in relation to an earner whose service in contracted-out employment ended before the second abolition date.
+
+Article 2(5) saves section 46 of the 1993 Act for a period of 3 years in relation to salary related contracted-out schemes that ceased to be such schemes before the second abolition date.
+
+Article 2(6) and (7) saves sections 51 to 64 of the 1993 Act to allow a contributions equivalent premium to be paid after 6th April 2019 in circumstances where the scheme entered an assessment period in relation to the Board of the Pension Protection Fund before the second abolition date and the assessment period continued beyond 6th April 2019.
+
+Article 2(8) saves section 83(1)(a) of the 1993 Act in relation to an earner whose service in contracted-out employment ended before the second abolition date.
+
+An assessment of the impact of this legislation is included in the Regulatory Impact Assessment which accompanied the Pensions Act (Northern Ireland) 2015, a copy of which has been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of that Assessment are available from the Department for Social Development, Social Security Policy and Legislation Division, Level 1, James House, 2-4 Cromac Avenue, Gasworks Business Park, Ormeau Road, Belfast BT7 2JA or from the website: https://www.dsdni.gov.uk/articles/pension-information.
+
+## Annotations
+
+[^c22840731]: Marginal citation: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5)
+
+[^key-1b83eb3b37daef3ad0f5c5b9889c8c0b]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/106/article/1/2) substituted (6.4.2016) by [The Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/162)](https://www.legislation.gov.uk/nisr/2016/162), [arts. 1](https://www.legislation.gov.uk/nisr/2016/162/article/1), [5(2)](https://www.legislation.gov.uk/nisr/2016/162/article/5/2)
+
+[^c22840741]: Marginal citation: The definition of “contributions equivalent premium” in section 176(1) of the [Pension Schemes (Northern Ireland) Act 1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49) was amended by paragraph 66(a)(ii) of Schedule 3 to the [Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))](https://www.legislation.gov.uk/nisi/1995/3213) and is amended by paragraph 42(6) of Schedule 13 to the Pensions Act (Northern Ireland) 2015
+
+[^c22840751]: Marginal citation: The definition of “earner” and “earnings” in section 176(1) of the Pension Schemes (Northern Ireland) Act 1993 is amended by paragraph 42(7) of Schedule 13 to the Pensions (Northern Ireland) Act 2015
+
+[^c22840761]: Marginal citation: Sections 8A to 8D were inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995. Section 8B was amended by paragraph 33 of Schedule 1 to the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1), [paragraph 9](https://www.legislation.gov.uk/nia/2008/1/paragraph/9) of Schedule 7 to the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13), [regulation 2](https://www.legislation.gov.uk/nia/2008/13/regulation/2) of S.R. [1997 No. 162](https://www.legislation.gov.uk/ukcm/1997/162) and paragraph 4 of Schedule 1 to S.R. [2005 No. 433](https://www.legislation.gov.uk/ukcm/2005/433)
+
+[^c22840771]: Marginal citation: The definitions of “salary related contracted-out scheme” and “the second abolition date” are inserted into section 176(1) of the Pension Schemes (Northern Ireland) Act 1993 by paragraph 42(2) of Schedule 13 to the Pensions Act (Northern Ireland) 2015
+
+[^key-a225323e64064edf7e24e2cdf63928ff]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/106/article/2/1) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/162)](https://www.legislation.gov.uk/nisr/2016/162), [arts. 1](https://www.legislation.gov.uk/nisr/2016/162/article/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2016/162/article/5/3/a)
+
+[^c22840781]: Marginal citation: Section 3 was amended by Article 133(1) of the Pensions (Northern Ireland) Order 1995 and paragraph 2 of Schedule 4 to the Pensions Act (Northern Ireland) 2008
+
+[^c22840791]: Marginal citation: Section 5 was amended by Article 133(3) of, and paragraph 14(a) of Schedule 3 to, the Pensions (Northern Ireland) Order 1995, paragraph 38 of Schedule 1 to the [Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671), [Article 260](https://www.legislation.gov.uk/uksi/1999/671/article/260) of the [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [section 12(4)](https://www.legislation.gov.uk/nisi/2005/255/section/12/4) of, and paragraph 4 of Schedule 4 to, the Pensions Act (Northern Ireland) 2008 and Article 8(2) of [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745)
+
+[^c22840801]: Marginal citation: Section 7 was amended by paragraph 40 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^c22840811]: Marginal citation: Sections 8A to 8D were inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995. Section 8A was amended by paragraph 3 of Schedule 5 to the Pensions Act (Northern Ireland) 2008 and paragraph 3 of Schedule 1 to S.R. [2005 No. 433](https://www.legislation.gov.uk/ukcm/2005/433)
+
+[^c22840821]: Marginal citation: Section 30 was amended by paragraph 30 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 48 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 15 of Schedule 4 to the Pensions Act (Northern Ireland) 2008
+
+[^c22840831]: Marginal citation: Section 37 was amended by paragraph 95 of Schedule 6 to the [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), [paragraph 50](https://www.legislation.gov.uk/nisi/1998/1506/paragraph/50) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999, paragraph 6 of Schedule 10 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [paragraph 41](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/41) of Schedule 1 to the [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [paragraph 34](https://www.legislation.gov.uk/ukpga/2002/19/paragraph/34) of Schedule 1 to the Pensions Act (Northern Ireland) 2008, paragraph 10 of Schedule 7 to the Pensions (No. 2) Act (Northern Ireland) 2008 and Article 5 of [S.I. 2011/1036](https://www.legislation.gov.uk/uksi/2011/1036)
+
+[^c22840841]: Marginal citation: Section 49(3) was substituted by paragraph 40(c) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and amended by paragraph 61 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and Article 4(12) of S.R. [2012 No. 124](https://www.legislation.gov.uk/ukcm/2012/124)
+
+[^key-e9d9d1f459ccaafc65595bafdf2441e0]: Textual amendment: [Art. 2(2)(h)](https://www.legislation.gov.uk/nisr/2016/106/article/2/2/h) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/162)](https://www.legislation.gov.uk/nisr/2016/162), [arts. 1](https://www.legislation.gov.uk/nisr/2016/162/article/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2016/162/article/5/3/b)
+
+[^c22840861]: Marginal citation: Paragraphs 2 and 3 were amended by paragraph 77(2) and (3) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999. Paragraph 4 was amended by paragraph 70(b) of Schedule 3 and Part 3 of Schedule 5 to the Pensions (Northern Ireland) Order 1995, paragraph 77(4) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 58(2) of Schedule 4 to the Pensions Act (Northern Ireland) 2008. Paragraph 6 was amended by Part 3 of Schedule 5 to the Pensions (Northern Ireland) Order 1995 and paragraph 58(4) of Schedule 4 to the Pensions Act (Northern Ireland) 2008. Paragraph 7 was amended by paragraph 77(6) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^c22840871]: Marginal citation: Section 46 was amended by paragraph 37 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 60 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and Article 4(10) of S.R. [2012 No. 124](https://www.legislation.gov.uk/ukcm/2012/124)
+
+[^key-c391776307b338abf0b1d83381be1f86]: Textual amendment: Words in [art. 2(6)](https://www.legislation.gov.uk/nisr/2016/106/article/2/6) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/162)](https://www.legislation.gov.uk/nisr/2016/162), [arts. 1](https://www.legislation.gov.uk/nisr/2016/162/article/1), [5(3)(c)](https://www.legislation.gov.uk/nisr/2016/162/article/5/3/c)
+
+[^key-1bd2e82816177521485c00a903f334c2]: Textual amendment: [Art. 2(7A)-(7F)](https://www.legislation.gov.uk/nisr/2016/106/article/2/7A) inserted (6.4.2016) by [The Pensions (2015 Act) (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/162)](https://www.legislation.gov.uk/nisr/2016/162), [arts. 1](https://www.legislation.gov.uk/nisr/2016/162/article/1), [5(3)(d)](https://www.legislation.gov.uk/nisr/2016/162/article/5/3/d)
+
+[^c22840881]: Marginal citation: Section 83(1)(a) was amended by paragraph 28 of Schedule 4 to the Pensions Act (Northern Ireland) 2008

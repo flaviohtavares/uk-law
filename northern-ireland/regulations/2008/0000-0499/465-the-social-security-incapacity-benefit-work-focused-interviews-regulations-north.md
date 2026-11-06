@@ -1,0 +1,390 @@
+---
+title: The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008
+id: nisr/2008/465
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2008-11-21'
+text_date: '2011-10-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2008/465
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2008/465/pdfs/nisr_20080465_en.pdf
+- http://www.legislation.gov.uk/nisr/2008/465/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008
+
+> Text as at 2011-10-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2008 No. 465
+
+Social Security
+
+The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008
+
+Made
+
+21st November 2008
+
+Coming into operation
+
+15th December 2008
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 2A(1), (3) to (6) and (8), 2B(6) and (7) and 165(4) to (6) and (7A) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002].
+
+## 1. Citation, commencement and interpretation[^key-bea3f8a928d2ec48e356585168c323c1]
+
+(1) These Regulations may be cited as the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008 and shall come into operation on 15th December 2008.
+
+(2) In these Regulations—
+
+- “the 1998 Order” means the Social Security (Northern Ireland) Order 1998[^f00003];
+- “the 2001 Regulations” means the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001[^f00004];
+- “the 2003 Regulations” means the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003[^f00005];
+- “the 2005 Regulations” means the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2005[^f00006];
+- “action plan” has the meaning given by regulation 6;
+- “benefit week” means any period of 7 days corresponding to the week in respect of which the relevant specified benefit is due to be paid;
+- “the designated authority” means the Department or the Department for Employment and Learning;
+- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^M_F_14ff97ee-c88c-47e5-b846-43942772d97a]
+- “relevant claimant” has the meaning given by regulation 2;
+- “relevant decision” has the meaning given by section 2B(2) of the Social Security Administration (Northern Ireland) Act 1992 (supplementary provisions relating to work-focused interviews);
+- “specified benefit” means—
+  - (a) incapacity benefit;
+  - (b) income support, if any of the following paragraphs of Schedule 1B to the Income Support (General) Regulations (Northern Ireland) 1987[^f00007] (prescribed categories of person) applies—
+    - (i) paragraph 7 ( persons treated as capable of work and persons entitled to statutory sick pay[^key-40e8a35b80ee5ce9c5ea02439d534490] ),
+    - (ii) paragraph 24 or 25 (persons appealing against a decision which embodies a determination that they are not incapable of work);
+  - (c) severe disablement allowance;
+- “work-focused interview” means an interview conducted under regulation 5 for the purposes described in regulation 3.
+
+(3) Any notification under these Regulations that is sent by post is to be taken to have been received on the second working day after posting.
+
+## 2. Relevant claimant[^key-a96acf74c5feb4d9912d1d109f30af18]
+
+(1) A relevant claimant is a person who satisfies all of the conditions in paragraphs (2) to (5).
+
+(2) The first condition is that the person is entitled to a specified benefit.
+
+(3)[^key-3cf18e785dd21515916854eed5270fe2] The second condition is that at least one of the following sub-paragraphs applies to the person—
+
+- (a) immediately before 15th December 2008 the person was a “relevant person” within the meaning of—
+  - (i) the 2001 Regulations, as saved by regulation 15(2) of the 2003 Regulations, or
+  - (ii) the 2005 Regulations;
+- (b) the person—
+  - (i) is under 25 years of age, and
+  - (ii) has been in receipt of a specified benefit for a continuous period of at least 12 months;
+- (c) at any time before 26th October 2009, the person has been required to take part in an interview under the 2003 Regulations by virtue of having made a claim for, or being entitled to, a specified benefit;
+- (d) the person makes a claim for a specified benefit in respect of a period beginning after 26th October 2008 and that claim is of a description referred to in regulation 2(2) of the Employment and Support Allowance (Transitional Provisions) Regulations (Northern Ireland) 2008.
+
+(4) The third condition is that the person has not attained pensionable age[^M_F_8788a3ec-086f-426d-c881-0bc7c7fc0d04].
+
+(5) The fourth condition is that, on the day on which the requirement to take part in a work-focused interview would have arisen, the person is not treated as incapable of work in accordance with regulation 10 of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00009] (certain persons with a severe condition to be treated as incapable of work).
+
+## 3. Purposes of a work-focused interview[^key-eb1430e75449f783c9d29b622026f6fc]
+
+A work-focused interview is an interview with a relevant claimant that is conducted for any or all of the following purposes—
+
+- (a) assessing the relevant claimant’s prospects of remaining in or obtaining work;
+- (b) assisting or encouraging the relevant claimant to remain in or obtain work;
+- (c) identifying activities that the relevant claimant may undertake that will make remaining in or obtaining work more likely;
+- (d) identifying training, educational or rehabilitation opportunities for the relevant claimant which may make it more likely that the relevant claimant will remain in or obtain work or be able to do so;
+- (e) identifying current or future work opportunities, including self-employment opportunities, for the relevant claimant, which are relevant to that person’s needs and abilities.
+
+## 4. Requirement for a relevant claimant to take part in a work-focused interview[^key-580cfa38ef912f71a81c8df82f115ac5]
+
+(1) Subject to the following provisions of this regulation, a relevant claimant may be required by the designated authority to take part in one or more work-focused interviews as a condition of continuing to be entitled to the full amount of the specified benefit which is payable to that claimant.
+
+(2) The designated authority may determine that a requirement that a relevant claimant take part in a work-focused interview is not to apply, or is treated as not having applied, if that interview would not be, or would not have been, of assistance because the claimant is or was likely to be starting or returning to work.
+
+(3) A relevant claimant in relation to whom a requirement to take part in a work-focused interview has been determined not to apply under paragraph (2) must be treated as having complied with that requirement in respect of that interview for the purposes of—
+
+- (a) paragraph (1); and
+- (b) entitlement to a specified benefit.
+
+(4) A requirement to take part in a work-focused interview may be deferred or treated as having been deferred by the designated authority if at the time the work-focused interview is to take place, or was due to take place, such an interview would not at that time be or have been—
+
+- (a) of assistance to that relevant claimant; or
+- (b) appropriate in the circumstances.
+
+(5) A deferral under paragraph (4) may be made at any time after the requirement to take part in the work-focused interview is imposed, including after the time that the work-focused interview was due to take place or took place.
+
+(6) If a requirement to take part in a work-focused interview is deferred, or treated as having been deferred, then the time that the work-focused interview is to take place must be re-determined and notified to the relevant claimant.
+
+(7) Any requirement to take part in a work-focused interview ceases to have effect if the relevant claimant ceases to satisfy the conditions in regulation 2.
+
+## 5. The work-focused interview[^key-25aa8a862b4cc62cdae42fee1291042c]
+
+(1) The designated authority must notify, in writing or otherwise, a relevant claimant who is required to take part in a work-focused interview of the date, time and place of that interview.
+
+(2) A work-focused interview may take place at a relevant claimant’s home if the designated authority determines that requiring the relevant claimant to attend elsewhere would cause undue inconvenience to, or endanger the health of, the relevant claimant.
+
+(3) A relevant claimant is regarded as having taken part in a work-focused interview if the claimant—
+
+- (a) attends for the work-focused interview at the place and on the date and time notified under paragraph (1);
+- (b) provides information, if requested by the designated authority, about any or all of the matters set out in paragraph (4);
+- (c) participates in discussion to the extent that the designated authority considers necessary, about any or all of the matters set out in paragraph (5);
+- (d) assists the designated authority in the completion of an action plan in accordance with regulation 6.
+
+(4) The matters referred to in paragraph (3)(b) are—
+
+- (a) the relevant claimant’s educational qualifications and vocational training;
+- (b) the relevant claimant’s work history;
+- (c) the relevant claimant’s aspirations for future work;
+- (d) the relevant claimant’s skills that are relevant to work;
+- (e) the relevant claimant’s work-related abilities;
+- (f) the relevant claimant’s caring or childcare responsibilities;
+- (g) any paid or unpaid work that the relevant claimant is undertaking.
+
+(5) The matters referred to in paragraph (3)(c) are—
+
+- (a) any activity the relevant claimant is willing to undertake which may make obtaining or remaining in work more likely;
+- (b) any such activity that the relevant claimant may have previously undertaken;
+- (c) any progress the relevant claimant may have made towards remaining in or obtaining work;
+- (d) the relevant claimant’s opinion as to the extent to which the ability to remain in or obtain work is restricted by the relevant claimant’s physical or mental condition.
+
+## 6. Action plan[^key-1f1db91b218760f2c9fafce00f04247a]
+
+(1) An action plan is a written document completed by the designated authority, which contains a record of the discussions a relevant claimant has participated in with the designated authority in relation to the relevant claimant’s employability, including any action the relevant claimant and the designated authority agree is reasonable and the relevant claimant is willing to take in order to help that relevant claimant enhance his employment prospects.
+
+(2) The designated authority must provide the relevant claimant with a copy of the action plan completed under paragraph (1) at the end of the work-focused interview.
+
+## 7. Failure to take part in a work-focused interview[^key-5ab56dc833bd1c1f5c7cb360ee524b0f]
+
+(1) A relevant claimant who is required to take part in a work-focused interview but fails to do so must show good cause for that failure within 5 working days of the date on which the designated authority gives notification of that failure.
+
+(2) In determining whether a relevant claimant has shown good cause for a failure to take part in a work-focused interview, the matters to be taken into account include—
+
+- (a) that the relevant claimant misunderstood the requirement to take part in the work-focused interview due to any learning, language or literacy difficulties of the relevant claimant or any misleading information given to the relevant claimant by the designated authority;
+- (b) that the relevant claimant had transport difficulties and that no reasonable alternative was available;
+- (c) that the relevant claimant was attending an interview with an employer with a view to remaining in or obtaining employment;
+- (d) that the relevant claimant was pursuing employment opportunities as a self-employed earner;
+- (e) that the relevant claimant was attending a medical or dental appointment and that it would have been unreasonable in the circumstances to re-arrange the appointment;
+- (f) that the relevant claimant was accompanying another person for whom the claimant has caring responsibilities to a medical or dental appointment and that it would have been unreasonable for that other person to re-arrange the appointment;
+- (g) that the relevant claimant, a dependant or another person for whom the relevant claimant provides care suffered an accident, sudden illness or relapse of a physical or mental health condition;
+- (h) that the relevant claimant was attending the funeral of a relative or close friend on the day fixed for the work-focused interview;
+- (i) that the physical or mental condition of the relevant claimant made it impracticable to attend at the time and place fixed for the work-focused interview;
+- (j) that the established customs and practices of the religion to which the relevant claimant belongs prevented attendance on the day or at the time fixed for the work-focused interview;
+- (k) any other matter which the designated authority considers appropriate.
+
+(3) If the designated authority determines that a relevant claimant has failed to take part in a work-focused interview and the claimant has not shown good cause in accordance with paragraph (1)[^key-dc17771d3e1a023bc705568048e7a791] , the designated authority shall make a relevant decision for the purposes of section 2B of the Social Security Administration (Northern Ireland) Act 1992 (supplementary provisions relating to work-focused interviews).
+
+## 8. Consequences of a failure to take part in a work-focused interview[^key-55c33508dc7b83a54493170596d9046b]
+
+(1) A relevant claimant in respect of whom a relevant decision has been made in accordance with regulation 7(3) shall, in accordance with this regulation, have his benefit reduced—
+
+- (a) by an amount equivalent to[^key-49645470d9128b4e6382ddece7bdce80] 50 per cent. of the work-related activity component in each of the first 4 benefit weeks to which, by virtue of Article 11(5) of the 1998 Order or regulations made under Article 11(6) of that Order, the reduction applies;
+- (b) by an amount equivalent to[^key-aa3df916990524318d0ad496c4c185f6] 100 per cent. of that component for each subsequent benefit week.
+
+(2) If two or more specified benefits are in payment to a relevant claimant, a reduction made in accordance with paragraph (1) shall be applied, subject to paragraphs (3) to (5)[^key-bc9df75d9bf198255e81b7d3cac23ab1] , to the specified benefits in the following order of priority—
+
+- (a) income support;
+- (b) incapacity benefit;
+- (c) severe disablement allowance.
+
+(3) If the amount of the reduction is greater than some, but not all, of the specified benefits listed in paragraph (2), the reduction shall be made against the first benefit in that list that is the same as, or greater than, the amount of the reduction.
+
+(4) For the purpose of determining whether a specified benefit is the same as, or greater than, the amount of the reduction for the purposes of paragraph (3), 10 pence shall be added to the amount of the reduction.
+
+(5) In a case where the whole of the reduction cannot be applied against any one specified benefit because the amount of no one benefit is the same as, or greater than, the amount of the reduction, the reduction shall be applied against the first benefit in payment in the list of priorities in paragraph (2) and so on against each benefit in turn until the whole of the reduction is exhausted or, if this is not possible, the whole of the specified benefits are exhausted.
+
+(6)[^key-2be630d00f76754276c3649976e66a0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Paragraph (1) applies to a relevant claimant each time a relevant decision is made in accordance with regulation 7(3) in respect of that person.
+
+(8) In the case of a relevant claimant whose benefit has been reduced in accordance with paragraph (1) and who subsequently takes part in a work-focused interview, the whole of the reduction shall cease to have effect on the first day of the benefit week in which the requirement to take part in a work-focused interview was met.
+
+(9) In the case of a relevant claimant whose benefit has been reduced in accordance with paragraph (1) and who subsequently fails to meet the conditions specified in regulation 2(4) or (5), the whole of the reduction shall cease to have effect on the first day of the benefit week in which those conditions are no longer satisfied.
+
+(10) For the purposes of determining the amount of any benefit payable, a relevant claimant shall be treated as receiving the amount of any specified benefit which would have been payable but for a reduction made in accordance with paragraph (1).
+
+(11) Despite regulation 7(3), the consequences specified in paragraph (1) do not apply to a person who—
+
+- (a) brings new facts to the notice of the designated authority within one month of the date on which the initial determination was notified to that person and—
+  - (i) those facts could not reasonably have been brought to the designated authority’s notice within 5 working days of the date on which the notification of the initial determination was received; and
+  - (ii) those facts show that there is good cause for the person’s failure to take part in the work-focused interview;
+- (b) is no longer required to take part in a work-focused interview as a condition of continuing to be entitled to the full amount of the specified benefit that is payable to that person apart from these Regulations; or
+- (c) attains pensionable age[^M_F_dce6825f-b48e-415f-8528-66905569f0dd].
+
+(12) Despite anything to the contrary in this regulation, no benefit is to be reduced in any benefit week—
+
+- (a) to below[^key-59036efe84711a1780bd2a2c5b8d2929] 10 pence;
+- (b) in relation to more than one relevant decision relating to a particular work-focused interview;
+- (c) by an amount equivalent to[^key-45b635dca7a79dab126528db9af3da7a] more than 100 per cent. of the work-related activity component.
+
+(13) For the purposes of this regulation, “work-related activity component” is the amount specified in Part 4 of Schedule 4 to the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00010].
+
+## 9. Appeals[^key-505ee93e8c9e21b2c7d2457345eb36fa]
+
+(1) This regulation applies to any relevant decision under regulation 7(3) or any decision made under Article 11 of the 1998 Order (decisions superseding earlier decisions) superseding such a relevant decision.
+
+(2) This regulation applies whether the decision is as originally made or as revised under Article 10 of the 1998 Order (revision of decisions).
+
+(3) In the case of a decision to which this regulation applies, the relevant claimant in respect of whom the decision was made shall have a right of appeal under Article 13 of the 1998 Order (appeal to appeal tribunal) to an appeal tribunal.
+
+## 10. Consequential amendments[^key-ad5fe6850ab4ffb676b9a327ab8a2699]
+
+(1) In regulation 4(1) of the Social Security (Work-focused Interviews for Lone Parents) Regulations (Northern Ireland) 2001[^f00011], for “the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2005” substitute “the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008”.
+
+(2) In regulation 7(3) of the 2003 Regulations[^f00012], for “the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2005” substitute “the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008”.
+
+## 11. Revocations, savings and transitional provisions[^key-fced5982d67d77f4b499f3b7edfd3bb6]
+
+(1) The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
+
+(2) Despite the revocations in the Schedule—
+
+- (a) regulation 9(2) of the 2005 Regulations continues to have effect in respect of a person who immediately before these Regulations come into force is subject to the consequences specified in that provision; and
+- (b) any other provision of those Regulations continues to have effect insofar as is necessary to give full effect to sub-paragraph (a).
+
+(2A)[^key-7e8e103c31368959a255ccb2b558b2a1] This paragraph applies to a relevant claimant who—
+
+- (a) at any time before 26th October 2009 has been required to take part in an interview under the 2003 Regulations by virtue of having made a claim for, or being entitled to, a specified benefit; and
+- (b) immediately before that date was subject to the consequences specified in regulation 11 of the 2003 Regulations (failure to take part in an interview).
+
+(2B) Where paragraph (2A) applies to a relevant claimant—
+
+- (a) the person continues to be subject to the consequences specified in regulation 11 of the 2003 Regulations; and
+- (b) any other provision of the 2003 Regulations continues to have effect insofar as is necessary to give full effect to sub-paragraph (a).
+
+(3) For the purposes of regulation 8(8), (9) and (11) (reduction ceasing to have effect), a person referred to in paragraph (2)(a) or (2B)(a)[^key-6446fc4fa9c678074f52c5ec6c80c175] is deemed to be subject to the consequences under regulation 8(1) (reduction for failure to take part in a work-focused interview) and from the date the reduction ceases to have effect regulation 9(2) of the 2005 Regulations shall cease to apply to that person.[^key-a8116a61838a86389a385720e0545c7d]
+
+Sealed with the Official Seal of the Department for Social Development on 21st November 2008
+
+(L.S.)
+
+John O’Neill
+
+A senior officer of the Department for Social Development
+
+## SCHEDULE — Revocations[^key-53e1048d2806d7f7940b9c44e9692140]
+
+Regulation 11
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/414">S.R. 2005 No. 414</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Social Security (Work-focused Interviews Amendment) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/443">S.R. 2005 No. 443</a></td><td>Regulation 5</td></tr>
+<tr><td>The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2006</td><td><a href="https://www.legislation.gov.uk/nisr/2006/167">S.R. 2006 No. 167</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment No. 2) Regulations (Northern Ireland) 2006</td><td><a href="https://www.legislation.gov.uk/nisr/2006/398">S.R. 2006 No. 398</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2007</td><td><a href="https://www.legislation.gov.uk/nisr/2007/129">S.R. 2007 No. 129</a></td><td>The whole Regulations</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations remake the Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2005 (“the 2005 Regulations”) with certain changes to align them, where possible, with the work-focused interview regime prescribed in Chapters 2 and 3 of Part 8 of the Employment and Support Allowance Regulations (Northern Ireland) 2008.
+
+Regulation 2 defines a relevant claimant for the purposes of these Regulations.
+
+Regulation 3 sets out the purpose of a work-focused interview.
+
+Regulation 4 provides that a relevant claimant is required to take part in one or more work-focused interviews and sets out the circumstances where that requirement is not to apply or may be deferred.
+
+Regulation 5 provides for the relevant claimant to be advised of the time, date and place of the work-focused interview, that a work-focused interview may take place at a relevant claimant’s home in certain circumstances, and sets out the circumstances where a relevant claimant is regarded as having taken part in a work-focused interview.
+
+Regulation 6 provides for the making of an action plan in relation to the relevant claimant.
+
+Regulation 7 provides for the case where a relevant claimant has failed to take part in a work-focused interview, gives a relevant claimant an opportunity to show good cause for that failure and specifies matters to be taken into account in determining whether a relevant claimant has shown good cause for a failure to take part in a work-focused interview.
+
+Regulation 8 sets out the consequences of a failure to show good cause for not taking part in a work-focused interview including how benefit is to be reduced and specifies the circumstances where those consequences come to an end or do not apply.
+
+Regulation 9 provides that a decision that a relevant claimant has failed to take part in a work-focused interview without good cause can be appealed to an appeal tribunal.
+
+Regulation 10 makes minor consequential amendments.
+
+Regulation 11 revokes the 2005 Regulations and makes other consequential revocations, savings and transitional provisions. It provides that a person subject to a reduction under the 2005 Regulations remains subject to those Regulations until the ending of that reduction.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); sections 2A and 2B were inserted by Article 54 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), section 2A was amended by Article 2(2)(b)(i) of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321), section 2B was amended by paragraph 6 of Schedule 1 to the [Social Security Act (Northern Ireland) 2002 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2002/10), section 165(6) was amended by paragraph 86 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and section 165(7A) was inserted by paragraph 58 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-bea3f8a928d2ec48e356585168c323c1]: Commencement: Reg. 1 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00004]: Footnote: [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
+
+[^f00005]: Footnote: [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274)
+
+[^f00006]: Footnote: [S.R. 2005 No. 414](https://www.legislation.gov.uk/nisr/2005/414)
+
+[^M_F_14ff97ee-c88c-47e5-b846-43942772d97a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/2/) inserted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26/made),[regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/made), [7(2)](https://www.legislation.gov.uk/nisr/2011/26/regulation/7/made)
+
+[^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); Schedule 1B was inserted by regulation 22 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199); paragraph 24 was amended by Article 9(4)(a) and (b) of [S.R. 1999 No. 371 (C. 28)](https://www.legislation.gov.uk/nisr/1999/371) and paragraph 25 was amended by Article 9(4)(b) of [S.R. 1999 No. 371 (C.28)](https://www.legislation.gov.uk/nisr/1999/371), regulation 4(3) of [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4) and regulation 3 of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^key-40e8a35b80ee5ce9c5ea02439d534490]: Textual amendment: Words in [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/2/b/i) substituted (30.12.2009) by [The Income Support (Prescribed Categories of Person) Regulations (Northern Ireland) 2009 (S.R. 2009/418)](https://www.legislation.gov.uk/nisr/2009/418), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/418/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2009/418/regulation/3/5)
+
+[^key-a96acf74c5feb4d9912d1d109f30af18]: Commencement: Reg. 2 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-3cf18e785dd21515916854eed5270fe2]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2008/465/regulation/2/3) substituted (26.10.2009) by [The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/327)](https://www.legislation.gov.uk/nisr/2009/327), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/327/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2009/327/regulation/2/2)
+
+[^M_F_8788a3ec-086f-426d-c881-0bc7c7fc0d04]: Textual amendment: Words in reg. 2(4) substituted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26/made) [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/made), [7(3)](https://www.legislation.gov.uk/nisr/2011/26/regulation/7/made)
+
+[^f00009]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); regulation 10 was amended by regulation 4(3) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149), regulation 4(3) of [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601) and regulation 3 of [S.R. 1997 No. 174](https://www.legislation.gov.uk/nisr/1997/174)
+
+[^key-eb1430e75449f783c9d29b622026f6fc]: Commencement: Reg. 3 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-580cfa38ef912f71a81c8df82f115ac5]: Commencement: Reg. 4 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-25aa8a862b4cc62cdae42fee1291042c]: Commencement: Reg. 5 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-1f1db91b218760f2c9fafce00f04247a]: Commencement: Reg. 6 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-5ab56dc833bd1c1f5c7cb360ee524b0f]: Commencement: Reg. 7 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-dc17771d3e1a023bc705568048e7a791]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2008/465/regulation/7/3) substituted (26.10.2009) by [The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/327)](https://www.legislation.gov.uk/nisr/2009/327), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/327/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2009/327/regulation/2/3)
+
+[^key-55c33508dc7b83a54493170596d9046b]: Commencement: Reg. 8 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-49645470d9128b4e6382ddece7bdce80]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/nisr/2008/465/regulation/8/1/a) inserted (1.11.2010) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2010 (S.R. 2010/345)](https://www.legislation.gov.uk/nisr/2010/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/345/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2010/345/regulation/7/a)
+
+[^key-aa3df916990524318d0ad496c4c185f6]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/nisr/2008/465/regulation/8/1/b) inserted (1.11.2010) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2010 (S.R. 2010/345)](https://www.legislation.gov.uk/nisr/2010/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/345/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2010/345/regulation/7/b)
+
+[^key-bc9df75d9bf198255e81b7d3cac23ab1]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2008/465/regulation/8/2) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [23(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/23/a)
+
+[^key-2be630d00f76754276c3649976e66a0f]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/nisr/2008/465/regulation/8/6) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2011/357/regulation/23/b)
+
+[^M_F_dce6825f-b48e-415f-8528-66905569f0dd]: Textual amendment: Word in reg. 8(11)(c) substituted (7.3.2011) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/26)](https://www.legislation.gov.uk/nisr/2011/26/contents/made) , [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/26/regulation/1/made),[7(4)](https://www.legislation.gov.uk/nisr/2011/26/regulation/7/made)
+
+[^key-59036efe84711a1780bd2a2c5b8d2929]: Textual amendment: Words in [reg. 8(12)(a)](https://www.legislation.gov.uk/nisr/2008/465/regulation/8/12/a) substituted (26.10.2009) by [The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/327)](https://www.legislation.gov.uk/nisr/2009/327), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/327/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2009/327/regulation/2/4)
+
+[^key-45b635dca7a79dab126528db9af3da7a]: Textual amendment: Words in [reg. 8(12)(c)](https://www.legislation.gov.uk/nisr/2008/465/regulation/8/12/c) inserted (1.11.2010) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2010 (S.R. 2010/345)](https://www.legislation.gov.uk/nisr/2010/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/345/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2010/345/regulation/7/b)
+
+[^f00010]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
+
+[^key-505ee93e8c9e21b2c7d2457345eb36fa]: Commencement: Reg. 9 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-ad5fe6850ab4ffb676b9a327ab8a2699]: Commencement: Reg. 10 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^f00011]: Footnote: [S.R. 2001 No. 152](https://www.legislation.gov.uk/nisr/2001/152); regulation 4 was substituted by regulation 2(5) of [S.R. 2007 No. 219](https://www.legislation.gov.uk/nisr/2007/219)
+
+[^f00012]: Footnote: Regulation 7(3) was added by regulation 12 of [S.R. 2005 No. 414](https://www.legislation.gov.uk/nisr/2005/414) and amended by regulation 2(6) of [S.R. 2005 No. 443](https://www.legislation.gov.uk/nisr/2005/443)
+
+[^key-fced5982d67d77f4b499f3b7edfd3bb6]: Commencement: Reg. 11 in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)
+
+[^key-7e8e103c31368959a255ccb2b558b2a1]: Textual amendment: [Reg. 11(2A)](https://www.legislation.gov.uk/nisr/2008/465/regulation/11/2A)[(2B)](https://www.legislation.gov.uk/nisr/2008/465/regulation/11/2B) inserted (26.10.2009) by [The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/327)](https://www.legislation.gov.uk/nisr/2009/327), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/327/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2009/327/regulation/2/5/a)
+
+[^key-6446fc4fa9c678074f52c5ec6c80c175]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2008/465/regulation/11/3) inserted (26.10.2009) by [The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/327)](https://www.legislation.gov.uk/nisr/2009/327), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/327/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/nisr/2009/327/regulation/2/5/b/i)
+
+[^key-a8116a61838a86389a385720e0545c7d]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2008/465/regulation/11/3) inserted (26.10.2009) by [The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/327)](https://www.legislation.gov.uk/nisr/2009/327), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/327/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2009/327/regulation/2/5/b/ii)
+
+[^key-53e1048d2806d7f7940b9c44e9692140]: Commencement: Sch. in operation at 15.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1)

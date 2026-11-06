@@ -1,0 +1,340 @@
+---
+title: The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018
+id: nisr/2018/77
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2018-03-27'
+text_date: '2026-06-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2018/77
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2018/77/pdfs/nisrem_20180077_en.pdf
+- http://www.legislation.gov.uk/nisr/2018/77/pdfs/nisr_20180077_en.pdf
+- http://www.legislation.gov.uk/nisr/2018/77/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018
+
+> Text as at 2026-06-14.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2018 No. 77
+
+Food
+
+The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018
+
+Made
+
+27th March 2018
+
+Coming into operation
+
+23rd April 2018
+
+The Department of Health[^f00001] makes the following Regulations in exercise of the powers conferred on it by Articles 15(1)(a) and (e), 16(1), 25(1) and (3), 26(3), 32(1) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00003].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, that it is expedient for references to the European instruments and the Annex to the European instrument specified in regulation 2(4) to be construed as a reference to that instrument as amended from time to time.
+
+In accordance with Article 47(3A) of that Order, it has had regard to relevant advice given by the Food Standards Agency.[^key-9503f68e5c0ce7c7d7ddfe961c310a28]
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004]as last amended by Regulation [(EC) No 652/2014](https://www.legislation.gov.uk/european/regulation/2014/0652) of the European Parliament and of the Council laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material[^f00005], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-9503f68e5c0ce7c7d7ddfe961c310a28]
+
+## 1. Citation and commencement[^key-54dfb3cf6e0f97bbb55148085b4fefa4]
+
+These Regulations may be cited as the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018 and come into operation on 23rd April 2018.
+
+## 2. Interpretation[^key-74936858f6b0bf69878faa77890c6200]
+
+(1) In these Regulations
+
+- “designated product” means any product specified in the second column of the table in Schedule 1 (as read with the Notes to that Schedule) ready for delivery to a final consumer or to a mass caterer;
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “partly dehydrated milk” means the liquid product, whether or not sweetened, obtained by the partial removal of water from milk, wholly or partly skimmed milk or a mixture of those products and includes such a product to which cream or totally dehydrated milk (or both) has been added, provided that the addition of totally dehydrated milk does not exceed, in the finished product, 25% of total milk solids;
+- “reserved description”, as respects any designated product, means any description specified in relation to that product in the first column of the table in Schedule 1 or any alternative description permitted by Schedule 2;
+- “sell” includes offer or expose for sale or have in possession for sale;
+- “totally dehydrated milk” means the solid product, where the water content does not exceed 5% by weight of the finished product, obtained by removal of water from milk, wholly or partly skimmed milk, cream or a mixture of those products; and
+- “total milk solids” means all the constituents of milk other than water, including milk fat, the constituents other than milk fat being present in their natural proportions.
+
+(2) In this regulation, “final consumer” means any person who buys otherwise than for—
+
+- (a) resale;
+- (b) a mass caterer;
+- (c) a manufacturing business.
+
+(3) In this regulation, “mass caterer” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the final consumer and is ready for consumption without further preparation and, for the purposes of this definition, “preparation” includes manufacture and any form of processing or treatment.
+
+(4) In these Regulations, references to the following European instruments and Annex are references to those instruments and that Annex as amended from time to time—
+
+- (a) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives[^f00006] as last amended by Commission Regulation (EU) 2018/97 amending Annex II to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) as regards the use of sweeteners in fine bakery wares[^f00007];
+- (b) Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods[^f00008] as last amended by Commission Regulation (EU) 2017/1203 amending [Directive 2002/46/EC](https://www.legislation.gov.uk/european/directive/2002/0046) of the European Parliament and of the Council and Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council as regards organic silicon (monomethylsilanetriol) and calcium phosphoryl oligosaccharides (POs-Ca®) added to foods and used in the manufacture of food supplements[^f00009];
+- (c) First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067) laying down Community methods of analysis for testing certain partly or wholly dehydrated preserved milk for human consumption[^f00010];
+- (d) the Annex to First Commission [Directive 87/524/EEC](https://www.legislation.gov.uk/european/directive/1987/0524) laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products[^f00011];[^key-3655f39d89f6ed83e9b1f403c84e6761]
+- (e)[^key-61519765dcfe204f0027695ff84c6c37] Regulation (EU) No1169/2011 of the European Parliament and of the Council on the provision of food information to consumers.
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00012] applies to these regulations as it applies to an Act of the Assembly.
+
+## 3. Reserved descriptions[^key-b13a5b5965d2c766b5b458741456ed7a]
+
+A person must not sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description, derivative of a reserved description, or a substantially similar word or description unless—
+
+- (a) such food is the designated product to which the reserved description relates;
+- (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
+- (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product.
+
+## 4. Labelling and description[^key-1222e2b680f5cc37324c9ddbf2eb4167]
+
+A person must not sell any designated product unless it is marked or labelled in accordance with Regulation (EU) No 1169/2011 and complies[^key-735884c2e4fd435668fee23fc6fe8ab2] with the following particulars—
+
+- (a) its reserved description;
+- (b) except in the case of the products specified in paragraphs 1(d) and (g) and 2(d) in the table in Schedule 1, the percentage of milk fat, expressed by weight in relation to the finished product;
+- (c) in the case of the products specified in paragraph 1 in the table in Schedule 1, the percentage of fat-free dried milk extract; and
+- (d) in the case of the products specified in paragraph 2 in the table in Schedule 1—
+  - (i) the recommendations as to the method of dilution or reconstitution and the details of the fat content of the product when diluted or reconstituted; and
+  - (ii) a statement containing the words “not intended as a food for infants under 12 months”.
+
+## 5. Manner of marking or labelling[^key-2c1be60930357595777d0fb90d97d759]
+
+(1) The particulars with which a designated product is required to be marked or labelled by virtue of regulation 4(b) or (c) (or both) must appear near the trade name of the product.
+
+(2) Where designated products weighing less than 20 grams per unit are packed in an outer packaging, the particulars required by regulation 4(b) to (d) may appear on the label or the outer packaging.
+
+## 6. Application and modification of provisions of the Order[^key-c949995da4a96006342320076dd42506]
+
+(1) Article 9(1) and (2) of the Order (improvement notices) apply with the modification (in the case of Article 9(1)) set out in Part 1 of Schedule 3 for the purposes of—
+
+- (a) enabling an improvement notice to be served on a person requiring that person to comply with the provisions of regulations 3, 4 or 5; and
+- (b) making the failure to comply with a notice referred to in sub-paragraph (a) an offence.
+
+(2) The provisions of the Order specified in the first column of the table in Part 2 of Schedule 3 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
+
+(3) Paragraphs (1) and (2) are without prejudice to the application of the Order to these Regulations for purposes other than those specified in paragraph (1).
+
+## 7. Enforcement[^key-b91cca644e9ea3198da2da0ac5baa4e8]
+
+It is the duty of each district council within its district to enforce these Regulations.
+
+## 8. Revocations[^key-1971a98217148cd0f00be61e519a9202]
+
+The following Regulations are revoked to the extent specified—
+
+- (a) The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2003[^f00013];
+- (b) Schedule 7 paragraphs 18 and 19 of the Food Hygiene Regulations (Northern Ireland) 2006[^f00014]; and
+- (c) The Condensed Milk and Dried Milk (Amendment) Regulations (Northern Ireland) 2008[^f00015].
+
+Sealed with the official seal of the Department of Health on 27th March 2018
+
+Dr Elizabeth Redmond
+
+A senior officer of the Department of Health
+
+## SCHEDULE 1 — Partly or totally dehydrated preserved milk products and their reserved descriptions
+
+Regulation 2(1)
+
+| Reserved Description | Designated Products |
+| --- | --- |
+| 1\. Partly dehydrated milk |  |
+| *—Types of unsweetened condensed milk* |  |
+| (a) Condensed high-fat milk | Partly dehydrated milk containing, by weight, not less than 15% fat, and not less than 26.5% total milk solids. |
+| (b) Condensed milk | Partly dehydrated milk containing, by weight, not less than 7.5% fat, and not less than 25% total milk solids. |
+| (c) Condensed partly skimmed milk | Partly dehydrated milk containing, by weight, not more than 1% and less than 7.5% fat, and not less than 20% total milk solids. |
+| (d) Condensed skimmed milk | Partly dehydrated milk containing, by weight, not more than 1% fat, and not less than 20% total milk solids. |
+| *—Types of sweetened condensed milk* |  |
+| (e) Sweetened condensed milk | Partly dehydrated milk with an admixture of sucrose (semi-white sugar, white sugar or extra-white sugar) and containing, by weight, not less than 8% fat and not less than 28% total milk solids. |
+| (f) Sweetened condensed partly skimmed milk | Partly dehydrated milk with an admixture of sucrose (semi-white sugar, white sugar or extra-white sugar) and containing, by weight, not less than 1% and less than 8% fat, and not less than 24% total milk solids. |
+| (g) Sweetened condensed skimmed milk | Partly dehydrated milk with an admixture of sucrose (semi-white sugar, white sugar or extra-white sugar) and containing, by weight, not more than 1% fat and not less than 24% total milk solids. |
+| 2\. Totally dehydrated milk |  |
+| (a) Dried high-fat milk or high-fat milk powder | Totally dehydrated milk containing, by weight, not less than 42% fat. |
+| (b) Dried whole milk or whole milk powder | Totally dehydrated milk containing, by weight, not less than 26% and less than 42% fat. |
+| (c) Dried partly skimmed milk or partly skimmed milk powder | Totally dehydrated milk containing, by weight, more than 1.5% and less than 26% fat. |
+| (d) Dried skimmed milk or skimmed-milk powder | Totally dehydrated milk containing, by weight, not more than 1.5% fat. |
+
+### 1. Notes[^key-cce7a27498a7685a186e53dfbbdafac6]
+
+Any designated product may contain—
+
+- (a) any substance permitted pursuant to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives; [^key-ac52ba582bf2b2f32ad15971f10d53b8]...
+- (b) vitamins and minerals in accordance with the requirements of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) on the addition of vitamins and minerals and of certain other substances to foods ; and[^key-b956ab1f3822c7444155100ca48fc3c2]
+- (c)[^key-9a28ea74fbfdacddc2d8986e69ba2522] food enzymes in accordance with Regulation No 1332/2008 on food enzymes.
+
+**2.**[^key-da1a3af7f4b43132160d5befd8233cd2] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
+
+**3.**[^key-d66fb0e07ad07d70bae53e24ba927c7c] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00016] as last amended by Commission Regulation (EU) 2017/1981 amending Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council as regards temperature conditions during transport of meat[^f00017], the preservation of the designated products must be achieved—
+
+- (a) by heat treatment for the products referred to in paragraph 1(a) to (d) in the table in this Schedule;
+- (b) by the addition of sucrose for the products referred to in paragraph 1(e) to (g) in the table in this Schedule; and
+- (c) by dehydration for the products referred to in paragraph 2(a) to (d) in the table in this Schedule.
+
+**4.**[^key-96179f24967e480107a20108c01a105f] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
+
+(2) Authorised raw materials for protein adjustment purposes referred to in paragraph (1) are as follows—
+
+- (a) milk retentate, which is the product obtained by concentrating milk protein by ultrafiltration of milk, partly skimmed milk or skimmed milk;
+- (b) milk permeate, which is the product obtained by removing milk proteins and milk fat from milk, partly skimmed milk or skimmed milk by ultrafiltration; and
+- (c) lactose, which is a natural constituent of milk normally obtained from whey with an anhydrous lactose content of not less than 99.0% m/m (mass over mass) on a dry basis, and which may be anhydrous or contain one molecule of water of crystallisation or be a mixture of both forms.
+
+**5.**[^key-7cf2d37bc48e38625b85016c8c44491e] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00018].
+
+**6.**[^key-75aeb2d5d0babd1864bfa351a42fcdfc] Without prejudice to the obligation regarding nutrition labelling laid down by Regulation (EU) No 1169/2011, the lactose content may be reduced by conversion to glucose and galactose provided that this modification is indelibly indicated on the packing of the product so that it can be easily seen and read.
+
+## SCHEDULE 2 — Permitted alternative descriptions to the reserved descriptions specified in Schedule 1
+
+Regulation 2(1)
+
+**1.**[^key-75312d85e090f69a431c9022aae3fd76] The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 7.5 % fat and 25%[^key-15ea79835c39291db8507bbcbb234e4f] total milk solids.
+
+**2.**[^key-624776b0d149bad8be31f066c0e2ce89] The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
+
+**3.**[^key-a0874192dd384e09bcd1d966c9ccc277] The term “semi-skimmed milk powder” or dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
+
+## SCHEDULE 3 — Application and modification of provisions of the Order
+
+Regulation 6
+
+### PART 1 — Modification of Article 9(1)
+
+**1.**[^key-f9c36a1c24ea4dafb0897c11278b8316] For Article 9(1) of the Order (improvement notices) substitute—
+
+> (1) If an authorised officer has reasonable grounds for believing that a person is failing to comply with any of regulations 3, 4 or 5 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018, the authorised officer may, by a notice served on that person (in this Order referred to as an “improvement notice”)—
+>
+> - (a) state the officer’s grounds for believing that the person is failing to comply with the relevant provision;
+> - (b) specify the matters which constitute the person’s failure so to comply;
+> - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+> - (d) require the person to take those measures, or measures that are at least equivalent to them, within such period as may be specified in the notice.
+
+### PART 2 — Application and modification of other provisions of the Order[^key-00f5cf9f7d74f4b359d68212ecb18fc4]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Provision of the Order</em></th><th><em>Column 2</em><br><em>Modifications</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Article 3 (application to food offered as prizes etc.)</td><td>For “this Order” substitute “the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018”</td></tr>
+<tr><td>Article 4 (presumptions that food intended for human consumption)</td><td>In paragraph (1), for “this Order” substitute “the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018”.</td></tr>
+<tr><td>Article 19 (offences due to fault of another person)</td><td>For “any of the preceding provisions of this Part” substitute “Article 9(2), as applied by regulation 6 and Schedule 3 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018,”.</td></tr>
+<tr><td>Article 20 (1) and (5) (defence of due diligence)</td><td>In paragraph (1), for “any of the preceding provisions of this Part” substitute “Article 9(2), as applied by regulation 6 and Schedule 3 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018,”.</td></tr>
+<tr><td>Article 29 (procurement of samples)</td><td>After the words “authorised officer”, insert, when carrying out duties under this Article in relation to the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018, must exercise and perform those duties in accordance with the methods described in the Annex to First Commission <a href="https://www.legislation.gov.uk/european/directive/1987/0524">Directive 87/524/EEC</a> laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products and”.</td></tr>
+<tr><td>Article 30(8) (which relates to evidence of certificates given by a food analyst or examiner)</td><td>For “this Order” substitute “the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018”.</td></tr>
+<tr><td>Article 34 (obstruction etc of officers)</td><td>In paragraph (1), for “this Order” (in each place occurring) substitute “the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018”.</td></tr>
+<tr><td>Article 36(1) and (2) (punishment of offences)</td><td>In paragraph (1), after “Article 34(1)”, insert, “as applied and modified by regulation 6 of, and Schedule 3 to, the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018,”.<br>After paragraph (1), insert—<br>(1A) A person guilty of an offence under Article 9(2), as applied by regulation 6 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018, shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.<br>.<br>In paragraph (2)—<br>(a) for “any other offence under this Order”, substitute “an offence under Article 34(2), as applied by regulation 6 of, and Schedule 3 to, the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018,”; and<br>(b) in paragraph (b), for “the relevant amount”, substitute “the statutory maximum”.</td></tr>
+<tr><td>Article 37 (Appeals)</td><td colspan="2">For paragraph (1) substitute “Any person who is aggrieved by a decision of an authorised officer to serve an improvement notice under Article 9(1) as applied and modified by regulation 6 and Schedule 3 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018 may appeal to a court of summary jurisdiction.”.<br>For paragraph (2A) substitute “The period within which such an appeal as is mentioned in paragraph (2) may be brought shall be, in the case of an appeal under paragraph (1), that period or the period specified in the improvement notice, whichever ends the earlier.”.</td></tr>
+<tr><td>Article 38 (Appeals against improvement notices)</td><td colspan="2">In paragraphs (1) and (2), after “improvement notice” insert “as applied by regulation 6 and Schedule 3 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018.”.</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations transpose Council [Directive 2001/114/EC](https://www.legislation.gov.uk/european/directive/2001/0114) relating to certain partly or wholly dehydrated preserved milk for human consumption (OJ No L 15, 17.1.02, p 19). They also revoke and replace the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2003 ([SR 2003 No.300](https://www.legislation.gov.uk/nisr/2003/300)) and revoke the Condensed Milk and Dried Milk (Amendment) Regulations (Northern Ireland) 2008 ([SR 2008 No.42](https://www.legislation.gov.uk/nisr/2008/42)) and Schedule 7 paragraphs 18 and 19 of the Food Hygiene Regulations (Northern Ireland) 2006 ([SR 2006 No.3](https://www.legislation.gov.uk/nisr/2006/3)).
+
+The Regulations—
+
+- (a) define condensed milk and dried milk products and the reserved descriptions that apply to them (regulation 2 and Schedules 1 and 2);
+- (b) prohibit the labelling with reserved descriptions of food other than the designated condensed and dried milk products to which they relate (regulation 3);
+- (c) set out the labelling requirements for designated condensed and dried milk products (regulation 4);
+- (d) set out the manner of marking or labelling the designated condensed and dried milk products with the particulars required by regulation 4 (regulation 5);
+- (e) apply certain provisions of the Food Safety (Northern Ireland) Order 1991 ([S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended) with modifications. This includes the application of Article 9(1) (with modifications) and (2), enabling an improvement notice to be served to require compliance with regulations 3, 4 or 5. The provisions, as applied, make the failure to comply with an improvement notice an offence (regulation 6 and Schedule 3);
+- (f) impose an obligation on district councils to enforce these Regulations (regulation 7); and
+- (g) revoke previous Regulations, as set out above (regulation 8).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health, Social Services and Public Safety; see [2016 c.5 (N.I)](https://www.legislation.gov.uk/nia/2016/5), section 1
+
+[^f00002]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and S.R. 2004 Nos. [482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 ([2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51)) and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 ([2008 c.7](https://www.legislation.gov.uk/ukpga/2008/7))
+
+[^key-9503f68e5c0ce7c7d7ddfe961c310a28]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2018/77) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^f00004]: Footnote: OJ No. L 31, 1.2.2002, p.1
+
+[^f00005]: Footnote: OJ No L 189, 27.6.2014, p 1
+
+[^key-54dfb3cf6e0f97bbb55148085b4fefa4]: Commencement: Reg. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-74936858f6b0bf69878faa77890c6200]: Commencement: Reg. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^f00006]: Footnote: OJ No L 354, 31.12.08, p 16
+
+[^f00007]: Footnote: OJ No L17, 23.1.2018, p11
+
+[^f00008]: Footnote: OJ No L 404, 30.12.06, p 26
+
+[^f00009]: Footnote: OJ No L 173, 6.7.17, p 9
+
+[^f00010]: Footnote: OJ No L 327, 24.12.79, p 29
+
+[^f00011]: Footnote: OJ No L 306, 28.10.87, p 24
+
+[^key-3655f39d89f6ed83e9b1f403c84e6761]: Textual amendment: [Reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2018/77/regulation/2/4/d): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-61519765dcfe204f0027695ff84c6c37]: Textual amendment: [Reg. 2(4)(e)](https://www.legislation.gov.uk/nisr/2018/77/regulation/2/4/e) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^f00012]: Footnote: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-b13a5b5965d2c766b5b458741456ed7a]: Commencement: Reg. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-1222e2b680f5cc37324c9ddbf2eb4167]: Commencement: Reg. 4 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-735884c2e4fd435668fee23fc6fe8ab2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2018/77/regulation/4) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/3) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-2c1be60930357595777d0fb90d97d759]: Commencement: Reg. 5 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-c949995da4a96006342320076dd42506]: Commencement: Reg. 6 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-b91cca644e9ea3198da2da0ac5baa4e8]: Commencement: Reg. 7 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-1971a98217148cd0f00be61e519a9202]: Commencement: Reg. 8 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^f00013]: Footnote: [SR 2003 No 300](https://www.legislation.gov.uk/nisr/2003/300)
+
+[^f00014]: Footnote: [SR 2006 No 3](https://www.legislation.gov.uk/nisr/2006/3)
+
+[^f00015]: Footnote: [SR 2008 No 42](https://www.legislation.gov.uk/nisr/2008/42)
+
+[^key-cce7a27498a7685a186e53dfbbdafac6]: Commencement: Sch. 1 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-ac52ba582bf2b2f32ad15971f10d53b8]: Textual amendment: Word in [Sch. 1 Notes para. 1(a)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/a) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-b956ab1f3822c7444155100ca48fc3c2]: Textual amendment: Words in [Sch. 1 Notes para. 1(b)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/b) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-9a28ea74fbfdacddc2d8986e69ba2522]: Textual amendment: [Sch. 1 Notes para. 1(c)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/c) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-da1a3af7f4b43132160d5befd8233cd2]: Commencement: Sch. 1 para. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-d66fb0e07ad07d70bae53e24ba927c7c]: Commencement: Sch. 1 para. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^f00016]: Footnote: OJ No L 139, 30.4.04, p 55
+
+[^f00017]: Footnote: OJ No L 285, 1.11.2017, p10
+
+[^key-96179f24967e480107a20108c01a105f]: Commencement: Sch. 1 para. 4 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-7cf2d37bc48e38625b85016c8c44491e]: Commencement: Sch. 1 para. 5 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^f00018]: Footnote: OJ No L 327, 24.12.79, p 29
+
+[^key-75aeb2d5d0babd1864bfa351a42fcdfc]: Textual amendment: [Sch. 1 Notes para. 6](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/6) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-75312d85e090f69a431c9022aae3fd76]: Commencement: Sch. 2 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-15ea79835c39291db8507bbcbb234e4f]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2018/77/schedule/2/paragraph/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+
+[^key-624776b0d149bad8be31f066c0e2ce89]: Commencement: Sch. 2 para. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-a0874192dd384e09bcd1d966c9ccc277]: Commencement: Sch. 2 para. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-f9c36a1c24ea4dafb0897c11278b8316]: Commencement: Sch. 3 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+
+[^key-00f5cf9f7d74f4b359d68212ecb18fc4]: Commencement: Sch. 3 Pt. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)

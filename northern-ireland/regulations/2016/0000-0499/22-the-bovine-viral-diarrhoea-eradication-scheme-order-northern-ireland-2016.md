@@ -1,0 +1,274 @@
+---
+title: The Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016
+id: nisr/2016/22
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2016-01-25'
+text_date: '2025-02-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2016/22
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/22/pdfs/nisr_20160022_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/22/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016
+
+> Text as at 2025-02-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2016 No. 22
+
+Animals
+
+The Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016
+
+Made
+
+25th January 2016
+
+Coming into operation
+
+1st March 2016
+
+The Department of Agriculture and Rural Development[^f00001] makes the following Scheme Order in exercise of the powers conferred by Article 8(1) and (2) of the Diseases of Animals (Northern Ireland) Order 1981[^f00002] and with the approval of the Department of Finance and Personnel[^f00003].
+
+In accordance with Article 8(1) of that Order, it has consulted with the bodies which appear to it to be substantially representative of the interests concerned.
+
+## 1. Citation and commencement[^key-5b1bf179380df77ba5d3edfff460876a]
+
+This Order may be cited as the Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016 and shall come into operation on 1st March 2016.
+
+## 2. Purpose of the Bovine Viral Diarrhoea Eradication Scheme[^key-6b3926ef37da68c13226bf672c166358]
+
+For the purposes of reducing the incidence of bovine viral diarrhoea and keeping bovines, so far as is practicable, free from infection with the bovine viral diarrhoea virus, the Department makes the Scheme as set out in the Schedule.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 25th January 2016
+
+Geraldine Fee
+
+A senior officer of the Department of Agriculture and Rural Development
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 25th January 2016
+
+Emer Morelli
+
+A senior officer of the Department of Finance and Personnel
+
+## SCHEDULE — Bovine Viral Diarrhoea Eradication Scheme (Northern Ireland) 2016
+
+Article 2
+
+### 1. Citation[^key-0dc8b136fd0d1d03b275c4dd4759dfcf]
+
+This Scheme may be cited as the Bovine Viral Diarrhoea Eradication Scheme (Northern Ireland) 2016.
+
+### 2. Interpretation[^key-ea0613e8387d76a583d0da2b36fac32f]
+
+In this Scheme—
+
+- “approved laboratory” means a laboratory approved by the Department for the purposes of this Order;
+- “blood sample” means a sample of blood taken by a veterinary surgeon;
+- “bovine” means any bovine animal including an animal of the species bison bison or bubalus bubalis;
+- “BVD” means bovine viral diarrhoea;
+- “BVDV” means the bovine viral diarrhoea virus;
+- “Department” means the Department of Agriculture and Rural Development for Northern Ireland;
+- “herd” means one or more bovines for which a keeper is responsible and to whom the Department has assigned a unique herd identification number;
+- “holding” means any establishment, construction or, in the case of an open-air farm, any place, in which animals are held, kept or handled;
+- “keeper” means a person responsible for a herd;
+- “official BVD tissue tag” means a tissue sample-enabled tag approved by the Department for the purposes of taking a tissue sample for testing for the presence of BVDV under this Scheme;
+- “tagged” means the attachment of approved eartags in accordance with regulation 3 of the Cattle Identification (No.2) Regulations (Northern Ireland) 1998[^f00004]; and
+- “tissue sample” means a sample of tissue taken from a bovine by means of an official BVD tissue tag.
+
+### 3. Live bovines[^key-020e0b408f942e48f3d6a66ab8f4089c]
+
+(1) The keeper of a bovine born on or after the coming into operation of this Order shall ensure—
+
+- (a) a tissue sample is taken from that bovine calf; and
+- (b) the tissue sample is dispatched to an approved laboratory within 7 days of taking the tissue sample for testing for BVDV.
+
+(2) The taking of a sample in accordance with sub-paragraph (1) shall be done as soon as possible after birth and in any event within 20 days of birth.
+
+(3) A keeper who comes into the possession or control of a bovine, born on or after the coming into operation of this Order, and which does not possess a negative test result for BVDV from an approved laboratory shall—
+
+- (a) ensure that a tissue sample is taken from that bovine; or
+- (b) arrange for a blood sample to be taken from that bovine; and
+- (c) ensure that the sample is dispatched to an approved laboratory within 7 days of taking the tissue sample for testing for BVDV.
+
+(4) The taking of a sample in accordance with sub-paragraph (3) shall be done as soon as possible after the bovine comes into the possession or control of the keeper and in any event within 20 days of the bovine coming into the possession or control of the keeper.
+
+(5)[^key-741e0e487fa302ca93cbcdccdde867eb] The keeper of any other bovine which does not possess a negative test result for BVDV from an approved laboratory shall—
+
+- (a) ensure that a tissue sample is taken from that bovine; or
+- (b) arrange for a blood sample to be taken from that bovine; and
+- (c) ensure that the sample is dispatched to an approved laboratory within 7 days of taking the tissue sample for testing for BVDV.
+
+(6) The taking of a sample in accordance with sub-paragraph (5) shall be done—
+
+- (a) where the keeper comes into possession or control of the bovine, within 20 days of the bovine coming into the possession or control of the keeper; or
+- (b) in all other cases, within 20 days of the Department notifying the keeper that a bovine which does not possess a negative test result for BVDV from an approved laboratory is present in their herd.
+
+### 4. Aborted bovine foetuses, stillborn bovine calves or bovine calves that have died before being tagged[^key-79c66151e2f967dab4c9b15204d70353]
+
+The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf that has died before being tagged[^key-0abed4e9797e806b8831c649961eecf7]..., shall ensure that as soon as is reasonably practicable, after the discovery of that bovine—
+
+- (a) a tissue sample is taken from that bovine;
+- (b) the abortion or birth of that bovine is notified to the Department; and
+- (c) the tissue sample is dispatched to an approved laboratory within 7 days of taking the tissue sample.
+
+### 5. Repeat analysis following initial positive or inconclusive result[^key-e05a36ba4afdc8c046ef5eb7a846aeef]
+
+(1) Nothing in this Scheme shall prevent the keeper of a bovine which on initial analysis has had a positive or inconclusive result from arranging for a confirmatory blood sample to be taken and submitted to an approved laboratory for analysis for BVDV.
+
+(2) If the keeper does not arrange for the taking of a confirmatory blood sample, the most recent test result will be used for the purposes of this Scheme.
+
+### 6. Inadequate tissue sample[^key-bb7cbeb15d4e954acf1aba2c688cf372]
+
+(1) Where the Department is notified by an approved laboratory that a sample submitted in accordance with paragraphs 3 or 4 is not adequate to be subjected to analysis, the Department shall by notice issued to the keeper require the keeper to submit a further sample within 7 days of notification.
+
+(2) The keeper of a bovine notified in accordance with paragraph (1) shall—
+
+- (a) ensure a further tissue sample is taken from that bovine; or
+- (b) arrange for a blood sample to be taken from that bovine; and
+- (c) ensure that the sample is dispatched to an approved laboratory within 7 days of taking the sample.
+
+### 7. Bovine status[^key-457b127c7a2c2ae1548f794e1c119e7a]
+
+The Department shall allocate BVD Negative Status to a bovine where a test result obtained from an approved laboratory confirms that the bovine either directly or indirectly is negative for the presence of BVDV.
+
+### 8. Notice of suspected infection with BVDV[^key-fd13c72a201c4d3113924da44c5c8988]
+
+The Department shall by notice issued inform the keeper where a bovine in their herd is suspected of being infected with BVDV.
+
+### 9. Isolation of an infectious or potentially infectious bovine[^key-b1c26dedf6aa4615b403412ee0f798d5]
+
+A keeper of a bovine—
+
+- (a) notified by the Department that a bovine in their herd is suspected of being infected with BVDV;
+- (b) in receipt of an inconclusive test result for that bovine from an approved laboratory; or
+- (c) in receipt of a positive test result for that bovine from an approved laboratory,
+
+shall ensure that the bovine is isolated within housing to prevent direct or indirect contact with other susceptible animals.
+
+### 10. Follow-up testing[^key-38450dacbbb4c5d6b328260305ea404b]
+
+A keeper informed by notice issued by the Department that a bovine in their herd is suspected of being infected with BVDV, shall—
+
+- (a) arrange for a blood sample to be taken from that bovine; and
+- (b) ensure that the sample is dispatched to an approved laboratory within 7 days of taking the sample.
+
+### 11. Where sampling or re-sampling is not possible[^key-5192cebd51f2374b7aa79870ac5bae1d]
+
+Where a keeper of a bovine required to be sampled under paragraph 3, 4, 6 or 10 is unable to take a sample from the bovine, the keeper shall immediately notify this fact to the Department.
+
+### 12. Tampering with samples[^key-bcbb88a8b5f577f62c24d9705b5ec478]
+
+A person shall not tamper with a blood or tissue sample or do any act or thing or attempt to do any act or thing or cause or permit any act or thing to be done that is likely to affect the result of any test required to be carried out under this Scheme.
+
+### 13. Notices[^key-6b6628516841f0ff078252006d8035ca]
+
+(1) Any notice issued under this Order to a keeper shall be given to that person by—
+
+- (a) delivering it to that person;
+- (b) leaving it at that person’s registered address;
+- (c) sending it to that person by post at that address; or
+- (d) subject to sub-paragraph (2), sending it to that person by an electronic communication.
+
+(2) If a notice under this Scheme to be given to a keeper is sent by the Department by electronic communication, it is to be treated as given only if—
+
+- (a) the keeper to whom the notice is given has indicated a willingness to the Department to receive notices by an electronic communication and provided an electronic address suitable for that purpose; and
+- (b) the notice is sent to the electronic address provided by the keeper.
+
+(3) In this paragraph “electronic communication” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00005].
+
+(4) A keeper shall comply with the requirements of any notice issued in accordance under this Scheme.
+
+(5) In sub-paragraphs 1(b) and (c), “registered address” means the keeper’s address as notified to the Department by the keeper.
+
+### 14. Restrictions on movement of bovines[^key-e4399a8424ae7bf63cff50b2e7784b5e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the eradication of Bovine Viral Diarrhoea in Northern Ireland in the Scheme set out in the Schedule.
+
+Paragraphs 3 and 4 of the scheme make it a requirement for those responsible for new born calves, bovines which come into the possession of a keeper and do not possess a negative test result for BVDV, aborted foetuses, stillborn calves and calves which have died before tagging, to take a tissue sample from those bovines for analysis for Bovine Viral Diarrhoea.
+
+Paragraphs 5 and 6 provide for repeat analysis and inadequate tissue samples.
+
+Paragraph 7 requires the Department to allocate BVD Negative Status to the bovine where a test is negative for BVDV.
+
+Paragraphs 8 requires the Department to notify keepers of bovines which they suspect are infected with BVDV.
+
+Paragraph 9 requires a keeper to isolate infectious or potentially infectious bovines.
+
+Paragraph 10 makes provision for follow up testing of bovines suspected of being infected with BVDV.
+
+Paragraph 11 requires a keeper to notify the Department where sampling or re-sampling is not possible.
+
+Paragraph 12 makes it an offence to tamper with a sample.
+
+Paragraph 13 makes provision for notices.
+
+Paragraph 14 restricts the movement of infectious or potentially infectious bovines.
+
+Any person who, without lawful authority or excuse, proof of which shall lie on him, contravenes any provision of this Order shall be guilty of an offence against the Diseases of Animals (Northern Ireland) Order 1981 and shall be liable, on summary conviction, either to imprisonment for a term not exceeding one month or to a fine not exceeding level 5 on the standard scale (currently £5,000) or in the case of an offence committed with respect to more than 5 animals, not exceeding level 3 on the standard scale (currently £1,000) for each animal.
+
+## Annotations
+
+[^f00001]: Footnote: The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of The Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283))
+
+[^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 20 to 23, [S.R. 1994 No. 161](https://www.legislation.gov.uk/nisr/1994/161), [S.R. 2004 No. 362](https://www.legislation.gov.uk/nisr/2004/362), [S.R. 2006 No. 41](https://www.legislation.gov.uk/nisr/2006/41) and the Diseases of Animals Act (Northern Ireland) [2010 (c. 1) (N.I.)](https://www.legislation.gov.uk/nia/2010/1) and [2011 c.16 (N.I.)](https://www.legislation.gov.uk/nia/2011/16)
+
+[^f00003]: Footnote: Formerly the Department of Finance; see [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3(revoked) and [S.I.1999/283(N.I.1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3 and Schedules 1
+
+[^key-5b1bf179380df77ba5d3edfff460876a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-6b3926ef37da68c13226bf672c166358]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2016/22/article/2) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-0dc8b136fd0d1d03b275c4dd4759dfcf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/1) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-ea0613e8387d76a583d0da2b36fac32f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/2) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^f00004]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279), as amended by [S.R. 1999 No. 324](https://www.legislation.gov.uk/nisr/1999/324), [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420) and [S.R. 2012 No. 416](https://www.legislation.gov.uk/nisr/2012/416)
+
+[^key-020e0b408f942e48f3d6a66ab8f4089c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/3) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-741e0e487fa302ca93cbcdccdde867eb]: Textual amendment: [Sch. para. 3(5)(6)](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/3/5/6) inserted (1.2.2025) by [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/a)
+
+[^key-79c66151e2f967dab4c9b15204d70353]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/4) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-0abed4e9797e806b8831c649961eecf7]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/4) omitted (1.2.2025) by virtue of [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/b)
+
+[^key-e05a36ba4afdc8c046ef5eb7a846aeef]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/5) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-bb7cbeb15d4e954acf1aba2c688cf372]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/6) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-457b127c7a2c2ae1548f794e1c119e7a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/7) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-fd13c72a201c4d3113924da44c5c8988]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/8) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-b1c26dedf6aa4615b403412ee0f798d5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/9) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-38450dacbbb4c5d6b328260305ea404b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/10) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-5192cebd51f2374b7aa79870ac5bae1d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/11) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-bcbb88a8b5f577f62c24d9705b5ec478]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/12) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^key-6b6628516841f0ff078252006d8035ca]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/13) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+
+[^f00005]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); section 4(1) was amended by section 406(1) and paragraph 170 of Schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^key-e4399a8424ae7bf63cff50b2e7784b5e]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/14) omitted (1.2.2025) by virtue of [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/225/article/3))

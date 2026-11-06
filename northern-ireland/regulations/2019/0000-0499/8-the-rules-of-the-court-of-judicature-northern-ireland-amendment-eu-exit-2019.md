@@ -1,0 +1,210 @@
+---
+title: The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019
+id: nisr/2019/8
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2019-01-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2019/8
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2019/8/pdfs/nisrem_20190008_en.pdf
+- http://www.legislation.gov.uk/nisr/2019/8/pdfs/nisr_20190008_en.pdf
+- http://www.legislation.gov.uk/nisr/2019/8/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+Rules made by the Lord Chancellor, laid before Parliament under section 40(8) of the Sanctions and Anti-Money Laundering Act 2018, for approval by resolution of each House of Parliament within 28 days beginning with the day on which the Rules were made, subject to extension for periods of dissolution, prorogation or adjournment for more than 4 days.
+
+2019 No. 8
+
+Court Of Judicature, Northern Ireland
+
+Exiting The European Union
+
+Sanctions
+
+The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019
+
+Made
+
+30th January 2019
+
+Laid before Parliament
+
+31st January 2019
+
+Coming into force
+
+1st March 2019
+
+The Lord Chancellor, in exercise of the power conferred by section 40 of the Sanctions and Anti-Money Laundering Act 2018[^f00001] (“the 2018 Act”) to make rules of court under sections 55 and 55A of the Judicature (Northern Ireland) Act 1978[^f00002], and after consulting in accordance with section 40(5)(b) of the 2018 Act, makes the following Rules.
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 and come into force on 1st March 2019.
+
+## 2. Interpretation
+
+In these Rules, “the principal Rules” means the Rules of the Court of Judicature (Northern Ireland) 1980[^f00003] and an Order, Part or rule referred to by number alone means the Order, Part or rule so numbered in the principal Rules.
+
+## 3. Arrangement of Orders
+
+In the Arrangement of Orders, for the entry relating to Order 116B substitute, “ORDER 116B - COUNTER-TERRORISM ACT 2008, PART 1 OF THE TERRORIST ASSET-FREEZING ETC. ACT 2010 AND PART 1 OF THE SANCTIONS AND ANTI-MONEY LAUNDERING ACT 2018”.
+
+## 4. Amendment of Order 1 to the principal Rules
+
+In Order 1, after rule 11(la) insert—
+
+> (1b) proceedings on an application under section 38 of the Sanctions and Anti-Money Laundering Act 2018 (court review of decisions), or on a claim arising from any matter to which such an application relates;
+
+.
+
+## 5. Amendment of Order 116B to the principal Rules
+
+(1) Order 116B of the principal Rules is amended as follows.
+
+(2) For the heading to Order 116B substitute—
+
+> ORDER 116B – COUNTER-TERRORISM ACT 2008, PART 1 OF THE TERRORIST ASSET-FREEZING ETC. ACT 2010 AND PART 1 OF THE SANCTIONS AND ANTI-MONEY LAUNDERING ACT 2018
+
+.
+
+(3) In rule 1(1)—
+
+- (a) after sub-paragraph (a) insert—
+
+  > - (aa) sanctions proceedings;
+
+  ;
+- (b) in sub-paragraph (b), for “such proceedings” substitute “financial restrictions proceedings or sanctions proceedings”.
+
+(4) In rule 1(2)—
+
+- (a) after sub-paragraph (aa) insert—
+
+  > - (ab) “the 2018 Act” means the Sanctions and Anti-Money Laundering Act 2018;
+  > - (ac) “appropriate Minister” means—
+  >   - (i) in relation to a challenge to a decision of the Secretary of State, the Secretary of State;
+  >   - (ii) in relation to a challenge to a decision of the Treasury, the Treasury;
+
+  ;
+- (b) after sub-paragraph (b) insert—
+
+  > - (ba) “sanctions decision” means a decision to which section 38 of the 2018 Act applies;
+
+  ;
+- (c) after sub-paragraph (c) insert—
+
+  > - (cza) “sanctions proceedings” means proceedings—
+  >   - (i) on an application under section 38 of the 2018 Act, or
+  >   - (ii) on a claim arising from any matter to which such an application relates;
+
+  ;
+- (d) in sub-paragraph (d)—
+  - (i) for “the Treasury”, in each place it occurs, substitute “the appropriate Minister”;
+  - (ii) for “the Treasury’s” substitute “the appropriate Minister’s”;
+- (e) in sub-paragraphs (e), (g) and (i), for “the Treasury” substitute “the appropriate Minister”;
+- (f) in paragraph (h), after “the 2010 Act” insert “and section 40(1) of the 2018 Act” (rules of court).
+
+(5) For the heading to Part II substitute—
+
+> APPLICATION TO SET ASIDE A FINANCIAL RESTRICTIONS DECISION UNDER THE 2008 ACT OR THE 2010 ACT OR A SANCTIONS DECISION UNDER THE 2018 ACT
+
+.
+
+(6) In rule 3, after “2010 Act” insert “or a sanctions decision under section 38(2) of the 2018 Act”.
+
+(7) In rule 4—
+
+- (a) in each place it occurs, after “restrictions decision” insert “or sanctions decision”;
+- (b) for “the Treasury” substitute “the appropriate Minister”.
+
+(8) For rule 5(1) substitute—
+
+> (1) An originating summons under this Part of this Order shall be entitled in the matter of a decision by, as the case may be—
+>
+> - (a) the Treasury under section 63 of the Counter-Terrorism Act 2008[^f00004] (application to set aside financial restrictions decision),
+> - (b) the Treasury under section 27 of the Terrorist Asset-Freezing etc. Act 2010[^f00005] (review of other decisions by the court),
+> - (c) the Treasury under section 38 of the Sanctions and Anti-Money Laundering Act 2018, or
+> - (d) the Secretary of State under section 38 of the Sanctions and Anti-Money Laundering Act 2018,
+>
+> and all subsequent documents in the matter shall be so entitled.
+
+.
+
+(9) In rules 7, 8 and 9, in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+
+(10) In rule 10—
+
+- (a) in each place it occurs (including in the heading), for “the Treasury” substitute “the appropriate Minister”;
+- (b) in each place it occurs, after “decision” insert “or sanctions decision”;
+- (c) in paragraph (1)—
+  - (i) for “they” the first time it appears substitute “the appropriate Minister”;
+  - (ii) for “they are” substitute “the appropriate Minister is”;
+- (d) in paragraph (5), for “the Treasury’s” substitute “the appropriate Minister’s”.
+
+(11) In rule 11—
+
+- (a) after “decision” insert “or sanctions decision”;
+- (b) in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+
+(12) In rule 14, in both places, after “proceedings” insert “and sanctions proceedings”.
+
+(13) In rule 15(1), after “proceedings” insert “or sanctions proceedings”.
+
+(14) In rules 22 to 25, in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+
+(15) In rule 26—
+
+- (a) in the heading and in paragraph (3)(a), for “the Treasury’s” substitute “the appropriate Minister’s”;
+- (b) in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+
+(16) In rule 29, in both places, for “the Treasury” substitute “the appropriate Minister”.
+
+(17) In rule 30, in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+
+(18) In rule 31—
+
+- (a) in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+- (b) in each place it occurs (including in the heading), for “the Treasury’s” substitute “the appropriate Minister’s”.
+
+(19) In rule 33, in each place it occurs, for “the Treasury” substitute “the appropriate Minister”.
+
+(20) In rule 34, in each place it occurs (including in the heading), for “Treasury” substitute “appropriate Minister”.
+
+David Gauke
+
+Lord Chancellor
+
+Ministry of Justice
+
+30th January 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Rules amend Order 116B of the Rules of the Court of Judicature (Northern Ireland) 1980 ([S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132)) to extend existing procedures to challenges to sanctions-related decisions made under the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13) (“the 2018 Act”). Section 40 of the 2018 Act enables rules of court to be made which allow the closed material procedure provided for in the Counter-Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28) to be used in respect of legal challenges to decisions made under Part 1 of the 2018 Act; for example, challenges to decisions of the Secretary of State or the Treasury designating persons for certain sanctions purposes set out in the 2018 Act and Regulations to be made under that Act. In the course of any such challenge the government will be able to apply to the court for sensitive material to be disclosed only to special advocates and the court, on the basis of this being in the public interest.
+
+An impact assessment has not been prepared for this instrument because no impact on the private or voluntary sector is foreseen. An impact assessment was produced for the primary legislation and can be found at https://publications.parliament.uk/pa/bills/lbill/2017-2019/0069/sanctions-and-anti-money-laundering-IA.pdf. That assessment concluded that the introduction of the 2018 Act, and statutory instruments under it to transfer existing regimes into UK law, would overall reduce uncertainty for business and would not result in significant costs or impact, apart from some familiarisation costs for businesses associated with adapting to the new legislative framework.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). Section 40(1) states that sections 66 to 68 of the Counter-Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28) apply on applications under section 38 of the Sanctions and Anti-Money Laundering Act 2018 as they apply in relation to financial restrictions proceedings within the meaning of section 65 of the 2008 Act, with modifications.
+
+[^f00002]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23); to which the most recent relevant amendments were made by paragraphs 29 and 30 of Schedule 5 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4); and paragraph 6 of Schedule 17, and paragraph 15 of Schedule 18, to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)).
+
+[^f00003]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346). The Rules of the Supreme Court (Northern Ireland) 1980 were re-named in accordance with paragraph 3 of Schedule 11 to the Constitutional Reform Act 2005. The most recent relevant amendments were made by [S.R. 2008 No. 479](https://www.legislation.gov.uk/nisr/2008/479), [S.R. 2009 No. 264](https://www.legislation.gov.uk/nisr/2009/264), [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430), [S.R. 2012 No. 273](https://www.legislation.gov.uk/nisr/2012/273) and the Terrorist Asset-Freezing etc. Act [2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), Schedule 1.
+
+[^f00004]: Footnote: [2008 c. 28](https://www.legislation.gov.uk/ukpga/2008/28); section 63(1) has been amended by [S.I. 2010/1197](https://www.legislation.gov.uk/uksi/2010/1197), [S.I. 2010/2937](https://www.legislation.gov.uk/uksi/2010/2937), [S.I. 2011/605](https://www.legislation.gov.uk/uksi/2011/605), [S.I. 2011/1893](https://www.legislation.gov.uk/uksi/2011/1893), [S.I. 2011/2742](https://www.legislation.gov.uk/uksi/2011/2742), [S.I. 2012/925](https://www.legislation.gov.uk/uksi/2012/925), [S.I. 2016/36](https://www.legislation.gov.uk/uksi/2016/36) and [S.I. 2016/937](https://www.legislation.gov.uk/uksi/2016/937).
+
+[^f00005]: Footnote: [2010 c. 38](https://www.legislation.gov.uk/ukpga/2010/38); section 27 has been repealed by the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), section 59(1), from a day to be appointed.

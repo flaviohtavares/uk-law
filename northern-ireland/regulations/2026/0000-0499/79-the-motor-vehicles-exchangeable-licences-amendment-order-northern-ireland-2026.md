@@ -1,0 +1,140 @@
+---
+title: The Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2026
+id: nisr/2026/79
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2026-04-15'
+text_date: '2026-06-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2026/79
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2026/79/pdfs/nisrem_20260079_en_001.pdf
+- http://www.legislation.gov.uk/nisr/2026/79/pdfs/nisr_20260079_en.pdf
+- http://www.legislation.gov.uk/nisr/2026/79/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2026
+
+> Text as at 2026-06-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2026 No. 79
+
+Road Traffic And Vehicles
+
+The Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2026
+
+Made
+
+15th April 2026
+
+Coming into operation-
+
+1st June 2026
+
+The Department for Infrastructure[^f00001], being satisfied that satisfactory provision is made by the laws of the territories specified in this Order as respects the granting of driving licences of the description specified in this Order, makes the following Order in exercise of the powers conferred by Articles 19D(2)(b), (2A), and (2B) and 218 of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
+
+## 1. Citation and commencement[^key-7e2e7fd2d4a319e2e47e9b67ac6f0013]
+
+This Order may be cited as the Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2026 and shall come into operation on 1st June 2026.
+
+## 2. Amendment of the Motor Vehicles (Exchangeable Licences) Order[^key-09f8ca4816b95a576c0e003d4547665f]
+
+(1) The Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 2022[^f00004] is amended in accordance with paragraph (2) to (8).
+
+(2) In Article 2(1) (interpretation) for the definition of “Table 1, Table 2 and Table 3” substitute—
+
+> - “Table 1, Table 2, Table 3 and Table 4” mean the Tables in Schedule 1 bearing those numbers;
+
+.
+
+(3) In Article 3 (designation of countries and territories)—
+
+- (a) in paragraph (1) for “paragraphs (3), (4), and (5)” substitute “paragraphs (3), (4), (4A) and (5)”;
+- (b) in paragraph (2)(b)(ii)(cc) for “Table 2 or Table 3” substitute “Table 2, Table 3 or Table 4”;
+- (c) after paragraph (4) insert—
+
+  > (4A) A licence of a description specified in paragraph (2)(b)(ii), being a licence granted by way of exchange for a licence granted to a person who has passed a driving test in a country or territory specified in Table 4 shall not be exchangeable in so far as it authorises the driving of a class of vehicle corresponding to a class of vehicle included in licensing category AM, B+E, F, K or Q or sub-category A1 or A2, notwithstanding that the licence authorises the driving in the country or territory specified in Table 1, table 2 or Table 3 of a class of vehicle corresponding to that licensing category.
+
+  .
+
+(4) In Article 5 in paragraph (2)(a)(ii)(cc) for “Table 1 or 2” substitute “Table 1, Table 2 or Table 4”.
+
+(5) After Article 5 insert—
+
+> **5A.** (1) Subject to paragraph (3), the countries and territories specified in Table 4 are designated under Article 19D(2)(b) of the Order as respects licences of the descriptions specified in paragraph (2).
+>
+> (2) The licences referred to in paragraph (1) are licences which—
+>
+> - (a) authorise the driving of a class of vehicle corresponding to a class of vehicle included in licensing category B, and which have been granted by the licensing authority of a country or territory specified in Table 4—
+>   - (i) to a person who has passed a driving test in that country or territory; or
+>   - (ii) by way of exchange for a licence granted in—
+>     - (aa) an EEA state or the United Kingdom;
+>     - (bb) a country or territory specified in Table 1, Table 2 or Table 3; or
+>     - (cc) a country or territory specified in Schedule 2,
+>
+>     to a person who has passed a driving test in any such State, country or territory.
+>
+> (3) Notwithstanding that a licence of a description specified in paragraph (2) authorises the driving of a vehicle with manual transmission that licence shall be exchangeable only to the extent that it authorises the driving of vehicles with automatic transmission if it was granted to a person who has passed a driving test in a vehicle with automatic transmission.
+
+.
+
+(6) In Article 6 in paragraph (2)(b)(ii)(bb) omit “Gibraltar” in each place that it appears.
+
+(7) In Schedule 1 (designation of countries and territories)—
+
+- (a) in the title for “Articles 3, 4 and 5” substitute “Articles 3, 4, 5, 5A and 6”; and
+- (b) after Table 3 insert —
+
+  > Table 4
+  >
+  > | Country or territory |
+  > | --- |
+  > | The Republic of Moldova |
+
+(8) In Schedule 2 (other countries and territories from where a licence may have been exchanged)—
+
+- (a) in the title for “Articles 3, 4, 5 and 6” substitute “Articles 3, 4, 5, 5A and 6”; and
+- (b) before “Guernsey” insert “Gibraltar”.
+
+Sealed with the Official Seal of the Department for Infrastructure on 15th April 2026
+
+Chris Hughes
+
+A senior officer of the Department for Infrastructure
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Motor Vehicles (Exchangeable Licences) Order (Northern Ireland 2022 (“**the 2022 Order**”) in order to designate Moldova under Article 19D(2)(b), (2A) and (2B) of the Road Traffic (Northern Ireland) Order 1981 (“**the 1981 Order**”) as making satisfactory provision for the granting of licences which authorise the driving of vehicles included in licensing category B (cars). This enables those driving licences to be exchanged for a corresponding Northern Ireland licence.
+
+Moldova is designated in respect of those licences if the driving test was passed in Moldova or by way of exchange for a licence granted in the United Kingdom, an EEA State or any of the countries or territories specified in Table 1, Table 2 or Table 3 of Schedule 1 or in Schedule 2 to the 2022 Order where the driving test was passed in that country, territory or State.
+
+A licence granted to a person who has passed a driving test in a vehicle with automatic transmission shall only be exchangeable to the extent that it authorises the driving of vehicles with automatic transmission.
+
+The opportunity has also been taken to include Gibraltar in the list of countries in Schedule 2 as a country or territory from where a licence may have been exchanged. Licences issued in Gibraltar are included in the definition of exchangeable licence in Article 19D(1) of the 1981 Order and are exchangeable in their own right.
+
+An Explanatory Memorandum has been produced and is available from Driving, Vehicle and Road Safety Policy Division, Department for Infrastructure, 3<sup>rd</sup> Floor, James House, 2-4 Cromac Avenue, Belfast BT7 2JA or online alongside this Statutory Rule at http//www.legislation.gov.uk/nisr
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department for Regional Development; *see* section 1(6) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5). Pursuant to section 1(9) of that Act, the Department of the Environment is dissolved
+
+[^f00002]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Article 19D(2), (2A) and (2B) were substituted by [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916), Article 35; see Article 19D(1) for the definitions of “EEA State”, “EEA Agreement”, “exchangeable licence” and EEA State exchangeable licence”. The definitions of “EEA State” and “EEA Agreement” were inserted by [S.R. 1996 No. 426](https://www.legislation.gov.uk/nisr/1996/426), Schedule 1, paragraph 12 and substituted by [S.R. 2012 No. 170](https://www.legislation.gov.uk/nisr/2012/170), regulation 2(7). The definition of “exchangeable licence” was substituted by [S.R. 1996 No. 426](https://www.legislation.gov.uk/nisr/1996/426), Schedule 1, paragraph 12 and by [S.R. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916), Article 35. The definition of “EEA State exchangeable licence” was inserted by that Article
+
+[^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
+
+[^key-7e2e7fd2d4a319e2e47e9b67ac6f0013]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1) in operation at 1.6.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1)
+
+[^key-09f8ca4816b95a576c0e003d4547665f]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/79/article/2) in operation at 1.6.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1)
+
+[^f00004]: Footnote: [S.R. 2022 No. 239](https://www.legislation.gov.uk/nisr/2022/239)

@@ -1,0 +1,181 @@
+---
+title: The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations (Northern Ireland) 2002
+id: nisr/2002/64
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-02-25'
+text_date: '2005-12-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/64
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/64/pdfs/nisr_20020064_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/64/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations (Northern Ireland) 2002
+
+> Text as at 2005-12-30.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 64
+
+PENSIONS
+
+The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations (Northern Ireland) 2002
+
+Made
+
+25th February 2002
+
+Coming into operation
+
+19th March 2002
+
+The Department for Social Development, in exercise of the powers conferred by Articles 56(3), 57(1)(*b*), (2) and (5), 58(2), (4)(*b*) and (6)(*a*), 59(3), 61, 73(3), 75(5), 122(2) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-b56117386b792bcf68f4c73599579822]
+
+These Regulations may be cited as the Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation on 19th March 2002.
+
+## 2. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-82d456f7f61bc5c4f12302bf943cda93]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations[^key-1c848e4b0625a0d16edec79c636ed294]
+
+(1) The Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996[^f00012] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 3(1) (calculation of the value of scheme liabilities and assets) for “The liabilities” there shall be substituted “Subject to regulation 3A, the liabilities”.
+
+(3) After regulation 3 there shall be inserted the following regulation—
+
+> **3A. Valuation of liabilities where employer not insolvent**
+>
+> (1) Where a scheme (including a section of a scheme in relation to which there is more than one employer which is treated as a separate scheme for the purposes of Article 75) is being wound up and the employer was not insolvent immediately before the winding up of the scheme commenced, regulation 3 shall have effect as if—
+>
+> - (a) in paragraph (1)—
+>   - (i) at the beginning of sub-paragraph (*a*) there were inserted “except to the extent that the liabilities are in respect of any entitlement to a pension or other benefit that has arisen under the scheme and in respect of which paragraph (1B) applies,”;
+>   - (ii) in sub-paragraph (*a*) for “regulation 3(2) and (3)” there were substituted “regulation 3(2)(*a*) to (*c*) and (3)”;
+>   - (iii) in sub-paragraph (*b*) for “paragraphs (3) and (4)” there were substituted “paragraphs (1B), (3) and (4)”;
+>   - (iv) in sub-paragraph (*c*) for “regulations 3(2) and (3)” there were substituted “regulations 3(2)(*a*) to (*c*) and (3)”, and after “4 to 8 of the MFR Regulations” there were inserted “or as respects paragraphs (1A) and (1B)”;
+> - (b) after paragraph (1) there were inserted the following paragraphs—
+>
+>   > (1A) The liabilities of a scheme which are to be taken into account under paragraph (1) shall include all expenses (except the cost of annuities taken into account by virtue of paragraph (1B)) which, in the opinion of the trustees or managers of the scheme, are likely to be incurred in connection with the winding up of the scheme.
+>   >
+>   > (1B) When calculating the liabilities of the scheme in respect of any entitlement to the payment of any pension or other benefit (including any increase in a pension) that has arisen under the scheme on or before the applicable time, it shall be assumed that all such liabilities will be discharged by the purchase of annuities of a kind described in Article 74(3)(*c*) (discharge of liabilities by insurance—annuity purchase) and, for the purposes of the calculation, the actuary shall estimate the cost of purchasing any such annuities.
+>
+>   .
+>
+> (2) Where a scheme to which regulation 4[^f00013] (multi-employer schemes) applies (including a section of a scheme in relation to which there is more than one employer which is treated as a separate scheme for the purposes of Article 75) is being wound up in circumstances where—
+>
+> - (a) an employer in relation to the scheme ceases to employ persons in the description or category of employment to which the scheme relates at a time when there are no other employers in relation to the scheme continuing to employ such persons, and
+> - (b) that employer was not insolvent immediately before the winding up commenced,
+>
+> regulation 3 shall have effect with the modifications set out in paragraph (1).
+>
+> (3) For the purposes of paragraphs (1) and (2), an employer is insolvent if a relevant insolvency event has occurred in relation to that employer.
+
+.
+
+(4) In Schedule 1, in the Note at the end of the form of certificate (form of actuary’s certificate), after “securing” there shall be inserted “all of”.
+
+## 4. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-a77e3a06c7b6e2b0c58109bae4b45e25]
+
+(1) The Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00014] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 4(1) (calculation of amounts of liabilities) after “Subject to” there shall be inserted “regulation 4A and”.
+
+(3) After regulation 4 there shall be inserted the following regulation—
+
+> **4A. Calculation of liabilities where employer not insolvent**
+>
+> (1) In the case of a scheme in respect of which the employer was not insolvent at the time the winding up of the scheme commenced, regulation 4 shall have effect as if—
+>
+> - (a) in paragraph (1)(*c*) for “paragraph (3)” there were substituted “paragraphs (2A) and (3)”;
+> - (b) after paragraph (2) there were inserted the following paragraph—
+>
+>   > (2A) For the purpose of calculating the amount of the liabilities in respect of any entitlement to the payment of any pension or other benefit (including any increase in a pension) that has arisen under the scheme on or before the crystallisation date—
+>   >
+>   > - (a) it shall be assumed that all such liabilities will be discharged by the purchase of annuities of a kind described in Article 74(3)(*c*), and
+>   > - (b) paragraph (1)(*b*) shall not have effect.
+>
+>   , and
+> - (c) for paragraph (5) there were substituted the following paragraph—
+>
+>   > (5) If, when the assets of the scheme are applied in accordance with Article 73(2) towards satisfying the liabilities mentioned in sub-paragraphs (*aa*) or (*b*) of Article 73(3) and towards satisfying any liability for an increase to a pension or other benefit to which those sub-paragraphs of that Article apply, those liabilities, as calculated in accordance with the rules of the scheme (without any reduction by reason of their falling within a class of liability which is to be satisfied after another class), cannot in the opinion of the actuary be fully satisfied by applying assets of a value equal to the amount of those liabilities calculated in accordance with paragraph (1), then the amount to be taken as the amount of those liabilities for the purposes of Article 73(2) shall be increased accordingly.
+>
+>   .
+>
+> (2) For the purposes of paragraph (1), an employer is insolvent if a relevant insolvency event within the meaning given by Article 75(4) has occurred in relation to that employer.
+
+.
+
+(4) In regulation 13(4) (hybrid schemes) after “that regulation)” there shall be inserted “, but regulation 4A shall not apply for that purpose”.
+
+## 5. Amendment to Article 60(7A) of the Pensions (Northern Ireland) Order 1995[^key-a035787a9f2118ce931fb8814b2c1143]
+
+(1) Article 60(7A) of the Pensions (Northern Ireland) Order 1995 shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In sub-paragraph (*b*) for “on the date he signs the certificate” there shall be substituted “on the date seven days before the date on which he signs the certificate”.
+
+(3) In sub-paragraph (*b*)(i) for “is” there shall be substituted “was”.
+
+(4) In sub-paragraph (*b*)(ii) for “is” and “has” there shall be substituted “was” and “had” respectively.
+
+Sealed with the Official Seal of the Department for Social Development on 25th February 2002.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations are made under the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”). They make amendments to the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996, the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996 and the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996.
+
+Regulation 1 provides for citation and commencement.
+
+Regulation 2 amends the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996 so as to make miscellaneous amendments to regulations 2, 7, 12, 16, 17, 18, 20 and 21 of, and Schedules 2, 3 and 4 to, those Regulations. The amendments extend the deficit correction periods within which scheme underfunding must be made good, remove the requirement for annual recertifications for schemes that are fully funded and include a number of minor technical amendments.
+
+Regulation 3 amends the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996 so to provide that, where a scheme is in the process of winding up and the employer is not insolvent, the scheme’s liabilities are to be calculated so as to include the actual cost of winding up and the cost of securing pensions or other benefits in payment by way of annuities.
+
+Regulation 4 amends the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996 so as to amend the calculation of liabilities in respect of any pension or other benefit (including any increase in a pension) which has become payable under a scheme in circumstances where the scheme winds up and the employer is not insolvent at the time the winding up commenced.
+
+Regulation 5 makes consequential amendments to Article 60(7A) of the 1995 Order.
+
+As these Regulations, in so far as they are made under Part II of the 1995 Order, make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement for consultation does not apply by virtue of Article 117(2)(*e*) of the 1995 Order.
+
+Articles 58(6)(*a*) and 59(3) of the 1995 Order, some of the enabling provisions under which these Regulations are made, were amended by paragraph 12 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (“the 1999 Order”). The Welfare Reform and Pensions (1999 Order) (Commencement No. 11) Order (Northern Ireland) 2002 ([S.R. 2002 No. 63 (C. 4)](https://www.legislation.gov.uk/nisr/2002/63)) provides for the coming into operation of paragraph 12 of Schedule 2 to the 1999 Order, in so far as it is not already in operation, on 19th March 2002.
+
+An assessment of the cost to business of these Regulations is detailed in a Regulatory Impact Assessment, copies of which have been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of the Assessment are available from the Department for Social Development, Social Security Policy and Legislation Division, Room 5, Block 5, Stormont Estate, Upper Newtownards Road, Belfast BT4 3SJ.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Articles 58(6)(*a*) and 59(3) were amended by paragraph 12 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and Article 73 was amended by Article 35(1) of that Order. *See also* [S.R. 1996 Nos. 570](https://www.legislation.gov.uk/nisr/1996/570), [585](https://www.legislation.gov.uk/nisr/1996/585) and [621](https://www.legislation.gov.uk/nisr/1996/621), [S.R. 1997 Nos. 160](https://www.legislation.gov.uk/nisr/1997/160) and [544](https://www.legislation.gov.uk/nisr/1997/544), [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) and [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
+
+[^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-b56117386b792bcf68f4c73599579822]: Commencement: Reg. 1 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+
+[^key-82d456f7f61bc5c4f12302bf943cda93]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/64/regulation/2) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))
+
+[^key-1c848e4b0625a0d16edec79c636ed294]: Commencement: Reg. 3 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+
+[^f00012]: Footnote: [S.R. 1996 No. 585](https://www.legislation.gov.uk/nisr/1996/585); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
+
+[^f00013]: Footnote: Regulation 4 was amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
+
+[^key-a77e3a06c7b6e2b0c58109bae4b45e25]: Commencement: Reg. 4 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+
+[^f00014]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621), to which there are amendments not relevant to these regulations
+
+[^key-a035787a9f2118ce931fb8814b2c1143]: Commencement: Reg. 5 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)

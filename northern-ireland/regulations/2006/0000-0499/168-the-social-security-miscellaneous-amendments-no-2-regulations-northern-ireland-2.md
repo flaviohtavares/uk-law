@@ -1,0 +1,428 @@
+---
+title: The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006
+id: nisr/2006/168
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2006-03-31'
+text_date: '2012-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2006/168
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2006/168/pdfs/nisr_20060168_en.pdf
+- http://www.legislation.gov.uk/nisr/2006/168/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006
+
+> Text as at 2012-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2006 No. 168
+
+SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006
+
+Made
+
+31st March 2006
+
+Coming into operation in accordance with regulation 1
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 5(1)(a) to (c), (j), (k), (n) and (q), 5A(1) and (6)(c), 71(1)(b), 105A(1A), (1B), (1D) and (1E), 106(1A) to (1D) and 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Articles 10(4), 11(3) and (6) and 74(1) and (3) of the Social Security (Northern Ireland) Order 1998[^f00002] and now vested in it[^f00003].
+
+## 1. Citation and commencement[^key-1e930199f621eef315c2db375a4b3aa3][^key-1e930199f621eef315c2db375a4b3aa3]
+
+These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 and shall come into operation for the purposes of—
+
+- (a) this regulation and regulation 6, on 9th April 2006;
+- (b) regulations 2(1) to (3) and (7) to (17), 3 to 5 and 7, on 10th April 2006; and
+- (c) regulation 2(4) to (6), on 24th July 2006.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-23cee029cc2d8d68535af858ba5b79a3][^key-514107ba421fd9ed1f91a6502e6a8198]
+
+(1)[^key-23cee029cc2d8d68535af858ba5b79a3] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004]shall be amended in accordance with paragraphs (2) to (17).
+
+(2)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 2(1) (interpretation) the definitions of “benefit orders”, “instrument for benefit payment”[^f00005] and “serial order” shall be omitted.
+
+(3)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 4(6A)[^f00006] (making a claim for benefit)—
+
+- (a) the word “or” after sub-paragraph (b) shall be omitted; and
+- (b) after sub-paragraph (c) there shall be added—
+
+  > or
+  >
+  > - (d) who has not attained the qualifying age and makes a claim for disability living allowance or carer’s allowance.
+
+  .
+
+(4)[^key-514107ba421fd9ed1f91a6502e6a8198] In regulation 4C[^f00007] (making a claim for state pension credit)—
+
+- (a) in paragraph (3) for “by telephone to, or in person at,” there shall be substituted “in person at”;
+- (b) in paragraph (6) the words “or by telephone” shall be omitted;
+- (c) after paragraph (6) there shall be inserted the following paragraphs—
+
+  > (6A) A claim for state pension credit may be made by telephone call to the telephone number specified by the Department.
+  >
+  > (6B) Where the Department, in any particular case, directs that the person making the claim approves a written statement of his circumstances, provided for the purpose by the Department, a claim made by telephone is not a valid claim unless the person complies with the direction.
+  >
+  > (6C) A claim made by telephone in accordance with paragraph (6A) is defective unless the Department is provided, during that telephone call, with all the information it requires to determine the claim.
+  >
+  > (6D) Where a claim made by telephone in accordance with paragraph (6A) is defective, the Department shall provide the person making it with an opportunity to correct the defect.
+  >
+  > (6E) If the person corrects the defect within one month, or such longer period as the Department considers reasonable, of the date it last drew attention to the defect, the Department shall treat the claim as if it had been duly made in the first instance.
+
+  ; and
+- (d) in paragraph (12) for “Paragraph (11) does” there shall be substituted “Paragraphs (6E) and (11) do”.
+
+(5)[^key-514107ba421fd9ed1f91a6502e6a8198] In regulation 4E(2)[^f00008] (making a claim after attaining the qualifying age: date of claim)—
+
+- (a) in sub-paragraph (b) after “4C(3)” there shall be inserted “or (6A)”; and
+- (b) in sub-paragraph (c) for “4C(11)” there shall be substituted “4C(6E) or (11)”.
+
+(6)[^key-ad4f7fe396ccfaa2ecd6a75a9c4b4358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 6 (date of claim)—
+
+- (a) after paragraph (1A)[^f00010] there shall be inserted the following paragraphs—
+
+  > (1B) Subject to paragraph (1C) and without prejudice to the generality of paragraph (1), where a properly completed claim for incapacity benefit is received in an appropriate office within one month of the claimant first notifying such an office, by whatever means, of his intention to make that claim, the date of claim shall be the date on which that notification is made or the first day in respect of which the claim is made if later.
+  >
+  > (1C) For the purposes of paragraph (1B), a person who has attained the qualifying age may notify his intention and may send or deliver his claim to an office specified in regulation 4(6B).
+
+  ;
+- (b) in paragraph (17)[^f00011] sub-paragraph (b)[^f00012] shall be omitted;
+- (c) in paragraph (22)[^f00013] for “and (30)” there shall be substituted “, (30) and (33)”;
+- (d) in paragraph (26) for “and (24)(b) to (d)” there shall be substituted “, (24)(b) to (d) and (30)(c)”;
+- (e) in paragraph (31)[^f00014] for sub-paragraph (c) there shall be substituted the following sub-paragraph—
+
+  > - (c) in accordance with regulation 6A of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00015] the contributions are treated as paid on a date earlier than the date on which they were paid; and
+
+  ; and
+- (f) after paragraph (32) there shall be added the following paragraph—
+
+  > (33) Where a person makes a claim for a carer’s allowance within 3 months of a decision made—
+  >
+  > - (a) on a claim;
+  > - (b) on a revision or supersession; or
+  > - (c) on appeal whether by an appeal tribunal, a Commissioner or the court,
+  >
+  > awarding a qualifying benefit to the disabled person the date of claim is the first day in respect of which that qualifying benefit is payable.
+
+  .
+
+(8)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 6A[^f00016] (claims by persons subject to work-focused interviews)—
+
+- (a) in paragraph (2) after sub-paragraph (c) there shall be added the following sub-paragraph—
+
+  > - (d) without prejudice to sub-paragraphs (a) and (b), where a properly completed claim for incapacity benefit is received in an appropriate office within one month of the claimant first notifying such an office, by whatever means, of his intention to make that claim, the date of claim shall be the date on which that notification is made or the first day in respect of which the claim is made if later.
+
+  ; and
+- (b) in paragraph (5) for “a person is required to take part in under the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003” there shall be substituted “is conducted for such purposes connected with employment or training as are specified in regulations made under section 2A of the Administration Act”.
+
+(9)[^key-23cee029cc2d8d68535af858ba5b79a3] For regulation 20[^f00017] (time and manner of payment: general provision) there shall be substituted the following regulation—
+
+> **20. Time of payment: general provision**
+>
+> Subject to regulations 21 to 26B, benefit shall be paid in accordance with an award as soon as is reasonably practicable after the award has been made.
+
+.
+
+(10)[^key-23cee029cc2d8d68535af858ba5b79a3] Regulation 20A[^f00018] (payment on presentation of an instrument for benefit payment) shall be omitted.
+
+(11)[^key-902973f324f7cf7c8cd82869ae1ae4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 26 (income support)—
+
+- (a) in paragraph (1)[^f00020] the words “manner in and”; and
+- (b) paragraphs (2) and (3)[^f00021],
+
+shall be omitted.
+
+(13)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 26B[^f00022] (state pension credit)—
+
+- (a) in paragraph (1) for “, where state pension credit is payable in accordance with paragraph (3)(a), to the provisions of regulation 21 (direct credit transfer)” there shall be substituted “to regulation 21 where payment is by direct credit transfer”;
+- (b) paragraphs (3), (6) and (7) shall be omitted; and
+- (c) in paragraph (4) for “in accordance with paragraph (3)(b)” there shall substituted “otherwise than in accordance with regulation 21”.
+
+(14)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 37(1)[^f00023] (extinguishment of right to payment of sums by way of benefit where payment is not obtained within the prescribed period)—
+
+- (a) sub-paragraph (aa) shall be omitted; and
+- (b) in sub-paragraph (c) for “none of sub-paragraphs (a), (aa), (b) or (bb) apply” there shall be substituted “none of sub-paragraphs (a), (b) or (bb) applies”.
+
+(15)[^key-23cee029cc2d8d68535af858ba5b79a3] For regulation 46[^f00024] (instruments of payment, etc.) there shall be substituted the following regulation—
+
+> **46. Instruments of payment**
+>
+> (1) Instruments of payment issued by the Department shall remain its property.
+>
+> (2) Any person having an instrument of payment shall, on ceasing to be entitled to the benefit to which the instrument relates, or when so required by the Department, deliver it to the Department or such other person as it may direct.
+
+.
+
+(16)[^key-23cee029cc2d8d68535af858ba5b79a3] In Schedule 7[^f00025] (manner and time of payment and commencement of entitlement in income support cases) for the heading and paragraph 1 there shall be substituted—
+
+> Time of payment and commencement of entitlement in income support cases
+>
+> **1.** Except as otherwise provided in these Regulations income support shall be paid in arrears in accordance with the award.
+
+.
+
+(17)[^key-bfb62867f8fd6b1bb09fb8ba79c44a85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-6b30f905fa144cab5c2bce8b4e8b01b5]
+
+In regulation 24(7) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00027] (provision of information and evidence) for “in writing (unless the Department determines in any particular case to accept notice given otherwise than in writing) to the appropriate office” there shall be substituted “of the change—
+
+- (i) in writing or by telephone (unless the Department determines in any particular case that notice must be in writing or may be given otherwise than in writing or by telephone), or
+- (ii) in writing if in any class of case it requires written notice (unless it determines in any particular case to accept notice given otherwise than in writing),
+
+to an office of the Department specified by it“.
+
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-20f5657da37a90ed5cb94ef784bb0efe]
+
+(1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00028] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 3 (revision of decisions)—
+
+- (a) in paragraph (7B)[^f00029] at the end there shall be added “or lapses”;
+- (b) in paragraph (7C) for “he subsequently appeals the decision that” there shall be substituted “the decision which embodies that determination is revised or he subsequently appeals the decision which”; and
+- (c) after paragraph (7E)[^f00030] there shall be inserted the following paragraph—
+
+  > (7F) A decision under regulation 17(1)(d) of the Income Support Regulations that a person is no longer entitled to a disability premium because of a determination that he is not incapable of work may be revised where the decision which embodies that determination is revised or his appeal against the decision is successful.
+
+  .
+
+(3) In regulation 5(2)[^f00031] (date from which a decision revised under Article 10 takes effect) for sub-paragraph (c) there shall be substituted the following sub-paragraph—
+
+> - (c) in accordance with regulation 6A of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 the contributions are treated as paid on a date earlier than the date on which they were paid; and
+
+.
+
+(4) In regulation 7 (date from which a decision superseded under Article 11 takes effect)—
+
+- (a) in paragraph (2)(c)—
+  - (i) head (iii)[^f00032] shall be omitted, and
+  - (ii) after head (ii) there shall be added the following heads—
+
+    > - (iv) in the case of a disability benefit decision, where the change of circumstances is not in relation to the disability determination embodied in or necessary to the disability benefit decision, from the date of change; or
+    > - (v) in any other case, except in the case of a decision which supersedes a disability benefit decision, from the date of the change.
+
+    ; and
+- (b) for paragraph (7)[^f00033] there shall be substituted the following paragraph—
+
+  > (7) A decision which is superseded in accordance with regulation 6(2)(e) or (ee) shall be superseded—
+  >
+  > - (a) subject to sub-paragraph (b), from the date on which entitlement arises to the other relevant benefit referred to in regulation 6(2)(e)(ii) or (ee) or to an increase in the rate of that other relevant benefit; or
+  > - (b) where the claimant or his partner is not a severely disabled person for the purposes of section 131(5) of the Contributions and Benefits Act or section 2(7) of the State Pension Credit Act at the date the superseded decision would, but for this sub-paragraph, have had effect, by virtue of his having—
+  >   - (i) a non-dependant as defined by regulation 3 of the Income Support Regulations; or
+  >   - (ii) a person residing with him for the purposes of paragraph 1 of Schedule 1 to the State Pension Credit Regulations whose presence may not be ignored in accordance with paragraph 2 of that Schedule,
+  >
+  >   from the date on which the claimant or his partner ceased to have a non-dependant or person residing with him or from the date on which the presence of that person was first ignored.
+
+  .
+
+(5) In Schedule 2B[^f00034] (date on which change of circumstances takes effect where a claimant is entitled to state pension credit) after paragraph 6 there shall be added the following paragraphs—
+
+> **7.** Where an amount of state pension credit payable under an award is changed by a superseding decision specified in paragraph 8 the superseding decision shall take effect from the day specified in paragraph 1(b).
+>
+> **8.** The following are superseding decisions for the purposes of paragraph 7—
+>
+> - (a) a decision which supersedes a decision specified in regulation 6(2)(b) to (ee) and (l); and
+> - (b) a superseding decision which would, but for paragraphs 2 and 7, take effect from a date specified in regulation 7(5) to (7), (12) to (16) and (28C).
+
+.
+
+## 5. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^key-c70a97a49d8fb8728f9a4e5349026cce]
+
+In regulation 3(1) of the Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2001[^f00035] (changes affecting jobseeker’s allowance)—
+
+- (a) the words “or sent” and “in writing (except where it determines in any particular case that it will accept a notice other than in writing)” shall be omitted; and
+- (b) for “(attendance)” there shall be substituted—
+
+  > (attendance)—
+  >
+  > - (a) in writing or by telephone (unless the Department determines in any particular case that notice must be in writing or may be given otherwise than in writing or by telephone); or
+  > - (b) in writing if in any class of case it requires written notice (unless it determines in any particular case to accept notice given otherwise than in writing)
+
+  .
+
+## 6. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-642775f172504e6cf684f2a8ce523a32][^key-642775f172504e6cf684f2a8ce523a32]
+
+In regulation 1(1)(d) of the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005[^f00036] (citation, commencement and interpretation) for head (ii) there shall be substituted the following heads—
+
+> - (ii) in so far as it relates to a particular beneficiary, other than a beneficiary in receipt of incapacity benefit or severe disablement allowance, to whom the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 1975[^f00037] apply, on 10th April 2006 if it is his day for payment or, if not, on his day for payment next following 10th April 2006, and for the purposes of this sub-paragraph “day for payment” has the same meaning as in regulation 22(3) of, and Schedule 6 to, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00038], and
+> - (iii) otherwise, on 10th April 2006.
+
+.
+
+## 7. Revocations[^key-ced545a137995644e386daebafa4b997]
+
+The provisions specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
+
+Sealed with the Official Seal of the Department for Social Development on 31st March 2006.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — Revocations[^key-d9f892c20e28bde689ada997759ae4db]
+
+Regulation 7
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/40">S.R. 1989 No. 40</a></td><td>Regulation 4(a) and (b)</td></tr>
+<tr><td>The Social Security (Claims and Payments) (Amendment No. 4) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/484">S.R. 1994 No. 484</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Social Security (Claims and Payments Etc.) (Amendment) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/85">S.R. 1996 No. 85</a></td><td>Regulations 2(2), (5) and (6) and 4</td></tr>
+<tr><td>The Social Security (1998 Order) (Commencement No. 11 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/472">S.R. 1999 No. 472 (C. 36)</a></td><td>Article 9(7)</td></tr>
+<tr><td>The Social Security and Child Support (Decisions and Appeals) (Amendment No. 4) Regulations (Northern Ireland) 1999</td><td><a href="https://www.legislation.gov.uk/nisr/1999/473">S.R. 1999 No. 473</a></td><td>Regulation 2(2)</td></tr>
+<tr><td>The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000</td><td><a href="https://www.legislation.gov.uk/nisr/2000/215">S.R. 2000 No. 215</a></td><td>Regulation 3(5)(a)</td></tr>
+<tr><td>The Social Security (Claims and Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2002</td><td><a href="https://www.legislation.gov.uk/nisr/2002/67">S.R. 2002 No. 67</a></td><td>Regulations 2(2)(f)(i) and 3(4)</td></tr>
+<tr><td>The Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/46">S.R. 2005 No. 46</a></td><td>Regulations 5(8)(b) and 7(5)(c)</td></tr>
+<tr><td>The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2005</td><td><a href="https://www.legislation.gov.uk/nisr/2005/139">S.R. 2005 No. 139</a></td><td>Regulation 2(3)(b)</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (“the Claims and Payments Regulations”), the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”), the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (“the Decisions and Appeals Regulations”), the Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2001 (“the Change of Circumstances Regulations”) and the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (“the Hospital In-Patients Regulations”).
+
+Regulation 2 amends the Claims and Payments Regulations to—
+
+- omit provisions which provide for benefit to be paid by means of an instrument of payment or instrument for benefit payment and concerning books of serial orders (paragraphs (2), (9), (10) and (12) to (16));
+- provide for claims for disability living allowance and carer’s allowance to be made at offices other than offices of the Department for Social Development (“the Department”) which have been approved by the Department (paragraph (3));
+- enable a person to claim state pension credit by telephone, unless the Department directs that the claimant must approve a written statement of his circumstances provided for the purpose by the Department, and amend such a claim by telephone (paragraphs (4) to (6));
+- provide that where a person first notifies an appropriate office of the Department that he intends to claim incapacity benefit and a properly completed claim form is received in such an office within one month, the date of claim is the date of notification, and a person who has attained the qualifying age for state pension credit may notify his intention and may send or deliver his claim to an office approved by the Department (paragraph (7)(a));
+- allow a claim for carer’s allowance to be treated as made on the first day for which the qualifying benefit is payable, where the claim is made within three months of the date of the award of that qualifying benefit (paragraph (7)(b) to (d) and (f));
+- make technical amendments (paragraphs (7)(e) and (8)(b));
+- provide that where a person subject to work-focused interviews notifies an appropriate office of the Department of his intention of making a claim to incapacity benefit and a properly completed claim form is received within one month, the date of claim is the date of notification (paragraph (8)(a));
+- provide for an appointee, or other specified persons acting on behalf of a person claiming or entitled to benefit, to arrange for it to be paid by direct credit transfer (paragraph (11)); and
+- increase from £18·80 to £19·60 the amount allowed for personal expenses where a person is in accommodation for which part of his benefit is paid direct to the person to whom charges in respect of that accommodation are payable (paragraph (17)).
+
+Regulation 3 amends the Jobseeker’s Allowance Regulations to provide that a change of circumstances affecting the continuance of entitlement to, or the payment of, jobseeker’s allowance shall be notified to the Department in writing or by telephone (unless it requires the person to give written notice or accepts another means of notification) or, if it so requires in a class of case, the change shall be notified in writing unless it accepts another means of notification in any particular case.
+
+Regulation 4 amends the Decisions and Appeals Regulations to—
+
+- allow a decision to be revised where a determination necessary to it has been revised or overturned on appeal (paragraph (2));
+- make a technical amendment (paragraph (3));
+- remove the exception from the general rule for determining the effective date of a change of circumstances which is not advantageous and provide that where the claimant, who would otherwise be a severely disabled person, ceases to have a non-dependant, the effective date is the date the claimant ceased to have a non-dependant (paragraph (4)); and
+- provide that, subject to exceptions, a change of circumstances in state pension credit cases must take effect on the first day of the benefit week following the change (paragraph (5)).
+
+Regulation 5 amends the Change of Circumstances Regulations to make provision similar to the amendments made to the Jobseeker’s Allowance Regulations by regulation 3 for the purpose of offences relating to failure to notify changes of circumstances.
+
+Regulation 6 makes a technical amendment to the Hospital In-Patients Regulations.
+
+Regulation 7 makes consequential revocations.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 5A was inserted by Article 68 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)); section 71(1) was amended by paragraph 32(2) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)); section 105A was inserted by Article 12 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 ([S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)); subsections (1A) to (1G) of section 105A were inserted and section 106(1A) to (1D) was substituted by section 15 of the Social Security Fraud Act (Northern Ireland) [2001 (c. 17 (N.I.))](https://www.legislation.gov.uk/nia/2001/17) and section 165 (1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00002]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 74(1) was amended by paragraph 17(2) of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-1e930199f621eef315c2db375a4b3aa3]: Commencement: Reg. 1 in operation at 9.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/a)
+
+[^key-23cee029cc2d8d68535af858ba5b79a3]: Commencement: Reg. 2(1)-(3)(7)-(17) in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+
+[^key-514107ba421fd9ed1f91a6502e6a8198]: Commencement: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/4) in operation at 24.7.2006, see [reg. 1(c)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/c)
+
+[^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Rules are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1989 Nos. 40](https://www.legislation.gov.uk/nisr/1989/40) and [398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217), [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484), [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), [S.R. 2002 Nos. 67](https://www.legislation.gov.uk/nisr/2002/67), [297](https://www.legislation.gov.uk/nisr/2002/297) and [323](https://www.legislation.gov.uk/nisr/2002/323), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191), [317](https://www.legislation.gov.uk/nisr/2003/317) and [412](https://www.legislation.gov.uk/nisr/2003/412), [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378) and [S.R. 2005 Nos. 46](https://www.legislation.gov.uk/nisr/2005/46), [139](https://www.legislation.gov.uk/nisr/2005/139), [299](https://www.legislation.gov.uk/nisr/2005/299) and [536](https://www.legislation.gov.uk/nisr/2005/536)
+
+[^f00005]: Footnote: The definition of “instrument for benefit payment” was inserted by regulation 2(2) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
+
+[^f00006]: Footnote: Paragraph (6A) was inserted by regulation 2(2)(b) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317) and amended by regulation 2(4)(a) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
+
+[^f00007]: Footnote: Regulation 4C was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 2(4) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317), regulation 5(3) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46) and paragraph 15(4) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
+
+[^f00008]: Footnote: Regulation 4E was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 2(5) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317) and regulation 7 of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394)
+
+[^key-ad4f7fe396ccfaa2ecd6a75a9c4b4358]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/6) revoked (13.7.2009) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/240)](https://www.legislation.gov.uk/nisr/2009/240), [regs. 1](https://www.legislation.gov.uk/nisr/2009/240/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/240/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2009/240/schedule)
+
+[^f00010]: Footnote: Paragraph (1A) was inserted by regulation 3(4)(b) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
+
+[^f00011]: Footnote: Paragraphs (17), (22) and (26) were substituted by regulation 3(2)(a) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00012]: Footnote: Sub-paragraph (b) was amended by paragraph 2 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323)
+
+[^f00013]: Footnote: Paragraph (22) was amended by regulation 2(2)(f) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67) and paragraph 2 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323)
+
+[^f00014]: Footnote: Paragraphs (31) and (32) were added by regulation 2 of [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378) and paragraph (31) was amended by paragraph 15(5) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
+
+[^f00015]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102); regulation 6A was inserted by regulation 2(b) of [S.R. 2004 No. 223](https://www.legislation.gov.uk/nisr/2004/223)
+
+[^f00016]: Footnote: Regulation 6A was inserted by paragraph 4 of Schedule 3 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176) and amended by paragraph 1(2) of Schedule 2 to [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274)
+
+[^f00017]: Footnote: Regulation 20 was amended by regulation 2(3) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
+
+[^f00018]: Footnote: Regulation 20A was inserted by regulation 2(4) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484) and amended by regulation 2(2) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
+
+[^key-902973f324f7cf7c8cd82869ae1ae4d0]: Textual amendment: [Reg. 2(11)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/11) revoked (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2012/121/regulation/20), [Sch.](https://www.legislation.gov.uk/nisr/2012/121/schedule)
+
+[^f00020]: Footnote: Paragraph (1) was amended by regulation 2(3) of [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217) and regulation 3(3) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00021]: Footnote: Paragraphs (2) and (3) were amended by regulation 4(a) and (b) of [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40) and Article 9(7)(b) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
+
+[^f00022]: Footnote: Regulation 26B was inserted by regulation 9 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
+
+[^f00023]: Footnote: Regulation 37(1) was amended by regulation 6(2) of [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), regulation 2(5) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85) and regulation 5(8) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^f00024]: Footnote: Regulation 46 was substituted by regulation 2(8) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
+
+[^f00025]: Footnote: The heading to Schedule 7 was amended by regulation 3(5)(a) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and paragraph 1 was amended by regulation 2(6) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
+
+[^key-bfb62867f8fd6b1bb09fb8ba79c44a85]: Textual amendment: [Reg. 2(17)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/17) revoked (9.4.2007) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2007 (S.R. 2007/155)](https://www.legislation.gov.uk/nisr/2007/155), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/155/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2007/155/regulation/6)
+
+[^key-6b30f905fa144cab5c2bce8b4e8b01b5]: Commencement: Reg. 3 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+
+[^f00027]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 24(7) was amended by regulation 2(4)(b) of [S.R. 2000 No. 37](https://www.legislation.gov.uk/nisr/2000/37) and paragraph 3(e) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
+
+[^key-20f5657da37a90ed5cb94ef784bb0efe]: Commencement: Reg. 4 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+
+[^f00028]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 1999 No. 473](https://www.legislation.gov.uk/nisr/1999/473), [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [421](https://www.legislation.gov.uk/nisr/2003/421), [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378), [S.R. 2005 Nos. 46](https://www.legislation.gov.uk/nisr/2005/46) and [539](https://www.legislation.gov.uk/nisr/2005/539) and [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
+
+[^f00029]: Footnote: Paragraphs (7B) and (7C) were inserted by regulation 7(2)(b) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^f00030]: Footnote: Paragraph (7E) is inserted by regulation 9(3) of [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
+
+[^f00031]: Footnote: Regulation 5(2) was added by regulation 3 of [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378) and amended by regulation 7(3) of [S.R. 2005 No. 539](https://www.legislation.gov.uk/nisr/2005/539)
+
+[^f00032]: Footnote: Head (iii) was substituted by regulation 2(2) of [S.R. 1999 No. 473](https://www.legislation.gov.uk/nisr/1999/473)
+
+[^f00033]: Footnote: Paragraph (7) was substituted by regulation 3(4) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67) and amended by regulation 7(5)(c) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
+
+[^f00034]: Footnote: Schedule 2B was inserted by regulation 22 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 5(4) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
+
+[^key-c70a97a49d8fb8728f9a4e5349026cce]: Commencement: Reg. 5 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+
+[^f00035]: Footnote: [S.R. 2001 No. 420](https://www.legislation.gov.uk/nisr/2001/420), to which there are amendments not relevant to these Regulations
+
+[^key-642775f172504e6cf684f2a8ce523a32]: Commencement: Reg. 6 in operation at 9.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/a)
+
+[^f00036]: Footnote: [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
+
+[^f00037]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109); as amended by [S. R. 1977 Nos. 166](https://www.legislation.gov.uk/nisr/1977/166) and [316](https://www.legislation.gov.uk/nisr/1977/316), [S.R. 1979 No. 68](https://www.legislation.gov.uk/nisr/1979/68), [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36), [S.R. 1984 Nos. 317](https://www.legislation.gov.uk/nisr/1984/317) and [382](https://www.legislation.gov.uk/nisr/1984/382), [S.R. 1986 No. 157](https://www.legislation.gov.uk/nisr/1986/157), [S.R. 1987 Nos. 12](https://www.legislation.gov.uk/nisr/1987/12) and [391](https://www.legislation.gov.uk/nisr/1987/391), [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1999 No.221](https://www.legislation.gov.uk/nisr/1999/221), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261) and [S.R. 2004 No. 18](https://www.legislation.gov.uk/nisr/2004/18)
+
+[^f00038]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 Nos. 297](https://www.legislation.gov.uk/nisr/2002/297) and [323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
+
+[^key-ced545a137995644e386daebafa4b997]: Commencement: Reg. 7 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+
+[^key-d9f892c20e28bde689ada997759ae4db]: Commencement: Sch. in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)

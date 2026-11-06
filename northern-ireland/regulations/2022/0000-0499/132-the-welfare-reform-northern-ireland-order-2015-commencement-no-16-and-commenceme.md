@@ -1,0 +1,254 @@
+---
+title: The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022
+id: nisr/2022/132
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2022-03-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2022/132
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2022/132/pdfs/nisr_20220132_en.pdf
+- http://www.legislation.gov.uk/nisr/2022/132/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 132 (C. 14)
+
+Social Security
+
+The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022
+
+Made
+
+21st March 2022
+
+The Department for Communities[^f00001] makes the following Order in exercise of the powers conferred by Article 2(2), (3)(a) and (4) of the Welfare Reform (Northern Ireland) Order 2015[^f00002].
+
+The Powers are exercisable by the Department by virtue of Article 2 the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
+
+## 1. Citation
+
+This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the No.8 Order” means the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017;[^f00004]
+- “the No.14 Order” means the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019[^f00005].
+
+## 3. Full commencement of universal credit
+
+30th March 2022 (“**the appointed day**”) is the appointed day for the coming into operation of the provisions of the Welfare Reform (Northern Ireland) Order 2015 listed in Schedule 1 (universal credit provisions coming into operation in relation to certain claims and awards) to the No. 8 Order, in so far as they are not already in operation.
+
+## 4. Removal of restriction preventing frontier workers from claiming universal credit
+
+(1) The amendments of the No. 14 Order set out in paragraphs (3) and (4) have effect from the appointed day.
+
+(2) The No. 14 Order is amended as follows.
+
+(3) In Article 1 (citation and interpretation), omit paragraph (3).
+
+(4) In Article 2 (appointed day – coming into operation of universal credit provisions and abolition of income-related employment and support allowance and income-based jobseeker’s allowance), omit paragraph (11).
+
+## 5. Consequential Amendments
+
+The consequential amendments set out in the Schedule have effect from the appointed day.
+
+Sealed with the Official Seal of the Department for Communities on 21st March 2022.
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department
+
+## SCHEDULE — Consequential Amendments
+
+Article 5
+
+**1.** (1) The No. 8 Order is amended as follows.
+
+(2) In Article 8(1) (transitional provision where the Department determines that claims for universal credit may not be made: effect on claims for employment and support allowance and jobseeker’s allowance), omit “or article 2(11) of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (no claims for universal credit by frontier workers)”.
+
+(3) In Article 24(2) (transitional provision: claims for housing benefit, income support or a tax credit), omit “or by virtue of article 2 (11) of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (no claims for universal credit by frontier workers)”.
+
+**2.** (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions and Commencement No. 8 and Transitional and Transitory Provisions (Amendment) Order 2019[^f00006] is amended as follows.
+
+(2) In Article 8 (transitional provision: where restrictions on claims for universal credit are in place)—
+
+- (a) at the end of paragraph (1)(a) insert “or”; and
+- (b) omit subparagraph (1)(c) and the “or” preceding it.
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order is a further stage in the replacement of six existing benefits by universal credit.
+
+Article 3 brings into operation provisions of the Welfare Reform (Northern Ireland) Order 2015, as listed in Schedule 1 to the Welfare Reform (Northern Ireland) Order 2015 (Commencement No.8 and Transitional and Transitory Provisions) Order 2017, in so far as they are not already in operation. Existing awards of the benefits which universal credit replaces are not affected.
+
+Article 4 removes the restriction on universal credit claims by frontier workers (e.g. a person who does not reside in Great Britain or Northern Ireland but who works in Great Britain or Northern Ireland) and, accordingly, subject to any other exception that may apply, a person may not make a claim for a tax credit.
+
+Article 5 and the Schedule contain amendments consequential on article 4.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the Welfare Reform (Northern Ireland) Order 2015 (N.I. 1) were brought into operation by a Statutory Instrument or Statutory Rule which was made before this Order was made.
+
+| Provision | Date of Commencement | S.R. No. |
+| --- | --- | --- |
+| Article 6 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 6 (partially) | 15th November 2017 | [2017 No. 216](https://www.legislation.gov.uk/nisr/2017/216) |
+| Article 6 (partially) | 13th December 2017 | [2017 No. 216](https://www.legislation.gov.uk/nisr/2017/216) |
+| Article 6 (partially) | 17th January 2018 | [2018 No. 1](https://www.legislation.gov.uk/nisr/2018/1) |
+| Article 6 (partially) | 7th February 2018 | [2018 No. 1](https://www.legislation.gov.uk/nisr/2018/1) |
+| Article 6 (partially) | 21st February 2018 | [2018 No. 1](https://www.legislation.gov.uk/nisr/2018/1) |
+| Article 6 (partially) | 7<sup>th</sup> March 2018 | [2018 No. 1](https://www.legislation.gov.uk/nisr/2018/1) |
+| Article 6 (partially) | 16th May 2018 | [2018 No. 97](https://www.legislation.gov.uk/nisr/2018/97) |
+| Article 6 (partially) | 30th May 2018 | [2018 No. 97](https://www.legislation.gov.uk/nisr/2018/97) |
+| Article 6 (partially) | 13th June 2018 | [2018 No. 97](https://www.legislation.gov.uk/nisr/2018/97) |
+| Article 6 (partially) | 27th June 2018 | [2018 No. 197](https://www.legislation.gov.uk/nisr/2018/197) |
+| Article 6 (partially) | 5th September 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 19th September 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 3rd October 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 17th October 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 31st October 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 14th November 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 5th December 2018 | [2018 No. 138](https://www.legislation.gov.uk/nisr/2018/138) |
+| Article 6 (partially) | 1st February 2019 | [2019 No. 7](https://www.legislation.gov.uk/nisr/2019/7) |
+| Article 7 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 7 to 29 (partially) | As Article 6 | As Article 6 |
+| Articles 9 to 17 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 18 to 27 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 29 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 30 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 31 and 32 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 31 and 32 (partially) | As Article 6 | As Article 6 |
+| Article 33 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 34 and 35 | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Articles 36 to 38 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 37 | 15th May 2019 | [2019 No. 4](https://www.legislation.gov.uk/nisr/2019/4) |
+| Article 39 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 39 (partially) | As Article 6 | As Article 6 |
+| Articles 41 and 42 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 43 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 43 (remaining) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 44 | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Articles 45 to 47 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 45 and 46 (remaining) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Articles 48 and 49 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 50 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 50 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Articles 51 and 52 (partially) | 1st June 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Articles 51 and 52 (remaining) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 53 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 54 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 55 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 55 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 56 | 17th February 2017 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 57 (partially) | 17th March 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 57 (remaining) | 28th November 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 58 | 28th November 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 59 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 60 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 60 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 61 | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 62 | 1st June 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Article 63 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 63 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 64 | 16th January 2017 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 70 (partially) | 1st June 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Article 70 (remaining) | 31st October 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Article 71 | 31st October 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Article 72 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 72 (partially) | 1st June 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Articles 73 and 74 | 31st October 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Article 76 (partially) | 31st March 2017 | [2016 No. 411](https://www.legislation.gov.uk/nisr/2016/411) |
+| Article 76 (partially) | 28th November 2016 | [2016 No. 411](https://www.legislation.gov.uk/nisr/2016/411) |
+| Articles 77 to 79 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Articles 82 to 84 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 82 to 84 (remaining) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 85 and 86 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 87 | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 88 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 88 (remaining) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 88 to 91 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 92 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 92 (remaining) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 93 and 94 | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 96 to 99 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 100 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 100 (remaining) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 101 and 102 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Articles 103 to 106 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 107 (partially) | 17th March 2016 | [2016 No. 166](https://www.legislation.gov.uk/nisr/2016/166) |
+| Article 108 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 109 (partially) | 4th April 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 109 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 109 (partially) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 109 (remaining) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Article 110 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Article 110 (remaining) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 111 to 113 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Articles 115 and 116 | 4th April 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Articles 117 and 118 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Articles 120 to 125 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 127 (partially) | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Articles 129 to 133 | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Article 134 | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Articles 135 to 140 | 17th February 2016 | [2016 No. 146](https://www.legislation.gov.uk/nisr/2016/146) |
+| Schedule 1 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 2 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 2 (partially) | 10th July 2017 | [2017 No. 118](https://www.legislation.gov.uk/nisr/2017/118) |
+| Schedule 2 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Schedule 2 (partially) | 15th May 2019 | [2019 No. 4](https://www.legislation.gov.uk/nisr/2019/4) |
+| Schedule 2 (partially) | 18th August 2021 | [2021 No. 239](https://www.legislation.gov.uk/nisr/2021/239) |
+| Schedule 3 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 3 (partially) | As Article 6 | As Article 6 |
+| Schedule 5 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 6 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 7 (partially) | 2nd may 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 7 (partially) | 1st June 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Schedule 7 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Schedule 8 (partially) | 28th November 2016 | [2016 No. 411](https://www.legislation.gov.uk/nisr/2016/411) |
+| Schedule 8 (partially) | 31st March 2017 | [2016 No. 411](https://www.legislation.gov.uk/nisr/2016/411) |
+| Schedule 8 (remaining) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Schedule 9 (partially) | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 9 (partially) | 20th June 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 10 | 2nd May 2016 | [2016 No. 215](https://www.legislation.gov.uk/nisr/2016/215) |
+| Schedule 11 (partially) | 17th March 2016 | [2016 No. 166](https://www.legislation.gov.uk/nisr/2016/166) |
+| Schedule 12 (partially) | 28th November 2016 | [2016 No. 411](https://www.legislation.gov.uk/nisr/2016/411) |
+| Schedule 12 (partially) | 31st March 2017 | [2016 No. 411](https://www.legislation.gov.uk/nisr/2016/411) |
+| Schedule 12 (partially) | 17th February 2016 | [2016 No. 46](https://www.legislation.gov.uk/nisr/2016/46) |
+| Schedule 12 (partially) | 31st October 2016 | [2016 No. 234](https://www.legislation.gov.uk/nisr/2016/234) |
+| Schedule 12 (partially) | 27th September 2017 | [2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) |
+| Schedule 12 (partially) | As Article 6 | As Article 6 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## Annotations
+
+[^f00001]: Footnote: See section 1(7) of the Departments Act (Northern Ireland) [2016 (c.5 N.I.)](https://www.legislation.gov.uk/nia/2016/5))
+
+[^f00002]: Footnote: [S.I. 2015/2006 (N.I.1)](https://www.legislation.gov.uk/nisi/2015/2006)
+
+[^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
+
+[^f00004]: Footnote: [S.R. 2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) (c. 11)
+
+[^f00005]: Footnote: [S.R 2019 No. 7](https://www.legislation.gov.uk/nisr/2019/7) (c. 2)
+
+[^f00006]: Footnote: [S.R. 2019 No. 4](https://www.legislation.gov.uk/nisr/2019/4), as amended by [S.R 2019 No. 7](https://www.legislation.gov.uk/nisr/2019/7)

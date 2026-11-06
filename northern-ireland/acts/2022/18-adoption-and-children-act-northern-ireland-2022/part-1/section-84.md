@@ -1,0 +1,63 @@
+---
+title: Adoption and Children Act (Northern Ireland) 2022, section 84
+act: Adoption and Children Act (Northern Ireland) 2022
+section: '84'
+status: not-yet-in-force
+text_date: '2024-11-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2022/18/section/84
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adoption and Children Act (Northern Ireland) 2022, section 84
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 84. Restriction on taking children out[^key-667931a14b6332db4add838fe83b4f36]
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) A child who—
+
+- (a) is a Commonwealth citizen; or
+- (b) is habitually resident in the United Kingdom,
+
+must not be removed from the United Kingdom to a place outside the United Kingdom, the Channel Islands and the Isle of Man for the purpose of adoption unless the condition in subsection (2) is met.
+
+(2) The condition is that—
+
+- (a) the prospective adopters have parental responsibility for the child by virtue of an order under section 83; or
+- (b) the child is removed under the authority of an order under section 84 of the Adoption and Children Act 2002 or section 59 of the Adoption and Children (Scotland) Act 2007.
+
+(3) Removing a child from the United Kingdom includes arranging to do so; and the circumstances in which a person arranges to remove a child from the United Kingdom include those where the person—
+
+- (a) enters into an arrangement for the purpose of facilitating such a removal of the child;
+- (b) initiates or takes part in any negotiations of which the purpose is the conclusion of an arrangement within paragraph (a); or
+- (c) causes another person to take any step mentioned in paragraph (a) or (b).
+
+An arrangement includes an agreement (whether or not enforceable).
+
+(4) A person who removes a child from the United Kingdom in contravention of subsection (1) is guilty of an offence.
+
+(5) A person is not guilty of an offence under subsection (4) of causing a person to take any step mentioned in paragraph (a) or (b) of subsection (3) unless it is proved that the person knew or had reason to suspect that the step taken would contravene subsection (1).
+
+But this subsection only applies if sufficient evidence is adduced to raise an issue as to whether the person had the knowledge or reason mentioned.
+
+(6) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding the statutory maximum, or both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding twelve months, or a fine, or both.
+
+(7) In any proceedings under this section—
+
+- (a) a report by a British consular officer or a deposition made before a British consular officer and authenticated under the signature of that officer is admissible, upon proof that the officer or the deponent cannot be found in the United Kingdom, as evidence of the matters stated in it; and
+- (b) it is not necessary to prove the signature or official character of the person who appears to have signed any such report or deposition.
+
+## Annotations
+
+[^key-667931a14b6332db4add838fe83b4f36]: Commencement: S. 84 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

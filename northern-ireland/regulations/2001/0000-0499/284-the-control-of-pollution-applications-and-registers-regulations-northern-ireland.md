@@ -1,0 +1,252 @@
+---
+title: The Control of Pollution (Applications and Registers) Regulations (Northern Ireland) 2001
+id: nisr/2001/284
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-07-20'
+text_date: '2003-01-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/284
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/284/pdfs/nisr_20010284_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/284/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Pollution (Applications and Registers) Regulations (Northern Ireland) 2001
+
+> Text as at 2003-01-29.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 284
+
+WATER AND SEWERAGE
+
+The Control of Pollution (Applications and Registers) Regulations (Northern Ireland) 2001
+
+Made
+
+20th July 2001
+
+Coming into operation
+
+24th August 2001
+
+The Department of the Environment, in exercise of the powers conferred on it by Articles 30(l) and 61(2) of, and paragraphs l(1)(*b*) and (2), 2(5), 4(5) and (6) and 7(2) of Schedule 1 to the Water (Northern Ireland) Order 1999[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations—
+
+## 1. Citation and commencement[^key-c412e72fa6371b54340bd09c398dfc18]
+
+These Regulations may be cited as the Control of Pollution (Applications and Registers) Regulations (Northern Ireland) 2001 and shall come into operation on 24th August 2001.
+
+## 2. Interpretation[^key-c6178d98286d8a993444c535fc7e38a9]
+
+In these Regulations—
+
+- “the Department” means the Department of the Environment;
+- “discharge consent” has the same meaning as in Article 3(l) of the 1999 Order;
+- “the 1999 Order” means the Water (Northern Ireland) Order 1999; and
+- “register” means a register maintained by the Department under Article 30 of the 1999 Order (pollution control registers).
+
+## 3. Advertisements[^key-3f1dfabdaaede6a8ef8b4c0b8025a862]
+
+(1) Subject to regulation 5, an application for a discharge consent or the variation of a discharge consent shall be advertised in accordance with the following provisions of this regulation and regulation 4.
+
+(2) Notice of the application shall be published in one or more newspapers circulating in—
+
+- (a) the locality in which the activities which are the subject matter of the application are proposed to be carried on; and
+- (b) the locality in which the waterway or underground stratum which may be affected by the proposed activities are situated.
+
+(3) Subject to paragraph (4) the notice shall—
+
+- (a) state the name and address of the applicant;
+- (b) specify where the activities which are the subject matter of the application are proposed to be carried on;
+- (c) describe briefly the nature of the proposed activities;
+- (d) state where the register containing information about the application may be inspected, the times at which the register is open for inspection and that the register may be inspected free of charge; and
+- (e) explain that any person may make representations in writing to the Department within the period of 42 days beginning on the day that the notice is published and give the address of the Department to which representations are to be sent.
+
+(4) Nothing in paragraph (3) shall require the disclosure of any information, which is not to be included in a register by virtue of Articles 31 and 32 of the 1999 Order (exclusion from registers of information affecting national security and of certain confidential information).
+
+## 4. Timing of advertisements[^key-a0ce8c529542f43ae8ba5c021b4916c2]
+
+(1) An application to which regulation 3 applies shall be advertised in accordance with paragraph (2) of that regulation within the period of 28 days beginning 14 days after the relevant date.
+
+(2) Subject to paragraphs (3) to (5), the relevant date in relation to an application shall be the date on which the Department receives the application.
+
+(3) In a case where the Department has notified the applicant within 14 days of the receipt of the application that it refuses to proceed with the application until information required by paragraph 1(3) or (4) of Schedule 1 to the 1999 Order (duty to provide the Department with information) is provided, the relevant date shall be the date on which the Department is finally provided with the information required.
+
+(4) In a case where a matter falls to be determined under Article 31 of the 1999 Order (exclusion from registers of information affecting national security), the relevant date shall be the date on which the Secretary of State notifies the applicant of his determination.
+
+(5) In a case where a matter falls to be determined under Article 32 of the 1999 Order (exclusion from registers of certain confidential information), the relevant date shall be—
+
+- (a) if the Department is treated by virtue of Article 32(3) of that Order as having determined that the information in question is commercially confidential, the date on which the period of 14 days mentioned in Article 32(3) expires;
+- (b) if the Department determines under Article 32(2) or (4) of that Order that the information in question is commercially confidential, the date on which the Department notifies the applicant of its determination;
+- (c) if the Department determines under Article 32(2) or (4) of that Order that the information in question is not commercially confidential—
+  - (i) the date on which the period for appealing expires without an appeal having been made;
+  - (ii) the date on which the Water Appeals Commission notifies the Department and the applicant of its decision on the appeal; or
+  - (iii) the date on which the appeal is withdrawn.
+
+(6) Where the relevant date for the purposes of this regulation in relation to an application is later than the date on which the application is received, a period of 4 months beginning with the relevant date shall be substituted for the period of 4 months specified in paragraph 2(2) of Schedule 1 to the 1999 Order (failure to determine application within 4 months or longer period agreed with applicant).
+
+## 5. Exemption from advertising requirements[^key-de37df9e65693ea71dece0e34e683f62]
+
+(1) The Department may determine that an application is not required to be advertised if it appears to the Department that it is appropriate to dispense with advertising the application because—
+
+- (a) Article 31 of the Order (exclusion from registers of information affecting national security) applies; or
+- (b) the application is a consent, for a septic tank, attached to a single domestic dwelling and that tank—
+  - (i) only contains domestic sewage, and
+  - (ii) has a daily discharge of not more than 1 cubic metre.
+
+(2) In this regulation “domestic sewage” means—
+
+- (a) the content of lavatories; and
+- (b) water which has been used for cooking or washing, not being water used for the business of a laundry or for a business of preparing food or drink, necessary for human health or hygiene.
+
+## 6. Discharge consents without applications[^key-59a719724f69675e1a4b6cc27cb5d98d]
+
+The provisions of the Schedule shall apply where the Department gives a discharge consent under paragraph 4 of Schedule 1 to the 1999 Order (consents without applications).
+
+## 7. Pollution control registers[^key-320206b542dbc5f072e68209b14c9113]
+
+Subject to Articles 31 and 32 of the 1999 Order and regulations 8 and 9, registers maintained by the Department under Article 30 of the 1999 Order (pollution control registers) shall contain full particulars of—
+
+- (a) notices of water quality objectives and other notices served under Article 6 of the 1999 Order;
+- (b) notices served under Article 8 of the 1999 Order and any convictions for offences under that Article;
+- (c) applications made for consents, or for the variation of consents, under Article 9 of, and Schedule 1, to the 1999 Order, together with information provided in connection with such applications;
+- (d) consents given under Article 9 of, and Schedule 1, to the 1999 Order the conditions to which the consents are subject and any variation of the consents;
+- (e) the date and time of each sample of water or effluent taken by the Department for the purposes of the water pollution provisions of the 1999 Order (including details of the place where it was taken) and the result of the analysis of each sample and the steps, if any, taken in consequence by the Department;
+- (f) information corresponding to that mentioned in paragraph (*e*) with respect to samples of water or effluent taken by any other person, and the analysis of those samples, acquired by the Department from that person under arrangements made by the Department for the purposes of any of the water pollution provisions of the 1999 Order, including any steps taken by that person in consequence of the results of the analysis of any sample;
+- (g) enforcement notices served under Article 12 of the 1999 Order;
+- (h) revocations of discharge consents under paragraph 5 of Schedule 1 to the 1999 Order;
+- (i) any appeal under Article 13 of the 1999 Order, written notification of the decision reported to the Department by the Water Appeals Commission under Article 8(2) of the Water and Sewerage Services (Northern Ireland) Order 1973[^f00002] and in the circumstances set out in Article 8(4) thereof written notification of the Department’s intention and its reasons therefore under Article 8(5) of that Order;
+- (j) convictions, for offences under Article 9 of the 1999 Order, of persons who have the benefit of discharge consents, including the name of the offender, the date of conviction, the penalty imposed, the costs, if any, awarded against the offender and the name of the Court;
+- (k) returns and other information about the nature, origin, composition, temperature, volume and rate of discharges provided to the Department in pursuance of conditions of discharge consents;
+- (l) information contained in registers mentioned in regulation 21 of the Groundwater Regulations (Northern Ireland) 1998[^f00003]; and
+- (m) monitoring information received by the Department under regulation 11 of the Urban Waste Water Treatment Regulations (Northern Ireland) Regulations 1995[^f00004]; and[^key-84742c178bb43a0c8936255087114b33]
+- (n) works notices under Article 17 of the 1999 Order;
+- (o) appeals under Article 17(7) of the 1999 Order; and
+- (p) any conviction of any person for any offence under Article 19 of the 1999 Order, including the name of the offender, the date of conviction, the penalty imposed, the costs, if any, awarded against the offender and the name of the Court.
+
+## 8. Entry of particulars on register, removal of certain particulars and indexing of registers[^key-24aba65bbbcdf3563ca9df5da70bcc82]
+
+(1) Subject to Articles 31 and 32 of the 1999 Order and paragraph (2), where registers are by virtue of regulation 7 to contain any particulars, those particulars shall be entered on the registers—
+
+- (a) if they relate to an application or notice which is to be advertised under regulation 3(2) or paragraph 1(1) of the Schedule, before the beginning of the period of 28 days during which the application or notice is required to be advertised;
+- (b) if they relate to an enforcement notice served under Article 12 of the 1999 Order, not later than 7 days after it is served; and
+- (ba)[^key-216383747a005526814f99d77a03fa19] if they relate to a works notice under Article 17 of the 1999 Order, not later than 7 days after it is served;
+- (bb) if they relate to an appeal under Article 17(7) of the 1999 Order, not later than 14 days after those particulars become available to the Department;
+- (c) in all other cases, not later than 28 days after those particulars become available to the Department.
+
+(2) Where an application for a consent, or for the variation of a consent, is withdrawn at any time before it is determined—
+
+- (a) no further particulars relating to the application shall be entered on the registers after the application is withdrawn; and
+- (b) all particulars relating to the application shall be removed from the registers not less than 2 months, and not more than 3 months, after the application is withdrawn.
+
+(3) The Department shall keep records in each register showing the dates on which particulars are entered on that register.
+
+(4) Each register shall be indexed in a way which facilitates access to particulars entered on it.
+
+## 9. Period after which information may be removed from pollution control registers[^key-a60e7578dfd11ea1787753d3ee9423f6]
+
+(1) Nothing in regulation 7 shall require the Department to keep on a register—
+
+- (a) monitoring information more than 4 years after that information was entered on the register; or
+- (b) other information which has been superseded by later information more than 4 years after that later information was entered on the register.
+
+(2) In this regulation “monitoring information” means information entered on the register by virtue of regulation 7(*e*), (*f*), (*k*) or (*m*).
+
+Sealed with the Official Seal of the Department of the Environment on 20th July 2001.
+
+Sam Foster
+
+Minister of the Environment
+
+## SCHEDULE — Discharge Consents Without Applications
+
+Regulation 6
+
+### 1. Advertisements[^key-fc6ec4887a6f1dc7019689a01457242f]
+
+(1) Notice of any discharge consent given by the Department under paragraph 4 of Schedule 1 to the 1999 Order (discharge consents without applications) shall be published:
+
+- (a) in one or more newspapers circulating in—
+  - (i) the locality in which the discharges are made; and
+  - (ii) the locality in which the waterway or underground stratum which may be affected by the discharges is situated.
+
+(2) Subject to sub-paragraph (3), the notice shall—
+
+- (a) state the name of the person to whom the discharge consent was given;
+- (b) specify where the discharges are made;
+- (c) describe briefly the nature of the discharges;
+- (d) state where the register containing information about the discharges may be inspected, the times at which the register is open for inspection and that the register may be inspected free of charge;
+- (e) explain that any person may make representations in writing to the Department within the period of 42 days beginning on the day the notice is published and give the address to which representations are to be sent.
+
+(3) Nothing in sub-paragraphs (1) or (2) shall require the disclosure of any information which is not to be included in a register by virtue of Article 31 or 32 of the 1999 Order (exclusion from registers of information affecting national security and of certain confidential information).
+
+### 2. Timing of advertisements[^key-44630db86de34de5fbb623f0cec7ca71]
+
+(1) In the case of any discharge consent to which paragraph 1 applies, advertisements required by sub-paragraph (1) of that paragraph shall be published within the period of 28 days beginning with the relevant date.
+
+(2) Subject to sub-paragraphs (3) and (4), the relevant date in relation to any such discharge consent shall be the date on which it comes into force.
+
+(3) In a case where a matter falls to be determined under Article 31 of the 1999 Order (exclusion from registers of information affecting national security), the relevant date shall be the date on which the Secretary of State notifies the applicant of his determination.
+
+(4) In a case where a matter falls to be determined under Article 32 of the 1999 Order (exclusion from registers of certain confidential information), the relevant date shall be—
+
+- (a) if the Department determines under Article 32(4) of the 1999 Order that the information in question is commercially confidential, the date on which the Department notifies the applicant of its decision;
+- (b) if the Department determines under Article 32(4) of the 1999 Order that the information in question is not commercially confidential—
+  - (i) the date on which the period of appealing expires without an appeal having been made;
+  - (ii) the date on which the Water Appeals Commission notifies the applicant of its final determination of the appeal; or
+  - (iii) the date on which the appeal is withdrawn.
+
+(This note is not part of the Regulations.)
+
+These Regulations prescribe the procedure to be followed in relation to applications for, or the variation of, consents under Part II of the Water (Northern Ireland) Order 1999 (“the Water Order”).
+
+Regulation 3 provides for the advertising of applications for discharge consents, or the variation of a consent in one or more newspapers circulating in the locality in which the consent is issued and the content of such advertisement. Regulation 4 provides for the timing of the publication of such advertisements. Regulation 5 provides for exemptions from advertising. Regulation 6 and the Schedule to the Regulations prescribe the procedure to be followed when a discharge consent is granted, without an application, under paragraph 4 of Schedule 1 to the Water Order.
+
+The Regulations also prescribe the particulars which are to be entered in water pollution control registers which are maintained by the Department of the Environment under Article 30 of the Water Order.
+
+Regulation 7 sets out the particulars which are to be entered in the water pollution control registers. Regulation 8 prescribes when entries are to be made on, require or permit certain particulars to be removed from and deal with the indexing of, the registers. Regulation 9 deals with the period after which certain information may be removed from the registers.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662); *see* Article 2(2) for definition of “prescribed”
+
+[^key-c412e72fa6371b54340bd09c398dfc18]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-c6178d98286d8a993444c535fc7e38a9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/284/regulation/2) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-3f1dfabdaaede6a8ef8b4c0b8025a862]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/284/regulation/3) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-a0ce8c529542f43ae8ba5c021b4916c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/284/regulation/4) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-de37df9e65693ea71dece0e34e683f62]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/284/regulation/5) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-59a719724f69675e1a4b6cc27cb5d98d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/284/regulation/6) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-320206b542dbc5f072e68209b14c9113]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/284/regulation/7) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^f00002]: Footnote: [S.I. 1973/70 (N.I. 2)](https://www.legislation.gov.uk/nisi/1973/70) as amended by [S.I. 1993/3165 (N.I. 16)](https://www.legislation.gov.uk/nisi/1993/3165) Art. 6(1)(*b*)
+
+[^f00003]: Footnote: [S.R. 1998 No. 401](https://www.legislation.gov.uk/nisr/1998/401)
+
+[^f00004]: Footnote: [S.R. 1995 No. 12](https://www.legislation.gov.uk/nisr/1995/12)
+
+[^key-84742c178bb43a0c8936255087114b33]: Textual amendment: [Regs. 7(n)-(p)](https://www.legislation.gov.uk/nisr/2001/284/regulation/7/n) and word inserted (29.1.2003) by [The Anti-Pollution Works Regulations (Northern Ireland) 2003 (S.R. 2003/7)](https://www.legislation.gov.uk/nisr/2003/7), [regs. 1](https://www.legislation.gov.uk/nisr/2003/7/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2003/7/regulation/5/2)
+
+[^key-24aba65bbbcdf3563ca9df5da70bcc82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/284/regulation/8) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-216383747a005526814f99d77a03fa19]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/nisr/2001/284/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/nisr/2001/284/regulation/8/1/bb) inserted (29.1.2003) by [The Anti-Pollution Works Regulations (Northern Ireland) 2003 (S.R. 2003/7)](https://www.legislation.gov.uk/nisr/2003/7), [regs. 1](https://www.legislation.gov.uk/nisr/2003/7/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2003/7/regulation/5/3)
+
+[^key-a60e7578dfd11ea1787753d3ee9423f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/284/regulation/9) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-fc6ec4887a6f1dc7019689a01457242f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2001/284/schedule/paragraph/1) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)
+
+[^key-44630db86de34de5fbb623f0cec7ca71]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2001/284/schedule/paragraph/2) in operation at 24.8.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/284/regulation/1)

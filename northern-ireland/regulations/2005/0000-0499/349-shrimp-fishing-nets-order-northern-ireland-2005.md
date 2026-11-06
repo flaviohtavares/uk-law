@@ -1,0 +1,135 @@
+---
+title: Shrimp Fishing Nets Order (Northern Ireland) 2005
+id: nisr/2005/349
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-07-26'
+text_date: '2018-12-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/349
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/349/pdfs/nisr_20050349_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/349/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Shrimp Fishing Nets Order (Northern Ireland) 2005
+
+> Text as at 2018-12-24.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 349
+
+FISHERIES
+
+Shrimp Fishing Nets Order (Northern Ireland) 2005
+
+Made
+
+26th July 2005
+
+Coming into operation
+
+22nd August 2005
+
+The Department of Agriculture and Rural Development, in exercise of the powers conferred by sections 3(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby make the following Order:
+
+## 1. Citation, commencement and interpretation[^key-6e878fc11905bfdcc002abe452e8fbe7]
+
+(1) This Order may be cited as the Shrimp Fishing Nets Order (Northern Ireland) 2005 and shall come into operation on 22nd August 2005.
+
+(2) This Order shall apply to Northern Ireland fishing boats in the Northern Ireland zone and Northern Ireland fishing boats outside British fishery limits.
+
+## 2. Interpretation[^key-307ec1c9883bd910580771e7bb5e8358]
+
+(1) In this Order:
+
+- “codend” means the rearmost part of a net, being made up of one or more panels comprising pieces of netting of the same mesh size attached to one another along their sides in the long axis of the net by a lacing;
+- “Northern Ireland fishing boat” means a vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00003] and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging;
+- “Northern Ireland zone” means the sea within British fishery limits which is adjacent to Northern Ireland.
+
+(2) For the purposes of this Order, the mesh of a net or netting shall be measured in accordance with [Commission Regulation (EC) No. 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517)[^key-ed9398c16a2cd84029c930929f9230c8] laying down detailed rules for the implementation of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets;
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to this Order as it applies to an Act of the Northern Ireland Assembly.
+
+## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid[^key-13c857f6784f63d2c9cc735e49123bb3]
+
+A Northern Ireland fishing boat shall not carry or deploy a net, whose mesh measures between 16 and 31 millimetres unless –
+
+- (a) netting, the mesh of which measures at least twice that of the codend and no more than 70 millimetres, is fitted across the entire cross-section of the net in such a way that –
+  - (i) sea fish cannot reach the codend without first passing through the netting; and
+  - (ii) there is a hole in the net through which all sea fish that do not pass through the netting are able to escape;
+- (b) a rigid grid, the spacing between the bars of which is no more than 20 millimetres is fitted across the entire cross-section of the net in such a way that –
+  - (i) sea fish cannot reach the codend without first passing through the grid; and
+  - (ii) there is a hole in the net through which all sea fish that do not pass through the grid are able to escape;
+- (c) no sea fish have been **retained on board the boat**; or
+- (d)[^M_F_12c0ac05-9d12-406d-cea7-b53ed20dbb59] where sea fish have been caught, the total catch retained on board should comprise of no more than 5% of live weight of common shrimps (Crangon spp), Aesop shrimps (Pandalus montagui) or a combination of the two.
+
+## 4. Powers of British sea-fishery officers[^key-79e0ce1bba3c4ec920b1b8e86343d9ec]
+
+(1) For the purposes of enforcing this Order, a British sea-fishery officer may exercise the powers conferred by this Article in relation to a Northern Ireland fishing boat in the Northern Ireland zone and a Northern Ireland fishing boat outside British fishery limits.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose of enforcing this Order and, in particular –
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination; and
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 3(5) of the Sea Fish (Conservation) Act 1967 as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to him to be necessary for facilitating the search;
+- (d) where the boat is one in relation to which he has reason to suspect that such an offence has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (d) shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of any provision of this Order has at any time taken place, he may –
+
+- (a) require the master of the boat in relation to which the contravention took place to take, or may himself take, the boat and its crew to the port which appears to him to be nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 26th July 2005.
+
+Liam McKibben
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+(This note is not part of the Order)
+
+This Order regulates the carriage and use of any fishing nets with mesh size between 16 and 31 millimetres, measured in accordance with Commission Regulation [(EEC) No. 2108/1984](https://www.legislation.gov.uk/european/regulation/1984/2108) of 23rd July 1984. It sets out the national provisions called for by Article 25 of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) of 30th March 1998, by specifying veil nets and sorting grids as the types of device required to be used.
+
+The specified exceptions are where defined attachments are fitted to the net (Article 3(1)(a) and (b)), where no fish have been caught (Article 3(1)(c)) or where less than 60% by live weight of the total catch comprises common shrimps and/or Aesop shrimps and any sea fish retained on board are retained in accordance with Article 25 of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) (Article 3(1)(d)).
+
+If any boat breaches this prohibition, the master, owner and charterer is guilty of an offence and is liable to a fine not exceeding £5,000 on summary conviction and on conviction on indictment to a fine (sections 3(5) and 11(1)(b) of the Sea Conservation Act 1967). The court may also impose an additional fine not exceeding the value of the fish caught with the net or order the net’s forfeiture (section 11(2) and (3) of the 1967 Act).
+
+Additionally the Order confers powers of enforcement on British sea fisheries officers for the purposes of enforcing this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 3 was amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1) and Schedule 2, paragraph 16(1), the Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26) section 10(1) and Schedule 1 and the Scotland Act 1998 (Consequential Modifications (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820))), Article 4 and Schedule 2, paragraph 43(1), (2) and (4). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77) section 22(1) and Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1) and Schedule 2, paragraph 16(1) and S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 43(2)(b)
+
+[^f00002]: Footnote: By S.I. [2002/970](https://www.legislation.gov.uk/uksi/2002/970) Article 3(1) and Schedule 1, paragraph 3(1)(b) and (m) and (2)
+
+[^key-6e878fc11905bfdcc002abe452e8fbe7]: Commencement: Art. 1 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+
+[^key-307ec1c9883bd910580771e7bb5e8358]: Commencement: Art. 2 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+
+[^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
+
+[^key-ed9398c16a2cd84029c930929f9230c8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisr/2005/349/article/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/3)
+
+[^f00006]: Footnote: [1954. c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-13c857f6784f63d2c9cc735e49123bb3]: Commencement: Art. 3 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+
+[^M_F_12c0ac05-9d12-406d-cea7-b53ed20dbb59]: Textual amendment: Words in Art. 3 substituted 31.1.2008 by[Shrimp Fishing Nets (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/499)](https://www.legislation.gov.uk/nisr/2007/499/contents/made), [article. 1](https://www.legislation.gov.uk/nisr/2007/499/article/1/made), [2](https://www.legislation.gov.uk/nisr/2007/499/article/2/made)
+
+[^key-79e0ce1bba3c4ec920b1b8e86343d9ec]: Commencement: Art. 4 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)

@@ -1,0 +1,336 @@
+---
+title: The Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2019
+id: nisr/2019/181
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2019-09-11'
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2019/181
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2019/181/pdfs/nisrem_20190181_en.pdf
+- http://www.legislation.gov.uk/nisr/2019/181/pdfs/nisr_20190181_en.pdf
+- http://www.legislation.gov.uk/nisr/2019/181/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2019
+
+> Text as at 2026-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2019 No. 181
+
+Social Security
+
+The Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2019
+
+Made
+
+11th September 2019
+
+Coming into operation
+
+29th September 2019
+
+The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 29(1)(c), (2), (3), (4)(a) and (7), 31(1) and (3), and 51(6) of the Pensions Act (Northern Ireland) 2015 [^c23844521].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2019 and come into operation on the 29th September 2019.
+
+## 2. Period for which bereavement support payment is payable
+
+(1) The period for which bereavement support payment is payable is determined—[^M_F_40a641e4-f830-4645-d263-1562ec18a2cf]
+
+- (a) in the case mentioned in paragraph (4), in accordance with paragraphs (5) and (6);
+- (b) in the case mentioned in paragraph (7), in accordance with paragraphs (8) and (9); and
+- (c) in any other case, in accordance with paragraphs (2) and (3).
+
+(2) The period starts—
+
+- (a) on the date the person's spouse, civil partner or cohabiting partner[^M_F_c52a07f6-21f2-4e95-d23e-ffcbee91ebba] died, where the person claims the payment three months or less after that date; or
+- (b) at the beginning of the period of three months preceding the date the person claims the payment, where the person claims the payment—
+  - (i) more than three months after the date the person's spouse, civil partner or cohabiting partner died; and
+  - (ii) no more than three months after the date the period finishes under paragraph (3).
+
+(3) The period finishes at the end of the period of 18 months beginning with the day after the date the person's spouse, civil partner or cohabiting partner[^M_F_86a1cbbc-caa5-456f-e3d2-6496a2196212] died.
+
+(4)[^M_F_fca29b84-6cf8-479f-cf11-c6ef9dd9b3e7] Paragraphs (5) and (6) apply where the person is entitled to bereavement support payment—
+
+- (a) as a result of the amendments made by the 2023 Remedial Order, and
+- (b) as a result of the death of their cohabiting partner occurring on or after 30th August 2018 and before the RO commencement day.
+
+(5) The period starts—
+
+- (a) with the RO commencement day, where the person claims the payment 12 months or less after that date; or
+- (b) at the beginning of the period of three months preceding the date the person claims the payment, where the person claims the payment—
+  - (i) more than 12 months after the RO commencement day; and
+  - (ii) no more than three months after the date the period finishes under paragraph (6).
+
+(6) The period finishes at the end of the period of 18 months beginning with the RO commencement day.
+
+(7) Paragraphs (8) and (9) apply where the person is entitled to bereavement support payment—
+
+- (a) as a result of the amendments made by the 2023 Remedial Order, and
+- (b) as a result of the death of their cohabiting partner occurring on or after 6th April 2017 and before 30th August 2018.
+
+(8) The period starts with the RO commencement day.
+
+(9) The period finishes—
+
+- (a) at the end of the period of W months beginning with the RO commencement day, where the person claims the payment 12 months or less after the RO commencement day; and
+- (b) at the end of—
+  - (i) the period described in sub-paragraph (a); or
+  - (ii) if shorter, the period of X months beginning with the RO commencement day,
+
+  where the person claims the payment more than 12 months after but no more than 21 months after the RO commencement day.
+
+(10) For the purposes of paragraph (9)—
+
+- “**W months**” means the number of months which is 18 less Y;
+- “**X months**” means the number of months which is 21 less Z.
+
+(11) For the purposes of paragraph (10)—
+
+- “Y” is the number of monthly recurrences of the day of the month on which the person’s cohabiting partner died which occur during the period beginning with the day after the date of the cohabiting partner’s death and ending with 29th August 2018;
+- “Z” is the number of monthly recurrences of the day of the month on which the RO commencement day occurs during the period beginning with the day after the RO commencement day and ending with the date on which the person claims the payment.
+
+(12) In paragraph (11)—
+
+- (a) for the purposes of the definition of “Y”—
+  - (i) paragraph (7) of regulation 3 applies as if the words “for the purposes of paragraphs (1) and (4)” were omitted, and
+  - (ii) paragraph (8) of regulation 3 applies as if the words “for those purposes” were omitted;
+- (b) for the purposes of the definition of “Z”—
+  - (i) where the 2023 Remedial Order comes into force on the 31st day of a month, the monthly recurrence of the RO commencement day is to be treated as falling on the last day of the month;
+  - (ii) where the 2023 Remedial Order comes into force on the 29th or 30th day of a month, the monthly recurrence of the RO commencement day in February is to be treated as falling on the last day of February.
+
+(13) In paragraphs (4) to (12)—
+
+- “**the 2023 Remedial Order**” means the Bereavement Benefits (Remedial) Order 2023; and
+- “**the RO commencement day**” means the day on which the 2023 Remedial Order comes into force.
+
+## 3. Rate of bereavement support payment[^key-90c82f5c8c5e3562189dba06f774a489]
+
+(1)[^key-ee51c314c03890d3a9e815d948db011e][^key-c16456b8e55f0be409d0cbce0706d3e9][^key-23acaff5e48ac866b422d34c067053a5][^key-e3946b6d1f50f14fc62f90ebb092fd11][^key-17bafa57d99796d8780cec118321ff86][^key-9686f9646f8226865bba4c684860143e][^key-1b9d3a1191046a3bcaee1ab225d736c2][^key-0e993032a2e8915d5198057b3f9a3abb][^key-9db1c0497702252a8e7825712ca42df9][^key-7279a5a9fa6725cf6b397c9f97e87314] The higher rate of bereavement support payment is £350 for each monthly recurrence of the day of the month on which the person's spouse, civil partner or cohabiting partner[^M_F_59465d77-567e-4937-ddbf-4e40e5d87136] died during the period for which bereavement support payment is payable (see regulation 2).
+
+(2)[^key-b01b8c847c53e4968986f8c6f68bc750][^key-c56afea84614e48025bc6cf75fe07ac1][^key-2aa3c817459b42810539be8471db54af][^key-5d4b609e0ada11484d6c7672112a711e][^key-7a70a4798c45026fc4bad257c26c69f2][^key-043c186a17da6cb39c72b5951faa54a5][^key-1159f3683daf6f312309f77da9a4e156][^key-e748b82dd46c4f1477765b500d3dadd0][^key-c7d0c7ce706fe40572f710f9daa578ef][^key-23acaff5e48ac866b422d34c067053a5][^M_F_1158b825-649a-428f-e3e7-d21bde2fc6b5] Where the person claims bereavement support payment 12 months or less after—
+
+- (a) the date their spouse or civil partner died;
+- (b) in the case of a claim in respect of their cohabiting partner who died on or after 30th August 2018 and before the RO commencement day, the RO commencement day;
+- (c) in the case of a claim in respect of their cohabiting partner who died on or after the RO commencement day, the date their cohabiting partner died,
+
+the higher rate of bereavement support payment is £3,500 for the first month of the period for which bereavement support payment is payable.
+
+(3)[^key-23acaff5e48ac866b422d34c067053a5][^key-a89806262bec9661558d03e1e7350755][^key-649168c803f2543c023e85c665ffa1b1] Any higher rate mentioned in paragraph (2) is in addition to any higher rate mentioned in paragraph (1).
+
+(4)[^key-913cbd62fb29eaaf77c9a970ebe85e83][^key-ec2f7eeb71774c2769a2ade1a2cde27c][^key-23acaff5e48ac866b422d34c067053a5][^key-a8a1f59843d07735ab1a94b92515db7d][^key-333587b735a82914939c622fb11b798d][^key-d21275b58ad96ab88983dcb96b12db1a][^key-ee1da4c2e588d218c8330d7be648cee6][^key-eb47cc408c930eb8824200097e0590e7][^key-3ee0080458248c9d521b16651daaccac] The standard rate of bereavement support payment is £100 for each monthly recurrence of the day of the month on which the person's spouse or civil partner died during the period for which bereavement support payment is payable.
+
+(5)[^key-beece7712b2b9dc2ac78aa82cdd3835a][^key-e45cf39d1f13f5fdb47374050c53641c][^key-23acaff5e48ac866b422d34c067053a5][^key-7270cb6b55dc23faa423531a49d77f08][^key-9e63f1cc839166dd80d61c191aaf07db][^key-f87cdcc866d9f21badf4ed682f50994c][^key-90d8fff2f97a2bbdef2b56d10a6983ae][^key-533533558a1d1bd881548f099dac8084][^key-dcd7fdc4dfdf5404493f42d819712042] Where the person claims bereavement support payment 12 months or less after the date their spouse or civil partner died, the standard rate of bereavement support payment is £2,500 for the first month of the period for which bereavement support payment is payable.
+
+(6) Any standard rate mentioned in paragraph (5) is in addition to any standard rate mentioned in paragraph (4).
+
+(7) Where a person's spouse or civil partner died on the 31st day of a month, the monthly recurrence of the day of death is to be treated for the purposes of paragraphs (1) and (4) as falling on the last day of the month (the same applies where a cohabiting partner dies for the purposes of paragraph (1))[^M_F_7252c95d-778b-4b2c-fcd9-69bf32c8cc59].
+
+(8) Where a person's spouse, civil partner or cohabiting partner[^M_F_42250101-ead8-43ab-d21a-1576de62fb36] died on the 29th or 30th day of a month, the monthly recurrence of the day of death in February is to be treated for those purposes as falling on the last day of February.
+
+(9)[^M_F_3c722ea8-c39a-44a4-9c6f-7a4638a69070] In this regulation, “**the RO commencement day**” has the meaning given in regulation 2(13).
+
+## 4. Persons entitled to the higher rate of bereavement support payment
+
+(1) A person falling within any of paragraphs (2) to (4) is entitled to the higher rate of bereavement support payment under regulation 3(1) to (3).
+
+(2) A person who was pregnant when their spouse, civil partner or cohabiting partner[^M_F_b97ce64f-0c32-49b2-ae98-9762edcdbcc6] died.
+
+(3) A person who was entitled to child benefit under section 137 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (child benefit) [^c23844531] when their spouse, civil partner or cohabiting partner died.
+
+(4) A person who, after their spouse, civil partner or cohabiting partner died, becomes entitled to child benefit under section 137 of that Act for a child or qualifying young person who was residing with the person or their deceased spouse, civil partner or cohabiting partner immediately before the spouse, civil partner or cohabiting partner died.
+
+(5) Paragraph (4) applies to a person whether or not they later cease to be entitled to child benefit for that child or qualifying young person.
+
+(6) In this regulation, “**child**” and “**qualifying young person**” have the same meaning as in section 138 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23844541] (definitions of “child” and “qualifying young person”)
+
+## 5. Persons entitled to the standard rate of bereavement support payment
+
+A person is entitled to the standard rate of bereavement support payment under regulation 3(4) to (6) if they are not entitled to the higher rate of bereavement support payment.
+
+## 6. Prisoners who are not to be paid bereavement support payment
+
+(1) Subject to regulation 7, a person is not to be paid a bereavement support payment for any period during which the person is a prisoner [^c23844551].
+
+(2) Except where paragraph (3) applies, a person is a prisoner for the purposes of paragraph (1) where the person is—
+
+- (a) a prisoner in Northern Ireland or elsewhere who is imprisoned or detained in legal custody in connection with, or as a result of, criminal proceedings;
+- (b) a prisoner in Northern Ireland or elsewhere who is unlawfully at large;
+- (c) a prisoner in Northern Ireland who is being detained—
+  - (i) under Article 53 of the Mental Health (Northern Ireland) Order 1986 (removal to hospital of persons serving sentences of imprisonment, etc.) [^c23844561]; and
+  - (ii) on or before the day which the Minister of Justice certifies to be the person's release date (if any) within the meaning of Article 56(3) of that Order (further provisions as to prisoners under sentence).
+
+(3) Where a person outside Northern Ireland is a prisoner within paragraph (2)(a) or (b) and, in similar circumstances in Northern Ireland, the person would not have been a prisoner, the person is not a prisoner within paragraph (2)(a) or (b).
+
+## 7. Paying bereavement support payment to persons who are remanded in custody
+
+(1) Where a person is remanded in custody for an offence, regulation 6(1) does not apply unless a sentence described in paragraph (2) is later imposed on the person for the offence.
+
+(2) Subject to paragraph (3), the sentences described for the purposes of paragraph (1) are—
+
+- (a) a sentence of imprisonment or detention in legal custody as a result of criminal proceedings;
+- (b) a sentence of detention where the provision mentioned in regulation 6(2)(c)(i) applies;
+- (c) a suspended sentence within the meaning in section 18 of the Treatment of Offenders Act (Northern Ireland) 1968 [^c23844571](suspended sentences of imprisonment).
+
+(3) A sentence described in paragraph (2)(a) which is imposed outside Northern Ireland is not a sentence described for the purposes of paragraph (1) if, in similar circumstances in Northern Ireland, a sentence described in paragraph (2)(a) would not have been imposed.
+
+## 8. Territory in which a person may be entitled to bereavement support payment
+
+For the purposes section 29(1)(c) of the Pensions Act (Northern Ireland) 2015 (bereavement support payment), the territory specified is any part of the Channel Islands which is not subject to an Order made under section 155 of the Social Security Administration (Northern Ireland) Act 1992 (reciprocal agreement with countries outside the United Kingdom) [^c23844581].
+
+## 9. Revocation
+
+The Bereavement Support Payment Regulations (Northern Ireland) 2019 [^c23844591] are revoked.
+
+Sealed with the Official Seal of the Department for Communities on 11th September 2019
+
+Anne McCleary
+
+A senior officer of the
+
+Department for Communities
+
+*(This note is not part of the Regulations)*
+
+The Pensions Act (Northern Ireland) 2015 (c.5) creates a new bereavement support payment for people whose spouse or civil partner dies on or after the date these Regulations come into operation. It replaces the existing social security benefits for the bereaved (bereavement allowance, widow's pension, widowed mother's allowance, widowed parent's allowance and bereavement payment). These Regulations set out some of the detailed rules relating to the new bereavement support payment.
+
+Regulation 2 specifies the period for which bereavement support payment is payable. The period lasts a maximum of 18 months. If the person claims within three months of the death of their spouse or civil partner, the period starts on the date of death and lasts 18 months. If the person claims more than three months after the death, the period starts three months before the claim and ends 18 months after the date of death. Therefore, if the person claims 20 months after the date of death, the period only lasts for one month.
+
+Regulation 3 sets the rate of bereavement support payment. There are two rates, the standard rate and the higher rate. The standard rate is £100 per month and the higher rate is £350 per month. In addition, if the person has claimed 12 months or less after the date of the death of their spouse or civil partner, there is an extra £3,500 at the higher rate for the first month and an extra £2,500 at the standard rate for the first month.
+
+Regulation 4 lists the persons who are entitled to the higher rate. These are pregnant women and certain persons who are entitled to child benefit. It also includes persons who become entitled to child benefit after the date of death and later cease to be entitled to child benefit. A person who is not entitled to the higher rate is entitled to the standard rate (regulation 5).
+
+Regulations 6 and 7 contain provisions about prisoners. For these purposes, prisoners are people who are imprisoned, detained in legal custody or unlawfully at large. They can be a prisoner in Northern Ireland or abroad. These prisoners may not be entitled to be paid any bereavement support payment under the Pensions Act (Northern Ireland) 2015. Regulation 6 lists the prisoners who are not entitled to be paid bereavement support payment. It provides that some prisoners abroad can be paid if they would not have been imprisoned in Northern Ireland. Regulation 7 provides that prisoners on remand are not to be paid if they later receive certain types of sentence.
+
+Regulation 8 adds any part of the Channel Islands (currently Sark) which is not covered by an order under section 155 of the Social Security Administration (Northern Ireland) Act 1992 (c. 8) (which concerns social security reciprocal agreements) to the territories in which a person must be ordinarily resident in order to be entitled to bereavement support payment. Section 29(1)(c) provides the other territory is Northern Ireland.
+
+Regulation 9 revokes the Bereavement Support Payment Regulations (Northern Ireland) 2019 (S.R. 2019 No. 72).
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^c23844521]: Marginal citation: [2015 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5). See section 1(7) of the [Departments Act (Northern Ireland) 2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
+
+[^M_F_40a641e4-f830-4645-d263-1562ec18a2cf]: Textual amendment: Words in reg. 2(1) substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/9/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_c52a07f6-21f2-4e95-d23e-ffcbee91ebba]: Textual amendment: Words in reg. 2(2) substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/9/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_86a1cbbc-caa5-456f-e3d2-6496a2196212]: Textual amendment: Words in reg. 2(3) substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/9/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_fca29b84-6cf8-479f-cf11-c6ef9dd9b3e7]: Textual amendment: Reg. 2(4)-(13) inserted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(2)(c)](https://www.legislation.gov.uk/uksi/2023/134/article/9/2/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^key-90c82f5c8c5e3562189dba06f774a489]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2019/181/regulation/3) sums confirmed (6.4.2020) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2020 (S.R. 2020/40)](https://www.legislation.gov.uk/nisr/2020/40), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2020/40/article/1/1/c), [20](https://www.legislation.gov.uk/nisr/2020/40/article/20)
+
+[^key-ee51c314c03890d3a9e815d948db011e]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum comfirmed (12.4.2021) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2021 (S.R. 2021/82)](https://www.legislation.gov.uk/nisr/2021/82), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2021/82/article/1/1/c), [20(a)](https://www.legislation.gov.uk/nisr/2021/82/article/20/a)
+
+[^key-c16456b8e55f0be409d0cbce0706d3e9]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (11.4.2022) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (S.R. 2022/143)](https://www.legislation.gov.uk/nisr/2022/143), [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2022/143/article/1/1/c), [reg. 20(a)](https://www.legislation.gov.uk/nisr/2022/143/regulation/20/a)
+
+[^key-23acaff5e48ac866b422d34c067053a5]: Modification: [Reg. 3(1)-(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/231)](https://www.legislation.gov.uk/nisr/2022/231), [arts. 1](https://www.legislation.gov.uk/nisr/2022/231/article/1), [19(a)-(d)](https://www.legislation.gov.uk/nisr/2022/231/article/19/a)
+
+[^key-e3946b6d1f50f14fc62f90ebb092fd11]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Order (Northern Ireland) 2023 (S.R. 2023/27)](https://www.legislation.gov.uk/nisr/2023/27), [arts. 1](https://www.legislation.gov.uk/nisr/2023/27/article/1), [19(a)](https://www.legislation.gov.uk/nisr/2023/27/article/19/a)
+
+[^key-17bafa57d99796d8780cec118321ff86]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (10.4.2023) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2023 (S.R. 2023/43)](https://www.legislation.gov.uk/nisr/2023/43), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2023/43/article/1/1/c), [20(a)](https://www.legislation.gov.uk/nisr/2023/43/article/20/a)
+
+[^key-9686f9646f8226865bba4c684860143e]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [19(a)](https://www.legislation.gov.uk/nisr/2023/150/article/19/a)
+
+[^key-1b9d3a1191046a3bcaee1ab225d736c2]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Order (Northern Ireland) 2024 (S.R. 2024/69)](https://www.legislation.gov.uk/nisr/2024/69), [arts. 1](https://www.legislation.gov.uk/nisr/2024/69/article/1), [18(a)](https://www.legislation.gov.uk/nisr/2024/69/article/18/a)
+
+[^key-0e993032a2e8915d5198057b3f9a3abb]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (8.4.2024) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2024 (S.R. 2024/73)](https://www.legislation.gov.uk/nisr/2024/73), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2024/73/article/1/1/c), [19(a)](https://www.legislation.gov.uk/nisr/2024/73/article/19/a)
+
+[^key-9db1c0497702252a8e7825712ca42df9]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (7.4.2025) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [19(a)](https://www.legislation.gov.uk/nisr/2025/64/article/19/a)
+
+[^key-7279a5a9fa6725cf6b397c9f97e87314]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/1): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [19(a)](https://www.legislation.gov.uk/nisr/2026/59/article/19/a)
+
+[^M_F_59465d77-567e-4937-ddbf-4e40e5d87136]: Textual amendment: Words in reg. 3(1) substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(3)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/9/3/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^key-b01b8c847c53e4968986f8c6f68bc750]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Order (Northern Ireland) 2023 (S.R. 2023/27)](https://www.legislation.gov.uk/nisr/2023/27), [arts. 1](https://www.legislation.gov.uk/nisr/2023/27/article/1), [19(b)](https://www.legislation.gov.uk/nisr/2023/27/article/19/b)
+
+[^key-c56afea84614e48025bc6cf75fe07ac1]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (10.4.2023) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2023 (S.R. 2023/43)](https://www.legislation.gov.uk/nisr/2023/43), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2023/43/article/1/1/c), [20(b)](https://www.legislation.gov.uk/nisr/2023/43/article/20/b)
+
+[^key-2aa3c817459b42810539be8471db54af]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [19(b)](https://www.legislation.gov.uk/nisr/2023/150/article/19/b)
+
+[^key-5d4b609e0ada11484d6c7672112a711e]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Order (Northern Ireland) 2024 (S.R. 2024/69)](https://www.legislation.gov.uk/nisr/2024/69), [arts. 1](https://www.legislation.gov.uk/nisr/2024/69/article/1), [18(b)](https://www.legislation.gov.uk/nisr/2024/69/article/18/b)
+
+[^key-7a70a4798c45026fc4bad257c26c69f2]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (8.4.2024) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2024 (S.R. 2024/73)](https://www.legislation.gov.uk/nisr/2024/73), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2024/73/article/1/1/c), [19(b)](https://www.legislation.gov.uk/nisr/2024/73/article/19/b)
+
+[^key-043c186a17da6cb39c72b5951faa54a5]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (7.4.2025) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [19(b)](https://www.legislation.gov.uk/nisr/2025/64/article/19/b)
+
+[^key-1159f3683daf6f312309f77da9a4e156]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [19(b)](https://www.legislation.gov.uk/nisr/2026/59/article/19/b)
+
+[^key-e748b82dd46c4f1477765b500d3dadd0]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum comfirmed (12.4.2021) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2021 (S.R. 2021/82)](https://www.legislation.gov.uk/nisr/2021/82), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2021/82/article/1/1/c), [20(b)](https://www.legislation.gov.uk/nisr/2021/82/article/20/b)
+
+[^key-c7d0c7ce706fe40572f710f9daa578ef]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/2): sum confirmed (11.4.2022) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (S.R. 2022/143)](https://www.legislation.gov.uk/nisr/2022/143), [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2022/143/article/1/1/c), [reg. 20(b)](https://www.legislation.gov.uk/nisr/2022/143/regulation/20/b)
+
+[^M_F_1158b825-649a-428f-e3e7-d21bde2fc6b5]: Textual amendment: Reg. 3(2) substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/9/3/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^key-a89806262bec9661558d03e1e7350755]: Modification: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/3): sum confirmed (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [19(d)](https://www.legislation.gov.uk/nisr/2023/150/article/19/d)
+
+[^key-649168c803f2543c023e85c665ffa1b1]: Modification: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/3): sum confirmed (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [19(c)](https://www.legislation.gov.uk/nisr/2023/150/article/19/c)
+
+[^key-913cbd62fb29eaaf77c9a970ebe85e83]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum comfirmed (12.4.2021) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2021 (S.R. 2021/82)](https://www.legislation.gov.uk/nisr/2021/82), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2021/82/article/1/1/c), [20(c)](https://www.legislation.gov.uk/nisr/2021/82/article/20/c)
+
+[^key-ec2f7eeb71774c2769a2ade1a2cde27c]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (11.4.2022) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (S.R. 2022/143)](https://www.legislation.gov.uk/nisr/2022/143), [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2022/143/article/1/1/c), [reg. 20(c)](https://www.legislation.gov.uk/nisr/2022/143/regulation/20/c)
+
+[^key-a8a1f59843d07735ab1a94b92515db7d]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Order (Northern Ireland) 2023 (S.R. 2023/27)](https://www.legislation.gov.uk/nisr/2023/27), [arts. 1](https://www.legislation.gov.uk/nisr/2023/27/article/1), [19(c)](https://www.legislation.gov.uk/nisr/2023/27/article/19/c)
+
+[^key-333587b735a82914939c622fb11b798d]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (10.4.2023) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2023 (S.R. 2023/43)](https://www.legislation.gov.uk/nisr/2023/43), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2023/43/article/1/1/c), [20(c)](https://www.legislation.gov.uk/nisr/2023/43/article/20/c)
+
+[^key-d21275b58ad96ab88983dcb96b12db1a]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Order (Northern Ireland) 2024 (S.R. 2024/69)](https://www.legislation.gov.uk/nisr/2024/69), [arts. 1](https://www.legislation.gov.uk/nisr/2024/69/article/1), [18(c)](https://www.legislation.gov.uk/nisr/2024/69/article/18/c)
+
+[^key-ee1da4c2e588d218c8330d7be648cee6]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (8.4.2024) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2024 (S.R. 2024/73)](https://www.legislation.gov.uk/nisr/2024/73), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2024/73/article/1/1/c), [19(c)](https://www.legislation.gov.uk/nisr/2024/73/article/19/c)
+
+[^key-eb47cc408c930eb8824200097e0590e7]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (7.4.2025) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [19(c)](https://www.legislation.gov.uk/nisr/2025/64/article/19/c)
+
+[^key-3ee0080458248c9d521b16651daaccac]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/4): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [19(c)](https://www.legislation.gov.uk/nisr/2026/59/article/19/c)
+
+[^key-beece7712b2b9dc2ac78aa82cdd3835a]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum comfirmed (12.4.2021) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2021 (S.R. 2021/82)](https://www.legislation.gov.uk/nisr/2021/82), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2021/82/article/1/1/c), [20(d)](https://www.legislation.gov.uk/nisr/2021/82/article/20/d)
+
+[^key-e45cf39d1f13f5fdb47374050c53641c]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (11.4.2022) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (S.R. 2022/143)](https://www.legislation.gov.uk/nisr/2022/143), [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2022/143/article/1/1/c), [reg. 20(d)](https://www.legislation.gov.uk/nisr/2022/143/regulation/20/d)
+
+[^key-7270cb6b55dc23faa423531a49d77f08]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (27.3.2023) by [The Social Security (2022 Benefits Up-rating) Order (Northern Ireland) 2023 (S.R. 2023/27)](https://www.legislation.gov.uk/nisr/2023/27), [arts. 1](https://www.legislation.gov.uk/nisr/2023/27/article/1), [19(d)](https://www.legislation.gov.uk/nisr/2023/27/article/19/d)
+
+[^key-9e63f1cc839166dd80d61c191aaf07db]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (10.4.2023) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2023 (S.R. 2023/43)](https://www.legislation.gov.uk/nisr/2023/43), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2023/43/article/1/1/c), [20(d)](https://www.legislation.gov.uk/nisr/2023/43/article/20/d)
+
+[^key-f87cdcc866d9f21badf4ed682f50994c]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (22.3.2024) by [The Social Security (2023 Benefits Up-rating) Order (Northern Ireland) 2024 (S.R. 2024/69)](https://www.legislation.gov.uk/nisr/2024/69), [arts. 1](https://www.legislation.gov.uk/nisr/2024/69/article/1), [18(d)](https://www.legislation.gov.uk/nisr/2024/69/article/18/d)
+
+[^key-90d8fff2f97a2bbdef2b56d10a6983ae]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (8.4.2024) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2024 (S.R. 2024/73)](https://www.legislation.gov.uk/nisr/2024/73), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2024/73/article/1/1/c), [19(d)](https://www.legislation.gov.uk/nisr/2024/73/article/19/d)
+
+[^key-533533558a1d1bd881548f099dac8084]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (7.4.2025) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2025 (S.R. 2025/64)](https://www.legislation.gov.uk/nisr/2025/64), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2025/64/article/1/1/c), [19(d)](https://www.legislation.gov.uk/nisr/2025/64/article/19/d)
+
+[^key-dcd7fdc4dfdf5404493f42d819712042]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2019/181/regulation/3/5): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [19(d)](https://www.legislation.gov.uk/nisr/2026/59/article/19/d)
+
+[^M_F_7252c95d-778b-4b2c-fcd9-69bf32c8cc59]: Textual amendment: Words in reg. 3(7) inserted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(3)(c)](https://www.legislation.gov.uk/uksi/2023/134/article/9/3/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_42250101-ead8-43ab-d21a-1576de62fb36]: Textual amendment: Words in reg. 3(8) substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(3)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/9/3/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_3c722ea8-c39a-44a4-9c6f-7a4638a69070]: Textual amendment: Reg. 3(9) inserted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(3)(d)](https://www.legislation.gov.uk/uksi/2023/134/article/9/3/d) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_b97ce64f-0c32-49b2-ae98-9762edcdbcc6]: Textual amendment: Words in reg. 4 substituted (retrospective to 29.9.2019) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2023/134/article/9/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^c23844531]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [section 137](https://www.legislation.gov.uk/nisr/2019/181/section/137) was amended by section 2 of the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6)
+
+[^c23844541]: Marginal citation: [Section 138(2)](https://www.legislation.gov.uk/nisr/2019/181/section/138/2) was substituted by section 2(2) of the Child Benefit Act 2005
+
+[^c23844551]: Marginal citation: See section 31(2) of the Pensions Act (Northern Ireland) 2015
+
+[^c23844561]: Marginal citation: [S.I. 1986/595](https://www.legislation.gov.uk/uksi/1986/595) (NI 4)
+
+[^c23844571]: Marginal citation: [1968 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1968/29); [section 18](https://www.legislation.gov.uk/nisr/2019/181/section/18) was amended by Article 9(1) of the [Treatment of Offenders (Northern Ireland) Order 1989 (S.I. 1989/1344 (N.I. 15))](https://www.legislation.gov.uk/nisi/1989/1344)
+
+[^c23844581]: Marginal citation: [Section 155](https://www.legislation.gov.uk/nisr/2019/181/section/155) was amended by section 30 and paragraph 31 to Schedule 16 to the Pensions Act (Northern Ireland) 2015
+
+[^c23844591]: Marginal citation: S.R. [2019 No. 72](https://www.legislation.gov.uk/ukcm/2019/72)

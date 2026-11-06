@@ -1,0 +1,34 @@
+---
+title: Justice Act (Northern Ireland) 2015, section 16
+act: Justice Act (Northern Ireland) 2015
+section: '16'
+status: not-yet-in-force
+text_date: '2023-11-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/9/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Justice Act (Northern Ireland) 2015, section 16
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 16. Supplementary and consequential provisions
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Schedule 2 (which contains amendments consequential on the preceding provisions of this Chapter) has effect.
+
+(2) Subject to subsection (3), any statutory provision which applies to a person who has been committed for trial under the Magistrates' Courts (Northern Ireland) Order 1981 applies also to a person who has been committed for trial under this Chapter.
+
+(3) Subsection (2) does not apply—
+
+- (a) to a provision in the Magistrates' Courts (Northern Ireland) Order 1981 (except as provided by section 13(3));
+- (b) to a provision which is amended by Schedule 2 to make express provision for persons committed for trial under this Chapter.
+
+(4) In this Chapter, in relation to a person committed for trial, references to the specified place of trial are references to the place specified in the notice of committal under section 13(1) or such other place as is substituted for it by a direction under section 48(2) or (3) of the Judicature (Northern Ireland) Act 1978.

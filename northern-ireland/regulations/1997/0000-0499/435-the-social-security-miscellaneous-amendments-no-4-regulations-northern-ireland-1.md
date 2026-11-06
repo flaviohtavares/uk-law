@@ -1,0 +1,184 @@
+---
+title: The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 1997
+id: nisr/1997/435
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1997-09-26'
+text_date: '2016-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/435
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/435/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 1997
+
+> Text as at 2016-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 435
+
+SOCIAL SECURITY
+
+The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 1997
+
+Made
+
+26th September 1997
+
+Coming into operation
+
+22nd October 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*), 131(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(*j*), 59(1) and (2), 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6(5) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-fdcbb2c2c1696fe6817e2ab132df90c9]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 1997 and shall come into operation on 22nd October 1997.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-770156d0824c383960293cea0f03cf6c]
+
+(1) Schedule 3 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00005] (housing costs) shall be amended in accordance with paragraphs (2) to (6).
+
+(2) After paragraph 1 (housing costs) there shall be inserted the following paragraph—
+
+> **1A. Previous entitlement to income-based jobseeker’s allowance**
+>
+> (1) Where a claimant or his partner was in receipt of or was treated as being in receipt of income-based jobseeker’s allowance not more than 12 weeks before one of them becomes entitled to income support or, where the claimant or his partner is a person to whom paragraph 14(2) or (8) (linking rules) refers, not more than 26 weeks before becoming so entitled and—
+>
+> - (a) the applicable amount for that allowance included an amount in respect of housing costs under paragraph 14 or 15 of Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006] (loans on residential property and for repairs and improvements to the dwelling occupied as the home); and
+> - (b) the circumstances affecting the calculation of those housing costs remain unchanged since the last calculation of those costs,
+>
+> the applicable amount in respect of housing costs for income support shall be the applicable amount in respect of those costs current when entitlement to income-based jobseeker’s allowance was last determined.
+>
+> (2) Where, in the period since housing costs were last calculated for income-based jobseeker’s allowance, there has been a change of circumstances, other than a reduction in the amount of an outstanding loan, which increases or reduces those costs, the amount to be met under this Schedule shall, for the purposes of the claim for income support, be recalculated to as to take account of that change.
+
+.
+
+(3)[^key-879cbbf07804f098d509c67f51dd0aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-879cbbf07804f098d509c67f51dd0aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In paragraph 8(1A)[^f00009] (new housing costs) after “sub-paragraph (1)” there shall be inserted “and subject to sub-paragraph (1B)”.
+
+(6) After paragraph 8(1A) there shall be inserted the following sub-paragraph—
+
+> (1B) Where a claimant or his partner ceases to be in receipt of or treated as being in receipt of income-based jobseeker’s allowance and one of them becomes entitled to income support in a case to which paragraph 1A[^f00010] applies, the eligible capital for the time being owing shall be recalculated on each anniversary of the date on which the housing costs were first met for whichever of the benefits concerned the claimant or his partner was first entitled.
+
+.
+
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-27bda68a5385f0af149cbe021a34a1ec]
+
+In paragraph 9 of Schedule 8B to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c][^f00011] (deductions of mortgage interest from benefit and payment to qualifying lenders — provision of information)— *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c]
+
+- (a) at the beginning of both sub-paragraphs (2) and (3) there shall be inserted “Subject to sub-paragraph (4),”; *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c]
+- (b) after sub-paragraph (3) there shall be added the following sub-paragraph— *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c]
+
+  > (4) Where a claimant or his partner is a person to whom either paragraph 1A of Schedule 3 to the Income Support Regulations *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c][^f00012] (housing costs) or paragraph 1A of Schedule 2 to the Jobseeker’s Allowance Regulations *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c][^f00013] (housing costs) refers, the information to which sub-paragraphs (2) and (3)( *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c]*b*) refer shall be provided at the request of the Department on the anniversary of the date on which the housing costs in respect of mortgage interest were first brought into account in determining the applicable amount of the person concerned. *(affected by repeal, see note)*[^key-b48e059d88bffe1cfb8a792e918df53c]
+
+  .
+
+## 4. Amendment of the Social Security (Adjudication) Regulations[^key-2ef8bd1894d6b18632074dc68a7c6020]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-591026a881631ee89cde3a4183ad2b53]
+
+(1) Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00017] (housing costs) shall be amended in accordance with paragraphs (2) to (6).
+
+(2) After paragraph 1 (housing costs) there shall be inserted the following paragraph—
+
+> **1A. Previous entitlement to income support**
+>
+> (1) Where a claimant or his partner was in receipt of or was treated as being in receipt of income support not more than 12 weeks before one of them becomes entitled to income-based jobseeker’s allowance or, where the claimant or his partner is a person to whom paragraph 13(2) or (10) (linking rules) refers, not more than 26 weeks before becoming so entitled and—
+>
+> - (a) the applicable amount for income support included an amount in respect of housing costs under paragraph 15 or 16 of Schedule 3 to the Income Support Regulations (loans on residential property and for repairs and improvements to the dwelling occupied as the home), and
+> - (b) the circumstances affecting the calculation of those housing costs remain unchanged since the last calculation of those costs,
+>
+> the applicable amount in respect of housing costs for income-based jobseeker’s allowance shall be the applicable amount in respect of those costs current when entitlement to income support was last determined.
+>
+> (2) Where, in the period since housing costs were last calculated for income support, there has been a change of circumstances, other than a reduction in the amount of an outstanding loan, which increases or reduces those costs, the amount to be met under this Schedule shall, for the purposes of the claim for income-based jobseeker’s allowance, be recalculated so as to take account of that change.
+
+.
+
+(3)[^key-9df03a480cbf06cdf74070a8f7788b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-9df03a480cbf06cdf74070a8f7788b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In paragraph 7(2) (new housing costs) after “sub-paragraph (1)” there shall be inserted “and subject to sub-paragraph (2A)”.
+
+(6) After paragraph 7(2) there shall be inserted the following sub-paragraph—
+
+> (2A) Where a claimant or his partner ceases to be in receipt of or treated as being in receipt of income support and one of them becomes entitled to income-based jobseeker’s allowance in a case to which paragraph 1A[^f00019] applies, the eligible capital for the time being owing shall be recalculated on each anniversary of the date on which the housing costs were first met for whichever of the benefits concerned the claimant or his partner was first entitled.
+
+.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+26th September 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Income Support (General) Regulations (Northern Ireland) 1987, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987, the Social Security (Adjudication) Regulations (Northern Ireland) 1995 and the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
+
+These Regulations provide that in cases where an amount in respect of mortgage interest is included in a person’s or his partner’s applicable amount for income support or income-based jobseeker’s allowance, and the person concerned ceases to receive one of those benefits but becomes entitled to the other benefit within a period of 12 weeks or, in certain cases 26 weeks, or less, that amount shall form part of his applicable amount with respect to the other benefit and shall be recalculated on the anniversary of the date on which housing costs were first met as part of the benefit to which he was first entitled. Further provision is made with respect to the recalculation of mortgage interest upon other changes of circumstances.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
+
+[^f00003]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^key-fdcbb2c2c1696fe6817e2ab132df90c9]: Commencement: Reg. 1 in operation at 22.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/435/regulation/1/1)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-770156d0824c383960293cea0f03cf6c]: Commencement: Reg. 2 in operation at 22.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/435/regulation/1/1)
+
+[^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301); relevant amending Regulations are [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
+
+[^f00006]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^key-879cbbf07804f098d509c67f51dd0aa6]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1997/435/regulation/2/3)[(4)](https://www.legislation.gov.uk/nisr/1997/435/regulation/2/4) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
+
+[^f00009]: Footnote: Sub-paragraph (1A) was inserted by regulation 2(3)(*f*) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
+
+[^f00010]: Footnote: Paragraph 1A is inserted by regulation 2(2) of these Regulations
+
+[^key-27bda68a5385f0af149cbe021a34a1ec]: Commencement: Reg. 3 in operation at 22.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/435/regulation/1/1)
+
+[^key-b48e059d88bffe1cfb8a792e918df53c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/435/regulation/3) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00011]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); Schedule 8B was inserted by regulation 5 of, and the Schedule to, [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271) and paragraph (9) was amended by regulation 2 of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
+
+[^f00012]: Footnote: Paragraph 1A is inserted by regulation 2(2) of these Regulations
+
+[^f00013]: Footnote: Paragraph 1A is inserted by regulation 5(2) of these Regulations
+
+[^key-2ef8bd1894d6b18632074dc68a7c6020]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/435/regulation/4) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [reg. 59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
+
+[^key-591026a881631ee89cde3a4183ad2b53]: Commencement: Reg. 5 in operation at 22.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/435/regulation/1/1)
+
+[^f00017]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
+
+[^key-9df03a480cbf06cdf74070a8f7788b28]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/1997/435/regulation/5/3)[(4)](https://www.legislation.gov.uk/nisr/1997/435/regulation/5/4) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
+
+[^f00019]: Footnote: Paragraph 1A is inserted by regulation 5(2) of these Regulations

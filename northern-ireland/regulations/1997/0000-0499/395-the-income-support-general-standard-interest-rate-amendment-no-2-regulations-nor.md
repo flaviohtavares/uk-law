@@ -1,0 +1,107 @@
+---
+title: The Income Support (General) (Standard Interest Rate Amendment No. 2) Regulations (Northern Ireland) 1997
+id: nisr/1997/395
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-08-28'
+text_date: '1997-09-21'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/395
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/395/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (General) (Standard Interest Rate Amendment No. 2) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (1).** Text as at 1997-09-21. See https://www.legislation.gov.uk/changes/affected/nisr/1997/395
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 395
+
+SOCIAL SECURITY
+
+The Income Support (General) (Standard Interest Rate Amendment No. 2) Regulations (Northern Ireland) 1997
+
+Made
+
+28th August 1997
+
+Coming into operation
+
+21st September 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*), 131(1) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-93a3ae20ff8c783596a75c7ce9accbfe]
+
+(1) These Regulations may be cited as the Income Support (General) (Standard Interest Rate Amendment No. 2) Regulations (Northern Ireland) 1997 and shall come into operation on 21st September 1997.
+
+(2) These Regulations shall have effect in relation to any particular claimant—
+
+- (a) in a case where income support is paid to the claimant in arrears in accordance with paragraph 7(1)(*a*) of Schedule 7 to the Claims and Payments Regulations[^f00002] (date when change of circumstances is to take effect)—
+  - (i) from the first day of the benefit week which includes 28th September 1997, or
+  - (ii) if the claim for income support is for a period beginning after 28th September 1997, from the first day of the first benefit week commencing after 21st September 1997;
+- (b) in a case where income support is paid to the claimant in advance in accordance with paragraph 7(1)(*b*) of Schedule 7 to the Claims and Payments Regulations, from the first day of the first benefit week commencing after 28th September 1997,
+
+and for this purpose, the expressions “claimant” and “benefit week” have the same meanings as in regulation 2(1) of the Income Support Regulations[^f00003] (interpretation).
+
+(3) In these Regulations—
+
+- “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004];
+- “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00005].
+
+(4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
+
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^key-842003648be16d5d59a8ac3927696fe6]
+
+In Schedule 3 to the Income Support Regulations[^f00007] (housing costs), in paragraph 12(1)(*a*) (standard rate of interest on qualifying loans) for “7·20 per cent.” there shall be substituted “7·57 per cent.”.
+
+## 3. Revocation[^key-3891b88e454edf4f655bbc7f93619933]
+
+The Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1997[^f00008] are hereby revoked save that those Regulations shall continue to have effect until the day before the first day of the benefit week having effect in relation to any particular claimant for the purpose of regulation 1(2) of these Regulations.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+D. A. Baker
+
+Assistant Secretary
+
+28th August 1997.
+
+(This note is not part of the Regulations.)
+
+These Regulations amend Schedule 3 to the Income Support (General) Regulations (Northern Ireland) 1987 with respect to the standard rate of interest applicable to a loan which qualifies for income support. The rate is increased from 7·20 per cent. to 7·57 per cent. (regulation 2). The Regulations also revoke, with a saving provision, the Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1997 which made a previous amendment to the standard rate of interest (regulation 3).
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^key-93a3ae20ff8c783596a75c7ce9accbfe]: Commencement: Reg. 1 in operation at 21.9.1997 with effect in accordance with reg. 1(2)
+
+[^f00002]: Footnote: Paragraph 7 was substituted by regulation 7(9) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
+
+[^f00003]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
+
+[^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
+
+[^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and [S.R. 1997 No. 171](https://www.legislation.gov.uk/nisr/1997/171)
+
+[^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-842003648be16d5d59a8ac3927696fe6]: Commencement: Reg. 2 in operation at 21.9.1997 with effect in accordance with reg. 1(2)
+
+[^f00007]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301); paragraph 12 was amended by regulation 2 of [S.R. 1997 No. 171](https://www.legislation.gov.uk/nisr/1997/171)
+
+[^key-3891b88e454edf4f655bbc7f93619933]: Commencement: Reg. 3 in operation at 21.9.1997 with effect in accordance with reg. 1(2)
+
+[^f00008]: Footnote: [S.R. 1997 No. 171](https://www.legislation.gov.uk/nisr/1997/171)

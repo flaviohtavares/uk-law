@@ -1,0 +1,41 @@
+---
+title: The Trade Union and Labour Relations (Northern Ireland) Order 1995, section 30
+act: The Trade Union and Labour Relations (Northern Ireland) Order 1995
+section: '30'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisi/1995/1980/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade Union and Labour Relations (Northern Ireland) Order 1995, section 30
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/nisi/1995/1980
+>
+> Extent: Northern Ireland.
+
+## 30. Right not to be denied access to the courts
+
+*Extent: N.I.*
+
+(1) This Article applies where a matter is under the rules of a trade union required or allowed to be submitted for determination or conciliation in accordance with the rules of the union. but a provision of the rules purporting to provide for that to be a person's only remedy has no effect (or would have no effect if there were one).
+
+(2) Notwithstanding anything in the rules of the union or in the practice of any court, if a member or former member of the union begins proceedings in a court with respect to a matter to which this Article applies, then if—
+
+- (a) he has previously made a valid application to the union for the matter to be submitted for determination or conciliation in accordance with the union's rules, and
+- (b) the court proceedings are begun after the end of the period of six months beginning with the day on which the union received the application,
+
+the rules requiring or allowing the matter to be so submitted, and the fact that any relevant steps remain to be taken under the rules, shall be regarded for all purposes as irrelevant to any question whether the court proceedings should be dismissed, stayed or adjourned.
+
+(3) An application shall be deemed to be valid for the purposes of paragraph (2)(a) unless the union informed the applicant, before the end of the period of 28 days beginning with the date on which the union received the application, of the respects in which the application contravened the requirements of the rules.
+
+(4) If the court is satisfied that any delay in the taking of relevant steps under the rules is attributable to unreasonable conduct of the person who commenced the proceedings, it may treat the period specified in paragraph (2)(b) as extended by such further period as it considers appropriate.
+
+(5) In this Article—
+
+- (a) references to the rules of a trade union include any arbitration or other agreement entered into in pursuance of a requirement imposed by or under the rules; and
+- (b) references to the relevant steps under the rules, in relation to any matter, include any steps falling to be taken in accordance with the rules for the purposes of or in connection with the determination or conciliation of the matter, or any appeal, review or reconsideration of any determination or award.
+
+(6) This Article does not affect any statutory provision or rule of law by virtue of which a court would apart from this Article disregard any such rules of a trade union or any such fact as is mentioned in paragraph (2).

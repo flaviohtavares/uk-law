@@ -1,0 +1,38 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 188
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '188'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/188
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 188
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 188. Transfers between hospitals etc
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Where a person is liable to be detained under a public protection order without restrictions, the managing authority of the establishment in which the person is liable to be detained may arrange for the transfer of the person from that establishment to another suitable establishment.
+
+(2) Where a person is transferred under this section, section 171(1)(b) applies as if the establishment referred to there were the establishment to which the person has been transferred.
+
+(3) Before a managing authority arranges for the transfer of a person (“A”) under this section, it must if practicable inform—
+
+- (a) if A is 16 or over, any person who is A's nominated person;
+- (b) if A is under 16, a person with parental responsibility for A.
+
+(4) Where a person is transferred under this section, the managing authority which arranged the transfer must immediately notify RQIA of the transfer.
+
+(5) The power of a managing authority under this section to arrange for the transfer of a person from one establishment to another is subject to any prescribed conditions.
+
+(6) In this section “**suitable establishment**” means an appropriate establishment (as defined by section 167) in which appropriate care or treatment is available for the person.

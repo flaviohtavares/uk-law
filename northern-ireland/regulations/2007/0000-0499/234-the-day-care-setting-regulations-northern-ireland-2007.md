@@ -1,0 +1,1127 @@
+---
+title: The Day Care Setting Regulations (Northern Ireland) 2007
+id: nisr/2007/234
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-04-04'
+text_date: '2020-04-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/234
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/234/pdfs/nisr_20070234_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/234/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Day Care Setting Regulations (Northern Ireland) 2007
+
+> Text as at 2020-04-02.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 234
+
+HEALTH AND PERSONAL SOCIAL SERVICES
+
+The Day Care Setting Regulations (Northern Ireland) 2007
+
+Made
+
+4th April 2007
+
+Coming into operation
+
+30th April 2007
+
+The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 2(2), 23(1), (2)(a) to (d) and (f) to (j), (5)(a) and (b), (7)(a) to (h) and (j), 25(1), 30, 31(1), 32 and 48(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
+
+In accordance with Article 23(8) of that Order it has consulted with such persons as appropriate.
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-96ffd404b81e12dc0aa09c76678be716]
+
+These Regulations may be cited as the Day Care Setting Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
+
+### 2. Interpretation[^key-5c21fbac5133b5133fa16f9755a51832]
+
+(1) In these Regulations—
+
+- “the Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+- “[^key-6f2e0d5e91c5372e768d33a296ea498b]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-23d75b428fd3329296fa84e5fad6963d]
+- “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;
+- “general medical practitioner” means a medical practitioner providing primary medical services;
+- “health care professional” means a person who is registered as a member of any profession which is regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00002] or who is a clinical psychologist;
+- “inspection report” means a report prepared in relation to the day care setting under Article 42(7) of the Order;
+- “the Northern Ireland Social Care Council” means the body established under section 1 of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00003];
+- “Nursing and Midwifery Council” means the body established under Article 3 of the Nursing and Midwifery Order 2001;
+- “organisation” means a body corporate or any unincorporated association other than a partnership;
+- “personal care” has the same meaning as in Article 10(3) of the Order;
+- “[^key-b22c3d905f79ffd2e26215f8a9b9fd1d]**the register**” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;
+- “registered manager” in relation to a day care setting means a person who is registered under Part III of the Order as the manager of the day care setting;
+- “registered person” in relation to a day care setting means any person who is the registered provider or registered manager in respect of the day care setting;
+- “registered provider” in relation to a day care setting means a person who is registered under Part III of the Order as a person carrying on the day care setting;
+- “relative” in relation to a service user, means—
+  - (a) the service user’s spouse or civil partner;
+  - (b) any parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece of the service user or his spouse or civil partner;
+  - (c) the spouse or civil partner of any relative within sub-paragraph (b) of this definition,
+
+  and for the purpose of determining any such relationship a service user’s step-child shall be treated as his child, and references to “spouse” include a former spouse and a person who is living with the service user as husband or wife and references to “civil partner” include a former civil partner and a person who is living with the service user as if they were civil partners;
+- “**the relevant part**” means that part of the register referred to in section 3(2) of the 2001 Act which is most relevant to that person, taking into account their current employment;
+- “representative” means in relation to a service user, a person other than the registered person or a person employed in the day care setting, who with the service user’s express or implied consent takes an interest in the service user’s care and welfare;
+- “responsible individual” shall be construed in accordance with regulation 8(2)(c)(i);
+- “service user” means a person for whom day care is provided in the day care setting;
+- “service user’s guide” means the guide produced in accordance with regulation 5(1);
+- “service user’s plan” means the written plan prepared in accordance with regulation 16(1);
+- “social care worker” has the same meaning as in section 2(2) of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00004];
+- “statement of purpose” means the written statement compiled in accordance with regulation 4(1).
+
+(2) In these Regulations, references to employing a person include employing a person whether or not for payment and whether under a contract of service or a contract for services and allowing a person to work as a volunteer.
+
+### 3. Prescribed Services[^key-55bc44a64696fc7804b7f646bdbf8d11]
+
+For the purposes of the definition of “day care setting” in Article 2(2) of the Order the prescribed services are the provision of personal care.
+
+### 4. Statement of purpose[^key-076a2161d1f48f212a2a8e10760b8ce4]
+
+(1) The registered person shall compile in relation to the day care setting a written statement which shall consist of—
+
+- (a) a statement of the aims and objectives of the day care setting;
+- (b) a statement as to the facilities and services which are to be provided by the registered person for service users; and
+- (c) a statement as to the matters listed in Schedule 1.
+
+(2) The registered person shall supply a copy of the statement of purpose to the RQIA[^key-3ba6571bd33a401a8fba3e316eede3b4] and shall make a copy of it available for inspection by every service user and any representative of a service user.
+
+(3) Nothing in regulation 18(1) or 26(1) shall require or authorise the registered person to contravene, or not to comply with—
+
+- (a) any other provision of these Regulations; or
+- (b) the conditions for the time being in force in relation to the registration of the registered person under Part III of the Order.
+
+### 5. Service user’s guide[^key-2aa1710a64426bffcaa77b2f0a5ac0f8]
+
+(1) The registered person shall produce a written guide to the day care setting which shall include—
+
+- (a) a summary of the statement of purpose;
+- (b) the terms and conditions in respect of the services in the day care setting to be provided for service users, including details of the amount and method of payment of fees if appropriate;
+- (c) a standard form of contract for the provision of care and facilities by the registered provider to service users;
+- (d) a summary of the complaints procedure established under regulation 24;
+- (e) the address and telephone number of the RQIA.
+
+(2) The registered person shall also provide, on request, access to a copy of the most recent inspection report and information on how to access earlier inspection reports.
+
+(3) The registered person shall supply a copy of the service user’s guide to the RQIA and each service user or his representative.
+
+(4) Where a HSS trust has made arrangements for the provision of day care to the service user in a day care setting, the registered person shall supply to the service user a copy of the agreement specifying the arrangements made.
+
+### 6. Information about fees[^key-af6223b6fc5602419f75b105acd6f356]
+
+(1) The registered person shall provide to each service user a statement specifying any fees or charges payable by or in respect of the service user and the method of payment of the fees and the person by whom the fees are payable.
+
+(2) The registered person shall notify the service user at least 28 days in advance of any increase or variation in the fees or matters referred to in paragraph (1) and payable by or in respect of the service user.
+
+### 7. Review of statement of purpose and service user’s guide[^key-f47f5ceff33061b7812cc382ae342433]
+
+The registered person shall—
+
+- (a) keep under review and, where appropriate, revise the statement of purpose and the service user’s guide; and
+- (b) notify the RQIA and service users or their representatives of any such revision within 28 days.
+
+## PART II — REGISTERED PERSONS
+
+### 8. Fitness of registered provider[^key-bb41ce815e3b039054140179adef440f]
+
+(1) A person shall not carry on a day care setting unless he is fit to do so.
+
+(2) A person is not fit to carry on a day care setting unless the person—
+
+- (a) is an individual who carries on the day care setting—
+  - (i) otherwise than in partnership with others, and satisfies the requirements set out in paragraph (3);
+  - (ii) in partnership with others, and he and each of his partners satisfies the requirements set out in paragraph (3);
+- (b) is a partnership and each of the partners satisfies the requirements set out in paragraph (3);
+- (c) is an organisation and—
+  - (i) the organisation has given notice to the RQIA of the name, address and position in the organisation of an individual who is a director, manager, secretary or other officer of the organisation and is responsible for supervising the management of the day care setting; and
+  - (ii) that individual satisfies the requirements set out in paragraph (3).
+
+(3) The requirements are that—
+
+- (a) he is of integrity and good character;
+- (b) he is physically and mentally fit to carry on the day care setting; and
+- (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
+
+(4) A person shall not carry on a day care setting if—
+
+- (a) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged and the bankruptcy order has not been annulled or rescinded; or
+- (ab)[^key-fb1cff170e5b52193804e5af9039a7a0] he is the subject of a bankruptcy restrictions order; or
+- (ac)[^key-9b6f008ee2d86235f57e5af8f2de8cb4] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
+- (b) he has made a composition or arrangement with his creditors and has not been discharged in respect of it.
+
+### 9. Appointment of manager[^key-c78cc71491e1e68f592b18e7a26b1689]
+
+(1) The registered provider shall appoint an individual to manage the day care setting where—
+
+- (a) there is no registered manager in respect of the day care setting; and
+- (b) the registered provider—
+  - (i) is an organisation or partnership;
+  - (ii) is not a fit person to manage a day care setting; or
+  - (iii) is not, or does not intend to be managing the day care setting himself.
+
+(2) Where the registered provider appoints a person to manage the day care setting he shall forthwith give notice to the RQIA of—
+
+- (a) the name of the person so appointed; and
+- (b) the date on which the appointment is to take effect.
+
+### 10. Fitness of registered manager[^key-22984057ff558ec72e025bce1cc3a1fe]
+
+(1) A person shall not manage a day care setting unless he is fit to do so.
+
+(2) A person is not fit to manage a day care setting unless—
+
+- (a) he is of integrity and good character;
+- (b) having regard to the size of the day care setting, the statement of purpose, and the number and needs of the service users—
+  - (i) he has the qualifications, skills and experience necessary for managing the day care setting; and
+  - (ii) he is physically and mentally fit to manage the day care setting; and
+  - (iii)[^key-afa20dfbb96f22b769da449b8bd9a171] subject to head (iv), he is registered in the relevant part of the register;
+  - (iv) head (iii) does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, other than this statutory provision to be registered with any person or body other than the Northern Ireland Social Care Council and is so registered; and
+- (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
+
+### 11. Registered person: general requirements[^key-f2d9417b6af57d2b937918c02dd6eb8a]
+
+(1) The registered provider and the registered manager shall, having regard to the size of the day care setting, the statement of purpose, and the number and needs of the service users, carry on or (as the case may be) manage the day care setting with sufficient care, competence and skill.
+
+(2) If the registered provider is—
+
+- (a) an individual, he shall undertake;
+- (b) an organisation, it shall ensure that the responsible individual undertakes;
+- (c) a partnership, it shall ensure that one of the partners undertakes;
+
+from time to time such training as is appropriate to ensure that he has the experience and skills necessary for carrying on the day care setting.
+
+(3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the experience and skills necessary for managing the day care setting.
+
+### 12. Notification of offences[^key-4d22932dd166835ba8e8f14a903556ab]
+
+Where the registered person or the responsible individual is convicted of any criminal offence, in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA of—
+
+- (a) the date and place of the conviction;
+- (b) the offence of which he was convicted; and
+- (c) the penalty imposed on him in respect of the offence.
+
+## PART III — CONDUCT OF THE DAY CARE SETTING
+
+### 13. Care and welfare of service users[^key-73c3a09e5b453e97d92746ea0fdf305e]
+
+(1) The registered person shall ensure that the day care setting is conducted so as—
+
+- (a) to promote and make proper provision for the care and welfare of service users;
+- (b) to make proper provision for the supervision of service users.
+
+(2) The registered person shall so far as practicable enable service users or their representatives to make decisions with respect to the care they are to receive.
+
+(3) The registered person shall, for the purpose of providing care to service users, so far as practicable, ascertain and take into account their wishes and feelings.
+
+(4) Subject to paragraph (5), the registered person shall make suitable arrangements where necessary for the handling, safe keeping, safe administration and disposal of medicines used in the day care setting to ensure that—
+
+- (a) any medicine which is kept in a day care setting is stored in a secure place;
+- (b) medicine which is prescribed is administered as prescribed to the service user for whom it is prescribed, and to no other service user; and
+- (c) a written record is kept of the administration of any medicine to a service user.
+
+(5) Paragraph (4) does not apply to medicine which—
+
+- (a) is stored by the individual for whom it is provided in such a way that others are prevented from using it; and
+- (b) may be safely self-administered by that individual.
+
+(6) In this regulation, “prescribed” means—
+
+- (a) ordered for a service user for provision to him under Part VI of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00005]; or
+- (b) prescribed for a service user under regulations 214 or 215 of the Human Medicines Regulations 2012[^key-8b4da22dcc814de21226b4edfacdb991] .
+
+(7) The registered person shall make suitable arrangements to minimise the risk of infection and toxic conditions and the spread of infection in the day care setting.
+
+(8) The registered person shall make suitable arrangements to ensure that the day care setting is conducted—
+
+- (a) in a manner which respects the privacy and dignity of service users;
+- (b) with due regard to the sex, religious persuasion, ethnic origin, and cultural and linguistic background and any disability of service users.
+
+(9) The registered provider and registered manager (if any) shall, in relation to the conduct of the day care setting—
+
+- (a) maintain good personal and professional relationships with each other and with service users and persons employed in the day care setting; and
+- (b) encourage and assist persons employed in the day care setting to maintain good personal and professional relationships with each other and with service users.
+
+### 14. Further requirements as to care and welfare[^key-e7e3d51484c7a8b13cb5c29d8f83129c]
+
+(1) The registered person shall ensure as far as reasonably practicable that—
+
+- (a) all parts of the day care setting to which service users have access are free from hazards to their safety;
+- (b) any activities in which service users participate are free from avoidable risks; and
+- (c) unnecessary risks to the health or safety of service users are identified and so far as possible eliminated; and
+- (d) suitable arrangements are in place for the training in first aid of appropriate persons employed in the day care setting.
+
+(2) The registered person shall make suitable arrangements to provide a safe system for moving and handling service users.
+
+(3) The registered person shall make arrangements, by training persons employed in the day care setting or by other measures, to prevent service users being harmed or suffering abuse or being placed at risk of harm or abuse.
+
+(4) The registered person shall ensure that no service user is subject to restraint unless restraint of the kind employed is the only practicable means of securing the welfare of that or any other service user and there are exceptional circumstances.
+
+(5) On any occasion on which a service user is subject to restraint, the registered person shall record the circumstances, including the nature of the restraint. These details should also be reported to the RQIA as soon as is practicable.
+
+### 15. Assessment of service users[^key-ed7fa1424554515e1bacbddb609b4331]
+
+The registered person shall not provide care or services to a service user in the day care setting unless he is satisfied that where appropriate—
+
+- (a) the needs of the service user have been assessed by a suitably qualified or suitably trained person;
+- (b) the registered person has obtained a copy of the assessment;
+- (c) there has been appropriate consultation regarding the assessment with the service user or a representative of the service user as appropriate;
+- (d) the registered person has confirmed in writing to the service user that having regard to the assessment the day care setting is suitable for the purpose of meeting the service user’s needs in respect of his day care; and
+- (e) the day care setting is appropriate to the service user’s needs.
+
+### 16. Service user’s plan[^key-896ee37f71950d6fc7a57a8a52c9a16e]
+
+(1) The registered person, where appropriate, shall ensure that a written care plan is prepared in consultation with the service user or the service user’s representative as to how the service user’s needs in respect of his day care are to be met.
+
+(2) The registered person shall ensure that—
+
+- (a) the service user’s plan is available to the service user;
+- (b) the service user’s plan is kept under review;
+- (c) after any appropriate consultation with the service user or his representative, the service user’s plan is revised; and
+- (d) the service user is notified of any revision.
+
+### 17. Review of quality of care[^key-986ab0b4c7ab21ef3bf6e898112f0b36]
+
+(1) The registered person shall establish and maintain a system for—
+
+- (a) monitoring the matters set out in Schedule 3 not less than annually; and
+- (b) improving the quality of care provided in the day care setting.
+
+(2) The registered person shall supply to the RQIA a report in respect of any review conducted by him for the purpose of paragraph (1) and make a copy of the report available to service users.
+
+(3) The system referred to in paragraph (1) shall provide for consultation with service users and their representatives.
+
+### 18. Facilities and services[^key-b5719c29f749dc123ad4245d9b755efb]
+
+(1) Subject to regulation 4(3), the registered person shall provide facilities and services to service users in accordance with the statement of purpose.
+
+(2) The registered person shall having regard to the size of the day care setting and the number and needs of service users—
+
+- (a) provide, so far as is necessary, appropriate telephone and other communication facilities;
+- (b) where necessary, provide for service users appropriate furniture, bedding and other furnishings and equipment suitable to the needs of service users;
+- (c) so far as it is reasonable and practicable to do so, provide sufficient and suitable kitchen equipment, crockery, cutlery and utensils, and adequate facilities for the preparation and storage of food;
+- (d) after consultation with the environmental health department of the district council for the district in which the day care setting is situated, make suitable arrangements for maintaining satisfactory standards of hygiene in the day care setting;
+- (e) keep the day care setting free from offensive odours;
+- (f) make suitable arrangements for the disposal of waste;
+- (g) provide, where necessary, a place where the money and valuables of service users may be deposited for safe keeping, and make arrangements for service users or their representative to acknowledge in writing the return to them of any money or valuables so deposited;
+- (h) where activities are provided by or on behalf of the day care setting, including training, occupation and recreation, there are arrangements to ensure that—
+  - (i) activities are planned and provided with regard to the needs of the service users; and
+  - (ii) service users or their representative are consulted about the planned programme of activities.
+
+### 19. Records[^key-ce4ee40f4d9914c96f6547ba5760651f]
+
+(1) The registered person shall—
+
+- (a) maintain in respect of each service user a record which includes the information, documents and other records specified in Schedule 4 relating to the service user;
+- (b) ensure that the record referred to in sub-paragraph (a) is kept securely in the day care setting.
+
+(2) The registered person shall maintain in the day care setting the records specified in Schedule 5.
+
+(3) The registered person shall ensure that the records referred to in paragraphs (1) and (2)—
+
+- (a) are kept up to date; and
+- (b) are at all times available for inspection in the day care setting by any person authorised by the RQIA to enter and inspect the day care setting.
+
+(4) The records referred to in paragraphs (1) and (2) shall be retained for not less than 8 years from the date of the last entry.
+
+(5) The registered person shall ensure that information about a service user’s care is handled confidentially and is only disclosed to those persons who need to be aware of that information in order to care for the service user effectively or minimise any risk of the service user harming himself or another person, or for the purpose of the proper administration of the day care setting.
+
+### 20. Persons employed[^key-1a5c4c79cf3193cd61d70381a13c88f3]
+
+(1) The registered person shall, having regard to the size of the day care setting, the statement of purpose and the number and needs of service users—
+
+- (a) ensure that at all times suitably qualified, competent and experienced persons are working in the day care setting in such numbers as are appropriate for the care of service users;
+- (b) ensure that the employment of any persons on a temporary basis in the day care setting will not prevent service users from receiving such continuity of care as is reasonable to meet their needs;
+- (c) ensure that the persons employed to work in the day care setting—
+  - (i) receive appraisal, mandatory training and other training appropriate to the work they are to perform;
+  - (ii) are supported as appropriate to maintain their registration with the appropriate regulatory or occupational body;
+  - (iii) are enabled from time to time to obtain training and/or further qualifications appropriate to the work they perform; and
+  - (iv) are provided with a job description outlining their responsibilities.
+
+(2) The registered person shall ensure that persons working in the day care setting are appropriately supervised.
+
+### 21. Fitness of workers[^key-40b38d248250566b215acb5c99f2b035]
+
+(1) The registered person shall not employ a person to work in the day care setting unless—
+
+- (a) the person is fit to work in the day care setting;
+- (b)[^key-d7956c6c4e8aee3440c6932d57ba9b45] subject to paragraph (3), he has obtained in respect of that person the information and documents specified in Schedule 2;
+- (c) he is satisfied on reasonable grounds as to the authenticity of the references referred to in paragraph 3 of Schedule 2 in respect of that person.
+
+  but this is subject to paragraphs (5) to (8).[^key-5dd317f5a3dc6d8ea0402866dd8fa5b7]
+
+(2) The registered person shall not allow a person who is employed by a person (“the employer”) other than the registered person to work in a position where he may have regular contact with service users in the day care setting, unless—
+
+- (a) he is fit to work in the day care setting;
+- (b) the employer has obtained in respect of that person the information and documents specified in Schedule 2; and has confirmed in writing to the registered person that he has done so; and
+- (c) the employer is satisfied on reasonable grounds as to the authenticity of the references referred to in paragraph 3 of Schedule 2 in respect of that person, and has confirmed in writing to the registered person that he is so satisfied;
+
+  but this is subject to paragraphs (5) to (8).[^key-5d4cece072921d4e8b1ce42509d81224]
+
+(3) For the purposes of paragraphs (1) and (2), a person is not fit to work at a day care setting unless—
+
+- (a) he is of integrity and good character;
+- (b) he has qualifications or training suitable to the work that he is to perform, and the skills and experience necessary for such work;
+- (c) he is physically and mentally fit for the purposes of the work he is to perform in the day care setting;
+- (d) [^key-5e78bd01ffa8f4620201a8acffbe7553]...[^key-443353fbeb1b26d9b62226a3c1f3d761] full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2;
+- (e)[^key-1274d6e53f6ac8a811de511ea6ce925f] subject to sub-paragraphs (f) and (g), he is registered in the relevant part of the register;
+- (f) sub-paragraph (e) does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, to be registered with any person or body other than the Northern Ireland Social Care Council and is so registered; and
+- (g) sub-paragraph (e) does not apply to persons allowed to work as volunteers.
+
+(4) The registered person shall ensure that all health care professionals working in the day care setting are covered by appropriate professional indemnity.
+
+(5)[^key-fd37721d5da6478b16dfbfa6c1dad0b0] Where the conditions set out in paragraph (6) are satisfied and the registered person complies with the requirement set out in paragraph (7), the registered person may—
+
+- (a) employ a person (“P”) to work in a day care setting, or
+- (b) allow a person (“P”), who is employed by a person, referred to in paragraph (2) as the employer, to work in a position where P may have regular contact with service users in the day-care setting,
+
+even though the information and documents mentioned in paragraphs 2 to 7 of Schedule 2 other than details of registration with an appropriate professional regulatory body are not available and have not been obtained.
+
+(6) The conditions are that the registered person, in a case to which paragraph (5)(a) applies, or the employer, in a case to which paragraph (5)(b) applies—
+
+- (a) has applied for whichever of the following certificates would be required to be obtained in respect of P under paragraph 2 of Schedule 2 in the absence of paragraph (5)—
+  - (i) a criminal record certificate pursuant to section 113A of the Police Act 1997, or
+  - (ii) an enhanced criminal record certificate pursuant to section 113B of that Act;
+- (b) has requested the information and documents mentioned in paragraphs 3 to 7 of Schedule 2; and
+- (c) where the work P is to perform is regulated activity relating to vulnerable adults, has obtained confirmation in writing from the Department of Justice that P is not included in the adults’ barred list maintained under Article 6(1)(b) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+(7) The requirements are that the registered person must—
+
+- (a) ensure that, so far as is reasonably practicable, an appropriately qualified and experienced member of staff supervises P when P is on duty until the information and documents mentioned in paragraphs 2 to 7 of Schedule 2 have been obtained; and
+- (b) ensure that P does not escort service users away from the day care setting unless accompanied by the supervisory staff member of another appropriately qualified and experienced member of staff.
+
+(8) In paragraph (6) the reference to regulated activity relating to vulnerable adults has the same meaning as in the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+### 22. Restrictions on acting for service users[^key-b1fc384cb319fc0fa6a6a333cfafa3aa]
+
+(1) Subject to paragraph (2), the registered person shall not pay money belonging to any service user into a bank account unless—
+
+- (a) the account is in the name of the service user to which the money belongs; and
+- (b) the account is not used by the registered person in connection with the carrying on or management of the day care setting.
+
+(2) Paragraph (1) does not apply to money which is paid to the registered person in respect of charges payable by a service user for services provided by the registered person in the day care setting.
+
+(3) The registered person shall ensure a record is kept of persons employed in the day care setting acting as the appointee or agent of a service user.
+
+### 23. Views of persons employed as to conduct of the day care setting[^key-7f4755bad209ee8f76b47bfec29ea831]
+
+(1) This regulation applies to any matter relating to the conduct of the day care setting so far as it may affect the care, safety or welfare of service users.
+
+(2) The registered person shall make arrangements to enable persons employed to inform the registered person, the RQIA and the HSS trust in the area of which the day care setting is situated, in confidence of their views about any matter to which this regulation applies.
+
+### 24. Complaints[^key-1a14d75f000665f216577b345ed7e377]
+
+(1) The registered person shall establish a procedure (“the complaints procedure”) for receiving, managing and responding to complaints made to the registered person by a service user or his representative.
+
+(2) The complaints procedure shall be appropriate to the needs of service users.
+
+(3) The registered person shall ensure that any complaint made under the complaints procedure is fully investigated.
+
+(4) The registered person shall, within 28 days after the date on which the complaint is made, or such shorter period as may be reasonable in the circumstances, inform the person who made the complaint of the investigative process, outcome and action (if any) that is to be taken.
+
+(5) The registered person shall supply a written copy of the complaints procedure to every service user and upon request to any representative of a service user.
+
+(6) Where a written copy of the complaints procedure is to be supplied in accordance with paragraph (5) to a person who is blind or whose vision is impaired, the registered person shall so far as it is practicable to do so supply, in addition to the written copy, a copy of the complaints procedure in a form which is suitable for that person.
+
+(7) The copy of the complaints procedure to be supplied in accordance with paragraph (5) shall include—
+
+- (a) the name, address and telephone number of the RQIA; and
+- (b) the procedure (if any) that has been notified by the RQIA to the registered person for the making of complaints to the RQIA relating to the day care setting.
+
+(8) The registered person shall supply to the RQIA at its request a statement containing a summary of the complaints made during the preceding twelve months and the action that was taken in response.
+
+### 25. Guidance for social care workers and health care professionals[^key-689007a15aff95e56405b9e370a38a68]
+
+The registered person shall ensure that, where a social care worker or health care professional is employed by the registered person—
+
+- (a) the Codes of Practice for Social Care Workers and Employers of Social Care Workers and any other code prepared by the Northern Ireland Social Care Council (NISCC), a Code of Professional Conduct, Standards for Performance, Conduct and Ethics, and any other code of ethics or professional practice prepared by the Nursing and Midwifery Council or other body which is responsible for regulation of members of a health care profession is made available, as appropriate, in the day care setting;
+- (b) he is supported to meet and maintain the standards and requirements of the relevant codes of practice; and
+- (c) appropriate action is taken when he does not meet the expected standards of conduct in line with the relevant codes of practice.
+
+## PART IV — PREMISES
+
+### 26. Fitness of premises[^key-94abcb8525ebdefeedb839839de0eb5b]
+
+(1) Subject to regulation 4(3), the registered person shall not use the premises for the purposes of a day care setting unless the premises are suitable for the purpose of achieving the aims and objectives set out in the statement of purpose.
+
+(2) The registered person shall, having regard to the number and needs of the service users, ensure that—
+
+- (a) the physical design and layout of the premises to be used as the day care setting meets the needs of the service users;
+- (b) the premises to be used as the day care setting are of sound construction and kept in a good state of repair externally and internally;
+- (c) equipment provided in the day care setting for use by service users or persons who work in the day care setting is in good working order, properly maintained in accordance with the manufacturer’s guidance, and suitable for the purpose for which it is to be used;
+- (d) all parts of the day care setting are kept clean and reasonably decorated;
+- (e) the size and layout of rooms used by service users are suitable for their needs;
+- (f) there is adequate seating, recreational and, where appropriate, dining space;
+- (g) there are provided at appropriate places in the premises sufficient numbers of lavatories and washing facilities fitted with a hot and cold water supply;
+- (h) any necessary sluicing facilities are provided;
+- (i) there is suitable storage provision for the purposes of the day care setting;
+- (j) suitable adaptations are made, and such support, equipment and facilities, including passenger lifts, as may reasonably be required are provided to meet the needs of service users;
+- (k) ventilation, heating, cooling and lighting suitable for service users is provided in all parts of the day care setting which are used by service users;
+- (l) the engineering services are maintained in good working order;
+- (m) any vehicle used by the day care setting for transporting service users is suitable for that purpose and maintained in good working order; and
+- (n) a risk assessment to manage health and safety is carried out and updated when necessary.
+
+(3) The registered person shall, having regard for the number of persons employed and the duties they undertake provide, where appropriate, suitable facilities for staff.
+
+(4) The registered person shall—
+
+- (a) have in place a current written risk assessment and fire management plan which is revised and actioned when necessary or whenever the fire risk has changed;
+- (b) take adequate precautions against the risk of fire, including the provision of suitable fire equipment;
+- (c) provide adequate means of escape;
+- (d) make adequate arrangements—
+  - (i) for detecting, containing and extinguishing fires;
+  - (ii) for giving warnings of fires;
+  - (iii) for the evacuation, in the event of fire, of all persons in the day care setting and safe placement of service users;
+  - (iv) for the maintenance of all fire equipment; and
+  - (v) for reviewing fire precautions, and testing fire equipment, at suitable intervals;
+- (e) make arrangements for persons employed in the day care setting to receive suitable training from a competent person in fire prevention; and
+- (f) ensure, by means of fire drills and practices at suitable intervals, that the persons employed in the day care setting and, so far as practicable, service users, are aware of the procedure to be followed in case of fire, including the procedure for saving life.
+
+## PART V — MANAGEMENT
+
+### 27. Financial position[^key-2c1f970e7cd3213d32befc51a9e0f286]
+
+(1) The registered provider shall carry on the day care setting in such a manner as is likely to ensure that the day care setting will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
+
+(2) The registered person shall, if the RQIA so requests, provide such information and documents to the RQIA as it may require for the purpose of considering the financial viability of the day care setting, including—
+
+- (a) the annual accounts of the day care setting certified by an accountant;
+- (b) a reference from a bank expressing an opinion as to the registered provider’s financial standing;
+- (c) information as to the financing and financial resources of the day care setting;
+- (d) where the registered provider is a company, information as to any of its associated companies;
+- (e) a certificate of insurance for the registered provider in respect of liability which may be incurred by him in relation to the day care setting in respect of death, injury, public liability, damage or other loss.
+
+(3) The registered person shall—
+
+- (a) ensure that adequate accounts are maintained in respect of the day care setting and kept up to date;
+- (b) ensure that the accounts give details of the running costs of the day care setting, including rent, payments under a mortgage and expenditure on food, heating and salaries and wages of staff; and
+- (c) supply a copy of the accounts to the RQIA at its request.
+
+(4) In this regulation a company is an associated company of another if one of them has control of the other or both are under the control of the same person.
+
+### 28. Visits by registered provider[^key-87d7a9ee548576ab0abad4b0b321eccb]
+
+(1) Where the registered provider is an individual who does not manage the day care setting himself, he shall visit the day care setting in accordance with this regulation.
+
+(2) Where the registered provider is an organisation or partnership, the day care setting shall be visited in accordance with this regulation by—
+
+- (a) the responsible individual or one of the partners, as the case may be;
+- (b) a director or other person responsible for the management of the organisation or partnership; or
+- (c) an employee of the organisation or the partnership who is not directly concerned with the conduct of the day care setting.
+
+(3) Visits under paragraph (1) or (2) shall take place at least once a month or as agreed with the RQIA and may be unannounced.
+
+(4) The person carrying out the visit shall—
+
+- (a) interview, with their consent and in private, such of the service users and their representatives and persons employed in the day care setting as appears necessary in order to form an opinion of the standard of care provided in the day care setting;
+- (b) inspect the premises of the day care setting, its record of events and records of any complaints; and
+- (c) prepare a written report on the conduct of the day care setting.
+
+(5) The registered provider shall maintain a copy of the report required to be made under paragraph (4)(c) in the day care setting and make it available on request to—
+
+- (a) the RQIA;
+- (b) the registered manager;
+- (c) a service user or his representative;
+- (d) an officer of the HSS trust in the area of which the day care setting is situated;
+- (e) in the case of a visit under paragraph (2)—
+  - (i) where the registered provider is an organisation, to each of the directors or other persons responsible for the management of the organisation; and
+  - (ii) where the registered provider is a partnership, to each of the partners.
+
+## PART VI — MISCELLANEOUS
+
+### 29. Notification of death, illness and other events[^key-6cb332a2141da7c74d77b76e1809a4ff]
+
+(1) The registered person shall give notice to the RQIA without delay of the occurrence of—
+
+- (a) the death of any service user in the day care setting, including the circumstances of his death;
+- (b) the outbreak in the day care setting of any infectious disease which in the opinion of any general medical practitioner is sufficiently serious to be so notified;
+- (c) any serious injury to a service user in the day care setting;
+- (d) any event in the day care setting which adversely affects the wellbeing or safety of any service user;
+- (e) any theft or burglary in the day care setting;
+- (f) any accident in the day care setting;
+- (g) any allegation of misconduct by the registered person or any person who works in the day care setting.
+
+(2) Any notification made in accordance with this regulation which is given orally shall be confirmed in writing within 3 working days of the oral report.
+
+### 30. Notice of absence[^key-b76559ee33a3141556a27b759bd8a462]
+
+(1) Where—
+
+- (a) the registered provider, if he is an individual who manages the day care setting himself; or
+- (b) the registered manager;
+
+proposes to be absent from the day care setting for a continuous period of 28 days or more, the registered provider shall give notice in writing to the RQIA of the proposed absence.
+
+(2) Except in the case of an emergency, the notice referred to in paragraph (1) shall be given no later than 28 days before the proposed absence commences or within such shorter period as may be agreed with the RQIA and the notice shall specify—
+
+- (a) the length or expected length of the absence;
+- (b) the reason for the absence;
+- (c) the arrangements which have been made for the running of the day care setting during that absence;
+- (d) the name, address and qualifications of the person who will be managing the day care setting during that absence; and
+- (e) in the case of the absence of the registered manager, the arrangements that have been, or are proposed to be, made for appointing another person to manage the day care setting during that absence, including the proposed date by which the appointment is to be made.
+
+(3) Where the absence arises as a result of an emergency, the registered provider shall give notice of the absence within one week of its occurrence specifying the matters mentioned in paragraph (2)(a) to (e).
+
+(4) Where—
+
+- (a) the registered provider, if he is an individual who manages the day care setting himself; or
+- (b) the registered manager;
+
+has been absent from the day care setting for a continuous period of 28 days or more, and the RQIA has not been given notice of the absence, the registered provider shall without delay give notice in writing to the RQIAof the absence, specifying the matters mentioned in paragraph (2)(a) to (e).
+
+(5) The registered provider shall notify the RQIA of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
+
+### 31. Notice of changes[^key-2f070e7b4f34e931909b19dec6248f01]
+
+The registered person shall give notice in writing to the RQIA as soon as it is practicable to do so, if any of the following events takes place or is proposed to take place—
+
+- (a) a person other than the registered person carries on or manages the day care setting;
+- (b) a person ceases to carry on or manage the day care setting;
+- (c) where the registered person is an individual, he changes his name;
+- (d) where the registered provider is a partnership, there is any change in the membership of the partnership;
+- (e) where the registered provider is an organisation—
+  - (i) the name or address of the organisation is changed;
+  - (ii) there is any change of director, manager, secretary or other similar officer of the organisation;
+  - (iii) there is to be any change of responsible individual;
+- (f) where the registered provider is an individual, a trustee in bankruptcy is appointed;
+- (fa)[^key-65fc33495b4edc6064482be0af1823d3] where the registered provider is an individual, a debt relief order is made in respect of him;
+- (g) where the registered provider is a company or partnership, a receiver, manager, liquidator or provisional liquidator is appointed; or
+- (h) the premises of the day care setting are significantly altered or extended, or additional premises are acquired.
+
+### 32. Notice of termination of the provision of care in the day care setting[^key-f951a3a316c69767df54176029b90c49]
+
+(1) Subject to paragraph (2), the registered person shall not terminate the arrangements for the provision of care in the day care setting of a service user unless he has given reasonable notice of his intention to do so to—
+
+- (a) the service user;
+- (b) the person who appears to be the service user’s next of kin; and
+- (c) where an HSS trust has made arrangements for the provision of care to the service user in the day care setting, that trust.
+
+(2) If it is impracticable for the registered person to comply with the requirement in paragraph (1)—
+
+- (a) he shall do so as soon as it is practicable to do so; and
+- (b) he shall provide to the RQIA a statement as to the circumstances which made it impracticable for him to comply with the requirement.
+
+### 33. Appointment of liquidators etc.[^key-4c8ff00183a10a2cfe493bba648fcbce]
+
+(1) Any person to whom paragraph (2) applies must—
+
+- (a) forthwith notify the RQIA of his appointment, indicating the reasons for it;
+- (b) appoint a manager in any case where there is no registered manager; and
+- (c) within 28 days of his appointment notify the RQIA of his intentions regarding the future operation of the day care setting.
+
+(2) This paragraph applies to any person appointed as—
+
+- (a) the receiver or manager of the property of a company or partnership which is a registered provider in respect of a day care setting;
+- (b) a liquidator or provisional liquidator of a company which is a registered provider of a day care setting; or
+- (c) the trustee in bankruptcy of a registered provider of a day care setting.
+
+### 34. Death of registered person[^key-aa5105249f404a910985362f004efb76]
+
+(1) If more than one person is registered in respect of a day care setting, and a registered person dies, the surviving registered person shall without delay notify the RQIA of the death in writing.
+
+(2) If only one person is registered in respect of a day care setting, and he dies, his personal representatives shall notify the RQIA in writing—
+
+- (a) without delay of the death; and
+- (b) of their intentions regarding the future running of the day care setting within 28 days of the death.
+
+(3) The personal representatives of the deceased registered provider may carry on the day care setting without being registered in respect of it—
+
+- (a) for a period not exceeding 28 days; and
+- (b) for any further period as may be determined in accordance with paragraph (4).
+
+(4) The RQIAmay extend the period specified in paragraph (3)(a) by such further period, not exceeding one year, as the RQIA shall determine, and shall notify any such determination to the personal representatives in writing.
+
+(5) The personal representatives shall appoint a person to manage the day care setting during any period in which, in accordance with paragraph (3), they carry on the day care setting without being registered in respect of it.
+
+### 35. Offences[^key-074047a7590f6c0dc0d9ea9ccf56576a]
+
+(1) A contravention of any of the provisions of regulations 4 to 7, 12, 13(1) to (4) and (7) to (9), 14, 15 to 17, 18, 19 to 24 and 26 to 32, shall be an offence.
+
+(2) The RQIA shall not bring proceedings against a person in respect of any contravention of those regulations unless—
+
+- (a) subject to paragraph (4), he is a registered person;
+- (b) notice has been given to him in accordance with paragraph (3);
+- (c) the period specified in the notice, within which the registered person may make representations to the RQIA, has expired; and
+- (d) in a case where, in accordance with paragraph (3)(b) the notice specifies any action that is to be taken within a specified period, the period has expired and the action has not been taken within that period.
+
+(3) Where the RQIA considers that the registered person has contravened any of the provisions of the regulations mentioned in paragraph (1), it may serve a notice on the registered person specifying—
+
+- (a) in what respect in its opinion the registered person has contravened the requirements of any of the regulations;
+- (b) what action, in the opinion of the RQIA, the registered person should take so as to comply with any of those regulations;
+- (c) the period, not exceeding three months, within which the registered person should take any action specified in accordance with sub-paragraph (b); and
+- (d) the period, not exceeding one month, within which the registered person may make representations to the RQIA about the notice.
+
+(4) The RQIA may bring proceedings against a person who was once, but no longer is, a registered person, in respect of a failure to comply with regulation 19 and for this purpose, references in paragraphs (2) and (3) to a registered person shall be taken to include such a person.
+
+### 36. Compliance with regulations[^key-7c54485bda7bdb39eb901290101b0b60]
+
+Where there is more than one registered person in respect of a day care setting, anything which is required under these regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 4th April 2007.
+
+M. Briscoe
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+## SCHEDULE 1 — INFORMATION TO BE INCLUDED IN THE STATEMENT OF PURPOSE
+
+Regulation 4(1)(c)
+
+**1.**[^key-b09b6d46499b0b0a76d9a96c06ccf439] The name and address of the registered provider and of any registered manager.
+
+**2.**[^key-25ba6ba9bae98a57cf2909a7573bfdc5] The relevant qualifications and experience of the registered provider and any registered manager.
+
+**3.**[^key-722148f3bf3087f278151639e3a0b1d0] The number, relevant qualifications and experience of persons employed in the day care setting.
+
+**4.**[^key-123378ba593549794e712fd729253aa8] The philosophy of care.
+
+**5.**[^key-2d054c934ba95b2afa6a49249645f5ec] The status and constitution of the day care setting.
+
+**6.**[^key-a9ee57cee69145a5f1fc6f24c0f8a78e] The organisational structure of the day care setting.
+
+**7.**[^key-01aa225040aa4bbd7e4b0ffd9cf94e60] The number of service users to be provided with services.
+
+**8.**[^key-dbbcbb27ca20d6f122314c70a14a6164] The range of needs that the day care setting is intended to meet and the number which can be accommodated.
+
+**9.**[^key-a5d1e8c34e24629c4f0f7a8666d45adf] Any criteria used for admission to the day care setting.
+
+**10.**[^key-a8595659277282ca91b12ac1a66b4159] The arrangements for service users to engage in social activities, hobbies and leisure interests.
+
+**11.**[^key-9332e41440f3b332a770e3ddf5692e26] The arrangements made for consultation with service users or their representatives about the operation of the day care setting.
+
+**12.**[^key-8b47be4d7eeb37e7bc58a60df17ae567] The fire precautions and associated emergency procedures in the day care setting.
+
+**13.**[^key-b2a7e5a5b64ccd7c96986873c965f4d2] The arrangements made for contact between service users and their representatives.
+
+**14.**[^key-809e86aceed658f1bca4e254b385f466] The arrangements for dealing with complaints.
+
+**15.**[^key-d517d24596f28cf669b7eb8697a6ce18] The arrangements made for dealing with reviews of the service user’s plan referred to in regulation 16(1).
+
+**16.**[^key-5b996b983dccf749dcdaf8ddb89f0149] The number and size of rooms in the day care setting.
+
+**17.**[^key-150b9279a9d67a4184caa12ac619d15f] Details of any specific therapeutic techniques used in the day care setting and arrangements made for their supervision.
+
+**18.**[^key-0ae7f7ac82870ae17a0514eddaf102f4] The arrangements made for respecting the privacy and dignity of service users.
+
+## SCHEDULE 2 — INFORMATION AND DOCUMENTS TO BE OBTAINED IN RESPECT OF PERSONS CARRYING ON, MANAGING OR WORKING AT A DAY CARE SETTING
+
+Regulations 8, 10, 21
+
+**1.**[^key-88e603748d01587201e23daa860afc72] Proof of the person’s identity, including a recent photograph.
+
+**2.**[^key-d923496846e5d54eaff0b48b6dd5b631] When Part V of the Police Act 1997[^f00007]) is commenced in Northern Ireland, either—
+
+- (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of that Act, an enhanced criminal record certificate issued under that section; or
+- (b) in any other case, a criminal record certificate issued under section 113A of that Act and an application for either certificate shall be accompanied, where applicable, by an adults’ suitability statement under section 113D of that Act.[^key-8d9cf02a95ba2cadf42ab6cabb4d8fa6]
+
+**3.**[^key-ec23fd567cae0c53ef1163ca7798bf45] Two written references relating to the person, including a reference from the person’s present or most recent employer, (if any).
+
+**4.**[^key-2d0dfe950a478f4a6291909850cb78b1] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as it is reasonably practicable, verification of the reason why the employment or position ended.
+
+**5.**[^key-f05c237dad3117943ef6eda2afdab91f] Details and documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
+
+**6.**[^key-6ed2f884b238f232b3ec7cb83dfa8dcd] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+
+**7.**[^key-5725ed24d8fbb1b13533784114de9b84] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform with regard to or in the day care setting or, where it is impracticable for the person to obtain such evidence, a declaration signed by the person that he is so fit.
+
+## SCHEDULE 3 — MATTERS TO BE MONITORED BY THE REGISTERED PERSON
+
+Regulation 17(1)
+
+**1.**[^key-8008228b3076e65ed80ed3c0d52b67e9] In respect of each service user cared for in the day care setting, compliance with the written care plan for the care of the service user.
+
+**2.**[^key-7d8bc52213670b3d831bad023154cd83] Daily menus.
+
+**3.**[^key-3607aa4089a3b81a87a043d527e6b16c] All accidents and injuries sustained in the day care setting.
+
+**4.**[^key-224626f0f3cbc1932dac6a1e2ee18229] Complaints in relation to service users and their outcomes.
+
+**5.**[^key-9ceae12f92e7d6df0cf7d364e9128651] Any allegations or suspicions of abuse in respect of service users and the outcome of any investigation.
+
+**6.**[^key-09b5a987bda5040163e4a22cfbb8741a] Recruitment records and conduct of required checks for new workers in the day care setting.
+
+**7.**[^key-c0970e7efbac1cb93cf73dd89bad9911] Visitors to the day care setting.
+
+**8.**[^key-b522757df7f95c82ab32305ede54a5c3] The use of measures of restraint in respect of service users.
+
+**9.**[^key-a91b8706febea2c57f91872eb2f527f8] Risk assessments for health and safety purposes and subsequent action taken.
+
+**10.**[^key-2503fad12d403f138a21234eccdaa0fd] Medicines, medical treatment and first aid administered to any service user.
+
+**11.**[^key-bc287f2cc1bd56b64562d38966789479] Duty rosters of persons working in the day care setting, and the rosters actually worked.
+
+**12.**[^key-51c4141f2c6ea74814391374a61c6e9e] The day care setting’s record of events and complaints.
+
+**13.**[^key-401eafee046e83ed175d88ec85aa1daa] Fire drills and tests of alarms and of fire equipment.
+
+**14.**[^key-4a5b7de86c404d360d6a70e0cf407e61] Records of appraisals of persons employed and the training and development plan.
+
+**15.**[^key-7fe09918b2ea87f5c16832c4f5865486] Minutes of management meetings.
+
+## SCHEDULE 4 — RECORDS TO BE KEPT IN A DAY CARE SETTING IN RESPECT OF EACH SERVICE USER
+
+Regulation 19(1)(a)
+
+**1.**[^key-3548c6f2d947e10229cbdb0ab611314d] The following documents in respect of each service user—
+
+- (a) the assessment of needs referred to in regulation 15(1)(a);
+- (b) the service user’s plan referred to in regulation 16(1).
+
+**2.**[^key-f36e0e90a765cfacb13da9d4b9d90604] A recent photograph of the service user.
+
+**3.**[^key-f4011ce4cb47c1e4dbbda5efa8f423d9] A record of the following matters in respect of each service user—
+
+- (a) the name, address, date of birth and marital status of each service user;
+- (b) the name, address and telephone number of the service user’s next of kin or of any person authorised to act on his behalf;
+- (c) the name, address and telephone number of the service user’s general medical practitioner and of any officer of a HSS trust whose duty it is to supervise the welfare of the service user;
+- (d) the date on which the service user commenced attendance at the day care setting;
+- (e) the date on which the service user ceased to attend the day care setting;
+- (f) if the service user transfers to another day care setting, the name of the day care setting and the date on which the service user transfers;
+- (g) if the service user died in the day care setting, the date and time of death;
+- (h) the name and address of any HSS trust, organisation or other body which arranged the service user’s attendance in the day care setting;
+- (i) a record of all medicines brought into the day care setting for the service user, and the date on which they were administered to the service user;
+- (j) a record of any accident affecting the service user in the day care setting and of any other incident in the day care setting which is detrimental to the health or welfare of the service user including the nature, date and time of the accident or incident, whether medical treatment was required and the name of the persons who were respectively in charge of the day care setting and supervising the service user;
+- (k) details of any specialist communications needs of the service user and methods of communication that may be appropriate to the service user;
+- (l) details of any healthcare plan relating to the service user in respect of medication, specialist health care provision or nutrition;
+- (m) a record of falls and of treatment provided to the service user;
+- (n) a record of any restraint used in relation to the service user;
+- (o) a record of any limitations agreed with the service user or his representative as to the service user’s freedom of choice, liberty of movement and power to make decisions.
+
+**4.**[^key-f7659acad496d60b0f49f4815e16f25d] A copy of correspondence relating to each service user.
+
+## SCHEDULE 5 — OTHER RECORDS TO BE KEPT IN A DAY CARE SETTING
+
+Regulation 19(2)
+
+**1.**[^key-c1b8dab7688b8b1d0141b3105dfbe834] A copy of the statement of purpose.
+
+**2.**[^key-bd6cef6ffc3abb7878fdc014193ddbf8] A copy of the service user’s guide.
+
+**3.**[^key-10efac8b2ba4bcd94171ae72d760308f] A record of all accounts relating to the day care setting.
+
+**4.**[^key-87af01259de238af9c775dbfdb79ac73] A copy of all inspection reports.
+
+**5.**[^key-46d92868f6f97d4e7ec8826ce4a10785] A copy of any report made under regulation 28(4)(c) and a copy of any written record or report made under regulation 29.
+
+**6.**[^key-71df48256ed928cff19b372dacba9688] A record of all persons employed in the day care setting, including in respect of each person so employed—
+
+- (a) his full name, address, date of birth, qualifications, experience and if applicable, confirmation of his registration status with an appropriate professional regulatory body;
+- (b) a copy of his birth certificate and passport (if any);
+- (c) a copy of each reference obtained in respect of him;
+- (d) the dates on which he commences and ceases to be so employed;
+- (e) the position he holds in the day care setting, the work that he performs and the number of hours for which he is employed each week;
+- (f) correspondence, reports, records of disciplinary action and any other records in relation to his employment including the recruitment process under which he was appointed;
+- (g) the training and development activities completed by him.
+
+**7.**[^key-d42226033e13f7f56764b099c9e4bbbd] A copy of the duty roster of persons working in the day care setting, and a record of whether the roster was actually worked.
+
+**8.**[^key-90d1330ba6fcca9b347bf53b5e79b676] Where applicable, a record of the day care setting’s charges to service users, including any extra amounts payable for additional services not covered by those charges, and the amounts paid by or in respect of each service user.
+
+**9.**[^key-f308dc567b8f53da8b5a84991264fe3e] A record of all complaints made by service users or representatives or relatives of service users or by persons working in the day care setting about the operation of the day care setting, and the action taken by the registered person in respect of any such complaint.
+
+**10.**[^key-619597993ed84a9b8a2f3b11e37b70e7] A record of any of the following events that occur in the day care setting—
+
+- (a) any accident;
+- (b) any incident which is detrimental to the health or welfare of a service user, including the outbreak of infectious disease in the day care setting;
+- (c) any injury or serious illness;
+- (d) any fire;
+- (e) except where a record to which paragraph 12 refers is to be made, any occasion on which the fire alarm equipment is operated;
+- (f) any theft or burglary.
+
+**11.**[^key-8bd118c3e9d3b23fba7d2f73ea7b00a3] Records of the food provided for service users in sufficient detail to enable any person inspecting the record to determine whether the diet is satisfactory, in relation to nutrition and otherwise, and of any special diets prepared for individual service users.
+
+**12.**[^key-0693c1a059d26fc6808d3fff4c8e62de] A record of every fire practice, drill or test of fire equipment (including fire alarm equipment) conducted in the day care setting and of any action taken to remedy defects in the fire equipment.
+
+**13.**[^key-1b17a76a9717f46f72637127bdf59f5d] A statement of the procedure to be followed in the event of a fire, or where a fire alarm is activated.
+
+**14.**[^key-b8edb6666609110cac04fdf789f74db2] A statement of the procedure to be followed in the event of accidents or in the event of a service user becoming missing.
+
+**15.**[^key-fb81986b6a42e4ee232e7aba6b28b9b8] A record of charges made to service users for transport and the amounts paid by or in respect of each service user.
+
+**16.**[^key-a21e0d55e0913dc662c3437b5cd88de2] A record of the programme of events and activities that includes the name of the person leading the activity and the names of those who participated.
+
+**17.**[^key-58c2f700373181a87ab34a5998603bf2] A record of all staff meetings held and the names of all those attending.
+
+**18.**[^key-0e6bc3b4a835a5409ddd89400738dc84] A record of training undertaken as referred to in regulation 20(1)(c)(i).
+
+**19.**[^key-e788f483720240575341f45050205737] A record of all visitors to the day care setting, including the names of all visitors.
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003. Part II of the Order establishes the Northern Ireland Health and Personal Social Services Regulation and Improvement Authority (“the Regulation and Improvement Authority”) and Part III provides for the registration and inspection of establishments and agencies, including day care settings, by the Regulation and Improvement Authority. It also provides powers for regulations governing the conduct of establishments and agencies.
+
+Regulation 3 prescribes the services in a day care setting as the provision of personal care.
+
+Under regulations 4, 5, 6 and 7 each day care setting must have a statement of purpose consisting of the matters set out in Schedule 1, and supply a guide (which must be kept under review) to the day care setting to each service user together with a statement giving information about fees payable.
+
+Regulations 8 to 11 make provision about the fitness of the persons carrying on and managing the day care setting, and require satisfactory information to be available in relation to certain specified matters. Where an organisation carries on the day care setting, it must nominate a responsible individual in respect of whom this information must be available (regulation 8). Regulation 9 prescribes the circumstances where a manager must be appointed for the day care setting, and regulation 11 imposes general requirements in relation to the proper conduct of the day care setting, and the need for appropriate training.
+
+Regulation 12 requires the registered person or responsible individual to give notice in writing to the Regulation and Quality Improvement Authority of any criminal convictions.
+
+Regulations 13 to 25 make provision about the conduct of day care settings, in particular as to care and welfare of service users, and as to the facilities and services that are to be provided. Provision is also made about record keeping, persons employed in day care settings, the fitness of workers, and about complaints.
+
+Regulation 26 makes provision about the suitability of premises and fire precautions to be taken.
+
+Regulations 27 and 28 deal with the management of day care settings. Regulation 27 imposes requirements relating to the day care setting’s financial position. Regulation 28 requires the registered provider to visit the day care setting as prescribed.
+
+Regulations 29 to 36 deal with miscellaneous matters including the giving of notices to the Regulation and Improvement Authority. Regulation 35 provides for offences. A breach of the regulations specified in regulation 35 is an offence. However, no prosecution may be brought unless the Regulation and Improvement Authority has first given the registered person a notice which sets out in what respect it is alleged he is not complying with a regulation, and what action the Regulation and Improvement Authority considers it is necessary for him to take in order to comply. The notice must specify a time period for compliance, not exceeding three months.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^key-96ffd404b81e12dc0aa09c76678be716]: Commencement: Reg. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-5c21fbac5133b5133fa16f9755a51832]: Commencement: Reg. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-6f2e0d5e91c5372e768d33a296ea498b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/234/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/41/2)
+
+[^key-23d75b428fd3329296fa84e5fad6963d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/234/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/48/2)
+
+[^f00002]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17)
+
+[^f00003]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^key-b22c3d905f79ffd2e26215f8a9b9fd1d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/234/regulation/2/1) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2013/225/regulation/12/2)
+
+[^f00004]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
+
+[^key-55bc44a64696fc7804b7f646bdbf8d11]: Commencement: Reg. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-076a2161d1f48f212a2a8e10760b8ce4]: Commencement: Reg. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-3ba6571bd33a401a8fba3e316eede3b4]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2007/234) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+
+[^key-2aa1710a64426bffcaa77b2f0a5ac0f8]: Commencement: Reg. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-af6223b6fc5602419f75b105acd6f356]: Commencement: Reg. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-f47f5ceff33061b7812cc382ae342433]: Commencement: Reg. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-bb41ce815e3b039054140179adef440f]: Commencement: Reg. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-fb1cff170e5b52193804e5af9039a7a0]: Textual amendment: [Reg. 8(4)(ab)](https://www.legislation.gov.uk/nisr/2007/234/regulation/8/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 41(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/41/3)
+
+[^key-9b6f008ee2d86235f57e5af8f2de8cb4]: Textual amendment: [Reg. 8(4)(ac)](https://www.legislation.gov.uk/nisr/2007/234/regulation/8/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 48(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/48/3)
+
+[^key-c78cc71491e1e68f592b18e7a26b1689]: Commencement: Reg. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-22984057ff558ec72e025bce1cc3a1fe]: Commencement: Reg. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-afa20dfbb96f22b769da449b8bd9a171]: Textual amendment: [Reg. 10(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/234/regulation/10/2/b/iii)[(iv)](https://www.legislation.gov.uk/nisr/2007/234/regulation/10/2/b/iv) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [12(3)](https://www.legislation.gov.uk/nisr/2013/225/regulation/12/3)
+
+[^key-f2d9417b6af57d2b937918c02dd6eb8a]: Commencement: Reg. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-4d22932dd166835ba8e8f14a903556ab]: Commencement: Reg. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-73c3a09e5b453e97d92746ea0fdf305e]: Commencement: Reg. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^f00005]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
+
+[^key-8b4da22dcc814de21226b4edfacdb991]: Textual amendment: Words in [reg. 13(6)(b)](https://www.legislation.gov.uk/nisr/2007/234/regulation/13/6/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 119](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/119) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-e7e3d51484c7a8b13cb5c29d8f83129c]: Commencement: Reg. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-ed7fa1424554515e1bacbddb609b4331]: Commencement: Reg. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-896ee37f71950d6fc7a57a8a52c9a16e]: Commencement: Reg. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-986ab0b4c7ab21ef3bf6e898112f0b36]: Commencement: Reg. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-b5719c29f749dc123ad4245d9b755efb]: Commencement: Reg. 18 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-ce4ee40f4d9914c96f6547ba5760651f]: Commencement: Reg. 19 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-1a5c4c79cf3193cd61d70381a13c88f3]: Commencement: Reg. 20 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-40b38d248250566b215acb5c99f2b035]: Commencement: Reg. 21 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-d7956c6c4e8aee3440c6932d57ba9b45]: Textual amendment: [Reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/1/b) substituted (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [reg. 6](https://www.legislation.gov.uk/nisr/2009/145/regulation/6)
+
+[^key-5dd317f5a3dc6d8ea0402866dd8fa5b7]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/1) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2020/60/regulation/6/2)
+
+[^key-5d4cece072921d4e8b1ce42509d81224]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/2) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2020/60/regulation/6/3)
+
+[^key-5e78bd01ffa8f4620201a8acffbe7553]: Textual amendment: Words in [reg. 21(3)(d)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/3/d) omitted (6.4.2009) by virtue of [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
+
+[^key-443353fbeb1b26d9b62226a3c1f3d761]: Textual amendment: Words in [Reg. 21(3)(d)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/3/d) inserted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [reg. 6(2)(b)](https://www.legislation.gov.uk/nisr/2008/346/regulation/6/2/b)
+
+[^key-1274d6e53f6ac8a811de511ea6ce925f]: Textual amendment: [Reg. 21(3)(e)-(g)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/3/e) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2017/207/regulation/11/2)
+
+[^key-fd37721d5da6478b16dfbfa6c1dad0b0]: Textual amendment: [Reg. 21(5)-(7)](https://www.legislation.gov.uk/nisr/2007/234/regulation/21/5) re-inserted (2.4.2020) and Reg. 21 (8) inserted by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2020/60/regulation/6/4)
+
+[^key-b1fc384cb319fc0fa6a6a333cfafa3aa]: Commencement: Reg. 22 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-7f4755bad209ee8f76b47bfec29ea831]: Commencement: Reg. 23 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-1a14d75f000665f216577b345ed7e377]: Commencement: Reg. 24 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-689007a15aff95e56405b9e370a38a68]: Commencement: Reg. 25 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-94abcb8525ebdefeedb839839de0eb5b]: Commencement: Reg. 26 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-2c1f970e7cd3213d32befc51a9e0f286]: Commencement: Reg. 27 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-87d7a9ee548576ab0abad4b0b321eccb]: Commencement: Reg. 28 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-6cb332a2141da7c74d77b76e1809a4ff]: Commencement: Reg. 29 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-b76559ee33a3141556a27b759bd8a462]: Commencement: Reg. 30 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-2f070e7b4f34e931909b19dec6248f01]: Commencement: Reg. 31 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-65fc33495b4edc6064482be0af1823d3]: Textual amendment: [Reg. 31(fa)](https://www.legislation.gov.uk/nisr/2007/234/regulation/31/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 48(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/48/4)
+
+[^key-f951a3a316c69767df54176029b90c49]: Commencement: Reg. 32 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-4c8ff00183a10a2cfe493bba648fcbce]: Commencement: Reg. 33 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-aa5105249f404a910985362f004efb76]: Commencement: Reg. 34 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-074047a7590f6c0dc0d9ea9ccf56576a]: Commencement: Reg. 35 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-7c54485bda7bdb39eb901290101b0b60]: Commencement: Reg. 36 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-b09b6d46499b0b0a76d9a96c06ccf439]: Commencement: Sch. 1 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-25ba6ba9bae98a57cf2909a7573bfdc5]: Commencement: Sch. 1 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-722148f3bf3087f278151639e3a0b1d0]: Commencement: Sch. 1 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-123378ba593549794e712fd729253aa8]: Commencement: Sch. 1 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-2d054c934ba95b2afa6a49249645f5ec]: Commencement: Sch. 1 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-a9ee57cee69145a5f1fc6f24c0f8a78e]: Commencement: Sch. 1 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-01aa225040aa4bbd7e4b0ffd9cf94e60]: Commencement: Sch. 1 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-dbbcbb27ca20d6f122314c70a14a6164]: Commencement: Sch. 1 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-a5d1e8c34e24629c4f0f7a8666d45adf]: Commencement: Sch. 1 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-a8595659277282ca91b12ac1a66b4159]: Commencement: Sch. 1 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-9332e41440f3b332a770e3ddf5692e26]: Commencement: Sch. 1 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-8b47be4d7eeb37e7bc58a60df17ae567]: Commencement: Sch. 1 para. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-b2a7e5a5b64ccd7c96986873c965f4d2]: Commencement: Sch. 1 para. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-809e86aceed658f1bca4e254b385f466]: Commencement: Sch. 1 para. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-d517d24596f28cf669b7eb8697a6ce18]: Commencement: Sch. 1 para. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-5b996b983dccf749dcdaf8ddb89f0149]: Commencement: Sch. 1 para. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-150b9279a9d67a4184caa12ac619d15f]: Commencement: Sch. 1 para. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-0ae7f7ac82870ae17a0514eddaf102f4]: Commencement: Sch. 1 para. 18 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-88e603748d01587201e23daa860afc72]: Commencement: Sch. 2 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-d923496846e5d54eaff0b48b6dd5b631]: Commencement: Sch. 2 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^f00007]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
+
+[^key-8d9cf02a95ba2cadf42ab6cabb4d8fa6]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/234/schedule/2/paragraph/2) inserted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [reg. 6(3)](https://www.legislation.gov.uk/nisr/2008/346/regulation/6/3)
+
+[^key-ec23fd567cae0c53ef1163ca7798bf45]: Commencement: Sch. 2 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-2d0dfe950a478f4a6291909850cb78b1]: Commencement: Sch. 2 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-f05c237dad3117943ef6eda2afdab91f]: Commencement: Sch. 2 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-6ed2f884b238f232b3ec7cb83dfa8dcd]: Commencement: Sch. 2 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-5725ed24d8fbb1b13533784114de9b84]: Commencement: Sch. 2 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-8008228b3076e65ed80ed3c0d52b67e9]: Commencement: Sch. 3 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-7d8bc52213670b3d831bad023154cd83]: Commencement: Sch. 3 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-3607aa4089a3b81a87a043d527e6b16c]: Commencement: Sch. 3 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-224626f0f3cbc1932dac6a1e2ee18229]: Commencement: Sch. 3 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-9ceae12f92e7d6df0cf7d364e9128651]: Commencement: Sch. 3 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-09b5a987bda5040163e4a22cfbb8741a]: Commencement: Sch. 3 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-c0970e7efbac1cb93cf73dd89bad9911]: Commencement: Sch. 3 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-b522757df7f95c82ab32305ede54a5c3]: Commencement: Sch. 3 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-a91b8706febea2c57f91872eb2f527f8]: Commencement: Sch. 3 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-2503fad12d403f138a21234eccdaa0fd]: Commencement: Sch. 3 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-bc287f2cc1bd56b64562d38966789479]: Commencement: Sch. 3 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-51c4141f2c6ea74814391374a61c6e9e]: Commencement: Sch. 3 para. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-401eafee046e83ed175d88ec85aa1daa]: Commencement: Sch. 3 para. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-4a5b7de86c404d360d6a70e0cf407e61]: Commencement: Sch. 3 para. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-7fe09918b2ea87f5c16832c4f5865486]: Commencement: Sch. 3 para. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-3548c6f2d947e10229cbdb0ab611314d]: Commencement: Sch. 4 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-f36e0e90a765cfacb13da9d4b9d90604]: Commencement: Sch. 4 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-f4011ce4cb47c1e4dbbda5efa8f423d9]: Commencement: Sch. 4 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-f7659acad496d60b0f49f4815e16f25d]: Commencement: Sch. 4 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-c1b8dab7688b8b1d0141b3105dfbe834]: Commencement: Sch. 5 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-bd6cef6ffc3abb7878fdc014193ddbf8]: Commencement: Sch. 5 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-10efac8b2ba4bcd94171ae72d760308f]: Commencement: Sch. 5 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-87af01259de238af9c775dbfdb79ac73]: Commencement: Sch. 5 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-46d92868f6f97d4e7ec8826ce4a10785]: Commencement: Sch. 5 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-71df48256ed928cff19b372dacba9688]: Commencement: Sch. 5 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-d42226033e13f7f56764b099c9e4bbbd]: Commencement: Sch. 5 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-90d1330ba6fcca9b347bf53b5e79b676]: Commencement: Sch. 5 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-f308dc567b8f53da8b5a84991264fe3e]: Commencement: Sch. 5 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-619597993ed84a9b8a2f3b11e37b70e7]: Commencement: Sch. 5 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-8bd118c3e9d3b23fba7d2f73ea7b00a3]: Commencement: Sch. 5 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-0693c1a059d26fc6808d3fff4c8e62de]: Commencement: Sch. 5 para. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-1b17a76a9717f46f72637127bdf59f5d]: Commencement: Sch. 5 para. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-b8edb6666609110cac04fdf789f74db2]: Commencement: Sch. 5 para. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-fb81986b6a42e4ee232e7aba6b28b9b8]: Commencement: Sch. 5 para. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-a21e0d55e0913dc662c3437b5cd88de2]: Commencement: Sch. 5 para. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-58c2f700373181a87ab34a5998603bf2]: Commencement: Sch. 5 para. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-0e6bc3b4a835a5409ddd89400738dc84]: Commencement: Sch. 5 para. 18 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)
+
+[^key-e788f483720240575341f45050205737]: Commencement: Sch. 5 para. 19 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/234/regulation/1)

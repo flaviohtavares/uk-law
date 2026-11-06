@@ -1,0 +1,760 @@
+---
+title: The Landfill Allowances Scheme (Northern Ireland) Regulations 2004
+id: nisr/2004/416
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-09-29'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/416
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/416/pdfs/nisrem_20040416_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/416/pdfs/nisr_20040416_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/416/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Landfill Allowances Scheme (Northern Ireland) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 416
+
+ENVIRONMENTAL PROTECTION
+
+The Landfill Allowances Scheme (Northern Ireland) Regulations 2004
+
+Made
+
+29th September 2004
+
+To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
+
+Coming into operation
+
+1st April 2005
+
+The Department of the Environment, in exercise of the powers conferred upon it by sections 6, 7, 10 to 13, 15, 16, and 26 of the Waste and Emissions Trading Act 2003[^f00002] (“the Act”), and having consulted in accordance with section 27(2) of the Act such bodies or persons appearing to it to be representative of –
+
+- (a) the interests of district councils in Northern Ireland as it considers appropriate;
+- (b) the interests of persons concerned in the operation of landfills in Northern Ireland as it considers appropriate;
+- (c) any other affected persons as it considers appropriate;
+
+hereby makes the following Regulations.[^key-c565e71e24b2a77042a831a15cb045bb]
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement and application[^key-0def4df490886f947fac2200d1b94b75]
+
+(1) These Regulations may be cited as the Landfill Allowances Scheme (Northern Ireland) Regulations 2004 and shall come into operation on 1st April 2005.
+
+(2) These Regulations apply to Northern Ireland only.
+
+### 2. Interpretation[^key-7c54f81c6ae5fe02ba4a0295953787cf]
+
+(1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+
+(2) In these Regulations –
+
+- “the Act” means the Waste and Emissions Trading Act 2003;
+- [^key-c0379572f455cc447ea5d6a6ac68d5bc]...
+- “the Department” means the Department of the Environment
+- “disposal” has the same meaning as in the Waste Management Licensing Regulations (Northern Ireland) 2003;[^key-402ad99edda26b86a4690b0cb6037418]
+- “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00006];
+- “European Waste Catalogue” has the same meaning as in the Waste Management Licensing Regulations (Northern Ireland) 2003;[^key-66f91854b54735e3b19d45338a56c7da]
+- “landfill allowance account” means the landfill allowance account contained in the landfill allowances register under regulation 15(2) and (3);
+- “reconciliation period” means the period of 6 months following the end of a scheme year;
+- “recovery” has the same meaning as in Directive 2008/98/EC of the European Parliament and of the Council on Waste[^key-e8dac908c32c7381b8ec5c43c7f07266] as last amended by[^key-50f8f30f6aed8d4f9e72a111d17bd277] Directive (EU) 2018/851[^key-edb8a3670f8fd9e4ddbe235b2bdfab3b];
+- “relevant authority” means –
+  - (a) the monitoring authority,
+  - (b) the Department;
+- “treatment” has the same meaning as in section 22(4) of the Act;
+- “vintage” means in respect of landfill allowances allocated for –
+  - (a) different scheme years, the chronological order in which those allowances were allocated,
+  - (b) for the same scheme year, the order in which those landfill allowances were allocated for that year; and
+- “waste facility” means a facility for the disposal or recovery of waste other than a landfill.
+
+(3) In these Regulations references to waste being sent by a district council to a landfill or a waste facility are references to waste being sent to such a landfill or facility in pursuance of arrangements made by the district council.
+
+(4) In these Regulations a landfill allowance is available to a district council for a scheme year –
+
+- (a) for the purposes of regulation 6 if it has –
+  - (i) been allocated to the district council for that scheme year, and
+  - (ii) not subsequently been transferred or withdrawn;
+- (b) for all other purposes if it has been –
+  - (i) allocated to the district council for that scheme year, or
+  - (ii) borrowed or transferred to that scheme year,
+
+  and not subsequently been borrowed, transferred or withdrawn.
+
+### 3. Giving notices and notifications, and the submission of forms and returns[^key-34c6732245c715e1548dba2ebfce2847]
+
+(1) Subject to paragraph (2), where under these Regulations a person is required or authorised to –
+
+- (a) submit or give a form, notice or return to another person; or
+- (b) notify another person of any matter;
+
+the form, notice, return or notification must be in writing.
+
+(2) Where –
+
+- (a) that other person has an address for the purposes of electronic communications –
+  - (i) any return may be submitted, or
+  - (ii) any notice or notification may be given,
+
+  by way of such communications;
+- (b) regulation 4(3)(a) applies, the form may be submitted to the monitoring authority by way of electronic communications to the address specified in the form;
+- (c) regulation 4(3)(b) applies, the form may be submitted to the monitoring authority via the website;
+- (d) a relevant authority maintains a website for the purpose of enabling returns to be submitted to the monitoring authority, any return which is enabled to be so submitted may be submitted to the monitoring authority via the website.
+
+(3) Any notification given in writing by the Department under these Regulations may be given by addressing it to the district council and –
+
+- (a) leaving it at, or
+- (b) sending it by post to,
+
+the district council’s principal office.
+
+### 4. Electronic registers and forms[^key-731f49dcf8371fdfc9c9bf306a460b0c]
+
+(1) Any register maintained under these Regulations may be in an electronic form.
+
+(2) Where any register is in an electronic form a relevant authority may make the register available for inspection by the public on a website maintained by the authority for that purpose.
+
+(3) Any form provided by the monitoring authority under these Regulations may be provided –
+
+- (a) in an electronic form, or
+- (b) for completion and submission to the monitoring authority on a website maintained by a relevant authority for that purpose.
+
+## PART 2 — ALLOCATION AND THE BORROWING AND TRANSFER OF LANDFILL ALLOWANCES
+
+### 5. Allocation of allowances[^key-c67d0743bbf9f8e3615a68071fa9c9a2]
+
+(1) As soon as reasonably practicable after the Department has complied with section 4(4) of the Act, the monitoring authority must assign all landfill allowances allocated to a district council under that section –
+
+- (a) to the district council’s landfill allowance account;
+- (b) a unique reference number (which may include any letter) from which the following information may be ascertained –
+  - (i) the district council to which the allowance is allocated,
+  - (ii) the year for which the allowance is allocated, and
+  - (iii) the vintage of the allowance for that year.
+
+### 6. Borrowing of landfill allowances[^key-1491b1fc345fdedca28f8e67e3231672]
+
+(1) A district council may borrow for use in a scheme year up to 5% of the landfill allowances available to it for the following scheme year (rounded down to the nearest whole allowance).
+
+(2) Paragraph (1) does not apply –
+
+- (a) in a target year,
+- (b) where the following year is a target year.
+
+(3) Where a district council intends to borrow a landfill allowance it must submit a borrowing request to the monitoring authority before the end of the reconciliation period for the scheme year.
+
+(4) A borrowing request must –
+
+- (a) be made on the form provided by the monitoring authority; and
+- (b) specify –
+  - (i) the name of the district council, and
+  - (ii) the number of landfill allowances which it intends to borrow.
+
+(5) The monitoring authority is not required to consider a borrowing request unless it is made in accordance with paragraph (4).
+
+(6) If the conditions in paragraph (8) are satisfied the monitoring authority must –
+
+- (a) remove the number of landfill allowances specified in the borrowing request from the part of the district council’s landfill allowance account relating to the following scheme year;
+- (b) include those allowances in the part of the account relating to the scheme year; and
+- (c) notify the district council which made the request –
+  - (i) that its request has been accepted, and
+  - (ii) of the amendments that have been made to its landfill allowance account.
+
+(7) If the conditions in paragraph (8) are not satisfied the monitoring authority must notify the district council –
+
+- (a) that its request has not been accepted, and
+- (b) of the reasons why.
+
+(8) The conditions referred to in paragraphs (6) and (7) are that –
+
+- (a) the borrowing request complies with paragraph (2),
+- (b) the number of landfill allowances specified in the request are available to the district council for the following scheme year,
+- (c) accepting the borrowing request would not cause the district council to exceed the limit on borrowing under paragraph (1), and
+- (d) the district council is not suspended from borrowing landfill allowances under regulation 8.
+
+### 7. Transfer of landfill allowances[^key-e0e257c98083d4001eb6c2ed402e820a]
+
+(1) Subject to paragraph (2), a district council may transfer to any other district council landfill allowances which –
+
+- (a) are available to the district council for a scheme year, and
+- (b) have not been utilised.
+
+(2) A district council must not transfer an allowance from any scheme year for which the allowance is available to another district council unless the transfer is to that scheme year.
+
+(3) Where a district council (“the transferor”) agrees to transfer a landfill allowance to another district council (“the transferee”) the transferor must submit a transfer request to the monitoring authority before the end of the reconciliation period for the scheme year in which the agreement is made.
+
+(4) A transfer request must –
+
+- (a) be made on the form provided by the monitoring authority; and
+- (b) specify –
+  - (i) the names of the transferor and transferee,
+  - (ii) the number of landfill allowances to be transferred,
+  - (iii) for each landfill allowance the scheme year for which the allowance is available to the transferor, and
+  - (iv) the date the transfer was agreed.
+
+(5) The monitoring authority is not required to consider a transfer request unless it is made in accordance with paragraph (4).
+
+(6) If the conditions in paragraph (8) are satisfied, the monitoring authority must –
+
+- (a) delete the landfill allowances from the transferor’s landfill allowance account;
+- (b) allocate each landfill allowance to the transferee’s landfill allowance account for the scheme year for which, immediately before the transfer, it was available to the transferor; and
+- (c) notify the transferor and transferee –
+  - (i) that the request has been accepted, and
+  - (ii) of the amendments that have been made to their landfill allowance accounts.
+
+(7) If the conditions in paragraph (8) are not satisfied the monitoring authority must notify the transferor and transferee –
+
+- (a) that the request has not been accepted, and
+- (b) of the reasons why.
+
+(8) The conditions referred to in paragraphs (6) and (7) are that –
+
+- (a) the agreement complies with paragraphs (1) and (2),
+- (b) all landfill allowances are available to the transferor for the scheme years specified pursuant to paragraph (4)(b)(iii), and
+- (c) neither the transferor nor the transferee is suspended from transferring allowances under regulation 8.
+
+### 8. Suspension of borrowing and transferring of landfill allowances[^key-859ccee7da2d9b1c2a558b2e49465775]
+
+(1) The Department may suspend any or all district councils from borrowing and transferring landfill allowances if it considers –
+
+- (a) in a scheme year between target years that there is a risk that the total amount of biodegradable municipal waste sent to landfills by district councils in Northern Ireland will exceed the maximum amount for Northern Ireland which is specified under (or pursuant to section 3(1) of the Act is treated as having been specified under) section 2(1)(d) of the Act, or
+- (b) it necessary to exercise its power under section 5 of the Act (alteration of allocations under section 4).
+
+(2) The Department may suspend a district council from borrowing and transferring landfill allowances if it has reason to believe that –
+
+- (a) the district council has failed to comply with –
+  - (i) its duty under section 9 of the Act (duty not to exceed allowances), or
+  - (ii) any requirement under these Regulations; or
+- (b) an unauthorised person may attempt, or has attempted to, submit a borrowing or transfer request to the monitoring authority on behalf of the district council.
+
+(3) If the Department suspends a district council from borrowing and transferring landfill allowances under paragraph (1) or (2), at the same time it must notify the monitoring authority and the district council of –
+
+- (a) that fact, and
+- (b) the reasons for the suspension.
+
+(4) The Department may cancel a suspension if in any case falling within –
+
+- (a) paragraph (1)(a), the Department is satisfied that there is no significant continuing risk that the total amount of biodegradable municipal waste sent to landfills by district councils in Northern Ireland will exceed the maximum amount mentioned in that paragraph;
+- (b) paragraph (1)(b) –
+  - (i) the allocation of landfill allowances has been altered, or
+  - (ii) the Department no longer considers that an alteration is necessary;
+- (c) paragraph (2)(a), the Department is satisfied that the failure to comply is unlikely to recur;
+- (d) paragraph (2)(b), the Department is satisfied that there is no further risk of the unauthorised submission of a borrowing or transfer request.
+
+(5) If the Department cancels a suspension under paragraph (4), at the same time it must notify the monitoring authority and any district council which, as a consequence, is no longer suspended from borrowing and transferring landfill allowances of –
+
+- (a) that fact, and
+- (b) the reasons for cancelling the suspension.
+
+(6) The effect of suspending a district council from borrowing and transferring landfill allowances is that no landfill allowances may be –
+
+- (a) transferred to or from the district council’s landfill allowance account under regulation 7,
+- (b) borrowed within that account under regulation 6.
+
+(7) In paragraph (2)(b) “unauthorised person” means a person who is not authorised by a district council to submit borrowing or transfer requests on the district council’s behalf.
+
+## PART 3 — MONITORING
+
+### 9. Monitoring authority and keeping the provisions in regulation 12(2) under review[^key-b007b59260dd9ce15bfb6641cd17875b]
+
+(1) The person for the time being holding the position of Head of Waste Management and Contaminated Land of the Environment and Heritage Service of the Department shall be the monitoring authority for Northern Ireland.
+
+(2) The monitoring authority must keep under review the provisions in regulation 12(2).
+
+(3) If the monitoring authority considers that any of the provisions in regulation 12(2) ought to be changed he must as soon as reasonably practicable notify the Department of –
+
+- (a) his opinion; and
+- (b) the reasons for his opinion.
+
+### 10. Obligation for district councils to keep records and make returns[^key-99ee15bed9cd7139ddf373eddac80ee1]
+
+(1) A district council must keep records containing the following information for each scheme year –
+
+- (a) the weight in tonnes of local authority collected municipal waste[^key-d89b4a6692c3926b617a12a21183bcbc];
+- (b) the weight in tonnes of local authority collected municipal waste[^key-2e05179791945ccbb764f1185087c070] sent to landfills by the district council; and
+- (c) the weight in tonnes of local authority collected municipal waste[^key-0da7117e01e88a8690d7f6e4408f45fb] sent to waste facilities whether by, or on behalf of, the district council.
+
+(2) In relation to local authority collected municipal waste[^key-8981a6a98d4d200522514b46e2ab117e] mentioned in paragraph (1)(b) and (c) the records must contain details of –
+
+- (a) the total weight in tonnes of waste sent to each landfill or waste facility, and
+- (b) the standard description of, and the appropriate code in the European Waste Catalogue for, the waste referred to in sub-paragraph (a).
+
+(3) All weights mentioned in paragraphs (1) and (2) must be rounded up to the nearest tonne.
+
+(4) The records under paragraph (1) must be kept for a period of two years beginning on the day after the day on which the reconciliation period for the scheme year ends.
+
+(5) A district council must submit to the monitoring authority, in the form specified by that authority, a return containing the information in paragraph (1) for each 3 month period in a scheme year ending on 31st March, 30th June, 30th September and 31st December within 2 months of the end of that period.
+
+(6) The monitoring authority, or a person authorised by the monitoring authority, may by notice require a district council to –
+
+- (a) produce for inspection or for removal for inspection elsewhere, records it is required to keep under paragraph (1);
+- (b) supply the monitoring authority with information about, or evidence as to, matters connected with the sending of biodegradable local authority collected municipal waste[^key-b3a9b85575c63a68037efed2623fa52e] to landfills;
+
+and to do so in such form, at such reasonable place and within such reasonable time as is specified in the notice.
+
+(7) The monitoring authority, or a person authorised in writing by the monitoring authority, may make copies of –
+
+- (a) records produced under paragraph (6)(a),
+- (b) information or evidence supplied under paragraph (6)(b).
+
+### 11. Obligation for operators of landfills to keep records and make returns[^key-d653e21078117025ea9bdfc801b3396d]
+
+(1) Subject to paragraph (2), an operator of a landfill must keep records containing the following information for each scheme year –
+
+- (a) the weight in tonnes (rounded up to the nearest tonne) of each load of municipal waste accepted at the landfill;
+- (b) the standard description of, and the appropriate code in the European Waste Catalogue for, the waste;
+- (c) the area in which the municipal waste originated and the district council for that area; and
+- (d) any treatment applied to the waste at the landfill before it is landfilled.
+
+(2) Where any waste has been sent to a landfill directly from a transfer station –
+
+- (a) paragraph (1)(c) does not apply to that waste, but
+- (b) the operator of the landfill must record the name of the transfer station.
+
+(3) The records under paragraph (1) and (2)(b) must be kept for a period of two years beginning on the day after the day on which the reconciliation period for the scheme year ends.
+
+(4) An operator of a landfill must submit to the monitoring authority, in the form specified by the monitoring authority, a return containing the information in paragraph (1) for each 3 month period in a scheme year ending on 31st March, 30th June, 30th September and 31st December within 2 months of the end of that period.
+
+(5) The monitoring authority, or a person authorised in writing by the monitoring authority, may by notice require an operator of a landfill –
+
+- (a) to produce for inspection, or for removal for inspection elsewhere, records they are required to keep under paragraph (1) and (2)(b); and
+- (b) to do so in such form, at such reasonable place and within such reasonable time as is specified in the notice.
+
+(6) The monitoring authority, or a person authorised by the monitoring authority, may make copies of records produced under paragraph (5).
+
+(7) A person authorised in writing by the monitoring authority may enter at any reasonable time (and, if need be, by force) premises occupied by a person concerned in the operation of a landfill for the purposes of –
+
+- (a) finding records which are required to be kept under paragraph (1) and (2)(b),
+- (b) inspecting them or removing them for inspection elsewhere, and
+- (c) copying them.
+
+(8) On entering any premises under paragraph (7), a person may take with him –
+
+- (a) any other person duly authorised by the monitoring authority;
+- (b) if the authorised person has reasonable cause to apprehend any serious obstruction in the execution of his duty, a constable; and
+- (c) any equipment or materials required for any purpose for which the power of entry is being exercised.
+
+(9) The power of the monitoring authority, or a person authorised by the monitoring authority, under paragraphs (5) to (7) includes power to require any person to afford such facilities and assistance –
+
+- (a) within the person’s control, or
+- (b) in relation to which the person has responsibilities,
+
+as are necessary to enable the monitoring authority or an authorised person to exercise the power.
+
+(10) In this regulation –
+
+- “operator of a landfill” means the person who has control over the operation of the landfill; and
+- “transfer station” means a waste facility where the waste mentioned in paragraph (2) is unloaded only in order to permit the waste to be prepared for further transport for recovery, treatment or disposal elsewhere.
+
+### 12. Determining the amount of biodegradable local authority collected municipal waste in amounts of waste[^key-135e4825b4fe79455d275e7a2752ae93][^key-24603b807f45c66b6bc6a5b259f0671c]
+
+(1) The provisions in this regulation apply for the purposes of –
+
+- (a) determining whether a district council is liable to a penalty under section 9 of the Act;
+- (b) the provisions in –
+  - (i) section 10(2)(a), (b) and (d) of the Act,
+  - (ii) regulation 13.
+
+(2) For the purposes mentioned in paragraph (1) it must be assumed that –
+
+- (a) the amount of biodegradable local authority collected municipal waste[^key-c432da53d5350b955520d7b345d50727] in an amount of local authority collected municipal waste[^key-373746ebbda03925100ce4a8c07b12e4] is 64%[^key-640107fd4ff90ba998ff235107d64ee8] by weight (rounded up to the nearest tonne);
+- (b) an amount of separated local authority collected municipal waste[^key-63c5c5e85c4d7fcb4af645ff2c5ee7ba] is comprised only of those types of waste which it is the purpose of the process of separation to separate; and
+- (c) where an amount of separated local authority collected municipal waste[^key-eb68c5ac18038cca79fdfbb15c4fec77] contains a type of waste which is listed in the first column of the table in the Schedule to these Regulations, the amount of biodegradable local authority collected municipal waste[^key-0db0cd993392a0de41595a45fbc00c1e] by weight in that type of waste is the corresponding amount in the second column of that table (rounded up to the nearest relevant amount).
+
+(3)[^key-a0bdc90ef9eb0fb790295c21c0dbc069] In paragraph (2)—
+
+- “amount of local authority collected municipal waste” means the amount of local authority collected municipal waste for any period of time, but such period must be not less than three months;
+- “nearest relevant amount” means—
+  - (a) the nearest tonne; or
+  - (b) where the amount of biodegradable local authority collected municipal waste referred to in paragraph (2)(c) is—
+    - (i) less than 10 tonnes, the nearest 100 kilograms;
+    - (ii) less than 1 tonne, the nearest 10 kilograms;
+- “separated local authority collected municipal waste” means waste which has been separated from other local authority collected municipal waste, whether the separation occurs before or after the waste has been collected under arrangements made by a district council.
+
+### 13. Calculation of the amount of biodegradable local authority collected municipal waste sent to landfills[^key-28bbc696b7784b89ca160945fc62dd75][^key-80d66d8d441bb6391c6fdfb1c61ef502]
+
+(1) No later than 5 months after the end of a scheme year, in relation to each district council the monitoring authority must –
+
+- (a) calculate, in accordance with paragraphs (2) and (3), the amount of biodegradable local authority collected municipal waste[^key-c46e7b6caf7795212ca007c246d5de66] sent to landfills by the district council during the scheme year;
+- (b) prepare, in accordance with regulation 14(2) and (3), a draft reconciliation for the district council by reconciling the allowances available to the district council for the scheme year with the amount of biodegradable local authority collected municipal waste[^key-660eef1d396181d453f46ffb1bc37475] sent to landfills by the district council as calculated under sub-paragraph (a); and
+- (c) notify the district council of –
+  - (i) the calculation under sub-paragraph (a), and
+  - (ii) the draft reconciliation under sub-paragraph (b).
+
+(2) In making the calculation referred to in paragraph (1)(a) the monitoring authority shall carry out the following steps –
+
+- (a) calculate the amount of biodegradable local authority collected municipal waste[^key-b4888b22516058958e2235ad0ab9038c] by weight in the amount of local authority collected municipal waste[^key-1bab8306051434c8b48fbdc3634dea33] for the scheme year;
+- (b) if any local authority collected municipal waste[^key-31182cae47409fd9472fb6f10b98905f] is sent to any waste facilities, subtract from the amount calculated under sub-paragraph (a) the amount of biodegradable local authority collected municipal waste[^key-6510ee27f4c6f2cab27697091b6322be] by weight which is sent to those waste facilities; and
+- (c) if any of the local authority collected municipal waste[^key-c2f1a09017f68a6312d47d2b367a917d] mentioned in sub-paragraph (b) is sent to landfills after treatment at the waste facilities mentioned in the same paragraph, add to the amount calculated under paragraph (b) the amount of biodegradable local authority collected municipal waste[^key-fa30c8e228e78010d3a9f221b6bcf4d6] by weight which is sent to those landfills.
+
+(3) The monitoring authority must round the amount calculated in accordance with paragraph (2) up to the nearest tonne.
+
+### 14. Utilisation of landfill allowances[^key-7b8448a40b589cd551a99fbbae216844]
+
+(1) As soon as reasonably practicable after the end of the reconciliation period the monitoring authority must reconcile the allowances available to each district council with the amount of biodegradable local authority collected municipal waste[^key-a72c28e2bc9e2d5518215be6dec0e827] sent to landfills by the district council, as calculated under regulation 13(1)(a), by deeming allowances to have been utilised in accordance with paragraphs (2) and (3).
+
+(2) Landfill allowances available to a district council for the scheme year must be utilised in the following order –
+
+- (a) allowances originally allocated to another district council which have been transferred to the landfill allowance account;
+- (b) allowances borrowed from a later scheme year;
+- (c) any other allowances.
+
+(3) Within each category in paragraph (2), allowances must be utilised according to the order of their vintage.
+
+(4) The monitoring authority must deem allowances to have been utilised until –
+
+- (a) the number of allowances deemed to have been utilised is equal to the number of allowances needed to authorise the amount of biodegradable local authority collected municipal waste[^key-712da908272b48d73f3e33ecf9c88382] sent to landfills by the district council, as calculated under regulation 13(1)(a); or
+- (b) no more allowances are available to that district council for the scheme year.
+
+## PART 4 — REGISTERS
+
+### 15. Landfill allowances register[^key-9ba98285a9e28f88b80094ab7fde4954]
+
+(1) The monitoring authority must maintain a landfill allowances register.
+
+(2) In relation to each district council the landfill allowances register must contain –
+
+- (a) a landfill allowance account, and
+- (b) a transaction log.
+
+(3) The landfill allowance account must record for each scheme year –
+
+- (a) the number and reference numbers of allowances allocated to the district council under section 4 of the Act;
+- (b) any alteration of allowances under section 5 of the Act;
+- (c) the number and reference numbers of allowances borrowed or transferred to or from the account;
+- (d) the total number of allowances available to the district council;
+- (e) after the monitoring authority has complied with regulation 13(1) –
+  - (i) the amount of biodegradable local authority collected municipal waste[^key-65516241b5bc74d411c459846ffdc7fc] sent to landfills by the district council,
+  - (ii) the number of landfill allowances needed to authorise the sending to landfills of that amount; and
+- (f) after the monitoring authority has complied with regulation 14 –
+  - (i) the number and reference number of any allowances which have been utilised,
+  - (ii) the number (if any) of landfill allowances which were available for the scheme year and were not utilised, and
+  - (iii) the amount (if any) in tonnes by which biodegradable local authority collected municipal waste[^key-111bf8d2f37ff99246b7ee92049b6078] sent to landfills by the district councils exceeded the landfill allowances available to the district council.
+
+(4) The transaction log must detail the following information in relation to the allocation, borrowing, transfer and withdrawal of landfill allowances –
+
+- (a) the date that the transaction is included in the register;
+- (b) the reference numbers of the landfill allowances allocated, borrowed, transferred or withdrawn;
+- (c) in the case of a transfer the district councils involved; and
+- (d) in the case of any borrowing, the year-
+  - (i) for which the landfill allowances were originally allocated, and
+  - (ii) to which they have been borrowed.
+
+### 16. Penalties register[^key-02eaeb33bbbc87ccd8da48854aaa6364]
+
+The Department must maintain a penalties register which, in relation to each district council, must contain the following information –
+
+- (a) any liability to a penalty under Chapter 1 of the Act;
+- (b) the amount of the penalty;
+- (c) if the Department notifies the district council of that amount under regulation 21(1)(b) –
+  - (i) the date when payment of the penalty is due,
+  - (ii) the amount of any interest incurred under regulation 21(3);
+- (d) confirmation of any decision to –
+  - (i) extend the time for paying the whole or part of the penalty or any interest on it under section 26(1)(c)(i) of the Act;
+  - (ii) relieve the district council, in whole or in part, from liability to the penalty or any interest on it under section 26(1)(c)(ii) of the Act; and
+- (e) the date that any payment in respect of the penalty is made to the Department.
+
+### 17. Amendment of information on registers[^key-9efc88b628395f0c34b7c539b799eabc]
+
+(1) Where a relevant authority has reason to believe that any information on a register maintained by the authority is incorrect, the authority may amend the register so as to correct that information.
+
+(2) Before a relevant authority amends a register under paragraph (1) it must –
+
+- (a) consult any district council which would be affected by the amendment, and
+- (b) have regard to any representations made by a district council.
+
+(3) Where a relevant authority amends a register under paragraph (1) it must notify any district council which is affected by the amendment of the amendment which has been made.
+
+### 18. Availability of registers[^key-3a788488d69740eda31531036c907a9d]
+
+(1) In relation to any register maintained under this Part a relevant authority must –
+
+- (a) make the register available for inspection by members of the public at the principal office of that authority free of charge at all reasonable times; and
+- (b) afford to members of the public, facilities for obtaining copies of entries in the register on payment of a reasonable charge.
+
+## PART 5 — PENALTIES
+
+### 19. Penalties: exceeding allowances[^key-437cac7b99dfbf8c00c04e9c05f343df]
+
+(1) The penalty to which a district council is liable under section 9(2) of the Act is the excess landfill for that district council multiplied by £150[^key-47aa87a86b69ada37a319facaf4a52f1].
+
+(2) For the purposes of paragraph (1) “excess landfill” means, for a scheme year, the amount in tonnes by which biodegradable local authority collected municipal waste[^key-801fa63697ec4a133464d451bf64ac66] sent to landfills by the district council, as calculated under regulation 13(1)(a), exceeds the landfill allowances available to the district council.
+
+(3) The supplementary penalty (“SP”) to which a district council is liable under section 9(3) of the Act must be calculated according to the following formula –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2004/416)
+
+where for the target year –
+
+- F is the amount of any fine imposed on the United Kingdom in respect of the United Kingdom’s obligations under Article 5(2) of Council Directive 99/31/EC on the landfill of waste[^key-2e61ebb716453b2af0adc95e386e2e47] as last amended by Directive (EU) 2018/850[^key-ff949ba53258b60066f545f93e978688],
+- T1 is the amount in tonnes by which biodegradable local authority collected municipal waste[^key-8c94047f2a558b847eb2dc28be23a11c] sent to landfills by the district council, as calculated under regulation 13(1)(a), exceeds the landfill allowances available to the district council, and
+- T2 is the amount in tonnes by which biodegradable local authority collected municipal waste sent to landfills in the United Kingdom exceeds the maximum amount specified under section 1(1)(a) of the Act.
+
+(4) The supplementary penalty (“SP”) to which a district council is liable under section 9(4) of the Act must be calculated according to the following formula –
+
+[formula: see source](https://www.legislation.gov.uk/nisr/2004/416)
+
+where –
+
+- F is, for the scheme year, the amount of any fine imposed on the United Kingdom in respect of the United Kingdom’s obligations under Article 5(2) of Council Directive 99/31/EC on the landfill of waste[^key-b32a038e32c93262ef414966c7b5702c] as last amended by Directive (EU) 2018/850[^key-ef5a6c48d2c461ed8a1668749f5bb146],
+- T1 is, for the scheme year, the amount in tonnes by which biodegradable local authority collected municipal waste[^key-d954511c78f6c2dc0a94dcba42970770] sent to landfills by the district council, as calculated under regulation 13(1)(a), exceeds the landfill allowances available to the district council, and
+- T2 is the amount in tonnes by which biodegradable local authority collected municipal waste sent to landfills in the United Kingdom in the scheme year exceeds the maximum amount specified under section 1(1)(a) of the Act in respect of the last target year before the scheme year.
+
+### 20. Penalties: failure to comply with requirements imposed by regulation 10 of these Regulations[^key-b5f654b1fa8c066ad7d3a04284a04cbd]
+
+(1) The penalty to which a district council is liable under section 12(3) of the Act is £1000 for each requirement imposed on the district council by regulation 10 with which the district council fails to comply.
+
+### 21. Penalties: general[^key-d1f0c903e672798d7c796b2fd69d8732]
+
+(1) Where a district council is liable to a penalty, the Department may –
+
+- (a) assess the amount of the penalty, and
+- (b) notify the district council[^key-68576521bd89d862b38288c602e2ccc4] of that amount.
+
+(2) The penalty is due one month after the date on which the district council is notified by the Department under paragraph (1)(b) (“the due date”).
+
+(3) Where a district council does not pay a penalty in full by the due date, the district council is liable to pay interest on any outstanding amount of the penalty for the period which –
+
+- (a) begins on the due date; and
+- (b) ends on the day before the day on which the penalty is paid in full.
+
+(4) Interest under this regulation shall be payable at a rate of one percentage point above LIBOR on a day to day basis.
+
+(5) Where an amount has been assessed and notified to a district council under paragraph (1), the amount and any interest incurred under paragraph (3) shall be recoverable as if it were a civil debt.
+
+(6) In paragraph (4), “LIBOR” means the sterling three month London interbank offered rate in force during the period between –
+
+- (a) the due date, and
+- (b) the date on which the penalty is paid in full.
+
+## PART 6 — GUIDANCE
+
+### 22. Guidance to district councils[^key-ad841d9beee50af3f454f4bdb5898683]
+
+A district council, in exercising functions in relation to waste that is or contains biodegradable local authority collected municipal waste[^key-1feb0fd5dbf38283fb5a202347d8aad9], must have regard to any guidance issued by the Department under this regulation.
+
+Sealed with the Official Seal of the Department of the Environment on 29th September 2004.
+
+Ian Maye
+
+A senior officer of the
+
+Department of the Environment
+
+## SCHEDULE — Amount of biodegradable local authority collected municipal waste in certain types of waste[^key-c3e9a5cebdbb4691330b0b3f407aab1b][^key-92965d48a1fe9051b1fdab35f52bfe89]
+
+Regulation 12(2)(c)
+
+[^key-c3e9a5cebdbb4691330b0b3f407aab1b]
+
+In this Schedule –
+
+- “inert construction and demolition waste” –
+  - (a) means any waste from construction or demolition activities which is not capable of undergoing anaerobic or aerobic decomposition, but
+  - (b) does not include any of the other types of waste which are listed in the first column of the table in this Schedule; and
+- “putrescible waste” –
+  - (a) means any animal or vegetable waste (including wood) which is capable of undergoing anaerobic or aerobic decomposition, but
+  - (b) does not include any of the other types of waste which are listed in the first column of the table in this Schedule.
+
+    **Table**
+
+    | Type of waste | Amount of biodegradable local authority collected municipal waste[^key-210d89cf8f98ebc91702355a86845c48] (expressed as a percentage by weight) |
+    | --- | --- |
+    | Card | 100% |
+    | Paper | 100% |
+    | Putrescible waste | 100% |
+    | Vegetable oil | 100% |
+    | Footwear | 50% |
+    | Furniture | 50% |
+    | Textiles | 50% |
+    | Batteries | 0% |
+    | Electrical and electronic equipment | 0% |
+    | End-of-life vehicles | 0% |
+    | Fluorescent tubes | 0% |
+    | Glass | 0% |
+    | Inert construction and demolition waste | 0% |
+    | Metal | 0% |
+    | Mineral oil | 0% |
+    | Plastic | 0% |
+    | Soil | 0% |
+
+(This note is not part of the Order.)
+
+These Regulations are made under the Waste and Emissions Trading Act 2003 (“the Act”) for the purpose of implementing Articles 5(1) and (2) of Council Directive [99/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste in Northern Ireland. They make provision for implementing Part 1 of the Act (waste sent to landfills) including the landfill allowances scheme under that Part. The Regulations come into operation on 1st April 2005.
+
+Part 1 sets out the general provisions. Regulation 1 concerns the citation, commencement and application of the Regulations and Regulation 2 deals with interpretation. Regulation 3 is concerned with the giving and submission of various documents and provision is made for electronic communications and the use of websites. Regulation 4 also enables the use of electronic registers and the provision of electronic forms.
+
+Part 2 includes provisions on the allocation, borrowing and transfer of landfill allowances. After the Department of the Environment (“the Department”) has made an allocation of landfill allowances under section 4 of the Act, Regulation 5 requires the monitoring authority to assign reference numbers to those allowances and to allocate them to the landfill accounts of district councils.
+
+Regulations 6 and 7 concern the borrowing and transfer of landfill allowances. Under regulations 6 and 7, requests must be submitted to the monitoring authority before landfill allowances can be borrowed or transferred. Provided the relevant conditions in regulations 7(8) and 8(8) are satisfied these requests will be accepted. Regulation 8 enables the Department to suspend district councils from borrowing and transferring landfill allowances in the circumstances in Regulation 8(1) and (2).
+
+Part 3 concerns the monitoring of the landfill allowances scheme. Regulation 9 provides that the person for the time being holding the position of head of Waste Management and Contaminated Land of the Environment and Heritage Service of the Department is the monitoring authority for Northern Ireland, and consequently that authority is subject to the duties in section 10(2) of the Act. Regulation 13 requires the monitoring authority to calculate how much biodegradable municipal waste is sent to landfill by each district council in a scheme year, and regulation 14 requires the monitoring authority to reconcile this amount with the district council’s allowances for that year. Assumptions about the amount of biodegradable waste in amounts of waste apply in relation to specified functions of the monitoring authority (regulation 12 and the Schedule to the Regulations).
+
+Regulations 10 and 11 impose obligations on district councils and landfill operators to keep specified records and make specified returns to the monitoring authority. The information in the returns is necessary to enable the monitoring authority to carry out his functions under the Act and the Regulations.
+
+Part 4 contains provisions on registers. The monitoring authority must maintain a landfill allowances register (regulation 15), and the Department must maintain a penalties register (regulation 16). Under regulation 18 these registers must be made available for inspection by members of the public, who may also obtain copies of any entries on payment of a reasonable charge. Regulation 17 enables the monitoring authority and the Department to amend incorrect information on a register.
+
+Part 5 contains provisions on penalties. Regulations 19 and 20 specify how penalties under sections 9 (failure to comply with duty not to exceed allowances) and 12(3) (failure to comply with requirements imposed under regulation 10 of these Regulations) of the Act are calculated. Regulation 21 makes provision for when penalties are due and for interest in the event of late payment.
+
+Part 6 concerns guidance. Regulation 22 requires district councils to have regard to any guidance issued by the Department in exercising functions in relation to biodegradable municipal waste.
+
+A transposition note setting out how the Department will transpose Articles 5(1) and (2) of the Landfill Directive into law in relation to Northern Ireland has been prepared and copies can be obtained from The Landfill Team, Environmental Protection Division, Environmental Policy Group, Department of the Environment, 20-24 Donegall Street, Belfast, BT1 2GP. A copy has been placed in the library of each House of Parliament and of the Northern Ireland Assembly.
+
+A full regulatory impact assessment of the effect that this statutory rule will have on the costs of business has been prepared for these Regulations. Copies can be obtained from the Landfill Team, Environmental Protection Division, Environmental Policy Group, Department of the Environment, 20-24 Donegall Street, Belfast, BT1 2GP. A copy has been placed in the library of each House of Parliament and of the Northern Ireland Assembly.
+
+## Annotations
+
+[^f00002]: Footnote: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). The relevant powers in sections 6, 7, 10 to 13, 15, 16 and 26 are expressed to be exercisable by the allocating authority. Section 24(1) provides that the allocating authority for Northern Ireland is the Department of the Environment
+
+[^key-c565e71e24b2a77042a831a15cb045bb]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2004/416) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+
+[^key-0def4df490886f947fac2200d1b94b75]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/416/regulation/1) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-7c54f81c6ae5fe02ba4a0295953787cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/416/regulation/2) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-c0379572f455cc447ea5d6a6ac68d5bc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/2/2) omitted (22.11.2011) by virtue of [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/2)
+
+[^key-402ad99edda26b86a4690b0cb6037418]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/2/2) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/5/2/a)
+
+[^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7)
+
+[^key-66f91854b54735e3b19d45338a56c7da]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/2/2) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/5/2/b)
+
+[^key-e8dac908c32c7381b8ec5c43c7f07266]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/416/regulation/2) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [44(2)(c)](https://www.legislation.gov.uk/nisr/2011/127/regulation/44/2/c) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+
+[^key-50f8f30f6aed8d4f9e72a111d17bd277]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/2/2) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/9/b)
+
+[^key-edb8a3670f8fd9e4ddbe235b2bdfab3b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/2/2) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/6/2/b)
+
+[^key-34c6732245c715e1548dba2ebfce2847]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/416/regulation/3) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-731f49dcf8371fdfc9c9bf306a460b0c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/416/regulation/4) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-c67d0743bbf9f8e3615a68071fa9c9a2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/416/regulation/5) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-1491b1fc345fdedca28f8e67e3231672]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/416/regulation/6) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-e0e257c98083d4001eb6c2ed402e820a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/416/regulation/7) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-859ccee7da2d9b1c2a558b2e49465775]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/416/regulation/8) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-b007b59260dd9ce15bfb6641cd17875b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/416/regulation/9) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-99ee15bed9cd7139ddf373eddac80ee1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/416/regulation/10) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-d89b4a6692c3926b617a12a21183bcbc]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/10/1/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/3/a)
+
+[^key-2e05179791945ccbb764f1185087c070]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/10/1/b) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/4/a)
+
+[^key-0da7117e01e88a8690d7f6e4408f45fb]: Textual amendment: Words in [reg. 10(1)(c)](https://www.legislation.gov.uk/nisr/2004/416/regulation/10/1/c) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/4/a)
+
+[^key-8981a6a98d4d200522514b46e2ab117e]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/10/2) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/4/a)
+
+[^key-b3a9b85575c63a68037efed2623fa52e]: Textual amendment: Words in [reg. 10(6)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/10/6/b) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/a)
+
+[^key-d653e21078117025ea9bdfc801b3396d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/416/regulation/11) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-135e4825b4fe79455d275e7a2752ae93]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/416/regulation/12) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-24603b807f45c66b6bc6a5b259f0671c]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/nisr/2004/416/regulation/12) heading substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/b)
+
+[^key-c432da53d5350b955520d7b345d50727]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/2/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/c)
+
+[^key-373746ebbda03925100ce4a8c07b12e4]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/2/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/3/b)
+
+[^key-640107fd4ff90ba998ff235107d64ee8]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/2/a) substituted (1.4.2009) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/46)](https://www.legislation.gov.uk/nisr/2009/46), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/46/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2009/46/regulation/2)
+
+[^key-63c5c5e85c4d7fcb4af645ff2c5ee7ba]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/2/b) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/6)
+
+[^key-eb68c5ac18038cca79fdfbb15c4fec77]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/2/c) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/6)
+
+[^key-0db0cd993392a0de41595a45fbc00c1e]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/2/c) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/c)
+
+[^key-a0bdc90ef9eb0fb790295c21c0dbc069]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2004/416/regulation/12/3) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/7)
+
+[^key-28bbc696b7784b89ca160945fc62dd75]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2004/416/regulation/13) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-80d66d8d441bb6391c6fdfb1c61ef502]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2004/416/regulation/13) heading substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/d)
+
+[^key-c46e7b6caf7795212ca007c246d5de66]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/1/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/e)
+
+[^key-660eef1d396181d453f46ffb1bc37475]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/1/b) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/e)
+
+[^key-b4888b22516058958e2235ad0ab9038c]: Textual amendment: Words in [reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/2/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/e)
+
+[^key-1bab8306051434c8b48fbdc3634dea33]: Textual amendment: Words in [reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/2/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/3/c)
+
+[^key-31182cae47409fd9472fb6f10b98905f]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/2/b) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/4/b)
+
+[^key-6510ee27f4c6f2cab27697091b6322be]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/2/b) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/e)
+
+[^key-c2f1a09017f68a6312d47d2b367a917d]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/2/c) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/4/b)
+
+[^key-fa30c8e228e78010d3a9f221b6bcf4d6]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/nisr/2004/416/regulation/13/2/c) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/e)
+
+[^key-7b8448a40b589cd551a99fbbae216844]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/416/regulation/14) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-a72c28e2bc9e2d5518215be6dec0e827]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/14/1) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(f)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/f)
+
+[^key-712da908272b48d73f3e33ecf9c88382]: Textual amendment: Words in [reg. 14(4)(a)](https://www.legislation.gov.uk/nisr/2004/416/regulation/14/4/a) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(f)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/f)
+
+[^key-9ba98285a9e28f88b80094ab7fde4954]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/416/regulation/15) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-65516241b5bc74d411c459846ffdc7fc]: Textual amendment: Words in [reg. 15(3)(e)(i)](https://www.legislation.gov.uk/nisr/2004/416/regulation/15/3/e/i) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(g)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/g)
+
+[^key-111bf8d2f37ff99246b7ee92049b6078]: Textual amendment: Words in [reg. 15(3)(f)(iii)](https://www.legislation.gov.uk/nisr/2004/416/regulation/15/3/f/iii) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/8)
+
+[^key-02eaeb33bbbc87ccd8da48854aaa6364]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2004/416/regulation/16) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-9efc88b628395f0c34b7c539b799eabc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/416/regulation/17) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-3a788488d69740eda31531036c907a9d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/416/regulation/18) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-437cac7b99dfbf8c00c04e9c05f343df]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/416/regulation/19) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-47aa87a86b69ada37a319facaf4a52f1]: Textual amendment: Sum in [reg. 19(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/1) substituted (1.3.2006) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/588)](https://www.legislation.gov.uk/nisr/2005/588), [regs. 1](https://www.legislation.gov.uk/nisr/2005/588/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2005/588/regulation/3/2/a)
+
+[^key-801fa63697ec4a133464d451bf64ac66]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/2) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(h)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/h)
+
+[^key-2e61ebb716453b2af0adc95e386e2e47]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/3) added (1.3.2006) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/588)](https://www.legislation.gov.uk/nisr/2005/588), [regs. 1](https://www.legislation.gov.uk/nisr/2005/588/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2005/588/regulation/3/2/b)
+
+[^key-ff949ba53258b60066f545f93e978688]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/3) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/6/3/a)
+
+[^key-8c94047f2a558b847eb2dc28be23a11c]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/3) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(h)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/h)
+
+[^key-b32a038e32c93262ef414966c7b5702c]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/4) added (1.3.2006) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/588)](https://www.legislation.gov.uk/nisr/2005/588), [regs. 1](https://www.legislation.gov.uk/nisr/2005/588/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2005/588/regulation/3/2/c)
+
+[^key-ef5a6c48d2c461ed8a1668749f5bb146]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/4) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/6/3/b)
+
+[^key-d954511c78f6c2dc0a94dcba42970770]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2004/416/regulation/19/4) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(h)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/h)
+
+[^key-b5f654b1fa8c066ad7d3a04284a04cbd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/416/regulation/20) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-d1f0c903e672798d7c796b2fd69d8732]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/416/regulation/21) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-68576521bd89d862b38288c602e2ccc4]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2004/416/regulation/21/1/b) substituted (1.3.2006) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/588)](https://www.legislation.gov.uk/nisr/2005/588), [regs. 1](https://www.legislation.gov.uk/nisr/2005/588/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2005/588/regulation/3/3)
+
+[^key-ad841d9beee50af3f454f4bdb5898683]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/416/regulation/22) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-1feb0fd5dbf38283fb5a202347d8aad9]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/nisr/2004/416/regulation/22) substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(i)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/i)
+
+[^key-c3e9a5cebdbb4691330b0b3f407aab1b]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2004/416/schedule) in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/416/regulation/1/1)
+
+[^key-92965d48a1fe9051b1fdab35f52bfe89]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/416/schedule) heading substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(j)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/j)
+
+[^key-210d89cf8f98ebc91702355a86845c48]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2004/416/schedule) Table substituted (22.11.2011) by [The Landfill Allowances Scheme (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/373)](https://www.legislation.gov.uk/nisr/2011/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/373/regulation/1/1), [2(5)(k)](https://www.legislation.gov.uk/nisr/2011/373/regulation/2/5/k)

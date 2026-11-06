@@ -1,0 +1,104 @@
+---
+title: The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011
+id: nisr/2011/226
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-06-17'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/226
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/226/pdfs/nisrem_20110226_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/226/pdfs/nisr_20110226_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/226/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 226
+
+Family Law
+
+Child Support
+
+The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011
+
+Made
+
+17th June 2011
+
+Coming into operation
+
+4th July 2011
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 18(1), 19(3) and (5), 47(1), and 48(4) of, and paragraph 11(1) of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002].
+
+## 1. Citation and commencement[^key-892130100ff3d40368d9ec5a61c4aa9f]
+
+These Regulations may be cited as the Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 and shall come into operation on 4th July 2011.
+
+## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-5445c2a9ef0ed76b4cebe18d5a3219ef][^key-a2ecf13d4173b4bea46bf00b7bf256a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-5445c2a9ef0ed76b4cebe18d5a3219ef][^key-24456522eef9327774be8c7ff48daf83]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Revocations[^key-a12848640f3a7a109c051b01e64c4e6c]
+
+The following provisions are hereby revoked—
+
+- (a) regulation 4(3) and (5)(b) of the Social Security and Child Support (Miscellaneous Amendments) Regulations 2000[^f00019]; and
+- (b) regulation 6(4)(b)(i) of the Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009[^f00020].
+
+Sealed with the Official Seal of the Department for Social Development on 17th June 2011
+
+(L.S.)
+
+Heather Cousins
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 (“Maintenance Assessment Procedure Regulations”) and the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (“the Decisions and Appeals Regulations”).
+
+Regulation 2 amends the Maintenance Assessment Procedure Regulations. This regulation substitutes regulation 16(6) of those Regulations to limit the disapplication of paragraph (1) to a material change of circumstances. Regulation 20 of those Regulations is amended in the same manner as regulation 6B of the Decisions and Appeals Regulations. Regulation 22 is amended to substitute a new effective date for paragraph (2) (absent parent and parent with care on or off benefit), substitutes paragraph (19) of that regulation with an effective date which applies to relevant other children as well as qualifying children, inserts a new effective date into that regulation for the purposes of decisions made to which paragraph 15 of Part II of Schedule 1 of the Child Support (Northern Ireland) Order 1991 (“the Order”) applies, makes provision which supplements the substituted effective date in paragraph (2) and inserts a definition for the purposes of new paragraph (19) of regulation 22.
+
+Regulation 3 amends the Decisions and Appeals Regulations. This regulation inserts a new definition into regulation 1(2) of those Regulations and provides that regulation 6B of those Regulations does not apply where a decision is made to which paragraph 15 of Part II of Schedule 1 to the Order applies, prescribes two new categories of case to which the effective date in paragraph 3 of Schedule 2D to those Regulations applies (one for relevant other children and the other for the non-resident parent or partner on or off benefit), inserts a new paragraph 3A in Schedule 2D which supplements the new on or off benefit category of case in paragraph 3, consequentially omits paragraph 4 and makes a minor amendment to paragraph 8 of that Schedule.
+
+Regulation 4 makes consequential revocations.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and paragraph (1) is amended by section 8(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)); Article 19 was substituted by Article 41 of the Social Security (Northern Ireland) Order 1998; paragraph 11(1) of Part II of Schedule 1 is amended by section 1(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-892130100ff3d40368d9ec5a61c4aa9f]: Commencement: Reg. 1 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+
+[^key-5445c2a9ef0ed76b4cebe18d5a3219ef]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/226) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-a2ecf13d4173b4bea46bf00b7bf256a2]: Commencement: Reg. 2 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+
+[^key-24456522eef9327774be8c7ff48daf83]: Commencement: Reg. 3 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+
+[^key-a12848640f3a7a109c051b01e64c4e6c]: Commencement: Reg. 4 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+
+[^f00019]: Footnote: [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
+
+[^f00020]: Footnote: [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133)

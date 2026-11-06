@@ -1,0 +1,58 @@
+---
+title: The Family Proceedings Rules (Northern Ireland) 1996, section 2.26
+act: The Family Proceedings Rules (Northern Ireland) 1996
+section: '2.26'
+status: revised
+text_date: '2022-11-28'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/322/section/2.26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Proceedings Rules (Northern Ireland) 1996, section 2.26
+
+> Text as at 2022-11-28.
+>
+> Extent: Northern Ireland.
+
+## 2.26. Medical examination in proceedings for nullity \[of marriage\][^f00111]
+
+*Extent: N.I.*
+
+(1) In proceedings for nullity on the grounds of incapacity to consummate the marriage the petitioner may apply to the Master to determine whether medical inspectors should be appointed to examine the parties.
+
+(2) An application under paragraph (1) shall not be made in an undefended cause—
+
+- (a) if the husband is the petitioner, or
+- (b) if the wife is the petitioner and—
+  - (i) it appears from the petition that she was either a widow or divorced at the time of marriage in question, or
+  - (ii) it appears from the petition or otherwise that she has borne a child, or
+  - (iii) a statement by the wife that she is not a virgin is filed,
+
+unless, in any such case, the petitioner is alleging his or her own incapacity.
+
+(3) References in paragraph (1) and (2) to the petitioner shall, where the cause is proceeding only on the respondent’s answer or where the allegation of incapacity is made only in the respondent’s answer, be construed as references to the respondent.
+
+(4) An application under paragraph (1) by the petitioner shall be made—
+
+- (a) where the respondent has not given notice of intention to defend, after the time limited for giving notice of intention to defend has expired;
+- (b) where the respondent has given notice of intention to defend, after the expiration of the time allowed for filing his answer or, if he has filed an answer, after it has been filed;
+
+and any application under paragraph (1) by the respondent shall be made after he has filed an answer.
+
+(5) Where the party required to make an application under paragraph (1) fails to do so within a reasonable time, the other party may, if he is prosecuting or defending the cause, make the application.
+
+(6) In proceedings for nullity on the ground that the marriage has not been consummated owing to the wilful refusal of the respondent, either party may apply to the Master for the appointment of medical inspectors to examine the parties.
+
+(7) If the respondent has not given notice of intention to defend, an application by the petitioner under paragraph (1) or (6) may be made ex parte.
+
+(8) If the Master hearing an application under paragraph (1) or (6) considers it expedient to do so, he shall appoint a medical inspector or, if he thinks it necessary, two medical inspectors to examine the parties and report to the court the result of the examination.
+
+(9) At the hearing of any such proceedings as are referred to in paragraph (1) the court may, if it thinks fit, appoint a medical inspector or two medical inspectors to examine any party who has not been examined or to examine further any party who has been examined.
+
+(10) The party on whose application an order under paragraph (8) is made or who has the conduct of proceedings in which an order under paragraph (9) has been made for the examination of the other party, shall serve on the other party notice of the time and place appointed for his or her examination.
+
+## Annotations
+
+[^f00111]: Footnote: Words inserted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05

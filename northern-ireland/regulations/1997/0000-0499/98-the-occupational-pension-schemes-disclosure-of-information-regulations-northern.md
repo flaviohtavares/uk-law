@@ -1,0 +1,809 @@
+---
+title: The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997
+id: nisr/1997/98
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-02-24'
+text_date: '1997-02-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/98
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/98/data.pdf
+pending_changes: 232
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (232).** Text as at 1997-02-24. See https://www.legislation.gov.uk/changes/affected/nisr/1997/98
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1997 No. 98
+
+PENSIONS
+
+The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997
+
+Made
+
+24th February 1997
+
+Coming into operation
+
+6th April 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 109, 164(1) and (4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 10(3), 41(1) and (6) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-bcbf49f6c76840330236aa3d34b4d593]
+
+(1)  These Regulations may be cited as the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
+
+(2)  In these Regulations—
+
+- “accrued rights” has the meaning given by Article 121(2);
+- “the Act” means the Pension Schemes (Northern Ireland) Act 1993;
+- “active member” has the meaning given by Article 121(1);
+- “the actuary” has the meaning given by Article 47(1)(*b*);
+- “the auditor” has the meaning given by Article 47(1)(*a*);
+- “beneficiary”, in relation to a scheme, means a person, other than a member of the scheme, who is entitled to the payment of benefits under the scheme;
+- “deferred member” has the meaning given by Article 121(1);
+- “employer”, in relation to a member or prospective member of a scheme, means—
+  - (a) in the case of an employed earner, the secondary contributor (within the meaning of section 7 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00003]) in relation to any payment of earnings in respect of the employment concerned; and
+  - (b) in the case of a self-employed earner, any other person, government department or public authority who has made, or is to make, payments to the scheme in respect of the earner;
+- “enactment” has the meaning given by Article 2(2);
+- “excluded person” means a deferred member whose present address is not known to the trustees and in respect of whom correspondence sent by the trustees to his last address known to the trustees has been returned;
+- “funded”, in relation to benefits under a scheme, means provided by setting aside resources (other than assets at the disposal of the employer of any person who is employed in relevant employment) in advance which are related to the intended rate or amount of the benefits;
+- “independent person” has the meaning given by Article 23(3);
+- “independent trade union” has the meaning given by Article 2(3) of the Employment Rights (Northern Ireland) Order 1996[^f00004];
+- “managers” has the meaning given by Article 121(1);
+- “member” has the meaning given by Article 121(1);
+- “money purchase benefits” means benefits the rate or amount of which are calculated by reference to a payment or payments made by the member, or by any other person in respect of the member, and which are not average salary benefits;
+- “money purchase scheme” means a pension scheme under which all the benefits that may be provided are money purchase benefits;
+- “multi-employer scheme” means a scheme in relation to which there is more than one employer, which is divided into 2 or more sections and the provisions of which are such that—
+  - (a) different sections of the scheme apply to different employers or groups of employers (whether or not more than one section applies to any particular employer or groups including any particular employer);
+  - (b) contributions payable to the scheme by an employer, or by a member in employment under that employer, are allocated to that employer’s section (or, if more than one section applies to the employer, to the section which is appropriate in respect of the employment in question); and
+  - (c) a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section;
+- “the Order” means the Pensions (Northern Ireland) Order 1995;
+- “pensionable service” has the meaning given by Article 121(1);
+- “pensioner member” has the meaning given by Article 121(1);
+- “professional advisers” has the meaning given by Article 47;
+- “prospective member” means any person who, under the terms of his contract of service and the scheme rules—
+  - (a) is able, at his own option, to become a member of the scheme;
+  - (b) will become so able if he continues in the same employment for a sufficiently long period;
+  - (c) will be admitted to it automatically unless he makes an election not to become a member; or
+  - (d) may be admitted to it subject to the consent of his employer;
+- “Regulatory Authority” means the Occupational Pensions Regulatory Authority;
+- “relevant employment” means any employment to which the scheme relates;
+- “request” means a request in writing;
+- “scheme” means an occupational pension scheme;
+- “scheme year”, in relation to a scheme, means—
+  - (a) a year specified for the purposes of the scheme in any document comprising the scheme or, if none is so specified, a period of 12 months commencing on 1st April or on such other date as the trustees select; or
+  - (b) such other period (if any) exceeding 6 months but not exceeding 18 months as is selected by the trustees—
+    - (i) in connection with the commencement or termination of the scheme; or
+    - (ii) in connection with a variation of the date on which the year or period referred to in paragraph (*a*) is to commence;
+- “simplified defined contribution scheme” means a scheme approved by the Commissioners of Inland Revenue under section 591 of the Income and Corporation Taxes Act 1988[^f00005] and which provides benefits which are limited by reference to—
+  - (a) the aggregate amount of the contributions which can be paid by a member and his employer; and
+  - (b) the maximum lump sum retirement benefit which can be provided under the scheme;
+- “tax-approved scheme” means a scheme which is—
+  - (a) approved by the Commissioners of Inland Revenue for the purposes of section 590 or 591 of the Income and Corporation Taxes Act 1988; or
+  - (b) a relevant statutory scheme as defined in section 611A of that Act[^f00006];
+- “trustees”, in relation to a scheme which is not set up or established under a trust, means the managers of the scheme, except in relation to a scheme established outside the United Kingdom, and in such a case “trustees” means the person or body treated by the Commissioners of Inland Revenue for the time being as the administrator of the scheme for the purposes of Chapter I of Part XIV of the Income and Corporation Taxes Act 1988;
+- “wholly insured scheme” means a scheme under which all the benefits provided are secured by a policy or policies of insurance or an annuity contract or contracts,
+
+and other expressions have the same meaning as in the Act.
+
+(3) In these Regulations any reference—
+
+- (a) to a numbered Article is a reference to the Article of the Order bearing that number; and
+- (b) to a numbered section is a reference to the section of the Act bearing that number.
+
+(4) Subject to paragraph (5), the Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+(5) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+## 2. Application of these Regulations[^key-e57048426fe78c9414a2e41630d37543]
+
+(1) Subject to paragraphs (2) and (3), and regulations 6(2), 7(2) and 8, these Regulations apply in relation to a scheme which—
+
+- (a) is, or was formerly, a tax-approved scheme (or in respect of which an application for tax approval has been made which has not been determined); or
+- (b) is a public service pension scheme.
+
+(2) These Regulations do not apply to a scheme—
+
+- (a) whose members are fewer than 2;
+- (b) which provides benefits only in the event of the death of a person who is, immediately before his death, employed in relevant employment; or
+- (c) unless—
+  - (i) it is established in the United Kingdom; or
+  - (ii) it has one or more trustees resident in the United Kingdom.
+
+(3) Regulations 3 to 7 shall not apply to a scheme established by the Salvation Army Act 1963[^f00008].
+
+(4) These Regulations do not impose on the trustees of a scheme any duty in relation to—
+
+- (a) any member or prospective member if no person who employs him in relevant employment has informed the trustees that he is a member or prospective member;
+- (b) an independent trade union recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme if no person who employs any such member or prospective member in relevant employment has informed the trustees that the trade union is so recognised; or
+- (c) any member where all members are trustees.
+
+## 3. Constitution of scheme[^key-93f785338b1d9dd4808ac24337c3a7c7]
+
+(1) Subject to paragraph (5), the trustees of a scheme shall make provision, in the manner specified in paragraph (2), for the disclosure, to persons and trade unions in the categories specified in paragraph (3), of—
+
+- (a) the contents—
+  - (i) of the trust deed constituting the scheme, if it is constituted by such a deed; or
+  - (ii) of any document constituting the scheme, if it is not constituted by a trust deed,
+
+  and, if the rules of the scheme are not set out in a trust deed or other document the contents of which fall to be disclosed under head (i) or (ii), the contents of the rules;
+- (b) the contents of any document which amends or supplements or wholly or partly supersedes a document the contents of which fall to be disclosed under sub-paragraph (*a*) or this sub-paragraph; and
+- (c) if the name and address of every person who employs any member of the scheme in relevant employment is not set out in any trust deed or other document the contents of which fall to be disclosed under sub-paragraph (*a*) or (*b*), the contents of a document setting out the name and address of every such person.
+
+(2) A copy of any such document as is mentioned in paragraph (1), shall, within 2 months of a request being made by a person or a trade union in the categories specified in paragraph (3)—
+
+- (a) be made available free of charge for inspection at a place which is reasonable having regard to the circumstances of the request and of the person who or trade union which made it; or, at their option,
+- (b) be furnished to such person or trade union, and where a charge is levied it shall not exceed the expense incurred in copying, posting and packing such copy, so however that in the case of a document copies of which are publicly available, the trustees may, instead of furnishing a copy, advise the person who or trade union which has requested it where copies may be obtained.
+
+(3) The categories of persons and trade unions mentioned in paragraphs (1) and (2) are—
+
+- (a) members and prospective members of the scheme;
+- (b) spouses of members and of prospective members of the scheme;
+- (c) beneficiaries under the scheme;
+- (d) independent trade unions recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme.
+
+(4) Any document of which disclosure is required by paragraph (1) which is not in the English language shall be accompanied by a translation in that language.
+
+(5) Nothing in this regulation shall require the disclosure of any matter in relation to a member, beneficiary or prospective member that is not relevant to that person’s rights or prospective rights under the scheme, or, where disclosure is made to a trade union, of any matter which is not relevant to the rights or prospective rights of members or prospective members who are of a class of employee in relation to which the trade union is a recognised trade union for the purposes of collective bargaining.
+
+(6) Where any provision of an enactment has been set out in a document which is required to be disclosed by paragraph (1), or has been incorporated in such a document by reference, that provision shall be disclosed either—
+
+- (a) by giving a reference to it and the enactment in which it is contained; or
+- (b) by setting out its text.
+
+## 4. Basic information about the scheme[^key-16788d2fbe647cb2e3875743323a1755]
+
+(1) Subject to paragraph (4), the trustees of a scheme shall furnish in writing the information specified in Schedule 1 to persons and trade unions in the categories specified in paragraphs (2) and (3).
+
+(2) The information specified in Schedule 1 shall be given as of course, where practicable, to every prospective member and where it has not been practicable so to do, such information shall be given to a person within 2 months of his becoming a member of the scheme, and to the extent that any information so specified has not previously been given to a person who was a member of the scheme on 5th April 1997, such information shall be given to that person by 5th April 1998.
+
+(3) The information specified in Schedule 1 shall be given to—
+
+- (a) any member or prospective member of, or beneficiary under, the scheme;
+- (b) the spouse of any member or prospective member; or
+- (c) any independent trade union recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme,
+
+on request (except where the same information was furnished to that person or trade union in the 12 months prior to the request being made), as soon as practicable and in any event within 2 months of the request being made.
+
+(4) Where different information is applicable to different members, prospective members and beneficiaries, nothing in this regulation shall be construed as requiring the trustees to disclose information in relation to a member, prospective member or beneficiary that is not relevant to that person’s rights or prospective rights under the scheme, or, where disclosure is made to a trade union, of any matter which is not relevant to the rights or prospective rights of members or prospective members who are of a class of employee in relation to which the trade union is a recognised trade union for the purposes of collective bargaining.
+
+(5) The trustees shall notify all members and beneficiaries (except excluded persons) of any change in relation to the scheme which will result in a material alteration in the information referred to in paragraphs 1 to 25 and 29 of Schedule 1, before that change takes effect, where it is practicable so to do, and in any event not later than 3 months after that change has taken effect.
+
+(6) When any information specified in Schedule 1 is provided, it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
+
+## 5. Information to be made available to individuals[^key-08c732b1429e8af89d67c1bbe2fddb8e]
+
+(1) The trustees of a scheme shall furnish in writing the information specified in Schedule 2 to the persons, and in the circumstances, specified in paragraphs (2) to (12).
+
+(2) Where benefit under the scheme has become, or is about to become, payable to a person, the information mentioned in paragraphs 1 to 3 and 11 of Schedule 2 shall be furnished to that person, as of course, before or within one month of the date on which benefit becomes payable, or within 2 months after such date where that person is retiring before normal pension age.
+
+(3) Where the amount of benefit payable to a person is or is about to be altered otherwise than in accordance with a provision such as is mentioned in paragraph 3 of Schedule 2, the information (as altered) mentioned in paragraphs 1 and 11 of Schedule 2 shall be furnished to that person, as of course, before or within one month of the date on which the decision to alter the amount is made, or if the alteration has effect from a later date, before or within one month of that later date.
+
+(4) Except in relation to money purchase benefits, the information mentioned in paragraph 4 of Schedule 2, so far as it relates to any active or deferred member, shall be furnished to such member, on request (not being a request made within 12 months of the last occasion on which any such information as is mentioned in that paragraph was furnished to the member making the request) as soon as practicable and, in any event, within 2 months of the request being made.
+
+(5) In the case of a scheme which provides money purchase benefits, the information mentioned in paragraphs 5 and 6 of Schedule 2 shall be furnished in relation to those money purchase benefits, as of course, to each member of the scheme eligible for money purchase benefits so far as it relates to such member (except excluded persons), within 9 months of the end of the first scheme year and thereafter at least once in every period of 12 months after the date of his becoming a member of it.
+
+(6) Where a scheme is, or has been, a money purchase scheme, or a scheme which makes provision for the payment of money purchase benefits in relation to one or more members' employments, the information mentioned in paragraph 7 of Schedule 2 shall be sent, as of course, to each such member—
+
+- (a) in a case where the trustees or managers of the scheme know of no reason to suppose that the member will not give effect to his rights on the date on which he attains normal pension age, at least 6 months before he attains that age;
+- (b) in any other case—
+  - (i) if the date of the agreement in respect of when the member is to give effect to his rights (“the date of agreement”) is more than 6 months before the agreed date for giving effect to his rights (“the agreed date”), at least 6 months before the agreed date; and
+  - (ii) if the date of agreement is not more than 6 months before the agreed date, within 7 days of the date of agreement and in any event before the agreed date.
+
+(7) Where a scheme which has been a money purchase contracted-out scheme in relation to one or more members' employments ceases to be such a scheme in relation to any of them, the trustees of the scheme shall inform each member (“the affected member”), in relation to whose employment the scheme has ceased to be such a scheme, as soon as practicable and in any event not more than one month after the date on which it ceased to be such a scheme, that the scheme has so ceased, and furnish the affected member, as soon as practicable and in any event not more than 4 months after the date on which it ceased to be such a scheme with—
+
+- (a) the information mentioned in paragraphs 5, 6, 8 and 9 of Schedule 2; and
+- (b) except where the scheme is able to meet in full its liabilities to the affected member, the information mentioned in paragraph 10 of Schedule 2.
+
+(8) Where a member of or a beneficiary under a scheme has died and rights or options may be exercisable by a person in consequence, the information mentioned in paragraphs 11 and 12 of Schedule 2 shall—
+
+- (a) where the trustees are aware of his existence and he is at least 18 years old and his address is known to the trustees, be furnished as of course and as soon as practicable to that person and, in any event, within 2 months after the trustees receive notification of the death; and
+- (b) on request (not being a request made within 3 years of the last occasion on which information was furnished under this paragraph to the same person in the same capacity) be furnished to any person who is a personal representative of the deceased person or who is authorised to act on behalf of the person to whom rights or options under the scheme may be available in consequence of the death, as soon as practicable and, in any event, within 2 months of the request.
+
+(9) The information mentioned in paragraphs 13 and 14 of Schedule 2 shall be furnished on request (not being a request made less than 12 months after the last occasion on which such information was furnished to the same person) to any member or prospective member within 2 months of his request.
+
+(10) Subject to paragraph (11), when the trustees have commenced winding up the scheme, they shall as of course, as soon as practicable, and in any event within one month—
+
+- (a) inform all members and beneficiaries (except excluded persons) that they have done so, giving the reasons why and stating the name and address of a person to whom any further enquiries about the scheme should be sent;
+- (b) where Article 22 applies, inform all members and beneficiaries (except excluded persons) that at least one of the trustees is required by Article 23 to be an independent person;
+- (c) inform all active members whether death in service benefits will continue to be payable; and
+- (d) furnish all members and beneficiaries (except excluded persons) with the information mentioned in paragraph 15 of Schedule 2 at that time and at least once in every successive 12 month period preceding the completion of the winding up.
+
+(11) In the case of a multi-employer scheme, the requirements specified in paragraph (10) shall apply only in relation to members of or beneficiaries under such section of that scheme as the trustees have commenced winding up.
+
+(12) When the trustees are engaged in winding up the scheme, they shall, where the information is available to them, as soon as practicable, and in any event within 3 months after they have done what they are able to do to discharge their liabilities in relation to a member or beneficiary in accordance with the applicable winding up rules—
+
+- (a) furnish the information mentioned in paragraphs 1 to 3 of Schedule 2, to that beneficiary or to that member where that member is entitled to payment of benefits, and (except in relation to money purchase benefits) where that member is not entitled to payment of benefits, furnish the information mentioned in paragraph 16 of that Schedule to that member (except where that member is an excluded person); and
+- (b) inform each person who is entitled to information under sub-paragraph (*a*)—
+  - (i) whether, and if so by how much, the benefits in question are reduced because the scheme’s resources are not sufficient to meet its liabilities; and
+  - (ii) who has or will become liable for the payment of those benefits.
+
+(13) When any information specified in Schedule 2 is provided, it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
+
+## 6. Availability and content of annual report[^key-1f73895712e7b8affdbeefc0810e4370]
+
+(1) Subject to paragraph (2), the trustees of any scheme shall, in relation to, and not more than 7 months after the end of, each scheme year which ends on or after 6th April 1997, make available a document which contains—
+
+- (a) a copy of the audited accounts and the auditor’s statement where required by regulations made under Article 41(1) and (2)(*a*) and (*b*) for the scheme year to which the document relates;
+- (b) a copy of the latest actuarial statement (whether or not a revised statement) where required by regulations made under Article 41(1) and (2)(*c*);
+- (c) where Article 56 applies to the scheme, a copy of the latest certificate obtained in accordance with regulations made under Article 57(1)(*b*); and
+- (d) other information, consisting of or including the information specified in Schedule 3, so far as it applies to the scheme,
+
+to the persons and trade unions, in the circumstances and in the manner specified in paragraphs (3), (4) and (6).
+
+(2) The requirements of this regulation do not apply to a public service pension scheme—
+
+- (a) under the provisions of which there is no requirement for assets related to the intended rate or amount of benefit under the scheme to be set aside in advance (disregarding requirements relating to voluntary contributions); or
+- (b) which is made under Article 9 of the Superannuation (Northern Ireland) Order 1972[^f00009] (superannuation of persons employed in local government service, etc.) or which is established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00010] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00011].
+
+(3) A copy of the latest such document as is mentioned in paragraph (1) shall be furnished free of charge on request (not being a second or subsequent request by the same person or, as the case may be, trade union, for a copy of the same document) to any person or trade union in the categories specified in paragraph (6) within 2 months of the request being made.
+
+(4) A copy of any such document as is mentioned in paragraph (1), being neither the latest nor one which relates to a scheme year which ended more than 5 years previously, shall, within 2 months of a request being made by a person or trade union in the categories specified in paragraph (6)—
+
+- (a) be made available free of charge for inspection at a place which is reasonable having regard to the circumstances of the request and of the person who or trade union which made it; or, at their option,
+- (b) be furnished to such person or trade union, and where a charge is levied it shall not exceed the expense incurred in copying, posting and packing such copy.
+
+(5) In the case of a scheme year ending before 6th April 1997, a reference to such document as is mentioned in paragraph (1) shall, except in relation to regulation 11(2) (penalties), be deemed to include copies of a document made available by the trustees under regulation 9 of the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1986[^f00012].
+
+(6) The categories of persons and trade unions mentioned in paragraphs (3) and (4) are—
+
+- (a) members and prospective members of the scheme;
+- (b) spouses of members and of prospective members of the scheme;
+- (c) beneficiaries under the scheme;
+- (d) independent trade unions recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme.
+
+(7) When a copy of a document is furnished in accordance with paragraph (3) or (4), it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
+
+## 7. Availability of actuarial valuation, schedule of contributions, payment schedule and statement of investment principles[^key-f3d7d8a487190fad6b26c625c1f5c80a]
+
+(1) Subject to paragraph (2), the trustees of any scheme shall make provision in the manner specified in paragraph (3), for the disclosure of—
+
+- (a) the latest actuarial valuation where required by regulations made under Article 41(1) and (2)(*c*);
+- (b) where Article 56 applies to the scheme, the latest actuarial valuation required under Article 57(1)(*a*);
+- (c) the schedule of contributions or payment schedule (in either case whether or not revised) where required under Article 58 or 85; and
+- (d) the latest statement of the principles governing decisions about investments where required under Article 35,
+
+to persons and trade unions in the categories specified in paragraph (4).
+
+(2) The requirements of this regulation do not apply to a public service pension scheme such as is referred to in regulation 6(2).
+
+(3) A copy of any such document as is mentioned in paragraph (1), being the latest such document, shall, within 2 months of a request being made by a person or a trade union in the categories specified in paragraph (4)—
+
+- (a) be made available free of charge for inspection at a place which is reasonable having regard to the circumstances of the request and of the person who or trade union which made it; or, at their option,
+- (b) be furnished to such person or trade union, and where a charge is levied it shall not exceed the expense incurred in copying, posting and packing such copy.
+
+(4) The categories of persons and trade unions mentioned in paragraphs (1) and (3) are—
+
+- (a) members and prospective members of the scheme;
+- (b) spouses of members and of prospective members of the scheme;
+- (c) beneficiaries under the scheme;
+- (d) independent trade unions recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme.
+
+(5) When a copy of a document is furnished in accordance with paragraph (3), it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
+
+## 8. Limited disclosure requirement imposed on trustees of schemes which are not tax-approved or public service pension schemes and on trustees of a scheme established by the Salvation Army Act 1963[^key-b1e41ac9fa410f30e6bfbb9f9cfe73db]
+
+(1) This regulation applies to schemes to which neither regulation 2(1)(*a*) nor (*b*) refers and to a scheme established by the Salvation Army Act 1963.
+
+(2) Where this regulation applies, the trustees—
+
+- (a) shall give, as of course, in writing, where practicable to every prospective member, and where it has not been practicable so to do, to a person within 2 months of his becoming a member of the scheme, the information specified in paragraphs 12, 19 and 24 to 29 of Schedule 1, together with—
+  - (i) a statement as to which of the benefits are, and which are not funded, and where benefits are funded, the manner in which they are secured; and
+  - (ii) a statement that the provisions of the Order, subject to certain exceptions, are not applicable to the scheme; and
+- (b) to the extent that the information specified in sub-paragraph (*a*) has not previously been given to a person who was a member of the scheme on 5th April 1997, shall give such information to that person by 5th April 1998.
+
+(3) The information referred to in paragraph (2) shall be given to any independent trade union, in so far as that information is relevant to the rights of members or prospective members of the scheme who are of a class of employee in relation to which it is a recognised trade union for the purposes of collective bargaining, on request as soon as practicable and in any event within 2 months of the request being made.
+
+(4) When any information specified in paragraph (2) is provided, it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
+
+## 9. Recognised trade unions[^key-54acb77a8c0786f272a553ef4cbeef0c]
+
+Any question whether an organisation is an independent trade union recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of a scheme shall be referred to an industrial tribunal.
+
+## 10. Service of documents by post[^key-45977d11314624ae0522fdbc82eb8259]
+
+(1) Any—
+
+- (a) information or document which these Regulations require the trustees of a scheme to give or furnish;
+- (b) request for information or for a document to be given or furnished in pursuance of these Regulations; or
+- (c) information to be given to the trustees of a scheme in relation to requirements imposed by these Regulations,
+
+may be furnished, made or given by ordinary post.
+
+(2) Any information or document which these Regulations require the trustees of a scheme to give or furnish as of course to a beneficiary or a member who is not employed in relevant employment shall be deemed to have been given or furnished if it was sent to him by ordinary post to his last address known to the trustees.
+
+## 11. Penalties[^key-95dcd531597aacc88438ccf13d3a5eb9]
+
+(1) Where any person fails, without reasonable excuse, to comply with any requirement imposed under regulation 4(2), 5(2) to (12) or 8(2), the Regulatory Authority may require that person to pay within 28 days a penalty which shall—
+
+- (a) in the case of an individual not exceed £1,000; and
+- (b) in any other case, not exceed £10,000.
+
+(2) Where any person fails, without reasonable excuse, to comply with any requirement imposed under regulation 3(2), (4) or (6), 4(3), (5) or (6), 5(13), 6(3), (4) or (7), 7(3) or (5) or 8(3) or (4) the Regulatory Authority may require that person to pay within 28 days a penalty which shall—
+
+- (a) in the case of an individual not exceed £200; and
+- (b) in any other case not exceed £1,000.
+
+## 12. Revocations[^key-d83f1db4f256d08c474b802875872428]
+
+The regulations specified in column (1) of Schedule 4 are revoked to the extent mentioned in column (3) of that Schedule.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+24th February 1997.
+
+## SCHEDULE 1 — Basic Information about the Scheme
+
+Regulations 4 and 8
+
+**1.**[^key-ada4c365e70abc80c133c95e6f9f82c2] The categories of persons who are eligible to be members of the scheme.
+
+**2..**[^key-aaaea8c27a663287db00e0c5eba5704d] Whether persons who are eligible to be members of the scheme are admitted to it—
+
+- (a) only on their own application;
+- (b) automatically unless the person in question makes an election not to be admitted; or
+- (c) subject to the consent of their employer.
+
+**3..**[^key-223b79bfc8e1f4e7392821c6eb7c4b88] The conditions of eligibility for membership.
+
+**4..**[^key-a2487bdecbb56f4367747c08ddfced6c] The period of notice (if any) which a member of the scheme must give to terminate his pensionable service.
+
+**5..**[^key-7df66c4ad62a8a6a1b24b08b03a35029] Whether, and if so upon what conditions (if any), a member of the scheme, whose pensionable service has terminated before normal pension age, may re-enter pensionable service.
+
+**6..**[^key-27256e334b8675aa4a3b8d6c84223b92] How employers' contributions are determined.
+
+**7..**[^key-26b2c502c2cd9ba193b878c079c5ea6a] How members' normal contributions, if any, are calculated.
+
+**8..**[^key-e96b7c65948147b28407ad2a3a3ea66d] What arrangements are made for the payment by members of voluntary contributions.
+
+**9..**[^key-17042bce6df344a4bcd0e1fde6523000] Whether the scheme is a tax-approved scheme, and if not whether an application for the scheme to become a tax-approved scheme is under consideration by the Commissioners of Inland Revenue.
+
+**10..**[^key-232331e1dc4a588969dc177a54009b8c] Which of the relevant employments are, and which are not, contracted-out employments within the meaning of section 4, and whether the scheme is contracted-out in relation to those employments by virtue of satisfying section 5(2) or (3)[^f00013], or by virtue of being one to which regulations made under Article 146 apply (mixed benefit contracted-out schemes).
+
+**11..**[^key-96af95ae29059c6b7aa877b8e0a18c56] Except in the case of a simplified defined contribution scheme, normal pension age under the scheme.
+
+**12..**[^key-6d3604f48e65bfa3ebd8a4abd4b72952] What benefits are payable under the scheme and how they are calculated (including how pensionable earnings are defined under the scheme and the rate at which rights to benefits accrue).
+
+**13..**[^key-2f01bd3d30ed82149f9da717ba1acae0] Whether there is a power under the scheme rules to increase pensions after they have become payable, otherwise than in accordance with statutory requirements, and if so what it is, who may exercise it, and whether and to what extent it is discretionary.
+
+**14..**[^key-3b618e4f4913e06f18ae0be24b847954] Where the scheme is one to which regulations made under Article 146 apply, the circumstances, if any, in which the nature of a member’s accrued rights, or the basis upon which a member accrues rights under the scheme, may alter as a result of the scheme being one to which those regulations apply, and a statement that the trustees will give notice to a member in circumstances where his rights are affected.
+
+**15..**[^key-68782fd07eb5b73b040e4afd246f3cec] Whether, and if so when and upon what conditions, survivors' benefits are payable under the scheme.
+
+**16..**[^key-d3ceab0fe57fc4674c71f9db92377bf3] The conditions on which benefits, other than survivors' benefits, are payable under the scheme.
+
+**17..**[^key-0d60abcadb3c06cdfa5a9f6b3bfebdaa] Which benefits, if any, are payable only at some person’s discretion.
+
+**18..**[^key-e20df7ce79b7ef5ba31830333bdfee78] The short title of the enactment (if any) which provides for both—
+
+- (a) the setting up of the scheme, and
+- (b) the determination of the rate or amount of the benefits under the scheme.
+
+**19..**[^key-5f4968d535bd18205326a44d524b7e5a] What arrangements are made, and in what circumstances, for—
+
+- (a) estimates of entitlement to a cash equivalent;
+- (b) statements of entitlement to a guaranteed cash equivalent;
+- (c) refunds of contributions, and
+- (d) preservation or transfer of accrued rights,
+
+in relation to a member whose relevant employment or pensionable service in relevant employment terminates before he reaches normal pension age.
+
+**20..**[^key-9e9e7c5bfc6ba9780c3bfd5134dea72b] Whether, and the circumstances in which, the trustees will accept cash equivalents and provide transfer credits within the meaning of Chapter IV of Part IV of the Act (transfer values) and whether such acceptance is subject to the discretion of the trustees.
+
+**21..**[^key-512cdd61562519b7ea8421ee23bc3806] If the trustees have directed that any cash equivalent shall not take into account any such additional benefits as might accrue to the member in question resulting from the exercise of any discretion vested in the trustees or the employer, a statement to this effect.
+
+**22..**[^key-d784bf70db05e15239f0ac99224b82e8] A statement summarising the way in which transfer values are calculated.
+
+**23..**[^key-221bc2bbe37b5ddb607d0a57c54d386d] Except in the case of a public service pension scheme such as is referred to in regulation 6(2), a statement that a scheme annual report is available on request.
+
+**24..**[^key-e1fccdd8b5ef08d698c0a416c21f11e1] Whether information about the scheme has been given to the Registrar of Occupational and Personal Pension Schemes, appointed in accordance with regulations made under section 6 of the Pension Schemes Act 1993[^f00014].
+
+**25..**[^key-f4c515cc8408b27bf2ceb64da3b3574d] What procedures the scheme has for the internal resolution of disputes (unless it is an exempt scheme by virtue of regulations made under Article 50(7)), and the address and job title of the person to be contacted in order to have recourse to these.
+
+**26..**[^key-fff598eb1f70f1a743a221a26a01ec4f] A statement that OPAS (the Pensions Advisory Service) is available to assist members and beneficiaries of the scheme in connection with difficulties which they have failed to resolve with the trustees or administrators of the scheme and the address at which it may be contacted.
+
+**27..**[^key-60d437c44251669bd27a3a0787089b3d] A statement that the Pensions Ombudsman appointed under section 145(2) of the Pension Schemes Act 1993 may investigate and determine any complaint or dispute of fact or law in relation to an occupational pension scheme made or referred in accordance with the Act and the address at which he may be contacted.
+
+**28..**[^key-4da317a1536a533de3af43b9a59a356e] A statement that the Regulatory Authority is able to intervene in the running of schemes where trustees, employers or professional advisers have failed in their duties, giving the address at which it may be contacted.
+
+**29..**[^key-517883841e8bdc093a660b099658ac55] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+
+## SCHEDULE 2 — Information to be made available to individuals
+
+Regulation 5
+
+**1..**[^key-f451402f96b6651a00a81e364822f28f] The amount of benefit which is payable to the person.
+
+**2..**[^key-3ff4cf0b3436fdcdca61d820ec4fd85a] If a benefit is payable periodically, the conditions (if any) subject to which payment will be continued.
+
+**3..**[^key-ad7401280786b9b7f72324283e0ce0b2] If a benefit is payable periodically, the provisions (if any) under which the amount payable will be altered.
+
+**4.**[^key-a37424630c7cab150d5045efd80e6721] In the case of—
+
+- (a) an active member, the information specified in either (the trustees having the option to choose which one) head (i) or (ii), together with the information specified in head (iii)—
+  - (i) the amounts of his own benefits and of his survivors' benefits which would be payable from normal pension age or death if his pensionable service were to terminate within one month of the date on which the information is furnished to him, calculated without regard to possible increases in his salary;
+  - (ii) the amounts of his own benefits and of his survivors' benefits which would be payable from normal pension age or death thereafter if his pensionable service were to terminate on his attaining normal pension age, calculated without regard to possible increases in his salary;
+  - (ii) except in the case of a simplified defined contribution scheme, the amount of any death in service benefits that would be payable if the member were to die on a specified date which is within one month of the date on which the information is furnished to him, with details of how those benefits are calculated;
+- (b) a deferred member, the date pensionable service ceased and the amounts of his own benefits and of his survivors' benefits payable from normal pension age or death,
+
+and in either case, the information must include—
+
+- (i) the date on which the member’s pensionable service commenced;
+- (ii) the accrual rate or formula for calculating the member’s own benefits and any survivors' benefits;
+- (iii) the amount of the member’s pensionable remuneration on a specified date being, in the case of an active member, the date on which the information is furnished to him or a date within one month thereof, and in the case of a deferred member, the date pensionable service ceased; and
+- (iv) details of how any deduction from benefits is calculated.
+
+**5.**[^key-bc31b56211b3cbde871afe07da681b85] (1) The amount of contributions (before the making of any deductions) credited to the member under the scheme during the immediately preceding scheme year and, where the scheme was for the whole or any part of the period a contracted-out scheme, the amount of those contributions which is attributable to—
+
+- (a) the minimum payments to the scheme made in respect of the member by his employer during the immediately preceding scheme year;
+- (b) the payments (if any) made to the scheme by the Department in accordance with Article 9(1) of the Social Security (Northern Ireland) Order 1986[^f00015] (schemes becoming contracted-out between 1986 and 1993) in respect of the member during the immediately preceding scheme year;
+- (c) the age-related payments (if any) made to the scheme by the Department in accordance with section 38A(3)[^f00016] in respect of the member during the immediately preceding scheme year; and
+- (d) the date of birth used in determining the appropriate age-related percentage for the purposes of section 38A as disclosed to the trustees by the Department and the name of whom to contact and their address should the date of birth be incorrect.
+
+(2) If the scheme is a simplified defined contribution scheme, the amount or fraction of contributions applied to insure benefits payable in the event of the member’s death before starting to receive retirement benefits under the scheme.
+
+**6.**[^key-27b6e1a31669c8ee999986c79a8ee2d8] (1) The value of—
+
+- (a) the member’s protected rights under the scheme as at a specified date, and
+- (b) the member’s accrued rights (other than his protected rights) under the scheme at the same or another specified date.
+
+(2) Where the cash equivalent (calculated, as at the date specified for the purposes of sub-paragraph (1) in accordance with section 93[^f00017], and regulations made thereunder), in respect of the transfer of the member’s rights mentioned in sub-paragraph (1)(*a*) or (*b*) or both would be different from the values to be specified under that sub-paragraph, that cash equivalent.
+
+**7.**[^key-560d78f1829d9f6cec1b442cbc6ecb9f] The options available to the member within the scheme rules.
+
+**8.**[^key-390ba04a16cc56315c687ec23b85c943] The date on which the scheme ceased to be a money purchase contracted-out scheme in relation to the member’s employment.
+
+**9.**[^key-3bc8a2d4fab82fc58398d2f83bf9b776] The options available to the member within the scheme rules in respect of his protected rights.
+
+**10.**[^key-419bb1676671b123a985d70e83ccc156] An account of the amount by which the member's—
+
+- (a) protected rights, and
+- (b) accrued rights other than his protected rights,
+
+have been reduced, and of the action taken by the trustees, or which it is open to the member to take, in order, so far as may be possible, to restore the value of his accrued rights under the scheme.
+
+**11.**[^key-130a7cd124d399021c92889003efa09a] The rights and options (if any) available on the death of a member or beneficiary, and the procedures for exercising them.
+
+**12.**[^key-7a57b1566db26650150aaa0cc896550d] The provisions (or, as the case may be, a statement that there are no provisions) under which any pension payable to a survivor of a member or beneficiary may or will be increased, and the extent to which such increases are dependent on the exercise of a discretion.
+
+**13.**[^key-9ac701e4952744089b2fe4f71199304f] Whether the member or prospective member is entitled to acquire transfer credits in exchange for a specified cash equivalent (within the meaning of Chapter IV of Part IV of the Act), provided by another scheme, and if so, a statement of those transfer credits.
+
+**14.**[^key-7a4881ba05a81c9bc47991e3486a01eb] Whether the member or prospective member is entitled to acquire transfer credits in exchange for any transfer payment (within the meaning of Chapter IV of Part IV of the Act), provided by another scheme, and if so, a statement of those transfer credits.
+
+**15.**[^key-cf3fd8e86ea31cb0a6f146086fa4c312] What action is being taken to establish the scheme’s liabilities and to recover any assets; when it is anticipated final details will be known; and (where the trustees have sufficient information) an indication of the extent to which, if at all, the actuarial value of accrued rights or benefits to which such person is entitled are likely to be reduced.
+
+**16.**[^key-674814f866c62700d50f744b9a06624c] An estimate of the amount of the member’s own benefits and of his survivors' benefits which are expected to be payable from normal pension age or death.
+
+## SCHEDULE 3 — Information to be included in Annual Report
+
+Regulation 6
+
+**1.**[^key-7d04fc1eb16f85fead4f880ec6aca415] The names of the persons who were trustees of the scheme, and in the case of a scheme none of the trustees of which is an individual, the names of the directors of any company which is a trustee, during the scheme year to which the information relates (in this Schedule called “the year”).
+
+**2.**[^key-c4eec9be041b0bdfa983f935e37a778a] The provisions of the scheme in relation to the appointment of trustees and their removal from office, and in the case of a scheme none of the trustees of which is an individual, the provisions in the articles of association of each trustee which relate to the appointment and removal from office of any directors.
+
+**3.**[^key-7d32088343b8c2067761d6b0e7bcb897] The names of the professional advisers and of such banks, custodians, and other persons and organisations who have acted for or were retained by the trustees during the year, with an indication (except in a case where regulation 6 is complied with by trustees of a scheme for the first time) of any change since the previous year.
+
+**4.**[^key-ef7b7ef2c0a09911b8709ea01e9af26c] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+
+**5.**[^key-cfe7d91597b8effa86970318fb2cd8a9] The number of beneficiaries and active, deferred and pensioner members as at any one date during the year.
+
+**6.**[^key-177453766b97bf44e0c65bcda5d680da] Except in the case of a money purchase scheme, the percentage increases made (otherwise than in accordance with a statutory requirement) during the year (or, if there have been different increases for different individuals or groups of individuals, the maximum, minimum and average percentage increases) to—
+
+- (a) pensions which were payable; and
+- (b) deferred pensions,
+
+with a statement whether the increases were to any extent discretionary, and if so to what extent.
+
+**7.**[^key-b74d82b0a72f919b96dac0f6d1780b80] Except in the case of a money purchase scheme which is a wholly insured scheme, the following information—
+
+- (a) where any cash equivalents or guaranteed cash equivalents (within the meaning of Chapter IV of Part IV of the Act) paid during the year were not calculated and verified in the manner prescribed by regulations made under section 93, a statement explaining why;
+- (b) where any of the cash equivalents or guaranteed cash equivalents paid during the year were less than the amount for which section 90(1)[^f00018] provides, a statement to that effect together with information as to—
+  - (i) why they were less; and
+  - (ii) when full values became, or are likely to become available; and
+- (c) a statement whether discretionary benefits are included in the calculation of transfer values, and if so, the method by which the value of discretionary benefits is assessed.
+
+**8.**[^key-ac2f9d2804bd79add9a069615017537c] A statement as to whether the accounts have been prepared and audited in accordance with regulations made under Article 41(1) and (6) (unless the scheme is exempt from such requirement by virtue of those regulations).
+
+**9.**[^key-3ad5ccf4f72f976f713d9b4cadd00ab7] If the auditor’s statement made in accordance with regulations made under Article 41(1)(*a*) and (2)(*b*) is negative or qualified, an account of the reasons why and a statement as to how the situation has been or is likely to be resolved.
+
+**10.**[^key-34e1cd53ff69e5531076f05e0adb504f] If such situation as is mentioned in paragraph 9 was not resolved in a previous year, a statement as to how it has been or is likely to be resolved.
+
+**11.**[^key-1fabb246d70001ec82b7a4f0ce1b093b] Who has managed the investments of the scheme during the year and the extent of any delegation of this function by the trustees.
+
+**12.**[^key-23b0c8602eae20a289013c72abea50dc] Whether the trustees have produced a statement of the principles governing decisions about investments for the purposes of the scheme in accordance with Article 35 (unless the scheme is exempt from such requirement by virtue of regulations made under that Article), and where the trustees have produced such a statement, advising that a copy is available on request.
+
+**13.**[^key-741b7299eea6f6f44b8dd48d410f9c2b] Except in relation to a wholly insured scheme, a statement as to the trustees' policy on the custody of the scheme assets.
+
+**14.**[^key-1d6ebe903047d7703cc8c5fa53465d84] Where the scheme is one to which Article 35 applies, an investment report containing—
+
+- (a) a statement by the trustees, or the fund manager, providing details of any investments made for the scheme during the year which were not made in accordance with the statement of the principles governing decisions about investments required under Article 35;
+- (b) where investments for the scheme have been made in the year which do not accord with the statement of the principles governing decisions about investments required under Article 35 (or were made in a previous scheme year and continued to be held at the end of the year), a statement by the trustees, or the fund manager, giving the reasons why and explaining what action, if any, it is proposed to take or has already been taken to remedy the position;
+- (c) a review of the investment performance of the scheme’s fund—
+  - (i) during the year; and
+  - (ii) except where the scheme has existed for less than 3 scheme years, during a period of not less than 3 and not more than 5 scheme years ending with the year,
+
+  including an assessment of the nature, disposition, marketability, security and valuation of the scheme’s assets.
+
+**15.**[^key-61e2fd2e86e044a9d478c097e650cfe8] A copy of any statement made on the resignation or removal of the auditor or the actuary and made in accordance with regulations made under Article 47(6).
+
+**16.**[^key-f0c9dd57610f327e7a78f95578a4b82f] Where the scheme has employer-related investments within the meaning of Article 40(2)—
+
+- (a) a list of those investments;
+- (b) a statement as to the proportion of the scheme’s resources represented by those investments;
+- (c) a statement as to whether the scheme’s investments comply with any restrictions prescribed by regulations made under Article 40, and where they do not, how it is intended to remedy the position.
+
+## SCHEDULE 4 — Regulations Revoked[^key-2721eaee730e587ffa60ab384b2df2c2]
+
+Regulation 12
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Citation</em></th><th><em>Reference</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1986</td><td><a href="https://www.legislation.gov.uk/nisr/1986/225">S.R. 1986 No. 225</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Occupational Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 1986</td><td><a href="https://www.legislation.gov.uk/nisr/1986/319">S.R. 1986 No. 319</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Occupational Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 1987</td><td><a href="https://www.legislation.gov.uk/nisr/1987/283">S.R. 1987 No. 283</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/109">S.R. 1988 No. 109</a></td><td>Regulation 8</td></tr>
+<tr><td>The Personal and Occupational Pension Schemes (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1989</td><td><a href="https://www.legislation.gov.uk/nisr/1989/372">S.R. 1989 No. 372</a></td><td>Regulation 3</td></tr>
+<tr><td>The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991</td><td><a href="https://www.legislation.gov.uk/nisr/1991/37">S.R. 1991 No. 37</a></td><td>In Schedule 1,paragraph 3</td></tr>
+<tr><td>The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/304">S.R. 1992 No. 304</a></td><td>Regulations 4 to 17</td></tr>
+<tr><td>The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/300">S.R. 1994 No. 300</a></td><td>In Schedule 2,paragraph 6</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations replace the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1986 (“the 1986 Regulations”) which are now revoked. The Regulations supplement changes introduced by the Pensions (Northern Ireland) Order 1995 (“the Order”). They also consolidate and amend those provisions of the 1986 Regulations which are carried forward in these Regulations.
+
+In addition to minor and drafting amendments, the Regulations make the following changes of substance—
+
+they provide for information to be given as of course to prospective members;
+
+they set time limits within which the trustees must make available certain documents and limit the maximum charge which trustees can levy for providing documents;
+
+they provide, where practicable, for information about certain changes to be given before they take effect, for trustees to advise members why a scheme is being wound up, and for additional information to be included in the scheme’s annual report;
+
+they provide that money purchase schemes must provide details of the options available to members approaching retirement;
+
+they provide for the disclosure of information in consequence of new requirements introduced by the Order, for example, relating to the minimum funding requirement, actuarial valuations and statements and certificates of schedules of contributions;
+
+they provide for the imposition of penalties by the Occupational Pensions Regulatory Authority (“the Regulatory Authority”).
+
+Regulation 1 relates to the citation, commencement and interpretation.
+
+Regulation 2 sets out the conditions for the application of these Regulations to an occupational pension scheme.
+
+Regulation 3 provides for the trustees to make available documents containing information about the constitution of the scheme for inspection by specified persons, and for copies to be furnished on request.
+
+Regulation 4 and Schedule 1 provide for certain basic information about the scheme to be given by the trustees to prospective or new members as of course and to members and other specified persons on request, and for material alterations to be drawn to the attention of members and other specified persons.
+
+Regulation 5 and Schedule 2 provide for the trustees to make information about individual entitlement available to specified persons in specified circumstances.
+
+Regulation 6 and Schedule 3 provide for the trustees to make available a document which contains the audited accounts, the actuarial statement and certain other information when requested by specified persons.
+
+Regulation 7 provides for the trustees to make available actuarial valuations, the schedule of contributions, the payment schedule and statement of investment principles for inspection by specified persons, and for copies to be furnished on request.
+
+Regulation 8 and Schedule 1 provide for a limited disclosure requirement to be imposed on the trustees of occupational pension schemes which are not tax-approved or public service pension schemes.
+
+Regulation 9 provides that any question as to whether an organisation is an independent trade union recognised for the purposes of collective bargaining in relation to the scheme shall be referred to an industrial tribunal.
+
+Regulation 10 relates to the service of documents by post.
+
+Regulation 11 provides for the imposition of penalties by the Regulatory Authority where requirements imposed by the Regulations are not complied with.
+
+Revocations are made in regulation 12 and Schedule 4.
+
+The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S.R. 1996 No. 91 (C. 4)](https://www.legislation.gov.uk/nisr/1996/91)) provides for the coming into operation of the enabling provisions of the Order under which these Regulations are partly made as follows—
+
+Articles 10(3) and 41(1) and (6), for the purpose only of authorising the making of regulations, on 6th April 1996; and
+
+Article 166(1) to (3), in so far as not already in operation, on 6th April 1996.
+
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Social Security in relation to Great Britain, the requirement for consultation under Article 117(1) of the Order does not apply by virtue of paragraph (2)(*e*) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 164 was substituted by Article 151(1) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^key-bcbf49f6c76840330236aa3d34b4d593]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00004]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
+
+[^f00005]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00006]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-e57048426fe78c9414a2e41630d37543]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00008]: Footnote: [1963 c. xxxii](https://www.legislation.gov.uk/ukla/1963/32)
+
+[^key-93f785338b1d9dd4808ac24337c3a7c7]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-16788d2fbe647cb2e3875743323a1755]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-08c732b1429e8af89d67c1bbe2fddb8e]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-1f73895712e7b8affdbeefc0810e4370]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^f00010]: Footnote: [1965 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1965/18)
+
+[^f00011]: Footnote: [S.I. 1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
+
+[^f00012]: Footnote: [S.R. 1986 No. 225](https://www.legislation.gov.uk/nisr/1986/225); relevant amending regulations are [S.R. 1987 No. 283](https://www.legislation.gov.uk/nisr/1987/283), [S.R. 1988 No. 109](https://www.legislation.gov.uk/nisr/1988/109) and [S.R. 1992 Nos. 47](https://www.legislation.gov.uk/nisr/1992/47) and [304](https://www.legislation.gov.uk/nisr/1992/304)
+
+[^key-f3d7d8a487190fad6b26c625c1f5c80a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-b1e41ac9fa410f30e6bfbb9f9cfe73db]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-54acb77a8c0786f272a553ef4cbeef0c]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-45977d11314624ae0522fdbc82eb8259]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-95dcd531597aacc88438ccf13d3a5eb9]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-d83f1db4f256d08c474b802875872428]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-ada4c365e70abc80c133c95e6f9f82c2]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-aaaea8c27a663287db00e0c5eba5704d]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-223b79bfc8e1f4e7392821c6eb7c4b88]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-a2487bdecbb56f4367747c08ddfced6c]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-7df66c4ad62a8a6a1b24b08b03a35029]: Commencement: Sch. 1 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-27256e334b8675aa4a3b8d6c84223b92]: Commencement: Sch. 1 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-26b2c502c2cd9ba193b878c079c5ea6a]: Commencement: Sch. 1 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-e96b7c65948147b28407ad2a3a3ea66d]: Commencement: Sch. 1 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-17042bce6df344a4bcd0e1fde6523000]: Commencement: Sch. 1 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-232331e1dc4a588969dc177a54009b8c]: Commencement: Sch. 1 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00013]: Footnote: Section 5(2) to (2C) was substituted for section 5(2) by Article 133(3) of the Pensions (Northern Ireland) Order 1995 and section 5(3) is amended by Article 133(4) of, and paragraph 17 of Schedule 3 to, that Order
+
+[^key-96af95ae29059c6b7aa877b8e0a18c56]: Commencement: Sch. 1 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-6d3604f48e65bfa3ebd8a4abd4b72952]: Commencement: Sch. 1 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-2f01bd3d30ed82149f9da717ba1acae0]: Commencement: Sch. 1 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-3b618e4f4913e06f18ae0be24b847954]: Commencement: Sch. 1 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-68782fd07eb5b73b040e4afd246f3cec]: Commencement: Sch. 1 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-d3ceab0fe57fc4674c71f9db92377bf3]: Commencement: Sch. 1 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-0d60abcadb3c06cdfa5a9f6b3bfebdaa]: Commencement: Sch. 1 para. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-e20df7ce79b7ef5ba31830333bdfee78]: Commencement: Sch. 1 para. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-5f4968d535bd18205326a44d524b7e5a]: Commencement: Sch. 1 para. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-9e9e7c5bfc6ba9780c3bfd5134dea72b]: Commencement: Sch. 1 para. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-512cdd61562519b7ea8421ee23bc3806]: Commencement: Sch. 1 para. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-d784bf70db05e15239f0ac99224b82e8]: Commencement: Sch. 1 para. 22 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-221bc2bbe37b5ddb607d0a57c54d386d]: Commencement: Sch. 1 para. 23 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-e1fccdd8b5ef08d698c0a416c21f11e1]: Commencement: Sch. 1 para. 24 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00014]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 6 is amended by paragraph 23 of Schedule 3 to, and paragraph 20 of Schedule 5 to, the Pensions Act 1995
+
+[^key-f4c515cc8408b27bf2ceb64da3b3574d]: Commencement: Sch. 1 para. 25 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-fff598eb1f70f1a743a221a26a01ec4f]: Commencement: Sch. 1 para. 26 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-60d437c44251669bd27a3a0787089b3d]: Commencement: Sch. 1 para. 27 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-4da317a1536a533de3af43b9a59a356e]: Commencement: Sch. 1 para. 28 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-517883841e8bdc093a660b099658ac55]: Commencement: Sch. 1 para. 29 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-f451402f96b6651a00a81e364822f28f]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-3ff4cf0b3436fdcdca61d820ec4fd85a]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-ad7401280786b9b7f72324283e0ce0b2]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-a37424630c7cab150d5045efd80e6721]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-bc31b56211b3cbde871afe07da681b85]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00015]: Footnote: [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888); Article 9 was repealed by Part I of Schedule 4 to the Pension Schemes (Northern Ireland) Act 1993. *See also* paragraph 21 of Schedule 5 to that Act
+
+[^f00016]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995
+
+[^key-27b6e1a31669c8ee999986c79a8ee2d8]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00017]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
+
+[^key-560d78f1829d9f6cec1b442cbc6ecb9f]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-390ba04a16cc56315c687ec23b85c943]: Commencement: Sch. 2 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-3bc8a2d4fab82fc58398d2f83bf9b776]: Commencement: Sch. 2 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-419bb1676671b123a985d70e83ccc156]: Commencement: Sch. 2 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-130a7cd124d399021c92889003efa09a]: Commencement: Sch. 2 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-7a57b1566db26650150aaa0cc896550d]: Commencement: Sch. 2 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-9ac701e4952744089b2fe4f71199304f]: Commencement: Sch. 2 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-7a4881ba05a81c9bc47991e3486a01eb]: Commencement: Sch. 2 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-cf3fd8e86ea31cb0a6f146086fa4c312]: Commencement: Sch. 2 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-674814f866c62700d50f744b9a06624c]: Commencement: Sch. 2 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-7d04fc1eb16f85fead4f880ec6aca415]: Commencement: Sch. 3 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-c4eec9be041b0bdfa983f935e37a778a]: Commencement: Sch. 3 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-7d32088343b8c2067761d6b0e7bcb897]: Commencement: Sch. 3 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-ef7b7ef2c0a09911b8709ea01e9af26c]: Commencement: Sch. 3 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-cfe7d91597b8effa86970318fb2cd8a9]: Commencement: Sch. 3 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-177453766b97bf44e0c65bcda5d680da]: Commencement: Sch. 3 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-b74d82b0a72f919b96dac0f6d1780b80]: Commencement: Sch. 3 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^f00018]: Footnote: Section 90 was amended by Article 150 of the Pensions (Northern Ireland) Order 1995
+
+[^key-ac2f9d2804bd79add9a069615017537c]: Commencement: Sch. 3 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-3ad5ccf4f72f976f713d9b4cadd00ab7]: Commencement: Sch. 3 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-34e1cd53ff69e5531076f05e0adb504f]: Commencement: Sch. 3 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-1fabb246d70001ec82b7a4f0ce1b093b]: Commencement: Sch. 3 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-23b0c8602eae20a289013c72abea50dc]: Commencement: Sch. 3 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-741b7299eea6f6f44b8dd48d410f9c2b]: Commencement: Sch. 3 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-1d6ebe903047d7703cc8c5fa53465d84]: Commencement: Sch. 3 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-61e2fd2e86e044a9d478c097e650cfe8]: Commencement: Sch. 3 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-f0c9dd57610f327e7a78f95578a4b82f]: Commencement: Sch. 3 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+
+[^key-2721eaee730e587ffa60ab384b2df2c2]: Commencement: Sch. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)

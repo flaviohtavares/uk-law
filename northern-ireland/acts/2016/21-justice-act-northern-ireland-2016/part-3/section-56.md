@@ -1,0 +1,45 @@
+---
+title: Justice Act (Northern Ireland) 2016, section 56
+act: Justice Act (Northern Ireland) 2016
+section: '56'
+status: revised-with-pending-changes
+text_date: '2023-11-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/21/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Justice Act (Northern Ireland) 2016, section 56
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-11-27. See https://www.legislation.gov.uk/changes/affected/nia/2016/21
+>
+> Extent: Northern Ireland.
+
+## 56. Re-entry into Northern Ireland of offender removed under section 55
+
+*Extent: N.I.*
+
+(1) This section applies to a person who, having been removed from prison under section 55, has been removed from the United Kingdom before serving the requisite custodial period.
+
+(2) If a person to whom this section applies enters Northern Ireland at any time before the person's sentence expiry date, the person is liable to be detained in pursuance of the person's sentence from the time of the person's entry into Northern Ireland until whichever is the earlier of the following—
+
+- (a) the end of a period (“the further custodial period”) beginning with that time and equal in length to the outstanding custodial period, and
+- (b) the person's sentence expiry date.
+
+(3) A constable may arrest without warrant any person whom he reasonably suspects is liable to be detained by virtue of subsection (2) and take that person to the place in which that person is liable to be detained.
+
+(4) A person returned to prison by virtue of subsection (2) may not be again removed from prison under section 55.
+
+(5) Where—
+
+- (a) a person to whom Article 17(1) of the 2008 Order applies is returned to prison by virtue of subsection (2), and
+- (b) the further custodial period ends before the sentence expiry date,
+
+Article 17(1) has effect in relation to the person as if the reference to the requisite custodial period were a reference to the further custodial period.
+
+(6) In this section—
+
+- “**further custodial period**” has the meaning given by subsection (2)(a);
+- “**outstanding custodial period**”, in relation to a person, means the period beginning with the date of the person's removal from the United Kingdom and ending with the date on which the person would, but for that removal, have served the requisite custodial period;
+- “**sentence expiry date**”, in relation to a person to whom this section applies, means the date on which, but for that person's release from prison and removal from the United Kingdom, that person would have served the whole of the sentence.

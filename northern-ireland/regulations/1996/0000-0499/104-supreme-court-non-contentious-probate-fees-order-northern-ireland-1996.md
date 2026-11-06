@@ -1,0 +1,220 @@
+---
+title: Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1996
+id: nisr/1996/104
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1996-03-14'
+text_date: '1996-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/104
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/104/data.pdf
+pending_changes: 20
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1996
+
+> **Warning: changes not yet applied to this text (20).** Text as at 1996-04-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/104
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 104
+
+SUPREME COURT
+
+Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1996
+
+Made
+
+14th March 1996
+
+Coming into operation
+
+1st April 1996
+
+The Lord Chancellor, in exercise of the powers conferred on him by section 116(1) and (4) of the Judicature (Northern Ireland) Act 1978[^f00001], after consultation with the Lord Chief Justice and with the concurrence of the Treasury, hereby makes the following Order:—
+
+## 1. Citation and commencement[^key-d4b822b1d08632ef5ccf8db7d0c20920]
+
+The Order may be cited as the Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
+
+## 2. Interpretation[^key-0f29e26d8da73b200bf21a25836e3cca]
+
+(1) In this Order, unless the context otherwise requires “assessed value” means the value of the net real and personal estate passing under the grant as shown—
+
+- (i) in the Inland Revenue affidavit (for a death occurring before 13th March 1975), or
+- (ii) in the Inland Revenue account (for a death occurring on or after 13th March 1975), or
+- (iii) in a case in which, in accordance with arrangements made between the Lord Chancellor and the Commissioners of Inland Revenue or regulations made under section 256(1) of the Inheritance Tax Act 1984[^f00002] and from time to time in force, no such affidavit or account is required to be delivered, in the oath which is sworn to lead to the grant,
+
+and in the case of an application to reseal a grant means the said value, as so shown, passing under the grant upon its being resealed;
+
+- “grant” means a grant of probate or letters of administration;
+- “master” means the Master (Probate and Matrimonial) or a district judge.
+
+(2) Except where otherwise stated, a fee referred to by number means the fee so numbered in Schedule 1 to this Order.
+
+## 3. Revocation[^key-834129a7b9700b87474b75f8d649a313]
+
+The orders specified in Schedule 2 to this Order are hereby revoked.
+
+## 4. Fees to be taken in Non-Contentious Probate matters in the Supreme Court[^key-5462825de7bb7dd3b23a7fa3c9cda43e]
+
+(1) Subject to paragraphs (2)-(5) and Article 5 the fees set out in column 2 of Schedule 1 shall be payable in non-contentious probate proceedings in respect of the items set out opposite thereto in column 1, subject to and in accordance with the directions contained in that Schedule.
+
+(2) Where in the estate of a person who died domiciled in Northern Ireland a grant has been obtained in England or a confirmation in Scotland, court fees shall not be payable in Northern Ireland in respect of the property passing under such grant or confirmation.
+
+(3) The fees specified in Schedule 1 shall be remitted where such fees if taken would be payable out of money provided by Parliament, provided that this sub-paragraph shall not apply to cases in which such fees are included in costs incurred by the Crown upon any proceedings which other parties may be required to pay.
+
+(4) Where any application for a grant is withdrawn before the issue of the grant, the Master or Probate Officer, may reduce, remit or refund the requisite fee.
+
+(5) Where, on application for a grant by a personal applicant, the papers leading to the grant are prepared by the applicant himself, the master may remit up to one half of the fee prescribed by fee No. 2.
+
+(6) Where it appears to the Lord Chancellor that the payment of any fee specified in Schedule 1 would, owing to the exceptional circumstances of the particular case, involve undue hardship, he may reduce or remit the fee in that case.
+
+## 5. Fees in foreign convention proceedings[^key-d58c0034235666e54e8d76997ce3c75c]
+
+Where by any convention entered into by Her Majesty with any foreign power it is provided that no fee shall be required to be paid in respect of any proceedings, the fees specified in Schedule 1 shall not be taken in respect of those proceedings.
+
+## 6. Manner in which fees are to be taken[^key-47139182ec5b6ae635a6d6f90158325d]
+
+(1) The fees prescribed in Schedule 1 shall be taken in cash.
+
+(2) Payment of the appropriate court fee shall be endorsed on the relevant document (that is, the document indicated in column 3) by mechanical means or, where this means is not available, the person to whom the fee is paid shall endorse the relevant document by writing thereon the amount and date of payment and shall sign the endorsement.
+
+(3) Where fees are payable under this Order in respect of any item and there is no document in reference to that item on which an endorsement can be made, the person requesting the action to which the item relates shall make the request by a requisition or note in writing which shall be endorsed as to the payment of the appropriate fee in accordance with paragraph (2).
+
+## 7. Exclusion of certain death gratuities[^key-11ea1c2bf9aa587f6e58972f1b78ba52]
+
+In determining the value of any estate for the purposes of this Order there shall be excluded the value of a death gratuity payable under section 17(2) of the Judicial Pensions Act 1981[^f00003] or payable to the personal representatives of a deceased civil servant by virtue of a scheme made under section 1 of the Superannuation Act 1972[^f00004].
+
+## 8. Application of fees[^key-2273190dc23ea118d771f25936adcdc4]
+
+All fees received by virtue of Schedule 1 shall, unless otherwise appropriated in aid, be paid into the Consolidated Fund.
+
+Mackay of Clashfern, *C.*
+
+Dated 11th March 1996
+
+We concur,
+
+Derek Conway
+
+Simon Burns
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+Dated 14th March 1996
+
+## SCHEDULE 1[^key-aa9cfd1b95a05856a04547882de41efe]
+
+Article 4
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th>Item</th><th>Fee £</th><th>Document to be endorsed</th></tr>
+</thead>
+<tbody>
+<tr><td>Application for grant: general<br>1. On an application for a grant (or for resealing a grant) other than an application to which Fee No. 3 applies:—<br>(a) if the assessed value does not exceed £10,000</td><td>No Fee</td></tr>
+<tr><td>exceeds £10,000 but does not exceed £25,000</td><td>£60·00</td></tr>
+<tr><td>exceeds £25,000 but does not exceed £40,000</td><td>£120·00</td></tr>
+<tr><td>exceeds £40,000 but does not exceed £70,000</td><td>£220·00</td></tr>
+<tr><td>exceeds £70,000 but does not exceed £100,000</td><td>£320·00</td></tr>
+<tr><td>exceeds £100,000 but does not exceed £200,000</td><td>£400·00</td><td>The requisition</td></tr>
+<tr><td>(b) if the assessed value exceeds £200,000</td><td>£400·00</td></tr>
+<tr><td>and, for every additional £100,000 or part thereof a further fee of</td><td>£65·00</td><td>The requisition</td></tr>
+<tr><td>Personal application fee<br>2. On an application for a grant by a personal applicant (or for resealing such a grant if the application is prepared in the Probate and Matrimonial Office), save where Fee No. 3(<em>a</em>) is payable, in addition to any other fee for each £1,000 or part thereof</td><td>£6·00</td><td>The requisition</td></tr>
+<tr><td>Special applications<br>3. On an application for:—<br>(a) a grant in respect of an estate exempt from estate duty under section 71 of the Finance Act 1952, from capital transfer tax by virtue of paragraph 1 of Schedule 7 to the Finance Act 1975 or from inheritance tax by virtue of section 154 of the Inheritance Tax Act 1984 (exemption for members of the armed forces, etc.);<br>(b) a grant limited to trust property;<br>(c) a duplicate grant;<br>(d) any second or subsequent grant (including one following a revoked grant) in respect of the same deceased person, other than a grant preceded only by a grant limited to trust property or to a part of the estate</td><td>£8·00</td><td>The requisition</td></tr>
+<tr><td>Alteration in grants, etc.<br>4. For making any notation on or amendment to the grant and record after issue, or impounding or revoking a grant, appointing a guardian or an administrator in cases of mental or physical incapacity or releasing an impounded grant inclusive of filing any document, or preparing any memorandum under the Inheritance (Provisions for Family and Dependants) (Northern Ireland) Order 1979</td><td>£8·00</td><td>The requisition</td></tr>
+<tr><td>Caveats<br>5. For the entry or the extension of a caveat or for a warning to a caveat</td><td>£15·00</td><td>The filed copy</td></tr>
+<tr><td>Deposit of wills<br>6. On depositing a will for safe custody in the Probate and Matrimonial Office or any branch office</td><td>£6·00</td><td>The requisition</td></tr>
+<tr><td>Searches<br>7. For a search for a grant on behalf of the party applying (whether in person or by letter):—<br>(a) the first 10 years or part thereof searched</td><td>£5·00</td><td>The requisition</td></tr>
+<tr><td>(b) for every additional year searched</td><td>£3·00</td><td>The requisition</td></tr>
+<tr><td>Inspection<br>8. On inspection of office records, an original will or any other document, including a copy of a will</td><td>£5·00</td><td>The requisition</td></tr>
+<tr><td>Copies of documents<br>9. (a) for a copy of all or part of any document, whether or not issued as an office copy, for each page</td><td>£1·00</td></tr>
+<tr><td>(b) for a certified copy of any document per page</td><td>£2·50</td></tr>
+<tr><td>(c) for a sealed and certified copy of any document per page</td><td>£3·00</td></tr>
+<tr><td>(d) for an exemplification of a copy signed by the master and countersigned by the Lord Chief Justice, including the fees for preparing the necessary documents</td><td>£25·00</td><td>The requisition</td></tr>
+<tr><td>Postal application for copy of will or grant<br>10. For handling a postal application for a copy of a will or grant, in respect of each estate</td><td>£5·00</td><td>The requisition</td></tr>
+<tr><td>Oaths and guarantees<br>11. Save in a personal application for a grant:—</td></tr>
+<tr><td>(a) for administering an oath, for each depondent to each affidavit</td><td>£5·00</td></tr>
+<tr><td>(b) for marking each exhibit</td><td>£2·00</td></tr>
+<tr><td>(c) for superintending an attesting execution of a guarantee for each surety</td><td>£5·00</td><td>The requisition</td></tr>
+<tr><td>Production of document, etc.<br>12. On an application for the production of records or documents to be given in evidence:—</td></tr>
+<tr><td>(a) where the records or documents are sent by post, for each document</td><td>£5·00</td></tr>
+<tr><td>(b) where an officer is required to produce the records or documents in court</td><td>£10·00</td></tr>
+<tr><td>(i) for every hour or part thereof that he is necessarily absent from his office</td><td>£25·00</td><td>The requisition</td></tr>
+<tr><td>(ii) his reasonable expenses of attendance Provided that the officer may require—<br>(1) a deposit of money on account of any further fees and a deposit of money on account of any further expenses which may probably become payable beyond the amount paid for fees and expenses on the application, receipt of which shall be marked on the application;<br>(2) an undertaking in writing to pay any further fees and expenses which may become payable beyond the amounts so paid and deposited.</td></tr>
+<tr><td>Settling documents<br>13. For perusing and settling citations, advertisements, oaths, affidavits or other documents, for each document settled</td><td>£25·00</td><td>The requisition</td></tr>
+<tr><td>Postal application for a grant<br>14. For receiving an application for a grant through the post and for correspondence with reference thereto:—</td></tr>
+<tr><td>(a) where no fee is chargeable on application for the grant</td><td>£8·00</td><td>The requisition</td></tr>
+<tr><td>(b) in other cases</td><td>£14·00</td><td>The requisition</td></tr>
+<tr><td>Applications to the Master<br>15. On any application to the Master not otherwise provided for</td><td>£30·00</td><td>The requisition.</td></tr>
+</tbody>
+</table>
+
+[^f00005][^f00006][^f00007]
+
+## SCHEDULE 2 — Orders Revoked[^key-96a4d3ad5394280f29ebbceb62d555f5]
+
+Article 3
+
+|  | Title | Reference |
+| --- | --- | --- |
+| Supreme Court (Non-Contentious Probate) | [S.R. 1991 No. 293](https://www.legislation.gov.uk/nisr/1991/293) |  |
+| Fees Order (Northern Ireland) 1991 |  |  |
+| Supreme Court (Non-Contentious Probate) | [S.R. 1992 No. 218](https://www.legislation.gov.uk/nisr/1992/218) |  |
+| Fees (Amendment) Order (Northern Ireland) 1992 |  |  |
+| Supreme Court (Non-Contentious Probate) | [S.R. 1994 No. 282](https://www.legislation.gov.uk/nisr/1994/282) |  |
+| Fees (Amendment) Order (Northern Ireland) 1994 |  |  |
+| Supreme Court (Non-Contentious Probate) | [S.R. 1995 No. 219](https://www.legislation.gov.uk/nisr/1995/219) |  |
+| Fees (Amendment) Order (Northern Ireland) 1995 |  |  |
+
+(This note is not part of the Order.)
+
+This Order revokes and replaces the Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1991 (as amended) so as to:—
+
+- (a) increase the majority of the fees to be taken in non-contentious probate proceedings; and
+- (b) restructure the fees in respect of personal applications for grants, searches and copy documents.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
+
+[^key-d4b822b1d08632ef5ccf8db7d0c20920]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^key-0f29e26d8da73b200bf21a25836e3cca]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^f00002]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51) by virtue of section 100(1) and (2) of the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41) on and after 25th July 1986 the Capital Transfer Tax Act 1984 may be cited as the Inheritance Tax Act 1984, and any reference in that Act to capital transfer tax is to have effect as a reference to inheritance tax, except where the reference relates to a liability arising before 25th July 1986
+
+[^key-834129a7b9700b87474b75f8d649a313]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^key-5462825de7bb7dd3b23a7fa3c9cda43e]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^key-d58c0034235666e54e8d76997ce3c75c]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^key-47139182ec5b6ae635a6d6f90158325d]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^key-11ea1c2bf9aa587f6e58972f1b78ba52]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^f00003]: Footnote: [1981 c. 20](https://www.legislation.gov.uk/ukpga/1981/20)
+
+[^f00004]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11)
+
+[^key-2273190dc23ea118d771f25936adcdc4]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^key-aa9cfd1b95a05856a04547882de41efe]: Commencement: Sch. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+
+[^f00005]: Footnote: [1952 c. 33](https://www.legislation.gov.uk/ukpga/1952/33); section 71 was repealed (with savings) by the Finance Act [1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), sections 50, 52(2), 59 and Schedule 13 Part 1
+
+[^f00006]: Footnote: [1975 c. 7](https://www.legislation.gov.uk/ukpga/1975/7); Schedule 7 was repealed (with savings) by the Inheritance Tax Act 1984, section 274, 275(1)-(3), 277 and Schedules 7 and 9
+
+[^f00007]: Footnote: S.I. [1979/924 (N.I. 8)](https://www.legislation.gov.uk/nisi/1979/924)
+
+[^key-96a4d3ad5394280f29ebbceb62d555f5]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)

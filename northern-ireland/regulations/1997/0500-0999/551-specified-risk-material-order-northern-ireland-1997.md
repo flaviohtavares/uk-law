@@ -1,0 +1,382 @@
+---
+title: Specified Risk Material Order (Northern Ireland) 1997
+id: nisr/1997/551
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-12-29'
+text_date: '1998-01-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/551
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/551/data.pdf
+pending_changes: 18
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Specified Risk Material Order (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (18).** Text as at 1998-01-01. See https://www.legislation.gov.uk/changes/affected/nisr/1997/551
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 551
+
+ANIMALS
+
+Specified Risk Material Order (Northern Ireland) 1997
+
+Made
+
+29th December 1997
+
+Coming into operation
+
+1st January 1998
+
+The Department of Agriculture, in exercise of the powers conferred on it by Articles 2(3), 5(1), 19(*b*), (*e*), (*f*), (*i*) and (*k*), 24, 29(1) and (2), 32, 44, 46(7A) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001], and of every other power enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement[^key-aac5b6587b21c56616b0630558bb379f]
+
+This Order may be cited as the Specified Risk Material Order (Northern Ireland) 1997 and shall come into operation on 1st January 1998.
+
+## 2. Interpretation[^key-8fefc5e15f708102a14f2dbc67c3c593]
+
+(1) In this Order—
+
+- “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981;
+- “appropriate veterinary authority” means the central authority of a territory empowered to carry out veterinary checks, or any authority in that territory to which it has delegated such powers;
+- “class I specified risk material” means—
+  - (a) class I specified bovine material; and
+  - (b) class I specified sheep or goat material,
+
+  but does not include material derived from animals which—
+
+  - (i) were slaughtered or died outside the United Kingdom before 1st January 1998; or
+  - (ii) were born, reared and slaughtered in Australia or New Zealand;
+- “class II specified risk material” means—
+  - (a) class II specified bovine material;
+  - (b) class II specified sheep or goat material;
+  - (c) any part of a ruminant animal remaining attached to class I or II specified bovine material or class I or II specified sheep or goat material after dissection of the carcase;
+  - (d) any animal material which comes into contact with class I or II specified bovine material or class I or class II specified sheep or goat material after it has been removed from the carcase of a ruminant animal; and
+  - (e) specified solid waste;
+- “creature” means any animal or bird;
+- “feedingstuff” has the meaning given to it by section 66(1) of the Agriculture Act 1970[^f00002], save that it shall apply to products and substances for oral feeding to any creature, and section 66(2)(*b*) of that Act shall have effect for the purposes of this Order as it does for the purposes of that Act;
+- “food” has the same meaning as in the Food Safety (Northern Ireland) Order 1991[^f00003];
+- “intestines” means that part of the digestive tract of a bovine animal from the junction of the abomasum and the duodenum to (and including) the rectum and anal sphincter;
+- “licensed premises” means premises licensed for the purposes of Article 10;
+- “ruminant animal” means any bovine animal, sheep or goat;
+- “specified bovine material” means class I or class II specified bovine material;
+- “specified risk material” means class I or class II specified risk material;
+- “specified sheep or goat material” means class I or class II specified sheep or goat material;
+- “specified solid waste” means any solid matter resulting from the slaughter of ruminant animals, or from the subsequent processing of their carcases, which is collected in any part of the drainage system draining any place where specified bovine or sheep or goat material is handled; and
+- “UK specified risk material” means specified risk material derived from a ruminant animal which has died or was slaughtered in the United Kingdom.
+
+(2) For the purposes of this Order the supply of specified risk material, feedingstuffs or cosmetic, pharmaceutical or medical products otherwise than by sale at, in or from any place where specified risk material, feedingstuffs or cosmetic, pharmaceutical or medical products are supplied in the course of a business, shall be deemed to be a sale, and “sell” includes have in possession for or offer or expose for sale.
+
+(3) For the purposes of this Order material shall be treated as a cosmetic, pharmaceutical or medical product whether it is used or intended for use as such by itself or as an ingredient or additive in something which is so used or intended for such use.
+
+(4) For the purposes of the 1981 Order in its application to this Order:—
+
+- (a) the list of animals in Part I of Schedule 1 to the 1981 Order is hereby extended so as to comprise—
+  - (i) any kind of mammal except man;
+  - (ii) any kind of four-footed beast which is not a mammal;
+  - (iii) fish and invertebrates; and
+- (b) the list of poultry in Part II of Schedule 1 to the 1981 Order is hereby extended so as to comprise birds of any species.
+
+## 3. Specified sheep or goat material[^key-d450fb944e435a8c6c98121418673a53]
+
+(1) In this Order “class I specified sheep or goat material” means—
+
+- (a) in relation to material derived from a sheep or goat which at the time it was slaughtered or died either had one or more permanent incisor teeth erupted through the gum or was aged more than 12 months—
+  - (i) the skull, including the brain and eyes;
+  - (ii) the tonsils; and
+  - (iii) the spinal cord; and
+- (b) the spleen of a sheep or goat.
+
+(2) In this Order “class II specified sheep or goat material” means the head of any sheep or goat which was slaughtered or died in the United Kingdom except—
+
+- (a) any part of it which is class I specified sheep or goat material;
+- (b) the horns, where they are removed from the head—
+  - (i) immediately after slaughter;
+  - (ii) before the head is removed from the carcase; and
+  - (iii) without breaking into the cranial cavity; and
+- (c) the tongue, where it is removed from the head immediately after slaughter and before the head is stained in accordance with the Specified Risk Material Regulations (Northern Ireland) 1997[^f00004].
+
+## 4. Specified bovine material[^key-a58bb9e11bd0e52c7c6c77e05fa783b4]
+
+(1) In this Order “class I specified bovine material” means in relation to a bovine animal—
+
+- (a) the skull, including the brain and eyes, tonsils and spinal cord, of an animal which was slaughtered or died outside the United Kingdom at an age greater than twelve months;
+- (b) the brains, spinal cord, thymus, tonsils, spleen and intestines of an animal which was slaughtered or has died in the United Kingdom at an age greater than six months; and
+- (c) the skull (including the eyes) of an animal which was slaughtered or has died in the United Kingdom at an age greater than twelve months.
+
+(2) In this Order “class II specified bovine material” means in relation to a bovine animal—
+
+- (a) the head of an animal which was slaughtered or has died in the United Kingdom at an age of six months or greater, except—
+  - (i) any part of the head which is class I specified bovine material; and
+  - (ii) the tongue, where it is removed from the head immediately after slaughter and before the head is stained in accordance with the Specified Risk Material Regulations (Northern Ireland) 1997; and
+- (b) the thymus and intestines of an animal which—
+  - (i) died or was slaughtered in the United Kingdom at an age of two months or greater but less than six months; or
+  - (ii) was slaughtered in the United Kingdom at an age of less than two months for human consumption.
+
+## 5. Licences[^key-a5c4f089b725031836ff1bf643b647c5]
+
+Any licence granted under this Order—
+
+- (a) shall be in writing;
+- (b) may be made subject to such conditions as may be specified therein; and
+- (c) may be amended, suspended or revoked at any time by notice in writing served on the person to whom the licence was granted if the Department is satisfied that the requirements of this Order, or any conditions in the licence, are not being complied with.
+
+## 6. Import of class I specified risk material[^key-21343404ab5c296d65ecbc4b67efd6d9]
+
+(1) A person shall not import into Northern Ireland from any place outside the United Kingdom, the Channel Islands and the Isle of Man—
+
+- (a) any class I specified risk material, except where it is to be transported directly to licensed premises; or
+- (b) any food or feedingstuff listed in Schedule 1, except a food or feedingstuff which—
+  - (i) does not contain any class I specified risk material; and
+  - (ii) is accompanied by a certificate in the form set out in Schedule 2 issued by the appropriate veterinary authority of the place from which the food or feedingstuff was despatched.
+
+(2) Where class I specified risk material is imported in accordance with the provisions of paragraph (1)(*a*) the importer shall ensure that it is transported to licenced premises without delay.
+
+(3) For the purposes of this Article a food or feedingstuff shall be treated as containing class I specified risk material if it contains anything derived from it.
+
+(4) A person shall not be considered to have contravened any prohibitions in paragraph (1) where he is able to prove—
+
+- (a) where it is alleged that he imported a food or feedingstuff listed in Schedule 1 containing class I specified risk material, that he did not know or have any reason to believe that the food or feedingstuff imported by him contained any class I specified risk material;
+- (b) where it is alleged that he imported a food or feedingstuff listed in Schedule 1 without the certificate referred to in paragraph (1)(*b*)(ii) accompanying it, that the food or feedingstuff listed in Schedule 1 was accompanied by a document purporting to be the certificate required by that paragraph, which he did not know or have any reason to believe to be false; and
+- (c) where it is alleged that he imported a food or feeding stuff listed in Schedule 1 which contained class I specified risk material without the certificate referred to in paragraph (1)(*b*)(ii) accompanying it, that he did not know or have reason to believe that the food or feedingstuff contained class I specified risk material.
+
+(5) A person shall not be considered to have contravened any prohibitions in paragraph (2) in relation to any imported class I specified risk material where he is able to prove that he took all reasonable steps to ensure that it was transported to licenced premises as required by that paragraph.
+
+## 7. Specified risk material for use in cosmetic, pharmaceutical and medical products[^key-ff1a96af74e1b8f09e952c187435557c]
+
+(1) A person shall not sell any UK specified risk material for use in the preparation or manufacture of any cosmetic, pharmaceutical or medical product.
+
+(2) A person shall not use any UK specified risk material in the preparation or manufacture of any ingredient to be sold for use in the preparation or manufacture of a cosmetic, pharmaceutical or medical product.
+
+(3) The prohibitions in paragraphs (1) and (2) shall apply to anything derived from UK specified risk material as if it were UK specified risk material.
+
+(4) A person shall not be considered to have contravened any prohibitions in paragraph (1) or (2) where he is able to prove that he did not know or have any reason to believe that the material was, or was derived from, UK specified risk material.
+
+## 8. Specified risk material for consumption by any creature[^key-6c9105477e8ea21878acf4d990ac6d06]
+
+(1) A person shall not sell any specified risk material for use in the preparation of any feedingstuff.
+
+(2) A person shall not use any specified risk material in the preparation of any feedingstuff.
+
+(3) A person shall not sell any specified risk material, or any feedingstuff containing specified risk material, for feeding to any creature.
+
+(4) A person shall not feed to any creature—
+
+- (a) any specified risk material;
+- (b) any feedingstuff containing specified risk material; or
+- (c) a whole carcase or any part of a ruminant animal from which specified risk material has not been removed in accordance with the Specified Risk Material Regulations (Northern Ireland) 1997.
+
+(5) For the purposes of this Article a feedingstuff shall be treated as containing specified risk material if it contains anything derived from it.
+
+(6) Nothing in paragraphs (1) to (4) shall prevent—
+
+- (a) the feeding to any creature of any specified risk material or any feedingstuffs for research purposes at a research establishment under the authority of a licence issued by the Department;
+- (b) the sale of any specified risk material or any feedingstuff for such purposes; or
+- (c) the use of specified risk material in the preparation of feedingstuffs for such purposes.
+
+(7) A person shall not be considered to have contravened any prohibitions in paragraphs (1) to (4) in relation to any specified risk material or any feedingstuff where he is able to prove that he did not know or have any reason to believe that the material was, or the feedingstuff contained, specified risk material.
+
+## 9. Prohibition on the removal of brain and eyes[^key-e9784937dacefd50432c85e3165ffd7c]
+
+A person shall not remove the brain or eyes from the carcase of a bovine animal aged over six months, or from a carcase of a sheep or goat (of any age at death), except—
+
+- (a) for the purposes of veterinary or scientific examination or research; and
+- (b) in a part of the premises kept free at all times from food, feedingstuffs and any cosmetic, pharmaceutical or medical product.
+
+## 10. Approved premises not producing food, feedingstuffs or cosmetic, pharmaceutical or medical products[^key-c6022f22f65584885e0110091d8c86ae]
+
+(1) Where the Department is satisfied that—
+
+- (a) any premises are suitable to process class II specified risk material for use in a manufacturing process;
+- (b) those premises are not being used for the production of any food or feedingstuffs or any cosmetic, pharmaceutical or medical product or any thing likely to come into direct contact with any such materials;
+- (c) following an inspection of the premises by a veterinary inspector, the operator of those premises has in place a system for tracing through the manufacturing process all specified risk material delivered to him sufficient to demonstrate—
+  - (i) that all class II specified risk material delivered to him is either used in the manufacturing process or disposed of in accordance with such conditions as are specified in the licence; and
+  - (ii) that no product manufactured in the process is used as, in connection with or in the production of any food or feedingstuff or any cosmetic, pharmaceutical or medical product; and
+- (d) the use of class II specified risk material in the manufacturing process in the premises does not pose a risk to human or animal health,
+
+the Department may licence those premises for the purpose of using class II specified risk material in that manufacturing process.
+
+(2) Any person delivering specified risk material to licenced premises shall state in writing to the operator of those premises the place from which that specified risk material was collected for delivery to those premises.
+
+(3) The operator of licenced premises shall record on the arrival of class II specified risk material—
+
+- (a) the weight of the class II specified risk material delivered;
+- (b) the date of delivery; and
+- (c) the place from which it was collected for delivery to those premises,
+
+and shall keep such records for two years from the date of arrival.
+
+(4) A person shall not process specified risk material at licenced premises except in accordance with any conditions specified in the licence.
+
+## 11. Transport[^key-1e3f9a1b547ee49f9f7bf4f2773f5ad7]
+
+(1) Any person transporting specified risk material shall ensure that the part of the vehicle in which specified risk material has been conveyed is thoroughly washed and disinfected before any feedingstuff or any animal material or any cosmetic, pharmaceutical or medical product is placed in that part of the vehicle.
+
+(2) In this article the expression “vehicle” means, in any case in which specified risk material is conveyed in a bulk container, that container.
+
+## 12. Storage[^key-44e81de05017fd1e727f2054ef5c8e3d]
+
+(1) Subject to paragraph (2), a person shall not store specified risk material in the same room as any feedingstuff or any cosmetic, pharmaceutical or medical product.
+
+(2) The prohibition in paragraph (1) shall not apply where an inspector has approved the storage of specified risk material in the same room as any feedingstuff or any cosmetic, pharmaceutical or medical product, on being satisfied that the arrangements for storage willl ensure the adequate separation of the specified risk material from the feedingstuff or product.
+
+## 13. Samples[^key-a8b68d233e0cf948cc69c2299af35e47]
+
+Where an inspector has reasonable grounds for supposing that the provisions of this Order are not being complied with, he may take from any carcase, material, food, feedingstuff, or from any cosmetic, pharmaceutical or medical product, such samples as he considers necessary to establish whether or not an offence has been committed.
+
+## 14. Seizure and destruction of imports[^key-9b7dd7bb67cc3a44c598c3b37f006b19]
+
+(1) Where an inspector has reasonable grounds for suspecting that any class I specified risk material or any food or feedingstuff has been imported in contravention of Article 6, he may at any time seize or cause to be seized that material, food or feedingstuff, or anything into which it has subsequently been incorporated.
+
+(2) A veterinary inspector may destroy anything seized pursuant to paragraph (1) above without compensation.
+
+## 15. Consignment[^key-2b4ba017b12f41a4b2af35eb011c9154]
+
+A person shall not consign from Northern Ireland to another member State UK specified risk material, or protein or tallow derived from UK specified risk material, except under and in accordance with a licence granted by the Department.
+
+## 16. Revocation[^key-1c237bbbb78f960ff26129bfe73b4a57]
+
+The Specified Bovine Material Order (Northern Ireland) 1997[^f00005] and the Heads of Sheep and Goats Order (Northern Ireland) 1996[^f00006] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Agriculture on
+
+R. S. Johnston
+
+Assistant Secretary
+
+29th December 1997.
+
+## SCHEDULE 1 — Foods and feedingstuffs requiring import certificates
+
+Article 6(1)
+
+Food and feedingstuffs of any of the following descriptions containing material of bovine, ovine or caprine origin—
+
+**1.**[^key-b75fec607f9f704f36d64dc2f24633d0] Fresh meat as defined in regulation 2 of the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^f00007]
+
+**2.**[^key-e9c2b40a76024ac26626e1ed7f29123a] Minced meat and meat preparations, as defined in regulation 2 of the Minced Meat and Meat Preparations (Hygiene) Regulations (Northern Ireland) 1997[^f00008]
+
+**3.**[^key-0ef94b81d17841c4a730c46ef62af12e] Meat products, meat extracts, greaves and meat powder as defined in regulation 2 of the Meat Products (Hygiene) Regulations (Northern Ireland) 1997[^f00009]
+
+**4.**[^key-f4e68917ce42495ce3f9d914fc759ed2] Milk products for human consumption containing gelatin or tallow
+
+**5.**[^key-36de80283b83143f1913f8caddaaf47a] Fishery products for human consumption containing gelatin or tallow
+
+**6.**[^key-111cb11a44ac7726edec7e1db16a0b18] Egg products for human consumption containing gelatin or tallow
+
+**7.**[^key-300d07ed2d6e97ee60b07b16ea60a4e9] Snails or frogs' legs for human consumption containing gelatin or tallow
+
+**8.**[^key-4dcf23f5b620624968ba1c68908a010a] Rendered animal fat, as defined in regulation 2 of the Meat Products (Hygiene) Regulations (Northern Ireland) 1997
+
+**9.**[^key-8a6dfe98c6ece1d8c1cfbf836bd4ded8] Feedingstuffs
+
+**10.**[^key-fba18b0c73a75b240a640babdd3f9f75] Processed animal protein, including gelatin
+
+**11.**[^key-e2f1ce827a153a7b29278de7cb106bf7] Bones and bone products.
+
+## SCHEDULE 2 — Form of importation certificate[^key-6b951359787f6d519c42657da27140cd]
+
+Article 6(2)
+
+> [image: see source](https://www.legislation.gov.uk/nisr/1997/551/images/nisr_19970551_en_001) [image: see source](https://www.legislation.gov.uk/nisr/1997/551/images/nisr_19970551_en_002)
+
+(This note is not part of the Order.)
+
+This Order revokes the Specified Bovine Material Order (Northern Ireland) 1997 and the Heads of Sheep and Goats Order (Northern Ireland) 1996. This Order amends and replaces the provisions of those Orders prohibiting the use of specified bovine material in feedingstuffs and cosmetic, pharmaceutical and medical products. The controls on the use of specified bovine material in food, and the provisions relating to the removal of specified bovine material from cattle and its destruction are contained in the Specified Risk Material Regulations (Northern Ireland) 1997.
+
+The Order imposes controls on the import of class I specified risk material (defined in Article 2 by reference to the definitions of specified bovine material and specified sheep and goat material set out in Articles 3 and 4), and requires imported food and feedingstuffs of the types set out in Schedule 1 to be certified by the veterinary authorities in the place from which they were despatched to Northern Ireland as not containing class 1 specified risk material (Article 6).
+
+The Order prohibits the use of specified risk material derived from animals slaughtered in the United Kingdom in ingredients for cosmetic, pharmaceutical and medical products (Article 7) and prohibits the use of all specified risk material in feedingstuffs for any creature, subject to an exemption for research purposes (Article 8).
+
+Article 10 of the Order provides for the licensing of premises as suitable to process specified risk material in a manufacturing process not producing any food, feedingstuff, cosmetic, pharmaceutical or medical product or any product likely to come into contact with any of them.
+
+The Order contains provisions on transport, storage and sampling (Articles 11 to 13), and makes provision for the recall and disposal of imported specified risk material and feedingstuffs containing specified risk material imported, produced or sold in contravention of the Order (Article 14). Article 15 prohibits the export of specified risk material to other member States, except in accordance with a licence granted by the Department.
+
+This Order has been notified in draft to the European Commission as a technical standard, pursuant to article 8 of Council Directive [83/189/EEC](https://www.legislation.gov.uk/european/directive/1983/0189) laying down a procedure for the provision of information in the field of technical standards and regulations (as last amended by Directive [94/10/EC](https://www.legislation.gov.uk/european/directive/1994/0010)).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and S.I. [1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Arts. 19, 22, 23(1), (2) and (3), 24(1) and Schedule as applied by the Zoonoses Order (Northern Ireland) 1997 ([S.R. 1997 No. 548](https://www.legislation.gov.uk/nisr/1997/548))
+
+[^key-aac5b6587b21c56616b0630558bb379f]: Commencement: Art. 1 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-8fefc5e15f708102a14f2dbc67c3c593]: Commencement: Art. 2 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^f00002]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40); the definition of “feeding stuff” in section 66(1), and the provisions of section 66(2) were substituted by regulation 20(1) of the Feeding Stuffs Regulations 1995 (S.I. [1995/1412](https://www.legislation.gov.uk/uksi/1995/1412))
+
+[^f00003]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1663 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1663)
+
+[^key-d450fb944e435a8c6c98121418673a53]: Commencement: Art. 3 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^f00004]: Footnote: [S.R. 1997 No. 552](https://www.legislation.gov.uk/nisr/1997/552)
+
+[^key-a58bb9e11bd0e52c7c6c77e05fa783b4]: Commencement: Art. 4 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-a5c4f089b725031836ff1bf643b647c5]: Commencement: Art. 5 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-21343404ab5c296d65ecbc4b67efd6d9]: Commencement: Art. 6 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-ff1a96af74e1b8f09e952c187435557c]: Commencement: Art. 7 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-6c9105477e8ea21878acf4d990ac6d06]: Commencement: Art. 8 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-e9784937dacefd50432c85e3165ffd7c]: Commencement: Art. 9 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-c6022f22f65584885e0110091d8c86ae]: Commencement: Art. 10 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-1e3f9a1b547ee49f9f7bf4f2773f5ad7]: Commencement: Art. 11 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-44e81de05017fd1e727f2054ef5c8e3d]: Commencement: Art. 12 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-a8b68d233e0cf948cc69c2299af35e47]: Commencement: Art. 13 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-9b7dd7bb67cc3a44c598c3b37f006b19]: Commencement: Art. 14 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-2b4ba017b12f41a4b2af35eb011c9154]: Commencement: Art. 15 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-1c237bbbb78f960ff26129bfe73b4a57]: Commencement: Art. 16 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^f00005]: Footnote: [S.R. 1997 No. 231](https://www.legislation.gov.uk/nisr/1997/231)
+
+[^f00006]: Footnote: [S.R. 1996 No. 428](https://www.legislation.gov.uk/nisr/1996/428)
+
+[^key-b75fec607f9f704f36d64dc2f24633d0]: Commencement: Sch. 1 para. 1 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^f00007]: Footnote: [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493)
+
+[^key-e9c2b40a76024ac26626e1ed7f29123a]: Commencement: Sch. 1 para. 2 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^f00008]: Footnote: [S.R. 1997 No. 495](https://www.legislation.gov.uk/nisr/1997/495)
+
+[^key-0ef94b81d17841c4a730c46ef62af12e]: Commencement: Sch. 1 para. 3 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^f00009]: Footnote: [S.R. 1997 No. 494](https://www.legislation.gov.uk/nisr/1997/494)
+
+[^key-f4e68917ce42495ce3f9d914fc759ed2]: Commencement: Sch. 1 para. 4 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-36de80283b83143f1913f8caddaaf47a]: Commencement: Sch. 1 para. 5 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-111cb11a44ac7726edec7e1db16a0b18]: Commencement: Sch. 1 para. 6 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-300d07ed2d6e97ee60b07b16ea60a4e9]: Commencement: Sch. 1 para. 7 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-4dcf23f5b620624968ba1c68908a010a]: Commencement: Sch. 1 para. 8 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-8a6dfe98c6ece1d8c1cfbf836bd4ded8]: Commencement: Sch. 1 para. 9 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-fba18b0c73a75b240a640babdd3f9f75]: Commencement: Sch. 1 para. 10 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-e2f1ce827a153a7b29278de7cb106bf7]: Commencement: Sch. 1 para. 11 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)
+
+[^key-6b951359787f6d519c42657da27140cd]: Commencement: Sch. 2 in operation at 1.1.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1997/551/article/1)

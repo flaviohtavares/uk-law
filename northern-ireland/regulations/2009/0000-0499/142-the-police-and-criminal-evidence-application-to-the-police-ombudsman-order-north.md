@@ -1,0 +1,260 @@
+---
+title: The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009
+id: nisr/2009/142
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2009-03-19'
+text_date: '2010-03-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2009/142
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2009/142/pdfs/nisr_20090142_en.pdf
+- http://www.legislation.gov.uk/nisr/2009/142/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009
+
+> Text as at 2010-03-24.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 142
+
+POLICE
+
+The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009
+
+Made
+
+19th March 2009
+
+To be laid before Parliament
+
+Coming into operation
+
+18th May 2009
+
+The Secretary of State in exercise of the powers conferred on him by section 56(2) of the Police (Northern Ireland) Act 1998[^f00001] hereby makes the following Order.
+
+## 1. Citation and commencement[^key-b1570a08d966d8a95aadb8664742ce49]
+
+This Order may be cited as the Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 and shall come into operation on 18th May 2009.
+
+## 2. Interpretation[^key-d51b321a523e798affb617d3a53b0afb]
+
+In this Order, unless the context otherwise requires—
+
+- “the 1989 Order” means the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00002];
+- “Officer” means an officer of the Ombudsman;
+- “Ombudsman” means the Police Ombudsman for Northern Ireland established under section 51 of the Police (Northern Ireland) Act 1998.
+
+## 3. Application[^key-ba345a4c99d27bd65b24620b3d13e06d]
+
+(1) Subject to the modifications in paragraphs (2) and (3) and Schedule 2, the provisions of the 1989 Order contained in Schedule 1 which relate to the investigations of offences conducted by police officers or to persons detained [^key-5c00c471445ffbc5d1e940a50c8256be]... shall apply to investigations conducted by officers which relate to matters of the Ombudsman under Part VII of the Police (Northern Ireland) Act 1998.
+
+(2) Where in the 1989 Order any act or thing is to be done by a constable or police officers of a rank specified in column 1 [^key-b2da7661e3e91fae1a3598043d94b90e]... of Schedule 2, that act or thing shall be done by an officer of at least the grade specified in column 2 of Schedule 2 and the 1989 Order shall be applied as if that grade were specified in that Order.
+
+(3) Where any provision of the 1989 Order as applied to an officer—
+
+- (a) confers a power on an officer, and
+- (b) does not provide that that power may only be exercised with the consent of some person other than an officer,
+
+the officer may use reasonable force, if necessary, in the exercise of the power.
+
+## 4. Revocation[^key-22bef5406e8d1166d86cf4c6984e1336]
+
+The Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2000[^f00003] is hereby revoked.
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+19th March 2009
+
+## SCHEDULE 1 — Provisions of the 1989 Order applied to an Officer of the Ombudsman[^key-8f643cd92a9b017a5358af10e9972ac0]
+
+Article 3(1)
+
+[^key-8f643cd92a9b017a5358af10e9972ac0]
+
+- Article 3 (powers to stop and search)[^f00004]
+- Article 4 (powers relating to search under Article 3 and other powers)[^f00005]
+- Article 5 (duty to make records concerning searches)[^f00006]
+- Article 7 (reports of recorded searches)
+- Article 10 (power of Justice of the Peace to authorise entry and search of premises)[^f00007]
+- Article 11(1) and (2) (special provisions to access) and Schedule 1 (special procedure)[^f00008]
+- Article 12 (meaning of “items subject to legal privilege”)
+- Article 13 (meaning of “excluded material”)
+- Article 14 (meaning of “personal records”)
+- Article 15 (meaning of “journalistic material”)
+- Article 16 (meaning of “special procedure material”)
+- Article 17 (search warrants—safeguards)[^f00009]
+- Article 18 (execution of warrants)[^f00010]
+- Article 19(1)(b), (2) and (3) (entry for purpose of arrest etc.)[^f00011]
+- Article 20(1) to (8) (entry and search after arrest)[^f00012]
+- Article 21 (general power of seizure etc.)[^f00013]
+- Article 22 (extension of powers of seizure to computerised information)[^f00014]
+- Article 23 (access and copying)[^f00015]
+- Article 24(1) to (4) (retention)
+- Article 25 (meaning of premises)
+- Article 26 (arrest without warrant)[^f00016]
+- Article 30 (information to be given on arrest)[^f00017]
+- Article 31 (voluntary attendance at a police station etc.)[^f00018]
+- Article 32(1) to (14) (arrest elsewhere than at a police station)[^f00019]
+- Article 33 (arrest for further offences)
+- Article 34(1) to (9) (search upon arrest)(subject to modifications in Article 5)[^f00020]
+- Article 35(1) to (6) (limitations on police detention)[^f00021]
+- Article 40(2) and (3) (responsibilities in relation to detained persons)[^f00022]
+- Article 44 (warrants of further detention)[^f00023]
+- Article 45 (extension of warrants of further detention)
+- Article 46 (detention before charge—supplementary)
+- Article 47 (detention after charge)
+- Article 49 (police detention to count towards custodial sentence)
+- Article 50 (records of detention)[^f00024]
+- Article 51(d) (savings)
+- Article 55 (searches of detained persons)[^f00025]
+- Article 55A (searches and examination to ascertain identity)
+- Article 56 (intimate searches)[^f00026]
+- Article 56A (x-rays and ultrasound scans)
+- Article 57(1) to (9) (right to have someone informed when arrested)[^f00027]
+- Article 59(1) to (11) (access to legal advice)[^f00028]
+- Article 60 (tape-recording of interviews)[^f00029]
+- Article 61 (fingerprinting)[^f00030]
+- Article 61A (impressions of footwear)
+- Article 62(1) to (9 A) (intimate samples)[^f00031]
+- Article 63 (other samples)[^f00032]
+- Article 63A (fingerprints and samples: supplementary provisions)[^f00033]
+- Article 64(1) to (7) (destruction of fingerprints and samples)[^f00034]
+- Article 64A (photographing of suspects)
+- Article 65 (codes of practice)[^f00035]
+- Article 66(1) to (8) and (9) to (11 A) (codes of practice—supplementary)[^f00036]
+- Article 88 (power of constable to use reasonable force)
+
+## SCHEDULE 2 — Equivalent Grades of Officers[^key-5551611d7f1ac2a0e9366d672e3d219b]
+
+Article3(2)
+
+[^key-5551611d7f1ac2a0e9366d672e3d219b]
+
+[^key-c4839effcef58fb85f6fcfe7930b0abb]...
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Rank of constable or police officer</th><th>Grade of officer</th></tr>
+</thead>
+<tbody>
+<tr><td>Superintendent</td><td>Senior Investigation Officer</td></tr>
+<tr><td>Inspector</td><td>Investigation Officer</td></tr>
+<tr><td>Sergeant</td><td>Assistant Investigation Officer</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order)
+
+This Order applies certain provisions of the Police and Criminal Evidence (Northern Ireland) Order 1989, subject to specified modifications, to relevant investigations conducted by officers of the Police Ombudsman and to persons detained by such officers.
+
+Article 3 of the Order applies the provisions of the 1989 Order contained in Schedule 1, subject to specified modifications, to the investigation of offences conducted by officers of the Police Ombudsman and to persons detained by such officers. Schedule 2 to the Order specifies the equivalent police and Ombudsman Officer grades.
+
+Article 4 provides for the revocation of the earlier instrument.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
+
+[^key-b1570a08d966d8a95aadb8664742ce49]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+
+[^key-d51b321a523e798affb617d3a53b0afb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/142/article/2) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+
+[^f00002]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
+
+[^key-ba345a4c99d27bd65b24620b3d13e06d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+
+[^key-5c00c471445ffbc5d1e940a50c8256be]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2009/142/article/3/1) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2010/46/article/2/a)
+
+[^key-b2da7661e3e91fae1a3598043d94b90e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisr/2009/142/article/3/2) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2010/46/article/2/b)
+
+[^key-22bef5406e8d1166d86cf4c6984e1336]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/142/article/4) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+
+[^f00003]: Footnote: [S.R. 2000/314](https://www.legislation.gov.uk/nisr/2000/314)
+
+[^key-8f643cd92a9b017a5358af10e9972ac0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+
+[^f00004]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341) Article 3 was amended by Article 3 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00005]: Footnote: Article 4 of the 1989 Order was amended by Article 4 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288) and the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^f00006]: Footnote: Article 5 of the 1989 Order was amended by Article 5 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00007]: Footnote: Article 10 of the 1989 Order was amended by Article 7 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)). There are other amendments to Article 10 which are not relevant to this Order.
+
+[^f00008]: Footnote: Schedule 1 to the 1989 Order was amended by paragraph 14 of Schedule 2 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and Article 8 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00009]: Footnote: Article 17 of the 1989 Order was amended by Article 9 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00010]: Footnote: Article 18 of the 1989 Order was amended by Article 10 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00011]: Footnote: Article 19(1)(b) of the 1989 Order was amended by Article 11(2) of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00012]: Footnote: Article 20 of the 1989 Order was amended by paragraph 1 of Schedule 1 to the Criminal Justice (Northern Ireland) Order 2004 (S.I. [2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500)) and Article 12 of the Police and Criminal Evidence (Amendment)(Northern Ireland) order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00013]: Footnote: Article 21 of the 1989 Order was amended by paragraph 13 of Schedule 2 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
+
+[^f00014]: Footnote: Article 22 of the 1989 Order was amended by paragraph 13 of Schedule 2 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16)
+
+[^f00015]: Footnote: Article 23 of the 1989 Order was amended by Article 13 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00016]: Footnote: Article 26 was amended by Article 15 of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00017]: Footnote: Article 30 of the 1989 Order was amended by paragraph 8(6) of Schedule 15 to the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^f00018]: Footnote: Article 31 was amended by Article 3(2) of the Police (Amendment)(Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)).
+
+[^f00019]: Footnote: Article 32 of the 1989 Order was amended by Article 4(1) of the Criminal Justice (Northern Ireland) Order 2004 (S.I. [2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500)).
+
+[^f00020]: Footnote: Article 34 of the 1989 Order was amended by Article 5(1) of the Police (Amendment)(Northern Ireland) 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)) and Article 17(2) of the Police and Criminal Evidence (Amendment)(Northern Ireland) Order2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00021]: Footnote: Article 35 of the 1989 Order was amended by Article 3(2) of the Police (Amendment)(Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)).
+
+[^f00022]: Footnote: Article 40 of the 1989 Order was amended by Article 6(2) of, and paragraph 2 of Schedule 4 to, the Policing (Miscellaneous Provisions)(Northern Ireland) Order 2007 (S.I. [2007/912 (N.I. 6)](https://www.legislation.gov.uk/nisi/2007/912)).
+
+[^f00023]: Footnote: Article 44 of the 1989 Order was amended by Article 7(3) of the Police (Amendment) (Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993) and Article 22(2) of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00024]: Footnote: Article 50 of the 1989 Order was amended by section 74 of, and paragraph 18(4) of Schedule 4 to, the Police (Northern Ireland) Act [1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32) and section 78 of, and paragraph 10(3) of Schedule 6 to, the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
+
+[^f00025]: Footnote: Article 55 of the 1989 Order was amended by Article 6 of the Criminal Justice (Northern Ireland) Order 2004 (S.I. [2004/1500 (N.I.9)](https://www.legislation.gov.uk/nisi/2004/1500)).
+
+[^f00026]: Footnote: Article 56 of the 1989 Order was amended by section 74 of, and paragraph 18(5) of Schedule 4 to, the Police (Northern Ireland) Act [1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32); section 78 of, and paragraph 10(3) of Schedule 6 to, the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 41(1) of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6); section 4 of the Drugs Act [2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17); Article 2 of, and paragraph 2 of Schedule 2 to, the Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. [2007/912 (N.I. 6)](https://www.legislation.gov.uk/nisi/2007/912)); Article 6 of, and paragraph 5 of Schedule 4 to, the 2007 Order (S.I. [2007/912 (N.I.6)](https://www.legislation.gov.uk/nisi/2007/912) and Article 26(2) of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. [2007/288 (N.I 2 )](https://www.legislation.gov.uk/uksi/2007/288)).
+
+[^f00027]: Footnote: Article 57 of the 1989 Order was amended by Article 37(3) of the Criminal Justice (Confiscation) (Northern Ireland) Order 1990 (S.I. [1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588)); Article 57(1) of, and paragraph 11 of Schedule 3 to , the Proceeds of Crime (Northern Ireland) Order 1996 (S.I. [1996/1299 (N.I.9)](https://www.legislation.gov.uk/nisi/1996/1299)); section 456 of, and paragraph 19(2) of Schedule 11 to, the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) and Article 27 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00028]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341) Article 59 of the 1989 Order was amended by Article 37(4) of the Criminal Justice (Confiscation) (Northern Ireland) Order 1990 (S.I [1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588); Article 57(1) of, and paragraph 12 of Schedule 3 to, the Proceeds of Crime (Northern Ireland) Order 1996 (S.I. [1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299)); section 456 of, and paragraph 19(3) of Schedule 11 to, the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) and Article 28 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2008 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00029]: Footnote: Article 60 of the 1989 Order was amended by Schedule 1 Northern Ireland (Emergency Provisions) Act 1998 and Schedule 16 of the Terrorism Act 2000.
+
+[^f00030]: Footnote: Article 61 of the 1989 Order was amended by Schedule 6 Northern Ireland (Emergency Provisions) Act 1996; Schedule 14 of the Immigration and Asylum Act 1999; Schedule 15 of the Terrorism Act 2000; Section 170 of the Extradition Act 2003; Schedule 3 of the Police (Northern Ireland) Act 2003; Section 7 and Schedule 3 of the Criminal Justice (Northern Ireland) Order 2004; and Article 30 of the Police and Criminal Evidence (Amendment)(NI) Order 2007.
+
+[^f00031]: Footnote: Article 62 of the 1989 Order was amended by Article 10 of the Police (Amendment) (Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993); section 42(2) of the Police (Northern Ireland) Act [2002 (c. 6)](https://www.legislation.gov.uk/ukpga/2002/6) and Article 32 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([W.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00032]: Footnote: Article 63 of the 1989 Order was amended by Article 3(2) of the Criminal Justice (Northern Ireland) Order 1991 (S.I. [1991/1711 (N.I. 16)](https://www.legislation.gov.uk/nisi/1991/1711)); Article 11 of the Police (Amendment) (Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)); section 125 of, and paragraph 13 of Schedule 15 to, the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11); section 32 of, and paragraph 5 of Schedule 3 to, the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6); section 170(4) of the Extradition Act [2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41); Article 8 of the Criminal Justice (Northern Ireland) Order 2004 (S.I. [2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500)) and Article 33 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00033]: Footnote: Article 63A was amended by Article 34 of the Police and Criminal Evidence (Amendment)(NI) Order 2007.
+
+[^f00034]: Footnote: Article 64 was amended by Article 13 of the Police (Amendment) (Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)); sections 83 and 137 of, and Part 2 of Schedule 7 to, the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and Article 35 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00035]: Footnote: Article 65 of the 1989 Order was amended by Article 37 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. [2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
+
+[^f00036]: Footnote: Article 66(7) of the 1989 Order was repealed by Article 32 of, and Schedule 2 to, the Police (Amendment) (Northern Ireland) Order 1995 (S.I. [1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993)). Article 66(12) was revoked by section 125 of, and Schedule 16 to, the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11). Article 66 has also been amended by section 35 of, and paragraph 110 of Schedule 1 to, the Armed Forces Act [1996 (c. 46)](https://www.legislation.gov.uk/ukpga/1996/46); section 72(3) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); section 38 of, and Part 1 of Schedule 7 to, the Armed Forces Act [2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19); section 32 of, and paragraph 7 of Schedule 3 to, the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6) and Article 7(9) of the Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. [2007/912 (N.I. 6)](https://www.legislation.gov.uk/nisi/2007/912)).
+
+[^key-5551611d7f1ac2a0e9366d672e3d219b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2) in operation at 18.5.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/142/article/1)
+
+[^key-c4839effcef58fb85f6fcfe7930b0abb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2) omitted (24.3.2010) by virtue of [The Police and Criminal Evidence (Application to the Police Ombudsman)(Amendment) Order (Northern Ireland) 2010 (S.R. 2010/46)](https://www.legislation.gov.uk/nisr/2010/46), [arts. 1](https://www.legislation.gov.uk/nisr/2010/46/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2010/46/article/2/c)

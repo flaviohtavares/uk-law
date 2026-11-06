@@ -1,0 +1,1370 @@
+---
+title: The Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007
+id: nisr/2007/421
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-10-02'
+text_date: '2025-02-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/421
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/421/pdfs/nisr_20070421_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/421/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007
+
+> Text as at 2025-02-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 421
+
+AGRICULTURE, NORTHERN IRELAND
+
+The Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007
+
+Made
+
+2nd October 2007
+
+Coming into operation
+
+5th November 2007
+
+The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] hereby makes the following Regulations:[^key-ce3caedc40571ed37e332c61fa4dba8c]
+
+## PART 1 — General Provisions
+
+### 1. Title, application and commencement[^key-23676368471f1878761bdfe0adeb97b6]
+
+These Regulations may be cited as the Environmental Impact Assessment (Agriculture) (Northern Ireland) Regulations 2007, and shall come into operation on 5 November 2007.
+
+### 2. Interpretation[^key-5bda62bf1cb3efb445f58cca27bed95f]
+
+(1) In these Regulations—
+
+- “agriculture” includes horticulture, fruit growing, seed growing, dairy farming, livestock breeding or keeping, the use of land as grazing land, meadowland, osier land, reed beds, market gardens and nursery grounds;
+- “additional environmental information” means any additional information required under regulation 13(1);
+- “Area of Special Scientific Interest” means and area so declared by Article 28 of the Environment (Northern Ireland) Order 2002;[^key-4ddd27de6a12d0d56b55718e6b34ba73]
+- [^key-c2d676d4c2022d7cfaa51e74138cd3bd]...
+- “consent” means consent granted under regulation 16(1);
+- “consultation bodies” means the consultation bodies listed in Schedule 5, and any other public authority, statutory body or other organisation which the Department may consider to have any interest in or holds any information which may be relevant to a project;
+- “cultivated” means cultivated by physical means (including ploughing and harrowing) or chemical means (including the application of fertilisers);
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs;[^key-b8b339983f244e39fb904da2b31ef065]
+- “EEA State” means a member State, Norway, Iceland or Liechtenstein;
+- [^key-c2d676d4c2022d7cfaa51e74138cd3bd]...
+- “environmental statement” means an environmental impact assessment report, which should be prepared by a competent expert and—[^key-e24688969c132b7d8d500995880ee1a6]
+  - (a) include at least the information referred to in Part 1 of Schedule 3;
+  - (b) is based on any scoping opinion given under regulation 10 in respect of the significant project;
+  - (c) any additional information which , taking into account current knowledge and methods of assessment, may reasonably required for reaching a reasoned conclusion on the significant effects of the project on the environment;
+  - (d) takes into account the results of any relevant UK environmental assessments which are reasonably available to the applicant, and
+  - (e) states the relevant expertise and qualifications of the competent person.
+- “EU environmental assessment” means an assessment of the effect of anything on the environment carried out under[^key-8cf21787bcfd740d2049c77d517ab696] assimilated[^key-4a4007389877d922b195b2a6f1e935a8] law other than any law of any part of the United Kingdom that implemented [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment;
+- “European site or Area of Special Scientific Interest” means a site mentioned in regulation 9 of the Habitat Regulations.[^key-e0cdead2cd7a7d77acd486c5bbb1449c]
+- “the Habitats Directive” means Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)[^f00004] on the conservation of natural habitats and of wild fauna and flora, as last amended by as last amended by Council[^key-62295cc9967fc17ae6da25b264a6a58c] [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017);
+- “the Habitats Regulations” means the Conservation (Natural Habitats, etc[^key-9bf0728dce63ee55f6cfecf981700ebe]) Regulations (Northern Ireland) 1995[^f00006];
+- “Natura 2000” means Natura 2000 as defined in regulation 2(2) of the Habitats Regulations;[^key-83eafb2e4822631c24522806260e5ee7]
+- “project” means—
+  - (a) the execution of construction works or other installations or schemes; or
+  - (b) other interventions in the natural surroundings and landscape;
+- “the relevant land” means the land on which the project is to be (or has been) carried out;
+- “restructuring project” means a project for the restructuring of rural land holdings;
+- “screening decision” means a decision made by the Department under regulation 8(1) or a decision deemed to be made by the Department under regulation 8(7);
+- “screening notice” means a notice served under regulation 6;
+- “sensitive area” means—
+  - (a) an area of outstanding natural beauty designated as such by an Order made by the Department of the Environment under the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985 ;
+  - (b) a National Park;
+  - (c) a scheduled monument within the meaning of section 1(11) of the Ancient Monuments and Archaeological Areas Act 1979[^f00007];
+  - (d) Special Areas of Conservation;
+  - (e) Special Protected Areas;
+  - (f) Areas of Special Scientific Interest;
+- “significant project” means an uncultivated land project or a restructuring project which the Department has decided under regulation 8 or is deemed to have decided under regulation 8, is likely to have significant effects on the environment;
+- “uncultivated land” means land which has not been cultivated in the previous 15 years;
+- “uncultivated land project” means a project to increase the productivity for agriculture of uncultivated land or a semi-natural area, and includes projects to increase the productivity for agriculture of such land to below the norm.
+- “[^key-a5104403217d7af78973481ace340688]**UK environmental assessments**” means an assessment carried out in accordance with an obligation under the law of any part of the United Kingdom of the effect of anything on the environment;
+- “Union legislation” means any enactment in the domestic legislation of Northern Ireland[^key-030f074cab7fe9a9cc8edcfb144333a6] which is assimilated[^key-eb5b3b9e8ce0cc6c9554eb36431dc364] law
+
+(2) Other expressions used in both these Regulations and in the Environmental Impact Assessment[^key-d3fc6ba628dc63149466ddb35c556cb8]... Habitats Regulations[^key-490d3028004e70522db865a4bf8bddde] have the same meanings in these Regulations as they have in the Habitats Regulations[^key-6bdd5ba3b77c34a23b9b7ec4d44c4065].
+
+(3) All notifications, applications, notices, representations, requests, approvals and agreements under these Regulations must be made or given in writing.
+
+(4) “Writing” in paragraph (3), except where it applies to notices under regulations 24 and 26, includes an electronic communication within the meaning of the Electronic Communications Act 2000[^f00008], but notifications required to be made by the Department to any person may only be made by an electronic communication if the intended recipient—
+
+- (a) has himself used that form of electronic communication in communicating with the Department under any provision in these Regulations, or
+- (b) has otherwise represented that that form of electronic communication is a means by which persons can communicate with him.
+
+(5)[^key-825e5b60b164f9d01535003d0b4c9a1d] The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Assembly.
+
+### 3. Extent of Regulations[^key-48c102529ad20d1a0a03bc90466c4b0b]
+
+(1) These Regulations apply to any restructuring project or uncultivated land project, unless it is exempt under paragraph (2) or (3).
+
+(2) A restructuring project or an uncultivated land project is exempt if it—
+
+- (a) constitutes development to which the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017[^key-02f3358663b6cfc84d9072013d85c947] apply;
+- (b) is directed by the Department to be exempt from regulations 4 to 34 of these Regulations, where the application of these Regulations would adversely affect the purpose of the project, but the objectives of these Regulations are still met[^key-8f4c16d9b43e22996e6ee98f86b9aaa5];
+- (c) constitutes the carrying out of improvement works by a drainage body within the meaning of The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017;[^key-718864073bfd42971ec8e2c47070b75b]
+- (d) is a project mentioned in regulation 3(2) of the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2006;[^key-efa64708c745c4e433c35a6a26bcd092]
+- (e) constitutes a relevant project under regulation 3(2) of the The Water Resources (Environmental Impact Assessment) Regulations (Northern Ireland) 2017;[^key-48ddf5c7bd4784c1e4b76ce58f759b4b]
+- (f) constitutes the restoration of a field boundary under regulation 3(2)(a) of the Countryside Management Regulations (Northern Ireland) 2005[^f00013], and Article 4(3) of the Environmentally Sensitive Areas Designation Order (Northern Ireland) 2005[^f00014];
+
+(3) In the case of a project which the Department decides is likely to have a significant effect on a European site or Area of Special Scientific Interest (either alone or in combination with other projects), the power to direct that the project is exempt under paragraph (2)(b)[^key-a73ed952c35811e82f42791c0bfe7cd2] is only exercisable to the extent that compliance with the Habitats Directive is secured in relation to the project.
+
+(4) Where the Department proposes to give a direction under paragraph (2)(b)[^key-246887f067c255bab9687401109838d6], it shall—
+
+- (a) consider whether any other kind of assessment of the project would be appropriate; and
+- (b) take such steps as the Department considers appropriate to bring to the attention of the public—
+  - (i) the information considered in making the direction and the reasons for doing so, and
+  - (ii) the information obtained from any assessment of the project under sub-paragraph (a).
+
+## PART 2 — Screening
+
+### 4. Requirement for a screening decision[^key-0ca2fc036964920bcfba3483712b6237]
+
+(1) A person must not begin or carry out an uncultivated land project or a restructuring project of an extent which is equal to or exceeds the threshold applicable to it (calculated in accordance with regulation 5) unless he has first obtained a screening decision permitting the project to proceed.
+
+(2) A person must not begin or carry out any uncultivated land project or restructuring project on land to which a relevant screening notice applies unless he has first obtained a screening decision permitting the project to proceed.
+
+(3) In this regulation “relevant screening notice” means a screening notice which states that it applies to the type of project which is to be carried out.
+
+### 5. Thresholds[^key-709bf6a895525c59626e6ca47a287ede]
+
+(1) This regulation provides the method for determining whether the extent of a project is equal to or exceeds the threshold applicable to it.
+
+(2) The threshold for a type of project specified in column 1 of Schedule 1 is set out opposite thereto in column 2 or 3.
+
+(3) Paragraphs (4) and (5) apply where a project consists of only one of the types of project specified in column 1 of Schedule 1.
+
+(4) Where a project is to be carried out wholly outside a sensitive area, the threshold applicable to it is that specified for that type of project in column 2 of Schedule 1.
+
+(5) Where a project, or any part of it, is to be carried out in a sensitive area, the threshold applicable to it is that specified for that type of project in column 3 of Schedule 1.
+
+(6) Where a project is made up of more than one of the types of project specified in column 1 of Schedule 1—
+
+- (a) each relevant part of the project must be assessed so as to determine the threshold applicable to that part, and
+- (b) if any relevant part of the project equals or exceeds the threshold applicable to that part, then the entire project is to be treated as having an extent equal to or exceeding the threshold applicable to it.
+
+### 6. Screening notices[^key-15cd2029cdff14adce230b6ed6aa76b4]
+
+(1) The Department may by notice direct that thresholds under these Regulations do not apply to an area of land specified in the notice by serving a notice under this regulation.
+
+(2) The Department may only serve a screening notice if—
+
+- (a) it reasonably believes that a project is likely to be carried out on the land;
+- (b) the extent of the project would fall below the threshold applicable to it under these Regulations in the area where it would be carried out; and
+- (c) it considers, in accordance with the selection criteria in Schedule 2, that the project would be likely to have significant effects on the environment.
+
+(3) A screening notice cannot—
+
+- (a) apply for more than five years from the date it is served; or
+- (b) relate to an area of land which is greater than the area on which the Department reasonably considers the project is likely to be carried out and in any event—
+  - (i) in the case of a notice relating to uncultivated land projects, to an area greater than 2 hectares, or
+  - (ii) in the case of a notice relating to restructuring projects, to an area greater than 100 hectares.
+
+(4) A screening notice must—
+
+- (a) state whether it applies to—
+  - (i) uncultivated land projects,
+  - (ii) restructuring projects, or
+  - (iii) both such projects;
+- (b) contain the reasons why it is being served;
+- (c) contain details of the land to which it applies and, in the case of a screening notice which applies to both uncultivated land projects and restructuring projects, details of which land is covered by which aspect of the notice;
+- (d) contain the date on which it expires; and
+- (e) explain the procedures for appealing against it.
+
+(5) A copy of the screening notice must be served on every owner and occupier of the land.
+
+### 7. Application for a screening decision[^key-5749ea3d9d676f69e242a8439d9a9f3d]
+
+(1)[^key-4bcd348ee1af61b4de9a90188fed1780] An application for a screening decision must be made to the Department and contain the information as specified in Schedule 2A.
+
+(2) If the Department considers that it does not have sufficient information to make a screening decision it may ask the applicant to supply any additional information it requires.
+
+(3) The Department must notify the applicant of the date on which it received the application for a screening decision.
+
+### 8. The screening decision[^key-ac1c266982b00bfd59bf5b4518ba0f4a]
+
+(1) The Department must, in accordance with paragraph (2) and the selection criteria in Schedule 2, decide whether or not a project is likely to have significant effects on the environment.
+
+(1A)[^key-6c77cb3645114c70f2895ddf006dae74] The Department must take into account the results of any EU environmental assessments which are reasonably available to it.
+
+(2) If the Department decides that a project is likely to have a significant effect on a European site (either alone or in combination with other projects), or Area of Special Scientific Interest, and the project is not directly connected with or necessary for the management of the site, the project shall be treated as being likely to have significant effects on the environment.
+
+(3) Before making a screening decision, the Department may consult any of the consultation bodies.
+
+(4) After making a screening decision, the Department shall—
+
+- (a)[^key-e005e6d58c92dc02a8966682332a95f8] notify the applicant of—
+  - (i) the decision and the main reasons for it with reference to the criteria in Schedule 2;
+  - (ii) where the decision is that the project is not likely to have significant effects on the environment, a description of any measures disclosed by the applicant under Schedule 2A(4).
+- (b) enter the information referred to in sub-paragraph (a)[^key-0192a84b1e86487c5ae8c597fea59a85] in a register, to which the public shall have access at all reasonable times; and
+- (c) where it considers that any of the consultation bodies might wish to be informed of the screening decision, notify those bodies of the information referred to in sub-paragraph (a)[^key-2c45fc31b5e152aec0e02c3fb904f21e].
+
+(5)[^key-f7f75836286b307f6d7370bc1517cbd0] The Department must make, and notify the applicant of, a screening decision before the end of the period of 35 days beginning with—
+
+- (a) the date referred to in regulation 7(3), or
+- (b) where applicable, the date the Department receives any additional information it has requested under regulation 7(2).
+
+(5A) The Department may, where it considers there are exceptional circumstances (including relating to the nature, complexity, location or size of the project), extend the period mentioned in paragraph (5) by informing in writing the applicant of—
+
+- (a) the new period within which it will make the screening decision, and
+- (b) the reasons for the extension.
+
+(6) If the Department has failed to make or notify a screening decision within the period in paragraph (5), the applicant may notify the Department that he intends to treat that failure as a decision that the project is a significant project.
+
+(7) Where the applicant has so notified the Department, the Department is deemed to have decided on the date of that notification that the project is a significant project.
+
+(8) If, after the Department has made, or is deemed to have made a decision that the project is a significant project—
+
+- (a) the Department receives further information or representations; and
+- (b) as a result of that further information or those representations the Department decides that the project is not a significant project,
+
+  the Department must take all the steps in paragraph (4) in respect of that new decision.
+
+(9) If the project to which a screening decision relates is not begun within a period of three years beginning with the date the screening decision is notified to the applicant, or is deemed to have been taken under paragraph (7), the screening decision shall cease to have effect.
+
+## PART 3 — Consent
+
+### 9. Requirement for consent[^key-2a0485d267ccee4e7e6f31961f7dfaeb]
+
+A person must not begin or carry out a significant project unless he has first obtained consent from the Department.
+
+### 9A. Environmental Impact Assessment[^key-440f20b422d603de4d5e5620aa6550af]
+
+(1) An environmental impact assessment is a process consisting of—
+
+- (a) the preparation of an environmental statement by the developer as laid out in Schedule 3 Part 1;
+- (b) the carrying out of consultation, publication and notification as required by this Part of the regulations;
+- (c) the examination by the Department of the information presented in the environmental statement and any supplementary information provided, where necessary, by the developer in accordance with Schedule 3 Part 2, and any relevant information received through the consultations in regulation 11;
+- (d) the reasoned conclusion by the Department on the significant effects of the project on the environment, taking into account the results of the examination referred to in sub-paragraph (c) and where appropriate, its own supplementary examination; and
+- (e) the integration of the Department’s reasoned conclusion into the decision notice in accordance with regulation 16.
+
+(2) The environmental impact assessment must identify, describe and assess in an appropriate manner, in light of the circumstances relating to the proposed development, the direct and indirect effects of the proposed development on the factors specified in paragraph (3) and the interaction between those factors.
+
+(3) The factors are—
+
+- (a) population and human health;
+- (b) biodiversity, —[^key-f55989362749802d600e1d42962fd8bc]
+  - (i) species of naturally occurring birds in the wild state as specified in Directive 2009/14//EC on the conservation of wild birds;
+  - (ii) natural habitat types in Annex 1 to the Habitats Directive;
+  - (iii) animal and plant species in Annex 2 or 4 of the Habitats Directive.
+- (c) land, soil, water, air and climate;
+- (d) material assets, cultural heritage and the landscape.
+
+(4) The effects to be identified, described and assessed under paragraph (2) include the expected effects deriving from the vulnerability of the project to risks, so far as relevant to the project, of major accidents and/or disasters.
+
+(5) An environmental impact assessment to be carried out in relation to a determination of an application for consent under these Regulations must identify the likely significant effects of the proposed project on the environment before a decision to grant consent for that project is made.
+
+(6) The Department must ensure that they have, or have access as necessary to, sufficient expertise to examine the environmental statement.
+
+### 10. Scoping opinions[^key-f4d18e15332bf5f16ffef5a678b12d70]
+
+(1) After receiving a screening decision that a project is a significant project, but before applying for consent, the applicant may ask the Department to provide its opinion on the scope and level of detail of information which[^key-77e15f7e8023cdfed3a93cb14f73f5a8] should be provided in the environmental statement (“a scoping opinion”).
+
+(1A)[^key-58e3eb4d369ca6da8a7cdf3201e2c47e] The request must include the screening decision and all relevant documentation provided under regulation 7 along with any other information or representation the applicant wishes to provide or make.
+
+(2) If the applicant requests a scoping opinion, the Department must consult the applicant and such of the consultation bodies as it thinks fit before providing its opinion.
+
+(3) If the Department considers that it does not have sufficient information to provide a scoping opinion, it may ask the applicant to supply any additional information it requires within 28 days of the date on which it received the request for the scoping opinion.
+
+(4) Subject to paragraph (5), the Department shall provide the applicant with the scoping opinion within 35 days of—
+
+- (a) the date it received the request for a scoping opinion; or
+- (b) where applicable, the date it received the additional information requested under paragraph (3).
+- (c) the date of such an extension as may be agreed between the Department and the applicant under paragraph (5).
+
+whichever is later.
+
+(5) The Department may agree, in writing, with an applicant such extension as is reasonable in the circumstances of the period of 35 days within which it shall provide the applicant with a scoping decision under paragraph (4).
+
+### 11. Provision of information[^key-7c2ec5907f931bfbbf81a11cd8d390cd]
+
+(1) This regulation applies if a consultation body—
+
+- (a) is consulted by the Department under regulation 10(2); or
+- (b) receives a request for information from a person who intends to apply for consent.
+
+(2) Where this regulation applies, the consultation body must—
+
+- (a) determine whether it has in its possession any information it considers relevant to the preparation of the environmental statement; and
+- (b) subject to paragraphs (3) and (4), make that information available to the Department or the applicant (as the case may be) within 30 days[^key-8317cbc0f652ba7084d5f17a5741cef5] of the date of the consultation or the request.
+
+(3) A consultation body may make a reasonable charge to the applicant for providing information under paragraph (2)(b), to reflect the cost of making the information available.
+
+(4) Paragraph (2)(b) does not require a consultation body to make available to the applicant information which—
+
+- (a) it may refuse to disclose under regulation 12(1) of the Environmental Information Regulations 2004[^f00015]; or
+- (b) it is prevented from disclosing by regulation 13(1) of those Regulations.
+
+(5) If a consultation body is not a public authority within the meaning of regulation 2(2) of the Environmental Information Regulations 2004, paragraph (4) applies as if it were such a public authority.
+
+### 12. The consent application[^key-219d8c59f6f31ad11b4bb5d13a51b1b4]
+
+(1) An application for consent must include an environmental statement and must be made to the Department.
+
+(2) The applicant for consent must provide the Department with as many copies of the application as it reasonably requires.
+
+(3) After receiving the application for consent, the Department shall comply with paragraphs (4) and (5).
+
+(4) The Department shall—
+
+- (a) send a copy of the application to such of the consultation bodies it considers appropriate; and
+- (b) inform them that they may make representations within 30 days[^key-ae98338ae4485d14538701a6d369f438] of the date they received the copy of the application.
+
+(5) In order to ensure that members of the public concerned are given an opportunity to make representations before the application is determined, the Department must publish, on its website and in a newspaper circulating in the locality of the relevant land, a notice—
+
+- (a) stating that the application has been made;
+- (b) specifying an address—
+  - (i) at which copies of the application can be inspected free of charge, and
+  - (ii) where copies of the application may be taken
+
+  at all reasonable hours, within 35 days of the date the notice is published;
+- (c) stating that representations on the likely environmental effects of the project may be made in writing to the Department at the address specified under sub-paragraph (b) within 35 days of the date the notice is published;
+- (d) stating that, if consent is granted, it will be subject to—
+  - (i) the conditions in regulation 18(2), and
+  - (ii) any other conditions that the Department thinks fit.
+
+(6) The Department may make a reasonable charge for copies referred to in paragraph (5)(b)(ii).
+
+### 13. Additional information[^key-1e2df6aebdc3b25821f75bc48ac49840]
+
+(1) If, after complying with regulation 12(3) the Department decides that it requires any additional environmental information in order to decide whether to grant, or refuse to grant, consent for a significant project, it must notify the applicant of the information required, and the applicant must provide the Department with that information.
+
+(2) The Department shall—
+
+- (a) send a copy of the additional environmental information to such of the consultation bodies as it thinks fit; and
+- (b) inform them that they may make representations within 30 days[^key-5322a8e24a2cef172068a8cd0d3ab6ac] of the date they receive it.
+
+(3) The Department must publish on its website and in a newspaper circulating in the locality of the relevant land a notice—
+
+- (a) referring to the application to which the additional environmental information relates and the date the application was made;
+- (b) stating that the additional environmental information has been received;
+- (c) specifying an address—
+  - (i) at which copies of the additional environmental information can be inspected free of charge, and
+  - (ii) where copies of the additional environmental information may be taken,
+
+  at all reasonable hours within 35 days of the date the notice is published; and
+- (d) stating that representations in relation to the additional environmental information may be made in writing to the Department at the address in sub-paragraph (c) within 35 days of the date the notice is published.
+
+(4) The Department may make a reasonable charge for copies referred to in paragraph (3)(c)(ii).
+
+### 14. Procedure where a significant project in Northern Ireland may affect an EEA State[^key-1f4a830d528cbcc3e01fedbfaf03b362][^key-55fa9ae1bae9ed6400f051e29bfece45]
+
+(1) As soon as possible after receiving an application for consent for a significant project, the Department must consider whether that project is also likely to have significant effects on the environment in an[^key-bd381cd7dd4f277dc2ea4afbeea764b5] EEA State.
+
+(2) If the Department considers that such effects are likely, it must send the information and other material specified in paragraph (3) to—
+
+- (a) the EEA State which it considers is likely to be affected; and
+- (b) any other EEA State which is likely to be significantly affected, or which requests such information and other relevant material.
+
+(3) The information and other relevant material referred to in paragraph (2) are—
+
+- (a) details of the nature and location of the significant project;
+- (b) any information the Department has on the impact it is likely to have on that EEA State;
+- (c) an indication of whether the Department is minded to grant consent for the project, and the nature of any consent that might be granted; and
+- (d) a request that the EEA State should indicate within a reasonable time whether it wishes to participate in the procedure under this Part of these Regulations.
+
+(4) If the EEA State indicates that it wishes to participate in the procedure under this Part of these Regulations, the Department shall—
+
+- (a) send it a copy of the application for consent, of the environmental statement and of any further information it considers relevant to the application; and
+- (b) provide it with information about the procedure under these Regulations.
+
+(5) The Department shall also—
+
+- (a) arrange for the information and material in paragraphs (3) and (4) to be made available, in a reasonable time, to the authorities which the EEA State designated to be consulted about the project[^key-a50dd5790df750a82bfc44e65a47029f] and the public concerned in the territory of the EEA State; and
+- (b) ensure that those authorities and the public concerned are given an opportunity to provide the Department with their opinion on the information supplied within a reasonable time before consent for the project is granted.
+
+(6) [^key-17c2656f93dad231b69ada74e8f5db84]...The Department shall—
+
+- (a) enter into consultations with the EEA State concerned about, amongst other things, the potential significant effects of the project on the environment of that State and the measures envisaged to reduce or eliminate those effects; and
+- (b) seek to agree with the EEA State a reasonable period of time for those consultations, which must include time for consideration of any opinions received under paragraph 5(b).
+
+### 15. Procedure where a significant project in an EEA State may affect Northern Ireland[^key-dfca23080cee49985bf42e4e7ce41ff0][^key-22ca95cf2d01ebda5d51848e25cf38a4]
+
+(1) If the Department receives information from an EEA State in relation to a significant project in that EEA State, the Department shall[^key-33781b9c1b94a22a28639523a44e9b6b] —
+
+- (a) arrange for that information to be made available, in a reasonable time, to the consultation bodies and such members of the public which, in its opinion, are likely to be concerned by the project;
+- (b) ensure that the consultation bodies and members of the public referred to in sub-paragraph (a) are given an opportunity to give their opinion on the information provided to the competent authority in the EEA State during any period agreed under paragraph (2)(b).
+
+(2) [^key-6e9fd91f758706665e04958fce249b9b]...The Department shall also—
+
+- (a) enter into consultations with the EEA State concerned about the potential significant effects of the project on the environment in Northern Ireland and the measures envisaged to reduce or eliminate those effects; and
+- (b) seek to agree with the EEA State a reasonable period, before consent for the project is granted, during which any opinions received under paragraph (1)(b) can be forwarded to the EEA State.
+
+(3) If an[^key-1de6f8a49b8148c25312c42e6dea3bd3] EEA State has taken a decision to grant or refuse consent and has informed the Department of that decision[^key-0c551637b61a978d08870ed8713253f3]..., the Department shall take such steps as it considers appropriate to bring to the attention of the public any information received from that EEA State in relation to that decision.
+
+### 15A. Conclusion about the environmental impact[^key-7f36a0cdda05a2434b3d2d7fb9310d04]
+
+(1) The Department must consider (ensuring that in doing so it has, or has access to, any expertise it considers necessary)—
+
+- (a) the environmental statement;
+- (b) any additional environmental information;
+- (c) any representations it receives under—
+  - (i) regulation 12(4)(b) and 12(5)(c),
+  - (ii) regulation 13(2)(b) and 13(3)(d), and
+  - (iii) regulation 14(5)(b), and
+- (d) any features of the significant project or measures to avoid, prevent, reduce or offset any likely significant adverse effects of the significant project on the environment.
+
+(2) Following that consideration, the Department must reach a conclusion about the likely significant effects of the significant project on the factors specified in regulation 9A(3).
+
+### 16. The consent decision[^key-2f1c19c42aced3c37a1e1f26520e42a3]
+
+(1) The Department must consider—
+
+- (a) the conclusion reached under regulation 15A(2) in respect of the significant project and the reasons for that conclusion;
+- (b) whether it is appropriate to require the applicant to monitor the significant adverse effects of the significant project on the environment, and if so—
+  - (i) whether consent should be given subject to conditions to ensure that the applicant is under such a duty, and
+  - (ii) whether consent should be given subject to conditions to require remedial action to be taken in circumstance described in the conditions;
+- (c) whether, having regard to the likely significant environmental effects of the significant project, consent should be given subject to any other conditions;
+- (d) any social or economic impacts which might result from a decision to refuse consent for the significant project.
+
+(2) Following that consideration, the Department must grant, or refuse to grant, consent for a significant project.
+
+(3) The Department may make a decision under paragraph (2) only if satisfied that the conclusion reached under regulation 15A(2) in respect of the significant project and the reasons for it address the likely significant environmental effects of the significant project.
+
+(4) The Department must not make a decision under paragraph (2) before—
+
+- (a) the expiry of the period in the notice under regulation 12(5)(c),
+- (b) the expiry of the period of 30 days after—
+  - (i) the date on which any additional environmental information was sent to the consultation bodies, or
+  - (ii) the date notice of the additional environmental information was to be published under regulation 13(3), and
+- (c) the expiry of any period agreed with an[^key-e916ef66892d8e2379bb4425824e01b0] EEA State under regulation 14(6)(b).
+
+(5) The Department must reach its decision under paragraph (2) within a reasonable period of time beginning with the date on which it is given all the information it is required to consider in accordance with regulation 15A(2), taking into account the nature and complexity of the application and significant project.
+
+### 17. Additional requirements relating to the Habitats Regulations[^key-2c9f020af6f156413db9fba9ffba2d37]
+
+(1) the Department must not grant consent for a project that would involve doing anything which would be unlawful under regulations 39, 41 or 43 of the Habitats Regulations[^f00016](but that does not include anything for which a licence has been granted under regulation 44 of those Regulations).
+
+(2) Paragraphs (3) to (6) apply when the Department is deciding whether to grant consent for a project (a “habitats project”) which is likely to have a significant effect on a European site or Area of Special Scientific Interest either alone or in combination with other projects.
+
+(3) Unless paragraph (4) applies, the Department may only grant consent for a habitats project if it has considered the implications of that project for the European site or Area of Special Scientific Interest (including an appropriate assessment of the implications in view of that site’s conservation objectives) and is satisfied that that project will not adversely affect the integrity of the site.
+
+(4) If the Department is satisfied that a habitats project must be carried out for imperative reasons of overriding public interest (which, subject to paragraph (5), may be of a social or economic nature) and that there is no alternative solution, it may grant consent for that project even though the assessment of its implications for a European site or Area of Special Scientific Interest is negative.
+
+(5) If the European site or Area of Special Scientific Interest hosts a priority natural habitat type or a priority species, the reasons in paragraph (4) must be either—
+
+- (a) reasons relating to human health, public safety or beneficial consequences of primary importance to the environment, or
+- (b) other reasons which in the opinion of the Department[^key-3fa6c0d79b139d61153762753c5c39c4] are, in the case of the site concerned, imperative reasons of overriding public interest.
+
+(6) If the Department decides to grant consent for a habitats project in accordance with paragraph (4), it must secure that any necessary compensatory measures are taken to ensure that the overall coherence of Natura 2000 [^key-0b9c356a669dfd348f7ba5933172f9a7]... is protected.
+
+(7)[^key-03a588b9ae4d98c1727bc1cdafd6489f] Where, in respect of a significant project, there is a requirement to carry out an environmental impact assessment and a requirement to carry out an assessment under regulation 18 and 56 of the Habitat Regulations, the Department must, where appropriate, ensure that the environmental impact assessment and the other assessment, or assessments, are co-ordinated.
+
+### 18. Conditions of consent[^key-aafbace51032c4d9792af7a46846cbef]
+
+(1) Any consent granted under regulation 16(1) is to be subject to—
+
+- (a) the conditions in paragraph (2); and
+- (b) any other conditions the Department thinks fit.
+
+(2) The conditions required by paragraph (1)(a) are—
+
+- (a) the consent lapses if the project is not commenced (by the carrying out of a material act) within 1 year of the date on which it was granted;
+- (b) the consent expires if the project is not completed within 3 years of the date on which it was granted; and
+- (c) the consent only authorises the project described in the consent application, subject to any amendments approved by the Department under paragraph (4).
+
+(3) After the expiry of a consent in accordance with paragraph (2)(b), the Department may require a further application for consent in accordance with paragraph (5) in respect of any further operations or uses forming part of the project.
+
+(4) The Department may approve any amendments at the request of an applicant, but any material change in the operations or uses authorised by the consent requires a further application for consent in accordance with paragraph (5).
+
+(5) Further applications for consent under paragraphs (3) and (4) may be subject to any requirement of these Regulations that the Department considers appropriate.
+
+(6) In this regulation, a project is “completed” if all the works permitted by the consent have been carried out and all changes in the use, or the level of use, of the relevant land have been implemented.
+
+### 19. Procedure following a consent decision[^key-9ede99b588a9e63aa282b7282d5c7edc]
+
+When the Department has decided to grant or not to grant consent in respect of a significant project it must—
+
+- (a) notify the applicant, any consultation bodies to whom copies of the consent application were sent under regulation 12(4)(a), any EEA state it consulted under regulation 14(6), and any authority or other person who forwarded their opinion under regulation 14(5)(b) of—
+  - (i) its decision,
+  - (ii) the full reasons and considerations on which the decision is based, and
+  - (iii) any representations made by the public concerned in respect of the application;
+- (b) inform the public of its decision by publishing a notice in a newspaper in the locality in which the relevant land is situated or by any other means it considers reasonable in the circumstances; and
+- (c) make available for public inspection a statement containing—
+  - (i) the content of the decision,
+  - (ii) the full reasons and considerations on which the decision is based,
+  - (iii) where relevant, a description of the principal measures that must be taken to avoid, reduce or offset the major adverse effects of the project,
+  - (iv) in such a format as the Department considers appropriate, a summary of any representations made by the public concerned in relation to the application, and
+  - (v) information regarding the right to challenge the decision and the procedures for doing so.
+
+### 20. Review of decisions and consents[^key-7f8e248f3547b57a96681159efebe556]
+
+Schedule 4 applies if, within 3 years of—
+
+- (a) a decision that a project is not a significant project, or
+- (b) a decision to grant consent for a project,
+
+a site becomes a European site or Area of Special Scientific Interest or Area of Special Scientific Interest and the Department considers that the carrying out or completion (within the meaning of “completed” in regulation 18(6)) of the project would be likely to have a significant effect on that site and would not be directly connected with or necessary for the management of the site.
+
+## PART 4 — Enforcement
+
+### 21. Offence of carrying out a project without a decision under these Regulations[^key-6d1210ebbc1fd8a7a1bf5c5621fcbe3e]
+
+(1) Any person who begins or carries out an uncultivated land project or a restructuring project in breach of—
+
+- (a) regulation 4, or
+- (b) regulation 9,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) In any proceedings under this regulation which relate to an uncultivated land project, any area of land which the prosecution alleges to be uncultivated land shall be assumed to be uncultivated land unless sufficient evidence is adduced to raise an issue that it is not uncultivated land, in which case the prosecution must prove beyond reasonable doubt that the land is uncultivated land.
+
+### 22. Offence of carrying out work in contravention of a condition[^key-39caf2f5f6356ad8969acb88460e3376]
+
+Any person who carries out any activity in contravention of any condition of consent is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 23. Offence of procuring a decision by supplying false information[^key-b822152131d0d06e00fc65565bdd4251]
+
+(1) Any person who, for the purpose of procuring a decision on an application made under these Regulations—
+
+- (a) knowingly or recklessly makes a statement which is false or misleading in a material particular,
+- (b) with intent to deceive, uses any document which is false or misleading in a material particular, or
+- (c) with intent to deceive, withholds any material information,
+
+is guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+### 24. Stop notices[^key-85ffb96a7134f5d57ddaac471333805a]
+
+(1) If a person has begun an uncultivated land project or a restructuring project in breach of—
+
+- (a) regulation 4, or
+- (b) regulation 9,
+
+the Department may serve a notice (a “stop notice”) prohibiting all or part of the work with immediate effect.
+
+(2) The Department may serve a stop notice on any person who appears to it to have an interest in the relevant land or to be engaged in any activity prohibited by the notice.
+
+(3) The Department may withdraw a stop notice (without affecting its power to serve another) at any time by serving notice to that effect on the persons served with a stop notice.
+
+(4) A stop notice ceases to have effect if—
+
+- (a) a notice withdrawing it is served under paragraph (3);
+- (b) The Department (or on appeal the appointed person)[^key-13e9802b00795eea608b497ec91701c1] decides that the prohibited work is not a significant project; or
+- (c) The Department grants consent for the prohibited work.
+
+### 25. Penalties for contravention of a stop notice[^key-abf9b2a7adfbba7df213ba9d46825a42]
+
+(1) Any person who contravenes a stop notice that has been served on him is guilty of an offence.
+
+(2) An offence under this regulation may be charged by reference to any day or any longer period of time, and a person may be convicted of a second or subsequent offence under this regulation by reference to any period of time following the preceding conviction for such an offence.
+
+(3) References in this regulation to contravening a stop notice mean causing or permitting its contravention.
+
+(4) A person guilty of an offence under this regulation is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment, to a fine.
+
+### 26. Reinstatement notices[^key-82981decef92c7997fc65f8471d722bc]
+
+(1) If a person has carried out an uncultivated land project or a restructuring project in breach of—
+
+- (a) regulation 4, or
+- (b) regulation 9,
+
+the Department may serve a notice (“a reinstatement notice”) on the person who appears to it to be responsible.
+
+(2) A reinstatement notice may require the person—
+
+- (a) to reinstate, to the Department’s satisfaction, the relevant land to the condition it was in before the project was commenced, or
+- (b) to take such other steps as the Department thinks fit to return the relevant land to good environmental condition.
+
+(3) A reinstatement notice must state the period during which the reinstatement is to be carried out.
+
+(4) The Department may at any time—
+
+- (a) vary a reinstatement notice, or
+- (b) withdraw a reinstatement notice (without affecting its power to serve another),
+
+by serving notice to that effect on the person served with the reinstatement notice.
+
+(5) Any variation of a reinstatement notice under paragraph (4)(a) has effect from the date of service of the notice varying the reinstatement notice.
+
+(6) A reinstatement notice ceases to have effect from the date of service of a notice withdrawing it under paragraph (4)(b).
+
+### 27. Penalty for contravening a reinstatement notice[^key-8027a4d64f4d58fb458a2d23aea315ec]
+
+Any person who, without reasonable excuse, fails to comply with any requirement of a reinstatement notice is guilty of an offence and liable on summary conviction—
+
+- (a) to a fine not exceeding level 5 on the standard scale; and
+- (b) if the failure is continued after conviction, to a further fine not exceeding £100 for every day the failure continues.
+
+### 28. Time limits for bringing proceedings[^key-26e28ee83777afdfbbcc9a3b6da839b5]
+
+(1) Proceedings for any offence under regulation 21 to 23, 25 or 27 may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge.
+
+(2) But proceedings for an offence may not be commenced more than 2 years after the date on which the offence was committed.
+
+(3) For the purposes of paragraph (1), a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in his opinion to warrant the proceedings came to his knowledge shall be conclusive evidence of that fact.
+
+(4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+### 29. Powers of entry and default powers[^key-29fbcdc1c1ebc6657c46057d8ff5d26d]
+
+(1) Any person authorised by the Department may, at any reasonable time, enter and inspect any land for the purpose of—
+
+- (a) ascertaining whether regulation 4 or 9 has been breached;
+- (b) ascertaining whether an offence under regulation 21 to 23, 25 or 27 has been committed on or in connection with that land;
+- (c) serving a screening notice, stop notice or reinstatement notice in respect of that land; or
+- (d) exercising any function under Schedule 4.
+
+(2) Any person authorised by the Department who has reasonable grounds for suspecting that a person has committed an offence under regulation 23, may enter any premises (but not premises used only as a dwelling) which are, or which such person has cause to believe to be, occupied by, or in the possession of, the person believed to be responsible for committing the offence, and may inspect and take copies of any records he has reasonable cause to believe are relevant to the suspected offence.
+
+(3) If any measures required by a reinstatement notice or by a notice served under paragraph 5 of Schedule 4 have not been taken within the period specified in the notice—
+
+- (a) any person authorised by the Department may, at a reasonable time, enter the land to which the notice relates and take those measures, and
+- (b) recover from the person in default the expenses reasonably incurred by him in doing so.
+
+(4) A person authorised under paragraph (1) to enter any land may remove—
+
+- (a) samples of soil;
+- (b) plant specimens; or
+- (c) samples taken from plant specimens,
+- (d) rock samples
+
+for the purpose of ascertaining whether an offence has been committed on or in connection with that land.
+
+(5) A person authorised under paragraph (1), (2) or (3) to enter any land or premises must, if requested to do so, produce evidence of his authority to enter the land or premises.
+
+(6) A person authorised under paragraph (1), (2) or (3) to enter any land or premises may take with him such other persons or such equipment as he considers necessary.
+
+(7) Any person in occupation or possession of land or premises entered by a person authorised under paragraph (1), (2) or (3) must give to that person such assistance as the authorised person may reasonably request so as to enable him to exercise any power conferred on him by this regulation.
+
+(8) A person who intentionally obstructs or impedes any person acting in the exercise of the powers conferred by this regulation or who fails without reasonable excuse to comply with a request made under paragraph (7) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## PART 5 — Appeals
+
+### 30. Appeals against notices[^key-abbc0fa4216ea4e1f428eedb67a00678]
+
+(1) A person may appeal in accordance with this regulation against any of the following notices served on him—
+
+- (a) a screening notice;
+- (b) a stop notice;
+- (c) a reinstatement notice, or
+- (d) a notice under paragraph 5 of Schedule 4,
+
+and any such notice is referred to in this regulation as the “relevant notice”.
+
+(2) An appeal may be brought on any of the following grounds—
+
+- (a) that the Department did not have power to serve the relevant notice, or to include a particular requirement in it;
+- (b) that there has been some material irregularity, defect or error in, or in connection with, the relevant notice; or
+- (c) that any of the requirements of the relevant notice are unreasonable.
+
+(3) An appeal against a relevant notice must be brought by notice, which must—
+
+- (a) include a copy of the relevant notice;
+- (b) state the grounds of appeal; and
+- (c) be served on the Department within 28 days of the date of service of the relevant notice.
+
+(4) Upon receipt of a notice under paragraph (3), the Department shall appoint such person as it thinks appropriate (“the appointed person”) to exercise, with or without payment, on its behalf the functions in relation to an appeal set out in these Regulations.
+
+(5) The appointed person shall determine the procedure for deciding the appeal, and that procedure may include provision for site visits.
+
+(6) Appeals under this regulation may be conducted by written representations or by hearing.
+
+(7) On determining the appeal, the appointed person—
+
+- (a) may affirm, vary or revoke the relevant notice, and
+- (b) must notify the applicant and the Department of its decision, together with the reasons for it.
+
+(8) Where an appeal is brought against a screening notice or a stop notice (unless the notice is withdrawn by the Department) all the requirements contained in it have effect until such time as the appointed person revokes[^key-a864d98f575c5bcb7cc63b8ab94fc248] the notice or varies the requirements.
+
+(9) If the appointed person varies the requirements of a screening notice or a stop notice the variations have effect from the date of notification under paragraph (7)(b).
+
+(10) Where an appeal is brought against a reinstatement notice or a notice served under paragraph 5 of Schedule 4, the notice will be of no effect until it is affirmed or varied on appeal or until the appeal is withdrawn.
+
+### 31. Appeals against screening and consent decisions[^key-8b93424e525a70ac6430042d3f63cb02]
+
+(1) The person specified in paragraph (2) may appeal under this regulation.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) a person who has applied for a screening decision in respect of a project which the Department has decided is a significant project, or is deemed to have so decided, under regulation 8;
+- (b) a person who has applied for consent for a significant project in respect of which consent has been refused or has been granted subject to conditions, other than those specified in regulation 18(2); and
+- (c) a person who has been notified of a further decision under paragraph 3 of Schedule 4.
+
+(3) An appeal against a relevant decision must be brought within 90 days of the date the person concerned was notified of the relevant decision.
+
+(4) A notice of appeal must—
+
+- (a) describe the relevant decision;
+- (b) state the grounds of appeal; and
+- (c) state whether the appellant would like the appeal to be in the form of a hearing or local inquiry or to be disposed of on the basis of written representations; and
+- (d) be served on the Department.
+
+(5) As soon as is reasonably practicable after receiving a notice of appeal against a relevant decision, the Department must appoint such person as it thinks appropriate (“the appointed person”) to exercise, with or without payment, the functions set out in these regulations in relation to an appeal.
+
+(6) The Department must, within 14 days of the date it receives the copy of the notice of appeal, provide the appointed person with sufficient information to identify the interested parties.
+
+(7) The appointed person must serve copies of the notice on the interested parties as soon as is reasonably practicable after receiving that information.
+
+(8) A person who is served with a copy of the notice under paragraph (7) may only make representations in respect of the appeal if he notifies the appointed person of his wish to do so within 21 days of the date he receives the copy of the notice.
+
+(9) The appointed person must decide whether the appeal should be—
+
+- (a) by hearing or local inquiry; or
+- (b) conducted by written representations,
+
+and the appointed person must also notify his decision to the participants in the appeal.
+
+(10) On determining the appeal, the appointed person may allow or dismiss the appeal, or reverse any part of the relevant decision, and may consider the appeal as if he were making a decision on the matter in question for the first time.
+
+(11) Except as otherwise provided by this regulation or regulations 32 or 33, the appointed person must determine the procedure for deciding the appeal, and that procedure may include provision for site visits.
+
+(12) Any representations, statement or other documents to be submitted to the appointed person under regulation 32 or 33 must be accompanied by as many copies as the appointed person shall specify.
+
+(13) In this regulation, “relevant decision” means—
+
+- (a) a decision referred to in paragraph (2)(a);
+- (b) a refusal of consent or a grant of consent subject to conditions referred to in paragraph (2)(b); or
+- (c) a notification referred to in paragraph (2)(c).
+
+### 32. Determination of appeals by written representations[^key-e9cd8b1c28b08010ad57502e8ce48be9]
+
+(1) This regulation applies where an appeal is to be determined by written representations.
+
+(2) Within 35 days of receiving notice that the appeal is to be so determined the appellant and the Department must—
+
+- (a) serve on the appointed person any (or any further) representations he or it wishes to rely on in the appeal; or
+- (b) notify the appointed person that he or it wishes to rely only on the information already provided.
+
+(3) As soon as is practicable after receiving the representations or notification in paragraph (2), the appointed person must—
+
+- (a) send copies of any (or any further) representations to the other participants in the appeal; and
+- (b) notify the other participants in the appeal of any notification by the appellant or the Department that he or it does not wish to rely on any further representations.
+
+(4) Any of the participants in the appeal who wish to make representations must do so within 28 days of the date he or it is notified of the representations or notification under paragraph (3).
+
+(5) If the appointed person receives any representations under paragraph (4), he must send copies of them to the other participants in the appeal.
+
+(6) The appointed person must allow the participants in the appeal a period of at least 28 days to respond to any representations made under paragraphs (2) or (4).
+
+(7) Following the expiry of the period allowed in paragraph (6) the appointed person must determine the appeal and notify the decision to the participants in the appeal.
+
+### 33. Determination of appeals by hearing or local inquiry[^key-613c32b2adecb2f433a31477583878ba]
+
+(1) This regulation applies where an appeal is to be determined by hearing or by local inquiry.
+
+(2) Within 35 days of receiving notice that the appeal is to be so determined, the appellant and the Department must serve on the appointed person a statement containing full particulars of his or its case and copies of any documents he or it wishes to rely on at the hearing or local inquiry.
+
+(3) After receiving the statements and documents in paragraph (2), the appointed person shall send copies of them to the other participants in the appeal.
+
+(4) The appointed person shall—
+
+- (a) give the participants in the appeal 35 days notice of the date, time and place fixed for the hearing or local inquiry and the name of the person appointed to conduct the hearing or local inquiry (or, as applicable, to determine the appeal); and
+- (b) give such notice as he thinks fit to inform the public not less than 21 days before the date fixed for the hearing or local inquiry.
+
+(5) The appointed person may vary the time or place for the hearing or local inquiry and must give such notice of the variation as he thinks fit.
+
+(6) If an interested party wishes to be heard at the hearing or local inquiry he must notify the appointed person within 28 days of being sent the appellant’s and the Department’s statements under paragraph (3).
+
+(7) Where an interested party has so notified the appointed person, the appointed person may require him to submit a statement containing the particulars of his case and copies of any documents he wishes to refer to (except documents which the appellant or the Department served under paragraph (2)).
+
+(8) The appointed person must send copies of any statements and documents received under paragraph (7) to the appellant and to the Department.
+
+(9) The appointed person may require any person who has provided him with a statement under paragraph (2) or (7) to provide him with any further information he specifies in relation to the statement, and must send a copy of the further information to each of the other participants in the appeal.
+
+(10) Before a hearing or local inquiry takes place, the appointed person shall make all of the documents submitted available for inspection by any person who so requests.
+
+(11) The participants in the appeal are entitled to be heard at a hearing or local inquiry.
+
+(12) Any participant in the appeal who proposes to give evidence at an inquiry by reading a witness statement must send a copy of the witness statement, and a written summary of it, to the appointed person not less than 21 days before the date fixed for the inquiry, and the appointed person must send copies of the witness statement and summary to the other participants in the appeal.
+
+(13) After the conclusion of the hearing or local inquiry, the person appointed to conduct the hearing or local inquiry must, unless he has been appointed to determine the appeal, make a report to the appointed person which must include—
+
+- (a) his conclusions; and
+- (b) his recommendations or his reasons for not making any recommendations.
+
+(14) If the appointed person is minded to disagree with the recommendation made in the report because he—
+
+- (a) differs from the person making the report on any matter of fact mentioned in, or appearing to him to be material to, a conclusion reached by that person; or
+- (b) takes into consideration new evidence or a new matter of fact,
+
+he must not come to a decision without first giving every person who appeared at the hearing or local inquiry an opportunity to make representations within a reasonable time specified by him.
+
+(15) The appointed person shall notify the participants in the appeal of his decision, the reasons for it and, where a report has been made in accordance with paragraph (13), a copy of that report.
+
+### 34. Application to the court by person aggrieved[^key-e1af756645d65061818eb67e0cb3d3da]
+
+(1) A person aggrieved by a decision of the Department that a project is not a significant project or a decision to grant consent for a significant project may make an application to the High Court for an order quashing the decision.
+
+(2) The High Court may quash the decision if it is satisfied that—
+
+- (a) the decision was not lawfully made; or
+- (b) the interests of the person who has applied to the court have been substantially prejudiced by a failure to comply with any other requirement of these Regulations.
+
+(3) Any application to the High Court under this regulation must be made within 6 weeks of the date the decision is entered in the register in accordance with regulation 8(4)(b) or published in accordance with regulation 19(b).
+
+(4) The High Court may by interim order, pending the determination of an application under this regulation, stay the operation of the decision on such terms as it thinks fit.
+
+### 35. Interpretation of this Part[^key-ec9bda4873035ea5aca7a65d92dc8e78]
+
+(1) In this Part—
+
+- “appeal” means an appeal under regulation 30 or 31;
+- “interested parties” means—
+  - (a) such of the consultation bodies as the Department considers appropriate;
+  - (b) any person who made representations in respect of a relevant decision (within the meaning of “relevant decision” in regulation 31(13));
+  - (c) any EEA State consulted under regulation 14(6);
+  - (d) any authority or person who forwarded their opinion under regulation 14(6);
+  - (e) any other person who appears to the Department to have a particular interest in the subject matter of the appeal.
+- “participants in the appeal” means—
+  - (a) the appellant;
+  - (b) the Department;
+  - (c) the interested parties;
+  - (d) in the case of a hearing or local enquiry, any other person permitted to take part by the person appointed to conduct the hearing or local inquiry.
+
+## PART 6 — Revocations and Transitional Provisions
+
+### 36. Revocations[^key-a238c0ccbac513a501ce8fb0f1a16428]
+
+The Environmental Impact Assessment (Uncultivated Land and Semi-Natural Areas) (Northern Ireland) Regulations 2006[^f00017] are revoked.
+
+### 37. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005[^key-8f46d836262f0e5905bf37314f5518a9]
+
+The Common Agriculture Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005 are amended by substituting paragraph 7 of the Schedule (Compliance with Statutory Provisions) with the following:
+
+> **7.** (1) A farmer shall comply with any stop notice served upon him under regulation 26(1) of the Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007.
+
+**38.**[^M_F_c13e8c82-6c35-475b-d3d9-809326f18b86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Transitional Provisions[^key-db23d9f119d6c058dba407236295470f]
+
+(1) This regulation provides for the treatment of certain notices served under the Environmental Impact Assessment (Uncultivated Land and Semi-Natural Areas) (Northern Ireland) Regulations 2006 (“the 2006 Regulations”).
+
+(2) Any stop notice served under regulation 22 of the 2006 Regulations is to be treated as though it was served under regulation 24 of these Regulations, and regulations 24, 25, and 28 to 30 of these Regulations apply to any enforcement action taken in respect of a breach of the notice.
+
+(3) Subject to paragraph (4), any reinstatement notice served under regulation 24 of the 2006 Regulations is to be treated as though it was served as a reinstatement notice under regulation 26 of these Regulations and regulations 26 to 30 apply to any enforcement action taken in respect of a breach of the notice.
+
+(4) Nothing in paragraph (3) affects any appeal under regulation 24(3) of the 2006 Regulations brought before the coming into force of these Regulations.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 2nd October 2007.
+
+John Speers
+
+A senior official of the Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — Thresholds[^key-626bf044226a179eac52f0131adf0a1d]
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Uncultivated land project | 2 hectares | 2 hectares |
+| Restructuring project involving the addition or removal of any field boundary (including any wall, fence, bank, ditch or watercourse) | 4 kilometres | 2 kilometres |
+| Restructuring project which involves an area of land | 100 hectares | 50 hectares |
+
+## SCHEDULE 2 — Selection criteria for a screening notice or a screening decision[^key-31dbf24ae567b035003ac1f9e6b73dad]
+
+Regulations 6 and 8
+
+### 1. Characteristics of projects
+
+The characteristics of project must be considered, with particular regard:—
+
+- (a) the size and design of the whole project;
+- (b) cumulation with other existing and/or approved project;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents and/or disasters which are relevant to the project concerned including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of projects
+
+The environmental sensitivity of geographical areas likely to be affected by projects must be considered, with particular regard to:—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water, and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas:—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under legislation (“including European sites or Areas of Special Scientific Interest” or “Natura 2000 areas [^key-a50b82b23f8b1feefbf8687b4b17823b]...”);
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in Union legislation and relevant to the project, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Type and characteristics of the potential impact
+
+The likely significant effects of projects on the environment must be considered in relation to criteria set out in paragraphs 1 and 2 of this schedule, with regard to the impact of the project on the factors specified in regulation 9(3), taking into account:—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing and/or approved projects;
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 2A — Information to be provided for a Screening decision[^key-4e5db96b32348dc29ab1b9431e0ed7f9]
+
+Regulation 7
+
+**1.** A plan sufficient to identify the relevant land.
+
+**2.** A description of the project, including in particular a description of—
+
+- (a) the physical characteristics of the whole project and, where relevant, of demolition works;
+- (b) the location of the project, with particular regard to the environmental sensitivity of geographical areas likely to be affected.
+
+**3.** A description of the aspects of the environment likely to be significantly affected by the project.
+
+**4.** A description of any features of the proposed project or measures to avoid or prevent any likely significant adverse effects on the environment.
+
+**5.** A description under paragraph 2 must include a description or any likely significant effects, of the project on the environment resulting from—
+
+- (a) the expected residues and emissions and the production of waste, where relevant, and
+- (b) the use of natural resources, in particular soil, land, water and biodiversity.
+
+**6.** When compiling the information in accordance with paragraphs 1 to 4, the applicant must take into account—
+
+- (a) the criteria of Schedule 2 which are relevant to the project, and
+- (b) the results of any relevant EU environmental assessments which are reasonably available to the applicant.
+
+## SCHEDULE3 — Information for inclusion in the Environmental Statements[^key-f8998e78c59be0d16b3bfb33c3d9cec5]
+
+Regulations 2(1) and 9A
+
+### PART1
+
+**1.** The information to be provided shall include at least:—
+
+- (a) a description of the project comprising information on the site, design, size and other relevant features of the project;
+- (b) a description of the likely significant effects of the project on the environment;
+- (c) a description of the features of the project and/or measures envisaged in order to avoid, prevent or reduce and, if possible offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternative studied by the developer, which are relevant to the project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the project on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any additional information specified in Part 2 of this Schedule relevant to the specific characteristics of a particular project or type of project and to the environmental features likely to be effected.
+
+### PART2
+
+**1.** Description of the project, including in particular:—
+
+- (a) a description of the location of the project;
+- (b) a description of the physical characteristics of the whole project including, where relevant, requisite demolition works and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the developer, which are relevant to the proposed project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors specified in regulation 9(3) likely to be significantly affected by the project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, scaling), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscapes.
+
+**5.** A description of the likely significant effects of the project on the environment resulting from, including:—
+
+- (a) the construction and existence of the project, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing and/or approved projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the project on climate (for example the nature and magnitude of green house gas emissions) and the vulnerability of the project to climate change;
+- (g) the technologies and the substances used.
+
+The description of the likely significant effects on the factors specified in regulation 9(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project. This description should take into account the environmental protection objectives established in Union legislation or under other national legislation[^key-bfb35a47acf955da1cc6fb15d6c2895e] which are relevant to the project.
+
+**6.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**8.** A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents and/or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation or UK environmental assessments may be used for this purpose provided that the requirements of any law that implemented[^key-e6b925a9d7b6b558aa8bc5f450c9afed] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment are met. Where appropriate this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**9.** A non-technical summary of the information provided under paragraphs 1 to 8.
+
+**10.** A reference list detailing the sources used for the descriptions and assessments included in the report.
+
+## SCHEDULE 4 — Review of decisions and consents
+
+**1.**[^key-1b91c14e991ab7dc5038fc7f63d1f8ba] As soon as is reasonably practicable the Department must, for the purpose of determining whether the project permitted by the decision or consent will adversely affect the integrity of the site, make an appropriate assessment of the implications of the project for the European site or Area of Special Scientific Interest in view of the site’s conservation objectives.
+
+**2.**[^key-0aebc9c4efeac827057ad06534db828a] For the purposes of the assessment, the Department may —
+
+- (a) require any person interested in the relevant land to supply it with such information as it reasonably thinks necessary; and
+- (b) if it considers it necessary, consult members of the public.
+
+**3.**[^key-8ec54ec73195fa734573afb32b3b9a91] Unless, following the assessment, the Department is satisfied that the project permitted by the decision or consent will not adversely affect the integrity of the European site or Area of Special Scientific Interest, and regulation 17(4) does not apply, The Department shall—
+
+- (a) in the case of a decision, revoke the decision; and
+- (b) in the case of a consent, either—
+  - (i) revoke the consent; or
+  - (ii) make such modifications to the consent as appear to it to be necessary to ensure that the project will not adversely affect the integrity of the European site or Area of Special Scientific Interest,
+
+and the Department must notify all persons who appear to it to have an interest in the relevant land of its decision (its “further decision”).
+
+**4.**[^key-49403fb4619b16acbe4c77a5e4b769d3] Subject to paragraph 5, a further decision does not affect any works that have already been carried out in relation to a decision or consent.
+
+**5.**[^key-1c977809e7b6543376c1d9b27ee4078e] (1) If—
+
+- (a) a project which is subject to a further decision has commenced; and
+- (b) it appears to the Department to be necessary to safeguard the integrity of the European site or Area of Special Scientific Interest,
+
+the Department may by notice require the person responsible for carrying out such works, or the owner/occupier of the relevant land, to carry out such works of reinstatement as may be reasonable in the circumstances,
+
+(2) A notice under paragraph (1) must state the period during which the works must be carried out.
+
+(3) Any person who carries out such reinstatement works is entitled, on making a claim in accordance with paragraph 8, to recover from the Department compensation in respect of any expenses reasonably incurred by him in carrying out those works.
+
+**6.**[^key-b6d9c235f2fece9e2ffcb744a471836e] (1) Regulation 28 applies to a further decision made under paragraph 3.
+
+(2) Regulation 27 applies to a notice served under paragraph 5.
+
+**7.**[^key-be6f0656f33859d3f6f65cd26d9542cf] If, following a further decision, a person has incurred expenditure in carrying out work which is rendered abortive by the further decision or has otherwise sustained loss of damage which is directly attributable to the further decision, he is entitled to be paid compensation on submitting a claim in accordance with paragraph 8.
+
+**8.**[^key-20e41fd002ea2655a90cf71588f2f060] A claim for compensation payable under paragraph 5(3) or 7 must be submitted to the Department within 6 weeks of the notification of the further decision and must be accompanied by such evidence as the Department may reasonably require.
+
+**9.**[^key-c0e72071d14cc14c3a80708ed07c619e] Any dispute as to the amount of compensation payable under paragraph 5(3) or 7 may be referred to the Lands Tribunal within 6 years of the date of notification of the further decision in respect of which compensation is payable.
+
+**10.**[^key-814c4a2cb2fa20736c8ded44abbcfa86] Nothing in this Schedule affects anything done in pursuance of a decision or consent before the date the site became a European site or Area of Special Scientific Interest.
+
+## SCHEDULE 5 — Consultation Bodies[^key-102a6581d6c93dabc529afa693b9cdfe]
+
+[^key-102a6581d6c93dabc529afa693b9cdfe]
+
+- Agri-Food and Biosciences Institute
+- Causeway Coast and Glens Heritage Trust
+- Council for Nature, Conservation and the Countryside
+- Countryside Access Activities Network
+- Department of Agriculture and Food (Republic of Ireland)
+- [^key-9ff1989018c757b47fa75eee64446ba3]...
+- Department for the Environment, Food and Rural Affairs
+- Department for Communities[^key-22126547aeeb5205be48695f686abb1b]
+- Farming and Wildlife Advisory Group
+- Forest Service
+- Mourne Heritage Trust
+- National Trust
+- Northern Ireland Agricultural Producers’ Association
+- Northern Ireland Biodiversity Group
+- Northern Ireland Environment Link
+- Rivers Agency
+- Royal Society for the Protection of Birds
+- Scottish Executive Environment and Rural Affairs Department
+- Ulster Farmers’ Union
+- Ulster Wildlife Trust
+- Welsh Assembly
+- World Wildlife Fund Northern Ireland
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) (O.J. No. L175, 5.7.85, p.40) on the assessment of the effects of certain public and private projects on the environment (as last amended by Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) (O.J. No. L156, 25.6.03, p. 17)) (“the EIA Directive”) in relation to two types of project in paragraph 1 of Annex II to that Directive: projects for the restructuring of rural land holdings, and projects for the use of uncultivated land and semi-natural areas for intensive agricultural purposes.
+
+They also implement Council Directive [1992/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) (O.J. No. L206, 22.7.1992, p. 7) on the conservation of natural habitats and of wild flora and fauna (as last amended by the Act concerning the conditions of accession of the new Member States (O.J. No. L 236, 23.9.2003, p. 667–70. See Annex II: 16. Environment, C. Nature protection.) (“the Habitats Directive”) insofar as those projects affect sites protected by that Directive.
+
+Regulation 3 sets out the types of projects which are excluded from the scope of the Regulations. It also gives the Department the power to exclude certain projects from the scope of the Regulations in accordance with the EIA and Habitats Directives.
+
+Regulation 4 prohibits any person from beginning or carrying out certain uncultivated land projects or restructuring projects unless that person has obtained a screening decision allowing the project to go ahead.
+
+Regulation 5 and Schedule 1 set out how to calculate the appropriate threshold for a project.
+
+Regulation 6 sets out provisions relating to the service of “screening notices” which allow the Department to remove the application thresholds from areas of land.
+
+Regulation 7 sets out what must be included in an application for a screening decision, and allows the Department to ask for further information.
+
+Regulation 8 and Schedule 2 set out the factors to be taken into consideration by the Department when it makes a screening decision, and the procedures relating to a screening decision. Schedule 2 is based on Annex III to the EIA Directive.
+
+Regulation 9 prohibits a person from beginning or carrying out a project likely to have significant effects on the environment unless he has first obtained consent from the Department.
+
+Regulation 10 sets out the procedure by which the Department can give an applicant an opinion on the scope of an environmental statement.
+
+Regulation 11 sets out the duties of consultation bodies from which information is sought in connection with applications and scoping opinions.
+
+Regulation 12 provides that applications for consent must include an environmental statement and sets out consultation procedures relating to the application.
+
+Regulation 13 sets out further procedures relating to any further information that is required from the applicant.
+
+Regulations 14 and 15 set out the procedure when a significant project in Northern Ireland may have an effect on the environment of another EEA State, and the procedure when a significant project in another EEA State may have an effect on the environment of Northern Ireland.
+
+Regulations 16 and 17 set out the factors to be taken into consideration when the Department makes a consent decision, including the situation where a project is likely to affect a European Site or Area of Special Scientific Interest and provide for the timing of consent decisions.
+
+Regulation 18 sets out the conditions which must be applied to a consent and Regulation 19 sets out the procedures following the consent decision.
+
+Regulation 20 and Schedule 4 make provision for the situation where, following a decision permitting the commencement of a project, the relevant land becomes a European site or Area of Special Scientific Interest.
+
+Regulation 21 makes it an offence to begin or carry out a project without obtaining a screening decision or a consent decision (where these are required).
+
+Regulation 22 makes it an offence to breach a condition of consent.
+
+Regulation 23 makes it an offence to procure a decision by deception or the supply of false or misleading information or documents.
+
+Regulation 24 empowers the Department to issue stop notices.
+
+Regulation 25 makes it an offence to contravene a stop notice.
+
+Regulation 26 empowers the Department to issue “reinstatement notices” requiring a person in breach of the Regulations to return his land to the condition it was in before the breach, or to good environmental condition.
+
+Regulation 27 makes it an offence to fail to comply with a reinstatement notice without reasonable excuse.
+
+Regulation 28 allows prosecutions under regulations 21 to 23, 25 and 27 to be brought within 6 months of the date sufficient evidence comes to the prosecutor’s knowledge. But prosecutions must be brought within 2 years of the date on which the offence is committed.
+
+Regulation 29 confers powers on persons authorised by the Department to enforce these Regulations. Regulation 29(8) makes it an offence to obstruct an authorised person in the exercise of those powers.
+
+Regulations 30 to 35 contain provisions in respect of notices and decisions given under these Regulations.
+
+Regulations 36 to 39 contain amending, revoking and transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812) and [S.I. 2000/3238](https://www.legislation.gov.uk/uksi/2000/3238)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^key-ce3caedc40571ed37e332c61fa4dba8c]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/421) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-23676368471f1878761bdfe0adeb97b6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-5bda62bf1cb3efb445f58cca27bed95f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/421/regulation/2) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-4ddd27de6a12d0d56b55718e6b34ba73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/a) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-c2d676d4c2022d7cfaa51e74138cd3bd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b8b339983f244e39fb904da2b31ef065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/b) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-e24688969c132b7d8d500995880ee1a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(d)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/d) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-8cf21787bcfd740d2049c77d517ab696]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4a4007389877d922b195b2a6f1e935a8]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 15(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/15/a)
+
+[^key-e0cdead2cd7a7d77acd486c5bbb1449c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(e)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/e) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^f00004]: Footnote: O.J. No. L206, 22.7.1992, p. 7.
+
+[^key-62295cc9967fc17ae6da25b264a6a58c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(f)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/f) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-9bf0728dce63ee55f6cfecf981700ebe]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(g)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/g) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^f00006]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
+
+[^key-83eafb2e4822631c24522806260e5ee7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) inserted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00007]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46)
+
+[^key-a5104403217d7af78973481ace340688]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [3(i)](https://www.legislation.gov.uk/nisr/2017/198/regulation/3/i) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-030f074cab7fe9a9cc8edcfb144333a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) inserted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb5b3b9e8ce0cc6c9554eb36431dc364]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 15(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/15/b)
+
+[^key-d3fc6ba628dc63149466ddb35c556cb8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/2) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(e)(i)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-490d3028004e70522db865a4bf8bddde]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/2) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6bdd5ba3b77c34a23b9b7ec4d44c4065]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/2) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/2/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00008]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-825e5b60b164f9d01535003d0b4c9a1d]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2007/421/regulation/2/5) added (31.7.2008) by [The Environmental Impact Assessment (Agriculture) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/278)](https://www.legislation.gov.uk/nisr/2008/278), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/278/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2008/278/regulation/3/b)
+
+[^key-48c102529ad20d1a0a03bc90466c4b0b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/421/regulation/3) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-02f3358663b6cfc84d9072013d85c947]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/2/a) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2017/198/regulation/4/1/a) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-8f4c16d9b43e22996e6ee98f86b9aaa5]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/2/b) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-718864073bfd42971ec8e2c47070b75b]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/2/c) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [4(1)(c)](https://www.legislation.gov.uk/nisr/2017/198/regulation/4/1/c) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-efa64708c745c4e433c35a6a26bcd092]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/2/d) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [4(1)(d)](https://www.legislation.gov.uk/nisr/2017/198/regulation/4/1/d) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-48ddf5c7bd4784c1e4b76ce58f759b4b]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/2/e) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [4(1)(e)](https://www.legislation.gov.uk/nisr/2017/198/regulation/4/1/e) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^f00013]: Footnote: [S.R. 2005 No. 268](https://www.legislation.gov.uk/nisr/2005/268)
+
+[^f00014]: Footnote: [S.R. 2005 No. 276](https://www.legislation.gov.uk/nisr/2005/276)
+
+[^key-a73ed952c35811e82f42791c0bfe7cd2]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/3) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [4(1)(f)](https://www.legislation.gov.uk/nisr/2017/198/regulation/4/1/f) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-246887f067c255bab9687401109838d6]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2007/421/regulation/3/4) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [4(1)(g)](https://www.legislation.gov.uk/nisr/2017/198/regulation/4/1/g) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-0ca2fc036964920bcfba3483712b6237]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/421/regulation/4) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-709bf6a895525c59626e6ca47a287ede]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/421/regulation/5) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-15cd2029cdff14adce230b6ed6aa76b4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/421/regulation/6) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-5749ea3d9d676f69e242a8439d9a9f3d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/421/regulation/7) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-4bcd348ee1af61b4de9a90188fed1780]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/7/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2017/198/regulation/5) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-ac1c266982b00bfd59bf5b4518ba0f4a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/421/regulation/8) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-6c77cb3645114c70f2895ddf006dae74]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/1A) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [6(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/6/1) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-e005e6d58c92dc02a8966682332a95f8]: Textual amendment: [Reg. 8(4)(a)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/4/a) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2017/198/regulation/6/2) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-0192a84b1e86487c5ae8c597fea59a85]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/4/b) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2017/198/regulation/6/3) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-2c45fc31b5e152aec0e02c3fb904f21e]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/4/c) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2017/198/regulation/6/4) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-f7f75836286b307f6d7370bc1517cbd0]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/5)[(5A)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/5A) substituted for [reg. 8(5)](https://www.legislation.gov.uk/nisr/2007/421/regulation/8/5) (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2017/198/regulation/6/5) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-2a0485d267ccee4e7e6f31961f7dfaeb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/421/regulation/9) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-440f20b422d603de4d5e5620aa6550af]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2007/421/regulation/9A) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2017/198/regulation/7) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-f55989362749802d600e1d42962fd8bc]: Textual amendment: Words in [reg. 9A(3)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/9A/3/b) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f4d18e15332bf5f16ffef5a678b12d70]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/421/regulation/10) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-77e15f7e8023cdfed3a93cb14f73f5a8]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/10/1) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/8/1) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-58e3eb4d369ca6da8a7cdf3201e2c47e]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/nisr/2007/421/regulation/10/1A) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2017/198/regulation/8/2) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-7c2ec5907f931bfbbf81a11cd8d390cd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/421/regulation/11) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-8317cbc0f652ba7084d5f17a5741cef5]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/11/2/b) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2017/198/regulation/9) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^f00015]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
+
+[^key-219d8c59f6f31ad11b4bb5d13a51b1b4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/421/regulation/12) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-ae98338ae4485d14538701a6d369f438]: Textual amendment: Words in [reg. 12(4)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/12/4/b) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2017/198/regulation/9) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-1e2df6aebdc3b25821f75bc48ac49840]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/421/regulation/13) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-5322a8e24a2cef172068a8cd0d3ab6ac]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/13/2/b) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2017/198/regulation/9) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-1f4a830d528cbcc3e01fedbfaf03b362]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2007/421/regulation/14) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-55fa9ae1bae9ed6400f051e29bfece45]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/nisr/2007/421/regulation/14) heading substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd381cd7dd4f277dc2ea4afbeea764b5]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/14/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a50dd5790df750a82bfc44e65a47029f]: Textual amendment: Words in [reg. 14(5)(a)](https://www.legislation.gov.uk/nisr/2007/421/regulation/14/5/a) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-17c2656f93dad231b69ada74e8f5db84]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/nisr/2007/421/regulation/14/6) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dfca23080cee49985bf42e4e7ce41ff0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/421/regulation/15) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-22ca95cf2d01ebda5d51848e25cf38a4]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2007/421/regulation/15) heading substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-33781b9c1b94a22a28639523a44e9b6b]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2007/421/regulation/15/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6e9fd91f758706665e04958fce249b9b]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2007/421/regulation/15/2) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1de6f8a49b8148c25312c42e6dea3bd3]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2007/421/regulation/15/3) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(6)(d)(i)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/6/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0c551637b61a978d08870ed8713253f3]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2007/421/regulation/15/3) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/6/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f36a0cdda05a2434b3d2d7fb9310d04]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2007/421/regulation/15A) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2017/198/regulation/10) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-2f1c19c42aced3c37a1e1f26520e42a3]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2007/421/regulation/16) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2017/198/regulation/11) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-e916ef66892d8e2379bb4425824e01b0]: Textual amendment: Word in [reg. 16(4)(c)](https://www.legislation.gov.uk/nisr/2007/421/regulation/16/4/c) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2c9f020af6f156413db9fba9ffba2d37]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/421/regulation/17) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^f00016]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716)
+
+[^key-3fa6c0d79b139d61153762753c5c39c4]: Textual amendment: Word in [reg. 17(5)](https://www.legislation.gov.uk/nisr/2007/421/regulation/17/5) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0b9c356a669dfd348f7ba5933172f9a7]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/nisr/2007/421/regulation/17/6) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(8)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-03a588b9ae4d98c1727bc1cdafd6489f]: Textual amendment: [Reg. 17(7)](https://www.legislation.gov.uk/nisr/2007/421/regulation/17/7) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2017/198/regulation/12) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-aafbace51032c4d9792af7a46846cbef]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/421/regulation/18) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-9ede99b588a9e63aa282b7282d5c7edc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2007/421/regulation/19) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-7f8e248f3547b57a96681159efebe556]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/421/regulation/20) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-6d1210ebbc1fd8a7a1bf5c5621fcbe3e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/421/regulation/21) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-39caf2f5f6356ad8969acb88460e3376]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/421/regulation/22) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-b822152131d0d06e00fc65565bdd4251]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/421/regulation/23) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-85ffb96a7134f5d57ddaac471333805a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/421/regulation/24) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-13e9802b00795eea608b497ec91701c1]: Textual amendment: Words in [reg. 24(4)(b)](https://www.legislation.gov.uk/nisr/2007/421/regulation/24/4/b) substituted (31.7.2008) by [The Environmental Impact Assessment (Agriculture) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/278)](https://www.legislation.gov.uk/nisr/2008/278), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/278/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2008/278/regulation/4)
+
+[^key-abf9b2a7adfbba7df213ba9d46825a42]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/421/regulation/25) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-82981decef92c7997fc65f8471d722bc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/421/regulation/26) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-8027a4d64f4d58fb458a2d23aea315ec]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2007/421/regulation/27) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-26e28ee83777afdfbbcc9a3b6da839b5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2007/421/regulation/28) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-29fbcdc1c1ebc6657c46057d8ff5d26d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2007/421/regulation/29) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-abbc0fa4216ea4e1f428eedb67a00678]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2007/421/regulation/30) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-a864d98f575c5bcb7cc63b8ab94fc248]: Textual amendment: Words in [reg. 30(8)](https://www.legislation.gov.uk/nisr/2007/421/regulation/30/8) substituted (31.7.2008) by [The Environmental Impact Assessment (Agriculture) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/278)](https://www.legislation.gov.uk/nisr/2008/278), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/278/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2008/278/regulation/5)
+
+[^key-8b93424e525a70ac6430042d3f63cb02]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2007/421/regulation/31) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-e9cd8b1c28b08010ad57502e8ce48be9]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2007/421/regulation/32) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-613c32b2adecb2f433a31477583878ba]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2007/421/regulation/33) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-e1af756645d65061818eb67e0cb3d3da]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2007/421/regulation/34) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-ec9bda4873035ea5aca7a65d92dc8e78]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2007/421/regulation/35) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-a238c0ccbac513a501ce8fb0f1a16428]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2007/421/regulation/36) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^f00017]: Footnote: [S.R. 2006 No. 90](https://www.legislation.gov.uk/nisr/2006/90)
+
+[^key-8f46d836262f0e5905bf37314f5518a9]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2007/421/regulation/37) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2017/198/regulation/13) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^M_F_c13e8c82-6c35-475b-d3d9-809326f18b86]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2007/421/regulation/37) omitted (25.9.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2017/198/regulation/13) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-db23d9f119d6c058dba407236295470f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2007/421/regulation/39) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-626bf044226a179eac52f0131adf0a1d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/421/schedule/1) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-31dbf24ae567b035003ac1f9e6b73dad]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2007/421/schedule/2) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/198/schedule/1) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-a50b82b23f8b1feefbf8687b4b17823b]: Textual amendment: Words in [Sch. 2 para. 2(c)(v)](https://www.legislation.gov.uk/nisr/2007/421/schedule/2/paragraph/2/c/v) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4e5db96b32348dc29ab1b9431e0ed7f9]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2007/421/schedule/2A) inserted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/198/schedule/2) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-f8998e78c59be0d16b3bfb33c3d9cec5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2007/421/schedule/3) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/198/schedule/3) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-bfb35a47acf955da1cc6fb15d6c2895e]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2007/421/schedule/3/paragraph/5) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(10)(a)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6b925a9d7b6b558aa8bc5f450c9afed]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2007/421/schedule/3/paragraph/8) substituted (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [4(10)(b)](https://www.legislation.gov.uk/uksi/2019/279/regulation/4/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1b91c14e991ab7dc5038fc7f63d1f8ba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/1) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-0aebc9c4efeac827057ad06534db828a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/2) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-8ec54ec73195fa734573afb32b3b9a91]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/3) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-49403fb4619b16acbe4c77a5e4b769d3]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/4) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-1c977809e7b6543376c1d9b27ee4078e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/5) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-b6d9c235f2fece9e2ffcb744a471836e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/6) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-be6f0656f33859d3f6f65cd26d9542cf]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/7) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-20e41fd002ea2655a90cf71588f2f060]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/8) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-c0e72071d14cc14c3a80708ed07c619e]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/9) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-814c4a2cb2fa20736c8ded44abbcfa86]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2007/421/schedule/4/paragraph/10) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-102a6581d6c93dabc529afa693b9cdfe]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2007/421/schedule/5) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/421/regulation/1)
+
+[^key-9ff1989018c757b47fa75eee64446ba3]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2007/421/schedule/5) omitted (25.9.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [18(2)](https://www.legislation.gov.uk/nisr/2017/198/regulation/18/2) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))
+
+[^key-22126547aeeb5205be48695f686abb1b]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2007/421/schedule/5) substituted (25.9.2017) by [The Environmental Impact Assessment (Agriculture) (Amendment No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/198)](https://www.legislation.gov.uk/nisr/2017/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/1/1), [18(1)](https://www.legislation.gov.uk/nisr/2017/198/regulation/18/1) (with [reg. 20](https://www.legislation.gov.uk/nisr/2017/198/regulation/20))

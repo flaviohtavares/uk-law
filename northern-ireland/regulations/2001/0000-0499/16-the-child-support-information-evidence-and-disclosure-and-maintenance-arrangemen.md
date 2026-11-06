@@ -1,0 +1,231 @@
+---
+title: The Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations (Northern Ireland) 2001
+id: nisr/2001/16
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-01-23'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/16
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/16/pdfs/nisr_20010016_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/16/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations (Northern Ireland) 2001
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 16
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations (Northern Ireland) 2001
+
+Made
+
+23rd January 2001
+
+Approved by resolution of the Assembly on
+
+29th May 2001
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by Articles 7(4), 9(7), 12(1), (2) and (4), 16(1), (1A) and (3), 41(2A), 47, 48(4) and 50 of the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-2d0721fb68c14ebab4b387d36a6f0385]
+
+(1) These Regulations may be cited as the Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation as follows—
+
+- (a) regulations 2(5)(*c*) and (*d*), (7) and (8) and 3(8) and, for the purposes of those provisions, this regulation, shall come into operation on 31st January 2001; and
+- (b) the remainder of these Regulations shall come into operation in relation to a particular case on the day on which paragraphs 12 and 27 of Schedule 3 to the Act, which respectively amend Articles 2(2) and 47 of the Order comes into operation for the purposes of that type of case.
+
+(2) In these Regulations—
+
+- “the Order” means the Child Support (Northern Ireland) Order 1991; and
+- “the Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003].
+
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-837a63fcf0109746d5376a6538c40e08]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^key-7b644a954b944cc98d834c1db99c0a39][^key-5ea77546a9939fa673f4a4460fca7f06]
+
+(1)[^key-7b644a954b944cc98d834c1db99c0a39] The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00028] shall be amended in accordance with paragraphs (2) to (9).
+
+(2)[^key-7b644a954b944cc98d834c1db99c0a39] For “absent parent” wherever it appears there shall be substituted “non-resident parent”, preceded where appropriate by “a” instead of “an”.
+
+(3)[^key-7b644a954b944cc98d834c1db99c0a39] For “assessment” wherever it appears there shall be substituted “calculation”.
+
+(4)[^key-6355494c79155fdee4d5a1f38cc47905][^key-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-7b644a954b944cc98d834c1db99c0a39] In regulation 3 (relationship between maintenance assessments and certain court orders)—
+
+- (a) in paragraph (2) after “cease to have effect” there shall be added “on the effective date of the maintenance calculation.”;
+- (b) paragraphs (4) to (7)[^f00030] shall be omitted.
+
+(6)[^key-9c0c8eeed342715f718a3ffb8b73fae7][^key-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-b4cacd7bbeab86a2ccb6eebd2ffe6897][^key-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-5ea77546a9939fa673f4a4460fca7f06] After regulation 7 there shall be inserted the following regulation—
+
+> **7A. Prescription for the purposes of jurisdiction**
+>
+> (1) The companies prescribed for the purposes of Article 41(2A)(*c*) of the Order (non-resident parents not habitually resident in the United Kingdom but employed by prescribed companies) are companies which employ employees to work outside the United Kingdom but make calculations and payment arrangements in relation to the earnings of those employees in the United Kingdom so that a deduction from earnings order may be made under Article 31 of the Order in respect of the earnings of any such employee who is a liable person for the purposes of that Article.
+>
+> (2) The following bodies are prescribed for the purposes of Article 41(2A)(*d*) of the Order (non-resident parents not habitually resident in the United Kingdom but employed by a prescribed body)—
+>
+> - (a) a Health and Social Services trust established by order made under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00032];
+> - (b) a Health and Social Services Board established by order made under Article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00033] (“the 1972 Order”);
+> - (c) the Central Services Agency established by order made under Article 26 of the 1972 Order;
+> - (d) a Special Agency established by order made under Article 3 of the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990[^f00034];
+> - (e) a National Health Service Trust established by order made under section 5 of the National Health Service and Community Care Act 1990[^f00035] (“the 1990 Act”) or under section 12A of the National Health Service (Scotland) Act 1978[^f00036] (“the 1978 Act”);
+> - (f) a Primary Care Trust established by order made under section 16A of the National Health Service Act 1977[^f00037] (“the 1977 Act”);
+> - (g) a Health Authority established under section 8 of the 1977 Act[^f00038];
+> - (h) a Special Health Authority established under section 11 of the 1977 Act[^f00039];
+> - (i) a local authority, and for this purpose local authority means, in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly and in relation to Wales, a county council or county borough council and, in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00040];
+> - (j) a Health Board constituted under section 2 of the 1978 Act; and
+> - (k) a Special Health Board constituted under section 2 of the 1978 Act.
+
+.
+
+(9)[^key-7b644a954b944cc98d834c1db99c0a39] In regulation 8 (maintenance assessments and maintenance orders made in error) —
+
+- (a) in paragraph (1) for sub-paragraph (*c*)[^f00041] there shall be substituted the following sub-paragraph—
+
+  > - (c) the Department revises the decision as to the maintenance calculation under Article 18 of the Order[^f00042] and decides that no child support maintenance was payable on the ground that the previous decision was made in error,
+
+  ;
+- (b) in paragraph (2)[^f00043]—
+  - (i) in sub-paragraph (*aa*) “is cancelled or” shall be omitted, and
+  - (ii) “as not having been cancelled or, as the case may be,” shall be omitted.
+
+## 4. Transitional provisions and savings[^key-927cc8b25e00eb308086e23d6ac60f8c]
+
+(1) Where in respect of a particular case before the date that these Regulations come into operation with respect to that type of case (“the commencement date”)—
+
+- (a) an application was made and not determined for—
+  - (i) a maintenance assessment;
+  - (ii) a departure direction, or
+  - (iii) a revision or supersession of a decision;
+- (b) the Department had begun but not completed a revision or supersession of a decision on its own initiative;
+- (c) any time limit provided for in Regulations for making an application for a revision or a departure direction had not expired; or
+- (d) any appeal was made but not decided or any time limit for making an appeal had not expired,
+
+regulations 2(2) to (5) (except for sub-paragraphs (*c*) and (*d*)), (6), (9) to (11) and 3(2) to (7) and (9) shall not apply for the purposes of—
+
+- (aa) the decision on the application referred to in sub-paragraph (*a*);
+- (bb) the revision or supersession referred to in sub-paragraph (*b*);
+- (cc) the ability to apply for the revision or the departure direction referred to in sub-paragraph (*c*) and the decision whether to revise or to give a departure direction following any such application;
+- (dd) any appeal outstanding or made during the time limit referred to in sub-paragraph (*d*); or
+- (ee) any revision, supersession or appeal or application for a departure direction in relation to a decision, ability to apply or appeal referred to in sub-paragraphs (*aa*) to (*dd*).
+
+(2) Where after the commencement date a maintenance assessment falls to be cancelled on grounds of lack of jurisdiction with effect from before the commencement date, regulation 3(7) shall not apply for that purpose.
+
+(3) For the purposes of this regulation—
+
+- (a) “departure direction” and “maintenance assessment” have the same meaning as in Article 2(2) of the Order[^f00044] before its amendment by the Act;
+- (b) “revision or supersession” means a revision or supersession of a decision under Article 18 or 19 of the Order[^f00045] before its amendment by the Act.
+
+Sealed with the Official Seal of the Department for Social Development on 23rd January 2001.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992 (“the Information Regulations”) and the Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992 (“the Jurisdiction Regulations”) mainly consequent upon the introduction of the changes to the child support system made by the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (“the Act”).
+
+These Regulations come into operation at different times for different cases according to the dates on which provisions of the Act which are relevant to these Regulations are commenced for different types of cases.
+
+Regulations 2(2), (3), (6)(*a*)(ii) and (11)(*b*) and 3(2) and (3) change the terminology in the Information Regulations and the Jurisdiction Regulations.
+
+Regulations 2(4)(*a*) and (*b*)(i), (9) and (11)(*a*)(iii) and 3(4) and (6) amend references in the Information Regulations and the Jurisdiction Regulations to the Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992 and the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 as these have been revoked and replaced respectively by the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001 and the Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001.
+
+Regulation 2(4)(*b*)(ii) and (5) amends regulations 1 and 2 of the Information Regulations mainly to adjust the information that can be required so that this is relevant to the changes to the child support system.
+
+Regulation 2(6)(*a*)(i) and (iii) and (*b*), (8), (10) and (11)(*a*)(i) and (ii) makes amendments consequential on the changes to the child support system to regulations 3, 6 and 9A and omits regulation 4 of the Information Regulations. In particular regulation 2(7) amends regulation 3A of the Information Regulations so that notices will include reference to the information offences created by Article 16A of the Child Support (Northern Ireland) Order 1991 (“the Order”).
+
+Regulation 3(5) amends regulation 3 of the Jurisdiction Regulations as references to the “effective date” are now contained in the Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland) 2001.
+
+Regulation 3(7) and (8) omits regulation 7 of those Regulations and inserts a new regulation 7A which prescribes the companies and bodies based in the United Kingdom that employ someone not habitually resident, for the purposes of Article 41(2A) of the Order, in the United Kingdom.
+
+Regulation 3(9) amends references in the Jurisdiction Regulations to “cancelling” a maintenance calculation.
+
+Regulation 4 allows the Information Regulations and the Jurisdiction Regulations to apply as they were before they were amended in certain cases for transitional purposes.
+
+Articles 9(7) and 41(2A) of the Order are some of the enabling provisions under which these Regulations are made. Article 9 was substituted by section 3 of the Act and was brought into operation, for the purpose only of making regulations, on 22nd November 2000 by virtue of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 1) Order (Northern Ireland) 2000 ([S.R. 2000 No. 358 (C. 16)](https://www.legislation.gov.uk/nisr/2000/358)). Article 41(2A) was inserted by section 21(3) of the Act and is brought into operation, in so far as not already in operation, on 31st January 2001 by virtue of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 3) Order (Northern Ireland) 2000 ([S.R. 2000 No. 406 (C. 21)](https://www.legislation.gov.uk/nisr/2000/406)).
+
+The impact on business of these Regulations was covered in the Regulatory Impact Assessment for the Act, in accordance with and in consequence of which, these Regulations are made. A copy of that Assessment may be obtained, free of charge, from Social Security Policy and Legislation Division, Castle Buildings, Stormont, Belfast BT4 3SQ.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 7(4) was amended by paragraph 7 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and Article 9 was substituted by section 3 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (C. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)). Article 12(4) was amended by paragraph 10(1) of Schedule 6 to the Social Security (Northern Ireland) Order 1998 and Article 16 was amended by paragraph 3 of Schedule 3 to the Child Support (Northern Ireland) Order 1995 ([S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)) and paragraph 14 of Schedule 6 and Schedule 7 to the Social Security (Northern Ireland) Order 1998. Article 41(2A) was inserted by section 21(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-2d0721fb68c14ebab4b387d36a6f0385]: Commencement: Reg. 1 in operation at 31.1.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/a)
+
+[^f00003]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^key-837a63fcf0109746d5376a6538c40e08]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/16/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+
+[^key-7b644a954b944cc98d834c1db99c0a39]: Commencement: [Reg. 3(1)-(7)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/1), [(9)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/9) in operation at 3.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/b)
+
+[^key-5ea77546a9939fa673f4a4460fca7f06]: Commencement: Reg. 3(8) in operation at 31.1.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/a)
+
+[^f00028]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); relevant amending rules are [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1995 Nos. 19](https://www.legislation.gov.uk/nisr/1995/19), [162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475) and [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246)
+
+[^key-6355494c79155fdee4d5a1f38cc47905]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^f00030]: Footnote: Paragraph (4) was amended by regulation 7(2) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475), paragraph (6) was added by regulation 3 of [S.R. 1995 No. 19](https://www.legislation.gov.uk/nisr/1995/19) and paragraph (7) was added by regulation 7(4)(*b*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and amended by regulation 7(2) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
+
+[^key-9c0c8eeed342715f718a3ffb8b73fae7]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+
+[^key-b4cacd7bbeab86a2ccb6eebd2ffe6897]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/7) revoked (10.11.2009) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/363)](https://www.legislation.gov.uk/nisr/2009/363), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/363/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/363/schedule)
+
+[^f00032]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Article 10 was amended by Article 3(8) of the Health and Personal Social Services (Northern Ireland) Order 1994 ([S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429))
+
+[^f00033]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
+
+[^f00034]: Footnote: [S.I. 1990/247 (N.I. 3)](https://www.legislation.gov.uk/nisi/1990/247)
+
+[^f00035]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19); section 5 was amended by paragraph 69 of Schedule 1 to the Health Authorities Act [1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7), paragraph 65(2) of Schedule 2 to the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46) and sections 13(1) and 14 of the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8)
+
+[^f00036]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 12A was inserted by section 31 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) and amended by section 46(1) of the Health Act 1999
+
+[^f00037]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 16A was inserted by section 2(1) of the Health Act 1999. Section 16A was commenced in England on 4th January 2000. Section 16A has not been commenced in Wales
+
+[^f00038]: Footnote: Section 8 was substituted by section 1 of the Health Authorities Act 1995 and amended by paragraph 5 of Schedule 4 to the Health Act 1999
+
+[^f00039]: Footnote: Section 11 was amended by paragraph 3 of Schedule 1 to the Health Authorities Act 1995 and paragraph 6 of Schedule 4 to the Health Act 1999
+
+[^f00040]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39)
+
+[^f00041]: Footnote: Sub-paragraph (*c*) was amended by Article 13(5) of [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246)
+
+[^f00042]: Footnote: Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 and amended by section 8 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00043]: Footnote: Paragraph (2) was amended by, and sub-paragraph (*aa*) was inserted by, regulation 3(3)(*b*) of [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164)
+
+[^key-927cc8b25e00eb308086e23d6ac60f8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/16/regulation/4) in operation at 3.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/b)
+
+[^f00044]: Footnote: The definition of “departure direction” was inserted by paragraph 2(*a*) of Schedule 3 to the Child Support (Northern Ireland) Order 1995
+
+[^f00045]: Footnote: Articles 18 and 19 were substituted by Articles 40 and 41 respectively of the Social Security (Northern Ireland) Order 1998

@@ -1,0 +1,185 @@
+---
+title: The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004
+id: nisr/2004/16
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2004-01-19'
+text_date: '2009-10-26'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2004/16
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2004/16/pdfs/nisr_20040016_en.pdf
+- http://www.legislation.gov.uk/nisr/2004/16/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004
+
+> Text as at 2009-10-26.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2004 No. 16
+
+SOCIAL SECURITY
+
+The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004
+
+Made
+
+19th January 2004
+
+Coming into operation in accordance with regulation 1(2) and (3)
+
+The Department for Social Development, in exercise of the powers conferred by sections 122(1)(a) and (d), 132(3) and (4)(b) and 171(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(1) and (4)(b) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-61283ce95ad88a881a9dc302608fd1ca]
+
+(1) These Regulations may be cited as the Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation in accordance with paragraphs (2) and (3).
+
+(2) This regulation and regulation 4 shall come into operation on 16th February 2004.
+
+(3) Regulations 2 and 3 shall come into operation—
+
+- (a) in relation to any particular case in respect of which type of case section 22 of the Act[^f00004] has before 16th February 2004 come into operation, on 16th February 2004;
+- (b) where sub-paragraph (a) does not apply, in relation to any particular case, on the date on which section 22 of the Act comes into operation in relation to that type of case;
+- (c) in relation to a person who, on or after 16th February 2004—
+  - (i) makes a claim for income support or an income-based jobseeker’s allowance, and
+  - (ii) on or after the date of that claim receives any payment of child maintenance made voluntarily,
+
+  on 16th February 2004; or
+- (d) in relation to a person who—
+  - (i) on 16th February 2004 is entitled to income support or an income-based jobseeker’s allowance, and
+  - (ii) on or after 16th February 2004 receives any payment of child maintenance made voluntarily and that payment is the first payment of child maintenance received by that person while he is entitled to income support or an income-based jobseeker’s allowance,
+
+  on 16th February 2004 if a payment referred to in head (ii) is made on that day, or on the day on which such a payment is received where it is received after 16th February 2004.
+
+(4) In this regulation –
+
+- “the Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00005];
+- “the Order” means the Child Support (Northern Ireland) Order 1991[^f00006];
+- “child maintenance” shall have the same meaning as that prescribed for the purposes of section 72A of the Social Security Administration (Northern Ireland) Act 1992[^f00007];
+- “an income-based jobseeker’s allowance” has the meaning given by Article 3(4) of the Jobseeker’s (Northern Ireland) Order 1995[^f00008];
+- “payment of child maintenance made voluntarily” means any payment of child maintenance other than such a payment made—
+  - (a) under a court order;
+  - (b) under a maintenance assessment made under the Order prior to its amendment by the Act or under a maintenance calculation made under the Order after its amendment by the Act;
+  - (c) under an agreement for maintenance;
+  - (d) in accordance with Article 28J of the Order[^f00009] (voluntary payments); or
+  - (e) by the Department in lieu of child maintenance, including any payment made by the Department under section 26 of the Act (temporary compensation payment scheme).
+
+(5) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Amendment of the Income Support (General) Regulations[^key-79e838e60e6e7e308388533ab8811cc9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-5b1e71cbf226bf77b5171505208eb532]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations[^key-2fab64e088b928d77728f87f5e0164fd]
+
+(1) The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001[^f00017] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) For regulation 1 (citation, commencement and interpretation) there shall be substituted the following regulation—
+
+> **1.** (1) These Regulations may be cited as the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 and shall come into operation—
+>
+> - (a) in relation to any particular case, on the date on which section 22 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 comes into operation in relation to that type of case (“the commencement date”);
+> - (b) in relation to a person who, on or after 16th February 2004—
+>   - (i) makes a claim for income support or an income-based jobseeker’s allowance, and
+>   - (ii) on or after the date of that claim receives any payment of child maintenance made voluntarily,
+>
+>   on 16th February 2004; or
+> - (c) in relation to a person who—
+>   - (i) on 16th February 2004 is entitled to income support or an income-based jobseeker’s allowance, and
+>   - (ii) on or after 16th February 2004 receives any payment of child maintenance made voluntarily and that payment is the first payment of child maintenance received by that person while he is entitled to income support or an income-based jobseeker’s allowance,
+>
+>   on 16th February 2004 if a payment referred to in head (ii) is made on that day, or on the day on which such a payment is received where it is received after 16th February 2004.
+>
+> (2) In this regulation—
+>
+> - “the Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000;
+> - “the Order” means the Child Support (Northern Ireland) Order 1991;
+> - “child maintenance” shall have the same meaning as that prescribed for the purposes of section 72A of the Social Security Administration (Northern Ireland) Act 1992;
+> - “an income-based jobseeker’s allowance” has the meaning given by Article 3(4) of the Jobseekers (Northern Ireland) Order 1995;
+> - “payment of child maintenance made voluntarily” means any payment of child maintenance other than such a payment made—
+>   - (a) under a court order;
+>   - (b) under a maintenance assessment made under the Order prior to its amendment by the Act or under a maintenance calculation made under the Order after its amendment by the Act;
+>   - (c) under an agreement for maintenance;
+>   - (d) in accordance with Article 28J of the Order (voluntary payments); or
+>   - (e) by the Department in lieu of child maintenance, including any payment made by the Department under section 26 of the Act (temporary compensation payment scheme).
+>
+> (3) The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Assembly.
+
+.
+
+(3) In regulation 2 (child maintenance: income support and jobseeker’s allowance) paragraphs (1)(b) and (2)(b) shall be omitted.
+
+Sealed with the Official Seal of the Department for Social Development on 19th January 2004.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Income Support (General) Regulations (Northern Ireland) 1987 (“the Income Support Regulations”), the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (“the Jobseeker’s Allowance Regulations”) and the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (“the Child Maintenance Premium Regulations”).
+
+Regulation 1 makes provision for citation, commencement and interpretation.
+
+Regulations 2 and 3 amend, respectively, the Income Support Regulations and the Jobseeker’s Allowance Regulations to –
+
+- make it clear that when more than one payment of child maintenance is made in respect of more than one child or young person, or by more than one person in respect of a child or young person, all such payments which are to be taken into account in any week shall be aggregated and treated as a single payment of child maintenance; and
+- ensure that when payments of child maintenance are made otherwise than weekly the child maintenance premium disregard is applied to each weekly amount of child maintenance paid.
+
+Regulation 4(2) substitutes regulation 1 of the Child Maintenance Premium Regulations to ensure that those Regulations apply –
+
+- in respect of a person who, on or after 16th February 2004, makes a claim for income support or an income-based jobseeker’s allowance and on or after that date receives a payment of child maintenance made voluntarily, from 16th February 2004; or
+- in respect of a person who, on 16th February 2004, is entitled to income support or an income-based jobseeker’s allowance and on or after that date first receives a payment of child maintenance made voluntarily while he is entitled to that benefit, from 16th February 2004 if the first such payment of child maintenance is received on that date, or from the day on which the first such payment of child maintenance is received if it is received after that date.
+
+Regulation 4(3) makes omissions in consequence of the amendments made by these Regulations.
+
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+A regulatory impact assessment has not been produced for this rule as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 36(2) was amended by paragraph 55 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^key-61283ce95ad88a881a9dc302608fd1ca]: Commencement: Reg. 1 in operation at 16.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2)
+
+[^f00004]: Footnote: *See* Article 6 of [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53), as substituted by Article 2 of [S.R. 2003 No. 92 (C. 7)](https://www.legislation.gov.uk/nisr/2003/92)
+
+[^f00005]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
+
+[^f00006]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
+
+[^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 72A was inserted by Article 18 of the Child Support (Northern Ireland) Order 1995 ([S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
+
+[^f00008]: Footnote: The definition of “an income-based jobseeker’s allowance” was amended by paragraph 3(4)(a) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
+
+[^f00009]: Footnote: Article 28J was inserted by section 19(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-79e838e60e6e7e308388533ab8811cc9]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/16/regulation/2) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/a)
+
+[^key-5b1e71cbf226bf77b5171505208eb532]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/16/regulation/3) revoked (26.10.2009) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/338/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/9/a)
+
+[^key-2fab64e088b928d77728f87f5e0164fd]: Commencement: Reg. 4 in operation at 16.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2)
+
+[^f00017]: Footnote: [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25), to which there is an amendment not relevant to these regulations

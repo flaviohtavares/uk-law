@@ -1,0 +1,23 @@
+---
+title: The Housing (Northern Ireland) Order 2003, section 51
+act: The Housing (Northern Ireland) Order 2003
+section: '51'
+status: revised
+text_date: '2022-08-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisi/2003/412/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing (Northern Ireland) Order 2003, section 51
+
+> Text as at 2022-08-29.
+>
+> Extent: Northern Ireland.
+
+## 51. Disabled facilities grants: the disabled occupant
+
+*Extent: N.I.*
+
+In this Chapter the “disabled occupant”, in relation to an application for a disabled facilities grant, means the disabled person for whose benefit it is proposed to carry out any of the relevant works.

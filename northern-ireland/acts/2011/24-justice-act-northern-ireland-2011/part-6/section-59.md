@@ -1,0 +1,38 @@
+---
+title: Justice Act (Northern Ireland) 2011, section 59
+act: Justice Act (Northern Ireland) 2011
+section: '59'
+status: revised-with-pending-changes
+text_date: '2018-06-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2011/24/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Justice Act (Northern Ireland) 2011, section 59
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2018-06-01. See https://www.legislation.gov.uk/changes/affected/nia/2011/24
+>
+> Extent: Northern Ireland.
+
+## 59. Penalty offences and penalties[^key-b132f75da6ec0bfacc316315a31432ef]
+
+*Extent: N.I.*
+
+(1) For the purposes of this Chapter—
+
+- (a) “**penalty offence**” means an offence described in the first column of Schedule 4;
+- (b) the penalty payable in respect of a penalty offence is the amount specified in relation to that offence in the second column of that Schedule plus the amount of the offender levy determined under section 6.
+
+(2) The Department may by order amend an entry in either column of Schedule 4 or add or remove an entry.
+
+(3) But an order under subsection (2) may not provide for the penalty payable in respect of a penalty offence to be an amount which is more than a quarter of the amount of the maximum fine for which a person is liable on summary conviction of the offence.
+
+(4) An order under subsection (2) may make such amendment of any provision of this Chapter as the Department considers appropriate in consequence of any change in Schedule 4 made by the order.
+
+(5) No order shall be made under subsection (2) unless a draft of the order has been laid before, and approved by a resolution of, the Assembly.
+
+## Annotations
+
+[^key-b132f75da6ec0bfacc316315a31432ef]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2011/24/section/59) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

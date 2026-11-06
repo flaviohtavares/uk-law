@@ -1,0 +1,186 @@
+---
+title: The Nutrition and Health Claims Regulations (Northern Ireland) 2007
+id: nisr/2007/349
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2007-07-27'
+text_date: '2023-10-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/349
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/349/pdfs/nisr_20070349_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/349/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nutrition and Health Claims Regulations (Northern Ireland) 2007
+
+> Text as at 2023-10-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 349
+
+food
+
+The Nutrition and Health Claims Regulations (Northern Ireland) 2007
+
+Made
+
+27th July 2007
+
+Coming into operation
+
+1st October 2007
+
+The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 15(1) (e) and (f), 16(2), 25(1)(a) and (3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002].
+
+In accordance with Article 47(3A) of the said Order, it has had regard to relevant advice given by the Food Standards Agency.[^key-b51de99fd5e8d4031f28099f468ec776]
+
+There has been open and transparent public consultation during the preparation of the Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^key-b51de99fd5e8d4031f28099f468ec776]
+
+## 1. Citation and commencement[^key-e4b73f24783c770f9f21fbb9aa2ef71d]
+
+These Regulations may be cited as the Nutrition and Health Claims Regulations (Northern Ireland) 2007 and come into operation on 1st October 2007.
+
+## 2. Interpretation[^key-279a7886824d14aad0fa1a68b12f31c6]
+
+(1) In these Regulations —
+
+- “the Order” means the Food Safety (Northern Ireland) Order 1991;
+- “the Regulation” means Regulation[^key-462147283ecba0dd9263e42b0badfa22] [(EC) No. 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on foods, as last amended by [Commission Regulation (EU) No. 1047/2012](https://www.legislation.gov.uk/european/regulation/2012/1047), except for the Annex to Regulation (EC) No.1924/2006 which shall be construed as amended from time to time.
+
+(2) Expressions used in these Regulations and in the Regulation have the same meaning in these Regulations as they do in that Regulation.
+
+(3) Any reference to a numbered Article is a reference to the Article so numbered in the Regulation.
+
+## 3. Competent Authorities[^key-31ed7a0e5421c632751fad6afd51c413]
+
+The competent authority for the purposes of the Regulation —
+
+- (a) in relation to Articles 1(4), 15(2), 16(2), 18(2) is the Food Standards Agency, and
+- (b) in relation to Article 6(3) is each district council in its district.
+
+## 4. Enforcement[^key-fef83b72327ca1404b1b95f8201e7cf8]
+
+Each district council shall execute and enforce the provisions of these Regulations and of the Regulation within its district.
+
+## 5. Offences and Penalties[^key-b74bf3d58666034035f24be98aca9db6]
+
+(1) Subject to the derogation contained in Article 1(3) (relating to trade marks etc) and to the transitional measures contained in Article 28, any person who contravenes or fails to comply with the provisions of the Regulation specified in paragraph (2) is guilty of an offence and liable —
+
+- (a) on conviction on indictment to a term of imprisonment not exceeding two years or to a fine or both;
+- (b) on summary conviction to a term of imprisonment not exceeding three months or to a fine not exceeding the statutory maximum or both.
+
+(2) The specified provisions are —
+
+- (a) Article 3 (general requirements relating to all claims);
+- (b) Article 4(3) (restrictions on claims that may be made on alcoholic beverages);
+- (c) Article 6(2) (requirement for claims to be justified);
+- (d)[^key-df83e1ff8bf101f0e1c0bb199b18027d] Article 7 (requirements for nutrition information) as amended by Article 49 Regulation (EU) No 1169/2011;
+- (e) Article 8(1) (requirements for nutrition claims);
+- (f) Article 9 (requirements for comparative claims);
+- (g) Article 10(1), (2) and (3) (requirements for health claims);
+- (h) Article 12 (prohibition of certain health claims);
+- (i) Article 14(2) (requirements for reduction of disease risk claims).
+
+## 6. Application of various provisions of the Order[^key-5dfeed78d574533e88f8a1193281b94d]
+
+The following provisions of the Order shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order or Part of it is to be construed as a reference to these Regulations —
+
+- (a) Article 2(4) (extended meaning of “sale” etc);
+- (b) Article 4 (presumption that food is intended for human consumption);
+- (c) Article 19 (offences due to the fault of another person);
+- (d) Article 20 (defence of due diligence) as it applies for the purposes of Article 13 or 14;
+- (e) Article 21 (defence of publication in the course of business);
+- (f) Article 30(8) (which relates to documentary evidence);
+- (g) Article 35 (time limit for prosecution).
+
+## 7. Obstruction of officers and provision of information etc[^key-f586f96a927ed30a81a4b877c4834b0e]
+
+(1) Any person who —
+
+- (a) intentionally obstructs any person acting in the execution of these Regulations; or
+- (b) without reasonable cause, fails to give to any person acting in the execution of these Regulations any assistance or information which that person may reasonably require of him,
+
+is guilty of an offence and liable on summary conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding level 5 on the standard scale or both.
+
+(2) Any person who, in purported compliance with any requirement mentioned in paragraph (1)(b), knowingly or recklessly provides information that is false or misleading in any material particular, is guilty of an offence and liable —
+
+- (a) on conviction on indictment, to a term of imprisonment not exceeding two years or to a fine or both;
+- (b) on summary conviction to a term of imprisonment or to a fine not exceeding the statutory maximum or both.
+
+(3) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
+
+## 8. Amendment to the Food Labelling Regulations[^key-b36c8b775dc08d84bc321a7b744c76db]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 27th July 2007.
+
+Dr Andrew McCormick
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the execution and enforcement of Regulation [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on foods, as corrected by a Corrigendum (OJ No. L12, 18.1.2007, p3), “the EC Regulation”.
+
+The Regulations —
+
+- (a) designate the competent authorities for the purposes of certain Articles of the EC Regulation (*regulation 3*);
+- (b) specify the enforcement authorities (*regulation 4*);
+- (c) provide that, subject to certain derogations and transitional measures specified in the EC Regulation where relevant, it is an offence —
+  - (i) to make nutrition or health claims that do not in general comply with the requirements of the EC Regulation and in particular that are misleading or make certain specifically prohibited types of claim;
+  - (ii) to make claims on alcoholic drinks other than to the very limited extent permitted by the EC Regulation;
+  - (iii) to make a claim which cannot be scientifically justified;
+  - (iv) to fail to provide the prescribed nutrition information when making a health claim;
+  - (v) to make a nutrition claim which is not one of the ones listed in the Annex to the EC Regulation;
+  - (vi) to make a comparative nutrition claim that does not comply with the requirements of the EC Regulation;
+  - (vii) to make a health claim that is not authorised under the procedures provided for in the EC Regulation and is not accompanied by certain specified information in the labelling or other presentation;
+  - (viii) to make a health claim of a type specifically prohibited by the EC Regulation; or
+  - (ix) in the case of health claims relating to the reduction of disease risk, to fail to accompany the claim with the statement prescribed in the EC Regulation (*regulation 5*).
+
+The Regulations also —
+
+- (a) apply certain provisions of the Food Safety (Northern Ireland) Order 1991 for the purposes of these Regulations (*regulation 6*);
+- (b) provide that, subject to certain limitations, it is an offence to obstruct, fail to give information to or intentionally mislead anyone executing and enforcing these Regulations (*regulation 7*); and
+- (c) make an amendment to the Food Labelling Regulations (Northern Ireland) 1996 relating to the areas where there is some overlap between those Regulations and the EC Regulation (*regulation 8*).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Health and Social Services; see [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283) Article 3(6)
+
+[^f00002]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and [S.R.2004 Nos. 482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
+
+[^key-b51de99fd5e8d4031f28099f468ec776]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+
+[^f00003]: Footnote: OJ No. L31, 1.2.2002, p. 1 as last amended by [Commission Regulation (EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (OJ No. L100, 8.4.2006, p.3) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the Permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3). By virtue of Regulation 5 of the Food Safety (Northern Ireland) Order 1991 (Amendment) Regulations (Northern Ireland) 2004 ([S.R. 2004 No.482](https://www.legislation.gov.uk/nisr/2004/482)), with effect from 7th December 2004 the consultation requirement contained in Article 47(3) of the 1991 Order is disapplied in any case in which consultation Is required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)
+
+[^key-e4b73f24783c770f9f21fbb9aa2ef71d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-279a7886824d14aad0fa1a68b12f31c6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/349/regulation/2) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-462147283ecba0dd9263e42b0badfa22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/349/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2019/5/regulation/16)
+
+[^key-31ed7a0e5421c632751fad6afd51c413]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/349/regulation/3) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-fef83b72327ca1404b1b95f8201e7cf8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/349/regulation/4) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-b74bf3d58666034035f24be98aca9db6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/349/regulation/5) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-df83e1ff8bf101f0e1c0bb199b18027d]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/nisr/2007/349/regulation/5/2/d) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 15](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/15)
+
+[^key-5dfeed78d574533e88f8a1193281b94d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/349/regulation/6) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-f586f96a927ed30a81a4b877c4834b0e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/349/regulation/7) in operation at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/349/regulation/1)
+
+[^key-b36c8b775dc08d84bc321a7b744c76db]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/349/regulation/8) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)

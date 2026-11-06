@@ -1,0 +1,530 @@
+---
+title: The Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997
+id: nisr/1997/139
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-03-10'
+text_date: '1997-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1997/139
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1997/139/data.pdf
+pending_changes: 55
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997
+
+> **Warning: changes not yet applied to this text (55).** Text as at 1997-04-06. See https://www.legislation.gov.uk/changes/affected/nisr/1997/139
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1997 No. 139
+
+PENSIONS
+
+The Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997
+
+Made
+
+10th March 1997
+
+Coming into operation
+
+6th April 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 3(1)(*b*), (6) and (7), 5(5) and (6), 22, 30(1) and (8), 39(1) and (3), 40(1) and (2), 41(3), 41B, 151, 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-9ef5ab303b2afeaa24d9fe0b4ebb96c4]
+
+(1) These Regulations may be cited as the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
+
+(2) In these Regulations—
+
+- “administrators”, in relation to a personal pension scheme, means—
+  - (a) the trustees; or
+  - (b) the managers (if there are no trustees); and
+  - (c) any person or company authorised to act on behalf of the trustees or managers (if there are no trustees),
+
+  but does not include any person who is resident outside the United Kingdom nor any company which has its registered office outside the United Kingdom;
+- “building society” has the same meaning as in the Building Societies Act 1986[^f00002];
+- “Friendly Society” has the same meaning as in the Friendly Societies Act 1992[^f00003] (including any society which by virtue of section 96(2) of that Act is to be treated as a registered friendly society within the meaning of that Act);
+- “overseas scheme” means an occupational pension scheme which is administered wholly or primarily outside the United Kingdom but does not include one which is contracted-out within the meaning of section 3(3)[^f00004] nor one to which section 49[^f00005] applies;
+- “pensionable age” has the meaning given by the rules in paragraph 1 of Schedule 2 to the Pensions (Northern Ireland) Order 1995[^f00006].
+
+(3) Subject to paragraph (4), the Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+(4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
+
+(5) In these Regulations any reference to a numbered section is a reference to the section of the Pension Schemes (Northern Ireland) Act 1993 bearing that number.
+
+## 2. Forms of schemes which may be appropriate schemes[^key-4cac32bad8622694803e82073a32c98a]
+
+(1) A personal pension scheme can be an appropriate scheme only if it is approved by the Commissioners of Inland Revenue under either—
+
+- (a) Chapter IV of Part XIV of the Income and Corporation Taxes Act 1988[^f00008]; or
+- (b) Chapter I of Part XIV of that Act by reference to section 591(2)(*h*) of that Act,
+
+and in either case it takes one of the forms (but not more than one) specified in paragraph (2).
+
+(2) The forms referred to in paragraph (1) are—
+
+- (a) an arrangement for the issue of policies of insurance or annuity contracts;
+- (b) a unit trust scheme of a kind mentioned in Part I of Schedule 1 which has been authorised under section 78(1) of, or by virtue of paragraph 9 of Schedule 15 to, the Financial Services Act 1986[^f00009];
+- (c) subject to paragraph (3), an arrangement for the investment of contributions in an interest-bearing account which expression includes shares in or deposits with a building society.
+
+(3) For the purposes of paragraph (2)(*c*) the rules of the personal pension scheme shall provide that, at the minimum, there shall be invested in the interest-bearing account any payments which, under section 6(3) or under regulation 3 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00010], are those from which are derived protected rights.
+
+## 3. Persons who and bodies which may establish schemes[^key-335f77481ba8de1dbed75d413c4b6780]
+
+(1) An arrangement such as is described in—
+
+- (a) regulation 2(2)(*a*) which is established by a Friendly Society can be an appropriate scheme only if paragraph (2) applies to that Friendly Society; and
+- (b) regulation 2(2)(*c*) can be an appropriate scheme only if it is established by a person to whom or a body to which paragraph (3) applies.
+
+(2) This paragraph applies to a Friendly Society which is authorised under section 32[^f00011] of the Friendly Societies Act 1992 to carry on long term business under any of the Classes specified in Head A of Schedule 2 to that Act.
+
+(3) This paragraph applies to—
+
+- (a) a building society;
+- (b) a pension vehicle as defined in item 14 of Part I of the Schedule to the Building Societies (Designation of Qualifying Bodies) Order 1988[^f00012] which is associated with a building society as described in section 18(17) of the Building Societies Act 1986;
+- (c) an institution authorised under Part I of the Banking Act 1987[^f00013];
+- (d) subject to paragraph (4), a body corporate which is a subsidiary or holding company of an institution such as is mentioned in sub-paragraph (*c*) or a subsidiary of the holding company of such an institution (“holding company” and “subsidiary” being construed in accordance with section 736 of the Companies Act 1985[^f00014] or Article 4 of the Companies (Northern Ireland) Order 1986[^f00015]).
+
+(4) Paragraph (3)(*d*) applies subject to the conditions that the rules of any appropriate scheme established by such a body require that the resources of the scheme be invested with an institution such as is mentioned in paragraph (3)(*c*), and further provide that the rights arising from such investments, in so far as they are attributable to the contributions made by or on behalf of a member, shall be held by that body on trust for that member.
+
+## 4. Requirements in respect of an application for an appropriate scheme certificate[^key-9a94543103828608c6c1694d0a31db11]
+
+(1) Every application for an appropriate scheme certificate (“the certificate”) shall be made in writing to the Department and shall include—
+
+- (a) the name of the scheme and the address where it is administered;
+- (b) the names and addresses of the administrators of the scheme;
+- (c) the name, address and position (in relation to the scheme) of the person making the application for the certificate;
+- (d) the name and address of the person who or body which has established the scheme (the address in the case of a company being that of its registered office);
+- (e) such evidence as the Department may reasonably require that the scheme satisfies such of the requirements of regulation 3 as apply to it;
+- (f) which of the forms specified in regulation 2(2) the scheme is to take;
+- (g) the name and address of a bank or building society which accepts payments made by automated credit transfer together with the name and account number at that bank or building society into which it is desired that minimum contributions should be paid; and
+- (h) the date from which the desired certificate shall have effect.
+
+(2) Every application shall be accompanied by a copy of—
+
+- (a) the documents constituting the scheme; and
+- (b) the rules of the scheme, if they are not set out in those documents or any of them,
+
+except where the Department in its discretion dispenses wholly or partly with this requirement.
+
+(3) Every person who has made an application shall supply such other documents and information as the Department may reasonably require.
+
+## 5. Issue of appropriate scheme certificates[^key-040f0f08720ed2c8a48506164964f809]
+
+When the Department has determined that a personal pension scheme is, or at any time was, an appropriate scheme, it shall issue an appropriate scheme certificate so stating to the person who applied for that certificate.
+
+## 6. Requirement to give the Department information[^key-0b9a3e6417f9272fda0ff079eb2ac33f]
+
+The administrators of the scheme shall furnish the Department—
+
+- (a) with such reports, accounts and other documents and information relating to the scheme to which the certificate relates, in such manner and at such times as may be reasonably required by the Department;
+- (b) with particulars in writing of—
+  - (i) any change in the identity, names and addresses of the administrators of the scheme;
+  - (ii) any change in the name or address of the person who has established the scheme;
+  - (iii) any change affecting the information given under regulation 4(1)(*e*) and (*f*); and
+  - (iv) any change of circumstances affecting the scheme as the Department may have required them to notify,
+
+  as soon as practical after its occurrence.
+
+## 7. Cancellation, variation and surrender of an appropriate scheme certificate[^key-9aff8e3940eb2d782d77e232d26d144b]
+
+An appropriate scheme certificate may be cancelled, varied or surrendered where there is any change in respect of the information which was provided by virtue of regulations 4 and 6.
+
+## 8. Applications for the variation of, and to surrender, appropriate scheme certificates[^key-01084d14a0b1ef2f5b4728577a88b4a7]
+
+(1) Every application for the variation of, or to surrender, an appropriate scheme certificate—
+
+- (a) shall be made in writing to the Department by the administrators of the scheme;
+- (b) shall be made only after notices of intention to make that application have been given by the administrators in accordance with paragraph (2) except where (in the case of an application for the variation of an appropriate scheme certificate) the Department dispenses with this requirement; and
+- (c) shall include a statement that all notices required by paragraph (2) to be given in relation to that application have been duly given.
+
+(2) Notices of intention to make an application such as is mentioned in paragraph (1) shall be given in writing to—
+
+- (a) any member of the scheme who has protected rights under it; and
+- (b) any earner who, jointly with the trustees or managers of the scheme, has given in relation to the scheme a notice under section 40(1)[^f00016] which has not been cancelled,
+
+by sending it to his last known address.
+
+(3) Notices given under this regulation shall specify—
+
+- (a) the name of the scheme and the address where it is administered;
+- (b) the date from which it is desired that the variation or surrender shall have effect; and
+- (c) where the application is to surrender an appropriate scheme certificate, any arrangements made or proposed for the preservation or transfer of protected rights under the scheme.
+
+(4) Every person who makes an application under this regulation shall supply such other documents and information as the Department may reasonably require.
+
+## 9. Cancellation of an appropriate scheme certificate[^key-8c7193903c4ef86e9c67ee5c47f7ee16]
+
+For the purpose of section 30(8) (no cancellation of an appropriate scheme certificate shall have effect from a date earlier than that on which the cancellation is made except in prescribed circumstances) the prescribed circumstance is where the Department considers that the scheme has failed to satisfy the requirements for continuing to be an appropriate scheme before the date cancellation is made and in such a case the date of effect of the cancellation—
+
+- (a) shall not be a date other than 6th April in any year; and
+- (b) shall not be earlier than 6th April in the tax year in which the Department considers that the scheme first failed to satisfy those requirements.
+
+## 10. Notice under section 40(1)[^key-53cacbf8f0c5910b46c63fe46163dc26]
+
+(1) A notice under section 40(1) (notice of earner’s chosen scheme) shall be given in writing in such form as the Department may in its discretion accept.
+
+(2) Subject to paragraphs (3) and (4), the date specified in a notice under section 40(1) as the date from which the scheme is to be the earner’s chosen scheme shall, subject to paragraph (3), be 6th April in the tax year notice is given or 6th April in the next tax year.
+
+(3) Where notice is given by 17th May in a tax year it may specify 6th April in the preceding tax year.
+
+(4) In a case where a scheme (“the first scheme”) was an earner’s chosen scheme on the date with effect from which the first scheme ceased to be an appropriate scheme, the date specified in a notice under section 40(1) as the date from which another scheme (“the second scheme”) is to be the earner’s chosen scheme may be the date with effect from which the first scheme ceased to be an appropriate scheme (whether or not that date is 6th April), if that date is not earlier than whichever is the earlier of—
+
+- (a) the date 6 months earlier than that on which the Department receives the notice; and
+- (b) 6th April in the tax year in which the Department receives the notice.
+
+## 11. Notice under section 40(2)[^key-d47eb35f5c44867a01cdcbd889839df0]
+
+(1) A notice under section 40(2) (cancellation of a notice given under section 40(1)) shall be given in writing and in such form as the Department may in its discretion accept.
+
+(2) The date specified in a notice under section 40(2) shall, subject to paragraph (3), be 6th April in the tax year in which the Department receives the notice or 6th April in the next tax year.
+
+(3) Where notice under section 40(2) is given by the earner and not by the trustees or managers of the scheme the date shall be at least a year later than the date specified in the notice given under section 40(1).
+
+## 12. Circumstances in which minimum contributions are not to be paid[^key-fbd724a57306937e3b29ee38daf369b9]
+
+(1) Minimum contributions shall not be paid in respect of an earner for the tax year or any part of the tax year in which that earner—
+
+- (a) reaches pensionable age; or
+- (b) dies and in which he would have reached pensionable age.
+
+(2) Where effect has been given to the earner’s protected rights under section 24[^f00017] (ways of giving effect to protected rights), minimum contributions shall not, except as provided by paragraphs (3) to (9), be paid in respect of the period during which the scheme was the earner’s chosen scheme.
+
+(3) Where effect has been given to the earner’s protected rights by the making of a transfer payment to another appropriate scheme which has become the earner’s chosen scheme or a money purchase contracted-out scheme, the minimum contributions shall be paid to the trustees or managers of that scheme.
+
+(4) Where effect has been given to the earner’s protected rights by the making of a transfer payment to a salary related contracted-out scheme or an overseas scheme and the Department becomes aware, as a consequence of evidence in respect of the earner’s age being brought to the Department’s attention, that an additional amount of minimum contributions would have been payable had the Department been aware of that evidence, that additional amount of minimum contributions shall be paid to the trustees or managers of that scheme.
+
+(5) Where effect has been given to the earner’s protected rights by the purchase of an annuity or by the provision by the scheme of a pension, and the amount of the minimum contributions in question is at least 10 times as great as the lower earnings limit for the tax year in which the Department becomes aware that minimum contributions are payable or would be payable, but for paragraph (2), those minimum contributions shall be paid (in the case of an annuity) to the insurance company from which the annuity has been purchased or (in the case of a pension) to the trustees or managers of the scheme.
+
+(6) Where effect has been given to the earner’s protected rights by the purchase of an annuity or by the provision by the scheme of a pension and—
+
+- (a) the circumstances in paragraph (5) do not exist; and
+- (b) minimum contributions are payable for the tax year or part of the tax year in which the earner died,
+
+those minimum contributions shall be paid to the earner’s widow or widower, or if the earner died unmarried, they may at the Department’s discretion be paid to any person.
+
+(7) Where effect has been given to the earner’s protected rights by the purchase of an annuity or by provision by the scheme of a pension and—
+
+- (a) the circumstances in paragraph (5) do not exist; and
+- (b) the Department becomes aware, as a consequence of evidence in respect of the earner’s age being brought to the Department’s attention, that an additional amount of minimum contributions would have been payable had the Department been aware of that evidence,
+
+that additional amount of minimum contributions shall be payable for any tax year before, or part of a tax year before, effect has been given to protected rights to the earner or the earner’s widow or widower, or if the earner died unmarried, that amount may at the Department’s discretion be paid to any person.
+
+(8) Where effect has been given to the earner’s protected rights by the provision of a lump sum, minimum contributions shall be payable to the earner or the earner’s widow or widower, or if the earner died unmarried, they may at the Department’s discretion be paid to any person.
+
+(9) Where effect has been given to the earner’s protected rights by the making of payments under an interim arrangement, minimum contributions shall continue to be payable to the trustees or managers of the earner’s chosen scheme.
+
+## 13. Manner of payment of minimum contributions[^key-cd12f21bf7e987c5b7c5aa24f50c7958]
+
+Minimum contributions shall be paid—
+
+- (a) by automated credit transfer into a bank or building society account which relates to the relevant scheme and which accepts payments made by automated credit transfer; or
+- (b) in such other manner as the Department may in its discretion approve.
+
+## 14. Allocation of minimum contributions[^key-2f6b50bb90f498ec94cc368744165616]
+
+A personal pension scheme can be an appropriate scheme only if the rules of the scheme provide that any minimum contributions falling to be applied so as to provide benefits in respect of a member are to be so applied from the date on which payment is made by the Department in accordance with regulation 13 and that such minimum contributions are to be allocated to that member’s account within 3 months of that date.
+
+## 15. Calculation or estimation of earnings[^key-e3369fe28e72492e413481ac0fdc1203]
+
+(1) In relation to any tax year, the earnings of an earner shall be calculated or estimated, for the purposes of section 41(1)[^f00018], on the basis mentioned in this regulation.
+
+(2) In paragraph (3)—
+
+- “eligible tax week” means any tax week in any part of which the earner in question is at least 16 years of age and in no part of which he is over pensionable age; and
+- “ineligible tax week” means any tax week which is not an eligible tax week.
+
+(3) In relation to any eligible tax week in a tax year the earnings of an earner shall be taken to be the amount calculated or estimated in accordance with paragraph (4) divided by the number of eligible tax weeks in that tax year, and in relation to any ineligible tax week they shall be taken to be nil.
+
+(4) The formula to be applied shall be the formula set out in paragraph (5)(*a*), or, if it produces a smaller value for X, the formula set out in paragraph (5)(*b*), so however, that if the formula set out in paragraph (5)(*a*) produces a negative value for X, or if the value of P is nil, the value of X shall be taken to be nil.
+
+(5) The formulae mentioned in paragraph (4) are—
+
+- (a) X = P + R − S − 52L; and
+- (b) X = 53U − 52L.
+
+(6) In paragraph (7)—
+
+- (a) “primary Class 1 contributions” does not include primary Class 1 contributions which the earner, being a married woman or widow, is liable to make at a reduced rate in accordance with an election which she has made and which is still operative; and
+- (b) the reference to contributions as having been paid includes the case of contributions which are treated as having been paid under regulation 39 of the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00019] but does not include the case of contributions which are treated as not paid under regulation 38(1) and (2)(*a*)[^f00020] of those Regulations.
+
+(7) In this regulation—
+
+- (a) L is the lower earnings limit for the tax year in question;
+- (b) P is the total earnings, in so far as the earnings for each week did not exceed U, paid to or for the benefit of the earner in relation to the tax year in question, in relation to which primary Class 1 contributions have been paid with respect to employments that are not contracted-out;
+- (c) R is the total earnings, in so far as the earnings for each week did not exceed U, paid to or for the benefit of the earner in relation to the tax year in question, in relation to which primary Class 1 contributions have been paid with respect to employments that are contracted-out;
+- (d) S is the total earnings, in so far as the earnings for each week equalled or exceeded L but did not exceed U, paid to or for the benefit of the earner in relation to the tax year in question, in relation to which primary Class 1 contributions have been paid with respect to employments that are contracted-out; and
+- (e) U is the upper earnings limit for the tax year in question.
+
+## 16. Calculation of minimum contributions[^key-a5a3e6d3de0e0cfe6e778fbbbb01b95c]
+
+(1) For the purposes of determining the appropriate age-related percentage for the purposes of section 41(1), the Department may require an earner to send documentary evidence of his date of birth.
+
+(2) For the purposes of section 41B(2)(*b*) (disclosure of information held as to the age of an individual by the Department to trustees or managers of an appropriate scheme and such other persons as may be prescribed) the prescribed person shall be the person who is responsible for administering the scheme.
+
+## 17. Adjustment of amount of minimum contributions[^key-e6359045eb4b5be8784f6a049086e0e4]
+
+Where the amount of minimum contributions payable in respect of an earner in relation to a tax year would otherwise not be a whole number of pence, it shall be adjusted to the nearest whole number of pence, and any amount of half a penny or less shall be disregarded.
+
+## 18. Cancellation of membership of interest-bearing account-funded appropriate schemes[^key-027c28e9d275f2e1053ceb65b0e0b7d6]
+
+(1) A personal pension scheme which comprises an arrangement of the kind described in regulation 2(2)(*c*) can be an appropriate scheme only if it satisfies the requirements of paragraph (2).
+
+(2) Without prejudice to any right of a member of the scheme, under section 156(1) or other rules of the scheme, the rules of the scheme shall include provision—
+
+- (a) that, within 7 days of the day on which a person becomes a member of the scheme, he shall be served, personally or by ordinary post, with a notice in writing containing the information specified in Schedule 2 and a form of counter-notice; and
+- (b) that, if the person signs the form of counter-notice or another document to the same effect and serves it—
+  - (i) by ordinary post or otherwise,
+  - (ii) not later than the fourteenth day after the notice referred to in sub-paragraph (*a*) is served on him,
+  - (iii) on the person nominated, in that notice, to accept service of it,
+
+  his membership of the scheme shall be cancelled and the contributions (if any) paid to the scheme by him or for him shall be returned, as soon as reasonably practicable, to the person who paid them.
+
+(3) Where a counter-notice of the kind mentioned in paragraph (2)(*b*) is properly addressed, pre-paid and served by ordinary post, it shall be deemed to have been duly served on the day on which it was posted.
+
+## 19. Transitional provision in respect of earnings[^key-92b376636ead66e80b87cb77fb2be8be]
+
+For the purposes of paying minimum contributions in respect of an employed earner for any period up to and including the tax year 1996-1997, regulations 16 and 17 of the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988[^f00021] shall continue to have effect as if regulations 15 and 20 of these Regulations had not come into operation.
+
+## 20. Revocations[^key-cad22d85f63ca5f4cff4a5e61b122f67]
+
+The Regulations specified in column (1) of Schedule 3 are revoked to the extent mentioned in column (3) of Schedule 3.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+John O'Neill
+
+Assistant Secretary
+
+10th March 1997.
+
+## SCHEDULE 1 — Kinds of Unit Trust Scheme that may be an Appropriate Scheme
+
+Regulation 2(2)(*b*)
+
+### Part I — Kinds of Unit Trust Scheme
+
+**1.**[^key-f2ca9720ba01b699a7d6902d33cf749f] An authorised securities scheme.
+
+**2.**[^key-7ed15142436f1f5822d235bae74c1a4c] A feeder fund, but only if the scheme which is the object of its investment is an authorised securities scheme, an investment company with variable capital, a money market fund, or a fund of funds of a kind mentioned in this Part.
+
+**3.**[^key-a73e8fcc87e36856bf3d8d6748c290de] A fund of funds, but only if the schemes which are the object of its investment are authorised securities schemes, investment companies with variable capital, or money market funds.
+
+**4.**[^key-fde5ecdcba5da2fb1c3e778d79a77b1a] A money market fund.
+
+### Part II — Definitions[^key-10fe4737c7402b722df6040dc93b76c4]
+
+In this Schedule—
+
+- “authorised securities scheme” means an authorised unit trust scheme the sole object of which is investment in transferable securities and which is not a feeder fund or a fund of funds;
+- “authorised unit trust scheme” has the same meaning as in the Financial Services Act 1986[^f00022];
+- “feeder fund” means an authorised unit trust scheme the sole object of which is investment in units of a single authorised unit trust scheme or shares in a single investment company with variable capital;
+- “fund of funds” means an authorised unit trust scheme the sole object of which is investment in units of other authorised unit trust schemes or shares in investment companies with a variable capital;
+- “investment company with variable capital” means an investment company with variable capital within the meaning of the Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996[^f00023];
+- “money market fund” means an authorised unit trust scheme the sole object of which is investment in transferable securities, deposits and instruments creating or evidencing indebtedness which are not transferable securities; and
+- “transferable security” means any investment falling within paragraphs 1 to 6 of Schedule 1 to the Financial Services Act 1986 other than an investment title to which either cannot be transferred or can be transferred only with the consent of a third party.
+
+## SCHEDULE 2 — Information to be included in Notice
+
+Regulation 18(2)(*a*)
+
+**1.**[^key-59152d57929ff8f27d6e58eb05a7fce1] The right of the member to cancel his membership of the scheme.
+
+**2.**[^key-a89722ad47b3642aa9106632a84d32e4] The provisions of section 156(1), the scheme rules and of these Regulations which govern the exercise of the right referred to in paragraph 1.
+
+**3.**[^key-039a91b767e2c762ea7a6f957afc1936] The name and address of the person on whom the member’s counter-notice, mentioned in regulation 18, should be served.
+
+**4.**[^key-a5eec1c2998ba0e57445868929a36225] The type of account, or accounts, in which contributions to the scheme are invested.
+
+**5.**[^key-f96e9d6d0fd968d98228aee8182f4f3d] The rate of interest, at the time when the notice is served, which is accruing to contributions of members of the scheme which are then invested.
+
+**6.**[^key-b3167ef8220c3d6b274475fe09a8ca4a] The part—
+
+- (a) of any payment or payments that are made to the scheme by or on behalf of a member;
+- (b) of any income arising from the investment of payments such as are mentioned in sub-paragraph (*a*); or
+- (c) of the value of rights under the scheme,
+
+that may be used (otherwise than as an unidentifiable element in the calculation of interest on invested contributions)—
+
+- (i) to defray the administrative expenses of the scheme;
+- (ii) to pay commission; or
+- (iii) in any other way which does not result in the provision of benefits for or in respect of members.
+
+**7.**[^key-fe42805dab0bc7e99c6169d583c7f774] How tax relief on members' contributions is effected.
+
+**8.**[^key-6af80684866d9162afd4619ef4ccdce3] How the cessation of the making of contributions to the scheme by a member of it, not less than 21 days after he becomes a member of it, but before the end of the period for which he could continue making such contributions, would affect the member’s rights under the scheme.
+
+**9.**[^key-aece076b4046913a17dd4aae39aebd33] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+
+## SCHEDULE 3 — Regulations revoked[^key-2e42fbbe515443b4a714dc06c2f0a09d]
+
+Regulation 20
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Citation</em></th><th><em>Reference</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/34">S.R. 1988 No. 34</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/176">S.R. 1988 No. 176</a></td><td>Regulation 3</td></tr>
+<tr><td>The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1990</td><td><a href="https://www.legislation.gov.uk/nisr/1990/203">S.R. 1990 No. 203</a></td><td>Regulation 11</td></tr>
+<tr><td>The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/300">S.R. 1994 No. 300</a></td><td>In Schedule 2, paragraph 19</td></tr>
+<tr><td>The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/7">S.R. 1995 No. 7</a></td><td>Regulation 7</td></tr>
+<tr><td>The Personal Pension Schemes (Appropriate Schemes) (Amendment) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/266">S.R. 1995 No. 266</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Personal and Occupational Pensions Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/95">S.R. 1996 No. 95</a></td><td>Regulation 6</td></tr>
+<tr><td>The Personal Pension Schemes (Appropriate Schemes and Disclosure of Information) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/508">S.R. 1996 No. 508</a></td><td>Regulation 3</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations.)
+
+These Regulations consolidate the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1988 with amendments. The Regulations also make provisions which are consequential upon Part IV of the Pensions (Northern Ireland) Order 1995 (“the Order”). In addition to minor and drafting amendments the Regulations make the following changes of substance—
+
+- they provide for the responsibilities of the Occupational Pensions Board (which is being dissolved) in relation to the issue, variation, cancellation and surrender of appropriate scheme certificates for personal pension schemes to be carried out by the Department of Health and Social Services (“the Department”); and
+- they make provision for the cancellation, variation or surrender of appropriate scheme certificates in circumstances where there is a change in the information given to the Department;
+- they amend the method of calculating or estimating earnings;
+- they allow investment companies with variable capital to be investment vehicles for unit trust schemes which operate as appropriate personal pension schemes.
+- The Regulations make provision in relation to—
+- the form of schemes which may be appropriate schemes (regulation 2 and Schedule 1);
+- the persons who and bodies which may establish appropriate schemes (regulation 3);
+- the requirements in respect of an application and issue of an appropriate scheme certificate (regulations 4 and 5);
+- the requirement to give the Department information in respect of the application for cancellation, variation or the surrender of an appropriate scheme certificate (regulations 6 to 9);
+- the requirements in respect of notices under section 40 of the Pension Schemes (Northern Ireland) Act 1993 (regulations 10 and 11);
+- the circumstances in which minimum contributions are not to be paid, manner of payment and allocation of minimum contributions (regulations 12 to 14);
+- the calculation and estimation of earnings (regulation 15);
+- the calculation or adjustment of minimum contributions (regulations 16 and 17);
+- the cancellation of membership of interest-bearing account-funded appropriate schemes (regulation 18 and Schedule 2).
+
+Regulations 19 and 20 and Schedule 3 make transitional provision and revocations.
+
+Some of the enabling provisions under which these Regulations are made were amended by Article 136 of, and paragraphs 15(*a*), 30(*a*) and 55 of Schedule 3 to, the Order. The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S.R. 1996 No. 91 (C. 4)](https://www.legislation.gov.uk/nisr/1996/91)) provides for the coming into operation of Article 136 of, and paragraphs 15(*a*), 30(*a*) and 55 of Schedule 3 to, the Order on 6th April 1996 for the purpose only of authorising the making of regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 3(1) was amended by paragraph 15(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)); section 30(1) was amended by paragraph 30(*a*) of Schedule 3 to that Order; section 41B was inserted by Article 136 of that Order and section 151 was amended by paragraph 55 of Schedule 3 to that Order
+
+[^key-9ef5ab303b2afeaa24d9fe0b4ebb96c4]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00002]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53)
+
+[^f00003]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40)
+
+[^f00004]: Footnote: Section 3 is amended by Article 133(1) of, and paragraph 15 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
+
+[^f00005]: Footnote: Section 49 applies to occupational pension schemes by virtue of section 48(1) of the Pension Schemes (Northern Ireland) Act 1993. Section 49 is amended by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^f00006]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-4cac32bad8622694803e82073a32c98a]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00009]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
+
+[^f00010]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56)
+
+[^key-335f77481ba8de1dbed75d413c4b6780]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00011]: Footnote: Subsection (4) was substituted by regulation 4 of [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984)
+
+[^f00012]: Footnote: [S.I. 1988/1196](https://www.legislation.gov.uk/uksi/1988/1196)
+
+[^f00013]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
+
+[^f00014]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); section 736 was substituted by section 144(1) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40)
+
+[^f00015]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Article 4 was substituted by Article 62(1) of the Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504))
+
+[^key-9a94543103828608c6c1694d0a31db11]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-040f0f08720ed2c8a48506164964f809]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-0b9a3e6417f9272fda0ff079eb2ac33f]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-9aff8e3940eb2d782d77e232d26d144b]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-01084d14a0b1ef2f5b4728577a88b4a7]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00016]: Footnote: Section 40 is amended by Article 160 of the Pensions (Northern Ireland) Order 1995
+
+[^key-8c7193903c4ef86e9c67ee5c47f7ee16]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-53cacbf8f0c5910b46c63fe46163dc26]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-d47eb35f5c44867a01cdcbd889839df0]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-fbd724a57306937e3b29ee38daf369b9]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00017]: Footnote: Section 24 is amended by Articles 139 and 143(2) of, and paragraph 27 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
+
+[^key-cd12f21bf7e987c5b7c5aa24f50c7958]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-2f6b50bb90f498ec94cc368744165616]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-e3369fe28e72492e413481ac0fdc1203]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00018]: Footnote: Section 41 is amended by Article 135(1) to (4) of, and paragraph 35 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
+
+[^f00019]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); regulation 39 was amended by regulation 11 of [S.R. 1987 No. 143](https://www.legislation.gov.uk/nisr/1987/143), regulation 7 of [S.R. 1987 No. 468](https://www.legislation.gov.uk/nisr/1987/468), regulation 13(5) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 3(5) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00020]: Footnote: Regulation 38 was amended by regulation 13 of [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), regulation 10 of [S.R. 1987 No. 143](https://www.legislation.gov.uk/nisr/1987/143), regulation 4 of [S.R. 1992 No. 138](https://www.legislation.gov.uk/nisr/1992/138), regulation 3 of [S.R. 1993 No. 368](https://www.legislation.gov.uk/nisr/1993/368), regulation 3 of [S.R. 1994 No. 219](https://www.legislation.gov.uk/nisr/1994/219), regulation 13(4) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 3(4) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^key-a5a3e6d3de0e0cfe6e778fbbbb01b95c]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-e6359045eb4b5be8784f6a049086e0e4]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-027c28e9d275f2e1053ceb65b0e0b7d6]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-92b376636ead66e80b87cb77fb2be8be]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00021]: Footnote: [S.R. 1988 No. 34](https://www.legislation.gov.uk/nisr/1988/34); regulations 16 and 17 were amended by paragraph 19(11) and (12) respectively of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^key-cad22d85f63ca5f4cff4a5e61b122f67]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-f2ca9720ba01b699a7d6902d33cf749f]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-7ed15142436f1f5822d235bae74c1a4c]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-a73e8fcc87e36856bf3d8d6748c290de]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-fde5ecdcba5da2fb1c3e778d79a77b1a]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-10fe4737c7402b722df6040dc93b76c4]: Commencement: Sch. 1 Pt. II in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^f00022]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
+
+[^f00023]: Footnote: [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827)
+
+[^key-59152d57929ff8f27d6e58eb05a7fce1]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-a89722ad47b3642aa9106632a84d32e4]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-039a91b767e2c762ea7a6f957afc1936]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-a5eec1c2998ba0e57445868929a36225]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-f96e9d6d0fd968d98228aee8182f4f3d]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-b3167ef8220c3d6b274475fe09a8ca4a]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-fe42805dab0bc7e99c6169d583c7f774]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-6af80684866d9162afd4619ef4ccdce3]: Commencement: Sch. 2 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-aece076b4046913a17dd4aae39aebd33]: Commencement: Sch. 2 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)
+
+[^key-2e42fbbe515443b4a714dc06c2f0a09d]: Commencement: Sch. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/139/regulation/1/1)

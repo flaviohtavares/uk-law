@@ -1,0 +1,193 @@
+---
+title: The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2015
+id: nisr/2015/34
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-02-03'
+text_date: '2024-09-16'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/34
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/34/pdfs/nisr_20150034_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/34/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2015
+
+> Text as at 2024-09-16.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 34
+
+Social Security
+
+Housing; Rates; Social Security
+
+The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2015
+
+Made
+
+3rd February 2015
+
+Coming into operation
+
+23rd February 2015
+
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 35(3), 35B(11), 132(3) and (4), 132A, 134(2) and (4) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 158C and 189(4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Articles 14(1) and (4) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], sections 15(3) and (6) and 19(1) to (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00005] and section 25(2)(a) of the Welfare Reform Act (Northern Ireland) 2007[^f00006].
+
+Regulation 6 is made with the consent of the Department of Finance and Personnel[^f00007].
+
+The Social Security Advisory Committee has agreed that proposals in respect of regulation 6 should not be referred to it[^f00008].
+
+## 1. Citation, commencement and interpretation[^key-34bdd093253fd224e34aaeac0c720b88]
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 and shall come into operation on 23rd February 2015.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Service User amendments[^key-4258a34208f4dd05857d0af7131a2b7e]
+
+(1) This regulation applies to the following provisions—
+
+- (a) regulation 2(1B) (interpretation) of the Income Support (General) Regulations (Northern Ireland) 1987[^f00010];
+- (b) regulation 1(2G) (citation, commencement and interpretation) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011];
+- (c) regulation 1(3A) (citation, commencement and interpretation) of the State Pension Credit Regulations (Northern Ireland) 2003[^f00012];
+- (d) regulation 2(4A) (interpretation) of the Housing Benefit Regulations (Northern Ireland) 2006[^f00013];
+- (e) regulation 2(5A) (interpretation) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00014]; and
+- (f) regulation 2(8) (interpretation) of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00015].
+
+(2) Each of the provisions specified in paragraph (1) (which define when a claimant is participating as a service user) are amended as follows—
+
+- (a) after sub-paragraph (a) insert—
+
+  > - (ab) a person who is being consulted by or on behalf of—
+  >   - (i) the Department in relation to any of the Department’s functions in the field of social security or child support or under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00016] (general functions of the Department as to employment and training for employment), or
+  >   - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such functions,
+  >
+  >   in their capacity as a person affected or potentially affected by the exercise of those functions or the carer of such a person; or
+
+  ; and
+- (b) in sub-paragraph (b) for “sub-paragraph (a)” substitute “sub-paragraphs (a) or (ab)”.
+
+## 3. Amendment of the Social Security (Maternity Allowance) Regulations[^key-4a6a4d0b76fa789a117076f5ddf3af67]
+
+In regulation 2 of the Social Security (Maternity Allowance) Regulations (Northern Ireland) 1987[^f00017] (disqualification for the receipt of a maternity allowance) omit paragraphs (5) and (6).
+
+## 4. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-bc201f4f3aa9a28fcc8e7de82fab87df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^key-bd25b709def14a903eac5f0d6762137a]
+
+In regulation 9 of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00021] (application for allocation of national insurance number)—
+
+- (a) in paragraph (1) for “paragraph (2)” substitute “paragraphs (2) and (2A)”; and
+- (b) after paragraph (2) insert—
+
+  > (2A) The provisions of paragraph (1) shall not apply to a person in respect of whom the Department or the Commissioners of Her Majesty’s Revenue and Customs are notified that a biometric immigration document is to be issued pursuant to regulation 13 of the Immigration (Biometric Registration) Regulations 2008[^f00022].
+
+  .
+
+## 6. Amendment of the Housing Benefit Regulations[^key-efef94e237ace233449b9c477f1ba244]
+
+At the end of regulation 56(4) of the Housing Benefit Regulations (Northern Ireland) 2006[^f00023] (calculation of grant income) add “or paid under Article 44(2) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00024]”.
+
+Sealed with the Official Seal of the Department for Social Development on 3rd February 2015
+
+(L.S.)
+
+Anne McCleary
+
+A senior officer of the Department for Social Development
+
+The Department of Finance and Personnel consents to regulation 6.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 3rd February 2015
+
+(L.S.)
+
+Emer Morelli
+
+A senior officer of the Department of Finance and Personnel
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend various sets of social security regulations.
+
+Regulation 2 amends the Income Support (General) Regulations (Northern Ireland) 1987, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996, the State Pension Credit Regulations (Northern Ireland) 2003, the Housing Benefit Regulations (Northern Ireland) 2006 (“the Housing Benefit Regulations”), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 and the Employment and Support Allowance Regulations (Northern Ireland) 2008. These amendments amend the definition of ‘service user’ in those Regulations. Who is a “service user” is relevant to the calculation of income in those benefits, so that, for example, expenses paid to individuals consulted by or on behalf of a body with a statutory duty to perform functions in the field of social security (either in their capacity as a person affected or potentially affected by the exercise of those functions or as a carer of a person so affected or potentially affected) may be disregarded when calculating income and therefore, the notional income rule in those benefits will not apply. Expenses paid to a carer of such an individual (i.e. a carer of a service user) are disregarded by sub-paragraph (b) of the paragraphs being amended.
+
+Regulation 3 revokes regulation 2(5) and (6) of the Social Security (Maternity Allowance) Regulations (Northern Ireland) 1987. These provide respectively that a woman shall be disqualified from receiving maternity allowance if, during the maternity allowance period, she fails without good cause to take due care of her health or to answer reasonable enquiries by the Department or its officers, directed at whether she is doing so and how the period of such disqualification is determined.
+
+Regulation 4 amends the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000. It omits an unnecessary definition in regulation 1(2). It also corrects an incorrect cross-reference in regulation 2(4). Finally, it ensures that regulation 3(1)(a) reflects the existing policy intention that there is no entitlement to a winter fuel payment in respect of residents of a residential care home who are in receipt of certain income-related benefits during the qualifying week.
+
+Regulation 5 amends the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 so as to provide that where the Department or Her Majesty’s Revenue and Customs (HMRC) are notified that a person is to be issued with a biometric residence permit by the Home Office, that person is exempted from the requirement to apply to the Department or HMRC for a National Insurance number.
+
+Regulation 6 amends regulation 56(4) of the Housing Benefit Regulations to provide that parents’ learning allowance paid under Article 44(2) of the Health and Personal Social Services (Northern Ireland) Order 1972 is disregarded when calculating entitlement to Housing Benefit. This change aligns the position in these Regulations with that applying in relation to the other income-related benefits.
+
+In so far as these Regulations are required, for the purposes of regulation 6, to be referred to the Social Security Advisory Committee under section 149(2) of the Social Security Administration (Northern Ireland) Act 1992, after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(b) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, that Act, are not subject to the requirement of section 149(2) for prior reference to the Social Security Advisory Committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 35(3) was amended by regulation 2(3) of, and section 35B was inserted respectively by regulation 2(5) of [S.R. 2014 No. 102](https://www.legislation.gov.uk/nisr/2014/102), section 132A was inserted by paragraph 3 of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)) and section 171(1) was amended by paragraph 5 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
+
+[^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 158C was inserted by paragraph 6 of Schedule 1 to the Social Security Administration (Fraud) (Northern Ireland) Order 1997 ([S.I 1997/1182 (N.I 11)](https://www.legislation.gov.uk/nisi/1997/1182)) and amended by paragraph 34 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
+
+[^f00003]: Footnote: [S.I. 1995/2705](https://www.legislation.gov.uk/uksi/1995/2705); Article 36(2) was amended by paragraph 55 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
+
+[^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00005]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
+
+[^f00006]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
+
+[^f00007]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *seealso* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00008]: Footnote: S*ee* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-34bdd093253fd224e34aaeac0c720b88]: Commencement: Reg. 1 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+
+[^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-4258a34208f4dd05857d0af7131a2b7e]: Commencement: Reg. 2 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+
+[^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 2(1B) was inserted by regulation 2(2)(b) of [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105)
+
+[^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 1(2G) was inserted by regulation 4(2)(b) of [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105)
+
+[^f00012]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); regulation 1(3A) was inserted by regulation 5(2)(b) of [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105)
+
+[^f00013]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); regulation 2(4A) was inserted by regulation 6(2)(b) of [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105)
+
+[^f00014]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); regulation 2(4A) was inserted by regulation 7(2)(b) of [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105)
+
+[^f00015]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); regulation 2(8) was added by regulation 11(2)(b) of [S.R. 2013 No. 246](https://www.legislation.gov.uk/nisr/2013/246)
+
+[^f00016]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))
+
+[^key-4a6a4d0b76fa789a117076f5ddf3af67]: Commencement: Reg. 3 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+
+[^f00017]: Footnote: [S.R. 1987 No. 170](https://www.legislation.gov.uk/nisr/1987/170); regulation 2 was substituted by regulation 2(3) of [S.R. 2014 No. 140](https://www.legislation.gov.uk/nisr/2014/140)
+
+[^key-bc201f4f3aa9a28fcc8e7de82fab87df]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/34/regulation/4) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+
+[^key-bd25b709def14a903eac5f0d6762137a]: Commencement: Reg. 5 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+
+[^f00021]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102)
+
+[^f00022]: Footnote: [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048) as amended by [S.I. 2009/819](https://www.legislation.gov.uk/uksi/2009/819) and [S.I. 2012/594](https://www.legislation.gov.uk/uksi/2012/594)
+
+[^key-efef94e237ace233449b9c477f1ba244]: Commencement: Reg. 6 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+
+[^f00023]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
+
+[^f00024]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)

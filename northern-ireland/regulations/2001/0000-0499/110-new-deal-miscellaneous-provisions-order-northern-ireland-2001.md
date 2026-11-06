@@ -1,0 +1,177 @@
+---
+title: New Deal (Miscellaneous Provisions) Order (Northern Ireland) 2001
+id: nisr/2001/110
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-03-14'
+text_date: '2006-11-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/110
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/110/pdfs/nisr_20010110_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/110/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# New Deal (Miscellaneous Provisions) Order (Northern Ireland) 2001
+
+> Text as at 2006-11-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 110
+
+EMPLOYMENT AND TRAINING
+
+SOCIAL SECURITY
+
+New Deal (Miscellaneous Provisions) Order (Northern Ireland) 2001
+
+Made
+
+14th March 2001
+
+Coming into operation
+
+9th April 2001
+
+Whereas arrangements known as “the Preparation for Employment Programme” and “the Preparation for Employment Programme for 50 plus” have been made by the Department of Higher and Further Education, Training and Employment[^f00001] under section 1 of the Employment and Training Act (Northern Ireland) 1950 (“the 1950 Act”)[^f00002].
+
+And whereas the Preparation for Employment Programme and the Preparation for Employment Programme for 50 plus include a number of programmes of employment or employment-related training:
+
+And whereas it appears to the Department of Higher and Further Education, Training and Employment that these arrangements make provision for persons using facilities provided in pursuance of them to receive payments in connection with their use of those facilities:
+
+Now, therefore, the Department of Higher and Further Education, Training and Employment, in exercise of the powers conferred on it by Article 4 of the Employment and Training (Amendment) (Northern Ireland) Order 1988[^f00003] and all other powers enabling it in that behalf, hereby makes the following Order:—
+
+## 1. Citation, commencement and interpretation[^key-c5d17f790d2bb4fc74ac28a43c0a1902]
+
+(1) This Order may be cited as the New Deal (Miscellaneous Provisions) Order (Northern Ireland) 2001 and shall come into operation on 9th April 2001.
+
+(2) In this Order—
+
+- “facilities” means facilities provided for the participant in pursuance of the Preparation for Employment Programme or the Preparation for Employment Programme for 50 plus.
+- “the Preparation for Employment Programme” means the arrangements known by that name and made under section 1 of the 1950 Act for which only persons who are aged 25 years or over and less than 50 years on the day of entry are eligible and which are designed to help participants to obtain work or to improve their prospects of obtaining work;
+- “the Preparation for Employment Programme for 50 plus” means the arrangements known by that name and made under section 1 of the 1950 Act for which only persons who are aged 50 years or over on the day of entry are eligible and which are designed to help participants to obtain work or to improve their prospects of obtaining work;
+- “training allowance” means a payment made directly by the Department of Higher and Further Education, Training and Employment to a participant in the Preparation for Employment Programme or the Preparation for Employment Programme for 50 plus in connection with his participation.
+
+## 2. Treatment of persons and payments for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and specified subordinate legislation[^key-3412d54e12a018b18fe37f580255f4d5]
+
+(1) The provisions of this Article apply for the purposes of—
+
+- (a) Part I of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00004],
+- (b) the Jobseekers (Northern Ireland) Order 1995[^f00005] and
+- (c) the subordinate legislation specified in the Schedule to this Order.
+
+(2) If, for any period or periods commencing with or falling after the date on which this Order comes into operation, during which a person is participating in the Preparation for Employment Programme or the Preparation for Employment Programme for 50 plus, that person receives, or is eligible to receive, a training allowance, he is to be treated for that period or those periods and in respect of his participation as not being employed but as participating in arrangements for training under section 1 of the 1950 Act; and accordingly, subject to paragraph (3), any payment made to such a person during that period or those periods in connection with his use of facilities shall be treated in the same manner as a payment of training allowance made in respect of such training.
+
+(3) Paragraph (2) shall not apply in respect of any trading payment made to a person receiving assistance in pursuing self-employed earner’s employment, whilst participating in the Preparation for Employment Programme or the Preparation for Employment Programme for 50 plus.
+
+Sealed with the Official Seal of the Department of Higher and Further Education, Training and Employment on 14th March 2001.
+
+R. Gamble
+
+A Senior Officer of the
+
+Department of Higher and Further Education, Training and Employment
+
+## SCHEDULE — List of Subordinate Legislation[^key-55c7f9e5083374da77be12a59662e8ed]
+
+Article 2
+
+[^key-55c7f9e5083374da77be12a59662e8ed]
+
+- The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00006].
+- The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00007].
+- The Income Support (General) Regulations (Northern Ireland) 1987[^f00008].
+- The Social Security (Claims and Payments) (Northern Ireland) Regulations 1987[^f00009].
+- The Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00010].
+- The Housing Benefit Regulations (Northern Ireland) 2006[^key-7335ebd3b687bc9adcd356d57dfea44d]
+- The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+- The Family Credit (General) Regulations (Northern Ireland) 1987[^f00012].
+- The Fire Services (Factories, Offices and Shop Premises) Order (Northern Ireland) 1993[^f00013].
+- The Income Support (General) (Amendment No. 3) Regulations (Northern Ireland) 1991[^f00014].
+- The Income Support (General) (Amendment No. 5) Regulations (Northern Ireland) 1991[^f00015].
+- The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00016].
+- The Child Support (Maintenance Assessment Procedure) (Northern Ireland) Regulations 1992[^f00017].
+- The Child Support (Maintenance Assessment and Special Cases) Regulations (Northern Ireland) 1992[^f00018].
+- The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00019].
+- The Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996[^f00020].
+- The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00021].
+- The Housing Renovation etc. Grants (Reduction of Grant) Regulations (Northern Ireland) 1997[^f00022].
+- The Student Awards Regulations (Northern Ireland) 1998[^f00023].
+- The Education (Student Support) Regulations (Northern Ireland) 2000[^f00024].
+- The Education (Student Loans) Regulations (Northern Ireland) 1998[^f00025].
+- The Student Awards Regulations (Northern Ireland) 2000[^f00026].
+- Child Support (Maintenance Calculation Procedure) Regulations (Northern Ireland 2001[^f00027].
+
+(This note is not part of the Order.)
+
+This Order provides that, for the purposes of Part I of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and the Jobseekers (Northern Ireland) Order 1995 and of the subordinate legislation specified in the Schedule to the Order, a person using facilities provided in pursuance of the employment programme known as “the Preparation for Employment Programme” or “the Preparation for Employment Programme for 50 plus” and receiving or entitled to receive from the Department of Higher and Further Education, Training and Employment, receipt of a training allowance in connection with the use of those facilities shall be treated not as being employed but as participating in arrangements for training under section 1 of the Employment and Training Act (Northern Ireland) 1950. Any payment made to such a person in connection with his use of those facilities, other than a trading payment made to a person receiving assistance in pursuing self-employed earner’s employment, shall be treated as a payment of training allowance made in respect of such training.
+
+## Annotations
+
+[^f00001]: Footnote: The Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)) transferred functions under the Employment and Training Act (Northern Ireland) 1950 to the Department of Higher and Further Education, Training and Employment
+
+[^f00002]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); Section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))
+
+[^f00003]: Footnote: [S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)
+
+[^key-c5d17f790d2bb4fc74ac28a43c0a1902]: Commencement: Art. 1 in operation at 9.4.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/110/article/1/1)
+
+[^key-3412d54e12a018b18fe37f580255f4d5]: Commencement: Art. 2 in operation at 9.4.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/110/article/1/1)
+
+[^f00004]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00005]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
+
+[^key-55c7f9e5083374da77be12a59662e8ed]: Commencement: Sch. in operation at 9.4.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/110/article/1/1)
+
+[^f00006]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113) as amended by [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1988 No. 298](https://www.legislation.gov.uk/nisr/1988/298), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
+
+[^f00007]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242) as amended by [S.R. 1982 No. 272](https://www.legislation.gov.uk/nisr/1982/272) and [S.R. 1988 No. 312](https://www.legislation.gov.uk/nisr/1988/312)
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459) as amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R.1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R.1998 No. 176](https://www.legislation.gov.uk/nisr/1998/176) and [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
+
+[^f00009]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465) as amended by [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
+
+[^f00010]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460) as amended by [S.R. 1998 No. 371](https://www.legislation.gov.uk/nisr/1998/371)
+
+[^key-7335ebd3b687bc9adcd356d57dfea44d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2001/110/schedule) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/6/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^f00012]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463) as amended by [S.R. 1988 No. 131](https://www.legislation.gov.uk/nisr/1988/131), [S.R. 1988 No, 423](https://www.legislation.gov.uk/nisr/1988/423), [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^f00013]: Footnote: [S.R. 1993 No. 319](https://www.legislation.gov.uk/nisr/1993/319)
+
+[^f00014]: Footnote: [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
+
+[^f00015]: Footnote: [S.R. 1991 No. 474](https://www.legislation.gov.uk/nisr/1991/474)
+
+[^f00016]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78) as amended by [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R.1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^f00017]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340) as amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164) and [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00018]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341) as amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164) and [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
+
+[^f00019]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198) as amended by [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
+
+[^f00020]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518)
+
+[^f00021]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519)
+
+[^f00022]: Footnote: [S.R. 1997 No. 456](https://www.legislation.gov.uk/nisr/1997/456) as amended by [S.R. 1998 No. 396](https://www.legislation.gov.uk/nisr/1998/396), [S.R. 1999 No. 387](https://www.legislation.gov.uk/nisr/1999/387), [S.R. 2000 No. 62](https://www.legislation.gov.uk/nisr/2000/62) and [S.R. 2000 No. 325](https://www.legislation.gov.uk/nisr/2000/325)
+
+[^f00023]: Footnote: [S.R. 1998 No. 273](https://www.legislation.gov.uk/nisr/1998/273) as amended by [S.R. 1998 No. 300](https://www.legislation.gov.uk/nisr/1998/300)
+
+[^f00024]: Footnote: [S.R. 2000 No. 213](https://www.legislation.gov.uk/nisr/2000/213) as amended by [S.R. 2000 No. 254](https://www.legislation.gov.uk/nisr/2000/254) and [S.R. 2000 No. 296](https://www.legislation.gov.uk/nisr/2000/296)
+
+[^f00025]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303) and [S.R. 2000 No. 244](https://www.legislation.gov.uk/nisr/2000/244)
+
+[^f00026]: Footnote: [S.R. 2000 No. 311](https://www.legislation.gov.uk/nisr/2000/311)
+
+[^f00027]: Footnote: [S.R. 2001 No. 17](https://www.legislation.gov.uk/nisr/2001/17)

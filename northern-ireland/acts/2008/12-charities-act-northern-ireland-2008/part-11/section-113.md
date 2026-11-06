@@ -1,0 +1,41 @@
+---
+title: Charities Act (Northern Ireland) 2008, section 113
+act: Charities Act (Northern Ireland) 2008
+section: '113'
+status: not-yet-in-force
+text_date: '2022-03-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2008/12/section/113
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act (Northern Ireland) 2008, section 113
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 113. Conversion: consideration of application
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The Commission shall consult those to whom it has given notice of an application for conversion under section 112(4) about whether the application should be granted.
+
+(2) The Commission shall refuse an application for conversion if—
+
+- (a) it is not satisfied that the CIO would be a charity at the time it would be registered,
+- (b) the CIO's proposed constitution does not comply with one or more of the requirements of section 106 and any regulations made under that section, or
+- (c) in the case of an application for conversion made by a company limited by guarantee, the CIO's proposed constitution does not comply with the requirements of subsections (9) and (10) of section 112.
+
+(3) The Commission may refuse an application for conversion if—
+
+- (a) the proposed name of the CIO is the same as, or is in the opinion of the Commission too like, the name of any other charity (whether registered or not),
+- (b) the Commission is of the opinion referred to in any of paragraphs (b) to (e) of section 20(2) (power of Commission to require change in charity's name) in relation to the proposed name of the CIO (reading paragraph (b) as referring to the proposed purposes of the CIO and to the activities which it is proposed it should carry on), or
+- (c) having considered any representations received from those whom it has consulted under subsection (1), the Commission considers (having regard to any regulations made under subsection (4)) that it would not be appropriate to grant the application.
+
+(4) The Department may make provision in regulations about circumstances in which it would not be appropriate to grant an application for conversion.
+
+(5) If the Commission refuses an application for conversion, it shall so notify the appropriate registrar (see section 112(12)).

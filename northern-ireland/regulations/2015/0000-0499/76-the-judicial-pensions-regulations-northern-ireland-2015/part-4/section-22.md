@@ -1,0 +1,33 @@
+---
+title: The Judicial Pensions Regulations (Northern Ireland) 2015, section 22
+act: The Judicial Pensions Regulations (Northern Ireland) 2015
+section: '22'
+status: revised
+text_date: '2024-05-24'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/76/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Judicial Pensions Regulations (Northern Ireland) 2015, section 22
+
+> Text as at 2024-05-24.
+>
+> Extent: Northern Ireland.
+
+## 22. Opting out after one month
+
+*Extent: N.I.*
+
+(1) This regulation applies if a person (P) opts out of this scheme in relation to a continuous period of service in a qualifying judicial office not less than one month after P's first day of a continuous period of service in that office.
+
+(2) If P opts out of this scheme by opt-out notice, P ceases to be in pensionable service under this scheme in relation to that office—
+
+- (a) on the first day of the first pay period beginning on or after the date on which the option is exercised; or
+- (b) if the scheme manager considers that day inappropriate, on the first day of any later pay period the scheme manager considers appropriate.
+
+(3) If P opens a partnership pension account, P ceases to be in pensionable service under this scheme in relation to that office on the first date that is 31st March or 30th September—
+
+- (a) after the period of one month beginning with the date on which that account is opened; or
+- (b) after any shorter period the scheme manager considers appropriate.

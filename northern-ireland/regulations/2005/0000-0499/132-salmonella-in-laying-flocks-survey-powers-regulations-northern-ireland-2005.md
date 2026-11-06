@@ -1,0 +1,149 @@
+---
+title: Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2005
+id: nisr/2005/132
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2005-03-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2005/132
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/132/pdfs/nisr_20050132_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/132/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+**This S.R. has been made in consequence of a defect in [S.R. 2004 No. 525](https://www.legislation.gov.uk/nisr/2004/525) and is being issued free of charge to all known recipients of that S.R.**
+
+2005 No. 132
+
+EUROPEAN COMMUNITIES
+
+ANIMALS
+
+Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2005
+
+Made
+
+16th March 2005
+
+Coming into operation
+
+18th April 2005
+
+The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act[^f00002] in relation to the common agricultural policy of the European Community and also being so designated[^f00003] in relation to measures in the veterinary and phytosanitary fields for the protection of public health, in exercise of the powers conferred on it by the said section 2(2), hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2005 and shall come into operation on 18th April 2005.
+
+## 2. Interpretation
+
+(1) In these Regulations –
+
+- “the Commission Decision” means Commission Decision [2004/665/EC](https://www.legislation.gov.uk/european/decision/2004/0665) dated 22nd September 2004 concerning a baseline study on the prevalence of Salmonella in laying flocks of *Gallus gallus*;
+- “the Department” means the Department of Agriculture and Rural Development;
+- “faecal and environmental material” means faeces, moist litter, dust and dusty material and any other material which the Technical Specifications require to be sampled;
+- “inspector” means a person appointed to be an inspector for the purpose of these Regulations by the Department;
+- “premises” includes land with or without buildings but does not include any place used only as a dwelling; and
+- “the Technical Specifications” mean those technical specifications referred to at Article 5 of the Commission Decision as having been presented to the European Commission’s Standing Committee on the Food Chain and Animal Health on 15th July 2004 and which are entitled “Baseline Study on the Prevalence of Salmonella in laying flocks of *Gallus gallus* in the EU – Technical Specifications”.
+
+(2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 3. Selection of premises
+
+(1) The Department shall be responsible for the selection of premises, in accordance with the Technical Specifications, for sampling.
+
+(2) An inspector may for the purposes of selecting premises for sampling in accordance with the Commission Decision and the Technical Specifications –
+
+- (a) make inquiries of any person and require him to provide any information and documentation, including records, that appear to him to be, or likely to be, relevant;
+- (b) examine, retain or copy any records including computerised records that appear to him to be, or likely to be, relevant; and
+- (c) require the occupier or person in charge of those premises or any employee or agent of that occupier or person in charge of premises to provide to him such assistance, co-operation, information and documentation including records, computerised or otherwise, as he may reasonably consider appropriate.
+
+## 4. Powers of entry
+
+An inspector shall, on producing, if requested, some duly authenticated document showing his authority, and on serving notice in writing, have the right at all reasonable hours to enter premises which have been selected for sampling, for the purpose of taking samples as required by the Commission Decision and for the purpose of enforcement of these Regulations.
+
+## 5. General powers
+
+(1) An inspector shall have the following powers for the purposes of sampling required by the Commission Decision –
+
+- (a) to make enquiries of any person and request him to provide any information and documentation, including records, that appear to him to be, or likely to be, relevant;
+- (b) to examine, retain or copy any records including computerised records that appear to him to be, or likely to be, relevant;
+- (c) to take with him such vehicles and equipment as he considers necessary;
+- (d) to be accompanied by such other persons as he considers necessary; and
+- (e) to require the occupier or person in charge of those premises or any employee or agent of that occupier or person in charge of those premises to provide to him such assistance, co-operation, information and documentation including records, computerised or otherwise, that he considers necessary.
+
+(2) An inspector, for the purpose of sampling required by the Commission Decision, may also take and retain samples of faecal and environmental material, in accordance with the Technical Specifications, as well as take all other samples that he considers necessary.
+
+## 6. Notices
+
+(1) A notice in writing given under regulation 4 may be sent to a person as an electronic communication (as defined in the Electronic Communications Act 2000[^f00005]), only if that person has consented to the use of that method of communication.
+
+(2) A notice in writing sent to a person as an electronic communication shall be regarded as sent when the text of it is received in a legible form.
+
+## 7. Offences
+
+Any person who –
+
+- (a) intentionally obstructs any person acting under these Regulations;
+- (b) without reasonable cause, fails to comply with requests under regulation 3(2)(a);
+- (c) without reasonable cause fails to act as required by an inspector exercising powers under regulations 3(2)(a), 3(2)(c), 5(1)(a) or 5(1)(e); or
+- (d) provides to an inspector or a person assisting an inspector any information or documentation which he knows to be false or misleading,
+
+shall be guilty of an offence.
+
+## 8. Penalties
+
+A person who is guilty of an offence under these Regulations shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 9. Revocation
+
+The Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2004[^f00006] are hereby revoked.
+
+Sealed with the Official Seal of the Department of Agriculture on 16th March 2005.
+
+Liam McKibben
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+(This note does not form part of the Regulations.)
+
+These Regulations revoke and replace [S.R. 2004 No. 525](https://www.legislation.gov.uk/nisr/2004/525) which implemented Commission Decision [2004/665/EC](https://www.legislation.gov.uk/european/decision/2004/0665) (O.J. No. L303, 30.09.2004, p. 30) concerning a baseline study on the prevalence of Salmonella in laying flocks of Gallus gallus. They correct errors in the interpretation and offences provisions and make other minor drafting changes.
+
+Commission Decision [2004/665/EC](https://www.legislation.gov.uk/european/decision/2004/0665) requires Member States to carry out a survey for salmonella prevalence in laying flocks in accordance with certain technical specifications referred to in Article 5 of the Commission Decision. The text of the technical specifications can be found at
+
+http://europa.eu.int/comm/food/food/biosafety/salmonella/tech\_spec\_sanco-34-2004\_rev-3\_en.pdf
+
+These Regulations –
+
+- (a) designate the Department for the purpose of selecting premises for sampling and give inspectors the powers required for selecting premises for sampling (regulation 3);
+- (b) provide powers for inspectors to enter premises for the purposes of the Commission Decision and for the purpose of enforcement of these Regulations (regulation 4);
+- (c) provide powers for inspectors to make enquiries, examine and retain records, be accompanied by other persons, take equipment and vehicles on to the premises, and request information, documentation, co-operation and assistance, for the purpose of carrying out sampling under these Regulations and for the purpose of enforcement of these Regulations. Powers are provided for inspectors to take samples of faecal and environmental material (regulation 5);
+- (d) make provision for notices issued under these Regulations to be delivered electronically (regulation 6);
+- (e) prescribe offences and penalties (regulations 7 and 8); and
+- (f) revoke and replace Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2004 ([S.R. 2004 No. 525](https://www.legislation.gov.uk/nisr/2004/525)) (regulation 9).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: S.I. [1999/2027](https://www.legislation.gov.uk/uksi/1999/2027) as amended by S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)
+
+[^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7)
+
+[^f00006]: Footnote: [S.R. 2004 No. 525](https://www.legislation.gov.uk/nisr/2004/525)

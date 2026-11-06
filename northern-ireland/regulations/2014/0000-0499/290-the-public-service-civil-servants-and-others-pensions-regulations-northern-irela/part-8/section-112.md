@@ -1,0 +1,32 @@
+---
+title: The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014, section 112
+act: The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014
+section: '112'
+status: revised
+text_date: '2026-06-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2014/290/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014, section 112
+
+> Text as at 2026-06-18.
+>
+> Extent: Northern Ireland.
+
+## 112. Meaning of “eligible child’s pension”[^key-ffca5bacbfaa9f6254f064922c307048]
+
+*Extent: N.I.*
+
+In these Regulations, “eligible child’s pension” means any of the following pensions payable under this Part—
+
+- (a) a child’s earned pension;
+- (b) child’s lower tier earned pension;
+- (c) a child’s upper tier top up earned pension;
+- (d) a child’s added pension.
+
+## Annotations
+
+[^key-ffca5bacbfaa9f6254f064922c307048]: Commencement: [Reg. 112](https://www.legislation.gov.uk/nisr/2014/290/regulation/112) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

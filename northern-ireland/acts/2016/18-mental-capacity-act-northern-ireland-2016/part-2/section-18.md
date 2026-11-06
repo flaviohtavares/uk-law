@@ -1,0 +1,51 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 18
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '18'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 18
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 18. Second opinion: relevant certificates
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) In this Chapter “**relevant certificate**” means a statement in writing which—
+
+- (a) is made by an appropriate medical practitioner; and
+- (b) certifies that, in that practitioner's opinion, it is in P's best interests to have the treatment.
+
+(2) An appropriate medical practitioner may, for the purposes of exercising any function under subsection (1), at any reasonable time—
+
+- (a) visit P and examine him or her in private;
+- (b) require the production of and examine any health records relating to P that are relevant.
+
+(3) A medical practitioner may give a relevant certificate only if the medical practitioner has—
+
+- (a) examined P;
+- (b) examined any health records relating to P that have been produced under subsection (2)(b) and appear to the practitioner to be relevant (having taken reasonable steps to require the production of relevant health records); and
+- (c) consulted such person or persons as appear to the practitioner to be principally concerned with treating P (generally).
+
+(4) A medical practitioner who gives a relevant certificate must immediately send a copy of it to RQIA.
+
+(5) For the purposes of this section “**an appropriate medical practitioner**” means a medical practitioner who—
+
+- (a) is unconnected with P (see section 304);
+- (b) is approved for the purposes of this section by RQIA; and
+- (c) has been asked by RQIA, following a relevant request, to provide an opinion on whether it would be in P's best interests to have the treatment.
+
+(6) Where RQIA receives a relevant request and proposes to ask a medical practitioner to provide an opinion on whether it would be in P's best interests to have the treatment, it must (when considering who to ask) have regard to the desirability of asking a medical practitioner who is independent of any medical practitioner concerned with the provision to P of the treatment.
+
+(7) In this section a “**relevant request**” means a request, made by a person for the purposes of section 16 or 17, for RQIA to arrange for a medical practitioner to provide such an opinion.

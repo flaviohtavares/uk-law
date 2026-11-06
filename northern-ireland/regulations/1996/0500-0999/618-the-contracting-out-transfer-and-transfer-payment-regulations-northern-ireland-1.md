@@ -1,0 +1,448 @@
+---
+title: The Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996
+id: nisr/1996/618
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '1996-12-31'
+text_date: '1996-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/618
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/618/data.pdf
+pending_changes: 132
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996
+
+> **Warning: changes not yet applied to this text (132).** Text as at 1996-12-31. See https://www.legislation.gov.uk/changes/affected/nisr/1996/618
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+1996 No. 618
+
+PENSIONS
+
+The Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996
+
+Made
+
+31st December 1996
+
+Coming into operation
+
+6th April 1997
+
+The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 8C(1)(*a*), 16(1) to (3) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## Part I — General
+
+### 1. Citation, commencement and interpretation[^key-6de7e2552baaa4850b64b88b0ff475fd]
+
+(1) These Regulations may be cited as the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
+
+(2) In these Regulations—
+
+- “the 1985 Regulations” means the Contracting-out (Transfer) Regulations (Northern Ireland) 1985[^f00002];
+- “the 1993 Act” means the Pension Schemes (Northern Ireland) Act 1993;
+- “accrued rights”, for the purposes of Parts II and IV, has the meaning given to that expression in section 16(6);
+- “appropriate personal pension scheme” shall be construed in accordance with section 3[^f00003];
+- “appropriate policy” means a policy of insurance or an annuity contract such as is described in section 15(4);
+- “appropriately secured” has the meaning given to that expression in section 15(3);
+- “connected employer transfer” and “connected employer transfer payment” mean respectively a transfer of guaranteed minimum pensions from a salary related contracted-out scheme to a salary related contracted-out scheme and a transfer payment in respect of section 5(2B) rights from a salary related contracted-out scheme to a salary related contracted-out scheme where either—
+  - (a) the transferring scheme and the receiving scheme apply to employment with the same employer, or
+  - (b) the transferring scheme and the receiving scheme apply to employment with different employers, the earner or person concerned is one of a group of persons in respect of whom transfers or transfer payments are being made from the transferring scheme to the receiving scheme, and either—
+    - (i) the transfer or transfer payment is a consequence of a financial transaction between the employers;
+    - (ii) each of the employers is one of a group of companies consisting of a holding company and one or more subsidiaries within the meaning of Article 4 of the Companies (Northern Ireland) Order 1986[^f00004], or
+    - (iii) the employers are associated employers within the meaning of section 590A(3) and (4) of the Income and Corporation Taxes Act 1988[^f00005];
+- “earner” includes an earner who is not in employment at the time of the transfer or transfer payment;
+- “money purchase contracted-out scheme” means an occupational pension scheme which is contracted-out by virtue of satisfying section 5(3)[^f00006];
+- “overseas arrangement” means a scheme or arrangement, other than an occupational pension scheme, which—
+  - (a) has effect, or is capable of having effect, so as to provide benefits on termination of employment or on death or retirement to, or in respect of, earners;
+  - (b) is not an appropriate personal pension scheme, and
+  - (c) is administered wholly or primarily outside the United Kingdom;
+- “overseas scheme” means an occupational pension scheme which is administered wholly or primarily outside the United Kingdom but does not include one which is contracted-out within the meaning of section 3(3) nor one in respect of which section 49[^f00007] applies;
+- “the principal appointed day” has the meaning given to that expression in section 3(2B)[^f00008];
+- “salary related contracted-out scheme” means an occupational pension scheme which is contracted-out by virtue of satisfying section 5(2)[^f00009];
+- “scheme” means an occupational pension scheme or a personal pension scheme;
+- “section 5(2B) rights” are—
+  - (a) rights (other than rights attributable to voluntary contributions within the meaning of section 107) which are attributable to an earner’s service on or after the principal appointed day in employment which is contracted-out in accordance with section 5(2B), and
+  - (b) where a transfer payment has been made to a salary related contracted-out scheme in respect of rights mentioned in paragraph (*a*) or of post-97 protected rights (as defined in regulation 1(2) of the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00010]), any rights arising under that scheme as a consequence of that payment, or, where only part of it was made in respect of such rights, of that part of it;
+- “trustees”, in relation to a scheme which is not set up or established under a trust, means the managers of the scheme.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to a Measure of the Assembly.
+
+(4) In these Regulations any reference to a numbered section is a reference to the section of the 1993 Act bearing that number.
+
+## Part II — Transfers of, and Transfer Payments in respect of, Guaranteed Minimum Pensions
+
+### 2. General[^key-6fe63885f825ebb6ae0c032f9ba4b3b6]
+
+(1) A transfer or transfer payment from an occupational pension scheme of, or in respect of, the accrued rights of an earner to guaranteed minimum pensions may be made in accordance with whichever of regulations 3 to 6 is applicable and no such transfer or transfer payment may otherwise be made from such a scheme.
+
+(2) A transfer or transfer payment from an appropriate policy of, or in respect of, the accrued rights of an earner to guaranteed minimum pensions which are appropriately secured may be made in accordance with whichever of regulations 3, 5 or 6 is applicable and no such transfer or transfer payment may otherwise be made from such a policy.
+
+(3) A transfer of liability for the payment of guaranteed minimum pensions to, or in respect of, any person who has become entitled to them may be made from an occupational pension scheme in accordance with whichever of regulations 3 or 4 is applicable and no such transfer may otherwise be made.
+
+(4) In regulations 3 to 6 “transfer” means a transfer, of accrued rights or liability, such as is described in this regulation and “transfer payment” means a payment in respect of accrued rights such as is described in this regulation.
+
+### 3. Transfers of guaranteed minimum pensions to salary related contracted-out schemes[^key-2897eb02ff3e3cc943d65b406dc9fa70]
+
+A transfer may be made to a salary related contracted-out scheme if—
+
+- (a) the earner or person concerned consents in writing;
+- (b) in the case of a transfer of the accrued rights of an earner—
+  - (i) the earner is employed by an employer who is a contributor to the receiving scheme, or
+  - (ii) the earner has previously been a member of the receiving scheme;
+- (c) in the case of a transfer of the accrued rights of an earner who is not in employment which is contracted-out by reference to the receiving scheme, the conditions specified in paragraphs 1 to 4 of Schedule 1 are satisfied, unless the transfer is from an appropriate policy in which case the condition set out in paragraph 5 of Schedule 1 must be satisfied;
+- (d) in the case of a transfer of the accrued rights of an earner from an appropriate policy, the receiving scheme does not make provision under section 12(2) and (3)[^f00012] (revaluation of earnings factors for purposes of section 10: early leavers, etc.), or any analogous provision, in relation to the rights transferred where the effect would be to increase them at a different rate from that at which they would have been increased had the transfer not taken place, and
+- (e) in the case of a transfer of liability for the payment of guaranteed minimum pensions to, or in respect of, a person who has become entitled to them, the transfer is from a scheme and the conditions set out in paragraph 6 of Schedule 1 are satisfied.
+
+### 4. Connected employer transfers of guaranteed minimum pensions[^key-16a046cd873978b87d5e9ce8d78ceca0]
+
+A connected employer transfer may be made to a salary related contracted-out scheme subject to the conditions set out in regulation 3(*c*) and (*e*).
+
+### 5. Transfer payments in respect of guaranteed minimum pensions to money purchase contracted-out schemes and appropriate personal pension schemes[^key-694f27ab48fbe87993128c1d513719aa]
+
+A transfer payment may be made to a money purchase contracted-out scheme or an appropriate personal pension scheme if—
+
+- (a) the earner consents in writing;
+- (b) the transfer payment is to a money purchase contracted-out scheme—
+  - (i) the earner is employed by an employer who is a contributor to the receiving scheme, or
+  - (ii) the earner has previously been a member of the receiving scheme;
+- (c) the transfer payment is applied so as to provide money purchase benefits under the receiving scheme for, or in respect of, the earner, and
+- (d) the transfer payment (whether or not it forms part of a larger payment in respect of both guaranteed minimum pensions and other rights) is of an amount at least equal to the cash equivalent of the earner’s accrued rights to guaranteed minimum pensions, as calculated and verified in a manner consistent with regulations made under section 93[^f00013] (calculation of cash equivalents).
+
+### 6. Transfer payments in respect of guaranteed minimum pensions to overseas schemes[^key-b229b99f518e9fa87dd8eef97cea1a63]
+
+A transfer payment may be made to an overseas scheme if—
+
+- (a) the earner consents in writing;
+- (b) the trustees of the transferring scheme have taken reasonable steps to satisfy themselves that the earner has emigrated on a permanent basis and has entered employment to which the receiving scheme applies;
+- (c) the transfer payment (whether or not it forms part of a larger payment in respect of both guaranteed minimum pensions and other rights) is of an amount at least equal to the cash equivalent of the earner’s accrued rights to guaranteed minimum pensions, as calculated and verified in a manner consistent with regulations made under section 93;
+- (d) the earner has acknowledged in writing that he accepts that the scheme to which the transfer payment is to be made may not be regulated in any way by the law of the United Kingdom and that as a consequence there may be no obligation under that law on the receiving scheme or its trustees or administrators to provide any particular value or benefit in return for the transfer payment, and
+- (e) the trustees of the transferring scheme have taken reasonable steps to satisfy themselves that the earner has received a statement from the receiving scheme showing the benefits to be awarded in respect of the transfer payment and the conditions (if any) on which these could be forfeited or withheld.
+
+## Part III — Transfers of Liability in Respect of Section 5(2B) Rights
+
+### 7. General[^key-2f14b617c9ccf670a8bfbd067b115118]
+
+(1) A transfer of liability—
+
+- (a) from a salary related contracted-out scheme (or a scheme which was formerly a salary related contracted-out scheme) or from an appropriate policy in respect of the accrued section 5(2B) rights of an earner, or
+- (b) from a salary related contracted-out scheme (or a scheme which was formerly a salary related contracted-out scheme) for the payment to, or in respect of, a person who has become entitled to them of pensions under that scheme deriving from section 5(2B) rights,
+
+may be made in accordance with arrangements which satisfy paragraph (2) and no such transfer may be made otherwise.
+
+(2) The arrangements referred to in paragraph (1) must result in there being made—
+
+- (a) in the case of a transfer referred to in paragraph (1)(*a*), a transfer payment to the receiving scheme or overseas arrangement, in accordance with whichever of regulations 8 to 11 is applicable, of at least the cash equivalent of the accrued section 5(2B) rights in respect of which the transfer is being made, as calculated and verified in a manner consistent with regulations made under section 93, and
+- (b) in the case of a transfer referred to in paragraph (1)(*b*), a connected employer transfer payment to a salary related contracted-out scheme in accordance with regulation 9.
+
+(3) In this regulation and regulations 8 to 11 “transfer payment” means a payment to effect a transfer of liability such as is referred to in paragraph (1).
+
+### 8. Transfer payments to salary related contracted-out schemes in respect of section 5(2B) rights[^key-8a05cfa17b702e4acfe75daca8699244]
+
+A transfer payment in respect of an earner’s accrued section 5(2B) rights may be made to a salary related contracted-out scheme if—
+
+- (a) the earner consents in writing;
+- (b) the earner—
+  - (i) is employed by an employer who is a contributor to the receiving scheme, or
+  - (ii) has previously been a member of the receiving scheme, and
+- (c) the transfer payment is applied to provide rights for the earner or person concerned which, had they accrued in the receiving scheme, would be provided in accordance with the rules of the receiving scheme relating to earners who are in employment which is contracted-out in relation to the receiving scheme or have been in employment which was so contracted-out.
+
+### 9. Connected employer transfer payments[^key-e545e859c624530a197a791c838acf10]
+
+A connected employer transfer payment may be made to a salary related contracted-out scheme subject to—
+
+- (a) the condition set out in regulation 8(*c*), and
+- (b) the condition set out in regulation 12(3) of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00014] (requirement for actuarial certificate).
+
+### 10. Transfer payments to money purchase contracted-out schemes and appropriate personal pension schemes in respect of section 5(2B) rights[^key-3a075619474ecd249f6a752856051db1]
+
+A transfer payment in respect of an earner’s accrued section 5(2B) rights may be made to a money purchase contracted-out scheme or an appropriate personal pension scheme if—
+
+- (a) the earner consents in writing;
+- (b) the transfer payment is to a money purchase contracted-out scheme, the earner—
+  - (i) is employed by an employer who is a contributor to the receiving scheme, or
+  - (ii) has previously been a member of the receiving scheme, and
+- (c) the transfer payment is applied so as to provide money purchase benefits under the receiving scheme for, or in respect of, the earner.
+
+### 11. Transfer payments to overseas schemes or arrangements in respect of section 5(2B) rights[^key-349967f4eaf668d6703a5fad8f8d61d1]
+
+A transfer payment in respect of an earner’s accrued section 5(2B) rights may be made to an overseas scheme or overseas arrangement if—
+
+- (a) the earner consents in writing;
+- (b) the trustees of the transferring scheme have taken reasonable steps to satisfy themselves that the earner has emigrated on a permanent basis and, where the receiving scheme is an occupational pension scheme, that he has entered employment to which the receiving scheme applies;
+- (c) the earner has acknowledged in writing that he accepts that the scheme or arrangement to which the transfer payment is to be made may not be regulated in any way by the law of the United Kingdom and that as a consequence there may be no obligation under that law on the receiving scheme or arrangement or its trustees or administrators to provide any particular value or benefit in return for the transfer payment, and
+- (d) the trustees of the transferring scheme have taken reasonable steps to satisfy themselves that the earner has received a statement from the receiving scheme or arrangement showing the benefits to be awarded in respect of the transfer payment and the conditions (if any) on which these could be forfeited or withheld.
+
+## Part IV — Modifications of Part III of the 1993 Act
+
+### 12. Modifications of Part III of the 1993 Act on transfers of, and transfer payments in respect of, guaranteed minimum pensions from occupational pension schemes[^key-84bf96b5cc57d0ffbc5f95761956b79b]
+
+Where a transfer to a salary related contracted-out scheme, or a transfer payment to an overseas scheme, has taken place from an occupational pension scheme in accordance with regulation 3, 4 or 6 (or with regulation 2 of the 1985 Regulations[^f00015]), the 1993 Act shall have effect subject to the following modifications—
+
+- (a) where the transfer was of the accrued rights to guaranteed minimum pensions of an earner who was in employment which was contracted-out by reference to the receiving scheme, the modification of section 10(1)[^f00016] (earner’s guaranteed minimum) specified in paragraph 2 of Schedule 2;
+- (b) in the case of any other transfer of the accrued rights of an earner to guaranteed minimum pensions, the modifications of sections 4(2)[^f00017] (meaning of “guaranteed minimum pension”), 16(6) (transfer of accrued rights: meaning of “accrued rights”) and 155[^f00018] (inalienability of guaranteed minimum pension and protected rights payments) specified in paragraphs 1, 3 and 5 of Schedule 2;
+- (c) in the case of any transfer of the liability for payment of guaranteed minimum pensions to, or in respect of, a person who had become entitled to them, the modifications of sections 4(2) and 155 specified in paragraphs 1 and 5 of Schedule 2;
+- (d) in the case of any transfer payment to an overseas scheme in respect of the accrued rights of an earner to guaranteed minimum pensions, the modification of section 42[^f00019] (effect of entitlement to guaranteed minimum pensions on payment of social security benefits) specified in paragraph 4 of Schedule 2.
+
+### 13. Modifications of Part III of the 1993 Act on transfers from policies of insurance or annuity contracts[^key-93dedef6fea7bd8d28006478bebf7874]
+
+Where a transfer to a salary related contracted-out scheme, or a transfer payment to an overseas scheme, in respect of an earner’s accrued rights to guaranteed minimum pensions has taken place from an appropriate policy in accordance with regulation 3 or 6 (or with regulation 2A of the 1985 Regulations[^f00020]), the 1993 Act shall have effect subject to the following modifications—
+
+- (a) where the earner was in employment which was contracted-out by reference to the receiving scheme, the modification of section 10(1) specified in paragraph 2 of Schedule 2;
+- (b) where the earner was in employment which was not contracted-out by reference to the receiving scheme, the modifications of sections 4(2), 16(6) and 155 specified in paragraphs 5, 6 and 7 of Schedule 2;
+- (c) in the case of any transfer payment to an overseas scheme, the modification of section 42 specified in paragraph 4 of Schedule 2.
+
+## Part V — Revocations and Transitional Provisions
+
+### 14. Revocations and transitional provisions[^key-79f688a877a4d3ad0741e8beec32aea1]
+
+(1) Subject to paragraphs (2) and (3) and to Schedule 4, the regulations specified in column (1) of Schedule 3 are revoked to the extent mentioned in column (3) of Schedule 3.
+
+(2) Where a transfer such as is mentioned in regulation 12 has taken place in accordance with regulation 2 of the 1985 Regulations, then paragraph 6 of Schedule 3 to those Regulations (as in operation immediately before these Regulations came into operation) shall continue to have effect in relation to any state scheme premium which has been paid before the principal appointed day or is payable immediately before that day.
+
+(3) Where an application under section 91[^f00021] (ways of taking right to cash equivalent) has been made before the principal appointed day, for the purposes of dealing with that application regulations 2 to 11 of these Regulations shall not apply and regulations 1, 2, 2A and 2B of the 1985 Regulations[^f00022] (as in operation immediately before these Regulations came into operation) shall continue to apply subject to the modifications to the 1985 Regulations set out in Schedule 4.
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on 31st December 1996.
+
+John O'Neill
+
+Assistant Secretary
+
+## SCHEDULE 1 — Further Conditions for Transfers of Guaranteed Minimum Pensions
+
+Regulation 3
+
+### Part I — Further Conditions for Transfer to a Salary Related Contracted-out Scheme of Accrued Rights to Guaranteed Minimum Pensions where Employee is not in Employment which is Contracted-out by Reference to the Receiving Scheme
+
+**1.**[^key-6312e3e78484b4f06e2aa02102d2a617] Subject to paragraphs 2 to 4, the receiving scheme must in respect of the rights transferred—
+
+- (a) provide for pensions payable at the rates at which guaranteed minimum pensions would have been payable by the transferring scheme if the transfer had not taken place, and
+- (b) contain the same provision for commencement and continuation of payment of those pensions and (if any) for commutation, suspension and forfeiture as for guaranteed minimum pensions provided by the receiving scheme in accordance with sections 9[^f00023] and 13[^f00024].
+
+**2.**[^key-c0c34fae26405606c8b33d94c672a3f0] Subject to paragraphs 3 and 4, the arrangements for the transfer (in this Schedule called “the arrangements”) must contain provision that the earner’s earnings factors which are attributable to any particular period of service, or the weekly equivalent derived therefrom, will be increased at the same rate under the receiving scheme as that at which they or it would have fallen to be increased under the transferring scheme if—
+
+- (a) his service in contracted-out employment by reference to the transferring scheme had been terminated, but
+- (b) the transfer had not taken place.
+
+**3.**[^key-30f0ae484f0806e4fbbf9f6446902d47] If the weekly equivalent derived from the earnings factors which are attributable to any particular period of service was not, before the transfer, affected by a provision made, or a provision analogous to one made, under section 12(2) and (3), the arrangements may contain a provision analogous to one made under section 12(2) and (3) in relation to it.
+
+**4.**[^key-324b2219d2f6bda9c4a3337dc67bd064] If the weekly equivalent derived from the earnings factors which are attributable to any particular period of service was, before the transfer, affected by a provision made, or a provision analogous to one made, under section 12(2) and (3), the arrangements may contain a provision that those earnings factors will be increased under the receiving scheme at the same rate as that at which they would have fallen to be increased if—
+
+- (a) there had never been a provision made, or a provision analogous to one made, or
+- (b) in the case only of the first transfer of the rights in question, a different provision had been made,
+
+under section 12(2) and (3) relating to that weekly equivalent.
+
+### Part II — Further Conditions for Transfer from an Appropriate Policy to a Salary Related Contracted-out Scheme of Accrued Rights to Guaranteed Minimum Pensions where Employee does not enter Employment which is Contracted-out by Reference to the Receiving Scheme
+
+**5.**[^key-dc1329b2119d8bbc842dd465f9d12cbd] The receiving scheme must provide for pensions to be paid which are of at least equal value to the annuity which would have been payable by the transferring policy, had the transfer not taken place, in respect of the earner’s accrued rights to guaranteed minimum pensions.
+
+### Part III — Further Conditions for Transfer of Liability for the Payment of a Guaranteed Minimum Pension to, or in respect of, a Person who has become entitled to it
+
+**6.**[^key-3ff1b98230672a78d9d646ef8a100153] The date of commencement of the pension the liability for which is transferred—
+
+- (a) if payable to the person who has become entitled to it, must be the date from which liability for payment is assumed by the receiving scheme, and
+- (b) if payable to his widow or her widower, must be the same as it would have been under the provisions of the transferring scheme,
+
+and the receiving scheme must contain the same provision (if any) for suspension and forfeiture of that pension as for guaranteed minimum pensions provided by the receiving scheme in accordance with section 9 or (as the case may be) 13.
+
+## SCHEDULE 2 — Modifications of Part III of the 1993 Act
+
+Regulations 12 and 13
+
+**1.**[^key-5623cb389399a9bb0fed5cf33613c3e4] The definition of “guaranteed minimum pension” in section 4(2) shall have effect as if—
+
+- (a) after “sections 9 and 13” there were inserted “or in compliance with the condition set out in paragraph 1 or 6 of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996 (or, as the case may be, in paragraph 1 or 5 of Schedule 2 to the Contracting-out (Transfer) Regulations (Northern Ireland) 1985)”;
+- (b) at the end there were added “or of that condition”.
+
+**2.**[^key-57e044939c6263cd33b9ff4b4c757a2e] Section 10(1) shall have effect as if the reference to employment which is contracted-out by reference to the scheme included a reference to employment in any period of linked qualifying service which was contracted-out by reference to the transferring scheme.
+
+**3.**[^key-0f0a1e85e0bd7b5e980f6067459e7528] Section 16(6) shall have effect as if after “sections 9 and 13” there were inserted “or in compliance with the condition set out in paragraph 1 or 6 of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996 (or, as the case may be, in paragraph 1 or 5 of Schedule 2 to the Contracting-out (Transfer) Regulations (Northern Ireland) 1985)”.
+
+**4.**[^key-e1a53677e5e834482be256d51ed0e859] Section 42 shall have effect as if the reference in subsection (1)(*b*) to one or more guaranteed minimum pensions included the guaranteed minimum pensions which would have been payable if they had been preserved in and paid by the transferring scheme or policy.
+
+**5.**[^key-ee29ad190ee8ca95912e42e95c5894ec] Section 155 shall have effect as if subsections (1)(*b*) and (3) were omitted.
+
+**6.**[^key-36b70970ea950d3128200704e49a27a6] The definition of “guaranteed minimum pension” in section 4(2) shall have effect as if—
+
+- (a) after “sections 9 and 13” there were inserted “or in compliance with the condition set out in paragraph 5 of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996 (or, as the case may be, in regulation 2A(4) of the Contracting-out (Transfer) Regulations (Northern Ireland) 1985)”, and
+- (b) at the end there were added “or of that condition”.
+
+**7.**[^key-02a4396870137358fac9253055d8ff82] Section 16(6) shall have effect as if after “sections 9 and 13” there were inserted “or in compliance with the condition set out in paragraph 5 of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996 (or, as the case may be, in regulation 2A(4) of the Contracting-out (Transfer) Regulations (Northern Ireland) 1985)”.
+
+## SCHEDULE 3 — Revocations[^key-0585310677b0b3e79b9670f435ae8cab]
+
+Regulation 14(1)
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Citation</em></th><th><em>Reference</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Contracting-out (Transfer) Regulations (Northern Ireland) 1985</td><td><a href="https://www.legislation.gov.uk/nisr/1985/243">S.R. 1985 No. 243</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 1986</td><td><a href="https://www.legislation.gov.uk/nisr/1986/57">S.R. 1986 No. 57</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Contracting-out (Requisite Benefits — Consequential Provisions) Regulations (Northern Ireland) 1986</td><td><a href="https://www.legislation.gov.uk/nisr/1986/342">S.R. 1986 No. 342</a></td><td>Regulation 5</td></tr>
+<tr><td>The Contracting-out (Transfer) (Amendment) Regulations (Northern Ireland) 1987</td><td><a href="https://www.legislation.gov.uk/nisr/1987/277">S.R. 1987 No. 277</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Personal and Occupational Pension Schemes (Consequential Provisions) Regulations (Northern Ireland) 1987</td><td><a href="https://www.legislation.gov.uk/nisr/1987/292">S.R. 1987 No. 292</a></td><td>Regulation 5</td></tr>
+<tr><td>The Contracting-out (Miscellaneous Amendments) Regulations (Northern Ireland) 1988</td><td><a href="https://www.legislation.gov.uk/nisr/1988/108">S.R. 1988 No. 108</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/300">S.R. 1994 No. 300</a></td><td>In Schedule 2, paragraph 2</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 4 — Transitional Provisions[^key-a507825d3bc620da43c9eeb60284937c]
+
+Regulation 14(3)
+
+In a case such as is mentioned in regulation 14(3) of these Regulations, the 1985 Regulations are modified as follows:
+
+- (a) all references to the Occupational Pensions Board are replaced by references to the Department;
+- (b) in regulation 1(2)—
+  - (i) for the definition of “overseas scheme” there shall be substituted the definition of “overseas scheme” in regulation 1(2) of these Regulations, and
+  - (ii) for the definitions of “section 49 money purchase scheme” and “section 49 salary related scheme”[^f00025] there shall be substituted respectively the following definitions—
+
+    > - “section 49 money purchase scheme” means a scheme which was formerly a money purchase contracted-out scheme and in respect of which section 49 applies;
+    > - “section 49 salary related scheme” means a scheme which was formerly a salary related contracted-out scheme and in respect of which section 49 applies;
+
+    .
+
+(This note is not part of the Regulations.)
+
+These Regulations replace the Contracting-out (Transfer) Regulations (Northern Ireland) 1985 (“the 1985 Regulations”) which are, subject to transitional provisions, now revoked. The Regulations supplement changes introduced by the Pensions (Northern Ireland) Order 1995 (“the Order”) to Part III of the Pension Schemes (Northern Ireland) Act 1993 (“the 1993 Act”). They also consolidate and amend those provisions of the 1985 Regulations which remain relevant. In addition to minor and drafting amendments, the Regulations make the following changes of substance—
+
+- they provide for treating separately rights to guaranteed minimum pensions and rights earned in respect of any period from 6th April 1997 and make provision for the transfer of liability for the latter rights;
+- they set out revised conditions for the making of a transfer payment to an overseas scheme, and
+- they no longer require the Occupational Pensions Board, which is being dissolved, to approve transfers.
+
+Part I contains general provisions relating to citation, commencement and interpretation of the Regulations.
+
+Part II makes provision for the circumstances in which and the conditions subject to which a transfer of or transfer payment in respect of an earner’s accrued rights to guaranteed minimum pensions (or the liability for the payment of guaranteed minimum pensions in respect of which entitlement has already arisen) may be made from one pension scheme to another or from an insurance policy or annuity contract to a pension scheme.
+
+Part III makes provision for the circumstances in which and the conditions subject to which a transfer of liability may be made from a pension scheme or from an insurance policy or annuity contract to a pension scheme or arrangement in respect of rights to pensions which have accrued on or after the principal appointed day under a scheme contracted-out by virtue of section 5(2B) of the 1993 Act.
+
+Part IV modifies Part III of the 1993 Act where a transfer or transfer payment has been made under Part II of the Regulations (or under certain provisions of the 1985 Regulations) to a scheme which is contracted-out under section 5(2) of the 1993 Act (a salary related contracted-out scheme) so as to ensure that the receiving scheme provides guaranteed minimum pensions in consequence of the transfer or transfer payment.
+
+Part V contains consequential revocations and transitional provisions.
+
+Section 8C of the 1993 Act (as inserted by Article 133(5) of the Order), one of the enabling provisions under which these Regulations are made, came into operation for the purpose of authorising the making of regulations on 6th April 1996, and comes into operation for all other purposes on 6th April 1997 by virtue of the Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S.R. 1996 No. 91 (C. 4)](https://www.legislation.gov.uk/nisr/1996/91)).
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 8C was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
+
+[^key-6de7e2552baaa4850b64b88b0ff475fd]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00002]: Footnote: [S.R. 1985 No. 243](https://www.legislation.gov.uk/nisr/1985/243), as amended by [S.R. 1985 No. 259](https://www.legislation.gov.uk/nisr/1985/259), [S.R. 1986 Nos. 57](https://www.legislation.gov.uk/nisr/1986/57) and [342](https://www.legislation.gov.uk/nisr/1986/342), [S.R. 1987 Nos. 277](https://www.legislation.gov.uk/nisr/1987/277) and [292](https://www.legislation.gov.uk/nisr/1987/292), [S.R. 1988 No. 108](https://www.legislation.gov.uk/nisr/1988/108) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^f00003]: Footnote: Section 3 is amended by Article 133(1) of, and paragraph 15 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
+
+[^f00004]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Articles 4 and 4A were substituted for Article 4 by Article 62(1) of the Companies (No. 2) (Northern Ireland) Order 1990 (S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504))
+
+[^f00005]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 590A was inserted by paragraph 4 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26). *See also* paragraph 18(2) of Schedule 6 to that Act
+
+[^f00006]: Footnote: Section 5(3) is amended by Article 133(4) of, and paragraph 17 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
+
+[^f00007]: Footnote: Section 49 applies to occupational pension schemes by virtue of section 48(1) of the Pension Schemes (Northern Ireland) Act 1993. Section 49 is amended by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^f00008]: Footnote: Section 3(2B) was inserted by Article 133(1) of the Pensions (Northern Ireland) Order 1995
+
+[^f00009]: Footnote: Section 5(2) to (2C) was substituted for section 5(2) by Article 133(3) of the Pensions (Northern Ireland) Order 1995
+
+[^f00010]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509).
+
+[^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-6fe63885f825ebb6ae0c032f9ba4b3b6]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-2897eb02ff3e3cc943d65b406dc9fa70]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00012]: Footnote: Section 12(3) was amended by paragraph 21(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^key-16a046cd873978b87d5e9ce8d78ceca0]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-694f27ab48fbe87993128c1d513719aa]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00013]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
+
+[^key-b229b99f518e9fa87dd8eef97cea1a63]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-2f14b617c9ccf670a8bfbd067b115118]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-8a05cfa17b702e4acfe75daca8699244]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-e545e859c624530a197a791c838acf10]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00014]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending regulations are [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324)
+
+[^key-3a075619474ecd249f6a752856051db1]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-349967f4eaf668d6703a5fad8f8d61d1]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-84bf96b5cc57d0ffbc5f95761956b79b]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00015]: Footnote: Regulation 2 was amended by [S.R. 1986 No. 342](https://www.legislation.gov.uk/nisr/1986/342), [S.R. 1987 No. 277](https://www.legislation.gov.uk/nisr/1987/277) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^f00016]: Footnote: Section 10 is amended by paragraph 20 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^f00017]: Footnote: Section 4(2) is amended by paragraph 16(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^f00018]: Footnote: Section 155 is amended by paragraph 33 of Schedule 1 to the Pensions (Northern Ireland) Order 1995
+
+[^f00019]: Footnote: Section 42 is amended by paragraph 54 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)) and by paragraph 19 of Schedule 2 to, and paragraph 36 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
+
+[^key-93dedef6fea7bd8d28006478bebf7874]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00020]: Footnote: Regulation 2A was inserted by regulation 4 of [S.R. 1987 No. 277](https://www.legislation.gov.uk/nisr/1987/277) and amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^key-79f688a877a4d3ad0741e8beec32aea1]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00021]: Footnote: Section 91 is amended by paragraph 5 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
+
+[^f00022]: Footnote: Regulation 1 was amended by [S.R. 1987 No. 277](https://www.legislation.gov.uk/nisr/1987/277) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300). Regulation 2B was inserted by [S.R. 1987 No. 277](https://www.legislation.gov.uk/nisr/1987/277) and amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
+
+[^key-6312e3e78484b4f06e2aa02102d2a617]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00023]: Footnote: Section 9 is amended by paragraph 19 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^f00024]: Footnote: Section 13 is amended by paragraph 22 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
+
+[^key-c0c34fae26405606c8b33d94c672a3f0]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-30f0ae484f0806e4fbbf9f6446902d47]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-324b2219d2f6bda9c4a3337dc67bd064]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-dc1329b2119d8bbc842dd465f9d12cbd]: Commencement: Sch. 1 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-3ff1b98230672a78d9d646ef8a100153]: Commencement: Sch. 1 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-5623cb389399a9bb0fed5cf33613c3e4]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-57e044939c6263cd33b9ff4b4c757a2e]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-0f0a1e85e0bd7b5e980f6067459e7528]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-e1a53677e5e834482be256d51ed0e859]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-ee29ad190ee8ca95912e42e95c5894ec]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-36b70970ea950d3128200704e49a27a6]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-02a4396870137358fac9253055d8ff82]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-0585310677b0b3e79b9670f435ae8cab]: Commencement: Sch. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^key-a507825d3bc620da43c9eeb60284937c]: Commencement: Sch. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/618/regulation/1/1)
+
+[^f00025]: Footnote: These definitions were substituted by paragraph 2(2)(*e*) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)

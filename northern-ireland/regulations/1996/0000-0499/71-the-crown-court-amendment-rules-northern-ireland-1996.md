@@ -1,0 +1,271 @@
+---
+title: The Crown Court (Amendment) Rules (Northern Ireland) 1996
+id: nisr/1996/71
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1996-03-05'
+text_date: '1996-08-25'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/71
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1996/71/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crown Court (Amendment) Rules (Northern Ireland) 1996
+
+> Text as at 1996-08-25.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1996 No. 71
+
+SUPREME COURT, NORTHERN IRELAND
+
+CROWN COURT
+
+The Crown Court (Amendment) Rules (Northern Ireland) 1996
+
+To be laid before Parliament
+
+Made
+
+5th March 1996
+
+Coming into operation
+
+8th April 1996
+
+We, the Crown Court Rules Committee in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001], Articles 81(5) and 81A(11) of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00002] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
+
+## 1. Citation, commencement and interpretation[^key-b21601e6fff0231791497731b98b081d]
+
+(1) These Rules may be cited as the Crown Court (Amendment) Rules (Northern Ireland)[^key-0f36a9a0fb6654b79e3590ac85294fd3] 1996 and shall come into operation on 8th April 1996.
+
+(2) In these Rules, “the principal Rules” shall mean the Crown Court Rules (Northern Ireland) 1979[^f00003] and a reference to a rule by number shall mean a rule so numbered in the principal Rules.
+
+## 2. Amendment to the principal Rules[^key-ba368a2a01c03cd2533cf68be19c6df0]
+
+For rule 44B there shall be substituted the following rule—
+
+> **44B. Evidence through television link where witness will not give evidence otherwise through fear or is a child or is to be cross-examined after admission of video recording**
+>
+> (1) Any party may apply for leave under Article 81(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (in this rule referred to as the “1989 Order”) for evidence to be given through a live television link where—
+>
+> - (a) a witness will not give evidence otherwise through fear; or
+> - (b) the offence charged is one to which Article 81(3) of the 1989 Order applies and evidence is to be given by a witness who is either—
+>   - (i) in the case of an offence falling within Article 81(3)(*a*) or (*b*) of the 1989 Order, under the age of 14; or
+>   - (ii) in the case of an offence falling within Article 81(3)(*c*) of the 1989 Order, under the age of 17; or
+>   - (iii) a person who is to be cross-examined following the admission under Article 81A of the 1989 Order of a video recording of testimony from him.
+>
+> (2) An application under paragraph (1) shall be made by giving notice in writing which shall be in Form 5 in the Schedule.
+>
+> (3) An application under paragraph (1) shall be made within 28 days from the date—
+>
+> - (a) of the committal of the defendant; or
+> - (b) on which Notice of Transfer under Article 3 of the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988[^f00004] or under Article 4 of the Children’s Evidence (Northern Ireland) Order 1995 was given; or
+> - (c) on which leave to present an indictment under section 2(2)(*e*) of the Grand Jury (Abolition) Act (Northern Ireland) 1969[^f00005] was given; or
+> - (d) on which an order for retrial is made.
+>
+> (4) The notice under paragraph (2) shall be served on the chief clerk and at the same time a copy thereof shall be served by the applicant on every other party to the proceedings.
+>
+> (5) A party who receives a copy of a notice under paragraph (2) and who wishes to oppose the application shall within 14 days notify the applicant and the chief clerk, in writing, of his opposition, given the reasons therefor.
+>
+> (6) An application under paragraph (1) shall be determined by a judge who may direct a hearing and the chief clerk shall notify the parties of the time and place of any such hearing.
+>
+> (7) The chief clerk shall notify all the parties of the decision of the judge in relation to an application under paragraph (1) and, where leave is granted, the notification shall state—
+>
+> - (a) where the witness is to give evidence on behalf of the prosecutor, the name of the witness, or (as the case may be) the letter under which he is designated in the proceedings, and in the case of a witness coming within paragraph (1)(*b*), the name, occupation and relationship, (if any) to the witness of the person, (if known) who is to accompany the witness; and
+> - (b) the location of the Crown Court at which the trial should take place.
+>
+> (8) The period of 28 days in paragraph (3) or the period of 14 days in paragraph (5) may be extended, either before or after it expires, on an application made in writing specifying the grounds of the application and served on the chief clerk and a copy of the application shall be served by the applicant on every other party to the proceedings.
+>
+> (9) An application for extension of time under paragraph (8) shall be determined by a judge who may direct a hearing and the chief clerk shall notify the parties of the time and place of any such hearing.
+>
+> (10) The chief clerk shall notify all parties of the decision of the court on the application for extension of time.
+>
+> (11) Unless the judge otherwise directs, a witness shall, when giving evidence through a television link, be present in the building in which the court is sitting.
+>
+> (12) When giving evidence through a television link—
+>
+> - (a) a witness who comes within paragraph (1)(*b*) shall be accompanied by a person acceptable to a judge and, unless the judge otherwise directs, by no other person;
+> - (b) any other witness shall not be accompanied by any other person unless the judge otherwise directs.
+
+.
+
+## 3.[^key-88b1810162a069642ba09815370c1e5c]
+
+After rule 44B there shall be added the following rule
+
+> **44C. Video recordings of testimony from child witnesses**
+>
+> (1) Any party may apply for leave under Article 81A of the Police and Criminal Evidence (Northern Ireland) Order 1989 (in this rule referred to as the “1989 Order”) to tender in evidence a video recording of testimony from a witness where—
+>
+> - (a) the offence charged is one to which Article 81(3) of the 1989 Order applies;
+> - (b) in the case of an offence falling within Article 81(3)(*a*) or (*b*), the proposed witness is under the age of 14 or, if he was under 14 when the video recording was made, is under the age of 15;
+> - (c) in the case of an offence falling within Article 81(3)(*c*), the proposed witness is under the age of 17 or, if he was under 17 when the video recording was made, is under the age of 18; and
+> - (d) the video recording is of an interview conducted between an adult and a person coming within sub-paragraph (*b*) or (*c*) (not being the accused or one of the accused) which relates to any matter in issue in the proceedings;
+>
+> (2) An application under paragraph (1) shall be made by giving notice in writing which shall be in Form 6 in the Schedule. The application shall be accompanied by the video recording which it is proposed to tender in evidence and shall include the following, namely—
+>
+> - (a) the name of the defendant and the offence or offences charged;
+> - (b) the name and date of birth of the witness in respect of whom the application is made;
+> - (c) the date on which the video recording was made;
+> - (d) a statement that in the opinion of the applicant the witness is willing and able to attend the trial for cross-examination;
+> - (e) a statement of the circumstances in which the video recording was made which complies with paragraph (4) below;
+> - (f) the date on which the video recording was disclosed to the other party or parties.
+>
+> (3) Where it is proposed to tender part only of a video recording of an interview with the witness, an application under paragraph (1) must specify that part and be accompanied by a video recording of the entire interview, including those parts which it is not proposed to tender in evidence, and by a statement of the circumstances in which the video recording of the entire interview was made which complies with paragraph (4) below.
+>
+> (4) The statement of the circumstances in which the video recording was made referred to in paragraphs (2)(*e*) and (3) above, shall include the following information, except in so far as it is contained in the recording itself, namely—
+>
+> - (a) the times at which the recording commenced and finished, including details of any interruptions;
+> - (b) the location at which the recording was made and the usual function of the premises;
+> - (c) the name, age and occupation of any person present at any point during the recording; the time for which he was present; his relationship (if any) to the witness and to the defendant;
+> - (d) a description of the equipment used including the number of cameras used and whether they were fixed or mobile; the number and location of microphones; the video format used and whether there were single or multiple recording facilities;
+> - (e) the location of the mastertape if the video recording is a copy and details of when and by whom the copy was made.
+>
+> (5) An application under paragraph (1) shall be made within 28 days from the date—
+>
+> - (a) of the committal for trial of the defendant; or
+> - (b) on which the Notice of Transfer under Article 4 of the Children’s Evidence (Northern Ireland) Order 1995[^f00006] was given; or
+> - (c) on which leave to present an indictment under section 2(2)(*e*) of the Grand Jury (Abolition) Act (Northern Ireland) 1969[^f00007], is given; or
+> - (d) on which an order for retrial is made.
+>
+> (6) The period of 28 days in paragraph (5) may be extended by a judge, either before or after it expires, on an application made in writing, specifying the grounds of the application. The chief clerk shall notify all the parties of the decision of the judge on the application for extension of time.
+>
+> (7) The notice under paragraph (2) or (6) shall be served on the chief clerk and at the same time, copies thereof shall be served by the applicant on every other party to the proceedings. Copies of any video recording required by paragraph (2) or (3) to accompany the notice shall at the same time be sent to the court and to any other party who has not already been served with a copy or in the case of a defendant acting in person, shall be made available for viewing by him.
+>
+> (8) A party who receives a copy of a notice under paragraph (2) shall, within 14 days of service of the notice, notify the applicant and the chief clerk, in writing—
+>
+> - (a) whether he objects to the admission of any part of the video recording or recordings disclosed, giving his reasons why it would not be in the interests of justice for it to be admitted; and
+> - (b) whether he would agree to the admission of part of the video recording or recordings disclosed and if so, which part or parts; and
+> - (c) whether he wishes to be represented at any hearing of the application.
+>
+> (9) After the expiry of the period referred to in paragraph (8), a judge shall determine whether an application under paragraph (1) is to be dealt with—
+>
+> - (a) without a hearing; or
+> - (b) where any party notifies the chief clerk pursuant to paragraph (8) that he objects to the admission of any part of the video recording and that he wishes to be represented at any hearing, or in any other case where the judge so directs, at a hearing at which the applicant and such other party or parties as the judge may direct may be represented,
+>
+> and the chief clerk shall notify the applicant and, where necessary, the other party or parties, of the time and place of any such hearing.
+>
+> (10) The chief clerk shall within 3 days of the decision of the judge in relation to an application under paragraph (1) being made, notify all the parties of it in Form 7 in the Schedule and, where leave is granted, the notification shall state whether the whole or specified parts only of the video recording or recordings disclosed are to be admitted in evidence.
+
+.
+
+## 4.[^key-ce4db4d8a815df0cbbfbd79e50157d20]
+
+Rule 44 shall be amended by inserting after the words “Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988” the words “or Article 4 of the Children’s Evidence (Northern Ireland) Order 1995”.
+
+## 5.[^key-90464f77347b929a9002d90389a66297]
+
+The principal Rules shall be further amended by—
+
+- (a) substituting for Form 5 in the Schedule, the new Form 5 set out in the Schedule to these Rules;
+- (b) inserting after Form 5 in the Schedule, the new Forms 6 and 7 set out in the Schedule to these Rules.
+
+Brian Hutton
+
+R. D. Carswell
+
+J. M. Nicholson
+
+J. F. B. Russell
+
+A. R. Hart
+
+J. W. Wilson
+
+James Wall
+
+Francis Keenan
+
+R. Appleton
+
+J. L. Bamford
+
+Patrick Lynch
+
+Dated 6th February 1996.
+
+I concur
+
+Mackay of Clashfern, C.
+
+Dated 5th March 1996.
+
+## SCHEDULE[^key-effb0cd4e4ade822645725350c758c03]
+
+Rule 3
+
+Form 5
+
+In the Crown Court in Northern Ireland
+
+Rule 44B
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/71/images/nisr_19960071_en_001)[image: see source](https://www.legislation.gov.uk/nisr/1996/71/images/nisr_19960071_en_002)
+
+Form 6
+
+In the Crown Court in Northern Ireland
+
+Rule 44C
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/71/images/nisr_19960071_en_003)[image: see source](https://www.legislation.gov.uk/nisr/1996/71/images/nisr_19960071_en_004)
+
+Form 7
+
+In the Crown Court in Northern Ireland
+
+Rule 44C
+
+[image: see source](https://www.legislation.gov.uk/nisr/1996/71/images/nisr_19960071_en_005)
+
+(This note is not part of the Rules.)
+
+These Rules amend the Crown Court Rules (Northern Ireland) 1979 (the principal Rules) so as to reflect the amendments made to the Police and Criminal Evidence (Northern Ireland) Order 1989 (the 1989 Order) by Articles 5(1) and 5(2) of the Children’s Evidence (Northern Ireland) Order 1995.
+
+Rule 2 substitutes a new rule 44B of the principal Rules to provide for applications for the leave of the court under Article 81(2) of the 1989 Order (evidence through television link by witness who will not give evidence otherwise through fear or who is a child or is to be cross-examined after admission of video recording of testimony).
+
+Rule 3 adds a new rule 44C to the principal Rules which provides for applications for the leave of the court under Article 81A of the 1989 Order (video recordings of testimony from child witnesses).
+
+Rule 4 makes a consequential amendment to Rule 44 of the principal Rules.
+
+Rule 5 and the Schedule provide for the necessary forms for use in connection with applications.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
+
+[^f00002]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); to which the most recent amendments were made by S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
+
+[^key-b21601e6fff0231791497731b98b081d]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/71/article/1) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+
+[^key-0f36a9a0fb6654b79e3590ac85294fd3]: Textual amendment: Words in [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1) inserted (25.8.1996) by [The Crown Court (Amendment No. 2) Rules (Northern Ireland) 1996 (S.R. 1996/281)](https://www.legislation.gov.uk/nisr/1996/281), [rules 1(1)](https://www.legislation.gov.uk/nisr/1996/281/article/1/1), [4](https://www.legislation.gov.uk/nisr/1996/281/article/4) (with [rule 3](https://www.legislation.gov.uk/nisr/1996/281/article/3))
+
+[^f00003]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90); to which the most recent relevant amendments were made by [S.R. 1989 No. 393](https://www.legislation.gov.uk/nisr/1989/393)
+
+[^key-ba368a2a01c03cd2533cf68be19c6df0]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/71/article/2) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+
+[^f00004]: Footnote: S.I. [1988/1846 (N.I. 16)](https://www.legislation.gov.uk/nisi/1988/1846)
+
+[^f00005]: Footnote: [1969 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1969/15)
+
+[^key-88b1810162a069642ba09815370c1e5c]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/71/article/3) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+
+[^f00006]: Footnote: S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
+
+[^f00007]: Footnote: [1969 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1969/15)
+
+[^key-ce4db4d8a815df0cbbfbd79e50157d20]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/71/article/4) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+
+[^key-90464f77347b929a9002d90389a66297]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/71/article/5) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+
+[^key-effb0cd4e4ade822645725350c758c03]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/71/schedule) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)

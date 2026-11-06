@@ -1,0 +1,126 @@
+---
+title: Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 2011
+id: nisr/2011/209
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-06-02'
+text_date: '2016-10-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/209
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/209/pdfs/nisrem_20110209_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/209/pdfs/nisr_20110209_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/209/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 2011
+
+> Text as at 2016-10-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 209
+
+Tourism
+
+Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 2011
+
+Made
+
+*2nd June* 2011
+
+Coming into operation
+
+*1st July* 2011
+
+The Department of Enterprise, Trade and Investment[^f00001], in exercise of powers conferred by Articles 13(2)(a) and (b), 13(3), 13(7), 14A(1), 15(3), 16(3), 17(2) and 17A(2) of the Tourism (Northern Ireland) Order 1992[^f00002], makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-2b641764d9033fb7408f4acec51db56d]
+
+(1) These Regulations may be cited as the Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 2011 and shall come into operation on 1st July 2011.
+
+(2) In these Regulations the “Statutory Criteria Regulations” means the Categories of Tourist Establishment (Statutory Criteria) Regulations (Northern Ireland) 1992[^f00003]
+
+## 2. Prescribed forms[^key-14e9ea9c7de54769202ca874fd5146d8]
+
+The notices, certificates and forms in the Schedule are prescribed under Articles 13(2)(a) and (b), 13(3), 13(7), 14A(1), 15(3), 16(3), 17(2) and 17A(2) of the Tourism (Northern Ireland) Order 1992.
+
+## 3. Revocation[^key-758d8cd7143c6059af81d24a25e29593]
+
+The Tourist Establishments (Notices, Certificates and Forms) Regulations (Northern Ireland) 1992[^f00004] are revoked.
+
+Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 2nd June 2011
+
+Noel Cornick
+
+A senior officer of the
+
+Department of Enterprise, Trade and Investment
+
+## SCHEDULE[^key-fc71791f15cf65705dc6c38323a262a8][^M_F_926dd8e0-1d70-42b1-af64-5655287cdc7e][^M_F_24c80f4a-539d-41cb-efdc-5b76161be2f3][^M_F_abe1661c-e986-48ba-d20b-425dfb9a9c7d][^M_F_42a1ea45-eeee-48cc-8724-ee642753c952][^M_F_0b8e664c-8c25-4065-bb55-5442e7fa6445][^M_F_94513fd2-a4d5-437d-aec6-2fbe6121bed9]
+
+Regulation 2
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations.)
+
+These Regulations prescribe notices, certificates and forms for the purposes of the inspection and certification of tourist establishments.
+
+The prescribed notices are:
+
+- (a) the notice which a proprietor of a tourist establishment is required to give to the Northern Ireland Tourist Board (“the Board”), under Article 13(2)(a) of the Tourism (Northern Ireland) Order 1992 (“the Order”), of an intention to provide or offer to provide tourist accommodation (Form 1);
+- (b) the notice, under Article 15(3) of the Order, of revocation of a certificate, following an inspection of a tourist establishment, issued by the Board to the proprietor (Form 5);
+- (c) the notice, under Article 16(3) of the Order, revoking the certificate issued by the Board to a proprietor following a non-statutory inspection (Form 6(a));
+- (d) the notice, under Article 16(3) of the Order, revoking the certificate issued by the Board to a proprietor following a non-statutory inspection because of the failure of the proprietor to comply with conditions attaching to the certificate (Form 6(b));
+- (e) the notice, under Article 16(3) of the Order, revoking the certificate issued by the Board to a proprietor following a non-statutory inspection because of the failure of the proprietor to comply with conditions attaching to the certificate or the additional or amended conditions attaching to the certificate as permitted under Article 16(5) of the Order (Form 6(c));
+- (f) the notice, under Article 15(3) of the Order, of the Board’s refusal to issue a certificate following a statutory inspection of a new tourist establishment or one seeking a change from one statutory category to another (Form 7);
+- (g) the notice, under Article 17(2) of the Order, revoking a certificate following the refusal of a proprietor to permit the Board access to carry out an inspection (Form 8); and
+- (h) the notice, under Article 17A(2) of the Order, revoking the certificate issued by the Board following the failure of a proprietor to submit a return issued under Article 14A(1) of the Order (Form 9).
+
+The prescribed forms relate to:
+
+- (i) the application which a proprietor of a new establishment must make to the Board, under Article 13(2)(b) of the Order, for a statutory inspection (Form 2);
+- (j) the application made, under Article 13(3) of the Order, for an inspection when a change of statutory category is sought (Form 3); and
+- (k) the form issued under Article 14A(1) of the Order requiring a proprietor to state whether he continues to provide tourist accommodation and to provide any other information in relation to that establishment as may be prescribed (Form 4(b)).
+
+The prescribed certificate relates to:
+
+- the certificate issued under Article 13(7) of the Order, allocating a tourist establishment to a statutory category (Form 4(a)).
+
+## Annotations
+
+[^f00001]: Footnote: Formerly the Department of Economic Development, [S. I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5)
+
+[^f00002]: Footnote: [S.I. 1992/235 (N.I. 3)](https://www.legislation.gov.uk/nisi/1992/235). Article 14A was inserted by section 2(2) of the Tourism (Amendment) Act (Northern Ireland) [2011 (c. 3)](https://www.legislation.gov.uk/nia/2011/3) and Article 17A was inserted by section 2(4) of that Act
+
+[^key-2b641764d9033fb7408f4acec51db56d]: Commencement: Reg. 1 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+
+[^f00003]: Footnote: [S.R. 1992 No. 149](https://www.legislation.gov.uk/nisr/1992/149) as amended by [S.R. 2009 No. 367](https://www.legislation.gov.uk/nisr/2009/367) and [S.R. 2011 No. 104](https://www.legislation.gov.uk/nisr/2011/104)
+
+[^key-14e9ea9c7de54769202ca874fd5146d8]: Commencement: Reg. 2 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+
+[^key-758d8cd7143c6059af81d24a25e29593]: Commencement: Reg. 3 in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+
+[^f00004]: Footnote: [S. R. 1992 No. 150](https://www.legislation.gov.uk/nisr/1992/150)
+
+[^key-fc71791f15cf65705dc6c38323a262a8]: Commencement: Sch. in operation at 1.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/209/regulation/1/1)
+
+[^M_F_926dd8e0-1d70-42b1-af64-5655287cdc7e]: Textual amendment: Sch. Form 5: in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^M_F_24c80f4a-539d-41cb-efdc-5b76161be2f3]: Textual amendment: Sch. Form 6(a): in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^M_F_abe1661c-e986-48ba-d20b-425dfb9a9c7d]: Textual amendment: Sch. Form 6(b): in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^M_F_42a1ea45-eeee-48cc-8724-ee642753c952]: Textual amendment: Sch. Form 6(c): in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^M_F_0b8e664c-8c25-4065-bb55-5442e7fa6445]: Textual amendment: Sch. Form 7: in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^M_F_94513fd2-a4d5-437d-aec6-2fbe6121bed9]: Textual amendment: Sch. Form 9: in the last paragraph the words "division in which the establishment is situated" are omitted (coming into operation in accordance with art. 1) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [30](https://www.legislation.gov.uk/nisr/2016/317/article/30); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

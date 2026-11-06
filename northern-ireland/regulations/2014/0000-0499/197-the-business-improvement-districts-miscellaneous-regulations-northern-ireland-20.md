@@ -1,0 +1,177 @@
+---
+title: The Business Improvement Districts (Miscellaneous) Regulations (Northern Ireland) 2014
+id: nisr/2014/197
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2014-07-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2014/197
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2014/197/pdfs/nisrem_20140197_en.pdf
+- http://www.legislation.gov.uk/nisr/2014/197/pdfs/nisr_20140197_en.pdf
+- http://www.legislation.gov.uk/nisr/2014/197/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Business Improvement Districts (Miscellaneous) Regulations (Northern Ireland) 2014
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2014 No. 197
+
+Business Improvement Districts
+
+The Business Improvement Districts (Miscellaneous) Regulations (Northern Ireland) 2014
+
+Laid before the Assembly in draft
+
+Made
+
+1st July 2014
+
+Coming into operation
+
+2nd July 2014
+
+The Department for Social Development, in exercise of the powers conferred by sections 5(2)(f), 6(3), 9(3) and 17(2)(b) of the Business Improvement Districts Act (Northern Ireland) 2013[^f00001], makes the following Regulation:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Business Improvement Districts (Miscellaneous) Regulations (Northern Ireland) 2014 and shall come into operation on the day after the day on which they are made.
+
+(2) In these Regulations—
+
+- “the 2013 Act” means the Business Improvement Districts Act (Northern Ireland) 2013;
+- “the 2014 (General) Regulations” means the Business Improvement Districts (General) Regulations (Northern Ireland) 2014;
+- “alteration ballot” has the meaning given in regulation 16 of the 2014 (General) Regulations;
+- “ballot holder” has the meaning given in regulation 6 of the 2014 (General) Regulations;
+- “BID” means business improvement district under section 1 of the 2013 Act;
+- “BID ballot” means a ballot under section 5(1) of the 2013 Act;
+- “BID body” means the body (whether corporate or not corporate) responsible for the implementation of the works or services to be provided within the BID arrangements, where a BID body is included in the BID proposals in terms of paragraph (1)(a) of Schedule 1 of the 2014 (General) Regulations;
+- “BID proposer” means a person who draws up BID proposals;
+- “DFP” means the Department of Finance and Personnel;
+- “re-ballot” means a BID ballot, renewal ballot, or alteration ballot, as the case may be, which is required to be arranged pursuant to regulation 9(10) of the 2014 (General) Regulations;
+- “relevant property” has the same meaning as provided for in section 6(4) of the 2013 Act for the purposes of that section;
+- “renewal ballot” means a ballot under section 16(2) of the 2013 Act;
+- “veto” means a veto by the district council pursuant to section 9 of the 2013 Act;
+
+## 2. Obtaining information from DFP for the purpose of developing BID proposals
+
+(1) On receiving a request (made in accordance with paragraph (2)) from any person who is developing BID proposals, DFP shall–
+
+- (a) prepare a document showing (as far as DFP is able to ascertain from its non-domestic rates records at that time) the name of each non-domestic ratepayer and the address, property type and rateable value of each relevant property which is occupied, or (if unoccupied) owned, by that person in the business improvement district; and
+- (b) supply in data form a copy of the information in the document to the person developing the BID proposals.
+
+(2) A request for information under paragraph (1) shall–
+
+- (a) be made in writing to DFP;
+- (b) confirm that the person making the request intends to make use of the information requested only for the purpose of developing the BID proposal described in the request;
+- (c) provide a summary of the nature of the BID proposals to be developed;
+- (d) describe the geographical extent of the business improvement district.
+
+(3) A person to whom this section applies shall be guilty of an offence it they–
+
+- (a) disclose any information supplied to that person under paragraph (1); or
+- (b) make use of any such information,
+
+otherwise than for the purpose of developing the BID proposal described in the request.
+
+(4) A person guilty of an offence as mentioned in paragraph (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.[^f00002]
+
+(5) In this regulation “data form” means information which is in a form which is capable of being processed by means of equipment operating automatically in response to instructions given for that purpose.
+
+## 3. Obtaining information for the purposes of canvassing
+
+(1) As soon as practicable after the district council instructs the ballot holder to hold a ballot (under regulation 5(1) of the 2013 (General) Regulations), DFP shall–
+
+- (a) prepare a document showing (as far as DFP is able to ascertain from its non-domestic rates billing records at that time) the name of each non-domestic ratepayer and the address, property type and rateable value of each relevant property which is occupied, or (if unoccupied) owned, by them in the geographical area to which any BID proposals, alteration proposals or renewal proposals, as the case may be, relate; and
+- (b) provide a copy of the document referred to in paragraph (1)(a) to the district council and the ballot holder as soon as practicable.
+
+(2) The district council shall make available for inspection by any person a copy of the information in the document referred to in paragraph (1)(a) at its principal office during normal working hours.
+
+(3) On receiving a request (made in accordance with paragraph (3)) from–
+
+- (a) the BID proposer or BID body;
+- (b) any person who, or any group of persons which, represents 5 per cent or more of the persons who are to be liable for any proposed BID levy,
+
+DFP shall supply a copy of the information in the document it is required to prepare under paragraph (1) to the person or group of persons concerned in data form.
+
+(4) A request for information under paragraph (2) shall-
+
+- (a) be made in writing to DFP;
+- (b) identify the BID ballot, alteration ballot, renewal ballot or re-ballot in relation to which the request is made;
+- (c) confirm that the person or group of persons making the request intends to make use of the information requested only for the purpose of canvassing persons entitled to vote in the BID ballot, alteration ballot, renewal ballot or re-ballot identified in the request.
+
+(5) A person to whom this section applies shall be guilty of an offence if they–
+
+- (a) disclose to any person any information supplied to it under paragraph (2);
+- (b) make use of any such information,
+
+otherwise than for the purpose of canvassing persons entitled to vote in the BID ballot, alteration ballot, renewal ballot or re-ballot indentified in the request.
+
+(6) A person guilty of an offence as mentioned in paragraph (4) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.[^f00003]
+
+## 4. Veto of BID proposals
+
+(1) For the purposes of section 9(2) of the 2013 Act, the prescribed period is 70 days prior to the day of the ballot.
+
+(2) For the purposes of section 9(3) of the 2013 Act, the prescribed circumstances are that the relevant district council is of the opinion the BID arrangements are likely—
+
+- (a) to conflict with any development plan adopted under Part III of the Planning (Northern Ireland) Order 1991 which applies to the proposed business improvement district or any part of it,
+- (b) to conflict with policy prepared under Part II of the Planning (Northern Ireland) Order 1991,
+- (c) to conflict to a material extent with any policy formally adopted by and contained in a document published by the district council (whether or not the district council are under a statutory duty to prepare such a document) or
+- (d) to be a significantly disproportionate financial burden being imposed on—
+  - (i) any person entitled to vote in the ballot on the proposals, or
+  - (ii) any class of such persons,
+
+as compared to other such persons or classes.
+
+(3) For the purposes of section 9(5) of the 2013 Act, the prescribed matters to which the district council shall have regard in deciding whether to exercise its veto are—
+
+- (a) the level of support ( as evidenced by the result of the BID ballot or re-ballot, as the case may be) for the BID proposals, where this information is available;
+- (b) the nature and extent of the conflicts referred to in paragraph 2(a);
+- (c) the structure of the proposed BID levy and how the financial burden of the business improvement district is to be distributed amongst ratepayers in the geographical area of the business improvement district;
+- (d) how the financial burden of the business improvement district may have been disproportionately distributed among ratepayers as a result of the selection of the geographic area or areas of the business improvement district;
+- (e) the extent to which the BID proposer discussed the BID proposals with the district council before submitting the BID proposals to the council under regulation 5; and
+- (f) the cost incurred by any person in developing the BID proposals and canvassing in relation to the BID proposals.
+
+## 5. Persons entitled to vote
+
+(1) Subject to paragraph (2), a person shall be entitled to vote in a BID ballot, renewal ballot, alteration ballot, or a re-ballot if, on the date the ballot holder published the notice under paragraph 3(a) of Schedule 2 to the 2014 (General) Regulations, they fall within the class of eligible ratepayers entitled to vote as described in the BID proposals.
+
+(2) Where, in respect of a relevant property, more than one person comprises the eligible ratepayer, the person entitled to vote in respect of that property shall be such persons jointly.
+
+Sealed with the Official Seal of the Department for Social Development on 1<sup>st</sup> July 2014
+
+(L.S.)
+
+Michael Daly
+
+A senior officer of the Department for Social Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to business improvement districts. Business improvement districts are provided for in the Business Improvement Districts Act (Northern Ireland) 2013 (“the 2013 Act”) as areas within which projects specified in the BID arrangements are to be carried out for the benefit of that district or those who live, work or carry on any activity in the district. Those projects are to be financed (in whole or in part) by a BID levy imposed on eligible non-domestic ratepayers, or a class of such ratepayers in the district. A business improvement district may only be established where those entitled to vote approve the BID proposals, which on approval become BID arrangements.
+
+Regulation 2 provides for the Department of Finance and Personnel (“DFP”) to supply information from its non-domestic rates records to persons developing BID proposals.
+
+Regulation 3 provides for DFP to supply information from its non-domestic rates records for the purpose of canvassing in relation to a ballot. Provision is also made for the restriction of the use of the information.
+
+Regulation 4 prescribes the circumstances in which a district council may veto BID proposals, the period within which this has to be done and the matters to which a district council shall have regard to in deciding whether to exercise the veto.
+
+Regulation 5 provides for who is entitled to vote in a ballot.
+
+## Annotations
+
+[^f00001]: Footnote: [2013, c.5 (NI)](https://www.legislation.gov.uk/nia/2013/5).
+
+[^f00002]: Footnote: [1984 No. 703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703)
+
+[^f00003]: Footnote: [1984 No. 703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703)

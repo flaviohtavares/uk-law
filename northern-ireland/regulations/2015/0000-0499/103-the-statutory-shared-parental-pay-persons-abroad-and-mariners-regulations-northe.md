@@ -1,0 +1,481 @@
+---
+title: The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015
+id: nisr/2015/103
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2015-03-02'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2015/103
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2015/103/pdfs/nisrem_20150103_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/103/pdfs/nisr_20150103_en.pdf
+- http://www.legislation.gov.uk/nisr/2015/103/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2015 No. 103
+
+Employment
+
+Work And Families
+
+The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015
+
+Made
+
+2nd March 2015
+
+Coming into operation
+
+15th March 2015
+
+The Department for Employment and Learning, in exercise of the powers conferred by sections 167ZZ6(1) and 167ZZ7(3)(b) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22446321], makes the following Regulations.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 and come into operation on 15th March 2015.
+
+## PART 2 — Statutory shared parental pay
+
+### 2. Interpretation[^key-680ba839d2c2fdcd712030d2966c94dd]
+
+(1) In these Regulations—
+
+- “**the Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “**adopter**”, in relation to a child, means the person with whom a child is, or is expected to be, placed for adoption under the law of the United Kingdom;
+- “**adoption from overseas**” means the adoption of a child who enters Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom;
+- “**EEA**” means European Economic Area;
+- “**foreign-going ship**” means any ship or vessel which is not a home-trade ship;
+- “**General Regulations**” means the Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015 [^c22446331];
+- “**home-trade ship**” includes—
+  - (a) every ship or vessel employed in trading or going within the following limits—
+    - (i) the United Kingdom (including for this purpose the Republic of Ireland),
+    - (ii) the Channel Islands,
+    - (iii) the Isle of Man, and
+    - (iv) the continent of Europe between the river Elbe and Brest inclusive;
+  - (b) every fishing vessel not proceeding beyond the following limits—
+    - (i) on the South, Latitude 48°30′N,
+    - (ii) on the West, Longitude 12°W, and
+    - (iii) on the North, Latitude 61°N;
+- “**mariner**” means a person who is or has been in employment under a contract of service either as a master or member of the crew of any ship or vessel, or in any other capacity on board any ship or vessel where—
+  - (a) the employment in that other capacity is for the purposes of that ship or vessel or her crew or any passengers or cargo or mails carried by the ship or vessel; and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on her voyage,
+
+  but does not include a person in so far as their employment is as a serving member of the forces;
+- “**placed for adoption**” means—
+  - (a) placed for adoption by virtue of regulation 12 of the Adoption Agencies Regulations (Northern Ireland) 1989 [^c22446341];
+  - (b) placed by an authority with a person who is an approved foster parent who is also an approved prospective adopter [^c22446351] where the authority—
+    - (i) is considering adoption for the child, or
+    - (ii) is satisfied that adoption is in the best interests of the child,
+
+    and is considering whether that person would be a suitable adoptive parent for that child;
+  - (c) placed for adoption under the Adoption and Children Act 2002 [^c22446361] or the Adoption and Children (Scotland) Act 2007 [^c22446371]; or
+  - (d) placed in accordance with section 22C of the Children Act 1989 [^c22446381] with a local authority foster parent who is also a prospective adopter;
+- “**serving member of the forces**” means a person, other than one mentioned in Part 2 of Schedule 1, who, being over the age of 16, is a member of any establishment or organisation specified in Part 1 of that Schedule (being a member who gives full pay service) but does not include any such person while absent on desertion;
+- “**statutory shared parental pay (adoption)**” means statutory shared parental pay payable where entitlement to that pay arises under regulation 17 or 18 of the General Regulations;
+- “**statutory shared parental pay (birth)**” means statutory shared parental pay payable where entitlement to that pay arises under regulation 4 or 5 of the General Regulations.
+
+(2) For the purposes of these regulations, the expressions “ship” and “ship or vessel” include hovercraft, except in regulation 9(2).
+
+(3) For the purposes of these Regulations—
+
+- (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child;
+- (b) in a case where sub-paragraph (a) applies, a person is notified as having been matched with a child on the date that person receives notification of the agency's decision, under regulation 11(2)(d) of the Adoption Agencies Regulations (Northern Ireland) 1989, regulation 33(3)(a) of the Adoption Agencies Regulations 2005 [^c22446391], regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005 [^c22446401] or regulation 8(5) of the Adoption Agencies (Scotland) Regulations 2009 [^c22446411];
+- (c) a person is also matched with a child where each of the following conditions is met—
+  - (i) that person is an approved foster parent and an approved prospective adopter, and the child is, or is expected to be, placed by the authority with that person under Article 27(2)(a) of the Children (Northern Ireland) Order 1995 [^c22446421];
+  - (ii) the authority—
+    - (aa) is considering adoption for the child, or
+    - (bb) is satisfied that adoption is in the best interests of the child;
+  - (iii) the authority is considering whether that person would be a suitable adoptive parent for that child;
+- (d) in a case where sub-paragraph (c) applies, a person is notified as having been matched with a child on the date on which that person receives notification from the authority that the conditions in that sub-paragraph have been met;
+- (e) a person is also matched with a child for adoption when a decision has been made in accordance with regulation 22A of the Care Planning, Placement and Case Review (England) Regulations 2010 [^c22446431] and an adoption agency has identified that person with whom the child is to be placed in accordance with regulation 12B of the Adoption Agencies Regulations 2005 [^c22446441];
+- (f) in a case where sub-paragraph (e) applies, a person is notified as having been matched with a child on the date on which that person receives notification in accordance with regulation 12B(2)(a) of the Adoption Agencies Regulations 2005.
+
+(4) In paragraph (d) of the definition of “placed for adoption” in paragraph (1)—
+
+- “**local authority foster parent**” means a person approved as a local authority foster parent in accordance with regulations made by virtue of paragraph 12F of Schedule 2 to the Children Act 1989 [^c22446451];
+- “**prospective adopter**” means a person who has been approved as suitable to adopt a child and has been notified of that decision in accordance with regulation 30B(4) of the Adoption Agencies Regulations 2005.
+
+(5) The reference to “adoption agency” in paragraph (3) has the meaning given—
+
+- (a) in relation to Northern Ireland, by Article 3(3) of the Adoption (Northern Ireland) Order 1987 [^c22446461];
+- (b) in relation to England and Wales, by section 2(1) of the Adoption and Children Act 2002 [^c22446471]; and
+- (c) in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007 [^c22446481].
+
+### 3. Application[^key-388270a56a4e9873f249681b9edebd18]
+
+These Regulations apply in relation to—
+
+- (a) statutory shared parental pay (birth) in respect of children whose expected week of birth begins on or after 5th April 2015;
+- (b) statutory shared parental pay (adoption) in respect of children placed for adoption on or after 5th April 2015.
+
+### 4. Restriction on scope
+
+A person who would not be treated under regulation 33 (treatment of persons as employees) of the General Regulations as an employee for the purposes of Part 12ZC (statutory shared parental pay) of the Act [^c22446491] if that person's employment were in Northern Ireland shall not be treated as an employee under these Regulations.
+
+### 5. Treatment of persons in ... EEA states as employees[^key-5fe1549e0b0adec22c37374de22ad24d]
+
+A person who is—
+
+- (a) gainfully employed in an EEA state [^key-fb1fae785582c93f221c76ffc1c5d3c6]... in such circumstances that, if the employment were in Northern Ireland, the person would be an employee for the purposes of Part 12ZC of the Act, or a person treated as such an employee under regulation 33 of the General Regulations; and
+- (b) subject to the legislation of the United Kingdom under Council Regulation (EEC) No.1408/71 [^c22446501] as amended from time to time or Regulation[^key-5cbe1a95872db09ace629c3b2e839690] [(EC) 883/2004](https://www.legislation.gov.uk/eur/2004/883) of the European Parliament and of the Council of 29 April 2004 as amended from time to time on the coordination of social security systems ,
+
+notwithstanding that person not being employed in Northern Ireland, shall be treated as an employee for the purposes of Part 12ZC of the Act.
+
+### 6. Treatment of certain persons absent from Northern Ireland as employees
+
+Subject to regulation 9(2), where a person, while absent from Northern Ireland for any purpose, is gainfully employed by an employer who is liable to pay secondary Class 1 contributions (within the meaning of section 1(2) of the Act) in respect of that person's employment under section 6 of the Act [^c22446511] or regulation 146 of the Social Security Contributions Regulations 2001 [^c22446521], that person shall be treated as an employee for the purposes of Part 12ZC of the Act.
+
+### 7. Entitlement to statutory shared parental pay where person has worked in an EEA state[^key-e366d6e2d20b5e8aef3cea554a0dcca8]
+
+(1) A person who—
+
+- (a) is an employee or treated as an employee under regulation 5;
+- (b) in the week immediately preceding the 14th week before the expected week of the child's birth was in employed earner's employment with an employer in Northern Ireland; and
+- (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-978b591450ffcbb8a0a1fcb68ec8143d] EEA state,
+
+shall be treated for the purposes of sections 167ZU and 167ZV of the Act [^c22446531] (entitlement to shared parental pay: birth) as having been employed in employed earner's employment with an employer in those weeks in which the person was so employed in the EEA[^key-5d1aeedde9f1a18e90bf26b678a0c843] state.
+
+(2) A person who—
+
+- (a) is an employee or treated as an employee under regulation 5;
+- (b) in the week in which the adopter is notified of having been matched with the child for the purposes of adoption was in employed earner's employment with an employer in Northern Ireland; and
+- (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-e5d5f6272e3e18d5cc669fc574ffffe8] EEA State,
+
+shall be treated for the purposes of sections 167ZW and 167ZX of the Act [^c22446541] (entitlement to shared parental pay: adoption) as having been employed in employed earner's employment in those weeks in which the person was so employed in the EEA[^key-ea0d57690a920958d3460b3e06aeee77] State.
+
+### 8. Time for compliance with Part 12ZC of the Act or regulations made under it
+
+Where—
+
+- (a) a person is outside the United Kingdom;
+- (b) Part 12ZC of the Act or regulations made under it require any act to be done forthwith or on the happening of a certain event or within a specified time; and
+- (c) because the person is outside the United Kingdom that person or that person's employer cannot comply with the requirement,
+
+the person or the employer, as the case may be, shall be deemed to have complied with the requirement if the act is performed as soon as reasonably practicable.
+
+### 9. Mariners
+
+(1) A mariner engaged in employment on board a home-trade ship with an employer who has a place of business within the United Kingdom shall be treated as an employee for the purposes of Part 12ZC of the Act, notwithstanding that he may not be employed in Northern Ireland.
+
+(2) A mariner who is engaged in employment—
+
+- (a) on a foreign-going ship; or
+- (b) on a home-trade ship with an employer who does not have a place of business within the United Kingdom,
+
+shall not be treated as an employee for the purposes of Part 12C of the Act, notwithstanding that the mariner may have been employed in Northern Ireland.
+
+### 10. Continental shelf
+
+(1) In this regulation—
+
+- “**designated area**” means any area which may from time to time be designated by Order in Council under section 1(7) of the Continental Shelf Act 1964 [^c22446551] as an area within which the rights of the United Kingdom with respect to the seabed and subsoil and their natural resources may be exercised;
+- “**prescribed employment**” means any employment (whether under a contract of service or not) in a designated area in connection with continental shelf operations, as defined in section 167ZZ6(3) of the Act [^c22446561].
+
+(2) A person in prescribed employment shall be treated as an employee for the purposes of Part 12ZC of the Act notwithstanding that that person may not be employed in Northern Ireland.
+
+### 11. Adoptions from overseas
+
+Schedule 2 applies to adoptions from overseas.
+
+## PART 3 — Statutory paternity pay and statutory adoption pay
+
+### 12.
+
+The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2002 [^c22446571] are amended as follows.
+
+### 13.
+
+(1) Paragraph (2) of regulation 1 is amended as follows.
+
+(2) For the definition of “adopter” substitute—
+
+> “**adopter**”, in relation to a child, means the person with whom a child is, or is expected to be, placed for adoption under the law of any part of the United Kingdom;
+
+.
+
+(3) Before the definition of “serving member of the forces” insert—
+
+> “**placed for adoption**” means—
+>
+> - (a) placed for adoption by virtue of regulation 12 of the Adoption Agencies Regulations (Northern Ireland) 1989;
+> - (b) placed by an authority with a person who is an approved foster parent who is also an approved prospective adopter where the authority—
+>   - (i) is considering adoption for the child, or
+>   - (ii) is satisfied that adoption is in the best interests of the child,
+>
+> and is considering whether that person would be a suitable adoptive parent for that child;
+>
+> - (c) placed for adoption under the Adoption and Children Act 2002 or the Adoption and Children (Scotland) Act 2007; or
+> - (d) placed in accordance with section 22C of the Children Act 1989 with a local authority foster parent who is also a prospective adopter;
+
+.
+
+### 14.
+
+For paragraph (3) of regulation 1 substitute—
+
+> (3) For the purposes of these Regulations—
+>
+> - (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child;
+> - (b) in a case where sub-paragraph (a) applies, a person is notified as having been matched with a child on the date that person receives notification of the agency's decision, under regulation 11(2)(d) of the Adoption Agencies Regulations (Northern Ireland) 1989, regulation 33(3)(a) of the Adoption Agencies Regulations 2005, regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005 or regulation 8(5) of the Adoption Agencies (Scotland) Regulations 2009;
+> - (c) a person is also matched with a child where each of the following conditions is met—
+>   - (i) that person is an approved foster parent and an approved prospective adopter, and the child is, or is expected to be, placed by the authority with that person under Article 27(2)(a) of the Children (Northern Ireland) Order 1995;
+>   - (ii) the authority—
+>     - (aa) is considering adoption for the child, or
+>     - (bb) is satisfied that adoption is in the best interests of the child;
+>   - (iii) the authority is considering whether that person would be a suitable adoptive parent for that child;
+> - (d) in a case where sub-paragraph (c) applies, a person is notified as having been matched with a child on the date on which that person receives notification from the authority that the conditions in that sub-paragraph have been met;
+> - (e) a person is also matched with a child for adoption when a decision has been made in accordance with regulation 22A of the Care Planning, Placement and Case Review (England) Regulations 2010 and an adoption agency has identified that person with whom the child is to be placed in accordance with regulation 12B of the Adoption Agencies Regulations 2005;
+> - (f) in a case where sub-paragraph (e) applies, a person is notified as having been matched with a child on the date on which that person receives notification in accordance with regulation 12B(2)(a) of the Adoption Agencies Regulations 2005.
+>
+> (3A) In this regulation “**approved foster parent**”, “**approved prospective adopter**” and “**authority**” have the same meaning as in section 167ZY(4) of the Act.
+>
+> (3B) In paragraph (d) of the definition of “placed for adoption” in paragraph (2)—
+>
+> - “**local authority foster parent**” means a person approved as a local authority foster parent in accordance with regulations made by virtue of paragraph 12F of Schedule 2 to the Children Act 1989;
+> - “**prospective adopter**” means a person who has been approved as suitable to adopt a child and has been notified of that decision in accordance with regulation 30B(4) of the Adoption Agencies Regulations 2005.
+>
+> (3C) The reference to “adoption agency” in paragraph (3) has the meaning given—
+>
+> - (a) in relation to Northern Ireland, by Article 3(3) of the Adoption (Northern Ireland) Order 1987;
+> - (b) in relation to England and Wales, by section 2(1) of the Adoption and Children Act 2002; and
+> - (c) in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007.
+
+.
+
+Sealed with the Official Seal of the Department for Employment and Learning on 2nd March 2015.
+
+Dr Stephen Farry
+
+Minister for Employment and Learning
+
+We concur in making these regulations
+
+Mark Lancaster
+
+Harriet Baldwin
+
+Two of the Lords Commissioners for Her Majesty's Treasury
+
+## SCHEDULE 1
+
+Regulation 2(1)
+
+### PART 1 — Establishments and organisations
+
+**1.** Any of the regular, naval, military or air forces of the Crown.
+
+**2.** Royal Fleet Reserve.
+
+**3.** Royal Naval Reserve.
+
+**4.** Royal Marines Reserve.
+
+**5.** Army Reserve.
+
+**6.** Territorial Army.
+
+**7.** Royal Air Force Reserve.
+
+**8.** Royal Auxiliary Air Force.
+
+**9.** The Royal Irish Regiment, to the extent that its members are not members of any force falling within paragraph 1.
+
+### PART 2 — Establishments and organisations of which Her Majesty's forces shall not consist
+
+**10.** Her Majesty's forces shall not be taken to consist of any of the establishments or organisations specified in Part 1 of this Schedule by virtue only of the employment in such establishment or organisation of the following persons—
+
+- (a) any person who is serving as a member of any naval force of Her Majesty's forces and who (not having been an insured person under the National Insurance Act (Northern Ireland) 1966 [^c22446581] and not being a contributor under the Social Security (Northern Ireland) Act 1975 [^c22446591] or the Social Security Contributions and Benefits (Northern Ireland) Act 1992) locally entered that force at an overseas base;
+- (b) any person who is serving as a member of any military force of Her Majesty's forces and who entered that force, or was recruited for that force outside the United Kingdom, and the depot of whose unit is situated outside the United Kingdom;
+- (c) any person who is serving as a member of any air force of Her Majesty's forces and who entered that force, or was recruited for that force, outside the United Kingdom, and is liable under the terms of his engagement to serve only in a specified part of the world outside the United Kingdom.
+
+## SCHEDULE 2 — Adoptions from overseas
+
+Regulation 11
+
+### 1. Interpretation
+
+In this Schedule “**the Application Regulations**” means the Social Security Contributions and Benefits Act 1992 (Application of Parts 12ZA, 12ZB and 12ZC to Adoptions from Overseas) Regulations (Northern Ireland) 2003 [^c22446601].
+
+### 2. Application to adoptions from overseas
+
+(1) The provisions of these Regulations, in so far as they apply to statutory shared parental pay (adoption), apply to adoptions from overseas with the modifications set out in paragraphs 3 to 6 and subject to sub-paragraph (2).
+
+(2) Any references in these Regulations to the provisions of Part 12ZC of the Act must be construed as references to the provisions of Part 12ZC as modified by the Application Regulations.
+
+### 3. Modifications of the Regulations for the purposes of adoptions from overseas
+
+The Regulations are modified as follows.
+
+**4.** (1) Regulation 2 (interpretation) is modified as follows.
+
+(2) In paragraph (1)—
+
+- (a) for the definition of “adopter” substitute—
+
+  > “**adopter**”, in relation to a child, means the person by whom a child has been or is to be adopted;
+
+  ;
+- (b) for the definition of “statutory shared parental pay (adoption)” substitute—
+
+  > “**statutory shared parental pay (adoption)**” means statutory shared parental pay payable where entitlement to that pay arises under regulation 17 or 18 of the General Regulations as modified by the Statutory Shared Parental Pay (Adoption from Overseas) Regulations (Northern Ireland) 2015 [^c22446611];
+
+  ;
+- (c) insert the following definitions in the appropriate places alphabetically—
+
+  > -
+  >   - “**enter Northern Ireland**” means enter Northern Ireland from outside the United Kingdom in connection with or for the purposes of adoption;
+
+  ;
+
+  > “**official notification**” means written notification, issued by or on behalf of the relevant central authority, that it is prepared to issue a certificate to the overseas authority concerned with the adoption of the child, or that it has issued a certificate and sent it to that authority, confirming, in either case, that the adopter is eligible to adopt, and has been assessed and approved as being a suitable adoptive parent;
+
+  ;
+
+  > “**relevant central authority**” means—
+  >
+  > - (a) in the case of an adopter to whom the Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003 [^c22446621] apply, the Department of Health, Social Services and Public Safety; and
+  > - (b) in any other case, the Secretary of State;
+
+  .
+
+**5.** In Regulation 3 (application), for paragraph (b) substitute—
+
+> - (b) statutory shared parental pay (adoption) in respect of children who enter Northern Ireland on or after 5th April 2015.
+
+.
+
+**6.** (1) In regulation 7 (entitlement to shared parental pay where person has worked in an EEA State), for paragraph (2) substitute—
+
+> (2) A person who—
+>
+> - (a) is an employee or treated as an employee under regulation 5;
+> - (b) in the week in which the adopter received the official notification was in employed earner's employment with an employer in Northern Ireland; and
+> - (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-e01481dd52c6a90d1625c7afb98b7121] EEA State,
+>
+> shall be treated for the purposes of sections 167ZW and 167ZX of the Act (entitlement to shared parental pay: adoption) as modified by the Application Regulations as having been employed in employed earner's employment in those weeks in which the person was so employed in the EEA[^key-930a65c93c01f3dd2a1727c5553046e9] State.
+
+.
+
+*(This note is not part of the Regulations)*
+
+These Regulations relate to the treatment under Part 12ZC of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 of persons abroad, persons who work as mariners and persons who work on the continental shelf. The effect is that persons who would otherwise not fulfil the qualifying conditions for entitlement to statutory shared parental pay because of the nature of their employment or the fact that they are outside the United Kingdom will have an entitlement to such pay.
+
+Regulation 4 limits the application of the Regulations to cases where the person would be treated as an employee under Part 12ZC of the Act if the employment were in Northern Ireland.
+
+Regulation 5 provides for a person employed in another State of the European Economic Area but subject to the legislation of the United Kingdom to be treated as an employee for the purposes of Part 12ZC.
+
+Regulation 6 provides for a person who is absent from Northern Ireland but in respect of whom an employer has secondary Class 1 national insurance contribution liability to be treated as an employee for the purposes of the Part 12ZC.
+
+Where a person has worked for the same employer both in Northern Ireland and in another State of the European Economic Area, regulation 7 provides, in specified circumstances, for employment in the Member State to be treated as employed earner's employment for the purposes of Part 12ZC. Regulation 8 relaxes any time limit imposed by Part 12ZC of the Act or regulations made under it in relation to a person who cannot comply with the time limit because that person is outside the United Kingdom.
+
+Regulation 9 treats certain classes of mariners as employees for the purposes of Part 12ZC and regulation 10 makes corresponding provision for persons working on the continental shelf.
+
+Regulations 12 to 14 make a number of small amendments to the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2002 to provide new rights to pay for foster parents who are prospective adopters if they have received appropriate notification in respect of a child.
+
+Schedule 2 applies these Regulations, with modifications, to adoptions from overseas.
+
+An impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impacts were assessed within the document ‘Sharing parental rights, extending flexibility at work – public consultation’, published in May 2013 (www.delni.gov.uk/index/consultation-zone/archived-consultations/archived-consultations-2013/working-parents-rights.htm), and supplemented by a further publication in April 2014 (www.delni.gov.uk/index/publications/equality-good-relations/shared-parental-leave-and-pay.htm).
+
+## Annotations
+
+[^c22446321]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [sections 167ZZ6](https://www.legislation.gov.uk/nisr/2015/103/section/167ZZ6) and 167ZZ7 were inserted by the Work and Families Act [2015 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
+
+[^key-680ba839d2c2fdcd712030d2966c94dd]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/103/regulation/2) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/4/2)
+
+[^c22446331]: Marginal citation: S.R. [2015 No. 94](https://www.legislation.gov.uk/ukcm/2015/94).
+
+[^c22446341]: Marginal citation: S.R. [1989 No. 253](https://www.legislation.gov.uk/ukcm/1989/253).
+
+[^c22446351]: Marginal citation: “Approved foster parent”, “**approved prospective adopter**” and “**authority**” are defined in section 167ZY(4) of [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), as inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
+
+[^c22446361]: Marginal citation: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c22446371]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^c22446381]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); [section 22C](https://www.legislation.gov.uk/nisr/2015/103/section/22C) was inserted by the [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [section 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1).
+
+[^c22446391]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389).
+
+[^c22446401]: Marginal citation: [S.I. 2005/1313](https://www.legislation.gov.uk/uksi/2005/1313).
+
+[^c22446411]: Marginal citation: [S.S.I. 2009/154](https://www.legislation.gov.uk/ssi/2009/154).
+
+[^c22446421]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^c22446431]: Marginal citation: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959); amended by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556); there is another amending instrument but it is not relevant.
+
+[^c22446441]: Marginal citation: [S. I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389); amended by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556); there are other amending instruments but none is relevant.
+
+[^c22446451]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); [paragraph 12F](https://www.legislation.gov.uk/nisr/2015/103/paragraph/12F) was inserted by the Children and Young Persons Act 2008, Schedule 1, paragraph 4.
+
+[^c22446461]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); [Article 3(3)](https://www.legislation.gov.uk/nisr/2015/103/article/3/3) was amended by [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429).
+
+[^c22446471]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c22446481]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^key-388270a56a4e9873f249681b9edebd18]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/103/regulation/3) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/5)
+
+[^c22446491]: Marginal citation: [Part 12ZC](https://www.legislation.gov.uk/nisr/2015/103/part/12ZC) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [s. 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
+
+[^key-5fe1549e0b0adec22c37374de22ad24d]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/nisr/2015/103/regulation/5) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fb1fae785582c93f221c76ffc1c5d3c6]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2015/103/regulation/5/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22446501]: Marginal citation: O.J. No. L28, 30.1.1997, p.1.
+
+[^key-5cbe1a95872db09ace629c3b2e839690]: Textual amendment: Words in reg. 5(b) inserted (5.3.2019) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/2/b/ii), [Sch. para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/c)
+
+[^c22446511]: Marginal citation: [Section 6](https://www.legislation.gov.uk/nisr/2015/103/section/6) was substituted by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 10](https://www.legislation.gov.uk/ukpga/1999/30/schedule/10), [paragraph 3](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/3), and by the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [section 81(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/81/3).
+
+[^c22446521]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), amended by [S.I. 2007/1838](https://www.legislation.gov.uk/uksi/2007/1838).
+
+[^key-e366d6e2d20b5e8aef3cea554a0dcca8]: Modification: Reg. 7 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1)
+
+[^key-978b591450ffcbb8a0a1fcb68ec8143d]: Textual amendment: Word in [reg. 7(1)(c)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/1/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22446531]: Marginal citation: Section 167ZU was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
+
+[^key-5d1aeedde9f1a18e90bf26b678a0c843]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e5d5f6272e3e18d5cc669fc574ffffe8]: Textual amendment: Word in [reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/2/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22446541]: Marginal citation: Section 167ZW was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
+
+[^key-ea0d57690a920958d3460b3e06aeee77]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22446551]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); [section 1(7)](https://www.legislation.gov.uk/nisr/2015/103/section/1/7) was amended by the [Oil and Gas (Enterprise) Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23), [section 37](https://www.legislation.gov.uk/ukpga/1982/23/section/37), and Schedule 3, paragraph 1, and the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [section 103](https://www.legislation.gov.uk/ukpga/2011/16/section/103).
+
+[^c22446561]: Marginal citation: [Section 167ZZ6](https://www.legislation.gov.uk/nisr/2015/103/section/167ZZ6) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
+
+[^c22446571]: Marginal citation: S.R. [2002 No. 382](https://www.legislation.gov.uk/ukcm/2002/382); amended by S.R. [2010 No. 306](https://www.legislation.gov.uk/ukcm/2010/306).
+
+[^c22446581]: Marginal citation: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6).
+
+[^c22446591]: Marginal citation: [1976 c. 15](https://www.legislation.gov.uk/ukpga/1976/15).
+
+[^c22446601]: Marginal citation: S.R. [2003 No. 221](https://www.legislation.gov.uk/ukcm/2003/221), as amended for relevant purposes by S.R. [2015 No. 88](https://www.legislation.gov.uk/ukcm/2015/88).
+
+[^c22446611]: Marginal citation: S.R. [2015 No. 99](https://www.legislation.gov.uk/ukcm/2015/99).
+
+[^c22446621]: Marginal citation: S.R. [2003 No. 16](https://www.legislation.gov.uk/ukcm/2003/16), to which there are amendments not relevant to these Regulations.
+
+[^key-e01481dd52c6a90d1625c7afb98b7121]: Textual amendment: Word in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-930a65c93c01f3dd2a1727c5553046e9]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

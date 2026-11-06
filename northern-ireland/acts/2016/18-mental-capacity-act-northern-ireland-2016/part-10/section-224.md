@@ -1,0 +1,51 @@
+---
+title: Mental Capacity Act (Northern Ireland) 2016, section 224
+act: Mental Capacity Act (Northern Ireland) 2016
+section: '224'
+status: not-yet-in-force
+text_date: '2022-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2016/18/section/224
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Capacity Act (Northern Ireland) 2016, section 224
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 224. General provisions about hospital transfer directions
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) In this Part “**hospital transfer direction**” means a direction under—
+
+- (a) section 211 (transfer of person serving custodial sentence etc to hospital);
+- (b) section 214 (transfer of civil prisoner or immigration detainee to hospital);
+- (c) section 217 (transfer to hospital of person remanded in custody by magistrates' court); or
+- (d) section 220 (transfer of certain other detainees to hospital).
+
+(2) If—
+
+- (a) a hospital transfer direction is given in respect of a person, and
+- (b) the person has not been admitted to the hospital specified in the direction by the end of the period of 14 days beginning with the date of the direction,
+
+the direction ceases to have effect at the end of that period.
+
+(3) Any question whether a person may be given any treatment while detained in hospital in pursuance of a hospital transfer direction is (subject to section 243) to be determined in the same way as if the person were not so detained.
+
+(4) Subsection (5) applies if—
+
+- (a) a hospital transfer direction is given in respect of a person; and
+- (b) the responsible medical practitioner is of the opinion that the person lacks (or probably lacks) capacity in relation to whether an application under section 225 (applications to Tribunal) should be made.
+
+(5) The responsible medical practitioner must as soon as practicable give the Attorney General—
+
+- (a) notice of the matters mentioned in subsection (4)(a) and (b); and
+- (b) any prescribed information.
+
+(6) Any power under this Chapter to direct that a person be removed to a hospital includes a power, if the person is already in a hospital, to direct that the person remain in the hospital.

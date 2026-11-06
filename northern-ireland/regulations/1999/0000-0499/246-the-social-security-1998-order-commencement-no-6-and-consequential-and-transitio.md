@@ -1,0 +1,789 @@
+---
+title: The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999
+id: nisr/1999/246
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '1999-05-28'
+text_date: '2012-12-10'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1999/246
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/1999/246/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999
+
+> Text as at 2012-12-10.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+1999 No. 246 (C. 20)
+
+SOCIAL SECURITY
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999
+
+Made
+
+28th May 1999
+
+The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) and (4) of the Social Security (Northern Ireland) Order 1998[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
+
+## 1. Citation and interpretation
+
+(1) This Order may be cited as the Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999.
+
+(2) In this Order “the Order” means the Social Security (Northern Ireland) Order 1998.
+
+## 2. Appointed day
+
+In so far as they are not already in operation, the day appointed for the coming into operation of the provisions of the Order specified in Schedule 1 is 1st June 1999.
+
+## 3. Commencement
+
+(1) Subject to paragraphs (2) and (3), this Article and Articles 4 to 25 and 26(2) shall come into operation on 1st June 1999.
+
+(2) Article 9(9)(c) and (f) shall come into operation on 4th October 1999.
+
+(3) Article 7(7)(b) shall come into operation on 29th November 1999.
+
+(4) Any provision of this Order which is due to come into operation on the same day as a provision of the Regulations set out in paragraph (5) shall come into operation immediately after that provision.
+
+(5) The provisions referred to in paragraph (4) are—
+
+- (a) regulation 4(5)(a) and (d) of the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999[^f00002]; and
+- (b) regulation 2(9)(c)(i), (12), (18) and (22) of the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999[^f00003].
+
+## CONSEQUENTIAL AMENDMENTS
+
+### 4. Amendment of the Family Credit (General) Regulations
+
+In regulation 51A of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00004] (reduced benefit direction)—
+
+- (a) in paragraph (1)(a) “given by a child support officer” shall be omitted; and
+- (b) paragraph (2)(a) shall be omitted.
+
+### 5. Amendment of the Social Security (Claims and Payments) Regulations
+
+In paragraph 7A(1) of Schedule 8A to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^M_F_fab8a1a2-d463-45c4-f8bb-7845cdf6c088][^f00005] (payments in place of payments of child support maintenance) for “a child support officer (within the meaning of Article 15 of the Child Support (Northern Ireland) Order 1991)” there shall be substituted “the Department”. *(affected by repeal, see note)*[^M_F_fab8a1a2-d463-45c4-f8bb-7845cdf6c088]
+
+### 6. Amendment of the Disability Working Allowance (General) Regulations
+
+In regulation 56A of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00006] (reduced benefit direction)—
+
+- (a) in paragraph (1)(a) “given by a child support officer” shall be omitted; and
+- (b) paragraph (2)(a) shall be omitted.
+
+### 7. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-87d28862cc74b4efe5905364eed1d123]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-555ded6b56eb5f493457d5678fadb661]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-555ded6b56eb5f493457d5678fadb661]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations
+
+(1) The Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations (Northern Ireland) 1992[^f00036] shall be amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 3 (liability to make payments of interest with respect to arrears)—
+
+- (a) in paragraph (4) for “following a review under Article 18, 19, 20 or 21 of the Order or” there shall be substituted “by virtue of a revision under Article 18 of the Order, a decision under Article 19 of the Order superseding an earlier decision or of”;
+- (b) in paragraph (5) for “following a review under Article 18, 19, 20 or 21 of the Order or” there shall be substituted “made by virtue of a revision under Article 18 of the Order, a decision under Article 19 of the Order superseding an earlier decision or of”; and
+- (c) in paragraph (6) for “the review under Article 18, 19, 20 or 21 of the Order or an appeal under Article 22 of the Order results in” there shall be substituted “by virtue of a revision under Article 18 of the Order, a decision under Article 19 of the Order superseding an earlier decision or of an appeal under Article 22 of the Order there is”.
+
+(3) In regulation 4(2)(b) (circumstances in which no liability to pay interest arises) “or a child support officer” shall be omitted.
+
+(4) In regulation 10[^f00037] (adjustment of the amount payable under a maintenance assessment)—
+
+- (a)[^key-836b34212161fbbaad704be9e53aa3bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-836b34212161fbbaad704be9e53aa3bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-e1dd2168c553a18b3c03e6baa1621a8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-e1dd2168c553a18b3c03e6baa1621a8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-de95520965501cf4b43202f98a8f220b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-de95520965501cf4b43202f98a8f220b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-9e5b95f687c65e15565d30007091556d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendment of the Child Support (1991 Order) (Commencement No. 3 and Transitional Provisions) Order
+
+In Part II of the Schedule to the Child Support (1991 Order) (Commencement No. 3 and Transitional Provisions) Order (Northern Ireland) 1992[^f00043] (modification of maintenance assessment in certain cases)—
+
+- (a) in paragraph 5 in the definition of “formula amount” and in paragraph 7 for “consequent on a review under Article 19, 20 or 21 of the Order” there shall be substituted “by virtue of a revision under Article 18 of the Order or a decision under Article 19 of the Order superseding an earlier decision”;
+- (b) in paragraph 9 for “a child support officer” there shall be substituted “the Department”; and
+- (c) in paragraph 11—
+  - (i) in sub-paragraph (1) for “there is a review of a previous assessment under Article 19 of the Order (reviews on change of circumstances)” there shall be substituted “a decision is made under Article 19 of the Order which supersedes an earlier decision on the ground that there has been a material change of circumstances since the decision took effect”,
+  - (ii) in sub-paragraph (2) for “the child support officer determines that, were a fresh assessment to be made as a result of the review” there shall be substituted “the Department determines that, were a fresh assessment to be made by virtue of a decision under Article 19 of the Order superseding an earlier decision”, and
+  - (iii) in sub-paragraph (3) for “The child support officer” there shall be substituted “The Department” and for “19 to 21” there shall be substituted “20 and 21”.
+
+### 13. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations
+
+(1) The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00044] shall be amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 4(3) (relationship between maintenance assessments and certain agreements) for “a child support officer” there shall be substituted “the Department”.
+
+(3) In regulation 5 (notifications by child support officers)—
+
+- (a) in the heading for “by child support officers” there shall be substituted “by the Department”; and
+- (b) in paragraph (1) for “a child support officer” there shall be substituted “the Department” and for “he” there shall be substituted “it”.
+
+(4)[^key-d0125767bbaabc7c3f43a0259542c2c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In regulation 8(1)(c) (maintenance assessments and maintenance orders made in error) for “the child support officer” there shall be substituted “the Department”.
+
+### 14. Amendment of the Child Support (Miscellaneous Amendments and Transitional Provisions) Regulations
+
+(1) The Child Support (Miscellaneous Amendments and Transitional Provisions) Regulations (Northern Ireland) 1994[^f00045] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 6 (interpretation)—
+
+- (a) in paragraph (1) in the definition of “transitional period” in paragraph (a) for “is reviewed” there shall be substituted “was reviewed or, as the case may be, a decision is made superseding an earlier decision,”; and
+- (b) in paragraph (2) for “the child support officer” there shall be substituted “the Department”.
+
+(3) In regulation 9 (procedure)—
+
+- (a) in paragraph (1) at the end there shall be added “before 1st June 1999 or an application on or after that date for a decision under Article 19 of the Order superseding an earlier decision”; and
+- (b) for paragraph (3) there shall be substituted the following paragraph—
+
+  > (3) Regulation 10(2) of the Maintenance Assessment Procedure Regulations shall not apply in respect of a decision made solely for the purpose of applying Part III but instead the Department shall notify the relevant persons (as defined in regulation 1(2) of the Maintenance Assessment Procedure Regulations) of the detail of how the provisions of Part III have been applied in that case.
+
+  .
+
+(4) For regulations 10 and 11 there shall be substituted the following regulations—
+
+> **10. Revision and supersession**
+>
+> (1) The provisions of the following paragraphs shall apply where the Department proposes to make a decision under Article 18 or 19 of the Order with respect to a maintenance assessment under which the amount payable was the transitional amount.
+>
+> (2) Where a fresh maintenance assessment would be made by virtue of a decision under Article 18 or 19 of the Order and the amount payable under that assessment (disregarding the provisions of Part III) (in this regulation called “the new formula amount”) would be—
+>
+> - (a) more than the formula amount, the amount of child support maintenance payable shall be the transitional amount plus the difference between the formula amount and the new formula amount;
+> - (b) less than the formula amount but more than the transitional amount, the amount of the child support maintenance payable shall be the transitional amount; or
+> - (c) less than the transitional amount, the amount of child support maintenance payable shall be the new formula amount.
+>
+> (3) Regulations 21 and 22 of the Maintenance Assessment Procedure Regulations shall apply as if the new formula amount were the amount which would be fixed in accordance with a decision superseding an earlier decision.
+>
+> (4) Where the effective date of a fresh maintenance assessment made by virtue of a revision under Article 18 of the Order or of a decision under Article 19 of the Order superseding an earlier decision would, apart from this regulation, be before 18th April 1995—
+>
+> - (a) the fresh maintenance assessment; and
+> - (b) the decision under Article 18 or, as the case may be, Article 19,
+>
+> shall take effect from 18th April 1995.
+>
+> **11. Decisions consequent on the amendments made by Part II**
+>
+> (1) A fresh maintenance assessment shall not be made by virtue of a decision under Article 19 of the Order superseding an earlier decision in consequence only of the amendments made by Part II where the amount of child support maintenance fixed by the assessment currently in force and the amount that would be fixed if a fresh assessment were to be made under that Article is less than £1£00 per week.
+>
+> (2) Except in relation to the amendment made by regulation 5(6), where a fresh maintenance assessment is made by virtue of a decision under Article 19 of the Order superseding an earlier decision in consequence only of the amendments made by Part II, the date from which—
+>
+> - (a) the fresh maintenance assessment; and
+> - (b) the decision under Article 18 or, as the case may be, Article 19,
+>
+> shall take effect shall be 7th February 1994.
+
+.
+
+### 15. Amendment of the Child Support and Income Support (Amendment) Regulations
+
+(1) The Child Support and Income Support (Amendment) Regulations (Northern Ireland) 1995[^f00046] shall be amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 1(2) (interpretation) before the definition of “the Appeals Regulations” there shall be inserted the following definition—
+
+> - “the Order” means the Child Support (Northern Ireland) Order 1991;
+
+.
+
+(3) In regulation 12 (reviews consequent upon the amendments made by these regulations)—
+
+- (a) in paragraph (1) for the words from the beginning to “result of the review is—” there shall be substituted “Subject to paragraph (3), a decision with respect to a maintenance assessment in force on 13th April 1995 or 18th April 1995 shall not be superseded by a decision under Article 19 of the Order if the difference between the amount of child support maintenance currently in force and the amount that would be fixed if the fresh assessment were to be made as a result of a supersession is—”;
+- (b) in paragraph (3)—
+  - (i) for “a review which is made” there shall be substituted “a decision under Article 19 of the Order which falls to be made”, and
+  - (ii) for “notifies” there shall be substituted “notified”;
+- (c) paragraphs (4) and (5) shall be omitted; and
+- (d) in paragraph (6)—
+  - (i) in sub-paragraph (a) for “a child support officer to consider the question of” there shall be substituted “the question to be considered”, and
+  - (ii) for “upon a review under Article 21 of the Order” there shall be substituted “by virtue of a decision under Article 19 of the Order superseding an earlier decision”.
+
+(4) In regulation 13 (transitional provisions)—
+
+- (a) in paragraph (3) for the words from “a child support officer” to the end there shall be substituted “a relevant person applies for a decision under Article 19 of the Order superseding an earlier decision on the ground that a qualifying transfer of property has been made or that he has travelling costs”; and
+- (b) in paragraph (4)—
+  - (i) in sub-paragraph (a) for “a review of” there shall be substituted “a decision under Article 19 of the Order superseding a decision with respect to”; and
+  - (ii) for sub-paragraph (b) there shall be substituted the following sub-paragraph—
+
+    > - (b) a decision under regulation 13 or 16 of the Arrears Regulations is made on an application made by a relevant person.
+
+    .
+
+### 16. Amendment of the Child Support (Miscellaneous Amendments No. 2) Regulations
+
+(1) The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1995[^f00047] shall be amended in accordance with paragraphs (2) and (3).
+
+(2) For regulation 11 (reviews consequent on amendments made by these Regulations) there shall be substituted the following regulation—
+
+> **11. Supersessions consequent on amendments made by these Regulations**
+>
+> (1) Where a fresh assessment is made by virtue of a decision under Article 19 of the Order superseding an earlier decision in consequence of the coming into operation of regulation 4(10)—
+>
+> - (a) the decision under Article 19; and
+> - (b) that fresh maintenance assessment,
+>
+> shall take effect from the first day of the maintenance period following 18th December 1995.
+>
+> (2) In this regulation and regulation 12 “the Order” means the Child Support (Northern Ireland) Order 1991.
+
+.
+
+(3) In regulation 12 (transitional and consequential provisions)—
+
+- (a) for paragraph (1) there shall be substituted the following paragraph—
+
+  > (1) A decision with respect to a maintenance assessment shall not be superseded by a decision under Article 19 of the Order solely to give effect to the provisions set out in paragraph (2).
+
+  ;
+- (b) in paragraph (3) for “Where a review” there shall be substituted “Where a decision is made under Article 19 of the Order superseding an earlier decision” and for “that review” there shall be substituted “that decision”; and
+- (c) paragraph (4) shall be omitted.
+
+### 17. Amendment of the Child Support (Compensation for Recipients of Family Credit and Disability Working Allowance) Regulations
+
+In regulation 5 of the Child Support (Compensation for Recipients of Family Credit and Disability Working Allowance) Regulations (Northern Ireland) 1995[^f00048] (calculation of compensation in particular cases) for paragraphs (1) to (4) there shall be substituted the following paragraphs—
+
+> (1) Where a revised assessment is replaced by a fresh maintenance assessment of a different amount by virtue of a revision under Article 18 of the Order of 1991, the compensation payment calculated under Article 17 of the 1995 Order shall be recalculated using the amount due under the fresh maintenance assessment in place of the amount due under the revised assessment.
+>
+> (2) Subject to paragraph (3), where the earlier assessment is replaced by a fresh assessment—
+>
+> - (a) which was made after the revised assessment, and
+> - (b) the effective date of that fresh assessment is before the date on which the revised assessment was made,
+>
+> the amount payable under the fresh assessment shall be ignored for the purposes of the calculation of a compensation payment under Article 17 of the 1995 Order.
+>
+> (3) In a case where the circumstances in paragraphs (1) and (2) apply the compensation payable under Article 17 of the 1995 Order shall be recalculated using the amount due under the fresh assessments referred to in paragraphs (1) and (2).
+
+.
+
+### 18. Amendment of the Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations
+
+For regulation 11 of the Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1996[^f00049] (transitional provision relating to maintenance assessments) there shall be substituted the following regulation—
+
+> **11.** (1) A decision with respect to a maintenance assessment in force on 7th April 1997 shall not be superseded by a decision under Article 19 of the Order solely to give effect to these Regulations.
+>
+> (2) These Regulations shall apply to a fresh maintenance assessment made by virtue of—
+>
+> - (a) a revision under Article 18 of the Order of a decision with respect to a maintenance assessment; or
+> - (b) a decision under Article 19 of the Order which supersedes a decision with respect to a maintenance assessment,
+>
+> as from the effective date of that revision under Article 18 of the Order or, as the case may be, decision under Article 19 of the Order.
+>
+> (3) In this regulation “the Order” means the Child Support (Northern Ireland) Order 1991.
+
+.
+
+### 19. Amendment of the Child Support (Miscellaneous Amendments) Regulations
+
+In regulation 7(5) of the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1996[^f00050] (transitional provisions) for the words from “and those provisions” to the end there shall be substituted “and a decision with respect to a maintenance assessment in force on that date shall not be superseded by a decision under Article 19 of the Child Support (Northern Ireland) Order 1991 solely to give effect to the provisions of regulation 19 as amended by regulation 4(7).”.
+
+### 20. Amendment of the Child Support (Miscellaneous Amendments No. 2) Regulations
+
+In regulation 6 of the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1996[^f00051] (transitional provisions)—
+
+- (a) for paragraph (1) there shall be substituted the following paragraph—
+
+  > (1) A decision with respect to a maintenance assessment in force on 13th January 1997 shall not be superseded by a decision under Article 19 of the Child Support (Northern Ireland) Order 1991 solely to give effect to these Regulations.
+
+  ; and
+- (b) in paragraph (2) “made following a review mentioned in paragraph (1)” shall be omitted.
+
+### 21. Amendment of the Child Support (Miscellaneous Amendments) Regulations
+
+For regulation 11 of the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1998[^f00052] (transitional provisions) there shall be substituted the following regulation—
+
+> **11.** (1) A decision with respect to a maintenance assessment in force on 19th January 1998 shall not be superseded by a decision under Article 19 of the Order solely to give effect to regulation 4(2)(a)(iii), (8) or (14)(a)(i) and (ii).
+>
+> (2) The regulations specified in paragraph (1) shall apply to a fresh maintenance assessment made by virtue of—
+>
+> - (a) a revision under Article 18 of the Order of a decision with respect to a maintenance assessment; or
+> - (b) a decision under Article 19 of the Order which supersedes a decision with respect to a maintenance assessment,
+>
+> from whichever is the later of—
+>
+> - (i) the date from which that revision or, as the case may be, supersession takes effect, or
+> - (ii) the first day of the first maintenance period which begins on or after 19th January 1998, as the case may be.
+>
+> (3) A decision with respect to a maintenance assessment in force on 6th April 1998 shall not be superseded by a decision under Article 19 of the Order solely to give effect to regulations 4(4), (5), (10), (12), (13) and (14)(d) and 5.
+>
+> (4) The regulations specified in paragraph (3) shall apply to a fresh maintenance assessment made by virtue of—
+>
+> - (a) a revision under Article 18 of the Order of a decision with respect to a maintenance assessment; or
+> - (b) a decision under Article 19 of the Order which supersedes a decision with respect to a maintenance assessment,
+>
+> from whichever is the later of—
+>
+> - (i) the date from which that revision or, as the case may be, supersession takes effect, or
+> - (ii) the first day of the first maintenance period which begins on or after 6th April 1998, as the case may be.
+>
+> (5) In this regulation “the Order” means the Child Support (Northern Ireland) Order 1991.
+
+.
+
+### 22. Amendment of the Child Support (Miscellaneous Amendments) Regulations
+
+For regulation 7 of the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999[^f00053] (transitional provisions) there shall be substituted the following regulation—
+
+> **7.** (1) A decision with respect to a maintenance assessment in force on the first or second commencement day shall not be superseded by a decision under Article 19 of the Order solely to give effect to these Regulations.
+>
+> (2) These Regulations shall apply to a fresh maintenance assessment made by virtue of—
+>
+> - (a) a revision under Article 18 of the Order of a decision with respect to a maintenance assessment; or
+> - (b) a decision under Article 19 of the Order which supersedes a decision with respect to a maintenance assessment,
+>
+> from whichever is the later of—
+>
+> - (i) the date from which that revision or, as the case may be, supersession takes effect, or
+> - (ii) the first day of the first maintenance period which begins on or after the first or second commencement day, as the case may be.
+>
+> (3) In this regulation “the Order” means the Child Support (Northern Ireland) Order 1991.
+
+.
+
+## TRANSITIONAL PROVISIONS AND REVOCATIONS
+
+### 23. Child support
+
+(1) Any decision which fell to be made, but was not made, before 1st June 1999 by a child support officer shall be made by the Department.
+
+(2) Except for the purposes of paragraph (6) and any provision as to the time within which an appeal is to be brought, a decision of a child support officer shall be treated as a decision of the Department made under—
+
+- (a) subject to sub-paragraph (b) and paragraph (3), the provision under which the child support officer made the decision; or
+- (b) Article 19 of the Child Support Order where the child support officer made the decision under Article 20 or 21 of that Order.
+
+(3) A fresh maintenance assessment made pursuant to Article 18(4) of the Child Support Order by virtue of the saving in Article 3(3) of the Social Security (1998 Order) (Commencement No. 2) Order (Northern Ireland) 1998[^f00054] shall be treated for the purpose of subsequent decisions as if it were made by virtue of a decision of the Department under Article 19 of the Child Support Order.
+
+(4) For the purposes of a fresh maintenance assessment which falls to be made pursuant to Article 18(4) of the Child Support Order by virtue of the saving in Article 3(3) of the Social Security (1998 Order) (Commencement No. 2) Order (Northern Ireland) 1998, “relevant week” in the Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992 shall mean, notwithstanding regulation 1(2) of those Regulations, the period of 7 days immediately preceding the date on which a request for information or evidence was made under regulation 16(5) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992 as that provision was in operation when that request was sent.
+
+(5) The date on which the fresh maintenance assessment mentioned in paragraph (4) made on or after 1st June 1999 takes effect shall be determined in accordance with the provisions of Article 18(5) of the Child Support Order and regulations made thereunder as those provisions were in operation immediately before 1st June 1999.
+
+(6) An application which was not determined before 1st June 1999 for a review of a decision of a child support officer shall be treated—
+
+- (a) in a case where the application—
+  - (i) is received within one month of the date of notification of the decision which is the subject of the application or such longer period as may be allowed by Article 20; and
+  - (ii) is made other than on the ground of a relevant change of circumstances,
+
+  as an application to the Department for a revision of a decision under Article 18 of the Child Support Order; and
+- (b) in any other case, as an application to the Department for a decision under Article 19 of the Child Support Order superseding an earlier decision.
+
+(7) A revision under Article 18 of the Child Support Order of a decision made before 22nd January 1996 to cancel a Category B interim maintenance assessment (within the meaning of regulation 8(3)(b) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00055]) shall take effect from 22nd January 1996.
+
+(8) For the purposes of paragraph (9), this paragraph applies where the decision of the Department—
+
+- (a) supersedes a decision of a child support officer; and
+- (b) is made on the basis of information or evidence which was not provided by a relevant person directly.
+
+(9) Where paragraph (8) applies, a decision which supersedes an earlier decision shall take effect from the first day of the maintenance period in which that information or evidence was received by—
+
+- (a) except where sub-paragraph (b) applies, an officer of the Department exercising functions under the Child Support Order; or
+- (b) a child support officer.
+
+(10) Where—
+
+- (a) a departure direction under Article 28F of the Child Support Order takes effect on 1st June 1999;
+- (b) the applicant in response to whose application that direction was given made a later application before 1st June 1999 for a departure direction—
+  - (i) on grounds additional to the grounds in respect of which the earlier direction was given, or
+  - (ii) on the basis that there has been a change of circumstances in respect of any of those grounds; and
+- (c) that later application was not determined before 1st June 1999,
+
+that application shall be treated as if it were made under Article 19 of, as extended by paragraph 2 of Schedule 4C to, the Child Support Order for a decision superseding an earlier decision.
+
+(11) A decision made by virtue of paragraph (10) which supersedes an earlier decision shall take effect from the first day of the maintenance period in which the later application was made.
+
+(12) A decision made—
+
+- (a) by the Department on its own initiative under Article 19 of, as extended by paragraph 2 of Schedule 4C to, the Child Support Order superseding an earlier decision with respect to a departure direction; and
+- (b) made on the basis of information or evidence provided to it before 1st June 1999 by a person who is not the applicant in response to whose application the departure direction was given,
+
+shall take effect from the first day of the maintenance period in which that information or evidence was provided to the Department.
+
+(13) A decision of—
+
+- (a) the Department made before 1st June 1999 with respect to a departure direction; or
+- (b) a child support appeal tribunal upon referral under Article 28D(1)(b) of the Child Support Order,
+
+may be revised under Article 18 of, as extended by paragraph 1 of Schedule 4C to, the Child Support Order in consequence of information or evidence—
+
+- (i) received by the Department from a relevant person within one month of the date of notification of that decision or such longer period as may be allowed by Article 24, and
+- (ii) not acted upon before 1st June 1999 .
+
+(14) Except for the purposes of paragraph (16), an appeal to a child support appeal tribunal which was not determined before 1st June 1999—
+
+- (a) shall be treated as an appeal to an appeal tribunal;
+- (b) brought against a decision of a child support officer, shall be treated as an appeal brought against a decision of the Department; and
+- (c) may not be withdrawn without the consent in writing of every other party to the proceedings.
+
+(15) In paragraphs (14) and (28) “party to the proceedings” means—
+
+- (a) the absent parent (within the meaning given to that expression in Article 4(2) of the Child Support Order);
+- (b) the person with care (within the meaning given to that expression in Article 4(3) of the Child Support Order); and
+- (c) the Department.
+
+(16) Regulations 3(1A) to (11B) (making an appeal or application and time limits) and 15 (setting aside) of the Child Support Appeal Tribunals (Procedure) Regulations (Northern Ireland) 1993[^f00056] (in this Article referred to as “the Procedure Regulations”) shall continue to apply (notwithstanding their revocation) for the purposes specified in paragraph (17) subject to the modifications to those regulations specified respectively in paragraphs (18) and (19).
+
+(17) Paragraph (16) applies for the purposes of—
+
+- (a) any appeal against a decision—
+  - (i) of the Department, made before 1st June 1999 on an application for a departure direction, or
+  - (ii) of a child support officer; and
+- (b) any application to set aside a decision of a child support appeal tribunal.
+
+(18) In regulation 3 of the Procedure Regulations—
+
+- (a) in paragraph (1A)[^f00057] for “in paragraph (1)” there shall be substituted “in Article 23(17) of the Social Security (1998 Order) (Commencement No. 6 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999”;
+- (b) in paragraph (3) for “under Article 22(1) of the Order” there shall be substituted “against a decision of a child support officer”;
+- (c) for paragraph (6) there shall be substituted the following paragraph—
+
+  > (6) Where an appeal or application is made—
+  >
+  > - (a) after the specified time has expired; and
+  > - (b) before 1st July 2000,
+  >
+  > that time may for special reasons be extended by a legally qualified panel member to the date of the making of the appeal or application.
+
+  ;
+- (d) in paragraph (7) for “a chairman” there shall be substituted “a legally qualified panel member”;
+- (e) in paragraphs (7), (9A)[^f00058], (11) and (11A) for “the chairman” there shall be substituted “the legally qualified panel member”;
+- (f) in paragraph (8) for “any chairman” there shall be substituted “a legally qualified panel member”; and
+- (g) after paragraph (11B) there shall be added the following paragraph—
+
+  > (11C) In this regulation—
+  >
+  > - “legally qualified panel member” has the same meaning as in regulation 1(2) of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00059]; and
+  > - “tribunal” means an appeal tribunal constituted under Article 8 of the Social Security (Northern Ireland) Order 1998[^f00060].
+
+  .
+
+(19) In regulation 15 of the Procedure Regulations—
+
+- (a) in paragraph (1) after “on an application made” there shall be inserted “before 1st July 2000” and for “the tribunal who gave the decision or by another tribunal” there shall be substituted “a tribunal”;
+- (b) in paragraph (5) “regulation 2 and” shall be omitted; and
+- (c) after paragraph (5) there shall be added the following paragraph—
+
+  > (6) Except in paragraph (1)(a) “tribunal” in this regulation means an appeal tribunal constituted under Article 8 of the Social Security (Northern Ireland) Order 1998.
+
+  .
+
+(20) Paragraphs (21) to (24) shall apply where—
+
+- (a) the clerk to the tribunal gave a direction under regulation 11(1)[^f00061] (hearings) of the Procedure Regulations; and
+- (b) notification under that provision was not received by him before the appointed day.
+
+(21) A notification in response to a direction given under regulation 11(1) of the Procedure Regulations shall be in writing and shall be made within 14 days of receipt of the direction or within such other period as the clerk to the appeal tribunal may direct.
+
+(22) An appeal may be struck out by a clerk to the appeal tribunal where a notification referred to in paragraph (21) is not received within the period specified in that paragraph.
+
+(23) An appeal which has been struck out in accordance with paragraph (22) shall be treated for the purpose of reinstatement as if it had been been struck out under regulation 46 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999.
+
+(24) An oral hearing of the appeal shall be held where—
+
+- (a) notification is received by the clerk to the appeal tribunal under paragraph (21); or
+- (b) the chairman, or in the case of an appeal tribunal which has only one member, that member, is satisfied that such a hearing is necessary to enable the appeal tribunal to reach a decision.
+
+(25) A legally qualified panel member may reinstate an appeal which has been struck out under regulation 6 of the Procedure Regulations on application made by any party to the proceedings not later than three months from the date of the order under paragraph (1) of that regulation if he is satisfied that—
+
+- (a) the applicant did not receive a notice under paragraph (2) of that regulation; and
+- (b) the conditions in paragraph (2A) of that regulation were not satisfied.
+
+(26) In paragraph (25) “legally qualified panel member” has the same meaning as in regulation 1(2) of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999.
+
+(27) Notwithstanding the revocation of the Procedure Regulations, information such as was mentioned in regulation 17(2) of those Regulations immediately before that regulation was revoked shall not be disclosed if a written notification is received under that regulation within the period specified in that regulation.
+
+(28) A copy of a statement of—
+
+- (a) the reasons for a child support appeal tribunal’s decision;
+- (b) its findings on questions of fact material thereto; and
+- (c) the terms of any—
+  - (i) direction under Article 22(4) of the Child Support Order (before that provision was substituted by Article 42 of the Order); and
+  - (ii) decision made by the tribunal under Article 28H(4)(c) of the Child Support Order (before that provision was substituted by paragraph 24 of Schedule 6 to the Order) or on a referral,
+
+  shall be supplied to each party to the proceedings if requested by any of them within 21 days of the date on which notification of the decision was given or sent.
+
+(29) Except for the purposes of—
+
+- (a) the Child Support Commissioners (Procedure) Regulations (Northern Ireland) 1999[^f00062];
+- (b) paragraphs (16) and (28); or
+- (c) determining whether any irregularity resulted from failure to comply with the requirements of the Procedure Regulations,
+
+a decision of a child support appeal tribunal shall be treated as a decision of an appeal tribunal.
+
+(30) An appeal tribunal shall completely rehear any appeal to a child support appeal tribunal which stands adjourned immediately before 1st June 1999.
+
+(31) For the purpose of Article 19(1) of the Child Support Order, a decision of a Child Support Commissioner on an appeal from a child support appeal tribunal shall be treated as a decision of a Child Support Commissioner on an appeal from an appeal tribunal.
+
+(32) In this Article “maintenance period” has the same meaning as in regulation 1(2) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992.
+
+(33) In this Article and Article 24 “relevant person” has the same meaning as in regulation 1(2) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992.
+
+### 24. Late application for a revision
+
+(1) The period of one month specified in Article 23(6)(a)(i) or (13)(i) may be extended where the requirements specified in the following provisions of this Article are satisfied.
+
+(2) An application for an extension of time shall—
+
+- (a) be made before 1st July 2000 by a relevant person or a person acting on his behalf; and
+- (b) contain—
+  - (i) particulars of the grounds on which the extension of time is sought, and
+  - (ii) sufficient details of the decision which it is sought to have revised to enable that decision to be identified.
+
+(3) An application for an extension of time shall not be granted unless the person making the application or any person acting for him satisfies the Department that—
+
+- (a) it is reasonable to grant the application;
+- (b) the application for a decision to be revised has merit; and
+- (c) special circumstances are relevant to the application for an extension of time,
+
+and as a result of those special circumstances, it was not practicable for the application for a decision to be revised to be made within one month of the date of notification of the decision which it is sought to have revised.
+
+(4) In determining whether it is reasonable to grant an application for an extension of time, no account shall be taken of the following—
+
+- (a) that the person making the application for an extension of time or any person acting for him was unaware of or misunderstood the law applicable to his case (including ignorance or misunderstanding of the time limits imposed by Article 23(6)(a)(i) or (13)(i)); or
+- (b) that a Child Support Commissioner or a court has taken a different view of the law from that previously understood and applied.
+
+(5) An application under this Article for an extension of time which has been refused may not be renewed.
+
+(6) In this Article “Child Support Commissioner” includes a Child Support Commissioner appointed under section 22 of the Child Support Act 1991[^f00063].
+
+### 25. Transitional functions of staff of appeal tribunals and of the President of appeal tribunals
+
+Any appointment under paragraph 6 of Schedule 1 to the Social Security (Northern Ireland) Order 1998 shall be treated during the period commencing on 1st June 1999 and ending on—
+
+- (a) 28th November 1999 as being, in addition, an appointment for—
+  - (i) social security appeal tribunals, and
+  - (ii) the President and full-time chairmen of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals;
+- (b) 17th October 1999 as being, in addition, an appointment for disability appeal tribunals; and
+- (c) 5th September 1999 as being, in addition, an appointment for medical appeal tribunals.
+
+### 26. Revocations
+
+(1) Regulation 2(4)(b)(iv) of the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1999[^f00064] is hereby revoked.
+
+(2) The Regulations specified in column (1) of Schedule 2 are revoked to the extent mentioned in column (3) of that Schedule.
+
+Sealed with the Official Seal of the Department of Health and Social Services on
+
+John O'Neill
+
+Assistant Secretary
+
+28th May 1999.
+
+## SCHEDULE 1 — Provisions coming into operation on 1st June 1999
+
+Article 2
+
+| Provisions of the Order | Subject Matter |
+| --- | --- |
+| Article 3(c) | Transfer of functions to the Department |
+| Article 5(1)(b) and (2)(b) | Unified appeal tribunals |
+| Article 6 | President of appeal tribunals |
+| Article 7 | Panel for appointment to appeal tribunals |
+| Article 8 | Constitution of appeal tribunals |
+| Article 26(8) | Appeals involving issues that arise on appeal in other cases |
+| Part II, Chapter III | Child support decisions and appeals |
+| Schedule 1, paragraphs 1 to 9 and 11 to 13 provisions | Appeal tribunals: supplementary |
+| The following paragraphs of Schedule 6 and Article 78(1) in so far as it to 13 provisions relates to them— | Minor and consequential amendments |
+| - paragraph 1 | Enforcement of maintenance assessment by deductions from pay |
+| - paragraph 2 | Enforcement of maintenance assessment by deductions from pay |
+| paragraph 3(3) in so far as it applies to the following entry— disqualified | Bodies of which all members are |
+| - Full-time chairman of a child support appeal tribunal established under Article 23 of the Child Support (Northern Ireland) Order 1991[^f00065] |  |
+| - paragraph 3(4) |  |
+| - paragraph 5(a) and sub-paragraph (b) of that paragraph in so far as it applies to the definitions of “Chief Child Support Officer”, “child support appeal tribunal” and “child support officer” | Amendments to the Child Support Order |
+| - paragraphs 6 to 37 |  |
+| - paragraph 92(1) and sub-paragraph (2) of that paragraph in so far as it applies to the following entry— | Other appointments |
+| - Chairman of child support appeal tribunals in Northern Ireland |  |
+| - paragraph 93(1) and sub-paragraph (2) of that paragraph in so far as it applies to the following entry— | Retirement provisions: the relevant offices |
+| - Chairman of child support appeal tribunals in Northern Ireland |  |
+| - paragraph 115(a) in so far as it applies to the following entry— | Tribunals referred to in Article 9(4) |
+| - Child support appeal tribunals constituted under Article 23 of the Child Support (Northern Ireland) Order 1991. |  |
+| - paragraph 115(b) |  |
+| The following repeals in Schedule 7 and Article 78(2) in so far as it relates to them— | Repeals |
+| - the Northern Ireland Assembly Disqualification Act 1975[^f00066]— |  |
+| - in Schedule 1, in Part III, the following entry— |  |
+| - Full-time chairman of a child support appeal tribunal established under Article 23 of the Child Support (Northern Ireland) Order 1991 |  |
+| - the provisions of the Child Support (Northern Ireland) Order 1991 |  |
+| - the Judicial Pensions and Retirement Act 1993[^f00067]— |  |
+| - in Schedule 1, in Part II, the following entry— |  |
+| - Chairman of child support appeal tribunals in Northern Ireland |  |
+| - in Schedule 5, the following entry— |  |
+| - Chairman of child support appeal tribunals in Northern Ireland |  |
+| - in Schedule 6, paragraph 24 |  |
+| - in Schedule 8, paragraph 22 |  |
+| the provisions of the Child Support (Northern Ireland) Order 1995[^f00068] |  |
+| the Ombudsman (Northern Ireland) Order 1996[^f00069]— |  |
+| - in Schedule 3, the following entry— |  |
+| - Child support appeal tribunals constituted under Article 23 of the Child Support (Northern Ireland) Order 1991. |  |
+
+## SCHEDULE 2 — Regulations revoked
+
+Article 26(2)
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th>Citation</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992</td><td><a href="https://www.legislation.gov.uk/nisr/1992/339">S.R. 1992 No. 339</a></td><td>Regulations 10 and 10A</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/164">S.R. 1993 No. 164</a></td><td>Regulations 2(2) and (7) and 5(2)(f)</td></tr>
+<tr><td>The Child Support (Maintenance Assessments and Special Cases) (Amendment) Regulations (Northern Ireland) 1993</td><td><a href="https://www.legislation.gov.uk/nisr/1993/191">S.R. 1993 No. 191</a></td><td>Regulation 2(3)</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments and Transitional Provisions) Regulations (Northern Ireland) 1994</td><td><a href="https://www.legislation.gov.uk/nisr/1994/37">S.R. 1994 No. 37</a></td><td>Regulations 12 and 13</td></tr>
+<tr><td>The Child Support and Income Support (Amendment) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/162">S.R. 1995 No. 162</a></td><td>Regulations 3(5) and (6), 9(19) and 10(3)</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1995</td><td><a href="https://www.legislation.gov.uk/nisr/1995/475">S.R. 1995 No. 475</a></td><td>Regulations 2(2)(a), (3), (4) and (7), 4(2)(a)(ii) and (iii), 5(4) and (5) and 9(3)</td></tr>
+<tr><td>The Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996</td><td><a href="https://www.legislation.gov.uk/nisr/1996/541">S.R. 1996 No. 541</a></td><td>Regulations 49(4) and (5) and 52</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1998</td><td><a href="https://www.legislation.gov.uk/nisr/1998/8">S.R. 1998 No. 8</a></td><td>Regulation 4(2)(a)(iii)</td></tr>
+<tr><td>The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998</td><td><a href="https://www.legislation.gov.uk/nisr/1998/400">S.R. 1998 No. 400</a></td><td>Regulations 3 and 4</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order.)
+
+This Order provides for the coming into operation on 1st June 1999 of provisions of the Social Security (Northern Ireland) Order 1998 relating to child support.
+
+The Order also makes consequential and transitional provisions.
+
+(This note is not part of the Order.)
+
+The following provisions of the Social Security (Northern Ireland) Order 1998 have been brought into operation by earlier commencement orders as from the dates shown.
+
+| Provision | Date of Commencement | S.R. Number |
+| --- | --- | --- |
+| Article 4(1) and (2)(b) to (h) | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Articles 7(3), 8(6) and (7), 10(1), (4) and (6), 11(3) and (6), 12(1), 13(1) to (3), (6) and (7), 15(3), (10) and (11) and 16(1) to (3) and (9) and Schedules 1 to 4 (partially) | 10.3.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 16(4)(a) and (5) | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 16(4)(b) | 6.4.99 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Articles 17, 18(1), 20 to 24, 25(3)(b) and (5)(c), 26(6)(c), 28, 31(2) and (3) and 38(1)(a) and (3) (partially) | 10.3.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 40 | 16.11.98 and 7.12.98 | [1998 No. 395 (C. 19)](https://www.legislation.gov.uk/nisr/1998/395) |
+| Articles 41 to 44 (partially) | 10.3.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Articles 45 and 46 | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 47(1) (partially) | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 48 | 24.2.99 and 6.4.99 | [1999 No. 72 (C. 9)](https://www.legislation.gov.uk/nisr/1999/72) |
+| Article 49 | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 50 | 9.9.98 and 6.4.99 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 51 | 10.3.99 and 6.4.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 52 | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Articles 53, 54 and 56 | 10.3.99 and 6.4.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 57 (partially) | 10.3.99 and 6.4.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 58 | 6.4.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 59 | 10.3.99 and 6.4.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 60 | 6.4.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 61 | 9.9.98 and 6.4.99 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 64 | 9.9.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Articles 66 and 67 | 5.4.99 | [1999 No. 168 (C. 16)](https://www.legislation.gov.uk/nisr/1999/168) |
+| Article 69 | 6.4.99 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 70 (partially) | 10.3.99 | [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) |
+| Article 71 | 5.10.98 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) |
+| Article 72 | 16.11.98 | [1998 No. 395 (C. 19)](https://www.legislation.gov.uk/nisr/1998/395) |
+| Article 78(1) and Schedule 6 (partially) | 9.9.98, 16.11.98, 10.3.99, 5.4.99 and 6.4.99 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) [1998 No. 395 (C. 19)](https://www.legislation.gov.uk/nisr/1998/395) [1999 No. 72 (C. 9)](https://www.legislation.gov.uk/nisr/1999/72) [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) [1999 No. 168 (C. 16)](https://www.legislation.gov.uk/nisr/1999/168) |
+| Article 78(2) and Schedule 7 (partially) | 9.9.98, 5.4.99 and 6.4.99 | [1998 No. 312 (C. 15)](https://www.legislation.gov.uk/nisr/1998/312) [1999 No. 72 (C. 9)](https://www.legislation.gov.uk/nisr/1999/72) [1999 No. 102 (C. 13)](https://www.legislation.gov.uk/nisr/1999/102) [1999 No. 168 (C. 16)](https://www.legislation.gov.uk/nisr/1999/168) |
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00002]: Footnote: [S.R. 1999 No. 152](https://www.legislation.gov.uk/nisr/1999/152)
+
+[^f00003]: Footnote: [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
+
+[^f00004]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending regulations are [S.R. 1993 No. 120](https://www.legislation.gov.uk/nisr/1993/120)
+
+[^M_F_fab8a1a2-d463-45c4-f8bb-7845cdf6c088]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/nisr/1999/246/article/5) revoked for specified purposes (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146) and [S.R. 1996 No. 65](https://www.legislation.gov.uk/nisr/1996/65)
+
+[^f00006]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending regulations are [S.R. 1993 No. 120](https://www.legislation.gov.uk/nisr/1993/120)
+
+[^key-87d28862cc74b4efe5905364eed1d123]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/1999/246/article/7) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+
+[^key-555ded6b56eb5f493457d5678fadb661]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/1999/246/article/8) revoked (coming into operation in accordance with reg. 1(1)(c) of the amending Rule) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/b), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+
+[^f00036]: Footnote: [S.R. 1992 No. 342](https://www.legislation.gov.uk/nisr/1992/342); relevant amending regulations are [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475), [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541) and [S.R. 1998 No. 400](https://www.legislation.gov.uk/nisr/1998/400)
+
+[^f00037]: Footnote: Regulation 10 was substituted by regulation 3(3) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and amended by [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541) and [S.R. 1998 No. 400](https://www.legislation.gov.uk/nisr/1998/400)
+
+[^key-836b34212161fbbaad704be9e53aa3bb]: Textual amendment: [Art. 10(4)(a)](https://www.legislation.gov.uk/nisr/1999/246/article/10/4/a)[(b)](https://www.legislation.gov.uk/nisr/1999/246/article/10/4/b) revoked (25.1.2010) by [The Child Support (Management of Payments and Arrears) Regulations (Northern Ireland) 2009 (S.R. 2009/422)](https://www.legislation.gov.uk/nisr/2009/422), [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/422/schedule)
+
+[^key-e1dd2168c553a18b3c03e6baa1621a8c]: Textual amendment: [Art. 10(4)(c)](https://www.legislation.gov.uk/nisr/1999/246/article/10/4/c)[(d)](https://www.legislation.gov.uk/nisr/1999/246/article/10/4/d) revoked (coming into operation in accordance with reg. 1 of the amending Rule) by [The Social Security and Child Support (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/23)](https://www.legislation.gov.uk/nisr/2001/23), [regs. 1](https://www.legislation.gov.uk/nisr/2001/23/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2001/23/regulation/4/c)
+
+[^key-de95520965501cf4b43202f98a8f220b]: Textual amendment: [Art. 10(5)](https://www.legislation.gov.uk/nisr/1999/246/article/10/5)[(6)](https://www.legislation.gov.uk/nisr/1999/246/article/10/6) revoked (coming into operation in accordance with reg. 1 of the amending Rule) by [The Social Security and Child Support (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/23)](https://www.legislation.gov.uk/nisr/2001/23), [regs. 1](https://www.legislation.gov.uk/nisr/2001/23/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2001/23/regulation/4/c)
+
+[^key-9e5b95f687c65e15565d30007091556d]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/1999/246/article/11) revoked (coming into operation in accordance with reg. 1(1)(c) of the amending Rule) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/b), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+
+[^f00043]: Footnote: [S.R. 1992 No. 467 (C. 20)](https://www.legislation.gov.uk/nisr/1992/467), to which there are amendments not relevant to this order
+
+[^f00044]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466), to which there are amendments not relevant to this order
+
+[^key-d0125767bbaabc7c3f43a0259542c2c2]: Textual amendment: [Art. 13(4)](https://www.legislation.gov.uk/nisr/1999/246/article/13/4) revoked (10.11.2009) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/363)](https://www.legislation.gov.uk/nisr/2009/363), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/363/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/363/schedule)
+
+[^f00045]: Footnote: [S.R. 1994 No. 37](https://www.legislation.gov.uk/nisr/1994/37); relevant amending regulations are [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
+
+[^f00046]: Footnote: [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162); relevant amending regulations are [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
+
+[^f00047]: Footnote: [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
+
+[^f00048]: Footnote: [S.R. 1995 No. 476](https://www.legislation.gov.uk/nisr/1995/476)
+
+[^f00049]: Footnote: [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
+
+[^f00050]: Footnote: [S.R. 1996 No. 317](https://www.legislation.gov.uk/nisr/1996/317), to which there are amendments not relevant to this order
+
+[^f00051]: Footnote: [S.R. 1996 No. 590](https://www.legislation.gov.uk/nisr/1996/590)
+
+[^f00052]: Footnote: [S.R. 1998 No. 8](https://www.legislation.gov.uk/nisr/1998/8)
+
+[^f00053]: Footnote: [S.R. 1999 No. 152](https://www.legislation.gov.uk/nisr/1999/152)
+
+[^f00054]: Footnote: [S.R. 1998 No. 395 (C. 19)](https://www.legislation.gov.uk/nisr/1998/395)
+
+[^f00055]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); relevant amending regulations are [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475) and [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
+
+[^f00056]: Footnote: [S.R. 1993 No. 50](https://www.legislation.gov.uk/nisr/1993/50); relevant amending regulations are [S.R. 1996 Nos. 457](https://www.legislation.gov.uk/nisr/1996/457), [541](https://www.legislation.gov.uk/nisr/1996/541) and [590](https://www.legislation.gov.uk/nisr/1996/590) and [S.R. 1998 No. 8](https://www.legislation.gov.uk/nisr/1998/8)
+
+[^f00057]: Footnote: Paragraph (1A) was substituted by regulation 2(2)(a) of [S.R. 1996 No. 457](https://www.legislation.gov.uk/nisr/1996/457)
+
+[^f00058]: Footnote: Paragraph (9A) was inserted by regulation 2(2)(b) of [S.R. 1996 No. 457](https://www.legislation.gov.uk/nisr/1996/457); paragraph (11) was substituted by, and paragraphs (11A) and (11B) were inserted by, regulation 2(2)(d) of those regulations
+
+[^f00059]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
+
+[^f00060]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
+
+[^f00061]: Footnote: Paragraph (1) was substituted by regulation 2(7)(a) of [S.R. 1996 No. 457](https://www.legislation.gov.uk/nisr/1996/457) and amended by [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541) and [S.R. 1998 No. 8](https://www.legislation.gov.uk/nisr/1998/8)
+
+[^f00062]: Footnote: [S.R. 1999 No. 226](https://www.legislation.gov.uk/nisr/1999/226)
+
+[^f00063]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48)
+
+[^f00064]: Footnote: [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
+
+[^f00065]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
+
+[^f00066]: Footnote: [1975 c. 25](https://www.legislation.gov.uk/ukpga/1975/25)
+
+[^f00067]: Footnote: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
+
+[^f00068]: Footnote: [S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
+
+[^f00069]: Footnote: [S.I. 1996/1298 (N.I. 8)](https://www.legislation.gov.uk/nisi/1996/1298)

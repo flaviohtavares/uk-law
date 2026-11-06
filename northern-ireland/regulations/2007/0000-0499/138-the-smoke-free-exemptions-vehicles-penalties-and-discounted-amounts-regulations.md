@@ -1,0 +1,350 @@
+---
+title: The Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007
+id: nisr/2007/138
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised-with-pending-changes
+made_date: '2007-03-06'
+text_date: '2022-02-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2007/138
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2007/138/pdfs/nisrem_20070138_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/138/pdfs/nisr_20070138_en.pdf
+- http://www.legislation.gov.uk/nisr/2007/138/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2022-02-01. See https://www.legislation.gov.uk/changes/affected/nisr/2007/138
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2007 No. 138
+
+PUBLIC HEALTH
+
+The Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007
+
+Made
+
+6th March 2007
+
+To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000.
+
+Coming into operation
+
+30th April 2007
+
+The Department of Health, Social Services and Public Safety[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 4, 6, 10 (3) and 15(1) of, and paragraphs 5 and 8 of Schedule 1 to, the Smoking (Northern Ireland) Order 2006[^f00002].
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and interpretation[^key-60337028809b530ce53066af85d39703]
+
+(1) These Regulations may be cited as the Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
+
+(2) In these Regulations—
+
+- “the Order” means the Smoking (Northern Ireland) Order 2006.
+
+## PART 2 — EXEMPTIONS
+
+### 2. Application of Part 2[^key-4f5bf266c080371ceded5ad71f6a76c8]
+
+The exemptions in this Part apply only to premises that would be smoke-free under Article 3 of the Order if those exemptions had not been made.
+
+### 3. Private accommodation[^key-6b39577097703205ec998d4953ec9c11]
+
+(1) A private dwelling is not smoke-free except for any part of it which is—
+
+- (a) used in common in relation to more than one set of premises (including premises so used in relation to any other private dwelling or dwellings); or
+- (b) used solely as a place of work (other than work that is excluded by paragraph (2)) by—
+  - (i) more than one person who does not live in the dwelling;
+  - (ii) a person who does not live in the dwelling and any person who does live in the dwelling; or
+  - (iii) a person (whether he lives in the dwelling or not) who in the course of his work invites persons who do not live or work in the dwelling to attend the part of it which is used solely for work.
+
+(2) There is excluded from paragraph (1)(b) all work that is undertaken solely—
+
+- (a) to provide personal care for a person living in the dwelling;
+- (b) to assist with the domestic work of the household in the dwelling;
+- (c) to maintain the structure or fabric of the dwelling; or
+- (d) to install, maintain or remove any service provided to the dwelling for the benefit of persons living in it.
+
+(3) In this regulation, “private dwelling” includes self-contained residential accommodation for temporary or holiday use and any garage, outhouse or other structure for the exclusive use of persons living in the dwelling.
+
+### 4. Accommodation for guests and club members[^key-1b391983a6a18966647e685cd35fb936]
+
+(1) A designated bedroom in a hotel, guest house, inn, hostel or members' club is not smoke-free.
+
+(2) In this regulation—
+
+- “designated bedroom” means a room which—
+  - (a) is set apart exclusively for sleeping accommodation;
+  - (b) has been designated in writing by the person in charge of the premises in which the room is situated as being a room in which smoking is permitted;
+  - (c) has a ceiling and, except for doors and windows, is completely enclosed on all sides by solid, floor-to-ceiling walls;
+  - (d) does not have a ventilation system that ventilates into any other part of the premises (except any other designated bedroom) or other premises;
+  - (e) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
+  - (f) is clearly marked as a bedroom in which smoking is permitted; and
+- “bedroom” does not include any dormitory or other room that a person in charge of premises makes available under separate arrangements for persons to share at the same time.
+
+### 5. Other residential accommodation[^key-04b21f3752193fc7b556dc35c63eca5b]
+
+(1) A designated room that is used as accommodation for persons aged 16 years or over in the premises specified in paragraph (2) is not smoke-free.
+
+(2) The specified premises are—
+
+- (a) residential care homes;
+- (b) nursing homes; and
+- (c) hospices which as their whole or main purpose provide palliative care for persons resident there who are suffering from progressive disease in its final stages.
+
+(3) In this regulation—
+
+- “designated room” means a bedroom, or a room used only for smoking which—
+  - (a) has been designated in writing by the person in charge of the premises in which the room is situated as being a room in which smoking is permitted;
+  - (b) has a ceiling and, except for doors and windows, is completely enclosed on all sides by solid, floor-to-ceiling walls;
+  - (c) does not have a ventilation system that ventilates into any other part of the premises (except any other designated room) or other premises;
+  - (d) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
+  - (e) is clearly marked as a room in which smoking is permitted;
+- “nursing home” has the same meaning as in Article 11 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00003]; and
+- “residential care home” has the same meaning as in Article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
+
+### 6. Prisons, Young Offenders Centres and Remand Centres[^key-d6e07cd02dbb33de34931593d602bd9b]
+
+(1) A prison, young offenders centre or remand centre is not smoke-free.
+
+(2) Subject to paragraph (3), in this regulation—
+
+- “prison” has the same meaning as in section 47(1A) and (2) of the Prison Act (Northern Ireland) 1953[^f00004];
+- “young offenders centre” has the same meaning as in section 2(a) of the Treatment of Offenders Act (Northern Ireland) 1968[^f00005]; and
+- “remand centre” have the same meaning as in section 2(b) of the Treatment of Offenders Act (Northern Ireland) 1968.
+
+(3) For the purposes of this regulation prison, young offenders centre and remand centre do not include any place—
+
+- (a) that comprises any premises used solely or mainly for the purpose of a social club, that is to say an association meeting periodically for a shared activity or for social purposes;
+- (b) that comprises any premises on which intoxicating liquor is sold, supplied, consumed or kept for supply or consumption;
+- (c) that comprises any premises used solely or mainly for the purposes of physical recreation of persons other than those detained;
+- (d) that comprises any premises reserved as a visitors centre, that is a place for friends or family of a person detained to obtain advice or services.
+
+### 7. Temporary exemption for Police detention cells or interview rooms[^key-dffb6671b1efc2d02fc5744986e397b6]
+
+(1) A designated room which is a detention cell or interview room is not smoke-free.
+
+(2) In this regulation—
+
+- “designated room” means a room which—
+  - (a) has been designated in writing by the person in charge of the premises in which the room is situated as being a room in which smoking is permitted;
+  - (b) has a ceiling and, except for doors and windows, is completely enclosed on all sides by solid, floor-to-ceiling walls;
+  - (c) does not have a ventilation system that ventilates into any other part of the premises (except any other designated room) or other premises; and
+  - (d) is clearly marked as a room in which smoking is permitted;
+- “detention cell” means a room within a police station which is used for the purposes of detaining persons in cell accommodation;
+- “interview room” means a room within a CARE suite which is used for the purposes of interviewing persons; and
+- “CARE suite” means a Child Abuse and Rape Enquiries suite.
+
+(3) Paragraphs (1) and (2) shall cease to have effect on 30th April 2008.
+
+### 8. Temporary exemption for Police exercise areas[^key-d823d59695a11fec76cb743477f0a535]
+
+(1) Any area of a police station which is enclosed or substantially enclosed for the purposes of Article 3(5) of the Order is not smoke-free if it is wholly or mainly used for the exercise of persons under detention in the police station.
+
+(2) Paragraph (1) shall cease to have effect on 30th April 2008.
+
+### 9. Specialist tobacconists[^key-01aa81dffb0ddcbe005b076bbad009db]
+
+(1) The shop of a specialist tobacconist that is being used by persons who are sampling cigars and pipe tobacco is not smoke-free for the duration of that sampling if it—
+
+- (a) has a ceiling and, except for doors and windows, is completely enclosed on all sides by solid, floor-to-ceiling walls;
+- (b) does not have a ventilation system that ventilates into any other premises;
+- (c) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
+- (d) is clearly marked as premises in which smoking is permitted.
+
+(2) In this regulation “cigar” has the same meaning as in the Tobacco Products (Description of Products) Order 2003[^f00006] and “specialist tobacconist” has the same meaning as in section 6(2) of the Tobacco Advertising and Promotion Act 2002[^f00007].
+
+### 10. Research and testing facilities[^key-1b0b3b3101715747dc5788ab6c64b933]
+
+(1) A designated room in a research or testing facility is not smoke-free whilst it is being used for any research or tests specified in paragraph (2).
+
+(2) The research or tests that are specified are those that relate to—
+
+- (a) emissions from tobacco and other products used for smoking;
+- (b) development of products for smoking with lower fire hazard;
+- (c) the fire safety testing of materials involving products for smoking;
+- (d) development of smoking or pharmaceutical products that could result in the manufacture of less dangerous products for smoking; or
+- (e) smoking cessation programmes.
+
+(3) In this regulation “designated room” means a room which—
+
+- (a) has been designated in writing by the person in charge of the research or testing facility in which the room is situated as being a room in which smoking is permitted for research or tests specified in paragraph (2) and is a room for the use only of the persons who are required to supervise or participate in the research or tests;
+- (b) has a ceiling and, except for doors and windows, is completely enclosed on all sides by solid, floor-to-ceiling walls;
+- (c) does not have a ventilation system that ventilates into any other part of the premises (except any other designated room) or other premises;
+- (d) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
+- (e) is clearly marked as a room in which smoking is permitted.
+
+### 11. Temporary exemption for mental health units[^key-ac081a8375f8c4405860f5961de00d40]
+
+(1) A designated room for the use of patients aged 16 years or over in residential accommodation in a mental health unit is not smoke-free.
+
+(2) In this regulation—
+
+- “designated room” means a bedroom, or a room used only for smoking which—
+  - (a) has been designated in writing by the person in charge of the mental health unit as being a room in which smoking is permitted;
+  - (b) has a ceiling and, except for doors and windows, is completely enclosed on all sides by solid, floor-to ceiling walls;
+  - (c) does not have a ventilation system that ventilates into any other part of the premises (except any other designated room) or other premises;
+  - (d) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
+  - (e) is clearly marked as a room in which smoking is permitted; and
+- “mental health unit” means any establishment (or part of an establishment) maintained wholly or mainly for the reception and treatment of persons suffering from any form of mental disorder as defined in Article 3(1) of the Mental Health (Northern Ireland) Order 1986[^f00008].
+
+(3) Paragraphs (1) and (2) shall cease to have effect on 30th April 2008.
+
+## PART 3 — VEHICLES
+
+### 12. Enclosed vehicles[^key-64cdbe8cc7bc96a602f05116da00cbd4]
+
+(1) Subject to the following paragraphs of this regulation, an enclosed vehicle and any enclosed part of a vehicle is smoke-free if it is used—
+
+- (a) by members of the public or a section of the public (whether or not for reward or hire); or
+- (b) in the course of paid or voluntary work by more than one person (even if those persons use the vehicle at different times, or only intermittently).
+
+(1A)[^key-28b04a806e9aed43004a647d2c3ae976] A vehicle that is not smoke-free by virtue of paragraph (1), or any part of such a vehicle, is smoke-free if-
+
+- (a) it is enclosed,
+- (b) there is more than one person present in the vehicle, and
+- (c) a person under the age of 18 is present in the vehicle.
+
+(2) A vehicle or part of a vehicle is enclosed for the purposes of paragraphs (1) and (1A)[^key-ccf66501e1f310aae50a977d565c6b55] where it is enclosed wholly or partly by a roof and by any door or window that may be opened.
+
+(3) Except where paragraph (4) applies, “roof” in paragraph (2) includes any fixed or moveable structure or device which is capable of covering all or part of the vehicle, including any canvas, fabric or other covering.
+
+(4) In relation to a vehicle that is engaged in conveying persons, “roof” does not include any fixed or moveable structure or device which is completely stowed away so that it does not cover all or any part of the vehicle.
+
+(5) A vehicle is not used in the course of paid or voluntary work for the purposes of paragraph (1) (b) where it is used primarily for the private purposes of a person who—
+
+- (a) owns it; or
+- (b) has a right to use it which is not restricted to a particular journey.
+
+(6)[^key-9f0264e7a936af3b74637927ba6eb793] Paragraph (1A) does not apply to-
+
+- (a) a caravan or motor caravan that is stationary and not on a road; or
+- (b) a caravan or motor caravan that is stationary, is on a road and is being used as living accommodation.
+
+(7) In this regulation-
+
+- “**caravan**” means a trailer which is designed for road use and provides mobile living accommodation;
+- “**motor caravan**” means a motor vehicle which is constructed or adapted for the carriage of passengers and their effects and which contains, as permanently installed equipment, the facilities which are reasonably necessary for enabling the vehicle to provide mobile living accommodation for its users;
+- “**road**” has the same meaning as in Article 2(2) of the Road Traffic (Northern Ireland) Order 1995.
+
+## PART 4 — PENALTIES
+
+### 13. Penalties and discounted amounts[^key-286083adca04db15e597bd8eb9be7b60]
+
+(1) In respect of an offence alleged under Article 7(5) of the Order—
+
+- (a) the amount of the penalty specified for the purposes of paragraph 5 of Schedule 1 to the Order is £200;
+- (b) the discounted amount specified for the purposes of paragraph 8 of Schedule 1 to the Order is £150.
+
+(2) In respect of an offence alleged under Article 8(2) or 9(3)[^key-5edb15918be9de438bad470f8611133b] of the Order—
+
+- (a) the amount of the penalty specified for the purposes of paragraphs 5 of Schedule 1 to the Order is £50;
+- (b) the discounted amount specified for the purposes of paragraph 8 of Schedule 1 to the Order is £30.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 6th March 2007.
+
+James S. Livingstone
+
+A senior officer of the
+
+Department of Health, Social Services and Public Safety
+
+(This note is not part of the Regulations.)
+
+These Regulations provide exemptions from the smoke-free requirements of Article 3 of the Smoking (Northern Ireland) Order 2006 (“the Order”) and provide for most public and work vehicles to be smoke-free under the Order.
+
+Regulation 3 exempts private accommodation other than any part of it which is shared with other premises or is used solely as a place of work in the circumstances set out in paragraph (1)(b). Paragraph (2) excludes from the meaning of work for this purpose the provision of personal care, assistance with domestic work, the maintenance of the structure or fabric of the building and the installation, maintenance and removal of services.
+
+Regulation 4 exempts designated bedrooms in hotels, guest houses, inns, hostels and members' clubs. Paragraph (2) defines “designated bedroom” for the purposes of the exemption.
+
+Regulation 5 exempts designated bedrooms and smoking rooms in nursing homes, residential care homes and hospices. Paragraph (3) defines “designated room” for the purposes of the exemption.
+
+Regulation 6 exempts Prisons, Young Offenders Centres and Remand Centres, with the exception of social clubs, sports clubs and visitors centres.
+
+Regulation 7 exempts until 30th April 2008 designated detention cells in police stations and interview rooms in CARE suites.
+
+Regulation 8 exempts until 30th April 2008 exercise areas in police stations.
+
+Regulation 9 exempts specialist tobacconists. By paragraph (2) specialist tobacconist has the same meaning as in section 6(2) of the Tobacco Advertising and Promotion Act 2002.
+
+Regulation 10 exempts designated rooms in research and testing facilities. For the purposes of this exemption paragraph (2) sets out the meaning of research and tests and paragraph (3) defines “designated room”.
+
+Regulation 11 exempts until 30th April 2008 designated rooms in residential accommodation in Mental Health Units.
+
+Regulation 12 provides for most enclosed vehicles which are used by the public or used for work purposes to be smoke-free.
+
+Regulation 13 specifies the amount of fixed penalties under paragraph 5 of, and discounted amounts under paragraph 8 of, Schedule 1 to the Order.
+
+Regulation 13(1) provides that where the fixed penalty procedure is used for an alleged offence relating to the display of no-smoking signs—
+
+- (a) the fixed penalty is £200; and
+- (b) the discounted amount is £150.
+
+Regulation 13(2) provides that where the fixed penalty procedure is used for an alleged offence of smoking in a smoke-free place—
+
+- (a) the fixed penalty is £50; and
+- (b) the discounted amount is £30.
+
+## Annotations
+
+[^f00001]: Footnote: *See* S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(6)
+
+[^f00002]: Footnote: S.I. [2006/2957 (N.I. 20)](https://www.legislation.gov.uk/nisi/2006/2957)
+
+[^key-60337028809b530ce53066af85d39703]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/138/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-4f5bf266c080371ceded5ad71f6a76c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/138/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-6b39577097703205ec998d4953ec9c11]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/138/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-1b391983a6a18966647e685cd35fb936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/138/regulation/4) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-04b21f3752193fc7b556dc35c63eca5b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/138/regulation/5) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
+
+[^key-d6e07cd02dbb33de34931593d602bd9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/138/regulation/6) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^f00004]: Footnote: [1953. c. 18](https://www.legislation.gov.uk/apni/1953/18) Section 47 was amended by Article 14(1) of, and paragraphs 9 and 10 of Schedule 1 to, and Article 14(2) of, and Schedule 2 to, the Treatment of Offenders (Northern Ireland) Order 1989 (S.I. [1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344)) and Article 65(1) of, and paragraph 1 of Schedule 5 to, the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. [1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504))
+
+[^f00005]: Footnote: [1968 c. 29](https://www.legislation.gov.uk/apni/1968/29). Section 2(a) was substituted by Article 13 of the Treatment of Offenders (Northern Ireland) Order 1989 (S.I. [1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344)). Section 2(a) and (b) were amended by Article 65(1) of, and paragraph 3(a) and (b) of Schedule 5 to, the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. [1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504))
+
+[^key-dffb6671b1efc2d02fc5744986e397b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/138/regulation/7) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-d823d59695a11fec76cb743477f0a535]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/138/regulation/8) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-01aa81dffb0ddcbe005b076bbad009db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/138/regulation/9) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^f00006]: Footnote: S.I. [2003/1471](https://www.legislation.gov.uk/uksi/2003/1471); *see* Article 5 and the Schedule
+
+[^f00007]: Footnote: [2002 c. 36](https://www.legislation.gov.uk/ukpga/2002/36)
+
+[^key-1b0b3b3101715747dc5788ab6c64b933]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/138/regulation/10) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-ac081a8375f8c4405860f5961de00d40]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/138/regulation/11) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^f00008]: Footnote: S.I. [1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
+
+[^key-64cdbe8cc7bc96a602f05116da00cbd4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/138/regulation/12) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-28b04a806e9aed43004a647d2c3ae976]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/1A) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/a)
+
+[^key-ccf66501e1f310aae50a977d565c6b55]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/2) substituted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/b)
+
+[^key-9f0264e7a936af3b74637927ba6eb793]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/6)[(7)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/7) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/c)
+
+[^key-286083adca04db15e597bd8eb9be7b60]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/138/regulation/13) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+
+[^key-5edb15918be9de438bad470f8611133b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2007/138/regulation/13/2) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/3)

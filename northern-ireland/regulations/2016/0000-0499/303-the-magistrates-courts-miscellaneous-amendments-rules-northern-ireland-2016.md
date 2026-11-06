@@ -1,0 +1,842 @@
+---
+title: The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016
+id: nisr/2016/303
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2016-07-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2016/303
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2016/303/pdfs/nisrem_20160303_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/303/pdfs/nisr_20160303_en.pdf
+- http://www.legislation.gov.uk/nisr/2016/303/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 303
+
+Magistrates’ Courts
+
+The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016
+
+Made
+
+5th July 2016
+
+Coming into operation in accordance with Rule 2
+
+The Magistrates’ Courts Rules Committee makes the following rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001].
+
+## 1. Citation and Commencement
+
+These Rules may be cited as the Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016.
+
+**2.** These Rules shall come into operation on the same day as section 1 of the Justice Act (Northern Ireland) 2015[^f00002].
+
+## 3. Amendment to the Magistrates’ Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1966
+
+The Magistrates’ Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1966[^f00003] are amended as follows—
+
+(1) In rule 3, omit “acting for the same petty sessions district as the court which made the maintenance order”.
+
+(2) In rule 7(5), for “Petty Sessions District”, substitute “administrative court division”.
+
+(3) In Schedule 2—
+
+- (a) in Form 1—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”; and
+  - (ii) for “acting for the above-named petty sessions district”, substitute “sitting at…” in each place where it occurs;
+- (b) in Form 2—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”;
+  - (ii) for “for the Petty Sessions District of … in the County \[Borough\] of ….”, substitute “at…”; and
+  - (iii) at the end, omit “for the said Petty Sessions District”;
+- (c) in Form 2A—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of”, and “County Court Division of”; and
+  - (ii) at the end, omit “for the said Petty Sessions District”;
+- (d) in Form 3—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court division of”;
+  - (ii) for “for the Petty Sessions District of …in the County Court Division of …”, substitute “at…”; and
+  - (iii) at the end, omit “for the said Petty Sessions District”;
+- (e) in Forms 5 and 6—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”; and
+  - (ii) for “for the Petty Sessions District of … in the County \[Borough\] of ….”, substitute “at…”;
+- (f) in Form 8—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”; and
+  - (ii) at the end, omit “for the said Petty Sessions District”;
+- (g) in Forms 9 and 10—
+  - (i) for “for the Division of …” substitute “sitting at…”; and
+  - (ii) at the end, omit “for the Petty Sessions District of … in the County Court Division of ….”;
+- (h) in Form 11—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”; and
+  - (ii) at the end, omit “for the said Petty Sessions District”;
+- (i) in Form 12—
+  - (i) for “for the Division of …” substitute “sitting at…”; and
+  - (ii) at the end, omit “for the Petty Sessions District of … in the County Court Division of ….”;
+- (j) in Form 13—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+  - (ii) for “for the Division of …”, substitute “sitting at” in each place where it occurs; and
+  - (iii) for “for the petty sessions district of … in the County Court Division of ….”, substitute “at…”;
+- (k) in Form 14—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+  - (ii) for “for the Division of …”, substitute “at…”; and
+  - (iii) at the end, omit “for the said Petty Sessions District”; and
+- (l) in Form 15—
+  - (i) in the title, omit “Petty Sessions District of” and “County \[Borough\] of”;
+  - (ii) for “this court”, substitute “a court of summary jurisdiction sitting at…”; and
+  - (iii) at the end, omit “for the above-named Petty Sessions District”.
+
+## 4. Amendment to the Magistrates’ Courts (Suspension of Disqualification for Driving) Rules (Northern Ireland) 1968
+
+The Magistrates’ Courts (Suspension of Disqualification for Driving) Rules (Northern Ireland) 1968[^f00004] are amended as follows—
+
+(1) For the title to rule 2, substitute “Application for suspension of disqualification”.
+
+(2) In rule 2—
+
+- (a) in paragraph (b), omit “and”;
+- (b) omit paragraph (c); and
+- (c) for “the resident magistrate who is so sitting”, substitute “a court of summary jurisdiction”.
+
+(3) Omit rules 3 and 4.
+
+(4) In rule 5—
+
+- (a) in paragraph (2), for “for the petty sessions district in which the application is to be heard”, substitute “of petty sessions”; and
+- (b) omit paragraph (3).
+
+(5) Omit rules 6 and 7.
+
+## 5. Amendment to the Magistrates’ Courts (School Attendance Proceedings) Rules (Northern Ireland) 1969
+
+Rule 2 of the Magistrate’s Courts (School Attendance Proceedings) Rules (Northern Ireland) 1969[^f00005] is amended as follows—
+
+- (a) in paragraph (1), omit “Subject to paragraph (2),”; and
+- (b) omit paragraph (2).
+
+## 6. Amendment to the Magistrates’ Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1971
+
+The Magistrates’ Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1971[^f00006] are amended as follows—
+
+(1) In the Schedule—
+
+- (a) in Form 2—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”;
+  - (ii) omit “for the above-named petty sessions district”; and
+  - (iii) omit “for that district”; and
+- (b) in Form 3—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”; and
+  - (ii) omit “for the above-named Petty Sessions District”.
+
+## 7. Amendment to the Magistrates’ Courts (Reciprocal Enforcement of Maintenance Orders) (Republic of Ireland) Rules (Northern Ireland) 1975
+
+The Magistrates’ Courts (Reciprocal Enforcement of Maintenance Orders) (Republic of Ireland) Rules (Northern Ireland) 1975[^f00007] are amended as follows—
+
+(1) In rule 15—
+
+- (a) in paragraph (1), for “within the petty sessions district for which the clerk acts”, substitute “in Northern Ireland”; and
+- (b) in paragraph (2), for “such petty sessions district”, substitute “Northern Ireland”.
+
+(2) In the Schedule—
+
+- (a) in Form 1—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”;
+  - (ii) for “for the above-named petty sessions district”, substitute “at…”; and
+  - (iii) for “for the above-named District”, substitute “sitting at…”; and
+- (b) in Form 2—
+  - (i) in the title, omit “Petty Sessions District of” and “County \[Borough\] of”; and
+  - (ii) omit “for the above-named petty sessions district”.
+
+## 8. Amendment to the Magistrates’ Courts (Recovery Abroad of Maintenance) Rules (Northern Ireland) 1975
+
+In the Form in the Schedule to the Magistrates’ Courts (Recovery Abroad of Maintenance) Rules (Northern Ireland) 1975[^f00008] in the title, omit the large bracket, “Petty Sessions District of” and “County \[Borough\] of”.
+
+## 9. Amendment to the Magistrates’ Courts (Blood Tests) Rules (Northern Ireland) 1978
+
+In the Schedule to the Magistrates’ Courts (Blood Tests) Rules (Northern Ireland) 1978[^f00009] in Form 2, in the title, omit “Petty Sessions District of” and “County \[Borough\] of”.
+
+## 10. Amendment to the Magistrates’ Courts (Reciprocal Enforcement of Maintenance Orders) (Hague Convention Countries) Rules (Northern Ireland) 1980
+
+The Magistrates’ Courts (Reciprocal Enforcement of Maintenance Orders) (Hague Convention Countries) Rules (Northern Ireland) 1980[^f00010] are amended as follows—
+
+(1) In rule 12, in paragraphs (1) and (3), for “within his petty sessions district” substitute “in Northern Ireland”.
+
+(2) In Schedule 1—
+
+- (a) in Form 1—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the above mentioned district”;
+- (b) in Form 2, in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+- (c) in Form 3—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”;
+  - (ii) omit “for the above-named petty sessions district”; and
+  - (iii) for “for the said petty sessions district”, substitute “sitting at…”.
+
+## 11. Amendment to the Magistrates’ Courts (Re-registration of Maintenance Orders) Rules (Northern Ireland) 1980
+
+The Magistrates’ Courts (Re-registration of Maintenance Orders) Rules (Northern Ireland) 1980[^f00011] are amended as follows—
+
+(1) In rule 6(1), omit “acting for the same petty sessions district as the court which made the order” and “of the court which made the order”.
+
+(2) In rule 9(1), omit “acting for the same petty sessions district as the court which made the order” and “of the court which made the order”.
+
+(3) In rule 12(1), omit “acting for the same petty sessions district as the court which made the order” and “of the court which made the order”.
+
+## 12. Amendment to the Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) (No. 1) Rules (Northern Ireland) 1986
+
+The Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) (No. 1) Rules (Northern Ireland) 1986[^f00012] are amended as follows—
+
+(1) Omit rule 2(3).
+
+(2) In rule 3—
+
+- (a) omit paragraph (1); and
+- (b) omit paragraph (2).
+
+(3) Omit rule 9(1).
+
+(4) In the Schedule—
+
+- (a) in Forms 1 to 8—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, omit “for the above-named petty sessions district”; and
+- (b) in Form 9—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “at the above-named petty sessions district”, substitute “at…”.
+
+## 13. Amendment to the Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) Rules (Northern Ireland) 1987
+
+The Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) Rules (Northern Ireland) 1987[^f00013] are amended as follows—
+
+(1) Omit rule 2(3).
+
+(2) Omit rule 3(1).
+
+(3) In the Schedule, in Forms 1 to 7—
+
+- (a) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+- (b) at the end, for “for the above-named petty sessions district”, substitute “at…”.
+
+## 14. Amendment to the Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) (No. 2) Rules (Northern Ireland) 1987
+
+The Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) (No. 2) Rules (Northern Ireland) 1987[^f00014] are amended as follows—
+
+(1) Omit rule 2(3).
+
+(2) Omit rule 3(1).
+
+(3) In the Schedule—
+
+- (a) in Forms 1 and 5 to 19—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named petty sessions district”, substitute “at…”;
+- (b) in Form 20—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the petty sessions district”, substitute “at…”.
+
+## 15. Amendment to the Magistrates’ Courts (Serious Fraud) (Notices of Transfer) Rules (Northern Ireland) 1989
+
+In the Schedule to the Magistrates’ Courts (Serious Fraud) (Notices of Transfer) Rules (Northern Ireland) 1989[^f00015], in the title of Form 1, omit “Petty Sessions District of” and “County Court Division of”.
+
+## 16. Amendment to the Magistrates’ Courts (Great Britain Driving Licence Appeals) Rules (Northern Ireland) 1991
+
+The Magistrates’ Courts (Great Britain Driving Licence Appeals) Rules (Northern Ireland) 1991[^f00016] are revoked.
+
+## 17. Amendment to the Magistrates’ Courts (Criminal Justice (International Co-operation) Act 1990) Rules (Northern Ireland) 1991
+
+In the Magistrates’ Courts (Criminal Justice (International Co-operation) Act 1990) Rules (Northern Ireland) 1991[^f00017], in rule 5(2), omit “for the petty sessions district in which the proceedings have been instituted or in which the offence is being investigated, as the case may be”.
+
+## 18. Amendment to the Magistrates’ Courts (Child Support) Rules (Northern Ireland) 1993
+
+The Magistrates’ Courts (Child Support) Rules (Northern Ireland) 1993[^f00018] are amended as follows—
+
+(1) Omit rule 2(2).
+
+(2) Omit rule 4(1).
+
+(3) In the Schedule—
+
+- (a) in Form 1—
+  - (i) in the title, omit “Petty Session District of”, “County Court Division of”;
+  - (ii) omit “for the above-named petty sessions district”, in the first place where it occurs; and
+  - (iii) at the end, for “for the above-named petty sessions district”, substitute “at…”; and
+- (b) in Form 2, in the title, omit “Petty Session District of” and “County Court Division of”.
+
+## 19. Amendment to the Magistrates’ Courts (Children’s Evidence) (Notices of Transfer) Rules (Northern Ireland) 1996
+
+In the Schedule to the Magistrates’ Courts (Children’s Evidence) (Notices of Transfer) Rules (Northern Ireland) 1996[^f00019], in Form 1, omit “Petty Sessions District of”.
+
+## 20. Amendment to the Magistrates’ Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996
+
+In Schedule 1 to the Magistrates’ Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996[^f00020]—
+
+- (a) in Form C1, in the title, omit “\[Petty Sessions District of\]” and “County Court Division of”;
+- (b) in Form C1A, in the title, omit “County Court Division of”;
+- (c) in Form C1AA, in the title, omit “\[Petty Sessions District of\]” and “County Court Division of”;
+- (d) in Forms C2, C2A, and C3, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF”;
+- (e) in Form C6, in the title, omit “COUNTY COURT DIVISION OF”;
+- (f) in Forms C7 and C7A, in the title, omit “\[PETTY SESSIONS DISTRICT\]” and “COUNTY COURT DIVISION OF;
+- (g) in Forms C8 to C17, in the title, omit “COUNTY COURT DIVISION OF”;
+- (h) in Form C18, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “\[COUNTY COURT DIVISION OF\]”;
+- (i) in Forms C20 to C31, in the title, omit “COUNTY COURT DIVISION OF”;
+- (j) in Forms C32 and C33, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF”;
+- (k) in Form C34, in the title, omit “COUNTY COURT DIVISION OF”;
+- (l) in Form C35, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF”;
+- (m) in Form C35A in the title, omit “PETTY SESSIONS DISTRICT OF” and “COUNTY COURT DIVISION OF”;
+- (n) in Forms C36 and C37, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF”;
+- (o) in Form C38, in the title, omit “COUNTY COURT DIVISION OF”;
+- (p) in Form C39, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF”;
+- (q) in Forms C40, C41 and C42, in the title, omit “COUNTY COURT DIVISION OF”;
+- (r) in Forms C43 and C44, in the title, omit “\[PETTY SESSIONS DISTRICT OF\]” and “COUNTY COURT DIVISION OF”; and
+- (s) in Form C45—
+  - (i) in the title, omit “COUNTY COURT DIVISION OF”; and
+  - (ii) after “Clerk of Petty Sessions”, insert “at…”.
+
+## 21. Amendment to the Magistrates’ Courts (Licensing) Rules (Northern Ireland) 1997
+
+The Magistrates’ Courts (Licensing) Rules (Northern Ireland) 1997[^f00021] are amended as follows—
+
+(1) Omit rule 3(4).
+
+(2) In rule 4(2), omit “for the petty sessions district in which the premises are situated”.
+
+(3) In rule 14A—
+
+- (a) omit paragraph (1); and
+- (b) in paragraphs (3) and (5) omit “for the petty sessions district in which the indoor arena, in respect of which the application is made, is situated”.
+
+(4) Omit rule 17(2).
+
+(5) In the Schedule—
+
+- (a) in Form 1—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”;
+  - (ii) at the end, for “for the above-named petty sessions district”, substitute “at…”; and
+  - (iii) in paragraph \[1\] of the “*Notes*”, omit “ for the district in which the premises are situated”;
+- (b) in Form 2—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) for “for the above-named petty sessions district”, substitute “at…”;
+- (c) in Forms 3, 4 and 5—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”;
+  - (ii) for “for the Division of”, substitute “sitting at…” in each place where it occurs; and
+  - (iii) at the end, for “for the above-named petty sessions district”, substitute “at…”;
+- (d) in Form 6 —
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) at the end, for “of the above-named petty sessions district”, substitute “at…”;
+- (e) in Form 7—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named petty sessions district”, substitute “at…”;
+- (f) in Form 8—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) at the end, for “of the above-named petty sessions district”, substitute “at…”;
+- (g) in Form 9—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named petty sessions district”, substitute “at…”;
+- (h) in Form 10—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”;
+  - (ii) at the end, for “ for the petty sessions district in which the premises are situated”, substitute “at…”; and
+  - (iii) in paragraph \[3\] of the “*Notes*”, omit, from “The application” to the end of the first use of paragraphs (a) and (b);
+- (i) in Form 11, in the title, omit “Petty Session District of” and “County Court Division of”;
+- (j) in Form 13—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named petty sessions district”, substitute “at…”;
+- (k) in Form 14, at the end, for “for the petty sessions district in which the premises are situated”, substitute “at…”; and
+- (l) in Forms 15 to 23—
+  - (i) in the title, omit “Petty Session District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named petty sessions district”, substitute “at…”.
+
+## 22. Amendment to the Magistrates’ Courts (Registration of Clubs) Rules (Northern Ireland) 1997
+
+The Magistrates’ Courts (Registration of Clubs) Rules (Northern Ireland) 1997[^f00022] are amended as follows—
+
+(1) Omit rule 2(3).
+
+(2) In the Schedule, in Forms 1 to 6—
+
+- (a) in the title, omit “Petty Session District of” and “County Court Division of”; and
+- (b) at the end, for “for the above-named petty sessions district”, substitute “at…”.
+
+## 23. Amendment to the Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) Rules (Northern Ireland) 1997
+
+The Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) Rules (Northern Ireland) 1997[^f00023] are amended as follows—
+
+(1) In rule 2(c), for “a court of summary jurisdiction sitting for a different petty sessions district”, substitute “another court of summary jurisdiction”.
+
+(2) For rule 4(1), substitute—
+
+> (1) Where a court of summary jurisdiction makes a certification as referred to in section 54(2), the clerk of petty sessions shall, as soon as is practicable after the drawing up of the Form 1, serve a copy of that Form—
+>
+> - (a) on the acquitted person referred to in the certification;
+> - (b) on the prosecution in the proceedings which led to the acquittal; and
+> - (c) where the acquittal has taken place before the Crown Court, on the chief clerk.
+
+.
+
+(3) For rule 6(1) substitute—
+
+> (1) Where an acquittal has taken place before a court of summary jurisdiction, the clerk of petty sessions shall, as soon as is practicable after the making of the certification, or after the receipt from the Crown Court of a copy of a form recording the certification, enter in the Order Book of the court in relation to the acquittal-
+>
+> - (a) a note that certification has been made;
+> - (b) the date of the certification;
+> - (c) the name of the court which has made the conviction;
+> - (d) the name of the person whose conviction occasioned the making of the certification; and
+> - (e) a description of the offence of which that person has been convicted.
+
+.
+
+(4) In rule 7(1), for “within court premises” substitute “within court premises at the place where the certification was made”.
+
+(5) For rule 7(2) substitute—
+
+> (2) Where an acquittal has taken place before a court of summary jurisdiction, and the Crown Court has made the certification under section 54(2) in relation to the acquittal, the clerk of petty sessions shall, as soon as is practicable, after receipt of a copy of a form recording the certification, display a copy of that form at a prominent place to which the public has access within court premises at the place where the acquittal occurred.
+
+.
+
+(6) In the Schedule, in the title of Form 1, omit “Petty Session District of” and “County Court Division of”.
+
+## 24. Amendment to the Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Disclosure) Rules (Northern Ireland) 1997
+
+In rule 1(2) of the Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Disclosure) Rules (Northern Ireland) 1997[^f00024], in the definition of “clerk of petty sessions”, omit from “means” to “and”.
+
+## 25. Amendment to the Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Confidentiality) Rules (Northern Ireland) 1997
+
+The Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Confidentiality) Rules (Northern Ireland) 1997[^f00025] are amended as follows—
+
+(1) In rule 2(2), omit from “for the petty sessions district” to the end.
+
+(2) In rule 3(2), omit “referred to in Rule 2”.
+
+(3) In rule 5(3), omit from “for the petty sessions district” to the end.
+
+## 26. Amendment to the Magistrates’ Courts (Criminal Justice (Children)) Rules (Northern Ireland) 1999
+
+The Magistrates’ Courts (Criminal Justice (Children)) Rules (Northern Ireland) 1999[^f00026] are amended as follows—
+
+(1) In rule 19(1)(a) and (3), omit “for the petty sessions district in which the order was made,”.
+
+(2) In rule 21—
+
+- (a) in paragraph (1), omit “acting for the petty sessions district in which the offender resides”;
+- (b) for paragraph (3) substitute—
+
+  > (3) Where a court of summary jurisdiction revokes, or increases the period of detention of a juvenile justice centre order which was made by the Crown Court, the clerk of petty sessions shall send a copy of the relevant entry in the Order Book to the chief clerk.
+
+  ; and
+- (c) omit paragraphs (4) and (5).
+
+(3) In Schedule 1—
+
+- (a) in Form 1—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “in the said petty sessions district and county court division”;
+- (b) in Forms 2, 3, 5, 7 and 8, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (c) in Form 9—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “acting for the above-named petty sessions district”;
+- (d) in Form 10—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “acting for the petty sessions district of ….”;
+- (e) in Forms 11 and 12, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (f) in Form 13—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “in the county court division of ….”;
+- (g) in Forms 14 and 15—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “in the County Court Division of ….”;
+- (h) in Forms 16, 17 and 18, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (i) in Form 18A—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) for “for the said district”, substitute “sitting at…”;
+- (j) in Forms 19 to 34, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (k) in Form 35—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “in the County Court Division of ….”;
+- (l) in Form 36—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+  - (ii) omit “for the above-named petty sessions district”; and
+  - (iii) omit “in the County Court Division of ….” in each place where it occurs;
+- (m) in Form 37—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the above-named petty sessions district”;
+- (n) in Form 39—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “, being a youth court acting for the same place for the above Court \[acting for the place where the Defendant resides\]”;
+- (o) in Form 40—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+  - (ii) omit “for the above-named petty sessions district”; and
+  - (iii) omit “in the County Court Division of ….” in each place where it occurs;
+- (p) in Form 41—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the above-named petty sessions district”;
+- (q) in Forms 42 to 44—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “, who \[resides\] \[will reside\] in the petty sessions district of ….,”;
+- (r) in Forms 45 to 48—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+  - (ii) for “, for the petty sessions district of …. ”, in the first place where it occurs, substitute “sitting at…”; and
+  - (iii) omit “acting for the petty sessions district of ….”; and
+- (s) in Forms 49 to 55—
+  - (i) omit in the title, the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “acting for the petty sessions district of ….”.
+
+## 27. Amendment to the Magistrates’ Courts (Devolution Issues) Rules (Northern Ireland) 1999
+
+The Magistrates’ Courts (Devolution Issues) Rules (Northern Ireland) 1999[^f00027] are amended as follows—
+
+(1) In rule 3(1)(b), omit “for the petty sessions district for which the court acts”.
+
+(2) In the Schedule—
+
+- (a) in Form 1—
+  - (i) for “for the above-mentioned petty sessions district”, substitute “sitting at…”; and
+  - (ii) for “for the above-named petty sessions district”, substitute “at…”; and
+- (b) in Form 3, for “for the above-named petty sessions district”, substitute “at…”.
+
+## 28. Amendment to the Magistrates’ Courts (Human Rights Act 1998) Rules (Northern Ireland) 2000
+
+The Magistrates’ Courts (Human Rights Act 1998) Rules (Northern Ireland) 2000[^f00028] are amended as follows—
+
+(1) In rule 3(1)(b), omit “for the petty sessions district for which the court acts”.
+
+(2) In rule 4(2), omit “for the county court division in which the appeal will be heard”.
+
+(3) In the Schedule—
+
+- (a) in Form 1, for “for the above-named petty sessions district”, substitute “at…”; and
+- (b) in Form 2, for “the Clerk of Petty Sessions for the above named petty sessions district” substitute “the Chief Clerk at…”.
+
+## 29. Amendment to the Magistrates’ Courts (Detention and Forfeiture of Terrorist Cash) Rules (Northern Ireland) 2002
+
+The Magistrates’ Courts (Detention and Forfeiture of Terrorist Cash) Rules (Northern Ireland) 2002[^f00029] are amended as follows—
+
+(1) Omit rule 3(b).
+
+(2) In rule 11—
+
+- (a) in paragraph (5)(a), omit “for the county court division in which the appeal will be heard”; and
+- (b) in paragraph (6), omit “for the county court division for which that county court is held”.
+
+(3) In the Schedule—
+
+- (a) in Forms 1, 2 and 3, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (b) in Form 4—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the petty sessions district of … being the district in which the seizure of cash was made”, substitute “at…”;
+- (c) in Forms 5 and 6, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (d) in Form 7—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the petty sessions district of ….”, substitute “at…”;
+- (e) in Form 8, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (f) in Form 9—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named Petty Sessions District”, substitute “at…”;
+- (g) in Form 10, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+- (h) in Form 11—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named petty sessions district sitting”, substitute “sitting at…”.
+
+## 30. Amendment to the Magistrates’ Courts (Declarations of Parentage) Rules (Northern Ireland) 2002
+
+In the Schedule to the Magistrates’ Courts (Declarations of Parentage) Rules (Northern Ireland) 2002[^f00030], in Forms FL1 to FL8, in the title, omit “County Court Division of”.
+
+## 31. Amendment to the Magistrates’ Courts (Detention and Forfeiture of Seized Cash) Rules (Northern Ireland) 2003
+
+The Magistrates’ Courts (Detention and Forfeiture of Seized Cash) Rules (Northern Ireland) 2003[^f00031] are amended as follows—
+
+(1) Omit rule 2(b).
+
+(2) In rule 4—
+
+- (a) in paragraph (1), omit “for the petty sessions district in which the cash was seized”; and
+- (b) omit paragraph (2).
+
+(3) In rule 7(1), omit “for the petty sessions district in which the cash was seized”.
+
+(4) In rule 7A(1), omit “for the petty sessions district in which the cash was seized”.
+
+(5) In rule 8 —
+
+- (a) in paragraph (1), omit “to whom the application for continued detention of the cash under section 295(4) has been sent”; and
+- (b) omit paragraph (2).
+
+(6) In rule 10—
+
+- (a) in paragraph (1), omit “for the petty sessions district in which the forfeiture order was made”;
+- (b) in paragraph (5)(a), omit “for the county court division in which the appeal will be heard,”; and
+- (c) in paragraph (6), omit “for the county court division for which that county court is held”.
+
+(7) In rule 11(1), omit “for the petty sessions district in which the cash was seized”.
+
+(8) In the Schedule—
+
+- (a) in Forms 1 to 6, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (b) in Form 7—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the petty sessions district of ….”, substitute “at…”;
+- (c) in Form 8, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (d) in Form 9—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above-named Petty Sessions District”, substitute “at…”;
+- (e) in Form 10—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) for “for the above district”, substitute “sitting at…”; and
+- (f) in Form 11—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) for “for the above-named petty sessions district sitting”, substitute “sitting at…”.
+
+## 32. Amendment to the Magistrates’ Courts (Proceeds of Crime Act 2002) (Confiscation) Rules (Northern Ireland) 2003
+
+The Magistrates’ Courts (Proceeds of Crime Act 2002) (Confiscation) Rules (Northern Ireland) 2003[^f00032] are amended as follows—
+
+(1) Omit rule 3(4).
+
+(2) In rule 5, omit “for the county court division in which is located the court which will deal with the defendant”.
+
+(3) In the Schedule—
+
+- (a) in Forms 1 and 2—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the county court division of ….”;
+- (b) in Form 3—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “in the County Court Division of …. ”; and
+- (c) in Forms 4 and 5, in the title, omit “Petty Sessions District of” and “County Court Division of”.
+
+## 33. Amendment to the Magistrates’ Courts (Sexual Offences Act 2003) Rules (Northern Ireland) 2004
+
+The Magistrates’ Courts (Sexual Offences Act 2003) Rules (Northern Ireland) 2004[^f00033] are amended as follows—
+
+(1) In rule 7, omit “, and such proceedings shall be in a court of summary jurisdiction acting for the petty sessions district in which the order was made”.
+
+(2) In rule 8(2), omit “within the petty sessions district in which the proceedings are brought”.
+
+(3) In the Schedule—
+
+- (a) in Form 1—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”;
+- (b) in Forms 2 and 3, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (c) in Form 4—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”;
+- (d) in Forms 5 and 6, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (e) in Form 7—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”;
+- (f) in Form 8, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (g) in Form 9—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”;
+- (h) in Forms 10 and 11, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+- (i) in Form 12—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”.
+
+## 34. Amendment to the Magistrates’ Courts (Anti-social Behaviour Orders) Rules (Northern Ireland) 2004
+
+The Magistrates’ Courts (Anti-social Behaviour Orders) Rules (Northern Ireland) 2004[^f00034] are amended as follows—
+
+(1) In rule 3(1), omit “, and such proceedings shall be in the magistrates’ court acting for the petty sessions district in which the order was made”.
+
+(2) In rule 4(1A), in sub-paragraph (b), for “petty sessions district”, substitute “administrative court division”.
+
+(3) In the Schedule—
+
+- (a) in Forms 1 and 2—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”;
+- (b) in Forms 3 and 4, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (c) in Form 4A, in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+- (d) in Form 5—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the said petty sessions district”.
+
+## 35. Amendment to the Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010
+
+The Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010[^f00035] are amended as follows—
+
+(1) In rule 2—
+
+- (a) in paragraph (3), omit “and such proceedings shall be before a court of summary jurisdiction acting for the petty sessions district which includes the area where the person subject to the order resides”; and
+- (b) in paragraph (5), omit “within the petty sessions district in which the proceedings are brought”.
+
+(2) In the Schedule—
+
+- (a) in Form 1—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “ for the said petty sessions district”;
+- (b) in Form 2, in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+- (c) in Form 3—
+  - (i) in the title, omit “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “ for the said petty sessions district”.
+
+## 36. Amendment to the Magistrates’ Courts (Banning Orders) Rules (Northern Ireland) 2011
+
+The Magistrates’ Courts (Banning Orders) Rules (Northern Ireland) 2011[^f00036] are amended as follows—
+
+(1) In rule 3(2)(a), omit “for the district in which the order was made”.
+
+(2) In rule 5—
+
+- (a) in paragraph (3), omit “for the county court division in which the appeal will be heard”; and
+- (b) in paragraph (4), omit “for the county court division for which that county court is held,”.
+
+(3) In the Schedule—
+
+- (a) in Forms 1, 2 and 3, in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”;
+- (b) in Form 4—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) omit “for the above-named Petty Sessions District”; and
+- (c) in Form 5—
+  - (i) in the title, omit the large bracket, “Petty Sessions District of” and “County Court Division of”; and
+  - (ii) at the end, for “for the above named Petty Sessions District”, substitute “at…”.
+
+## 37. Amendment to the Magistrates’ Courts (Violent Offences Prevention Orders) Rules (Northern Ireland) 2016
+
+In rule 4 of the Magistrates’ Courts (Violent Offences Prevention Orders) Rules (Northern Ireland) 2016[^f00037], in paragraph (2), omit “within the petty sessions district in which the proceedings are brought”.
+
+William A McNally
+
+Ciaran McQuillan
+
+Marc Little
+
+Eoghan McKenna
+
+David Russell
+
+Dated 5th July 2016
+
+In exercise of the powers conferred upon me by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981 and after consultation with the Lord Chief Justice, I allow these Rules.
+
+Sealed with the Official Seal of the Department of Justice on 19th July 2016
+
+Claire Sugden
+
+Minister of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Rules listed below to take account of Part 1 of the Justice Act (Northern Ireland) 2015 which creates a single jurisdiction for county courts and magistrates’ courts whereby the jurisdiction and powers of those courts are exercisable throughout the whole of Northern Ireland.
+
+- The Magistrates’ Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1966;
+- The Magistrates’ Courts (Suspension of Disqualification for Driving) Rules (Northern Ireland) 1968;
+- The Magistrates’ Courts (School Attendance Proceedings) Rules (Northern Ireland) 1969;
+- The Magistrates’ Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1971;
+- The Magistrates’ Courts (Reciprocal Enforcement of Maintenance Orders) (Republic of Ireland) Rules (Northern Ireland) 1975;
+- The Magistrates’ Courts (Recovery Abroad of Maintenance) Rules (Northern Ireland) 1975;
+- The Magistrates’ Courts (Blood Tests) Rules (Northern Ireland) 1978;
+- The Magistrates’ Courts (Reciprocal Enforcement of Maintenance Orders) (Hague Convention Countries) Rules (Northern Ireland) 1980;
+- The Magistrates’ Courts (Re-registration of Maintenance Orders) Rules (Northern Ireland) 1980;
+- The Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) (No.1) Rules (Northern Ireland) 1986;
+- The Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) Rules (Northern Ireland) 1987;
+- The Magistrates’ Courts (Betting, Gaming, Lotteries and Amusements) (No.2) Rules (Northern Ireland) 1987;
+- The Magistrates’ Courts (Serious Fraud) (Notices of Transfer) Rules (Northern Ireland) 1989;
+- The Magistrates’ Courts (Great Britain Driving Licence Appeals) Rules (Northern Ireland) 1991;
+- The Magistrates’ Courts (Criminal Justice (International Co-operation) Act 1990) Rules (Northern Ireland) 1991;
+- The Magistrates’ Courts (Child Support) Rules (Northern Ireland) 1993;
+- The Magistrates’ Courts (Children’s Evidence) (Notices of Transfer) Rules (Northern Ireland) 1996;
+- The Magistrates’ Courts (Children (Northern Ireland) Order 1995) Rules (Northern Ireland) 1996;
+- The Magistrates’ Courts (Licensing) Rules (Northern Ireland) 1997;
+- The Magistrates’ Courts (Registration of Clubs) Rules (Northern Ireland) 1997;
+- The Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) Rules (Northern Ireland) 1997;
+- The Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Disclosure) Rules (Northern Ireland) 1997;
+- The Magistrates’ Courts (Criminal Procedure and Investigations Act 1996) (Confidentiality) Rules (Northern Ireland) 1997;
+- The Magistrates’ Courts (Criminal Justice (Children)) Rules (Northern Ireland) 1999;
+- The Magistrates’ Courts (Devolution Issues) Rules (Northern Ireland) 1999;
+- The Magistrates’ Courts (Human Rights Act 1998) Rules (Northern Ireland) 2000;
+- The Magistrates’ Courts (Detention and Forfeiture of Terrorist Cash) Rules (Northern Ireland) 2002;
+- The Magistrates’ Courts (Declaration of Parentage) Rules (Northern Ireland) 2002;
+- The Magistrates’ Courts (Detention and Forfeiture of Seized Cash) Rules (Northern Ireland) 2003;
+- The Magistrates’ Courts (Proceeds of Crime Act 2002) (Confiscation) Rules (Northern Ireland) 2003;
+- The Magistrates’ Courts (Sexual Offences Act 2003) Rules (Northern Ireland) 2004;
+- The Magistrates’ Courts (Anti-social Behaviour Orders) Rules (Northern Ireland) 2004;
+- The Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010;
+- The Magistrates’ Courts (Banning Orders) Rules (Northern Ireland) 2011.
+- The Magistrates’ Courts (Violent Offences Prevention Orders) Rules (Northern Ireland) 2016.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1981/1675 (N.I.26)](https://www.legislation.gov.uk/nisi/1981/1675), Article 13 was amended by paragraph 133 of Schedule 18 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)); paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); and paragraph 4 of the Schedule to the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13).
+
+[^f00002]: Footnote: [2015 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2015/9)
+
+[^f00003]: Footnote: S.R. & O. [(N.I.) 1966 No. 292](https://www.legislation.gov.uk/nisro/1966/292)
+
+[^f00004]: Footnote: S.R.& O. [(N.I.) 1968 No. 175](https://www.legislation.gov.uk/nisro/1968/175)
+
+[^f00005]: Footnote: S.R.& O. [(N.I.) 1969 No. 300](https://www.legislation.gov.uk/nisro/1969/300)
+
+[^f00006]: Footnote: S.R. & O. [(N.I.) 1971 No. 180](https://www.legislation.gov.uk/nisro/1971/180)
+
+[^f00007]: Footnote: [S.R. 1975 No. 52](https://www.legislation.gov.uk/nisr/1975/52)
+
+[^f00008]: Footnote: [S.R. 1975 No. 58](https://www.legislation.gov.uk/nisr/1975/58)
+
+[^f00009]: Footnote: [S.R. 1978 No. 376](https://www.legislation.gov.uk/nisr/1978/376)
+
+[^f00010]: Footnote: [S.R. 1980 No. 224](https://www.legislation.gov.uk/nisr/1980/224)
+
+[^f00011]: Footnote: [S.R. 1980 No. 225](https://www.legislation.gov.uk/nisr/1980/225)
+
+[^f00012]: Footnote: [S.R. 1986 No. 133](https://www.legislation.gov.uk/nisr/1986/133)
+
+[^f00013]: Footnote: [S.R. 1987 No. 24](https://www.legislation.gov.uk/nisr/1987/24)
+
+[^f00014]: Footnote: [S.R. 1987 No. 234](https://www.legislation.gov.uk/nisr/1987/234), to which relevant amendments were made by [S.R. 2004 No.450](https://www.legislation.gov.uk/nisr/2004/450)
+
+[^f00015]: Footnote: [S.R. 1989 No. 293](https://www.legislation.gov.uk/nisr/1989/293)
+
+[^f00016]: Footnote: [S.R. 1991 No. 86](https://www.legislation.gov.uk/nisr/1991/86)
+
+[^f00017]: Footnote: [S.R. 1991 No. 244](https://www.legislation.gov.uk/nisr/1991/244)
+
+[^f00018]: Footnote: [S.R. 1993 No. 132](https://www.legislation.gov.uk/nisr/1993/132)
+
+[^f00019]: Footnote: [S.R. 1996 No. 127](https://www.legislation.gov.uk/nisr/1996/127)
+
+[^f00020]: Footnote: [S.R. 1996 No. 323](https://www.legislation.gov.uk/nisr/1996/323), to which relevant amendments were made by [S.R. 1999 No.63](https://www.legislation.gov.uk/nisr/1999/63)
+
+[^f00021]: Footnote: [S.R. 1997 No. 62](https://www.legislation.gov.uk/nisr/1997/62)
+
+[^f00022]: Footnote: [S.R. 1997 No. 63](https://www.legislation.gov.uk/nisr/1997/63)
+
+[^f00023]: Footnote: [S.R. 1997 No. 278](https://www.legislation.gov.uk/nisr/1997/278)
+
+[^f00024]: Footnote: [S.R. 1997 No. 531](https://www.legislation.gov.uk/nisr/1997/531)
+
+[^f00025]: Footnote: [S.R. 1997 No. 532](https://www.legislation.gov.uk/nisr/1997/532)
+
+[^f00026]: Footnote: [S.R. 1999 No. 7](https://www.legislation.gov.uk/nisr/1999/7) the most recent relevant amendment being [S.R. 2008 No. 252](https://www.legislation.gov.uk/nisr/2008/252)
+
+[^f00027]: Footnote: [S.R. 1999 No. 489](https://www.legislation.gov.uk/nisr/1999/489)
+
+[^f00028]: Footnote: [S.R. 2000 No. 278](https://www.legislation.gov.uk/nisr/2000/278)
+
+[^f00029]: Footnote: [S.R. 2002 No. 12](https://www.legislation.gov.uk/nisr/2002/12)
+
+[^f00030]: Footnote: [S.R. 2002 No. 158](https://www.legislation.gov.uk/nisr/2002/158)
+
+[^f00031]: Footnote: [S.R. 2003 No. 17](https://www.legislation.gov.uk/nisr/2003/17) the most recent relevant amendment being [S.R. 2010 No. 14](https://www.legislation.gov.uk/nisr/2010/14)
+
+[^f00032]: Footnote: [S.R. 2003 No. 122](https://www.legislation.gov.uk/nisr/2003/122)
+
+[^f00033]: Footnote: [S.R. 2004 No. 203](https://www.legislation.gov.uk/nisr/2004/203)
+
+[^f00034]: Footnote: [S.R. 2004 No. 324](https://www.legislation.gov.uk/nisr/2004/324) the most recent relevant amendment being [S.R. 2008 No. 253](https://www.legislation.gov.uk/nisr/2008/253)
+
+[^f00035]: Footnote: [S.R. 2010 No. 13](https://www.legislation.gov.uk/nisr/2010/13)
+
+[^f00036]: Footnote: [S.R. 2011 No. 417](https://www.legislation.gov.uk/nisr/2011/417)
+
+[^f00037]: Footnote: [S.R. 2016 No. 94](https://www.legislation.gov.uk/nisr/2016/94)

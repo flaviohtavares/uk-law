@@ -1,0 +1,228 @@
+---
+title: The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001
+id: nisr/2001/25
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2001-01-23'
+text_date: '2008-10-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2001/25
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2001/25/pdfs/nisr_20010025_en.pdf
+- http://www.legislation.gov.uk/nisr/2001/25/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001
+
+> Text as at 2008-10-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2001 No. 25
+
+HOUSING; RATES; SOCIAL SECURITY
+
+The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001
+
+Made
+
+23rd January 2001
+
+Coming into operation in accordance with regulation 1(1)
+
+The Department for Social Development, in exercise of the powers conferred by sections 122(1)(*a*) and (*d*), 132(3) and (4)(*b*) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Articles 4 and 19(1) of the Child Support (Northern Ireland) Order 1995[^f00002], Articles 14(1) and (4)(*b*) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], and section 87(5) of the Northern Ireland Act 1998[^f00005] and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00006] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00007], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-4a000877dda303e2fb239cb8d6be12f0]
+
+(1) These Regulations may be cited as the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 and shall come into operation—
+
+- (a) in relation to any particular case, on the date on which section 22 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 comes into operation in relation to that type of case (“the commencement date”);
+- (b) in relation to a person who, on or after 16th February 2004—
+  - (i) makes a claim for income support or an income-based jobseeker’s allowance, and
+  - (ii) on or after the date of that claim receives any payment of child maintenance made voluntarily,
+
+  on 16th February 2004; or
+- (c) in relation to a person who—
+  - (i) on 16th February 2004 is entitled to income support or an income-based jobseeker’s allowance, and
+  - (ii) on or after 16th February 2004 receives any payment of child maintenance made voluntarily and that payment is the first payment of child maintenance received by that person while he is entitled to income support or an income-based jobseeker’s allowance,
+
+  on 16th February 2004 if a payment referred to in head (ii) is made on that day, or on the day on which such a payment is received where it is received after 16th February 2004.
+
+(2) In this regulation—
+
+- “the Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000;
+- “the Order” means the Child Support (Northern Ireland) Order 1991;
+- “child maintenance” shall have the same meaning as that prescribed for the purposes of section 72A of the Social Security Administration (Northern Ireland) Act 1992;
+- “an income-based jobseeker’s allowance” has the meaning given by Article 3(4) of the Jobseekers (Northern Ireland) Order 1995;
+- “payment of child maintenance made voluntarily” means any payment of child maintenance other than such a payment made—
+  - (a) under a court order;
+  - (b) under a maintenance assessment made under the Order prior to its amendment by the Act or under a maintenance calculation made under the Order after its amendment by the Act;
+  - (c) under an agreement for maintenance;
+  - (d) in accordance with Article 28J of the Order (voluntary payments); or
+  - (e) by the Department in lieu of child maintenance, including any payment made by the Department under section 26 of the Act (temporary compensation payment scheme).
+
+(3) The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Assembly.
+
+## 2. Child maintenance: income support and jobseeker’s allowance[^key-3e1ec6d679b59097c29602d40ab0cf34]
+
+(1) In the Income Support (General) Regulations (Northern Ireland) 1987[^f00010]—
+
+- (a)[^key-07ba7f6209bafa2ea80d842690142172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-b0a5f9354ea1427daefdddf9e80a8ce9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00014]—
+
+- (a)[^key-9a2765ce244668ac88abc983bf6130da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-59463d38a4fa5f206b4a2684edb1cb52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Housing benefit[^key-8b5fb92896e8e6c97ab39fc0a168a66a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Revocations and transitional provisions[^key-dd026bc0e474eb62d371717df69eb00f]
+
+(1) Subject to paragraphs (2) to (8) –
+
+- (a) regulations 2 to 13 of the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996 (“the Child Maintenance Bonus Regulations”);
+- (b) the Child Maintenance Bonus (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 1997 (“the Reciprocal Arrangements Regulations”);
+- (c) regulation 8 of the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1997; and
+- (d) regulation 2 of the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998,
+
+are hereby revoked.
+
+(2) Subject to paragraph (6), the Reciprocal Arrangements Regulations and regulations 2 to 13 of the Child Maintenance Bonus Regulations shall continue to have effect as if paragraph (1) had not been made in relation to a person –
+
+- (a) who –
+  - (i) satisfied the requirements of regulation 10 (claiming a bonus) or, as the case may be, regulation 11(4) (claims: further provisions) of the Child Maintenance Bonus Regulations, and
+  - (ii) satisfied the work condition in accordance with regulation 3(1)(c) of the Child Maintenance Bonus Regulations (entitlement to a bonus: the work condition),
+
+  before the commencement date, but whose claim has not been determined before that date;
+- (b) to whom regulation 8(1) or (2) of the Child Maintenance Bonus Regulations (retirement) applied before the commencement date but whose entitlement has not been determined before that date;
+- (c) who –
+  - (i) satisfied the requirements of regulation 10 or, as the case may be, regulation 11(4) of the Child Maintenance Bonus Regulations, and
+  - (ii) satisfied the requirements of regulation 8(4) of the Child Maintenance Bonus Regulations,
+
+  before the commencement date, but whose claim has not been determined before that date; or
+- (d) who –
+  - (i) satisifed the requirements of regulation 3(1)(b) to (f) of the Child Maintenance Bonus Regulations before the commencement date, and
+  - (ii) satisfies the requirements of regulation 10 or, as the case may be, regulation 11(4) of the Child Maintenance Bonus Regulations on or after the commencement date.
+
+(3) Subject to paragraphs (5) and (6), the Reciprocal Arrangements Regulations and regulations 2 to 6 and 9 to 13 of the Child Maintenance Bonus Regulations shall continue to have effect as if paragraph (1) had not been made in relation to –
+
+- (a) a person who –
+  - (i) satisfied the requirements of regulation 10 of the Child Maintenance Bonus Regulations before the commencement date, and
+  - (ii) has not satisfied the work condition in accordance with regulation 3(1)(c) of the Child Maintenance Bonus Regulations before that date; or
+- (b) a person –
+  - (i) who has not claimed a child maintenance bonus before the commencement date, and
+  - (ii) to whom the provisions of paragraph (4) apply on the day immediately before the commencement date.
+
+(4) For the purposes of paragraph (3)(b)(ii), the provisions of this paragraph are that –
+
+- (a) the person or, where the person has a partner, her partner is entitled to, or is treated as entitled to, a qualifying benefit whether it is payable or not;
+- (b) the person has residing with her a qualifying child;
+- (c) child maintenance is either –
+  - (i) paid or payable to the person, or
+  - (ii) retained by the Department in accordance with section 72A(3) of the Social Security Administration (Northern Ireland) Act 1992; and
+- (d) the person has not satisfied the work condition in accordance with regulation 3(1)(c) of the Child Maintenance Bonus Regulations.
+
+(5) For the purposes of paragraph (3), regulation 3 of the Child Maintenance Bonus Regulations shall have effect as if in paragraph (1) –
+
+- (a) there were inserted “no later than the day immediately before the commencement date” after –
+  - (i) “dies” in sub-paragraph (f)(i), and
+  - (ii) “has” where it first occurs in sub-paragraph (f)(ii); and
+- (b) for “14 days” in sub-paragraph (f)(iii) there were substituted “one month”.
+
+(6) For the purposes of paragraphs (2) and (3), regulation 4 of the Child Maintenance Bonus Regulations (bonus period) shall have effect as if for paragraph (7) there were substituted the following paragraph –
+
+> (7) A bonus period which would, but for this paragraph, have continued shall end –
+>
+> - (a) where the applicant or, where the applicant has a partner, her partner, satisfies the work condition and claims a bonus, on the last day of entitlement to a qualifying benefit to which any award made on that claim applies;
+> - (b) on the date of death of a person with care of a qualifying child to whom child maintenance is payable; or
+> - (c) on the day immediately before the commencement date,
+>
+> whichever is the earlier.
+
+.
+
+(7) Nothing in this regulation shall prevent the Department from issuing a written statement pursuant to regulation 6(1) of the Child Maintenance Bonus Regulations (Department to issue estimates) to a person who appears to it to satisfy the requirements of regulation 3 of those Regulations.
+
+(8) For the purposes of this regulation “child maintenance” has the meaning given by regulation 1(2) of the Child Maintenance Bonus Regulations (interpretation).
+
+Sealed with the Official Seal of the Department for Social Development on 23rd January 2001.
+
+John O'Neill
+
+Senior Officer of the
+
+Department for Social Development
+
+The Department of Finance and Personnel hereby consents to regulation 3 of the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 23rd January 2001.
+
+Brian Delaney
+
+Senior Officer of the
+
+Department of Finance and Personnel
+
+(This note is not part of the Regulations.)
+
+These Regulations amend the Income Support (General) Regulations (Northern Ireland) 1987, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 and the Housing Benefit (General) Regulations (Northern Ireland) 1987.
+
+These Regulations come into operation at different times for different cases according to the dates on which section 22 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 which is relevant to these Regulations, is commenced for different types of cases.
+
+Regulation 2(1)(*b*) and (2)(*b*) provides that for the purpose of ascertaining entitlement to income support and jobseeker’s allowance, up to £10 of a payment of child maintenance shall be disregarded. That disregarded amount is known as the child maintenance premium. Child maintenance is defined for these purposes as a payment prescribed for the purposes of section 72A of the Social Security Administration (Northern Ireland) Act 1992 (“the 1992 Act”) and payments by the Department for Social Development (“the Department”) in lieu of such maintenance.
+
+Regulation 2(1)(*a*) and (2)(*a*) provides that for the purpose of calculating the weekly amount of child support maintenance, payments by the Department in lieu of periodical payments of child support maintenance shall be treated as payments of child support maintenance.
+
+Regulation 3 provides that payments by the Department in lieu of child maintenance shall, for the purpose of ascertaining entitlement to housing benefit, be treated as if they were payments of maintenance paid by a former partner of the claimant or his partner or by a parent of a child or young person.
+
+Regulation 4 revokes, with transitional provisions, regulations 2 to 13 of the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996, the Child Maintenance Bonus (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 1997, regulation 8 of the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and regulation 2 of the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998.
+
+In so far as these Regulations are required, for the purposes of regulation 3, to be referred to the Social Security Advisory Committee under section 149(2) of the 1992 Act, after agreement by the Social Security Advisory Committee, they have not been so referred by virtue of section 150(1)(*b*) of that Act. Otherwise they make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Social Security in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the 1992 Act, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
+
+[^f00002]: Footnote: [S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
+
+[^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^f00004]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00005]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
+
+[^f00006]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; subsection (6A) was inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)which transferred the consent function under section 171(6A) from the Department of the Environment to the Department of Finance and Personnel
+
+[^f00007]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
+
+[^key-4a000877dda303e2fb239cb8d6be12f0]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/25/regulation/1) substituted (16.2.2004) by [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/2)
+
+[^key-3e1ec6d679b59097c29602d40ab0cf34]: Commencement: Reg. 2 comes into operation in accordance with reg. 1(1)
+
+[^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1993 No. 167](https://www.legislation.gov.uk/nisr/1993/167) and [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
+
+[^key-07ba7f6209bafa2ea80d842690142172]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/1/a) revoked (coming into operation in accordance with reg. 1(1)(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+
+[^key-b0a5f9354ea1427daefdddf9e80a8ce9]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/1/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/3)
+
+[^f00014]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending regulations are [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
+
+[^key-9a2765ce244668ac88abc983bf6130da]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/2/a) revoked (coming into operation in accordance with reg. 1(1)(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+
+[^key-59463d38a4fa5f206b4a2684edb1cb52]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/2/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/3)
+
+[^key-8b5fb92896e8e6c97ab39fc0a168a66a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/25/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+
+[^key-dd026bc0e474eb62d371717df69eb00f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/25/regulation/4) substituted (coming into operation in accordance with reg. 1 of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/57)](https://www.legislation.gov.uk/nisr/2003/57), [regs. 1](https://www.legislation.gov.uk/nisr/2003/57/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/57/regulation/2); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 6](https://www.legislation.gov.uk/nisr/2003/53/article/6) (as substituted (24.2.2003) by [S.R. 2003/92](https://www.legislation.gov.uk/nisr/2003/92), [art. 2](https://www.legislation.gov.uk/nisr/2003/92/article/2))

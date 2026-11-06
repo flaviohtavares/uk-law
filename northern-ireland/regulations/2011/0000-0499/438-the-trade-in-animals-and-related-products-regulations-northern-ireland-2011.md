@@ -1,0 +1,1330 @@
+---
+title: The Trade in Animals and Related Products Regulations (Northern Ireland) 2011
+id: nisr/2011/438
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2011-12-21'
+text_date: '2025-02-27'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2011/438
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2011/438/pdfs/nisrem_20110438_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/438/pdfs/nisr_20110438_en.pdf
+- http://www.legislation.gov.uk/nisr/2011/438/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade in Animals and Related Products Regulations (Northern Ireland) 2011
+
+> Text as at 2025-02-27.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2011 No. 438
+
+Animals
+
+Agriculture
+
+The Trade in Animals and Related Products Regulations (Northern Ireland) 2011
+
+Made
+
+21st December 2011
+
+Coming into operation
+
+1st January 2012
+
+The Department of Agriculture and Rural Development is designated[^f00001] for the purposes of making Regulations under section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union.
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Department of Agriculture and Rural Development that it is expedient for the references to the European instruments in these Regulations to be construed as references to those instruments as amended from time to time.
+
+The Department of Agriculture and Rural Development makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement[^key-e7fcfeba5a3197db7fc3c047369923dc]
+
+These Regulations may be cited as the Trade in Animals and Related Products Regulations (Northern Ireland) 2011 and shall come into operation on 1st January 2012.
+
+### 2. Interpretation[^key-2e5e2e0c312f4403e37f1e061033d381]
+
+(1) In these Regulations—
+
+- “the Agency” means the Food Standards Agency;
+- “animal” means an animal of any kind, including a bird, fish or invertebrate;
+- “authorised officer” means a person who is authorised by the Department, a district council, or the Agency either generally or specifically, to act in matters arising under these Regulations, whether or not that person is an officer of the Department, a district council or the Agency;
+- [^key-cd24b60a66bed55fa24f6f864121d1b1]...
+- [^key-b842245ce6e8c9ef1ea774d918402eca]...
+- “the Department” means the Department of Agriculture and Rural Development;
+- “enforcement authority” has the meaning given in regulation 31;
+- “equidae” means wild or domesticated animals of the equine (including zebras) or asinine species or the offspring or crossings of those species;
+- “[^key-427219d7c9f038ef3d343fa371096549]**genetic material**” means any germinal product that includes semen, oocytes and embryos intended for artificial reproduction and hatching eggs;
+- ”health certificate” includes the equivalent of a health certificate in electronic form;[^key-f3e24b2583838103f7b4c1207c443fcd]
+- “**importer**” means the natural or legal person who presents animals or products for importation from outside Northern Ireland[^key-9dcd75fdfcbe0b48d138b8294b72c008];
+- “**intensified official controls**” means those controls carried out in accordance with Article 65(4) of the EU Regulation;
+- “**official controls**” means activities performed in accordance with Article 2(1) of the EU Regulation;
+- “official veterinary surgeon” means a veterinary surgeon appointed by the Department in accordance with regulation 12(1)(a);
+- “[^key-4dec8d8c43217e91e260a128fadcf4ce]**premises**” includes any place, vehicle, trailer, container, stall, moveable structure, ship or aircraft;
+- “[^key-51b6b546b24b96a664a9702b2632c71c]**the published nomenclature list**” means the list of products published and amended from time to time by the Secretary of State, specifying products by reference to the relevant nomenclature for the purposes of determining the selection of consignments that must be submitted to veterinary checks at a border inspection post.
+
+(1A)[^key-2408db8c743e89048f67c093d508037c] In these Regulations—
+
+- (a) “**the EU Regulation**” is a reference to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
+- (b) “**Regulation (EU) No. 2016/1012**” is a reference to Regulation (EU) No. 2016/1012 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof;
+- (c) any reference to a “border inspection post” is to be read as a reference to a “**border control post**” as defined in regulation 11; and
+- (d) any reference to a “CVED” is to be read as a reference to a “**CHED**” as defined in regulation 10.
+
+(2) All references in Schedule 2 to European Union instruments are references to those instruments as amended from time to time.
+
+(2B)[^key-c862b92b7ed88e194d5a9442ddefc827] For the purposes of any reference to a Directive in these Regulations, any EU instrument to which that Directive refers, or to which any EU instrument referred to by that Directive refers, and which is a reference to that instrument as it has effect from time to time, is to be read as a reference to the instrument as it has effect immediately before exit day.
+
+(3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
+
+### 3. Exceptions for pet animals[^key-d1ea533775821850563672930e6576e3]
+
+(1) These Regulations do not apply in relation to pet animals where—
+
+- (a) the movement is a non-commercial movement, and
+- (b) in the case of cats, dogs and ferrets—
+  - (i) the pet animal is accompanying the owner or authorised person, or
+  - (ii) where more than five pet animals are accompanying the owner or authorised person, the conditions set out in Article 5(2) of the Pets Regulation are fulfilled.
+
+(2) In this regulation—
+
+- “authorised person”, “non-commercial movement” and “owner” have the meaning given by Article 3 of the Pets Regulation;
+- “the Pets Regulation” means Regulation (EU) No 576/2013 of the European Parliament and of the Council on the non-commercial movement of pet animals and repealing Regulation (EC) No 998/2003;
+- “[^key-cfa36cf15371d2fc1b2825e994c2eaf6]**pet animal**” has the same meaning as in Article 4(11) of Regulation (EU) 2016/429 on transmissible animal diseases;
+- “accompanying” has the same meaning as in the Pets Regulation.
+
+### 4. International agreements[^key-ff2d495118fe521e39130e9ccf403522]
+
+Trade with the Faroe Islands, Greenland,[^key-3d92d93ef04e43dd03fea656ff82b3e6] Iceland, Liechtenstein, Norway and Switzerland under any agreement between those countries and the European Union is treated as trade between member States for the purposes of these Regulations.
+
+## PART 2 — MOVEMENT TO OR FROM MEMBER STATES[^key-fd513a17dfdd37bfe10943c19ab10f03]
+
+### 5. Movement of animals or genetic material to or from member States[^key-21331c0d85b047d4a2d534826ef5dcf1][^key-a66e26b883338d3920d360dd7d73a3a9]
+
+(1)[^key-4f0982d0d68838c895b729652e3a6bbd] No animal or genetic material may be sent to or brought from a member State unless it is accompanied by an original health certificate.
+
+(1A) No animal product may be sent to or brought from a member State, unless it is accompanied by a relevant document.
+
+(2) The consignee of an incoming consignment shall keep the certificate for 12 months from the date of delivery of the consignment.
+
+### 6. Preparation of a health certificate[^key-05deeaf8db31d9924b322fd0c901ea27]
+
+(1) In order to prepare a health certificate for the consignment of an animal , animal product or genetic material to a[^key-c402eddafef35fb9118f691b70ee8463] member State, the person intending to despatch the consignment shall apply to the Department or a person authorised by the Department for a uniquely numbered certificate.
+
+(2) The certificate shall then be completed by a person authorised to do so by the Department, in accordance with the instructions sent by the Department with the certificate.
+
+(3) The person completing the certificate shall ensure that the conditions specified in the certificate are fulfilled and that all necessary examinations have been carried out.
+
+(4) If everything is in order the person shall sign the certificate.
+
+(5) A person shall not sign a certificate unless authorised to do so by the Department.
+
+(6) A person shall not sign a certificate knowing it to be false, or believing it not to be true.
+
+### 7. Notification of movement of animals and genetic material to and from member States[^key-de95a6b7cf5b99d80fc05ae175aabfab][^key-3739d309af5e43b3f45733ae35ef93c9]
+
+(1) No animal or genetic material shall be consigned to a[^key-103eedca2a73b1e8a0cf9e06758d0d4f] member State unless the consignor or their representative has notified the competent authority of the member State of destination, at least one working day before the expected arrival of the consignment[^key-a4dc009a5ef6c2483cb76913fd1fd01c].
+
+(2) No animal, (other than registered horses accompanied by identification documentation provided for by Council Directive 90/427/EEC (on the zootechnical and genealogical conditions governing intra-Community trade in equidae) , as last amended by Council Directive 2008/73/EC,[^key-230926675091162087c9b905f389c212] or genetic material shall be brought into Northern Ireland from a[^key-1ecae31325b28eaa7c767a52e08a9274] member State unless the person bringing in the consignment has notified the Department, at least 24 hours in advance of the intended arrival of the consignment.
+
+### 8. Additional requirements in specific cases[^key-501f94837636c2bce75ff5fb140cf7cb]
+
+Part I of Schedule 3 makes additional requirements for specific cases.
+
+## PART 3 — IMPORTATION FROM A THIRD COUNTRY
+
+### 9. Scope of this Part[^key-376ac9e199c81a0aa71a6c6a22c66f15][^M_F_5bf3137c-b969-4d43-bb85-3a0c2f15d1d5]
+
+This Part applies in relation to the importation into Northern Ireland from a country outside the European Union of any animal or product subject to official controls at border control posts[^key-6a2965905fd03a02c985aad13eb08ff4].
+
+### 10. Meaning and use of Common Health Entry Document “CHED”[^key-9651efefb92869c4ceaea847b5aa7f7e]
+
+(1) A “**Common Health Entry Document**” (“**CHED**”) means a document or an electronic equivalent in the format specified in Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components.
+
+(2) Where the imported consignment is required to be accompanied by a CHED to the premises of final destination, the operator responsible for the consignment must complete the relevant parts of the document prior to the physical arrival of the consignment.
+
+(3) The cases where and conditions under which the use of a CHED is required are specified in Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination.
+
+(4) Where a CHED is required the operator responsible for the consignment must comply with the provisions of Article 56 of the EU Regulation.
+
+(5) An electronic equivalent refers to a CHED capable of being produced at any time by the person responsible for the consignment.
+
+### 10. Importation[^key-4f2a4bc89b5694adcac86bf89a120b04]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Border Control Posts[^key-c991ed8ad41c89f5e9206cefeac95518][^key-e751cf1efb5dbd2ada012b452fa3e030]
+
+(1) A border control post is a place, together with the facilities contained at that place, that has been designated by the Department in accordance with Article 59 and listed by the European Commission in accordance with Article 60 for the performance of the official controls set out in Article 47(1) of the EU Regulation.
+
+(2) If at any time the relevant authority is of the opinion that any part of the inspection facilities at the border control post no longer complies with the requirements for approval, the relevant authority may, in accordance with Articles 61 to 63 of the EU Regulation, serve a notice on the operator—
+
+- (a) specifying the breach;
+- (b) providing a time limit within which the conditions must be complied with; and
+- (c) prohibiting the use of that part of the facilities until the conditions of the approval are complied with.
+
+(3) If the notice is not complied with, the Department may suspend the approval in relation to that part of the inspection facilities.
+
+(4) If the operator of a border control post is determined by the relevant authority to be in serious breach of the requirements relating to the performance of official controls for any of the categories of animal or product for which it has been designated, or the conditions of the approval, or if the operation of the border control post creates a risk to human or animal health or animal welfare, the Department must suspend the approval of the border control post and order its activities to cease for all, or specified categories of animal or product, and must inform the Commission of the suspension and the reason.
+
+(5) In this regulation, “**the relevant authority**” means—
+
+- (a) in relation to animals and genetic material, the Department; or
+- (b) in relation to products, the Department or the district council as the case may be.
+
+### 12. Appointment of official veterinary surgeons and authorised officers[^key-c5312d0b57e537b9260997963af0b7b2]
+
+(1) The Department shall appoint—
+
+- (a) suitably trained veterinary surgeons to be official veterinary surgeons;
+- (b) such appropriately trained assistants for each official veterinary surgeon appointed under sub-paragraph (a),
+
+for any border inspection post authorised to import animals.
+
+(2)[^M_F_7c038386-202e-4422-db01-d5c8f6f4d4af] A district council shall appoint—
+
+- (a) an authorised officer to carry out the regulatory functions in relation to fish and fishery products at each border inspection post in its[^key-85a85bf5ae25db47dcef5310ef57a004] district;
+- (b) such appropriately trained assistants for each authorised officer appointed under sub-paragraph (a),
+
+if the approval for the border inspection post permits the importation of any fishery products, aquatic invertebrates, live bivalve molluscs, live echinoderms, live tunicates and live marine gastropods intended for human consumption[^key-8e47467503bf1e0997489a9474051362].
+
+(3) An authorised officer appointed under paragraph (2) shall have all the powers of an official veterinary surgeon in relation to those products referred to in paragraph (2).
+
+(4) The appointment under paragraph (2) may be made by the Department rather than the district council if the approval for the border inspection post only permits the importation of animal by-products.
+
+### 13. Place of importation[^key-9e0e3655f0ed052141bab02c46d7e023]
+
+An animal or product shall not be imported into Northern Ireland other than at a border inspection post designated for that animal or product.
+
+### 14. Notification of importation[^key-b350f44fc2174e310b241bc580d4e821]
+
+(1)[^key-f06476d463afeee367b7579a6455be3b] The person responsible for a consignment of animals or products must notify the border control post of destination of the expected date of its arrival at the border control post at least one working day before it is due to arrive; but where the person can provide evidence of a logistical constraint preventing such notification, that the requirement may be satisfied by notification of its expected time of arrival at least four hours in advance.
+
+(2)[^key-d4749c36eda592e38b5d685c69e7f91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The notification shall be made by submitting the CVED with Part I completed.
+
+(4)[^key-d0ebce967d42caccee2dcefb5f4ff86b] In the case of a transhipment of products from one border control post to another, the person responsible for the consignment must notify the official veterinary surgeon at the border control post of destination of—
+
+- (a) the estimated time of arrival;
+- (b) the border control post at which the transhipment will be checked;
+- (c) the identification and location of the consignment; and
+- (d) the estimated time of departure.
+
+### 15. Procedure on importation[^key-7f95bf7948775944eb291503a0e64478]
+
+(1)  When the consignment has been unloaded, the person responsible for the consignment must with reasonable expedition arrange for it, together with the relevant health certificate published by the Department of Agriculture, Environment and Rural Affairs[^key-30dead60db64586057f3f614967d2bb5], to be presented at the border control post inspection facilities to enable official controls in accordance with—
+
+- (a) Chapter 5 of the EU Regulation, together with relevant implementing and delegated acts, and
+- (b) the checks required by Article 37(1) of Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof.
+
+(2) Any operator responsible for the consignment must ensure that the consignment is presented for official controls at the border control post at a reasonable time during the working day.
+
+(3) The competent authority must carry out all necessary official controls specified in paragraph (1) and may only issue CHED permitting entry if—
+
+- (a) the consignment complies with the conditions of trade relevant to it in any[^key-2f318300d40b506eb4648b204fbf74f0] assimilated[^key-c6cb0e9bb1a353a3fda8c7214d8da669] law or European Union instrument listed in Schedule 2;
+- (b) the importation is not prohibited under paragraph (4); and
+- (c) the correct fee for the checks has been or will be paid.
+
+(4) In the case of live animals, the official veterinary surgeon must not issue a CHED permitting entry if—
+
+- (a) the animals are from a territory or part of a territory of a third country not included in the lists drawn up in accordance with legislation of the European Union for the species concerned or from which imports are prohibited under that legislation;
+- (b) the animals are suffering from or are suspected to be suffering from or infected by a contagious disease or a disease presenting a risk to human or animal health;
+- (c) the exporting third country has not complied with the requirements provided for in legislation of the European Union;
+- (d) the animals are not in a fit state to continue their journey; or
+- (e) the veterinary certificate or document accompanying the animals does not meet the requirements of legislation of the European Union relating to importation.
+
+(5) If there are no legislative requirements relating to the consignment, the official veterinary surgeon must not issue a CHED unless the importation has been authorised in writing under this paragraph by—
+
+- (a) the Food Standards Agency for any product for which only public health requirements apply; or
+- (b) the Department for any other product.
+
+(6) An authorisation under paragraph (5)(a) may only be granted if the Agency is satisfied that the consignment does not pose a risk to human health.
+
+(7) An authorisation under paragraph (5)(b) may only be granted if the Department is satisfied that the consignment does not pose a risk to the animal health status of the United Kingdom.
+
+(8) The official veterinary surgeon must retain evidence of authorisation or refusal of a consignment for a period of three years from the date of the importation.
+
+### 16. Removal from the border control post[^key-80d961bc6d944b79c76d32433a213d67]
+
+(1) No person may remove a consignment from the border control post unless it is accompanied by a CHED issued by the official veterinary surgeon or the authorised officer (as appropriate) in the case of a consignment of fish and the movement is in accordance with that document.
+
+(2) The person transporting it from the border control post must ensure that the document accompanies the consignment and must transport it directly to the destination specified therein.
+
+(3) These requirements do not apply if the consignment is removed from the border control post under the authority of the relevant official veterinary surgeon or the authorised officer (as appropriate).
+
+(4) In the case of live animals, the person responsible for the transport to the final destination must be in possession of the appropriate transport authorisation in accordance with Article 4 of Council Regulation [(EC) 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations inside the vehicle.
+
+(5) In this regulation, requirements for a consignment to be “accompanied by a CHED” (and cognate expressions), in relation to a CHED in electronic form, refer to the CHED being capable of being produced at any time by the person responsible for the consignment.
+
+### 17. Supervision and monitoring consignments[^key-c7f43dc20b825111eefe4ddeb9465fb4]
+
+Where a consignment is required to be taken under supervision from a border control post to a specific destination in Northern Ireland[^key-d2b7bd92ae22a166ed20cd9766f37c27] or a member State—
+
+- (a) the movement must be under customs supervision if it is specified in the CHED; and
+- (b) on arrival, the occupier of the destination premises must immediately notify the Department and district council of its arrival.
+
+### 18. Destination outside Northern Ireland[^key-99f1704205284e6d6ad621ef31a02965][^key-44cd403de45fa53a0697a10fe0e280ca]
+
+(1) This regulation relates to a consignment brought into Northern Ireland but intended for an ultimate destination outside Northern Ireland[^key-54e3f17a70c5335a526e2e5d779ba00d].
+
+(2) In the case of an animal consigned to a destination outside the European Union, the person notifying its arrival shall provide documentary evidence that the country of destination will accept the animal, and the official veterinary surgeon at the border inspection post may refuse to accept the animal if this is not provided.
+
+(3)[^key-c185c5bd4aa37f9bd5ae616759e95b3f] Products that arrive at a border control post for an ultimate destination outside Northern Ireland[^key-c1873e9e4eadbc1ff09d0d54f674d08e], and which are subject to animal health check requirements in the relevant legislation listed in Schedule 2, may be taken directly from the border control post to a destination outside Northern Ireland without a CHED, so long as the products do not remain for more than three days at an airport border control post and 30 days at a sea port border control post.
+
+(3A)[^key-84008881acd78c0f79ca6f9ded041fce] Products that are not subject to import check requirements, and which arrive at a border control post for an ultimate destination outside Northern Ireland[^key-f758d00077f7bc9cd4a26b7b8aa2cea3], may be taken directly from the border control post to their destination without a CHED, so long as the products do not remain at the border control post for more than 90 days.
+
+(4) If the consignment is intended to be sent to a destination in the European Union, and the importation of the product into the European Union is not permitted, the official veterinary surgeon shall reject the consignment.
+
+### 19. Unchecked consignments[^key-7692d7a530cc19c93acc0a5a14f86573]
+
+(1) The Department or district council shall seize any consignment—
+
+- (a) brought into Northern Ireland other than through a border inspection post approved for that animal, product or genetic material;
+- (b)[^key-9a48bc99f1b091596aed5c526da35657] removed from a border control post without a CHED or the authority of the official veterinary surgeon or the authorised officer (as the case may be) at the post; or
+- (c) transported from the border control post to a destination other than that specified in the entry document.
+
+(2) Where the Department or district council suspects that a consignment does not satisfy the conditions in the legislation in Schedule 2 relating to that animal, product or genetic material—
+
+- (a) it may detain or,[^key-d43f72a6df430302a40fa4a8f3bbd32b] seize, or cause the consignment to be detained or seized, pending investigation; and
+- (b) any costs incurred shall be at the expense of the person responsible for the consignment.
+
+### 20. Action following failure of checks or seizure – products[^key-7d8ec47a55d02ef2f2dcb04536646d0f]
+
+(1) This regulation applies to any consignment of a product if the checks at a border control post show that the consignment does not comply with the rules referred to in Article 1(2) of the EU Regulation.
+
+(2) The official veterinary surgeon or the authorised officer (as appropriate) must, after consultation with the importer or importer's representative, place the consignment under detention and refuse its entry into Northern Ireland[^key-1c66e1032a1d188c2bd0e382f53c49ec].
+
+(3) The official veterinary surgeon or the authorised officer (as appropriate) may order the person responsible for the consignment—
+
+- (a) to subject the consignment to special treatment in accordance with Article 71(1) and (2) or to any other measure necessary to ensure compliance with the rules referred to in Article 1(2) of the EU Regulation and, where appropriate and provided there is no risk to human or animal health, allocate the consignment for purposes other than those for which it was originally intended;
+- (b) where health conditions permit, to require the person in charge of the consignment to re-dispatch the product in accordance with Article 72 of the EU Regulation from the same border control post to a destination outside the European Union agreed with the person responsible for the consignment, using the same means of transport, within a maximum time limit of 60 days from arrival at the border control post; or
+- (c) if the person responsible for the consignment gives immediate agreement, re-dispatch is impossible or the 60-day time limit has elapsed, to destroy the products.
+
+(4) The official veterinary surgeon or the authorised officer (as appropriate) may exceptionally authorise destruction, re-dispatch, special treatment, or any other measure that may be taken in respect of a consignment to be taken in respect of a part of the consignment only, provided that the action taken—
+
+- (a) is such as to ensure compliance;
+- (b) does not pose a risk to human or animal health; and
+- (c) does not disrupt official control operations.
+
+(5) Pending re-dispatch or confirmation of the reasons for rejection, the person responsible for the consignment must, at that person's own expense, store the consignment under the supervision of the enforcement authority.
+
+(6) If a consignment of products seized at a place other than a border control post under regulation 19, the enforcement authority must order that such consignment be retained or recalled, and placed under official detention without delay, and paragraphs (2) and (3) of this regulation apply.
+
+(7) The importer or the importer's representative is liable for the costs incurred in any measures taken under paragraphs (2) to (6), but is entitled to payment of a sum equal to the value of the product after deduction of these costs.
+
+(8) The importer or the importer's representative may immediately, within one working day after notification of the non-compliance, make written representations to the Department regarding any decision taken under this regulation, and any such representations must be considered and a written response must be given by the Department within one working day of receiving such representations.
+
+### 21. Consignments of products likely to constitute a risk to animal or human health[^key-4d948c70c2454b05ae1b19a4aee24faf]
+
+If the official controls at the border control post indicate that the consignment is likely to constitute a danger to animal or human health, the official veterinary surgeon or the authorised officer (as the case may be) must immediately place the consignment under official detention and order that the person responsible for the consignment destroy it or arrange special treatment in accordance with Article 71 of the EU Regulation at that person's expense.
+
+### 22. Serious or repeated infringements and breach of maximum residue limits[^key-03a33a520b201ad67822ab64a55b8851]
+
+(1) If the official veterinary surgeon or the authorised officer (as appropriate) suspects that products entering Northern Ireland[^key-a394bc0b8306cfe9a9addc9705646dbc] from a particular third country, part of a third country or establishment in a third country have been the subject of serious contraventions of any import requirement, or contraventions that form part of a series, or where those checks reveal that maximum residue levels have been exceeded, this regulation applies to the next ten consignments or a net weight of 300 tonnes, whichever is the lowest, imported from that third country, or (as the case may be) the particular part of a third country or establishment to which the suspicion relates.
+
+(2) If the official veterinary surgeon or the authorised officer (as appropriate) has reason to suspect fraudulent or deceptive practices by an operator responsible for a consignment the Department may apply intensified official controls.
+
+(3) The official veterinary surgeon or the authorised officer (as appropriate) must carry out a physical check on the suspected non-compliant consignment and take appropriate measures in accordance with Section 3 of Chapter 5 of Title II.
+
+(4) The person responsible for the consignment must lodge with the official veterinary surgeon a deposit or guarantee sufficient to assure payment of all charges, including the taking of samples, and tests or analysis.
+
+### 23. Action following failure of checks or seizure – animals[^key-33a7ebf7e0d62032c048e311f0003b98]
+
+(1)  If the checks at a border control post show that an animal does not comply with the rules referred to in Article 1(2) of the EU Regulation relating to that animal, or where such checks reveal an irregularity, the official veterinary surgeon must initially place the animal under detention, isolation or quarantine, as appropriate, where it must be kept, cared for or treated under appropriate conditions pending further official decision on the fate of the animal.
+
+(2) Unless immediate action is necessary in order to respond to a risk to human or animal health or animal welfare or to the environment, the official veterinary surgeon may, after consultation with the importer or the importer's representative, order the person responsible for the consignment—
+
+- (a) to shelter, feed and water, and if necessary, treat the animal;
+- (b) if necessary, to place it in quarantine or isolate it for so long as is necessary to ensure that there is no risk to human or animal health; or
+- (c) to re-dispatch the animal in accordance with Article 72 of the EU Regulation without delay.
+
+(3) If re-dispatch is impossible, in particular for welfare reasons, the official veterinary surgeon may order the importer or the importer's representative to arrange for the slaughter of the animal to spare any avoidable pain, distress or suffering.
+
+(4) If an animal is seized under regulation 19 at a place other than a border control post the enforcement authority must order the consignment to be retained or recalled, and placed under official detention without delay, and paragraphs (1) and (2) shall apply.
+
+(5) The official veterinary surgeon may exceptionally authorise partial destruction, re-dispatch, special treatment, or any other measure that may be taken in respect of a consignment of animals to be taken in respect of a part of any such consignment, provided that such action—
+
+- (a) is such as to ensure compliance with the import check requirements of the EU Regulation and any relevant Implementing Regulations and Delegated Regulations made under it;
+- (b) does not pose a risk to human or animal health; and
+- (c) does not disrupt official control operations.
+
+(6) The importer or the importer's representative is liable for the costs incurred in these measures but is entitled to payment of a sum equal to the slaughter value of the animal after deduction of these costs.
+
+### 24. Appeals[^key-3ef846f17973bf3157b1feb975e80670]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Additional requirements in specific cases[^key-d59dfcb76161c075442a2f6e8dea3f86]
+
+Part 2 of Schedule 3 makes additional requirements for specific cases.
+
+### 26. Exclusions[^key-b009b8a6f38a70a6dc66d99bce1bdbfa]
+
+The provisions of this Part do not apply in the cases specified in Schedule 4.
+
+### 27. Re-importation of animals and products[^key-6803f29818bdf74eed02b3a93c2cd0b1][^key-bdcfdb3870dbba994093557ff4bd577a]
+
+(1)[^key-393c391b829d77823b853e59f3a38cf7] An official veterinary surgeon at a border control post must authorise the re-importation of consignments of the categories of animals and products referred to in points (a) and (b) of Article 47(1) originating from, and returning to, the Union following a refusal of entry by a third country provided that—
+
+- (a) animals and germinal products that have been authorised in advance by the competent authority comply with the relevant animal health and animal welfare requirements;
+- (b) products of animal origin and composite products comply with animal and public health requirements relating to consignments of products for human consumption originating in and returning to the Union following a refusal of entry by a third country; and
+- (c) animal by-products comply with the animal health requirements laid down in Annex XIV to Commission Regulation (EU) 142/2011 for the entry of consignments of animal by-products originating from and returning to, the Union following refusal of entry by a third country.
+
+(1A)[^key-5e60f0be83996dc7d50eb47cc4463f78] In paragraph (1), “**Commission Regulation (EU) 142/2011**” means Commission Regulation (EU) 142/2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive.
+
+(2) The official veterinary surgeon shall carry out a documentary and identity check and if necessary a physical check.
+
+(3) The importer shall—
+
+- (a) transport the consignment directly to the establishment of origin in the member State where the certificate was issued, in leak-proof means of transport, identified and sealed by the official veterinary surgeon at the border inspection post so that the seals will be broken whenever the container is opened; or
+- (b)[^key-7f36a7595be91e2bd17c3548df47ba30] dispose of any product comprising the consignment in accordance with Council Regulation (EC) No. 1069/2009 of the European Parliament and of the Council on laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing (EC) No. 1774/2002 (Animal by-products Regulation)
+
+### 28. Admission of products into warehouses[^key-8c5ac63a670fec148c6c836be0bd888b]
+
+A person shall not bring a consignment of products that does not comply with the import requirements of these Regulations into a warehouse in contravention of Section 2 (customs warehousing) or Section 3 (free zones) of Chapter 3 of Title VII of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code[^key-d34c6076637e345e77778349117cce78].
+
+## PART 4 — SAFEGUARD MEASURES
+
+### 29. Safeguard measures[^key-d3d91880afbc64dd33dc873ae8f47869]
+
+(1)  Where the Department or the Agency—
+
+- (a) has reasonable grounds for suspecting the existence of a disease, zoonosis, phenomenon or circumstance in a country outside Northern Ireland[^key-a8ab5fca63ec72e95ab7f2485f3761d9] such that animals or products originating from the whole or part of the country concerned are liable to pose risk to human or animal health; or
+- (b) is of the opinion that there is serious non-compliance with official control rules under the EU Regulation in relation to imports from the European Union, or equivalent official controls rules in countries other than a member State;
+
+the Department or the Agency may publish a written declaration of the special measures necessary in Northern Ireland in order to contain the risk to human or animal health or the risk of non-compliant animals or products entering into Northern Ireland.
+
+(2) The special measures that the Department or the Agency may require include—
+
+- (a) suspension of entry into Northern Ireland of any animal or product originating in or dispatched from the whole or part of the country concerned;
+- (b) imposition of conditions requiring that any animal or products—
+  - (i) prior to dispatch, or on arrival, are made the subject of specific treatment or controls;
+  - (ii) be accompanied by an official certificate, an official attestation, or any other evidence (in any format that may be specified) that any import from the European Union complies with established official control rules under the EU Regulation and any relevant Implementing Regulations and Delegated Regulations made under it or equivalent rules in other countries;
+- (c) such other measures that the Department or the Agency considers necessary to contain the risk.
+
+(3) The declaration must be published in such a manner as the Department or the Agency (as the case may be) thinks fit and may be amended or revoked by further declaration at any time.
+
+(4) No person may import anything in breach of any measures mentioned in any such declaration.
+
+## PART 5 — ADMINISTRATION
+
+### 30. Notices, authorisations and declarations[^key-e742ec02398d7c2d983a980eeed694a9]
+
+(1) A notice served, authorisation granted, or declaration made under these Regulations—
+
+- (a) shall be in writing;
+- (b) may be made subject to conditions; and
+- (c) may be amended, suspended or revoked by a further notice in writing at any time.
+
+(2) Any notice, authorisation or declaration under these Regulations shall be complied with.
+
+### 31. Enforcement authorities[^key-267719a7de29fd6e24548116d1947695]
+
+The enforcement authorities are the Department, the Agency or a district council within its district.
+
+### 32. Enforcement[^key-e3f161e7d406628d16f54809b00749ef]
+
+(1) At a border inspection post these Regulations are enforced—
+
+- (a) in relation to animals and genetic material by the Department; and
+- (b) in relation to products by the Department or the district council as the case may be.
+
+(2) Outside a border inspection post, in relation to animals they are enforced by—
+
+- (a) the Department;
+- (b) otherwise by the district council in its district.
+
+(3) Outside a border inspection post, in relation to genetic material they are enforced by the Department.
+
+(4) Outside a border inspection post, in relation to products they are enforced by—
+
+- (a) the district council (except in relation to animal feed, where it is the Department); or
+- (b) by the Agency at—
+  - (i) any cutting plant, game-handling establishment or slaughterhouse, or
+  - (ii) premises at which the Agency enforces the Food Hygiene Regulations (Northern Ireland) 2006[^f00018].
+
+(5) In addition, in relation to products they are enforced by a general customs official in any place where goods are subject to customs supervision by that official under Articles 134 and 135 of Council Regulation (EU) No 952/2013 laying down the Union Customs Code, as last amended by Regulation (EU) 2016/2339[^key-447ab76ececc04825d3bc3ae17ea47d9].
+
+(6) The Department may direct, in relation to cases of a particular description or a particular case, that the Department of Agriculture and Rural Development may discharge any duty imposed on a district council under this regulation.
+
+(7)[^key-9659f47dd36d8884bbeafc14cb048f2f] Where an authorised officer, when exercising any statutory function, discovers at any place other than a border inspection post a consignment or product that the officer considers may have been brought in breach of regulation 13, the officer shall detain or seize the consignment or product, or cause the consignment or product to be detained or seized, pending investigation, and any costs incurred shall be at the expense of the person responsible for the consignment or product.
+
+(8) In cases where an officer of a district council who is not an authorised officer for the purposes of these Regulations, when exercising any statutory function, discovers at any place other than a [^key-62d49f6b0e0173e079a0ae5827426945]... border inspection post, a consignment or product—
+
+- (a) in relation to which the officer considers these Regulations may not have been complied with; or
+- (b) that the officer considers is from a third country and may present a risk to animal or public health,
+
+the officer shall notify an authorised officer and detain the consignment or product until an authorised officer takes charge of it and any costs incurred shall be at the expense of the person responsible for the consignment or product.[^key-15b9e8196017372b2c64ae57723618ad]
+
+### 33. Powers of entry[^key-44b774ea400ddd13aae7467497230496]
+
+(1)  An authorised officer may at any reasonable hour during normal working hours without prior notice enter any premises (except any premises used wholly or mainly as a private dwelling) if the officer believes that it is necessary to enter for the purpose of enforcing these Regulations.
+
+(2) An authorised officer must, if requested to do so, produce a duly authenticated authorisation document.
+
+(3) A Lay Magistrate may sign a warrant to permit an authorised officer to enter any premises, including a dwelling-house, if the Lay Magistrate on sworn complaint in writing is satisfied—
+
+- (a) that there are reasonable grounds to enter those premises for the purpose of enforcing these Regulations; and
+- (b) that one or more of the conditions in paragraph (4) are met.
+
+(4) The conditions are—
+
+- (a) that entry to the premises has been, or is likely to be, refused, and notice of the intention to apply for a warrant has been given to the occupier;
+- (b) that asking for admission to the premises, or giving such a notice, would defeat the object of the entry;
+- (c) that entry is required urgently; or
+- (d) that the premises are unoccupied or the occupier is temporarily absent.
+
+(5) A warrant is valid for 30 days from the date of signature by the Lay Magistrate.
+
+(6) An authorised officer entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(7) An authorised officer may—
+
+- (a) be accompanied by such other persons (up to a maximum of three) as the officer considers necessary;
+- (b) bring onto the premises such equipment as the officer considers necessary.
+
+### 34. Powers of authorised officers[^key-96c97f84172f7ce87a75297cda1ab7c5]
+
+An authorised officer may—
+
+- (a) inspect and examine any animal;
+- (b) inspect any product, or genetic material, including its packaging, seals, marking, labelling and presentation, and any plant or equipment used for or in connection with it;
+- (c) have access to, and inspect and copy any documents or records (in whatever form they are held), and remove them to enable them to be copied;
+- (d) have access to, inspect and check the operation of any computer and any associated apparatus used in connection with the records; and may require any computer records to be produced in a form in which they may be taken away;
+- (e) seize and retain anything required as evidence in proceedings under these Regulations;
+- (f) open any bundle, package, packing case, or item of personal luggage, or require any person in possession of or accompanying the same to open it and inspect the contents;
+- (g) take samples of any animal or product for laboratory tests, for checking against any relevant document relating to the animal or product or otherwise for checking compliance with these Regulations or any condition of import enforced by these Regulations.
+- (h)[^key-c5e99505c7052faaa01be452361b0c20] require the slaughter of any imported animal which is non-compliant with import or animal welfare requirements in these Regulations or the EU Regulation or any Implementing Regulations and Delegated Regulations made under it, or suspected by the Department of posing a risk to animal or human health;
+- (i) require the quarantine of any imported animal that is suspected by the Department of posing a risk to animal or human health.
+
+### 34A. Protection of officials acting in good faith[^key-dd4c6684393cb2e1c44a032135e0ac1f]
+
+(1) An authorised officer shall not be personally liable in respect of any act done by that person in the performance or purported performance of the functions within the scope of that person’s employment, if the person did that act in the honest and reasonable belief that his duties under these Regulations required or entitled the person to do so.
+
+(2) Paragraph (1) does not relieve an enforcement authority from any liability in respect of acts of its officers.
+
+### 35. Importation of animals or products constituting a risk to animal or public health[^key-3129c3d4d706131a946d044e4a0fdee8]
+
+(1)  If imported animals or products are suspected by the Department of constituting a serious risk to human or animal health or animal welfare, or, in a case of suspected non-compliance, the animals or products come from a region contaminated by an epizootic disease, the authorised officer may require—
+
+- (a) an investigation in order to confirm or eliminate that suspicion;
+- (b) an investigation into the extent of any suspected non-compliance and to establish the import operator's responsibilities;
+- (c) intensified official controls on consignments of animals or products from a particular region until such imports are no longer regarded by the officer as constituting such health risk;
+- (d) the official detention of any of the animals or products;
+- (e) appropriate measures to ensure that the person responsible for the animals or products remedies the non-compliance and prevents further occurrences of such non-compliance.
+
+(2) In a case within paragraph (1)(a), the importer must assist the officer with establishing the region of origin.
+
+(3) Where the Department is satisfied that imported animals or products constitute a risk to animal or public health, the authorised officer may, following written notice, take any reasonable action to ensure compliance with any rules laid down in accordance with Article 1(2) of the EU Regulation, including—
+
+- (a) taking samples for testing and ordering or performing veterinary treatments on animals;
+- (b) ordering the unloading of animals and their transfer via another means of transport to a specified holding for a specified quarantine period, (whether or not involving the postponement of the slaughter of animals);
+- (c) the slaughter or killing of animals, provided that this is the most appropriate measure to safeguard human health as well as animal health and welfare;
+- (d) restricting or prohibiting the placing on the market, the movement or the export of the animal or product, or requiring its return to the country of dispatch;
+- (e) ordering the importer to increase the frequency and thoroughness of systematic checks and controls before importing further animals or goods from the same region;
+- (f) ordering the isolation or closure, for an appropriate period of time, of all or part of a business operation (including any related internet and on-line sales of products that may constitute a risk to animal or human health) affected by the importation of an animal or product that constitutes a risk to animal or human health;
+- (g) the recall, withdrawal, removal or destruction of products;
+- (h) the treatment of products for human consumption, the alteration of labels or the provision of corrective information to consumers;
+- (i) the temporary suspension or withdrawal of the registration or approval of an affected establishment, plant, holding or means of transport concerned, or of an authorisation of a transporter;
+- (j) the use of products for purposes other than those for which they were originally intended.
+
+(4) An authorised officer must provide an affected business operator, or its representative, with—
+
+- (a) written notification of the decision concerning the action or measure to be taken in accordance with this regulation, together with the reasons for that decision; and
+- (b) information on any right of appeal against such decision in accordance with regulation 35A.
+
+(5) In the case of the issue of false or misleading official certificates in Northern Ireland, or where there is evidence of abuse of official certificates, the authorised officer, may take appropriate measures, including—
+
+- (a) the temporary suspension of the certifying officer from certifying any certificates related to any relevant trade;
+- (b) the withdrawal of the authorisation of a person to sign official certificates; and
+- (c) any other measure believed by the officer to be necessary to prevent a reoccurrence of any non-compliance or abuse.
+
+### 35A. Appeals[^key-7ca79b3d7a43ff6e46ff5e07f89ff742]
+
+Any person aggrieved by a decision made under these Regulations may appeal within one month of the decision to a Magistrates' court by way of sworn complaint in writing for an order and the Magistrates' Court (Northern Ireland) Order 1981 applies to the proceedings.
+
+### 36. Obstruction[^key-b9801c9e66dd315879af100cc873d4ca]
+
+(1) A person shall not—
+
+- (a) intentionally obstruct any person acting in the execution of these Regulations or the EU Regulation[^key-b292f92192a727247abe8dd323d2298a];
+- (b) without reasonable cause, fail to give any person acting in execution of these Regulations or the EU Regulation any assistance or information that that person may reasonably require for the purpose of carrying out functions under these Regulations or the EU Regulation; or
+- (c) furnish to any person acting in the execution of these Regulations or the EU Regulation any information knowing it to be false or misleading.
+
+(2) Nothing in paragraph 1(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate them.
+
+### 37. Exchange of information[^key-8aacc1015b73250736cce241af5e563e]
+
+(1) The enforcement authority may exchange information for the purposes of these Regulations, and may divulge information to the enforcement authorities in England, Scotland and Wales for the purposes of this Part or the equivalent legislation in those jurisdictions.
+
+(2) Paragraph (1) is without prejudice to any other power of the enforcement authority, to disclose information.
+
+(3) No person shall disclose any information received from the enforcement authority under paragraph (1) if—
+
+- (a) the information relates to a person whose identity–
+  - (i) is specified in the disclosure; or
+  - (ii) can be deduced from the disclosure;
+- (b) the disclosure is for a purpose other than the purposes specified in paragraph (1); and
+
+this shall include a servant of the Crown.
+
+### 38. Fees[^key-58c1a166f3876edc6c270522f2877f71]
+
+(1) The Department, the district council or the Agency (whichever is responsible under regulation 32) may charge a reasonable fee in relation to any activity relating to trade between member States in animals or genetic material under these Regulations.
+
+(2) The consignor, the consignor’s representative and the person in charge of any animal or genetic material are jointly and severally liable for that fee[^f00020].
+
+### 39. Offences[^key-fc5a233ad77742e851570386cd09a4b6]
+
+A person contravening any of the provisions of these Regulations specified in Schedule 1 shall be guilty of an offence.
+
+### 40. Penalties[^key-1be7014a1d675749eb6542ecc668476a]
+
+(1) A person guilty of an offence of disclosure in breach of regulation 37(3) (disclosure of information) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, to imprisonment not exceeding 3 months, or to both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, to a fine or to both.
+
+(2) A person guilty of any other offence under these Regulations is liable on summary conviction to a fine not exceeding the statutory maximum or, on conviction on indictment, to a fine.
+
+### 41. Disapplication of existing provisions[^key-7a34ac08ca13aef48f757091efbb7dd4]
+
+(1) The Landing of Carcases and Animal Products Order (Northern Ireland) 1985[^f00021] and The Diseases of Animals (Importation of Bird Products) Order (Northern Ireland) 1996[^f00022] shall not apply to products to which these Regulations apply, except the products referred to in paragraphs 2 and 4 of Schedule 4.
+
+(2) The Artificial Reproduction of Animals (Northern Ireland) Order 1975[^f00023] shall not apply to products to which these Regulations apply, except embryos, ova and semen of the ovine, caprine and bovine species.
+
+### 42. Revocations[^key-d5b60dbbf73ab83b4f0a421ec7463c34]
+
+(1) The following are revoked—
+
+- (a) the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^f00024];
+- (b) the Products of Animal Origin (Import and Export) (Amendment) Regulations (Northern Ireland) 2001[^f00025];
+- (c) the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006[^f00026];
+- (d) the Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007[^f00027];
+- (e) the Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2007[^f00028];
+- (f) the Animals and Animal Products (Import and Export) (Circuses and Avian Quarantine) Regulations (Northern Ireland) 2007[^f00029];
+- (g) the Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2008[^f00030];
+- (h) the Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2009[^f00031];
+- (i) the Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2010[^f00032];
+- (j) the Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2010[^f00033];
+- (k) the Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2011[^f00034].
+
+(2) Schedule 5 makes amendments consequential to these Regulations.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 21st December 2011
+
+C. McMaster
+
+A senior officer of the Department of Agriculture and Rural Development
+
+## SCHEDULE 1 — OFFENCES[^key-b66955a661faf62f2d831db6d66ed9dd]
+
+Regulation 39
+
+<table>
+<thead>
+<tr><th colspan="2"><strong>Provision</strong></th><th><strong>Description of the offence</strong></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2">regulation 5(1) and (1A)</td><td>Movements without correct accompanying document</td></tr>
+<tr><td colspan="2">regulation 5(2)</td><td>Failing to keep a certificate for at least twelve months</td></tr>
+<tr><td colspan="2">regulation 6(5)</td><td>Signing a certificate without being authorised by the Department</td></tr>
+<tr><td colspan="2">regulation 6(6)</td><td>Signing a certificate knowing it to be false, or not believing it to be true</td></tr>
+<tr><td colspan="2">regulation 7</td><td>Failing to notify movement between member States</td></tr>
+<tr><td colspan="2">regulation 13</td><td>Importation other than at a border inspection post</td></tr>
+<tr><td colspan="2">regulation 14</td><td>Failing to notify importation</td></tr>
+<tr><td colspan="2">regulation 15(1)</td><td>Failing to present a consignment for inspection</td></tr>
+<tr><td colspan="2">regulation 15(2)</td><td>Failing to comply with a notice</td></tr>
+<tr><td colspan="2">regulation 16(1)</td><td>Removal from a border inspection post without a CVED</td></tr>
+<tr><td colspan="2">regulation 16(2)</td><td>Failing to transport a consignment to the place specified in the CVED</td></tr>
+<tr><td colspan="2">regulation 17(a)</td><td>Movement other than under Customs supervision</td></tr>
+<tr><td colspan="2">regulation 17(b)</td><td>Failure to notify the Department</td></tr>
+<tr><td colspan="2">regulation 28</td><td>Bringing a non-compliant product into a warehouse etc.</td></tr>
+<tr><td colspan="2">regulation 29(4)</td><td>Bringing in an animal, product or genetic material in breach of a declaration</td></tr>
+<tr><td colspan="2">regulation 36</td><td>Obstruction</td></tr>
+<tr><td colspan="2">regulation 37(3)</td><td>Disclosure of information</td></tr>
+<tr><td colspan="2">Schedule 3:</td><td></td></tr>
+<tr><td></td><td>paragraph 5(1) of Part 1</td><td>Trading in apes</td></tr>
+<tr><td></td><td>paragraph 6(2) of Part 1</td><td>Obligations of the circus operator</td></tr>
+<tr><td></td><td>paragraph 6(3) of Part 1</td><td>Notification of movement</td></tr>
+<tr><td></td><td>Paragraph 7 of Part 1</td><td>Movement of Animal by-products</td></tr>
+<tr><td></td><td>paragraph 8(2) of Part 2</td><td>Slaughter of animals</td></tr>
+<tr><td></td><td>paragraph 8(3) of Part 2</td><td>Keeping animals at their place of destination</td></tr>
+<tr><td></td><td>paragraph 9(2) of Part 2</td><td>Transport of birds to approved quarantine facilities or centres</td></tr>
+<tr><td></td><td>paragraph 9(3) of Part 2</td><td>Release of birds from quarantine</td></tr>
+<tr><td></td><td>paragraph 11 of Part 2</td><td>Use of a certificate relating to ships’ stores</td></tr>
+<tr><td colspan="2">Schedule 4 paragraph 4(3)</td><td>Destruction or redispatch in accordance with the authorisation</td></tr>
+</tbody>
+</table>
+
+[^key-7caf001bbaeae7b5fae5800a6691eb75][^key-bf6c93f815b4c144f6c543b297aa614c][^key-586b022badcc0792afc680910b9862d3]
+
+## SCHEDULE 2 — EUROPEAN UNION LEGISLATION[^key-2c8ac4823239e48595c228be806da04b]
+
+Regulations 5 and 15
+
+| **EU legislation** | **Subject** |
+| --- | --- |
+| Council Directive 64/432/EEC on animal health problems affecting intra-Community trade in bovine animals and swine[^f00035] | Bovine animals and swine |
+| Council Directive 88/407/EEC laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the bovine species[^f00036] | Bovine semen |
+| Council Directive 89/556/EEC on animal health conditions governing intra-Community trade in and importation from third countries of embryos of domestic animals of the bovine species[^f00037] | Fresh and frozen bovine embryos |
+| [^key-fb84f8f3e7caf927ae785cf60cccd071]. . . | [^key-fb84f8f3e7caf927ae785cf60cccd071]. . . |
+| [^M_F_3b6c5fec-7751-44d5-ad9b-13ad61a4be5d]. . . | [^M_F_3b6c5fec-7751-44d5-ad9b-13ad61a4be5d]. . . |
+| Council Directive 90/429/EEC laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the porcine species[^f00040] | Porcine semen |
+| [^M_F_0d4d1696-2987-41de-a812-9778aee7530a]. . . | [^M_F_0d4d1696-2987-41de-a812-9778aee7530a]. . . |
+| Council Directive 91/68/EEC on animal health conditions governing intra-Community trade in ovine and caprine animals[^f00042] | Sheep and goats |
+| Council Directive 92/65/EEC laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) (1) to Directive 90/ 425/EEC [^f00043] | Other animals and products specified in the Directive |
+| Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC[^f00044] | Miscellaneous products |
+| [^M_F_35f8d032-6ff5-4198-be56-0d66c21af628]. . . | [^M_F_35f8d032-6ff5-4198-be56-0d66c21af628]. . . |
+| [^key-458739818435d30d9366afc63567ad06]. . . | [^key-458739818435d30d9366afc63567ad06]. . . |
+| Regulation (EC) No 178/2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down the procedures in matters of food safety[^f00047] | Animal products for human consumption |
+| Council Directive 2002/99/EC laying down the animal health rules governing the production, processing, distribution and introduction of products of animal origin for human consumption[^f00048] | Animal products for human consumption |
+| Council Directive 2004/68/EC laying down animal health rules for the importation into and transit through the Community of certain live ungulate animals[^f00049] | Certain live ungulate animals including bovine, ovine, caprine, porcine |
+| Commission Regulation (EC) No 136/2004 laying down procedures for veterinary checks at Community border inspection posts on products imported from third countries[^f00050] | Hay and Straw |
+| Regulation (EC) No 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs[^f00051] | Animal products for human consumption |
+| Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00052] | Animal products for human consumption |
+| [^M_F_39f93671-ebb4-4504-f0f4-a9e249e9eb4c]. . . | [^M_F_39f93671-ebb4-4504-f0f4-a9e249e9eb4c]. . . |
+| [^M_F_918bff37-30b7-403a-9cfe-875641b26a34]. . . | [^M_F_918bff37-30b7-403a-9cfe-875641b26a34]. . . |
+| Council Regulation (EC) No. 183/2005 laying down requirements for feed hygiene[^f00055] | Animal feed |
+| Commission Decision 2007/275 concerning lists of animals and products to be subject to controls at border inspection posts under Council Directives 91/496/EEC and 97/78/EC[^f00056] | Composite products |
+| Council Directive 2006/88/EC on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals[^f00057] | Aquatic animals |
+| Council Directive 2009/156/EC on animal health conditions governing the movement and importation from third countries of equidae[^f00058] | Equidae |
+| Council Directive 2009/158/EC on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs[^f00059] | Poultry and hatching eggs |
+| Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed[^f00060] | Animal feed |
+| Council Regulation (EC) No 1069/2009 laying down the health rules as regards animal by-products and derived products not intended for human consumption [^f00061] | Animal by-products |
+| Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof[^key-b041a380e5d6bf95ee9fbafa453f2baf] | Purebred breeding animals, hybrid breeding pigs and the germinal products thereof |
+| Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products and the Implementing Regulations and Delegated Regulations made under it.[^key-7151b50865cf1e5d37b4a31e72ee7793] | Official controls and other official activities[^key-c9f5fea5d6c3a97458f6d6009ef76c41] |
+
+## SCHEDULE 3 — SPECIFIC REQUIREMENTS FOR INDIVIDUAL CASES
+
+Regulations 8 and 25
+
+### PART 1 — ADDITIONAL REQUIREMENTS FOR TRADE WITH MEMBER STATES[^key-843b72302256871bb6df3fe490683fcb]
+
+#### 1. Dealers in cattle, sheep, pigs or goats[^key-8dfbd57411fa3244bb4ba8b41e62b9cc]
+
+(1) The Department may authorise premises to operate as an assembly centre or dealer’s premises in accordance with Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) (in the case of cattle and pigs) or Council Directive [91/68/EEC](https://www.legislation.gov.uk/european/directive/1991/0068) (in the case of sheep and goats).
+
+(2) The authorisation shall specify the dealer or operator authorised to operate the premises.
+
+(3) The Department must be satisfied that the dealer or operator will operate the premises in accordance with Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) or Council Directive [91/68/EEC](https://www.legislation.gov.uk/european/directive/1991/0068).
+
+(4) In this Article dealer means—
+
+- (a) in the case of cattle or pigs, any person who buys and sells animals commercially either directly or indirectly, who has a regular turnover of these animals and who within 30 days of purchasing animals resells or relocates them from the first premises to other premises not within his ownership; and
+- (b) in the case of sheep or goats, any person who buys and sells animals commercially either directly or indirectly, who has a regular turnover of these animals and who within 29 days of purchasing animals resells or relocates them from the first premises to other premises not within his ownership
+
+#### 2. Transport of cattle, pigs, sheep or goats[^key-29740cbdbd62a567090f54a77bdabb35]
+
+(1)[^key-d9b5efd7ae9e67bf12add2bf8456fae3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-636c607b8ea0307fdbbac79acffa17e1] No person may transport cattle, pigs, sheep or goats to a member State unless authorised by the Department in accordance with Article 11 of Council Regulation (EC) No 1/2005 on the protection of animals during transport and related operations.
+
+(3) The transporter shall, for each vehicle used for the transport of those animals, keep a register containing the following information,
+
+- (a) places and dates of pick-up, and the name or business name and address of the holding or assembly centre where the animals are picked up;
+- (b) places and dates of delivery, and the name or business name and address of the consignee;
+- (c) species and number of animals carried;
+- (d) date and place of disinfection; and
+- (e) the unique identifying number of accompanying health certificates.
+
+(4) The register shall be kept for at least three years.
+
+(5) The transporter shall ensure that the means of transport is constructed in such a way that animal faeces, litter or feed cannot leak or fall out of the vehicle.
+
+(6) The transporter shall give a written undertaking to the Department stating that—
+
+- (a) in the case of cattle or pigs, Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432), and in particular the provisions laid down in Article 12 of that Directive and the provisions of that Directive relating to the appropriate documentation that shall accompany the animals, will be complied with;
+- (b) in the case of sheep or goats, Council Directive [91/68/EEC](https://www.legislation.gov.uk/european/directive/1991/0068), and in particular the provisions laid down in Article 8c of that Directive and the provisions of that Directive relating to the appropriate documentation that shall accompany the animals, will be complied with; and
+- (c) the transport of animals will be entrusted to staff who possess the necessary ability, professional competence and knowledge.
+
+#### 3. Horses[^key-b6a0d64b456552b4d17dfef8a0259059]
+
+Registered equidae and equidae for breeding and production (other than registered horses accompanied by identification documentation provided for by Council Directive [90/427/EEC](https://www.legislation.gov.uk/european/directive/1990/0427) (on the zootechnical and genealogical conditions governing intra-Community trade in equidae) covered by a bi-lateral agreement made under Article 6 of Council Directive [2009/156/EC](https://www.legislation.gov.uk/european/directive/2009/0156) on animal health conditions governing the movement and importation from third countries of equidae[^f00062] may move to or from[^key-3420c224444a40010bd180c46f3b5442] member states without a health attestation or a health certificate and are exempt from the requirement in regulation 7(2) to provide one working days' notice to the Department in advance of the intended arrival of the consignment[^key-cc7101b7c00c15d97927ba82ce93213f].
+
+#### 4. Northern Ireland Poultry Health Assurance Scheme[^key-ae0b36f951944d4efb856fc9c9e0058c]
+
+For the purposes of Article 6 of, and Annex II to, Council Directive 2009/158/EC (which establishes a poultry health scheme relating to trade with[^key-a724c92a7bcf171453146a8691bd9d73] member States)—
+
+- (a) the approval of establishments and laboratories shall be granted by the Department under the Northern Ireland Poultry Health Assurance Scheme Order (Northern Ireland) 2011[^f00063];
+- (b) an annual inspection of an approved establishment shall be carried out by a veterinary surgeon appointed for the purpose by the Department for the establishment to remain on the register.
+
+#### 5. Approvals for the Balai Directive[^key-ed811b6ae2c2c68f3dbfb14f7dcb1b94]
+
+(1) A person shall not trade in apes (simiae and prosimiae) other than between a centre approved by the Department and a centre approved by the competent authority for the other member State in accordance with Article 5 of Council Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065) (“the Balai Directive”).
+
+(2) A body seeking approval to use the different health provisions set out in Article 13 of the Balai Directive shall be approved by the Department.
+
+(3) The Department shall suspend, withdraw or restore approvals in sub-paragraph (1) or (2) in the circumstances set out in point 6 of Annex C to that Directive.
+
+(4) The Department shall approve a body authorised to engage in trade with[^key-17f4dcd1c67a8d291c034cee0067ad45] member States in semen, ova and embryos in accordance with Article 11 of the Balai Directive if it meets the conditions applicable to it in respect of approval and the performance of its duties as required by Article 11 of and Annex D to that Directive.
+
+(5) By way of derogation, from sub-paragraph (1), the Department may authorise in writing a body approved under this paragraph to acquire an ape (simiae and prosimiae) belonging to an individual.
+
+#### 6. Circuses[^key-88f96f78087ef573c7443a0e9ea26221]
+
+(1) The Department is the competent authority for the purposes of Commission Regulation (EC) No. 1739/2005 laying down animal health requirements for the movement of circus animals between member States[^f00064].
+
+(2)[^M_F_b6081076-0f74-4a87-d1f1-c6f45abfa8b8] A person shall not contravene Article 8 of that Commission Regulation (obligations of the circus operator).
+
+(3) Notwithstanding regulation 5(1) of these Regulations, a person shall not contravene Article 10(1) of that Commission Regulation (notification of movement).
+
+#### 7. Animal by-products[^key-d87f2e434d2d1a788ca24e098fb13d09]
+
+Animal by-products to which Article 48 of Regulation (EC) No 1069/2009 apply may only be consigned to a member State, or brought into Northern Ireland from a[^key-207e3818c0721babd426432851028c3d] member State, in accordance with that Article.
+
+### PART 2 — ADDITIONAL PROVISIONS RELATING TO IMPORTS FROM THIRD COUNTRIES
+
+#### 8. Arrival at premises of destination[^key-74f493837518b994bfaab0bba1a8da70]
+
+(1) This paragraph applies to elephants and to cattle, pigs, sheep goats and all other animals of the taxa *Artiodactyla*, and their crossbreeds.
+
+(2) Animals intended for immediate slaughter shall be conveyed without delay from the border inspection post to the slaughterhouse of destination and slaughtered within 3 working days.
+
+(3) In any other case the animals shall be taken without delay from the border inspection post to the holding of destination and kept there for at least 30 days (unless consigned from the holding direct to a slaughterhouse).
+
+#### 9. Imported birds[^key-5e278739ed855f9de39beef737a06f00]
+
+(1)[^M_F_8f5eebc9-8381-4204-80c9-19f540955e6f] The Department is the competent authority for the import of certain birds and quarantine conditions for the purposes of[^key-d7a253ec8b72ca837526eb52f5e70d47] Commission Implementing Regulation (EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof , as amended from time to time.
+
+(2) An importer shall comply with Article 7 (transport of birds) of that Regulation.
+
+(3) A person shall not release a bird from quarantine except in accordance with Article 16 (release of birds) of that Regulation.
+
+#### 10. Horses[^key-c36410c3a8f0315b89cc5cc5d9d4fc45]
+
+When a horse is imported from a third country under Commission Implementing Regulation (EU) 2018/659 on the conditions for the entry into the Union of live equidae and of semen, ova and embryos of equidae[^key-b363d9da4a046b94bc31528246de8afc] , as amended by Commission Implementing Regulation (EU) 2018/1301[^key-c5ac41aa9f49cdebe94dd1e5f86f803b], the official veterinary surgeon shall return the health certificate to the person accompanying the horse, and make a record of the certificate.
+
+#### 11. Ship supply[^key-42dc48aadd59a1554f245ec9846b75dc]
+
+(1) A product that does not comply with import requirements and is sent from a border control post to a ship must be accompanied by the relevant health certificate relating to that product, and the master of the vessel must confirm delivery of the product by signing a certificate which must accompany the consignment to its place of destination.
+
+(2) Within 15 days of completion of delivery of products on board the vessel, the operator responsible for the delivery, or the representative of the master of the vessel must send the official certificate signed by the master of the vessel (or send by electronic means and systems) to the competent authority of the border control post of entry or the approved Customs warehouse.
+
+#### 12. Charges for veterinary checks from New Zealand[^M_F_aad88511-5fd6-432e-9f6e-1da70a2c2985]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — CASES TO WHICH PART 3 DOES NOT APPLY
+
+Regulation 26
+
+### 1. Disapplication of Part 3[^key-c5fe1d69756c7f74b49c7e85853f4ae8]
+
+Part 3 of these Regulations, with the exception of regulation 21 does not apply in the cases set out in this Schedule.
+
+### 2. Case 1: Personal imports and small consignments[^key-88c855eef7d12b1babd577242a16f364]
+
+Products referred to in Article 7 and Article 10 of the Commission Delegated Regulation adopted in accordance with Articles 48(d) and (e) of the EU Regulation.
+
+### 3. Case 2: International means of transport[^key-af48b772519474b33dfd08f0d99bdca4]
+
+Products on board means of transport operating internationally that are intended for consumption by the crew and passengers and that are either—
+
+- (a) not unloaded;
+- (b) transferred directly from one means of transport operating internationally to another at the same port and under customs supervision; or
+- (c) destroyed as soon as they are unloaded.
+
+### 4. Research and diagnostic samples[^key-0bdd6736fde6dae0ab23b24d453c3bd5][^key-c89a0b37a2ecfc95d5b8f4cf70b838f6][^key-ef0c7d14781a086fb0417b2f5fc33207]
+
+(1) Research and diagnostic samples as defined in point (38) of Annex I to Regulation (EU) No 142/2011, are exempt from veterinary checks at the border control post provided that they have been authorised in advance by the Department and the consignment is sent directly from the point of entry to the authorised user.
+
+(2) In relation to such samples arriving in Northern Ireland and destined for a member State,—
+
+- (a) the importer or importer's representative must present research and diagnostic samples at a border control post of entry; and
+- (b) the competent authority of the border control post must inform the competent authority of the member State of destination of the arrival of the samples.
+
+### 5. Case 4: Consignments cleared in a member State[^key-d476b61160dcf9440e8d4c19c854cd06][^key-326ced6878c58a06da4c6de4aa317551]
+
+Consignments of animals and products that have been presented to a border inspection post in a[^key-f01fee12252197543a2c8cd2524810e0] member State [^key-55b6e588f64e66b2c07f3500be9a0a19]... and have been cleared for free circulation.
+
+### 6. Case 5: Composite products[^key-53dde2757a67b025369bd7d24d28171f]
+
+(1) Composite products and foodstuffs listed in the list of composite products and foodstuffs exempt from veterinary import checks published by the Secretary of State[^key-5c31ab278dc678e783db4e6f00ec836a].
+
+(2) Composite products not containing meat or meat products, where less than half of the product is processed product of animal origin, provided that such products are—
+
+- (a) shelf-stable at ambient temperature or have clearly undergone, in their manufacture, a complete cooking or heat treatment process throughout their substance, so that any raw product is denatured;
+- (b) clearly identified as intended for human consumption;
+- (c) securely packaged or sealed in clean containers; and
+- (d) accompanied by a commercial document and labelled in an official language of a Member State, so that that document and labelling together give information on the nature, quality and number of packages of the composite products, the country of origin, the manufacturer and the ingredient.
+
+### 7. Case 6: Animals subject to rabies control[^key-2f63673edb8bd45649c1837ad624ab00]
+
+Animals specified in the Schedule to the Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977[^f00069] and imported in accordance with a licence under that Order.
+
+### 8. Case 7: Invertebrate animals intended for scientific purposes[^key-2221343e1270b9fdca1e4291b995ece3]
+
+(1) Invertebrate animals intended for scientific purposes such as research, educational activities or research related to product development activities are exempt from official controls at border control posts other than controls carried out in accordance with Article 15(2) of Regulation (EU) No 1143/2014, provided that—
+
+- (a) they comply with all requisite animal health requirements;
+- (b) they have been authorised by the Department;
+- (c) when the activities relating to the scientific purposes have been carried out, they and any products derived from them, with the exception of any portions used for the scientific purposes, must be disposed of or re-dispatched to the third country of origin.
+
+(2) Paragraph (1) does not apply to honey bees (Apis mellifera), bumble bees (Bombus spp), molluscs belonging to the phylum Mollusca or crustaceans belonging to the subphylum Crustacea.
+
+## SCHEDULE 5 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 42(2)
+
+### 1. Amendment to the Bluetongue Regulations (Northern Ireland) 2008[^key-8be9e12d97915a0e9f04b6e8a5b82d0b]
+
+After regulation 20 (compulsory vaccination) of the Bluetongue Regulations (Northern Ireland) 2008[^f00070] insert—
+
+> **20A. Exports**
+>
+> (1) A person shall not export any animal, semen, ovum or embryo to a third country unless it complies with [Commission Regulation (EC) No. 1266/2007](https://www.legislation.gov.uk/european/regulation/2007/1266) on implementing rules for Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue.
+>
+> (2) An inspector who has reasonable cause to suspect that a person intends to export any animal, semen, ovum or embryo in contravention of this regulation may by notice served on that person, that person’s representative or the person appearing to be in charge of the animal, semen, ovum or embryo, prohibit that export and require the person on whom the notice is served to take the animal, semen, ovum or embryo to such places as may be specified in the notice and to take such further action in relation to it as may be specified in the notice.
+>
+> (3) If a notice served under paragraph (2) is not complied with, an inspector may seize any animal or thing to which it relates and arrange for the requirements of the notice to be complied with at the expense of the person on whom the notice was served.
+
+.
+
+### 2. Amendment to the Landing of Carcases and Animal Products Order (Northern Ireland) 1985[^key-001ed9f3dff30d3f1e53a440d608964f]
+
+The Landing of Carcases and Animal Products Order (Northern Ireland) 1985[^f00071] is amended by inserting after article 3(2)—
+
+> (3) This Order does not apply in relation to any importation in relation to which the Trade in Animals and Related Products Regulations (Northern Ireland) 2011 apply.
+
+.
+
+### 3. Amendment to the Official Feed and Food Controls Regulations (Northern Ireland) 2009[^key-d96f32fdd958a5e04042e390ed5f5ad3]
+
+In Schedule 3 to The Official Feed and Food Controls Regulations (Northern Ireland) 2009 in the definition of “relevant food law” delete sub-paragraph (a)(vii)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Regulations specified in regulation 42.
+
+They establish a system for trade between member States in live animals and genetic material (Part 2) and for the importation of live animals, genetic material and products of animal origin from outside the European Union (Part 3).
+
+The European Union legislation required to be complied with before animals or goods can be released from control at the port of importation (the “border inspection post”) is listed in Schedule 2.
+
+As before, the Department of Agriculture and Rural Development is empowered (in Part 4) to prohibit importation into Northern Ireland of any animal or product in the event of a disease outbreak outside the United Kingdom.
+
+The Regulations are enforced by the Department of Agriculture and Rural Development, the Agency and the district council in the circumstances set out in regulation 32.
+
+The Regulations establish various offences, punishable on summary conviction to a fine up to the statutory maximum or on conviction on indictment to an unlimited fine (or in the case of disclosure relating to customs information imprisonment for up to three months)
+
+A full impact assessment has not been produced for this instrument as no impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S. I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A was inserted into Schedule 2 by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51)
+
+[^key-e7fcfeba5a3197db7fc3c047369923dc]: Commencement: Reg. 1 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-2e5e2e0c312f4403e37f1e061033d381]: Commencement: Reg. 2 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-cd24b60a66bed55fa24f6f864121d1b1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/2/a)
+
+[^key-b842245ce6e8c9ef1ea774d918402eca]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/2/b)
+
+[^key-427219d7c9f038ef3d343fa371096549]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/2/c)
+
+[^key-f3e24b2583838103f7b4c1207c443fcd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(2)(d)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/2/d)
+
+[^key-9dcd75fdfcbe0b48d138b8294b72c008]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(2)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/2)
+
+[^key-4dec8d8c43217e91e260a128fadcf4ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(2)(e)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/2/e)
+
+[^key-51b6b546b24b96a664a9702b2632c71c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(2)(a)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2408db8c743e89048f67c093d508037c]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/1A) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(2)(g)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/2/g)
+
+[^key-c862b92b7ed88e194d5a9442ddefc827]: Textual amendment: [Reg. 2(2B)](https://www.legislation.gov.uk/nisr/2011/438/regulation/2/2B) inserted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(2)(b)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-d1ea533775821850563672930e6576e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [art. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2015/282/schedule/paragraph/11)
+
+[^key-cfa36cf15371d2fc1b2825e994c2eaf6]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/3/2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/3)
+
+[^key-ff2d495118fe521e39130e9ccf403522]: Commencement: Reg. 4 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-3d92d93ef04e43dd03fea656ff82b3e6]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2011/438/regulation/4) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(4)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/4) and (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fd513a17dfdd37bfe10943c19ab10f03]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/nisr/2011/438/part/2) heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(5)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/5)
+
+[^key-21331c0d85b047d4a2d534826ef5dcf1]: Commencement: Reg. 5 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-a66e26b883338d3920d360dd7d73a3a9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/438/regulation/5) heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(6)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/6/a)
+
+[^key-4f0982d0d68838c895b729652e3a6bbd]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/5/1)[(1A)](https://www.legislation.gov.uk/nisr/2011/438/regulation/5/1A) substituted for [reg. 5(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/5/1) (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(6)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/6/b)
+
+[^key-05deeaf8db31d9924b322fd0c901ea27]: Commencement: Reg. 6 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-c402eddafef35fb9118f691b70ee8463]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/6/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(7)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/7)
+
+[^key-de95a6b7cf5b99d80fc05ae175aabfab]: Commencement: Reg. 7 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-3739d309af5e43b3f45733ae35ef93c9]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/438/regulation/7) heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(8)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/8/a)
+
+[^key-103eedca2a73b1e8a0cf9e06758d0d4f]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/7/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(8)(b)(i)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/8/b/i)
+
+[^key-a4dc009a5ef6c2483cb76913fd1fd01c]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/7/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(8)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/8/b/ii)
+
+[^key-230926675091162087c9b905f389c212]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/7/2) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 21](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/21)
+
+[^key-1ecae31325b28eaa7c767a52e08a9274]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/7/2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(8)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/8/c)
+
+[^key-501f94837636c2bce75ff5fb140cf7cb]: Commencement: Reg. 8 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-376ac9e199c81a0aa71a6c6a22c66f15]: Commencement: Reg. 9 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^M_F_5bf3137c-b969-4d43-bb85-3a0c2f15d1d5]: Textual amendment: By [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(4)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), it is provided that (31.12.2020) the words "the published nomenclature list" are substituted for the words "Commission Decision 2007/275/EC"
+
+[^key-6a2965905fd03a02c985aad13eb08ff4]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2011/438/regulation/9) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(9)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/9)
+
+[^key-9651efefb92869c4ceaea847b5aa7f7e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/438/regulation/10) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(10)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/10)
+
+[^key-4f2a4bc89b5694adcac86bf89a120b04]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/438/regulation/10) revoked (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/2)
+
+[^key-c991ed8ad41c89f5e9206cefeac95518]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/438/regulation/11) excluded (18.11.2013) by [The African Horse Sickness Regulations (Northern Ireland) 2013 (S.R. 2013/244)](https://www.legislation.gov.uk/nisr/2013/244), [regs. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2013/244/regulation/4/b) (with [reg. 4](https://www.legislation.gov.uk/nisr/2013/244/regulation/4))
+
+[^key-e751cf1efb5dbd2ada012b452fa3e030]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/438/regulation/11) and heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(11)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/11)
+
+[^key-c5312d0b57e537b9260997963af0b7b2]: Commencement: Reg. 12 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^M_F_7c038386-202e-4422-db01-d5c8f6f4d4af]: Textual amendment: By [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(5)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), it is provided that (31.12.2020) the words "Chapter 3 (fish and crustaceans, molluscs and other aquatic invertebrates) of the published nomenclature list" are substituted for the words “Chapter 3 of Annex I to Commission Decision 2007/275/EC"
+
+[^key-85a85bf5ae25db47dcef5310ef57a004]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2011/438/regulation/12/2/a) substituted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/3)
+
+[^key-8e47467503bf1e0997489a9474051362]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/12/2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(12)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/12)
+
+[^key-9e0e3655f0ed052141bab02c46d7e023]: Commencement: Reg. 13 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-b350f44fc2174e310b241bc580d4e821]: Commencement: Reg. 14 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-f06476d463afeee367b7579a6455be3b]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/14/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(13)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/13/a)
+
+[^key-d4749c36eda592e38b5d685c69e7f91e]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/14/2) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(13)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/13/b)
+
+[^key-d0ebce967d42caccee2dcefb5f4ff86b]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/nisr/2011/438/regulation/14/4) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(13)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/13/c)
+
+[^key-7f95bf7948775944eb291503a0e64478]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/438/regulation/15) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(14)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/14)
+
+[^key-30dead60db64586057f3f614967d2bb5]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/15/1) substituted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(6)(a)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2f318300d40b506eb4648b204fbf74f0]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/nisr/2011/438/regulation/15/3/a) substituted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(6)(b)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c6cb0e9bb1a353a3fda8c7214d8da669]: Textual amendment: Word in [reg. 15(3)(a)](https://www.legislation.gov.uk/nisr/2011/438/regulation/15/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 22](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/22)
+
+[^key-80d961bc6d944b79c76d32433a213d67]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/438/regulation/16) and heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(15)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/15)
+
+[^key-c7f43dc20b825111eefe4ddeb9465fb4]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/438/regulation/17) and heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(16)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/16)
+
+[^key-d2b7bd92ae22a166ed20cd9766f37c27]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/nisr/2011/438/regulation/17) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/3)
+
+[^key-99f1704205284e6d6ad621ef31a02965]: Commencement: Reg. 18 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-44cd403de45fa53a0697a10fe0e280ca]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2011/438/regulation/18) heading substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(4)(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/4/a)
+
+[^key-54e3f17a70c5335a526e2e5d779ba00d]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/18/1) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(4)(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/4/b)
+
+[^key-c185c5bd4aa37f9bd5ae616759e95b3f]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/nisr/2011/438/regulation/18/3) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(17)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/17/a)
+
+[^key-c1873e9e4eadbc1ff09d0d54f674d08e]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2011/438/regulation/18/3) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(4)(c)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/4/c)
+
+[^key-84008881acd78c0f79ca6f9ded041fce]: Textual amendment: [Reg. 18(3A)](https://www.legislation.gov.uk/nisr/2011/438/regulation/18/3A) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(17)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/17/b)
+
+[^key-f758d00077f7bc9cd4a26b7b8aa2cea3]: Textual amendment: Words in [reg. 18(3A)](https://www.legislation.gov.uk/nisr/2011/438/regulation/18/3A) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(4)(d)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/4/d)
+
+[^key-7692d7a530cc19c93acc0a5a14f86573]: Commencement: Reg. 19 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-9a48bc99f1b091596aed5c526da35657]: Textual amendment: [Reg. 19(1)(b)](https://www.legislation.gov.uk/nisr/2011/438/regulation/19/1/b)[(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/19/1/c) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(18)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/18)
+
+[^key-d43f72a6df430302a40fa4a8f3bbd32b]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/nisr/2011/438/regulation/19/2/a) inserted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/5)
+
+[^key-7d8ec47a55d02ef2f2dcb04536646d0f]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/438/regulation/20) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(19)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/19)
+
+[^key-1c66e1032a1d188c2bd0e382f53c49ec]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/20/2) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(5)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/5)
+
+[^key-4d948c70c2454b05ae1b19a4aee24faf]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/438/regulation/21) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(20)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/20)
+
+[^key-03a33a520b201ad67822ab64a55b8851]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/438/regulation/22) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(21)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/21)
+
+[^key-a394bc0b8306cfe9a9addc9705646dbc]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/22/1) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(5)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/5)
+
+[^key-33a7ebf7e0d62032c048e311f0003b98]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/438/regulation/23) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(22)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/22)
+
+[^key-3ef846f17973bf3157b1feb975e80670]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/nisr/2011/438/regulation/24) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(23)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/23)
+
+[^key-d59dfcb76161c075442a2f6e8dea3f86]: Commencement: Reg. 25 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-b009b8a6f38a70a6dc66d99bce1bdbfa]: Commencement: Reg. 26 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-6803f29818bdf74eed02b3a93c2cd0b1]: Commencement: Reg. 27 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-bdcfdb3870dbba994093557ff4bd577a]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2011/438/regulation/27) heading inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(24)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/24/a)
+
+[^key-393c391b829d77823b853e59f3a38cf7]: Textual amendment: [Reg. 27(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/27/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(24)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/24/b)
+
+[^key-5e60f0be83996dc7d50eb47cc4463f78]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/nisr/2011/438/regulation/27/1A) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(24)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/24/c)
+
+[^key-7f36a7595be91e2bd17c3548df47ba30]: Textual amendment: [Reg. 27(3)(b)](https://www.legislation.gov.uk/nisr/2011/438/regulation/27/3/b) substituted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/6)
+
+[^key-8c5ac63a670fec148c6c836be0bd888b]: Commencement: Reg. 28 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-d34c6076637e345e77778349117cce78]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/nisr/2011/438/regulation/28) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 23](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/23)
+
+[^key-d3d91880afbc64dd33dc873ae8f47869]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/nisr/2011/438/regulation/29) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(25)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/25)
+
+[^key-a8ab5fca63ec72e95ab7f2485f3761d9]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2011/438/regulation/29/1) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(5)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/5)
+
+[^key-e742ec02398d7c2d983a980eeed694a9]: Commencement: Reg. 30 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-267719a7de29fd6e24548116d1947695]: Commencement: Reg. 31 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-e3f161e7d406628d16f54809b00749ef]: Commencement: Reg. 32 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00018]: Footnote: [S. R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3) as amended
+
+[^key-447ab76ececc04825d3bc3ae17ea47d9]: Textual amendment: Words in [reg. 32(5)](https://www.legislation.gov.uk/nisr/2011/438/regulation/32/5) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 24](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/24)
+
+[^key-9659f47dd36d8884bbeafc14cb048f2f]: Textual amendment: [Reg. 32(7)](https://www.legislation.gov.uk/nisr/2011/438/regulation/32/7) substituted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/7)
+
+[^key-62d49f6b0e0173e079a0ae5827426945]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/nisr/2011/438/regulation/32/8) omitted (31.7.2014) by virtue of [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/8/a)
+
+[^key-15b9e8196017372b2c64ae57723618ad]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/nisr/2011/438/regulation/32/8) inserted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/8/b)
+
+[^key-44b774ea400ddd13aae7467497230496]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/nisr/2011/438/regulation/33) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(26)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/26)
+
+[^key-96c97f84172f7ce87a75297cda1ab7c5]: Commencement: Reg. 34 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-c5e99505c7052faaa01be452361b0c20]: Textual amendment: [Reg. 34(h)(i)](https://www.legislation.gov.uk/nisr/2011/438/regulation/34/h/i) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(27)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/27)
+
+[^key-dd4c6684393cb2e1c44a032135e0ac1f]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/nisr/2011/438/regulation/34A) inserted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/9)
+
+[^key-3129c3d4d706131a946d044e4a0fdee8]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/nisr/2011/438/regulation/35) and heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(28)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/28)
+
+[^key-7ca79b3d7a43ff6e46ff5e07f89ff742]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2011/438/regulation/35A) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(29)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/29)
+
+[^key-b9801c9e66dd315879af100cc873d4ca]: Commencement: Reg. 36 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-b292f92192a727247abe8dd323d2298a]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2011/438/regulation/36) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(30)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/30)
+
+[^key-8aacc1015b73250736cce241af5e563e]: Commencement: Reg. 37 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-58c1a166f3876edc6c270522f2877f71]: Commencement: Reg. 38 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00020]: Footnote: Fees relating to imports from third countries are established under Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (O.J. No L 165, 30.4.2004, p. 1)
+
+[^key-fc5a233ad77742e851570386cd09a4b6]: Commencement: Reg. 39 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-1be7014a1d675749eb6542ecc668476a]: Commencement: Reg. 40 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-7a34ac08ca13aef48f757091efbb7dd4]: Commencement: Reg. 41 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00021]: Footnote: [S.R. 1985 No. 161](https://www.legislation.gov.uk/nisr/1985/161) as amended by [S.R. 1995 No. 315](https://www.legislation.gov.uk/nisr/1995/315)
+
+[^f00022]: Footnote: [S.R.1996 No. 81](https://www.legislation.gov.uk/nisr/1996/81)
+
+[^f00023]: Footnote: [S.I.1975 No.1834 (N.I. 17)](https://www.legislation.gov.uk/nisi/1975/1834)
+
+[^key-d5b60dbbf73ab83b4f0a421ec7463c34]: Commencement: Reg. 42 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00024]: Footnote: [S.R. 1998 No. 45](https://www.legislation.gov.uk/nisr/1998/45)
+
+[^f00025]: Footnote: [S.R. 2001 No. 242](https://www.legislation.gov.uk/nisr/2001/242)
+
+[^f00026]: Footnote: [S.R. 2006 No. 401](https://www.legislation.gov.uk/nisr/2006/401)
+
+[^f00027]: Footnote: [S.R. 2007 No. 199](https://www.legislation.gov.uk/nisr/2007/199)
+
+[^f00028]: Footnote: [S.R. 2007 No. 314](https://www.legislation.gov.uk/nisr/2007/314)
+
+[^f00029]: Footnote: [S.R. 2007 No. 327](https://www.legislation.gov.uk/nisr/2007/327)
+
+[^f00030]: Footnote: [S.R. 2008 No. 53](https://www.legislation.gov.uk/nisr/2008/53)
+
+[^f00031]: Footnote: [S.R. 2009 No. 86](https://www.legislation.gov.uk/nisr/2009/86)
+
+[^f00032]: Footnote: [S.R. 2010 No. 380](https://www.legislation.gov.uk/nisr/2010/380)
+
+[^f00033]: Footnote: [S.R. 2010 No. 417](https://www.legislation.gov.uk/nisr/2010/417)
+
+[^f00034]: Footnote: [S.R. 2011 No. 27](https://www.legislation.gov.uk/nisr/2011/27)
+
+[^key-b66955a661faf62f2d831db6d66ed9dd]: Commencement: Sch. 1 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-7caf001bbaeae7b5fae5800a6691eb75]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/438/schedule/1) Table substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(31)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/31/a)
+
+[^key-bf6c93f815b4c144f6c543b297aa614c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/438/schedule/1) Table substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(31)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/31/b)
+
+[^key-586b022badcc0792afc680910b9862d3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/438/schedule/1) substituted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(11)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/11)
+
+[^key-2c8ac4823239e48595c228be806da04b]: Commencement: Sch. 2 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00035]: Footnote: O.J. No. L 121, 29.7.64, p. 1977 as last amended by Commission Decision 2009/976/EU (O.J. No. L 336, 18.12.2009, p. 36)
+
+[^f00036]: Footnote: O.J. No. L 194, 22.7.1988, p. 10 as last amended by Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073) (O.J. No. L 219, 14.8.2008, p. 40)
+
+[^f00037]: Footnote: O.J. No. L 302, 19.10.1989, p. 1 as last amended by Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073)
+
+[^key-fb84f8f3e7caf927ae785cf60cccd071]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/438/schedule/2) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(a)(i)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/a/i)
+
+[^M_F_3b6c5fec-7751-44d5-ad9b-13ad61a4be5d]: Textual amendment: Words in Sch. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/a/ii)
+
+[^f00040]: Footnote: O.J. No. L 224, 18.8.1990, p. 62 as last amended by Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073)
+
+[^M_F_0d4d1696-2987-41de-a812-9778aee7530a]: Textual amendment: Words in Sch. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(a)(iii)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/a/iii)
+
+[^f00042]: Footnote: O.J. No. L 46, 19.2.1991, p. 19 as last amended by Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073)
+
+[^f00043]: Footnote: O.J. No. L 268, 14.9.1992, p. 54 as last amended by Commission Regulation (EU) No 2010/684 (O.J. No. L 293, 11.11.2010, p. 62)
+
+[^f00044]: Footnote: O.J. No. L 62, 15.3.1993, p. 49 as last amended by [Commission Regulation (EC) No 445/2004](https://www.legislation.gov.uk/european/regulation/2004/0445) (O.J. No. L 72, 11.3.2004, p. 60)
+
+[^M_F_35f8d032-6ff5-4198-be56-0d66c21af628]: Textual amendment: Words in Sch. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(a)(iv)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/a/iv)
+
+[^key-458739818435d30d9366afc63567ad06]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/438/schedule/2) omitted (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(6)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/6)
+
+[^f00047]: Footnote: O.J. No. L 31, 1.2.2002, p. 1 as last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (O.J. No. L. 188, 18.7.2009)
+
+[^f00048]: Footnote: O.J. No. L 18, 23.1.2003, p. 11
+
+[^f00049]: Footnote: O.J. No. L 139, 30.4.2004, p. 321
+
+[^f00050]: Footnote: O.J. No. L 21, 28.1.2004, p. 11 as last amended by [Commission Regulation (EC) No. 206/2009](https://www.legislation.gov.uk/european/regulation/2009/0206) of the European Parliament and of the Council (O.J. No L. 77, 24.3.2009, p. 1)
+
+[^f00051]: Footnote: O.J. No. L 139, 30.4.2004, p. 1 as last amended by Regulation [(EC) No. 219/2009](https://www.legislation.gov.uk/european/regulation/2009/0219) of the European Parliament and of the Council (O.J. No. L 87, 31.3.2009, p. 109)
+
+[^f00052]: Footnote: O.J. No. L 139, 30.4.2004, p. 55 as last amended by Commission Regulation (EU) 150/2011 (O.J. No. L 46, 19.2.2011, p. 14)
+
+[^M_F_39f93671-ebb4-4504-f0f4-a9e249e9eb4c]: Textual amendment: Words in Sch. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(a)(v)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/a/v)
+
+[^M_F_918bff37-30b7-403a-9cfe-875641b26a34]: Textual amendment: Words in Sch. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(a)(vi)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/a/vi)
+
+[^f00055]: Footnote: O.J. No. L 35, 8.2.2005, p. 1 as last amended by Regulation [(EC) No. 219/2009](https://www.legislation.gov.uk/european/regulation/2009/0219) of the European Parliament and of the Council
+
+[^f00056]: Footnote: O.J. No. L 116, 4.5.2007, p. 9
+
+[^f00057]: Footnote: O.J. No. L 328, 24.11.2006, p. 14 as last amended by Commission Directive [2008/53/EC](https://www.legislation.gov.uk/european/directive/2008/0053) (O.J. No. L 117, 1.5.2008, p. 27)
+
+[^f00058]: Footnote: O.J. No. L 192, 23.7.2010, p. 1
+
+[^f00059]: Footnote: O.J. No. L 343, 22.12.2009, p. 74 as amended by Commission Decision 2011/214/EU (O.J. No. L90, 6.4.2011, p. 27)
+
+[^f00060]: Footnote: O.J. No. L 229, 1.9.2009, p. 1 as last amended by Commission Regulation (EU) No 939/2010 (O.J. No. L 277, 21.10.2010, p. 4)
+
+[^f00061]: Footnote: O.J. No. L 300, 14.11.2009, p.1 as last amended by Directive 2010/63/EU of the European Parliament and of the Council (O.J. No. L 276, 20.10.2010, p. 33)
+
+[^key-b041a380e5d6bf95ee9fbafa453f2baf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/438/schedule/2) inserted (26.12.2018) by [The Zootechnical Standards Regulations (Northern Ireland) 2018 (S.R. 2018/204)](https://www.legislation.gov.uk/nisr/2018/204), [regs. 1](https://www.legislation.gov.uk/nisr/2018/204/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2018/204/regulation/9/3)
+
+[^key-7151b50865cf1e5d37b4a31e72ee7793]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/438/schedule/2) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/b)
+
+[^key-c9f5fea5d6c3a97458f6d6009ef76c41]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/438/schedule/2) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(32)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/32/c)
+
+[^key-843b72302256871bb6df3fe490683fcb]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/part/1) heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/a)
+
+[^key-8dfbd57411fa3244bb4ba8b41e62b9cc]: Commencement: Sch. 3 para. 1 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-29740cbdbd62a567090f54a77bdabb35]: Commencement: Sch. 3 para. 2 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-d9b5efd7ae9e67bf12add2bf8456fae3]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/2/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(b)(i)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/b/i)
+
+[^key-636c607b8ea0307fdbbac79acffa17e1]: Textual amendment: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/2/2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/b/ii)
+
+[^key-b6a0d64b456552b4d17dfef8a0259059]: Commencement: Sch. 3 para. 3 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00062]: Footnote: O.J. No. L 192, 23.7.2010, p. 1
+
+[^key-3420c224444a40010bd180c46f3b5442]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/3) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/c)
+
+[^key-cc7101b7c00c15d97927ba82ce93213f]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/3) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(d)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/d)
+
+[^key-ae0b36f951944d4efb856fc9c9e0058c]: Commencement: Sch. 3 para. 4 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-a724c92a7bcf171453146a8691bd9d73]: Textual amendment: Word in [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/4) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(e)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/e)
+
+[^f00063]: Footnote: [S.R. 2011 No. 436](https://www.legislation.gov.uk/nisr/2011/436)
+
+[^key-ed811b6ae2c2c68f3dbfb14f7dcb1b94]: Commencement: Sch. 3 para. 5 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-17f4dcd1c67a8d291c034cee0067ad45]: Textual amendment: Word in [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/5/4) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(e)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/e)
+
+[^key-88f96f78087ef573c7443a0e9ea26221]: Commencement: Sch. 3 para. 6 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00064]: Footnote: O.J. No. L 279, 22.10.2005, p. 47
+
+[^M_F_b6081076-0f74-4a87-d1f1-c6f45abfa8b8]: Textual amendment: Sch. 3 para. 6(2) substituted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(12)(a)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/12/a)
+
+[^key-d87f2e434d2d1a788ca24e098fb13d09]: Commencement: Sch. 3 para. 7 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-207e3818c0721babd426432851028c3d]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/7) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(f)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/f)
+
+[^key-74f493837518b994bfaab0bba1a8da70]: Commencement: Sch. 3 para. 8 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-5e278739ed855f9de39beef737a06f00]: Commencement: Sch. 3 para. 9 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^M_F_8f5eebc9-8381-4204-80c9-19f540955e6f]: Textual amendment: Sch. 3 para. 9(1) substituted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(12)(b)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/12/b)
+
+[^key-d7a253ec8b72ca837526eb52f5e70d47]: Textual amendment: Words in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/9/1) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(g)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/g)
+
+[^key-c36410c3a8f0315b89cc5cc5d9d4fc45]: Commencement: Sch. 3 para. 10 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-b363d9da4a046b94bc31528246de8afc]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/10) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 26](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/26)
+
+[^key-c5ac41aa9f49cdebe94dd1e5f86f803b]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/10) inserted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [regs. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2019/197/regulation/5/4)
+
+[^key-42dc48aadd59a1554f245ec9846b75dc]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2011/438/schedule/3/paragraph/11) and heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(h)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/h)
+
+[^M_F_aad88511-5fd6-432e-9f6e-1da70a2c2985]: Textual amendment: Sch. 3 para. 12 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(33)(i)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/33/i)
+
+[^key-c5fe1d69756c7f74b49c7e85853f4ae8]: Commencement: Sch. 4 para. 1 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-88c855eef7d12b1babd577242a16f364]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(34)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/34/a)
+
+[^key-af48b772519474b33dfd08f0d99bdca4]: Commencement: Sch. 4 para. 3 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-0bdd6736fde6dae0ab23b24d453c3bd5]: Commencement: Sch. 4 para. 4 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-c89a0b37a2ecfc95d5b8f4cf70b838f6]: Textual amendment: [Sch. 4 para. 4(1)](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/4/1)[(2)](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/4/2) substituted for Sch. 4 para. 4(1)-(4) (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(34)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/34/b/ii)
+
+[^key-ef0c7d14781a086fb0417b2f5fc33207]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/4) heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(34)(b)(i)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/34/b/i)
+
+[^key-d476b61160dcf9440e8d4c19c854cd06]: Commencement: Sch. 4 para. 5 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-326ced6878c58a06da4c6de4aa317551]: Textual amendment: Word in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/5) heading substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(34)(c)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/34/c)
+
+[^key-f01fee12252197543a2c8cd2524810e0]: Textual amendment: Word in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/5) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(34)(d)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/34/d)
+
+[^key-55b6e588f64e66b2c07f3500be9a0a19]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/5) omitted (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [8(7)](https://www.legislation.gov.uk/nisr/2020/353/regulation/8/7)
+
+[^key-53dde2757a67b025369bd7d24d28171f]: Commencement: Sch. 4 para. 6 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^key-5c31ab278dc678e783db4e6f00ec836a]: Textual amendment: Words in [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/6/1) substituted (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [21(7)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/21/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2f63673edb8bd45649c1837ad624ab00]: Commencement: Sch. 4 para. 7 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00069]: Footnote: [S.R. 1977 No. 113](https://www.legislation.gov.uk/nisr/1977/113) as last amended by [S.R. 2005 No. 275](https://www.legislation.gov.uk/nisr/2005/275)
+
+[^key-2221343e1270b9fdca1e4291b995ece3]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2011/438/schedule/4/paragraph/8) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [20(34)(e)](https://www.legislation.gov.uk/nisr/2019/227/regulation/20/34/e)
+
+[^key-8be9e12d97915a0e9f04b6e8a5b82d0b]: Commencement: Sch. 5 para. 1 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00070]: Footnote: [S. R. 2008 No. 275](https://www.legislation.gov.uk/nisr/2008/275).
+
+[^key-001ed9f3dff30d3f1e53a440d608964f]: Commencement: Sch. 5 para. 2 in operation at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1)
+
+[^f00071]: Footnote: [S. R. 1985 No. 161](https://www.legislation.gov.uk/nisr/1985/161) as amended by [S. R. 1995 No. 315](https://www.legislation.gov.uk/nisr/1995/315)
+
+[^key-d96f32fdd958a5e04042e390ed5f5ad3]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2011/438/schedule/5/paragraph/3) inserted (31.7.2014) by [The Trade in Animals and Related Products (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/196)](https://www.legislation.gov.uk/nisr/2014/196), [regs. 1](https://www.legislation.gov.uk/nisr/2014/196/regulation/1), [3(13)](https://www.legislation.gov.uk/nisr/2014/196/regulation/3/13)

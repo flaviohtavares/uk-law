@@ -1,0 +1,150 @@
+---
+title: The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020
+id: nisr/2020/70
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2020-04-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2020/70
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2020/70/pdfs/nisrem_20200070_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/70/pdfs/nisr_20200070_en.pdf
+- http://www.legislation.gov.uk/nisr/2020/70/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 70
+
+Employment
+
+Terms And Conditions Of Employment
+
+The Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020
+
+Made
+
+24th April 2020
+
+Coming into operation
+
+25th April 2020
+
+The Department for the Economy makes the following Regulations in exercise of the powers conferred by sections 167ZJ(8), 167ZS(8), 167ZZ7(8) and 171(3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
+
+Regulations 3 and 4 are made with the concurrence of the Commissioners for Her Majesty’s Revenue and Customs[^f00003].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Statutory Paternity Pay, Statutory Adoption Pay and Statutory Shared Parental Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 and come into operation on 25th April 2020.
+
+## 2. Application
+
+(1) The amendments made by regulations 3 and 4 apply only in relation to the calculation of normal weekly earnings for the purpose of determining—
+
+- (a) the entitlement of a person to any of the statutory payments; or
+- (b) the rate at which any of the statutory payments are to be paid to that person,
+
+in a case where the first day of the period in respect of which the statutory payment is to be made is on or after the day on which these Regulations come into operation.
+
+(2) In paragraph (1), “**statutory payments**” means the following payments under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00004]—
+
+- (a) statutory paternity pay;
+- (b) statutory adoption pay; and
+- (c) statutory shared parental pay.
+
+## 3. Amendment of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002
+
+In regulation 40 of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^f00005] (normal weekly earnings), after paragraph (7) insert—
+
+> (8) Paragraph (9) applies where for all or part of the relevant period—
+>
+> - (a) a person is a furloughed employee;
+> - (b) the person’s employer has claimed and is in receipt of financial support in respect of the person’s earnings under the Coronavirus Job Retention Scheme; and
+> - (c) the person’s earnings are lower than they would otherwise have been as a result of that person being a furloughed employee.
+>
+> (9) Where this paragraph applies, the person’s normal weekly earnings are to be calculated as if, during the parts of the relevant period when the person was a furloughed employee, the person was paid the amount which they would have derived from their employment had they not been a furloughed employee.
+>
+> (10) For the purposes of paragraphs (8) and (9)—
+>
+> - “**Coronavirus Job Retention Scheme**” (“**the Scheme**”) means any scheme to provide for payments to be made to employers on a claim made in respect of them incurring costs of employment in respect of furloughed employees arising from the health, social and economic emergency in the United Kingdom resulting from coronavirus and coronavirus disease and contained in such Directions as may be issued from time to time pursuant to section 76 of the Coronavirus Act 2020[^f00006];
+> - “coronavirus” and “coronavirus disease” have the meanings given in section 1 of that Act;
+> - “**furloughed employee**” has the meaning given for the purposes of the Scheme.
+
+.
+
+## 4. Amendment of the Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015
+
+In regulation 32 of the Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015[^f00007] (normal weekly earnings of a claimant for statutory shared parental pay), after paragraph (6) insert—
+
+> (6A) Paragraph (6B) applies where for all or part of the relevant period—
+>
+> - (a) a person is a furloughed employee;
+> - (b) the person’s employer has claimed and is in receipt of financial support in respect of the person’s earnings under the Coronavirus Job Retention Scheme; and
+> - (c) the person’s earnings are lower than they would otherwise have been as a result of that person being a furloughed employee.
+>
+> (6B) Where this paragraph applies, the person’s normal weekly earnings are to be calculated as if, during the parts of the relevant period when the person was a furloughed employee, they were paid the amount which they would have derived from their employment had they not been a furloughed employee.
+>
+> (6C) For the purposes of paragraphs (6A) and (6B)—
+>
+> - “**Coronavirus Job Retention Scheme**” (“**the Scheme**”) means any scheme to provide for payments to be made to employers on a claim made in respect of them incurring costs of employment in respect of furloughed employees arising from the health, social and economic emergency in the United Kingdom resulting from coronavirus and coronavirus disease and contained in such Directions as may be issued from time to time pursuant to section 76 of the Coronavirus Act 2020;
+> - “coronavirus” and “coronavirus disease” have the meanings given in section 1 of that Act;
+> - “**furloughed employee**” has the meaning given for the purposes of the Scheme.
+
+.
+
+Sealed with the Official Seal of the Department for the Economy on 24th April 2020.
+
+Colin Jack
+
+A senior officer of the
+
+Department for the Economy
+
+The Commissioners for Her Majesty’s Revenue and Customs concur.
+
+Justin Holliday
+
+Angela MacDonald
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+23rd April 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002 ([S.R. 2002 No. 378](https://www.legislation.gov.uk/nisr/2002/378)) and the Statutory Shared Parental Pay (General) Regulations (Northern Ireland) 2015 ([S.R. 2015 No. 94](https://www.legislation.gov.uk/nisr/2015/94)).
+
+The amendments in regulations 3 and 4 apply for calculating a person’s normal weekly earnings for the purposes of determining entitlement to, and rate of payment of, respectively, statutory paternity pay, statutory adoption pay and statutory shared parental. Regulation 2 provides that these amendments are to apply where the first day of the period in respect of which payment of any of the benefits is to be made is on or after the day on which these Regulations come into operation.
+
+The amendments apply where a person is a furloughed employee for the purposes of the Coronavirus Job Retention Scheme which is set out in the Schedule to the Coronavirus Act 2020 Functions of Her Majesty’s Revenue and Customs (Coronavirus Job Retention Scheme) Direction made on 15th April 2020. The claimant’s normal weekly earnings for the purpose of determining entitlement to, or the amount of, the statutory payments listed in regulation 2(2) are to be calculated as if the person had not been a furloughed employee for all or part of the relevant period.
+
+Hard copies of the Coronavirus Job Retention Scheme can be obtained from CJRS Policy, 3C/15 100 Parliament Street, Westminster, London SW1A 2BQ. The Scheme can be downloaded from https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/879484/200414\_CJRS\_DIRECTION\_-\_33\_FINAL\_Signed.pdf
+
+No regulatory impact assessment has been produced for these Regulations in view of the urgency required to provide additional financial support to those unable to work as a result of coronavirus.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Sections 167ZJ and 167ZS were inserted by the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)), Articles 5 and 6 respectively. Section 167ZJ was amended by the Work and Families Act (Northern Ireland) [2015 (c.1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1)), section 14 and Schedule 1, paragraph 17. Section 167ZS was amended by [S.R. 2006 No. 261](https://www.legislation.gov.uk/nisr/2006/261), Schedule 7, paragraph 1(7) and Schedule 8 and by the National Insurance Contributions Act [2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), Schedule 2, paragraph 12. Section 167ZZ7 was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), section 5(2). Section 171 was amended by the Coronavirus Act [2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), section 44(b).
+
+[^f00002]: Footnote: The Department for Employment and Learning was dissolved by section 1(10) of the Departments Act (Northern Ireland) [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5). Its functions under the Social Security Contribution and Benefits (Northern Ireland) Act 1992, except under section 123A, were transferred to the Department for the Economy by the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76)), article 6(1)(c).
+
+[^f00003]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7), sections 167ZJ(13), 167ZS(13) and 167ZZ7(13). The functions of the Commissioners of Inland Revenue under sections 167ZJ(13) and 167ZS(13) vested in the Commissioners for Her Majesty’s Revenue and Customs by virtue of section 5(2)(a) of the Commissioners for Revenue and Customs Act [2005 c.11](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^f00004]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^f00005]: Footnote: [S.R. 2002 No. 378](https://www.legislation.gov.uk/nisr/2002/378). Regulation 40 was amended by [S.R. 2006 No. 374](https://www.legislation.gov.uk/nisr/2006/374).
+
+[^f00006]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
+
+[^f00007]: Footnote: [S.R. 2015 No. 94](https://www.legislation.gov.uk/nisr/2015/94).

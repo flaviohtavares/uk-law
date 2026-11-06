@@ -1,0 +1,255 @@
+---
+title: The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2013
+id: nisr/2013/247
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2013-10-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2013/247
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2013/247/pdfs/nisrem_20130247_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/247/pdfs/nisr_20130247_en.pdf
+- http://www.legislation.gov.uk/nisr/2013/247/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 247
+
+Health And Personal Social Services
+
+The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2013
+
+Made
+
+18th October 2013
+
+Coming into operation
+
+20th November 2013
+
+The Department of Health, Social Services and Public Safety, with the consent of the Department of Finance and Personnel, makes the following Regulations in exercise of the powers conferred by Articles 12(1) and (2), 14(1) of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972[^f00001].
+
+In accordance with Article 12(4) of that Order, the Department has consulted with representatives of persons likely to be affected by these Regulations, as appeared to the Department to be appropriate.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2013.
+
+(2) These Regulations come into operation on 20th November 2013 and shall have effect from 1st April 2013.
+
+## PART 2 — Amendment of the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
+
+**2.** The Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00002] are amended as provided by regulations 3 and 4.
+
+### 3. Amendment of regulation 10
+
+(1) Regulation 10 (Contributions by members), is amended as provided by paragraphs (2) to (4).
+
+(2) For paragraph (1A)[^f00003] substitute—
+
+> (1A) Where paragraph (2C) applies, a member’s contribution rate for the scheme year 2013-2014 is the percentage specified in Column 2 of the following table in respect of the corresponding superannuable pay band specified in Column 1 of that table into which the member’s superannuable pay falls.
+>
+> Table: Scheme Year 2013-2014
+>
+> | *Column 1*<br>*Superannuable Pay band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,278 | 5% |
+> | £15,279 to £21,175 | 5.3% |
+> | £21,176 to £26,557 | 6.8% |
+> | £26,558 to £48,982 | 9% |
+> | £48,983 to £69,931 | 11.3% |
+> | £69,932 to £110,273 | 12.3% |
+> | £110,274 to any higher amount | 13.3% |
+>
+> (1B) Where paragraph (2Q), (2R) or (2V) applies, a member’s contribution rate for the scheme year 2013-2014 is the percentage specified in Column 2 of the following table in respect of the corresponding superannuable pay band specified in Column 1 of that table into which the member’s superannuable pay falls.
+>
+> Table: Scheme Year 2013-2014
+>
+> | *Column 1*<br>*Superannuable Pay band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,431 | 5% |
+> | £15,432 to £21,387 | 5.3% |
+> | £21,388 to £26,823 | 6.8% |
+> | £26,824 to £49,472 | 9% |
+> | £49,473 to £70,630 | 11.3% |
+> | £70,631 to £111,376 | 12.3% |
+> | £111,377 to any higher amount | 13.3%. |
+
+(3) In paragraph (2)[^f00004], for “the table in paragraph (1A)” substitute “the tables set out in this regulation”.
+
+(4) In paragraphs (2Q)[^f00005], (2R)[^f00006] and (2V)[^f00007], for “paragraph (1A)” substitute “paragraph (1B)”.
+
+### 4. Amendment of Schedule 2
+
+In paragraph 10 of Schedule 2 (Contributions to this Section of the scheme)[^f00008], in sub-paragraph (1A)[^f00009] for Table 2 substitute the following table—
+
+> Table 2
+>
+> Scheme Year 2013-2014
+>
+> | *Column 1*<br>*Pensionable Pay band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,431 | 5% |
+> | £15,432 to £21,387 | 5.3% |
+> | £21,388 to £26,823 | 6.8% |
+> | £26,824 to £49,472 | 9% |
+> | £49,473 to £70,630 | 11.3% |
+> | £70,631 to £111,376 | 12.3% |
+> | £111,377 to any higher amount | 13.3% |
+
+.
+
+## PART 3 — Amendment of the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
+
+**5.** The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00010] are amended as provided by regulations 6 to 9.
+
+### 6. Amendment of regulation 28
+
+(1) Regulation 28 (Contribution rate for members other than non-GP providers)[^f00011], is amended as provided by paragraphs (2) and (3).
+
+(2) For paragraph (2) substitute—
+
+> (2) Where paragraph (2) of regulation 29 (Determination of pensionable pay for the purposes of setting a contribution rate for members other than non-GP providers) applies, a member’s contribution rate for the scheme year 2013-2014 is the percentage specified in column 2 of the following table in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls.
+>
+> Table: Scheme Year 2013-2014
+>
+> | *Column 1*<br>*Pensionable Pay band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,278 | 5% |
+> | £15,279 to £21,175 | 5.3% |
+> | £21,176 to £26,557 | 6.8% |
+> | £26,558 to £48,982 | 9% |
+> | £48,983 to £69,931 | 11.3% |
+> | £69,932 to £110,273 | 12.3% |
+> | £110,274 to any higher amount | 13.3%. |
+>
+> (2A) Where paragraph (16), (17) or (21) of regulation 29 applies, a member’s contribution rate for the scheme year 2013-2014 is the percentage specified in column 2 of the following table in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls.
+>
+> Table: Scheme Year 2013-2014
+>
+> | *Column 1*<br>*Pensionable Pay band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,431 | 5% |
+> | £15,432 to £21,387 | 5.3% |
+> | £21,388 to £26,823 | 6.8% |
+> | £26,824 to £49,472 | 9% |
+> | £49,473 to £70,630 | 11.3% |
+> | £70,631 to £111,376 | 12.3% |
+> | £111,377 to any higher amount | 13.3% |
+
+.
+
+(3) In paragraph (3), for “the table in paragraph (2)” substitute “the tables set out in this regulation”.
+
+### 7. Amendment of regulation 29
+
+In paragraphs (16), (17) and (21) of regulation 29 (Determination of pensionable pay for the purposes of setting a contribution rate for members other than non-GP providers)[^f00012], for “paragraph (2)” substitute “paragraph (2A)”.
+
+### 8. Amendment of regulation 30
+
+In paragraph (14) of regulation 30 (Contribution rate and determination of pensionable earnings for non-GP providers)[^f00013], for Table 2 substitute the following table—
+
+> Table 2
+>
+> Scheme Year 2013-2014
+>
+> | *Column 1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,431 | 5% |
+> | £15,432 to £21,387 | 5.3% |
+> | £21,388 to £26,823 | 6.8% |
+> | £26,824 to £49,472 | 9% |
+> | £49,473 to £70,630 | 11.3% |
+> | £70,631 to £111,376 | 12.3% |
+> | £111,377 to any higher amount | 13.3% |
+
+.
+
+### 9. Amendment of regulation 161
+
+In paragraph (17) of regulation 161 (Members’ contribution rate)[^f00014], for Table 2 substitute the following table—
+
+> Table 2
+>
+> Scheme Year 2013-2014
+>
+> | *Column1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
+> | --- | --- |
+> | Up to £15,431 | 5% |
+> | £15,432 to £21,387 | 5.3% |
+> | £21,388 to £26,823 | 6.8% |
+> | £26,824 to £49,472 | 9% |
+> | £49,473 to £70,630 | 11.3% |
+> | £70,631 to £111,376 | 12.3% |
+> | £111,377 to any higher amount | 13.3% |
+
+.
+
+Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 18th October 2013
+
+(L.S.)
+
+Joyce Cairns
+
+A senior officer of the Department of Health, Social Services and Public Safety
+
+The Department of Finance and Personnel consents to the foregoing Regulations.
+
+Sealed with the Official Seal of the Department of Finance and Personnel on 18th October 2013
+
+(L.S.)
+
+Bill Pauley
+
+A senior officer of the Department of Finance and Personnel
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the [Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995 (S.R. 1995 No.95)](https://www.legislation.gov.uk/nisr/1995/95) (“the 1995 Regulations”) and the [Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008 No.256)](https://www.legislation.gov.uk/nisr/2008/256) (“the 2008 Regulations”).
+
+Regulation 1 provides for citation, commencement and effect, including that certain provisions of this rule are to take effect before the date of commencement. Article 14(1) of the Superannuation Order (Northern Ireland) 1972 provides authority for these regulations to take effect from a date earlier than the making of this rule.
+
+Regulations 2 to 9 amend the various provisions of the 1995 and 2008 Regulations and introduce revised pensionable pay bands or earnings bands for the purpose of assessing tiered contribution rates for members for the 2013 Scheme Year, which is the period of one year beginning on the 1st April 2013 and ending on the 31st March 2014.
+
+## Annotations
+
+[^f00001]: Footnote: [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073) as amended by [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509); [1993 c.49 (N.I.)](https://www.legislation.gov.uk/ukpga/1993/49) and [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^f00002]: Footnote: [S.R. 1995 No.95](https://www.legislation.gov.uk/nisr/1995/95) as amended by [S.R. 1997 Nos.217](https://www.legislation.gov.uk/nisr/1997/217) and [390](https://www.legislation.gov.uk/nisr/1997/390); [S.R. 1998 No.299](https://www.legislation.gov.uk/nisr/1998/299); [S.R. 1999 No.293](https://www.legislation.gov.uk/nisr/1999/293); [S.R. 2002 No.69](https://www.legislation.gov.uk/nisr/2002/69); [S.R. 2004 Nos.103](https://www.legislation.gov.uk/nisr/2004/103) and [104](https://www.legislation.gov.uk/nisr/2004/104); [S.R. 2005 Nos.155](https://www.legislation.gov.uk/nisr/2005/155), [533](https://www.legislation.gov.uk/nisr/2005/533), [534](https://www.legislation.gov.uk/nisr/2005/534) and [565](https://www.legislation.gov.uk/nisr/2005/565); [S.R. 2006 Nos.159](https://www.legislation.gov.uk/nisr/2006/159) and [410](https://www.legislation.gov.uk/nisr/2006/410); [S.R. 2008 Nos.96](https://www.legislation.gov.uk/nisr/2008/96), [130](https://www.legislation.gov.uk/nisr/2008/130) and [163](https://www.legislation.gov.uk/nisr/2008/163); [S.R. 2009 Nos.65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); [S.R. 2010 Nos.22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); [S.R. 2012 Nos.42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78) and [S.R.2013 Nos.40](https://www.legislation.gov.uk/nisr/2013/40) and [73](https://www.legislation.gov.uk/nisr/2013/73)
+
+[^f00003]: Footnote: Paragraph (1A) was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 4; [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 3(2); [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 4(2) and [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73) regulation 6
+
+[^f00004]: Footnote: Paragraph (2) was substituted by [S.R. 2008 No.188](https://www.legislation.gov.uk/nisr/2008/188) regulation 4 and amended by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 3(3) and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 4(2)
+
+[^f00005]: Footnote: Paragraph (2Q) was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 4 and amended by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 3(6) and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 4(5)
+
+[^f00006]: Footnote: Paragraph (2R) was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 4 and amended by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 3(6) and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 4(5)
+
+[^f00007]: Footnote: Paragraph (2V) was inserted by [S.R. 2009 No.78](https://www.legislation.gov.uk/nisr/2009/78) and amended by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 3(6) and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 4(5)
+
+[^f00008]: Footnote: Paragraph 10 was substituted by [S.R. 2005 No.565](https://www.legislation.gov.uk/nisr/2005/565) regulation 12(7) and amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 20(4); [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 11(2); [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) Schedule 1, paragraph 1(b); [S.R. 2010 No. 420](https://www.legislation.gov.uk/nisr/2010/420) regulation 8; [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42) regulation 10(2); [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 8 and [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73) regulation 7
+
+[^f00009]: Footnote: Sub-paragraph (1A) was inserted by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 8 and substituted by [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 8 and amended by [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73) regulation 7
+
+[^f00010]: Footnote: [S.R. 2008 No.256](https://www.legislation.gov.uk/nisr/2008/256) as amended by [S.R. 2009 Nos.65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); [S.R. 2010 Nos. 22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42); [S.R. 2013 Nos.40](https://www.legislation.gov.uk/nisr/2013/40) and [73](https://www.legislation.gov.uk/nisr/2013/73)
+
+[^f00011]: Footnote: Regulation 28 was substituted by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 12 and amended by [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 12; [S.R. 2013 No.40](https://www.legislation.gov.uk/nisr/2013/40) regulation 12 and [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73) regulation 12
+
+[^f00012]: Footnote: Regulation 29 was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 19 and amended by [S.R.2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 13 and [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 13
+
+[^f00013]: Footnote: Regulation 30 was substituted by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 14 and amended by [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 14 and [S.R. 2013 No.73](https://www.legislation.gov.uk/nisr/2013/73) regulation 13
+
+[^f00014]: Footnote: Regulation 161 was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 52 and amended by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420) regulation 17; [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42) regulation 24; [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78) regulation 18 and [S.R .2013 No.73](https://www.legislation.gov.uk/nisr/2013/73) regulation 17

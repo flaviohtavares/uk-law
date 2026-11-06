@@ -1,0 +1,31 @@
+---
+title: The Social Security Benefits Up-rating Order (Northern Ireland) 1996, section 3
+act: The Social Security Benefits Up-rating Order (Northern Ireland) 1996
+section: '3'
+status: not-yet-in-force
+text_date: '1996-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/1996/73/section/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating Order (Northern Ireland) 1996, section 3
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 3. Increase in rates or amounts of certain benefits under the Contributions and Benefits Act[^key-cd5773197e7af0cec133b92f91c56f7a]
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) The sums specified in paragraph (2) below shall be increased from and including the respective dates specified in Article 6 below so as to have effect as set out in Schedule 1 to this Order.
+
+(2) The sums mentioned in paragraph (1) above are the sums specified in Parts I, III, IV and V of Schedule 4 to the Contributions and Benefits Act (contributory periodical benefits, non-contributory periodical benefits, increases for dependants and rate of industrial injuries benefit, respectively), except in Part III the sum specified for age addition to a pension of any category, and otherwise under section 79 of that Act.
+
+## Annotations
+
+[^key-cd5773197e7af0cec133b92f91c56f7a]: Commencement: Art. 3 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)

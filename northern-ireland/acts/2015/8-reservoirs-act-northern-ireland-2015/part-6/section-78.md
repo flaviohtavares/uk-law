@@ -1,0 +1,59 @@
+---
+title: Reservoirs Act (Northern Ireland) 2015, section 78
+act: Reservoirs Act (Northern Ireland) 2015
+section: '78'
+status: not-yet-in-force
+text_date: '2021-06-02'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nia/2015/8/section/78
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Reservoirs Act (Northern Ireland) 2015, section 78
+
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+## 78. Stop notices: content and procedure
+
+*Extent: N.I.*
+
+**Not yet in force.**
+
+(1) Regulations made under section 77(1) must secure the results in subsection (2) in a case where a stop notice is served.
+
+(2) The results are that—
+
+- (a) the stop notice must include information as to the matters specified in subsection (3),
+- (b) the reservoir manager on whom the notice is served may appeal to the Water Appeals Commission against the decision to serve it,
+- (c) where, after serving the stop notice, the Department is satisfied that the manager has taken the steps specified in the notice, the Department must give a certificate to that effect (a “completion certificate”),
+- (d) the stop notice ceases to have effect on the giving of a completion certificate,
+- (e) the reservoir manager on whom the stop notice is served may at any time apply for a completion certificate,
+- (f) the Department must make a decision as to whether to give a completion certificate before the end of the period of 14 days beginning with the day on which the application for the certificate is made,
+- (g) the reservoir manager on whom the stop notice is served may appeal to the Water Appeals Commission against a decision not to give a completion certificate,
+- (h) a stop notice in respect of which an appeal referred to in paragraph (b) or (g) is made continues to have effect pending a decision being made in the appeal.
+
+(3) The matters referred to in subsection (2)(a) are—
+
+- (a) the grounds for serving the stop notice,
+- (b) rights of appeal,
+- (c) the consequences of non-compliance with the stop notice.
+
+(4) Provision pursuant to subsection (2)(b) must—
+
+- (a) secure that the grounds on which a reservoir manager may appeal against a decision of the Department to serve a stop notice include that—
+  - (i) the decision was based on an error of fact,
+  - (ii) the decision was wrong in law,
+  - (iii) the decision was unreasonable,
+  - (iv) any step specified in the notice is unreasonable,
+- (b) secure that the Commission may confirm, quash or vary the decision.
+
+(5) Provision pursuant to subsection (2)(g) must—
+
+- (a) secure that the grounds on which a reservoir manager may appeal against a decision of the Department not to give a completion certificate include that—
+  - (i) the decision was based on an error of fact,
+  - (ii) the decision was wrong in law,
+  - (iii) the decision was unreasonable,
+- (b) secure that the Commission may confirm or quash the decision.

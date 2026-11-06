@@ -1,0 +1,148 @@
+---
+title: The Criminal Appeal (Amendment) (Northern Ireland) Rules 2000
+id: nisr/2000/387
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2000-12-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2000/387
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2000/387/pdfs/nisr_20000387_en.pdf
+- http://www.legislation.gov.uk/nisr/2000/387/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Appeal (Amendment) (Northern Ireland) Rules 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 387
+
+CRIMINAL PROCEDURE, NORTHERN IRELAND
+
+The Criminal Appeal (Amendment) (Northern Ireland) Rules 2000
+
+Made
+
+8th December 2000
+
+To be laid before Parliament
+
+Coming into operation
+
+8th January 2001
+
+We, the Northern Ireland Supreme Court Rules Committee, being the authority for the time being having power under section 55 of the Judicature (Northern Ireland) Act 1978[^f00001] and section 5 of the Human Rights Act 1998[^f00002] to make, amend or revoke rules regulating the practice and procedure of the Supreme Court of Judicature of Northern Ireland, hereby with the concurrence of the Lord Chancellor, exercise those powers and all other powers enabling us in that behalf as follows:—
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Criminal Appeal (Amendment) (Northern Ireland) Rules 2000 and shall come into operation on 8th January 2001.
+
+## 2. Amendment of the Criminal Appeal Rules
+
+The Criminal Appeal (Northern Ireland) Rules 1968[^f00003] shall be amended as follows—
+
+- (a) in Rule 5, after paragraph (2)(*a*) there shall be inserted the following new sub-paragraphs—
+
+  > - (aa)  A notice of the grounds of appeal or application set out in Form 3 shall include—
+  >   - (i) details of any Convention right or rights (as defined by section 1 of the Human Rights Act 1998) which the appellant alleges have been (or would be) infringed and details of the alleged infringement;
+  >   - (ii) where the appellant intends to apply to the Court for a declaration of incompatibility under section 4 of the Human Rights Act 1998, details of the legislative provision or provisions alleged to be incompatible and the grounds on which it is (or they are) alleged to be incompatible;
+  >   - (iii) where the appellant is claiming for damages in respect of a judicial act to which section 9(3) of the Human Rights Act 1998 applies, notice of that fact and details of the judicial act complained of.
+  > - (ab)  Sub-paragraph (*a*)(i) above shall not apply to any appellant except where such an appellant intends to rely on a Convention right or rights not relied upon by him before the court from whose decision the appeal is brought.
+
+  ;
+- (b) after Rule 20, there shall be inserted the following new rules—
+
+  > **20A. Declaration of incompatibility: Notice to the Crown**
+  >
+  > (1) Where at any time in proceedings the Court is considering whether to make a declaration of incompatibility under section 4 of the Human Rights Act 1998, it shall give notice—
+  >
+  > - (a) to the Crown; and
+  > - (b) to each of the parties to the proceedings as soon as practicable thereafter.
+  >
+  > (2) Notice to the Crown under paragraph (1) above shall be given by the Court having had regard to the list of authorised Northern Ireland Departments or authorised Departments of the Government of the United Kingdom published in pursuance of section 17 of the Crown Proceedings Act 1947[^f00004].
+  >
+  > (3) The notice referred to in paragraph (1) above shall be in writing and shall contain such information as the Court considers necessary.
+  >
+  > **20B. Declaration of incompatibility: Notice of intention to be joined as a party**
+  >
+  > (1) In any case to which section 5(1) of the Human Rights Act 1998 applies, a Minister, Northern Ireland Department or other person entitled under section 5(2) of that Act to be joined as a party to the proceedings, shall be so joined on giving notice in accordance with paragraph (2) below.
+  >
+  > (2) Notice referred to in paragraph (1) above—
+  >
+  > - (a) shall be in writing and shall be filed in the Central Office of the Supreme Court and a copy shall be served as soon as practicable thereafter on each of the parties to the proceedings;
+  > - (b) where a Minister has nominated a person under section 5(2)(*a*) of the Human Rights Act 1998, shall be accompanied by a copy of that nomination in writing.
+  >
+  > **20C. Proceedings in respect of judicial act: Notice to appropriate person**
+  >
+  > (1) Where proceedings under section 7(1)(*a*) of the Human Rights Act 1998 in respect of a judicial act are brought in the Court of Appeal in accordance with section 9(1)(*a*) of that Act, the Court shall give notice of those proceedings to the appropriate person.
+  >
+  > (2) The notice referred to in paragraph (1) above shall ge given by the Court having had regard to the list of authorised Northern Ireland Departments or authorised Departments of the Government of the United Kingdom published in pursuance of section 17 of the Crown Proceedings Act 1947.
+  >
+  > (3) The notice referred to in paragraph (1) above shall contain such information and be in such form as the Court considers necessary.
+  >
+  > **20D. Proceedings in respect of judicial act: joinder of appropriate person**
+  >
+  > (1) Subject to paragraph (3) below, where notice has been given under Rule 20C, the appropriate person shall be joined as a party on giving notice in accordance with paragraph (2) below.
+  >
+  > (2) The notice referred to in paragraph (1) above shall be in writing and—
+  >
+  > - (a) shall be filed in the Central Office of the Supreme Court, not later than 21 days, or such other period as the Court may specify after the date of service of notice under Rule 20C;
+  > - (b) a copy shall be served on each of the parties to the proceedings as soon as practicable thereafter; and
+  > - (c) where a Minister has nominated a person or government department under section 9(5) of the Human Rights Act 1998, shall be accompanied by a copy of that nomination in writing.
+  >
+  > (3) Where the appropriate person does not give notice within the time allowed by paragraph (2) above, the Court may direct that he be joined as a party to the proceedings.
+  >
+  > (4) Where the appropriate person is joined as party to the proceedings under paragraphs (2) or (3) above, the Court may give such directions as it considers necessary for the future conduct of the proceedings.
+
+  ;
+- (c) in Rule 21, after paragraph (1)(*c*) there shall be inserted the following sub-paragraph—
+
+  > - (d) in the case of a declaration of incompatibility under section 4 of the Human Rights Act 1998, a copy of the declaration shall be served on—
+  >   - (i) all of the parties to the proceedings; and
+  >   - (ii) where a Minister of the Crown, Northern Ireland Department or other person entitled under section 5(2) of the Human Rights Act 1998 to be joined as a party, has not been so joined, the Crown in accordance with Rule 20A(2) above.
+
+  .
+
+R. D. Carswell
+
+Anthony Campbell
+
+F. P. Girvan
+
+Caroline McGonagle
+
+Tony Caher
+
+R. Weatherup
+
+Hugh P. Kennedy
+
+Brian Kerr
+
+Dated 29th November 2000
+
+I concur
+
+Irvine of Lairg, C.
+
+Dated 8th December 20000
+
+(This note is not part of the Rules.)
+
+These Rules amend the Criminal Appeal (Northern Ireland) Rules 1968 to prescribe the practice and procedure to apply where issues under the Human Rights Act 1998 arise in criminal appeal proceedings in the Court of Appeal.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
+
+[^f00002]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42)
+
+[^f00003]: Footnote: [S.R. & O. (N.I.) 1968 No. 218](https://www.legislation.gov.uk/nisro/1968/218); to which the most recent relevant amendment was made by [S.R. 1989 No. 295](https://www.legislation.gov.uk/nisr/1989/295)
+
+[^f00004]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44) (as applied to Northern Ireland by [S.I. 1981/233](https://www.legislation.gov.uk/uksi/1981/233))

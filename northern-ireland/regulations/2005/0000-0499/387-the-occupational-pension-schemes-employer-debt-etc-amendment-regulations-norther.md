@@ -1,0 +1,309 @@
+---
+title: The Occupational Pension Schemes (Employer Debt, etc. ) (Amendment) Regulations (Northern Ireland) 2005
+id: nisr/2005/387
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2005-08-12'
+text_date: '2008-04-06'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2005/387
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2005/387/pdfs/nisr_20050387_en.pdf
+- http://www.legislation.gov.uk/nisr/2005/387/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Employer Debt, etc. ) (Amendment) Regulations (Northern Ireland) 2005
+
+> Text as at 2008-04-06.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2005 No. 387
+
+PENSIONS
+
+The Occupational Pension Schemes (Employer Debt, etc.) (Amendment) Regulations (Northern Ireland) 2005
+
+Made
+
+12th August 2005
+
+Coming into operation
+
+2nd September 2005
+
+The Department for Social Development, in exercise of the powers conferred by Articles 10(3), 56(3), 75(1)(b), (5) and (10), 75A(1) to (7), 87(2), 115(1)(a) and (b), 116, 122(3) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and Articles 2(5)(a), 88(2)(q) and 119(4) of, and paragraph 2(d) of Schedule 1 to, the Pensions (Northern Ireland) Order 2005[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-70967a72b74e9802085c3432809a6d52]
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Employer Debt, etc.) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 2nd September 2005.
+
+(2) Regulation 2(1), (2), (5) and (8) does not apply if the employment-cessation event occurs before that date.
+
+(3) Regulation 2(1) and (7) does not apply if the applicable time is before that date.
+
+(4) In these Regulations—
+
+- “the Order” means the Pensions (Northern Ireland) Order 2005;
+- “the 2005 Regulations” means the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005[^f00004];
+- “the applicable time” has the same meaning as in regulation 2(1) of the 2005 Regulations;
+- “employment-cessation event” has the meaning given in regulation 6(4) of the 2005 Regulations.
+
+## 2. Amendment of the 2005 Regulations[^key-d156f8663c7fcf6c37cce64cf8309d3c]
+
+(1) The 2005 Regulations shall be amended in accordance with paragraphs (2) to (8).
+
+(2)[^key-1032b075c8f071d7b929d60884ad4b8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 4(1) (schemes to which Article 75 does not apply) sub-paragraph (k) and the word “or” immediately preceding it shall be omitted.
+
+(4)[^key-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In regulation 10 (money purchase schemes: fraud and levy deficiencies etc.), as it applies by virtue of regulation 12 of the 2005 Regulations (multi-employer money purchase schemes), in paragraph (1A)(a) for “the actuary” there shall be substituted “the trustees or managers”.
+
+(8)[^key-5bb7fb42c35856197196920a32a49661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. The Pension Regulator’s functions under the 2005 Regulations[^key-bf7e51dbb52f79356413086897d67b59]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-ab1a7bc49c6000b85db03000cec54735]
+
+In regulation 6(1)(b) of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00006] (excluded assets) for “, 60(5) or 75(1)” there shall be substituted “or 60(5) or under Article 75(1), as it has effect before 6th April 2005, or under Article 75(2) or (4), as it has effect on or after that date”.
+
+## 5. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-2a1496358a8d994f8d1db30910780aa4]
+
+In regulation 16(1)(a)(ii) of the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00007] (restrictions on winding up, discharge of liabilities etc.) for “section 90(1)(a)” there shall be substituted “section 90(1)(aa)”[^f00008].
+
+## 6. Amendment of the Pensions Regulator (Financial Support Directions, etc.) Regulations[^key-8f6612f470401c612919f8885daead78]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sealed with the Official Seal of the Department for Social Development on 12th August 2005.
+
+John O'Neill
+
+A senior officer of the
+
+Department for Social Development
+
+## SCHEDULE — SCHEDULES TO BE INSERTED IN THE 2005 REGULATIONS[^key-064fd0da8df6fecebc308820a44b6c6f]
+
+Regulation 2(8)
+
+[^key-064fd0da8df6fecebc308820a44b6c6f]
+
+> **SCHEDULE 1A — MULTI-EMPLOYER SCHEMES: EMPLOYER-CESSATION EVENTS AND APPROVED WITHDRAWAL ARRANGEMENTS**
+>
+> Regulation 7(7)
+>
+> **Withdrawal arrangements**
+>
+> **1.** (1) For the purposes of these Regulations a withdrawal arrangement—
+>
+> - (a) is an arrangement that meets the conditions specified in sub-paragraph (2), and
+> - (b) is approved if the details of the arrangement, and, where the arrangement is amended, of any amendments of the arrangement, are approved by the Authority.
+>
+> (2) The conditions are that—
+>
+> - (a) the arrangement consists of an agreement to which the trustees of the scheme and the cessation employer are parties;
+> - (b) the agreement is enforceable under the law of Northern Ireland, and the parties to the agreement have agreed that—
+>   - (i) that law applies to the agreement, and
+>   - (ii) they are subject to the jurisdiction of the courts in Northern Ireland as respects the agreement;
+> - (c) the agreement provides that at or before a time specified in the agreement the cessation employer will pay an amount equal to or greater than the amount that is amount A for the purposes of regulation 7(3)(a);
+> - (d) the agreement—
+>   - (i) provides that if an event specified in sub-paragraph (3) occurs whilst the agreement is in force the parties to the agreement who are specified in the agreement as the persons who are the guarantors for the purposes of regulation 7 (“the guarantors”) (who may be or include the cessation employer) will pay an amount equal to the amount that is amount B for the purposes of regulation 7(3)(b) (but without prejudice to their powers to make a payment on account of that amount at any earlier time);
+>   - (ii) if there are two or more guarantors, provides whether or not the guarantors are to be jointly and severally liable for that amount for those purposes, and
+>   - (iii) provides whether or not that amount is to be the amount provided for under regulation 7B(2);
+> - (e) the agreement provides that an amount payable under head (c) or (d) is payable—
+>   - (i) to the trustees of the scheme, or
+>   - (ii) if the Board has assumed responsibility for the scheme in accordance with Chapter 3 of Part III of the 2005 Order (pension protection), to the Board on behalf of the trustees of the scheme;
+> - (f) the agreement provides that one or more of the parties to the agreement other than the trustees of the scheme are to bear any expenses incurred by the parties in connection with—
+>   - (i) the making of the agreement, or
+>   - (ii) the making of any calculations by the actuary for the purposes of the agreement;
+> - (g) the agreement will continue in force until—
+>   - (i) the winding up of the scheme is completed;
+>   - (ii) the Authority issue a notice to the parties to the agreement stating that the Authority consider that the agreement is no longer required, or
+>   - (iii) the agreement is replaced by another agreement that is approved by the Authority as an approved withdrawal arrangement,
+>
+>   whichever occurs first.
+>
+> (3) The events are that—
+>
+> - (a) the scheme begins to be wound up;
+> - (b) an event occurs as a result of which there is no person who is an employer in relation to the scheme for the purposes of these Regulations in relation to whom a relevant event has not occurred for the purposes of Article 75 (see Article 75(6A)[^f00010]);
+> - (c) the Authority issue a notice to the parties to the agreement stating that they consider that the amount referred to in sub-paragraph (2)(d)(i) should be paid.
+>
+> (4) The Authority may not issue such a notice at any time unless the Authority consider that it is reasonable for the guarantors to be required to pay that amount at that time.
+>
+> (5) In forming an opinion for the purposes of sub-paragraph (4), the Authority must have regard to such matters as the Authority consider relevant including—
+>
+> - (a) whether the guarantors have taken reasonable steps to comply with the approved withdrawal arrangement;
+> - (b) whether the guarantors have complied with their obligations under paragraph 5, and
+> - (c) the guarantors' financial circumstances.
+>
+> **Approval of withdrawal arrangements**
+>
+> **2.** (1) Approval by the Authority of an agreement as a withdrawal arrangement is to be given in a notice issued by the Authority.
+>
+> (2) Such an approval may be given subject to such conditions as the Authority consider appropriate.
+>
+> (3) The Authority may not approve an agreement as a withdrawal arrangement unless they are satisfied that—
+>
+> - (a) the agreement meets the conditions in paragraph 1(2), and
+> - (b) the guarantors have or will have such resources that the debt becoming due under Article 75 is more likely to be met if the agreement is approved.
+>
+> **3.** (1) Nothing in this Schedule prevents the Authority from approving as a withdrawal arrangement an agreement that will take effect only if an employment-cessation event occurs in relation to an employer.
+>
+> (2) In the case of such an approval, references in paragraphs 1 and 2 to that event and debt must be read accordingly.
+>
+> (3) Subject to that, references in these Regulations to an approved withdrawal arrangement only include references to an arrangement approved under this paragraph if the agreement has taken effect.
+>
+> **4.** (1) Paragraphs 1, 2 and 5 apply to any arrangement replacing an approved withdrawal arrangement as they applied to the replaced arrangement.
+>
+> (2) No directions may be issued under regulation 7(2) as a result of a notification about an arrangement that is to replace another arrangement if—
+>
+> - (a) directions have been issued under that regulation as a result of a notification about the replaced arrangement, and
+> - (b) the replaced arrangement is an approved withdrawal arrangement that has come into force.
+>
+> (3) If an approved withdrawal arrangement replaces another such arrangement—
+>
+> - (a) any directions issued under regulation 7(2) as a result of a notification about the replaced arrangement continue to apply, and
+> - (b) after the replacing arrangement comes into force references to the approved withdrawal arrangement in regulations 7(3)(b), (4) and (6) and 7B(1) to (3) and in regulation 6(6)(b), as inserted by regulation 7A(5)(b), are to be taken as references to the replacing arrangement.
+>
+> (4) Once sub-paragraph (2) has applied to an arrangement (“the second arrangement”) that is to replace another arrangement—
+>
+> - (a) no further directions may be issued under regulation 7(2) as a result of a notification about any arrangement that is to replace the second arrangement or any subsequent replacing arrangement;
+> - (b) sub-paragraph (3)(a) continues to apply to any directions about the arrangement replaced by the second arrangement notwithstanding the replacement of the second arrangement, or any subsequent replacement, by an approved withdrawal arrangement, and
+> - (c) if such a replacement of the second arrangement or subsequent replacement occurs, references in sub-paragraph (3)(b) to the replacing arrangement are references to the latest replacing arrangement.
+>
+> **Notifiable events**
+>
+> **5.** (1) Where an approved withdrawal arrangement is in force in relation to a scheme, each relevant person must give notice to the Authority if such an event as is mentioned in sub-paragraph (3) occurs in relation to that person.
+>
+> (2) For the purposes of this paragraph each of the guarantors is a relevant person.
+>
+> (3) The following are the events referred to in sub-paragraph (1)—
+>
+> - (a) any decision by the relevant person to take action which will, or is intended to, result in a debt which is or may become due—
+>   - (i) to the trustees of the scheme, or
+>   - (ii) if the Board has assumed responsibility for the scheme in accordance with Chapter 3 of Part III of the 2005 Order, to the Board,
+>
+>   not being paid in full;
+> - (b) a decision by the relevant person to cease to carry on business (including any trade or profession) in the United Kingdom or, if the relevant person ceases to carry on such business without taking such a decision, his doing so;
+> - (c) where applicable, receipt by the relevant person of advice that the person is trading wrongfully within the meaning of Article 178 of the Insolvency (Northern Ireland) Order 1989[^f00011] (wrongful trading), or circumstances occurring in which a director or former director of the company knows that there is no reasonable prospect that the company will avoid going into insolvent liquidation within the meaning of that Article, and for this purpose Article 178(4) of that Order applies;
+> - (d) any breach by the relevant person of a covenant in an agreement between the relevant person and a bank or other institution providing banking services, other than where the bank or other institution agrees with the relevant person not to enforce the covenant;
+> - (e) any change in the relevant person’s credit rating, or the relevant person ceasing to have a credit rating;
+> - (f) where the relevant person is a company, a decision by a controlling company to relinquish control of the relevant person or, if the controlling company relinquishes such control without taking such a decision, its doing so;
+> - (g) two or more changes in the holders of any key relevant person posts within the period of 12 months;
+> - (h) where the relevant person is a company or partnership, the conviction of an individual, in any jurisdiction, for an offence involving dishonesty, if the offence was committed while the individual was a director or partner of the relevant person;
+> - (i) an insolvency event occurring in relation to the relevant person for the purposes of Part III of the 2005 Order (see Article 105).
+>
+> (4) A notice under sub-paragraph (1) must be given in writing as soon as reasonably practicable after the relevant person becomes aware of the event.
+>
+> (5) No duty to which a relevant person is subject is to be regarded as contravened merely because of any information or opinion contained in a notice under this paragraph.
+>
+> (6) Sub-paragraph (5) does not require any person to disclose protected items within the meaning of Article 283 of the 2005 Order.
+>
+> (7) Article 10 (civil penalties) applies to any relevant person who without reasonable excuse fails to comply with an obligation imposed on him under this paragraph.
+>
+> (8) In this paragraph—
+>
+> - “control” has the meaning given in Article 4(10) of the Insolvency (Northern Ireland) Order 1989 and “controlling company” is to be read accordingly;
+> - “director” has the meaning given in Article 9(1) of the Companies (Northern Ireland) Order 1986[^f00012];
+> - “key relevant person posts” means the Chief Executive and any director or partner responsible in whole or in part for the financial affairs of the relevant person.
+>
+> **SCHEDULE 1B — FORM OF ACTUARY'S CERTIFICATE: SCHEME FUNDING BASIS DEBTS IN APPROVED WITHDRAWAL ARRANGEMENT CASES**
+>
+> Regulation 7A(6)
+>
+> [image: see source](https://www.legislation.gov.uk/nisr/2005/387/images/nisr_20050387_en_001)
+
+.
+
+(This note is not part of the Regulations)
+
+These Regulations are made as a consequence of provisions in the Pensions (Northern Ireland) Order 2005 (“the 2005 Order”) and amend the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 (“the 2005 Regulations”) where debts arise under Article 75 of the Pensions (Northern Ireland) Order 1995 (“the 1995 Order”) in respect of certain occupational pension schemes. They also make minor amendments to the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996, the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005 and the Pensions Regulator (Financial Support Directions etc.) Regulations (Northern Ireland) 2005.
+
+Regulation 1 provides that the amendments made by regulation 2(1), (2), (5), (7) and (8) do not apply where the debt arose before the date on which these Regulations come into operation.
+
+Regulation 2(3) and (7) makes minor amendments of the 2005 Regulations. In particular, the Salvation Army pension scheme is omitted from the list of schemes to which Article 75 of the 1995 Order does not apply, and the function of determining the proportion of any levy deficit or criminal deficit in the pension fund of a multi-employer money purchase scheme that is to be due from any of the employers is transferred from the scheme’s actuary to the scheme’s trustees or managers.
+
+Regulation 2(4) amends regulation 5 of the 2005 Regulations so that where a debt has arisen under Article 75 of the 1995 Order on the leaving of an employer and an approved withdrawal arrangement has applied, valuations for events happening later are to ignore the debts that arose when the employer left.
+
+Regulation 2(5) amends the 2005 Regulations by substituting new regulations 7 to 7B.
+
+Under the new regulation 7 where a debt arises under Article 75 of the 1995 Order because of an employer ceasing to employ persons in employments covered by an occupational pension scheme where there was more than one such employer, and an arrangement (an “approved withdrawal arrangement”) is approved by the Pensions Regulator under which parties to the arrangement (“the guarantors”) are bound to make payments to the scheme if certain events occur, the debt becomes partly payable by the leaving employer, and partly by the guarantors at a later time (“the guarantee time”). (The amended provisions of the 2005 Regulations refer to “the Authority” but in accordance with Article 121(1) of the 1995 Order that means the Pensions Regulator.)
+
+New regulation 7A provides for the part payable by the leaving employer to be calculated on the same basis as is used for minimum funding valuations under Article 56 of the 1995 Order, except that a deduction is made where liabilities attributable to employment with the employer have been transferred out before the withdrawal arrangement was approved.
+
+New regulation 7B provides that the basis on which the part payable by the guarantors is calculated depends on the terms of the approved withdrawal arrangement. It may be the amount that would be payable if the leaving employer had ceased at the guarantee time to employ persons in employments covered by the scheme. Alternatively, it may be the amount that would be payable if there were no approved withdrawal arrangement, but with a deduction both for the amount payable by the leaving employer and for any transfers out of the scheme of liabilities attributable to employment with the leaving employer.
+
+Regulation 2(6) amends regulation 9 of the 2005 Regulations so that a leaving employer who has paid the debt due from him under the new regulation 7A no longer counts as an employer for the purposes of Article 75 of the 1995 Order and the 2005 Regulations, regardless of whether the amount payable by the guarantors has been paid.
+
+Regulation 2(8) inserts Schedules 1A and 1B into the 2005 Regulations. Schedule 1A sets out the requirements for the approval of withdrawal arrangements and imposes a requirement for the guarantors to notify the Pensions Regulator if certain events occur that are relevant to their solvency. Schedule 1B sets out the form that the scheme actuary’s certificate must take for the valuation of scheme assets and liabilities based on Article 56 of the 1995 Order that is needed to determine the amount of the debt payable by the leaving employer under the new regulation 7A.
+
+Regulation 3 makes provision about the exercise of functions of the Pension Regulator under the 2005 Regulations, as amended by regulation 2 of these Regulations.
+
+Regulation 4 makes an amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996 that is consequential on the amendments of Article 75 of the 1995 Order by Article 248 of the 2005 Order.
+
+Regulation 5 corrects a minor error in the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005.
+
+Regulation 6 amends the Pensions Regulator (Financial Support Directions etc.) Regulations (Northern Ireland) 2005 so that, for the purposes of those Regulations and provisions of the 2005 Order relating to contribution notices, financial support directions and transactions at an undervalue, a former employer does not count as an employer if an approved withdrawal arrangement has applied and the part of the debt payable by the former employer under regulation 7A of the 2005 Regulations has been paid.
+
+As these Regulations, in so far as they are made under Part II of the 1995 Order make, in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement for consultation under Article 117(1) of the 1995 Order does not apply by virtue of paragraph (2)(e) of that Article and the requirement for consultation under Article 289(1) of the 2005 Order does not apply by virtue of paragraph (2)(e) of that Article.
+
+Otherwise they are made before the end of the period of six months beginning with the coming into operation of Articles 248 and 249 of the 2005 Order, upon which they consequential, the requirement to consult under Article 289(1) of the Order does not apply by virtue of paragraph (2)(c) of that Article.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), Article 75A was inserted by Article 249 of that Order and Article 87(2) was amended by paragraph 60(b) of Schedule 10 to that Order
+
+[^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
+
+[^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 88(2)(q) and paragraph 2(d) of Schedule 1 refer to functions of the Regulator, which by virtue of Article 6(1)(b) and (2)(b) include functions expressed to be conferred on “the Authority” by or by virtue of the Pensions (Northern Ireland) Order 1995
+
+[^key-70967a72b74e9802085c3432809a6d52]: Commencement: Reg. 1 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+
+[^f00004]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
+
+[^key-d156f8663c7fcf6c37cce64cf8309d3c]: Commencement: Reg. 2 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+
+[^key-1032b075c8f071d7b929d60884ad4b8c]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/2) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+
+[^key-d705085f696e1b607871d1dd6022bb73]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/4) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+
+[^key-5bb7fb42c35856197196920a32a49661]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/8) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+
+[^key-bf7e51dbb52f79356413086897d67b59]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/387/regulation/3) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+
+[^key-ab1a7bc49c6000b85db03000cec54735]: Commencement: Reg. 4 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+
+[^f00006]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570); sub-paragraph (b) was amended by regulation 12(1) of [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584)
+
+[^key-2a1496358a8d994f8d1db30910780aa4]: Commencement: Reg. 5 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+
+[^f00007]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126); regulation 16(1) was amended by regulation 3(5) of [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
+
+[^f00008]: Footnote: Paragraph (aa) was inserted by Article 150(2) of the Pensions (Northern Ireland) Order 1995
+
+[^key-8f6612f470401c612919f8885daead78]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/387/regulation/6) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+
+[^key-064fd0da8df6fecebc308820a44b6c6f]: Commencement: Sch. in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+
+[^f00010]: Footnote: Paragraph (6A) was inserted by Article 248(5) of the Pensions (Northern Ireland) Order 2005
+
+[^f00011]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Article 178 was modified by Schedule 15 to the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53) as amended by Article 381 of, and Part II of Schedule 9 to, the Insolvency (Northern Ireland) Order 1989 and by section 23 of, and Schedule 10 to, the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40). Regulation 5 of [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307) applies Article 178 to limited liability partnerships with modifications including that references to a company include references to such partnerships and references to a director include references to a member (*see* regulation 5(2)(a) and (b))
+
+[^f00012]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); under regulation 4 of, and Part I of Schedule 2 to, [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307) Article 9 (except paragraph (3)) applies to limited liability partnerships with the modifications set out in regulation 4(1)

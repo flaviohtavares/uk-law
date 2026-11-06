@@ -1,0 +1,273 @@
+---
+title: Marketing of Quality Agricultural Products Grant Regulations (Northern Ireland) 2002
+id: nisr/2002/29
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: revised
+made_date: '2002-02-06'
+text_date: '2007-10-30'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/nisr/2002/29
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2002/29/pdfs/nisr_20020029_en.pdf
+- http://www.legislation.gov.uk/nisr/2002/29/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marketing of Quality Agricultural Products Grant Regulations (Northern Ireland) 2002
+
+> Text as at 2007-10-30.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2002 No. 29
+
+AGRICULTURE *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Marketing of Quality Agricultural Products Grant Regulations (Northern Ireland) 2002 *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Made *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+6th February 2002 *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Coming into operation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+14th March 2002 *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+The Department of Agriculture and Rural Development, being a Department designated *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0][^f00001] for the purpose of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0][^f00002] as regards measures relating to the operation of the Structural Funds and matters relating to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2), and all other powers enabling it in that behalf, hereby makes the following Regulations:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 1. Citation and commencement (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+These Regulations may be cited as the Marketing of Quality Agricultural Products Grant Regulations (Northern Ireland) 2002 and shall come into operation on 14th March 2002. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 2. Interpretation (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) In these Regulations— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- “application” means an application for approval of expenditure under regulation 4; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “approved” in relation to any expenditure means approved by the Department under regulation 5; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “authorised person” means any person authorised by the Department, either generally or specifically, for the purposes of these Regulations and includes any official of the Commission who accompanies such an authorised person; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “beneficiary” means a person whose application has been granted ; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “Community support” means support payable pursuant to the fourth indent of Article 33 of the Council Regulation from the Guidance Section of the European Agricultural Guidance and Guarantee Fund in accordance with the Community legislation; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “the Community legislation” means the Council Regulation and the instruments listed in the Schedule in so far as they relate to Community support ; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “the Council Regulation” means Council Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0][^f00003] of 17th May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]EAGGF *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]) and amending and repealing certain Regulations; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “the Department” means the Department of Agriculture and Rural Development; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “electronic communication” has the same meaning as in the Electronic Communications Act (Northern Ireland ) 2001 *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0][^f00004];
+- “financial support” means an amount paid or payable under these Regulations; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “operation” means an investment or project in Northern Ireland; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- “public funds” means monies made available by:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+  - (a) a body exercising public functions within the United Kingdom; or *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+  - (b) the European Communities. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is consequently capable of being reproduced. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0][^f00005] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 3. Grants to support the marketing of quality agricultural products (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) The Department may pay financial support to a beneficiary towards approved expenditure incurred in connection with an operation. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) The amount of any such financial support shall be 50 per cent of the approved expenditure or, if any other grant is payable from public funds in relation to the same approved expenditure, such other amount as, when added to that other grant, would make up 50 per cent of the approved expenditure. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) The maximum financial support payable under this regulation in respect of any operation shall be £150,000. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 4. Approval of expenditure (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+An application for the approval of expenditure in connection with an operation shall be made in such form and contain such information as the Department reasonably may require. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+**5.** (1) Subject to paragraph (2), the Department may approve in whole or in part expenditure in connection with an operation for which an application has been made. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) The Department shall not approve expenditure unless it is satisfied that the operation to which it relates is eligible for Community support. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) Approval may be given subject to such conditions as the Department may determine. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(4) Subject to paragraph (5) the Department may vary any approval granted under this regulation. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(5) The Department shall only vary an approval granted under this regulation pursuant to a request in writing from the beneficiary to do so, or in any other case after— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) giving the beneficiary notice in writing that it proposes to do so together with a statement of its reasons; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) giving the beneficiary an opportunity to make written representations within such time as the Department considers reasonable; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (c) considering any such representations. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(6) An approval or variation under this regulation shall be in writing. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 6. Claims (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+A claim for financial support shall be made at such time or within such period and in such form, and be accompanied by such information, as the Department reasonably may require. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 7. Payments (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) The Department may pay financial support in respect of approved expenditure in connection with an operation by payment of a single lump sum or by instalments. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) Payments may be made— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) at such time as the Department reasonably may determine; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) subject to such conditions as the Department reasonably may determine. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 8. Information (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) A beneficiary shall give the Department such information about any approved expenditure and any operation in connection with which such expenditure is incurred as the Department reasonably may require. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) Where the Department requires such information, the beneficiary shall give it to the Department within such period as the Department reasonably may determine. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 9. Record keeping (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) A beneficiary shall, subject to paragraphs (2) and (3), keep any invoice, account or other document relating to approved expenditure or any operation in connection with which such expenditure is incurred for the period of 6 years beginning with the day on which the last payment of financial support under these Regulations is made to him in connection with that expenditure or operation. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) If in the normal course of business a beneficiary transfers to another person the original of any document he is required to keep under paragraph (1) within the period he is required to keep it under that paragraph it shall be sufficient compliance with that paragraph for him to keep a copy of that document for that period. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) Paragraph (1) shall not apply in any case where a document to which that paragraph relates has been removed by any person lawfully authorised to remove it. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 10. Powers of authorised persons (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) An authorised person may at all reasonable times, on producing, if so required, some duly authenticated document showing his authority, enter on any land, other than land used solely for the purpose of a dwelling-house:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) to which an application or approved expenditure relates; or *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) on which he has reasonable grounds to believe that documents relating to an application or approved expenditure are being kept, *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+for any of the purposes mentioned in paragraph (2). *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) The purposes referred to in paragraph (1) are:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) verifying the accuracy of any information provided by an applicant or beneficiary relating to an application or approved expenditure; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) determining whether or not a beneficiary has complied with the conditions of an approval. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) An authorised person who has entered any land under paragraph (1) may:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) inspect any document or record on it which he reasonably believes relates to an application or approved expenditure; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) require the applicant or beneficiary or any employee, servant or agent of such applicant or beneficiary, to produce, or secure the production of, any document or supply any additional information in his possession or under his control relating to the application or approved expenditure in question, as the case may be; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (c) where any information referred to in sub-paragraph ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*b*) is kept by means of a computer, have access to any computer and any associated apparatus or material which is or has been used for storing that information and require information to be reproduced in a form in which it is legible and can be taken away; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (d) require copies of or extracts from any such document or other record referred to in sub-paragraph ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*a*) or ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*b*) to be produced; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (e) seize and retain any document or other record which he reasonably believes may be required as evidence in proceedings under these Regulations. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(4) An applicant or beneficiary, and any employee, servant or agent of such applicant or beneficiary shall give an authorised person all reasonable assistance in relation to the exercise of his powers under paragraphs (1) and (3). *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(5) An authorised person entering any land under paragraph (1) may take with him such other person as he considers necessary and paragraphs (3) and (4) shall apply to any such person when acting under the instructions of an authorised person as if he were an authorised person. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 11. Breaches of obligations (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) Subject to paragraph (2) where— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) any information furnished to the Department by the beneficiary is false or misleading; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) the beneficiary is in breach of any of the conditions of an approval; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (c) the beneficiary is in breach of any requirement to which he is subject under these Regulations or under the Community legislation; or *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (d) the whole or part of the financial support payable in respect of approved expenditure duplicates other grant paid or to be paid out of public funds, *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+the Department may exercise the powers contained in regulation 13. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) For the purposes of paragraph (1)( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*d*), other grant duplicates any financial support if it is, or would be, for any of the same purposes as the financial support. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) Where— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) a beneficiary has transferred all or part of the land to which an approval relates to another person (“the transferee”); *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) the transferee has given an undertaking to the Department to assume the conditions of the approval in place of the beneficiary; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (c) the Department has accepted that undertaking, *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+the beneficiary shall be released from the conditions of the approval, other than in respect of any breach or other matter occurring before the acceptance by the Department of the transferee’s undertaking. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 12. Other cases in which recovery (affected by repeal, see note) etc. (affected by repeal, see note) powers apply (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+The Department may exercise the powers contained in paragraph (1) ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*a*) and ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*b*) of regulation 13 where— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) there has been a material change in the nature, scale, costs or timing of the approved expenditure in question or any operation to which it relates; or *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) the operation to which approved expenditure in question relates has been or is being delayed, or is unlikely to be completed. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 13. Department’s powers (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) The powers conferred by regulations 11(1) and 12 are— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) to withhold the whole or any part of the financial support payable to the beneficiary; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) to recover on demand the whole or any part of the financial support already paid to the beneficiary. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) Where all the circumstances in which the powers conferred by regulation 11(1) and specified in paragraph (1) have become exercisable are such as were intended by the beneficiary or as to which the beneficiary was reckless, the Department may also require the beneficiary to pay to it an additional sum equal to no more than 10 per cent of the financial support paid or payable to him. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(3) Where the Department takes any step specified in paragraph (1) it may also serve in writing on the beneficiary a notice suspending or terminating the approval. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(4) Where, under paragraph (3), the Department treats the approval as terminated, it may by notice in writing served on the beneficiary prohibit the beneficiary from making an application for the approval of expenditure in connection with an operation for such period (not exceeding two years) from the date of the termination as may be specified in the notice. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(5) Before taking any step specified in paragraph (1), (2), (3) or (4) the Department shall; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) give the beneficiary a written explanation of the reasons for the step proposed to be taken; *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) afford the beneficiary an opportunity to make written representations within such time as the Department considers reasonable; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (c) consider any such representations. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 14. Recovery of interest (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) Where the Department exercises the power conferred by regulation 13(1)( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*b*) it may also recover on demand interest on the financial support to be recovered for the period beginning with the day following that on which the financial support was paid and ending on the day on which the Department recovers it. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) The rate at which the interest is payable for any day in that period is one percentage point above *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] LIBOR *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0].
+
+(3) For the purposes of paragraph (2) “ *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]LIBOR *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]” means the sterling three month London interbank offered rate in force on the day in question, and in any proceedings relating to the recovery of such interest a certificate of the Department stating the *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] LIBOR *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] applicable for any day is conclusive evidence of the rate applicable for that day if the certificate also states that the Bank of England notified the Department of that rate. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 15. Recovery of payments (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+In any case where an amount falls to be paid to the Department by virtue of (or by virtue of action taken under) these Regulations, the amounts so falling to be paid shall be recoverable as a debt. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## 16. Offences and penalties (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(1) A person is guilty of an offence if:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) for the purposes of obtaining financial support for himself or any other person under these Regulations he knowingly or recklessly makes a statement which is false or misleading in a material particular; or *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) he intentionally obstructs an authorised person (or a person accompanying him and acting under his instructions) in the exercise of his powers under regulation 10. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(2) A person who is guilty of an offence shall be liable:— *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+- (a) in the case of an offence under paragraph (1)( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*a*)—
+  - (i) on summary conviction, to a fine not exceeding the statutory maximum; or *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+  - (ii (affected by repeal, see note))[^key-934b4e941a1fc5cf630a638b1e98e7b0] on conviction on indictment, to a fine; and *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+- (b) in the case of an offence under paragraph (1)( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]*b*), to a fine not exceeding level 3 on the standard scale. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 6th February 2002. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Liam McKibben *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+A senior officer of the *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Department of Agriculture and Rural Development *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+## SCHEDULE (affected by repeal, see note) — Meaning of “Community Legislation” (affected by repeal, see note)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+Regulation 2(1) *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+**1.** Council Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 21 June 1999 laying down general provisions on the Structural Funds (O.J. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L161, 26.6.1999, p. 1).
+
+**2.** Commission Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1750/1999](https://www.legislation.gov.uk/european/regulation/1999/1750)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 23 July 1999 laying down detailed rules for the application of Council Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] on support for rural development from the European Agricultural Guidance and Guarantee Fund ( *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]EAGGF *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]) (O.J. No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L214, 13.8.1999, p. 31, as amended by Commission Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 2075/2000](https://www.legislation.gov.uk/european/regulation/2000/2075)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 29 September 2000 (O.J. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L246, 30.9.2000, p. 46)).
+
+**3.** Commission Decision *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1999/501](https://www.legislation.gov.uk/european/decision/1999/0501)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 1 July 1999 fixing an indicative allocation by Member State of the commitment appropriations for Objective 1 of the Structural Funds for the period 2000 to 2006 (O.J. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L194, 27.7.1999, p. 49).
+
+**4.** Commission Decision *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1999/502](https://www.legislation.gov.uk/european/decision/1999/0502)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 1 July 1999 drawing up the list of regions covered by Objective 1 of the Structural Funds for the period 2000 to 2006 (O.J. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L194, 27.7.1999, p. 53).
+
+**5.** Commission Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1685/2000](https://www.legislation.gov.uk/european/regulation/2000/1685)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 28 July 2000 laying down detailed rules for the implementation of Council Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] as regards eligibility of expenditure of operations co-financed by the Structural Funds (O.J. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L193, 29.7.2000, p. 39).
+
+**6.** Commission Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 438/2001](https://www.legislation.gov.uk/european/regulation/2001/0438)[^key-934b4e941a1fc5cf630a638b1e98e7b0][^key-934b4e941a1fc5cf630a638b1e98e7b0] of 2 March 2001 laying down detailed rules for the implementation of Council Regulation *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] [(EC *(affected by repeal, see note)*) 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260)[^key-934b4e941a1fc5cf630a638b1e98e7b0] as regards the management and control systems for assistance granted under the Structural Funds (O.J. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] No. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0] L63, 3.3.2001, p. 21).
+
+**7.** Commission Decision of 22 March 2001 approving the Programme for Building Sustainable Prosperity — C (2001) 637. *(affected by repeal, see note)*[^key-934b4e941a1fc5cf630a638b1e98e7b0]
+
+(This note is not part of the Regulations.)
+
+These Regulations, which come into operation on 14th March 2002, supplement in respect of Northern Ireland the Community legislation listed in the Schedule to the Regulations (“the Community legislation”). The Community legislation *inter alia* provides for support to be paid from the Guidance Section of the European Agricultural Guidance and Guarantee Fund (“Community support”) towards investment relating to the marketing of quality agricultural products.
+
+The Regulations operate within the scope of these provisions by enabling Community support to be paid by the Department of Agriculture and Rural Development (“the Department”) in respect of any expenditure it has approved. Such expenditure may be approved if it is eligible for assistance under the Community legislation and is expenditure for which support may be granted pursuant to the fourth indent of Article 33 of Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) (regulations 3 to 5).
+
+The Regulations also provide for the making of claims for, and the payment of, grants following approval (regulations 6 and 7) and also contain provisions creating obligations on those in receipt of grants concerning the provision of information (regulation 8) and record-keeping (regulation 9).
+
+In addition the Regulations confer powers of entry on certain authorised persons, including Officials of the Commission (regulation 10), introduce a system of penalties to be imposed in the event of a breach of obligations by granting the Department various powers to take action, up to and including termination of approval in the event of breaches of the conditions of an approval and in a number of other cases (regulations 11 to 13), provide power to recover interest on sums recovered and that these be classified as a debt (regulations 14 and 15) and create offences in respect of the furnishing of false information for the purpose of obtaining financial assistance and in respect of obstruction (regulation 16).
+
+## Annotations
+
+[^key-934b4e941a1fc5cf630a638b1e98e7b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/29) revoked (30.10.2007) by [Agricultural and Forestry Marketing Development Grant Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/417)](https://www.legislation.gov.uk/nisr/2007/417), [regs. 1](https://www.legislation.gov.uk/nisr/2007/417/regulation/1), [17(1)](https://www.legislation.gov.uk/nisr/2007/417/regulation/17/1) (with [reg. 17(2)](https://www.legislation.gov.uk/nisr/2007/417/regulation/17/2))
+
+[^f00001]: Footnote: S.I. [1999/2788](https://www.legislation.gov.uk/uksi/1999/2788) and S.I. [2000/3238](https://www.legislation.gov.uk/uksi/2000/3238)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^f00003]: Footnote: O.J. No. L160, 26.6.1999, p. 80
+
+[^f00004]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9)
+
+[^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

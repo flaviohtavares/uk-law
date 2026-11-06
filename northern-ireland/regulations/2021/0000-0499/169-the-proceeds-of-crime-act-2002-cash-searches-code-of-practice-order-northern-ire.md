@@ -1,0 +1,93 @@
+---
+title: 'The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2021'
+id: nisr/2021/169
+type: NorthernIrelandStatutoryRule
+category: secondary
+status: as-enacted
+made_date: '2021-06-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/nisr/2021/169
+pdf_urls:
+- http://www.legislation.gov.uk/nisr/2021/169/pdfs/nisrem_20210169_en.pdf
+- http://www.legislation.gov.uk/nisr/2021/169/pdfs/nisr_20210169_en.pdf
+- http://www.legislation.gov.uk/nisr/2021/169/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 169
+
+Proceeds Of Crime
+
+The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2021
+
+Made
+
+17th June 2021
+
+Coming into operation
+
+28th June 2021
+
+The Department of Justice makes the following Order in exercise of the powers conferred by section 293A(4) of the Proceeds of Crime Act 2002[^f00001] (“the Act”).
+
+The Department of Justice has—
+
+- (a) under section 293A(6) of the Act, revised the code of practice made under section 293A(1) of the Act in connection with the powers under the Act relating to cash searches [^f00002];
+- (b) in accordance with section 293A(2) of the Act, published a draft of the revised code of practice, considered any representations made about the draft and, as the Department thought appropriate, modified the draft in the light of any such representations; and
+- (c) in accordance with section 293A(3) of the Act, laid a draft of the revised code of practice before the Assembly.
+
+In accordance with section 459(7B)[^f00003] of the Act, a draft of this Order was laid before, and approved by a resolution of, the Assembly.
+
+Accordingly, the Department of Justice, in exercise of the powers conferred by section 459(2) of the Act, makes the following Order-
+
+## 1. Citation and commencement
+
+This Order may be cited as the Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2021 and it comes into operation on 28th June 2021.
+
+## 2. Revised Code of Practice
+
+The revised code of practice entitled “Code of Practice issued under section 293A of the Proceeds of Crime Act 2002: Recovery of Cash: Search Powers (Northern Ireland)” laid in draft before the Assembly on 12th May 2021 comes into operation on 28th June 2021.
+
+## 3. Revocation
+
+The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2016[^f00004] is revoked.
+
+Sealed with the Official Seal of the Department of Justice on 17th June 2021
+
+Naomi Long
+
+Minister of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order brings into operation on 28th June 2021 a revised code of practice made under section 293A(1) of the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) (“the 2002 Act”) in connection with the exercise of the powers conferred by virtue of section 289 of the 2002 Act. Revisions to the code of practice are necessitated by the commencement in Northern Ireland of amendments made to the 2002 Act by the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
+
+Section 289 of the 2002 Act permits officers of Revenue and Customs, constables, officers of the Serious Fraud Office and accredited financial investigators to search persons, premises and vehicles for cash which is derived from, or intended for use in, unlawful conduct.
+
+By virtue of section 24 of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), Chapter 3 of Part 5 of the 2002 Act (which includes both sections 289 and 292) applies to an immigration officer as it applies in relation to a constable subject to modifications made by that section. Immigration officers may exercise the powers in England and Wales, Scotland and Northern Ireland.
+
+The revised code of practice made under section 293A(1) of the 2002 Act applies to constables and accredited financial investigators in Northern Ireland. Officers of Revenue and Customs, officers of the Serious Fraud Office and immigration officers are covered by a code of practice issued under section 292 of the 2002 Act, made by the Secretary of State.
+
+The revised code of practice brought into operation by this Order replaces the code of practice that was brought into operation by the Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order (Northern Ireland) 2016. This Order revokes [S.R. 2016 No. 65](https://www.legislation.gov.uk/nisr/2016/65).
+
+An impact assessment has not been produced for this Order as it has no direct impact on business, charities or voluntary bodies. The code of practice provides guidance on the use of powers under the 2002 Act by bodies in the public sector and incorporates existing best practice, but it does not require any greater use of those powers which could result in an additional impact.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Section 293A was inserted by Article 12 of, and paragraphs 47 and 61 of Schedule 14 to, the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) (“the 2010 Order”).
+
+[^f00002]: Footnote: The revised code of practice brought into operation by this Order replaces the code of practice brought into operation on 1st March 2016 by [S.R. 2016 No. 65](https://www.legislation.gov.uk/nisr/2016/65).
+
+[^f00003]: Footnote: Section 459(7B) was inserted by paragraph 74(1) and (4) of Schedule 14 to the 2010 Order.
+
+[^f00004]: Footnote: [S.R. 2016/65](https://www.legislation.gov.uk/nisr/2016/65).
